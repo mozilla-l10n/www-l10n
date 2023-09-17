@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Utwórz strefę wolną od śledzenia 
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = W { -brand-name-firefox(case: "loc") } możesz użyć ustawień <a href="{ $privacy }">prywatności</a> lub <a href="{ $blocking }">blokowania treści</a>, aby mieć jeszcze więcej kontroli nad elementami śledzącymi, które wyświetlają Ci reklamy.
 features-adblocker-choose-your-level-of-protection = Wybierz swój poziom ochrony
+features-adblocker-to-start-click-on-the-v2 = Aby zacząć, kliknij tarczę po lewej stronie paska adresu na dowolnej stronie i wybierz „Ustawienia ochrony”. Spowoduje to otwarcie w nowej karcie panelu prywatności i bezpieczeństwa ustawień { -brand-name-firefox(case: "gen") }. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Aby zacząć, kliknij menu { -brand-name-firefox(case: "gen") } w prawym górnym rogu ekranu. Wygląda ono jak trzy linie ułożone na siebie. W rozwijanym menu kliknij „Blokowanie treści”. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
 features-adblocker-go-easy-with-standard = Łagodne traktowanie w trybie standardowym
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Przyspiesz dzięki blokerom reklam
 features-adblocker-in-some-cases-an-ad-blocker = W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla { -brand-name-firefox(case: "gen") } i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez { -brand-name-firefox(case: "acc") }, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla { -brand-name-firefox(case: "gen") } i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez { -brand-name-firefox(case: "acc") }, to <a href="{ $url }">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.
-features-adblocker-take-control-of-your-browser = Pełna kontrola nad przeglądarką.

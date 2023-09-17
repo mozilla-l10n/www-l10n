@@ -560,12 +560,7 @@
         [loc] Bugzilli
     }
 -brand-name-glean = Glean
--brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
        *[nom]
@@ -599,7 +594,13 @@
                 [lower] dokumentacji MDN
             }
     }
--brand-name-mdn-plus = MDN Plus
+-brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
+-brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird =
     { $case ->
        *[nom] Thunderbird
