@@ -1,0 +1,16 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/features/fast/
+
+features-fast-is-firefox-the-fastest-browser = Является ли { -brand-name-firefox } самым быстрым браузером?
+# HTML description
+features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } использует меньше памяти, чем Chrome, поэтому другие ваши программы могут продолжать работать с максимальной скоростью.
+features-fast-browse-faster = Ускорение веб-серфинга
+# The odd punctuation here is meant to represent how a computer can run slow.
+features-fast-every-computer-program-you-run = Каждая компьютерная программа, которую вы запускаете, занимает определенный объем памяти. Если на вашем компьютере недостаточно памяти, это может привести к… значительному………… замедлению работы. { -brand-name-firefox } стремится к балансу: использование достаточного количества памяти для плавного просмотра веб-страниц и оставление достаточного количества памяти для обеспечения быстрого реагирования вашего компьютера.
+features-fast-multi-tasking-with-multiple-tabs = Многозадачность с несколькими вкладками
+features-fast-firefox-is-a-multi-process-browser = { -brand-name-firefox } — это многопроцессный браузер, а это означает, что ваши вкладки остаются свежими и не требуют вечной перезагрузки. Благодаря сокращению времени задержки на 86 % вы можете быстро переключаться между вкладками, даже если ваш внутренний голос говорит, что у вас открыто слишком много вкладок.
+features-fast-faster-gaming = Играйте быстрее
