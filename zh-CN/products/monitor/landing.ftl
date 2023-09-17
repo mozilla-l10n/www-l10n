@@ -16,6 +16,7 @@ monitor-hero-tagline = 我们会扫描您的数据是否曾遭外泄，并指导
 
 monitor-form-enter-email-to-scan = 输入需要扫描的邮箱地址
 monitor-form-get-free-scan = 免费扫描
+monitor-form-enter-your-email-address = 输入邮箱地址即可检查数据外泄事件。
 
 ##
 
