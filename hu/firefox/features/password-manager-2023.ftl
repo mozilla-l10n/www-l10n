@@ -18,13 +18,13 @@ password-manager-firefox-can-automatically-fill-in = A { -brand-name-firefox } k
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = A webhely bejelentkezési űrlapjának képe { -brand-name-firefox(case: "instrumental") }, amely több mentett fiókot mutat, amelyek közül választhat bejelentkezéskor.
 password-manager-import-passwords = Jelszavak importálása
-password-manager-you-can-use-the-import-wizard = Az importáló varázsló könnyen (varázsütésre) importálhatja a Chrome, Edge, Safari vagy bármely más böngészőben tárolt felhasználóneveit és jelszavait. Válassza a menü Jelszavak lehetőséget, majd kattintson a Bejelentkezések és jelszavak oldal alján lévő „{ -brand-name-firefox }ba importálásuk” gombra.
+password-manager-you-can-use-the-import-wizard = Az importáló varázsló könnyen (varázsütésre) importálhatja a Chrome, Edge, Safari vagy bármely más böngészőben tárolt felhasználóneveit és jelszavait. Válassza a menü Jelszavak lehetőséget, majd kattintson a Bejelentkezések és jelszavak oldal alján lévő „Importálás a { -brand-name-firefox }ba” gombra.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-import-wizard = A { -brand-name-firefox } importáló varázslójának képe, amely bemutatja a más böngészőkből történő beállítások és adatok importálását
-password-manager-no-more-reusing-your-passwords = Nincs több jelszavak újrafelhasználása
+password-manager-image-of-the-firefox-import-wizard = Kép a { -brand-name-firefox } importáló varázslójáról, amely bemutatja a más böngészőkből történő beállítás- és adatimportálást.
+password-manager-no-more-reusing-your-passwords = Nincsenek többé újból használt jelszavak
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
-password-manager-have-firefox-create-a-strong-unique = A { -brand-name-firefox } <a { $attrs }>hozzon létre egy erős, egyedi jelszót</a> minden egyes bejelentkezéséhez, így ha az egyik jelszavát feltörik egy adatvédelmi incidensen, csak erre az egy fiókra lesz hatással, a többi fiókra nem.
+password-manager-have-firefox-create-a-strong-unique = A { -brand-name-firefox } <a { $attrs }>hozzon létre egy erős, egyedi jelszót</a> minden egyes bejelentkezéséhez, így ha az egyik jelszavát feltörik egy adatvédelmi incidensben, az csak erre az egy fiókra lesz hatással, a többi fiókra nem.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = A weboldal regisztrációs űrlapjának képe, ahol a { -brand-name-firefox } erős jelszót sugall, amit automatikusan tárol a jövőbeli felhasználás céljából.
 password-manager-password-security-alerts = Jelszóbiztonsági figyelmeztetések
