@@ -8,7 +8,7 @@
 # page title
 pinned-tabs-pinned-browser-tabs = Rögzített böngészőlapok
 # HTML page description
-pinned-tabs-keep-your-favorite-pages-open = Tartsa nyitva kedvenc oldalait és tartsa csak egy kattintásnyira. Használja a Rögzített lapokat, hogy a levelező és az üzenetküldő alkalmazásait tartsa szemmel.
+pinned-tabs-keep-your-favorite-pages-open = Tartsa nyitva kedvenc oldalait, egyetlen kattintásnyira. Használja a Rögzített lapokat, hogy szemmel tartsa a levelező és az üzenetküldő alkalmazásait.
 pinned-tabs-pinning-a-tab-in-firefox-allows = A lapok { -brand-name-firefox }ban történő rögzítése lehetővé teszi, hogy a kedvenc webhelyei mindig nyitva maradjanak, és csak egy kattintásnyira legyenek. Automatikusan megnyílnak a { -brand-name-firefox } indításakor. Különösen hasznosnak találtuk őket, mert mindig kéznél tarthatják az olyan dolgok, mint a e-mail és a naptárwebhelyek.
 pinned-tabs-theyre-small-and-you-cant-close = Kicsiek, és nem zárhatja be véletlenül, mert nincs bezárás gomb. Ehelyett fel kell oldania őket.
 pinned-tabs-you-can-see-when-your-pinned-tabs = Láthatja, hogy mikor frissülnek a rögzített lapok, például ha új e-mailt vagy közvetlen üzenetet kap.
