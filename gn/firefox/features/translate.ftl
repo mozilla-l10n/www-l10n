@@ -11,7 +11,7 @@ features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohenda
 features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
 # Obsolete string
-features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojepuru hag̃ua arapy tuichakue.
+features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojeporu hag̃ua arapy tuichakue.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
 features-translate-the-internet-is = Ñanduti henyhẽ mba’eita porãgui, hákatu hetaiterei mba’e oĩ’ỹva España ñe’ẽme — upévare hetaiterei yvypóra arapy tuichakue oikotevẽ ñe’ẽasahára oiporu hag̃ua ñanduti. Ikatu <a { $attrs }>omboguejy { -brand-name-firefox } hetave 100 ñe’ẽme</a>, eguereko hag̃uáicha poravorã, marandu’i ha ñe’ẽmondo ne kundahára oĩ hag̃ua ne ñe’ẽme, hákatu péva ndoipe’apái apañuãi opaite tetepy eguerovia’ỹva ehekáva ne kundahára ndive.
 features-translate-firefox-translations = { -brand-name-firefox-translations }

@@ -8,7 +8,7 @@
 # HTML page title
 features-index-firefox-browser-features = { -brand-name-firefox } kundahára reheguaite
 # HTML page description
-features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojepurukuaáva opaite mba’e’oka ndive.
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojeporukuaáva opaite mba’e’oka ndive.
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
 features-index-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 features-index-free-password-manager = Ñe’ẽñemi reigua ñangarekoha

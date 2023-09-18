@@ -44,7 +44,7 @@ navigation-explore-the-immersive = Ejeporeka ñandutípe nde ñanduti añetegua 
 navigation-experience-augmented = Ehechakuaa pe oikóva tuichapyre ha ñandutiguáva { -brand-name-firefox } ndive.
 navigation-get-together = Eñembyaty ñanduti añetegua rupi ko pa’ũ atygua ñandutigua ndive.
 # Outdated string
-navigation-meet-people-in-experimental = Eikuaa tapicha ñomongetaha ojepururamóva { -brand-name-firefox } añetegya ikõiva ndive.
+navigation-meet-people-in-experimental = Eikuaa tapicha ñomongetaha ojeporuramóva { -brand-name-firefox } añetegya ikõiva ndive.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
@@ -97,7 +97,7 @@ navigation-donate-your-voice-to = Eme’ẽ ne ñe’ẽ eipytyvõ hag̃ua pe ñ
 navigation-machine-learning = Machine Learning
 # Outdated string
 navigation-web-of-things-iot = Ñanduti mba’eguáva (IoT)
-navigation-help-make-deep-learning = Eipytyvõ umi algoritmo mbokatupyryha tojepuru arapýpe ayvu ijurujáva rekópe.
+navigation-help-make-deep-learning = Eipytyvõ umi algoritmo mbokatupyryha tojeporu arapýpe ayvu ijurujáva rekópe.
 # Outdated string
 navigation-make-devices-connected = Ejapo umi mba’e’oka ñandutiguáva hekorosã, jeroviaha ha ambuépe hasyvetaha ijeporuse.
 navigation-developers = Mboguataharakuéra

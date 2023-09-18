@@ -44,7 +44,7 @@ manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } je’epy juap
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Roñeha’ãta romoĩ peteĩ ñanduti hesãiva
 manifesto-the-open-global-internet = Ñandutiveve juruja ha opavavépe g̃uarã niko tembiporu porãite ñañomomarandu hag̃ua ha avei ñamba’apo hag̃ua oñondive. Upévare ore roipota ha roha’ãrõ yvypóra oñakãrapu’ãve ohóvo. Ñandtiveve rupive jaikuaa mba’epyahu, ñamboja’o opavave ndive jaikuaáva ha ñañandúva ikatu hag̃uáicha romyatyrõ taha’eha’e apañuãi oĩva ha ombohasa’asýva tapichakuérape ñande yvy ape arigua.
-manifesto-over-the-last-decade-we = Pe pa aryetápe jahecha oiko jaipotáva heta hendáicha. Avei jaiko moañetehárõ ñanduti jepurupy mba’eguasuete jave ñemboja’o térã ñorairõse, ñembyai jeikovai  jejaposéguinte jejapopy añetegua. Rohechakuaa tekotevẽ ojepuru ñanduti hendapeve. Rojapose ko’ág̃a.
+manifesto-over-the-last-decade-we = Pe pa aryetápe jahecha oiko jaipotáva heta hendáicha. Avei jaiko moañetehárõ ñanduti jeporupy mba’eguasuete jave ñemboja’o térã ñorairõse, ñembyai jeikovai  jejaposéguinte jejapopy añetegua. Rohechakuaa tekotevẽ ojeporu ñanduti hendapeve. Rojapose ko’ág̃a.
 manifesto-we-are-committed-to-people = Roñeha’ãta rojapo peteĩ ñanduti oikepahápe opavavete tapicha arapy pegua, mba’evéichagua ava oñemboyke’ỹhápe ñanduti jeiképe, oĩhápe pa’ũ peteĩchaite opavavépe g̃uarã.
 manifesto-we-are-committed-to-discourse = Roñeha’ãta rojapo peteĩ ñanduti omongu’éva tapicha ñe’ẽ, ava rekoite ha peteĩteĩ he’iséva.
 manifesto-we-are-committed-to-thinking = Roñeha’ãta rojapo peteĩ ñanduti omongu’éva jepy’amongeta, ñe’ẽ poravopyre ha umi oikopyre ojehechakuaáva.

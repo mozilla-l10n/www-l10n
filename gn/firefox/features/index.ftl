@@ -12,7 +12,7 @@ features-index-youre-in-control-with-firefoxs = { -brand-name-firefox } rembiapo
 # Hero title
 features-index-firefox-features = { -brand-name-firefox } rembiapoite
 # Hero description
-features-index-firefox-is-fast = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha heko ñemíva ojepurukuaáva opaite mba’e’oka ndive.
+features-index-firefox-is-fast = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha heko ñemíva ojeporukuaáva opaite mba’e’oka ndive.
 features-index-add-powerful-functions = Embojuaju tembiapoite oiko ha eiporukuaáva, ikatúva ombovy’a ne kundahára { -brand-name-firefox }.
 features-index-see-all = Ehecha opaite jepysokue
 features-index-give-your-browser = Eme’ẽ ne kundahárape eipotaháicha hetaiterei téma iñambuéva.
