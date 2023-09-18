@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig �
 firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "accusative") } a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebben. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
+firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = A { -brand-name-firefox } elérhető az összes eszközén; vigye magával a lapjait, előzményeit és könyvjelzőit. Csak egy <a { $attrs }>{ -brand-name-firefox }-fiókra van szüksége</a>.

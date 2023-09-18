@@ -7,7 +7,7 @@
 
 features-private-browsing-private-browsing-mode = Privát böngészési mód
 # HTML page title
-features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } privát böngészési módot
+features-private-browsing-firefox-private-browsing-mode = A { -brand-name-firefox } privát böngészési módja
 # HTML page description
 features-private-browsing-firefox-protects = A { -brand-name-firefox } vigyáz az online adatvédelmére és blokkolja a nyomkövetőket, melyek követik a weben.
 features-private-browsing-if-you-share-a-computer = Ha másokkal közösen használja a számítógépet, vagy korlátozni szeretné, hogy mennyi adatot gyűjthessenek a webhelyek Önről, akkor a privát böngészést használhatja a { -brand-name-firefox }ban. A privát böngészés eltörli az online böngészés során hagyott digitális számokat – gondoljon úgy rájuk, mint lábnyomokra az erdőben.
