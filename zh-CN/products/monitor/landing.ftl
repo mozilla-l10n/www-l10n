@@ -36,7 +36,7 @@ monitor-here-is-how-we-help = 我们通过以下方式来保护您
 monitor-we-believe-in-your-right = 我们认为隐私是基本人权。因此，数据外泄监控保护服务永久免费。
 monitor-we-will-search-for-you = 在所有已知的数据外泄事件中搜索您的信息
 monitor-we-will-guide-you = 指导您采取措施，逐项解决外泄事件问题
-monitor-we-will-continuously = 我们会持续监测，并在发现新的外泄事件时向您发出警报
+monitor-we-will-continuously = 持续监测动态，并在发现新的外泄事件时向您发出警报
 monitor-sign-up-for-breach-alerts = 订阅数据外泄警报
 
 ## FAQ section
