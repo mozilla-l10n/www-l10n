@@ -30,6 +30,9 @@ monitor-data-leaks-are-unfortunately = 在数字生活中，数据外泄是躲�
 monitor-scan-your-email = 扫描邮箱地址，免费开始探查
 monitor-trusted-by-10-million = 全球 1000 万用户信任之选
 monitor-since-2018-we-have-helped = 自 2018 年以来，我们已帮助 237 个国家或地区的用户防止个人信息落入不法分子手中。
+# This string is followed by a list of media outlets
+monitor-as-seen-in = 曾受媒体推介
+monitor-we-believe-in-your-right = 我们认为隐私是基本人权。因此，数据外泄监控保护服务永久免费。
 
 ## FAQ section
 
