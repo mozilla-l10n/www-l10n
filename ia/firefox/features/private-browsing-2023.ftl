@@ -17,5 +17,8 @@ features-private-browsing-private-browsing-mode-opens = Le modalitate de navigat
 features-private-browsing-a-firefox-window-in-private = Un fenestra de navigator { -brand-name-firefox } in modo de navigar private.
 features-private-browsing-what-private-browsing-doesnt-do = Lo que non face le navigation private
 # Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Le modalitate Navigation private non delera ulle nove marcapaginas que tu preparara ab un fenestra de navigation private, e te protegera de malware e viruses. Illo totevia non impedi al sitos web que tu visita de vider ubi tu es physicamente ubicate e non stoppa tu fornitor de servicio internet registrar lo que tu face.
+# Variables:
 #   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Compara le navigation private de { -brand-name-firefox } con le <a href="{ $chrome }">modo in incognito de Chrome</a>.
