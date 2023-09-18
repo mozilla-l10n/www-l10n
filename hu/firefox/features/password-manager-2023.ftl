@@ -26,11 +26,11 @@ password-manager-no-more-reusing-your-passwords = Nincsenek többé újból hasz
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
 password-manager-have-firefox-create-a-strong-unique = A { -brand-name-firefox } <a { $attrs }>hozzon létre egy erős, egyedi jelszót</a> minden egyes bejelentkezéséhez, így ha az egyik jelszavát feltörik egy adatvédelmi incidensben, az csak erre az egy fiókra lesz hatással, a többi fiókra nem.
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-sign-up-form = A weboldal regisztrációs űrlapjának képe, ahol a { -brand-name-firefox } erős jelszót sugall, amit automatikusan tárol a jövőbeli felhasználás céljából.
+password-manager-image-of-a-websites-sign-up-form = A weboldal regisztrációs űrlapjának képe, ahol a { -brand-name-firefox } erős jelszót javasol, amelyet a jövőbeli felhasználás céljából automatikusan tárol.
 password-manager-password-security-alerts = Jelszóbiztonsági figyelmeztetések
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
-password-manager-firefox-alerts-you-if-a-password-has = A { -brand-name-firefox } <a { $attrs }>figyelmeztetést küldi, ha egy jelszava kikerült</a> egy adatvédelmi incidens során, így megváltoztathatja azt, még mielőtt a hackereknek esélyük nyílik arra, hogy béreljenek egy Lambót a hitelkártya.
+password-manager-firefox-alerts-you-if-a-password-has = A { -brand-name-firefox } <a { $attrs }>figyelmeztetést küld, ha egy jelszava kikerült</a> egy adatvédelmi incidens során, így megváltoztathatja azt, még mielőtt a hackereknek esélyük nyílik arra, hogy béreljenek egy Lambót a hitelkártyájával.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-password-manager = A kép a { -brand-name-firefox } jelszókezelőről, és a következő figyelmeztetést jeleníti meg: „Ezt a jelszót egy másik fiókban használták, amely valószínűleg adatsértésben volt érintett. A hitelesítő adatok újbóli felhasználása az összes fiókját veszélyezteti. Módosítsa ezt a jelszót.”
+password-manager-image-of-the-firefox-password-manager = Kép a { -brand-name-firefox } jelszókezelőjéről, amely a következő figyelmeztetést jeleníti meg: „Ezt a jelszót egy másik fiókban használták, amely valószínűleg adatvédelmi incidensben volt érintett. A hitelesítő adatok újbóli felhasználása az összes fiókját veszélyezteti. Módosítsa ezt a jelszót.”
