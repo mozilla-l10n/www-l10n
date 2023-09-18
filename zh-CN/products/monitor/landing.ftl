@@ -29,6 +29,7 @@ monitor-what-info-could-be = 哪些信息有外泄风险？
 monitor-data-leaks-are-unfortunately = 在数字生活中，数据外泄是躲不过的事情。密码、联系方式、财务信息等个人信息都有可能遭泄露，使得身份盗窃的威胁如影随形。
 monitor-scan-your-email = 扫描邮箱地址，免费开始探查
 monitor-trusted-by-10-million = 全球 1000 万用户信任之选
+monitor-since-2018-we-have-helped = 自 2018 年以来，我们已帮助 237 个国家或地区的用户防止个人信息落入不法分子手中。
 
 ## FAQ section
 
