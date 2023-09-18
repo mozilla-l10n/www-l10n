@@ -32,7 +32,10 @@ monitor-trusted-by-10-million = 全球 1000 万用户信任之选
 monitor-since-2018-we-have-helped = 自 2018 年以来，我们已帮助 237 个国家或地区的用户防止个人信息落入不法分子手中。
 # This string is followed by a list of media outlets
 monitor-as-seen-in = 曾受媒体推介
+monitor-here-is-how-we-help = 我们通过以下方式来保护您
 monitor-we-believe-in-your-right = 我们认为隐私是基本人权。因此，数据外泄监控保护服务永久免费。
+monitor-we-will-search-for-you = 在所有已知的数据外泄事件中搜索您的信息
+monitor-we-will-guide-you = 指导您采取措施，逐项解决外泄事件问题
 
 ## FAQ section
 
