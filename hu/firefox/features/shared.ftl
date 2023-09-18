@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox } funkciók
-features-shared-footer-cta-title = Végezzen el több mindent a { -brand-name-firefox }dal
+features-shared-footer-cta-title = Végezzen el több mindent a { -brand-name-firefox(case: "instrumental") }
 features-shared-footer-cta-desc = Szerezze be a gyors, könnyű, adatvédelem-központú böngészőt, amelyet egy nonprofit szervezet támogat, és az összes eszközén működik.
 features-shared-footer-cta-button = { -brand-name-firefox } letöltése
 features-shared-is-firefox-a-fast-browser = A { -brand-name-firefox } gyors böngésző?
