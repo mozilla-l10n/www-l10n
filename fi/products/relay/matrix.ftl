@@ -10,6 +10,9 @@ plan-matrix-title = Hinnoittelu
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Valitse sinulle sopiva suojaustaso
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } suojaa henkilöyttäsi ja postilaatikkoasi yksilöllisillä sähköpostimaskeilla. Hanki lisää turvallisuutta { -brand-name-relay }n puhelinmaskeilla ja säästä { $savings } % lisäämällä { -brand-name-mozilla-vpn } -suojaus.
 
 ## Top Row Labels
 
