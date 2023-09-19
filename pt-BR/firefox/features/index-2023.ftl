@@ -23,6 +23,7 @@ features-index-bookmark-manager = Gerenciador de favoritos
 features-index-organize-your-bookmarks-with = Organize seus favoritos com pastas e etiquetas.
 features-index-private-browsing-mode = Modo de navegação privativa
 features-index-automatically-delete-cookies = Exclua cookies automaticamente e apague o histórico do navegador ao fechar.
+features-index-firefox-add-ons-and-browser-extensions = Extensões do navegador { -brand-name-firefox }
 features-index-pinned-browser-tabs = Abas do navegador fixadas
 features-index-keep-your-favorite-pages-open = Mantenha suas páginas preferidas abertas e a apenas um clique de distância. Use abas fixadas para ficar de olho em seus aplicativos de email ou mensagem.
 features-index-eyedropper-tool = Ferramenta de seleção de cores
