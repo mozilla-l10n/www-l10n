@@ -72,6 +72,7 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Ҳамоҳангсозии Firefox
 -brand-name-firefox-translations = Firefox Translations
@@ -103,14 +104,15 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии MDN
 -brand-name-mozilla-common-voice = «Mozilla Common Voice»
 -brand-name-mozilla-developer-network = Шабакаи барномасозони «Mozilla»
 -brand-name-mozilla-festival = Ҷашнвораи «Mozilla»
 -brand-name-mozilla-hubs = Маҳфилҳои «Mozilla»
 -brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии MDN
--brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
