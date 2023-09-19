@@ -15,7 +15,7 @@ monitor-hero-tagline = Átvizsgáljuk az adatvédelmi incidenseket, hogy megtudj
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = Itt adja meg az e-mail címét a kereséshez
-monitor-form-get-free-scan = Kapjon ingyenes vizsgálatot
+monitor-form-get-free-scan = Ellenőrzés kérése
 monitor-form-enter-your-email-address = Adja meg az e-mail-címét, hogy ellenőrizze az adatvédelmi incidenseket.
 
 ##
@@ -31,7 +31,7 @@ monitor-scan-your-email = Vizsgálja meg az e-mail-címét az ingyenes kezdéshe
 monitor-trusted-by-10-million = 10 millió ember bízik benne világszerte
 monitor-since-2018-we-have-helped = 2018 óta 237 országban segítettünk az embereknek megakadályozni, hogy személyes adataik rossz kezekbe kerüljenek.
 # This string is followed by a list of media outlets
-monitor-as-seen-in = A sajtóban
+monitor-as-seen-in = A sajtóban:
 monitor-here-is-how-we-help = Így segítünk a védelmében
 monitor-we-believe-in-your-right = Hiszünk az adatvédelemhez való jogban, ezért az adatvédelmi incidensek elleni védelem mindig ingyenes.
 monitor-we-will-search-for-you = Keresni fogjuk az összes ismert adatvédelmi incidensben

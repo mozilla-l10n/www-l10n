@@ -17,7 +17,7 @@ hero-section-body =
     csak a kívánt leveleket kapja meg a postaládájában.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
-hero-section-social-proof = A sajtóban
+hero-section-social-proof = A sajtóban:
 
 ## HOW IT WORKS SECTION
 
