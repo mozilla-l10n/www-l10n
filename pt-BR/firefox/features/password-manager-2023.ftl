@@ -19,4 +19,9 @@ password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } p
 password-manager-image-of-a-websites-login-form = Imagem do formulário de entrar na conta de um site, com o { -brand-name-firefox } mostrando várias contas salvas para você escolher ao entrar.
 password-manager-import-passwords = Importe senhas
 password-manager-no-more-reusing-your-passwords = Chega de reusar suas senhas
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Use o { -brand-name-firefox } para <a { $attrs }>criar uma senha forte exclusiva</a> para cada conta que você tiver na internet. Assim, se uma de suas senhas for descoberta através de um vazamento de dados, isso afetaria apenas uma conta, não as demais.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Imagem de um formulário de cadastro de conta de um site, com o { -brand-name-firefox } sugerindo uma senha forte, que será automaticamente guardada para uso futuro.
 password-manager-password-security-alerts = Alertas de segurança de senha
