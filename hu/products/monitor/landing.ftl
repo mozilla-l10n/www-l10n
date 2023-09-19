@@ -13,9 +13,12 @@ monitor-hero-tagline = Átvizsgáljuk az adatvédelmi incidenseket, hogy megtudj
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = Itt adja meg az e-mail címét a kereséshez
+monitor-form-enter-your-email-address = Adja meg az e-mail-címét, hogy ellenőrizze az adatvédelmi incidenseket.
 
 ##
 
+monitor-data-breaches-happen-every = 11 percenként történik egy <strong>adatvédelmi incidens</strong>, amelyben kikerülhetnek a személyes adatai – de ne aggódjon, segíthetünk.
+monitor-help-fix-exposures = Segítünk javítani a kitettségeit
 
 ## FAQ section
 
