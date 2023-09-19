@@ -23,4 +23,4 @@ whatsnew-out-of-date-notification-v2 = Egy újabb { -brand-name-firefox } verzi�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Olvassa el a <a href="{ $url }">Frissítés részleteit</a>, amelyből még több információt kaphat a { -brand-name-firefox } böngésző újdonságairól.
-whatsnew-signoff = <strong>A { -brand-name-mozilla } motorháztetője.</strong> Az embereket helyezi a profit elé 1998 óta.
+whatsnew-signoff = <strong>A { -brand-name-mozilla } támogatásával.</strong> Az emberek a profit elé helyezése, 1998 óta.
