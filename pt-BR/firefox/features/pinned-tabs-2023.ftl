@@ -9,3 +9,4 @@
 pinned-tabs-pinned-browser-tabs = Abas do navegador fixadas
 # HTML page description
 pinned-tabs-keep-your-favorite-pages-open = Mantenha suas páginas preferidas abertas e a apenas um clique de distância. Use abas fixadas para ficar de olho em seus aplicativos de email ou mensagem.
+pinned-tabs-pinning-a-tab-in-firefox-allows = Fixar abas no { -brand-name-firefox } permite manter seus sites preferidos sempre abertos e a apenas um clique de distância. Abas fixadas são abertas automaticamente ao iniciar o { -brand-name-firefox }. Descobrimos que são especialmente úteis para manter coisas como sites de email e agenda sempre à mão.
