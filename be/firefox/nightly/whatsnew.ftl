@@ -10,3 +10,4 @@
 nightly-whatsnew-youve-just-been = Вы толькі што абнавіліся да { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = Ваш { -brand-name-firefox-nightly } быў паспяхова абноўлены.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = Кожныя 4-5 тыдняў выходзіць новая асноўная версія { -brand-name-firefox }, і ў выніку версія { -brand-name-nightly } таксама павялічваецца.
