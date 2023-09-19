@@ -10,8 +10,14 @@ compare-shared-yes = Ҳа
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Не
 compare-shared-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
+compare-shared-bookmark-manager = Мудири хатбаракҳо
 compare-shared-text-to-speech = Матн ба нутқ
+compare-shared-reader-mode = Реҷаи хонанда
 compare-shared-spell-checking = Санҷиши имло
+compare-shared-password-management = Идоракунии ниҳонвожаҳо
+compare-shared-primary-password = Ниҳонвожаи асосӣ
+# Obsolete string
+compare-shared-master-password = Ниҳонвожаи хусусӣ
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
