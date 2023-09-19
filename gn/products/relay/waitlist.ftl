@@ -33,8 +33,8 @@ waitlist-subscribe-success-title = ¡Aguyje! Eiméma tysýipe
 #      - { -brand-name-relay-premium }
 #      - { waitlist-bundle-name }
 #      - { waitlist-phone-name }
-waitlist-subscribe-success-email-desc = Ikatúvo { -brand-name-relay-premium } ojepuru reikohápe, romondóta ndéve ñanduti veve.
-waitlist-subscribe-success-phone-desc = Ikatúvo { -brand-name-relay } pumbyry rovamo’ãha ojepuru reikohápe, romondóta ndéve ñanduti veve.
+waitlist-subscribe-success-email-desc = Ikatúvo { -brand-name-relay-premium } ojeporu reikohápe, romondóta ndéve ñanduti veve.
+waitlist-subscribe-success-phone-desc = Ikatúvo { -brand-name-relay } pumbyry rovamo’ãha ojeporu reikohápe, romondóta ndéve ñanduti veve.
 waitlist-subscribe-success-bundle-desc = Ikatúvo { -brand-name-relay } +{ -brand-name-vpn } ojeporu reikohápe, romondóta ndéve ñanduti veve.
 waitlist-subscribe-please-enter-a-valid = Ikatúpa ehai ñanduti veve kundaharape oikóva
 waitlist-subscribe-please-select-country = Eiporavomína tetã térã tendaguasu
