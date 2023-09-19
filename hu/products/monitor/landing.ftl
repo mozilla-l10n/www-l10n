@@ -12,6 +12,7 @@ monitor-hero-tagline = Átvizsgáljuk az adatvédelmi incidenseket, hogy megtudj
 
 ## Get free scan form
 
+monitor-form-enter-email-to-scan = Itt adja meg az e-mail címét a kereséshez
 
 ##
 
