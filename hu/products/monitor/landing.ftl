@@ -27,7 +27,7 @@ monitor-help-fix-exposures = Segítünk javítani a kitettségeit
 monitor-our-mission-is = A küldetésünk, hogy visszaadjuk az Ön kezébe a személyes adatai feletti irányítást. Segítünk megoldani az adatvédelmi incidenseket, és bizalmasan kezeljük az adatait – valamint <a href="{ $privacy }">tiszteletben tartjuk az adatvédelmét</a> a folyamat során.
 monitor-what-info-could-be = Milyen információk lehetnek veszélyben?
 monitor-data-leaks-are-unfortunately = Az adatszivárgás sajnos a digitális életünk része. Jelszavai, elérhetőségei, pénzügyi információi és más személyes adatai is kikerülhetnek, amivel személyazonosság-lopás áldozata lehet.
-monitor-scan-your-email = Nézzen rá az e-mail-címére az ingyenes kezdéshez
+monitor-scan-your-email = Vizsgálja meg az e-mail-címét az ingyenes kezdéshez
 monitor-trusted-by-10-million = 10 millió ember bízik benne világszerte
 monitor-since-2018-we-have-helped = 2018 óta 237 országban segítettünk az embereknek megakadályozni, hogy személyes adataik rossz kezekbe kerüljenek.
 # This string is followed by a list of media outlets
