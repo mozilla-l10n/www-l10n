@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Што новага ў { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Што новага ў { -brand-name-firefox } — Больш прыватнасці, больш аховы.
 whatsnew-page-description = Выступіце супраць прамысловасці, якая прадае вашы дадзеныя трэцім асобам. Будзьце разумныя і бяспечныя ў інтэрнэце з дапамогай тэхналогій, якія змагаюцца за вас.
 whatsnew-firefox = { -brand-name-firefox }
@@ -21,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Даступны яшчэ навейшы 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Прачытайце <a href="{ $url }">заўвагі пры выпуску</a>, каб даведацца больш, што новага ў браўзеры { -brand-name-firefox }.
+whatsnew-signoff = <strong>Створана { -brand-name-mozilla }.</strong> Ставім людзей вышэй за прыбытак з 1998 года.
