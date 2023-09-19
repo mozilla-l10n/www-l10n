@@ -18,6 +18,7 @@ password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } p
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Imagem do formulário de entrar na conta de um site, com o { -brand-name-firefox } mostrando várias contas salvas para você escolher ao entrar.
 password-manager-import-passwords = Importe senhas
+password-manager-you-can-use-the-import-wizard = Você pode usar o assistente de importação para importar facilmente (magicamente) nomes de usuário e senhas armazenados no Chrome, Edge, Safari ou qualquer outro navegador. Selecione Senhas no menu e clique em “importar para o { -brand-name-firefox }” na parte inferior da página Contas e senhas.
 password-manager-no-more-reusing-your-passwords = Chega de reusar suas senhas
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
