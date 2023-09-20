@@ -7,7 +7,7 @@
 
 features-shared-firefox-features = Nodweddion { -brand-name-firefox }
 features-shared-footer-cta-title = Gwnewch fwy gyda { -brand-name-firefox }
-features-shared-footer-cta-desc = Sicrhewch y porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd a gefnogir gan weithiwr di-elw ac sy'n gweithio ar draws eich holl ddyfeisiau.
+features-shared-footer-cta-desc = Defnyddiwch y porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd sy'n cael ei gefnogi  gan gorff dim-er-elw ac sy'n gweithio ar draws eich holl ddyfeisiau.
 features-shared-footer-cta-button = Llwytho { -brand-name-firefox } i Lawr
 features-shared-is-firefox-a-fast-browser = Ydy { -brand-name-firefox } yn borwr cyflym?
 features-shared-is-firefox-a-private-browser = A yw { -brand-name-firefox } yn borwr preifat?
