@@ -5,14 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
-features-private-browsing-private-browsing-mode = Modd pori preifat
+features-private-browsing-private-browsing-mode = Y modd pori preifat
 # HTML page title
-features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } modd pori preifat
+features-private-browsing-firefox-private-browsing-mode = Modd pori preifat { -brand-name-firefox }
 # HTML page description
 features-private-browsing-firefox-protects = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ar-lein ac yn rhwystro tracwyr sy'n eich dilyn o amgylch y we.
 features-private-browsing-if-you-share-a-computer = Os ydych yn rhannu cyfrifiadur gyda phobl eraill neu os ydych am gyfyngu ar faint o ddata y gall gwefannau ei gasglu amdanoch, gallwch ddefnyddio modd pori preifat yn { -brand-name-firefox }. Mae pori preifat yn dileu'r traciau digidol rydych chi'n eu gadael ar ôl pan fyddwch chi'n pori ar-lein - meddyliwch amdanyn nhw fel olion traed trwy'r coed.
 features-private-browsing-what-does-private-browsing-do = Beth mae pori preifat yn ei wneud?
-features-private-browsing-private-browsing-mode-opens = Mae modd pori preifat yn agor ffenestr porwr newydd. Pan fyddwch chi'n ei chau, bydd eich hanes pori ar gyfer y ffenestr honno ac unrhyw gwcis olrhain o wefannau y gwnaethoch chi ymweld â nhw yn cael eu dileu. <strong>{ -brand-name-firefox } Cyngor Pro:</strong> Peidiwch ag anghofio cau'r ffenestr bori breifat pan fyddwch wedi gorffen!
+features-private-browsing-private-browsing-mode-opens = Mae'r modd pori preifat yn agor ffenestr porwr newydd. Pan fyddwch chi'n ei chau, bydd eich hanes pori ar gyfer y ffenestr honno ac unrhyw gwcis tracio o wefannau y gwnaethoch chi ymweld â nhw yn cael eu dileu. <strong>{ -brand-name-firefox } Cyngor Da:</strong> Peidiwch ag anghofio cau'r ffenestr bori breifat pan fyddwch wedi gorffen!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Ffenestr porwr { -brand-name-firefox } yn y modd pori preifat.
 features-private-browsing-what-private-browsing-doesnt-do = Yr hyn nad yw pori preifat yn ei wneud
