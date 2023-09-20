@@ -12,6 +12,7 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e 
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
 features-index-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 features-index-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
+features-index-customize-your-firefox-browser = Emboheraite { -brand-name-firefox } kundahára
 features-index-firefox-browser-sync = { -brand-name-firefox } kundahára ñemboheko
 features-index-bookmark-manager = Techaukaha ñangarekoha
 features-index-private-browsing-mode = Kundaha ñemigua reko

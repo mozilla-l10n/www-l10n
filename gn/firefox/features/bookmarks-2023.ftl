@@ -7,5 +7,8 @@
 
 # page title
 bookmark-manager-bookmark-manager = Techaukaha ñangarekoha
+# HTML page description
+bookmark-manager-organize-your-bookmarks-with = Emohenda nde rechaukaha ñongatuha ha teramoĩ ndive.
+bookmark-manager-organize-your-boomarks-into = Emohenda nde rechaukaha ñongatuha ehekakuaahápe
 bookmark-manager-easily-import-bookmarks = Techaukaha jegueru hasy’ỹre
 bookmark-manager-bookmarks-toolbar = Techaukaha rembiporu renda

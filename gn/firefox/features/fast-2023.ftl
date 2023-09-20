@@ -7,4 +7,5 @@
 
 features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } ha’e kundahára ipya’éva
 features-fast-browse-faster = Eikundaha pya’eve
+features-fast-multi-tasking-with-multiple-tabs = Tembiapoita tendaykeita ndive
 features-fast-faster-gaming = Ñembosarái pya’evéva
