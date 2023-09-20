@@ -26,6 +26,7 @@ monitor-help-fix-exposures = 我們可協助您處理遭到外洩的資料
 #   $privacy (url) - https://www.mozilla.org/privacy/
 monitor-our-mission-is = 我們的使命是要讓您能夠自行控制自己的個人資料。我們會協助您處理資料外洩事件，並協助您保持資料的隱私 — 這個過程當然也會<a href="{ $privacy }">尊重您的隱私</a>。
 monitor-what-info-could-be = 哪些資訊可能有風險？
+monitor-data-leaks-are-unfortunately = 我們的數位生活常會遇到資料外洩事件。您的密碼、聯絡資訊、財務資訊等個資都可能遭到外洩，讓您的身分有遭受盜用的風險。
 monitor-scan-your-email = 掃描您的電子郵件地址，即可免費使用
 monitor-trusted-by-10-million = 受全球千萬使用者信任
 monitor-since-2018-we-have-helped = 自 2018 年起，我們已幫助全球超過 237 個國家的使用者，保護個資不落入他人之手。
