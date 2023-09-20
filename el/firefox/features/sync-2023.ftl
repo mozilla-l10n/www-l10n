@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/sync/
 
+# page title
+features-sync-firefox-browser-sync = Συγχρονισμός { -brand-name-firefox }
 features-sync-send-tabs-from-one-device-to-another = Αποστολή καρτελών από τη μια συσκευή στην άλλη

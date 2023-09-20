@@ -7,3 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Επεξεργασία PDF
+pdf-editor-fill-in-forms-online-without = Συμπλήρωση ηλεκτρονικών φορμών χωρίς εκτύπωση και σάρωση
+pdf-editor-add-text = Προσθήκη κειμένου
+pdf-editor-add-drawings-or-your-signature = Προσθήκη σχεδίων (ή της υπογραφής σας)

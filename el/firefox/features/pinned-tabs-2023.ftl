@@ -7,3 +7,4 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Καρφιτσωμένες καρτέλες
+pinned-tabs-you-can-see-when-your-pinned-tabs = Μπορείτε να δείτε πότε ενημερώνονται οι καρφιτσωμένες καρτέλες σας, για παράδειγμα, εάν λάβετε ένα νέο email ή άμεσο μήνυμα.

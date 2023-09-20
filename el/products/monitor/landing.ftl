@@ -8,6 +8,7 @@
 
 ## Get free scan form
 
+monitor-form-get-free-scan = Δωρεάν σάρωση
 
 ##
 

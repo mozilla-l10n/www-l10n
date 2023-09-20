@@ -74,3 +74,4 @@ firefox-more-more-and-more = Όλο και περισσότερα ευαίσθη
 firefox-more-avoid-misinformation-heading = Αποφύγετε την παραπληροφόρηση – το { -brand-name-firefox } είναι εδώ για εσάς
 firefox-more-avoid-misinformation-desc = Δείτε τις συμβουλές μας για λιγότερη παραπληροφόρηση και εστίαση σε ό,τι είναι σημαντικό για εσάς.
 firefox-more-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό πρόγραμμα περιήγησης;
+firefox-more-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας για ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
