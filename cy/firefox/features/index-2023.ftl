@@ -37,6 +37,6 @@ features-index-firefox-automatically-blocks = Mae { -brand-name-firefox } yn rhw
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Rhowch y gorau i'r hysbysebion gludiog sy'n eich dilyn o gwmpas gyda rhwystrydd bysbrintio mewnol { -brand-name-firefox }.
 features-index-translate-the-web = Cyfieithu'r we
-features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith yn uniongyrchol yn eich porwr { -brand-name-firefox } — yn haws nag erioed.
-features-index-picture-in-picture = Llun mewn Llun
+features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith yn syth yn eich porwr { -brand-name-firefox } — yn haws nag erioed.
+features-index-picture-in-picture = Llun-mewn-Llun
 features-index-got-things-to-do = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.

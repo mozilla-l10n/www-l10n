@@ -8,11 +8,11 @@
 # HTML page title
 password-manager-free-password-manager = Rheolwr cyfrinair am ddim
 # HTML page description
-password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } Mae Rheolwr Cyfrineiriau yn cadw'ch holl gyfrineiriau mewn un lle er mwyn i chi allu mewngofnodi'n awtomatig i wefannau, neu adfer cyfrineiriau sydd wedi'u cadw.
-password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn storio'ch enwau defnyddwyr a'ch cyfrineiriau ar gyfer cyrchu gwefannau yn ddiogel, yn eu llenwi'n awtomatig i chi y tro nesaf y byddwch yn ymweld â gwefan, ac yn gadael i chi reoli'ch mewngofnodion sydd wedi'u storio gyda'i nodwedd rheoli cyfrinair adeiledig.
+password-manager-firefox-password-manager-saves-all = Mae Rheolwr Cyfrineiriau { -brand-name-firefox } yn cadw'ch holl gyfrineiriau mewn un lle er mwyn i chi allu mewngofnodi'n awtomatig i wefannau, neu adfer cyfrineiriau sydd wedi'u cadw.
+password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn storio'ch enwau defnyddwyr a'ch cyfrineiriau ar gyfer mynd i wefannau'n ddiogel, yn eu llenwi'n awtomatig i chi y tro nesaf y byddwch yn ymweld â gwefan, ac yn gadael i chi reoli'ch mewngofnodion wedi'u cadw gyda'i nodwedd rheoli cyfrinair mewnol.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Gyda <a href="{ $fxa }">{ -brand-name-firefox-account } am ddim</a> gallwch gysoni'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau.
+password-manager-with-a-free-firefox-account = Gyda chyfrif <a href="{ $fxa }">{ -brand-name-firefox-account } am ddim</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau.
 password-manager-password-autofill-for-easy-logins = Awtolenwi cyfrinair ar gyfer mewngofnodi hawdd
 password-manager-firefox-can-automatically-fill-in = Gall { -brand-name-firefox } lenwi eich enw defnyddiwr a chyfrinair sydd wedi'u cadw yn awtomatig. Os oes gennych fwy nag un mewngofnodi ar gyfer gwefan, gallwch ddewis y cyfrif rydych ei eisiau a byddwn yn ei gymryd oddi yno.
 # Used as an accessible text alternative for an image
