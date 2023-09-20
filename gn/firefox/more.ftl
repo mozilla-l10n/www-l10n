@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Eikuaave { -brand-name-firefox } kundahára rehegua ha apopyr
 learn-more-faq = { -brand-name-firefox } FAQ
 the-history-of = Ñanduti kundahára rembiasakue
 firefox-has-been = { -brand-name-firefox } oĩ nendive ñepyrũhaite guive.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Oñemoaña ojehekáre chupe
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } ijehegui ha oykekóva chupe { -brand-name-mozilla }, atyguasu reiguáva, oñorairõva nde derécho rehe ñandutípe ha ojapo ñandutígui opavavépe g̃uarã, opaite hendápe.
 what-is-a = ¿Mba’e Ñanduti kundahára?
 a-web-browser = Peteĩ kundahára ndereraha oimeraẽva ñanduti rendápe, ohechaukakuaáva moñe’ẽrã, ta’ãnga ha ta’ãngamýi arapy tuichakue javegua.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox } ndaha’éi kundahára año
 its-a-lightning = Ha’e peteĩ okẽ ipya’etereíva tembiaporã ñandutípe g̃uarã.
 get-the-browsers = Ereko kundahára omotenondéva ne ñemigua — ojapovavoi opa ára
 get-the-privacy = Eguereko pe ñemigua eikotevẽva. Pe ñemo’ã tapykuehoha iporãvéva ha ijeheguíva opaite Firefox kundaharakuérape.
-take-your-passwords = Egueraha ne ñe’ẽñemi opa hendápe
-securely-access-the = Eike tekorosãme ñe’ẽñemi eñongatupyréva { -brand-name-firefox }-pe oimeraẽva tendágui — avei kundahára okayguágui.
 choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguejýta ne ñe’ẽtépe
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } { -brand-name-chromebook } peg̃uarã
 firefox-more-while-on-chromebook = Orekomarojepe { -brand-name-chromebook } mohendapyre { -brand-name-chrome }, omboguejy ha oipurúvo { -brand-name-firefox } ne kundahára iporãvévarõ, erekóta hetaiterei mba’eporã:
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ivéma jep
 were-obsessed-with = Ore jepy’apy ha’e hína ne ñemigua ñemo’ãve. Upévare rojapo { -brand-name-firefox } kundahára ñemigua imbaretevéva opavavégui.
 incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
 firefox-calls-it = { -brand-name-firefox } ombohéra kundaha ñemigua, { -brand-name-chrome } ohenói ñemimby ayvu. Mokõivéva omoneĩ eikundahávo ñandutípe oñongatu’ỹre ne kundahára rembiasakue.
+# Obsolete string
 take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
+# Obsolete string
 building-a-safe = Kundahára hekorosãva jejapo ha’e tekoporã ha avei mba’ekuaa ndorekóire mbojojaha.
 firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
 firefox-more-fingerprinting-is-a = Ñemokuãhũ (fingerprinting) ñemoheñói ha’e peteĩ tapykuehoha ñandutípe imbaretéva tapykuehoha oĩvagui kookie-pe; upévare { -brand-name-firefox-browser } ojokóma.
@@ -71,3 +73,4 @@ firefox-more-a-guide-to = Tape tembiapo ñepyrũme g̃uarã ha ñe’ẽñemi he
 firefox-more-more-and-more = Ára ha ára hetave mba’e ñande rekovépe omo’ã mo’ãve ñe’ẽñemi.
 firefox-more-avoid-misinformation-heading = Emboyke marandu’ỹ ñandutípe – { -brand-name-firefox } ápe ne pytyvõkuaa
 firefox-more-avoid-misinformation-desc = Ehechami ko’ã ñemoñe’ẽ emboykeve hag̃ua marandu’ỹ ha emomba’eve umi mba’e ehahuvéva.
+firefox-more-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?

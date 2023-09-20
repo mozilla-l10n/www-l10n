@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Emoñe’ẽasa ñanduti ne mohenda
 # page description
 features-translate-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’épe nde { -brand-name-firefox-browser } guive - ndahasyive ko’ág̃a rupi ijapo.
 features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Emoñe’ẽasa ñanduti
 # Obsolete string
 features-translate-the-google-translate = Jepysokue To { -brand-name-google } Translate { -brand-name-firefox } ombojuruja ñanduti ojeporu hag̃ua arapy tuichakue.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
