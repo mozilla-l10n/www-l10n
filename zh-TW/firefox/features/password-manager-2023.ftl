@@ -8,15 +8,15 @@
 # HTML page title
 password-manager-free-password-manager = 免費密碼管理員
 # HTML page description
-password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密碼管理員可將您的所有密碼儲存起來這樣就可以自動登入各個網站或找回已存的密碼。
-password-manager-firefox-securely-stores-your = { -brand-name-firefox } 安全地儲存您用來開啟網站的帳號與密碼在您下次造訪網站時自動為您填寫並讓您可透過內建的密碼管理功能來管理登入資訊。
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密碼管理員可將您的所有密碼儲存起來，這樣就可以自動登入各個網站，或找回已存的密碼。
+password-manager-firefox-securely-stores-your = { -brand-name-firefox } 會安全地儲存您用來開啟網站的帳號與密碼，當您下次造訪網站時，即可自動填寫這些資訊。您也可以透過內建的密碼管理功能來管理登入資訊。
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = 透過<a href="{ $fxa }">免費的 { -brand-name-firefox-account }</a>您可以安全地在所有裝置間同步密碼。
+password-manager-with-a-free-firefox-account = 您可以透過<a href="{ $fxa }">免費的 { -brand-name-firefox-account }</a>，安全地在所有裝置間同步密碼。
 password-manager-password-autofill-for-easy-logins = 自動填寫密碼，讓您輕鬆登入
-password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可自動填寫您儲存的帳號與密碼。若您對一個網站有超過一組的登入資訊您可以直接選擇要使用的帳號我們就會把該帳號登入。
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可自動填寫儲存的帳號與密碼。若您對單一網站有超過一組登入資訊，可以直接選擇要使用的帳號，我們就會以該帳號登入網站。
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-login-form = 某網站使用 { -brand-name-firefox } 的登入表單圖片顯示多個儲存的帳號供您在登入時選擇。
+password-manager-image-of-a-websites-login-form = 登入網站時，{ -brand-name-firefox } 在網站登入表單顯示多組帳號資訊供選擇的示意圖。
 password-manager-import-passwords = 匯入密碼
 password-manager-you-can-use-the-import-wizard = 您可以使用匯入精靈很簡單就能匯入儲存在 Chrome、Edge、Safari 或任何其他瀏覽器上的使用者名稱與密碼。選擇選單中的密碼然後點擊登入與密碼頁面底端的「匯入至 { -brand-name-firefox }」。
 # Used as an accessible text alternative for an image
