@@ -18,12 +18,19 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = 登入網站時，{ -brand-name-firefox } 在網站登入表單顯示多組帳號資訊供選擇的示意圖。
 password-manager-import-passwords = 匯入密碼
-password-manager-you-can-use-the-import-wizard = 您可以使用匯入精靈很簡單就能匯入儲存在 Chrome、Edge、Safari 或任何其他瀏覽器上的使用者名稱與密碼。選擇選單中的密碼然後點擊登入與密碼頁面底端的「匯入至 { -brand-name-firefox }」。
+password-manager-you-can-use-the-import-wizard = 您可以使用匯入精靈，很輕鬆就能匯入儲存在 Chrome、Edge、Safari 或任何其他瀏覽器上的使用者名稱與密碼。從選單選擇「密碼」，然後點擊「登入資訊與密碼」頁面底端的「匯入 { -brand-name-firefox }」。
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 匯入精靈對話框的圖片顯示用來從其他瀏覽器匯入設定與資料的選項。
+password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 匯入精靈對話框的示意圖，顯示從其他瀏覽器匯入設定與資料的選項。
 password-manager-no-more-reusing-your-passwords = 不再重複使用密碼
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = 讓 { -brand-name-firefox } 為您上網時使用的每筆帳號<a { $attrs }>產生強大而不同的密碼</a> 。這樣一來，若您的密碼遭到駭客外流，只會影響被外流的帳號，而不會連帶影響其他帳號。
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-sign-up-form = 一張 { -brand-name-firefox } 網站註冊表單中會自動提示一組會自動儲存以供未來使用的高強度密碼的圖片。
+password-manager-image-of-a-websites-sign-up-form = 一張在網站註冊表單中，{ -brand-name-firefox } 會自動提示高強度密碼，且可自動儲存供未來使用的示意圖。
 password-manager-password-security-alerts = 密碼安全警告
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } 會在<a { $attrs }>您的密碼遭到外洩時發出警告</a>，這樣就能在駭客盜刷您的信用卡前先採取行動。
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } 的密碼管理員顯示「此密碼已用於其他可能已遭外洩的帳號。重複使用登入資訊會讓您的所有帳號遭受風險。請修改此密碼。」
+password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } 的密碼管理員顯示「此密碼使用於可能已遭外洩的另一組帳號。重複使用登入資訊會讓您的所有帳號都蒙受風險。請更改此密碼。」警告的示意圖。
