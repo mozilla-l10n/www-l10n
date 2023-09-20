@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-firefox-browser-features = { -brand-name-firefox } nodweddion porwr
+features-index-firefox-browser-features = Nodweddion porwr { -brand-name-firefox }
 # HTML page description
-features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } yw'r porwr cyflym, ysgafn sy'n canolbwyntio ar breifatrwydd sy'n gweithio ar draws eich holl ddyfeisiau.
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } yw'r porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd ac yn gweithio ar draws eich holl ddyfeisiau.
 features-index-is-firefox-a-fast-browser = Ydy { -brand-name-firefox } yn borwr cyflym?
 features-index-firefox-uses-less-memory-than = Mae { -brand-name-firefox } yn defnyddio llai o gof na Chrome, felly gall eich rhaglenni eraill barhau i redeg ar gyflymder uchel.
 features-index-is-firefox-a-private-browser = A yw { -brand-name-firefox } yn borwr preifat?
