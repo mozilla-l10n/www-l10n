@@ -7,6 +7,10 @@
 
 # HTML page title
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — 保護您的個人資料不被外洩
+# HTML page description
+monitor-landing-page-desc = 查看您的個人資訊，不論是電話號碼或是住家地址，是否已遭洩漏至網路上。與全球超過一千萬使用者一同找回自己的隱私。免費進行掃描。
+monitor-hero-heading = 看看您的私人資訊是否已遭外洩 — 並且取回控制權
+monitor-hero-tagline = 我們可掃描已知的資安事件，看看您的資料是否已遭外洩並建議您處理方式。
 
 ## Get free scan form
 
@@ -16,7 +20,11 @@ monitor-form-enter-your-email-address = 輸入您的電子郵件地址，即可�
 
 ##
 
+monitor-data-breaches-happen-every = 每 11 分鐘就會發生一場<strong>資料外洩事件</strong>，讓私人資訊遭到公開 — 別擔心，我們可以幫忙。
 monitor-help-fix-exposures = 我們可協助您處理遭到外洩的資料
+# Variables:
+#   $privacy (url) - https://www.mozilla.org/privacy/
+monitor-our-mission-is = 我們的使命是要讓您能夠自行控制自己的個人資料。我們會協助您處理資料外洩事件，並協助您保持資料的隱私 — 這個過程當然也會<a href="{ $privacy }">尊重您的隱私</a>。
 monitor-what-info-could-be = 哪些資訊可能有風險？
 monitor-scan-your-email = 掃描您的電子郵件地址，即可免費使用
 monitor-trusted-by-10-million = 受全球千萬使用者信任
