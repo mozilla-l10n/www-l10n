@@ -5,16 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/products/monitor/
 
+# HTML page title
+monitor-landing-page-title = { -brand-name-mozilla-monitor } — 保護您的個人資料不被外洩
 
 ## Get free scan form
 
+monitor-form-enter-email-to-scan = 在此輸入要掃描的 E-Mail
 monitor-form-get-free-scan = 免費掃描
+monitor-form-enter-your-email-address = 輸入您的電子郵件地址，即可檢查是否曾遭資料外洩。
 
 ##
 
+monitor-help-fix-exposures = 我們可協助您處理遭到外洩的資料
+monitor-what-info-could-be = 哪些資訊可能有風險？
+monitor-scan-your-email = 掃描您的電子郵件地址，即可免費使用
 monitor-trusted-by-10-million = 受全球千萬使用者信任
+monitor-since-2018-we-have-helped = 自 2018 年起，我們已幫助全球超過 237 個國家的使用者，保護個資不落入他人之手。
 # This string is followed by a list of media outlets
 monitor-as-seen-in = 出現於
+monitor-here-is-how-we-help = 以下是我們能夠協助保護您的方式
+monitor-we-believe-in-your-right = 我們認為您的隱私權相當重要，所以資料外洩事件的監控功能永久保持免費。
+monitor-we-will-search-for-you = 我們會在已知的資料外洩事件中，尋找是否有您的資料出現
+monitor-we-will-guide-you = 我們會帶您逐步操作，針對每次資料外洩事件進行處理
+monitor-we-will-continuously = 我們將持續監控您的資料，並在發生新的外洩事件時警示您
 monitor-sign-up-for-breach-alerts = 訂閱資料外洩警報
 
 ## FAQ section
