@@ -23,4 +23,4 @@ bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } �
 bookmark-manager-bookmarks-toolbar = 書籤工具列
 bookmark-manager-get-quick-access-to-your = 在 { -brand-name-firefox } 頂部的選單快速開啟您最愛的書籤，或將書籤釘選到工具列。
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-firefox-showing-a-collection = { -brand-name-firefox } 的圖片顯示了瀏覽器視窗頂部的工具列中的書籤。
+bookmark-manager-image-of-firefox-showing-a-collection = 顯示在 { -brand-name-firefox } 瀏覽器視窗頂端包含一系列書籤的圖片。
