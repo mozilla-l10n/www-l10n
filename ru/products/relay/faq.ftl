@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Каковы допустимые вар�
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } имеет те же <a href="{ $url }" { $attrs }>условия пользования, что и все продукты { -brand-name-mozilla }</a>. У нас действует политика абсолютной нетерпимости к использованию { -brand-name-relay } в злонамеренных целях, таких как рассылка спама, и в подобных случаях мы прекращаем действие аккаунта пользователя. Для того, чтобы пользователи не нарушали наших условий, мы:
+faq-question-acceptable-use-answer-measure-account-v2 = Требуется { -brand-name-mozilla-account } с подтверждённым адресом электронной почты
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Требуем { -brand-name-firefox-account(case: "nominative") } с подтверждённым адресом электронной почты
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Требуем оплату за создание пользователем более пяти псевдонимов
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Ограничиваем число псевдонимов, которые можно создать за один день

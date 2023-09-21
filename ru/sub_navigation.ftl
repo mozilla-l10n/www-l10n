@@ -36,7 +36,9 @@ sub-navigation-firefox-for-mobile = { -brand-name-firefox } для мобиль�
 sub-navigation-android-addons = Дополнения для { -brand-name-android }
 sub-navigation-android-add-ons = Дополнения для { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = 64-битная { -brand-name-windows }
