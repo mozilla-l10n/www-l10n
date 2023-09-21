@@ -8,6 +8,9 @@
 
 ## CJMS Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+affiliate-notification-message = Roipuru umi kookie roikuaa hag̃ua mavaitévapa nde gueru ápe. Noromoherakuãi mba’evete marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>Ñemigua purureko</a>.
 # label for the button that rejects cookie use
 affiliate-notification-reject = Hejarei
 # label for the button that okays cookie use
