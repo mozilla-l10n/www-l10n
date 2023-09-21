@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Ecce quatro del major parte d
 firefox-privacy-hub-always-in-your-control = Sempre in tu controlo
 firefox-privacy-hub-want-to-customize-what = Vole tu personalisar cosa tener blocate? Tu parametros es a portata de clic.
 firefox-privacy-hub-protection-beyond-tracking = Protection ultra le traciamento
+firefox-privacy-hub-if-you-have-a-mozilla-account = Si tu ha un { -brand-name-mozilla-account }, tu pote alsi vider nostre modo de adjutar te a proteger tu informationes personal e contrasignos.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Si tu ha un { -brand-name-firefox-account }, tu pote alsi vider nostre modo de adjutar te a proteger tu informationes personal e contrasignos.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Inviar un file
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recommenda articulos de bon qualitate, seligite per humanos, sin colliger tu chronologia de navigation o compartir tu informationes personal con annunciatores.
 firefox-privacy-hub-get-pocket = Installar { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Tu { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Tu { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Tote le informationes synchronisate per tu { -brand-name-mozilla-account }, ab le chronologia de navigation al contrasignos, es cifrate. E tu contrasigno del conto es le sol clave.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Tote le informationes synchronisate per tu { -brand-name-firefox-account }, ab le chronologia de navigation al contrasignos, es cifrate. E tu contrasigno del conto es le sol clave.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Porta tu confidentialitate e marcapaginas ubique con un { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Porta tu confidentialitate e marcapaginas ubique con un { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Ha tu jam un conto? <a { $sign_in } class="{ $class_name }">Accede</a> o <a href="{ $learn_more }">sape plus</a> re junger se a { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

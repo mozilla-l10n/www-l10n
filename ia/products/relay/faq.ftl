@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Que es le uso acceptabile de { -brand-nam
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } ha le mesme <a href="{ $url }" { $attrs }>conditiones de uso de tote le productos de { -brand-name-mozilla }</a>. Nos ha un politica de tolerantia zero quando il eveni que on usa { -brand-name-relay } pro propositos malitiose como spam, consequente in le termination del conto del usator. Nos prende mensuras pro impedir que le usatores viola nostre conditiones per:
+faq-question-acceptable-use-answer-measure-account-v2 = Requirente un { -brand-name-mozilla-account } con un adresse email verificate
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Requirer un { -brand-name-firefox-account(capitalization: "uppercase") } con un adresse email verificate
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Requirer le pagamento al usator pro crear plus que cinque mascas
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Limitar le numero de mascas que on pote generar in un die
