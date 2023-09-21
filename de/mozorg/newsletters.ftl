@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = Textabonnenten erhalten zweimal im J
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Viele unserer Mitteilungen beziehen sich auf ein Konto, für das Sie sich angemeldet haben, z. B. { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } oder Add-on-Entwickler. Auf unserer <a href="{ $url }">Hilfeseite zur Kontoverwaltung</a> können Sie eines Ihrer Konten verwalten oder eine Liste aller Konten anzeigen.
+
+# Obsolete string
 newsletters-many-of-our-communications = Viele unserer Mitteilungen beziehen sich auf ein Konto, für das Sie sich angemeldet haben, z. B. { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } oder Add-on-Entwickler. Auf unserer <a href="{ $url }">Hilfeseite zur Kontoverwaltung</a> können Sie eines Ihrer Konten verwalten oder eine Liste aller Konten anzeigen.
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Besondere Ankündigungen, mit denen Sie das Beste aus { -brand-name-webmaker } machen können.
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)

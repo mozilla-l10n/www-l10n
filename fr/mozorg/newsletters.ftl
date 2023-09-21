@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = Les personnes abonnées à nos SMS r
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Nombre de nos communications sont liées à un compte que vous avez ouvert tel que votre { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } ou développeur de modules. Pour gérer l’un de vos comptes ou consulter la liste de tous vos comptes, rendez-vous sur notre <a href="{ $url }">page d’aide à la gestion des comptes</a>.
+
+# Obsolete string
 newsletters-many-of-our-communications = Nombre de nos communications sont liées à un compte que vous avez ouvert tel que votre { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou développeur de modules. Pour gérer l’un de vos comptes ou consulter la liste de tous vos comptes, rendez-vous sur notre <a href="{ $url }">page d’aide à la gestion des comptes</a>.
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Des annonces spéciales pour que vous puissiez tirer le meilleur parti de { -brand-name-webmaker }.
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)

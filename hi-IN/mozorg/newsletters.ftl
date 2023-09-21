@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = सदस्यता की नि�
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = हमारे कई संचार आपके द्वारा साइन अप किए गए एकाउंट से संबंधित हैं, जैसे { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs }, या ऐड-ऑन डेवलपर। अपने किसी एकाउंट को प्रबंधित करने या सभी एकाउंट की सूची देखने के लिए, हमारे <a href="{ $url }">एकाउंट प्रबंधन सहायता पेज पर जाएँ</a>।
+
+# Obsolete string
 newsletters-many-of-our-communications = हमारे कई संचार आपके द्वारा साइन अप किए गए एकाउंट से संबंधित हैं, जैसे { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, या ऐड-ऑन डेवलपर। अपने किसी एकाउंट को प्रबंधित करने या सभी एकाउंट की सूची देखने के लिए, हमारे <a href="{ $url }">एकाउंट प्रबंधन सहायता पेज पर जाएँ</a>।
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = विशेष घोषणाएँ { -brand-name-webmaker } का सबसे अधिक लाभ उठाने में मदद करती हैं।
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)

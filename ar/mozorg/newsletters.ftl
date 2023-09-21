@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = سيتلقى المشتركون في
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = ترتبط العديد من المراسلات بحساب قمت بالتسجيل فيه، مثل { -brand-name-mozilla-accounts } أو { -brand-name-mdn-web-docs } أو مطوّر إضافي. لإدارة أحد حساباتك أو الاطّلاع على قائمة بجميع الحسابات، قم بزيارة <a href="{ $url }">صفحة دعم إدارة الحساب الخاصة بنا</a>.
+
+# Obsolete string
 newsletters-many-of-our-communications = ترتبط العديد من المراسلات بحساب قمت بالتسجيل فيه، مثل { -brand-name-firefox-accounts } أو { -brand-name-mdn-web-docs } أو مطوّر إضافي. لإدارة أحد حساباتك أو الاطّلاع على قائمة بجميع الحسابات، قم بزيارة <a href="{ $url }">صفحة دعم إدارة الحساب الخاصة بنا</a>.
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = إعلانات خاصة تساعدك في الاستفادة من { -brand-name-webmaker }.
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)

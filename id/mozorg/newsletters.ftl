@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = Pelanggan teks akan menerima email d
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Banyak komunikasi kami terkait dengan akun yang Anda daftarkan, seperti { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs }, atau Pengembang Pengaya. Untuk mengelola salah satu akun atau melihat daftar semua akun, kunjungi <a href="{ $url }">laman dukungan manajemen akun</a> kami.
+
+# Obsolete string
 newsletters-many-of-our-communications = Banyak komunikasi kami terkait dengan akun yang Anda daftarkan, seperti { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, atau Pengembang Pengaya. Untuk mengelola salah satu akun atau melihat daftar semua akun, kunjungi <a href="{ $url }">laman dukungan manajemen akun</a> kami.
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Pengumuman khusus membantu Anda mendapatkan hasil maksimal dari { -brand-name-webmaker }.
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)

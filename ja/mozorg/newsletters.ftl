@@ -78,6 +78,10 @@ newsletters-text-subscribers-will-receive = テキストの定期購読者の方
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Mozilla からの連絡内容には、{ -brand-name-mozilla-accounts }、{ -brand-name-mdn-web-docs }、Add-on Developer など、サインアップしていただいたアカウントに関するものが多数含まれています。アカウントを管理したり、すべてのアカウントのリスト表示を確認するには、Mozilla の<a href="{ $url }">アカウント管理サポートページ</a>をご覧ください。
+
+# Obsolete string
 newsletters-many-of-our-communications = Mozilla からの連絡内容には、{ -brand-name-firefox-accounts }、{ -brand-name-mdn-web-docs }、Add-on Developer など、サインアップしていただいたアカウントに関するものが多数含まれています。アカウントを管理したり、すべてのアカウントのリスト表示を確認するには、Mozilla の<a href="{ $url }">アカウント管理サポートページ</a>をご覧ください。
 
 # Variables:
@@ -413,6 +417,9 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = { -brand-name-webmaker } を最大限に活用する上で役立つ情報。
 
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
