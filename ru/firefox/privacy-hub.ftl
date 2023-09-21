@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Познакомьтесь с
 firefox-privacy-hub-always-in-your-control = Всегда под вашим контролем
 firefox-privacy-hub-want-to-customize-what = Хотите настроить, что блокируется? Ваши настройки находятся на расстоянии одного щелчка.
 firefox-privacy-hub-protection-beyond-tracking = Защита за пределами отслеживания
+firefox-privacy-hub-if-you-have-a-mozilla-account = Если у вас есть { -brand-name-mozilla-account }, вы также можете увидеть, как мы помогаем вам защитить вашу личную информацию и пароли.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Если у вас есть { -brand-name-firefox-account }, вы также можете увидеть, как мы помогаем вам защитить вашу личную информацию и пароли.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Отправить файл
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } рекомендует высококачественные, выбранные людьми статьи, не собирая данные из вашей истории просмотра и не делясь вашей личной информацией с рекламодателями.
 firefox-privacy-hub-get-pocket = Загрузить { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Ваш { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Вся информация, синхронизируемая через ваш { -brand-name-mozilla-account } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Вся информация, синхронизируемая через ваш { -brand-name-firefox-account } — от истории браузера до паролей — зашифрована. И пароль вашего аккаунта — единственный ключ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Сохраняйте приватность и закладки везде с помощью { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Сохраняйте приватность и закладки везде с помощью { -brand-name-firefox-account(case: "genitive") }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Уже есть аккаунт? <a { $sign_in } class="{ $class_name }">Войдите</a> или <a href="{ $learn_more }">узнайте больше</a> о присоединении к { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
