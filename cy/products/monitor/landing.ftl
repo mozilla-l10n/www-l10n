@@ -36,7 +36,7 @@ monitor-here-is-how-we-help = Dyma sut rydyn ni'n helpu i'ch diogelu chi
 monitor-we-believe-in-your-right = Rydym yn credu yn eich hawl i breifatrwydd, felly mae amddiffyniad monitro tor-data bob amser ar gael yn rhad ac am ddim.
 monitor-we-will-search-for-you = Byddwn yn chwilio amdanoch ym mhob achos hysbys o dor-data
 monitor-we-will-guide-you = Byddwn yn eich arwain trwy'r camau i ddatrys pob tor-data
-monitor-we-will-continuously = Byddwn yn monitro ac yn anfon rhybuddion atoch yn barhaus am unrhyw doriadau newydd
+monitor-we-will-continuously = Byddwn yn monitro ac yn anfon rhybuddion atoch yn barhaus am unrhyw dor-data newydd
 monitor-sign-up-for-breach-alerts = Cofrestrwch am rybuddion tor-data
 
 ## FAQ section
@@ -44,13 +44,13 @@ monitor-sign-up-for-breach-alerts = Cofrestrwch am rybuddion tor-data
 monitor-faq-heading = Cwestiynau cyffredin
 monitor-all-faq-link = Gweld yr holl gwestiynau cyffredin
 monitor-faq-what-is-a-data-breach-question = Beth yn union yw tor-data?
-monitor-faq-what-is-a-data-breach-answer = Mae toriad data yn digwydd pan fydd gwybodaeth bersonol neu breifat yn cael ei datgelu, ei dwyn neu ei chopïo heb ganiatâd. Gall y digwyddiadau diogelwch hyn ddeillio o ymosodiadau seiber ar wefannau, apiau neu unrhyw gronfa ddata lle mae gwybodaeth bersonol pobl yn byw. Gall toriad data ddigwydd yn ddamweiniol hefyd, fel pe bai tystlythyrau mewngofnodi rhywun yn cael eu postio'n gyhoeddus.
-monitor-faq-what-do-i-do-question = Rwyf newydd ddeall fy mod i mewn tor-data. Beth ddylwn i ei wneud nesaf?
-monitor-faq-what-do-i-do-answer = Ewch i { -brand-name-mozilla-monitor } i ddysgu beth i'w wneud ar ôl toriad data a chael camau tywys i ddatrys datguddiadau o'ch gwybodaeth bersonol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mae gennych chi yn unig fynediad iddo; gallai hwn fod yr un man lle rydych yn storio dogfennau pwysig neu reolwr cyfrinair.
-monitor-faq-what-gets-exposed-question = Pa wybodaeth sy'n cael ei datgelu mewn achosion o dorri data?
-monitor-faq-whats-gets-exposed-answer = Nid yw pob tor-data'n amlygu'r un wybodaeth. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau pasbort a rhifau nawdd cymdeithasol.
+monitor-faq-what-is-a-data-breach-answer = Mae tor-data yn digwydd pan fydd manylion personol neu breifat yn cael ei datgelu, ei dwyn neu ei gopïo heb ganiatâd. Gall y digwyddiadau diogelwch hyn ddeillio o ymosodiadau seiber ar wefannau, apiau neu unrhyw gronfa ddata lle mae manylion personol pobl yn byw. Gall tor-data ddigwydd yn ddamweiniol hefyd, fel pe bai tystlythyrau mewngofnodi rhywun yn cael eu postio'n gyhoeddus.
+monitor-faq-what-do-i-do-question = Rwyf newydd ddeall fy mod i'n rhan o tor-data. Beth ddylwn i ei wneud nesaf?
+monitor-faq-what-do-i-do-answer = Ewch i { -brand-name-mozilla-monitor } i gael gwybod beth i'w wneud ar ôl tor-data a chael camau i'ch tywys i ddatrys datguddiadau o'ch manylion personol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mae gennych chi yn unig fynediad iddo; gall hyn fod yr un man lle rydych yn cadw dogfennau pwysig neu reolwr cyfrinair.
+monitor-faq-what-gets-exposed-question = Pa fanylion sy'n cael ei datgelu mewn achosion o dor-data?
+monitor-faq-whats-gets-exposed-answer = Nid yw pob tor-data'n amlygu'r un manylion. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau pasbort a rhifau nawdd cymdeithasol.
 
 ##
 
 monitor-take-back-control = Cymryd rheolaeth yn ôl ar eich data
-monitor-breach-data-provided-by = Darparwyd y data torri amodau gan <strong>A wyf wedi Cael fy Pwned</strong>
+monitor-breach-data-provided-by = Darparwyd y data torri amodau gan <strong>Have I Been Pwned</strong>

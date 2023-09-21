@@ -11,7 +11,7 @@ monitor-shared-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 monitor-shared-sub-nav-sign-in = Mewngofnodi
 monitor-shared-sub-nav-faqs = Cwestiynau Cyffredin
-monitor-shared-sub-nav-all-breaches = Pob toriad
+monitor-shared-sub-nav-all-breaches = Pob tor-data
 
 ## Footer
 
