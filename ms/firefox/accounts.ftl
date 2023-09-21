@@ -5,6 +5,9 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Dapatkan { -brand-name-mozilla-account } – Pastikan data anda sulit, selamat dan diselaraskan
+
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Dapatkan { -brand-name-firefox-account } – Pastikan data anda sulit, selamat dan diselaraskan
 
 # HTML page description
@@ -13,10 +16,17 @@ firefox-accounts-securely-sync-your = Selaraskan kata laluan, tandabuku dan tab 
 firefox-accounts-enter-your-email-address = Masukkan alamat e-mel anda untuk bermula.
 firefox-accounts-already-have-an-account = Sudah ada akaun?
 firefox-accounts-sign-in = Daftar Masuk
+
+# Obsolete string
 firefox-accounts-already = Anda sudah mempunyai { -brand-name-firefox-account }. Tahniah!
+
+mozilla-accounts-already = Anda sudah mempunyai { -brand-name-mozilla-account }. Tahniah!
 firefox-accounts-manage = Uruskan akaun anda
 
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Log masuk ke { -brand-name-mozilla-account } anda untuk:
+
+# Obsolete string
 firefox-accounts-sign-in-to = Log masuk ke { -brand-name-firefox-account } anda untuk:
 
 # Obsolete string

@@ -5,6 +5,9 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } をダウンロード — データをプライベート・安全に守って同期
+
+# Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } をダウンロード — データをプライベート・安全に守って同期
 
 # HTML page description
@@ -13,10 +16,17 @@ firefox-accounts-securely-sync-your = パスワード、ブックマーク、タ
 firefox-accounts-enter-your-email-address = 始めるには、メールアドレスを入力してください。
 firefox-accounts-already-have-an-account = 既にアカウントをお持ちの場合:
 firefox-accounts-sign-in = サインイン
+
+# Obsolete string
 firefox-accounts-already = もう { -brand-name-firefox-account } をお持ちです。
+
+mozilla-accounts-already = もう { -brand-name-mozilla-account } をお持ちです。
 firefox-accounts-manage = アカウントの管理
 
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = { -brand-name-mozilla-account } にサインインすると、次の操作ができます。
+
+# Obsolete string
 firefox-accounts-sign-in-to = { -brand-name-firefox-account } にサインインすると、次の操作ができます。
 
 # Obsolete string
