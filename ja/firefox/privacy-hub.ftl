@@ -75,6 +75,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = 完璧に解消される、�
 firefox-privacy-hub-always-in-your-control = 常に自分で管理可能
 firefox-privacy-hub-want-to-customize-what = ブロックする内容をカスタマイズしたい方はワンクリックで手軽に設定可能です。
 firefox-privacy-hub-protection-beyond-tracking = トラッキング以上の保護
+firefox-privacy-hub-if-you-have-a-mozilla-account = { -brand-name-mozilla-account } をお持ちの場合、個人情報やパスワードの保護に、どのように Mozilla が貢献しているかを確認できます。
+
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account } をお持ちの場合、個人情報やパスワードの保護に、どのように Mozilla が貢献しているかを確認できます。
 
 # Variables:
@@ -93,10 +96,28 @@ firefox-privacy-hub-send-a-file = ファイルを送信
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } は、閲覧履歴を収集したり個人情報を広告主と共有したりすることなく、実際の人間による上質な記事を紹介します。
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } をダウンロード
+firefox-privacy-hub-your-mozilla-account = ユーザーの { -brand-name-mozilla-account }
+
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = ユーザーの { -brand-name-firefox-account }
+
+firefox-privacy-hub-all-the-information-synced-v2 = { -brand-name-mozilla-account } アカウントで同期された情報は、ブラウザーの履歴からパスワードまで、全て暗号化されます。そしてキーは、ユーザーのアカウントのパスワードだけとなります。
+
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = { -brand-name-firefox-account } アカウントで同期された情報は、ブラウザーの履歴からパスワードまで、全て暗号化されます。そしてキーは、ユーザーのアカウントのパスワードだけとなります。
+
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = お出かけの時は、いつも { -brand-name-mozilla-account } のプライバシーとブックマークをお忘れなく。
+
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = お出かけの時は、いつも { -brand-name-firefox-account } のプライバシーとブックマークをお忘れなく。
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = 既にアカウントをお持ちの場合:<a { $sign_in } class="{ $class_name }">ログイン</a>または { -brand-name-mozilla } への登録の<a href="{ $learn_more }">詳細を確認</a>
+
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

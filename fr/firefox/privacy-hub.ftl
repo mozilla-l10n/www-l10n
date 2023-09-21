@@ -75,6 +75,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = Découvrez les quatre catégo
 firefox-privacy-hub-always-in-your-control = Gardez le contrôle
 firefox-privacy-hub-want-to-customize-what = Vous souhaitez choisir vous-même ce qui doit être bloqué ? Pas de souci, vos paramètres sont à portée de clic.
 firefox-privacy-hub-protection-beyond-tracking = Une protection au-delà du pistage
+firefox-privacy-hub-if-you-have-a-mozilla-account = Si vous disposez d’un { -brand-name-mozilla-account }, vous pouvez également voir comment nous vous aidons à protéger vos informations personnelles et vos mots de passe.
+
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Si vous disposez d’un { -brand-name-firefox-account }, vous pouvez également voir comment nous vous aidons à protéger vos informations personnelles et vos mots de passe.
 
 # Variables:
@@ -93,10 +96,28 @@ firefox-privacy-hub-send-a-file = Envoyer un fichier
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } recommande du contenu de grande qualité sélectionné avec soin, sans recueillir votre historique de navigation ni partager vos informations personnelles avec les annonceurs.
 firefox-privacy-hub-get-pocket = Installer { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Votre { -brand-name-mozilla-account }
+
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Votre { -brand-name-firefox-account }
+
+firefox-privacy-hub-all-the-information-synced-v2 = Toutes les informations synchronisées via votre { -brand-name-mozilla-account }, de l’historique de navigation aux mots de passe, sont chiffrées. Votre mot de passe de compte est la seule clé.
+
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Toutes les informations synchronisées via votre { -brand-name-firefox-account }, de l’historique de navigation aux mots de passe, sont chiffrées. Votre mot de passe de compte est la seule clé.
+
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Emportez vos mots de passe et vos marque-pages partout avec vous avec un { -brand-name-mozilla-account }.
+
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Emportez vos mots de passe et vos marque-pages partout avec vous avec un { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Vous avez déjà un compte ? <a { $sign_in } class="{ $class_name }">Se connecter</a> ou <a href="{ $learn_more }">en savoir plus</a> à propos du compte { -brand-name-mozilla }.
+
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

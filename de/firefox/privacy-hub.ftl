@@ -75,6 +75,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = Das sind die vier häufigsten
 firefox-privacy-hub-always-in-your-control = Du hast die Kontrolle
 firefox-privacy-hub-want-to-customize-what = Du willst selbst entscheiden, was blockiert wird? Deine Einstellungen sind nur einen Klick entfernt.
 firefox-privacy-hub-protection-beyond-tracking = Mehr als nur Tracking-Schutz
+firefox-privacy-hub-if-you-have-a-mozilla-account = Wenn du ein { -brand-name-mozilla-account } hast, kannst du nun auch sehen, wie wir dir dabei helfen, deine persönlichen Daten und Passwörter zu schützen.
+
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Wenn du ein { -brand-name-firefox-account } hast, kannst du nun auch sehen, wie wir dir dabei helfen, deine persönlichen Daten und Passwörter zu schützen.
 
 # Variables:
@@ -93,10 +96,28 @@ firefox-privacy-hub-send-a-file = Datei senden
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } empfiehlt dir qualitativ hochwertige und von Menschen kuratierte Artikel, ohne dafür deine Surf-Chronik zu erfassen oder deine persönlichen Daten an Werbetreibende weiterzugeben.
 firefox-privacy-hub-get-pocket = Jetzt { -brand-name-pocket } nutzen
+firefox-privacy-hub-your-mozilla-account = Dein { -brand-name-mozilla-account }
+
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Dein { -brand-name-firefox-account }
+
+firefox-privacy-hub-all-the-information-synced-v2 = Alle Daten, die du über dein { -brand-name-mozilla-account } synchronisierst – von der Surf-Chronik bis zu den Passwörtern – werden verschlüsselt. Dein Konto-Passwort ist der einzige Schlüssel.
+
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Alle Daten, die du über dein { -brand-name-firefox-account } synchronisierst – von der Surf-Chronik bis zu den Passwörtern – werden verschlüsselt. Dein Konto-Passwort ist der einzige Schlüssel.
+
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Nimm Privatsphäre und Lesezeichen überall mit hin – mit deinem { -brand-name-mozilla-account }.
+
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Nimm Privatsphäre und Lesezeichen überall mit hin – mit deinem { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Du hast schon ein Konto? <a { $sign_in } class="{ $class_name }">Logge dich ein</a> oder <a href="{ $learn_more }">hol dir weitere Infos</a> über { -brand-name-mozilla }.
+
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

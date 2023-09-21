@@ -75,6 +75,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = تعرف على أربعة م
 firefox-privacy-hub-always-in-your-control = دائما تحت سيطرتك
 firefox-privacy-hub-want-to-customize-what = أتريد تخصيص ما يتم حظره؟ الإعدادات الخاصة بك على بعد نقرة واحدة فقط.
 firefox-privacy-hub-protection-beyond-tracking = حماية تتجاوز التتبع
+firefox-privacy-hub-if-you-have-a-mozilla-account = إذا كان لديك حساب { -brand-name-mozilla-account }، يمكنك أيضًا معرفة كيف نساعدك على حماية معلوماتك الشخصية وكلمات مرورك.
+
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = إذا كان لديك حساب { -brand-name-firefox-account }، يمكنك أيضًا معرفة كيف نساعدك على حماية معلوماتك الشخصية وكلمات مرورك.
 
 # Variables:
@@ -93,10 +96,28 @@ firefox-privacy-hub-send-a-file = أرسِل ملفًا
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = يُوصي { -brand-name-pocket } بمقالات عالية الجودة وباختيار بشري دون جمع محفوظات الاستعراض أو مشاركة معلوماتك الشخصية مع المُعلنين.
 firefox-privacy-hub-get-pocket = احصل على { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = متصفّح { -brand-name-mozilla-account } الخاص بك
+
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = متصفّح { -brand-name-firefox-account } الخاص بك
+
+firefox-privacy-hub-all-the-information-synced-v2 = تم تشفير جميع المعلومات التي تمت مُزامنتها من خلال { -brand-name-mozilla-account } الخاص بك— بداية من محفوظات المتصفّح حتى كلمات المرور —. وكلمة مرور حسابك هي المفتاح الوحيد.
+
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = تم تشفير جميع المعلومات التي تمت مُزامنتها من خلال { -brand-name-firefox-account } الخاص بك— بداية من محفوظات المتصفّح حتى كلمات المرور —. وكلمة مرور حسابك هي المفتاح الوحيد.
+
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = خذ خصوصيتك والإشارات المرجعية إلى كل مكان بفضل { -brand-name-mozilla-account }.
+
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = خذ خصوصيتك والإشارات المرجعية إلى كل مكان بفضل { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = ألديك حساب بالفعل؟ <a { $sign_in } class="{ $class_name }">سجّل الدخول</a> أو <a href="{ $learn_more }">تعرّف على المزيد</a> حول الانضمام إلى { -brand-name-mozilla }.
+
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

@@ -75,6 +75,9 @@ firefox-privacy-hub-meet-four-of-the-most-common = Temui empat kategori pelacak 
 firefox-privacy-hub-always-in-your-control = Selalu dalam kendali Anda
 firefox-privacy-hub-want-to-customize-what = Ingin menyesuaikan apa yang diblokir? Pengaturan Anda hanya dengan satu klik.
 firefox-privacy-hub-protection-beyond-tracking = Perlindungan di luar pelacakan
+firefox-privacy-hub-if-you-have-a-mozilla-account = Jika Anda memiliki { -brand-name-mozilla-account }, Anda juga dapat melihat bagaimana kami membantu Anda melindungi info pribadi dan kata sandi Anda.
+
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Jika Anda memiliki { -brand-name-firefox-account }, Anda juga dapat melihat bagaimana kami membantu Anda melindungi info pribadi dan kata sandi Anda.
 
 # Variables:
@@ -93,10 +96,28 @@ firefox-privacy-hub-send-a-file = Kirim file
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } merekomendasikan artikel berkualitas tinggi yang diseleksi oleh manusia tanpa mengumpulkan riwayat peramban Anda atau berbagi informasi pribadi Anda dengan pengiklan.
 firefox-privacy-hub-get-pocket = Dapatkan { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account } Anda
+
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } Anda
+
+firefox-privacy-hub-all-the-information-synced-v2 = Semua informasi yang disinkronkan melalui { -brand-name-mozilla-account } — dari riwayat peramban hingga kata sandi — akan dienkripsi. Dan kata sandi akun Anda adalah satu-satunya kunci.
+
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Semua informasi yang disinkronkan melalui { -brand-name-firefox-account } — dari riwayat peramban hingga kata sandi — akan dienkripsi. Dan kata sandi akun Anda adalah satu-satunya kunci.
+
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Bawa privasi dan markah Anda bersama Anda dengan { -brand-name-mozilla-account }.
+
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Bawa privasi dan markah Anda bersama Anda dengan { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Sudah memiliki akun? <a { $sign_in } class="{ $class_name }">Masuk</a> atau <a href="{ $learn_more }">pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-mozilla }.
+
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
