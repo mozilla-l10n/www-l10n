@@ -56,8 +56,12 @@ newsletters-please-select-language = Seleziona una lingua.
 # Form field label
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Gli iscritti che hanno optato per ricevere messaggi in testo semplice riceveranno una email due volte l’anno per confermare la continuazione dell’abbonamento. Tali email possono anche contenere codice HTML.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Molte delle nostre comunicazioni sono correlate a un account per il quale ti sei registrato, come { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } o quello per sviluppatori di componenti aggiuntivi. Per gestire uno dei tuoi account o vedere la lista completa visita la nostra <a href="{ $url }">pagina di supporto gestione degli account</a>.
+# Obsolete string
 newsletters-many-of-our-communications = Molte delle nostre comunicazioni sono correlate a un account per il quale ti sei registrato, come { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } o quello per sviluppatori di componenti aggiuntivi. Per gestire uno dei tuoi account o vedere la lista completa visita la nostra <a href="{ $url }">pagina di supporto gestione degli account</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -293,6 +297,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Annunci esclusivi per ottenere il massimo dalla piattaforma { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts(capitalization: "uppercase") }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Ricevi suggerimenti da { -brand-name-mozilla } su come ottenere il massimo dal tuo account.

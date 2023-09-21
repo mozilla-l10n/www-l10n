@@ -142,6 +142,16 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account =
+    { $capitalization ->
+        [uppercase] Account Mozilla
+       *[lowercase] account Mozilla
+    }
+-brand-name-mozilla-accounts =
+    { $capitalization ->
+        [uppercase] Account Mozilla
+       *[lowercase] account Mozilla
+    }
 
 ## Mozilla projects (short names)
 
