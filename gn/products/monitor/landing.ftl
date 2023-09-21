@@ -13,6 +13,13 @@ monitor-form-get-free-scan = Emoha’ãnga reiete
 
 ##
 
+monitor-what-info-could-be = Mba’e marandúpa ivaikuaa
+monitor-scan-your-email = Eñepyrũ hag̃ua, emoha’ãnga reiete ne ñanduti veve
+monitor-trusted-by-10-million = 10 sua yvypóra arapýpe ojerovia hese
+monitor-since-2018-we-have-helped = Ary 2018 guive, roipytyvõ yvypóra 237 tetãyguárape imaranduete oguereko hag̃ua tekorosãme.
+# This string is followed by a list of media outlets
+monitor-as-seen-in = Ojehechaháicha
+monitor-here-is-how-we-help = Péicha roipytyvõ eñemo’ã hag̃ua
 
 ## FAQ section
 
