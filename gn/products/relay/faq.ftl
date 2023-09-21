@@ -51,6 +51,8 @@ faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
 faq-question-email-storage-answer = Peichahágui ndoikói mba’éramo ore mba’epuru, rombyatykuaa sapy’ami ne ñanduti veve romondokuaajey peve. Araka’eve norombyatymo’ãi hetave mbohapy áragui.
 faq-question-acceptable-use-question = Mba’épa jeiporu { -brand-name-relay } omoneĩva
+faq-question-acceptable-use-answer-measure-account-v2 = Reikotevẽ { -brand-name-mozilla-account } ñanduti veve kundaharape ojehechajeýva ndive
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Reikotevẽ { -brand-name-firefox-account } ñanduti veve kundaharape ojehechajeýva reheve
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Emoheñóivo po tovamo’ãha ehepyme’ẽmava’erã
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pevépa emoheñoikuaa peteĩ ára pukukue

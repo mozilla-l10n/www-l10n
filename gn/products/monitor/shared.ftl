@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Opaite ñembogua
 ## Footer
 
 monitor-shared-footer-about-mozilla = { -brand-name-mozilla } rehegua
+monitor-shared-footer-terms-of-service = Mba’epytyvõrã ñemboguata
+monitor-shared-footer-privacy-policy = Temiñemi purureko
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Mboguatarã ha ñemigua
 monitor-shared-footer-github = GitHub

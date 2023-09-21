@@ -26,6 +26,9 @@ monitor-we-believe-in-your-right = Romomba’e nde derécho tekoñemirã, upéva
 
 monitor-all-faq-link = Ehechapa FAQs
 monitor-faq-what-is-a-data-breach-question = Mba’épa pe mba’ekuaarã ñembyai
+monitor-faq-whats-gets-exposed-answer = Ndahetái ñembogua ohechaukáta peteĩ marandúnte. Oikóta mba’ete og̃uahẽ mba’evaiapohape. Heta mba’ekuaarã ñembogua onohẽkuaa ñanduti veve kundaharape ha ñe’ẽñemi. Ambue onohẽ marandu ñemigua, kuatia’atã ñemurã papapy, pasaporte ha seguridad social papapy.
 
 ##
 
+monitor-take-back-control = Eguerujey ne mba’ekuaarã.
+monitor-breach-data-provided-by = Mba’ekuaarã ñembogua ome’ẽva <strong>Have I Been Pwned</strong>
