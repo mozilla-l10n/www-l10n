@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Opret en sporingsfri zone med Blokeri
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = I { -brand-name-firefox } kan du bruge indstillingerne for <a href="{ $privacy }">Beskyttelse af privatliv</a> eller <a href="{ $blocking }">Blokering af indhold</a> til at få endnu mere kontrol over sporings-tjenester, der viser dig reklamer.
 features-adblocker-choose-your-level-of-protection = Vælg dit beskyttelsesniveau
+features-adblocker-to-start-click-on-the-v2 = For at komme i gang skal du klikke på på skjoldet til venstre for adressefeltet på en hvilken som helst webside og vælge "Indstillinger for beskyttelse". Dette åbner siden Privatliv og sikkerhed i { -brand-name-firefox }' indstillinger i et nyt faneblad. Et afsnit med forskellige valgmuligheder åbnes.
+# Obsolete string
 features-adblocker-to-start-click-on-the = For at komme i gang, klik på menuknappen i øverste højre hjørne af { -brand-name-firefox }-vinduet. Det er den med de tre vandrette streger. Klik på Blokering af indhold i menuen, der åbnes. Et afsnit med forskellige valgmuligheder åbnes.
 features-adblocker-go-easy-with-standard = Gør det let med standardtilstand
 # Variables:
@@ -53,7 +55,5 @@ features-adblocker-send-a-do-not-track-signal = Send signalet 'Spor mig ikke'
 features-adblocker-if-you-dont-want-your = Vil du ikke have, at viden om din opførsel på nettet bliver brugt til at vise dig målrettede reklamer? Så kan du sende websteder et høfligt "Nej tak" ved at sætte et kryds i indstillingen <a href="{ $url }">Spor mig ikke</a> i { -brand-name-firefox }. Deltagelse er frivillig, men websteder, der er med i ordningen, holder op med at spore dig med det samme.
 features-adblocker-speed-up-thanks-to-ad = Sæt farten op med adblockere
 features-adblocker-in-some-cases-an-ad-blocker = I nogle tilfælde kan en adblocker gøre din browser hurtigere, fordi der ikke skal bruges tid på at hente reklamen. Du skal heller ikke bruge din tid på at lukke generende reklamer.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Hvis du vil lære mere om blokering af reklamer, så findes der hundredvis af adblockere til { -brand-name-firefox } og andre browsere. Vil du prøve nogle af de adblockere { -brand-name-firefox } bruger, så <a href="{ $url }">klik her for at hente</a> en browser, der er fokuseret på at beskytte dit privatliv.
-features-adblocker-take-control-of-your-browser = Tag kontrol over din browser.
