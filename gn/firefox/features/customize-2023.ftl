@@ -9,3 +9,5 @@ features-customize-customize-your-firefox = Emboheraite { -brand-name-firefox } 
 # HTML page description
 features-customize-choose-how-your-browser-looks = Eiporavo mba’éichapa ojehecha ne kundahára heta téma reigua ndive.
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } ou peteĩ téma apopyvusu ypyguáva ndive ha henyhẽmava hesakã, iñipytũ a isa’yetáva ndive.
+# Used as accessible alternative text for an image
+features-customize-image-of-the-default-themes = Téma ypyguáva ra’ãnga oúva { -brand-name-firefox } ndive, ohechaukáva ambuepy hesakã, iñipytũ ha isa’yetáva.

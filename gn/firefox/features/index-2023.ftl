@@ -10,6 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } kundahára reh
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojeporukuaáva opaite mba’e’oka ndive.
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
+features-index-firefox-uses-less-memory-than = { -brand-name-firefox } oiporu’ive mandu’arenda Chrome-gui, upéicha ambue tembiaporape omba’apo pya’eve.
 features-index-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 features-index-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
 features-index-customize-your-firefox-browser = Emboheraite { -brand-name-firefox } kundahára
