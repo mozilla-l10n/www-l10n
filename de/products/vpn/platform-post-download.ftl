@@ -61,6 +61,11 @@ vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Um ein neues Gerät hinzuzufügen, laden Sie einfach die { -brand-name-mozilla-vpn }-Software herunter, installieren sie und melden sich anschließend auf dem neuen Gerät bei Ihrem bestehenden { -brand-name-mozilla-account } an. Für weitere Informationen, lesen Sie bitte <a href="{ $subscription }">Wie Sie Geräte zu Ihrem { -brand-name-mozilla-vpn }-Abo hinzufügen</a>.
+
+# Obsolete string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Um ein neues Gerät hinzuzufügen, laden Sie einfach die { -brand-name-mozilla-vpn }-Software herunter, installieren sie und melden sich anschließend auf dem neuen Gerät bei Ihrem bestehenden { -brand-name-firefox-account } an. Für weitere Informationen, lesen Sie bitte <a href="{ $subscription }">Wie Sie Geräte zu Ihrem { -brand-name-mozilla-vpn }-Abo hinzufügen</a>.
 
 vpn-download-faq-best-practices = Welche VPN Best Practices gibt es?

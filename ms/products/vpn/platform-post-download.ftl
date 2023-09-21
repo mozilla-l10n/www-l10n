@@ -61,6 +61,11 @@ vpn-download-faq-add-device = Bagaimana untuk menambah peranti?
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Menambah peranti adalah semudah muat turun dan memasang perisian { -brand-name-mozilla-vpn } dan kemudian log masuk { -brand-name-mozilla-account } sedia ada pada peranti baru itu. Untuk butiran lanjut, lihat <a href="{ $subscription }">Cara untuk menambah peranti bagi langganan { -brand-name-mozilla-vpn } anda</a>.
+
+# Obsolete string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Menambah peranti adalah semudah muat turun dan memasang perisian { -brand-name-mozilla-vpn } dan kemudian log masuk { -brand-name-firefox-account } sedia ada pada peranti baru itu. Untuk butiran lanjut, lihat <a href="{ $subscription }">Cara untuk menambah peranti bagi langganan { -brand-name-mozilla-vpn } anda</a>.
 
 vpn-download-faq-best-practices = Apakah amalan VPN yang terbaik?

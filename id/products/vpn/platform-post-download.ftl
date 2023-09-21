@@ -61,6 +61,11 @@ vpn-download-faq-add-device = Bagaimana cara menambahkan perangkat lain?
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Menambahkan perangkat lain itu semudah mengunduh dan menginstal perangkat lunak { -brand-name-mozilla-vpn } lalu masuk ke { -brand-name-mozilla-account } Anda yang sudah ada di perangkat baru. Untuk informasi lebih lanjut, silakan lihat <a href="{ $subscription }">Cara menambahkan perangkat ke langganan { -brand-name-mozilla-vpn } Anda</a>.
+
+# Obsolete string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Menambahkan perangkat lain itu semudah mengunduh dan menginstal perangkat lunak { -brand-name-mozilla-vpn } lalu masuk ke { -brand-name-firefox-account } Anda yang sudah ada di perangkat baru. Untuk informasi lebih lanjut, silakan lihat <a href="{ $subscription }">Cara menambahkan perangkat ke langganan { -brand-name-mozilla-vpn } Anda</a>.
 
 vpn-download-faq-best-practices = Apa saja praktik terbaik menggunakan VPN?
