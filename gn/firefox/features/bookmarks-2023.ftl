@@ -10,5 +10,10 @@ bookmark-manager-bookmark-manager = Techaukaha ñangarekoha
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Emohenda nde rechaukaha ñongatuha ha teramoĩ ndive.
 bookmark-manager-organize-your-boomarks-into = Emohenda nde rechaukaha ñongatuha ehekakuaahápe
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-bookmark-manager = Techaukaha rovetã ñangarekoha ra’ãnga { -brand-name-firefox } ndive.
 bookmark-manager-easily-import-bookmarks = Techaukaha jegueru hasy’ỹre
 bookmark-manager-bookmarks-toolbar = Techaukaha rembiporu renda
+bookmark-manager-get-quick-access-to-your = Eike pya’e techaukaha erohoryvévape poravorãme oĩva { -brand-name-firefox } yvate gotyo térã emboja tembipuru rendápe.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = { -brand-name-firefox } ra’ãnga oikuaaukávo techaukaha aty tembipuru rendápe yvate gotyo kundahára rovetãme.
