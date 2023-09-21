@@ -59,8 +59,9 @@ firefox-privacy-hub-update-your-firefox-browser = Embohekopyahu ne kundahára { 
 firefox-privacy-hub-invisible-to-the-top-trackers = Ndohechamo’ãi umi tapykuehoha
 firefox-privacy-hub-meet-four-of-the-most-common = Rohechaukáta irundy tapykuehoha ojekuaavéva, ani hag̃ua ejuhu araka’eve.
 firefox-privacy-hub-always-in-your-control = Ereko ñangarekoha tapiaite
-firefox-privacy-hub-want-to-customize-what = ¿Embohérase pe mba’epuru ejokoséva? Ikatu emoambue ñemboheko peteĩ jekutúpe.
+firefox-privacy-hub-want-to-customize-what = ¿Embohérase pe mba’eporu ejokoséva? Ikatu emoambue ñemboheko peteĩ jekutúpe.
 firefox-privacy-hub-protection-beyond-tracking = Ñemo’ã amo gotyove jehapykuehógui
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Erekóramo { -brand-name-firefox-account }, avei ikatu ehecha mba’éichapa roipytyvõ emo’ã hag̃ua ne maranduete ha ne ñe’ẽñemi.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +78,14 @@ firefox-privacy-hub-send-a-file = Emondo marandurenda
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } omomorã haipyre iporãva ha poravopyre avaite rupive ombyaty’ỹre ñeikundaha mba’ekuaarã rembiasakue omoherakuã’ỹre ne maranduete mba’apohaguasu ñemurãva ndive.
 firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Ne { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Opaite marandu ojuehéva ne { -brand-name-firefox-account } rupive (kundahára rembiasakue ñe’ẽñemíme) ipapapy. Ha ne mba’ete ñe’ẽñemi ha’e mba’eñemi eikekuaa hag̃ua pype.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

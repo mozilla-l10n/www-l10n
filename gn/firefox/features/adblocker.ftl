@@ -21,7 +21,7 @@ features-adblocker-find-the-right-ad-blocker = Eheka ñemurã jokoha ndéve g̃u
 features-adblocker-theres-adblocker-ultimate = Oĩ <a href="{ $url }">AdBlocker Ultimate</a> omboguéva maranduñemurã, hákatu ehechava’erã oĩha jehaipyre oikotevẽva ko maranduñemurã rehe. Hetaiterei tapicha ojokóramo maranduñemurã ikatu oheja chupe okápe.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Maranduñemurã iñapysẽva, umi ivaivéva. Ejoko <a href="{ $url }">Popup Blocker</a> ndive ha araka’eve nderehechamo’ãi ambue mba’epuru iñapysẽva.
+features-adblocker-popup-ads-are-the-worst = Maranduñemurã iñapysẽva, umi ivaivéva. Ejoko <a href="{ $url }">Popup Blocker</a> ndive ha araka’eve nderehechamo’ãi ambue mba’eporu iñapysẽva.
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Peteĩ ñemurã jokoha ojeporuvéva { -brand-name-chrome }, { -brand-name-safari } ha { -brand-name-firefox }-pe ha’e <a href="{ $url }">AdBlock</a>. Eiporu ejoko hag̃ua ñemurã { -brand-name-facebook }, { -brand-name-youtube } ha { -brand-name-hulu }-pe.
