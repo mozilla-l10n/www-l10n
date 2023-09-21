@@ -19,7 +19,7 @@ bookmark-manager-image-of-the-bookmark-manager = Immagine della finestra di gest
 bookmark-manager-easily-import-bookmarks = Importa facilmente i segnalibri
 bookmark-manager-you-can-import-your-bookmarks = Puoi importare i segnalibri da Chrome, Safari o Edge con la procedura guidata di importazione di { -brand-name-firefox }. Basta fare clic su Segnalibri > Gestisci segnalibri, quindi selezionare “Importa e salva”.
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-firefox-import-wizard = Immagine della finestra di dialogo dell’importazione guidata di { -brand-name-firefox }, che mostra le opzioni per importare impostazioni e dati da altri browser.
+bookmark-manager-image-of-the-firefox-import-wizard = Immagine della finestra di dialogo dell’importazione guidata di { -brand-name-firefox } che mostra le opzioni per importare impostazioni e dati da altri browser.
 bookmark-manager-bookmarks-toolbar = Barra dei segnalibri
 bookmark-manager-get-quick-access-to-your = Accedi rapidamente ai tuoi segnalibri preferiti dal menu nella parte superiore di { -brand-name-firefox } o aggiungili alla barra dei segnalibri.
 # Used as an accessible text alternative for an image
