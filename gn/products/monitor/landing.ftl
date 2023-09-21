@@ -20,9 +20,12 @@ monitor-since-2018-we-have-helped = Ary 2018 guive, roipytyvõ yvypóra 237 tet�
 # This string is followed by a list of media outlets
 monitor-as-seen-in = Ojehechaháicha
 monitor-here-is-how-we-help = Péicha roipytyvõ eñemo’ã hag̃ua
+monitor-we-believe-in-your-right = Romomba’e nde derécho tekoñemirã, upévare ñemo’ã mba’ekuaarã ñembogua roikuave’ẽ reiete.
 
 ## FAQ section
 
+monitor-all-faq-link = Ehechapa FAQs
+monitor-faq-what-is-a-data-breach-question = Mba’épa pe mba’ekuaarã ñembyai
 
 ##
 
