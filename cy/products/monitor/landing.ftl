@@ -14,7 +14,7 @@ monitor-hero-tagline = Rydym yn sganio tor-data i weld a yw'ch data wedi'u datge
 
 ## Get free scan form
 
-monitor-form-enter-email-to-scan = Rhowch e-bost i sganio yma
+monitor-form-enter-email-to-scan = Rhowch e-bost i'w sganio yma
 monitor-form-get-free-scan = Cael sgan am ddim
 monitor-form-enter-your-email-address = Rhowch eich cyfeiriad e-bost i wirio am ddatguddiadau tor-data.
 
@@ -48,7 +48,7 @@ monitor-faq-what-is-a-data-breach-answer = Mae tor-data yn digwydd pan fydd many
 monitor-faq-what-do-i-do-question = Rwyf newydd ddeall fy mod i'n rhan o tor-data. Beth ddylwn i ei wneud nesaf?
 monitor-faq-what-do-i-do-answer = Ewch i { -brand-name-mozilla-monitor } i gael gwybod beth i'w wneud ar ôl tor-data a chael camau i'ch tywys i ddatrys datguddiadau o'ch manylion personol. Mae hacwyr yn dibynnu ar bobl yn ailddefnyddio cyfrineiriau, felly mae'n bwysig creu cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon. Cadwch eich cyfrineiriau mewn man diogel y mae gennych chi yn unig fynediad iddo; gall hyn fod yr un man lle rydych yn cadw dogfennau pwysig neu reolwr cyfrinair.
 monitor-faq-what-gets-exposed-question = Pa fanylion sy'n cael ei datgelu mewn achosion o dor-data?
-monitor-faq-whats-gets-exposed-answer = Nid yw pob tor-data'n amlygu'r un manylion. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data yn amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau pasbort a rhifau nawdd cymdeithasol.
+monitor-faq-whats-gets-exposed-answer = Nid yw pob tor-data'n amlygu'r un manylion. Mae'n dibynnu ar yr hyn y gall hacwyr gael mynediad ato. Mae llawer o achosion o dor-data'n amlygu cyfeiriadau e-bost a chyfrineiriau. Mae eraill yn datgelu manylion mwy sensitif fel rhifau cardiau credyd, rhifau pasbort a rhifau nawdd cymdeithasol.
 
 ##
 
