@@ -40,5 +40,8 @@ vpn-pick-a-recommended = Izberite eno izmed priporočenih mest za hitro in stabi
 ## FAQ Strings
 
 vpn-download-faq-need-help = Potrebujete pomoč pri prvih korakih?
+vpn-download-faq-here-are-some = Tukaj je nekaj najpogostejših vprašanj o nameščanju { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Zakaj naj bi uporabljal { -brand-name-mozilla-vpn }
+vpn-download-faq-working = Kako vem, da VPN deluje?
+vpn-download-faq-add-device = Kako dodam še eno napravo?
 vpn-download-faq-need-more = Potrebujete še malo pomoči?

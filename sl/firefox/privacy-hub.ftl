@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Spoznajte štiri najpogostej�
 firefox-privacy-hub-always-in-your-control = Vedno na vaših vajetih
 firefox-privacy-hub-want-to-customize-what = Želite prilagoditi, kaj se zavrača? Vaše nastavitve so oddaljene le en klik.
 firefox-privacy-hub-protection-beyond-tracking = Več kot zaščita pred sledenjem
+firefox-privacy-hub-if-you-have-a-mozilla-account = Če imate { -brand-name-mozilla-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-firefox-account }, si lahko ogledate tudi, kako vam pomagamo zaščititi vaše osebne podatke in gesla.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Pošljite datoteko
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } priporoča kakovostne in ročno izbrane članke, ne da bi spremljal vašo zgodovino brskanja ali vaše osebne podatke posredoval oglaševalcem.
 firefox-privacy-hub-get-pocket = Prenesite { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Vaš { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Vaš { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Vsi podatki, ki se sinhronizirajo prek { -brand-name-mozilla-account(sklon: "rodilnik") } – od zgodovine brskanja do gesel – so šifrirani. In edini ključ je geslo vašega računa.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Vsi podatki, ki se sinhronizirajo preko { -brand-name-firefox-account(sklon: "rodilnik") } – od zgodovine brskanja do gesel – so šifrirani. In edini ključ je geslo vašega računa.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Vzemite svojo zasebnost in zaznamke s seboj z { -brand-name-mozilla-account(sklon: "orodnik") }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vzemite svojo zasebnost in zaznamke s seboj s { -brand-name-firefox-account(sklon: "orodnik") }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Že imate račun? <a { $sign_in } class="{ $class_name }">Prijavite se</a> ali <a href="{ $learn_more }">izvedite več</a> o pridružitvi { -brand-name-mozilla(sklon: "dajalnik") }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
