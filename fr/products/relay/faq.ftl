@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = Quelles sont les utilisations acceptables
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } a les mêmes <a href="{ $url }" { $attrs }>conditions d’utilisation que tous les autres produits de { -brand-name-mozilla }</a>. Nous avons une politique de tolérance zéro en cas d’utilisation de { -brand-name-relay } à des fins malveillantes, comme le spam, qui entraîne la résiliation du compte de l’utilisateur ou l’utilisatrice. Nous prenons des mesures afin d’empêcher les utilisateurs et utilisatrices de violer nos conditions d’utilisation en :
+faq-question-acceptable-use-answer-measure-account-v2 = demandant l’existence d’un { -brand-name-mozilla-account } avec une adresse e-mail vérifiée
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = demandant l’existence d’un { -brand-name-firefox-account } avec une adresse e-mail vérifiée
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = exigeant un paiement pour qu’un utilisateur ou une utilisatrice puisse créer plus de cinq alias
 faq-question-acceptable-use-answer-measure-rate-limit-2 = limitant le nombre d’alias qui peuvent être générés en une journée
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

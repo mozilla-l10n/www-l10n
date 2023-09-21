@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = Zu welchem Zweck darf { -brand-name-relay
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = Für { -brand-name-firefox-relay } gelten dieselben <a href="{ $url }" { $attrs }>Nutzungsbedingungen wie für alle { -brand-name-mozilla } Produkte</a>. Wir haben eine strickte Null-Toleranz-Richtlinie für die Verwendung von { -brand-name-relay } zu böswilligen Zwecken wie Spam. Eine solche Verwendung führt zu sofortigen Kündigung des Benutzerkontos. Wir ergreifen folgende Maßnahmen, um Nutzer*innen vom Verstoß gegen unsere Bedingungen abzuhalten:
+faq-question-acceptable-use-answer-measure-account-v2 = es muss ein { -brand-name-mozilla-account } mit verifizierter E-Mail-Adresse bestehen
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = es muss ein { -brand-name-firefox-account } mit verifizierter E-Mail-Adresse bestehen
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = für die Erstellung von mehr als fünf Masken fallen für alle Nutzer*innen Gebühren an
 faq-question-acceptable-use-answer-measure-rate-limit-2 = es kann nur eine begrenzte Anzahl Masken an einem Tag erstellt werden
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

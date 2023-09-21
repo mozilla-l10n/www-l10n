@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = どのような { -brand-name-relay } の
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } の<a href="{ $url }" { $attrs }>利用規約は、すべての { -brand-name-mozilla } 製品と同じです</a>。迷惑メールなど悪意のある目的で { -brand-name-relay } を使用することは一切許容せず、ユーザーアカウントを停止します。Mozilla は、利用規約違反を防止するために、次の対策を講じています。
+faq-question-acceptable-use-answer-measure-account-v2 = { -brand-name-mozilla-account } に検証済みのメールアドレスの紐付けを求める
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = { -brand-name-firefox-account } に検証済みのメールアドレスの紐付けを求める
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = ユーザーが 5 個を超えるマスクの作成を有料とする
 faq-question-acceptable-use-answer-measure-rate-limit-2 = 1 日に生成できるマスクの数を制限する
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

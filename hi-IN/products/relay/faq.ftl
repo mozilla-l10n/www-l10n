@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = { -brand-name-relay } के स्वी
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } में उपयोग की शर्तें हैं <a href="{ $url }" { $attrs }>वही हैं जो समस्त { -brand-name-mozilla } उत्पादों</a> में होती हैं। उन मामलों में हमारी जीरो-टॉलरेंसी की नीति रहती है, जहां { -brand-name-relay } का उपयोग स्पैम जैसे दुर्भावनापूर्ण उद्देश्यों के लिए किया जाता है। ऐसे में, परिणामस्वरूप यूज़र का अकाउंट हमेशा के लिए बंद किया जा सकता है। हम यूज़र्स को हमारी शर्तों का उल्लंघन करने से रोकने के लिए निम्नलिखित उपाय अमल में लाते हैं:
+faq-question-acceptable-use-answer-measure-account-v2 = सत्यापित ईमेल एड्रेस वाले { -brand-name-mozilla-account } की अनिवार्यता
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = सत्यापित ईमेल एड्रेस वाले { -brand-name-firefox-account } की अनिवार्यता
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = प्रति यूज़र पांच से अधिक मास्क बनाने पर आवश्यक भुगतान किए जाने की अनिवार्यता
 faq-question-acceptable-use-answer-measure-rate-limit-2 = एक दिन में जनरेट किए जा सकने वाले मास्क की संख्या का सीमा-निर्धारण
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

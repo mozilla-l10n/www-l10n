@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = ما استخدامات { -brand-name-rel
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = تسري على { -brand-name-firefox-relay } ذات <a href="{ $url }" { $attrs }>شروط استخدام جميع منتجات { -brand-name-mozilla }</a>. تجدُر الإشارة إلى أننا نُطبق سياسة لا تتسامح مطلقًا مع استخدام { -brand-name-relay } لأغراض خبيثة كالرسائل المزعجة، ويؤدي ذلك إلى وقف حساب المستخدِم. علاوة على ذلك، فإننا نستخدم التدابير اللازمة لمنع المُستخدمين من انتهاك شروطنا من خلال:
+faq-question-acceptable-use-answer-measure-account-v2 = طلب { -brand-name-mozilla-account } بعنوان بريد إلكتروني مُتحقق من صلاحيته
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = طلب { -brand-name-firefox-account } بعنوان بريد إلكتروني مُتحقق من صلاحيته
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = مطالبة المستخدم بالدفع مقابل إنشاء أكثر من خمسة أقنعة
 faq-question-acceptable-use-answer-measure-rate-limit-2 = تقييد متوسط عدد الأقنعة التي يمكن إنشاؤها في يوم واحد
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

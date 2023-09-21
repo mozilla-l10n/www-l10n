@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = Apakah amalan yang boleh diterima oleh { 
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } mempunyai persamaan dengan <a href="{ $url }" { $attrs }>syarat penggunaan bagi semua produk { -brand-name-mozilla } yang lain</a>. Kami tidak akan bertoleransi sekiranya { -brand-name-relay } digunakan untuk tujuan jahat seperti spam, yang mengakibatkan akaun pengguna ditamatkan.Kami mengambil langkah untuk memastikan pengguna tidak melanggar syarat kami dengan:
+faq-question-acceptable-use-answer-measure-account-v2 = Memerlukan { -brand-name-mozilla-account } dengan alamat e-mel yang disahkan
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Memerlukan { -brand-name-firefox-account } dengan alamat e-mel yang disahkan
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Memerlukan bayaran untuk pengguna mencipta lebih daripada lima samaran
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Menghadkan bilangan samaran yang boleh dijana dalam satu hari
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/

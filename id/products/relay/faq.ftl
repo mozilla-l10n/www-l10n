@@ -66,7 +66,11 @@ faq-question-acceptable-use-question = Apa saja penggunaan { -brand-name-relay }
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } memiliki <a href="{ $url }" { $attrs }>persyaratan penggunaan sebagai semua produk { -brand-name-mozilla }</a>. Kami memiliki kebijakan tanpa toleransi jika menyangkut penggunaan { -brand-name-relay } untuk tujuan jahat seperti spam, mengakibatkan penghentian akun pengguna. Kami mengambil tindakan untuk mencegah pengguna melanggar persyaratan kami dengan:
+faq-question-acceptable-use-answer-measure-account-v2 = Meminta { -brand-name-mozilla-account } dengan alamat email yang terverifikasi
+
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Meminta { -brand-name-firefox-account } dengan alamat email yang terverifikasi
+
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Jika pengguna ingin membuat lebih dari lima topeng maka diperlukan pembayaran
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Pembatasan tingkat jumlah topeng yang dapat dihasilkan dalam satu hari
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
