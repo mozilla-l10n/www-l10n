@@ -8,34 +8,34 @@
 # HTML page title
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — Diogelu Eich Data Personol rhag Datgeliadau
 # HTML page description
-monitor-landing-page-desc = Darganfyddwch a yw eich gwybodaeth bersonol, o rifau ffôn i gyfeiriadau cartref, wedi cael ei datgelu ar-lein. Ymunwch â 10 miliwn o ddefnyddwyr ledled y byd i adennill eich preifatrwydd. Dechreuwch gyda sgan am ddim.
-monitor-hero-heading = Darganfyddwch ble mae'ch gwybodaeth breifat yn cael ei datgelu - a chymerwch hi yn ôl
-monitor-hero-tagline = Rydym yn sganio toriadau data i weld a yw'ch data wedi'i ollwng ac yn rhoi camau i chi ei drwsio.
+monitor-landing-page-desc = Darganfyddwch a yw eich manylion personol, o rifau ffôn i gyfeiriadau cartref, wedi cael eu datgelu ar-lein. Ymunwch â 10 miliwn o ddefnyddwyr ledled y byd i adennill eich preifatrwydd. Dechreuwch gyda sgan am ddim.
+monitor-hero-heading = Darganfyddwch ble mae'ch manylion preifat yn cael eu datgelu — a'u cymryd nhw nôl
+monitor-hero-tagline = Rydym yn sganio tor-data i weld a yw'ch data wedi'u datgelu ac yn cynnig camau i chi i'w drwsio.
 
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = Rhowch e-bost i sganio yma
 monitor-form-get-free-scan = Cael sgan am ddim
-monitor-form-enter-your-email-address = Rhowch eich cyfeiriad e-bost i wirio am ddatguddiadau torri data.
+monitor-form-enter-your-email-address = Rhowch eich cyfeiriad e-bost i wirio am ddatguddiadau tor-data.
 
 ##
 
-monitor-data-breaches-happen-every = <strong>Torri data</strong> yn digwydd bob 11 munud, gan ddatgelu eich gwybodaeth breifat - ond peidiwch â phoeni, gallwn helpu.
+monitor-data-breaches-happen-every = Mae <strong>tor-data</strong> yn digwydd bob 11 munud, gan ddatgelu eich manylion preifat - ond peidiwch â phoeni, gallwn ni eich helpu.
 monitor-help-fix-exposures = Byddwn yn helpu i drwsio'ch datguddiadau
 # Variables:
 #   $privacy (url) - https://www.mozilla.org/privacy/
-monitor-our-mission-is = Ein cenhadaeth yw rhoi rheolaeth ar eich data personol yn ôl yn eich dwylo. Byddwn yn eich helpu i ddatrys toriadau data a chadw'ch gwybodaeth yn breifat — a byddwn yn <a href="{ $privacy }">parchu eich preifatrwydd</a> yn y broses.
-monitor-what-info-could-be = Pa wybodaeth allai fod mewn perygl?
-monitor-data-leaks-are-unfortunately = Yn anffodus, mae gollyngiadau data yn rhan o'n bywydau digidol. Gall eich cyfrineiriau, manylion cyswllt, gwybodaeth ariannol, a gwybodaeth bersonol arall ddod i'r amlwg, gan eich rhoi mewn perygl o ddwyn hunaniaeth.
+monitor-our-mission-is = Ein cenhadaeth yw rhoi rheolaeth ar eich data personol yn ôl i chi. Byddwn yn eich helpu i ddatrys tor-data a chadw'ch manylion yn breifat — a byddwn yn <a href="{ $privacy }">parchu eich preifatrwydd</a> wrth wneud hynny.
+monitor-what-info-could-be = Pa fanylion allai fod mewn perygl?
+monitor-data-leaks-are-unfortunately = Yn anffodus, mae gollyngiadau data yn rhan o'n bywydau digidol. Gall eich cyfrineiriau, manylion cyswllt, manylion ariannol, a manylion bersonol eraill ddod i'r amlwg, gan eich rhoi mewn perygl o ddwyn eich hunaniaeth.
 monitor-scan-your-email = Sganiwch eich e-bost i ddechrau arni am ddim
 monitor-trusted-by-10-million = Mae 10 miliwn o bobl ledled y byd yn ymddiried ynddo
-monitor-since-2018-we-have-helped = Ers 2018, rydym wedi helpu pobl mewn 237 o wledydd i gadw eu gwybodaeth bersonol allan o’r dwylo anghywir.
+monitor-since-2018-we-have-helped = Ers 2018, rydym wedi helpu pobl mewn 237 o wledydd i gadw eu manylion personol allan o’r dwylo anghywir.
 # This string is followed by a list of media outlets
 monitor-as-seen-in = Fel wedi'i weld yn
-monitor-here-is-how-we-help = Dyma sut rydyn ni'n helpu i'ch amddiffyn chi
-monitor-we-believe-in-your-right = Rydym yn credu yn eich hawl i breifatrwydd, felly mae amddiffyniad monitro torri data bob amser yn rhad ac am ddim.
-monitor-we-will-search-for-you = Byddwn yn chwilio amdanoch ym mhob achos hysbys o dorri rheolau data
-monitor-we-will-guide-you = Byddwn yn eich arwain trwy'r camau i ddatrys pob toriad
+monitor-here-is-how-we-help = Dyma sut rydyn ni'n helpu i'ch diogelu chi
+monitor-we-believe-in-your-right = Rydym yn credu yn eich hawl i breifatrwydd, felly mae amddiffyniad monitro tor-data bob amser ar gael yn rhad ac am ddim.
+monitor-we-will-search-for-you = Byddwn yn chwilio amdanoch ym mhob achos hysbys o dor-data
+monitor-we-will-guide-you = Byddwn yn eich arwain trwy'r camau i ddatrys pob tor-data
 monitor-we-will-continuously = Byddwn yn monitro ac yn anfon rhybuddion atoch yn barhaus am unrhyw doriadau newydd
 monitor-sign-up-for-breach-alerts = Cofrestrwch am rybuddion tor-data
 
