@@ -41,7 +41,11 @@ sub-navigation-android-addons = وظائف { -brand-name-android } الإضاف�
 
 sub-navigation-android-add-ons = وظائف { -brand-name-android } الإضافية
 sub-navigation-chromebook = { -brand-name-chromebook }
+
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+
+sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 بت
