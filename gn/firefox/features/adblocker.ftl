@@ -54,5 +54,8 @@ features-adblocker-send-a-do-not-track-signal = Send ejehapykueho’ỹ hag̃ua
 features-adblocker-if-you-dont-want-your = Ndereipotáiramo nde reko ñandutípe ojeporu ñemurã, ikatu eguerahauka tendakuérape ñe’ẽmondo he’íva ndereipotaiha jehapykueho eikutúvo jeporavorã <a href="{ $url }">Tapykueho’ỹ</a> { -brand-name-firefox } guive. Ejapo ndejehegui, hákatu umi ñanduti renda ohechakuaáta kóva, nanderapykuehomo’ãvéima upe rire.
 features-adblocker-speed-up-thanks-to-ad = Embopya’eve maranduñemurã rupive
 features-adblocker-in-some-cases-an-ad-blocker = Heta jey, maranduñemurã jokoha ikatu nepytyvõ ne kundaha ipya’eve hag̃ua. Henyhẽkuévo ñemurã, ikatu omombegueve ñanduti renda. Upéicha avei, nemombegueve ejuhu hag̃ua umi ehekáva ehecháramo ambue ñemurã emboty hag̃ua.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Eikuasérõ mba’éichapa ejokóta ñemurã, oĩ heta moimbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahárape. Eiporusérõ maranduñemurã jokoha { -brand-name-firefox } mba’éva, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> peteĩ kundahára omotenondéva nde rekoñemi.
 # Obsolete string
 features-adblocker-if-you-want-to-learn-more = Eikuasevéramo mba’éichapa ejokóta ñemurã, oĩ heta moimbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahápe, eiporuséramo heta mba’e ome’ẽva { -brand-name-firefox } ejoko hag̃ua maranduñemurã, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> kundaha omotenondéva ñemigua.
