@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Möt fyra av de vanligaste ka
 firefox-privacy-hub-always-in-your-control = Alltid i din kontroll
 firefox-privacy-hub-want-to-customize-what = Vill du anpassa vad som blockeras? Dina inställningar är bara ett klick bort.
 firefox-privacy-hub-protection-beyond-tracking = Skydd utöver spårning
+firefox-privacy-hub-if-you-have-a-mozilla-account = Om du har ett { -brand-name-mozilla-account } kan du också se hur vi hjälper dig att skydda din personliga information och dina lösenord.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Om du har ett { -brand-name-firefox-account } kan du också se hur vi hjälper dig att skydda din personliga information och lösenord.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Skicka en fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekommenderar högkvalitativa, mänskliga kuraterade artiklar utan att samla in din surfhistorik eller dela din personliga information med annonsörer.
 firefox-privacy-hub-get-pocket = Hämta { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Ditt { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Ditt { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = All information som synkroniseras genom ditt { -brand-name-mozilla-account } — från webbläsarhistorik till lösenord — är krypterade. Och ditt kontolösenord är den enda nyckeln.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = All information som synkroniseras via ditt { -brand-name-firefox-account } — från webbhistorik till lösenord — är krypterade. Och ditt lösenord är den enda nyckeln.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Ta med dig din integritet och dina bokmärken överallt med ett { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta din integritet och bokmärken överallt med ett { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Har du redan ett konto? <a { $sign_in } class="{ $class_name }">Logga in</a> eller <a href="{ $learn_more }">läs mer</a> om att gå med i { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

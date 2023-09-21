@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } skiljer sig fr
 compare-brave-the-internet-as-a-whole-is = Internet som helhet betalas till stor del av visningsannonser, vilket håller det faktiska innehållet du vill visa gratis. { -brand-name-brave } har försökt uppgradera denna modell genom att uppmuntra sina användare att välja { -brand-name-brave }:s egna belöningssystem, som i verkligheten är sin egna annonsplattform. När en användare har valt att delta, kommer { -brand-name-brave } att visa vad de kallar "sekretessrespektiva annonser" för vilka du kan visa och tjäna vad de kallar en grundläggande uppmärksamhetsbeteckning a.k.a. en BAT. Från denna punkt kan { -brand-name-brave } användare välja att spendera sina BAT för att stödja webbplatserna eller enskilda bidragsgivare som de gillar, som i sin tur kan konvertera BAT:erna till faktisk valuta.
 compare-brave-whether-this-sounds-complicated = Oavsett om detta låter komplicerat eller som en bra idé beror förmodligen på din nivå av förakt för att visa annonser på Internet. De flesta internetanvändare förstår att bra innehåll kostar pengar och är okej med att pengarna kommer från reklam.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Å andra sidan, med webbläsaren { -brand-name-firefox } föredrar vi att saker är enkla. { -brand-name-firefox } blockerar många tredjepartsspårare, kryptogrävare och fingeravtrycksspårare från att följa dig som standard. Men { -brand-name-firefox } utanför det privata surfläget, väljer att inte blockera annonser från att visas. Det vill säga om du inte installerar <a { $attrs }>ett av de tillägg som är specifikt utformade för det ändamålet</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Möjligheten att synkronisera
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Webbläsaren { -brand-name-firefox } ger användarna också möjlighet att registrera sig för ett gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Att ha ett { -brand-name-mozilla-account } är nyckeln till att låsa upp synkronisering mellan enheter, plus att du får den extra fördelen med produkter som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som övervakar dina e-postadresser och varnar dig om någon av dina uppgifter har varit inblandade i några kända <a { $breaches }>dataintrång</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Webbläsaren { -brand-name-firefox } ger användare också möjlighet att registrera sig för ett gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. Att ha ett { -brand-name-firefox }-konto är nyckeln till att låsa upp synkronisering mellan enheter, plus att du får den extra fördelen med produkter som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som övervakar dina e-postadresser och varnar dig om någon av dina uppgifter har varit inblandade i några kända  <a { $breaches }>dataintrång</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } har också nyligen fått förmågan att synkronisera data mellan de populäraste operativsystemen och enheterna med den extra kapaciteten att synkronisera dina Basic Attention Tokens (BAT).

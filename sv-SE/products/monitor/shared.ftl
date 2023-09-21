@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Alla intrång
 ## Footer
 
 monitor-shared-footer-about-mozilla = Om { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = Användarvillkor
+monitor-shared-footer-privacy-policy = Integritetspolicy
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Villkor och sekretess
 monitor-shared-footer-github = GitHub

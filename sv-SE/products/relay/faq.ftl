@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Vilka är de acceptabla användningsområ
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } har samma <a href="{ $url }" { $attrs }>användningsvillkor som alla { -brand-name-mozilla }-produkter</a>. Vi har en nolltoleranspolicy när det gäller att använda { -brand-name-relay } för skadliga ändamål som skräppost, vilket leder till att en användares konto sägs upp. Vi vidtar åtgärder för att förhindra användare från att bryta mot våra villkor genom att:
+faq-question-acceptable-use-answer-measure-account-v2 = Kräver ett { -brand-name-mozilla-account } med en verifierad e-postadress
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Kräver en { -brand-name-firefox-account } med en verifierad e-postadress
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Kräver betalning för att en användare ska kunna skapa fler än fem alias
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Begränsa antalet alias som kan genereras på en dag
