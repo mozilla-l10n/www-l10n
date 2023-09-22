@@ -53,6 +53,18 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
 firefox-desktop-download-available-in-over = Dostupan na preko 90 jezika i kompatibilan sa { -brand-name-windows }, { -brand-name-mac-short } i { -brand-name-linux } mašinama, { -brand-name-firefox } radi bez obzira šta koristite ili gdje se nalazite. Ipak, za najbolje iskustvo ažurirajte vaš operativni sistem.
 firefox-desktop-download-review-system-req = Provjerite sistemske zahtjeve
 firefox-desktop-download-all-your-devices = Instalirajte { -brand-name-firefox } na sve svoje uređaje
+firefox-desktop-download-take-your-privacy = Ponesite svoju privatnost svuda sa sobom. { -brand-name-firefox-browsers } za { -brand-name-ios } i { -brand-name-android } imaju iste jake postavke privatnosti da blokiraju pratioce da vas prate širom weba, bez obzira gdje se nalazite.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Uz { -brand-name-firefox } <strong>sve</strong> je moguće
+firefox-desktop-download-search-smarter = Pretražujte pametnije, brže
+firefox-desktop-download-search-from-address = Pretražujte iz adresne trake
+firefox-desktop-download-search-engine-options = Opcije pretraživača
+firefox-desktop-download-smart-search-suggestions = Prijedlozi za pametno pretraživanje
+firefox-desktop-download-bookmark-history = Oznake, historija i otvoreni tabovi u rezultatima
+firefox-desktop-download-boost-your = Povećajte svoju produktivnost
+firefox-desktop-download-works-with-google = Radi sa { -brand-name-google } proizvodima
+firefox-desktop-download-built-in-screenshot = Ugrađeni alat za snimanje ekrana
+firefox-desktop-download-bookmarks-manager = Menadžer oznaka
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
