@@ -65,6 +65,40 @@ firefox-desktop-download-boost-your = Povećajte svoju produktivnost
 firefox-desktop-download-works-with-google = Radi sa { -brand-name-google } proizvodima
 firefox-desktop-download-built-in-screenshot = Ugrađeni alat za snimanje ekrana
 firefox-desktop-download-bookmarks-manager = Menadžer oznaka
+firefox-desktop-download-autosuggest-urls = Automatsko dovršavanje adresa
+firefox-desktop-download-sync-across-devices = Sinhronizacija na svim uređajima
+firefox-desktop-download-reader-mode = Režim čitanja
+firefox-desktop-download-spell-check = Provjera pravopisa
+firefox-desktop-download-pinned-tabs = Zakačeni tabovi
+firefox-desktop-download-stream-share-play = Strimujte, dijelite i igrajte
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Blokiraj automatsku reprodukciju videa i zvuka
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = Slika-u-slici
+firefox-desktop-download-curated-content-on = Odabrani sadržaj u novom tabu
+firefox-desktop-download-share-links = Podijeli linkove
+firefox-desktop-download-protect-your-privacy = Zaštitite privatnost
+firefox-desktop-download-third-party-cookie = Blokiranje kolačića treće strane
+firefox-desktop-download-fingerprinter-blocking = Blokiranje hvatača otiska prsta
+firefox-desktop-download-cryptominer-blocking = Blokiranje kripto-rudara
+firefox-desktop-download-private-browsing-mode = Privatni način pretraživanja
+firefox-desktop-download-individual-protections-report = Izvještaj o individualnoj zaštiti
+firefox-desktop-download-secure-your-personal = Osigurajte svoje lične podatke
+firefox-desktop-download-breached-website-alerts = Upozorenja o curenju podataka
+firefox-desktop-download-built-in-password = Ugrađeni menadžer lozinki
+firefox-desktop-download-clear-history = Očisti historiju
+firefox-desktop-download-form-autofill = Automatsko popunjavanje obrasca
+firefox-desktop-download-automatic-updates = Automatska ažuriranja
+firefox-desktop-download-customize-your-browser = Prilagodite vaš pretraživač
+firefox-desktop-download-themes = Teme
+firefox-desktop-download-dark-mode = Tamni način rada
+firefox-desktop-download-library-of-extensions = Biblioteka ekstenzija
+firefox-desktop-download-adjust-search-bar = Podesite postavke trake za pretragu
+firefox-desktop-download-change-new-tab = Promijenite izgled novog taba
+firefox-desktop-download-make-firefox-your = Prilagodite <strong>{ -brand-name-firefox }</strong>
+firefox-desktop-download-extensions-for-every = Ekstenzije za svaku priliku
+firefox-desktop-download-change-up-your = Promijenite svoj izgled
+firefox-desktop-download-go-from-light = U zavisnosti od vašeg raspoloženja, prebacujte se sa svijetlog na tamni način rada ili oživite ekran prilagođenom temom (možda duginim jednorogom).
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
