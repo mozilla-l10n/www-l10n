@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Wat zijn de acceptabele toepassingen van 
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } heeft dezelfde <a href="{ $url }" { $attrs }>gebruiksvoorwaarden als alle { -brand-name-mozilla }-producten</a>. We hebben een nultolerantiebeleid als het gaat om het gebruik van { -brand-name-relay } voor kwaadaardige doeleinden zoals spam, wat leidt tot de beëindiging van een gebruikersaccount. We nemen maatregelen om te voorkomen dat gebruikers onze voorwaarden schenden door:
+faq-question-acceptable-use-answer-measure-account-v2 = Een { -brand-name-mozilla-account } met een geverifieerd e-mailadres vereisen
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Een { -brand-name-firefox-account } met een geverifieerd e-mailadres te vereisen
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Betaling te vragen als een gebruiker meer dan vijf maskers wil aanmaken
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Het aantal maskers dat op één dag kan worden aangemaakt te beperken

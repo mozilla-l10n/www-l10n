@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Alle datalekken
 ## Footer
 
 monitor-shared-footer-about-mozilla = Over { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = Servicevoorwaarden
+monitor-shared-footer-privacy-policy = Privacybeleid
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Voorwaarden en privacy
 monitor-shared-footer-github = GitHub

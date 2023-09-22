@@ -56,8 +56,12 @@ newsletters-please-select-language = Selecteer een taal
 # Form field label
 newsletters-format = Opmaak:
 newsletters-text-subscribers-will-receive = Tekstabonnementen ontvangen tweemaal per jaar een e-mailbericht, om de voortzetting van de inschrijving te bevestigen. Deze e-mailberichten kunnen HTML bevatten.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
+# Obsolete string
 newsletters-many-of-our-communications = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -293,6 +297,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Speciale aankondigingen helpen u het meeste uit { -brand-name-webmaker } te halen.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Ontvang tips van { -brand-name-mozilla } over hoe u het meeste uit uw account haalt.

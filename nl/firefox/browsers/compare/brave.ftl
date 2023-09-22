@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } onderscheidt z
 compare-brave-the-internet-as-a-whole-is = Het internet als geheel wordt grotendeels betaald door het tonen van advertenties, waardoor de inhoud die u echt wilt zien gratis blijft. { -brand-name-brave } heeft geprobeerd dit model te verbeteren door haar gebruikers aan te moedigen zich aan te melden voor het eigen beloningssysteem van { -brand-name-brave }, dat in werkelijkheid haar eigen advertentieplatform is. Als een gebruiker eenmaal is aangemeld, toont { -brand-name-brave } ‘privacy respecterende advertenties’, waarvoor u een zogenoemd Basic Attention Token, of BAT, kunt bekijken en verdienen. Vanaf dat moment kunnen gebruikers van { -brand-name-brave } ervoor kiezen hun BATs uit te geven aan ondersteuning van hun favoriete websites of individuele bijdragers, die op hun beurt de BATs in echt geld kunnen omzetten.
 compare-brave-whether-this-sounds-complicated = Of het nu gecompliceerd of als een geweldig idee klinkt, hangt waarschijnlijk af van uw afkeer van advertenties op het internet. De meeste internetgebruikers begrijpen dat goede inhoud geld kost en vinden het prima dat dat geld uit advertenties komt.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Aan de andere kant, met de { -brand-name-firefox }-browser geven we er de voorkeur aan om de boel simpel te houden. { -brand-name-firefox } zorgt er standaard voor dat veel trackers van derden, cryptominers en fingerprinters u niet kunnen volgen. Echter, { -brand-name-firefox } kiest er, buiten de privénavigatiemodus, voor om de weergave van advertenties niet te blokkeren. Dat wil zeggen, tenzij u <a { $attrs }>een van de extensies die speciaal voor dat doel zijn ontworpen</a> installeert.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = De mogelijkheid om uw wachtwo
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = De { -brand-name-firefox }-browser biedt gebruikers de mogelijkheid zich aan te melden voor een gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Een { -brand-name-mozilla-account }-account is de sleutel om te kunnen synchroniseren tussen apparaten, en u ontvangt het voordeel van producten als <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat uw e-mailadressen controleert en u waarschuwt als uw gegevens zijn getroffen door een bekend <a { $breaches }>datalek</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = De { -brand-name-firefox }-browser biedt gebruikers de mogelijkheid zich aan te melden voor een gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. Een { -brand-name-firefox }-account is de sleutel om te kunnen synchroniseren tussen apparaten, en u ontvangt het voordeel van producten als <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat uw e-mailadressen controleert en u waarschuwt als uw gegevens zijn getroffen door een bekend <a { $breaches }>datalek</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } heeft onlangs ook de mogelijkheid om gegevens tussen de populairste besturingssystemen en apparaten te synchroniseren geïntroduceerd, evenals de toegevoegde mogelijkheid om uw Basic Attention Tokens te synchroniseren.

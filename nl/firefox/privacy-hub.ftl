@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Maak kennis met vier van de m
 firefox-privacy-hub-always-in-your-control = Altijd in controle
 firefox-privacy-hub-want-to-customize-what = Wilt u aanpassen wat wordt geblokkeerd? Uw instellingen zijn slechts een klik verwijderd.
 firefox-privacy-hub-protection-beyond-tracking = Bescherming voorbij volgen
+firefox-privacy-hub-if-you-have-a-mozilla-account = Als u een { -brand-name-mozilla-account } hebt, dan kunt u ook zien hoe we u helpen uw persoonlijke gegevens en wachtwoorden te beschermen.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Als u een { -brand-name-firefox-account } hebt, dan kunt u ook zien hoe we u helpen uw persoonlijke gegevens en wachtwoorden te beschermen.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Een bestand verzenden
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } beveelt hoogwaardige, door mensen beheerde artikelen aan zonder uw surfgeschiedenis te verzamelen of uw persoonlijke gegevens met adverteerders te delen.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } gebruiken
+firefox-privacy-hub-your-mozilla-account = Uw { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Uw { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Alle informatie die wordt gesynchroniseerd via uw { -brand-name-mozilla-account } – van navigatiegeschiedenis tot wachtwoorden – wordt versleuteld. En uw accountwachtwoord is de enige sleutel.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Alle informatie die wordt gesynchroniseerd via uw { -brand-name-firefox-account } – van navigatiegeschiedenis tot wachtwoorden – wordt versleuteld. En uw accountwachtwoord is de enige sleutel.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Neem uw privacy en bladwijzers overal mee naartoe met een { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Neem uw privacy en bladwijzers overal mee naartoe met een { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Hebt u al een account? <a { $sign_in } class="{ $class_name }">Meld u aan</a> of <a href="{ $learn_more }">lees meer</a> over meedoen met { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Alle talen
 sub-navigation-firefox = { -brand-name-firefox }
@@ -36,7 +36,9 @@ sub-navigation-firefox-for-mobile = { -brand-name-firefox } voor Mobiel
 sub-navigation-android-addons = { -brand-name-android }-add-ons
 sub-navigation-android-add-ons = { -brand-name-android }-add-ons
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bits

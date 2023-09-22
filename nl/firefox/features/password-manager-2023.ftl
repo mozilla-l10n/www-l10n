@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = De wachtwoordenbeheerder v
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } slaat uw gebruikersnamen en wachtwoorden voor toegang tot websites veilig op, vult ze automatisch voor u in de volgende keer dat u een website bezoekt, en laat u uw opgeslagen aanmeldingen beheren met de ingebouwde functie voor wachtwoordbeheer.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = Met een <a href="{ $fxa }">gratis { -brand-name-mozilla-account }</a> kunt u uw wachtwoorden veilig synchroniseren op al uw apparaten.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Met een <a href="{ $fxa }">gratis { -brand-name-firefox-account }</a> kunt u uw wachtwoorden veilig synchroniseren op al uw apparaten.
 password-manager-password-autofill-for-easy-logins = Automatisch wachtwoorden invullen voor eenvoudige aanmelding
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatisch uw opgeslagen gebruikersnaam en wachtwoord invullen. Als u meer dan één aanmelding voor een website hebt, kunt u gewoon de gewenste account selecteren, waarna wij het overnemen.

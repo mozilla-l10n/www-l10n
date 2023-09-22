@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = Naast de normale set functies die u 
 compare-safari-like-safari-firefox-encourages = Net als { -brand-name-safari } moedigt { -brand-name-firefox } zijn enthousiaste ontwikkelaarsgemeenschap aan om <a { $attrs }>add-ons en extensies</a> voor de browser te maken. En omdat ons platform opensource is, is er een uitgebreide selectie met een schat aan functionaliteit.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = U krijgt als u zich inschrijft voor een { -brand-name-mozilla-account } ook toegang tot unieke services, zoals <a { $pocket }>{ -brand-name-pocket }</a>, dat rechtstreeks in de browser is ingebouwd. Met de knop { -brand-name-pocket } voor { -brand-name-firefox } kunt u webpagina’s en video’s in { -brand-name-firefox } in slechts een klik opslaan in { -brand-name-pocket }, zodat u een opgeschoonde versie die vrij is van afleidingen kunt lezen, wanneer en waar u dat wilt – zelfs offline.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = U krijgt als u zich inschrijft voor een { -brand-name-firefox }-account ook toegang tot unieke services, zoals <a { $pocket }>{ -brand-name-pocket }</a>, dat rechtstreeks in de browser is ingebouwd. Met de knop { -brand-name-pocket } voor { -brand-name-firefox } kunt u webpagina’s en video’s in { -brand-name-firefox } in slechts een klik opslaan in { -brand-name-pocket }, zodat u een opgeschoonde versie die vrij is van afleidingen kunt lezen, wanneer en waar u dat wilt – zelfs offline.
 # Obsolete string
 # Variables:
@@ -56,6 +60,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> is
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } en { -brand-name-safari } bieden beide een naadloze ervaring bij het schakelen van desktop naar mobiel browsen of vice versa. Voor { -brand-name-safari } is een van de belangrijkste troeven de continuïteitsfuncties. Het synchroniseert uw bladwijzers, tabbladen, geschiedenis en meer met iCloud, zodat ze beschikbaar zijn op al uw apparaten. Dat betekent dat u een tabblad op uw { -brand-name-iphone } kunt openen en deze ook op uw { -brand-name-mac }-laptop kunt laten verschijnen met slechts een klik.
 compare-safari-both-browsers-have-a-lot = Beide browsers hebben veel gelijksoortige functies, evenals enkele unieke functies. Het is het vermelden waard dat, als u veel schermafdrukken maakt, u zich zult afvragen hoe u ooit zonder deze handige functie die rechtstreeks in { -brand-name-firefox } is ingebouwd hebt kunnen leven. Maar als u alleen op zoek bent naar een snelle, privébrowser voor surfen en winkelen, wilt u { -brand-name-firefox } misschien eens proberen – vooral als u uitsluitend { -brand-name-safari } gebruikt omdat het vooraf is geïnstalleerd als standaardbrowser op uw computer. Uiteindelijk zult u ontdekken welke beter past bij uw behoeften.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } biedt een vergelijkbare synchronisatiefunctie wanneer u zich aanmeldt voor een gratis <a { $attrs }>{ -brand-name-mozilla-account }</a>, waarmee gebruikers hun bladwijzers, navigatiegeschiedenis, voorkeuren, wachtwoorden, ingevulde formulieren, add-ons en de laatste 25 geopende tabbladen gemakkelijk kunnen synchroniseren op meerdere computers. Wat { -brand-name-firefox } onderscheidt van { -brand-name-safari }, is dat het beschikbaar is op elk desktop- of mobiel platform, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } of { -brand-name-mac }, waardoor portabiliteit naar elk apparaat dat u bezit wordt gestimuleerd.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } biedt een vergelijkbare synchronisatiefunctie wanneer u zich aanmeldt voor een gratis <a { $attrs }>{ -brand-name-firefox-account }</a>, waarmee gebruikers hun bladwijzers, navigatiegeschiedenis, voorkeuren, wachtwoorden, ingevulde formulieren, add-ons en de laatste 25 geopende tabbladen gemakkelijk kunnen synchroniseren op meerdere computers. Wat { -brand-name-firefox } onderscheidt van { -brand-name-safari }, is dat het beschikbaar is op elk desktop- of mobiel platform, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } of { -brand-name-mac }, waardoor portabiliteit naar elk apparaat dat u bezit wordt gestimuleerd.
