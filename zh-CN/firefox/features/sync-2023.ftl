@@ -10,9 +10,10 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } 浏览器同步
 # HTML page description
 features-sync-access-your-firefox-bookmarks = 随时随地访问您的 { -brand-name-firefox } 书签、密码、打开的标签页等数据。
 features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } 支持跨设备接续浏览，可实现电脑、手机与平板无缝衔接。无论您在使用哪台设备上使用 { -brand-name-firefox }，都能获取书签、浏览历史、保存的密码等信息。
+
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">注册免费的 { -brand-name-firefox-account }</a>，即可在使用 { -brand-name-firefox } 浏览器的所有设备上同步数据。
+
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = 您在我们服务器上的所有数据都经过加密，只有您可以访问，我们无法查看。我们不会将您的信息出售给广告商，否则违背我们的<a href="{ $privacy }">数据隐私承诺</a>。
