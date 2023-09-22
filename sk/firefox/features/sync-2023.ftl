@@ -10,9 +10,10 @@ features-sync-firefox-browser-sync = Synchronizácia prehliadača { -brand-name-
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Získajte prístup k svojim záložkám, heslám, otvoreným kartám a ďalším položkám { -brand-name-firefox(case: "gen") }  z akéhokoľvek zariadenia.
 features-sync-with-firefox-you-can-pick-up-where = S { -brand-name-firefox(case: "ins") } môžete pokračovať tam, kde ste prestali, keď prejdete zo stolného počítača na mobilný telefón alebo tablet. { -brand-name-firefox } vám umožňuje zobraziť vaše záložky, históriu prehliadania, uložené heslá a ďalšie položky, bez ohľadu na to, aké zariadenie používate.
+
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Zaregistrujte si bezplatný { -brand-name-firefox-account(case: "acc", capitalization: "lower") }</a> a budete môcť synchronizovať svoje údaje všade, kde používate prehliadač { -brand-name-firefox }.
+
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Všetky vaše údaje sú na našich serveroch šifrované, takže ich nemôžeme čítať – prístup k nim máte iba vy. Vaše informácie nepredávame inzerentom, pretože by to bolo v rozpore s naším <a href="{ $privacy }">prísľubom ochrany osobných údajov</a>.
