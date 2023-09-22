@@ -99,6 +99,37 @@ firefox-desktop-download-make-firefox-your = Prilagodite <strong>{ -brand-name-f
 firefox-desktop-download-extensions-for-every = Ekstenzije za svaku priliku
 firefox-desktop-download-change-up-your = Promijenite svoj izgled
 firefox-desktop-download-go-from-light = U zavisnosti od vašeg raspoloženja, prebacujte se sa svijetlog na tamni način rada ili oživite ekran prilagođenom temom (možda duginim jednorogom).
+firefox-desktop-download-tweak-your-settings = Uštimajte svoje postavke
+firefox-desktop-download-theres-no-need = Ne morate se ustaliti. Mijenjajte stranicu novog taba, traku za pretragu, oznake i ostalo da biste pregledali web kako želite.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Podržan od <strong>neprofitne organizacije</strong> koja stavlja ljude na prvo mjesto
+firefox-desktop-download-challenging-the-status = Izazivamo postojeću situaciju od 1998
+firefox-desktop-download-your-privacy-comes = Vaša privatnost je na prvom mjestu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Zadržite sve svoje omiljene funkcije pretraživača — i <strong>otkrijte</strong> nove.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Svi vaši omiljeni { -brand-name-google } alati (kao što su Gmail i Docs) rade nesmetano u { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Preuzmite ovu ekstenziju pretraživača</a> da zaustavite { -brand-name-facebook } (i { -brand-name-instagram }) da vas prati širom interneta.
+firefox-desktop-download-sync-your-devices = Sinhronizujte vaše uređaje
+firefox-desktop-download-screenshots = Snimci ekrana
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Napredna zaštita od praćenja (ETP)
+firefox-desktop-download-from-watching-a = Bilo da gledate web priručnik, omiljenu seriju ili prenos uživo, video vas prati i omogućava da se koncentrišete na druge stvari.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Nabavite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Nabavite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Preuzmite mobilni pretraživač { -brand-name-firefox } za automatsku zaštitu na svim vašim uređajima.
+firefox-desktop-download-learn-about-the = Saznajte više o { -brand-name-firefox } desktop pretraživaču ispod
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od sigurnosti preko vijesti do igara, postoji <a { $attrs }>ekstenzija za sve</a>. Dodajte onoliko koliko želite dok vaš pretraživač ne bude po vašoj volji.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je napravila <a { $attrs }>{ -brand-name-mozilla }</a> kao bržu i privatniju alternativu pretraživačima kao što su { -brand-name-ie } i { -brand-name-chrome } trenutno. Danas, naša kompanija i zajednica volontera još uvijek prate misiju postavljanja ljudi ispred profita.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
