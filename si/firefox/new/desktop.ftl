@@ -37,14 +37,13 @@ firefox-desktop-download-blocks-social-trackers = සමාජ ලුහුබ�
 firefox-desktop-download-os-availability = මෙ. පද්. සහාය
 firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරසේයා මෙවලම
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදායීව
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example https://www-dev.allizom.org/firefox/new/?v=fx94
-# Color is being used as slang here, means customize here. Alternative: Customize it the way you want...
+# Obsolete string
 firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම්, තේමා සහ දිගු සමඟින් ඔබට අවශ්‍ය ආකාරයට සකස් කර ගන්න. { -brand-name-firefox } යනු ලාභයට ඉහළින් මිනිසුන් තබන මුල් විකල්ප අතිරික්සුවයි.
 # Obsolete string
 firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
-firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයෙහි සැරිසරන්න.
+firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයේ සැරිසරන්න.
 firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
