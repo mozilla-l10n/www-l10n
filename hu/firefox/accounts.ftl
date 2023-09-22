@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Szerezzen egy { -brand-name-mozilla-account }ot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Szerezzen egy { -brand-name-firefox-account }ot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
 # HTML page description
 firefox-accounts-securely-sync-your = Szinkronizálja biztonságosan a jelszavait, könyvjelzőit és lapjait az összes eszközén. Szerezzen egy { -brand-name-firefox-account }ot most – Egy bejelentkezés – Teljesítmény és adatvédelem mindenhol.
 firefox-accounts-enter-your-email-address = A kezdéshez adja meg az e-mail-címét.
 firefox-accounts-already-have-an-account = Van felhasználói fiókja?
 firefox-accounts-sign-in = Jelentkezzen be
+# Obsolete string
 firefox-accounts-already = Már van { -brand-name-firefox-account }ja. Gratulálunk!
+mozilla-accounts-already = Már van { -brand-name-mozilla-account }ja. Gratulálunk!
 firefox-accounts-manage = Saját fiók kezelése
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Jelentkezzen be a { -brand-name-mozilla-account }jába a következőkhöz:
+# Obsolete string
 firefox-accounts-sign-in-to = Jelentkezzen be a { -brand-name-firefox-account }jába a következőkhöz:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Ismerkedjen meg az adatvédelmet szem előtt tartó termékcsaládunkkal.
