@@ -15,8 +15,6 @@ features-sync-with-firefox-you-can-pick-up-where = A { -brand-name-firefox(case:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
 features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Regisztráljon egy ingyenes { -brand-name-mozilla-account }ot</a>, és mindenhol szinkronizálhatja adatait, ahol használja a { -brand-name-firefox } böngészőjét.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Regisztráljon egy ingyenes { -brand-name-firefox-account }ot</a>, és mindenhol szinkronizálhatja adatait, ahol használja a { -brand-name-firefox } böngészőjét.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Az összes adata titkosítva van a kiszolgálóinkon, így mi nem tudjuk elolvasni – csak Ön érheti el. Az adatait nem adjuk el hirdetőknek, mert az ellentmondana az <a href="{ $privacy }">adatvédelmi ígéretünknek</a>.
