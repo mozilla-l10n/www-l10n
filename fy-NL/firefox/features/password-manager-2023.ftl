@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = De wachtwurdbehearder fan 
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bewarret jo brûkersnammen en wachtwurden feilich foar tagong ta websites, folt se automatysk foar jo yn de folgjende kear as jo in webside besykje, en lit jo jo bewarre oanmeldingen beheare mei de ynboude funksje foar wachtwurdbehear.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = Mei in <a href="{ $fxa }">fergees { -brand-name-mozilla-account }</a> kinne jo jo wachtwurden feilich syngronisearje op al jo apparaten.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Mei in <a href="{ $fxa }">fergees { -brand-name-firefox-account }</a> kinne jo jo wachtwurden feilich syngronisearje op al jo apparaten.
 password-manager-password-autofill-for-easy-logins = Automatysk wachtwurden ynfolje foar ienfâldige oanmelding
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kin jo bewarre brûkersnamme en wachtwurd automatysk ynfolje. As jo mear as ien oanmelding hawwe foar in side, kinne jo gewoan it winske account selektearje, wêrnei wy it oernimme.

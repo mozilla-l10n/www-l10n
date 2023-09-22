@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Kom yn de kunde mei fjouwer f
 firefox-privacy-hub-always-in-your-control = Altyd yn kontrôle
 firefox-privacy-hub-want-to-customize-what = Wolle jo oanpasse wat blokkearre wurdt? Jo ynstellingen binne mar ien klik fierder.
 firefox-privacy-hub-protection-beyond-tracking = Beskerming foarby folgjen
+firefox-privacy-hub-if-you-have-a-mozilla-account = As jo in { -brand-name-mozilla-account } hawwe, dan kinne jo ek sjen hoe’t wy jo helpe jo persoanlike gegevens en wachtwurden te beskermjen.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firefox-account } hawwe, dan kinne jo ek sjen hoe’t wy jo helpe jo persoanlike gegevens en wachtwurden te beskermjen.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = In bestân ferstjoere
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekommandearret heechweardige, troch minsken behearde artikelen oan sûnder jo sneupskiednis te sammeljen of jo persoanlike gegevens mei advertearders te dielen.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } brûke
+firefox-privacy-hub-your-mozilla-account = Jo { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Jo { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Alle ynformaasje dy’t syngronisearre wurdt fia jo { -brand-name-mozilla-account } – fan navigaasjeskiednis oant wachtwurden – wurdt fersifere. En jo accountwachtwurd is de iennige kaai.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Alle ynformaasje dy’t syngronisearre wurdt fia jo { -brand-name-firefox-account } – fan navigaasjeskiednis oant wachtwurden – wurdt fersifere. En jo accountwachtwurd is de iennige kaai.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Nim jo privacy en blêdwizers oeral mei hinne mei in { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Nim jo privacy en blêdwizers oeral mei hinne mei in { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Hawwe jo al in account? <a { $sign_in } class="{ $class_name }">Meld jo oan</a> of <a href="{ $learn_more }">lês mear</a> oer meidwaan mei { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
