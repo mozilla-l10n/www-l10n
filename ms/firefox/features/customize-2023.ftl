@@ -24,6 +24,9 @@ features-customize-image-of-the-default-themes = Imej tema lalai yang didatangka
 #   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
 #   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
 #   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
+features-customize-you-can-find-more-free-custom-v2 = Anda boleh menemui lebih banyak tema tersuai di <a { $amo }>addons.mozilla.org</a>. Layari tema <a { $top }>popular</a>, <a { $trending }>trending</a> dan <a { $recommended }>paling disyorkan</a>. Atau carilah tema melalui kategori termasuklah <a { $music }>muzik</a>, <a { $seasonal }>musim</a>, <a { $sports }>sukan</a>, dan <a { $nature }>alam semula jadi</a>. Sesuaikan pengalaman dengan citarasa anda. Ulat comel, robot jahat, landskap indah — ada ribuan opsyen yang boleh menjadikan { -brand-name-firefox } milik anda.
+
+# Obsolete string, contains an error
 features-customize-you-can-find-more-free-custom = Anda boleh menemui lebih banyak tema tersuai di <a { $amo }>addons.mozilla.org</a>. Layari tema &lt;a { $top }&quot;&gt;top-rated</a>, <a { $trending }>trending</a> dan <a { $recommended }>paling disyorkan</a>. Atau carilah tema melalui kategori termasuklah <a { $music }>muzik</a>, <a { $seasonal }>musim</a>, <a { $sports }>sukan</a>, dan <a { $nature }>alam semula jadi</a>. Sesuaikan pengalaman dengan citarasa anda. Ulat comel, robot jahat, landskap indah — ada ribuan opsyen untuk menjadi { -brand-name-firefox } milik anda.
 
 # Used as accessible alternative text for an image
