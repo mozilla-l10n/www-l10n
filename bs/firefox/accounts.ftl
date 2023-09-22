@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Napravite { -brand-name-mozilla-account } – Čuvajte svoje podatke kao privatne, sigurne i sinhronizovane
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Nabavite { -brand-name-firefox-account } - čuvajte svoje podatke privatnim, sigurnim i sinhronizovanim
 # HTML page description
 firefox-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, zabilješke i tabove na svim svojim uređajima. Napravite { -brand-name-firefox-account } – Jedna prijava – Snaga i privatnost svuda.
 firefox-accounts-enter-your-email-address = Unesite vašu email adresu da biste počeli.
 firefox-accounts-already-have-an-account = Već imate račun?
 firefox-accounts-sign-in = Prijava
+# Obsolete string
 firefox-accounts-already = Već imate { -brand-name-firefox-account }. Čestitamo!
+mozilla-accounts-already = Već imate { -brand-name-mozilla-account }. Čestitamo!
 firefox-accounts-manage = Upravljajte svojim računom
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Prijavite se na svoj { -brand-name-mozilla-account } na:
+# Obsolete string
 firefox-accounts-sign-in-to = Prijavite se na svoj { -brand-name-firefox-account } na:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Upoznaj našu porodicu proizvoda za zaštitu privatnosti.

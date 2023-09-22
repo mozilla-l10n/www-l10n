@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Mogućnost sinhronizacije loz
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Pomoću { -brand-name-firefox } pretraživača korisnici se mogu registrovati za besplatan <a { $accounts }>{ -brand-name-mozilla-account }</a>. { -brand-name-mozilla-account } račun je ključ za sinhronizaciju između uređaja. Takođe, imate dodatnu korist od proizvoda kao što je <a { $monitor }>{ -brand-name-firefox-monitor }</a>, koji nadgleda vaše email adrese i obavještava vas ako otkrije vaše podatke u poznatom <a { $breaches }>kršenju podataka</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Pomoću { -brand-name-firefox } pretraživača korisnici se mogu registrovati za besplatan <a { $accounts }>{ -brand-name-firefox-account }</a>. { -brand-name-firefox } račun je ključ za sinhronizaciju između uređaja. Takođe, imate dodatnu korist od proizvoda kao što je <a { $monitor }>{ -brand-name-firefox-monitor }</a>, koji nadgleda vaše email adrese i obavještava vas ako otkrije vaše podatke u poznatom <a { $breaches }>kršenju podataka</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } je također nedavno dobio mogućnost sinhronizacije podataka na najpopularnijim operativnim sistemima i uređajima, kao i uz dodatnu mogućnost sinhronizacije vaših osnovnih tokena pažnje.
