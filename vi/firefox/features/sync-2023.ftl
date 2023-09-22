@@ -10,9 +10,13 @@ features-sync-firefox-browser-sync = Đồng bộ hóa trình duyệt { -brand-n
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Truy cập dấu trang, mật khẩu, thẻ đang mở và nhiều nội dung khác của { -brand-name-firefox } từ mọi thiết bị.
 features-sync-with-firefox-you-can-pick-up-where = Với { -brand-name-firefox }, bạn có thể tiếp tục từ nơi bạn đã dừng lại khi chuyển từ máy tính sang di động và sang máy tính bảng. { -brand-name-firefox } cho phép bạn xem dấu trang, lịch sử duyệt web, mật khẩu đã lưu và hơn thế nữa, bất kể bạn đang sử dụng thiết bị nào.
+
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Đăng ký một { -brand-name-firefox-account } miễn phí</a> và bạn sẽ có thể đồng bộ hóa dữ liệu của mình ở mọi nơi bạn sử dụng trình duyệt { -brand-name-firefox }.
+
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Đăng ký một { -brand-name-mozilla-account } miễn phí</a> và bạn sẽ có thể đồng bộ hóa dữ liệu của mình ở mọi nơi bạn sử dụng trình duyệt { -brand-name-firefox } của bạn.
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Đăng ký một tài khoản { -brand-name-firefox } miễn phí</a> và bạn sẽ có thể đồng bộ hóa dữ liệu của mình ở mọi nơi bạn sử dụng trình duyệt { -brand-name-firefox } của bạn.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Tất cả dữ liệu của bạn được mã hóa trên máy chủ của chúng tôi nên chúng tôi không thể đọc được – chỉ bạn mới có thể truy cập dữ liệu đó. Chúng tôi không bán thông tin của bạn cho các nhà quảng cáo vì điều đó sẽ đi ngược lại <a href="{ $privacy }">lời hứa về quyền riêng tư dữ liệu</a> của chúng tôi.
