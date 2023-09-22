@@ -10,9 +10,6 @@ password-manager-free-password-manager = Bezplatný správca hesiel
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Správca hesiel vo { -brand-name-firefox(case: "loc") } ukladá všetky vaše heslá na jednom mieste, aby ste sa mohli jednoducho prihlásiť na stránky alebo obnoviť uložené heslá.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpečne ukladá vaše používateľské mená a heslá na prístup na webové stránky, automaticky ich vyplní pri ďalšej návšteve webovej stránky a umožňuje vám spravovať uložené prihlasovacie údaje pomocou vstavanej funkcie správy hesiel.
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = S <a href="{ $fxa }">bezplatným { -brand-name-firefox-account(case: "ins", capitalization: "lower") }</a> môžete bezpečne synchronizovať svoje heslá na všetkých svojich zariadeniach.
 password-manager-password-autofill-for-easy-logins = Automatické dopĺňanie hesla pre jednoduché prihlásenie
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } môže automaticky vyplniť vaše uložené používateľské meno a heslo. Ak máte pre stránku viac ako jedno prihlásenie, stačí si vybrať účet, ktorý chcete, a my údaje vyplníme.
 # Used as an accessible text alternative for an image
