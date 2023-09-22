@@ -234,6 +234,72 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account =
+    { $sklon ->
+        [rodilnik]
+            { $zacetnica ->
+                [velika] Računa Mozilla
+               *[mala] računa Mozilla
+            }
+        [dajalnik]
+            { $zacetnica ->
+                [velika] Računu Mozilla
+               *[mala] računu Mozilla
+            }
+        [tozilnik]
+            { $zacetnica ->
+                [velika] Račun Mozilla
+               *[mala] račun Mozilla
+            }
+        [mestnik]
+            { $zacetnica ->
+                [velika] Računu Mozilla
+               *[mala] računu Mozilla
+            }
+        [orodnik]
+            { $zacetnica ->
+                [velika] Računom Mozilla
+               *[mala] računom Mozilla
+            }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Račun Mozilla
+               *[mala] račun Mozilla
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $sklon ->
+        [rodilnik]
+            { $zacetnica ->
+                [velika] Računov Mozilla
+               *[mala] računov Mozilla
+            }
+        [dajalnik]
+            { $zacetnica ->
+                [velika] Računom Mozilla
+               *[mala] računom Mozilla
+            }
+        [tozilnik]
+            { $zacetnica ->
+                [velika] Račune Mozilla
+               *[mala] račune Mozilla
+            }
+        [mestnik]
+            { $zacetnica ->
+                [velika] Računih Mozilla
+               *[mala] računih Mozilla
+            }
+        [orodnik]
+            { $zacetnica ->
+                [velika] Računi Mozilla
+               *[mala] računi Mozilla
+            }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Računi Mozilla
+               *[mala] računi Mozilla
+            }
+    }
 
 ## Mozilla projects (short names)
 

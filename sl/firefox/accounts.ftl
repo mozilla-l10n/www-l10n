@@ -16,6 +16,7 @@ firefox-accounts-already-have-an-account = Že imate račun?
 firefox-accounts-sign-in = Prijavite se
 # Obsolete string
 firefox-accounts-already = { -brand-name-firefox-account } že imate. Čestitke!
+mozilla-accounts-already = { -brand-name-mozilla-account(sklon: "tozilnik", zacetnica: "velika") } že imate. Čestitke!
 firefox-accounts-manage = Upravljajte račun
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prijava v { -brand-name-mozilla-account(sklon: "tozilnik") } vam omogoča:

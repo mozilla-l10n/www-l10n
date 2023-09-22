@@ -38,6 +38,7 @@ sub-navigation-android-add-ons = Dodatki za { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts(zacetnica: "velika") }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } (64-bitni)
