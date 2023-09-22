@@ -45,6 +45,11 @@ compare-safari-like-safari-firefox-encourages = Seperti { -brand-name-safari }, 
 
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Juga, semasa anda mendaftar untuk membuka akaun { -brand-name-mozilla-account }, anda akan mendapat akses kepada perkhidmatan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> yang diintegrasikan terus ke dalam pelayar. Butang { -brand-name-pocket } untuk { -brand-name-firefox } membolehkan anda menyimpan halaman web dan video ke { -brand-name-pocket } dalam satu klik sahaja, jadi anda boleh baca versi yang jelas serta bebas gangguan bila-bila masa dan di mana jua anda mahu — walaupun di luar talian.
+
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Juga, semasa anda mendaftar untuk membuka akaun { -brand-name-firefox }, anda akan mendapat akses kepada perkhidmatan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> yang diintegrasikan terus ke dalam pelayar. Butang { -brand-name-pocket } untuk { -brand-name-firefox } membolehkan anda menyimpan halaman web dan video ke { -brand-name-pocket } dalam satu klik sahaja, jadi anda boleh baca versi yang bersih serta bebas gangguan bila-bila masa dan di mana jua anda mahu — walaupun di luar talian.
 
 # Obsolete string
@@ -70,6 +75,12 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Tangkap Skrin</a> 
 compare-safari-firefox-and-safari-both-provide = Kedua-dua { -brand-name-firefox } dan { -brand-name-safari } memberikan pengalaman yang lancar apabila beralih daripada pelayaran desktop ke mudah alih dan begitu juga sebaliknya. Bagi { -brand-name-safari }, salah satu kekuatan utamanya ialah ciri kesinambungannya. Ia menyelaraskan tandabuku anda, tab, sejarah dan banyak lagi ke iCloud, jadi semua itu tersedia pada semua peranti anda. Maknanya, anda boleh buka tab pada { -brand-name-iphone } dan kemudian membukanya juga pada komputer riba { -brand-name-mac } hanya dengan satu klik.
 compare-safari-both-browsers-have-a-lot = Kedua-dua pelayar mempunyai banyak ciri crossover dan juga beberapa fungsi unik. Perlu disebutkan, jika anda banyak membuat tangkapan skrin, anda tentunya tertanya-tanya cara menguruskan kehidupan tanpa ciri berguna yang dibina terus ke dalam { -brand-name-firefox } ini. Tetapi jika anda hanya mencari pelayar peribadi yang pantas untuk melayari internet dan membeli-belah, maka anda mungkin ingin mencuba { -brand-name-firefox } — terutamanya jika anda telah menggunakan { -brand-name-safari } secara eksklusif kerana ia didatangkan pramuat sebagai pelayar lalai pada komputer anda. Pada akhirnya, anda akan tahu pelayar manakah yang lebih menepati keperluan anda.
 
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } juga menawarkan ciri penyelarasan yang serupa ketika anda mendaftar untuk <a { $attrs }>{ -brand-name-mozilla-account }</a> percuma, yang membolehkan pengguna menyelaraskan tandabuku, sejarah pelayaran, keutamaan, kata laluan, borang terisi, tambahan dan 25 tab terakhir yang dibuka pada berbilang komputer. Perkara yang membezakan { -brand-name-firefox } dengan { -brand-name-safari } ialah ia tersedia pada mana-mana platform desktop atau mudah alih, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } atau { -brand-name-mac }, lalu itu meningkatkan kemudahalihannya pada semua peranti yang anda miliki.
+
+
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } juga menawarkan ciri penyelarasan yang serupa ketika anda mendaftar untuk <a { $attrs }>{ -brand-name-firefox-account }</a> percuma, yang membolehkan pengguna menyelaraskan tandabuku, sejarah pelayaran, keutamaan, kata laluan, borang terisi, tambahan dan 25 tab terakhir yang dibuka pada berbilang komputer. Perkara yang membezakan { -brand-name-firefox } dengan { -brand-name-safari } ialah ia tersedia pada mana-mana platform desktop atau mudah alih, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } atau { -brand-name-mac }, lalu itu meningkatkan kemudahalihannya pada semua peranti yang anda miliki.
