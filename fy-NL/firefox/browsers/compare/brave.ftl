@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = De mooglikheid om jo wachtwur
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = De { -brand-name-firefox }-browser biedt brûkers de mooglikheid harren oan te melden foar in fergees <a { $accounts }>{ -brand-name-mozilla-account }</a>. In { -brand-name-mozilla-account } is de kaai om syngronisearje te kinnen tusken apparaten, en jo ûntfange it foardiel fan produkten as <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat jo e-mailadressen kontrolearret en jo warskôget as jo gegevens troffen binne troch in bekend <a { $breaches }>datalek</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = De { -brand-name-firefox }-browser biedt brûkers de mooglikheid harren oan te melden foar in fergees <a { $accounts }>{ -brand-name-firefox-account }</a>. In { -brand-name-firefox }-account is de kaai om syngronisearje te kinnen tusken apparaten, en jo ûntfange it foardiel fan produkten as <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat jo e-mailadressen kontrolearret en jo warskôget as jo gegevens troffen binne troch in bekend <a { $breaches }>datalek</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } hat koartlyn ek de mooglikheid om gegevens tusken de populêrste bestjoeringssystemen en apparaten te syngronisearjen yntrodusearre, krekt as de tafoege mooglikheid om jo Basic Attention Tokens te syngronisearjen.

@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Meitsje in { -brand-name-mozilla-account } oan – Hâld jo gegevens privee, feilich en syngroan
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan – Hâld jo gegevens privee, feilich en syngroan
 # HTML page description
 firefox-accounts-securely-sync-your = Syngronisearje jo wachtwurden, blêdwizers en ljepblêden feilich tusken al jo apparaten. Meitsje no in { -brand-name-firefox-account } oan – Ien oanmelding – Oeral krêft en privacy.
 firefox-accounts-enter-your-email-address = Fier jo e-mailadres yn om te begjinnen.
 firefox-accounts-already-have-an-account = Hawwe jo al in account?
 firefox-accounts-sign-in = Oanmelde
+# Obsolete string
 firefox-accounts-already = Jo hawwe al in { -brand-name-firefox-account }. Lokwinske!
+mozilla-accounts-already = Jo hawwe al in { -brand-name-mozilla-account }. Lokwinske!
 firefox-accounts-manage = Jo account beheare
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Meld jo oan by jo { -brand-name-mozilla-account } om:
+# Obsolete string
 firefox-accounts-sign-in-to = Meld jo oan by jo { -brand-name-firefox-account } om:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Kom yn de kunde mei ús famylje fan produkten dy’t privacy foarop stelle.
