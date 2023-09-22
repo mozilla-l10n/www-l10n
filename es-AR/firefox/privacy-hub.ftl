@@ -88,6 +88,11 @@ firefox-privacy-hub-all-the-information-synced = Toda la información sincroniza
 firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Llevá tu privacidad y marcadores a todas partes con una { -brand-name-mozilla-account }.
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Llevá tu privacidad y marcadores a todas partes con una { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = ¿Ya tenés una cuenta? <a { $sign_in } class="{ $class_name }">Iniciá sesión</a> o <a href="{ $learn_more }">conocé más</a> sobre cómo unirte a { -brand-name-mozilla }.
 # Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
