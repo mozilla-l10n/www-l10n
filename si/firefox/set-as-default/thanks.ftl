@@ -20,7 +20,7 @@ set-as-default-thanks-heres-everything-you-need-android = <a href="{ $android }"
 set-as-default-thanks-heres-everything-you-need-ios = <a href="{ $ios }">අයිඕඑස් උපාංගවල</a> ඔබගේ පෙරනිමි අතිරික්සුව සැකසීමට අදාළ සියළුම තොරතුරු මෙතැන තිබේ.
 set-as-default-thanks-youre-all-set = සියල්ල සකසා ඇත.
 set-as-default-thanks-get-firefox-for-mobile = දුරකථනය සඳහා { -brand-name-firefox } ගන්න
-set-as-default-thanks-travel-the-internet-with = ඔබගේ සියළු උපාංගවලින් ආරක්‍ෂිතව අන්තර්ජාලය සැරිසරන්න.
+set-as-default-thanks-travel-the-internet-with = සියලුම උපාංග වලින් ආරක්‍ෂිතව අන්තර්ජාලයේ සැරිසරන්න.
 set-as-default-thanks-download-the-app = යෙදුම බාගන්න
 set-as-default-thanks-join-firefox = { -brand-name-firefox } වෙත එක්වන්න
 set-as-default-thanks-sign-up-for-a-free-account = නොමිලේ ගිණුමක් සඳහා ලියාපදිංචි වී සියළුම මුරපද, පිරික්සුම් ඉතිහාසය සහ අභිප්‍රේත ඔබගේ උපාංගවලට සමමුහූර්ත කරන්න.
