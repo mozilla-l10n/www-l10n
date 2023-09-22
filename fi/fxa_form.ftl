@@ -1,8 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# Obsolete string
 fxa-form-enter-your-email = Siirry { -brand-name-firefox-accounts(case: "illative") } <strong>syöttämällä sähköpostiosoitteesi</strong>.
+fxa-form-enter-your-email-v2 = <strong>Kirjoita sähköpostiosoitteesi</strong> luodaksesi { -brand-name-mozilla-account }n.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
