@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } 與其他 { -b
 compare-brave-the-internet-as-a-whole-is = 網際網路有很大一部分內容是由展示廣告來提供利潤，才能讓您實際想要看到的內容保持免費。{ -brand-name-brave } 嘗試透過鼓勵使用者加入 { -brand-name-brave } 自己的獎勵系統（也就是他們自己的廣告平台）來顛覆這個商業模式。使用者加入後，{ -brand-name-brave } 就會顯示它們稱為會「尊重隱私權」的廣告，並且獲得 Basic Attention Token（簡稱 BAT）的獎勵。從這一點開始，{ -brand-name-brave } 使用者就可以將 BAT 花在想支持的網站或喜歡的貢獻者，讓他們將 BAT 再轉回真實貨幣。
 compare-brave-whether-this-sounds-complicated = 這聽起來究竟是個好點子還是太複雜，取決您對網路廣告的厭惡程度。大部分的網路使用者都知道好內容很花錢，也能理解需要透過廣告費來支持這些內容的產出。
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = 在金錢的另一面，{ -brand-name-firefox } 瀏覽器想把事情簡單化。{ -brand-name-firefox } 預設就會擋下許多第三方追蹤器、加密貨幣採礦程式與數位指紋追蹤器，不讓它們追蹤您。但是當 { -brand-name-firefox } 不在隱私瀏覽模式當中時，就不會封鎖廣告展示。也就是說，必須要安裝<a { $attrs }>任一套能夠封鎖廣告的擴充套件</a>才會隱藏廣告。
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = 在不同裝置與與作業�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } 瀏覽器也讓使用者能夠免費註冊 <a { $accounts }>{ -brand-name-mozilla-account }</a>。註冊 { -brand-name-mozilla-account }後，就能夠在不同裝置間同步資料，還有能夠主動為您監控電子郵件地址，當您的資料出現在<a { $breaches }>資料外洩事件</a>時通知您的 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等服務。
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } 也讓使用者能夠免費註冊 <a { $accounts }>{ -brand-name-firefox-account }</a>。註冊 { -brand-name-firefox } 帳號後，就能夠在不同裝置間同步資料，還有能夠主動為您監控電子郵件地址，當您的資料出現在<a { $breaches }>資料外洩事件</a>時通知您的 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等服務。
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } 最近推出了在熱門作業系統與裝置間同步資料，與同步 Basic Attention Token 代幣的功能。

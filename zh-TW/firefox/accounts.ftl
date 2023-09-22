@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = 註冊 { -brand-name-mozilla-account } - 保持資料隱私、安全、同步
+# Obsolete string
 firefox-accounts-get-a-firefox-account = 註冊 { -brand-name-firefox-account } - 保持資料隱私、安全、同步
 # HTML page description
 firefox-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-firefox-account }: 一次登入，隨處都有強大威力與隱私保護功能。
 firefox-accounts-enter-your-email-address = 輸入您的電子郵件地址，即可加入我們。
 firefox-accounts-already-have-an-account = 已經有帳號了嗎？
 firefox-accounts-sign-in = 登入
+# Obsolete string
 firefox-accounts-already = 您已經擁有 { -brand-name-firefox-account }，恭喜！
+mozilla-accounts-already = 您已經擁有 { -brand-name-mozilla-account }，恭喜！
 firefox-accounts-manage = 管理帳號
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = 登入您的 { -brand-name-mozilla-account }，即可：
+# Obsolete string
 firefox-accounts-sign-in-to = 登入您的 { -brand-name-firefox-account }，即可：
 # Obsolete string
 firefox-accounts-meet-our-family-of = 認識我們一系列隱私優先的產品。

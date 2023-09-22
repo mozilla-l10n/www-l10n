@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = 瞭解四種最常見的追�
 firefox-privacy-hub-always-in-your-control = 總能自行掌控
 firefox-privacy-hub-want-to-customize-what = 想要調整要封鎖的內容嗎？點一下就能更改設定。
 firefox-privacy-hub-protection-beyond-tracking = 不只保護您不受追蹤
+firefox-privacy-hub-if-you-have-a-mozilla-account = 若您有 { -brand-name-mozilla-account }，還可以看到我們如何幫助您保護個人資訊與密碼。
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-firefox-account }，還可以看到我們如何幫助您保護個人資訊與密碼。
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = 分享檔案
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } 不收集您的上網紀錄或將您的個人資訊賣給廣告業者，就推薦真人精選的高品質文章給您。
 firefox-privacy-hub-get-pocket = 取得 { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = 您的 { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = 所有透過 { -brand-name-mozilla-account }同步的資訊（從上網紀錄到網站密碼）都經完整加密，只有您自己知道的密碼才能解開。
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = 所有透過 { -brand-name-firefox-account }同步的資訊（從上網紀錄到網站密碼）都經完整加密，只有您自己知道的密碼才能解開。
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = 使用 { -brand-name-mozilla-account }，將您的私人資料與書籤隨身帶著走。
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，將您的私人資料與書籤隨身帶著走。
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = 已經有帳號了嗎？請<a { $sign_in } class="{ $class_name }">登入</a>或了解加入 { -brand-name-mozilla } 的<a href="{ $learn_more }">更多資訊</a>。
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
