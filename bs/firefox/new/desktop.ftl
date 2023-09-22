@@ -130,6 +130,67 @@ firefox-desktop-download-from-security-to = Od sigurnosti preko vijesti do igara
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je napravila <a { $attrs }>{ -brand-name-mozilla }</a> kao bržu i privatniju alternativu pretraživačima kao što su { -brand-name-ie } i { -brand-name-chrome } trenutno. Danas, naša kompanija i zajednica volontera još uvijek prate misiju postavljanja ljudi ispred profita.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Kako internet raste i mijenja se, { -brand-name-firefox } nastavlja da se fokusira na vaše pravo na privatnost  — nazivamo ga <a { $attrs }>obećanje o ličnim podacima</a>: manje uzimaj. Bolje čuvaj. Bez tajni. Vaši podaci, web aktivnosti i online život su zaštićeni uz { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je dostupan na svim vašim uređajima; ponesite svoje tabove, historiju i oznake sa sobom. Sve što vam treba je <a { $attrs }>{ -brand-name-firefox } račun</a>.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Pravite snimke ekrana visoke rezolucije uz naš ugrađeni <a { $attrs }>alat za snimanje ekrana</a>
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automatski <a { $attrs }>blokira mnoge treće strane za praćenje</a> da prikupljaju i prodaju vaše web aktivnosti.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Pitanja? <a { $attrs }>{ -brand-name-mozilla } podrška</a> vam stoji na usluzi.
+# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
+firefox-desktop-download-youve-already-got-the-browser = Već imate pretraživač. Sada dobijte još više od { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v2 = Pazite na hakere sa { -brand-name-firefox-monitor }, zaštitite svoju email adresu sa { -brand-name-firefox-relay } i još mnogo toga.
+# Outdated string
+firefox-desktop-download-watch-for-hackers-with = Pazite na hakere sa { -brand-name-firefox-monitor }, zaštitite lozinke sa { -brand-name-firefox-lockwise } i još mnogo toga.
+firefox-desktop-download-get-more-from-firefox = Dobijte više uz { -brand-name-firefox }
+firefox-desktop-download-just-download-the-browser = Samo preuzmite pretraživač
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Skoro smo gotovi!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Sada završite <strong>instaliranje</strong> { -brand-name-firefox }-a.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Sada <strong>pokrenite</strong> instalacijski program koji ste upravo preuzeli.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Sada <strong>otvorite</strong> datoteku koja je upravo preuzeta.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Imate problema? <a { $attrs }>Potražite pomoć za svoju instalaciju</a>.
+firefox-desktop-download-in-another-language = Preuzmite na drugom jeziku ili za drugi operativni sistem.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Outdated string
+firefox-desktop-download-windows-10 = { -brand-name-windows } 10
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ako vidite upit u kojem se navodi da aplikacija koju pokušavate instalirati nije verifikovao { -brand-name-microsoft }, kliknite na “Instaliraj svejedno” ili <a { $attrs }>promijenite postavke preporuke aplikacije</a >.
+firefox-desktop-download-visit-support-for-more = Posjetite podršku za više detalja
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">više ne pruža sigurnosna ažuriranja</a> za { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }, ali i dalje možete koristiti { -brand-name-firefox }.
+# Outdated string
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-youre-using-an-insecure-outdated = Koristite nesiguran, zastarjeli operativni sistem <a href="{ $url }">koji { -brand-name-firefox }</a> više ne podržava.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Vaše preuzimanje bi trebalo početi automatski. Nije uspjelo? <a id="{ $id }" href="{ $fallback_url }">Pokušajte ponovo preuzeti.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od pretraživača.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Vaše preuzimanje je prekinuto. Ali nije sve izgubljeno.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Molimo slijedite <a href="{ $url }">ova uputstva</a> da instalirate { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Vaš sistem možda ne ispunjava zahtjeve za { -brand-name-firefox }, ali možete isprobati jednu od <a href="{ $url }">ovih verzija</a>.
+firefox-desktop-download-taskbar = { -brand-name-firefox } će biti zakačen na { -brand-name-windows } traku zadataka nakon instalacije
