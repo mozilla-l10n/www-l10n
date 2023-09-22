@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Összes adatvédelmi incidens
 ## Footer
 
 monitor-shared-footer-about-mozilla = A { -brand-name-mozilla } névjegye
+monitor-shared-footer-terms-of-service = Szolgáltatási feltételek
+monitor-shared-footer-privacy-policy = Adatvédelmi irányelvek
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Feltételek és adatvédelem
 monitor-shared-footer-github = GitHub

@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Mik a { -brand-name-relay } elfogadható 
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = A { -brand-name-firefox-relay } <a href="{ $url }" { $attrs }>használati feltételei megegyeznek az összes { -brand-name-mozilla } termékével</a>. Zéró toleranciát gyakorlunk, ha a { -brand-name-relay } rosszindulatú használatáról van szó, például ha levélszemét küldésére használják, akkor az a felhasználó fiókjának megszüntetését eredményezi. Intézkedéseket teszünk annak érdekében, hogy a felhasználók ne sértsék meg a feltételeinket:
+faq-question-acceptable-use-answer-measure-account-v2 = Megköveteljük, hogy ellenőrzött e-mail-címmel használja a { -brand-name-mozilla-account }ját
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Megköveteljük, hogy ellenőrzött e-mail-címmel használja a { -brand-name-firefox-account }ját
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Fizetés szükséges ahhoz, hogy a felhasználók ötnél több maszkot hozzanak létre
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Korlátozzuk az egy nap alatt létrehozható maszkok számát

@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = A jelszavak, kiegészítők �
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-mozilla-account }ot</a> regisztráljanak. A { -brand-name-mozilla-account } az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail-címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-firefox-account }ot</a> regisztráljanak. A { -brand-name-firefox }-fiók az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail-címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Mostanában a { -brand-name-brave } is képes lett az operációs rendszerek és eszközök közti szinkronizációra, azzal kiegészítve, hogy a Basic Attention Tokenek is szinkronizálásra kerülnek.

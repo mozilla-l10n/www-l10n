@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Ismerkedjen meg a követők n
 firefox-privacy-hub-always-in-your-control = Mindig az Ön irányítása alatt
 firefox-privacy-hub-want-to-customize-what = Szeretné testreszabni, hogy mi legyen blokkolva? A beállítások csak egy kattintásra vannak.
 firefox-privacy-hub-protection-beyond-tracking = Védelem a követésen túl
+firefox-privacy-hub-if-you-have-a-mozilla-account = Ha van { -brand-name-mozilla-account }ja, akkor azt is megnézheti, hogyan segítünk a személyes adatainak és jelszavainak védelmében.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Ha van { -brand-name-firefox-account }ja, akkor azt is megnézheti, hogyan segítünk a személyes adatainak és jelszavainak védelmében.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Fájl küldése
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = A { -brand-name-pocket } kiváló minőségű, emberek által válogatott cikkeket javasol anélkül, hogy összegyűjtené a böngészési előzményeit vagy megosztaná a személyes adatait a hirdetőkkel.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } beszerzése
+firefox-privacy-hub-your-mozilla-account = Az Ön { -brand-name-mozilla-account }ja
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Az Ön { -brand-name-firefox-account }ja
+firefox-privacy-hub-all-the-information-synced-v2 = A { -brand-name-mozilla-account }ján keresztül szinkronizált összes információ – a böngésző előzményeitől a jelszavakig – titkosított. És az ön fiókjelszava az egyetlen kulcs.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = A { -brand-name-firefox-account }ján keresztül szinkronizált összes információ – a böngésző előzményeitől a jelszavakig – titkosított. És az ön fiókjelszava az egyetlen kulcs.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Vigye mindenhová magánszféráját és könyvjelzőit egy { -brand-name-mozilla-account }kal.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vigye mindenhová magánszféráját és könyvjelzőit egy { -brand-name-firefox-account }kal.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Már van fiókja? <a { $sign_in } class="{ $class_name }">Jelentkezzen be</a>, vagy <a href="{ $learn_more }">tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }hoz való csatlakozásról.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

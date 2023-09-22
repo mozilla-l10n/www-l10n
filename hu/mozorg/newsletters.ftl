@@ -56,8 +56,12 @@ newsletters-please-select-language = Válasszon egy nyelvet
 # Form field label
 newsletters-format = Formátum:
 newsletters-text-subscribers-will-receive = Az üzenetekre feliratkozók évente két levelet kapnak, hogy megerősítsék a feliratkozásuk folytatását. Ezek az e-mailek tartalmazhatnak HTML-t is.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-mozilla-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
+# Obsolete string
 newsletters-many-of-our-communications = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-firefox-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -293,6 +297,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Különleges közlemények, melyek segítenek Önnek kihozni a legtöbbet a { -brand-name-webmaker }ből.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla(ending: "accented") }tól arról, hogyan hozhatja ki a legtöbbet fiókjából.

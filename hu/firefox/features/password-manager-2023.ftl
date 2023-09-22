@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = A { -brand-name-firefox } 
 password-manager-firefox-securely-stores-your = A { -brand-name-firefox } biztonságosan tárolja a felhasználóneveit és jelszavait a webhelyek eléréséhez, automatikusan kitölti azokat, ha legközelebb felkeres egy webhelyet, és lehetővé teszi a tárolt bejelentkezések kezelését a beépített jelszókezelő funkciójával.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = Egy <a href="{ $fxa }">ingyenes { -brand-name-mozilla-account }</a> segítségével biztonságosan szinkronizálhatja a jelszavait az összes eszközén.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Egy <a href="{ $fxa }">ingyenes { -brand-name-firefox-account }</a> segítségével biztonságosan szinkronizálhatja a jelszavait az összes eszközén.
 password-manager-password-autofill-for-easy-logins = Automatikus jelszókitöltés a könnyű bejelentkezés érdekében
 password-manager-firefox-can-automatically-fill-in = A { -brand-name-firefox } képes automatikusan kitölteni a mentett felhasználónevét és jelszavát. Ha egy oldalon több bejelentkezése van, akkor csak válassza ki a kívánt fiókot, és onnan átvesszük.
