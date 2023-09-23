@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } differentiates
 compare-brave-the-internet-as-a-whole-is = The Internet as a whole is largely paid for by display advertisements, which keeps the actual content you want to view free. { -brand-name-brave } has attempted to upend this model by encouraging its users to opt into { -brand-name-brave }’s own reward system, which in reality, is its own ad platform. Once a user has opted-in, { -brand-name-brave } will display what they call “privacy-respecting ads” for which you can view and earn what they call a Basic Attention Token a.k.a. a BAT. From this point { -brand-name-brave } users can choose to spend their BATs on supporting the sites or individual contributors they love, who in turn can convert the BATs into actual currency.
 compare-brave-whether-this-sounds-complicated = Whether this sounds complicated or like a great idea, probably depends on your level of contempt for the display advertising on the Internet. Most Internet users understand that good content costs money, and are okay with the fact that the money comes from advertising.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = On the other side of the coin, with the { -brand-name-firefox } browser, we prefer to keep things simple. { -brand-name-firefox } blocks many third party trackers, cryptominers and fingerprinting trackers from following you by default. However, { -brand-name-firefox }, outside of Private Browsing Mode, chooses not to block display ads from appearing. That is, unless you install <a { $attrs }>one of the extensions specifically designed for that purpose</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = The ability to sync your pass
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = The { -brand-name-firefox } browser also gives users the ability to sign up for a free <a { $accounts }>{ -brand-name-mozilla-account }</a>. Having a { -brand-name-mozilla-account } is the key to unlocking synchronisation across devices, plus you get the added benefit of products like <a { $monitor }>{ -brand-name-firefox-monitor }</a> which monitors your email addresses and alerts you if any of your information has been involved in any known <a { $breaches }>data breaches</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = The { -brand-name-firefox } browser also gives users the ability to sign up for a free <a { $accounts }>{ -brand-name-firefox-account }</a>. Having a { -brand-name-firefox } account is the key to unlocking syncing across devices, plus you get the added benefit of products like <a { $monitor }>{ -brand-name-firefox-monitor }</a> which monitors your email addresses and alerts you if any of your information has been involved in any known <a { $breaches }>data breaches</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } also recently gained the ability to synchronise data across most popular operating systems and devices as well with the added capability of synchronising your Basic Attention Tokens.

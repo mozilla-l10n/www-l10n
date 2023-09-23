@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Get a { -brand-name-mozilla-account } – Keep your data private, safe and synchronised
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Get a { -brand-name-firefox-account } – Keep your data private, safe and synced
 # HTML page description
 firefox-accounts-securely-sync-your = Securely sync your passwords, bookmarks and tabs across all your devices. Get a { -brand-name-firefox-account } now – One login – Power and privacy everywhere.
 firefox-accounts-enter-your-email-address = Enter your email address to get started.
 firefox-accounts-already-have-an-account = Already have an account?
 firefox-accounts-sign-in = Sign In
+# Obsolete string
 firefox-accounts-already = You already have a { -brand-name-firefox-account }. Congratulations!
+mozilla-accounts-already = You already have a { -brand-name-mozilla-account }. Congratulations!
 firefox-accounts-manage = Manage your account
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Sign in to your { -brand-name-mozilla-account } to:
+# Obsolete string
 firefox-accounts-sign-in-to = Sign in to your { -brand-name-firefox-account } to:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Meet our family of privacy-first products.
