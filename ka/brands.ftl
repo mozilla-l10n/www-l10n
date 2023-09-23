@@ -137,6 +137,17 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account =
+    { $case ->
+        [gen] Mozilla-ანგარიშის
+        [dat] Mozilla-ანგარიშს
+        [ben] Mozilla-ანგარიშისთვის
+        [loc] Mozilla-ანგარიშზე
+        [ine] Mozilla-ანგარიშში
+        [add] Mozilla-ანგარიშთან
+        [adj] Mozilla-ანგარიშით
+       *[nom] Mozilla-ანგარიში
+    }
 
 ## Mozilla projects (short names)
 
