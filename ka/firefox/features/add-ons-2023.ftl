@@ -7,7 +7,7 @@
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox }-ის დამატებები
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-ის დამატებები და ბრაუზერის გაფართოებები
-features-add-ons-extensions-also-known-as-add-ons = გაფართოებები – ასევე ცნობილი როგორც { -brand-name-firefox }-დამატებები – წარმოადგენს დამატებით შესაძლებლობებს, რომლის ჩამოტვირთვა და დაყენებაც შეგიძლიათ ბრაუზერს მეტი შესაძლებლობისა და ხელსაწყოების დასამატებლად. დამატებები საშუალებას გაძლევთ მოირგოთ თქვენი { -brand-name-firefox }-ბრაუზერი და გააუმჯობესოთ ვებსივრცით სარგებლობა.
+features-add-ons-extensions-also-known-as-add-ons = გაფართოებები – ეგრეთ წოდებული { -brand-name-firefox }-დამატებები – წარმოადგენს დამხმარე საშუალებებს, რომელთა ჩამოტვირთვა და ჩადგმაც შეგიძლიათ ბრაუზერში შესაძლებლობებისა და ხელსაწყოების გამრავალფეროვნებისთვის. დამატებები საშუალებას გაძლევთ მოირგოთ თქვენი { -brand-name-firefox }-ბრაუზერი და გაიუმჯობესოთ ვებსივრცეში საქმიანობა.
 # Variables:
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
