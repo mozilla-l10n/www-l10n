@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = Kromě běžných funkcí, které od
 compare-safari-like-safari-firefox-encourages = Stejně jako { -brand-name-safari } vybízí i { -brand-name-firefox } svou nadšenou komunitu vývojářů k vytváření <a { $attrs }>doplňků a rozšíření</a> prohlížeče. A protože je naše platforma open-source, existuje široký výběr přidávající nepřeberné množství funkcí.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Když si navíc zřídíte účet { -brand-name-mozilla-account(case: "gen") }, získáte přístup k jedinečným službám jako je třeba <a { $pocket }>{ -brand-name-pocket }</a>, které se integrují přímo do prohlížeče. Tlačítko „{ -brand-name-pocket } pro { -brand-name-firefox }“ vám umožní si ukládat webové stránky a videa do { -brand-name-pocket(case: "gen") } jediným kliknutím, takže si můžete přečíst čistou, rušivých prvků zbavenou verzi kdykoli a kdekoli se vám zachce – dokonce i bez připojení k internetu.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Když si navíc zřídíte účet { -brand-name-firefox(case: "gen") }, získáte přístup k jedinečným službám jako je třeba <a { $pocket }>{ -brand-name-pocket }</a>, které se integrují přímo do prohlížeče. Tlačítko „{ -brand-name-pocket } pro { -brand-name-firefox(case: "acc") }“ vám umožní si ukládat webové stránky a videa do { -brand-name-pocket(case: "gen") } jediným kliknutím, takže si můžete přečíst jejich čistou, rušivých prvků zbavenou podobu kdykoli a kdekoli se vám zachce – dokonce i bez připojení k internetu.
 # Obsolete string
 # Variables:
@@ -56,6 +60,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> je
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } i { -brand-name-safari } umožňují bez problémů přecházet z brouzdání v počítači na brouzdání v mobilu a naopak. Jednou z hlavních předností { -brand-name-safari(case: "gen") } jsou jeho funkce nepřerušovanosti práce. Synchronizuje vaše záložky, panely, historii a další informace do iCloudu, takže jsou k dispozici na všech vašich zařízeních. To znamená, že když v { -brand-name-iphone(case: "loc") } otevřete panel, jediným kliknutím si ho můžete nechat zobrazit i na notebooku se systémem { -brand-name-mac }.
 compare-safari-both-browsers-have-a-lot = Oba prohlížeče mají spoustu společných funkcí a také několik jedinečných funkcí. Za zmínku stojí, že pokud často pořizujete snímky obrazovky, budete se divit, jak jste kdy mohli žít bez této šikovné funkce, jež je zabudována přímo ve { -brand-name-firefox(case: "loc") }. Jestli však hledáte jen rychlý a soukromý prohlížeč pro surfování a nakupování, pak byste možná měli vyzkoušet { -brand-name-firefox(case: "acc") } – zejména pokud jste až do teď používali výhradně { -brand-name-safari(case: "acc") } proto, že bylo předinstalováno jako výchozí prohlížeč ve vašem počítači. Časem zjistíte, který z nich více vyhovuje vašim potřebám.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } též nabízí podobnou synchronizační funkci, pokud si vytvoříte bezplatný <a { $attrs }>{ -brand-name-mozilla-account(case: "acc") }</a>, který uživatelům umožňuje snadno synchronizovat záložky, historii prohlížení, nastavení, hesla, vyplněné formuláře, doplňky a posledních 25 otevřených panelů v různých počítačích. { -brand-name-firefox } se od { -brand-name-safari(case: "gen") } liší především tím, že je k dispozici na jakékoli počítačové nebo mobilní platformě: { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } nebo { -brand-name-mac }, což zvyšuje jeho přenosnost na jakékoli zařízení, které můžete vlastnit.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } též nabízí podobnou synchronizační funkci, pokud si vytvoříte bezplatný <a { $attrs }>{ -brand-name-firefox-account(case: "acc", capitalization: "lower") }</a>, který uživatelům umožňuje snadno synchronizovat záložky, historii prohlížení, nastavení, hesla, vyplněné formuláře, doplňky a posledních 25 otevřených panelů v různých počítačích. { -brand-name-firefox } se od { -brand-name-safari(case: "gen") } liší především tím, že je k dispozici na jakékoli počítačové nebo mobilní platformě: { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } nebo { -brand-name-mac }, což zvyšuje jeho přenosnost na jakékoli zařízení, které můžete vlastnit.

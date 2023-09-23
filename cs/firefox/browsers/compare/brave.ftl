@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } se od ostatní
 compare-brave-the-internet-as-a-whole-is = Internet jako celek je z velké části placen obsahovou reklamou, díky níž zůstává obsah, který si chcete prohlížet, zdarma. { -brand-name-brave } se pokusil tento model převrátit naruby tím, že vyzval své uživatele, aby se zapojili do jeho vlastního systému odměn, což je ve skutečnosti jeho vlastní reklamní platforma. Jakmile se uživatel zapojí, bude { -brand-name-brave } zobrazovat to, co nazývají „reklamy respektující soukromí“, za jejichž zhlédnutí vydláváte to, čemu říkají Basic Attention Token neboli BAT. Poté si mohou uživatelé prohlížeče { -brand-name-brave } vybrat, zda své BAT vynaloží na podporu daných webů, nebo na podporu svých oblíbených dodavatelů obsahu, kteří pak mohou BAT převést na skutečnou měnu.
 compare-brave-whether-this-sounds-complicated = Jestli to zní komplikovaně nebo jako skvělý nápad záleží na vaší míře pohrdání obsahovou reklamou na internetu. Většina uživatelů internetu chápe, že kvalitní obsah stojí peníze, a nijak jim nevadí, že tyto peníze pocházejí z reklamy.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Na druhé straně, u { -brand-name-firefox(case: "gen") } dáváme přednost jednoduchosti. { -brand-name-firefox } ve výchozím nastavení blokuje spoustu sledovacích prvků třetích stran, těžbu kryptoměn a vytváření otisku prohlížeče. S výjimkou režimu anonymního prohlížení se však { -brand-name-firefox } rozhodl zobrazování obsahových reklam neblokovat. Tedy pokud si nenainstalujete <a { $attrs }>některé z rozšíření k tomu přímo určené</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Možnost synchronizace hesel,
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Prohlížeč { -brand-name-firefox } také umožňuje uživatelům zřídit si zdarma <a { $accounts }>{ -brand-name-mozilla-account(capitalization: "lower") }</a>.  { -brand-name-mozilla-account(case: "gen") } je klíč, který otevírá cestu k synchronizaci mezi zařízeními a navíc s ním získáte větší užitek z produktů jako je třeba <a { $monitor }>{ -brand-name-firefox-monitor }</a>, který dává pozor na vaše e-mailové adresy a upozorní vás, pokud se některý z vašich údajů stane součástí známého <a { $breaches }>úniku dat</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Prohlížeč { -brand-name-firefox } také umožňuje uživatelům zřídit si zdarma <a { $accounts }>{ -brand-name-firefox-account(capitalization: "lower") }</a>. Účet { -brand-name-firefox(case: "gen") } je klíč, který otevírá cestu k synchronizaci mezi zařízeními a navíc s ním získáte větší užitek z produktů jako je třeba <a { $monitor }>{ -brand-name-firefox-monitor }</a>, který dává pozor na vaše e-mailové adresy a upozorní vás, pokud se některý z vašich údajů stane součástí známého <a { $breaches }>úniku dat</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } také nedávno získal možnost synchronizace dat napříč nejpopulárnějšími operačními systémy a zařízeními a k tomu přidal možnost synchronizace BAT.
