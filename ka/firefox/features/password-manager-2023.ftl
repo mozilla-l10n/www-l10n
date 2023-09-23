@@ -35,6 +35,6 @@ password-manager-password-security-alerts = პაროლების უს�
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
-password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>გაცნობებთ, თუ პაროლი გამჟღავნებულია</a> მონაცემების მიტაცებისას, ასე რომ შეგიძლიათ მის შეცვლას, სანამ ჰაკერები მიიღებენ შესაძლებლობას, ისარგებლონ Lambo-ს დაქირავებით საკრედიტო ბარათი.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>გაცნობებთ, თუ პაროლი გამჟღავნდება</a> მონაცემების მიტაცებისას, ასე რომ, შეგეძლებათ მისი შეცვლა მანამ, სანამ შემტევები მოახერხებენ ლამბო იქირაონ თქვენი საკრედიტო ბარათის გამოყენებით.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox }-ის პაროლების მმართველის სურათზე ნაჩვენებია შეტყობინება, რომელსაც წაკითხული აქვს „ეს პაროლი გამოყენებულია სხვა ანგარიშზე, რომელიც სავარაუდოდ მონაცემების მიტაცებისას გამოიყენეს. ანგარიშების ხელახლა გამოყენება საფრთხის ქვეშ აყენებს თქვენს ანგარიშებს. შეცვალეთ ეს პაროლი."
+password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox }-ის პაროლების მმართველის გამოსახულება, რომელზეც ნაჩვენებია ცნობა, რომ „ეს პაროლი გამოყენებულია მიტაცებულ მონაცემებში ნაპოვნ სხვა ანგარიშზე. მისი კვლავ გამოყენება საფრთხეს შეუქმნის თქვენს ყველა ანგარიშს. შეცვალეთ ეს პაროლი“.
