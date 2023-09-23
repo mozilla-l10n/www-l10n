@@ -151,7 +151,7 @@ firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადე�
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით პაროლები { -brand-name-firefox-lockwise }-ით, და ა. შ.
 firefox-desktop-download-get-more-from-firefox = მიიღეთ მეტი { -brand-name-firefox }-ისგან
-firefox-desktop-download-just-download-the-browser = უბრალოდ ჩამოტვირთეთ ბრაუზერი
+firefox-desktop-download-just-download-the-browser = მხოლოდ ჩამოტვირთეთ ბრაუზერი
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
