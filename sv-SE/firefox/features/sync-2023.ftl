@@ -15,6 +15,8 @@ features-sync-with-firefox-you-can-pick-up-where = Med { -brand-name-firefox } k
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
 features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Registrera dig för ett gratis { -brand-name-mozilla-account } </a> så kommer du att kunna synkronisera dina data överallt där du använder webbläsaren { -brand-name-firefox }.
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrera dig för ett gratis { -brand-name-firefox }-konto</a> så kommer du att kunna synkronisera dina data överallt där du använder webbläsaren { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = All din data är krypterad på våra servrar så vi kan inte läsa den – endast du kan komma åt den. Vi säljer inte din information till annonsörer eftersom det skulle strida mot vårt <a href="{ $privacy }">löfte om datasekretess</a>.
