@@ -10,6 +10,9 @@ password-manager-free-password-manager = 免费的密码管理器
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密码管理器可助您将密码集中存储，方便自动登录网站及检索已保存的密码。
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } 可以安全地存储您的用户名和密码，待您下次访问网站时自动填写。您可以通过内置的密码管理功能来管理存储的登录信息。
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = 您还可以使用<a href="{ $fxa }">免费的 { -brand-name-mozilla-account }</a>来在所有设备间安全同步密码。
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/

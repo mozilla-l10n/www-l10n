@@ -14,6 +14,7 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } 支�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">注册免费的 { -brand-name-mozilla-account }</a>，即可在使用 { -brand-name-firefox } 浏览器的所有设备上同步数据。
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">注册免费的 { -brand-name-firefox } 账户</a>，即可在使用 { -brand-name-firefox } 浏览器的所有设备上同步数据。
 # Variables:

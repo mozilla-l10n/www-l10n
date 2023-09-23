@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = { -brand-name-safari } 除了您在�
 compare-safari-like-safari-firefox-encourages = 与 { -brand-name-safari } 一样，{ -brand-name-firefox } 鼓励热情的开发者社区为浏览器构建<a { $attrs }>附加组件和扩展</a>。而且，由于我们的平台是开源的，因此可供选择的范围很广，增加了许多功能。
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = 另外，当您创建 { -brand-name-mozilla-account }后，就可以访问其内部集成的一些特色服务，例如 <a { $pocket }>{ -brand-name-pocket }</a>。轻轻一点 { -brand-name-firefox } 的 { -brand-name-pocket } 按钮，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = 另外，当您创建 { -brand-name-firefox } 账户后，就可以访问其内部集成的一些特色服务，例如 <a { $pocket }>{ -brand-name-pocket }</a>。轻轻一点 { -brand-name-firefox } 的 { -brand-name-pocket } 按钮，便可将网页和视频保存到 { -brand-name-pocket } 中，随时随地优雅地阅读，同时支持离线功能。
 # Obsolete string
 # Variables:
@@ -56,6 +60,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>屏幕截图</a>�
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = 从桌面浏览器切换到移动浏览器时，{ -brand-name-firefox } 和 { -brand-name-safari } 均可提供无缝的体验，反之亦然。对于 { -brand-name-safari } 而言，其主要优势之一是其连续性特性。它能将您的书签、标签页、历史记录和更多内容同步到 iCloud，以便在所有设备上都可用。这意味着您可以在 { -brand-name-iphone } 上打开的标签页，只需点击一下即可将其显示在 { -brand-name-mac } 笔记本电脑上。
 compare-safari-both-browsers-have-a-lot = 两款浏览器的功能有许多重叠的部分，但各自也有一些特色功能。例如，您经常使用 { -brand-name-firefox } 的屏幕截图功能，突然没有了它，一定会觉得不习惯。但如果您只是在寻找一款用于浏览和购物的快速、私密的浏览器，而您一直在使用 { -brand-name-safari } 的原因，只因为它是计算机上预装的默认浏览器，那我们强烈建议您试试 { -brand-name-firefox }。最终，您会发现哪一款更符合您的需求。
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } 也提供了类似的同步功能，只需您创建一个免费的 <a { $attrs }>{ -brand-name-mozilla-account }</a>，便可以轻松地在多台设备间同步书签、浏览历史、首选项、密码、表单信息、附加组件和最近打开的标签页（25 个）。{ -brand-name-firefox } 与 { -brand-name-safari } 的不同之处在于，它可以在任何桌面或移动平台——{ -brand-name-ios }、{ -brand-name-android }、{ -brand-name-windows }、GNU/Linux 或 { -brand-name-mac } 上皆可使用，跨平台性绝佳。
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } 也提供了类似的同步功能，只需您创建一个免费的 <a { $attrs }>{ -brand-name-firefox-account } 账户</a>，便可以轻松地在多台设备间同步书签、浏览历史、首选项、密码、表单信息、附加组件和最近打开的标签页（25 个）。{ -brand-name-firefox } 与 { -brand-name-safari } 的不同之处在于，它可以在任何桌面或移动平台——{ -brand-name-ios }、{ -brand-name-android }、{ -brand-name-windows }、GNU/Linux 或 { -brand-name-mac } 上皆可使用，跨平台性绝佳。

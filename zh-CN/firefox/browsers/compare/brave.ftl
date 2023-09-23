@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } 与其他 { -b
 compare-brave-the-internet-as-a-whole-is = 整个互联网很大程度上是通过展示广告来获利的，这使得你想看的内容是免费的。{ -brand-name-brave } 试图通过鼓励用户选择使用 { -brand-name-brave } 自己的奖励系统（实际上是它自己的广告平台）来颠覆这种模式。用户开启此选项后后，{ -brand-name-brave } 将显示他们的所谓“尊重隐私的广告”，您可以查看这些广告并获取他们称为 BAT 的基本注意力代币。如上所述，{ -brand-name-brave } 用户可以选择将 BAT 用于支持他们喜欢的网站或个人贡献者，而网站或贡献者又可以将 BAT 兑换为真金白银。
 compare-brave-whether-this-sounds-complicated = 这听起来有点复杂，又或许是个好主意，可能取决于您对在互联网上展示广告的容忍程度。大多数互联网用户都知道，优质内容是需要付费的，而且他们也理解通过广告获利的行为。
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = 另一方面，对于 { -brand-name-firefox } 浏览器，我们偏向将事情简单化。  { -brand-name-firefox } 默认会阻止许多第三方跟踪器、挖矿程序和指纹跟踪器。不在“隐私浏览模式”时，{ -brand-name-firefox } 不会阻止广告的展示。就是这么简单，除非您安装了 <a { $attrs }>一款广告屏蔽扩展</a>。
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } 浏览器的用户还可以免费注册 <a { $accounts }>{ -brand-name-mozilla-account }</a>。拥有 { -brand-name-mozilla-account }是解锁跨设备同步的关键；此外，您还能获益于诸如 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等其他增强功能。它会持续监控您的电子邮件地址，并在该邮件地址涉及任何已知的<a { $breaches }>数据外泄事件</a>时向您发出警报。
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } 浏览器的用户还可以免费注册 <a { $accounts }>{ -brand-name-firefox-account }</a>。拥有 { -brand-name-firefox } 账户是解锁跨设备同步的关键；此外，您还能获益于诸如 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等其他增强功能。它会持续监控您的电子邮件地址，并在该邮件地址涉及任何已知的<a { $breaches }>数据外泄事件</a>时向您发出警报。
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } 最近也获得了跨大多数流行操作系统和设备同步数据的能力，并增加了同步基本注意力代币（BAT）的功能。
