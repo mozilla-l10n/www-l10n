@@ -14,6 +14,8 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } 支�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">注册免费的 { -brand-name-firefox } 账户</a>，即可在使用 { -brand-name-firefox } 浏览器的所有设备上同步数据。
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = 您在我们服务器上的所有数据都经过加密，只有您可以访问，我们无法查看。我们不会将您的信息出售给广告商，否则违背我们的<a href="{ $privacy }">数据隐私承诺</a>。
