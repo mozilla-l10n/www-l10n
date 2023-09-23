@@ -9,5 +9,9 @@
 password-manager-free-password-manager = Ücretsiz parola yöneticisi
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } parola yöneticisi tüm parolalarını tek bir yere kaydeder. Böylece sitelere otomatik olarak giriş yapabilir, gerektiğinde kayıtlı parolalarınızı kullanabilirsiniz.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-firefox-account = <a href="{ $fxa }">Ücretsiz { -brand-name-firefox } hesabı</a> ile parolalarınızı tüm cihazlarınız arasında güvenli bir şekilde eşitleyebilirsiniz.
 password-manager-import-passwords = Parolaları içe aktarma
 password-manager-password-security-alerts = Parola güvenliği uyarıları

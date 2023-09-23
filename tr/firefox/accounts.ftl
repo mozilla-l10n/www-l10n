@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } açın: Verileriniz gizlilik ve güven içinde eşitlensin
+# Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } açın – Verileriniz gizlilik ve güven içinde eşitlensin
 # HTML page description
 firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerini tüm cihazların arasında güvenle eşitle. Hemen { -brand-name-firefox-account } aç: tek hesap, her yerde güç ve gizlilik.
 firefox-accounts-enter-your-email-address = Başlamak için e-posta adresinizi yazın.
 firefox-accounts-already-have-an-account = Zaten hesabınız var mı?
 firefox-accounts-sign-in = Giriş yapın
+# Obsolete string
 firefox-accounts-already = Zaten bir { -brand-name-firefox-account }nız var. Tebrikler!
+mozilla-accounts-already = Zaten { -brand-name-mozilla-account }nız var. Tebrikler!
 firefox-accounts-manage = Hesabınızı yönetin
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = { -brand-name-mozilla-account }nıza giriş yaparak şunları yapabilirsiniz:
+# Obsolete string
 firefox-accounts-sign-in-to = { -brand-name-firefox-account }nıza giriş yaparak şunları yapabilirsiniz:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Gizliliğe öncelik veren ürünlerimizle tanışın.
