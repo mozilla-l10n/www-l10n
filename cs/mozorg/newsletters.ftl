@@ -56,8 +56,12 @@ newsletters-please-select-language = Vyberte prosím jazyk
 # Form field label
 newsletters-format = Formát:
 newsletters-text-subscribers-will-receive = Odběratelé textů obdrží dvakrát ročně e-mail za účelem potvrzení, že chtějí v odběru pokračovat. Tyto e-maily mohou obsahovat HTML.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-mozilla-accounts(case: "gen", capitalization: "lower") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
+# Obsolete string
 newsletters-many-of-our-communications = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-firefox-accounts(case: "gen", capitalization: "lower") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -293,6 +297,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker(case: "acc") } naplno.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Získejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.

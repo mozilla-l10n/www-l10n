@@ -10,6 +10,9 @@ password-manager-free-password-manager = Bezplatný správce hesel
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Správce hesel ve { -brand-name-firefox(case: "loc") } ukládá všechna vaše hesla na jednom místě, abyste se mohli automaticky přihlásit nebo jednoduše obnovit svá zapomenutá hesla.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpečně ukládá vaše uživatelská jména a hesla pro přístup k webovým stránkám, automaticky je vyplňuje při příští návštěvě webové stránky a umožňuje vám spravovat uložená přihlašovací jména pomocí vestavěné funkce správy hesel.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = Pomocí <a href="{ $fxa }">zdarma dostupného { -brand-name-mozilla-account(case: "gen") }</a> můžete bezpečně synchronizovat svá hesla ve všech zařízeních.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
@@ -23,3 +26,4 @@ password-manager-you-can-use-the-import-wizard = Pomocí průvodce importem mů�
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Obrázek dialogového okna průvodce importem ve { -brand-name-firefox(case: "loc") }, který zobrazuje možnosti importu nastavení a dat z jiných prohlížečů.
 password-manager-no-more-reusing-your-passwords = Už žádné opakované používání hesel
+password-manager-password-security-alerts = Upozornění na zabezpečení hesla
