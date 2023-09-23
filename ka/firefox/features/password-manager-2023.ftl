@@ -22,16 +22,16 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } ა
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = საიტზე შესვლის ველების გამოსახულება { -brand-name-firefox }-ში, სადაც ნაჩვენებია რამდენიმე შენახული ანგარიშიდან არჩევის შესაძლებლობა შესვლისას.
 password-manager-import-passwords = პაროლების გადმოტანა
-password-manager-you-can-use-the-import-wizard = თქვენ შეგიძლიათ იმპორტის ოსტატის საშუალებით მარტივად (ჯადოსნურად) გადმოიტანოთ Chrome, Edge, Safari ან სხვა ბრაუზერებში შენახული მომხმარებლის სახელები და პაროლები. აირჩიეთ პაროლები მენიუდან და შემდეგ დაწკაპეთ „იმპორტი { -brand-name-firefox }“-ზე“, ანგარიშების და პაროლების გვერდის ბოლოში.
+password-manager-you-can-use-the-import-wizard = გადმოტანის მეგზურის საშუალებით შეგიძლიათ ადვილად (ჯადოსნურად) გადმოიტანოთ სახელები და პაროლები, რომელთაც ინახავს Chrome, Edge, Safari ან სხვა ბრაუზერები. მიუთითეთ პაროლები მენიუდან და შემდეგ დაწკაპეთ „გადმოიტანს { -brand-name-firefox }“ ანგარიშებისა და პაროლების გვერდის ბოლოში.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox }-ის იმპორტის ოსტატის სურათი, პარამეტრებისა და მონაცემების იმპორტის პარამეტრები სხვა ბრაუზერებიდან.
-password-manager-no-more-reusing-your-passwords = აღარავითარი თქვენი პაროლები გამოყენება
+password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox }-ის გადმოტანის მეგზურის გამოსახულება, რომელშიც ნაჩვენებია სხვა ბრაუზერიდან გადმოსატანი პარამეტრებისა და მონაცემების ასარჩევი.
+password-manager-no-more-reusing-your-passwords = აღარავითარი ერთი და იმავე პაროლის გამოყენება
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
-password-manager-have-firefox-create-a-strong-unique = სთხოვეთ { -brand-name-firefox }-ს <a { $attrs }>შექმნას მძლავრი, უნიკალური პაროლი</a> ინტერნეტში ყოველი შესვლისთვის — იმ შემთხვევაში, თუ თქვენს რომელიმე პაროლს ვინმე დაზიანებული დაარტყა, იმოქმედებს მხოლოდ ერთ ანგარიშზე, სხვა ანგარიშებზეც არა.
+password-manager-have-firefox-create-a-strong-unique = { -brand-name-firefox } <a { $attrs }>შექმნის მძლავრ, განსხვავებულ პაროლს</a> ვებგვერდის ყოველი ანგარიშისვთის — შედეგად, თუ თქვენს რომელიმე პაროლს ვინმე ხელყოფს მონაცემთა მიტაცებისას, ზიანი მიადგება მხოლოდ ერთ ანგარიშს და სხვებს არ შეეხება.
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-sign-up-form = საიტის ანგარიშის სურათი { -brand-name-firefox } იძლევა მძლავრი პაროლს, რომელსაც ავტომატურად შეინახავს სამომავლო გამოყენებისთვის.
-password-manager-password-security-alerts = პაროლების უსაფრთხოების ცნობები
+password-manager-image-of-a-websites-sign-up-form = საიტზე ანგარიშის შექმნის ველების გამოსახულება { -brand-name-firefox }-ში, სადაც შემოთავაზებულია მძლავრი პაროლის შექმნა ავტომატურად გამოყენებისთვის მომავალში.
+password-manager-password-security-alerts = პაროლების უსაფრთხოების შესახებ ცნობება
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
