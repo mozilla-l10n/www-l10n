@@ -29,3 +29,4 @@ home-your-voice-your-code = Vaš glas. Vaša koda. Vaše zamisli. K { -brand-nam
 home-volunteer-with-mozilla = Postanite prostovoljec { -brand-name-mozilla(sklon: "rodilnik") }
 home-that-one-time = Nekega dne smo objavili svojo kodo …
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
+home-get-good-news = Mozilline (dobre) novice

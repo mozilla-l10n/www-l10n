@@ -14,6 +14,7 @@ features-private-yes-firefox-protects-your = Da. { -brand-name-firefox } ščiti
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } varuje vašo zasebnost tudi z <a href="{ $url }">izboljšano zaščito pred sledenjem</a>, ki sledilcem preprečuje, da bi vam sledili z enega spletnega mesta na drugega in zbirali podatke o vaših navadah brskanja. Vključuje tudi zaščito pred škodljivimi skripti in zlonamerno programsko opremo.
+features-private-sidenote-we-are-not-big-tech = <em>Še to:</em> Nismo tehnološki velikan. Stvari počnemo drugače. Neodvisnost (nobenih delničarjev) nam omogoča, da ljudi postavimo na prvo mesto in pred dobiček. Za razliko od drugih podjetij ne prodajamo dostopa do vaših podatkov.
 features-private-what-information-does-firefox = Katere podatke zbira { -brand-name-firefox }?
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
