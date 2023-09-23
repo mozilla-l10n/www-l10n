@@ -17,6 +17,9 @@ bookmark-manager-collect-your-bookmarks-in-folders = Záložky můžete shromaž
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Obrázek okna správce záložek ve { -brand-name-firefox(case: "loc") }.
 bookmark-manager-easily-import-bookmarks = Snadný import záložek
+bookmark-manager-you-can-import-your-bookmarks = Záložky můžete importovat z prohlížeče Chrome, Safari nebo Edge pomocí průvodce importem { -brand-name-firefox(case: "loc") }. Stačí klepnout na Záložky > Správa záložek, a poté vybrat možnost "Importovat a zálohovat".
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-firefox-import-wizard = Obrázek dialogového okna průvodce importem ve { -brand-name-firefox(case: "loc") }, který zobrazuje možnosti importu nastavení a dat z jiných prohlížečů.
 bookmark-manager-bookmarks-toolbar = Lišta záložek
 bookmark-manager-get-quick-access-to-your = Získejte rychlý přístup k oblíbeným záložkám v nabídce v horní části { -brand-name-firefox(case: "gen") } nebo je připněte na lištu záložek.
 # Used as an accessible text alternative for an image
