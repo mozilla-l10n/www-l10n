@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = 认识四种最常见的跟�
 firefox-privacy-hub-always-in-your-control = 始终由您掌控
 firefox-privacy-hub-want-to-customize-what = 想要调整要拦截的内容吗？点一下就能更改。
 firefox-privacy-hub-protection-beyond-tracking = 不止保护您不受跟踪
+firefox-privacy-hub-if-you-have-a-mozilla-account = 若您拥有 { -brand-name-mozilla-account }，还可以看到我们如何帮助您保护个人信息和密码。
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-firefox-account }，还可以看到我们如何帮助您保护个人信息和密码。
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,14 @@ firefox-privacy-hub-send-a-file = 分享文件
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } 向您推荐人工精选的高质量文章，但并不会收集您的浏览历史或将您的个人信息售卖给广告商。
 firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = 您的 { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = 所有通过 { -brand-name-firefox-account } 同步的信息（从浏览历史到网站密码）都经过加密，只有您自己知道的密码才能“破译”。
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，将您的个人数据与书签随身携带。
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
