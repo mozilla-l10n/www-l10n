@@ -34,6 +34,8 @@ features-index-view-and-edit-pdf-files = Prohlížení a úpravy souborů PDF p�
 features-index-fingerprint-blocking = Blokování vytváření otisku prohlížeče
 features-index-ad-tracker-blocking = Blokování sledujících reklam
 features-index-firefox-automatically-blocks = { -brand-name-firefox } automaticky blokuje více než 2000 sledujících reklam, aby vás nemohly na internetu sledovat.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Zbavte se vlezlých reklam, které vás neustále pronásledují, díky blokování vytváření otisku prohlížeče zabudovaného v prohlížeči { -brand-name-firefox }.
 features-index-translate-the-web = Překládání webových stránek
 features-index-translate-more-than = Překládejte z více než 100 jazyků do svého jazyka přímo v prohlížeči { -brand-name-firefox } - snadněji než kdykoli předtím.
 features-index-picture-in-picture = Obraz v obraze

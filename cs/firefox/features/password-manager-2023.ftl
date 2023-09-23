@@ -26,6 +26,9 @@ password-manager-you-can-use-the-import-wizard = Pomocí průvodce importem mů�
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Obrázek dialogového okna průvodce importem ve { -brand-name-firefox(case: "loc") }, který zobrazuje možnosti importu nastavení a dat z jiných prohlížečů.
 password-manager-no-more-reusing-your-passwords = Už žádné opakované používání hesel
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Požádejte { -brand-name-firefox }, aby <a { $attrs }>vytvořil silné, jedinečné heslo</a> pro každé přihlášení na webu – pokud bude jedno z vašich hesel napadeno narušením zabezpečení, ovlivní to pouze jeden účet, ostatní účty ne.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Obrázek registračního formuláře webové stránky s { -brand-name-firefox(case: "ins") } navrhujícím silné heslo, které se automaticky uloží pro budoucí použití.
 password-manager-password-security-alerts = Upozornění na zabezpečení hesla
