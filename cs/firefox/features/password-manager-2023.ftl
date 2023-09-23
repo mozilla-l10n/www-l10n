@@ -26,4 +26,12 @@ password-manager-you-can-use-the-import-wizard = Pomocí průvodce importem mů�
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Obrázek dialogového okna průvodce importem ve { -brand-name-firefox(case: "loc") }, který zobrazuje možnosti importu nastavení a dat z jiných prohlížečů.
 password-manager-no-more-reusing-your-passwords = Už žádné opakované používání hesel
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Obrázek registračního formuláře webové stránky s { -brand-name-firefox(case: "ins") } navrhujícím silné heslo, které se automaticky uloží pro budoucí použití.
 password-manager-password-security-alerts = Upozornění na zabezpečení hesla
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>vás upozorní, pokud bylo heslo odhaleno</a> při úniku dat, abyste si ho mohli změnit dříve, než hackeři stihnou provést něco takového, jako je pronájem Lamba pomocí vaší kreditní karty.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Obrázek správce hesel { -brand-name-firefox(case: "loc") } zobrazující výstražnou zprávu ve znění “Toto heslo bylo použito na jiném účtu, u kterého pravděpodobně došlo k úniku dat. Opakované používání přihlašovacích údajů ohrožuje všechny vaše účty. Změňte toto heslo.”
