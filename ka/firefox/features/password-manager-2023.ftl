@@ -8,8 +8,8 @@
 # HTML page title
 password-manager-free-password-manager = პაროლის უფასო მმართველი
 # HTML page description
-password-manager-firefox-password-manager-saves-all = { -brand-name-firefox }-ის პაროლების მმართველი ინახავს ყველა თქვენს პაროლს ერთ ადგილას, ასე რომ, საიტებზე შესვლა და პაროლების ავტომატურად მოძიება შეგიძლიათ.
-password-manager-firefox-securely-stores-your = { -brand-name-firefox } უსაფრთხოდ ინახავს თქვენს სახელებსა და პაროლებს საიტებთან წვდომისთვის, ავტომატურად შეავსებს მათ თქვენს ნაცვლად, მომდევნო შესვლისას და საშუალებას გაძლევთ, მართოთ თქვენი შენახული მონაცემები პაროლების მართვის ჩაშენებული ფუნქციით.
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } პაროლების მმართველით ინახავს ყველა თქვენს პაროლს საერთო ადგილას, რომ საიტებზე შესვლა და პაროლების მოძიება ავტომატურად შეგეძლოთ.
+password-manager-firefox-securely-stores-your = { -brand-name-firefox } უსაფრთხოდ ინახავს თქვენს სახელებსა და პაროლებს საიტებთან წვდომისთვის, ავტომატურად შეავსებს მათ თქვენ ნაცვლად მომდევნო შესვლისას და საშუალებას გაძლევთ, მართოთ თქვენი შენახული მონაცემები პაროლების მართვის ჩაშენებული შესაძლებლობით.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">უფასო { -brand-name-mozilla-account(case: "adj") }</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
@@ -18,9 +18,9 @@ password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">უფას�
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = <a href="{ $fxa }">უფასო { -brand-name-firefox }-ანგარიშით</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
 password-manager-password-autofill-for-easy-logins = პაროლის თვითშევსება, მარტივად შესვლისთვის
-password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ს შეუძლია ავტომატურად შეავსოს თქვენი შენახული სახელი და პაროლი. თუ საიტზე ერთზე მეტი შესვლა გაქვთ, შეგიძლიათ უბრალოდ მიუთითოთ სასურველი ანგარიში და ავიღებთ იქიდან.
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } ავტომატურად მოახერხებს შეავსოს ველები დამახსოვრებული სახელითა და პაროლით. თუ საიტისთვის ერთზე მეტი ანგარიში გაქვთ, მხოლოდ აირჩიეთ სასურველი მათგანი და შესაბამის მონაცემებს გამოიყენებს.
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-login-form = საიტის შესვლის ფორმის გამოსახულება { -brand-name-firefox }, რომელიც აჩვენებს რამდენიმე შენახულ ანგარიშს, რომელიდან შესვლისას არჩევანის გაკეთება შეგიძლიათ.
+password-manager-image-of-a-websites-login-form = საიტზე შესვლის ველების გამოსახულება { -brand-name-firefox }-ში, სადაც ნაჩვენებია რამდენიმე შენახული ანგარიშიდან არჩევის შესაძლებლობა შესვლისას.
 password-manager-import-passwords = პაროლების გადმოტანა
 password-manager-you-can-use-the-import-wizard = თქვენ შეგიძლიათ იმპორტის ოსტატის საშუალებით მარტივად (ჯადოსნურად) გადმოიტანოთ Chrome, Edge, Safari ან სხვა ბრაუზერებში შენახული მომხმარებლის სახელები და პაროლები. აირჩიეთ პაროლები მენიუდან და შემდეგ დაწკაპეთ „იმპორტი { -brand-name-firefox }“-ზე“, ანგარიშების და პაროლების გვერდის ბოლოში.
 # Used as an accessible text alternative for an image
