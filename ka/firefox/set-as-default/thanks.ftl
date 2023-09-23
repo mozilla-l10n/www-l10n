@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -10,7 +10,7 @@ set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = გმად�
 set-as-default-thanks-success-your-default-browser = შესრულდა წარმატებით! { -brand-name-firefox } თქვენი ნაგულისხმევი ბრაუზერია.
 set-as-default-thanks-looks-like-youre-using-a = როგორც ჩანს, ახლა სხვა ბრაუზერს იყენებთ. დარწმუნდით, რომ { -brand-name-firefox } ჩამოტვირთულია თქვენს მოწყობილობაზე.
 # When a visitor sees this message a system dialog will also open on screen.
-set-as-default-thanks-youre-almost-done-just-change = თითქმის მზადაა. უბრალოდ გახადეთ { -brand-name-firefox } თქვენი ნაგულისხმევი ბრაუზერი, ეკრანის პარამეტრების არიდან.
+set-as-default-thanks-youre-almost-done-just-change = თითქმის მზადაა. მხოლოდ გახადეთ { -brand-name-firefox } თქვენი ნაგულისხმევი ბრაუზერი, ეკრანის პარამეტრების არიდან.
 set-as-default-thanks-having-trouble-setting-your = ვერ ახერხებთ ნაგულისხმევი ბრაუზერის დაყენებას?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android

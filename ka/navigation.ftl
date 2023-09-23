@@ -88,7 +88,7 @@ navigation-close-about-menu = ჩვენ შესახებ მენიუ
 navigation-meet-the-technology-company = გაეცანით ტექნოლოგიურ დაწესებულებას, რომელიც მოგებაზე წინ, ხალხს აყენებს.
 navigation-new-features = სიახლეები
 navigation-save-content-absorb-knowledge = შეინახეთ გვერდები. შთანთქეთ ცოდნა.
-navigation-same-speed-and-safety = იგივე სიჩქარე და უსაფრთხოება რომელსაც ენდობით, უბრალოდ მორგებული ბიზნესზე.
+navigation-same-speed-and-safety = იგივე სიჩქარე და საიმედო დაცვა, მხოლოდ მორგებული ბიზნესზე.
 # Outdated string
 navigation-add-ons = დამატებები
 navigation-projects = პროექტები

@@ -6,11 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/products/
 
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე უბრალოდ ბრაუზერი
+firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი
 # HTML page description
 firefox-products-its-a-whole-family-of-products = იგი სრული ნაკრებია პროდუქტების, ინტერნეტის უსაფრთხოდ და მოხერხებულად გამოყენებისთვის.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>მეტია</strong> ვიდრე უბრალოდ ბრაუზერი
+firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>მეტია</strong>, ვიდრე მხოლოდ ბრაუზერი
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = შეიტყვვეთ, თუ თქვენი ინფორმაციაც აღმოჩნდა, სხვადასხვა კომპანიებიდან მიტაცებულ მონაცემებს შორის და გამოიწერეთ ცნობები, მომავალში მსგავს შემთხვევებზე.
 firefox-products-check-for-breaches = გაეცანით მიტაცების შემთხვევებს
