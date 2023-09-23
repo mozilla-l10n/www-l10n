@@ -28,4 +28,6 @@ password-manager-no-more-reusing-your-passwords = No más reutilización de cont
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
 password-manager-have-firefox-create-a-strong-unique = Haz que { -brand-name-firefox } <a { $attrs }>cree una contraseña única y segura</a> para cada conexión que tengas en la web; de esa manera, si una de tus contraseñas es filtrada a través de una brecha de seguridad, solo afectará a esa cuenta, y no a tus otras cuentas.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Imagen del formulario de registro de un sitio web con { -brand-name-firefox } que sugiere una contraseña segura que se almacenará automáticamente para uso futuro.
 password-manager-password-security-alerts = Alertas de seguridad de contraseña

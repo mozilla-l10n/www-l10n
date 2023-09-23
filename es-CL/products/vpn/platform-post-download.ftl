@@ -57,11 +57,11 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } muestra indicad
 vpn-download-faq-add-device = ¿Cómo añado otro dispositivo?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y conectarte a tu { -brand-name-firefox-account } existente en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a su suscripción a { -brand-name-mozilla-vpn }</a>.
-# Outdated string
+vpn-download-faq-adding-another-v3 = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y conectarte a tu { -brand-name-mozilla-account } existente en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a su suscripción a { -brand-name-mozilla-vpn }</a>.
+# Obsolete string
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y conectarte a tu cuenta de { -brand-name-firefox } existente en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a su suscripción a { -brand-name-mozilla-vpn }</a>.
+vpn-download-faq-adding-another-v2 = Añadir otro dispositivo es tan simple como descargar e instalar el software { -brand-name-mozilla-vpn } y conectarte a tu { -brand-name-firefox-account } existente en el nuevo dispositivo. Para obtener más detalles, consulta <a href="{ $subscription }">Cómo añadir dispositivos a su suscripción a { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = ¿Cuáles son algunas de las mejores prácticas de VPN?
 vpn-download-faq-traffic = Si tu objetivo es proteger tu tráfico de Internet mientras mantienes una velocidad rápida, siempre es mejor elegir una ubicación de servidor que esté lo más cerca posible de tu ubicación física. Esto aumentará la confiabilidad y la velocidad de su conexión, ya que su tráfico de Internet no necesitará desviarse significativamente antes de llegar a tu destino previsto en la web.
 vpn-download-faq-experience = Si tu objetivo es experimentar Internet como si estuvieras en otra parte del mundo, puedes elegir una ubicación de servidor allí y todos los sitios web que visites se mostrarán como si estuvieras allí.
