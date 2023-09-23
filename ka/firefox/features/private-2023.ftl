@@ -14,11 +14,11 @@ features-private-yes-firefox-protects-your = დიახ. { -brand-name-firefox
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } ასევე იცავს თქვენს პირადულობას <a href="{ $url }">თვალთვალისგან გაძლიერებული დაცვით</a> და შეზღუდავს მეთვალყურეებს, რომლებიც დაგყვებათ საიტზე და აგროვებს ინფორმაციას თქვენი გვერდების მონახულების შესახებ. იგი ასევე შეიცავს დაცვას მავნე სკრიპტებისა და მავნე პროგრამებისგან.
-features-private-sidenote-we-are-not-big-tech = <em>Sidenote:</em> ჩვენ არ ვართ დიდი ტექნიკური. ჩვენ საქმეებს განსხვავებულად ვაკეთებთ. დამოუკიდებლობა (აქციონერების გარეშე) საშუალებას გვაძლევს, მოგებაზე წინ ხალხი დავაყენოთ. სხვა კომპანიებისგან განსხვავებით, ჩვენ არ ვყიდით თქვენს მონაცემებზე წვდომას.
+features-private-sidenote-we-are-not-big-tech = <em>შენიშვნა:</em> ჩვენ არ ვართ ტექგიგანტი. ჩვენ განსხვავებულად ვსაქმიანობთ. დამოუკიდებლობა (აქციონერების გარეშე) საშუალებას გვაძლევს, მოგებაზე წინ ხალხი დავაყენოთ. სხვა კომპანიებისგან განსხვავებით არ ვყიდით თქვენს მონაცემებზე წვდომას.
 features-private-what-information-does-firefox = რა ინფორმაციას აგროვებს { -brand-name-firefox }?
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
-features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox }-ის შემქმნელი) პირადულობას ზედმიწევნით აფასებს. <strong>მეტად სერიოზულად</strong>. სინამდვილეში, თითოეული { -brand-name-firefox }-ის პროდუქტი, რომელსაც ვქმნით, წარმოადგენს <a href="{ $url }">პირადი მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხოდ შეინახეთ. არანაირი საიდუმლოებები.
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox }-ის შემქმნელი) პირადულობას დიდი პასუხისმგებლობით ეკიდება. <strong>უდიდესი პასუხისმგებლობით</strong>. დადასტურებულია, რომ თითოეული { -brand-name-firefox }-ნაწარმი, რომელსაც ვქმნით, ითვალისწინებს <a href="{ $url }">პირადი მონაცემების დაცვის ჩვენს პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხოდ შენახვა. არანაირი საიდუმლოება.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
 features-private-read-firefoxs-privacy-notice = გაეცანით <a href="{ $url }">{ -brand-name-firefox }-ის პირადი მონაცემების დაცვის დებულებას</a> ვრცლად. სერიოზულად, შეამოწმეთ. ნორმალური ზომის შრიფტით წერია და ყველაფერი.
