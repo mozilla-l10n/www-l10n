@@ -21,4 +21,4 @@ features-private-what-information-does-firefox = რა ინფორმაც
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } ({ -brand-name-firefox }-ის შემქმნელი) პირადულობას დიდი პასუხისმგებლობით ეკიდება. <strong>უდიდესი პასუხისმგებლობით</strong>. დადასტურებულია, რომ თითოეული { -brand-name-firefox }-ნაწარმი, რომელსაც ვქმნით, ითვალისწინებს <a href="{ $url }">პირადი მონაცემების დაცვის ჩვენს პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხოდ შენახვა. არანაირი საიდუმლოება.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
-features-private-read-firefoxs-privacy-notice = გაეცანით <a href="{ $url }">{ -brand-name-firefox }-ის პირადი მონაცემების დაცვის დებულებას</a> ვრცლად. სერიოზულად, შეამოწმეთ. ნორმალური ზომის შრიფტით წერია და ყველაფერი.
+features-private-read-firefoxs-privacy-notice = გაეცანით <a href="{ $url }">{ -brand-name-firefox }-ის პირადი მონაცემების დაცვის დებულებას</a> ვრცლად. მართლა, გადახედეთ. სათანადო ზომისაა შრიფტიც და ყველაფერი გარკვევით წერია.
