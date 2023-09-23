@@ -61,6 +61,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Seznamte se se čtyřmi nejb�
 firefox-privacy-hub-always-in-your-control = Vždy pod vaší kontrolou
 firefox-privacy-hub-want-to-customize-what = Chcete si přizpůsobit, co se blokuje? Stačí jen jedno kliknutí.
 firefox-privacy-hub-protection-beyond-tracking = Ochrana nejen před sledováním
+firefox-privacy-hub-if-you-have-a-mozilla-account = Pokud máte { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }, můžete se také podívat, jak vám pomáháme chránit vaše osobní údaje a hesla.
 # Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Pokud máte { -brand-name-firefox-account(case: "gen", capitalization: "lower") }, můžete se také podívat, jak vám pomáháme chránit vaše osobní údaje a hesla.
 # Variables:

@@ -80,6 +80,8 @@ faq-question-acceptable-use-question = Jaká jsou přijatelná použití { -bran
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = Pro službu { -brand-name-firefox-relay } platí stejné <a href="{ $url }" { $attrs }>podmínky používání jako pro všechny produkty { -brand-name-mozilla(case: "gen") }</a>. Pokud jde o používání { -brand-name-relay(case: "gen") } ke škodlivým účelům jako je třeba spam, uplatňujeme politiku nulové tolerance, což má za následek zrušení uživatelského účtu. Přijímáme opatření, abychom uživatelům zabránili v porušování našich podmínek tím, že:
+faq-question-acceptable-use-answer-measure-account-v2 = Vyžaduje { -brand-name-mozilla-account } s ověřenou e-mailovou adresou
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Vyžadujeme { -brand-name-firefox-account(case: "acc") } s ověřenou e-mailovou adresou
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Za vytvoření více než pěti masek požadujeme od uživatele platbu
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Omezujeme počet masek, které lze vytvořit za jeden den

@@ -57,6 +57,10 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zobrazuje vizu�
 vpn-download-faq-add-device = Jak přidám další zařízení?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Přidání dalšího zařízení je stejně jednoduché jako stažení a instalace softwaru { -brand-name-mozilla-vpn } a následné přihlášení ke stávajícímu { -brand-name-mozilla-account } na novém zařízení. Další podrobnosti naleznete v <a href="{ $subscription }">Jak přidat zařízení k vašemu předplatnému { -brand-name-mozilla-vpn }</a>.
+# Obsolete string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Přidání dalšího zařízení je stejně jednoduché jako stažení a instalace softwaru { -brand-name-mozilla-vpn }, a následné přihlášení ke stávajícímu { -brand-name-firefox-account } na novém zařízení. Další podrobnosti naleznete v <a href="{ $subscription }">Jak přidat zařízení k vašemu předplatnému { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
 vpn-download-faq-traffic = Pokud je vaším cílem chránit internetový provoz a zároveň zachovat vysokou rychlost, je vždy nejlepší zvolit umístění serveru co nejblíže vaší fyzické poloze. Tím se zvýší spolehlivost a rychlost vašeho připojení, protože váš internetový provoz nebude muset absolvovat značnou okliku, než dorazí na místo určení na webu.
