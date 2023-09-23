@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = Además del conjunto habitual de fun
 compare-safari-like-safari-firefox-encourages = Al igual que { -brand-name-safari }, { -brand-name-firefox } anima a su entusiasta comunidad de desarrolladores a crear <a { $attrs }>complementos y extensiones</a> para el navegador. Y dado que nuestra plataforma es de código abierto, hay una amplia selección que añade una gran cantidad de funcionalidades.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Además, cuando te registras para una cuenta de { -brand-name-mozilla-account }, obtienes acceso a servicios exclusivos, como <a { $pocket }>{ -brand-name-pocket }</a>, los que se integran directamente al navegador. El botón { -brand-name-pocket } para { -brand-name-firefox } te permite guardar páginas web y videos en { -brand-name-pocket } con solo un clic, para que puedas leer una versión limpia y sin distracciones, donde quiera que estés y cuando quieras —incluso sin conexión.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Además, cuando te registras para una cuenta de { -brand-name-firefox }, obtienes acceso a servicios exclusivos, como <a { $pocket }>{ -brand-name-pocket }</a>, los que se integran directamente al navegador. El botón { -brand-name-pocket } para { -brand-name-firefox } te permite guardar páginas web y videos en { -brand-name-pocket } con solo un clic, para que puedas leer una versión limpia y sin distracciones, donde quiera que estés y cuando quieras — incluso sin conexión.
 # Obsolete string
 # Variables:
@@ -56,6 +60,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> es
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = Tanto { -brand-name-firefox } como { -brand-name-safari } ofrecen una experiencia fluida al moverse del computador al celular o viceversa. Para { -brand-name-safari }, una de sus principales fortalezas es la funcionalidad de continuidad. Sincroniza tus marcadores, pestañas, historial y más con iCloud para que estén disponibles en todos tus dispositivos. Esto se traduce en que puedes abrir una pestaña en tu { -brand-name-iphone } y que esta también aparezca en tu { -brand-name-mac } con solo un clic.
 compare-safari-both-browsers-have-a-lot = Ambos navegadores tienen muchas funcionalidades en común, así como algunas únicas. Vale la pena mencionar que si haces muchas capturas de pantalla, te vas a preguntar cómo has podido vivir sin esta práctica función integrada en { -brand-name-firefox }. Pero si solo estás buscando un navegador rápido y privado para navegar y comprar, entonces puedes probar { -brand-name-firefox }, especialmente si estuviste usando { -brand-name-safari } exclusivamente porque vino pre-instalado como el navegador predeterminado en tu ordenador. Finalmente, descubrirás cuál se adapta mejor a tus necesidades.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } también ofrece una funcionalidad de sincronización al registrarse para una <a { $attrs }>{ -brand-name-mozilla-account }</a> gratuita que permite a los usuarios a sincronizar fácilmente sus marcadores, historial de navegación, preferencias, contraseñas, completar formularios, complementos y las últimas 25 pestañas abiertas, todo entre múltiples dispositivos. Lo que diferencia a { -brand-name-firefox } de { -brand-name-safari } es que está disponible en cualquier ordenador de escritorio o plataforma móvil, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } o { -brand-name-mac }, lo que aumenta su portabilidad a cualquier dispositivo que puedas tener.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } también ofrece una funcionalidad de sincronización al registrarse para una <a { $attrs }>{ -brand-name-firefox-account }</a> gratuita que permite a los usuarios a sincronizar fácilmente sus marcadores, historial de navegación, preferencias, contraseñas, completar formularios, complementos y las últimas 25 pestañas abiertas, todo entre múltiples dispositivos. Lo que diferencia a { -brand-name-firefox } de { -brand-name-safari } es que está disponible en cualquier ordenador de escritorio o plataforma móvil, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } o { -brand-name-mac }, lo que aumenta su portabilidad a cualquier dispositivo que puedas tener.
