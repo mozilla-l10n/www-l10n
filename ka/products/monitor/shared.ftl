@@ -16,5 +16,7 @@ monitor-shared-sub-nav-all-breaches = მიტაცებები
 ## Footer
 
 monitor-shared-footer-about-mozilla = { -brand-name-mozilla }-ს შესახებ
+monitor-shared-footer-terms-of-service = მომსახურების პირობები
+# Outdated string
 monitor-shared-footer-terms-and-privacy = პირობები და პირადულობა
 monitor-shared-footer-github = GitHub
