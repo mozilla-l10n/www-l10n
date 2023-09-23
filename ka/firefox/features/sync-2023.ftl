@@ -14,6 +14,7 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox }-ი�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-mozilla-account }</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-firefox }-ანგარიში</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
 # Variables:

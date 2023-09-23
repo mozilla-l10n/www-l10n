@@ -7,11 +7,11 @@
 
 features-customize-customize-your-firefox = მოირგეთ თქვენი { -brand-name-firefox }-ბრაუზერი
 # HTML page description
-features-customize-choose-how-your-browser-looks = აირჩიეთ, თუ როგორი უნდა იყოს თქვენი ბრაუზერი ათასობით უფასო თემით.
+features-customize-choose-how-your-browser-looks = აირჩიეთ, როგორი უნდა იყოს თქვენი ბრაუზერი, ათასობით უფასო გაფორმების მეშვეობით.
 features-customize-firefox-themes-let-you-change = { -brand-name-firefox }-ის თემები საშუალებას გაძლევთ შეცვალოთ ბრაუზერის იერსახე. ისინი ადგენენ ფერებს ბრაუზერის მენიუებსა და { -brand-name-firefox }-ის სისტემის გვერდებზე, ასევე შეუძლიათ ფონის სურათის დამატება თქვენი { -brand-name-firefox }-ის ხელსაწყოთა ზოლზეც.
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox }-ს გააჩნია ნაგულისხმევი სისტემური გაფორმება და აღჭურვილია ნათელი, მუქი და ფერადი ვერსიებით.
 # Used as accessible alternative text for an image
-features-customize-image-of-the-default-themes = ნაგულისხმევი თემების სურათი, რომელსაც ახლავს { -brand-name-firefox }, ნათელი, მუქი და ფერადი განსხვავებების ჩვენება.
+features-customize-image-of-the-default-themes = ნაგულისხმევი თემების გამოსახულება, რომელსაც ახლავს { -brand-name-firefox } ნათელი, მუქი და ფერადი სახესხვაობით.
 # Variables:
 #   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
 #   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
@@ -21,6 +21,8 @@ features-customize-image-of-the-default-themes = ნაგულისხმე�
 #   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
 #   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
 #   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
-features-customize-you-can-find-more-free-custom = დამატებითი თავისუფალი თემების ნახვა შეგიძლიათ ბმულზე <a { $amo }>addons.mozilla.org</a>. დაათვალიერეთ <a { $top }">ცნობილი</a>, <a { $trending }>სასურველი</a> და <a { $recommended }>ყველაზე სასურველი</a> თემები. ან მოძებნეთ თემები კატეგორიების მიხედვით, <a { $music }>მუსიკა</a>, <a { $seasonal }>სეზონური</a>, <a { $sports }>სპორტული</a> და <a { $nature } >ბუნება</a>. მოარგეთ თქვენი გამოცდილება თქვენს გემოვნებაზე. საყვარელი არსებები, ბოროტი რობოტები, ულამაზესი ხედები — ათასობით ვარიანტია, რომ { -brand-name-firefox } უფრო მეტად გახადოთ თქვენი საკუთარი.
+features-customize-you-can-find-more-free-custom-v2 = სხვა უფასო თემების ნახვა შეგიძლიათ ბმულზე <a { $amo }>addons.mozilla.org</a>. მოიძიეთ <a { $top }>რჩეული</a>, <a { $trending }>მეტად გავრცელებული</a> და <a { $recommended }>ყველაზე სასურველი</a> გაფორმებები. ანდა მონახეთ თემები ჯგუფების მიხედვით, მათ შორის <a { $music }>მუსიკა</a>, <a { $seasonal }>წლის დროები</a>, <a { $sports }>სპორტი</a> და <a { $nature }>ბუნება</a>. მოარგეთ თქვენი სამუშაო გარემო თქვენს გემოვნებას. საყვარელი არსებები, ბოროტი რობოტები, ულამაზესი პეიზაჟები — ათასობით არჩევანია, რომ გახადოთ { -brand-name-firefox } მეტად თქვენებური.
+# Obsolete string, contains an error
+features-customize-you-can-find-more-free-custom = სხვა უფასო თემების ნახვა შეგიძლიათ ბმულზე <a { $amo }>addons.mozilla.org</a>. მოიძიეთ <a { $top }>რჩეული</a>, <a { $trending }>მეტად გავრცელებული</a> და <a { $recommended }>ყველაზე სასურველი</a> გაფორმებები. ანდა მონახეთ თემები ჯგუფების მიხედვით, მათ შორის <a { $music }>მუსიკა</a>, <a { $seasonal }>წლის დროები</a>, <a { $sports }>სპორტი</a> და <a { $nature }>ბუნება</a>. მოარგეთ თქვენი სამუშაო გარემო თქვენს გემოვნებას. საყვარელი არსებები, ბოროტი რობოტები, ულამაზესი პეიზაჟები — ათასობით არჩევანია, რომ გახადოთ { -brand-name-firefox } მეტად თქვენებური.
 # Used as accessible alternative text for an image
 features-customize-image-of-three-custom-firefox = სამი { -brand-name-firefox }-ის თემის გამოსახულება: მუქი იასამნისფერი და ვარდისფერი იერსახე თეთრი და ნარინჯისფერი აქცენტებით, ღია ჩალისფერი იერსახე აკვარელი ფრინველებითა და ალუბლის ყვავილებით დახატული, ხოლო მუქი შავ-მომწვანო იერსახით მაღალი -ტექნოლოგიების სქემატური სქემა.

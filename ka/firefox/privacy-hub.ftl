@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = გაიცანით ო�
 firefox-privacy-hub-always-in-your-control = მუდამ თქვენი მართვის ქვეშ
 firefox-privacy-hub-want-to-customize-what = გსურთ აირჩიოთ რა შეიზღუდოს? ყველა პარამეტრს ერთი წკაპით შეცვლით.
 firefox-privacy-hub-protection-beyond-tracking = დაცვა, თვალთვალის მიღმაც
+firefox-privacy-hub-if-you-have-a-mozilla-account = თუ გაქვთ { -brand-name-mozilla-account }, შეგიძლიათ ნახოთ, როგორ გეხმარებით პირადი ინფორმაციისა და პაროლების უსაფრთხოდ შენახვაში.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = თუ გაქვთ { -brand-name-firefox-account }, შეგიძლიათ ნახოთ, როგორ გეხმარებით პირადი ინფორმაციისა და პაროლების უსაფრთხოდ შენახვაში.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = გაგზავნეთ ფაილი
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } გთავაზობთ მაღალი ხარისხის, ადამიანების ზედამხედველობით შერჩეულ სტატიებს თქვენი მიერ მონახულებული გვერდების აღრიცხვისა და პირადი მონაცემების სარეკლამოებისთვის განდობის გარეშე.
 firefox-privacy-hub-get-pocket = გამოიყენეთ { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = თქვენი { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = თქვენი { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = ყველა მონაცემი, რომელთაც ასინქრონებს { -brand-name-mozilla-account } — მონახულებული გვერდებისა და პაროლების ჩათვლით — დაშიფრულია. მისი ერთადერთი გასაღები კი თქვენ მიერ შედგენილი პაროლია.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = ყველა მონაცემი, რომელსაც ასინქრონებთ { -brand-name-firefox-account(case: "adj") } — მონახულებული გვერდებისა და პაროლების ჩათვლით — დაშიფრულია. მისი ერთადერთი გასაღები კი თქვენ მიერ შედგენილი პაროლია.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = წაიყოლეთ პირადი მონაცემები და სანიშნები ყველგან, სადაც { -brand-name-mozilla-account(case: "dat") } იყენებთ.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = წაიყოლეთ პირადი მონაცემები და სანიშნები ყველგან, სადაც { -brand-name-firefox-account(case: "dat") } იყენებთ.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = უკვე გაქვთ ანგარიში? <a { $sign_in } class="{ $class_name }">შედით</a> ან <a href="{ $learn_more }">იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-mozilla }-ს.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

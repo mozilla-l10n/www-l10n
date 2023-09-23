@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = შექმენით { -brand-name-mozilla-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
+# Obsolete string
 firefox-accounts-get-a-firefox-account = შექმენით { -brand-name-firefox-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
 # HTML page description
 firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-firefox-account } ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
 firefox-accounts-enter-your-email-address = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 firefox-accounts-already-have-an-account = უკვე გაქვთ ანგარიში?
 firefox-accounts-sign-in = შესვლა
+# Obsolete string
 firefox-accounts-already = თქვენ უკვე გაქვთ { -brand-name-firefox-account }. გილოცავთ!
+mozilla-accounts-already = თქვენ უკვე გაქვთ { -brand-name-mozilla-account }. გილოცავთ!
 firefox-accounts-manage = მართეთ თქვენი ანგარიში
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = შედით თქვენს { -brand-name-mozilla-account(case: "ine") }:
+# Obsolete string
 firefox-accounts-sign-in-to = შედით თქვენს { -brand-name-firefox-account(case: "ine") }:
 # Obsolete string
 firefox-accounts-meet-our-family-of = გაეცანით პირადულობის უწინარესობის უზრუნველმყოფი პროდუქტების ჩვენს ნაკრებს.
