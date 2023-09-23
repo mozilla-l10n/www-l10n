@@ -4,7 +4,7 @@
 
 # Obsolete string
 fxa-form-enter-your-email = <strong>Vnesite svoj e-poštni naslov</strong> za dostop do { -brand-name-firefox-accounts }.
-fxa-form-enter-your-email-v2 = <strong>Vnesite svoj e-poštni naslov</strong> in ustvarite { -brand-name-mozilla-account(sklon: "rodilnik") }.
+fxa-form-enter-your-email-v2 = <strong>Vnesite svoj e-poštni naslov</strong> in ustvarite { -brand-name-mozilla-account(sklon: "tozilnik") }.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
