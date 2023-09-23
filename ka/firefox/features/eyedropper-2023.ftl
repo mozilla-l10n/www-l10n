@@ -8,7 +8,7 @@
 features-eyedropper-eyedropper-tool = საწვეთური ხელსაწყო
 features-eyedropper-select-colors-in-firefox = აირჩიეთ ფერები { -brand-name-firefox }-ში საწვეთური ხელსაწყოთი
 # HTML page description
-features-eyedropper-identify-the-exact-color-on-a = გვერდის ზუსტი ფერი მიუთითეთ და დააკოპირეთ თექვსმიანი კოდი.
+features-eyedropper-identify-the-exact-color-on-a = დაადგინეთ ზუსტი ფერი ვებგვერდზე და აიღეთ მისი თექვსმეტობითი კოდი.
 features-eyedropper-there-are-a-lot-of-reasons = უამრავი მიზეზია, რისთვისაც გსურთ ვებგვერდზე კონკრეტული ფერის თექვსმეტობითი ფერის კოდის ცოდნა – შესაძლოა, ვებგვერდებს ქმნით, ან გრაფიკული დიზაინერი ხართ. თვალის საწვეთური ხელსაწყო, დესკტოპის { -brand-name-firefox }-ის ვერსიაში, საშუალებას გაძლევთ მარტივად მოიძიოთ თექვსმეტობითი ფერის კოდები ვებგვერდზე ნებისმიერ ფერზე გადატარებით. დაწკაპება შეინახავს ამ ფერის მნიშვნელობას თქვენს ბუფერში.
 # Used as an accessible text alternative for an image
 features-eyedropper-screenshot-of-the-eyedropper-tool = { -brand-name-firefox }-ში თვალის საწვეთურის სურათი, რომელიც ვებგვერდზე ერთი პიქსელის თექვსმეტობითი ფერის მნიშვნელობას აჩვენებს.
