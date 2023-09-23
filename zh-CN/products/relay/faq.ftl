@@ -55,7 +55,7 @@ faq-question-attachments-question = { -brand-name-firefox-relay } 可以转发�
 # Variables:
 #  $size (number): maximum size for attachments in MB
 faq-question-attachments-answer-v2 = 我们现在支持转发附件。但是，使用 { -brand-name-relay } 转发电子邮件有 { $size } MB 限制。无法转发大于 { $size } MB 的电子邮件。
-faq-question-unsubscribe-domain-question-2 = 若取消订阅 { -brand-name-relay-premium }，我的自定义子域会怎样？
+faq-question-unsubscribe-domain-question-2 = 若取消订阅 { -brand-name-relay-premium }，我的自定义子域名会怎样？
 faq-question-unsubscribe-domain-answer-2 = 若不再续订 { -brand-name-relay-premium }，您仍能收到之前自定义马甲邮箱转发的电子邮件，但无法再使用该子域名新建马甲。若已有五个以上马甲，则无法创建更多马甲。您也将无法回复转发的消息。重新订阅 { -brand-name-relay-premium } 才可重获这些功能的使用权。
 faq-question-8-question = { -brand-name-firefox-relay } 会收集哪些数据？
 # Variables:
@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = { -brand-name-relay } 的可接受用途�
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } 和所有 { -brand-name-mozilla } 产品采用相同的 <a href="{ $url }" { $attrs }>使用条款</a>。我们对于将 { -brand-name-relay } 用于发送垃圾邮件等恶意用途实行零容忍政策，停用违规账户。我们采取一系列措施来防止用户违反我们的条款：
+faq-question-acceptable-use-answer-measure-account-v2 = 要求使用已验证邮箱地址的 { -brand-name-mozilla-account }
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = 要求 { -brand-name-firefox-account }使用验证过的电子邮件地址
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = 要求用户付费才可创建五个以上马甲
 faq-question-acceptable-use-answer-measure-rate-limit-2 = 限制一天内可生成的马甲数量
