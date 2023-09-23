@@ -8,5 +8,6 @@
 features-private-browsing-private-browsing-mode = Gizli gezinti modu
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } gizli gezinti modu
+features-private-browsing-what-does-private-browsing-do = Gizli gezinti ne işe yarar?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Gizli gezinti modunda bir { -brand-name-firefox } tarayıcı penceresi.

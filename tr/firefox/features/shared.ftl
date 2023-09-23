@@ -12,6 +12,7 @@ features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir 
 features-shared-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?
 features-shared-free-password-manager = Parola yöneticisi
 features-shared-customize-your-firefox-browser = { -brand-name-firefox } tarayıcınızı özelleştirin
+features-shared-firefox-browser-sync = { -brand-name-firefox } tarayıcı eşitlemesi
 features-shared-bookmark-manager = Yer imi yöneticisi
 features-shared-private-browsing-mode = Gizli gezinti modu
 features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } eklentileri ve tarayıcı uzantıları

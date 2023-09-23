@@ -36,7 +36,9 @@ sub-navigation-firefox-for-mobile = Mobil Cihazlar için { -brand-name-firefox }
 sub-navigation-android-addons = { -brand-name-android } Eklentileri
 sub-navigation-android-add-ons = { -brand-name-android } eklentileri
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 bit

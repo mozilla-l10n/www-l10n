@@ -10,6 +10,8 @@ features-translate-translate-the-web-title = Web’i doğrudan tarayıcınızdan
 # page description
 features-translate-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox-browser }ndan kendi dilinize çevirin.
 features-translate-translate-the-web = { -brand-name-firefox } ile web’i çevirin
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Web’i çevirin
 # Obsolete string
 features-translate-the-google-translate = { -brand-name-firefox } için { -brand-name-google } Translate eklentisi, web’i tüm dünya için erişilebilir hale getiriyor.
 # $attrs (string) - link to https://www.mozilla.org/firefox/all/
@@ -19,10 +21,12 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } uzantısı</a>, ziyaret ettiğiniz web sayfalarındaki içerikleri otomatik olarak çevirebilir. Bu uzantı, bazı bulut tabanlı alternatiflerin aksine, metinleri { -brand-name-firefox } içinde yerel olarak çevirir; yani çevirdiğiniz içerikler başka bir sunucuya gönderilmez.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = { -brand-name-firefox-translations }’ı indir
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = 100'den fazla dili destekleyen { -brand-name-google } Çeviri, dünya genelinde milyonlarca insan tarafından kullanılıyor. Ancak translate.google.com ile okumaya çalıştığınız sayfa arasında gidip gelmek ideal bir çözüm değil. <a { $attrs }>To { -brand-name-google } Translate</a> eklentisi, okumak istediğiniz sayfanın çevirisini çok daha kolay hale getiriyor.
 # links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
 features-translate-get-to-google-translate = To { -brand-name-google } Translate’i indir
 # Obsolete string
 features-translate-get-the-extension = Eklentiyi yükle
