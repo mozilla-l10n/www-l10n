@@ -148,6 +148,12 @@
         [adj] Mozilla-ანგარიშით
        *[nom] Mozilla-ანგარიში
     }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen] Mozilla-ანგარიშების
+        [add] Mozilla-ანგარიშებთან
+       *[nom] Mozilla-ანგარიშები
+    }
 
 ## Mozilla projects (short names)
 

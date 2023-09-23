@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = დასინქრონ�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox }-ბრაუზერი ასევე საშუალებას აძლევს მომხმარებლებს შექმნან უფასო <a { $accounts }>{ -brand-name-mozilla-account }</a>. { -brand-name-mozilla-account } წარმოადგენს გასაღებს, დასინქრონებული მონაცემების სანახავად სხვადასხვა მოწყობილობაზე და დამატებით გაძლევთ წვდომას ისეთ შესაძლებლობებთან, როგორიცაა თუნდაც <a { $monitor }>{ -brand-name-firefox-monitor }</a>, თქვენი ელფოსტის მისამართების შესამოწმებლად, გამჟღავნებულია ხომ არაა <a { $breaches }>მონაცემთა ცნობილი მიტაცებებისას</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox }-ბრაუზერი ასევე საშუალებას აძლევს მომხმარებლებს შექმნან უფასო <a { $accounts }>{ -brand-name-firefox-account }</a>. { -brand-name-firefox }-ანგარიში წარმოადგენს გასაღებს, დასინქრონებული მონაცემების სანახავად სხვადასხვა მოწყობილობაზე და დამატებით გაძლევთ წვდომას ისეთ შესაძლებლობებთან, როგორიცაა თუნდაც <a { $monitor }>{ -brand-name-firefox-monitor }</a>, თქვენი ელფოსტის მისამართების შესამოწმებლად, გამჟღავნებულია ხომ არაა <a { $breaches }>მონაცემთა ცნობილი მიტაცებებისას</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave }-მ ახლახან აგრეთვე მიიღო მონაცემების გავრცელებულ საოპერაციო სისტემებსა და მოწყობილობებზე დასინქრონების შესაძლებლობა, მათ შორის მოპოვებული მონეტებისაც.

@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = რისთვისაა მისა�
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay }-ს იგივე <a href="{ $url }" { $attrs }>გამოყენების პირობები აქვს, რომელიც { -brand-name-mozilla }-ს ყველა პროდუქტს</a>. ჩვენ გვაქვს ნულოვანი შემწყნარებლობის დებულება, როცა საქმე ეხება { -brand-name-relay }-ს მავნე მიზნებისთვის გამოყენებას, თუნდაც ჯართის დაგზავნას, რაც გამოიწვევს მომხმარებლის ანგარიშის გაუქმებას. ჩვენ ვიღებთ ზომებს, რომ მომხმარებლებმა ვერ დაარღვიონ ჩვენი პირობები, შემდეგნაირად:
+faq-question-acceptable-use-answer-measure-account-v2 = საჭიროებს { -brand-name-mozilla-account(case: "dat") } ელფოსტის დამოწმებული მისამართით
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = მოითხოვება { -brand-name-firefox-account } ელფოსტის დამოწმებული მისამართით
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = მოითხოვება გადახდა მომხმარებლისგან ხუთზე მეტი ნიღბის შესაქმნელად
 faq-question-acceptable-use-answer-measure-rate-limit-2 = ერთ დღეში დასამზადებელი ნიღბების რაოდენობა შეზღუდულია
