@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = ¿Qué es la creación de huellas digitales (fingerprinting) y por qué debería bloquearla?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = La creación de huellas digitales (fingerprinting) es un tipo de seguimiento en línea que es más invasivo que el seguimiento ordinario basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
+features-fingerprinting-fingerprint-blocking = Bloqueo de creadores de huellas (fingerprinters)
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloquea a los creadores de huellas digitales (fingerprinting)
 features-fingerprinting-ditch-the-sticky = Deshazte de los anuncios que te persiguen con los bloqueadores de huellas digitales (fingerprinting) integrados del navegador { -brand-name-firefox }.
 # description for the header image

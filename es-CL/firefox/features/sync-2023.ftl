@@ -7,6 +7,12 @@
 
 # page title
 features-sync-firefox-browser-sync = Sincronización del navegador { -brand-name-firefox }
+# HTML page description
+features-sync-access-your-firefox-bookmarks = Accede a tus favoritos, contraseñas, pestañas abiertas de { -brand-name-firefox } y más desde cualquier dispositivo.
+
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+
 features-sync-send-tabs-from-one-device-to-another = Enviar pestañas de un dispositivo a otro
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Una imagen del menú de aplicación de { -brand-name-firefox } que resalta la opción "Enviar pestaña al dispositivo".

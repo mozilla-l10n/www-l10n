@@ -14,3 +14,6 @@ features-private-browsing-what-does-private-browsing-do = ¿Qué hace la navegac
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Una ventana del navegador { -brand-name-firefox } en modo de navegación privada.
 features-private-browsing-what-private-browsing-doesnt-do = ¿Qué no hace la navegación privada?
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Compara la navegación privada de { -brand-name-firefox } con el <a href="{ $chrome }">modo incógnito de Chrome</a>.

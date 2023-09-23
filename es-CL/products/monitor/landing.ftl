@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/monitor/
 
+# HTML page title
+monitor-landing-page-title = { -brand-name-mozilla-monitor } — protege tus datos personales de la exposición
+# HTML page description
+monitor-landing-page-desc = Descubre si tu información personal, desde números de teléfono hasta direcciones particulares, ha sido expuesta en línea. Únete a 10 millones de usuarios en todo el mundo para reclamar tu privacidad. Comienza con un escaneo gratuito.
+monitor-hero-heading = Fíjate si tu información privada fue expuesta — y recupérala
+monitor-hero-tagline = Analizamos las filtraciones de datos para ver si tus datos se han filtrado y te brindamos pasos para solucionarlo.
 
 ## Get free scan form
 
@@ -38,6 +44,11 @@ monitor-sign-up-for-breach-alerts = Regístrate para recibir alertas de filtraci
 monitor-faq-heading = Preguntas frecuentes
 monitor-all-faq-link = Ver todas las preguntas frecuentes
 monitor-faq-what-is-a-data-breach-question = ¿Qué es exactamente una filtración de datos?
+monitor-faq-what-do-i-do-question = Acabo de enterarme de que estoy en una filtración de datos. ¿Qué hago ahora?
+monitor-faq-what-gets-exposed-question = ¿Qué información queda expuesta en las filtraciones de datos?
+monitor-faq-whats-gets-exposed-answer = No todas las filtraciones exponen la misma información. Solo depende de a qué puedan acceder los hackers. Muchas filtraciones de datos exponen direcciones de correo electrónico y contraseñas. Otras exponen información más confidencial, como números de tarjetas de crédito, números de pasaporte y números de seguridad social.
 
 ##
 
+monitor-take-back-control = Recupera el control de tu información
+monitor-breach-data-provided-by = Datos de filtraciones proporcionados por <strong>Have I Been Pwned</strong>

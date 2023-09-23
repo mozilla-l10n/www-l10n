@@ -18,6 +18,7 @@ features-shared-bookmark-manager = Administrador de marcadores
 features-shared-private-browsing-mode = Modo de navegación privada
 features-shared-firefox-add-ons-and-browser-extensions = Complementos y extensiones de { -brand-name-firefox }
 features-shared-pinned-browser-tabs = Pestañas del navegador fijadas
+features-shared-eyedropper-tool = Herramienta Eyedropper
 features-shared-pdf-editor = Editor de PDF
 features-shared-fingerprinter-blocking = Bloqueo de creadores de huellas (fingerprinters)
 features-shared-translate-the-web = Traducir la web
