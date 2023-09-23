@@ -10,6 +10,10 @@ password-manager-free-password-manager = პაროლის უფასო �
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox }-ის პაროლების მმართველი ინახავს ყველა თქვენს პაროლს ერთ ადგილას, ასე რომ, საიტებზე შესვლა და პაროლების ავტომატურად მოძიება შეგიძლიათ.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } უსაფრთხოდ ინახავს თქვენს სახელებსა და პაროლებს საიტებთან წვდომისთვის, ავტომატურად შეავსებს მათ თქვენს ნაცვლად, მომდევნო შესვლისას და საშუალებას გაძლევთ, მართოთ თქვენი შენახული მონაცემები პაროლების მართვის ჩაშენებული ფუნქციით.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-firefox-account = <a href="{ $fxa }">უფასო { -brand-name-firefox }-ანგარიშით</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
 password-manager-password-autofill-for-easy-logins = პაროლის თვითშევსება, მარტივად შესვლისთვის
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-ს შეუძლია ავტომატურად შეავსოს თქვენი შენახული სახელი და პაროლი. თუ საიტზე ერთზე მეტი შესვლა გაქვთ, შეგიძლიათ უბრალოდ მიუთითოთ სასურველი ანგარიში და ავიღებთ იქიდან.
 # Used as an accessible text alternative for an image

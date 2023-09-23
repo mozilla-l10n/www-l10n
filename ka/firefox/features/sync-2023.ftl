@@ -14,6 +14,8 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox }-ი�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-firefox }-ანგარიში</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = თქვენი ყველა მონაცემი დაშიფრულია ჩვენს სერვერებზე, ასე რომ მათ ვერ ვიხილავთ – მხოლოდ თქვენ გაქვთ წვდომა. ჩვენ არ ვყიდით თქვენს მონაცემებს რეკლამის განმთავსებლებზე, რადგან ეს ეწინააღმდეგება ჩვენს <a href="{ $privacy }">მონაცემების პირადულობის პირობას</a>.
