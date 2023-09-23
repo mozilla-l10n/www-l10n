@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Vytvořte zónu oproštěnou od sledo
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Ve { -brand-name-firefox(case: "loc") } můžete pomocí nastavení <a href="{ $privacy }">soukromí</a> nebo <a href="{ $blocking }">blokování obsahu</a> získat ještě větší kontrolu nad reklamními sledovacími prvky, které vám reklamy předkládají.
 features-adblocker-choose-your-level-of-protection = Vyberte si úroveň ochrany
+features-adblocker-to-start-click-on-the-v2 = Chcete-li začít, klepněte na štít vlevo od adresního řádku na jakékoli webové stránce a vyberte možnost "Nastavení ochrany". Tím se otevře v novém panelu nastavení Soukromí a zabezpečení { -brand-name-firefox(case: "gen") }. Mělo by se zobrazit modré vyskakovací okno s různými možnostmi výběru.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Začněte ve { -brand-name-firefox(case: "loc") } klepnutím na tlačítko nabídky nacházející se v pravém horním rohu obrazovky. Vypadá jako tři čárky naskládané nad sebou. V rozbalovací nabídce klepněte na položku Blokování obsahu. Měli byste spatřit modré vyskakovací okno s různými možnostmi výběru.
 features-adblocker-go-easy-with-standard = Vše povoleno ve standardním režimu
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Zrychlete díky blokátorům reklam
 features-adblocker-in-some-cases-an-ad-blocker = V některých případech může blokátor reklam pomoci váš prohlížeč zrychlit. Když se načítá reklama, může to celou stránku zpomalit. A zároveň bude trvat déle, než najdete to, co hledáte, jestliže jste příliš zaneprázdněni zavíráním zase další reklamy.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Pokud se chcete o blokování reklam dozvědět více, jsou pro { -brand-name-firefox } a další prohlížeče k dispozici stovky rozšíření pro blokování reklam. Pokud si chcete vyzkoušet blokátory reklam, které { -brand-name-firefox } používá, <a href="{ $url }">klepněte zde a stáhněte si prohlížeč</a>, u kterého je soukromí na prvním místě.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Pokud se chcete o blokování reklam dozvědět více, pro { -brand-name-firefox(case: "acc") } a další prohlížeče jsou k dispozici stovky blokátorů reklam ve formě rozšíření. Chcete-li vyzkoušet blokátory reklam, které { -brand-name-firefox } používá, <a href="{ $url }">klikněte sem a stáhněte si</a> prohlížeč, který klade soukromí uživatele na první místo.
-features-adblocker-take-control-of-your-browser = Převezměte kontrolu nad svým prohlížečem.
