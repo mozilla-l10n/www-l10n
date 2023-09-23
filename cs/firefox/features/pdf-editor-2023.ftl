@@ -11,6 +11,11 @@ pdf-editor-pdf-editor = Editor PDF
 pdf-editor-add-text-to-pdfs = Přidání textu do souborů PDF pomocí editoru PDF { -brand-name-firefox(case: "loc") }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Prohlížení a úpravy souborů PDF přímo ve { -brand-name-firefox(case: "loc") }.
+pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Pokud potřebujete do dokumentu PDF něco přidat, můžete to nyní udělat online pomocí { -brand-name-firefox(case: "gen") }. Otevřete PDF ve { -brand-name-firefox(case: "gen") } a klepnutím na tlačítka Text nebo Kreslit v pravém horním rohu proveďte změny v dokumentu. Stáhněte soubor a uložte jej se změnami.
 pdf-editor-fill-in-forms-online-without = Vyplňování formulářů online bez tisku a skenování
+pdf-editor-weve-all-faced-this-you-need-to = Všichni jsme se s tím setkali: potřebujete vyplnit formulář, který je ve formátu PDF, ale nelze jej upravovat. Dříve bylo jedinou možností vytisknout ho na mrtvý papír, doplnit do něj věci inkoustem a pak ho naskenovat zpět do počítače.
+pdf-editor-no-more-now-all-you-need-to-do = Teď už ne! Nyní stačí upravit PDF online pomocí { -brand-name-firefox(case: "gen") }, uložit jej a odeslat e-mailem z počítače.
 pdf-editor-add-text = Přidání textu
 pdf-editor-open-the-pdf-in-firefox-click-text = Otevřete PDF ve { -brand-name-firefox(case: "loc") }. Před výběrem místa v dokumentu, kde chcete přidat text, klepněte na tlačítko Text a vyberte barvu a velikost textu. Je to tak snadné!
+pdf-editor-add-drawings-or-your-signature = Přidejte kresby (nebo svůj podpis)
+pdf-editor-open-the-pdf-in-firefox-click-draw = Otevřete PDF ve { -brand-name-firefox(case: "loc") }. Klepněte na ikonu Kreslení a vyberte barvu, tloušťku a neprůhlednost, a teprve poté můžete do dokumentu kreslit. Pravděpodobně to nebude o nic chaotičtější než váš obvyklý podpis!
