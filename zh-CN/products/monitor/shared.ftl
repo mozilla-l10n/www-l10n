@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = 所有外泄事件
 ## Footer
 
 monitor-shared-footer-about-mozilla = 关于 { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = 服务条款
+monitor-shared-footer-privacy-policy = 隐私政策
+# Outdated string
 monitor-shared-footer-terms-and-privacy = 条款和隐私
 monitor-shared-footer-github = GitHub

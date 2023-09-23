@@ -82,10 +82,17 @@ firefox-privacy-hub-get-pocket = 获取 { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = 您的 { -brand-name-mozilla-account }
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = 您的 { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = 所有通过 { -brand-name-mozilla-account }同步的信息（从浏览历史到网站密码）都经过加密，只有您自己知道的密码才能“破译”。
 # Obsolete string
 firefox-privacy-hub-all-the-information-synced = 所有通过 { -brand-name-firefox-account } 同步的信息（从浏览历史到网站密码）都经过加密，只有您自己知道的密码才能“破译”。
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = 使用 { -brand-name-mozilla-account }，将您的个人数据与书签随身携带。
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = 使用 { -brand-name-firefox-account }，将您的个人数据与书签随身携带。
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = 已有账户？<a { $sign_in } class="{ $class_name }">在此登录</a>或<a href="{ $learn_more }">详细了解</a>关于加入 { -brand-name-mozilla } 的行列。
 # Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
