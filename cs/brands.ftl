@@ -731,6 +731,8 @@
         [ins] Thunderbirdem
     }
     .gender = masculine
+-brand-name-mozilla-account = Účet Mozilla
+-brand-name-mozilla-accounts = Účty Mozilla
 
 ## Mozilla projects (short names)
 
