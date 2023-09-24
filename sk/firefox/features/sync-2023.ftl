@@ -14,6 +14,7 @@ features-sync-with-firefox-you-can-pick-up-where = S { -brand-name-firefox(case:
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Zaregistrujte si bezplatný { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> a budete môcť synchronizovať svoje údaje všade, kde používate svoj prehliadač { -brand-name-firefox }.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Zaregistrujte si bezplatný účet { -brand-name-firefox }</a> a budete môcť synchronizovať svoje údaje všade, kde používate svoj prehliadač { -brand-name-firefox }.
 # Variables:

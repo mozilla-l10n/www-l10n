@@ -6,15 +6,18 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } a majte svoje údaje v bezpečí a synchronizované
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } - majte svoje údaje v bezpečí a synchronizované
 # HTML page description
 firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 firefox-accounts-enter-your-email-address = Začnite zadaním svojej e‑mailovej adresy.
 firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
+# Obsolete string
 firefox-accounts-already = Už máte { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 firefox-accounts-manage = Spravovať účet
-# This is followed by a list of things you can do with your Firefox account
+# Obsolete string
 firefox-accounts-sign-in-to = Prihláste sa do svojho { -brand-name-firefox-account(case: "gen", capitalization: "lower") }:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Spoznajte náš rad produktov zameraných na súkromie.

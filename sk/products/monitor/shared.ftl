@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Všetky úniky údajov
 ## Footer
 
 monitor-shared-footer-about-mozilla = O { -brand-name-mozilla(case: "loc") }
+monitor-shared-footer-terms-of-service = Podmienky používania služby
+monitor-shared-footer-privacy-policy = Zásady ochrany osobných údajov
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Podmienky používania a ochrana osobných údajov
 monitor-shared-footer-github = GitHub
