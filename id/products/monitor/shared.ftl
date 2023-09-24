@@ -15,5 +15,11 @@ monitor-shared-sub-nav-all-breaches = Semua pelanggaran
 ## Footer
 
 monitor-shared-footer-about-mozilla = Tentang { -brand-name-mozilla }
+
+monitor-shared-footer-terms-of-service = Persyaratan Layanan
+monitor-shared-footer-privacy-policy = Kebijakan Privasi
+
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Ketentuan dan Privasi
+
 monitor-shared-footer-github = GitHub
