@@ -27,6 +27,7 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -70,9 +71,11 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
--brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay-premium = Firefox Relay Premium
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
@@ -101,15 +104,18 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla әзірлеушілер желісі
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = Mozilla тіркелгісі
+-brand-name-mozilla-accounts = Mozilla тіркелгілері
 
 ## Mozilla projects (short names)
 
@@ -124,6 +130,7 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 # Outdated string
 -brand-name-web-assembly = Web Assembly
 
@@ -135,13 +142,17 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
@@ -151,6 +162,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -158,6 +170,7 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
 
 ## Google products
