@@ -35,7 +35,7 @@ navigation-take-firefox-and-firefox = Vezmite si { -brand-name-firefox } a { -br
 navigation-get-firefox = Získajte { -brand-name-firefox }
 navigation-get-firefox-focus = Získajte { -brand-name-firefox-focus }
 navigation-android-extensions = Rozšírenia pre { -brand-name-android }
-navigation-your-firefox-account = Váš { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
+navigation-your-firefox-account = Váš { -brand-name-firefox-account(capitalization: "lower") }
 navigation-make-the-most-of-your = Vyťažte zo svojho { -brand-name-firefox(case: "gen") } čo najviac - na každom zariadení.
 # Outdated string
 navigation-learn-how-to-customize = Upravte si svoj { -brand-name-firefox } podľa seba.

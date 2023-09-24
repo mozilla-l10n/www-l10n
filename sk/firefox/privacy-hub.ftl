@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Zoznámte sa so štyrmi najbe
 firefox-privacy-hub-always-in-your-control = Vždy pod kontrolou
 firefox-privacy-hub-want-to-customize-what = Chcete prispôsobiť, čo sa blokuje? Vaše nastavenia sú dostupné len jedno kliknutie.
 firefox-privacy-hub-protection-beyond-tracking = Ochrana pred sledovaním
+firefox-privacy-hub-if-you-have-a-mozilla-account = Ak máte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }, môžete tiež vidieť, ako vám pomáhame chrániť vaše osobné informácie a heslá.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Ak máte { -brand-name-firefox-account(case: "acc", capitalization: "lower") }, môžete tiež vidieť, ako vám pomáhame chrániť vaše osobné informácie a heslá.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Odoslať súbor
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } odporúča vysokokvalitné články spravované ľuďmi bez zhromažďovania vašej histórie prehliadania alebo zdieľania vašich osobných údajov s inzerentmi.
 firefox-privacy-hub-get-pocket = Získajte { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Váš { -brand-name-mozilla-account(capitalization: "lower") }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Váš { -brand-name-firefox-account(capitalization: "lower") }
+firefox-privacy-hub-all-the-information-synced-v2 = Všetky informácie synchronizované prostredníctvom vášho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") } – od histórie prehliadania po heslá – sú šifrované. A vaše heslo k účtu je jediným kľúčom.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Všetky informácie synchronizované prostredníctvom vášho { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – od histórie prehliadania po heslá – sú šifrované. A vaše heslo k účtu je jediným kľúčom.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Vezmite si svoje súkromie a záložky všade so sebou vďaka { -brand-name-mozilla-account(case: "dat", capitalization: "lower") }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vezmite si svoje súkromie a záložky všade so sebou s { -brand-name-firefox-account(case: "ins", capitalization: "lower") }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Už máte účet? <a { $sign_in } class="{ $class_name }">Prihláste sa</a> alebo <a href="{ $learn_more }">získajte viac informácií</a> o pripojení k { -brand-name-mozilla(case: "dat") }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

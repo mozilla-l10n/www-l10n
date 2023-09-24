@@ -16,7 +16,10 @@ firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
 # Obsolete string
 firefox-accounts-already = Už máte { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulujeme!
+mozilla-accounts-already = Už máte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 firefox-accounts-manage = Spravovať účet
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Prihláste sa do svojho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }:
 # Obsolete string
 firefox-accounts-sign-in-to = Prihláste sa do svojho { -brand-name-firefox-account(case: "gen", capitalization: "lower") }:
 # Obsolete string
