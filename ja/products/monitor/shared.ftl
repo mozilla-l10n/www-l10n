@@ -15,5 +15,11 @@ monitor-shared-sub-nav-all-breaches = すべての侵害
 ## Footer
 
 monitor-shared-footer-about-mozilla = { -brand-name-mozilla } について
+
+monitor-shared-footer-terms-of-service = サービス規約
+monitor-shared-footer-privacy-policy = プライバシーポリシー
+
+# Outdated string
 monitor-shared-footer-terms-and-privacy = 利用規約とプライバシーポリシー
+
 monitor-shared-footer-github = GitHub
