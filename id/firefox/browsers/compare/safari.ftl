@@ -45,6 +45,11 @@ compare-safari-like-safari-firefox-encourages = Seperti { -brand-name-safari }, 
 
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Selain itu, saat Anda mendaftar { -brand-name-mozilla-account }, Anda dapat mengakses layanan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> yang terintegrasi langsung pada peramban. Tombol { -brand-name-pocket } untuk { -brand-name-firefox } memungkinkan Anda menyimpan laman web dan video ke { -brand-name-pocket } hanya dengan sekali klik, jadi Anda dapat membacanya dengan jelas, bebas dari gangguan kapan pun dan di mana pun Anda mau — bahkan saat luring.
+
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Selain itu, saat Anda mendaftar akun { -brand-name-firefox }, Anda dapat mengakses layanan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> yang terintegrasi langsung pada peramban. Tombol { -brand-name-pocket } untuk { -brand-name-firefox } memungkinkan Anda menyimpan laman web dan video ke { -brand-name-pocket } hanya dengan sekali klik, jadi Anda dapat membacanya dengan jelas, bebas dari gangguan kapan pun dan di mana pun Anda mau — bahkan saat luring.
 
 # Obsolete string
@@ -70,6 +75,12 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Tangkapan layar</a
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } dan { -brand-name-safari } memberikan pengalaman yang lancar saat berpindah dari desktop ke penelusuran seluler atau sebaliknya. Untuk { -brand-name-safari }, salah satu kekuatan utamanya adalah fitur kontinuitasnya. Fitur tersebut menyinkronkan markah, tab, riwayat, dan lainnya ke iCloud sehingga tersedia di semua perangkat Anda. Artinya, Anda dapat membuka tab di { -brand-name-iphone } dan memunculkannya di laptop { -brand-name-mac } hanya dengan sekali klik.
 compare-safari-both-browsers-have-a-lot = Kedua peramban memiliki banyak fitur yang bersesuaian, serta beberapa fungsi unik. Sebagai tambahan, jika Anda mengambil banyak tangkapan layar, Anda akan menyesal karena Anda pernah hidup tanpa fitur praktis yang dihadirkan langsung di { -brand-name-firefox } ini. Tetapi jika Anda hanya mencari peramban pribadi yang cepat untuk berselancar dan berbelanja, maka Anda mungkin ingin mencoba { -brand-name-firefox } — terutama jika Anda secara eksklusif menggunakan { -brand-name-safari } yang telah dipasang sebelumnya sebagai peramban bawaan di komputer Anda. Pada akhirnya, Anda akan menemukan mana yang lebih sesuai dengan kebutuhan Anda.
 
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } juga menawarkan fitur sinkronisasi serupa ketika Anda mendaftar <a { $attrs }>{ -brand-name-mozilla-account }</a> gratis yang memungkinkan pengguna untuk menyinkronkan markah, riwayat penelusuran, preferensi, kata sandi, formulir yang diisi dan pengaya dengan mudah, serta 25 tab terakhir yang dibuka di beberapa komputer. Yang membedakan { -brand-name-firefox } dari { -brand-name-safari } adalah ketersediaannya di desktop atau platform seluler apa pun, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } atau { -brand-name-mac }, sehingga lebih portabel untuk semua perangkat yang Anda miliki.
+
+
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } juga menawarkan fitur sinkronisasi serupa ketika Anda mendaftar <a { $attrs }>{ -brand-name-firefox-account }</a> gratis yang memungkinkan pengguna untuk menyinkronkan markah, riwayat penelusuran, preferensi, kata sandi, formulir yang diisi dan pengaya dengan mudah, serta 25 tab terakhir yang dibuka di beberapa komputer. Yang membedakan { -brand-name-firefox } dari { -brand-name-safari } adalah ketersediaannya di desktop atau platform seluler apa pun, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } atau { -brand-name-mac }, sehingga lebih portabel untuk semua perangkat yang Anda miliki.
