@@ -17,5 +17,8 @@ features-private-firefox-also-protects-your = { -brand-name-firefox } protegge l
 features-private-sidenote-we-are-not-big-tech = <em>Nota a margine:</em> non siamo la tipica azienda tecnologica. Facciamo le cose in modo diverso. Essere indipendenti (senza azionisti) ci permette di mettere le persone al primo posto, prima del profitto. A differenza di altre società, non vendiamo l’accesso ai tuoi dati.
 features-private-what-information-does-firefox = Quali informazioni vengono raccolte da { -brand-name-firefox }?
 # Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (l’organizzazione che realizza { -brand-name-firefox }) prende la privacy molto seriamente. <strong>Molto seriamente</strong>. Infatti, ogni prodotto { -brand-name-firefox } che realizziamo rispetta il nostro <a href="{ $url }">Impegno per i dati personali</a>: raccogli meno dati, mantienili al sicuro, nessun segreto.
+# Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
 features-private-read-firefoxs-privacy-notice = Leggi l’<a href="{ $url }">informativa sulla privacy di { -brand-name-firefox }</a> per ulteriori informazioni. Seriamente, dacci un’occhiata. È scritta in dimensioni normali e quant’altro.
