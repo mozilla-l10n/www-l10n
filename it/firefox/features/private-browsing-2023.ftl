@@ -12,6 +12,7 @@ features-private-browsing-firefox-private-browsing-mode = Modalità di navigazio
 features-private-browsing-firefox-protects = { -brand-name-firefox } protegge la tua privacy online e blocca tutti gli elementi traccianti che cercano di pedinarti sul Web.
 features-private-browsing-if-you-share-a-computer = Se condividi un computer con altre persone o desideri limitare la quantità di dati che i siti web possono raccogliere su di te, puoi utilizzare la modalità di navigazione anonima di { -brand-name-firefox }. La navigazione anonima cancella le tracce digitali che ti lasci alle spalle quando navighi online: immaginale come impronte in un bosco.
 features-private-browsing-what-does-private-browsing-do = A che cosa serve la navigazione anonima?
+features-private-browsing-private-browsing-mode-opens = La modalità di navigazione anonima si apre in una nuova finestra del browser. Quando la si chiude, la cronologia di navigazione per quella finestra ed eventuali cookie traccianti visitati vengono cancellati. <strong>Suggerimento di { -brand-name-firefox }:</strong> non dimenticare di chiudere la finestra di navigazione anonima quando hai finito!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Una finestra del browser { -brand-name-firefox } in modalità di navigazione anonima.
 features-private-browsing-what-private-browsing-doesnt-do = Che cosa non fa la navigazione anonima
