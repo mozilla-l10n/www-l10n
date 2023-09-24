@@ -55,6 +55,9 @@ compare-brave-the-ability-to-sync-your-passwords = パスワード、拡張機�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = また、{ -brand-name-firefox } では、無料で <a { $accounts }>{ -brand-name-mozilla-account }</a> に登録できます。{ -brand-name-mozilla-account } を作ることで、デバイス間で同期できるようになるほか、他にもさまざまなメリットが付加されます。例えば、<a { $monitor }>{ -brand-name-firefox-monitor }</a> は、メールアドレスを監視して、ユーザーの情報が既知の<a { $breaches }>データ侵害</a>に巻き込まれた場合に通知します。
+
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = また、{ -brand-name-firefox } では、無料で <a { $accounts }>{ -brand-name-firefox-account }</a> に登録できます。{ -brand-name-firefox } アカウントを作ることで、デバイス間で同期できるようになるほか、他にもさまざまなメリットが付加されます。例えば、<a { $monitor }>{ -brand-name-firefox-monitor }</a> は、メールアドレスを監視して、ユーザーの情報が既知の<a { $breaches }>データ侵害</a>に巻き込まれた場合に通知します。
 
 # "Basic Attention Token" is a brand name.
