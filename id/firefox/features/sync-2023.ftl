@@ -13,7 +13,11 @@ features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox 
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar { -brand-name-firefox-account } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
+
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Daftar { -brand-name-mozilla-account } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
+
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar akun { -brand-name-firefox } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
