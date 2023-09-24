@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Tất cả rò rỉ
 ## Footer
 
 monitor-shared-footer-about-mozilla = Giới thiệu về { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = Điều khoản dịch vụ
+monitor-shared-footer-privacy-policy = Chính sách riêng tư
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Điều khoản & quyền riêng tư
 monitor-shared-footer-github = GitHub

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } khác biệt v
 compare-brave-the-internet-as-a-whole-is = Internet nói chung được trả phần lớn bằng quảng cáo hiển thị, giúp giữ cho nội dung thực tế bạn muốn xem miễn phí. { -brand-name-brave } đã cố gắng nâng cấp mô hình này bằng cách khuyến khích người dùng của mình chọn tham gia vào hệ thống phần thưởng riêng của { -brand-name-brave }, trong thực tế, là nền tảng quảng cáo của riêng họ. Khi người dùng đã chọn tham gia, { -brand-name-brave } sẽ hiển thị những gì họ gọi là “quảng cáo tôn trọng quyền riêng tư” mà bạn có thể xem và kiếm được những gì họ gọi là Basic Attention Token a.k.a. a BAT. Từ thời điểm này, người dùng { -brand-name-brave } có thể chọn sử dụng BAT của mình để hỗ trợ các trang web hoặc cá nhân đóng góp mà họ yêu thích, những người này có thể chuyển đổi BAT thành tiền tệ thực tế.
 compare-brave-whether-this-sounds-complicated = Cho dù điều này nghe có vẻ phức tạp hay giống như một ý tưởng tuyệt vời, có lẽ phụ thuộc vào mức độ khinh miệt của bạn đối với quảng cáo hiển thị trên Internet. Hầu hết người dùng Internet hiểu rằng nội dung tốt sẽ tốn tiền, và không sao với thực tế là tiền đến từ quảng cáo.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Ở phía bên kia của đồng tiền, với trình duyệt { -brand-name-firefox }, chúng tôi muốn giữ mọi thứ đơn giản. { -brand-name-firefox } chặn nhiều trình theo dõi, tiền điện tử và dấu vân tay của bên thứ ba theo dõi bạn theo mặc định. Tuy nhiên, { -brand-name-firefox }, bên ngoài chế độ duyệt web riêng tư, chọn không chặn quảng cáo hiển thị xuất hiện. Đó là, trừ khi bạn cài đặt <a { $attrs }>một trong những tiện ích mở rộng được thiết kế riêng cho mục đích đó</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Khả năng đồng bộ hóa
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Trình duyệt { -brand-name-firefox } cũng giúp người dùng khả năng đăng ký một <a { $accounts }>{ -brand-name-mozilla-account } miễn phí</a>. Có một { -brand-name-mozilla-account } là chìa khóa để mở khóa đồng bộ hóa trên các thiết bị, ngoài ra bạn còn nhận được lợi ích bổ sung của sản phẩm như <a { $monitor }>{ -brand-name-firefox-monitor }</a> theo dõi địa chỉ email của bạn và thông báo cho bạn nếu bất kỳ thông tin nào của bạn có liên quan đến bất kỳ <a { $breaches }>rò rỉ dữ liệu</a> nào.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Trình duyệt { -brand-name-firefox } cũng cung cấp cho người dùng khả năng đăng ký <a { $accounts }>{ -brand-name-firefox-account }</a> miễn phsi. Có tài khoản { -brand-name-firefox } là chìa khóa để mở khóa đồng bộ hóa trên các thiết bị, ngoài ra bạn còn nhận được lợi ích bổ sung của các sản phẩm như <a { $monitor }>{ -brand-name-firefox-monitor }</a> theo dõi địa chỉ email của bạn và thông báo cho bạn nếu bất kỳ thông tin nào của bạn có liên quan đến bất kỳ <a { $breaches }>rò rỉ dữ liệu</a> đã biết.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } gần đây cũng đã có khả năng đồng bộ hóa dữ liệu trên hầu hết các hệ điều hành và thiết bị phổ biến cũng như khả năng đồng bộ hóa Basic Attention Tokens của bạn.

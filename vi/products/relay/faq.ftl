@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Những cách sử dụng được { -bra
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } có cùng <a href="{ $url }" { $attrs }>điều kiện sử dụng dịch vụ như tất cả sản phẩm của { -brand-name-mozilla }</a>. Chúng tôi có chính sách không khoan nhượng khi sử dụng { -brand-name-relay } cho các mục đích xấu như thư rác, dẫn đến việc chấm dứt tài khoản của người dùng. Chúng tôi thực hiện các biện pháp để ngăn người dùng vi phạm các điều kiện của chúng tôi bằng cách:
+faq-question-acceptable-use-answer-measure-account-v2 = Yêu cầu một { -brand-name-mozilla-account } với một địa chỉ email đã được xác minh
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Yêu cầu một { -brand-name-firefox-account } với một địa chỉ email đã được xác minh
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Yêu cầu thanh toán cho người dùng để tạo nhiều hơn năm mặt nạ
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Tỷ lệ giới hạn số lượng mặt nạ có thể được tạo trong một ngày

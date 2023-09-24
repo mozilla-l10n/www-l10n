@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Gặp bốn trong số nhữn
 firefox-privacy-hub-always-in-your-control = Luôn trong tầm kiểm soát của bạn
 firefox-privacy-hub-want-to-customize-what = Bạn muốn tùy chỉnh những gì bị chặn? Cài đặt của bạn chỉ là một cú nhấn chuột.
 firefox-privacy-hub-protection-beyond-tracking = Bảo vệ ngoài theo dõi
+firefox-privacy-hub-if-you-have-a-mozilla-account = Nếu bạn có một { -brand-name-mozilla-account }, bạn cũng có thể xem cách chúng tôi giúp bạn bảo vệ thông tin cá nhân và mật khẩu của mình.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Nếu bạn có { -brand-name-firefox-account }, bạn cũng có thể thấy cách chúng tôi giúp bạn bảo vệ thông tin cá nhân và mật khẩu của mình.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Gửi một tập tin
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } đề xuất các bài viết chất lượng cao, được quản lý bởi con người mà không thu thập lịch sử duyệt web của bạn hoặc chia sẻ thông tin cá nhân của bạn với các nhà quảng cáo.
 firefox-privacy-hub-get-pocket = Nhận { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account } của bạn
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } của bạn
+firefox-privacy-hub-all-the-information-synced-v2 = Tất cả thông tin được đồng bộ hóa thông qua { -brand-name-mozilla-account } của bạn — từ lịch sử trình duyệt đến mật khẩu — đều được mã hoá. Và mật khẩu tài khoản của bạn là khóa duy nhất.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Tất cả thông tin được đồng bộ hóa thông qua { -brand-name-firefox-account } — từ lịch sử trình duyệt đến mật khẩu — được mã hóa. Và mật khẩu tài khoản của bạn là chìa khóa duy nhất.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Mang lại sự riêng tư và dấu trang của bạn ở mọi nơi bằng { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Mang theo sự riêng tư và dấu trang của bạn ở mọi nơi với { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Đã có tài khoản? <a { $sign_in } class="{ $class_name }">Đăng nhập</a> hoặc <a href="{ $learn_more }">tìm hiểu thêm</a> về tham gia vào { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

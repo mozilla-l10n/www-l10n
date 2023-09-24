@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = Ngoài bộ tính năng thông thư�
 compare-safari-like-safari-firefox-encourages = Giống như { -brand-name-safari }, { -brand-name-firefox } khuyến khích cộng đồng nhà phát triển nhiệt tình của mình tạo <a { $attrs }>tiện ích mở rộng</a> cho trình duyệt. Và vì nền tảng của chúng tôi là nguồn mở, nên có một lựa chọn rộng lớn bổ sung vô số chức năng.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Ngoài ra, khi bạn đăng ký một{ -brand-name-mozilla-account }, bạn có quyền truy cập vào các dịch vụ độc đáo như <a { $pocket }>{ -brand-name-pocket }</a> tích hợp trực tiếp vào trình duyệt. Nút { -brand-name-pocket } dành cho { -brand-name-firefox } cho phép bạn lưu các trang web và video vào { -brand-name-pocket } chỉ bằng một cú nhấp chuột, vì vậy bạn có thể đọc phiên bản rõ ràng, không bị phân tâm bất cứ khi nào và bất cứ nơi nào bạn muốn — kể cả ngoại tuyến.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Ngoài ra, khi bạn đăng ký tài khoản { -brand-name-firefox }, bạn có quyền truy cập vào các dịch vụ duy nhất như <a { $pocket }>{ -brand-name-pocket }</a> tích hợp trực tiếp vào trình duyệt . Nút { -brand-name-pocket } cho { -brand-name-firefox } cho phép bạn lưu các trang web và video vào { -brand-name-pocket } chỉ bằng một cú nhấp chuột, vì vậy bạn có thể đọc một cách rõ ràng, không bị phân tâm phiên bản bất cứ khi nào và bất cứ nơi nào bạn muốn — ngay cả khi ngoại tuyến.
 # Obsolete string
 # Variables:
@@ -56,6 +60,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> l�
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } và { -brand-name-safari } đều cung cấp trải nghiệm liền mạch khi chuyển từ máy tính để bàn sang trình duyệt di động hoặc ngược lại. Với { -brand-name-safari }, một trong những thế mạnh chính của nó là các tính liên tục của nó. Nó đồng bộ hóa dấu trang, thẻ, lịch sử của bạn và hơn thế nữa với iCloud để chúng có sẵn trên tất cả các thiết bị của bạn. Điều đó có nghĩa là bạn có thể mở một thẻ trên { -brand-name-iphone } và nó cũng xuất hiện trên { -brand-name-mac } của bạn chỉ với một cú nhấp chuột.
 compare-safari-both-browsers-have-a-lot = Cả hai trình duyệt có rất nhiều tính năng chéo, cũng như một số chức năng độc đáo. Điều đáng nói ở đây, nếu bạn chụp nhiều ảnh chụp màn hình, bạn sẽ tự hỏi làm thế nào bạn sống mà không có tính năng tiện dụng này mà được tích hợp trong { -brand-name-firefox }. Nhưng nếu bạn chỉ tìm kiếm một trình duyệt riêng tư, nhanh để lướt web và mua sắm, thì bạn có thể thử một lần với { -brand-name-firefox } — đặc biệt là nếu bạn đã sử dụng { -brand-name-safari } độc quyền bởi vì nó đã được tích hợp sẵn như trình duyệt mặc định trên máy tính của bạn. Cuối cùng, bạn sẽ khám phá ra cái nào phù hợp hơn với nhu cầu của bạn.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } cũng cung cấp tính năng đồng bộ tương tự khi bạn đăng ký <a { $attrs }>{ -brand-name-mozilla-account }</a> miễn phí cho phép người dùng dễ dàng đồng bộ hóa dấu trang, lịch sử duyệt web, tùy chọn, mật khẩu, biểu mẫu đã điền, tiện ích mở rộng và 25 thẻ đã mở gần đây nhất trên nhiều máy tính. Điều làm cho { -brand-name-firefox } khác biệt với { -brand-name-safari } là nó có sẵn trên mọi nền tảng máy tính để bàn hoặc thiết bị di động, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } hoặc { -brand-name-mac }, tăng cường tính di động của nó trên bất kỳ thiết bị nào bạn có thể sở hữu.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } cũng cung cấp một tính năng đồng bộ tương tự khi bạn đăng ký <a { $attrs }>{ -brand-name-firefox-account }</a> miễn phí cho phép người dùng dễ dàng đồng bộ hóa dấu trang, lịch sử duyệt web, tùy chọn, mật khẩu, biểu mẫu đã điền, tiện ích và 25 thẻ được mở gần đây nhất trên nhiều máy tính. Điều khiến { -brand-name-firefox } khác biệt so với { -brand-name-safari } là nó có sẵn trên mọi nền tảng máy tính để bàn hoặc thiết bị di động, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } hoặc { -brand-name-mac }, tăng tính di động của nó trên bất kỳ thiết bị nào bạn có thể sở hữu.
