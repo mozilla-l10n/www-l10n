@@ -55,6 +55,9 @@ compare-brave-the-ability-to-sync-your-passwords = Kemampuan menyinkronkan sandi
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Peramban { -brand-name-firefox } juga membolehkan pengguna untuk mendaftar <a { $accounts }>{ -brand-name-mozilla-account }</a> secara gratis. Memiliki { -brand-name-mozilla-account } merupakan kunci untuk membuka penyinkronan di seluruh perangkat, kemudian Anda juga mendapatkan banyak manfaat dari produk seperti <a { $monitor }>{ -brand-name-firefox-monitor }</a> yang memonitor alamat surel dan memperingatkan Anda jika ada informasi apa pun dari Anda diketahui mengalami <a { $breaches }>pembobolan data</a>.
+
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Peramban { -brand-name-firefox } juga membolehkan pengguna untuk mendaftar <a { $accounts }>{ -brand-name-firefox-account }</a> secara gratis. Memiliki akun { -brand-name-firefox } merupakan kunci untuk membuka penyinkronan di seluruh perangkat, kemudian Anda juga mendapatkan banyak manfaat dari produk seperti <a { $monitor }>{ -brand-name-firefox-monitor }</a> yang memonitor alamat surel dan memperingatkan Anda jika ada informasi apa pun dari Anda diketahui mengalami <a { $breaches }>pembobolan data</a>.
 
 # "Basic Attention Token" is a brand name.
