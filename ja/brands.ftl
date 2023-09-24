@@ -112,6 +112,8 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = Mozilla アカウント
+-brand-name-mozilla-accounts = Mozilla アカウント
 
 ## Mozilla projects (short names)
 
