@@ -148,6 +148,42 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] λογαριασμού Mozilla
+               *[upper] Λογαριασμού Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] λογαριασμό Mozilla
+               *[upper] Λογαριασμό Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] λογαριασμός Mozilla
+               *[upper] Λογαριασμός Mozilla
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] λογαριασμών Mozilla
+               *[upper] Λογαριασμών Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] λογαριασμούς Mozilla
+               *[upper] Λογαριασμούς Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] λογαριασμοί Mozilla
+               *[upper] Λογαριασμοί Mozilla
+            }
+    }
 
 ## Mozilla projects (short names)
 

@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – Προστασία και συγχρονισμός δεδομένων
 # HTML page description
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Έχετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
+# Obsolete string
 firefox-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
+mozilla-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
 firefox-accounts-manage = Διαχείριση του λογαριασμού σας
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Συνδεθείτε στον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας για:
+# Obsolete string
 firefox-accounts-sign-in-to = Συνδεθείτε στον { -brand-name-firefox-account(case: "acc", capitalization: "lower") } σας για:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Γνωρίστε την οικογένεια των ιδιωτικών προϊόντων μας.

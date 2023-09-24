@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = Χαρακτηριστικά του { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = Το { -brand-name-firefox } είναι ένα γρήγορο, ελαφρύ και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
 features-index-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο πρόγραμμα περιήγησης;
