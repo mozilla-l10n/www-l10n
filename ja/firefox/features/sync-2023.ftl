@@ -13,7 +13,11 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } で�
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">無料の { -brand-name-firefox-account } に登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。
+
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">無料の { -brand-name-mozilla-account } に登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。
+
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">無料の { -brand-name-firefox } アカウントに登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。
 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
