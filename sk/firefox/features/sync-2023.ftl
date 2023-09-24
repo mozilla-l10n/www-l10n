@@ -14,6 +14,8 @@ features-sync-with-firefox-you-can-pick-up-where = S { -brand-name-firefox(case:
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Zaregistrujte si bezplatný účet { -brand-name-firefox }</a> a budete môcť synchronizovať svoje údaje všade, kde používate svoj prehliadač { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Všetky vaše údaje sú na našich serveroch šifrované, takže ich nemôžeme čítať – prístup k nim máte iba vy. Vaše informácie nepredávame inzerentom, pretože by to bolo v rozpore s naším <a href="{ $privacy }">prísľubom ochrany osobných údajov</a>.

@@ -467,6 +467,72 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účte Mozilla
+               *[upper] Účte Mozilla
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účtom Mozilla
+               *[upper] Účtom Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtov Mozilla
+               *[upper] Účtov Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtom Mozilla
+               *[upper] Účtom Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účtoch Mozilla
+               *[upper] Účtoch Mozilla
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účtami Mozilla
+               *[upper] Účtami Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
+            }
+    }
 
 ## Mozilla projects (short names)
 
