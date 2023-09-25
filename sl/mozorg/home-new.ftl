@@ -28,5 +28,6 @@ home-join-the-fight = Pridružite se boju za zdrav internet
 home-your-voice-your-code = Vaš glas. Vaša koda. Vaše zamisli. K { -brand-name-mozilla(sklon: "dajalnik") } lahko prispevate dobesedno na tisoče načinov.
 home-volunteer-with-mozilla = Postanite prostovoljec { -brand-name-mozilla(sklon: "rodilnik") }
 home-that-one-time = Nekega dne smo objavili svojo kodo …
+home-the-mozilla-project = Projekt { -brand-name-mozilla } se je začel v San Franciscu leta 1998, ko je brskalnik { -brand-name-netscape } presenetil z odločitvijo, da svojo programsko kodo izroči javnosti v nadgradnjo in izboljšave. V tistem času je imelo nad uporabniki interneta tako rekoč monopol eno podjetje.
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
 home-get-good-news = Mozilline (dobre) novice
