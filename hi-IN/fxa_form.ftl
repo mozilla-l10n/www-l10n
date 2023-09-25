@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# Obsolete string
 fxa-form-enter-your-email = { -brand-name-firefox-accounts } तक पहुंचने के लिए <strong>अपना ईमेल दर्ज करें</strong>।
+
+fxa-form-enter-your-email-v2 = { -brand-name-mozilla-account } बनाने के लिए <strong>अपना ईमेल पता डालें</strong>।
 
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
