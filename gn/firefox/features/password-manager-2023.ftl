@@ -9,4 +9,5 @@
 password-manager-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
 password-manager-password-autofill-for-easy-logins = Ñe’ẽñemi myanyhẽ jehegui tembiapo ñepyrũrã
 password-manager-import-passwords = Ñe'ẽñemi jegueru
+password-manager-no-more-reusing-your-passwords = Anive eiporujo’a ñe’ẽñeminguéra
 password-manager-password-security-alerts = Kyhyjerã ñe’ẽñemi rekorosãrã
