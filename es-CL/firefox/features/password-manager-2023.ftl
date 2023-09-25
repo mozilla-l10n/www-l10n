@@ -9,6 +9,7 @@
 password-manager-free-password-manager = Administrador de contraseñas gratuito
 # HTML page description
 password-manager-firefox-password-manager-saves-all = El administrador de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas en un solo lugar para que puedas conectarte automáticamente a sitios, o recuperar las contraseñas guardadas.
+password-manager-firefox-securely-stores-your = { -brand-name-firefox } almacena de forma segura tus nombres de usuario y contraseñas para acceder a sitios web, los completa automáticamente la próxima vez que visites un sitio web y te permite administrar tus credenciales almacenadas con su función de administración de contraseñas incorporada.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Con una <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a> puedes sincronizar de forma segura tus contraseñas en todos tus dispositivos.
@@ -31,3 +32,9 @@ password-manager-have-firefox-create-a-strong-unique = Haz que { -brand-name-fir
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Imagen del formulario de registro de un sitio web con { -brand-name-firefox } que sugiere una contraseña segura que se almacenará automáticamente para uso futuro.
 password-manager-password-security-alerts = Alertas de seguridad de contraseña
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>te avisa si una contraseña ha quedado expuesta</a> en una filtración de datos para que puedas cambiarla antes de que los hackers tengan la oportunidad de hacer algo como alquilar un Lambo con tu tarjeta de crédito.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Imagen del administrador de contraseñas de { -brand-name-firefox } que muestra un mensaje de alerta que dice “Esta contraseña se ha utilizado en otra cuenta que probablemente se vio involucrada en una filtración de datos. Reutilizar credenciales pone en riesgo todas tus cuentas. Cambia esta contraseña”.

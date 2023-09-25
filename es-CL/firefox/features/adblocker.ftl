@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Crea una zona libre de rastreadores c
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox }, puedes usar los ajustes de <a href="{ $privacy }">Privacidad</a> o de <a href="{ $blocking }">Bloqueo de contenido</a> para tener aún más control sobre los rastreadores de publicidad que te entregan los anuncios.
 features-adblocker-choose-your-level-of-protection = Elige tu nivel de protección
+features-adblocker-to-start-click-on-the-v2 = Para comenzar, haz clic en el escudo a la izquierda de la barra de direcciones en cualquier página web y selecciona "Ajustes de protección". Esto abrirá el panel de Ajustes de privacidad y seguridad de { -brand-name-firefox } en una nueva pestaña. Deberías ver una ventana emergente azul con diferentes selecciones.
 # Obsolete string
 features-adblocker-to-start-click-on-the = Para empezar, haz clic en el menú de { -brand-name-firefox } en la esquina superior derecha de tu pantalla. Luce como tres lineas apiladas una sobre la otra. En el menú desplegable, haz clic en Bloqueo de contenido. Debieras ver una ventana emergente azul con diferentes selecciones.
 features-adblocker-go-easy-with-standard = Hazlo fácil con el modo Estándar
