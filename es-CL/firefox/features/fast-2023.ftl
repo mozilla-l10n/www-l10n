@@ -9,6 +9,8 @@ features-fast-is-firefox-the-fastest-browser = ¿Es { -brand-name-firefox } el n
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } usa menos memoria que Chrome, por lo que tus otros programas pueden seguir funcionando a toda velocidad.
 features-fast-browse-faster = Navega más rápido
+# The odd punctuation here is meant to represent how a computer can run slow.
+features-fast-every-computer-program-you-run = Cada programa que ejecutes en tu computador usa una cantidad de memoria. Si a tu computador le queda poca memoria, esto puede causar… una…… lentitud………… significativa. { -brand-name-firefox } busca el balance – usar suficiente memoria para permitirte navegar sin contratiempos y dejar harta memoria libre mantiene tu computador ágil.
 features-fast-multi-tasking-with-multiple-tabs = Multitarea con múltiples pestañas
 features-fast-firefox-is-a-multi-process-browser = { -brand-name-firefox } es un navegador multiproceso, lo que significa que tus pestañas se mantienen rápidas y no tardarán una eternidad en recargarse. Con un 86% menos de tiempo de retraso, puedes cambiar rápidamente entre pestañas incluso cuando tu pequeña voz interior te dice que tienes demasiadas pestañas abiertas.
 features-fast-faster-gaming = Juegos más rápidos
