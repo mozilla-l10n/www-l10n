@@ -29,5 +29,11 @@ home-your-voice-your-code = Vaš glas. Vaša koda. Vaše zamisli. K { -brand-nam
 home-volunteer-with-mozilla = Postanite prostovoljec { -brand-name-mozilla(sklon: "rodilnik") }
 home-that-one-time = Nekega dne smo objavili svojo kodo …
 home-the-mozilla-project = Projekt { -brand-name-mozilla } se je začel v San Franciscu leta 1998, ko je brskalnik { -brand-name-netscape } presenetil z odločitvijo, da svojo programsko kodo izroči javnosti v nadgradnjo in izboljšave. V tistem času je imelo nad uporabniki interneta tako rekoč monopol eno podjetje.
+home-eventually-the-open = Sčasoma se je iz odprtokodnega projekta { -brand-name-mozilla } rodila izjemno priljubljena prva različica { -brand-name-firefox(sklon: "rodilnik") }.
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
 home-get-good-news = Mozilline (dobre) novice
+home-get-news-and-tips = Naročite se na novice in nasvete { -brand-name-mozilla(sklon: "rodilnik") }, ki vam bodo pomagali ostati varni in obveščeni o vsem blagodejnem dogajanju na spletu.
+# VPN Feature
+home-featured-product = Priporočamo
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Zameglite svojo lokacijo in dejavnost z <span>{ -brand-name-mozilla-vpn }</span>
