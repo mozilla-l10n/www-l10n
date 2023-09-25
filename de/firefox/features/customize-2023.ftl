@@ -24,6 +24,9 @@ features-customize-image-of-the-default-themes = Bild der Standardthemen, die in
 #   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
 #   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
 #   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
+features-customize-you-can-find-more-free-custom-v2 = Weitere kostenlose Themen finden Sie auf <a { $amo }>addons.mozilla.org</a>. Durchsuchen Sie die <a { $top }>bestbewerteten</a>, <a { $trending }>trendigen</a> und <a { $recommended }>meist empfohlenen</a> Themen. Oder durchsuchen Sie die Themen nach Kategorie, darunter <a { $music }>Musik</a>, <a { $seasonal }>saisonal</a>, <a { $sports }>Sport</a> und <a { $nature }>Natur</a>. Passen Sie Ihr Erlebnis Ihren Vorlieben an. Niedliche Tiere, böse Roboter, schöne Landschaften – es gibt Tausende Möglichkeiten, um { -brand-name-firefox } nach Ihren Vorstellungen zu gestalten.
+
+# Obsolete string, contains an error
 features-customize-you-can-find-more-free-custom = Weitere kostenlose Themen finden Sie auf <a { $amo }>addons.mozilla.org</a>.Durchsuchen Sie die &lt;a { $top }&quot;&gt;bestbewerteten</a>, <a { $trending }>trendigen</a> und <a { $recommended }>meist empfohlenen</a> Themen.Oder durchsuchen Sie die Themen nach Kategorie, darunter <a { $music }>Musik</a>, <a { $seasonal }>saisonal</a>, <a { $sports }>Sport</a> und <a { $nature }>Natur</a>.Passen Sie Ihr Erlebnis Ihrem Geschmack an.Niedliche Tiere, böse Roboter, schöne Landschaften – es gibt Tausende Möglichkeiten, um { -brand-name-firefox } nach Ihren Vorstellungen zu gestalten.
 
 # Used as accessible alternative text for an image
