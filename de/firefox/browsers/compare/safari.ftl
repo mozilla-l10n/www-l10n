@@ -45,6 +45,11 @@ compare-safari-like-safari-firefox-encourages = Wie { -brand-name-safari } ermut
 
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Wenn Sie sich für ein { -brand-name-mozilla-account } entscheiden, erhalten Sie Zugriff auf einzigartige Dienste wie <a { $pocket }>{ -brand-name-pocket },</a> die direkt in den Browser integriert werden. Über den { -brand-name-pocket } for { -brand-name-firefox }-Button können Sie Websites und Videos mit einem Klick in { -brand-name-pocket } speichern, sodass Sie eine saubere Version ohne Ablenkungen lesen können, wann immer Sie möchten – auch offline.
+
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Wenn Sie sich für ein { -brand-name-firefox }-Konto entscheiden, erhalten Sie Zugriff auf einzigartige Dienste wie <a { $pocket }>{ -brand-name-pocket },</a> die direkt in den Browser integriert werden. Über den { -brand-name-pocket } for { -brand-name-firefox }-Button können Sie Websites und Videos mit einem Klick in { -brand-name-pocket } speichern, sodass Sie eine cleane Version ohne Ablenkungen lesen können, wann immer Sie möchten – auch offline.
 
 # Obsolete string
@@ -70,6 +75,12 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> is
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } und { -brand-name-safari } bieten beide eine nahtlose Erfahrung beim Wechsel zwischen Desktop- und mobilen Browsing und umgekehrt. Eine klare Stärke von { -brand-name-safari } ist die Kontinuität. Der Browser synchronisiert Lesezeichen, Tabs, Verlauf und mehr in die iCloud, und stellt sie damit auf sämtlichen Ihrer Geräte zur Verfügung. Das bedeutet, Sie können einen Tab auf Ihrem { -brand-name-iphone } öffnen und ihn dann mit nur einem Klick auf Ihrem { -brand-name-mac }-Laptop aufrufen.
 compare-safari-both-browsers-have-a-lot = Beide Browser haben eine Menge an Crossover-, aber auch einzigartige Funktionen. Falls Sie gern viele Bildschirmfotos machen, fragen Sie sich sicher, wie sie jemals ohne die eingebaute Funktion von { -brand-name-firefox } auskommen konnten. Aber wenn Sie nur auf der Suche nach einem schnellen privaten Browser sind, mit dem Sie surfen und shoppen können, könnte { -brand-name-firefox } für Sie sein – besonders wenn Sie bisher ausschließlich { -brand-name-safari } genutzt haben, weil der Browser standardmäßig auf Ihrem Computer vorinstalliert war. Irgendwann finden Sie dann heraus, welcher Browser besser zu Ihren Anforderungen passt.
 
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } bietet eine ähnliche Funktion, wenn Sie sich für eine gratis <a { $attrs }>{ -brand-name-mozilla-account }</a> anmelden. Damit können Nutzer ihre Lesezeichen, ihren Verlauf, Einstellungen, Passwörter, ausgefüllte Formulare, Add-ons und die 25 zuletzt geöffneten Tabs über mehrere Computer hinweg synchronisieren. Der Unterschied von { -brand-name-firefox } zu { -brand-name-safari } ist, dass Firefox auf jedem Desktop und jeder mobilen Plattform erhältlicht ist: { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } oder { -brand-name-mac } und damit einfach von jedem Ihrer Geräte auf ein anderes übertragbar ist.
+
+
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } bietet eine ähnliche Funktion, wenn Sie sich für eine gratis <a { $attrs }>{ -brand-name-firefox-account }</a> anmelden. Damit können Nutzer ihre Lesezeichen, ihren Verlauf, Einstellungen, Passwörter, ausgefüllte Formulare, Add-ons und die 25 zuletzt geöffneten Tabs über mehrere Computer hinweg synchronisieren. Der Unterschied von { -brand-name-firefox } zu { -brand-name-safari } ist, dass Firefox auf jedem Desktop und jeder mobilen Plattform erhältlicht ist: { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } oder { -brand-name-mac } und damit einfach von jedem Ihrer Geräte auf ein anderes übertragbar ist.
