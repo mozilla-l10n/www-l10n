@@ -44,7 +44,9 @@ monitor-sign-up-for-breach-alerts = Regístrate para recibir alertas de filtraci
 monitor-faq-heading = Preguntas frecuentes
 monitor-all-faq-link = Ver todas las preguntas frecuentes
 monitor-faq-what-is-a-data-breach-question = ¿Qué es exactamente una filtración de datos?
+monitor-faq-what-is-a-data-breach-answer = Una filtración de datos ocurre cuando la información personal o privada se expone, se roba o se copia sin permiso. Estos incidentes de seguridad pueden resultar de ataques cibernéticos a sitios web, aplicaciones o cualquier base de datos donde resida la información personal de las personas. Una filtración de datos también puede ocurrir accidentalmente, como cuando las credenciales de conexión de alguien son publicadas.
 monitor-faq-what-do-i-do-question = Acabo de enterarme de que estoy en una filtración de datos. ¿Qué hago ahora?
+monitor-faq-what-do-i-do-answer = Visita { -brand-name-mozilla-monitor } para saber qué hacer después de una filtración de datos y obtener pasos guiados para resolver las exposiciones de tu información personal. Los hackers dependen de que las personas reutilicen contraseñas, por lo que es importante crear contraseñas seguras y únicas para todas tus cuentas. Guarda tus contraseñas en un lugar seguro al que solo tu tengas acceso; Este podría ser el mismo lugar donde guardas documentos importantes o un administrador de contraseñas.
 monitor-faq-what-gets-exposed-question = ¿Qué información queda expuesta en las filtraciones de datos?
 monitor-faq-whats-gets-exposed-answer = No todas las filtraciones exponen la misma información. Solo depende de a qué puedan acceder los hackers. Muchas filtraciones de datos exponen direcciones de correo electrónico y contraseñas. Otras exponen información más confidencial, como números de tarjetas de crédito, números de pasaporte y números de seguridad social.
 
