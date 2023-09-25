@@ -14,7 +14,12 @@ password-manager-firefox-securely-stores-your = يُخزِّن متصفح { -bra
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = وباستخدام <a href="{ $fxa }">{ -brand-name-firefox-account } المجاني</a> يُمكنك مزامنة كلمات المرور بأمان عبر جميع أجهزتك.
+password-manager-with-a-free-mozilla-account = وباستخدام <a href="{ $fxa }">{ -brand-name-mozilla-account } المجاني</a> يُمكنك مزامنة كلمات المرور بأمان عبر جميع أجهزتك.
+
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-firefox-account = وباستخدام <a href="{ $fxa }">{ -brand-name-firefox } المجاني</a> يُمكنك مزامنة كلمات المرور بأمان عبر جميع أجهزتك.
 password-manager-password-autofill-for-easy-logins = كتابة كلمات المرور تلقائيًا لتسهيل عمليات تسجيل الدخول
 password-manager-firefox-can-automatically-fill-in = يُمكن لمتصفح { -brand-name-firefox } كتابة اسم المستخدم وكلمة المرور المحفوظة تلقائيًا.فإذا كنت قد سجَّلت الدخول عدة مرات إلى موقع إلكتروني، فما عليك إلا تحديد الحساب الذي تريده وسيتولّى المتصفح بقية مهمة تسجيل الدخول.
 
