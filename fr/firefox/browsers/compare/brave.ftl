@@ -55,6 +55,9 @@ compare-brave-the-ability-to-sync-your-passwords = Depuis des années, avec { -b
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Le navigateur { -brand-name-firefox } offre également aux utilisateurs et utilisatrices la possibilité de s’inscrire pour créer un <a { $accounts }>{ -brand-name-mozilla-account }</a> gratuit. Posséder un { -brand-name-mozilla-account } permet de déverrouiller la synchronisation entre les appareils, et de bénéficier de produits tels que <a { $monitor }>{ -brand-name-firefox-monitor }</a> qui surveille vos adresses électroniques et vous avertit si certaines de vos informations ont été compromises par une <a { $breaches }>fuite de données</a> connue.
+
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Le navigateur { -brand-name-firefox } offre également aux utilisateurs la possibilité de s'inscrire pour créer un <a { $accounts }>{ -brand-name-firefox-account }</a> gratuit. Posséder un compte { -brand-name-firefox } permet de déverrouiller la synchronisation entre les appareils, et de bénéficier de produits tels que <a { $monitor }>{ -brand-name-firefox-monitor }</a> qui surveille vos adresses électroniques et vous avertit si certaines de vos informations ont été compromises par une <a { $breaches }>fuite de données</a> connue.
 
 # "Basic Attention Token" is a brand name.
