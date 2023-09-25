@@ -45,6 +45,11 @@ compare-safari-like-safari-firefox-encourages = Comme { -brand-name-safari }, { 
 
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = De plus, lorsque vous créez un { -brand-name-mozilla-account }, vous avez accès à des services uniques comme <a { $pocket }>{ -brand-name-pocket }</a> directement intégrés au navigateur. Le bouton { -brand-name-pocket } pour { -brand-name-firefox } vous permet d’enregistrer des pages web et des vidéos dans { -brand-name-pocket } en un seul clic, pour les lire plus tard dans un environnement sans distractions, où et quand vous voulez (même hors ligne !).
+
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = De plus, lorsque vous créez un compte { -brand-name-firefox }, vous avez accès à des services uniques comme <a { $pocket }>{ -brand-name-pocket }</a> directement intégrés au navigateur. Le bouton { -brand-name-pocket } pour { -brand-name-firefox } vous permet d’enregistrer des pages web et des vidéos dans { -brand-name-pocket } en un seul clic, pour les lire plus tard dans un environnement sans distractions, où et quand vous voulez (même hors ligne !).
 
 # Obsolete string
@@ -70,6 +75,12 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> es
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } et { -brand-name-safari } proposent tous deux une expérience fluide lors du passage de la navigation de bureau à la navigation mobile ou vice versa. L’un des principaux atouts de { -brand-name-safari } est sa fonction de « continuité ». Elle permet de synchroniser vos marque-pages, vos onglets, votre historique et plus encore sur iCloud, pour les rendre disponibles sur tous vos appareils. Concrètement, cela signifie que vous pouvez ouvrir un onglet sur votre { -brand-name-iphone } et le voir apparaître sur votre ordinateur portable { -brand-name-mac } en un seul clic.
 compare-safari-both-browsers-have-a-lot = Les deux navigateurs ont beaucoup de fonctionnalités communes, mais également certaines qui leur sont propres. Si vous réalisez beaucoup de captures d’écran, vous vous demanderez certainement comment vous avez bien pu vivre sans cette fonction pratique directement intégrée à { -brand-name-firefox } ! Mais si vous recherchez simplement un navigateur rapide et privé pour surfer et faire des achats sur le Web, vous pouvez aussi essayer { -brand-name-firefox }. En particulier si vous avez exclusivement utilisé { -brand-name-safari } parce qu’il était prédéfini comme navigateur par défaut sur votre ordinateur. Vous découvrirez à l’usage lequel des deux est le plus adapté à vos habitudes et à vos besoins.
 
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v2 = { -brand-name-firefox } propose une synchronisation similaire lorsque vous créez un <a { $attrs }>{ -brand-name-mozilla-account }</a> gratuit. Celle-ci permet aux utilisateurs et utilisatrices de synchroniser facilement leurs marque-pages, leur historique de navigation, leurs préférences, leurs mots de passe, des formulaires remplis, des extensions et les 25 derniers onglets ouverts sur plusieurs ordinateurs. Mais ce qui distingue vraiment { -brand-name-firefox } de { -brand-name-safari }, c’est qu’il est disponible sur n’importe quelle plateforme de bureau ou mobile ({ -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } ou { -brand-name-mac }), ce qui vous permet de l’utiliser sur tous les appareils que vous possédez.
+
+
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } propose une synchronisation similaire lorsque vous créez un <a { $attrs }>{ -brand-name-firefox-account }</a> gratuit. Celle-ci permet aux utilisateurs et utilisatrices de synchroniser facilement leurs marque-pages, leur historique de navigation, leurs préférences, leurs mots de passe, des formulaires remplis, des extensions et les 25 derniers onglets ouverts sur plusieurs ordinateurs. Mais ce qui distingue vraiment { -brand-name-firefox } de { -brand-name-safari }, c’est qu’il est disponible sur n’importe quelle plateforme de bureau ou mobile ({ -brand-name-ios }, { -brand-name-android }, { -brand-name-windows } ou { -brand-name-mac }), ce qui vous permet de l’utiliser sur tous les appareils que vous possédez.
