@@ -13,7 +13,11 @@ features-sync-with-firefox-you-can-pick-up-where = استخدم متصفح { -br
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">اشترك لتحصل على { -brand-name-firefox-account } مجاني</a> وستتمكّن من مزامنة بياناتك في كل مكان تستخدم فيه متصفح { -brand-name-firefox }.
+
+features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">اشترك لتحصل على { -brand-name-mozilla-account } مجاني</a> وستتمكّن من مزامنة بياناتك في كل مكان تستخدم فيه متصفح { -brand-name-firefox }.
+
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">اشترك لتحصل على { -brand-name-firefox } مجانًا</a> وستتمكّن من مزامنة بياناتك في كل مكان تستخدم فيه متصفح { -brand-name-firefox }.
 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
