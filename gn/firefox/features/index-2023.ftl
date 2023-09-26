@@ -31,6 +31,8 @@ features-index-view-and-edit-pdf-files = Ehecha ha embosako’i PDF marandurenda
 features-index-fingerprint-blocking = Ñemokuãhũ jejoko
 features-index-ad-tracker-blocking = Ñemurã tapykuehoha jejoko
 features-index-firefox-automatically-blocks = { -brand-name-firefox } ojoko ijehegui hetave 2000 tapykuehoha ñemurãva ani hag̃ua nemyangekói ñandutípe.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Ejei umi maranduñemurã nderapykuehóvagui ñemokuãhũ (fingerprinting) jokoha ndive oĩva { -brand-name-firefox } kundahárape.
 features-index-translate-the-web = Emoñe’ẽasa ñanduti
 features-index-picture-in-picture = Picture-in-picture
 features-index-got-things-to-do = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva Picture-in-Picture ndive { -brand-name-firefox } rupive.
