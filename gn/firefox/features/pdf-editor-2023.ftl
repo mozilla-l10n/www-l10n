@@ -11,4 +11,5 @@ pdf-editor-pdf-editor = PDF Mbosako’i
 pdf-editor-add-text-to-pdfs = Embojuaju moñe’ẽrã PDF-pe PDF mbosako’iha { -brand-name-firefox } ndive
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Ehecha ha embosako’i PDF marandurenda { -brand-name-firefox } ndive.
+pdf-editor-fill-in-forms-online-without = Ehaipa myenyhẽha ñandutípe emonguatia ha emoha’ãnga’ỹre
 pdf-editor-add-text = Embojuapy moñe’ẽrã
