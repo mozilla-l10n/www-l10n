@@ -12,7 +12,7 @@ password-manager-firefox-password-manager-saves-all = Správce hesel ve { -brand
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpečně ukládá vaše uživatelská jména a hesla pro přístup k webovým stránkám, automaticky je vyplňuje při příští návštěvě webové stránky a umožňuje vám spravovat uložená přihlašovací jména pomocí vestavěné funkce správy hesel.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Pomocí <a href="{ $fxa }">zdarma dostupného { -brand-name-mozilla-account(case: "gen") }</a> můžete bezpečně synchronizovat svá hesla ve všech zařízeních.
+password-manager-with-a-free-mozilla-account = Pomocí <a href="{ $fxa }">zdarma dostupného { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }</a> můžete bezpečně synchronizovat svá hesla ve všech zařízeních.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/

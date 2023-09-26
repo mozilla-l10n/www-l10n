@@ -10,11 +10,8 @@ features-sync-firefox-browser-sync = Synchronizace { -brand-name-firefox(case: "
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Přístup k vašim záložkám, heslům, otevřeným panelům a dalším položkám { -brand-name-firefox(case: "gen") } z jakéhokoliv zařízení.
 features-sync-with-firefox-you-can-pick-up-where = Pomocí { -brand-name-firefox(case: "gen") } můžete po přepnutí ze stolního počítače na mobilní telefon nebo tablet pokračovat tam, kde jste skončili. { -brand-name-firefox } vám umožní zobrazit vaše záložky, historii prohlížení, uložená hesla a další informace bez ohledu na to, jaké zařízení používáte.
-
-# Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
-features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Zaregistrujte si bezplatný { -brand-name-mozilla-account }</a> a budete moci synchronizovat svá data všude, kde používáte prohlížeč { -brand-name-firefox }.
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Zaregistrujte si bezplatný { -brand-name-mozilla-account } </a> a budete moci synchronizovat svá data všude, kde používáte prohlížeč { -brand-name-firefox }.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Zaregistrujte si bezplatný účet { -brand-name-firefox }</a> a budete moci synchronizovat svá data všude, kde používáte prohlížeč { -brand-name-firefox }.
 # Variables:

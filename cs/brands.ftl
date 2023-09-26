@@ -731,8 +731,82 @@
         [ins] Thunderbirdem
     }
     .gender = masculine
--brand-name-mozilla-account = Účet Mozilla
--brand-name-mozilla-accounts = Účty Mozilla
+-brand-name-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+        [voc]
+            { $capitalization ->
+                [lower] účte Mozilla
+               *[upper] Účte Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účtu Mozilla
+               *[upper] Účtu Mozilla
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účtem Mozilla
+               *[upper] Účtem Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Mozilla
+               *[upper] Účet Mozilla
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtů Mozilla
+               *[upper] Účtů Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtům Mozilla
+               *[upper] Účtům Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
+            }
+        [voc]
+            { $capitalization ->
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účtech Mozilla
+               *[upper] Účtech Mozilla
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účtami Mozilla
+               *[upper] Účtami Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
+            }
+    }
 
 ## Mozilla projects (short names)
 
