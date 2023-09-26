@@ -74,3 +74,4 @@ firefox-more-more-and-more = Ára ha ára hetave mba’e ñande rekovépe omo’
 firefox-more-avoid-misinformation-heading = Emboyke marandu’ỹ ñandutípe – { -brand-name-firefox } ápe ne pytyvõkuaa
 firefox-more-avoid-misinformation-desc = Ehechami ko’ã ñemoñe’ẽ emboykeve hag̃ua marandu’ỹ ha emomba’eve umi mba’e ehahuvéva.
 firefox-more-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
+firefox-more-were-focused-on-your-right-to = Romomba’e nde rekoñemi derécho. Ne mba’ekuaarã, ne rembiapo ñandutípe, nde rekove eikundahávo omo’ã { -brand-name-firefox }.
