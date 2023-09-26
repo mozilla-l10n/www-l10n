@@ -20,6 +20,7 @@ password-manager-with-a-free-mozilla-account = Avec un <a href="{ $fxa }">{ -bra
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Avec un <a href="{ $fxa }">compte { -brand-name-firefox } gratuit</a>, vous pouvez synchroniser de façon sécurisée tous vos mots de passe sur tous vos appareils.
+
 password-manager-password-autofill-for-easy-logins = Auto-remplissage du mot de passe pour une connexion rapide
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } peut remplir automatiquement votre identifiant et votre mot de passe enregistrés. Si vous disposez de plusieurs comptes sur un même site, sélectionnez simplement celui que vous souhaitez, et nous nous occuperons du reste.
 

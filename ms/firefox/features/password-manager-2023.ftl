@@ -20,6 +20,7 @@ password-manager-with-a-free-mozilla-account = Dengan <a href="{ $fxa }">{ -bran
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Dengan <a href="{ $fxa }">akaun { -brand-name-firefox } percuma</a> anda selaraskan kata laluan dengan selamat di kesemua peranti.
+
 password-manager-password-autofill-for-easy-logins = Log masuk mudah dengan kata laluan automatik
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mampu mengisi nama pengguna dan kata laluan secara automatik. Jika anda mempunyai lebih daripada satu log masuk ke satu laman web, anda hanya perlu memilih akaun yang anda mahukan dan izinkan kami mengambil alih yang seterusnya.
 

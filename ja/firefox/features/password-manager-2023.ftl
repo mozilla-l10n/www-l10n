@@ -20,6 +20,7 @@ password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">無料の { -b
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = <a href="{ $fxa }">無料の { -brand-name-firefox } アカウント</a>で、すべてのデバイス間でパスワードを安全に同期できます。
+
 password-manager-password-autofill-for-easy-logins = パスワードを自動入力して簡単にログイン
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } は、保存したユーザー名とパスワードを自動的に入力できます。1 つのサイトに複数のログイン情報がある場合は、希望するアカウントを選択するだけでアクセスできます。
 
