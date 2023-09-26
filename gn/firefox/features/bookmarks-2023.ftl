@@ -17,6 +17,6 @@ bookmark-manager-you-can-import-your-bookmarks = Techaukaha erukuaa Chrome, Safa
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } mba’egueru pytyvõha ñomongetaha ra’ãnga, ohechaukávo poravorã egueru hag̃ua ñemboheko ha mba’ekuaarã ambue kundaháragui.
 bookmark-manager-bookmarks-toolbar = Techaukaha rembiporu renda
-bookmark-manager-get-quick-access-to-your = Eike pya’e techaukaha erohoryvévape poravorãme oĩva { -brand-name-firefox } yvate gotyo térã emboja tembipuru rendápe.
+bookmark-manager-get-quick-access-to-your = Eike pya’e techaukaha erohoryvévape poravorãme oĩva { -brand-name-firefox } yvate gotyo térã emboja tembiporu rendápe.
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-firefox-showing-a-collection = { -brand-name-firefox } ra’ãnga oikuaaukávo techaukaha aty tembipuru rendápe yvate gotyo kundahára rovetãme.
+bookmark-manager-image-of-firefox-showing-a-collection = { -brand-name-firefox } ra’ãnga oikuaaukávo techaukaha aty tembiporu rendápe yvate gotyo kundahára rovetãme.

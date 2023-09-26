@@ -6,6 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Tembiporu mondykyha
-features-eyedropper-select-colors-in-firefox = Eiporavo sa’ykuéra { -brand-name-firefox } tembipuru mondykyha ndive
+features-eyedropper-select-colors-in-firefox = Eiporavo sa’ykuéra { -brand-name-firefox } tembiporu mondykyha ndive
 # HTML page description
 features-eyedropper-identify-the-exact-color-on-a = Ehecha mba’e sa’ýpa kuatiaroguépe ha emonguatia pe código hexadecimal.
