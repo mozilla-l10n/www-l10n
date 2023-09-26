@@ -28,7 +28,7 @@ new-platform-download-the-fastest-linux = Emboguejy { -brand-name-firefox } { -b
 new-platform-faster-page-loading-linux = Emyenehẽ pya’eve kuatiarogue, eiporu sa’ive mandu’arenda ha oikehápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-linux } peg̃uarã.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux } peg̃uarã
-new-platform-privacy-more-than = Ñemiguáva: ndaha’éi purureko año
+new-platform-privacy-more-than = Ñemiguáva: ndaha’éi porureko año
 new-platform-your-life-your-business = Nde rekove, ne ñemuha. { -brand-name-firefox } ojoko kookie rapykuehoha mbohapyháva { -brand-name-linux }-pe
 new-platform-speed-meet-security = Ipya’e ha hekorosã. { -brand-name-firefox } ipya’eve mokõi jey 30% imandu’arenda’ivérõ jepe { -brand-name-chrome }-gui.
 new-platform-open-source = Ayvu ijurujáva

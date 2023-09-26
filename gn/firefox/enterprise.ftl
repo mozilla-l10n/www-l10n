@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -19,7 +19,7 @@ firefox-enterprise-unmatched-data-protection = Mba’ekuaarã ñemo’ã ijojaha
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } kundahára ijayvu juruja ha ome’ẽ ñemo’ã porã tapykuehoha rovake — opaite oku’e ore rembiapo tenondeverãva mba’ekuaarã ñemo’ã ndive.
 firefox-enterprise-your-data-stays-your-business = Ne mba’ekuaarã nemba’e añoite
 firefox-enterprise-deploy-when-and-how-you-want = Eipyso eipota ha ejaposeháicha
-firefox-enterprise-with-install-packages-and = Ñemohenda hetaguáva ha avei peteĩ purureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hu’ũ araka’eve oĩ’ỹvaicha — ha ndahasyiete { -brand-name-windows } ha { -brand-name-mac } jerére.
+firefox-enterprise-with-install-packages-and = Ñemohenda hetaguáva ha avei peteĩ porureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hu’ũ araka’eve oĩ’ỹvaicha — ha ndahasyiete { -brand-name-windows } ha { -brand-name-mac } jerére.
 firefox-enterprise-choose-your-release-cadence = Eiporavo mba’éicha emombóta
 firefox-enterprise-get-rapid-releases-to-make = Ereko Rapid Release eguerukuaa hag̃ua tembiapoite ipyahuvéva ha ipya’éva, térã ESR emba’apokuaa hag̃ua nde eipotaháicha.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ñemboguejy
@@ -35,7 +35,7 @@ firefox-enterprise-msi-installers = MSI mohendaha
 firefox-enterprise-legacy-browser-support = Jokypyty kundahára tujándi
 firefox-enterprise-admx-templates = ADMX plantilla
 firefox-enterprise-deployment-guide = Ñemoinge mbohapeha
-firefox-enterprise-policy-documentation = Purureko kuatiaita
+firefox-enterprise-policy-documentation = Porureko kuatiaita
 firefox-enterprise-release-notes = Jehaipy rehegua
 firefox-enterprise-documentation-and-community = Kuatiata ha tekohagua ñepytyvõ
 # Variables:
