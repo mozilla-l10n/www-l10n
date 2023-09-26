@@ -111,11 +111,6 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = お出かけの時は�
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = お出かけの時は、いつも { -brand-name-firefox-account } のプライバシーとブックマークをお忘れなく。
 
-# Variables:
-#   $signin (string) - anchor link url and attributes
-#   $class_name (string) - CSS class name for sign in link
-#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
-firefox-privacy-hub-already-have-an-account-v2 = 既にアカウントをお持ちの場合:<a { $sign_in } class="{ $class_name }">ログイン</a>または { -brand-name-mozilla } への登録の<a href="{ $learn_more }">詳細を確認</a>
 
 # Obsolete string
 # Variables:
