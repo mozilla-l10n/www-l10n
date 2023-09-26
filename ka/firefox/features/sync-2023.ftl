@@ -10,11 +10,8 @@ features-sync-firefox-browser-sync = { -brand-name-firefox }-ბრაუზე�
 # HTML page description
 features-sync-access-your-firefox-bookmarks = იხილეთ თქვენი { -brand-name-firefox }-ის სანიშნები, პაროლები, გახსნილი ჩანართები და ა. შ. ნებისმიერი მოწყობილობიდან.
 features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox }-ით შეგიძლიათ განაგრძოთ იქიდან, სადაც გაჩერდით, როცა კომპიუტერიდან გადაერთვებით მობილურ ტელეფონსა თუ პლანშეტზე. { -brand-name-firefox } საშუალებას გაძლევთ, იხილოთ თქვენი სანიშნები, გვერდების ისტორია, შენახული პაროლები და ა. შ. რომელი მოწყობილობითაც არ უნდა სარგებლობდეთ.
-
-# Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
-features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-mozilla-account }</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">შექმენით უფასო { -brand-name-mozilla-account }</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">შექმენით უფასო { -brand-name-firefox }-ანგარიში</a> და შეგეძლებათ თქვენი მონაცემების დასინქრონება ყველგან, სადაც იყენებთ { -brand-name-firefox }-ბრაუზერს.
 # Variables:
