@@ -39,7 +39,7 @@ faq-question-subdomain-characters-question = Mba’e taípa aiporukuaa amoheñó
 faq-question-subdomain-characters-answer-v2 = Eiporukuaa tai inglés michĩva rehegua añoite, papapy ha taiky emoheñói hag̃ua tendatee’i.
 faq-question-browser-support-question = Aiporukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
-faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’epuru
+faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’eporu
 faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oiporúva { -brand-name-relay } ñanduti veve rovamo’ãha.
 faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
@@ -49,7 +49,7 @@ faq-question-attachments-answer-v2 = Ko’ág̃a romoneĩma jehegua ñemondojey.
 faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mboavapyréva amboguérõ ñemboheraguapy { -brand-name-relay-premium } pegua
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?
-faq-question-email-storage-answer = Peichahágui ndoikói mba’éramo ore mba’epuru, rombyatykuaa sapy’ami ne ñanduti veve romondokuaajey peve. Araka’eve norombyatymo’ãi hetave mbohapy áragui.
+faq-question-email-storage-answer = Peichahágui ndoikói mba’éramo ore mba’eporu, rombyatykuaa sapy’ami ne ñanduti veve romondokuaajey peve. Araka’eve norombyatymo’ãi hetave mbohapy áragui.
 faq-question-acceptable-use-question = Mba’épa jeiporu { -brand-name-relay } omoneĩva
 faq-question-acceptable-use-answer-measure-account-v2 = Reikotevẽ { -brand-name-mozilla-account } ñanduti veve kundaharape ojehechajeýva ndive
 # Obsolete string
@@ -58,7 +58,7 @@ faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Emoheñóivo po
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Mboy tovamo’ãha pevépa emoheñoikuaa peteĩ ára pukukue
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
-faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{ $url }" { $attrs }>Mba’epururã rehegua</a> eikuaave hag̃ua.
+faq-question-acceptable-use-answer-b-html = Ikatúpa emoñe’ẽ ore <a href="{ $url }" { $attrs }>Mba’eporurã rehegua</a> eikuaave hag̃ua.
 faq-question-promotional-email-blocking-question = Mba’épa ñanduti veve jejoko jopoiguáva
 faq-question-detect-promotional-question = Mba’éichapa { -brand-name-relay } oikuaa ñanduti veve ha’eha jeikuaarãva
 faq-question-detect-promotional-answer = Heta ñanduti veve oñemondo metadato “myakãha” ndive ohechauka hag̃ua ouha tembiporu ijeheguíva hekóva tysýi rupive. { -brand-name-firefox-relay } ohecha ko’ã mba’ekuaarã myakãháva ojoko hag̃ua ko’ã ñanduti veve.

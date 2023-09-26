@@ -28,7 +28,7 @@ vpn-mobile-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Em
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Emo’ã { $devices } mba’e’oka peve
-vpn-mobile-devices-copy = Ne ñemboheraguapy nemoinge ore VPN mba’epuru hekorosãva ne pumbyry, tabléta ha mohendahápe { -brand-name-ios } peg̃uarã, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ha { -brand-name-linux }.
+vpn-mobile-devices-copy = Ne ñemboheraguapy nemoinge ore VPN mba’eporu hekorosãva ne pumbyry, tabléta ha mohendahápe { -brand-name-ios } peg̃uarã, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ha { -brand-name-linux }.
 vpn-mobile-speed-headline = Pya’ekue eimo’ã’ỹva, jejoko’ỹre
 vpn-mobile-speed-copy = Ehecha ta’ãngamýi, eñembosarái, ejogua ha eikundaha pya’eterei. { -brand-name-mozilla-vpn } nomomichĩmo’ãi pe ancho de banda ha nomombeguemo’ãi ne pumbyry.
 vpn-mobile-log-headline = Ne ñemigua oĩ tenonderã

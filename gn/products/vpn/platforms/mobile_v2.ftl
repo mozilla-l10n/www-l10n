@@ -13,9 +13,9 @@ vpn-mobile-the-mozilla-vpn = Pe tembiporu’i pumbyrygua { -brand-name-mozilla-v
 vpn-mobile-your-internet-v2 = Ne ñanduti (ISP) me’ẽhára omochi’ĩkuaa ne ancho de banda oikuaáramo ehechaha ta’ãngamýi, ehendúrõ purahéi térã ejapóramo ta’ãngamýi.
 # Obsolete string
 vpn-mobile-your-internet = Ne ñanduti (ISP) me’ẽhára omochi’ĩkuaa ne ancho de banda oikuaáramo ehechaha ta’ãngamýi, ehendúrõ purahéi térã ejapóramo ta’ãngamýi.
-vpn-mobile-your-isp-v2 = Nde ISP ojokokuaa umi ñanduti renda térã mba’epuru eipota’ỹva térã emboykekuaáva.
+vpn-mobile-your-isp-v2 = Nde ISP ojokokuaa umi ñanduti renda térã mba’eporu eipota’ỹva térã emboykekuaáva.
 # Obsolete string
-vpn-mobile-your-isp = Nde ISP ojokokuaa umi ñanduti renda térã mba’epuru eipota’ỹva térã emboykekuaáva.
+vpn-mobile-your-isp = Nde ISP ojokokuaa umi ñanduti renda térã mba’eporu eipota’ỹva térã emboykekuaáva.
 vpn-mobile-hackers-can-steal-v2 = Umi hacker omondakuaa ne mba’ekuaarãite eikévo Wi-Fi opavave oiporukuávape, ñemuha térã aviõguejyha.
 # Obsolete string
 vpn-mobile-hackers-can-steal = Umi hacker omondakuaa ne mba’ekuaarãite eikévo Wi-Fi opavave oiporukuávape, ñemuha térã aviõguejyha.
