@@ -7,3 +7,8 @@
 
 # page title
 features-sync-firefox-browser-sync = { -brand-name-firefox } kundahára mbojueheha
+
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+
+features-sync-send-tabs-from-one-device-to-another = Emondo tendayke mba’e’okágui ambuépe
