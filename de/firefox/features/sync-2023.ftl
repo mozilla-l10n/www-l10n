@@ -11,10 +11,6 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } Browser-Synchronisi
 features-sync-access-your-firefox-bookmarks = Greifen Sie von allen Ihren Geräten auf Ihre { -brand-name-firefox } Lesezeichen, Passwörter, offenen Tabs und mehr zu.
 features-sync-with-firefox-you-can-pick-up-where = Mit { -brand-name-firefox } können Sie da weitermachen, wo Sie aufgehört haben, wenn Sie von Ihrem PC auf Ihr Smartphone auf Ihr Tablet wechseln.Mit { -brand-name-firefox } sehen Sie Ihre Lesezeichen, Ihren Verlauf, Ihre gespeicherten Passwörter und mehr, egal, welches Gerät Sie nutzen.
 
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
-features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Melden Sie sich für ein kostenloses { -brand-name-mozilla-account }</a> an und Sie können Ihre Daten überall da synchronisieren, wo Sie ihren { -brand-name-firefox }-Browser verwenden.
 
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Melden Sie sich für ein kostenloses { -brand-name-firefox }-Konto</a> an und Sie können Ihre Daten überall da synchronisieren, wo Sie ihren { -brand-name-firefox }-Browser verwenden.
