@@ -38,10 +38,6 @@ firefox-browsers-build-sites-and-refine-your = Créez des sites et perfectionnez
 firefox-browsers-learn-more-about-devtools = En savoir plus sur { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Rejoignez { -brand-name-firefox } et tirez le meilleur de chaque produit — sur chacun de vos appareils.
 
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign-v2 = Vous avez déjà un compte ? <a { $fxa_attr }>Connectez-vous</a> ou <a { $accounts_attr }>apprenez-en plus</a> à propos du compte { -brand-name-firefox }.
 
 # Outdated string
 # Variables:
