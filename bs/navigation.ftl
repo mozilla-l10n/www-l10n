@@ -45,8 +45,10 @@ navigation-experience-augmented = Iskustvo proširene i virtualne stvarnosti s {
 navigation-get-together = Okupite se u virtuelnoj stvarnosti uz ovaj društveni prostor na mreži.
 # Outdated string
 navigation-meet-people-in-experimental = Upoznajte ljude u eksperimentalnim chat sobama sa { -brand-name-firefox }om.
+navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 # Outdated string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
+navigation-mozilla-brings-virtual = { -brand-name-mozilla } donosi virtuelnu i proširenu stvarnost na otvoreni web.
 # Outdated string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } donosi { -brand-name-firefox } u proširenu i virtualnu stvarnost.
 navigation-firefox-built-just-for = { -brand-name-firefox }, napravljen samo za programere.
@@ -56,10 +58,23 @@ navigation-mozilla-open-source-support = { -brand-name-mozilla } Open Source Sup
 navigation-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 navigation-menu = Meni
 navigation-check-out-the-benefits = Pogledajte pogodnosti
+navigation-browsers = Pretraživači
+navigation-close-browsers-menu = Zatvorite meni pretraživača
 navigation-download = Preuzmi
 navigation-extensions = Ekstenzije
 navigation-support = Podrška
 navigation-privacy = Privatnost
+navigation-get-unmatched-data-protection = Dobijte neusporedivu zaštitu podataka s rasporedom ažuriranja koji odgovara tvojoj organizaciji.
+navigation-made-with-respect = Napravljeno s poštovanjem
+navigation-close-products-menu = Zatvori meni za proizvode
+navigation-see-if-your-personal = Provjerite jesu li vaši lični podaci procurili na mreži i prijavite se za buduća upozorenja o curenju podataka.
+navigation-check-for-breaches = Provjeri curenja podataka
+navigation-see-breaches = Pogledaj curenja podataka
+navigation-security-tips = Savjeti za sigurnost
+navigation-share-large-files-safely = Dijeli velike datoteke na siguran način, s linkovima koje se „samouništavaju”.
+navigation-save-quality-content = Sačuvaj kvalitetan sadržaj bilo gdje. Obogaćujte svoj um stalno.
+navigation-sign-up = Registruj se
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Brz. Jednostavan. Privatan.
 navigation-about = O nama
 navigation-close-about-menu = Zatvori meni O nama
 navigation-meet-the-technology-company = Upoznajte tehnološku kompaniju koja ljude stavlja prije profita.
