@@ -117,7 +117,7 @@ vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux<
 # Outdated string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ha tuichave)
-vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia purureko?
+vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia porureko?
 vpn-landing-faq-refund-question-desc-v2 = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
 vpn-landing-faq-refund-question-additional-desc = Ejoguárõ ne ñemboheraguapy tembiporu’i ryepy guive { -brand-name-apple } ñemuha { -brand-name-app-store } térã { -brand-name-google-play } Store, ne ñehepyme’ẽ ojokupyty pe { -brand-name-app-store } he’iháicha rehe. Embohapeva’erã ne ñeporandu kuatia ñemuhague ha viru ñembojevy ejoguahaguégui { -brand-name-apple } térã { -brand-name-google }, oikotevẽháicha.
 # Outdated string
@@ -147,7 +147,7 @@ vpn-landing-invite-country-label = ¿Mba’e tetãme reiko?
 vpn-landing-invite-language-label = Eiporavo ñe’ẽ eguerohoryvéva.
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-invite-privacy-policy = Eikutúvo “Ejuaju tysýi oha’ãrõva”, emoneĩma ore   <a href="{ $privacy }">Ñemigua purureko</a>.
+vpn-landing-invite-privacy-policy = Eikutúvo “Ejuaju tysýi oha’ãrõva”, emoneĩma ore   <a href="{ $privacy }">Ñemigua porureko</a>.
 vpn-landing-invite-your-information = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha pype.
 vpn-landing-invite-thanks-heading = ¡Aguyje! Eiméma tysýipe
 vpn-landing-invite-thanks-desc = Ikatúvo { -brand-name-mozilla-vpn } ojeporu reikohápe, romondóta ndéve ñanduti veve.

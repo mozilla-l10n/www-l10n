@@ -23,7 +23,7 @@ waitlist-control-locale-label = Eiporavo ñe’ẽ eguerohoryvéva.
 waitlist-submit-label-2 = Eike oha’ãrõva ndive
 # Variables:
 #   $url (url) - https://www.mozilla.org/privacy/subscription-services/
-waitlist-privacy-policy-agree-2 = Eikutúvo “{ waitlist-submit-label-2 }”, emoneĩma ore <a href="{ $url }">Ñemigua Purureko</a>.
+waitlist-privacy-policy-agree-2 = Eikutúvo “{ waitlist-submit-label-2 }”, emoneĩma ore <a href="{ $url }">Ñemigua Porureko</a>.
 waitlist-privacy-policy-use = Ne marandu ojepurúta ojeguerahauka hag̃ua marandu’i eikekuaamaha { -brand-name-firefox-relay-premium }.
 waitlist-privacy-policy-use-phone = Ne marandu ojepurúta ojeguerahauka hag̃ua pumbyry rovamo’ãha og̃uahẽ vove reimeha gotyo.
 waitlist-privacy-policy-use-bundle = Ne marandu ojepurúta ojeguerahauka eiporukuaa hag̃uáicha { -brand-name-relay } + { -brand-name-vpn }.

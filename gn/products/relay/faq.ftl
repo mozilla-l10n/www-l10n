@@ -108,4 +108,4 @@ phone-masking-faq-answer-install-app = Nahániri, { -brand-name-relay } pumbyry 
 phone-masking-faq-question-data = Mba’eichagua mba’ekuaarãpa ombyaty { -brand-name-relay } pumbyry rovamo’ãha
 #   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
-phone-masking-faq-answer-data = Eporandu <a href="{ $url }"{ $attrs }>Mba’eñemi purureko { -brand-name-firefox-relay }</a>.
+phone-masking-faq-answer-data = Eporandu <a href="{ $url }"{ $attrs }>Mba’eñemi porureko { -brand-name-firefox-relay }</a>.

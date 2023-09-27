@@ -27,11 +27,11 @@ privacy-index-get-involved = Eike pype
 privacy-index-as-an-open-source-project = Apopyrã ayvu ijurujávaramo, tekoresakã ha juruja ha’e umi tuicha mba’éva { -brand-name-mozilla } peg̃uarã. Ore rekoha ayvu ijuruja ha oñeha’ãkuaa. Ore rembiapo ñemboguatagua ijuruja opavavépe. Ore marandu tekoresakã rehegua <a href="{ $report }">mokõi jey arýpe</a> ohechauka avei ore rojapoha ko’ã mba’e.
 # Variables:
 #   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
-privacy-index-to-review-and-comment-on-proposed = Ehechajey ha emombe’u hag̃ua moambuepy oguenohẽva ore remiñemi purureko, <a href="{ $group }">eñemboheraguapy { -brand-name-mozilla } atýpe</a>.
+privacy-index-to-review-and-comment-on-proposed = Ehechajey ha emombe’u hag̃ua moambuepy oguenohẽva ore remiñemi porureko, <a href="{ $group }">eñemboheraguapy { -brand-name-mozilla } atýpe</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
-privacy-index-read-more-about-our-ongoing = Emoñe’ẽve ore remiñemi purureko opavavegua ha tekorosã ag̃aguáva <a href="{ $blog }">Blog tekorosãrã ha { -brand-name-mozilla } purureko ijurujáva</a>.
-privacy-index-outdated-policies = Purureko oikove’ỹmava
+privacy-index-read-more-about-our-ongoing = Emoñe’ẽve ore remiñemi porureko opavavegua ha tekorosã ag̃aguáva <a href="{ $blog }">Blog tekorosãrã ha { -brand-name-mozilla } porureko ijurujáva</a>.
+privacy-index-outdated-policies = Porureko oikove’ỹmava
 privacy-index-mozilla-websites-communications = Ñamduti renda, ñomongeta ha kookie { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }

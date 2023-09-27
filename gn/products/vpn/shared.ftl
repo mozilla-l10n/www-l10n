@@ -51,7 +51,7 @@ vpn-shared-features-strong-servers = Mohendahavusu mbarete { $countries }+ tetã
 vpn-shared-features-connect = Eike { $devices } mba’e’okuérape peve
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 ára haguépe ome’ẽkuaajey viru
-vpn-shared-refund-policy = Myengovia Purureko
+vpn-shared-refund-policy = Myengovia Porureko
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
 vpn-shared-terms-conditions = Ñe’ẽtegua ha Mba’éichapa
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } ha’e marca registrada Jason A. Donenfeld mba’e
@@ -137,7 +137,7 @@ vpn-subnav-download-mozilla-vpn = Emboguejy { -brand-name-mozilla-vpn }
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Roiporu umi kookie roikuaa hag̃ua mavaitévapa ndegueraha { -brand-name-mozilla-vpn } gotyo. Noromoherakuãi mba’evéichagua marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>ñemigua purureko</a>.
+vpn-shared-affiliate-notification-message = Roiporu umi kookie roikuaa hag̃ua mavaitévapa ndegueraha { -brand-name-mozilla-vpn } gotyo. Noromoherakuãi mba’evéichagua marandu ndeikuaaukátava ore irũnguéra ndive. Emoñe’ẽ ore <a { $attrs }>ñemigua porureko</a>.
 vpn-shared-affiliate-notification-reject = Hejarei
 vpn-shared-affiliate-notification-ok = MONEĨ
 
