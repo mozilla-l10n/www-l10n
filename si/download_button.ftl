@@ -39,6 +39,11 @@ download-button-firefox-ios = { -brand-name-ios } සඳහා <span>{ -brand-na
 download-button-firefox-privacy = { -brand-name-firefox } රහස්‍යතාව
 download-button-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
 download-button-download = බාගන්න
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $os_version } සහ පරණ අනුවාද සඳහා { $channel_name } <a href="{ $help_url }">සහාය නොදක්වයි.</a>
 download-firefox-esr = { -brand-name-firefox-esr } බාගන්න
 download-firefox-esr-32 = { -brand-name-firefox-esr } බිටු-32 බාගන්න
 download-firefox-esr-64 = { -brand-name-firefox-esr } බිටු-64 බාගන්න

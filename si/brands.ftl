@@ -41,7 +41,7 @@
 -brand-name-firefox-extended-support-release = Firefox විස්තෘත සහාය නිකුතුව
 -brand-name-firefox-focus = Firefox Focus
 -brand-name-firefox-lite = Firefox Lite
--brand-name-firefox-nightly = Firefox Nightly
+-brand-name-firefox-nightly = ෆයර්ෆොක්ස් නයිට්ලි
 -brand-name-firefox-reality = Firefox Reality
 
 ## Firefox browsers (short names)
@@ -52,7 +52,7 @@
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-lite = Lite
--brand-name-nightly = Nightly
+-brand-name-nightly = නයිට්ලි
 -brand-name-reality = Reality
 
 ## Firefox browsers (legacy)
