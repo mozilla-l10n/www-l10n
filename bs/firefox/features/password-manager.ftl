@@ -13,10 +13,14 @@ password-manager-firefox-password = { -brand-name-firefox } upravitelj lozinki s
 password-manager-password-manager = Upravitelj lozinki: dostignuće otključano
 password-manager-give-up-the-memory = Prepustite igru memorije { -brand-name-firefox } upravitelju lozinki.
 password-manager-password-hero = Heroj lozinke
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+password-manager-forget-the-reset-v2 = Zaboravite resetovanje. { -brand-name-firefox } menadžer lozinki pamti sve vaše lozinke tako da se možete automatski prijaviti ili lahko pronaći sačuvane lozinke. Radi dodatne sigurnosti, napravite <a href="{ $url }">glavnu lozinku</a> za vaš računar.
 # Obsolete string
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 password-manager-forget-the-reset = Zaboravite reset. { -brand-name-firefox } upravitelj lozinki čuva sve vaše lozinke tako da se možete prijaviti automatski, ili jednostavno pronaći sačuvane lozinke. Za super sigurnost, prepustite vaš računar <a href="{ $url }">majstoru lozinki</a>.
+password-manager-password-magician = Čarobnjak lozinki
 # Obsolete string
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Majstor lozinke
