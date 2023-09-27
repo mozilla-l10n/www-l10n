@@ -10,11 +10,8 @@ features-sync-firefox-browser-sync = { -brand-name-firefox }-browsersynchronisat
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Toegang tot uw { -brand-name-firefox }-bladwijzers, wachtwoorden, open tabbladen en meer vanaf elk apparaat.
 features-sync-with-firefox-you-can-pick-up-where = Met { -brand-name-firefox } kunt u verdergaan waar u was gebleven wanneer u overschakelt van uw desktopcomputer naar uw mobiele telefoon naar uw tablet. Met { -brand-name-firefox } kunt u uw bladwijzers, uw navigatiegeschiedenis, uw opgeslagen wachtwoorden en meer bekijken, ongeacht welk apparaat u gebruikt.
-
-# Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
-features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Meld u aan voor een gratis { -brand-name-mozilla-account }</a> en u kunt uw gegevens overal waar u uw { -brand-name-firefox }-browser gebruikt synchroniseren.
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Meld u aan voor een gratis { -brand-name-mozilla-account }</a> en u kunt uw gegevens overal waar u uw { -brand-name-firefox }-browser gebruikt synchroniseren.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Meld u aan voor een gratis { -brand-name-firefox }-account</a> en u kunt uw gegevens overal waar u uw { -brand-name-firefox }-browser gebruikt synchroniseren.
 # Variables:
