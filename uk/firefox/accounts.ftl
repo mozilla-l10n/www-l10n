@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Створіть { -brand-name-mozilla-account } – Зберігайте свої дані приватними, захищеними та синхронізованими
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account(case: "nom", capitalization: "lower") } – зберігайте свої дані приватними, захищеними та синхронізованими
 # HTML page description
 firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account(case: "nom", capitalization: "lower") }. Один обліковий запис – доступ і приватність усюди.
 firefox-accounts-enter-your-email-address = Введіть свою адресу електронної пошти, щоб почати роботу.
 firefox-accounts-already-have-an-account = Уже маєте обліковий запис?
 firefox-accounts-sign-in = Увійти
+# Obsolete string
 firefox-accounts-already = У вас уже є { -brand-name-firefox-account }. Вітаємо!
+mozilla-accounts-already = У вас уже є { -brand-name-mozilla-account }. Вітаємо!
 firefox-accounts-manage = Керувати обліковим записом
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Увійдіть у свій { -brand-name-mozilla-account }, щоб:
+# Obsolete string
 firefox-accounts-sign-in-to = Увійдіть у свій { -brand-name-firefox-account }, щоб:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Зустрічайте наші продукти, орієнтовані на приватність.

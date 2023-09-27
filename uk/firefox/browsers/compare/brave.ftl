@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Можливість синх
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } також надає можливість користувачам створити безплатний <a { $accounts }>{ -brand-name-mozilla-account }</a>, який є ключем розблокування синхронізованих даних на різних пристроях. Крім того, ви отримуєте додаткові переваги таких продуктів, як <a { $monitor }>{ -brand-name-firefox-monitor }</a>, який відстежує появу ваших адрес електронної пошти у будь-яких відомих <a { $breaches }>витоках даних</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } також надає можливість користувачам створити безплатний <a { $accounts }>{ -brand-name-firefox-account(case: "nom", capitalization: "lower") }</a>, який є ключем розблокування синхронізованих даних на різних пристроях. Крім того, ви отримуєте додаткові переваги таких продуктів, як <a { $monitor }>{ -brand-name-firefox-monitor }</a>, який відстежує появу ваших адрес електронної пошти у будь-яких відомих <a { $breaches }>витоках даних</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Нещодавно { -brand-name-brave } також отримав можливість синхронізувати дані між найпопулярнішими операційними системами та пристроями, а також додано можливість синхронізувати ваші Basic Attention Tokens.
