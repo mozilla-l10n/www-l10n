@@ -8,11 +8,11 @@
 # HTML page title
 compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } vs. { -brand-name-brave }: ¿Máva pe kundahára iporãvéva ndéve g̃uarã?
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Emoñondive { -brand-name-brave } ha { -brand-name-firefox-browser } eikuaa hag̃ua mávapa pe kundahára oikovéva hekoñemi, puruporã ha jeku’ekuaápe.
+compare-brave-compare-brave-to-the-firefox = Emoñondive { -brand-name-brave } ha { -brand-name-firefox-browser } eikuaa hag̃ua mávapa pe kundahára oikovéva hekoñemi, poruporã ha jeku’ekuaápe.
 # Main title
 compare-brave-comparing-firefox-browser = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
 # "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-name-firefox }, kundahára { -brand-name-brave } ha’e reigua, ijayvu juruja ha omba’apóva omo’ã hag̃ua poruhára ñenigua. { -brand-name-brave } ipyahu gueteri kundaharaháicha arapýpe: imoheñoihára, pe software { -brand-name-brave }, ohechauka ñepyrũ jasyteĩ ary 2016 jave. Ko jehaipyrépe romoñendivéta ore { -brand-name-firefox } kundahára { -brand-name-brave } ndive mbohapyjey: hekoñemi, puruporã ha jeku’ekuaápe.
+compare-brave-just-like-the-firefox-browser = Pe kundaháraicha avei { -brand-name-firefox }, kundahára { -brand-name-brave } ha’e reigua, ijayvu juruja ha omba’apóva omo’ã hag̃ua poruhára ñenigua. { -brand-name-brave } ipyahu gueteri kundaharaháicha arapýpe: imoheñoihára, pe software { -brand-name-brave }, ohechauka ñepyrũ jasyteĩ ary 2016 jave. Ko jehaipyrépe romoñendivéta ore { -brand-name-firefox } kundahára { -brand-name-brave } ndive mbohapyjey: hekoñemi, poruporã ha jeku’ekuaápe.
 # To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
 # Variables:
 #   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
