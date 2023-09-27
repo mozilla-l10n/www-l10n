@@ -42,7 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } za { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } za { -brand-name-android }
-footer-visit-mozilla-corporations = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }< /a>.
+footer-visit-mozilla-corporations = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Prava nad dijelovima ovog sadržaja su ©1998–{ $current_year } pojedinačni saradnici mozilla.org projekta. Sadržaj je dostupan pod <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licencom</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Kompanija
