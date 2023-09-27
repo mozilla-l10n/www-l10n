@@ -39,3 +39,7 @@ download-button-firefox-ios = { -brand-name-ios } සඳහා <span>{ -brand-na
 download-button-firefox-privacy = { -brand-name-firefox } රහස්‍යතාව
 download-button-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
 download-button-download = බාගන්න
+download-firefox-esr = { -brand-name-firefox-esr } බාගන්න
+download-firefox-esr-32 = { -brand-name-firefox-esr } බිටු-32 බාගන්න
+download-firefox-esr-64 = { -brand-name-firefox-esr } බිටු-64 බාගන්න
+download-a-different-build = වෙනස් තැනීමක් බාගන්න

@@ -58,6 +58,8 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = අවුරෝරා
+-brand-name-firefox-quantum = ෆයර්ෆොක්ස් ක්වොන්ටම්
 
 ## Firefox products
 
@@ -68,7 +70,10 @@
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
+-brand-name-firefox-relay-premium = ෆයර්ෆොක්ස් රිලේ ප්‍රිමියම්
+-brand-name-firefox-relay = ෆයර්ෆොක්ස් රිලේ
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = ෆයර්ෆොක්ස් පරිවර්තන
 
 ## Firefox products (short names)
 
@@ -76,6 +81,8 @@
 -brand-name-fpn = FPN
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
+-brand-name-relay = රිලේ
+-brand-name-relay-premium = රිලේ ප්‍රිමියම්
 -brand-name-sync = Sync
 -brand-name-vpn = VPN
 
@@ -91,14 +98,21 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = ග්ලීන්
+-brand-name-mdn-plus = MDN ප්ලස්
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla සංවර්ධක ජාලය
 -brand-name-mozilla-hubs = Mozilla Hubs
+-brand-name-mozilla-labs = මොසිල්ලා ලැබ්ස්
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-thunderbird = තන්ඩර්බර්ඩ්
+-brand-name-mozilla-account = මොසිල්ලා ගිණුම
+-brand-name-mozilla-accounts = මොසිල්ලා ගිණුම්
 
 ## Mozilla projects (short names)
 
+-brand-name-common-voice = කොමන් වොයිස්
 -brand-name-hubs = හබ්ස්
 -brand-name-mdn = MDN
 
