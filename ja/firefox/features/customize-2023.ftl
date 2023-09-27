@@ -27,7 +27,7 @@ features-customize-image-of-the-default-themes = 明るい、暗い、カラフ�
 features-customize-you-can-find-more-free-custom-v2 = <a { $amo }>addons.mozilla.org</a> で無料のカスタムテーマが公開されています。<a { $top }>人気</a>、<a { $trending }>流行</a>、<a { $recommended }>おすすめ</a>のテーマから探すことができます。また、<a { $music }>音楽</a>、<a { $seasonal }>季節</a>、<a { $sports }>スポーツ</a>、<a { $nature }>自然</a>といったカテゴリーで整理されています。お好みに合わせてカスタマイズしてみてください。かわいい生き物、悪そうなロボット、美しい景色など、自分らしい { -brand-name-firefox } を作る選択肢がいくつもあります。
 
 # Obsolete string, contains an error
-features-customize-you-can-find-more-free-custom = <a { $amo }>addons.mozilla.org</a> で無料のカスタムテーマが公開されています。&lt;a { $top }&gt;人気</a>、<a { $trending }>流行</a>、<a { $recommended }>おすすめ</a>のテーマから探すことができます。また、<a { $music }>音楽</a>、<a { $seasonal }>季節</a>、<a { $sports }>スポーツ</a>、<a { $nature }>自然</a>といったカテゴリで整理されています。お好みに合わせてカスタマイズしてみてください。かわいい生き物、悪そうなロボット、美しい景色など、自分らしい { -brand-name-firefox } を作る選択肢がいくつもあります。
+features-customize-you-can-find-more-free-custom = <a { $amo }>addons.mozilla.org</a> で無料のカスタムテーマが公開されています。&lt;a { $top }&quot;&gt;人気</a>、<a { $trending }>流行</a>、<a { $recommended }>おすすめ</a>のテーマから探すことができます。また、<a { $music }>音楽</a>、<a { $seasonal }>季節</a>、<a { $sports }>スポーツ</a>、<a { $nature }>自然</a>といったカテゴリで整理されています。お好みに合わせてカスタマイズしてみてください。かわいい生き物、悪そうなロボット、美しい景色など、自分らしい { -brand-name-firefox } を作る選択肢がいくつもあります。
 
 # Used as accessible alternative text for an image
 features-customize-image-of-three-custom-firefox = 3 つの { -brand-name-firefox } カスタムテーマの画像: 白とオレンジのアクセントを付けた濃い紫とピンクのテーマ、鳥と桜の水彩画を取り入れた明るいベージュのテーマ、ハイテクな回路をデザインした濃い黒と緑のテーマ。
