@@ -13,5 +13,7 @@ pdf-editor-add-text-to-pdfs = Dodajte besedilo v datoteke PDF s { -brand-name-fi
 pdf-editor-view-and-edit-pdf-files-right-in = Oglejte si in uredite datoteke PDF kar v { -brand-name-firefox(sklon: "mestnik") }.
 pdf-editor-fill-in-forms-online-without = Izpolnite spletne obrazce brez tiskanja in skeniranja
 pdf-editor-weve-all-faced-this-you-need-to = Vsi smo se že srečali s tem: izpolniti je treba obrazec, ki je v obliki PDF, vendar ga ni mogoče urejati. V preteklosti je bila edina možnost, da ga natisnete na predelano drevo, ročno vpišete vse potrebno in ga nato skenirate nazaj v računalnik.
+pdf-editor-no-more-now-all-you-need-to-do = Nič več! Sedaj lahko vse uredite kar v { -brand-name-firefox(sklon: "mestnik") }, shranite dokument in ga pošljete po e-pošti.
 pdf-editor-add-text = Dodajanje besedila
+pdf-editor-open-the-pdf-in-firefox-click-text = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Kliknite gumb Besedilo in izberite barvo in velikost besedila, nato pa izberite mesto v dokumentu, kamor želite dodati besedilo. Tako enostavno je!
 pdf-editor-add-drawings-or-your-signature = Dodajanje risb (ali podpisa)
