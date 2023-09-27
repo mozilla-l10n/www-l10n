@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Molimo vas da upišete ispravnu email adresu
+newsletter-form-you-must-agree-to = Morate prihvatiti obavijest o privatnosti
+newsletter-form-your-email-address = Vaša email adresa
 newsletter-form-your-email-here = VAŠA E-POŠTA OVDJE
 newsletter-form-format = Format
 newsletter-form-html = HTML

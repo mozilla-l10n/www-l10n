@@ -75,6 +75,14 @@ navigation-share-large-files-safely = Dijeli velike datoteke na siguran način, 
 navigation-save-quality-content = Sačuvaj kvalitetan sadržaj bilo gdje. Obogaćujte svoj um stalno.
 navigation-sign-up = Registruj se
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Brz. Jednostavan. Privatan.
+navigation-protect-your-entire-device = Zaštitite cijeli svoj uređaj i sve aplikacije. Maskirajte svoju stvarnu lokaciju i povežite do 5 uređaja. Pretplatite se sada.
+# Outdated string
+navigation-connected-and-protected = Povezani i zaštićeni
+navigation-join = Pridruži se
+navigation-close-join-menu = Zatvori meni Pridruži se
+navigation-sign-in = Prijava
+navigation-benefits = Prednosti
+navigation-protect-your-life-online = Zaštitite svoj život na mreži s cijelom porodicom proizvoda za zaštitu privatnosti.
 navigation-about = O nama
 navigation-close-about-menu = Zatvori meni O nama
 navigation-meet-the-technology-company = Upoznajte tehnološku kompaniju koja ljude stavlja prije profita.
@@ -86,8 +94,10 @@ navigation-add-ons = Dodaci
 navigation-projects = Projekti
 navigation-close-projects-menu = Zatvorite meni Projekti
 navigation-donate-your-voice-to = Donirajte svoj glas kako biste prepoznavanje glasa učinili svima otvorenim.
+navigation-machine-learning = Mašinsko učenje
 # Outdated string
 navigation-web-of-things-iot = Web of Things (IoT)
+navigation-help-make-deep-learning = Pomozite da algoritmi dubokog učenja budu dostupni svijetu otvorenog koda.
 # Outdated string
 navigation-make-devices-connected = Napravite uređaje povezane na internet osiguranim, zaštičenim i interoperabilnim.
 navigation-developers = Programeri
