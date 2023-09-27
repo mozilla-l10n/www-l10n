@@ -10,8 +10,15 @@ facebook-container-millions-of-people-around = Milioni ljudi širom svijeta imaj
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Pod kontrolom. Zadržite ostatak svog života za sebe.
 facebook-container-get-the-facebook-container = Nabavite { -brand-name-facebook-container } proširenje
 facebook-container-download-firefox-and-get-the = Preuzmite { -brand-name-firefox } i dobijte { -brand-name-facebook-container } proširenje
+facebook-container-only-available-for-desktop = Ekstenzija { -brand-name-facebook-container } je trenutno dostupna samo za { -brand-name-firefox } za desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Posjetite <a href="{ $url }">{ $link_copy }</a> da preuzmete { -brand-name-firefox } za desktop.
 # Outdated string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } proširenje nije dostupno na mobilnim uređajima.
+facebook-container-get-firefox-android-ios = Preuzmite { -brand-name-firefox } za { -brand-name-android } i { -brand-name-ios } sada.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Probajte <strong>{ -brand-name-firefox-focus }</strong>, privatni browser za { -brand-name-android } i { -brand-name-ios }.

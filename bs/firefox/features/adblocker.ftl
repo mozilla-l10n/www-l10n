@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Stvori područje u kojem te ne prate 
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = U { -brand-name-firefox }u možeš koristiti postavke za <a href="{ $privacy }">Privatnost</a> ili <a href="{ $blocking }">Blokiranje sadržaja</a> za preuzimanje još veće kontrole nad programima za praćenje koji prikazuju oglase.
 features-adblocker-choose-your-level-of-protection = Odaberi razinu zaštite
+features-adblocker-to-start-click-on-the-v2 = Za početak kliknite na štit lijevo od adresne trake na bilo kojoj web stranici i odaberite “Postavke zaštite”. Ovo će otvoriti { -brand-name-firefox } panel Postavki privatnosti i sigurnosti u novom tabu. Trebali biste vidjeti plavi iskočni prozor s različitim opcijama.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Za početak kliknite na { -brand-name-firefox } meni u gornjem desnom uglu zaslona. Izgleda kao da su tri crte naslagane jedna na drugu. U padajućem meniju kliknite na Blokiranje sadržaja. Trebali biste vidjeti plavi skočni prozor s različitim odabirom.
 features-adblocker-go-easy-with-standard = Standardni način rada
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
 features-adblocker-in-some-cases-an-ad-blocker = U nekim slučajevima, blokator oglasa može pomoći vašem pretraživaču da radi brže. Kada se oglas učitava, može usporiti web stranicu. U isto vrijeme, potrebno je više vremena da pronađete ono što tražite ako ste previše zauzeti zatvaranjem još jednog oglasa.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Ako želite saznati više o blokiranju oglasa, na raspolaganju su stotine ekstenzija za blokiranje oglasa za { -brand-name-firefox } i druge pretraživače. Ako želite isprobati blokatore oglasa koje { -brand-name-firefox } koristi, <a href="{ $url }">kliknite ovdje da preuzmete</a> pretraživač koji stavlja privatnost na prvo mjesto.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Ako želite saznati više o blokiranju oglasa, na raspolaganju su stotine ekstenzija za blokiranje oglasa za { -brand-name-firefox } i druge pretraživače. Ako želite isprobati blokatore oglasa koje { -brand-name-firefox } koristi, <a href="{ $url }">kliknite ovdje da preuzmete</a> pretraživač koji stavlja privatnost na prvo mjesto.
-features-adblocker-take-control-of-your-browser = Preuzmite kontrolu nad vašim pretraživačem.
