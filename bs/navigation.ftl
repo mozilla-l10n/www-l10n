@@ -7,10 +7,28 @@ navigation-get-a-firefox-account = Napravite { -brand-name-firefox-account }
 navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za desktop
 navigation-get-the-browser-that-respects = Preuzmite pretraživač koji poštuje vašu privatnost automatski. Na { -brand-name-windows }, { -brand-name-mac } ili { -brand-name-linux }.
 navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne uređaje
+navigation-take-speed-privacy-and = Ponesi sa sobom brzinu, privatnost i mir. Na { -brand-name-android } i { -brand-name-ios }.
+navigation-download-for-ios = Preuzmite za { -brand-name-ios }
+navigation-download-for-android = Preuzmite za { -brand-name-android }
 navigation-ios-support = { -brand-name-ios } podrška
 navigation-android-support = { -brand-name-android } podrška
+navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } za preduzeća
+navigation-strap-on-your-goggles = Navuci svoje naočale i zaroni u očaravajuću mrežu s { -brand-name-firefox-browser }-om za virtuelnu stvarnost.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
 navigation-watch-videos-and-browse = Gledajte video zapise i pretražujte internet na { -brand-name-amazon } { -brand-name-fire-tv }-u.
+navigation-firefox-browsers-put = { -brand-name-firefox } pretraživači stavljaju tvoju privatnost na prvo mjesto – to je već uvijek bilo tako.
+navigation-take-the-passwords-youve = Ponesite lozinke koje ste sačuvali u { -brand-name-firefox } svuda sa sobom.
+# Outdated string
+navigation-firefox-is-a-whole-family = { -brand-name-firefox } je cijela porodica proizvoda dizajniranih da vas drže sigurnijim i pametnijim online.
+navigation-join-firefox = Pridružite se { -brand-name-firefox }u
+navigation-access-all-of-firefox = Pristupi svim { -brand-name-firefox } uslugama s jednom prijavom – i koristi svaki proizvod još bolje.
+navigation-meet-the-firefox-family = Upoznaj { -brand-name-firefox } porodicu
+navigation-firefox-blog = { -brand-name-firefox } blog
+navigation-read-about-new-firefox = Čitaj o novim { -brand-name-firefox } mogućnostima i dobij savjete kako ostati siguran na internetu.
+navigation-the-non-profit-behind = Neprofitna organizacija koja se krije iza { -brand-name-firefox }a bori se za zdrav internet za sve.
+navigation-learn-how-firefox-treats = Saznaj kako { -brand-name-firefox } poštuje tvoje podatke.
+navigation-mozilla-careers = Karijere u { -brand-name-mozilla }
+navigation-approach-your-career = Započni karijeru s osjećajem svrhe. Pronađi posao u { -brand-name-mozilla }.
 navigation-close-firefox-menu = Zatvorite { -brand-name-firefox } meni
 navigation-get-the-browser-that-gives = Preuzmite browser koji vam daje više energije u { -brand-name-windows }-u, { -brand-name-mac }-u ili { -brand-name-linux }-u.
 navigation-take-firefox-and-firefox = Uzmite { -brand-name-firefox } i { -brand-name-firefox-focus } sa sobom. Za { -brand-name-android } i { -brand-name-ios }.
@@ -21,8 +39,10 @@ navigation-your-firefox-account = Vaš { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Iskoristite maksimalno iskustvo { -brand-name-firefox }a na svakom uređaju.
 # Outdated string
 navigation-learn-how-to-customize = Saznajte kako da prilagodite način rada { -brand-name-firefox }a.
+navigation-explore-the-immersive = Istražite impresivan web na svojim slušalicama za virtuelnu stvarnost.
 # Outdated string
 navigation-experience-augmented = Iskustvo proširene i virtualne stvarnosti s { -brand-name-firefox }om.
+navigation-get-together = Okupite se u virtuelnoj stvarnosti uz ovaj društveni prostor na mreži.
 # Outdated string
 navigation-meet-people-in-experimental = Upoznajte ljude u eksperimentalnim chat sobama sa { -brand-name-firefox }om.
 # Outdated string
