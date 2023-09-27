@@ -104,7 +104,7 @@ firefox-desktop-download-your-privacy-comes = පෞද්ගලිකත්‍�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = ප්‍රියතම අතිරික්සු විශේෂාංග සියල්ල තබා ගන්න — සහ අළුත් දෑ <strong>සොයා ගන්න</strong>.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් සහ ඩොක්ස් වැනි) සියල්ල { -brand-name-firefox-browser } හි හොඳින් වැඩ කරයි.
+firefox-desktop-download-all-your-favourite = ප්‍රියතම { -brand-name-google } මෙවලම් (ජීමේල් හා ඩොක්ස් ආදී) සියල්ල { -brand-name-firefox-browser }වේ හොඳින් වැඩ කරයි.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -130,7 +130,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-ie }, { -brand-name
 firefox-desktop-download-as-the-internet = අන්තර්ජාලය වර්ධනය වන විට සහ වෙනස් වන විට, ඔබගේ පෞද්ගලිකත්‍වය සඳහා ඇති අයිතිය කෙරෙහි { -brand-name-firefox } දිගටම අවධානය යොමු කරයි — අපි එය හඳුන්වන්නේ <a { $attrs }>පෞද්ගලික දත්ත පොරොන්දුව</a>: අඩුවෙන් ගෙන. ආරක්‍ෂිතව තබා ගන්න. රහස් නැත. ලෙසයි. ඔබගේ දත්ත, ඔබගේ වියමන ක්‍රියාකාරකම් හා මාර්ගගත විට ඔබගේ ජීවිතය { -brand-name-firefox } මගින් සුරක්‍ෂිතයි.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = ඔබගේ සියළු උපාංග සඳහා { -brand-name-firefox } තිබේ; ඔබගේ පටිති, ඉතිහාසය සහ පොත්යොමු ඔබ සමඟ රැගෙන යන්න. ඔබට අවශ්‍ය වන්නේ <a { $attrs }>{ -brand-name-firefox } ගිණුමක්</a> පමණි.
+firefox-desktop-download-firefox-is-available = ඔබගේ සියළුම උපාංග සඳහා { -brand-name-firefox } තිබේ; ඔබගේ පටිති, ඉතිහාසය සහ පොත්යොමු ඔබ සමඟ රැගෙන යන්න. ඔබට අවශ්‍ය වන්නේ <a { $attrs }>{ -brand-name-firefox } ගිණුමක්</a> පමණි.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = අපගේ තිළෑලි අතිරික්සු <a { $attrs }>තිරසේයා</a> මෙවලම සමඟ මාර්ගගත ඕනෑම දෙයක අධි-විභේදන රූපයක් ගන්න
