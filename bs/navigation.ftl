@@ -4,6 +4,9 @@
 
 navigation-download-firefox = Preuzmite { -brand-name-firefox }
 navigation-get-a-firefox-account = Napravite { -brand-name-firefox-account }
+navigation-firefox-browser-for-desktop = { -brand-name-firefox-browser } za desktop
+navigation-get-the-browser-that-respects = Preuzmite pretraživač koji poštuje vašu privatnost automatski. Na { -brand-name-windows }, { -brand-name-mac } ili { -brand-name-linux }.
+navigation-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne uređaje
 navigation-ios-support = { -brand-name-ios } podrška
 navigation-android-support = { -brand-name-android } podrška
 navigation-firefox-for-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }

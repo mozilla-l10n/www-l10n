@@ -25,6 +25,10 @@ password-manager-password-magician = Čarobnjak lozinki
 # Meaning its a quick and competent password manager
 password-manager-password-ninja = Majstor lozinke
 password-manager-no-more-try-again = Nema više “pokušajte ponovo” dok pokušavate doći negdje. Prijavite se na vaš { -brand-name-firefox-account } na vašem telefonu i vaše lozinke idu sa vama. Vaši detalji prijave će se jednostavno pojaviti, prosto.
+password-manager-password-champion = Šampion lozinki
+# Variables:
+#   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
+password-manager-earn-your-security-gold-medal = Zaradite vašu zlatnu medalju iz sigurnosti uz { -brand-name-firefox }-ov širok spektar <a href="{ $addons }">dodataka</a> za upravljanje lozinkama. Odaberite postojeći omiljeni ili pronađite novi putem stručnih ocjena i recenzija.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Majstor lozinki
