@@ -7,6 +7,8 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF düzenleyicisi
+# page title
+pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’lere metin ekleyin
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = PDF dosyalarını doğrudan { -brand-name-firefox }’ta görüntüleyip düzenleyin.
 pdf-editor-add-text = Metin ekleyin

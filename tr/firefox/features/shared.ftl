@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = { -brand-name-firefox } Özellikleri
 features-shared-footer-cta-title = { -brand-name-firefox } ile daha fazlasını yapın
+features-shared-footer-cta-desc = Kâr amacı gütmeyen bir kuruluş tarafından desteklenen ve tüm cihazlarınızda çalışan hızlı, hafif, gizlilik odaklı tarayıcıyı edinin.
 features-shared-footer-cta-button = { -brand-name-firefox }’u indir
 features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir tarayıcı mı?
 features-shared-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?

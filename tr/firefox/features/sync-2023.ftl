@@ -9,7 +9,4 @@
 features-sync-firefox-browser-sync = { -brand-name-firefox } tarayıcı eşitlemesi
 # HTML page description
 features-sync-access-your-firefox-bookmarks = { -brand-name-firefox } yer imlerinize, parolalarınıza, açık sekmelerinize ve daha fazlasına istediğiniz cihazdan erişin.
-
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
+features-sync-send-tabs-from-one-device-to-another = Cihazdan cihaza sekme gönderme

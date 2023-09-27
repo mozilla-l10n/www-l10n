@@ -14,6 +14,10 @@ vpn-mobile-about-headline = { -brand-name-mozilla } hakkında
 vpn-mobile-privacy-headline = Tek tıkla gizlilik
 vpn-mobile-servers-headline = Dünyanın dört bir yanındaki sunuculara bağlanın
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-mobile-servers-copy = Brezilya’da internette gezinin. Japonya’dan oyun oynayın. Avustralya’dan yayın yapın. { -brand-name-mozilla-vpn } sayesinde telefonunuzun veya bilgisayarınızın konumunu { $countries }+ ülkedeki { $servers }+ konumdan birine değiştirebilirsiniz.
+# Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = { $devices } cihazda koruma
 vpn-mobile-speed-headline = Kısıtlamasız, inanılmaz hız

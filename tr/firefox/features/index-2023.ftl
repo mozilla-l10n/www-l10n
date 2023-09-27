@@ -12,6 +12,7 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }, tüm c
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir tarayıcı mıdır?
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } Chrome’dan daha az bellek tüketir, böylece diğer programlarınız da daha hızlı çalışabilir.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?
+features-index-were-focused-on-your-right-to = Gizlilik hakkınız bizim için çok önemli. { -brand-name-firefox }, verilerinizi, web’de yaptıklarınızı ve çevrimiçi yaşamınızı koruyor.
 features-index-free-password-manager = Ücretsiz parola yöneticisi
 features-index-get-help-creating-new-passwords = Yeni parolalar oluşturma, çevrimiçi formları otomatik doldurma ve otomatik olarak giriş yapma konusunda yardım alın.
 features-index-customize-your-firefox-browser = { -brand-name-firefox } tarayıcınızı özelleştirin

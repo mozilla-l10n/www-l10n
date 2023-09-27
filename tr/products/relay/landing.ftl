@@ -40,3 +40,4 @@ landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } harikalar
 ## FAQ SECTION
 
 landing-faq-headline = { -brand-name-firefox-relay } hakkında en çok sorulan sorular
+landing-faq-cta = { -brand-name-firefox-relay } hakkındaki diğer SSS’lere bakın

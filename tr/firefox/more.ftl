@@ -74,3 +74,4 @@ firefox-more-more-and-more = Hayatımızdaki hassas ve değerli şeylerin çoğu
 firefox-more-avoid-misinformation-heading = İnternette dezenformasyondan kaçının: { -brand-name-firefox } yanınızda
 firefox-more-avoid-misinformation-desc = Daha az dezefenformasyon görmek ve sizin için önemli olan şeylere odaklanmak için ipuçlarımıza göz atın.
 firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?
+firefox-more-were-focused-on-your-right-to = Gizlilik hakkınız bizim için çok önemli. { -brand-name-firefox }, verilerinizi, web’de yaptıklarınızı ve çevrimiçi yaşamınızı koruyor.

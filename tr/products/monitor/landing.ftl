@@ -15,6 +15,7 @@ monitor-form-enter-your-email-address = Veri ihlali risklerini kontrol etmek iç
 ##
 
 monitor-what-info-could-be = Hangi bilgilerim risk altında olabilir?
+monitor-scan-your-email = Ücretsiz kullanmaya başlamak için e-postanızı tarayın
 monitor-trusted-by-10-million = Dünya çapında 10 milyon kullanıcı
 # This string is followed by a list of media outlets
 monitor-as-seen-in = Övgüyle bahsedenler
