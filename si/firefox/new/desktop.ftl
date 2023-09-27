@@ -117,6 +117,7 @@ firefox-desktop-download-from-watching-a = මාර්ගගත ඉගැන්
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
+firefox-desktop-download-download-the-mobile = සියළුම උපාංගවල ස්වයංක්‍රීය රැකවරණයක් සහිතව පිරික්සීමට { -brand-name-firefox } ජංගම අතිරික්සුව බාගන්න.
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩතල අතිරික්සුව ගැන පහතින් දැන ගන්න
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
