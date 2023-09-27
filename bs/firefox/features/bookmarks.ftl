@@ -21,9 +21,13 @@ features-bookmarks-fly-with-that-bookmark = Ponesite zabilješku sa sobom
 #   $url (url) - link to https://www.mozilla.org/firefox/pocket/
 # On the fly here means on the move with you.
 features-bookmarks-take-your-favorites-on = Ponesite vaše favorite sa sobom. Koristite { -brand-name-firefox-sync } za pristup vašim zabilješkama putem svih vaših uređaja, od desktopa do mobilnih. Ili probajte <a href="{ $url }">{ -brand-name-pocket }</a> da sačuvate bilo koji internet članak ili stranicu i pogledajte kasnije – čak i bez interneta.
+features-bookmarks-customize-that-bookmark = Prilagodite tu oznaku
 # Obsolete string
 # Futz with means to spend a lot of time on something.
 features-bookmarks-futz-with-that-bookmark = Gubite vrijeme sa zabilješkom
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
+features-bookmarks-practice-your-precision = Vježbajte svoju preciznost sa svakim <a href="{ $url }">dodatkom</a> za upravljanje oznakama kojih se možete sjetiti, od snimaka cijele stranice do bočnih traka sa brzim prebacivanjem do zatvorenih privatnih oznaka.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
