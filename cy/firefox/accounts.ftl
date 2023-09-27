@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Defnyddiwch { -brand-name-mozilla-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # HTML page description
 firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?
 firefox-accounts-sign-in = Mewngofnodwch
+# Obsolete string
 firefox-accounts-already = Mae gennych chi gyfrif { -brand-name-firefox-account } yn barod. Llongyfarchiadau!
+mozilla-accounts-already = Mae gennych chi gyfrif { -brand-name-mozilla-account } yn barod. Llongyfarchiadau!
 firefox-accounts-manage = Rheoli eich cyfrif
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-mozilla-account } i:
+# Obsolete string
 firefox-accounts-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-firefox-account } i:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu preifatrwydd.
