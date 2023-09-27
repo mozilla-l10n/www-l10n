@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Pob tor-data
 ## Footer
 
 monitor-shared-footer-about-mozilla = Ynghylch { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = Amodau Gwasanaeth
+monitor-shared-footer-privacy-policy = Polisi Preifatrwydd
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Amodau a Phreifatrwydd
 monitor-shared-footer-github = GitHub

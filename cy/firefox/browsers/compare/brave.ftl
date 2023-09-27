@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = Mae { -brand-name-brave } yn gwahani
 compare-brave-the-internet-as-a-whole-is = Ar y cyfan, hysbysebion sy'n talu am y Rhyngrwyd, mae hynny'n galluogi'r cynnwys rydych chi am ei weld go-iawn i fod yn rhad ac am ddim. Mae { -brand-name-brave } wedi ceisio defnyddio’r model hwn trwy annog ei ddefnyddwyr i ymuno â system wobrwyo { -brand-name-brave }, sydd mewn gwirionedd, yn blatfform hysbysebu ei hun. Unwaith y bydd defnyddiwr wedi dewis ymuno, bydd { -brand-name-brave } yn dangos yr hyn maen nhw'n ei alw'n “hysbysebion sy'n parchu preifatrwydd” sc y gallwch chi weld ac ennill yr hyn maen nhw'n ei alw'n Basic Attention Token neu BAT. O hynny ymlaen gall defnyddwyr { -brand-name-brave } ddewis gwario eu BATiau ar gefnogi'r gwefannau neu'r cyfranwyr unigol y maen nhw'n eu hoffi, sydd yn eu tro yn gallu trosi'r BATiau yn arian go iawn.
 compare-brave-whether-this-sounds-complicated = P'un a yw hyn yn swnio'n gymhleth neu fel syniad gwych, mae'n debyg yn dibynnu ar lefel eich dirmyg tuag at yr hysbysebion ar y Rhyngrwyd. Mae'r rhan fwyaf o ddefnyddwyr y Rhyngrwyd yn deall bod cynnwys da yn costio arian, ac yn fodlon gyda'r ffaith bod yr arian yn dod o hysbysebu.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Ar ochr arall y geiniog, gyda'r porwr { -brand-name-firefox }, mae'n well gennym gadw pethau'n syml. Mae { -brand-name-firefox } yn rhwystro llawer o dracwyr, cryptogloddwyr a thracwyr bysbrintiau trydydd parti rhag eich dilyn yn ragosodedig. Fodd bynnag, mae { -brand-name-firefox }, y tu allan i'r Modd Pori Preifat, yn dewis peidio â rhwystro hysbysebion rhag ymddangos. Hynny yw, oni bai eich bod chi'n gosod <a { $attrs }>un o'r estyniadau sydd wedi'u cynllunio'n benodol at y diben hwnnw</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Mae'r gallu i gydweddu'ch cyf
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Mae'r porwr { -brand-name-firefox } hefyd yn rhoi'r gallu i ddefnyddwyr gofrestru ar gyfer cyfrif <a { $accounts }> { -brand-name-mozilla-account } </a> am ddim. Mae cael cyfrif { -brand-name-mozilla-account } yn allwedd i ddatgloi cydweddu ar draws dyfeisiau, a byddwch yn cael budd ychwanegol cynnyrch fel <a { $monitor }>{ -brand-name-firefox-monitor }</a> sy'n monitro'ch cyfeiriadau e-bost ac yn eich rhybuddio os yw unrhyw ran o'ch manylion wedi bod yn gysylltiedig ag unrhyw <a { $breaches }>dor-data  hysbys</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Mae'r porwr { -brand-name-firefox } hefyd yn rhoi'r gallu i ddefnyddwyr gofrestru ar gyfer <a { $accounts }> { -brand-name-firefox-account } </a> am ddim. Mae cael cyfrif { -brand-name-firefox } yn allwedd i ddatgloi cydweddu ar draws dyfeisiau, a byddwch yn cael budd ychwanegol cynnyrch fel <a { $monitor }>{ -brand-name-firefox-monitor }</a> sy'n monitro'ch cyfeiriadau e-bost ac yn eich rhybuddio os yw unrhyw ran o'ch manylion wedi bod yn gysylltiedig ag unrhyw <a { $breaches }>dor-data  hysbys</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Yn ddiweddar, cafodd { -brand-name-brave } y gallu i gydweddu data ar draws y systemau a'r dyfeisiau gweithredu mwyaf poblogaidd ynghyd â'r gallu ychwanegol i gydweddu'ch Tocynnau Sylw Sylfaenol.

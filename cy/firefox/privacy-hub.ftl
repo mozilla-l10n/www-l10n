@@ -61,6 +61,8 @@ firefox-privacy-hub-meet-four-of-the-most-common = Dyma bedwar o'r categorïau m
 firefox-privacy-hub-always-in-your-control = Drwy'r amser o dan eich rheolaeth
 firefox-privacy-hub-want-to-customize-what = Eisiau cyfaddasu'r hyn sy'n cael ei rwystro? Dim ond un clic i ffwrdd mae eich gosodiadau.
 firefox-privacy-hub-protection-beyond-tracking = Diogelwch y tu hwnt i dracio
+firefox-privacy-hub-if-you-have-a-mozilla-account = Os oes gennych chi gyfrif { -brand-name-mozilla-account }, gallwch hefyd weld sut rydyn ni'n eich helpu i ddiogelu eich manylion personol a'ch cyfrineiriau.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Os oes gennych chi { -brand-name-firefox-account }, gallwch hefyd weld sut rydyn ni'n eich helpu i ddiogelu eich manylion personol a'ch cyfrineiriau.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +79,21 @@ firefox-privacy-hub-send-a-file = Anfon ffeil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Mae { -brand-name-pocket } yn argymell erthyglau yn Saesneg o ansawdd uchel, wedi'u curadu gan bobl heb gasglu'ch hanes pori na rhannu eich gwybodaeth bersonol â hysbysebwyr.
 firefox-privacy-hub-get-pocket = Cael { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Eich cyfrif { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Eich { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Mae'r holl fanylion sy'n cael eu cydweddu trwy eich cyfrif { -brand-name-mozilla-account } - o hanes porwr i gyfrineiriau - wedi'i hamgryptio. A chyfrinair eich cyfrif yw'r unig allwedd.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Mae'r holl fanylion sy'n cael eu cydweddu trwy eich { -brand-name-firefox-account } - o hanes porwr i gyfrineiriau - wedi'i hamgryptio. A chyfrinair eich cyfrif yw'r unig allwedd.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Ewch a'ch preifatrwydd a'ch nodau tudalen i bobman gyda chyfrif { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Ewch a'ch preifatrwydd a'ch nodau tudalen i bobman gyda chyfrif { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Eisoes â chyfrif? <a { $sign_in } class="{ $class_name }"> Mewngofnodwch </a> neu <a href="{ $learn_more }">ddysgu rhagor</a> am ymuno â { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

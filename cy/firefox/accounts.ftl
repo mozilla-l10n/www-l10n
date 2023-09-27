@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Defnyddiwch { -brand-name-mozilla-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
+mozilla-accounts-get-a-mozilla-account = Defnyddiwch gyfrif { -brand-name-mozilla-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # HTML page description

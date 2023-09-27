@@ -60,6 +60,7 @@ footer-contact = Cysylltu
 footer-product-help = Cymorth Cynnyrch
 footer-support = Cymorth
 footer-file-a-bug = Cofnodi Mater
+footer-localize-mozilla = Localize { -brand-name-mozilla }
 footer-community-participation-guidelines = Canllawiau Cyfranogiad Cymunedol
 footer-websites-privacy-notice = Hysbysiad Preifatrwydd Gwefan
 footer-websites-cookies = Cwcis
