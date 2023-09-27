@@ -30,7 +30,7 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Eipupuruhína apopyvusu oku’éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
+firefox-new-youre-using-an-insecure-outdated = Eiporuhína apopyvusu oku’éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -61,6 +61,6 @@ firefox-new-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 firefox-new-download-browser = Emboguejy { -brand-name-firefox-browser }
 firefox-new-fast = Ipya’e, hekoñemi ha rei
 firefox-new-from-mozilla = { -brand-name-mozilla } mba’e
-firefox-new-desc = { -brand-name-firefox-browser } ha’e ñanduti kundahára reigua kuatiarogue henyhẽ pya’éva, mandu’arerenda puru’ive ha heta hembiapoite. Apopyrã { -brand-name-mozilla } mba’éva, atyguasu viru’ỹgua
+firefox-new-desc = { -brand-name-firefox-browser } ha’e ñanduti kundahára reigua kuatiarogue henyhẽ pya’éva, mandu’arerenda poru’ive ha heta hembiapoite. Apopyrã { -brand-name-mozilla } mba’éva, atyguasu viru’ỹgua
 firefox-new-download-a-different = Emboguejy jehechaukaha térã ñe’ẽ ambuéva
 firefox-new-taskbar = { -brand-name-firefox } ejuhúta tembiaporã rendápe { -brand-name-windows } emohenda rire

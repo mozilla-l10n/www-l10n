@@ -179,7 +179,7 @@ firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a
 # Outdated string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Eipupuru apopyvusu hetekorosã ha hekopyahu’ỹva <a href="{ $url }">ndorekovéimava pytyvõ { -brand-name-firefox } guive</a>.
+firefox-desktop-download-youre-using-an-insecure-outdated = Eiporu apopyvusu hetekorosã ha hekopyahu’ỹva <a href="{ $url }">ndorekovéimava pytyvõ { -brand-name-firefox } guive</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

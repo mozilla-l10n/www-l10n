@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Ñanduti avápe g̃uarã, ndaha’éi viru ñembyatyrã
 home-did-you-know-mozilla-the-maker = Eikuaápa { -brand-name-mozilla } — atyguasu { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oiporukuaáva mayma tapicha.
 home-mission-driven = Omopu’ãva tembipota. Omopu’ãva avakuéra.
-home-were-not-normal = Ore ndaha’éi mba’apohaguasu tembiapurupyahuguareíva. Umi romoheñóiva omotenonde tapichápe ha hekoñemi viruñeganagua. Roime rojapo hag̃ua Ñandutígui tenda hesãiva ha jevy’aha opavavépe g̃uarã.
+home-were-not-normal = Ore ndaha’éi mba’apohaguasu tembiporupyahuguareíva. Umi romoheñóiva omotenonde tapichápe ha hekoñemi viruñeganagua. Roime rojapo hag̃ua Ñandutígui tenda hesãiva ha jevy’aha opavavépe g̃uarã.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Ñanduti resãi ha ñeikundaha porã ha’e ore rekovesã.”
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } myakãhára
