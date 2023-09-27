@@ -10,3 +10,5 @@ features-sync-firefox-browser-sync = Sinhronizacija brskalnika { -brand-name-fir
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Imejte dostop do svojih zaznamkov, gesel, odprtih zavihkov in drugih podatkov { -brand-name-firefox(sklon: "rodilnik") } s katerekoli naprave.
 features-sync-send-tabs-from-one-device-to-another = Pošiljajte zavihke z ene naprave na drugo
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = Slika menija programa { -brand-name-firefox }, v katerem je označena možnost “Pošlji zavihek v napravo”.

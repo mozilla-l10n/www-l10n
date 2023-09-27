@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Kaj je novega v { -brand-name-firefox(sklon: "mestnik") }
+# Obsolete string
 whatsnew-page-title = Kaj je novega v { -brand-name-firefox }u – Več zasebnosti, več zaščite.
 whatsnew-page-description = Zoperstavite se industriji, ki prodaja vaše podatke. Bodite pametni in varni na spletu s tehnologijo, ki se bori za vas.
 whatsnew-firefox = { -brand-name-firefox }
