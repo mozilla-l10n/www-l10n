@@ -15,7 +15,7 @@ features-private-browsing-what-does-private-browsing-do = რას აკეთ
 features-private-browsing-private-browsing-mode-opens = პირადი დათვალიერების რეჟიმი ხსნის ბრაუზერის ახალ ფანჯარას. დახურვისას ამ ფანჯარაში მონახულებული გვერდების ისტორია და ვებსაიტების მიერ დატოვებული თვალისმდევენელი ფუნთუშები სრულად ამოიშლება. <strong>{ -brand-name-firefox }-ის გამოცდილი რჩევა:</strong> არ დაგავიწყდეთ პირადი დათვალიერების ფანჯრის დახურვა საქმის დასრულებისთანავე!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = { -brand-name-firefox }-ის ბრაუზერის ფანჯარა პირადი დათვალიერების რეჟიმში.
-features-private-browsing-what-private-browsing-doesnt-do = რა პირადი დათვალიერების რეჟიმი არაა გამოსადეგი
+features-private-browsing-what-private-browsing-doesnt-do = რას არ აკეთებს პირადი დათვალიერების რეჟიმი
 # Variables:
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = პირადი დათვალიერების რეჟიმი არ წაშლის პირადი ფანჯრიდან შექმნილ სანიშნეებს, არ დაგიცავთ მავნე პროგრამებისა და ვირუსებისგან. ასევე, ეს ხელს არ უშლის თქვენ მიერ მონახულებულ საიტებს დაინახონ, თუ სად ხართ იმყოფებით და არ შეზღუდავს თქვენი ინტერნეტმომსახურების მომწოდებელს აღრიცხოს, რას საქმიანობთ. ამისთვის დაგჭირდებათ <a href="{ $vpn }">სანდო VPN</a>.
