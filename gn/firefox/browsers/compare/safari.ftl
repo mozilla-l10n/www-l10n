@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Avei umi tembiapoite orekomeméva eh
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = { -brand-name-safari } chaite, { -brand-name-firefox } amokyre’ỹ imboguatahára atýpe omoheñóivo <a { $attrs }>moĩmbaha ha jepysokue</a> kundahárape g̃uarã. Ha ore plataforma ha’e rupi ayvu ijurujáva, oĩ heta jeporavo ombojuajúva hetaiterei tembiapoite.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Avei, eñemboheraguapývo { -brand-name-mozilla-account } mba’etépe, eikekuaáta mba’eporukuéra ha’éva <a { $pocket }>{ -brand-name-pocket }</a> ojuajúva ne kundahára rehe. Pe votõ { -brand-name-pocket } { -brand-name-firefox } peg̃uarã omoneĩ eñongatúvo ñanduti kuatiarogue ha ta’ãngamýi { -brand-name-pocket }-pe peteĩ jekutúpente, emoñe’ẽkuaa hag̃uáicha apañuãi’ỹ rehe eime eimehápe, ejapose vove, jepémo eime ñanduti’ỹre.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
@@ -57,6 +60,9 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> ha
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } ha avei { -brand-name-safari } ome’ẽ tembiapokueita oikóva eku’évo kundahára mesa arigua ha oku’ekuaáva ndive. { -brand-name-safari }-pe, peteĩva umi imbaretevéva ha’e pe jeku’ekuaajey. Ombojuehe techaukaha, tendayke, tembiasakue ha avei Cloud ojeporukuaa hag̃ua opavave mba’e’okápe. Kóva he’ise ikatuha ijuruja tendayke { -brand-name-iphone }-pe ha ehecha { -brand-name-mac } po peguápe eikutúvo peteĩ jeýnte.
 compare-safari-both-browsers-have-a-lot = Mokõivéva kundahára oguereko hetáichagua mba’e, avei umi tembiapoite ha’eñóva. Iporã ja’e avei ejapóramo heta mba’erechaha jejapyhy, eñeporandúta mba’éichapa eikoveraka’e ko { -brand-name-firefox } rembiapoite eiporu’ỹre. Hákatu ehekáramo peteĩ kundahára ipya’e ha hekoñemíva eikundaha ha emba’ejogua hag̃ua, upévare ikatu eiporu { -brand-name-firefox }, oime rire eiporúkuri { -brand-name-safari } añoite oñemohendagua’u haguére pe kundahára ijypykuévaramo ne mohendahápe. Ipahakuévo, ehechakuaáta mavaitévapa pe mba’e iporãvéva ndéve g̃uarã.
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v3 = { -brand-name-firefox } avei ome’ẽ peteĩchagua ñembojuehe heraguapykuévo <a %(attrs)s>{ -brand-name-mozilla-account }</a> peg̃uarã reigua omoneĩva puruhárape ombojuehévo techaukaha, kundaha rembiasakue, guerohoryvéva, ñe’ẽñemi, myanyhẽha moĩmba, moĩmbaha ha ipaháva 25 tendayke ijurujáva heta mba’e’oka pa’ũme. Omoambuéva { -brand-name-firefox } Safari-gui ha’e pe ojepurukuaaha oimeraẽva mohendaha térã oku’évape, iOS, Android, Windows térã macOS, ombotuichavéva ijeku’ekuaa oimeraẽva mba’e’okápe ikatúva ereko.
 # Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
