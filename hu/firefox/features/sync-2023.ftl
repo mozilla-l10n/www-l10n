@@ -10,11 +10,10 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } böngészőszinkron
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Érje el a { -brand-name-firefox } könyvjelzőit, jelszavait, nyitott lapjait és egyebeit bármely eszközről.
 features-sync-with-firefox-you-can-pick-up-where = A { -brand-name-firefox(case: "instrumental") } ott folytathatja, ahol abbahagyta, amikor átvált az asztali számítógépéről, a mobiltelefonjáról a táblagépére. A { -brand-name-firefox } segítségével láthatja a könyvjelzőit, böngészési előzményeit, mentett jelszavait és egyebeket, függetlenül attól, hogy melyik eszközt használja.
-
-# Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-
-features-sync-sign-up-for-a-free-mozilla-account = <a href="{ $fxa }">Regisztráljon egy ingyenes { -brand-name-mozilla-account }ot</a>, és mindenhol szinkronizálhatja adatait, ahol használja a { -brand-name-firefox } böngészőjét.
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Regisztráljon egy ingyenes { -brand-name-mozilla-account }ot</a>, és mindenhol szinkronizálhatja adatait, ahol használja a { -brand-name-firefox } böngészőjét.
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Regisztráljon egy ingyenes { -brand-name-firefox }-fiókot</a>, és mindenhol szinkronizálhatja adatait, ahol használja a { -brand-name-firefox } böngészőjét.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Az összes adata titkosítva van a kiszolgálóinkon, így mi nem tudjuk elolvasni – csak Ön érheti el. Az adatait nem adjuk el hirdetőknek, mert az ellentmondana az <a href="{ $privacy }">adatvédelmi ígéretünknek</a>.
