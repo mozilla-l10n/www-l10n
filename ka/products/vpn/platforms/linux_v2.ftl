@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } Linux-ზე
-vpn-linux-looking-for = ეძებთ VPN-ს თქვენი Linux-კომპიუტერის დასაცავად? { -brand-name-mozilla-vpn } გთავაზობთ ერთადერთ მომსახურებას არამომგებიანი დაწესებულებისგან. გაეცანით, როგორ გიცავთ VPN და რატომ უნდა ენდოთ { -brand-name-mozilla }-ს თქვენი პირადულობისა და უსაფრთხოებისთვის.
+vpn-linux-looking-for = ეძებთ VPN-ს თქვენი Linux-კომპიუტერის დასაცავად? { -brand-name-mozilla-vpn } ერთადერთია, რომელიც გთავაზობთ მომსახურებას არამომგებიანი დაწესებულებისგან. გაეცანით, როგორ გიცავთ VPN და რატომ უნდა ენდოთ { -brand-name-mozilla }-ს თქვენი პირადულობისა და უსაფრთხოებისთვის.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } Linux-ზე მეტად პირადი და დაცული ინტერნეტისთვის
 vpn-linux-linux-is-free = Linux უფასო, ღია წყაროს მქონე და ადვილად მოსარგებია, მაგრამ არაა შეუვალი ინტერნეტიდან მომავალი საფრთხისა და პირადულობის ხარვეზებისგან. მსგავსად სხვა საოპერაციო სისტემების მომხმარებლებისა, Linux-ის მომხმარებლებიც აწყდებიან ცენზურას, მეთვალყურეებსა და ჰაკერებს.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } არის წარმოსახვითი კერძო ქსელის მომსახურება, რომელიც იყენებს ახალთახალ ღია წყაროს მქონე დაშიფვრასა და არ აღრიცხავს, თვალს არ ადევნებს ან არ აზიარებს არანაირ მოქმედებას თქვენი ქსელიდან. საშუალებას გაძლევთ დაუკავშირდეთ 500-ზე მეტ სერვერს 30-ზე მეტ ქვეყანაში.
@@ -26,18 +26,18 @@ vpn-linux-how-to-install = როგორ დავაყენოთ { -brand-
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use-v2 = თუ იყენებთ Ubuntu-ს რომელიმე მხარდაჭერილ გამოშვებას, ორი გზა შეგიძლიათ დააყენოთ mozillavpn ოფიციალური პაკეტების <a { $attrs }>Launchpad:</a>
+vpn-linux-if-you-use-v2 = თუ იყენებთ Ubuntu-ს რომელიმე მხარდაჭერილ გამოშვებას, ორი ხერხით შეგიძლიათ დააყენოთ mozillavpn-ის ოფიციალური კრებულები საცავიდან <a { $attrs }>Launchpad:</a>
 # Obsolete string
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = თუ იყენებთ Ubuntu-ს რომელიმე მხარდაჭერილ გამოშვებას, ორი გზა შეგიძლიათ დააყენოთ mozillavpn ოფიციალური პაკეტების <a { $attrs }>launchpad:</a>
+vpn-linux-if-you-use = თუ იყენებთ Ubuntu-ს რომელიმე მხარდაჭერილ გამოშვებას, ორი ხერხით შეგიძლიათ დააყენოთ mozillavpn-ის ოფიციალური კრებულები საცავიდან <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
-vpn-linux-ubuntu-command = <strong>Ubuntu ბრძანების სტრიქონი:</strong> დაწვრილებითი მითითებები თუ როგორ უნდა დააყენოთ { -brand-name-mozilla-vpn } ბრძანების სტრიქონის ხელსაწყოების გამოყენებით, იხილეთ <a { $attrs }>როგორ დავაყენოთ { -brand-name-mozilla-vpn } Linux კომპიუტერზე</a>.
+vpn-linux-ubuntu-command = <strong>Ubuntu-ს ბრძანებათა შეყვანის რეჟიმით:</strong> დაწვრილებითი მითითებები თუ როგორ უნდა დააყენოთ { -brand-name-mozilla-vpn } ბრძანებათა შესაყვანი ხელსაწყოებით, იხილეთ <a { $attrs }>როგორ დავაყენოთ { -brand-name-mozilla-vpn } Linux-კომპიუტერზე</a>.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
-vpn-linux-ubuntu-graphical = <strong>Ubuntu-ს გრაფიკული ინტერფეისი:</strong> ეწვიეთ <a { $attrs }>ამ სტატიას</a> და მიჰყევით მითითებებს, პირადი პაკეტის არქივების დამატების განყოფილებაში.
+vpn-linux-ubuntu-graphical = <strong>Ubuntu-ს გრაფიკული გარსით:</strong> გაეცანით <a { $attrs }>ამ სტატიას</a> და მიჰყევით მითითებებს პირადი კრებულის არქივის დამატების განყოფილებაში.
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
-vpn-linux-additionally = დამატებით, Linux-ის მხარდაუჭერელი დისტრიბუტორებისთვის, შეგიძლიათ პირველწყარო კოდი აიღოთ და შედგოთ <a { $attrs }>ოფიციალური GitHub-ის საცავიდან</a>.
+vpn-linux-additionally = გარდა ამისა, Linux-ის მხარდაუჭერელი სისტემებისთვის შეგიძლიათ პირველწყარო კოდი მოიძიოთ და გარდაქმნათ პროგრამად <a { $attrs }>ოფიციალური GitHub-საცავიდან</a>.
