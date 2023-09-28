@@ -13,6 +13,7 @@ features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ip
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } oiporu’ive mandu’arenda Chrome-gui, upéicha ambue tembiaporape omba’apo pya’eve.
 features-index-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 features-index-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
+features-index-get-help-creating-new-passwords = Eñepytyvõuka emoheñói hag̃ua ñe’ẽñemi, myanyhẽha jehaipa ñandutípe ha eñepyrũ tembiapo upepete.
 features-index-customize-your-firefox-browser = Emboheraite { -brand-name-firefox } kundahára
 features-index-choose-how-your-browser-looks = Eiporavo mba’éichapa ojehecha ne kundahára heta téma reigua ndive.
 features-index-firefox-browser-sync = { -brand-name-firefox } kundahára ñemboheko

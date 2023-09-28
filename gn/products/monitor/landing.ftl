@@ -21,11 +21,15 @@ monitor-since-2018-we-have-helped = Ary 2018 guive, roipytyvõ yvypóra 237 tet�
 monitor-as-seen-in = Ojehechaháicha
 monitor-here-is-how-we-help = Péicha roipytyvõ eñemo’ã hag̃ua
 monitor-we-believe-in-your-right = Romomba’e nde derécho tekoñemirã, upévare ñemo’ã mba’ekuaarã ñembogua roikuave’ẽ reiete.
+monitor-sign-up-for-breach-alerts = Eñemboheraguapy tog̃uahẽ ñembyai rehegua
 
 ## FAQ section
 
+monitor-faq-heading = Porandu py’ỹiguáva
 monitor-all-faq-link = Ehechapa FAQs
 monitor-faq-what-is-a-data-breach-question = Mba’épa pe mba’ekuaarã ñembyai
+monitor-faq-what-do-i-do-question = Ajuhu ramoite peteĩ mba’ekuaarã ñembyai. Mba’épa ajapokuaa
+monitor-faq-what-gets-exposed-question = Mba’e marandúpa ojehecha mba’ekuaarã ñemboguápe
 monitor-faq-whats-gets-exposed-answer = Ndahetái ñembogua ohechaukáta peteĩ marandúnte. Oikóta mba’ete og̃uahẽ mba’evaiapohape. Heta mba’ekuaarã ñembogua onohẽkuaa ñanduti veve kundaharape ha ñe’ẽñemi. Ambue onohẽ marandu ñemigua, kuatia’atã ñemurã papapy, pasaporte ha seguridad social papapy.
 
 ##
