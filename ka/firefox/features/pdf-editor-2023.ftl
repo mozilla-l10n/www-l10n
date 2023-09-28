@@ -8,7 +8,7 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-ის ჩასწორება
 # page title
-pdf-editor-add-text-to-pdfs = დაამატეთ ტექსტი PDF-ს { -brand-name-firefox }-ის PDF-ჩამსწორებლით
+pdf-editor-add-text-to-pdfs = დაამატეთ PDF-ს ტექსტი { -brand-name-firefox }-ის PDF-ჩამსწორებლით
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = იხილეთ და ჩაასწორეთ PDF-ფაილები პირდაპირ { -brand-name-firefox }-ში.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = თუ PDF-დოკუმენტში მასალის დამატება გესაჭიროებათ, ახლა უკვე შეგიძლიათ ამის გაკეთება ვებგვერდზევე { -brand-name-firefox }-ით. გახსენით PDF { -brand-name-firefox }-ში და ზედა მარჯვენა კუთხეში ტექსტის ან დახატვის ღილაკებს დააწკაპეთ დოკუმენტში ცვლილებების შესატანად. ჩამოტვირთეთ ფაილი ცვლილებების შესანახად.
