@@ -23,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Na voljo je še novejši { -brand-name-fi
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Preberite v <a href="{ $url }">opombah ob izdaji</a>, kaj vse je še novega v vašem { -brand-name-firefox }u.
+whatsnew-signoff = <strong>Izdelek { -brand-name-mozilla(sklon: "rodilnik") }.</strong> Ljudi postavljamo pred dobiček že od leta 1998.

@@ -16,3 +16,9 @@ features-private-browsing-private-browsing-mode-opens = Način zasebnega brskanj
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Okno brskalnika { -brand-name-firefox } v načinu zasebnega brskanja.
 features-private-browsing-what-private-browsing-doesnt-do = Česa zasebno brskanje ne počne
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Način zasebnega brskanja ne bo izbrisal novih zaznamkov, ki jih boste ustvarili v oknu zasebnega brskanja, ali vas ščitil pred virusi in zlonamerno programsko opremo. Prav tako pred spletnimi mesti ne zakriva vaše fizične lokacije ali preprečuje vašemu ponudniku internetnih storitev, da bi beležil vašo dejavnost. Za to potrebujete <a href="{ $vpn }">zaupanja vreden VPN</a>.
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Primerjajte { -brand-name-firefox }ovo zasebno brskanje s <a href="{ $chrome }">Chromovim načinom brez beleženja zgodovine</a>.
