@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
@@ -42,7 +42,7 @@ mobile-compare-desktop-mode = Modo de versão do site no computador
 mobile-compare-find-on-page = Procurar na página
 mobile-compare-image-search = Pesquisa de imagem
 mobile-compare-voice-search = Pesquisa por voz
-mobile-compare-add-to-homescreen = Adicionar à tela inicial
+mobile-compare-add-to-homescreen = Adicionar à tela do dispositivo
 mobile-compare-read-text-aloud = Ler texto em voz alta
 mobile-compare-news-feed = Fonte de notícias
 mobile-compare-collections = Coleções
