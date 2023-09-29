@@ -24,7 +24,7 @@ firefox-browsers-download-for-mobile = Stáhnout pro mobil
 firefox-browsers-send-me-a-link = Pošlete mi odkaz
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-get-unmatched-data-protection = Získejte bezkonkurenční ochranu dat s podpůrnými cykly přizpůsobenými potřebám vaší společnosti.
-firefox-browsers-enterprise-packages = Balíčky pro podniky
+firefox-browsers-enterprise-packages = Balíčky pro { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Překročte hranici dvou dimenzí a vychutnejte si pohlcující obsah z celého webu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -22,7 +22,7 @@ firefox-enterprise-deploy-when-and-how-you-want = Nasaďte kde a jak chcete
 firefox-enterprise-with-install-packages-and = Díky instalačním balíčkům a širokému spektru zásad skupiny a funkcí je nasazení rychlejší a flexibilnější než kdykoli předtím – a v prostředích { -brand-name-windows } a { -brand-name-mac } je to hračka.
 firefox-enterprise-choose-your-release-cadence = Zvolte si tempo vydávání nových verzí
 firefox-enterprise-get-rapid-releases-to-make = Pořiďte si standardní verzi, abyste si zajistili rychlejší přísun nejnovějších funkcí, nebo si pořiďte verzi ESR, která vám zaručí mimořádně stabilní prostředí.
-firefox-enterprise-enterprise-downloads = Stažení pro podniky
+firefox-enterprise-enterprise-downloads = Stažení pro { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Vyberte verzi
