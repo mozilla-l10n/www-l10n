@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Luo { -brand-name-mozilla-account } – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Luo { -brand-name-firefox-account } – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
 # HTML page description
 firefox-accounts-securely-sync-your = Synkronoi salasanasi, kirjanmerkkisi ja välilehtesi kaikilla laitteillasi. Luo { -brand-name-firefox-account } nyt – Yksi kirjautuminen – Voimaa ja yksityisyyttä kaikkialla.
 firefox-accounts-enter-your-email-address = Anna sähköpostiosoitteesi aloittaaksesi.
 firefox-accounts-already-have-an-account = Onko sinulla jo tili?
 firefox-accounts-sign-in = Kirjaudu sisään
+# Obsolete string
 firefox-accounts-already = Sinulla on jo { -brand-name-firefox-account }. Onnittelut!
+mozilla-accounts-already = Sinulla on jo { -brand-name-mozilla-account }. Onnittelut!
 firefox-accounts-manage = Hallinnoi tiliä
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Kirjaudu { -brand-name-mozilla-account }llesi, niin voit:
+# Obsolete string
 firefox-accounts-sign-in-to = Kirjaudu { -brand-name-firefox-account }llesi, niin voit:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Tutustu yksityisyyttä suojaavien tuotteiden perheeseemme.
