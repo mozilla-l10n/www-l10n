@@ -61,6 +61,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Conheça as quatro categorias
 firefox-privacy-hub-always-in-your-control = Sempre sob seu controle
 firefox-privacy-hub-want-to-customize-what = Quer personalizar o que é bloqueado? Suas configurações estão a apenas um clique de distância.
 firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-name-firefox-account }, também pode ver como estamos te ajudando a proteger suas senhas e informações pessoais.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -77,9 +78,21 @@ firefox-privacy-hub-send-a-file = Enviar um arquivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta qualidade selecionados por pessoas, sem coletar seu histórico de navegação nem compartilhar suas informações pessoais com anunciantes.
 firefox-privacy-hub-get-pocket = Instale o { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Sua { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Sua { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Todas as informações sincronizadas através da sua { -brand-name-mozilla-account } são criptografadas, desde o histórico de navegação até as senhas. A única chave de acesso é a senha da sua conta.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Todas as informações sincronizadas através de sua { -brand-name-firefox-account } são criptografadas, desde o histórico de navegação até as senhas. A única chave de acesso é a senha da sua conta.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Leve sua privacidade e seus favoritos para qualquer lugar com uma { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Leve sua privacidade e seus favoritos para qualquer lugar com uma { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Já tem uma conta? <a { $sign_in } class="{ $class_name }">Entre</a> ou <a href="{ $learn_more }">saiba mais</a> sobre como participar da { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

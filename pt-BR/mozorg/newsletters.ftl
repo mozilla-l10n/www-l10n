@@ -56,8 +56,11 @@ newsletters-please-select-language = Selecione um idioma
 # Form field label
 newsletters-format = Formato:
 newsletters-text-subscribers-will-receive = Inscritos no modo texto recebem um email duas vezes ao ano para confirmar se querem manter a inscrição. Esses emails podem incluir formatação HTML.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+# Obsolete string
 newsletters-many-of-our-communications = Muitas de nossas comunicações são relacionadas a uma conta em que você se inscreveu, como { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } ou desenvolvedor de extensões. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de suporte de gerenciamento de contas</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -293,6 +296,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Avisos especiais, para te ajudar a aproveitar a { -brand-name-webmaker } ao máximo.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts(capitalization: "uppercase") }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Receba dicas da { -brand-name-mozilla } sobre como aproveitar ao máximo sua conta.

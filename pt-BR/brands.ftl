@@ -115,6 +115,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Conta Mozilla
+-brand-name-mozilla-accounts = Contas Mozilla
 
 ## Mozilla projects (short names)
 
