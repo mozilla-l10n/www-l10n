@@ -11,8 +11,8 @@ mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-na
 firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – Προστασία και συγχρονισμός δεδομένων
 # HTML page description
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
-firefox-accounts-enter-your-email-address = Εισάγετε τη διεύθυνση email σας για να ξεκινήσετε.
-firefox-accounts-already-have-an-account = Έχετε ήδη λογαριασμό;
+firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.
+firefox-accounts-already-have-an-account = Διαθέτετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
 # Obsolete string
 firefox-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
@@ -26,7 +26,7 @@ firefox-accounts-sign-in-to = Συνδεθείτε στον { -brand-name-firefo
 firefox-accounts-meet-our-family-of = Γνωρίστε την οικογένεια των ιδιωτικών προϊόντων μας.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
-firefox-accounts-send-a-tab = <a href="{ $send }">Αποστολή καρτελών</a> σε μια άλλη συσκευή
+firefox-accounts-send-a-tab = <a href="{ $send }">Αποστολή καρτελών</a> σε άλλη συσκευή
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Αποθήκευση και συγχρονισμό κωδικών πρόσβασης</a>
@@ -37,7 +37,7 @@ firefox-accounts-protect-your-identity = Προστασία της ταυτότ�
 firefox-accounts-keep-your-passwords = Προστασία και φορητότητα κωδικών πρόσβασης.
 firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσεων δεδομένων.
 firefox-accounts-travel-the-internet = Περιήγηση στο διαδίκτυο με ασφάλεια, σε κάθε συσκευή.
-firefox-accounts-encrypt-your = Κρυπτογράφηση της δραστηριότητας του δικτύου σας και απόκρυψη της διεύθυνσης IP σας
+firefox-accounts-encrypt-your = Κρυπτογράφηση της δραστηριότητας και απόκρυψη της διεύθυνσης IP σας
 firefox-accounts-we-never = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας
 firefox-accounts-save-articles = Αποθήκευση άρθρων από όλο το διαδίκτυο
 firefox-accounts-read-in-a = Ανάγνωση σε έναν ήσυχο, ιδιωτικό χώρο
