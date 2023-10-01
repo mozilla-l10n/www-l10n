@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
@@ -21,22 +22,29 @@ hero-section-social-proof = Como se vio en
 ## HOW IT WORKS SECTION
 
 how-it-works-section-title = Cómo funciona el enmascaramiento de correo electrónico y teléfono de { -brand-name-relay }
-
 how-it-works-section-extension-headline = Utiliza máscaras de correos electrónicos y máscaras telefónicas de { -brand-name-relay } en cualquier lugar
 how-it-works-section-extension-body = Obtén máscaras de correo electrónico seguras y aleatorias y un número de teléfono enmascarado único para usar cada vez que un sitio web, una aplicación, una tienda o un restaurante soliciten tu información.
-
 how-it-works-section-forward-headline = Te reenviaremos correos electrónicos, llamadas telefónicas y mensajes de texto
 how-it-works-section-forward-body = Puedes estar seguro de que los remitentes nunca sabrán tu dirección de correo electrónico real o tu número real. Incluso puedes responder a mensajes de texto y correos electrónicos sin compartir tu verdadera identidad.
-
 how-it-works-section-manage-headline = Administra tus máscaras desde tu panel de { -brand-name-relay }
 how-it-works-section-manage-body = Inicia sesión en tu panel de { -brand-name-relay } para crear máscaras nuevas, etiquetar máscaras existentes y bloquear llamadas, mensajes de texto o correos electrónicos de máscaras que reciben demasiado spam.
 
 ## REVIEWS SECTION
 
+landing-reviews-title = Reseñas
 landing-reviews-logo-title = { -brand-name-firefox-browser }
 landing-reviews-add-ons = Complementos
 # Do not localize addons.mozilla.org
 landing-reviews-details-source = Fuente: addons.mozilla.org
+# This string is displayed in a smaller font under a big number representing the average review score (e.g. "4.2").
+# In English the two together will read something like "_4.2_ out of 5 (328 reviews)"
+# Variables:
+#   $review_count (number): total number of reviews
+landing-reviews-out-of-5 =
+    { $review_count ->
+        [one] de 5 ({ $review_count } reseña)
+       *[other] de 5 ({ $review_count } reseñas)
+    }
 landing-reviews-show-next-button = mostrar la próxima reseña
 landing-reviews-show-previous-button = mostrar la reseña anterior
 landing-review-anonymous-user = Usuario { $user_id } de { -brand-name-firefox }
