@@ -34,6 +34,7 @@ home-the-mozilla-project = Projekt { -brand-name-mozilla } se je začel v San Fr
 home-eventually-the-open = Sčasoma se je iz odprtokodnega projekta { -brand-name-mozilla } rodila izjemno priljubljena prva različica { -brand-name-firefox(sklon: "rodilnik") }.
 home-today-mozilla-continues = Danes { -brand-name-mozilla } nadaljuje svoje gibanje za boljši internet z milijoni dejavnih članov po vsem svetu, ki se zavzemajo za etično tehnologijo, zaupanja vredno umetno inteligenco in ustvarjajo izdelke, ki moč odločanja dajejo ljudem.
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
+home-get-good-news = { -brand-name-mozilla(sklon: "dajalnik") }ne (dobre) novice
 home-get-news-and-tips = Naročite se na novice in nasvete { -brand-name-mozilla(sklon: "rodilnik") }, ki vam bodo pomagali ostati varni in obveščeni o vsem blagodejnem dogajanju na spletu.
 # VPN Feature
 home-featured-product = Priporočamo
