@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = Το { -brand-name-brave } διαφ�
 compare-brave-the-internet-as-a-whole-is = Το διαδίκτυο στο σύνολό του πληρώνεται σε μεγάλο βαθμό από τις διαφημίσεις, ώστε να παραμένει δωρεάν το περιεχόμενο που θέλετε να βλέπετε. Το { -brand-name-brave } έχει προσπαθήσει να βελτιώσει αυτό το μοντέλο ενθαρρύνοντας τους χρήστες του να εγγραφούν στο σύστημα επιβράβευσης { -brand-name-brave }, το οποίο στην πραγματικότητα, αποτελεί επίσης πλατφόρμα διαφημίσεων. Μόλις εγγραφεί ο χρήστης, το { -brand-name-brave } θα εμφανίζει “διαφημίσεις που σέβονται το απόρρητο” για τις οποίες μπορείτε να δείτε και να κερδίσετε ένα Basic Attention Token (BAT). Σε αυτό το σημείο, οι χρήστες του { -brand-name-brave } μπορούν να ξοδέψουν τα BATs τους υποστηρίζοντας αγαπημένους δημιουργούς ή ιστότοπους, οι οποίοι μπορούν να μετατρέψουν τα BATs σε πραγματικό νόμισμα.
 compare-brave-whether-this-sounds-complicated = Είτε σας ακούγεται περίπλοκο ή είτε ευφυές, εξαρτάται μάλλον από το επίπεδο ανοχής σας για την προβολή διαφημίσεων στο Διαδίκτυο. Οι περισσότεροι χρήστες κατανοούν ότι το καλό περιεχόμενο κοστίζει χρήματα και συμφωνούν με το γεγονός ότι τα χρήματα προέρχονται από διαφημίσεις.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Από την άλλη, με το { -brand-name-firefox }, προτιμούμε να διατηρούμε τα πράγματα απλά. Το { -brand-name-firefox } αποκλείει τους ιχνηλάτες τρίτων, τα cryptominers και τα fingerprinters, από προεπιλογή. Ωστόσο, το { -brand-name-firefox }, εκτός της λειτουργίας ιδιωτικής περιήγησης, επιλέγει να μην εμποδίζει την εμφάνιση διαφημίσεων, εκτός αν εγκαταστήσετε <a { $attrs }>κάποια από τις επεκτάσεις που έχουν σχεδιαστεί ειδικά για το σκοπό αυτό</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Ο συγχρονισμός �
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Το { -brand-name-firefox } επιτρέπει επίσης στους χρήστες να δημιουργήσουν έναν δωρεάν <a { $accounts }>{ -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a>. Ένας { -brand-name-mozilla-account(case: "nom", capitalization: "lower") } αποτελεί το κλειδί για τον συγχρονισμό μεταξύ των συσκευών σας, ενώ παρέχει και επιπρόσθετα οφέλη, όπως το <a { $monitor }>{ -brand-name-firefox-monitor }</a>, που εποπτεύει τις διευθύνσεις email σας και σας ειδοποιεί αν έχουν διαρρεύσει οι πληροφορίες σας σε γνωστές <a { $breaches }>παραβιάσεις δεδομένων</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Το { -brand-name-firefox } επιτρέπει στους χρήστες να δημιουργήσουν έναν δωρεάν <a { $accounts }>{ -brand-name-firefox-account(case: "acc", capitalization: "lower") }</a>. Ο λογαριασμός { -brand-name-firefox } είναι το κλειδί για το συγχρονισμό σε όλες τις συσκευές σας, ενώ παρέχει και το <a { $monitor }>{ -brand-name-firefox-monitor }</a>, που εποπτεύει τις διευθύνσεις email σας και σας ειδοποιεί αν διαρρεύσουν οι πληροφορίες σας σε γνωστές <a { $breaches }>παραβιάσεις δεδομένων</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Επίσης, το { -brand-name-brave } απέκτησε πρόσφατα τη δυνατότητα συγχρονισμού δεδομένων μεταξύ των πιο δημοφιλών λειτουργικών συστημάτων και συσκευών, καθώς και με την πρόσθετη δυνατότητα συγχρονισμού των Basic Attention Tokens σας.

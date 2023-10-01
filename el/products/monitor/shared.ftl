@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Όλες οι παραβιάσεις
 ## Footer
 
 monitor-shared-footer-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
+monitor-shared-footer-terms-of-service = Όροι υπηρεσίας
+monitor-shared-footer-privacy-policy = Πολιτική απορρήτου
+# Outdated string
 monitor-shared-footer-terms-and-privacy = Όροι και απόρρητο
 monitor-shared-footer-github = GitHub

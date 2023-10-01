@@ -61,6 +61,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Γνωρίστε τις τέ�
 firefox-privacy-hub-always-in-your-control = Πάντα υπό τον έλεγχό σας
 firefox-privacy-hub-want-to-customize-what = Θέλετε να αλλάξετε ποια στοιχεία αποκλείονται; Οι ρυθμίσεις σας απέχουν μόνο ένα κλικ.
 firefox-privacy-hub-protection-beyond-tracking = Προστασία πέρα από την καταγραφή
+firefox-privacy-hub-if-you-have-a-mozilla-account = Αν διαθέτετε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }, μπορείτε να δείτε πώς σας βοηθούμε με την προστασία των προσωπικών δεδομένων και των κωδικών πρόσβασής σας.
 # Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Αν έχετε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") }, μπορείτε να δείτε πώς σας βοηθούμε στην προστασία των προσωπικών δεδομένων και τους κωδικών πρόσβασής σας.
 # Variables:
@@ -78,10 +79,13 @@ firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.
 firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Ο { -brand-name-mozilla-account(case: "nom", capitalization: "lower") } σας
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account(case: "nom", capitalization: "lower") } σας
+firefox-privacy-hub-all-the-information-synced-v2 = Όλες οι πληροφορίες που συγχρονίζονται μέσω του { -brand-name-mozilla-account(case: "gen", capitalization: "lower") } σας — από το ιστορικό μέχρι τους κωδικούς πρόσβασης — κρυπτογραφούνται. Και ο κωδικός πρόσβασης του λογαριασμού σας είναι το μόνο κλειδί.
 # Obsolete string
 firefox-privacy-hub-all-the-information-synced = Όλες οι πληροφορίες που συγχρονίζονται μέσω του { -brand-name-firefox-account(case: "gen", capitalization: "lower") } σας — από το ιστορικό μέχρι τους κωδικούς πρόσβασης — είναι κρυπτογραφημένες. Και ο κωδικός πρόσβασης του λογαριασμού σας είναι το μόνο κλειδί.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Μεταφέρετε το απόρρητο και τους σελιδοδείκτες σας παντού με έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Πάρτε το απόρρητο και τους σελιδοδείκτες σας παντού με έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
 # Variables:

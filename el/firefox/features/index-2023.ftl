@@ -13,6 +13,7 @@ features-index-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox
 features-index-firefox-uses-less-memory-than = Το { -brand-name-firefox } χρησιμοποιεί λιγότερη μνήμη από το Chrome, ώστε τα άλλα σας προγράμματα να λειτουργούν με τη μέγιστη ταχύτητα.
 features-index-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό πρόγραμμα περιήγησης;
 features-index-free-password-manager = Δωρεάν διαχείριση κωδικών πρόσβασης
+features-index-firefox-browser-sync = Συγχρονισμός { -brand-name-firefox }
 features-index-bookmark-manager = Διαχείριση σελιδοδεικτών
 features-index-organize-your-bookmarks-with = Οργανώστε τους σελιδοδείκτες σας με φακέλους και ετικέτες.
 features-index-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης

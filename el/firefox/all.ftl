@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -20,7 +20,7 @@ firefox-all-lang-multi = Πολλαπλές γλώσσες
 firefox-all-sorry-we-couldnt-find = Λυπούμαστε, αλλά δεν ήταν δυνατή η εύρεση της λήψης που ψάχνετε. Δοκιμάστε ξανά ή επιλέξτε μια λήψη από την παρακάτω λίστα.
 firefox-all-the-pre-alpha-version = Η pre-alpha έκδοση για έμπειρους χρήστες που τους αρέσει ο έλεγχος σφαλμάτων και η δοκιμή νέων λειτουργιών, πριν κυκλοφορήσουν.
 firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 64-bit
-firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα - πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
+firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα — πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 32-bit
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
