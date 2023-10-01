@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Ποιες είναι οι αποδεκτ
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = Το { -brand-name-firefox-relay } έχει τις ίδιες <a href="{ $url }" { $attrs }>προϋποθέσεις χρήσης με όλα τα προϊόντα { -brand-name-mozilla }</a>. Έχουμε μια πολιτική μηδενικής ανοχής όσον αφορά τη χρήση του { -brand-name-relay } για κακόβουλους σκοπούς, όπως ανεπιθύμητα μηνύματα, που οδηγούν σε τερματισμό ενός λογαριασμού χρήστη. Λαμβάνουμε μέτρα για την αποτροπή της παραβίασης των όρων μας:
+faq-question-acceptable-use-answer-measure-account-v2 = Απαιτώντας έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } με επαληθευμένη διεύθυνση email
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Απαιτώντας έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } με επαληθευμένη διεύθυνση email
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Απαιτώντας πληρωμή από τον χρήστη για τη δημιουργία πάνω από πέντε μασκών
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Περιορίζοντας τον αριθμό των μασκών που μπορούν να δημιουργηθούν σε μία ημέρα

@@ -36,7 +36,9 @@ sub-navigation-firefox-for-mobile = { -brand-name-firefox } για κινητά
 sub-navigation-android-addons = Πρόσθετα { -brand-name-android }
 sub-navigation-android-add-ons = Πρόσθετα { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(case: "nom", capitalization: "upper") }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account(case: "nom", capitalization: "upper") }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
