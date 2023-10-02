@@ -16,3 +16,9 @@ features-private-yes-firefox-protects-your = Sim. O { -brand-name-firefox } prot
 features-private-firefox-also-protects-your = O { -brand-name-firefox } também protege sua privacidade com a <a href="{ $url }">proteção aprimorada contra rastreamento</a>, bloqueando rastreadores que tentam te seguir de um site para outro e coletar informações sobre seus hábitos de navegação. Ele também tem proteções contra scripts prejudiciais e malware.
 features-private-sidenote-we-are-not-big-tech = <em>Nota:</em> Não somos uma grande empresa de tecnologia. Fazemos as coisas de maneira diferente. Ser independente (sem acionistas) nos permite colocar as pessoas em primeiro lugar, antes do lucro. Diferente de outras empresas, não vendemos acesso aos seus dados.
 features-private-what-information-does-firefox = Que informações o { -brand-name-firefox } coleta?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = A { -brand-name-mozilla } (produtora do { -brand-name-firefox }) leva sua privacidade a sério, <strong>muito sério</strong>. De fato, cada produto { -brand-name-firefox } que fazemos honra nosso <a href="{ $url }">compromisso de como lidar com dados pessoais</a>: Coletar menos. Manter seguro. Sem segredos.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Leia mais informações no <a href="{ $url }">aviso de privacidade do { -brand-name-firefox }</a>. Sério, dê uma olhada. Está em letras de tamanho normal e tudo mais.
