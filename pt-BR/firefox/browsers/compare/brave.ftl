@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = O { -brand-name-brave } se diferenci
 compare-brave-the-internet-as-a-whole-is = A internet como um todo é amplamente sustentada pela exibição de anúncios, o que mantêm gratuito o conteúdo real que você quer ver. O { -brand-name-brave } tentou mudar esse modelo, incentivando seus usuários a optar pelo sistema de recompensas do próprio { -brand-name-brave }, que na verdade é a plataforma de anúncios deles. Após o usuário aceitar, o { -brand-name-brave } exibe o que eles chamam de “anúncios que respeitam a privacidade”. Então o usuário passa a ver esses anúncios e ganhar o que chamam de Basic Attention Token, ou BAT. A partir daí, os usuários do { -brand-name-brave } podem escolher gastar seus BATs no apoio aos sites ou colaboradores individuais que gostam. Esses por sua vez podem converter os BATs em moeda de verdade.
 compare-brave-whether-this-sounds-complicated = Quer soe complicado ou pareça uma ótima ideia, provavelmente depende do seu nível de desprezo pela exibição de publicidade na internet. A maioria dos usuários da internet entende que conteúdo bom custa dinheiro e aceita o fato de que esse dinheiro vem da publicidade.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Por outro lado, no navegador { -brand-name-firefox } preferimos manter as coisas simples. O { -brand-name-firefox } bloqueia por padrão muitos rastreadores de terceiros, criptomineradores e rastreadores de identidade digital, impedindo que sigam você. No entanto, fora do modo de navegação privativa, o { -brand-name-firefox } opta por não impedir a exibição de anúncios que não têm rastreadores. A menos que você instale <a { $attrs }>uma das extensões projetadas especificamente para essa finalidade</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = A capacidade de sincronizar s
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = O navegador { -brand-name-firefox } também oferece aos usuários a possibilidade de criar uma <a { $accounts }>{ -brand-name-mozilla-account }</a> gratuita. Ter uma { -brand-name-mozilla-account } é a chave para poder ter sincronização entre dispositivos, além de benefícios adicionais de produtos como o <a { $monitor }>{ -brand-name-firefox-monitor }</a>, que monitora seus endereços de email e envia alertas caso algumas de suas informações tenham sido expostas em <a { $breaches }>vazamentos de dados</a> conhecidos.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = O navegador { -brand-name-firefox } também oferece aos usuários a possibilidade de criar uma <a { $accounts }>{ -brand-name-firefox-account }</a> gratuita. Ter uma Conta { -brand-name-firefox } é a chave para liberar a sincronização entre dispositivos, além dos benefícios adicionais de produtos como o <a { $monitor }>{ -brand-name-firefox-monitor }</a>, que monitora seus endereços de email e envia alertas caso alguma de suas informações esteja em <a { $breaches }>vazamentos de dados</a> conhecidos.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = O { -brand-name-brave } também ganhou recentemente a habilidade de sincronizar dados nos sistemas operacionais e dispositivos mais populares, além da capacidade adicional de sincronizar seus BATs.

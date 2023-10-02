@@ -36,6 +36,10 @@ compare-safari-in-addition-to-the-regular = Além do conjunto normal de recursos
 compare-safari-like-safari-firefox-encourages = Assim como o { -brand-name-safari }, o { -brand-name-firefox } incentiva sua entusiasta comunidade de desenvolvedores a criar <a { $attrs }>extensões</a> para o navegador. E como nossa plataforma é de código aberto, há uma vasta seleção que adiciona uma grande variedade de funcionalidades.
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Além disso, ao criar uma { -brand-name-mozilla-account }, você obtém acesso a serviços exclusivos, como o <a { $pocket }>{ -brand-name-pocket }</a>, que se integra diretamente ao navegador. O botão { -brand-name-pocket } no { -brand-name-firefox } permite salvar páginas web e vídeos no { -brand-name-pocket } com apenas um clique, assim você pode ler uma versão limpa e sem distrações, quando e onde quiser, mesmo offline.
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Além disso, ao criar uma Conta { -brand-name-firefox }, você obtém acesso a serviços exclusivos, como o <a { $pocket }>{ -brand-name-pocket }</a>, que se integram diretamente ao navegador. O botão { -brand-name-pocket } no { -brand-name-firefox } permite salvar páginas web e vídeos no { -brand-name-pocket } com apenas um clique, assim você pode ler uma versão limpa e sem distrações, quando e onde quiser — mesmo offline.
 # Obsolete string
 # Variables:
@@ -56,6 +60,7 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Captura de tela</a
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = Tanto o { -brand-name-firefox } como o { -brand-name-safari } oferecem uma experiência suave ao passar do computador para o celular e vice-versa. No { -brand-name-safari }, um dos principais pontos fortes é o recurso de continuidade. Ele sincroniza seus favoritos, abas, histórico e muito mais com o iCloud para que estejam disponíveis em todos os seus dispositivos. Significa que você pode abrir uma aba no { -brand-name-iphone } e fazer ela aparecer no laptop { -brand-name-mac } com apenas um clique.
 compare-safari-both-browsers-have-a-lot = Ambos os navegadores têm muitos recursos em comum, assim como algumas funções exclusivas. Vale ressaltar, caso você faça muitas capturas de tela, se perguntar como viveu sem esse recurso útil que vem integrado no { -brand-name-firefox }. Mas se está apenas procurando um navegador rápido e privativo para navegar e fazer compras, experimente o { -brand-name-firefox } — especialmente se estiver usando somente o { -brand-name-safari } porque ele veio instalado como o navegador padrão no seu computador. Eventualmente, você descobrirá qual é o mais adequado às suas necessidades.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = O { -brand-name-firefox } também oferece um recurso de sincronização semelhante quando você cria uma <a { $attrs }>{ -brand-name-firefox-account }</a> gratuita, que permite sincronizar facilmente seus favoritos, histórico de navegação, preferências, senhas, preenchimento de formulários, extensões e as últimas 25 abas abertas em vários dispositivos. O que diferencia o { -brand-name-firefox } do { -brand-name-safari } é que ele está disponível em qualquer plataforma de computador ou celular, { -brand-name-ios }, { -brand-name-android }, { -brand-name-windows }, Linux e { -brand-name-mac }, aumentando sua portabilidade para qualquer dispositivo que você possua.
