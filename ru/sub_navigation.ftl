@@ -38,7 +38,7 @@ sub-navigation-android-add-ons = Дополнения для { -brand-name-andro
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
-sub-navigation-mozilla-accounts = { -brand-name-mozilla-accounts }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = 64-битная { -brand-name-windows }
