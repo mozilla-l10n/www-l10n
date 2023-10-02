@@ -24,12 +24,45 @@ navigation-v2-simply-private-mobile = Jednostavno privatno mobilno pretraživanj
 navigation-v2-privacy-promise = Obećanje privatnosti
 navigation-v2-learn-how-firefox-treats = Saznaj kako { -brand-name-firefox } poštuje tvoje podatke.
 navigation-v2-firefox-blog = { -brand-name-firefox } blog
+navigation-v2-read-about-new-firefox-features = Čitajte o novim { -brand-name-firefox } mogućnostima i dobijte savjete kako ostati siguran na internetu.
+navigation-v2-release-notes = Napomene o izdanju
+navigation-v2-get-the-details-on-the = Saznajte detalje o najnovijim { -brand-name-firefox } ažuriranjima.
+navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = Proizvodi
+navigation-v2-close-products-menu = Zatvori meni za proizvode
+navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-see-if-your-email-has = Provjerite da li se vaš e-mail pojavio u curenju podataka iz kompanije.
+navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Sačuvajte i otkrijte najbolje priče sa cijelog weba.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Pomozite spriječiti { -brand-name-facebook } da prikuplja vaše podatke van svoje web stranice.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Dobijte zaštitu van vašeg pretraživača, na svim svojim uređajima.
+navigation-v2-product-promise = Obećanje proizvoda
+navigation-v2-learn-how-each-firefox-product = Saznajte kako svaki { -brand-name-firefox } proizvod štiti i poštuje vaše podatke.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
+navigation-v2-sign-up-for-new-accounts = Registrujte se za nove račune bez davanja email adrese.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Nove funkcije i alati za prilagođeno { -brand-name-mdn } iskustvo
+navigation-v2-view-all-products = Pogledajte sve proizvode
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Ko smo mi
+navigation-v2-close-who-we-are-menu = Zatvori meni Ko smo mi
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+navigation-v2-learn-about-the-values = Naučite o vrijednostima i principima koji vode našu misiju.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = Upoznajte neprofitnu organizaciju koja stoji iza { -brand-name-firefox } koja se bori bolji web.
+navigation-v2-get-involved = Uključite se
+navigation-v2-join-the-fight-for-a = Pridružite se borbi za zdrav internet.
+navigation-v2-leadership = Rukovodstvo
+navigation-v2-meet-the-team-thats-building = Upoznajte tim koji gradi tehnologiju za bolji internet.
+navigation-v2-careers = Karijere
 
 ## Innovation menu
 
