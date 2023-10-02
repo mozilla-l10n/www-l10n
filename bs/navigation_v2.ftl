@@ -63,6 +63,26 @@ navigation-v2-join-the-fight-for-a = Pridružite se borbi za zdrav internet.
 navigation-v2-leadership = Rukovodstvo
 navigation-v2-meet-the-team-thats-building = Upoznajte tim koji gradi tehnologiju za bolji internet.
 navigation-v2-careers = Karijere
+navigation-v2-work-for-a-mission-driven-updated = Radite za organizaciju sa jasnom vizijom i čiji proizvodi stavljaju ljude na prvo mjesto.
+navigation-v2-mozilla-blog = { -brand-name-mozilla } blog
+navigation-v2-learn-about-mozilla-and = Saznajte više o { -brand-name-mozilla } i problemima koji su nam važni.
+navigation-v2-stories = Priče
+navigation-v2-stories-about-how = Priče o tome kako naši ljudi i proizvodi mijenjaju svijet na bolje.
+navigation-v2-more-about-mozilla = Više o { -brand-name-mozilla }
 
 ## Innovation menu
 
+navigation-v2-innovation = Inovacije
+navigation-v2-close-innovation-menu = Zatvorite meni Inovacije
+navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
+navigation-v2-gather-in-this-interactive-online = Okupite se u ovom interaktivnom, online, višedimenzionalnom društvenom prostoru.
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Preuzmite { -brand-name-firefox } pretraživač napravljen samo za programere.
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Na početnoj stranici potražite resurse za web programere.
+navigation-v2-firefox-reality = { -brand-name-firefox-reality }
+navigation-v2-explore-the-web-with-the = Istražite web pomoću { -brand-name-firefox } pretraživača za virtuelnu stvarnost.
+navigation-v2-common-voice = { -brand-name-common-voice }
+navigation-v2-donate-your-voice-so-the-future = Pozajmite svoj glas kako bi budućnost interneta doprijela do svakoga.
+navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Saznajte više o novom programskom jeziku niske razine, sličnom asembleru.
