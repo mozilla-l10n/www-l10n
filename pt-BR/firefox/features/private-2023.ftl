@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } é um navegador privativo?
+# HTML description
+features-private-were-focused-on-your-right-to = Temos como foco seu direito à privacidade. Seus dados, sua atividade na web, sua vida online estão protegidos com o { -brand-name-firefox }.
 features-private-what-information-does-firefox = Que informações o { -brand-name-firefox } coleta?
