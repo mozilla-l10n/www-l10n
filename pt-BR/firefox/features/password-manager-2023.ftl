@@ -10,6 +10,9 @@ password-manager-free-password-manager = Gerenciador de senhas gratuito
 # HTML page description
 password-manager-firefox-password-manager-saves-all = O gerenciador de senhas do { -brand-name-firefox } salva todas as suas senhas em um só lugar para que você possa entrar em contas de sites automaticamente ou recuperar senhas salvas.
 password-manager-firefox-securely-stores-your = O { -brand-name-firefox } armazena com segurança seus nomes de usuário e senhas para acessar sites, preenche automaticamente na próxima vez que você visitar um site e permite gerenciar suas contas armazenadas com seu recurso integrado de gerenciamento de senhas.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a>, você pode sincronizar com segurança suas senhas em todos os seus dispositivos.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
