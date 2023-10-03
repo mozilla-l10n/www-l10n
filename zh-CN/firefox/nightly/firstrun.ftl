@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
@@ -9,7 +9,7 @@ nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } 首次运行�
 nightly-firstrun-thank-you-for-using = 感谢您使用 { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = 挑一个您感兴趣的参与领域，一起让 { -brand-name-firefox } 更好服务世界各地的用户吧
 nightly-firstrun-test = 测试
-nightly-firstrun-find-and-file-bugs = 找到并报告缺陷，确保各种功能正常运行。
+nightly-firstrun-find-and-file-bugs = 寻找并报告缺陷，确保各项功能正常运行。
 nightly-firstrun-start-testing = 开始测试
 nightly-firstrun-code = 编写代码
 nightly-firstrun-file-bugs-and-work = 提交缺陷报告，参与 { -brand-name-firefox } 浏览器各组件的开发过程。
