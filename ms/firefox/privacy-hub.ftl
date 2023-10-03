@@ -111,6 +111,11 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Bawa privasi dan tandab
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Bawa privasi dan tandabuku anda ke mana sahaja dengan { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Sudah ada akaun? <a { $sign_in } class="{ $class_name }">Daftar Masuk</a> atau <a href="{ $learn_more }">ketahui lebih lanjut</a> tentang menyertai { -brand-name-mozilla }.
 
 # Obsolete string
 # Variables:

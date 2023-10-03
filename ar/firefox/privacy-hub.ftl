@@ -111,6 +111,11 @@ firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = خذ خصوصيتك و�
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = خذ خصوصيتك والإشارات المرجعية إلى كل مكان بفضل { -brand-name-firefox-account }.
 
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = ألديك حساب بالفعل؟ <a { $sign_in } class="{ $class_name }">سجّل الدخول</a> أو <a href="{ $learn_more }">تعرّف على المزيد</a> حول الانضمام إلى { -brand-name-mozilla }.
 
 # Obsolete string
 # Variables:
