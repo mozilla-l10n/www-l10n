@@ -38,6 +38,10 @@ firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } について詳しく知る
 firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } に登録して、すべてのデバイスで最大限に活用しましょう。
 
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = 既にアカウントをお持ちの場合:<a { $fxa_attr }>ログイン</a>または { -brand-name-firefox } への登録の<a { $accounts_attr }>詳細を確認</a>
 
 # Outdated string
 # Variables:

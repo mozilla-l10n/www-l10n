@@ -38,6 +38,10 @@ firefox-browsers-build-sites-and-refine-your = Bangun situs dan perbaiki kode An
 firefox-browsers-learn-more-about-devtools = Pelajari lebih lanjut mengenai { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-name-firefox } dan dapatkan manfaat maksimal dari setiap produk — di setiap perangkat.
 
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
 
 # Outdated string
 # Variables:
