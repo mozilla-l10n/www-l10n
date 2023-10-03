@@ -11,6 +11,8 @@ features-sync-firefox-browser-sync = Penyelarasan pelayar { -brand-name-firefox 
 features-sync-access-your-firefox-bookmarks = Akses { -brand-name-firefox } penanda buku, kata laluan, tab terbuka dan banyak lagi daripada mana-mana peranti.
 features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox }, anda boleh menyambung semula aktiviti yang anda tinggalkan sewaktu menukar daripada komputer riba ke telefon ke tablet. { -brand-name-firefox } membolehkan anda melihat penanda buku, sejarah pelayaran, kata laluan tersimpan dan banyak lagi tanpa mengira peranti yang anda gunakan.
 
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Daftar untuk { -brand-name-mozilla-account } percuma</a> dan anda boleh menyelaraskan data di mana jua anda menggunakan pelayar { -brand-name-firefox }.
 
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar untuk akaun { -brand-name-firefox } percuma</a> dan anda boleh menyelaraskan data di mana jua anda menggunakan pelayar { -brand-name-firefox }.

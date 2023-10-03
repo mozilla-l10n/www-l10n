@@ -11,6 +11,8 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } ブラウザー同�
 features-sync-access-your-firefox-bookmarks = どのデバイスからでも { -brand-name-firefox } のブックマークやパスワード、開いているタブなどにアクセスできます。
 features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } では、デスクトップコンピューターからスマートフォンやタブレットに切り替えたときに、作業をそのまま再開できます。{ -brand-name-firefox } なら、使用しているデバイスに関係なく、ブックマークや閲覧履歴、保存したパスワードなどを見ることができます。
 
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">無料の { -brand-name-mozilla-account } に登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。
 
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">無料の { -brand-name-firefox } アカウントに登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。

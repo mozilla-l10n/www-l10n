@@ -11,6 +11,8 @@ features-sync-firefox-browser-sync = Sinkronisasi peramban { -brand-name-firefox
 features-sync-access-your-firefox-bookmarks = Akses markah { -brand-name-firefox }, kata sandi, tab terbuka, dan lainnya dari perangkat apa pun.
 features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox }, Anda dapat melanjutkan pekerjaan dari bagian terakhir yang Anda tinggalkan saat beralih dari komputer desktop ke ponsel atau tablet.{ -brand-name-firefox } memungkinkan Anda melihat markah, riwayat penjelajahan, kata sandi tersimpan, dan lainnya, apa pun perangkat yang Anda gunakan.
 
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Daftar { -brand-name-mozilla-account } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
 
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar akun { -brand-name-firefox } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
