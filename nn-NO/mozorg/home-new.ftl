@@ -7,3 +7,6 @@
 
 home-mission-driven = Oppdragsdriven. Menneskestyrt.
 home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi lagar prioriterer mennneske og personvern over profitt. Vi finst for å gjere internet til ein meir helsesam og trivelegare plass for alle.
+# Quotes around string to represent it being a quote by Mitchell Baker
+home-the-health-of = «Helsa til internett og livet på nettet er grunnen til at vi eksisterer.»
+home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
