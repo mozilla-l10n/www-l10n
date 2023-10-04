@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/products/
@@ -21,11 +21,18 @@ firefox-products-desktop = Datamaskin
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Sjå alle nettlesarar
+firefox-products-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
+# Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 firefox-products-keep-your-passwords-safe-and = Hald passorda dine sikre, og få tilgang til dei på alle dei synkroniserte einingane dine.
+# Obsolete string
 firefox-products-download-lockwise = Last ned { -brand-name-lockwise }
+# Obsolete string
 firefox-products-open-in-firefox = Opne i { -brand-name-firefox }
+# Obsolete string
 firefox-products-learn-more-about-lockwise = Les meir om { -brand-name-lockwise }
+# Obsolete string
 firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Send dei store filene dine og sensitive dokument sikkert, opptil 2,5 GB.
 firefox-products-send-a-file = Send ei fil
