@@ -10,6 +10,10 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios 
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare-mobile-browsers = Samanlikn mobilnettlesarar
 browsers-mobile-compare = Samanlikn
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+browsers-mobile-already-have-an-account-sign = Har du allereie ein konto? <a { $fxa_attr }>Logg inn</a> eller <a { $accounts_attr }>les meir</a> om å bli med i { -brand-name-firefox }.
 browsers-mobile-download = Last ned
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
