@@ -12,3 +12,4 @@ home-the-health-of = «Helsa til internett og livet på nettet er grunnen til at
 home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
 home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekterer personvernet
 home-product-firefox-browsing = Privat og sikker nettlesing
+home-product-pocket-articles = Nettets mest spennande artiklar
