@@ -14,3 +14,5 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekter
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-product-pocket-articles = Nettets mest spennande artiklar
 home-product-vpn-trust = Eit VPN du kan stole på
+home-join-the-fight = Ver med i kampen for eit helsesamt internett
+home-volunteer-with-mozilla = Friviljug med { -brand-name-mozilla }

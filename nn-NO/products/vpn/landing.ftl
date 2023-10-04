@@ -7,6 +7,7 @@
 
 # Obsolete string
 vpn-landing-hero-sub-heading = Sikkerheit du kan stole på. Eit namn du kan stole på.
+vpn-landing-brand-trust-heading = Eit VPN frå eit merke du kan stole på
 
 ## FAQ section
 
