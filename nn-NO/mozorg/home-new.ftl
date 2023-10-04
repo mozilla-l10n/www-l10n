@@ -15,7 +15,12 @@ home-product-firefox-browsing = Privat og sikker nettlesing
 home-product-pocket-articles = Nettets mest spennande artiklar
 home-product-vpn-trust = Eit VPN du kan stole på
 home-is-mozilla-a-corporation = Er { -brand-name-mozilla } eit føretak eller ein ideell organisajon? Faktisk begge delar.
+home-mozilla-consists-of = { -brand-name-mozilla } består av to organisasjonar. { -brand-name-mozilla-corporation } er heileigd av den ideelle 501(c) { -brand-name-mozilla-foundation }. Dette tyder at vi ikkje har forpliktingar til aksjeeigarar — berre til oppdraget vårt.
 home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Ver med i kampen for eit helsesamt internett
 home-your-voice-your-code = Di røyst. Din kode. Dine idéar. Det finst bokstavleg tala tusenvis av måtar du kan bidra til { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Friviljug med { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Utvalt produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Gøym plassering og aktivitet med <span>{ -brand-name-mozilla-vpn }</span>
