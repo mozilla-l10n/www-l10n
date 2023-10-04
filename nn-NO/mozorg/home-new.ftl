@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-mission-driven = Oppdragsdriven. Menneskestyrt.
+home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi lagar prioriterer mennneske og personvern over profitt. Vi finst for å gjere internet til ein meir helsesam og trivelegare plass for alle.
