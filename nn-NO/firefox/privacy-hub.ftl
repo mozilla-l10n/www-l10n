@@ -58,6 +58,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Dette er dei fire vanlegaste 
 firefox-privacy-hub-always-in-your-control = Du har kontroll
 firefox-privacy-hub-want-to-customize-what = Vil du tilpasse det som blir blokkert? Innstillingane er berre eitt klikk unna.
 firefox-privacy-hub-protection-beyond-tracking = Vern utover sporing
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Dersom du har ein { -brand-name-firefox-account }, kan du også sjå korleis vi hjelper deg med å verne om den personlege informasjonen din og passorda dine.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
@@ -74,9 +75,14 @@ firefox-privacy-hub-send-a-file = Send ei fil
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } tilrår høgkvalitetsartiklar, sett saman av menneske utan å samle inn surfehistorikken din eller dele den personlege informasjonen din med annonsørar.
 firefox-privacy-hub-get-pocket = Hent { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account }-en din
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Din { -brand-name-firefox-account }
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = All informasjon som er synkronisert gjennom { -brand-name-firefox-account } — frå nettlesarhistorikk til passord — er kryptert. Og passordet ditt er den einaste nøkkelen.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Ta med personvernet ditt og bokmerka dine overalt med ein { -brand-name-firefox-account }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

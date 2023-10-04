@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = { -brand-name-brave } skil seg frå 
 compare-brave-the-internet-as-a-whole-is = Internett som heilskap betrakta vert i stor grad betalt av annonsar, som held det faktiske innhaldet du vil sjå gratis. { -brand-name-brave } har prøvd å oppgradere denne modellen ved å oppmode brukarane til å velje { -brand-name-brave } sitt eige vederlagssystem, som i røynda er si eiga annonseplattform. Når ein brukar har valt dette, vil { -brand-name-brave } vise det dei kallar «personvern-respekterande annonsar» som du kan sjå og tene det dei kallar ein Basic Attention Token også kalla ein BAT. Frå dette tidspunktet kan { -brand-name-brave }-brukarar velje å bruke BAT-ane på å støtte nettstadane eller individuelle bidragsytarar dei likar, som igjen kan konvertere BAT-ar til faktisk valuta.
 compare-brave-whether-this-sounds-complicated = Om dette høyrest komplisert ut eller som ein god idé, avheng sannsynlegvis av foraktnivået ditt for annonsering på Internett. Dei fleste Internett-brukarar forstår at godt innhald kostar pengar, og synest at det er i orden at pengane kjem frå reklame.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = På den andre sida, med { -brand-name-firefox }-nettlesaren, føretrekkjer vi å halde ting enkelt. { -brand-name-firefox } blokkerer mange tredjepartssporarar, kryptoutvinnarar og fingerprint-sporarar frå å følgje deg som standard. LIkevel vel { -brand-name-firefox }, utanfor privat nettlesingsmodus, å ikkje blokkere annonsar frå å visast. Det vil seie, med mindre du installerer <a { $attrs }>ei av utvidingane som er spesielt designa for dette formålet</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,8 @@ compare-brave-the-ability-to-sync-your-passwords = Evna til å synkronisere pass
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Nettlesaren { -brand-name-firefox } gir òg brukaren moglegheit til å registrere seg for ein gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Å ha ein { -brand-name-mozilla-account } er nøkkelen til å låse opp synkronisering mellom einingar, i tillegg til at du får ein ekstra fordel med produkt som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som övervakar e-postadressene dine och varslar deg om nokre av opplysningane dine har vore involverte i kjende <a { $breaches }>datalekkasjar</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox }-nettlesaren gir også brukarane moglegheita til å lage ein gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. Å ha ein { -brand-name-firefox }-konto er nøkkelen til å låse opp synkronisering på tvers av einingar, pluss at du får ein ekstra fordel med produkt som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som overvakar e-postadressene dine og varslar deg om noko av informasjonen din har vore involvert i kjende <a { $breaches }>datalekkasjar</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } har også nyleg fått moglegheita til å synkronisere data på tvers av dei fleste populære operativsystema og einingar, i tillegg til ei ekstra moglegheit for å synkronisere Basic Attention Tokens.
