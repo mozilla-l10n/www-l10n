@@ -30,6 +30,7 @@ home-volunteer-with-mozilla = Friviljug med { -brand-name-mozilla }
 home-that-one-time = Den eine gongen vi gav bort kjeldekoden vår…
 home-the-mozilla-project = Projektet { -brand-name-mozilla } vart grunnlagt i San Francisco 1998, då nettlesaren { -brand-name-netscape } tok avgjerda om å gje bort programkoden sin til ålmenta for å byggje vidare på, og forbetre han. På den tida hadde eitt føretak eit virtuelt monopol på korleis folk opplevde internett.
 home-eventually-the-open = Etterkvart vart { -brand-name-mozilla }-projektet, med open kjeldekode, forvandla til den svært populære versjonen av { -brand-name-firefox }.
+home-today-mozilla-continues = I dag held { -brand-name-mozilla } fram rørsla si mot eit betre internett med millionar av aktive community-medlemmar over heile verda, som tek til orde for etisk teknikk, pålitleg AI og produserer personvernbaserte produkt som gjev meir makt til folket.
 home-learn-more-about-mozilla = Les meir om { -brand-name-mozilla }
 home-get-good-news = Få (gode) { -brand-name-mozilla }-nyheiter
 home-get-news-and-tips = Få nyheiter og tips frå { -brand-name-mozilla } får å vere sikker og informert om alt som gjer nettet til ein meir helsesam plass.
