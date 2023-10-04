@@ -10,3 +10,5 @@ home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi laga
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = «Helsa til internett og livet på nettet er grunnen til at vi eksisterer.»
 home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
+home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekterer personvernet
+home-product-firefox-browsing = Privat og sikker nettlesing
