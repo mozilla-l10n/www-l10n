@@ -26,6 +26,28 @@ compare-shared-search-engine-options = Opcije pretraživača
 compare-shared-text-to-speech = Tekst u govor
 compare-shared-reader-mode = Režim čitanja
 compare-shared-spell-checking = Provjera pravopisa
+compare-shared-web-extensionsadd-ons = Web ekstenzije/dodaci
+compare-shared-in-browser-screenshot-tool = Alat za snimanje ekrana u pretraživaču
+compare-shared-os-availability = Dostupnost na operativnim sistemima
+compare-shared-mobile-os-availability = Dostupnost na operativnim sistemima mobilnih uređaja
+compare-shared-syncs-with-mobile = Sinhronizira s mobilnim uređajima
+compare-shared-password-management = Upravljanje lozinkama
+compare-shared-primary-password = Primarna lozinka
+# Obsolete string
+compare-shared-master-password = Glavna lozinka
+compare-shared-security-and-privacy = Sigurnost i privatnost
+compare-shared-utility = Korisnost
+compare-shared-portability = Prenosivost
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-security-and-privacy-strong = Sigurnost i <strong>privatnost</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-utility-strong = <strong>Korisnost</strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-portability-strong = <strong>Prenosivost</strong>
+compare-shared-overall-assessment = Ukupna procjena
+compare-shared-the-comparisons-made-here-updated = Poređenja koja su ovdje napravljena su napravljena sa zadanim postavkama i svim verzijama izdanja pretraživača kako slijedi:
+# Obsolete string
+compare-shared-the-comparisons-made-here = Poređenja koja su ovdje napravljena su urađena u svim verzijama izdanja pretraživača na sljedeći način:
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
