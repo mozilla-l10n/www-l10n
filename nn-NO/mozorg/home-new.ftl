@@ -13,6 +13,7 @@ home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
 home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekterer personvernet
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-product-pocket-articles = Nettets mest spennande artiklar
+home-product-relay-masks = Lettbrukte e-post- og telefonalias
 home-product-vpn-trust = Eit VPN du kan stole på
 home-cta-get-vpn = Last ned { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization

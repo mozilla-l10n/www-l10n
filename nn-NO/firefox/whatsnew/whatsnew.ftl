@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Kva er nytt i { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Kva er nytt i { -brand-name-firefox } - Meir personvern og ekstra generelt vern.
 whatsnew-page-description = Ta kampen opp mot ei bransje som sel dine data til tredjepartar. Ver fornuftig og trygg på nettet med teknologi som jobbar for deg.
 whatsnew-firefox = { -brand-name-firefox }
