@@ -61,6 +61,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = Conheça as quatro categorias
 firefox-privacy-hub-always-in-your-control = Sempre sob seu controle
 firefox-privacy-hub-want-to-customize-what = Quer personalizar o que é bloqueado? Suas configurações estão a apenas um clique de distância.
 firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
+firefox-privacy-hub-if-you-have-a-mozilla-account = Se você tem uma { -brand-name-mozilla-account }, também pode ver como estamos te ajudando a proteger suas senhas e informações pessoais.
 # Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Se você tem uma { -brand-name-firefox-account }, também pode ver como estamos te ajudando a proteger suas senhas e informações pessoais.
 # Variables:

@@ -18,3 +18,6 @@ features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Crie uma c
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Todos os seus dados são criptografados em nossos servidores para impedir a leitura, somente você pode acessar. Não vendemos suas informações para anunciantes, pois isso é contra nosso <a href="{ $privacy }">compromisso de privacidade de dados</a>.
 features-sync-send-tabs-from-one-device-to-another = Envie abas de um dispositivo para outro
+features-sync-the-send-tab-feature-in-firefox = O recurso enviar aba do { -brand-name-firefox } permite enviar páginas do { -brand-name-firefox } de um dispositivo para outros dispositivos (como iPhone, iPad ou Android). Encontrou um artigo ao navegar no celular e quer ler quando chegar em casa? Ou um documento importante do trabalho que quer salvar no computador? Talvez tenha encontrado uma receita no notebook e quer enviar para o tablet da cozinha. Envie essas abas!
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = Uma imagem do menu do aplicativo { -brand-name-firefox }, destacando a opção “Enviar aba para dispositivo”.

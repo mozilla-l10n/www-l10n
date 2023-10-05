@@ -7,6 +7,7 @@
 
 # HTML page title
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — Proteja seus dados pessoais contra exposições
+monitor-hero-heading = Descubra onde suas informações sigilosas estão sendo expostas e recupere o controle sobre elas
 
 ## Get free scan form
 
@@ -31,6 +32,7 @@ monitor-sign-up-for-breach-alerts = Cadastre-se para receber alertas de vazament
 monitor-faq-heading = Dúvidas frequentes
 monitor-all-faq-link = Ver todas as dúvidas frequentes
 monitor-faq-what-is-a-data-breach-question = O que é exatamente um vazamento de dados?
+monitor-faq-what-do-i-do-question = Acabei de descobrir que fui vítima de um vazamento de dados. O que devo fazer agora?
 monitor-faq-what-gets-exposed-question = Que informações são expostas em vazamentos de dados?
 monitor-faq-whats-gets-exposed-answer = Nem todos os vazamentos expõem as mesmas informações. Depende do que os hackers conseguem acessar. Muitos vazamentos de dados expõem endereços de email e senhas. Outros expõem informações mais sensíveis, como números de cartões de crédito, números de passaporte e números de previdência social.
 
