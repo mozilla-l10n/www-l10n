@@ -44,7 +44,9 @@ monitor-sign-up-for-breach-alerts = Cadastre-se para receber alertas de vazament
 monitor-faq-heading = Dúvidas frequentes
 monitor-all-faq-link = Ver todas as dúvidas frequentes
 monitor-faq-what-is-a-data-breach-question = O que é exatamente um vazamento de dados?
+monitor-faq-what-is-a-data-breach-answer = Um vazamento de dados ocorre quando informações pessoais ou privativas são expostas, roubadas ou copiadas sem permissão. Esses incidentes de segurança podem ser resultado de ataques cibernéticos a sites, aplicativos ou qualquer banco de dados que armazene informações pessoais. Um vazamento de dados também pode acontecer por acidente, por exemplo, caso as credenciais de acesso de alguém sejam publicadas abertamente.
 monitor-faq-what-do-i-do-question = Acabei de descobrir que fui vítima de um vazamento de dados. O que devo fazer agora?
+monitor-faq-what-do-i-do-answer = Visite o { -brand-name-mozilla-monitor } para saber o que fazer após um vazamento de dados e receber instruções para resolver a exposição de suas informações pessoais. Os hackers contam com reuso de senhas, por isso é importante criar senhas fortes e exclusivas em todas as suas contas. Guarde suas senhas em um local seguro, que somente você tenha acesso. Pode ser o mesmo local onde você guarda documentos importantes ou um gerenciador de senhas.
 monitor-faq-what-gets-exposed-question = Que informações são expostas em vazamentos de dados?
 monitor-faq-whats-gets-exposed-answer = Nem todos os vazamentos expõem as mesmas informações. Depende do que os hackers conseguem acessar. Muitos vazamentos de dados expõem endereços de email e senhas. Outros expõem informações mais sensíveis, como números de cartões de crédito, números de passaporte e números de previdência social.
 
