@@ -7,13 +7,20 @@
 
 # HTML page title
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — Proteja seus dados pessoais contra exposições
+# HTML page description
+monitor-landing-page-desc = Descubra se suas informações pessoais, desde número de celular até endereço residencial, foram expostas online. Junte-se a 10 milhões de usuários no mundo todo para recuperar sua privacidade. Comece com uma verificação gratuita.
 monitor-hero-heading = Descubra onde suas informações sigilosas estão sendo expostas e recupere o controle sobre elas
+monitor-hero-tagline = Verificamos vazamentos de dados para ver se seus dados foram expostos e fornecemos instruções passo a passo para resolver.
 
 ## Get free scan form
 
+monitor-form-enter-email-to-scan = Insira seu email aqui para verificação
+monitor-form-get-free-scan = Obtenha uma verificação gratuita
+monitor-form-enter-your-email-address = Insira seu endereço de email para verificar exposição em vazamentos de dados.
 
 ##
 
+monitor-data-breaches-happen-every = <strong>Vazamentos de dados</strong> acontecem a cada 11 minutos, expondo seus dados sigilosos. Mas não se preocupe, nós podemos ajudar.
 monitor-help-fix-exposures = Ajudamos a corrigir suas exposições
 monitor-what-info-could-be = Que informações podem estar em risco?
 monitor-trusted-by-10-million = Aprovado por 10 milhões de pessoas no mundo todo
