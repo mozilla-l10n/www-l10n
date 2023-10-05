@@ -16,6 +16,30 @@ firefox-browsers-get-the-privacy-you-deserve = Dobijte privatnost koju zaslužuj
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Nabavite <strong>pretraživače</strong> koji vašu privatnost stavljaju na prvo mjesto — i uvijek jesu
 firefox-browsers-desktop = Desktop
+firefox-browsers-seriously-private-browsing = Stvarno privatno pretraživanje. { -brand-name-firefox } automatski blokira 2000+ online programa za praćenje da prikupljaju informacije o tome šta radite na mreži.
+firefox-browsers-download-for-desktop = Preuzmite za desktop
+firefox-browsers-mobile = Mobilni uređaji
+firefox-browsers-take-the-same-level-of-privacy = Ponesite isti nivo privatnosti — plus svoje lozinke, historiju pretrage, otvorene tabove i još mnogo toga — sa sobom gdje god da idete.
+firefox-browsers-download-for-mobile = Preuzmite za mobilne uređaje
+firefox-browsers-send-me-a-link = Pošalji mi link
+firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Dobijte zaštitu podataka bez premca uz cikluse podrške koji su prilagođeni potrebama vaše kompanije.
+firefox-browsers-enterprise-packages = { -brand-name-enterprise } paketi
+firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-go-beyond-two-dimensions-and = Napusti dvodimenzionalni svijet i uživaj u najboljem virtuelnom web sadržaju.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = Izgradite web stranice i poboljšajte svoj kod pomoću { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
+firefox-browsers-learn-more-about-devtools = Saznajte više o { -brand-name-devtools }
+firefox-browsers-join-firefox-and-get-the-most = Pridružite se { -brand-name-firefox }u i izvucite maksimum iz svakog proizvoda — na svakom uređaju.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Već imate račun? <a { $fxa_attr }>Prijavite se</a> ili <a { $accounts_attr }>saznajte više</a> o pridruživanju { -brand-name-firefox }u.
+# Outdated string
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign = Već imate račun? <a { $fxa_attr }>Prijavite se</a> ili <a { $accounts_attr }>saznajte više</a> o pridruživanju Firefoxu.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
