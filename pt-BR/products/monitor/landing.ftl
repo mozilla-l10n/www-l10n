@@ -22,7 +22,12 @@ monitor-form-enter-your-email-address = Insira seu endereço de email para verif
 
 monitor-data-breaches-happen-every = <strong>Vazamentos de dados</strong> acontecem a cada 11 minutos, expondo seus dados sigilosos. Mas não se preocupe, nós podemos ajudar.
 monitor-help-fix-exposures = Ajudamos a corrigir suas exposições
+# Variables:
+#   $privacy (url) - https://www.mozilla.org/privacy/
+monitor-our-mission-is = Nossa missão é devolver às suas mãos o controle sobre seus dados pessoais. Ajudamos a resolver vazamentos de dados e manter a privacidade de suas informações. Além disso, <a href="{ $privacy }">respeitamos sua privacidade</a> durante o processo.
 monitor-what-info-could-be = Que informações podem estar em risco?
+monitor-data-leaks-are-unfortunately = Infelizmente, vazamentos de dados fazem parte de nossa vida digitais. Suas senhas, detalhes de contatos, informações financeiras e outras informações pessoais podem ser expostas, colocando você em risco de roubo de identidade.
+monitor-scan-your-email = Verifique seu email para iniciar gratuitamente
 monitor-trusted-by-10-million = Aprovado por 10 milhões de pessoas no mundo todo
 monitor-since-2018-we-have-helped = Desde 2018, ajudamos pessoas em 237 países a evitar que suas informações pessoais caiam em mãos erradas.
 # This string is followed by a list of media outlets
