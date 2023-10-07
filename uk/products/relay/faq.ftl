@@ -68,6 +68,8 @@ faq-question-acceptable-use-question = Що вважається прийнят�
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } має ті самі <a href="{ $url }" { $attrs }>умови надання послуг, що й усі продукти { -brand-name-mozilla }</a>. Ми маємо політику нетерпимості до користування { -brand-name-relay } у зловмисних цілях, як-от спам, що призводить до припинення дії облікового запису користувача. Ми вживаємо заходів, щоб запобігти порушенням користувачів наших умов такими способами:
+faq-question-acceptable-use-answer-measure-account-v2 = Необхідний { -brand-name-mozilla-account } із підтвердженою адресою електронної пошти
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Необхідний { -brand-name-firefox-account(case: "nom", capitalization: "lower") } із підтвердженою адресою електронної пошти
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Вимагається оплата від користувачів за створення понад п'ять масок
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Обмеження кількості масок, які можна згенерувати за один день
