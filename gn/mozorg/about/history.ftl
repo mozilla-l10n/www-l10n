@@ -23,7 +23,7 @@ history-by-creating-an-open-community = Oñemoheñói tekoha ijurujáva, { -bran
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Tekoha pegua tapichakuéra oike ha isarambi <a href="{ $mission }">tembipota ypygua</a> apopyregua ohupytýva — omba’aporanguénte kundahára pyahúre { -brand-name-netscape }, tapichakuéra oñepyrũ omoheñói <a href="{ $browsers }">hetaichagua kundahára</a>, <a href="{ $bugzilla }">mboguatahára rembiporu</a> ha heta ambuéichagua <a href="{ $projects }">apopyrã</a>.
-history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oipurúta ñanduti.
+history-people-contributed-to-mozilla = Tapichakuéra oipytyvõ { -brand-name-mozilla } ndive heta hendáicha, hákatu opavavete omoheñoise software ijurujáva omoneĩva yvypórape oiporavokuaávo mba’éichapa oiporúta ñanduti.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
 history-after-several-years-of-development = Heta ary oñemboguata rire, <a href="{ $mozilla1 }">{ -brand-name-mozilla }1.0</a>, tembiapo ñepyrũgua, osẽypy ary 2002 jave. Ko tembiapo oguereko heta mba’epyahu porã kundahárape, ñanduti veve poruhára ha ambue tembiporu’i oĩva ipype, hákatu ndahetái tapicha oiporúva kuri.

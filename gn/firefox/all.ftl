@@ -39,7 +39,7 @@ firefox-all-arm64-installers-optimized = Mohendaha ARM64/AArch64 oikóva PCs { -
 firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eipurútapa 64-bit térã 32-bit, ro’e ndéve eiporu hag̃ua 32-bit.
+firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eiporútapa 64-bit térã 32-bit, ro’e ndéve eiporu hag̃ua 32-bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
