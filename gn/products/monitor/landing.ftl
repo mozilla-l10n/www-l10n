@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/monitor/
 
 monitor-hero-heading = Ehecha ne marandu ñemiguáva oñembyaikuaápa — ha eguerujey
+monitor-hero-tagline = Rohesa’ỹijo mba’ekuaarã ñembogua rohecha hag̃ua mba’ekuaarã oñemboguára’e ha rombohapéta emoĩporã hag̃ua.
 
 ## Get free scan form
 

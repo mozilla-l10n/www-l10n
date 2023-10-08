@@ -4,6 +4,7 @@
 
 # Obsolete string
 fxa-form-enter-your-email = <strong>Emoinge ne ñandutiveve</strong> eikekuaa hag̃ua { -brand-name-firefox-accounts }-pe.
+fxa-form-enter-your-email-v2 = <strong>Ehai ne ñanduti veve</strong> eikekuaa hag̃ua { -brand-name-mozilla-account }-pe.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
