@@ -5,14 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/products/monitor/
 
+monitor-hero-heading = Ehecha ne marandu ñemiguáva oñembyaikuaápa — ha eguerujey
 
 ## Get free scan form
 
 monitor-form-enter-email-to-scan = Ehai ñanduti veve emoha’ãnga hag̃ua
 monitor-form-get-free-scan = Emoha’ãnga reiete
+monitor-form-enter-your-email-address = Ehai ne ñanduti veve ehechajey hag̃ua eimépa mba’ekuaarã ñemboguápe.
 
 ##
 
+monitor-help-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
 monitor-what-info-could-be = Mba’e marandúpa ivaikuaa
 monitor-scan-your-email = Eñepyrũ hag̃ua, emoha’ãnga reiete ne ñanduti veve
 monitor-trusted-by-10-million = 10 sua yvypóra arapýpe ojerovia hese
@@ -23,6 +26,7 @@ monitor-here-is-how-we-help = Péicha roipytyvõ eñemo’ã hag̃ua
 monitor-we-believe-in-your-right = Romomba’e nde derécho tekoñemirã, upévare ñemo’ã mba’ekuaarã ñembogua roikuave’ẽ reiete.
 monitor-we-will-search-for-you = Rohekáta opaite mba’ekuaarã ñembogua ojekuaáavape
 monitor-we-will-guide-you = Rombohapéta mba’éichapa remboykéta peteĩteĩva ñembogua
+monitor-we-will-continuously = Rohechameméta ha romondóta kyhyjerã oimeraẽva ñembogua pyahu rehegua.
 monitor-sign-up-for-breach-alerts = Eñemboheraguapy tog̃uahẽ ñembyai rehegua
 
 ## FAQ section
