@@ -21,6 +21,8 @@ monitor-since-2018-we-have-helped = Ary 2018 guive, roipytyvõ yvypóra 237 tet�
 monitor-as-seen-in = Ojehechaháicha
 monitor-here-is-how-we-help = Péicha roipytyvõ eñemo’ã hag̃ua
 monitor-we-believe-in-your-right = Romomba’e nde derécho tekoñemirã, upévare ñemo’ã mba’ekuaarã ñembogua roikuave’ẽ reiete.
+monitor-we-will-search-for-you = Rohekáta opaite mba’ekuaarã ñembogua ojekuaáavape
+monitor-we-will-guide-you = Rombohapéta mba’éichapa remboykéta peteĩteĩva ñembogua
 monitor-sign-up-for-breach-alerts = Eñemboheraguapy tog̃uahẽ ñembyai rehegua
 
 ## FAQ section
