@@ -27,10 +27,7 @@ highlighted-features-section-masks-on-the-go-body =
     crear nove mascas ubique tu es. Simplemente adde ulle parola o expression ante le symbolo @. A un restaurante? Usa restaurante@yourdomain.{ $mozmail }.{ $mozmail }. 
     Compras? Prova boteca@yourdomain.{ $mozmail }.{ $mozmail }.
 highlighted-features-section-replying-headline = Responde anonymemente a emails e SMS
-highlighted-features-section-replying-body =
-    { -brand-name-relay-premium } te permitte de responder a emails per tu
-    conto email mascate, assi expeditores jammais sapera tu real adresse email. Con le mascas pro telephono, tu pote replicar 
-    al SMS ab tu numero de telephono disguisate pro proteger tu real numero.
+highlighted-features-section-replying-body = { -brand-name-relay-premium } te permitte de responder a messages de e-mail desde tu conto de e-mail mascate, de maniera que le expeditores non cognoscera jammais tu adresse de e-mail real. Con le mascas pro telephono, tu pote responder a messages SMS desde tu numero de telephono mascate pro proteger tu numero real.
 highlighted-features-section-block-promotions-headline = Blocar e-mails promotional
 highlighted-features-section-block-promotions-body =
     Con { -brand-name-relay-premium }, tu pote impedir al emails promotional de attinger tu 

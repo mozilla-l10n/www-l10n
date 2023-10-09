@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-download-firefox = Discargar { -brand-name-firefox }
 navigation-get-a-firefox-account = Obtener un { -brand-name-firefox-account }
@@ -120,7 +120,7 @@ navigation-get-involved = Collabora
 navigation-join-the-fight-for-a = Junge te al lucta pro un internet salubre.
 navigation-events = Eventos
 navigation-donate = Face un donation
-navigation-your-right-to-security = Tu derecto al securitate e confidentialitate sur internet es fundamental – jammais optional.
+navigation-your-right-to-security = Tu derecto al securitate e confidentialitate sur internet es fundamental – nunquam optional.
 navigation-release-notes = Notas pro iste revision
 navigation-features = Functionalitates
 navigation-products = Productos

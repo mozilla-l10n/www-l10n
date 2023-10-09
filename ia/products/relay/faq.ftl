@@ -63,7 +63,7 @@ faq-question-8-question = Que datos collige { -brand-name-firefox-relay }?
 #   $attrs (string) - specific attributes added to external links
 faq-question-8-answer-3-html = { -brand-name-firefox-relay } collige le sitos web ubi tu ha usate tu mascas email, e etiquetta tu mascas con ille sitos web assi que tu pote facilemente identificar los. Tu pote refusar lo sur tu pagina Parametros, sub Confidentialitate. Ma nota, disactivar iste parametros significa que tu non potera vider ubi tu ha usate cata masca, e tu nomines de conto non se synchronisara plus inter apparatos. Tu pote saper plus re le datos que { -brand-name-firefox-relay } collige in nostre <a href="{ $url }" { $attrs }>Aviso de confidentialitate</a>.
 faq-question-email-storage-question = An { -brand-name-relay } conserva mi e-mails?
-faq-question-email-storage-answer = Sub le rar circumstantia in le qual le servicio es inactive, nos pote temporarimente immagazinar tu e-mails usque nos pote invia los. Nos jammais conservara tu e-mails pro plus longe que tres dies.
+faq-question-email-storage-answer = Sub le rar circumstantia in le qual le servicio es indisponibile, nos pote temporarimente immagazinar tu messages de e-mail usque nos pote inviar los. Nos non immagazinara jammais tu messages de e-mail durante plus de tres dies.
 faq-question-acceptable-use-question = Que es le uso acceptabile de { -brand-name-relay }?
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links

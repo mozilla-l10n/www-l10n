@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Historia del projecto { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Le projecto { -brand-name-mozilla } ha essite <a href="{ $coderush }">create in 1998</a> con le <a href="{ $sourcerelease }">publication del codice fonte del suite del navigator { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Illo ha essite pensate pro render productive le potentia creative del milles de programmatores sur Internet e introducer in le mercato del navigatores, nivellos del innovation sin precedente.
@@ -57,7 +57,7 @@ history-mozilla-also-celebrated = { -brand-name-mozilla } alsi celebrava su 15me
 history-the-community-has-shown = Le communitate ha monstrate que le companias commercial pote beneficiar del collaboration a projectos open-source e que grande productos pro le usatores final pote ser producite como software open-source.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
-history-more-people-than-ever-before = Plus personas que jammais ante usa Internet e experi lo <a href="{ $all }">in lor proprie lingua</a>.
+history-more-people-than-ever-before = Plus personas que jammais antea usa Internet e lo experimenta <a href="{ $all }">in lor proprie lingua</a>.
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
