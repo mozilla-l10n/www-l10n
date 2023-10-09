@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -31,4 +31,4 @@ vpn-mac-devices-copy = Tote tu computatores, tablettas e smartphonos merita esse
 vpn-mac-speed-headline = Nulle besonio de sacrificar velocitate
 vpn-mac-speed-copy = Datos illimitate e nulle limitationes de largessa de banda significa que tu pote discoperir le angulos del internet como tu normalmente face, con un extra nivello de securitate.
 vpn-mac-log-headline = Lo que tu face online es negotios tue
-vpn-mac-log-copy = Apprecia le tranquillitate quando tu usa { -brand-name-mozilla-vpn }. Tu datos es cryptate, tu activitate jammais es registrate e tu confidentialitate es sempre protegite. Isto es nostre promissa a te.
+vpn-mac-log-copy = Apprecia le tranquillitate quando tu usa { -brand-name-mozilla-vpn }. Tu datos es cryptate, tu activitate non es jammais registrate e tu vita private es sempre protegite. Isto es nostre promissa a te.

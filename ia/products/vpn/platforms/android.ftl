@@ -37,4 +37,4 @@ vpn-android-speed-headline = Ultra-rapide con datos illimitate
 vpn-android-speed-copy = Joca online, reproduce in diffusion films e naviga le Web a velocitates ultra-rapide sur tu apparato { -brand-name-android }, toto con largessa de banda. illimitate
 vpn-android-log-headline = Nulle registros. Nulle traciamentos. Nulle invasiones de confidentialitate.
 # "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
-vpn-android-log-copy = Multe fornitores de VPN registra tu activitate sur lor servitores. Isto non es nostre rolo. { -brand-name-mozilla-vpn } jammais tracia tu activitate online, il es contra toto lo que nos sustene como compania. Nos antepone tu confidentialitate e securitate, supra ulle altero.
+vpn-android-log-copy = Multe fornitores de VPN registra tu activitate sur lor servitores. Non es assi que nos face le cosas. { -brand-name-mozilla-vpn } non tracia jammais tu activitate in linea perque isto esserea contra toto lo que nos defende como interprisa. Nos priorisa tu vita private e tu securitate ante tote altere cosa.

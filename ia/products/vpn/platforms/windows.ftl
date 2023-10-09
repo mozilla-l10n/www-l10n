@@ -1,13 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-
-# Meta strings
-
+# Obsolete Strings
 vpn-windows-page-title = { -brand-name-mozilla-vpn } pro { -brand-name-windows } 10
 vpn-windows-page-description = Protege tote tu PC con un rete virtual private (VPN) de { -brand-name-mozilla }, un pionero de internet que ha luctate pro tu confidentialitate digital desde le 1998.
 # Windows strings
@@ -31,4 +29,4 @@ vpn-windows-devices-copy = Un subscription { -brand-name-mozilla-vpn } te forni 
 vpn-windows-speed-headline = Nulle limitationes de largessa de banda
 vpn-windows-speed-copy = Reproduce in diffusion, joca, face compras e discoperi le Web a velocitates splendide. Con datos illimitate e nulle limitationes de largessa de banda, { -brand-name-mozilla-vpn } non te impedi.
 vpn-windows-log-headline = Tu confidentialitate es nostre prioritate
-vpn-windows-log-copy = { -brand-name-mozilla } jammais cessara laborar verso un Internet melior que antepone tu confidentialitate. Ecce perque { -brand-name-mozilla-vpn } non collige ulle datos sur te o registra tu activitate online, nulle nostre productos lo face.
+vpn-windows-log-copy = { -brand-name-mozilla } non cessara jammais de laborar verso un Internet melior que protege tu vita private ante toto. Ecce proque { -brand-name-mozilla-vpn } non collige alcun datos sur te ni registra tu activitate in linea; necun de nostre productos lo face.
