@@ -23,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Ein endå nyare { -brand-name-firefox } e
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Les <a href="{ $url }">versjonsnotatet</a> for å finne ut meir om kva som er nytt i { -brand-name-firefox }-nettlesaren.
+whatsnew-signoff = <strong>Driven av { -brand-name-mozilla }.</strong> >Har sett menneske over profitt sidan 1998.

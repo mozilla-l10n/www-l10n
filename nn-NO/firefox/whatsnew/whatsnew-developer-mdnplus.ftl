@@ -19,4 +19,5 @@ developer-mdnplus-development-in-real-time = Utvikling i realtid: Få tilpassa v
 developer-mdnplus-collections = Samlingar
 developer-mdnplus-build-your-perfect-library = Bygg ditt perfekte bibliotek. Eller la oss gjere det for deg.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
+developer-mdnplus-mdns-entire-library-at-your = Tak { -brand-name-mdn } med deg overalt
 developer-mdnplus-resources-for-developers = Resursar for utviklarar, av utviklarar.
