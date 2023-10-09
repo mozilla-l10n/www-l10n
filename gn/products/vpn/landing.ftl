@@ -16,7 +16,7 @@ vpn-landing-hero-sub-heading-v2 = Tekorosã, jeroviaha ha pya’ekue — peteĩt
 vpn-landing-hero-sub-heading = Tekorosã nepytyvõkuaáva. Peteĩ téra ejeroviakuaaha.
 vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
 vpn-landing-privacy-heading = Ñemiguáre jepoko
-vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eipurúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
+vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eiporúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
 vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/

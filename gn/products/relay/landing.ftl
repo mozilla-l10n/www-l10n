@@ -53,7 +53,7 @@ landing-review-user-three-review = ¡Ahayhu ko jepysikue! Ndahasýi hákatu imba
 landing-review-user-four-review-list-1 = Nembopy’aguapy eikundahakuévo ñandutípe.
 landing-review-user-four-review-list-2 = Omo’ã che reratee tapykuehohakuéragui umi teragua’u ñemoheñói rupive peteĩ va nomohekuãséiramo iñanduti veve kundaharape hetamba’e rupi.
 landing-review-user-four-review-list-3 = Mba’ekuaarã ñe’ẽmondo g̃uahẽhapegua hekorosã { -brand-name-firefox-relay } poguýpe.
-landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } oiko porã, ¡eipurúkatu!
+landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } oiko porã, ¡eiporúkatu!
 
 ## FAQ SECTION
 

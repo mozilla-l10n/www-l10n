@@ -25,7 +25,7 @@ faq-question-missing-emails-answer-reason-delay = Ikatu { -brand-name-relay } hi
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Neapañuãiramo, ikatuhína <a href="{ $url }" { $attrs }>eike ore pytyvõha rendápe</a>.
 faq-question-use-cases-question-2 = Araka’épa reiporúta { -brand-name-relay } rovamo’ãha
-faq-question-use-cases-answer-part1-2 = Eiporukuaa { -brand-name-relay } rovamo’ãha heta tenda eiporumemehápe ne ñanduti vevete. Romoakãraku eipurúvo eñemboheraguapývo marketing/información ñanduti vevépe, ha péicha ehecháta og̃uahẽpa térã nahániri ñanduti veve tenondeve gotyo.
+faq-question-use-cases-answer-part1-2 = Eiporukuaa { -brand-name-relay } rovamo’ãha heta tenda eiporumemehápe ne ñanduti vevete. Romoakãraku eiporúvo eñemboheraguapývo marketing/información ñanduti vevépe, ha péicha ehecháta og̃uahẽpa térã nahániri ñanduti veve tenondeve gotyo.
 faq-question-2-question-2 = Mba’érepa tenda nomoneĩmo’ãi { -brand-name-relay } ñandutiveve rovamo’ãha
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
@@ -45,7 +45,7 @@ faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipur�
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
 # Variables:
 #  $size (number): maximum size for attachments in MB
-faq-question-attachments-answer-v2 = Ko’ág̃a romoneĩma jehegua ñemondojey. Upéicharõ jepe, hu’ãkuaa { $size } MB emondojey hag̃ua ñanduti veve eipurúvo { -brand-name-relay }. Umi ñanduti veve hetave { $size } MB noñemondojeymo’ãvéima.
+faq-question-attachments-answer-v2 = Ko’ág̃a romoneĩma jehegua ñemondojey. Upéicharõ jepe, hu’ãkuaa { $size } MB emondojey hag̃ua ñanduti veve eiporúvo { -brand-name-relay }. Umi ñanduti veve hetave { $size } MB noñemondojeymo’ãvéima.
 faq-question-unsubscribe-domain-question-2 = Mba’épa oikóta tendatee’i mboavapyréva amboguérõ ñemboheraguapy { -brand-name-relay-premium } pegua
 faq-question-8-question = Mba’e mba’ekuaarãpa ombyaty { -brand-name-firefox-relay }
 faq-question-email-storage-question = ¿{ -brand-name-relay } ombyaty che ñanduti veve?

@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
 
 # HTML page title
-set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Aguyje eipurúre { -brand-name-firefox }
+set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Aguyje eiporúre { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = ¡Iporã! Ne kundaha ijypykuéva ha’e { -brand-name-firefox }.
-set-as-default-thanks-looks-like-youre-using-a = Ha’ete eipurúva ambue kundaha ko’ág̃a rupi. Ehecháke eguerekópa { -brand-name-firefox } ne mba’e’okápe.
+set-as-default-thanks-looks-like-youre-using-a = Ha’ete eiporúva ambue kundaha ko’ág̃a rupi. Ehecháke eguerekópa { -brand-name-firefox } ne mba’e’okápe.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = Emohu’ã’íntema. Emoambue ne kundaha ypygua { -brand-name-firefox }-pe ne mba’erechaha ñembohekoha rupápe.
 set-as-default-thanks-having-trouble-setting-your = ¿Erekópa apañuãi emboheko hag̃ua ne kundaha ypygua?

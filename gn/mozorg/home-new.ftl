@@ -37,4 +37,4 @@ home-get-news-and-tips = Og̃uahẽ marandu ha ñemoñe’ẽ { -brand-name-mozi
 # VPN Feature
 home-featured-product = Apopyre iporãva
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Emboyke ne rendaite ha rejapóva eipurúvo <span>{ -brand-name-mozilla-vpn }</span>
+home-feature-blur-your-location = Emboyke ne rendaite ha rejapóva eiporúvo <span>{ -brand-name-mozilla-vpn }</span>

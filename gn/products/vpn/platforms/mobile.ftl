@@ -14,7 +14,7 @@ vpn-mobile-maker-of-firefox = Eikuaáke ñandutípe jeike pumbyry rupi hekoñemi
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-ability = { -brand-name-mozilla-vpn } omboyke mba’evaiapoha ha hekomarãva ani hag̃ua ohecha nde IP kundaharape ha oñomi ne rendaite ñandutípe. Papapy oikóva ndive ha ancho de banda hu’ã’ỹvare, ojapo ta’ãngamýi jehecha ha eikundaha hag̃ua pumbyry ha’evéva térã tabléta ipya’e ha ijeroviaháva. Ehepyme’ẽ’mi jasy pukukue, emo’ãkuaa { $devices } mba’e’oka peve ha eikekuaa heta mba’e’okápe arapy tuichakue.
-vpn-mobile-wifi-headline = Eñandu tekorosã eipurúvo wifi opavavegua
+vpn-mobile-wifi-headline = Eñandu tekorosã eiporúvo wifi opavavegua
 vpn-mobile-wifi-copy = Ore VPN omo’ã nde jeike ñandutípe mba’evaiapoha ha oma’ẽñemívagui, ejoguakuaáva taperyva’uhágui, eporandúvo nde viru ñongatupy mba’yrumýi guive ha emba’ejoguávo ñandutí guive eikuaávo nde IP kundaharape hekorosãha.
 vpn-mobile-about-headline = { -brand-name-mozilla } rehegua
 vpn-mobile-about-copy = Ore rojekuaave { -brand-name-firefox-browser } rupive, { -brand-name-mozilla } ha’e poruhára arapygua rekoha, pytyvõhára ha mboguatahára oñeha’ãvo Ñanduti ojejuhu hag̃ua yvypóra pópe. Heñóiva ary 1998 jave, ore ha’e romoñepyrũva’ekue ñanduti sãso ha ijuruja hag̃ua, ha roipota péicha oiko tapiaite.
