@@ -82,6 +82,7 @@ firefox-privacy-hub-get-pocket = Ereko { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = Ne { -brand-name-mozilla-account }
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = Nde { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Opaite marandu ojuehéva { -brand-name-mozilla-account } rupive (kundahára rembiasakue ñe’ẽñemíme) ipapapy. Ha ne mba’ete ñe’ẽñemi ha’e mba’eñemi eikekuaa hag̃ua pype.
 # Obsolete string
 firefox-privacy-hub-all-the-information-synced = Opaite marandu ojuehéva ne { -brand-name-firefox-account } rupive (kundahára rembiasakue ñe’ẽñemíme) ipapapy. Ha ne mba’ete ñe’ẽñemi ha’e mba’eñemi eikekuaa hag̃ua pype.
 firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Eraha ne ñemigua ha techaukaha opa hendápe { -brand-name-mozilla-account } ndive.
