@@ -14,7 +14,7 @@ features-bookmarks-dont-agonize-lovers-of = Techaukaha rayhuhára, ani penekangy
 # File means to save (that bookmark).
 features-bookmarks-file-that-bookmark = Eñongatu pe techaukaha
 # Dial in means to access/use (the bookmarks).
-features-bookmarks-get-your-faves-all-sorted = Emoĩporã nde rechaukaha eipurúvo mbyja’i ra’anga, ikatuhápe embojoapy ñongatuha ha téra ñemomba’epyre pya’eháicha. Upéi ema’ẽ techaukaha rendáre ehecha hag̃ua umi joajuha ehayhuvéva.
+features-bookmarks-get-your-faves-all-sorted = Emoĩporã nde rechaukaha eiporúvo mbyja’i ra’anga, ikatuhápe embojoapy ñongatuha ha téra ñemomba’epyre pya’eháicha. Upéi ema’ẽ techaukaha rendáre ehecha hag̃ua umi joajuha ehayhuvéva.
 # Fly here means to have your bookmark go wherever you go.
 features-bookmarks-fly-with-that-bookmark = Tereho pe techaukaha ndive
 # Variables:

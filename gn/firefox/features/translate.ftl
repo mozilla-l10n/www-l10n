@@ -33,7 +33,7 @@ features-translate-get-the-extension = Erekóke Jepysokue
 features-translate-once-installed-simply = Emohendapa vove, embosa’ýnte pe moñe’ẽrã emoñe’ẽasaséva ha eikutu akatúa gotyo embojuruja hag̃ua poravorã mokõi jeporavorãme: 1) Nde gueraháta translate.google.com pe moñe’ẽrã eiporavóva oikéva ijehegui ñe’ẽasa renda gotyo; térã 2) Ehendu mba’éichapa oñemoñe’ẽ pe mba’epu ñe’ẽrysýi ({ -brand-name-google } Text-to-Speech) rembiporu pyahu ndive, iporãva eikuaasevéramo peteĩ ñe’ẽ pyahu.
 features-translate-switch-languages-in = Emoambue ñe’ẽ { -brand-name-firefox }-pe
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Eipurúmaramo { -brand-name-firefox }, emoambuekuaa ñe’ẽ ne mohendahápe térã embojuaju ñe’ẽnguéra { -brand-name-firefox } mba’erechahápe. <a { $attrs }>Eñemomaranduve ko’ápe.</a>
+features-translate-if-you-are = Eiporúmaramo { -brand-name-firefox }, emoambuekuaa ñe’ẽ ne mohendahápe térã embojuaju ñe’ẽnguéra { -brand-name-firefox } mba’erechahápe. <a { $attrs }>Eñemomaranduve ko’ápe.</a>
 # $attrs (string) - link to https://translate.google.com/about/languages/
 features-translate-with-the-to = *Jepysokue To ndive { -brand-name-google } Translate, ikatu emoñe’ẽasa ko’ãg̃a rupi <a { $attrs }>ko’ã ñe’ẽ</a> pa’ũme:
 # $attrs (string) - link to https://translate.google.com/about/languages/

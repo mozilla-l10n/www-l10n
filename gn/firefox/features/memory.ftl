@@ -12,7 +12,7 @@ features-memory-is-your-computer-slow-your = ¿Ne mohendaha imbegue? Ne kundaha 
 features-memory-less-memory-usage-than-chrome = Oiporu sa’ive mandu’arenda { -brand-name-chrome }-gui
 features-memory-if-your-web-browser-uses = Ne ñanduti kundaha oiporueterei mandu’arenda, eiporu { -brand-name-firefox }.
 features-memory-speed-up-your-computer = Embopya’e ne mohendaha
-features-memory-every-computer-program-you = Opavave mohendaha pegua tembiaporape eipurúva omomichĩ mandu’arenda. Eiporuetereíramo nde apopyvusu imbegueve. { -brand-name-firefox } omombyte — oipurúvo oikotevẽva mandu’arenda eikundaha hag̃ua apañuãi’ỹre ha emohemby oikotevẽva ne mohendaha omba’apo porã hag̃ua.
+features-memory-every-computer-program-you = Opavave mohendaha pegua tembiaporape eiporúva omomichĩ mandu’arenda. Eiporuetereíramo nde apopyvusu imbegueve. { -brand-name-firefox } omombyte — oipurúvo oikotevẽva mandu’arenda eikundaha hag̃ua apañuãi’ỹre ha emohemby oikotevẽva ne mohendaha omba’apo porã hag̃ua.
 features-memory-stop-running-out-of-memory = Anive epyta mandu’arenda’ỹre
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
