@@ -25,7 +25,7 @@ how-it-works-section-title = Como functiona le mascas email e pro telephono de {
 how-it-works-section-extension-headline = Usa ubique le mascas email e pro telephono de { -brand-name-relay }
 how-it-works-section-extension-body = Recipe mascas email secur e aleatori, e un unic numero de telephono mascate a usar quandocunque un sito web, un app, un boteca, o un restaurante te demanda informationes.
 how-it-works-section-forward-headline = Nos inultrara emails, appellos telephonic, e SMS pro te
-how-it-works-section-forward-body = Sta secur, le expeditores jammais sapera tu real adresse email o tu real numero. Tu pote mesmo responder a SMS e emails sin compartir tu real identitate.
+how-it-works-section-forward-body = Sia assecurate que le expeditores non cognoscera jammais tu adresse de e-mail real o tu numero real. Tu pote mesmo responder a messages de SMS o e-mail sin divulgar tu identitate real.
 how-it-works-section-manage-headline = Gere tu mascas ab le pannello de controlo de tu { -brand-name-relay }
 how-it-works-section-manage-body = Accede a tu pannello de controlo de { -brand-name-relay } pro crear nove mascas, mascas de etiquettas existente, e  blocar appellos, SMS, o emails de mascas que te genera troppo spam.
 

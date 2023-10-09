@@ -44,5 +44,5 @@ vpn-download-also-available = Alsi disponibile pro:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Ab le productor de { -brand-name-firefox }, { -brand-name-mozilla-vpn } usa le protocollo avantiate <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pro cryptar tu activitate online e celar tu position.
-vpn-download-we-never-log = Nos jammais registra, tracia o comparti tu datos de rete.
+vpn-download-we-never-log = Nos non registra, tracia o comparti jammais tu datos de rete.
 vpn-download-previous-versions = Discargar versiones previe de { -brand-name-windows } e { -brand-name-mac-short }

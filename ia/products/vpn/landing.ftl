@@ -21,13 +21,13 @@ vpn-landing-fast-secure-heading = Rete veloce e secur
 # Variables:
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } flue sur un rete global de servitores. Per le plus avantiate protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, nos crypta tu activitate in le rete e occulta tu adresse IP. Nos jammais reguarda, registra o comparti tu datos de rete.
+vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } functiona a base de un rete global de servitores. Usante le protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> le plus avantiate, nos crypta tu activitate in le rete e occulta tu adresse IP. Nos non reguarda, registra o comparti jammais tu datos de rete.
 # Obsolete string
 # Variables:
 #   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } flue sur un rete global rete de servitores supportate per <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Per le plus avantiate protocollo de <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>, nos crypta tu activitate de rete e cela tu adresse IP. Nos jammais registra, tracia o comparti tu datos de rete.
+vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } functiona a base de un rete global rete de servitores actionate per <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Usante le protocollo <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> le plus avantiate, nos crypta tu activitate de rete e occulta tu adresse IP. Nos non registra, tracia o comparti jammais tu datos de rete.
 vpn-landing-brand-trust-heading = Un VPN de un marca de fabrica digne de tu confidentia
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
