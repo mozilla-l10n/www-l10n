@@ -24,7 +24,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Nos face un puncto de honor a s
 firefox-privacy-hub-all-tech-companies-collect = Tote le companias technologic collige datos pro meliorar lor productos. Ma pro isto non es necessari includer tante informationes personal. Le unic datos que nos vole es le datos que te servi. Nos sempre nos demanda: require nos realmente iste datos? A que servi illos? E quando pote nos deler los?
 firefox-privacy-hub-keep-it-safe = Mantene los secur.
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Nos lo face, le dur labor pro proteger tu informationes personal
-firefox-privacy-hub-data-security-is-complicated = Le securitate del datos es complicate, e tal debe restar. Ecce perque nos prende le mesuras extra pro classificar le datos que nos ha, mantener regulas pro nostre modo de immagazinage, proteger cata typo e jammais cessar iterar sur nostre processos. Nos investi in illo. Nos es dedicate a illo. Nos mesmo insenia a altere companias como facer lo.
+firefox-privacy-hub-data-security-is-complicated = Le securitate de datos es complexe, o al minus deberea esser lo. Isto es le ration proque nos prende mesuras extra pro classificar le datos in nostre possession, mantene regulas que governa le immagazinage e protection de cata typo de datos, e reevaluta continuemente nostre processos. Nos da le prioritate a tu vita private. Nos investi in illo. Nos es dedicate a illo. Nos mesmo insenia a altere companias como facer lo.
 firefox-privacy-hub-no-secrets = Nulle secretos.
 firefox-privacy-hub-youll-always-know-where-you = Nos essera sempre transparente con te
 # Variables:

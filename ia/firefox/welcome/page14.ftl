@@ -16,5 +16,5 @@ welcome-page14-code-copied = Codice copiate!
 welcome-page14-very-fast = Il es rapide, multo rapide.
 welcome-page14-wireguard-powered = Nostre servitores potentiate per { -brand-name-wireguard }® es producite pro velocitate, assi tu pote diffunder, discargar e jocar como usualmente.
 welcome-page14-without-trace = Internet sin lassar un tracia
-welcome-page14-never-log = Nos jammais registra, tracia, o comparti tu datos de rete, tu activitate online non lassa vestigios sur nostre servitores VPN.
+welcome-page14-never-log = Nos non registra, tracia, o comparti jammais tu datos de rete. Tu activitate in linea non lassara vestigios sur nostre servitores VPN.
 welcome-page14-why-see-this = Proque vide io isto?
