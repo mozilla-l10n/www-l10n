@@ -23,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Eiporukuaa { -brand-name-firefox } ipyahu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Emoñe’ẽ <a href="{ $url }">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
+whatsnew-signoff = <strong>Omboguata { -brand-name-mozilla }.</strong> Omotenondévo yvypóra viru rovake 1998 guive.

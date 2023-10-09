@@ -87,6 +87,11 @@ firefox-privacy-hub-all-the-information-synced = Opaite marandu ojuehéva ne { -
 firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Eraha ne ñemigua ha techaukaha opa hendápe { -brand-name-mozilla-account } ndive.
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Eraha ne ñemigua ha techaukaha opaite hendápe { -brand-name-firefox-account } ndive.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = ¿Erekóma mba’ete? <a { $sign_in } class="{ $class_name }">Eñepyrũ tembiapo</a> térã <a href="{ $learn_more }">ehechave</a> mba’éicha ejuajúta { -brand-name-mozilla } rehe.
 # Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes

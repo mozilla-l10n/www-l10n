@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/monitor/
 
+# HTML page title
+monitor-landing-page-title = { -brand-name-mozilla-monitor } — Omo’ã ne mba’ekuaarã teéva ani ojehecha
 monitor-hero-heading = Ehecha ne marandu ñemiguáva oñembyaikuaápa — ha eguerujey
 monitor-hero-tagline = Rohesa’ỹijo mba’ekuaarã ñembogua rohecha hag̃ua mba’ekuaarã oñemboguára’e ha rombohapéta emoĩporã hag̃ua.
 
@@ -16,6 +18,7 @@ monitor-form-enter-your-email-address = Ehai ne ñanduti veve ehechajey hag̃ua 
 
 ##
 
+monitor-data-breaches-happen-every = Umi <strong>mba’ekuaarã ñembogua</strong> oiko ohupytývo 11 aravo’i, ohechaukávo ne maranduete ñemigua, ani ejepy’apy, roipytyvõta.
 monitor-help-fix-exposures = Roipytyvõta ne ñembyaikuaa myatyrõrã
 monitor-what-info-could-be = Mba’e marandúpa ivaikuaa
 monitor-scan-your-email = Eñepyrũ hag̃ua, emoha’ãnga reiete ne ñanduti veve
