@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι παραπάνω από πρόγραμμα περιήγησης
+# HTML page title
+firefox-products-firefox-beginning = Το { -brand-name-firefox } είναι μόνο η αρχή
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
+firefox-products-mozillas-family-of-products = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = Το { -brand-name-firefox } είναι κάτι <strong>παραπάνω</strong> από περιηγητής
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = Το { -brand-name-firefox } είναι μόνο η <strong>αρχή</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Δείτε αν οι προσωπικές σας πληροφορίες έχουν παραβιαστεί λόγω διαρροής εταιρικών δεδομένων και εγγραφείτε για ειδοποιήσεις.
 firefox-products-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-products-sign-up-for-breach-alerts = Εγγραφή για ειδοποιήσεις παραβιάσεων
+# Obsolete string
 firefox-products-firefox-browsers = Προγράμματα περιήγησης { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Αποκτήστε τα προγράμματα περιήγησης που αποκλείουν αυτόματα 2.000+ ιχνηλάτες δεδομένων. Η Βελτιωμένη προστασία από καταγραφή παρέχεται σε κάθε πρόγραμμα περιήγησης { -brand-name-firefox }.
 firefox-products-desktop = Υπολογιστές
 firefox-products-android = { -brand-name-android }

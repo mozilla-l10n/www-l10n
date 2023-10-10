@@ -26,3 +26,4 @@ monitor-faq-what-gets-exposed-question = Ποιες πληροφορίες εκ�
 ##
 
 monitor-take-back-control = Ανακτήστε τον έλεγχο των δεδομένων σας
+monitor-breach-data-provided-by = Τα δεδομένα παραβιάσεων παρέχονται από το <strong>Have I Been Pwned</strong>

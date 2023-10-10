@@ -63,6 +63,8 @@ privacy-passwords-2fa-is-a = Το 2FA είναι ένας εξαιρετικός
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ο λογαριασμός { -brand-name-firefox } σας, για παράδειγμα, μπορεί να προστατευθεί με 2FA, <a { $url_sumo_2fa }>για το οποίο μπορείτε να ενημερωθείτε εδώ</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Ο { -brand-name-mozilla-account(case: "nom", capitalization: "lower") } σας, για παράδειγμα, μπορεί να προστατευτεί με ταυτοποίηση δύο παραγόντων (2FA), <a { $url_sumo_2fa }>για την οποία μπορείτε να μάθετε περισσότερα εδώ</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Το 2FA παρέχει πολύ καλύτερη ασφάλεια από τους απλούς κωδικούς πρόσβασης, αλλά δεν υποστηρίζεται από όλους τους ιστοτόπους. Μπορείτε να βρείτε μια λίστα με ιστοτόπους που υποστηρίζουν 2FA στο <a { $url_2fa }>https://twofactorauth.org</a>, καθώς και μια λίστα με ιστοτόπους που δεν το υποστηρίζουν και τρόπους με τους οποίους μπορείτε να ζητήσετε να προσθέσουν αυτήν τη λειτουργία.
 privacy-passwords-strong-diverse-and = Ισχύς, ποικιλία και με πολλαπλούς παράγοντες

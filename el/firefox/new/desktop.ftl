@@ -153,9 +153,9 @@ firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }
 firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Προφυλαχτείτε από τους hacker με το { -brand-name-mozilla-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
 # Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Προφυλαχτείτε από τους hackers με το { -brand-name-firefox-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
+firefox-desktop-download-watch-for-hackers-with-v2 = Προφυλαχτείτε από τους χάκερ με το { -brand-name-firefox-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
 # Outdated string
-firefox-desktop-download-watch-for-hackers-with = Προστατευτείτε από hackers με το { -brand-name-firefox-monitor }, φυλάξτε τους κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
+firefox-desktop-download-watch-for-hackers-with = Προστατευτείτε από χάκερ με το { -brand-name-firefox-monitor }, φυλάξτε τους κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 

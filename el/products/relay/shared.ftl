@@ -12,5 +12,5 @@ relay-shared-subnav-premium = { -brand-name-relay-premium }
 relay-shared-subnav-faq = Συχνές ερωτήσεις για το { -brand-name-relay }
 nav-profile-sign-in = Σύνδεση
 # Page description
-meta-description-2 = Το { -brand-name-firefox-relay } διευκολύνει τη δημιουργία μασκών email, τα οποία κάνουν προώθηση των μηνυμάτων σας στα πραγματικά σας εισερχόμενα. Χρησιμοποιήστε τις για να προστατέψτε τους λογαριασμούς σας από hackers και ανεπιθύμητα μηνύματα.
+meta-description-2 = Το { -brand-name-firefox-relay } διευκολύνει τη δημιουργία μασκών email, τα οποία κάνουν προώθηση των μηνυμάτων σας στα πραγματικά σας εισερχόμενα. Χρησιμοποιήστε τις για να προστατέψτε τους λογαριασμούς σας από χάκερ και ανεπιθύμητα μηνύματα.
 hero-section-cta = Έναρξη
