@@ -7,7 +7,9 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox }: proteggi la tua vita in rete con prodotti che mettono la privacy al primo posto
 firefox-home-firefox-is-more-than = { -brand-name-firefox } è più di un browser. Scopri i vantaggi dei prodotti { -brand-name-firefox }: trattano i tuoi dati con rispetto e difendono la tua privacy ovunque ti trovi online.
+# Obsolete string
 firefox-home-the-browser-is-just = Il browser è appena l’inizio
+# Obsolete string
 firefox-home-meet-our-family-of = Scopri la nostra famiglia di prodotti
 firefox-home-get-trackers-off = Scrollati di dosso più di 2000 elementi traccianti, { -brand-name-facebook } compreso
 firefox-home-know-when-hackers-strike = Scopri quando gli hacker colpiscono per essere sempre un passo avanti a loro
@@ -20,6 +22,7 @@ firefox-home-keep-your-passwords = Mantieni le tue password al sicuro su ogni di
 firefox-home-learn-more-about-lockwise = Scopri di più su { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Conquista il <strong>rispetto</strong> che meriti
+# Obsolete string
 firefox-home-every-single-firefox = Ogni prodotto { -brand-name-firefox } nasce nel rispetto del nostro Impegno per i dati personali: <strong>raccogli meno dati, mantienili al sicuro, nessun segreto</strong>.
 # Obsolete string
 firefox-home-share-large-files-without = Condividi file di grandi dimensioni al riparo da occhi indiscreti
@@ -52,6 +55,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }

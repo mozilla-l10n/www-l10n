@@ -44,7 +44,9 @@ firefox-privacy-hub-your-privacy-by-the-product = La tua privacy in ogni prodott
 firefox-privacy-hub-firefox-products-work-differently = I prodotti { -brand-name-firefox } funzionano in modo diverso, perché sono progettati per proteggere innanzitutto la tua privacy.
 firefox-privacy-hub-learn-about-our-products = Scopri i nostri prodotti
 firefox-privacy-hub-firefox-privacy-by-the = La privacy di { -brand-name-firefox }, in ogni prodotto
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protegge la tua privacy in ogni prodotto.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegge</strong> la tua privacy in ogni prodotto
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Più di 2.000 elementi bloccati… automaticamente
@@ -67,7 +69,10 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Se disponi di un { -brand-na
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Più di { $trackers } elementi traccianti bloccati ogni giorno in tutto il mondo per gli utenti di { -brand-name-firefox }
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Quando inserisci il tuo indirizzo email in { -brand-name-firefox-monitor }, viene rimosso subito dopo averne verificato l’eventuale coinvolgimento in violazioni di dati conosciute, a meno che non ci autorizzi a monitorare nuove violazioni delle tue informazioni personali.
 firefox-privacy-hub-check-for-breaches = Cerca nelle violazioni
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
