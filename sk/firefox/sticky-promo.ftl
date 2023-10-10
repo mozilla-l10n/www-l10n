@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = Spoznajte náš rad produktov
+firefox-sticky-promo-meet-mozillas-family = Zoznámte sa s rodinou produktov od { -brand-name-mozilla(case: "gen") }
 firefox-sticky-promo-get-the-latest-firefox = Nainštalujte si najnovší { -brand-name-firefox }.
 # Products List
 firefox-sticky-promo-browsers = Prehliadače

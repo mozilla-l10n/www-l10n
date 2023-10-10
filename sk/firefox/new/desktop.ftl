@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvo
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Berte menej. Udržujte v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach. Vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>účet { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach - vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>{ -brand-name-mozilla-account(capitalization: "lower") }</a> a získate prístup k synchronizácii a ďalším produktom od { -brand-name-mozilla(case: "gen") }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Získajte obrázok čohokoľvek online vo vysokom rozlíšení pomocou nášho nástroja <a { $attrs }>snímky obrazovky</a> zabudovaného priamo v prehliadači.
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Sledujte hackerov pomocou služby { -brand-name-mozilla-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor(case: "gen") }, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.

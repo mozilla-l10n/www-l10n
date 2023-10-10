@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Vaše súkromie v našich prod
 firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox(case: "gen") } fungujú inak – pretože sú navrhnuté tak, aby v prvom rade chránili vaše súkromie.
 firefox-privacy-hub-learn-about-our-products = Ďalšie informácie o našich produktoch
 firefox-privacy-hub-firefox-privacy-by-the = Súkromie vo { -brand-name-firefox(case: "loc") }, v každom produkte
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } chráni vaše súkromie v každom produkte.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } chráni vaše súkromie v každom svojom produkte.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>chráni</strong> vaše súkromie v každom produkte
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>chráni</strong> vaše súkromie v každom svojom produkte
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Blokujeme viac ako 2 000 sledovacích prvkov – automaticky
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Ak máte { -brand-name-firef
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Každý deň je pre používateľov { -brand-name-firefox(case: "gen") } na celom svete zablokovaných viac ako { $trackers } sledovacích prvkov
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Keď zadáte svoju e‑mailovú adresu do služby { -brand-name-mozilla-monitor }, zabudneme ju ihneď po tom, ako skontrolujeme zhodu so známymi únikmi údajov – pokiaľ nám nedáte oprávnenie pokračovať v monitorovaní nových porušení ochrany vašich osobných údajov.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Keď zadáte svoju e‑mailovú adresu do služby { -brand-name-firefox-monitor }, zabudneme ju ihneď po tom, ako skontrolujeme zhodu so známymi únikmi údajov – pokiaľ nám nedáte oprávnenie pokračovať v monitorovaní nových porušení ochrany vašich osobných údajov.
 firefox-privacy-hub-check-for-breaches = Skontrolovať úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

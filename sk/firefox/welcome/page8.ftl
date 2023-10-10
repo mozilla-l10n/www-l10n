@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -15,6 +15,8 @@ welcome-page8-view-your-protection-report = Pozrite sa na hlásenie o ochrane v�
 welcome-page8-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním
 welcome-page8-automatically-block-sites = Automatické blokovanie stránok, ktoré sa vás snažia na internete sledovať.
 welcome-page8-see-whats-blocked = Pozrite sa, čo je blokované
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Pozrite sa, či ste boli súčasťou nejakého známeho úniku dát a vysporiadajte sa s tým.
 welcome-page8-go-to-monitor = Otvoriť { -brand-name-monitor }

@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } je viac ako prehliadač
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } je iba začiatok
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Je to celý rad produktov, ktoré sú vytvorené s cieľom ochrániť vás a pomôcť vám na internete.
+firefox-products-mozillas-family-of-products = Všetky produkty z rodiny { -brand-name-mozilla } sú navrhnuté s cieľom ochrániť vás a pomôcť vám na internete.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>viac</strong> ako prehliadač
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } je iba <strong>začiatok</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Pozrite sa, či ste boli súčasťou úniku dát a prihláste sa na odber upozornení.
 firefox-products-check-for-breaches = Skontrolovať úniky
 firefox-products-sign-up-for-breach-alerts = Prihlásiť sa na odber upozornení na úniky
+# Obsolete string
 firefox-products-firefox-browsers = Prehliadače { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Získajte prehliadače, ktoré automaticky blokujú viac ako 2 000 sledovacích prvkov. Rozšírená ochrana pred sledovaním je štandardom v každom { -brand-name-firefox(case: "loc") }.
 firefox-products-desktop = Počítač
 firefox-products-android = { -brand-name-android }

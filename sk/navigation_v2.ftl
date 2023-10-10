@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Zobraziť všetky { -brand-name-firefo
 
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Zavrieť
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Skontrolujte, či sa vaša e‑mailová adresa objavila v úniku dát.
 navigation-v2-pocket = { -brand-name-pocket }
