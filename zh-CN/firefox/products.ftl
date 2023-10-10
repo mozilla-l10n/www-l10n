@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是浏览器
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } 只是一个开始
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox 有一系列产品，旨在让您上网更安全、更智慧。
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>不只是</strong>浏览器
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } 只是<strong>一个开始</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = 检查您的个人信息是否遭其他公司外泄，并订阅警报通知。
 firefox-products-check-for-breaches = 检查是否有外泄事件
 firefox-products-sign-up-for-breach-alerts = 订阅数据外泄警报
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } 浏览器
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = 获取可自动拦截 2000 多种数据跟踪器的浏览器。所有 { -brand-name-firefox } 浏览器皆已标配增强型跟踪保护功能。
 firefox-products-desktop = 桌面版
 firefox-products-android = { -brand-name-android }

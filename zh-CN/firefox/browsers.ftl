@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = 我们的浏览器视隐私为先�
 firefox-browsers-page-desc = 从桌面版、{ -brand-name-ios } 版和 { -brand-name-android } 版中选取一个，或者让我们通过电子邮件发送给您移动端下载链接。
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = 隐私就是你应有的权利。增强型跟踪保护在所有 { -brand-name-firefox } 浏览器中均默认开启。
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 我们的<strong>浏览器</strong><br>视隐私为先—<br>这是不变的承诺
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = 使用将您的隐私放在首位的浏览器<strong>始终</strong>
 firefox-browsers-desktop = 桌面版
 firefox-browsers-seriously-private-browsing = 隐私上网功能认真保护您。{ -brand-name-firefox } 会自动拦截 2000 多种跟踪器，不让它们收集您上网的行为记录。
 firefox-browsers-download-for-desktop = 下载桌面版

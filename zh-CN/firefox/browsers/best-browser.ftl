@@ -27,6 +27,10 @@ best-browser-there-are-a-few-ways = 浏览器有许多方法可以确保用户�
 best-browser-the-second-is-not-storing = 再者是不存储太多用户数据。不存在的东西黑客就偷不走，这也是为什么 { -brand-name-firefox } 尽可能少地收集与用户相关的数据的原因。<a href="{ $data }">{ -brand-name-firefox } 会知道</a>您使用了浏览器，以及您的大略位置，<a href="{ $privacy }">但不会收集您童年宠物的名字，或是您最喜欢的颜色。</a>
 best-browser-last-but-not-least = 最后同样重要的是，一款安全的浏览器应提供可让您检查账号安全性的工具，想想如果您的任何账号信息外泄，可直接收到警报邮件，或是有图标能告知您网页连接是否经过加密，这样在网页上刷卡时才能安心。
 # Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } 上架了新东西来为您的安全保驾护航<a { $monitor }>{ -brand-name-mozilla-monitor }</a>。这是一项免费服务如果您的账户有任何公开的黑客攻击事件发生时它会通知您并且告知您账户是否被黑过。另一个简洁的功能是绿色锁扣。它看起来像一个绿色小图标在浏览器窗口的左上角。若您在使用 { -brand-name-firefox } 看到绿色的锁头这意味着该网站已加密且安全。如果锁是灰色的则表示您在输入任何敏感信息时可能要三思而后行。
+# Obsolete string
+# Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } 提供能让您确保安全的新功能：<a href="{ $monitor }">{ -brand-name-firefox-monitor } </a>。这是一个可在与您相关的数据外泄事件公开时，向您发出警报的免费服务。你也可以使用此服务检查您在各个网站账号是否曾经遭窃。另一个很棒的功能是“小绿锁”，它出现于浏览器窗口的左上角。当您使用 { -brand-name-firefox } 时若看到这把锁，就代表与该网站间的连接经过加密，可以确保安全。若小锁是灰色的，那么在输入任何敏感信息前最好三思。
 best-browser-we-visit-hundreds-or = 我们每天都会访问成百上千的网站，您不能指望用户为每个网站做出兼顾安全隐私的决定，这就是为什么提供更多控制权的浏览器非常重要：因为它提供了真正有意义的保护。

@@ -44,18 +44,27 @@ privacy-passwords-the-secret-to = 防止被猜到、窃取或密码重置的秘�
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = 攻击者窃取您所使用网站（例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a>）的密码数据库后，您能做的只有更改您用于该网站的密码。这固然很糟糕，但如果您在其他网站上也使用同样的密码，损失可能会更大，攻击者将可以访问您在其他网站的账号。为了减少损失，<strong>请始终对不同的网站使用不同的密码。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = 使用 <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> 监控与您的账号关联的电子邮件地址。若您的电子邮件地址出现在已知的企业数据外泄事件中我们将向您发出警报并提供保护受影响账户的步骤信息。
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 密切关注与您账号关联的电子邮件地址。若您的电子邮件地址出现在已知的数据外泄事件中，就会向您发出警报，并提供保护受影响账号的步骤。
 privacy-passwords-security-questions-my = 密保问题：我母亲的婚前姓氏是“Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = 最后，如果您忘记了密码，大多数网站都可以让您找回密码。通常，这些系统会要求您在重置密码之前回答一些“密保问题”。<strong>这些问题的答案必须和您的密码一样保密。</strong>否则，攻击者会猜到答案并重置您的密码。
 privacy-passwords-randomness-can-be = 随机性可能是一个问题，因为网站经常列出的密保问题也是人们比较了解您的事情，比如您的出生地、生日、亲戚的名字，或者可以从社交媒体等来源收集到的信息。好消息是，这些网站不在乎答案是否真实，您可以撒谎！但要有效地说谎：<strong>设置较长且无厘头的密保问题答案</strong>，就如密码一般复杂。
 privacy-passwords-get-help-from = 使用密码管理器协助管理
 privacy-passwords-now-all-of = 现在，所有这些听起来有点令人退却。人类的大脑并不善于想出长串的随机字母，更不用说还要记住。而这就是内置在 { -brand-name-firefox } 中的密码管理器的用武之地了。它会询问您是否要生成唯一、复杂的密码，然后将其安全保存。您可以随时在地址栏输入 about:logins 访问这些信息。
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 当您使用 { -brand-name-firefox } 账户登录 { -brand-name-firefox } 时，您便可以跨所有设备同步，并在移动版 { -brand-name-firefox } 访问密码。在此处详细了解<a { $url_sumo-manager }>如何使用内置密码管理器</a>。
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = 使用 { -brand-name-mozilla-account }登录 { -brand-name-firefox } 即可在所有设备间同步并访问 { -brand-name-firefox } 移动浏览器上的密码修改这些设置。详细了解<a { $url_sumo_manager }>如何最有效地使用内置密码管理器</a>。
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
 privacy-passwords-2fa-is-a = 2FA 是提升安全性的好方法。设置新账户时，有些网站会为您提供在登录过程中添加“双因子验证”的选项。通常，这需要将您的电话号码链接到您的账户。因此，在输入密码后，系统会提示您输入直接发给您的安全代码。这样，即使黑客设法获得了您的密码，但他们没有您的手机，也就无法进入您的账户。
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox } 账户可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此详细了解</a>。
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = 例如您的 { -brand-name-mozilla-account } 就可以使用 2FA 进行保护<a { $url_sumo_2fa }>您可在此详细了解</a>。
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
 privacy-passwords-strong-diverse-and = 高强度、差异性和多因子

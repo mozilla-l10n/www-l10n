@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = 同步功能在 { -brand-name
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } 浏览器还允许用户免费注册一个 <a { $accounts }>{ -brand-name-mozilla-account }</a>。 { -brand-name-mozilla-account } 是解锁跨设备同步的关键此外您还可以获得 <a { $monitor }>{ -brand-name-mozilla-monitor }</a 等产品的额外好处> 监控您的电子邮件地址并在您的任何信息受到<a { $breaches }>任何已知的数据外泄事件</a>时通知您。
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } 浏览器的用户还可以免费注册 <a { $accounts }>{ -brand-name-mozilla-account }</a>。拥有 { -brand-name-mozilla-account }是解锁跨设备同步的关键；此外，您还能获益于诸如 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等其他增强功能。它会持续监控您的电子邮件地址，并在该邮件地址涉及任何已知的<a { $breaches }>数据外泄事件</a>时向您发出警报。
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } 浏览器的用户还可以免费注册 <a { $accounts }>{ -brand-name-firefox-account }</a>。拥有 { -brand-name-firefox } 账户是解锁跨设备同步的关键；此外，您还能获益于诸如 <a { $monitor }>{ -brand-name-firefox-monitor }</a> 等其他增强功能。它会持续监控您的电子邮件地址，并在该邮件地址涉及任何已知的<a { $breaches }>数据外泄事件</a>时向您发出警报。

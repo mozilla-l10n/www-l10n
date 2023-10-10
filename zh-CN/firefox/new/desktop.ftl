@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{ -brand-name-firefox } 更加注重于保护您的隐私权 — 我们称之为<a { $attrs }>个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。{ -brand-name-firefox } 承诺保护您的数据、网络活动及在线生活。
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有设备上皆可用。只需创建 <a { $attrs }>{ -brand-name-firefox } 账户</a>，即可无缝同步标签页、历史记录与书签。
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } 可以在您的所有设备上使用了随身携带您的标签页、历史记录和书签。您只需创建 <a { $attrs }>{ -brand-name-mozilla-account }</a> 即可使用同步服务及更多 { -brand-name-mozilla } 产品。
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = 使用浏览器内置的<a { $attrs }>屏幕截图工具</a>，抓取高分辨率图像如此简单
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 会自�
 firefox-desktop-download-questions = 有问题？<a { $attrs }>{ -brand-name-mozilla } 用户支持</a> 能帮上忙。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成。接下来开启更多功能，让 { -brand-name-firefox } 火力全开！
+firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护您的电子邮件地址等等。
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护邮箱，还有种种待您探索。
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-lockwise } 保护密码，还有种种待您探索。

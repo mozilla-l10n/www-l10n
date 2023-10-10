@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Firefox 账户
 -brand-name-firefox-devtools = Firefox 开发者工具
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -116,6 +117,7 @@
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Mozilla 账户
 -brand-name-mozilla-accounts = Mozilla 账户
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 

@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = 您的隐私，我们来守护
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } 的产品不一般——保护您的隐私是其首先设计宗旨。
 firefox-privacy-hub-learn-about-our-products = 了解我们的产品
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } 隐私，用产品说话
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } 的所有产品都保护您的隐私。
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } 的所有产品都保护您的隐私。
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } 的所有产品都<strong>保护</strong>您的隐私
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } 在所有产品中都<strong>保护</strong>您的隐私。
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 自动拦截超过 2,000 种跟踪器
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = 若您有 { -brand-name-fire
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } 每天为全球用户拦截超过 { $trackers } 个跟踪器
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = 当您在 { -brand-name-mozilla-monitor } 中输入电子邮件地址时我们会检查是否有已知数据外泄事件尔后自动将其忘记——除非您授权我们继续为您监控新的数据外泄事件。
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = 当您把电子邮件地址输入到 { -brand-name-firefox-monitor } 时，我们会检查是否有已知数据外泄事件，尔后自动将其忘记——除非您授权我们继续为您监控新的数据外泄事件。
 firefox-privacy-hub-check-for-breaches = 检查是否有外泄事件
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

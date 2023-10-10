@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = 一览 { -brand-name-firefox-browsers 
 
 navigation-v2-products = 产品
 navigation-v2-close-products-menu = 关闭“产品”菜单
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = 检查您的邮箱地址是否出现在商业公司的数据外泄事件中。
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = 了解 { -brand-name-firefox } �
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }（测试版）
 navigation-v2-sign-up-for-new-accounts = 无须电子邮件地址也能注册新账户。
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }（测试版）
-navigation-v2-protect-your-browsers-connection = 保护浏览器与互联网之间的连接。
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = { -brand-name-mdn } 定制化体验：新特性、新工具
 navigation-v2-view-all-products = 一览所有产品
