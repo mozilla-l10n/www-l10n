@@ -5,5 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
-features-private-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό πρόγραμμα περιήγησης;
+features-private-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 features-private-what-information-does-firefox = Ποιες πληροφορίες συλλέγει το { -brand-name-firefox };

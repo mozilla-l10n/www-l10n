@@ -6,9 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-free-password-manager = Δωρεάν διαχείριση κωδικών πρόσβασης
+password-manager-free-password-manager = Διαχείριση κωδικών πρόσβασης
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι, μπορείτε να συνδέεστε σε ιστοτόπους αυτόματα ή να ανακτάτε αποθηκευμένους κωδικούς.
+# Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Με έναν <a href="{ $fxa }">δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας.

@@ -8,8 +8,8 @@
 features-shared-firefox-features = Λειτουργίες του { -brand-name-firefox }
 features-shared-footer-cta-title = Κάντε περισσότερα με το { -brand-name-firefox }
 features-shared-footer-cta-button = Λήψη του { -brand-name-firefox }
-features-shared-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο πρόγραμμα περιήγησης;
-features-shared-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό πρόγραμμα περιήγησης;
+features-shared-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο;
+features-shared-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 features-shared-free-password-manager = Διαχείριση κωδικών πρόσβασης
 features-shared-bookmark-manager = Διαχείριση σελιδοδεικτών
 features-shared-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
