@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Získajte prehliadače, pre ktoré 
 firefox-browsers-page-desc = Vyberte si z možností stolný počítač, { -brand-name-ios }, { -brand-name-android } alebo si nechajte poslať e‑mailom odkaz na stiahnutie do mobilu.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Získajte súkromie, ktoré si zaslúžite. Rozšírená ochrana pred sledovaním je automatická v každom prehliadači { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Získajte <strong>prehliadače</strong>, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Získajte prehliadač, pre ktorý je vaše súkromie na prvom mieste – a <strong>vždy</strong> bolo
 firefox-browsers-desktop = Počítač
 firefox-browsers-seriously-private-browsing = Naozajstné súkromné prehliadanie. { -brand-name-firefox } automaticky blokuje viac ako 2 000 sledovacích prvkov, ktoré zbierajú informácie o tom, čo robíte na internete.
 firefox-browsers-download-for-desktop = Stiahnuť pre počítač
