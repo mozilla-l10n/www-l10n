@@ -10,10 +10,10 @@ features-index-protect-your-privacy-and-browse = Προστασία απορρή
 # HTML page description
 features-index-youre-in-control-with-firefoxs = Έχετε τον απόλυτο έλεγχο με τις εύκολες στη χρήση λειτουργίες του { -brand-name-firefox } που προστατεύουν το απόρρητό σας και επιταχύνουν την περιήγησή σας.
 # Hero title
-features-index-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
+features-index-firefox-features = Δυνατότητες του { -brand-name-firefox }
 # Hero description
-features-index-firefox-is-fast = Το { -brand-name-firefox } είναι ένα γρήγορο, ελαφρύ και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
-features-index-add-powerful-functions = Προσθέστε ισχυρά χαρακτηριστικά, χρήσιμες λειτουργίες, ακόμη και λίγη διασκέδαση στο { -brand-name-firefox }.
+features-index-firefox-is-fast = Το { -brand-name-firefox } είναι ένα γρήγορο, «ελαφρύ» και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
+features-index-add-powerful-functions = Προσθέστε νέες δυνατότητες, χρήσιμες λειτουργίες, ακόμα και λίγη διασκέδαση στο { -brand-name-firefox }.
 features-index-see-all = Προβολή όλων των επεκτάσεων
 features-index-give-your-browser = Δώστε στο πρόγραμμα περιήγησής σας την εμφάνιση που θέλετε με χιλιάδες διαφορετικά θέματα.
 features-index-important-stuff = Όλα τα σημαντικά δεδομένα σας — αναζητήσεις, κωδικοί πρόσβασης, ανοικτές καρτέλες — θα είναι διαθέσιμα σε κάθε σας συσκευή.

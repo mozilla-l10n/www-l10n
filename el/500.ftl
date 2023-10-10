@@ -6,7 +6,7 @@ error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Εσωτερικό σφάλμα διακομιστή
 error-page-something-went-wrong = Κάτι πήγε στραβά
-error-page-its-probably-just-a-server-error = Είναι πιθανώς ένα απλό σφάλμα διακομιστή και εργαζόμαστε για να το διορθώσουμε.
+error-page-its-probably-just-a-server-error = Πρόκειται μάλλον για ένα απλό σφάλμα διακομιστή και εργαζόμαστε για να το διορθώσουμε.
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/

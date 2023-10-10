@@ -86,7 +86,7 @@ navigation-protect-your-life-online = Προστατευτείτε στο δια
 navigation-about = Πληροφορίες
 navigation-close-about-menu = Κλείσιμο μενού πληροφοριών
 navigation-meet-the-technology-company = Γνωρίστε την τεχνολογική εταιρεία που έχει ως προτεραιότητα τους ανθρώπους, όχι το κέρδος.
-navigation-new-features = Νέα χαρακτηριστικά
+navigation-new-features = Νέες δυνατότητες
 navigation-save-content-absorb-knowledge = Αποθηκεύστε περιεχόμενο. Απορροφήστε γνώμη.
 navigation-same-speed-and-safety = Η ίδια ταχύτητα και ασφάλεια που εμπιστεύεστε, τώρα και για επιχειρήσεις.
 # Outdated string
@@ -122,7 +122,7 @@ navigation-events = Εκδηλώσεις
 navigation-donate = Δωρεά
 navigation-your-right-to-security = Το δικαίωμά σας στην ασφάλεια και το απόρρητο στο διαδίκτυο είναι θεμελιώδες – ποτέ προαιρετικό.
 navigation-release-notes = Σημειώσεις έκδοσης
-navigation-features = Χαρακτηριστικά
+navigation-features = Δυνατότητες
 navigation-products = Προϊόντα
 navigation-mozilla = { -brand-name-mozilla }
 navigation-mozilla-foundation = { -brand-name-mozilla-foundation }
@@ -132,6 +132,7 @@ navigation-firefox-beta = { -brand-name-firefox-beta }
 navigation-firefox-nightly = { -brand-name-firefox-nightly }
 navigation-firefox-reality = { -brand-name-firefox-reality }
 navigation-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 navigation-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-firefox-send = { -brand-name-firefox-send }
 navigation-pocket = { -brand-name-pocket }

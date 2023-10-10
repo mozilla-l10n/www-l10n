@@ -22,7 +22,7 @@ sub-navigation-android-support = Υποστήριξη { -brand-name-android }
 sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } και { -brand-name-developer-edition } για υπολογιστές
 sub-navigation-desktop-nightly = { -brand-name-nightly } για υπολογιστές
-sub-navigation-features = Χαρακτηριστικά
+sub-navigation-features = Δυνατότητες
 sub-navigation-support = Υποστήριξη
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 # Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
@@ -48,7 +48,7 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } και { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } και { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-firefox-features = Χαρακτηριστικά { -brand-name-firefox }
+sub-navigation-firefox-features = Δυνατότητες του { -brand-name-firefox }
 sub-navigation-ad-tracker-blocking = Φραγή διαφημιστικών ιχνηλατών
 sub-navigation-private-browsing = Ιδιωτική περιήγηση
 sub-navigation-what-is-a-browser = Τι είναι ένα πρόγραμμα περιήγησης;

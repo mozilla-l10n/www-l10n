@@ -9,7 +9,7 @@
 features-fast-get-more-done-browse-faster = Κάντε περισσότερα. Περιηγηθείτε πιο γρήγορα με πολλαπλές καρτέλες
 # HTML description
 features-fast-our-new-powerful-multi-process = Η νέα, ισχυρή μας πλατφόρμα πολλαπλών διεργασιών χειρίζεται όλες τις καρτέλες σας χωρίς να επιβραδύνει τον υπολογιστή σας.
-features-fast-firefox-is-now-faster-and-leaner = Το { -brand-name-firefox } είναι πλέον πιο γρήγορο και ελαφρύ
+features-fast-firefox-is-now-faster-and-leaner = Το { -brand-name-firefox } είναι πλέον πιο γρήγορο και «ελαφρύ»
 features-fast-weve-been-working-out-so-you = Εργαζόμαστε σκληρά, ώστε να κάνετε περισσότερα.
 features-fast-use-less-memory = Χρήση λιγότερης μνήμης
 # A "computer hog" here means software that consumes a lot of memory and resources
