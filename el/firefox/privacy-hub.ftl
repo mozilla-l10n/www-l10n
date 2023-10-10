@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας, 
 firefox-privacy-hub-firefox-products-work-differently = Τα προϊόντα { -brand-name-firefox } λειτουργούν διαφορετικά — επειδή έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας.
 firefox-privacy-hub-learn-about-our-products = Μάθετε για τα προϊόντα μας
 firefox-privacy-hub-firefox-privacy-by-the = Απόρρητο { -brand-name-firefox }, ανά προϊόν
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = Το { -brand-name-firefox } προστατεύει το απόρρητό σας σε κάθε προϊόν.
+firefox-privacy-hub-mozilla-protects-your-privacy = Η { -brand-name-mozilla } προστατεύει το απόρρητό σας σε κάθε προϊόν.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = Το { -brand-name-firefox } <strong>προστατεύει</strong> το απόρρητό σας σε κάθε προϊόν.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = Η { -brand-name-mozilla } <strong>προστατεύει</strong> το απόρρητό σας σε κάθε προϊόν.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000+ αποκλεισμένοι ιχνηλάτες — αυτόματα
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Αν έχετε έναν { -
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Φραγή πάνω από { $trackers } ιχνηλατών κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Όταν εισάγετε τη διεύθυνση email σας στο { -brand-name-mozilla-monitor }, τη διαγράφουμε αμέσως μόλις ελέγξουμε εάν έχει εμφανιστεί σε γνωστές παραβιάσεις δεδομένων, εκτός κι αν μας εξουσιοδοτήσετε να συνεχίσουμε την εποπτεία για νέες διαρροές προσωπικών δεδομένων.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Όταν εισάγετε τη διεύθυνση email σας στο { -brand-name-firefox-monitor }, τη διαγράφουμε αμέσως μόλις την ελέγξουμε για αντιστοιχία σε γνωστές παραβιάσεις δεδομένων — εκτός αν μας εξουσιοδοτήσετε να συνεχίσουμε την εποπτεία νέων διαρροών προσωπικών δεδομένων.
 firefox-privacy-hub-check-for-breaches = Έλεγχος για παραβιάσεις
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
