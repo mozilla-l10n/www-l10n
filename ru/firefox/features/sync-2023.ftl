@@ -11,6 +11,9 @@ features-sync-firefox-browser-sync = Синхронизация браузера
 features-sync-access-your-firefox-bookmarks = Получите доступ к своим закладкам { -brand-name-firefox }, паролям, открытым вкладкам и многому другому с любого устройства.
 features-sync-with-firefox-you-can-pick-up-where = С помощью { -brand-name-firefox } вы можете продолжить с того места, на котором остановились, при переключении с настольного компьютера на мобильный телефон и планшет. { -brand-name-firefox } позволяет вам видеть ваши закладки, историю просмотра, сохраненные пароли и многое другое, независимо от того, какое устройство вы используете.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Зарегистрируйте бесплатный { -brand-name-mozilla-account }</a>, и вы сможете синхронизировать свои данные везде, где используете { -brand-name-firefox } и другие { -brand-name-mozilla } продукты.
+# Obsolete string
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Зарегистрируйте бесплатный { -brand-name-mozilla-account }</a>, и вы сможете синхронизировать свои данные везде, где используете браузер { -brand-name-firefox }.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Зарегистрируйте бесплатный аккаунт { -brand-name-firefox }</a>, и вы сможете синхронизировать свои данные везде, где используете свой браузер { -brand-name-firefox }.

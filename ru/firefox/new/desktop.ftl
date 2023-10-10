@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был с
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = По мере того, как растёт и меняется Интернет, { -brand-name-firefox } продолжает уделять большое внимание вашему праву на приватность — мы называем это <a { $attrs }>Обещанием по личным данным</a>: Собирать меньше. Держать в безопасности. Никаких секретов. Ваши данные, действия и жизнь в Интернете защищаются { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступен для всех ваших устройств; возьмите вкладки, историю и закладки с собой. Всё, что для этого нужно — <a { $attrs }>аккаунт { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступен на всех ваших устройствах; возьмите с собой вкладки, историю и закладки. Все, что вам нужно, это <a { $attrs }>{ -brand-name-mozilla-account }</a>, и вы получите доступ к синхронизации и другим продуктам { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Снимок экрана</a>, встроенного прямо в браузер.
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 firefox-desktop-download-questions = Есть вопросы? Вам поможет <a { $attrs }>Служба поддержки { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас уже есть браузер. Теперь вы можете получить ещё больше от { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Следите за действиями хакеров с { -brand-name-mozilla-monitor }, защитите свой адрес электронной почты с { -brand-name-firefox-relay }, и многое другое.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Следите за действиями хакеров с { -brand-name-firefox-monitor }, защитите свой адрес электронной почты с { -brand-name-firefox-relay }, и многое другое.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Следите за хакерскими атаками с помощью { -brand-name-firefox-monitor }, защищайте пароли с помощью { -brand-name-firefox-lockwise } и многое другое.

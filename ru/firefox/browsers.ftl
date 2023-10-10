@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Установите браузер
 firefox-browsers-page-desc = Выберите компьютер, { -brand-name-ios }, { -brand-name-android } или позвольте нам отправить вам ссылку для загрузки по электронной почте.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Получите приватность, которую вы заслуживаете. Улучшенная защита от отслеживания «из коробки» в каждом браузере { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Установите <strong>браузеры</strong>, которые ставят вашу приватность на первое место — сейчас и всегда
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Получите браузер, в котором ваша конфиденциальность превыше всего — и <strong>всегда</strong>
 firefox-browsers-desktop = Для компьютера
 firefox-browsers-seriously-private-browsing = На самом деле приватный веб-сёрфинг. { -brand-name-firefox } автоматически блокирует более 2000 онлайн-трекеров, не давая им возможности собирать информацию о вашей деятельности в Интернете.
 firefox-browsers-download-for-desktop = Загрузить для компьютера

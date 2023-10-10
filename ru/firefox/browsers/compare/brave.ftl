@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Возможность син
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Браузер { -brand-name-firefox } также даёт пользователя возможность создать бесплатный <a { $accounts }>{ -brand-name-mozilla-account }</a>. Наличие Аккаунта { -brand-name-mozilla-account } является ключом для настройки синхронизации между устройствами, плюс вы получаете дополнительное преимущество таких продуктов, как <a { $monitor }>{ -brand-name-mozilla-monitor }</a>, который отслеживает ваши адреса электронной почты и предупреждает вас, если какая-либо ваша информация была замешана в известных <a { $breaches }>утечках данных</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Браузер { -brand-name-firefox } также даёт пользователя возможность создать бесплатный <a { $accounts }>{ -brand-name-mozilla-account }</a>. Наличие Аккаунта { -brand-name-mozilla-account } является ключом для настройки синхронизации между устройствами, плюс вы получаете дополнительное преимущество таких продуктов, как <a { $monitor }>{ -brand-name-firefox-monitor }</a>, который отслеживает ваши адреса электронной почты и предупреждает вас, если какая-либо ваша информация была замешана в известных <a { $breaches }>утечках данных</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Браузер { -brand-name-firefox } также даёт пользователю возможность создать бесплатный <a { $accounts }>{ -brand-name-firefox-account }</a>. Наличие Аккаунта { -brand-name-firefox } является ключом для настройки синхронизации между устройствами, а также в качестве преимущества вы получите доступ к таким продуктам, как <a { $monitor }>{ -brand-name-firefox-monitor }</a>, который отслеживает ваши адреса электронной почты и предупредит вас, если какая-либо ваша информация будет замешана в известных <a { $breaches }>утечках данных</a>.

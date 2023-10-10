@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Возьмите свою приватность
 newsletters-travel-the-internet = Путешествуйте по Интернету с защитой на всех ваших устройствах.
 newsletters-download-the-app = Загрузить приложение
 newsletters-check-for-data-breaches = Проверьтесь на утечки данных
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } — это бесплатная служба, которая позволяет вам узнать, не были ли вы затронуты утечками данных в Интернете.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } — это бесплатная служба, которая позволяет вам узнать, не были ли вы затронуты утечками данных в Интернете.
 newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Познакомьтесь с нашим родительским брендом
