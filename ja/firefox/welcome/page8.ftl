@@ -18,7 +18,12 @@ welcome-page8-enhanced-tracking-protection = 強化型トラッキング防止 (
 
 welcome-page8-automatically-block-sites = インターネット上でのウェブサイトによる追跡を自動でブロックします。
 welcome-page8-see-whats-blocked = ブロックしたサイトを確認する
+
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+
 welcome-page8-see-what-youve-been = 確認されているオンライン上のデータ侵害にユーザーが巻き込まれているかどうかを確認し、問題の解決処置を講じることができます。
 welcome-page8-go-to-monitor = { -brand-name-monitor } へ移動
 welcome-page8-firefox-send = { -brand-name-firefox-send }
