@@ -35,7 +35,11 @@ navigation-v2-view-all-firefox-browsers = すべての { -brand-name-firefox-bro
 
 navigation-v2-products = 製品
 navigation-v2-close-products-menu = 製品メニューを閉じる
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+
 navigation-v2-see-if-your-email-has = お使いのメールが企業のデータ漏洩で検出された場合に表示します。
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = ウェブ全体から最高のストーリーを保存、発見します。

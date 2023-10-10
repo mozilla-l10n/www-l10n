@@ -35,7 +35,11 @@ navigation-v2-view-all-firefox-browsers = Lihat semua { -brand-name-firefox-brow
 
 navigation-v2-products = Produk
 navigation-v2-close-products-menu = Tutup menu Produk
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+
 navigation-v2-see-if-your-email-has = Lihat jika e-mel anda telah muncul dalam kebocoran data sesebuah syarikat.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Simpan dan terokai kisah-kisah terbaik dari seluruh laman web.

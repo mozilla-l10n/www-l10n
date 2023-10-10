@@ -35,7 +35,11 @@ navigation-v2-view-all-firefox-browsers = شاهد جميع { -brand-name-firefo
 
 navigation-v2-products = المنتجات
 navigation-v2-close-products-menu = أغلِق قائمة "المنتجات"
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+
 navigation-v2-see-if-your-email-has = تحقَّق مما إذا كان بريدك الإلكتروني قد ظهر في عملية خرق لبيانات الشركة أم لا.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = احفظ أفضل القصص واكتشفها عبر شبكة الويب.
