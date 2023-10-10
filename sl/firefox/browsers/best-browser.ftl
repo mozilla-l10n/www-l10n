@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Brskalnik lahko varuje svoje uporabnike na �
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Drug način pa je zmanjšanje hranjenja preveč uporabniških podatkov. Hekerji ne morejo ukrasti tistega, česar tam ni, zato { -brand-name-firefox } hrani minimalno količino podatkov o svojih uporabnikih. <a href="{ $data }">{ -brand-name-firefox } ve</a>, da uporabljate brskalnik, in pozna vašo splošno lokacijo <a href="{ $privacy }">, ne pa tudi imena vašega hišnega ljubljenčka ali vašega najljubše barve.</a>
 best-browser-last-but-not-least = In nenazadnje, varen brskalnik naj bi ponudil orodja, s katerimi boste lahko pozorni na svoje račune. Pomislite na opozorila, ki jih prejmete naravnost v vaš e-poštni naslov, če je katerikoli od vaših računov ogrožen ali ikone, ki povedo, ali je spletno mesto šifrirano (tj. če je varno, da vnesete številko kreditne kartice na spletno stran).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } ponuja nekaj novega, da boste varni: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. To je brezplačna storitev, ki vas bo opozorila, če so vaši računi ogroženi v kakršni koli javni kraji in vas obvestila, če je v preteklosti prišlo do vdora v vaše račune. Druga dobra lastnost je zelena ključavnica. Videti je kot majhna zelena ikona na zgornji levi strani okna brskalnika. Če brskate s { -brand-name-firefox }om in vidite zeleno ključavnico, to pomeni, da je spletno mesto šifrirano in varno. Če je ključavnica obarvana sivo, boste morda želeli dvakrat premisliti o vnosu občutljivih podatkov.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } ponuja nekaj novega, da boste varni: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. To je brezplačna storitev, ki vas bo opozorila, če so vaši računi ogroženi v kakršni koli javni kraji in vas obvestila, če je v preteklosti prišlo do vdora v vaše račune. Druga dobra lastnost je zelena ključavnica. Videti je kot majhna zelena ikona na zgornji levi strani okna brskalnika. Če brskate s { -brand-name-firefox }om in vidite zeleno ključavnico, to pomeni, da je spletno mesto šifrirano in varno. Če je ključavnica obarvana sivo, boste morda želeli dvakrat premisliti o vnosu občutljivih podatkov.

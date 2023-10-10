@@ -16,6 +16,10 @@ firefox-products-its-a-whole-family-of-products = Je družina izdelkov, namenjen
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>več</strong> kot le brskalnik
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } je zgolj <strong>začetek</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Preverite, ali so bili vaši osebni podatki del kraje podatkov podjetij, in se prijavite na prihodnja opozorila.
 firefox-products-check-for-breaches = Preverite kraje podatkov

@@ -9,6 +9,7 @@
 password-manager-free-password-manager = Brezplačen upravitelj gesel
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox }ov upravitelj gesel shranjuje vsa gesla na enem mestu, da se lahko samodejno prijavljate na straneh ali pridobite shranjena gesla.
+# Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Z <a href="{ $fxa }">brezplačnim { -brand-name-mozilla-account(sklon: "orodnik") }</a> lahko gesla varno sinhronizirate med vsemi svojimi napravami.
@@ -16,3 +17,5 @@ password-manager-with-a-free-mozilla-account = Z <a href="{ $fxa }">brezplačnim
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Z <a href="{ $fxa }">brezplačnim { -brand-name-firefox } Računom</a> lahko gesla varno sinhronizirate med vsemi svojimi napravami.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Slika pogovornega okna { -brand-name-firefox }ovega čarovnika za uvoz, ki prikazuje možnosti uvoza nastavitev in podatkov iz drugih brskalnikov.

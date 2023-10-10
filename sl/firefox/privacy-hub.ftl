@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Vaša zasebnost v vseh izdelki
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }ovi izdelki delujejo drugače – saj so zasnovani tako, da v prvi vrsti ščitijo vašo zasebnost.
 firefox-privacy-hub-learn-about-our-products = Spoznajte naše izdelke
 firefox-privacy-hub-firefox-privacy-by-the = Zasebnost { -brand-name-firefox(sklon: "rodilnik") } v vsakem izdelku
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ščiti vašo zasebnost v vsakem izdelku.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } ščiti vašo zasebnost v vsakem izdelku.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>ščiti</strong> vašo zasebnost v vsakem izdelku.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Več kot 2000 zavrnjenih sledilcev – samodejno
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Če imate { -brand-name-fire
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Preko { $trackers } sledilcev je dnevno zavrnjenih za uporabnike { -brand-name-firefox(sklon: "rodilnik") } po svetu
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Ko v { -brand-name-mozilla-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Ko v { -brand-name-firefox-monitor } vnesete svoj e-poštni naslov, ga pozabimo takoj, ko preverimo, ali se ujema z znanimi krajami podatkov – razen če nas pooblastite, da nadaljujemo s spremljanjem novih kraj vaših osebnih podatkov.
 firefox-privacy-hub-check-for-breaches = Preverite kraje podatkov
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
