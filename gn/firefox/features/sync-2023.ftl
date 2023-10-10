@@ -9,4 +9,4 @@
 features-sync-firefox-browser-sync = { -brand-name-firefox } kundahára mbojueheha
 features-sync-send-tabs-from-one-device-to-another = Emondo tendayke mba’e’okágui ambuépe
 # Used as accessible alternative text for an image
-features-sync-an-image-of-a-firefox-application = Ta’ãnga tembipuru’i paravorã { -brand-name-firefox } ohechaukáva poravopyrã “Emondo mba’e’oka rendayke”.
+features-sync-an-image-of-a-firefox-application = Ta’ãnga tembiporu’i paravorã { -brand-name-firefox } ohechaukáva poravopyrã “Emondo mba’e’oka rendayke”.
