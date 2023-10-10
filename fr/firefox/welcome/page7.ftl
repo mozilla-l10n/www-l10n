@@ -19,6 +19,15 @@ page7-make-them-unfollow-you = Les empêcher de suivre vos comptes
 page7-that-sneaky-little-button = Ce petit bouton sournois
 page7-those-innocent-looking-f-buttons = Vous les avez sûrement déjà vus : les petits boutons { -brand-name-facebook } ont l’air inoffensifs, mais ils suivent votre activité sur le Web même quand vous n’avez pas de compte. { -brand-name-facebook-container } les bloque.
 page7-stay-ahead-of-hackers = Prenez une longueur d’avance sur les hackers
+
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } vous permet de découvrir ce que les hackers savent potentiellement déjà sur vous et vous aide à garder une longueur d’avance sur eux. (C’est gratuit.)
+
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } vous permet de découvrir ce que les hackers savent potentiellement déjà sur vous et vous aide à garder une longueur d’avance sur eux. (C’est gratuit.)
+
+page7-get-mozilla-monitor = Installer { -brand-name-mozilla-monitor }
+
+# Obsolete string
 page7-get-firefox-monitor = Installer { -brand-name-firefox-monitor }
+
 page7-why-am-i-seeing-this = Pourquoi me montre-t-on cette page ?

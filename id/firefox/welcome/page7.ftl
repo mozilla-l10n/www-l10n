@@ -19,6 +19,15 @@ page7-make-them-unfollow-you = Buat mereka berhenti mengikuti Anda
 page7-that-sneaky-little-button = Tombol kecil licik itu
 page7-those-innocent-looking-f-buttons = Tombol F yang terlihat polos dari { -brand-name-facebook } itu melacak aktivitas web Anda, meskipun Anda tidak memiliki akun. { -brand-name-facebook-container } memblokir mereka.
 page7-stay-ahead-of-hackers = Selangkah lebih maju dari peretas
+
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } memungkinkan Anda mengetahui apa yang mungkin sudah diketahui peretas tentang Anda dan membantu Anda tetap selangkah lebih maju dari mereka. (Dan gratis.)
+
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } memungkinkan Anda mengetahui apa yang mungkin sudah diketahui peretas tentang Anda dan membantu Anda tetap selangkah lebih maju dari mereka. (Dan gratis.)
+
+page7-get-mozilla-monitor = Dapatkan { -brand-name-mozilla-monitor }
+
+# Obsolete string
 page7-get-firefox-monitor = Dapatkan { -brand-name-firefox-monitor }
+
 page7-why-am-i-seeing-this = Mengapa saya melihat ini?

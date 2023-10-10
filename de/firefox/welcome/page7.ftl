@@ -19,6 +19,15 @@ page7-make-them-unfollow-you = Häng Social-Tracker ab
 page7-that-sneaky-little-button = Dieser fiese kleine Button
 page7-those-innocent-looking-f-buttons = Die unschuldig aussehenden { -brand-name-facebook }-Widgets auf diversen Websites tracken deine Online-Aktivitäten selbst dann, wenn du gar keinen FB-Account hast. { -brand-name-facebook-container } blockt sie.
 page7-stay-ahead-of-hackers = Sei Hackern einen Schritt voraus
+
+page7-firefox-monitor-lets-you-find-v2 = Mit { -brand-name-mozilla-monitor } erfährst du, was Hacker vielleicht bereits von dir wissen. Überprüfe, ob deine Accounts sicher sind und bleib ihnen immer einen Schritt voraus. (Ist übrigens kostenlos)
+
+# Obsolete string
 page7-firefox-monitor-lets-you-find = Mit { -brand-name-firefox-monitor } erfährst du, was Hacker vielleicht bereits von dir wissen. Überprüfe, ob deine Accounts sicher sind und bleib ihnen immer einen Schritt voraus. (Ist übrigens kostenlos)
+
+page7-get-mozilla-monitor = Hol dir jetzt { -brand-name-mozilla-monitor }
+
+# Obsolete string
 page7-get-firefox-monitor = Jetzt { -brand-name-firefox-monitor } nutzen
+
 page7-why-am-i-seeing-this = Warum wird mir das angezeigt?
