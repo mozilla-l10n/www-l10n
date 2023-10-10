@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Vigye magával az adatvédelmet
 newsletters-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 newsletters-download-the-app = Alkalmazás letöltése
 newsletters-check-for-data-breaches = Adatsértések keresése
+newsletters-mozilla-monitor-is-a-free = A { -brand-name-mozilla-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy megnézze, hogy szerepelt-e online adatvédelmi incidensben.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = A { -brand-name-firefox-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy lássa, szerepelt-e online adatsértésben.
 newsletters-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
 newsletters-meet-our-parent-brand = Ismerje meg szülőmárkánkat

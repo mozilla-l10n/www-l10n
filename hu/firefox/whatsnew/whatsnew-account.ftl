@@ -9,11 +9,15 @@
 ## Required
 
 whatsnew-account-main-headline = Nincs szükség fiókra. De talán szeretné, hogy legyen.
-whatsnew-account-main-lead-in = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el. Viszont ha email-címével létrehoz egy { -brand-name-firefox } fiókot, a személyes adatait jobban tudjuk védeni online jelenléte során.
-whatsnew-account-main-button = Bejelentkezés
+whatsnew-account-main-lead-in-v2 = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el. De ha a { -brand-name-mozilla-account } létrehozásához használja, akkor számos adatvédelmi termékhez kap hozzáférést a { -brand-name-firefox } mellett.
+whatsnew-account-mozilla-cta = Szerezzen egy { -brand-name-mozilla-account }ot
 
 ##
 
+# Obsolete string
+whatsnew-account-main-lead-in = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el. Viszont ha email-címével létrehoz egy { -brand-name-firefox } fiókot, a személyes adatait jobban tudjuk védeni online jelenléte során.
+# Obsolete string
+whatsnew-account-main-button = Bejelentkezés
 whatsnew-account-signed-in-headline = Tegyen többet. Töltse le a { -brand-name-firefox(case: "accusative") } mobilra.
 whatsnew-account-signed-in-lead-in = Küldjön egy letöltési hivatkozást a telefonjára.
 whatsnew-account-signed-in-qr-title = Töltse le a { -brand-name-firefox(case: "accusative") } okostelefonjára vagy táblagépére.

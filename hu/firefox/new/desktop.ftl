@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "ac
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = A { -brand-name-firefox } elérhető az összes eszközén; vigye magával a lapjait, előzményeit és könyvjelzőit. Csak egy <a { $attrs }>{ -brand-name-firefox }-fiókra van szüksége</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = A { -brand-name-firefox } elérhető az összes eszközén; vigye magával a lapjait, előzményeit és könyvjelzőit. Csak egy <a { $attrs }>{ -brand-name-mozilla-account }</a> szükséges, és hozzáférést kap a szinkronizáláshoz, és további { -brand-name-mozilla } termékekhez.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Készítsen bármiről nagy felbontású képet a böngészőbe épített <a { $attrs }>képernyőkép</a> eszközzel
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } autom
 firefox-desktop-download-questions = Kérdései vannak? A <a { $attrs }>{ -brand-name-mozilla } támogatás</a> a rendelkezésére áll.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Már rendelkezik a böngészővel. Most kapjon még többet a { -brand-name-firefox }tól.
+firefox-desktop-download-watch-for-hackers-with-v3 = Figyeljen a hackerekre a { -brand-name-mozilla-monitor } segítségével, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg a jelszavait a { -brand-name-firefox-lockwise } segítségével, és így tovább.

@@ -7,8 +7,12 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } – Védje meg az online életét az adatvédelmet előre helyező termékeinkkel
 firefox-home-firefox-is-more-than = A { -brand-name-firefox } több mint egy böngésző. Tudjon meg többet a { -brand-name-firefox } termékekről, amelyek tisztelettel kezelik az adatait, és figyelembe veszik az adatvédelmet, bármerre is járjon online.
+# Obsolete string
 firefox-home-the-browser-is-just = A böngésző csak a kezdet
+firefox-home-firefox-is-just = A { -brand-name-firefox } csak a kezdet.
+# Obsolete string
 firefox-home-meet-our-family-of = Ismerje meg termékcsaládunkat
+firefox-home-meet-mozillas-family = Ismerje meg a { -brand-name-mozilla } termékcsaládját
 firefox-home-get-trackers-off = Szabaduljon meg 2.000 nyomkövetőtől – beleértve a { -brand-name-facebook }ot is
 firefox-home-know-when-hackers-strike = Tudja meg, hogy mikor csapnak le a hackerek – és legyen egy lépéssel előrébb
 firefox-home-start-getting-breach = Kapjon adatsértési jelentéseket
@@ -20,7 +24,9 @@ firefox-home-keep-your-passwords = Tartsa biztonságban a jelszavait minden eszk
 firefox-home-learn-more-about-lockwise = Tudjon meg többet a { -brand-name-lockwise }-ról
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Kapja meg az Önt megillető <strong>tiszteletet</strong>
+# Obsolete string
 firefox-home-every-single-firefox = Minden egyes { -brand-name-firefox } termék betartja a személyes adatokra vonatkozó ígéretünket: <strong>Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.</strong>
+firefox-home-every-single-mozilla = Minden egyes { -brand-name-mozilla } termék betartja a személyes adatokra vonatkozó ígéretünket: <strong>Vegyél kevesebbet. Tartsa biztonságban. Nincsenek titkok.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Osszon meg nagy fájlokat kíváncsi tekintetek nélkül
 # Obsolete string
@@ -52,6 +58,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }

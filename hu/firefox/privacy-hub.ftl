@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Adatvédelem, termékenként
 firefox-privacy-hub-firefox-products-work-differently = A { -brand-name-firefox } termékek másképp működnek – mert úgy vannak tervezve, hogy elsősorban a magánéletét védjék.
 firefox-privacy-hub-learn-about-our-products = Ismerje meg termékeinket
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } adatvédelem, termékenként
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = A { -brand-name-firefox } minden terméknél megvédi a magánszféráját.
+firefox-privacy-hub-mozilla-protects-your-privacy = A { -brand-name-mozilla } minden terméknél megvédi az Ön adatait.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = A { -brand-name-firefox } minden terméknél <strong>megvédi</strong> a magánszféráját.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = A { -brand-name-mozilla } minden terméknél <strong>megvédi</strong> a személyes adatait.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Több mint 2000 nyomkövető blokkolva – automatikusan
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Ha van { -brand-name-firefox
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Naponta több mint { $trackers } nyomkövető blokkolva a { -brand-name-firefox } felhasználók számára világszerte
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Ha megadja az e-mail-címét a { -brand-name-mozilla-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatsértéseket – hacsak nem engedélyezi, hogy kövessük az új adatsértéseket az Ön személyes információi után.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Ha megadja az e-mail-címét a { -brand-name-firefox-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatsértéseket – hacsak nem engedélyezi, hogy kövessük az új adatsértéseket az Ön információi után keresve.
 firefox-privacy-hub-check-for-breaches = Adatsértések keresése
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

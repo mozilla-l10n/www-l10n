@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző
+# HTML page title
+firefox-products-firefox-beginning = A { -brand-name-firefox } csak a kezdet
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Ez egy olyan teljes termékcsalád, amely arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
+firefox-products-mozillas-family-of-products = A { -brand-name-mozilla } termékcsaládját úgy tervezték, hogy Ön nagyobb biztonságban legyen, és okosabb legyen online
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = A { -brand-name-firefox } <strong>több</strong>, mint egy böngésző
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = A { -brand-name-firefox } csak a <strong>kezdetet</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Nézze meg, hogy a személyes információi kikerültek-e vállalati adatsértésekben, és iratkozzon fel a jövőbeli figyelmeztetésekre.
 firefox-products-check-for-breaches = Adatsértések keresése
 firefox-products-sign-up-for-breach-alerts = Iratkozzon fel az adatsértési figyelmeztetésekre
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } böngészők
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Szerezze be azokat a böngészőket, amelyek automatikusan blokkolnak több mint 2000 adatkövetőt. A fokozott követés elleni védelem alapvető minden { -brand-name-firefox } böngészőben.
 firefox-products-desktop = Asztali
 firefox-products-android = { -brand-name-android }

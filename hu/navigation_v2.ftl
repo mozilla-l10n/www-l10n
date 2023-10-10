@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = { -brand-name-firefox-browsers } megte
 
 navigation-v2-products = Termékek
 navigation-v2-close-products-menu = Termékek menü bezárása
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Nézze meg, hogy az e-mail-címe szerepelt-e valamilyen vállalat adatsértésében.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Tudja meg, hogy a { -brand-name-f
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (béta)
 navigation-v2-sign-up-for-new-accounts = Regisztráljon új fiókokat anélkül, hogy átadná az e-mail-címét.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (béta)
-navigation-v2-protect-your-browsers-connection = Védje meg a böngészője internetkapcsolatát.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Új funkciók és eszközök a személyre szabott { -brand-name-mdn } élményhez
 navigation-v2-view-all-products = Összes termék megtekintése

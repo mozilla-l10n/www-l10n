@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Szerezze be a böngészőket, melye
 firefox-browsers-page-desc = Válasszon az asztali, { -brand-name-ios }-es, { -brand-name-android(case: "lower") }os lehetőségek közül, vagy kérjen levélben egy mobilos letöltési hivatkozást.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Szerezze meg a megérdemelt adatvédelmet. A fokozott követés elleni védelem automatikus minden egyes { -brand-name-firefox } böngészőben.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Kapja meg azokat a <strong>böngészőket</strong>, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Szerezze be azt a böngészőt, amely az adatvédelmet helyezi előtérbe – és <strong>mindig</strong> is tette
 firefox-browsers-desktop = Asztali
 firefox-browsers-seriously-private-browsing = Valóban privát böngészés. A { -brand-name-firefox } automatikusan blokkol több mint 2000 online követőt, melyek információt gyűjtenének az online tevékenységéről.
 firefox-browsers-download-for-desktop = Letöltés asztali gépre

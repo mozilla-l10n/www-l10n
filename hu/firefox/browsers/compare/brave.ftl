@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = A jelszavak, kiegészítők �
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = A { -brand-name-firefox } böngésző azt is lehetővé teszi a felhasználóknak, hogy ingyenes <a { $accounts }>{ -brand-name-mozilla-account }</a> regisztrációt kérjenek. A { -brand-name-mozilla-account } a kulcsa az eszközök közti szinkronizáció feloldásának, valamint az olyan termékek további előnyét kapja meg, mint a <a { $monitor }>{ -brand-name-mozilla-monitor }</a > amely figyeli az e-mail-címeit, és értesíti Önt, ha az adatai érintettek voltak az <a { $breaches }>adatvédelmi incidensben</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-mozilla-account }ot</a> regisztráljanak. A { -brand-name-mozilla-account } az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail-címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = A { -brand-name-firefox } böngésző arra is lehetőséget biztosít, hogy a felhasználók ingyenes <a { $accounts }>{ -brand-name-firefox-account }ot</a> regisztráljanak. A { -brand-name-firefox }-fiók az eszközök közti szinkronizáció kulcsa, továbbá olyan termékekhez is használható, mint a <a { $monitor }>{ -brand-name-firefox-monitor }</a>, amely figyeli az e-mail-címeit, és értesíti ha az információi kiszivárogtak egy ismert <a { $breaches }>adatsértésben</a>.
