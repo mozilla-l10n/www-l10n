@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = The secret to preventing guessing, theft or pa
 privacy-passwords-when-an-attacker = When an attacker steals the password database for a site that you use (like <a { $url_linkedin }>LinkedIn</a> or <a { $url_yahoo }>Yahoo</a>), there’s nothing you can do but change your password for that site. That’s bad, but the damage can be much worse if you’ve re-used that password with other websites — then the attacker can access your accounts on those sites as well. To keep the damage contained, <strong>always use different passwords for different websites.</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Use <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> to keep an eye on email addresses associated with your accounts. If your email address appears in a known corporate data breach, you’ll be alerted and provided steps to follow to protect the affected account.
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Use <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> to keep an eye on email addresses associated with your accounts. If your email address appears in a known corporate data breach, you’ll be alerted and provided steps to follow to protect the affected account.
+
 privacy-passwords-security-questions-my = Security Questions: My mother’s maiden name is “Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = Finally, most websites let you recover your password if you’ve forgotten it. Usually these systems make you answer some “security questions” before you can reset your password. <strong>The answers to these questions need to be just as secret as your password.</strong> Otherwise, an attacker can guess the answers and set your password to something they know.
 privacy-passwords-randomness-can-be = Randomness can be a problem, since the security questions that sites often use are also things people tend to know about you, like your birthplace, your birthday, or your relatives’ names, or that can be gleaned from sources such as social media. The good news is that the website doesn’t care whether the answer is real or not — you can lie! But lie productively: <strong>Give answers to the security questions that are long and random,</strong> like your passwords.
 privacy-passwords-get-help-from = Get help from a password manager
 privacy-passwords-now-all-of = Now, all of this sounds pretty intimidating. The human mind isn’t good at coming up with long sequences of random letters, let alone remembering them. That’s where a password manager comes in. Built right into the browser, { -brand-name-firefox } will ask if you want to generate a unique, complex password, then securely save your login information, which you can access anytime in about:logins.
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = When you’re logged into { -brand-name-firefox } with your { -brand-name-firefox } account, you can sync across all your devices and access your passwords from a { -brand-name-firefox } mobile browser. Learn more about <a { $url_sumo-manager }>how to use the built-in password manager</a> to the fullest here.
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = When you’re logged into { -brand-name-firefox } with your { -brand-name-mozilla-account }, you can sync across all your devices and access your passwords from a { -brand-name-firefox } mobile browser. Learn more about <a { $url_sumo_manager }>how to use the built-in password manager to the fullest</a>.
 privacy-passwords-twofactor-authentication-2fa = Two-Factor Authentication (2FA)
 privacy-passwords-2fa-is-a = 2FA is a great way to level-up your security. When setting up a new account, some sites will give you the option to add a “second factor” to the login process. Often, this means linking your phone number to your account, so after you enter your password, you will be prompted to enter a secure code texted directly to you. This way, if a hacker has managed to get your password, they still won’t be able to get into your account, since they don’t have your phone.
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Your { -brand-name-firefox } account, for instance, can be protected with 2FA, <a { $url_sumo_2fa }>which you can learn more about here</a>.
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Your { -brand-name-mozilla-account }, for example, can be protected with 2FA, <a { $url_sumo_2fa }>which you can learn more about here</a>.
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA provides much better security than passwords alone, but not every website supports it. You can find a list of websites that support 2FA at <a { $url_2fa }>https://2fa.directory</a>, as well as a list of sites that don’t support 2FA and ways you can ask them to add support.

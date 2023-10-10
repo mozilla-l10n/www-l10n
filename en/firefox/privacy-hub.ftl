@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = Your privacy, by the product
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } products work differently — because they’re designed to protect your privacy first.
 firefox-privacy-hub-learn-about-our-products = Learn about our products
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } privacy, by the product
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protects your privacy in every product.
+
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protects your privacy in every product.
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protects</strong> your privacy in every product
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protects</strong> your privacy in every product.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ trackers blocked — automatically
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = If you have a { -brand-name-
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = More than { $trackers } trackers blocked each day for { -brand-name-firefox } users worldwide
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = When you enter your email address in { -brand-name-mozilla-monitor }, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = When you enter your email address in { -brand-name-firefox-monitor }, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.
 firefox-privacy-hub-check-for-breaches = Check for breaches
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
