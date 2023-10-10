@@ -7,7 +7,9 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Protege tu vita online con productos de maxime discretion
 firefox-home-firefox-is-more-than = { -brand-name-firefox } es plus que un navigator. Saper plus re le productos { -brand-name-firefox } que tracta tu datos con respecto e es producite pro le confidentialitate ubique tu va in rete.
+# Obsolete string
 firefox-home-the-browser-is-just = Le navigator es solo le initio
+# Obsolete string
 firefox-home-meet-our-family-of = Incontra nostre familia de productos
 firefox-home-get-trackers-off = Libera te de plus de 2000 traciatores, incluse { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Sape quando le hackers batte e sta un grado avante
@@ -20,6 +22,7 @@ firefox-home-keep-your-passwords = Mantene tu contrasignos secur sur cata appara
 firefox-home-learn-more-about-lockwise = Saper plus re { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Obtene le <strong>respecto</strong> que tu merita
+# Obsolete string
 firefox-home-every-single-firefox = Cata producto de { -brand-name-firefox } honora nostre promissa sur tu datos personal: nos promitte de <strong>prender minus de tu datos, mantener los secur, e non guardar secretos pro te</strong>.
 # Obsolete string
 firefox-home-share-large-files-without = Comparti grande files sin oculos indiscrete
@@ -52,6 +55,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
