@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = მხარში დაუდექით { -brand-name-mozilla }-ს ინტერნეტის განვითარებისთვის ბრძოლაში ამ შვებულების განმავლობაში.
-banner-fundraising-title-giving-day = მხარში დაუდექით { -brand-name-mozilla }-ს ინტერნეტის განვითარებისთვის ბრძოლაში, მადლიერების ხუთშაბათ დღეს.
+banner-fundraising-title-v2 = მხარში დაუდექით { -brand-name-mozilla }-ს უკეთესი ინტერნეტისთვის ბრძოლისას ამ საშვებულებო დღეებში.
+banner-fundraising-title-giving-day = მხარში დაუდექით { -brand-name-mozilla }-ს უკეთესი ინტერნეტისთვის ბრძოლისას მადლიერების ხუთშაბათს.
 # Outdated string
 banner-fundraising-title = მომავლის ბედი ინტერნეტში წყდება. მიეხმარეთ { -brand-name-mozilla }-ს იბრძოლოს ვებსივრცის დასაბრუნებლად, თითოეული ჩვენგანისთვის.
 banner-fundraising-body-v2 = ჩვენ ვართ ვებსამყაროს სიჯანსაღისთვის მებრძოლი არამომგებიანი კომპანია და ეს მეტად გვეამაყება. თქვენი შემოწირულობა მიმართული იქნება უსაფრთხო და ღია ინტერნეტის შენებისკენ.
