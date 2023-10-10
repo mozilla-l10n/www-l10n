@@ -35,6 +35,10 @@ compare-safari-apple-is-widely-known-for = { -brand-name-apple } 以封閉的生
 compare-safari-like-safari-firefox-encourages = 與 { -brand-name-safari } 一樣{ -brand-name-firefox } 也鼓勵熱情的開發者社群貢獻 { $attrs }>瀏覽器的<a { $attrs }>附加元件與擴充套件</a>。由於我們的平台是開放原始碼的所以有許多選擇新增許多功能。
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = 另外當您註冊 { -brand-name-mozilla-account }時您就可以使用諸如 <a { $pocket }>{ -brand-name-pocket }</a> 等直接整合到 { -brand-name-mozilla-account }瀏覽器。 { -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下即可將網頁與影片儲存到 { -brand-name-pocket }隨時隨地您想要的版本 — 離線也沒問題。
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = 另外當您註冊 { -brand-name-firefox } 帳號後即可使用諸如 <a { $pocket }>{ -brand-name-pocket }</a> 等直接整合到瀏覽器中的服務的更多資訊。 { -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下即可將網頁與影片儲存到 { -brand-name-pocket }隨時隨地您想要的版本 — 離線也沒問題。
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } 播放影音內容也很棒。透過直接在瀏覽器中內建的「自動播放封鎖」功能讓任何網站都不會在您不請自來時對您大喊大叫。
 # Variables:
@@ -44,6 +48,10 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>Screenshots</a> �
 # "iCloud" is a brand name.
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } 與 { -brand-name-safari } 都提供了從桌機切換到行動版瀏覽器的無縫瀏覽體驗。對 { -brand-name-safari } 來說連續性就是其中一個主要優點。它將您的書籤、分頁、瀏覽紀錄等資料同步到 Firefox讓您可在所有裝置中使用。這代表您可以在 { -brand-name-iphone } 上開啟分頁讓您分頁標籤也只要點一下即可顯示在 { -brand-name-mac } 筆電上。
 compare-safari-both-browsers-have-a-lot = 兩套瀏覽器都有許多跨領域的功能與獨特功能。值得一提的是，若您常常需要拍攝畫面擷圖，可能會覺得過去是如何在 { -brand-name-firefox } 瀏覽器未內建這個好用功能時是如何使用的。但若您只是想要找一套快速、有隱私的瀏覽器上網購物而已，那您可能會想要試試看 { -brand-name-firefox } — 尤其是如果過去只使用電腦內建的 { -brand-name-safari } 的話。最終您會發現究竟哪一套瀏覽器才比較符合您的需求。
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v3 = { -brand-name-firefox } 也提供類似的同步功能訂閱免費的 <a { $attrs }>{ -brand-name-mozilla-account }</a>讓使用者可以簡單地同步書籤、瀏覽紀錄、偏好設定、密碼、填寫的表單、附加元件以及最近在多台電腦中開啟的分頁。 { -brand-name-firefox } 與 Safari 不同之處在於它可在任何桌面或行動平台 iOS、Android、Windows 或 macOS 使用。增強了它的可在任何裝置間攜帶。
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
 compare-safari-firefox-also-offers-a-similar-updated = { -brand-name-firefox } 也有提供類似的同步功能來訂閱免費的 <a { $attrs }>{ -brand-name-firefox-account }</a>讓使用者可以簡單地同步書籤、瀏覽紀錄、偏好設定、密碼、填寫的表單、附加元件以及最近在多台電腦中開啟的分頁。 { -brand-name-firefox } 與 { -brand-name-safari } 不同之處在於它可以在任何桌面或行動平台{ -brand-name-ios }、{ -brand-name-android }、 { -brand-name-windows } 或 { -brand-name-mac }讓您可在任何裝置使用。

@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = 了解我們的系列產品
+firefox-sticky-promo-meet-mozillas-family = 了解 { -brand-name-mozilla } 的系列產品
 firefox-sticky-promo-get-the-latest-firefox = 下載最新的 { -brand-name-firefox } 瀏覽器。
 # Products List
 firefox-sticky-promo-browsers = 瀏覽器

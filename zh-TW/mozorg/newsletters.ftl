@@ -141,6 +141,8 @@ newsletters-take-your-privacy = 讓您的隱私隨身帶著走
 newsletters-travel-the-internet = 在每一台裝置上網都受到保護。
 newsletters-download-the-app = 下載應用程式
 newsletters-check-for-data-breaches = 檢查是否有資料外洩事件
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } 是一項能讓您確認是否受線上資料外洩事件影響的免費服務。
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } 是一項能讓您確認是否受線上資料外洩事件影響的免費服務。
 newsletters-sign-in-to-monitor = 登入 { -brand-name-monitor }
 newsletters-meet-our-parent-brand = 認識我們的母品牌

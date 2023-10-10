@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>: 資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = 已在您的所有裝置安裝 { -brand-name-firefox }分頁、上網紀錄、書籤隨身帶著走。只需要註冊 <a { $attrs }>{ -brand-name-mozilla-account }</a>就可以使用同步功能與更多 { -brand-name-mozilla } 產品。
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = 使用瀏覽器內建的<a { $attrs }>畫面擷圖工具</a>幫線上任何東西拍攝高解析度擷圖
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 會自�
 firefox-desktop-download-questions = 有問題嗎？讓 <a { $attrs }>{ -brand-name-mozilla } 技術支援站</a>來幫幫您。
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name-firefox } 了嗎？接下來註冊帳號，讓 { -brand-name-firefox } 火力全開！
+firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 監控駭客行為、使用 { -brand-name-firefox-relay } 保護您的信箱以及更多功能。
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-relay } 保護您的信箱，以及更多功能。
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-lockwise } 保護密碼，以及更多功能。

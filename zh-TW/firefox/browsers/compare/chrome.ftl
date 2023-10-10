@@ -13,7 +13,12 @@ compare-chrome-we-compare-mozilla-firefox = 我們比較了 { -brand-name-mozill
 compare-chrome-comparing-firefox-browser = 比較 { -brand-name-firefox-browser }與 { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-v2 = 在 { -brand-name-firefox } 有許多堅定的使用者感謝我們對線上隱私權的執著貢獻。舉例來說最新版的 { -brand-name-firefox } 當中有一項稱為加強型追踪保護ETP的功能預設會對全球所有使用者開啟。 ETP 封鎖了超過 2,000 組追踪器當中包含來自 Facebook、Twitter 和 LinkedIn 等公司的社交追踪器。它也有內建的 <a { $attrs }>{ -brand-name-mozilla-monitor }</a> 功能會在密碼遭到外洩或需要更新時自動通知您。除了這些保護外{ -brand-name-firefox } 的隱私瀏覽模式也會在您完成瀏覽時自動清除您的上網紀錄、Cookie 等上網資訊不留下任何痕跡。
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = 有大量的 { -brand-name-firefox } 使用者感謝我們對保護線上隱私權所做的貢獻。舉例來說，最新版的 { -brand-name-firefox } 包含一個稱為「加強型追蹤保護（ETP）」的功能，對全球的所有使用者都預設開啟。ETP 會封鎖超過 2,000 組追蹤器，當中包含來自 { -brand-name-facebook }、{ -brand-name-twitter }、LinkedIn 等網站的社交媒體追蹤器。還整合了一個稱為 <a { $attrs }>{ -brand-name-firefox-monitor }</a> 的功能，可在網站密碼外洩或需要更新時自動通知您。除了這些保護，{ -brand-name-firefox } 的隱私瀏覽保護模式也會自動清除瀏覽紀錄、Cookie 等資訊，讓上網不留痕跡。
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = 有大量的 { -brand-name-firefox } 使用者感謝我們對保護線上隱私權所做的貢獻。舉例來說，最新版的 { -brand-name-firefox } 包含一個稱為「加強型追蹤保護（ETP）」的功能，對全球的所有使用者都預設開啟。ETP 會封鎖超過 2,000 組追蹤器，當中包含來自 { -brand-name-facebook }、{ -brand-name-twitter }、LinkedIn 等網站的社交媒體追蹤器。還整合了一個稱為 <a { $attrs }>{ -brand-name-firefox-monitor }</a> 的功能，可在網站密碼外洩或需要更新時自動通知您。除了這些保護，{ -brand-name-firefox } 的隱私瀏覽保護模式也會自動清除瀏覽紀錄、Cookie 等資訊，讓上網不留痕跡。

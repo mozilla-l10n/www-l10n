@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = 瀏覽器有許多方式能夠確保使用�
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = 其次是不儲存太多使用者的資料。如果資料根本沒儲存下來駭客就沒辦法偷走，這也是為什麼 { -brand-name-firefox } 盡可能少收集與使用者相關的資料。<a href="{ $data }">{ -brand-name-firefox } 會知道</a>您使用了瀏覽器，以及您的大略位置，<a href="{ $privacy }">但不會收集您兒童時期的寵物名字，或是您最喜歡的顏色是什麼。</a>
 best-browser-last-but-not-least = 最後但仍然重要的一點是，一套安全的瀏覽器應提供能讓您檢查帳號安全的工具。想想若您的網站帳號資料遭到外洩時，可以直接在信箱收到警報，或是有個圖示能告訴您網頁連線是否經過加密，這樣在網頁上購物時才能安心刷卡。
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } 提供一些全新功能來確保您的安全: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>。這是一項免費的服務會在您的帳號遭到任何公開遭駭時通知您並且讓您知道您的帳號過去是否曾被駭客入侵。另一個簡潔的功能是 綠色鎖。它看起來像是瀏覽器視窗左上方的一個綠色小圖示。若您在使用 { -brand-name-firefox } 時看到綠色的鎖頭就代表網站已經加密安全。若頭像灰色的鎖色代表您可能在輸入任何敏感資訊前三思。
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } 提供能讓您確保安全的新功能: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>。這是一個能夠在與您相關的資料外洩事件公開時，向您發出警報的免費服務。您也可以使用此服務來檢查您在各個網站上的帳號是否曾經遭駭。另一個很棒的功能是「綠色鎖頭」，它會出現於瀏覽器視窗的左上角。當您使用 { -brand-name-firefox } 時若看到這把鎖，就代表與網站間的連線經過加密，可以確保安全。若鎖頭是灰色的，在輸入任何個人敏感資訊前最好三思。

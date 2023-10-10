@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = 檢視所有版本的 { -brand-name-fi
 
 navigation-v2-products = 產品
 navigation-v2-close-products-menu = 關閉產品選單
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = 看看您的電子郵件信箱是否出現於某個企業的資料外洩事件當中。
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = 了解各 { -brand-name-firefox }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = 不用交出電子郵件地址就能註冊新帳號。
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = 保護您瀏覽器與網際網路之間的連線。
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 讓您有 { -brand-name-mdn } 客製化體驗的全新功能與工具
 navigation-v2-view-all-products = 檢視所有產品
