@@ -5,17 +5,32 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
+welcome-page1-more-than-a-browser-mozilla = Mehr als nur ein Browser – { -brand-name-mozilla-monitor } behält Datenlecks im Blick
+
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = Mehr als nur ein Browser – { -brand-name-firefox-monitor } behält Datenlecks im Blick
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Geh den nächsten Schritt in Sachen Online-Privatsphäre und behalte Datenlecks mit { -brand-name-firefox } Monitor im Auge.
 
+welcome-page1-stay-ahead-of-hackers-check-v2 = Bleib Hackern einen Schritt voraus. Checke Datenleaks mit { -brand-name-mozilla-monitor }.
+
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Bleib Hackern einen Schritt voraus. Checke Datenleaks mit { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Du bist auf dem richtigen Weg zu mehr Sicherheit online
 welcome-page1-youve-got-the-web-browser = Den Browser, der deine Privatsphäre schützt, hast du schon mal. Nächster Schritt: Datenlecks und Hacker im Auge behalten.
 welcome-page1-check-your-breach-report = Checke deinen Datenleak-Report
+
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } zeigt dir an, ob deine persönlichen Informationen bei einem bekannt gewordenen Datenleck gefährdet wurden. Und du kannst dich auch zukünftig bei Datenlecks warnen lassen.
+
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } zeigt dir an, ob deine persönlichen Informationen bei einem bekannt gewordenen Datenleck gefährdet wurden. Und du kannst dich auch zukünftig bei Datenlecks warnen lassen.
+
 welcome-page1-stay-ahead-of-hackers = Sei Hackern einen Schritt voraus
 
 # Variables:

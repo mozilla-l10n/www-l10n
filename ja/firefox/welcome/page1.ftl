@@ -5,17 +5,32 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
+welcome-page1-more-than-a-browser-mozilla = 単なるブラウザーではなく、{ -brand-name-mozilla-monitor } はハッカーを警戒
+
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = 単なるブラウザーではなく、{ -brand-name-firefox-monitor } はハッカーを警戒
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ファミリーの製品でオンラインのプライバシー保護をワンランクアップ。
 
+welcome-page1-stay-ahead-of-hackers-check-v2 = ハッカーの機先を制する。{ -brand-name-mozilla-monitor } でデータ侵害を警戒。
+
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = ハッカーの機先を制する。{ -brand-name-firefox-monitor } でデータ侵害を警戒。
 welcome-page1-youre-on-track-to-stay-protected = さらなる保護強化へ
 welcome-page1-youve-got-the-web-browser = プライバシーを保護するウェブブラウザーを手に入れたら、次はハッカーを警戒しましょう。
 welcome-page1-check-your-breach-report = 侵害レポートを確認
+
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } は、発生が確認されているデータ侵害においてユーザーの情報が漏えいしたかどうかを示し、将来漏えいされた場合に警告します。
+
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } は、発生が確認されているデータ侵害においてユーザーの情報が漏えいしたかどうかを示し、将来漏えいされた場合に警告します。
+
 welcome-page1-stay-ahead-of-hackers = ハッカーの機先を制する
 
 # Variables:

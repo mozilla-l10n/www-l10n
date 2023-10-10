@@ -5,17 +5,32 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
+welcome-page1-more-than-a-browser-mozilla = Bukan sekadar pelayar - { -brand-name-mozilla-monitor } ialah pengawas penggodam anda
+
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = Bukan sekadar pelayar - { -brand-name-firefox-monitor } ialah pengawas penggodam anda
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ambil langkah seterusnya untuk melindungi privasi anda dalam talian dengan rangkaian produk { -brand-name-firefox }.
 
+welcome-page1-stay-ahead-of-hackers-check-v2 = Teruskan mendahului penggodam. Lihat jika ada kebocoran data dengan { -brand-name-mozilla-monitor }.
+
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Teruskan mendahului penggodam. Lihat jika ada kebocoran data dengan { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Anda di laluan yang betul untuk terus mendapat perlindungan
 welcome-page1-youve-got-the-web-browser = Anda sudah dapat pelayar web yang melindungi privasi anda — sekarang masanya untuk mendapatkan pengawas penggodam.
 welcome-page1-check-your-breach-report = Semak Laporan Kebocoran Anda
+
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } menunjukkan kepada anda jika maklumat anda telah dibocorkan dalam kebocoran data yang diketahui dan memberi amaran sekiranya ia berlaku di masa depan.
+
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } menunjukkan kepada anda jika maklumat anda telah dibocorkan dalam kebocoran data yang diketahui dan memberi amaran sekiranya ia berlaku di masa depan.
+
 welcome-page1-stay-ahead-of-hackers = Teruskan mendahului penggodam
 
 # Variables:

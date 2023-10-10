@@ -5,17 +5,32 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
+welcome-page1-more-than-a-browser-mozilla = أكثر من مجرد متصفح - { -brand-name-mozilla-monitor } هو حارسك ضد القراصنة
+
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = أكثر من مجرد متصفح - { -brand-name-firefox-monitor } هو حارسك ضد القراصنة
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = اتخذ الخطوة التالية لحماية خصوصيتك عبر الإنترنت باستخدام عائلة منتجات { -brand-name-firefox }.
 
+welcome-page1-stay-ahead-of-hackers-check-v2 = اسبق المخترقين بخطوات. تحقّق من وجود تسريبات في البيانات باستخدام { -brand-name-mozilla-monitor }.
+
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = اسبق المخترقين بخطوات. تحقّق من وجود تسريبات في البيانات باستخدام { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = أنت على الطريق الصحيح للبقاء محميًا
 welcome-page1-youve-got-the-web-browser = لديك متصفّح الوِيب الذي يحمي خصوصيتك — حان الوقت لتمتلك حارسك الخاص ضد المُخترقين.
 welcome-page1-check-your-breach-report = راجع تقرير الخروقات الخاص بك
+
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+
+welcome-page1-mozilla-monitor-shows-you = يُوضح { -brand-name-mozilla-monitor } لك ما إذا كانت معلوماتك قد تم تسريبها في أي خرق معروف للبيانات، ويُنبهك في حالة حدوث ذلك في المستقبل.
+
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = يُوضح { -brand-name-firefox-monitor } لك ما إذا كانت معلوماتك قد تم تسريبها في أي خرق معروف للبيانات، ويُنبهك في حالة حدوث ذلك في المستقبل.
+
 welcome-page1-stay-ahead-of-hackers = اسبق المخترقين بخطوات
 
 # Variables:

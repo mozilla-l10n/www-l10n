@@ -5,17 +5,32 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
+welcome-page1-more-than-a-browser-mozilla = Lebih dari sekedar peramban - { -brand-name-mozilla-monitor } merupakan tempat Anda mengawasi peretas
+
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = Lebih dari sekedar peramban - { -brand-name-firefox-monitor } merupakan tempat Anda mengawasi peretas
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ambil langkah selanjutnya untuk melindungi privasi Anda secara daring dengan rangkaian produk { -brand-name-firefox }.
 
+welcome-page1-stay-ahead-of-hackers-check-v2 = Selangkah lebih maju dari peretas. Periksa pelanggaran data dengan { -brand-name-mozilla-monitor }.
+
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Selangkah lebih maju dari peretas. Periksa pelanggaran data dengan { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Anda berada di jalur yang tepat untuk tetap terlindungi
 welcome-page1-youve-got-the-web-browser = Anda memiliki peramban web yang dapat melindungi privasi Anda — sekarang saatnya Anda mengawasi peretas.
 welcome-page1-check-your-breach-report = Periksa Laporan Pembobolan Anda
+
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } menunjukkan apakah informasi Anda telah bocor dalam pelanggaran data yang diketahui dan memperingatkan Anda jika hal tersebut terjadi di masa datang.
+
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } menunjukkan apakah informasi Anda telah bocor dalam pelanggaran data yang diketahui dan memperingatkan Anda jika hal tersebut terjadi di masa datang.
+
 welcome-page1-stay-ahead-of-hackers = Selangkah lebih maju dari peretas
 
 # Variables:
