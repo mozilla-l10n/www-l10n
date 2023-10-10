@@ -36,12 +36,12 @@ compare-shared-primary-password = Ñe’ẽñemi ha’etéva
 # Obsolete string
 compare-shared-master-password = Ñe’ẽñemi ha’etéva
 compare-shared-security-and-privacy = Tekorosã ha ñemigua
-compare-shared-utility = Jepurúva
+compare-shared-utility = Jeporúva
 compare-shared-portability = Jeguerahakuaa
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Tekorosã ha <strong>ñemigua</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Jepurúva</strong>
+compare-shared-utility-strong = <strong>Jeporúva</strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Jeguerahakuaa</strong>
 compare-shared-overall-assessment = Ñeha’ã tuichaháicha

@@ -25,7 +25,7 @@ about-this-site-contribute-to-code = Eipytyvõ ayvu ñepyrũhápe
 about-this-site-contribute-to-l10n = Eipytyvõ ñemoñe’ẽasápe
 about-this-site-read-the-docs = Emoñe’ẽ ko kuatiaite
 about-this-site-colophon = Kolofõ
-about-this-site-some-open-source-projects = Heta apopyrã ayvu juruja ojepurúva ko tendápe g̃uarã:
+about-this-site-some-open-source-projects = Heta apopyrã ayvu juruja ojeporúva ko tendápe g̃uarã:
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
