@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,10 @@ page7-make-them-unfollow-you = მოიცილეთ მიმდევრე
 page7-that-sneaky-little-button = პატარა გაიძვერა ღილაკი
 page7-those-innocent-looking-f-buttons = უმანკო შესახედაობის F-ღილაკები { -brand-name-facebook }-ისგან თვალს გადევნებთ ინტერნეტში, ანგარიშის არ ქონის დროსაც. { -brand-name-facebook-container } კი ზღუდავს მათ.
 page7-stay-ahead-of-hackers = დაასწარით ჰაკერებს
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } დაგეხმარებათ გაარკვიოთ, რა შეიძლება ჰაკერებმა უკვე იცოდნენ თქვენს შესახებ და დაგეხმარებათ მუდამ წინ იყოთ მათზე. (და უფასოა.)
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } დაგეხმარებათ გაარკვიოთ, რა შეიძლება ჰაკერებმა იცოდნენ თქვენზე, რომ მუდამ ერთი ნაბიჯით წინ იყოთ მათზე. (ამასთან უფასოა).
+page7-get-mozilla-monitor = გამოიყენეთ { -brand-name-mozilla-monitor }
+# Obsolete string
 page7-get-firefox-monitor = გადმოწერეთ { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = რატომ ვხედავ ამას?

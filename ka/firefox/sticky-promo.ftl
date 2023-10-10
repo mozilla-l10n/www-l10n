@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = იხილეთ ჩვენი პროდუქტების ოჯახი
+firefox-sticky-promo-meet-mozillas-family = იხილეთ { -brand-name-mozilla }-ს პროდუქტების ოჯახი
 firefox-sticky-promo-get-the-latest-firefox = გადმოწერეთ უახლესი { -brand-name-firefox }-ბრაუზერი.
 # Products List
 firefox-sticky-promo-browsers = ბრაუზერები

@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში იცავს { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები. დაგჭირდებათ მხოლოდ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ თქვენი ჩანართები, ისტორია და სანიშნეები. მხოლოდ <a { $attrs }>{ -brand-name-mozilla-account }</a> გექნებათ წვდომა სინქრონიზაციაზე და სხვა { -brand-name-mozilla }-პროდუქტებზე.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = გადაიღეთ მაღალი გაფართოების სურათები ნებისმიერ საიტზე <a { $attrs }>სურათის გადასაღები</a> ხელსაწყოთი, პირდაპირ ბრაუზერშივე
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თა�
 firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ბრაუზერი უკვე გაქვთ. კიდევ უფრო უკეთ გამოიყენეთ { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = თვალი ადევნეთ ჰაკერებს { -brand-name-mozilla-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართი { -brand-name-firefox-relay }-ით და სხვა.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართები { -brand-name-firefox-relay }-ით, და ა. შ.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით პაროლები { -brand-name-firefox-lockwise }-ით, და ა. შ.

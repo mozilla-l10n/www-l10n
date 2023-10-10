@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } �
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } უსაფრთხოდ ინახავს თქვენს სახელებსა და პაროლებს საიტებთან წვდომისთვის, ავტომატურად შეავსებს მათ თქვენ ნაცვლად მომდევნო შესვლისას და საშუალებას გაძლევთ, მართოთ თქვენი შენახული მონაცემები პაროლების მართვის ჩაშენებული შესაძლებლობით.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>თავისუფალი { -brand-name-mozilla-account }</a> შეგეძლებათ თქვენი პაროლების უსაფრთხოდ დასინქრონება ყველა თქვენს მოწყობილობაზე. ასევე შეგიძლიათ წვდომა მიიღოთ { -brand-name-mozilla }-ის პირადულობის დაცვის ყველა სხვა პროდუქტზე.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">უფასო { -brand-name-mozilla-account(case: "adj") }</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
 # Obsolete string
 # Variables:

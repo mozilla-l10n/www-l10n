@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -15,6 +15,8 @@ welcome-page8-view-your-protection-report = იხილეთ თქვენ�
 welcome-page8-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
 welcome-page8-automatically-block-sites = თავისთავად ზღუდავს საიტებს, რომლებიც თან დაგყვებათ ინტერნეტში.
 welcome-page8-see-whats-blocked = იხილეთ, რა იზღუდება
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = შეიტყვეთ, მოხვედრილა თუ არა თქვენი ანგარიშები ინტერნეტმონაცემთა ცნობილ მიტაცებებში და მიიღეთ ზომები შედეგების გამოსასწორებლად.
 welcome-page8-go-to-monitor = გამოიყენეთ { -brand-name-monitor }

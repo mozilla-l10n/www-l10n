@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } მხოლოდ დასაწყისია
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = იგი სრული ნაკრებია პროდუქტებისა ინტერნეტის უსაფრთხოდ და მოხერხებულად გამოყენებისთვის.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla }-ს პროდუქტების ოჯახი, ყველა შექმნილია იმისთვის, რომ იყოთ მეტად უსაფრთხოდ და მოხერხებულად ინტერნეტში
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>მეტია</strong>, ვიდრე მხოლოდ ბრაუზერი
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } მხოლოდ <strong>დასაწყისია</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = შეიტყვვეთ, თუ თქვენი ინფორმაციაც აღმოჩნდა სხვადასხვა კომპანიებიდან მიტაცებულ მონაცემებს შორის და გამოიწერეთ ცნობები მომავალში მსგავს შემთხვევებზე.
 firefox-products-check-for-breaches = გაეცანით მიტაცების შემთხვევებს
 firefox-products-sign-up-for-breach-alerts = გამოიწერეთ ცნობები მიტაცების შემთხვევებზე
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox }-ბრაუზერები
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = ისარგებლეთ ბრაუზერებით, რომლებიც თავისთავად ზღუდავს 2000+ მეთვალყურეს. თვალთვალისგან გაძლიერებული დაცვით აღჭურვილია თითოეული { -brand-name-firefox }-ბრაუზერი.
 firefox-products-desktop = კომპიუტერი
 firefox-products-android = { -brand-name-android }

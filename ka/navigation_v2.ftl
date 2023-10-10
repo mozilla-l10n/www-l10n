@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = იხილეთ { -brand-name-firef
 
 navigation-v2-products = პროდუქტები
 navigation-v2-close-products-menu = პროდუქტების მენიუს დახურვა
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = გაარკვიეთ, თქვენი ელფოსტა კომპანიებიდან მიტაცებულ მონაცემებში ხომ არ მოხვედრილა.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = იხილეთ, თითო�
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (საცდელი)
 navigation-v2-sign-up-for-new-accounts = შექმენით ახალი ანგარიშები, თქვენი ელფოსტის გამჟღავნების გარეშე.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (საცდელი)
-navigation-v2-protect-your-browsers-connection = დაიცავით თქვენი ბრაუზერის კავშირი ინტერნეტთან.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = ახალი შესაძლებლობები, ხელსაწყოები და უკეთ მორგებული { -brand-name-mdn }
 navigation-v2-view-all-products = იხილეთ ყველა პროდუქტი
