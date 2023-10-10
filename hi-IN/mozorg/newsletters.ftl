@@ -185,7 +185,12 @@ newsletters-take-your-privacy = अपनी निजता को अपने
 newsletters-travel-the-internet = हर उपकरण पर, सुरक्षा के साथ इंटरनेट की यात्रा करें।
 newsletters-download-the-app = ऐप डाउनलोड करें
 newsletters-check-for-data-breaches = डेटा उल्लंघनों के लिए सतर्क रहें
+
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } एक निःशुल्क सेवा है जो आपको यह देखने देती है कि क्या आप ऑनलाइन डेटा उल्लंघन में शामिल हैं।
+
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } एक निःशुल्क सेवा है जो आपको यह देखने देती है कि क्या आप ऑनलाइन डेटा उल्लंघन में शामिल हैं।
+
 newsletters-sign-in-to-monitor = { -brand-name-monitor } पर साइन इन करें
 newsletters-meet-our-parent-brand = हमारे मूल ब्रांड से मिलें
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, { -brand-name-firefox } को समर्थन देने वाली गैर-लाभ संस्था, जो कहती, बनाती और करती है उन सब में लाभ के बजाय लोगों को प्राथमिकता दी जाती है।

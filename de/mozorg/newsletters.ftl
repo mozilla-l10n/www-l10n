@@ -185,7 +185,12 @@ newsletters-take-your-privacy = Privatsphäre für unterwegs
 newsletters-travel-the-internet = Bleiben Sie online geschützt – auf jedem Ihrer Geräte.
 newsletters-download-the-app = App herunterladen
 newsletters-check-for-data-breaches = Auf Datenlecks überprüfen
+
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } ist ein kostenloser Dienst, mit dem Sie feststellen können, ob Sie von einem Datenleck im Internet betroffen sind.
+
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } ist ein kostenloser Dienst, mit dem Sie feststellen können, ob Sie von einem Datenleck im Internet betroffen sind.
+
 newsletters-sign-in-to-monitor = Bei { -brand-name-monitor } anmelden
 newsletters-meet-our-parent-brand = Lernen Sie unsere Dachmarke kennen
 newsletters-mozilla-the-non-for-profit = Für { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }, stehen Menschen bei allem, was wir sagen, entwickeln und tun, über dem Profit.

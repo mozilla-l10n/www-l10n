@@ -185,7 +185,12 @@ newsletters-take-your-privacy = Bawa privasi Anda bersama Anda
 newsletters-travel-the-internet = Jelajahi internet dengan perlindungan di semua perangkat Anda.
 newsletters-download-the-app = Unduh Aplikasinya
 newsletters-check-for-data-breaches = Periksa pelanggaran data
+
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } merupakan layanan gratis yang memungkinkan Anda mengetahui apakah Anda pernah terlibat dalam pelanggaran data daring.
+
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } merupakan layanan gratis yang memungkinkan Anda mengetahui apakah Anda pernah terlibat dalam pelanggaran data daring.
+
 newsletters-sign-in-to-monitor = Masuk ke { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Temui merek induk kami
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, lembaga nirlaba di balik { -brand-name-firefox }, menempatkan orang di atas keuntungan dalam segala hal yang kami katakan, buat, dan lakukan.

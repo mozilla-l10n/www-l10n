@@ -185,7 +185,12 @@ newsletters-take-your-privacy = どこでもプライバシーを。
 newsletters-travel-the-internet = あらゆるデバイスで、安全にインターネットを旅しましょう。
 newsletters-download-the-app = アプリをダウンロード
 newsletters-check-for-data-breaches = 侵害を確認
+
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } は、オンライン上のデータ侵害の被害を受けているか確認できる無料のサービスです。
+
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } は、オンライン上のデータ侵害の被害を受けているか確認できる無料のサービスです。
+
 newsletters-sign-in-to-monitor = { -brand-name-monitor } にサインイン
 newsletters-meet-our-parent-brand = 親ブランドのご紹介
 newsletters-mozilla-the-non-for-profit = { -brand-name-firefox } を提供する非営利組織、{ -brand-name-mozilla } は、全ての発言・開発・行動において、利益よりもユーザーを優先します。

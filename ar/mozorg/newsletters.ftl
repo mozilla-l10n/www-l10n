@@ -185,7 +185,12 @@ newsletters-take-your-privacy = خذ خصوصيتك معك أينما ذهبت
 newsletters-travel-the-internet = أبحر في غمار الإنترنت بفضل الحماية على جميع أجهزتك.
 newsletters-download-the-app = نزّل التطبيق
 newsletters-check-for-data-breaches = تحقق من حدوث أية خروقات
+
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } هي خدمة مجانية تتيح لك معرفة ما إذا كنت ضمن عملية خرق للبيانات عبر الإنترنت.
+
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } هي خدمة مجانية تتيح لك معرفة ما إذا كنت ضمن عملية خرق للبيانات عبر الإنترنت.
+
 newsletters-sign-in-to-monitor = سَجِّل الدخول إلى { -brand-name-monitor }
 newsletters-meet-our-parent-brand = تعرف على علامتنا التجارية الأصلية
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }، مؤسسة غير هادفة للربح تقف خلف { -brand-name-firefox }، تضع الناس في المقام الأول قبل أي ربح وذلك واضح في كل ما نقوله، ونبنيه، ونفعله.
