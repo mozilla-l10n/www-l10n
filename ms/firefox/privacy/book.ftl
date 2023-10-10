@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>Cari nama anda dalam talian sekali-sekal
 
 privacy-book-dont-have-time = <strong>Tidak mempunyai masa?</strong> Tetapkan { -brand-name-google } Alert untuk nama anda dan dapatkan notifikasi jika anda disebut di dalam laman web.
 
+privacy-book-breach-alert-if-v2 = <strong>Amaran pelanggaran:</strong> Sekiranya data anda benar-benar menjadi umum melalui pelanggaran yang diketahui, sangat penting untuk bertindak balas secepat mungkin dan menukar kata laluan anda. { -brand-name-mozilla-monitor } ialah satu alat yang amat berguna yang akan menghantar anda mesej.
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>Amaran pelanggaran:</strong> Sekiranya data anda benar-benar menjadi umum melalui pelanggaran yang diketahui, sangat penting untuk bertindak balas secepat mungkin dan menukar kata laluan anda. { -brand-name-firefox-monitor } ialah satu alat yang amat berguna yang akan menghantar anda mesej.
 
 privacy-book-stay-safe-online = Kekal selamat dalam talian:

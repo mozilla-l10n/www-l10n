@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>De temps en temps, cherchez votre nom en
 
 privacy-book-dont-have-time = <strong>Pas le temps ?</strong> Ok, configurez alors une alerte { -brand-name-google } pour votre nom et recevez immédiatement une notification si quelque chose de nouveau apparaît en ligne.
 
+privacy-book-breach-alert-if-v2 = <strong>Alerte de fuites :</strong> si vos données deviennent publiques via un hack, c’est très important de réagir le plus rapidement possible et de changer vos mots de passe. { -brand-name-mozilla-monitor } est un outil pratique qui vous envoie un message immédiatement si cela se produit.
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>Alerte de fuites :</strong> si vos données deviennent publiques via un hack, c’est très important de réagir le plus rapidement possible et de changer vos mots de passe. { -brand-name-firefox-monitor } est un outil pratique qui vous envoie un message immédiatement si cela se produit.
 
 privacy-book-stay-safe-online = Restez en sécurité en ligne :

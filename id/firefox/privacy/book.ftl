@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>Cari nama Anda secara daring sesekali.</
 
 privacy-book-dont-have-time = <strong>Tidak memiliki waktu?</strong> Siapkan Peringatan { -brand-name-google } untuk nama Anda dan dapatkan pemberitahuan jika Anda disebutkan di situs web.
 
+privacy-book-breach-alert-if-v2 = <strong>Peringatan pembobolan:</strong> Jika data Anda benar-benar diketahui publik melalui pembobolan, sangat penting untuk bereaksi secepatnya dan mengubah kata sandi Anda. { -brand-name-mozilla-monitor } merupakan alat praktis yang akan mengirimi Anda pesan jika hal tersebut terjadi.
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>Peringatan pembobolan:</strong> Jika data Anda benar-benar diketahui publik melalui pembobolan, sangat penting untuk bereaksi secepatnya dan mengubah kata sandi Anda. { -brand-name-firefox-monitor } merupakan alat praktis yang akan mengirimi Anda pesan jika hal tersebut terjadi.
 
 privacy-book-stay-safe-online = Tetap aman saat daring:

@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>時々自分の名前をオンライン�
 
 privacy-book-dont-have-time = <strong>時間が無い場合。</strong>ウェブサイトで自分のことが述べられた場合に通知が送信されるよう、自分の名前の{ -brand-name-google } アラートを設定しましょう。
 
+privacy-book-breach-alert-if-v2 = <strong>侵害アラート:</strong> 確認されている侵害で自分のデータが開示された場合、なるべく早く対応してパスワードを変更することが不可欠です。{ -brand-name-mozilla-monitor } は侵害発生時にメッセージを送信する手軽なツールです。
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>侵害アラート:</strong> 確認されている侵害で自分のデータが開示された場合、なるべく早く対応してパスワードを変更することが不可欠です。{ -brand-name-firefox-monitor } は侵害発生時にメッセージを送信する手軽なツールです。
 
 privacy-book-stay-safe-online = オンラインの安全を確保する:

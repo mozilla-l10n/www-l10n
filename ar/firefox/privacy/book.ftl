@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>ابحث عن اسمك على الإنت
 
 privacy-book-dont-have-time = <strong>أليس لديك وقت؟</strong> قم بإعداد تنبيه { -brand-name-google } لاسمِك وتلقى إخطارك إذا تم ذِكر اسمك على موقع ويب.
 
+privacy-book-breach-alert-if-v2 = <strong>تنبيه بحدوث خرق:</strong> إذا أصبحت بياناتك علنية بالفعل من خلال خرق معروف، فمن الضروري التفاعل بأسرع ما يُمكن وتغيير كلمات المرور الخاصة بك. { -brand-name-mozilla-monitor } هي أداة يدوية ستُرسل لك رسالة إذا حدث ذلك.
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>تنبيه بحدوث خرق:</strong> إذا أصبحت بياناتك علنية بالفعل من خلال خرق معروف، فمن الضروري التفاعل بأسرع ما يُمكن وتغيير كلمات المرور الخاصة بك. { -brand-name-firefox-monitor } هي أداة يدوية ستُرسل لك رسالة إذا حدث ذلك.
 
 privacy-book-stay-safe-online = ابق آمنًا على الإنترنت:

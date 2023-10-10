@@ -108,6 +108,9 @@ privacy-book-search-your-name = <strong>Suchen Sie online dann und wann nach Ihr
 
 privacy-book-dont-have-time = <strong>Keine Zeit?</strong> Richten Sie einen { -brand-name-google } Alert für Ihren Namen ein und erhalten Sie Benachrichtigungen, wenn Sie auf einer Website erwähnt werden.
 
+privacy-book-breach-alert-if-v2 = <strong>Breach-Alert:</strong> Falls Ihre Daten durch eine Datenschutzverletzung veröffentlicht werden, ist es wichtig, so schnell wie möglich zu reagieren und Ihre Passwörter umgehend zu ändern. { -brand-name-mozilla-monitor } ist ein praktisches Tool, das Ihnen eine Benachrichtigung sendet, sollte das der Fall sein.
+
+# Obsolete string
 privacy-book-breach-alert-if = <strong>Breach-Alert:</strong> Falls Ihre Daten durch eine Datenschutzverletzung veröffentlicht werden, ist es wichtig, so schnell wie möglich zu reagieren und Ihre Passwörter umgehend zu ändern. { -brand-name-firefox-monitor } ist ein praktisches Tool, das Ihnen eine Benachrichtigung sendet, sollte das der Fall sein.
 
 privacy-book-stay-safe-online = Sichere dich ab:
