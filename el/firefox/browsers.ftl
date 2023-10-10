@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Προγράμματα περιήγ
 firefox-browsers-page-desc = Επιλέξτε μεταξύ των εκδόσεων για υπολογιστές, { -brand-name-ios }, { -brand-name-android } ή αφήστε μας να σας στείλουμε μέσω email έναν σύνδεσμο λήψης για κινητές συσκευές.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Το απόρρητο που σας αξίζει. Η Ενισχυμένη προστασία από καταγραφή είναι αυτόματη σε κάθε { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = <strong>Φυλλομετρητές</strong> με έμφαση στο απόρρητο — όπως πάντα
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Αποκτήστε το πρόγραμμα περιήγησης που έχει ως προτεραιότητα το απόρρητό σας — όπως <strong>πάντα</strong>
 firefox-browsers-desktop = Υπολογιστές
 firefox-browsers-seriously-private-browsing = Σοβαρή ιδιωτική περιήγηση. Το { -brand-name-firefox } αποκλείει αυτόματα 2000+ ιχνηλάτες που συλλέγουν δεδομένα για τη δραστηριότητά σας στο διαδίκτυο.
 firefox-browsers-download-for-desktop = Λήψη για υπολογιστή
