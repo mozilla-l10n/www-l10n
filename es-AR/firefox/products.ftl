@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } es solo el comienzo
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox es una familia completa de productos diseñados para mantenerte más seguro e inteligente en línea.
+firefox-products-mozillas-family-of-products = La familia de productos de { -brand-name-mozilla } está diseñada para mantenerte más seguro e inteligente en línea
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } es <strong>más</strong> que un navegador
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } es solo el <strong> comienzo </strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Fijate si tu información personal fue comprometida en una filtración de datos corporativa y registrate para recibir futuras alertas.
 firefox-products-check-for-breaches = Verificá si hay filtraciones
 firefox-products-sign-up-for-breach-alerts = Registrate para recibir alertas de filtraciones
+# Obsolete string
 firefox-products-firefox-browsers = Navegadores { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Conseguí los navegadores que bloquean automáticamente más de 2000 rastreadores de datos. La protección contra el rastreo mejorada es estándar en todos los navegadores { -brand-name-firefox }.
 firefox-products-desktop = Escritorio
 firefox-products-android = { -brand-name-android }

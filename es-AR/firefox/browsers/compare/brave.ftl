@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = La capacidad de sincronizar t
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = El navegador { -brand-name-firefox } también ofrece a los usuarios la posibilidad de registrarse para obtener una <a { $accounts }> { -brand-name-mozilla-account } </a> gratuita. Tener una { -brand-name-mozilla-account } es la clave para desbloquear la sincronización entre dispositivos, además de obtener el beneficio adicional de productos como <a { $monitor }> { -brand-name-mozilla-monitor } </ a > que controla tus direcciones de correo electrónico y te avisa si tu información ha estado involucrada en <a { $breaches }> violaciones de datos </a> conocidas.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = El navegador { -brand-name-firefox } también ofrece a los usuarios la posibilidad de registrarse para obtener una <a { $accounts }>{ -brand-name-mozilla-account }</a> gratuita. Tener una { -brand-name-mozilla-account } es la clave para desbloquear la sincronización entre dispositivos, además de obtener el beneficio adicional de productos como <a { $monitor }>{ -brand-name-firefox-monitor }</a> que supervisa tus direcciones de correo electrónico y te alerta si algo de tu información estuvo involucrada en alguna <a { $breaches }>filtración de datos</a> conocida.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = El navegador { -brand-name-firefox } también ofrece a los usuarios la posibilidad de registrarse para obtener una <a { $accounts }> { -brand-name-firefox-account }</a> gratuita. Tener una cuenta { -brand-name-firefox } es la clave para desbloquear la sincronización entre dispositivos, además de obtener el beneficio adicional de productos como <a { $monitor }>{ -brand-name-firefox-monitor }</a> que supervisa sus direcciones de correo electrónico y le alerta si algo de tu información estuvo involucrada en alguna <a { $breaches }>filtración de datos</a> conocida.

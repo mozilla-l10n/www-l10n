@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Obtené los navegadores que prioriz
 firefox-browsers-page-desc = Elegí entre escritorio, { -brand-name-ios }, { -brand-name-android } o dejanos enviarte un correo electrónico con un enlace de descarga para dispositivos móviles.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Obtené la privacidad que te merecés. La Protección de rastreo aumentada es automática en todos los navegadores { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtené los <strong>navegadores</strong> que priorizan tu privacidad, y siempre lo hicieron
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Obtené el navegador que prioriza tu privacidad, y <strong> siempre </strong> lo hizo
 firefox-browsers-desktop = Escritorio
 firefox-browsers-seriously-private-browsing = Navegación privada de verdad. { -brand-name-firefox } bloquea automáticamente más de 2000 rastreadores en línea para que no recopilen información sobre lo que hacés en línea.
 firefox-browsers-download-for-desktop = Descargar para escritorio

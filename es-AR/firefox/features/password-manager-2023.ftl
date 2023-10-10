@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = El administrador de contra
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } almacena de forma segura tus nombres de usuario y contraseñas para acceder a los sitios web, los rellena automáticamente la próxima vez que visités un sitio web y te permite administrar tus inicios de sesión almacenados con la función de administración de contraseñas incorporada.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Con una <a { $fxa }> { -brand-name-mozilla-account } gratuita </a> puedes sincronizar de forma segura tus contraseñas en todos tus dispositivos. También podés acceder a todos los otros productos de { -brand-name-mozilla } que respetan la privacidad.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Con una <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a> podés sincronizar de forma segura tus contraseñas en todos tus dispositivos.
 # Obsolete string
 # Variables:

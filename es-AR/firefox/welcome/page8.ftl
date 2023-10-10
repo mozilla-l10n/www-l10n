@@ -15,6 +15,8 @@ welcome-page8-view-your-protection-report = Mirá tu informe de protección
 welcome-page8-enhanced-tracking-protection = Protección de rastreo aumentada
 welcome-page8-automatically-block-sites = Bloquea automáticamente los sitios para que no te sigan por Internet.
 welcome-page8-see-whats-blocked = Mirá lo que está bloqueado
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Mirá si fuiste involucrado en filtraciones de datos en línea conocidas y tomá medidas para resolverlas.
 welcome-page8-go-to-monitor = Andá a { -brand-name-monitor }
