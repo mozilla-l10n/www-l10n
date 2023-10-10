@@ -5,17 +5,24 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } je več kot le brskalnik
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } je zgolj začetek
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Je družina izdelkov, namenjenih varnejšemu in pametnejšemu življenju na spletu.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>več</strong> kot le brskalnik
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Preverite, ali so bili vaši osebni podatki del kraje podatkov podjetij, in se prijavite na prihodnja opozorila.
 firefox-products-check-for-breaches = Preverite kraje podatkov
 firefox-products-sign-up-for-breach-alerts = Prijavite se na opozorila o krajah
+# Obsolete string
 firefox-products-firefox-browsers = Brskalniki { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Izberite brskalnike, ki samodejno zavračajo več kot 2000 sledilcev. Izboljšana zaščita pred sledenjem je na voljo v vseh brskalnikih { -brand-name-firefox }.
 firefox-products-desktop = Namizje
 firefox-products-android = { -brand-name-android }
