@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Mynnwch y porwyr sy'n rhoi eich pre
 firefox-browsers-page-desc = Dewiswch rhwng Bwrdd Gwaith, { -brand-name-ios }, { -brand-name-android }, neu gadewch i ni e-bostio dolen llwytho symudol atoch.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Cael y preifatrwydd rydych yn ei haeddu. Mae Diogelu rhag Tracio Uwch yn awtomatig ym mhob porwr { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Cael y <strong>porwyr</strong> sy'n gosod eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Sicrhewch y porwr sy'n rhoi eich preifatrwydd yn gyntaf - ac sydd gan <strong>bob amser</strong>
 firefox-browsers-desktop = Bwrdd Gwaith
 firefox-browsers-seriously-private-browsing = Pori preifat o ddifrif. Mae { -brand-name-firefox } yn rhwystro 2000+ o dracwyr ar-lein yn awtomatig rhag casglu gwybodaeth am yr hyn rydych yn ei wneud ar-lein.
 firefox-browsers-download-for-desktop = Llwytho i lawr ar gyfer y Bwrdd Gwaith

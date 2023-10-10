@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Mae'r gallu i gydweddu'ch cyf
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Mae porwr { -brand-name-firefox } hefyd yn rhoi'r gallu i ddefnyddwyr gofrestru ar gyfer <a { $accounts }>{ -brand-name-mozilla-account }</a> am ddim. Cael { -brand-name-mozilla-account } yw'r allwedd i ddatgloi cysoni ar draws dyfeisiau, ac rydych chi'n cael budd ychwanegol cynhyrchion megis <a { $monitor }>{ -brand-name-mozilla-monitor }</a > sy'n monitro eich cyfeiriadau e-bost ac yn eich rhybuddio os bu unrhyw ran o'ch gwybodaeth yn gysylltiedig ag unrhyw <a { $breakes }>toriad data</a> hysbys.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Mae'r porwr { -brand-name-firefox } hefyd yn rhoi'r gallu i ddefnyddwyr gofrestru ar gyfer cyfrif <a { $accounts }> { -brand-name-mozilla-account } </a> am ddim. Mae cael cyfrif { -brand-name-mozilla-account } yn allwedd i ddatgloi cydweddu ar draws dyfeisiau, a byddwch yn cael budd ychwanegol cynnyrch fel <a { $monitor }>{ -brand-name-firefox-monitor }</a> sy'n monitro'ch cyfeiriadau e-bost ac yn eich rhybuddio os yw unrhyw ran o'ch manylion wedi bod yn gysylltiedig ag unrhyw <a { $breaches }>dor-data  hysbys</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Mae'r porwr { -brand-name-firefox } hefyd yn rhoi'r gallu i ddefnyddwyr gofrestru ar gyfer <a { $accounts }> { -brand-name-firefox-account } </a> am ddim. Mae cael cyfrif { -brand-name-firefox } yn allwedd i ddatgloi cydweddu ar draws dyfeisiau, a byddwch yn cael budd ychwanegol cynnyrch fel <a { $monitor }>{ -brand-name-firefox-monitor }</a> sy'n monitro'ch cyfeiriadau e-bost ac yn eich rhybuddio os yw unrhyw ran o'ch manylion wedi bod yn gysylltiedig ag unrhyw <a { $breaches }>dor-data  hysbys</a>.

@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = Mae Rheolwr Cyfrineiriau {
 password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn storio'ch enwau defnyddwyr a'ch cyfrineiriau ar gyfer mynd i wefannau'n ddiogel, yn eu llenwi'n awtomatig i chi y tro nesaf y byddwch yn ymweld â gwefan, ac yn gadael i chi reoli'ch mewngofnodion wedi'u cadw gyda'i nodwedd rheoli cyfrinair mewnol.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Gyda <a { $fxa }>am ddim { -brand-name-mozilla-account }</a> gallwch gysoni'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau. Gallwch hefyd gael mynediad at holl gynhyrchion eraill { -brand-name-mozilla } sy'n parchu preifatrwydd.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Gyda chyfrif <a href="{ $fxa }"> { -brand-name-mozilla-account } am ddim</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau.
 # Obsolete string
 # Variables:

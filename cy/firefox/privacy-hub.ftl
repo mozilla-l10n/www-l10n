@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cy
 firefox-privacy-hub-firefox-products-work-differently = Mae cynnyrch { -brand-name-firefox } yn gweithio'n wahanol - oherwydd eu bod wedi'u cynllunio i flaenoriaethu ddiogelu eich preifatrwydd.
 firefox-privacy-hub-learn-about-our-products = Dysgu am ein cynnyrch
 firefox-privacy-hub-firefox-privacy-by-the = Preifatrwydd { -brand-name-firefox }, yn ôl y cynnyrch
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ym mhob cynnyrch.
+firefox-privacy-hub-mozilla-protects-your-privacy = Mae { -brand-name-mozilla } yn diogelu eich preifatrwydd ym mhob cynnyrch.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = Mae { -brand-name-firefox } yn <strong>diogelu</strong> eich preifatrwydd ym mhob cynnyrch
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = Mae { -brand-name-mozilla } <strong>yn diogelu</strong> eich preifatrwydd ym mhob cynnyrch.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ o dracwyr wedi'u rhwystro - yn awtomatig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Os oes gennych chi { -brand-
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mae mwy na  { $trackers } o dracwyr yn cael eu rhwystro bob dydd ar gyfer defnyddwyr  { -brand-name-firefox } ledled y byd
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Pan fyddwch yn rhoi eich cyfeiriad e-bost yn { -brand-name-mozilla-monitor }, rydym yn ei anghofio yn syth ar ôl i ni wirio am gyfatebiaeth mewn toriadau data hysbys — oni bai eich bod yn ein hawdurdodi i barhau i fonitro toriadau newydd ar gyfer eich gwybodaeth bersonol.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Pan fyddwch yn nodi'ch cyfeiriad e-bost yn { -brand-name-firefox-monitor }, rydym yn ei anghofio yn syth ar ôl i ni edrych oes sôn i chi fod yn rhan o dor-data hysbys - oni bai eich bod yn ein hawdurdodi i barhau i fonitro tor-data newydd ar gyfer eich gwybodaeth bersonol.
 firefox-privacy-hub-check-for-breaches = Gwiriwch am dor-data
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

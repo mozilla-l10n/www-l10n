@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Gweld pob porwr { -brand-name-firefox-
 
 navigation-v2-products = Cynnyrch
 navigation-v2-close-products-menu = Cau dewislen Cynnyrch
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Gweld a yw'ch e-bost wedi ymddangos mewn tor-data cwmni.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Dysgwch sut mae pob cynnyrch { -b
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Cofrestrwch ar gyfer cyfrifon newydd heb drosglwyddo'ch cyfeiriad e-bost.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Diogelu cysylltiad eich porwr â'r rhyngrwyd.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nodweddion ac offer newydd ar gyfer profiad personoledig o { -brand-name-mdn }
 navigation-v2-view-all-products = Gweld yr Holl Gynnyrch

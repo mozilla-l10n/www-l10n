@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy na phorwr
+# HTML page title
+firefox-products-firefox-beginning = Dim ond y dechrau yw { -brand-name-firefox }
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Mae'n deulu cyfan o gynnyrch sydd wedi'u cynllunio i'ch cadw'n fwy diogel a chlyfrach ar-lein.
+firefox-products-mozillas-family-of-products = Mae teulu o gynhyrchion { -brand-name-mozilla } i gyd wedi'u cynllunio i'ch cadw'n fwy diogel a doethach ar-lein
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = Mae { -brand-name-firefox } yn <strong>fwy</strong> na phorwr
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = Dim ond y <strong>dechrau</strong> yw { -brand-name-firefox }
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Gwelwch a yw'ch manylion personol wedi'i gyfaddawdu mewn tor-data corfforaethol, a chofrestrwch i gael rhybuddion yn y dyfodol.
 firefox-products-check-for-breaches = Gwiriwch am dor-data
 firefox-products-sign-up-for-breach-alerts = Cofrestrwch am rybuddion tor-data
+# Obsolete string
 firefox-products-firefox-browsers = Y Porwr { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Mynnwch y porwyr sy'n rhwystro tracwyr data 2000+ yn awtomatig. Mae Diogelu rhag Tracio Uwch ar gael ym mhob porwr { -brand-name-firefox }.
 firefox-products-desktop = Bwrdd Gwaith
 firefox-products-android = { -brand-name-android }

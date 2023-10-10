@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } g
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, eich hanes a'ch nodau tudalen gyda chi. Y cyfan sydd ei angen arnoch yw <a { $attrs }>{ -brand-name-mozilla-account }</a> a byddwch yn cael mynediad at gysoni a rhagor o gynhyrchion { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Cipiwch ddelwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn 
 firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cymorth { -brand-name-mozilla }</a> yr atebion.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda chi. Nawr beth am gael mwy fyth gan { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Gwyliwch am hacwyr gyda { -brand-name-mozilla-monitor }, gwarchodwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfrineiriau gyda { -brand-name-firefox-lockwise }, a mwy.

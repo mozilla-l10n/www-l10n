@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Mae yna rhai ffyrdd y gall porwr helpu ei dd
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Nid yw'r ail yw peidio a storio gormod o ddata defnyddwyr. Gall hacwyr ddim dwyn ddwyn beth sydd ddim yno, a dyna pam mae { -brand-name-firefox } yn cadw lleiafsafswm o wybodaeth am ei ddefnyddwyr. Mae <a href="{ $data }">{ -brand-name-firefox } yn gwybod</a> os ydych chi'n defnyddio'r porwr a'ch lleoliad cyffredinol <a href="{ $privacy }">ond nid enw anifail anwes eich plentyndod na'ch hoff lliw.</a>
 best-browser-last-but-not-least = Yn olaf, ond nid lleiaf, dylai porwr diogel gynnig offer i'ch helpu i gadw llygad ar eich cyfrifon. Meddyliwch am rybuddion sy'n mynd yn syth i'ch e-bost os bydd unrhyw rai o'ch cyfrifon yn cael eu torri neu eiconau sy'n dweud wrthych a yw gwefan wedi'i hamgryptio, (ee, os yw'n syniad da rhoi rhif eich cerdyn credyd ar wefan siopa).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = Mae { -brand-name-firefox } yn cynnig rhywbeth newydd i'ch cadw'n ddiogel: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Mae'n wasanaeth rhad ac am ddim a fydd yn eich rhybuddio os oes unrhyw haciau cyhoeddus ar eich cyfrifon ac yn rhoi gwybod i chi os cafodd eich cyfrifon eu hacio yn y gorffennol. Nodwedd daclus arall yw'r Green Lock. Mae'n edrych fel eicon gwyrdd bach ar ochr chwith uchaf ffenestr y porwr. Os ydych chi ar { -brand-name-firefox } ac yn gweld y clo gwyrdd, mae'n golygu bod y wefan wedi'i hamgryptio ac yn ddiogel. Os yw'r clo yn llwyd, efallai y byddwch am feddwl ddwywaith am nodi unrhyw wybodaeth sensitif.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = Mae { -brand-name-firefox } yn cynnig rhywbeth newydd i'ch cadw'n ddiogel: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Mae'n wasanaeth rhad ac am ddim fydd yn eich rhybuddio os oes unrhyw haciau cyhoeddus ar eich cyfrifon ac yn rhoi gwybod i chi os cafodd eich cyfrifon eu hacio yn y gorffennol. Nodwedd twt arall yw'r Clo Gwyrdd. Mae'n edrych fel eicon gwyrdd bach ar ochr chwith uchaf ffenestr y porwr. Os ydych chi ar { -brand-name-firefox } ac yn gweld y clo gwyrdd, mae'n golygu bod y wefan wedi'i hamgryptio a'i diogelu. Os yw'r clo yn llwyd, efallai byddai'n well meddwl ddwywaith cyn cofnodi unrhyw wybodaeth sensitif.
