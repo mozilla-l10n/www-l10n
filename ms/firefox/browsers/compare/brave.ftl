@@ -55,6 +55,13 @@ compare-brave-the-ability-to-sync-your-passwords = Keupayaan untuk menyelaraskan
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Pelayar { -brand-name-firefox } juga memberikan keupayaan kepada pengguna untuk mendaftar bagi mendapatkan <a { $accounts }>{ -brand-name-mozilla-account }</a> secara percuma. Memiliki akaun { -brand-name-mozilla-account } merupakan kunci kepada membuka penyelarasan pada semua peranti. Anda juga akan mendapat kebaikan tambahan produk seperti <a { $monitor }>{ -brand-name-mozilla-monitor }</a> yang memantau alamat e-mel anda dan memberi amaran kepada anda jika ada antara maklumat anda terlibat dalam apa-apa <a { $breaches }>kebocoran data</a> yang diketahui.
+
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Pelayar { -brand-name-firefox } juga memberikan keupayaan kepada pengguna untuk mendaftar bagi mendapatkan <a { $accounts }>{ -brand-name-mozilla-account }</a> secara percuma. Memiliki akaun { -brand-name-mozilla-account } merupakan kunci kepada membuka penyelarasan pada semua peranti. Anda juga akan mendapat kebaikan tambahan produk seperti <a { $monitor }>{ -brand-name-firefox-monitor }</a> yang memantau alamat e-mel anda dan memberi amaran kepada anda jika ada antara maklumat anda terlibat dalam apa-apa <a { $breaches }>kebocoran data</a> yang diketahui.
 
 # Obsolete string

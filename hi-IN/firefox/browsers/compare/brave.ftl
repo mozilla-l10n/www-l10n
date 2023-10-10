@@ -55,6 +55,13 @@ compare-brave-the-ability-to-sync-your-passwords = आपकी सभी डि
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } ब्राउज़र यूज़र्स को मुफ़्त <a { $accounts }>{ -brand-name-mozilla-account }</a> के लिए साइन अप करने की सुविधा भी देता है। { -brand-name-mozilla-account } होना, सभी डिवाइसों में सिंक करने की सुविधा चालू करने की कुंजी है, साथ ही आपको <a { $monitor }>{ -brand-name-mozilla-monitor }</a> जैसे उत्पादों का भी लाभ मिलता है जो कि आपके ईमेल पतों की निगरानी करता है और अगर किसी ज्ञात <a { $breaches }>डेटा उल्लंघन</a> में आपकी कोई भी जानकारी शामिल है तो आपको अलर्ट भेजता है।
+
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } ब्राउज़र यूज़र्स को मुफ़्त <a { $accounts }>{ -brand-name-mozilla-account }</a> के लिए साइन अप करने की सुविधा भी देता है। { -brand-name-mozilla-account } होना, सभी डिवाइसों में सिंक करने की सुविधा चालू करने की कुंजी है, साथ ही आपको <a { $monitor }>{ -brand-name-firefox-monitor }</a> जैसे उत्पादों का भी लाभ मिलता है जो कि आपके ईमेल पतों की निगरानी करता है और अगर किसी ज्ञात <a { $breaches }>डेटा उल्लंघन</a> में आपकी कोई भी जानकारी शामिल है तो आपको अलर्ट भेजता है।
 
 # Obsolete string
