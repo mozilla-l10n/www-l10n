@@ -29,6 +29,11 @@ best-browser-the-second-is-not-storing = Deuxièmement, il est important de ne p
 best-browser-last-but-not-least = Enfin, un navigateur sécurisé doit offrir les outils qui vous permettent de surveiller vos comptes. Par exemple, des alertes e-mail si un de vos comptes est concerné par une fuite de données, ou encore des pictogrammes qui indiquent qu’un site est chiffré (c’est-à-dire que vous pouvez entrer votre numéro de carte bancaire sur un site marchand en toute sécurité).
 
 # Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } a plus d'une corde à son arc pour vous protéger : <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Il s'agit d'un service gratuit qui vous alerte en cas de fuite de données et vous informe si votre compte a déjà été piraté auparavant. Une autre fonctionnalité très pratique est le verrou vert. C'est la petite icône verte située dans le coin supérieur gauche de la fenêtre du navigateur. Si vous êtes sur { -brand-name-firefox } et que cette icône est verte, cela signifie que le site est sécurisé et chiffré. S’il est gris, réfléchissez à deux fois avant de soumettre vos informations personnelles.
+
+# Obsolete string
+# Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } a plus d'une corde à son arc pour vous protéger : <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Il s'agit d'un service gratuit qui vous alerte en cas de fuite de données et vous informe si votre compte a déjà été piraté auparavant. Une autre fonctionnalité très pratique est le verrou vert. C'est la petite icône verte située dans le coin supérieur gauche de la fenêtre du navigateur. Si vous êtes sur { -brand-name-firefox } et que cette icône est verte, cela signifie que le site est sécurisé et chiffré. S’il est gris, réfléchissez à deux fois avant de soumettre vos informations personnelles.
 

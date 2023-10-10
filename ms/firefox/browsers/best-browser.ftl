@@ -29,6 +29,11 @@ best-browser-the-second-is-not-storing = Yang kedua ialah tidak menyimpan terlal
 best-browser-last-but-not-least = Akhir sekali dan tidak kurang pentingnya, pelayar yang selamat sepatutnya menawarkan alatan untuk membantu anda mengawasi akaun anda. Fikirkan tentang amaran yang terus dihantar ke e-mel anda jika mana-mana akaun anda diceroboh atau ikon yang memberitahu anda sama ada satu-satu laman web itu dienkripsi atau tidak (contohnya, adakah bagus untuk memasukkan nombor kredit anda pada laman beli-belah).
 
 # Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } menawarkan sesuatu yang baru untuk memastikan anda selamat: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Ia merupakan perkhidmatan percuma yang akan memberi anda amaran jika terdapat penggodaman awam pada akaun anda dan memberitahu anda jika akaun anda pernah digodam pada masa lalu. Satu lagi ciri yang mantap ialah Kunci Hijau. Ia kelihatan seperti ikon hijau kecil di sebelah kiri atas tetingkap pelayar. Jika anda menggunakan { -brand-name-firefox } dan nampak kunci hijau tersebut, itu bermakna laman web telah dienkripsi dan selamat. Jika kunci berwarna kelabu, anda mungkin perlu fikir dua kali sebelum memasukkan apa-apa maklumat sensitif.
+
+# Obsolete string
+# Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } menawarkan sesuatu yang baru untuk memastikan anda selamat: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Ia merupakan perkhidmatan percuma yang akan memberi anda amaran jika terdapat penggodaman awam pada akaun anda dan memberitahu anda jika akaun anda pernah digodam pada masa lalu. Satu lagi ciri yang mantap ialah Kunci Hijau. Ia kelihatan seperti ikon hijau kecil di sebelah kiri atas tetingkap pelayar. Jika anda menggunakan { -brand-name-firefox } dan nampak kunci hijau tersebut, itu bermakna laman web telah dienkripsi dan selamat. Jika kunci berwarna kelabu, anda mungkin perlu fikir dua kali sebelum memasukkan apa-apa maklumat sensitif.
 

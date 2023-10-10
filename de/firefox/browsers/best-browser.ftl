@@ -29,6 +29,11 @@ best-browser-the-second-is-not-storing = Ein weiterer Grund für uns ist, dass w
 best-browser-last-but-not-least = Zu guter Letzt sollte ein sicherer Browser Tools bieten, mit denen du deine Konten im Auge behalten kannst. Zum Beispiel Benachrichtigungen, die direkt an deine E-Mail-Adresse gesendet werden, sobald eines deiner Konten von einer Datenschutzverletzung betroffen ist. Oder aber auch Symbole, die dir mitteilen, ob eine Website verschlüsselt ist oder nicht (und damit, ob es eine gute Idee ist, deine Kreditkartennummer auf einer Shopping-Seite einzugeben).
 
 # Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } hat etwas neues entwickelt, das Ihrem Schutz dient: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Dabei handelt es sich um einen kostenlosen Dienst, der Sie in Kenntnis setzte, sollte ein Hack öffentlich werden, von dem Ihre Konten betroffen sind und informiert Sie auch darüber, wenn Ihre Konten in der Vergangenheit bereits gehackt wurden. Ein anderes tolles Feature ist das grüne Schloss. Das kleine grüne Icon befindet sich oben links im Browserfenster. Wenn Sie mit { -brand-name-firefox } im Internet unterwegs sind und das grüne Schloss sehen, bedeutet das, dass die Website sicher und verschlüsselt ist. Wenn das Schloss grau ist, sollten Sie sich doppelt überlegen, ob Sie sensible Daten preisgeben möchten.
+
+# Obsolete string
+# Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } hat etwas neues entwickelt, das Ihrem Schutz dient: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Dabei handelt es sich um einen kostenlosen Dienst, der Sie in Kenntnis setzte, sollte ein Hack öffentlich werden, von dem Ihre Konten betroffen sind und informiert Sie auch darüber, wenn Ihre Konten in der Vergangenheit bereits gehackt wurden. Ein anderes tolles Feature ist das grüne Schloss. Das kleine grüne Icon befindet sich oben links im Browserfenster. Wenn Sie mit { -brand-name-firefox } im Internet unterwegs sind und das grüne Schloss sehen, bedeutet das, dass die Website sicher und verschlüsselt ist. Wenn das Schloss grau ist, sollten Sie sich doppelt überlegen, ob Sie sensible Daten preisgeben möchten.
 

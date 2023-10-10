@@ -29,6 +29,11 @@ best-browser-the-second-is-not-storing = 2 つ目は、多くのユーザーデ�
 best-browser-last-but-not-least = 最後に、安全なブラウザーは、アカウントを監視するためのツールを提供するべきです。アカウントが侵入された場合にすぐにメールで知らせるアラートや、ウェブサイトが暗号化されているかどうかを知らせるアイコン (ショッピングサイトでクレジットカード番号を入力してもよいかを示す) について考えてみてください。
 
 # Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } は、ユーザーを守るために新しい機能を提供しています。<a { $monitor }>{ -brand-name-mozilla-monitor }</a> です。ユーザーのアカウントがパブリックハックを受けている場合に警告し、アカウントが過去にハッキングを受けたことがあるかどうかを知らせる無料のサービスです。もう一つ、Green Lock も役に立ちます。これはブラウザーウィンドウ左上にあり、小さな緑色のアイコンのように見えます。{ -brand-name-firefox } で緑色のロックが表示されている場合は、ウェブサイトが暗号化され、セキュリティ保護されていることを意味します。ロックがグレーの場合は、機密情報を入力することは考え直してください。
+
+# Obsolete string
+# Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } は、ユーザーを守るために新しい機能を提供しています。<a href="{ $monitor }">{ -brand-name-firefox-monitor }</a> です。ユーザーのアカウントがパブリックハックを受けている場合に警告し、アカウントが過去にハッキングを受けたことがあるかどうかを知らせる無料のサービスです。もう一つ、Green Lock も役に立ちます。これはブラウザーウィンドウ左上にあり、小さな緑色のアイコンのように見えます。{ -brand-name-firefox } で緑色のロックが表示されている場合は、ウェブサイトが暗号化され、セキュリティ保護されていることを意味します。ロックがグレーの場合は、機密情報を入力することは考え直してください。
 
