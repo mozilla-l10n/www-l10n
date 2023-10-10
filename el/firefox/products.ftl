@@ -28,7 +28,7 @@ firefox-products-sign-up-for-breach-alerts = Εγγραφή για ειδοπο�
 # Obsolete string
 firefox-products-firefox-browsers = Προγράμματα περιήγησης { -brand-name-firefox }
 firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Αποκτήστε τα προγράμματα περιήγησης που αποκλείουν αυτόματα 2.000+ ιχνηλάτες δεδομένων. Η Βελτιωμένη προστασία από καταγραφή παρέχεται σε κάθε πρόγραμμα περιήγησης { -brand-name-firefox }.
+firefox-products-get-the-browsers-that-block = Αποκτήστε τα προγράμματα περιήγησης που αποκλείουν αυτόματα 2.000+ ιχνηλάτες. Η Ενισχυμένη προστασία από καταγραφή παρέχεται σε κάθε { -brand-name-firefox }.
 firefox-products-desktop = Υπολογιστές
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
@@ -55,7 +55,7 @@ firefox-products-send-your-large-files-and = Κάντε αποστολή μεγ�
 firefox-products-send-a-file = Αποστολή αρχείου
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Ανακαλύψτε το καλύτερο περιεχόμενο στο διαδίκτυο — και καταναλώστε το όπου και όποτε θέλετε.
-firefox-products-get-pocket = Λήψη { -brand-name-pocket }
+firefox-products-get-pocket = Λήψη του { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Μάθετε περισσότερα για το { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
 # Variables:

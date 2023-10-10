@@ -86,7 +86,7 @@ firefox-privacy-hub-we-cant-see-the-names-or = Δεν μπορούμε να δο
 firefox-privacy-hub-send-a-file = Αποστολή αρχείου
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = Το { -brand-name-pocket } προτείνει υψηλής ποιότητας άρθρα χωρίς να συλλέγει το ιστορικό περιήγησής σας ή να κοινοποιεί τις προσωπικές σας πληροφορίες σε διαφημιστές.
-firefox-privacy-hub-get-pocket = Λήψη { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Λήψη του { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = Ο { -brand-name-mozilla-account(case: "nom", capitalization: "lower") } σας
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = Ο { -brand-name-firefox-account(case: "nom", capitalization: "lower") } σας
