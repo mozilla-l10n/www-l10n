@@ -11,6 +11,9 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } webbläsarsynkronis
 features-sync-access-your-firefox-bookmarks = Få åtkomst till dina { -brand-name-firefox } bokmärken, lösenord och öppna flikar och mer från vilken enhet som helst.
 features-sync-with-firefox-you-can-pick-up-where = Med { -brand-name-firefox } kan du fortsätta där du slutade när du byter från din stationära dator till din mobiltelefon eller till din surfplatta. { -brand-name-firefox } låter dig se dina bokmärken, din webbhistorik, dina sparade lösenord och mer, oavsett vilken enhet du använder.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrera dig för ett kostnadsfritt { -brand-name-mozilla-account }</a> så kommer du att kunna synkronisera din data överallt där du använder { -brand-name-firefox } och andra { -brand-name-mozilla }-produkter.
+# Obsolete string
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Registrera dig för ett gratis { -brand-name-mozilla-account }</a> och du kommer att kunna synkronisera dina data överallt där du använder webbläsaren { -brand-name-firefox }.
 # Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrera dig för ett gratis { -brand-name-firefox }-konto</a> så kommer du att kunna synkronisera dina data överallt där du använder webbläsaren { -brand-name-firefox }.

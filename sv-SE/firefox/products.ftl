@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } är mer än en webbläsare
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } är bara början
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Det är en hel familj av produkter som är utformade för att hålla dig säkrare och smartare online.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla }:s produktfamilj är alla utformade för att hålla dig säkrare och smartare online
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } är <strong>mer</strong> än en webbläsare
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } är bara <strong>början</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Se om din personliga information har äventyrats i samband med ett intrång i ett företags data och registrera dig för framtida varningar.
 firefox-products-check-for-breaches = Sök efter intrång
 firefox-products-sign-up-for-breach-alerts = Registrera dig för intrångsvarningar
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } webbläsare
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Skaffa webbläsarna som blockerar över 2000 dataspårare automatiskt. Förbättrat spårningsskydd finns som standard i alla { -brand-name-firefox }-webbläsare.
 firefox-products-desktop = Dator
 firefox-products-android = { -brand-name-android }

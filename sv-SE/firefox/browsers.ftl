@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Hämta webbläsarna som sätter din
 firefox-browsers-page-desc = Välj från dator, { -brand-name-ios }, { -brand-name-android } eller låt oss skicka en länk för nedladdning via e-post till dig.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Få den integritet du förtjänar. Förbättrat spårningsskydd är automatiskt i alla { -brand-name-firefox }-webbläsare.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Hämta <strong>webbläsarna</strong> som sätter din integritet först — och har alltid gjort det
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Skaffa webbläsaren som sätter din integritet främst — och <strong>alltid</strong> har gjort det
 firefox-browsers-desktop = Dator
 firefox-browsers-seriously-private-browsing = Verkligen privat surfning. { -brand-name-firefox } blockerar automatiskt över 2000 online-spårare från att samla in information om vad du gör på internet.
 firefox-browsers-download-for-desktop = Hämta för dator

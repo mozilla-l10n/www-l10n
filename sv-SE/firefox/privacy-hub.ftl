@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Sekretess i varje produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } produkter fungerar annorlunda — eftersom de är utformade för att skydda din integritet först.
 firefox-privacy-hub-learn-about-our-products = Läs mer om våra produkter
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } sekretess i alla produkter
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } skyddar din integritet i varje produkt.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } skyddar din integritet i varje produkt.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>skyddar</strong> din integritet i varje produkt
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>skyddar</strong> din integritet i varje produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ spårare blockerade — automatiskt
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Om du har ett { -brand-name-
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mer än { $trackers } spårare blockerade varje dag för { -brand-name-firefox }-användare världen över
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = När du anger din e-postadress i { -brand-name-mozilla-monitor } glömmer vi den omedelbart efter att vi har kontrollerat att det finns en matchning i kända dataintrång — såvida du inte godkänner oss att fortsätta att övervaka nya intrång för din personliga information.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = När du anger din e-postadress i { -brand-name-firefox-monitor }, glömmer vi den omedelbart efter att vi har kontrollerat om det finns en matchning i kända dataintrång — såvida du inte godkänner att vi fortsätter att övervaka nya intrång för din personliga information.
 firefox-privacy-hub-check-for-breaches = Sök efter dataintrång
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

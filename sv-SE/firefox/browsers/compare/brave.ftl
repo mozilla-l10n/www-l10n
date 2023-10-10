@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Möjligheten att synkronisera
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Webbläsaren { -brand-name-firefox } ger användarna också möjlighet att registrera sig för ett gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Att ha ett { -brand-name-mozilla-account } är nyckeln till att låsa upp synkronisering mellan enheter, plus att du får den extra fördelen med produkter som <a { $monitor }>{ -brand-name-mozilla-monitor }</a > som övervakar dina e-postadresser och varnar dig om någon av dina uppgifter har varit inblandade i några kända <a { $breaches }>dataintrång</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Webbläsaren { -brand-name-firefox } ger användarna också möjlighet att registrera sig för ett gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Att ha ett { -brand-name-mozilla-account } är nyckeln till att låsa upp synkronisering mellan enheter, plus att du får den extra fördelen med produkter som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som övervakar dina e-postadresser och varnar dig om någon av dina uppgifter har varit inblandade i några kända <a { $breaches }>dataintrång</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Webbläsaren { -brand-name-firefox } ger användare också möjlighet att registrera sig för ett gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. Att ha ett { -brand-name-firefox }-konto är nyckeln till att låsa upp synkronisering mellan enheter, plus att du får den extra fördelen med produkter som <a { $monitor }>{ -brand-name-firefox-monitor }</a> som övervakar dina e-postadresser och varnar dig om någon av dina uppgifter har varit inblandade i några kända  <a { $breaches }>dataintrång</a>.

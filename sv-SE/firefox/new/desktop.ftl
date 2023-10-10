@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } skapades 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Eftersom internet växer och förändras fortsätter { -brand-name-firefox } att fokusera på din rätt till integritet  — vi kallar det <a { $attrs }>Löfte om personlig data</a>: Ta mindre. Förvara det säkert. Inga hemligheter. Dina data, din webbaktivitet, ditt liv online är skyddat med { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a { $attrs }>{ -brand-name-firefox }-konto</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } är tillgängligt på alla dina enheter; ta med dig dina flikar, historik och bokmärken. Allt du behöver är ett <a { $attrs }>{ -brand-name-mozilla-account }</a> och du får tillgång till synkronisering och fler { -brand-name-mozilla }-produkter.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta en högupplöst bild av allt online med vårt <a { $attrs }>skärmdumpsverktyg</a> inbyggt i webbläsaren
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Frågor? <a { $attrs }>{ -brand-name-mozilla } support</a> kan hjälpa dig.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Du har redan webbläsaren. Få ut ännu mer från { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Håll utkik efter hackare med { -brand-name-mozilla-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Håll utkik efter hackare med { -brand-name-firefox-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.

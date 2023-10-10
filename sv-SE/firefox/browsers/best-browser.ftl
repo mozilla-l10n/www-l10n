@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Det finns några sätt en webbläsare kan hj
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Den andra är att inte lagra för mycket användardata. Hackers kan inte stjäla vad som inte finns där, och det är därför { -brand-name-firefox } bara behåller en viss mängd information om sina användare. <a href="{ $data }">{ -brand-name-firefox } vet</a> om du använder webbläsaren och din allmänna plats <a href="{ $privacy }"> men inte namnet på ditt barns husdjur eller din favorit färg. </a>
 best-browser-last-but-not-least = Sist men inte minst, en säker webbläsare bör erbjuda verktyg som hjälper dig att hålla ett öga på dina konton. Tänk på varningar som går direkt till din e-post om något av dina konton blir hackade eller ikoner som berättar om en webbplats är krypterad, dvs om det är en bra idé att ange ditt kreditskortsnummer på en shopping webbplats.
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } erbjuder något nytt för att hålla dig säker: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Det är en gratistjänst som varnar dig om det finns några offentliga intrång på dina konton och låter dig veta om dina konton har blivit hackade tidigare. En annan snygg funktion är det gröna låset. Det ser ut som en liten grön ikon längst upp till vänster i webbläsarfönstret. Om du är på { -brand-name-firefox } och ser det gröna låset betyder det att webbplatsen är krypterad och säker. Om låset är grått kanske du bör tänka två gånger på att ange någon känslig information.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } erbjuder något nytt för att hålla dig säker: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Det är en gratis tjänst som kommer att varna dig om det finns några offentliga hackers på dina konton och låter dig veta om dina konton har hackats tidigare. En annan ny tjänst är Green Lock. Det ser ut som en liten grön hånglås ikon längst upp till vänster i webbläsarfönstret. Om använder { -brand-name-firefox } och ser ett grönt lås betyder det att webbplatsen är krypterad och säker. Om låset är grått kanske du vill tänka två gånger innan du anger någon känslig information.
