@@ -4,7 +4,7 @@
 
 # Variables
 #   $class (string) = CSS Class name for banner title
-moz-account-promo-title = Μία σύνδεση. <br> <span { $class }>Όλες οι υπηρεσίες</span> { -brand-name-mozilla }.
+moz-account-promo-title = Μία σύνδεση. <br> <span { $class }>Όλες</span> οι υπηρεσίες { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
