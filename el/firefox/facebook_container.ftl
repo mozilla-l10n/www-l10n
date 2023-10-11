@@ -1,19 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
-facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } για το { -brand-name-firefox } | Εμποδίστε το { -brand-name-facebook } από το να βλέπει ποιες ιστοσελίδες επισκέπτεστε.
-facebook-container-millions-of-people-around = Εκατομμύρια χρήστες απ' όλο τον κόσμο εμπιστεύονται τα προγράμματα περιήγηση ιστού { -brand-name-firefox } για { -brand-name-android }, { -brand-name-ios } και υπολογιστές. Ταχύ. Ιδιωτικό. Λήψη τώρα!
+facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } για { -brand-name-firefox } | Εμποδίστε το { -brand-name-facebook } από το να βλέπει ποιους ιστοτόπους επισκέπτεστε.
+facebook-container-millions-of-people-around = Εκατομμύρια χρήστες απ' όλο τον κόσμο εμπιστεύονται το { -brand-name-firefox } για { -brand-name-android }, { -brand-name-ios } και υπολογιστές. Γρήγορο και ιδιωτικό. Κάντε λήψη τώρα!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Σε περιορισμό. Διατηρήστε ιδιωτική την υπόλοιπη ζωή σας.
 facebook-container-get-the-facebook-container = Λήψη της επέκτασης { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Λήψη του { -brand-name-firefox } και απόκτηση της επέκτασης { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Η επέκταση { -brand-name-facebook-container } είναι διαθέσιμη μόνο στο { -brand-name-firefox } για υπολογιστές προς το παρόν.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
