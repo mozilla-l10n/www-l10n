@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = თუ წერია „(32-ბიტ
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = თუ გესაჭიროებათ 32-ბიტიანი { -brand-name-firefox } ან გსურთ ხელით დააყენოთ 64-ბიტიანი { -brand-name-firefox }, მარტივად შეგიძლიათ ჩამოტვირთოთ და ხელახლა გაუშვათ { -brand-name-windows }-ზე (32-ბიტიანი ან 64-ბიტიანი) { -brand-name-firefox }-ის დასაყენებელი პროგრამით, რომელსაც იხილავთ <a href="{ $all }">{ -brand-name-firefox }-ის სხვადასხვა სისტემაზე და ენებზე ჩამოსატვირთ გვერდზე.</a>
 windows-64-bit-take-control-of-your = თავად მართეთ თქვენი ბრაუზერი.
+windows-64-bit-download-firefox = ჩამოტვირთეთ { -brand-name-firefox } Windows 64-ბიტისთვის
