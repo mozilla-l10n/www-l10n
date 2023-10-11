@@ -56,11 +56,15 @@ privacy-passwords-now-all-of = Dit klinkt allegearre behoarlik yntimidearjend. D
 # Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Wannear’t jo by { -brand-name-firefox } oanmeld binne mei jo { -brand-name-firefox }-account, kinne jo op al jo apparaten syngronisearje en tagong krije ta jo wachtwurden fan in mobile { -brand-name-firefox }-browser út. Lês hjir mear oer <a { $url_sumo-manager }>hoe’t jo de ynboude wachtwurdbehearder</a> folslein benutsje kinne.
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Wannear’t jo by { -brand-name-firefox } oanmeld binne mei jo { -brand-name-mozilla-account }, kinne jo op al jo apparaten syngronisearje en tagong krije ta jo wachtwurden fan in mobile { -brand-name-firefox }-browser út. Lês hjir mear oer <a { $url_sumo-manager }>hoe’t jo de ynboude wachtwurdbehearder folslein benutte kinne</a>.
 privacy-passwords-twofactor-authentication-2fa = Twafaktorautentikaasje (2FA)
 privacy-passwords-2fa-is-a = 2FA is in geweldige manier om jo befeiliging te ferbetterjen. By it oanmeitsjen fan in nij account biede guon websites jo de mooglikheid om in ‘twadde faktor’ ta te foegjen oan it oanmeldproses. Faaks betsjut dit dat jo jo telefoannûmer oan jo account keppelje, sadat jo, neidat jo jo wachtwurd ynfierd hawwe, frege in befeilige koade yn te fieren dy’t jo streekrjocht fia sms ûntfange. Op dizze manier kin in hacker, as dizze jo wachtwurd bemachtige hat, noch hieltyd gjin tagong ta jo account krije, omdat dizze jo telefoan net hat.
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Jo { -brand-name-firefox }-account kin bygelyks beskerme wurde mei 2FA, <a { $url_sumo_2fa }>wêroer jo hjir mear ynfo fine</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Jo { -brand-name-mozilla-account } kin bygelyks beskerme wurde mei 2FA, <a { $url_sumo_2fa }>wêroer jo hjir mear ynfo fine</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA biedt in folle bettere befeiliging as allinnich wachtwurden, mar net elke website stipet it. Jo kinne op <a { $url_2fa }>https://twofactorauth.org</a> in list mei websites dy’t 2FA stypje fine, krekt as in list mei websites dy’t 2FA net stypje, en manieren wêrop jo dizze freegje kinne stipe derfoar ta te foegjen.
 privacy-passwords-strong-diverse-and = Sterk, ferskaat, en multifaktor

@@ -9,11 +9,15 @@
 ## Required
 
 whatsnew-account-main-headline = Gjin account fereaske. Mar dit kin wol handich wêze.
-whatsnew-account-main-lead-in = De { -brand-name-firefox } sammelet sa min gegevens oer jo dat wy sels jo e-mailadres net nedich hawwe. Mar wannear’t jo it brûke om in { -brand-name-firefox } oan te meitsjen, dan kinne wy jo privacy yn in grutter part fan jo online libben beskermje.
-whatsnew-account-main-button = = Oanmelde
+whatsnew-account-main-lead-in-v2 = De { -brand-name-firefox }-browser sammelet sa min gegevens oer jo dat wy sels jo e-mailadres net nedich hawwe. Mar wannear’t jo it brûke om in { -brand-name-mozilla-account } oan te meitsjen, dan krije jo tagong ta in hiele rige privacybeskermjende produkten njonken { -brand-name-firefox }.
+whatsnew-account-mozilla-cta = In { -brand-name-mozilla-account } oanmeitjse
 
 ##
 
+# Obsolete string
+whatsnew-account-main-lead-in = De { -brand-name-firefox } sammelet sa min gegevens oer jo dat wy sels jo e-mailadres net nedich hawwe. Mar wannear’t jo it brûke om in { -brand-name-firefox } oan te meitsjen, dan kinne wy jo privacy yn in grutter part fan jo online libben beskermje.
+# Obsolete string
+whatsnew-account-main-button = = Oanmelde
 whatsnew-account-signed-in-headline = Krij mear dien. Download { -brand-name-firefox } foar mobyl.
 whatsnew-account-signed-in-lead-in = In downloadkeppeling nei jo telefoan ferstjoere.
 whatsnew-account-signed-in-qr-title = Download { -brand-name-firefox } foar jo snoadfoan en tablet.
