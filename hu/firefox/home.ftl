@@ -26,7 +26,7 @@ firefox-home-learn-more-about-lockwise = Tudjon meg többet a { -brand-name-lock
 firefox-home-get-the-respect-you = Kapja meg az Önt megillető <strong>tiszteletet</strong>
 # Obsolete string
 firefox-home-every-single-firefox = Minden egyes { -brand-name-firefox } termék betartja a személyes adatokra vonatkozó ígéretünket: <strong>Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.</strong>
-firefox-home-every-single-mozilla = Minden egyes { -brand-name-mozilla } termék betartja a személyes adatokra vonatkozó ígéretünket: <strong>Vegyél kevesebbet. Tartsa biztonságban. Nincsenek titkok.</strong>
+firefox-home-every-single-mozilla = Minden egyes { -brand-name-mozilla } termék betartja a személyes adatokra vonatkozó ígéretünket: <strong>Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Osszon meg nagy fájlokat kíváncsi tekintetek nélkül
 # Obsolete string

@@ -17,7 +17,7 @@ firefox-browsers-get-the-privacy-you-deserve = Szerezze meg a megérdemelt adatv
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Kapja meg azokat a <strong>böngészőket</strong>, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Szerezze be azt a böngészőt, amely az adatvédelmet helyezi előtérbe – és <strong>mindig</strong> is tette
+firefox-browsers-get-the-browsers-strong-v2 = Szerezze be a böngészőt, mely az adatvédelmet helyezi előtérbe – ahogy <strong>mindig</strong> is tette
 firefox-browsers-desktop = Asztali
 firefox-browsers-seriously-private-browsing = Valóban privát böngészés. A { -brand-name-firefox } automatikusan blokkol több mint 2000 online követőt, melyek információt gyűjtenének az online tevékenységéről.
 firefox-browsers-download-for-desktop = Letöltés asztali gépre
