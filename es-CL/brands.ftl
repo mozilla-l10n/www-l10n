@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Red privada de Firefox
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -116,6 +117,7 @@
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Cuenta de Mozilla
 -brand-name-mozilla-accounts = Cuentas de Mozilla
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
