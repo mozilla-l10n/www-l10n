@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+# strong tag is for visual formatting only.
+banner-vpn-cyber-take-20-percent-off = <strong>Ontvang deze cyberbeveiligingsmaand <strong>het eerste jaar 20% korting</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
 banner-vpn-cyber-use-coupon-code = Gebruik code { $coupon_code } bij het afrekenen
