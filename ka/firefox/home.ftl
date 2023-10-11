@@ -26,7 +26,7 @@ firefox-home-learn-more-about-lockwise = უკეთ გაიცანით {
 firefox-home-get-the-respect-you = მიიღეთ ღირსეული <strong>პატივისცემა</strong>
 # Obsolete string
 firefox-home-every-single-firefox = თითოეული { -brand-name-firefox }-პროდუქტი ექვემდებარება პირადი მონაცემების დაცვის ჩვენს პირობას: <strong>ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არანაირი საიდუმლოება.</strong>
-firefox-home-every-single-mozilla = თითოეული { -brand-name-mozilla }-პროდუქტი აკმაყოფილებს პირადი მონაცემების დაცვის ჩვენს პირობას: <strong>ნაკლები აღრიცხვა. უსაფრთხოდ შეინახეთ. საიდუმლოებები არ არის.</strong>
+firefox-home-every-single-mozilla = თითოეული { -brand-name-mozilla }-პროდუქტი ექვემდებარება პირადი მონაცემების დაცვის ჩვენს პირობას: <strong>ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არანაირი საიდუმლოება.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = გააზიარეთ დიდი ზომის ფაილები, ცნობისმოყვარეების გარეშე
 # Obsolete string

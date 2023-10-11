@@ -139,7 +139,7 @@ firefox-desktop-download-as-the-internet = ინტერნეტის ზრ
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები. დაგჭირდებათ მხოლოდ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ თქვენი ჩანართები, ისტორია და სანიშნეები. მხოლოდ <a { $attrs }>{ -brand-name-mozilla-account }</a> გექნებათ წვდომა სინქრონიზაციაზე და სხვა { -brand-name-mozilla }-პროდუქტებზე.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ თქვენი ჩანართები, ისტორია და სანიშნები. გესაჭიროებათ მხოლოდ ერთი <a { $attrs }>{ -brand-name-mozilla-account }</a>, რომ მყისიერი წვდომა გქონეთ სინქრონიზაციასა და სხვა { -brand-name-mozilla }-პროდუქტებთან.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = გადაიღეთ მაღალი გაფართოების სურათები ნებისმიერ საიტზე <a { $attrs }>სურათის გადასაღები</a> ხელსაწყოთი, პირდაპირ ბრაუზერშივე

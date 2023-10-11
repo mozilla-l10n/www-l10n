@@ -46,7 +46,7 @@ firefox-privacy-hub-learn-about-our-products = ვრცლად ჩვენ�
 firefox-privacy-hub-firefox-privacy-by-the = პირადულობა { -brand-name-firefox }-პროდუქტებში
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } იცავს თქვენს პირადულობას თითოეულ პროდუქტში.
-firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } იცავს თქვენს პირადულობას ყველა პროდუქტში.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } იცავს თქვენს პირადულობას თითოეულ პროდუქტში.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>იცავს</strong> თქვენს პირადულობას თითოეულ პროდუქტში
 firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>იცავს</strong> თქვენს პირადულობას თითოეულ პროდუქტში.
@@ -74,7 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = არანაკლებ {
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email-v2 = როცა თქვენ ელფოსტის მისამართს შეგყავთ { -brand-name-mozilla-monitor }-ში, ჩვენ გვავიწყდება მას შემდეგ, რაც შევამოწმებთ შესაბამისობას მონაცემთა გავრცელების ცნობილ მიტაცებებში — თუ არ მოგვცემთ უფლებას, გავაგრძელოთ მონიტორინგი თქვენი პირადი ინფორმაციის მიტაცების ახალი შემთხვევებისთვის.
+firefox-privacy-hub-when-you-enter-your-email-v2 = როცა შეგყავთ ელფოსტა { -brand-name-mozilla-monitor }-ში, ჩვენ ვამოწმებთ ცნობილი მიტაცებებისას გამჟღავნებულ მონაცემებში და დაუყოვნებლივ ვივიწყებთ — ხოლო თუ სურვილი გექნებათ, შეგვიძლია განვაგრძოთ თქვენი პირადი მონაცემების ზედამხედველობა მიტაცებების ახალი შემთხვევების დროსაც.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = როცა შეგყავთ ელფოსტა { -brand-name-firefox-monitor }-ში, ჩვენ ვამოწმებთ მას ცნობილი მიტაცებებისას გამჟღავნებულ მონაცემებში და დაუყოვნებლივ ვივიწყებთ — ხოლო თუ დაგვრთავთ ნებას, შეგვიძლია განვაგრძოთ გადამოწმება თქვენი პირადი ინფორმაციის უსაფრთხოების, მიტაცებების ახალი შემთხვევების დროსაც.
 firefox-privacy-hub-check-for-breaches = გაეცანით მიტაცების შემთხვევებს
