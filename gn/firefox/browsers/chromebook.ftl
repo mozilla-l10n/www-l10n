@@ -16,7 +16,7 @@ browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } x86 reheg
 browsers-chromebook-dropdown-copy = Ereko { -brand-name-firefox } { -brand-name-chromebook } peg̃uarã
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = ¿Mba’ére ereko’arã <span>{ -brand-name-firefox }</span> { -brand-name-chromebook } peg̃uarã?
-browsers-chromebook-while-a-chromebook = Orekomarojepe { -brand-name-chromebook } mohendapyre { -brand-name-chrome }, omboguejy ha oipurúvo { -brand-name-firefox } ne kundahára iporãvévarõ, erekóta hetaiterei mba’eporã:
+browsers-chromebook-while-a-chromebook = Orekomarojepe { -brand-name-chromebook } mohendapyre { -brand-name-chrome }, omboguejy ha oiporúvo { -brand-name-firefox } ne kundahára iporãvévarõ, erekóta hetaiterei mba’eporã:
 browsers-chromebook-alwayson-tracking-protection = Ñemo’ã tapykuehoha rovake hendy tapia: ijypykue rupi, { -brand-name-firefox } oiporu ñemo’ã iporãva tapykuehoha rovake (ETP) omo’ã hag̃ua ne mba’ekuaarãitéva rapykuehoha ñemuha ojekuaáva, tapykuehoha ñanduti atygua, ha criptominería scripts nde rapykuehóva ñandutípe.
 browsers-chromebook-supporting-independent-technology = Aykeko tembiporupyahu ijeheguíva: heta kundahára ko’ág̃a rupi omba’apóva { -brand-name-chromium } ndive, oĩ sa’ive poravorã oike’ỹva Tembiporupyahu Tuicháva Pa’ũme. { -brand-name-firefox }-pe oykeko atyguasu viru rehegua’ỹva, ha omba’apóva ñanduti oiko porãve hag̃ua. Eiporúvo { -brand-name-firefox } reiméma hendivekuéra.
 browsers-chromebook-is-it-hard = ¿Hasy { -brand-name-firefox } mboguejy { -brand-name-chromebook } peg̃uarã?
