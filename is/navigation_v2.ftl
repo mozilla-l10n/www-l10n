@@ -32,6 +32,8 @@ navigation-v2-view-all-firefox-browsers = Skoða alla { -brand-name-firefox-brow
 
 navigation-v2-products = Hugbúnaður
 navigation-v2-close-products-menu = Loka hugbúnaðarvalmyndinni
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Athugaðu hvort tölvupósturinn þinn hafi birst í gagnaráni hjá fyrirtæki.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -45,8 +47,6 @@ navigation-v2-learn-how-each-firefox-product = Sjáðu hvernig { -brand-name-fir
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútgáfa)
 navigation-v2-sign-up-for-new-accounts = Skráðu þig fyrir nýjum aðgöngum án þess að gefa upp raunverulega tölvupóstfangið þitt.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (prófunarútgáfa)
-navigation-v2-protect-your-browsers-connection = Verndaðu tengingu vafrans þíns við internetið.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Skoða allan hugbúnað
 
