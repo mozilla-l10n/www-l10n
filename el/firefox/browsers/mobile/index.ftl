@@ -15,7 +15,7 @@ browsers-mobile-at-home-or-on-the-move = Είτε στο σπίτι είτε ε�
 # Obsolete string
 browsers-mobile-get-the-mobile-browser-privacy = Αποκτήστε το πρόγραμμα περιήγησης για κινητά που έχει ως προτεραιότητα το <strong>απόρρητό</strong> σας
 browsers-mobile-firefox-for-android = { -brand-name-firefox } για { -brand-name-android }
-browsers-mobile-infinitely-customizable-private = Άπειρα προσαρμόσιμο, ιδιωτικό και ασφαλές, το { -brand-name-firefox } για { -brand-name-android } είναι ένας αστραπιαίος φυλλομετρητής που δεν θα σας ξεπουλήσει ποτέ.
+browsers-mobile-infinitely-customizable-private = Άπειρα προσαρμόσιμο, ιδιωτικό και ασφαλές, το { -brand-name-firefox } για { -brand-name-android } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που δεν θα σας ξεπουλήσει ποτέ.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios }
 browsers-mobile-go-your-own-way = Περιηγηθείτε με το δικό σας τρόπο στο { -brand-name-firefox } για κινητά
 browsers-mobile-firefox-mobile-adapts-to-you = Το { -brand-name-firefox } για κινητές συσκευές προσαρμόζεται στις ανάγκες σας, ώστε να βλέπετε εύκολα όλες τις ανοικτές καρτέλες, τις προηγούμενες αναζητήσεις και τους αγαπημένους σας ιστοτόπους.

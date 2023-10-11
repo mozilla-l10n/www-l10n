@@ -16,7 +16,7 @@ firefox-desktop-download-meta-desc-v2 = Αποκτήστε το { -brand-name-fi
 firefox-desktop-download-og-title = Κάντε λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-desktop-download-og-desc = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
-firefox-desktop-download-get-the-browser = Ο φυλλομετρητής που φυλάσσει ό,τι είναι σημαντικό
+firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες

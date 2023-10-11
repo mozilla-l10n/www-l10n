@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
-mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Φυλλομετρητής απορρήτου
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Ιδιωτική περιήγηση
 # HTML description
 mobile-focus-firefox-focus-is-your-dedicated-v2 = Το { -brand-name-firefox-focus } είναι το πρόγραμμα περιήγησης απορρήτου σας με αυτόματη προστασία από καταγραφή.
 # Outdated string

@@ -38,7 +38,7 @@ plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
 plan-matrix-feature-mobile-email-masks = Μάσκες email
-plan-matrix-feature-mobile-browser-extension = Επέκταση φυλλομετρητή
+plan-matrix-feature-mobile-browser-extension = Επέκταση προγράμματος περιήγησης
 plan-matrix-feature-mobile-email-tracker-removal = Αφαίρεση ιχνηλατών email
 plan-matrix-feature-mobile-promo-email-blocking = Φραγή διαφημιστικών email
 plan-matrix-feature-mobile-email-subdomain = Μοναδικός τομέας email { -brand-name-relay }
