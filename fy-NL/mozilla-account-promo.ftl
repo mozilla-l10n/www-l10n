@@ -5,3 +5,13 @@
 # Variables
 #   $class (string) = CSS Class name for banner title
 moz-account-promo-title = Ien oanmelding. <br> <span { $class }>Alles</span> { -brand-name-mozilla }.
+# Variables
+#   $sign_in_url - link to
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+moz-account-already-have = Hawwe jo al in account? <a { $sign_in_url }>Oanmelde</a> of <a { $learn_more_url }>mear ynfo</a> oer { -brand-name-mozilla }
+moz-account-get-a-mozilla-account = Meitsje in { -brand-name-mozilla-account } oan
+moz-account-product-firefox = { -brand-name-firefox }
+moz-account-product-monitor = { -brand-name-monitor }
+moz-account-product-pocket = { -brand-name-pocket }
+moz-account-product-vpn = { -brand-name-mozilla-vpn }
+moz-account-product-relay = { -brand-name-relay }
