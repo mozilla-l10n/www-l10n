@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } chỉ là khởi đầu
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Nó là một nhóm các sản phẩm được thiết kế để giúp bạn an toàn hơn và thông minh hơn khi trực tuyến.
+firefox-products-mozillas-family-of-products = Tất cả dòng sản phẩm của { -brand-name-mozilla } đều được thiết kế để giúp bạn trực tuyến an toàn hơn và thông minh hơn
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>không chỉ</strong> là một trình duyệt
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } chỉ là <strong>khởi đầu</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Xem thông tin cá nhân của bạn có bị xâm phạm trong rò rỉ dữ liệu của công ty hay không và đăng ký thông báo trong tương lai.
 firefox-products-check-for-breaches = Kiểm tra rò rỉ
 firefox-products-sign-up-for-breach-alerts = Đăng ký cảnh báo vụ rò rỉ
+# Obsolete string
 firefox-products-firefox-browsers = Trình duyệt { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Nhận các trình duyệt chặn 2000+ trình theo dõi dữ liệu tự động. Trình chống theo dõi nâng cao đạt tiêu chuẩn trong mọi trình duyệt { -brand-name-firefox }.
 firefox-products-desktop = Máy tính để bàn
 firefox-products-android = { -brand-name-android }

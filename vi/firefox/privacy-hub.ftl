@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Sự riêng tư của bạn, b
 firefox-privacy-hub-firefox-products-work-differently = Các sản phẩm { -brand-name-firefox } hoạt động khác nhau — vì chúng được thiết kế để bảo vệ quyền riêng tư của bạn trước tiên.
 firefox-privacy-hub-learn-about-our-products = Tìm hiểu về các sản phẩm của chúng tôi
 firefox-privacy-hub-firefox-privacy-by-the = Quyền riêng tư { -brand-name-firefox }, bởi sản phẩm
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } bảo vệ quyền riêng tư của bạn trong mọi sản phẩm.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } bảo vệ quyền riêng tư của bạn trong mọi sản phẩm.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>bảo vệ</strong> quyền riêng tư của bạn trong mọi sản phẩm
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>bảo vệ</strong> quyền riêng tư của bạn trong mọi sản phẩm
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Hơn 2.000 trình theo dõi bị chặn — tự động
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Nếu bạn có { -brand-nam
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Hơn { $trackers } trình theo dõi bị chặn mỗi ngày cho người dùng { -brand-name-firefox } trên toàn thế giới
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Khi bạn nhập địa chỉ email của bạn vào { -brand-name-mozilla-monitor }, chúng tôi sẽ quên thông tin này ngay sau khi kiểm tra trùng khớp trong các trường hợp rò rỉ dữ liệu đã biết — trừ khi bạn ủy quyền cho chúng tôi tiếp tục theo dõi các trường hợp rò rỉ mới đối với thông tin cá nhân của bạn.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Khi bạn nhập địa chỉ email của bạn vào { -brand-name-firefox-monitor }, chúng tôi sẽ quên nó ngay lập tức sau khi chúng tôi kiểm tra trong các rò rỉ dữ liệu đã biết — trừ khi bạn cho phép chúng tôi tiếp tục theo dõi các rò rỉ mới về thông tin cá nhân của bạn.
 firefox-privacy-hub-check-for-breaches = Kiểm tra rò rỉ
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

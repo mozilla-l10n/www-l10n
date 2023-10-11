@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Có một vài cách trình duyệt có th�
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Thứ hai là không lưu trữ quá nhiều dữ liệu người dùng. Tin tặc có thể ăn cắp những thứ mà không có ở đó, đó là lý do tại sao { -brand-name-firefox } giữ một lượng thông tin tối thiểu về người dùng. <a href="{ $data }">{ -brand-name-firefox } biết</a> nếu bạn sử dụng trình duyệt và vị trí chung của bạn <a href="{ $privacy }">nhưng không phải tên của thú cưng thời thơ ấu hoặc sở thích màu của bạn.</a>
 best-browser-last-but-not-least = Cuối cùng nhưng không kém phần quan trọng, một trình duyệt an toàn sẽ cung cấp các công cụ để giúp bạn theo dõi tài khoản của mình. Hãy nghĩ đến các thông báo đi thẳng vào email của bạn nếu bất kỳ tài khoản nào của bạn bị vi phạm hoặc các biểu tượng cho bạn biết liệu một trang web có được mã hóa hay không, (ví dụ, nếu đó là một ý tưởng hay để nhập số tín dụng của bạn trên trang web mua sắm).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } đang cung cấp một cái gì đó mới để giữ cho bạn an toàn: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Đây là một dịch vụ miễn phí sẽ cảnh báo bạn nếu có bất kỳ vụ tấn công công khai nào trên tài khoản của bạn và cho bạn biết liệu tài khoản của bạn có bị tấn công trước đây hay không. Một tính năng thú vị khác là Green Lock. Nó trông giống như một biểu tượng nhỏ màu xanh lá cây ở phía trên bên trái của cửa sổ trình duyệt. Nếu bạn đang ở trên { -brand-name-firefox } và thấy ổ khóa màu xanh nghĩa là trang web đã được mã hóa và bảo mật. Nếu khóa có màu xám, bạn có thể phải suy nghĩ kỹ về việc nhập bất kỳ thông tin nhạy cảm nào.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } cung cấp một cái gì đó mới để giữ bạn an toàn: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Nó là một dịch vụ miễn phí sẽ cảnh báo bạn nếu có bất kỳ vụ đánh cắp công khai nào trên tài khoản của bạn và cho bạn biết nếu tài khoản của bạn bị xâm phạm trong quá khứ. Một tính năng khác là khóa xanh. Nó trông như một biểu tượng nhỏ màu xanh lá cây ở phía trên bên trái của cửa sổ trình duyệt. Nếu bạn ở trên trên { -brand-name-firefox } và thấy khóa màu xanh lá cây, điều đó có nghĩa là trang web được mã hóa và bảo mật. Nếu khóa có màu xám, bạn có thể muốn nghĩ hai lần về việc nhập bất kỳ thông tin nhạy cảm nào.

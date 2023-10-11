@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = Hãy xem các sản phẩm của chúng tôi
+firefox-sticky-promo-meet-mozillas-family = Gặp gỡ dòng sản phẩm của { -brand-name-mozilla }
 firefox-sticky-promo-get-the-latest-firefox = Tải trình duyệt { -brand-name-firefox } mới nhất.
 # Products List
 firefox-sticky-promo-browsers = Trình duyệt

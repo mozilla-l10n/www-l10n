@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,10 @@ page7-make-them-unfollow-you = Làm cho họ bỏ theo dõi bạn
 page7-that-sneaky-little-button = Cái nút nhỏ lén lút đó
 page7-those-innocent-looking-f-buttons = Các nút F trông ngây thơ từ { -brand-name-facebook } theo dõi hoạt động web của bạn, ngay cả khi bạn không có tài khoản. { -brand-name-facebook-container } sẽ chặn nó.
 page7-stay-ahead-of-hackers = Đi trước tin tặc
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } cho phép bạn tìm hiểu xem tin tặc có thể đã biết gì về bạn và giúp bạn đi trước chúng một bước. (Và nó miễn phí.)
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } cho phép bạn tìm hiểu những gì tin tặc có thể đã biết về bạn và giúp bạn đi trước họ một bước. (Và nó miễn phí.)
+page7-get-mozilla-monitor = Nhận { -brand-name-mozilla-monitor }
+# Obsolete string
 page7-get-firefox-monitor = Nhận { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Tại sao tôi thấy cái này?
