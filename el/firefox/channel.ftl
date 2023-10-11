@@ -9,7 +9,7 @@ firefox-channel-desktop = Υπολογιστές
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Περιηγηθείτε στην άγρια πλευρά.
-firefox-channel-be-among-the-first-to-explore = Γίνετε από τους πρώτους που θα εξερευνήσουν τις μελλοντικές εκδόσεις του { -brand-name-firefox } για τον υπολογιστή, το { -brand-name-android } και το { -brand-name-ios }.
+firefox-channel-be-among-the-first-to-explore = Δοκιμάστε πρώτοι τις νέες δυνατότητες του { -brand-name-firefox } για υπολογιστές, { -brand-name-android } και { -brand-name-ios }.
 firefox-channel-see-something-that-isnt-working = Εντοπίσατε ότι κάτι δεν πάει καλά; Ενημερώστε μας.
 firefox-channel-file-a-bug-now = Αναφορά σφάλματος τώρα
 firefox-channel-tips-for-filing-a-bug = Συμβουλές για τις αναφορές
@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = Όλες οι γλώσσες κα�
 firefox-channel-all-languages-and-builds = Όλες οι γλώσσες και οι εκδόσεις
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = Το { -brand-name-beta } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Αποστέλλει δεδομένα στη { -brand-name-mozilla } — και κάποιες φορές στους συνεργάτες μας — για αντιμετώπιση προβλημάτων και δοκιμή ιδεών. <a href="{ $link }">Μάθετε τι κοινοποιείται</a>.
+firefox-channel-beta-is-an-unstable-testing = Το { -brand-name-beta } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Από προεπιλογή, το { -brand-name-beta } στέλνει δεδομένα στη { -brand-name-mozilla } (και, κάποιες φορές, στους συνεργάτες μας) για την επίλυση προβλημάτων και τη δοκιμή νέων ιδεών. <a href="{ $link }">Μάθετε ποια δεδομένα συλλέγονται</a>.
 firefox-channel-firefox-beta-automatically = Το { -brand-name-firefox-beta } στέλνει αυτόματα σχόλια στη { -brand-name-mozilla }.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
