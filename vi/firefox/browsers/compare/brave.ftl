@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Khả năng đồng bộ hóa
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Trình duyệt { -brand-name-firefox } cũng cung cấp cho người dùng khả năng đăng ký miễn phí một <a { $accounts }>{ -brand-name-mozilla-account }</a>. Có{ -brand-name-mozilla-account } là chìa khóa để mở khóa đồng bộ hóa trên các thiết bị, ngoài ra bạn còn nhận được lợi ích bổ sung của các sản phẩm như <a { $monitor }>{ -brand-name-mozilla-monitor }</a> theo dõi địa chỉ email của bạn và thông báo cho bạn nếu bất kỳ thông tin nào của bạn có liên quan đến bất kỳ <a { $breaches }>rò rỉ nào</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Trình duyệt { -brand-name-firefox } cũng giúp người dùng khả năng đăng ký một <a { $accounts }>{ -brand-name-mozilla-account } miễn phí</a>. Có một { -brand-name-mozilla-account } là chìa khóa để mở khóa đồng bộ hóa trên các thiết bị, ngoài ra bạn còn nhận được lợi ích bổ sung của sản phẩm như <a { $monitor }>{ -brand-name-firefox-monitor }</a> theo dõi địa chỉ email của bạn và thông báo cho bạn nếu bất kỳ thông tin nào của bạn có liên quan đến bất kỳ <a { $breaches }>rò rỉ dữ liệu</a> nào.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Trình duyệt { -brand-name-firefox } cũng cung cấp cho người dùng khả năng đăng ký <a { $accounts }>{ -brand-name-firefox-account }</a> miễn phsi. Có tài khoản { -brand-name-firefox } là chìa khóa để mở khóa đồng bộ hóa trên các thiết bị, ngoài ra bạn còn nhận được lợi ích bổ sung của các sản phẩm như <a { $monitor }>{ -brand-name-firefox-monitor }</a> theo dõi địa chỉ email của bạn và thông báo cho bạn nếu bất kỳ thông tin nào của bạn có liên quan đến bất kỳ <a { $breaches }>rò rỉ dữ liệu</a> đã biết.

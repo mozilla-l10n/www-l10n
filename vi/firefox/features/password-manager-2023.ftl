@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = Trình quản lý mật kh
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } lưu trữ an toàn tên người dùng và mật khẩu của bạn để truy cập trang web, tự động điền chúng cho bạn vào lần tiếp theo bạn truy cập trang web và cho phép bạn quản lý thông tin đăng nhập được lưu trữ của mình bằng tính năng quản lý mật khẩu tích hợp.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Với một <a { $fxa }>{ -brand-name-mozilla-account } miễn phí</a> bạn có thể đồng bộ hóa mật khẩu một cách an toàn trên tất cả các thiết bị của mình. Bạn cũng có thể truy cập tất cả các sản phẩm tôn trọng quyền riêng tư khác của { -brand-name-mozilla }.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Với một <a href="{ $fxa }">{ -brand-name-mozilla-account } miễn phí</a> bạn có thể đồng bộ hoá mật khẩu của bạn một cách an toàn trên tất cả các thiết bị của mình.
 # Obsolete string
 # Variables:

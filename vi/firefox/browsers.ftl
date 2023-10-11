@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Nhận các trình duyệt đặt q
 firefox-browsers-page-desc = Chọn từ máy tính để bàn, { -brand-name-ios }, { -brand-name-android } hoặc để chúng tôi gửi email cho bạn liên kết tải xuống trên thiết bị di động.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Nhận được sự riêng tư mà bạn xứng đáng. Trình chống theo dõi nâng cao tự động trong mọi trình duyệt { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Nhận <strong>trình duyệt</strong> đặt quyền riêng tư của bạn lên hàng đầu — và luôn có
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Tải trình duyệt đặt quyền riêng tư của bạn lên hàng đầu — và <strong>luôn luôn</strong> có
 firefox-browsers-desktop = Máy tính để bàn
 firefox-browsers-seriously-private-browsing = Nghiêm túc duyệt web riêng tư. { -brand-name-firefox } tự động chặn hơn 2000 trình theo dõi trực tuyến thu thập thông tin về những gì bạn làm trực tuyến.
 firefox-browsers-download-for-desktop = Tải xuống cho máy tính để bàn

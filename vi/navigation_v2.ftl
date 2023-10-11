@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Xem tất cả { -brand-name-firefox-b
 
 navigation-v2-products = Sản phẩm
 navigation-v2-close-products-menu = Đóng menu Sản phẩm
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Xem liệu email của bạn có bị rò rỉ dữ liệu từ công ty hay không.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Tìm hiểu cách mỗi sản ph�
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Đăng ký tài khoản mới mà không cần chuyển địa chỉ email của bạn.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Bảo vệ kết nối của trình duyệt của bạn với Internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Các tính năng và công cụ mới cho trải nghiệm { -brand-name-mdn } tùy chỉnh
 navigation-v2-view-all-products = Xem tất cả sản phẩm
