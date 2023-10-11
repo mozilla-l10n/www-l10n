@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Neem uw privacy mee
 newsletters-travel-the-internet = Reis beschermd op het internet, op al uw apparaten.
 newsletters-download-the-app = De app downloaden
 newsletters-check-for-data-breaches = Controleren op datalekken
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
 newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Maak kennis met ons moedermerk

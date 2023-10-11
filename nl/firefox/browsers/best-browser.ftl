@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Er zijn een paar manieren waarop een browser
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = De tweede manier is niet te veel gebruikersgegevens te bewaren. Hackers kunnen niet stelen wat er niet is en daarom bewaart { -brand-name-firefox } een minimale hoeveelheid gebruikersgegevens. <a href="{ $data }">{ -brand-name-firefox } weet</a> of u de browser gebruikt en wat uw algemene locatie is, <a href="{ $privacy }">maar niet de naam van het huisdier uit uw jeugd of uw favoriete kleur.</a>
 best-browser-last-but-not-least = Ten slotte zou een veilige browser hulpmiddelen moeten bieden die u helpen uw accounts in de gaten te houden. Denk hierbij aan waarschuwingen die rechtstreeks naar uw e-mailadres worden verzonden als een van uw accounts getroffen is door een datalek, of pictogrammen die u vertellen of een website versleuteld is (dat wil zeggen, of het een goed idee is om uw creditcardgegevens in te voeren op een webwinkelsite).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } biedt iets nieuws om u veilig te houden: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Dit is een gratis dienst die u een waarschuwing stuurt als er bekende hacks op uw account zijn en u informeert of uw accounts in het verleden zijn gehackt. Nog een fijne functie is het Groene Slotje. Dit ziet eruit als een klein groen pictogram links bovenin uw browservenster. Als u { -brand-name-firefox } gebruikt en u ziet het groene slotje, dan betekent dit dat de website versleuteld en veilig is. Als het slotje grijs is, dan moet u wellicht het ingeven van gevoelige informatie eens heroverwegen.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } biedt iets nieuws om u veilig te houden: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Dit is een gratis dienst die u een waarschuwing stuurt als er bekende hacks op uw account zijn en u informeert of uw accounts in het verleden zijn gehackt. Nog een fijne functie is het Groene Slotje. Dit ziet eruit als een klein groen pictogram links bovenin uw browservenster. Als u { -brand-name-firefox } gebruikt en u ziet het groene slotje, dan betekent dit dat de website versleuteld en veilig is. Als het slotje grijs is, dan moet u wellicht het ingeven van gevoelige informatie eens heroverwegen.

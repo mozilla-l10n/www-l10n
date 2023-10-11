@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = De mogelijkheid om uw wachtwo
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = De { -brand-name-firefox }-browser biedt gebruikers de mogelijkheid zich aan te melden voor een gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Een { -brand-name-mozilla-account }-account is de sleutel om te kunnen synchroniseren tussen apparaten, en u ontvangt het voordeel van producten als <a { $monitor }>{ -brand-name-mozilla-monitor }</a>, dat uw e-mailadressen controleert en u waarschuwt als uw gegevens zijn getroffen door een bekend <a { $breaches }>datalek</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = De { -brand-name-firefox }-browser biedt gebruikers de mogelijkheid zich aan te melden voor een gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. Een { -brand-name-mozilla-account }-account is de sleutel om te kunnen synchroniseren tussen apparaten, en u ontvangt het voordeel van producten als <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat uw e-mailadressen controleert en u waarschuwt als uw gegevens zijn getroffen door een bekend <a { $breaches }>datalek</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = De { -brand-name-firefox }-browser biedt gebruikers de mogelijkheid zich aan te melden voor een gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. Een { -brand-name-firefox }-account is de sleutel om te kunnen synchroniseren tussen apparaten, en u ontvangt het voordeel van producten als <a { $monitor }>{ -brand-name-firefox-monitor }</a>, dat uw e-mailadressen controleert en u waarschuwt als uw gegevens zijn getroffen door een bekend <a { $breaches }>datalek</a>.

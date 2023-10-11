@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Download de browsers die uw privacy
 firefox-browsers-page-desc = Kies uit Desktop, { -brand-name-ios }, { -brand-name-android }, of laat ons u een mobiele downloadkoppeling toesturen per e-mail.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Krijg de privacy die u verdient. Verbeterde bescherming tegen volgen is automatisch in elke { -brand-name-firefox }-browser.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> die uw privacy voorop stellen – en dat altijd hebben gedaan
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Download de browser die uw privacy voorop stelt – en dat <strong>altijd</strong> heeft gedaan
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Echte privénavigatie. { -brand-name-firefox } blokkeert automatisch meer dan 2000 online trackers die informatie verzamelen over wat u online doet.
 firefox-browsers-download-for-desktop = Downloaden voor Desktop

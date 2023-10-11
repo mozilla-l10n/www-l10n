@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich concentreren op uw recht op privacy – we noemen het de <a { $attrs }>Persoonlijke Gegevensbelofte</a>: Neem minder. Houd het veilig. Geen geheimen. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beschikbaar op al uw apparaten; neem uw tabbladen, geschiedenis en bladwijzers mee. U hebt alleen een <a { $attrs }>{ -brand-name-firefox }-account</a> nodig.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is beschikbaar op al uw apparaten; neem uw tabbladen, geschiedenis en bladwijzers mee. Het enige dat u nodig hebt, is een <a { $attrs }>{ -brand-name-mozilla-account }</a>, en u krijgt toegang tot synchronisatie en meer { -brand-name-mozilla }-producten.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Maak een afbeelding met een hoge resolutie van alles wat online is met ons hulpmiddel voor <a { $attrs }>schermafdrukken</a>, dat rechtstreeks in de browser is ingebouwd
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Vragen? <a { $attrs }>{ -brand-name-mozilla }-ondersteuning </a> is er voor u.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = U hebt de browser al. Haal nu nog meer uit { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers met { -brand-name-mozilla-monitor }, bescherm uw e-mailadres met { -brand-name-firefox-relay }, en meer.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Let op hackers met { -brand-name-firefox-monitor }, bescherm uw e-mailadres met { -brand-name-firefox-relay }, en meer.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Let op hackers met { -brand-name-firefox-monitor }, bescherm wachtwoorden met { -brand-name-firefox-lockwise }, en meer.

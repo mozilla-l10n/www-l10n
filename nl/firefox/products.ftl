@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } is meer dan een browser
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } is nog maar het begin
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Het is een hele familie van producten die zijn ontworpen om u online veiliger en slimmer te houden.
+firefox-products-mozillas-family-of-products = De productfamilie van { -brand-name-mozilla } is ontworpen om u online veiliger en slimmer te houden
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } is <strong>meer</strong> dan een browser
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } is nog maar het <strong>begin</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Bekijk of uw persoonlijke gegevens zijn gelekt bij een bedrijfslek en meld u aan voor toekomstige waarschuwingen.
 firefox-products-check-for-breaches = Controleren op datalekken
 firefox-products-sign-up-for-breach-alerts = Inschrijven voor waarschuwingen over datalekken
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox }-browsers
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Download de browsers die automatisch meer dan 2000 datatrackers blokkeren. Verbeterde bescherming tegen volgen is standaard in elke { -brand-name-firefox }-browser.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
