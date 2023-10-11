@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-mozilla = მეტი, ვიდრე ბრაუზერი - { -brand-name-mozilla-monitor } თქვენი მზვერავია ჰაკერებისთვის
+welcome-page1-more-than-a-browser-mozilla = მეტი, ვიდრე ბრაუზერი - { -brand-name-mozilla-monitor } თქვენი მზვერავია ჰაკერების წინააღმდეგ
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = მეტი, ვიდრე ბრაუზერი – { -brand-name-firefox-monitor } თქვენი მზვერავია ჰაკერების წინააღმდეგ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = გადადგით ნაბიჯი თქვენი პირადულობის დასაცავად ინტერნეტში, { -brand-name-firefox }-პროდუქტების ნაკრების მეშვეობით.
-welcome-page1-stay-ahead-of-hackers-check-v2 = დარჩით წინ ჰაკერებზე. გადაამოწმეთ მიტაცებული მონაცემები { -brand-name-mozilla-monitor }-ით.
+welcome-page1-stay-ahead-of-hackers-check-v2 = დაასწარით ჰაკერებს. გადაამოწმეთ მიტაცებული მონაცემები { -brand-name-mozilla-monitor }-ით.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = დაასწარით ჰაკერებს. გადაამოწმეთ მიტაცებული მონაცემები { -brand-name-firefox-monitor }-ით.
 welcome-page1-youre-on-track-to-stay-protected = თქვენ, უსაფრთხოებისკენ მიმავალ გზაზე ხართ
@@ -20,7 +20,7 @@ welcome-page1-check-your-breach-report = იხილეთ მიტაცე�
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } გაჩვენებთ, თუ თქვენი ინფორმაცია გამჟღავნებულია მონაცემების ცნობილ მიტაცებისას და გაცნობებთ, თუ მომავალში ეს მოხდება.
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } გაგაგებინებთ, თქვენი ინფორმაცია გამჟღავნებული ხომ არაა მონაცემების ცნობილი მიტაცებებისას და მოგახსენებთ, თუ მომავალში მოხდება მსგავსი რამ.
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } გაჩვენებთ, თუ თქვენი ინფორმაცია გამჟღავნებულია მონაცემების ცნობილი მიტაცებებისას და მოგახსენებთ, თუ მომავალში მოხდება მსგავსი რამ.
 welcome-page1-stay-ahead-of-hackers = დაასწარით ჰაკერებს

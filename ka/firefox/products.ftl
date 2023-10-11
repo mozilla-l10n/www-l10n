@@ -13,7 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } მხოლოდ 
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = იგი სრული ნაკრებია პროდუქტებისა ინტერნეტის უსაფრთხოდ და მოხერხებულად გამოყენებისთვის.
-firefox-products-mozillas-family-of-products = { -brand-name-mozilla }-ს პროდუქტების ოჯახი, ყველა შექმნილია იმისთვის, რომ იყოთ მეტად უსაფრთხოდ და მოხერხებულად ინტერნეტში
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } პროდუქტების სრული ნაკრები განკუთვნილია ინტერნეტში უსაფრთხო და მოხერხებული საქმიანობისთვის
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>მეტია</strong>, ვიდრე მხოლოდ ბრაუზერი
