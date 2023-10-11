@@ -42,7 +42,7 @@ navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσ�
 navigation-explore-the-immersive = Εξερευνήστε το εμβυθιστικό διαδίκτυο στη δική σας συσκευή εικονικής πραγματικότητας.
 # Outdated string
 navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
-navigation-get-together = Συγκεντρωθείτε στην εικονική πραγματικότητα με αυτό το διαδικτυακό κοινωνικό χώρο.
+navigation-get-together = Συγκεντρωθείτε στην εικονική πραγματικότητα με αυτόν τον διαδικτυακό κοινωνικό χώρο.
 # Outdated string
 navigation-meet-people-in-experimental = Γνωρίστε άτομα σε πειραματικές συνομιλίες μεικτής πραγματικότητας με το { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
@@ -109,7 +109,7 @@ navigation-mixed-reality = Μεικτή πραγματικότητα
 navigation-resources = Πόροι
 navigation-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές.
 navigation-developer-blog = Blog προγραμματιστών
-navigation-build-test-scale-and = Ανάπτυξη, δοκιμή και πολλά άλλα με το μόνο πρόγραμμα περιήγησης για προγραμματιστές.
+navigation-build-test-scale-and = Δημιουργήστε, εκτελέστε δοκιμές, κάντε μετρήσεις και πολλά άλλα στο μόνο πρόγραμμα περιήγησης για προγραμματιστές.
 navigation-leadership = Ηγεσία
 navigation-mission = Αποστολή
 navigation-press-center = Κέντρο τύπου
