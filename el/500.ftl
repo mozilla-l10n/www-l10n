@@ -10,4 +10,4 @@ error-page-its-probably-just-a-server-error = Πρόκειται μάλλον γ
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
-error-page-you-can-also-try-refreshing = Μπορείτε επίσης να ανανεώσετε τη σελίδα ή να μεταβείτε στο <a href={ $firefox }>firefox.com</a> ή το <a href={ $mozilla }>mozilla.org</a>
+error-page-you-can-also-try-refreshing = Μπορείτε επίσης να ανανεώσετε αυτήν τη σελίδα ή να μεταβείτε στο <a href={ $firefox }>firefox.com</a> ή το <a href={ $mozilla }>mozilla.org</a>

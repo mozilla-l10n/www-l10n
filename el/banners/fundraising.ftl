@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Βοηθήστε τη { -brand-name-mozilla } στον αγώνα για ένα καλύτερο διαδίκτυο αυτές τις γιορτές.
+banner-fundraising-title-v2 = Αυτές τις γιορτές, βοηθήστε τη { -brand-name-mozilla } στον αγώνα για ένα καλύτερο διαδίκτυο.
 banner-fundraising-title-giving-day = Βοηθήστε τη { -brand-name-mozilla } στον αγώνα για ένα καλύτερο διαδίκτυο την Τρίτη, μετά την Ημέρα των Ευχαριστιών.
 # Outdated string
 banner-fundraising-title = Το μέλλον καθορίζεται διαδικτυακά. Βοηθήστε τη { -brand-name-mozilla } στον αγώνα για ένα διαδίκτυο διαθέσιμο για όλους μας.

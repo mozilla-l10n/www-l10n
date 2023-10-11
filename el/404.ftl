@@ -17,4 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Μάθετε</
 not-found-page-explore-the-entire-family-for = <a href={ $explore }>Εξερευνήστε</a> ολόκληρη την οικογένεια των προϊόντων { -brand-name-firefox } που σέβονται το απόρρητό σας.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Κάντε λήψη</a> του { -brand-name-firefox } για την κινητή συσκευή ή τον υπολογιστή σας
+not-found-page-download-the-firefox-browser = <a href={ $download }>Αποκτήστε</a> το { -brand-name-firefox } για την κινητή συσκευή ή τον υπολογιστή σας

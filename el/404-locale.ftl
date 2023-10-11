@@ -11,7 +11,7 @@ not-found-locale-not-yet-translated = Η σελίδα δεν έχει μεταφ
 # Variables:
 #   $community (url) - link to https://community.mozilla.org/activities/localize-mozilla/
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
-not-found-locale-join-us = Γίνετε μέλος της <a href="{ $community }">ομάδας της κοινότητάς</a> μας και βοηθήστε μας να <a href="{ $contribute }">μεταφράσουμε αυτήν τη σελίδα.</a>
+not-found-locale-join-us = Γίνετε μέλος της <a href="{ $community }">κοινότητάς</a> μας και βοηθήστε μας να <a href="{ $contribute }">μεταφράσουμε αυτήν τη σελίδα.</a>
 not-found-locale-available = Διατίθεται στις ακόλουθες γλώσσες:
 # Variables:
 #   $requested_page (string) - path of originally requested page
