@@ -31,7 +31,7 @@ sub-navigation-add-ons = Πρόσθετα
 sub-navigation-faq = Συχνές ερωτήσεις
 sub-navigation-learn-more = Μάθετε περισσότερα
 sub-navigation-developer-edition = { -brand-name-developer-edition }
-sub-navigation-firefox-for-mobile = { -brand-name-firefox } για κινητά
+sub-navigation-firefox-for-mobile = { -brand-name-firefox } για κινητές συσκευές
 # Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
 sub-navigation-android-addons = Πρόσθετα { -brand-name-android }
 sub-navigation-android-add-ons = Πρόσθετα { -brand-name-android }

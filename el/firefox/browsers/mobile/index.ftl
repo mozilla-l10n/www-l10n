@@ -23,7 +23,7 @@ browsers-mobile-the-more-you-use = Όσο περισσότερο το χρησι
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Αποκτήστε την Ενισχυμένη προστασία από καταγραφή και ορίστε το { -brand-name-firefox } ως προεπιλογή στο { -brand-name-iphone } και το { -brand-name-ipad } σας.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = Ψάχνετε για ένα λειτουργικό, αστραπιαίο πρόγραμμα περιήγησης για κινητές συσκευές με εξελιγμένα χαρακτηριστικά απορρήτου; Το { -brand-name-firefox-focus } διαγράφει αυτόματα όλο το ιστορικό σας από τη στιγμή που ανοίγετε την εφαρμογή μέχρι να την κλείσετε.
+browsers-mobile-looking-for-a-streamlined = Θέλετε ένα γρήγορο πρόγραμμα περιήγησης με προηγμένες δυνατότητες απορρήτου για κινητές συσκευές; Το { -brand-name-firefox-focus } διαγράφει αυτόματα το ιστορικό σας από το άνοιγμα έως το κλείσιμο της εφαρμογής.
 browsers-mobile-compare-mobile-browsers = Σύγκριση φυλλομετρητών για κινητά
 browsers-mobile-see-how-firefox-stacks-up = Δείτε την κατάταξη του { -brand-name-firefox } σε σχέση με άλλα προγράμματα περιήγησης, όσον αφορά τρία σημαντικά κριτήρια: απόρρητο, λειτουργίες και συγχρονισμός.
 browsers-mobile-compare = Σύγκριση

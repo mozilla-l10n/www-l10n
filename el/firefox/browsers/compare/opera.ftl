@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
@@ -37,6 +37,6 @@ compare-opera-both-firefox-and-opera-are = Τόσο το { -brand-name-firefox }
 compare-opera-in-addition-to-the-regular = Εκτός από την κανονική εφαρμογή, η { -brand-name-opera } διαθέτει άλλες δύο εκδόσεις του προγράμματος περιήγησής της για κινητά: Touch και Mini. Το Touch έχει λιγότερα χαρακτηριστικά, αλλά έχει σχεδιαστεί για χρήση με το ένα χέρι. Η έκδοση Mini έχει ως σκοπό τη χρήση λιγότερων δεδομένων και την επιτάχυνση αργών συνδέσεων, υποβαθμίζοντας τις εικόνες και αφαιρώντας περιεχόμενο.
 # Variables:
 #   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
-compare-opera-we-also-offer-an-additional = Επίσης, προσφέρουμε μια επιπρόσθετη, αν και πειραματική, έκδοση της εφαρμογής { -brand-name-firefox } για κινητά, το <a { $attrs }>{ -brand-name-firefox } Preview</a>, το οποίο εστιάζει στην ταχύτητα και την ασφάλεια.
+compare-opera-we-also-offer-an-additional = Παρέχουμε κι εμείς μια επιπρόσθετη, αν και πειραματική, έκδοση του { -brand-name-firefox } για κινητές συσκευές, το <a { $attrs }>{ -brand-name-firefox } Preview</a>, που εστιάζει στην ταχύτητα και την ασφάλεια.
 compare-opera-most-major-browsers-these = Αυτή τη στιγμή, τα περισσότερα προγράμματα περιήγησης, με εξαίρεση το { -brand-name-safari }, λειτουργούν απρόσκοπτα σε πολλές πλατφόρμες. Το { -brand-name-opera } και το { -brand-name-firefox } δεν αποτελούν εξαιρέσεις καθώς παρέχουν εξαιρετική φορητότητα σε κάθε συσκευή.
 compare-opera-overall-opera-is-a-solid-browser = Συνοπτικά, το { -brand-name-opera } είναι ένα αξιόπιστο πρόγραμμα περιήγησης, με ένα απλό περιβάλλον εργασίας και πολλές χρήσιμες λειτουργίες. Υπάρχουν, ωστόσο, ορισμένες σοβαρές ανησυχίες σχετικά με το απόρρητο, καθώς και το ζήτημα χρήσης υπερβολικής επεξεργαστικής ισχύος. Αν και το { -brand-name-opera } διαθέτει μερικά πολύ εύχρηστα χαρακτηριστικά, πιστεύουμε ακόμα ότι το { -brand-name-firefox } υπερέχει, λόγω των επιδόσεων, της διαφανούς στάσης του όσον αφορά το απόρρητο του χρήστη και των αυστηρών μεθόδων προστασίας απορρήτου.
