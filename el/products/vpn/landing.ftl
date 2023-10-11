@@ -121,7 +121,7 @@ vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτικ�
 vpn-landing-faq-refund-question-desc-v2 = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης σας συνδρομής.
 vpn-landing-faq-refund-question-additional-desc = Αν αγοράσετε τη συνδρομή σας εντός της εφαρμογής από το { -brand-name-apple } { -brand-name-app-store } ή το { -brand-name-google-play } Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του { -brand-name-app-store }. Θα πρέπει να απευθυνθείτε, αναλόγως, στην { -brand-name-apple } ή την { -brand-name-google } για τυχόν απορίες σχετικά με τη χρέωση και την επιστροφή χρημάτων.
 # Outdated string
-vpn-landing-faq-refund-question-desc = Μπορείτε να πάρετε τα χρήματά σας πίσω εντός 30 ημερών από την αγορά της συνδρομής σας. Επικοινωνήστε μαζί μας και υποβάλλετε ένα αίτημα επιστροφής χρημάτων πατώντας το κουμπί “Λήψη βοήθειας” στις Ρυθμίσεις της εφαρμογής { -brand-name-mozilla-vpn }.
+vpn-landing-faq-refund-question-desc = Μπορείτε να λάβετε τα χρήματά σας πίσω εντός 30 ημερών από την αγορά της συνδρομής σας. Επικοινωνήστε μαζί μας και υποβάλλετε ένα αίτημα επιστροφής χρημάτων πατώντας το κουμπί «Λήψη βοήθειας» στις «Ρυθμίσεις» της εφαρμογής { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -147,7 +147,7 @@ vpn-landing-invite-country-label = Σε ποια χώρα κατοικείτε;
 vpn-landing-invite-language-label = Επιλέξτε την προτιμώμενη γλώσσα σας.
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-invite-privacy-policy = Κάνοντας κλικ στο “Εγγραφή στη λίστα αναμονής”, αποδέχεστε την <a href="{ $privacy }">Πολιτική απορρήτου</a> μας.
+vpn-landing-invite-privacy-policy = Κάνοντας κλικ στο «Εγγραφή στη λίστα αναμονής», αποδέχεστε την <a href="{ $privacy }">Πολιτική απορρήτου</a> μας.
 vpn-landing-invite-your-information = Τα στοιχεία σας θα χρησιμοποιηθούν αποκλειστικά για την ενημέρωσή σας σχετικά με τη διαθεσιμότητα.
 vpn-landing-invite-thanks-heading = Ευχαριστούμε! Είστε στη λίστα
 vpn-landing-invite-thanks-desc = Μόλις το { -brand-name-mozilla-vpn } γίνει διαθέσιμο στην περιοχή σας, θα σας ειδοποιήσουμε μέσω email.

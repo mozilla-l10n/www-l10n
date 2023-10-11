@@ -15,7 +15,7 @@ welcome-page4-get-the-firefox-mobile = Λήψη του { -brand-name-firefox } �
 welcome-page4-get-firefox-on-your-phone = Αποκτήστε το { -brand-name-firefox } στο τηλέφωνό σας
 welcome-page4-send-the-download-link-right = Αποστολή συνδέσμου λήψης στο τηλέφωνο ή το email σας.
 welcome-page4-download-firefox-for-your = Λήψη του { -brand-name-firefox } για smartphone και tablet.
-welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Ιδιωτικό και ασφαλές” για { -brand-name-ios } ή { -brand-name-android }.
+welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: Ιδιωτικό και ασφαλές» για { -brand-name-ios } ή { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Αποφυγή ιχνηλατών δεδομένων
 # Variables:
