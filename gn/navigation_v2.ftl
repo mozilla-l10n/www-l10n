@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Ehechapa { -brand-name-firefox-browser
 
 navigation-v2-products = Apopyre
 navigation-v2-close-products-menu = Emboty poravorã Apopyre
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Ehechajey ne ñanduti veve ojekuaápa mba’ekuaarã ñembyai mba’apohaguasúpe.
 navigation-v2-pocket = { -brand-name-pocket }

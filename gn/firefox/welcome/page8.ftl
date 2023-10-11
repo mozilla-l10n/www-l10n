@@ -15,6 +15,8 @@ welcome-page8-view-your-protection-report = Ehecha ne marandu’i ñemo’ãgua
 welcome-page8-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 welcome-page8-automatically-block-sites = Ojoko ijehegui umi tenda anive hag̃ua nde rapykueho ñandutípe.
 welcome-page8-see-whats-blocked = Ehecha pe ojejokóva
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Ehecha eimépara’e mba’ekuaarã ñembyai ñanduti peguápe ha ehecha mba’éichapa emoĩporãkuaa.
 welcome-page8-go-to-monitor = Eike { -brand-name-monitor }-pe
