@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = ანგარიში არაა აუცილებელი. მაგრამ შეიძლება გამოგადგეთ.
-whatsnew-account-main-lead-in-v2 = { -brand-name-firefox }-ბრაუზერი იმდენად მცირე მონაცემებს აგროვებს თქვენ შესახებ, რომ ელფოსტის მისამართსაც არ ვითხოვთ. მაგრამ როცა მას იყენებთ { -brand-name-mozilla-account }-ის შესაქმნელად, { -brand-name-firefox }-ის გარდა, პირადი მონაცემების დაცვის უამრავ პროდუქტზე გექნებათ წვდომა.
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } იმდენად მცირე მონაცემებს აღრიცხავს თქვენ შესახებ, რომ ელფოსტის მისამართის მითითებაც არ გჭირდებათ. სამაგიეროდ, { -brand-name-mozilla-account(case: "gen") } შექმნით წვდომა გექნებათ პირადულობის უზრუნველმყოფი პროდუქტების სრულ ნაკრებზე { -brand-name-firefox }-სთან ერთად.
 whatsnew-account-mozilla-cta = გამოიყენეთ { -brand-name-mozilla-account }
 
 ##

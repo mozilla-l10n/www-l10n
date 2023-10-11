@@ -17,7 +17,7 @@ page7-make-them-unfollow-you = მოიცილეთ მიმდევრე
 page7-that-sneaky-little-button = პატარა გაიძვერა ღილაკი
 page7-those-innocent-looking-f-buttons = უმანკო შესახედაობის F-ღილაკები { -brand-name-facebook }-ისგან თვალს გადევნებთ ინტერნეტში, ანგარიშის არ ქონის დროსაც. { -brand-name-facebook-container } კი ზღუდავს მათ.
 page7-stay-ahead-of-hackers = დაასწარით ჰაკერებს
-page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } დაგეხმარებათ გაარკვიოთ, რა შეიძლება ჰაკერებმა უკვე იცოდნენ თქვენს შესახებ და დაგეხმარებათ მუდამ წინ იყოთ მათზე. (და უფასოა.)
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } დაგეხმარებათ გაარკვიოთ, რა შეიძლება ჰაკერებმა იცოდნენ თქვენზე, რომ მუდამ ერთი ნაბიჯით უსწრებდეთ. (ამასთანავე უფასოა).
 # Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } დაგეხმარებათ გაარკვიოთ, რა შეიძლება ჰაკერებმა იცოდნენ თქვენზე, რომ მუდამ ერთი ნაბიჯით წინ იყოთ მათზე. (ამასთან უფასოა).
 page7-get-mozilla-monitor = გამოიყენეთ { -brand-name-mozilla-monitor }

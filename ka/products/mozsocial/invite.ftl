@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
 # HTML page title
-mozsocial-invite-join-the-waitlist = შემოუერთდით { -brand-name-mozilla-social }-ის მსურველებს
+mozsocial-invite-join-the-waitlist = შემოუერთდით მსურველებს: { -brand-name-mozilla-social }
 mozsocial-invite-welcome-to-mozillasocial = მოგესალმებათ { -brand-name-mozilla-social }!
-mozsocial-invite-please-join-our-waitlist = გთხოვთ, შემოუერთდეთ ჩვენს მსურველებს, ქვემოთ მოცემული ფორმის შევსებით.
+mozsocial-invite-please-join-our-waitlist = შემოუერთდით მსურველებს ქვემოთ მოცემული ფორმის შევსებით.
 mozsocial-invite-required-label = აუცილებელია
 mozsocial-invite-first-name-label = სახელი
 mozsocial-invite-last-name-label = გვარი
