@@ -18,6 +18,7 @@ password-manager-with-a-free-mozilla-account = Με έναν <a href="{ $fxa }">
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Με έναν <a href="{ $fxa }">δωρεάν λογαριασμό { -brand-name-firefox }</a>, μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας.
-password-manager-password-autofill-for-easy-logins = Αυτόματη συμπλήρωση κωδικών πρόσβασης
+password-manager-password-autofill-for-easy-logins = Αυτόματη συμπλήρωση κωδικών πρόσβασης για εύκολη σύνδεση
+password-manager-firefox-can-automatically-fill-in = Το { -brand-name-firefox } μπορεί να συμπληρώσει αυτόματα τα αποθηκευμένα στοιχεία σύνδεσής σας. Εάν διαθέτετε περισσότερες από μία συνδέσεις για έναν ιστότοπο, μπορείτε απλώς να επιλέξετε τον λογαριασμό που θέλετε και εμείς θα αναλάβουμε τα υπόλοιπα.
 password-manager-import-passwords = Εισαγωγή κωδικών πρόσβασης
 password-manager-password-security-alerts = Ειδοποιήσεις ασφαλείας κωδικών πρόσβασης

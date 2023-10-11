@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/sync/
 
 # page title
-features-sync-firefox-browser-sync = Συγχρονισμός { -brand-name-firefox }
+features-sync-firefox-browser-sync = Συγχρονισμός με το { -brand-name-firefox }
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Το { -brand-name-firefox } σάς παρέχει πρόσβαση σε ανοικτές καρτέλες, σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από οποιαδήποτε συσκευή.
 features-sync-send-tabs-from-one-device-to-another = Αποστολή καρτελών από τη μια συσκευή στην άλλη
