@@ -14,6 +14,7 @@ firefox-products-its-a-whole-family-of-products = Es tote un familia de producto
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } es <strong>plus</strong> que un navigator
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Verifica si tu informationes personal ha essite compromittite in un violation del datos de un interprisa, e inscribe te pro reciper alertas de futur violationes.
 firefox-products-check-for-breaches = Verificar si il ha violationes

@@ -46,6 +46,7 @@ firefox-privacy-hub-learn-about-our-products = Saper plus re nostre productos
 firefox-privacy-hub-firefox-privacy-by-the = Confidentialitate de { -brand-name-firefox }, per le producto
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protege tu confidentialitate in cata producto.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protege tu confidentialitate in cata producto.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protege</strong> tu confidentialitate in cata producto
 firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protege</strong> tu confidentialitate in cata producto.

@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+banner-vpn-cyber-get-annual-sub = Obtener subscription annual
+banner-vpn-cyber-offer-ends = Le offerta expira le 31 octobre 2023

@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Protege tu vita on
 firefox-home-firefox-is-more-than = { -brand-name-firefox } es plus que un navigator. Saper plus re le productos { -brand-name-firefox } que tracta tu datos con respecto e es producite pro le confidentialitate ubique tu va in rete.
 # Obsolete string
 firefox-home-the-browser-is-just = Le navigator es solo le initio
+firefox-home-firefox-is-just = { -brand-name-firefox } es solo le initio.
 # Obsolete string
 firefox-home-meet-our-family-of = Incontra nostre familia de productos
 firefox-home-get-trackers-off = Libera te de plus de 2000 traciatores, incluse { -brand-name-facebook }
