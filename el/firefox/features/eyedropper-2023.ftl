@@ -8,4 +8,4 @@
 features-eyedropper-eyedropper-tool = Εργαλείο σταγονόμετρου
 features-eyedropper-select-colors-in-firefox = Επιλέξτε χρώματα στο { -brand-name-firefox } με το εργαλείο σταγονόμετρου
 # HTML page description
-features-eyedropper-identify-the-exact-color-on-a = Προσδιορίστε το ακριβές χρώμα σε μια σελίδα και αντιγράψτε τον δεξαεξαδικό κωδικό του.
+features-eyedropper-identify-the-exact-color-on-a = Προσδιορίστε το ακριβές χρώμα σε μια σελίδα και αντιγράψτε εύκολα τον δεκαεξαδικό κωδικό του.

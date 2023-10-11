@@ -42,7 +42,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } για { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } για { -brand-name-android }
-footer-visit-mozilla-corporations = Επισκεφθείτε το μη κερδοσκοπικό, γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-visit-mozilla-corporations = Επισκεφτείτε τον μη κερδοσκοπικό, γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Τμήματα αυτού του περιεχομένου ανήκουν σε εθελοντές του mozilla.org ©1998–{ $current_year }. Το περιεχόμενο διατίθεται υπό την <a rel="license" href="{ $url }">άδεια { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Εταιρεία
