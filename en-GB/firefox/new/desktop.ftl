@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } was creat
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = As the internet grows and changes, { -brand-name-firefox } continues to focus on your right to privacy  — we call it the <a { $attrs }>Personal Data Promise</a>: Take less. Keep it safe. No secrets. Your data, your web activity, your life online is protected with { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is available on all your devices; take your tabs, history and bookmarks with you. All you need is a <a { $attrs }>{ -brand-name-firefox } account</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is available on all your devices; take your tabs, history and bookmarks with you. All you need is a <a { $attrs }>{ -brand-name-mozilla-account }</a> and you’ll get access to synchronisation and more { -brand-name-mozilla } products.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Grab a high-resolution image of anything online with our <a { $attrs }>screenshot</a> tool built right in the browser
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Questions? <a { $attrs }>{ -brand-name-mozilla } support</a> has you covered.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = You’ve already got the browser. Now get even more from { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Watch for hackers with { -brand-name-mozilla-monitor }, protect your email address with { -brand-name-firefox-relay }, and more.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Watch for hackers with { -brand-name-firefox-monitor }, protect your email address with { -brand-name-firefox-relay }, and more.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Watch for hackers with { -brand-name-firefox-monitor }, protect passwords with { -brand-name-firefox-lockwise }, and more.
