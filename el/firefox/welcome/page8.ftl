@@ -13,7 +13,7 @@ welcome-page8-firefox-automatically-protects = Το { -brand-name-firefox } πρ
 welcome-page8-view-your-protection-report = Προβολή προστασίας αναφοράς
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή
-welcome-page8-automatically-block-sites = Αυτόματος αποκλεισμός παρακολούθησης από ιστοσελίδες.
+welcome-page8-automatically-block-sites = Εμποδίστε αυτόματα τους ιστοτόπους από το να σας ακολουθούν σε όλο το διαδίκτυο.
 welcome-page8-see-whats-blocked = Δείτε τι αποκλείεται
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string

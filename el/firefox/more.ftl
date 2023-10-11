@@ -65,7 +65,7 @@ firefox-calls-it = Το { -brand-name-firefox } το ονομάζει ιδιωτ
 take-the-stress = Βρείτε ένα ασφαλές πρόγραμμα περιήγησης χωρίς άγχος.
 # Obsolete string
 building-a-safe = Η ανάπτυξη ενός ασφαλούς προγράμματος περιήγησης είναι τέχνη και επιστήμη, επειδή δεν υπάρχουν κανόνες.
-firefox-more-fingerprinter-blocking = Αποκλεισμός fingerprinter
+firefox-more-fingerprinter-blocking = Φραγή fingerprinter
 firefox-more-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος online καταγραφής και είναι πιο επεμβατικό από την καταγραφή βάσει cookie — γι' αυτό, αποκλείεται από το { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = Μετάφραση του web
 firefox-more-translate-more-than = Μετάφραση περισσότερων από 100 γλωσσών στη δική σας, απευθείας στο { -brand-name-firefox-browser } - πιο εύκολα από ποτέ.
