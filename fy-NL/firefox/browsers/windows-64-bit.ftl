@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = As jo ‘(32-bits)’ sjogge en { -bran
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = As jo 32-bits { -brand-name-firefox } útfiere moatte of 64-bits { -brand-name-firefox } hânmjittich ynstallearje moatte, dan kinne jo ienfâldich it { -brand-name-windows } (32-bits of 64-bits) { -brand-name-firefox }-ynstallaasjeprogramma downloade en opnij útfiere fanút de <a href="{ $all }">{ -brand-name-firefox }-downloadside foar platfoarms en talen.</a>
 windows-64-bit-take-control-of-your = Nim de kontrôle oer jo browser.
+windows-64-bit-download-firefox = Download { -brand-name-firefox } foar Windows 64-bits
