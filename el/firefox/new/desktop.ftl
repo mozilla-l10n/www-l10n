@@ -23,7 +23,7 @@ firefox-desktop-download-download-options = Επιλογές λήψεων και
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
-firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με άλλους φυλλομετρητές
+firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με αντίστοιχα προγράμματα
 firefox-desktop-download-get-all-the-speed = Αποκτήστε την ταχύτητα και τα εργαλεία χωρίς παραβίαση του απορρήτου. Το { -brand-name-firefox-browser } συλλέγει ελάχιστα δεδομένα· δεν χρειαζόμαστε καν το email σας για λήψη. Σε αντίθεση με άλλα προγράμματα περιήγησης, δεν έχουμε κανένα οικονομικό συμφέρον από την παρακολούθηση των κινήσεών σας στον ιστό.
 firefox-desktop-download-how-we-compare = Τρόπος σύγκρισης με άλλους φυλλομετρητές
 firefox-desktop-download-compare-firefox-to = Σύγκριση του { -brand-name-firefox } με:
