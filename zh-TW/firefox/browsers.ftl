@@ -17,7 +17,7 @@ firefox-browsers-get-the-privacy-you-deserve = 加強型追蹤保護在每一套
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 下載一直以來，都將您的隱私擺在第一位的<strong>瀏覽器</strong>。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = 取得把您的隱私權放在第一位的瀏覽器<strong>總是</strong>
+firefox-browsers-get-the-browsers-strong-v2 = 下載<strong>一直以來</strong>，都將您的隱私擺在第一位的瀏覽器
 firefox-browsers-desktop = 桌面版
 firefox-browsers-seriously-private-browsing = { -brand-name-firefox } 會自動封鎖超過 2000 組線上追蹤器，不讓它們收集您的線上行為紀錄。隱私上網功能認真保護您。
 firefox-browsers-download-for-desktop = 下載桌面版

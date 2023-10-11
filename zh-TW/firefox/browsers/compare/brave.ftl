@@ -45,7 +45,7 @@ compare-brave-the-ability-to-sync-your-passwords = 在不同裝置與與作業�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } 瀏覽器也讓使用者能夠註冊一組免費的 <a { $accounts }>{ -brand-name-mozilla-account }</a>。註冊 { -brand-name-mozilla-account }是開啟裝置間同步功能的關鍵另外您還可以使用 <a { $monitor }>{ -brand-name-mozilla-monitor }</a 之類產品的額外好處> 它會監控您的電子郵件信箱並在您的任何資訊參與於已知的<a { $breaches }>資料外洩事件</a>時通知您。
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } 瀏覽器也讓使用者能夠免費註冊 <a { $accounts }>{ -brand-name-mozilla-account }</a>。註冊 { -brand-name-mozilla-account }後，就能夠在不同裝置間同步資料，還有能夠主動為您監控電子郵件地址，當您的資料出現在<a { $breaches }>資料外洩事件</a>時通知您的 <a { $monitor }>{ -brand-name-mozilla-monitor }</a> 等服務。
 # Obsolete string
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics

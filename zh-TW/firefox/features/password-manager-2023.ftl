@@ -12,7 +12,7 @@ password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } �
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } 會安全地儲存您用來開啟網站的帳號與密碼，當您下次造訪網站時，即可自動填寫這些資訊。您也可以透過內建的密碼管理功能來管理登入資訊。
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account-v2 = 透過<a { $fxa }>免費的 { -brand-name-mozilla-account }</a>可以安全地在所有裝置間同步密碼。您也可以使用 { -brand-name-mozilla } 中所有尊重隱私權的產品。
+password-manager-with-a-free-mozilla-account-v2 = 註冊<a { $fxa }>免費的 { -brand-name-mozilla-account }</a>，就可以安全地在所有裝置間同步密碼。您也可以使用 { -brand-name-mozilla } 其他會尊重隱私權的產品。
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/

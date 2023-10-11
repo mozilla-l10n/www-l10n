@@ -31,4 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = 若您使用的是 { -brand-name-firefo
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = 若您需要使用 32 位元版本 { -brand-name-firefox } 或手動安裝 64 位元版本 { -brand-name-firefox }，可以直接到 <a href="{ $all }">{ -brand-name-firefox } 所有平台與語言版本下載頁面</a>下載 32 或 64 位元 { -brand-name-windows } 版 { -brand-name-firefox } 安裝程式進行安裝。
 windows-64-bit-take-control-of-your = 自行控制您的瀏覽器。
-windows-64-bit-download-firefox = 下載 { -brand-name-firefox } for Windows 64 位元版
+windows-64-bit-download-firefox = 下載 { -brand-name-firefox } Windows 64 位元版本
