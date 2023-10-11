@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -13,10 +13,10 @@ firefox-enterprise-downloads = Λήψεις
 firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για επιχειρήσεις
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε το <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για πλήρη προστασία και ασφάλεια δεδομένων.
-firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων — με το ρυθμό εκδόσεων που σας ταιριάζει
+firefox-enterprise-get-the-firefox-extended-support = Αποκτήστε το <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ή την έκδοση ταχείας κυκλοφορίας</a> για ολοκληρωμένη ασφάλεια και προστασία δεδομένων.
+firefox-enterprise-unmatched-data-protection = Ασύγκριτη προστασία δεδομένων, με τον ρυθμό εκδόσεων που σας ταιριάζει
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = Το πρόγραμμα περιήγησης { -brand-name-firefox } είναι ανοιχτού κώδικα και παρέχει Ενισχυμένη προστασία από καταγραφή — όλα αυτά είναι μέρος της μακροχρόνιας δέσμευσής μας για προστασία δεδομένων.
+firefox-enterprise-the-firefox-browser-is-open = Το { -brand-name-firefox } είναι ένα λογισμικό ανοικτού κώδικα και διαθέτει ενισχυμένη προστασία από καταγραφή, βάσει της μακροχρόνιας δέσμευσής μας για την προστασία των δεδομένων.
 firefox-enterprise-your-data-stays-your-business = Τα δεδομένα σας είναι υπόθεσή σας
 firefox-enterprise-deploy-when-and-how-you-want = Προετοιμασία όπου και όπως θέλετε
 firefox-enterprise-with-install-packages-and = Με πακέτα εγκατάστασης και μια μεγάλη ποικιλία πολιτικών ομάδων και λειτουργιών, η προετοιμασία είναι ταχύτερη και πιο ευέλικτη από ποτέ — σε περιβάλλοντα { -brand-name-windows } και { -brand-name-mac }.
