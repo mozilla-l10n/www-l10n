@@ -49,7 +49,7 @@ firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } prot
 firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protege tu privacidad en cada producto.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protege</strong> tu privacidad en cada producto.
-firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong> protege </strong> tu privacidad en cada producto.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protege</strong> tu privacidad en cada producto.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Más de 2000 rastreadores bloqueados automáticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -74,7 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Más de { $trackers } rastrea
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email-v2 = Cuando ingresas tu dirección de correo electrónico en { -brand-name-mozilla-monitor }, la olvidamos inmediatamente después de haber verificado una coincidencia en las violaciones de datos conocidas, a menos que nos autorices a continuar monitoreando nuevas violaciones para tu información personal.
+firefox-privacy-hub-when-you-enter-your-email-v2 = Cuando ingresás tu dirección de correo electrónico en { -brand-name-mozilla-monitor }, la olvidamos inmediatamente después de haber verificado una coincidencia en las filtraciones de datos conocidas, a menos que nos autoricés a continuar monitoreando nuevas filtraciones para tu información personal.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Cuando ingresás tu dirección de correo electrónico en { -brand-name-firefox-monitor }, la olvidamos inmediatamente después de haber verificado una coincidencia en las filtraciones de datos conocidas, a menos que nos autorices a continuar monitoreando nuevas filtraciones de tu información personal.
 firefox-privacy-hub-check-for-breaches = Verificá si hay filtraciones
