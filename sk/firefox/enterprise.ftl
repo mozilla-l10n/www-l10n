@@ -42,7 +42,7 @@ firefox-enterprise-documentation-and-community = Dokumentácia a komunitná podp
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Zoznam pre <a href="{ $url }">nastavenie profilu</a>
 firefox-enterprise-pkg-installer = PKG inštalátor
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+firefox-enterprise-windows-32-bit = { -brand-name-windows }, 32-bitová verzia
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo jeho klasickú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>
