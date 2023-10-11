@@ -25,8 +25,8 @@ firefox-home-learn-more-about-lockwise = Ďalšie informácie o { -brand-name-lo
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Získajte <strong>rešpekt</strong>, ktorý si zaslúžite
 # Obsolete string
-firefox-home-every-single-firefox = Každý jeden produkt { -brand-name-firefox(case: "gen") } rešpektuje náš prísľub týkajúci sa osobných údajov: <strong>Berte menej. Udržujte to v bezpečí. Žiadne tajomstvá.</strong>
-firefox-home-every-single-mozilla = Každý jeden produkt { -brand-name-mozilla(case: "gen") } rešpektuje náš prísľub týkajúci sa osobných údajov: <strong>Berte menej. Udržujte to v bezpečí. Žiadne tajomstvá.</strong>
+firefox-home-every-single-firefox = Každý jeden produkt { -brand-name-firefox(case: "gen") } rešpektuje náš prísľub týkajúci sa osobných údajov: <strong>Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá.</strong>
+firefox-home-every-single-mozilla = Každý jeden produkt { -brand-name-mozilla(case: "gen") } rešpektuje náš prísľub týkajúci sa osobných údajov: <strong>Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Zdieľajte súbory bez toho, aby vás niekto sledoval
 # Obsolete string

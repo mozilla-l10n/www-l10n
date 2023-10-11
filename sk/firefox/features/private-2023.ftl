@@ -18,7 +18,7 @@ features-private-sidenote-we-are-not-big-tech = <em>Poznámka:</em> Nie sme veľ
 features-private-what-information-does-firefox = Aké informácie { -brand-name-firefox } zhromažďuje?
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
-features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tvorca prehliadača { -brand-name-firefox }) berie súkromie veľmi vážne. <strong>Veľmi vážne</strong>. V skutočnosti každý produkt { -brand-name-firefox(case: "gen") }, ktorý robíme, ctí náš <a href="{ $url }">prísľub týkajúci sa ochrany osobných údajov</a>: Berte menej. Udržujte to v bezpečí. Žiadne tajomstvá.
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tvorca prehliadača { -brand-name-firefox }) berie súkromie veľmi vážne. <strong>Veľmi vážne</strong>. V skutočnosti každý produkt { -brand-name-firefox(case: "gen") }, ktorý robíme, ctí náš <a href="{ $url }">prísľub týkajúci sa ochrany osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
 features-private-read-firefoxs-privacy-notice = Ďalšie informácie nájdete vo <a href="{ $url }">Vyhlásení o ochrane osobných údajov v prehliadači { -brand-name-firefox }</a>. Vážne, pozrite si ho. Je to v normálnej veľkosti písma a tak.

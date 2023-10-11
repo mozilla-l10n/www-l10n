@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po 
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvorený <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> ako rýchlejšia a súkromnejšia alternatíva k prehliadačom ako { -brand-name-ie } a teraz { -brand-name-chrome }. Dnes naša spoločnosť riadená poslaním v spojení s komunitou dobrovoľníkov naďalej uprednostňujú vaše súkromie.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Berte menej. Udržujte v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
+firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
 # Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
