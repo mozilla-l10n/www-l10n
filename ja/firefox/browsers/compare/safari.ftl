@@ -75,6 +75,9 @@ compare-safari-screenshots-is-another-popular = <a { $attrs }>スクリーンシ
 compare-safari-firefox-and-safari-both-provide = { -brand-name-firefox } と { -brand-name-safari } は、いずれもデスクトップ⇄モバイルを行き来するブラウジングがシームレスです。{ -brand-name-safari } では, その強みの一つは連続性です。ブックマークやタブ、履歴などを iCloud に同期し、すべてのデバイスで利用できます。つまり、{ -brand-name-iphone } でタブを開き、クリック 1 つで { -brand-name-mac } のノートパソコンにも表示させることができます。
 compare-safari-both-browsers-have-a-lot = どちらのブラウザーも、重なる機能と独自機能があります。スクリーンショットをたくさん撮る方なら、{ -brand-name-firefox } に直接組み込まれているこの便利な機能は手放せなくなるでしょう。ただネットサーフィンやショッピングのための高速かつプライベートなブラウザーを求めているだけでも { -brand-name-firefox } を試してみてください。特に、コンピューターの既定のブラウザーでついてきているという理由で { -brand-name-safari } だけを利用している方にお勧めします。どちらがニーズに合っているかお分かりいただけるでしょう。
 
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-safari-firefox-also-offers-a-similar-updated-v3 = { -brand-name-firefox } も同様の同期機能を提供しています。無料の <a { $attrs }>{ -brand-name-mozilla-account }</a> アカウントに登録すると、ブックマークや閲覧履歴、設定、パスワード、入力済みのフォーム、アドオン、複数のコンピューターで開いていた 25 個までのタブを簡単に同期できます。{ -brand-name-firefox } が Safari と違うのは、あらゆるデスクトップまたはモバイルのプラットフォーム、iOS、Android、Windows、macOS で利用可能であることです。所有しているすべてのデバイスのポータブル性が飛躍的に高まります。
 
 # Obsolete string
 # Variables:
