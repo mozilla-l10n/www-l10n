@@ -74,7 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = 每天都為全球的 { -bran
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-privacy-hub-when-you-enter-your-email-v2 = 當您把 E-Mail 信箱輸入到 { -brand-name-mozilla-monitor }我們會檢查是否有相關的資料外洩事件然後自動忘記您輸入的內容。除非您授權我們持續為您監控資料外洩事件不然不會保留。
+firefox-privacy-hub-when-you-enter-your-email-v2 = 當您把 E-Mail 信箱輸入到 { -brand-name-mozilla-monitor }，我們會檢查是否有相關的資料外洩事件，然後自動忘記您輸入的內容。除非您授權我們持續為您監控資料外洩事件，不然不會保留。
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = 當您把 E-Mail 信箱輸入到 { -brand-name-firefox-monitor }，我們會檢查是否有相關的資料外洩事件，然後自動忘記您輸入的內容。除非您授權我們持續為您監控資料外洩事件，不然不會保留。
 firefox-privacy-hub-check-for-breaches = 檢查是否有外洩事件

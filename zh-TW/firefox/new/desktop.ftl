@@ -139,7 +139,7 @@ firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -b
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = 已在您的所有裝置安裝 { -brand-name-firefox }分頁、上網紀錄、書籤隨身帶著走。只需要註冊 <a { $attrs }>{ -brand-name-mozilla-account }</a>就可以使用同步功能與更多 { -brand-name-mozilla } 產品。
+firefox-desktop-download-firefox-is-available-v2 = 您所有的裝置平台都可以使用 { -brand-name-firefox }，只要註冊 <a { $attrs }>{ -brand-name-mozilla-account }</a>就可以把開啟的分頁、上網紀錄與書籤隨身帶著走，還可以使用更多 { -brand-name-mozilla } 產品。
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = 使用瀏覽器內建的<a { $attrs }>畫面擷圖工具</a>幫線上任何東西拍攝高解析度擷圖

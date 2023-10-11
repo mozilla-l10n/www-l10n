@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-mozilla = { -brand-name-mozilla-monitor } 不只是瀏覽器更為您搶先防堵駭客
+welcome-page1-more-than-a-browser-mozilla = 不只是瀏覽器：{ -brand-name-mozilla-monitor } 更為您搶先防堵駭客
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = { -brand-name-firefox-monitor } 不只是瀏覽器，更為您搶先防堵駭客
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = 使用 { -brand-name-firefox } 系列產品，搶先一步保護您的線上隱私。
-welcome-page1-stay-ahead-of-hackers-check-v2 = 比駭客搶先一步。使用 { -brand-name-mozilla-monitor } 檢查是否有資料外洩事件。
+welcome-page1-stay-ahead-of-hackers-check-v2 = 比駭客搶先一步。到 { -brand-name-mozilla-monitor } 檢查是否有資料外洩事件。
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = 比駭客搶先一步。到 { -brand-name-firefox-monitor } 檢查是否有資料外洩事件。
 welcome-page1-youre-on-track-to-stay-protected = 保持下去，就能繼續受到保護
@@ -20,7 +20,7 @@ welcome-page1-check-your-breach-report = 確認您的資料外洩報告
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } 會顯示您的資訊是否在已知的資料外洩事件中流出並且在未來發生時主動提醒您。
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } 會顯示您的資訊是否在已知的資料外洩事件中流出，並且在未來發生時主動提醒您。
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } 會顯示您的資訊是否在已知的資料外洩事件中流出，並且在未來發生時主動提醒您。
 welcome-page1-stay-ahead-of-hackers = 比駭客搶先一步

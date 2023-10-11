@@ -44,7 +44,7 @@ privacy-passwords-the-secret-to = 要防止被猜到密碼、帳號被盜或被�
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = 當攻擊者偷走您使用的網站例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a> 的密碼資料庫時，您只能更改該網站的密碼。這樣很不好，但若您在其他網站也使用被偷走的密碼登入時，損害會更嚴重：攻擊者就可以透過這些外洩的密碼盜用您在其他網站上的帳號。為了做好損害管控，請務必<strong>針對不同的網站使用不同的密碼。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-mozilla-monitor = 使用 <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。若您的電子郵件地址出現在已知的企業資料外洩事件中我們會通知您並提供相關措施來保護帳號。
+privacy-passwords-use-mozilla-monitor = 使用 <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。我們會在您的信箱出現在已知的企業資料外洩事件中時通知您，並提供能保護帳號的相關措施。
 # Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 監控與您的帳號相關聯的電子郵件地址。我們會在您的信箱出現在已知的企業資料外洩事件中時通知您，並提供能保護帳號的相關措施。
@@ -57,14 +57,14 @@ privacy-passwords-now-all-of = 現在這些都聽起來很複雜，人類不擅�
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 當您使用 { -brand-name-firefox } 帳號登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
 #   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
-privacy-passwords-when-youre-logged-v2 = 使用 { -brand-name-mozilla-account } 登入 { -brand-name-firefox } 後就可以在所有裝置間同步密碼並從 { -brand-name-firefox } 行動瀏覽器同步密碼的更多資訊。了解<a { $url_sumo_manager }>如何善用內建密碼管理員</a>的更多資訊。
+privacy-passwords-when-youre-logged-v2 = 當您使用 { -brand-name-mozilla-account }登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
 privacy-passwords-2fa-is-a = 兩階段身分驗證是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 舉例來說，您的 { -brand-name-firefox } 帳號可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
-privacy-passwords-your-mozilla-account = 舉例來說您的 { -brand-name-mozilla-account } 可透過 2FA 再加上一道保護<a { $url_sumo_2fa }>可在此了解更多資訊</a>。
+privacy-passwords-your-mozilla-account = 舉例來說，您的 { -brand-name-mozilla-account }可透過 2FA 再加上一道保護（<a { $url_sumo_2fa }>可在此了解更多資訊</a>。）
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 的安全性，比單純輸入密碼好上許多，但並不是每個網站都支援。您可以在 <a { $url_2fa }>https://2fa.directory</a> 找到支援 2FA 的網站請單，也有不支援 2FA 的網站的清單，讓您可以要求這些網站加入支援。
 privacy-passwords-strong-diverse-and = 更強、更有差異、多因素驗證
