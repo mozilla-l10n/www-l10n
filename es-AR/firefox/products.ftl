@@ -9,7 +9,7 @@
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que un navegador
 # HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } es solo el comienzo
+firefox-products-firefox-beginning = { -brand-name-firefox } es solo el principio
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox es una familia completa de productos diseñados para mantenerte más seguro e inteligente en línea.
@@ -20,7 +20,7 @@ firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } es solo el <strong> comienzo </strong>
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } es solo el <strong>principio</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Fijate si tu información personal fue comprometida en una filtración de datos corporativa y registrate para recibir futuras alertas.
 firefox-products-check-for-breaches = Verificá si hay filtraciones
