@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+banner-vpn-cyber-get-annual-sub = Eñemboheraguapy aryguávape

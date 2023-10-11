@@ -5,17 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Ha’e umi apopyre aty ojejapóva hekorosã ha ha’eve hag̃ua ñandutípe.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ha’e <strong>hetave</strong> peteĩ kundaháragui
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Eha’ã ne maranduetépa oñembyaikuaápara’e mba’ekuaarã ñemboguápe ha eñemboheraguapy og̃uahẽ hag̃ua kyhyjerã.
 firefox-products-check-for-breaches = Eporandu ñembogua rehegua
 firefox-products-sign-up-for-breach-alerts = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } kundahára
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Ereko kundahára ojokóva ijehegui 2000 mba’ekuaarã rapykuehoha. Pe ñemo’ã rapykuehoha iporãvéva ha’e ijypykuéva opaite { -brand-name-firefox } kundahárape.
 firefox-products-desktop = Mesa arigua
 firefox-products-android = { -brand-name-android }

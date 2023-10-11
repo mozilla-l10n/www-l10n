@@ -44,7 +44,9 @@ firefox-privacy-hub-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháich
 firefox-privacy-hub-firefox-products-work-differently = Umi apopyre { -brand-name-firefox } omba’apo ambueháicha ojejapo rupi omo’ã hag̃ua ne ñemigua ñepyrũrã.
 firefox-privacy-hub-learn-about-our-products = Eñemomaranduve ore apopyrére
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } ñemigua, apopyre oĩháicha
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } omo’ã ne ñemigua apopyre peteĩteĩvape.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>omo’ã</strong> ne ñemigua opaite apopyrépe
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Hetave 2,000 tapykuehohágui ojejokóma ijehegui
@@ -67,7 +69,10 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Erekóramo { -brand-name-fir
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykuehoha jokopyre ko’ẽreíre { -brand-name-firefox } poruhárape g̃uarã
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Ehaívo ne ñanduti veve kundaharape { -brand-name-firefox-monitor }-pe, ore resaráima sapy’aitépe rohechajeývo oĩpa mba’ekuaarã ñembyai ojekuaáva, neremoneĩri mba’éramo rohechajeývo ñembyai ipyahúva ne maranduete rehegua.
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

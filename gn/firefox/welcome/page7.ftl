@@ -17,6 +17,9 @@ page7-make-them-unfollow-you = Anive hag̃ua ejehapykueho
 page7-that-sneaky-little-button = Pe votõ kañygua michĩva
 page7-those-innocent-looking-f-buttons = Umi votõ F iñañakuaa’ỹvaicha { -brand-name-facebook } mba’éva ohapykueho ne rembiapo ñandutípe, jepémo ndererekói mba’ete. { -brand-name-facebook-container } ojokóta.
 page7-stay-ahead-of-hackers = Eiko mba’evaiapoha renonderã
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } ohechauka ojapóva mba’evaiapoha ha oikuaáva ndehegui ha ne pytyvõta eime hag̃ua tenondeve chuguikuéra. (Ha reiete.)
+page7-get-mozilla-monitor = Erekóke { -brand-name-mozilla-monitor }
+# Obsolete string
 page7-get-firefox-monitor = Ereko { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
