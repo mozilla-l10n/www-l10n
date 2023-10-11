@@ -45,7 +45,7 @@ compare-brave-the-ability-to-sync-your-passwords = დასინქრონ�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox }-ბრაუზერი მომხმარებლებს საშუალებას აძლევს, შექმნან უფასო <a { $accounts }>{ -brand-name-mozilla-account }</a>. { -brand-name-mozilla-account } მთავარი გასაღებია, მოწყობილობებს შორის სინქრონიზაციისთვის, ამასთან, დამატებით უპირატესობას მიიღებთ ისეთი პროდუქტებით, როგორიცაა <a { $monitor }>{ -brand-name-mozilla-monitor }</a > რომელიც თვალს ადევნებს თქვენი ელფოსტის მისამართებს და გაცნობებთ, თქვენს რომელიმე მონაცემს თუ ჰქვია მონაწილეობა, <a { $breaches }>მონაცემთა გატაცებაში</a>.
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox }-ბრაუზერი ასევე საშუალებას აძლევს მომხმარებლებს შექმნან უფასო <a { $accounts }>{ -brand-name-mozilla-account }</a>. { -brand-name-mozilla-account } წარმოადგენს გასაღებს დასინქრონებული მონაცემების სანახავად სხვადასხვა მოწყობილობაზე და დამატებით გაძლევთ წვდომას ისეთ შესაძლებლობებთან, როგორიცაა თუნდაც <a { $monitor }>{ -brand-name-mozilla-monitor }</a> თქვენი ელფოსტის მისამართების შესამოწმებლად, გამჟღავნებულია ხომ არაა <a { $breaches }>მონაცემთა ცნობილი მიტაცებებისას</a>.
 # Obsolete string
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
