@@ -9,7 +9,7 @@ newsletter-form-we-are-sorry-but-there = სამწუხაროდ, რა�
 newsletter-form-please-select-country = გთხოვთ, აირჩიოთ ქვეყანა ან მხარე
 newsletter-form-please-select-language = გთხოვთ, აირჩიოთ ენა
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = sakheli@example.com
+newsletter-form-yournameexamplecom = sakheli@misamarti.com
 newsletter-form-select-country-or-region = მიუთითეთ ქვეყანა ან მხარე
 newsletter-form-select-language = ენის არჩევა
 newsletter-form-your-email-here = თქვენი ელფოსტა

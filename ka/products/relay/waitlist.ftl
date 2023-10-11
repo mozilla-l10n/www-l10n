@@ -17,12 +17,12 @@ waitlist-lead-bundle = ჩვენ გაცნობებთ, როცა �
 waitlist-control-required = აუცილებელია
 waitlist-control-email-label = რა არის თქვენი ელფოსტა?
 # Please only translate `yourname`; example.com is an actual example domain that is safe to use.
-waitlist-control-email-placeholder = sakheli@example.com
+waitlist-control-email-placeholder = sakheli@misamarti.com
 waitlist-control-country-label-2 = რომელ ქვეყანაში ან რაიონში ცხოვრობთ?
 waitlist-control-locale-label = აირჩიეთ სასურველი ენა.
 waitlist-submit-label-2 = შემოუერთდით მსურველებს
 # Variables:
-#   $url (url) - https://www.mozilla.org/en-US/privacy/subscription-services/
+#   $url (url) - https://www.mozilla.org/privacy/subscription-services/
 waitlist-privacy-policy-agree-2 = „{ waitlist-submit-label-2 }“ დაწკაპებით, ეთანხმებით ჩვენი <a href="{ $url }">პირადულობის დებულებას</a>.
 waitlist-privacy-policy-use = თქვენი მონაცემები მხოლოდ { -brand-name-firefox-relay-premium }-ის ხელმისაწვდომობის შესატყობინებლად იქნება გამოყენებული.
 waitlist-privacy-policy-use-phone = თქვენი მონაცემები მხოლოდ შესატყობინებლად იქნება გამოყენებული, როცა თქვენს მხარეში სატელეფონო შენიღბვა გახდება ხელმისაწვდომი.

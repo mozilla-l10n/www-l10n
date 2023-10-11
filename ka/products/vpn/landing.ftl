@@ -142,7 +142,7 @@ vpn-landing-invite-page-heading = შეუერთდით VPN-ის მს�
 vpn-landing-invite-email-label = რა არის თქვენი ელფოსტა?
 vpn-landing-invite-required-label = აუცილებელია
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = sakheli@example.com
+vpn-landing-invite-email-placeholder = sakheli@misamarti.com
 vpn-landing-invite-country-label = რომელ ქვეყანაში ცხოვრობთ?
 vpn-landing-invite-language-label = აირჩიეთ სასურველი ენა.
 # Variables:
