@@ -106,7 +106,7 @@ firefox-desktop-download-backed-by-the = Με την υποστήριξη του
 firefox-desktop-download-challenging-the-status = Αμφισβητούμε το status quo από το 1998
 firefox-desktop-download-your-privacy-comes = Το απόρρητό σας έχει προτεραιότητα
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = Κρατήστε τις αγαπημένες λειτουργίες σας — και <strong>ανακαλύψτε</strong> καινούριες.
+firefox-desktop-download-keep-all-your = Κρατήστε όλες τις αγαπημένες λειτουργίες σας και <strong>ανακαλύψτε</strong> νέες.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Όλα τα αγαπημένα σας εργαλεία { -brand-name-google } (όπως Gmail και Έγγραφα) λειτουργούν απρόσκοπτα στο { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
