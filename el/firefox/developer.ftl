@@ -11,7 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία ανάπτυξης και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και έλεγχος σφαλμάτων πλαισίου
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Καλώς ορίσατε στο νέο, αγαπημένο σας πρόγραμμα περιήγησης. Λάβετε τις πιο πρόσφατες λειτουργίες, υψηλές επιδόσεις και τα εργαλεία προγραμματιστή που χρειάζεστε για να αναπτύξετε το ανοικτό διαδίκτυο.
+firefox-developer-welcome-to-your-new-favorite = Καλώς ορίσατε στο νέο, αγαπημένο σας πρόγραμμα περιήγησης. Λάβετε τις νεότερες λειτουργίες, υψηλές επιδόσεις και τα εργαλεία ανάπτυξης που χρειάζεστε για δημιουργία στο ανοικτό διαδίκτυο.
 firefox-developer-speak-up = Εκφραστείτε
 firefox-developer-feedback-makes-us = Η κριτική μας κάνει καλύτερους. Πείτε μας πως μπορούμε να βελτιώσουμε τον περιηγητή και τα εργαλεία για προγραμματιστές.
 firefox-developer-join-the-convo = Συμμετοχή στη συζήτηση
@@ -74,7 +74,7 @@ firefox-developer-firefox-devtools-has-a-brand-new = Το { -brand-name-firefox-
 firefox-developer-faster-innovation = Ταχύτερες πληροφορίες
 firefox-developer-fonts-panel = Πίνακας γραμματοσειρών
 firefox-developer-the-new-fonts-panel = Ο νέος πίνακας γραμματοσειρών στο { -brand-name-firefox-devtools } παρέχει στους προγραμματιστές ταχεία πρόσβαση σε όλες τις πληροφορίες που χρειάζονται σχετικά με τις γραμματοσειρές που χρησιμοποιούνται σε ένα στοιχείο. Περιλαμβάνει επίσης πολύτιμες πληροφορίες, όπως την πηγή γραμματοσειράς, το πάχος, το στυλ και άλλα.
-firefox-developer-firefox-developer-edition-sends = Το { -brand-name-firefox-developer-edition } στέλνει αυτόματα σχόλια στη { -brand-name-mozilla }.
+firefox-developer-firefox-developer-edition-sends = Το { -brand-name-firefox-developer-edition } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox } για προγραμματιστές
 firefox-developer-welcome-to-the-all-new = Καλώς ορίσατε στο ολοκαίνουριο { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Το { -brand-name-firefox } έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
