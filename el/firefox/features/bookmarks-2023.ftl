@@ -8,7 +8,7 @@
 # page title
 bookmark-manager-bookmark-manager = Διαχείριση σελιδοδεικτών
 # HTML page description
-bookmark-manager-organize-your-bookmarks-with = Οργανώστε τους σελιδοδείκτες σας με τη βοήθεια των φακέλων και των ετικετών.
+bookmark-manager-organize-your-bookmarks-with = Οργανώστε τους σελιδοδείκτες σας με τη βοήθεια των φακέλων και κάντε ταξινόμηση βάσει ετικετών.
 bookmark-manager-organize-your-boomarks-into = Οργανώστε τους σελιδοδείκτες σας σε φακέλους με δυνατότητα αναζήτησης
 bookmark-manager-collect-your-bookmarks-in-folders = Συγκεντρώστε τους σελιδοδείκτες σας σε φακέλους και προσθέστε ετικέτες με περισσότερες λεπτομέρειες. Μπορείτε επίσης να ταξινομήσετε τους σελιδοδείκτες σας για να βρείτε γρήγορα αυτούς που χρειάζεστε.
 # Used as an accessible text alternative for an image

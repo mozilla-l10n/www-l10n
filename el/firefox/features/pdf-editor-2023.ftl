@@ -7,6 +7,8 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Επεξεργασία PDF
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Κάντε προβολή και επεξεργασία αρχείων PDF απευθείας στο { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = Συμπλήρωση ηλεκτρονικών φορμών χωρίς εκτύπωση και σάρωση
 pdf-editor-no-more-now-all-you-need-to-do = Όχι πια! Πλέον, το μόνο που χρειάζεται να κάνετε είναι να επεξεργαστείτε το PDF διαδικτυακά με το { -brand-name-firefox }, να το αποθηκεύσετε και να το στείλετε μέσω email από τον υπολογιστή σας.
 pdf-editor-add-text = Προσθήκη κειμένου

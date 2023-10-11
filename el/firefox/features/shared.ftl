@@ -14,6 +14,7 @@ features-shared-free-password-manager = Διαχείριση κωδικών πρ
 features-shared-bookmark-manager = Διαχείριση σελιδοδεικτών
 features-shared-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 features-shared-pinned-browser-tabs = Καρφιτσωμένες καρτέλες
+features-shared-eyedropper-tool = Εργαλείο σταγονόμετρου
 features-shared-pdf-editor = Επεξεργασία PDF
 features-shared-fingerprinter-blocking = Αποκλεισμός fingerprinter
 features-shared-translate-the-web = Μετάφραση του web
