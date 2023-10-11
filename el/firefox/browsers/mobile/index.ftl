@@ -27,7 +27,7 @@ browsers-mobile-looking-for-a-streamlined = Θέλετε ένα γρήγορο �
 browsers-mobile-compare-mobile-browsers = Σύγκριση προγραμμάτων περιήγησης κινητών συσκευών
 browsers-mobile-see-how-firefox-stacks-up = Δείτε την κατάταξη του { -brand-name-firefox } σε σχέση με άλλα προγράμματα περιήγησης, όσον αφορά τρία σημαντικά κριτήρια: απόρρητο, λειτουργίες και συγχρονισμός.
 browsers-mobile-compare = Σύγκριση
-browsers-mobile-see-how-firefox-for-desktop-stacks = Δείτε την κατάταξη του { -brand-name-firefox } σε σχέση με άλλους επτά φυλλομετρητές.
+browsers-mobile-see-how-firefox-for-desktop-stacks = Δείτε την κατάταξη του { -brand-name-firefox } για υπολογιστές ανάμεσα σε επτά άλλα, αντίστοιχα προγράμματα.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Δείτε την κατάταξη του { -brand-name-firefox } για <strong>υπολογιστές</strong> ανάμεσα σε επτά άλλα, αντίστοιχα προγράμματα.
 browsers-mobile-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.

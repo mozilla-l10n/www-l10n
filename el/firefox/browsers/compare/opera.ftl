@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # HTML page title
-compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-name-opera }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
+compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } ή { -brand-name-opera }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # HTML page description
 compare-opera-compare-opera-to-the-firefox = Συγκρίνετε το { -brand-name-opera } με το { -brand-name-firefox-browser } για να μάθετε ποιο πρόγραμμα περιήγησης σας ταιριάζει περισσότερο.
 # Main title

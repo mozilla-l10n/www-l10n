@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # HTML page title.
-compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } ή { -brand-name-microsoft } { -brand-name-edge }: Ποιο είναι το καλύτερο πρόγραμμα περιήγησης για εσάς;
 # HTML page description.
 compare-edge-compare-microsoft-edge-to-the = Συγκρίνετε το { -brand-name-microsoft } { -brand-name-edge } με το { -brand-name-firefox-browser } για να μάθετε ποιο σας ταιριάζει καλύτερα.
 # Main title.

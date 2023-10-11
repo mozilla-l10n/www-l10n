@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-firefox-features = Λειτουργίες του { -brand-name-firefox }
+features-shared-firefox-features = Δυνατότητες του { -brand-name-firefox }
 features-shared-footer-cta-title = Κάντε περισσότερα με το { -brand-name-firefox }
 features-shared-footer-cta-button = Λήψη του { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο;
