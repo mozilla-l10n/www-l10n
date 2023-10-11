@@ -8,5 +8,6 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = Επεξεργασία PDF
 pdf-editor-fill-in-forms-online-without = Συμπλήρωση ηλεκτρονικών φορμών χωρίς εκτύπωση και σάρωση
+pdf-editor-no-more-now-all-you-need-to-do = Όχι πια! Πλέον, το μόνο που χρειάζεται να κάνετε είναι να επεξεργαστείτε το PDF διαδικτυακά με το { -brand-name-firefox }, να το αποθηκεύσετε και να το στείλετε μέσω email από τον υπολογιστή σας.
 pdf-editor-add-text = Προσθήκη κειμένου
 pdf-editor-add-drawings-or-your-signature = Προσθήκη σχεδίων (ή της υπογραφής σας)

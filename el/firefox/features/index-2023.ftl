@@ -14,6 +14,7 @@ features-index-firefox-uses-less-memory-than = Το { -brand-name-firefox } χρ
 features-index-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 features-index-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας στην ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
 features-index-free-password-manager = Διαχείριση κωδικών πρόσβασης
+features-index-customize-your-firefox-browser = Προσαρμογή του { -brand-name-firefox } σας
 features-index-firefox-browser-sync = Συγχρονισμός { -brand-name-firefox }
 features-index-bookmark-manager = Διαχείριση σελιδοδεικτών
 features-index-organize-your-bookmarks-with = Οργανώστε τους σελιδοδείκτες σας με φακέλους και ετικέτες.

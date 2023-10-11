@@ -8,3 +8,5 @@
 features-customize-customize-your-firefox = Προσαρμογή του { -brand-name-firefox } σας
 # HTML page description
 features-customize-choose-how-your-browser-looks = Επιλέξτε την εμφάνιση του προγράμματος περιήγησής σας με χιλιάδες δωρεάν θέματα.
+# Used as accessible alternative text for an image
+features-customize-image-of-the-default-themes = Εικόνα των προεπιλεγμένων θεμάτων του { -brand-name-firefox }, η οποία δείχνει ανοιχτόχρωμες, σκουρόχρωμες και πολύχρωμες παραλλαγές.
