@@ -137,7 +137,7 @@ vpn-subnav-download-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Χρησιμοποιούμε cookies για να κατανοήσουμε ποιος συνεργάτης σάς οδήγησε στο { -brand-name-mozilla-vpn }. Δεν μοιραζόμαστε προσωπικά στοιχεία ταυτοποίησης με τους συνεργάτες μας. Διαβάστε την <a { $attrs }>Πολιτική απορρήτου</a> μας.
 vpn-shared-affiliate-notification-reject = Απόρριψη
 vpn-shared-affiliate-notification-ok = OK
@@ -151,8 +151,8 @@ vpn-add-relay-to-protect = Προσθέστε το { -brand-name-firefox-relay }
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Προσθήκη του <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
-vpn-shared-relay-email-masking = Μάσκα email
-vpn-shared-relay-phone-masking = Μάσκα τηλεφώνου
+vpn-shared-relay-email-masking = Απόκρυψη email
+vpn-shared-relay-phone-masking = Απόκρυψη τηλεφώνου
 vpn-shared-get-vpn-plus-relay = Απόκτηση των { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Γιατί να αγοράσω πακέτο;
 # Variables:

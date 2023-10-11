@@ -5,12 +5,12 @@
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
-ui-back-to-home-page = Πίσω στην αρχική Σελίδα
+ui-back-to-home-page = Πίσω στην αρχική σελίδα
 ui-return-to-top = Επιστροφή στην κορυφή
 ui-close = Κλείσιμο
 ui-previous = Προηγούμενο
 ui-next = Επόμενο
-ui-watch-the-video = Δείτε το βίντεο
+ui-watch-the-video = Προβολή βίντεο
 ui-replay = Επανάληψη
 ui-share = Κοινοποίηση
 ui-menu = Μενού
