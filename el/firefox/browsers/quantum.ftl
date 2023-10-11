@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
@@ -14,7 +14,7 @@ learn-more-about = Μάθετε περισσότερα για το { -brand-name
 privacy-first = Πρώτα το απόρρητο
 firefox-doesnt-spy = Το { -brand-name-firefox } δεν σας κατασκοπεύει στο διαδίκτυο. Εμποδίζουμε πολλά γνωστά cookies καταγραφής τρίτων και σας παρέχουμε τον πλήρη έλεγχο.
 super-fast = Απίστευτα γρήγορο
-get-speed-and = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο, επειδή δεν παρακολουθεί τις κινήσεις σας.
+get-speed-and = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο, επειδή δεν καταγράφει τις κινήσεις σας.
 always-evolving = Εξελίσσεται συνεχώς
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features

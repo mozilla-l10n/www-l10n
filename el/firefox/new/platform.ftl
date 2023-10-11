@@ -28,8 +28,8 @@ new-platform-download-the-fastest-linux = Λήψη του πιο γρήγορο�
 new-platform-faster-page-loading-linux = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-linux } έφτασε.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
-new-platform-privacy-more-than = Απόρρητο - κάτι παραπάνω από πολιτική
-new-platform-your-life-your-business = Η ζωή σας αφορά μόνο εσάς. Το { -brand-name-firefox } αποκλείει τα cookies παρακολούθησης τρίτων στο { -brand-name-linux }.
+new-platform-privacy-more-than = Απόρρητο: κάτι παραπάνω από πολιτική
+new-platform-your-life-your-business = Η ζωή σας αφορά μόνο εσάς. Το { -brand-name-firefox } αποκλείει τα τρίτα cookies καταγραφής στο { -brand-name-linux }.
 new-platform-speed-meet-security = Ταχύτητα, μαζί με ασφάλεια. Το { -brand-name-firefox } είναι δύο φορές ταχύτερο με 30% λιγότερη μνήμη από το { -brand-name-chrome }.
 new-platform-open-source = Ανοικτού κώδικα
 new-platform-look-under-the-hood = Κοιτάξτε εσωτερικά. Όπως το { -brand-name-linux }, οι λειτουργίες του { -brand-name-firefox } είναι ανοικτού κώδικα.
@@ -43,8 +43,8 @@ new-platform-download-mozilla-firefox-desc-mac = Κάντε λήψη του { -b
 new-platform-download-the-fastest-mac = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-mac-short } έφτασε.
-new-platform-privacy-comes-first = Το απόρρητο πάντα σε πρώτη μοίρα
-new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις. Σταματάμε τα cookies καταγραφής τρίτων και σας δίνουμε τον πλήρη έλεγχο.
+new-platform-privacy-comes-first = Προτεραιότητα στο απόρρητο
+new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις σας. Σταματάμε τα τρίτα cookies καταγραφής και σας παρέχουμε τον πλήρη έλεγχο.
 new-platform-get-speed-and-security = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο σε { -brand-name-mac-short }, επειδή δεν παρακολουθεί τις κινήσεις σας.
 new-platform-block-trackers = Φραγή ιχνηλατών
 new-platform-be-the-master-of-your = Γίνετε ο άρχοντας του τομέα σας με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookies και τους ιχνηλάτες.
