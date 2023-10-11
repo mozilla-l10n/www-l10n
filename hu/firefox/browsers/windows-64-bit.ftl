@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Ha a „(32 bites)” címkét látja, 
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Ha 32 bites { -brand-name-firefox(case: "accusative") } kell futtatnia, vagy kézzel telepíti a 64 bites { -brand-name-firefox(case: "accusative") }, akkor egyszerűen töltse le és futtassa a { -brand-name-windows(cap: "lower") }os (32 bites vagy 64 bites) { -brand-name-firefox } telepítőt az <a href="{ $all }">{ -brand-name-firefox } platformok és nyelvek letöltési oldalról.</a>
 windows-64-bit-take-control-of-your = Vegye át a böngészője irányítását.
+windows-64-bit-download-firefox = A { -brand-name-firefox } letöltése 64 bites Windowsra
