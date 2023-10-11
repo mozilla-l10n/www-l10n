@@ -16,6 +16,8 @@ firefox-browsers-get-the-privacy-you-deserve = Prejmite zasebnost, ki si jo zasl
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Izberite <strong>brskalnike</strong>, ki na prvo mesto postavljajo vašo zasebnost – kot vedno
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Izberite brskalnik, ki na prvo mesto postavlja vašo zasebnost – in jo <strong>vedno</strong> je
 firefox-browsers-desktop = Namizje
 firefox-browsers-seriously-private-browsing = Resnično zasebno brskanje. { -brand-name-firefox } samodejno preprečuje več kot 2000 spletnim sledilcem, da bi zbirali informacije o tem, kaj počnete na spletu.
 firefox-browsers-download-for-desktop = Prenesite za namizja
