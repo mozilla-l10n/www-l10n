@@ -36,3 +36,4 @@ windows-64-bit-if-you-see-32-bit-newer = Si vous voyez « (32 bits) » et que
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Si vous devez utiliser { -brand-name-firefox } 32 bits ou installer manuellement { -brand-name-firefox } 64 bits, vous pouvez simplement télécharger et relancer le programme d’installation de { -brand-name-firefox } pour { -brand-name-windows } (32 bits ou 64 bits) à partir de la <a href="{ $all }">page de téléchargement des plateformes et des langues de { -brand-name-firefox }</a>.
 windows-64-bit-take-control-of-your = Prenez le contrôle de votre navigateur.
+

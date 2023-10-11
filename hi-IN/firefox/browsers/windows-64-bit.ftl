@@ -36,3 +36,4 @@ windows-64-bit-if-you-see-32-bit-newer = अगर आपको “(32-बिट
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = अगर आपको 32-बिट { -brand-name-firefox } चलाना हो या 64-बिट { -brand-name-firefox } को मैनुअली इंस्टॉल करना हो तो आप <a href="{ $all }">{ -brand-name-firefox } प्लेटफ़ार्म और भाषाएँ डाउनलोड पेज</a> से आसानी से { -brand-name-windows } (32-बिट या 64-बिट) { -brand-name-firefox } इन्स्टॉलर को डाउनलोड और रीरन कर सकते हैं।
 windows-64-bit-take-control-of-your = अपने ब्राउज़र पर नियंत्रण रखें।
+
