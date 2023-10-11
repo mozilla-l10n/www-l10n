@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard tro
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en wiziget, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. Jo hawwe allinnich in <a { $attrs }>{ -brand-name-firefox }-account</a> nedich.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. It iennige dat jo nedich hawwe, is in <a { $attrs }>{ -brand-name-mozilla-account }</a>, en jo krije tagong ta syngronisaasje en mear { -brand-name-mozilla }-produkten.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Meitsje in ôfbylding mei in hege resolúsje fan alles wat online is mei ús helpmiddel foar <a { $attrs }>skermôfdrukken</a>, dat streekrjocht yn de browser ynboud is
@@ -147,6 +151,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Jo hawwe de browser al. Helje no noch mear út { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers mei { -brand-name-mozilla-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Let op hackers mei { -brand-name-firefox-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Let op hackers mei { -brand-name-firefox-monitor }, beskermje wachtwurden mei { -brand-name-firefox-lockwise }, en mear.

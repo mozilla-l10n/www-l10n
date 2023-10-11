@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Jo privacy, troch it produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-produkten wurkje oars – omdat se ûntwurpen binne om foarearst jo privacy te beskermjen.
 firefox-privacy-hub-learn-about-our-products = Ynformaasje oer ús produkten
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox }-privacy, troch it produkt
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } beskermet jo privacy yn elk produkt.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } beskermet jo privacy yn elk produkt.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>beskermet</strong> jo privacy yn elk produkt
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>beskermet</strong> jo privacy yn elk produkt
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mear as 2000 trackers blokkearre – automatysk
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = As jo in { -brand-name-firef
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Deistich wurde wrâldwiid mear as { $trackers } trackers foar { -brand-name-firefox }-brûkers blokkearre.
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Wannear’t jo jo e-mailadres ynfiere yn { -brand-name-mozilla-monitor }, ferjitte wy it daliks neidat wy kontrolearre hawwe op in oerienkomst yn bekende datalekken – útsein as jo ús tastimming jaan om kontrolearje te bliuwen op nije datalekken fan jo persoanlike gegevens.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Wannear’t jo jo e-mailadres ynfiere yn { -brand-name-firefox-monitor }, ferjitte wy it daliks neidat wy kontrolearre hawwe op in oerienkomst yn bekende datalekken – útsein as jo ús tastimming jaan om kontrolearje te bliuwen op nije datalekken fan jo persoanlike gegevens.
 firefox-privacy-hub-check-for-breaches = Kontrolearje op datalekken
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
