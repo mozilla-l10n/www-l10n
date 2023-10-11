@@ -36,6 +36,17 @@ history-not-many-people-noticed = Ekki tóku margir eftir því á sínum tíma,
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Árið 2003 stofnaði { -brand-name-mozilla }-verkefnið { -brand-name-mozilla-foundation }, <a href="{ $foundation }">óháða sjálfseignarstofnun</a> sem fjármögnuð er með styrkjum frá einstaklingum og ýmsum fyrirtækjum.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Hið nýja { -brand-name-mozilla-foundation } hélt áfram því hlutverki að stýra daglegum rekstri verkefnisins og tók einnig formlega að sér að stuðla að <a href="{ $manifesto }">opnu aðgengi, nýsköpun og tækifærum</a> a> á internetinu.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> kom út árið 2004 og náði miklum árangri - á innan við ári var vafrinn sóttur <a href="{ $millions }">meira en 100 milljón sinnum</a>.
+history-new-versions-of-firefox = Nýjar útgáfur af { -brand-name-firefox } hafa komið út reglulega síðan þá og halda áfram að setja ný met. Vinsældir { -brand-name-firefox } hafa hjálpað til við að gefa notendum val.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = Þessi endurnýjaða samkeppni hefur <a href="{ $innovation }">hraðað nýsköpun</a> og bætt internetið fyrir alla.
 history-mozilla-also-celebrated = { -brand-name-mozilla } fagnaði einnig 15 ára afmæli sínu árið 2013.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
