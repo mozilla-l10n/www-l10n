@@ -7,22 +7,22 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } για { -brand-name-firefox } | Εμποδίστε το { -brand-name-facebook } από το να βλέπει ποιους ιστοτόπους επισκέπτεστε.
 facebook-container-millions-of-people-around = Εκατομμύρια χρήστες απ' όλο τον κόσμο εμπιστεύονται το { -brand-name-firefox } για { -brand-name-android }, { -brand-name-ios } και υπολογιστές. Γρήγορο και ιδιωτικό. Κάντε λήψη τώρα!
-facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Σε περιορισμό. Διατηρήστε ιδιωτική την υπόλοιπη ζωή σας.
-facebook-container-get-the-facebook-container = Λήψη της επέκτασης { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Λήψη του { -brand-name-firefox } και απόκτηση της επέκτασης { -brand-name-facebook-container }
-facebook-container-only-available-for-desktop = Η επέκταση { -brand-name-facebook-container } είναι διαθέσιμη μόνο στο { -brand-name-firefox } για υπολογιστές προς το παρόν.
+facebook-container-facebook-well-contained-keep = Προστατέψτε το απόρρητό σας, θέτοντας όρια στο { -brand-name-facebook }.
+facebook-container-get-the-facebook-container = Λήψη της επέκτασης «{ -brand-name-facebook-container }»
+facebook-container-download-firefox-and-get-the = Κάντε λήψη του { -brand-name-firefox } και αποκτήστε την επέκταση «{ -brand-name-facebook-container }»
+facebook-container-only-available-for-desktop = Η επέκταση «{ -brand-name-facebook-container }» είναι διαθέσιμη μόνο στο { -brand-name-firefox } για υπολογιστές προς το παρόν.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Επισκεφθείτε το <a href="{ $url }">{ $link_copy }</a> για λήψη του { -brand-name-firefox } για υπολογιστές.
+facebook-container-visit-to-get-for-desktop = Επισκεφτείτε το <a href="{ $url }">{ $link_copy }</a> για να κάνετε λήψη του { -brand-name-firefox } για υπολογιστές.
 # Outdated string
-facebook-container-the-facebook-container-extension = Η επέκταση { -brand-name-facebook-container } δεν είναι διαθέσιμη για κινητές συσκευές.
+facebook-container-the-facebook-container-extension = Η επέκταση «{ -brand-name-facebook-container }» δεν διατίθεται για κινητές συσκευές.
 facebook-container-get-firefox-android-ios = Λήψη του { -brand-name-firefox } για { -brand-name-android } και { -brand-name-ios }.
 # Outdated string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Δοκιμάστε το <strong>{ -brand-name-firefox-focus }</strong>, το ιδιωτικό πρόγραμμα περιήγησης για { -brand-name-android } και { -brand-name-ios }.
-facebook-container-opt-out-on-your-terms = Τα πάντα με τους δικούς σας όρους
+facebook-container-opt-out-on-your-terms = Θέστε τους δικούς σας όρους
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-facebook-can-track-almost = Το { -brand-name-facebook } μπορεί να καταγράψει σχεδόν όλη τη δραστηριότητά σας στο διαδίκτυο και να τη συσχετίσει με το προφίλ σας. Αν δεν σας αρέσει αυτό, η <a href="{ $fbcontainer }">επέκταση { -brand-name-facebook-container }</a> απομονώνει την ταυτότητά σας σε μια ξεχωριστή θεματική καρτέλα, εμποδίζοντας την καταγραφή σας από το { -brand-name-facebook } στις υπόλοιπες ιστοσελίδες.
