@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Αποκτήστε το { -brand-name-firefox-browser } για { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Ώστε έχετε ένα { -brand-name-chromebook } — καιρός να αποκτήσετε το ανεξάρτητο, αυτομάτως ιδιωτικό { -brand-name-firefox-browser } για την προστασία των προσωπικών σας δεδομένων.
+browsers-chromebook-so-youve-got = Ώστε έχετε ένα { -brand-name-chromebook }. Είναι καιρός να αποκτήσετε το ανεξάρτητο, αυτομάτως ιδιωτικό { -brand-name-firefox-browser } για την προστασία των προσωπικών σας δεδομένων.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Λήψη του { -brand-name-firefox } για { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = *{ -brand-name-chromebook } με επεξεργαστή x86 και { -brand-name-chromeos } 80 ή νεότερο
@@ -26,4 +26,4 @@ browsers-chromebook-install-firefox-from = Εγκατάσταση του { -bran
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
-browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }: αυτή η μέθοδος απαιτεί λίγο περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε το { -brand-name-firefox } για υπολογιστές μαζί με όλες τις λειτουργίες του, όπως Ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και διάφορα θέματα για την προσαρμογή του προγράμματος περιήγησής σας. <a { $url }>Μάθετε περισσότερα για την εγκατάσταση του { -brand-name-firefox } για υπολογιστές σε { -brand-name-chromebook }</a>.
+browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογής { -brand-name-linux }: αυτή η μέθοδος απαιτεί περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε την πλήρη έκδοση του { -brand-name-firefox }, καθώς και όλα τα οφέλη της, όπως ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και θέματα για εξατομίκευση. <a { $url }>Μάθετε περισσότερα για την εγκατάσταση της πλήρους έκδοσης του { -brand-name-firefox } σε { -brand-name-chromebook }.</a>
