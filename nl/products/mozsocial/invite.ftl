@@ -18,3 +18,4 @@ mozsocial-invite-country-label = Land
 mozsocial-invite-twitter-handle-label = Twitter-handle?
 # Mastodon is a brand name. "Handle" is jargon for a user name.
 mozsocial-invite-mastodon-handle-label = Mastodon-handle?
+mozsocial-invite-thanks-youre-on-the-list = Bedankt! U staat op de lijst
