@@ -8,3 +8,5 @@
 # page title
 features-sync-firefox-browser-sync = Συγχρονισμός { -brand-name-firefox }
 features-sync-send-tabs-from-one-device-to-another = Αποστολή καρτελών από τη μια συσκευή στην άλλη
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = Εικόνα του μενού εφαρμογής του { -brand-name-firefox } με επισημασμένη την επιλογή «Αποστολή καρτέλας σε συσκευή».
