@@ -24,12 +24,12 @@ browsers-mobile-the-more-you-use = Όσο περισσότερο το χρησι
 browsers-mobile-get-enhanced-tracking-protection = Αποκτήστε την Ενισχυμένη προστασία από καταγραφή και ορίστε το { -brand-name-firefox } ως προεπιλογή στο { -brand-name-iphone } και το { -brand-name-ipad } σας.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Θέλετε ένα γρήγορο πρόγραμμα περιήγησης με προηγμένες δυνατότητες απορρήτου για κινητές συσκευές; Το { -brand-name-firefox-focus } διαγράφει αυτόματα το ιστορικό σας από το άνοιγμα έως το κλείσιμο της εφαρμογής.
-browsers-mobile-compare-mobile-browsers = Σύγκριση φυλλομετρητών για κινητά
+browsers-mobile-compare-mobile-browsers = Σύγκριση προγραμμάτων περιήγησης κινητών συσκευών
 browsers-mobile-see-how-firefox-stacks-up = Δείτε την κατάταξη του { -brand-name-firefox } σε σχέση με άλλα προγράμματα περιήγησης, όσον αφορά τρία σημαντικά κριτήρια: απόρρητο, λειτουργίες και συγχρονισμός.
 browsers-mobile-compare = Σύγκριση
 browsers-mobile-see-how-firefox-for-desktop-stacks = Δείτε την κατάταξη του { -brand-name-firefox } σε σχέση με άλλους επτά φυλλομετρητές.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Δείτε την κατάταξη του { -brand-name-firefox } για <strong>υπολογιστές</strong> σε σχέση με άλλους επτά φυλλομετρητές.
+browsers-mobile-see-how-firefox-for-desktop-strong = Δείτε την κατάταξη του { -brand-name-firefox } για <strong>υπολογιστές</strong> ανάμεσα σε επτά άλλα, αντίστοιχα προγράμματα.
 browsers-mobile-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

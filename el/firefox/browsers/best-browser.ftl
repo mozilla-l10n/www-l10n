@@ -45,4 +45,4 @@ best-browser-choosing-the-best-browser = Η επιλογή του καλύτερ
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Στο <a href="{ $firefox }">{ -brand-name-firefox }</a>, εργαζόμαστε σκληρά για να αναπτύξουμε ένα πρόγραμμα περιήγηση που είναι δύο φορές πιο γρήγορο από πριν και προσφέρει στους χρήστες περισσότερο έλεγχο για τη διαδικτυακή τους ζωή.
-best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησης σας.
+best-browser-take-control-of-your = Πάρτε τον έλεγχο του προγράμματος περιήγησής σας.
