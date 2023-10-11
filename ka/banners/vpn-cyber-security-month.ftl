@@ -10,6 +10,6 @@ banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
 banner-vpn-cyber-take-20-percent-off = კიბერუსაფრთხოების თვეში <strong>20%-იანი ფასდაკლება პირველ წელს</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
-banner-vpn-cyber-use-coupon-code = გამოიყენეთ კოდი { $coupon_code } ანგარიშზე შესვლისას
+banner-vpn-cyber-use-coupon-code = გამოიყენეთ კოდი { $coupon_code } ანგარიშსწორებისას
 banner-vpn-cyber-get-annual-sub = მიიღეთ წლიური ხელმოწერა
 banner-vpn-cyber-offer-ends = შეთავაზება სრულდება 2023 წლის 31 ოქტომბერს
