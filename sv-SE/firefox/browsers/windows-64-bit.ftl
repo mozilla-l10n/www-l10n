@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Om du ser “(32-bitars)” och kör { 
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Om du behöver köra 32-bitars { -brand-name-firefox } eller manuellt installera 64-bitars { -brand-name-firefox } kan du helt enkelt ladda ner och köra { -brand-name-windows } (32-bitars eller 64-bitars) { -brand-name-firefox }-installationsprogram från <a href="{ $all }">nedladdningssidan för { -brand-name-firefox } plattformar och språk.</a>
 windows-64-bit-take-control-of-your = Ta kontroll över din webbläsare.
+windows-64-bit-download-firefox = Ladda ned { -brand-name-firefox } för Windows 64-bitars
