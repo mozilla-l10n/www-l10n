@@ -26,6 +26,7 @@ firefox-home-learn-more-about-lockwise = Eikuaave { -brand-name-lockwise } reheg
 firefox-home-get-the-respect-you = Eguereko <strong>poyhu</strong> eipotáva
 # Obsolete string
 firefox-home-every-single-firefox = Opaite { -brand-name-firefox } apopyre omomba’e mba’ekuaarã nemba’etéva: <strong>Eikuaa’ive marandu. Omohekorosã. Ojehechapáva.</strong>
+firefox-home-every-single-mozilla = Opaite apopyre { -brand-name-mozilla } mba’éva oreko ore ñe’ẽme’ẽ tapicha reheguaite: <strong>Rojapyhy sa’ive. Roreko tekorosãme. Kañymby’ỹre.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Emoherakuã marandurenda oñema’ẽvai’ỹre
 # Obsolete string

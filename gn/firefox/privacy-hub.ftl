@@ -48,6 +48,7 @@ firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } ñemigua, a
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } omo’ã ne ñemigua apopyre peteĩteĩvape.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>omo’ã</strong> ne ñemigua opaite apopyrépe
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>omo’ã</strong> ne rekoñemi peteĩteĩva apopyrépe.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Hetave 2,000 tapykuehohágui ojejokóma ijehegui
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
