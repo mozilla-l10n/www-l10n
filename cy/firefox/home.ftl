@@ -12,7 +12,7 @@ firefox-home-the-browser-is-just = Dim ond man cychwyn yw'r porwr
 firefox-home-firefox-is-just = Dim ond y dechrau yw { -brand-name-firefox }.
 # Obsolete string
 firefox-home-meet-our-family-of = Dyma'n teulu o gynnyrch
-firefox-home-meet-mozillas-family = Cwrdd â theulu cynhyrchion { -brand-name-mozilla }
+firefox-home-meet-mozillas-family = Dyma deulu cynnyrch { -brand-name-mozilla }
 firefox-home-get-trackers-off = Tynnwch 2,000+ o dracwyr oddi ar eich llwybr pori - gan gynnwys { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Cewch wybod pryd mae hacwyr yn taro - a chadw un cam o'u blaen
 firefox-home-start-getting-breach = Dechreuwch dderbyn adroddiadau tor-data

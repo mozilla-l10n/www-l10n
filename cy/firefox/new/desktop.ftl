@@ -139,7 +139,7 @@ firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae 
 firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, eich hanes a'ch nodau tudalen gyda chi. Y cyfan sydd ei angen arnoch yw <a { $attrs }>{ -brand-name-mozilla-account }</a> a byddwch yn cael mynediad at gysoni a rhagor o gynhyrchion { -brand-name-mozilla }.
+firefox-desktop-download-firefox-is-available-v2 = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, eich hanes a'ch nodau tudalen gyda chi. Y cyfan sydd ei angen arnoch yw cyfrif <a { $attrs }>{ -brand-name-mozilla-account }</a> a byddwch yn cael mynediad at gydweddu a rhagor o gynnyrch { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Cipiwch ddelwedd cydraniad uchel o unrhyw beth ar-lein gyda'n teclyn <a { $attrs }>llun sgrin</a> wedi'i adeiladu o fewn y porwr
