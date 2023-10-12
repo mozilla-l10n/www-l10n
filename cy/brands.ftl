@@ -117,7 +117,7 @@
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Cyfrif Mozilla
 -brand-name-mozilla-accounts = Cyfrifon Mozilla
--brand-name-mozilla-social = Mozilla.cymdeithasol
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
