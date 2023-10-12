@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = Rahsia kepada mencegah tekaan, pencurian atau 
 privacy-passwords-when-an-attacker = Apabila penyerang mencuri pangkalan data kata laluan untuk laman web yang anda gunakan (seperti <a { $url_linkedin }>LinkedIn</a> atau <a { $url_yahoo }>Yahoo</a>), tidak ada lain yang boleh anda lakukan kecuali menukar kata laluan anda untuk laman web tersebut. Itu memang teruk, tetapi kerosakannya boleh menjadi lebih teruk jika anda menggunakan semula kata laluan itu pada laman web lain — kerana penyerang juga boleh mengakses akaun anda di laman web tersebut. Bagi membendung kerosakan, <strong>sentiasa gunakan kata laluan yang berbeza pada laman web yang berbeza.</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Gunakan <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> untuk mengawasi alamat e-mel yang dikaitkan dengan akaun anda. Jika alamat e-mel anda muncul dalam kebocoran data korporat yang diketahui, anda akan dimaklumkan dan diberikan langkah-langkah untuk diikuti bagi melindungi akaun yang terjejas.
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Gunakan <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> untuk mengawasi alamat e-mel yang dikaitkan dengan akaun anda. Jika alamat e-mel anda muncul dalam kebocoran data korporat yang diketahui, anda akan dimaklumkan dan diberikan langkah-langkah untuk diikuti bagi melindungi akaun yang terjejas.
+
 privacy-passwords-security-questions-my = Soalan Keselamatan: Nama ibu saya ialah "Ff926AKa9j6Q"
 privacy-passwords-finally-most-websites = Akhir sekali, kebanyakan laman web membolehkan anda memulihkan kata laluan anda jika anda terlupa. Biasanya sistem ini akan meminta anda menjawab beberapa &quot;soalan keselamatan&quot; sebelum anda boleh menetapkan semula kata laluan. <strong>Jawapan untuk soalan-soalan ini harus sama rahsia seperti kata laluan anda.</strong> Jika tidak, penyerang dapat meneka jawapan dan menetapkan kata laluan anda kepada sesuatu yang mereka tahu.
 privacy-passwords-randomness-can-be = Kerawakan boleh menjadi masalah, kerana soalan keselamatan yang sering digunakan oleh laman web juga merupakan perkara yang cenderung diketahui orang tentang anda, seperti tempat kelahiran anda, hari lahir anda atau nama saudara anda, atau yang dapat dikumpulkan daripada sumber seperti media sosial. Berita baiknya ialah, laman web tidak peduli sama ada jawapan anda benar atau tidak — anda boleh berbohong! Tetapi berbohonglah secara produktif: <strong>Berikan jawapan yang panjang dan rawak kepada soalan keselamatan,</strong> seperti kata laluan anda.
 privacy-passwords-get-help-from = Dapatkan bantuan daripada pengurus kata laluan
 privacy-passwords-now-all-of = Sekarang, semua ini kedengaran menakutkan. Minda manusia tidak pandai menghasilkan urutan huruf rawak yang panjang, apatah lagi mengingatinya. Di sinilah pengurus kata laluan menjalankan tugasnya. Dibina terus ke dalam pelayar, { -brand-name-firefox } akan bertanya sama ada anda ingin membuat kata laluan yang unik dan rumit, kemudian menyimpan maklumat log masuk dengan selamat yang boleh anda akses bila-bila masa sahaja.
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Apabila anda dilog masuk ke { -brand-name-firefox } dengan akaun { -brand-name-firefox }, anda boleh menyelaraskan kata laluan tersebut ke semua peranti anda dan mengaksesnya daripada pelayar mudah alih { -brand-name-firefox }. Ketahui lebih lanjut tentang <a { $url_sumo-manager }>cara menggunakan pengurus kata laluan terbina dalam</a> sepenuhnya di sini.
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Apabila anda log masuk ke { -brand-name-firefox } dengan { -brand-name-mozilla-account }, anda boleh menyelaraskan kata laluan tersebut ke semua peranti anda dan mengaksesnya daripada pelayar mudah alih { -brand-name-firefox }. Ketahui lebih lanjut tentang <a { $url_sumo_manager }>cara menggunakan pengurus kata laluan siap terbina sepenuhnya</a>.
 privacy-passwords-twofactor-authentication-2fa = Pengesahan Dua Faktor (2FA)
 privacy-passwords-2fa-is-a = 2FA ialah kaedah terbaik untuk meningkatkan keselamatan anda. Semasa membuat akaun baru, sesetengah laman web akan memberi anda pilihan untuk menambah "faktor kedua" kepada proses masuk. Selalunya, ini bermaksud memautkan nombor telefon anda ke akaun, jadi setelah anda masukkan kata laluan, anda akan diminta memasukkan kod selamat yang dihantar dalam bentuk teks terus kepada anda. Dengan cara ini, jika penggodam berjaya mendapatkan kata laluan anda, mereka masih tidak dapat masuk ke akaun anda kerana mereka tidak memiliki telefon anda.
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Akaun { -brand-name-firefox } anda misalnya, boleh dilindungi dengan 2FA, <a { $url_sumo_2fa }>yang boleh diketahui lebih lanjut di sini</a>.
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = { -brand-name-mozilla-account } anda contohnya, boleh dilindungi dengan 2FA, <a { $url_sumo_2fa }>dan anda boleh ketahui lebih lanjut tentangnya di sini</a>.
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA memberikan keselamatan yang jauh lebih baik daripada kata laluan sahaja, tetapi tidak semua laman web menyokongnya. Anda boleh mencari senarai laman web yang menyokong 2FA di <a { $url_2fa }>https://2fa.directory</a>, termasuk laman web yang tidak menyokong 2FA dan cara anda boleh memohon untuk sokongan ditambah.

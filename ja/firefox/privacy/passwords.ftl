@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = パスワードを推測や盗難、リセッ�
 privacy-passwords-when-an-attacker = ウェブサイト (<a { $url_linkedin }>LinkedIn</a> や <a { $url_yahoo }>Yahoo</a> など) のパスワードのデータベースを攻撃者が盗んだ場合、そのウェブサイトのユーザーには、そのウェブサイトで自分が使用しているパスワードを変更する以外になすすべはありません。それだけでも大問題ですが、そのパスワードを別のウェブサイトでも使用している場合、攻撃者はそうした別のウェブサイトにもアクセスできるため、問題ははるかに大きくなります。被害を阻止するため、<strong>必ず各ウェブサイトでそれぞれ異なるパスワードを使用しましょう。</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
+
 privacy-passwords-security-questions-my = セキュリティの質問: 自分の母親の婚前の苗字は「Ff926AKa9j6Q」
 privacy-passwords-finally-most-websites = ほとんどのウェブサイトでは、忘れてしまったパスワードを回復できます。通常、こうしたシステムでは、「セキュリティの質問」に回答してからパスワードをリセットできるようになっています。<strong>これらの質問の回答は、パスワードと同様に秘密でなければなりません。</strong>そうでなければ、攻撃者は答えを推測してパスワードを設定してしまうことができます。
 privacy-passwords-randomness-can-be = 無作為性は問題となる可能性があります。なぜなら、よくウェブサイトで使用されるセキュリティの質問もまた、出生地や誕生日、親戚の名前など、他人が知っている可能性が高いものであったり、ソーシャルメディア等から収集可能なものだからです。しかし、好都合なことに、ウェブサイトは、その回答が事実であるかどうかは問題となりませんので、虚偽の回答を設定できます。しかし、パスワードと同様、<strong>セキュリティの質問には、文字数が多く、無作為な回答を設定して</strong>、効果的な虚偽の回答を設定しましょう。
 privacy-passwords-get-help-from = パスワードマネージャーを役立てる
 privacy-passwords-now-all-of = こうした処置は、いずれもかなり困難に思われるでしょう。人間の心理は、文字数の多い無作為の文字列を作るのが得意ではありません。ましてや、それを記憶するのは苦手です。そこで、パスワードマネージャーが役立ちます。この機能は { -brand-name-firefox } ブラウザーにビルトインされていて、一意の複雑なパスワードを生成する必要があるかを尋ね、ログイン情報を安全に保存します。ユーザーは about:logins で保存したログイン情報にいつでもアクセスできます。
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = ご使用の { -brand-name-firefox } アカウントで { -brand-name-firefox } にログインした場合、パスワードをご使用のデバイスすべてで同期し、{ -brand-name-firefox } モバイルブラウザーからアクセスできます。ここでは、<a { $url_sumo-manager }>ビルトインのパスワードマネージャーを最大限に活用する方法</a>を詳しくご紹介します。
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = ご使用の { -brand-name-firefox } で { -brand-name-mozilla-account } にログインした場合、パスワードをご使用のデバイスすべてで同期し、{ -brand-name-firefox } モバイルブラウザーからアクセスできます。<a { $url_sumo_manager }>ビルトインのパスワードマネージャーを最大限に活用する方法</a>を詳しくご紹介します。
 privacy-passwords-twofactor-authentication-2fa = 2 要素 認証 (2FA)
 privacy-passwords-2fa-is-a = 2FA はセキュリティのレベルアップに大いに効果的です。ウェブサイトによっては、新規アカウントを設定する際に、ログインプロセスに「2番目の要素」を追加するオプションがある場合があります。多くの場合、それは電話番号をアカウントとリンクさせることになり、ユーザーはパスワードを入力した後、直接テキストメッセージで送付されたセキュリティコードを入力するよう求められます。こうすることで、ハッカーは、ユーザーのパスワードを手に入れた場合であっても、そのユーザーのスマートフォンを持っていないので、そのユーザーのアカウントにログインできません。
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = { -brand-name-firefox } アカウントも 2FA で保護できますので、<a { $url_sumo_2fa }>ここではその方法を詳細に説明します。</a>
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = { -brand-name-mozilla-account } も 2FA で保護できますので、<a { $url_sumo_2fa }>ここではその方法を詳細に説明します</a>。
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA を利用すると、パスワードのみの場合よりもセキュリティが格段に向上しますが、2FA 非対応のサイトもあります。2FA に対応しているウェブサイトの一覧は、<a { $url_2fa }>https://2fa.directory</a> でご覧になれます。また、2FA に対応していないサイトのリストや、対応を要請する方法も紹介しています。
