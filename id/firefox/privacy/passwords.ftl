@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = Rahasia untuk mencegah tebakan, pencurian, ata
 privacy-passwords-when-an-attacker = Ketika penyerang mencuri basis data kata sandi untuk situs yang Anda gunakan (seperti <a { $url_linkedin }>LinkedIn</a> dan <a { $url_yahoo }>Yahoo</a>), tidak ada yang dapat Anda lakukan selain mengubah kata sandi untuk situs tersebut. Itu buruk, tapi kerusakannya akan jauh lebih buruk lagi jika Anda menggunakan kembali kata sandi itu di situs web lain — maka penyerang juga dapat mengakses akun Anda di situs tersebut. Untuk mencegah kerugian, <strong>selalu gunakan kata sandi berbeda untuk situs web yang berbeda.</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Gunakan <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Gunakan <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
+
 privacy-passwords-security-questions-my = Pertanyaan Keamanan: Nama gadis ibu saya adalah “Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = Terakhir, sebagian besar situs web mengizinkan Anda memulihkan kata sandi jika Anda lupa. Biasanya sistem ini membuat Anda menjawab beberapa &quot;pertanyaan keamanan&quot; sebelum Anda dapat mengatur ulang kata sandi Anda. <strong>Jawaban atas pertanyaan ini harus sama rahasianya dengan kata sandi Anda.</strong> Jika tidak, penyerang dapat menebak jawaban dan mengatur kata sandi Anda ke sesuatu yang mereka ketahui.
 privacy-passwords-randomness-can-be = Keacakan dapat menjadi masalah, karena pertanyaan keamanan yang sering digunakan situs juga merupakan hal yang cenderung diketahui orang mengenai Anda, seperti tempat kelahiran, tanggal lahir, atau nama kerabat Anda, atau yang dapat dikumpulkan dari sumber seperti media sosial. Kabar baiknya adalah situs web tersebut tidak peduli apakah jawabannya nyata atau tidak — Anda dapat berbohong! Tetapi berbohongnya secara produktif: <strong>Berikan jawaban atas pertanyaan keamanan yang panjang dan acak,</strong> seperti kata sandi Anda.
 privacy-passwords-get-help-from = Dapatkan bantuan dari pengelola kata sandi
 privacy-passwords-now-all-of = Sekarang, semua ini terdengar sangat menakutkan. Otak manusia tidak pandai membuat urutan panjang huruf acak, apalagi mengingatnya. Di situlah pengelola kata sandi berperan. Dibuat langsung di dalam peramban, { -brand-name-firefox } akan menanyakan apakah Anda ingin membuat kata sandi yang unik dan rumit, kemudian menyimpan informasi masuk Anda dengan aman, yang dapat Anda akses kapan saja di about:logins.
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Saat Anda masuk ke { -brand-name-firefox } dengan akun { -brand-name-firefox }, Anda dapat menyinkronkan semua perangkat Anda dan mengakses kata sandi Anda dari peramban seluler { -brand-name-firefox }. Pelajari lebih lanjut mengenai <a { $url_sumo-manager }>cara menggunakan pengelola kata sandi bawaan</a> sepenuhnya di sini.
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Saat Anda masuk ke { -brand-name-firefox } dengan { -brand-name-mozilla-account }, Anda dapat menyinkronkan semua perangkat Anda dan mengakses kata sandi Anda dari peramban seluler { -brand-name-firefox }. Pelajari lebih lanjut mengenai <a { $url_sumo_manager }>cara menggunakan pengelola kata sandi bawaan sepenuhnya</a>.
 privacy-passwords-twofactor-authentication-2fa = Autentikasi Dua Faktor (2FA)
 privacy-passwords-2fa-is-a = 2FA merupakan cara terbaik untuk meningkatkan keamanan Anda. Ketika membuat akun baru, beberapa situs akan memberi Anda pilihan untuk menambah "faktor kedua" ke proses info masuk. Sering kali, ini berarti menautkan nomor telepon Anda ke akun Anda, jadi setelah Anda memasukkan kata sandi, Anda akan diminta untuk memasukkan kode keamanan yang dikirim langsung kepada Anda. Dengan cara ini, jika seorang peretas telah berhasil mendapatkan kata sandi Anda, mereka tetap tidak dapat masuk ke akun Anda karena mereka tidak memiliki ponsel Anda.
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Akun { -brand-name-firefox } Anda, misalnya, dapat dilindungi dengan 2FA, <a { $url_sumo_2fa }>yang dapat Anda pelajari lebih lanjut di sini</a>.
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = { -brand-name-mozilla-account } Anda, misalnya, dapat dilindungi dengan 2FA, <a { $url_sumo_2fa }>yang dapat Anda pelajari lebih lanjut di sini</a>.
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA memberikan keamanan yang jauh lebih baik daripada kata sandi saja, tetapi tidak setiap situs web mendukungnya. Anda dapat menemukan daftar situs web yang mendukung 2FA di <a { $url_2fa }>https://2fa.directory</a>, serta daftar situs yang tidak mendukung 2FA dan cara agar Anda dapat meminta mereka untuk menambahkan dukungan.
