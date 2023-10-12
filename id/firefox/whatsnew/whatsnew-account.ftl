@@ -7,10 +7,17 @@
 ## Required
 
 whatsnew-account-main-headline = Tidak perlu akun. Tapi Anda mungkin ingin membuatnya.
-whatsnew-account-main-lead-in = Peramban { -brand-name-firefox } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda. Namun bila Anda menggunakannya untuk membuat akun { -brand-name-firefox }, kami dapat melindungi privasi Anda di berbagai kehidupan daring Anda.
-whatsnew-account-main-button = Masuk
+
+whatsnew-account-main-lead-in-v2 = Peramban { -brand-name-firefox } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda. Namun bila Anda menggunakannya untuk membuat { -brand-name-mozilla-account }, Anda akan mendapatkan akses ke seluruh rangkaian produk perlindungan privasi selain { -brand-name-firefox }.
+whatsnew-account-mozilla-cta = Dapatkan { -brand-name-mozilla-account }
 
 ##
+
+# Obsolete string
+whatsnew-account-main-lead-in = Peramban { -brand-name-firefox } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda. Namun bila Anda menggunakannya untuk membuat akun { -brand-name-firefox }, kami dapat melindungi privasi Anda di berbagai kehidupan daring Anda.
+
+# Obsolete string
+whatsnew-account-main-button = Masuk
 
 whatsnew-account-signed-in-headline = Selesaikan lebih banyak hal. Gunakan { -brand-name-firefox } untuk seluler.
 whatsnew-account-signed-in-lead-in = Kirim tautan unduhan ke ponsel Anda.
