@@ -25,7 +25,7 @@ firefox-home-learn-more-about-lockwise = Μάθετε περισσότερα γ�
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Αποκτήστε το <strong>σεβασμό</strong> που σας αξίζει
 # Obsolete string
-firefox-home-every-single-firefox = Κάθε προϊόν { -brand-name-firefox } τιμά την υπόσχεσή μας για τα προσωπικά δεδομένα: <strong>Λιγότερα δεδομένα. Προστασία χρήστη. Χωρίς μυστικά.</strong>
+firefox-home-every-single-firefox = Κάθε προϊόν { -brand-name-firefox } τιμά την υπόσχεσή μας για τα προσωπικά δεδομένα: <strong>Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.</strong>
 firefox-home-every-single-mozilla = Κάθε προϊόν της { -brand-name-mozilla } τιμά την υπόσχεσή μας για τα προσωπικά δεδομένα: <strong>Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Μοιραστείτε μεγάλα αρχεία χωρίς υποκλοπές

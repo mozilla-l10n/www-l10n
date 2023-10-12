@@ -8,7 +8,7 @@
 # HTML page title
 firefox-privacy-hub-firefox-privacy-promise = Υπόσχεση απορρήτου { -brand-name-firefox }
 # HTML page description
-firefox-privacy-hub-firefox-takes-less-data-keeps = Το { -brand-name-firefox } συγκεντρώνει λιγότερα δεδομένα και τα προστατεύει, χωρίς μυστικά.
+firefox-privacy-hub-firefox-takes-less-data-keeps = Το { -brand-name-firefox } συλλέγει λιγότερα δεδομένα, με ασφάλεια, χωρίς μυστικά.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-firefox-products-are-designed = Τα προϊόντα { -brand-name-firefox } σχεδιάζονται για την προστασία του <strong>απορρήτου</strong> σας
 # Sub navigation title
@@ -17,12 +17,12 @@ firefox-privacy-privacy = Απόρρητο
 firefox-privacy-our-promise = Η υπόσχεσή μας
 # Sub navigation link
 firefox-privacy-our-products = Τα προϊόντα μας
-firefox-privacy-hub-you-should-be-able-to-decide = Μόνο εσείς θα πρέπει να αποφασίζετε ποιος βλέπει τα προσωπικά σας στοιχεία. Όχι μόνο μεταξύ των φίλων σας, αλλά και με κάθε διαφημιστή και εταιρεία στο διαδίκτυο — συμπεριλαμβανομένων και εμάς.
+firefox-privacy-hub-you-should-be-able-to-decide = Μόνο εσείς θα πρέπει να αποφασίζετε ποιος βλέπει τα προσωπικά σας στοιχεία. Όχι μόνο μεταξύ των φίλων σας, αλλά και με κάθε διαφημιστή και εταιρεία στο διαδίκτυο, συμπεριλαμβανομένων και εμάς.
 firefox-privacy-hub-thats-why-everything-we-make = Γι’ αυτό όλα όσα κάνουμε τιμούν την υπόσχεσή μας για τα προσωπικά δεδομένα
 firefox-privacy-hub-take-less = Λιγότερα δεδομένα
 firefox-privacy-hub-we-make-a-point-of-knowing = Θέλουμε να γνωρίζουμε λιγότερα για εσάς
 firefox-privacy-hub-all-tech-companies-collect = Όλες οι εταιρείες τεχνολογίας συλλέγουν δεδομένα για τη βελτίωση των προϊόντων τους. Αλλά δεν χρειάζεται να περιλαμβάνουν τόσες προσωπικές πληροφορίες. Τα μόνα δεδομένα που θέλουμε είναι αυτά που σας εξυπηρετούν στο τέλος. Αναρωτιόμαστε: τα χρειαζόμαστε πραγματικά; Πού χρησιμεύουν; Και πότε μπορούμε να τα διαγράψουμε;
-firefox-privacy-hub-keep-it-safe = Προστασία χρήστη
+firefox-privacy-hub-keep-it-safe = Με ασφάλεια
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Εργαζόμαστε σκληρά για την προστασία των προσωπικών σας στοιχείων
 firefox-privacy-hub-data-security-is-complicated = Η ασφάλεια δεδομένων είναι περίπλοκη — ή τουλάχιστον θα έπρεπε να είναι. Για το λόγο αυτό, παίρνουμε επιπλέον μέτρα για την ταξινόμηση των δεδομένων, διατηρούμε κανόνες αποθήκευσης και προστασίας για κάθε τύπο και δεν σταματάμε ποτέ να επαναλάβουμε τις διεργασίες μας. Το απόρρητό σας έχει προτεραιότητα. Εμείς επενδύουμε σε αυτό. Έχουμε δεσμευτεί να το υπερασπιζόμαστε. Διδάσκουμε ακόμη και σε άλλες εταιρείες πώς να το κάνουν.
 firefox-privacy-hub-no-secrets = Χωρίς μυστικά
@@ -70,7 +70,7 @@ firefox-privacy-hub-if-you-have-a-mozilla-account = Αν διαθέτετε έν
 firefox-privacy-hub-if-you-have-a-firefox-account = Αν έχετε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") }, μπορείτε να δείτε πώς σας βοηθούμε στην προστασία των προσωπικών δεδομένων και τους κωδικών πρόσβασής σας.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Φραγή πάνω από { $trackers } ιχνηλατών κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
+firefox-privacy-hub-more-than-s-trackers-blocked = Αποκλείουμε πάνω από { $trackers } ιχνηλάτες κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
