@@ -14,6 +14,11 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } menyimpa
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Dengan <a { $fxa }>{ -brand-name-mozilla-account } gratis</a>, Anda dapat menyinkronkan kata sandi dengan aman di semua perangkat. Anda juga dapat mengakses semua produk { -brand-name-mozilla } lainnya yang menghormati privasi.
+
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Dengan <a href="{ $fxa }">{ -brand-name-mozilla-account } gratis</a>, Anda dapat menyinkronkan kata sandi dengan aman di semua perangkat.
 
 # Obsolete string
