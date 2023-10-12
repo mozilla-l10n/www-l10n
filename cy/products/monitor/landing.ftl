@@ -8,7 +8,7 @@
 # HTML page title
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — Diogelu Eich Data Personol rhag Datgeliadau
 # HTML page description
-monitor-landing-page-desc = Darganfyddwch a yw eich manylion personol, o rifau ffôn i gyfeiriadau cartref, wedi cael eu datgelu ar-lein. Ymunwch â 10 miliwn o ddefnyddwyr ledled y byd i adennill eich preifatrwydd. Dechreuwch gyda sgan am ddim.
+monitor-landing-page-desc = Gweld os yw eich manylion personol, o rifau ffôn i gyfeiriadau cartref, wedi cael eu datgelu ar-lein. Ymunwch â 10 miliwn o ddefnyddwyr ledled y byd i adennill eich preifatrwydd. Dechreuwch gyda sgan am ddim.
 monitor-hero-heading = Darganfyddwch ble mae'ch manylion preifat yn cael eu datgelu — a'u cymryd nhw nôl
 monitor-hero-tagline = Rydym yn sganio tor-data i weld a yw'ch data wedi'u datgelu ac yn cynnig camau i chi i'w drwsio.
 
