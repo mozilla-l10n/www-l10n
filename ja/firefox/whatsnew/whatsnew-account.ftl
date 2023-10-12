@@ -7,10 +7,17 @@
 ## Required
 
 whatsnew-account-main-headline = アカウントは必要ありませんが、お作りすることをお勧めします。
-whatsnew-account-main-lead-in = { -brand-name-firefox } は、ユーザーに関するデータをほとんど収集しないため、メールアドレスもいただきません。それでも { -brand-name-firefox } アカウントを作成していただくと、オンライン生活でのプライバシー保護をさらに拡充することができます。
-whatsnew-account-main-button = サインイン
+
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } は、ユーザーに関するデータをほとんど収集しないため、メールアドレスもいただきません。それでも、メールアドレスで { -brand-name-mozilla-account } を作成すると、{ -brand-name-firefox } 以外のプライバシーを守る製品にアクセスできるようになります。
+whatsnew-account-mozilla-cta = { -brand-name-mozilla-account } を作成
 
 ##
+
+# Obsolete string
+whatsnew-account-main-lead-in = { -brand-name-firefox } は、ユーザーに関するデータをほとんど収集しないため、メールアドレスもいただきません。それでも { -brand-name-firefox } アカウントを作成していただくと、オンライン生活でのプライバシー保護をさらに拡充することができます。
+
+# Obsolete string
+whatsnew-account-main-button = サインイン
 
 whatsnew-account-signed-in-headline = もっとたくさんのことができます。モバイル用 { -brand-name-firefox } をご利用ください。
 whatsnew-account-signed-in-lead-in = スマートフォンにダウンロードリンクを送信
