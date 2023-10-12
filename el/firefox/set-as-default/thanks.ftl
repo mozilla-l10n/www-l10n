@@ -19,7 +19,7 @@ set-as-default-thanks-heres-everything-you-need-android = Δείτε όλα όσ
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Δείτε όλα όσα πρέπει να ξέρετε σχετικά με τον ορισμό του προεπιλεγμένου προγράμματος περιήγησής σας σε <a href="{ $ios }">συσκευές iOS</a>.
 set-as-default-thanks-youre-all-set = Όλα έτοιμα.
-set-as-default-thanks-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
+set-as-default-thanks-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητές συσκευές
 set-as-default-thanks-travel-the-internet-with = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή σας.
 set-as-default-thanks-download-the-app = Λήψη εφαρμογής
 set-as-default-thanks-join-firefox = Σύνδεση στο { -brand-name-firefox }

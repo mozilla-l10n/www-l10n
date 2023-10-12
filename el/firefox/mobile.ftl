@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -13,7 +13,7 @@ firefox-mobile-get-the-mobile-browser-built = Αποκτήστε το πρόγρ
 firefox-mobile-check-out-firefox-again-its = Δείτε ξανά το { -brand-name-firefox }. Είναι γρήγορο, ιδιωτικό και πάντα στο πλευρό σας. Για { -brand-name-ios } και { -brand-name-android }.
 firefox-mobile-get-automatic-privacy-on-mobile = Αυτόματες ρυθμίσεις απορρήτου σε κινητά
 firefox-mobile-super-fast-private-by-default = Ταχύτατο. Ιδιωτικό από προεπιλογή. Φραγή 2000+ ιχνηλατών.
-firefox-mobile-get-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητά
+firefox-mobile-get-firefox-mobile = Λήψη του { -brand-name-firefox } για κινητές συσκευές
 firefox-mobile-block-online-trackers-and = Φραγή ιχνηλατών και παρεμβατικών διαφημίσεων
 firefox-mobile-privacy-protection-by-default = Προστασία απορρήτου από προεπιλογή
 # Variables:
@@ -32,7 +32,7 @@ firefox-mobile-customize-your-firefox-mobile-truncated = Προσαρμόστε 
 firefox-mobile-find-it-fast-with-a-smart = Γρήγορη εύρεση με μια έξυπνη γραμμή αναζήτησης
 firefox-mobile-firefox-anticipates-your-needs = Το { -brand-name-firefox } προβλέπει τις ανάγκες σας με έξυπνες προτάσεις αναζήτησης και γρήγορη πρόσβαση σε ιστοσελίδες που επισκέπτεστε περισσότερο.
 firefox-mobile-the-privacy-you-deserve-the = Το απόρρητο που αξίζετε. Η ταχύτητα που χρειάζεστε.
-firefox-mobile-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
+firefox-mobile-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητές συσκευές
 firefox-mobile-send-a-download-link-to-your = Στείλτε ένα σύνδεσμο λήψης στο τηλέφωνό σας.
 firefox-mobile-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
-firefox-mobile-scan-alt-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-name-firefox } για κινητά
+firefox-mobile-scan-alt-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-name-firefox } για κινητές συσκευές

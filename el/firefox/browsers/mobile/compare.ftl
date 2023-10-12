@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
 # HTML page title
-mobile-compare-5-of-the-best = Τα 5 καλύτερα προγράμματα περιήγησης κινητών σε άμεση σύγκριση
+mobile-compare-5-of-the-best = Τα πέντε καλύτερα προγράμματα περιήγησης κινητών σε άμεση σύγκριση
 # HTML description
 mobile-compare-who-makes-the = Ποιος φτιάχνει το καλύτερο πρόγραμμα περιήγησης; Θα συγκρίνουμε τις εκδόσεις των { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari } και { -brand-name-opera } για κινητές συσκευές.
 mobile-compare-since-your-mobile = Επειδή το πρόγραμμα περιήγησής σας αποτελεί την πηγή πληροφοριών σας όπου κι αν βρίσκεστε, η ταχύτητα, η ασφάλεια, το απόρρητο και η ευκολία χρήσης είναι τα βασικά στοιχεία μιας καλής εμπειρίας. Ποιο είναι λοιπόν το καλύτερο πρόγραμμα περιήγησης για κινητές συσκευές; Θα συγκρίνουμε τα κορυφαία — δείτε ποιο καλύπτει καλύτερα τις ανάγκες σας.
@@ -52,7 +52,7 @@ mobile-compare-mobile-os-availability = Διαθεσιμότητα ΛΣ κινη
 mobile-compare-syncs-with-desktopmobile = Συγχρονισμός με υπολογιστή/κινητό
 mobile-compare-password-management = Διαχείριση κωδικών πρόσβασης
 mobile-compare-primary-password = Κύριος κωδικός πρόσβασης
-mobile-compare-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητά
+mobile-compare-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητές συσκευές
 mobile-compare-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-compare-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
 mobile-compare-scan-alt-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-name-firefox } στην κινητή σας συσκευή
