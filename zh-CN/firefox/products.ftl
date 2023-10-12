@@ -9,7 +9,7 @@
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是浏览器
 # HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } 只是一个开始
+firefox-products-firefox-beginning = { -brand-name-firefox } 只是标配
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox 有一系列产品，旨在让您上网更安全、更智慧。
@@ -20,7 +20,7 @@ firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } 只是<strong>一个开始</strong>
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } 只是<strong>标配</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = 检查您的个人信息是否遭其他公司外泄，并订阅警报通知。
 firefox-products-check-for-breaches = 检查是否有外泄事件

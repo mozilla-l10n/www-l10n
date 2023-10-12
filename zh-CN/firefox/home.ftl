@@ -9,7 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - 使用隐私至上
 firefox-home-firefox-is-more-than = { -brand-name-firefox } 不只是浏览器。详细了解 { -brand-name-firefox } 的产品系列 — 尊重您的数据，并随时随地为您的网络浏览保驾护航。
 # Obsolete string
 firefox-home-the-browser-is-just = 全方位网络体验，不止于浏览器
-firefox-home-firefox-is-just = { -brand-name-firefox } 只是起点。
+firefox-home-firefox-is-just = { -brand-name-firefox } 只是标配。
 # Obsolete string
 firefox-home-meet-our-family-of = 这是我们的系列产品
 firefox-home-meet-mozillas-family = 认识 { -brand-name-mozilla } 的系列产品
