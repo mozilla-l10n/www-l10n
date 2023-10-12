@@ -29,7 +29,7 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } ikatu oh
 facebook-container-install-and-contain = Emboguejy ha ema’ẽag̃ui
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Oguejyhína <a href="{ $fbcontainer }">jepysokue</a> ndahasýi ha, hendy vove, ijurujáta { -brand-name-facebook } peteĩ tendayke hovývape eiporu vove. Eiporu ha evy’a { -brand-name-facebook } ndive opa ára. { -brand-name-facebook } ikatúta gueteri omondo ndéve ñemurã ha ñe’ẽporã henda rupi, hákatu ndahasyivéta chupe oipurúramo ne rembiapokue ñembyatypyre <strong>{ -brand-name-facebook }-gui okápe</strong> omondo hag̃ua ndéve ñemurã ha ambue ñe’ẽmondo.
+facebook-container-installing-the-extension-is = Oguejyhína <a href="{ $fbcontainer }">jepysokue</a> ndahasýi ha, hendy vove, ijurujáta { -brand-name-facebook } peteĩ tendayke hovývape eiporu vove. Eiporu ha evy’a { -brand-name-facebook } ndive opa ára. { -brand-name-facebook } ikatúta gueteri omondo ndéve ñemurã ha ñe’ẽporã henda rupi, hákatu ndahasyivéta chupe oiporúramo ne rembiapokue ñembyatypyre <strong>{ -brand-name-facebook }-gui okápe</strong> omondo hag̃ua ndéve ñemurã ha ambue ñe’ẽmondo.
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } ha { -brand-name-mozilla } rehegua
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
