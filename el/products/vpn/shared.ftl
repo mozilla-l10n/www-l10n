@@ -29,7 +29,7 @@ vpn-shared-features-activity-logs = Χωρίς αρχεία δραστηριότ
 vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Επιλογή σύνδεσης έως και { $devices } συσκευών
+vpn-shared-features-devices = Δυνατότητα σύνδεσης μέχρι { $devices } συσκευών
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Προστασία για έως και { $devices } συσκευές

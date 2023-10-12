@@ -40,10 +40,10 @@ firefox-privacy-hub-why-trust-firefox = Γιατί να εμπιστευτείτ
 #   $foundation (url) - link to https://foundation.mozilla.org/
 firefox-privacy-hub-because-we-put-people-first = Επειδή προτεραιότητα έχει ο άνθρωπος. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, αποστολή μας είναι η προστασία του διαδικτύου και όλων των χρηστών του.
 firefox-privacy-hub-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
-firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας, ανά προϊόν
+firefox-privacy-hub-your-privacy-by-the-product = Το απόρρητό σας σε κάθε προϊόν
 firefox-privacy-hub-firefox-products-work-differently = Τα προϊόντα { -brand-name-firefox } λειτουργούν διαφορετικά — επειδή έχουν σχεδιαστεί για να προστατεύουν το απόρρητό σας.
 firefox-privacy-hub-learn-about-our-products = Μάθετε για τα προϊόντα μας
-firefox-privacy-hub-firefox-privacy-by-the = Απόρρητο { -brand-name-firefox }, ανά προϊόν
+firefox-privacy-hub-firefox-privacy-by-the = Απόρρητο του { -brand-name-firefox } σε κάθε προϊόν
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = Το { -brand-name-firefox } προστατεύει το απόρρητό σας σε κάθε προϊόν.
 firefox-privacy-hub-mozilla-protects-your-privacy = Η { -brand-name-mozilla } προστατεύει το απόρρητό σας σε κάθε προϊόν.
@@ -70,7 +70,7 @@ firefox-privacy-hub-if-you-have-a-mozilla-account = Με έναν { -brand-name-
 firefox-privacy-hub-if-you-have-a-firefox-account = Αν έχετε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") }, μπορείτε να δείτε πώς σας βοηθούμε στην προστασία των προσωπικών δεδομένων και τους κωδικών πρόσβασής σας.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
-firefox-privacy-hub-more-than-s-trackers-blocked = Αποκλείουμε πάνω από { $trackers } ιχνηλάτες κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
+firefox-privacy-hub-more-than-s-trackers-blocked = Αποκλείουμε περισσότερους από { $trackers } ιχνηλάτες κάθε μέρα για τους χρήστες του { -brand-name-firefox } παγκοσμίως
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
