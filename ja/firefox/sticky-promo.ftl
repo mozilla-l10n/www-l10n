@@ -5,8 +5,11 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = 製品ファミリーの紹介
+
+firefox-sticky-promo-meet-mozillas-family = { -brand-name-mozilla } 製品ファミリーのご紹介
 firefox-sticky-promo-get-the-latest-firefox = 最新版 { -brand-name-firefox } ブラウザーをダウンロードしてください。
 
 # Products List
