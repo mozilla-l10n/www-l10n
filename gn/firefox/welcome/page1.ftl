@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Ndaha’éi kundahára año: { -brand-name-mozilla-monitor } oñorairõkuaa mba’evaiapoha rovake
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = Ndaha’éi kundahára año: { -brand-name-firefox-monitor } oñorairõkuaa mba’evaiapoha rovake
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Eku’evéke emo’ãkuaa hag̃ua ne ñemigua ñandutípe { -brand-name-firefox } apopyrekuéra ndive.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Eguatáke mba’evaiapoha renonderã. Ehechajey ne mba’ekuaarãpa ivaikuaa { -brand-name-mozilla-monitor } ndive.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Eguatáke mba’evaiapoha renonderã. Ehecha ne mba’ekuaarãpa ivaikuaa { -brand-name-firefox-monitor } ndive.
 welcome-page1-youre-on-track-to-stay-protected = Eguata tape porãre ne rekorosãrã

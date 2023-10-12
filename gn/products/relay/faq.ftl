@@ -34,14 +34,14 @@ faq-question-2-answer-v4 = Ikatuhína heta tenda nomoneĩri ñanduti veve kundah
 faq-question-1-question = Mba’épa oiko spam-gui
 faq-question-1-answer-a-2 = Ojekuaahápe { -brand-name-relay } nomboguaiha spam, ore irũ Amazon SES ñanduti veve ojoko spam ha malware. Hẽe { -brand-name-relay } ombojevyjey ñe’ẽmondo eipota’ỹva, embohekopyahukuaa nde { -brand-name-relay } ñemboheko ejoko hag̃ua umi tovamo’ãha ñe’ẽmondo ombojevyjeýva.
 faq-question-availability-question = Moõpa reiporukuaa { -brand-name-relay }
-faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aipurúvo { -brand-name-relay } ñanduti veve rovamo’ãha
+faq-question-4-question-2 = Ambohovaikuaápa ñe’ẽmondo aiporúvo { -brand-name-relay } ñanduti veve rovamo’ãha
 faq-question-subdomain-characters-question = Mba’e taípa aiporukuaa amoheñói hag̃ua tendatee’i
 faq-question-subdomain-characters-answer-v2 = Eiporukuaa tai inglés michĩva rehegua añoite, papapy ha taiky emoheñói hag̃ua tendatee’i.
 faq-question-browser-support-question = Aiporukuaápa { -brand-name-relay } ambue kundahára térã che pumbyrýpe
 faq-question-browser-support-answer-2 = Hẽe, emoheñoikuaa { -brand-name-relay } rovamo’ãha ambue kundahára térã pumbyry mba’e’okápe emoñepyrũvo tembiapo  nde { -brand-name-relay } rupápe.
 faq-question-longevity-question = Mba’épa oiko { -brand-name-mozilla } ombotýramo { -brand-name-firefox-relay } mba’eporu
 faq-question-longevity-answer-2 = Romomarandúta eikotevẽtaramo emoambue ñanduti veve kundaharape oimeraẽva mba’ete oiporúva { -brand-name-relay } ñanduti veve rovamo’ãha.
-faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oipurúma “mozmail.com?” rendatee
+faq-question-mozmail-question-2 = Mba’érepa ñandutiveve rovamo’ãha oiporúma “mozmail.com?” rendatee
 faq-question-attachments-question = Ikatúpa { -brand-name-firefox-relay } omondojey ñanduti veve marandurenda ijeheguáva reheve
 # Variables:
 #  $size (number): maximum size for attachments in MB

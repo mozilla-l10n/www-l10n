@@ -112,7 +112,7 @@ vpn-shared-platfrom-why-choose = Mba’érepa { -brand-name-mozilla-vpn }
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = Pe { -brand-name-mozilla-vpn } omba’apo ñanduti apopyvusu yvoragua ome’ẽva <a href="{ $policy }">{ -brand-name-mullvad }</a> oipurúvo taperekoite <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } omotenonde nde rekoñemi ha noroñongatúi mba’eveichagua tapykuere.
+vpn-shared-platform-trust-partner-copy = Pe { -brand-name-mozilla-vpn } omba’apo ñanduti apopyvusu yvoragua ome’ẽva <a href="{ $policy }">{ -brand-name-mullvad }</a> oiporúvo taperekoite <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } omotenonde nde rekoñemi ha noroñongatúi mba’eveichagua tapykuere.
 vpn-shared-platform-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
