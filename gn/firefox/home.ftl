@@ -9,8 +9,10 @@ firefox-home-firefox-protect-your = { -brand-name-firefox }: omo’ã nde jeike 
 firefox-home-firefox-is-more-than = { -brand-name-firefox } ndaha’éi kundaha año. Eikuaave { -brand-name-firefox } apopyre rehegua oikuaáva ne mba’ekuaarã poyhúpe ha ojejapo eikekuévo ñandutípe nde rekoñemi hag̃ua.
 # Obsolete string
 firefox-home-the-browser-is-just = Ko kundaha ñepyrũrãnte
+firefox-home-firefox-is-just = { -brand-name-firefox } ñepyrũrã añoite.
 # Obsolete string
 firefox-home-meet-our-family-of = Eikuaa ore apopyre ñemigua aty.
+firefox-home-meet-mozillas-family = Eikuaa { -brand-name-mozilla } apopyrekuéra
 firefox-home-get-trackers-off = Hetave 2,000 tapykuehoha osẽ nde rapégui — { -brand-name-facebook } avei
 firefox-home-know-when-hackers-strike = Eikuaa mba’evaiapoha jeju — eime chugui tenondeve
 firefox-home-start-getting-breach = Og̃uahẽta ndéve marandu ñembyai rehegua
