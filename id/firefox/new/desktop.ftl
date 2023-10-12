@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat ol
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — kami menyebutnya sebagai <a { $attrs }>Janji Data Pribadi</a>: Ambil lebih sedikit. Amankan. Tanpa rahasia. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } tersedia pada semua perangkat Anda; bawa tab, riwayat, dan markah bersama Anda. Yang Anda butuhkan hanyalah <a { $attrs }>akun { -brand-name-firefox }</a>.
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } tersedia pada semua perangkat Anda; bawa tab, riwayat, dan markah bersama Anda. Yang Anda butuhkan hanyalah <a { $attrs }>{ -brand-name-mozilla-account }</a> dan Anda akan mendapatkan akses untuk sinkronisasi serta produk { -brand-name-mozilla } lainnya.
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = Ada pertanyaan? <a { $attrs }>Dukungan { -b
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Anda sudah punya perambannya. Kini dapatkan lebih banyak lagi dari { -brand-name-firefox }.
 
+firefox-desktop-download-watch-for-hackers-with-v3 = Waspadai peretas dengan { -brand-name-mozilla-monitor }, lindungi alamat email Anda dengan { -brand-name-firefox-relay }, dan masih banyak lagi.
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Waspadai peretas dengan { -brand-name-firefox-monitor }, lindungi alamat email Anda dengan { -brand-name-firefox-relay }, dan masih banyak lagi.
 
 # Outdated string
