@@ -8,13 +8,19 @@
 # Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } ñepyrũrã añoite.
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Ha’e umi apopyre aty ojejapóva hekorosã ha ha’eve hag̃ua ñandutípe.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ha’e apopyre aty ojejapóva ne rekorosã ha ndera’eve hag̃ua ñandutípe.
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ha’e <strong>hetave</strong> peteĩ kundaháragui
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } <strong>ñepyrũrã</strong>añoite.
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Eha’ã ne maranduetépa oñembyaikuaápara’e mba’ekuaarã ñemboguápe ha eñemboheraguapy og̃uahẽ hag̃ua kyhyjerã.
 firefox-products-check-for-breaches = Eporandu ñembogua rehegua
