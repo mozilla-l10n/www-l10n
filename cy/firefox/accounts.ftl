@@ -23,7 +23,7 @@ mozilla-account-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-mozilla-acc
 # Obsolete string
 firefox-accounts-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-firefox-account } i:
 # Obsolete string
-firefox-accounts-meet-our-family-of = Dyma'n teulu o gynnyrch sy'n blaenoriaethu preifatrwydd.
+firefox-accounts-meet-our-family-of = Dyma'n casgliad o gynnyrch sy'n blaenoriaethu preifatrwydd.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Anfon tab</a> i ddyfais arall

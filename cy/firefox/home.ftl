@@ -11,7 +11,7 @@ firefox-home-firefox-is-more-than = Mae { -brand-name-firefox } yn fwy na phorwr
 firefox-home-the-browser-is-just = Dim ond man cychwyn yw'r porwr
 firefox-home-firefox-is-just = Dim ond y dechrau yw { -brand-name-firefox }.
 # Obsolete string
-firefox-home-meet-our-family-of = Dyma'n teulu o gynnyrch
+firefox-home-meet-our-family-of = Dyma'n casgliad o gynnyrch
 firefox-home-meet-mozillas-family = Dyma deulu cynnyrch { -brand-name-mozilla }
 firefox-home-get-trackers-off = Tynnwch 2,000+ o dracwyr oddi ar eich llwybr pori - gan gynnwys { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Cewch wybod pryd mae hacwyr yn taro - a chadw un cam o'u blaen
@@ -35,7 +35,7 @@ firefox-home-trade-clickbait-for = Cyfnewidiwch benawdau brith am gynnwys o safo
 firefox-home-learn-more-about-pocket = Dysgu rhagor am { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Diogelwch ar gyfer eich dyfais gyfan, ar bob dyfais.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
-firefox-home-one-login-all-your = Un mewngofnod. Eich holl ddyfeisiau. Teulu o gynnyrch sy'n parchu eich <strong>preifatrwydd</strong>.
+firefox-home-one-login-all-your = Un mewngofnod. Eich holl ddyfeisiau. Casgliad o gynnyrch sy'n parchu eich <strong>preifatrwydd</strong>.
 firefox-home-join-firefox = Ymunwch â { -brand-name-firefox }
 firefox-home-learn-more-about-joining = Dysgu rhagor am ymuno â { -brand-name-firefox }
 firefox-home-get-the-browser-extension = Cael estyniad y porwr

@@ -8,7 +8,7 @@
 # HTML page title
 firefox-browsers-page-title = Llwythwch { -brand-name-firefox } i lawr ar gyfer Bwrdd Gwaith, Symudol neu Fenter
 # Outdated string
-firefox-browsers-get-the-browsers-that-put = Mynnwch y porwyr sy'n rhoi eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
+firefox-browsers-get-the-browsers-that-put = Cael y porwyr sy'n rhoi eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
 # HTML page description
 firefox-browsers-page-desc = Dewiswch rhwng Bwrdd Gwaith, { -brand-name-ios }, { -brand-name-android }, neu gadewch i ni e-bostio dolen llwytho symudol atoch.
 # Outdated string
