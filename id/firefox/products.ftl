@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari sekadar peramban
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } hanyalah permulaan
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Ini merupakan seluruh rangkaian produk yang dirancang untuk membuat Anda lebih aman dan lebih pintar saat daring.
 
+firefox-products-mozillas-family-of-products = Rangkaian produk { -brand-name-mozilla } sepenuhnya dirancang untuk membuat Anda lebih aman dan cerdas saat daring
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>lebih</strong> dari sekadar peramban
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } hanyalah <strong>permulaan</strong>
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = Lihat apakah informasi pribadi Anda telah disusupi dalam pelanggaran data perusahaan, dan daftar untuk mendapatkan peringatan di masa mendatang.
 firefox-products-check-for-breaches = Periksa adanya pelanggaran
 firefox-products-sign-up-for-breach-alerts = Daftar untuk mendapatkan peringatan pelanggaran
+
+# Obsolete string
 firefox-products-firefox-browsers = Peramban { -brand-name-firefox }
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Dapatkan peramban yang memblokir 2000+ pelacak data secara otomatis. Perlindungan Pelacakan yang Ditingkatkan menjadi standar di setiap peramban { -brand-name-firefox }.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
