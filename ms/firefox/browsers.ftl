@@ -16,9 +16,12 @@ firefox-browsers-page-desc = Pilih daripada Desktop, { -brand-name-ios }, { -bra
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Dapatkan privasi yang berhak dinikmati. Perlindungan Penjejakan Dipertingkatkan adalah automatik pada setiap pelayar { -brand-name-firefox }.
 
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Dapatkan <strong>pelayar</strong> yang mengutamakan privasi anda — sentiasa
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Dapatkan pelayar yang mengutamakan privasi anda — <strong>sentiasa</strong>
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Pelayar yang benar-benar peribadi. { -brand-name-firefox } menyekat 2000+ penjejak dalam talian secara automatik daripada mengumpulkan maklumat tentang perkara yang anda lakukan dalam talian.
 firefox-browsers-download-for-desktop = Muat turun untuk Desktop
