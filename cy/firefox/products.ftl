@@ -37,7 +37,7 @@ firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Syrffio, ffrydio a gwneud gwaith ar weinyddion mewn dros 30 o wledydd a chael cysylltiad rhyngrwyd diogel â phersbectif newydd.
 firefox-products-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Diogelwch eich cyfeiriad e-bost go iawn i helpu rheoli eich blwch derbyn.
+firefox-products-protect-your-real = Diogelwch eich cyfeiriad e-bost go iawn er mwyn helpu rheoli eich blwch derbyn.
 firefox-products-learn-more-about-relay = Gwybod rhagor am { -brand-name-firefox-relay }
 # Obsolete string
 firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -55,7 +55,7 @@ firefox-products-send-your-large-files-and = Anfonwch eich ffeiliau mawr a'ch do
 firefox-products-send-a-file = Anfon ffeil
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Darganfyddwch y cynnwys gorau ar y we - a'i ddefnyddio ble bynnag a phryd bynnag y dymunwch.
-firefox-products-get-pocket = Defnyddio { -brand-name-pocket }
+firefox-products-get-pocket = Cael { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Dysgu rhagor am { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefox } a chael y gorau o bob cynnyrch - ar draws pob dyfais.
 # Variables:
@@ -63,4 +63,4 @@ firefox-products-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefo
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-products-already-have-an-account-sign = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgu rhagor</a> am ymuno â { -brand-name-firefox }.
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Eich porwr preifatrwydd pwrpasol gydag diogelwch rhag tracio awtomatig a rhwystro hysbysebion.
+firefox-products-your-dedicated-privacy = Eich porwr preifatrwydd pwrpasol sydd â diogelwch rhag tracio awtomatig a rhwystro hysbysebion.
