@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = プライバシーを保護す
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } の製品は他の製品とは違い、ユーザーのプライバシーを保護するよう設計されています。
 firefox-privacy-hub-learn-about-our-products = 当チームの製品について
 firefox-privacy-hub-firefox-privacy-by-the = プライバシーを保護する製品、{ -brand-name-firefox }
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } は全製品でユーザーのプライバシーを保護します。
+
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } は全製品でユーザーのプライバシーを保護します。
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } は全製品ユーザーのプライバシーを<strong>保護</strong>します。
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } は全製品ユーザーのプライバシーを<strong>保護</strong>します。
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000 以上のトラッカーを自動ブロック
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-accoun
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = 世界各地の { -brand-name-firefox } ユーザーの方々により、毎日 { $trackers } 以上のトラッカーがブロックされています
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = { -brand-name-mozilla-monitor } にメールアドレスを入力されたパスワードは、確認されているデータ侵害に一致しないことを確認した後、直ちに消去されます。(その後のデータ侵害についても個人情報を監視することを Mozilla に対してユーザーが許可した場合を除きます。)
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = { -brand-name-firefox-monitor } にメールアドレスを入力されたパスワードは、確認されているデータ侵害に一致しないことを確認した後、直ちに消去されます。(その後のデータ侵害についても個人情報を監視することを Mozilla に対してユーザーが許可した場合を除きます。)
 firefox-privacy-hub-check-for-breaches = 侵害を確認
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

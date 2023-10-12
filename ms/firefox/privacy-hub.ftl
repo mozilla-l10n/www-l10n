@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = Privasi anda, melalui produk
 firefox-privacy-hub-firefox-products-work-differently = Produk { -brand-name-firefox } berfungsi secara berbeza — kerana ia direka bentuk untuk melindungi privasi anda dahulu.
 firefox-privacy-hub-learn-about-our-products = Ketahui tentang produk kami
 firefox-privacy-hub-firefox-privacy-by-the = Privasi { -brand-name-firefox }, melalui produk
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } melindungi privasi anda pada setiap produk.
+
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } melindungi privasi anda pada setiap produk.
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>melindungi</strong> privasi anda pada setiap produk
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>melindungi</strong> privasi anda bagi setiap produk.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ penjejak disekat — secara automatik
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Jika anda mempunyai { -brand
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Lebih daripada { $trackers } penjejak disekat setiap hari untuk pengguna { -brand-name-firefox } di seluruh dunia
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = Apabila anda memasukkan alamat e-mel anda di { -brand-name-mozilla-monitor }, kami akan segera melupakannya setelah kami memeriksa padanan dalam kebocoran data yang diketahui — melainkan anda mengizinkan kami untuk terus memantau kebocoran baru bagi maklumat peribadi anda.
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Apabila anda memasukkan alamat e-mel anda di { -brand-name-firefox-monitor }, kami akan segera melupakannya setelah kami memeriksa padanan dalam kebocoran data yang diketahui — melainkan anda mengizinkan kami untuk terus memantau kebocoran baru bagi maklumat peribadi anda.
 firefox-privacy-hub-check-for-breaches = Periksa jika ada kebocoran
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
