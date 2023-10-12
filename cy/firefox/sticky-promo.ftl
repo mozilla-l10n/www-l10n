@@ -9,7 +9,7 @@
 # Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = Dyma'n teulu o gynnyrch
-firefox-sticky-promo-meet-mozillas-family = Cwrdd â theulu cynhyrchion { -brand-name-mozilla }
+firefox-sticky-promo-meet-mozillas-family = Dyma deulu cynnyrch { -brand-name-mozilla }
 firefox-sticky-promo-get-the-latest-firefox = Cael y porwr { -brand-name-firefox } diweddaraf.
 # Products List
 firefox-sticky-promo-browsers = Porwyr

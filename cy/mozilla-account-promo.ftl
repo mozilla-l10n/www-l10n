@@ -4,12 +4,12 @@
 
 # Variables
 #   $class (string) = CSS Class name for banner title
-moz-account-promo-title = Un mewngofnodi. <br> <span { $class }>Popeth</span> { -brand-name-mozilla }.
+moz-account-promo-title = Un mewngofnod. <br> <span { $class }>Popeth</span> { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Oes gennych chi gyfrif yn barod? <a { $sign_in_url }>Mewngofnodi</a> neu <a { $learn_more_url }>dysgu rhagor</a> am { -brand-name-mozilla }
-moz-account-get-a-mozilla-account = Cael { -brand-name-mozilla-account }
+moz-account-already-have = Oes gennych chi gyfrif yn barod? <a { $sign_in_url }>Mewngofnodi</a> neu <a { $learn_more_url }>ddarllen rhagor</a> am { -brand-name-mozilla }
+moz-account-get-a-mozilla-account = Cael cyfrif { -brand-name-mozilla-account }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

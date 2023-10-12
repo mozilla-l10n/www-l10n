@@ -9,8 +9,8 @@
 ## Required
 
 whatsnew-account-main-headline = Does dim rhaid cael cyfrif. Ond efallai y byddwch chi eisiau un.
-whatsnew-account-main-lead-in-v2 = Mae porwr { -brand-name-firefox } yn casglu cyn lleied o ddata amdanoch chi, nid oes angen eich cyfeiriad e-bost arnom hyd yn oed. Ond pan fyddwch yn ei ddefnyddio i greu { -brand-name-mozilla-account }, byddwch yn cael mynediad at amrywiaeth eang o gynhyrchion sy'n diogelu preifatrwydd yn ogystal â { -brand-name-firefox }.
-whatsnew-account-mozilla-cta = Cael { -brand-name-mozilla-account }
+whatsnew-account-main-lead-in-v2 = Mae porwr { -brand-name-firefox } yn casglu cyn lleied o ddata amdanoch chi, does dim angen eich cyfeiriad e-bost arnom hyd yn oed. Ond pan fyddwch yn ei ddefnyddio i greu cyfrif { -brand-name-mozilla-account }, byddwch yn cael mynediad at amrywiaeth eang o gynnyrch sy'n diogelu'ch preifatrwydd yn ogystal â { -brand-name-firefox }.
+whatsnew-account-mozilla-cta = Cael cyfrif { -brand-name-mozilla-account }
 
 ##
 

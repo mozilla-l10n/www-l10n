@@ -26,7 +26,7 @@ firefox-home-learn-more-about-lockwise = Dysgu rhagor am { -brand-name-lockwise 
 firefox-home-get-the-respect-you = Cael y <strong>parch</strong> rydych chi'n ei haeddu
 # Obsolete string
 firefox-home-every-single-firefox = Mae pob un cynnyrch { -brand-name-firefox } yn anrhydeddu ein Addewid Data Personol: <strong>Cymryd llai. Cadw'n ddiogel. Dim cyfrinachau.</strong>
-firefox-home-every-single-mozilla = Mae pob cynnyrch { -brand-name-mozilla } yn anrhydeddu ein Haddewid Data Personol: <strong>Cymerwch lai. Cadwch yn ddiogel. Dim cyfrinachau.</strong>
+firefox-home-every-single-mozilla = Mae pob cynnyrch { -brand-name-mozilla } yn cadw at ein Haddewid Data Personol: <strong>Cymryd llai. Cadw'n ddiogel. Dim cyfrinachau.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Rhannwch ffeiliau mawr heb lygaid busneslyd
 # Obsolete string

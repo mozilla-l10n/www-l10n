@@ -13,7 +13,7 @@ firefox-products-firefox-beginning = Dim ond y dechrau yw { -brand-name-firefox 
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Mae'n deulu cyfan o gynnyrch sydd wedi'u cynllunio i'ch cadw'n fwy diogel a chlyfrach ar-lein.
-firefox-products-mozillas-family-of-products = Mae teulu o gynhyrchion { -brand-name-mozilla } i gyd wedi'u cynllunio i'ch cadw'n fwy diogel a doethach ar-lein
+firefox-products-mozillas-family-of-products = Mae teulu o gynnyrch { -brand-name-mozilla } i gyd wedi'u cynllunio i'ch cadw'n fwy diogel a doethach ar-lein
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = Mae { -brand-name-firefox } yn <strong>fwy</strong> na phorwr

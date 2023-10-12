@@ -46,10 +46,10 @@ firefox-privacy-hub-learn-about-our-products = Dysgu am ein cynnyrch
 firefox-privacy-hub-firefox-privacy-by-the = Preifatrwydd { -brand-name-firefox }, yn ôl y cynnyrch
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = Mae { -brand-name-firefox } yn diogelu eich preifatrwydd ym mhob cynnyrch.
-firefox-privacy-hub-mozilla-protects-your-privacy = Mae { -brand-name-mozilla } yn diogelu eich preifatrwydd ym mhob cynnyrch.
+firefox-privacy-hub-mozilla-protects-your-privacy = Mae { -brand-name-mozilla } yn diogelu eich preifatrwydd ym mhob un o'n cynnyrch.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = Mae { -brand-name-firefox } yn <strong>diogelu</strong> eich preifatrwydd ym mhob cynnyrch
-firefox-privacy-hub-mozilla-protects-your-privacy-strong = Mae { -brand-name-mozilla } <strong>yn diogelu</strong> eich preifatrwydd ym mhob cynnyrch.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = Mae { -brand-name-mozilla } <strong>yn diogelu</strong> eich preifatrwydd ym mhob un o'n cynnyrch.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ o dracwyr wedi'u rhwystro - yn awtomatig
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized

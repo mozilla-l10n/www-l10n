@@ -15,8 +15,8 @@ mozsocial-invite-last-name-label = Enw olaf
 mozsocial-invite-your-email-address-label = Eich cyfeiriad e-bost
 mozsocial-invite-country-label = Gwlad
 # "Handle" is jargon for a user name.
-mozsocial-invite-twitter-handle-label = handlen Twitter?
+mozsocial-invite-twitter-handle-label = Enw Twitter?
 # Mastodon is a brand name. "Handle" is jargon for a user name.
-mozsocial-invite-mastodon-handle-label = Dolen Mastodon?
+mozsocial-invite-mastodon-handle-label = Enw Mastodon?
 mozsocial-invite-thanks-youre-on-the-list = Diolch! Rydych chi ar y rhestr
 mozsocial-invite-mozillasocial-is-currently = Mae { -brand-name-mozilla-social } ar gael ar hyn o bryd i grŵp beta caeedig wrth i ni arbrofi, cael mewnbwn gan gyfranogwyr, dysgu, a gwella'r profiad. Byddwn yn e-bostio gwahoddiad atoch wrth i ni ehangu'n raddol.
