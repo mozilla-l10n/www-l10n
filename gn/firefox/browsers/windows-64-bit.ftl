@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Ehecháramo “(32-bit)” ha emohembia
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Emohembiapótarõ { -brand-name-firefox } 32-bits térã emohendávo nde pópe { -brand-name-firefox } 64-bits, ikatúnte emboguejy ha emohembiapojey pe { -brand-name-firefox } { -brand-name-windows } (32-bits térã 64-bits) peg̃uarã mohendaha guive <a href="{ $all }">{ -brand-name-firefox } kuatiarogue mboguejyha opaite jehechaukaha ha ñe’ẽ.</a>
 windows-64-bit-take-control-of-your = Eñangareko ne kundahárare.
+windows-64-bit-download-firefox = Emboguejy { -brand-name-firefox } Windows 64-bit peg̃uarã
