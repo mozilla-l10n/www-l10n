@@ -58,8 +58,8 @@ new-platform-download-mozilla-desc-windows = Κάντε λήψη του { -brand
 new-platform-download-the-fastest-windows = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-windows }
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-windows } έφτασε.
-new-platform-firefox-moves-fast = Το { -brand-name-firefox } κινείται γρήγορα και χειρίζεται προσεκτικά τα δεδομένα σας - χωρίς παρακολούθηση διαφημίσεων και χωρίς επιβράδυνση.
+new-platform-firefox-moves-fast = Το { -brand-name-firefox } κινείται γρήγορα και χειρίζεται προσεκτικά τα δεδομένα σας, χωρίς καταγραφή διαφημίσεων και χωρίς επιβράδυνση.
 new-platform-common-sense-privacy = Απόρρητο κοινής λογικής
-new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σας παρακολουθεί. Επιλέξτε τι και πότε κοινοποιείτε κάτι.
+new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σας παρακολουθεί. Επιλέξτε τι θα μοιραστείτε και πότε θα το μοιραστείτε.
 new-platform-seamless-setup = Απροβλημάτιστη εγκατάσταση
 new-platform-easy-migration = Εύκολη μεταφορά προτιμήσεων και σελιδοδεικτών όταν κάνετε λήψη του { -brand-name-firefox } για { -brand-name-windows }.
