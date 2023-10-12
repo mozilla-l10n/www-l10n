@@ -56,11 +56,15 @@ privacy-passwords-now-all-of = Ahora, todo esto suena bastante intimidante. La m
 # Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Cuando te conectas a { -brand-name-firefox } con tu cuenta de { -brand-name-firefox }, puedes sincronizar todos tus dispositivos y acceder a tus contraseñas desde un navegador móvil { -brand-name-firefox }. Obtén más información sobre <a { $url_sumo-manager }>cómo utilizar el administrador de contraseñas integrado</a> al máximo aquí.
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Cuando te conectas a { -brand-name-firefox } con tu { -brand-name-mozilla-account }, puedes sincronizar todos tus dispositivos y acceder a tus contraseñas desde un navegador móvil { -brand-name-firefox }. Obtén más información sobre <a { $url_sumo-manager }>cómo utilizar el administrador de contraseñas integrado al máximo</a>.
 privacy-passwords-twofactor-authentication-2fa = Autenticación de dos factores (2FA)
 privacy-passwords-2fa-is-a = 2FA es una excelente forma de mejorar tu seguridad. Al configurar una nueva cuenta, algunos sitios te darán la opción de agregar un "segundo factor" al proceso de conexión. A menudo, esto significa vincular tu número de teléfono a la cuenta, por lo que después de ingresar la contraseña, se te pedirá que ingreses un código de seguridad enviado por mensaje de texto. De esta manera, si un pirata informático logra obtener tu contraseña, aún no podrá ingresar a la cuenta, ya que no tiene tu teléfono.
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu cuenta de { -brand-name-firefox }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de lo que puedes obtener más información aquí</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Tu { -brand-name-mozilla-account }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de lo que puedes obtener más información aquí</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA proporciona una seguridad mucho mejor que las contraseñas por sí solas, pero no todos los sitios web lo admiten. Puedes encontrar una lista de sitios web que admiten 2FA en <a { $url_2fa }>https://twofactorauth.org</a>, así como una lista de sitios que no admiten 2FA y las formas en que puede solicitarles que lo hagan.
 privacy-passwords-strong-diverse-and = Fuerte, diversa y multifactorial
