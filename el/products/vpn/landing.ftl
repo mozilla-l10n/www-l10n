@@ -93,7 +93,7 @@ vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 και νεότερο)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 και νεότερα)
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 και νεότερο)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (έκδοση 8 και νεότερη)
@@ -102,7 +102,7 @@ vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (έκδοση 6 και νεότερη)
 # Outdated string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (έκδοση 6 και νεότερες)
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (έκδοση 6 και νεότερη)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number

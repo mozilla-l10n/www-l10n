@@ -22,12 +22,12 @@ vpn-download-for-mac = VPN για { -brand-name-mac-short }
 vpn-download-for-mac-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
-vpn-download-version-requirements = Έκδοση { $version } και νεότερες
+vpn-download-version-requirements = Έκδοση { $version } και νεότερη
 vpn-download-for-linux = VPN για { -brand-name-linux }
 vpn-download-for-linux-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
-vpn-download-for-linux-requirements = Ubuntu { $version } και νεότερα
+vpn-download-for-linux-requirements = Ubuntu { $version } και νεότερο
 vpn-download-for-android = VPN για { -brand-name-android }
 vpn-download-for-android-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-android }
 vpn-download-for-ios = VPN για { -brand-name-ios }
