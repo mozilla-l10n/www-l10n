@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dihasilka
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Selagi internet berkembang dan berubah, { -brand-name-firefox } akan terus memberikan fokus kepada hak ke atas privasi anda - kami memanggilnya <a { $attrs }>Perjanjian Data Peribadi</a>: Ambil sedikit. Pastikan ia selamat. Tiada rahsia. Data, aktiviti, dan kehidupan anda dalam talian dilindungi oleh { -brand-name-firefox }.
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } boleh didapati di semua peranti anda; bawa bersama tab, sejarah dan tandabuku anda. Apa yang anda perlukan hanyalah akaun <a { $attrs }>akaun{ -brand-name-firefox }</a>.
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } boleh didapati di semua peranti anda; bawa bersama tab, sejarah dan tandabuku anda. Anda hanya memerlukan <a { $attrs }>{ -brand-name-mozilla-account }</a> dan anda akan mendapat akses untuk penyelarasan dan lain-lain produk { -brand-name-mozilla }.
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = Ada soalan? <a { $attrs }>Bantuan { -brand-
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Anda sudah pun mempunyai pelayar. Sekarang dapatkan lebih banyak lagi daripada { -brand-name-firefox }.
 
+firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -brand-name-mozilla-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Awasi penggodam dengan { -brand-name-firefox-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
 
 # Outdated string

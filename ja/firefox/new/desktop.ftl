@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } は、{ -
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。私たちはこれを<a { $attrs }>個人データ保護の約束</a>と呼んでいます。掲げているのは、収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } は、すべてのデバイスに対応します。タブや履歴、ブックマークを持ち運びましょう。必要なのは、<a { $attrs }>{ -brand-name-firefox } アカウント</a>だけです。
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } は、すべてのデバイスに対応します。タブや履歴、ブックマークを持ち運びましょう。必要なのは <a { $attrs }>{ -brand-name-mozilla-account }</a> だけで、同期や他の { -brand-name-mozilla } 製品にアクセスできるようになります。
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = お問い合わせがありましたら、<
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 既にブラウザーがインストールされています。{ -brand-name-firefox } なら、もっとたくさんのことができます。
 
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
 
 # Outdated string
