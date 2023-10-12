@@ -14,6 +14,11 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } は、�
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>無料の { -brand-name-mozilla-account }</a> で、すべてのデバイス間でパスワードを安全に同期できます。{ -brand-name-mozilla } のプライバシーを守る製品すべてにアクセスできます。
+
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">無料の { -brand-name-mozilla-account }</a> で、すべてのデバイス間でパスワードを安全に同期できます。
 
 # Obsolete string
