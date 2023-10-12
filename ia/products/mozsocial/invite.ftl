@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
+mozsocial-invite-welcome-to-mozillasocial = Benvenite a { -brand-name-mozilla-social }!
 mozsocial-invite-required-label = Necessari
 mozsocial-invite-first-name-label = Prenomine
 mozsocial-invite-last-name-label = Nomine de familia
