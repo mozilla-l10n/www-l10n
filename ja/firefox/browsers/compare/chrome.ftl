@@ -15,8 +15,14 @@ compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } と {
 
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-v2 = { -brand-name-firefox } には、オンラインプライバシーを守るという Mozilla の揺るぎない取り組みを支持するユーザーが数多くいます。例えば、{ -brand-name-firefox } の最新バージョンには強化型トラッキング防止 (ETP) という機能を搭載し、世界中のすべてのユーザーを対象に既定でオンになっています。ETP は、Facebook やTwitter、LinkedIn といった企業が埋め込むソーシャルトラッカーを含め、2000 個以上のトラッカーをブロックします。また、パスワードが漏洩したり、更新が必要になったりした場合に自動的に通知する <a { $attrs }>{ -brand-name-mozilla-monitor }</a> という機能も統合しています。これらの保護に加えて、{ -brand-name-firefox } のプライベートブラウジングモードでは、履歴や Cookie などの閲覧情報を自動的に削除し、セッション終了後に痕跡を残しません。
+
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } には、オンラインプライバシーを守るという Mozilla の揺るぎない取り組みを支持するユーザーが数多くいます。たとえば、{ -brand-name-firefox } の最新バージョンには強化型トラッキング防止 (ETP) という機能を搭載し、世界中のすべてのユーザーを対象に既定でオンになっています。ETP は、{ -brand-name-facebook } や { -brand-name-twitter }、LinkedIn といった企業が埋め込むソーシャルトラッカーを含め、2000 個以上のトラッカーをブロックします。また、パスワードが漏洩したり、更新が必要になったりした場合に自動的に通知する <a { $attrs }>{ -brand-name-firefox-monitor }</a> という機能も統合しています。これらの保護に加えて、{ -brand-name-firefox } のプライベートブラウジングモードでは、履歴や Cookie などの閲覧情報を自動的に削除し、セッション終了後に痕跡を残しません。
 
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } には、オンラインプライバシーを守るという Mozilla の揺るぎない取り組みを支持するユーザーが数多くいます。例えば、{ -brand-name-firefox } の最新バージョンには強化型トラッキング防止 (ETP) という機能を搭載し、世界中のすべてのユーザーを対象に既定でオンになっています。ETP は、{ -brand-name-facebook } や { -brand-name-twitter }、LinkedIn といった企業が埋め込むソーシャルトラッカーを含め、2000 個以上のトラッカーをブロックします。また、パスワードが漏洩したり、更新が必要になったりした場合に自動的に通知する <a { $attrs }>{ -brand-name-firefox-monitor }</a> という機能も統合しています。これらの保護に加えて、{ -brand-name-firefox } のプライベートブラウジングモードでは、履歴や Cookie などの閲覧情報を自動的に削除し、セッション終了後に痕跡を残しません。
