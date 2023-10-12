@@ -9,7 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - 使用隐私至上
 firefox-home-firefox-is-more-than = { -brand-name-firefox } 不只是浏览器。详细了解 { -brand-name-firefox } 的产品系列 — 尊重您的数据，并随时随地为您的网络浏览保驾护航。
 # Obsolete string
 firefox-home-the-browser-is-just = 全方位网络体验，不止于浏览器
-firefox-home-firefox-is-just = { -brand-name-firefox } 只是一个开始。
+firefox-home-firefox-is-just = { -brand-name-firefox } 只是起点。
 # Obsolete string
 firefox-home-meet-our-family-of = 这是我们的系列产品
 firefox-home-meet-mozillas-family = 认识 { -brand-name-mozilla } 的系列产品
@@ -26,7 +26,7 @@ firefox-home-learn-more-about-lockwise = 详细了解 { -brand-name-lockwise }
 firefox-home-get-the-respect-you = 夺回人人应享有的<strong>尊重</strong>
 # Obsolete string
 firefox-home-every-single-firefox = 每一个 { -brand-name-firefox } 产品，均符合我们对个人数据隐私的承诺：<strong>索取更少、确保安全、绝不隐瞒。</strong>
-firefox-home-every-single-mozilla = 每一个 { -brand-name-mozilla } 产品均符合我们对个人数据隐私的承诺<strong>索取更少。确保安全。绝不隐瞒。</strong>
+firefox-home-every-single-mozilla = 每款 { -brand-name-mozilla } 产品均符合我们对个人数据隐私的承诺：<strong>索取更少、确保安全、绝不隐瞒。</strong>
 # Obsolete string
 firefox-home-share-large-files-without = 安全地分享大文件
 # Obsolete string
