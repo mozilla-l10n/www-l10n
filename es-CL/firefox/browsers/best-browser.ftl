@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Hay formas en que un navegador puede ayudar 
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = La segunda es no almacenar muchos datos del usuario. Los hackers no pueden robar lo que no existe, y es por ello que { -brand-name-firefox } mantiene el mínimo de información de sus usuarios. <a href="{ $data }">{ -brand-name-firefox } sabe</a> si usas el navegador y tu ubicación general, <a href="{ $privacy }">pero desconoce el nombre de tu mascota de la infancia o color favorito.</a>
 best-browser-last-but-not-least = Por último pero no menos importante, un navegador seguro debiera ofrecer herramientas para ayudar a mantener un ojo en tus cuentas. Piensa en alertas que llegan directo a tu correo en caso de que cualquiera de tus cuentas se vea afectada por una filtración, o en íconos que te avisan si un sitio se encuentra cifrado (por ejemplo, para saber si es una buena idea ingresar el número de tu tarjeta de crédito en un sitio de compras).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } ofrece algo nuevo para mantenerte seguro: <a { $monitor }>{ -brand-name-mozilla-monitor } </a>. Es un servicio gratuito que te alertará si hay hacks públicos en tus cuentas y te informará si tus cuentas fueron hackeadas en el pasado. Otra característica interesante es el candado verde. Luce como un pequeño ícono verde en la parte superior izquierda de la ventana del navegador. Si estás en { -brand-name-firefox } y ves el candado verde, significa que el sitio web está encriptado y es seguro. Si el candado es gris, es posible que quieras pensar dos veces antes de ingresar información confidencial.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } ofrece algo nuevo para mantenerte seguro: <a href="{ $monitor }">{ -brand-name-firefox-monitor } </a>. Es un servicio gratuito que te alertará si hay hacks públicos en tus cuentas y te informará si tus cuentas fueron hackeadas en el pasado. Otra característica interesante es el candado verde. Luce como un pequeño ícono verde en la parte superior izquierda de la ventana del navegador. Si estás en { -brand-name-firefox } y ves el candado verde, significa que el sitio web está encriptado y es seguro. Si el candado es gris, es posible que quieras pensar dos veces antes de ingresar información confidencial.

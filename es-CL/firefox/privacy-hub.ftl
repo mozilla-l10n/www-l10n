@@ -46,8 +46,10 @@ firefox-privacy-hub-learn-about-our-products = Aprende sobre nuestros productos
 firefox-privacy-hub-firefox-privacy-by-the = Privacidad de { -brand-name-firefox }, producto a producto
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protege tu privacidad en cada producto.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protege tu privacidad en cada producto.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protege</strong> tu privacidad en cada producto.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protege</strong> tu privacidad en cada producto.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Más de 2.000 rastreadores bloqueados — automáticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -72,6 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Más de { $trackers } rastrea
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Cuando introduces tu dirección de correo en { -brand-name-mozilla-monitor }, la olvidamos inmediatamente después de comprobar si hay coincidencias con filtraciones de datos conocidas, a no ser que nos autorices a seguir controlando nuevas filtraciones de tu información personal.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Cuando introduces tu dirección de correo en { -brand-name-firefox-monitor }, la olvidamos inmediatamente después de comprobar si hay coincidencias con filtraciones de datos conocidas, a no ser que nos autorices a seguir controlando nuevas filtraciones de tu información personal.
 firefox-privacy-hub-check-for-breaches = Busca filtraciones

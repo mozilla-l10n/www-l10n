@@ -7,8 +7,12 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Protege tu vida en línea con productos orientados a la privacidad
 firefox-home-firefox-is-more-than = { -brand-name-firefox } es más que solo un navegador. Aprende más sobre los productos { -brand-name-firefox } que gestionan tus datos con respeto y son construidos con la privacidad en mente a donde sea que vayas en línea.
+# Obsolete string
 firefox-home-the-browser-is-just = El navegador es solo el comienzo
+firefox-home-firefox-is-just = { -brand-name-firefox } es solo el comienzo.
+# Obsolete string
 firefox-home-meet-our-family-of = Conoce a nuestra familia de productos
+firefox-home-meet-mozillas-family = Conoce la familia de productos de { -brand-name-mozilla }
 firefox-home-get-trackers-off = Libérate de más de 2.000 rastreadores — incluyendo { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Entérate de cuándo atacan los hackers — y mantenete un paso adelante
 firefox-home-start-getting-breach = Empieza a recibir reportes de filtraciones
@@ -20,7 +24,9 @@ firefox-home-keep-your-passwords = Mantén seguras tus contraseñas en todos los
 firefox-home-learn-more-about-lockwise = Aprender más sobre { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Recibe el <strong>respeto</strong> que mereces
+# Obsolete string
 firefox-home-every-single-firefox = Cada producto de { -brand-name-firefox } honra nuestra promesa de datos personales: <strong>Tomar menos. Mantenerlo seguro. Sin secretos.</strong>
+firefox-home-every-single-mozilla = Cada producto de { -brand-name-mozilla } honra nuestra promesa de datos personales: <strong>Tomar menos. Mantenerlo seguro. Sin secretos.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Comparte grandes archivos sin intrusos espiando
 # Obsolete string
@@ -52,6 +58,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
