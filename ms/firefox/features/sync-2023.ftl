@@ -12,6 +12,10 @@ features-sync-access-your-firefox-bookmarks = Akses { -brand-name-firefox } pena
 features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox }, anda boleh menyambung semula aktiviti yang anda tinggalkan sewaktu menukar daripada komputer riba ke telefon ke tablet. { -brand-name-firefox } membolehkan anda melihat penanda buku, sejarah pelayaran, kata laluan tersimpan dan banyak lagi tanpa mengira peranti yang anda gunakan.
 
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Daftar untuk { -brand-name-mozilla-account } percuma</a> dan anda boleh menyelaraskan data anda di mana jua anda menggunakan { -brand-name-firefox } dan lain-lain produk { -brand-name-mozilla }.
+
+# Obsolete string
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Daftar untuk { -brand-name-mozilla-account } percuma</a> dan anda boleh menyelaraskan data di mana jua anda menggunakan pelayar { -brand-name-firefox }.
 
 # Obsolete string
