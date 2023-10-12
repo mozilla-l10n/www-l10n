@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } bukan sekadar pelayar
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } hanya satu permulaan
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Ia adalah rangkaian produk yang direka bentuk untuk memastikan anda lebih selamat dan lebih bijak dalam talian.
 
+firefox-products-mozillas-family-of-products = Semua rangkaian produk { -brand-name-mozilla } direka untuk menjaga keselamatan anda dalam talian
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>bukan</strong> sekadar pelayar
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } hanya satu <strong>permulaan</strong>
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = Ketahui jika maklumat peribadi anda telah terjejas dalam kebocoran data korporat dan daftar masuk untuk menerima amaran di masa akan datang.
 firefox-products-check-for-breaches = Periksa jika ada kebocoran
 firefox-products-sign-up-for-breach-alerts = Daftar masuk untuk menerima amaran kebocoran
+
+# Obsolete string
 firefox-products-firefox-browsers = Pelayar { -brand-name-firefox }
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Dapatkan pelayar yang menyekat 2000+ penjejak data secara automatik. Perlindungan Penjejakan Dipertingkatkan didatangkan standard dalam setiap pelayar { -brand-name-firefox }.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }

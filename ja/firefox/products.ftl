@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } は、ただのブラウザーではありません
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } は、始まりに過ぎません。
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox は、オンラインの安全を守り、スマートにする製品ファミリーです。
 
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } は、オンラインの安全を守り、スマートにする製品ファミリです。
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } は、ただのブラウザーではありません<strong></strong>
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } は、<strong>始まり</strong>に過ぎません。
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = 個人情報が企業情報侵害で漏洩していないか確認できます。また登録すると侵害通知を受信できます。
 firefox-products-check-for-breaches = 侵害を確認
 firefox-products-sign-up-for-breach-alerts = 登録して侵害通知を受信
+
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } ブラウザー
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = データトラッカー 2,000 件以上を自動ブロックするブラウザーを入手しましょう。強化型トラッキング防止機能がすべての { -brand-name-firefox } に標準装備されています。
 firefox-products-desktop = デスクトップ
 firefox-products-android = { -brand-name-android }
