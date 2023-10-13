@@ -30,3 +30,4 @@ mobile-focus-take-private-mode = Podignite privatni način rada na sljedeći niv
 mobile-focus-private-browsing-on = „Privatno pretraživanje“ u većini pretraživača nije baš tako privatno. { -brand-name-firefox-focus } je novi nivo gdje je privatnost uvijek zaštićena i podržava ga neprofitna organizacija { -brand-name-mozilla }, koja se bori za vaša prava na internetu.
 mobile-focus-private-browsing-on-v2 = „Privatno pretraživanje“ u većini pretraživača nije baš tako privatno. { -brand-name-firefox-focus } zadano pruža novi nivo zaštite privatnosti, a podržava ga neprofitna organizacija { -brand-name-mozilla }, koja se bori za vaša prava na internetu.
 mobile-focus-tracking-protection = Zaštita od praćenja
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } zadano blokira mnoge uobičajene elemente za praćenje, uključujući one sa društvenih mreža i one koje je teže ukloniti kao npr. { -brand-name-facebook } oglasi.
