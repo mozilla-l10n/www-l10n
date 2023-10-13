@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = Das Geheimnis, um Erraten, Diebstahl oder das 
 privacy-passwords-when-an-attacker = Wenn ein Angreifer die Passwortdatenbank für eine von Ihnen verwendete Website stiehlt (z. B. <a { $url_linkedin }>LinkedIn</a> oder <a { $url_yahoo }>Yahoo</a>), können Sie nur Ihr Passwort für diese Website ändern. Das ist schlimm, aber der Schaden kann viel schlimmer sein, wenn Sie dieses Passwort auf anderen Websites wiederverwendet haben. Dann kann der Angreifer auch auf diese Konten auf diesen Websites zugreifen. Verwenden Sie <strong>immer unterschiedliche Passwörter für unterschiedliche Websites, um den Schaden einzudämmen.</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Verwenden Sie <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a>, um die mit Ihren Konten verknüpften E-Mail-Adressen im Auge zu behalten. Wenn Ihre E-Mail-Adresse bei einem bekannten Datenleck von Unternehmen bekannt wird, werden Sie benachrichtigt und erhalten Schritte zum Schutz des betroffenen Kontos.
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Verwenden Sie <a { $url_monitor }>{ -brand-name-firefox-monitor }</a>, um die mit Ihren Konten verknüpften E-Mail-Adressen im Auge zu behalten. Wenn Ihre E-Mail-Adresse bei einem bekannten Datenleck von Unternehmen bekannt wird, werden Sie benachrichtigt und erhalten Schritte zum Schutz des betroffenen Kontos.
+
 privacy-passwords-security-questions-my = Sicherheitsfragen: Der Mädchenname meiner Mutter lautet „Ff926AKa9j6Q“.
 privacy-passwords-finally-most-websites = Auf den meisten Websites können Sie Ihr Passwort wiederherstellen, wenn Sie es vergessen haben. Normalerweise lassen Sie diese Systeme einige „Sicherheitsfragen“ beantworten, bevor Sie Ihr Passwort zurücksetzen können. <strong>Die Antworten auf diese Fragen müssen genauso geheim sein wie Ihr Passwort.</strong> Andernfalls kann ein Angreifer die Antworten erraten und Ihr Passwort auf etwas setzen, das er kennt.
 privacy-passwords-randomness-can-be = Zufälligkeit kann ein Problem sein, da die Sicherheitsfragen, die Websites häufig verwenden, auch Dinge sind, die die Leute über Sie wissen, wie Ihr Geburtsort, Ihr Geburtstag oder die Namen Ihrer Verwandten, oder die aus Quellen wie Social Media entnommen werden können. Die gute Nachricht ist, dass es der Website egal ist, ob die Antwort echt ist oder nicht – Sie können lügen! Aber lügen Sie produktiv: <strong>Geben Sie lange und zufällige Antworten auf die Sicherheitsfragen</strong>, aufgebaut wie Ihre Passwörter.
 privacy-passwords-get-help-from = Holen Sie sich Hilfe von einem Passwort-Manager
 privacy-passwords-now-all-of = Das klingt alles ziemlich einschüchternd. Der menschliche Verstand ist nicht gut darin, lange Sequenzen zufälliger Buchstaben zu finden, geschweige denn sich an sie zu erinnern. Hier kommt ein Passwort-Manager ins Spiel. Dieser ist direkt in den Browser integriert, sodass { -brand-name-firefox } Sie fragt, ob Sie ein eindeutiges, komplexes Passwort generieren möchten. Speichern Sie dann Ihre Anmeldeinformationen sicher, auf die Sie jederzeit über about:logins zugreifen können.
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Wenn Sie mit Ihrem { -brand-name-firefox }-Konto bei { -brand-name-firefox } angemeldet sind, können Sie über alle Ihre Geräte hinweg synchronisieren und Ihre Passwörter über einen mobilen { -brand-name-firefox }-Browser abrufen. Erfahren Sie hier mehr darüber, <a { $url_sumo-manager }>wie Sie das volle Potenzial des integrierten Passwort-Managers nutzen können.</a>
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Wenn Sie mit Ihrem { -brand-name-mozilla-account }-Konto bei { -brand-name-firefox } angemeldet sind, können Sie über alle Ihre Geräte hinweg synchronisieren und Ihre Passwörter über einen mobilen { -brand-name-firefox }-Browser abrufen. Erfahren Sie hier mehr darüber, <a { $url_sumo_manager }>wie Sie das volle Potenzial des integrierten Passwort-Managers nutzen können.</a>
 privacy-passwords-twofactor-authentication-2fa = Zwei-Faktor-Authentifizierung (2FA)
 privacy-passwords-2fa-is-a = 2FA ist eine hervorragende Möglichkeit, Ihre Sicherheit zu verbessern. Bei der Einrichtung eines neuen Kontos können Sie auf einigen Websites dem Anmeldevorgang einen „zweiten Faktor“ hinzufügen. Dies bedeutet häufig, dass Sie Ihre Telefonnummer mit Ihrem Konto verknüpfen. Nachdem Sie Ihr Passwort eingegeben haben, werden Sie aufgefordert, einen Sicherheitscode einzugeben, der direkt an Sie gesendet wird. Auf diese Weise kann ein Hacker, der es geschafft hat, Ihr Passwort zu erhalten, immer noch nicht in Ihr Konto gelangen, da er Ihr Telefon nicht hat.
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ihr { -brand-name-firefox }-Konto kann beispielsweise mit 2FA geschützt werden, <a { $url_sumo_2fa }>über die Sie hier mehr erfahren können</a>.
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Ihr { -brand-name-mozilla-account }-Konto kann beispielsweise durch 2FA (Zwei-Faktor-Verifizierung) geschützt werden. <a { $url_sumo_2fa }>Hier können Sie mehr darüber erfahren</a>.
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA bietet eine viel bessere Sicherheit als Passwörter allein, wird aber nicht von jeder Website unterstützt. Eine Liste der Websites, die 2FA unterstützen, finden Sie unter <a { $url_2fa }>https://2fa.directory</a> sowie eine Liste der Websites, die 2FA nicht unterstützen, und zudem Möglichkeiten, sie genau dazu aufzufordern.
