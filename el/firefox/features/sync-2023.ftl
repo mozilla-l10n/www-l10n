@@ -9,6 +9,8 @@
 features-sync-firefox-browser-sync = Συγχρονισμός με το { -brand-name-firefox }
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Το { -brand-name-firefox } σάς παρέχει πρόσβαση σε ανοικτές καρτέλες, σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από οποιαδήποτε συσκευή.
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Δημιουργήστε έναν δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> και θα μπορείτε να συγχρονίζετε τα δεδομένα σας σε όποια συσκευή χρησιμοποιείτε το { -brand-name-firefox } και άλλα προϊόντα της { -brand-name-mozilla }.
 # Obsolete string
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Δημιουργήστε έναν δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> και θα μπορείτε να συγχρονίζετε τα δεδομένα σας σε όποια συσκευή χρησιμοποιείτε το { -brand-name-firefox }.
