@@ -35,3 +35,11 @@ mobile-android-go-from-your = Prelazite bez problema sa telefona na laptop, tabl
 mobile-android-search-from-your = Pretražujte sa početnog ekrana vašeg telefona
 mobile-android-no-need-to = Nema potrebe za otvaranjem aplikacije. Dodajte widget za pretragu { -brand-name-firefox } i pretražujte web direktno sa početnog ekrana vašeg uređaja.
 mobile-android-pin-videos-to = Zakačite video zapise na ekran
+mobile-android-pop-videos-out = Povucite video snimke sa web stranica ili plejera i zakačite ih na vrh ekrana telefona da biste ih gledali dok surfujete webom i obavljate zadatke. Uživajte dok radite druge stvari.
+mobile-android-about-mozilla = O { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } postoji da izgradi Internet kao javni resurs dostupan svima jer vjerujemo da je otvoreno i besplatno bolje nego zatvoreno i kontrolisano.  Pravimo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } da promovišemo izbor, transparentnost i kontrolu.
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Brže do interneta sa { -brand-name-firefox } za { -brand-name-android }
+mobile-android-see-all-your-open-tabs = Pogledajte sve svoje otvorene tabove, nedavna pretraživanja i omiljene stranice na jednom mjestu sa { -brand-name-firefox } pretraživačem za { -brand-name-android }.
+mobile-android-own-your-home = Prilagodite početni ekran sebi
+mobile-android-get-to-the-parts = Brže dođite do dijelova interneta do kojih vam je stalo. Odaberite da vidite sve svoje otvorene tabove, nedavna pretraživanja, oznake i omiljene stranice na jednom mjestu.
