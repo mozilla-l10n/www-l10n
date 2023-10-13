@@ -10,4 +10,4 @@ features-eyedropper-select-colors-in-firefox = Eiporavo sa’ykuéra { -brand-na
 # HTML page description
 features-eyedropper-identify-the-exact-color-on-a = Ehecha mba’e sa’ýpa kuatiaroguépe ha emonguatia pe código hexadecimal.
 # Used as an accessible text alternative for an image
-features-eyedropper-screenshot-of-the-eyedropper-tool = Mba’erechaha japyhypyre tembipuru mbosa’yha { -brand-name-firefox }-pe ohechaukáva tepykue hexadecimal peteĩ píxel año ñanduti kuatiaroguépe.
+features-eyedropper-screenshot-of-the-eyedropper-tool = Mba’erechaha japyhypyre tembiporu mbosa’yha { -brand-name-firefox }-pe ohechaukáva tepykue hexadecimal peteĩ píxel año ñanduti kuatiaroguépe.

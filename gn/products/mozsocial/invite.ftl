@@ -15,7 +15,7 @@ mozsocial-invite-last-name-label = Terajoapy
 mozsocial-invite-your-email-address-label = Ñanduti veve kundaharape
 mozsocial-invite-country-label = Tetã
 # "Handle" is jargon for a user name.
-mozsocial-invite-twitter-handle-label = ¿Twitter puruhára?
+mozsocial-invite-twitter-handle-label = ¿Twitter poruhára?
 # Mastodon is a brand name. "Handle" is jargon for a user name.
-mozsocial-invite-mastodon-handle-label = ¿Mastodon puruhára?
+mozsocial-invite-mastodon-handle-label = ¿Mastodon poruhára?
 mozsocial-invite-thanks-youre-on-the-list = ¡Aguyje! Eiméma tysýipe
