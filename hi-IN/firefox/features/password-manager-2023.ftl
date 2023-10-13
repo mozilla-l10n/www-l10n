@@ -14,6 +14,11 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } वे�
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = मुफ़्त <a { $fxa }>{ -brand-name-mozilla-account }</a> की मदद से आप अपने पासवर्डों को अपने सभी डिवाइसों पर सुरक्षित रूप से सिंक कर सकते हैं। आप { -brand-name-mozilla } के अन्य सभी उत्पादों का भी उपयोग सकते हैं, जो निजता का पूरा ध्यान रखते हैं।
+
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">मुफ़्त { -brand-name-mozilla-account }</a> की मदद से आप अपने पासवर्डों को अपने सभी डिवाइसों पर सुरक्षित रूप से सिंक कर सकते हैं।
 
 # Obsolete string
