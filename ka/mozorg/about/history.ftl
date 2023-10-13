@@ -7,13 +7,13 @@
 
 history-history-of-the-mozilla-project = ისტორია პროექტისა { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla }-პროექტი <a href="{ $coderush }">შეიქმნა 1998 წელს</a> <a href="{ $sourcerelease }">{ -brand-name-netscape }-ბრაუზერის ნაკრების, პირველწყარო კოდის გამოშვებით</a>.
 history-it-was-intended-to-harness = იგი მიზნად ისახავდა ინტერნეტში ათასობით პროგრამისტის შემოქმედებითი ენერგიის მიმართვას, ბრაუზერების ბაზარზე, ჯერ არნახული სიახლეების დანერგვისკენ.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
-history-within-the-first-year-new = <a href="{ $firstyear }">პირველივე წელს</a>, ახალი ერთობის წევრებმა მთელი მსოფლიოდან უკვე შეიტანეს წვლილი შესაძლებლობების დამატებით, არსებულის გაუმჯობესებით და ჩაერთვნენ პროექტის მართვისა და დაგეგმვის საქმიანობაში.
+history-within-the-first-year-new = <a href="{ $firstyear }">პირველივე წელს</a> ახალი ერთობის წევრებმა მთელი მსოფლიოდან უკვე შეიტანეს წვლილი შესაძლებლობების დამატებით, არსებულის გაუმჯობესებით და ჩაერთვნენ პროექტის მართვისა და დაგეგმვის საქმიანობაში.
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = ღია საზოგადოების შექმნით, { -brand-name-mozilla }-პროექტი გახდა <a href="{ $stevecase }">მეტად მასშტაბური კომპანია</a>.
