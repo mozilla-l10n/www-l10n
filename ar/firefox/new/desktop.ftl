@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = طوَّرت شركة <a { $attrs
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = رغم انتشار الإنترنت وتغيُّر أنماطه، يُمضي متصفح { -brand-name-firefox } في التركيز على حقك في الخصوصية - وهذا ما نُطلق عليه <a { $attrs }>وعد البيانات الشخصية</a>: نجمع بيانات شخصية أقل. نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا. فبياناتك ونشاطاتك وأوقاتك على الإنترنت محمية حين تستخدم { -brand-name-firefox }.
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = يَعمل مُتصفح { -brand-name-firefox } على جميع أجهزتك؛ وبهذا يُمكنك استخدام علامات التبويب والسِجل والعلامات المرجعية أينما كنت. كل ما تحتاج إليه هو حساب <a { $attrs }>{ -brand-name-firefox }</a>.
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = يتوفّر مُتصفح { -brand-name-firefox } على جميع أجهزتك؛ وبهذا يُمكنك استخدام علامات التبويب والسِجل والعلامات المرجعية أينما كنت. كل ما تحتاجه هو <a { $attrs }>{ -brand-name-mozilla-account }</a> وستتمكّن من الوصول إلى المزامنة وغيرها من منتجات { -brand-name-mozilla }.
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = هل لديك أسئلة؟ يمكنك ال�
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = لقد حصلتَ على المُتصفح بالفعل. فاستمتع الآن بالمزيد من ميزات { -brand-name-firefox }.
 
+firefox-desktop-download-watch-for-hackers-with-v3 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-mozilla-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-firefox-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
 
 # Outdated string

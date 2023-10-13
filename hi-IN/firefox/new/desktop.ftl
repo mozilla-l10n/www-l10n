@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } को <a
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = जैसे-जैसे इंटरनेट का विस्तार और उसमें बदलाव हो रहे हैं, { -brand-name-firefox } निजता के आपके अधिकार पर केंद्रित रहने की अपनी नीति जारी रखे हुए है — हम इसे <a { $attrs }>निजी डेटा संबंधी अपना वचन</a> कहते हैं: कम से कम डेटा लेना। इसे सुरक्षित रखना। कोई सीक्रेट नहीं। आपका डेटा, आपकी इंटरनेट गतिविधि, आपका ऑनलाइन जीवन { -brand-name-firefox } के जरिए सुरक्षित रखा जाता है।
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } आपके सभी डिवाइसों के लिए उपलब्ध है; अपने टैब, हिस्ट्री और बुकमार्क अपने पास सुरक्षित रखें। आपको बस एक <a { $attrs }>{ -brand-name-firefox } अकाउंट</a> की ज़रूरत है।
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } आपके सभी डिवाइसों के लिए उपलब्ध है; अपने टैब, हिस्ट्री और बुकमार्क अपने पास सुरक्षित रखें। आपको बस एक <a { $attrs }>{ -brand-name-mozilla-account }</a> चाहिए और फिर आप सिंक करने की सुविधा और अन्य { -brand-name-mozilla } उत्पादों तक पहुंच हासिल कर सकते हैं।
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = कोई सवाल है? <a { $attrs 
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ब्राउज़र तो आपने डाउनलोड कर ही लिया है। अब { -brand-name-firefox } से और भी ज़्यादा चीज़ें पाएँ।
 
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } से हैकर्स पर नज़र रखें, { -brand-name-firefox-relay } से अपने ईमेल एड्रेस को सुरक्षित रखें, साथ ही और भी बहुत कुछ।
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } से हैकर्स पर नज़र रखें, { -brand-name-firefox-relay } से अपने ईमेल एड्रेस को सुरक्षित रखें, साथ ही और भी बहुत कुछ।
 
 # Outdated string
