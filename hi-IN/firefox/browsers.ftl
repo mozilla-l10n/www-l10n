@@ -16,9 +16,12 @@ firefox-browsers-page-desc = डेस्कटॉप, { -brand-name-ios }, { -b
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = जिस निजता के आप हकदार हैं उसे पाएँ। उन्नत ट्रैकिंग सुरक्षा हर { -brand-name-firefox } ब्राउज़र में स्वतः है।
 
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = वे <strong>ब्राउज़र</strong> पाएँ जो आपकी निजता को सबसे पहले रखते हैं — और हमेशा रखते आए हैं
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = वह ब्राउज़र प्राप्त करें, जो आपकी निजता को सबसे पहले रखता है — और <strong>हमेशा</strong> रखता है
 firefox-browsers-desktop = डेस्कटॉप
 firefox-browsers-seriously-private-browsing = संजीदा निजी ब्राउज़िंग। { -brand-name-firefox } स्वतः 2000 से अधिक ऑनलाइन ट्रैकर्स को आपकी ऑनलाइन गतिविधियों की जानकारी एकत्र करने से रोकता है।
 firefox-browsers-download-for-desktop = डेस्कटॉप के लिए डाउनलोड करें
