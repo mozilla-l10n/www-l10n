@@ -10,6 +10,7 @@ monitor-landing-page-title = { -brand-name-mozilla-monitor } — Προστασ�
 
 ## Get free scan form
 
+monitor-form-enter-email-to-scan = Εισαγάγετε το email προς σάρωση εδώ
 monitor-form-get-free-scan = Δωρεάν σάρωση
 
 ##
