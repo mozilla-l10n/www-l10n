@@ -20,6 +20,7 @@ welcome-page1-check-your-breach-report = Ehecha marandu ñembyaigua
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } ohechauka oñemboguápa ne marandu mba’ekuaarã ñembyaípe ojekuaáva ha omombe’u ndéve oikótaramo tenondeve.
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ohechauka oñemboguápa ne marandu mba’ekuaarã ñembyaípe ojekuaáva, ha ne ñatõi oikótaramo tenondeve.
 welcome-page1-stay-ahead-of-hackers = Eikotapia mba’evaiapoha renonderã

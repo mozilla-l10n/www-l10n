@@ -8,6 +8,7 @@
 # HTML page title
 mozsocial-invite-join-the-waitlist = Ejuaju tysýi oha’ãrõvape { -brand-name-mozilla-social }
 mozsocial-invite-welcome-to-mozillasocial = ¡Eg̃uahẽporã { -brand-name-mozilla-social }-pe!
+mozsocial-invite-please-join-our-waitlist = Ejuaju ore rysýi oha’ãrõva ndive emyanyhẽvo kuatia ko’ag̃aite.
 mozsocial-invite-required-label = Tekotevẽva
 mozsocial-invite-first-name-label = Teratee
 mozsocial-invite-last-name-label = Terajoapy
