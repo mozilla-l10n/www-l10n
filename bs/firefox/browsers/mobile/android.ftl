@@ -31,3 +31,7 @@ mobile-android-got-lots-of = Imate puno otvorenih tabova? Nema problema, organiz
 mobile-android-supercharge-firefox-with = Obogatite { -brand-name-firefox } s dodacima
 mobile-android-addons-are-like = Dodaci su poput moćnih malih alata koje možete dodati svom pretraživaču da biste učinili stvari kao što su povećanje zadanih postavki privatnosti i prilagođavanje vašeg iskustva.
 mobile-android-pick-up-where = Nastavite tamo gdje ste stali
+mobile-android-go-from-your = Prelazite bez problema sa telefona na laptop, tablet i nazad. Sa { -brand-name-firefox } na svim svojim uređajima, možete pristupiti svojim oznakama, lozinkama, sačuvanim prijavama i historiji pretraživanja gdje god da krenete.
+mobile-android-search-from-your = Pretražujte sa početnog ekrana vašeg telefona
+mobile-android-no-need-to = Nema potrebe za otvaranjem aplikacije. Dodajte widget za pretragu { -brand-name-firefox } i pretražujte web direktno sa početnog ekrana vašeg uređaja.
+mobile-android-pin-videos-to = Zakačite video zapise na ekran
