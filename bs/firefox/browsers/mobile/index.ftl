@@ -27,3 +27,4 @@ browsers-mobile-looking-for-a-streamlined = Tražite moderan, super brz mobilni 
 browsers-mobile-compare-mobile-browsers = Uporedite mobilne pretraživače
 browsers-mobile-see-how-firefox-stacks-up = Pogledajte kako se { -brand-name-firefox } slaže s drugim popularnim pretraživačima kada su u pitanju velika tri pitanja: privatnost, mogućnosti i sinhronizacija.
 browsers-mobile-compare = Uporedite
+browsers-mobile-see-how-firefox-for-desktop-stacks = Pogledajte kako { -brand-name-firefox } za desktop slaže do sedam drugih pretraživača.
