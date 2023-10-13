@@ -51,20 +51,34 @@ privacy-passwords-the-secret-to = क्रमरहित पासवर्ड
 privacy-passwords-when-an-attacker = जब कोई हमलावर आपके द्वारा उपयोग की जाने वाली साइट (जैसे <a { $url_linkedin }>LinkedIn</a> या <a { $url_yahoo }>Yahoo</a>) के लिए पासवर्ड डेटाबेस चुराता है, तो आपके पास उस साइट के लिए अपना पासवर्ड बदलने के अलावा कोई विकल्प नहीं होता है। यह बुरा है, लेकिन नुकसान बहुत बुरा हो सकता है यदि आपने उस पासवर्ड को अन्य वेबसाइटों के साथ फिर से उपयोग किया है - तो हमलावर उन साइटों पर भी आपके एकाउंट तक पहुँच सकता है। नुकसान कम करने के लिए, <strong>हमेशा विभिन्न वेबसाइटों के लिए अलग-अलग पासवर्ड का उपयोग करें।</strong>
 
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = अपने एकाउंट से जुड़े ईमेल पतों पर नज़र रखने के लिए <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> का उपयोग करें। यदि आपका ईमेल पता किसी ज्ञात कॉर्पोरेट डेटा उल्लंघन में दिखाई देता है, तो आपको सूचना दी जाएगी और प्रभावित एकाउंट की सुरक्षा के लिए चरण सुझाए जाएँगे।
+
+# Obsolete string
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = अपने एकाउंट से जुड़े ईमेल पतों पर नज़र रखने के लिए <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> का उपयोग करें। यदि आपका ईमेल पता किसी ज्ञात कॉर्पोरेट डेटा उल्लंघन में दिखाई देता है, तो आपको सूचना दी जाएगी और प्रभावित एकाउंट की सुरक्षा के लिए चरण सुझाए जाएँगे।
+
 privacy-passwords-security-questions-my = सुरक्षा प्रश्न : मेरी माता का नाम "Ff926AKa9j6Q" है
 privacy-passwords-finally-most-websites = अंत में, अधिकांश वेबसाइट आपको अपना पासवर्ड दोबारा पाने देती हैं यदि आप इसे भूल गए हैं। आमतौर पर ये सिस्टम आपको अपना पासवर्ड रीसेट करने से पहले कुछ &quot;सुरक्षा प्रश्नों&quot; के उत्तर माँगते हैं। <strong>इन प्रश्नों के उत्तर आपके पासवर्ड की तरह ही गुप्त होने चाहिए।</strong> अन्यथा, एक हमलावर उत्तर का अनुमान लगा सकता है और आपके पासवर्ड को उनके द्वारा बताई गई किसी चीज़ के लिए सेट कर सकता है।
 privacy-passwords-randomness-can-be = अनियमितता एक समस्या हो सकती है, क्योंकि साइटें अक्सर जो सुरक्षा प्रश्न उपयोग करती हैं वे ऐसी चीज़ें हैं जो लोग आपके बारे में जानते हैं, जैसे आपका जन्मस्थान, आपका जन्मदिन, या आपके रिश्तेदारों के नाम, या जो सोशल मीडिया जैसे स्रोतों से पता चल सकती हैं। अच्छी खबर यह है कि वेबसाइट को परवाह नहीं है कि उत्तर वास्तविक है या नहीं — आप झूठ बोल सकते हैं! लेकिन चतुराई से झूठ बोलें : अपने पासवर्ड के समान ही <strong>सुरक्षा प्रश्नों के उत्तर लंबे और क्रमरहित दें</strong>।
 privacy-passwords-get-help-from = पासवर्ड मैनेजर की मदद लें
 privacy-passwords-now-all-of = अब, यह सब डरावना हो सकता है। हमारा दिमाग़ आसानी से क्रमरहित अक्षर नहीं सोच सकता, उन्हें याद रखना तो दूर की बात है। यहीं पर पासवर्ड मैनेजर काम आता है। ब्राउज़र में दाईं ओर निर्मित, { -brand-name-firefox } पूछेगा कि क्या आप एक अनोखा, जटिल पासवर्ड बनाना चाहते हैं, तो अपनी लॉगिन जानकारी को सुरक्षित रूप से सहेज लें, जिसे आप कभी भी देख सकते हैं। इसके लिए 'लॉगिन के बारे में' जाएँ।
 
+
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = जब आप { -brand-name-firefox } में अपने { -brand-name-firefox } एकाउंट से लॉग इन करते हैं, तो आप अपने सभी डिवाइस को सिंक कर सकते हैं और अपने पासवर्ड को { -brand-name-firefox } मोबाइल ब्राउज़र से देख सकते हैं। <a { $url_sumo-manager }>अंतर्निहित पासवर्ड मैनेजर का पूरा लाभ कैसे उठाएँ</a> के बारे में यहाँ अधिक जानें।
+
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = जब आप अपने { -brand-name-mozilla-account } के जरिए { -brand-name-firefox } में लॉगिन करते हैं, तो आप अपने सभी डिवाइस सिंक कर सकते हैं और { -brand-name-firefox } मोबाइल ब्राउज़र से अपने पासवर्ड हासिल कर सकते हैं। इस बारे में और जानें कि <a { $url_sumo_manager }>पहले से मौजूद पासवर्ड मैनेजर का पूरा लाभ कैसे उठाएं</a>।
 privacy-passwords-twofactor-authentication-2fa = दो-कारक प्रमाणीकरण (2FA)
 privacy-passwords-2fa-is-a = 2FA आपकी सुरक्षा बढ़ाने का कारगर तरीका है। एक नया एकाउंट बनाते समय, कुछ साइटें आपको लॉगिन प्रक्रिया में "दूसरा कारक" जोड़ने का विकल्प देंगी। अक्सर, इसका मतलब है कि आप अपने फ़ोन नंबर को अपने एकाउंट से लिंक कर रहे हैं, इसलिए अपना पासवर्ड दर्ज करने के बाद, आपको सीधे आपके पास एक सुरक्षित कोड दर्ज करने के लिए प्रेरित किया जाएगा। इस तरह, यदि कोई हैकर आपका पासवर्ड पाने में कामयाब हो जाता है, तब भी वो आपके एकाउंट में नहीं जा पाएँगे, क्योंकि उनके पास आपका फ़ोन नहीं है।
 
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = उदाहरण के लिए, आपके { -brand-name-firefox } एकाउंट को 2FA के साथ संरक्षित किया जा सकता है, <a { $url_sumo_2fa }>इसके बारे में यहाँ अधिक जान सकते हैं</a>।
+
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = उदाहरण के लिए, आपका { -brand-name-mozilla-account } 2FA से सुरक्षित किया जा सकता है, <a { $url_sumo_2fa }>इसके बारे में आप यहां अधिक जान सकते हैं</a>।
 
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA अकेले पासवर्ड की तुलना में काफी बेहतर सुरक्षा देता है, लेकिन हर वेबसाइट इसको सपोर्ट नहीं करती है। 2FA को सपोर्ट करने वाली वेबसाइटों की सूची आप यहां देख सकते हैं: <a { $url_2fa }>https://2fa.directory</a>, साथ ही आपको उन साइटों की सूची मिल जाएगी जो 2FA को सपोर्ट नहीं करती हैं और आप यह भी जान सकते हैं उन्हें सपोर्ट जोड़ने का अनुरोध कैसे किया जाए।
