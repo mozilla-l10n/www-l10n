@@ -16,9 +16,12 @@ firefox-browsers-page-desc = Choisissez la version pour ordinateur, { -brand-nam
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Obtenez la protection de la vie privée qui vous est due. La protection renforcée contre le pistage est automatique pour chaque navigateur { -brand-name-firefox }.
 
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Installez les <strong>navigateurs</strong> qui respectent votre vie privée — et qui l’ont toujours fait
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Installez le navigateur qui respecte votre vie privée — et qui l’a <strong>toujours</strong> fait
 firefox-browsers-desktop = Ordinateur
 firefox-browsers-seriously-private-browsing = La navigation privée prise au sérieux. { -brand-name-firefox } empêche automatiquement plus de 2 000 traqueurs en ligne de collecter des informations sur ce que vous faites en ligne.
 firefox-browsers-download-for-desktop = Télécharger pour l’ordinateur
