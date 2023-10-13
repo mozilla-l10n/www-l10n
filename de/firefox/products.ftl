@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ist mehr als ein Browser
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } ist nur der Anfang
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Zu Firefox gehört eine ganze Produktfamilie, mit der du sicherer und smarter im Web unterwegs bist.
 
+firefox-products-mozillas-family-of-products = Mit Produkten aus der { -brand-name-mozilla }-Familie sind Sie sicherer und smarter im Web unterwegs
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } – <strong>mehr</strong> als nur ein Browser
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } ist nur der <strong>Anfang</strong>
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = Überprüfe, ob deine persönlichen Daten in Datenlecks anderer Unternehmen gefährdet wurden und melde dich für zukünftige Warnmeldungen an.
 firefox-products-check-for-breaches = E-Mail auf Datenlecks überprüfen
 firefox-products-sign-up-for-breach-alerts = Für Warnmeldungen zu Datenlecks anmelden
+
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } Browser
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Hol dir den Browser, der ganz automatisch mehr als 2000 Online-Tracker blockiert. Den erweiterten Tracking-Schutz gibt es standardmäßig in jedem { -brand-name-firefox } Browser.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }

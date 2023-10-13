@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } est bien plus qu’un navigateur.
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } n’est qu’un début
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
 
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } est bien <strong>plus</strong> qu’un navigateur
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } n’est qu’un <strong>début</strong>
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = Découvrez si vos informations personnelles ont été ciblées lors d’une fuite de données d’entreprise, et recevez des alertes dans le futur.
 firefox-products-check-for-breaches = Vérifier les fuites de données
 firefox-products-sign-up-for-breach-alerts = S’inscrire pour les alertes
+
+# Obsolete string
 firefox-products-firefox-browsers = Navigateur { -brand-name-firefox }
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Installez les navigateurs qui bloquent automatiquement plus de 2 000 traqueurs de données. La protection renforcée contre le pistage est incluse par défaut dans chaque navigateur { -brand-name-firefox }.
 firefox-products-desktop = Ordinateur
 firefox-products-android = { -brand-name-android }
