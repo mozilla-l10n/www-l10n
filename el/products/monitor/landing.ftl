@@ -14,13 +14,17 @@ monitor-form-get-free-scan = Δωρεάν σάρωση
 
 ##
 
+monitor-what-info-could-be = Ποια δεδομένα θα μπορούσαν να κινδυνεύουν;
 monitor-scan-your-email = Σαρώστε το email σας για να ξεκινήσετε δωρεάν
 # This string is followed by a list of media outlets
 monitor-as-seen-in = Όπως φαίνεται στα:
+monitor-sign-up-for-breach-alerts = Εγγραφή για ειδοποιήσεις παραβιάσεων
 
 ## FAQ section
 
 monitor-faq-heading = Συχνές ερωτήσεις
+monitor-all-faq-link = Δείτε όλες τις συχνές ερωτήσεις
+monitor-faq-what-is-a-data-breach-question = Τι ακριβώς είναι μια παραβίαση δεδομένων;
 monitor-faq-what-gets-exposed-question = Ποιες πληροφορίες εκτίθενται στις παραβιάσεις δεδομένων;
 
 ##
