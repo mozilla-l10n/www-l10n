@@ -25,3 +25,5 @@ browsers-mobile-get-enhanced-tracking-protection = Budite sigurni uz poboljšanu
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Tražite moderan, super brz mobilni pretraživač sa funkcijama privatnosti sljedećeg nivoa? { -brand-name-firefox-focus } automatski briše svu vašu historiju pretraživanja od trenutka kada otvorite pretraživač do trenutka kada ga zatvorite.
 browsers-mobile-compare-mobile-browsers = Uporedite mobilne pretraživače
+browsers-mobile-see-how-firefox-stacks-up = Pogledajte kako se { -brand-name-firefox } slaže s drugim popularnim pretraživačima kada su u pitanju velika tri pitanja: privatnost, mogućnosti i sinhronizacija.
+browsers-mobile-compare = Uporedite
