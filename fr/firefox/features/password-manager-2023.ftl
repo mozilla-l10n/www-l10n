@@ -14,6 +14,11 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } stocke d
 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Avec un <a { $fxa }>{ -brand-name-mozilla-account } gratuit</a>, vous pouvez synchroniser de façon sécurisée tous vos mots de passe sur tous vos appareils. Vous pouvez aussi accéder à tous les autres produits { -brand-name-mozilla } respectueux de la vie privée.
+
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Avec un <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuit</a>, vous pouvez synchroniser de façon sécurisée tous vos mots de passe sur tous vos appareils.
 
 # Obsolete string
