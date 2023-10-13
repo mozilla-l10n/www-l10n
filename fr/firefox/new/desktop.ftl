@@ -140,9 +140,14 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a été c
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée. C’est pour cela que nous avons pris un <a { $attrs }>engagement fort en matière de données personnelles</a> : nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
 
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } est disponible sur tous vos appareils ; emportez vos onglets, votre historique et vos marque-pages avec vous. Tout ce dont vous avez besoin, c’est d’un <a { $attrs }>compte { -brand-name-firefox }</a>.
+
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } est disponible sur tous vos appareils ; emportez vos onglets, votre historique et vos marque-pages avec vous. Tout ce dont vous avez besoin, c’est d’un <a { $attrs }>{ -brand-name-mozilla-account }</a> pour accéder à la synchronisation et à d’autres produits { -brand-name-mozilla }.
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -159,6 +164,9 @@ firefox-desktop-download-questions = Vous avez des questions ? <a { $attrs }>L�
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Vous avez déjà le navigateur. Découvrez tout ce que { -brand-name-firefox } peut encore vous offrir.
 
+firefox-desktop-download-watch-for-hackers-with-v3 = Surveillez les pirates avec { -brand-name-mozilla-monitor }, protégez votre adresse e-mail avec { -brand-name-firefox-relay } et découvrez bien d’autres solutions.
+
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Surveillez les pirates avec { -brand-name-firefox-monitor }, protégez votre adresse e-mail avec { -brand-name-firefox-relay } et découvrez bien d’autres solutions.
 
 # Outdated string
