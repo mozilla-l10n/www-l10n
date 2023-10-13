@@ -7,10 +7,17 @@
 ## Required
 
 whatsnew-account-main-headline = Für Privatsphäre brauchst du bei uns kein Konto. Aber vielleicht möchtest du trotzdem eines.
-whatsnew-account-main-lead-in = Der { -brand-name-firefox } Browser sammelt so wenige Daten über Sie, wir brauchen nicht einmal Ihre E-Mail-Adresse. Aber wenn Sie ihn nutzen, um ein { -brand-name-firefox }-Konto einzurichten, können wir Ihre Daten online noch besser schützen.
-whatsnew-account-main-button = Einloggen
+
+whatsnew-account-main-lead-in-v2 = Der { -brand-name-firefox }-Browser sammelt so wenige Daten über Sie, wir brauchen nicht einmal Ihre E-Mail-Adresse. Aber wenn Sie ihn nutzen, um ein { -brand-name-mozilla-account }-Konto einzurichten, erhalten Sie Zugriff auf eine ganze Reihe an Produkten, die Ihre Daten schützen (zusätzlich zu { -brand-name-firefox }).
+whatsnew-account-mozilla-cta = Hol dir einen { -brand-name-mozilla-account }
 
 ##
+
+# Obsolete string
+whatsnew-account-main-lead-in = Der { -brand-name-firefox } Browser sammelt so wenige Daten über Sie, wir brauchen nicht einmal Ihre E-Mail-Adresse. Aber wenn Sie ihn nutzen, um ein { -brand-name-firefox }-Konto einzurichten, können wir Ihre Daten online noch besser schützen.
+
+# Obsolete string
+whatsnew-account-main-button = Einloggen
 
 whatsnew-account-signed-in-headline = Mehr Möglichkeiten. Nutze { -brand-name-firefox } für Mobilgeräte.
 whatsnew-account-signed-in-lead-in = Download-Link an dein Telefon senden.
