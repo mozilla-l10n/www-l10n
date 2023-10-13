@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = خصوصيتك، حسب الم
 firefox-privacy-hub-firefox-products-work-differently = تعمل منتجات { -brand-name-firefox } بطريقة مختلفة — لأنها مُصممة لحماية خصوصيتك أولاً.
 firefox-privacy-hub-learn-about-our-products = معرفة المزيد عن منتجاتنا
 firefox-privacy-hub-firefox-privacy-by-the = خصوصية { -brand-name-firefox } حسب المنتج
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = يَحمي { -brand-name-firefox } خصوصيتك في كل منتج.
+
+firefox-privacy-hub-mozilla-protects-your-privacy = يَحمي { -brand-name-mozilla } خصوصيتك في كل منتج.
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = يحمي { -brand-name-firefox } <strong></strong> خصوصيتك في كل منتج
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = تحرص{ -brand-name-mozilla } <strong>على حماية</strong> خصوصيتك في كل منتج.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = حظر أكثر من 2000 أداة تتبّع — تلقائيًا
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = إذا كان لديك حس�
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = حظر أكثر من { $trackers } أداة تتبع كل يوم لمستخدمي { -brand-name-firefox } في جميع أنحاء العالم
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = عندما تدخل عنوان بريدك الإلكتروني في { -brand-name-mozilla-monitor }، فإننا ننساه على الفور بعد أن نتحقق من وجود تطابق في خروقات البيانات المعروفة — ما لم تأذن لنا بمواصلة مراقبة الانتهاكات الجديدة لمعلوماتك الشخصية.
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = عندما تدخل عنوان بريدك الإلكتروني في { -brand-name-firefox-monitor }، فإننا ننساه على الفور بعد أن نتحقق من وجود تطابق في خروقات البيانات المعروفة — ما لم تأذن لنا بمواصلة مراقبة الانتهاكات الجديدة لمعلوماتك الشخصية.
 firefox-privacy-hub-check-for-breaches = تحقّق من أي خروقات
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

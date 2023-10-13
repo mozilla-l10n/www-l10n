@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = आपकी निजता, 
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } के उत्पाद अलग ढंग से काम करते हैं — क्योंकि इन्हें सबसे पहले आपकी निजता की सुरक्षा करने के लिए ही तैयार किया गया है।
 firefox-privacy-hub-learn-about-our-products = हमारे उत्पादों के बारे में जानें
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } निजता, उत्पाद के अनुसार
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } हर उत्पाद में आपको सुरक्षा देता है
+
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } हर उत्पाद में आपको सुरक्षा देता है
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } हर उत्पाद में आपको <strong>सुरक्षा</strong> देता है
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } हर उत्पाद में आपकी निजता की <strong>रक्षा</strong> करता है।
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000 से भी अधिक ट्रैकर ब्लॉक होते हैं — स्वतः
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = यदि आपके प�
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = प्रतिदिन { $trackers } से अधिक ट्रैकर्स को पूरी दुनिया के { -brand-name-firefox } उपयोगकर्ताओं के लिए ब्लॉक किया जाता है।
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = जब आप { -brand-name-mozilla-monitor } में अपना ईमेल पता डालते हैं, तब डेटा उल्लंघन के ज्ञात मेल की जाँच करने के बाद हम उसे तुरंत भूल जाते हैं — जब तक कि अपनी व्यक्तिगत जानकारी पर संभावित नए उल्लंघनों पर नज़र रखने के लिए आप खुद हमें अधिकृत नहीं करते।
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = जब आप { -brand-name-firefox-monitor } में अपना ईमेल पता डालते हैं, तब डेटा उल्लंघन के ज्ञात मेल की जाँच करने के बाद हम उसे तुरंत भूल जाते हैं — जब तक कि अपनी व्यक्तिगत जानकारी पर संभावित नए उल्लंघनों पर नज़र रखने के लिए आप खुद हमें अधिकृत नहीं करते।
 firefox-privacy-hub-check-for-breaches = उल्लंघनों के लिए देखें
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
