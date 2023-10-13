@@ -68,7 +68,10 @@
 -brand-name-firefox-accounts = حسابات فَيَرفُكس
 -brand-name-firefox-devtools = أدوات فَيَرفُكس للمطوّرين
 -brand-name-firefox-lockwise = فَيَرفُكس Lockwise
+
+# Obsolete brand name
 -brand-name-firefox-monitor = فَيَرفُكس Monitor
+
 -brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
 -brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = فَيَرفُكس Relay
@@ -114,6 +117,7 @@
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = حساب Mozilla
 -brand-name-mozilla-accounts = حسابات Mozilla
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
