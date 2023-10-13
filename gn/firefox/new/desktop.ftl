@@ -133,6 +133,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } omoheñó
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ñanduti okakuaave ha iñambuévo, { -brand-name-firefox } oma’ẽ tapia nde rekoñemi deréchore; rombohéra <a { $attrs }>Mba’ekuaarãtee ñe’ẽme’ẽ</a>: Ombyaty’ive. Oreko tekorosãme. Mba’ekañy’ỹre. Ne mba’ekuaarã, ne rembiapo ñandutípe, nde rekove eikundahávo emo’ãmba { -brand-name-firefox } ndive.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } eiporukuaa opaite mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Opamba’e eikotevẽva ha’e <a { $attrs }>{ -brand-name-firefox } mba’ete</a>.
@@ -147,6 +148,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Eguerekóma kundahára. Ko’ág̃a eñeha’ãta eiporuporãve { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko umi mba’evai’apoha rehe { -brand-name-mozilla-monitor } ndive, emo’ã ne ñe’ẽveve { -brand-name-firefox-relay } ndive ha hetave.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko umi mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñe’ẽveve { -brand-name-firefox-relay } rupive ha hetave.
 # Outdated string
 firefox-desktop-download-watch-for-hackers-with = Ehecha tembiporupyahu mbyaiha { -brand-name-firefox-monitor } ndive, emo’ã ñe’ẽñemi { -brand-name-firefox-lockwise } ndive ha hetave.

@@ -46,6 +46,7 @@ firefox-privacy-hub-learn-about-our-products = Eñemomaranduve ore apopyrére
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } ñemigua, apopyre oĩháicha
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } omo’ã ne ñemigua apopyre peteĩteĩvape.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } omo’ã ne ñemigua apopyre peteĩteĩvape.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>omo’ã</strong> ne ñemigua opaite apopyrépe
 firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>omo’ã</strong> ne rekoñemi peteĩteĩva apopyrépe.
@@ -73,6 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Hetave { $trackers } tapykueh
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Ehaívo ne ñanduti veve kundaharape { -brand-name-mozilla-monitor }-pe, ore resaráima sapy’aitépe rohechajeývo oĩpa mba’ekuaarã ñembyai ojekuaáva, neremoneĩri mba’éramo rohechajeývo ñembyai ipyahúva ne maranduete rehegua.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Ehaívo ne ñanduti veve kundaharape { -brand-name-firefox-monitor }-pe, ore resaráima sapy’aitépe rohechajeývo oĩpa mba’ekuaarã ñembyai ojekuaáva, neremoneĩri mba’éramo rohechajeývo ñembyai ipyahúva ne maranduete rehegua.
 firefox-privacy-hub-check-for-breaches = Ehechajey oĩpa ñembyai

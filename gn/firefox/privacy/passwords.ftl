@@ -43,6 +43,7 @@ privacy-passwords-the-secret-to = Emboykekuaa hag̃ua mba’éichapa oikuaáta, 
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Peteĩ tekoveñaña omondárõ ne ñe’ẽñemi mba’ekuaarã oĩha tenda eiporúva (ha’éva <a { $url_linkedin }>LinkedIn</a> térã <a { $url_yahoo }>Yahoo</a>), nderejapokuaamo’ãi mba’eve emoambue’ỹre ñe’ẽñemi pe tendápe g̃uarã. Péva ivai, hákatu pe ñembyai ikatu ivaive reiporujeýrrõ ñe’ẽñemi ambue ñanduti rendápe; upéicharamo pe tekoveñaña avei oikekuaa ne mba’etépe umi tenda rupive. Emomichĩve hag̃ua ñembyai, <strong>oiporu tapiaite ambuéva ñe’ẽñemi peteĩteĩva ñanduti rendápe.</strong>
+# Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Oiporu <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
 privacy-passwords-security-questions-my = Porandu tekorosãrã: Che sy rerajoapy omenda mboyvegua ha’e “Ff926AKa9j6Q”
@@ -50,12 +51,16 @@ privacy-passwords-finally-most-websites = Ipahápe, heta ñanduti renda omoneĩ 
 privacy-passwords-randomness-can-be = Pe jereguáva iñapañuãikuaa, porandu tekorasãgua oiporúva tenda ha’eha mba’e tapichakuéra ikatukúva oikuaa nde rehegua, oikehápe tenda ne reñoihague, nde arareñói térã umi ne pehenguekuéra réra, térã ikatúva ojeikuaa ava ñandutieta reñoiha rupive. Pe marandu iporãva ha’e ñanduti renda ndoikuaaséi pe mbohováipa ha’e japu térã añetegua — ¡ikatu ijapu! Hákatu ijapu iporã hag̃uáicha: <strong>Embohovái porandu tekorosãgua ipuku ha jereguáva</strong>, ne ñe’ẽñemichagua.
 privacy-passwords-get-help-from = Erekóta pytyvõ ñe’ẽñemi ñangarehágui
 privacy-passwords-now-all-of = Tapicha akãreñói ndaikatupyrypái omoheñói hag̃ua tai rysýi jereguáva, ha hasyvéntema imandu’apa hag̃ua. Ha upépe oike pe ñe’ẽñemi ñangarekohára. Oike pya’e pe kundahárape, { -brand-name-firefox } oporandúta emoheñoisépa peteĩ ñe’ẽñemi ha’eño ha hasýva ijekuaa, uperire oñongatu tekorosãme ne marandu tembiapo ñepyrũ rehegua, ikatuhápe eike ejapose vove about:logins rupive.
+# Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-firefox } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
 privacy-passwords-2fa-is-a = 2FA ha’e peteĩ tembiporu ne rekorosãverã. Embohekóvo peteĩ mba’ete pyahu, oĩ tenda ome’ẽkuaáva ndéve embojuajukuaa hag̃ua “mokõiha mba’e” pe nde jeiképe. Py’ỹinte, kóva omoingese ne pumbyry papapy mba’etére, upévare emoinge rire ne ñe’ẽñemi, ojejeruréta ndéve ehai hag̃ua peteĩ tekorosãrã ayvu og̃uhẽtava ndéve ñe’ẽmondo rupive. Kóicha oikóramo, peteĩ mba’evaiapoha oikuaa sapy’áramo ne ñe’ẽñemi, ndoikekuaamo’ãi ne mba’etépe ndoguerekóire ne pumbyry.
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Ne mba’ete { -brand-name-firefox } pegua, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Nde { -brand-name-mozilla-account }, techapyrãramo, omo’ãkuaa 2FA ndive, <a { $url_sumo_2fa }>ikatukuaa eñemomaranduve ko’ápe</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA ome’ẽve tekorosã umi ñe’ẽñemi añógui, hákatu ndaha’éi opavave ñanduti renda omoneĩva. Ejuhukuaa peteĩ ñanduti renda rysýi omoneĩva 2FA <a { $url_2fa }>https://twofactorauth.org</a>-pe, péicha avei tenda rysýi omoneĩ’ỹva 2FA ha mba’éichapa ejerurekuaa ñepytyvõ.
 privacy-passwords-strong-diverse-and = Imbarete, hekoeta ha multifactorial
