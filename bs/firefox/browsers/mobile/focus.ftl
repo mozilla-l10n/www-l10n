@@ -31,3 +31,9 @@ mobile-focus-private-browsing-on = „Privatno pretraživanje“ u većini pretr
 mobile-focus-private-browsing-on-v2 = „Privatno pretraživanje“ u većini pretraživača nije baš tako privatno. { -brand-name-firefox-focus } zadano pruža novi nivo zaštite privatnosti, a podržava ga neprofitna organizacija { -brand-name-mozilla }, koja se bori za vaša prava na internetu.
 mobile-focus-tracking-protection = Zaštita od praćenja
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } zadano blokira mnoge uobičajene elemente za praćenje, uključujući one sa društvenih mreža i one koje je teže ukloniti kao npr. { -brand-name-facebook } oglasi.
+mobile-focus-see-it-all = Vidite sve brže
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } uklanja elemente za praćenje tako da stranice koje pregledate zahtjevaju manje podataka i učitavaju se mnogo brže. Takođe, zakačite do četiri prečice na vaš početni ekran da dođete do omiljene web stranice još brže.
+# Outdated string
+mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } uklanja elemente za praćenje i omogućava blokatore oglasa tako da stranice koje pregledate zahtjevaju manje podataka i učitavaju se mnogo brže. Takođe, zakačite do četiri prečice na vaš početni ekran da dođete do omiljene web stranice još brže.
+mobile-focus-made-by-mozilla = Napravila { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Vjerujemo da bi svako trebao imati kontrolu nad svojim životom na internetu. To je ono za šta se borimo od 1998.
