@@ -10,6 +10,6 @@ banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
 banner-vpn-cyber-take-20-percent-off = Ko jasy Ciberseguridad rehegua <strong>20% ehepyme’ẽ’ivéta peteĩha arýpe</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
-banner-vpn-cyber-use-coupon-code = Eipuru { $coupon_code } ayvu ejoguapávo
+banner-vpn-cyber-use-coupon-code = Eiporu { $coupon_code } ayvu ejoguapávo
 banner-vpn-cyber-get-annual-sub = Eñemboheraguapy aryguávape
 banner-vpn-cyber-offer-ends = Jejoguakuaa opáta 31 jasypa 2023
