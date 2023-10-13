@@ -54,8 +54,16 @@ firefox-privacy-hub-your-privacy-by-the-product = Privatsphäre in jedem Produkt
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-Produkte funktionieren anders – weil sie von Grund auf so entwickelt werden, dass sie deine Privatsphäre schützen.
 firefox-privacy-hub-learn-about-our-products = Mehr über unsere Produkten erfahren
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } Privatsphäre in jedem Produkt
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } schützt deine Privatsphäre in jedem Produkt.
+
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } schützt deine Privatsphäre in jedem Produkt.
+
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>schützt</strong> deine Privatsphäre in jedem Produkt
+
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>schützt</strong> Ihre Privatsphäre in jedem Produkt.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Wir blocken über 2000 Tracker – automatisch
 
@@ -84,7 +92,14 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Wenn du ein { -brand-name-fi
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Wir blocken jeden Tag weltweit mehr als { $trackers } Tracker für Menschen, die { -brand-name-firefox } nutzen.
 
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+
+firefox-privacy-hub-when-you-enter-your-email-v2 = Wenn du deine E-Mail-Adresse in { -brand-name-mozilla-monitor } eingibst, überprüfen wir sie auf Übereinstimmungen mit bekannten Datenlecks und vergessen sie anschließend gleich wieder. Es sei denn, du berechtigst uns dazu, weiterhin für dich zu checken, ob deine persönlichen Daten in zukünftigen Datenlecks auftauchen.
+
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Wenn du deine E-Mail-Adresse in { -brand-name-firefox-monitor } eingibst, überprüfen wir sie auf Übereinstimmungen mit bekannten Datenlecks und vergessen sie anschließend gleich wieder. Es sei denn, du berechtigst uns dazu, weiterhin für dich zu checken, ob deine persönlichen Daten in zukünftigen Datenlecks auftauchen.
 firefox-privacy-hub-check-for-breaches = E-Mail auf Datenlecks überprüfen
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
