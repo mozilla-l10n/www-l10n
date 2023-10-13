@@ -7,6 +7,8 @@
 
 # page title
 features-sync-firefox-browser-sync = { -brand-name-firefox } kundahára mbojueheha
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Eñemboheraguapy ereko hag̃ua { -brand-name-firefox }</a> reiete ha embojuehekuaa ne mba’ekuaarã eipuruhápe ne kundahára { -brand-name-firefox }.
 features-sync-send-tabs-from-one-device-to-another = Emondo tendayke mba’e’okágui ambuépe
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Ta’ãnga tembiporu’i paravorã { -brand-name-firefox } ohechaukáva poravopyrã “Emondo mba’e’oka rendayke”.

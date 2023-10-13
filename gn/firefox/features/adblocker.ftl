@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }-pe ikatu eiporu ko ñemboheko <a href="{ $privacy }">Ñemigua</a> térã <a href="{ $blocking }">Tetepy jokoha</a> eñangarekove hag̃ua jehapykuehoha oikuave’ẽva ñemurã.
 features-adblocker-choose-your-level-of-protection = Eiporavo ne ñemo’ã ra’ãha
+features-adblocker-to-start-click-on-the-v2 = Eñepyrũ hag̃ua, eikutu ta’ãnga’i asugua kundaharape rendápe oimeraẽva ñanduti kuatiaroguépe ha eiporavo “Ñemo’ã ñemboheko”. Kóva ombojurujáta Ñemboheko Ñemigua rupa ha { -brand-name-firefox } rekorosã tendayke pyahúpe. Ehecháta ovetã hovy iñapysẽva jeporavorã reheve.
 # Obsolete string
 features-adblocker-to-start-click-on-the = Eñepyrũ hag̃ua, eikutu { -brand-name-firefox } poravorãme yvate akatúa gotyo mba’erechahápe. Ojehecha mbohapy tairenda ojo’áripa. Pe poravorã ojepysóvape, eikutu Tetepy jejoko. Ehecháta ovetã apysẽ hovýva heta jeporavopyrã ndive.
 features-adblocker-go-easy-with-standard = Tereho py’aguapýpe Standard reko ndive
