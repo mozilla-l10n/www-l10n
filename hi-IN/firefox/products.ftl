@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } एक ब्राउज़र से कहीं अधिक है
 
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } तो बस शुरुआत है
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = यह अनेक उत्पादों का एक पूरा परिवार है, जिसे आपको ऑनलाइन सुरक्षित और स्मार्ट बनाने के लिए डिज़ाइन किया गया है।
 
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } के पास उत्पादों की एक पूरी शृंखला है और ये सभी उत्पाद इंटरनेट पर आपको ज़्यादा सुरक्षित व ज़्यादा स्मार्ट रखने के लिए तैयार किए गए हैं
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } एक ब्राउज़र से कहीं <strong>अधिक</strong> है
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } तो बस <strong>शुरुआत</strong> है
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = देखें, कहीं कॉर्पोरेट डेटा के उल्लंघन में आपकी निजी जानकारी तो प्रभावित नहीं हुई, और भविष्य में चेतावनी पाने के लिए साइन अप करें।
 firefox-products-check-for-breaches = उल्लंघनों के लिए देखें
 firefox-products-sign-up-for-breach-alerts = उल्लंघनों की चेतावनी पाने के लिए साइन अप करें
+
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } ब्राउज़र
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = ऐसे ब्राउज़र पाएँ जो 2000 से अधिक डेटा ट्रैकर्स को स्वतः ब्लॉक कर देते हैं। हर { -brand-name-firefox } ब्राउज़र में उन्नत ट्रैकिंग सुरक्षा स्टैंडर्ड मिलती है।
 firefox-products-desktop = डेस्कटॉप
 firefox-products-android = { -brand-name-android }

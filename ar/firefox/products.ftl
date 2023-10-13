@@ -4,20 +4,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } هو أكثر من مجرد متصفّح
 
+# HTML page title
+firefox-products-firefox-beginning = ليس { -brand-name-firefox } إلا مجرّد بداية
+
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = إنما هو عائلة كاملة من المنتجات صُمّمت لتبقيك آمنًا وأذكى على الإنترنت.
 
+firefox-products-mozillas-family-of-products = تم تصميم جميع عائلة منتجات { -brand-name-mozilla } لتجعلك أكثر أمانًا وذكاءً على الإنترنت
+
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } هو<strong>أكثر</strong> من مجرد متصفّح
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = ليس { -brand-name-firefox } إلا مجرّد <strong>بداية</strong>
+
+
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
 firefox-products-see-if-your-personal-information = تحقّق مما إذا كانت معلوماتك الشخصية قد اختُرقت في تسريب لبيانات إحدى الشركات، واشترك لتلقي التنبيهات مستقبلاً.
 firefox-products-check-for-breaches = تحقق من أي خروقات
 firefox-products-sign-up-for-breach-alerts = اشترك لتلقي تنبيهات بالخروقات
+
+# Obsolete string
 firefox-products-firefox-browsers = متصفحات { -brand-name-firefox }
+
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = نزّل المتصفّحات التي تحجب ما يزيد عن 2000 مخترق بيانات تلقائيًا. ويأتي مع كل متصفّح { -brand-name-firefox } ميزة "الحماية المُوسّعة من التتبع".
 firefox-products-desktop = أجهزة كمبيوتر سطح المكتب
 firefox-products-android = { -brand-name-android }
