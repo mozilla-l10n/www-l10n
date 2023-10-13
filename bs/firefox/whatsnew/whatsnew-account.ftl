@@ -9,11 +9,15 @@
 ## Required
 
 whatsnew-account-main-headline = Nije potreban račun. Ali možda želite jedan.
-whatsnew-account-main-lead-in = { -brand-name-firefox } pretraživač prikuplja tako malo podataka o vama da nam čak ni ne treba vaša email adresa. Ali kada ga koristite za kreiranje { -brand-name-firefox } računa, možemo zaštititi vašu privatnost kroz veći dio vašeg online života.
-whatsnew-account-main-button = Prijava
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } pretraživač prikuplja tako malo podataka o vama da nam čak ni ne treba vaša email adresa. Ali kada ga koristite za kreiranje { -brand-name-mozilla-account }, dobijate pristup čitavom nizu proizvoda za zaštitu privatnosti pored { -brand-name-firefox }a.
+whatsnew-account-mozilla-cta = Nabavite { -brand-name-mozilla-account }
 
 ##
 
+# Obsolete string
+whatsnew-account-main-lead-in = { -brand-name-firefox } pretraživač prikuplja tako malo podataka o vama da nam čak ni ne treba vaša email adresa. Ali kada ga koristite za kreiranje { -brand-name-firefox } računa, možemo zaštititi vašu privatnost kroz veći dio vašeg online života.
+# Obsolete string
+whatsnew-account-main-button = Prijava
 whatsnew-account-signed-in-headline = Uradite više. Koristite { -brand-name-firefox } za mobilne uređaje.
 whatsnew-account-signed-in-lead-in = Pošalji link za preuzimanje na svoj mobitel.
 whatsnew-account-signed-in-qr-title = Preuzmite { -brand-name-firefox } za vaš pametni telefon i tablet.

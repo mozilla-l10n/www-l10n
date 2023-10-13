@@ -13,8 +13,11 @@ firefox-browsers-get-the-browsers-that-put = Nabavite pretraživače koji vašu 
 firefox-browsers-page-desc = Odaberite između desktopa, { -brand-name-ios }, { -brand-name-android } ili nam dopustite da vam pošaljemo link za preuzimanje putem emaila.
 # Outdated string
 firefox-browsers-get-the-privacy-you-deserve = Dobijte privatnost koju zaslužujete. Poboljšana zaštita od praćenja je automatska u svakom { -brand-name-firefox } pretraživaču.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Nabavite <strong>pretraživače</strong> koji vašu privatnost stavljaju na prvo mjesto — i uvijek jesu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Nabavite pretraživač koji vašu privatnost stavlja na prvo mjesto — i <strong>uvijek</strong> jeste
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Stvarno privatno pretraživanje. { -brand-name-firefox } automatski blokira 2000+ online programa za praćenje da prikupljaju informacije o tome šta radite na mreži.
 firefox-browsers-download-for-desktop = Preuzmite za desktop
