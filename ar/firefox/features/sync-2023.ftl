@@ -12,6 +12,10 @@ features-sync-access-your-firefox-bookmarks = استخدم أي جهاز للو�
 features-sync-with-firefox-you-can-pick-up-where = استخدم متصفح { -brand-name-firefox } لتبدأ من حيث توقفت عند التبديل من كمبيوتر مكتبي إلى هاتف محمول إلى كمبيوتر لوحي.إذ يُتيح لك متصفح { -brand-name-firefox } رؤية الإشارات المرجعية وسجل التصفح وكلمات المرور المحفوظة وغيرها المزيد بغض النظر عن الجهاز الذي تستخدمه.
 
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>اشترك لتحصل على { -brand-name-mozilla-account }</a> مجاني وستتمكّن من مزامنة بياناتك في كل مكان تستخدم فيه متصفح { -brand-name-firefox } ومنتجات { -brand-name-mozilla } الأخرى.
+
+# Obsolete string
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">اشترك لتحصل على { -brand-name-mozilla-account } مجاني</a> وستتمكّن من مزامنة بياناتك في كل مكان تستخدم فيه متصفح { -brand-name-firefox }.
 
 # Obsolete string
