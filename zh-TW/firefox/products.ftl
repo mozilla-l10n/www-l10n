@@ -9,18 +9,18 @@
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器
 # HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } 只是個開始
+firefox-products-firefox-beginning = { -brand-name-firefox } 只是起點。
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox 有一系列設計來讓您在線上更聰明，並保護安全的產品。
-firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 的系列產品都設計來讓您在線上更聰明並保護安全
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 讓您在線上更聰明，並保護安全的產品
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } <strong>不只是</strong>瀏覽器
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } 只是<strong>開始</strong>
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } 只是<strong>起點</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = 看看您的個人資訊是否曾遭其他公司外洩，並可訂閱警報通知。
 firefox-products-check-for-breaches = 檢查是否有外洩事件

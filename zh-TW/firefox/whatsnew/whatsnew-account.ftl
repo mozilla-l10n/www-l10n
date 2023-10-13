@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = 無需帳號，但是您可能會想擁有一個。
-whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } 瀏覽器只會收集關於您很少的資料甚至不需要輸入您的電子郵件地址。但若使用它註冊 { -brand-name-mozilla-account }就可以使用除了 { -brand-name-firefox } 之外的一系列隱私保護產品。
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } 瀏覽器只收集關於您很少的資料，甚至不需要輸入 E-Mail 信箱也能使用。但註冊 { -brand-name-mozilla-account }後，就可以使用除 { -brand-name-firefox } 之外，一系列保護隱私的產品。
 whatsnew-account-mozilla-cta = 註冊 { -brand-name-mozilla-account }
 
 ##
