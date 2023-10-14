@@ -16,7 +16,7 @@ newsletters-read-all-about-it-in-our-newsletter = Découvrez notre <span>lettre 
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Abonnez-vous ici pour rester au courant des actualités de { -brand-name-mozilla }, agir pour un Internet plus sain et prendre les bonnes décisions pour votre vie numérique.
 
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Abonnez-vous pour ne rien manquer de l’actualité { -brand-name-mozilla }. C’est le meilleur moyen de rester en contact avec nous !
 
 # Page title the subscription confirmation page
@@ -115,7 +115,7 @@ newsletters-were-sorry-to-see-you-go = C’est triste de vous voir partir…
 newsletters-would-you-mind-telling-us = Pourriez-vous expliquer les raisons de votre choix ?
 newsletters-other-v2 = Autre… (500 caractères max.)
 
-# Outdated string
+# Obsolete string
 newsletters-other = Autre…
 
 newsletters-submit = Envoyer
@@ -261,7 +261,7 @@ newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Le programme précédent pour les universités (de 2008 à 2011) prend un nouveau souffle, et devient le programme des étudiants et étudiantes ambassadeurs de { -brand-name-firefox }.
 
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Le programme précédent pour les universités (de 2008 à 2011) prend un nouveau souffle, et devient le programme des étudiants ambassadeurs de Mozilla.
 

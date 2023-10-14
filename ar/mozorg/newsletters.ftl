@@ -16,7 +16,7 @@ newsletters-read-all-about-it-in-our-newsletter = اطلّع على كل الت�
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = اشترك هنا لتبقى على اطّلاع على أخبار { -brand-name-mozilla }، واتخذ إجراءً من أجل إنترنت أكثر صحة، وكن أكثر ذكاءً في حياتك على الإنترنت.
 
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = اشترك للحصول على التحديثات ومواكبة كل جديد من خلال أخبار { -brand-name-mozilla }. إنها الطريقة المثالية للبقاء على اتصال!
 
 # Page title the subscription confirmation page
@@ -115,7 +115,7 @@ newsletters-were-sorry-to-see-you-go = نأسف لمغادرتك.
 newsletters-would-you-mind-telling-us = هل ترغب في إطلاعنا على أسباب مُغادرتك؟
 newsletters-other-v2 = غير ذلك… (500 حرف كحد أقصى)
 
-# Outdated string
+# Obsolete string
 newsletters-other = أخرى…
 
 newsletters-submit = إرسال
@@ -261,7 +261,7 @@ newsletters-student-reps = مُمثلو الطلاب
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = البرنامج الجامعي السابق (2008-2011) والذي أعيد إطلاقه الآن، بعد توقفه، تحت مُسمى { -brand-name-firefox } برنامج الطالب السفير.
 
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = البرنامج الجامعي السابق (2008-2011) والذي أعيد إطلاقه الآن، بعد توقف، تحت مُسمى برنامج سفراء فيَرفُكس الطلاب.
 

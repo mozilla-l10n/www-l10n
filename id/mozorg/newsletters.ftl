@@ -16,7 +16,7 @@ newsletters-read-all-about-it-in-our-newsletter = Baca selengkapnya di <span>bul
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Berlangganan di sini untuk mengikuti berita terkini mengenai { -brand-name-mozilla }, mengambil tindakan untuk internet yang lebih sehat, dan lebih pintar mengenai kehidupan daring Anda.
 
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Berlangganan pembaruan dan ikuti terus berita { -brand-name-mozilla }. Ini cara sempurna bagi kita untuk tetap terhubung!
 
 # Page title the subscription confirmation page
@@ -115,7 +115,7 @@ newsletters-were-sorry-to-see-you-go = Kami menyayangkan kepergian Anda.
 newsletters-would-you-mind-telling-us = Maukah Anda memberi tahu kami mengapa Anda pergi?
 newsletters-other-v2 = Lainnya… (maksimum 500 karakter)
 
-# Outdated string
+# Obsolete string
 newsletters-other = Lainnya…
 
 newsletters-submit = Kirim
@@ -261,7 +261,7 @@ newsletters-student-reps = Perwakilan Mahasiswa
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Program Universitas sebelumnya dari 2008-2011, sekarang dihentikan dan diluncurkan kembali sebagai program Duta Mahasiswa { -brand-name-firefox }.
 
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Program Universitas sebelumnya dari 2008-2011, sekarang dihentikan dan diluncurkan kembali sebagai program Duta Mahasiswa Firefox.
 

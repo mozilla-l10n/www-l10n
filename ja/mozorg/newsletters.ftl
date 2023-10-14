@@ -16,7 +16,7 @@ newsletters-read-all-about-it-in-our-newsletter = 盛りだくさんの Mozilla 
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = { -brand-name-mozilla } のニュースや、より健全なインターネットのための対策、より安全なオンライン生活などの最新情報をお読みいただくには、こちらで購読登録してください。
 
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = { -brand-name-mozilla } の最新情報をご覧いただくには、こちらで購読登録してください。ニュースレターは連絡手段として最適です。
 
 # Page title the subscription confirmation page
@@ -115,7 +115,7 @@ newsletters-were-sorry-to-see-you-go = ご満足いただけなくて残念で�
 newsletters-would-you-mind-telling-us = よろしければ、停止理由をお知らせください。
 newsletters-other-v2 = その他
 
-# Outdated string
+# Obsolete string
 newsletters-other = その他
 
 newsletters-submit = 送信
@@ -261,7 +261,7 @@ newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = 2008 年～2011 年の大学の課程で、現在は廃止され、{ -brand-name-firefox } Student Ambassadors として再開されました。
 
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = 2008 年～2011 年の大学の課程で、現在は廃止され、Firefox Student Ambassadors として再開されました。
 
