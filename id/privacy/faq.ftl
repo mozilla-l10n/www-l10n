@@ -24,7 +24,7 @@ privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, peramban web
 privacy-faq-really-you-dont-collect-my-browsing = Sungguh, Anda tidak mengambil riwayat penjelajahan saya?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. Sebagai pembuat peramban, itu sebenarnya tantangan besar bagi kami. Itulah alasannya kami membuat alat pilihan, yang memungkinkan pengguna yang tertarik untuk memberikan kami wawasan mengenai penjelajahan web mereka. Jika Anda menyinkronkan riwayat penjelajahan Anda di seluruh pemasangan { -brand-name-firefox }, kami tidak mengetahui apa riwayat itu — karena itu dienkripsikan oleh perangkat Anda.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. Sebagai pembuat peramban, itu sebenarnya tantangan besar bagi kami. Itulah alasannya kami membuat alat pilihan, seperti <a href="{ $link }">Pioneer { -brand-name-firefox }</a>, yang memungkinkan pengguna yang tertarik untuk memberikan kami wawasan mengenai penjelajahan web mereka. Jika Anda menyinkronkan riwayat penjelajahan Anda di seluruh pemasangan { -brand-name-firefox }, kami tidak mengetahui apa riwayat itu — karena itu dienkripsikan oleh perangkat Anda.
