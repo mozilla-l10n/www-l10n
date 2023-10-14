@@ -17,12 +17,12 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Kunjungi <a href="{ $url }">{ $link_copy }</a> bagi mendapatkan { -brand-name-firefox } untuk Desktop.
 
-# Outdated string
+# Obsolete string
 facebook-container-the-facebook-container-extension = Sambungan { -brand-name-facebook-container } tidak tersedia pada peranti mudah alih.
 
 facebook-container-get-firefox-android-ios = Dapatkan { -brand-name-firefox } untuk { -brand-name-android } dan { -brand-name-ios } sekarang.
 
-# Outdated string
+# Obsolete string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Cuba <strong>{ -brand-name-firefox-focus }</strong> , pelayar privasi untuk { -brand-name-android } dan { -brand-name-ios }.
 

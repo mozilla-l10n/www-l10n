@@ -17,12 +17,12 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Gehe zu <a href="{ $url }">{ $link_copy }</a>, um { -brand-name-firefox } für Desktop herunterzuladen.
 
-# Outdated string
+# Obsolete string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ist nicht für Mobilgeräte verfügbar.
 
 facebook-container-get-firefox-android-ios = Lade dir jetzt { -brand-name-firefox } für { -brand-name-android } und { -brand-name-ios } herunter.
 
-# Outdated string
+# Obsolete string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = Wie wärs mit <strong>{ -brand-name-firefox-focus }</strong>? Dein Browser mit Privatsphäre-Schutz. Für { -brand-name-android } und { -brand-name-ios }.
 

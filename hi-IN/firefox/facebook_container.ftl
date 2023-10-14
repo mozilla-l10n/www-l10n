@@ -17,12 +17,12 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox } पाने के लिए <a href="{ $url }">{ $link_copy }</a> पर जाएँ।
 
-# Outdated string
+# Obsolete string
 facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } एक्सटेंशन मोबाइल उपकरणों पर उपलब्ध नहीं है।
 
 facebook-container-get-firefox-android-ios = { -brand-name-android } और { -brand-name-ios } के लिए { -brand-name-firefox } अभी पाएँ।
 
-# Outdated string
+# Obsolete string
 # For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
 facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong> { -brand-name-android } और { -brand-name-ios } लिए निजता ब्राउज़र आजमाएँ।
 
