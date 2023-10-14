@@ -9,7 +9,7 @@ vpn-shared-subscribe-link = Installer { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rejoindre la liste d’attente
 vpn-shared-sign-in-link = Déjà abonné·e ?
 
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Nous proposons actuellement { -brand-name-mozilla-vpn } en Autriche, en Belgique, au Canada, en Finlande, en France, en Allemagne, en Irlande, en Italie, en Malaisie, aux Pays-Bas, en Nouvelle-Zélande, à Singapour, en Espagne, en Suède, en Suisse, au Royaume-Uni et aux États-Unis.
 
 vpn-shared-available-countries-v6 = Nous proposons actuellement { -brand-name-mozilla-vpn } en Autriche, en Belgique, en Bulgarie, au Canada, en Croatie, à Chypre, en République tchèque, au Danemark, en Estonie, en Finlande, en France, en Allemagne, en Hongrie, en Irlande, en Italie, en Lettonie, en Lituanie, au Luxembourg, en Malaisie, à Malte, aux Pays-Bas, en Nouvelle-Zélande, en Pologne, au Portugal, en Roumanie, à Singapour, en Slovénie, en Slovaquie, en Espagne, en Suède, en Suisse, au Royaume-Uni et aux États-Unis.
@@ -85,12 +85,12 @@ vpn-shared-pricing-recommended-offer = Notre recommandation
 
 vpn-shared-pricing-plan-12-month-v2 = Abonnement annuel
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 mois
 
 vpn-shared-pricing-plan-monthly-v2 = Abonnement mensuel
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = 1 mois
 
 # Variables:
@@ -102,13 +102,13 @@ vpn-shared-pricing-monthly = { $amount }<span>/mois</span>
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mois + taxes</span>
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Optez pour un abonnement de 6 mois
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Optez pour un abonnement de 12 mois
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Optez pour un abonnement de 6 mois
 
 vpn-shared-pricing-get-12-month-v2 = Optez pour un abonnement de 12 mois

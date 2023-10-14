@@ -9,7 +9,7 @@ vpn-shared-subscribe-link = Jetzt { -brand-name-mozilla-vpn } nutzen
 vpn-shared-waitlist-link = Der Warteliste beitreten
 vpn-shared-sign-in-link = Bereits Kunde?
 
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Deutschland, Finnland, Frankreich, Irland, Italien, Kanada, Malaysia, Neuseeland, den Niederlanden, Schweden, der Schweiz, Singapur, Spanien, dem Vereinigten Königreich, den USA und Österreich an.
 
 vpn-shared-available-countries-v6 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Bulgarien, Deutschland, Dänemark, Estland, Finnland, Frankreich, Irland, Italien, Kanada, Kroatien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Neuseeland, den Niederlanden, Polen, Portugal, Rumänien, Schweden, der Schweiz, Singapur, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, den USA, dem Vereinigten Königreich, Zypern und Österreich an.
@@ -85,12 +85,12 @@ vpn-shared-pricing-recommended-offer = Empfehlung
 
 vpn-shared-pricing-plan-12-month-v2 = 12-Monats-Abo
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 Monate
 
 vpn-shared-pricing-plan-monthly-v2 = Monatliches Abo
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = 1 Monat
 
 # Variables:
@@ -102,13 +102,13 @@ vpn-shared-pricing-monthly = { $amount }<span>/Monat</span>
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/Monat zzgl. Steuern</span>
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 6-Monats-Abo wählen
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 12-Monats-Abo wählen
 
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = 6-Monats-Abo wählen
 
 vpn-shared-pricing-get-12-month-v2 = 12-Monats-Abo wählen
