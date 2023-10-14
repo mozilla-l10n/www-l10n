@@ -13,7 +13,7 @@ mission-our-mission-is-to-promote-openness = مُهمتنا هي تشجيع ال
 
 mission-at-mozilla-were-a-global-community-v2 = نحن في { -brand-name-mozilla } نُمثل مجتمعًا عالميًا من التقنيين والمفكرين والبناة الذين يعملون معًا للحفاظ على الإنترنت نابضًا بالحياة ويسهُل الوصول إليه، بحيث يُمكن للأشخاص في جميع أنحاء العالم أن يكونوا مُساهمين ومبدعين للويب.
 
-# Outdated string
+# Obsolete string
 mission-at-mozilla-were-a-global-community = نحن في Mozilla نُمثل مجتمعًا عالميًا من التقنيين والمفكرين والبناة الذين يعملون معًا للحفاظ على الإنترنت نابضًا بالحياة ويسهُل الوصول إليه، بحيث يُمكن للأشخاص في جميع أنحاء العالم أن يكونوا مُساهمين ومبدعين للويب.
 
 mission-we-believe-this-act-of-human-collaboration = نعتقد أن هذا العمل من التعاون البشري عبر مِنصة مفتوحة أمر ضروري للنمو على مستوى الفرد والجماعة.
@@ -22,7 +22,7 @@ mission-we-believe-this-act-of-human-collaboration = نعتقد أن هذا ال
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = اقرأ <a href="{ $url }">بيان { -brand-name-mozilla }</a> لِمعرفة المزيد عن القيم والمبادئ التي تسترشد بها مُهمتنا.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = اقرأ <a href="{ $url }">بيان Mozilla</a> لمعرفة المزيد عن القيم والمبادئ التي تسترشد بها مُهمتنا.
@@ -45,5 +45,5 @@ mission-governance = الحوكمة
 
 mission-our-structure-organization-and-the-v2 = هيكلنا ومُؤسستنا ومُجتمع { -brand-name-mozilla } الكبير
 
-# Outdated string
+# Obsolete string
 mission-our-structure-organization-and-the = بُنيتنا ومُؤسستنا ومجتمع Mozilla

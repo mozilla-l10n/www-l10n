@@ -13,7 +13,7 @@ mission-our-mission-is-to-promote-openness = Misi kami adalah untuk menggalakkan
 
 mission-at-mozilla-were-a-global-community-v2 = Di { -brand-name-mozilla }, kami merupakan komuniti global ahli teknologi, pemikir dan pembangun yang bekerjasama menjadikan internet mudah diakses, agar semua orang di dunia dapat menjadi penyumbang yang bermaklumat dan pencipta di internet.
 
-# Outdated string
+# Obsolete string
 mission-at-mozilla-were-a-global-community = Di Mozilla, kami merupakan satu komuniti global ahli teknologi, pemikir dan pembangun yang bekerjasama menjadikan Internet hidup dan mudah diakses, agar semua orang di dunia dapat menjadi penyumbang yang bermaklumat dan pencipta di Internet.
 
 mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kerjasama manusia melalui platform terbuka adalah penting demi pertumbuhan individu dan masa depan kita bersama.
@@ -22,7 +22,7 @@ mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kerja
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Bacalah <a href="{ $url }">Manifesto { -brand-name-mozilla }</a> dan ketahui lebih banyak tentang nilai-nilai dan prinsip-prinsip yang memandu kami mengejar misi ini.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn = Bacalah <a href="{ $url }">Manifesto Mozilla</a> dan ketahui lebih banyak tentang nilai-nilai dan prinsip-prinsip yang memandu kami mengejar misi.
@@ -45,5 +45,5 @@ mission-governance = Tadbir Urus
 
 mission-our-structure-organization-and-the-v2 = Struktur, organisasi dan komuniti { -brand-name-mozilla }
 
-# Outdated string
+# Obsolete string
 mission-our-structure-organization-and-the = Struktur, organisasi, dan komuniti Mozilla yang lebih luas
