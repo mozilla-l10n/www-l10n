@@ -39,7 +39,7 @@ privacy-passwords-your-browser-also = Peramban Anda juga membantu memberikan inf
 
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } akan menampilkan peringatan, dan bukan situs web jika diketahui itu adalah situs phishing.
 
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = Firefox akan menampilkan peringatan, dan bukan situs web jika diketahui itu adalah situs phishing.
 
 privacy-passwords-in-general-the = Secara umum, pertahanan terbaik terhadap phishing adalah dengan <strong>mencurigai apa pun yang Anda terima</strong>, apakah itu muncul di email, pesan teks, atau di telepon. Alih-alih mengambil tindakan atas apa yang dikirimkan seseorang kepada Anda, kunjungi situsnya secara langsung. Misalnya, jika sebuah email mengatakan Anda perlu mengatur ulang kata sandi PayPal Anda, jangan klik tautannya. Ketik sendiri paypal.com. Jika bank menelepon, hubungi mereka kembali.
@@ -89,7 +89,7 @@ privacy-passwords-for-better-or = Baik atau buruk, kita akan menggunakan kata sa
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = Di internet saat ini, di mana ribuan kata sandi dicuri setiap hari dan akan diperdagangkan di pasar gelap, tidak ada ruginya berupaya menjaga kehidupan daring Anda agar tetap aman. Ketika Anda menggunakan produk { -brand-name-firefox }, sebagian upaya tidak perlu dilakukan, karena semua produk kami dibuat untuk menjunjung tinggi <a { $url_privacy_products }>janji privasi</a> kami. Dan { -brand-name-firefox } selalu dipandu oleh <a { $url_about_manifesto }>misi { -brand-name-mozilla }</a>, organisasi nirlaba yang mendukung kami untuk membangun internet yang lebih baik.
 
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Di internet saat ini, di mana ribuan kata sandi dicuri setiap hari dan akan diperdagangkan di pasar gelap, tidak ada ruginya berupaya menjaga kehidupan daring Anda agar tetap aman. Ketika Anda menggunakan produk { -brand-name-firefox }, sebagian upaya tidak perlu dilakukan, karena semua produk kami dibuat untuk menjunjung tinggi <a { $url_privacy_products }>janji privasi</a> kami. Dan { -brand-name-firefox } selalu dipandu oleh <a { $url_about_manifesto }>misi Mozilla</a>, organisasi nirlaba yang mendukung kami untuk membangun internet yang lebih baik.

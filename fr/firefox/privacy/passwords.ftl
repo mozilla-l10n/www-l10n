@@ -39,7 +39,7 @@ privacy-passwords-your-browser-also = Afin de vous protéger contre le phishing,
 
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } affichera un avertissement à la place du site Web s’il est connu comme étant un site de phishing.
 
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = Firefox affichera un avertissement à la place du site Web s’il est connu comme étant un site de phishing.
 
 privacy-passwords-in-general-the = En général, la meilleure défense contre le phishing est de <strong>se méfier de tout ce que vous recevez</strong>, qu’il s’agisse d’un e-mail, d’un SMS ou d’un coup de téléphone. Plutôt que de cliquer sur un lien reçu dans un e-mail ou SMS, saisissez l’adresse dans la barre de recherche de votre navigateur. Par exemple, si vous recevez un e-mail vous demandant de réinitialiser votre mot de passe PayPal, ne cliquez pas sur le lien. Connectez-vous directement à paypal.com. Si votre banque vous appelle, rappelez-la.
@@ -89,7 +89,7 @@ privacy-passwords-for-better-or = Pour le meilleur ou pour le pire, il est fort 
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = Dans le monde numérique actuel, où des milliers de mots de passe sont volés tous les jours et où l’accès aux comptes se monnaie sur le marché noir, il est important de faire le maximum pour sécuriser votre vie en ligne. Lorsque vous utilisez les produits { -brand-name-firefox }, vous vous facilitez considérablement la tâche, car ils sont tous conçus pour nous aider à tenir notre <a { $url_privacy_products }>promesse de confidentialité</a>. Surtout, { -brand-name-firefox } est toujours guidé par la <a { $url_about_manifesto }>mission que s’est donnée { -brand-name-mozilla }</a>, l’organisation à but non lucratif qui nous soutient, qui est d’améliorer sans cesse Internet.
 
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Dans le monde numérique actuel, où des milliers de mots de passe sont volés tous les jours et où l’accès aux comptes se monnaie sur le marché noir, il est important de faire le maximum pour sécuriser votre vie en ligne. Lorsque vous utilisez les produits { -brand-name-firefox }, vous vous facilitez considérablement la tâche, car ils sont tous conçus pour nous aider à tenir notre <a { $url_privacy_products }>promesse de confidentialité</a>. Surtout, { -brand-name-firefox } est toujours guidé par la <a { $url_about_manifesto }>mission que s’est donnée Mozilla</a>, l’organisation à but non lucratif qui nous soutient, qui est d’améliorer sans cesse Internet.

@@ -39,7 +39,7 @@ privacy-passwords-your-browser-also = Außerdem hält Ihr Browser über vertraue
 
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } zeigt anstelle der Website eine Warnung an, wenn bekannt ist, dass es sich um eine Phishing-Site handelt.
 
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = Firefox zeigt anstelle der Website eine Warnung an, wenn bekannt ist, dass es sich um eine Phishing-Site handelt.
 
 privacy-passwords-in-general-the = Im Allgemeinen besteht die beste Verteidigung gegen Phishing darin, <strong>misstrauisch gegenüber dem zu sein, was Sie erhalten</strong>, unabhängig davon, ob es um eine E-Mail, eine Textnachricht oder ein Telefongespräch geht. Besuchen Sie die Website direkt, anstatt sich auf die gesendete Nachricht zu verlassen. Wenn in einer E-Mail beispielsweise angegeben wird, dass Sie Ihr PayPal-Passwort zurücksetzen müssen, klicken Sie nicht auf den Link. Geben Sie paypal.com selbst ein. Wenn die Bank anruft, rufen Sie sie zurück.
@@ -89,7 +89,7 @@ privacy-passwords-for-better-or = Ob gut oder schlecht, wir werden auf absehbare
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = Im heutigen Internet, in dem täglich tausende Passwörter gestohlen und Konten auf dem Schwarzmarkt gehandelt werden, lohnt es sich, Ihr Leben online zu schützen. Wenn Sie { -brand-name-firefox }-Produkte nutzen, wird Ihnen ein Teil dieses Aufwands abgenommen, weil alle unsere Produkte mit unserem <a { $url_privacy_products }>Datenschutzversprechen</a> im Hinterkopf entwickelt werden. Außerdem wird { -brand-name-firefox } immer von <a { $url_about_manifesto }>{ -brand-name-mozilla }s Mission</a>, ein besseres Internet aufzubauen, geleitet.
 
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Im heutigen Internet, in dem täglich tausende Passwörter gestohlen und Konten auf dem Schwarzmarkt gehandelt werden, lohnt es sich, Ihr Leben online zu schützen. Wenn Sie { -brand-name-firefox }-Produkte nutzen, wird Ihnen ein Teil dieses Aufwands abgenommen, weil alle unsere Produkte mit unserem <a { $url_privacy_products }>Datenschutzversprechen</a> im Hinterkopf entwickelt werden. Außerdem wird { -brand-name-firefox } immer von <a { $url_about_manifesto }>Mozillas Mission</a>, ein besseres Internet aufzubauen, geleitet.
