@@ -58,7 +58,7 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } baru ini kuat, fleksibel dan yang paling bagusnya, boleh digodam. Ia merangkumi penyahpepijat JavaScript yang terbaik dalam kelasnya, yang boleh menyasarkan berbilang pelayar dan dibina dalam React dan Redux.
 firefox-developer-master-css-grid = Kuasai CSS Grid
 
-# outdated
+# Obsolete string
 firefox-developer-next-gen-css-engine = CSS Engine Generasi Akan Datang
 
 firefox-developer-built-for-developers = Dibina untuk para Pembangun

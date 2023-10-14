@@ -58,7 +58,7 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = नए { -brand-name-firefox-devtools } मज़बूत, लचीले, और सबसे अच्छा है कि हैक करने लायक हैं। इसमें सबसे बेहतरीन JavaScript डिबगर शामिल है, जो एक साथ अनेक ब्राउज़र पर काम कर सकता है और React और Redux में निर्मित है।
 firefox-developer-master-css-grid = मास्टर CSS ग्रिड
 
-# outdated
+# Obsolete string
 firefox-developer-next-gen-css-engine = अगली-पीढ़ी का CSS इंजन
 
 firefox-developer-built-for-developers = डेवलपर्स के लिए बनाया गया

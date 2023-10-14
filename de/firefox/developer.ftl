@@ -58,7 +58,7 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Die neuen { -brand-name-firefox-devtools } sind nicht nur leistungsstark und flexibel, sondern auch erweiterbar. Ganz weit vorne: Der JavaScript-Debugger für viele Browser, entwickelt in React und Ember.
 firefox-developer-master-css-grid = Master CSS Grid
 
-# outdated
+# Obsolete string
 firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
 
 firefox-developer-built-for-developers = Für Entwickler gebaut
