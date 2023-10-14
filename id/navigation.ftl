@@ -19,7 +19,7 @@ navigation-watch-videos-and-browse = Tonton video dan jelajahi internet di { -br
 navigation-firefox-browsers-put = Peramban { -brand-name-firefox } mengutamakan privasi Anda - dan akan selalu begitu.
 navigation-take-the-passwords-youve = Bawalah sandi yang tersimpan di { -brand-name-firefox } ke mana pun Anda pergi.
 
-# Outdated string
+# Obsolete string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } adalah seluruh rangkaian produk yang dirancang untuk membuat Anda lebih aman dan cerdas saat daring.
 
 navigation-join-firefox = Bergabunglah dengan { -brand-name-firefox }
@@ -40,27 +40,27 @@ navigation-android-extensions = Ekstensi { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } Anda
 navigation-make-the-most-of-your = Maksimalkan pengalaman menggunakan { -brand-name-firefox }, di setiap perangkat.
 
-# Outdated string
+# Obsolete string
 navigation-learn-how-to-customize = Pelajari bagaimana menyesuaikan cara kerja { -brand-name-firefox }.
 
 navigation-explore-the-immersive = Jelajahi web secara imersif melalui headset virtual reality.
 
-# Outdated string
+# Obsolete string
 navigation-experience-augmented = Rasakan pengalaman augmented reality dan virtual reality dengan { -brand-name-firefox }.
 
 navigation-get-together = Berinteraksi dalam virtual reality dengan ruang sosial daring ini.
 
-# Outdated string
+# Obsolete string
 navigation-meet-people-in-experimental = Temui orang-orang di ruang obrolan Mixed Reality eksperimental dengan { -brand-name-firefox }.
 
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 
-# Outdated string
+# Obsolete string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } menghadirkan virtual dan augmented reality ke web terbuka.
 
-# Outdated string
+# Obsolete string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } menghadirkan { -brand-name-firefox } ke augmented reality dan virtual reality.
 
 navigation-firefox-built-just-for = { -brand-name-firefox }, dirancang khusus untuk pengembang.
@@ -90,7 +90,7 @@ navigation-sign-up = Daftar
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Cepat. Simpel. Pribadi.
 navigation-protect-your-entire-device = Lindungi seluruh perangkat Anda dan semua aplikasi. Samarkan lokasi Anda yang sebenarnya dan terhubung dengan maksimal 5 perangkat. Berlangganan sekarang.
 
-# Outdated string
+# Obsolete string
 navigation-connected-and-protected = Terhubung dan terlindungi
 
 navigation-join = Gabung
@@ -105,7 +105,7 @@ navigation-new-features = Fitur Baru
 navigation-save-content-absorb-knowledge = Simpan konten. Dapatkan pengetahuan.
 navigation-same-speed-and-safety = Kecepatan dan keamanan yang tepercaya, dirancang khusus untuk bisnis.
 
-# Outdated string
+# Obsolete string
 navigation-add-ons = Pengaya
 
 navigation-projects = Proyek
@@ -113,12 +113,12 @@ navigation-close-projects-menu = Tutup menu Proyek
 navigation-donate-your-voice-to = Donasikan suara Anda agar pengenalan suara menjadi terbuka bagi semua orang.
 navigation-machine-learning = Machine Learning
 
-# Outdated string
+# Obsolete string
 navigation-web-of-things-iot = Web of Things (IoT)
 
 navigation-help-make-deep-learning = Membantu agar algoritma deep learning tersedia bagi dunia sumber terbuka.
 
-# Outdated string
+# Obsolete string
 navigation-make-devices-connected = Menjadikan perangkat yang terhubung ke internet lebih aman, terlindungi, dan dapat dioperasikan.
 
 navigation-developers = Pengembang

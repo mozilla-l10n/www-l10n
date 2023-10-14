@@ -19,7 +19,7 @@ navigation-watch-videos-and-browse = Videos schauen und im Web surfen – auf de
 navigation-firefox-browsers-put = In allem { -brand-name-firefox } Browsern steht deine Privatsphäre an erster Stelle – das war schon immer so.
 navigation-take-the-passwords-youve = Nimm die in { -brand-name-firefox } gespeicherten Passwörter überall mit hin.
 
-# Outdated string
+# Obsolete string
 navigation-firefox-is-a-whole-family = Zu { -brand-name-firefox } gehört eine ganze Produktfamilie, mit der du sicherer und smarter im Web unterwegs bist.
 
 navigation-join-firefox = Komm zu { -brand-name-firefox }
@@ -40,27 +40,27 @@ navigation-android-extensions = Add-ons für { -brand-name-android }
 navigation-your-firefox-account = Dein { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Hol das Beste aus deinem { -brand-name-firefox } heraus – auf jedem Gerät.
 
-# Outdated string
+# Obsolete string
 navigation-learn-how-to-customize = So kannst du { -brand-name-firefox } an deine Bedürfnisse anpassen.
 
 navigation-explore-the-immersive = Entdecken Sie das immersive Web mit Ihrem Virtual-Reality-Headset.
 
-# Outdated string
+# Obsolete string
 navigation-experience-augmented = Tauche mit { -brand-name-firefox } in die virtuelle und erweiterte Realität ein.
 
 navigation-get-together = Treffen Sie sich in der virtuellen Realität mit diesem sozialen Online-Raum.
 
-# Outdated string
+# Obsolete string
 navigation-meet-people-in-experimental = Leute treffen – in experimentellen Mixed Reality Chatrooms mit { -brand-name-firefox }.
 
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 
-# Outdated string
+# Obsolete string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringt virtuelle und erweiterte Realität ins offene Web.
 
-# Outdated string
+# Obsolete string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } bringt { -brand-name-firefox } in die virtuelle und erweiterte Realität.
 
 navigation-firefox-built-just-for = { -brand-name-firefox } – nur für Entwickler gemacht.
@@ -90,7 +90,7 @@ navigation-sign-up = Registrieren
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Schnell. Einfach. Privat.
 navigation-protect-your-entire-device = Schützen Sie Ihr gesamtes Gerät und alle Anwendungen. Verbergen Sie Ihren wahren Standort und schließen Sie bis zu 5 Geräte an. Jetzt abonnieren.
 
-# Outdated string
+# Obsolete string
 navigation-connected-and-protected = Verbunden und geschützt
 
 navigation-join = Anmelden
@@ -105,7 +105,7 @@ navigation-new-features = Neue Funktionen
 navigation-save-content-absorb-knowledge = Inhalte speichern. Wissen aufsaugen.
 navigation-same-speed-and-safety = Geschwindigkeit und Sicherheit wie gewohnt. Konzipiert für Unternehmen.
 
-# Outdated string
+# Obsolete string
 navigation-add-ons = Add-ons
 
 navigation-projects = Projekte
@@ -113,12 +113,12 @@ navigation-close-projects-menu = Menüpunkt schließen
 navigation-donate-your-voice-to = Spende deine Stimme und hilf uns, Spracherkennung für alle Menschen zugänglich zu machen.
 navigation-machine-learning = Maschinelles Lernen
 
-# Outdated string
+# Obsolete string
 navigation-web-of-things-iot = Internet der Dinge (IoT)
 
 navigation-help-make-deep-learning = Helfen Sie dabei, Deep-Learning-Algorithmen für die Open-Source-Welt verfügbar zu machen.
 
-# Outdated string
+# Obsolete string
 navigation-make-devices-connected = So bleiben deine mit dem Internet verbundenen Geräte sicher, geschützt und kompatibel.
 
 navigation-developers = Entwickler
