@@ -169,7 +169,7 @@ firefox-desktop-download-watch-for-hackers-with-v3 = احترس من المُخ�
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-firefox-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = احترس من المخترقين وراقبهم باستخدام{ -brand-name-firefox-monitor }، واحمِ كلمات المرور باستخدام { -brand-name-firefox-lockwise }، وجرِّب المزيد.
 
 firefox-desktop-download-get-more-from-firefox = احصل على المزيد من ميزات { -brand-name-firefox }
@@ -190,7 +190,7 @@ firefox-desktop-download-get-help = هل تواجهك مشكلة؟ <a { $attrs }
 firefox-desktop-download-in-another-language = نزِّل المُتصفح بلغة أخرى أو لنظام تشغيل آخر.
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -201,7 +201,7 @@ firefox-desktop-download-visit-support-for-more = تفضل بزيارة الدع
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = <a href="{ $url }">لم تَعد شركة { -brand-name-mozilla } تقدم تحديثات أمنية</a> لنظام تشغيل { -brand-name-windows }{ -brand-name-xp } أو { -brand-name-vista }، ولكن لا يزال بإمكانك استخدام { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = إنك تستخدم نظام تشغيل قديم وغير آمن <a href="{ $url }">ولم يعد مدعومًا من { -brand-name-firefox }</a>.

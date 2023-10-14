@@ -169,7 +169,7 @@ firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monit
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } がハッカーをブロック、{ -brand-name-firefox-lockwise } がパスワードを保護します。他にも機能は満載。
 
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } なら、もっとたくさんのことができます
@@ -190,7 +190,7 @@ firefox-desktop-download-get-help = 問題が発生しましたら、<a { $attrs
 firefox-desktop-download-in-another-language = 別の言語または別の OS でダウンロード。
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -201,7 +201,7 @@ firefox-desktop-download-visit-support-for-more = 詳しくはサポートをご
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } は、{ -brand-name-windows } { -brand-name-xp } および { -brand-name-vista } の<a href="{ $url }">セキュリティアップデートの提供を終了しています</a>が、引き続き { -brand-name-firefox } をご利用になれます。
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox } がサポートを終了した</a>安全でない古い OS を使用しています。

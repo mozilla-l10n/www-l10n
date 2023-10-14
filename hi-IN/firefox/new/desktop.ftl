@@ -169,7 +169,7 @@ firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monit
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } से हैकर्स पर नज़र रखें, { -brand-name-firefox-relay } से अपने ईमेल एड्रेस को सुरक्षित रखें, साथ ही और भी बहुत कुछ।
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } से हैकर्स पर नज़र रखें, { -brand-name-firefox-lockwise } से पासवर्ड सुरक्षित करें, साथ ही और भी बहुत कुछ।
 
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } से और भी सुविधाएँ पाएँ
@@ -190,7 +190,7 @@ firefox-desktop-download-get-help = कोई परेशानी है? <a {
 firefox-desktop-download-in-another-language = किसी अन्य भाषा में या किसी अन्य ऑपरेटिंग सिस्टम के लिए डाउनलोड करें।
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -201,7 +201,7 @@ firefox-desktop-download-visit-support-for-more = और जानकारी �
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-windows } { -brand-name-xp } या { -brand-name-vista } के लिए { -brand-name-mozilla } <a href="{ $url }">अब सुरक्षा संबंधी अपडेट नहीं देता</a>, पर आप अब भी { -brand-name-firefox } इस्तेमाल कर सकते हैं।
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = आप एक असुरक्षित और पुराना ऑपरेटिंग सिस्टम इस्तेमाल कर रहे हैं, जिसे <a href="{ $url }">अब { -brand-name-firefox } द्वारा सपोर्ट नहीं किया जाता</a>।

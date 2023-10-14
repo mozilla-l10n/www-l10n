@@ -169,7 +169,7 @@ firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -b
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Awasi penggodam dengan { -brand-name-firefox-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Pantau penggodam dengan { -brand-name-firefox-monitor }, lindungi kata laluan dengan { -brand-name-firefox-lockwise }, dan banyak lagi.
 
 firefox-desktop-download-get-more-from-firefox = Dapatkan Lebih Lagi Daripada { -brand-name-firefox }
@@ -190,7 +190,7 @@ firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan 
 firefox-desktop-download-in-another-language = Muat turun dalam bahasa lain atau sistem operasi yang lain.
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -201,7 +201,7 @@ firefox-desktop-download-visit-support-for-more = Layari Sokongan untuk Maklumat
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak lagi membekalkan kemas kini keselamatan</a> bagi { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi anda masih boleh menggunakan { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi yang <a href="{ $url }">tidak selamat dan lama dan tidak lagi disokong oleh { -brand-name-firefox }</a>.
