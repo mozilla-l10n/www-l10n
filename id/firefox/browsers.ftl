@@ -7,13 +7,13 @@
 # HTML page title
 firefox-browsers-page-title = Unduh { -brand-name-firefox } untuk Desktop, Seluler, atau Perusahaan
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Dapatkan peramban yang selalu mengutamakan privasi Anda
 
 # HTML page description
 firefox-browsers-page-desc = Pilih dari Desktop, { -brand-name-ios }, { -brand-name-android }, atau izinkan kami mengirimkan tautan unduhan seluler melalui email.
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Dapatkan privasi yang pantas Anda dapatkan. Perlindungan Pelacakan yang Ditingkatkan otomatis tersedia di setiap peramban { -brand-name-firefox }.
 
 # Obsolete string
@@ -46,7 +46,7 @@ firefox-browsers-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-n
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

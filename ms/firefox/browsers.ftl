@@ -7,13 +7,13 @@
 # HTML page title
 firefox-browsers-page-title = Muat turun { -brand-name-firefox } untuk Desktop, Mudah Alih atau Perniagaan
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Dapatkan pelayar yang mengutamakan privasi anda — sentiasa
 
 # HTML page description
 firefox-browsers-page-desc = Pilih daripada Desktop, { -brand-name-ios }, { -brand-name-android }, atau izinkan kami e-melkan anda pautan muat turun mudah alih.
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Dapatkan privasi yang berhak dinikmati. Perlindungan Penjejakan Dipertingkatkan adalah automatik pada setiap pelayar { -brand-name-firefox }.
 
 # Obsolete string
@@ -46,7 +46,7 @@ firefox-browsers-join-firefox-and-get-the-most = Sertai { -brand-name-firefox } 
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Sudah ada akaun? <a { $fxa_attr }>Daftar Masuk</a> atau <a { $accounts_attr }>ketahui lebih lanjut</a> tentang menyertai { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

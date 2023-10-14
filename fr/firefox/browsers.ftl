@@ -7,13 +7,13 @@
 # HTML page title
 firefox-browsers-page-title = Téléchargez { -brand-name-firefox } pour ordinateur, mobile ou entreprise
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Installez les navigateurs qui respectent votre vie privée — et qui l’ont toujours fait
 
 # HTML page description
 firefox-browsers-page-desc = Choisissez la version pour ordinateur, { -brand-name-ios }, { -brand-name-android } ou demandez-nous de vous envoyer un lien de téléchargement mobile.
 
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Obtenez la protection de la vie privée qui vous est due. La protection renforcée contre le pistage est automatique pour chaque navigateur { -brand-name-firefox }.
 
 # Obsolete string
@@ -46,7 +46,7 @@ firefox-browsers-join-firefox-and-get-the-most = Rejoignez { -brand-name-firefox
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Vous avez déjà un compte ? <a { $fxa_attr }>Se connecter</a> ou <a { $accounts_attr }>en savoir plus</a> à propos du compte { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
