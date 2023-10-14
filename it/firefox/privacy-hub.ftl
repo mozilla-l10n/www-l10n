@@ -46,8 +46,10 @@ firefox-privacy-hub-learn-about-our-products = Scopri i nostri prodotti
 firefox-privacy-hub-firefox-privacy-by-the = La privacy di { -brand-name-firefox }, in ogni prodotto
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protegge la tua privacy in ogni prodotto.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protegge la tua privacy in ogni prodotto.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegge</strong> la tua privacy in ogni prodotto
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protegge</strong> la tua privacy in ogni prodotto.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Più di 2.000 elementi bloccati… automaticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -72,6 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Più di { $trackers } element
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Quando inserisci il tuo indirizzo email in { -brand-name-mozilla-monitor }, questo viene rimosso subito dopo averne verificato l’eventuale coinvolgimento in violazioni di dati conosciute, a meno che tu non ci autorizzi a monitorare nuove violazioni delle tue informazioni personali.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Quando inserisci il tuo indirizzo email in { -brand-name-firefox-monitor }, viene rimosso subito dopo averne verificato l’eventuale coinvolgimento in violazioni di dati conosciute, a meno che non ci autorizzi a monitorare nuove violazioni delle tue informazioni personali.
 firefox-privacy-hub-check-for-breaches = Cerca nelle violazioni
