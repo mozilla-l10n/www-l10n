@@ -31,7 +31,7 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } に�
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「{ -brand-name-mozilla } は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「Mozilla は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。

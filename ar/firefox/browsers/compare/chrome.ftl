@@ -31,7 +31,7 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = إننا، في متصفح {
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = كما أننا قد أعدنا مؤخرًا تأكيد التزامنا بالخصوصية والشفافية فيما يتعلق ببيانات المُستخدمين في أحدث <a { $attrs }>إشعار خصوصية</a> لدينا، والذي ينُص على &quot;أننا، في { -brand-name-mozilla }، نُؤمن بأن الخصوصية أمر أساسي للأمان على الإنترنت.&quot;
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = كما إننا قد أعدنا مؤخرًا تأكيد التزامنا بالخصوصية والشفافية فيما يتعلق ببيانات المُستخدمين في أحدث <a { $attrs }>إشعار خصوصية</a> لدينا، والذي ينُص على &quot;أننا، في Mozilla، نُؤمن بأن الخصوصية أمر أساسي للأمان على الإنترنت.&quot;

@@ -31,7 +31,7 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = Chez { -brand-name-firefox }
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = Nous avons récemment réaffirmé notre engagement en matière de respect de la vie privée et de transparence concernant les données des utilisateurs et utilisatrices dans notre dernière <a { $attrs }>Politique de confidentialité</a>, qui déclare : « Chez { -brand-name-mozilla }, nous pensons que la vie privée est fondamentale pour sécuriser Internet. »
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Nous avons également récemment réaffirmé notre engagement en matière de respect de la vie privée et de transparence concernant les données des utilisateurs dans notre dernier <a { $attrs }>avis de confidentialité</a> qui déclare : « Chez Mozilla, nous pensons que la confidentialité est fondamentale pour un Internet sain. »
