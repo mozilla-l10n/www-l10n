@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Il ha poc manieras per que un navigator pote
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Le secunde es: non immagazinar troppo de datos de usator. Hackers non pote robar lo que non es presente; es pro isto que { -brand-name-firefox } retene un minime quantitate de informationes de su usatores. <a href="{ $data }">{ -brand-name-firefox } sape</a> si tu usa le navigator e tu position general <a href="{ $privacy }">ma non le nomine de tu prime animal domestic o tu color favorite.</a>
 best-browser-last-but-not-least = Finalmente, un navigator secur deberea offerer instrumentos pro adjutar te a surveliar tu contos. Pensa a alertas inviate directemente a tu e-mail si alcun de tu contos es violate, o icones que te indica si un sito web es cryptate (p.ex. si il es un bon idea inserer tu numero de carta de credito sur un boteca web).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } offere un nove instrumento pro mantener te secur: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Es un servicio gratuite que te alerta si il ha violationes public de tu contos e que te informa si tu contos ha essite violate in le passato. Un altere bon functionalitate es le serratura verde. Illo appare como un micre icone verde in alto a sinistra del fenestra del navigator. Si tu usa  { -brand-name-firefox } e vide le micre serratura verde, illo significa que le sito web es cryptate e secur. Si le serratura es gris, tu deberea pensar duo vices ante de inserer alcun information private.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } offere un nove instrumento pro mantener te secur: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Es un servicio gratuite que te alerta si il ha violationes public de tu contos e que te informa si tu contos ha essite violate in le passato. Un altere bon functionalitate es le serratura verde. Illo appare como un micre icone verde in alto a sinistra del fenestra del navigator. Si tu usa { -brand-name-firefox } e vide le micre serratura verde, illo significa que le sito web es cryptate e secur. Si le serratura es gris, tu deberea pensar duo vices ante de inserer alcun information private.
