@@ -14,7 +14,7 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
 nightly-whatsnew-every-4-to-5-weeks = हर 4 से 5 हफ़्तों में, { -brand-name-firefox } का एक नया संस्करण जारी होता है और इसके परिणामस्वरूप { -brand-name-nightly } का संस्करण भी बढ़ जाता है।
 
-# Obsolete
+# Obsolete string
 nightly-whatsnew-every-6-to-8-weeks = हर 6 से 8 हफ़्तों में, { -brand-name-firefox } का एक नया प्रमुख संस्करण जारी होता है और इसके परिणामस्वरूप { -brand-name-nightly } का संस्करण भी बढ़ जाता है।
 
 nightly-whatsnew-this-is-a-good = यह एक अच्छा समय है आपको { -brand-name-firefox } को बेहतर बनाने में हमारी मदद करने के लिए धन्यवाद कहने के लिए और आपको कुछ दस्तावेज़ों, संचार चैनल और आपकी पसंद की { -brand-name-nightly } से जुड़ीं समाचार साइट्स के बारे में बताने के लिए।
@@ -25,14 +25,14 @@ nightly-whatsnew-this-is-a-good = यह एक अच्छा समय है
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = अगर आप जानना चाहते हैं कि { -brand-name-nightly } और इसकी कम्युनिटी संबंधी नया क्या कुछ चल रहा है, तो आप हमारे <a href="{ $blog }">ब्लॉग</a> को पढ़ सकते हैं या <a href="{ $mastodon }">Mastodon</a> या <a href="{ $twitter }">Twitter</a> पर हमें फ़ॉलो कर सकते हैं!
 
-# Obsolete
+# Obsolete string
 nightly-whatsnew-if-you-want-to = अगर आप जानना चाहते हैं कि { -brand-name-nightly } और इसके समुदाय में क्या हो रहा है, तो हमारा <a href="{ $blog }">ब्लॉग</a> पढ़ना और <a href="{ $twitter }">{ -brand-name-twitter }</a> पर हमारा अनुसरण करना एक अच्छी शुरुआत हो सकती है!
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = जानना चाहते हैं कि आप कौन-से प्लेटफ़ॉर्म फ़ीचर्स { -brand-name-nightly } पर जाँच सकते हैं जिन्हें दूसरे { -brand-name-firefox } चैनलों पर अब तक देख पाना संभव नहीं है? फिर <a { $attrs }>Nightly एक्सपेरिमेंट्स</a> वरीयता पेज पर एक नज़र डालें।
 
-# Obsolete
+# Obsolete string
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = जानना चाहते हैं कि आप कौनसी प्लेटफ़ॉर्म सुविधाएँ { -brand-name-nightly } पर जाँच सकते हैं जो दूसरे { -brand-name-firefox } चैनल पर अबतक नहीं देख सकते हैं? फिर <a href="{ $mdn }">प्रयोगात्मक सुविधाएँ</a> पेज पर एक नज़र डाले, यह आपको <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>पर मिलेगा।
