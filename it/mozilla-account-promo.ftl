@@ -3,6 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 # Variables
+#   $class (string) = CSS Class name for banner title
+moz-account-promo-title = Un solo accesso. <br> <span { $class }>Tutto</span> { -brand-name-mozilla }.
+# Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = Hai già an account? <a { $sign_in_url }>Accedi</a> o <a { $learn_more_url }>scopri di più</a> su { -brand-name-mozilla }

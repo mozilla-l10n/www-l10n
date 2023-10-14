@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox }: proteggi la tua vit
 firefox-home-firefox-is-more-than = { -brand-name-firefox } è più di un browser. Scopri i vantaggi dei prodotti { -brand-name-firefox }: trattano i tuoi dati con rispetto e difendono la tua privacy ovunque ti trovi online.
 # Obsolete string
 firefox-home-the-browser-is-just = Il browser è appena l’inizio
+firefox-home-firefox-is-just = { -brand-name-firefox } è solo l’inizio.
 # Obsolete string
 firefox-home-meet-our-family-of = Scopri la nostra famiglia di prodotti
 firefox-home-meet-mozillas-family = Scopri la  famiglia di prodotti { -brand-name-mozilla }

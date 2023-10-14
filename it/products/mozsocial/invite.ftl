@@ -19,3 +19,4 @@ mozsocial-invite-twitter-handle-label = Account Twitter?
 # Mastodon is a brand name. "Handle" is jargon for a user name.
 mozsocial-invite-mastodon-handle-label = Account Mastodon?
 mozsocial-invite-thanks-youre-on-the-list = Grazie! Sei sulla lista!
+mozsocial-invite-mozillasocial-is-currently = Al momento { -brand-name-mozilla-social } è disponibile in versione beta per un gruppo limitato di persone. Questo ci permette di sperimentare, ricevere feedback dai partecipanti, imparare e migliorare l’esperienza d’uso. Ti inviteremo via email non appena inizieremo a espandere il gruppo.

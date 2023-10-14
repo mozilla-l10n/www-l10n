@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = L’account non è obbligatorio, ma potresti apprezzarlo.
+whatsnew-account-main-lead-in-v2 = Il browser { -brand-name-firefox } raccoglie così pochi dati su di te che non abbiamo nemmeno bisogno del tuo indirizzo email. Ma quando lo utilizzi per creare un { -brand-name-mozilla-account }, oltre a { -brand-name-firefox } hai accesso a un’intera gamma di prodotti per la protezione della privacy.
 whatsnew-account-mozilla-cta = Ottieni un { -brand-name-mozilla-account }
 
 ##
