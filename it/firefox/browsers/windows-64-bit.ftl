@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Se vedi “(32 bit)” e stai usando { 
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Se vuoi scaricare { -brand-name-firefox } a 32 bit, o installare manualmente { -brand-name-firefox } a 64 bit, scarica e avvia di nuovo il programma di installazione di { -brand-name-firefox } per { -brand-name-windows } (a 32 bit o a 64 bit) dalla <a href="{ $all }">pagina di download di { -brand-name-firefox } per piattaforme e lingue.</a>
 windows-64-bit-take-control-of-your = Prendi il controllo del browser.
+windows-64-bit-download-firefox = Scarica { -brand-name-firefox } per Windows a 64 bit

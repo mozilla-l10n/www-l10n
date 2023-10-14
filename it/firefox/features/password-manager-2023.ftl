@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = La gestione password di { 
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } memorizza in modo sicuro nomi utente e password per l’accesso ai siti web, li inserisce automaticamente quando torni a visitare un sito web e ti consente di gestire gli accessi memorizzati grazie alla sua funzione di gestione password integrata.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Con un <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuito puoi sincronizzare in sicurezza le tue password su tutti i tuoi dispositivi. Puoi anche accedere a tutti gli altri prodotti di { -brand-name-mozilla } che rispettano la privacy.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Con un <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuito</a> puoi sincronizzare le tue password in modo sicuro su tutti i tuoi dispositivi.
 # Obsolete string
 # Variables:

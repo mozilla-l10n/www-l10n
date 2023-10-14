@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Un browser può salvaguardare la sicurezza d
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = In secondo luogo, può evitare di memorizzare dati utente superflui: gli hacker non possono rubare informazioni che non ci sono. Per questo { -brand-name-firefox } memorizza solo il minimo indispensabile delle tue informazioni. <a href="{ $data }">{ -brand-name-firefox } sa determinare</a> quando stai usando il browser e da quale posizione approssimativa, <a href="{ $privacy }">ma non conosce il nome del tuo primo animale domestico o il tuo colore preferito.</a>
 best-browser-last-but-not-least = Ultimo, ma non meno importante, un browser dovrebbe offrire strumenti per aiutarti a monitorare i tuoi account. Prova a immaginare una notifica direttamente nella tua casella di posta quando un tuo account subisce una violazione, o un’icona che ti segnala quando un sito web è protetto dalla crittografia (ovvero quando puoi immettere senza rischi i dati della tua carta di credito, nel caso dei siti e-commerce).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } offre un nuovo strumento per la tua sicurezza: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Si tratta di un servizio gratuito che ti avvisa con una notifica se i tuoi account vengono coinvolti in una violazione pubblica e perfino se ne hanno subita una in passato. Un’altra funzionalità preziosa è il “lucchetto verde”. Si tratta appunto dell’icona di un lucchetto verde che appare in alto a sinistra nella finestra del browser. Se mentre navighi su un sito con { -brand-name-firefox } vedi il lucchetto verde, significa che il sito che stai visitando è crittato e sicuro. Se invece vedi un lucchetto grigio, cerca di evitare di inserire dati sensibili su quel sito.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } offre un nuovo strumento per la tua sicurezza: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Si tratta di un servizio gratuito che ti avvisa con una notifica se i tuoi account vengono coinvolti in una violazione pubblica e perfino se ne hanno subita una in passato. Un’altra funzionalità preziosa è il “lucchetto verde”. Si tratta appunto dell’icona di un lucchetto verde che appare in alto a sinistra nella finestra del browser. Se mentre navighi su un sito con { -brand-name-firefox } vedi il lucchetto verde, significa che il sito che stai visitando è crittato e sicuro. Se invece vedi un lucchetto grigio, cerca di evitare di inserire dati sensibili su quel sito.

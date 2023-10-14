@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = La possibilità di sincronizz
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Il browser { -brand-name-firefox } offre inoltre agli utenti la possibilità di registrare gratuitamente un <a { $accounts }>{ -brand-name-mozilla-account }</a>. L’{ -brand-name-mozilla-account } è la chiave per sbloccare la sincronizzazione tra i dispositivi, in più offre accesso a prodotti come <a { $monitor }>{ -brand-name-mozilla-monitor }</a>, che monitora i tuoi indirizzi email e ti avvisa se una qualsiasi delle tue informazioni viene coinvolta in <a { $breaches }>violazioni di dati</a> conosciute.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Il browser { -brand-name-firefox } offre inoltre agli utenti la possibilità di registrare gratuitamente un <a { $accounts }>{ -brand-name-mozilla-account }</a>. L’{ -brand-name-mozilla-account } è la chiave per sbloccare la sincronizzazione tra i dispositivi, in più offre accesso a prodotti come <a { $monitor }>{ -brand-name-firefox-monitor }</a>, che monitora i tuoi indirizzi email e ti avvisa se una qualsiasi delle tue informazioni viene coinvolta in <a { $breaches }>violazioni di dati</a> conosciute.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Il browser { -brand-name-firefox } offre inoltre agli utenti la possibilità di registrare gratuitamente un <a { $accounts }>{ -brand-name-firefox-account }</a>. L’account { -brand-name-firefox } è la chiave per sbloccare la sincronizzazione tra i dispositivi, in più offre accesso a prodotti come <a { $monitor }>{ -brand-name-firefox-monitor }</a>, che monitora i tuoi indirizzi email e ti avvisa se una qualsiasi delle tue informazioni viene coinvolta in <a { $breaches }>violazioni di dati</a> conosciute.

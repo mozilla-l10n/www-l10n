@@ -11,6 +11,7 @@ firefox-home-firefox-is-more-than = { -brand-name-firefox } è più di un browse
 firefox-home-the-browser-is-just = Il browser è appena l’inizio
 # Obsolete string
 firefox-home-meet-our-family-of = Scopri la nostra famiglia di prodotti
+firefox-home-meet-mozillas-family = Scopri la  famiglia di prodotti { -brand-name-mozilla }
 firefox-home-get-trackers-off = Scrollati di dosso più di 2000 elementi traccianti, { -brand-name-facebook } compreso
 firefox-home-know-when-hackers-strike = Scopri quando gli hacker colpiscono per essere sempre un passo avanti a loro
 firefox-home-start-getting-breach = Inizia a ricevere gli avvisi di violazione
@@ -24,6 +25,7 @@ firefox-home-learn-more-about-lockwise = Scopri di più su { -brand-name-lockwis
 firefox-home-get-the-respect-you = Conquista il <strong>rispetto</strong> che meriti
 # Obsolete string
 firefox-home-every-single-firefox = Ogni prodotto { -brand-name-firefox } nasce nel rispetto del nostro Impegno per i dati personali: <strong>raccogli meno dati, mantienili al sicuro, nessun segreto</strong>.
+firefox-home-every-single-mozilla = Ogni prodotto { -brand-name-mozilla } nasce nel rispetto del nostro Impegno per i dati personali: <strong>raccogli meno dati, mantienili al sicuro, nessun segreto</strong>.
 # Obsolete string
 firefox-home-share-large-files-without = Condividi file di grandi dimensioni al riparo da occhi indiscreti
 # Obsolete string
