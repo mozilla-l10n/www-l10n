@@ -5,8 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
+# HTML page title
+mozsocial-invite-join-the-waitlist = Iscriviti alla lista di attesa { -brand-name-mozilla-social }
+mozsocial-invite-welcome-to-mozillasocial = Benvenuto in { -brand-name-mozilla-social }!
+mozsocial-invite-please-join-our-waitlist = Iscriviti alla nostra lista d’attesa compilando il modulo sottostante.
 mozsocial-invite-required-label = Obbligatorio
 mozsocial-invite-first-name-label = Nome
 mozsocial-invite-last-name-label = Cognome
 mozsocial-invite-your-email-address-label = Il tuo indirizzo email
 mozsocial-invite-country-label = Paese
+# "Handle" is jargon for a user name.
+mozsocial-invite-twitter-handle-label = Account Twitter?
+# Mastodon is a brand name. "Handle" is jargon for a user name.
+mozsocial-invite-mastodon-handle-label = Account Mastodon?
+mozsocial-invite-thanks-youre-on-the-list = Grazie! Sei sulla lista!

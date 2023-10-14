@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = Newsletter { -brand-name-mozilla }
 newsletters-read-all-about-it-in-our-newsletter = Scopri tutti i dettagli nella nostra <span>newsletter</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Iscriviti qui per rimanere aggiornato con le news di { -brand-name-mozilla }, conoscere le azioni da intraprendere per un Internet più sano e ricevere suggerimenti per la tua vita online.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Iscriviti alla newsletter e tieniti aggiornato sulle ultime novità dal mondo { -brand-name-mozilla }. È il modo migliore per rimanere in contatto.
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Messaggio di conferma alla newsletter
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = La tua iscrizione è stata annullata.
 newsletters-were-sorry-to-see-you-go = Ci dispiace per la tua decisione.
 newsletters-would-you-mind-telling-us = Puoi spiegarci le motivazioni della tua scelta?
 newsletters-other-v2 = Altro… (massimo 500 caratteri)
-# Outdated string
+# Obsolete string
 newsletters-other = Altro…
 newsletters-submit = Invia
 newsletters-thanks-for-telling-us-why = Ti ringraziamo per averci spiegato i motivi della tua decisione.
@@ -141,6 +141,8 @@ newsletters-take-your-privacy = La tua privacy, sempre con te
 newsletters-travel-the-internet = Naviga in Internet protetto su tutti i tuoi dispositivi.
 newsletters-download-the-app = Scarica l’app
 newsletters-check-for-data-breaches = Cerca nelle violazioni dati
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } è un servizio gratuito che ti permette di scoprire se sei stato coinvolto in una violazione di dati online.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } è un servizio gratuito che ti permette di scoprire se sei stato coinvolto in una violazione di dati online.
 newsletters-sign-in-to-monitor = Accedi a { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Scopri il nostro marchio principale
@@ -189,7 +191,7 @@ newsletters-news-and-information = Novità e informazioni sullo stato di salute 
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = L’ex University program iniziato nel 2008 e terminato nel 2011 ora rinnovato sotto il nome di { -brand-name-firefox } Student Ambassadors program.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = L’ex University program iniziato nel 2008 e terminato nel 2011 ora rinnovato sotto il nome di Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
