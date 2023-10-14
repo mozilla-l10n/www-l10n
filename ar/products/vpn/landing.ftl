@@ -98,14 +98,14 @@ vpn-landing-faq-compatibility-question-heading = ما هي الأجهزة الم
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } مُتوافق مع <a href="{ $mobile }">الجوال</a>، والجهاز اللوحي، و<a href="{ $desktop }">جهاز كمبيوتر سطح المكتب</a> على:
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متوافق مع:
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 بت فقط)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-بت فقط)
@@ -114,24 +114,24 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 وأعلى)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 وأعلى)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = نظام تشغيل { -brand-name-mac } (الإصدار 10.15 والأحدث منه)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
 
 # Variables:
@@ -139,7 +139,7 @@ vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -bra
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } والإصدارات الأعلى)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 وأعلى)
@@ -148,7 +148,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 والإصدارات الأحدث)
 
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 وأعلى)
 
@@ -158,7 +158,7 @@ vpn-landing-faq-refund-question-desc-v2 = في المرة الأولى التي 
 
 vpn-landing-faq-refund-question-additional-desc = إذا اشتريتَ اشتراكك من خلال مشتريات داخل التطبيق من { -brand-name-apple }{ -brand-name-app-store } أو متجر { -brand-name-google-play }، فإن عملية الدفع الخاصة بك تخضع لِشروط وأحكام { -brand-name-app-store }. يتوجّب عليك توجيه أي استفسارات بخصوص الفواتير واسترداد الأموال لهذه المشتريات إلى { -brand-name-apple } أو { -brand-name-google }، حسب الاقتضاء.
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = يُمكنك استرداد أموالك في غضون 30 يومًا من شِراء اشتراكك. اتصل بنا وأرسل إلينا طلب استرداد الأموال من خلال النقر على زر "الحصول على مساعدة" في "الإعدادات" في تطبيق { -brand-name-mozilla-vpn }.
 
 vpn-landing-faq-manage-subscription-question-heading = كيف يُمكنني إدارة اشتراكي؟
@@ -181,7 +181,7 @@ vpn-landing-invite-page-title = انضم إلى قائمة الانتظار: { -
 
 vpn-landing-invite-page-desc-v2 = استقبل إشعارًا عند توفّر { -brand-name-mozilla-vpn } في منطقتك.
 
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = احصل على إشعار في حالة توافر { -brand-name-mozilla-vpn } لِجهازك وإتاحته لمنطقتك.
 
 vpn-landing-invite-page-heading = انضم إلى قائمة انتظار VPN

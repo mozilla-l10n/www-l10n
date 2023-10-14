@@ -98,14 +98,14 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } が
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } は、次の<a href="{ $mobile }">モバイル </a>、タブレット、<a href="{ $desktop }">デスクトップ</a>に対応します。
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } は、以下のデバイスと互換性があります。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 ビットのみ)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64 ビットのみ)
@@ -114,24 +114,24 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 以上)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 以上)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 以上)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (バージョン 8 以上)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (バージョン 6 以上)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (バージョン 6 以上)
 
 # Variables:
@@ -139,7 +139,7 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (�
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } 以上)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 以上)
@@ -148,7 +148,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 以上)
 
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 以上)
 
@@ -158,7 +158,7 @@ vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla } ウェブサ�
 
 vpn-landing-faq-refund-question-additional-desc = { -brand-name-apple } { -brand-name-app-store } または { -brand-name-google-play } からアプリ内課金/購入でサブスクリプションを購入した場合、お支払いには { -brand-name-app-store } の利用規約が適用されます。この購入に関する請求および返金のお問い合わせは、{ -brand-name-apple } または { -brand-name-google } まで行う必要があります。
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = サブスクリプションを購入してから 30 日以内に返金に対応します。{ -brand-name-mozilla-vpn } アプリの [設定] から [サポート] ボタンをタップして、返金リクエストを送信してください。
 
 vpn-landing-faq-manage-subscription-question-heading = サブスクリプションの管理方法は？
@@ -181,7 +181,7 @@ vpn-landing-invite-page-title = ウェイトリストに登録: { -brand-name-mo
 
 vpn-landing-invite-page-desc-v2 = { -brand-name-mozilla-vpn } がお住まいの地域で公開されたときに通知します。
 
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } がお使いのデバイスおよび地域で利用可能になったときに通知します。
 
 vpn-landing-invite-page-heading = VPN ウェイトリストに登録

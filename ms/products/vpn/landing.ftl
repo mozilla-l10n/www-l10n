@@ -98,14 +98,14 @@ vpn-landing-faq-compatibility-question-heading = Peranti apa yang serasi dengan 
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } serasi dengan <a href="{ $mobile }"> peranti mudah alih</a>, tablet, dan <a href="{ $desktop }">desktop</a> untuk:
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } serasi dengan:
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit sahaja)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit sahaja)
@@ -114,24 +114,24 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ke atas)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ke atas)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ke atas)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (versi 8 ke atas)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versi 6 ke atas)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versi 6 ke atas)
 
 # Variables:
@@ -139,7 +139,7 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } dan ke atas)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ke atas)
@@ -148,7 +148,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 dan ke atas)
 
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ke atas)
 
@@ -158,7 +158,7 @@ vpn-landing-faq-refund-question-desc-v2 = Jika anda membatalkan akaun anda dalam
 
 vpn-landing-faq-refund-question-additional-desc = Jika anda membuat langganan menerusi pembelian dalam aplikasi { -brand-name-apple } { -brand-name-app-store } atau { -brand-name-google-play } Store, bayaran anda tertakluk kepada terma dan syarat { -brand-name-app-store } tersebut. Anda perlu salurkan sebarang pertanyaan tentang bil dan bayaran balik ke { -brand-name-apple } atau { -brand-name-google }, selayaknya.
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Anda boleh mendapat wang semula dalam masa 30 hari dari waktu langganan. Hubungi kami dan hantarkan permintaan pengembalian wang dengan menyentuh butang "Dapatkan Bantuan" di Tetapan pada aplikasi { -brand-name-mozilla-vpn } anda.
 
 vpn-landing-faq-manage-subscription-question-heading = Bagaimana saya mahu menguruskan langganan saya?
@@ -181,7 +181,7 @@ vpn-landing-invite-page-title = Sertai Senarai Menunggu: { -brand-name-mozilla-v
 
 vpn-landing-invite-page-desc-v2 = Terima notifikasi apabila { -brand-name-mozilla-vpn } boleh didapati di rantau anda.
 
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Dapatkan notifikasi apabila { -brand-name-mozilla-vpn } boleh didapati untuk peranti dan kawasan anda.
 
 vpn-landing-invite-page-heading = Daftar dalam Senarai Menunggu VPN

@@ -98,14 +98,14 @@ vpn-landing-faq-compatibility-question-heading = Avec quels appareils { -brand-n
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } est compatible avec vos <a href="{ $mobile }">téléphones</a>, tablettes et <a href="{ $desktop }">ordinateurs de bureau</a> utilisant :
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } est compatible avec :
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 bits uniquement)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64 bits uniquement)
@@ -114,24 +114,24 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 et versions ultérieures)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 et plus)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 et plus)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (à partir de la version 8)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (version 6 et plus)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 et plus)
 
 # Variables:
@@ -139,7 +139,7 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (v
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> (à partir de la version { $version })
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (à partir de la version 12.0)
@@ -148,7 +148,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 et supérieur)
 
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 et versions ultérieures)
 
@@ -158,7 +158,7 @@ vpn-landing-faq-refund-question-desc-v2 = Lors de votre premier abonnement à { 
 
 vpn-landing-faq-refund-question-additional-desc = Si vous vous abonnez par le biais d’un achat sur l’{ -brand-name-apple } { -brand-name-app-store } ou le { -brand-name-google-play } Store, votre paiement est soumis aux Conditions générales de la boutique { -brand-name-app-store }. Toutes les demandes relatives à la facturation et au remboursement de ces achats doivent être envoyées à { -brand-name-apple } ou { -brand-name-google }.
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Vous pouvez vous faire rembourser l’abonnement dans les 30 jours suivant l’achat. Contactez-nous et envoyez la demande de remboursement en appuyant sur le bouton « Obtenir de l’aide » dans les paramètres de votre application { -brand-name-mozilla-vpn }.
 
 vpn-landing-faq-manage-subscription-question-heading = Comment gérer mon abonnement et le changer ?
@@ -181,7 +181,7 @@ vpn-landing-invite-page-title = Rejoindre la liste d’attente : { -brand-name-
 
 vpn-landing-invite-page-desc-v2 = Recevez une notification lorsque { -brand-name-mozilla-vpn } est disponible pour votre région.
 
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Recevez une notification lorsque { -brand-name-mozilla-vpn } est disponible pour votre appareil et votre région.
 
 vpn-landing-invite-page-heading = Rejoindre la liste d’attente

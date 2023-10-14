@@ -98,14 +98,14 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } क
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } इन सभी के लिए <a href="{ $mobile }">मोबाइल</a>, टैबलेट और <a href="{ $desktop }">डेस्कटॉप</a> पर काम करता है:
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } इन डिवाइसों पर चल सकता है:
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (केवल 64-बिट)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a>10 (केवल 64-बिट)
@@ -114,24 +114,24 @@ vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 और इसके बाद का)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 और उससे ऊपर)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 और उससे ऊपर)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (वर्ज़न 8 और इसके बाद का)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (वर्ज़न 6 और उससे ऊपर)
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (वर्ज़न 6 और उससे ऊपर)
 
 # Variables:
@@ -139,7 +139,7 @@ vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (�
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } और इसके बाद का)
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 और इसके बाद का)
@@ -148,7 +148,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 और इसके बाद का)
 
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 और इसके बाद का)
 
@@ -158,7 +158,7 @@ vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla } की वे�
 
 vpn-landing-faq-refund-question-additional-desc = अगर आप { -brand-name-apple } { -brand-name-app-store } इन-ऐप खरीदारी के जरिए या { -brand-name-google-play } Store से अपना सब्सक्रिप्शन खरीदते हैं, तो आपका भुगतान { -brand-name-app-store } के नियम एवं शर्तों के अधीन रहेगा। आपको ऐसी किसी भी खरीदारी के संबंध में, किसी भी बिलिंग और रिफंड संबंधी पूछताछ को { -brand-name-apple } या { -brand-name-google }, जैसा उपयुक्त हो, के पास भेजना होगा।
 
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = आप अपना सब्सक्रिप्शन खरीदने के 30 दिन के अंदर अपना पैसा वापस पा सकते हैं। हमसे संपर्क करें और अपने { -brand-name-mozilla-vpn } ऐप के अंदर सेटिंग में जाकर “मदद पाएँ” बटन पर टैप करें और रिफंड का अनुरोध सबमिट करें।
 
 vpn-landing-faq-manage-subscription-question-heading = अपना सब्सक्रिप्शन कैसे मैनेज करूँ?
@@ -181,7 +181,7 @@ vpn-landing-invite-page-title = वेटिंग लिस्ट में श
 
 vpn-landing-invite-page-desc-v2 = आपके क्षेत्र के लिए { -brand-name-mozilla-vpn } उपलब्ध होने पर इसकी सूचना पाएं।
 
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } के आपके डिवाइस और इलाके के लिए उपलब्ध होने पर इसकी सूचना पाएँ।
 
 vpn-landing-invite-page-heading = VPN की वेटिंग लिस्ट में शामिल हों
