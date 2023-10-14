@@ -19,7 +19,7 @@ monitor-shared-footer-about-mozilla = Über { -brand-name-mozilla }
 monitor-shared-footer-terms-of-service = Nutzungsbedingungen
 monitor-shared-footer-privacy-policy = Datenschutzrichtlinie
 
-# Outdated string
+# Obsolete string
 monitor-shared-footer-terms-and-privacy = Nutzungsbedingungen und Datenschutz
 
 monitor-shared-footer-github = GitHub

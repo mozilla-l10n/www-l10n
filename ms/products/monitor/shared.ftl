@@ -19,7 +19,7 @@ monitor-shared-footer-about-mozilla = Tentang { -brand-name-mozilla }
 monitor-shared-footer-terms-of-service = Terma Perkhidmatan
 monitor-shared-footer-privacy-policy = Dasar Privasi
 
-# Outdated string
+# Obsolete string
 monitor-shared-footer-terms-and-privacy = Terma & Privasi
 
 monitor-shared-footer-github = GitHub
