@@ -28,7 +28,7 @@ firefox-new-need-help = मदद चाहिए?
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-windows } { -brand-name-xp } या { -brand-name-vista } के लिए { -brand-name-mozilla } <a href="{ $url }">अब सुरक्षा संबंधी अपडेट नहीं देता</a>, पर आप अब भी { -brand-name-firefox } इस्तेमाल कर सकते हैं।
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = आप एक असुरक्षित और पुराना ऑपरेटिंग सिस्टम इस्तेमाल कर रहे हैं, जिसे <a href="{ $url }">अब { -brand-name-firefox } द्वारा सपोर्ट नहीं किया जाता</a>।
@@ -52,7 +52,7 @@ firefox-new-your-system-may-not = आपका सिस्टम { -brand-name-
 
 firefox-new-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Variables:

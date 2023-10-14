@@ -28,7 +28,7 @@ firefox-new-need-help = Besoin d’aide ?
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ne fournit plus de mises à jour de sécurité</a> sur { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mais vous pouvez continuer d’utiliser { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Vous utilisez un système d’exploitation obsolète et vulnérable <a href="{ $url }">qui n’est plus pris en charge par { -brand-name-firefox }</a>.
@@ -52,7 +52,7 @@ firefox-new-your-system-may-not = Votre système ne dispose peut-être pas de la
 
 firefox-new-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Variables:

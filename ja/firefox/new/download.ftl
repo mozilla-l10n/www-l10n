@@ -28,7 +28,7 @@ firefox-new-need-help = お困りの場合
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } は、{ -brand-name-windows } { -brand-name-xp } および { -brand-name-vista } の<a href="{ $url }">セキュリティアップデートの提供を終了しています</a>が、引き続き { -brand-name-firefox } をご利用になれます。
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox } がサポートを終了した</a>安全でない古い OS を使用しています。
@@ -52,7 +52,7 @@ firefox-new-your-system-may-not = お使いのシステムが { -brand-name-fire
 
 firefox-new-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Variables:

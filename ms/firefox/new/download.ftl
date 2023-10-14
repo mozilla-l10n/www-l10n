@@ -28,7 +28,7 @@ firefox-new-need-help = Perlukan bantuan?
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak lagi membekalkan kemas kini keselamatan</a> bagi { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi anda masih boleh menggunakan { -brand-name-firefox }.
 
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi yang <a href="{ $url }">tidak selamat dan lama dan tidak lagi disokong oleh { -brand-name-firefox }</a>.
@@ -52,7 +52,7 @@ firefox-new-your-system-may-not = Sistem anda mungkin tidak memenuhi syarat untu
 
 firefox-new-windows = { -brand-name-windows }
 
-# Outdated string
+# Obsolete string
 firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Variables:
