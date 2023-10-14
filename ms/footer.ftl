@@ -12,41 +12,41 @@ footer-browser-comparison = Perbandingan Pelayar
 footer-brand-standards = Piawaian Jenama
 footer-browsers = Pelayar
 
-# Outdated string
+# Obsolete string
 footer-desktop = Desktop
 
-# Outdated string
+# Obsolete string
 footer-mobile = Mudah alih
 
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 
-# Outdated string
+# Obsolete string
 footer-products = Produk
 
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
 
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
 
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
 
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
 
-# Outdated string
+# Obsolete string
 footer-join = Sertai
 
-# Outdated string
+# Obsolete string
 footer-sign-up = Daftar
 
-# Outdated string
+# Obsolete string
 footer-sign-in = Daftar masuk
 
-# Outdated string
+# Obsolete string
 footer-benefits = Faedah-faedah
 footer-developers = Pembangun
 footer-developer-edition = { -brand-name-developer-edition }
@@ -59,15 +59,15 @@ footer-portions-of-this-content = Sebahagian daripada kandungan ini ©1998–{ $
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Syarikat
 
-# Outdated string
+# Obsolete string
 footer-about = Tentang
 footer-press-center = Pusat Berita
 footer-careers = Kerjaya
 
-# Outdated string
+# Obsolete string
 footer-test-new-features = Uji Ciri-ciri Baru
 
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Alatan
 footer-resources = Sumber

@@ -12,41 +12,41 @@ footer-browser-comparison = ブラウザーの比較
 footer-brand-standards = ブランド基準
 footer-browsers = ブラウザー
 
-# Outdated string
+# Obsolete string
 footer-desktop = デスクトップ
 
-# Outdated string
+# Obsolete string
 footer-mobile = モバイル
 
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 
-# Outdated string
+# Obsolete string
 footer-products = 製品
 
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
 
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
 
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
 
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
 
-# Outdated string
+# Obsolete string
 footer-join = 参加する
 
-# Outdated string
+# Obsolete string
 footer-sign-up = 新規登録
 
-# Outdated string
+# Obsolete string
 footer-sign-in = サインイン
 
-# Outdated string
+# Obsolete string
 footer-benefits = メリット
 footer-developers = デベロッパー
 footer-developer-edition = { -brand-name-developer-edition }
@@ -59,15 +59,15 @@ footer-portions-of-this-content = このコンテンツの一部は ©1998–{ $
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 会社
 
-# Outdated string
+# Obsolete string
 footer-about = 会社概要
 footer-press-center = プレスセンター
 footer-careers = 採用情報
 
-# Outdated string
+# Obsolete string
 footer-test-new-features = 新機能をテスト
 
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ツール
 footer-resources = リソース

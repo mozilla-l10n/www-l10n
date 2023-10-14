@@ -12,41 +12,41 @@ footer-browser-comparison = ब्राउज़र तुलना
 footer-brand-standards = ब्रांड मानक
 footer-browsers = ब्राउज़र
 
-# Outdated string
+# Obsolete string
 footer-desktop = डेस्कटॉप
 
-# Outdated string
+# Obsolete string
 footer-mobile = मोबाइल
 
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 
-# Outdated string
+# Obsolete string
 footer-products = उत्पाद
 
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
 
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
 
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
 
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
 
-# Outdated string
+# Obsolete string
 footer-join = शामिल हों
 
-# Outdated string
+# Obsolete string
 footer-sign-up = साइन अप करें
 
-# Outdated string
+# Obsolete string
 footer-sign-in = साइन इन करें
 
-# Outdated string
+# Obsolete string
 footer-benefits = फायदे
 footer-developers = डेवलपर
 footer-developer-edition = { -brand-name-developer-edition }
@@ -59,15 +59,15 @@ footer-portions-of-this-content = इस सामग्री के कुछ 
 footer-mozilla = { -brand-name-mozilla }
 footer-company = कंपनी
 
-# Outdated string
+# Obsolete string
 footer-about = परिचय
 footer-press-center = प्रेस सेंटर
 footer-careers = करियर
 
-# Outdated string
+# Obsolete string
 footer-test-new-features = नए फ़ीचर्स टेस्ट करें
 
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = टूल्स
 footer-resources = संसाधन

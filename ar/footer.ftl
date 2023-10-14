@@ -12,41 +12,41 @@ footer-browser-comparison = المقارنة بين المتصفحات
 footer-brand-standards = معايير العلامات التجارية
 footer-browsers = المتصفحات
 
-# Outdated string
+# Obsolete string
 footer-desktop = أجهزة الكمبيوتر
 
-# Outdated string
+# Obsolete string
 footer-mobile = الهواتف المحمولة
 
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
 
-# Outdated string
+# Obsolete string
 footer-products = المنتجات
 
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
 
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
 
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
 
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
 
-# Outdated string
+# Obsolete string
 footer-join = انضم إلينا
 
-# Outdated string
+# Obsolete string
 footer-sign-up = تسجيل الاشتراك
 
-# Outdated string
+# Obsolete string
 footer-sign-in = تسجيل الدخول
 
-# Outdated string
+# Obsolete string
 footer-benefits = المزايا
 footer-developers = المُطوّرون
 footer-developer-edition = { -brand-name-developer-edition }
@@ -59,15 +59,15 @@ footer-portions-of-this-content = أجزاء من هذا المحتوى محفو
 footer-mozilla = { -brand-name-mozilla }
 footer-company = الشركة
 
-# Outdated string
+# Obsolete string
 footer-about = نبذة عنا
 footer-press-center = مركز الصحافة
 footer-careers = الوظائف
 
-# Outdated string
+# Obsolete string
 footer-test-new-features = اختبِر الميزات الجديدة
 
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = الأدوات
 footer-resources = الموارد
