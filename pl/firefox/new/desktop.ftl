@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } został s
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wraz z rozwojem i zmianami Internetu, { -brand-name-firefox } nadal skupia się na Twoim prawie do prywatności — nazywamy to <a { $attrs }>obietnicą o danych osobowych</a>: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic. Twoje dane, Twoje działania w sieci, Twoje życie w sieci jest chronione przez { -brand-name-firefox(case: "acc") }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jest dostępny na wszystkich urządzeniach — miej karty, historię i zakładki zawsze przy sobie. <a { $attrs }>Konto { -brand-name-firefox(case: "gen") }</a> to wszystko, czego potrzebujesz.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } jest dostępny na wszystkich urządzeniach — miej karty, historię i zakładki zawsze przy sobie. <a { $attrs }>{ -brand-name-mozilla-account }</a> to wszystko, czego potrzebujesz do synchronizacji i innych produktów { -brand-name-mozilla(case: "gen") }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Wykonuj zrzuty ekranu o wysokiej rozdzielczości za pomocą naszego <a { $attrs }>narzędzia</a> wbudowanego w przeglądarkę.
@@ -147,8 +151,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Pytania? <a { $attrs }>Pomoc { -brand-name-mozilla(case: "gen") }</a> ma odpowiedzi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Masz już przeglądarkę. Teraz wyciągnij z { -brand-name-firefox(case: "gen") } jeszcze więcej.
+firefox-desktop-download-watch-for-hackers-with-v3 = Uważaj na hakerów za pomocą { -brand-name-mozilla-monitor }, chroń adres e-mail dzięki { -brand-name-firefox-relay } i nie tylko.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Uważaj na hakerów za pomocą { -brand-name-firefox-monitor }, chroń adres e-mail dzięki { -brand-name-firefox-relay } i nie tylko.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Uważaj na hakerów za pomocą { -brand-name-firefox-monitor }, chroń hasła dzięki { -brand-name-firefox-lockwise } i nie tylko.
 firefox-desktop-download-get-more-from-firefox = Wyciągnij więcej z { -brand-name-firefox(case: "gen") }
 firefox-desktop-download-just-download-the-browser = Tylko pobierz przeglądarkę
@@ -167,7 +173,7 @@ firefox-desktop-download-now-mac = Teraz <strong>otwórz</strong> właśnie pobr
 firefox-desktop-download-get-help = Masz problem? <a { $attrs }>Przeczytaj pomoc na temat instalacji</a>.
 firefox-desktop-download-in-another-language = Pobierz w innym języku lub dla innego systemu operacyjnego.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Pomoc zawiera więcej informac
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nie zapewnia już aktualizacji zabezpieczeń</a> w systemach { -brand-name-windows } { -brand-name-xp } i { -brand-name-vista }, ale nadal można na nich używać { -brand-name-firefox(case: "gen") }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Używasz niebezpiecznego, przestarzałego systemu operacyjnego, który <a href="{ $url }">nie jest już obsługiwany przez { -brand-name-firefox(case: "acc") }</a>.

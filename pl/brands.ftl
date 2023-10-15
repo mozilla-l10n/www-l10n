@@ -422,6 +422,7 @@
             }
     }
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -610,6 +611,73 @@
         [ins] Thunderbirdem
         [loc] Thunderbirdzie
     }
+-brand-name-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] konta Mozilli
+               *[upper] Konta Mozilli
+            }
+        [dat]
+            { $capitalization ->
+                [lower] kontu Mozilli
+               *[upper] Kontu Mozilli
+            }
+        [acc]
+            { $capitalization ->
+                [lower] konto Mozilli
+               *[upper] Konto Mozilli
+            }
+        [ins]
+            { $capitalization ->
+                [lower] kontem Mozilli
+               *[upper] Kontem Mozilli
+            }
+        [loc]
+            { $capitalization ->
+                [lower] koncie Mozilli
+               *[upper] Koncie Mozilli
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] konto Mozilli
+               *[upper] Konto Mozilli
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] kont Mozilli
+               *[upper] Kont Mozilli
+            }
+        [dat]
+            { $capitalization ->
+                [lower] kontom Mozilli
+               *[upper] Kontom Mozilli
+            }
+        [acc]
+            { $capitalization ->
+                [lower] konta Mozilli
+               *[upper] Konta Mozilli
+            }
+        [ins]
+            { $capitalization ->
+                [lower] kontami Mozilli
+               *[upper] Kontami Mozilli
+            }
+        [loc]
+            { $capitalization ->
+                [lower] kontach Mozilli
+               *[upper] Kontach Mozilli
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] konta Mozilli
+               *[upper] Konta Mozilli
+            }
+    }
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -627,7 +695,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
+# Obsolete string
 -brand-name-web-assembly = WebAssembly
 
 ## Other browsers

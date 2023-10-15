@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = Biuletyn { -brand-name-mozilla(case: "gen") }
 newsletters-read-all-about-it-in-our-newsletter = Przeczytaj więcej na ten<br /> temat w naszym <span>biuletynie</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Subskrybuj, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }, podejmować działania na rzecz zdrowszego Internetu i mądrzej z niego korzystać.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }. To idealny sposób na utrzymanie z nami kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potwierdzenie subskrypcji
@@ -56,8 +56,12 @@ newsletters-please-select-language = Wybierz język
 # Form field label
 newsletters-format = Format:
 newsletters-text-subscribers-will-receive = Subskrybujący w formacie tekstowym dwa razy do roku otrzymają wiadomość proszącą o potwierdzenie kontynuacji subskrypcji. Te wiadomości mogą zawierać kod HTML.
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
+newsletters-many-of-our-communications-v2 = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-mozilla-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
+# Obsolete string
 newsletters-many-of-our-communications = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-firefox-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
@@ -82,7 +86,7 @@ newsletters-youve-been-unsubscribed = Subskrypcja została anulowana.
 newsletters-were-sorry-to-see-you-go = Przykro nam, że chcesz się z nami pożegnać.
 newsletters-would-you-mind-telling-us = Możesz nam powiedzieć dlaczego?
 newsletters-other-v2 = Inne… (maksymalnie 500 znaków)
-# Outdated string
+# Obsolete string
 newsletters-other = Inne…
 newsletters-submit = Wyślij
 newsletters-thanks-for-telling-us-why = Dziękujemy za wyjaśnienie, dlaczego nas opuszczasz.
@@ -137,6 +141,8 @@ newsletters-take-your-privacy = Prywatność zawsze przy Tobie
 newsletters-travel-the-internet = Podróżuj po Internecie z ochroną na wszystkich urządzeniach.
 newsletters-download-the-app = Pobierz aplikację
 newsletters-check-for-data-breaches = Sprawdź wycieki danych
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } to bezpłatny serwis umożliwiający sprawdzenie, czy Twoje dane znalazły się w wycieku haseł z innej firmy.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } to bezpłatny serwis umożliwiający sprawdzenie, czy Twoje dane znalazły się w wycieku haseł z innej firmy.
 newsletters-sign-in-to-monitor = Zaloguj się w serwisie { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Poznaj naszą główną markę
@@ -185,7 +191,7 @@ newsletters-news-and-information = Wiadomości i informacje dotyczące stanu si
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Dawny program University z lat 2008-2011, obecnie wznowiony jako program { -brand-name-firefox } Student Ambassadors.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Dawny program University z lat 2008-2011, obecnie wznowiony jako program Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
@@ -293,6 +299,8 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Informacje pomagające w pełni korzystać z programu { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+# Obsolete string
 newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Otrzymuj wskazówki od { -brand-name-mozilla(case: "gen") }, jak najlepiej wykorzystać swoje konto.
