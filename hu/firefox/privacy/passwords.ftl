@@ -35,7 +35,7 @@ privacy-passwords-the-lock-means = A zár azt jelenti, hogy a használt weboldal
 privacy-passwords-a-padlock-with = Az áthúzott lakat azt jelzi, hogy a kapcsolat nem biztonságos.
 privacy-passwords-your-browser-also = A böngészője abban is segít, hogy tájékozódjon arról, hogy mennyire megbízható egy webhely, és megvédje az adathalászattól. Ha olyan weboldalt próbál felkeresni, amely egy ismert adathalász oldal, akkor a { -brand-name-firefox } (és bármelyik más nagy böngésző) egy teljes képernyős figyelmeztetést jelenít meg – <strong>figyeljen oda, és kétszer is gondolja meg, mielőtt használja azt az oldalt!</strong>
 privacy-passwords-firefox-will-v2 = A { -brand-name-firefox } a webhely helyett figyelmeztetést jelenít meg, ha az egy ismert adathalász webhely.
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = A Firefox a webhely helyett figyelmeztetést jelenít meg, ha az egy ismert adathalász webhely.
 privacy-passwords-in-general-the = Általánosságban, az adathalászat elleni legjobb védelem az, hogy <strong>gyanakszik a kapott adatokra</strong>, érkezzenek azok e-mailben, SMS-ben vagy a telefonjára. Ahelyett, hogy a küldött adatok alapján tenne valamit, inkább keresse fel az oldalt közvetlenül. Például, ha egy e-mail azt mondja, hogy le kell cserélnie a PayPal-jelszavát, akkor ne kattintson a hivatkozásra. Írja be Ön a paypal.com-ot. Ha a bank hívja, hívja vissza őket.
 privacy-passwords-strength-in-diversity = Erő a sokszínűségben
@@ -44,7 +44,7 @@ privacy-passwords-the-secret-to = A találgatás, lopás vagy jelszó-visszaáll
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Amikor egy támadó ellopja egy Ön által használt webhely jelszó-adatbázisát (például a <a { $url_linkedin }>LinkedIn</a>ét vagy a <a { $url_yahoo }>Yahoo</a>-ét), nem tehet mást, mint megváltoztatni a jelszavát az adott webhelyhez. Ez rossz, de a károk sokkal rosszabbak lehetnek, ha e jelszót újra felhasználta más webhelyeken – akkor a támadó e webhelyeken is hozzáférhet a fiókjához. A károk megelőzése érdekében <strong>mindig használjon különböző jelszavakat a különböző webhelyekhez.</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-mozilla-monitor = Használja a <a { $url_monitor }>{ -brand-name-mozilla-monitor }t</a>, hogy szemmel tartsa a fiókjaihoz tartozó e-mail-címeket. Ha az e-mail-címe megjelenik egy ismert vállalati adatvédelmi incidensben, akkor figyelmeztetést kap, és utasításokat ad, hogy megvédje az érintett fiókot.
+privacy-passwords-use-mozilla-monitor = Használja a <a { $url_monitor }>{ -brand-name-mozilla-monitor }t</a>, hogy szemmel tartsa a fiókjaihoz használt e-mail-címeket. Ha az e-mail-címe megjelenik egy ismert vállalati adatsértésben, akkor értesíteni fogjuk, és lépéseket biztosítunk, amellyel megvédheti az érintett fiókot.
 # Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Használja a <a { $url_monitor }>{ -brand-name-firefox-monitor }t</a>, hogy szemmel tartsa a fiókjaihoz használt e-mail-címeket. Ha az e-mail-címe megjelenik egy ismert vállalati adatsértésben, akkor értesíteni fogjuk, és lépéseket biztosítunk, amellyel megvédheti az érintett fiókot.
@@ -72,7 +72,7 @@ privacy-passwords-for-better-or = Attól függetlenül, hogy ez jó-e, a beláth
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = A mai interneten, ahol naponta jelszavak ezreit lopják el, és a fiókokkal a feketepiacon kereskednek, érdemes erőfeszítéseket tenni az online élete megvédése érdekében. Amikor { -brand-name-firefox } termékeket használ, akkor valami erőfeszítést leveszünk a válláról, mert a termékeink úgy készülnek, hogy betartsák az <a { $url_privacy_products }>adatvédelmi ígéretünket</a>. Továbbá a { -brand-name-firefox(case: "accusative") } mindig a <a { $url_about_manifesto }>{ -brand-name-mozilla } küldetése</a> vezérli, azé a nonprofit szervezeté, amely minket támogat a jobb internet érdekében.
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = A mai interneten, ahol naponta jelszavak ezreit lopják el, és a fiókokkal a feketepiacon kereskednek, érdemes erőfeszítéseket tenni az online élete megvédése érdekében. Amikor { -brand-name-firefox } termékeket használ, akkor valami erőfeszítést leveszünk a válláról, mert a termékeink úgy készülnek, hogy betartsák az <a { $url_privacy_products }>adatvédelmi ígéretünket</a>. Továbbá a { -brand-name-firefox(case: "accusative") } mindig a <a { $url_about_manifesto }>Mozilla küldetése</a> vezérli, azé a nonprofit szervezeté, amely minket támogat a jobb internet érdekében.

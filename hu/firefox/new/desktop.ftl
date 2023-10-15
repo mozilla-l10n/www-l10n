@@ -151,10 +151,10 @@ firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } autom
 firefox-desktop-download-questions = Kérdései vannak? A <a { $attrs }>{ -brand-name-mozilla } támogatás</a> a rendelkezésére áll.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Már rendelkezik a böngészővel. Most kapjon még többet a { -brand-name-firefox }tól.
-firefox-desktop-download-watch-for-hackers-with-v3 = Figyeljen a hackerekre a { -brand-name-mozilla-monitor } segítségével, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
+firefox-desktop-download-watch-for-hackers-with-v3 = Figyeljen a hackerekre a { -brand-name-mozilla-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg a jelszavait a { -brand-name-firefox-lockwise } segítségével, és így tovább.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
@@ -173,7 +173,7 @@ firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen le
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
 firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = További részletekért látog
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="{ $url }">már nem támogat a { -brand-name-firefox }</a>.
