@@ -27,3 +27,19 @@ mobile-ios-your-browsing-history = Vaša historija pretraživanja je stvar proš
 mobile-ios-if-you-want = Ako želite, možete jednostavno odabrati da idete na internet i pretražujete u načinu privatnog pretraživanja. A kada zatvorite način privatnog pretraživanja, vaša historija pretraživanja i svi kolačići se automatski brišu s vašeg uređaja.
 mobile-ios-get-more-firefox = Za više { -brand-name-firefox }-a u vašem životu
 mobile-ios-add-firefox-across-v2 = Preuzmite { -brand-name-firefox } na sve vaše uređaje za bezbjedno i besprekorno pretraživanje. Sinhronizujte uređaje da ponesete vaše omiljene oznake, sačuvane prijave, lozinke i historiju sa sobom gdje god da krenete. Takođe, šaljite otvorene kartice između mobilnih i desktop uređaja da nastavite tamo gdje ste stali.
+mobile-ios-get-to-your-go-to = Brže stignite na omiljena mesta na vašem { -brand-name-iphone }u i { -brand-name-ipad }u
+mobile-ios-see-your-open-tabs = Pratite vaše otvorene tabove, nedavne pretrage i omiljene web stranice na jednom mjestu uz { -brand-name-firefox-browser } za { -brand-name-ios }.
+mobile-ios-own-your-home = Prilagodite početni ekran sebi
+mobile-ios-get-to-the-parts = Brže dođite do dijelova interneta do kojih vam je stalo. Odaberite da vidite sve svoje otvorene tabove, nedavna pretraživanja, oznake i omiljene stranice na jednom mjestu.
+# Obsolete string
+mobile-ios-add-firefox-across = Preuzmite { -brand-name-firefox } na sve vaše uređaje za bezbjedno i besprekorno pretraživanje. { -brand-name-sync } vaše uređaje da ponesete vaše omiljene oznake, sačuvane prijave, lozinke i historiju sa sobom gdje god da krenete. Takođe, šaljite otvorene kartice između mobilnih i desktop uređaja da nastavite tamo gdje ste stali.
+mobile-ios-find-it-all = Nađite sve brže
+mobile-ios-get-search-suggestions = Dobijajte prijedloge u traci za pretragu i pristupajte brzo web stranicama koje najčešće posjećujete. Unesite vaš upit i dobijte predložene i prethodno pretražene rezultate u vašim omiljenim pretraživačima.
+# Obsolete string
+mobile-ios-keep-tabs-on = Držite oko na svim tabovima
+# Obsolete string
+mobile-ios-create-as-many = Ne brinite da ćete otvoriti previše tabova i izgubiti se. { -brand-name-firefox } prikazuje vaše otvorene tabove kao sličice i numerisane tabove, tako da možete brzo da pronađete ono što tražite.
+mobile-ios-discover-more-of = Otkrijte više onoga što volite
+mobile-ios-open-a-new = Otvorite novi { -brand-name-firefox } tab da vidite web stranice koje najčešće posjećujete, nedavne oznake i popularne { -brand-name-pocket } članke. { -brand-name-firefox } vam omogućava brz pristup web stranicama koje ste nedavno koristili kako bi brže došli do onoga što želite.
+mobile-ios-about-mozilla = O { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } postoji da izgradi Internet kao javni resurs dostupan svima jer vjerujemo da je otvoreno i besplatno bolje nego zatvoreno i kontrolisano.  Pravimo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } da promovišemo izbor, transparentnost i kontrolu.
