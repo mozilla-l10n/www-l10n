@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } Newsletter
 newsletters-read-all-about-it-in-our-newsletter = ¡Lee toda la información sobre Firefox en <span>nuestro boletín!</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Suscríbete aquí para estar al día con noticias de { -brand-name-mozilla }, actuar por un Internet más saludable, y saber más acerca de tu vida en la red.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Subscríbete para recibir actualizaciones y estar al día de las noticias de { -brand-name-mozilla }. ¡Es la manera perfecta de estar en contacto contigo!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmar boletín
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = Has cancelado la suscripción.
 newsletters-were-sorry-to-see-you-go = Lamentamos que te vayas.
 newsletters-would-you-mind-telling-us = ¿Te importaría contarnos por qué te vas?
 newsletters-other-v2 = Otro…(máximo 500 caracteres)
-# Outdated string
+# Obsolete string
 newsletters-other = Otra razón…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Gracias por contarnos por qué te vas.
@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Lleva tu privacidad contigo
 newsletters-travel-the-internet = Navega por internet con protección en todos tus dispositivos.
 newsletters-download-the-app = Descargar la aplicación
 newsletters-check-for-data-breaches = Comprobar si hay filtraciones de datos
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } es un servicio gratuito que te permite ver si estás involucrado en una filtración de datos en línea.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } es un servicio gratuito que te permite ver si estás involucrado en una filtración de datos en línea.
 newsletters-sign-in-to-monitor = Inicia sesión en { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Conoce nuestra marca matriz
@@ -189,7 +191,7 @@ newsletters-news-and-information = Noticias e información relacionadas con la i
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Un antiguo programa universitario de 2008 a 2011, ahora suprimido y relanzado como el programa { -brand-name-firefox } Student Ambassadors.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Un antiguo programa universitario de 2008 a 2011, ahora suprimido y relanzado como el programa Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
