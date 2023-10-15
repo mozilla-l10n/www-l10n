@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Račun ni obvezen. Morda pa bi ga želeli.
+whatsnew-account-main-lead-in-v2 = Brskalnik { -brand-name-firefox } zbira tako malo podatkov o vas, da vašega e-poštnega naslova sploh ne potrebujemo. Ko pa ga uporabite za ustvarjanje { -brand-name-mozilla-account(sklon: "rodilnik") }, dobite poleg { -brand-name-firefox(sklon: "rodilnik") } dostop do cele palete izdelkov za zaščito zasebnosti.
 whatsnew-account-mozilla-cta = Pridobite { -brand-name-mozilla-account(sklon: "tozilnik") }
 
 ##

@@ -138,6 +138,9 @@ firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spremi
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } Račun</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } vam je na voljo za vse naprave; vzemite svoje zavihke in podatke s seboj! Za uporabo sinhronizacije in še več izdelkov { -brand-name-mozilla(sklon: "rodilnik") } je vse, kar potrebujete, <a { $attrs }>{ -brand-name-mozilla-account }</a>.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Zajemite sliko česarkoli na spletu z orodjem za <a { $attrs }>posnetke zaslona</a>, vgrajenim naravnost v brskalnik
 # Variables:
@@ -151,7 +154,7 @@ firefox-desktop-download-youve-already-got-the-browser = Brskalnik že imate. Zd
 firefox-desktop-download-watch-for-hackers-with-v3 = Pazite na hekerje z { -brand-name-mozilla-monitor }jem, zaščitite svoj e-poštni naslov s { -brand-name-firefox-relay } in drugo.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Pazite na hekerje s { -brand-name-firefox-monitor }jem, zaščitite svoj e-poštni naslov s { -brand-name-firefox-relay } in drugo.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Pazite na hekerje s { -brand-name-firefox-monitor }jem, zaščitite gesla s { -brand-name-firefox-lockwise } in drugo.
 firefox-desktop-download-get-more-from-firefox = Priskrbite si več od { -brand-name-firefox }a
 firefox-desktop-download-just-download-the-browser = Samo prenesite brskalnik
@@ -170,7 +173,7 @@ firefox-desktop-download-now-mac = Zdaj <strong>odprite</strong> datoteko, ki st
 firefox-desktop-download-get-help = Imate težave? <a { $attrs }>Poiščite pomoč pri namestitvi</a>.
 firefox-desktop-download-in-another-language = Prenesite v drugem jeziku ali za drug operacijski sistem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -179,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Za več podrobnosti obiščite
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ne izdaja več varnostnih posodobitev</a> za { -brand-name-windows } { -brand-name-xp } in { -brand-name-vista }, vendar lahko { -brand-name-firefox } vseeno uporabljate.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Uporabljate zastarel operacijski sistem, ki ni več varen in ga <a href="{ $url }">{ -brand-name-firefox } ne podpira več</a>.

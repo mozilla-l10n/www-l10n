@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Če vidite »(32-bitni)« in uporabljat
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Če želite ročno namestiti 32-bitno ali 64-bitno različico { -brand-name-firefox }a, lahko preprosto prenesete in znova zaženete namestitveni program za { -brand-name-windows } (32-bitni ali 64-bitni) s <a href="{ $all }">strani za sisteme in jezike</a>.
 windows-64-bit-take-control-of-your = Prevzemite nadzor nad svojim brskalnikom.
+windows-64-bit-download-firefox = Prenesi { -brand-name-firefox } za 64-bitni Windows
