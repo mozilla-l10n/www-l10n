@@ -18,3 +18,5 @@ mobile-ios-send-a-download-link-to-your = Pošalji link za preuzimanje na svoj m
 mobile-ios-scan-the-qr-code-to-get-started = Skenirajte QR kod da započnete
 mobile-ios-scan-alt-text = Skenirajte QR kod da preuzmete { -brand-name-firefox } na { -brand-name-ios }
 mobile-ios-make-firefox-your = Neka { -brand-name-firefox } bude vaš zadani pretraživač
+mobile-ios-now-iphone-and = { -brand-name-iphone } i { -brand-name-ipad } korisnici sada mogu da biraju sopstveni zadani pretraživač. To znači da niste primorani da koristite { -brand-name-safari } i da vaš mobilni pretraživač može da ostane sinhronizovan sa vašim omiljenim desktop pretraživačem. Postavljanjem { -brand-name-firefox }-a za zadani pretraživač podržavate nezavisnu tehnološku kompaniju. { -brand-name-firefox } je također jedini veliki pretraživač kojeg podržava neprofitna organizacija.
+mobile-ios-fast-private-secure = Brz. Privatan. Siguran
