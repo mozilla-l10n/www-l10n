@@ -41,3 +41,8 @@ firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajedn
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Primjer <a href="{ $url }">pliste za konfiguracioni profil</a>
+firefox-enterprise-pkg-installer = PKG instalacija
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
+# Variables:
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+firefox-enterprise-download-firefox-esr-or-rapid = Preuzmite { -brand-name-firefox-esr } ili Brzo izdanje za <br> <a href="{ $firefox_all }">jedan drugi jezik ili platformu.</a>
