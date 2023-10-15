@@ -15,3 +15,7 @@ privacy-first = Privatnost na prvom mjestu
 firefox-doesnt-spy = { -brand-name-firefox } ne zaviruje u vaše pretrage. Mi blokiramo poznate elemente za praćenje trećih strana i dajemo vam potpunu kontrolu.
 super-fast = Super brz
 get-speed-and = Imajte i brzinu i sigurnost. { -brand-name-firefox } je brz zato što ne prati vašu aktivnost.
+always-evolving = Uvijek u razvoju
+# Variables:
+# $url (url) - link to https://www.mozilla.org/firefox/features
+find-out-about = Saznajte više o svim nevjerovatnim <a href="{ $url }">{ -brand-name-firefox } mogućnostima</a>.
