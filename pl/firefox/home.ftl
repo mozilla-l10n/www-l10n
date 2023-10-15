@@ -7,8 +7,12 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } — chroń swoje życie w sieci za pomocą produktów zapewniających prywatność
 firefox-home-firefox-is-more-than = { -brand-name-firefox } to więcej niż przeglądarka. Dowiedz się więcej o produktach { -brand-name-firefox(case: "gen") }, które szanują Twoje dane i są zbudowane z myślą o prywatności.
+# Obsolete string
 firefox-home-the-browser-is-just = Przeglądarka to dopiero początek
+firefox-home-firefox-is-just = { -brand-name-firefox } to dopiero początek.
+# Obsolete string
 firefox-home-meet-our-family-of = Poznaj naszą rodzinę produktów
+firefox-home-meet-mozillas-family = Poznaj rodzinę produktów { -brand-name-mozilla(case: "gen") }
 firefox-home-get-trackers-off = Pozbądź się ponad 2000 elementów śledzących — także { -brand-name-facebook(case: "gen") }
 firefox-home-know-when-hackers-strike = Wiedz, gdy hakerzy atakują — i bądź o krok przed nimi
 firefox-home-start-getting-breach = Subskrybuj raporty o atakach
@@ -20,7 +24,9 @@ firefox-home-keep-your-passwords = Zabezpiecz swoje hasła na każdym urządzeni
 firefox-home-learn-more-about-lockwise = Więcej informacji o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Ciesz się <strong>szacunkiem</strong>, na jaki zasługujesz
+# Obsolete string
 firefox-home-every-single-firefox = Każdy produkt { -brand-name-firefox(case: "gen") } działa w zgodzie z naszą obietnicą o danych osobowych: <strong>zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic.</strong>
+firefox-home-every-single-mozilla = Każdy produkt { -brand-name-mozilla(case: "gen") } działa w zgodzie z naszą obietnicą o danych osobowych: <strong>zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Udostępniaj duże pliki bez wścibskich oczu
 # Obsolete string
@@ -52,6 +58,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
