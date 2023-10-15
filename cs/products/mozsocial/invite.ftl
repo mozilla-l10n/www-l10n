@@ -8,3 +8,15 @@
 # HTML page title
 mozsocial-invite-join-the-waitlist = Přidejte se na seznam čekatelů na { -brand-name-mozilla-social }
 mozsocial-invite-welcome-to-mozillasocial = Vítá vás { -brand-name-mozilla-social }!
+mozsocial-invite-please-join-our-waitlist = Přidejte se na náš seznam čekatelů vyplněním níže uvedeného formuláře.
+mozsocial-invite-required-label = Vyžadováno
+mozsocial-invite-first-name-label = Jméno
+mozsocial-invite-last-name-label = Příjmení
+mozsocial-invite-your-email-address-label = Vaše e-mailová adresa
+mozsocial-invite-country-label = Země
+# "Handle" is jargon for a user name.
+mozsocial-invite-twitter-handle-label = Účet na Twitteru?
+# Mastodon is a brand name. "Handle" is jargon for a user name.
+mozsocial-invite-mastodon-handle-label = Účet na Mastodonu?
+mozsocial-invite-thanks-youre-on-the-list = Díky! Jste na seznamu
+mozsocial-invite-mozillasocial-is-currently = { -brand-name-mozilla-social } je v současné době k dispozici pro uzavřenou testovací skupinu, protože experimentujeme, získáváme informace od účastníků, učíme se a zlepšujeme uživatelský zážitek. Pozvánku vám zašleme e-mailem, jak se budeme postupně rozšiřovat.
