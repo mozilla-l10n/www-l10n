@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Zobrazit všechny { -brand-name-firefo
 
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Zavřít
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Zkontrolujte, jestli se váš e-mail neobjevil v nějakém úniku dat.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Zjistěte, jak každý produkt { 
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujte si nové účty bez nutnosti prozradit svou e-mailovou adresu.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Zabezpečte připojení svého prohlížeče do internetu.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nové funkce a nástroje pro personalizované prostředí { -brand-name-mdn }
 navigation-v2-view-all-products = Zobrazit všechny produkty

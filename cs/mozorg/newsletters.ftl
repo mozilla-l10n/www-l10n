@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = Zpravodaj { -brand-name-mozilla(case: "gen") }
 newsletters-read-all-about-it-in-our-newsletter = Přečtěte si více v našem <span>zpravodaji</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Přihlaste se k odběru, abyste měli neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }, podnikali kroky pro zdravější internet a byli chytřejší ve svém online životě.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Přihlaste se k odběru aktualit a mějte neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }. Je to ideální způsob, jak s námi zůstat v kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potvrzení odběru zpravodaje
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
 newsletters-would-you-mind-telling-us = Nechcete nám říci, proč si odhlašujete odběr?
 newsletters-other-v2 = Jiný… (maximálně 500 znaků)
-# Outdated string
+# Obsolete string
 newsletters-other = Jiné…
 newsletters-submit = Odeslat
 newsletters-thanks-for-telling-us-why = Děkujeme, že jste nám řekli, proč nás opouštíte.
@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Vezměte si s sebou své soukromí
 newsletters-travel-the-internet = Cestujte po internetu s ochranou na všech svých zařízeních.
 newsletters-download-the-app = Stáhnout aplikaci
 newsletters-check-for-data-breaches = Zkontrolovat úniky dat
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
 newsletters-sign-in-to-monitor = Přihlásit se do { -brand-name-monitor(case: "gen") }
 newsletters-meet-our-parent-brand = Seznamte se s naší mateřskou značkou
@@ -189,7 +191,7 @@ newsletters-news-and-information = Novinky a informace týkající se zdravého 
 newsletters-student-reps = Zástupci studentů
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program { -brand-name-firefox } Student Ambassadors.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page

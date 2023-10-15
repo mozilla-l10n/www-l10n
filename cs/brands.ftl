@@ -528,6 +528,7 @@
         [ins] Firefoxem Lockwise
     }
     .gender = masculine
+# Obsolete brand name
 -brand-name-firefox-monitor =
     { $case ->
        *[nom] Firefox Monitor
@@ -807,6 +808,7 @@
                *[upper] Účty Mozilla
             }
     }
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -844,7 +846,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
+# Obsolete string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
