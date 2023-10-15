@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Jest kilka sposób, na jakie przeglądarka m
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Kolejny sposób to przechowywanie jak najmniejszej ilości danych użytkownika. Hakerzy nie mogą ukraść czegoś, czego nie ma, i dlatego { -brand-name-firefox } przechowuje minimalną ilość informacji o swoich użytkownikach. <a href="{ $data }">{ -brand-name-firefox } wie</a>, że używasz przeglądarki i zna Twoje ogólne położenie, <a href="{ $privacy }">ale nie zna imienia Twojego zwierzątka z dzieciństwa ani ulubionego koloru.</a>
 best-browser-last-but-not-least = Bezpieczna przeglądarka powinna zawierać narzędzia pomagające mieć kontrolę nad swoimi kontami. Wyobraź sobie alarmy prosto w Twojej skrzynce, gdy którekolwiek z Twoich kont zostanie złamane, albo ikony informujące, czy witryna jest zaszyfrowana (tzn. czy wpisanie na stronie sklepu numeru karty płatniczej jest dobrym pomysłem).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } oferuje coś nowego, aby zapewnić Ci bezpieczeństwo: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. To darmowy serwis, który ostrzeże Cię, jeśli którekolwiek z Twoich kont zostanie złamane, i poinformuje Cię, czy jakieś zostało zhakowane w przeszłości. Inną ciekawą funkcją jest zielona kłódka. Wygląda jak mała zielona ikona w lewym górnym rogu okna przeglądarki. Jeśli używasz { -brand-name-firefox(case: "acc") } i widzisz zieloną kłódkę, oznacza to, że witryna jest zaszyfrowana i bezpieczna. Jeśli kłódka jest szara, to warto dwa razy zastanowić się, czy podać na niej jakiekolwiek prywatne dane.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } oferuje coś nowego, aby zapewnić Ci bezpieczeństwo: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. To darmowy serwis, który ostrzeże Cię, jeśli którekolwiek z Twoich kont zostanie złamane, i poinformuje Cię, czy jakieś zostało zhakowane w przeszłości. Inną ciekawą funkcją jest zielona kłódka. Wygląda jak mała zielona ikona w lewym górnym rogu okna przeglądarki. Jeśli używasz { -brand-name-firefox(case: "acc") } i widzisz zieloną kłódkę, oznacza to, że witryna jest zaszyfrowana i bezpieczna. Jeśli kłódka jest szara, to warto dwa razy zastanowić się, czy podać na niej jakiekolwiek prywatne dane.
