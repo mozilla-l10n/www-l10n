@@ -25,6 +25,7 @@ firefox-home-learn-more-about-lockwise = Saper plus re { -brand-name-lockwise }
 firefox-home-get-the-respect-you = Obtene le <strong>respecto</strong> que tu merita
 # Obsolete string
 firefox-home-every-single-firefox = Cata producto de { -brand-name-firefox } honora nostre promissa sur tu datos personal: nos promitte de <strong>prender minus de tu datos, mantener los secur, e non guardar secretos pro te</strong>.
+firefox-home-every-single-mozilla = Cata producto de { -brand-name-mozilla } honora nostre promissa sur tu datos personal: nos promitte de <strong>prender minus de tu datos, mantener los secur, e non guardar secretos pro te</strong>.
 # Obsolete string
 firefox-home-share-large-files-without = Comparti grande files sin oculos indiscrete
 # Obsolete string

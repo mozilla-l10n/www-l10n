@@ -133,6 +133,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha essite
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Assi que Internet cresce e cambia, { -brand-name-firefox } continua concentrar se sur tu derecto al confidentialitate, nos lo appella le <a { $attrs }>Promissa re datos personal</a>: prender minus, mantener lo secur e transparentia. Tu datos, tu activitate web, tu vita online es protegite per { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que tu besonia es un <a { $attrs }>conto { -brand-name-firefox }</a>.
@@ -147,8 +148,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Questiones? Le supporto de <a { $attrs }>{ -brand-name-mozilla } assistentia</a> te coperi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Survelia le hackers con { -brand-name-mozilla-monitor }, protege tu adresse email con { -brand-name-firefox-relay }, e altero ancora.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu adresse email con { -brand-name-firefox-relay }, e altero ancora.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu contrasignos con { -brand-name-firefox-lockwise }, e multo plus.
 firefox-desktop-download-get-more-from-firefox = Recipe plus per { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Discarga le navigator
@@ -167,7 +170,7 @@ firefox-desktop-download-now-mac = Ora <strong>aperi</strong> le file justo disc
 firefox-desktop-download-get-help = Problemas? <a { $attrs }>Demanda adjuta con tu installation</a>.
 firefox-desktop-download-in-another-language = Discarga in un altere lingua o pro un altere systema operative.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +179,7 @@ firefox-desktop-download-visit-support-for-more = Visitar le supporto pro altere
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">non forni plus le actualisationes de securitate</a> sur { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma tu pote ancora usar { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Tu usa un systema operative non secur, obsolete <a href="{ $url }">non plus supportate per { -brand-name-firefox }</a>.

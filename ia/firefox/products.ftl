@@ -8,6 +8,8 @@
 # Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } es plus que un navigator
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } es solo le initio
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Es tote un familia de productos concipite pro mantener te plus secur e plus intelligente in linea.
@@ -15,6 +17,9 @@ firefox-products-its-a-whole-family-of-products = Es tote un familia de producto
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } es <strong>plus</strong> que un navigator
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } es solo le <strong>initio</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Verifica si tu informationes personal ha essite compromittite in un violation del datos de un interprisa, e inscribe te pro reciper alertas de futur violationes.
 firefox-products-check-for-breaches = Verificar si il ha violationes

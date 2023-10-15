@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,10 @@ page7-make-them-unfollow-you = Impedi a illo de sequer te
 page7-that-sneaky-little-button = Ille perfide micre button
 page7-those-innocent-looking-f-buttons = Ille buttones “F” de { -brand-name-facebook } de apparentia si innocue tracia tu activitate sur le Web anque se non tu non ha un conto. { -brand-name-facebook-container } blocar los pro te.
 page7-stay-ahead-of-hackers = Supera le piratas informatic
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } te pone in grado de discoperir lo que le piratas informatic pote jam saper re te e te adjuta a star un grado ante illes.
+# Obsolete string
 page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } te pone in grado de discoperir lo que le piratas informatic pote jam saper re te e te adjuta a star un grado ante illes.
+page7-get-mozilla-monitor = Obtene { -brand-name-mozilla-monitor }
+# Obsolete string
 page7-get-firefox-monitor = Installa { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Proque vide io isto?

@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Si tu vide “(32-bit)” e le version 
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Si tu require le version 32-bit de { -brand-name-firefox } o vole installar manualmente le version 64-bit, suffice discargar e re-executar le installator de { -brand-name-firefox } pro { -brand-name-windows } (32-bit o 64-bit) ab le <a href="{ $all }">pagina pro seliger le systema e lingua de { -brand-name-firefox }.</a>
 windows-64-bit-take-control-of-your = Prende controlo de tu navigator.
+windows-64-bit-download-firefox = Discargar { -brand-name-firefox } pro Windows 64-bit

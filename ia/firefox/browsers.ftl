@@ -7,14 +7,17 @@
 
 # HTML page title
 firefox-browsers-page-title = Discargar { -brand-name-firefox } pro scriptorio, mobile, o interprisa
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Obtene le navigatores que antepone tu vita private – e sempre lo ha facite
 # HTML page description
 firefox-browsers-page-desc = Elige ab, { -brand-name-ios }, { -brand-name-android } scriptorio, o lassa que nos te invia per email, un ligamine de discargamento pro apparato mobile.
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Obtene le vita private que tu merita. Le protection meliorate contra le traciamento es automatic in omne navigator { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtene le <strong>navigatores</strong> que antepone tu vita private – e sempre lo ha facite
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Obtene le navigator que pone prime tu confidentialitate desde <strong>sempre</strong>.
 firefox-browsers-desktop = Scriptorio
 firefox-browsers-seriously-private-browsing = Navigation ben private. { -brand-name-firefox } bloca automaticamente plus de 2000 traciatores, impediente que illos collige informationes sur lo que tu face in linea.
 firefox-browsers-download-for-desktop = Discargar pro scriptorio
@@ -35,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Junge te a { -brand-name-firefo
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Ha tu jam un conto? <a { $fxa_attr }>Aperi session</a> o <a { $accounts_attr }>lege plus</a> sur junger te a { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
