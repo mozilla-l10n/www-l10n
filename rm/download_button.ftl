@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Telechargiar ussa
 download-button-free-download = Telechargiada gratuita
@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per { -brand-
 download-button-firefox-privacy = Protecziun da datas en { -brand-name-firefox }
 download-button-firefox-privacy-notice = Las directivas da { -brand-name-firefox } per la protecziun da datas
 download-button-download = Telechargiar
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">na vegn betg pli sustegnì</a> sin { $os_version } e pli vegl.
+download-button-please-download-esr = Telechargia per plaschair { -brand-name-firefox-esr } (Extended Support Release) per utilisar { -brand-name-firefox }.
+download-firefox-esr = Telechargiar { -brand-name-firefox-esr }
+download-firefox-esr-32 = Telechargiar { -brand-name-firefox-esr } per 32 bits
+download-firefox-esr-64 = Telechargiar { -brand-name-firefox-esr } per 64 bits
+download-a-different-build = Telechargiar in auter build

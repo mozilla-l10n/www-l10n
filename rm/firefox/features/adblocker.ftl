@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizader
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox } pos ti utilisar ils parameters da la <a href="{ $privacy }">protecziun da datas</a> u da la <a href="{ $blocking }">bloccada da cuntegn</a> per controllar anc meglier ils fastizaders che ta mussan reclamas.
 features-adblocker-choose-your-level-of-protection = Tscherna tes nivel da protecziun
+features-adblocker-to-start-click-on-the-v2 = Per cumenzar, clicca sin il scut a sanestra da la trav d'adressas dad x-ina pagina-web e tscherna «Parameters da protecziun». Quai vegn ad avrir la panela «Sfera privata e segirezza» dals parameters da { -brand-name-firefox } en in nov tab. Ti stuessas vesair in pop-up blau cun diversas opziuns.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Per entschaiver, clicca sin il menu da { -brand-name-firefox } en il chantun sisum a dretga da tes visur. I sa tracta da las trais lingias orizontalas parallelas. En il menu drop-down cliccas ti sin bloccada da cuntegn. Alura s'avra in pop-up blau cun differentas opziuns.
 features-adblocker-go-easy-with-standard = Cun il modus da standard vai magari simpel
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Tempo grazia a bloccadas da reclama
 features-adblocker-in-some-cases-an-ad-blocker = En tscherts cas po ina bloccada da reclamas accelerar tes navigatur. Sch'ina reclama vegn chargiada po quai ralentar ina website. Il medem mument duri pli ditg da chattar quai che ti tschertgas sche ti es fatschentà cun serrar anc ina reclama.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Sche ti vuls savair dapli davart la bloccada da reclamas, i dat tschients dad extensiuns per { -brand-name-firefox } ed auters navigaturs che blocheschan reclamas. Sche ti vuls empruvar la bloccada da reclamas che { -brand-name-firefox } utilisescha, <a href="{ $url }">clicca qua per telechargiar</a> in navigatur per il qual la protecziun da datas ha la prioritad.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Sche ti vuls savair dapli davart la bloccada da reclamas stattan a disposiziun tschients dad extensiuns per { -brand-name-firefox } ed auters navigaturs. Sche ti vuls empruvar la bloccada da reclamas che { -brand-name-firefox } utilisescha, <a href="{ $url }">clicca qua per telechargiar</a> in navigatur per il qual la protecziun da datas ha la prioritad.
-features-adblocker-take-control-of-your-browser = Tegna sut controlla tes navigatur.

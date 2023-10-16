@@ -45,6 +45,14 @@ compare-brave-the-ability-to-sync-your-passwords = Dapi onns porscha { -brand-na
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Il navigatur { -brand-name-firefox } pussibilitescha als utilisaders dad avrir gratuitamain in <a { $accounts }>{ -brand-name-mozilla-account }</a>. In { -brand-name-mozilla-account } è la clav per lantschar la sincronisaziun tranter apparats. Ultra da quai profitas ti da products sco <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Quest servetsch permetta da survegliar tias adressas dad e-mail e t'avertescha en cas che tias infurmaziuns èn pertutgadas da <a { $breaches }>sperditas da datas enconuschentas</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Il navigatur { -brand-name-firefox } pussibilitescha als utilisaders dad avrir gratuitamain in <a { $accounts }>{ -brand-name-mozilla-account }</a>. In { -brand-name-mozilla-account } è la clav per lantschar la sincronisaziun tranter apparats. Ultra da quai profitas ti da products sco <a { $monitor }>{ -brand-name-firefox-monitor }</a>. Quest servetsch permetta da survegliar tias adressas dad e-mail e t'avertescha en cas che tias infurmaziuns èn pertutgadas da <a { $breaches }>sperditas da datas</a> enconuschentas.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Il navigatur { -brand-name-firefox } pussibilitescha als utilisaders dad avrir gratuitamain in <a { $accounts }>{ -brand-name-firefox-account }</a>. In conto da { -brand-name-firefox } è la clav per lantschar la sincronisaziun tranter apparats. Ultra da quai profitas ti da products sco <a { $monitor }>{ -brand-name-firefox-monitor }</a>. Quest servetsch permetta da survegliar tias adressas dad e-mail e t'avertescha en cas che tias infurmaziuns èn pertutgadas da <a { $breaches }>sperditas da datas enconuschentas</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Dapi dacurt ha era { -brand-name-brave } ina funcziun per sincronisar datas tranter ils sistems operativs ed apparats ils pli derasads. Ultra da quai èsi pussaivel da sincronisar ils Basic Attention Tokens.

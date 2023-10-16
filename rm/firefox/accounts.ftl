@@ -6,15 +6,21 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Va per in { -brand-name-mozilla-account } – guarda che tias datas restian privatas, segiras e sincronisadas
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Va per in { -brand-name-firefox-account } – guarda che tias datas restian privatas, segiras e sincronisadas
 # HTML page description
 firefox-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira tranter tut tes apparats. Va ussa per in { -brand-name-firefox-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
 firefox-accounts-enter-your-email-address = Endatescha tia adressa d'e-mail per cumenzar.
 firefox-accounts-already-have-an-account = Ti has gia in conto?
 firefox-accounts-sign-in = S'annunziar
+# Obsolete string
 firefox-accounts-already = Ti has gia in { -brand-name-firefox-account }. Gratulaziuns!
+mozilla-accounts-already = Ti has gia in { -brand-name-mozilla-account }. Gratulaziuns!
 firefox-accounts-manage = Administrar tes conto
-# This is followed by a list of things you can do with your Firefox account
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = T'annunzia en tes { -brand-name-mozilla-account } per:
+# Obsolete string
 firefox-accounts-sign-in-to = T'annunzia cun tes { -brand-name-firefox-account } per:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Scuvra nossa paletta da products per proteger la sfera privata.
@@ -40,6 +46,8 @@ firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser pigli
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = I dat in pèr pussaivladads co ch'in navigat
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Ultra da quai na duess tes navigatur betg memorisar memia bleras datas d'utilisader. Hackers na pon betg engular insatge che n'exista gnanc. Perquai memorisescha { -brand-name-firefox } mo las infurmaziuns necessarias davart ses utilisaders. <a href="{ $data }">{ -brand-name-firefox } sa</a> mo schebain ti utiliseschas il navigatur ed enconuscha tia posiziun geografica approximativa, <a href="{ $privacy }">ma betg il num da tes animal da chasa da tia uffanza u tia colur preferida.</a>
 best-browser-last-but-not-least = La fin finala duess in navigatur segir porscher utensils che ta gidan da tegnair en egl tes contos d'utilisader. Quai èn per exempel avertiments che ti chattas direct en tia posta entrada en cas ch'in da tes contos è vegnì attatgà u iconas che inditgeschan schebain ina pagina è criptada u betg (e cun quai era sch'igl è ina bun'idea dad endatar il numer da tia carta da credit sin ina pagina da butia).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } porscha in nov servetsch per garantir tia segirtad: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. I sa tracta dad ina purschida gratuita che t'avertescha sche in da tes contos d'utilisader èn vegnids attatgads e l'acziun è vegnida a la glisch. Il medem vala per attatgas gia passadas. In auter element bain ponderà è il maschlos verd sisum a sanestra en tia fanestra dal navigatur. Sche ti utiliseschas { -brand-name-firefox } e vesas il maschlos verd, vul quai dir che la website è criptada e segira. Sche la serradira è grischa, duessas ti ponderar bain avant che endatar infurmaziuns confidenzialas.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } porscha in nov servetsch per garantir tia segirtad: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. I sa tracta dad ina purschida gratuita che t'avertescha sche in da tes contos d'utilisader èn vegnids attatgads e l'acziun è vegnida a la glisch. Il medem vala per attatgas gia passadas. In auter element bain ponderà è il maschlos verd sisum a sanestra en tia fanestra dal navigatur. Sche ti utiliseschas { -brand-name-firefox } e vesas il maschlos verd, vul quai dir che la website è criptada e segira. Sche la serradira è grischa, duessas ti ponderar bain avant che endatar infurmaziuns confidenzialas.
