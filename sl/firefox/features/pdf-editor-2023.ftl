@@ -11,6 +11,7 @@ pdf-editor-pdf-editor = Urejevalnik PDF
 pdf-editor-add-text-to-pdfs = Dodajte besedilo v datoteke PDF s { -brand-name-firefox }ovim urejevalnikom
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Oglejte si in uredite datoteke PDF kar v { -brand-name-firefox(sklon: "mestnik") }.
+pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Če morate kaj dodati v dokument PDF, lahko s { -brand-name-firefox(sklon: "orodnik") } to storite neposredno na spletu. Odprite PDF v { -brand-name-firefox(sklon: "mestnik") } in ga uredite s pomočjo gumbov Besedilo in Riši. Nazadnje prenesite datoteko in shranila se bo s spremembami vred.
 pdf-editor-fill-in-forms-online-without = Izpolnite spletne obrazce brez tiskanja in skeniranja
 pdf-editor-weve-all-faced-this-you-need-to = Vsi smo se že srečali s tem: izpolniti je treba obrazec, ki je v obliki PDF, vendar ga ni mogoče urejati. V preteklosti je bila edina možnost, da ga natisnete na predelano drevo, ročno vpišete vse potrebno in ga nato skenirate nazaj v računalnik.
 pdf-editor-no-more-now-all-you-need-to-do = Nič več! Sedaj lahko vse uredite kar v { -brand-name-firefox(sklon: "mestnik") }, shranite dokument in ga pošljete po e-pošti.

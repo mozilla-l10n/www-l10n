@@ -12,6 +12,16 @@ features-customize-firefox-themes-let-you-change = Teme so preobleke za brskalni
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox(sklon: "tozilnik") } je privzeto nameščen s sistemsko temo, na voljo pa so tudi svetla, temna in živobarvna različica.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = Slika privzetih tem, ki jih vsebuje { -brand-name-firefox }, vključno s svetlo, temno in živobarvno različico.
+# Variables:
+#   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
+#   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
+#   $trending (url) - link to https://addons.mozilla.org/firefox/search/?sort=hotness&type=statictheme
+#   $recommended (url) - link to https://addons.mozilla.org/firefox/search/?promoted=recommended&sort=random&type=statictheme
+#   $music (url) - link to https://addons.mozilla.org/firefox/themes/category/music/
+#   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
+#   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
+#   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
+features-customize-you-can-find-more-free-custom-v2 = Več brezplačnih posebnih tem lahko najdete na <a { $amo }>addons.mozilla.org</a>. Razgledate se lahko med <a { $top }>najbolje ocenjenimi</a>, <a { $trending }>trenutno priljubljenimi</a> in <a { $recommended }>največkrat priporočenimi</a> temami, ali pa najdete pravo zase v kategorijah, kot so <a { $music }>glasbene</a>, <a { $seasonal }>sezonske</a>, <a { $sports }>športne</a> in <a { $nature }>naravne</a>. Prikrojite si { -brand-name-firefox(sklon: "tozilnik") } po svojem okusu. Ljubka bitja, zlobni roboti, dih jemajoče pokrajine – med tisoči tem lahko vsakdo najde pravo zase.
 # Obsolete string, contains an error
 features-customize-you-can-find-more-free-custom = You can find more free custom themes at <a { $amo }>addons.mozilla.org</a>. Browse the <a { $top }">top-rated</a>, <a { $trending }>trending</a> and <a { $recommended }>most recommended</a> themes. Or look for themes by category, including <a { $music }>music</a>, <a { $seasonal }>seasonal</a>, <a { $sports }>sports</a>, and <a { $nature }>nature</a>. Tailor your experience to your tastes. Cute critters, evil robots, beautiful landscapes — there are thousands of options to make { -brand-name-firefox } your own.
 # Used as accessible alternative text for an image
