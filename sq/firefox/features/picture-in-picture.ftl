@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: Bëni më shumë punë me video hapur në flluska
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Keni punë për të bërë dhe gjëra për të parë? Bëjini që të dyja përmes funksionit “Picture-in-Picture” në { -brand-name-firefox }.
+features-pip-picture-in-picture = Picture-in-Picture
 features-pip-new-feature-firefox-multi-picture = Veçori e re: { -brand-name-firefox } multi Picture-in-Picture
 features-pip-cool-feature-picture-in-picture = Veçori e lezetshme: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Bëni më tepër gjëra me video hapur si flluska

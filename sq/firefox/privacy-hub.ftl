@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Privatësia juaj, nga produkti
 firefox-privacy-hub-firefox-products-work-differently = Produktet { -brand-name-firefox } funksionojnë ndryshe — ngaqë janë konceptuar për të mbrojtur privatësinë tuaj së pari.
 firefox-privacy-hub-learn-about-our-products = Mësoni rreth produkteve tona
 firefox-privacy-hub-firefox-privacy-by-the = Privatësi { -brand-name-firefox }, nga produkti
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox }-i mbron privatësinë tuaj në çdo produkt.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } mbron privatësinë tuaj në çdo produkt.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>mbron</strong> privatësinë tuaj në çdo produkt
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>mbron</strong> privatësinë tuaj në çdo produkt
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mbi 2000 gjurmues të bllokuar — automatikisht
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -61,11 +65,17 @@ firefox-privacy-hub-meet-four-of-the-most-common = Njihuni me kategoritë më t�
 firefox-privacy-hub-always-in-your-control = Përherë nën kontrollin tuaj
 firefox-privacy-hub-want-to-customize-what = Dëshironi të përshtatni ç’bllokohet? Rregullimet tuaja janë një klik larg nga kjo.
 firefox-privacy-hub-protection-beyond-tracking = Mbrojtje përtej gjurmimit
+firefox-privacy-hub-if-you-have-a-mozilla-account = Nëse keni një { -brand-name-mozilla-account }, mundeni edhe të shihni se si ju ndihmojmë të mbroni të dhënat tuaja personale dhe fjalëkalimet tuaj.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Nëse keni një { -brand-name-firefox-account }, mundeni edhe të shihni se si ju ndihmojmë të mbroni të dhënat tuaja personale dhe fjalëkalimet tuaj.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Më tepër se { $trackers } gjurmues të bllokuar çdo ditë për përdorues të { -brand-name-firefox }-it anembanë botës
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Kur jepni një adresë email në { -brand-name-mozilla-monitor }, e harrojmë menjëherë pasi të kemi kërkuar për ndonjë përputhje në shkelje të ditura të dhënash — veç në na autorizofshi të vazhdojmë të mbikëqyrim cenime të reja për të dhënat tuaja personale.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Kur jepni një adresë email në { -brand-name-firefox-monitor }, e harrojmë menjëherë pasi të kemi kërkuar për ndonjë përputhje në shkelje të ditura të dhënash — veç në na autorizofshi të vazhdojmë të mbikëqyrim cenime të reja për të dhënat tuaja personale.
 firefox-privacy-hub-check-for-breaches = Kontrolloni për cenime
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -77,9 +87,21 @@ firefox-privacy-hub-send-a-file = Dërgoni një kartelë
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } rekomandon artikuj të cilësisë së lartë, në përkujdesje nga njerëz realë, pa grumbulluar historikun tuaj të shfletimeve apo ndarë të dhënat tuaja personal me reklamues.
 firefox-privacy-hub-get-pocket = Merreni { -brand-name-pocket }-in
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account } juaj
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } e juaj
+firefox-privacy-hub-all-the-information-synced-v2 = Krejt të dhënat e njëkohësuara përmes { -brand-name-mozilla-account } tuaj — nga historik shfletimi te fjalëkalimet — janë të fshehtëzuara. Dhe fjalëkalimi juaj i llogarisë është i vetmi kyç.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Krejt të dhënat e njëkohësuara përmes { -brand-name-firefox-account } tuaj — nga historik shfletimi te fjalëkalimet — janë të fshehtëzuara. Dhe fjalëkalimi juaj i llogarisë është i vetmi kyç.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Merrni privatësinë dhe fjalëkalimet tuaj me vete kudo, me një { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Merrni privatësinë dhe fjalëkalimet tuaj me vete kudo, me një { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Keni tashmë një llogari? <a { $sign_in } class="{ $class_name }">Hyni</a> ose <a href="{ $learn_more }">mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

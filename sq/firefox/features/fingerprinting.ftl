@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Ç’është <em>fingerprinting</em> dhe pse do të duhej ta bllokonit
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
+features-fingerprinting-fingerprint-blocking = Bllokim krijuesish shenjash gishtash
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox }-i e bllokon <em>fingerprinting</em>
 features-fingerprinting-ditch-the-sticky = Hiqni qafe reklamat e ngjitura, që ju ndjekin ngado, përmes bllokuesve të brendshëm të shfletuesit { -brand-name-firefox } të <em>fingerprinting</em>.
 # description for the header image

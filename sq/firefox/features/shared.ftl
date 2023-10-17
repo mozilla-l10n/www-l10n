@@ -5,18 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Punim më i mirë në internet
-features-shared-more-firefox-features = Më tepër veçori të shfletuesit { -brand-name-firefox }
-features-shared-browse-faster = Shfletoni më shpejt
-features-shared-your-favorite-extensions = Zgjerimet tuaja të parapëlqyera
-features-shared-balanced-memory = Kujtesë e baraspeshuar
-features-shared-more-powerful-private-browsing = Shfletim Privat më i fuqishëm
-features-shared-ad-tracker-blocking = Shtoni bllokim gjurmuesish
-features-shared-password-manager = Përgjegjës fjalëkalimesh
-features-shared-customize-your-browser = Përshtateni shfletuesin tuaj
-features-shared-sync-between-devices = Njëkohësoni pajisje
-features-shared-better-bookmarks = Faqerojtës më të mirë
+features-shared-firefox-features = Veçori të { -brand-name-firefox }-it
+features-shared-footer-cta-title = Bëni më tepër gjëra me { -brand-name-firefox }-in
+features-shared-footer-cta-button = Shkarkoni { -brand-name-firefox }-in
 features-shared-fingerprinter-blocking = Bllokim Krijimi Shenjash Gishtash
 features-shared-translate-the-web = Përktheni internetin
 features-shared-picture-in-picture = Picture-in-Picture
-brand-name-firefox = { -brand-name-firefox }
