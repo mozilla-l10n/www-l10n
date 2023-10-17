@@ -10,3 +10,8 @@ mozsocial-invite-first-name-label = Emër
 mozsocial-invite-last-name-label = Mbiemër
 mozsocial-invite-your-email-address-label = Adresa juaj email
 mozsocial-invite-country-label = Vend
+# "Handle" is jargon for a user name.
+mozsocial-invite-twitter-handle-label = Emër përdoruesi në Twitter?
+# Mastodon is a brand name. "Handle" is jargon for a user name.
+mozsocial-invite-mastodon-handle-label = Emër përdoruesi në Mastodon?
+mozsocial-invite-thanks-youre-on-the-list = Faleminderit! Jeni në radhë
