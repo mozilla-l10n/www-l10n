@@ -35,7 +35,7 @@ privacy-passwords-the-lock-means = 這把鎖頭代表您與此網站中間的連
 privacy-passwords-a-padlock-with = 若鎖頭上畫了一條斜槓，表示連線並不安全。
 privacy-passwords-your-browser-also = 您的瀏覽器也能幫助您隨時了解網站是否可信，來幫助您遠離釣魚網站。一方面當您嘗試開啟已知為釣魚網站的網站時，{ -brand-name-firefox } 及任何主要瀏覽器都會顯示全螢幕警告 — <strong>若要開啟這樣的網站請多加注意，輸入任何資料前都要三思！</strong>
 privacy-passwords-firefox-will-v2 = 若已知為釣魚網站，{ -brand-name-firefox } 將顯示警告，不直接開啟。
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = 若已知為釣魚網站，Firefox 將顯示警告，不直接開啟。
 privacy-passwords-in-general-the = 要防止被釣魚，最好的方式就是<strong>對任何收到的訊息都要小心謹慎</strong>。不論是在電子郵件、簡訊或電話中。不直接點開其他人提供給您的連結或接聽電話，而是自己另外開啟該網站，或主動向聲稱的來電者確認。例如：如果突然收到一封 PayPal 的密碼重設郵件，不要點擊當中的鏈結，自己另外開啟 paypal.com 確認；或是如果有人聲稱是銀行來電，另外回撥給銀行或者臨櫃確認。
 privacy-passwords-strength-in-diversity = 有差異，更安全
@@ -57,7 +57,7 @@ privacy-passwords-now-all-of = 現在這些都聽起來很複雜，人類不擅�
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 當您使用 { -brand-name-firefox } 帳號登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
 #   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
-privacy-passwords-when-youre-logged-v2 = 當您使用 { -brand-name-mozilla-account }登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo-manager }>如何使用內建的密碼管理員</a>。
+privacy-passwords-when-youre-logged-v2 = 當您使用 { -brand-name-mozilla-account }登入 { -brand-name-firefox } 後，就可以在您的所有裝置間同步登入資訊，並在行動版 { -brand-name-firefox } 瀏覽器存取您的密碼。在此了解<a { $url_sumo_manager }>如何使用內建的密碼管理員</a>。
 privacy-passwords-twofactor-authentication-2fa = 兩階段身分驗證（2FA）
 privacy-passwords-2fa-is-a = 兩階段身分驗證是加強安全性的好方法。設定新帳號時，某些網站會讓您選擇是否在登入時加入「第二個因素」。通常代表將您的手機號碼與帳號連結起來，輸入密碼登入後還會透過簡訊收到安全代碼。這樣就算駭客已經取得您的密碼，也無法登入您的帳號，因為他們沒拿到您手機當中的安全代碼。
 # Obsolete string
@@ -72,7 +72,7 @@ privacy-passwords-for-better-or = 不論好壞，在可預見的未來，我們�
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = 當今的網路世界中，每天都有數以千計的密碼被盜走，並且帳號會在黑市被交易的情況下，還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時，可以省下一些力氣，因為我們所有的產品都圍繞我們對<a { $url_privacy_products }>保護隱私權的承諾</a>來打造。而且 { -brand-name-firefox } 也一直遵循 <a { $url_about_manifesto }>在背後資助我們的非營利組織 { -brand-name-mozilla } 的使命</a>來打造更好的網路環境。
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = 當今的網路世界中，每天都有數以千計的密碼被盜走，並且帳號會在黑市被交易的情況下，還是值得花點力氣來確保線上生活的安全。當您使用 { -brand-name-firefox } 產品時，可以省下一些力氣，因為我們所有的產品都圍繞我們對<a { $url_privacy_products }>保護隱私權的承諾</a>來打造。而且 { -brand-name-firefox } 也一直遵循 <a { $url_about_manifesto }>在背後資助我們的非營利組織 Mozilla 的使命</a>來打造更好的網路環境。

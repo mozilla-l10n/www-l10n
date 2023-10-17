@@ -28,7 +28,7 @@ best-browser-the-second-is-not-storing = 其次是不儲存太多使用者的資
 best-browser-last-but-not-least = 最後但仍然重要的一點是，一套安全的瀏覽器應提供能讓您檢查帳號安全的工具。想想若您的網站帳號資料遭到外洩時，可以直接在信箱收到警報，或是有個圖示能告訴您網頁連線是否經過加密，這樣在網頁上購物時才能安心刷卡。
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
-best-browser-firefox-is-offering-v2 = { -brand-name-firefox } 提供能讓您確保安全的新功能：<a { $monitor }">{ -brand-name-mozilla-monitor }</a>。這是一個能夠在與您相關的資料外洩事件公開時，向您發出警報的免費服務。您也可以使用此服務來檢查您在各個網站上的帳號是否曾經遭駭。另一個很棒的功能是「綠色鎖頭」，它會出現於瀏覽器視窗的左上角。當您使用 { -brand-name-firefox } 時若看到這把鎖，就代表與網站間的連線經過加密，可以確保安全。若鎖頭是灰色的，在輸入任何個人敏感資訊前最好三思。
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } 提供能讓您確保安全的新功能：<a { $monitor }>{ -brand-name-mozilla-monitor }</a>。這是一個能夠在與您相關的資料外洩事件公開時，向您發出警報的免費服務。您也可以使用此服務來檢查您在各個網站上的帳號是否曾經遭駭。另一個很棒的功能是「綠色鎖頭」，它會出現於瀏覽器視窗的左上角。當您使用 { -brand-name-firefox } 時若看到這把鎖，就代表與網站間的連線經過加密，可以確保安全。若鎖頭是灰色的，在輸入任何個人敏感資訊前最好三思。
 # Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
