@@ -17,7 +17,7 @@ firefox-browsers-get-the-privacy-you-deserve = Korzystaj z prywatności, na jak
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Pobierz <strong>przeglądarki,</strong> które stawiają Twoją prywatność na pierwszym miejscu — od zawsze i na zawsze
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Pobierz przeglądarkę, która stawia Twoją prywatność na pierwszym miejscu — od zawsze i na zawsze
+firefox-browsers-get-the-browsers-strong-v2 = Pobierz przeglądarkę, która stawia Twoją prywatność na pierwszym miejscu — od <strong>zawsze</strong> i na zawsze
 firefox-browsers-desktop = Na komputery
 firefox-browsers-seriously-private-browsing = Prywatne przeglądanie na poważnie. { -brand-name-firefox } automatycznie blokuje ponad 2000 elementów śledzących, które zbierają informacje o Twoich działaniach w Internecie.
 firefox-browsers-download-for-desktop = Pobierz na komputery
