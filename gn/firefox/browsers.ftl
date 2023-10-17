@@ -7,11 +7,11 @@
 
 # HTML page title
 firefox-browsers-page-title = Emboguejy { -brand-name-firefox } mesa arigua, pumbyry térã mba’apohaguasúpe g̃uarã
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Eguereko kundahára omotenondéva ñemigua — ojapovavoi opaite ára
 # HTML page description
-firefox-browsers-page-desc = Eiporavo mesa arigua, { -brand-name-ios }, { -brand-name-android } térã romondo ñanduti veve ñembojuejy juajuha ndive pumbyrýpe guarãva.
-# Outdated string
+firefox-browsers-page-desc = Eiporavo mesa arigua, { -brand-name-ios }, { -brand-name-android } térã romondo ñanduti veve ñembojuejy juajuha ndive pumbyrýpe g̃uarãva.
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Ereko ñemigua eipotáva. Pe ñemo’ã tapykuehoha iporãvéva ijeheguíva opaite umi { -brand-name-firefox } kundahárape.
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -38,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefo
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = ¿Erekóma mba’ete? <a { $fxa_attr }>eñepyrũ tembiapo</a> térã <a { $accounts_attr }>ehecha</a> mba’éichapa ejuajúta { -brand-name-firefox } rehe.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
