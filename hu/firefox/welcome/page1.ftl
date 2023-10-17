@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-mozilla = Több mint egy böngésző – a { -brand-name-mozilla-monitor } vigyáz a hackerekre
+welcome-page1-more-than-a-browser-mozilla = Több mint böngésző – a { -brand-name-mozilla-monitor } szemmel tartja a hackereket
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = Több mint böngésző – a { -brand-name-firefox-monitor } szemmel tartja a hackereket
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Tegye meg a következő lépést az online adatvédelme érdekében a { -brand-name-firefox } termékcsaláddal.
-welcome-page1-stay-ahead-of-hackers-check-v2 = Maradjon a hackerek előtt. Ellenőrizze az adatsértéseket a { -brand-name-mozilla-monitor } segítségével.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Legyen egy lépéssel a hackerek előtt. Ellenőrizze az atomvédelmi incidenseket a { -brand-name-mozilla-monitor } segítségével.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Maradjon a hackerek előtt. Ellenőrizze az adatsértéseket a { -brand-name-firefox-monitor } segítségével.
 welcome-page1-youre-on-track-to-stay-protected = Úton van ahhoz, hogy védve maradjon
@@ -20,7 +20,7 @@ welcome-page1-check-your-breach-report = Ellenőrizze az adatsértési jelentés
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-mozilla-monitor-shows-you = A { -brand-name-mozilla-monitor } megmutatja, hogy az adatai ismert adatsértésekben szivárogtak-e ki, és figyelmezteti Önt, ha a jövőben ilyen történik.
+welcome-page1-mozilla-monitor-shows-you = A { -brand-name-mozilla-monitor } megmutatja, ha az adatai ismert adatvédelmi incidensekben szivárogtak ki, és figyelmezteti Önt, ha a jövőben ilyen történik.
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = A { -brand-name-firefox-monitor } megmutatja, ha az adatai ismert adatsértésekben szivárogtak ki, és figyelmezteti Önt, ha a jövőben ilyen történik.
 welcome-page1-stay-ahead-of-hackers = Maradjon a hackerek előtt

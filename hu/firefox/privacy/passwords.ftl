@@ -64,7 +64,7 @@ privacy-passwords-2fa-is-a = A kétlépcsős hitelesítés nagyszerű módja a b
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Például az Ön { -brand-name-firefox }-fiókja is megvédheti kétlépcsős hitelesítéssel, <a { $url_sumo_2fa }>melyről itt tudhat meg többet</a>.
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
-privacy-passwords-your-mozilla-account = A { -brand-name-mozilla-account }ja például megvédhető 2FA-val, <a { $url_sumo_2fa }>melyről itt tudhat meg többet</a>.
+privacy-passwords-your-mozilla-account = Például a { -brand-name-mozilla-account }ja is megvédheti kétlépcsős hitelesítéssel, <a { $url_sumo_2fa }>melyről itt tudhat meg többet</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = A kétlépcsős hitelesítés sokkal biztonságosabb, mint a jelszavak önmagukban, de nem minden webhely támogatja. A <a { $url_2fa }>https://twofactorauth.org</a> weboldalon találhat egy listát a kétlépcsős hitelesítést támogató webhelyekről, valamint felsorol olyan oldalakat is, melyek nem támogatják ezt, és olyan módokat, amellyel kérheti tőlük ennek a támogatását.
 privacy-passwords-strong-diverse-and = Erős, sokszínű és többlépcsős
