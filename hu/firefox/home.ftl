@@ -15,7 +15,7 @@ firefox-home-meet-our-family-of = Ismerje meg termékcsaládunkat
 firefox-home-meet-mozillas-family = Ismerje meg a { -brand-name-mozilla } termékcsaládját
 firefox-home-get-trackers-off = Szabaduljon meg 2.000 nyomkövetőtől – beleértve a { -brand-name-facebook }ot is
 firefox-home-know-when-hackers-strike = Tudja meg, hogy mikor csapnak le a hackerek – és legyen egy lépéssel előrébb
-firefox-home-start-getting-breach = Kapjon adatsértési jelentéseket
+firefox-home-start-getting-breach = Kapjon jelentéseket az adatvédelmi incidensekről
 firefox-home-un-spam-your-life = Távolítsa el a kéretlen leveket az életéből a { -brand-name-relay } segítségével
 firefox-home-try-relay = Próbálja ki a { -brand-name-relay }t
 # Obsolete string

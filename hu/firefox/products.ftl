@@ -22,9 +22,9 @@ firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-beginning-emphasis = A { -brand-name-firefox } csak a <strong>kezdet</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-products-see-if-your-personal-information = Nézze meg, hogy a személyes információi kikerültek-e vállalati adatsértésekben, és iratkozzon fel a jövőbeli figyelmeztetésekre.
-firefox-products-check-for-breaches = Adatsértések keresése
-firefox-products-sign-up-for-breach-alerts = Iratkozzon fel az adatsértési figyelmeztetésekre
+firefox-products-see-if-your-personal-information = Nézze meg, hogy a személyes információi kikerültek-e vállalati adatvédelmi incidensekben, és iratkozzon fel a jövőbeli figyelmeztetésekre.
+firefox-products-check-for-breaches = Adatvédelmi incidensek keresése
+firefox-products-sign-up-for-breach-alerts = Iratkozzon fel az adatvédelmi incidensek figyelmeztetéseire
 # Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } böngészők
 firefox-products-firefox = { -brand-name-firefox }

@@ -32,10 +32,10 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Lap küldése</a> egy másik e
 firefox-accounts-save-and-sync = <a href="{ $password }">Jelszavak mentése és szinkronizálása</a>
 firefox-accounts-get-email-alerts = E-mail értesítések, ha adatai ismert adatvédelmi incidensben érintettek
 # Obsolete string
-firefox-accounts-see-if-youve-been = Nézze meg, hogy szerepelt-e online adatsértésben.
+firefox-accounts-see-if-youve-been = Nézze meg, hogy szerepelt-e online adatvédelmi incidensben.
 firefox-accounts-protect-your-identity = Védje személyazonosságát a biztonságos telefon- és e-mail-maszkolással
 firefox-accounts-keep-your-passwords = Tartsa védve a jelszavait, és vigye el azokat bárhova.
-firefox-accounts-get-a-lookout-for = Legyen résen az adatsértések miatt.
+firefox-accounts-get-a-lookout-for = Legyen résen az adatvédelmi incidensek miatt.
 firefox-accounts-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 firefox-accounts-encrypt-your = Titkosítsa hálózati tevékenységét és rejtse el IP-címét
 firefox-accounts-we-never = Sosem naplózzuk, követjük nyomon vagy osztjuk meg hálózati adatait

@@ -76,8 +76,8 @@ firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-when-you-enter-your-email-v2 = Ha megadja az e-mail-címét a { -brand-name-mozilla-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatvédelmi incidensekben – hacsak nem engedélyezi, hogy kövessük az új adatvédelmi incidenseket az Ön információi után keresve.
 # Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = Ha megadja az e-mail-címét a { -brand-name-firefox-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatsértéseket – hacsak nem engedélyezi, hogy kövessük az új adatsértéseket az Ön információi után keresve.
-firefox-privacy-hub-check-for-breaches = Adatsértések keresése
+firefox-privacy-hub-when-you-enter-your-email = Ha megadja az e-mail-címét a { -brand-name-firefox-monitor }ban, akkor azonnal elfelejtjük, amint ellenőriztük az ismert adatvédelmi incidenseket – hacsak nem engedélyezi, hogy kövessük az új adatvédelmi incidenseket az Ön információi után keresve.
+firefox-privacy-hub-check-for-breaches = Adatvédelmi incidensek keresése
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = A { -brand-name-firefox-lockwise }-ba mentett jelszavak és hitelesítő adatok minden eszközén titkosítva vannak, így még mi sem látjuk őket.
 firefox-privacy-hub-learn-more-about-lockwise = Tudjon meg többet a { -brand-name-lockwise }-ról

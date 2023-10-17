@@ -36,7 +36,7 @@ navigation-v2-close-products-menu = Termékek menü bezárása
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-navigation-v2-see-if-your-email-has = Nézze meg, hogy az e-mail-címe szerepelt-e valamilyen vállalat adatsértésében.
+navigation-v2-see-if-your-email-has = Nézze meg, hogy az e-mail-címe szerepelt-e valamilyen vállalat adatvédelmi incidensében.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Mentse el és fedezze fel az internet legjobb történeteit.
 navigation-v2-facebook-container = { -brand-name-facebook-container }

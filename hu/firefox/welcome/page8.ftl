@@ -18,7 +18,7 @@ welcome-page8-see-whats-blocked = Nézze meg, mi lett blokkolva
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page8-see-what-youve-been = Nézze meg, hogy szerepelt-e ismert online adatsértésekben, és tegyen lépéseket ezek megszüntetése érdekében.
+welcome-page8-see-what-youve-been = Nézze meg, hogy szerepelt-e ismert online adatvédelmi incidensekben, és tegyen lépéseket ezek megszüntetése érdekében.
 welcome-page8-go-to-monitor = Ugrás a { -brand-name-monitor }hoz
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Osszon meg nagy fájlokat végpontok közötti titkosítással, egy automatikusan lejáró hivatkozás segítségével.

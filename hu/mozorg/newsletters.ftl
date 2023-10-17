@@ -140,10 +140,10 @@ newsletters-here-are-a-few-things = Íme néhány dolog, amibe belemélyedhet, a
 newsletters-take-your-privacy = Vigye magával az adatvédelmet
 newsletters-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 newsletters-download-the-app = Alkalmazás letöltése
-newsletters-check-for-data-breaches = Adatsértések keresése
+newsletters-check-for-data-breaches = Adatvédelmi incidensek keresése
 newsletters-mozilla-monitor-is-a-free = A { -brand-name-mozilla-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy megnézze, hogy szerepelt-e online adatvédelmi incidensben.
 # Obsolete string
-newsletters-firefox-monitor-is-a-free = A { -brand-name-firefox-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy lássa, szerepelt-e online adatsértésben.
+newsletters-firefox-monitor-is-a-free = A { -brand-name-firefox-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy lássa, szerepelt-e online adatvédelmi incidensben.
 newsletters-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
 newsletters-meet-our-parent-brand = Ismerje meg szülőmárkánkat
 newsletters-mozilla-the-non-for-profit = A { -brand-name-mozilla }, a { -brand-name-firefox } mögött álló nonprofit szervezet, amely az embereket helyezi a profit elé mindenben, amit mondunk, építünk és csinálunk.
