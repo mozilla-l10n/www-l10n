@@ -12,11 +12,11 @@ mozsocial-invite-please-join-our-waitlist = Csatlakozzon a várólistánkhoz a l
 mozsocial-invite-required-label = Kötelező
 mozsocial-invite-first-name-label = Utónév
 mozsocial-invite-last-name-label = Vezetéknév
-mozsocial-invite-your-email-address-label = E-mail cím
+mozsocial-invite-your-email-address-label = E-mail-cím
 mozsocial-invite-country-label = Ország
 # "Handle" is jargon for a user name.
 mozsocial-invite-twitter-handle-label = Twitter azonosító?
 # Mastodon is a brand name. "Handle" is jargon for a user name.
-mozsocial-invite-mastodon-handle-label = Mastodon fogantyú?
-mozsocial-invite-thanks-youre-on-the-list = Köszönjük! Felkerült a listára
-mozsocial-invite-mozillasocial-is-currently = A { -brand-name-mozilla-social } jelenleg egy zárt béta csoport számára érhető el, ahogy mi kísérletezünk, a résztvevők véleményét kérjük, tanulunk, és javítjuk az élményt. E-mailben küldünk egy meghívót, ahogy fokozatosan terjeszkedünk.
+mozsocial-invite-mastodon-handle-label = Mastodon azonosító?
+mozsocial-invite-thanks-youre-on-the-list = Köszönjük! Felkerült a listára.
+mozsocial-invite-mozillasocial-is-currently = A { -brand-name-mozilla-social } jelenleg egy zárt béta csoport számára érhető el, amíg kísérletezünk, kikérjük a résztvevők véleményét, tanulunk, és javítjuk az élményt. E-mailben fogunk meghívót küldeni, ahogy fokozatosan bővülünk.

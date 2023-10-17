@@ -4,11 +4,11 @@
 
 # Variables
 #   $class (string) = CSS Class name for banner title
-moz-account-promo-title = Egy bejelentkezés. <br> <span { $class }>Minden</span> { -brand-name-mozilla }.
+moz-account-promo-title = Egy bejelentkezés. <br> <span { $class }>Minden</span> ami { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Már van felhasználói fiókja? <a { $sign_in_url }>Jelentkezzen be</a> vagy <a { $learn_more_url }>tudjon meg többet</a> a { -brand-name-mozilla }ról
+moz-account-already-have = Már van felhasználói fiókja? <a { $sign_in_url }>Jelentkezzen be</a> vagy <a { $learn_more_url }>tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }ról
 moz-account-get-a-mozilla-account = Szerezzen egy { -brand-name-mozilla-account }ot
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

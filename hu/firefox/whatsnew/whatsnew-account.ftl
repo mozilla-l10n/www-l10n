@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Nincs szükség fiókra. De talán szeretné, hogy legyen.
-whatsnew-account-main-lead-in-v2 = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el. De ha a { -brand-name-mozilla-account } létrehozásához használja, akkor számos adatvédelmi termékhez kap hozzáférést a { -brand-name-firefox } mellett.
+whatsnew-account-main-lead-in-v2 = A { -brand-name-firefox } böngésző olyan kevés adatot gyűjt Önről, hogy még az e-mail-címére sincs szükségünk. De ha egy { -brand-name-mozilla-account } létrehozásához használja, akkor a { -brand-name-firefox } mellett számos adatvédelmi termékhez is hozzáférést kap.
 whatsnew-account-mozilla-cta = Szerezzen egy { -brand-name-mozilla-account }ot
 
 ##

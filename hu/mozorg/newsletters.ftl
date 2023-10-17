@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } hírlevél
 newsletters-read-all-about-it-in-our-newsletter = Olvassa <span>hírlevelünket</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Iratkozzon fel, hogy értesüljön a { -brand-name-mozilla } híreiről, tegyen az egészségesebb internetért, és okosabbá váljon az online életét tekintve.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Iratkozzon fel a frissítésekre, és legyen naprakész a { -brand-name-mozilla } híreivel. Ez a tökéletes módja, hogy tartsuk a kapcsolatot!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Hírlevél jóváhagyása
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = Leiratkozott.
 newsletters-were-sorry-to-see-you-go = Sajnáljuk, hogy leiratkozott.
 newsletters-would-you-mind-telling-us = Elmondaná, hogy miért iratkozott le?
 newsletters-other-v2 = Egyéb… (legfeljebb 500 karakter)
-# Outdated string
+# Obsolete string
 newsletters-other = Egyéb…
 newsletters-submit = Elküld
 newsletters-thanks-for-telling-us-why = Köszönjük, hogy megosztotta velünk leiratkozásának okát.
@@ -191,7 +191,7 @@ newsletters-news-and-information = Hírek és információk a web „egészségi
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív, amíg újra nem indul az új { -brand-name-firefox } Student Ambassadors program.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív amíg újra nem indul az új Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
