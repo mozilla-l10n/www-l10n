@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+# strong tag is for visual formatting only.
+banner-vpn-cyber-take-20-percent-off = Neste Mês da Cibersegurança <strong>ganhe 20% de desconto no primeiro ano</strong>
