@@ -28,7 +28,7 @@ best-browser-the-second-is-not-storing = Ambue hendáicha katu ani embyaty heta 
 best-browser-last-but-not-least = Ipahápe, hákatu tuichamba’e avei, kundaha hetekorosãva oguerekova’erã tembiporu ne pytyvõtava ema’ẽag̃ui hag̃ua ne mba’etére. Ehecha kyhyjerã oikéva ne ñanduti vevépe ne mba’ete peteĩva imarãrõ térã ta’ãnga’i he’íva ndéve ñanduti renda oĩramo encriptado (ja’étavo, iporãpa emoinge nde papapy ñemurãva tenda joguahápe).
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
-best-browser-firefox-is-offering-v2 = { -brand-name-firefox } ome’ẽ mba’e pyahu ne rekorosã hag̃ua: <a href="{ $monitor }">{ -brand-name-mozilla-monitor }</a>. Porupyrã reigua nemombáytava oĩramo mondaha ne mba’etépe ha nemomarandúta umi ne mba’ete oñemondápara’e ymave. Ambue hembiapoite ha’e Candado verde. Ojehecha peteĩ ta’ãnga’í hovyũvaramo kundaha rovetã yvate asu gotyo. Eikéramo { -brand-name-firefox }-pe ha ehecha pe candádo rovyũ hũngýramo, he’ise pe ñanduti renda oĩha encriptado ha hekorosã. Pe candádo iñapatĩramo, ikatu eñamindu’uve emoinge hag̃ua marandu ñemiguaitéva.
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } ome’ẽ mba’e pyahu ne rekorosã hag̃ua: <a href={ $monitor }>{ -brand-name-mozilla-monitor }</a>. Porupyrã reigua nemombáytava oĩramo mondaha ne mba’etépe ha nemomarandúta umi ne mba’ete oñemondápara’e ymave. Ambue hembiapoite ha’e Candado verde. Ojehecha peteĩ ta’ãnga’í hovyũvaramo kundaha rovetã yvate asu gotyo. Eikéramo { -brand-name-firefox }-pe ha ehecha pe candádo rovyũ hũngýramo, he’ise pe ñanduti renda oĩha encriptado ha hekorosã. Pe candádo iñapatĩramo, ikatu eñamindu’uve emoinge hag̃ua marandu ñemiguaitéva.
 # Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
