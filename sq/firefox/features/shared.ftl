@@ -8,6 +8,15 @@
 features-shared-firefox-features = Veçori të { -brand-name-firefox }-it
 features-shared-footer-cta-title = Bëni më tepër gjëra me { -brand-name-firefox }-in
 features-shared-footer-cta-button = Shkarkoni { -brand-name-firefox }-in
+features-shared-is-firefox-a-fast-browser = A është { -brand-name-firefox }-i një shfletues i shpejtë?
+features-shared-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?
+features-shared-free-password-manager = Përgjegjës fjalëkalimesh
+features-shared-customize-your-firefox-browser = Përshtatni shfletuesin tuaj { -brand-name-firefox }
+features-shared-bookmark-manager = Përgjegjës faqerojtësish
+features-shared-private-browsing-mode = Mënyra shfletim privat
+features-shared-firefox-add-ons-and-browser-extensions = Shtesa dhe zgjerime shfletuesi { -brand-name-firefox }
+features-shared-eyedropper-tool = Mjeti pikatore
+features-shared-pdf-editor = Përpunues PDF
 features-shared-fingerprinter-blocking = Bllokim Krijimi Shenjash Gishtash
 features-shared-translate-the-web = Përktheni internetin
 features-shared-picture-in-picture = Picture-in-Picture

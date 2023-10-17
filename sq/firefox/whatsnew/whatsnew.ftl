@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Ç’ka të re në { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Ç’ka të re në { -brand-name-firefox } - Më tepër privatësi, më tepër mbrojtje.
 whatsnew-page-description = Ngrini zërin kundër një industrie që po ua shet të dhënat tuaja palëve të treta. Jini i mençur dhe i parrezik në internet, me teknologji që ndeshen për ju.
 whatsnew-firefox = { -brand-name-firefox }

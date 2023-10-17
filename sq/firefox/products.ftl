@@ -5,17 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox }-i është më shumë se një shfletues
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } është vetëm fillimi
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Është një familje e plotë produktesh e konceptuar për t’ju mbajtur të parrezik dhe të mençur në internet.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox }-i është <strong>më shumë</strong> se një shfletues
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } është vetëm <strong>fillimi</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Shihni nëse të dhënat tuaja personale janë komprometuar në një cenim të dhënash shoqërie dhe regjistrohuni për sinjalizime të ardhshme.
 firefox-products-check-for-breaches = Kontrolloni për cenime
 firefox-products-sign-up-for-breach-alerts = Regjistrohuni për sinjalizime rreth cenimesh
+# Obsolete string
 firefox-products-firefox-browsers = Shfletues { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Merrni shfletuesin që bllokon vetvetiu më shumë se 2000 gjurmues të dhënash. Në çdo shfletues { -brand-name-firefox } vjen si standard Mbrojtje e Thelluar Nga Gjurmimi.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Mësoni më tepër rreth shfletuesve dhe produkteve { -brand-
 learn-more-faq = PBR rreth { -brand-name-firefox }-it
 the-history-of = Historiku i shfletuesve
 firefox-has-been = { -brand-name-firefox }-i ka qenë i pranishëm thuajse që prej fillimit.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebel me një kauzë
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox }-i është i pavarur dhe ka prapa entin jofitimprurës { -brand-name-mozilla }, që lufton për të drejtat tuaja internetore dhe e bën Internetin të përdorshëm nga cilido, kudo.
 what-is-a = Ç’është një shfletues?
 a-web-browser = Një shfletues ju shpie kudo në internet, duke ju lënë të shihni tekst, figura dhe video nga kudo në botë.
@@ -21,8 +23,6 @@ firefox-is-more = { -brand-name-firefox }-i është më shumë se një shfletues
 its-a-lightning = Është një portë e shpejtë rrufe për te punimi më i mirë në internet.
 get-the-browsers = Merrni shfletuesit që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
 get-the-privacy = Merrni privatësinë që meritoni. Mbrojtja e Thelluar Nga Gjurmimi e bën të automatizuar privatësinë, çdo herë që hapni shfletuesin tuaj.
-take-your-passwords = Merrini fjalëkalimet tuaja kudo
-securely-access-the = Hyni pa rrezik prej ngado te fjalëkalimet që keni ruajtur në { -brand-name-firefox } — madje edhe jashtë shfletuesit.
 choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } për { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ndërkohë që një { -brand-name-chromebook } ka tashmë të instaluar { -brand-name-chrome }, shkarkimi dhe përdorimi i { -brand-name-firefox }-it si shfletuesi të cilin përdorni ju jep ca përfitime
@@ -61,7 +61,9 @@ firefox-more-protection = { -brand-name-firefox }: Më tepër mbrojtje. Më pak 
 were-obsessed-with = Mbrojtjen e privatësisë e kemi fiksim. Ja pse e bëmë Shfletimin Privat nën { -brand-name-firefox } edhe më të fuqishëm se ai i të tjerëve.
 incognito-browser-what = Shfletues inkonjito: Ç’do të thotë faktikisht
 firefox-calls-it = { -brand-name-firefox }-i e quan shfletim privat, { -brand-name-chrome }-i e quan mënyra inkonjito. Që të dyja ju lënë të shfletoni internetin pa ruajtur historik të shfletimit tuaj.
+# Obsolete string
 take-the-stress = Hiqini lodhjen gjetjes së një shfletuesi të parrezik.
+# Obsolete string
 building-a-safe = Ndërtimi i një shfletuesi të parrezik është art dhe shkencë bashkë, ngaqë për këtë punë s’ka rregulla të caktuara.
 firefox-more-fingerprinter-blocking = Bllokim Krijuesish Shenjash Gishtash
 firefox-more-fingerprinting-is-a = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
@@ -71,3 +73,4 @@ firefox-more-a-guide-to = Një udhërrëfyes për kredenciale hyrjesh dhe fjalë
 firefox-more-more-and-more = Gjithnjë e më shumë gjëra rezervat, të vyera, në jetën tuaj ruhen me fjalëkalime.
 firefox-more-avoid-misinformation-heading = Shmangni keqinformim në internet – { -brand-name-firefox }-i është këtu për t’ju ndihmuar
 firefox-more-avoid-misinformation-desc = Hidhuni një sy ndihmëzave se si të të shihni më pak keqinformim dhe të përqendroheni në atë çka është e rëndësishme për ju.
+firefox-more-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?

@@ -133,6 +133,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } është i gatshëm për krejt pajisjet tuaja; merrni me vete skedat tuaja, historikun dhe faqerojtësit tuaj. Krejt çka ju duhet është një <a { $attrs }>llogari { -brand-name-firefox }</a>.
@@ -147,8 +148,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = E keni tashmë shfletuesin. Tani merrni edhe më tepër gjëra nga { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Vëzhgoni për hacker-a me { -brand-name-mozilla-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Vëzhgoni për hacker-a me { -brand-name-firefox-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Vëzhgoni për hacker-a, përmes { -brand-name-firefox-monitor }, mbroni fjalëkalimet me { -brand-name-firefox-lockwise }, etj.
 firefox-desktop-download-get-more-from-firefox = Përfitoni Më Tepër Nga { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
@@ -167,7 +170,7 @@ firefox-desktop-download-now-mac = Tani <strong>hapni</strong> kartelën që sap
 firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndihmë për instalimin tuaj</a>.
 firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +179,7 @@ firefox-desktop-download-visit-support-for-more = Për Më Tepër Hollësi, Vizi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">s’furnizon më përditësime sigurie</a> për { -brand-name-windows } { -brand-name-xp } apo { -brand-name-vista }, por prapë mundeni ta përdorni { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim një sistem operativ jo të sigurt, të vjetruar, <a href="{ $url }">që s’mbulohet më nga { -brand-name-firefox }-i</a>.
