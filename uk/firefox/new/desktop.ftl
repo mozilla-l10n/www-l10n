@@ -139,7 +139,7 @@ firefox-desktop-download-as-the-internet = Разом зі зростанням 
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть із собою вкладки, історію та закладки. Все що вам потрібно — це <a { $attrs }>обліковий запис { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть вкладки, історію та закладки з собою. Усе, що вам потрібно, це <a { $attrs }>{ -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a>, і ви отримаєте доступ до синхронізації та інших продуктів { -brand-name-mozilla }.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть вкладки, історію та закладки з собою. Усе, що вам потрібно – <a { $attrs }>{ -brand-name-mozilla-account }</a>, і ви отримаєте доступ до синхронізації та інших продуктів { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Отримайте зображення високої роздільної здатності будь-чого в Інтернеті за допомогою нашого, вбудованого прямо у браузер, засобу для <a { $attrs }>знімків екрана</a>

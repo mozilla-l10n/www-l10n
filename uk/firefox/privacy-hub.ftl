@@ -90,10 +90,10 @@ firefox-privacy-hub-get-pocket = Отримати { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = Ваш { -brand-name-mozilla-account }
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = Ваш { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
-firefox-privacy-hub-all-the-information-synced-v2 = Усю інформацію, синхронізовану через ваш { -brand-name-mozilla-account } — від історії браузера до паролів — зашифровано. А пароль вашого облікового запису — це єдиний ключ.
+firefox-privacy-hub-all-the-information-synced-v2 = Усю інформацію, синхронізовану через ваш { -brand-name-mozilla-account } – від історії браузера до паролів – зашифровано. А пароль вашого облікового запису – єдиний ключ.
 # Obsolete string
 firefox-privacy-hub-all-the-information-synced = Всю інформацію, синхронізовану через ваш { -brand-name-firefox-account(case: "nom", capitalization: "lower") } — від історії браузера до паролів — зашифровано. А пароль вашого облікового запису — це єдиний ключ.
-firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Отримуйте свою приватність та закладки всюди завдяки { -brand-name-mozilla-account }.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Отримуйте свою приватність та закладки всюди завдяки { -brand-name-mozilla-account(case: "dat") }.
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Отримуйте свою приватність та закладки всюди завдяки { -brand-name-firefox-account(case: "dat", capitalization: "lower") }.
 # Variables:

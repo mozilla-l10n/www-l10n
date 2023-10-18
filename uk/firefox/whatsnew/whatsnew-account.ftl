@@ -9,8 +9,8 @@
 ## Required
 
 whatsnew-account-main-headline = Обліковий запис необов'язковий. Але можливо ви захочете його створити.
-whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } збирає так мало даних про вас, нам навіть не потрібна ваша адреса електронної пошти. Але якщо ви скористаєтесь нею, щоб створити { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }, ми зможемо краще захистити вашу приватність в інтернеті.
-whatsnew-account-mozilla-cta = Отримати { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } збирає так мало даних про вас, що нам навіть не потрібна ваша адреса електронної пошти. Але якщо ви скористаєтесь нею, щоб створити { -brand-name-mozilla-account }, ми зможемо краще захистити вашу приватність в інтернеті.
+whatsnew-account-mozilla-cta = Отримати { -brand-name-mozilla-account }
 
 ##
 

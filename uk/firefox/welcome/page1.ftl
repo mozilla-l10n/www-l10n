@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Більше ніж браузер – { -brand-name-mozilla-monitor } – ваш вартовий від нападів хакерів
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = Більше ніж браузер - { -brand-name-firefox-monitor } - ваш вартовий від нападів хакерів
 # HTML page description

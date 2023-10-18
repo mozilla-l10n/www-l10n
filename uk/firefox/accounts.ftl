@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Створіть { -brand-name-mozilla-account } – Зберігайте свої дані приватними, захищеними та синхронізованими
+mozilla-accounts-get-a-mozilla-account = Створіть { -brand-name-mozilla-account } – зберігайте свої дані приватними, захищеними та синхронізованими
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account(case: "nom", capitalization: "lower") } – зберігайте свої дані приватними, захищеними та синхронізованими
 # HTML page description
