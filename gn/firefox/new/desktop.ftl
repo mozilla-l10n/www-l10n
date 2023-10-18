@@ -148,10 +148,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Eguerekóma kundahára. Ko’ág̃a eñeha’ãta eiporuporãve { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko umi mba’evai’apoha rehe { -brand-name-mozilla-monitor } ndive, emo’ã ne ñe’ẽveve { -brand-name-firefox-relay } ndive ha hetave.
+firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
 # Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko umi mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñe’ẽveve { -brand-name-firefox-relay } rupive ha hetave.
-# Outdated string
+firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñanduti veve { -brand-name-firefox-relay } rupive ha hetave.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Ehecha tembiporupyahu mbyaiha { -brand-name-firefox-monitor } ndive, emo’ã ñe’ẽñemi { -brand-name-firefox-lockwise } ndive ha hetave.
 firefox-desktop-download-get-more-from-firefox = Eiporuvéke { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Emboguejy pe kundahára
@@ -170,7 +170,7 @@ firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> maran
 firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -179,7 +179,7 @@ firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃u
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-xp } térã { -brand-name-vista }, hákatu eiporukuaa gueteri { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Eiporu apopyvusu hetekorosã ha hekopyahu’ỹva <a href="{ $url }">ndorekovéimava pytyvõ { -brand-name-firefox } guive</a>.
