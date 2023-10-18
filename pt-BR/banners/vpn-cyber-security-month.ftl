@@ -12,3 +12,4 @@ banner-vpn-cyber-take-20-percent-off = Neste Mês da Cibersegurança <strong>gan
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
 banner-vpn-cyber-use-coupon-code = Use o código { $coupon_code } ao finalizar
 banner-vpn-cyber-get-annual-sub = Obtenha uma assinatura anual
+banner-vpn-cyber-offer-ends = Oferta termina em 31 de outubro de 2023

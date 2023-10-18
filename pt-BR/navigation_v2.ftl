@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Veja todos os { -brand-name-firefox-br
 
 navigation-v2-products = Produtos
 navigation-v2-close-products-menu = Fechar menu Produtos
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Veja se o seu email apareceu no vazamento de dados de alguma empresa.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Saiba como cada produto { -brand-
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Crie novas contas sem fornecer seu endereço de email.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Proteja a conexão do seu navegador com a internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Novos recursos e ferramentas para uma experiência de uso personalizada da { -brand-name-mdn }
 navigation-v2-view-all-products = Ver todos os produtos
