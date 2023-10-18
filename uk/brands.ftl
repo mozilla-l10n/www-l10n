@@ -285,8 +285,72 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
--brand-name-mozilla-account = Обліковий запис Mozilla
--brand-name-mozilla-accounts = Облікові записи Mozilla
+-brand-name-mozilla-account =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [upper] Облікового запису Mozilla
+               *[lower] облікового запису Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [upper] Обліковому запису Mozilla
+               *[lower] обліковому запису Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [upper] Обліковий запис Mozilla
+               *[lower] обліковий запис Mozilla
+            }
+        [abl]
+            { $capitalization ->
+                [upper] Обліковим записом Mozilla
+               *[lower] обліковим записом Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [upper] Обліковому записі Mozilla
+               *[lower] обліковому записі Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [upper] Обліковий запис Mozilla
+               *[lower] обліковий запис Mozilla
+            }
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [upper] Облікових записів Mozilla
+               *[lower] облікових записів Mozilla
+            }
+        [dat]
+            { $capitalization ->
+                [upper] Обліковим записам Mozilla
+               *[lower] обліковим записам Mozilla
+            }
+        [acc]
+            { $capitalization ->
+                [upper] Облікові записи Mozilla
+               *[lower] облікові записи Mozilla
+            }
+        [abl]
+            { $capitalization ->
+                [upper] Обліковими записами Mozilla
+               *[lower] обліковими записами Mozilla
+            }
+        [loc]
+            { $capitalization ->
+                [upper] Облікових записах Mozilla
+               *[lower] облікових записах Mozilla
+            }
+       *[nom]
+            { $capitalization ->
+                [upper] Облікові записи Mozilla
+               *[lower] облікові записи Mozilla
+            }
+    }
 -brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
