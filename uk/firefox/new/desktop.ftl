@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ство�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Разом зі зростанням та зміною Інтернету, { -brand-name-firefox } продовжує зосереджуватись на вашому праві на приватність  — ми називаємо це <a { $attrs }>Зобов'язанням щодо персональних даних</a>: Отримуємо менше. Зберігаємо безпечно. Жодних секретів. Ваші дані, ваші дії в Мережі, ваше життя в Інтернеті захищено { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть із собою вкладки, історію та закладки. Все що вам потрібно — це <a { $attrs }>обліковий запис { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть вкладки, історію та закладки з собою. Усе, що вам потрібно, це <a { $attrs }>{ -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a>, і ви отримаєте доступ до синхронізації та інших продуктів { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Отримайте зображення високої роздільної здатності будь-чого в Інтернеті за допомогою нашого, вбудованого прямо у браузер, засобу для <a { $attrs }>знімків екрана</a>
@@ -147,8 +151,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = У вас вже є браузер. Тепер отримайте ще більше від { -brand-name-firefox }
+firefox-desktop-download-watch-for-hackers-with-v3 = Слідкуйте за хакерами за допомогою { -brand-name-mozilla-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Слідкуйте за хакерами за допомогою { -brand-name-firefox-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Слідкуйте за діями зловмисників за допомогою { -brand-name-firefox-monitor }, захистіть паролі за допомогою { -brand-name-firefox-lockwise }, а також інші можливості.
 firefox-desktop-download-get-more-from-firefox = Отримайте більше від { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Просто завантажте браузер
@@ -167,7 +173,7 @@ firefox-desktop-download-now-mac = Тепер <strong>відкрийте</strong
 firefox-desktop-download-get-help = Маєте проблеми? <a { $attrs }>Отримайте довідку щодо встановлення</a>.
 firefox-desktop-download-in-another-language = Завантажити іншою мовою або для іншої операційної системи.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Відвідайте служ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Ви використовуєте незахищену, застарілу операційну систему, <a href="{ $url }">яка більше не підтримується { -brand-name-firefox }</a>.

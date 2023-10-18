@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Ваша приватніст�
 firefox-privacy-hub-firefox-products-work-differently = Продукти { -brand-name-firefox } працюють інакше, оскільки їх створено для захисту вашої приватності.
 firefox-privacy-hub-learn-about-our-products = Докладніше про наші продукти
 firefox-privacy-hub-firefox-privacy-by-the = Приватність продуктів { -brand-name-firefox }
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } захищає вашу приватність у всіх продуктах.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } захищає вашу приватність у всіх продуктах.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox }  <strong>захищає</strong> вашу приватність у всіх продуктах.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla }  <strong>захищає</strong> вашу приватність у всіх продуктах.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Понад 2,000 елементів стеження заблоковано — автоматично
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -67,7 +71,11 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Якщо ви маєте { -
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Щодня, понад { $trackers } елементів стеження блокує { -brand-name-firefox } для користувачів усього світу
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Коли ви вводите свою електронну адресу до { -brand-name-mozilla-monitor }, ми відразу забуваємо її після перевірки на наявність у відомих витоках даних, якщо ви не надаєте нам дозвіл на продовження перевірки нових витоків на наявність там вашої приватної інформації.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Коли ви вводите свою електронну адресу до { -brand-name-firefox-monitor }, ми відразу забуваємо її після перевірки на наявність у відомих витоках даних, якщо ви не надаєте нам дозвіл на продовження перевірки нових витоків на наявність там вашої приватної інформації.
 firefox-privacy-hub-check-for-breaches = Перевірити на витік даних
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }

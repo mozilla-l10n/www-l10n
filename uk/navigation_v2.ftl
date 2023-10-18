@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Переглянути всі { -brand
 
 navigation-v2-products = Продукти
 navigation-v2-close-products-menu = Закрити меню Продукти
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Перевірте, чи не з’явилася ваша електронна адреса у витоці даних компанії.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Дізнайтеся, як кож
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Створюйте нові облікові записи, не передаючи свою електронну адресу.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Захистіть з’єднання браузера з Інтернетом.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нові функції та інструменти для персоналізованої роботи з { -brand-name-mdn }
 navigation-v2-view-all-products = Переглянути всі прдукти

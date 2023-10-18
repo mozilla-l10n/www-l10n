@@ -1,19 +1,25 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-# HTML page title
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = Більше ніж браузер - { -brand-name-firefox-monitor } - ваш вартовий від нападів хакерів
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Зробіть наступний крок для захисту своєї приватності в Інтернеті за допомогою сімейства продуктів { -brand-name-firefox }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Будьте на крок попереду хакерів. Слідкуйте за витоками даних за допомогою { -brand-name-mozilla-monitor }.
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Будьте на крок попереду хакерів. Слідкуйте за витоками даних за допомогою { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Ви на шляху, щоб залишатися захищеним
 welcome-page1-youve-got-the-web-browser = Ви отримали браузер, який захищає вашу приватність — саме час захиститися хакерів.
 welcome-page1-check-your-breach-report = Перевірте свій звіт про витік даних
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } повідомляє вас, якщо ваші дані виявлено у відомих витоках даних та попереджає про повторні витоки в майбутньому.
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } повідомляє вас, якщо ваші дані виявлено у відомих витоках даних та попереджає про повторні витоки в майбутньому.
 welcome-page1-stay-ahead-of-hackers = Будьте на крок попереду хакерів.
 # Variables:

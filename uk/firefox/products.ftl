@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } – це лише початок
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Це ціла сім'я продуктів, створених для того, щоб захистити вас і зробити розумнішими в Інтернеті.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } – це ціле сімейство продуктів, створених, щоб захистити вас і зробити розумнішими онлайн
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } - це <strong>більше</strong>, ніж браузер
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } – це лише <strong>початок</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Дізнайтеся, чи ваша особиста інформація потрапила до витоку даних інших компаній, а також підпишіться на сповіщення.
 firefox-products-check-for-breaches = Перевірити на витік даних
 firefox-products-sign-up-for-breach-alerts = Підписатися на сповіщення
+# Obsolete string
 firefox-products-firefox-browsers = Браузер { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Отримайте браузер, який автоматично блокує понад 2000 елементів стеження. Розширений захист від стеження працює в { -brand-name-firefox } на кожному пристрої.
 firefox-products-desktop = Для комп'ютера
 firefox-products-android = { -brand-name-android }
