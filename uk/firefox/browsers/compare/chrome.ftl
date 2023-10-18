@@ -13,14 +13,19 @@ compare-chrome-we-compare-mozilla-firefox = Ми порівнюємо { -brand-n
 compare-chrome-comparing-firefox-browser = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-v2 = { -brand-name-firefox } має величезну кількість відданих користувачів, які цінують нашу непохитну відданість онлайн-приватності. Наприклад, найновіша версія { -brand-name-firefox } має функцію Розширений захист від стеження (РЗС), яка усталено ввімкнена для всіх користувачів у всьому світі. РЗС блокує понад 2000 елементів стеження, включно з елементами стеження соціальних мереж від таких компаній, як Facebook, Twitter та LinkedIn. Він також має вбудовану функцію <a { $attrs }>{ -brand-name-mozilla-monitor }</a>, яка автоматично сповіщає вас про викриття вашого паролю або потребу його оновлення. Додатково до цих засобів захисту, у режимі приватного перегляду { -brand-name-firefox }, автоматично видаляється ваша інформація про перегляд, наприклад історія та куки, не залишаючи слідів по завершенню сеансу.
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } має величезну кількість відданих користувачів, які цінують нашу непохитну відданість приватності в Інтернеті. Наприклад, найновіша версія { -brand-name-firefox } має функцію Розширений захист від стеження (РЗС), яка типово увімкнена для всіх користувачів у всьому світі. РЗС блокує понад 2000 елементів стеження, включно з елементами стеження соціальних мереж від таких компаній, як { -brand-name-facebook }, { -brand-name-twitter } та LinkedIn. Він також має вбудовану функцію <a { $attrs }>{ -brand-name-firefox-monitor }</a>, яка автоматично сповіщає вас про викриття вашого паролю або потребу його оновлення. Додатково до цих засобів захисту, у режимі приватного перегляду { -brand-name-firefox }, автоматично видаляється ваша інформація про перегляд, наприклад історія та куки, не залишаючи слідів по завершенню сеансу.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } має величезну кількість відданих користувачів, які цінують нашу непохитну відданість приватності в Інтернеті. Наприклад, найновіша версія { -brand-name-firefox } має функцію Розширений захист від стеження (РЗС), яка типово увімкнена для всіх користувачів у всьому світі. РЗС блокує понад 2000 елементів стеження, включно з елементами стеження соціальних мереж від таких компаній, як { -brand-name-facebook }, { -brand-name-twitter } та LinkedIn. Він також має вбудовану функцію <a { $attrs }>{ -brand-name-firefox-monitor }</a>, яка автоматично сповіщає вас про викриття вашого паролю або потребу його оновлення. Додатково до цих засобів захисту, у режимі приватного перегляду { -brand-name-firefox }, автоматично видаляється ваша інформація про перегляд, наприклад історія та куки, не залишаючи слідів після завершення сеансу.
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = Нещодавно, ми знову підтвердили свою відданість приватності та прозорості щодо даних користувачів у нашому найновішому <a { $attrs }>Повідомленні про приватність</a>, де зазначено: “У { -brand-name-mozilla } ми вважаємо, що приватність — це основа здорового інтернету."
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Нещодавно, ми знову підтвердили свою відданість приватності та прозорості щодо даних користувачів у нашому найновішому <a { $attrs }>Повідомленні про приватність</a>, де зазначено: “У Mozilla ми вважаємо, що приватність є основою здорового Інтернету."

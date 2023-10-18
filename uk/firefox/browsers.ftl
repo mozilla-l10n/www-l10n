@@ -7,14 +7,17 @@
 
 # HTML page title
 firefox-browsers-page-title = Завантажте { -brand-name-firefox } для ПК, мобільних пристроїв або підприємств
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Отримайте браузер, який цінує вашу приватність понад усе — зараз та завжди
 # HTML page description
 firefox-browsers-page-desc = Оберіть серед версій для комп'ютера, { -brand-name-ios }, { -brand-name-android }, або дозвольте нам надіслати вам електронною поштою посилання для завантаження на мобільний пристрій.
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Отримайте приватність, на яку ви заслуговуєте. Розширений захист від стеження працює автоматично в { -brand-name-firefox } на всіх пристроях.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Отримайте <strong>браузер</strong>, який цінує вашу приватність понад усе — зараз та завжди
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Отримайте браузер, який цінує вашу приватність понад усе — зараз і <strong>завжди</strong>
 firefox-browsers-desktop = Для комп'ютера
 firefox-browsers-seriously-private-browsing = Справжній приватний перегляд. { -brand-name-firefox } автоматично блокує понад 2000 елементів стеження в Інтернеті, не даючи їм змоги збирати інформацію про вашу діяльність.
 firefox-browsers-download-for-desktop = Завантажити для комп'ютера
@@ -35,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Приєднуйтеся до {
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Вже маєте обліковий запис? <a { $fxa_attr }>Увійдіть</a> або <a { $accounts_attr }>дізнайтеся більше</a> про те, як приєднатися до { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Якщо ви бачите “(32-ро�
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Якщо вам необхідно користуватися 32-бітною версією { -brand-name-firefox } або вручну встановити 64-бітну версію { -brand-name-firefox }, ви можете просто завантажити і запустити майстер встановлення для { -brand-name-windows } (32-bit чи 64-bit) зі сторінки завантаження <a href="{ $all }">{ -brand-name-firefox } для інших платформ і мов</a>.
 windows-64-bit-take-control-of-your = Контролюйте свій браузер.
+windows-64-bit-download-firefox = Завантажити { -brand-name-firefox } для Windows 64-розрядний
