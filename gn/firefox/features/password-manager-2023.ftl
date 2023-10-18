@@ -9,6 +9,9 @@
 password-manager-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } ñe’ẽñemi ñangarekoha oñongatu ne ñe’ẽñemi peteĩ tendápe eñepyrũ hag̃ua ne rembiapo ñanduti ijeheguíva térã orujey ñe’ẽñemi ñongatupyre.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>{ -brand-name-mozilla-account } reigua reheve</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okápe. Avei eikukuaa opaite ambue apopyre { -brand-name-mozilla } mba’évape omomba’éva tekoñemi.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
