@@ -12,6 +12,7 @@ firefox-home-the-browser-is-just = Le navigator es solo le initio
 firefox-home-firefox-is-just = { -brand-name-firefox } es solo le initio.
 # Obsolete string
 firefox-home-meet-our-family-of = Incontra nostre familia de productos
+firefox-home-meet-mozillas-family = Discoperi le familia de productos de { -brand-name-mozilla }
 firefox-home-get-trackers-off = Libera te de plus de 2000 traciatores, incluse { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Sape quando le hackers batte e sta un grado avante
 firefox-home-start-getting-breach = Comencia a reciper reportos de violation

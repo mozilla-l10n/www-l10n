@@ -138,6 +138,9 @@ firefox-desktop-download-as-the-internet = Assi que Internet cresce e cambia, { 
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que tu besonia es un <a { $attrs }>conto { -brand-name-firefox }</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que te besonia es un <a { $attrs }>{ -brand-name-mozilla-account }</a> e tu accedera al synchronisation e altere productos { -brand-name-mozilla }.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Captura un imagine a alte-resolution de ulle cosa online con nostre utensile de <a { $attrs }>instantaneo de schermo</a> integrate solo al navigator
 # Variables:

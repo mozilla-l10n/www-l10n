@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = Le gestor de contrasignos 
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } reserva con securitate tu nomines de usator e tu contrasignos pro acceder sitos web, los plena automaticamente pro te le proxime vice que tu visita un sito web, e te permitte de gerer tu credentiales reservate con su function integrate de gestion de contrasigno.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Con un <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuite tu pote synchronisar tu contrasignos inter tote tu apparatos con securitate. Tu alsi pote acceder tote le altere productos de { -brand-name-mozilla } respectuose del confidentialitate.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Con un <a href="{ $fxa }"> { -brand-name-mozilla-account } gratuite</a> tu pote synchronisar con securitate tu contrasignos inter tote tu apparatos.
 # Obsolete string
 # Variables:
