@@ -5,17 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca bir tarayıcı değil
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } yalnızca başlangıç
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Daha güvenli ve daha verimli bir internet deneyimi için tasarlanmış eksiksiz bir ürün ailesi.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } yalnızca bir tarayıcı <strong>değil</strong>
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } yalnızca <strong>başlangıç</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Başka şirketlerdeki kişisel bilgilerinizin çalınıp çalınmadığını öğrenin ve uyarılara kaydolun.
 firefox-products-check-for-breaches = İhlalleri kontrol edin
 firefox-products-sign-up-for-breach-alerts = İhlal uyarılarına kaydolun
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } tarayıcıları
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = 2.000’den fazla veri takipçisini otomatik olarak engelleyen tarayıcıları kullanın. Gelişmiş İzlenme Koruması tüm { -brand-name-firefox } tarayıcılarında standart olarak gelir.
 firefox-products-desktop = Bilgisayar
 firefox-products-android = { -brand-name-android }

@@ -44,7 +44,9 @@ firefox-privacy-hub-your-privacy-by-the-product = Her üründe gizlilik
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } ürünleri ötekilere benzemez, biz ürünlerimizi gizliliğinizi koruyacak şekilde tasarladık.
 firefox-privacy-hub-learn-about-our-products = Ürünlerimiz hakkında bilgi alın
 firefox-privacy-hub-firefox-privacy-by-the = Her { -brand-name-firefox } ürününde gizlilik
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } her üründe gizliliğinizi korur.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } her üründe gizliliğinizi <strong>korur</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
@@ -61,11 +63,14 @@ firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört t
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
 firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account }nız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takip kodunu engelliyoruz
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = E-posta adresinizi { -brand-name-firefox-monitor }'e girdiğinizde, bilinen veri ihlallerini kontrol ettikten sonra e-posta adresinizi anında siliyoruz. Sadece yeni ihlalleri takip etmemize izin verirseniz e-posta adresinizi saklıyoruz.
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -77,9 +82,14 @@ firefox-privacy-hub-send-a-file = Dosya gönderin
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket }, gezinti geçmişinizi toplamadan veya kişisel bilgilerinizi reklamverenlerle paylaşmadan yüksek kaliteli, insanlar tarafından seçilmiş makaleler önerir.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket }’ı edinin
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account }ınız
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }nız
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Tarayıcı geçmişinden parolalara kadar { -brand-name-firefox-account } ile eşitlenen tüm bilgiler şifrelenir. Tek anahtar da hesap parolanızdır.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = { -brand-name-firefox-account } ile gizliliğinizi ve yer imlerinizi her yere götürün.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Tüm { -brand-name-firefox-browsers }n
 
 navigation-v2-products = Ürünler
 navigation-v2-close-products-menu = Ürünler menüsünü kapat
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = E-postanızın veri ihlallerine karışıp karışmadığını kontrol edin.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = { -brand-name-firefox } ürünler
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = E-posta adresinizi gizleyerek yeni hesaplar açın.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Tarayıcınızın internet bağlantısını koruyun.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Kişisel bir { -brand-name-mdn } deneyimi için yeni özellikler ve araçlar
 navigation-v2-view-all-products = Tüm ürünlere bak

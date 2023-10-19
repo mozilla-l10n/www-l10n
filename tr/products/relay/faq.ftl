@@ -41,7 +41,12 @@ faq-question-8-question = { -brand-name-firefox-relay } hangi verileri topluyor?
 faq-question-email-storage-question = { -brand-name-relay } e-postalarımı saklıyor mu?
 faq-question-email-storage-answer = Hizmetin çalışmadığı ender durumlarda e-postalarınızı gönderene kadar geçici olarak saklayabiliriz. E-postalarınızı asla üç günden fazla saklamayız.
 faq-question-acceptable-use-question = { -brand-name-relay }’in kabul edilebilir kullanım alanları nelerdir?
+# Obsolete string
 faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta adresine sahip bir { -brand-name-firefox-account } gereklidir
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Telefon numarası maskesi nedir?
+phone-masking-faq-question-where-is = Telefon maskeleme nerede kullanılabilir?
+phone-masking-faq-question-change-phone-mask = Telefon maskemi değiştirebilir miyim?
+phone-masking-faq-question-can-reply = Mesajlara cevap verebilir miyim?
