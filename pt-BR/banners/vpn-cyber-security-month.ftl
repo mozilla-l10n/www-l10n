@@ -7,7 +7,7 @@
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
 # strong tag is for visual formatting only.
-banner-vpn-cyber-take-20-percent-off = Neste Mês da Cibersegurança <strong>ganhe 20% de desconto no primeiro ano</strong>
+banner-vpn-cyber-take-20-percent-off = Neste mês dedicado à segurança cibernética, <strong>ganhe 20% de desconto no primeiro ano</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
 banner-vpn-cyber-use-coupon-code = Use o código { $coupon_code } ao finalizar

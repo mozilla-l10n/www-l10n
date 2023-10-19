@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Mais do que um navegador, { -brand-name-mozilla-monitor } é seu vigia contra hackers
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = Mais do que um navegador - { -brand-name-firefox-monitor } é seu vigia contra hackers
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Dê o próximo passo para proteger sua privacidade online com a família de produtos { -brand-name-firefox }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Esteja à frente dos hackers. Verifique se seus dados foram expostos com o { -brand-name-mozilla-monitor }.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Esteja à frente dos hackers. Saiba se seus dados foram expostos em vazamentos de dados com o { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Você está no caminho certo para se manter protegido
