@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-mozilla = 不止于浏览器{ -brand-name-mozilla-monitor } 更为您防范黑客
+welcome-page1-more-than-a-browser-mozilla = 不止于浏览器，{ -brand-name-mozilla-monitor } 更为您防范黑客
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = 不止于浏览器，{ -brand-name-firefox-monitor } 更为您防范黑客
 # HTML page description
