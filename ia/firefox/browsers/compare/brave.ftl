@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Le capacitate de synchronisar
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Le navigator { -brand-name-firefox } alsi da al usatores le capacitate de registrar un <a { $accounts }>{ -brand-name-mozilla-account }</a> gratuite. Haber un { -brand-name-mozilla-account } es le clave pro disserrar le synchronisation inter apparatos, in ultra tu obtene le beneficio ulterior de productos como <a { $monitor }>{ -brand-name-mozilla-monitor }</a> que controla tu adresses email e te avisa si alcun tu informationes ha essite implicate in alcun note <a { $breaches }>violationes de datos</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Le navigator { -brand-name-firefox } da alsi al usatores le capacitate de registrar se gratis a un <a { $accounts }>{ -brand-name-mozilla-account }</a>. Un conto { -brand-name-mozilla-account } es le clave pro disblocar le synchronisation inter le apparatos, in ultra tu ha derecto a requestar le beneficio addite de productos como <a { $monitor }>{ -brand-name-firefox-monitor }</a> que controla tu email adresses e te avisa si ulle informationes tue ha essite implicate in ulle note <a { $breaches }>violationes de datos</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Le navigator { -brand-name-firefox } da alsi al usatores le capacitate de registrar gratis un <a { $accounts }>{ -brand-name-firefox-account }</a>. Un conto { -brand-name-firefox } es le clave pro disblocar le synchronisation inter le apparatos, in ultra tu ha derecto a requestar le beneficio addite de productos como <a { $monitor }>{ -brand-name-firefox-monitor }</a> que controla tu email adresses e te avisa si ulle informationes tue ha essite implicate in ulle note <a { $breaches }>violationes de datos</a>.
