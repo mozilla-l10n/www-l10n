@@ -49,4 +49,4 @@ faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta 
 phone-masking-faq-question-what-is = Telefon numarası maskesi nedir?
 phone-masking-faq-question-where-is = Telefon maskeleme nerede kullanılabilir?
 phone-masking-faq-question-change-phone-mask = Telefon maskemi değiştirebilir miyim?
-phone-masking-faq-question-can-reply = Mesajlara cevap verebilir miyim?
+phone-masking-faq-question-can-reply = Kısa mesajlara cevap verebilir miyim?
