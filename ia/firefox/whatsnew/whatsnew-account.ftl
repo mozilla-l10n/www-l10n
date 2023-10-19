@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Un conto non es necessari, ma pote esser desirabile.
+whatsnew-account-main-lead-in-v2 = Le navigator { -brand-name-firefox } collige si poc datos re te, que nos non mesmo requireva tu adresse email. Ma quando tu lo usa pro crear un { -brand-name-mozilla-account }, tu obtene accesso a un integre serie de productos de protection del confidentialitate in addition a { -brand-name-firefox }.
 whatsnew-account-mozilla-cta = Obtene un { -brand-name-mozilla-account }
 
 ##

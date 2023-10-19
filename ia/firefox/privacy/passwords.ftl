@@ -63,6 +63,8 @@ privacy-passwords-2fa-is-a = Authentication a duo factores (2FA) es un optime ma
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu conto { -brand-name-firefox }, per exemplo, pote esser protegite con le authentication a duo factores, <a { $url_sumo_2fa }>re que tu pote saper plus hic</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Tu { -brand-name-mozilla-account }, per exemplo, pote esser protegite con authentication a duo factores, <a { $url_sumo_2fa }>re que tu pote saper plus ci</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = Le authentication a duo factores offere multo melior securitate que le sol contrasignos, ma non tote le sitos web lo supporta. Tu pote trovar un lista de sitos web que supporta authentication a duo factores a <a { $url_2fa }>https://twofactorauth.org</a>, e un lista de sitos que non supporta authentication a duo factores e le manieras que tu pote demandar illes adder ille auxilio.
 privacy-passwords-strong-diverse-and = Forte, diverse, e multi-factor
