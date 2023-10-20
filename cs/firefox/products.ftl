@@ -5,17 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc než jenom prohlížeč
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } je jen začátek
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Firefox je celá rodina produktů navržených tak, aby vás na internetu chránily a hýčkaly.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>víc</strong> než jenom prohlížeč
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } je pouze <strong>začátek</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Podívejte se, jestli byl nejaký váš účet součástí nějakého úniku dat, a nechte se informovat o dalších únicích.
 firefox-products-check-for-breaches = Prohledat úniky
 firefox-products-sign-up-for-breach-alerts = Nastavit upozornění na úniky dat
+# Obsolete string
 firefox-products-firefox-browsers = Prohlížeče { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Získejte prohlížeč, který automaticky blokuje přes 2000 sledovacích prvků. Rozšířenou ochranu sledování najdete v základu v každém prohlížeči { -brand-name-firefox }.
 firefox-products-desktop = Počítač
 firefox-products-android = { -brand-name-android }

@@ -44,7 +44,9 @@ firefox-privacy-hub-your-privacy-by-the-product = Vaše soukromí s našimi prod
 firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } fungují jinak – jsou totiž navrženy tak, aby především chránily vaše soukromí.
 firefox-privacy-hub-learn-about-our-products = Zjistěte více o našich produktech
 firefox-privacy-hub-firefox-privacy-by-the = Vaše soukromí v produktech { -brand-name-firefox }
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } chrání vaše soukromí v každém produktu.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>chrání</strong> vaše soukromí v každém produktu.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Automaticky blokuje přes 2000 sledovacích prvků
@@ -67,7 +69,10 @@ firefox-privacy-hub-if-you-have-a-firefox-account = Pokud máte { -brand-name-fi
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Každý den je pro uživatele { -brand-name-firefox(case: "gen") } na celém světě zablokováno více než { $trackers } sledovacích prvků
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Když zadáte svou e-mailovou adresu do služby { -brand-name-firefox-monitor }, zapomeneme ji hned poté, co jsme prověřili shodu ve známých případech úniku dat – pokud nebudete chtít, abychom pokračovali ve sledování nových případů úniku vašich osobních údajů.
 firefox-privacy-hub-check-for-breaches = Zkontrolovat úniky
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
