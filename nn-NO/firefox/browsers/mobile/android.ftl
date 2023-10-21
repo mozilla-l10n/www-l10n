@@ -12,6 +12,8 @@ mobile-android-firefox-browser-for = Nettlesaren { -brand-name-firefox } for { -
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 # Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
 mobile-android-go-mobile-go = Bli sjølvstendig med { -brand-name-firefox } for { -brand-name-android }
+# Obsolete string
+mobile-android-when-you-download = Når du lastar ned { -brand-name-firefox } vel du å støtte eit uavhengig teknologiføretak. { -brand-name-firefox } er den einaste store nettlesaren som er støtta av ein ideell organisasjon for å gi deg meir openheit, transparens og kontroll over livet ditt på nettet.
 mobile-android-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Send ei nedlastingslenke til telefonen din.
 mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
