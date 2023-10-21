@@ -10,11 +10,14 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Nettlesaren { -brand-name-firefox } for { -brand-name-android } er rask, sikker og privat frå første gong du opnar han.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
+mobile-android-go-mobile-go = Bli sjølvstendig med { -brand-name-firefox } for { -brand-name-android }
 mobile-android-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Send ei nedlastingslenke til telefonen din.
 mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-android-scan-alt-text = Skann QR-koden for å late ned { -brand-name-firefox } til { -brand-name-android }
 mobile-android-fast-and-private = Rask og privat
+mobile-android-one-tap-to = Personvern med eitt trykk
 mobile-android-search-your-own = Søk på din eigen måte
 mobile-android-save-power-with = Spar straum med mørk modus
 mobile-android-easily-organize-your = Ordne enkelt fanene dine
