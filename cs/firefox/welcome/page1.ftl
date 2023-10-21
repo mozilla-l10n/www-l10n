@@ -11,6 +11,7 @@ welcome-page1-more-than-a-browser-mozilla = Více než jen prohlížeč - { -bra
 welcome-page1-more-than-a-browser-firefox = Víc než jen prohlížeč – { -brand-name-firefox-monitor } vás ochrání před hackery
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Podnikněte další krok k ochraně svého soukromí na internetu pomocí rodiny produktů { -brand-name-firefox(case: "gen") }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Buďte před hackery o krok napřed. Kontrolujte úniky dat pomocí { -brand-name-mozilla-monitor(case: "gen") }.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Buďte před hackery o krok napřed. Kontrolujte úniky dat pomocí { -brand-name-firefox-monitor(case: "gen") }.
 welcome-page1-youre-on-track-to-stay-protected = Jste na dobré cestě být stále v bezpečí
@@ -19,6 +20,7 @@ welcome-page1-check-your-breach-report = Podívejte se na úniky vašich dat
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } vám ukáže, zda byly vaše údaje součástí nějakého známého úniku dat, a upozorní vás v případě, že k tomu dojde v budoucnu.
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } vám ukáže, zda byly vaše údaje součástí nějakého známého úniku dat, a upozorní vás v případě, že k tomu dojde v budoucnu.
 welcome-page1-stay-ahead-of-hackers = Udržte si před hackery náskok
