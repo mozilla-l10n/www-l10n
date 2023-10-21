@@ -16,5 +16,8 @@ monitor-shared-sub-nav-all-breaches = Kaikki tietovuodot
 ## Footer
 
 monitor-shared-footer-about-mozilla = Tietoja { -brand-name-mozilla }sta
+monitor-shared-footer-terms-of-service = Käyttöehdot
+monitor-shared-footer-privacy-policy = Tietosuojakäytäntö
+# Obsolete string
 monitor-shared-footer-terms-and-privacy = Ehdot ja tietosuoja
 monitor-shared-footer-github = GitHub

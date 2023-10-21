@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Tiliä ei vaadita. Saatat silti haluta sellaisen.
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox }-selain kerää sinusta mahdollisimman vähän tietoa; emme vaadi edes sähköpostiosoitettasi. Kun käytät sähköpostiosoitettasi { -brand-name-mozilla-account }n luomiseen, saat käyttöösi useita yksityisyyttä suojaavia tuotteita { -brand-name-firefox }in lisäksi.
 whatsnew-account-mozilla-cta = Hanki { -brand-name-mozilla-account }
 
 ##
