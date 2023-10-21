@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } on vasta alkua
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Se on kokonainen tuoteperhe, joka on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla }n koko tuoteperhe on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } on <strong>enemmän</strong> kuin selain
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } on vasta <strong>alkua</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Katso, ovatko henkilötietosi paljastuneet yritykseen kohdistuneen tietoturvaloukkauksen vuoksi, ja tilaa tulevia hälytyksiä.
 firefox-products-check-for-breaches = Tarkista vuotojen varalta
 firefox-products-sign-up-for-breach-alerts = Tilaa vuotohälytykset
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox }-selaimet
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Hanki selaimet, jotka estävät yli 2000 seurainta automaattisesti. Tehostettu seurannan suojaus on vakiona jokaisessa { -brand-name-firefox }-selaimessa.
 firefox-products-desktop = Työpöytä
 firefox-products-android = { -brand-name-android }

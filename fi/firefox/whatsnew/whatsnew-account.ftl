@@ -9,11 +9,14 @@
 ## Required
 
 whatsnew-account-main-headline = Tiliä ei vaadita. Saatat silti haluta sellaisen.
-whatsnew-account-main-lead-in = { -brand-name-firefox }-selain kerää niin vähän tietoa sinusta, ettemme vaadi edes sähköpostiosoitettasi tietoomme. Jos käytät sähköpostiosoitetta luodaksesi { -brand-name-firefox }-tilin, voimme suojata yksityisyyttäsi verkossa aiempaa paremmin.
-whatsnew-account-main-button = Kirjaudu sisään
+whatsnew-account-mozilla-cta = Hanki { -brand-name-mozilla-account }
 
 ##
 
+# Obsolete string
+whatsnew-account-main-lead-in = { -brand-name-firefox }-selain kerää niin vähän tietoa sinusta, ettemme vaadi edes sähköpostiosoitettasi tietoomme. Jos käytät sähköpostiosoitetta luodaksesi { -brand-name-firefox }-tilin, voimme suojata yksityisyyttäsi verkossa aiempaa paremmin.
+# Obsolete string
+whatsnew-account-main-button = Kirjaudu sisään
 whatsnew-account-signed-in-headline = Tee enemmän. Käytä { -brand-name-firefox }ia mobiililaitteissa.
 whatsnew-account-signed-in-lead-in = Lähetä latauslinkki puhelimeesi.
 whatsnew-account-signed-in-qr-title = Lataa { -brand-name-firefox } älypuhelimeen ja tablettiin.

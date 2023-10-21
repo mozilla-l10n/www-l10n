@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Jos n채et tekstin "(32-bittinen)" ja k�
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Jos sinun t채ytyy k채ytt채채 32-bittist채 { -brand-name-firefox }ia tai asentaa manuaalisesti 64-bittinen { -brand-name-firefox }, voit yksinkertaisesti ladata ja suorittaa uudelleen { -brand-name-windows } (32- tai 64-bittinen) { -brand-name-firefox } -asennusohjelman <a href="{ $all }">{ -brand-name-firefox }in alustojen ja kielten lataussivulta.</a>
 windows-64-bit-take-control-of-your = Ota ohjat selaimestasi.
+windows-64-bit-download-firefox = Lataa { -brand-name-firefox } 64-bittiselle Windowsille

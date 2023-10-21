@@ -15,6 +15,8 @@ welcome-page8-view-your-protection-report = Tarkastele suojausraporttiasi
 welcome-page8-enhanced-tracking-protection = Tehostettu seurannan suojaus
 welcome-page8-automatically-block-sites = Estä automaattisesti sivustoja seuraamasta sinua Internetissä.
 welcome-page8-see-whats-blocked = Katso mitä on estetty
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Tarkista, oletko ollut osallisena tunnetuissa tietovuodoissa, ja ryhdy toimiin niiden ratkaisemiseksi.
 welcome-page8-go-to-monitor = Siirry { -brand-name-monitor }iin

@@ -133,9 +133,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – kutsumme sitä <a { $attrs }>henkilökohtaisten tietojen lupaukseksi</a>: Ota vähemmän. Pidä se turvassa. Ei salaisuuksia. { -brand-name-firefox } suojaa tietojasi ja toimintaasi verkossa.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-firefox }-tilin</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-mozilla-account }</a>n ja pääset käyttämään synkronointia ja muita { -brand-name-mozilla }-tuotteita.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ota korkearesoluutioinen kuva mistä tahansa verkossa suoraan selaimeen rakennetulla <a { $attrs }>kuvakaappauksen työkalulla</a>
@@ -147,8 +151,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
+firefox-desktop-download-watch-for-hackers-with-v3 = Varaudu pahoilta hakkereilta { -brand-name-mozilla-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa salasanasi { -brand-name-firefox-lockwise }llä ja paljon muuta.
 firefox-desktop-download-get-more-from-firefox = Lisää { -brand-name-firefox }ilta
 firefox-desktop-download-just-download-the-browser = Lataa vain selain
@@ -167,7 +173,7 @@ firefox-desktop-download-now-mac = <strong>Avaa</strong> juuri ladattu tiedosto.
 firefox-desktop-download-get-help = Ongelmia? <a { $attrs }>Apua asennukseen</a>.
 firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muulle käyttöjärjestelmälle.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Katso lisätietoja tukisivusto
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja vanhentunut käyttöjärjestelmä, jota <a href="{ $url }">{ -brand-name-firefox } ei enää tue</a>.
