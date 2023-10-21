@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browser
 
 navigation-v2-products = Produkt
 navigation-v2-close-products-menu = Lat att Produkt-menyen
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Sjå om e-postadressa di har dukka opp i ein datalekkasje til eit selskap.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Lær deg korleis kvart { -brand-n
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrer deg for nye kontoar utan å gje frå deg e-postadressa di.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Beskytt nettlesartilkoplinga til internett.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nye funksjonar og verktøy for ei tilpassa { -brand-name-mdn }-oppleving
 navigation-v2-view-all-products = Vis alle produkta
