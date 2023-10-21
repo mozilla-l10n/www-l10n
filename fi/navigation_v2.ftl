@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Näytä kaikki { -brand-name-firefox-b
 
 navigation-v2-products = Tuotteet
 navigation-v2-close-products-menu = Sulje Tuotteet-valikko
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Selvitä, onko sähköpostisi paljastunut yritykseen kohdistuneessa tietovuodossa.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Lue, miten kaikki { -brand-name-f
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beeta)
 navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta todellista sähköpostiosoitettasi.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beeta)
-navigation-v2-protect-your-browsers-connection = Suojaa selaimesi yhteyttä internetiin.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Uusia ominaisuuksia ja työkaluja mukautettuun { -brand-name-mdn }-kokemukseen
 navigation-v2-view-all-products = Katso kaikki tuotteet
