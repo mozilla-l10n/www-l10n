@@ -12,6 +12,8 @@ pdf-editor-add-text-to-pdfs = Lisää tekstiä PDF-tiedostoihin { -brand-name-fi
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Katsele ja muokkaa PDF-tiedostoja suoraan { -brand-name-firefox }issa.
 pdf-editor-fill-in-forms-online-without = Täytä lomakkeita verkossa ilman tulostamista ja skannausta
+pdf-editor-weve-all-faced-this-you-need-to = Olemme kaikki kohdanneet sen: sinun on täytettävä PDF-lomake, mutta sitä ei voi muokata. Aiemmin ainoa vaihtoehto oli tulostaa se kuolleeseen puuhun, lisätä asioita musteella ja skannata se sitten takaisin tietokoneelle.
+pdf-editor-no-more-now-all-you-need-to-do = Ei enää! Nyt sinun tarvitsee vain muokata PDF-tiedostoa { -brand-name-firefox }illa, tallentaa muokattu tiedosto ja lähettää se sähköpostitse tietokoneeltasi.
 pdf-editor-add-text = Lisää tekstiä
 pdf-editor-open-the-pdf-in-firefox-click-text = Avaa PDF { -brand-name-firefox }issa. Napsauta Teksti-painiketta valitaksesi värin ja tekstin koon, ennen kuin valitset mihin kohtaan asiakirjaa haluat lisätä tekstiä. Se on niin helppoa!
 pdf-editor-add-drawings-or-your-signature = Lisää piirustuksia (tai allekirjoituksesi)

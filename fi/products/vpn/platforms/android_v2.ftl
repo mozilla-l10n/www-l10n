@@ -7,6 +7,7 @@
 
 vpn-android-vpn-for-android = VPN Androidille { -brand-name-mozilla }lta
 vpn-android-ease-security = Helpota turvallisuuteen liittyviä pelkoja { -brand-name-mozilla-vpn }:n Android-sovelluksella
+vpn-android-looking-for-a = Etsitkö VPN:ää Android-laitteesi suojaamiseksi? { -brand-name-mozilla-vpn } on voittoa tavoittelemattoman tahon tukema. Lue, kuinka VPN suojaa sinua ja miksi voit luottaa { -brand-name-mozilla }an yksityisyyden sekä tietoturvan osalta.
 vpn-android-how-does-a = Miten VPN suojaa Android-laitettani?
 vpn-android-vpns-help = VPN:t auttavat estämään:
 vpn-android-why-should-i = Miksi minun pitäisi ladata { -brand-name-mozilla-vpn } Androidille?

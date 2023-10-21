@@ -22,7 +22,10 @@ monitor-sign-up-for-breach-alerts = Tilaa vuotohälytykset
 ## FAQ section
 
 monitor-faq-heading = Usein kysytyt kysymykset
+monitor-all-faq-link = Katso kaikki UKK:t
 monitor-faq-what-is-a-data-breach-question = Mitä tietomurto oikein on?
+monitor-faq-what-do-i-do-question = Minulle selvisi juuri, että olen osallisena tietovuodossa. Mitä teen seuraavaksi?
+monitor-faq-what-gets-exposed-question = Mitä tietoja tietovuodoissa paljastuu?
 
 ##
 
