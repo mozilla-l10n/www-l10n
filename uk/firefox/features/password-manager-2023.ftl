@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-free-password-manager = Безплатний менеджер паролів
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Завдяки <a { $fxa }>безплатному { -brand-name-mozilla-account(case: "dat") }</a> ви можете безпечно синхронізувати свої паролі на всіх пристроях. Ви також можете отримати доступ до всіх інших продуктів { -brand-name-mozilla }, які поважають приватність.
