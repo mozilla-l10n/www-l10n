@@ -7,6 +7,8 @@
 
 # HTML page title
 password-manager-free-password-manager = Ilmainen salasananhallinta
+# HTML page description
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox }in salasanojen hallinta tallentaa kaikki salasanasi yhteen paikkaan. Voit automaattisesti kirjautua sivustoille tai tarkistaa tallennetut salasanat.
 password-manager-import-passwords = Tuo salasanat
 password-manager-no-more-reusing-your-passwords = Ei enää samojen salasanojen käyttämistä useassa eri palvelussa
 password-manager-password-security-alerts = Salasanojen turvallisuusilmoitukset
