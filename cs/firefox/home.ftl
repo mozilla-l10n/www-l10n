@@ -12,6 +12,7 @@ firefox-home-the-browser-is-just = Prohlížeč je jen začátek
 firefox-home-firefox-is-just = { -brand-name-firefox } je jen začátek.
 # Obsolete string
 firefox-home-meet-our-family-of = Seznamte se s naší rodinou produktů
+firefox-home-meet-mozillas-family = Seznamte se s rodinou produktů od { -brand-name-mozilla(case: "gen") }
 firefox-home-get-trackers-off = Zbavte se více než 2000 sledovacích prvků – včetně { -brand-name-facebook(case: "gen") }
 firefox-home-know-when-hackers-strike = Buďte informování o útocích hackerů – a buďte stále o krok před nimi
 firefox-home-start-getting-breach = Nechte si zasílat upozornění na úniky dat

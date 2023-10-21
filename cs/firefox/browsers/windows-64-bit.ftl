@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Pokud vidíte "(32-bit)" a používáte
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Pokud potřebujete 32bitový { -brand-name-firefox(case: "acc") } nebo si chcete ručně nainstalovat 64bitový, stáhněte si a spusťte instalátor { -brand-name-firefox(case: "gen") } v požadované verzi (32 nebo 64bitový) pro { -brand-name-windows(case: "acc") }. Získat ho můžete na <a href="{ $all }">této stránce</a>.
 windows-64-bit-take-control-of-your = Převezměte kontrolu nad svým prohlížečem.
+windows-64-bit-download-firefox = Stáhnout { -brand-name-firefox } pro Windows 64-bit

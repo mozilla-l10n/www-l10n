@@ -133,6 +133,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } byl <a { 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Zatímco se internet rozvíjí a mění, má { -brand-name-firefox } stále ve středu svého zájmu vaše právo na soukromí – nazýváme to <a { $attrs }>Slib ohledně ochrany osobních údajů</a>: Brát méně. Uchovávat v bezpečí. Žádná tajemství. Vaše údaje, vaše webová aktivita, váš online život jsou s { -brand-name-firefox(case: "ins") } chráněny.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozici na všech vašich zařízeních. Vezměte si své panely, historii a záložky s sebou. Vše, co k tomu potřebujete, je účet <a { $attrs }>{ -brand-name-firefox(case: "gen") }</a>.
@@ -147,8 +148,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Podpora { -brand-name-mozilla(case: "gen") }</a> má odpovědi.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Prohlížeč už máte. { -brand-name-firefox } ale umí ještě více.
+firefox-desktop-download-watch-for-hackers-with-v3 = Hlídejte hackery pomocí { -brand-name-mozilla-monitor(case: "gen") } a chraňte své emailové adresy s { -brand-name-firefox-relay(case: "ins") }, a nejen to.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") } a chraňte své emailové adresy s { -brand-name-firefox-relay(case: "ins") }, a nejen to.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Hlídejte hackery pomocí { -brand-name-firefox-monitor(case: "gen") }, chraňte hesla pomocí { -brand-name-firefox-lockwise(case: "case") } a nejen to.
 firefox-desktop-download-get-more-from-firefox = Využívejte { -brand-name-firefox(case: "acc") } naplno
 firefox-desktop-download-just-download-the-browser = Stáhněte si prohlížeč
@@ -167,7 +170,7 @@ firefox-desktop-download-now-mac = Nyní tento stažený soubor <strong>otevřet
 firefox-desktop-download-get-help = Máte potíže? <a { $attrs }>Rádi vám s instalací pomůžeme</a>.
 firefox-desktop-download-in-another-language = Stáhnout v jiném jazyce nebo pro jiný operační systém.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +179,7 @@ firefox-desktop-download-visit-support-for-more = Další podrobnosti najdete na
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = I když můžete { -brand-name-firefox(case: "acc") } stále používat, { -brand-name-mozilla } už nadále bezpečnostní aktualizace pro { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">neposkytuje</a>.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Používáte zastaralou a ne zcela bezpečnou verzi operačního systému, <a href="{ $url }">kterou už { -brand-name-firefox } nepodporuje</a>.
