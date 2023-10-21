@@ -8,6 +8,9 @@
 # Variables:
 #   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
 bundle-banner-header-2 = Vain rajoitetun ajan: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } hintaan { $monthly_price }/kk
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } suojaa sinua seurannalta ja valvonnalta, kun pelaat, käytät verkkopankkia tai teet töitä. Lisää se { -brand-name-firefox-relay } -tilaukseen säästääksesi { $savings } prosenttia.
 bundle-banner-plan-header-2 = Yhden vuoden tilaus sisältää:
 bundle-banner-plan-modules-email-masking = Maski sähköpostiosoittelle
 bundle-banner-plan-modules-phone-masking = Maski puhelinnumerolle
