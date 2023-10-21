@@ -7,14 +7,17 @@
 
 # HTML page title
 firefox-browsers-page-title = Lataa { -brand-name-firefox } tietokoneille, mobiililaitteille tai yrityskäyttöön
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Hanki selaimet, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
 # HTML page description
 firefox-browsers-page-desc = Valitse työpöytäversio, { -brand-name-ios }, { -brand-name-android } tai anna meidän lähettää sinulle sähköpostitse latauslinkki mobiililaitteille.
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Hanki ansaitsemasi yksityisyys. Tehostettu seurannan suojaus on automaattisesti jokaisessa { -brand-name-firefox }-selaimessa.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Hanki <strong>selaimet</strong>, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Hanki yksityisyytesi etusijalle asettava selain — ja on <strong>aina</strong> asettanut
 firefox-browsers-desktop = Työpöytä
 firefox-browsers-seriously-private-browsing = Oikeasti yksityinen selailu. { -brand-name-firefox } estää automaattisesti yli 2000 verkkoseuraajaa keräämästä tietoja tekemisistäsi verkossa.
 firefox-browsers-download-for-desktop = Lataa tietokoneelle
@@ -35,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Liity { -brand-name-firefox }ii
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Onko sinulla jo tili? <a { $fxa_attr }>Kirjaudu sisään</a> tai <a { $accounts_attr }>lue lisätietoja</a> { -brand-name-firefox }iin liittymisestä.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

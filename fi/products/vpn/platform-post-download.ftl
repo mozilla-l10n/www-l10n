@@ -57,11 +57,11 @@ vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } näyttää visu
 vpn-download-faq-add-device = Miten lisään toisen laitteen?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox-account }in uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
-# Outdated string
+vpn-download-faq-adding-another-v3 = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-mozilla-account }in uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
+# Obsolete string
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox }-tiliin uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
+vpn-download-faq-adding-another-v2 = Toisen laitteen lisääminen on helppoa, lataa ja asenna { -brand-name-mozilla-vpn } -ohjelmisto ja kirjaudu sitten olemassa olevaan { -brand-name-firefox-account }in uudella laitteella. Lisätietoja tukiartikkelissa <a href="{ $subscription }">Laitteiden lisääminen { -brand-name-mozilla-vpn } -tilaukseen</a>.
 vpn-download-faq-best-practices = Mitkä ovat VPN:n parhaat käytännöt?
 vpn-download-faq-traffic = Jos tavoitteesi on suojata Internet-liikennettäsi ja säilyttää samalla suorituskykyinen nopeus, on parasta valita palvelimen sijainti, joka on mahdollisimman lähellä fyysistä sijaintiasi. Tämä lisää yhteytesi luotettavuutta ja nopeutta, koska Internet-liikenteesi ei tarvitse tehdä merkittävää kiertotietä, ennen kuin se saapuu aiottuun määränpäähän verkossa.
 vpn-download-faq-experience = Jos tavoitteesi on kokea Internet kuin olisit jossain toisessa maassa, voit valita palvelimen sijainnin haluamastasi maasta ja kaikki vierailemasi verkkosivustot näkevät liikenteesi tulevan valitsemastasi maasta.
