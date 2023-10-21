@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } vanlege spørsmål
 what-is-firefox = Kva er { -brand-name-firefox }?
 
 # Variables:
@@ -49,11 +51,6 @@ does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 who-owns-firefox = Kven eig { -brand-name-firefox }?
 
 # Variables:
