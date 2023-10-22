@@ -22,13 +22,13 @@ misinformation-spot-online-heading = 要如何確認訊息真假，並且幫助�
 misinformation-look-at-url = 確認訊息網址及/或資訊來源。
 misinformation-known-to-br-credible = 訊息來源可靠嗎？若您不確定，可以試著確認消息來源以及在網路上的聲譽。
 misinformation-overly-sensational = 標題會不會太聳動？
-misinformation-check-out-websites = 看看您信任的網站與新聞媒體是否會就相同主題進行報導。偽造內容的內容通常會使用沒有任何根據也不會出現在報告中的極端與誇大事實。
+misinformation-check-out-websites = 看看您信任的網站與新聞媒體是否報導相同主題的新聞。刻意操弄的內容常常會使用誇大不實、缺少根據的文字，也不會在需要對議題盡責調查的媒體出現。
 misinformation-content-up-to-date = 內容夠即時嗎？
 misinformation-outdated-information = 過時資訊不一定是刻意要誤導大眾，但可能已經不正確。
 misinformation-credible-publication = 作者有沒有張貼過其他文章或貼文？（如果是可靠的出版物更好）
 misinformation-authors-name = 如果作者的名字都只有出現在可疑網站上，那就無須在意他的論述。
 misinformation-images-captions = 圖片與說明文字相符嗎？
-misinformation-images-are-powerful = 圖片是針對假訊息的強大工具。可能會根據標題的不同將人們的想法完全曲解。若您不確定的話可以先找圖看看這個圖片在其他網站上是如何描述的。
+misinformation-images-are-powerful = 圖片是用來提出針對性的造謠的強大工具。視搭配的文字而定，可以讓受眾將議題曲解成完全不同的兩極。若您不確定一張圖片的內容，可以使用搜尋引擎的「以圖找圖」功能，反向找到這張圖片在其他網站所訴說的內容。
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } 如何幫助您遠離錯誤資訊
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } 會封鎖追蹤器：
 # Variables:
