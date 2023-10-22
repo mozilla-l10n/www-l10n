@@ -30,6 +30,7 @@ compare-safari-our-private-browsing-mode = 我們的隱私瀏覽模式會封鎖�
 compare-safari-as-far-as-security-goes-firefox = 就安全性而言{ -brand-name-firefox } 也很可靠。任何時候在 { -brand-name-firefox } 時都可以在密碼欄位按右鍵使用「填寫密碼」選項來產生強密碼。當您儲存新密碼時我們會提示您是否要儲存到內建的密碼管理員 <a { $lockwise }>{ -brand-name-lockwise }</a>。我們也為使用者與帳號擁有者提供免費而好用的產品 <a { $monitor }>{ -brand-name-monitor }</a> 若您的資料出現在已知的資料外洩事件中時會自動發出警報。
 compare-safari-if-you-choose-to-use-safari = 若您選擇使用 { -brand-name-safari }只要您使用的是 { -brand-name-apple } 裝置是安全的。但 { -brand-name-safari } 僅能在 { -brand-name-apple } 裝置使用 { -brand-name-firefox } 只能在 { -brand-name-windows }、{ -brand-name-mac } 裝置、{ -brand-name-ios }、{ -brand-name-android } 及 { -brand-name-linux }。因此不論您使用哪種作業系統{ -brand-name-firefox } 都能讓您了解我們的安全性與隱私權保護機制。
 compare-safari-apple-is-widely-known-for = { -brand-name-apple } 以封閉的生態系統聞名因為它幾乎關乎為產品創造軟體。但在 { -brand-name-app-store } 當中卻提供了一個讓開發者用來打造外掛程式與附加元件讓瀏覽器變得更強大的區域。也可到 { -brand-name-app-store } 瀏覽並簡單加入 { -brand-name-safari } 當中的這些擴充套件。
+compare-safari-in-addition-to-the-regular = 除了分頁瀏覽、隱私瀏覽等一般瀏覽器都有的功能之外，{ -brand-name-safari } 還有一些不同的功能。舉例來說，如果使用者在 { -brand-name-safari } 網頁當中的任何地方對文字按右鍵，然後點擊「尋找」，即可查詢字典、同義詞、{ -brand-name-app-store }、相關電影等資訊。{ -brand-name-safari } 的家長控制功能也很容易設定，讓家長們能在兒童開始對網路世界產生興趣時，輕鬆管理他們的上網行為。
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = 與 { -brand-name-safari } 一樣{ -brand-name-firefox } 也鼓勵熱情的開發者社群貢獻 { $attrs }>瀏覽器的<a { $attrs }>附加元件與擴充套件</a>。由於我們的平台是開放原始碼的所以有許多選擇新增許多功能。
