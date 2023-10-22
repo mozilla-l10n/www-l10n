@@ -41,6 +41,17 @@ compare-safari-also-when-you-sign-up-for-updated-v2 = 另外當您註冊 { -bran
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = 另外當您註冊 { -brand-name-firefox } 帳號後即可使用諸如 <a { $pocket }>{ -brand-name-pocket }</a> 等直接整合到瀏覽器中的服務的更多資訊。 { -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下即可將網頁與影片儲存到 { -brand-name-pocket }隨時隨地您想要的版本 — 離線也沒問題。
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for = 另外，當您註冊 { -brand-name-firefox } 帳號後，就可以直接在瀏覽器中使用 <a { $pocket }>{ -brand-name-pocket }</a> 以及 <a { $send }>{ -brand-name-send }</a> 等獨特服務。{ -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下，即可將網頁與影片儲存到 { -brand-name-pocket } 中，之後可以隨時隨地閱讀簡潔、不讓人分心的版本 — 就算離線也沒問題。透過 { -brand-name-send }，您可以用端到端加密的方式來分享大檔案。此外還包含不同的安全控管機制，例如檔案鏈結的到期時間、下載次數、設定密碼等方式，為分享功能加入更上一層保護。
+# Obsolete string
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $send (string) - link to send.firefox.com with additional attributes for analytics
+# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
+compare-safari-also-when-you-sign-up-for-fallback = 另外，當您註冊 { -brand-name-firefox } 帳號後，就可以直接在瀏覽器中使用 Screenshots、<a { $pocket }>{ -brand-name-pocket }</a> 以及 <a { $send }>{ -brand-name-send }</a> 等獨特服務。Screenshots 是一套直接內建於 { -brand-name-firefox } 瀏覽器的擷圖功能，讓您可以直接複製或下載整張網頁，或網頁中的部分範圍擷圖。拍攝擷圖之後，可以選擇要儲存在哪個資料夾，而不用散亂地儲存於桌面上。{ -brand-name-pocket } for { -brand-name-firefox } 按鈕讓您只要點一下，即可將網頁與影片儲存到 { -brand-name-pocket } 中，之後可以隨時隨地閱讀簡潔、不讓人分心的版本 — 就算離線也沒問題。透過 { -brand-name-send }，您可以用端到端加密的方式來分享大檔案。此外還包含不同的安全控管機制，例如檔案鏈結的到期時間、下載次數、設定密碼等方式，為分享功能加入更上一層保護。
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } 播放影音內容也很棒。透過直接在瀏覽器中內建的「自動播放封鎖」功能讓任何網站都不會在您不請自來時對您大喊大叫。
 # Variables:
 #   $attrs (string) - link to screenshots.firefox.com with additional attributes for analytics
