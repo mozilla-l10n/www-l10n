@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } تصویر وچ تصویر: پوپ آؤٹ وڈیوز نال ٻیا ٻہوں کجھ کم کر گھنو
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = کرݨ کیتے چیزاں تے ݙیکھݨ کیتے چیزاں ہن؟ { -brand-name-firefox } وِچ تصویر وِچ تصویر دا استعمال کریندے ہوئے ݙوہیں کرو۔
+features-pip-picture-in-picture = تصویر وِچ تصویر
 features-pip-new-feature-firefox-multi-picture = نویں خاصیت: { -brand-name-firefox } ڈھڳ تصویر وچ تصویر
 features-pip-cool-feature-picture-in-picture = چنگی خصوصیت: تصویر وچ تصویر
 features-pip-get-more-done-with-pop-out-videos = پوپ آؤٹ وڈیوز نال ٻیا ٻہوں کجھ کم کر گھنو
