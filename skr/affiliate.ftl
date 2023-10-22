@@ -8,6 +8,9 @@
 
 ## CJMS Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+affiliate-notification-message = اساں ایہ سمجھݨ کیتے کوکیاں دا استعمال کریندے ہیں جو کیڑھا لڳدڑ پارٹنر تہاکوں اتھاں تائیں گھن ڳیا ہے۔ اساں اپݨے شراکت داراں دے نال ذاتی طور تے سنڄاݨ کرݨ والی معلومات دی سانجھ نہیں کریندے۔ اساݙی  <a { $attrs }> رازداری دی پالیسی </a> پڑھو۔
 # label for the button that rejects cookie use
 affiliate-notification-reject = مسترد کرو
 # label for the button that okays cookie use
