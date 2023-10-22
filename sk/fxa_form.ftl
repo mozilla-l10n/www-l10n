@@ -4,7 +4,7 @@
 
 # Obsolete string
 fxa-form-enter-your-email = Ak si chcete vytvoriť { -brand-name-firefox-accounts(case: "acc", capitalization: "lower") }, <strong>zadajte svoju e‑mailovú adresu</strong>.
-fxa-form-enter-your-email-v2 = <strong>Zadajte svoj e-mail</strong> a vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
+fxa-form-enter-your-email-v2 = <strong>Zadajte svoj e‑mail</strong> a vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
