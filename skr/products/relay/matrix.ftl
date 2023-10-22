@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+
 ### URL: https://www-dev.allizom.org/products/relay/#pricing
+
 
 ## PRICING MATRIX SECTION
 
@@ -26,6 +28,7 @@ plan-matrix-feature-promo-email-blocking = مشہوری ای میلاں بلاک
 plan-matrix-feature-email-subdomain = آن دی گو تے ماسک تخلیق کرݨ کیتے { -brand-name-relay } ای میل ڈومین
 plan-matrix-feature-email-reply = گمنام دے طور تے ای میلاں دا جواب ݙیوو
 plan-matrix-feature-phone-mask = تہاݙے اصلی فون نمبر دی حفاظت کیتے فون ماسک
+plan-matrix-feature-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Feature Breakdowns Mobile (Shorter than desktop strings)
 
@@ -36,6 +39,7 @@ plan-matrix-feature-mobile-promo-email-blocking = مشہوری ای میلاں �
 plan-matrix-feature-mobile-email-subdomain = نویکلی { -brand-name-relay } ای میل ڈومین
 plan-matrix-feature-mobile-email-reply = گمنام دے طور تے ای میلاں دا جواب ݙیوو
 plan-matrix-feature-mobile-phone-mask = آپݨے اصلی فون نمبر دی حفاظت کرو
+plan-matrix-feature-mobile-mozvpn = { -brand-name-mozilla-vpn }
 
 ## Plan Details
 
