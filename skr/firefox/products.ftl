@@ -5,17 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = ایہ بݨتراں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتا ڳیا ہے۔
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } براؤزر کنوں <strong>ودھ </strong> ہے
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = ݙیکھو جو آیا کارپوریٹ ڈیٹا دی خلاف ورزی وِچ تہاݙی ذاتی معلومات نال سمجھوتہ کیتا ڳیا ہے، تے مستقبل دے انتباہات کیتے سائن اپ کرو۔
 firefox-products-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-products-sign-up-for-breach-alerts = خلاف ورزی دیاں چتاوݨیاں کیتے سائن اپ کرو
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } براؤزرز
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = اینجھے براؤزرز حاصل کرو جیڑھے 2000+ ڈیٹا ٹریکرز کوں آپوں ڄاݨ بلاک کریندے ہن۔ بہتر ٹریکنگ پروٹیکشن ہر { -brand-name-firefox } براؤزر وِچ معیار آندا ہے۔
 firefox-products-desktop = ڈیسک ٹاپ
 firefox-products-android = { -brand-name-android }

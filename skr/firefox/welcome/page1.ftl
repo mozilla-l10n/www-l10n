@@ -5,15 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-# HTML page title
+# Outdated string
 welcome-page1-more-than-a-browser-firefox = ہک براؤزر کنوں زیادہ - { -brand-name-firefox-monitor } ہیکرز کیتے تہاݙی ڳول ہے
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } بݨتراں دے ٹٻر دے نال آن لائن اپݨی رازداری دی حفاظت کیتے اڳلا قدم چاؤ۔
+# Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = ہیکرز کنوں اڳوں رہو۔ { -brand-name-firefox-monitor } دے نال ڈیٹا دیاں خلاف ورزیاں دی جانچ کرو۔
 welcome-page1-youre-on-track-to-stay-protected = رساں محفوظ رہݨ دے رستے تے او۔
 welcome-page1-youve-got-the-web-browser = تہاݙے کول ہک ویب براؤزر ہے جیڑھا تہاݙی رازداری دی حفاظت کریندا ہے — ہݨ وقت آ ڳیا ہے جو ہیکرز کوں ڳولو۔
 welcome-page1-check-your-breach-report = آپݨی خلاف ورزی رپورٹ دی پڑتال کرو
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } تہاکوں ݙکھیندا ہے جو آیا تہاݙی معلومات کوں کہیں معلوم ڈیٹا دی خلاف ورزی وِچ لیک کیتا ڳیا ہے، تے مستقبل وِچ ایویں تھیوݨ دی صورت وِچ تہاکوں الرٹ کریندا ہے۔
 welcome-page1-stay-ahead-of-hackers = ہیکیراں کنوں اڳوں تے راہوو
 # Variables:

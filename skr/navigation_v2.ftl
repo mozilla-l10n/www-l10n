@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = سارے { -brand-name-firefox-browser
 
 navigation-v2-products = مصنوعات
 navigation-v2-close-products-menu = مصنوعات مینیو بند کرو
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ݙیکھو جو بھلا تہاݙا ای میل کمپنی دے ڈیٹا دی خلاف ورزی وِچ ظاہر تھیا ہے۔
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = ڄاݨو جو کیویں ہر { -
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (بیٹا)
 navigation-v2-sign-up-for-new-accounts = آپݨاں ای میل پتہ حوالے کیتے بغیر نویں کھاتے کیتے سائن اپ تھیوو۔
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (بیٹا)
-navigation-v2-protect-your-browsers-connection = انٹر نیٹ تے آپݨے براوزر دے کنکشن دی حفاظت کرو۔
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = محصوص بݨائے ہوئے { -brand-name-mdn } تجربے کیتے نویاں خصوصیات تے اوزار
 navigation-v2-view-all-products = ساریاں مصنوعات ݙیکھو
