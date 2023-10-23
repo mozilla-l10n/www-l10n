@@ -11,7 +11,7 @@
 new-platform-free-web-browser = Kundahára reiguáva
 new-platform-download-firefox = Emboguejy { -brand-name-firefox }
 new-platform-download-the-fastest = Emboguejy { -brand-name-firefox } ipya’evéva tembiasakuépe
-new-platform-faster-page-loading = Emyenyhẽ kuatiarogue pya’e, sa’ive oiporu mandu’arenda ha heta hembiapoite, ko’ápe oĩma { -brand-name-firefox } pyahu.
+new-platform-faster-page-loading = Emyanyhẽ kuatiarogue pya’e, sa’ive oiporu mandu’arenda ha heta hembiapoite, ko’ápe oĩma { -brand-name-firefox } pyahu.
 new-platform-2x-faster = Mokõi jevy ipya’eve
 new-platform-advanced-install-options = Ñemboguejy poravorã oikopátamava ha ambue jehechaukaha.
 new-platform-download-in-another = Emboguejy ambue ñe’ẽme

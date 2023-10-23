@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -26,6 +26,6 @@ welcome-page4-leave-no-trace = Ani eheja tapykuere
 welcome-page4-automatically-clear-your-history = Embogue ne rembiasakue ha kookie ijehegui kundaha ñemigua rekópe.
 welcome-page4-go-faster-do-more = Eho pya’eve. Ejapove.
 welcome-page4-take-it-all-with-you = Eguerahapa nendive
-welcome-page4-more-done-fast-smart = Ejapove ne rembiapo kuatiarogue ñemyenyhẽ ipya’evévape ha avei umi jeheka ha’evévape.
+welcome-page4-more-done-fast-smart = Ejapove ne rembiapo kuatiarogue ñemyanyhẽ ipya’evévape ha avei umi jeheka ha’evévape.
 welcome-page4-dont-walk-out-the-door-without = Aníke esẽ nde rechaukaha, tendayke, haipy ha ñe’ẽñemi’ỹre.
 welcome-page4-why-am-i-seeing-this = ¿Mba’ére ahecha kóva?
