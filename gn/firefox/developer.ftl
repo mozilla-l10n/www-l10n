@@ -16,7 +16,7 @@ firefox-developer-speak-up = Emombe’umína
 firefox-developer-feedback-makes-us = Ne ñe’ẽ oremombareteve. Ere oréve mba’éichapa ikatu romboha’eve kundaha ha umi mboguatahára rembiporu.
 firefox-developer-join-the-convo = Eike ha eñe’ẽ ko atýpe
 firefox-developer-get-involved = Eike pype
-firefox-developer-help-build-the-last = Eipytyvõ heñói hag̃ua kundaha ijeheguíva. Ehai ayvu, emoĩporã jejavy, emoheñói moimbaha ha hetave.
+firefox-developer-help-build-the-last = Eipytyvõ heñói hag̃ua kundaha ijeheguíva. Ehai ayvu, emoĩporã jejavy, emoheñói moĩmbaha ha hetave.
 firefox-developer-start-now = Eñepyrũmana
 firefox-developer-design-code-test = Emoha’anga. Emboguata. Eha’ã. Emoĩporã.
 # Line break for visual formatting
@@ -57,7 +57,7 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } ipyahúva imbarete añete, hu’ũva ha, iporãvéva, hakeakuaáva. Kóvape oike JavaScript best-in-class mopotĩha, ikatúva oma’ẽ heta kundaha rehe ha ojejapo React ha Redux-pe.
 firefox-developer-master-css-grid = CSS renda ha’evéva
-# outdated
+# Obsolete string
 firefox-developer-next-gen-css-engine = CSS mongu’eha ipyahuetéva
 firefox-developer-built-for-developers = Ojejapóva mboguatahárape g̃uarã
 firefox-developer-a-next-generation = Peteĩ CSS mongu’eha ipyahuetéva
