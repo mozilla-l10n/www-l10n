@@ -22,7 +22,7 @@ firefox-developer-design-code-test = Emoha’anga. Emboguata. Eha’ã. Emoĩpor
 # Line break for visual formatting
 firefox-developer-build-and-perfect = Emoheñói ha emoĩporã umi ne renda<br> { -brand-name-firefox-devtools } ndive
 firefox-developer-inspector = Mbohekoha
-firefox-developer-inspect-and-refine = Ehechajey ha emoĩporã pe ayvu emoheñói hag̃ua ta’anga oikóva, pixel ha pixel.
+firefox-developer-inspect-and-refine = Ehechajey ha emoĩporã pe ayvu emoheñói hag̃ua ta’ãnga oikóva, pixel ha pixel.
 firefox-developer-learn-about-page-inspector = Eikuaave mbohekoha rehegua
 firefox-developer-console = Mba’e’okarupa
 firefox-developer-track-css = Ehapykueho apañuãi CSS, JavaScript, tekorosã ha ñanduti rehegua.

@@ -15,10 +15,10 @@ navigation-android-support = { -brand-name-android } Pytyvõha
 navigation-firefox-browser-for-enterprise = { -brand-name-firefox-browser } mba’apohaguasugua
 navigation-strap-on-your-goggles = Emoĩ tesamo’ãha ha eike ñanduti ñapymigua { -brand-name-firefox-browser } ndive VR rupive.
 navigation-firefox-for-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv } peg̃uarã
-navigation-watch-videos-and-browse = Ehecha ta’angamýi ha eikundaha ñandutípe ne { -brand-name-amazon } { -brand-name-fire-tv } rupive.
+navigation-watch-videos-and-browse = Ehecha ta’ãngamýi ha eikundaha ñandutípe ne { -brand-name-amazon } { -brand-name-fire-tv } rupive.
 navigation-firefox-browsers-put = { -brand-name-firefox } kundahára omotenonde tekorosã, ha opa ára ojapo.
 navigation-take-the-passwords-youve = Egueraha opaite hendápe ne ñe’ẽñemi eñongatúva { -brand-name-firefox }-pe.
-# Outdated string
+# Obsolete string
 navigation-firefox-is-a-whole-family = { -brand-name-firefox } ha’e apopyre pehẽngue ojejapóva ne rekorosã ha ndera’eve hag̃ua ñandutípe.
 navigation-join-firefox = Ejuaju { -brand-name-firefox } rehe
 navigation-access-all-of-firefox = Eike opaite { -brand-name-firefox } mba’évape peteĩ tembiapo ñepyrũ añómente, ha erekovéta apopyrégui.
@@ -37,19 +37,19 @@ navigation-get-firefox-focus = Eguerekóke { -brand-name-firefox-focus }
 navigation-android-extensions = Jepysokue { -brand-name-android } peg̃uarã
 navigation-your-firefox-account = Nde { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Ehecharamóke tuichaháicha nde jehasakue { -brand-name-firefox } ndive opaite mba’e’okápe.
-# Outdated string
+# Obsolete string
 navigation-learn-how-to-customize = Eikuaáke mba’éichapa omba’apo { -brand-name-firefox }.
 navigation-explore-the-immersive = Ejeporeka ñandutípe nde ñanduti añetegua rechaha ndive.
-# Outdated string
+# Obsolete string
 navigation-experience-augmented = Ehechakuaa pe oikóva tuichapyre ha ñandutiguáva { -brand-name-firefox } ndive.
 navigation-get-together = Eñembyaty ñanduti añetegua rupi ko pa’ũ atygua ñandutigua ndive.
-# Outdated string
+# Obsolete string
 navigation-meet-people-in-experimental = Eikuaa tapicha ñomongetaha ojeporuramóva { -brand-name-firefox } añetegya ikõiva ndive.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
-# Outdated string
+# Obsolete string
 navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } ogueru ñanduti añetegua ha añetegua tuichavéva ñanduti ijurujávape.
-# Outdated string
+# Obsolete string
 navigation-mozilla-brings-firefox = { -brand-name-mozilla } ogueru { -brand-name-firefox } hechapyrã mbotuichapyre ha ñandutigua.
 navigation-firefox-built-just-for = { -brand-name-firefox }, ojejapo mboguatahárape g̃uarã añoite.
 navigation-preview-the-latest-build = Eguerekóke jehecha ypy { -brand-name-firefox } rembiapo ipyahuvéva ha orepytyvõ taiporãve.
@@ -76,7 +76,7 @@ navigation-save-quality-content = Eñongatu tetepy porã oimeraẽva tenda guive
 navigation-sign-up = Eñemboheraguapy
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Ipya’e. Ndahasýi. Iñemi.
 navigation-protect-your-entire-device = Emo’ãmbaite ne mba’e’oka ha tembiporu’i. Eñomi ne rendaite ha embojuaju po mba’e’oka peve. Eñemboheraguapy ko’ág̃a.
-# Outdated string
+# Obsolete string
 navigation-connected-and-protected = Eikepyre ha mo’ãmbyre
 navigation-join = Jejuaju
 navigation-close-join-menu = Emboty poravorã Jejuaju
@@ -89,16 +89,16 @@ navigation-meet-the-technology-company = Eikuaa tembiporupyahu mba’apoha omote
 navigation-new-features = Tembiapoite pyahu
 navigation-save-content-absorb-knowledge = Eñongatu tetepy. Ejapyhy kuaaita.
 navigation-same-speed-and-safety = Peteĩcha pya’ekue ha tekorosã ejeroviaha, ojejapóva mba’apohaguasúpe g̃uarã añoite.
-# Outdated string
+# Obsolete string
 navigation-add-ons = Moĩmbaha
 navigation-projects = Apopyrãnguéra
 navigation-close-projects-menu = Emboty apopyrãnguéra poravopyrã
 navigation-donate-your-voice-to = Eme’ẽ ne ñe’ẽ eipytyvõ hag̃ua pe ñe’ẽ kuaaukaha ijurujakuaa potávo opavavépe g̃uarã.
 navigation-machine-learning = Machine Learning
-# Outdated string
+# Obsolete string
 navigation-web-of-things-iot = Ñanduti mba’eguáva (IoT)
 navigation-help-make-deep-learning = Eipytyvõ umi algoritmo mbokatupyryha tojeporu arapýpe ayvu ijurujáva rekópe.
-# Outdated string
+# Obsolete string
 navigation-make-devices-connected = Ejapo umi mba’e’oka ñandutiguáva hekorosã, jeroviaha ha ambuépe hasyvetaha ijeporuse.
 navigation-developers = Mboguataharakuéra
 navigation-close-developers-menu = Emboty mboguatahára poravorã
@@ -132,6 +132,7 @@ navigation-firefox-beta = { -brand-name-firefox-beta }
 navigation-firefox-nightly = { -brand-name-firefox-nightly }
 navigation-firefox-reality = { -brand-name-firefox-reality }
 navigation-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 navigation-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-firefox-send = { -brand-name-firefox-send }
 navigation-pocket = { -brand-name-pocket }
