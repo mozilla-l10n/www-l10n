@@ -36,7 +36,9 @@ sub-navigation-firefox-for-mobile = ਮੋਬਾਈਲ ਲਈ { -brand-name-fire
 sub-navigation-android-addons = { -brand-name-android } ਐਡਆਨ
 sub-navigation-android-add-ons = { -brand-name-android } ਐਡ-ਆਨ
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-ਬਿੱਟ

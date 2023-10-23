@@ -6,8 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/new
 ### Appears on /firefox/browsers, /firefox/new and /firefox/browsers
 
+# Obsolete string
 # Meet our family of products
 firefox-sticky-promo-meet-our-family-of = ਸਾਡੇ ਉਤਪਾਦਾਂ ਦੇ ਟੱਬਰਾਂ ਨੂੰ ਮਿਲੋ
+firefox-sticky-promo-meet-mozillas-family = { -brand-name-mozilla } ਦੇ ਉਤਪਾਦਾਂ ਨੂੰ ਵੇਖੋ
 firefox-sticky-promo-get-the-latest-firefox = ਨਵਾਂ ਨਕੋਰ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਲਵੋ।
 # Products List
 firefox-sticky-promo-browsers = ਬਰਾਊਜ਼ਰ
