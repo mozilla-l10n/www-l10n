@@ -53,7 +53,7 @@ vpn-landing-faq-info-question-heading = Çfarë informacioni mban { -brand-name-
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Ne aderojmë në mënyrë strikte te { -brand-name-mozilla }’s <a href="{ $principles }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë të dhëna të domosdoshme për ta mbajtur në punë VPN-në dhe për të përmirësuar produktin përgjatë kohës. Ndjekim gjithashtu të dhëna fushatash dhe të dhëna referuese te aplikacioni ynë për celular, për ta ndihmuar { -brand-name-mozilla } të shohë efektshmërinë e fushatave tona të marketingut. Lexoni më tepër, te <a href="{ $notice }">Shënimi ynë i mbi Privatësinë</a>.
+vpn-landing-faq-info-question-desc-v2 = Ne aderojmë në mënyrë strikte te { -brand-name-mozilla }’s <a href="{ $principles }">Parimet e Privatësisë së të Dhënave</a> dhe grumbullojmë të dhëna të domosdoshme për ta mbajtur në punë VPN-në dhe për të përmirësuar produktin përgjatë kohës. Ndjekim gjithashtu të dhëna fushatash dhe të dhëna referuese te aplikacioni ynë për celular, për ta ndihmuar { -brand-name-mozilla } të shohë efikasitetin e fushatave tona të marketingut. Lexoni më tepër, te <a href="{ $notice }">Shënimi ynë mbi Privatësinë</a>.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/principles/
@@ -76,54 +76,48 @@ vpn-landing-faq-compatibility-question-heading = Me cilat pajisje është i për
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } është i përputhshëm me <a href="{ $mobile }">celular</a>, tablet dhe <a href="{ $desktop }">desktop</a> në:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } është i përputhshëm me:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (vetëm 64-bit)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (vetëm 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e sipër)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e sipër)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e sipër)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (version 8 e sipër)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (version 6 e sipër)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e sipër)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } e sipër)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e sipër)
-# Variables:
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e sipër)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (vetëm { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (vetëm për { -brand-name-ubuntu })
 vpn-landing-faq-refund-question-heading = Cilat janë rregullat e rimbursimit për { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Herën e parë që pajtoheni te { -brand-name-mozilla-vpn } përmes sajtit të  { -brand-name-mozilla }-s, nëse e anuloni llogarinë tuaj brenda 30 ditëve të para, mund të kërkoni një rimbursim dhe { -brand-name-mozilla } do të rimbursojë periudhën tuaj të parë të pajtimit.
 vpn-landing-faq-refund-question-additional-desc = Nëse blini një pajtim përmes blerjes që nga brenda aplikacionit, prej { -brand-name-apple } { -brand-name-app-store } apo { -brand-name-google-play } Store, pagesa juaj është subjekt i termave dhe kushteve të { -brand-name-app-store }. Duhet t’i drejtoheni { -brand-name-apple }-it apo { -brand-name-google }-it për çfarëdo çështjesh faturimi dhe rimbursimi, si rruga e duhur.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Mund të merrni paratë mbrapsht brenda 30 ditësh nga blerja e pajtimit tuaj. Lidhuni me ne dhe parashtrojeni kërkesën për rimbursim duke prekur mbi butonin “Merrni Ndihmë” te Rregullimet e aplikacionit tuaj { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Si ta administroj pajtimin tim?
 # Variables:
@@ -139,7 +133,7 @@ vpn-landing-faq-link = Shihni më tepër PBR
 
 vpn-landing-invite-page-title = Shtohuni te Radha: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Merrni njoftim, kur { -brand-name-mozilla-vpn } të jetë gati për rajonin tuaj.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Merrni njoftim, kur { -brand-name-mozilla-vpn } të jetë gati për pajisjen dhe rajonin tuaj.
 vpn-landing-invite-page-heading = Bëhuni pjesë e Radhës për VPN
 vpn-landing-invite-email-label = Cila është adresa juaj email?

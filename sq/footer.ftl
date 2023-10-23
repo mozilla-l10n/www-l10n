@@ -11,30 +11,30 @@ footer-corporate-blog = Blog Korporate
 footer-browser-comparison = Krahasim Shfletuesish
 footer-brand-standards = Standarde Marke
 footer-browsers = Shfletues
-# Outdated string
+# Obsolete string
 footer-desktop = Desktop
-# Outdated string
+# Obsolete string
 footer-mobile = Celular
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
+# Obsolete string
 footer-products = Produkte
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
-# Outdated string
+# Obsolete string
 footer-join = Bëhuni pjesë
-# Outdated string
+# Obsolete string
 footer-sign-up = Regjistrohuni
-# Outdated string
+# Obsolete string
 footer-sign-in = Hyni
-# Outdated string
+# Obsolete string
 footer-benefits = Përfitime
 footer-developers = Zhvillues
 footer-developer-edition = { -brand-name-developer-edition }
@@ -46,13 +46,13 @@ footer-visit-mozilla-corporations = Vizitoni entin mëmë jofitimprurës të <a 
 footer-portions-of-this-content = Pjesë të kësaj lënde janë nën të drejta kopjimi ©1998–{ $current_year } nga kontribues individualë te mozilla.org. Lëndë e passhme sipas një <a rel="license" href="{ $url }">licence { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Shoqëri
-# Outdated string
+# Obsolete string
 footer-about = Rreth
 footer-press-center = Qendër Shtypi
 footer-careers = Punësime
-# Outdated string
+# Obsolete string
 footer-test-new-features = Testoni Veçori të Reja
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Mjete
 footer-resources = Burime
@@ -61,7 +61,7 @@ footer-product-help = Ndihmë mbi Produkte
 footer-support = Asistencë
 footer-file-a-bug = Parashtroni një të Metë
 footer-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkësi
-footer-websites-privacy-notice = Njoftim Privatësie Sajti
+footer-websites-privacy-notice = Shënim Privatësie Sajti
 footer-websites-cookies = Cookies
 footer-websites-legal = Ligjore
 footer-language = Gjuhë

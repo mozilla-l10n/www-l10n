@@ -109,7 +109,7 @@ firefox-privacy-hub-already-have-an-account-v2 = Keni tashmë një llogari? <a {
 firefox-privacy-hub-already-have-an-account = Keni tashmë një llogari? <a { $sign_in } class="{ $class_name }">Hyni</a> ose <a href="{ $learn_more }">mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-read-the-privacy-notice-for = Lexoni <a href="{ $url }">Shënimin mbi Privatësinë</a> për produktet tanë
+firefox-privacy-hub-read-the-privacy-notice-for = Lexoni <a href="{ $url }">Shënim Privatësie</a> për produktet tanë
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = Shfletoni, shkarkoni dhe bëni punë në shërbyes në më shumë se 30 vende, për një lidhje të sigurt internet me një perspektivë të re.
 firefox-privacy-hub-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }

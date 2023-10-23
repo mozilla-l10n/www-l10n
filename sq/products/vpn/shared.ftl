@@ -9,8 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Merrni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bëhuni pjesë e Radhës
 vpn-shared-sign-in-link = Pajtimtar tashmë?
-# Outdated string
-vpn-shared-available-countries-v4 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Britani të Madhe, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Zelandë të Re dhe Zvicër.
+# Obsolete string
 vpn-shared-available-countries-v5 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Kanada, Britani të Madhe, Finlandë, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Suedi, Zelandë të Re dhe Zvicër.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ditë garanci kthimi parash
@@ -53,22 +52,20 @@ vpn-shared-features-connect = Lidhni deri në { $devices } pajisje
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 ditë garanci kthimi parash
 vpn-shared-refund-policy = Rregull Rimbursimi
-vpn-shared-privacy-notice = Shënim Mbi Privatësinë
+vpn-shared-privacy-notice = Shënim Privatësie
 vpn-shared-terms-conditions = Terma dhe Kushte
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } është markë e regjistruar e Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Zgjidhni një plan pajtimi që ju bën punë
-# Outdated string
-vpn-shared-pricing-variable-heading = Zgjidhni një plan që ju bën punë
 vpn-shared-pricing-variable-sub-heading = Krejt planet tona përfshijnë:
 vpn-shared-pricing-recommended-offer = E këshilluar
 vpn-shared-pricing-plan-12-month-v2 = Plan 12 Muaj
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 Muaj
 vpn-shared-pricing-plan-monthly-v2 = Plan mujor
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Mujor
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +74,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/muaj</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + tax</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Merrni planin për 6 muaj
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Merrni planin për 12 muaj
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Merrni planin për 6 muaj
 vpn-shared-pricing-get-12-month-v2 = Merrni planin për 12 muaj
 vpn-shared-pricing-get-monthly = Merrni planin mujor
@@ -133,7 +130,7 @@ vpn-subnav-subscribe = Pajtohuni te { -brand-name-mozilla-vpn }
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Që të kuptojmë se cili partner i yni ju pruri te { -brand-name-mozilla-vpn }, përdorim cookies. Nuk u japim partnerëve tanë të dhëna që lejojnë identifikim personal. Lexoni <a { $attrs }>Rregullat tona të Privatësisë</a>.
 vpn-shared-affiliate-notification-reject = Hidhe tej
 vpn-shared-affiliate-notification-ok = OK
