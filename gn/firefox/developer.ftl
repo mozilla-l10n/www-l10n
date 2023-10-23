@@ -18,7 +18,7 @@ firefox-developer-join-the-convo = Eike ha eñe’ẽ ko atýpe
 firefox-developer-get-involved = Eike pype
 firefox-developer-help-build-the-last = Eipytyvõ heñói hag̃ua kundaha ijeheguíva. Ehai ayvu, emoĩporã jejavy, emoheñói moĩmbaha ha hetave.
 firefox-developer-start-now = Eñepyrũmana
-firefox-developer-design-code-test = Emoha’anga. Emboguata. Eha’ã. Emoĩporã.
+firefox-developer-design-code-test = Emoha’ãnga. Emboguata. Eha’ã. Emoĩporã.
 # Line break for visual formatting
 firefox-developer-build-and-perfect = Emoheñói ha emoĩporã umi ne renda<br> { -brand-name-firefox-devtools } ndive
 firefox-developer-inspector = Mbohekoha

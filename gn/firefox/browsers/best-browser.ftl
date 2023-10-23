@@ -40,7 +40,7 @@ best-browser-trackers-are-all-those = Umi tapykuehoha ha’e “kookie” oporom
 best-browser-another-way-to-stop = Ambue mba’e emboyke hag̃ua tapykuehoha eiporuva’erã kundaha heko ñemíva. Oimeraẽva kundaha he’íva heko ñemiha ombojurujava’erã kundaha ñemiguáva.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = Ndahasýi ehechajeývo eike rire tetepy ñemboheko kuatiaroguépe ha kundaha remiñemi porurekópe. Pe ñanduti kuatiarogue ñemigua omoha’angava’erã ne mba’ekuaarã oñemoherakuã ha mba’érepa. Upévare <a href="{ $privacy }">{ -brand-name-firefox } ñemurã ñemigua</a> ndahasýi emoñe’ẽ ha ejuhu.
+best-browser-one-easy-way-to-check = Ndahasýi ehechajeývo eike rire tetepy ñemboheko kuatiaroguépe ha kundaha remiñemi porurekópe. Pe ñanduti kuatiarogue ñemigua omoha’ãngava’erã ne mba’ekuaarã oñemoherakuã ha mba’érepa. Upévare <a href="{ $privacy }">{ -brand-name-firefox } ñemurã ñemigua</a> ndahasýi emoñe’ẽ ha ejuhu.
 best-browser-choosing-the-best-browser = Eiporavóvo kundaha iporãvéva ha’ete eiporavóramo nde rogarã. Ehechava’erã heta hendápe, ehapykuehoraẽ ha eiporavo upe ndéve g̃uarã iporãvéva.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
