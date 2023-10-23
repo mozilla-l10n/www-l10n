@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Ҳисобҳои Firefox
 -brand-name-firefox-devtools = Абзорҳои барномарезии Firefox
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -114,6 +115,9 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = Ҳисоби «Mozilla»
+-brand-name-mozilla-accounts = Ҳисобҳои «Mozilla»
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -131,7 +135,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
+# Obsolete string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
