@@ -36,18 +36,29 @@ no-we-dont = Ne, ne mislimo da je { -brand-name-chrome } bolji od { -brand-name-
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Pogledajte kako { -brand-name-firefox } u poređenju sa { -brand-name-chrome }om.</a>
+related-questions-better = Povezana pitanja: je li { -brand-name-firefox } bolji od { -brand-name-chrome }, je li { -brand-name-firefox } bolji od { -brand-name-google }, je { -brand-name-firefox } sigurniji od { -brand-name-chrome }, je { -brand-name-firefox } privatniji od { -brand-name-chrome }
+is-firefox-safe-download = Da li je { -brand-name-firefox } siguran za preuzimanje?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Zaštita vaše privatnosti je naš prioritet broj jedan i osiguravamo da je instaliranje { -brand-name-firefox } na vaše uređaje potpuno sigurno - ali uvijek vodite računa da preuzimate s pouzdanog { -brand-name-mozilla }/{ -brand-name-firefox } web stranice, poput <a href="{ $url }">naše stranice za preuzimanje.</a>
+is-firefox-safe = Je li { -brand-name-firefox } siguran?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+not-only-is = Ne samo da je { -brand-name-firefox } siguran za upotrebu, već pomaže da vaši podaci i privatne informacije budu sigurni. { -brand-name-firefox-browser } automatski blokira prikupljanje vaših podataka poznatih trećih strana, tragača društvenih medija, kripto rudara i otisaka prstiju. <a href="{ $url }">Saznajte više o privatnosti u našim proizvodima.</a>
+related-questions-safe = Povezana pitanja: je li { -brand-name-firefox } dobar za privatnost, je li { -brand-name-firefox } siguran, je li { -brand-name-firefox } bolji za privatnost
+does-firefox-sell = Da li { -brand-name-firefox } prodaje vaše lične podatke?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+nope-never-have = Ne. Nikada nije, nikad neće. I štitimo vas od mnogih oglašivača koji to čine. { -brand-name-firefox } proizvodi su dizajnirani da zaštite vašu privatnost. <a href="{ $url }">To je obećanje.</a>
+why-is-firefox = Zašto je { -brand-name-firefox } tako spor?
+firefox-isnt-slow = { -brand-name-firefox } nije spor... sada. U 2017. smo u potpunosti rekonstruisali naš motor pretraživača (nazvan Quantum), kako bismo osigurali da { -brand-name-firefox } može da se takmiči sa drugim velikim pretraživačima. A naši blokatori tragača pomažu da se stranice učitavaju još brže. Dakle, { -brand-name-firefox } je munjevito brz bez žrtvovanja vaše privatnosti.
+is-firefox-chromium = Je li { -brand-name-firefox } zasnovan na { -brand-name-chromium }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
