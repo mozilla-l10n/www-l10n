@@ -59,12 +59,23 @@ nope-never-have = Ne. Nikada nije, nikad neće. I štitimo vas od mnogih oglaši
 why-is-firefox = Zašto je { -brand-name-firefox } tako spor?
 firefox-isnt-slow = { -brand-name-firefox } nije spor... sada. U 2017. smo u potpunosti rekonstruisali naš motor pretraživača (nazvan Quantum), kako bismo osigurali da { -brand-name-firefox } može da se takmiči sa drugim velikim pretraživačima. A naši blokatori tragača pomažu da se stranice učitavaju još brže. Dakle, { -brand-name-firefox } je munjevito brz bez žrtvovanja vaše privatnosti.
 is-firefox-chromium = Je li { -brand-name-firefox } zasnovan na { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } nije zasnovan na { -brand-name-chromium }u (projekat pretraživača otvorenog koda napravljeno za { -brand-name-google } { -brand-name-chrome }). U stvari, mi smo jedan od posljednjih velikih pretraživača koji to nije. { -brand-name-firefox } radi na našem Quantum pretraživaču napravljenom posebno za { -brand-name-firefox }, tako da možemo osigurati da se s vašim podacima rukuje s poštovanjem i da budu privatni.
+does-firefox-use = Da li { -brand-name-firefox } koristi { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } je zadani pretraživač u { -brand-name-firefox }, što znači da možete pretraživati web direktno iz adresne trake. <a href="{ $url }">Saznajte više o postavkama pretraživača i promjeni zadanih postavki.</a>
+does-firefox-have = Da li { -brand-name-firefox } ima ugrađeni VPN?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } nema ugrađeni VPN (virtuelna privatna mreža), ali { -brand-name-mozilla } kreira proizvod pod nazivom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> koji možete koristiti kao dodatak privatnom { -brand-name-firefox-browser } koji može zaštititi vašu vezu na Wi-Fi, kao i vašu IP adresu.
+related-questions-ip = Povezana pitanja: da li { -brand-name-firefox } sakriva vašu IP adresu
+who-owns-firefox = Ko posjeduje { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } je napravila { -brand-name-mozilla-corporation }, podružnica u potpunom vlasništvu neprofitne <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> i vođen je principima manifesta { -brand-name-mozilla }. Saznajte više o proizvođaču { -brand-name-firefox }a <a href="{ $url2 }">ovdje.</a>
+related-questions-who = Povezana pitanja: ko je vlasnik { -brand-name-firefox }a, ko posjeduje { -brand-name-firefox-browser }, je li { -brand-name-firefox } u vlasništvu { -brand-name-google }a, je li { -brand-name-mozilla } { -brand-name-firefox } u vlasništvu { -brand-name-google }a
