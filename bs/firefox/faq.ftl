@@ -25,6 +25,11 @@ how-do-i = Kako da dobijem { -brand-name-firefox-browser }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Možete lahko preuzeti { -brand-name-firefox } desktop pretraživač <a href="{ $url }">ovdje.</a> { -brand-name-firefox } radi na <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> uređajima, a dostupan je i za <a href="{ $url5 }">{ -brand-name-android } i { -brand-name-ios } .</a> Pobrinite se da preuzimate naš pretraživač sa jedne od naših pouzdanih { -brand-name-mozilla }/{ -brand-name-firefox } stranica.
+is-firefox-free = Je li { -brand-name-firefox } besplatan?
+yep-the-firefox = O da! { -brand-name-firefox-browser } je besplatan. Super besplatan, zapravo. Bez skrivenih troškova ili bilo čega. Ne plaćate ništa da ga koristite, a mi ne prodajemo vaše lične podatke.
+related-questions-free = Povezana pitanja: da li je { -brand-name-firefox-browser } besplatan, da li { -brand-name-firefox } košta nešto novca
+is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
