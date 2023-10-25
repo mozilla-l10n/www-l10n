@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = 下载适用于 { -brand-name-windows }�
 firefox-desktop-download-og-title = 下载有史以来最快的 { -brand-name-firefox }
 firefox-desktop-download-og-desc = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = 已有更新的 { -brand-name-firefox } 可用。 <a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 选择会保护重要数据的浏览器
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成�
 firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护您的电子邮件地址等等。
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护邮箱，还有种种待您探索。
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-lockwise } 保护密码，还有种种待您探索。
 firefox-desktop-download-get-more-from-firefox = 让 { -brand-name-firefox } 火力全开
 firefox-desktop-download-just-download-the-browser = 只需下载浏览器
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载�
 firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = 到用户支持站了解更多
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再为 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您还是可以使用已安装的 { -brand-name-firefox }。
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用一个不安全、已过时的操作系统，<a href="{ $url }">{ -brand-name-firefox } 已停止支持 </a>。
