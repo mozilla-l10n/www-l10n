@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Bir tarayıcıdan daha fazlası. { -brand-name-mozilla-monitor } hacker’lara karşı gözcünüzdür
 # Outdated string
 welcome-page1-more-than-a-browser-firefox = Bir tarayıcıdan daha fazlası. { -brand-name-firefox-monitor } hacker’lara karşı gözcünüzdür
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ürün ailesiyle çevrimiçi gizliliğinizi korumak için bir sonraki adımı atın.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Hacker’ların önüne geçin. { -brand-name-mozilla-monitor } ile veri ihlallerini kontrol edin.
 # Obsolete string
 welcome-page1-stay-ahead-of-hackers-check = Hacker’ların önüne geçin. { -brand-name-firefox-monitor } ile veri ihlallerini kontrol edin.
 welcome-page1-youre-on-track-to-stay-protected = Doğru yoldasınız

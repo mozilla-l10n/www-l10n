@@ -9,4 +9,5 @@ banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
 banner-vpn-cyber-use-coupon-code = Ödeme sırasında { $coupon_code } kodunu kullan
+banner-vpn-cyber-get-annual-sub = Yıllık abonelik alın
 banner-vpn-cyber-offer-ends = Teklif 31 Ekim 2023’te sona eriyor
