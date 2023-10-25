@@ -15,6 +15,8 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }, { -brand-name-m
 firefox-desktop-download-og-title = अब तक का सबसे तेज़ { -brand-name-firefox } डाउनलोड करें
 firefox-desktop-download-og-desc = अधिक तेज़ी से पेज लोडिंग, कम मेमोरी उपयोग और तमाम फ़ीचर्स से लैस, नया { -brand-name-firefox } हाजिर है।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+
+
 firefox-desktop-download-get-the-browser = ज़रूरी चीज़ों की सुरक्षा करने वाला ब्राउज़र इस्तेमाल करें
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = कोई भी संदेहजनक निजता नीति नहीं है या विज्ञापनदाताओं के लिए कोई चोर-दरवाजा नहीं है। यह बस एक तेज़ ब्राउज़र है, जो आपका डेटा किसी को बेचता नहीं है।

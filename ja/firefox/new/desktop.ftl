@@ -15,6 +15,8 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }、{ -brand-name-
 firefox-desktop-download-og-title = 史上最速の { -brand-name-firefox } をダウンロード
 firefox-desktop-download-og-desc = より高速なページ読み込み、メモリ使用量削減、機能満載の最新版 { -brand-name-firefox } が登場しました。
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+
+
 firefox-desktop-download-get-the-browser = 大切なものを守るブラウザーを
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。

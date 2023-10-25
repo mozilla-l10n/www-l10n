@@ -15,6 +15,8 @@ firefox-desktop-download-meta-desc-v2 = احصل على { -brand-name-firefox } 
 firefox-desktop-download-og-title = نزِّل أسرع { -brand-name-firefox } على الإطلاق
 firefox-desktop-download-og-desc = تحميل الصفحات بات أسرع، واستخدام الذاكرة أصبح أقل، كما أُضيفت مزايا كثيرة. لقد وصل { -brand-name-firefox } الجديد.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+
+
 firefox-desktop-download-get-the-browser = احصل على المُتصفح الذي يحمي بياناتك المُهمة
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = لا نتبنى سياسات خصوصية مشبوهة أو أساليب مُلتوية للمُعلِنين. كما يَتميز المُتصفح بسرعته الفائقة وعدم بيع بياناتك أو التفريط فيها.

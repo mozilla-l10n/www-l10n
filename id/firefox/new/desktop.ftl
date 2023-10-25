@@ -15,6 +15,8 @@ firefox-desktop-download-meta-desc-v2 = Dapatkan { -brand-name-firefox } untuk {
 firefox-desktop-download-og-title = Unduh { -brand-name-firefox } tercepat yang pernah ada
 firefox-desktop-download-og-desc = Memuat halaman lebih cepat, menggunakan lebih sedikit memori, dan memiliki fitur yang lengkap, { -brand-name-firefox } terbaru telah hadir.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+
+
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
