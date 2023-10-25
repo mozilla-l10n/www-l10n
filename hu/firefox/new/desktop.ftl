@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Szerezze be a { -brand-name-firefox }ot 
 firefox-desktop-download-og-title = Töltse le a valaha volt leggyorsabb { -brand-name-firefox(case: "accusative") }
 firefox-desktop-download-og-desc = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Elérhető egy még újabb { -brand-name-firefox }. <a { $update_url }>Frissítés a legújabb verzióra</a>
 firefox-desktop-download-get-the-browser = Szerezze be azt a böngészőt, amely védi, ami fontos
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nincsenek kétes adatvédelmi irányelvek vagy hátsó ajtók a hirdetőknek. Csak egy villámgyors böngésző, ami nem bocsátja áruba.
