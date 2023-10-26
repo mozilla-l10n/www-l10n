@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Get { -brand-name-firefox } for { -brand
 firefox-desktop-download-og-title = Download the fastest { -brand-name-firefox } ever
 firefox-desktop-download-og-desc = Faster page loading, less memory usage and packed with features, the new { -brand-name-firefox } is here.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = An even newer { -brand-name-firefox } is available. <a { $update_url }>Update to the latest version</a>
 firefox-desktop-download-get-the-browser = Get the browser that protects what's important
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = You’ve already got th
 firefox-desktop-download-watch-for-hackers-with-v3 = Watch for hackers with { -brand-name-mozilla-monitor }, protect your email address with { -brand-name-firefox-relay }, and more.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Watch for hackers with { -brand-name-firefox-monitor }, protect your email address with { -brand-name-firefox-relay }, and more.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Watch for hackers with { -brand-name-firefox-monitor }, protect passwords with { -brand-name-firefox-lockwise }, and more.
 firefox-desktop-download-get-more-from-firefox = Get More From { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Just Download The Browser
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = Now <strong>open</strong> the file that just 
 firefox-desktop-download-get-help = Having trouble? <a { $attrs }>Get help with your installation</a>.
 firefox-desktop-download-in-another-language = Download in another language or for another operating system.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Visit Support for More Details
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">no longer provides security updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but you can still use { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = You’re using an insecure, outdated operating system <a href="{ $url }">no longer supported by { -brand-name-firefox }</a>.
