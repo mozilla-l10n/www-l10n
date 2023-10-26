@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Download { -brand-name-firefox } voor { 
 firefox-desktop-download-og-title = Download de snelste { -brand-name-firefox } ooit
 firefox-desktop-download-og-desc = Sneller pagina’s laden, minder geheugengebruik en boordevol functies, de nieuwe { -brand-name-firefox } is er.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Er is een nog nieuwere { -brand-name-firefox } beschikbaar. <a { $update_url }>Bijwerken naar de nieuwste versie</a>
 firefox-desktop-download-get-the-browser = Download de browser die beschermt wat belangrijk is
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Geen schimmig privacybeleid of achterdeurtjes voor adverteerders. Gewoon een razendsnelle browser die u niet bedriegt.
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = U hebt de browser al. H
 firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers met { -brand-name-mozilla-monitor }, bescherm uw e-mailadres met { -brand-name-firefox-relay }, en meer.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Let op hackers met { -brand-name-firefox-monitor }, bescherm uw e-mailadres met { -brand-name-firefox-relay }, en meer.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Let op hackers met { -brand-name-firefox-monitor }, bescherm wachtwoorden met { -brand-name-firefox-lockwise }, en meer.
 firefox-desktop-download-get-more-from-firefox = Haal meer uit { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Download gewoon de browser
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = <strong>Open nu</strong> het bestand dat zoju
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Ontvang hulp bij uw installatie</a>.
 firefox-desktop-download-in-another-language = Downloaden in een andere taal of voor een ander besturingssysteem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Bezoek Ondersteuning voor meer
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt geen beveiligingsupdates meer aan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, maar u kunt { -brand-name-firefox } nog steeds gebruiken.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = U gebruikt een onveilig, verouderd besturingssysteem dat <a href="{ $url }">niet meer door { -brand-name-firefox } wordt ondersteund</a>.
