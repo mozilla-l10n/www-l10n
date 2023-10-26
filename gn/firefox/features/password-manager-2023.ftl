@@ -23,7 +23,7 @@ password-manager-with-a-free-firefox-account = Peteĩ <a href="{ $fxa }">mba’e
 password-manager-password-autofill-for-easy-logins = Ñe’ẽñemi myanyhẽ jehegui tembiapo ñepyrũrã
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Myanyhẽha tembiapo ñepyrũ ra’ãnga ñanduti rendápe { -brand-name-firefox } ndive ohechaukávo heta mba’ete ñongatupyre eiporavo hag̃ua eikekuévo.
-password-manager-import-passwords = Ñe'ẽñemi jegueru
+password-manager-import-passwords = Ñe’ẽñemi jegueru
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } mba’egueru pytyvõ ñomongetaha ra’ãnga, ohechaukávo poravorã eru hag̃ua ñemboheko ha mba’ekuaarã ambue kundaháragui.
 password-manager-no-more-reusing-your-passwords = Anive eiporujo’a ñe’ẽñeminguéra
