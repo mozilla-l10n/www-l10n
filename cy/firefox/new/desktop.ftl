@@ -18,7 +18,7 @@ firefox-desktop-download-og-desc = Llwytho tudalennau cynt, llai o ddefnydd o go
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-firefox-desktop-out-of-date = Mae { -brand-name-firefox } hyd yn oed yn fwy diweddar ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
+firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
