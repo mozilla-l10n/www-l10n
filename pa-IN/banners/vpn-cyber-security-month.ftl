@@ -12,3 +12,4 @@ banner-vpn-cyber-take-20-percent-off = ਇਹ ਸਾਈਬਰ-ਸੁਰੱਖਿ
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
 banner-vpn-cyber-use-coupon-code = ਚੈਕ ਆਉਟ ਕਰਨ ਦੌਰਾਨ { $coupon_code } ਕੋਡ ਵਰਤੋ
 banner-vpn-cyber-get-annual-sub = ਸਾਲਾਨਾ ਮੈਂਬਰੀ ਲਵੋ
+banner-vpn-cyber-offer-ends = ਪੇਸ਼ਕਸ਼ 31 ਅਕਤੂਬਰ 2023 ਨੂੰ ਖਤਮ
