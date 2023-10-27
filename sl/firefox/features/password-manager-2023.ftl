@@ -27,3 +27,5 @@ password-manager-image-of-a-websites-login-form = Slika prijavnega obrazca na sp
 password-manager-import-passwords = Uvoz gesel
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Slika pogovornega okna { -brand-name-firefox }ovega čarovnika za uvoz, ki prikazuje možnosti uvoza nastavitev in podatkov iz drugih brskalnikov.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Slika obrazca za ustvarjanje računa na spletni strani, kjer { -brand-name-firefox } predlaga močno geslo.
