@@ -23,4 +23,7 @@ password-manager-with-a-free-mozilla-account = Z <a href="{ $fxa }">brezplačnim
 password-manager-with-a-free-firefox-account = Z <a href="{ $fxa }">brezplačnim { -brand-name-firefox } Računom</a> lahko gesla varno sinhronizirate med vsemi svojimi napravami.
 password-manager-password-autofill-for-easy-logins = Samodejno izpolnjevanje gesel za hitrejšo prijavo
 # Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Slika prijavnega obrazca na spletni strani, kjer { -brand-name-firefox } ponuja na izbiro več shranjenih uporabniških imen in gesel.
+password-manager-import-passwords = Uvoz gesel
+# Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Slika pogovornega okna { -brand-name-firefox }ovega čarovnika za uvoz, ki prikazuje možnosti uvoza nastavitev in podatkov iz drugih brskalnikov.
