@@ -8,3 +8,6 @@
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
+whatsnew-up-to-date-notification-v2 = Табрик! Шумо версияи навтарини «{ -brand-name-firefox }»-ро истифода мебаред.
+# Obsolete string
+whatsnew-up-to-date-notification = Табрик! Шумо версияи навтарини «{ -brand-name-firefox-browser }»-ро истифода мебаред.
