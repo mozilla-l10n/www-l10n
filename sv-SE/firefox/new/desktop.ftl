@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Skaffa { -brand-name-firefox } för { -b
 firefox-desktop-download-og-title = Ladda ner den snabbaste { -brand-name-firefox } någonsin
 firefox-desktop-download-og-desc = Snabbare sidladdning, mindre minnesanvändning och fullproppad med funktioner, den nya { -brand-name-firefox } är här.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = En ännu nyare { -brand-name-firefox } är tillgänglig. <a { $update_url }>Uppdatera till den senaste versionen</a>
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = Du har redan webbläsar
 firefox-desktop-download-watch-for-hackers-with-v3 = Håll utkik efter hackare med { -brand-name-mozilla-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Håll utkik efter hackare med { -brand-name-firefox-monitor }, skydda din e-postadress med { -brand-name-firefox-relay } och mer.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Akta dig för hackare med { -brand-name-firefox-monitor }, skydda lösenord med { -brand-name-firefox-lockwise } och mer.
 firefox-desktop-download-get-more-from-firefox = Hämta mer från { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Bara hämta webbläsaren
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = <strong>Öppna</strong> nu filen som just har
 firefox-desktop-download-get-help = Har du problem? <a { $attrs }>Få hjälp med din installation</a>.
 firefox-desktop-download-in-another-language = Ladda ner på ett annat språk eller för ett annat operativsystem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Besök support för mer inform
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tillhandahåller inte längre säkerhetsuppdateringar</a> för { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan fortfarande använda { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du använder ett osäkert, föråldrat operativsystem <a href="{ $url }"> som inte längre stöds av { -brand-name-firefox }</a>.
