@@ -45,6 +45,12 @@ compare-brave-the-ability-to-sync-your-passwords = Možnost synchronizace hesel,
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Prohlížeč { -brand-name-firefox } také dává uživatelům možnost zaregistrovat si zdarma <a { $accounts }>{ -brand-name-mozilla-account }</a>. Účet { -brand-name-mozilla-account } je klíčem k odemčení synchronizace napříč zařízeními. Získáváte navíc další výhody produktů jako <a { $monitor }>{ -brand-name-mozilla-monitor }</a. > který monitoruje vaše e-mailové adresy a upozorní vás, pokud nejsou některé z vašich údajů součástí nějakého známého <a { $breaches }>úniku dat</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
 compare-brave-the-firefox-browser-also-gives-v2 = Prohlížeč { -brand-name-firefox } také umožňuje uživatelům zřídit si zdarma <a { $accounts }>{ -brand-name-mozilla-account(capitalization: "lower") }</a>.  { -brand-name-mozilla-account(case: "gen") } je klíč, který otevírá cestu k synchronizaci mezi zařízeními a navíc s ním získáte větší užitek z produktů jako je třeba <a { $monitor }>{ -brand-name-firefox-monitor }</a>, který dává pozor na vaše e-mailové adresy a upozorní vás, pokud se některý z vašich údajů stane součástí známého <a { $breaches }>úniku dat</a>.
 # Obsolete string
 compare-brave-the-firefox-browser-also-gives = Prohlížeč { -brand-name-firefox } také umožňuje uživatelům zřídit si zdarma <a { $accounts }>{ -brand-name-firefox-account(capitalization: "lower") }</a>. Účet { -brand-name-firefox(case: "gen") } je klíč, který otevírá cestu k synchronizaci mezi zařízeními a navíc s ním získáte větší užitek z produktů jako je třeba <a { $monitor }>{ -brand-name-firefox-monitor }</a>, který dává pozor na vaše e-mailové adresy a upozorní vás, pokud se některý z vašich údajů stane součástí známého <a { $breaches }>úniku dat</a>.

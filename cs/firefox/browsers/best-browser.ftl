@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Existuje několik způsobů, jak může proh
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Druhým je neuchovávání příliš mnoha uživatelských dat. Hackeři nemohou ukrást to, co tam není, což je důvod, proč { -brand-name-firefox } o svých uživatelích uchovává minimální množství informací. <a href="{ $data }">{ -brand-name-firefox } ví</a>, jestli používáte prohlížeč a zná vaší obecnou polohu, <a href="{ $privacy }">ale neví jméno vašeho domácího mazlíčka ani jaká je vaše oblíbená barva</a>.
 best-browser-last-but-not-least = V neposlední řadě by měl bezpečný prohlížeč nabízet nástroje, které vám pomohou dohlížet na své účty. Například upozornění, která vám přijdou přímo e-mailem, jestliže u některého z vašich účtů dojde k úniku dat, nebo ikony, které vám řeknou, jestli je spojení se stránkou šifrováno (tj. je-li dobrý nápad na stránkách e-shopu zadávat číslo platební karty).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } nabízí něco nového pro vaše bezpečí: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Je to bezplatná služba, která vás upozorní, pokud se u vašich účtů objeví nějaké veřejné hackery, a dá vám vědět, pokud byly vaše účty v minulosti napadeny. Další vychytávkou je Zelený zámek. Vypadá jako malá zelená ikonka v levé horní části okna prohlížeče. Pokud používáte { -brand-name-firefox(case: "acc") } a vidíte zelený zámek, znamená to, že je web zašifrovaný a bezpečný. Pokud je zámek šedivý, možná byste si měli dobře rozmyslet, zda nezadáte nějaké citlivé informace.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } vám za účelem vašeho zabezpečení nabízí něco nového: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Jedná se o bezplatnou službu, která vás upozorní, pokud zjistí, že byl některý z vašich účtů napaden hackery, a dá vám vědět, jestliže k něčemu takovému došlo v minulosti. Další šikovnou funkcí je zelený zámek. Vypadá jako malá zelená ikona v levé horní části okna prohlížeče. Pokud používáte { -brand-name-firefox(case: "acc") } a vidíte zelený zámek, znamená to, že je spojení se stránkou šifrované a bezpečné. Je-li zámek šedý, zadávání jakýchkoli citlivých údajů byste asi měli dobře zvážit.

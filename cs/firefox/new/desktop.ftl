@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Získejte { -brand-name-firefox(case: "a
 firefox-desktop-download-og-title = Stáhněte si ten nejrychlejší { -brand-name-firefox(case: "acc") }
 firefox-desktop-download-og-desc = Rychlejší načítání stránek, menší spotřeba paměti a plno funkcí – je tu nový { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizace na nejnovější verzi</a>
 firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrání, co je důležité
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Žádné pochybné zásady ochrany osobních údajů ani zadní vrátka pro reklamní systémy. Jen bleskurychlý prohlížeč, který vás nezradí pro peníze.
@@ -137,6 +140,9 @@ firefox-desktop-download-as-the-internet = Zatímco se internet rozvíjí a měn
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozici na všech vašich zařízeních. Vezměte si své panely, historii a záložky s sebou. Vše, co k tomu potřebujete, je účet <a { $attrs }>{ -brand-name-firefox(case: "gen") }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je dostupný na všech vašich zařízeních; vezměte si své panely, historii a záložky s sebou. Vše, co potřebujete, je <a { $attrs }>{ -brand-name-mozilla-account }</a> a získáte přístup k synchronizaci a dalším produktům { -brand-name-mozilla(case: "gen") }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Udělejte si snímek čehokoli na webu ve vysokém rozlišení pomocí našeho nástroje na vytváření <a { $attrs }>snímků stránek</a>, který je zabudován přímo v prohlížeči.
