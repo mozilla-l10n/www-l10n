@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Získajte { -brand-name-firefox } pre { 
 firefox-desktop-download-og-title = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 firefox-desktop-download-og-desc = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = K dispozícii je ešte novšia verzia { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovať na najnovšiu verziu</a>.
 firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-na
 firefox-desktop-download-watch-for-hackers-with-v3 = Sledujte hackerov pomocou služby { -brand-name-mozilla-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Sledujte hackerov pomocou { -brand-name-firefox-monitor(case: "gen") }, chráňte svoje heslá pomocou { -brand-name-firefox-lockwise } a omnoho viac.
 firefox-desktop-download-get-more-from-firefox = Využívajte { -brand-name-firefox } naplno
 firefox-desktop-download-just-download-the-browser = Stiahnite si prehliadač
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý
 firefox-desktop-download-get-help = Mať problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
 firefox-desktop-download-in-another-language = Stiahnutie v inom jazyku alebo pre iný operačný systém.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Ďalšie podrobnosti nájdete 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Aj keď môžete { -brand-name-firefox } naďalej používať, { -brand-name-mozilla } už pre { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">nebude vydávať bezpečnostné aktualizácie</a>.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Používate nezabezpečený, zastaraný operačný systém, ktorý <a href="{ $url }">{ -brand-name-firefox } nepodporuje</a>.
