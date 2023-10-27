@@ -26,7 +26,7 @@ firefox-home-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwis
 firefox-home-get-the-respect-you = Dočkejte se zaslouženého <strong>respektu</strong>
 # Obsolete string
 firefox-home-every-single-firefox = Každý z produktů rodiny { -brand-name-firefox } ctí náš slib ohledně osobních údajů: <strong>Brát méně. Uchovávat v bezpečí. Žádná tajemství.</strong>
-firefox-home-every-single-mozilla = Každý jeden produkt od { -brand-name-mozilla(case: "gen") } ctí náš slib ohledně osobních údajů: <strong>Brát méně. Uchovávat v bezpečí. Žádná tajemství.</strong>
+firefox-home-every-single-mozilla = Každý jednotlivý produkt od { -brand-name-mozilla(case: "gen") } ctí náš slib ohledně osobních údajů: <strong>Brát méně. Uchovávat v bezpečí. Žádná tajemství.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Sdílejte velké soubory bez toho, aby vám někdo koukal přes rameno
 # Obsolete string

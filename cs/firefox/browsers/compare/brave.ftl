@@ -45,7 +45,7 @@ compare-brave-the-ability-to-sync-your-passwords = Možnost synchronizace hesel,
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives-v3 = Prohlížeč { -brand-name-firefox } také dává uživatelům možnost zaregistrovat si zdarma <a { $accounts }>{ -brand-name-mozilla-account }</a>. Účet { -brand-name-mozilla-account } je klíčem k odemčení synchronizace napříč zařízeními. Získáváte navíc další výhody produktů jako <a { $monitor }>{ -brand-name-mozilla-monitor }</a. > který monitoruje vaše e-mailové adresy a upozorní vás, pokud nejsou některé z vašich údajů součástí nějakého známého <a { $breaches }>úniku dat</a>.
+compare-brave-the-firefox-browser-also-gives-v3 = Prohlížeč { -brand-name-firefox } také dává uživatelům možnost zaregistrovat si zdarma <a { $accounts }>{ -brand-name-mozilla-account }</a>. Účet { -brand-name-mozilla-account } je klíčem k odemčení synchronizace napříč zařízeními. Získáváte navíc další výhody produktů jako <a { $monitor }>{ -brand-name-mozilla-monitor }</a>, který monitoruje vaše e-mailové adresy a upozorní vás, zda nejsou některé z vašich údajů součástí nějakého známého <a { $breaches }>úniku dat</a>.
 # Obsolete string
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
