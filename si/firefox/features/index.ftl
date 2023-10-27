@@ -14,6 +14,7 @@ features-index-stack-up = වෙනත් ප්‍රචලිත අතිර�
 features-index-compare-browsers = අතිරික්සු සංසන්දනය
 features-index-see-themes = ප්‍රචලිත තේමා බලන්න
 features-index-download-latest = නවතම { -brand-name-firefox } බාගන්න
+features-index-fingerprinter-blocking = ඇඟිලි සටහන් අවහිරය
 features-index-block-fingerprinters = ඇඟිලි සටහන් අවහිරය
 features-index-translate-to-your = ඔබගේ භාෂාවට පරිවර්තනය කරන්න
 features-index-picture-in-picture = රූපයෙන් රූපයට

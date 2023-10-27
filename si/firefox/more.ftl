@@ -19,3 +19,4 @@ we-believe-everyone = සැවොම අන්තර්ජාලය වෙත �
 easy-migration-of = ඔබ { -brand-name-windows } සඳහා { -brand-name-firefox } බාගත කළ පසු අභිප්‍රේත සහ පොත්යොමු පහසුවෙන් සංක්‍රමණය කළ හැකිය.
 firefox-for-linux = { -brand-name-linux } සඳහා { -brand-name-firefox }
 firefox-for-windows = { -brand-name-firefox } සඳහා { -brand-name-windows } බිටු-64
+firefox-more-fingerprinter-blocking = ඇඟිලි සටහන් අවහිරය
