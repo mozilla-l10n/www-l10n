@@ -13,6 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } je zgolj začetek
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Je družina izdelkov, namenjenih varnejšemu in pametnejšemu življenju na spletu.
+firefox-products-mozillas-family-of-products = Vsi izdelki { -brand-name-mozilla(sklon: "dajalnik") }ne družine so zasnovani, da vas varujejo in vam dajejo moč na spletu.
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>več</strong> kot le brskalnik
