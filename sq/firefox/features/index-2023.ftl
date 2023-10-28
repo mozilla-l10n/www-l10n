@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = Veçori të shfletuesit { -brand-name-firefox }
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }-i është shfletuesi i shpejtë, i peshës së lehtë, i përqendruar te privatësia, që funksionon nëpër krejt pajisjet tuaja.
+features-index-is-firefox-a-fast-browser = A është { -brand-name-firefox }-i një shfletues i shpejtë?
+features-index-firefox-uses-less-memory-than = { -brand-name-firefox }-i përdor më pak kujtesë se sa Chrome-i, që kështu programet tuaj të tjerë të mund të xhirojnë me shpejtësinë maksimale.
+features-index-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?
 features-index-free-password-manager = Përgjegjës fjalëkalimesh falas
 features-index-customize-your-firefox-browser = Përshtatni shfletuesin tuaj { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Zgjidhni se si duket shfletuesi juaj, përmes mijëra temash grafike falas.

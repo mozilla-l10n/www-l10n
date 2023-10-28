@@ -5,16 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
-# HTML page title
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Merrni një { -brand-name-firefox-account } - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
 # HTML page description
 firefox-accounts-securely-sync-your = Njëkohësi në mënyrë të siguruar fjalëkalimet tuaj, faqerojtësit dhe skedat, nëpër krejt pajisjet. Merrni që tani një { -brand-name-firefox-account } – Një palë kredenciale hyrjeje – Pushtet dhe privatësi kudo.
 firefox-accounts-enter-your-email-address = Jepni adresën tuaj email, që t’ia filloni.
 firefox-accounts-already-have-an-account = Keni tashmë një llogari?
 firefox-accounts-sign-in = Hyni
+# Obsolete string
 firefox-accounts-already = Keni tashmë një { -brand-name-firefox-account }. Përgëzime!
 firefox-accounts-manage = Administroni llogarinë tuaj
-# This is followed by a list of things you can do with your Firefox account
+# Obsolete string
 firefox-accounts-sign-in-to = Bëni hyrjen te { -brand-name-firefox-account } juaj që të:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Njihuni me familjen tonë të produkteve privatësia-së-pari.
@@ -40,6 +41,8 @@ firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

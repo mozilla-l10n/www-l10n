@@ -39,3 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> për { -brand
 download-button-firefox-privacy = Privatësia Në { -brand-name-firefox }
 download-button-firefox-privacy-notice = Shënim Privatësie në { -brand-name-firefox }
 download-button-download = Shkarkoje
+download-firefox-esr = Shkarkoni { -brand-name-firefox-esr }-in
+download-firefox-esr-32 = Shkarkoni { -brand-name-firefox-esr }-in 32-bit
+download-firefox-esr-64 = Shkarkoni { -brand-name-firefox-esr }-in 64-bit
