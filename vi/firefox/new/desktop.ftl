@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Tải xuống { -brand-name-firefox } d�
 firefox-desktop-download-og-title = Tải ngay { -brand-name-firefox } nhanh hơn bao giờ hết
 firefox-desktop-download-og-desc = Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, { -brand-name-firefox } mới có ở đây.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firefox } đã có sẵn. <a { $update_url }>Cập nhật lên phiên bản mới nhất</a>
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
@@ -154,7 +157,7 @@ firefox-desktop-download-youve-already-got-the-browser = Bạn đã có trình d
 firefox-desktop-download-watch-for-hackers-with-v3 = Theo dõi tin tặc với { -brand-name-mozilla-monitor }, bảo vệ địa chỉ email của bạn với { -brand-name-firefox-relay }, và hơn thế nữa.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Đề phòng tin tặc bằng { -brand-name-firefox-monitor }, bảo vệ địa chỉ email của bạn bằng { -brand-name-firefox-relay }, v.v.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Theo dõi các tin tặc với { -brand-name-firefox-monitor }, bảo vệ mật khẩu với { -brand-name-firefox-lockwise } và hơn thế nữa.
 firefox-desktop-download-get-more-from-firefox = Nhận thêm từ { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Chỉ cần tải xuống trình duyệt
@@ -173,7 +176,7 @@ firefox-desktop-download-now-mac = Bây giờ <strong>mở</strong> tập tin v�
 firefox-desktop-download-get-help = Gặp sự cố? <a { $attrs }>Nhận trợ giúp với cài đặt của bạn</a>.
 firefox-desktop-download-in-another-language = Tải xuống bằng ngôn ngữ khác hoặc cho hệ điều hành khác.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -182,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Truy cập hỗ trợ để bi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Bạn đang sử dụng một hệ điều hành đã lỗi thời, không an toàn và <a href="{ $url }">không còn được { -brand-name-firefox } hỗ trợ nữa</a>.
