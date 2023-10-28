@@ -8,4 +8,5 @@
 bundle-banner-plan-modules-email-masking = Maskim email-i
 bundle-banner-plan-modules-phone-masking = Maskim telefoni
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
+bundle-banner-cta = Merrni { -brand-name-mozilla-vpn } + { -brand-name-relay }
 bundle-feature-three = Rrjet i shpejtë dhe i sigurt

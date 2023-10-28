@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = A është { -brand-name-firefox }-i shfletuesi më i shpejtë?
 features-fast-browse-faster = Shfletoni më shpejt
 features-fast-faster-gaming = Lojëra më të shpejta
