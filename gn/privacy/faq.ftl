@@ -9,7 +9,7 @@
 privacy-faq-mozillas-data-privacy-faq = Porandu py’ỹi { -brand-name-mozilla } mba’ekuaarã ñemiguáva rehegua.
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } omomba’e ha omo’ã ne maranduete.
 privacy-faq-we-stand-for-people-over-profit = Ore romopyenda yvypórape viru rendaguépe
-privacy-faq-it-can-be-tricky-for-people = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’arõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha emiandu juavýva umi mba’e oikóva ikundahápe rehegua.
+privacy-faq-it-can-be-tricky-for-people = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’ãrõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha emiandu juavýva umi mba’e oikóva ikundahápe rehegua.
 privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } omomba’e ha omo’ã ne maranduete:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
@@ -17,18 +17,18 @@ privacy-faq-we-follow-a-set-of-data-privacy = Ore rohapykueho peteĩ <a href="{ 
 privacy-faq-we-only-collect-the-data-we = Roñongatúnte marandu roikotevẽva rojapo hag̃ua apopyre iporãvéva.
 privacy-faq-we-put-people-in-control-of = Romoĩ yvypórape oma’ẽ hag̃ua imarandu ha hembiasakue ñanduti pegua rehe.
 privacy-faq-we-adhere-to-no-surprises-principle = Roike ñepyrũrãme “mba’etuicha’ỹre”, he’iséva romba’apo hetaha ikatu hag̃uáicha pe oikumbýva opavave { -brand-name-firefox } rehegua ha’eha pe oikovavoi.
-privacy-faq-the-following-questions-and = Umi porandu ha mbohovái upeigua ne pytyvõta eikumby hag̃ua mba’etépa eha’arõta { -brand-name-mozilla } ha { -brand-name-firefox }-gui:
+privacy-faq-the-following-questions-and = Umi porandu ha mbohovái upeigua ne pytyvõta eikumby hag̃ua mba’etépa eha’ãrõta { -brand-name-mozilla } ha { -brand-name-firefox }-gui:
 privacy-faq-i-use-firefox-for-almost-everything = Aiporu { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, pe kundaha omba’apóva ne mba’e’oka térã ne mohendahápe, ha’éta esẽkuaaha ñandutígui. Ne kundaha oguerekóta heta marandu umi tenda eikeha rehegua, hákatu umi marandu opytáta ne mba’e’okápe. { -brand-name-mozilla }, mba’apoha { -brand-name-firefox } apohare noñongatúi (ndete mba’e nderejeruéiramo chupe).
 privacy-faq-really-you-dont-collect-my-browsing = ¿Peichaite? ¿Peẽ napeñongatúi kundaha rembiasakue?
-privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ndoikuaái nde eha’arõháicha mba’éichapa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, omoneĩva poruhárape tape porã ñeikundaha rehegua. Embojuehérõ ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái tapykuere, ombopapapy rupi ne mba’e’oka.
-# Outdated string
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ndoikuaái nde eha’ãrõháicha mba’éichapa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, omoneĩva poruhárape tape porã ñeikundaha rehegua. Embojuehérõ ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái tapykuere, ombopapapy rupi ne mba’e’oka.
+# Obsolete string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } ndoikuaapái nde eha’arõháicha mba’eichaitépa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, ha’éva <a href="{ $link }">{ -brand-name-firefox } Pionner</a>, omoneĩva poruhárape tape porã ñanduti kundaha rehegua. Embojuehéramo ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái pe tembiasakue, oñembopapapy rupi ne mba’e’oka guive.
+privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } ndoikuaapái nde eha’ãrõháicha mba’eichaitépa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, ha’éva <a href="{ $link }">{ -brand-name-firefox } Pionner</a>, omoneĩva poruhárape tape porã ñanduti kundaha rehegua. Embojuehéramo ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái pe tembiasakue, oñembopapapy rupi ne mba’e’oka guive.
 privacy-faq-it-seems-like-every-company = Hi’ã chéve opaite mba’apoha ñandutiguáva ojogua ha ovende che marandu. Upéicha avei peẽ napeneambuéi.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } novendéi ha ndojoguái ne mba’ekuaarã.
-privacy-faq-wait-so-how-do-you-make-money = Eha’arõmi, ¿upéicharõ mba’éicha peguerekóta viru?
+privacy-faq-wait-so-how-do-you-make-money = Eha’ãrõmi, ¿upéicharõ mba’éicha perekóta viru?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } ha’e atyguasu oimeraẽvachagua. Heñóiva tekoha apopyrã ijayvu jurujávaramo ary 1998-pe, { -brand-name-mozilla } ha’e atyguasu oma’ẽ ha omba’apóva ñanduti resãirãre. Hetave virurepy og̃uahẽ { -brand-name-mozilla-corporation } jopói ambue hekaha oiporúva { -brand-name-firefox } ha ñe’ẽme’ẽ ñemyasãi rehegua arapy tuichakue jave. Ikatu eikuaave mba’éichapa rojapo pirapire <a href="{ $link }">temimombe’u viru reheguáva ary paha og̃uahẽvo</a>.
