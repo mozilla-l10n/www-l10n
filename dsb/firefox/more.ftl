@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/
@@ -11,7 +11,9 @@ learn-more-about = Zgóńśo wěcej wó wobglědowakach a produktach { -brand-na
 learn-more-faq = Cesto stajone pšašanja { -brand-name-firefox }
 the-history-of = Historija webwobglědowakow
 firefox-has-been = { -brand-name-firefox } južo pśisamem wót zachopjeńka eksistěrujo.
+# Obsolete string
 firefox-rebel-with = { -brand-name-firefox }: Rebel ze zawinu
+# Obsolete string
 firefox-is-independent = { -brand-name-firefox } jo njewótwisny a spěchujo se wót za wše wužitneje organizacije { -brand-name-mozilla }, kótaraž za waše pšawa online wójujo, a cyni internet wšuźi pśistupny za kuždego.
 what-is-a = Co jo webwobglědowak?
 a-web-browser = Webwobglědowak was wšuźi w interneśe wjeźo a zmóžnja wam, se wobraze a wideo z cełego swěta woglědaś.
@@ -52,7 +54,9 @@ so-many-ads = Tak wjele wabjenja, tak mało sćerpnosći… Jo cas, błaznosć s
 firefox-more-protection = { -brand-name-firefox }: Wěcej šćita. Mjenjej starošćow.
 were-obsessed-with = Šćit wašeje priwatnosći jo nam wjelgin wažny. Togodla jo priwatny modus { -brand-name-firefox } mócnjejšy ako druge.
 incognito-browser-what = Wobglědowak incognito: Což to napšawdu wóznamjenijo
+# Obsolete string
 take-the-stress = Pytajśo wěsty wobglědowak bźeze stresa.
+# Obsolete string
 building-a-safe = Wuwijanje wěstego wobglědowaka jo wuměśe a wědomnosć, dokulaž póstajone pšawidła njejsu.
 firefox-more-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
 firefox-more-translate-the-web = Web pśełožyś
@@ -61,3 +65,4 @@ firefox-more-a-guide-to = Pśewódnik za wěsćejše pśizjawjenja a gronidła
 firefox-more-more-and-more = Stawnje wěcej sensibelnych, gódnotnych wěcow w našom žywjenju se pśez gronidła šćitaju.
 firefox-more-avoid-misinformation-heading = Wobiniśo se wopacnych informacijow – { -brand-name-firefox } wam pomaga
 firefox-more-avoid-misinformation-desc = Cytajśo pokazki, kak móžośo mjenjej wopacnych informacijow wiźeś a se na to koncentrěrowaś, což jo wažne za was.
+firefox-more-is-firefox-a-private-browser = Jo { -brand-name-firefox } priwatny wobglědowak?

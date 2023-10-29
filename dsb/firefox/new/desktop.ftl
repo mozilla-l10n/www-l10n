@@ -10,6 +10,7 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Ześěgniśo { -brand-name-firefox-browser } – malsny, priwatny a dermotny – wót { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Ześěgniśo { -brand-name-firefox } za dektop – wót { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Wobstarajśo se { -brand-name-firefox }, dermotny webwobglědowak, kótaryž se wót { -brand-name-mozilla }, za wše wužytneje organizacije, spěchujo, kótaraž se za internetnu strowosć a priwatnosć zasajźujo. Jo něnto na { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } a { -brand-name-ios } k dispoziciji.
 firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
@@ -37,7 +38,7 @@ firefox-desktop-download-blocks-social-trackers = Blokěrujo socialne pśeslědo
 firefox-desktop-download-os-availability = K-dispoziciji-byśe źěłowego systema
 firefox-desktop-download-in-browser-screenshot = Rěd za fota wobrazowki we wobglědowaku
 firefox-desktop-download-primary-password = Głowne gronidło
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
+# Obsolete string
 firefox-desktop-love-your-life = Lubujśo swójo žywjenje online
 # Obsolete string
 firefox-desktop-download-master-password = Głowne gronidło
@@ -114,6 +115,7 @@ firefox-desktop-download-get-firefox-android = Wobstarajśo se { -brand-name-fir
 firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jo na wšych wašych rědach k dispoziciji; bjeŕśo swóje rejtariki, swóju historiju a swójecytańske znamjenja sobu. Wšykno, což trjebaśo, jo <a { $attrs }>konto { -brand-name-firefox }</a>.
@@ -125,8 +127,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maśo južo wobglědowak. Wobstarajśo se něnto samo wěcej wót { -brand-name-firefox }.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo gronidła z { -brand-name-firefox-lockwise } a wěcej.
 firefox-desktop-download-get-more-from-firefox = Wobstarajśo se wěcej wót { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Ześěgniśo jadnorje wobglědowak
@@ -145,7 +148,7 @@ firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, k�
 firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
 firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -154,7 +157,7 @@ firefox-desktop-download-visit-support-for-more = Woglědajśo se k bokam pomocy
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužywaśo njewěsty, zestarjony źěłowy system, kótaryž <a href="{ $url }">se wěcej wót { -brand-name-firefox } njedpódpěra</a>.
