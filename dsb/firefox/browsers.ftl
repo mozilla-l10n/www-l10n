@@ -32,6 +32,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Pśekšacćo dwě dimensiji a wu
 firefox-browsers-build-sites-and-refine-your = Napórajśo sedła a pólěpšćo swój kod z { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Dalšne informacije wó { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Wužywajśo { -brand-name-firefox } a wuwónoźćo nejwěcej z kuždeho produkta - na kuždem rěźe.
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Maśo južo konto? <a { $fxa_attr }>Pśizjawśo se</a> abo <a { $accounts_attr }>zgóńśo wěcej</a> wó wužywanju { -brand-name-firefox }.
 # Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

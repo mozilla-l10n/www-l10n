@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Jolic tam „(32-bitowy)“ stoj a { -b
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Jolic musyśo 32-bitowy { -brand-name-firefox } wužywaś abo 64-bitowy { -brand-name-firefox } manuelnje instalěrowaś, móžośo jadnorje instalěrowański program { -brand-name-firefox } za { -brand-name-windows } (32-bitowy abo 64-bitowy) wót <a href="{ $all }">ześěgnjeńskego boka za platformy { -brand-name-firefox } a rěcy</a> ześěgnuś a znowego wuwjasć.
 windows-64-bit-take-control-of-your = Pśewzejśo kontrolu nad swójim wobglědowakom.
+windows-64-bit-download-firefox = { -brand-name-firefox } za 64-bitowy Windows ześěgnuś
