@@ -18,6 +18,10 @@ firefox-accounts-sign-in = Pśizjawiś
 firefox-accounts-already = Maśo južo { -brand-name-firefox-account }. Glukužycenje!
 mozilla-accounts-already = Maśo južo { -brand-name-mozilla-account }. Glukužycenje!
 firefox-accounts-manage = Zastojśo swójo konto
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-mozilla-account(case: "gen") }, aby:
+# Obsolete string
+firefox-accounts-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-firefox-account(case: "gen") }, aby:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Póznajśo našu swójźbu produktow, za kótaruž priwatnosć jo na prědnem městnje.
 # Obsolete string
@@ -30,6 +34,9 @@ firefox-accounts-get-it-all-on-every = Pśinjasćo wykno na kuždy rěd - wšoja
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

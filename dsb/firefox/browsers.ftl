@@ -1,16 +1,21 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
 # HTML page title
+firefox-browsers-page-title = Ześěgniśo { -brand-name-firefox } za desktop, mobilny rěd abo Enterprise
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Wobstarjśo wobglědowaki, kótarež wašu priwatnosć na prědnem městnje stoje - to jo było južo pśecej tak
-# HTML page description
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Dostańśo priwatnosć, kótaruž se zasłužyjośo. Pólěpšony slědowański šćit jo awtomatiski zmóžnjony w kuždem wobglědowaku { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Wobstarajśo se <strong>wobglědowaki</strong>, kótarež wašu priwatnosć na prědnym městnje stoje - to jo južo pśecej tak było
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Wobstarjśo wobglědowaki, kótarež wašu priwatnosć na prědnem městnje stoje - to jo było južo <strong>pśecej</strong> tak
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Wužywajśo priwatny modus. { -brand-name-firefox } awtomatiski gromaźenjeju informacijow wó wašej aktiwiśe online pśez 2000+ pśeslědowakow online zajźujo.
 firefox-browsers-download-for-desktop = Za desktop ześěgnuś
@@ -27,6 +32,7 @@ firefox-browsers-go-beyond-two-dimensions-and = Pśekšacćo dwě dimensiji a wu
 firefox-browsers-build-sites-and-refine-your = Napórajśo sedła a pólěpšćo swój kod z { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Dalšne informacije wó { -brand-name-devtools }
 firefox-browsers-join-firefox-and-get-the-most = Wužywajśo { -brand-name-firefox } a wuwónoźćo nejwěcej z kuždeho produkta - na kuždem rěźe.
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

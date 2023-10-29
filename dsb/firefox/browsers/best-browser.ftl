@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Su někotare móžnosći, aby wobglědowak p
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Mimo togo njeměł pśewjele wužywarskich datow składowaś. Hackery njamógu kšadnuś, což njejo, togodla jano minimum informacijow wó swójich wužywarjach wobchowujo. <a href="{ $data }">{ -brand-name-firefox } wě</a>, lěc wobglědowak wužywaśo a wašo powšykne stojnišćo, <a href="{ $privacy }">ale njewě mě wašogo domacnego zwěrjeśa abo wašu nejlubšu barwu.</a>
 best-browser-last-but-not-least = Wósebnje wěsty wobglědowak měł rědy póbitowaś, kótarež wam pomagaju, swóje konta we wócyma wobchowaś. Na pśikład powěźeńki, kótarež se direktnje na wašu e-mailowu adresu sćelu, jolic se jaden z wašych kontow kśiwi abo symbole, kótarež wam k wěsć daju, lěc websedło jo skoděrowane (t. gr. lěc jo dobra ideja, numer swójeje kreditoweje kórty na pśedawańskem sedle zapódaś).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } něco nowego bitujo, aby was wěsty źaržał: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Jo dermotna słužba, kótaraž wam k wěsći dajo, lěc su někake zjawne datowe źěry we wašych kontach a informěrujo, lěc su se zadobyli južo w zachadnosći do wašych kontow. Druga spódobna funkcija jo zelene pytko. Wuglěda ako mały zeleny symbol górjejce nalěwo we woknje wobglědowaka. Jolic z { -brand-name-firefox } źěłaśo, a wiźiśo zelene pytko, to groni, až websedło jo skoděrowane a wěste. Jolic pytko jo šere, pśemyslujśo se snaź dwójcy, lěc sensibelne informacije zapódaśo.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = { -brand-name-firefox } něco nowego bitujo, aby was wěsty źaržał: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Jo dermotna słužba, kótaraž wam k wěsći dajo, lěc su někake zjawne datowe źěry we wašych kontach a informěrujo, lěc su se zadobyli južo w zachadnosći do wašych kontow. Druga spódobna funkcija jo zelene pytko. Wuglěda ako mały zeleny symbol górjejce nalěwo we woknje wobglědowaka. Jolic z { -brand-name-firefox } źěłaśo, a wiźiśo zelene pytko, to groni, až websedło jo skoděrowane a wěste. Jolic pytko jo šere, pśemyslujśo se snaź dwójcy, lěc sensibelne informacije zapódaśo.
