@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Něnto ześěgnuś
 download-button-free-download = Dermotne ześěgnjenje
@@ -39,3 +39,7 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = Priwatnosć { -brand-name-firefox }
 download-button-firefox-privacy-notice = Pokazki priwatnosći { -brand-name-firefox }
 download-button-download = Ześěgnuś
+download-firefox-esr = { -brand-name-firefox-esr } ześěgnuś
+download-firefox-esr-32 = { -brand-name-firefox-esr } ześěgnuś 32-bitowy
+download-firefox-esr-64 = { -brand-name-firefox-esr } ześěgnuś 64-bitowy
+download-a-different-build = Drugu wersiju ześěgnuś
