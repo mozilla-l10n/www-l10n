@@ -5,6 +5,9 @@
 newsletter-form-please-enter-a-valid = Pšosym zapódajśo płaśiwu e-mailowu adresu
 newsletter-form-you-must-agree-to = Musyśo do pokazkow priwatnosći zwóliś.
 newsletter-form-your-email-address = Waša e-mailowa adresa
+newsletter-form-we-are-sorry-but-there = Bóžko jo problem z našym systemom nastał. Pšosym wopytajśo pózdźej hyšći raz!
+newsletter-form-please-select-country = Wubjeŕśo pšosym kraj abo region
+newsletter-form-please-select-language = Pšosym wubjeŕśo rěc
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = wašomě@example.com
 newsletter-form-select-country-or-region = Kraj abo region wubraś

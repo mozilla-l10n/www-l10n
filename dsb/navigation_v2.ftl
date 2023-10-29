@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Wšykne { -brand-name-firefox-browsers
 
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Produktowy meni zacyniś
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Glědajśo, lěc se waša e-mailowa adresa w datowej źěrje pśedewześa pokazujo.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Zgóńśo, kak kuždy produkt { -
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrěrujśo se za nowe konta, bźez togo aby swóju e-mailowu adresu pódał.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Šćitajśo zwisk swójogo wobglědowaka z internetom.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nowe funkcije a rědy za pśiměrjone dožywjenje { -brand-name-mdn }
 navigation-v2-view-all-products = Wšykne produkty pokazaś
@@ -86,4 +86,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Pósććo swój głos, aby pśichod weba móžo na kuždego słuchaś.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zgóńśo wěcej wó nowej rěcy pódobnej na Assembler na niskej rowninje.
-navigation-v2-more-mozilla-innovation = Wěcej inowacijow { -brand-name-mozilla }
