@@ -5,17 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } jo wěcej ako wobglědowak
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } jo jano zachopjeńk
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Jo ceła produktowa swójźba, kótaraž jo myslona za to, až sćo wěsćejšy a wěcej inteligentny online.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } jo <strong>wěcej</strong> ako wobglědowak
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } jo jano <strong>zachopjeńk</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Glědajśo, lěc waše wósobinske informacije su pótrjefjone wót datoweje źěry drugego pśedewześa, a registrěrujśo se za pśichodne warnowanja.
 firefox-products-check-for-breaches = Za źěrami pytaś
 firefox-products-sign-up-for-breach-alerts = Registrěrujśo se za warnowanja wó datowych źěrach
+# Obsolete string
 firefox-products-firefox-browsers = Wobglědowaki { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Wobstarajśo se wobglědowaki, kótarež 2000+ datowych pśeslědowakow awtomatiski blokěruju. Pólěpšony slědowański šćit jo něnto standard w kuždem wobglědowaku { -brand-name-firefox }.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }
