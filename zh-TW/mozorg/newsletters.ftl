@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } 電子報
 newsletters-read-all-about-it-in-our-newsletter = 透過我們的電子報取得最新資訊
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = 在此訂閱電子報，搶先知道 { -brand-name-mozilla } 的大小事，並採取行動讓網路環境更健康，也讓您的線上生活更聰明。
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = 訂閱最新消息，搶先取得在 { -brand-name-mozilla } 發生的大小事。這是您能與我們保持連絡的最佳方式！
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = 確認電子報
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = 您已退訂成功。
 newsletters-were-sorry-to-see-you-go = 很抱歉您要離開。
 newsletters-would-you-mind-telling-us = 您方便告訴我們為什麼要離開嗎？
 newsletters-other-v2 = 其他…（最多 500 字元）
-# Outdated string
+# Obsolete string
 newsletters-other = 其他…
 newsletters-submit = 送出
 newsletters-thanks-for-telling-us-why = 感謝您告訴我們為什麼要離開。
@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = 你們寄來的內容跟我一點關�
 newsletters-your-email-design = 你們的電子報設計太難閱讀。
 newsletters-i-didnt-sign-up = 我沒訂閱過這封信。
 newsletters-please-select-a-reason = 請選擇要取消訂閱的原因。
+newsletters-fxa-error-retry = 很抱歉將您導向電子郵件偏好設定時發生問題。請試試下面的表單。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = 參與我們
 newsletters-insights = Insights 深入解析
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } 會發布有關網際網路健康與可信任 AI 的相關文章，包含我們的年度網際網路健康報告。
 # Obsolete string
 newsletters-keep-up-with-our-annual = 了解我們關於隱私權與安全性、開放性、數位包容、去中心化、網路素養等議題的年度研究與議題彙編。
@@ -191,7 +192,7 @@ newsletters-news-and-information = 與 Web 的生態相關的新聞與資訊。
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = 2008-2011 年的 University 專案，已經結束，改為 { -brand-name-firefox } 校園大使專案。
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = 2008-2011 年的 University 專案，已經結束，改為 Firefox 校園大使專案。
 # Name for the newsletter in Newsletter subscription page
