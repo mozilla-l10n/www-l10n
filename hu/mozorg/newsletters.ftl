@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = A tartalom nem érdekes számomra.
 newsletters-your-email-design = Az e-mail a design miatt nehezen olvasható.
 newsletters-i-didnt-sign-up = Nem iratkoztam fel.
 newsletters-please-select-a-reason = Válassza ki a leiratkozás okát.
+newsletters-fxa-error-retry = Sajnáljuk, de hiba történt az e-mail beállításokhoz való irányítás során. Próbálja ki az alábbi űrlapot.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = Csatlakozzon
 newsletters-insights = Elemzések
 # Obsolete string
 newsletters-internet-health-report = Internetes egészségi jelentés
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } cikkeket és mélyreható elemzéseket végez az internet egészségéről szóló problémákról és a megbízható MI-ről, ideértve az éves Internet egészsége jelentésünket is.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Tartson lépést az éves adatvédelemmel és -biztonsággal, nyíltsággal, digitális bevonással, decentralizálással és webes írástudással kapcsolatos kutatási és történeti összeállításunkkal.
