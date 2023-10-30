@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/
 
-# Outdated string
+# HTML page title
+firefox-browsers-page-title = Sćehńće { -brand-name-firefox } za desktop, mobilny grat abo Enterprise
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Wobstarajće sej wobhladowaki, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Dóstańće priwatnosć, kotruž sej zasłužiće. Polěpšeny slědowanski škit je awtomatisce zmóžnjeny w kóždym wobhladowaku { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Wobstarajće sej <strong>wobhladowaki</strong>, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
 firefox-browsers-desktop = Desktop
@@ -31,7 +34,7 @@ firefox-browsers-join-firefox-and-get-the-most = Wužiwajće { -brand-name-firef
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Maće hižo konto? <a { $fxa_attr }>Přizjewće so</a> abo <a { $accounts_attr }>zhońće wjace</a> wo wužiwanju { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

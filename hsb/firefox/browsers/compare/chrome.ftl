@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -11,12 +11,18 @@ compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } porno { -bra
 compare-chrome-we-compare-mozilla-firefox = Přirunujemy { -brand-name-mozilla } { -brand-name-firefox } z { -brand-name-google } { -brand-name-chrome } nastupajo priwatnosć, wužitnosć a portabelnosć
 # Main title.
 compare-chrome-comparing-firefox-browser = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = Pola { -brand-name-firefox } mamy hobersku ličbu angažowanych wužiwarjow, kotřiž sej naše wobstajne wěnowanje priwatnosći online waža. Najnowša wersija { -brand-name-firefox } na přikład funkciju z mjenom Polěpšeny slědowanski škit (ETP) wobsahuje, kotryž je po standardźe zmóžnjeny za wšěch wužiwarjow swětodaloko. ETP přez 2000 přesćěhowakow blokuje, inkluziwnje přesćěhowaki socialnych medijow kaž { -brand-name-facebook }, { -brand-name-twitter } a LinkedIn. Ma tež integrowanu funkciju z mjenom <a { $attrs }>{ -brand-name-firefox-monitor }</a>, kotraž was awtomatisce informuje, jeli waše hesło je złamane abo dyrbi so aktualizować. Nimo tutoho škita priwatny modus { -brand-name-firefox } awtomatisce waše přehladowanske informacije, na přikład historiju a placki zhaša a njezawostaja žane slědy, po tym zo sće swoje posedźenje skónčił.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = Pola { -brand-name-firefox } mamy hobersku ličbu angažowanych wužiwarjow, kotřiž sej naše wobstajne wěnowanje priwatnosći online waža. Najnowša wersija { -brand-name-firefox } na přikład funkciju z mjenom Polěpšeny slědowanski škit (ETP) wobsahuje, kotryž je po standardźe zmóžnjeny za wšěch wužiwarjow swětodaloko. ETP přez 2000 přesćěhowakow blokuje, inkluziwnje přesćěhowaki socialnych medijow kaž { -brand-name-facebook }, { -brand-name-twitter } a LinkedIn. Ma tež integrowanu funkciju z mjenom <a { $attrs }>{ -brand-name-firefox-monitor }</a>, kotraž was awtomatisce informuje, jeli waše hesło je złamane abo dyrbi so aktualizować. Nimo tutoho škita priwatny modus { -brand-name-firefox } awtomatisce waše přehladowanske informacije, na přikład historiju a placki zhaša a njezawostaja žane slědy, po tym zo sće swoje posedźenje skónčił.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Smy tež njedawno naš zawjazk k priwatnosći a transparency nastupajo wužiwarske daty w našej najnowšej <a { $attrs }>zdźělence priwatnosće</a> přeformulowali, kotraž deklaruje: „Pola { -brand-name-mozilla } wěrimy, zo priwatnosć je fundamentalna za strowy internet.“
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Smy tež njedawno naš zawjazk k priwatnosći a transparency nastupajo wužiwarske daty w našej najnowšej <a { $attrs }>zdźělence priwatnosće</a> přeformulowali, kotraž deklaruje: „Pola Mozilla wěrimy, zo priwatnosć je fundamentalna za strowy internet.“
