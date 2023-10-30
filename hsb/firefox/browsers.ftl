@@ -14,6 +14,8 @@ firefox-browsers-get-the-privacy-you-deserve = Dóstańće priwatnosć, kotruž 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Wobstarajće sej <strong>wobhladowaki</strong>, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Wobstarajće sej wobhladowaki, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo <strong>přeco</strong> tak było
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Wužiwajće priwatny modus. { -brand-name-firefox } awtomatisce hromadźenju informacijow wo wašej aktiwiće online přez 2000+ přesćěhowakow online zadźěwa.
 firefox-browsers-download-for-desktop = Za desktop sćahnyć

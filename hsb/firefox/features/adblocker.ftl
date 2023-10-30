@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Wutworće conu bjez přesćěhowaka z
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = W { -brand-name-firefox } móžeće nastajenja <a href="{ $privacy }">priwatnosće</a> abo <a href="{ $blocking }">blokowanja wobsaha</a> wužiwać, zo byšće wjace kontrole nad wabjenskimi přesćěhowakami dóstał, kotrež wam wabjenje prezentuja.
 features-adblocker-choose-your-level-of-protection = Wubjerće škitny schodźenk
+# Obsolete string
 features-adblocker-to-start-click-on-the = Zo byšće započał, klikńće na meni { -brand-name-firefox } w prawym hornim róžku swojeje wobrazowki. Wupada kaž tři linije jedna nad druhej. Klikńće we wuběranskim meniju na Blokowanje wobsaha. Wy dyrbjał módre wuskakowace wokno ze wšělakimi wuběranskimi móžnosćemi widźeć.
 features-adblocker-go-easy-with-standard = Čińće sej lochko ze standardnym modusom
 # Variables:
@@ -55,5 +56,6 @@ features-adblocker-speed-up-thanks-to-ad = Spěšniši dźak wabjenskim blokowak
 features-adblocker-in-some-cases-an-ad-blocker = W někotrych padach móže blokowak wabjenja pomhać, waš wobhladowak spěšniši činić. Hdyž so wabjenje začita, móže so websydło spomalić. Nadobo traje dlěje, to namakać, štož pytaće, jeli maće přewjele dźěła, zo byšće dalše wabjenje začinił.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Jeli chceće wjace wo blokowanju wabjenja zhonił, su sta rozšěrjenjow za blokowanje wabjenja za { -brand-name-firefox } a druhe wobhladowaki k dispoziciji. Jeli chceće wabjenske blokowaki wupruwować, kotrež { -brand-name-firefox } wužiwa, <a href="{ $url }">klikńće tu, zo byšće wobhladowak sćahnył</a>, za kotryž priwatnosć je na prěnim městnje.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Jeli chceće wjace wo blokowanju wabjenja zhonił, su sta rozšěrjenjow za blokowanje wabjenja za { -brand-name-firefox } a druhe wobhladowaki k dispoziciji. Jeli chceće wabjenske blokowaki wupruwować, kotrež { -brand-name-firefox } wužiwa, <a href="{ $url }">klikńće tu, zo byšće wobhladowak sćahnył</a>, za kotryž priwatnosć je na prěnim městnje.
-features-adblocker-take-control-of-your-browser = Přewzmiće kontrolu nad swojim wobhladowakom.
