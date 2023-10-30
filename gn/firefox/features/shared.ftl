@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = { -brand-name-firefox } Rembiapoite
 features-shared-footer-cta-title = Ejapove { -brand-name-firefox } ndive
+features-shared-footer-cta-desc = Erekóke kundahára ipya’e, ivevýi ha hekoñemíva, oykekóva chupe mba’apohaguasu viru’ỹgua erekokuaáva opaite ne mba’e’okápe.
 features-shared-footer-cta-button = Emboguejy { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
 features-shared-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
