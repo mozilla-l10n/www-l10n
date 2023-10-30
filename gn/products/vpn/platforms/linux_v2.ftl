@@ -21,3 +21,6 @@ vpn-linux-if-you-use-v2 = Eiporúramo peteĩva umi ojokupytýva Ubuntu ndive, ik
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = Si usas una de las versiones compatibles de Ubuntu, hay dos formas de instalar los paquetes oficiales de mozillavpn alojados en <a { $attrs }>Launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Mba’erechaha ra’ãnga Ubuntu poruhára rehegua:</strong> Eike <a { $attrs }>ko jehaipyrépe</a> ha ehecha pehẽ Embojuaju marandurenda pakéte tapicha mba’eteéva.
