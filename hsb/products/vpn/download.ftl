@@ -30,6 +30,8 @@ vpn-download-for-linux-requirements = Ubuntu { $version } a nowše
 vpn-download-for-android = VPN za { -brand-name-android }
 vpn-download-for-android-long = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-download-for-ios = VPN za { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-ios }
+# Obsolete string
 vpn-download-for-ios-long = Sćehńće VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Wobstarajće so jón na { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Wobstarajće so jón na { -brand-name-app-store }
