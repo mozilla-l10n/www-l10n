@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/faq
@@ -21,6 +21,8 @@ privacy-faq-the-following-questions-and = Slědowace prašenja a wotmołwy maja 
 privacy-faq-i-use-firefox-for-almost-everything = Wužiwam { -brand-name-firefox } za nimale wšitko w interneće. Najskerje wě { -brand-name-mozilla } tójšto wo mni, něwěrno?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, webwobhladowak, kotryž na wašim graće abo ličaku běži, je waše wrota do interneta. Waš wobhladowak rjaduje wjele informacijow wo websydłach, kotrež wopytujeće, ale tute informacije wostawaja na wašim graće. { -brand-name-mozilla }, organizacija, kotraž { -brand-name-firefox } zhotowja, je njezběra (chibazo prosyće wo to).
 privacy-faq-really-you-dont-collect-my-browsing = Njezběraće woprawdźe moju přehladowansku historiju?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } njewě tak wjele kaž wočakujeće wo tym, kak ludźo web přehladujeće. Jako zhotowjer wobhladowaka je to woprawdźe wulke wužadanje za nas. Tohodla smy nastroje za dobrowólne wužiwanje wuwili, kotrež zajimowanym wužiwarjam zmóžnjeja, nam dohlad do jich webpřehladowanja poskićić. Jeli swoju přehladowansku historiju přez instalacije { -brand-name-firefox } synchronizujeće, njewěmy, štož tuta historija wobsahuje - dokelž je přez waš grat zaklučowana.
+# Obsolete string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } njewě tak wjele kaž wočakujeće wo tym, kak ludźo web přehladujeće. Jako zhotowjer wobhladowaka je to woprawdźe wulke wužadanje za nas. Tohodla smy nastroje za dobrowólne wužiwanje wuwili, na přikład <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, kotrež zajimowanym wužiwarjam zmóžnjeja, nam dohlad do jich webpřehladowanja poskićić. Jeli swoju přehladowansku historiju přez instalacije { -brand-name-firefox } synchronizujeće, njewěmy, štož tuta historija wobsahuje - dokelž je přez waš grat zaklučowana.
@@ -30,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Moment, z čim da pjenjezy zasluži�
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla-corporation } docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a href="{ $link }">lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
+# A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/

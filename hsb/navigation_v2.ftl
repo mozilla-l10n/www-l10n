@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Wšě { -brand-name-firefox-browsers }
 
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Produktowy meni začinić
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Hladajće, hač so waša e-mejlowa adresa w datowej dźěrje předewzaća pokazuje.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +48,6 @@ navigation-v2-learn-how-each-firefox-product = Zhońće, kak kóždy produkt { -
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujće so za nowe konta, bjeztoho zo byšće swoju e-mejlowu adresu podał.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Škitajće zwisk swojeho wobhladowaka z internetom.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nowe funkcije a nastroje za přiměrjene dožiwjenje { -brand-name-mdn }
 navigation-v2-view-all-products = Wšě produkty pokazać

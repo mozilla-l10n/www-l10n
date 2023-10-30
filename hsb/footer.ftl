@@ -11,30 +11,30 @@ footer-corporate-blog = Předewzaćelski blog
 footer-browser-comparison = Přirunanje wobhladowakow
 footer-brand-standards = Markowe standardy
 footer-browsers = Wobhladowaki
-# Outdated string
+# Obsolete string
 footer-desktop = Desktop
-# Outdated string
+# Obsolete string
 footer-mobile = Mobilny
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
+# Obsolete string
 footer-products = Produkty
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
-# Outdated string
+# Obsolete string
 footer-join = Wobdźělić so
-# Outdated string
+# Obsolete string
 footer-sign-up = Registrować
-# Outdated string
+# Obsolete string
 footer-sign-in = Přizjewić
-# Outdated string
+# Obsolete string
 footer-benefits = Lěpšiny
 footer-developers = Wuwiwarjo
 footer-developer-edition = { -brand-name-developer-edition }
@@ -46,13 +46,13 @@ footer-visit-mozilla-corporations = Wopytajće załožbu <a { $mofo_link }>{ -br
 footer-portions-of-this-content = Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–{ $current_year }. Wobsah steji pod licencu <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Předewzaće
-# Outdated string
+# Obsolete string
 footer-about = Wo nas
 footer-press-center = Nowinski centrum
 footer-careers = Powołanja
-# Outdated string
+# Obsolete string
 footer-test-new-features = Nowe funkcije testować
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Nastroje
 footer-resources = Resursy
@@ -60,6 +60,7 @@ footer-contact = Kontakt
 footer-product-help = Pomoc wo produkće
 footer-support = Pomoc
 footer-file-a-bug = Zmylkowu rozprawu pisać
+footer-localize-mozilla = { -brand-name-mozilla } lokalizować
 footer-community-participation-guidelines = Wobdźělenske směrnicy zhromadźenstwa
 footer-websites-privacy-notice = Prawidła priwatnosće websydła
 footer-websites-cookies = Placki
