@@ -12,3 +12,12 @@ vpn-linux-why-choose = Mba’érepa eiporavova’erã { -brand-name-mozilla-vpn 
 # Obsolete string
 vpn-linux-fast-and = <strong>Ipya’e ha jeroviaha:</strong> { -brand-name-mozilla-vpn } oiporu taperekoite { -brand-name-wireguard }®, ome’ẽva jeku’epya’e ha tekopyta ambue VPN raperekoitégui
 vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn } Linux-pe g̃uarã
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Eiporúramo peteĩva umi ojokupytýva Ubuntu ndive, ikatukuaa emohenda mokõi hendáicha mozillavpn oñemoĩva <a { $attrs }>Launchpad:</a> ndive
+# Obsolete string
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Si usas una de las versiones compatibles de Ubuntu, hay dos formas de instalar los paquetes oficiales de mozillavpn alojados en <a { $attrs }>Launchpad:</a>
