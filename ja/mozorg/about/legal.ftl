@@ -13,7 +13,6 @@ legal-special-thanks-to-all-of-you = { -brand-name-mozilla } マークの乱用�
 legal-terms = 規約
 legal-our-websites = Mozilla のウェブサイト
 legal-firefox-services = { -brand-name-firefox } サービス
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = プライバシーと商標
 legal-privacy-notices-and-policy = プライバシーに関する通知・方針
 legal-downloadable-software-notices = ダウンロード可能なソフトウェアに関する通知

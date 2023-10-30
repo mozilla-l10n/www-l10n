@@ -13,7 +13,6 @@ legal-special-thanks-to-all-of-you = आप सभी का विशेष ध
 legal-terms = शर्तें
 legal-our-websites = हमारी वेबसाइट
 legal-firefox-services = { -brand-name-firefox } सेवाएँ
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = निजता और ट्रेडमार्क
 legal-privacy-notices-and-policy = निजता सूचना और नीति
 legal-downloadable-software-notices = डाउनलोड करने योग्य सॉफ़्टवेयर सूचनाएँ
