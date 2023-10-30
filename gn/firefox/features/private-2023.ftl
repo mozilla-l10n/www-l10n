@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
+# HTML description
+features-private-were-focused-on-your-right-to = Romomba’e nde rekoñemi derécho. Ne mba’ekuaarã, ne rembiapo ñandutípe, eikundahakuévo { -brand-name-firefox } nemo’ãme.
 features-private-what-information-does-firefox = Mba’e marandúpa ombyaty { -brand-name-firefox }
