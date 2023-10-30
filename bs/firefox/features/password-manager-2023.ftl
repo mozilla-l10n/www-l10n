@@ -27,3 +27,6 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mo�
 password-manager-image-of-a-websites-login-form = Slika obrasca za prijavu na web stranicu sa { -brand-name-firefox }om koji prikazuje više sačuvanih računa koje možete izabrati prilikom prijavljivanja.
 password-manager-import-passwords = Uvezite lozinke
 password-manager-you-can-use-the-import-wizard = Čarobnjak za uvoz možete koristiti da lahko (magično) uvezete korisnička imena i lozinke pohranjene na Chromeu, Edgeu, Safariju ili bilo kojem drugom pretraživaču. Izaberite Lozinke sa menija, a zatim kliknite na „uvezi ih u { -brand-name-firefox }” na dnu stranice za Prijave i lozinke.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Slika dijaloga { -brand-name-firefox } čarobnjaka za uvoz, koji prikazuje opcije za uvoz postavki i podataka iz drugih pretraživača.
+password-manager-no-more-reusing-your-passwords = Nema više ponovne upotrebe vaših lozinki
