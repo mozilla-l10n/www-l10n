@@ -30,3 +30,14 @@ features-translate-google-translate-with = { -brand-name-google } Translate je d
 features-translate-get-to-google-translate = Preuzmite To { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Preuzmite ekstenziju
+features-translate-once-installed-simply = Jednom kad je instalirana, jednostavno označite tekst koji želite da prevedete i kliknite desnim tasterom miša da biste otvorili meni sa dve opcije: 1) Vodi na translate.google.com sa vašim odabranim tekstom koji se automatski unosi u polje za prevod; ili 2) Slušajte audio izgovor fraze (pokreće { -brand-name-google } Text-to-Speech), što je od pomoći ako pokušavate naučiti novi jezik.
+features-translate-switch-languages-in = Promijeni jezike u { -brand-name-firefox }u
+# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
+features-translate-if-you-are = Ako već koristite { -brand-name-firefox }, možete promijeniti jezik vašeg pretraživača ili dodati jezike u { -brand-name-firefox } interfejs. <a { $attrs }>Ovdje saznajte kako.</a>
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-with-the-to = *Sa ekstenzijom To { -brand-name-google } Translate, trenutno možete prevesti <a { $attrs }>ove jezike</a>:
+# $attrs (string) - link to https://translate.google.com/about/languages/
+features-translate-and-more = <a { $attrs }> i više!</a>
+features-translate-for-everyone-v2 = { -brand-name-firefox } je za svakoga
+# Outdated string
+features-translate-for-everyone = Firefox je za svakoga
