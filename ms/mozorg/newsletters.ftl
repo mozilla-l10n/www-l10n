@@ -225,7 +225,7 @@ newsletters-insights = Pandangan
 # Obsolete string
 newsletters-internet-health-report = Laporan Kesihatan Internet
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } menerbitkan artikel dan kajian mendalam tentang isu-isu berkisar tentang kesihatan internet dan kebolehpercayaan AI, termasuklah Laporan Kesihatan Internet kami.
 
 # Obsolete string

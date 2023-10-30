@@ -225,7 +225,7 @@ newsletters-insights = अंदरूनी बातें
 # Obsolete string
 newsletters-internet-health-report = इंटरनेट स्वास्थ्य रिपोर्ट
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } हमारी वार्षिक इंटरनेट स्वास्थ्य रिपोर्ट सहित इंटरनेट स्वास्थ्य और भरोसेमंद एआई के मुद्दों पर गहराई तक जाने वाले लेख प्रकाशित करता है।
 
 # Obsolete string

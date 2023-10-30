@@ -225,7 +225,7 @@ newsletters-insights = Einblicke
 # Obsolete string
 newsletters-internet-health-report = Statusbericht zur Internetgesundheit
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } veröffentlicht Artikel und tiefgehende Analysen zu Themen rund um die Internetgesundheit und vertrauenswürdige KI, einschließlich unseres jährlichen Statusberichts zur Internetgesundheit.
 
 # Obsolete string

@@ -225,7 +225,7 @@ newsletters-insights = インサイト
 # Obsolete string
 newsletters-internet-health-report = インターネット健全性レポートを読む
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } では、毎年発表されるインターネット健全性レポートなど、インターネットの健全性や信頼できる AI に関する問題の真相に迫る論文を発表しています。
 
 # Obsolete string

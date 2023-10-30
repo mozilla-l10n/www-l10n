@@ -225,7 +225,7 @@ newsletters-insights = Idées
 # Obsolete string
 newsletters-internet-health-report = Bulletin de santé d’Internet
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publie des articles et des analyses approfondies sur des problématiques liées à la santé d’Internet et à des IA dignes de confiance, comme par exemple notre rapport annuel sur la santé d’Internet.
 
 # Obsolete string

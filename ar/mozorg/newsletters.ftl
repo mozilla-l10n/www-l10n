@@ -225,7 +225,7 @@ newsletters-insights = رؤى
 # Obsolete string
 newsletters-internet-health-report = تقرير صحّة الإنترنت
 
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = تنشُر { -brand-name-mozilla } مقالات وتتعمق في القضايا المُتعلقة بصحة الإنترنت والذكاء الاصطناعي الجدير بالثقة، بما في ذلك تقرير صحة الإنترنت السنوي.
 
 # Obsolete string
