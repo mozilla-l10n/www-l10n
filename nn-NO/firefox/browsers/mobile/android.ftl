@@ -22,6 +22,7 @@ mobile-android-fast-and-private = Rask og privat
 mobile-android-one-tap-to = Personvern med eitt trykk
 mobile-android-search-your-own = Søk på din eigen måte
 mobile-android-save-power-with = Spar straum med mørk modus
+mobile-android-switch-to-dark = Byt til mørkt modus når som helst for å minske belastninga på auga og forlenge batteriet.
 mobile-android-easily-organize-your = Ordne enkelt fanene dine
 mobile-android-pick-up-where = Fortset der du slutta
 mobile-android-pin-videos-to = Fest videoar på skjermen
