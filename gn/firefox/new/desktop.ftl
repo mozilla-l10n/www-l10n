@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Ereko { -brand-name-firefox } { -brand-n
 firefox-desktop-download-og-title = Emboguejy { -brand-name-firefox } ipya’evéva opa ára
 firefox-desktop-download-og-desc = Kuatiarogue myanyhẽ pya’eve, sa’ive oiporu mandu’arenda ha hembiapoiteve, kóva { -brand-name-firefox } pyahu.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Eiporukuaa rojaporamovéva { -brand-name-firefox }. <a { $update_url }>Embohekopyahu osẽramovévape</a>
 firefox-desktop-download-get-the-browser = Ereko pe kundahára omo’ã añetéva pe ehayhuvéva
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Ndaipóri temiñemi porureko ivaikuaáva térã okẽ atukupegua ñemurãme g̃uarã. Ha’e kundahára ipya’e ha hekopotĩva.
