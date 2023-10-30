@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
 vpn-mac-get-a-vpn = Ereko VPN macOS-pe g̃uarã { -brand-name-mozilla } rehegua
+vpn-mac-looking-for = Ehekápa VPN emo’ã hag̃ua ne Mac { -brand-name-mozilla-vpn } ojeykekóva chupe mba’apohaguasu viru’ỹgua. Eñemomaranduve mba’éichapa nemo’ãta VPN ha mba’érepa ejeroviáta { -brand-name-mozilla } rehe tekoñemi ha tekorosãrã eiporukuévo macOS.
 vpn-mac-protect-your-mac = Emo’ã ne Mac { -brand-name-mozilla-vpn } ndive
 vpn-mac-with-mozilla-vpn = { -brand-name-mozilla-vpn } ndive ikatu:
 vpn-mac-get-one-click = Ereko tekoñemi peteĩ jekutúpe, mba’erechaha iporã ha has’ỹva ijeporu.

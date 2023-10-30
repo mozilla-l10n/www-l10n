@@ -11,6 +11,7 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } Linux-pe ñanduti h
 vpn-linux-why-choose = Mba’érepa eiporavova’erã { -brand-name-mozilla-vpn } Linux-pe g̃uarã
 # Obsolete string
 vpn-linux-fast-and = <strong>Ipya’e ha jeroviaha:</strong> { -brand-name-mozilla-vpn } oiporu taperekoite { -brand-name-wireguard }®, ome’ẽva jeku’epya’e ha tekopyta ambue VPN raperekoitégui
+vpn-linux-gui-client = <strong>GUI joguahára:</strong>{ -brand-name-mozilla-vpn } ereko GUI joguahára (poruhára mba’erechaha ra’ãnga), hákatu heta VPN me’ẽhára oikuave’ẽ peteĩ CLI añónte (mbopya’eha rehegua).
 vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn } Linux-pe g̃uarã
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
