@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = Váš obsah pro mě není relevantní.
 newsletters-your-email-design = Vaš vzhled e-mailů je pro mě těžko čitelný.
 newsletters-i-didnt-sign-up = Tento odběr jsem si nepřihlásil(a).
 newsletters-please-select-a-reason = Vyberte prosím důvod svého odhlášení.
+newsletters-fxa-error-retry = Omlouváme se, ale došlo k problému s vaším přesměrováním do nastavení e-mailů. Zkuste použít formulář níže.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = Zapojte se
 newsletters-insights = Přehledy
 # Obsolete string
 newsletters-internet-health-report = Hlášení o zdraví internetu
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje články a hloubkové analýzy týkající se zdraví internetu a spolehlivé umělé inteligence, včetně naší výroční zprávy o stavu internetu.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Buďte neustále v obraze díky našemu každoročnímu kompilátu z výzkumu a článků o otázkách ochrany soukromí a bezpečnosti, otevřenosti, digitálního začleňování, decentralizace a webové gramotnosti.
