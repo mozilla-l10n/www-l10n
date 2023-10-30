@@ -25,3 +25,8 @@ features-translate-get-firefox-translations = Preuzmite { -brand-name-firefox-tr
 features-translate-to-google-translate = To { -brand-name-google } Translate
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
 features-translate-google-translate-with = { -brand-name-google } Translate je dostupan na preko 100 jezika* i koriste ga milioni ljudi širom svijeta. Ali prebacivanje između translate.google.com i stranice koju želite da pročitate ne pruža baš idealno korisničko iskustvo. <a { $attrs }>To { -brand-name-google } Translate</a> dodatak čini prevođenje posjećene stranice lakšim nego ikad.
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
+features-translate-get-to-google-translate = Preuzmite To { -brand-name-google } Translate
+# Obsolete string
+features-translate-get-the-extension = Preuzmite ekstenziju
