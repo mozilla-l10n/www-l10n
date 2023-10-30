@@ -10,9 +10,16 @@ features-translate-translate-the-web-title = Přełožujće web - direktnje w sw
 # page description
 features-translate-translate-more-than = Přełožujće z wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
 features-translate-translate-the-web = Přełožujće web z { -brand-name-firefox }
+# Shorter title used in subnav
+features-translate-translate-the-web-short = Web přełožować
+# Obsolete string
 features-translate-the-google-translate = Rozšěrjenje To { -brand-name-google } Translate za { -brand-name-firefox } swětej web spřistupnja.
+features-translate-firefox-translations = { -brand-name-firefox-translations }
+# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
+features-translate-get-firefox-translations = Wobstarajće sej { -brand-name-firefox-translations }
+# "To Google Translate" is a brand name
 features-translate-to-google-translate = K { -brand-name-google } Translate
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# Obsolete string
 features-translate-get-the-extension = Wobstarajće sej rozšěrjenje
 features-translate-switch-languages-in = W { -brand-name-firefox } přepinać
 # $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
