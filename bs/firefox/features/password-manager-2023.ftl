@@ -30,3 +30,15 @@ password-manager-you-can-use-the-import-wizard = Čarobnjak za uvoz možete kori
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Slika dijaloga { -brand-name-firefox } čarobnjaka za uvoz, koji prikazuje opcije za uvoz postavki i podataka iz drugih pretraživača.
 password-manager-no-more-reusing-your-passwords = Nema više ponovne upotrebe vaših lozinki
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Neka { -brand-name-firefox } <a { $attrs }>napravi snažnu, jedinstvenu lozinku</a> za svaku prijavu koju imate širom weba - na taj način, ako jedna od vaših lozinki bude hakovana zbog proboja sigurnosti, to će uticati samo na taj jedan račun, a ne i na druge račune.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Slika obrasca za registraciju web stranice sa { -brand-name-firefox }a koji sugeriše jaku lozinku koju će automatski pohraniti za buduću upotrebu.
+password-manager-password-security-alerts = Sigurnosna upozorenja za lozinku
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>upozorava vas ako je lozinka otkrivena</a> u curenju podataka kako biste je mogli promijeniti prije nego što hakeri budu imali priliku učiniti nešto poput rentati Lambo sa vašim kreditnim karticama.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Slika { -brand-name-firefox } menadžera lozinki koja prikazuje poruku upozorenja koja glasi „Ova lozinka je korišctena na drugom računu za koji je vjerovatno došlo do curenja podataka. Ponovna upotreba akreditiva dovodi sve vaše račune u opasnost. Promijenite ovu lozinku.”
