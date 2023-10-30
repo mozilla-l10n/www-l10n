@@ -9,4 +9,5 @@ welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 welcome-page14-copy-code = Kod kopěrować
 welcome-page14-code-copied = Kod je so kopěrował!
 welcome-page14-very-fast = Je spěšny, jara spěšny
+welcome-page14-without-trace = Internet bjez slěda
 welcome-page14-why-see-this = Čehodla to widźu?

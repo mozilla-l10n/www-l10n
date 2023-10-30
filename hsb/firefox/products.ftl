@@ -5,17 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace hač wobhladowak
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } je jenož spočatk
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Je cyła produktowa swójba, kotraž je za to myslena, zo sće wěsćiši a bóle inteligentny online.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>wjace</strong> hač wobhladowak
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } je jenož <strong>spočatk</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Hladajće, hač waše wosobinske informacije su wot datoweje dźěry druheho předewzaća potrjechene, a registrujće so za přichodne warnowanja.
 firefox-products-check-for-breaches = Za dźěrami přepruwować
 firefox-products-sign-up-for-breach-alerts = Registrujće so za warnowanja wo datowych dźěrach
+# Obsolete string
 firefox-products-firefox-browsers = Wobhladowaki { -brand-name-firefox }
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Wobstarajće sej wobhladowaki, kotrež 2000+ datowych přesćěhowakow awtomatisce blokuja. Polěpšeny slědowanski škit je nětko standard w kóždym wobhladowaku { -brand-name-firefox }.
 firefox-products-desktop = Desktop
 firefox-products-android = { -brand-name-android }

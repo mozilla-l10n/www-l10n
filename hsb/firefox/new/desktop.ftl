@@ -115,6 +115,7 @@ firefox-desktop-download-get-firefox-android = Wobstarajće sej { -brand-name-fi
 firefox-desktop-download-get-firefox-ios = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { -brand-name-firefox } za awtomatiski škit na wšěch wašich gratach.
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; bjerće swoje rajtarki, swoju historiju a swoje zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>konto { -brand-name-firefox }</a>.
@@ -126,8 +127,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Wobkedźbujće hackerow z { -brand-name-mozilla-monitor }, škitajće swoju e-mejlowu adresu z { -brand-name-firefox-relay } a wjace.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće swoju e-mejlowu adresu z { -brand-name-firefox-relay } a wjace.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće hesła z { -brand-name-firefox-lockwise } a wjace.
 firefox-desktop-download-get-more-from-firefox = Wobstarajće sej wjace wot { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhladowak
@@ -146,7 +149,7 @@ firefox-desktop-download-now-mac = <strong>Wočińće</strong> nětko dataju, ko
 firefox-desktop-download-get-help = Maće problemy? <a { $attrs }>Wobstarajće sej pomoc za swoju instalaciju</a>.
 firefox-desktop-download-in-another-language = W druhej rěči abo za druhi dźěłowy system sćahnyć.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -155,7 +158,7 @@ firefox-desktop-download-visit-support-for-more = Wopytajće strony pomocy za da
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">hižo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njeposkića, ale móžeće hišće { -brand-name-firefox } wužiwać.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.

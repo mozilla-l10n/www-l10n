@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Žane potajnstwa
 firefox-privacy-hub-youll-always-know-where-you = Budźeće přeco wědźeć, na čimž sće.
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Nimamy žane schowane wotpohlady. Naš wobchod wot toho njewotwisuje, wašu dowěru znjewužiwać. Naše <a href="{ $privacy }">rozłoženje wo škiće datow</a> je woprawdźe čitajomne. A jeli chceće so do datow zanurić, kotrež hromadźimy – naš kod je zjawny. Kaž my tež.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Nimamy žane schowane wotpohlady. Naš wobchod wot toho njewotwisuje, wašu dowěru znjewužiwać. Naše <a href="{ $privacy }">rozłoženje wo škiće datow</a> je woprawdźe čitajomne. Kóždy na swěće móže so na našich <a href="{ $meetings }">tydźenskich předewzaćelskich zetkanjach</a> wobdźělić. A jeli chceće so do datow zanurić, kotrež hromadźimy – naš kod je zjawny. Kaž my tež.
 firefox-privacy-hub-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
@@ -40,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Waša priwatnosć, w kóždym 
 firefox-privacy-hub-firefox-products-work-differently = Produkty { -brand-name-firefox } hinak funguja – dokelž so wuwiwaja, zo bychu najprjedy wašu priwatnosć škitali.
 firefox-privacy-hub-learn-about-our-products = Zhońće wjace wo našich produktach
 firefox-privacy-hub-firefox-privacy-by-the = Priwatnosć { -brand-name-firefox }, w kóždym produkće
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } wašu priwatnosć w kóždym produkće škita.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } wašu priwatnosć w kóždym produkće škita.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } wašu priwatnosć w kóždym produkće <strong>škita</strong>
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } wašu priwatnosć w kóždym produkće <strong>škita</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Přez 2.000 přesćěhowakow zablokowane – awtomatisce
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -57,11 +65,17 @@ firefox-privacy-hub-meet-four-of-the-most-common = To su štyri najhusćiše kat
 firefox-privacy-hub-always-in-your-control = Maće přeco kontrolu
 firefox-privacy-hub-want-to-customize-what = Chceće rozsudźić, štož ma so blokować? Waše nastajenja su jenož jedne kliknjenje zdalene.
 firefox-privacy-hub-protection-beyond-tracking = Wjace hač slědowanski škit
+firefox-privacy-hub-if-you-have-a-mozilla-account = Jeli maće { -brand-name-mozilla-account }, móžeće tež widźeć, kak pomhamy wam, waše wosobinske informacije a hesła škitać.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Jeli maće { -brand-name-firefox-account }, móžeće tež widźeć, kak pomhamy wam, waše wosobinske informacije a hesła škitać.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Blokuje so přez { $trackers } přesćěhowakow kóždy dźeń za wužiwarjow { -brand-name-firefox } na cyłym swěće
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Hdyž swoju e-mejlowu adresu w { -brand-name-mozilla-monitor } zapodawaće, pytamy, hač je w znatych datowych dźěrach a zabudźemy ju hnydom zaso – chibazo awtorizujeće nas, so tež w nowych datowych dźěrach za wašimi wosobinskimi datami rozhladować.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Hdyž swoju e-mejlowu adresu w { -brand-name-firefox-monitor } zapodawaće, pytamy, hač je w znatych datowych dźěrach a zabudźemy ju hnydom zaso – chibazo awtorizujeće nas, so tež w nowych datowych dźěrach za wašimi wosobinskimi datami rozhladować.
 firefox-privacy-hub-check-for-breaches = Za dźěrami přepruwować
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -73,9 +87,21 @@ firefox-privacy-hub-send-a-file = Dataju pósłać
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } nastawki wysokeje kwality doporuča, kotrež ludźo hladaja, bjeztoho zo by wašu přehladowansku historiju zwěsćił abo waše wosobinske informacije z wabjerjemi dźělił.
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } wobstarać
+firefox-privacy-hub-your-mozilla-account = Waše { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Waše { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Wšě informacije, kotrež so z wašim { -brand-name-mozilla-account } synchronizuja – wot wobhladowaka do hesłow – su zaklučowane. A hesło wašeho konta je jenički kluč.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Wšě informacije, kotrež so z wašim { -brand-name-firefox-account } synchronizuja – wot wobhladowaka do hesłow – su zaklučowane. A hesło wašeho konta je jenički kluč.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Wzmiće swoju priwatnosć a zapołožki z { -brand-name-mozilla-account } wšudźe sobu.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Wzmiće swoju priwatnosć a zapołožki z { -brand-name-firefox-account } wšudźe sobu.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Maće hižo konto? <a { $sign_in } class="{ $class_name }">Přizjewće so</a> abo <a href="{ $learn_more }">zhońće wjace</a> wo wužiwanju { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
