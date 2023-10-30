@@ -6,14 +6,22 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = Wobstarajće sej konto { -brand-name-mozilla-account } - Dźeržće swoje daty priwatne, wěste a synchronizowane
+# Obsolete string
 firefox-accounts-get-a-firefox-account = Wobstarajće sej konto { -brand-name-firefox-account } - Dźeržće swoje daty priwatne, wěste a synchronizowane
 # HTML page description
 firefox-accounts-securely-sync-your = Synchronizujće swoje hesła, zapołožki a rajtarki wěsće přez wšě swoje graty. Wobstarajće sej nětko konto { -brand-name-firefox-account } - Jedne přizjewjenje - wukon a priwatnosć wšudźe.
 firefox-accounts-enter-your-email-address = Zapodajće tu swoju e-mejlowu adresu, zo byšće započał.
 firefox-accounts-already-have-an-account = Maće hižo konto?
 firefox-accounts-sign-in = Přizjewić
+# Obsolete string
 firefox-accounts-already = Maće hižo { -brand-name-firefox-account }. Zbožopřeće!
+mozilla-accounts-already = Maće hižo { -brand-name-mozilla-account }. Zbožopřeće!
 firefox-accounts-manage = Rjadujće sowje konto
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Přizjewće pola wašeho  { -brand-name-mozilla-account(case: "gen") }, zo byšće:
+# Obsolete string
+firefox-accounts-sign-in-to = Přizjewće pola wašeho  { -brand-name-firefox-account(case: "gen") }, zo byšće:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Zeznajće so z našej swójbu produktow, za kotruž priwatnosć je na prěnim městnje.
 # Obsolete string
@@ -26,6 +34,7 @@ firefox-accounts-get-it-all-on-every = Přinjesće wšitko na kóždy grat - wš
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
