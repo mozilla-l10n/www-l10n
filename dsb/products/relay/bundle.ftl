@@ -17,4 +17,13 @@ bundle-feature-more-than-servers =
         [few] Wěcej ako { $num_vpn_servers } serwery
        *[other] Wěcej ako { $num_vpn_servers } serwery
     }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+        [one] Wěcej ako { $num_vpn_countries } kraj
+        [two] Wěcej ako { $num_vpn_countries } kraja
+        [few] Wěcej ako { $num_vpn_countries } kraje
+       *[other] Wěcej ako { $num_vpn_countries } kraje
+    }
 bundle-feature-three = Malsna a wěsta seś
