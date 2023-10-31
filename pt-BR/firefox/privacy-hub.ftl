@@ -49,6 +49,7 @@ firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } pr
 firefox-privacy-hub-mozilla-protects-your-privacy = A { -brand-name-mozilla } protege sua privacidade em todos os produtos.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> sua privacidade em todos os produtos.
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = A { -brand-name-mozilla } <strong>protege</strong> sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2.000 rastreadores bloqueados — automaticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
