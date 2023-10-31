@@ -74,6 +74,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } de rast
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Quando você digita seu endereço de email no { -brand-name-mozilla-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos, a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereço de email no { -brand-name-firefox-monitor }, esquecemos imediatamente após verificar se está em vazamentos de dados conhecidos — a menos que você nos autorize a continuar monitorando novos vazamentos de suas informações pessoais.
 firefox-privacy-hub-check-for-breaches = Verifique se há vazamentos

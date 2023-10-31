@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = Boletim informativo da { -brand-name-mozilla }
 newsletters-read-all-about-it-in-our-newsletter = Leia sobre isso em nosso <span>boletim informativo</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Inscreva-se aqui para ficar em dia com novidades da { -brand-name-mozilla }, tomar atitude em prol de uma internet mais saudável e ficar mais esperto em relação à sua vida online.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Se inscreva para receber novidades e mantenha-se atualizado com as notícias da { -brand-name-mozilla }. É a maneira perfeita de nos manter em contato!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Confirmação do boletim informativo
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = Sua inscrição foi cancelada.
 newsletters-were-sorry-to-see-you-go = Lamentamos te ver partir.
 newsletters-would-you-mind-telling-us = Poderia nos dizer o motivo de estar nos deixando?
 newsletters-other-v2 = Outro… (máximo 500 caracteres)
-# Outdated string
+# Obsolete string
 newsletters-other = Outros…
 newsletters-submit = Enviar
 newsletters-thanks-for-telling-us-why = Obrigado por nos contar o motivo de cancelar.
@@ -141,6 +141,8 @@ newsletters-take-your-privacy = Leve sua privacidade com você
 newsletters-travel-the-internet = Viaje pela internet com proteção em todos os seus dispositivos.
 newsletters-download-the-app = Baixe o aplicativo
 newsletters-check-for-data-breaches = Verifique se há vazamentos de dados
+newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } é um serviço gratuito que permite ver se você foi vítima de um vazamento de dados online.
+# Obsolete string
 newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } é um serviço gratuito que permite ver se você foi vítima de um vazamento de dados online.
 newsletters-sign-in-to-monitor = Acesse o { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Conheça nossa marca matriz
@@ -165,7 +167,7 @@ newsletters-get-involved = Participe
 newsletters-insights = Análises aprofundadas
 # Obsolete string
 newsletters-internet-health-report = Relatório de Integridade da Internet
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } publica artigos e análises aprofundadas sobre questões relacionadas a saúde da internet e inteligência artificial confiável, incluindo nosso relatório anual de integridade da internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Acompanhe nossa coleção anual de pesquisas e histórias sobre problemas de privacidade e segurança, abertura, inclusão digital, descentralização e alfabetização na web.
@@ -189,7 +191,7 @@ newsletters-news-and-information = Notícias e informações relacionadas à sa�
 newsletters-student-reps = Representantes estudantis
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Antigo programa universitário, iniciado em 2008 e encerrado em 2011, agora relançado como { -brand-name-firefox } Student Ambassadors.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Anterior programa universitário de 2008 a 2011, agora relançado como programa de embaixadores estudantis do Firefox.
 # Name for the newsletter in Newsletter subscription page
