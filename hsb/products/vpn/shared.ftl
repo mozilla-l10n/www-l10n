@@ -9,8 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstarać
 vpn-shared-waitlist-link = Přistupće čakanskej lisćinje
 vpn-shared-sign-in-link = Sće hižo abonent?
-# Outdated string
-vpn-shared-available-countries-v4 = Tuchwilu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanadźe, Francoskej, Němskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Španiskej, Šwicarskej, Zjednoćenym kralestwje a USA poskićamy.
+# Obsolete string
 vpn-shared-available-countries-v5 = Tuchwilu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanadźe, Finskej, Francoskej, Němskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Španiskej, Šwedskej, Šwicarskej, Zjednoćenym kralestwje a USA poskićamy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowska garantija wróćenja pjenjez
@@ -65,10 +64,10 @@ vpn-shared-choose-a-plan-sub-heading = Wubjerće plan, kotryž za was funguje
 vpn-shared-pricing-variable-sub-heading = Wšě naše plany wobsahuja:
 vpn-shared-pricing-recommended-offer = Doporučeny
 vpn-shared-pricing-plan-12-month-v2 = 12-měsačny plan
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 měsacow
 vpn-shared-pricing-plan-monthly-v2 = Měsačny plan
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Kóždy měsac
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +76,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/měsac</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + dawk</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 6-měsačny plan wobstarać
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 12-měsačny plan wobstarać
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = 6-měsačny plan wobstarać
 vpn-shared-pricing-get-12-month-v2 = 12-měsačny plan wobstarać
 vpn-shared-pricing-get-monthly = Měsačny plan wobstarać
@@ -108,6 +107,8 @@ vpn-shared-platform-cta-headline = Započńmy
 vpn-shared-platform-cta-button = Płaćizny a disponujomnosć sej wobhladać
 vpn-shared-platform-privacy-promise = Waša priwatnosć je naše slubjenje
 vpn-shared-platform-trust-partner-headline = Wo našim dowěryhódnym partnerje
+vpn-shared-platform-what-is = Što je { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Čehodla { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -129,6 +130,8 @@ vpn-subnav-whats-an-ip-address = Što je IP-adresa?
 vpn-subnav-when-to-use-a-vpn = Hdy wy dyrbjał VPN wužiwać
 vpn-subnav-vpn-vs-proxy = VPN porno proksy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonować
+vpn-subnav-learn-about-vpns = Zeznajće so z VPN
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } sćahnyć
 
 ## VPN Affiliate cookie notice
 
@@ -137,10 +140,20 @@ vpn-shared-affiliate-notification-ok = W porjadku
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Polěpšće swoju priwatnosć z { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Přidajće swojemu abonementej { -brand-name-firefox-relay }, zo byšće swoju e-mejlowu adresu a telefonowe čisło škitał. <a href="{ $url }">Dalše informacije</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Přidajće <span class="{ $class_name }">{ -brand-name-firefox-relay }
 vpn-shared-relay-email-masking = E-mejlowe maskowanje
 vpn-shared-relay-phone-masking = Telefonowe maskowanje
 vpn-shared-get-vpn-plus-relay = Wobstarajće sej { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Čehodla jako paket?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Składujće { $percent } %</span> na lětny plan { -brand-name-relay-premium }
 
 ##
 
