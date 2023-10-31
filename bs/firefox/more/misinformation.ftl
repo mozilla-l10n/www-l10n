@@ -47,3 +47,12 @@ misinformation-surface-content-heading = { -brand-name-firefox } vam pomaže da 
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
 misinformation-surface-content-desc = Kada otvorite novi tab u { -brand-name-firefox } pretraživaču, videćete članke koje <a href="{ $recommended }">preporučuje { -brand-name-pocket }</a>. { -brand-name-pocket } ne koristi nijedan od vaših ličnih podataka za davanje preporuka. Umjesto toga, članke biraju drugi ljudi koji koriste aplikaciju. Sposobnost otkrivanja novih priča, perspektiva i mišljenja je ključna za borbu protiv širenja misinformacija. Za više preporuka, pretplatite se na <a href="{ $pocket_hits }">{ -brand-name-pocket } bilten</a> i preuzmite <a href="{ $pocket }">{ -brand-name-pocket } aplikaciju</a>.
+misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Zato što stavljamo ljude na prvo mesto. U stvari, podržava nas <a href="{ $foundation }">neprofitna organizacija</a>. Od prvog dana naša je misija da zaštitimo internet i sve na njemu.
+misinformation-learn-more-about-our-mission = Saznajte više o našoj misiji
+misinformation-your-privacy-by-the-product = Vaša privatnost u svakom proizvodu
+misinformation-firefox-products-work-differently = { -brand-name-firefox } proizvodi rade drugačije — jer su dizajnirani da prvo zaštite vašu privatnost.
+misinformation-learn-about-our-products = Saznajte više o našim proizvodima
+misinformation-designed-to-protect = Dizajnirana da zaštiti vašu privatnost
