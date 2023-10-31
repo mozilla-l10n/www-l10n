@@ -24,11 +24,23 @@ mozilla-account-sign-in-to = Přizjewće pola wašeho  { -brand-name-mozilla-acc
 firefox-accounts-sign-in-to = Přizjewće pola wašeho  { -brand-name-firefox-account(case: "gen") }, zo byšće:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Zeznajće so z našej swójbu produktow, za kotruž priwatnosć je na prěnim městnje.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Sćelće rajtark</a> na druhi grat
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Hesła składować a synchronizować</a>
+firefox-accounts-get-email-alerts = Dóstańće e-mejlowe warnowanja, hdyž so waše informacije w znatej datowej dźěrje jewja
 # Obsolete string
 firefox-accounts-see-if-youve-been = Přepruwujće, hač sće potrjecheny wot datoweje dźěry online.
+firefox-accounts-protect-your-identity = Škitajće swoju identitu z wěstym telefonowym a e-mejlowym maskowanjom
 firefox-accounts-keep-your-passwords = Škitajće swoje hesła a wzmiće je wšudźe sobu.
 firefox-accounts-get-a-lookout-for = Rozhladujće so za datowymi dźěrami.
 firefox-accounts-travel-the-internet = Pohibujće so ze škitom na kóždym graće po interneće.
+firefox-accounts-encrypt-your = Zaklučujće swoju syćowu aktiwitu a schowajće swoju IP-adresu
+firefox-accounts-we-never = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy
+firefox-accounts-save-articles = Składujće nastawki z interneta
+firefox-accounts-read-in-a = Čitajće na ćichim, priwatnym městnje
 firefox-accounts-get-it-all-on-every = Přinjesće wšitko na kóždy grat - wšojedne kotry dźěłowy system wužiwaće.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

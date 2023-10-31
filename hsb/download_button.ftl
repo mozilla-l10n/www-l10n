@@ -44,6 +44,7 @@ download-button-download = Sćahnyć
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } so na { $os_version } a staršich <a href="{ $help_url }">hižo njepodpěruje</a>.
+download-button-please-download-esr = Prošu sćehńće { -brand-name-firefox-esr } (wersija za rozšěrjenu podpěru), zo byšće { -brand-name-firefox } wužiwał.
 download-firefox-esr = { -brand-name-firefox-esr } sćahnyć
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32-bitowy sćahnyć
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64-bitowy sćahnyć
