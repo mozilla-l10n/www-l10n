@@ -7,14 +7,17 @@
 
 # HTML page title
 firefox-browsers-page-title = Instale o { -brand-name-firefox } para computador, celular ou Enterprise
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Use os navegadores que colocam sua privacidade em primeiro lugar, como sempre fizeram
 # HTML page description
 firefox-browsers-page-desc = Escolha entre Firefox para computador, { -brand-name-ios }, { -brand-name-android }, ou receba um email com um link para baixar em celular.
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Tenha a privacidade que você merece. A proteção aprimorada contra rastreamento é automática em todos os navegadores { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Use os <strong>navegadores</strong> que colocam sua privacidade em primeiro lugar, como sempre fizeram
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Use o navegador que coloca sua privacidade em primeiro lugar, como <strong>sempre</strong> fez
 firefox-browsers-desktop = Computador
 firefox-browsers-seriously-private-browsing = Navegação realmente privativa. O { -brand-name-firefox } bloqueia automaticamente mais de 2000 rastreadores, impedindo que coletem informações sobre o que você faz online.
 firefox-browsers-download-for-desktop = Baixar para computador
@@ -35,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Junte-se ao { -brand-name-firef
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Já tem uma conta? <a { $fxa_attr }>Entre</a> ou <a { $accounts_attr }>saiba mais</a> sobre como se juntar ao { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
