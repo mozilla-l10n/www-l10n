@@ -12,6 +12,10 @@ password-manager-firefox-password-manager-saves-all = O gerenciador de senhas do
 password-manager-firefox-securely-stores-your = O { -brand-name-firefox } armazena com segurança seus nomes de usuário e senhas para acessar sites, preenche automaticamente na próxima vez que você visitar um site e permite gerenciar suas contas armazenadas com seu recurso integrado de gerenciamento de senhas.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuita, você pode sincronizar suas senhas com segurança em todos os seus dispositivos. Você também pode acessar todos os outros produtos da { -brand-name-mozilla } que respeitam a privacidade.
+# Obsolete string
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a>, você pode sincronizar com segurança suas senhas em todos os seus dispositivos.
 # Obsolete string
 # Variables:

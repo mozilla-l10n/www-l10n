@@ -26,6 +26,7 @@ firefox-home-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwi
 firefox-home-get-the-respect-you = Tenha o <strong>respeito</strong> que merece
 # Obsolete string
 firefox-home-every-single-firefox = Cada produto { -brand-name-firefox } honra nosso compromisso de como lidar com dados pessoais: <strong>Coletar pouco. Manter seguro. Sem segredos.</strong>
+firefox-home-every-single-mozilla = Cada produto { -brand-name-mozilla } honra nosso compromisso de como lidar com dados pessoais: <strong>Coletar pouco. Manter seguro. Sem segredos.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Compartilhe arquivos grandes, livre de intrometidos
 # Obsolete string
