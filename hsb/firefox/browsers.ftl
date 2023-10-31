@@ -9,6 +9,8 @@
 firefox-browsers-page-title = Sćehńće { -brand-name-firefox } za desktop, mobilny grat abo Enterprise
 # Obsolete string
 firefox-browsers-get-the-browsers-that-put = Wobstarajće sej wobhladowaki, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
+# HTML page description
+firefox-browsers-page-desc = Wubjerće z desktop, { -brand-name-ios }, { -brand-name-android } abo dowolće nam, zo wam wotkaz za sćehnjenje z e-mejlu na mobilny grat sćelemy.
 # Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Dóstańće priwatnosć, kotruž sej zasłužiće. Polěpšeny slědowanski škit je awtomatisce zmóžnjeny w kóždym wobhladowaku { -brand-name-firefox }.
 # Obsolete string
