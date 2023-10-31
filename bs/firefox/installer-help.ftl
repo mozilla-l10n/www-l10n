@@ -26,3 +26,6 @@ installer-help-firefox-developer-desc = Pravite, testirajte, poredajte i mnogo v
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Zavirite u naš web pretraživač nove generacije i pomozite nam da ga učinimo najboljim pretraživačem koji može biti.
 installer-help-need-help = Trebate li pomoć pri instaliranju?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Ako vam je i dalje potrebna pomoć pri instalaciji, <a href="{ $url }">pročitajte vodič u našem odjeljku Podrška.</a>
