@@ -24,3 +24,4 @@ installer-help-firefox-beta-desc = Isprobajte funkcije prije izdavanja u najstab
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Pravite, testirajte, poredajte i mnogo više sa jedinim pretraživačem napravljenim samo za programere.
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Zavirite u naš web pretraživač nove generacije i pomozite nam da ga učinimo najboljim pretraživačem koji može biti.
