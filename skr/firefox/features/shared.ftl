@@ -7,6 +7,9 @@
 
 features-shared-firefox-features = { -brand-name-firefox } خاصیتاں
 features-shared-free-password-manager = پاس ورڈ منیجر
+features-shared-bookmark-manager = نشانی منیجر
+features-shared-private-browsing-mode = نجی براؤزنگ موڈ
+features-shared-pdf-editor = پی ڈی ایف ایڈیٹر
 features-shared-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 features-shared-translate-the-web = ویب دا ترجمہ کرو
 features-shared-picture-in-picture = تصویر وِچ تصویر

@@ -44,7 +44,9 @@ firefox-privacy-hub-your-privacy-by-the-product = تہاݙی رازداری، م
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } بݨتراں مختلف طریقے نال کم کریندیاں ہن — کیوں جو انہاں کوں پہلے تہاݙی رازداری دی حفاظت کیتے ڈیزائین کیتا ڳیا ہے۔
 firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات بارے ٻیا سکھو
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مصنوع نال
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی حفاظت کریندے۔
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی <strong>حفاظت کریندے</strong>۔
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ ٹریکرز بلاک تھی ڳئے ــــ خودبخود
@@ -61,11 +63,15 @@ firefox-privacy-hub-meet-four-of-the-most-common = ٹریکرز دی سبھ تو
 firefox-privacy-hub-always-in-your-control = ہمیشہ تہاݙے قاٻو وچ
 firefox-privacy-hub-want-to-customize-what = کیڑھی چیز کوں بلاک کیتا ویندا ہے اپݨی مرضی دے مطابق کرݨ چاہندے او؟ تہاݙیاں ترتیباں صرف ہک کلک دی دوری تے ہن
 firefox-privacy-hub-protection-beyond-tracking = ٹریکنگ کنوں ٻاہر تحفظ
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = جے تہاݙے کول { -brand-name-firefox-account } ہے، تاں تساں ایہ وی ݙیکھ سڳدے او جو اساں تہاݙی ذاتی معلومات تے پاس ورڈز دی حفاظت وِچ کیویں مدد کریندے پئے ہیں۔
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = پوری دنیا وِچ { -brand-name-firefox } صارفین کیتے ہر روز { $trackers } کنوں زیادہ ٹریکرز بلاک کیتے ویندے ہن۔
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = جݙاں تساں اپما ای میل ایڈریس { -brand-name-firefox-monitor } وِچ درج کریندے او، تاں اساں اونکوں معلوم ڈیٹا دیاں خلاف ورزیاں وِچ میچݨ کیتے چیک کرݨ دے ستت بعد بھل ویندے ہیں — جے تائیں کہ تساں اساکوں اپݨی ذاتی معلومات کیتے نویاں خلاف ورزیاں دی نگرانی جاری رکھݨ دی اجازت نئیں ݙیندے۔
 firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -77,9 +83,16 @@ firefox-privacy-hub-send-a-file = ہک فائل پٹھو
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } تہاݙی براؤزنگ ہسٹری کوں جمع کیتے بغیر یا مشتہرین دے نال تہاݙیاں ذاتی معلومات سانجھیاں کیتے بغیر اعلیٰ معیار دے، انساناں دے تیار کردہ مضمون دی تجویز ݙیندا ہے۔
 firefox-privacy-hub-get-pocket = { -brand-name-pocket } گھنو
+firefox-privacy-hub-your-mozilla-account = تہاݙا { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = تہاݙا { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = تہاݙے{ -brand-name-mozilla-account } دے ذریعے مطابقت پذیر تمام معلومات — براؤزر دی تارخ کنوں گھن تے پاس ورڈز تائیں — کوں ڳجھا رکھیا ویندا ہے۔ تے تہاݙے اکاؤنٹ دا پاس ورڈ کلھی کنجی ہے۔
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = تہاݙے { -brand-name-firefox-account } دے ذریعے مطابقت پذیر تمام معلومات — براؤزر دی تارخ کنوں گھن تے پاس ورڈز تائیں — کوں ڳجھا رکھیا ویندا ہے۔ تے تہاݙے اکاؤنٹ دا پاس ورڈ کلھی کنجی ہے۔
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-mozilla-account }دے نال گھن ونڄو۔
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-firefox-account } دے نال گھن ونڄو۔
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
