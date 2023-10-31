@@ -20,6 +20,7 @@ welcome-page1-check-your-breach-report = Verifique seu relatório de vazamento d
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-mozilla-monitor-shows-you = O { -brand-name-mozilla-monitor } mostra se suas informações foram expostas em um vazamento de dados conhecido e te alerta caso isso aconteça no futuro.
 # Obsolete string
 welcome-page1-firefox-monitor-shows-you = O { -brand-name-firefox-monitor } mostra se suas informações foram expostas em um vazamento de dados conhecido e te alerta caso isso aconteça no futuro.
 welcome-page1-stay-ahead-of-hackers = Esteja à frente dos hackers
