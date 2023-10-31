@@ -46,6 +46,7 @@ firefox-privacy-hub-learn-about-our-products = Conheça nossos produtos
 firefox-privacy-hub-firefox-privacy-by-the = Privacidade no { -brand-name-firefox }, em todos os produtos
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege sua privacidade em todos os produtos.
+firefox-privacy-hub-mozilla-protects-your-privacy = A { -brand-name-mozilla } protege sua privacidade em todos os produtos.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }

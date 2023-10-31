@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Use o { -brand-name-firefox } para { -br
 firefox-desktop-download-og-title = Use o { -brand-name-firefox }, rápido como nunca
 firefox-desktop-download-og-desc = Carregamento de páginas mais rápido, menos uso de memória e repleto de recursos, aqui está o novo { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Está disponível um { -brand-name-firefox } ainda mais novo. <a { $update_url }>Atualizar para a versão mais recente</a>
 firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido, que não vende você como produto.
@@ -133,9 +136,13 @@ firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi cri
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À medida que a internet cresce e muda, o { -brand-name-firefox } continua a se concentrar no seu direito à privacidade — chamamos isso de <a { $attrs }>Compromisso de como lidar com dados pessoais</a>: Coletar menos. Manter seguro. Sem segredos. Seus dados, sua atividade na web, sua vida online são protegidos pelo { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível para todos os seus dispositivos. Leve com você suas abas, histórico, favoritos e muito mais. Tudo que precisa é uma <a { $attrs }>Conta { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = O { -brand-name-firefox } está disponível para todos os seus dispositivos. Tenha com você suas abas, histórico e favoritos. Tudo o que precisa é de uma <a { $attrs }>{ -brand-name-mozilla-account }</a> para acessar a sincronização e aproveitar mais produtos { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Obtenha uma imagem de alta resolução de qualquer coisa online com nossa ferramenta de <a { $attrs }>captura de tela</a>, integrada diretamente no navegador
@@ -147,8 +154,10 @@ firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } autom
 firefox-desktop-download-questions = Dúvidas? O <a { $attrs }>suporte da { -brand-name-mozilla }</a> pode ajudar.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Você já tem o navegador. Agora obtenha ainda mais do { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Esteja atento a hackers com o { -brand-name-mozilla-monitor }, proteja seu endereço de email  com o { -brand-name-firefox-relay } e muito mais.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Esteja atento a hackers com o { -brand-name-firefox-monitor }, proteja seu endereço de email  com o { -brand-name-firefox-relay } e muito mais.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Fique atento a hackers com o { -brand-name-firefox-monitor }, proteja senhas com o { -brand-name-firefox-lockwise } e muito mais.
 firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Apenas baixar o navegador
@@ -167,7 +176,7 @@ firefox-desktop-download-now-mac = Agora <strong>abra</strong> o arquivo que aca
 firefox-desktop-download-get-help = Algum problema? <a { $attrs }>Peça ajuda para sua instalação</a>.
 firefox-desktop-download-in-another-language = Baixar de outro idioma ou outro sistema operacional.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +185,7 @@ firefox-desktop-download-visit-support-for-more = Visite o suporte para obter ma
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não fornece mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas você ainda pode usar o { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Você está usando um sistema operacional desatualizado e não seguro, <a href="{ $url }">não mais suportado pelo { -brand-name-firefox }</a>.
