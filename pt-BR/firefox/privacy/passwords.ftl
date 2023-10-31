@@ -43,6 +43,8 @@ privacy-passwords-the-secret-to = O segredo de evitar adivinhação, roubo ou re
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Quando um invasor rouba o banco de dados de senhas de um site que você usa (como <a { $url_linkedin }>LinkedIn</a> ou <a { $url_yahoo }>Yahoo</a>), não há nada que você possa fazer a não ser mudar sua senha neste site. Isso é ruim, mas o dano pode ser muito pior se você usa a mesma senha em outros sites. Nesse caso, o invasor pode acessar suas contas nesses sites também. Para conter o dano, <strong>sempre use uma senha diferente em cada site</strong>.
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Use o <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> para ficar de olho nos endereços de email associados às suas contas. Se o seu endereço de email aparecer em um vazamento de dados conhecido de uma empresa, você será alertado e receberá instruções de como proteger a conta afetada.
 # Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Use o <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> para ficar de olho nos endereços de email associados às suas contas. Se o seu endereço de email aparecer em um vazamento de dados conhecido de uma empresa, você será alertado e receberá instruções de como proteger a conta afetada.
