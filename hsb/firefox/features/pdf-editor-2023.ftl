@@ -7,4 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-editor
+# page title
+pdf-editor-add-text-to-pdfs = Přidajće PDF-datajam tekst z PDF-editorom { -brand-name-firefox }
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Wobhladajće sej a wobdźěłajće PDF-dataje direktnje w { -brand-name-firefox }.
+pdf-editor-fill-in-forms-online-without = Wupjelńće formulary online, bjeztoho zo byšće je ćišćał a skenował
 pdf-editor-add-text = Tekst přidać
+pdf-editor-add-drawings-or-your-signature = Přidajće rysowanki (abo swoju signaturu)
