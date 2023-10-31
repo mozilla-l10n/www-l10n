@@ -10,6 +10,7 @@ vpn-download-page-description = Sćehńće { -brand-name-mozilla-vpn } za { -bra
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Móžeće { -brand-name-mozilla-vpn } na hač do { $devices } gratach z jednym abonementom sćahnyć.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } wěsty škit za wšě wažne dźěłowe systemy skići.
 vpn-download-not-available-in-country = Bohužel { -brand-name-mozilla-vpn } za sćehnjenje we wašim kraju k dispoziciji  njeje.
 vpn-download-button-copy = Sćahnyć
 # Obsolete string
@@ -35,6 +36,9 @@ vpn-download-for-ios-long-v2 = Sćehńće { -brand-name-mozilla-vpn } za { -bran
 vpn-download-for-ios-long = Sćehńće VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Wobstarajće so jón na { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Wobstarajće so jón na { -brand-name-app-store }
+vpn-download-based-on-your = Na zakładźe wašeho aktualneho grata
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
+vpn-download-privacy-you-can = Priwatnosć, kotrejž móžeće dowěrić
 vpn-download-also-available = Tež k dispoziciji za:
+vpn-download-we-never-log = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy.
 vpn-download-previous-versions = Sćehńće předchadne wersije za { -brand-name-windows } a { -brand-name-mac-short }
