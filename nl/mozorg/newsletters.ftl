@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla }-nieuwsbrief
 newsletters-read-all-about-it-in-our-newsletter = Lees er alles over in onze <span>nieuwsbrief</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Abonneer u hier om op de hoogte te blijven met nieuws van { -brand-name-mozilla }, actie te ondernemen voor een gezonder internet en uw online leven slimmer in te richten.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Abonneer u op updates en blijf op de hoogte van { -brand-name-mozilla }-nieuws. Voor ons de beste manier om contact te houden!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Nieuwsbriefbevestiging
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = U bent uitgeschreven.
 newsletters-were-sorry-to-see-you-go = We vinden het jammer dat u weggaat.
 newsletters-would-you-mind-telling-us = Wilt u ons vertellen waarom u weggaat?
 newsletters-other-v2 = Overig… (maximaal 500 tekens)
-# Outdated string
+# Obsolete string
 newsletters-other = Anders…
 newsletters-submit = Indienen
 newsletters-thanks-for-telling-us-why = Bedankt voor het melden van de reden van uw vertrek.
@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = Jullie inhoud was voor mij niet releva
 newsletters-your-email-design = Jullie e-mailontwerp was te moeilijk om te lezen.
 newsletters-i-didnt-sign-up = Ik heb me hier niet voor ingeschreven.
 newsletters-please-select-a-reason = Selecteer een reden voor uw opzegging.
+newsletters-fxa-error-retry = Het spijt ons, maar er is een probleem opgetreden bij het verwijzen naar de e-mailvoorkeuren. Probeer het onderstaande formulier.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = Meewerken
 newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Internet Health Report
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publiceert artikelen en verdiepende stukken over kwesties rondom internetgezondheid en betrouwbare AI, waaronder ons jaarlijkse Internetgezondheidsrapport.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Blijf op de hoogte met onze jaarlijkse samenvatting van onderzoek en verhalen op het gebied van privacy en beveiliging, openheid, digitale inclusiviteit, decentralisatie en webgeletterdheid.
@@ -191,7 +192,7 @@ newsletters-news-and-information = Nieuws en informatie gerelateerd aan het welz
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Voormalig University-programma van 2008-2011, nu niet meer actief en opnieuw geïntroduceerd als het { -brand-name-firefox } Student Ambassadors-programma.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Voormalig University-programma van 2008-2011, nu niet meer actief en opnieuw geïntroduceerd als het Firefox Student Ambassadors-programma.
 # Name for the newsletter in Newsletter subscription page
