@@ -119,7 +119,7 @@ newsletters-your-content-wasnt-relevant = 你們寄來的內容跟我一點關�
 newsletters-your-email-design = 你們的電子報設計太難閱讀。
 newsletters-i-didnt-sign-up = 我沒訂閱過這封信。
 newsletters-please-select-a-reason = 請選擇要取消訂閱的原因。
-newsletters-fxa-error-retry = 很抱歉將您導向電子郵件偏好設定時發生問題。請試試下面的表單。
+newsletters-fxa-error-retry = 很抱歉，將頁面跳轉到電子郵件偏好設定頁面時發生問題。請試用下面的表單。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
