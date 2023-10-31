@@ -57,7 +57,7 @@ does-firefox-sell = Da li { -brand-name-firefox } prodaje vaše lične podatke?
 
 nope-never-have = Ne. Nikada nije, nikad neće. I štitimo vas od mnogih oglašivača koji to čine. { -brand-name-firefox } proizvodi su dizajnirani da zaštite vašu privatnost. <a href="{ $url }">To je obećanje.</a>
 why-is-firefox = Zašto je { -brand-name-firefox } tako spor?
-firefox-isnt-slow = { -brand-name-firefox } nije spor... sada. U 2017. smo u potpunosti rekonstruisali naš motor pretraživača (nazvan Quantum), kako bismo osigurali da { -brand-name-firefox } može da se takmiči sa drugim velikim pretraživačima. A naši blokatori tragača pomažu da se stranice učitavaju još brže. Dakle, { -brand-name-firefox } je munjevito brz bez žrtvovanja vaše privatnosti.
+firefox-isnt-slow = { -brand-name-firefox } nije spor… sada. U 2017. smo u potpunosti rekonstruisali naš motor pretraživača (nazvan Quantum), kako bismo osigurali da { -brand-name-firefox } može da se takmiči sa drugim velikim pretraživačima. A naši blokatori tragača pomažu da se stranice učitavaju još brže. Dakle, { -brand-name-firefox } je munjevito brz bez žrtvovanja vaše privatnosti.
 is-firefox-chromium = Je li { -brand-name-firefox } zasnovan na { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } nije zasnovan na { -brand-name-chromium }u (projekat pretraživača otvorenog koda napravljeno za { -brand-name-google } { -brand-name-chrome }). U stvari, mi smo jedan od posljednjih velikih pretraživača koji to nije. { -brand-name-firefox } radi na našem Quantum pretraživaču napravljenom posebno za { -brand-name-firefox }, tako da možemo osigurati da se s vašim podacima rukuje s poštovanjem i da budu privatni.
 does-firefox-use = Da li { -brand-name-firefox } koristi { -brand-name-google }?
