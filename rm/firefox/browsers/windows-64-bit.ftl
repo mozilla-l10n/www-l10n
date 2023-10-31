@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Sche ti vesas «(32 bits)» ed utilises
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Sche ti stos utilisar { -brand-name-firefox } da 32 bits u installar manualmain { -brand-name-firefox } da 64 bits, pos ti simplamain telechargiar ed exequir il program d'installaziun da{ -brand-name-firefox } per { -brand-name-windows } (32 bits u 64 bits) che ti chattas sin la <a href="{ $all }">pagina da telechargiadas da { -brand-name-firefox } per las plattafurmas e las linguas correspundentas</a>.
 windows-64-bit-take-control-of-your = Obtegna la controlla da tes navigatur.
+windows-64-bit-download-firefox = Telechargiar { -brand-name-firefox } per Windows da 64 bits

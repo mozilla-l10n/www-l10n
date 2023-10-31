@@ -14,3 +14,5 @@ features-private-yes-firefox-protects-your = Gea. { -brand-name-firefox } proteg
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } protegia era tia sfera privata cun agid da la <a href="{ $url }">protecziun avanzada cunter il fastizar</a> cun bloccar fastizaders che ta suondan da website a website e rimnan infurmaziuns davart tias disas da navigar. Quai includa era protecziuns cunter scripts donnegius e malware.
+features-private-sidenote-we-are-not-big-tech = <em>Remartga a l'ur:</em> Nus n'essan nagin concern. Nus faschain tut in zic auter. Dad esser independent (nagins acziunaris) ans permetta da dar la prioritad a las persunas, betg al profit. Cuntrari ad autras interpresas, na vendain nus betg l'access a tias datas.
+features-private-what-information-does-firefox = Tge infurmaziuns rimna { -brand-name-firefox }?
