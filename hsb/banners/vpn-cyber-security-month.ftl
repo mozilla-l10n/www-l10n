@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+banner-vpn-cyber-get-annual-sub = Lětny abonement wotzamknyć
 banner-vpn-cyber-offer-ends = Poskitk so 31. oktobra 2023 skónči
