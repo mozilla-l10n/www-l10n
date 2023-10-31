@@ -18,13 +18,4 @@ bundle-feature-more-than-servers =
         [few] Wjace hač { $num_vpn_servers } serwery
        *[other] Wjace hač { $num_vpn_servers } serwerow
     }
-# Variables:
-#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
-bundle-feature-more-than-countries =
-    { $num_vpn_countries ->
-        [one] Wjace hač { $num_vpn_servers } kraj
-        [two] Wjace hač { $num_vpn_servers } krajej
-        [few] Wjace hač { $num_vpn_servers } kraje
-       *[other] Wjace hač { $num_vpn_servers } krajow
-    }
 bundle-feature-three = Spěšna a wěsta syć
