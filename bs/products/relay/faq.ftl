@@ -28,6 +28,18 @@ faq-question-use-cases-question-2 = Kada trebam koristiti { -brand-name-relay } 
 faq-question-use-cases-answer-part1-2 = Možete koristiti { -brand-name-relay } email maske na većini mjesta na kojima biste koristili svoju uobičajenu email adresu. Preporučujemo da ih koristite kada se prijavljujete za marketinške/informativne emailove gdje ćete možda htjeti kontrolisati hoćete li primati email u budućnosti.
 faq-question-use-cases-answer-part2-2 = Ne preporučujemo korištenje maski kada vam je potrebna potvrda identiteta ili za vrlo važne e-mailove ili one u kojima morate primati priloge. Na primjer, željeli biste podijeliti svoju pravu e-mail adresu sa bankom, svojim doktorom i advokatom, kao i kada primate karte za let ili koncert.
 faq-question-2-question-2 = Zašto web stranica neće prihvatiti moju { -brand-name-relay } email masku?
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-2-answer-v4 = Neke web stranice možda neće prihvatiti email adresu koja uključuje poddomenu (@subdomain.mozmail.com), a druge su prestale da prihvataju sve adrese osim onih sa Gmail, Hotmail ili Yahoo računa.
+faq-question-1-question = Šta je sa spamom?
+faq-question-1-answer-a-2 = Dok { -brand-name-relay } ne filtrira neželjenu poštu, naš email partner Amazon SES blokira neželjenu poštu i zlonamjerni softver. Ako { -brand-name-relay } prosljeđuje poruke koje ne želite, možete ažurirati postavke { -brand-name-relay }a da blokirate poruke iz maske koja ih prosljeđuje.
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-1-answer-b-2-html = Ako vidite širi problem neželjene pošte sa svih vaših maski, molimo <a href="{ $url }" { $attrs }>prijavite nam ovo</a> kako bismo mogli razmotriti prilagođavanje SES pragova neželjene pošte za ovu uslugu. Ako ih prijavite kao neželjenu poštu, vaš dobavljač pošte će vidjeti { -brand-name-relay } kao izvor neželjene pošte, a ne originalnog pošiljaoca.
+faq-question-availability-question = Gdje je { -brand-name-relay } dostupan?
+faq-question-availability-answer-v3 = Besplatan { -brand-name-relay } dostupan je u većini zemalja. { -brand-name-relay-premium } je dostupan u Austriji, Belgiji, Kanadi, Kipru, Estoniji, Finskoj, Francuskoj, Njemačkoj, Grčkoj, Irskoj, Italiji, Latviji, Litvaniji, Luksemburgu, Maleziji, Malti, Holandiji, Novom Zelandu, Portugalu, Singapuru, Slovačkoj, Sloveniji, Španiji, Švedskoj, Švajcarskoj, Ujedinjenom Kraljevstvu i Sjedinjenim Američkim Državama.
 
 ## Frequently Asked Questions about Phone plans
 
