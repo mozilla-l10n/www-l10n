@@ -85,3 +85,31 @@ firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Ne možemo vidjeti imena ili sadržaj velikih datoteka koje dijelite putem { -brand-name-firefox-send } jer su šifrovani s kraja na kraj — vi birate ko vidi šta šaljete, a možete čak i postaviti datum isteka i lozinku.
 firefox-privacy-hub-send-a-file = Pošalji datoteku
 firefox-privacy-hub-pocket = { -brand-name-pocket }
+firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } preporučuje visokokvalitetne članke koje su kreirali ljudi bez prikupljanja vaše historije pretraživanja ili dijeljenja vaših ličnih podataka sa oglašivačima.
+firefox-privacy-hub-get-pocket = Preuzmite { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Vaš { -brand-name-mozilla-account }
+# Obsolete string
+firefox-privacy-hub-your-firefox-account = Vaš { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Sve informacije sinhronizovane preko vašeg { -brand-name-mozilla-account }a — od historije pretraživača do lozinki — su šifrovane. A lozinka vašeg računa je jedini ključ.
+# Obsolete string
+firefox-privacy-hub-all-the-information-synced = Sve informacije sinhronizovane preko vašeg { -brand-name-firefox-account }a — od historije pretraživača do lozinki — su šifrovane. A lozinka vašeg računa je jedini ključ.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Ponesite svoju privatnost i oznake svuda sa { -brand-name-mozilla-account }om.
+# Obsolete string
+firefox-privacy-hub-take-your-privacy-and-bookmarks = Ponesite svoju privatnost i oznake svuda sa { -brand-name-firefox-account }om.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Već imate račun? <a { $sign_in } class="{ $class_name }">Prijavite se</a> ili <a href="{ $learn_more }">saznajte više</a> o pridruživanju { -brand-name-mozilla }i.
+# Obsolete string
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account = Već imate račun? <a { $sign_in } class="{ $class_name }">Prijavite se</a> ili <a href="{ $learn_more }">saznajte više</a> o pridruživanju { -brand-name-firefox }u.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-read-the-privacy-notice-for = Pročitajte <a href="{ $url }">Obavijest o privatnosti</a> za naše proizvode
+firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-privacy-hub-surf-stream-and-get-work = Surfajte, gledajte videozapise i obavljajte posao na serverima u preko 30 zemalja za sigurnu internetsku vezu s novom perspektivom.
+firefox-privacy-hub-get-mozilla-vpn = Preuzmite { -brand-name-mozilla-vpn }
