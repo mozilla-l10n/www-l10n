@@ -40,6 +40,15 @@ faq-question-1-answer-a-2 = Dok { -brand-name-relay } ne filtrira neželjenu po�
 faq-question-1-answer-b-2-html = Ako vidite širi problem neželjene pošte sa svih vaših maski, molimo <a href="{ $url }" { $attrs }>prijavite nam ovo</a> kako bismo mogli razmotriti prilagođavanje SES pragova neželjene pošte za ovu uslugu. Ako ih prijavite kao neželjenu poštu, vaš dobavljač pošte će vidjeti { -brand-name-relay } kao izvor neželjene pošte, a ne originalnog pošiljaoca.
 faq-question-availability-question = Gdje je { -brand-name-relay } dostupan?
 faq-question-availability-answer-v3 = Besplatan { -brand-name-relay } dostupan je u većini zemalja. { -brand-name-relay-premium } je dostupan u Austriji, Belgiji, Kanadi, Kipru, Estoniji, Finskoj, Francuskoj, Njemačkoj, Grčkoj, Irskoj, Italiji, Latviji, Litvaniji, Luksemburgu, Maleziji, Malti, Holandiji, Novom Zelandu, Portugalu, Singapuru, Slovačkoj, Sloveniji, Španiji, Švedskoj, Švajcarskoj, Ujedinjenom Kraljevstvu i Sjedinjenim Američkim Državama.
+faq-question-landing-page-availability = Besplatan { -brand-name-relay } dostupan je u većini zemalja. { -brand-name-relay-premium } email maskiranje dostupno je u Sjedinjenim Državama, Njemačkoj, Ujedinjenom Kraljevstvu, Kanadi, Singapuru, Maleziji, Novom Zelandu, Francuskoj, Belgiji, Austriji, Španiji, Italiji, Švicarskoj, Holandiji i Irskoj. { -brand-name-relay-premium } maskiranje telefona dostupno je samo u SAD-u i Kanadi.
+faq-question-4-question-2 = Mogu li odgovoriti na poruke koristeći svoju { -brand-name-relay } email masku?
+faq-question-4-answer-v4 = { -brand-name-relay-premium } korisnici mogu odgovoriti na proslijeđeni e-mail u roku od 3 mjeseca od prijema e-maila. Ako dodate CC ili BCC kada odgovorite na e-mail, vaša originalna e-mail adresa će biti otkrivena primaocu i one kopirane na e-mail. Ako ne želite da vaša originalna e-mail adresa bude izložena, nemojte dodavati CC ili BCC-ove kada odgovarate.
+faq-question-subdomain-characters-question = Koje znakove mogu koristiti za kreiranje poddomena?
+faq-question-subdomain-characters-answer-v2 = Za kreiranje poddomena možete koristiti samo mala engleska slova, brojeve i crtice.
+faq-question-browser-support-question = Mogu li koristiti { -brand-name-relay } na drugim pretraživačima ili na svom mobilnom uređaju?
+faq-question-browser-support-answer-2 = Da, možete generisati maske { -brand-name-relay } na drugim pretraživačima ili mobilnim uređajima jednostavnim prijavljivanjem na svoju { -brand-name-relay } kontrolnu tablu.
+faq-question-longevity-question = Šta se dešava ako { -brand-name-mozilla } isključi uslugu { -brand-name-firefox-relay }?
+faq-question-longevity-answer-2 = Obavijestit ćemo vas unaprijed da morate promijeniti e-mail adresu svih računa koji koriste { -brand-name-relay } e-mail maske.
 
 ## Frequently Asked Questions about Phone plans
 
