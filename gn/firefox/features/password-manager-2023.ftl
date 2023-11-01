@@ -21,6 +21,7 @@ password-manager-with-a-free-mozilla-account = Peteĩ <a href="{ $fxa }">{ -bran
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Peteĩ <a href="{ $fxa }">mba’ete { -brand-name-firefox } reigua</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okakuérare.
 password-manager-password-autofill-for-easy-logins = Ñe’ẽñemi myanyhẽ jehegui tembiapo ñepyrũrã
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } omyanyhẽkuaa ijehegui nde poruhára réra ha ñe’ẽñemi ñongatupyre. Eguerekovéramo peteĩgui tembiapo ñepyrũpyre tendápe, eiporavokuaa oimeraẽva mba’ete ha oĩma.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Myanyhẽha tembiapo ñepyrũ ra’ãnga ñanduti rendápe { -brand-name-firefox } ndive ohechaukávo heta mba’ete ñongatupyre eiporavo hag̃ua eikekuévo.
 password-manager-import-passwords = Ñe’ẽñemi jegueru
