@@ -56,6 +56,8 @@ privacy-passwords-now-all-of = Agora, tudo isso parece um tanto intimidante. A m
 # Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Quando você está na sua Conta { -brand-name-firefox } no navegador { -brand-name-firefox }, pode sincronizar entre todos os seus dispositivos e acessar suas senhas em um navegador { -brand-name-firefox } para dispositivos móveis. Saiba mais sobre <a { $url_sumo-manager }>como usar o gerenciador de senhas integrado</a> ao máximo.
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Quando você está conectado no { -brand-name-firefox } com sua { -brand-name-mozilla-account }, pode sincronizar entre todos os seus dispositivos e acessar suas senhas no navegador { -brand-name-firefox } para dispositivos móveis. Saiba mais sobre <a { $url_sumo_manager }>como aproveitar ao máximo o gerenciador de senhas integrado</a>.
 privacy-passwords-twofactor-authentication-2fa = Autenticação em duas etapas
 privacy-passwords-2fa-is-a = Autenticação em duas etapas é uma ótima maneira de aumentar a segurança. Ao criar uma nova conta, alguns sites oferecem opção de adicionar um “segundo fator” ao acesso. Com frequência, significa vincular a conta ao número de seu celular, de modo que, após digitar a senha, é solicitado informar um código de segurança enviado diretamente a você. Dessa forma, se um hacker conseguir a senha, mesmo assim não consegue entrar em sua conta, uma vez que não está com seu celular.
 # Obsolete string
