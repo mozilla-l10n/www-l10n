@@ -13,7 +13,7 @@ newsletters-mozilla-newsletter = Новостная рассылка { -brand-na
 newsletters-read-all-about-it-in-our-newsletter = Узнайте все новости из нашей <span>новостной рассылки</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Подпишитесь здесь, чтобы быть в курсе новостей { -brand-name-mozilla }, принимать меры для оздоровления Интернета и узнать больше о своей жизни в Интернете.
-# Outdated string
+# Obsolete string
 newsletters-subscribe-to-updates-and-keep = Подпишитесь на обновления и оставайтесь в курсе новостей { -brand-name-mozilla }. Это отличный способ быть с нами на связи!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Подтверждение новостной рассылки
@@ -86,7 +86,7 @@ newsletters-youve-been-unsubscribed = Вы отписались от рассы�
 newsletters-were-sorry-to-see-you-go = Нам жаль, что вы уходите.
 newsletters-would-you-mind-telling-us = Вы не возвражаете, если мы спросим, почему вы нас покидаете?
 newsletters-other-v2 = Другое… (максимум 500 символов)
-# Outdated string
+# Obsolete string
 newsletters-other = Другое…
 newsletters-submit = Подписаться
 newsletters-thanks-for-telling-us-why = Спасибо, что рассказали нам, почему вы отписываетесь.
@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = Содержимое писем был
 newsletters-your-email-design = Стиль изложения ваших писем слишком трудный для чтения.
 newsletters-i-didnt-sign-up = Я на это не подписывался(лась).
 newsletters-please-select-a-reason = Пожалуйста, выберите причину отказа от подписки.
+newsletters-fxa-error-retry = Приносим извинения, но при перенаправлении вас к настройкам электронной почты возникла проблема. Пожалуйста, попробуйте форму ниже.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = Примите участие
 newsletters-insights = Аналитика
 # Obsolete string
 newsletters-internet-health-report = Доклад о здоровье Интернета
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } публикует статьи и глубоко погружается в вопросы, касающиеся здоровья Интернета и надёжного ИИ, включая наш ежегодный отчёт о здоровье Интернета.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Следите за нашей ежегодной подборкой исследований и материалов по вопросам приватности и безопасности, открытости, цифровой вовлечённости, децентрализации и веб-грамотности.
@@ -191,7 +192,7 @@ newsletters-news-and-information = Новости и информация о з�
 newsletters-student-reps = Студенты-послы
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Университетская программа, действовавшая с 2008 по 2011 год, в настоящее время упразднена и перезапущена в виде программы { -brand-name-firefox } Student Ambassadors.
-# Outdated String
+# Obsolete string
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program = Бывшая программа университета с 2008-2011, сейчас прекращена и возобновлена как программа студентов-послов Firefox.
 # Name for the newsletter in Newsletter subscription page
