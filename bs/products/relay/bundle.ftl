@@ -27,3 +27,12 @@ bundle-feature-more-than-servers =
         [few] Više od { $num_vpn_servers } servera
        *[other] Više od { $num_vpn_servers } servera
     }
+# Variables:
+#   $num_vpn_countries (string) - the number of VPN available countries. Examples: 30, 40, 50
+bundle-feature-more-than-countries =
+    { $num_vpn_countries ->
+        [one] Više od { $num_vpn_countries } zemlje
+        [few] Više od { $num_vpn_countries } zemlje
+       *[other] Više od { $num_vpn_countries } zemalja
+    }
+bundle-feature-three = Brza i sigurna mreža
