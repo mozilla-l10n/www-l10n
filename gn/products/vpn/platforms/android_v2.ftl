@@ -18,3 +18,4 @@ vpn-android-browse-the-internet = Eikundaha ñandutípe ehechauka’ỹre ne ren
 vpn-android-be-more-comfortable = Eñeñanduporãve eiporúvo Wi-Fi opavavegua kafe, aviõguejyha ha hetave.
 vpn-android-avoid-intrusive = Emboyke ñemurã kañygua ne rendaite reheguáva.
 vpn-android-the-mozilla-vpn-mobile = Pe tembiporu’i pumbyrygua { -brand-name-mozilla-vpn } michĩ, upévare sa’i oiporu marandurenda ha nomombeguemo’ãi ne pumbyry ha avei hi’arevéta nde batería.
+vpn-android-unlike-free = Ojuavýva VPN reiguávagui térã proxy rendakuéra, ohepyme’ẽkuaáva ijapopyvusu oma’ẽñemi ha ohepyme’ẽvo ne marandu, { -brand-name-mozilla } noñongatúi nde rapykuere ha mba’épa rejapo.
