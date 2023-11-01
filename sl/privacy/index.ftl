@@ -44,3 +44,5 @@ privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = Naročniške storitve { -brand-name-mozilla(sklon: "rodilnik") }
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = Računi { -brand-name-mozilla }
