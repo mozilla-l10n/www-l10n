@@ -49,3 +49,4 @@ privacy-index-firefox-fire-tv = مُتصفح { -brand-name-firefox } لنظام 
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } خدمات الاشتراك
+

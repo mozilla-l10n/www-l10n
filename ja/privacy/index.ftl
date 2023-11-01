@@ -49,3 +49,4 @@ privacy-index-firefox-fire-tv = { -brand-name-fire-tv } 用 { -brand-name-firefo
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } のサブスクリプションサービス
+

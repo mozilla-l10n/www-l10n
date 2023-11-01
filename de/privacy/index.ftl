@@ -49,3 +49,4 @@ privacy-index-firefox-fire-tv = { -brand-name-firefox } für { -brand-name-fire-
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } Abonnementdienste
+
