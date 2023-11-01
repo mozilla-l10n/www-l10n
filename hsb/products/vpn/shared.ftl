@@ -146,7 +146,7 @@ vpn-shared-increase-your-privacy = Polěpšće swoju priwatnosć z { -brand-name
 vpn-add-relay-to-protect = Přidajće swojemu abonementej { -brand-name-firefox-relay }, zo byšće swoju e-mejlowu adresu a telefonowe čisło škitał. <a href="{ $url }">Dalše informacije</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
-vpn-shared-add-firefox-relay = Přidajće <span class="{ $class_name }">{ -brand-name-firefox-relay }
+vpn-shared-add-firefox-relay = Přidajće <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = E-mejlowe maskowanje
 vpn-shared-relay-phone-masking = Telefonowe maskowanje
 vpn-shared-get-vpn-plus-relay = Wobstarajće sej { -brand-name-vpn } + { -brand-name-relay }
