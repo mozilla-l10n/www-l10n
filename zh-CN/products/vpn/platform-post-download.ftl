@@ -47,7 +47,7 @@ vpn-download-faq-why-use = 为什么要使用 { -brand-name-mozilla-vpn }
 vpn-download-faq-as-more-daily = 随着互联网的普及，线上隐私和安全变得愈发重要。 VPN（<a href="{ $faq }">虚拟专用网络</a>）可以在您的设备与互联网之间创建一条加密隧道。为保障您网络连接的安全与私密，我们主要会采取以下两种途径：
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-download-faq-concealing-ip = 隐藏您的真实<a href="{ $ip }">IP 地址</a>，这有助于保护您的身份信息并向网站掩藏您的位置。
+vpn-download-faq-concealing-ip = 掩藏您的真实<a href="{ $ip }">IP 地址</a>，这有助于保护您的身份信息并向网站掩藏您的位置。
 vpn-download-faq-encrypting = 加密您的互联网流量：这样任何人都无法监视您的在线活动。
 vpn-download-faq-working = 如何知道 VPN 是否正常工作？
 # Variables:
