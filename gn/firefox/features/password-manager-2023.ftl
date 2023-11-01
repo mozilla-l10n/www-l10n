@@ -31,3 +31,7 @@ password-manager-no-more-reusing-your-passwords = Anive eiporujo’a ñe’ẽñ
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Myanyhẽha mboheraguapyrã ra’ãnga ñanduti renda { -brand-name-firefox } ndive osẽvo ñe’ẽñemi hekorosãva ijatýtava ijehegui eiporu hag̃ua tenondeve.
 password-manager-password-security-alerts = Kyhyjerã ñe’ẽñemi rekorosãrã
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ne momarandu ñe’ẽñemi ivaikuaárõ</a> mba’ekuaarã ñemboguápe emoambuekuaa hag̃ua mba’evaiapoha ojapo mboyve, ikatukuaáva Lamborghini jeporu sapy’agua nde kuatia’atã ñemurã reheve.
