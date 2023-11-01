@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Não precisa ter conta para usar. Mas pode ser interessante.
+whatsnew-account-main-lead-in-v2 = O navegador { -brand-name-firefox } coleta pouquíssimos dados sobre você, não precisamos nem do seu endereço de email. Mas quando você o usa para criar uma { -brand-name-mozilla-account }, passa a ter acesso a uma grande variedade de produtos de proteção de privacidade, além do { -brand-name-firefox }.
 whatsnew-account-mozilla-cta = Tenha uma { -brand-name-mozilla-account }
 
 ##
