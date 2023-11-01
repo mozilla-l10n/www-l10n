@@ -45,4 +45,41 @@ privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = Služby předplatného { -brand-name-mozilla(case: "gen") }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
-privacy-index-mozilla-accounts = Účty { -brand-name-mozilla(case: "gen") }
+privacy-index-mozilla-accounts =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] účtů { -brand-name-mozilla }
+               *[upper] Účtů { -brand-name-mozilla }
+            }
+        [dat]
+            { $capitalization ->
+                [lower] účtům { -brand-name-mozilla }
+               *[upper] Účtům { -brand-name-mozilla }
+            }
+        [acc]
+            { $capitalization ->
+                [lower] účty { -brand-name-mozilla }
+               *[upper] Účty { -brand-name-mozilla }
+            }
+        [voc]
+            { $capitalization ->
+                [lower] účty { -brand-name-mozilla }
+               *[upper] Účty { -brand-name-mozilla }
+            }
+        [loc]
+            { $capitalization ->
+                [lower] účtech { -brand-name-mozilla }
+               *[upper] Účtech { -brand-name-mozilla }
+            }
+        [ins]
+            { $capitalization ->
+                [lower] účty { -brand-name-mozilla }
+               *[upper] Účty { -brand-name-mozilla }
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účty { -brand-name-mozilla }
+               *[upper] Účty { -brand-name-mozilla }
+            }
+    }

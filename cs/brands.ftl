@@ -799,8 +799,8 @@
             }
         [ins]
             { $capitalization ->
-                [lower] účtami Mozilla
-               *[upper] Účtami Mozilla
+                [lower] účty Mozilla
+               *[upper] Účty Mozilla
             }
        *[nom]
             { $capitalization ->
