@@ -15,3 +15,12 @@ page7-do-it-for-the-gram = Uradite to i za Instagram
 page7-facebook-container-also-works = { -brand-name-facebook-container } radi i na ostalim web stranicama u { -brand-name-facebook }ovom vlasništvu, poput { -brand-name-instagram }a, { -brand-name-facebook-messenger }a i { -brand-name-workplace }a.
 page7-make-them-unfollow-you = Onemogući im praćenje
 page7-that-sneaky-little-button = To malo lukavo dugme
+page7-those-innocent-looking-f-buttons = Te { -brand-name-facebook }ve F-tipke nevinog izgleda prate tvoju aktivnost na webu, čak i ako nemaš račun. { -brand-name-facebook-container } ih blokira.
+page7-stay-ahead-of-hackers = Budi korak ispred hakera
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } vam omogućava da saznate šta hakeri već znaju o vama i pomaže vam da ostanete korak ispred njih. (I to je besplatno.)
+# Obsolete string
+page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } vam omogućava da saznate šta hakeri već znaju o vama i pomaže vam da ostanete korak ispred njih. (I to je besplatno.)
+page7-get-mozilla-monitor = Preuzmite { -brand-name-mozilla-monitor }
+# Obsolete string
+page7-get-firefox-monitor = Preuzmite { -brand-name-firefox-monitor }
+page7-why-am-i-seeing-this = Zašto mi se ovo prikazuje?
