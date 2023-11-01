@@ -44,3 +44,5 @@ privacy-index-firefox-fire-tv = { -brand-name-firefox } per { -brand-name-fire-t
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = Servizi { -brand-name-mozilla } in abbonamento
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = Account { -brand-name-mozilla }
