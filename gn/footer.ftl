@@ -11,30 +11,30 @@ footer-corporate-blog = Blog oñondivegua
 footer-browser-comparison = Kundahára Atyguasu
 footer-brand-standards = Marca reko’ypy
 footer-browsers = Kundahára
-# Outdated string
+# Obsolete string
 footer-desktop = Mba’erechaha
-# Outdated string
+# Obsolete string
 footer-mobile = Pumbyry popegua
-# Outdated string
+# Obsolete string
 footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
+# Obsolete string
 footer-products = Mba’e
-# Outdated string
+# Obsolete string
 footer-lockwise = { -brand-name-lockwise }
-# Outdated string
+# Obsolete string
 footer-monitor = { -brand-name-monitor }
-# Outdated string
+# Obsolete string
 footer-send = { -brand-name-send }
-# Outdated string
+# Obsolete string
 footer-pocket = { -brand-name-pocket }
-# Outdated string
+# Obsolete string
 footer-join = Jejuaju
-# Outdated string
+# Obsolete string
 footer-sign-up = Eñemboheraguapy
-# Outdated string
+# Obsolete string
 footer-sign-in = Tembiapo ñepyrũ
-# Outdated string
+# Obsolete string
 footer-benefits = Mba’eporã
 footer-developers = Mboguataha
 footer-developer-edition = { -brand-name-developer-edition }
@@ -46,13 +46,13 @@ footer-visit-mozilla-corporations = Eike <a { $moco_link }>{ -brand-name-mozilla
 footer-portions-of-this-content = Ko tetepy vore ha’e ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩva. Pe tetepy ejuhukuaa ko’ápe <a rel="license" href="{ $url }">{ -brand-name-creative-commons } moneĩmby</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Atyguasu
-# Outdated string
+# Obsolete string
 footer-about = Rehegua
 footer-press-center = Kuatiahaiha rendaite
 footer-careers = Ñeñani
-# Outdated string
+# Obsolete string
 footer-test-new-features = Eiporu tembiapoite pyahu
-# Outdated string
+# Obsolete string
 footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Tembiporu
 footer-resources = Mba’eita
@@ -62,7 +62,7 @@ footer-support = Ñepytyvõ
 footer-file-a-bug = Emomarandu jejavy
 footer-localize-mozilla = Emoñe’ẽasa { -brand-name-mozilla }
 footer-community-participation-guidelines = Mba’éichapa eikekuaa tekohápe
-footer-websites-privacy-notice = Ñekundaha
+footer-websites-privacy-notice = Ñeikundaha
 footer-websites-cookies = Kookie
 footer-websites-legal = Añetegua
 footer-language = Ñe’ẽ
