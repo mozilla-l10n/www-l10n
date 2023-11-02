@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
 # Variables:
 #   $version (number) - Firefox Nightly release major version number
@@ -11,13 +11,20 @@ nightly-whatsnew-youve-just-been = Sće runje na { -brand-name-firefox-nightly }
 nightly-whatsnew-your-firefox-nightly = Waš { -brand-name-firefox-nightly } je so zaktualizował.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Kóžde 4 do 5 tydźenjow so nowa kónčna wersija { -brand-name-firefox } wozjewja a tohodla so wersijowe čisło { -brand-name-nightly } tež powyša.
-# Obsolete
+# Obsolete string
 nightly-whatsnew-every-6-to-8-weeks = Kóžde 6 do 8 tydźenjow so nowa kónčna wersija { -brand-name-firefox } wozjewja a tohodla so wersijowe čisło { -brand-name-nightly } tež powyša.
 nightly-whatsnew-this-is-a-good = Při tutej składnosći dźakujemy so za wašu pomoc při polěpšenju { -brand-name-firefox } a pokazujemy was na dokumentaciju, komunikaciske kanale a websydła za nowinki, kotrež so na { -brand-name-nightly } poćahuja a kotrež móhli was zajimować.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Jeli chceće wědźeć, štož so dokoławokoło { -brand-name-nightly } a jeho zhromadźenstwa stawa, čitajće najprjedy naš <a href="{ $blog }">blog</a> a slědujće nam na <a href="{ $mastodon }">Mastodon</a> abo <a href="{ $twitter }">Twitter</a>!
+# Obsolete string
 nightly-whatsnew-if-you-want-to = Jeli chceće wědźeć, štož so dokoławokoło { -brand-name-nightly } a jeho zhromadźenstwa stawa, čitajće najprjedy naš <a href="{ $blog }">blog</a> a slědujće nam na <a href="{ $twitter }">{ -brand-name-twitter }</a>!
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v2 = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu nastajenjow <a { $attrs }>eksperimentow Nightly</a>.
+# Obsolete string
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu z <a href="{ $mdn }">eksperimentelnymi funkcijemi</a> na <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.

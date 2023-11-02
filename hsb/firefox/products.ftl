@@ -13,6 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } je jenož spočatk
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Je cyła produktowa swójba, kotraž je za to myslena, zo sće wěsćiši a bóle inteligentny online.
+firefox-products-mozillas-family-of-products = Produktowa swójba { -brand-name-mozilla } je za to myslena, zo sće wěsćiši a bóle inteligentny online
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>wjace</strong> hač wobhladowak
