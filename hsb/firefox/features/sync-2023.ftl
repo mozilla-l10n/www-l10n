@@ -7,6 +7,13 @@
 
 # page title
 features-sync-firefox-browser-sync = Synchronizacija wobhladowaka { -brand-name-firefox }
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrujće so za darmotne { -brand-name-mozilla-account }</a> a móžeće swoje daty wšudźe synchronizować, hdźež  { -brand-name-firefox } a druhe produkty { -brand-name-mozilla } wužiwaće.
+# Obsolete string
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Registrujće so za darmotne { -brand-name-mozilla-account }</a> a móžeće swoje daty wšudźe synchronizować, hdźež swój wobhladowak { -brand-name-firefox } wužiwaće.
+# Obsolete string
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrujće so za darmotne konto { -brand-name-firefox }</a> a móžeće swoje daty wšudźe synchronizować, hdźež swój wobhladowak { -brand-name-firefox } wužiwaće.
 features-sync-send-tabs-from-one-device-to-another = Sćelće rajtarki wot jednoho grata do druheho
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałoženskeho menija { -brand-name-firefox }, kotryž nastajenje „Rajtark na grat pósłać“ wuzběhuje.

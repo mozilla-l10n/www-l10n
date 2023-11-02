@@ -15,6 +15,9 @@ firefox-desktop-download-meta-desc = Wobstarajće sej { -brand-name-firefox }, d
 firefox-desktop-download-og-title = Sćehńće dotal najspěšniši { -brand-name-firefox }
 firefox-desktop-download-og-desc = Strony so spěšnišo začitaja, mjenje składa so wužiwa a z wjele funkcijemi: Nowy { -brand-name-firefox } je wušoł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Samo nowši { -brand-name-firefox } je k dispoziciji. <a { $update_url }>Nan najnowšu wersiju aktualizować</a>
 firefox-desktop-download-get-the-browser = Wobstarajće sej wobhladowak, kotryž škita, štož je wažne.
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Žane dwělomne prawidła priwatnosće abo zadnje durčki za wabjerjow. Jenož błyskospěšny wobhladowak, kotryž was njewobšudźa.
