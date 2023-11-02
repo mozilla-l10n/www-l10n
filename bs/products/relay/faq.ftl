@@ -72,6 +72,36 @@ faq-question-acceptable-use-answer-measure-account-v2 = Potreban je { -brand-nam
 # Obsolete string
 faq-question-acceptable-use-answer-measure-account = Potreban je { -brand-name-firefox-account } sa verifikovanom email adresom
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Zahtijeva se plaćanje ako korisnik želi da kreira više od pet maski
+faq-question-acceptable-use-answer-measure-rate-limit-2 = Kontrola broja maski koje se mogu generisati u jednom danu
+#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-b-html = Za više informacija pogledajte naše <a href="{ $url }" { $attrs }>Uslove korištenja</a>.
+faq-question-promotional-email-blocking-question = Šta je blokiranje promotivnog emaila?
+faq-question-promotional-email-blocking-answer = { -brand-name-relay-premium } pretplatnici mogu omogućiti blokiranje promotivnog emaila. Ova funkcija će vam proslijediti važne emailove, kao što su priznanice, poništavanje lozinke i potvrde, dok će i dalje blokirati marketinške poruke. Postoji mali rizik da bi važna poruka i dalje mogla biti blokirana, pa preporučujemo da ne koristite ovu funkciju za vrlo važna mjesta kao što je vaša banka. Ako je email blokiran, ne može se vratiti.
+faq-question-detect-promotional-question = Kako { -brand-name-relay } otkriva da li je email promotivni ili ne?
+faq-question-detect-promotional-answer = Mnogi emailovi se šalju s metapodacima “zaglavlja” kako bi se naznačilo da su iz automatizovanih alata baziranih na listi. { -brand-name-firefox-relay } otkriva ove podatke zaglavlja tako da može blokirati ove emailove.
+faq-question-disable-trackerremoval-question = Mogu li zaustaviti uklanjanje email pratilaca?
+faq-question-disable-trackerremoval-answer = Da. Ako imate problema s emailovima koji izgledaju pokvareno ili želite da prestanete da uklanjate pratioce, možete onemogućiti tu funkciju u postavkama.
+faq-question-bulk-trackerremoval-question = Mogu li ukloniti pratioce samo na nekim od mojih email maski?
+faq-question-bulk-trackerremoval-answer = Uklanjanje pratilaca možete uključiti samo na nivou računa – ili uklanja pratioce iz svih vaših emailova ili nijednu od njih.
+faq-question-trackerremoval-breakage-question = Zašto moji emailovi izgledaju pokvareno?
+faq-question-trackerremoval-breakage-answer-2 = Ponekad uklanjanje pratilaca može uzrokovati da vaš email izgleda pokvareno jer se pratioci često nalaze u slikama i linkovima. Kada se uređaj za praćenje ukloni, email izgleda kao da je pogrešno formatiran jer nedostaju slike. Ovo se ne može popraviti za emailove koje ste već primili. Ako vas to sprječava da pravilno čitate email, isključite uklanjanje pratilaca.
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Šta je maska telefonskog broja?
+phone-masking-faq-answer-what-is = Slično maski emaila, maska telefonskog broja je telefonski broj koji može proslijediti SMS-ove i pozive na vaš pravi broj telefona bez otkrivanja vašeg pravog broja osobi koja vas zove ili šalje.
+phone-masking-faq-question-where-is = Gdje je dostupno maskiranje telefona?
+phone-masking-faq-answer-where-is = U ovom trenutku, maskiranje telefonskog broja dostupno je samo u Sjedinjenim Državama i Kanadi. To znači da možete primati samo proslijeđene pozive i poruke sa američkih ili kanadskih brojeva. Radimo na pronalaženju načina da ponudimo maskiranje telefonskih brojeva izvan ove dvije zemlje.
+phone-masking-faq-question-how-many = Koliko telefonskih maski dobijam?
+phone-masking-faq-answer-how-many = Trenutno dobijate samo jednu masku za broj telefona. Jednom kada odaberete masku za broj telefona, ne možete je kasnije promijeniti.
+phone-masking-faq-question-change-phone-mask = Mogu li promijeniti masku telefona?
+phone-masking-faq-answer-change-phone-mask = Ne, ne možete promijeniti masku svog telefonskog broja nakon što je odaberete. Istražujemo ovu opciju.
+phone-masking-faq-question-can-reply = Mogu li odgovarati na poruke?
+phone-masking-faq-answer-can-reply = Da, možete odgovoriti na posljednju poruku koju ste primili. Samo odgovorite kao na bilo koju tekstualnu poruku.
+phone-masking-faq-question-forwarded-texts = Koje vrste tekstova će biti proslijeđene?
+phone-masking-faq-answer-forwarded-texts = Mogu se prosljeđivati samo SMS tekstualne poruke. MMS tekstovi koji uključuju fotografije, video zapise itd. neće biti proslijeđeni.
+phone-masking-faq-question-pictures = Mogu li slati ili primati slike putem teksta?
+phone-masking-faq-answer-pictures = Ne, samo SMS tekstualne poruke se mogu prosljeđivati ili slati kao odgovori.
+phone-masking-faq-question-historical = Mogu li odgovoriti na tekstualne poruke iz historije?
+phone-masking-faq-answer-historical = Trenutno ne možete odgovarati na poruke koje ste ranije primili, iako je ova funkcija u toku.
