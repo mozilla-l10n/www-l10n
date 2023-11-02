@@ -20,5 +20,13 @@ password-manager-with-a-free-mozilla-account = Με έναν <a href="{ $fxa }">
 password-manager-with-a-free-firefox-account = Με έναν <a href="{ $fxa }">δωρεάν λογαριασμό { -brand-name-firefox }</a>, μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας.
 password-manager-password-autofill-for-easy-logins = Αυτόματη συμπλήρωση κωδικών πρόσβασης για εύκολη σύνδεση
 password-manager-firefox-can-automatically-fill-in = Το { -brand-name-firefox } μπορεί να συμπληρώσει αυτόματα τα αποθηκευμένα στοιχεία σύνδεσής σας. Εάν διαθέτετε περισσότερες από μία συνδέσεις για έναν ιστότοπο, μπορείτε απλώς να επιλέξετε τον λογαριασμό που θέλετε και εμείς θα αναλάβουμε τα υπόλοιπα.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Εικόνα της φόρμας σύνδεσης ενός ιστοτόπου με το { -brand-name-firefox } να εμφανίζει πολλαπλούς αποθηκευμένους λογαριασμούς για να διαλέξετε κατά τη σύνδεση.
 password-manager-import-passwords = Εισαγωγή κωδικών πρόσβασης
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Εικόνα του βοηθού εισαγωγής του { -brand-name-firefox }, ο οποίος εμφανίζει επιλογές για εισαγωγή ρυθμίσεων και δεδομένων από άλλα προγράμματα περιήγησης.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Εικόνα της φόρμας εγγραφής ενός ιστοτόπου με το { -brand-name-firefox } να προτείνει έναν ισχυρό κωδικό πρόσβασης που θα αποθηκεύσει αυτόματα για μελλοντική χρήση.
 password-manager-password-security-alerts = Ειδοποιήσεις ασφαλείας κωδικών πρόσβασης
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Εικόνα της διαχείρισης κωδικών πρόσβασης του { -brand-name-firefox } που εμφανίζει την ειδοποίηση «Αυτός ο κωδικός πρόσβασης έχει χρησιμοποιηθεί σε άλλο λογαριασμό με πιθανή παραβίαση δεδομένων. Η επαναχρησιμοποίηση διαπιστευτηρίων θέτει σε κίνδυνο όλους τους λογαριασμούς σας. Αλλάξτε αυτόν τον κωδικό πρόσβασης.»
