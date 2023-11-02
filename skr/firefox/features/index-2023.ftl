@@ -5,4 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-bookmark-manager = نشانی منیجر
+features-index-private-browsing-mode = نجی براؤزنگ موڈ
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
+features-index-fingerprint-blocking = فنگر پرنٹ بلاک کرݨ
+features-index-ad-tracker-blocking = مشہوری ٹریکر روکݨ
+features-index-firefox-automatically-blocks = { -brand-name-firefox } آپݨے آپ 2000 کنوں ودھ مشہوری ٹریکراں کوں تہاکوں فالو کرݨ کنوں بلاک کر ݙیندے۔
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = { -brand-name-firefox } دے بلٹ ان فنگر پرنٹنگ بلاکرز دے نال اپݨے نیڑے تیڑے چمبڑیئے اشتہاراں کوں ختم کرو۔
+features-index-translate-the-web = ویب دا ترجمہ کرو
