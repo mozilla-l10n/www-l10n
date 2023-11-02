@@ -49,6 +49,20 @@ faq-question-browser-support-question = Mogu li koristiti { -brand-name-relay } 
 faq-question-browser-support-answer-2 = Da, možete generisati maske { -brand-name-relay } na drugim pretraživačima ili mobilnim uređajima jednostavnim prijavljivanjem na svoju { -brand-name-relay } kontrolnu tablu.
 faq-question-longevity-question = Šta se dešava ako { -brand-name-mozilla } isključi uslugu { -brand-name-firefox-relay }?
 faq-question-longevity-answer-2 = Obavijestit ćemo vas unaprijed da morate promijeniti e-mail adresu svih računa koji koriste { -brand-name-relay } e-mail maske.
+faq-question-mozmail-question-2 = Zašto su moje email maske počele koristiti domenu “mozmail.com?”
+faq-question-mozmail-answer-2 = Prebacili smo se sa “relay.firefox.com” na “mozmail.com” kako bismo omogućili dobivanje prilagođene email poddomene, kao što je mask@yourdomain.mozmail.com. Prilagođene email poddomene, dostupne { -brand-name-relay-premium } pretplatnicima, omogućavaju vam generiranje email maski koje se lakše pamte.
+faq-question-attachments-question = Hoće li { -brand-name-firefox-relay } prosljeđivati e-mailove sa prilozima?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Sada podržavamo prosljeđivanje priloga. Međutim, postoji ograničenje od { $size } MB za prosljeđivanje e-maila korištenjem { -brand-name-relay }. E-mailovi veći od { $size } MB neće biti proslijeđeni.
+faq-question-unsubscribe-domain-question-2 = Šta se dešava sa mojom prilagođenom poddomenom ako otkažem pretplatu na { -brand-name-relay-premium }?
+faq-question-unsubscribe-domain-answer-2 = Ako pređete na stariju verziju sa { -brand-name-relay-premium }, i dalje ćete primati emailove proslijeđene putem prilagođenih email maski, ali više nećete moći kreirati nove maske koristeći tu poddomenu. Ako ukupno imate više od pet maski, više nećete moći kreirati. Također ćete izgubiti mogućnost odgovaranja na proslijeđene poruke. Možete se ponovo pretplatiti na { -brand-name-relay-premium } i ponovo dobiti pristup ovim funkcijama.
+faq-question-8-question = Koje podatke prikuplja { -brand-name-firefox-relay }?
+# Variables:
+#   $url (url) - https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-8-answer-3-html = { -brand-name-firefox-relay } prikuplja web stranice na kojima ste koristili svoje email maske i označava vaše maske tim web stranicama kako biste ih lahko mogli identifikovati. Ovo možete isključiti na stranici Postavke, pod Privatnost. Ali imajte na umu da isključite tu postavku znači da nećete moći vidjeti gdje ste koristili svaku masku, a imena vaših računa se više neće sinhronizovati između uređaja. Možete saznati više o podacima koje { -brand-name-firefox-relay } prikuplja u našem <a href="{ $url }" { $attrs }>Obaveštenju o privatnosti</a>.
+faq-question-email-storage-question = Da li { -brand-name-relay } pohranjuje moje emailove?
 
 ## Frequently Asked Questions about Phone plans
 
