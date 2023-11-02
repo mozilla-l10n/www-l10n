@@ -33,3 +33,10 @@ highlighted-features-section-replying-body =
     maskiranog email računa, tako da pošiljaoci nikada neće znati vašu pravu email adresu. Sa maskiranjem telefona možete odgovoriti
     na poruke sa vašeg maskiranog broja telefona kako biste zaštitili svoj pravi broj.
 highlighted-features-section-block-promotions-headline = Blokirajte promotivne emailove
+highlighted-features-section-block-promotions-body =
+    Sa { -brand-name-relay-premium }, možete blokirati promotivne emailove da vam dođu u
+    prijemnu poštu dok i dalje primate emailove kao što su računi ili informacije o dostavi.
+highlighted-features-section-remove-trackers-headline = Uklonite programe za praćenje emaila
+highlighted-features-section-remove-trackers-body =
+    { -brand-name-relay } može ukloniti uobičajene programe za praćenje emaila iz svih emailove koje su vam proslijeđeni, pomažući da
+    ostajete nevidljivi pratiocima i oglašivačima.
