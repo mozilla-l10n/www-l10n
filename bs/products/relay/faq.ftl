@@ -71,6 +71,7 @@ faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } ima is
 faq-question-acceptable-use-answer-measure-account-v2 = Potreban je { -brand-name-mozilla-account } sa verifikovanom email adresom
 # Obsolete string
 faq-question-acceptable-use-answer-measure-account = Potreban je { -brand-name-firefox-account } sa verifikovanom email adresom
+faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Zahtijeva se plaćanje ako korisnik želi da kreira više od pet maski
 
 ## Frequently Asked Questions about Phone plans
 
