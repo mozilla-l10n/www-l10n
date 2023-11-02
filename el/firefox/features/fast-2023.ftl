@@ -9,6 +9,8 @@ features-fast-is-firefox-the-fastest-browser = Είναι το { -brand-name-fir
 # HTML description
 features-fast-firefox-uses-less-memory-than = Το { -brand-name-firefox } χρησιμοποιεί λιγότερη μνήμη από το Chrome, ώστε τα άλλα σας προγράμματα να λειτουργούν με τη μέγιστη ταχύτητα.
 features-fast-browse-faster = Ταχύτερη περιήγηση
+# The odd punctuation here is meant to represent how a computer can run slow.
+features-fast-every-computer-program-you-run = Κάθε πρόγραμμα που εκτελείτε καταλαμβάνει ορισμένη από τη μνήμη του υπολογιστή σας. Εάν η διαθέσιμη μνήμη είναι λίγη, μπορεί να… προκληθεί…… σημαντική………… καθυστέρηση. Το { -brand-name-firefox } προσπαθεί να βρει μια ισορροπία: χρησιμοποιεί επαρκείς πόρους για ομαλή περιήγηση και αφήνει αρκετή ελεύθερη μνήμη για την εύρυθμη λειτουργία του υπολογιστή σας.
 features-fast-multi-tasking-with-multiple-tabs = Πολλαπλές εργασίες με πολλαπλές καρτέλες
 features-fast-firefox-is-a-multi-process-browser = Το { -brand-name-firefox } είναι ένα πρόγραμμα περιήγησης πολλαπλών διεργασιών, που σημαίνει ότι οι καρτέλες σας είναι πάντα σε ετοιμότητα και δεν απαιτούν πολύ χρόνο για εκ νέου φόρτωση. Με 86% λιγότερη καθυστέρηση, μπορείτε να κάνετε γρήγορα εναλλαγή μεταξύ των καρτελών σας, ακόμα κι αν μια φωνούλα μέσα σας λέει ότι έχετε ανοίξει πάρα πολλές.
 features-fast-faster-gaming = Ταχύτερο gaming
