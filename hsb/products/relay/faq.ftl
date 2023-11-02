@@ -9,6 +9,7 @@
 ## FAQ Page
 
 faq-headline = Husto stajene prašenja
+faq-question-what-is-question-2 = Što je e-mejlowa maska { -brand-name-relay }?
 faq-question-missing-emails-answer-reason-not-accepted-2 = Sydło e-mejlowe maski njeakceptuje
 faq-question-availability-question = Hdźe je { -brand-name-relay } k dispoziciji?
 

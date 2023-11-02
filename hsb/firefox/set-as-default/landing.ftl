@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,11 @@
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } k wašemu standardnemu wobhladowakej činić
 # HTML page description
 set-as-default-landing-choose-the-browser = Wubjerće wobhladowak, kotryž wašu priwatnosć škita. Nastajće { -brand-name-firefox } jako swój standardny wobhladowak.
-set-as-default-landing-make-sure-youre-protected = Dźiwajće na to, zo sće škitany, kóždy raz, hdyž do interneta dźeće
+# Obsolete string
 set-as-default-landing-thanks-for-using-the = Wulki dźak, zo najnowši wobhladowak { -brand-name-firefox } wužiwaće. Hdyž { -brand-name-firefox } wužiwaće, podpěrujeće lěpši web za sebje a wšěch druhich. Nětko móžeće so škitać.
+# Obsolete string
+set-as-default-landing-make-sure-youre-protected = Dźiwajće na to, zo sće škitany, kóždy raz, hdyž do interneta dźeće
+set-as-default-landing-you-should-get = Wy dyrbjał prawo soburěčenja měć, kak přehladujeće.
 set-as-default-landing-choose-automatic-privacy = Awtomatisku priwatnosć wubrać
 set-as-default-landing-companies-keep-finding = Předewzaća zaso a zaso nowe móžnosće namakaja, zo by waše wosobinske daty kradnył. { -brand-name-firefox } je wobhladowak z misiju, kotraž ma nowe móžnosće namakać, kotrež was škitaja.
 set-as-default-landing-choose-freedom-on-every = Wolće swobodu na kóždym graće

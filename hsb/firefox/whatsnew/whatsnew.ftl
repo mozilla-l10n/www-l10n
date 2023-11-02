@@ -15,6 +15,9 @@ whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-up-to-date-notification-v2 = Zbožopřeće! Wužiwaće najnowšu wersiju { -brand-name-firefox }.
 # Obsolete string
 whatsnew-up-to-date-notification = Zbožopřeće! Wužiwaće najnowšu wersiju { -brand-name-firefox-browser }.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+whatsnew-out-of-date-notification-v3 = Samo nowši { -brand-name-firefox } je k dispoziciji. <a href="{ $url }">Na najnowšu wersiju aktualizować</a>
 # Obsolete string
 whatsnew-out-of-date-notification-v2 = A samo nowša wersija { -brand-name-firefox } je k dispoziciji. Startujće znowa, zo byšće aktualizował.
 # Variables:
