@@ -63,6 +63,14 @@ faq-question-8-question = Koje podatke prikuplja { -brand-name-firefox-relay }?
 #   $attrs (string) - specific attributes added to external links
 faq-question-8-answer-3-html = { -brand-name-firefox-relay } prikuplja web stranice na kojima ste koristili svoje email maske i označava vaše maske tim web stranicama kako biste ih lahko mogli identifikovati. Ovo možete isključiti na stranici Postavke, pod Privatnost. Ali imajte na umu da isključite tu postavku znači da nećete moći vidjeti gdje ste koristili svaku masku, a imena vaših računa se više neće sinhronizovati između uređaja. Možete saznati više o podacima koje { -brand-name-firefox-relay } prikuplja u našem <a href="{ $url }" { $attrs }>Obaveštenju o privatnosti</a>.
 faq-question-email-storage-question = Da li { -brand-name-relay } pohranjuje moje emailove?
+faq-question-email-storage-answer = U rijetkim okolnostima u kojima usluga ne radi, možemo privremeno pohraniti vaše emailove dok ih ne budemo mogli poslati. Nikada nećemo čuvati vaše emailove duže od tri dana.
+faq-question-acceptable-use-question = Koje su prihvatljive upotrebe { -brand-name-relay }a?
+#   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } ima iste <a href="{ $url }" { $attrs }>uslove korištenja kao i svi { -brand-name-mozilla } proizvodi</a>. Imamo politiku nulte tolerancije kada je u pitanju korištenje { -brand-name-relay }a u zlonamjerne svrhe poput neželjene pošte, što rezultira ukidanjem korisničkog računa. Poduzimamo mjere da spriječimo korisnike da krše naše uslove:
+faq-question-acceptable-use-answer-measure-account-v2 = Potreban je { -brand-name-mozilla-account } sa verifikovanom email adresom
+# Obsolete string
+faq-question-acceptable-use-answer-measure-account = Potreban je { -brand-name-firefox-account } sa verifikovanom email adresom
 
 ## Frequently Asked Questions about Phone plans
 
