@@ -122,3 +122,12 @@ phone-masking-faq-answer-spam = Ako počnete primati neželjenu poštu, možete 
 phone-masking-faq-question-disable-logging = Mogu li onemogućiti evidentiranje pozivatelja ili pošiljatelja tekstualnih poruka?
 phone-masking-faq-answer-disable-logging = Da, možete onemogućiti evidentiranje brojeva sa { -brand-name-relay } kontrolne table. Međutim, više nećete moći odgovarati na SMS-ove niti blokirati određene brojeve, jer dnevnik je način na koji možemo pratiti ko vam je poslao tekstualnu poruku.
 phone-masking-faq-question-can-i-share = Mogu li podijeliti broj koji mi prosljeđuje tekstualne poruke?
+phone-masking-faq-answer-can-i-share = Ako podijelite ovaj broj, ništa se neće dogoditi — ovaj broj nije maska vašeg broja telefona. To je samo kontakt broj sa kojeg će { -brand-name-relay } prosljeđivati vaše poruke i pozive.
+phone-masking-faq-question-how-i-save-card = Kako da sačuvam kontakt karticu { -brand-name-relay }a?
+phone-masking-faq-answer-how-i-save-card = Kada izvršite nadogradnju na maskiranje telefonskog broja { -brand-name-relay }, poslat ćemo vam poruku kontakt kartice koja sadrži broj s kojeg ćete primati proslijeđene pozive i poruke, slično bilo kojoj kontakt kartici koja pohranjuje telefonske brojeve ljudi koji kontaktirati vas. Na većini uređaja možete odabrati tu kontakt karticu i sačuvati je kao bilo koji drugi kontakt na telefonu.
+phone-masking-faq-question-install-app = Trebam li instalirati aplikaciju da koristim { -brand-name-relay } maskiranje telefona?
+phone-masking-faq-answer-install-app = Ne, { -brand-name-relay } maskiranje telefona funkcioniše pomoću standardnih aplikacija za razmjenu tekstualnih poruka i pozivanje na vašem uređaju.
+phone-masking-faq-question-data = Koje vrste podataka čuva { -brand-name-relay } maskiranje telefona?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Molimo pogledajte <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } Pravila privatnosti</a>.
