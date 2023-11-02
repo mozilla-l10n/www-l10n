@@ -14,4 +14,8 @@ bookmark-manager-collect-your-bookmarks-in-folders = Συγκεντρώστε τ
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Εικόνα του παραθύρου διαχείρισης σελιδοδεικτών στο { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Εύκολη εισαγωγή σελιδοδεικτών
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-firefox-import-wizard = Εικόνα του βοηθού εισαγωγής του { -brand-name-firefox }, ο οποίος εμφανίζει επιλογές για εισαγωγή ρυθμίσεων και δεδομένων από άλλα προγράμματα περιήγησης.
 bookmark-manager-bookmarks-toolbar = Γραμμή σελιδοδεικτών
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Εικόνα του { -brand-name-firefox } που δείχνει μια συλλογή σελιδοδεικτών στη γραμμή εργαλείων στο επάνω μέρος του παραθύρου του προγράμματος περιήγησης.
