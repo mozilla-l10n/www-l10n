@@ -11,6 +11,9 @@ features-private-were-focused-on-your-right-to = Εστιάζουμε στο δ�
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
 features-private-yes-firefox-protects-your = Ναι. Το { -brand-name-firefox } προστατεύει το απόρρητό σας με λειτουργίες όπως η <a href="{ $url }">Ιδιωτική περιήγηση</a>. Έτσι, μπορείτε να διατηρείτε το ιστορικό περιήγησης και τους κωδικούς πρόσβασής σας ιδιωτικά, ακόμα κι όταν χρησιμοποιείτε μια συσκευή που μοιράζεστε με άλλα άτομα, όπως έναν οικιακό υπολογιστή ή ένα { -brand-name-ipad }.
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+features-private-firefox-also-protects-your = Το { -brand-name-firefox } προστατεύει το απόρρητό σας και με την <a href="{ $url }">Ενισχυμένη προστασία από καταγραφή</a>, η οποία αποκλείει τους ιχνηλάτες που σας ακολουθούν από ιστότοπο σε ιστότοπο, με σκοπό να συλλέξουν πληροφορίες σχετικά με τις διαδικτυακές σας συνήθειες. Περιλαμβάνει επίσης προστασία κατά των επιβλαβών σεναρίων και του κακόβουλου λογισμικού.
 features-private-sidenote-we-are-not-big-tech = <em>Υποσημείωση:</em> Δεν είμαστε τεχνολογικός κολοσσός. Κάνουμε τα πράγματα διαφορετικά. Επειδή είμαστε ανεξάρτητοι (χωρίς μετόχους), μπορούμε να βάζουμε τους ανθρώπους πάνω από το κέρδος. Σε αντίθεση με άλλες εταιρείες, δεν πωλούμε την πρόσβαση στα δεδομένα σας.
 features-private-what-information-does-firefox = Ποιες πληροφορίες συλλέγει το { -brand-name-firefox };
 # Variables:
