@@ -36,5 +36,9 @@ password-manager-have-firefox-create-a-strong-unique = Αφήστε το { -bran
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Εικόνα της φόρμας εγγραφής ενός ιστοτόπου με το { -brand-name-firefox } να προτείνει έναν ισχυρό κωδικό πρόσβασης που θα αποθηκεύσει αυτόματα για μελλοντική χρήση.
 password-manager-password-security-alerts = Ειδοποιήσεις ασφαλείας κωδικών πρόσβασης
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = Το { -brand-name-firefox } <a { $attrs }>σάς ειδοποιεί εάν κάποιος κωδικός πρόσβασης εκτεθεί</a> σε μια παραβίαση δεδομένων, ώστε να τον αλλάξετε προτού οι χάκερ μπορέσουν να κάνουν κάτι, όπως το να νοικιάσουν μια Lamborghini με την πιστωτική σας κάρτα.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Εικόνα της διαχείρισης κωδικών πρόσβασης του { -brand-name-firefox } που εμφανίζει την ειδοποίηση «Αυτός ο κωδικός πρόσβασης έχει χρησιμοποιηθεί σε άλλο λογαριασμό με πιθανή παραβίαση δεδομένων. Η επαναχρησιμοποίηση διαπιστευτηρίων θέτει σε κίνδυνο όλους τους λογαριασμούς σας. Αλλάξτε αυτόν τον κωδικό πρόσβασης.»
