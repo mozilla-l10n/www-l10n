@@ -10,6 +10,9 @@ password-manager-free-password-manager = Διαχείριση κωδικών π�
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Η Διαχείριση κωδικών πρόσβασης του { -brand-name-firefox } αποθηκεύει όλους τους κωδικούς πρόσβασης σας σε ένα μέρος κι έτσι, μπορείτε να συνδέεστε σε ιστοτόπους αυτόματα ή να ανακτάτε αποθηκευμένους κωδικούς.
 password-manager-firefox-securely-stores-your = Το { -brand-name-firefox } αποθηκεύει με ασφάλεια τα ονόματα χρήστη και τους κωδικούς πρόσβασής σας για πρόσβαση σε ιστοτόπους, συμπληρώνει αυτόματα τα διαπιστευτήριά σας όταν επισκέπτεστε έναν ιστότοπο και σας επιτρέπει να διαχειρίζεστε τις αποθηκευμένες σας συνδέσεις με την ενσωματωμένη λειτουργία διαχείρισης κωδικών πρόσβασής του.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Με έναν <a { $fxa }>δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a>, μπορείτε να συγχρονίσετε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας. Μπορείτε επίσης να αποκτήσετε πρόσβαση σε όλα τα άλλα προϊόντα της { -brand-name-mozilla }, που σέβονται το απόρρητό σας.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
@@ -23,8 +26,13 @@ password-manager-firefox-can-automatically-fill-in = Το { -brand-name-firefox 
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Εικόνα της φόρμας σύνδεσης ενός ιστοτόπου με το { -brand-name-firefox } να εμφανίζει πολλαπλούς αποθηκευμένους λογαριασμούς για να διαλέξετε κατά τη σύνδεση.
 password-manager-import-passwords = Εισαγωγή κωδικών πρόσβασης
+password-manager-you-can-use-the-import-wizard = Μπορείτε να χρησιμοποιήσετε τον βοηθό εισαγωγής για να εισαγάγετε εύκολα (σχεδόν μαγικά) τα ονόματα χρήστη και τους κωδικούς πρόσβασης που έχετε αποθηκεύσει στο Chrome, στο Edge, στο Safari ή σε οποιοδήποτε άλλο πρόγραμμα περιήγησης. Επιλέξτε «Κωδικοί πρόσβασης» από το μενού και στη συνέχεια, κάντε κλικ στο «τις εισαγάγετε στο { -brand-name-firefox }» στο κάτω μέρος της σελίδας «Συνδέσεις και κωδικοί πρόσβασης».
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Εικόνα του βοηθού εισαγωγής του { -brand-name-firefox }, ο οποίος εμφανίζει επιλογές για εισαγωγή ρυθμίσεων και δεδομένων από άλλα προγράμματα περιήγησης.
+password-manager-no-more-reusing-your-passwords = Τέλος στην επαναχρησιμοποίηση κωδικών πρόσβασης
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Αφήστε το { -brand-name-firefox } να <a { $attrs }>δημιουργήσει έναν ισχυρό, μοναδικό κωδικό πρόσβασης</a> για κάθε σύνδεσή σας στο διαδίκτυο. Έτσι, εάν διαρρεύσει κάποιος από τους κωδικούς πρόσβασής σας σε μια παραβίαση δεδομένων, θα επηρεαστεί μόνο ένας από τους λογαριασμούς σας.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Εικόνα της φόρμας εγγραφής ενός ιστοτόπου με το { -brand-name-firefox } να προτείνει έναν ισχυρό κωδικό πρόσβασης που θα αποθηκεύσει αυτόματα για μελλοντική χρήση.
 password-manager-password-security-alerts = Ειδοποιήσεις ασφαλείας κωδικών πρόσβασης
