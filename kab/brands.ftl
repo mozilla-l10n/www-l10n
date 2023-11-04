@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Azeṭṭa n tbaḍnit n Firefox
 -brand-name-firefox-relay = Firefox Relay
@@ -103,15 +104,18 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Aẓeṭṭa n yineflayen n Mozilla
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = Amiḍan n Mozilla
+-brand-name-mozilla-accounts = Imiḍanen n Mozilla
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -129,7 +133,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
+# Obsolete string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers
