@@ -27,7 +27,7 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Dërgoni një skedë</a> te nj
 firefox-accounts-save-and-sync = <a href="{ $password }">Ruani dhe njëkohësoni fjalëkalime</a>
 firefox-accounts-get-email-alerts = Merrni sinjalizime me email, kur hollësitë tuaja shfaqen te një cenim i ditur të dhënash
 # Obsolete string
-firefox-accounts-see-if-youve-been = Shihni nëse jeni përfshirë në një cenim të dhënash <em>online</em>.
+firefox-accounts-see-if-youve-been = Shihni nëse jeni përfshirë në një cenim të dhënash në internet.
 firefox-accounts-protect-your-identity = Mbroni identitetin tuaj me maskim të siguruar telefonash dhe email-esh
 firefox-accounts-keep-your-passwords = Mbajini fjalëkalimet tuaja të mbrojtur dhe me vete.
 firefox-accounts-get-a-lookout-for = Merrni njoftime mbi cenim të dhënash.
