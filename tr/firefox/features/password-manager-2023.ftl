@@ -13,5 +13,7 @@ password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } pa
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = <a href="{ $fxa }">Ücretsiz { -brand-name-firefox } hesabı</a> ile parolalarınızı tüm cihazlarınız arasında güvenli bir şekilde eşitleyebilirsiniz.
+password-manager-password-autofill-for-easy-logins = Kolay oturum açma için otomatik parola doldurma
 password-manager-import-passwords = Parolaları içe aktarma
+password-manager-no-more-reusing-your-passwords = Aynı parolayı her yerde kullanmaya son
 password-manager-password-security-alerts = Parola güvenliği uyarıları

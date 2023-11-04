@@ -27,6 +27,7 @@ features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } 
 features-index-add-new-tools-capabilities-and = Tarayıcınıza yeni araçlar, yetenekler ve eğlenceli şeyler ekleyin.
 features-index-pinned-browser-tabs = Sabitlenmiş tarayıcı sekmeleri
 features-index-eyedropper-tool = Damlalık aracı
+features-index-identify-the-exact-color-on-a = Bir sayfadaki rengi tam olarak tanımlayıp hex kodunu kopyalayın.
 features-index-pdf-editor = PDF düzenleyicisi
 features-index-view-and-edit-pdf-files = PDF dosyalarını doğrudan { -brand-name-firefox }’ta görüntüleyip düzenleyin.
 features-index-fingerprint-blocking = Parmak izi engelleme

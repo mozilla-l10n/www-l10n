@@ -43,6 +43,8 @@ faq-question-email-storage-answer = Hizmetin çalışmadığı ender durumlarda 
 faq-question-acceptable-use-question = { -brand-name-relay }’in kabul edilebilir kullanım alanları nelerdir?
 # Obsolete string
 faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta adresine sahip bir { -brand-name-firefox-account } gereklidir
+faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Bir kullanıcının beşten fazla maske oluşturması için ödeme yapılması zorunludur
+faq-question-acceptable-use-answer-measure-rate-limit-2 = Bir günde üretilebilecek maske sayısı limiti
 
 ## Frequently Asked Questions about Phone plans
 
@@ -50,3 +52,5 @@ phone-masking-faq-question-what-is = Telefon numarası maskesi nedir?
 phone-masking-faq-question-where-is = Telefon maskeleme nerede kullanılabilir?
 phone-masking-faq-question-change-phone-mask = Telefon maskemi değiştirebilir miyim?
 phone-masking-faq-question-can-reply = Kısa mesajlara cevap verebilir miyim?
+phone-masking-faq-question-pictures = Kısa mesajla resim gönderebilir veya alabilir miyim?
+phone-masking-faq-question-can-i-send = SMS'lere cevap vermeden SMS gönderebilir miyim?

@@ -7,3 +7,5 @@
 
 features-eyedropper-eyedropper-tool = Damlalık aracı
 features-eyedropper-select-colors-in-firefox = Damlalık aracıyla { -brand-name-firefox }’taki renkleri seçebilirsiniz
+# HTML page description
+features-eyedropper-identify-the-exact-color-on-a = Bir sayfadaki rengi tam olarak tanımlayıp hex kodunu kopyalayın.
