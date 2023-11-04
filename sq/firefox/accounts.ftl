@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = Merrni një { -brand-name-mozilla-account } – Mbajini të dhënat tuaja private, të parrezik dhe të njëkohësuara
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Merrni një { -brand-name-firefox-account } - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
 # HTML page description

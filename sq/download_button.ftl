@@ -39,6 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> për { -brand
 download-button-firefox-privacy = Privatësia Në { -brand-name-firefox }
 download-button-firefox-privacy-notice = Shënim Privatësie në { -brand-name-firefox }
 download-button-download = Shkarkoje
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">nuk mbulohet më</a> në { $os_version } e më poshtë.
+download-button-please-download-esr = Ju lutemi, që të përdorni { -brand-name-firefox }-in shkarkoni { -brand-name-firefox-esr } (Hedhje Në Qarkullim Me Mbulim të Zgjeruar).
 download-firefox-esr = Shkarkoni { -brand-name-firefox-esr }-in
 download-firefox-esr-32 = Shkarkoni { -brand-name-firefox-esr }-in 32-bit
 download-firefox-esr-64 = Shkarkoni { -brand-name-firefox-esr }-in 64-bit
+download-a-different-build = Shkarkoni një tjetër montim
