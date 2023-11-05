@@ -16,3 +16,6 @@ pdf-editor-fill-in-forms-online-without = Completa formularios en línea sin imp
 pdf-editor-weve-all-faced-this-you-need-to = Todos nos hemos enfrentado a esto: debes completar un formulario que es un PDF, pero no es editable. En el pasado, tu única opción era imprimirlo en un árbol muerto, escribir encima y luego escanearlo nuevamente en tu ordenador.
 pdf-editor-no-more-now-all-you-need-to-do = ¡No más! Ahora, todo lo que necesitas hacer es editar el PDF en línea con { -brand-name-firefox }, guardarlo y enviarlo por correo electrónico desde tu computador.
 pdf-editor-add-text = Añadir texto
+pdf-editor-open-the-pdf-in-firefox-click-text = Abre el PDF en { -brand-name-firefox }. Haz clic en el botón Texto para elegir un color y tamaño de texto antes de seleccionar en qué parte del documento deseas añadir el texto. ¡Es fácil!
+pdf-editor-add-drawings-or-your-signature = Añade dibujos (o tu firma)
+pdf-editor-open-the-pdf-in-firefox-click-draw = Abre el PDF en { -brand-name-firefox }. Haz clic en el icono Dibujar para elegir un color, grosor y opacidad antes de poder dibujar en el documento. ¡Probablemente no será más complicado que usar tu firma habitual!
