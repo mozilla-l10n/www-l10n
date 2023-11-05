@@ -63,6 +63,8 @@ privacy-passwords-2fa-is-a = 2FA es una excelente forma de mejorar tu seguridad.
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Tu cuenta de { -brand-name-firefox }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de lo que puedes obtener más información aquí</a>.
+#   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
+privacy-passwords-your-mozilla-account = Tu { -brand-name-mozilla-account }, por ejemplo, puede protegerse con 2FA, <a { $url_sumo_2fa }>de lo que puedes obtener más información aquí</a>.
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA proporciona una seguridad mucho mejor que las contraseñas por sí solas, pero no todos los sitios web lo admiten. Puedes encontrar una lista de sitios web que admiten 2FA en <a { $url_2fa }>https://twofactorauth.org</a>, así como una lista de sitios que no admiten 2FA y las formas en que puede solicitarles que lo hagan.
 privacy-passwords-strong-diverse-and = Fuerte, diversa y multifactorial
