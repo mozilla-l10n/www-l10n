@@ -28,6 +28,9 @@ password-manager-import-passwords = Ñe’ẽñemi jegueru
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } mba’egueru pytyvõ ñomongetaha ra’ãnga, ohechaukávo poravorã eru hag̃ua ñemboheko ha mba’ekuaarã ambue kundaháragui.
 password-manager-no-more-reusing-your-passwords = Anive eiporujo’a ñe’ẽñeminguéra
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Eheja { -brand-name-firefox } <a { $attrs }>tomoheñói ñe’ẽñemi oiko ha hekorosãva</a> emoñepyrũva tembiapo ñandutípe g̃uarã; upéicha rupi, peteĩva ne ñe’ẽñemi ojekuaáramo tekorosã ñembogua rupive, ombyaikuaa pe mba’etépe añónte, ha ambuére mba’eve.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Myanyhẽha mboheraguapyrã ra’ãnga ñanduti renda { -brand-name-firefox } ndive osẽvo ñe’ẽñemi hekorosãva ijatýtava ijehegui eiporu hag̃ua tenondeve.
 password-manager-password-security-alerts = Kyhyjerã ñe’ẽñemi rekorosãrã
