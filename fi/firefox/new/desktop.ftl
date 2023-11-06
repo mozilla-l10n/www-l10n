@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Hanki { -brand-name-firefox } { -brand-n
 firefox-desktop-download-og-title = Lataa nopein { -brand-name-firefox } koskaan
 firefox-desktop-download-og-desc = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } on täällä.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
