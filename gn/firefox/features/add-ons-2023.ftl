@@ -7,3 +7,4 @@
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox } moĩmbaha
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } moĩmbaha ha kundahára jepysokue
+features-add-ons-extensions-also-known-as-add-ons = Umi jepysokue – ojekuapava avei { -brand-name-firefox } moĩmbaháramo, ha’e tembiapoite juapy emboguejy ha emohendakuaáva embojuaju hag̃ua pokatu ha tembiporu ne kundahárape. Umi moĩmbaha omoneĩ emboavávo ne kundahára { -brand-name-firefox } ha eiporuporãvévo ñanduti.
