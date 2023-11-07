@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+banner-vpn-cyber-get-annual-sub = Ба даст овардани обунаи солона
+banner-vpn-cyber-offer-ends = Пешниҳод 31-уми октябри соли 2023 дар анҷом мерасад
