@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵੱਧ ਕੇ ਹੈ
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } ਤਾਂ ਸਿਰਫ਼ ਸ਼ੁਰੂਆਤ ਹੈ
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = ਇਹ ਉਤਪਾਦਾਂ ਦਾ ਸਮੂਹ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੁਸ਼ਿਆਰ ਬਣਾਈ ਰੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਹੈ।
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਦਾ ਸਮੂਹ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਵੱਧ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੁਸ਼ਿਆਰ ਰਹਿਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ <strong>ਵੱਧ</strong> ਹੈ
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } ਤਾਂ ਸਿਰਫ਼ <strong>ਸ਼ੁਰੂਆਤ</strong> ਹੈ
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਪੋਰੇਟ ਡਾਟਾ ਸੰਨ੍ਹ ਦੇ ਵਿੱਚ ਕੋਈ ਸਮਝੌਤਾ ਹੋਇਆ ਹੈ ਅਤੇ ਭਵਿੱਖ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ-ਅੱਪ ਕਰੋ।
 firefox-products-check-for-breaches = ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ ਕਰੋ
 firefox-products-sign-up-for-breach-alerts = ਸੰਨ੍ਹ ਲੱਗਣ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = 2000+ ਡਾਟਾ ਟਰੈਕਰਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਪਾਬੰਦੀਆਂ ਲਾਉਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਲਵੋ। ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਹਰੇਕ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਸਟੈਂਡਰਡ ਮਿਲਦੀ ਹੈ।
 firefox-products-desktop = ਡੈਸਕਟਾਪ
 firefox-products-android = { -brand-name-android }

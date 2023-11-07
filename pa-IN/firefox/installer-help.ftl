@@ -21,5 +21,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-release-desc = ਨਵਾਂ ਨਕੋਰ ਲਵੋ। ਪਰਦੇਦਾਰੀ ਤਾਂ ਆਪਣੇ-ਆਪ ਹੀ ਮਿਲੇਗੀ। { $trackers } ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ।
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-desc = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-need-help = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
