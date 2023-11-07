@@ -34,3 +34,4 @@ password-manager-no-more-reusing-your-passwords = Nič več recikliranja gesel
 password-manager-have-firefox-create-a-strong-unique = Naj vam { -brand-name-firefox } <a { $attrs }>ustvari močno in edinstveno geslo</a> za vsako spletno mesto, na katerem ste registrirani – tako bodo v primeru, da se eno izmed vaših gesel razkrije v kraji podatkov, vaši preostali računi ostali varni.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Slika obrazca za ustvarjanje računa na spletni strani, kjer { -brand-name-firefox } predlaga močno geslo.
+password-manager-password-security-alerts = Opozorila o varnosti gesel
