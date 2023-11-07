@@ -13,7 +13,7 @@ compare-chrome-we-compare-mozilla-firefox = 我们在隐私、实用性和可移
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } 与 { -brand-name-google } { -brand-name-chrome } 之间的比较
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
-compare-chrome-at-firefox-we-have-a-huge-v2 = 在 { -brand-name-firefox } 有大量的用户感谢我们对网络隐私的保护。例如最新版的 { -brand-name-firefox } 包含了一个名为增强型跟踪保护ETP的功能该功能默认对全球所有用户开启。 ETP 可拦截超过 2000 种跟踪器包括来自 Facebook、Twitter 和 LinkedIn 等公司的社交跟踪器。它还有一个名为 <a { $attrs }>{ -brand-name-mozilla-monitor }</a> 的集成功能可以在您的密码被泄露或需要更新时自动通知您。除了这些保护之外{ -brand-name-firefox } 中的隐私浏览模式还会在您会话结束后自动删除您的浏览信息如历史记录和 Cookie不留痕迹。
+compare-chrome-at-firefox-we-have-a-huge-v2 = 在 { -brand-name-firefox } 有大量的用户感谢我们对网络隐私的保护。例如最新版的 { -brand-name-firefox } 包含了一个名为增强型跟踪保护ETP的功能该功能默认对全球所有用户开启。 ETP 可拦截超过 2000 种跟踪器，包括来自 Facebook、Twitter 和 LinkedIn 等公司的社交跟踪器。它还有一个名为 <a { $attrs }>{ -brand-name-mozilla-monitor }</a> 的集成功能可以在您的密码被泄露或需要更新时自动通知您。除了这些保护之外，{ -brand-name-firefox } 中的隐私浏览模式还会在您会话结束后自动删除您的浏览信息如历史记录和 Cookie不留痕迹。
 # Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
@@ -25,7 +25,7 @@ compare-chrome-at-firefox-we-have-a-huge-fallback = 有大量的 { -brand-name-f
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = 我们最近还在最新的<a { $attrs }>隐私声明</a>中重申了我们对用户数据保密和透明的承诺，其中指出：“在 { -brand-name-mozilla }，我们认为隐私对于健康的互联网至关重要。”
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = 我们最近还在最新的<a { $attrs }>隐私声明</a>中重申了我们对用户数据保密和透明的承诺，其中指出：“在 Mozilla，我们认为隐私对于健康的互联网至关重要。”
