@@ -50,6 +50,75 @@ vpn-landing-faq-uses-encrypt = Šifruje promet između vas i vašeg VPN provajde
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
 vpn-landing-faq-uses-examples = Pogledajte <a href="{ $url }">pet primjera iz stvarnog života</a> u kojima biste željeli VPN na svom uređaju.
 vpn-landing-faq-info-question-heading = Koje informacije čuva { -brand-name-mozilla-vpn }?
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-faq-info-question-desc-v2 = Striktno se pridržavamo { -brand-name-mozilla } <a href="{ $principles }">Principa privatnosti podataka</a> i prikupljamo podatke potrebne za održavanje VPN-a u funkciji i za poboljšanje proizvoda tokom vremena . Također pratimo podatke o kampanjama i preporukama na našoj mobilnoj aplikaciji kako bismo pomogli { -brand-name-mozilla }i da razumije efikasnost naših marketinških kampanja. Pročitajte više u našem <a href="{ $notice }">Obavještenju o privatnosti</a>.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/privacy/principles/
+vpn-landing-faq-info-question-desc = Ne bilježimo, ne pratimo ili dijelimo bilo koju vašu mrežnu aktivnost. Striktno se pridržavamo { -brand-name-mozilla }nih <a href="{ $url }">Principa privatnosti podataka</a> i prikupljamo samo podatke potrebne za održavanje VPN-a u funkciji i poboljšanje proizvoda tokom vremena.
+vpn-landing-faq-protected-question-heading = Kako je moja privatnost zaštićena?
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokol šifruje vaš mrežni promet, štiteći sve vaše privatne informacije. U poređenju sa postojećim VPN protokolima, lagani kod { -brand-name-wireguard } je lakši sigurnosnim analitičarima za pregled i reviziju – što ga čini sigurnijom opcijom za VPN. Osim toga, vaše aktivnosti na mreži ostaju anonimne jer nikada ne evidentiramo, pratimo ili dijelimo vaše mrežne podatke.
+vpn-landing-faq-competition-question-heading = Kako se { -brand-name-mozilla-vpn } poredi sa konkurencijom?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc-v2 = Besplatni VPN-ovi mogu izgledati privlačno, ali ne pružaju isto obećanje o privatnosti kao { -brand-name-mozilla-vpn }. Drugim VPN brendovima nedostaje više od 20 godina { -brand-name-mozilla } <a href="{ $url }">historije</a> koja stavlja ljude i privatnost ispred svega.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/history/
+vpn-landing-faq-competition-question-desc = Besplatni VPN-ovi mogu izgledati privlačno, ali ne pružaju isto obećanje o privatnosti kao { -brand-name-mozilla-vpn } i mogu da prodaju i prikupljaju vaše podatke. Drugim plaćenim VPN brendovima nedostaje više od 20 godina { -brand-name-mozilla } <a href="{ $url }">historije</a> koja stavlja ljude i privatnost ispred svega.
+vpn-landing-faq-compatibility-question-heading = Sa kojim uređajima je { -brand-name-mozilla-vpn } kompatibilan?
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilan sa <a href="{ $mobile }">mobilnim</a>, tablet i <a href="{ $desktop }">desktop</a> uređajima na:
+# Obsolete string
+vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilan sa:
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (samo 64-bitni)
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
+vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (samo 64-bitni)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 i noviji)
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
+vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 i noviji)
+# Obsolete string
+vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 i noviji)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (verzija 8 i novije)
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
+vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (verzija 6 i novije)
+# Obsolete string
+vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (verzija 6 i novije)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+#   $version (number) - minimum supported version number
+vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $verzija } i novije)
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
+vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 i novije)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 i noviji)
+# Obsolete string
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 i noviji)
+vpn-landing-faq-refund-question-heading = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
+vpn-landing-faq-refund-question-desc-v2 = Kada se prvi put pretplatite na { -brand-name-mozilla-vpn } putem web stranice { -brand-name-mozilla }, ako otkažete svoj račun u prvih 30 dana, možete zatražiti povrat novca i { -brand-name-mozilla } će refundirati vašu prvu pretplatu.
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
