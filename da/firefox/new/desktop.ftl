@@ -141,6 +141,9 @@ firefox-desktop-download-as-the-internet = Efterhånden som internettet vokser o
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgængelig på alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgængelig til alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en { -brand-name-mozilla-account }-konto</a> og du vil få adgang til at synkronisere samt flere { -brand-name-mozilla }-produkter.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tag et skærmbillede i høj opløsning af noget på nettet med vores <a { $attrs }>skærmbillede</a>-funktion indbygget i browseren
 # Variables:
