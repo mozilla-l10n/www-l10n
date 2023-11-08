@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/fast/
+### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
-features-fast-browse-faster = تیزی نال براؤز کرو
-features-fast-faster-gaming = تکھیرا کھیݙݨ
+bookmark-manager-bookmarks-toolbar = بک مارک ٹول بار

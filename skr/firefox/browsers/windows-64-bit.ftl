@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = جے تساں "(32-bit)" ݙیکھدے �
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = جے تہاکوں 32-bit { -brand-name-firefox } چلاوݨ دی ضرورت ہے یا 64-bit { -brand-name-firefox } کوں دستی طور تے انسٹال کرݨا ہے، تاں تساں آسانی نال { -brand-name-windows } (32) کوں ڈاؤن لوڈ تے دوبارہ چلا سڳدے او۔ -bit یا 64-bit) { -brand-name-firefox } انسٹالر <a href="{ $all }">{ -brand-name-firefox } پلیٹ فارمز تے زباناں دے ڈاؤن لوڈ ورقے کنوں۔</a>
 windows-64-bit-take-control-of-your = آپݨے براؤزر دا کنٹرول گھنو۔
+windows-64-bit-download-firefox = 64- بٹ ونڈو کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو

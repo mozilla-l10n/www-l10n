@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = فنگر پرنٹنگ کیا ہے تے تساں ایں کوں کیوں بلاک کرݨ چاہسو
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = فنگر پرنٹنگ آن لائن ٹریکنگ دی ہک ونکی ہے جیڑھی عام کوکی تے مبنی ٹریکنگ کنوں زیادہ ناگوار ہے — ایں سانگے { -brand-name-firefox-browser } اونکوں روکیندا ہے۔
+features-fingerprinting-fingerprint-blocking = فنگر پرنٹ بلاک کرݨ
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } فنگر پرنٹنگ کوں بلاک کریندے
 features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } براؤزر دے بلٹ ان فنگر پرنٹنگ بلاکرز دے نال اپݨے نیڑے تیڑے چمبڑیئے اشتہاراں کوں ختم کرو۔
 # description for the header image
