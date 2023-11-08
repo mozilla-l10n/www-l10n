@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Få { -brand-name-firefox } til { -brand
 firefox-desktop-download-og-title = Hent den hurtigste { -brand-name-firefox } nogensinde
 firefox-desktop-download-og-desc = Hurtigere indlæsning af sider, mindre brug af hukommelse og proppet med nye funktioner - Den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = En endnu nyere version af { -brand-name-firefox } er tilgængelig. <a { $update_url }>>Opdater til den seneste version</a>
 firefox-desktop-download-get-the-browser = Få en browser, der beskytter dét, der er vigtigt
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Ingen lyssky privatlivspolitikker eller bagdøre for annoncører. Bare en lynhurtig browser, der ikke svigter dig.
@@ -133,6 +136,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } blev lave
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Efterhånden som internettet vokser og ændrer sig, fortsætter { -brand-name-firefox } med at fokusere på din ret til privatliv  — vi kalder det for <a { $attrs }>Løfte om private data</a>: Gem mindre. Beskyt alt. Ingen hemmeligheder. Dine data, din aktivitet på nettet og dit liv online er beskyttet med { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgængelig på alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en <a { $attrs }>{ -brand-name-firefox }-konto</a>.
@@ -147,8 +151,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Har du spørgsmål? <a { $attrs }>{ -brand-name-mozilla } support</a> har svarene.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Du har allerede browseren. Få endnu mere ud af { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Hold øje med hackere med { -brand-name-mozilla-monitor }, beskyt din mailadresse med { -brand-name-firefox-relay } – og mere.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Hold øje med hackere med { -brand-name-firefox-monitor }, beskyt din mailadresse med { -brand-name-firefox-relay } – og mere.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = Hold øje med hackere med { -brand-name-firefox-monitor }, beskyt dine adgangskoder med { -brand-name-firefox-lockwise } – og mere.
 firefox-desktop-download-get-more-from-firefox = Få mere ud af { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Hent kun browseren
@@ -167,7 +173,7 @@ firefox-desktop-download-now-mac = <strong>Åbn</strong> nu filen, du lige hente
 firefox-desktop-download-get-help = Har du problemer? <a { $attrs }>Få hjælp til din installation</a>.
 firefox-desktop-download-in-another-language = Hent på et andet sprog eller til et andet styresystem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Besøg Support for at få fler
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">udgiver ikke længere sikkerhedsopdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan stadig bruge { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = Du bruger et usikkert og forældet styresystem, <a href="{ $url }">der ikke længere understøttes af { -brand-name-firefox }</a>.
