@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = { -brand-name-firefox } براؤزر خاصیتاں
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
 features-index-bookmark-manager = نشانی منیجر
 features-index-private-browsing-mode = نجی براؤزنگ موڈ
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
