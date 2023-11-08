@@ -9,9 +9,17 @@ plan-matrix-title = Cijene
 
 ## PRICING MATRIX SECTION
 
+plan-matrix-offer-title = Odaberite nivo zaštite koji vam odgovara
+# Variables:
+#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } štiti vaš identitet i vašu pristiglu poštu jedinstvenim email maskama. Dodajte još više sigurnosti sa { -brand-name-relay } maskiranjem telefona i uštedite { $savings }% dodavanjem { -brand-name-mozilla-vpn } zaštite.
 
 ## Top Row Labels
 
+# Variables:
+#   $savings (string) - the percentage saved (including % symbol) for a given plan. Examples: 50%, 70%
+plan-matrix-heading-features = Mogućnosti
+plan-matrix-heading-plan-free = Ograničena email zaštita
 
 ## Feature Breakdowns
 
