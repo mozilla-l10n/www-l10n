@@ -63,3 +63,11 @@ vpn-download-faq-adding-another-v3 = Dodavanje drugog uređaja je jednostavno ka
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v2 = Dodavanje drugog uređaja je jednostavno kao preuzimanje i instaliranje softvera { -brand-name-mozilla-vpn }a, a zatim prijava na vaš postojeći { -brand-name-firefox-account } na novom uređaju. Za više detalja pogledajte <a href="{ $subscription }">Kako dodati uređaje vašoj { -brand-name-mozilla-vpn } pretplati</a>.
 vpn-download-faq-best-practices = Koje su neke najbolje prakse za VPN?
+vpn-download-faq-traffic = Ako je vaš cilj da zaštitite svoj internet promet uz zadržavanje velike brzine, tada je uvijek najbolje odabrati lokaciju servera koja je što bliže vašoj fizičkoj lokaciji. Ovo će povećati pouzdanost i brzinu vaše veze jer vaš internetski promet neće morati značajno zaobići prije nego što stigne na željeno odredište na webu.
+vpn-download-faq-experience = Ako je vaš cilj da doživite internet kao da ste u nekom drugom dijelu svijeta, možete odabrati lokaciju servera tamo i sve web stranice koje posjetite će se prikazivati kao da ste tamo.
+vpn-download-faq-protect = Ako se želite još više zaštititi, možete aktivirati zaštitu od oglasa, pratilaca oglašivača i zlonamjernog softvera tako što ćete otići na Postavke > Funkcije privatnosti. Imajte na umu da to može uzrokovati da se neke web stranice pokvare ili ne učitaju, pa ćete možda morati privremeno onemogućiti ove zaštite ako naiđete na ovaj problem.
+vpn-download-faq-lastly = Konačno, na podržanim uređajima, VPN možete učiniti još pametnijim tako što ćete isključiti određene aplikacije (npr. Netflix) iz VPN-a.
+vpn-download-faq-need-more = Trebate još malo pomoći?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Možete kontaktirati naš tim za podršku direktno iz { -brand-name-mozilla-vpn } aplikacije tako što ćete kliknuti na Postavke > Pomoć > Kontaktirajte podršku. Također nas možete kontaktirati <a href="{ $support }">na našoj stranici za podršku</a>.
