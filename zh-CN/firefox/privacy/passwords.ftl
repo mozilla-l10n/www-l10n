@@ -35,7 +35,7 @@ privacy-passwords-the-lock-means = 该锁表示您正在使用的网站已加密
 privacy-passwords-a-padlock-with = 若锁上有一条斜线，则表明连接不安全。
 privacy-passwords-your-browser-also = 您的浏览器还可以帮助您随时了解网站是否可信赖，防止网络钓鱼。当您尝试访问已知的钓鱼网站时，{ -brand-name-firefox }（以及任何主流浏览器）会显示全屏警告。<strong>若要继续访问，请三思而后行！</strong>
 privacy-passwords-firefox-will-v2 = 若其为已知的钓鱼网站，{ -brand-name-firefox } 将显示警告信息而非网站。
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = 若其为已知的钓鱼网站，Firefox 将显示警告信息而非网站。
 privacy-passwords-in-general-the = 一般来说，防范网络钓鱼的最佳方法是<strong>对收到的东西保持怀疑</strong>，不管是通过电子邮件、短信还是电话收到的。不要按别人给您发送的内容操作，而应直接访问相应网站。例如，一封电子邮件中说您需要重置 PayPal 密码，请不要点击邮件中的链接，而应自己在浏览器中输入 paypal.com。如果银行打来电话，请不要直接接通，之后再给他们回电。
 privacy-passwords-strength-in-diversity = 有差异，更安全
@@ -44,7 +44,7 @@ privacy-passwords-the-secret-to = 防止被猜到、窃取或密码重置的秘�
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = 攻击者窃取您所使用网站（例如 <a { $url_linkedin }>LinkedIn</a> 或 <a { $url_yahoo }>Yahoo</a>）的密码数据库后，您能做的只有更改您用于该网站的密码。这固然很糟糕，但如果您在其他网站上也使用同样的密码，损失可能会更大，攻击者将可以访问您在其他网站的账号。为了减少损失，<strong>请始终对不同的网站使用不同的密码。</strong>
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
-privacy-passwords-use-mozilla-monitor = 使用 <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> 监控与您的账号关联的电子邮件地址。若您的电子邮件地址出现在已知的企业数据外泄事件中我们将向您发出警报并提供保护受影响账户的步骤信息。
+privacy-passwords-use-mozilla-monitor = 使用 <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> 监控与您的账号关联的电子邮件地址。若您的电子邮件地址出现在已知的企业数据外泄事件中，我们将向您发出警报并提供保护受影响账户的操作步骤。
 # Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = 使用 <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> 密切关注与您账号关联的电子邮件地址。若您的电子邮件地址出现在已知的数据外泄事件中，就会向您发出警报，并提供保护受影响账号的步骤。
@@ -57,14 +57,14 @@ privacy-passwords-now-all-of = 现在，所有这些听起来有点令人退却�
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = 当您使用 { -brand-name-firefox } 账户登录 { -brand-name-firefox } 时，您便可以跨所有设备同步，并在移动版 { -brand-name-firefox } 访问密码。在此处详细了解<a { $url_sumo-manager }>如何使用内置密码管理器</a>。
 #   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
-privacy-passwords-when-youre-logged-v2 = 使用 { -brand-name-mozilla-account }登录 { -brand-name-firefox } 即可在所有设备间同步并访问 { -brand-name-firefox } 移动浏览器上的密码修改这些设置。详细了解<a { $url_sumo_manager }>如何最有效地使用内置密码管理器</a>。
+privacy-passwords-when-youre-logged-v2 = 使用 { -brand-name-mozilla-account } 登录 { -brand-name-firefox } 即可在所有设备间同步并访问 { -brand-name-firefox } 移动浏览器上的密码修改这些设置。详细了解<a { $url_sumo_manager }>如何最有效地使用内置密码管理器</a>。
 privacy-passwords-twofactor-authentication-2fa = 双因子验证（2FA）
 privacy-passwords-2fa-is-a = 2FA 是提升安全性的好方法。设置新账户时，有些网站会为您提供在登录过程中添加“双因子验证”的选项。通常，这需要将您的电话号码链接到您的账户。因此，在输入密码后，系统会提示您输入直接发给您的安全代码。这样，即使黑客设法获得了您的密码，但他们没有您的手机，也就无法进入您的账户。
 # Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = 例如，您的 { -brand-name-firefox } 账户可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此详细了解</a>。
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
-privacy-passwords-your-mozilla-account = 例如您的 { -brand-name-mozilla-account } 就可以使用 2FA 进行保护<a { $url_sumo_2fa }>您可在此详细了解</a>。
+privacy-passwords-your-mozilla-account = 例如您的 { -brand-name-mozilla-account } 就可以使用 2FA 进行保护，<a { $url_sumo_2fa }>您可在此了解详情</a>。
 #   $url_2fa (string) - link to https://2fa.directory with additional attributes for analytics
 privacy-passwords-2fa-provides-much = 2FA 提供的安全性比只有密码要好得多，然而并不是每个网站都支持。您可以在 <a { $url_2fa }>https://twofactorauth.org</a> 上找到支持和不支持 2FA 的网站列表，以及要求后者添加支持的途径。
 privacy-passwords-strong-diverse-and = 高强度、差异性和多因子
@@ -72,7 +72,7 @@ privacy-passwords-for-better-or = 不管是好是坏，在可预见的未来，�
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = 在现今的的互联网上，每天都有成千上万的密码被盗，账户被拿到黑市上交易。因此，确保自己的在线生活安全是值得的。当您使用 { -brand-name-firefox } 产品后，就不用再费心了。因为我们的所有产品均遵守我们的<a { $url_privacy_products }>隐私承诺</a>而构建。{ -brand-name-firefox } 始终以背后的非营利组织 <a { $url_about_manifesto }>{ -brand-name-mozilla } 的使命</a>为指导，致力于建立一个更好的互联网。
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = 在现今的的互联网上，每天都有成千上万的密码被盗，账户被拿到黑市上交易。因此，确保自己的在线生活安全是值得的。当您使用 { -brand-name-firefox } 产品后，就不用再费心了。因为我们的所有产品均遵守我们的<a { $url_privacy_products }>隐私承诺</a>而构建。{ -brand-name-firefox } 始终以背后的非营利组织 <a { $url_about_manifesto }>Mozilla 的使命</a>为指导，致力于建立一个更好的互联网。
