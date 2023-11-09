@@ -50,3 +50,16 @@ vpn-download-faq-as-more-daily = Kako se sve više svakodnevnog života odvija p
 vpn-download-faq-concealing-ip = Prikriva vaše prave <a href="{ $ip }">IP adrese</a>: ovo pomaže u zaštiti vašeg identiteta i skriva vašu lokaciju od web stranica koje posjećujete.
 vpn-download-faq-encrypting = Šifruje vaš internet promet: tako da niko na žici ne može špijunirati vaše aktivnosti na mreži.
 vpn-download-faq-working = Kako da znam da VPN radi?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.firefox.com/
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } prikazuje vizuelne indikatore svog trenutnog statusa i na traci sa alatkama i na početnom ekranu aplikacije, što olakšava saznanje da li je vaša aktivnost na mreži zaštićena ili ne. Ovi indikatori vam omogućavaju da potvrdite kada je vaša navigacija privatna i sigurna. Osim toga, dok ste povezani, možete posjetiti <a href="{ $monitor }">https://monitor.firefox.com/</a> da potvrdite da li je vaša IP adresa maskirana. Za više detalja pogledajte <a href="{ $connected }">Kako mogu znati da li je { -brand-name-mozilla-vpn } povezan?</a>.
+vpn-download-faq-add-device = Kako da dodam drugi uređaj?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Dodavanje drugog uređaja je jednostavno kao preuzimanje i instaliranje softvera { -brand-name-mozilla-vpn }a, a zatim prijava na vaš postojeći { -brand-name-mozilla-account } na novom uređaju. Za više detalja pogledajte <a href="{ $subscription }">Kako dodati uređaje vašoj { -brand-name-mozilla-vpn } pretplati</a>.
+# Obsolete string
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v2 = Dodavanje drugog uređaja je jednostavno kao preuzimanje i instaliranje softvera { -brand-name-mozilla-vpn }a, a zatim prijava na vaš postojeći { -brand-name-firefox-account } na novom uređaju. Za više detalja pogledajte <a href="{ $subscription }">Kako dodati uređaje vašoj { -brand-name-mozilla-vpn } pretplati</a>.
+vpn-download-faq-best-practices = Koje su neke najbolje prakse za VPN?
