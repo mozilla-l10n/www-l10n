@@ -11,4 +11,6 @@ vpn-windows-protect-your-windows = Emo’ã ne Windows mba’e’oka VPN ndive. 
 vpn-windows-stay-safe = Eiko tekorosã ha ñemo’ãme ne Windows mba’e’okápe VPN ndive
 vpn-windows-what-are-the-benefits = ¿Mba’épa ome’ẽkua amboguejývo { -brand-name-mozilla-vpn } che mba’e’okápe Windows?
 vpn-windows-avoid-your-online = Emboyke ne ñeikundaha oñembyaty ha oñemoherakuãvo mbohapyha térã maradu ñemurãva ndive.
+vpn-windows-if-youre = Eiporúramo ta’ãngamýi ñandutípe térã streaming purahéi rehegua, ikatu emboyke ne ñanduti me’ẽha omombegue térã omomichĩvo ne ancho de banda oiporúvo VPN.
+vpn-windows-you-can-exclude = Emboykekuaa peteĩva tembiporu’i tunelización mboja’opyre ndive. Kóva omoneĩta eiporúvo tembiporu’i VPN rupive ha eheja okápe túnel-gui.
 vpn-windows-the-mozilla = Tembiporu’i { -brand-name-mozilla-vpn } ndoiporúi heta mandu’arenda ne Windows mba’e’okápe, naimbeguemo’ãi ne mohendaha ha ipukuvéta nde batería jeporu.
