@@ -119,9 +119,38 @@ vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux<
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 i noviji)
 vpn-landing-faq-refund-question-heading = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
 vpn-landing-faq-refund-question-desc-v2 = Kada se prvi put pretplatite na { -brand-name-mozilla-vpn } putem web stranice { -brand-name-mozilla }, ako otkažete svoj račun u prvih 30 dana, možete zatražiti povrat novca i { -brand-name-mozilla } će refundirati vašu prvu pretplatu.
+vpn-landing-faq-refund-question-additional-desc = Ako pretplatu kupite putem kupovine u aplikaciji od { -brand-name-apple } { -brand-name-app-store } ili { -brand-name-google-play } trgovine, vaše plaćanje podliježe uslovima i odredbama { -brand-name-app-store }. Sve upite za naplatu i povrat novca za takve kupovine morate uputiti na { -brand-name-apple } ili { -brand-name-google }, prema potrebi.
+# Obsolete string
+vpn-landing-faq-refund-question-desc = Svoj novac možete vratiti u roku od 30 dana od kupovine pretplate. Kontaktirajte nas i pošaljite zahtjev za povrat novca tako što ćete dodirnuti dugme “Pomoć” u Postavkama na vašoj { -brand-name-mozilla-vpn } aplikaciji.
+vpn-landing-faq-manage-subscription-question-heading = Kako da upravljam svojom pretplatom?
+# Variables:
+#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
+vpn-landing-faq-manage-subscription-question-desc = Ako ste već pretplaćeni na { -brand-name-mozilla-vpn }, možete promijeniti svoj plan ili <a href="{ $url }">upravljati svojom pretplatom</a> bilo kada.
+vpn-landing-faq-download-heading = Kako da preuzmem { -brand-name-mozilla-vpn } kada sam već pretplaćen?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Posjetite <a { $attrs }>stranicu za preuzimanje</a> da instalirate { -brand-name-mozilla-vpn } na svoj uređaj, a zatim se prijavite koristeći svoj { -brand-name-firefox-account }.
+vpn-landing-faq-link = Pogledajte više čestih pitanja
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-title = Pridružite se listi čekanja: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Budite obavješteni kada { -brand-name-mozilla-vpn } bude dostupan za vašu regiju.
+# Obsolete string
+vpn-landing-invite-page-desc = Budite obavješteni kada { -brand-name-mozilla-vpn } bude dostupan za vaš uređaj i regiju.
+vpn-landing-invite-page-heading = Pridružite se VPN listi čekanja
+vpn-landing-invite-email-label = Koja je vaša email adresa?
+vpn-landing-invite-required-label = Obavezno
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = ime@example.com
+vpn-landing-invite-country-label = U kojoj državi živite?
+vpn-landing-invite-language-label = Odaberite željeni jezik.
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-invite-privacy-policy = Klikom na “Pridruži se listi čekanja”, slažete se s našim <a href="{ $privacy }">Pravilima privatnosti</a>.
+vpn-landing-invite-your-information = Vaši podaci će se koristiti samo za obavještavanje o dostupnosti platforme.
+vpn-landing-invite-thanks-heading = Hvala! Na listi ste
+vpn-landing-invite-thanks-desc = Kada { -brand-name-mozilla-vpn } postane dostupan za vašu regiju, poslat ćemo vam email.
 
 ##
 
