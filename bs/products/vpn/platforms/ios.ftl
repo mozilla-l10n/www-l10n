@@ -27,3 +27,10 @@ vpn-ios-servers-copy = Kupujte iz Švicarske. Strimujte iz Kanade. Surfajte iz A
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Dobijte pristup za { $devices } uređaja
+# Variables:
+#   $devices (number) - number of available devices
+vpn-ios-devices-copy = Uz jednu pretplatu, možete dobiti { -brand-name-mozilla-vpn } na najviše { $devices } različitih uređaja, uključujući { -brand-name-ios } za { -brand-name-iphone } i { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } i { -brand-name-linux }.
+vpn-ios-speed-headline = Najveće brzine. Neograničeni podaci.
+vpn-ios-speed-copy = Igrajte online igrice, emitujte svoje omiljene emisije i krstarite internetom ultra velikom brzinom. Ne brinite o svom propusnom opsegu na { -brand-name-mozilla-vpn } - neograničen je.
+vpn-ios-log-headline = Vaši podaci ostaju privatni. Tačka.
+vpn-ios-log-copy = Neki VPN pružaoci usluga evidentiraju vašu aktivnost na svojim serverima. Ne samo da vas { -brand-name-mozilla-vpn } ne prati na mreži – mi se tome oštro protivimo. To je veliki dio onoga za šta se zalažemo kao kompanija.
