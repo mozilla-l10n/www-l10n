@@ -23,3 +23,10 @@ vpn-windows-servers-headline = Pristupite serverima širom svijeta
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = Sa { $servers }+ servera u više od { $countries } zemalja, možete učiniti sve što vam je potrebno da obavite na mreži — pretražujete, kupujete, provjerite vijesti — tako što ćete postaviti lokaciju svog uređaja na gotovo bilo gdje u svijetu.
 vpn-windows-devices-headline = Jedna pretplata za sve vaše uređaje
+# Variables:
+#   $devices (number) - number of available devices
+vpn-windows-devices-copy = Pretplata na { -brand-name-mozilla-vpn } daje vam neograničen pristup našoj sigurnoj VPN usluzi na najviše { $devices } uređaja za { -brand-name-windows } (uključujući { -brand-name-windows } 10) , { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
+vpn-windows-speed-headline = Nema ograničenja propusnosti
+vpn-windows-speed-copy = Strimujte, igrajte, kupujte i istražujte web nevjerovatno velikom brzinom. Sa neograničenim podacima i bez ograničenja propusnosti, { -brand-name-mozilla-vpn } vam ne smeta.
+vpn-windows-log-headline = Vaša privatnost je naš prioritet
+vpn-windows-log-copy = { -brand-name-mozilla } nikada neće prestati raditi na boljem internetu koji stavlja vašu privatnost na prvo mjesto. Zato { -brand-name-mozilla-vpn } ne prikuplja nikakve podatke o vama niti bilježi vašu mrežnu aktivnost — nijedan od naših proizvoda to ne čini.
