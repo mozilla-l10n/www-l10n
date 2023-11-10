@@ -18,3 +18,17 @@ vpn-mac-wifi-copy = Budite bezbrižni na mreži kada koristite javni WiFi zahval
 vpn-mac-about-headline = Od pouzdanog proizvođača tehnologije
 vpn-mac-about-copy = Od 1998. godine, neprofitna organizacija { -brand-name-mozilla } je vođena svojom misijom da izgradi bolji internet. Od proizvoda kao što je { -brand-name-firefox-browser } do zagovaračkog rada širom svijeta, rad { -brand-name-mozilla }e i dalje osigurava da je internet besplatan i otvoren za sve.
 vpn-mac-privacy-headline = Privatnost na dohvat ruke
+vpn-mac-privacy-copy = Sa { -brand-name-mozilla-vpn }om, vaša internetska veza je šifrovana i vaša IP adresa je zaštićena od hakera i radoznalih internet provajdera zahvaljujući { -brand-name-wireguard }® naprednom protokolu.
+vpn-mac-servers-headline = Pristupite serverima širom svijeta
+# Variables:
+#   $countries (number) - number of available countries
+#   $servers (number) - number of available servers
+vpn-mac-servers-copy = Postavite lokaciju vašeg { -brand-name-mac-short }a po vašem izboru na više od { $servers }+ servera u { $countries }+ zemalja. Ovo vam omogućava da provjeravate vijesti, kupujete, prenosite i surfate internetom s bilo kojeg mjesta.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mac-devices-headline = Zaštitite { $devices } uređaje jednom pretplatom
+vpn-mac-devices-copy = Vaš računar, tablet i pametni telefon zaslužuju da budu sigurni. Koristite { -brand-name-mozilla-vpn } za zaštitu do { $devices } { -brand-name-mac-short } i { -brand-name-ios } uređaja (pored { -brand-name-windows }a, { -brand-name-linux }a i { -brand-name-android }a).
+vpn-mac-speed-headline = Nema potrebe da žrtvujete brzinu
+vpn-mac-speed-copy = Neograničeni podaci i bez ograničenja propusnosti znače da možete istraživati uglove interneta kao što to inače radite — uz dodatni nivo sigurnosti.
+vpn-mac-log-headline = Ono što radite online je vaša stvar
+vpn-mac-log-copy = Uživajte u miru kada koristite { -brand-name-mozilla-vpn }. Vaši podaci su šifrovani, vaša aktivnost se nikada ne evidentira, a vaša privatnost je uvijek zaštićena. To je naše obećanje vama.
