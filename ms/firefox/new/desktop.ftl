@@ -16,6 +16,9 @@ firefox-desktop-download-og-title = Muat turun { -brand-name-firefox } yang terp
 firefox-desktop-download-og-desc = { -brand-name-firefox } terkini telah tiba. Pemuatan laman lebih pantas, penggunaan memori yang sedikit dan padat dengan ciri-ciri baru.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = { -brand-name-firefox } yang terkini boleh didapati. <a { $update_url }>Kemas kini ke versi terkini</a>
 
 firefox-desktop-download-get-the-browser = Dapatkan pelayar yang melindungi kepentingan anda
 # shady is slang which suggests something is untrustworthy

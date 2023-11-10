@@ -16,6 +16,9 @@ firefox-desktop-download-og-title = अब तक का सबसे तेज�
 firefox-desktop-download-og-desc = अधिक तेज़ी से पेज लोडिंग, कम मेमोरी उपयोग और तमाम फ़ीचर्स से लैस, नया { -brand-name-firefox } हाजिर है।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = एक और नवीनतम { -brand-name-firefox } उपलब्ध है। <a { $update_url }>नवीनतम संस्करण में अपडेट करें</a>
 
 firefox-desktop-download-get-the-browser = ज़रूरी चीज़ों की सुरक्षा करने वाला ब्राउज़र इस्तेमाल करें
 # shady is slang which suggests something is untrustworthy

@@ -16,6 +16,9 @@ firefox-desktop-download-og-title = Téléchargez la version la plus rapide de {
 firefox-desktop-download-og-desc = Un chargement des pages plus rapide, une consommation mémoire réduite et plein de fonctionnalités : le nouveau { -brand-name-firefox } est là.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Une version encore plus récente de { -brand-name-firefox } est disponible. <a { $update_url }>Passer à la nouvelle version</a>
 
 firefox-desktop-download-get-the-browser = Installez le navigateur qui protège ce qui est important
 # shady is slang which suggests something is untrustworthy
