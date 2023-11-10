@@ -35,3 +35,5 @@ password-manager-have-firefox-create-a-strong-unique = Naj vam { -brand-name-fir
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Slika obrazca za ustvarjanje računa na spletni strani, kjer { -brand-name-firefox } predlaga močno geslo.
 password-manager-password-security-alerts = Opozorila o varnosti gesel
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Slika { -brand-name-firefox }ovega upravitelja gesel, ki prikazuje opozorilo »To geslo uporablja tudi drug račun, ki je bil verjetno izpostavljen v kraji podatkov. Uporaba enakih poverilnic na več mestih ogroža vse vaše račune. Spremenite to geslo.«

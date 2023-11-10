@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Ustvarite območje brez sledilcev z z
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = V { -brand-name-firefox }u lahko z nastavitvami <a href="{ $privacy }">zasebnosti</a> ali <a href="{ $blocking }">zavračanjem vsebine</a> pridobite še večji nadzor nad sledilci, ki vam prikazujejo oglase.
 features-adblocker-choose-your-level-of-protection = Izberite svojo raven zaščite
+# Obsolete string
 features-adblocker-to-start-click-on-the = Za začetek kliknite { -brand-name-firefox }ov meni v zgornjem desnem kotu zaslona. Videti je, kot tri zložene črte ena na drugo. V spustnem meniju kliknite Zavračanje vsebine. Pojaviti bi se moralo modro pojavno okno z različnimi izbirami.
 features-adblocker-go-easy-with-standard = Začnite enostavno z običajnim načinom
 # Variables:
@@ -55,5 +56,6 @@ features-adblocker-speed-up-thanks-to-ad = Bodite hitrejši zahvaljujoč orodju 
 features-adblocker-in-some-cases-an-ad-blocker = V nekaterih primerih lahko orodje za zavračanje oglasov pohitri vaš brskalnik. Ob nalaganju oglasov se lahko spletna mesta upočasnijo. Hkrati traja dlje časa, da najdete tisto, kar iščete, če morate ob tem še zapirati oglase.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Če želite izvedeti več o zavračanju oglasov, obstaja več sto razširitev za zavračanje oglasov za { -brand-name-firefox } in druge brskalnike. Če želite preizkusiti orodja za zavračanje oglasov, ki jih uporablja { -brand-name-firefox } <a href="{ $url }">kliknite tukaj, da prenesete</a> brskalnik, ki na prvo mesto postavlja zasebnost.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Če želite izvedeti več o zavračanju oglasov, obstaja več sto razširitev za zavračanje oglasov za { -brand-name-firefox } in druge brskalnike. Če želite preizkusiti orodja za zavračanje oglasov, ki jih uporablja { -brand-name-firefox } <a href="{ $url }">kliknite tukaj, da prenesete</a> brskalnik, ki na prvo mesto postavlja zasebnost.
-features-adblocker-take-control-of-your-browser = Prevzemite nadzor nad svojim brskalnikom.
