@@ -142,7 +142,7 @@ firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有设备上皆可用。只需创建 <a { $attrs }>{ -brand-name-firefox } 账户</a>，即可无缝同步标签页、历史记录与书签。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } 可以在您的所有设备上使用，它让你可以随身携带您的标签页、历史记录和书签。您只需创建 <a { $attrs }>{ -brand-name-mozilla-account }</a> 即可使用同步服务及更多 { -brand-name-mozilla } 产品。
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } 可在您的所有设备上使用，把标签页、历史记录和书签随身带着走。只需登录 <a { $attrs }>{ -brand-name-mozilla-account }</a>即可使用同步服务以及更多 { -brand-name-mozilla } 产品。
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = 使用浏览器内置的<a { $attrs }>屏幕截图工具</a>，抓取高分辨率图像如此简单
