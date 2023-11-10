@@ -110,12 +110,54 @@ vpn-shared-platform-privacy-promise = Vaša privatnost je naše obećanje
 vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
 vpn-shared-platform-what-is = Šta je { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Zašto { -brand-name-mozilla-vpn }?
+# Variables:
+#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } radi na globalnoj mreži servera koje pokreće <a href="{ $policy }">{ -brand-name-mullvad }</a> koristeći <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® protokol. { -brand-name-mullvad } stavlja vašu privatnost na prvo mjesto i ne vodi evidenciju bilo koje vrste.
+vpn-shared-platform-what-youll-get = Šta ćete dobiti sa { -brand-name-mozilla-vpn }om:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = Šta je VPN?
+vpn-subnav-faqs = Često postavljena pitanja
+vpn-subnav-get-help = Pomoć
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = Mobitel
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = Šta je IP adresa?
+vpn-subnav-when-to-use-a-vpn = Kada koristiti VPN
+vpn-subnav-vpn-vs-proxy = VPN u odnosu na Proxy
+vpn-subnav-subscribe = Pretplatite se na { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Saznajte više o VPN-ovima
+vpn-subnav-download-mozilla-vpn = Preuzmite { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Koristimo kolačiće da shvatimo koji pridruženi partner vas je doveo do { -brand-name-mozilla-vpn }a. Ne dijelimo lične podatke sa našim partnerima. Pročitajte našu <a { $attrs }>Politiku privatnosti</a>.
+vpn-shared-affiliate-notification-reject = Odbij
+vpn-shared-affiliate-notification-ok = U redu
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Poboljšajte svoju privatnost uz { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Dodajte { -brand-name-firefox-relay } u svoju pretplatu da zaštitite svoj email i broj telefona. <a href="{ $url }">Saznajte više</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Dodaj <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Email maskiranje
+vpn-shared-relay-phone-masking = Maskiranje telefona
+vpn-shared-get-vpn-plus-relay = Nabavite { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Zašto paket?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Uštedite { $percent }%</span> na { -brand-name-relay-premium } godišnjem planu
 
 ##
 
