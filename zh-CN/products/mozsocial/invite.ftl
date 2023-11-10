@@ -12,7 +12,7 @@ mozsocial-invite-please-join-our-waitlist = 请填写表格加入我们的预约
 mozsocial-invite-required-label = 必需
 mozsocial-invite-first-name-label = 名
 mozsocial-invite-last-name-label = 姓
-mozsocial-invite-your-email-address-label = 电子邮件地址
+mozsocial-invite-your-email-address-label = 邮箱地址
 mozsocial-invite-country-label = 国家/地区
 # "Handle" is jargon for a user name.
 mozsocial-invite-twitter-handle-label = Twitter 昵称？
