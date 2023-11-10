@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
@@ -12,7 +12,7 @@ home-with-2x-the-speed-built-in = Com o dobro da velocidade, proteção integrad
 home-we-make-the-internet-safer = Nós fazemos a internet mais segura, mais saudável e mais rápida de vez.
 home-mozilla-is-the-not-for-profit = A { -brand-name-mozilla } é a entidade sem fins lucrativos que suporta o { -brand-name-firefox }, o navegador originalmente alternativo. Nós criamos produtos e políticas para manter a Internet ao serviço das pessoas e não dos lucros.
 home-our-impact = O nosso impacto
-home-when-you-use-firefox-you-help = Quando utiliza o { -brand-name-firefox } está a ajudar a { -brand-name-mozilla } a lutar contra a desinformação online, a ensinar capacidades digitais e a tornar as secções de comentários mais humanas. Confira o que ajuda a criar uma Internet mais saudável.
+home-when-you-use-firefox-you-help = Quando utiliza o { -brand-name-firefox } está a ajudar a { -brand-name-mozilla } a lutar contra a desinformação online, a ensinar capacidades digitais e a tornar as secções de comentários mais humanas. Experimente o que ajuda a criar uma Internet mais saudável.
 home-working-to-keep-the-internet = A trabalhar para manter a Internet saudável, aberta e acessível a todos, ensinamos a alfabetização da web, fornecemos ferramentas e defendemos em nome de cada indivíduo que valoriza a Internet como um recurso público global.
 home-working-at-the-grassroots-and = Trabalhando nas trincheiras e ao nível político, nós ensinamos literacia web, fornecemos ferramentas e advogamos em nome de cada individuo que dê valor a uma Internet baseada em justiça, inclusão e respeito.
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } Information Trust Initiative

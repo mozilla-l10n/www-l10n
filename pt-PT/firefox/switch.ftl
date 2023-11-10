@@ -25,5 +25,5 @@ switch-share-to-facebook = Partilhar para o Facebook
 switch-share-to-facebook-updated = Partilhe com o { -brand-name-facebook }
 switch-send-a-tweet = Enviar um tweet
 switch-hey = Olá,
-switch-check-it-out = Confira e deixe-me saber o que pensa:
+switch-check-it-out = Explore e diga-me o que pensa:
 switch-send-an-email = Enviar um email
