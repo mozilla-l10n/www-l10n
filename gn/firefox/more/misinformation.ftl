@@ -28,13 +28,13 @@ misinformation-outdated-information = Pe marandu ndahekopyahúi ndaha’éi katu
 misinformation-credible-publication = ¿Ohechauka apohára ambue jehaipyre térã guenohẽmbyre, ikatu haguéicha tenda ojekuaávape?
 misinformation-authors-name = Ejuhumba’éramo pe apohára réra añónte tenda naiporãmbáivape, anínte emomba’eterei umi he’iva’ekue.
 misinformation-images-captions = ¿Umi ta’ãnga ha avara’ãnga reratee’i ojuehegua?
-misinformation-images-are-powerful = Ta’ãngakuéra ha’e tembiporu mbarete marandu’ỹrã sãmbyhypyre. Pe teratee’i he’iháicha, ñeñandu ikatu oñemoambue ndaha’éiva pe oiko haguéicha. Nanerekorosãiramo, eheka peteĩ ta’ãnga guive eikuaa hag̃ua mba’éichapa oñeñe’ẽ ambue tendápe.
+misinformation-images-are-powerful = Ta’ãngakuéra ha’e tembiporu mbarete marandu’ỹrã sãmbyhypyre. Pe teratee’i he’iháicha, ñeñandu ikatu oñemoambue ndaha’éiva pe oiko hagueichaite. Nanerekorosãiramo, eheka peteĩ ta’ãnga guive eikuaa hag̃ua mba’éichapa oñeñe’ẽ ambue hendápe.
 misinformation-how-firefox-helps-heading = Mba’éicha nepytyvõta { -brand-name-firefox } emboyke hag̃ua marandu’ỹ
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } oreko tapykuehoha ma’ẽag̃uíme:
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Oje’éma haguéicha, tapykueho ha’e tuicháva marandu vai ñemyasãirã. <a href="{ $firefox }">Pe { -brand-name-firefox }</a> jeporu <a href="{ $protection }"> ndive ñemo’ã iporãvéva tapykuehoha rovake</a> oipytyvõ ojokóvo tapykuehoha mbohapyháva heta ñemurã myasãiha ha ambue mba’apohaguasu ijypykue rupi eikundahakuévo ñandutípe, ha péicha erekóta ndejehe mba’ekuaarã ñandutigua.
+misinformation-firefox-keeps-trackers-desc = Oje’é haguéicha, tapykueho ha’e tuicháva maranduvai ñemyasãirã. <a href="{ $firefox }">Pe { -brand-name-firefox }</a> jeporu <a href="{ $protection }"> ndive ñemo’ã iporãvéva tapykuehoha rovake</a> oipytyvõ ojokóvo tapykuehoha mbohapyháva heta ñemurã myasãiha ha ambue mba’apohaguasu ijypykue rupi eikundahávo ñandutípe, ha péicha erekóta ndejehe mba’ekuaarã ñandutigua.
 misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ipotĩ hag̃ua nde feeds ava ñandutieta:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
@@ -46,11 +46,11 @@ misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta oh
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Embojurujávo tendayke pyahu ne kundahára { -brand-name-firefox }, ehecháta jehaipyre <a href="{ $recommended }">oikuave’ẽva { -brand-name-pocket }</a>. { -brand-name-pocket } ndoiporúi mba’ekuaarã nde reheguáva oikuave’ẽ hag̃ua. Hendaguépe, umi jehaipyre oiporavo tapicha oiporúva pe tembiporu’i. Pe katupyry ojuhu hag̃ua tembiasakue pyahu, jehecha ha ñe’ẽngue ha’e mba’éichapa oñorairõta ani hag̃ua osẽ marandu japuguáva. Eguerekove hag̃ua ñekuave’ẽ, eñemboheraguapy <a href="{ $pocket_hits }">jehaipyre’i { -brand-name-pocket }</a> ndive ha emboguejy <a href="{ $pocket }">{ -brand-name-pocket }</a>.
+misinformation-surface-content-desc = Embojurujávo tendayke pyahu ne kundahára { -brand-name-firefox }, ehecháta jehaipyre <a href="{ $recommended }">oikuave’ẽva { -brand-name-pocket }</a>. { -brand-name-pocket } ndoiporúi mba’ekuaarã nde rehegua oikuave’ẽ hag̃ua. Hendaguépe, umi jehaipyre oiporavo tapicha oiporúva pe tembiporu’i. Pe katupyry ojuhu hag̃ua tembiasakue pyahu, jehecha ha ñe’ẽngue ha’e mba’éichapa oñorairõta ani hag̃ua osẽ marandu japuguáva. Eguerekove hag̃ua ñekuave’ẽ, eñemboheraguapy <a href="{ $pocket_hits }">jehaipyre’i { -brand-name-pocket }</a> ndive ha emboguejy <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
-misinformation-because-we-put-people-first = Ore yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, ore rembipota ha’e ñanduti ñemo’ã ha opavave poruhárape.
+misinformation-because-we-put-people-first = Ore yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, ore rembipota ha’e ñanduti ñemo’ã ha opaite poruhárape.
 misinformation-learn-more-about-our-mission = Eikuaave ore rembipota
 misinformation-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
 misinformation-firefox-products-work-differently = { -brand-name-firefox } apopyrekuéra omba’apo ambueháicha — ojejapo rupi omotenonde hag̃ua ne ñemigua ñemo’ã.
