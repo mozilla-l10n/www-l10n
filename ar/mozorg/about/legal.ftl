@@ -13,6 +13,7 @@ legal-special-thanks-to-all-of-you = نَتقدم بشكر خاص لكم جمي�
 legal-terms = الشروط
 legal-our-websites = مواقعنا
 legal-firefox-services = خدمات { -brand-name-firefox }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = الخصوصيّة والعلامات التّجاريّة
 legal-privacy-notices-and-policy = سياسة وإشعارات الخصوصية
 legal-downloadable-software-notices = إشعارات البرامج القابلة للتّنزيل

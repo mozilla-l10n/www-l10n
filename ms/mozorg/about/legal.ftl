@@ -13,6 +13,7 @@ legal-special-thanks-to-all-of-you = Ucapan terima kasih khusus untuk anda semua
 legal-terms = Syarat-syarat
 legal-our-websites = Laman-laman Web Kami
 legal-firefox-services = Perkhidmatan { -brand-name-firefox }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Privasi & tanda dagangan
 legal-privacy-notices-and-policy = Notis Privasi dan Polisi
 legal-downloadable-software-notices = Notis perisian yang boleh dimuat turun
