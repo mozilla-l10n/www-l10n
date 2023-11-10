@@ -32,3 +32,4 @@ vpn-mobile-devices-copy = Vaša pretplata vam daje neograničen pristup našoj s
 vpn-mobile-speed-headline = Nevjerovatna brzina, bez ograničenja
 vpn-mobile-speed-copy = Strimujte video zapise, igrajte igrice, kupujte i pretražujte brzinom munje. { -brand-name-mozilla-vpn } neće ograničiti vašu propusnost niti usporiti vaš pametni telefon.
 vpn-mobile-log-headline = Vaša privatnost je na prvom mjestu
+vpn-mobile-log-copy = { -brand-name-mozilla } ne prikuplja nikakve podatke o tome ko ste i ne bilježimo vaše aktivnosti na mreži - ne putem našeg VPN-a ili bilo kojeg od naših drugih proizvoda. Zaštita vaše privatnosti je osnovni princip više { -brand-name-mozilla } misije.
