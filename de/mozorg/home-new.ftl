@@ -8,7 +8,7 @@ home-internet-for-people-not-profit = Internet für Menschen, nicht für Profit
 home-did-you-know-mozilla-the-maker = Wir sind { -brand-name-mozilla }. Der Entwickler von { -brand-name-firefox }. Wir kämpfen gegen unternehmerische Kontrolle im Netz. Damit das Internet offen und für alle zugänglich bleibt.
 
 home-mission-driven = Auftragsorientiert. Von Menschen angetrieben.
-home-were-not-normal = Wir sind keine normales Tech-Unternehmen. Unsere Produkte priorisieren die Menschen und den Schutz ihrer Daten gegenüber Profit. Wir existieren, um das Internet für alle zu einem gesünderen, fröhlicheren Ort zu machen.
+home-were-not-normal = Wir sind kein normales Tech-Unternehmen. Unsere Produkte priorisieren die Menschen und den Schutz ihrer Daten gegenüber Profit. Wir existieren, um das Internet für alle zu einem gesünderen, fröhlicheren Ort zu machen.
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Wir sind da, damit das Internet und unser Online-Leben gesünder werden.“
