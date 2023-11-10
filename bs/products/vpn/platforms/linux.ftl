@@ -30,3 +30,8 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } vam daje mogućnost da post
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Povežite do { $devices } uređaja
+vpn-linux-devices-copy = Uz jednu pretplatu, možete dobiti { -brand-name-mozilla-vpn } na najviše { $devices } različitih uređaja na različitim operativnim sistemima, uključujući { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } i { -brand-name-ios } za { -brand-name-iphone } i { -brand-name-ipad }.
+vpn-linux-speed-headline = Ultra brzo sa neograničenim podacima
+vpn-linux-speed-copy = Igrajte igrice, strimujte filmove i emisije i surfajte internetom ultra velikom brzinom i bez ograničenja propusnog opsega — { -brand-name-mozilla-vpn } je neograničen.
+vpn-linux-log-headline = Vaši podaci pripadaju vama
+vpn-linux-log-copy = Neki VPN-ovi bilježe vašu aktivnost na svojim serverima. { -brand-name-mozilla-vpn } vas ne prati na mreži – u stvari, to je veliki dio onoga za šta se zalažemo kao kompanija.
