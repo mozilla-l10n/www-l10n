@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Transferir agora
 download-button-free-download = Transferir gratuitamente
@@ -39,3 +39,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> para { -brand
 download-button-firefox-privacy = Privacidade do { -brand-name-firefox }
 download-button-firefox-privacy-notice = Política de privacidade do { -brand-name-firefox }
 download-button-download = Transferir
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">já não é suportado</a> em { $os_version } e versões anteriores.
+download-button-please-download-esr = Por favor, transfira o { -brand-name-firefox-esr } (Extended Support Release) para utilizar o { -brand-name-firefox }.
+download-firefox-esr = Transferir o { -brand-name-firefox-esr }
+download-firefox-esr-32 = Transferir o { -brand-name-firefox-esr } de 32 bits
+download-firefox-esr-64 = Transferir o { -brand-name-firefox-esr } de 64 bits
+download-a-different-build = Transferir uma compilação diferente

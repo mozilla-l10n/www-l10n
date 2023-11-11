@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
@@ -23,7 +23,7 @@ compare-brave-brave-differentiates-itself = O { -brand-name-brave } diferencia-s
 compare-brave-the-internet-as-a-whole-is = A Internet, na sua grande maioria, é paga pela apresentação de publicidade, que mantem o conteúdo real que pretende visualizar, gratuito. O { -brand-name-brave } tentou alterar este modelo, incentivando os seus utilizadores a optar pelo sistema de recompensa próprio do { -brand-name-brave } que, na realidade, é a sua própria plataforma de anúncios publicitários. Depois de um utilizador optar por este sistema, o { -brand-name-brave } irá apresentar o que eles chamam de "anúncios que respeitam a privacidade", os quais você pode ver e obter uma Basic Attention Token (chave de atenção básica), também conhecido como BAT. A partir deste momento, os utilizadores do { -brand-name-brave } podem optar por gastar os seus BAT, apoiando os sites ou os colaboradores individuais de que gostam que, por sua vez, podem converter estes BAT em dinheiro real.
 compare-brave-whether-this-sounds-complicated = Se isto parece complicado ou se é uma ótima ideia, provavelmente depende do seu nível de desprezo pela apresentação de publicidade na Internet. A maioria dos utilizadores da Internet compreende que os conteúdos de qualidade custam dinheiro e aceita o fato que o dinheiro vem da publicidade.
 # Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/adblock-plus/ with additional attributes for analytics
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
 compare-brave-on-the-other-side-of-the-coin = Do outro lado da moeda, com o navegador { -brand-name-firefox }, preferimos manter as coisas simples. O { -brand-name-firefox } impede que, por predefinição, muitos rastreadores de terceiros, cripto-mineradores e rastreadores digitais o monitorizem. No entanto, o { -brand-name-firefox }, fora do modo de navegação privada, opta por não impedir a apresentação de anúncios publicitários, a menos que você instale <a { $attrs }>uma das extensões projetadas especificamente para este fim</a>.
 # Variables:
 #   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
@@ -45,6 +45,14 @@ compare-brave-the-ability-to-sync-your-passwords = A capacidade de sincronizar a
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = O { -brand-name-firefox } também oferece aos utilizadores a capacidade de se registarem para uma <a { $accounts }>{ -brand-name-mozilla-account }</a>. Ter uma { -brand-name-mozilla-account } é a chave para desbloquear a sincronização entre dispositivos, além de obter o benefício adicional de produtos como o <a { $monitor }>{ -brand-name-mozilla-monitor }</a > que monitoriza os seus endereços de e-mail e avisa-o se alguma das suas informações estiver envolvida em qualquer <a { $breaches }> brecha de dados</a> conhecida.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = O { -brand-name-firefox } também oferece aos utilizadores a capacidade de se registarem para uma <a { $accounts }>{ -brand-name-mozilla-account }</a>. Ter uma { -brand-name-mozilla-account } é a chave para desbloquear a sincronização entre dispositivos, além de obter o benefício adicional de produtos como o <a { $monitor }>{ -brand-name-firefox-monitor }</a > que monitoriza os seus endereços de e-mail e avisa-o se alguma das suas informações estiver envolvida em qualquer <a { $breaches }> brecha de dados</a> conhecida.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = O { -brand-name-firefox } também oferece aos utilizadores a possibilidade de registarem, gratuitamente, uma <a { $accounts }>{ -brand-name-firefox-account }</a>. Ter uma conta { -brand-name-firefox } é a chave para desbloquear a sincronização entre dispositivos, além de benefícios adicionais em produtos como <a { $monitor }>{ -brand-name-firefox-monitor }</a> que monitoriza is seus endereços de e-mail e o notifica se alguma das suas informações estiver envolvida em alguma <a { $breaches }>violação de dados conhecida</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = O { -brand-name-brave } também ganhou recentemente a capacidade de sincronizar dados nos sistemas operativos e dispositivos mais populares, além da capacidade adicional de sincronizar os seus Basic Attention Tokens.

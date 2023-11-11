@@ -9,9 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Obter a { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Junte-se à lista de espera
 vpn-shared-sign-in-link = Já está subscrito?
-# Outdated string
-vpn-shared-available-countries-v4 = Atualmente, oferecemos a { -brand-name-mozilla-vpn } na Áustria, Bélgica, Canadá, França, Alemanha, Irlanda, Itália, Malásia, Holanda, Nova Zelândia, Singapura, Espanha, Suíça, Reino Unido e EUA.
+# Obsolete string
 vpn-shared-available-countries-v5 = Atualmente, oferecemos a { -brand-name-mozilla-vpn } na Áustria, Bélgica, Canadá, Finlândia, França, Alemanha, Irlanda, Itália, Malásia, Holanda, Nova Zelândia, Singapura, Espanha, Suécia, Suíça, Reino Unido e EUA.
+vpn-shared-available-countries-v6 = Atualmente, oferecemos a { -brand-name-mozilla-vpn } na Áustria, Bélgica, Bulgária, Canadá, Croácia, Chipre, República Checa, Dinamarca, Estónia, Finlândia, França, Alemanha, Hungria, Irlanda, Itália, Letónia, Lituânia, Luxemburgo, Malásia, Malta, Holanda, Nova Zelândia, Polónia, Portugal, Roménia, Singapura, Eslovénia, Eslováquia, Espanha, Suécia, Suíça, Reino Unido e EUA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garantia de devolução do dinheiro em 30 dias
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -60,20 +60,28 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } é uma marca registad
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Escolha um plano de subscrição que funcione para si
-# Outdated string
-vpn-shared-pricing-variable-heading = Escolha um plano que funcione para si
+vpn-shared-one-subscription-heading = Uma subscrição para todos os seus dispositivos
+vpn-shared-choose-a-plan-sub-heading = Escolha um plano que funcione para si
 vpn-shared-pricing-variable-sub-heading = Todos os nossos planos incluem:
 vpn-shared-pricing-recommended-offer = Recomendado
-vpn-shared-pricing-plan-6-month = 6 Meses
+vpn-shared-pricing-plan-12-month-v2 = Plano de 12 meses
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 Meses
+vpn-shared-pricing-plan-monthly-v2 = Plano mensal
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Mensalmente
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mês</span>
-# Outdated string
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mês + impostos</span>
+# Obsolete string
 vpn-shared-pricing-get-6-month = Obter o plano de 6 meses
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Obter o plano de 12 meses
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Obter o plano de 6 meses
 vpn-shared-pricing-get-12-month-v2 = Obter o plano de 12 meses
 vpn-shared-pricing-get-monthly = Obter o plano mensal
@@ -89,6 +97,10 @@ vpn-shared-when-you-subscribe = *quando subscrever o plano de 12 meses
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = total { $amount }
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = total + impostos de { $amount }
 
 # Platform subpage shared strings
 
@@ -96,6 +108,8 @@ vpn-shared-platform-cta-headline = Vamos começar
 vpn-shared-platform-cta-button = Ver preços e disponibilidade
 vpn-shared-platform-privacy-promise = A sua privacidade é a nossa promessa
 vpn-shared-platform-trust-partner-headline = Sobre o nosso parceiro de confiança
+vpn-shared-platform-what-is = O que é a { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Porquê a { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -116,6 +130,34 @@ vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = O que é um endereço IP?
 vpn-subnav-when-to-use-a-vpn = Quando utilizar uma VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Proxy
+vpn-subnav-subscribe = Subscrever a { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Saber mais sobre VPNs
+vpn-subnav-download-mozilla-vpn = Transferir a { -brand-name-mozilla-vpn }
+
+## VPN Affiliate cookie notice
+
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+vpn-shared-affiliate-notification-message = Utilizamos cookies para compreender qual o parceiro associado que o encaminhou para a { -brand-name-mozilla-vpn }. Não partilhamos informações de identificação pessoal com os nossos parceiros. Leia a nossa <a { $attrs }>Política de Privacidade</a>.
+vpn-shared-affiliate-notification-reject = Rejeitar
+vpn-shared-affiliate-notification-ok = OK
+
+## VPN + Relay bundle offer
+
+vpn-shared-increase-your-privacy = Melhore a sua privacidade com a { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Adicione o { -brand-name-firefox-relay } à sua subscrição para proteger o seu email e número de telefone. <a href="{ $url }">Saber mais</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Adicionar o <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = Máscara de e-mail
+vpn-shared-relay-phone-masking = Dissimulação de telefone
+vpn-shared-get-vpn-plus-relay = Obter a { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Porquê empacotar?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Poupe { $percent }%</span> no { -brand-name-relay-premium } plano anual
 
 ##
 

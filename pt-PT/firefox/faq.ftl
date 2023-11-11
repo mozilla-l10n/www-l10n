@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -67,12 +67,9 @@ does-firefox-use = O { -brand-name-firefox } utiliza o { -brand-name-google }?
 
 firefoxs-default-search = O { -brand-name-google } é o motor de pesquisa predefinido do { -brand-name-firefox }, o que significa que pode pesquisar na Internet diretamente a partir da barra de endereço. <a href="{ $url }">Saiba mais sobre as preferências do motor de pesquisa e como alterar as predefinições</a>.
 does-firefox-have = O { -brand-name-firefox } tem uma VPN incorporada?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = O { -brand-name-firefox } não tem uma VPN integrada (do Inglês, virtual private network - rede privada virtual), mas existem dois produtos feitos pela { -brand-name-mozilla }/{ -brand-name-firefox } que pode utilizar como complemento ao { -brand-name-firefox-browser } privado que podem proteger a ligação do seu navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) ou dispositivo (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) na rede sem fios, bem como o seu endereço de IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = O { -brand-name-firefox } não tem uma VPN (rede virtual privada) integrada, mas a { -brand-name-mozilla } cria um produto chamado <a href="{ $url }"> { -brand-name-mozilla-vpn }</a> que pode utilizar adicionalmente ao { -brand-name-firefox-browser } privado que pode proteger a sua ligação Wi-Fi, bem como o seu endereço IP.
 related-questions-ip = Questões relacionadas: o { -brand-name-firefox } oculta o seu endereço IP
 who-owns-firefox = Quem é o proprietário do { -brand-name-firefox }?
 

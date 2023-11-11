@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
@@ -13,10 +13,19 @@ compare-chrome-we-compare-mozilla-firefox = Comparamos o { -brand-name-mozilla }
 compare-chrome-comparing-firefox-browser = A comparar o { -brand-name-firefox-browser } com o { -brand-name-google } { -brand-name-chrome }
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-v2 = No { -brand-name-firefox }, temos um grande número de utilizadores dedicados que agradecem a nossa dedicação inabalável à privacidade na Internet. Por exemplo, a versão mais recente do { -brand-name-firefox } inclui uma funcionalidade denominada por Proteção melhorada contra a monitorização (do Inglês, Enhanced Tracking Protection - ETP) que está ativada por predefinição para todos os utilizadores do mundo. A ETP bloqueia mais de 2000 rastreadores, incluindo rastreadores sociais de empresas como o Facebook, Twitter e LinkedIn. Também possui uma funcionalidade integrada denominada por <a { $attrs }>{ -brand-name-mozilla-monitor }</a> que o notifica automaticamente se a sua palavra-passe foi violada ou precisa de ser atualizada. Além destas proteções, o modo de Navegação privada do { -brand-name-firefox } exclui automaticamente a sua informação de navegação, tal como o histórico e cookies, não deixando nenhum rasto após terminar a sessão.
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = No { -brand-name-firefox }, temos um grande número de utilizadores dedicados que apreciam a nossa dedicação constante à privacidade na Internet. Por exemplo, a versão mais recente do { -brand-name-firefox } inclui um recurso chamado ETP (Enhanced Tracking Protection - proteção melhorada contra a monitorização), que é ativada por predefinição para todos os utilizadores em todo o mundo. A ETP bloqueia mais de 2000 rastreadores, incluindo rastreadores sociais de empresas como o { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Ele também possui uma funcionalidade integrada com o nome <a { $attrs }>{ -brand-name-firefox-monitor }</a> que o notifica, de forma automática, se a sua palavra-passe foi violada ou precisa de ser atualizada. Além destas proteções, o modo de navegação privada do { -brand-name-firefox } exclui automaticamente as suas informações de navegação, como o histórico e cookies, sem deixar rastro após o fim da sessão.
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = No { -brand-name-firefox }, temos um grande número de utilizadores dedicados que apreciam a nossa dedicação constante à privacidade na Internet. Por exemplo, a versão mais recente do { -brand-name-firefox } inclui um recurso chamado ETP (Enhanced Tracking Protection - proteção melhorada contra a monitorização), que é ativada por predefinição para todos os utilizadores em todo o mundo. A ETP bloqueia mais de 2000 rastreadores, incluindo rastreadores sociais de empresas como o { -brand-name-facebook }, { -brand-name-twitter } e LinkedIn. Ele também possui uma funcionalidade integrada com o nome <a { $attrs }>{ -brand-name-firefox-monitor }</a> que o notifica, de forma automática, se a sua palavra-passe foi violada ou precisa de ser atualizada. Além destas proteções, o modo de navegação privada do { -brand-name-firefox } exclui automaticamente as suas informações de navegação, como o histórico e cookies, sem deixar rastro após o fim da sessão.
+# Variables:
+#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
+compare-chrome-weve-also-recently-restated-v2 = Recentemente, também reafirmamos o nosso compromisso com a privacidade e a transparência em relação aos dados dos utilizadores na nossa <a { $attrs }>política de privacidade</a> mais recente, que afirma: “Na { -brand-name-mozilla }, acreditamos que a privacidade é fundamental para uma internet saudável.”
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = Recentemente, também reafirmamos o nosso compromisso com a privacidade e a transparência em relação aos dados dos utilizadores na nossa <a { $attrs }>política de privacidade</a> mais recente, que afirma: “Na Mozilla, acreditamos que a privacidade é fundamental para uma Internet saudável.”

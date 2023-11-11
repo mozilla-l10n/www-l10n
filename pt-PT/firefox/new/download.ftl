@@ -27,7 +27,7 @@ firefox-new-need-help = Precisa de ajuda?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">não disponibiliza mais atualizações de segurança</a> no { -brand-name-windows } { -brand-name-xp } ou { -brand-name-vista }, mas pode continuar a utilizar o { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-youre-using-an-insecure-outdated = Está a utilizar um sistema operativo desatualizado e inseguro <a href="{ $url }">que já não é suportado pelo { -brand-name-firefox }</a>.
@@ -45,7 +45,7 @@ firefox-new-please-follow = Por favor, siga <a href="{ $url }">estas instruçõe
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = O seu sistema pode não cumprir os requisitos para o { -brand-name-firefox }, mas pode experimentar uma <a href="{ $url }">destas versões</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-new-windows-10 = { -brand-name-windows }10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -63,3 +63,4 @@ firefox-new-fast = Rápido, privado e gratuito
 firefox-new-from-mozilla = da { -brand-name-mozilla }
 firefox-new-desc = O { -brand-name-firefox-browser } é um navegador gratuito, com carregamento de páginas rápido, menor utilização de memória e muitas funcionalidades - um projeto sem fins lucrativos da { -brand-name-mozilla }.
 firefox-new-download-a-different = Transferir para um idioma ou ambiente diferente
+firefox-new-taskbar = O { -brand-name-firefox } será fixado à barra de tarefas do { -brand-name-windows } após a instalação

@@ -70,10 +70,13 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
@@ -82,7 +85,9 @@
 -brand-name-lockwise = Lockwise
 -brand-name-monitor = Monitor
 -brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
@@ -99,6 +104,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
@@ -106,8 +112,12 @@
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = Conta Mozilla
+-brand-name-mozilla-accounts = contas Mozilla
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -125,7 +135,7 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
+# Obsolete string
 -brand-name-web-assembly = Web Assembly
 
 ## Other browsers

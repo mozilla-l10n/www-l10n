@@ -33,6 +33,8 @@ navigation-v2-view-all-firefox-browsers = Ver todos os { -brand-name-firefox-bro
 
 navigation-v2-products = Produtos
 navigation-v2-close-products-menu = Fechar menu de Produtos
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Confirme se o seu e-mail apareceu numa violação de dados de alguma empresa.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,9 +48,8 @@ navigation-v2-learn-how-each-firefox-product = Saiba como cada produto { -brand-
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registe novas contas sem fornecer o seu endereço de e-mail.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Proteja a ligação do seu navegador à Internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Novas funcionalidades e ferramentas para uma experiência personalizada com a { -brand-name-mdn }
 navigation-v2-view-all-products = Ver todos os produtos
 
 ## Who We Are menu
@@ -67,6 +68,8 @@ navigation-v2-careers = Carreiras
 navigation-v2-work-for-a-mission-driven-updated = Trabalhe para uma organização orientada por uma missão e que constrói produtos que colocam as pessoas em primeiro lugar.
 navigation-v2-mozilla-blog = Blogue da { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Saiba mais sobre a { -brand-name-mozilla } e os problemas que são importantes para nós.
+navigation-v2-stories = Histórias
+navigation-v2-stories-about-how = Histórias sobre como as nossas pessoas e produtos estão a mudar o mundo para melhor.
 navigation-v2-more-about-mozilla = Mais sobre a { -brand-name-mozilla }
 
 ## Innovation menu
@@ -85,4 +88,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Faça um donativo da sua voz para que o futuro da Internet possa ouvir todos.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Saiba mais sobre a nova linguagem de baixo nível semelhante ao assembly.
-navigation-v2-more-mozilla-innovation = Mais inovação { -brand-name-mozilla }

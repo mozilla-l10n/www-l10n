@@ -5,18 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = Uma melhor experiência na Internet
-features-shared-more-firefox-features = Mais funcionalidades do { -brand-name-firefox }
-features-shared-browse-faster = Navegue mais rápido
-features-shared-your-favorite-extensions = As suas extensões favoritas
-features-shared-balanced-memory = Memória equilibrada
-features-shared-more-powerful-private-browsing = Navegação privada mais poderosa
-features-shared-ad-tracker-blocking = Bloqueio de rastreadores de anúncios
-features-shared-password-manager = Gestor de palavras-passe
-features-shared-customize-your-browser = Personalize o seu navegador
-features-shared-sync-between-devices = Sincronize entre dispositivos
-features-shared-better-bookmarks = Melhores marcadores
+features-shared-firefox-features = Funcionalidades do { -brand-name-firefox }
+features-shared-footer-cta-title = Faça mais com o { -brand-name-firefox }
+features-shared-footer-cta-desc = Obtenha o navegador rápido e leve, focado na privacidade, apoiado por uma organização sem fins lucrativos e que funciona em todos os seus dispositivos.
+features-shared-footer-cta-button = Transferir o { -brand-name-firefox }
+features-shared-is-firefox-a-fast-browser = O { -brand-name-firefox } é um navegador rápido?
+features-shared-is-firefox-a-private-browser = O { -brand-name-firefox } é um navegador privado?
+features-shared-free-password-manager = Gestor de palavras-passe
+features-shared-customize-your-firefox-browser = Personalize o seu navegador { -brand-name-firefox }
+features-shared-firefox-browser-sync = Sincronização do navegador { -brand-name-firefox }
+features-shared-bookmark-manager = Gestor de marcadores
+features-shared-private-browsing-mode = Modo de navegação privada
+features-shared-firefox-add-ons-and-browser-extensions = Extras e extensões do navegador do { -brand-name-firefox }
+features-shared-pinned-browser-tabs = Fixar separadores do navegador
+features-shared-eyedropper-tool = Ferramenta de contorno
+features-shared-pdf-editor = Editor de PDF
 features-shared-fingerprinter-blocking = Bloqueio de identificadores digitais
 features-shared-translate-the-web = Traduzir a Internet
 features-shared-picture-in-picture = Vídeo em janela flutuante
-brand-name-firefox = { -brand-name-firefox }

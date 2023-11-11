@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,6 +26,10 @@ best-browser-there-are-a-few-ways = Existem algumas formas de um navegador ajuda
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = O segundo é o não armazenamento de demasiada informação do utilizador. Os piratas não podem roubar o que não está disponível, motivo pelo qual o { -brand-name-firefox } apenas preserva uma pequena quantidade de informação sobre os seus utilizadores. O <a href="{ $data }">{ -brand-name-firefox } sabe</a> se utiliza o navegador e a sua localização aproximada <a href="{ $privacy }">mas não o nome do seu animal de estimação ou a sua cor favorita.</a>
 best-browser-last-but-not-least = Por último, mas não menos importante, um navegador seguro deveria oferecer ferramentas para o ajudar a ficar de olho nas suas contas. Pense nos alertas que vão diretamente para o seu e-mail se alguma das suas contas for violada, ou nos ícones que o informam se um site está encriptado (por exemplo, se é uma boa ideia inserir o seu número de cartão de crédito num site de compras).
+# Variables:
+# $monitor (url) - link to https://www.mozilla.org/products/monitor/
+best-browser-firefox-is-offering-v2 = O { -brand-name-firefox } está a oferecer algo novo para o manter seguro: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. É um serviço gratuito que irá alertá-lo se existirem quaisquer invasões públicas nas suas contas e informá-lo se as suas contas foram invadidas no passado. Outra funcionalidade interessante é o Bloqueio Verde. Parece um pequeno ícone verde no canto superior esquerdo da janela do navegador. Se está no { -brand-name-firefox } e vê o cadeado verde, significa que o site está encriptado e seguro. Se o cadeado estiver cinzento, pode querer pensar duas vezes antes de introduzir qualquer informação sensível.
+# Obsolete string
 # Variables:
 # $monitor (url) - link to https://monitor.firefox.com
 best-browser-firefox-is-offering = O { -brand-name-firefox } está a oferecer algo de novo para o manter seguro: <a href="{ $monitor }"> { -brand-name-firefox-monitor } </a>. É um serviço gratuito que o irá alertar se houver ataques públicos às suas contas e que irá informar se as suas contas foram atacadas no passado. Outra funcionalidade interessante é o cadeado verde. Este apresenta-se como um pequeno ícone verde no canto superior esquerdo da janela do navegador. Se está no { -brand-name-firefox } e vê o cadeado verde, significa que o site está encriptado e seguro. Se o cadeado for cinzento, convém pensar duas vezes antes de inserir qualquer informação sensível.

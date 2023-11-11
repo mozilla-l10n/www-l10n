@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
@@ -29,6 +29,10 @@ firefox-privacy-hub-no-secrets = Sem segredos
 firefox-privacy-hub-youll-always-know-where-you = Você saberá sempre como as coisas funcionam connosco
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Não há nenhuma agenda oculta aqui. O nosso negócio não depende de abusar secretamente da sua confiança. As nossas <a href="{ $privacy }">Informações de privacidade</a> são realmente legíveis. Se quiser explorar todos os pontos de dados que recolhemos, o nosso código é aberto. E nós também.
+# Obsolete string
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $meetings (url) - link to https://wiki.mozilla.org/
 firefox-privacy-hub-theres-no-hidden-agenda-here = Não há uma agenda oculta aqui. O nosso negócio não depende de abusar secretamente da sua confiança. As nossas <a href="{ $privacy }">Informações de privacidade</a> são realmente legíveis. Qualquer pessoa no mundo pode participar nas nossas <a href="{ $meetings }">reuniões semanais da empresa</a>. Se quiser explorar todos os pontos de dados que recolhemos, o nosso código é aberto. E nós também.
 firefox-privacy-hub-why-trust-firefox = Porquê confiar no { -brand-name-firefox }?
@@ -40,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = A sua privacidade, pelo produt
 firefox-privacy-hub-firefox-products-work-differently = Os produtos { -brand-name-firefox } funcionam de maneira diferente porque foram projetados para, antes de tudo, proteger a sua privacidade .
 firefox-privacy-hub-learn-about-our-products = Saber mais sobre os nossos produtos
 firefox-privacy-hub-firefox-privacy-by-the = Privacidade do { -brand-name-firefox }, pelo produto
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = O { -brand-name-firefox } protege a sua privacidade em todos os produtos.
+firefox-privacy-hub-mozilla-protects-your-privacy = A { -brand-name-mozilla } protege a sua privacidade em todos os produtos.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = O { -brand-name-firefox } <strong>protege</strong> a sua privacidade em todos os produtos
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = A { -brand-name-mozilla } <strong>protege</strong> a sua privacidade em todos os produtos.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Mais de 2000 rastreadores bloqueados - automaticamente
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -57,11 +65,17 @@ firefox-privacy-hub-meet-four-of-the-most-common = Conheça quatro das categoria
 firefox-privacy-hub-always-in-your-control = Sempre sob o seu controlo
 firefox-privacy-hub-want-to-customize-what = Deseja personalizar o que é bloqueado? As suas configurações estão apenas a um clique de distância.
 firefox-privacy-hub-protection-beyond-tracking = Proteção além do rastreamento
+firefox-privacy-hub-if-you-have-a-mozilla-account = Se tem uma { -brand-name-mozilla-account }, pode também ver como estamos a ajudar-lhe a proteger as suas informações pessoais e palavras-passe.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Se você possui uma { -brand-name-firefox-account }, também pode ver como o estamos a ajudar a proteger as suas informações pessoais e palavras-passe.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mais de { $trackers } rastreadores bloqueados todos os dias em todo o mundo para utilizadores do { -brand-name-firefox }
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Quando você introduz o seu endereço de e-mail no { -brand-name-mozilla-monitor }, nós não guardamos qualquer registo do mesmo após verificarmos se existe alguma correspondência em violações de dados conhecidas - a menos que você nos autorize a continuar a monitorizar e pesquisar por novas violações das suas informações pessoais.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Quando você introduz o seu endereço de e-mail no { -brand-name-firefox-monitor }, nós não guardamos qualquer registo do mesmo após verificarmos se existe alguma correspondência em violações de dados conhecidas - a menos que você nos autorize a continuar a monitorizar e pesquisar por novas violações das suas informações pessoais.
 firefox-privacy-hub-check-for-breaches = Pesquisar por violações
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
@@ -73,9 +87,21 @@ firefox-privacy-hub-send-a-file = Enviar um ficheiro
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta qualidade com curadoria humana, sem recolher o seu histórico de navegação ou partilhar as suas informações pessoais com os anunciantes.
 firefox-privacy-hub-get-pocket = Obter o { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = A sua { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = A sua { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Todas as informações sincronizadas através da sua { -brand-name-mozilla-account } - do histórico do navegador, às palavras-passe - são encriptadas. E a palavra-passe da sua conta é a única chave.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Todas as informações sincronizadas através da sua { -brand-name-firefox-account } - do histórico do navegador, às palavras-passe - são encriptadas. E a palavra-passe da sua conta é a única chave.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Leve a sua privacidade e os seus marcadores para todo o lado com uma { -brand-name-mozilla-account }.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Leve a sua privacidade e os seus marcadores para todo o lado com uma { -brand-name-firefox-account }.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Já tem uma conta? <a { $sign_in } class="{ $class_name }">Inicie sessão</a> ou <a href="{ $learn_more }">saiba mais</a> sobre como aderir à { -brand-name-mozilla }.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link
