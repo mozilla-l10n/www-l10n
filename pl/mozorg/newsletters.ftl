@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = Treść mnie nie interesowała.
 newsletters-your-email-design = E-maile nie były przejrzyste i czytelne.
 newsletters-i-didnt-sign-up = Subskrypcja nie została zamówiona przeze mnie.
 newsletters-please-select-a-reason = Wybierz powód anulowania subskrypcji.
+newsletters-fxa-error-retry = Wystąpił problem podczas przekierowywania do preferencji subskrypcji. Spróbuj użyć poniższego formularza.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
