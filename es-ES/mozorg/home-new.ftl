@@ -12,3 +12,12 @@ home-were-not-normal = No somos una empresa de tecnología normal. Las cosas que
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “La salud de Internet y la vida en línea es nuestra razón de ser.”
 home-mitchell-baker = Mitchell Baker, CEO de { -brand-name-mozilla }
+home-mozilla-makes-privacy = { -brand-name-mozilla } desarrolla productos que respetan la privacidad
+home-product-firefox-browsing = Navegación privada y segura
+home-cta-get-firefox = Obtén { -brand-name-firefox }
+home-product-pocket-articles = Los artículos más intrigantes de la web.
+home-cta-get-pocket = Obtener { -brand-name-pocket }
+home-product-relay-masks = Máscaras de correo electrónico y de teléfono fáciles de usar
+home-cta-get-relay = Obtén { -brand-name-relay }
+home-product-vpn-trust = Una VPN en la que puedes confiar
+home-cta-get-vpn = Consigue { -brand-name-mozilla-vpn }

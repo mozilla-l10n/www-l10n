@@ -119,6 +119,7 @@ newsletters-your-content-wasnt-relevant = El contenido no me parecía relevante.
 newsletters-your-email-design = El diseño del email no era fácil de leer.
 newsletters-i-didnt-sign-up = No me di de alta en esta suscripción.
 newsletters-please-select-a-reason = Selecciona el motivo de la cancelación de la suscripción.
+newsletters-fxa-error-retry = Lo sentimos, pero ha habido un problema al dirigirte a las preferencias de correo electrónico. Prueba el formulario a continuación.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Esta dirección de email no está en nuestro sistema. Comprueba tu dirección o <a href="{ $url }">suscríbete a nuestros boletines.</a>
@@ -167,7 +168,7 @@ newsletters-get-involved = Participa
 newsletters-insights = Puntos de vista
 # Obsolete string
 newsletters-internet-health-report = Informe de salud de Internet
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publica artículos y profundiza en temas relacionados con la salud de Internet y la IA confiable, incluyendo nuestro Informe anual de salud de Internet.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Mantente al día sobre las investigaciones e historias relacionadas con los problemas de privacidad, seguridad, transparencia, inclusión digital, descentralización y cultura web.
