@@ -12,7 +12,7 @@ plan-matrix-title = Precios
 plan-matrix-offer-title = Elige un nivello de protection que es justo pro te
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } protege tu identitate e tu cassa de ingresso con mascas email unic. Adde ancora plus securitate con mascas pro telephono { -brand-name-relay }, e sparnia { $savings }% addente le protection de { -brand-name-mozilla-vpn } protection.
+plan-matrix-offer-body-v2 = { -brand-name-firefox-relay } protege tu identitate e tu cassa de entrata con mascas unic de e-mail. Adde ancora plus securitate con mascas { -brand-name-relay } de telephono, e economisa { $savings }% addente le protection de { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
