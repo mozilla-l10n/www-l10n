@@ -33,6 +33,4 @@ highlighted-features-section-block-promotions-body =
     Con { -brand-name-relay-premium }, tu pote impedir al emails promotional de attinger tu 
     cassa de ingresso dum ancora tu recipe emails como quitantias o informationes de expedition.
 highlighted-features-section-remove-trackers-headline = Remover traciatores de emails
-highlighted-features-section-remove-trackers-body =
-    { -brand-name-relay } pote remover le commun traciatores de email de ulle emails inultrate pro te, adjutante 
-    te a remaner invisibile a traciatores e publicitarios.
+highlighted-features-section-remove-trackers-body = { -brand-name-relay } pote remover le traciatores commun de e-mail de tote le emails reexpedite a te, adjutante te a remaner invisibile a traciatores e annunciantes.
