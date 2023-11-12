@@ -10,17 +10,17 @@
 
 faq-headline = Folio a questiones
 faq-question-what-is-question-2 = Que es un masca email de { -brand-name-relay }?
-faq-question-what-is-answer-2 = Le mascas email es adresses email mascate, o private, que inultra le messages a tu ver adresse email. Iste mascas te permitte de compartir un adresse con tertie partes que mascarara tu ver adresse email e inultrara le messages a illo.
+faq-question-what-is-answer-2 = Le mascas de e-mail es adresses de e-mail mascate, o private, que reexpedi le messages a tu ver adresse de e-mail. Iste mascas te permitte divulgar un adresse a tertie partes que masca tu ver adresse de e-mail e reexpedira le messages inviate a illo.
 faq-question-missing-emails-question-2 = Io non recipe messages ab mi mascas email
-faq-question-missing-emails-answer-a-2 = Il ha alcun rationes perque tu pote non reciper emails inultrate per tu mascas. Iste rationes include:
+faq-question-missing-emails-answer-a-2 = Il ha alcun rationes perque tu pote non reciper emails reexpedite a transverso tu mascas. Iste rationes include:
 faq-question-missing-emails-answer-reason-spam = Messages que vade in SPAM
 faq-question-missing-emails-answer-reason-blocked-2 = Tu fornitor de servicios email bloca tu mascas email
 # Variables:
 #  $size (number): maximum size for attachments in MB
-faq-question-missing-emails-answer-reason-size = Le e-mail inultrate ha un annexo major de { $size }
+faq-question-missing-emails-answer-reason-size = Le e-mail reexpedite ha un annexo plus grande de { $size } MB
 faq-question-missing-emails-answer-reason-not-accepted-2 = Le sito non accepta mascas email
-faq-question-missing-emails-answer-reason-turned-off-2 = Le mascas pote haber le function de inultrar disactivate
-faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } pote star plus longemente que usual pro inultrar tu messages
+faq-question-missing-emails-answer-reason-turned-off-2 = Le reexpedition pote haber essite disactivate pro le masca
+faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } pote prender plus tempore que usual pro reexpedir tu messages.
 #   $url (url) - link to the support site
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Si tu combatte con ulle de iste problemas, <a href="{ $url }" { $attrs }>visita nostre sito de assistentia</a>.
@@ -33,7 +33,7 @@ faq-question-2-question-2 = Perque un sito non acceptara mi masca email de { -br
 #   $attrs (string) - specific attributes added to external links
 faq-question-2-answer-v4 = Alcun sitos pote non acceptar un adresse email que include un sub-dominio (@subdomain.mozmail.com) e alteres ha cessate de acceptar tote le adresses excepte illos del contos Gmail, Hotmail o Yahoo.
 faq-question-1-question = E quanto al spam?
-faq-question-1-answer-a-2 = Ben que { -brand-name-relay } non filtra le spam, nostre partner in email, Amazon SES, bloca spam e malware. Si { -brand-name-relay } reexpedi messages que tu non vole, tu pote actualisar tu parametros de { -brand-name-relay } pro blocar le messages del masca que los inultra.
+faq-question-1-answer-a-2 = Ben que { -brand-name-relay } non filtra le spam, nostre partner in e-mail, Amazon SES, bloca spam e malware. Si { -brand-name-relay } reexpedi messages que tu non vole, tu pote actualisar tu parametros de { -brand-name-relay } pro blocar le messages del masca que los reexpedi.
 # Variables:
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
@@ -42,7 +42,7 @@ faq-question-availability-question = Ubi es disponibile { -brand-name-relay }?
 faq-question-availability-answer-v3 = { -brand-name-relay } gratuite es disponibile in le major parte del paises. { -brand-name-relay-premium } es disponibile in Austria, Belgio, Canada, Cypro, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Latvia, Lituania, Luxemburg, Malaysia, Malta, Hollanda, Nove Zelanda, Portugal, Singapore, Slovachia, Slovenia, Espania, Svedia, Suissa, Regno Unite, e le Statos Unite.
 faq-question-landing-page-availability = { -brand-name-relay } es disponibile gratuite in plure paises. Le mascas email de { -brand-name-relay-premium } es disponibile in le Statos Unite, Germania, Regno Unite, Canada, Singapur, Malayalam, Nove Zelanda, Francia, Belgio, Austria, Espania, Italia, Suissa, Hollanda e Irlanda. { -brand-name-relay-premium } es solo disponibile in le SUA ein Canada.
 faq-question-4-question-2 = Pote io responder a messages usante mi masca email de { -brand-name-relay }?
-faq-question-4-answer-v4 = Le usatores de { -brand-name-relay-premium } pote replicar a un e-mail inultrate intra 3 menses de reciper lo. Si tu adde un CC o CCN quando tu replica retro a un e-mail, tu original adresse e-mail sera exponite al destinatario e a illes copiate super le e-mail. Si tu non vole que tu original adresse e-mail sia exponite, non adder CCs o Ccn quando responde.
+faq-question-4-answer-v4 = Le usatores de { -brand-name-relay-premium } pote responder a un e-mail reexpedite intra 3 menses post reception. Si tu adde un CC o CCN quando tu responde a un e-mail, tu adresse de e-mail original essera exponite al destinatario e al personas que ha recipite un copia del e-mail. Si tu non vole que tu adresse de e-mail original es exponite, non adde CC o CCN quando tu responde.
 faq-question-subdomain-characters-question = Que characteres pote io usar pro crear un subdominio?
 faq-question-subdomain-characters-answer-v2 = Tu pote solo usar litteras minuscule anglese, numeros, e lineettas pro crear un sub-dominio.
 faq-question-browser-support-question = Pote io usar { -brand-name-relay } sur altere navigatores o sur mi apparato mobile?
@@ -51,10 +51,10 @@ faq-question-longevity-question = Que eveni si { -brand-name-mozilla } claude le
 faq-question-longevity-answer-2 = Nos in avantia te dara aviso que tu debe cambiar le adresse email de ulle contos que usa mascas email de { -brand-name-relay }.
 faq-question-mozmail-question-2 = Perque mi mascas email comenciava usar le dominio “mozmail.com?”
 faq-question-mozmail-answer-2 = Nos passava de “relay.firefox.com” a “mozmail.com” pro render possibile obtener un subdominio email personal, tal como mask@yourdomain.mozmail.com. Le subdominios email personal, disponibile pro le subscriptores de { -brand-name-relay-premium }, te permitte de generar mascas email plus facile a rememorar.
-faq-question-attachments-question = Inultrara { -brand-name-firefox-relay } e-mails con annexos?
+faq-question-attachments-question = Reexpedira { -brand-name-firefox-relay } messages con annexos?
 # Variables:
 #  $size (number): maximum size for attachments in MB
-faq-question-attachments-answer-v2 = Nos ora supporta le inultramento de annexos. Comocunque, il ha un limite de { $size } MB pro inultrar email per { -brand-name-relay }.
+faq-question-attachments-answer-v2 = Nos ora supporta le reexpedition de annexos. Nonobstante, il ha un limite de { $size } MB pro reexpedir e-mail a transverso { -brand-name-relay }. Omne messages plus grande que { $size } MB non essera reexpedite.
 faq-question-unsubscribe-domain-question-2 = Que eveni a mi subdominio personal si io me remove del abonamento de { -brand-name-relay-premium }?
 faq-question-unsubscribe-domain-answer-2 = Si tu degrada de { -brand-name-relay-premium }, tu recipera ancora emails inultrate a transverso de tu mascas email personal, ma tu non plus potera crear nove mascas per ille subdominio. Si tu ha plus que cinque mascas in total, tu non potera crear ulle plus. Tu alsi perdera le capacitate de replica a messages inultrate. Tu pote re-abonar te a { -brand-name-relay-premium } e reganiar accesso a iste functionalitates.
 faq-question-8-question = Que datos collige { -brand-name-firefox-relay }?
