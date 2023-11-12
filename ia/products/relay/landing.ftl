@@ -11,10 +11,7 @@ meta-description-2 = { -brand-name-firefox-relay } rende facile crear mascas de 
 ## HERO SECTION
 
 hero-section-title = Protege tu identitate con securitate disguisante telephono e email
-hero-section-body =
-    Nostre secur mascas email e de telephono, facile a usar, adjuta a mantener tu identitate 
-    private assi que tu pote inscriber te al nove contos anonymemente, stoppar SMS spam e appellos immunditia, e 
-    reciper solo le emails que tu vole in tu cassa de ingresso.
+hero-section-body = Nostre mascas de e-mail e de telephono, secur e facile a usar, adjuta a mantener tu identitate private de maniera que tu pote inscriber te a nove contos anonymemente, stoppar spam in SMS e appellos telephonic publicitari, e reciper solmente le messages que tu vole in tu cassa de entrata.
 # Context: This lists the various websites and magazines who have mentioned Firefox Relay.
 # Example: "As seen in: FORBES magainze and LifeHacker"
 hero-section-social-proof = Como vidite in
@@ -53,7 +50,7 @@ landing-review-user-two-review = Simple instrumento pro liberar se o impedir le 
 landing-review-user-three-review = Io ama iste extension! Multo simple, ma potente e le integration con le navigator es meraviliose.
 landing-review-user-four-review-list-1 = Da tranquillitate explorante internet.
 landing-review-user-four-review-list-2 = Protege proprie identitate del traciatores le per generation de aliases ubi on non vole compartir le real adresse email pro varie rationes.
-landing-review-user-four-review-list-3 = Le datos del cassa de ingresso email es secur in le manos de { -brand-name-firefox-relay }.
+landing-review-user-four-review-list-3 = Le datos del cassa de entrata de e-mail es secur in le manos de { -brand-name-firefox-relay }.
 landing-review-user-four-review-list-4 = { -brand-name-firefox-relay } functiona a meravilia, prova lo !!!
 
 ## FAQ SECTION
