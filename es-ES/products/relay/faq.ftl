@@ -128,3 +128,6 @@ phone-masking-faq-answer-how-i-save-card = Una vez que actualices al enmascarami
 phone-masking-faq-question-install-app = ¿Necesito instalar una aplicación para usar el enmascaramiento telefónico de { -brand-name-relay }?
 phone-masking-faq-answer-install-app = No, el enmascaramiento de teléfono { -brand-name-relay } funciona usando las aplicaciones de llamadas y mensajes de texto estándar de tu dispositivo.
 phone-masking-faq-question-data = ¿Qué tipo de datos almacena el enmascaramiento telefónico de { -brand-name-relay }?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Por favor, consulta la <a href="{ $url }" { $attrs }>Política de privacidad de { -brand-name-firefox-relay }</a>.
