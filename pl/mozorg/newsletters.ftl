@@ -35,9 +35,9 @@ newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Upewnij się, że ad
 newsletters-please-be-sure-to-add-mozillaemozillaorg = Upewnij się, że masz mozilla@e.mozilla.org w książce adresowej, aby nigdy nie zgubić wiadomości od nas.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } porusza wiele ważnych zagadnień.
 newsletters-open-your-inbox-and-your = Jeszcze bardziej otwórz swoją skrzynkę (i swoje serce) — zobacz, jakie tematy omawiamy.
-newsletters-manage-your-email-preferences = Zarządzanie ustawieniami poczty
+newsletters-manage-your-email-preferences = Zarządzanie preferencjami subskrypcji
 newsletters-this-page-is-in-maintenance = Trwają prace techniczne i strona jest tymczasowo niedostępna.
-newsletters-to-update-your-email-preferences = Aby uaktualnić ustawienia e-mail, odśwież stronę za jakiś czas. Dziękujemy!
+newsletters-to-update-your-email-preferences = Aby uaktualnić preferencje subskrypcji, odśwież stronę za jakiś czas. Dziękujemy!
 newsletters-we-love-sharing-updates = Kochamy dzielić się informacjami o wszystkich ciekawych rzeczach dziejących się w { -brand-name-mozilla(case: "loc") }.
 newsletters-set-your-preferences-below = Wybierz odpowiednie ustawienia, aby zawsze otrzymywać tylko interesujące informacje.
 # Form field label
@@ -111,7 +111,7 @@ newsletters-put-more-fox-in-your-inbox = Więcej lisów w Twojej skrzynce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-see-where-the-web-can-take = Zobacz, co możesz zrobić w sieci dzięki comiesięcznym wskazówkom i skrótom dla { -brand-name-firefox(case: "gen") } i Internetu.
 newsletters-we-are-sorry-but-there = Przepraszamy, ale mamy problemy z systemem. Proszę spróbować później.
-newsletters-thanks-for-updating-your = Dziękujemy za aktualizację ustawień e-mail.
+newsletters-thanks-for-updating-your = Dziękujemy za aktualizację preferencji subskrypcji.
 newsletters-success-an-email-has-been-sent = Sukces! Wiadomość z odnośnikiem do panelu ustawień subskrypcji została wysyłana.
 newsletters-this-is-not-a-valid-email = Nieprawidłowy adres e-mail. Proszę sprawdzić, czy adres nie zawiera literówek.
 newsletters-you-send-too-many-emails = Przychodziło do mnie za dużo poczty.
@@ -133,9 +133,9 @@ newsletters-sign-up-read-up-make-a-difference = Zapisz się. Czytaj.<br> Miej zn
 newsletters-get-smart-on-the-issues = Dowiedz się o problemach wpływających na Twoje życie w sieci.
 # Obsolete string
 newsletters-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby otrzymywać informacje o zagrożeniach dla Internetu i możliwościach zaangażowania się.
-newsletters-your-email-preferences = Ustawienia e-mail zostały pomyślnie uaktualnione.
+newsletters-your-email-preferences = Preferencje subskrypcji zostały pomyślnie uaktualnione.
 newsletters-consider-it-done = Uznaj to za załatwione
-newsletters-back-to-email-preferences = Wróć do ustawień e-mail
+newsletters-back-to-email-preferences = Wróć do preferencji subskrypcji
 newsletters-here-are-a-few-things = Oto kilka rzeczy, które mogą Cię zainteresować, zanim dostaniesz następną wiadomość.
 newsletters-take-your-privacy = Prywatność zawsze przy Tobie
 newsletters-travel-the-internet = Podróżuj po Internecie z ochroną na wszystkich urządzeniach.
@@ -167,7 +167,7 @@ newsletters-get-involved = Pomóż nam
 newsletters-insights = Insights
 # Obsolete string
 newsletters-internet-health-report = Raport o zdrowiu Internetu
-# Description for the newsletter in Newsletter subscription page (Insights))
+# Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje artykuły i analizy problemów związanych ze zdrowiem Internetu i zaufaniem do sztucznej inteligencji, w tym nasz coroczny Raport o zdrowiu Internetu.
 # Obsolete string
 newsletters-keep-up-with-our-annual = Bądź na bieżąco z naszym corocznym zbiorem badań i historii na temat prywatności i bezpieczeństwa, otwartości, e-integracji, decentralizacji i edukacji internetowej.
