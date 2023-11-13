@@ -8,17 +8,11 @@
 # Variables:
 #   $monthly_price (string) - the monthly cost (including currency symbol) for a given plan. Examples: $0.99, 0,99 €
 bundle-banner-header-2 = Apenas por tempo limitado: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } por { $monthly_price }/mês
-# Variables:
-#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = A { -brand-name-mozilla-vpn } protege-o do rastreamento e vigilância enquanto está a jogar, a utilizar a Internet ou a trabalhar. Adicione-o ao { -brand-name-firefox-relay } com { $details }% de desconto.
 bundle-banner-plan-header-2 = O seu plano de 1 ano inclui:
 bundle-banner-plan-modules-email-masking = Máscara de e-mail
 bundle-banner-plan-modules-phone-masking = Dissimulação de telefone
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }
 bundle-banner-cta = Obtenha a { -brand-name-mozilla-vpn } + { -brand-name-relay }
-# Variables:
-#   $days_guarantee (string) - the number of days for money-back guarantee. Examples: 30, 90
-bundle-banner-money-back-guarantee-2 = Garantia de devolução do dinheiro de { $days_guardee } dias para subscritores pela primeira vez
 # Variables:
 #   $num_vpn_servers (string) - the number of VPN servers. Examples: 400, 500, 600
 bundle-feature-more-than-servers =

@@ -10,9 +10,6 @@ plan-matrix-title = Preços
 ## PRICING MATRIX SECTION
 
 plan-matrix-offer-title = Escolha o nível de proteção certo para si
-# Variables:
-#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-offer-body-v2 = O { -brand-name-firefox-relay } protege a sua identidade e a sua caixa de entrada com máscaras de e-mail únicas. Adicione ainda mais segurança com a máscara { -brand-name-relay } para o telemóvel e poupe { $payments }% ao adicionar a proteção da { -brand-name-mozilla-vpn }.
 
 ## Top Row Labels
 
@@ -63,9 +60,6 @@ plan-matrix-price-period-yearly = Anualmente
 plan-matrix-price-period-monthly = Mensal
 plan-matrix-price-period-yearly-footnote-1 = Cobrado anualmente
 plan-matrix-price-period-monthly-footnote-1 = Cobrado mensalmente
-# Variables:
-#   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-plan-matrix-price-vpn-discount-promo-v2 = <span>Poupe { $payments }%</span> no preço normal da VPN
 
 ## Plan CTAs
 
