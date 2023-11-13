@@ -34,6 +34,9 @@ about-this-site-django = <a href="{ $django }">Django</a> como uma framework web
 #   $protocol (url) link to https://protocol.mozilla.org/
 about-this-site-mozilla-protocol = O <a href="{ $protocol }">protocolo</a> da { -brand-name-mozilla } para componentes de front-end e marca.
 # Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = Sistema de tradução <a href="{ $fluent }">Fluent</a> da { -brand-name-mozilla } para tradução de idiomas.
+# Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Muitas outras bibliotecas e frameworks mais pequenos, que pode encontrar no nosso <a href="{ $github }">repo { -brand-name-github }</a>.
 # Variables:

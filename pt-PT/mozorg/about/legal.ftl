@@ -10,6 +10,7 @@ legal-get-involved = Envolva-se
 legal-protect-the-fox = Proteja a Raposa
 legal-takedown-requests = Pedidos de remoção
 legal-back-to-legal = Voltar para Jurídico
+legal-special-thanks-to-all-of-you = Um agradecimento especial a todos os que ajudam a reportar abusos das marcas { -brand-name-mozilla }, participam nos fóruns de governação, dão  feedback sobre as nossas traduções e termos legais, e contribuem com as suas competências para o sucesso do projeto { -brand-name-mozilla }.
 legal-terms = Termos
 legal-our-websites = Os nossos websites
 legal-firefox-services = Serviços { -brand-name-firefox }
