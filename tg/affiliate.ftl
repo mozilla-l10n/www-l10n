@@ -8,6 +8,9 @@
 
 ## CJMS Affiliate cookie notice
 
+# Variables:
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
+affiliate-notification-message = Барои фаҳмидани он, ки кадом шарики мо шуморо ба ин ҷо овардааст, мо аз кукиҳо истифода мебарем. Мо ба шарикони мо маълумоти шахсии шуморо дастрас намекунем. <a { $attrs }>Сиёсати махфияти</a> моро мутолиа намоед.
 # label for the button that rejects cookie use
 affiliate-notification-reject = Рад кардан
 # label for the button that okays cookie use
