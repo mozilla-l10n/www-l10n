@@ -9,6 +9,7 @@
 ## FAQ Page
 
 faq-headline = Pyetje të Bëra Rëndom
+faq-question-what-is-question-2 = Ç’është një maskë { -brand-name-relay } email-i?
 
 ## Frequently Asked Questions about Phone plans
 
