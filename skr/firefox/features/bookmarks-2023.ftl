@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
+# page title
+bookmark-manager-bookmark-manager = نشانی منیجر
 bookmark-manager-bookmarks-toolbar = بک مارک ٹول بار
