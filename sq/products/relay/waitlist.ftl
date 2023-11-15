@@ -9,6 +9,10 @@ waitlist-premium-name = { -brand-name-relay-premium }
 waitlist-bundle-name = Paketë { -brand-name-relay } + { -brand-name-vpn }
 waitlist-phone-name = Maskim telefoni me { -brand-name-relay }
 waitlist-heading-2 = Bëhuni pjesë e radhës për { -brand-name-relay-premium }
+waitlist-heading-phone = Bëhuni pjesë e radhës për maskim { -brand-name-relay } telefoni
+waitlist-heading-bundle = Bëhuni pjesë e radhës për paketën { -brand-name-relay } + { -brand-name-vpn }
+waitlist-lead-2 = Do t’jua bëjmë të ditur, kur { -brand-name-relay-premium } të mund të kihet në zonën tuaj.
+waitlist-lead-phone = Do t’jua bëjmë të ditur, kur maskimi i telefonit të mund të kihet në zonën tuaj.
 waitlist-control-required = E domosdoshme
 waitlist-control-email-label = Cila është adresa juaj email?
 # Please only translate `yourname`; example.com is an actual example domain that is safe to use.
