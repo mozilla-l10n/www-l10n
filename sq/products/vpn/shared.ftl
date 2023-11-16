@@ -11,6 +11,7 @@ vpn-shared-waitlist-link = Bëhuni pjesë e Radhës
 vpn-shared-sign-in-link = Pajtimtar tashmë?
 # Obsolete string
 vpn-shared-available-countries-v5 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Kanada, Britani të Madhe, Finlandë, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Suedi, Zelandë të Re dhe Zvicër.
+vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } e ofrojmë aktualisht Austri, Belgjikë, Bullgari, Kanada, Kroaci, Qipro, Republikën Çeke, Danimarkë, Estoni, Finlandë, Francë, Gjermani, Hungari, Irlandë, Itali, Letoni, Lituani, Luksemburg, Malajzi, Maltë, Holandë, Zelandë të Re, Poloni, Portugali, Rumani, Singapor, Sllovaki, Slloveni, Spanjë, Suedi, Zvicër, Mbretëri të Bashkuar dhe Shtete të Bashkuara.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ditë garanci kthimi parash
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -59,6 +60,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } është markë e regj
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Zgjidhni një plan pajtimi që ju bën punë
+vpn-shared-one-subscription-heading = Një pajtim për krejt pajisjet tuaja
+vpn-shared-choose-a-plan-sub-heading = Zgjidhni një plan që ju bën punë
 vpn-shared-pricing-variable-sub-heading = Krejt planet tona përfshijnë:
 vpn-shared-pricing-recommended-offer = E këshilluar
 vpn-shared-pricing-plan-12-month-v2 = Plan 12 Muaj
@@ -105,6 +108,8 @@ vpn-shared-platform-cta-headline = Le t’ia fillojmë
 vpn-shared-platform-cta-button = Shihni çmime & zona
 vpn-shared-platform-privacy-promise = Premtimi ynë është privatësia juaj
 vpn-shared-platform-trust-partner-headline = Mbi partnerin tonë të besueshëm
+vpn-shared-platform-what-is = Ç’është { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Pse { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -126,6 +131,8 @@ vpn-subnav-whats-an-ip-address = Ç’është një adresë IP?
 vpn-subnav-when-to-use-a-vpn = Kur të përdoret një VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
 vpn-subnav-subscribe = Pajtohuni te { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Mësoni më tepër rreth VPN-sh
+vpn-subnav-download-mozilla-vpn = Shkarkoni { -brand-name-mozilla-vpn }
 
 ## VPN Affiliate cookie notice
 

@@ -13,6 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } është vetëm fill
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Është një familje e plotë produktesh e konceptuar për t’ju mbajtur të parrezik dhe të mençur në internet.
+firefox-products-mozillas-family-of-products = Familja { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox }-i është <strong>më shumë</strong> se një shfletues

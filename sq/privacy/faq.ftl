@@ -21,6 +21,7 @@ privacy-faq-the-following-questions-and = Pyetjet dhe përgjigjet vijuese do të
 privacy-faq-i-use-firefox-for-almost-everything = E përdor { -brand-name-firefox }-in për thuajse gjithçka në Web. Ju aty te { -brand-name-mozilla } duhet të dini një thes me gjëra rreth meje, apo jo?
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }-i, shfletuesi që xhiron në pajisjen apo kompjuterin tuaj, është porta juaj për në internet. Shfletuesi juaj do të administrojë mjaft të dhëna rreth sajteve që vizitoni, por këto të dhëna mbeten në pajisjen tuaj. { -brand-name-mozilla }, kompania që ndërton { -brand-name-firefox }-in, nuk i grumbullon (veç në na e kërkofshi).
 privacy-faq-really-you-dont-collect-my-browsing = Vërtet, nuk grumbulloni të dhëna të historikut tim të shfletimeve?
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } nuk di aq sa do të prisnit, rreth se si njerëzit shfletojnë në web. Si prodhues shfletuesi, kjo në fakt është një sfidë e madhe për ne. Ndaj kemi krijuar mjete <em>opt-in</em>, që u lejojnë përdoruesve të interesuar të na japin mendimet e tyre lidhur me shfletimin në web nga ata. Nëse e njëkohësoni historikun tuaj të shfletimeve nëpër instalime të { -brand-name-firefox }-it, nuk dimë gjë rreth atij historiku - ngaqë është i fshehtëzuar nga pajisja juaj.
 # Obsolete string
 # Variables:
 #   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
