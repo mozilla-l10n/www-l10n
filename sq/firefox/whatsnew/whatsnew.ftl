@@ -23,3 +23,4 @@ whatsnew-out-of-date-notification-v2 = Ka gati një { -brand-name-firefox } edhe
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Që të mësoni më tepër rreth se ç’ka të re te shfletuesi juaj { -brand-name-firefox }, lexoni <a href="{ $url }">Shënime Hedhjeje Në Qarkullim</a>.
+whatsnew-signoff = <strong>Sjellë nga { -brand-name-mozilla }.</strong> Njerëzit para fitimeve, që prej 1998-s.

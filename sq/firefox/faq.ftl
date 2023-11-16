@@ -67,12 +67,9 @@ does-firefox-use = A përdor { -brand-name-firefox }-i { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } është motori parazgjedhje i kërkimeve në { -brand-name-firefox }, që do të thotë se mund të kërkoni në internet drejt e nga shtylla e adresave. <a href="{ $url }">Mësoni më tepër rreth parapëlqimeve për motor kërkimesh dhe ndryshimet të parazgjedhjeve.</a>
 does-firefox-have = A përmban { -brand-name-firefox }-i një VPN të brendshëm?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } s’ka ndonjë VPN (virtual private network) të brendshëm, por ka dy produkte të krijuar nga { -brand-name-mozilla }/{ -brand-name-firefox } që mund të përdorni si shtesë ndaj { -brand-name-firefox-browser }-it privat që mund të mbrojë lidhjen nën WiFi qoftë të shfletuesit tuaj (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>), qoftë një pajisje (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) , si dhe adresën tuaj IP.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } s’ka VPN (rrjet privat virtual) të brendshme), por { -brand-name-mozilla } krijon një produkt të quajtur <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> që mund ta përdorni, tej { -brand-name-firefox-browser }-it privat që mbron lidhjen tuaj në Wi-Fi, si dhe adresën tuaj IP.
 related-questions-ip = Pyetje të afërta: a e fsheh { -brand-name-firefox }-i adresën tuaj IP
 who-owns-firefox = Pronë e kujt është { -brand-name-firefox }-i?
 

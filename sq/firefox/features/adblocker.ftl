@@ -31,6 +31,8 @@ features-adblocker-create-a-tracker-free = Krijoni një zonë të lirë nga gjur
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Në { -brand-name-firefox } mund të përdorni rregullime <a href="{ $privacy }">Privatësie</a> ose <a href="{ $blocking }">Bllokimi Lënde</a> për të pasur kontroll të mëtejshëm mbi gjurmues reklamash që ju shërbejnë të tilla.
 features-adblocker-choose-your-level-of-protection = Zgjidhni shkallën tuaj të mbrojtjes
+features-adblocker-to-start-click-on-the-v2 = Për t’ia filluar, klikoni mburojën në të majtë të shtyllës së adresave, në cilëndo faqe web dhe përzgjidhni “Rregullime Mbrojtjeje”. Kjo do të hapë panelin e { -brand-name-firefox }-it Rregullime Privatësie & Sigurie në një skedë të re. Duhet të shihni një dritare flluskë të kaltër, me elementë të ndryshëm që mund të përzgjidhen.
+# Obsolete string
 features-adblocker-to-start-click-on-the = Për t’ia filluar, klikoni mbi menunë e { -brand-name-firefox }-it në cepin e sipërm djathtas të ekranit tuaj. Ngjan me tre vija njëra sipër tjetrës. Te menuja hapmbyll, klikoni mbi Bllokim Lënde. Duhet t’ju shfaqet një flluskë blu me përzgjedhje të ndryshme.
 features-adblocker-go-easy-with-standard = Jini i butë, me mënyrën Standarde
 # Variables:
@@ -55,5 +57,6 @@ features-adblocker-speed-up-thanks-to-ad = Rritni shpejtësinë falë bllokuesve
 features-adblocker-in-some-cases-an-ad-blocker = Në disa raste, një bllokues reklamash mund ta ndihmojë shfletuesin tuaj të punojë më shpejt. Kur ngarkohet një reklamë, kjo mund të ngadalësojë një sajt. Në të njëjtën kohë, gjetja e diçkaje që po kërkoni mund të zgjasë më shumë, nëse jeni i zënë me mbylljen e reklamës së radhës.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Nëse doni të mësoni më tepër rreth bllokimit të reklamave, ka qindra zgjerime bllokues reklamash për { -brand-name-firefox } dhe shfletues të tjerë. Nëse doni të provoni bllokuesin e reklamave që përdor { -brand-name-firefox }-i, <a href="{ $url }">klikoni këtu që të shkarkoni</a> një shfletues që vë privatësinë së pari.
+# Obsolete string
 features-adblocker-if-you-want-to-learn-more = Nëse doni të mësoni më tepër rreth bllokimit të reklamave, ka me qindra zgjerime bllokuesish reklamash për { -brand-name-firefox }-in dhe shfletues të tjerë. Nëse doni të provoni bllokuesit e reklamave që përdor { -brand-name-firefox }-i, <a href="{ $url }">klikoni këtu që të shkarkoni</a> një shfletues që para së gjithash vë privatësinë.
-features-adblocker-take-control-of-your-browser = Merrni në dorë kontrollin e shfletuesit tuaj.

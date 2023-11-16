@@ -60,6 +60,7 @@ footer-contact = Kontakte
 footer-product-help = Ndihmë mbi Produkte
 footer-support = Asistencë
 footer-file-a-bug = Parashtroni një të Metë
+footer-localize-mozilla = Përktheni { -brand-name-mozilla }-n
 footer-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkësi
 footer-websites-privacy-notice = Shënim Privatësie Sajti
 footer-websites-cookies = Cookies
