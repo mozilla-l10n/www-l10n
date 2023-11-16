@@ -74,3 +74,4 @@ firefox-more-more-and-more = Gjithnjë e më shumë gjëra rezervat, të vyera, 
 firefox-more-avoid-misinformation-heading = Shmangni keqinformim në internet – { -brand-name-firefox }-i është këtu për t’ju ndihmuar
 firefox-more-avoid-misinformation-desc = Hidhuni një sy ndihmëzave se si të të shihni më pak keqinformim dhe të përqendroheni në atë çka është e rëndësishme për ju.
 firefox-more-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?
+firefox-more-were-focused-on-your-right-to = Përqendrohemi te e drejta juaj për privatësi.  Të dhënat tuaja, veprimtaria juaj në web, jeta juaj internetore është e mbrojtur me { -brand-name-firefox }.
