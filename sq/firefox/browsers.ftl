@@ -7,14 +7,17 @@
 
 # HTML page title
 firefox-browsers-page-title = Shkarkoni { -brand-name-firefox } për Desktop, Celular, ose Ndërmarrje
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-browsers-that-put = Merrni shfletuesit që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
 # HTML page description
 firefox-browsers-page-desc = Zgjidhni prej versionesh për Desktop, { -brand-name-ios }, { -brand-name-android }, ose lërnani t’ju dërgojmë me email një lidhje shkarkimi.
-# Outdated string
+# Obsolete string
 firefox-browsers-get-the-privacy-you-deserve = Merrni privatësinë që meritoni. Mbrojtja e Thelluar Nga Gjurmimi është automatike në çdo shfletues { -brand-name-firefox }.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Merrni <strong>shfletuesit</strong> që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Merrni shfletuesin që vë privatësinë tuaj së pari — dhe e ka bërë <strong>përherë</strong>
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Shfletim seriozisht privat. { -brand-name-firefox }-i bllokon automatikisht mbi 2000 gjurmues internetorë të mos grumbullojnë të dhëna se ç’bëni ju në internet.
 firefox-browsers-download-for-desktop = Shkarkojeni për Desktop
@@ -35,7 +38,7 @@ firefox-browsers-join-firefox-and-get-the-most = Bëhuni pjesë e { -brand-name-
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Keni tashmë një llogari? <a { $fxa_attr }>Hyni</a> ose <a { $accounts_attr }>mësoni më tepër</a> rreth pjesëmarrjes në { -brand-name-firefox }.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

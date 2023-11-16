@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Nëse shihni “(32-bit)” dhe xhironi
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Nëse ju duhet të punoni me { -brand-name-firefox } 32-bitësh ose të instaloni dorazi { -brand-name-firefox }-in 64-bitësh, mundeni thjesht të shkarkoni dhe rixhironi instaluesin e { -brand-name-firefox }-it për { -brand-name-windows } (32-bit ose 64-bit) që nga <a href="{ $all }">faqja e shkarkimeve të { -brand-name-firefox }-it sipas platformash dhe gjuhësh.</a>
 windows-64-bit-take-control-of-your = Merrni në dorë kontrollin e shfletuesit tuaj.
+windows-64-bit-download-firefox = Shkarkoni { -brand-name-firefox } për Windows 64-bit
