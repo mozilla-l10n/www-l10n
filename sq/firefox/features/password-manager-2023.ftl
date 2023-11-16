@@ -12,3 +12,4 @@ password-manager-firefox-password-manager-saves-all = Përgjegjësi i Fjalëkali
 password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalime, për hyrje më të lehta
 password-manager-import-passwords = Importoni fjalëkalime
 password-manager-no-more-reusing-your-passwords = Pa ripërdorim fjalëkalimesh më
+password-manager-password-security-alerts = Sinjalizime sigurie fjalëkalimesh
