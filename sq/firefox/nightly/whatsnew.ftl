@@ -11,17 +11,20 @@ nightly-whatsnew-youve-just-been = Sapo jeni përmirësuar me { -brand-name-fire
 nightly-whatsnew-your-firefox-nightly = { -brand-name-firefox-nightly } juaj është përditësuar.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Çdo 4 deri në 5 javë hidhet në qarkullim një version i ri i rëndësishëm i { -brand-name-firefox }-it dhe, si rrjedhojë, rritet edhe numri i versionit për { -brand-name-nightly }-n.
-# Obsolete
+# Obsolete string
 nightly-whatsnew-every-6-to-8-weeks = Çdo 6 deri në 8 javë hidhet në qarkullim një version i ri i rëndësishëm i { -brand-name-firefox }-it dhe si rrjedhojë rritet edhe numri i versionit për { -brand-name-nightly }-n.
 nightly-whatsnew-this-is-a-good = Kjo është një kohë e përshtatshme për t’ju falënderuar që na ndihmoni ta bëjmë { -brand-name-firefox }-in më të mirë dhe për t’ju dhënë disa piketa për te dokumentimi, kanalet e komunikimit dhe sajte lajmesh të lidhur me { -brand-name-nightly }-n që mund të jenë me interes për ju.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v2 = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a href="{ $blog }">blogut tonë</a> dhe ndjekja jonë në <a href="{ $mastodon }">Mastodon</a>, ose <a href="{ $twitter }">Twitter</a> janë pikënisje të mira!
+# Obsolete string
 nightly-whatsnew-if-you-want-to = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a href="{ $blog }">blogut tonë</a> dhe ndjekja jonë në <a href="{ $twitter }">{ -brand-name-twitter }</a> janë pikënisje të mira!
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>Eksperimente me Nightly-n</a>.
-# Obsolete
+# Obsolete string
 # Variables:
 #   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
 nightly-whatsnew-want-to-know-which = Doni të dini se cilat veçori platforme mund të testonit në { -brand-name-nightly } dhe që s’i shihni dot ende në kanale të tjera { -brand-name-firefox }-i? Atëherë hidhni një sy te faqja <a href="{ $mdn }">Veçori Eksperimentale</a> te <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }-ja</abbr>.
