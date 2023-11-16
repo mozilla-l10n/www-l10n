@@ -45,6 +45,14 @@ compare-brave-the-ability-to-sync-your-passwords = Aftësia për njëkohësim t�
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = Shfletuesi { -brand-name-firefox } u jep gjithashtu përdoruesve aftësinë të regjistrojnë një llogari falas <a { $accounts }>{ -brand-name-mozilla-account }</a>. Pasja e një llogarie { -brand-name-mozilla-account } është çelësi për shkyçjen e njëkohësimit nëpër pajisje, plus që përfitoni të mirat shtesë të produkteve të tillë si <a { $monitor }>{ -brand-name-mozilla-monitor }</a> i cili mbikëqyr adresat tuaja email dhe ju sinjalizon, nëse ndonjë nga të dhënat tuaja është përfshirë në çfarëdo <a { $breaches }>cenimesh të ditur të të dhënave</a>.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = Shfletuesi { -brand-name-firefox } u jep gjithashtu përdoruesve aftësinë të regjistrojnë një llogari falas <a { $accounts }>{ -brand-name-mozilla-account }</a>. Pasja e një llogarie { -brand-name-mozilla-account } është çelësi për shkyçjen e njëkohësimit nëpër pajisje, plus që përfitoni të mirat shtesë të produkteve të tillë si <a { $monitor }>{ -brand-name-firefox-monitor }</a> i cili mbikëqyr adresat tuaja email dhe ju sinjalizon, nëse ndonjë nga të dhënat tuaja është përfshirë në çfarëdo <a { $breaches }>cenimesh të ditur të të dhënave</a>.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = Shfletuesi { -brand-name-firefox } u jep gjithashtu përdoruesve aftësinë të regjistrojnë një llogari falas <a { $accounts }>{ -brand-name-firefox-account }</a>. Pasja e një llogarie { -brand-name-firefox } është çelësi për shkyçjen e njëkohësimit nëpër pajisje, plus që përfitoni të mirat shtesë të produkteve të tillë si <a { $monitor }>{ -brand-name-firefox-monitor }</a> i cili mbikëqyr adresat tuaja email dhe ju sinjalizon, nëse ndonjë nga të dhënat tuaja është përfshirë në çfarëdo <a { $breaches }>cenimesh të ditur të të dhënave</a>.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = Edhe { -brand-name-brave }-i fitoi aftësinë të njëkohësojë të dhëna përmes sistemeve operativë dhe pajisjeve më popullore, si edhe aftësinë shtesë të njëkohësimit të BAT-ëve tuaj.

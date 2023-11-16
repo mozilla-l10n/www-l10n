@@ -16,7 +16,10 @@ firefox-accounts-already-have-an-account = Keni tashmë një llogari?
 firefox-accounts-sign-in = Hyni
 # Obsolete string
 firefox-accounts-already = Keni tashmë një { -brand-name-firefox-account }. Përgëzime!
+mozilla-accounts-already = Keni tashmë një { -brand-name-mozilla-account }. Përgëzime!
 firefox-accounts-manage = Administroni llogarinë tuaj
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Bëni hyrjen te { -brand-name-mozilla-account } e juaj që të:
 # Obsolete string
 firefox-accounts-sign-in-to = Bëni hyrjen te { -brand-name-firefox-account } juaj që të:
 # Obsolete string

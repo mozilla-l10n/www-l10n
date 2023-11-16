@@ -34,6 +34,9 @@ compare-safari-in-addition-to-the-regular = Përtej grupit të zakonshëm të ve
 # Variables:
 #   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
 compare-safari-like-safari-firefox-encourages = Si edhe { -brand-name-safari }, { -brand-name-firefox }-i i nxit zhvilluesit e tij entuziastë të krijojnë <a { $attrs }>shtesa dhe zgjerime</a> për shfletuesin. Dhe meqë platforma jonë është me burim të hapur, ka një përzgjedhje të gjerë që shton një numër shumë të madh funksionesh.
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+compare-safari-also-when-you-sign-up-for-updated-v2 = Gjithashtu, kur regjistroni një llogari { -brand-name-mozilla-account }, përfitoni mundësinë e përdorimit të shërbimeve unike të tillë si <a { $pocket }>{ -brand-name-pocket }</a> të cilët integrohen drejtpërsëdrejti në shfletuesin tuaj. Butoni { -brand-name-pocket } për { -brand-name-firefox } ju lejon të ruani me një klikim faqe dhe video web në { -brand-name-pocket }, që kështu të mund të lexoni një version të qëruar, pa tërheqje vëmendjeje kurdo dhe kudo që dëshironi — madje edhe jashtë linje.
 # Obsolete string
 # Variables:
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
