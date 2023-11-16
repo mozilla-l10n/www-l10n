@@ -7,3 +7,5 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Skeda shfletuesi të fiksuara
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = Mbajini hapur dhe një klikim larg faqet tuaja të parapëlqyera. Përdorin Skedat e Fiksuara për të mbajtur nën vëzhgim aplikacionet tuaja për email apo për shkëmbim mesazhesh.

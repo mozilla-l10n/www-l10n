@@ -20,3 +20,4 @@ vpn-mobile-your-isp = ISP-ja juaj mund të bllokojë sajte ose shërbime që s�
 vpn-mobile-hackers-can-steal-v2 = Hacker-at mund të vjedhin të dhëna tuajat personale, kur përdorni Wi-Fi publik, b.f., në kafe, apo aeroporte.
 # Obsolete string
 vpn-mobile-hackers-can-steal = Hacker-at mund të vjedhin të dhëna tuajat personale, kur përdorni Wi-Fi publik, b.f., në kafe, apo aeroporte
+vpn-mobile-a-vpn-works = Një VPN funksionon nëpër pajisjen tuaj, jo thjesht shfletuesin tuaj, ndaj edhe nëpër aplikacionet tuaja për celular. Dhe, ndryshe nga VPN falas, apo sajte ndërmjetës, të cilët mund të paguajnë për shërbyesit e tyre duke ju spiunuar dhe shitur informacion tuajin, { -brand-name-mozilla } nuk regjistron se ku shkoni dhe se ç’bëni.
