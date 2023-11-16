@@ -35,5 +35,11 @@ highlighted-features-section-replying-body =
     tuaj të maskuar të telefonit, për të mbrojtur numrin tuaj të njëmendtë.
 highlighted-features-section-block-promotions-headline = Bllokoni email-e promocionalë
 highlighted-features-section-block-promotions-body =
-    Me { -brand-name-relay-premium }, mun të bllokoni mbërritjen te ju të email-eve promocionalëyou can block promotional emails from reaching your
-    inbox while still receiving emails like receipts or shipping information.
+    Me { -brand-name-relay-premium }, mun të bllokoni mbërritjen në të marrët tuaj
+    të email-eve promocionalë,
+    teksa merren email-e si fatura apo informacion dërgimi.
+highlighted-features-section-remove-trackers-headline = Hiqni gjurmues email-i
+highlighted-features-section-remove-trackers-body =
+    { -brand-name-relay } mund të heqë gjurmues të rëndomtë email-i prej
+    cilitdo email përcjellë te ju, duke ju ndihmuar
+    të jini të padukshëm për gjurmues dhe reklamues.
