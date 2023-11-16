@@ -40,7 +40,11 @@ vpn-pick-a-recommended = Zgjidhni një vendndodhje të rekomanduar, për lidhje 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Ju duhet ndihmë për t’ia filluar?
+vpn-download-faq-here-are-some = Ja disa nga pyetjet më të rëndomta rreth ujdisjes së { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Pse duhet ta përdor { -brand-name-mozilla-vpn }
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhen gjithnjë e më e rëndësishme. Një VPN, <a href="{ $faq }">Rrjet Privat Virtual</a>, Krijon një tunel të fshehtëzuar mes pajisjeve tuaja dhe internetit, duke garantuar që lidhja juaj të mbetet e siguruar dhe private, teksa ju mbron përmes dy rrugësh të rëndësishme:
 vpn-download-faq-working = Nga ta di që VPN-ja po funksionon?
 vpn-download-faq-add-device = Si të shtoj pajisje tjetër?
 vpn-download-faq-need-more = Ju duhet edhe pakëz ndihmë akoma?
