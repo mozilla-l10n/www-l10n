@@ -14,3 +14,5 @@ bookmark-manager-organize-your-boomarks-into = Sistemojini faqerojtësit tuaj n�
 bookmark-manager-image-of-the-bookmark-manager = Figurë nga dritare përgjegjësi faqerojtësish në { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importoni kollaj faqerojtës
 bookmark-manager-bookmarks-toolbar = Panel faqerojtësish
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Figurë e { -brand-name-firefox }-it që shfaq një koleksion faqerojtësish në një panel, në krye të dritares së shfletuesit.

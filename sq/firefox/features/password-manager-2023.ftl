@@ -9,5 +9,6 @@
 password-manager-free-password-manager = Përgjegjës fjalëkalimesh falas
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Përgjegjësi i Fjalëkalimeve në { -brand-name-firefox } ruan krejt fjalëkalimet tuaj në një vend, që kështu të mund të bëni hyrje automatike në sajte, ose që të merrni fjalëkalime të ruajtur.
+password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalime, për hyrje më të lehta
 password-manager-import-passwords = Importoni fjalëkalime
 password-manager-no-more-reusing-your-passwords = Pa ripërdorim fjalëkalimesh më

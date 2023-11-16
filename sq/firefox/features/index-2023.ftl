@@ -15,6 +15,7 @@ features-index-is-firefox-a-private-browser = A është { -brand-name-firefox }-
 features-index-free-password-manager = Përgjegjës fjalëkalimesh falas
 features-index-customize-your-firefox-browser = Përshtatni shfletuesin tuaj { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Zgjidhni se si duket shfletuesi juaj, përmes mijëra temash grafike falas.
+features-index-firefox-browser-sync = Njëkohësim shfletuesish { -brand-name-firefox }
 features-index-bookmark-manager = Përgjegjës faqerojtësish
 features-index-organize-your-bookmarks-with = Sistemoni faqerojtësit tuaj në dosje dhe me etiketa.
 features-index-private-browsing-mode = Mënyra shfletim privat
