@@ -13,3 +13,7 @@ password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalime
 password-manager-import-passwords = Importoni fjalëkalime
 password-manager-no-more-reusing-your-passwords = Pa ripërdorim fjalëkalimesh më
 password-manager-password-security-alerts = Sinjalizime sigurie fjalëkalimesh
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ju sinjalizon, nëse një fjalëkalim është ekspozuar</a> në një cenim të dhëna, që të mund ta ndryshoni, para se hacker-at të kenë një shans të bëjnë gjë me kartën tuaj të kreditit, fjala vjen, të marrin me qira një Lamborghini.

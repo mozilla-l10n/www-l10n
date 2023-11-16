@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Merrni { -brand-name-firefox } për { -b
 firefox-desktop-download-og-title = Shkarkoni { -brand-name-firefox }-in më të shpejtë se kurrë
 firefox-desktop-download-og-desc = Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, { -brand-name-firefox }-i i ri erdhi.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Ka të gatshëm një { -brand-name-firefox } edhe më të ri. <a { $update_url }>Përditësojeni me versionin më të ri</a>
 firefox-desktop-download-get-the-browser = Merrni shfletuesin që mbron çka është e rëndësishme
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçka të pasme për reklamues. Thjesht një shfletues të shpejtë si rrufe, që nuk ju shet te të tjerët.
@@ -137,6 +140,9 @@ firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } është i gatshëm për krejt pajisjet tuaja; merrni me vete skedat tuaja, historikun dhe faqerojtësit tuaj. Krejt çka ju duhet është një <a { $attrs }>llogari { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }-i mund të kihet në krejt pajisjet; merrni me vete skedat tuaja, historikun de faqerojtësit. Krejt çka ju duhet është një <a { $attrs }>{ -brand-name-mozilla-account }</a> dhe do të mund të përdorni njëkohësim dhe më tepër produkte { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Përlani një figurë me qartësi të madhe të çfarëdo gjëje në internet, me mjetin tonë për <a { $attrs }>foto ekrani</a> të krijuar drejt e brenda shfletuesit
