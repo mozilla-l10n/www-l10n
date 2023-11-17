@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Ottieni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Iscriviti alla lista d’attesa
 vpn-shared-sign-in-link = Sei già abbonato?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Attualmente offriamo { -brand-name-mozilla-vpn } in Austria, Belgio, Canada, Finlandia, Francia, Germania, Irlanda, Italia, Malesia, Paesi Bassi, Nuova Zelanda, Singapore, Spagna, Svezia, Svizzera, Regno Unito e Stati Uniti.
 vpn-shared-available-countries-v6 = Attualmente offriamo { -brand-name-mozilla-vpn } in Austria, Belgio, Bulgaria, Canada, Croazia, Cipro, Repubblica Ceca, Danimarca, Estonia, Finlandia, Francia, Germania, Ungheria, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malesia, Malta, Paesi Bassi, Nuova Zelanda, Polonia, Portogallo, Romania, Singapore, Slovenia, Slovacchia, Spagna, Svezia, Svizzera, Regno Unito e Stati Uniti.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Scegli il piano più adatto per te
 vpn-shared-pricing-variable-sub-heading = Tutti i nostri piani includono:
 vpn-shared-pricing-recommended-offer = Consigliato
 vpn-shared-pricing-plan-12-month-v2 = Piano annuale
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = Annuale
 vpn-shared-pricing-plan-monthly-v2 = Piano mensile
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Mensile
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount } <span>al mese</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount } <span>al mese + tasse</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Acquista il piano semestrale
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Acquista il piano annuale
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Acquista il piano semestrale
 vpn-shared-pricing-get-12-month-v2 = Acquista il piano annuale
 vpn-shared-pricing-get-monthly = Acquista il piano mensile
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Risparmia il { $percent }%
 vpn-shared-save-percent-on = Risparmia il { $percent }% su { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *se sottoscrivi un abbonamento a un piano annuale
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *con abbonamento annuale
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } totali
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = Confronto tra VPN e proxy
 vpn-subnav-subscribe = Sottoscrivi un abbonamento a { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Ulteriori informazioni sulle VPN
 vpn-subnav-download-mozilla-vpn = Scarica { -brand-name-mozilla-vpn }
+vpn-subnav-features = Caratteristiche
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Utilizziamo i cookie per capire quale dei nostri partner affiliati ti ha portato a { -brand-name-mozilla-vpn }. Non condividiamo informazioni di identificazione personale con i nostri partner. Leggi la nostra <a { $attrs }>informativa sulla privacy</a>.
 vpn-shared-affiliate-notification-reject = Rifiuta
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Perché acquistare entrambi?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Risparmia il { $percent }%</span> sull’abbonamento annuale a { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } non è ancora disponibile nel tuo Paese
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Come visto in
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “La VPN di { -brand-name-mozilla } può anche <a { $attrs }>integrarsi in alcune eleganti funzioni di protezione della privacy</a> del suo browser { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…caratteristiche uniche, come Multi-Account Containers, potrebbero rendere la funzione facilmente accessibile agli utenti con problemi di privacy più seri”.
+vpn-press-mozilla-vpns-feature-list-has-grown = "L’elenco delle caratteristiche di { -brand-name-mozilla-vpn } è notevolmente aumentato dal lancio e il servizio è superiore a molte VPN specializzate in alcune aree".
