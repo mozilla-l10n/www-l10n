@@ -28,3 +28,8 @@ vpn-features-encrypt-your-internet = Fshehtëzoni krejt trafikun tuaj internet
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } mbron krejt aplikacionet në pajisjen tuaj, jo thjesht shfletuesin tuaj.
 vpn-features-stronger-malware = Mbrojtje më e fortë ndaj malware-i
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } pengon shkarkimin prej jush të malware-i prej burimesh të ditur si jo të parrezik.
+vpn-features-super-private-mode = Mënyra super-private: kalojeni trafikun tuaj përmes dy vendndodhjesh
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = <a { $feature }>Veçoria jonë multi-hope</a> ju jep një përforcim ekstra të sigurisë.
+vpn-features-support-for-custom-dns = Mbulim për DNS vetjake
