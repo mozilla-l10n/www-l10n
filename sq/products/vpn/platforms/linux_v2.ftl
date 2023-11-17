@@ -17,3 +17,18 @@ vpn-linux-fast-and = <strong>I shpejtë dhe i qëndrueshëm:</strong> { -brand-n
 vpn-linux-no-logs = <strong>Pa regjistra:</strong> { -brand-name-mozilla-vpn } nuk mban ndonjë regjistër mbi veprimtarinë tuaj në rrjet; nuk regjistrojmë cilët sajte vizitoni, apo të mbikëqyrim trafikun tuaj.
 vpn-linux-additional-security = <strong>Veçori shtesë sigurie:</strong> Ne përdorim bllokim DNS për të bllokuar reklama, gjurmues dhe <em>malware</em>. Teksa një shfletues mund të pengojë vetëm sajte të mos ju japin <em>malware</em> dhe t’ju ndjekin.
 vpn-linux-device-level = <strong>Fshehtëzim në shkallë pajisjeje:</strong> Ndryshe nga VPN që fshehtëzojnë vetën trafikun e shfletuesit tuaj, { -brand-name-mozilla-vpn } fshehtëzon krejt trafikun e pajisjes tuaj, përfshi krejt aplikacionet dhe lojërat tuaja.
+vpn-linux-multi-hop = <strong>Rrugëzim me shume hope:</strong> Për më tepër mbrojtje, { -brand-name-mozilla-vpn } mund ta fshehtëzojë trafikun tuaj dhe ta kalojë përmes dy vendndodhjesh, në vend se një, duke e bërë më të zorshme për këdo të ndjekë veprimtarinë tuaj internetore.
+vpn-linux-simple-and = <strong>Ndërfaqe e thjeshtë dhe intuitive:</strong> Lidhuni me një shërbyes përmes një klikimi të vetëm. Mundeni edhe të përshtatni rregullimet dhe parapëlqimet tuaja sipas nevojave.
+vpn-linux-it-helps-restore = <strong>Ndihmon të rikthehet asnjanësia e rrjetit:</strong> { -brand-name-mozilla-vpn } ju ndihmon të rifitoni kontrollin mbi veprimtaritë tuaja internetore, duke i penguar furnizuesit e shërbimeve internet të reduktojnë gjerësinë e bandës për ju, ose t’ju bllokojnë sajte apo shërbime që nuk i pëlqejnë, apo që konkurrojnë me çka ofrojnë ata vetë.
+vpn-linux-gui-client = <strong>Klient GUI:</strong>{ -brand-name-mozilla-vpn } përmban një klient GUI (ndërfaqe grafike përdoruesi), ndërkohë që disa shërbime VPN japin vetëm një version CLI (rresht urdhrash).
+vpn-linux-by-using = Duke përdorur { -brand-name-mozilla-vpn }, mund të rifitoni kontrollin mbi veprimtaritë tuaja internetore dhe të mbroni privatësinë dhe të dhënat tuaja. Shkarkojeni { -brand-name-mozilla-vpn } që sot dhe shijoni garanci kthimi parash brenda 30 ditësh, pa regjistra, pa yçkla dhe pa rreziqe.
+vpn-linux-how-to-install = Si të instalohet { -brand-name-mozilla-vpn } në Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Nëse përdorni një nga hedhjet e mbuluara në qarkullim të Ubuntu-së, ka dy rrugë për të instaluar paketat zyrtare mozillavpn të strehuara në <a { $attrs }>Launchpad:</a>
+# Obsolete string
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use = Nëse përdorni një nga hedhjet e mbuluara në qarkullim të Ubuntu-së, ka dy rrugë për të instaluar paketat zyrtare mozillavpn të strehuara në <a { $attrs }>launchpad:</a>
