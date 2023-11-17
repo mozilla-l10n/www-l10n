@@ -14,3 +14,4 @@ vpn-features-more-than =
         [one] Plus que { $servers } servitor in plus que { $countries } paises
        *[other] Plus que { $servers } servitores in plus que { $countries } paises
     }
+vpn-features-secure = Secur
