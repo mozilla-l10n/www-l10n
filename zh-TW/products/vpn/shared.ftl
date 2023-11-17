@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下載 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入排隊名單
 vpn-shared-sign-in-link = 已經訂閱了嗎？
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = 我們已在奧地利、比利時、加拿大、芬蘭、法國、德國、愛爾蘭、義大利、馬來西亞、荷蘭、紐西蘭、新加坡、西班牙、瑞典、瑞士、英國和美國推出 { -brand-name-mozilla-vpn }。
 vpn-shared-available-countries-v6 = 我們已在奧地利、比利時、保加利亞、加拿大、克羅埃西亞、賽普勒斯、捷克、丹麥、愛沙尼亞、芬蘭、法國、德國、匈牙利、愛爾蘭、義大利、拉脫維亞、立陶宛、盧森堡、馬來西亞、馬爾他、荷蘭、紐西蘭、波蘭、葡萄牙、羅馬尼亞、新加坡、斯洛維尼亞、斯洛伐克、西班牙、瑞典、瑞士、英國、美國推出 { -brand-name-mozilla-vpn }。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -53,7 +53,7 @@ vpn-shared-features-connect = 最多可有 { $devices } 台裝置連線
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 天內保證退款
 vpn-shared-refund-policy = 退款政策
-vpn-shared-privacy-notice = 隱私權保護政策
+vpn-shared-privacy-notice = 隱私權公告
 vpn-shared-terms-conditions = 服務條款
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } 是 Jason A. Donenfeld 的註冊商標
 
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = 選擇適合您的方案
 vpn-shared-pricing-variable-sub-heading = 我們有下列方案:
 vpn-shared-pricing-recommended-offer = 推薦
 vpn-shared-pricing-plan-12-month-v2 = 年度方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 個月
 vpn-shared-pricing-plan-monthly-v2 = 月租方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = <span>每月</span> { $amount }
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = <span>每月</span> { $amount }（外加稅金）
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 訂閱 6 個月方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 訂閱 12 個月方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = 訂閱半年繳方案
 vpn-shared-pricing-get-12-month-v2 = 訂閱年繳方案
 vpn-shared-pricing-get-monthly = 訂閱月繳方案
@@ -137,7 +137,7 @@ vpn-subnav-download-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = 我們使用 Cookie 來了解您是透過哪個合作廠商來到 { -brand-name-mozilla-vpn } 頁面。我們不會將可識別出您個人身份的資料分享給我們的夥伴，若需更多資訊請參考我們的<a { $attrs }>隱私權保護政策</a>。
 vpn-shared-affiliate-notification-reject = 拒絕
 vpn-shared-affiliate-notification-ok = 確定
