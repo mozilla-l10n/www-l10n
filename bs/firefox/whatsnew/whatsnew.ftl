@@ -12,14 +12,7 @@ whatsnew-page-description = Zauzmite stav protiv industrije koja prodaje vaše p
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Čestitamo! Koristite najnoviju verziju { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Čestitamo! Koristite najnoviju verziju { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Dostupan je još noviji { -brand-name-firefox }. <a href="{ $url }">Ažuriraj na najnoviju verziju</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Dostupan je još noviji { -brand-name-firefox }. Ponovo pokrenite za ažuriranje.
+whatsnew-update-notification = Vaš { -brand-name-firefox } je ažuriran.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Pročitajte <a href="{ $url }">Napomene o izdanju</a> da saznate više o tome šta je novo u vašem { -brand-name-firefox } pretraživaču.
