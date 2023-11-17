@@ -18,7 +18,7 @@ vpn-download-for-windows = VPN for { -brand-name-windows } 10/11 peg̃uarã
 vpn-download-for-windows-v2 = VPN { -brand-name-windows } peg̃uarã
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit añoitépe)
 vpn-download-for-windows-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-windows } peg̃uarã
-vpn-download-for-mac = VPN { -brand-name-mac-short } peg̃uara
+vpn-download-for-mac = VPN { -brand-name-mac-short } peg̃uarã
 vpn-download-for-mac-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-mac-short } peg̃uarã
 # Variables:
 #   $version (number) - operating system version
