@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } tư
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } tương thích với <a href="{ $mobile }">di động</a>, máy tính bảng và <a href="{ $desktop }">máy tính để bàn</a> trên :
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } tương thích với:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (chỉ 64-bit)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (chỉ 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 trở lên)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } hoặc mới hơn)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 trở lên)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 trở lên)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 trở lên)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (phiên bản 8 trở lên)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (phiên bản 6 trở lên)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (phiên bản 6 trở lên)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } trở lên)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 trở lên)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 trở lên)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 trở lên)
 vpn-landing-faq-refund-question-heading = Chính sách hoàn lại tiền của { -brand-name-mozilla-vpn } là gì?
 vpn-landing-faq-refund-question-desc-v2 = Lần đầu tiên bạn đăng ký { -brand-name-mozilla-vpn } thông qua trang web của { -brand-name-mozilla }, nếu bạn hủy tài khoản của mình trong vòng 30 ngày đầu tiên, bạn có thể yêu cầu hoàn lại tiền và { -brand-name-mozilla } sẽ hoàn lại tiền cho thời hạn thuê bao đầu tiên của bạn.
 vpn-landing-faq-refund-question-additional-desc = Nếu bạn mua đăng ký của mình thông qua mua hàng trong ứng dụng từ { -brand-name-apple } { -brand-name-app-store } hoặc Cửa hàng { -brand-name-google-play }, thì khoản thanh toán của bạn phải tuân theo các điều khoản và điều kiện của { -brand-name-app-store }. Bạn phải chuyển mọi yêu cầu thanh toán và hoàn tiền cho các giao dịch mua đó đến { -brand-name-apple } hoặc { -brand-name-google }, nếu thích hợp.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Bạn có thể nhận lại tiền trong vòng 30 ngày kể từ ngày mua đăng ký của mình. Liên hệ với chúng tôi và gửi yêu cầu hoàn lại tiền bằng cách nhấn vào nút “Nhận trợ giúp” trong Cài đặt trên ứng dụng { -brand-name-mozilla-vpn } của bạn.
 vpn-landing-faq-manage-subscription-question-heading = Làm cách nào để quản lý thuê bao của tôi?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Xem thêm các câu hỏi thường gặp
 
 vpn-landing-invite-page-title = Tham gia danh sách chờ: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Nhận thông báo khi { -brand-name-mozilla-vpn } khả dụng cho khu vực của bạn.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Nhận thông báo khi { -brand-name-mozilla-vpn } khả dụng cho thiết bị và khu vực của bạn.
 vpn-landing-invite-page-heading = Tham gia danh sách chờ VPN
 vpn-landing-invite-email-label = Địa chỉ email của bạn là gì?

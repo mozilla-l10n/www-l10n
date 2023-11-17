@@ -8,11 +8,11 @@
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Địa chỉ IP là gì?
 # HTML page description and intro
-vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } trả lời tất cả các câu hỏi của bạn về địa chỉ IP từ địa chỉ IP là gì, cách hoạt động của nó và liệu bạn có nên ẩn nó hay không.
-vpn-ip-address-every-time-you = Mỗi khi bạn truy cập internet, địa chỉ IP đóng một vai trò thiết yếu trong việc trao đổi thông tin để giúp bạn xem các trang web mà bạn đang yêu cầu. Tuy nhiên, có khả năng bạn vẫn chưa biết về nó, vì vậy chúng tôi sẽ chia nhỏ các câu hỏi thường gặp nhất bên dưới.
-vpn-ip-address-your-ip-address = Địa chỉ IP của bạn là một số nhận dạng duy nhất, giống như một địa chỉ gửi thư, được liên kết với hoạt động trực tuyến của bạn. Bất kỳ lúc nào bạn sử dụng internet (mua sắm trực tuyến, gửi email, truyền phát trực tuyến TV), bạn đều yêu cầu quyền truy cập vào một điểm đến trực tuyến cụ thể và đổi lại, thông tin sẽ được gửi lại cho bạn. Nó hoạt động như thế nào? IP là viết tắt của Internet Protocol, đưa ra các tiêu chuẩn và quy tắc (đúng vậy, còn được gọi là giao thức) để định tuyến dữ liệu và kết nối với internet. Giao thức này là một tập hợp các quy tắc mà mỗi bên cần tuân theo để cho phép luồng dữ liệu hai chiều.
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } trả lời tất cả các câu hỏi của bạn về địa chỉ IP từ địa chỉ IP là gì, cách thức hoạt động và liệu bạn có nên ẩn nó hay không.
+vpn-ip-address-every-time-you = Mỗi khi bạn truy cập internet, địa chỉ IP đóng một vai trò thiết yếu trong việc trao đổi thông tin để giúp bạn xem các trang web bạn đang yêu cầu. Tuy nhiên, có khả năng bạn không biết đó là gì, vì vậy chúng tôi sẽ chia nhỏ các câu hỏi thường gặp nhất dưới đây.
+vpn-ip-address-your-ip-address = Địa chỉ IP của bạn là một số nhận dạng duy nhất, giống như một địa chỉ gửi thư, được liên kết với hoạt động trực tuyến của bạn. Bất kỳ lúc nào bạn sử dụng internet (mua sắm trực tuyến, gửi email, truyền phát trực tuyến TV), bạn đều yêu cầu quyền truy cập vào một điểm đến trực tuyến cụ thể và đổi lại, thông tin sẽ được gửi lại cho bạn. Nó hoạt động như thế nào? IP là viết tắt của Internet Protocol (giao thức Internet), đưa ra các tiêu chuẩn và quy tắc (đúng vậy, còn được gọi là giao thức) để định tuyến dữ liệu và kết nối với internet. Giao thức này là một tập hợp các quy tắc mà mỗi bên cần tuân theo để cho phép luồng dữ liệu hai chiều.
 # Used as an accessible text alternative for an image
-vpn-ip-address-an-example-of-an-ip = Ví dụ về địa chỉ IP là một chuỗi bốn số, được phân tách bằng số thập phân: 123.45.67.89
+vpn-ip-address-an-example-of-an-ip = Ví dụ về địa chỉ IP là một chuỗi gồm bốn số, được phân tách bằng dấu chấm: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Nếu bạn tra cứu địa chỉ IP của mình, nó sẽ giống như thế này.
 vpn-ip-address-does-it-travel = Nó có đi theo bạn không?
 # Variables

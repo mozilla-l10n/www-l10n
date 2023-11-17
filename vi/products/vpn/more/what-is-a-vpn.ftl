@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -21,7 +21,7 @@ vpn-what-is-a-vpn-will = VPN sẽ bảo vệ lưu lượng mà bạn gửi giữ
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = Nhà cung cấp VPN thường cung cấp một số cổng kết nối ở các vị trí toàn cầu khác nhau, cho phép bạn sử dụng địa chỉ IP từ một ngôn ngữ khác với ngôn ngữ của bạn. Bằng cách đó, nơi bạn đang kết nối sẽ xem IP của VPN, không phải địa chỉ IP thực của bạn, là nguồn lưu lượng truy cập của bạn. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> định tuyến lưu lượng truy cập của bạn thông qua một máy chủ bảo mật và cho phép bạn chọn một vị trí từ hơn { $countries } quốc gia.
 vpn-what-is-when-should-i = Khi nào tôi nên sử dụng VPN?
-vpn-what-is-connecting-to-a = Kết nối với mạng Wi-Fi công cộng đôi khi rất thuận tiện, chẳng hạn như khi bạn không có dịch vụ internet hoặc không thể nhận được bất kỳ thanh nào trên điện thoại của mình. Mặt khác, kết nối với WiFi công cộng có thể là một nỗ lực đầy rủi ro. Không thể chắc chắn rằng ai đó không kết nối với cùng một mạng để theo dõi những gì bạn đang làm. Ngay cả khi lưu lượng truy cập của bạn được mã hóa, họ vẫn có thể thấy những trang web bạn đang truy cập. Và nếu bạn đang sử dụng một ứng dụng không có mã hóa — và thậm chí ngày nay, nhiều người không có — thì họ có thể thấy mọi thứ bạn đang làm.
+vpn-what-is-connecting-to-a = Kết nối với mạng Wi-Fi công cộng đôi khi rất thuận tiện, chẳng hạn như khi bạn không có dịch vụ internet hoặc không thể nhận được bất kỳ thanh nào trên điện thoại của mình. Mặt khác, kết nối với Wi-Fi công cộng có thể là một nỗ lực đầy rủi ro. Không thể chắc chắn rằng ai đó không kết nối với cùng một mạng để theo dõi những gì bạn đang làm. Ngay cả khi lưu lượng truy cập của bạn được mã hóa, họ vẫn có thể thấy những trang web bạn đang truy cập. Và nếu bạn đang sử dụng một ứng dụng không có mã hóa — và thậm chí ngày nay, nhiều người không có — thì họ có thể thấy mọi thứ bạn đang làm.
 vpn-what-is-when-youre-at = Khi bạn ở nhà, nguy cơ bị những kẻ xấu hiển thị trên mạng gia đình của bạn sẽ thấp hơn. Tuy nhiên, nhà cung cấp dịch vụ internet (ISP) của bạn có thể theo dõi và chia sẻ các hoạt động trực tuyến của bạn vì tất cả dữ liệu bạn truy cập trên web đều được định tuyến qua mạng của ISP, một số dữ liệu có thể không được mã hóa. VPN có thể ngăn ISP theo dõi bạn bằng cách mã hóa lưu lượng truy cập của bạn tới nhà cung cấp VPN cho dù bạn ở đâu.
 vpn-what-is-wait-i-thought = Chờ đã, tôi nghĩ lưu lượng truy cập Internet của mình đã được mã hóa bằng HTTPS…
 vpn-what-is-its-true-that = Đúng là hầu hết các kết nối đến các trang web ngày nay đều được bảo mật bằng HTTPS, có nghĩa là nội dung, chứ không phải địa chỉ IP nguồn hoặc đích, được mã hóa. VPN cung cấp quyền riêng tư bổ sung bằng cách ngăn các trang web và bên thứ ba tìm hiểu địa chỉ IP của bạn.

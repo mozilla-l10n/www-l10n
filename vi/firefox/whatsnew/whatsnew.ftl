@@ -12,14 +12,7 @@ whatsnew-page-description = Hãy phản kháng những ngành bán dữ liệu c
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Chúc mừng! Bạn đang dùng phiên bản mới nhất của { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Chúc mừng! Bạn đang dùng phiên bản mới nhất của { -brand-name-firefox-browser }
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Đã có { -brand-name-firefox } mới hơn. <a href="{ $url }">Cập nhật lên phiên bản mới nhất</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Đã có { -brand-name-firefox } mới hơn. Khởi động lại để cập nhật.
+whatsnew-update-notification = { -brand-name-firefox } của bạn đã được cập nhật.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Đọc <a href="{ $url }">ghi chú phát hành</a> để cập nhật thông tin trong trình duyệt { -brand-name-firefox } của bạn.
