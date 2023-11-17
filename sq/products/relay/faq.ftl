@@ -25,6 +25,13 @@ faq-question-missing-emails-answer-reason-delay = { -brand-name-relay } mund të
 #   $attrs (string) - specific attributes added to external links
 faq-question-missing-emails-answer-support-site-html = Nëse po ndesheni me cilëndo prej këtyre problemeve, ju lutemi, <a href="{ $url }" { $attrs }>vizitoni sajtin tonë të asistencës</a>.
 faq-question-use-cases-question-2 = Kur duhet të përdor maska { -brand-name-relay } email-i?
+faq-question-use-cases-answer-part1-2 = Mund të përdorni maska { -brand-name-relay } email në shumicën e vendeve ku do të përdornit adresën tuaj të zakonshme email. Rekomandojmë përdorimin e tyre kur regjistroheni për email-e marketingu/informacionesh, me të cilët mund të doni të kontrolloni marrje ose jo email-esh në të ardhmen.
+faq-question-use-cases-answer-part2-2 = Nuk rekomandojmë përdorim maskash kur ju duhet identiteti juaj i verifikuar, ose për email-e shumë të rëndësishëm, apo ata kur duhet të merrni bashkëngjitje. Për shembull, mund të donit të jepni adresën tuaj të njëmendtë email bankës tuaj, mjekut tuaj, avokatit tuaj, si edhe kur merrni letër-kalim për koncert apo fluturim.
+faq-question-2-question-2 = Pse s’do ta pranojë një sajt maskën time { -brand-name-relay } email?
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-2-answer-v4 = Disa sajte mund të mos pranojnë një adresë email që përfshin nënpërkatësi (@nënpërkatësi.mozmail.com) dhe të tjerë kanë reshtur së pranuari krejt adresat, hiq ato nga llogari Gmail, Hotmail, ose Yahoo.
 
 ## Frequently Asked Questions about Phone plans
 
