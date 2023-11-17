@@ -9,7 +9,7 @@
 vpn-or-proxy-the-difference-between = Le differentia inter VPN e proxy web
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPNs e proxies es solutiones pro le confidentialitate e le securitate online. Ecce como istos te protege e como eliger le melior option.
-vpn-or-proxy-virtual-private-networks = Le retes virtual private (VPNs) e le proxies de web secur es solutiones pro un melior confidentialitate e securitate online, ma il pote esser confundente imaginar qual es illo juste pro te. Ecce un reguardo a como iste servicios te protege e a como eliger le melior option pro quando tu es online.
+vpn-or-proxy-virtual-private-networks = Le retes virtual private (VPNs) e le proxies de web secur es solutiones pro un melior confidentialitate e securitate online, ma il pote esser confundente imaginar qual es illo juste pro te. Ecce un reguardo a como iste servicios te protege e a como eliger le melior option si tu es online.
 vpn-or-proxy-stop-isps-from = Stoppa le ISPs de spiar te
 # Variables
 #   $firefox (url) - https://www.mozilla.org/firefox/new/
@@ -32,7 +32,7 @@ vpn-or-proxy-a-proxy-is-useful = Un proxy es utile quando tu naviga le web sur u
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> es un extension de navigator facile a installar, que offere un secur, cryptate tunnel al web pro proteger tu navigator connexion ubique tu usa { -brand-name-firefox }. Il es rapide e facile activar lo, quandocunque illo te besonia pro major securitate in tu navigator.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: protection a nivello de apparato
 vpn-or-proxy-vpns-do-more = VPNs face plus que proxies, nam un proxy solo protege lo que tu face in tu navigator, dum un VPN protege tote tu traffico, includite tu navigator, ubicunque tu ha un VPN installate e activate. VPNs forni major securitate e confidentialitate pro tote tu activitate online: un importante consideration si tu desira mantener tu activitate pro te mesme e render plus difficile pro le famelic traciatores de datos e le ISPs crear un profilo de te inter tote tu apparatos, como tu telephono, computator e tabletta.
-vpn-or-proxy-a-vpn-works = Un VPN functiona per le creation de un secur “tunnel” inter tu apparato e internet in general. Illo protege tu confidentialitate in duo manieras clave:
+vpn-or-proxy-a-vpn-works = Un VPN functiona per le creation de un “tunnel” secur inter tu apparato e internet in general. Illo protege tu confidentialitate in duo manieras clave:
 vpn-or-proxy-concealing-your-ip = Occultante tu adresse IP, protegente tu identitate e obscurante tu position.
 vpn-or-proxy-encrypting-your-traffic = Cryptante tu traffico inter te e tu fornitor de VPN assi que nemo sur tu rete local pote decifrar lo o modificar lo.
 # Variables
