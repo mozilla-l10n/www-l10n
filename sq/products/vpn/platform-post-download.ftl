@@ -45,6 +45,11 @@ vpn-download-faq-why-use = Pse duhet ta përdor { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-download-faq-as-more-daily = Teksa një pjesë gjithnjë e më e madhe e jetës së përditshme zhvillohet përmes internetit, privatësia dhe siguria internetore bëhen gjithnjë e më e rëndësishme. Një VPN, <a href="{ $faq }">Rrjet Privat Virtual</a>, Krijon një tunel të fshehtëzuar mes pajisjeve tuaja dhe internetit, duke garantuar që lidhja juaj të mbetet e siguruar dhe private, teksa ju mbron përmes dy rrugësh të rëndësishme:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Duke fshehur <a href="{ $ip }">adresën tuaj IP</a> të njëmendtë: kjo ndihmon të mbrohet identiteti juaj dhe t’u errësohet vendndodhja juaj sajteve që vizitoni.
+vpn-download-faq-encrypting = Duke fshehtëzuar trafikun tuaj internet: kështu, askush që përgjon të mos spiunojë dot veprimtarinë tuaj internetore.
 vpn-download-faq-working = Nga ta di që VPN-ja po funksionon?
 vpn-download-faq-add-device = Si të shtoj pajisje tjetër?
+vpn-download-faq-lastly = Dhe së fundi, në pajisjet që mbulohen, VPN-në mund ta bëni edhe më të mençur, duke përjashtuar prej saj disa aplikacione (p.sh. Netflix).
 vpn-download-faq-need-more = Ju duhet edhe pakëz ndihmë akoma?
