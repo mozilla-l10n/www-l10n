@@ -322,6 +322,9 @@ locales = [
     reference = "en/products/vpn/shared.ftl"
     l10n = "{locale}/products/vpn/shared.ftl"
 [[paths]]
+    reference = "en/products/vpn/more/*.ftl"
+    l10n = "{locale}/products/vpn/more/*.ftl"
+[[paths]]
     reference = "en/products/vpn/platforms/*.ftl"
     l10n = "{locale}/products/vpn/platforms/*.ftl"
 [[paths]]
@@ -330,3 +333,12 @@ locales = [
 [[paths]]
     reference = "en/products/vpn/platform-post-download.ftl"
     l10n = "{locale}/products/vpn/platform-post-download.ftl"
+[[paths]]
+    reference = "en/products/vpn/landing-2023.ftl"
+    l10n = "{locale}/products/vpn/landing-2023.ftl"
+[[paths]]
+    reference = "en/products/vpn/pricing-2023.ftl"
+    l10n = "{locale}/products/vpn/pricing-2023.ftl"
+[[paths]]
+    reference = "en/products/vpn/features.ftl"
+    l10n = "{locale}/products/vpn/features.ftl"
