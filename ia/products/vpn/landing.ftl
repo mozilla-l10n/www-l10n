@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = Qual apparatos es compatibile c
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } es compatibile con<a href="{ $mobile }">mobile</a>, tablettas e <a href="{ $desktop }">scriptorio</a> sur:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } es compatibile con:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (solo 64 bit)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (solo 64 bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e ultra)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion }  e ultra)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e ultra)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e ultra)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e ultra)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (version 8 e ultra)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (version 6 e ultra)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 e ultra)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } e ultra)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e ultra)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu de 20.04 in avante)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e ultra)
 vpn-landing-faq-refund-question-heading = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
 vpn-landing-faq-refund-question-additional-desc = Si tu acquire tu abonamento per compra de in-app ab { -brand-name-apple } { -brand-name-app-store } o ab le boteca { -brand-name-google-play }, tu pagamento es subjecte al terminos e conditiones del { -brand-name-app-store }. Tu debe diriger ulle inquestas de facturation e reimbursamento pro simile compras a { -brand-name-apple } o { -brand-name-google }, como appropriate.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Tu pote facer te reimbursar tu moneta intra 30 dies post le compra de tu subscription. Contacta nos e invia le requesta de reimbursamento pulsante le button “Demandar adjuta” in Parametros sur tu application { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Como gere io mi subscription?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Vider altere folios a questiones
 
 vpn-landing-invite-page-title = Junge te al lista de attender: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Recipe avisos quando { -brand-name-mozilla-vpn } es disponibile pro tu region.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Recipe avisos quando { -brand-name-mozilla-vpn } es disponibile pro tu apparato e region.
 vpn-landing-invite-page-heading = Junge te al lista de attender de VPN
 vpn-landing-invite-email-label = Qual es tu adresse e-mail?
