@@ -32,3 +32,12 @@ vpn-linux-if-you-use-v2 = Nëse përdorni një nga hedhjet e mbuluara në qarkul
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use = Nëse përdorni një nga hedhjet e mbuluara në qarkullim të Ubuntu-së, ka dy rrugë për të instaluar paketat zyrtare mozillavpn të strehuara në <a { $attrs }>launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Mënyra rresht urdhrash Ubuntu:</strong> Për udhëzime të hollësishme se si të instalohet { -brand-name-mozilla-vpn } duke përdorur mjete të mënyrës rresht urdhrash, shihni <a { $attrs }>Si të instalohet { -brand-name-mozilla-vpn } në një kompjuter Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ndërfaqe grafike përdoruesi Ubuntu:</strong> Shihni <a { $attrs }>këtë artikull</a> dhe ndiqni udhëzimet te ndarja “Shtim arkiva personalë paketash”.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Më tej, për shpërndarje Linux që nuk i mbulojmë, mund të merrni dhe të përpiloni kodin burim që nga <a { $attrs }>depoja zyrtare në GitHub</a>.
