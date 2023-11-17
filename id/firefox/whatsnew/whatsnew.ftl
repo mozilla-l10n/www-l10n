@@ -13,17 +13,7 @@ whatsnew-firefox = { -brand-name-firefox }
 
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Selamat! Anda menggunakan { -brand-name-firefox } versi terbaru.
 
-# Obsolete string
-whatsnew-up-to-date-notification = Selamat! Anda menggunakan { -brand-name-firefox-browser } versi terbaru.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = { -brand-name-firefox } yang lebih baru juga sudah tersedia. <a href="{ $url }">Mutakhirkan ke versi terbaru</a>
-
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = { -brand-name-firefox } yang lebih baru bahkan sudah tersedia. Restart untuk memperbarui.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
