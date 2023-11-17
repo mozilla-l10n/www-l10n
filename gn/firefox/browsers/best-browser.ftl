@@ -8,7 +8,7 @@
 best-browser-find-your-best-browser = Ejuhu ne  kundaha ipya’e, ñemigua ha hekorosãva.
 best-browser-so-many-browser-options = Heta jeporavorã kundahápe g̃uarã, hákatu peteĩ pe oikóva eikotevẽvape g̃uarã. Pe kundaha iporãvéva ndéve g̃uarã ipya’e, hekorosã ha  omo’ãva’erã nde rekoñemi.
 best-browser-privacy-speed-and-security = Ñemigua, pya’ekue ha tekorosã.
-best-browser-how-to-choose-the-best = Mba’éicha eiporavokuaa iporãvéva kundaha ndéve g̃uara.
+best-browser-how-to-choose-the-best = Mba’éicha eiporavokuaa iporãvéva kundaha ndéve g̃uarã.
 best-browser-the-internet-has-become = Ñandutígui oiko mba’e tuichapajepéva, ha’eháicha electricida ha y ogaháre, upéicharamo eiporavóke kundaha iporãvéva ndéve g̃uarã. Ñanduti ha’e nerembiapo renda mokõiha, peteĩ mbo’ehára ha avei neresãirã, jepémo ne pohanohára oipotáta ndereikéi eikuaave hag̃ua ne mba’asy rehegua.
 best-browser-in-the-mid-nineties = Ary 90 mbyte rupi, { -brand-name-netscape }, { -brand-name-ie } ha AOL ha’e umi ojeporuvéva. Upérõ opamba’e ivevuive ipuhápe mbeguemi dial-up arapy tuichakuépe. Eikuaa mba’épa he’ise py’aguapy eha’ãrõhápe mba’éicha pe ñanduti kuatiarogue henyhẽ. Upérõ, pe kundaha pya’ekue ha’e mba’e oñeha’ãrõvéva.
 best-browser-today-is-a-different = Ko’ág̃a rupi ndaha’evéima péicha. Maranduñemurã, hackeo ñemiguápe, ñemigua ñembyai ha marandu ijapúva ikatu ohechauka ambue kundaha rekome’ẽ. ¿Mba’éichapa omo’ã kundaha me ñemigua? ¿Omoneĩ tapykuehohápe nde rapykuehóvo ñandutípe? ¿Oñemoheñói omba’apo hag̃ua heta hendáicha?

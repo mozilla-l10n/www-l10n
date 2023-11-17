@@ -84,6 +84,6 @@ firefox-developer-welcome-to-firefox-browser = Eg̃uahẽporãite { -brand-name-
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
 firefox-developer-all-the-latest = Opaite tembiporu mboguatahárape g̃uarã ipyahúva beta rehegua, avei <strong>tembiapoite ipyahúva</strong> mba’e’oka mbosako’iha itairendaetáva ha WebSocket mbohekoha.
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
-firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uara</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uara.
+firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uarã</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uarã.
 firefox-developer-congrats-you-now-have = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-congrats-you-now-have-latest = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } osẽramovéva { -brand-name-developer-edition }.

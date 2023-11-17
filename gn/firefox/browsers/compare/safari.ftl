@@ -74,7 +74,7 @@ compare-safari-firefox-also-offers-a-similar = { -brand-name-firefox } avei ome�
 # Variables:
 #   $ios (string) - link to Apple store with additional attributes for analytics
 #   $android (string) - link to Google Play store with additional attributes for analytics
-compare-safari-the-firefox-app-for-ios-and = { -brand-name-firefox } rembiporu’i <a { $ios }>{ -brand-name-ios }</a> ha <a { $android }>{ -brand-name-android }</a> peg̃uara ha’e peteĩva umi kundahára ipya’éva ojeporukuaáva ha oreko peteĩchagua hekorasãva ha jehapykueho’ỹva: netenondevéta eikundaháramo mohendaha oku’éva ha pumbyry ndive.
+compare-safari-the-firefox-app-for-ios-and = { -brand-name-firefox } rembiporu’i <a { $ios }>{ -brand-name-ios }</a> ha <a { $android }>{ -brand-name-android }</a> peg̃uarã ha’e peteĩva umi kundahára ipya’éva ojeporukuaáva ha oreko peteĩchagua hekorasãva ha jehapykueho’ỹva: netenondevéta eikundaháramo mohendaha oku’éva ha pumbyry ndive.
 compare-safari-since-safari-is-apples-proprietary = Jaikuaávo { -brand-name-safari } ha’eha ñanduti kundahára { -brand-name-apple } mba’éva, iñembojuehe iCloud omba’apo { -brand-name-apple } apopyre ndive año. Kóva ikatu mba’e ojokóva pe, techapyrã, ha’érõ poruhára { -brand-name-android } pegua ha peteĩ { -brand-name-iphone } térã erekórõ PC { -brand-name-windows } ndive emba’apo hag̃ua hákatu eiporu { -brand-name-iphone } ne mba’e’okaitéramo.
 # Variables:
 #   $attrs (string) - link to blog post with additional attributes for analytics

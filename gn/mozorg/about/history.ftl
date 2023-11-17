@@ -54,7 +54,7 @@ history-the-renewed-competition = Pe ñeñani ipyahúva <a href="{ $innovation }
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = Ary 2013 jave, rogueñohẽ <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> hekosasõ ñanduti pokatu pumbyry ha’evévape ha ome’ẽ hag̃ua ñangarekoha ha jeporavokuaa poruhára pyahu og̃uahẽramóva ñandutípe g̃uarã.
 history-mozilla-also-celebrated = { -brand-name-mozilla } avei omomora 15 ary ñemboty 2013-pe.
-history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva poruhára pahápe g̃uara ha’éva software ijayvu jurujáva.
+history-the-community-has-shown = Tekoha ohechauka umi ñemuha guasu ikatuha oipytyvõ apopyrã ayvu ijurujávape ojejapokuaahápe apopyre tuicháva poruhára pahápe g̃uarã ha’éva software ijayvu jurujáva.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Hetaiteve yvypóra ko’ág̃a rupi oiporu Ñanduti ha ojapokuaa <a href="{ $all }">iñe’ẽtépe</a>.
