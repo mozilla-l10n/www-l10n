@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Uštedite { $percent }%
 vpn-shared-save-percent-on = Uštedite { $percent }% na { -brand-name-mozilla-vpn }u*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *kada se pretplatite na 12-mjesečni plan
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *uz godišnju pretplatu
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } ukupno
@@ -133,6 +135,7 @@ vpn-subnav-vpn-vs-proxy = VPN u odnosu na Proxy
 vpn-subnav-subscribe = Pretplatite se na { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Saznajte više o VPN-ovima
 vpn-subnav-download-mozilla-vpn = Preuzmite { -brand-name-mozilla-vpn }
+vpn-subnav-features = Funkcije
 
 ## VPN Affiliate cookie notice
 
@@ -158,6 +161,12 @@ vpn-shared-why-bundle = Zašto paket?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Uštedite { $percent }%</span> na { -brand-name-relay-premium } godišnjem planu
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } još nije dostupan u vašoj zemlji
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Kao što se vidi u
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } VPN također može se <a { $attrs }>integrirati u neke sjajne funkcije zaštite privatnosti</a> svog { -brand-name-firefox } pretraživača.”

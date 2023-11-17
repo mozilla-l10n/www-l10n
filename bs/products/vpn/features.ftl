@@ -62,3 +62,20 @@ vpn-features-set-different-locations = Postavite različite lokacije za svaku ka
 vpn-features-combine-mozilla-vpn-with-containers = Kombinujte { -brand-name-mozilla-vpn } sa ekstenzijom Multi-Account Containers { -brand-name-firefox } i postavite različite VPN lokacije po { -brand-name-firefox } tabu. <a { $containers }>Saznajte kako</a>.
 vpn-features-trustworthy = Pouzdan
 vpn-features-money-back = 30-dnevna garancija povrata novca
+vpn-features-plus-customer-support = Plus korisnička podrška 24/7.
+vpn-features-we-never-log = Nikada ne evidentiramo, pratimo ili dijelimo vaše mrežne podatke
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Jednostavno rečeno, mi ne prikupljamo vaše lične podatke o surfanju. Evo naše <a { $privacy }>politike privatnosti koja se lahko čita</a>.
+vpn-features-built-transparently = Izgrađen transparentno u otvorenom kodu
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je napravljen sa otvorenim kodom, što znači da je sav kod javno dostupan. Pogledajte naše <a { $github }>GitHub repozitorij</a>.
+vpn-features-reviewed-by-third = Recenziju dali stručnjaci za sigurnost trećih strana
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Prošli smo reviziju od strane Cure53, vodeće revizorske firme za sajber sigurnost. <a { $report }>Pogledajte izvještaj ovdje</a>.
+vpn-features-people-over-profits = Ljudi iznad profita
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Podržava nas <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, neprofitna organizacija koja se bori da web ostane otvoren i zdrav za sve ljude.
