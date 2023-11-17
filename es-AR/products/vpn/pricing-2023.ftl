@@ -1,0 +1,48 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/pricing/
+
+vpn-pricing-page-title = Precios: { -brand-name-mozilla-vpn }
+vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+vpn-pricing-one-subscription = Una suscripción para todos tus dispositivos
+# Pricing section
+vpn-pricing-included-in-subscription = Incluido en la suscripción:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Conectar hasta { $devices } dispositivo
+       *[other] Conectar hasta { $devices } dispositivos
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Acceder al { $servers } en más de { $countries } países
+       *[other] Acceder a { $servers } en más de { $countries } países
+    }
+vpn-pricing-money-back = Garantía de reembolso de 30 días (solo para clientes nuevos)
+vpn-pricing-annual = Anual
+vpn-pricing-monthly = Mensualmente
+vpn-pricing-get-annual-subscription = Conseguí la suscripción anual
+vpn-pricing-get-monthly-subscription = Obtener una suscripción mensual
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } aún no está disponible en tu país
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = Preguntas frecuentes
+vpn-pricing-refund-policy = ¿Cuál es la política de reembolsos de la { -brand-name-mozilla-vpn }?
+vpn-pricing-the-first-time-you = La primera vez que te suscribás a { -brand-name-mozilla-vpn } a través del sitio web de { -brand-name-mozilla }, si cancelás la cuenta dentro de los primeros 30 días, podés solicitar un reembolso y { -brand-name-mozilla } te reembolsará tu primer período de suscripción.
+vpn-pricing-if-you-purchased = Si compraste la suscripción dentro de la aplicación en Apple App Store o Google Play Store, el pago está sujeto a los términos y condiciones de la tienda. Debes dirigir cualquier consulta de facturación y reembolso por dichas compras a Apple o Google, según corresponda.
+vpn-pricing-what-information = ¿Qué información guarda { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Nos adherimos estrictamente a los <a { $principles }> Principios de privacidad de datos </a> de { -brand-name-mozilla }. Solo recopilamos los datos necesarios para mantener { -brand-name-mozilla-vpn } operativa y mejorar el producto con el tiempo. También rastreamos los datos de campañas y referencias en nuestra aplicación móvil para ayudar a { -brand-name-mozilla } a comprender la efectividad de nuestras campañas de marketing. Lee más en nuestro <a { $notice }> Aviso de privacidad </a>.
+vpn-pricing-how-do-i-manage = ¿Cómo administro mi suscripción y cambio mi plan?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a { $manage }> administrar tu suscripción </a> en cualquier momento.
