@@ -125,6 +125,7 @@ vpn-shared-save-percent-on = وفّر { $percent }% على { -brand-name-mozilla
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *عند الاشتراك في خطة 12 شهرًا
 
+
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } إجمالًا
@@ -201,4 +202,7 @@ vpn-shared-why-bundle = ما سبب أهمية الحزمة؟
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>وفّر { $percent }%</span> على الخطة السنوية { -brand-name-relay-premium }
 
-##
+
+## Press quotations
+
+

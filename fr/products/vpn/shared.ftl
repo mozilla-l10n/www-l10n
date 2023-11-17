@@ -125,6 +125,7 @@ vpn-shared-save-percent-on = Économisez { $percent } % sur { -brand-name-mozil
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = * pour toute souscription d’un abonnement de 12 mois
 
+
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Soit { $amount }
@@ -201,4 +202,7 @@ vpn-shared-why-bundle = Pourquoi les deux en même temps ?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = Parce que <span>vous économiserez { $percent } %</span> par rapport à un abonnement annuel à { -brand-name-relay-premium }.
 
-##
+
+## Press quotations
+
+

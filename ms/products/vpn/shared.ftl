@@ -125,6 +125,7 @@ vpn-shared-save-percent-on = Jimat { $percent }% untuk { -brand-name-mozilla-vpn
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *apabila anda melanggan untuk pelan 12-bulan
 
+
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } jumlah
@@ -201,4 +202,7 @@ vpn-shared-why-bundle = Mengapakah pakej lebih baik?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Jimat { $percent }%</span> pada pelan tahunan { -brand-name-relay-premium }
 
-##
+
+## Press quotations
+
+
