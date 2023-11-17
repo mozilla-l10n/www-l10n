@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = Pa ddyfeisiau y mae { -brand-na
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = Mae { -brand-name-mozilla-vpn } yn gydnaws â <a href="{ $mobile }">symudol</a>, tabled, a <a href="{ $desktop }">bwrdd gwaith</a> ar :
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = Mae { -brand-name-mozilla-vpn } yn gydnaws â:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-did yn unig)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-did yn unig)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ac uwch)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ( { $minversion } ac i fyny)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ac uwch)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ac i fyny)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ac uwch)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (version 8 ac uwch)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (fersiwn 6 ac uwch)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (fersiwn 6 ac i fyny)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ac uwch)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ac uwch)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ac uwch)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ac uwch)
 vpn-landing-faq-refund-question-heading = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
 vpn-landing-faq-refund-question-desc-v2 = Y tro cyntaf y byddwch chi'n tanysgrifio i { -brand-name-mozilla-vpn } trwy wefan { -brand-name-mozilla }, byddwch yn gallu diddymu'ch cyfrif o fewn y 30 diwrnod cyntaf,  gallwch ofyn am ad-daliad a bydd { -brand-name-mozilla } yn ad-dalu'ch cyfnod tanysgrifio cyntaf.
 vpn-landing-faq-refund-question-additional-desc = Os ydych chi'n prynu'ch tanysgrifiad trwy'r { -brand-name-apple } { -brand-name-app-store } neu'r storfa { -brand-name-google-play }, mae eich taliad yn ddarostyngedig i delerau ac amodau'r { -brand-name-app-store }. Rhaid i chi gyfeirio unrhyw ymholiadau bilio ac ad-dalu am bryniannau o'r fath i { -brand-name-apple } neu { -brand-name-google }, fel sy'n briodol.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Gallwch gael eich arian yn ôl cyn pen 30 diwrnod ar ôl prynu'ch tanysgrifiad. Cysylltwch â ni a chyflwyno'ch cais am ad-daliad trwy dapio'r botwm “Get Help” yng Ngosodiadau ar eich ap { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Sut fydda i'n rheoli fy nhanysgrifiad?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Gweld ragor o Gwestiynau Cyffredin
 
 vpn-landing-invite-page-title = Ymunwch â'r Rhestr Aros: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Derbyniwch hysbys pan fydd { -brand-name-mozilla-vpn } ar gael yn eich ardal chi.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Derbyniwch hysbys pan fydd { -brand-name-mozilla-vpn } ar gael ar gyfer eich dyfais a'ch ardal.
 vpn-landing-invite-page-heading = Ymunwch â Rhestr Aros VPN
 vpn-landing-invite-email-label = Beth yw eich cyfeiriad e-bost?

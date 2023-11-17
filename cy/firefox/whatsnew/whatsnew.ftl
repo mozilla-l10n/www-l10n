@@ -12,14 +12,7 @@ whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich 
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Llongyfarchiadau! Rydych chi'n defnyddio'r fersiwn ddiweddaraf o { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Mae { -brand-name-firefox } mwy diweddar ar gael. <a href="{ $url }">Diweddarwch i'r fersiwn newydd</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Mae { -brand-name-firefox } mwy diweddar ar gael. Ailgychwynnwch i ddiweddaru.
+whatsnew-update-notification = Mae eich { -brand-name-firefox } wedi'i ddiweddaru.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Darllenwch y <a href="{ $url }">Nodiadau Ryddhau</a> i wybod rhagor am yr hyn sy'n newydd yn eich porwr { -brand-name-firefox }.

@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Cael { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
 vpn-shared-sign-in-link = Eisoes yn danysgrifiwr?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Canada, Y Ffindir, Ffrainc, Yr Almaen, Iwerddon, Yr Eidal, Malaysia, Yr Iseldiroedd, Seland Newydd, Singapore, Sbaen, Sweden, Y Swisdir, Prydain a'r Unol Daleithiau.
 vpn-shared-available-countries-v6 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Bwlgaria, Canada, Croatia, Cyprus, y Weriniaeth Tsiec, Denmarc, Estonia, y Ffindir, Ffrainc, yr Almaen, Hwngari, Iwerddon, yr Eidal, Latfia, Lithwania, Lwcsembwrg, Malaysia, Malta, yr Iseldiroedd, Seland Newydd, Gwlad Pwyl, Portiwgal, Romania, Singapôr, Slofenia, Slofacia, Sbaen, Sweden, y Swistir, y DU, a'r Unol Daleithiau.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Dewiswch gynllun sy'n gweithio i chi
 vpn-shared-pricing-variable-sub-heading = Mae pob un o'n cynlluniau yn cynnwys:
 vpn-shared-pricing-recommended-offer = Argymhellwn
 vpn-shared-pricing-plan-12-month-v2 = Cynllun 12 mis
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 Mis
 vpn-shared-pricing-plan-monthly-v2 = Cynllun misol
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Misol
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mis + treth</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Cael cynllun 6 mis
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Cael cynllun 12 mis
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Cael cynllun 6 mis
 vpn-shared-pricing-get-12-month-v2 = Cael cynllun 12 mis
 vpn-shared-pricing-get-monthly = Cael cynllun misol
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Arbedwch { $percent }%
 vpn-shared-save-percent-on = Arbedwch { $percent }% ar { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *pan fyddwch chi'n tanysgrifio i gynllun 12 mis
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *gyda thanysgrifiad blynyddol
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Cyfanswm o { $amount }
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = VPN neu Dirprwy
 vpn-subnav-subscribe = Tanysgrifiwch i { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Dysgwch am VPNs
 vpn-subnav-download-mozilla-vpn = Llwythwch { -brand-name-mozilla-vpn } i Lawr
+vpn-subnav-features = Nodweddion
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Rydym yn defnyddio cwcis i ddeall pa bartner cyswllt a'ch tywysodd at { -brand-name-mozilla-vpn }. Nid ydym yn rhannu gwybodaeth sy'n dynodi pwy ydych yn bersonol gyda'n partneriaid. Darllenwch ein <a { $attrs }>Polisi Preifatrwydd</a>.
 vpn-shared-affiliate-notification-reject = Gwrthod
 vpn-shared-affiliate-notification-ok = Iawn
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Pam bwndelu?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Arbed { $percent }%</span> ar gynllun blynyddol { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = Nid yw { -brand-name-mozilla-vpn } ar gael yn eich gwlad eto
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Fel wedi'i weld yn
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “Gall VPN { -brand-name-mozilla } hefyd <a { $attrs }>integreiddio i rai nodweddion diogelu preifatrwydd craff</a> o’i borwr { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…gallai nodweddion unigryw, fel ei Gynhwyswyr Aml-gyfrif, wneud y nodwedd yn hygyrch i ddefnyddwyr sydd â phryderon preifatrwydd mwy difrifol.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “Mae rhestr nodweddion { -brand-name-mozilla-vpn } wedi tyfu’n sylweddol ers ei lansio, ac mae’r gwasanaeth bellach yn curo llawer o VPNs arbenigol mewn rhai meysydd.”
