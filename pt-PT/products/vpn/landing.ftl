@@ -87,13 +87,12 @@ vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -b
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (somente 64 bits)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e superior)
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } e superior)
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e superior)
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e superior)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e superior)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (versão 8 e superior)

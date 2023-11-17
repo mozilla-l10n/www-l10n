@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Poupe { $percent }%
 vpn-shared-save-percent-on = Poupe { $percent }% em { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *quando subscrever o plano de 12 meses
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *com uma subscrição anual
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = total { $amount }
@@ -133,6 +135,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Subscrever a { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Saber mais sobre VPNs
 vpn-subnav-download-mozilla-vpn = Transferir a { -brand-name-mozilla-vpn }
+vpn-subnav-features = Funcionalidades
 
 ## VPN Affiliate cookie notice
 
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Porquê empacotar?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Poupe { $percent }%</span> no { -brand-name-relay-premium } plano anual
+vpn-shared-mozilla-vpn-is-not-yet-available = A { -brand-name-mozilla-vpn } ainda não está disponível no seu país
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Como visto em
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “A VPN da { -brand-name-mozilla } também pode <a { $attrs }>integrar-se a algumas funcionalidades interessantes de proteção de privacidade</a> do seu navegador { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…funcionalidades únicas, como os Multi-Account Containers, podem tornar a funcionalidade facilmente acessível a utilizadores com preocupações mais sérias com a privacidade.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “A lista de funcionalidades da { -brand-name-mozilla-vpn } cresceu significativamente desde o lançamento e o serviço agora supera muitas VPNs especialistas em algumas áreas.”

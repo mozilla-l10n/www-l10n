@@ -12,14 +12,7 @@ whatsnew-page-description = Marque a sua posição contra uma industria que est�
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Parabéns! Está a utilizar a versão mais recente do { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Parabéns! Você está a utilizar a versão mais recente do { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Está disponível um { -brand-name-firefox } novo e ainda mais recente. <a href="{ $url }">Atualização para a versão mais recente</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Está disponível um { -brand-name-firefox } novo e ainda mais recente. Reiniciar para atualizar.
+whatsnew-update-notification = O seu { -brand-name-firefox } foi atualizado.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Consulte as <a href="{ $url }">notas de lançamento</a> para saber mais sobre as novidades do seu { -brand-name-firefox }.
