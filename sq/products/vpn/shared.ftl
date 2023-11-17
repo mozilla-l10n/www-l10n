@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Kurseni { $percent }%
 vpn-shared-save-percent-on = Kurseni { $percent }% në { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *kur pajtoheni për një plan 12-mujor
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = * me një pajtim vjetor
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } gjithsej
@@ -133,6 +135,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Ndërmjetësi
 vpn-subnav-subscribe = Pajtohuni te { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Mësoni më tepër rreth VPN-sh
 vpn-subnav-download-mozilla-vpn = Shkarkoni { -brand-name-mozilla-vpn }
+vpn-subnav-features = Veçori
 
 ## VPN Affiliate cookie notice
 
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Pse tok?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Kurseni { $percent }%</span> te plani vjetor { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } s’mund të kihet ende në vendin tuaj
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Siç është parë në
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “VPN-ja e { -brand-name-mozilla }-s mundet edhe <a { $attrs }>të integrohet në disa veçori të lezetshme mbrojtjeje privatësie</a> të shfletuesit të saj { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…veçori unike, b.f., Kontejner Shumë-Llogari, mund ta bëjnë veçorinë lehtësisht të përdorshme nga përdorues me shqetësim më serioz ndaj privatësisë.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “Lista e veçorive të { -brand-name-mozilla-vpn } është shtuar ndjeshëm që nga hedhja në qarkullim dhe shërbimi tani, në disa fusha, mposht mjaft VPN të specializuara.”
