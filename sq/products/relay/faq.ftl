@@ -56,7 +56,15 @@ faq-question-attachments-question = A do të përcjellë { -brand-name-firefox-r
 #  $size (number): maximum size for attachments in MB
 faq-question-attachments-answer-v2 = Tanimë mbulojmë përcjellje bashkëngjitjesh. Por, ka një kufi { $size } MB për përcjellje email-esh, kur përdoret { -brand-name-relay }. Çfarëdo email-sh më të mëdhenj se { $size } MB, s’do të përcillen.
 faq-question-unsubscribe-domain-question-2 = Ç’ndodh me nënpërkatësitë e mia vetjake, nëse shpajtohem prej { -brand-name-relay-premium }?
+faq-question-unsubscribe-domain-answer-2 = Nëse zbrisni një shkallë më poshtë se { -brand-name-relay-premium }, do të merrni prapë email-e të përcjellë përmes maskave tuaja vetjake email, por s’do të jeni më në gjendje të krijoni maska të reja duke përdorur atë nënpërkatësi. Nëse keni më shumë se pesë maska gjithsej, s’do të jeni në gjendje të krijoni tjetër. Do të humbni gjithashtu aftësinë për t’iu përgjigjur mesazheve të përcjellë. Mund të ripajtoheni te { -brand-name-relay-premium } dhe të rifitoni përdorimin e këtyre veçorive.
 faq-question-8-question = Ç’të dhëna mbledh { -brand-name-firefox-relay }?
+# Variables:
+#   $url (url) - https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-8-answer-3-html = { -brand-name-firefox-relay } grumbullon sajtet ku keni përdorur maskat tuaja email dhe u vë etiketa maskave tuaja me këto sajte, që të mund t’i identifikoni lehtësisht. Mund të zgjidhni lënien jashtë prej kësaj  nga faqja e Rregullimeve tuaja, nën pjesën Privatësi. Por, ju lutemi, mbani parasysh se, çaktivizimi i këtij rregullimi do të thotë se s’do të jeni në gjendje të shihni ku përdorët secilën maskë dhe emrat e llogarive tuaj s’do të njëkohësohen më mes pajisjeve. Më tepër rreth të dhënave që grumbullon { -brand-name-firefox-relay } mund të mësoni te <a href="{ $url }" { $attrs }>Shënimi ynë mbi Privatësinë</a>.
+faq-question-email-storage-question = A i depoziton email-et e mia { -brand-name-relay }?
+faq-question-email-storage-answer = Në rastin e rrallë kur shërbimi të dalë jashtë funksionimi, mund të depozitojmë përkohësisht email-et tuaj, deri sa të jemi në gjendje t’i dërgojmë. S’do të depozitojmë kurrë email-e tuajt për më gjatë se 3 ditë.
+faq-question-acceptable-use-question = Cilat janë përdorimet e pranueshme të { -brand-name-relay }?
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Ju lutemi, për më tepër informacion, shqyrtoni <a href="{ $url }" { $attrs }>Kushtet tona të Shërbimit</a>.
