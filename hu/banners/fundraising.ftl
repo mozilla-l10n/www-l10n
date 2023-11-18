@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Segítsen a { -brand-name-mozilla(ending: "accented") }nak a jobb internetért vívott harcában az ünnepi időszakban.
-banner-fundraising-title-giving-day = Segítsen a { -brand-name-mozilla(ending: "accented") }nak a jobb internetért vívott harcában a Giving Tuesday alkalmával.
-# Outdated string
-banner-fundraising-title = A jövő online dől el. Segítsen a { -brand-name-mozilla(ending: "accented") }nak harcolni a mindenki számára jobb webért.
-banner-fundraising-body-v2 = Büszkén nonprofit szervezet vagyunk, és azon dolgozunk, hogy az internet egészséges maradjon. Hozzájárulásai segítenek a biztonságos és nyílt internet kialakításában.
-# Outdated string
-banner-fundraising-body = A személyes adatainkat minden egyes alkalommal gyűjtik, amikor elérjük a webet, és nem könnyű kideríteni, hogy mi történik velük. A félrevezető információk nehezebbé teszik az igazság kiderítését. A webre csatlakozó eszközöket úgy dobják piacra, hogy a minimális biztonsági szabványokat sem tartják be. A nonprofit { -brand-name-mozilla-foundation } azért harcol, hogy az internet biztonságos, nyílt és mindenki számára elérhető legyen. <strong>Adományoz még ma?</strong>
-banner-fundraising-body-extra = Tud ma adományozni?
-banner-fundraising-monthly = Havi
-banner-fundraising-one-time = Egyszeri
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Adományozzon a { -brand-name-mozilla } számára az Adományozó keddhez
+banner-fundraising-giving-tuesday-tagline = Ideje visszaszerezni az internetet a nagy technológiáktól. Tud a { -brand-name-mozilla } részére adományozni a Giving Tuesday kampányhoz?
+banner-fundraising-title-1 = Adományozzon a { -brand-name-mozilla } részére. Szerezze vissza az internetet.
+banner-fundraising-tagline-1 = Ideje visszavenni az internetet a nagy technológiai cégektől. Tud a { -brand-name-mozilla }nek adományozni?
+banner-fundraising-title-2 = Szerezze vissza az internet irányítását.
+banner-fundraising-tagline-2 = Az interneten már nem az emberek kezében van az irányítás. A nagy technológia. Adományozzon a { -brand-name-mozilla } részére, és szerezze vissza az internetet.
+banner-fundraising-title-3 = Tud a { -brand-name-mozilla }nek adományozni?
+banner-fundraising-tagline-3 = A { -brand-name-mozilla } mindig az embereket helyezi a profit elé. Adományozzon a { -brand-name-mozilla } számára, és segítsen az internet egészséges fenntartásában.
 banner-fundraising-donate = Adományozás
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } $
