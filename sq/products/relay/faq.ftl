@@ -65,6 +65,14 @@ faq-question-8-answer-3-html = { -brand-name-firefox-relay } grumbullon sajtet k
 faq-question-email-storage-question = A i depoziton email-et e mia { -brand-name-relay }?
 faq-question-email-storage-answer = Në rastin e rrallë kur shërbimi të dalë jashtë funksionimi, mund të depozitojmë përkohësisht email-et tuaj, deri sa të jemi në gjendje t’i dërgojmë. S’do të depozitojmë kurrë email-e tuajt për më gjatë se 3 ditë.
 faq-question-acceptable-use-question = Cilat janë përdorimet e pranueshme të { -brand-name-relay }?
+#   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } ka të njëjtat kushte <a href="{ $url }" { $attrs }>kushte përdorim si krejt produktet { -brand-name-mozilla }</a>. Kemi një rregull “zero tolerancë”, kur vjen puna për përdorimin e { -brand-name-relay } për qëllime dashakeqe, b.f., dërgim mesazhesh të padëshiruar, që sjell përfundimin e llogarisë së një përdoruesi. Marrim masa për t’u penguar përdoruesve shkeljen e kushteve tona duke:
+faq-question-acceptable-use-answer-measure-account-v2 = Kërkuar doemos një llogari { -brand-name-mozilla-account } me një adresë email të verifikuar
+# Obsolete string
+faq-question-acceptable-use-answer-measure-account = Kërkuar doemos një llogari { -brand-name-firefox-account } me një adresë email të verifikuar
+faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Duke kërkuar pagesë nga një përdorues, për të krijuar më tepër se pesë maska
+faq-question-acceptable-use-answer-measure-rate-limit-2 = Duke kufizuar numrin e maskave që mund të prodhohen në një ditë
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Ju lutemi, për më tepër informacion, shqyrtoni <a href="{ $url }" { $attrs }>Kushtet tona të Shërbimit</a>.
@@ -95,6 +103,12 @@ phone-masking-faq-answer-forwarded-texts = Mund të përcillen vetëm tekste SMS
 phone-masking-faq-question-pictures = A mund të dërgoj apo marr foto përmes teksti?
 phone-masking-faq-answer-pictures = Jo, mund të përcillen, apo dërgohen si përgjigje, vetëm mesazhe tekst SMS.
 phone-masking-faq-question-historical = A mund t’u përgjigjem mesazheve tekst?
+phone-masking-faq-answer-historical = Aktualisht s’mund t’u përgjigjeni teksteve që keni marrë më herët, por kjo veçori është duke u zhvilluar.
+phone-masking-faq-question-can-i-send = A mund të dërgoj tekst pa iu përgjigjur një të tili?
+phone-masking-faq-answer-can-i-send = Jo, s’mund të dërgoni tekst që s’janë përgjigje për diçka. Mundeni vetëm t’u përgjigjeni teksteve të përcjellë.
+phone-masking-faq-question-limit = A ka kufi se sa mesazhe tekst marr?
+phone-masking-faq-answer-limit = Mund të merrni dhe t’u përgjigjeni deri në 75 mesazheve gjithsej në muaj. Çfarëdo teksti shtesë dërguar te maska e numrit tuaj të telefonit s’do të përcillet te numri juaj i njëmendtë. Çfarëdo përgjigje më tepër s’do të dërgohet. Muaji përfundon në datën e faturimit tuaj, jo në datën e përfundimit sipas kalendarit. Pasi të ketë kaluar një muaj faturimi, do të zini të merrni sërish tekste.
+phone-masking-faq-question-call-length = Sa gjatë mund të flas kur marr një thirrje?
 phone-masking-faq-question-can-i-call = A mund t’i telefonoj dikujt me maskën e telefonit tim?
 phone-masking-faq-answer-can-i-call = Jo, vetëm mund t’i përgjigjeni një thirrjeje të përcjellë.
 phone-masking-faq-question-can-i-see = A mund të shoh cilët telefonuan, apo dërguan tekst?
