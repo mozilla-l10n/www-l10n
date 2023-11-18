@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = Vilka enheter är kompatibla me
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } är kompatibel med <a href="{ $mobile }">mobil</a>, surfplatta och <a href="{ $desktop }">dator</a> på:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } är kompatibel med:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (endast 64-bitars)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (endast 64-bitars)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 och senare)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } och uppåt)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a>(10.15 och senare)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 och senare)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (version 8 och senare)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a>(version 6 och senare)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (version 6 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } och senare)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 och senare)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 och senare)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 och senare)
 vpn-landing-faq-refund-question-heading = Vad är { -brand-name-mozilla-vpn }:s återbetalningspolicy?
 vpn-landing-faq-refund-question-desc-v2 = Första gången du prenumererar på { -brand-name-mozilla-vpn }via { -brand-name-mozilla }s webbplats, om du avslutar ditt konto inom de första 30 dagarna, kan du begära en återbetalning och { -brand-name-mozilla } kommer att återbetala din första prenumerationsperiod.
 vpn-landing-faq-refund-question-additional-desc = Om du köper din prenumeration via köp i appen från { -brand-name-apple } { -brand-name-app-store } eller { -brand-name-google-play } Butik, är din betalning föremål för villkoren för { -brand-name-app-store }. Du måste skicka alla fakturerings- och återbetalningsförfrågningar för sådana köp till { -brand-name-apple } eller { -brand-name-google }, beroende på vad som passar.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Du kan få tillbaka dina pengar inom 30 dagar efter att du har köpt din prenumeration. Kontakta oss och skicka återbetalningsförfrågan genom att trycka på knappen "Få hjälp" i Inställningar på din { -brand-name-mozilla-vpn }-app.
 vpn-landing-faq-manage-subscription-question-heading = Hur hanterar jag min prenumeration?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Se fler vanliga frågor
 
 vpn-landing-invite-page-title = Ställ dig i väntelistan: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Få ett meddelande när { -brand-name-mozilla-vpn } är tillgängligt för din region.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Få ett meddelande när { -brand-name-mozilla-vpn } är tillgänglig för din enhet och region.
 vpn-landing-invite-page-heading = Ställ dig i väntelistan för VPN
 vpn-landing-invite-email-label = Vad är din e-postadress?
