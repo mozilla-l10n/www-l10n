@@ -14,6 +14,7 @@ whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
 
+whatsnew-update-notification = { -brand-name-firefox } が更新されました。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/

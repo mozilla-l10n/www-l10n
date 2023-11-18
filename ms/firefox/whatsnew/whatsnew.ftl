@@ -14,6 +14,7 @@ whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
 
+whatsnew-update-notification = { -brand-name-firefox } anda telah dinaikkan taraf.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
