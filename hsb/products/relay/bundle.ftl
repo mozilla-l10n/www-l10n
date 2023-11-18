@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/relay/
 
+bundle-banner-plan-header-2 = Waš jednolětny plan wobsahuje:
 bundle-banner-plan-modules-email-masking = E-mejlowe maskowanje
 bundle-banner-plan-modules-phone-masking = Telefonowe maskowanje
 bundle-banner-plan-modules-mozilla-vpn = { -brand-name-mozilla-vpn }

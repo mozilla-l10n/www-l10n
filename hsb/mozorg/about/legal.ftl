@@ -37,3 +37,4 @@ legal-mdn-plus-terms = Słužbne wuměnjenja { -brand-name-mdn-plus }
 legal-report-copyright = Zranjenje awtorskeho prawa abo wikowanskeho znamjenja zdźělić
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Słužbne wuměnjenja { -brand-name-mozilla-hubs }
+legal-mozilla-subscription-services = Abonementowe słužby { -brand-name-mozilla }

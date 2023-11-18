@@ -12,6 +12,7 @@ firefox-home-the-browser-is-just = Wobhladowak je hakle započatk
 firefox-home-firefox-is-just = { -brand-name-firefox } je jenož spočatk.
 # Obsolete string
 firefox-home-meet-our-family-of = Zeznajće so z našej produktowej swójbu
+firefox-home-meet-mozillas-family = Zeznajće so ze swójbu produktow { -brand-name-mozilla }
 firefox-home-get-trackers-off = Blokujće wjace hač 2000 pčesćěhowakow - inkluziwnje { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Zhońće, hdy hackerojo nadpaduja - a budźće přeco kročel před nimi
 firefox-home-start-getting-breach = Dóstańće rozprawy wo datowych dźěrach

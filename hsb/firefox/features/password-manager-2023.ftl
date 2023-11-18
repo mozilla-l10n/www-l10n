@@ -12,4 +12,5 @@ password-manager-firefox-password-manager-saves-all = Zrjadowak hesłow { -brand
 password-manager-import-passwords = Hesła importować
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importoweho asistenta { -brand-name-firefox }, kotryž nastajenja za importowanje nastajenjow a datow z druhich wobhladowakow pokazuje.
+password-manager-no-more-reusing-your-passwords = Ženje wjac wjacekróćne wužiwanje wašich hesłow
 password-manager-password-security-alerts = Warnowanja wo wěstoće hesłow

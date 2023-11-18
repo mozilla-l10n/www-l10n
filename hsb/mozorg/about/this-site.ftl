@@ -14,6 +14,7 @@ about-this-site-contribute-to-code = Ke kodowej bazy přinošować
 about-this-site-contribute-to-l10n = K přełožkam přinošować
 about-this-site-read-the-docs = Dokumentaciju čitać
 about-this-site-colophon = Kolofon
+about-this-site-some-open-source-projects = Někotre projekty wotewrjeneho žórła, kotrež su so za wutworjenje tutoho sydła wužili:
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/

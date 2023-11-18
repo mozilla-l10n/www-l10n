@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Žane konto trěbne. Ale chceće snano tajke.
+whatsnew-account-main-lead-in-v2 = Wobhladowak { -brand-name-firefox } tak mało datow wo was hromadźi, njetrjebamy ani wašu e-mejlowu adresu. Ale, hdyž ju wužiwaće, zo byšće konto { -brand-name-mozilla-account } załožił, dóstanjeće přistup k cyłej hromadźe priwatnosć škitacych produktow přidatnje k { -brand-name-firefox }.
 whatsnew-account-mozilla-cta = Wobstarajće sej { -brand-name-mozilla-account }
 
 ##

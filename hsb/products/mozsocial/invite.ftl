@@ -13,4 +13,8 @@ mozsocial-invite-first-name-label = Předmjeno
 mozsocial-invite-last-name-label = Swójbne mjeno
 mozsocial-invite-your-email-address-label = Waša e-mejlowa adresa
 mozsocial-invite-country-label = Kraj
+# "Handle" is jargon for a user name.
+mozsocial-invite-twitter-handle-label = Mjeno Twitter?
+# Mastodon is a brand name. "Handle" is jargon for a user name.
+mozsocial-invite-mastodon-handle-label = Mjeno Mastodon?
 mozsocial-invite-thanks-youre-on-the-list = Wulki dźak! Sće na lisćinje

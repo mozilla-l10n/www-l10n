@@ -7,9 +7,14 @@
 
 home-internet-for-people-not-profit = Internet za ludźi, powšitkownosći wužitny
 home-did-you-know-mozilla-the-maker = Sće hižo wědźał? { -brand-name-mozilla } - zhotowjer { -brand-name-firefox } - wojuje, zo by internet globalna zjawna resursa wostał, wotewrjeny a přistupny za wšěch.
+# Quotes around string to represent it being a quote by Mitchell Baker
+home-the-health-of = „Strowosć interneta a žiwjenje online je přičina, čehoždla eksistujemy.“
+home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
+home-mozilla-makes-privacy = { -brand-name-mozilla } produkty wutworja, kotrež priwatnosć škitaja
 home-product-firefox-browsing = Priwatne a wěste přehladowanje
 home-cta-get-firefox = Wobstarajće sej { -brand-name-firefox }
 home-cta-get-pocket = { -brand-name-pocket } wobstarać
+home-product-relay-masks = Lochke wužiwanje e-mejlowych a telefonowych maskow
 home-cta-get-relay = { -brand-name-relay } wobstarać
 home-product-vpn-trust = VPN, kotremuž móžeće dowěrić
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstarać
