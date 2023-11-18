@@ -47,3 +47,4 @@ phone-masking-faq-question-limit = Je limit, kelko tekstowych powěsćow dóstan
 phone-masking-faq-question-call-length = Kak dołho móžu rěčeć, hdyž zazwonjenje dóstanu?
 phone-masking-faq-question-can-i-call = Móžu někoho ze swojej telefonowej masku zazwonić?
 phone-masking-faq-question-can-i-block = Móžu zazwonjenje abo tekst blokować?
+phone-masking-faq-question-how-i-save-card = Kak móžu kontaktowu kartu { -brand-name-relay } składować?
