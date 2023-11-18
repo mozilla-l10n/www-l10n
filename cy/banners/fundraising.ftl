@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Helpwch { -brand-name-mozilla } i frwydro am well rhyngrwyd y tymor gwyliau hwn.
-banner-fundraising-title-giving-day = Helpwch { -brand-name-mozilla } i frwydro am well rhyngrwyd y Givng Tuesday hwn.
-# Outdated string
-banner-fundraising-title = Mae'r dyfodol yn cael ei benderfynu ar-lein. Helpwch { -brand-name-mozilla } i frwydro am we i bob un ohonom.
-banner-fundraising-body-v2 = Rydym yn falch o fod yn ddim-er-elw, yn gweithio i gadw'r we yn iach. Mae eich cyfraniadau yn helpu i adeiladu rhyngrwyd diogel ac agored.
-# Outdated string
-banner-fundraising-body = Mae ein data personol yn cael ei gasglu bob tro y byddwn yn mynd ar y we, ac nid yw'n hawdd darganfod beth sy'n digwydd iddo. Mae camwybodaeth yn ei gwneud hi'n anoddach i ni ddod o hyd i'r gwir. Mae dyfeisiau sy'n gysylltiedig â'r we yn cael eu ryddhau i'r farchnad heb gyrraedd y safonau diogelwch gofynnol. Mae'r { -brand-name-mozilla-foundation } di-elw yn brwydro i wneud y rhyngrwyd yn ddiogel, yn agored ac yn hygyrch i bawb. <strong> A wnewch chi gyfrannu heddiw? </strong>
-banner-fundraising-body-extra = A wnewch chi roi rhodd heddiw?
-banner-fundraising-monthly = Misol
-banner-fundraising-one-time = Unwaith yn Unig
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Cyfrannwch i { -brand-name-mozilla } ar gyfer Dydd Mawrth y Rhoi
+banner-fundraising-giving-tuesday-tagline = Mae'n bryd adennill y rhyngrwyd o dechnoleg fawr. Allwch chi gyfrannu at { -brand-name-mozilla } ar gyfer Dydd Mawrth Rhoi?
+banner-fundraising-title-1 = Cyfrannwch i { -brand-name-mozilla }. Adennill y rhyngrwyd.
+banner-fundraising-tagline-1 = Mae'n bryd cymryd y rhyngrwyd yn ôl o dechnoleg fawr. Allwch chi gyfrannu i { -brand-name-mozilla }?
+banner-fundraising-title-2 = Cymryd rheolaeth o'r rhyngrwyd yn ôl.
+banner-fundraising-tagline-2 = Nid yw pobl bellach yn rheoli ar-lein. Mae technoleg fawr. Cyfrannwch i { -brand-name-mozilla } ac adennill y rhyngrwyd.
+banner-fundraising-title-3 = Allwch chi gyfrannu i { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = Mae { -brand-name-mozilla } bob amser yn rhoi pobl dros elw. Cyfrannwch i { -brand-name-mozilla } a helpu i gadw'r rhyngrwyd yn iach.
 banner-fundraising-donate = Rhoi Rhodd
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = £{ $amount }
