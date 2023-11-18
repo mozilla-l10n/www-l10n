@@ -19,3 +19,12 @@ vpn-features-more-than =
         [one] Hetave { $servers }+ apopyvusu { $countries }+ tetãme
        *[other] Hetave { $servers }+ apopyvusu { $countries }+ tetãnguérape
     }
+vpn-features-see-our-list = Ehecha ore apopyvusu rysýi.
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Eiporu { $devices } mba’e’oka peve
+       *[other] Eiporu { $devices } mba’e’okakuéra peve
+    }
+vpn-features-supported-platforms = Ojeporukuaa Windows, macOS, Android, iOS ha Linux apopyvusúpe.
