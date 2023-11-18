@@ -18,5 +18,14 @@ vpn-pricing-connect-up-to =
         [one] Eiporu { $devices } mba’e’oka peve
        *[other] Eiporu { $devices } mba’e’okakuéra peve
     }
+vpn-pricing-annual = Arygua
+vpn-pricing-monthly = Jasygua
+vpn-pricing-get-annual-subscription = Eñemboheraguapy aryguávape
+vpn-pricing-get-monthly-subscription = Eñemboheraguapy jasyguápe
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ndereiporukuaamo’ãi gueteri ne retãme
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = FAQs
+vpn-pricing-refund-policy = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia porureko?
+vpn-pricing-the-first-time-you = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
 vpn-pricing-what-information = ¿Mba’e marandu oñongatu { -brand-name-mozilla-vpn }?
 vpn-pricing-how-do-i-manage = Mba’éichapa añangarekóta che mboheraguapy ha amoambuéta

@@ -13,3 +13,4 @@ vpn-landing-see-all-features = Ehechapaite tembiapoite
 vpn-landing-fram-a-brand-you-can-trust = Ere peteĩ márka ejeroviakuaaha
 vpn-landing-one-subscription-for-all-your = Ñemboheraguapy opaite ne mba’e’okápe
 vpn-landing-what-is-an-ip-address = Mba’épa IP kundaharape
+vpn-landing-see-more-resources = Ehechave mba’eita
