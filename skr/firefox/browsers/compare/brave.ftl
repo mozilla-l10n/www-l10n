@@ -45,6 +45,14 @@ compare-brave-the-ability-to-sync-your-passwords = تہاݙے تمام آلات 
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
 #   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
 #   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } براؤزر صارفین کوں مفت <a{ $accounts }> { -brand-name-mozilla-account } </a> کیتے سائن اپ کرݨ دی صلاحیت وی ݙیندا ہے۔ { -brand-name-firefox } اکاؤنٹ دا ہووݨ تمام آلات تے مطابقت پذیری کوں غیر مقفل کرݨ دی کلید ہے، نال تہاکوں  <a { $monitor }> { -brand-name-mozilla-monitor }  </a> جیہاں بݨتراں دا اضافی فائدہ ملدا ہے۔ جیڑھا تہاݙے ای میل پتیاں دی نگرانی کریندا ہے تے جے تہاݙی کوئی وی معلومات کہیں معلوم <a { $breaches } > ڈیٹا دیاں خلاف ورزیاں </a> وِچ ملوث ہے تاں تہاکوں الرٹ کریندا ہے۔
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
+#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } براؤزر صارفین کوں مفت <a{ $accounts }> { -brand-name-mozilla-account } </a> کیتے سائن اپ کرݨ دی صلاحیت وی ݙیندا ہے۔ { -brand-name-firefox } اکاؤنٹ دا ہووݨ تمام آلات تے مطابقت پذیری کوں غیر مقفل کرݨ دی کلید ہے، نال تہاکوں  <a { $monitor }> { -brand-name-firefox-monitor } </a> جیہاں بݨتراں دا اضافی فائدہ ملدا ہے۔ جیڑھا تہاݙے ای میل پتیاں دی نگرانی کریندا ہے تے جے تہاݙی کوئی وی معلومات کہیں معلوم <a { $breaches } > ڈیٹا دیاں خلاف ورزیاں </a> وِچ ملوث ہے تاں تہاکوں الرٹ کریندا ہے۔
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } براؤزر صارفین کوں مفت <a{ $accounts }> { -brand-name-firefox-account } </a> کیتے سائن اپ کرݨ دی صلاحیت وی ݙیندا ہے۔ { -brand-name-firefox } اکاؤنٹ دا ہووݨ تمام آلات تے مطابقت پذیری کوں غیر مقفل کرݨ دی کلید ہے، نال تہاکوں  <a { $monitor }> { -brand-name-firefox-monitor } </a> جیہاں بݨتراں دا اضافی فائدہ ملدا ہے۔ جیڑھا تہاݙے ای میل پتیاں دی نگرانی کریندا ہے تے جے تہاݙی کوئی وی معلومات کہیں معلوم <a { $breaches } > ڈیٹا دیاں خلاف ورزیاں </a> وِچ ملوث ہے تاں تہاکوں الرٹ کریندا ہے۔
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } وی حالیہ سبھ توں زیادہ مشہور آپریٹنگ سسٹمز تے آلات وِچ ڈیٹا دی مطابقت پذیری دے نال نال تہاݙے بنیادی توجہ دے ٹوکن کوں مطابقت پذیر کرݨ دی اضافی صلاحٰت وی حاصل کیتی ہے۔

@@ -15,6 +15,8 @@ firefox-accounts-sign-in = سائن ان
 # Obsolete string
 firefox-accounts-already = تہاݙا { -brand-name-firefox-account } پہلے ہی ہے پیا۔ مبارکاں!
 firefox-accounts-manage = آپݨاں کھاتہ منیج کرو
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = آپݨے { -brand-name-mozilla-account } نال انہاں وچ سائن ان تھیوو:
 # Obsolete string
 firefox-accounts-sign-in-to = آپݨے { -brand-name-firefox-account } نال انہاں وچ سائن ان تھیوو:
 # Obsolete string
