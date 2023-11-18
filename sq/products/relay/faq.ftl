@@ -77,6 +77,7 @@ faq-question-acceptable-use-answer-measure-rate-limit-2 = Duke kufizuar numrin e
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Ju lutemi, për më tepër informacion, shqyrtoni <a href="{ $url }" { $attrs }>Kushtet tona të Shërbimit</a>.
 faq-question-promotional-email-blocking-question = Ç’është bllokimi i email-ve promocionalë?
+faq-question-promotional-email-blocking-answer = Pajtimtarët e { -brand-name-relay-premium } mund të aktivizojnë bllokim email-esh promocionalë. Kjo veçori do t’ju përcjellë email-e të rëndësishëm, f.v., fatura, ricaktime dhe ripohime fjalëkalimesh, teksa bllokon mesazhe marketingu. Ka një rrezik sado të vogël që një mesazh i rëndësishëm prapë të bllokohet, ndaj rekomandojmë të mos e përdorni këtë veçori për vende shumë të rëndësishme, bie fjala, banka juaj. Nëse një email bllokohet, s’mund të shpëtohet.
 faq-question-detect-promotional-question = Si e pikas { -brand-name-relay }-ja nëse një email është promocional apo jo?
 faq-question-detect-promotional-answer = Mjaft email-e dërgohen me tejtëdhëna “header”, për të treguar se janë prej mjetesh të automatizuara të bazuar në lista postimesh. { -brand-name-firefox-relay } i pikas këto të dhëna kryesh, që të mund t’i bllokojë këta email-e.
 faq-question-disable-trackerremoval-question = A mund ta ndal heqjen e gjurmuesve email?
@@ -109,6 +110,7 @@ phone-masking-faq-answer-can-i-send = Jo, s’mund të dërgoni tekst që s’ja
 phone-masking-faq-question-limit = A ka kufi se sa mesazhe tekst marr?
 phone-masking-faq-answer-limit = Mund të merrni dhe t’u përgjigjeni deri në 75 mesazheve gjithsej në muaj. Çfarëdo teksti shtesë dërguar te maska e numrit tuaj të telefonit s’do të përcillet te numri juaj i njëmendtë. Çfarëdo përgjigje më tepër s’do të dërgohet. Muaji përfundon në datën e faturimit tuaj, jo në datën e përfundimit sipas kalendarit. Pasi të ketë kaluar një muaj faturimi, do të zini të merrni sërish tekste.
 phone-masking-faq-question-call-length = Sa gjatë mund të flas kur marr një thirrje?
+phone-masking-faq-answer-call-length = Keni 50 minuta për të folur çdo muaj. Pasi t’i keni plotësuar këto minuta, s’do të jeni në gjendje të merrni përcjellje thirrjesh për ju, deri në muajin tjetër të ciklit tuaj të faturimit.
 phone-masking-faq-question-can-i-call = A mund t’i telefonoj dikujt me maskën e telefonit tim?
 phone-masking-faq-answer-can-i-call = Jo, vetëm mund t’i përgjigjeni një thirrjeje të përcjellë.
 phone-masking-faq-question-can-i-see = A mund të shoh cilët telefonuan, apo dërguan tekst?
