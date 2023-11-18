@@ -42,6 +42,7 @@ faq-question-availability-question = Ku mund të kihet { -brand-name-relay }?
 faq-question-availability-answer-v3 = { -brand-name-relay } falas mund të kihet në shumicën e vendeve. { -brand-name-relay-premium } mund të kihet në Austri, Belgjikë, Kanada, Qipro, Estoni, Finlandë, Francë, Gjermani, Greqi, Irlandë, Itali, Letoni, Lituani, Luksemburg, Malajzi, Maltë, Holandë, Zelandë të Re, Portugali, Singapor, Sllovaki, Slloveni, Spanjë, Suedi, Zvicër, Mbretëri të Bashkuar dhe Shtete të Bashkuara.
 faq-question-landing-page-availability = { -brand-name-relay } falas mund të kihet në shumicën e vendeve. Maskim { -brand-name-relay-premium } email-esh mund të kihet në Shtete të Bashkuara, Gjermani, Mbretëri të Bashkuar, Kanada, Singapor, Malajzi, Zelandë të Re, Francë, Belgjikë, Austri, Spanjë, Itali, Zvicër, Holandë dhe Irlandë. Maskim { -brand-name-relay-premium } telefonash mund të kihet vetëm në ShBA dhe Kanada.
 faq-question-4-question-2 = A mund t’u përgjigjem mesazheve duke përdorur maskën time { -brand-name-relay } të email-it?
+faq-question-4-answer-v4 = Përdoruesit e { -brand-name-relay-premium } mund t’i përgjigjen një email- të përcjellë deri brenda 3 muajsh nga marrja e email-it. Nëse shtoni një CC ose BCC, kur i përgjigjeni një email-i, adresa juaj origjinale email do t’i ekspozohet marrësit dhe atyre të kopjuarve te email-i. Nëse s’doni të ekspozohet adresa juaj origjinale email, mos shtoni marrës CC apo BCC, kur përgjigjeni.
 faq-question-subdomain-characters-question = Ç’shenja mund të përdor për të krijuar një nënpërkatësi?
 faq-question-subdomain-characters-answer-v2 = Për të krijuar një nënpërkatësi, mund të përdorni vetëm shkronja të vogla të anglishtes, numra dhe vija ndarëse në mes.
 faq-question-browser-support-question = A mund ta përdor { -brand-name-relay } në shfletues tjetër, apo në pajisjen time celulare?
@@ -54,6 +55,7 @@ faq-question-attachments-question = A do të përcjellë { -brand-name-firefox-r
 # Variables:
 #  $size (number): maximum size for attachments in MB
 faq-question-attachments-answer-v2 = Tanimë mbulojmë përcjellje bashkëngjitjesh. Por, ka një kufi { $size } MB për përcjellje email-esh, kur përdoret { -brand-name-relay }. Çfarëdo email-sh më të mëdhenj se { $size } MB, s’do të përcillen.
+faq-question-unsubscribe-domain-question-2 = Ç’ndodh me nënpërkatësitë e mia vetjake, nëse shpajtohem prej { -brand-name-relay-premium }?
 faq-question-8-question = Ç’të dhëna mbledh { -brand-name-firefox-relay }?
 #   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
 #   $attrs (string) - specific attributes added to external links
@@ -97,3 +99,11 @@ phone-masking-faq-question-disable-logging = A mund të çaktivizoj regjistrimin
 phone-masking-faq-answer-disable-logging = Po, mund të çaktivizoni regjistrimin e numrave, që nga pulti i { -brand-name-relay }. Por, s’do të jeni më në gjendje t’u përgjigjeni mesazheve tekst, apo të bllokoni numra të dhënë, ngaqë regjistri është mënyra se si jemi në gjendje të ndjekim cili ju dërgoi një mesazh tekst.
 phone-masking-faq-question-can-i-share = A mund ta jap numrin që më përcjell mesazhe tekst?
 phone-masking-faq-answer-can-i-share = Nëse e jepni këtë numër, s’do të ndodhë gjë — ky numër s’është maska e numrit tuaj të telefonit. Është thjesht numri i kontaktit prej të cilit { -brand-name-relay } do të përcjellë mesazhet tekst dhe thirrjet për ju.
+phone-masking-faq-question-how-i-save-card = Si ta ruaj kartën e kontaktit { -brand-name-relay }?
+phone-masking-faq-answer-how-i-save-card = Pasi ta përmirësoni me maskim { -brand-name-relay } numrash telefonash, do t’ju dërgojmë një tekst me një kartë kontakti, që përmban numrin prej të cilit do të merrni thirrjet dhe mesazhet e përcjellë, i ngjashëm me çfarëdo karte kontakti që depoziton numrin e telefonit të personave që lidhen me ju. Në shumicën e pajisjeve, mund ta përzgjidhni atë kartë kontakti dhe ta ruani, si këdo kartë tjetër në telefonin tuaj.
+phone-masking-faq-question-install-app = A më duhet të instaloj ndonjë aplikacion, që të përdor maksim { -brand-name-relay } telefoni?
+phone-masking-faq-answer-install-app = Jo, maskimi { -brand-name-relay } i telefonit funksionon duke përdorur aplikacionet standarde të pajisjes tuaj për dërgim tekstesh dhe për thirrje telefonike.
+phone-masking-faq-question-data = Ç’lloj të dhënash depoziton maskimi { -brand-name-relay } i telefonit?
+#   $url (url) - link to Firefox Relay's Privacy Policy, i.e. https://www.mozilla.org/privacy/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+phone-masking-faq-answer-data = Ju lutemi, shihni <a href="{ $url }" { $attrs }>{ -brand-name-firefox-relay } Rregullat e Privatësisë</a>.
