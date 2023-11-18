@@ -28,6 +28,8 @@ vpn-features-connect-up-to =
        *[other] Anslut upp till { $devices } enheter
     }
 vpn-features-supported-platforms = Stöds på Windows, macOS, Android, iOS och Linux operativsystem.
+vpn-features-no-bandwidth = Inga bandbreddsbegränsningar eller strypning
+vpn-features-including-no-data = Inklusive inget datatak eller hastighetsbegränsning.
 vpn-features-fast-network = Snabba nätverkshastigheter även när du spelar
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
