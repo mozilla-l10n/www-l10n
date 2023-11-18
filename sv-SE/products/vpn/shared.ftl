@@ -170,5 +170,5 @@ vpn-press-as-seen-in = Som setts i
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = "VPN för { -brand-name-mozilla } kan också <a { $attrs }>integreras i några fiffiga integritetsskyddsfunktioner</a> i sin webbläsare { -brand-name-firefox }."
-vpn-press-unique-features-like-its-multi-account = "“…unika funktioner, som dess behållare för flera konton, kan göra funktionen lättillgänglig för användare med allvarligare integritetsproblem."
+vpn-press-unique-features-like-its-multi-account = "“…unika funktioner, som dess Multi-Account Containers, kan göra funktionen lättillgänglig för användare med allvarligare integritetsproblem."
 vpn-press-mozilla-vpns-feature-list-has-grown = "{ -brand-name-mozilla-vpn }:s funktionslista har växt avsevärt sedan lanseringen och tjänsten slår nu många specialiserade VPN:er i vissa områden."
