@@ -48,7 +48,7 @@ vpn-shared-features-full-list-servers = Eporandu ore rysýi tuichakue <a href="{
 vpn-shared-features-strong-servers = Mohendahavusu mbarete { $countries }+ tetãnguérape
 # Variables:
 #   $devices (number) - number of available devices
-vpn-shared-features-connect = Eike { $devices } mba’e’okuérape peve
+vpn-shared-features-connect = Eike { $devices } mba’e’okakuéra peve
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 vpn-shared-refund-policy = Myengovia Porureko
