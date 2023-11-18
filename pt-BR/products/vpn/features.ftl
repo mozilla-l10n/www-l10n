@@ -28,3 +28,10 @@ vpn-features-connect-up-to =
        *[other] Conecte até { $devices } dispositivos
     }
 vpn-features-supported-platforms = Compatível com sistemas operacionais Windows, macOS, Android, iOS e Linux.
+vpn-features-no-bandwidth = Sem restrições ou limitação de largura de banda
+vpn-features-secure = Seguro
+vpn-features-flexible = Flexível
+vpn-features-trustworthy = Confiável
+vpn-features-money-back = Garantia de devolução do dinheiro por 30 dias
+vpn-features-plus-customer-support = Além de suporte ao cliente 24 horas por dia, 7 dias por semana.
+vpn-features-we-never-log = Nunca registramos nem rastreamos ou compartilhamos seus dados de rede
