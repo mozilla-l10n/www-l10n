@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Pomozte { -brand-name-mozilla(case: "dat") } o letošních prázdninách bojovat za lepší internet.
-banner-fundraising-title-giving-day = Pomozte o tomto Štědrém úterý { -brand-name-mozilla(case: "dat") } bojovat za lepší internet.
-# Outdated string
-banner-fundraising-title = O budoucnosti se rozhoduje online. Pomozte { -brand-name-mozilla(case: "dat") } bojovat za web pro nás všechny.
-banner-fundraising-body-v2 = Jsme hrdí na to, že jsme nezisková organizace, která se snaží udržet web zdravý. Vaše příspěvky pomáhají budovat bezpečný a otevřený internet.
-# Outdated string
-banner-fundraising-body = Naše osobní údaje se shromažďují pokaždé, když přistupujeme na web, a není snadné zjistit, co se s nimi stane. Dezinformace nám ztěžují hledání pravdy. Zařízení připojená k webu jsou tlačena na trh bez splnění minimálních bezpečnostních standardů. Nezisková organizace { -brand-name-mozilla-foundation } bojuje za to, aby byl internet bezpečný, otevřený a přístupný všem. <strong> Darujete dnes? </strong>
-banner-fundraising-body-extra = Můžete darovat ještě dnes?
-banner-fundraising-monthly = Měsíčně
-banner-fundraising-one-time = Jednorázově
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Přispějte { -brand-name-mozilla(case: "dat") } na Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Je čas získat zpět internet od velkých technologií. Můžete poslat dar { -brand-name-mozilla(case: "dat") } na Giving Tuesday?
+banner-fundraising-title-1 = Přispějte { -brand-name-mozilla(case: "dat") }. Získejte zpět internet.
+banner-fundraising-tagline-1 = Je čas vzít internet zpět velkým technologiím. Můžete poslat dar pro { -brand-name-mozilla(case: "acc") }?
+banner-fundraising-title-2 = Získejte zpět kontrolu nad internetem.
+banner-fundraising-tagline-2 = Lidé už nemají online kontrolu. Velké technologie. Přispějte { -brand-name-mozilla(case: "dat") } a získejte zpět internet.
+banner-fundraising-title-3 = Můžete poslat dar pro { -brand-name-mozilla(case: "acc") }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } vždy dává přednost lidem před ziskem. Přispějte pro { -brand-name-mozilla(case: "acc") } a pomozte nám udržet zdravý internet.
 banner-fundraising-donate = Darovat
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } Kč
