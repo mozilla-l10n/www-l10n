@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
-vpn-pricing-page-title = Precios: { -brand-name-mozilla-vpn }
+vpn-pricing-page-title = Precios - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Una suscripción para todos tus dispositivos
@@ -23,14 +23,14 @@ vpn-pricing-connect-up-to =
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] Acceder al { $servers } en más de { $countries } países
-       *[other] Acceder a { $servers } en más de { $countries } países
+        [one] Acceder a { $servers } servidor en más de { $countries } países
+       *[other] Acceder a { $servers } servidores en más de { $countries } países
     }
-vpn-pricing-money-back = Garantía de reembolso de 30 días (solo para clientes nuevos)
+vpn-pricing-money-back = Garantía de devolución de dinero de 30 días (solo para clientes nuevos)
 vpn-pricing-annual = Anual
-vpn-pricing-monthly = Mensualmente
+vpn-pricing-monthly = Mensual
 vpn-pricing-get-annual-subscription = Conseguí la suscripción anual
-vpn-pricing-get-monthly-subscription = Obtener una suscripción mensual
+vpn-pricing-get-monthly-subscription = Conseguí la suscripción mensual
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } aún no está disponible en tu país
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Preguntas frecuentes
@@ -41,8 +41,8 @@ vpn-pricing-what-information = ¿Qué información guarda { -brand-name-mozilla-
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Nos adherimos estrictamente a los <a { $principles }> Principios de privacidad de datos </a> de { -brand-name-mozilla }. Solo recopilamos los datos necesarios para mantener { -brand-name-mozilla-vpn } operativa y mejorar el producto con el tiempo. También rastreamos los datos de campañas y referencias en nuestra aplicación móvil para ayudar a { -brand-name-mozilla } a comprender la efectividad de nuestras campañas de marketing. Lee más en nuestro <a { $notice }> Aviso de privacidad </a>.
+vpn-pricing-we-adhere-strictly = Cumplimos estrictamente con los <a { $principles }>principios de privacidad de datos</a> de { -brand-name-mozilla } y recopilamos los datos necesarios para mantener la { -brand-name-mozilla-vpn } operativa y mejorar el producto con el tiempo. También realizamos un seguimiento de los datos de campañas y referencias en nuestra aplicación móvil para ayudar a { -brand-name-mozilla } a comprender la eficacia de nuestras campañas de marketing. Obtené más información en nuestra <a { $notice }>nota de privacidad</a>.
 vpn-pricing-how-do-i-manage = ¿Cómo administro mi suscripción y cambio mi plan?
 # Variables
 # $manage (url) - link to subscription management page
-vpn-pricing-if-already-subscribed = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a { $manage }> administrar tu suscripción </a> en cualquier momento.
+vpn-pricing-if-already-subscribed = Si ya estás suscrito a { -brand-name-mozilla-vpn }, podés cambiar tu plan o <a { $manage }>administrar tu suscripción</a> en cualquier momento.

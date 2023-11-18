@@ -16,10 +16,10 @@ vpn-features-convenient = Conveniente
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Más de { $servers } en más de { $countries } países
-       *[other] Más de { $servers } en más de { $countries } países
+        [one] Más de { $servers } servidor en más de { $countries } países
+       *[other] Más de { $servers } servidores en más de { $countries } países
     }
-vpn-features-see-our-list = Vea nuestra lista de servidores.
+vpn-features-see-our-list = Mirá nuestra lista de servidores.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
@@ -30,17 +30,17 @@ vpn-features-connect-up-to =
 vpn-features-supported-platforms = Soportado en los sistemas operativos Windows, macOS, Android, iOS y Linux.
 vpn-features-no-bandwidth = Sin restricciones de ancho de banda ni limitaciones
 vpn-features-including-no-data = No incluye límite de datos ni límite de velocidad.
-vpn-features-fast-network = Rápidas velocidades de red incluso mientras se juega
+vpn-features-fast-network = Velocidades de red rápidas incluso mientras jugás
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } usa <a { $wireguard }> Wireguard </a> ™, uno de los protocolos de VPN con mejor rendimiento.
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } usa <a { $wireguard }>Wireguard</a>™, uno de los protocolos de VPN con mejor rendimiento.
 vpn-features-secure = Seguro
 vpn-features-block-ads = Bloquear anunciantes para que no te orienten
-vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } te ayuda a bloquear automáticamente anuncios y rastreadores de anuncios para que no vean tu actividad en línea.
-vpn-features-encrypt-your-internet = Cifrar todo tu tráfico de internet
-vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } protege todas las aplicaciones de su dispositivo, no solo su navegador.
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } te ayuda a bloquear automáticamente publicidades y rastreadores de anuncios para que no vean tu actividad en línea.
+vpn-features-encrypt-your-internet = Cifra todo tu tráfico de internet
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } protege todas las aplicaciones de tu dispositivo, no solo al navegador.
 vpn-features-stronger-malware = Mayor protección contra malware
-vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } evita que descargues malware de fuentes inseguras conocidas.
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } evita que descargués malware de fuentes inseguras conocidas.
 vpn-features-super-private-mode = Modo superprivado: dirige el tráfico a través de dos ubicaciones
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
@@ -49,7 +49,7 @@ vpn-features-support-for-custom-dns = Soporte para DNS personalizado
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Con { -brand-name-mozilla-vpn }, podés mantener tu tráfico protegido y aún enrutar tus consultas de DNS donde prefieras. <a { $dns }> Aprende más sobre la compatibilidad con DNS personalizado </a>.
-vpn-features-flexible = Configurable
+vpn-features-flexible = Flexible
 vpn-features-personalized-server = Recomendaciones personalizadas de ubicación del servidor
 vpn-features-well-suggest-which-servers = Te sugeriremos qué servidores cercanos asegurarán la conexión a Internet más rápida y confiable.
 vpn-features-personalize-which-apps = Personalizar que aplicaciones obtienen protección VPN
@@ -59,21 +59,21 @@ vpn-features-set-different-locations = Establecer diferentes ubicaciones para ca
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Combine { -brand-name-mozilla-vpn } con la extensión { -brand-name-firefox } de contenedores múltiples y establezca diferentes ubicaciones de VPN para cada pestaña de { -brand-name-firefox }. <a { $container }> Descubre cómo </a>.
 vpn-features-trustworthy = Confiable
-vpn-features-money-back = Garantía de reembolso de 30 días
+vpn-features-money-back = 30 días de garantía de devolución de dinero
 vpn-features-plus-customer-support = Además de soporte al cliente 24/7.
-vpn-features-we-never-log = Nunca guardamos, rastreamos o compartimos sus datos de red
+vpn-features-we-never-log = Nunca guardamos, rastreamos o compartimos tus datos de red
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = En pocas palabras, no recopilamos tu información personal de navegación. Esta es nuestra <a { $privacy }> política de privacidad fácil de leer </a>.
+vpn-features-simply-put-we-dont = En pocas palabras, no recopilamos tu información personal de navegación. Esta es nuestra <a { $privacy }>política de privacidad fácil de leer</a>.
 vpn-features-built-transparently = Construido de forma transparente en código abierto
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
-vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } está hecho con código abierto, lo que significa que todo el código es accesible públicamente. Mira nuestro <a { $github }> repositorio de GitHub </a>.
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } está hecho con código abierto, lo que significa que todo el código es accesible públicamente. Mirá nuestro <a { $github }>repositorio de GitHub</a>.
 vpn-features-reviewed-by-third = Revisado por expertos en seguridad externos
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
-vpn-features-weve-been-audited = Hemos sido auditados por Cure53, una firma líder en auditorías de ciberseguridad. <a { $report }> Mira el informe aquí </a>.
+vpn-features-weve-been-audited = Hemos sido auditados por Cure53, una firma líder en auditorías de ciberseguridad. <a { $report }>Mirá el informe aquí</a>.
 vpn-features-people-over-profits = La gente por encima de las ganancias
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
-vpn-features-were-backed-by-mofo = Estamos respaldados por <a { $mofo }> { -brand-name-mozilla-foundation } </a>, una organización sin fines de lucro que lucha por mantener la web abierta y saludable para todas las personas.
+vpn-features-were-backed-by-mofo = Estamos respaldados por <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, una organización sin fines de lucro que lucha por mantener la web abierta y saludable para todas las personas.
