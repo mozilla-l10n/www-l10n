@@ -28,3 +28,10 @@ vpn-features-connect-up-to =
        *[other] Eiporu { $devices } mba’e’okakuéra peve
     }
 vpn-features-supported-platforms = Ojeporukuaa Windows, macOS, Android, iOS ha Linux apopyvusúpe.
+vpn-features-no-bandwidth = Oñemochi’ĩ’ỹre ancho de banda
+vpn-features-including-no-data = Nahu’ãi mba’ekuaarã ha avei pya’ekue.
+vpn-features-secure = Hekorosã
+vpn-features-flexible = Pepykuaáva
+vpn-features-trustworthy = Jeroviaha
+vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
+vpn-features-people-over-profits = Yvypóra viru ñegana ári
