@@ -71,5 +71,5 @@ plan-matrix-price-vpn-discount-promo-v2 = <span>Kurseni { $savings }%</span> pre
 
 plan-matrix-upgrade = Përmirësojeni
 plan-matrix-sign-up = Regjistrohuni
-plan-matrix-get-relay-cta = Merreni { -brand-name-relay }
+plan-matrix-get-relay-cta = Merrni { -brand-name-relay }-në
 plan-matrix-join-waitlist = Bëhuni pjesë e Radhës

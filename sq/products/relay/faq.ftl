@@ -32,6 +32,59 @@ faq-question-2-question-2 = Pse s’do ta pranojë një sajt maskën time { -bra
 #   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
 #   $attrs (string) - specific attributes added to external links
 faq-question-2-answer-v4 = Disa sajte mund të mos pranojnë një adresë email që përfshin nënpërkatësi (@nënpërkatësi.mozmail.com) dhe të tjerë kanë reshtur së pranuari krejt adresat, hiq ato nga llogari Gmail, Hotmail, ose Yahoo.
+faq-question-1-question = Po në lidhje me mesazhet e padëshiruar?
+faq-question-1-answer-a-2 = Teksa { -brand-name-relay } nuk bën filtrim për mesazhe të padëshiruar, partneri ynë për email, Amazon SES, bllokon mesazhe të padëshiruar dhe <em>malware</em>. Nëse { -brand-name-relay } përcjell mesazhe që s’i doni, mund të përditësoni rregullimet tuaj për { -brand-name-relay } që të bllokoni mesazhe prej maskës që po i përcjell ato.
+# Variables:
+#   $url (url) - https://addons.mozilla.org/firefox/addon/private-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-1-answer-b-2-html = Nëse shihni një problem më të gjerë lidhur me email të padëshiruar prej krejt maskave tuaja, ju lutemi, <a href="{ $url }" { $attrs }>na njoftoni për këtë</a>, që të mund të shohim mundësinë e përimtimit të pragjeve SES mesazhesh të padëshiruar për këtë shërbim. Nëse i raportoni këto si të padëshiruar, shërbimi juaj email do të shohë { -brand-name-relay } si burim mesazhesh të padëshiruar, jo dërguesin origjinal.
+faq-question-availability-question = Ku mund të kihet { -brand-name-relay }?
+faq-question-availability-answer-v3 = { -brand-name-relay } falas mund të kihet në shumicën e vendeve. { -brand-name-relay-premium } mund të kihet në Austri, Belgjikë, Kanada, Qipro, Estoni, Finlandë, Francë, Gjermani, Greqi, Irlandë, Itali, Letoni, Lituani, Luksemburg, Malajzi, Maltë, Holandë, Zelandë të Re, Portugali, Singapor, Sllovaki, Slloveni, Spanjë, Suedi, Zvicër, Mbretëri të Bashkuar dhe Shtete të Bashkuara.
+faq-question-landing-page-availability = { -brand-name-relay } falas mund të kihet në shumicën e vendeve. Maskim { -brand-name-relay-premium } email-esh mund të kihet në Shtete të Bashkuara, Gjermani, Mbretëri të Bashkuar, Kanada, Singapor, Malajzi, Zelandë të Re, Francë, Belgjikë, Austri, Spanjë, Itali, Zvicër, Holandë dhe Irlandë. Maskim { -brand-name-relay-premium } telefonash mund të kihet vetëm në ShBA dhe Kanada.
+faq-question-4-question-2 = A mund t’u përgjigjem mesazheve duke përdorur maskën time { -brand-name-relay } të email-it?
+faq-question-subdomain-characters-question = Ç’shenja mund të përdor për të krijuar një nënpërkatësi?
+faq-question-subdomain-characters-answer-v2 = Për të krijuar një nënpërkatësi, mund të përdorni vetëm shkronja të vogla të anglishtes, numra dhe vija ndarëse në mes.
+faq-question-browser-support-question = A mund ta përdor { -brand-name-relay } në shfletues tjetër, apo në pajisjen time celulare?
+faq-question-browser-support-answer-2 = Po, mund të prodhoni maska { -brand-name-relay } në shfletues të tjerë, ose në pajisje celulare, thjesht duke bërë hyrjen te pulti i { -brand-name-relay }-së tuaj.
+faq-question-longevity-question = Ç’ndodh, nëse { -brand-name-mozilla } e mbyll përfundimisht { -brand-name-firefox-relay }?
+faq-question-longevity-answer-2 = Do t’ju njoftojmë që herët se ju duhet të ndryshoni adresën email të cilësdo llogari që po përdor maska  { -brand-name-relay } email-i.
+faq-question-mozmail-question-2 = Pse zunë të përdorin përkatësinë “mozmail.com? ” maskat e mia për email?
+faq-question-mozmail-answer-2 = Kalimin nga “relay.firefox.com” në “mozmail.com” e kryem për të bërë të mundur të merret një nënpërkatësi vetjake email-i, fjala vjen, maskë@përkatësiajuaj.mozmail.com. Nënpërkatësitë vetjake email, të passhme për pajtimtarë të { -brand-name-relay-premium }, ju lejojnë të prodhoni maska email që mbahen mend lehtë.
+faq-question-attachments-question = A do të përcjellë { -brand-name-firefox-relay } email-e me bashkëngjitje?
+# Variables:
+#  $size (number): maximum size for attachments in MB
+faq-question-attachments-answer-v2 = Tanimë mbulojmë përcjellje bashkëngjitjesh. Por, ka një kufi { $size } MB për përcjellje email-esh, kur përdoret { -brand-name-relay }. Çfarëdo email-sh më të mëdhenj se { $size } MB, s’do të përcillen.
+faq-question-8-question = Ç’të dhëna mbledh { -brand-name-firefox-relay }?
+#   $url (url) - link to the Terms of Service, i.e. https://www.mozilla.org/about/legal/terms/firefox-relay/
+#   $attrs (string) - specific attributes added to external links
+faq-question-acceptable-use-answer-b-html = Ju lutemi, për më tepër informacion, shqyrtoni <a href="{ $url }" { $attrs }>Kushtet tona të Shërbimit</a>.
+faq-question-promotional-email-blocking-question = Ç’është bllokimi i email-ve promocionalë?
+faq-question-detect-promotional-question = Si e pikas { -brand-name-relay }-ja nëse një email është promocional apo jo?
+faq-question-detect-promotional-answer = Mjaft email-e dërgohen me tejtëdhëna “header”, për të treguar se janë prej mjetesh të automatizuara të bazuar në lista postimesh. { -brand-name-firefox-relay } i pikas këto të dhëna kryesh, që të mund t’i bllokojë këta email-e.
+faq-question-disable-trackerremoval-question = A mund ta ndal heqjen e gjurmuesve email?
+faq-question-disable-trackerremoval-answer = Po. Nëse keni probleme me email-e, pse duken të dëmtuar, apo do të donit të ndalnit heqjen e gjurmuesve, mund ta çaktivizoni te rregullimet veçorinë në fjalë.
+faq-question-bulk-trackerremoval-question = A mund të heq gjurmues vetëm në disa nga maskat e mia email?
+faq-question-bulk-trackerremoval-answer = Heqjen e gjurmuesve mund ta aktivizoni vetëm në shkallë llogarie — ose heq gjurmues nga krejt emaile-t tuaj prej një llogarie, ose nga asnjë prej tyre.
+faq-question-trackerremoval-breakage-question = Pse duke të dëmtuar email-et e mi?
+faq-question-trackerremoval-breakage-answer-2 = Ndonjëherë, heqja e gjurmuesve mund të bëjë që email-e të duken të dëmtuar, ngaqë gjurmuesit shpesh përmbahen brenda figurash dhe lidhjesh. Kur hiqet gjurmuesi, email-i duket si të jetë formatuar gabim, ngaqë mungojnë figura. Për email-e që i keni marrë tashmë, kjo s’mund të ndreqet. Nëse kjo po ju pengon të lexoni si duhet emaiI-et tuaj, çaktivizoni heqje gjurmuesish.
 
 ## Frequently Asked Questions about Phone plans
 
+phone-masking-faq-question-what-is = Ç’është një maskë numri telefoni?
+phone-masking-faq-answer-what-is = E ngjashme me një maskë email-i, një maskë numri telefoni është një numër telefoni që mund të përcjellë tekste dhe thirrje te numri juaj i njëmendtë i telefonit, pa nxjerrë sheshit se cili është numri juaj i njëmendtë për personin që po ju telefonin apo dërgon mesazh tekst.
+phone-masking-faq-question-where-is = Ku mund të kihet maskim telefoni?
+phone-masking-faq-answer-where-is = Tani për tani, maskimi i numrave të telefonave mund të kihet vetëm në Shtetet e Bashkuara dhe Kanada. Kjo do të thotë se mund të merrni thirrje dhe mesazhe tekst të përcjellë nga numra ShBA dhe Kanada. Po punojmë për të gjetur një rrugë që të ofrojmë maskim numrash telefonash jashtë këtyre dy vendeve.
+phone-masking-faq-question-how-many = Sa maska telefoni përfitoj?
+phone-masking-faq-answer-how-many = Hëpërhë, vetëm një maskë numri telefoni. Pasi të zgjidhni maskë për telefonin tuaj, s’mund ta ndryshoni më vonë.
+phone-masking-faq-question-change-phone-mask = A mund të ndryshoj maskën e telefonit tim?
+phone-masking-faq-answer-change-phone-mask = Jo, s’mund të ndryshoni maskën e numrit tuaj të telefonit, pasi ta keni zgjedhur. Po e eksplorojmë këtë mundësi.
+phone-masking-faq-question-can-reply = A mund t’u përgjigjem teksteve?
+phone-masking-faq-answer-can-reply = Po, mund t’i përgjigjeni tekstit të fundit që morët. Thjesht përgjigjuni si do të bëni për çfarëdo mesazhi tekst.
+phone-masking-faq-question-forwarded-texts = Ç’lloj tekstesh do të përcillen?
+phone-masking-faq-answer-forwarded-texts = Mund të përcillen vetëm tekste SMS. Tekstet MMS që përfshijnë foto, video, etj, s’do të përcillen.
+phone-masking-faq-question-pictures = A mund të dërgoj apo marr foto përmes teksti?
+phone-masking-faq-answer-pictures = Jo, mund të përcillen, apo dërgohen si përgjigje, vetëm mesazhe tekst SMS.
+phone-masking-faq-question-historical = A mund t’u përgjigjem mesazheve tekst?
+phone-masking-faq-question-can-i-call = A mund t’i telefonoj dikujt me maskën e telefonit tim?
+phone-masking-faq-answer-can-i-call = Jo, vetëm mund t’i përgjigjeni një thirrjeje të përcjellë.
+phone-masking-faq-question-can-i-see = A mund të shoh cilët telefonuan, apo dërguan tekst?

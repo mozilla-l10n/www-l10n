@@ -5,7 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = Veçori - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+# Line break for visual format only
+vpn-features-features-that-protect = Veçori që mbrojnë <br> jetën tuaj internetore
+vpn-features-convenient = E leverdishme
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Më shumë se { $servers } shërbyes në mbi { $countries } vende
+       *[other] Më shumë se { $servers } shërbyes në mbi { $countries } vende
+    }
 vpn-features-see-our-list = Shihni listën e shërbyesve tanë.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -33,3 +46,34 @@ vpn-features-super-private-mode = Mënyra super-private: kalojeni trafikun tuaj 
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = <a { $feature }>Veçoria jonë multi-hope</a> ju jep një përforcim ekstra të sigurisë.
 vpn-features-support-for-custom-dns = Mbulim për DNS vetjake
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Me { -brand-name-mozilla-vpn }, mund ta mbani të mbrojtur trafikun tuaj dhe prapë t’i dërgoni kërkesat tuaja DNS kudo ku parapëlqeni. <a { $dns }>Mësoni më tepër mbi mbulim DNS-sh vetjake</a>.
+vpn-features-flexible = I zhdërvjellët
+vpn-features-personalized-server = Rekomandime të personalizuara për vendndodhje shërbyesish
+vpn-features-well-suggest-which-servers = Do t’ju sugjerojmë cilët shërbyes pranë jush do të garantojnë lidhjen internet më të shpejtë, më të qëndrueshme.
+vpn-features-personalize-which-apps = Personalizoni cilat aplikacione përfitojnë mbrojtje VPN
+vpn-features-easily-exclude-apps = Përjashtoni lehtësisht aplikacione nga mbrojtja me VPN — s’ka nevojë të shkëputni pajisjen tuaj prej { -brand-name-mozilla-vpn }. Për pajisje Windows, Android dhe Linux.
+vpn-features-set-different-locations = Caktoni vendndodhje të ndryshme për çdo skedë në { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Ndërthureni { -brand-name-mozilla-vpn } me zgjerimin Kontejnerë Multi-Llogari për { -brand-name-firefox } dhe caktoni vendndodhje të ndryshme VPN për çdo skedë { -brand-name-firefox } tab. <a { $containers }>Mësoni se si</a>.
+vpn-features-trustworthy = I besueshëm
+vpn-features-money-back = Garanci kthimi parash deri 30 ditë nga blerja
+vpn-features-plus-customer-support = Plus asistencë klientësh 24/7.
+vpn-features-we-never-log = Kurrë s’regjistrojmë, ndjekim apo i japim kujt të dhëna rrjeti tuajat.
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = E thënë thjesht, s’grumbullojmë informacion tuajin personal shfletimi. Ja <a { $privacy }>rregullat tona të privatësisë, që lexohen lehtë</a>.
+vpn-features-built-transparently = Krijuar me transparencë, me burim të hapët
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } është ndërtuar me kod burimi të hapët, që do të thotë se krejt kodi mund të përdoret publikisht. Shihni <a { $github }>depon tonë GitHub</a>.
+vpn-features-reviewed-by-third = Shqyrtuar nga ekspertë sigurie palësh të treta
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Na është bërë auditim nga Cure53, një shoqëri kryesuese auditimesh sigurie kibernetike. <a { $report }>Shiheni raportin këtu</a>.
+vpn-features-people-over-profits = Njerëzit mbi fitimet
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Kemi pas <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, një ent jofitimprurës që lufton për ta mbajtur internetin të hapët dhe të shëndetshëm për krejt njerëzit.

@@ -55,7 +55,7 @@ firefox-products-send-your-large-files-and = Dërgoni pa rrezik kartela tuaja t�
 firefox-products-send-a-file = Dërgoni një kartelë
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Zbuloni lëndën më të mirë në internet — dhe përdoreni kudo dhe kurdo që doni.
-firefox-products-get-pocket = Merreni { -brand-name-pocket }-in
+firefox-products-get-pocket = Merrni { -brand-name-pocket }-in
 firefox-products-learn-more-about-pocket = Mësoni më tepër mbi { -brand-name-pocket }-in
 firefox-products-join-firefox-and-get-the-most = Bëhuni pjesë e { -brand-name-firefox }-it dhe përfitoni maksimumin nga çdo produkt — nëpër çdo pajisje.
 # Variables:
