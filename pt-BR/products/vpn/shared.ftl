@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Instale o { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Entrar na lista de espera
 vpn-shared-sign-in-link = Já tem uma assinatura?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Atualmente oferecemos o { -brand-name-mozilla-vpn } na Áustria, Bélgica, Canadá, Finlândia, França, Alemanha, Irlanda, Itália, Malásia, Holanda, Nova Zelândia, Cingapura, Espanha, Suécia, Suíça, Reino Unido e EUA.
 vpn-shared-available-countries-v6 = Atualmente, oferecemos o { -brand-name-mozilla-vpn } na Alemanha, Áustria, Bélgica, Bulgária, Canadá, Chipre, Cingapura, Croácia, Dinamarca, Eslováquia, Eslovênia, Espanha, Estados Unidos, Estônia, Finlândia, França, Holanda, Hungria, Irlanda, Itália, Letônia, Lituânia, Luxemburgo, Malásia, Malta, Nova Zelândia, Polônia, Portugal, Reino Unido, República Tcheca, Romênia, Suécia e Suíça.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Escolha um plano que funciona para você
 vpn-shared-pricing-variable-sub-heading = Todos os nossos planos incluem:
 vpn-shared-pricing-recommended-offer = Recomendado
 vpn-shared-pricing-plan-12-month-v2 = Plano de 12 meses
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = Anual
 vpn-shared-pricing-plan-monthly-v2 = Plano mensal
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Mensal
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span> por mês</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mês + impostos</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Assinar plano semestral
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Assinar plano anual
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Contratar o plano semestral
 vpn-shared-pricing-get-12-month-v2 = Contratar o plano anual
 vpn-shared-pricing-get-monthly = Assinar plano mensal
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Economize { $percent }%
 vpn-shared-save-percent-on = Economize { $percent }% no { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *ao assinar um plano de 12 meses
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *com assinatura anual
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Total: { $amount }
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = VPN versus Proxy
 vpn-subnav-subscribe = Assine o { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Saiba mais sobre VPNs
 vpn-subnav-download-mozilla-vpn = Baixar o { -brand-name-mozilla-vpn }
+vpn-subnav-features = Recursos
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Usamos cookies para entender qual parceiro afiliado levou você ao { -brand-name-mozilla-vpn }. Não compartilhamos informações de identificação pessoal com nossos parceiros. Leia nossa <a { $attrs }>política de privacidade</a>.
 vpn-shared-affiliate-notification-reject = Rejeitar
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +161,9 @@ vpn-shared-why-bundle = Por que agrupar?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Economize { $percent }%</span> no plano anual do { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = O { -brand-name-mozilla-vpn } ainda não está disponível em seu país
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Como visto em
