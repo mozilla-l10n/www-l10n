@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Unisciti alla lotta di { -brand-name-mozilla } per un Internet migliore durante queste festività natalizie.
-banner-fundraising-title-giving-day = Unisciti alla lotta di { -brand-name-mozilla } per un Internet migliore durante questo GivingTuesday.
-# Outdated string
-banner-fundraising-title = Il futuro viene deciso online. Aiuta { -brand-name-mozilla } nella lotta per un Web accessibile a tutti.
-banner-fundraising-body-v2 = Siamo un’organizzazione orgogliosamente senza scopo di lucro e lavoriamo per mantenere sano il Web. I tuoi contributi aiutano nella costruzione di Internet come luogo sicuro e aperto.
-# Outdated string
-banner-fundraising-body = I nostri dati personali sono raccolti ogni volta che accediamo al Web e non è facile capire l’uso che ne viene fatto: la disinformazione rende difficile la ricerca della verità e i dispositivi connessi a Internet sono spesso lanciati sul mercato senza soddisfare gli standard di sicurezza minimi. L’organizzazione non-profit { -brand-name-mozilla-foundation } si batte per mantenere Internet un luogo sicuro, aperto e accessibile a tutti. <strong>Farai una donazione oggi?</strong>
-banner-fundraising-body-extra = Ti andrebbe di fare una donazione oggi?
-banner-fundraising-monthly = Mensile
-banner-fundraising-one-time = Una tantum
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Fai una donazione a { -brand-name-mozilla } per Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = È arrivato il momento di riprendere il controllo di Internet dalle Big Tech. Puoi fare una donazione a { -brand-name-mozilla } per Giving Tuesday?
+banner-fundraising-title-1 = Fai una donazione a { -brand-name-mozilla }. Riprendi il controllo di Internet.
+banner-fundraising-tagline-1 = È arrivato il momento di riprendere il controllo di Internet dalle Big Tech. Puoi fare una donazione a { -brand-name-mozilla }?
+banner-fundraising-title-2 = Riprendi il controllo di Internet.
+banner-fundraising-tagline-2 = Le persone hanno perso il controllo della propria vita online a scapito delle Big Tech. Fai una donazione a { -brand-name-mozilla } e riprendi il controllo di Internet.
+banner-fundraising-title-3 = Puoi fare una donazione a { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } antepone sempre le persone al profitto . Fai una donazione a { -brand-name-mozilla } e aiutaci a garantire l’integrità di Internet.
 banner-fundraising-donate = Fai una donazione
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } €
