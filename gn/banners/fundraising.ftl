@@ -13,4 +13,5 @@ banner-fundraising-tagline-1 = Ijaravóma Ñanduti jeporu tembiporupyahu apytég
 banner-fundraising-title-2 = Emombarete ñanduti jeporu.
 banner-fundraising-tagline-2 = Yvypóra ndaijeheguíri oikundahávo. Tembiporupyahu guasukuéra oreko. Embojopói { -brand-name-mozilla } ha Ñanduti oikovéta.
 banner-fundraising-title-3 = ¿Embojopoikuaa { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } omoĩ yvypóra tenondépe viru ñega ári. Embojopói { -brand-name-mozilla } ha eipytyvõ Ñanduti resãiverã.
 banner-fundraising-donate = Me’ẽ

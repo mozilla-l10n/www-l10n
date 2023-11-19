@@ -30,6 +30,10 @@ vpn-features-connect-up-to =
 vpn-features-supported-platforms = Ojeporukuaa Windows, macOS, Android, iOS ha Linux apopyvusúpe.
 vpn-features-no-bandwidth = Oñemochi’ĩ’ỹre ancho de banda
 vpn-features-including-no-data = Nahu’ãi mba’ekuaarã ha avei pya’ekue.
+vpn-features-fast-network = Pyha ipya’e eñembosarái aja jepe
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } oiporu <a { $wireguard }>Wireguard</a>™, VPN rehegua oikoporãvéva.
 vpn-features-secure = Hekorosã
 vpn-features-flexible = Pepykuaáva
 vpn-features-trustworthy = Jeroviaha
