@@ -45,7 +45,16 @@ vpn-features-super-private-mode = Modo super privativo: direciona o tráfego atr
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Nosso <a { $feature }>recurso de saltos múltiplos</a> oferece um aumento extra de segurança.
+vpn-features-support-for-custom-dns = Suporte a DNS personalizado
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Com o { -brand-name-mozilla-vpn }, você pode manter seu tráfego protegido e ainda encaminhar suas consultas de DNS para onde preferir. <a { $dns }>Saiba mais sobre o suporte a DNS personalizado</a>.
 vpn-features-flexible = Flexível
+vpn-features-personalized-server = Recomendações personalizadas de locais de servidores
+vpn-features-well-suggest-which-servers = Sugerimos quais servidores próximos a você garantem conexão de internet mais rápida e confiável.
+vpn-features-personalize-which-apps = Personalize quais aplicativos recebem proteção de VPN
+vpn-features-easily-exclude-apps = Exclua facilmente aplicativos da proteção de VPN, sem necessidade de desconectar seu dispositivo do { -brand-name-mozilla-vpn }. Disponível em dispositivos Windows, Android e Linux.
+vpn-features-set-different-locations = Defina locais diferentes para cada aba no { -brand-name-firefox }
 vpn-features-trustworthy = Confiável
 vpn-features-money-back = Garantia de devolução do dinheiro por 30 dias
 vpn-features-plus-customer-support = Além de suporte ao cliente 24 horas por dia, 7 dias por semana.

@@ -13,4 +13,5 @@ banner-fundraising-tagline-1 = É hora de recuperar a internet das grandes empre
 banner-fundraising-title-2 = Recupere o controle da internet.
 banner-fundraising-tagline-2 = As pessoas não estão mais no controle online. As grandes empresas de tecnologia é que estão. Faça uma doação para a { -brand-name-mozilla } e recupere a internet.
 banner-fundraising-title-3 = Você pode fazer uma doação para a { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = A { -brand-name-mozilla } sempre dá prioridade às pessoas, não aos lucros. Faça uma doação para a { -brand-name-mozilla } e ajude a manter a internet saudável.
 banner-fundraising-donate = Fazer uma doação
