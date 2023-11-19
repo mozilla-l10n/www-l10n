@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Προς το παρόν, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Γαλλία, τη Γερμανία, την Ελβετία, το Ηνωμένο Βασίλειο, τις ΗΠΑ, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, τη Σιγκαπούρη, τη Σουηδία και τη Φινλανδία.
 vpn-shared-available-countries-v6 = Αυτήν τη στιγμή, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Βουλγαρία, τη Γαλλία, τη Γερμανία, τη Δανία, την Ελβετία, την Εσθονία, τις ΗΠΑ, το Ηνωμένο Βασίλειο, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, την Κροατία, την Κύπρο, τη Λετονία, τη Λιθουανία, το Λουξεμβούργο, τη Μάλτα, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, την Ουγγαρία, την Πολωνία, την Πορτογαλία, τη Ρουμανία, τη Σιγκαπούρη, τη Σλοβακία, τη Σλοβενία, τη Σουηδία, την Τσεχία και τη Φινλανδία.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Επιλέξτε το πρόγραμμα 
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
 vpn-shared-pricing-plan-12-month-v2 = 12μηνο πακέτο
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 μηνών
 vpn-shared-pricing-plan-monthly-v2 = Μηνιαίο πακέτο
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/μήνα+ φόρος</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Απόκτηση 6-μηνιαίου προγράμματος
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Απόκτηση 12-μηνιαίου προγράμματος
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Απόκτηση 6-μηνιαίου πακέτου
 vpn-shared-pricing-get-12-month-v2 = Απόκτηση ετήσιου πακέτου
 vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Εξοικονομήστε { $percent }%
 vpn-shared-save-percent-on = Εξοικονόμηση { $percent }% στο { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *όταν εγγραφείτε σε πρόγραμμα 12 μηνών
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *με ετήσια συνδρομή
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } συνολικά
@@ -133,6 +135,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs διακομιστή μεσολάβησης
 vpn-subnav-subscribe = Συνδρομή στο { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Μάθετε περισσότερα για τα VPN
 vpn-subnav-download-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
+vpn-subnav-features = Δυνατότητες
 
 ## VPN Affiliate cookie notice
 
@@ -158,6 +161,7 @@ vpn-shared-why-bundle = Γιατί να αγοράσω πακέτο;
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Εξοικονομήστε { $percent }%</span> στο ετήσιο πρόγραμμα του { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο στη χώρα σας
 
-##
+## Press quotations
 

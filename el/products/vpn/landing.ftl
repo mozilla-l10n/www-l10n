@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = Με ποιες συσκευέ�
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = Το { -brand-name-mozilla-vpn } είναι συμβατό με <a href="{ $mobile }">κινητές συσκευές</a>, tablet και <a href="{ $desktop }">υπολογιστές</a> με:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = Το { -brand-name-mozilla-vpn } είναι συμβατό με:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (μόνο 64-bit)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (μόνο 64-bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 και νεότερο)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } και νεότερο)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 και νεότερο)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 και νεότερο)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 και νεότερο)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (έκδοση 8 και νεότερη)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (έκδοση 6 και νεότερη)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (έκδοση 6 και νεότερη)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } και νεότερο)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 και νεότερο)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 και νεότερο)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 και νεότερο)
 vpn-landing-faq-refund-question-heading = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-landing-faq-refund-question-desc-v2 = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης σας συνδρομής.
 vpn-landing-faq-refund-question-additional-desc = Αν αγοράσετε τη συνδρομή σας εντός της εφαρμογής από το { -brand-name-apple } { -brand-name-app-store } ή το { -brand-name-google-play } Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του { -brand-name-app-store }. Θα πρέπει να απευθυνθείτε, αναλόγως, στην { -brand-name-apple } ή την { -brand-name-google } για τυχόν απορίες σχετικά με τη χρέωση και την επιστροφή χρημάτων.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Μπορείτε να λάβετε τα χρήματά σας πίσω εντός 30 ημερών από την αγορά της συνδρομής σας. Επικοινωνήστε μαζί μας και υποβάλλετε ένα αίτημα επιστροφής χρημάτων πατώντας το κουμπί «Λήψη βοήθειας» στις «Ρυθμίσεις» της εφαρμογής { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Πώς διαχειρίζομαι τη συνδρομή μου;
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Δείτε περισσότερες συχνές ερωτ
 
 vpn-landing-invite-page-title = Εγγραφή στη λίστα αναμονής: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Ενημερωθείτε όταν το { -brand-name-mozilla-vpn } γίνει διαθέσιμο στην περιοχή σας.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Ενημερωθείτε όταν το { -brand-name-mozilla-vpn } γίνει διαθέσιμο για τη συσκευή και την περιοχή σας.
 vpn-landing-invite-page-heading = Εγγραφή στη λίστα αναμονής VPN
 vpn-landing-invite-email-label = Ποια είναι η διεύθυνση email σας;
