@@ -11,7 +11,10 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Proteja todo seu dispositivo
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = Use o { -brand-name-mozilla-vpn } para proteção total do dispositivo em todos os aplicativos. Com servidores em mais de { $countries } países, você pode se conectar a qualquer lugar, de qualquer lugar.
+vpn-landing-powerful-privacy-for-peace = Privacidade poderosa para sua tranquilidade
 vpn-landing-whats-a-vpn = O que é uma VPN?
+vpn-landing-a-virtual-private-network-protects = Uma rede privada virtual protege sua conexão com a internet, mantendo sua localização e o que você faz online mais privativo em seus dispositivos.
+vpn-landing-see-all-the-ways-mozilla-vpn = Veja todas as maneiras com que o { -brand-name-mozilla-vpn } protege você.
 vpn-landing-how-a-vpn-helps-you = Como uma VPN te ajuda
 vpn-landing-keeps-your-data-safe = Mantém seus dados seguros em redes públicas de WiFi
 vpn-landing-helps-you-access-global = Ajuda você a acessar conteúdo global

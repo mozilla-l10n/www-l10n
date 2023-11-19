@@ -55,7 +55,25 @@ vpn-features-well-suggest-which-servers = Sugerimos quais servidores próximos a
 vpn-features-personalize-which-apps = Personalize quais aplicativos recebem proteção de VPN
 vpn-features-easily-exclude-apps = Exclua facilmente aplicativos da proteção de VPN, sem necessidade de desconectar seu dispositivo do { -brand-name-mozilla-vpn }. Disponível em dispositivos Windows, Android e Linux.
 vpn-features-set-different-locations = Defina locais diferentes para cada aba no { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Combine o { -brand-name-mozilla-vpn } com a extensão Multi-Account Containers do { -brand-name-firefox } e defina um local de VPN diferente para cada aba do { -brand-name-firefox }. <a { $containers }>Saiba como</a>.
 vpn-features-trustworthy = Confiável
 vpn-features-money-back = Garantia de devolução do dinheiro por 30 dias
 vpn-features-plus-customer-support = Além de suporte ao cliente 24 horas por dia, 7 dias por semana.
 vpn-features-we-never-log = Nunca registramos nem rastreamos ou compartilhamos seus dados de rede
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Resumindo, não coletamos suas informações pessoais de navegação. Esta é nossa <a { $privacy }>política de privacidade de fácil leitura</a>.
+vpn-features-built-transparently = Construído de forma transparente em código aberto
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = O { -brand-name-mozilla-vpn } é feito com código-fonte aberto, o que significa que todo o código pode ser acessado publicamente. Veja nosso <a { $github }>repositório no GitHub</a>.
+vpn-features-reviewed-by-third = Revisado por especialistas em segurança externos
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Fomos auditados pela Cure53, uma empresa líder em auditoria de segurança cibernética. <a { $report }>Veja aqui o relatório</a>.
+vpn-features-people-over-profits = Prioridade às pessoas, não aos lucros
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Somos respaldados pela <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, uma organização sem fins lucrativos que luta para manter a web aberta e saudável para todas as pessoas.
