@@ -39,3 +39,17 @@ vpn-landing-more-than-servers-in-countries =
        *[other] More than { $servers } servers in { $countries }+ countries
     }
 vpn-landing-fast-network-speeds-even-while = Fast network speeds even while gaming
+vpn-landing-no-logging-tracking-or-sharing = No logging, tracking or sharing of network data
+vpn-landing-no-bandwidth-restrictions-or = No bandwidth restrictions or throttling
+vpn-landing-extra-security-whole-device = Extra security: whole device protection, multi-hop routing & more
+vpn-landing-see-all-features = See all features
+vpn-landing-fram-a-brand-you-can-trust = From a brand you can trust
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } is a non-profit-backed internet company that’s been fighting for a healthy web since 1998.
+vpn-landing-one-subscription-for-all-your = One subscription for all your devices
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Powered by { -brand-name-mozilla }.</strong> Fighting for your right to privacy since 1998.
+vpn-landing-learn-more-from-our-experts = Learn more from our experts
+vpn-landing-do-you-need-a-vpn-at-home = Do you need a VPN at home? Here’s 5 reasons you might.
+vpn-landing-what-is-an-ip-address = What is an IP address?
+vpn-landing-how-your-location-is-tracked = How your location is tracked and how you can limit sharing it
+vpn-landing-see-more-resources = See more resources
