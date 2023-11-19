@@ -33,6 +33,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-no-logging-tracking-or-sharing = Sem registro, rastreamento ou compartilhamento de dados de rede
 vpn-landing-no-bandwidth-restrictions-or = Sem restrições ou limitação de largura de banda
+vpn-landing-extra-security-whole-device = Segurança extra: proteção do dispositivo todo, roteamento em saltos múltiplos e muito mais
 vpn-landing-see-all-features = Veja todos os recursos
 vpn-landing-fram-a-brand-you-can-trust = De uma marca em que você pode confiar
 vpn-landing-learn-more-from-our-experts = Saiba mais com nossos especialistas

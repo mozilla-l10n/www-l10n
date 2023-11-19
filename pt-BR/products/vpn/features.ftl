@@ -35,6 +35,16 @@ vpn-features-fast-network = Velocidades rápidas de rede, mesmo em jogos
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = O { -brand-name-mozilla-vpn } usa <a { $wireguard }>Wireguard</a>™, um dos protocolos VPN de melhor desempenho.
 vpn-features-secure = Seguro
+vpn-features-block-ads = Bloqueia anunciantes, impedindo que direcionem propaganda para você
+vpn-features-automatically-block-ads = O { -brand-name-mozilla-vpn } ajuda a bloquear automaticamente anúncios e rastreadores de anúncios, impedindo que vejam sua atividade online.
+vpn-features-encrypt-your-internet = Criptografa todo o seu tráfego de internet
+vpn-features-vpn-protects-all-apps = O { -brand-name-mozilla-vpn } protege todos os aplicativos em seu dispositivo, não apenas o navegador.
+vpn-features-stronger-malware = Proteção mais forte contra código malicioso
+vpn-features-vpn-prevents-downloading-malware = O { -brand-name-mozilla-vpn } evita que você baixe código malicioso (malware) de fontes conhecidas por ser inseguras.
+vpn-features-super-private-mode = Modo super privativo: direciona o tráfego através de dois locais
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Nosso <a { $feature }>recurso de saltos múltiplos</a> oferece um aumento extra de segurança.
 vpn-features-flexible = Flexível
 vpn-features-trustworthy = Confiável
 vpn-features-money-back = Garantia de devolução do dinheiro por 30 dias
