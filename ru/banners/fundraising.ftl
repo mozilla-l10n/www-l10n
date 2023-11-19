@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Помогите { -brand-name-mozilla } в борьбе за лучший Интернет в этот праздничный сезон.
-banner-fundraising-title-giving-day = Помогите { -brand-name-mozilla } в борьбе за лучший Интернет в этот Щедрый вторник.
-# Outdated string
-banner-fundraising-title = Будущее решается онлайн. Помогите { -brand-name-mozilla } в борьбе за Интернет для каждого.
-banner-fundraising-body-v2 = Мы гордимся тем, что являемся некоммерческой организацией, работающей над поддержанием здоровья сети. Ваши пожертвования помогают нам в создании безопасного и открытого Интернета.
-# Outdated string
-banner-fundraising-body = Наши личные данные собираются каждый раз, когда мы подключаемся к Интернету, и довольно нелегко выяснить, что с ними происходит. Дезинформация затрудняет поиск истины. Устройства с возможностью выхода в Интернет поступают в продажу, не соответствуя минимальным стандартам безопасности. Некоммерческая организация { -brand-name-mozilla-foundation } пытается сделать Интернет безопасным, открытым и доступным для каждого. <strong>Поможете нам сегодня?</strong>
-banner-fundraising-body-extra = Можете помочь нам сегодня?
-banner-fundraising-monthly = Ежемесячно
-banner-fundraising-one-time = Один раз
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Сделайте пожертвование в пользу { -brand-name-mozilla } в честь Дающего вторника
+banner-fundraising-giving-tuesday-tagline = Пришло время отвоевать Интернет у крупных технологий. Можете ли вы сделать пожертвование в пользу { -brand-name-mozilla } на Дающий вторник?
+banner-fundraising-title-1 = Сделайте пожертвование в пользу { -brand-name-mozilla }. Верните себе Интернет.
+banner-fundraising-tagline-1 = Пришло время вернуть Интернет от больших технологий. Можете ли вы сделать пожертвование в пользу { -brand-name-mozilla }?
+banner-fundraising-title-2 = Верните себе контроль над Интернетом.
+banner-fundraising-tagline-2 = Люди больше не контролируют ситуацию в Интернете. Это большие технологии. Сделайте пожертвование в пользу { -brand-name-mozilla } и верните себе Интернет.
+banner-fundraising-title-3 = Можете ли вы сделать пожертвование в пользу { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } всегда ставит людей выше прибыли. Сделайте пожертвование в пользу { -brand-name-mozilla } и помогите сохранить Интернет здоровым.
 banner-fundraising-donate = Пожертвовать
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } ₽
