@@ -37,3 +37,14 @@ vpn-pricing-vpn-not-available = К сожалению, { -brand-name-mozilla-vpn
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = ЧЗВ
 vpn-pricing-refund-policy = Какова политика возврата средств { -brand-name-mozilla-vpn }?
+vpn-pricing-the-first-time-you = При первой подписке на { -brand-name-mozilla-vpn } через веб-сайт { -brand-name-mozilla }, если вы аннулируете свою учетную запись в течение первых 30 дней, вы можете запросить возмещение и { -brand-name-mozilla } возместит ваш первый срок подписки.
+vpn-pricing-if-you-purchased = Если вы приобрели подписку посредством покупки в приложении в Apple App Store или Google Play Store, ваш платеж регулируется условиями магазина. Все запросы по выставлению счетов и возмещению средств за такие покупки вы должны направлять в Apple или Google, в зависимости от обстоятельств.
+vpn-pricing-what-information = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Мы строго соблюдаем <a { $principles }>Принципы конфиденциальности данных</a> компании { -brand-name-mozilla }. Мы собираем только данные, необходимые для поддержания работоспособности { -brand-name-mozilla-vpn } и совершенствования продукта с течением времени. Мы также отслеживаем данные о кампаниях и рефералах в нашем мобильном приложении, чтобы помочь { -brand-name-mozilla } понять эффективность наших маркетинговых кампаний. Подробную информацию можно найти в нашем <a { $notice }>Уведомлении о конфиденциальности</a>.
+vpn-pricing-how-do-i-manage = Как мне управлять своей подпиской и изменить свой план?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Если вы уже подписаны на { -brand-name-mozilla-vpn }, вы можете изменить свой план или <a { $manage }>управлять своей подпиской</a> в любое время.
