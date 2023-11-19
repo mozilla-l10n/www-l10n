@@ -36,6 +36,7 @@ vpn-features-fast-network = Pyha ipya’e eñembosarái aja jepe
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } oiporu <a { $wireguard }>Wireguard</a>™, VPN rehegua oikoporãvéva.
 vpn-features-secure = Hekorosã
 vpn-features-block-ads = Ejoko umi marandu ñemurã ani hag̃ua ou ndéve
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } ne pytyvõ ejokóvo ñemurã ha marandu rapykuehoha ani hag̃ua ojehecha ne rembiapo eikundahávo.
 vpn-features-flexible = Pepykuaáva
 vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
