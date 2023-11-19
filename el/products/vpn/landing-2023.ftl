@@ -8,5 +8,7 @@
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Ολική προστασία συσκευής
 vpn-landing-whats-a-vpn = Τι είναι ένα VPN;
+vpn-landing-how-a-vpn-helps-you = Πώς σας βοηθά ένα VPN
+vpn-landing-fram-a-brand-you-can-trust = Από μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-landing-one-subscription-for-all-your = Μία συνδρομή για όλες τις συσκευές σας
 vpn-landing-what-is-an-ip-address = Τι είναι μια διεύθυνση IP;
