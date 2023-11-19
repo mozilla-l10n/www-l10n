@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Ayuda a { -brand-name-mozilla } en esta temporada navideña a luchar por un Internet mejor.
-banner-fundraising-title-giving-day = Ayuda a { -brand-name-mozilla } en esta temporada navideña a luchar por un Internet mejor.
-# Outdated string
-banner-fundraising-title = El futuro se está decidiendo en línea. Ayuda a { -brand-name-mozilla } a luchar por una web para todos nosotros.
-banner-fundraising-body-v2 = Estamos orgullosos de ser una organización sin ánimo de lucro que trabaja para mantener la web saludable. Tus contribuciones ayudan a construir un Internet seguro y abierto.
-# Outdated string
-banner-fundraising-body = Nuestros datos personales se recopilan cada vez que accedemos a la web, y no es fácil averiguar qué sucede con ellos. La desinformación nos dificulta encontrar la verdad. Los dispositivos conectados a la web se lanzan al mercado sin cumplir con unos mínimos estándares de seguridad. La organización sin ánimo de lucro { -brand-name-mozilla-foundation } lucha para hacer que internet sea seguro, abierto y accesible para todos. <strong>¿Harías hoy una donación?</strong>
-banner-fundraising-body-extra = ¿Puedes donar hoy?
-banner-fundraising-monthly = Mensualmente
-banner-fundraising-one-time = Una sola vez
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Donar a { -brand-name-mozilla } para Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Es hora de recuperar Internet de las grandes tecnológicas. ¿Puedes donar a { -brand-name-mozilla } por Giving Tuesday?
+banner-fundraising-title-1 = Dona a { -brand-name-mozilla }. Recupera Internet.
+banner-fundraising-tagline-1 = Es hora de recuperar Internet de las grandes tecnológicas. ¿Puedes donar a { -brand-name-mozilla } por Giving Tuesday?
+banner-fundraising-title-2 = Recupera el control de Internet.
+banner-fundraising-tagline-2 = La gente ya no tiene el control en línea. Las grandes tecnológicas sí lo tienen. Dona a { -brand-name-mozilla } y recupera Internet.
+banner-fundraising-title-3 = ¿Puedes donar a { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } siempre pone a las personas por encima del lucro. Dona a { -brand-name-mozilla } y ayuda a mantener Internet saludable.
 banner-fundraising-donate = Donar
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } €
