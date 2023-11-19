@@ -29,6 +29,11 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Compatível com sistemas operacionais Windows, macOS, Android, iOS e Linux.
 vpn-features-no-bandwidth = Sem restrições ou limitação de largura de banda
+vpn-features-including-no-data = Sem limite de dados ou de velocidade.
+vpn-features-fast-network = Velocidades rápidas de rede, mesmo em jogos
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = O { -brand-name-mozilla-vpn } usa <a { $wireguard }>Wireguard</a>™, um dos protocolos VPN de melhor desempenho.
 vpn-features-secure = Seguro
 vpn-features-flexible = Flexível
 vpn-features-trustworthy = Confiável
