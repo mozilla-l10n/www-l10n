@@ -7,7 +7,9 @@
 
 # Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
 banner-fundraising-giving-tuesday-title = Embojopói { -brand-name-mozilla } Giving Tuesday peg̃uarã
+banner-fundraising-giving-tuesday-tagline = Ijaravóma Ñanduti jeporu tembiporupyahu apytégui. ¿Embojopóikuaa { -brand-name-mozilla } Giving Tuesday rupive?
 banner-fundraising-title-1 = Embojopói { -brand-name-mozilla }. Emombarete Ñanduti.
+banner-fundraising-tagline-1 = Ijaravóma Ñanduti jeporu tembiporupyahu apytégui. ¿Embojopóikuaa { -brand-name-mozilla }?
 banner-fundraising-title-2 = Emombarete ñanduti jeporu.
 banner-fundraising-title-3 = ¿Embojopoikuaa { -brand-name-mozilla }?
 banner-fundraising-donate = Me’ẽ
