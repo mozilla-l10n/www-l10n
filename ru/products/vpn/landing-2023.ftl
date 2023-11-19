@@ -50,3 +50,8 @@ vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } — нек�
 vpn-landing-one-subscription-for-all-your = Одна подписка для всех ваших устройств
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>При поддержке { -brand-name-mozilla }.</strong> Боремся за ваше право на неприкосновенность частной жизни с 1998 года.
+vpn-landing-learn-more-from-our-experts = Узнайте больше у наших экспертов
+vpn-landing-do-you-need-a-vpn-at-home = Вам нужен VPN дома? Вот 5 причин, по которым вам это могло бы понадобиться.
+vpn-landing-what-is-an-ip-address = Что такое IP-адрес?
+vpn-landing-how-your-location-is-tracked = Как отслеживается ваше местоположение и как вы можете ограничить его распространение
+vpn-landing-see-more-resources = Посмотреть больше ресурсов
