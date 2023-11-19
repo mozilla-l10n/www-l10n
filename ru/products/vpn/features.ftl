@@ -54,3 +54,28 @@ vpn-features-keep-traffic-protected = С помощью { -brand-name-mozilla-vp
 vpn-features-flexible = Гибкий
 vpn-features-personalized-server = Персональные рекомендации по местоположению серверов
 vpn-features-well-suggest-which-servers = Мы подскажем, какие серверы рядом с вами обеспечат самое быстрое и надежное подключение к Интернету.
+vpn-features-personalize-which-apps = Выберите, какие приложения будут получать VPN-защиту
+vpn-features-easily-exclude-apps = Легко исключайте приложения из VPN-защиты — не нужно отключать свое устройство от { -brand-name-mozilla-vpn }. Доступно на устройствах Windows, Android и Linux.
+vpn-features-set-different-locations = Установите разные местоположения для каждой вкладки в { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Объедините { -brand-name-mozilla-vpn } с расширением Multi-Account Containers в { -brand-name-firefox } и установите разные местоположения VPN на вкладках { -brand-name-firefox }. <a { $containers }>Узнайте, как</a>.
+vpn-features-trustworthy = Доверенный
+vpn-features-money-back = 30-дневная гарантия возврата денег
+vpn-features-plus-customer-support = Плюс круглосуточная поддержка клиентов.
+vpn-features-we-never-log = Мы никогда не регистрируем, не отслеживаем и не передаем ваши сетевые данные
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Проще говоря, мы не собираем вашу личную информацию о просмотре. Вот наша <a { $privacy }>понятная политика конфиденциальности</a>.
+vpn-features-built-transparently = Создано прозрачно в свободном ПО
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } создан с использованием открытого исходного кода, что означает, что весь код доступен публично. См. наш <a { $github }>репозиторий GitHub</a>.
+vpn-features-reviewed-by-third = Проверено сторонними экспертами по безопасности
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Нас проверила Cure53, ведущая фирма по аудиту кибербезопасности. <a { $report }>Отчет можно посмотреть здесь</a>.
+vpn-features-people-over-profits = Люди важнее прибыли
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Нас поддерживает <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, некоммерческая организация, которая борется за то, чтобы Интернет был открытым и здоровым для всех людей.
