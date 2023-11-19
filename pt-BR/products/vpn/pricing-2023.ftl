@@ -28,6 +28,8 @@ vpn-pricing-access =
     }
 vpn-pricing-annual = Anual
 vpn-pricing-monthly = Mensal
+vpn-pricing-get-annual-subscription = Obtenha uma assinatura anual
+vpn-pricing-get-monthly-subscription = Obtenha uma assinatura mensal
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Dúvidas frequentes
 vpn-pricing-refund-policy = Qual é a política de reembolso do { -brand-name-mozilla-vpn }?
