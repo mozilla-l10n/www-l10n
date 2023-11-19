@@ -35,3 +35,6 @@ vpn-features-fast-network = Velocidades de red rápidas incluso mientras juegas
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } usa <a { $wireguard }>Wireguard</a>™, uno de los protocolos de VPN con mejor rendimiento.
 vpn-features-secure = Seguro
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } te ayuda a bloquear automáticamente publicidad y rastreadores de anuncios para que no vean tu actividad en línea.
+vpn-features-encrypt-your-internet = Cifra todo tu tráfico de internet
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } protege todas las aplicaciones de tu dispositivo, no solo tu navegador.
