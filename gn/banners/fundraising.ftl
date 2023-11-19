@@ -11,5 +11,6 @@ banner-fundraising-giving-tuesday-tagline = Ijaravóma Ñanduti jeporu tembiporu
 banner-fundraising-title-1 = Embojopói { -brand-name-mozilla }. Emombarete Ñanduti.
 banner-fundraising-tagline-1 = Ijaravóma Ñanduti jeporu tembiporupyahu apytégui. ¿Embojopóikuaa { -brand-name-mozilla }?
 banner-fundraising-title-2 = Emombarete ñanduti jeporu.
+banner-fundraising-tagline-2 = Yvypóra ndaijeheguíri oikundahávo. Tembiporupyahu guasukuéra oreko. Embojopói { -brand-name-mozilla } ha Ñanduti oikovéta.
 banner-fundraising-title-3 = ¿Embojopoikuaa { -brand-name-mozilla }?
 banner-fundraising-donate = Me’ẽ
