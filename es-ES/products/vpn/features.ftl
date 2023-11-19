@@ -38,3 +38,16 @@ vpn-features-secure = Seguro
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } te ayuda a bloquear automáticamente publicidad y rastreadores de anuncios para que no vean tu actividad en línea.
 vpn-features-encrypt-your-internet = Cifra todo tu tráfico de internet
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } protege todas las aplicaciones de tu dispositivo, no solo tu navegador.
+vpn-features-stronger-malware = Mayor protección contra malware
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } evita que descargues malware de fuentes inseguras conocidas.
+vpn-features-super-private-mode = Modo súper privado: dirige el tráfico a través de dos ubicaciones
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Nuestra <a { $feature }>función de múltiples saltos</a> te brinda un impulso adicional de seguridad.
+vpn-features-support-for-custom-dns = Soporte para DNS personalizado
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Con { -brand-name-mozilla-vpn }, puedes mantener tu tráfico protegido y seguir dirigiendo tus consultas DNS a donde prefieras. <a { $dns }>Obtén más información sobre la compatibilidad con DNS personalizados</a>.
+vpn-features-flexible = Flexible
+vpn-features-personalized-server = Recomendaciones personalizadas de ubicación del servidor
+vpn-features-well-suggest-which-servers = Te sugeriremos qué servidores cercanos asegurarán la conexión a Internet más rápida y fiable.
