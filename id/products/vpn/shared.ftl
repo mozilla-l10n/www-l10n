@@ -125,6 +125,8 @@ vpn-shared-save-percent-on = Hemat { $percent }% untuk { -brand-name-mozilla-vpn
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *jika Anda berlangganan paket 12 bulan
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *dengan langganan tahunan
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +173,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Berlangganan { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Pelajari tentang VPN
 vpn-subnav-download-mozilla-vpn = Unduh { -brand-name-mozilla-vpn }
+vpn-subnav-features = Fitur
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +205,15 @@ vpn-shared-why-bundle = Mengapa harus pilih bundel?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Hemat { $percent }%</span> untuk paket tahunan { -brand-name-relay-premium }
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } belum tersedia di negara Anda
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Tampil di
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “VPN { -brand-name-mozilla } juga dapat <a { $attrs }>diintegrasikan ke dalam beberapa fitur perlindungan privasi yang andal</a> di peramban { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…fitur unik, seperti Multi-Account Container, dapat memudahkan akses fitur tersebut bagi pengguna yang menghadapi masalah privasi yang lebih serius.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “Daftar fitur { -brand-name-mozilla-vpn } telah berkembang pesat sejak diluncurkan, dan layanan ini kini mengalahkan banyak VPN spesialis di beberapa wilayah.”
