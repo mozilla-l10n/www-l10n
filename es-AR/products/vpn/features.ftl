@@ -41,20 +41,20 @@ vpn-features-encrypt-your-internet = Cifra todo tu tráfico de internet
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } protege todas las aplicaciones de tu dispositivo, no solo al navegador.
 vpn-features-stronger-malware = Mayor protección contra malware
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } evita que descargués malware de fuentes inseguras conocidas.
-vpn-features-super-private-mode = Modo superprivado: dirige el tráfico a través de dos ubicaciones
+vpn-features-super-private-mode = Modo superprivado: rutear el tráfico a través de dos ubicaciones
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Nuestra <a { $feature }> función de saltos múltiples </a> te da un impulso adicional de seguridad.
 vpn-features-support-for-custom-dns = Soporte para DNS personalizado
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
-vpn-features-keep-traffic-protected = Con { -brand-name-mozilla-vpn }, podés mantener tu tráfico protegido y aún enrutar tus consultas de DNS donde prefieras. <a { $dns }> Aprende más sobre la compatibilidad con DNS personalizado </a>.
+vpn-features-keep-traffic-protected = Con { -brand-name-mozilla-vpn }, podés mantener tu tráfico protegido y aún rutear tus consultas de DNS donde prefieras. <a { $dns }>Conocé más sobre la compatibilidad con DNS personalizado</a>.
 vpn-features-flexible = Flexible
 vpn-features-personalized-server = Recomendaciones personalizadas de ubicación del servidor
 vpn-features-well-suggest-which-servers = Te sugeriremos qué servidores cercanos asegurarán la conexión a Internet más rápida y confiable.
-vpn-features-personalize-which-apps = Personalizar que aplicaciones obtienen protección VPN
-vpn-features-easily-exclude-apps = Excluya fácilmente aplicaciones de la protección de la VPN, no es necesario desconectar su dispositivo de { -brand-name-mozilla-vpn }. Disponible en dispositivos Windows, Android y Linux.
-vpn-features-set-different-locations = Establecer diferentes ubicaciones para cada pestaña en { -brand-name-firefox }
+vpn-features-personalize-which-apps = Personalizá que aplicaciones tendrán protección con VPN
+vpn-features-easily-exclude-apps = Excluí fácilmente aplicaciones de la protección de la VPN — no es necesario desconectar tu dispositivo de { -brand-name-mozilla-vpn }. Disponible en dispositivos Windows, Android y Linux.
+vpn-features-set-different-locations = Establecé diferentes ubicaciones para cada pestaña en { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Combine { -brand-name-mozilla-vpn } con la extensión { -brand-name-firefox } de contenedores múltiples y establezca diferentes ubicaciones de VPN para cada pestaña de { -brand-name-firefox }. <a { $container }> Descubre cómo </a>.
