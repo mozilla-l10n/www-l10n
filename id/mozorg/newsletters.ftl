@@ -155,6 +155,7 @@ newsletters-your-content-wasnt-relevant = Konten Anda tidak relevan bagi saya.
 newsletters-your-email-design = Rancangan email Anda terlalu sulit untuk dibaca.
 newsletters-i-didnt-sign-up = Saya tidak mendaftar untuk ini.
 newsletters-please-select-a-reason = Silakan pilih alasan berhenti berlangganan.
+newsletters-fxa-error-retry = Maaf, tampaknya ada masalah saat mengarahkan Anda ke preferensi email. Coba formulir di bawah ini.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
