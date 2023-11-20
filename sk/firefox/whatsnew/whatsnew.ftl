@@ -12,14 +12,7 @@ whatsnew-page-description = Postavte sa proti spoločnostiam, ktoré predávajú
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Gratulujeme, používate najnovšiu verziu { -brand-name-firefox(case: "gen") }.
-# Obsolete string
-whatsnew-up-to-date-notification = Gratulujeme, používate najnovšiu verziu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = K dispozícii je ešte novšia verzia { -brand-name-firefox(case: "gen") }. <a href="{ $url }">Aktualizovať na najnovšiu verziu</a>.
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = K dispozícii je novšia verzia { -brand-name-firefox(case: "gen") }. Ak ju chcete nainštalovať, reštartujte aplikáciu.
+whatsnew-update-notification = Váš prehliadač { -brand-name-firefox } bol aktualizovaný.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Prečítajte si <a href="{ $url }">poznámky k vydaniu</a> a získajte viac informácií o novinkách vo { -brand-name-firefox(case: "loc") }.
