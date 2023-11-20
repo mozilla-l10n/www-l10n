@@ -46,3 +46,8 @@ vpn-features-super-private-mode = Szuperprivát mód: a forgalom átirányítás
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = A <a { $feature }>többugrásos funkciónk</a> további biztonságot nyújt.
 vpn-features-support-for-custom-dns = Egyéni DNS támogatása
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = A { -brand-name-mozilla-vpn } segítségével megvédheti a forgalmát, és a DNS-lekérdezéseit továbbra is oda irányíthatja, ahová csak szeretné. <a { $dns }>Tudjon meg többet az egyéni DNS támogatásáról</a>.
+vpn-features-flexible = Rugalmas
+vpn-features-personalized-server = Személyre szabott kiszolgálóhely-ajánlások
