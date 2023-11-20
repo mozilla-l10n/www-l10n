@@ -41,6 +41,7 @@ vpn-features-encrypt-your-internet = Embopapapy nde rapykuere ñandutípe
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } omo’ã tembiporu’i ne mba’e’okagua, ndaha’éi kundahára año.
 vpn-features-stronger-malware = Ñemo’ãve malware rovake
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } omboyke malware ñemboguejy teñoiha ojekuaáva hekorosã’ỹvagui.
+vpn-features-super-private-mode = Ñemiguaite ayvu: ombohape ñeikundaha mokõi tendaite rupive
 vpn-features-flexible = Pepykuaáva
 vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
