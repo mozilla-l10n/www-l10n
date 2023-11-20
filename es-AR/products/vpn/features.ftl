@@ -44,7 +44,7 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } evit
 vpn-features-super-private-mode = Modo superprivado: rutear el tráfico a través de dos ubicaciones
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = Nuestra <a { $feature }> función de saltos múltiples </a> te da un impulso adicional de seguridad.
+vpn-features-multi-hop-feature = Nuestra <a { $feature }>función multisaltos</a> te da una mejora adicional de seguridad.
 vpn-features-support-for-custom-dns = Soporte para DNS personalizado
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
@@ -57,7 +57,7 @@ vpn-features-easily-exclude-apps = Excluí fácilmente aplicaciones de la protec
 vpn-features-set-different-locations = Establecé diferentes ubicaciones para cada pestaña en { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Combine { -brand-name-mozilla-vpn } con la extensión { -brand-name-firefox } de contenedores múltiples y establezca diferentes ubicaciones de VPN para cada pestaña de { -brand-name-firefox }. <a { $container }> Descubre cómo </a>.
+vpn-features-combine-mozilla-vpn-with-containers = Combiná { -brand-name-mozilla-vpn } con la extensión de { -brand-name-firefox } de contenedores multicuentas y establecé diferentes ubicaciones de VPN para cada pestaña de { -brand-name-firefox }. <a { $containers }>Conocé como hacerlo</a>.
 vpn-features-trustworthy = Confiable
 vpn-features-money-back = 30 días de garantía de devolución de dinero
 vpn-features-plus-customer-support = Además de soporte al cliente 24/7.
