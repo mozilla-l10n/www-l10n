@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-features-convenient = 省心
+vpn-features-including-no-data = 不限流、不限速。
 vpn-features-encrypt-your-internet = 加密所有互联网流量
 vpn-features-support-for-custom-dns = 支持自定义 DNS
 vpn-features-flexible = 灵活
