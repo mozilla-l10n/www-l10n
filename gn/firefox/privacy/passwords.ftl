@@ -35,7 +35,7 @@ privacy-passwords-the-lock-means = Pe mbotyha he’ise pe ñanduti renda eiporú
 privacy-passwords-a-padlock-with = Peteĩ mbotyha juasapyre tairenda ndive ohechauka nahekorosãiha jeike.
 privacy-passwords-your-browser-also = Ne kundahára ne pytyvõta avei eñemorandu hag̃ua tendakuéra jeroviaha rehegua, ne pytyvõkuaa hag̃ua phishing rembiapova’ígui. Péicharamo, eikese vove ñanduti renda ha’ekuaáva phishing, { -brand-name-firefox } (ha oimeraẽva kundahára) ohechaukáta kyhyjerã mba’erechaha tuichavévape — <strong>ema’ẽ ha eñamindu’u mokõi jey eiporu hag̃ua pe tenda</strong>
 privacy-passwords-firefox-will-v2 = { -brand-name-firefox } ohechaukáta peteĩ kyhyjerã pe ñanduti rendápe térã tenda phishing ojekuaávape.
-# Outdated string
+# Obsolete string
 privacy-passwords-firefox-will = Firefox ohechaukáta kyhyjerã pe ñanduti rendápe térã tenda phishing ojekuaávape.
 privacy-passwords-in-general-the = Tuichaháicha, eñemo’ã hag̃ua phishing rovake ha’e <strong>ani ejerovia og̃uahẽvare</strong>, taha’e ñanduti veve, ñe’ẽmondo moñe’ẽrãva térã pumbyrýpe. Eikerangue tendápe ñe’ẽmondo og̃uahẽvagui, eike tendápe ejere’ỹre. Techapyrã, pe ñanduti veve he’írõ eikotevẽha eguerujey ne ñe’ẽñemi PayPal guive, ani eikutu pe juajuha. Ehai paypal.com peichaite. Pe banco guive nerenóiramo, ehenóijey upe rire.
 privacy-passwords-strength-in-diversity = Mbarete oĩ tekoetápe
@@ -43,6 +43,8 @@ privacy-passwords-the-secret-to = Emboykekuaa hag̃ua mba’éichapa oikuaáta, 
 #   $url_linkedin (string) - link to https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised with additional attributes for analytics
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Peteĩ tekoveñaña omondárõ ne ñe’ẽñemi mba’ekuaarã oĩha tenda eiporúva (ha’éva <a { $url_linkedin }>LinkedIn</a> térã <a { $url_yahoo }>Yahoo</a>), nderejapokuaamo’ãi mba’eve emoambue’ỹre ñe’ẽñemi pe tendápe g̃uarã. Péva ivai, hákatu pe ñembyai ikatu ivaive reiporujeýrrõ ñe’ẽñemi ambue ñanduti rendápe; upéicharamo pe tekoveñaña avei oikekuaa ne mba’etépe umi tenda rupive. Emomichĩve hag̃ua ñembyai, <strong>oiporu tapiaite ambuéva ñe’ẽñemi peteĩteĩva ñanduti rendápe.</strong>
+#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+privacy-passwords-use-mozilla-monitor = Oiporu <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
 # Obsolete string
 #   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Oiporu <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> oma’ẽ ñanduti veve kundaharape ojuajúva ne mba’etére. Ne ñanduti veve kundaharape ojekuaárõ mba’ekuaarã mboguaha atyguasu herakuãva, eñeñatõita ha oje’éta mba’épa ejapóta emo’ã hag̃ua ne mba’ete iñapañuãiva.
@@ -54,6 +56,8 @@ privacy-passwords-now-all-of = Tapicha akãreñói ndaikatupyrypái omoheñói h
 # Obsolete string
 #   $url_sumo-manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
 privacy-passwords-when-youre-logged = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-firefox } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.
+#   $url_sumo_manager (string) - link to https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins with additional attributes for analytics
+privacy-passwords-when-youre-logged-v2 = Eike vove { -brand-name-firefox }-pe ne mba’ete { -brand-name-mozilla-account } pegua rupive, embojuehekuaa opaite ne mba’e’okápe ha eikekuaa ne ñe’ẽñemíme pumbyry kundahára guive { -brand-name-firefox }. Eñemomarunduve <a { $url_sumo-manager }>mba’éichapa eñangarekóta ne ñe’ẽñemi ojuajúva rehe</a>.
 privacy-passwords-twofactor-authentication-2fa = Ñemboaje mokõi mba’ére (2FA)
 privacy-passwords-2fa-is-a = 2FA ha’e peteĩ tembiporu ne rekorosãverã. Embohekóvo peteĩ mba’ete pyahu, oĩ tenda ome’ẽkuaáva ndéve embojuajukuaa hag̃ua “mokõiha mba’e” pe nde jeiképe. Py’ỹinte, kóva omoingese ne pumbyry papapy mba’etére, upévare emoinge rire ne ñe’ẽñemi, ojejeruréta ndéve ehai hag̃ua peteĩ tekorosãrã ayvu og̃uhẽtava ndéve ñe’ẽmondo rupive. Kóicha oikóramo, peteĩ mba’evaiapoha oikuaa sapy’áramo ne ñe’ẽñemi, ndoikekuaamo’ãi ne mba’etépe ndoguerekóire ne pumbyry.
 # Obsolete string
@@ -68,7 +72,7 @@ privacy-passwords-for-better-or = Iporã térã ivai hag̃ua, roiporúta ñe’�
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = Pe ñanduti ko’ag̃agua, oñemondahápe hetaiterei ñe’ẽñemi opaite ára ha umi mba’ete oñehepyme’ẽ tendavaípe, eñeha’ãkena eñemohekorosã eike hag̃ua ñandutípe. Eiporu vove { -brand-name-firefox } mba’éva, nombohasýi ko tembiapo, opavave ore rojapopyréva oñemoheñói oku’e hag̃ua ore <a { $url_privacy_products }>tekorosã ñemiguáva he’iháicha</a>. Ha { -brand-name-firefox } opavave ára oguata he’icháicha pe <a { $url_about_manifesto }>{ -brand-name-mozilla } rembipota</a>, ko atyguasu viru’ỹguáva ore ykekóva, rojapo hag̃ua peteĩ Ñanduti iporãvéva.
-# Outdated string
+# Obsolete string
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet = Pe ñanduti ko’ag̃agua, oñemondahápe hetaiterei ñe’ẽñemi opaite ára ha umi mba’ete oñehepyme’ẽ tendavaípe, eñeha’ãkena eñemohekorosã eike hag̃ua ñandutípe. Eiporu vove { -brand-name-firefox } mba’éva, nombohasýi ko tembiapo, opavave ore rojapopyréva oñemoheñói oku’e hag̃ua ore <a { $url_privacy_products }>tekorosã ñemiguáva he’iháicha</a>. Ha { -brand-name-firefox } opavave ára oguata he’icháicha pe <a { $url_about_manifesto }>Mozilla rembipota</a>, ko atyguasu viru’ỹguáva ore ykekóva, rojapo hag̃ua peteĩ Ñanduti iporãvéva.
