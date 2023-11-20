@@ -49,6 +49,7 @@ vpn-landing-one-subscription-for-all-your = Uma única assinatura para todos os 
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Com tecnologia { -brand-name-mozilla }.</strong> Lutando pelo seu direito à privacidade desde 1998.
 vpn-landing-learn-more-from-our-experts = Saiba mais com nossos especialistas
+vpn-landing-do-you-need-a-vpn-at-home = Precisa de uma VPN em casa? Aqui estão 5 razões pelas quais você pode precisar.
 vpn-landing-what-is-an-ip-address = O que é um endereço IP?
 vpn-landing-how-your-location-is-tracked = Como sua localização é rastreada e como você pode limitar o compartilhamento dela
 vpn-landing-see-more-resources = Ver mais recursos
