@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Ove praznične sezone pomozite { -brand-name-mozilla } u borbi za bolji internet.
-banner-fundraising-title-giving-day = Ovog Utorka darivanja pomozite { -brand-name-mozilla } u borbi za bolji internet.
-# Outdated string
-banner-fundraising-title = O budućnosti se odlučuje online. { -brand-name-mozilla } treba tvoju pomoć u borbi za web za sve nas.
-banner-fundraising-body-v2 = Ponosno smo neprofitna organizacija, radimo na održavanju zdravlja weba. Vaši doprinosi pomažu u izgradnji sigurnog i otvorenog interneta.
-# Outdated string
-banner-fundraising-body = Naši lični podaci se prikupljaju svaki put kad pristupimo webu i nije lahko saznati što se s njima događa. Dezinformacije nam otežavaju pronalaženje istine. Uređaji povezani s internetom plasiraju se na tržište bez zadovoljavanja minimalnih sigurnosnih standarda. Neprofitna organizacija { -brand-name-mozilla-foundation } bori se da internet učini sigurnim, otvorenim i dostupnim svima. <strong>Želite li donirati danas?</strong>
-banner-fundraising-body-extra = Možete li donirati danas?
-banner-fundraising-monthly = Mjesečno
-banner-fundraising-one-time = Jednom
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Donirajte { -brand-name-mozilla }-i za praznik Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Vrijeme je da povratite internet od dominantnih tehnoloških kompanija. Možete li donirati { -brand-name-mozilla }i za Giving Tuesday?
+banner-fundraising-title-1 = Donirajte { -brand-name-mozilla }i. Povratite internet.
+banner-fundraising-tagline-1 = Vrijeme je da se internet vrati od dominantnih tehnoloških kompanija. Možete li donirati { -brand-name-mozilla }i?
+banner-fundraising-title-2 = Vratite kontrolu nad internetom.
+banner-fundraising-tagline-2 = Ljudi više nemaju kontrolu na internetu. Internet kontrolišu velike tehnološke kompanije. Donirajte { -brand-name-mozilla }i i povratite internet.
+banner-fundraising-title-3 = Možete li donirati { -brand-name-mozilla }i?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } uvijek stavlja ljude iznad profita. Donirajte { -brand-name-mozilla }-i i pomozite da internet bude zdrav.
 banner-fundraising-donate = Doniraj
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = $ { $amount }
