@@ -15,6 +15,7 @@ hero-section-title = Güvenli telefon ve e-posta maskeleme ile kimliğinizi koru
 
 how-it-works-section-title = { -brand-name-relay } e-posta ve telefon maskeleme nasıl çalışır?
 how-it-works-section-extension-headline = { -brand-name-relay } e-posta ve telefon maskelerini her yerde kullanın
+how-it-works-section-manage-headline = Maskelerinizi { -brand-name-relay } kontrol panelinizden yönetebilirsiniz
 
 ## REVIEWS SECTION
 

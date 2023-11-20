@@ -8,5 +8,7 @@
 
 ## HIGHLIGHTED FEATURES SECTION
 
+highlighted-features-section-title = Kimliğinizi korumaya yardımcı olacak güvenli, basit özellikler
+highlighted-features-section-bottom-title = { -brand-name-firefox-relay } ile kimliğinizi (ve gelen kutunuzu) koruyun
 highlighted-features-section-bottom-cta = Kullanmaya başlayın
 highlighted-features-section-unlimited-masks-headline = Sınırsız e-posta maskesi oluşturun
