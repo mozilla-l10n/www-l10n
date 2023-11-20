@@ -8,6 +8,8 @@
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 vpn-landing-whats-a-vpn = Que es un VPN?
+vpn-landing-blocks-advertisers-from = Bloca le publicitarios ab prender te de mira
+vpn-landing-hide-your-activity-from = Cela tu activitate ab traciatores e malware assi que tu pote comprar sin esser surveliate.
 vpn-landing-features = Functiones
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
