@@ -12,14 +12,7 @@ whatsnew-page-description = Védje meg önmagát és adatait azzal a szektorral 
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Gratulálunk! A legfrissebb { -brand-name-firefox } verziót használja.
-# Obsolete string
-whatsnew-up-to-date-notification = Gratulálunk! A legfrissebb { -brand-name-firefox-browser } verziót használja.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Elérhető egy még újabb { -brand-name-firefox }. <a href="{ $url }">Frissítés a legújabb verzióra</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Egy újabb { -brand-name-firefox } verzió is rendelkezésre áll. A frissítéshez indítsa újra számítógépét.
+whatsnew-update-notification = A { -brand-name-firefox }a frissítve lett.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Olvassa el a <a href="{ $url }">Frissítés részleteit</a>, amelyből még több információt kaphat a { -brand-name-firefox } böngésző újdonságairól.
