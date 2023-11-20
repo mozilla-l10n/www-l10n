@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Toegang tot { $servers } server in meer dan { $countries } landen
+       *[other] Toegang tot { $servers } servers in meer dan { $countries } landen
+    }
 vpn-pricing-annual = Jaarlijks
 vpn-pricing-monthly = Maandelijks
 vpn-pricing-get-annual-subscription = Jaarabonnement afsluiten
