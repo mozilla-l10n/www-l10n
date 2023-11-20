@@ -4,25 +4,17 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = ساعد { -brand-name-mozilla } على العمل لتوفير إنترنت أفضل في موسم الأعياد هذا.
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = تبرّع لـ { -brand-name-mozilla } من أجل ثلاثاء العَطاء
+banner-fundraising-giving-tuesday-tagline = آن الأوان لاستعادة الإنترنت من الشركات العملاقة. هل يُمكنك التبرّع لـ { -brand-name-mozilla } من أجل ثلاثاء العَطاء؟
 
-banner-fundraising-title-giving-day = ساعد { -brand-name-mozilla } على العمل لتوفير إنترنت أفضل في ثلاثاء العَطاء هذا العام.
+banner-fundraising-title-1 = تبرّع لـ { -brand-name-mozilla }. استعادة الإنترنت.
+banner-fundraising-tagline-1 = آن الأوان لاسترجاع الإنترنت من الشركات العملاقة. هل يُمكنك التبرّع لـ { -brand-name-mozilla }؟
 
-# Obsolete string
-banner-fundraising-title = المستقبل يتحدّد عبر الإنترنت. ساعد { -brand-name-mozilla } على العمل من أجل ويب أفضل لنا جميعًا.
+banner-fundraising-title-2 = استعد السيطرة على الإنترنت.
+banner-fundraising-tagline-2 = لم يعد الناس يتحكّمون بالإنترنت. الشركات العملاقة هي المُتحكّمة. تبرّع لـ { -brand-name-mozilla } واستعد الإنترنت.
 
-banner-fundraising-body-v2 = بكل فخر نحن شركة لا تستهدف الربح ونعمل للحفاظ على أمان الويب. مُساهماتكم تُساعدنا على بناء إنترنت آمن ومفتوح.
+banner-fundraising-title-3 = هل يُمكنك التبرّع لـ { -brand-name-mozilla }؟
+banner-fundraising-tagline-3 = { -brand-name-mozilla } دائمًا ما تمنح الأولوية للناس عن الأرباح. تبرّع لـ { -brand-name-mozilla } وساعِد على بقاء الإنترنت آمنًا.
 
-# Obsolete string
-banner-fundraising-body = يَتم جمع بياناتِنا الشخصية في كل مرة ندخل فيها إلى الويب، وليس من السهل أن نعرف ما يحدث لها. كما تُصعّب المعلومات المُضلّلة علينا الوصول إلى الحقيقة. يَتم دفع الأجهزة المتصلة بالإنترنت إلى الأسواق بدون أن تفي بالحد الأدنى من معايير الأمان. تَسعى { -brand-name-mozilla-foundation } بكل ما أوتيت من قوة لجعل الإنترنت آمنًا ومفتوحًا ومتاحًا للجميع. <strong>هل سَتتبرع اليوم؟</strong>
-
-banner-fundraising-body-extra = هل يُمكنك التبرّع اليوم؟
-banner-fundraising-monthly = شهريًا
-banner-fundraising-one-time = مرّة واحدة فقط
 banner-fundraising-donate = تبرّع
-
-# Obsolete string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = ${ $amount }
