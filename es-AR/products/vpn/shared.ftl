@@ -169,6 +169,6 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } aún n
 vpn-press-as-seen-in = Como se ve en
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
-vpn-press-mozillas-vpn-can-also-integrate-into = “La VPN de { -brand-name-mozilla } también se puede <a { $attrs }> integrarse en algunas funciones ingeniosas de protección de la privacidad </a> de su navegador { -brand-name-firefox }".
-vpn-press-unique-features-like-its-multi-account = "... las características únicas, como sus contenedores de múltiples cuentas, podrían hacer que la función sea fácilmente accesible para los usuarios con problemas de privacidad más graves".
-vpn-press-mozilla-vpns-feature-list-has-grown = “La lista de funcionalidades de { -brand-name-mozilla-vpn } ha crecido considerablemente desde el lanzamiento y el servicio ahora supera a muchas VPNs especializadas en algunas áreas".
+vpn-press-mozillas-vpn-can-also-integrate-into = “La VPN de { -brand-name-mozilla } también puede <a { $attrs }>integrarse en algunas funciones ingeniosas de protección de la privacidad</a> del navegador { -brand-name-firefox }”.
+vpn-press-unique-features-like-its-multi-account = “… características únicas, como sus contenedores multicuentas, podrían hacer que la función sea fácilmente accesible para los usuarios con preocupación seria sobre la privacidad.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “La lista de funcionalidades de { -brand-name-mozilla-vpn } ha crecido considerablemente desde el lanzamiento y el servicio ahora supera a muchas VPNs especializadas en algunas áreas.”

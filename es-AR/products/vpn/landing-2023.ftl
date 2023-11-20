@@ -44,6 +44,7 @@ vpn-landing-no-bandwidth-restrictions-or = Sin restricciones de ancho de banda n
 vpn-landing-extra-security-whole-device = Seguridad adicional: protección completa del dispositivo, enrutamiento multisalto y más
 vpn-landing-see-all-features = Ver todas las funcionalidades
 vpn-landing-fram-a-brand-you-can-trust = De una marca en la que podés confiar
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } es una empresa de Internet sin fines de lucro que está luchando por una Web saludable desde 1998.
 vpn-landing-one-subscription-for-all-your = Una suscripción para todos tus dispositivos
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong> Desarrollado por { -brand-name-mozilla }. </strong> Luchando por tu derecho a la privacidad desde 1998.
