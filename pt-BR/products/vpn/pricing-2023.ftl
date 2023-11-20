@@ -37,6 +37,10 @@ vpn-pricing-refund-policy = Qual é a política de reembolso do { -brand-name-mo
 vpn-pricing-the-first-time-you = Na primeira vez que fizer uma assinatura do { -brand-name-mozilla-vpn } pelo site da { -brand-name-mozilla }, se você cancelar sua conta nos primeiros 30 dias poderá pedir um reembolso e a { -brand-name-mozilla } devolverá seu primeiro período de assinatura.
 vpn-pricing-if-you-purchased = Se você comprou sua assinatura por meio de compra dentro do aplicativo na Apple App Store ou na Google Play Store, seu pagamento está sujeito aos termos e condições da loja de aplicativos. Você deve encaminhar quaisquer consultas de cobrança e reembolso de tais compras à Apple ou ao Google, conforme apropriado.
 vpn-pricing-what-information = Quais informações o { -brand-name-mozilla-vpn } guarda?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Seguimos rigorosamente os <a { $principles }>princípios de privacidade de dados</a> da { -brand-name-mozilla }. Só coletamos os dados necessários para manter o { -brand-name-mozilla-vpn } operacional e melhorar o produto ao longo do tempo. Também acompanhamos dados de campanhas e indicação em nosso aplicativo de dispositivos móveis para ajudar a { -brand-name-mozilla } a compreender a eficácia de nossas campanhas de marketing. Leia mais em nosso <a { $notice }>aviso de privacidade</a>.
 vpn-pricing-how-do-i-manage = Como gerenciar minha assinatura e alterar meu plano?
 # Variables
 # $manage (url) - link to subscription management page
