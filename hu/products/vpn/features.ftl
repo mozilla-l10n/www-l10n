@@ -40,3 +40,9 @@ vpn-features-automatically-block-ads = A { -brand-name-mozilla-vpn } segít auto
 vpn-features-encrypt-your-internet = Titkosítsa a teljes internetes forgalmát
 vpn-features-vpn-protects-all-apps = A { -brand-name-mozilla-vpn } az összes alkalmazást védi az eszközén, nem csak a böngészőjét.
 vpn-features-stronger-malware = Erősebb védelem a rosszindulatú programok ellen
+vpn-features-vpn-prevents-downloading-malware = A { -brand-name-mozilla-vpn } megakadályozza, hogy ismert nem biztonságos forrásokból töltsön le rosszindulatú programokat.
+vpn-features-super-private-mode = Szuperprivát mód: a forgalom átirányítása két helyen is
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = A <a { $feature }>többugrásos funkciónk</a> további biztonságot nyújt.
+vpn-features-support-for-custom-dns = Egyéni DNS támogatása
