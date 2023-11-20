@@ -11,5 +11,6 @@ pdf-editor-pdf-editor = PDF düzenleyicisi
 pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’lere metin ekleyin
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = PDF dosyalarını doğrudan { -brand-name-firefox }’ta görüntüleyip düzenleyin.
+pdf-editor-fill-in-forms-online-without = Formları yazdırmadan ve taramadan çevrimiçi doldurun
 pdf-editor-add-text = Metin ekleyin
 pdf-editor-add-drawings-or-your-signature = Çizim (veya imzanızı) ekleyin

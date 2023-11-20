@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
+# HTML page title
+mozsocial-invite-join-the-waitlist = { -brand-name-mozilla-social } bekleme listesine katılın
 mozsocial-invite-welcome-to-mozillasocial = { -brand-name-mozilla-social }’a hoş geldiniz!
 mozsocial-invite-please-join-our-waitlist = Lütfen aşağıdaki formu doldurarak bekleme listemize katılın.
 mozsocial-invite-required-label = Gerekli

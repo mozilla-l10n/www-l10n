@@ -41,10 +41,15 @@ faq-question-8-question = { -brand-name-firefox-relay } hangi verileri topluyor?
 faq-question-email-storage-question = { -brand-name-relay } e-postalarımı saklıyor mu?
 faq-question-email-storage-answer = Hizmetin çalışmadığı ender durumlarda e-postalarınızı gönderene kadar geçici olarak saklayabiliriz. E-postalarınızı asla üç günden fazla saklamayız.
 faq-question-acceptable-use-question = { -brand-name-relay }’in kabul edilebilir kullanım alanları nelerdir?
+faq-question-acceptable-use-answer-measure-account-v2 = E-posta adresi doğrulanmış bir { -brand-name-mozilla-account } gereklidir
 # Obsolete string
 faq-question-acceptable-use-answer-measure-account = Doğrulanmış bir e-posta adresine sahip bir { -brand-name-firefox-account } gereklidir
 faq-question-acceptable-use-answer-measure-unlimited-payment-2 = Bir kullanıcının beşten fazla maske oluşturması için ödeme yapılması zorunludur
 faq-question-acceptable-use-answer-measure-rate-limit-2 = Bir günde üretilebilecek maske sayısı limiti
+faq-question-disable-trackerremoval-question = E-posta takip kodlarını kaldırmayı durdurabilir miyim?
+faq-question-disable-trackerremoval-answer = Evet. E-postaların bozuk görünmesiyle ilgili sorun yaşıyorsanız veya e-posta takip kodlarını kaldırmayı durdurmak istiyorsanız ayarlardan bu özelliği devre dışı bırakabilirsiniz.
+faq-question-bulk-trackerremoval-question = E-posta takip kodlarını sadece belirli e-posta maskelerimden kaldırabilir miyim?
+faq-question-trackerremoval-breakage-question = E-postalarım neden bozuk görünüyor?
 
 ## Frequently Asked Questions about Phone plans
 

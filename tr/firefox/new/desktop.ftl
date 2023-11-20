@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }, { -brand-name-m
 firefox-desktop-download-og-title = Bugüne kadarki en hızlı { -brand-name-firefox }’u indirin
 firefox-desktop-download-og-desc = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Daha yeni bir { -brand-name-firefox } sürümü mevcut. <a { $update_url }>Son sürüme güncelleme yapın</a>
 firefox-desktop-download-get-the-browser = Önemli olanı koruyan tarayıcıyı indirin
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Anlaşılmaz gizlilik ilkelerimiz yok. Reklamcılara açık kapı bırakmak yok. Sizi satmayan, ışık hızında bir tarayıcı.
@@ -133,6 +136,7 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza daha fazla odaklanıyor. Buna <a { $attrs }>Kişisel Veri Sözü</a> diyoruz: Daha az topla. Güvenle sakla. Sır tutma. Verileriniz, internette yaptıklarınız ve çevrimiçi yaşamınız { -brand-name-firefox } ile güvende.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox }’u tüm cihazlarınızda kullanabilirsiniz: Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşıyın. Tek ihtiyacınız bir <a { $attrs }>{ -brand-name-firefox } hesabı</a>.
@@ -147,8 +151,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Tarayıcınızı indirmeye hazırsınız. Diğer { -brand-name-firefox } ürünlerine de bakmaya ne dersiniz?
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
-# Outdated string
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-lockwise } ile parolalarınızı koruyabilir ve çok daha fazlasını yapabilirsiniz.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
@@ -167,7 +173,7 @@ firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın<
 firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
+# Obsolete string
 firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -176,7 +182,7 @@ firefox-desktop-download-visit-support-for-more = Daha fazla bilgi için destek 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">Artık { -brand-name-firefox } tarafından desteklenmeyen</a>, güvenli olmayan ve eski bir işletim sistemi kullanıyorsunuz.

@@ -44,3 +44,5 @@ privacy-index-firefox-fire-tv = { -brand-name-fire-tv } için { -brand-name-fire
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } Abonelik Hizmetleri
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = { -brand-name-mozilla } Hesapları

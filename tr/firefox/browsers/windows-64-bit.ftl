@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = “(32 bit)” yazıyorsa ve { -brand-n
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = 32 bit { -brand-name-firefox } kullanmak veya 64 bit { -brand-name-firefox }’u elle yüklemek istiyorsanız istediğiniz { -brand-name-firefox } { -brand-name-windows } yükleyicisini (32 bit veya 64 bit) <a href="{ $all }">{ -brand-name-firefox } platformları ve dilleri için indirme sayfasından</a> indirip çalıştırmanız yeterli.
 windows-64-bit-take-control-of-your = Tarayıcınızın kontrolünü elinize alın.
+windows-64-bit-download-firefox = Windows 64 bit için { -brand-name-firefox }’u indir

@@ -20,6 +20,7 @@ page7-stay-ahead-of-hackers = Hacker’ların önüne geçin
 page7-firefox-monitor-lets-you-find-v2 = Ücretsiz { -brand-name-mozilla-monitor }, hacker’ların sizin hakkınızda neler bildiklerini öğrenmenizi ve onlardan bir adım önde olmanızı sağlar.
 # Obsolete string
 page7-firefox-monitor-lets-you-find = Ücretsiz { -brand-name-firefox-monitor }, hacker’ların sizin hakkınızda neler bildiklerini öğrenmenizi ve onlardan bir adım önde olmanızı sağlar.
+page7-get-mozilla-monitor = { -brand-name-mozilla-monitor }’ü edinin
 # Obsolete string
 page7-get-firefox-monitor = { -brand-name-firefox-monitor }’ü deneyin
 page7-why-am-i-seeing-this = Bunu neden görüyorum?

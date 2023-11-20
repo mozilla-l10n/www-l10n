@@ -46,8 +46,10 @@ firefox-privacy-hub-learn-about-our-products = Ürünlerimiz hakkında bilgi al�
 firefox-privacy-hub-firefox-privacy-by-the = Her { -brand-name-firefox } ürününde gizlilik
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } her üründe gizliliğinizi korur.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } her üründe gizliliğinizi korur.
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } her üründe gizliliğinizi <strong>korur</strong>
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } her üründe gizliliğinizi <strong>korur</strong>
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2.000’den fazla izleyiciyi otomatik olarak engelliyoruz
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -63,13 +65,16 @@ firefox-privacy-hub-meet-four-of-the-most-common = Sizi takip edemeyecek dört t
 firefox-privacy-hub-always-in-your-control = Her zaman kontrolünüz altında
 firefox-privacy-hub-want-to-customize-what = Engellenenleri özelleştirmek mi istiyorsunuz? Ayarlarınız yalnızca bir tık uzağınızda.
 firefox-privacy-hub-protection-beyond-tracking = İzlemenin ötesinde koruma
+firefox-privacy-hub-if-you-have-a-mozilla-account = { -brand-name-mozilla-account } hesabınız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 # Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = { -brand-name-firefox-account }nız varsa kişisel bilgilerinizi ve parolalarınızı korumanıza nasıl yardımcı olduğumuzu da görebilirsiniz.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = { -brand-name-firefox } kullanıcıları için her gün en az { $trackers } takip kodunu engelliyoruz
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = E-posta adresinizi { -brand-name-mozilla-monitor }'e girdiğinizde, bilinen veri ihlallerini kontrol ettikten sonra e-posta adresinizi anında siliyoruz. Sadece yeni ihlalleri takip etmemize izin verirseniz e-posta adresinizi saklıyoruz.
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = E-posta adresinizi { -brand-name-firefox-monitor }'e girdiğinizde, bilinen veri ihlallerini kontrol ettikten sonra e-posta adresinizi anında siliyoruz. Sadece yeni ihlalleri takip etmemize izin verirseniz e-posta adresinizi saklıyoruz.
 firefox-privacy-hub-check-for-breaches = İhlalleri kontrol edin
@@ -85,10 +90,17 @@ firefox-privacy-hub-get-pocket = { -brand-name-pocket }’ı edinin
 firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account }ınız
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account }nız
+firefox-privacy-hub-all-the-information-synced-v2 = Tarayıcı geçmişinden parolalara kadar { -brand-name-mozilla-account } ile eşitlenen tüm bilgiler şifrelenir. Tek anahtar da hesap parolanızdır.
 # Obsolete string
 firefox-privacy-hub-all-the-information-synced = Tarayıcı geçmişinden parolalara kadar { -brand-name-firefox-account } ile eşitlenen tüm bilgiler şifrelenir. Tek anahtar da hesap parolanızdır.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = { -brand-name-mozilla-account } ile gizliliğinizi ve yer imlerinizi her yere götürün.
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = { -brand-name-firefox-account } ile gizliliğinizi ve yer imlerinizi her yere götürün.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Zaten hesabınız var mı? <a { $sign_in } class="{ $class_name }">Giriş yapın</a> veya { -brand-name-mozilla }’ya katılma hakkında <a href="{ $learn_more }">daha fazla bilgi alın</a>.
 # Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes

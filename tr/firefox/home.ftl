@@ -7,8 +7,12 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Gizliliğinize önem veren ürünlerle internetteki yaşamanızı koruyun
 firefox-home-firefox-is-more-than = { -brand-name-firefox } sadece bir tarayıcı değil. Verilerinize saygı gösteren, internette gittiğiniz her yerde gizliliğiniz korumak için tasarlanmış { -brand-name-firefox } ürünleriyle tanışın.
+# Obsolete string
 firefox-home-the-browser-is-just = Tarayıcı sadece başlangıçtı
+firefox-home-firefox-is-just = { -brand-name-firefox } yalnızca başlangıç.
+# Obsolete string
 firefox-home-meet-our-family-of = Ürün ailemizle tanışın
+firefox-home-meet-mozillas-family = { -brand-name-mozilla } ürün ailesiyle tanışın
 firefox-home-get-trackers-off = 2.000’den fazla takip koduna izinizi kaybettirin: { -brand-name-facebook } dahil
 firefox-home-know-when-hackers-strike = Hacker saldırılarından haberiniz olsun, hep bir adım önde olun
 firefox-home-start-getting-breach = İhlal raporlarına kaydolun
@@ -20,7 +24,9 @@ firefox-home-keep-your-passwords = Parolalarınızı tüm cihazlarınızda güve
 firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Hak ettiğiniz <strong>saygıyı</strong> görme zamanı
+# Obsolete string
 firefox-home-every-single-firefox = { -brand-name-firefox } ürünlerinin hepsinde Kişisel Veri Sözü’müzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
+firefox-home-every-single-mozilla = { -brand-name-mozilla } ürünlerinin hepsinde Kişisel Veri Sözü’müzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
 # Obsolete string
 firefox-home-share-large-files-without = Büyük dosyaları meraklı gözlere takılmadan paylaşın
 # Obsolete string
@@ -52,6 +58,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }

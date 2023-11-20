@@ -37,6 +37,9 @@ vpn-landing-brand-trust-desc = { -brand-name-mozilla }, 20 yılı aşkın bir s�
 
 vpn-landing-faq-heading = SSS
 vpn-langing-faq-uses-question-heading = VPN nedir ve neden kullanılır?
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-landing-faq-uses-conceal-v2 = Gerçek <a href="{ $url }">IP adresinizi</a> gizler. Böylece hem kimliğiniz korunur hem de konumunuz gizlenir.
 # Obsolete string
 vpn-landing-faq-uses-conceal = Gerçek IP adresinizi gizler. Böylece hem kimliğiniz korunur hem de konumunuz gizlenir.
 vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
@@ -47,58 +50,58 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } han
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } aşağıdaki işletim sistemlerini kullanan <a href="{ $mobile }">mobil cihazlar</a>, tabletler ve <a href="{ $desktop }">bilgisayarlarla</a> uyumludur:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } aşağıdaki cihazlarla uyumludur:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (yalnızca 64 bit)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (yalnızca 64 bit)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ve üstü)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } ve üstü)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ve üstü)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ve üzeri)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ve üstü)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (sürüm 8 ve üstü)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (sürüm 6 ve üstü)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (sürüm 6 ve üzeri)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ve üstü)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ve üstü)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ve üzeri)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ve üstü)
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Aboneliğinizi başlattıktan sonraki 30 gün içinde para iadesi alabilirsiniz. İade talebinde bulunmak için { -brand-name-mozilla-vpn } uygulamanızın Ayarlar kısmındaki “Yardım Al” düğmesine dokunarak bizimle iletişime geçebilirsiniz.
 vpn-landing-faq-manage-subscription-question-heading = Aboneliğimi nasıl yönetebilirim?
+vpn-landing-faq-download-heading = Zaten aboneyim, { -brand-name-mozilla-vpn }’i nasıl indirebilirim?
 vpn-landing-faq-link = Diğer SSS'ler
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Bekleme listesine katılın: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = { -brand-name-mozilla-vpn } bölgenizde kullanılabilir hale gelince size haber verelim.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } cihazınızda ve bölgenizde kullanılabilir hale gelince size haber verelim.
 vpn-landing-invite-page-heading = VPN bekleme listesine katılın
 vpn-landing-invite-email-label = E-posta adresiniz nedir?
