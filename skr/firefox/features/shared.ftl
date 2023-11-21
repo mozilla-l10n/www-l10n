@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox } خاصیتاں
+features-shared-footer-cta-button = { -brand-name-firefox } ڈاؤن لوڈ کرو
+features-shared-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
+features-shared-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
 features-shared-free-password-manager = پاس ورڈ منیجر
 features-shared-bookmark-manager = نشانی منیجر
 features-shared-private-browsing-mode = نجی براؤزنگ موڈ
