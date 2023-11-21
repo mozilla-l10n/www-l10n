@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = გამოიყენეთ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = შეუერთდით მსურველებს
 vpn-shared-sign-in-link = უკვე ხართ გამომწერი?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = ამჟამად { -brand-name-mozilla-vpn } ხელმისაწვდომია ავსტრიაში, ბელგიაში, კანადაში, ფინეთში, საფრანგეთში, გერმანიაში, ირლანდიაში, იტალიაში, მალაიზიაში, ნიდერლანდში, ახალ ზელანდიაში, სინგაპურში, ესპანეთში, შვედეთში, შვეიცარიაში, გაერთიანებულ სამეფოსა და შეერთებულ შტატებში.
 vpn-shared-available-countries-v6 = ამჟამად { -brand-name-mozilla-vpn } ხელმისაწვდომია ავსტრიაში, ბელგიაში, ბულგარეთში, კანადაში, ხორვატიაში, კვიპროსში, ჩეხეთში, დანიაში, ესტონეთში, ფინეთში, საფრანგეთში, გერმანიაში, უნგრეთში, ირლანდიაში, იტალიაში, ლატვიაში, ლიტვაში, ლუქსემბურგში, მალაიზიაში, მალტაში, ნიდერლანდში, ახალ ზელანდიაში, პოლონეთში, პორტუგალიაში, რუმინეთში, სინგაპურში, სლოვენიაში, სლოვაკეთში, ესპანეთში, შვედეთში, შვეიცარიაში, დიდ ბრიტანეთსა და შეერთებულ შტატებში.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = აირჩიეთ გადახდ�
 vpn-shared-pricing-variable-sub-heading = ყველა ჩვენი გეგმა მოიცავს:
 vpn-shared-pricing-recommended-offer = სასურველია
 vpn-shared-pricing-plan-12-month-v2 = 12-თვიანი საგადასახადო გეგმა
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 თვე
 vpn-shared-pricing-plan-monthly-v2 = ერთთვიანი საგადასახადო გეგმა
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = ყოველთვიური
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/თვე + გადასახადი</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 6-თვიანი გეგმით სარგებლობა
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 12-თვიანი გეგმით სარგებლობა
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = ისარგებლეთ 6-თვიანი გეგმით
 vpn-shared-pricing-get-12-month-v2 = ისარგებლეთ 12-თვიანი გეგმით
 vpn-shared-pricing-get-monthly = ყოველთვიური გეგმით სარგებლობა
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = დაზოგეთ { $percent }%
 vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } { $percent }% ფასდაკლებით*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *12-თვიანი გეგმის გამოწერისას
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *წლიური ხელმოწერით
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } სულ
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = VPN თუ პროქსი
 vpn-subnav-subscribe = გამოიწერეთ { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = ვრცლად VPN-ების შესახებ
 vpn-subnav-download-mozilla-vpn = ჩამოტვირთეთ { -brand-name-mozilla-vpn }
+vpn-subnav-features = შესაძლებლობები
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = საიტზე ვიყენებთ ფუნთუშებს, რათა გავიგოთ, რომელმა ჩვენმა მოკავშირე მხარემ გაგაცნოთ { -brand-name-mozilla-vpn }. ჩვენ არ ვუზიარებთ ვინაობის გასამჟღავნებელ მონაცემებს თანამშრომელ კომპანიებს. იხილეთ ჩვენი <a { $attrs }>პირადულობის დებულება</a>.
 vpn-shared-affiliate-notification-reject = უარყოფა
 vpn-shared-affiliate-notification-ok = კარგი
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = რატომ ერთად?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>დაზოგეთ { $percent }%</span> { -brand-name-relay-premium }-ის წლიური საგადასახადო გეგმით
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ჯერ არაა ხელმისაწვდომი თქვენს ქვეყანაში
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = როგორც აღნიშნავს
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = „{ -brand-name-mozilla }-ს VPN-ს ასევე შეუძლია <a { $attrs }>ჩართოს პირადულობის დაცვის მშვენიერ საშუალებას</a> მისი { -brand-name-firefox }-ბრაუზერის“.
+vpn-press-unique-features-like-its-multi-account = “…უნიკალურმა მახასიათებლებმა, როგორიცაა Multi-Account Containers, შესაძლოა ეს შესაძლებლობა მარტივად ხელმისაწვდომი გახადოს მომხმარებლებისთვის, რომლებიც ზრუნავს პირადი მონაცემების უსაფრთხოებაზე.”
+vpn-press-mozilla-vpns-feature-list-has-grown = „{ -brand-name-mozilla-vpn }-ის შესაძლებლობების სია საგრძნობლად მოიმატა გამოშვების შემდგომ და ეს მომსახურება ახლა უკვე ბევრ სპეციალისტს VPN-ს აჯობა, ზოგიერთ სფეროში“.

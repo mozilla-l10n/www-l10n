@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = რომელ მოწყო
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-ბიტზე მხოლოდ)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-ბიტიანი მხოლოდ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 და ზემოთ)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } და ზემოთ)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 და ზემოთ)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 და ზემოთ)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 და ზემოთ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 8 და ზემოთ)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 6 და ზემოთ)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (მე-6 ვერსიიდან)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } და ზემოთ)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 და ზემოთ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 და ზემოთ)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 და ზემოთ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
 vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
 vpn-landing-faq-refund-question-additional-desc = თუ ხელშეკრულებისთვის აპლიკაციის შიდა შენაძენით ისარგებლებთ, { -brand-name-apple } { -brand-name-app-store } ან { -brand-name-google-play } მაღაზიაში, ანგარიშსწორება მოხდება იმ პირობებით, რომელთაც { -brand-name-app-store } აწესებს. თანხის ასანაზღაურებლად ნებისმიერი სახის მოთხოვნით, შესაბამისად უნდა მიმართოთ პირდაპირ { -brand-name-apple }-ს ან { -brand-name-google }-ს.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = თანხის დაბრუნება შეგეძლებათ 30 დღეში გამოწერის შეძენიდან. დაგვიკავშირდით ან მოითხოვეთ ანაზღაურება, „დახმარების“ ღილაკით პარამეტრებიდან, თქვენს { -brand-name-mozilla-vpn } პროგრამაში.
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = ვრცლად იხილეთ ᲮᲓᲙ
 
 vpn-landing-invite-page-title = შემოუერთდით მსურველებს: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მხარეში.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მოწყობილობაზე და რეგიონში.
 vpn-landing-invite-page-heading = შეუერთდით VPN-ის მსურველებს
 vpn-landing-invite-email-label = რა არის თქვენი ელფოსტა?
