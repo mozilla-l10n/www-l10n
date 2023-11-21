@@ -50,3 +50,5 @@ privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = Perkhidmatan Langganan { -brand-name-mozilla }
 
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = Akaun { -brand-name-mozilla }
