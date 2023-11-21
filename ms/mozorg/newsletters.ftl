@@ -155,6 +155,7 @@ newsletters-your-content-wasnt-relevant = Kandungan anda tidak sesuai dengan say
 newsletters-your-email-design = Reka bentuk e-mel anda sukar untuk dibaca.
 newsletters-i-didnt-sign-up = Saya tidak mendaftar pun.
 newsletters-please-select-a-reason = Sila pilih mengapa anda tidak lagi melanggan dengan kami.
+newsletters-fxa-error-retry = Maaf, ada masalah yang menghalang anda mengakses tetapan khas e-mel ini. Sila guna borang di bawah.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
