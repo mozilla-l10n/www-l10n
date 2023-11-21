@@ -21,6 +21,7 @@ vpn-landing-log-in-to-your-bank-or = Conéctate a tu banco o telemedicina desde 
 vpn-landing-blocks-advertisers-from = Bloquea a los anunciantes para que no te tengan como objetivo
 vpn-landing-hide-your-activity-from = Oculta tu actividad de rastreadores y malware para que puedas comprar sin que te vigilen.
 vpn-landing-helps-you-access-global = Te ayuda a acceder a contenido global
+vpn-landing-check-out-streaming-media = Revisa medios, sitios web y transmisiones en vivo de otros países mientras viajas o estás en casa.
 vpn-landing-features = Características
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -45,6 +46,8 @@ vpn-landing-see-all-features = Ver todas las características
 vpn-landing-fram-a-brand-you-can-trust = De una marca en la que puedes confiar
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } es una empresa de Internet sin fines de lucro que lucha por una Web saludable desde 1998.
 vpn-landing-one-subscription-for-all-your = Una suscripción para todos tus dispositivos
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Con la tecnología de { -brand-name-mozilla }.</strong> Luchando por tu derecho a la privacidad desde 1998.
 vpn-landing-learn-more-from-our-experts = Aprende más de nuestros expertos
 vpn-landing-do-you-need-a-vpn-at-home = ¿Necesitas un VPN en casa? Aquí tienes 5 razones por las que podrías requerirlo.
 vpn-landing-what-is-an-ip-address = ¿Qué es una dirección IP?
