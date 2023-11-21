@@ -37,3 +37,4 @@ windows-64-bit-if-you-see-32-bit-newer = 「(32 ビット)」と表示されて 
 windows-64-bit-if-you-need-to-run = 32 ビット版の { -brand-name-firefox } を実行するか、64 ビット版の { -brand-name-firefox } を手動でインストールする必要がある場合、{ -brand-name-windows } (32 ビットまたは 64 ビット) 用 { -brand-name-firefox } インストーラーを <a href="{ $all }">{ -brand-name-firefox } プラットフォームと言語のダウンロードページ</a>からダウンロード、再実行できます。
 windows-64-bit-take-control-of-your = ブラウザーを制御する
 
+windows-64-bit-download-firefox = Windows 64 ビット版 { -brand-name-firefox } をダウンロード
