@@ -5,8 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = 特色功能 - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+# Line break for visual format only
+vpn-features-features-that-protect = 一众特色功能<br>为在线生活护航
 vpn-features-convenient = 省心
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than = { $countries }+ 个国家/地区的 { $servers } 余台服务器随心用
+vpn-features-see-our-list = 查看我们的服务器列表
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to = 连接多达 { $devices } 台设备
+vpn-features-supported-platforms = 支持 Windows、macOS、Android、iOS、Linux 操作系统。
+vpn-features-no-bandwidth = 不限制带宽
 vpn-features-including-no-data = 不限流、不限速。
 vpn-features-encrypt-your-internet = 加密所有互联网流量
 vpn-features-support-for-custom-dns = 支持自定义 DNS
