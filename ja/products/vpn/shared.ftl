@@ -125,6 +125,8 @@ vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } が { $percent }% お�
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *12 ヶ月プランをご利用の場合
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *年間サブスクリプションの場合
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +173,7 @@ vpn-subnav-vpn-vs-proxy = VPN とプロキシの比較
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } をサブスクライブ
 vpn-subnav-learn-about-vpns = VPN の詳細を見る
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
+vpn-subnav-features = 機能
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +205,15 @@ vpn-shared-why-bundle = セット契約する理由
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } 年額プランが <span>{ $percent }%</span> お得
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } はお住まいの国ではまだ公開していません。
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = 紹介メディア
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = 「{ -brand-name-mozilla } の VPN は、{ -brand-name-firefox } ブラウザーの<a { $attrs }>優れたプライバシー保護機能に統合</a>することもできます」
+vpn-press-unique-features-like-its-multi-account = 「…マルチアカウントコンテナーなどの独自の機能により、より深くプライバシーを懸念しているユーザーがこの機能に簡単にアクセスできるようになる可能性があります」
+vpn-press-mozilla-vpns-feature-list-has-grown = 「{ -brand-name-mozilla-vpn } の機能は公開以来大幅に拡大しており、現在では一部の分野で多くの専門 VPN を上回るサービスになっています」
