@@ -54,6 +54,9 @@ vpn-features-trustworthy = 可信赖
 vpn-features-money-back = 30 天退款保证
 vpn-features-plus-customer-support = 另有 24/7 客户支持。
 vpn-features-we-never-log = 绝不记录、跟踪、共享您的网络数据
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = 一句话，我们不会收集您的个人浏览信息。您可以阅读我们<a { $privacy }>通俗易懂的隐私政策</a>。
 vpn-features-built-transparently = 代码开源，透明打造
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
