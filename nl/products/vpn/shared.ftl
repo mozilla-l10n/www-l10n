@@ -167,3 +167,8 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } is in 
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Zoals gezien in
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = ‘De VPN van { -brand-name-mozilla } kan ook <a { $attrs }>integreren in een aantal handige privacybeschermingsfuncties</a> van haar { -brand-name-firefox }-browser.’
+vpn-press-unique-features-like-its-multi-account = ‘…unieke functies, zoals Multi-Account Containers, kunnen de functie gemakkelijk toegankelijk maken voor gebruikers met serieuzere zorgen over privacy.’
+vpn-press-mozilla-vpns-feature-list-has-grown = ‘De lijst met functies van { -brand-name-mozilla-vpn } is sinds de lancering aanzienlijk gegroeid, en de service verslaat nu veel gespecialiseerde VPN’s op sommige gebieden.’

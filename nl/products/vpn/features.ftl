@@ -66,4 +66,14 @@ vpn-features-we-never-log = We loggen, volgen of delen uw netwerkgegevens nooit
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Simpel gezegd, we verzamelen geen persoonlijke navigatiegegevens. Dit is ons <a { $privacy }>eenvoudig leesbare privacybeleid</a>.
 vpn-features-built-transparently = Transparant gebouwd in opensource
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } is gemaakt met opensourcecode, wat inhoudt dat alle code openbaar toegankelijk is. Bekijk onze <a { $github }>GitHub-repository</a>.
+vpn-features-reviewed-by-third = Beoordeeld door externe beveiligingsexperts
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = We zijn geaudit door Cure53, een toonaangevend cyberbeveiligingsauditbureau. <a { $report }>Bekijk het rapport hier</a>.
 vpn-features-people-over-profits = Mensen boven winst
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = We worden gesteund door de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, een non-profitorganisatie die strijdt om het web voor iedereen open en gezond te houden.
