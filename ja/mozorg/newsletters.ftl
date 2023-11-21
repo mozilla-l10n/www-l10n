@@ -155,6 +155,7 @@ newsletters-your-content-wasnt-relevant = 内容が自分と関係ない。
 newsletters-your-email-design = メールのデザインのせいでメールを読みにくい。
 newsletters-i-didnt-sign-up = 登録した覚えがない。
 newsletters-please-select-a-reason = 配信停止の理由を選択してください。
+newsletters-fxa-error-retry = 申し訳ありません。メール設定に移動する際に問題が発生しました。下のフォームをお試しください。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
