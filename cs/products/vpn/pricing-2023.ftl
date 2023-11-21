@@ -10,7 +10,7 @@ vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Jedno předplatné pro všechna vaše zařízení
 # Pricing section
-vpn-pricing-included-in-subscription = Zahrnuté v předplatném:
+vpn-pricing-included-in-subscription = Zahrnuto v předplatném:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
@@ -24,12 +24,12 @@ vpn-pricing-connect-up-to =
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] Přistupovat k { $servers } serverům ve více než { $countries } zemích
+        [one] Přistupovat k { $servers } serveru ve více než { $countries } zemích
         [few] Přistupovat k { $servers } serverům ve více než { $countries } zemích
        *[other] Přistupovat k { $servers } serverům ve více než { $countries } zemích
     }
 vpn-pricing-money-back = 30denní záruka vrácení peněz (pouze pro nové zákazníky)
-vpn-pricing-annual = Roční
+vpn-pricing-annual = Ročně
 vpn-pricing-monthly = Měsíčně
 vpn-pricing-get-annual-subscription = Získejte roční předplatné
 vpn-pricing-get-monthly-subscription = Získejte měsíční předplatné
@@ -43,7 +43,7 @@ vpn-pricing-what-information = Jaké informace si { -brand-name-mozilla-vpn } uc
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Přísně dodržujeme <a { $principles }>zásady ochrany osobních údajů</a> společnosti { -brand-name-mozilla }. Sbíráme pouze data potřebná k udržení funkčnosti sítě { -brand-name-mozilla-vpn } a k jejímu postupnému vylepšování. V naší mobilní aplikaci také sledujeme údaje o kampaních a doporučeních, abychom { -brand-name-mozilla(case: "dat") } pomohli porozumět jejich účinnosti. Přečtěte si více v našich <a { $notice }>Zásadách ochrany osobních údajů</a>.
+vpn-pricing-we-adhere-strictly = Přísně dodržujeme <a { $principles }>zásady ochrany osobních údajů</a> společnosti { -brand-name-mozilla }. Sbíráme pouze data potřebná k udržení funkčnosti sítě { -brand-name-mozilla-vpn } a k jejímu postupnému vylepšování. V naší mobilní aplikaci také sledujeme údaje o kampaních a doporučeních, abychom { -brand-name-mozilla(case: "dat") } pomohli porozumět jejich účinnosti. Přečtěte si více v našich <a { $notice }>zásadách ochrany osobních údajů</a>.
 vpn-pricing-how-do-i-manage = Jak mohu změnit své předplatné a změnit své předplatné?
 # Variables
 # $manage (url) - link to subscription management page
