@@ -22,10 +22,38 @@ vpn-features-connect-up-to = 连接多达 { $devices } 台设备
 vpn-features-supported-platforms = 支持 Windows、macOS、Android、iOS、Linux 操作系统。
 vpn-features-no-bandwidth = 不限制带宽
 vpn-features-including-no-data = 不限流、不限速。
+vpn-features-fast-network = 玩游戏照样快到飞起
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } 采用性能出众的 <a { $wireguard }>Wireguard</a>™ VPN 协议。
+vpn-features-secure = 安全
+vpn-features-block-ads = 拒绝广告商定向推广
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } 可自动帮您拦截广告和广告跟踪器，拒绝广告跟踪器窥视您的在线活动。
 vpn-features-encrypt-your-internet = 加密所有互联网流量
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } 全方位保护设备上所有应用，而不限于浏览器。
+vpn-features-stronger-malware = 强大的恶意软件防护
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } 可阻止您从已知的不安全来源下载恶意软件。
+vpn-features-super-private-mode = 极致隐私模式：将流量经由两地传送
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = <a { $feature }>多跳功能</a>让安全性更上一层楼。
 vpn-features-support-for-custom-dns = 支持自定义 DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = 您可以使用 { -brand-name-mozilla-vpn } 来保护流量，同时按照自己需要来处理 DNS 请求。<a { $dns }>详细了解对自定义 DNS 的支持</a>。
 vpn-features-flexible = 灵活
+vpn-features-personalized-server = 个性化服务器位置推荐
+vpn-features-well-suggest-which-servers = 我们会向您推荐附近速度最快、连接最稳定的服务器。
+vpn-features-personalize-which-apps = 随心决定受 VPN 保护的应用
+vpn-features-easily-exclude-apps = 轻松将应用排除出 VPN 保护范围，而不需断开设备与 { -brand-name-mozilla-vpn } 间的连接。Windows、Android、Linux 设备上可用。
+vpn-features-set-different-locations = 为 { -brand-name-firefox } 中的标签页分别设置服务器位置
 vpn-features-trustworthy = 可信赖
 vpn-features-money-back = 30 天退款保证
 vpn-features-plus-customer-support = 另有 24/7 客户支持。
 vpn-features-we-never-log = 绝不记录、跟踪、共享您的网络数据
+vpn-features-built-transparently = 代码开源，透明打造
+vpn-features-reviewed-by-third = 经第三方安全专家评审
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = 我们已通过业界领先的网络安全审查公司 Cure53 的审计。 <a { $report }>在此查看报告</a>。
+vpn-features-people-over-profits = 以人为本
