@@ -5,10 +5,54 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = Functies – { -brand-name-mozilla-vpn }
+vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+# Line break for visual format only
+vpn-features-features-that-protect = Functies die <br> uw leven online beschermen
+vpn-features-convenient = Handig
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Meer dan { $servers } server in meer dan { $countries } landen
+       *[other] Meer dan { $servers } servers in meer dan { $countries } landen
+    }
 vpn-features-see-our-list = Bekijk onze lijst met servers.
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Verbind maximaal { $devices } apparaat
+       *[other] Verbind maximaal { $devices } apparaten
+    }
+vpn-features-supported-platforms = Ondersteund op de besturingssystemen Windows, macOS, Android, iOS en Linux.
+vpn-features-no-bandwidth = Geen bandbreedtebeperkingen of throttling
+vpn-features-including-no-data = Waaronder geen datalimiet of snelheidslimiet.
+vpn-features-fast-network = Hoge netwerksnelheden, zelfs tijdens het gamen
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } gebruikt <a { $wireguard }>Wireguard</a>™, een van de best presterende VPN-protocollen.
 vpn-features-secure = Veilig
+vpn-features-block-ads = Voorkom dat adverteerders zich op u richten
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } helpt u advertenties en advertentietrackers automatisch te blokkeren, zodat ze uw online activiteiten niet kunnen zien.
+vpn-features-encrypt-your-internet = Versleutel al uw internetverkeer
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beschermt alle apps op uw apparaat, niet alleen uw browser.
+vpn-features-stronger-malware = Sterkere bescherming tegen malware
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } voorkomt dat u malware van bekende onveilige bronnen downloadt.
+vpn-features-super-private-mode = Superprivémodus: verkeer via twee locaties leiden
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Onze <a { $feature }>functie multi-hop</a> geeft u een extra beveiligingsboost.
 vpn-features-support-for-custom-dns = Ondersteuning voor aangepaste DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Met { -brand-name-mozilla-vpn } kunt u uw verkeer beschermen en uw DNS-verzoeken toch via de route van uw voorkeur leiden. <a { $dns }>Meer info over ondersteuning voor aangepaste DNS</a>.
 vpn-features-flexible = Flexibel
+vpn-features-personalized-server = Gepersonaliseerde aanbevelingen voor serverlocaties
+vpn-features-well-suggest-which-servers = We stellen voor welke servers bij u in de buurt zorgen voor de snelste, meest betrouwbare internetverbinding.
+vpn-features-personalize-which-apps = Personaliseer welke apps VPN-bescherming krijgen
 vpn-features-trustworthy = Betrouwbaar
 vpn-features-money-back = 30-dagen-geldteruggarantie
 vpn-features-plus-customer-support = Plus 24/7 klantenondersteuning.
