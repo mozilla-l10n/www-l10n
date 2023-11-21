@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下载 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入预约名单
 vpn-shared-sign-in-link = 已经是订阅者？
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = 我们目前已在奥地利、比利时、加拿大、芬兰、法国、德国、爱尔兰、意大利、马来西亚、荷兰、新西兰、新加坡、西班牙、瑞典、瑞士、英国和美国推出 { -brand-name-mozilla-vpn }。
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } 目前在奥地利、比利时、保加利亚、加拿大、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、芬兰、法国、德国、匈牙利、爱尔兰、意大利、拉脱维亚、立陶宛、卢森堡、马来西亚、马耳他、荷兰、新西兰、波兰、葡萄牙、罗马尼亚、新加坡、斯洛文尼亚、斯洛伐克、西班牙、瑞典、瑞士、英国和美国可用。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = 选择适合您的方案
 vpn-shared-pricing-variable-sub-heading = 我们的所有方案包括：
 vpn-shared-pricing-recommended-offer = 推荐
 vpn-shared-pricing-plan-12-month-v2 = 年付方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 全年
 vpn-shared-pricing-plan-monthly-v2 = 月付方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = <span>每月</span> { $amount }
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount } <span>每月（未含税）</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 订阅半年方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 订阅全年方案
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = 订阅半年方案
 vpn-shared-pricing-get-12-month-v2 = 订阅全年方案
 vpn-shared-pricing-get-monthly = 订阅月度方案
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = 立减 { $percent }%
 vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } 立减 { $percent }% *
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = * 若订阅全年方案
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *需全年订阅
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = 总金额 { $amount }
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = VPN VS 代理
 vpn-subnav-subscribe = 订阅 { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = 了解 VPN
 vpn-subnav-download-mozilla-vpn = 下载 { -brand-name-mozilla-vpn }
+vpn-subnav-features = 功能
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = 我们使用 Cookie 以了解是哪个合作伙伴向您推荐了 { -brand-name-mozilla-vpn }。我们不会与合作伙伴共享您的个人识别信息。详情请见我们的<a { $attrs }>隐私政策</a>。
 vpn-shared-affiliate-notification-reject = 拒绝
 vpn-shared-affiliate-notification-ok = 好的
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = 为何要捆绑订阅？
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = 订阅 { -brand-name-relay-premium } 年付方案，<span>可享 { $percent }% 折扣</span>
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } 尚未在您所在的国家/地区推出
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = 曾受媒体推介
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合到 { -brand-name-firefox } 浏览器的隐私保护功能</a>。”
+vpn-press-unique-features-like-its-multi-account = “…诸如多账户身份这样的独特功能可能会让有严重隐私顾虑的用户更轻松地使用该功能。”
+vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } 的功能列表自推出以来有了长足的发展现在这项服务在某些方面已经胜过许多专业 VPN。”

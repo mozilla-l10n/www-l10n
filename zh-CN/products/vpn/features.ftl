@@ -47,13 +47,22 @@ vpn-features-well-suggest-which-servers = 我们会向您推荐附近速度最�
 vpn-features-personalize-which-apps = 随心决定受 VPN 保护的应用
 vpn-features-easily-exclude-apps = 轻松将应用排除出 VPN 保护范围，而不需断开设备与 { -brand-name-mozilla-vpn } 间的连接。Windows、Android、Linux 设备上可用。
 vpn-features-set-different-locations = 为 { -brand-name-firefox } 中的标签页分别设置服务器位置
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = 将 { -brand-name-mozilla-vpn } 与 Multi-Account Containers { -brand-name-firefox } 扩展合用为每个 { -brand-name-firefox } 标签页设置不同的 VPN 位置。 <a { $containers }>了解方法</a>。
 vpn-features-trustworthy = 可信赖
 vpn-features-money-back = 30 天退款保证
 vpn-features-plus-customer-support = 另有 24/7 客户支持。
 vpn-features-we-never-log = 绝不记录、跟踪、共享您的网络数据
 vpn-features-built-transparently = 代码开源，透明打造
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } 采用开源代码构建所有代码都可公开访问。查看我们的 <a { $github }>GitHub 仓库</a>。
 vpn-features-reviewed-by-third = 经第三方安全专家评审
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = 我们已通过业界领先的网络安全审查公司 Cure53 的审计。 <a { $report }>在此查看报告</a>。
 vpn-features-people-over-profits = 以人为本
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = 我们得到非营利性 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 的鼎力相助为所有人保持更开放、更健康的 Web 环境。

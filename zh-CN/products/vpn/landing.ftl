@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } 与
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } 兼容于以下平台的<a href="{ $mobile }">手机</a>、平板电脑和<a href="{ $desktop }">台式机</a>：
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } 兼容于下列平台：
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11（仅限 64 位）
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10（仅限 64 位）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a>（10.14 及更高版本）
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a>{ $minversion } 及更高版本
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a>（10.15 及更高版本）
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac }（10.15 及更高版本）
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a>（10.14 及更高版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a>（8 及更高版本）
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a>（6 及更高版本）
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android }（6.0 及更高版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a>（{ $version } 及更高版本）
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a>（12.0 及更高版本）
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a>（Ubuntu 20.04 及更高版本）
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a>（{ -brand-name-ubuntu } 18.04 及更高版本）
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } 的退款政策如何？
 vpn-landing-faq-refund-question-desc-v2 = 当您第一次在 { -brand-name-mozilla } 网站订阅 { -brand-name-mozilla-vpn } 时，若您在一开始的 30 天内取消账户，则可要求全额退款，{ -brand-name-mozilla } 将会退还您的第一期订阅费用。
 vpn-landing-faq-refund-question-additional-desc = 若您是通过应用内购买（{ -brand-name-apple } { -brand-name-app-store } 或 { -brand-name-google-play } 商店）的方式付款订阅，则会受应用商店的条款所约束。您须直接联系 { -brand-name-apple } 或 { -brand-name-google } 要求退款。
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = 您可以在购买订阅后 30 天内进行退款。请前往 { -brand-name-mozilla-vpn } 应用程序的“设置”页面，并点按“获取帮助”按钮，与我们联系并提交退款申请。
 vpn-landing-faq-manage-subscription-question-heading = 我要如何管理订阅？
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = 参阅更多常见问题
 
 vpn-landing-invite-page-title = 加入预约名单：{ -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = 当 { -brand-name-mozilla-vpn } 可用于您的区域时，将会收到通知。
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = 当 { -brand-name-mozilla-vpn } 可用于您的设备和区域时，将会收到通知。
 vpn-landing-invite-page-heading = 加入 VPN 预约名单
 vpn-landing-invite-email-label = 您的电子邮件地址是什么？
