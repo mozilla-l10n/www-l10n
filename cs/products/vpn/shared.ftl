@@ -169,6 +169,6 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Služba { -brand-name-mozilla-vpn 
 vpn-press-as-seen-in = Jak se objevilo v
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
-vpn-press-mozillas-vpn-can-also-integrate-into = „Síť VPN společnosti { -brand-name-mozilla } lze také <a { $attrs }>začlenit do několika šikovných funkcí na ochranu soukromí</a> jejího prohlížeče { -brand-name-firefox }.“
-vpn-press-unique-features-like-its-multi-account = „…unikátní funkce, jako jsou Multi-Account Containers, mohou tuto funkci učinit snadno dostupnou uživatelům, kteří mají vážnější obavy ohledně ochrany soukromí.“
+vpn-press-mozillas-vpn-can-also-integrate-into = „Síť VPN společnosti { -brand-name-mozilla } lze také <a { $attrs }>začlenit do několika šikovných funkcí na ochranu soukromí</a> v prohlížeči { -brand-name-firefox }.“
+vpn-press-unique-features-like-its-multi-account = „…unikátní funkce, jako jsou kontejnery pro jednotlivé účty, mohou tuto funkci učinit snadno dostupnou uživatelům, kteří mají vážnější obavy ohledně ochrany soukromí.“
 vpn-press-mozilla-vpns-feature-list-has-grown = „Seznam funkcí { -brand-name-mozilla-vpn } se od uvedení na trh značně rozrostl a tato služba nyní v některých oblastech poráží mnohé specializované sítě VPN.“
