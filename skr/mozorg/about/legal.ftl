@@ -14,7 +14,7 @@ legal-special-thanks-to-all-of-you = تساں ساریاں دا خصوصی شک�
 legal-terms = شرطاں
 legal-our-websites = ساݙیاں ویب سائٹاں
 legal-firefox-services = { -brand-name-firefox } خدمتاں
-legal-webmaker = { -brand-name-webmaker }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = رازداری تے ٹریڈمارک
 legal-privacy-notices-and-policy = رازداری نوٹس تے پالیسی
 legal-downloadable-software-notices = ڈاؤن لوڈ دے قابل سافٹ ویئر نوٹس
