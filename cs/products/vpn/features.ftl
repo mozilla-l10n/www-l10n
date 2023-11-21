@@ -16,7 +16,7 @@ vpn-features-convenient = Pohodlné
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Více než { $servers } serverů ve více než { $countries } zemích
+        [one] Více než { $servers } server ve více než { $countries } zemích
         [few] Více než { $servers } serverů ve více než { $countries } zemích
        *[other] Více než { $servers } serverů ve více než { $countries } zemích
     }
@@ -31,7 +31,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Podporováno na operačních systémech Windows, macOS, Android, iOS a Linux.
 vpn-features-no-bandwidth = Žádná omezení šířky pásma nebo přiškrcování
-vpn-features-including-no-data = Včetně datového limitu nebo rychlostního limitu.
+vpn-features-including-no-data = Včetně žádného datového limitu nebo rychlostního omezení.
 vpn-features-fast-network = Vysoká rychlost sítě i při hraní her
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/

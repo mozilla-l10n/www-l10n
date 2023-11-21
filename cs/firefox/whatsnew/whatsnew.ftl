@@ -12,7 +12,7 @@ whatsnew-page-description = Postavte se proti průmyslu, který prodává vaše 
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-update-notification = Váš { -brand-name-firefox } byl aktualizován.
+whatsnew-update-notification = Váš prohlížeč { -brand-name-firefox } byl aktualizován.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Přečtěte si <a href="{ $url }">poznámky k vydání</a>, které obsahují informace o novinkách ve { -brand-name-firefox(case: "loc") }.
