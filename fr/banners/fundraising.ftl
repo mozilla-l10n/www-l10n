@@ -4,25 +4,17 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Pendant les fêtes, aidez { -brand-name-mozilla } dans son combat pour un meilleur Internet.
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Faites un don à { -brand-name-mozilla } pour le Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Il est temps de tirer Internet des griffes des géants de la tech. Pouvez-vous faire un don à { -brand-name-mozilla } pour le Giving Tuesday ?
 
-banner-fundraising-title-giving-day = Pour le Giving Tuesday, aidez { -brand-name-mozilla } dans son combat pour un meilleur Internet.
+banner-fundraising-title-1 = Faites un don à { -brand-name-mozilla }. Reprenez possession d’Internet.
+banner-fundraising-tagline-1 = Il est temps de tirer Internet des griffes des géants de la tech. Pouvez-vous faire un don à { -brand-name-mozilla } ?
 
-# Obsolete string
-banner-fundraising-title = L’avenir se joue en ligne. Aidez { -brand-name-mozilla } à lutter pour un Web pour tout le monde.
+banner-fundraising-title-2 = Reprenez le contrôle d’Internet.
+banner-fundraising-tagline-2 = En ligne, les individus n’ont plus le contrôle. Ce sont les géants de la tech qui l’ont. Faites un don à { -brand-name-mozilla } pour reprendre possession d’Internet.
 
-banner-fundraising-body-v2 = Nous sommes fiers d’être une organisation à but non lucratif qui défend les intérêts du Web. Vos contributions nous aident à faire en sorte qu’Internet reste un espace ouvert et sûr.
+banner-fundraising-title-3 = Pouvez-vous faire un don à { -brand-name-mozilla } ?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } fait toujours passer les personnes avant les profits. Faites un don à { -brand-name-mozilla } pour contribuer à construire un Internet plus sain.
 
-# Obsolete string
-banner-fundraising-body = Nos données personnelles sont collectées à chaque fois que nous accédons au Web, et il n’est pas facile de savoir comment elles sont traitées. La désinformation rend de plus en plus difficile notre recherche de la vérité. Des objets connectés sont mis sur le marché sans respecter certains critères élémentaires de sécurité. L’organisation à but non lucratif { -brand-name-mozilla-foundation } se bat pour rendre Internet sûr, ouvert et accessible à tout le monde. <strong>Pouvez-vous faire un don aujourd’hui ?</strong>
-
-banner-fundraising-body-extra = Pouvez-vous faire un don aujourd’hui ?
-banner-fundraising-monthly = Mensuel
-banner-fundraising-one-time = Unique
 banner-fundraising-donate = Faire un don
-
-# Obsolete string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } €

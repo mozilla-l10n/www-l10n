@@ -4,25 +4,17 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Helfen Sie { -brand-name-mozilla } diese Weihnachten, sich für ein besseres Internet starkzumachen.
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Spende zum „Giving Tuesday“ an { -brand-name-mozilla }
+banner-fundraising-giving-tuesday-tagline = Zeit, das Internet von großen Tech-Unternehmen zurückzuerobern. Kannst du zum „Giving Tuesday“ an { -brand-name-mozilla } spenden?
 
-banner-fundraising-title-giving-day = Helfen Sie { -brand-name-mozilla } an Giving Tuesday, sich für ein besseres Internet starkzumachen.
+banner-fundraising-title-1 = Spende an { -brand-name-mozilla }. Und erobere das Internet zurück.
+banner-fundraising-tagline-1 = Zeit, den Tech-Riesen die Kontrolle übers Internet aus der Hand zu nehmen. Kannst du { -brand-name-mozilla } mit einer Spende unterstützen?
 
-# Obsolete string
-banner-fundraising-title = Über die Zukunft wird online entschieden. Helfen Sie { -brand-name-mozilla }, für ein Web für uns alle zu kämpfen.
+banner-fundraising-title-2 = Hol dir die Kontrolle über das Internet zurück.
+banner-fundraising-tagline-2 = Die Menschen haben das Internet nicht mehr in der Hand. Große Tech-Unternehmen kontrollieren es. Spende an { -brand-name-mozilla } und erobere mit uns das Internet zurück!
 
-banner-fundraising-body-v2 = Wir setzen uns gemeinnützig für ein gesundes Internet ein. Ihre Beiträge helfen uns dabei, ein sicheres und offenes Internet aufzubauen.
+banner-fundraising-title-3 = Kannst du { -brand-name-mozilla } mit einer Spende unterstützen?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } stellt Menschen vor Profit. Jederzeit. Spende an { -brand-name-mozilla } – für ein sicheres, gesundes Internet.
 
-# Obsolete string
-banner-fundraising-body = Jedes Mal, wenn wir auf das Internet zugreifen, werden unsere personenbezogenen Daten gesammelt und oft ist es nicht leicht herauszufinden, was damit passiert. Falschinformationen erschweren es uns, die Wahrheit herauszufinden. Internetfähige Geräte werden auf den Markt gebracht, ohne die Mindestanforderungen an die Sicherheit zu erfüllen. Die Non-Profit { -brand-name-mozilla-foundation } setzt sich für ein sicheres, offenes und für alle zugängliches Internet ein. <strong>Können Sie heute spenden?</strong>
-
-banner-fundraising-body-extra = Können Sie heute spenden?
-banner-fundraising-monthly = Monatlich
-banner-fundraising-one-time = Einmalig
 banner-fundraising-donate = Spenden
-
-# Obsolete string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } €
