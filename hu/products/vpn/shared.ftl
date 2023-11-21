@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } beszerzése
 vpn-shared-waitlist-link = Csatlakozzon a várólistához
 vpn-shared-sign-in-link = Már előfizető?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = A { -brand-name-mozilla-vpn }-t jelenleg Ausztriában, Belgiumban, Kanadában, Finnországban, Franciaországban, Németországban, Írországban, Malajziában, Hollandiában, Új-Zélandon, Szingapúrban, Spanyolországban, Svédországban, Svájcban, az Egyesült Királyságban és az Amerikai Egyesült Államokban kínáljuk.
 vpn-shared-available-countries-v6 = Jelenleg a { -brand-name-mozilla-vpn }-t Ausztriában, Belgiumban, Bulgáriában, Kanadában, Horvátországban, Cipruson, a Cseh Köztársaságban, Dániában, Észtországban, Finnországban, Franciaországban, Németországban, Magyarországon, Írországban, Olaszországban, Lettországban, Litvániában, Luxemburgban, Malajziában, Máltán, Hollandiában, Új-Zélandon, Lengyelországban, Portugáliában, Romániában, Szingapúrban, Szlovéniában, Szlovákiában, Spanyolországban, Svédországban, Svájcban, az Egyesült Királyságban és az USA-ban kínáljuk.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Válasszon egy csomagot, amely megfelel a
 vpn-shared-pricing-variable-sub-heading = Az összes csomagunk tartalmazza a következőket:
 vpn-shared-pricing-recommended-offer = Ajánlott
 vpn-shared-pricing-plan-12-month-v2 = 12 hónapos előfizetés
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 hónapos
 vpn-shared-pricing-plan-monthly-v2 = Havi előfizetés
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Havi
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/hónap + adó</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = 6 hónapos csomag beszerzése
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = 12 hónapos csomag beszerzése
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = 6 hónapos csomag beszerzése
 vpn-shared-pricing-get-12-month-v2 = 12 hónapos csomag beszerzése
 vpn-shared-pricing-get-monthly = Havi csomag beszerzése
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Spóroljon { $percent }%-ot
 vpn-shared-save-percent-on = Takarítson meg { $percent }%-ot a { -brand-name-mozilla-vpn } árából*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *ha előfizet a 12 hónapos csomagra
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *éves előfizetéssel
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Összesen { $amount }
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = VPN kontra Proxy
 vpn-subnav-subscribe = Előfizetés a { -brand-name-mozilla-vpn }-re
 vpn-subnav-learn-about-vpns = Tudjon meg többet a VPN-ekről
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } letöltése
+vpn-subnav-features = Funkciók
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Sütiket használunk annak megértésére, hogy melyik partnerünk vezette Önt a { -brand-name-mozilla-vpn }-hez. Személyazonosításra alkalmas adatokat nem osztunk meg partnereinkkel. Olvassa el <a { $attrs }>Adatvédelmi irányelveinket</a>.
 vpn-shared-affiliate-notification-reject = Elutasítás
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Miért csomagban?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Spóroljon { $percent }%</span>-ot a { -brand-name-relay-premium } éves csomagján
+vpn-shared-mozilla-vpn-is-not-yet-available = A { -brand-name-mozilla-vpn } még nem érhető el az országában
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = A sajtóban:
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = „A { -brand-name-mozilla } VPN-je <a { $attrs }>a { -brand-name-firefox } böngészője néhány remek adatvédelmi funkciójába is integrálódhat</a>.”
+vpn-press-unique-features-like-its-multi-account = „…az egyedi funkciók, mint a Multi-Account Containers, könnyen elérhetővé tehetik a funkciót azon felhasználók számára, akiknek komolyabb adatvédelmi aggályai vannak.”
+vpn-press-mozilla-vpns-feature-list-has-grown = „A { -brand-name-mozilla-vpn } funkciólistája jelentősen bővült az indulás óta, és a szolgáltatás mostanra veri több szakértő VPN-t bizonyos területeken.”
