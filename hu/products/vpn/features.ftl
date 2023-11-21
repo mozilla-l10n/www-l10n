@@ -56,3 +56,17 @@ vpn-features-easily-exclude-apps = Könnyedén zárja ki az alkalmazásokat a VP
 vpn-features-set-different-locations = Állítson be különböző helyeket az egyes lapokhoz a { -brand-name-firefox }ban
 vpn-features-trustworthy = Megbízható
 vpn-features-money-back = 30 napos pénzvisszafizetési garancia
+vpn-features-plus-customer-support = Továbbá 24/7-es ügyfélszolgálat.
+vpn-features-we-never-log = Sosem naplózzuk, követjük nyomon vagy osztjuk meg hálózati adatait
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Egyszerűen fogalmazva, nem gyűjtjük a személyes böngészési információit. Itt vannak a <a { $privacy }>könnyen olvasható adatvédelmi irányelveink</a>.
+vpn-features-built-transparently = Transzparensen felépítve, nyílt forráskódúan
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = A { -brand-name-mozilla-vpn } nyílt forráskódúként készül, ami azt jelenti, hogy minden kód nyilvánosan elérhető. Tekintse meg a <a { $github }>GitHub-tárolónkat</a>.
+vpn-features-reviewed-by-third = Külső biztonsági szakértők által értékelve
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = A Cure53 auditált minket, a vezető kiberbiztonság-vizsgálati cég. <a { $report }>Tekintse meg a jelentést itt</a>.
+vpn-features-people-over-profits = Emberek a profit előtt
