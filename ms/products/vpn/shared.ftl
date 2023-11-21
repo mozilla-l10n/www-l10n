@@ -125,6 +125,8 @@ vpn-shared-save-percent-on = Jimat { $percent }% untuk { -brand-name-mozilla-vpn
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *apabila anda melanggan untuk pelan 12-bulan
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *dengan langganan tahunan
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +173,7 @@ vpn-subnav-vpn-vs-proxy = VPN lwn Proksi
 vpn-subnav-subscribe = Langgani { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Ketahui tentang VPN
 vpn-subnav-download-mozilla-vpn = Muat turun { -brand-name-mozilla-vpn }
+vpn-subnav-features = Ciri-ciri
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +205,15 @@ vpn-shared-why-bundle = Mengapakah pakej lebih baik?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Jimat { $percent }%</span> pada pelan tahunan { -brand-name-relay-premium }
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } masih belum terdapat di negara anda
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Seperti yang dilihat dalam
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = &quot;VPN { -brand-name-mozilla } boleh juga <a { $attrs }>diintegrasikan bersama ciri perlindungan privasi</a> pelayar { -brand-name-firefox } kepunyaannya.&quot;
+vpn-press-unique-features-like-its-multi-account = "...ciri unik, seperti Multi Account Container, boleh menjadikan ciri ini lebih mudah diakses oleh pengguna yang mempunyai kebimbangan privasi yang lebih serius."
+vpn-press-mozilla-vpns-feature-list-has-grown = "Senarai ciri { -brand-name-mozilla-vpn } telah bertambah semenjak dilancarkan, dan perkhidmatan ini mengatasi banyak VPN lain di dalam arena tertentu."
