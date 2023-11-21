@@ -9,7 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Pořiďte si síť { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Přidat se na čekací listinu
 vpn-shared-sign-in-link = Už máte předplatné?
-# Outdated string
+# Obsolete string
 vpn-shared-available-countries-v5 = Síť { -brand-name-mozilla-vpn } v současnosti nabízíme v Belgii, Finsku, Francii, Irsku, Itálii, Kanadě, Malajsii, Německu, Nizozemsku, na Novém Zélandu, v Rakousku, Singapuru, Španělsku, Švédsku, Švýcarsku, USA a Velké Británii.
 vpn-shared-available-countries-v6 = V současné době nabízíme { -brand-name-mozilla-vpn } v Rakousku, Belgii, Bulharsku, Kanadě, Chorvatsku, Kypru, České republice, Dánsku, Estonsku, Finsku, Francii, Německu, Maďarsku, Irsku, Itálii, Lotyšsku, Litvě, Lucembursku, Malajsii, Maltě, Nizozemsku, Novém Zélandu, Polsku, Portugalsku, Rumunsku, Singapuru, Slovinsku, Slovensku, Španělsku, Švédsku, Švýcarsku, Velké Británii a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -65,10 +65,10 @@ vpn-shared-choose-a-plan-sub-heading = Vyberte si plán, který vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všechny naše plány zahrnují:
 vpn-shared-pricing-recommended-offer = Doporučujeme
 vpn-shared-pricing-plan-12-month-v2 = 12měsíční plán
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-12-month = 12 měsíců
 vpn-shared-pricing-plan-monthly-v2 = Měsíční předplatné
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-plan-monthly = Měsíčně
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -77,11 +77,11 @@ vpn-shared-pricing-monthly = { $amount }<span>/měsíc</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span> měsíčně + daň</span>
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month = Získat 6měsíční plán
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-12-month = Získat 12měsíční plán
-# Outdated string
+# Obsolete string
 vpn-shared-pricing-get-6-month-v2 = Získat 6měsíční plán
 vpn-shared-pricing-get-12-month-v2 = Získat 12měsíční plán
 vpn-shared-pricing-get-monthly = Získat měsíční předplatné
@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = Ušetříte { $percent }%
 vpn-shared-save-percent-on = Ušetřete { $percent }% se sítí { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *když si předplatíte 12měsíční plán
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *s ročním předplatným
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Celková částka: { $amount }
@@ -133,11 +135,12 @@ vpn-subnav-vpn-vs-proxy = Síť VPN vs. proxy server
 vpn-subnav-subscribe = Předplaťte si síť { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Další informace o sítích VPN
 vpn-subnav-download-mozilla-vpn = Stažení aplikace { -brand-name-mozilla-vpn }
+vpn-subnav-features = Vlastnosti
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Používáme cookies, abychom zjistili, který z přidružených partnerů vás přivedl k { -brand-name-mozilla-vpn(case: "dat") }. S našimi partnery nesdílíme žádné údaje umožňující identifikaci osob. Přečtěte si naše <a { $attrs }>zásady ochrany osobních údajů</a>.
 vpn-shared-affiliate-notification-reject = Odmítnout
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = Proč jako balík?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Ušetříte { $percent } %</span> na ročním plánu pro službu { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = Služba { -brand-name-mozilla-vpn } zatím není ve vaší zemi k dispozici
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Jak se objevilo v
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = „Síť VPN společnosti { -brand-name-mozilla } lze také <a { $attrs }>začlenit do několika šikovných funkcí na ochranu soukromí</a> jejího prohlížeče { -brand-name-firefox }.“
+vpn-press-unique-features-like-its-multi-account = „…unikátní funkce, jako jsou Multi-Account Containers, mohou tuto funkci učinit snadno dostupnou uživatelům, kteří mají vážnější obavy ohledně ochrany soukromí.“
+vpn-press-mozilla-vpns-feature-list-has-grown = „Seznam funkcí { -brand-name-mozilla-vpn } se od uvedení na trh značně rozrostl a tato služba nyní v některých oblastech poráží mnohé specializované sítě VPN.“

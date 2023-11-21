@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = S jakými zařízeními je { -b
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilní s <a href="{ $mobile }">mobily</a>, tablety a <a href="{ $desktop }">počítači</a> se systémy:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilní se systémy:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (pouze 64bitová verze)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (pouze 64bitová verze)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.14 a novější)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } a vyšší)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.15 a novější)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (verze 10.15 a novější)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (verze 10.14 a novější)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (verze 8 a vyšší)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (verze 6 a vyšší)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (verze 6 a vyšší)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } a vyšší)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (verze 12.0 a vyšší)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 a vyšší)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 a vyšší)
 vpn-landing-faq-refund-question-heading = Jaké jsou u sítě { -brand-name-mozilla-vpn } zásady vracení peněz?
 vpn-landing-faq-refund-question-desc-v2 = Když při svém prvním předplacení sítě { -brand-name-mozilla-vpn } na stránkách { -brand-name-mozilla(case: "gen") } zrušíte do 30 dnů svůj účet, můžete požádat o vrácení peněz a { -brand-name-mozilla } vám vrátí peníze za první období předplatného.
 vpn-landing-faq-refund-question-additional-desc = Pokud si předplatné zakoupíte prostřednictvím nákupu v aplikaci v obchodě { -brand-name-apple } { -brand-name-app-store } nebo { -brand-name-google-play }, řídí se vaše platba obchodními podmínkami obchodu { -brand-name-app-store }. Veškeré dotazy týkající se vyúčtování a vrácení peněz za takové nákupy musíte směřovat na společnost { -brand-name-apple }, případně { -brand-name-google }.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = O vrácení peněz můžete požádat do 30 dnů od zakoupení předplatného. Kontaktujte nás nebo vytvořte žádost o vrácení peněz přímo v aplikaci { -brand-name-mozilla-vpn } kliknutím na tlačítko „Získat pomoc“ v nastavení.
 vpn-landing-faq-manage-subscription-question-heading = Jak mohu spravovat své předplatné?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Další časté dotazy
 
 vpn-landing-invite-page-title = Přidat se na čekací listinu sítě { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Dáme vám vědět, až bude síť { -brand-name-mozilla-vpn } k dispozici pro vaší oblast.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Dáme vám vědět, až bude { -brand-name-mozilla-vpn } dostupná pro vaše zařízení a vaší oblast.
 vpn-landing-invite-page-heading = Přidat se na čekací listinu
 vpn-landing-invite-email-label = Jaká je vaše e-mailová adresa?
