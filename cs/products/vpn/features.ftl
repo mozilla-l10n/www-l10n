@@ -38,36 +38,36 @@ vpn-features-fast-network = Vysoká rychlost sítě i při hraní her
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } používá <a { $wireguard }>Wireguard</a>™, jeden z nejvýkonnějších protokolů VPN.
 vpn-features-secure = Bezpečný
 vpn-features-block-ads = Zabraňte inzerentům, aby na vás cílili
-vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } vám pomáhá automaticky blokovat reklamy a reklamní sledovací prvky, aby viděli vaši online aktivitu.
-vpn-features-encrypt-your-internet = Šifrujte všechen svůj internetový provoz
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } vám pomáhá automaticky blokovat reklamy a reklamní sledovací prvky, aby neviděli vaši online aktivitu.
+vpn-features-encrypt-your-internet = Šifruje všechen váš internetový provoz
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } chrání všechny aplikace na vašem zařízení, nejenom prohlížeč.
 vpn-features-stronger-malware = Silnější ochrana proti malwaru
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } brání stahování malwaru ze známých nebezpečných zdrojů.
 vpn-features-super-private-mode = Režim super-soukromí: směrujte provoz přes dvě místa
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = Naše <a { $feature }>multi-hop funkce</a> vám přináší další vylepšení zabezpečení.
+vpn-features-multi-hop-feature = Naše <a { $feature }>funkce multi-hop</a> vám přináší další vylepšení zabezpečení.
 vpn-features-support-for-custom-dns = Podpora pro vlastní DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
-vpn-features-keep-traffic-protected = Se službou { -brand-name-mozilla-vpn } můžete chránit svůj provoz a přitom směrovat své DNS dotazy, kamkoliv chcete. <a { $dns }>Zjistěte více o podpoře vlastních DNS</a>.
+vpn-features-keep-traffic-protected = Se službou { -brand-name-mozilla-vpn } můžete chránit svůj provoz a přitom směrovat své DNS dotazy kamkoliv chcete. <a { $dns }>Zjistěte více o podpoře vlastních DNS</a>.
 vpn-features-flexible = Flexibilní
-vpn-features-personalized-server = Personalizovaná doporučení umístění serveru
+vpn-features-personalized-server = Personalizované doporučení umístění serveru
 vpn-features-well-suggest-which-servers = Doporučíme vám servery ve vašem okolí, které zajistí nejrychlejší a nejspolehlivější připojení k internetu.
-vpn-features-personalize-which-apps = Přizpůsobte si, které aplikace získají ochranu VPN
+vpn-features-personalize-which-apps = Přizpůsobte si, které aplikace získají ochranu skrze VPN
 vpn-features-easily-exclude-apps = Jednoduše odstraňte aplikace z ochrany pomocí VPN — bez nutnosti odpojovat zařízení od { -brand-name-mozilla-vpn }. Dostupné pro zařízení se systémem Windows, Android a Linux.
-vpn-features-set-different-locations = Nastavit ve { -brand-name-firefox(case: "loc") } pro každý panel jiné umístění
+vpn-features-set-different-locations = Nastavit ve { -brand-name-firefox(case: "dat") } pro každý panel jiné umístění
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Zkombinujte { -brand-name-mozilla-vpn } s rozšířením { -brand-name-firefox } pro Multi-Account Containers a nastavte různá umístění VPN pro každý panel { -brand-name-firefox(case: "gen") }. <a { $containers }>Přečtěte si jak</a>.
-vpn-features-trustworthy = Spolehlivý
+vpn-features-combine-mozilla-vpn-with-containers = Zkombinujte { -brand-name-mozilla-vpn } s rozšířením prohlížeče { -brand-name-firefox } pro Multi-Account Containers a nastavte různá umístění VPN pro každý panel { -brand-name-firefox(case: "gen") }. <a { $containers }>Přečtěte si jak</a>.
+vpn-features-trustworthy = Spolehlivost
 vpn-features-money-back = 30denní záruka vrácení peněz
 vpn-features-plus-customer-support = Plus zákaznická podpora 24/7.
-vpn-features-we-never-log = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data
+vpn-features-we-never-log = Nikdy si nezaznamenáváme, nesledujeme a ani nesdílíme vaše síťová data
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Jednoduše řečeno, nesbíráme vaše osobní informace. Zde jsou naše <a { $privacy }>srozumitelné zásady ochrany osobních údajů</a>.
-vpn-features-built-transparently = Transparentně zabudované v open source
+vpn-features-built-transparently = Transparentně vytvořený v prostředí open source
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je vytvořena s otevřeným zdrojovým kódem, což znamená, že veškerý kód je veřejně přístupný. Podívejte se do našeho <a { $github }>GitHub repozitáře</a>.
