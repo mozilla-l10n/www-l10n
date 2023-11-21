@@ -12,14 +12,7 @@ whatsnew-page-description = 採取行動，反對產業中將您的資料賣給�
 whatsnew-firefox = { -brand-name-firefox }
 # Obsolete string
 whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = 恭喜！您使用的是最新版的 { -brand-name-firefox }。
-# Obsolete string
-whatsnew-up-to-date-notification = 恭喜！您使用的是最新版的 { -brand-name-firefox-browser }。
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = 已推出新版本的 { -brand-name-firefox }。<a href="{ $url }">更新到最新版本</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = 還有更新版的 { -brand-name-firefox }。重新啟動即可更新。
+whatsnew-update-notification = 已成功更新您的 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = 請閱讀<a href="{ $url }">發行公告</a>來了解您的 { -brand-name-firefox } 瀏覽器還有哪些新鮮事。

@@ -94,6 +94,8 @@ vpn-shared-pricing-save-percent = { $percent }% 折扣
 vpn-shared-save-percent-on = 訂閱 { -brand-name-mozilla-vpn } 省下 { $percent }%*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = * 訂閱年約方案時
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = * 需按年訂閱
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = 總金額 { $amount }
@@ -133,6 +135,7 @@ vpn-subnav-vpn-vs-proxy = VPN 跟 Proxy 有什麼不同
 vpn-subnav-subscribe = 訂閱 { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = 了解 VPN 的相關資訊
 vpn-subnav-download-mozilla-vpn = 下載 { -brand-name-mozilla-vpn }
+vpn-subnav-features = 功能
 
 ## VPN Affiliate cookie notice
 
@@ -158,6 +161,14 @@ vpn-shared-why-bundle = 為什麼要一起買？
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = 訂閱 { -brand-name-relay-premium } 年約方案，<span>可享 { $percent }% 折扣</span>
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } 尚未在您的國家推出
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = 出現於
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = 「{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合到 { -brand-name-firefox } 瀏覽器的隱私保護功能</a>。
+vpn-press-unique-features-like-its-multi-account = 「…獨特的功能像是 Multi-Account Containers 可能會讓那些有更嚴重隱私風險的使用者也能更簡單使用。」
+vpn-press-mozilla-vpns-feature-list-has-grown = 「自推出以來{ -brand-name-mozilla-vpn } 的功能清單已經有了明顯的成長在某些方面服務已經超過了許多專業的 VPN。」
