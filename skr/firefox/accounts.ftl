@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } گھنو ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
 # Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } بݨاؤ ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
 # HTML page description
@@ -14,6 +16,7 @@ firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھات�
 firefox-accounts-sign-in = سائن ان
 # Obsolete string
 firefox-accounts-already = تہاݙا { -brand-name-firefox-account } پہلے ہی ہے پیا۔ مبارکاں!
+mozilla-accounts-already = تہاݙا { -brand-name-mozilla-account } پہلے ہی ہے پیا۔ مبارکاں!
 firefox-accounts-manage = آپݨاں کھاتہ منیج کرو
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = آپݨے { -brand-name-mozilla-account } نال انہاں وچ سائن ان تھیوو:

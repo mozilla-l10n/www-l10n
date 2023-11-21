@@ -13,14 +13,19 @@ compare-chrome-we-compare-mozilla-firefox = اساں رازداری، افادی
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } دا { -brand-name-google }{ -brand-name-chrome } دے نال ویورا
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+compare-chrome-at-firefox-we-have-a-huge-v2 = { -brand-name-firefox } وِچ، اساݙے کول ٻہوں زیادہ سر ٻدھ صارفین ہن جیڑھے آن لائن رازداری کیتے اساݙی ثابت قدمی دی تعریف کریندے ہن۔ مثال دے طور تے، { -brand-name-firefox } دے نویں نکور ورژن وِچ Enhanced Tracking Protection (ETP) نامی ہک خصوصیت شامل ہے جیڑھی دنیا بھر دے تمام صارفین کیتے بطور ڈیفالٹ آن ہے۔ ETP 2,000 کنوں زیادہ ٹریکرز کوں بلاک کریندا ہے، بشمول Facebook، Twitter ، تے LinkedIn جیہاں کمپنیاں دے سوشل ٹریکرز۔ ایندے وِچ <a { $attrs }>{ -brand-name-mozilla-monitor }</a> نامی ہک مربوط خصوصیت وی ہے جیڑھی تہاکوں آپوں ڄاݨ اطلاع ݙیندی ہے جو آیا تہاݙے پاس ورڈ دی خلاف ورزی تھئی ہے یا اینکوں اپ ڈیٹ کرݨ دی ضرورت ہے۔ انہاں تحفظات دے علاوہ، { -brand-name-firefox } وِچ پرائیویٹ براؤزنگ موڈ تہاݙی براؤزنگ دیاں معلومات جیویں تاریخ تے کوکیاں کوں آپوں ڄاݨ حذف کر ݙیندا ہے، تہاݙے سیشن ختم کرݨ دے بعد کوئی نشان نہیں چھوڑیندا۔
+# Obsolete string
+# Variables:
+#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } وِچ، اساݙے کول ٻہوں زیادہ سر ٻدھ صارفین ہن جیڑھے آن لائن رازداری کیتے اساݙی ثابت قدمی دی تعریف کریندے ہن۔ مثال دے طور تے، { -brand-name-firefox } دے نویں نکور ورژن وِچ Enhanced Tracking Protection (ETP) نامی ہک خصوصیت شامل ہے جیڑھی دنیا بھر دے تمام صارفین کیتے بطور ڈیفالٹ آن ہے۔ ETP 2,000 کنوں زیادہ ٹریکرز کوں بلاک کریندا ہے، بشمول { -brand-name-facebook }، { -brand-name-twitter }، تے LinkedIn جیہاں کمپنیاں دے سوشل ٹریکرز۔ ایندے وِچ <a { $attrs }>{ -brand-name-firefox-monitor }</a> نامی ہک مربوط خصوصیت وی ہے جیڑھی تہاکوں آپوں ڄاݨ اطلاع ݙیندی ہے جو آیا تہاݙے پاس ورڈ دی خلاف ورزی تھئی ہے یا اینکوں اپ ڈیٹ کرݨ دی ضرورت ہے۔ انہاں تحفظات دے علاوہ، { -brand-name-firefox } وِچ پرائیویٹ براؤزنگ موڈ تہاݙی براؤزنگ دیاں معلومات جیویں تاریخ تے کوکیاں کوں آپوں ڄاݨ حذف کر ݙیندا ہے، تہاݙے سیشن ختم کرݨ دے بعد کوئی نشان نہیں چھوڑیندا۔
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } وِچ، اساݙے کول ٻہوں زیادہ سر ٻدھ صارفین جیڑھے آن لائن رازداری کیتے اساݙی ثابت قدمی دی تعریف کریندے ہن۔ مثال دے طور تے، { -brand-name-firefox } دے نویں نکور ورژن وِچ Enhanced Tracking Protection (ETP) نامی ہک خصوصیت شامل ہے جیڑھی دنیا بھر دے تمام صارفین کیتے بطور ڈیفالٹ آن ہے۔ ETP 2,000 کنوں زیادہ ٹریکرز کوں بلاک کریندی ہے، بشمول { -brand-name-facebook }، { -brand-name-twitter }، تے LinkedIn جیہیں کمپنیاں دے سوشل ٹریکرز۔ ایندے وِچ <a { $attrs }>{ -brand-name-firefox-monitor }</a> نامی ہک مربوط خصوصیت وی ہے جیڑھی تہاکوں آپوں ڄاݨ اطلاع کریندی ہے جو آیا تہاݙے پاس ورڈ دی خلاف ورزی تھئی ہے یا اینکوں اپ ڈیٹ کرݨ دی ضرورت ہے۔ انہاں تحفظات دے علاوہ، { -brand-name-firefox } دا پرائیویٹ براؤزنگ موڈ آپوں ڄاݨ تہاݙی براؤزنگ دیاں معلومات جیویں تاریخ تے کوکیز کوں حذف کر ݙیندا ہے، تہاݙے سیشن ختم تھیوݨ دے بعد کوئی نشان نہیں چھوڑیندا۔
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = اساں حالیہ اپݨے نویں نکور <a { $attrs }>پرائیویسی نوٹس</a> وِچ صارف دے ڈیٹا دے حوالے نال رازداری تے شفافیت کیتے اپݨی وابستگی کوں وی دہرایا ہے جیندے وِچ آکھیا ڳیا ہے، "{ -brand-name-mozilla }وِچ، اساں سمجھدے ہیں جو رازداری ہک  نروئے انٹرنیٹ کیتے بنیادی ہے۔ "
-# Outdated string
+# Obsolete string
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated = اساں حالیہ اپݨے نویں نکور <a { $attrs }>پرائیویسی نوٹس</a> وِچ صارف دے ڈیٹا دے حوالے نال رازداری تے شفافیت کیتے اپݨی وابستگی کوں وی دہرایا ہے جیندے وِچ آکھیا ڳیا ہے، "Mozilla وِچ، اساں سمجھدے ہیں جو رازداری ہک  نروئے انٹرنیٹ کیتے بنیادی ہے۔ "
