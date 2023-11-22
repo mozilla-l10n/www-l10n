@@ -11,11 +11,6 @@ learn-more-faq = FAQ de { -brand-name-firefox }
 the-history-of = L’histoire des navigateurs Web
 firefox-has-been = { -brand-name-firefox } est là depuis le début.
 
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox } : un rebelle avec une cause
-
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } est un navigateur indépendant, développé par { -brand-name-mozilla }, une organisation à but non lucratif qui lutte pour vos droits numériques et l’accessibilité d’Internet par le plus grand nombre, partout dans le monde.
 what-is-a = Qu’est-ce qu’un navigateur web ?
 a-web-browser = Un navigateur web vous emmène partout sur Internet, vous permettant de voir des textes, des images et des vidéos provenant du monde entier.
 update-your-browser = Optez pour un navigateur { -brand-name-firefox } rapide et sécurisé.
@@ -63,11 +58,6 @@ were-obsessed-with = Notre obsession c’est de protéger votre vie privée. Voi
 incognito-browser-what = Navigateur incognito : ce que cela signifie vraiment
 firefox-calls-it = { -brand-name-firefox } et { -brand-name-chrome } l’appellent navigation privée. Tous deux vous permettent de surfer sur le Web sans enregistrer votre historique de navigation.
 
-# Obsolete string
-take-the-stress = Trouver un navigateur sécurisé n’a jamais été aussi simple.
-
-# Obsolete string
-building-a-safe = Le développement d’un navigateur sûr est à la fois un art et une science, car il n’existe pas de règles fixes en la matière.
 firefox-more-fingerprinter-blocking = Blocage des détecteurs d’empreinte numérique
 firefox-more-fingerprinting-is-a = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
 firefox-more-translate-the-web = Traduisez le Web

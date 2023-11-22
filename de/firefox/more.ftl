@@ -11,11 +11,6 @@ learn-more-faq = FAQ zu { -brand-name-firefox }
 the-history-of = Die Geschichte der Internet-Browser
 firefox-has-been = { -brand-name-firefox } war fast von Anfang an dabei.
 
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Dein Browser mit der klaren Kante
-
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } ist unabhängig und wird von dem gemeinnützigen { -brand-name-mozilla } unterstützt, der für Ihre Online-Rechte kämpft und das Internet für alle und überall zugänglich macht.
 what-is-a = Was macht ein Internet-Browser?
 a-web-browser = Ein Internet-Browser bringt Sie im Internet überall hin und ermöglicht es Ihnen, Texte, Bilder und Videos aus der ganzen Welt zu sehen.
 update-your-browser = Aktualisieren Sie Ihren Browser auf { -brand-name-firefox }, um schnell und sicher zu surfen.
@@ -63,11 +58,6 @@ were-obsessed-with = Ihre PRIVATSPHÄRE wird bei uns ganz großgeschrieben. Desh
 incognito-browser-what = Inkognito-Browser: Was es wirklich bedeutet
 firefox-calls-it = { -brand-name-firefox } nennt es privates Surfen, { -brand-name-chrome } nennt es Inkognito-Modus. Mit beiden können Sie im Internet surfen, ohne Ihre Surf-Chronik zu speichern.
 
-# Obsolete string
-take-the-stress = Suchen Sie ohne Stress einen sicheren Browser.
-
-# Obsolete string
-building-a-safe = Die Entwicklung eines sicheren Browsers ist eine Kunst und eine Wissenschaft, da es keine festgelegten Regeln gibt.
 firefox-more-fingerprinter-blocking = Blockt Identifizierer (Fingerprinter)
 firefox-more-fingerprinting-is-a = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Deshalb wird es von { -brand-name-firefox-browser } blockiert.
 firefox-more-translate-the-web = Das Web übersetzen

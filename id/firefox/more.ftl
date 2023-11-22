@@ -11,11 +11,6 @@ learn-more-faq = { -brand-name-firefox } Pertanyaan Umum
 the-history-of = Riwayat peramban web
 firefox-has-been = { -brand-name-firefox } telah ada sejak hampir awal.
 
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Memberontak dengan sebuah alasan
-
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } berdiri secara independen dan bagian dari organisasi nirlaba { -brand-name-mozilla }, yang berjuang untuk hak daring Anda dan membuat internet dapat diakses oleh semua orang, di mana saja.
 what-is-a = Apakah peramban web itu?
 a-web-browser = Peramban web membawa Anda ke mana saja di internet, memungkinkan Anda melihat teks, gambar, video dari mana saja di dunia.
 update-your-browser = Perbarui peramban { -brand-name-firefox } Anda menjadi cepat, aman, dan terlindungi.
@@ -63,11 +58,6 @@ were-obsessed-with = Kami terobsesi untuk melindungi privasi Anda. Karena itulah
 incognito-browser-what = Peramban penyamaran: Apa arti sebenarnya
 firefox-calls-it = { -brand-name-firefox } menyebutnya penjelajahan pribadi, { -brand-name-chrome } menyebutnya mode penyamaran. Keduanya memungkinkan Anda menjelajahi web tanpa menyimpan riwayat penjelajahan Anda.
 
-# Obsolete string
-take-the-stress = Hilangkan stres karena mencari peramban yang aman.
-
-# Obsolete string
-building-a-safe = Membangun peramban yang aman adalah seni dan sains karena tidak ada aturan tetap.
 firefox-more-fingerprinter-blocking = Pemblokiran Fingerprinting
 firefox-more-fingerprinting-is-a = Pengumpulan sidik jari (fingerprinting) adalah jenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis cookie biasa — itulah sebabnya { -brand-name-firefox-browser } memblokirnya.
 firefox-more-translate-the-web = Terjemahkan web
