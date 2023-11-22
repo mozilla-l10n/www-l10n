@@ -15,9 +15,6 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } は、すべての
 vpn-download-not-available-in-country = 申し訳ありません。{ -brand-name-mozilla-vpn } はお住まいの国ではダウンロードできません。
 vpn-download-button-copy = ダウンロード
 
-# Obsolete string
-vpn-download-for-windows = { -brand-name-windows } 10/11 用の VPN
-
 vpn-download-for-windows-v2 = { -brand-name-windows } 用の VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 ビットのみ)
 vpn-download-for-windows-long = { -brand-name-windows } 用 { -brand-name-mozilla-vpn } をダウンロード
@@ -40,8 +37,6 @@ vpn-download-for-android-long = { -brand-name-android } 用 { -brand-name-mozill
 vpn-download-for-ios = { -brand-name-ios } 用の VPN
 vpn-download-for-ios-long-v2 = { -brand-name-ios } 用 { -brand-name-mozilla-vpn } をダウンロード
 
-# Obsolete string
-vpn-download-for-ios-long = { -brand-name-ios } 用 { -brand-name-mozilla-vpn } をダウンロード
 vpn-download-get-on-google-play = { -brand-name-google-play } で入手
 vpn-download-get-on-app-store = { -brand-name-app-store } で入手
 vpn-download-based-on-your = 現在のデバイスに基づく

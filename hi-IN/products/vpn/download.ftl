@@ -15,9 +15,6 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } सभी प्�
 vpn-download-not-available-in-country = माफ करें, { -brand-name-mozilla-vpn } आपके देश में डाउनलोड के लिए उपलब्ध नहीं है।
 vpn-download-button-copy = डाउनलोड करें
 
-# Obsolete string
-vpn-download-for-windows = { -brand-name-windows } 10/11 के लिए VPN
-
 vpn-download-for-windows-v2 = { -brand-name-windows } के लिए VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (केवल 64-बिट)
 vpn-download-for-windows-long = { -brand-name-windows } के लिए { -brand-name-mozilla-vpn } डाउनलोड करें
@@ -40,8 +37,6 @@ vpn-download-for-android-long = { -brand-name-android } के लिए { -bran
 vpn-download-for-ios = { -brand-name-ios } के लिए VPN
 vpn-download-for-ios-long-v2 = { -brand-name-ios } के लिए { -brand-name-mozilla-vpn } डाउनलोड करें
 
-# Obsolete string
-vpn-download-for-ios-long = { -brand-name-ios } के लिए { -brand-name-mozilla-vpn } VPN डाउनलोड करें
 vpn-download-get-on-google-play = { -brand-name-google-play } स्टोर से प्राप्त करें
 vpn-download-get-on-app-store = { -brand-name-app-store } से प्राप्त करें
 vpn-download-based-on-your = आपके मौजूदा डिवाइस पर आधारित

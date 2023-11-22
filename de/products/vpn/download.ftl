@@ -15,9 +15,6 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } bietet sicheren Sc
 vpn-download-not-available-in-country = Tut uns leid, { -brand-name-mozilla-vpn } steht in Ihrem Land nicht zum Download zur Verfügung.
 vpn-download-button-copy = Download
 
-# Obsolete string
-vpn-download-for-windows = VPN für { -brand-name-windows } 10/11
-
 vpn-download-for-windows-v2 = VPN für { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (nur 64-Bit)
 vpn-download-for-windows-long = { -brand-name-mozilla-vpn } für { -brand-name-windows } herunterladen
@@ -40,8 +37,6 @@ vpn-download-for-android-long = { -brand-name-mozilla-vpn } für { -brand-name-a
 vpn-download-for-ios = VPN für { -brand-name-ios }
 vpn-download-for-ios-long-v2 = { -brand-name-mozilla-vpn } für { -brand-name-ios } herunterladen
 
-# Obsolete string
-vpn-download-for-ios-long = Laden Sie VPN { -brand-name-mozilla-vpn } für { -brand-name-ios } herunter
 vpn-download-get-on-google-play = Im { -brand-name-google-play }-Store holen
 vpn-download-get-on-app-store = Im { -brand-name-app-store } holen
 vpn-download-based-on-your = Basierend auf Ihrem aktuellen Gerät

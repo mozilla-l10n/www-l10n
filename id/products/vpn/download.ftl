@@ -15,9 +15,6 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } menawarkan perlind
 vpn-download-not-available-in-country = Maaf, { -brand-name-mozilla-vpn } tidak tersedia untuk diunduh di negara Anda.
 vpn-download-button-copy = Unduh
 
-# Obsolete string
-vpn-download-for-windows = VPN untuk { -brand-name-windows } 10/11
-
 vpn-download-for-windows-v2 = VPN untuk { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit saja)
 vpn-download-for-windows-long = Unduh { -brand-name-mozilla-vpn } untuk { -brand-name-windows }
@@ -40,8 +37,6 @@ vpn-download-for-android-long = Unduh { -brand-name-mozilla-vpn } untuk { -brand
 vpn-download-for-ios = VPN untuk { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Unduh { -brand-name-mozilla-vpn } untuk { -brand-name-ios }
 
-# Obsolete string
-vpn-download-for-ios-long = Unduh VPN { -brand-name-mozilla-vpn } untuk { -brand-name-ios }
 vpn-download-get-on-google-play = Dapatkan di { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Dapatkan di { -brand-name-app-store }
 vpn-download-based-on-your = Berdasarkan perangkat Anda saat ini
