@@ -14,9 +14,6 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
 nightly-whatsnew-every-4-to-5-weeks = Toutes les 4 à 5 semaines, une version majeure de { -brand-name-firefox } est publiée et par conséquent, le numéro de version de { -brand-name-nightly } augmente lui aussi.
 
-# Obsolete string
-nightly-whatsnew-every-6-to-8-weeks = Toutes les 6 à 8 semaines, une version majeure de { -brand-name-firefox } est publiée et par conséquent, le numéro de version de { -brand-name-nightly } augmente lui aussi.
-
 nightly-whatsnew-this-is-a-good = Le moment est donc bien choisi pour vous remercier de nous aider à améliorer { -brand-name-firefox } et pour vous fournir quelques informations comme de la documentation, les canaux de communication et les sites proposant des actualités sur { -brand-name-nightly } qui pourraient vous intéresser.
 
 # Variables:
@@ -25,17 +22,9 @@ nightly-whatsnew-this-is-a-good = Le moment est donc bien choisi pour vous remer
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = Si vous voulez vous tenir au courant de ce qu’il se passe autour de { -brand-name-nightly } et de sa communauté, lire notre <a href="{ $blog }">blog</a> et suivre nos comptes <a href="{ $mastodon }">Mastodon</a> ou <a href="{ $twitter }">Twitter</a> est un bon début !
 
-# Obsolete string
-nightly-whatsnew-if-you-want-to = Si vous voulez vous tenir au courant de ce qu’il se passe autour de { -brand-name-nightly } et de sa communauté, lire notre <a href="{ $blog }">blog</a> et suivre notre <a href="{ $twitter }">compte { -brand-name-twitter }</a> est un bon début.
-
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = Vous souhaitez savoir quelles fonctionnalités de la plateforme vous pouvez tester sur { -brand-name-nightly }, que vous ne pouvez pas encore essayer sur les autres versions de { -brand-name-firefox } ? Jetez un œil à la page des préférences de <a { $attrs }>Nightly Experiments</a>.
-
-# Obsolete string
-# Variables:
-#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Vous souhaitez savoir quelles fonctionnalités de la plateforme vous pouvez tester sur { -brand-name-nightly } et que vous ne pouvez pas encore essayer sur les autres versions de { -brand-name-firefox } ? Jetez un œil à la page <a href="{ $mdn }">Experimental Features</a> sur <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

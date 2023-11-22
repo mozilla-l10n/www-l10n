@@ -14,9 +14,6 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 
 nightly-whatsnew-every-4-to-5-weeks = Setiap 4 hingga 5 minggu, versi utama dari { -brand-name-firefox } dirilis dan sebagai hasilnya, versi { -brand-name-nightly } juga meningkat.
 
-# Obsolete string
-nightly-whatsnew-every-6-to-8-weeks = Setiap 6 hingga 8 minggu, versi utama dari { -brand-name-firefox } dirilis dan sebagai hasilnya, versi { -brand-name-nightly } juga meningkat.
-
 nightly-whatsnew-this-is-a-good = Ini saat yang tepat untuk berterima kasih karena telah membantu kami membuat { -brand-name-firefox } menjadi lebih baik dan memberi Anda beberapa petunjuk mengenai dokumentasi, kanal komunikasi, dan situs berita terkait { -brand-name-nightly } yang mungkin menarik bagi Anda.
 
 # Variables:
@@ -25,17 +22,9 @@ nightly-whatsnew-this-is-a-good = Ini saat yang tepat untuk berterima kasih kare
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = Jika Anda ingin mengetahui apa yang terjadi dengan { -brand-name-nightly } dan komunitasnya, baca <a href="{ $blog }">blog</a> kami dan ikuti kami di <a href="{ $mastodon }">Mastodon</a> atau <a href="{ $twitter }">Twitter</a>!
 
-# Obsolete string
-nightly-whatsnew-if-you-want-to = Jika Anda ingin mengetahui apa yang terjadi dengan { -brand-name-nightly } dan komunitasnya, baca <a href="{ $blog }">blog</a> kami dan ikuti kami di <a href="{ $twitter }">{ -brand-name-twitter }</a>!
-
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = Ingin mengetahui fitur platform mana yang dapat Anda uji di { -brand-name-nightly } dan yang belum dapat Anda lihat di kanal { -brand-name-firefox }? Maka coba lihat laman preferensi <a { $attrs }>Nightly Experiments</a>.
-
-# Obsolete string
-# Variables:
-#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Ingin mengetahui fitur platform mana yang dapat Anda uji di { -brand-name-nightly } dan yang belum dapat Anda lihat di kanal { -brand-name-firefox }? Maka coba lihat laman <a href="{ $mdn }">Fitur Eksperimental</a> di <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
