@@ -14,9 +14,9 @@ features-sync-with-firefox-you-can-pick-up-where = Me { -brand-name-firefox }-in
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Regjistrohuni për një { -brand-name-mozilla-account } falas</a> dhe do të jeni në gjendje të njëkohësoni të dhënat tuaja kudo ku përdorni { -brand-name-firefox } dhe produkte të tjerë { -brand-name-mozilla }.
 # Obsolete string
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a { $fxa }>Regjistrohuni për një { -brand-name-mozilla-account } falas</a> dhe do të jeni në gjendje të njëkohësoni të dhënat tuaja kudo ku përdorni shfletuesin tuaj { -brand-name-firefox }.
+features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Regjistrohuni për një { -brand-name-mozilla-account } falas</a> dhe do të jeni në gjendje të njëkohësoni të dhënat tuaja kudo ku përdorni shfletuesin tuaj { -brand-name-firefox }.
 # Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a { $fxa }>Regjistrohuni për një llogari { -brand-name-firefox } falas</a> dhe do të jeni në gjendje të njëkohësoni të dhënat tuaja kudo ku përdorni shfletuesin tuaj { -brand-name-firefox }.
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Regjistrohuni për një llogari { -brand-name-firefox } falas</a> dhe do të jeni në gjendje të njëkohësoni të dhënat tuaja kudo ku përdorni shfletuesin tuaj { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Krejt të dhënat tuaja janë të fshehtëzuara në shërbyesit tanë, ndaj s’mund t’i lexojmë – vetëm ju mund të hyni në to. Informacionin tuaj s’e shesim për reklamues, ngaqë kjo do ishte kundër <a href="{ $privacy }">premtimit tonë për privatësinë e të dhënave</a>.
