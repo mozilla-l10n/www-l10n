@@ -11,9 +11,6 @@ whatsnew-page-title = Apa yang baru dengan { -brand-name-firefox } - Lebih priva
 whatsnew-page-description = Teguhkan pendirian anda menentang industri yang menjual data anda kepada pihak ketiga. Kekal bijak dan selamat dalam talian dengan teknologi yang berjuang demi anda.
 whatsnew-firefox = { -brand-name-firefox }
 
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-
 whatsnew-update-notification = { -brand-name-firefox } anda telah dinaikkan taraf.
 
 # Variables:

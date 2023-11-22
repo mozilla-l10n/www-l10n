@@ -11,9 +11,6 @@ whatsnew-page-title = Apa yang baru di { -brand-name-firefox } - Lebih banyak pr
 whatsnew-page-description = Tentukan sikap Anda terhadap industri yang menjual data pengguna ke pihak ketiga. Tetap cerdas dan aman saat daring dengan teknologi yang berjuang untuk Anda.
 whatsnew-firefox = { -brand-name-firefox }
 
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-
 whatsnew-update-notification = { -brand-name-firefox } Anda telah diperbarui.
 
 # Variables:
