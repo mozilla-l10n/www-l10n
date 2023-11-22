@@ -12,11 +12,6 @@ mobile-android-firefox-browser-for = يَتميز مُتصفح { -brand-name-fir
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = تَصفَّح الإنترنت أثناء التنقل واستمتع بالاستقلالية مع مُتصفح { -brand-name-firefox } المُخصص لنظام التشغيل { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = عندما تُنزِّل مُتصفح { -brand-name-firefox }، فإنك بهذا تختار دعم شركة تكنولوجية مستقلة. فمُتصفح { -brand-name-firefox } هو المُتصفح الرئيسي الوحيد المدعوم من مؤسسة غير ربحية تدافع لِمنحك المزيد من الانفتاح والشفافية والتحكّم في أوقاتك عبر الإنترنت.
-
 mobile-android-get-firefox-for = نزِّل { -brand-name-firefox } لنظام التشغيل { -brand-name-android }
 mobile-android-send-a-download-link-to-your = أرسِل رابط تنزيل إلى هاتفك.
 mobile-android-scan-the-qr-code-to-get-started = امسح رمز الاستجابة السريعة (QR) ضوئيًا للبدء

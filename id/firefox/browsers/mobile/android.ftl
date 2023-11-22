@@ -12,11 +12,6 @@ mobile-android-firefox-browser-for = Peramban { -brand-name-firefox } untuk { -b
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Gunakan versi seluler. Bebas dengan { -brand-name-firefox } untuk { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Saat mengunduh { -brand-name-firefox }, berarti Anda memilih untuk mendukung perusahaan teknologi yang independen. { -brand-name-firefox } adalah satu-satunya peramban utama yang didukung oleh perusahaan nirlaba yang berjuang untuk memberi Anda lebih banyak keterbukaan, transparansi, dan kendali atas kehidupan daring Anda.
-
 mobile-android-get-firefox-for = Dapatkan { -brand-name-firefox } untuk { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Kirim tautan unduhan ke ponsel Anda.
 mobile-android-scan-the-qr-code-to-get-started = Pindai kode QR untuk memulai

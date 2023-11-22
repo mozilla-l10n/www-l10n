@@ -12,11 +12,6 @@ mobile-android-firefox-browser-for = { -brand-name-android } 用の { -brand-nam
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = モバイルにも。{ -brand-name-android } 用 { -brand-name-firefox } で、独立非営利団体を選ぶ。
-# Obsolete string
-mobile-android-when-you-download = { -brand-name-firefox } をダウンロードすると、独立したテクノロジー企業をサポートできます。{ -brand-name-firefox } は、オープンさと透明性、オンライン生活のコントロールを提供する非営利団体による唯一の主要ブラウザーです。
-
 mobile-android-get-firefox-for = { -brand-name-android } 用 { -brand-name-firefox } をダウンロード
 mobile-android-send-a-download-link-to-your = スマートフォンにダウンロードリンクを送信。
 mobile-android-scan-the-qr-code-to-get-started = まず QR コードをスキャンしてください
