@@ -14,9 +14,6 @@ vpn-landing-page-desc = Gunakan { -brand-name-mozilla-vpn } untuk perlindungan p
 
 vpn-landing-hero-sub-heading-v2 = Keamanan, keandalan, dan kecepatan — di setiap perangkat, ke mana pun Anda pergi.
 
-# Obsolete string
-vpn-landing-hero-sub-heading = Keamanan yang dapat Anda andalkan. Nama yang tepercaya.
-
 vpn-landing-hero-desc = Virtual Private Network (VPN) dari pembuat { -brand-name-firefox }.
 vpn-landing-privacy-heading = Satu ketukan untuk mendapatkan privasi
 vpn-landing-privacy-desc = Berselancar, streaming, bermain game, dan menyelesaikan pekerjaan sambil menjaga privasi daring Anda. Baik saat bepergian, menggunakan WiFi publik, atau sekadar mencari keamanan aktivitas online yang lebih baik, kami akan selalu mengutamakan privasi Anda.
@@ -26,13 +23,6 @@ vpn-landing-fast-secure-heading = Jaringan yang cepat dan aman
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } berjalan di jaringan server global. Dengan menggunakan protokol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> tercanggih, kami mengenkripsi aktivitas jaringan dan menyembunyikan alamat IP Anda. Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda.
-
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } berjalan di jaringan server global yang didukung oleh <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Dengan menggunakan protokol <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> tercanggih, kami mengenkripsi aktivitas jaringan dan menyembunyikan alamat IP Anda. Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda.
 
 vpn-landing-brand-trust-heading = VPN dari merek tepercaya
 
@@ -53,8 +43,6 @@ vpn-landing-faq-uses-question-desc = Dengan semakin banyaknya kehidupan sehari-h
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Menyembunyikan <a href="{ $url }">alamat IP</a> Anda yang sebenarnya. Metode ini dapat melindungi identitas dan menyamarkan lokasi Anda.
 
-# Obsolete string
-vpn-landing-faq-uses-conceal = Menyembunyikan alamat IP Anda yang sebenarnya. Metode ini dapat melindungi identitas dan menyamarkan lokasi Anda.
 vpn-landing-faq-uses-encrypt = Mengenkripsi trafik antara Anda dan penyedia layanan VPN sehingga tidak ada orang di jaringan lokal Anda yang dapat memecahkan atau memodifikasinya.
 
 # Variables:
@@ -67,11 +55,6 @@ vpn-landing-faq-info-question-heading = Informasi apa yang disimpan { -brand-nam
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Kami sangat mematuhi <a href="{ $principles }">Prinsip Privasi Data</a> { -brand-name-mozilla } dan kami mengumpulkan data yang diperlukan agar VPN tetap beroperasi dan meningkatkan kualitas produk dari waktu ke waktu. Kami juga melacak data kampanye dan rujukan di aplikasi seluler kami agar { -brand-name-mozilla } dapat memahami seberapa efektif kampanye pemasaran yang kami terapkan. Baca selengkapnya di <a href="{ $notice }">Pemberitahuan Privasi</a> kami.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Kami tidak mencatat, melacak, atau membagikan apa pun aktivitas jaringan Anda. Kami sangat mematuhi <a href="{ $url }">Prinsip Privasi Data</a> { -brand-name-mozilla } dan kami hanya mengumpulkan data yang diperlukan agar VPN tetap beroperasi dan meningkatkan kualitas produk dari waktu ke waktu.
 
 vpn-landing-faq-protected-question-heading = Bagaimana privasi saya dilindungi?
 
@@ -86,11 +69,6 @@ vpn-landing-faq-competition-question-heading = Bagaimana { -brand-name-mozilla-v
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Meskipun VPN gratis tampak menarik, akan tetapi produk tersebut tidak memiliki komitmen privasi yang sama seperti { -brand-name-mozilla-vpn }. VPN lainnya tidak memiliki <a href="{ $url }">rekam jejak</a> seperti { -brand-name-mozilla } yang selama lebih dari 20 tahun membuat produk yang mengutamakan pengguna dan privasi.
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Meskipun VPN gratis tampak menarik, akan tetapi produk tersebut tidak memiliki komitmen privasi yang sama seperti { -brand-name-mozilla-vpn } dan mungkin menjual atau menyimpan data Anda. VPN berbayar lainnya tidak memiliki <a href="{ $url }">rekam jejak</a> seperti { -brand-name-mozilla } yang selama lebih dari 20 tahun membuat produk yang mengutamakan pengguna dan privasi.
-
 vpn-landing-faq-compatibility-question-heading = Perangkat apa yang kompatibel dengan { -brand-name-mozilla-vpn }?
 
 # Variables:
@@ -98,66 +76,33 @@ vpn-landing-faq-compatibility-question-heading = Perangkat apa yang kompatibel d
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } kompatibel dengan <a href="{ $mobile }">ponsel</a>, tablet, dan <a href="{ $desktop }">desktop</a> di:
 
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } kompatibel dengan:
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit saja)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit saja)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } ke atas)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ke atas)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (versi 8 ke atas)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versi 6 ke atas)
-
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versi 6 ke atas)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ke atas)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ke atas)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ke atas)
-
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ke atas)
 
 vpn-landing-faq-refund-question-heading = Bagaimana kebijakan pengembalian dana { -brand-name-mozilla-vpn }?
 
 vpn-landing-faq-refund-question-desc-v2 = Saat pertama kali Anda berlangganan { -brand-name-mozilla-vpn } melalui situs web { -brand-name-mozilla }, jika Anda membatalkan akun Anda dalam 30 hari pertama, Anda dapat meminta pengembalian dana dan { -brand-name-mozilla } akan mengembalikan dana untuk masa berlangganan pertama tersebut.
 
 vpn-landing-faq-refund-question-additional-desc = Jika Anda membeli langganan melalui pembelian dalam aplikasi dari { -brand-name-apple } { -brand-name-app-store } atau { -brand-name-google-play } Store, pembayaran Anda tunduk pada syarat dan ketentuan { -brand-name-app-store }. Anda harus mengajukan pertanyaan seputar penagihan dan pengembalian dana untuk pembelian tersebut ke { -brand-name-apple } atau { -brand-name-google }, sebagaimana mestinya.
-
-# Obsolete string
-vpn-landing-faq-refund-question-desc = Anda bisa mendapatkan uang Anda kembali dalam jangka waktu 30 hari setelah membayar biaya berlangganan. Hubungi kami dan kirimkan permintaan pengembalian dana dengan mengetuk tombol “Dapatkan Bantuan” di Pengaturan di aplikasi { -brand-name-mozilla-vpn }.
 
 vpn-landing-faq-manage-subscription-question-heading = Bagaimana cara mengelola langganan saya?
 
@@ -178,9 +123,6 @@ vpn-landing-faq-link = Lihat Pertanyaan Umum lainnya
 vpn-landing-invite-page-title = Gabung ke Daftar Tunggu: { -brand-name-mozilla-vpn }
 
 vpn-landing-invite-page-desc-v2 = Dapatkan pemberitahuan saat { -brand-name-mozilla-vpn } tersedia untuk wilayah Anda.
-
-# Obsolete string
-vpn-landing-invite-page-desc = Dapatkan pemberitahuan saat { -brand-name-mozilla-vpn } tersedia untuk perangkat dan wilayah Anda.
 
 vpn-landing-invite-page-heading = Bergabunglah dengan Daftar Tunggu VPN
 vpn-landing-invite-email-label = Tulis alamat email Anda

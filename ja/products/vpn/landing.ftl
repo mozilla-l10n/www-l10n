@@ -14,9 +14,6 @@ vpn-landing-page-desc = { -brand-name-mozilla-vpn } を利用すると、すべ�
 
 vpn-landing-hero-sub-heading-v2 = あらゆるデバイス、あらゆる場所で、セキュリティと信頼性とスピードを。
 
-# Obsolete string
-vpn-landing-hero-sub-heading = 信頼できるセキュリティ。信頼できる名前
-
 vpn-landing-hero-desc = { -brand-name-firefox } 開発元の仮想プライベートネットワーク。
 vpn-landing-privacy-heading = ワンタップでプライバシー
 vpn-landing-privacy-desc = オンラインでプライバシーを守りながら、ネットサーフィンやストリーミング、ゲーム、仕事ができます。旅行中も、パブリック Wi-Fi の利用中も、オンラインセキュリティを強化したいときも、Mozilla はいつでもユーザーのプライバシーを第一に考えています。
@@ -26,13 +23,6 @@ vpn-landing-fast-secure-heading = 高速・安全なネットワーク
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } は、サーバーのグローバルネットワーク上で動作します。最先端の <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> プロトコルを使用して、ユーザーのネットワークアクティビティを暗号化し、IP アドレスを隠します。Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
-
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } は、<a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> が運営するサーバーのグローバルネットワーク上で稼働しています。最先端の <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> プロトコルを使用して、ユーザーのネットワークアクティビティを暗号化し、IP アドレスを隠します。Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
 
 vpn-landing-brand-trust-heading = 信頼のブランドの VPN
 
@@ -53,8 +43,6 @@ vpn-landing-faq-uses-question-desc = インターネットが日常生活の多�
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = ユーザーの本当の <a href="{ $url }">IP アドレス</a>を隠す。ユーザーの身元を保護し、所在地を見えなくします。
 
-# Obsolete string
-vpn-landing-faq-uses-conceal = ユーザーの本当の IP アドレスを隠す。ユーザーの身元を保護し、所在地を見えなくします。
 vpn-landing-faq-uses-encrypt = ユーザーと VPN プロバイダー間のトラフィックを暗号化して、ローカルネットワーク上の誰も解読や改変ができないようにする。
 
 # Variables:
@@ -67,11 +55,6 @@ vpn-landing-faq-info-question-heading = { -brand-name-mozilla-vpn } が保持す
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Mozilla は、{ -brand-name-mozilla } の<a href="{ $principles }">データプライバシー原則</a>を厳守し、収集するデータは、VPN を運用し、製品を継続的に改善するために必要なもののみです。また、Mozilla のモバイルアプリでキャンペーンデータや紹介データを追跡し、{ -brand-name-mozilla } が Mozilla のマーケティングキャンペーンの効果を把握できるようにしています。詳しくは <a href="{ $notice }">プライバシーポリシー</a> をご覧ください。
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = ユーザーのネットワークアクティビティを記録、追跡、共有することはありません。当社は、{ -brand-name-mozilla } の<a href="{ $url }">データプライバシー原則</a>を厳守し、収集するデータは、VPN を運用し、製品を継続的に改善するために必要なもののみです。
 
 vpn-landing-faq-protected-question-heading = プライバシーの保護対策は？
 
@@ -86,11 +69,6 @@ vpn-landing-faq-competition-question-heading = { -brand-name-mozilla-vpn } と�
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = 無料の VPN は魅力的に見えるものの、{ -brand-name-mozilla-vpn } ほどプライバシーのコミットメントを徹底していない可能性があります。他社の VPN には、ユーザーファースト、プライバシー第一の製品を構築してきた { -brand-name-mozilla } の 20 年以上の<a href="{ $url }">実績</a>がありません。
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = 無料の VPN は魅力的に見えるものの、{ -brand-name-mozilla-vpn } ほどプライバシーのコミットメントを徹底しておらず、ユーザーのデータを販売あるいは保持する可能性があります。他社の有料 VPN には、ユーザーファースト、プライバシー第一の製品を構築してきた { -brand-name-mozilla } の 20 年以上の<a href="{ $url }">実績</a>がありません。
-
 vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } が対応しているデバイスは？
 
 # Variables:
@@ -98,66 +76,33 @@ vpn-landing-faq-compatibility-question-heading = { -brand-name-mozilla-vpn } が
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } は、次の<a href="{ $mobile }">モバイル </a>、タブレット、<a href="{ $desktop }">デスクトップ</a>に対応します。
 
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } は、以下のデバイスと互換性があります。
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 ビットのみ)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64 ビットのみ)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } 以上)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 以上)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (バージョン 8 以上)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (バージョン 6 以上)
-
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (バージョン 6 以上)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } 以上)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 以上)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 以上)
-
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 以上)
 
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } の返金ポリシーは？
 
 vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla } ウェブサイトから初めて { -brand-name-mozilla-vpn } に契約すると、30 日以内にアカウントをキャンセルした場合、返金を要求できます。{ -brand-name-mozilla } は、初めてのサブスクリプション期間中の返金を行います。
 
 vpn-landing-faq-refund-question-additional-desc = { -brand-name-apple } { -brand-name-app-store } または { -brand-name-google-play } からアプリ内課金/購入でサブスクリプションを購入した場合、お支払いには { -brand-name-app-store } の利用規約が適用されます。この購入に関する請求および返金のお問い合わせは、{ -brand-name-apple } または { -brand-name-google } まで行う必要があります。
-
-# Obsolete string
-vpn-landing-faq-refund-question-desc = サブスクリプションを購入してから 30 日以内に返金に対応します。{ -brand-name-mozilla-vpn } アプリの [設定] から [サポート] ボタンをタップして、返金リクエストを送信してください。
 
 vpn-landing-faq-manage-subscription-question-heading = サブスクリプションの管理方法は？
 
@@ -178,9 +123,6 @@ vpn-landing-faq-link = よくあるご質問をもっと見る
 vpn-landing-invite-page-title = ウェイトリストに登録: { -brand-name-mozilla-vpn }
 
 vpn-landing-invite-page-desc-v2 = { -brand-name-mozilla-vpn } がお住まいの地域で公開されたときに通知します。
-
-# Obsolete string
-vpn-landing-invite-page-desc = { -brand-name-mozilla-vpn } がお使いのデバイスおよび地域で利用可能になったときに通知します。
 
 vpn-landing-invite-page-heading = VPN ウェイトリストに登録
 vpn-landing-invite-email-label = メールアドレスを入力してください。

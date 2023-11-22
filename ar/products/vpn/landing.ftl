@@ -14,9 +14,6 @@ vpn-landing-page-desc = استخدم { -brand-name-mozilla-vpn } لحماية ج
 
 vpn-landing-hero-sub-heading-v2 = الأمان والموثوقية والسرعة — على كل جهاز وفي كل مكان.
 
-# Obsolete string
-vpn-landing-hero-sub-heading = أمان يمكنك الاعتماد عليه. اسم يمكنك الثقة به.
-
 vpn-landing-hero-desc = شبكة افتراضية خاصة من مطوّري متصفح { -brand-name-firefox }.
 vpn-landing-privacy-heading = بنقرة واحدة تستمتع بالخصوصية
 vpn-landing-privacy-desc = استمتع بالتصفح والبث واللعب وإنجاز المهام والأعمال، مع الحفاظ على خصوصيتك على الإنترنت. فسواءً كنت مسافرًا أو تستخدم شبكة WiFi عامة أو تبحث ببساطة عن مزيد من الأمان عبر الإنترنت، فإننا نضع خصوصيتك دائمًا في المقام الأول.
@@ -26,13 +23,6 @@ vpn-landing-fast-secure-heading = شبكة سريعة وآمنة
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = تقوم { -brand-name-mozilla-vpn } بتشغيل شبكة عالمية من الخوادم. وباستخدام بروتوكول <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> الأكثر تقدمًا، فإننا نُشفِّر نشاطك على الشبكة ونُخفي عنوان IP الخاص بك. كما أننا لا نُسجِّل بياناتك المحفوظة على الشبكة ولا نتعقبها ولا نُشاركها<br />.
-
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = يعمل تطبيق { -brand-name-mozilla-vpn } على شبكة خوادم عالمية تدعمها خدمة <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. وباستخدام بروتوكول <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> الأكثر تقدمًا، نُشفِّر نشاطك على الشبكة ونخفي عنوان IP الخاص بك. ولا نسجِّل بياناتك المحفوظة على الشبكة ولا نتعقبها ولا نُشاركها مع الآخرين.
 
 vpn-landing-brand-trust-heading = شبكة افتراضية خاصة (VPN) من علامة تجارية يمكنك الوثوق بها
 
@@ -53,8 +43,6 @@ vpn-landing-faq-uses-question-desc = نظرًا لتزايد الأعمال وا
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = إخفاء <a href="{ $url }">عنوان IP</a> الحقيقي الخاص بك. وهذا من شأنه أن يحمي هويتك ويُخفي موقعك.
 
-# Obsolete string
-vpn-landing-faq-uses-conceal = إخفاء عنوان IP الحقيقي الخاص بك. وهذا من شأنه أن يحمي هويتك ويُخفي موقعك.
 vpn-landing-faq-uses-encrypt = تشفير حركة المرور بينك وبين مُقدم خدمات VPN، بحيث لا يُمكن لأي شخص على شبكتك المحلية فك تشفيرها أو تعديلها.
 
 # Variables:
@@ -67,11 +55,6 @@ vpn-landing-faq-info-question-heading = ما المعلومات التي يَح�
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = نلتزم <a href="{ $principles }">بمبادئ خصوصية بيانات</a> { -brand-name-mozilla } التزامًا تامًا، ولا نجمع سوى البيانات المطلوبة للحفاظ على تشغيل VPN وتحسين المُنتج بمرور الوقت. كما أننا نتعقّب أيضًا بيانات الحمَلات والبيانات المرجعية على تطبيق الهاتف الخاص بنا لمُساعدة مؤسسة { -brand-name-mozilla } على فهم فعّالية حملاتنا التسويقية. اقرأ المزيد في <a href="{ $notice }">إشعار الخصوصية</a>.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = لا نُسجِّل أيًّا من أنشطتك على الشبكة ولا نتعقبها ولا نُشاركها مع الآخرين. ونلتزم <a href="{ $url }">بمبادئ خصوصية بيانات</a> { -brand-name-mozilla } التزامًا تامًا، ولا نجمع سوى البيانات المطلوبة للحفاظ على تشغيل VPN وتحسين المُنتج بمرور الوقت.
 
 vpn-landing-faq-protected-question-heading = كيف تتم حماية خصوصيتي؟
 
@@ -86,11 +69,6 @@ vpn-landing-faq-competition-question-heading = كيف يُقارَن تطبيق 
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = على الرغم من أن شبكات VPN المجانية تبدو جذابة، إلا أنها لا تلتزم بالخصوصية مثل { -brand-name-mozilla-vpn }. وأما شبكات VPN الأخرى مدفوعة الأجر، فإنها لا تتمتّع بنفس <a href="{ $url }">السِجل الحافل</a> الذي يتمتّع به { -brand-name-mozilla } لأكثر من 20 عامًا في مجال تطوير المُنتجات التي تضع الأشخاص والخصوصية في المقام الأول.
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = على الرغم من أن شبكات VPN المجانية تبدو جذابة، إلا أنها لا تلتزم بالخصوصية مثلما يلتزم تطبيق { -brand-name-mozilla-vpn }، وقد تبيع بياناتك أو تُخزِّنها. وأما شبكات VPN الأخرى المدفوعة الأجر، فإنها لا تتمتع بنفس <a href="{ $url }">السِجل الحافل</a> الذي يتمتع به { -brand-name-mozilla } لأكثر من 20 عامًا في مجال تطوير المُنتجات التي تضع الأشخاص والخصوصية في المقام الأول.
-
 vpn-landing-faq-compatibility-question-heading = ما هي الأجهزة المُتوافقة مع تطبيق { -brand-name-mozilla-vpn }؟
 
 # Variables:
@@ -98,66 +76,33 @@ vpn-landing-faq-compatibility-question-heading = ما هي الأجهزة الم
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } مُتوافق مع <a href="{ $mobile }">الجوال</a>، والجهاز اللوحي، و<a href="{ $desktop }">جهاز كمبيوتر سطح المكتب</a> على:
 
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } متوافق مع:
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64 بت فقط)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-بت فقط)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } والإصدارات الأعلى)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 وأعلى)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (إصدار 8 وأعلى)
-
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = نظام تشغيل { -brand-name-android } (الإصدار 6 والأحدث منه)
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } والإصدارات الأعلى)
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 وأعلى)
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 والإصدارات الأحدث)
-
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 وأعلى)
 
 vpn-landing-faq-refund-question-heading = ما مضمون سياسة استرداد الأموال الخاصة بتطبيق { -brand-name-mozilla-vpn }؟
 
 vpn-landing-faq-refund-question-desc-v2 = في المرة الأولى التي تشترك فيها مع { -brand-name-mozilla-vpn } من خلال الموقع الإلكتروني لـ { -brand-name-mozilla }، إذا ألغيت حسابك خلال الـ 30 يومًا الأولى، يُمكنك طلب استرداد أموالك وسَتقوم { -brand-name-mozilla } بإعادة أموال مدة الاشتراك الأولى.
 
 vpn-landing-faq-refund-question-additional-desc = إذا اشتريتَ اشتراكك من خلال مشتريات داخل التطبيق من { -brand-name-apple }{ -brand-name-app-store } أو متجر { -brand-name-google-play }، فإن عملية الدفع الخاصة بك تخضع لِشروط وأحكام { -brand-name-app-store }. يتوجّب عليك توجيه أي استفسارات بخصوص الفواتير واسترداد الأموال لهذه المشتريات إلى { -brand-name-apple } أو { -brand-name-google }، حسب الاقتضاء.
-
-# Obsolete string
-vpn-landing-faq-refund-question-desc = يُمكنك استرداد أموالك في غضون 30 يومًا من شِراء اشتراكك. اتصل بنا وأرسل إلينا طلب استرداد الأموال من خلال النقر على زر "الحصول على مساعدة" في "الإعدادات" في تطبيق { -brand-name-mozilla-vpn }.
 
 vpn-landing-faq-manage-subscription-question-heading = كيف يُمكنني إدارة اشتراكي؟
 
@@ -178,9 +123,6 @@ vpn-landing-faq-link = اطَّلِع على المزيد من الأسئلة ا
 vpn-landing-invite-page-title = انضم إلى قائمة الانتظار: { -brand-name-mozilla-vpn }
 
 vpn-landing-invite-page-desc-v2 = استقبل إشعارًا عند توفّر { -brand-name-mozilla-vpn } في منطقتك.
-
-# Obsolete string
-vpn-landing-invite-page-desc = احصل على إشعار في حالة توافر { -brand-name-mozilla-vpn } لِجهازك وإتاحته لمنطقتك.
 
 vpn-landing-invite-page-heading = انضم إلى قائمة انتظار VPN
 vpn-landing-invite-email-label = ما هو عنوان بريدك الإلكتروني؟
