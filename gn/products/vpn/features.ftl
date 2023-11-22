@@ -51,4 +51,6 @@ vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
 vpn-features-plus-customer-support = Avei oñepytyvõ ñemuhárape 24/7.
 vpn-features-we-never-log = Noroñongatúi, ndorohapykuehói térã noromoherakuãi ne mba’ekuaarã ñandutigua
+vpn-features-built-transparently = Ojejapo tesakãme ayvu ijurujávape
+vpn-features-reviewed-by-third = Ikatupyryrasáva tekorosãme ohechajeypyre
 vpn-features-people-over-profits = Yvypóra viru ñegana ári

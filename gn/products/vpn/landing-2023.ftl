@@ -8,6 +8,9 @@
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Emo’ãmbaite ne mba’e’oka
 vpn-landing-whats-a-vpn = Mba’épa VPN
+vpn-landing-see-all-the-ways-mozilla-vpn = Ehechapaite mba’éichapa { -brand-name-mozilla-vpn } nemo’ã.
+vpn-landing-how-a-vpn-helps-you = Mba’éichapa nepytyvõ VPN
+vpn-landing-keeps-your-data-safe = Oreko ne mba’ekuaarã tekorosãme Wi-Fi ojeporukuaávape
 vpn-landing-features = Reheguáva
 vpn-landing-see-all-features = Ehechapaite tembiapoite
 vpn-landing-fram-a-brand-you-can-trust = Ere peteĩ márka ejeroviakuaaha
