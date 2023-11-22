@@ -47,3 +47,5 @@ vpn-what-is-can-vpns-protect = Mogu li me VPN-ovi zaštititi od sajber kriminala
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Iako VPN pruža sigurnu vezu s internetom, on vas ne štiti od svih loših aktera. Svaki put kada ste na mreži, sa ili bez VPN-a, trebali biste se čuvati sumnjivih veza, kampanja dezinformacija, phishing prijevara i drugih prijetnji. <a href="{ $url }">Sigurnost na mreži</a> je svakodnevni način razmišljanja.
 vpn-what-is-are-vpns-legal = Da li su VPN-ovi legalni?
+vpn-what-is-installing-and-using = Instaliranje i korištenje VPN-a trenutno je legalno u većini zemalja, uključujući Sjedinjene Države, UK, Kanadu i Novi Zeland, ali neke zemlje mogu regulisati njihovu upotrebu. Ako se odlučite za korištenje VPN-a, vaša je odgovornost provjeriti zakone zemlje kako biste utvrdili je li korištenje legalno ili ne.
+vpn-what-is-are-vpns-only = Da li su VPN-ovi samo za računare?
