@@ -15,9 +15,6 @@ compare-safari-comparing-firefox-browser = Comparaison entre le { -brand-name-fi
 
 compare-safari-if-you-use-a-mac-or-have-updated = Si vous utilisez un { -brand-name-mac-short } ou avez un { -brand-name-iphone }, vous connaissez probablement le navigateur web { -brand-name-safari }. En effet, celui-ci est préinstallé par défaut pour tous les utilisateurs et utilisatrices de produits { -brand-name-apple }. C’est un avantage certain, mais { -brand-name-firefox } possède des fonctionnalités propres qui en font une alternative intéressante. De plus, il peut désormais être défini comme navigateur par défaut sur votre { -brand-name-mac-short } et { -brand-name-iphone }. Explorons les principales différences entre notre navigateur et { -brand-name-safari } en termes de confidentialité, d’utilité et de portabilité entre les appareils.
 
-# Obsolete string
-# "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = Si vous utilisez un Mac ou que vous avez un { -brand-name-iphone }, vous connaissez probablement le navigateur { -brand-name-safari }. Le fait qu’il soit préinstallé par défaut pour les utilisateurs { -brand-name-apple } lui donne un avantage certain, mais { -brand-name-firefox } possède ses propres fonctionnalités qui en font une alternative intéressante. Explorons les principales différences entre notre navigateur et { -brand-name-safari } en matière de confidentialité, d’utilité et de portabilité entre les appareils.
 
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = Le souci de la vie privée est devenu un sujet majeur pour les entreprises technologiques, car celles-ci se rendent compte que de plus en plus de personnes se sentent vulnérables face aux fuites de données, aux traqueurs publicitaires et aux pirates. Mais quand il s’agit de fournir des outils que les gens utilisent réellement pour naviguer sur le Web, parlent-elles dans le vent ou prennent-elles vraiment des mesures pour protéger vos données ?
@@ -52,18 +49,6 @@ compare-safari-also-when-you-sign-up-for-updated-v2 = De plus, lorsque vous cré
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = De plus, lorsque vous créez un compte { -brand-name-firefox }, vous avez accès à des services uniques comme <a { $pocket }>{ -brand-name-pocket }</a> directement intégrés au navigateur. Le bouton { -brand-name-pocket } pour { -brand-name-firefox } vous permet d’enregistrer des pages web et des vidéos dans { -brand-name-pocket } en un seul clic, pour les lire plus tard dans un environnement sans distractions, où et quand vous voulez (même hors ligne !).
 
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = De plus, créer un compte { -brand-name-firefox } vous donne accès à des services uniques comme <a { $pocket }>{ -brand-name-pocket }</a> et <a { $send }>{ -brand-name-send }</a> directement intégrés au navigateur. Le bouton { -brand-name-pocket } pour { -brand-name-firefox } vous permet d’enregistrer des pages Web et des vidéos dans { -brand-name-pocket } en un seul clic, pour les lire plus tard dans un environnement sans distractions, où et quand vous voulez (même hors ligne !). Grâce à { -brand-name-send }, vous pouvez partager des fichiers volumineux avec un chiffrement de bout en bout et de nombreux contrôles de sécurité, comme la possibilité de définir un délai d’expiration pour le lien d’un fichier, le nombre de téléchargements et l’ajout ou non d’un mot de passe facultatif pour une plus grande sécurité.
-
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
-compare-safari-also-when-you-sign-up-for-fallback = De plus, créer un compte { -brand-name-firefox } vous donne accès à des services uniques comme Screenshots, <a { $pocket }>{ -brand-name-pocket }</a> et <a { $send }>{ -brand-name-send }</a> directement intégrés au navigateur. Screenshots est une fonctionnalité intégrée au navigateur { -brand-name-firefox } qui vous permet de copier ou de télécharger tout ou partie d’une page Web. Lorsque vous enregistrez la capture d’écran, vous pouvez également choisir le dossier dans lequel vous souhaitez la retrouver, au lieu d’encombrer votre bureau. Le bouton { -brand-name-pocket } pour { -brand-name-firefox } vous permet d’enregistrer des pages Web et des vidéos dans { -brand-name-pocket } en un seul clic, pour les lire plus tard dans un environnement sans distractions, où et quand vous voulez (même hors ligne&nbsp;!). Grâce à { -brand-name-send }, vous pouvez partager des fichiers volumineux avec un chiffrement de bout en bout et de nombreux contrôles de sécurité, comme la possibilité de définir un délai d’expiration pour le lien d’un fichier, le nombre de téléchargements et l’ajout ou non d’un mot de passe facultatif pour une plus grande sécurité.
 compare-safari-firefox-is-also-great-for-video = La vidéo et l’audio sont également des points forts de { -brand-name-firefox }. Grâce au blocage de la lecture automatique intégré directement au navigateur et toujours activé par défaut, aucun site web ne vous fera sursauter.
 
 # Variables:

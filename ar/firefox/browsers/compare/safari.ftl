@@ -15,9 +15,6 @@ compare-safari-comparing-firefox-browser = مقارنة بين { -brand-name-fir
 
 compare-safari-if-you-use-a-mac-or-have-updated = إذا كُنت تستخدم نظام التشغيل { -brand-name-mac-short } أو تمتلك جهاز { -brand-name-iphone }، فمن المُحتمل أن تكون على دراية بمتصفح { -brand-name-safari }. ومع أن هذا المُتصفح قد اكتسب ميزة مُبكرة نظير تثبيته مسبقًا كمتصفح افتراضي لمستخدمي منتجات { -brand-name-apple }، إلا أن متصفح { -brand-name-firefox } يتمتع بمجموعة خاصة من الميزات المفيدة التي تجعله بديلًا رائعًا يُمكنك تعيينه الآن كمتصفح افتراضي على نظام تشغيل { -brand-name-mac-short } وأجهزة { -brand-name-iphone }. وسُنبيِّن في هذا المقال الاختلافات الرئيسية بين متصفحنا ومتصفح { -brand-name-safari } من حيث الخصوصية والأدوات وقابلية الحمل والنقل بين الأجهزة.
 
-# Obsolete string
-# "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = إذا كُنت تستخدم نظام التشغيل Mac أو تمتلك جهاز { -brand-name-iphone }، من المُحتمل أن تكون على دراية بمتصفح { -brand-name-safari }. ومع أن هذا المُتصفح قد اكتسب ميزة مبكرة نظير تثبيته مسبقًا كمتصفح افتراضي لمستخدمي منتجات { -brand-name-apple }، إلا أن متصفح { -brand-name-firefox } يتمتع بمجموعة خاصة من الميزات المفيدة التي تجعله بديلًا رائعًا. وسُنبيِّن في هذا المقال الاختلافات الرئيسية بين متصفحنا ومتصفح { -brand-name-safari } من حيث الخصوصية والأدوات وقابلية الحمل والنقل بين الأجهزة.
 
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = لقد أصبحت الخُصوصية الشغل الشاغل لشركات التكنولوجيا لأنها تُدرك تزايد أعداد الأشخاص الذين يشعرون بأنهم مُعرَّضون لمخاطر مثل خروقات البيانات ومُتعقِّبات الإعلانات والمخترقين. ولكن حين يتعلق الأمر بالأدوات الحقيقية التي يستخدمها الأشخاص للتنقل عبر الشبكات الداخلية الفعلية، هل يكون ذلك مجرد كلام أم أنهم يتخذون إجراءات فعلية للحفاظ على أمن بياناتك؟
@@ -52,18 +49,6 @@ compare-safari-also-when-you-sign-up-for-updated-v2 = وعلاوة على ذلك
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = وعلاوة على ذلك، فإنه عند تسجيل الدخول لحسابك على { -brand-name-firefox }، ستتمتع بخدمات فريدة تندمج مباشرةً في المتصفح مثل <a { $pocket }>{ -brand-name-pocket }</a>. يُتيح لك زر تطبيق { -brand-name-pocket } في متصفح { -brand-name-firefox } حفظ صفحات الويب والفيديوهات في تطبيق { -brand-name-pocket } بنقرة واحدة فقط، لتتمكن من قراءة تلك الصفحات لاحقًا في نسخة نظيفة وخالية من المشتِّتات متى تريد وأينما تشاء — حتى في حالة عدم الاتصال بالإنترنت.
 
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = وعلاوة على ذلك، فإنه عند تسجيل الدخول لحسابك على { -brand-name-firefox }، يُمكنك التمتع بخدمات فريدة تندمج مباشرة في المتصفح مثل <a { $pocket }>{ -brand-name-pocket }</a> و<a { $send }>{ -brand-name-send }</a>. يُتيح لك زر تطبيق { -brand-name-pocket } في متصفح { -brand-name-firefox } حفظ صفحات الويب والفيديوهات في تطبيق { -brand-name-pocket } بنقرة واحدة فقط، لتتمكن من قراءة تلك الصفحات لاحقًا في نسخة نظيفة وخالية من الإلهاء متى تريد وأينما تشاء — حتى في حالة عدم الاتصال بالإنترنت. ومن خلال استخدام خدمة { -brand-name-send }، يُمكنك مشاركة ملفات كبيرة عن طريق التشفير بين الطرفيات ومجموعة متنوعة من عناصر التحكم في الأمان، مثل القدرة على تحديد وقت انتهاء صلاحية رابط الملف وعدد التنزيلات وتقرير ما إذا كُنت تريد إضافة كلمة مرور اختيارية لرفع مستوى الأمان أم لا.
-
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
-compare-safari-also-when-you-sign-up-for-fallback = وعلاوة على ذلك، فإنه عند تسجيل الدخول لحسابك على { -brand-name-firefox }، يُمكنك التمتع ببعض الخدمات الفريدة التي تندمج مباشرة في المُتصفح مثل لقطات الشاشة و<a { $pocket }>{ -brand-name-pocket }</a> و<a { $send }>{ -brand-name-send }</a>. وتُعتبر لقطات الشاشة ميزة مُضمنة في مُتصفح { -brand-name-firefox }، تُتيح لك نسخ أو تنزيل جُزء من صفحة ويب أو الصفحة كلها. وعند حفظ لقطة شاشة، يُمكنك أيضًا اختيار المُجلد الذي تريد حفظها فيه، بدلًا من حِفظها على سطح المكتب. يُتيح لك زر تطبيق { -brand-name-pocket } في متصفح { -brand-name-firefox } حفظ صفحات الويب والفيديوهات في تطبيق { -brand-name-pocket } بنقرة واحدة فقط، لِتتمكّن من قراءة تلك الصفحات لاحقًا في نسخة نظيفة وخالية من الإلهاء متى تريد وأينما تشاء — حتى في حالة عدم الاتصال بالإنترنت. ومن خلال استخدام خدمة { -brand-name-send }، يُمكنك مُشاركة ملفات كبيرة عن طريق التشفير بين الطرفيات ومجموعة متنوعة من عناصر التحكّم في الأمان، مثل القُدرة على تحديد وقت انتهاء صلاحية رابط الملف وعدد التنزيلات وتقرير ما إذا كُنت تريد إضافة كلمة مرور اختيارية لرفع مُستوى الأمان أم لا.
 compare-safari-firefox-is-also-great-for-video = يُعتبر متصفح { -brand-name-firefox } من أفضل المتصفحات لتشغيل الفيديو والصوت. فمن خلال ميزة حظر التشغيل التلقائي المضمنة مباشرةً في المتصفح والتي تعمل تلقائيًا، لن يتم تشغيل أي فيديو أو صوت من أي موقع إلكتروني بدون إذن منك.
 
 # Variables:

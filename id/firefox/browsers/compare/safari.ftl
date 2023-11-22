@@ -15,9 +15,6 @@ compare-safari-comparing-firefox-browser = Membandingkan { -brand-name-firefox-b
 
 compare-safari-if-you-use-a-mac-or-have-updated = Jika Anda menggunakan { -brand-name-mac-short } atau memiliki { -brand-name-iphone }, kemungkinan Anda terbiasa dengan peramban web { -brand-name-safari }. Fakta bahwa aplikasi ini sudah diinstal sebelumnya sebagai peramban baku untuk pengguna produk { -brand-name-apple } pada awalnya pasti memberikan keuntungan, tetapi { -brand-name-firefox } memiliki serangkaian fitur bermanfaat yang menjadikannya alternatif menarik dan sekarang dapat disetel sebagai peramban bawaan Anda di { -brand-name-mac-short } dan { -brand-name-iphone }. Di sini kami akan mengeksplorasi perbedaan utama antara peramban kami dan { -brand-name-safari } dalam hal privasi, kegunaan, dan portabilitas antar perangkat.
 
-# Obsolete string
-# "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = Jika Anda menggunakan Mac atau memiliki { -brand-name-iphone }, kemungkinan Anda terbiasa dengan peramban web { -brand-name-safari }. Fakta bahwa aplikasi ini sudah diinstal sebelumnya sebagai peramban baku untuk pengguna produk { -brand-name-apple }, pada awalnya pasti memberikan keuntungan, tetapi { -brand-name-firefox } memiliki serangkaian fitur bermanfaat yang menjadikannya alternatif menarik. Di sini kami akan membahas perbedaan utama antara peramban kami dan { -brand-name-safari } dalam hal privasi, kegunaan, dan portabilitas antar perangkat.
 
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = Privasi telah menjadi topik yang hangat di antara perusahaan teknologi karena mereka menyadari bahwa semakin banyak orang merasa rentan terhadap pelanggaran data, pelacak iklan, dan peretas. Tetapi jika kita membahas tentang aplikasi yang digunakan orang-orang untuk menelusuri internet, apakah itu hanya omong kosong belaka atau mereka benar-benar mengambil tindakan untuk menjaga keamanan data Anda?
@@ -52,18 +49,6 @@ compare-safari-also-when-you-sign-up-for-updated-v2 = Selain itu, saat Anda mend
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = Selain itu, saat Anda mendaftar akun { -brand-name-firefox }, Anda dapat mengakses layanan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> yang terintegrasi langsung pada peramban. Tombol { -brand-name-pocket } untuk { -brand-name-firefox } memungkinkan Anda menyimpan laman web dan video ke { -brand-name-pocket } hanya dengan sekali klik, jadi Anda dapat membacanya dengan jelas, bebas dari gangguan kapan pun dan di mana pun Anda mau — bahkan saat luring.
 
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = Juga, saat Anda mendaftar akun { -brand-name-firefox }, Anda dapat mengakses layanan unik seperti <a { $pocket }>{ -brand-name-pocket }</a> dan <a { $send }>{ -brand-name-send }</a> yang terintegrasi langsung di peramban. Tombol { -brand-name-pocket } untuk { -brand-name-firefox } memungkinkan Anda menyimpan laman web dan video ke { -brand-name-pocket } hanya dengan sekali klik, jadi Anda dapat membacanya dengan jelas, bebas dari gangguan kapan pun dan di mana pun Anda mau — bahkan saat luring. Dengan { -brand-name-send } Anda dapat mengirim file berukuran besar dengan enkripsi menyeluruh dan beragam kendali keamanan, seperti kemampuan mengatur waktu kedaluwarsa untuk sebuah tautan file, jumlah unduhan, dan apakah akan menambahkan sandi opsional untuk lapisan keamanan tambahan.
-
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
-compare-safari-also-when-you-sign-up-for-fallback = Juga, saat Anda mendaftar akun { -brand-name-firefox }, Anda dapat mengakses layanan unik seperti Tangkapan layar, <a { $pocket }>{ -brand-name-pocket }</a>, dan <a { $send }>{ -brand-name-send }</a> yang terintegrasi langsung ke peramban. Tangkapan layar adalah fitur yang tersemat langsung di peramban { -brand-name-firefox }, sehingga Anda dapat dengan mudah menyalin atau mengunduh sebagian atau semua bagian laman web. Saat Anda menyimpan tangkapan layar, Anda juga dapat memilih folder untuk menyimpannya, alih-alih memenuhi desktop Anda. Tombol { -brand-name-pocket } untuk { -brand-name-firefox } memungkinkan Anda menyimpan laman web dan video ke { -brand-name-pocket } hanya dengan sekali klik, jadi Anda dapat membacanya dengan jelas, bebas dari gangguan kapan pun dan di mana pun Anda mau — bahkan saat luring. Dengan { -brand-name-send }, Anda dapat mengirim file berukuran besar dengan enkripsi menyeluruh dan beragam kendali keamanan, seperti kemampuan mengatur waktu kedaluwarsa untuk sebuah tautan file, jumlah unduhan, dan apakah akan menambahkan sandi opsional untuk lapisan keamanan tambahan.
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } juga sangat bagus untuk menayangkan video dan audio. Dengan pemblokiran putar otomatis yang tersemat di peramban dan diaktifkan secara otomatis, tidak ada situs web yang akan berteriak atau membentak Anda tanpa diundang.
 
 # Variables:

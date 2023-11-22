@@ -15,9 +15,6 @@ compare-safari-comparing-firefox-browser = { -brand-name-firefox-browser } と {
 
 compare-safari-if-you-use-a-mac-or-have-updated = { -brand-name-mac-short } または { -brand-name-iphone } をお使いの方は、{ -brand-name-safari } ウェブブラウザーがおなじみのはずです。{ -brand-name-apple } の既定のブラウザーとしてプリインストールされていることで優位性が与えられていますが、{ -brand-name-firefox } にも便利な機能があり、代替として魅力的であるといえます。そしてこれを { -brand-name-mac-short } および { -brand-name-iphone } の既定のブラウザーに設定できるようになりました。ここでは、プライバシー、実用性、デバイス間のポータブル性から { -brand-name-safari } と Firefox を比較します。
 
-# Obsolete string
-# "Mac" is a brand name, used here as informal shorthand for "macOS computer".
-compare-safari-if-you-use-a-mac-or-have = Mac か { -brand-name-iphone } をお使いの方なら、{ -brand-name-safari } がおなじみのはずです。{ -brand-name-apple } の既定のブラウザーとしてプリインストールされていることで優位性が与えられていますが、{ -brand-name-firefox } にも便利な機能があり、代替として魅力的であるといえます。ここでは、プライバシー、実用性、デバイス間のポータブル性から Firefox と { -brand-name-safari } を比較します。
 
 # A "white hot topic" is something a lot of people are talking about. "Interwebs" is a slang term for the web. Alternative: "web".
 compare-safari-privacy-has-become-a-white = データ侵害や広告トラッカー、ハッカーといったものにユーザーの警戒感が高まっていることを受けて、プライバシーはハイテク企業にとって注目のトピックとなっています。ただし、実際のインターウェブを操作するユーザーが利用するツールについては、企業は口だけなのでしょうか、それとも本当にユーザーのデータを守るための措置をとっているのでしょうか。
@@ -52,18 +49,6 @@ compare-safari-also-when-you-sign-up-for-updated-v2 = また、{ -brand-name-moz
 #   $pocket (string) - link to getpocket.com with additional attributes for analytics
 compare-safari-also-when-you-sign-up-for-updated = また、{ -brand-name-firefox } アカウントに登録すると、ブラウザーに直接統合された <a { $pocket }>{ -brand-name-pocket }</a> など独自のサービスにアクセスできます。{ -brand-name-firefox } 用 { -brand-name-pocket } ボタンを使用すると、ワンクリックでウェブページや動画を { -brand-name-pocket } に保存できるため、いつでもどこでも、オフラインでもクリーンで妨害のないバージョンを閲覧できます。
 
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-compare-safari-also-when-you-sign-up-for = また、{ -brand-name-firefox } アカウントに登録すると、ブラウザーに直接統合された <a { $pocket }>{ -brand-name-pocket }</a> や <a { $send }>{ -brand-name-send }</a> など独自のサービスにアクセスできます。{ -brand-name-firefox } 用 { -brand-name-pocket } ボタンを使用すると、ワンクリックでウェブページや動画を { -brand-name-pocket } に保存できるため、いつでもどこでも、オフラインでもクリーンで妨害のないバージョンを閲覧できます。{ -brand-name-send } を使用すると、エンドツーエンド暗号化を使用して大型のファイルを共有できます。例えば、ファイルリンクの有効期限の設定、ダウンロード回数、追加のセキュリティレイヤー用にオプションのパスワードを追加するかどうかなど、さまざまなセキュリティコントロールを使用できます。
-
-# Obsolete string
-# Variables:
-#   $pocket (string) - link to getpocket.com with additional attributes for analytics
-#   $send (string) - link to send.firefox.com with additional attributes for analytics
-# "Screenshots" is a brand name when capitalized and plural, but also appears here as a regular, non-brand term (lowercase and singular).
-compare-safari-also-when-you-sign-up-for-fallback = また、{ -brand-name-firefox } アカウントに登録すると、ブラウザーに直接統合されたスクリーンショットや <a { $pocket }>{ -brand-name-pocket }</a>、<a { $send }>{ -brand-name-send }</a> など独自のサービスにアクセスできます。スクリーンショットは、{ -brand-name-firefox } 内蔵の機能で、ウェブページの一部でも全部でもコピーまたはダウンロードできます。スクリーンショットを保存するときは保存先のフォルダーを選択でき、デスクトップが散らかることがありません。{ -brand-name-firefox } 用 { -brand-name-pocket } ボタンを使用すると、ワンクリックでウェブページや動画を { -brand-name-pocket } に保存できるため、いつでもどこでも、オフラインでもクリーンで妨害のないバージョンを閲覧できます。{ -brand-name-send } を使用すると、エンドツーエンド暗号化を使用して大型のファイルを共有できます。例えば、ファイルリンクの有効期限の設定、ダウンロード回数、追加のセキュリティレイヤー用にオプションのパスワードを追加するかどうかなど、さまざまなセキュリティコントロールを使用できます。
 compare-safari-firefox-is-also-great-for-video = { -brand-name-firefox } は、ビデオ・オーディオにも最適です。ブラウザーに直接組み込まれ、自動的にオンになっている自動再生ブロックにより、ウェブサイトが突然大きな音を出すことはありません。
 
 # Variables:
