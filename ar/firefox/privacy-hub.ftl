@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = عندما تدخل عنوان �
 firefox-privacy-hub-check-for-breaches = تحقّق من أي خروقات
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = يتم تشفير كلمات المرور وبيانات الاعتماد في { -brand-name-firefox-lockwise } على كل الأجهزة، ومن ثم لا يُمكننا حتى رؤيتها.
-firefox-privacy-hub-learn-more-about-lockwise = اطَّلِع على المزيد حول { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = لا يُمكننا رؤية أسماء أو محتويات الملفات كبيرة الحجم التي تُشاركها من خلال { -brand-name-firefox-send } لأنها مُشفرة من طرف إلى طرف - فأنت تختار من يَرى ما تُرسله، و يُمكنك حتى تحديد تاريخ انتهاء الصلاحية وكلمة المرور.
 firefox-privacy-hub-send-a-file = أرسِل ملفًا

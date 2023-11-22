@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = जब आप { -brand-name-fire
 firefox-privacy-hub-check-for-breaches = उल्लंघनों के लिए देखें
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = आप जो भी पासवर्ड और निजी जानकारी { -brand-name-firefox-lockwise } में सेव करते हैं, वे आपकी डिवाइस पर एन्क्रिप्ट होते हैं, इसलिए हम भी उन्हें देख नहीं सकते।
-firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } के बारे में और अधिक जानें
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = आप { -brand-name-firefox-send } के माध्यम से जो बड़ी फ़ाइल साझा करते हैं, हम उनके नाम या कंटेंट नहीं देख सकते, क्योंकि वे पूरी तरह से एनक्रिप्ट होती हैं — आप खुद चुनते हैं कि आपकी भेजी सामग्री को कौन देख सकता है और यहाँ तक कि आप उनमें एक समाप्ति की तारीख और पासवर्ड भी लगा सकते हैं।
 firefox-privacy-hub-send-a-file = एक फ़ाइल भेजें

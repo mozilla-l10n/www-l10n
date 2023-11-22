@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = Wenn du deine E-Mail-Adresse in 
 firefox-privacy-hub-check-for-breaches = E-Mail auf Datenlecks überprüfen
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Die Passwörter und Zugangsdaten, die du in { -brand-name-firefox-lockwise } speicherst, werden auf allen deinen Geräten verschlüsselt, sodass nicht einmal wir sie sehen können.
-firefox-privacy-hub-learn-more-about-lockwise = Weitere Informationen zu { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Wir können Namen und Inhalte der Dateien, die du mit { -brand-name-firefox-send } teilst, nicht sehen, weil diese Ende-zu-Ende verschlüsselt sind. Du bestimmst, wer die gesendeten Dateien sieht, und kannst sogar ein Ablaufdatum und ein Passwort festlegen.
 firefox-privacy-hub-send-a-file = Datei senden

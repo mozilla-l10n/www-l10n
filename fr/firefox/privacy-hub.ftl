@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = Quand vous saisissez votre adres
 firefox-privacy-hub-check-for-breaches = Vérifier les fuites de données
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Les mots de passe et identifiants que vous enregistrez dans { -brand-name-firefox-lockwise } sont chiffrés sur tous vos appareils. Même nous ne pouvons pas les voir.
-firefox-privacy-hub-learn-more-about-lockwise = En savoir plus sur { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Ne nous voyons ni le nom ni le contenu des fichiers que vous partagez sur { -brand-name-firefox-send } car ils sont chiffrés de bout en bout. C’est vous qui décidez qui peut accéder à ce que vous envoyez et vous pouvez même les protéger davantage avec un mot de passe et une date d’expiration.
 firefox-privacy-hub-send-a-file = Envoyer un fichier

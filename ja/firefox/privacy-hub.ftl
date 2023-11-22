@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = { -brand-name-firefox-monitor } 
 firefox-privacy-hub-check-for-breaches = 侵害を確認
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = ユーザーが { -brand-name-firefox-lockwise } に保存したパスワードと資格情報は全デバイス上で暗号化されますので、Mozilla でさえも読み取ることができません。
-firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } の詳細
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = { -brand-name-firefox-send }でユーザーが共有する大型ファイルのファイル名や内容はエンドツーエンドで暗号化されているので、Mozilla はそれを見ることができません。ユーザーが送信するファイルを見ることができる者は、ユーザー自身が決定します。また、有効期限とパスワードを設定することもできます。
 firefox-privacy-hub-send-a-file = ファイルを送信

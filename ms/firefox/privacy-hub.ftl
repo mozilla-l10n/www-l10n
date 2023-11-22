@@ -104,7 +104,6 @@ firefox-privacy-hub-when-you-enter-your-email = Apabila anda memasukkan alamat e
 firefox-privacy-hub-check-for-breaches = Periksa jika ada kebocoran
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Kata laluan dan kelayakan yang anda simpan di { -brand-name-firefox-lockwise } dienkripsi pada semua peranti anda, jadi kami juga tidak dapat melihatnya.
-firefox-privacy-hub-learn-more-about-lockwise = Ketahui lebih lanjut tentang { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Kami tidak dapat melihat nama atau kandungan fail besar yang anda kongsi melalui { -brand-name-firefox-send } kerana ia dienkripsi dari hujung ke hujung — anda boleh pilih siapa yang melihat sesuatu yang anda hantar, malahan anda juga boleh menetapkan tarikh luput dan kata laluan.
 firefox-privacy-hub-send-a-file = Hantar fail
