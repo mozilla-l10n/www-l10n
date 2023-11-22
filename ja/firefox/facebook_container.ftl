@@ -17,15 +17,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = デスクトップ用 { -brand-name-firefox } は <a href="{ $url }">{ $link_copy }</a> にてダウンロードしてください。
 
-# Obsolete string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 拡張機能はモバイルデバイスでは使用できません。
-
 facebook-container-get-firefox-android-ios = { -brand-name-android } 用・{ -brand-name-ios } 用 { -brand-name-firefox } をダウンロード。
-
-# Obsolete string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } 用・{ -brand-name-ios } 用のプライバシーブラウザー、<strong>{ -brand-name-firefox-focus }</strong> をお試しください。
-
 facebook-container-opt-out-on-your-terms = 随意にトラッキングを拒否
 
 # Variables:

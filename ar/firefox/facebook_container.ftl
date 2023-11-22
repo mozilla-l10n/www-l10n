@@ -17,15 +17,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = تفضل بزيارة <a href="{ $url }">{ $link_copy }</a> لتنزيل { -brand-name-firefox } لأجهزة سطح المكتب.
 
-# Obsolete string
-facebook-container-the-facebook-container-extension = لا تتوفر الإضافة { -brand-name-facebook-container } على أجهزة الجوّال.
-
 facebook-container-get-firefox-android-ios = نزّل { -brand-name-firefox } لنظام { -brand-name-android } و{ -brand-name-ios } الآن.
-
-# Obsolete string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = جرّب <strong>{ -brand-name-firefox-focus }</strong>، ومتصفح الخصوصية لنظام { -brand-name-android } و{ -brand-name-ios }.
-
 facebook-container-opt-out-on-your-terms = اجعل الأمر يَسير وفق شروط
 
 # Variables:
