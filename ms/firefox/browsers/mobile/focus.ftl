@@ -10,16 +10,10 @@ mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Pelayar 
 # HTML description
 mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } adalah pelayar privasi khusus untuk anda dengan perlindungan penjejakan automatik.
 
-# Obsolete string
-mobile-focus-firefox-focus-is-your-dedicated = { -brand-name-firefox-focus } adalah pelayar privasi khusus untuk anda dengan perlindungan penjejakan automatik dan penyekat iklan.
-
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Pelayar mudah alih yang benar-benar peribadi
 
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } adalah pelayar privasi khusus untuk anda dengan perlindungan penjejakan automatik. Dengan { -brand-name-focus }, halaman web dimuatkan lebih pantas dan data anda kekal peribadi.
-
-# Obsolete string
-mobile-focus-firefox-focus-dedicated-with = { -brand-name-firefox-focus } adalah pelayar privasi khusus untuk anda dengan perlindungan penjejakan automatik dan penyekat iklan. Dengan { -brand-name-focus }, halaman web dimuatkan lebih pantas dan data anda kekal peribadi.
 
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } boleh didapati untuk peranti-peranti { -brand-name-ios } dan { -brand-name-android }.
 
@@ -28,17 +22,11 @@ mobile-focus-send-a-download-link-to-your = Hantar pautan muat turun ke telefon 
 mobile-focus-scan-the-qr-code-to-get-started = Imbas kod QR untuk bermula
 mobile-focus-scan-alt-text = Imbas kod QR untuk mendapatkan { -brand-name-firefox-focus }
 
-# Obsolete string
-mobile-focus-disappear-your-history = Padamkan sejarah anda
-
 mobile-focus-delete-your-history = Padamkan sejarah anda
 
 mobile-focus-easily-erase-your = Padamkan sejarah, kata laluan dan kuki anda dengan mudah, agar iklan-iklan penyibuk tidak mengekori anda dalam talian. Hanya ketik butang padam pada medan carian dan ia akan hilang.
 
 mobile-focus-take-private-mode = Bawakan mod peribadi ke tahap lebih tinggi
-
-# Obsolete string
-mobile-focus-private-browsing-on = "Pelayaran peribadi" pada kebanyakan pelayar tidaklah begitu peribadi sebenarnya. { -brand-name-firefox-focus } berada di standard lebih tinggi, sentiasa dalam mod privasi dan disokong oleh { -brand-name-mozilla }, organisasi bukan berasaskan keuntungan yang memperjuangkan hak anda di internet.
 
 mobile-focus-private-browsing-on-v2 = "Pelayaran peribadi" pada kebanyakan pelayar tidaklah begitu peribadi sebenarnya. { -brand-name-firefox-focus } menawarkan privasi pada standard yang lebih tinggi secara automatik dan disokong oleh { -brand-name-mozilla }, organisasi bukan berasaskan keuntungan yang memperjuangkan hak anda di internet.
 
@@ -48,9 +36,6 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } menghalang ban
 mobile-focus-see-it-all = Lihat semuanya dengan lebih pantas
 
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } menghalang penjejak agar laman yang anda kunjungi kurang menggunakan data dan memuat dengan lebih pantas. Selain itu, pinkan sehingga empat ikon pintas di laman utama dan layari laman web kegemaran anda segera tanpa perlu menaip.
-
-# Obsolete string
-mobile-focus-focus-removes-trackers-v2 = { -brand-name-focus } menghalang penjejak dan membolehkan penyekat iklan agar laman web yang anda layari kurang menggunakan data dan memuat dengan lebih pantas. Selain itu, pinkan sehingga empat ikon pintasan di laman utama dan layari laman web kegemaran anda dengan segera tanpa perlu menaip.
 
 mobile-focus-made-by-mozilla = Diperbuat oleh { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Kami percaya semua orang patut mempunyai kawalan ke atas kehidupan mereka dalam talian. Inilah yang telah kami perjuangkan sejak 1998.
