@@ -43,6 +43,6 @@ vpn-download-also-available = Također dostupno za:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = Od proizvođača { -brand-name-firefox }, { -brand-name-mozilla-vpn } koristi napredni <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>® protokol za šifrovanje vaše aktivnosti na mreži i skrivanje vaše lokacije.
+vpn-download-from-the-maker = Od proizvođača { -brand-name-firefox }, { -brand-name-mozilla-vpn } koristi napredni <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokol za šifrovanje vaše aktivnosti na mreži i skrivanje vaše lokacije.
 vpn-download-we-never-log = Nikada ne evidentiramo, pratimo ili dijelimo vaše mrežne podatke.
 vpn-download-previous-versions = Preuzmite prethodne verzije za { -brand-name-windows } i { -brand-name-mac-short }
