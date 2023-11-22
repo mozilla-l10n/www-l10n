@@ -16,8 +16,8 @@ vpn-features-convenient = Kullanışlı
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] { $countries }+ ülkede { $countries } taneden fazla sunucu
-       *[other] { $countries }+ ülkede { $countries } taneden fazla sunucu
+        [one] { $servers }+ ülkede { $countries } taneden fazla sunucu
+       *[other] { $servers }+ ülkede { $countries } taneden fazla sunucu
     }
 vpn-features-see-our-list = Sunucu listemize göz atın.
 # Variables:
