@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } पाएँ
 vpn-shared-waitlist-link = वेटिंग लिस्ट में शामिल हों
 vpn-shared-sign-in-link = आप पहले से ही सब्सक्राइबर हैं?
 
-# Obsolete string
-vpn-shared-available-countries-v5 = अभी हम { -brand-name-mozilla-vpn } को ऑस्ट्रिया, बेल्जियम, कनाडा, फ़िनलैंड, फ़्रांस, जर्मनी, आयरलैंड, इटली, मलेशिया, नीदरलैंड, न्यूज़ीलैंड, सिंगापुर, स्पेन, स्वीडन, स्विट्ज़रलैंड, यूके और यूएस में ऑफ़र कर रहे हैं।
-
 vpn-shared-available-countries-v6 = अभी हम { -brand-name-mozilla-vpn } को ऑस्ट्रिया, बेल्जियम, बुल्गारिया, कनाडा, क्रोएशिया, साइप्रस, चेक रिपब्लिक, डेनमार्क, एस्टोनिया, फ़िनलैंड, फ़्रांस, जर्मनी, हंगरी, आयरलैंड, इटली, लातविया, लिथुआनिया, लक्ज़मबर्ग, मलेशिया, माल्टा, नीदरलैंड, न्यूज़ीलैंड, पोलैंड, पुर्तगाल, रोमानिया, सिंगापुर, स्लोवेनिया, स्लोवाकिया, स्पेन, स्वीडन, स्विट्ज़रलैंड, यूके और यूएस में ऑफ़र कर रहे हैं।
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = सुझाव
 
 vpn-shared-pricing-plan-12-month-v2 = 12-माह वाला प्लान
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 माह
-
 vpn-shared-pricing-plan-monthly-v2 = मासिक प्लान
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = प्रतिमाह
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/माह</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/माह + टैक्स</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = 6 माह का प्लान लें
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = 12 माह का प्लान लें
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = 6-माह वाला प्लान लें
 
 vpn-shared-pricing-get-12-month-v2 = 12-माह वाला प्लान लें
 vpn-shared-pricing-get-monthly = मासिक प्लान लें
@@ -125,6 +107,8 @@ vpn-shared-save-percent-on = { $percent }% की बचत करें { -bran
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *जब आप 12-महीने के प्लान वाला सब्सक्रिप्शन लेते हैं
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *वार्षिक सब्सक्रिप्शन के साथ
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +155,7 @@ vpn-subnav-vpn-vs-proxy = VPN बनाम प्रॉक्सी
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } का सब्सक्रिप्शन लें
 vpn-subnav-learn-about-vpns = VPN के बारे में और अधिक जानें
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } डाउनलोड करें
+vpn-subnav-features = फ़ीचर्स
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +187,15 @@ vpn-shared-why-bundle = दोनों साथ में क्यों?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } वार्षिक प्लान पर <span>{ $percent }%</span> की बचत करें
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } अभी आपके देश में उपलब्ध नहीं है
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = इसका यहां उल्लेख हुआ है:
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } का VPN अपने { -brand-name-firefox } ब्राउज़र के <a { $attrs }>कुछ खास निजता-सुरक्षा फ़ीचर्स</a> में भी इंटीग्रेट हो सकता है।”
+vpn-press-unique-features-like-its-multi-account = "...अनूठे फ़ीचर्स, जैसे कि इसका मल्टी-अकाउंट कंटेनर्स, के चलते यह फ़ीचर उन यूज़र्स को सहज अच्छा लगेगा जिनके लिए निजता कहीं अधिक गंभीर मुद्दा है"
+vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } के फ़ीचर्स की लिस्ट अब लॉन्च के बाद से काफी लंबी हो गई है, और यह सेवा अब कुछ क्षेत्रों के कई विशेषज्ञ VPN को मात देने लगी है।”
