@@ -40,3 +40,14 @@ vpn-ip-address-you-dont-need = Ne morate sakrivati svoju IP adresu, ali ponekad 
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Postoje i situacijski razlozi za skrivanje vaše IP adrese. Možda ga želite sakriti kada putujete. VPN će vam također pružiti <a href="{ $url }">više privatnosti</a> kada se povežete na WiFi za prijenos i kupovinu dok istražujete svijet.
 vpn-ip-address-how-do-you = Kako je sakriti?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = VPN je način da sakrijete svoju IP adresu. <a href="{ $vpn }">Kada koristite VPN</a>, vaša eksterna IP adresa će dolaziti sa vanjske IP adrese VPN servera, a ne s vanjske IP adrese vaše lokacije. Dakle, ako se vaš VPN server za povezivanje nalazi u Kaliforniji, vaš vanjski IP će izgledati kao da je povezan iz Kalifornije, bez obzira gdje se zapravo nalazite. Osim toga, vaša internet aktivnost se šalje putem šifrovane, sigurne veze na vaš VPN server, što vam daje dodatnu sigurnost i privatnost. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je jedan od načina da sakrijete svoju IP adresu. Ne vodimo evidenciju vaših internet aktivnosti i ne sarađujemo s trećim stranama koje grade profile onoga što radite na internetu. Nudimo potpunu zaštitu uređaja za do pet uređaja sa serverima u preko { $countries } zemalja, možete se povezati bilo gdje, s bilo kojeg mjesta.
+# Obsolete string
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is = VPN je način da sakrijete svoju IP adresu. <a href="{ $vpn }">Kada koristite VPN</a>, vaša eksterna IP adresa će dolaziti sa vanjske IP adrese VPN servera, a ne s vanjske IP adrese vaše lokacije. Dakle, ako se vaš VPN server za povezivanje nalazi u Kaliforniji, vaš vanjski IP će izgledati kao da je povezan iz Kalifornije, bez obzira gdje se zapravo nalazite. Osim toga, vaša internet aktivnost se šalje putem šifrovane, sigurne veze na vaš VPN server, što vam daje dodatnu sigurnost i privatnost. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je jedan od načina da sakrijete svoju IP adresu. Ne vodimo dnevnike aktivnosti niti smo partneri s analitičkim platformama trećih strana. Nudimo potpunu zaštitu uređaja za do pet uređaja sa serverima u preko { $countries } zemalja, možete se povezati bilo gdje, s bilo kojeg mjesta.
