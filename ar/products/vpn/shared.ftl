@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = احصل على { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = انضم إلى قائمة الانتظار
 vpn-shared-sign-in-link = هل أنت مشترك بالفعل؟
 
-# Obsolete string
-vpn-shared-available-countries-v5 = نُوفّر مُتصفّح { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وكندا وفنلندا وفرنسا وألمانيا وأيرلندا وإيطاليا وماليزيا وهولندا ونيوزيلندا وسنغافورة وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
-
 vpn-shared-available-countries-v6 = نوفّر { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وبلغاريا وكندا وكرواتيا وقبرص وجمهورية التشيك والدنمارك وإستونيا وفنلندا وفرنسا وألمانيا والمجر وأيرلندا وإيطاليا ولاتفيا وليتوانيا ولوكسمبورغ وماليزيا ومالطا وهولندا ونيوزيلندا وبولندا والبرتغال ورومانيا وسنغافورة وسلوفينيا وسلوفاكيا وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = يُنصح به
 
 vpn-shared-pricing-plan-12-month-v2 = خطة 12 شهرًا
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 شهرًا
-
 vpn-shared-pricing-plan-monthly-v2 = الخطة الشهرية
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = شهريًا
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/شهر</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/شهر + ضريبة</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = احصل على خطة مدتها 6 أشهر
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = احصل على خطة مدتها 12 شهرًا
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = احصل على خطة مُدتها 6 أشهر
 
 vpn-shared-pricing-get-12-month-v2 = احصل على خطة مُدتها 12 شهرًا
 vpn-shared-pricing-get-monthly = احصل على خطة شهرية

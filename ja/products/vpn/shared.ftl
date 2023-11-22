@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } をダウンロード
 vpn-shared-waitlist-link = ウェイトリストに登録
 vpn-shared-sign-in-link = 既にサブスクリプションをご契約の場合
 
-# Obsolete string
-vpn-shared-available-countries-v5 = 現在、{ -brand-name-mozilla-vpn } はアイルランド、イタリア、オーストリア、オランダ、カナダ、シンガポール、スイス、スウェーデン、スペイン、ドイツ、ニュージーランド、フィンランド、フランス、ベルギー、マレーシア、英国、米国で提供しています。
-
 vpn-shared-available-countries-v6 = 現在 { -brand-name-mozilla-vpn } を提供している国は、オーストリア、ベルギー、ブルガリア、カナダ、クロアチア、キプロス、チェコ共和国、デンマーク、エストニア、フィンランド、フランス、ドイツ、ハンガリー、アイルランド、イタリア、ラトビア、リトアニア、ルクセンブルク、マレーシア、マルタ、オランダ、ニュージーランド、ポーランド、ポルトガル、ルーマニア、シンガポール、スロベニア、スロバキア、スペイン、スウェーデン、スイス、英国、米国です。
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = おすすめ
 
 vpn-shared-pricing-plan-12-month-v2 = 年額プラン
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 か月
-
 vpn-shared-pricing-plan-monthly-v2 = 月額プラン
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = 毎月
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/月</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/月 + 税</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = 6 か月プランを契約
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = 12 か月プランを契約
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = 6 か月プランを契約
 
 vpn-shared-pricing-get-12-month-v2 = 12 か月プランを契約
 vpn-shared-pricing-get-monthly = 月額プランを契約

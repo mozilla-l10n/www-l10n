@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = Jetzt { -brand-name-mozilla-vpn } nutzen
 vpn-shared-waitlist-link = Der Warteliste beitreten
 vpn-shared-sign-in-link = Bereits Kunde?
 
-# Obsolete string
-vpn-shared-available-countries-v5 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Deutschland, Finnland, Frankreich, Irland, Italien, Kanada, Malaysia, Neuseeland, den Niederlanden, Schweden, der Schweiz, Singapur, Spanien, dem Vereinigten Königreich, den USA und Österreich an.
-
 vpn-shared-available-countries-v6 = Derzeit bieten wir { -brand-name-mozilla-vpn } in Belgien, Bulgarien, Deutschland, Dänemark, Estland, Finnland, Frankreich, Irland, Italien, Kanada, Kroatien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Neuseeland, den Niederlanden, Polen, Portugal, Rumänien, Schweden, der Schweiz, Singapur, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, den USA, dem Vereinigten Königreich, Zypern und Österreich an.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = Empfehlung
 
 vpn-shared-pricing-plan-12-month-v2 = 12-Monats-Abo
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Monate
-
 vpn-shared-pricing-plan-monthly-v2 = Monatliches Abo
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = 1 Monat
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/Monat</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/Monat zzgl. Steuern</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = 6-Monats-Abo wählen
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = 12-Monats-Abo wählen
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = 6-Monats-Abo wählen
 
 vpn-shared-pricing-get-12-month-v2 = 12-Monats-Abo wählen
 vpn-shared-pricing-get-monthly = 1-Monats-Abo wählen
@@ -125,6 +107,8 @@ vpn-shared-save-percent-on = Sparen Sie { $percent } % auf { -brand-name-mozill
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *wenn Sie ein 12-Monatsabonnement abschließen
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = * mit einem Jahresabonnement
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +155,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonnieren
 vpn-subnav-learn-about-vpns = Mehr zum Thema VPNs
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } herunterladen
+vpn-subnav-features = Funktionen
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +187,15 @@ vpn-shared-why-bundle = Warum ein Abo-Paket?
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Sparen Sie { $percent } %</span> auf ein { -brand-name-relay-premium } Jahresabo.
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ist in deinem Land noch nicht verfügbar
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Bekannt aus
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = „Das VPN von { -brand-name-mozilla } lässt sich auch in einige <a { $attrs }>raffinierte Datenschutzfunktionen</a> des { -brand-name-firefox }-Browsers integrieren.”
+vpn-press-unique-features-like-its-multi-account = „…einzigartige Funktionen, wie die Multi-Account-Container, könnten die Funktion für User mit ernsthafteren Datenschutzbedenken leicht zugänglich machen.“
+vpn-press-mozilla-vpns-feature-list-has-grown = „Die Funktionsliste von { -brand-name-mozilla-vpn } wurde seit der Einführung erheblich erweitert. Der Dienst übertrifft in einigen Bereichen mittlerweile viele spezialisierte VPNs.“

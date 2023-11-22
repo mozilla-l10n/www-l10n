@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = Dapatkan { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Sertai Senarai Menunggu
 vpn-shared-sign-in-link = Sudah melanggan?
 
-# Obsolete string
-vpn-shared-available-countries-v5 = Pada ketika ini, kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Kanada, Finland, Perancis, Jerman, Ireland, Itali, Malaysia, Belanda, New Zealand, Singapura, Sepanyol, Sweden, Switzerland, UK dan AS.
-
 vpn-shared-available-countries-v6 = Kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Singapura, Slovenia, Slovakia, Spain, Sweden, Switzerland, UK dan AS.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = Disyorkan
 
 vpn-shared-pricing-plan-12-month-v2 = Pelan 12 bulan
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Bulan
-
 vpn-shared-pricing-plan-monthly-v2 = Pelan bulanan
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Bulanan
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/bulan</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/bulan + cukai</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = Dapatkan pelan 6 bulan
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = Dapatkan pelan 12 bulan
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Dapatkan pelan 6 bulan
 
 vpn-shared-pricing-get-12-month-v2 = Dapatkan pelan 12 bulan
 vpn-shared-pricing-get-monthly = Dapatkan pelan bulanan

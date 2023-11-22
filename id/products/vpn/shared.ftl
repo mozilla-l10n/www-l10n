@@ -9,9 +9,6 @@ vpn-shared-subscribe-link = Dapatkan { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bergabunglah ke Daftar Tunggu
 vpn-shared-sign-in-link = Sudah menjadi pelanggan?
 
-# Obsolete string
-vpn-shared-available-countries-v5 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgia, Kanada, Finlandia, Prancis, Jerman, Irlandia, Italia, Malaysia, Belanda, Selandia Baru, Singapura, Spanyol, Swedia, Swiss, Inggris, dan AS.
-
 vpn-shared-available-countries-v6 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgia, Bulgaria, Kanada, Kroasia, Siprus, Republik Ceko, Denmark, Estonia, Finlandia, Prancis, Jerman, Hungaria, Irlandia, Italia, Latvia, Lituania, Luksemburg, Malaysia, Malta, Belanda, Selandia Baru, Polandia, Portugal, Rumania, Singapura, Slovenia, Slovakia, Spanyol, Swedia, Swiss, Inggris, dan AS.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -85,13 +82,7 @@ vpn-shared-pricing-recommended-offer = Direkomendasikan
 
 vpn-shared-pricing-plan-12-month-v2 = Paket 12 Bulan
 
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Bulan
-
 vpn-shared-pricing-plan-monthly-v2 = Paket bulanan
-
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Bulanan
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -101,15 +92,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/bulan</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/bulan + pajak</span>
-
-# Obsolete string
-vpn-shared-pricing-get-6-month = Dapatkan paket 6 bulan
-
-# Obsolete string
-vpn-shared-pricing-get-12-month = Dapatkan paket 12 bulan
-
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Dapatkan paket 6 bulan
 
 vpn-shared-pricing-get-12-month-v2 = Dapatkan paket 12 bulan
 vpn-shared-pricing-get-monthly = Dapatkan paket bulanan
