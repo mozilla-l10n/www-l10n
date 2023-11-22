@@ -49,3 +49,18 @@ vpn-what-is-while-a-vpn = Iako VPN pruža sigurnu vezu s internetom, on vas ne �
 vpn-what-is-are-vpns-legal = Da li su VPN-ovi legalni?
 vpn-what-is-installing-and-using = Instaliranje i korištenje VPN-a trenutno je legalno u većini zemalja, uključujući Sjedinjene Države, UK, Kanadu i Novi Zeland, ali neke zemlje mogu regulisati njihovu upotrebu. Ako se odlučite za korištenje VPN-a, vaša je odgovornost provjeriti zakone zemlje kako biste utvrdili je li korištenje legalno ili ne.
 vpn-what-is-are-vpns-only = Da li su VPN-ovi samo za računare?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPN-ovi se mogu koristiti za zaštitu svih vaših uređaja — računara, laptopa, tableta i telefona. Ako pristupate internetu putem samostalnih aplikacija van pretraživača, VPN je dobar izbor za zaštitu vaše privatnosti i sigurnosti na bilo kojem uređaju. Morat ćete instalirati VPN na svaki uređaj da bi bio efikasan. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> nudi neograničenu vezu za do pet uređaja kada se povežete na internet iz bilo koje aplikacije ili pretraživača.
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brz, siguran, pouzdan
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju vaših mrežnih aktivnosti i ne sarađujemo s trećim stranama koje grade profile onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala “nova normalnost”, znamo da je važnije nego ikad da se osjećate sigurno i da znate da je ono što radite na mreži vaša stvar.
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju vaših mrežnih aktivnosti i ne sarađujemo s trećim stranama koje grade profile onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala nova normalnost…
+# Obsolete string
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju korisničkih podataka i ne sarađujemo sa analitičkim platformama trećih strana koje žele da izgrade profil onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala “nova normalnost”, znamo da je važnije nego ikad da se osjećate sigurno i da znate da je ono što radite na mreži vaša stvar.
