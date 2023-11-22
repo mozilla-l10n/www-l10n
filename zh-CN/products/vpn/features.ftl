@@ -49,7 +49,7 @@ vpn-features-easily-exclude-apps = 轻松将应用排除出 VPN 保护范围，�
 vpn-features-set-different-locations = 为 { -brand-name-firefox } 中的标签页分别设置服务器位置
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = 将 { -brand-name-mozilla-vpn } 与 Multi-Account Containers { -brand-name-firefox } 扩展合用为每个 { -brand-name-firefox } 标签页设置不同的 VPN 位置。 <a { $containers }>了解方法</a>。
+vpn-features-combine-mozilla-vpn-with-containers = 将 { -brand-name-mozilla-vpn } 与 Multi-Account Containers { -brand-name-firefox } 扩展合用，为每个 { -brand-name-firefox } 标签页设置不同的 VPN 位置。a { $containers }>了解方法</a>。
 vpn-features-trustworthy = 可信赖
 vpn-features-money-back = 30 天退款保证
 vpn-features-plus-customer-support = 另有 24/7 客户支持。
@@ -60,7 +60,7 @@ vpn-features-simply-put-we-dont = 一句话，我们不会收集您的个人浏�
 vpn-features-built-transparently = 代码开源，透明打造
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
-vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } 采用开源代码构建所有代码都可公开访问。查看我们的 <a { $github }>GitHub 仓库</a>。
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } 采用开源代码构建，所有代码都可公开访问。查看我们的 <a { $github }>GitHub 仓库</a>。
 vpn-features-reviewed-by-third = 经第三方安全专家评审
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
