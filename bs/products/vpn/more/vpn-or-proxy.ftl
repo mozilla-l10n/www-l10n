@@ -33,3 +33,12 @@ vpn-or-proxy-vpns-do-more = VPN-ovi rade više od proxyja u tome što proxy šti
 vpn-or-proxy-a-vpn-works = VPN funkcioniše tako što stvara siguran “tunel” između vašeg uređaja i interneta u cjelini. Štiti vašu privatnost na dva ključna načina:
 vpn-or-proxy-concealing-your-ip = Prikrivanje vaše IP adrese, zaštita vašeg identiteta i skrivanje vaše lokacije.
 vpn-or-proxy-encrypting-your-traffic = Šifrovanje vašeg prometa između vas i vašeg VPN provajdera tako da ga niko na vašoj lokalnoj mreži ne može dešifrovati ili modifikovati.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN također nudi sigurnost na otvorenim i javnim WiFi vezama. Otvoreni WiFi može biti rizičan i nemoguće je biti siguran da se neko drugi ne povezuje na istu mrežu kako bi njuškao šta radite. Čak i ako je vaš promet šifrovan, oni i dalje mogu vidjeti koje stranice posjećujete. A ako koristite aplikaciju koja nema enkripciju — a čak i danas, mnogi nemaju — onda mogu vidjeti sve što radite u toj aplikaciji. { -brand-name-mozilla-vpn } je brza, sigurna i pouzdana usluga koja vam može pomoći da zatvorite sigurnosni jaz. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> također vam omogućava da odaberete svoju “lokaciju” (iz koje izgleda da dolazi vaš saobraćaj) iz više od { $countries } zemalja.
+vpn-or-proxy-choose-a-trustworthy = Odaberite uslugu od povjerenja
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-or-proxy-the-most-important = Najvažnija stvar koju treba uzeti u obzir pri odabiru VPN ili proxy usluge je odabir kompanije od povjerenja. Budite sigurni da razumijete uslove na koje pristajete. Mnogi tvrde da su sjajni i fokusirani na privatnost, ali veliki broj njih ne ispunjava svoje obećanje. Nisu sve proxy i VPN usluge sigurne i privatne. Neki <a href="{ $cnet }">će</a> <a href="{ $pcmag }">zabilježiti</a> vaše online aktivnosti kako bi mogli prodati vaše podatke i informacije samim marketinškim firmama. Druge usluge će vas pokušati uvjeriti da instalirate zlonamjerni softver na svoje uređaje.
