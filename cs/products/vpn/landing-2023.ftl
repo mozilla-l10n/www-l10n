@@ -49,7 +49,7 @@ vpn-landing-fram-a-brand-you-can-trust = Od značky, které můžete věřit
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je nezisková internetová společnost, která už od roku 1998 bojuje za zdravý web.
 vpn-landing-one-subscription-for-all-your = Jedno předplatné pro všechna vaše zařízení
 # HTML for emphasis
-vpn-landing-powered-by-mozilla-fighting-for = <strong>Od { -brand-name-mozilla(case: "gen") }</strong>.</strong> Bojujeme za vaše právo na soukromí od roku 1998.
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Od { -brand-name-mozilla(case: "gen") }.</strong> Bojujeme za vaše právo na soukromí od roku 1998.
 vpn-landing-learn-more-from-our-experts = Zjistěte více od našich odborníků
 vpn-landing-do-you-need-a-vpn-at-home = Potřebujete VPN doma? Zde je 5 důvodů, proč byste měli.
 vpn-landing-what-is-an-ip-address = Co je to IP adresa?
