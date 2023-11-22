@@ -20,7 +20,7 @@ vpn-landing-keeps-your-data-safe = 在公共 Wi-Fi 中保护数据安全
 vpn-landing-log-in-to-your-bank-or = 在机场、咖啡厅或者任何地方登录您的银行或者医生办公室的信息请高枕无忧。
 vpn-landing-blocks-advertisers-from = 拒绝广告商定向推广
 vpn-landing-hide-your-activity-from = 对跟踪器和恶意软件隐藏您的活动安全购物而不被监视。
-vpn-landing-helps-you-access-global = 帮助您访问全球内容
+vpn-landing-helps-you-access-global = 助您访问全球内容
 vpn-landing-check-out-streaming-media = 无论在旅途中还是在家都能看到其他国家/地区的流媒体、网站和直播。
 vpn-landing-features = 功能
 # Variables:
