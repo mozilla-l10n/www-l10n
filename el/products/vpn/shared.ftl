@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-sign-in-link = Είστε ήδη συνδρομητής;
-# Obsolete string
-vpn-shared-available-countries-v5 = Προς το παρόν, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Γαλλία, τη Γερμανία, την Ελβετία, το Ηνωμένο Βασίλειο, τις ΗΠΑ, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, τη Σιγκαπούρη, τη Σουηδία και τη Φινλανδία.
 vpn-shared-available-countries-v6 = Αυτήν τη στιγμή, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Βουλγαρία, τη Γαλλία, τη Γερμανία, τη Δανία, την Ελβετία, την Εσθονία, τις ΗΠΑ, το Ηνωμένο Βασίλειο, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, την Κροατία, την Κύπρο, τη Λετονία, τη Λιθουανία, το Λουξεμβούργο, τη Μάλτα, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, την Ουγγαρία, την Πολωνία, την Πορτογαλία, τη Ρουμανία, τη Σιγκαπούρη, τη Σλοβακία, τη Σλοβενία, τη Σουηδία, την Τσεχία και τη Φινλανδία.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Επιλέξτε το πρόγραμμα 
 vpn-shared-pricing-variable-sub-heading = Όλα μας τα πακέτα περιλαμβάνουν:
 vpn-shared-pricing-recommended-offer = Προτείνεται
 vpn-shared-pricing-plan-12-month-v2 = 12μηνο πακέτο
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 μηνών
 vpn-shared-pricing-plan-monthly-v2 = Μηνιαίο πακέτο
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Μηνιαία
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/μήνα</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/μήνα+ φόρος</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Απόκτηση 6-μηνιαίου προγράμματος
-# Obsolete string
-vpn-shared-pricing-get-12-month = Απόκτηση 12-μηνιαίου προγράμματος
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Απόκτηση 6-μηνιαίου πακέτου
 vpn-shared-pricing-get-12-month-v2 = Απόκτηση ετήσιου πακέτου
 vpn-shared-pricing-get-monthly = Απόκτηση μηνιαίου προγράμματος
 # Variables:
@@ -165,3 +153,10 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } �
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Έγραψαν για εμάς
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = «Το VPN της { -brand-name-mozilla } μπορεί επίσης να <a { $attrs }>ενσωματωθεί σε κάποιες εξαιρετικές λειτουργίες προστασίας απορρήτου</a> του προγράμματος περιήγησής της, του { -brand-name-firefox }.»
+vpn-press-unique-features-like-its-multi-account = «…μοναδικές λειτουργίες, όπως τα Multi-Account Containers, μπορούν να καταστήσουν εύκολα προσβάσιμη τη δυνατότητα σε χρήστες με σοβαρές ανησυχίες απορρήτου.»
+vpn-press-mozilla-vpns-feature-list-has-grown = «Η λίστα δυνατοτήτων του { -brand-name-mozilla-vpn } έχει επεκταθεί σημαντικά από την κυκλοφορία και η υπηρεσία ξεπερνά πλέον πολλά εξειδικευμένα VPN σε ορισμένους τομείς.»

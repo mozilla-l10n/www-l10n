@@ -9,6 +9,10 @@ vpn-pricing-page-title = Τιμολόγηση - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Μία συνδρομή για όλες τις συσκευές σας
+vpn-pricing-annual = Ετήσια
+vpn-pricing-monthly = Μηνιαία
+vpn-pricing-get-annual-subscription = Απόκτηση ετήσιας συνδρομής
+vpn-pricing-get-monthly-subscription = Απόκτηση μηνιαίας συνδρομής
 vpn-pricing-vpn-not-available = Το { -brand-name-mozilla-vpn } δεν είναι ακόμα διαθέσιμο στη χώρα σας
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Συχνές ερωτήσεις
