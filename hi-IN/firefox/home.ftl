@@ -22,12 +22,6 @@ firefox-home-start-getting-breach = डेटा उल्लंघन से �
 firefox-home-un-spam-your-life = { -brand-name-relay } से अपना जीवन स्पैम-मुक्त करें
 firefox-home-try-relay = { -brand-name-relay } आज़माएँ
 
-# Obsolete string
-firefox-home-keep-your-passwords = अपने पासवर्ड हर डिवाइस पर सुरक्षित रखें
-
-# Obsolete string
-firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } के बारे में और अधिक जानें
-
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = वह <strong>सम्मान</strong> पाएँ जो आपका हक है
 
@@ -36,11 +30,6 @@ firefox-home-every-single-firefox = { -brand-name-firefox } का हर उत
 
 firefox-home-every-single-mozilla = { -brand-name-mozilla } का हर उत्पाद, व्यक्तिगत डेटा की सुरक्षा के हमारे वचन का पालन करता है: <strong>कम से कम डेटा लेना। इसे सुरक्षित रखना। कोई सीक्रेट नहीं</strong>
 
-# Obsolete string
-firefox-home-share-large-files-without = किसी निगरानी के बिना बड़ी फ़ाइलें शेयर करें
-
-# Obsolete string
-firefox-home-start-sending-files = सुरक्षित ढंग से फ़ाइलें भेजना शुरू करें
 firefox-home-trade-clickbait-for = गुणवत्ता सामग्री के लिए ट्रेड क्लिकबेट
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } के बारे में और अधिक जानें
 firefox-home-protection-for-your-whole = हरेक डिवाइस पर, आपके समूचे डिवाइस के लिए सुरक्षा।

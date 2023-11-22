@@ -22,12 +22,6 @@ firefox-home-start-getting-breach = 侵害レポートの利用を始める
 firefox-home-un-spam-your-life = { -brand-name-relay } で生活をスッキリと
 firefox-home-try-relay = { -brand-name-relay } を試用
 
-# Obsolete string
-firefox-home-keep-your-passwords = すべてのデバイスでパスワードの安全を守る
-
-# Obsolete string
-firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } について詳しく知る
-
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = あなたの<strong>プライバシーを尊重</strong>します
 
@@ -36,11 +30,6 @@ firefox-home-every-single-firefox = { -brand-name-firefox } 製品は、どれ�
 
 firefox-home-every-single-mozilla = { -brand-name-mozilla } 製品は、どれも Mozilla の個人データ保護の約束「<strong>収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと</strong>」を守っています。
 
-# Obsolete string
-firefox-home-share-large-files-without = 侵入されずに大きなファイルを共有する
-
-# Obsolete string
-firefox-home-start-sending-files = ファイルを安全に送信する
 firefox-home-trade-clickbait-for = クリックベイトと質の高いコンテンツを交換
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } について詳しく知る
 firefox-home-protection-for-your-whole = すべてのデバイスで、デバイス全体を保護します。

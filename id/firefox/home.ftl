@@ -22,12 +22,6 @@ firefox-home-start-getting-breach = Mulai dapatkan laporan pembobolan
 firefox-home-un-spam-your-life = Hidup bebas spam dengan { -brand-name-relay }
 firefox-home-try-relay = Coba { -brand-name-relay }
 
-# Obsolete string
-firefox-home-keep-your-passwords = Amankan kata sandi Anda di semua perangkat
-
-# Obsolete string
-firefox-home-learn-more-about-lockwise = Pelajari lebih lanjut mengenai { -brand-name-lockwise }
-
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dapatkan <strong>kehormatan</strong> yang pantas Anda dapatkan
 
@@ -36,11 +30,6 @@ firefox-home-every-single-firefox = Setiap produk { -brand-name-firefox } mengho
 
 firefox-home-every-single-mozilla = Setiap produk { -brand-name-mozilla } menghormati Janji Data Pribadi kami: <strong>Ambil lebih sedikit. Jaga agar tetap aman. Tanpa rahasia.</strong>
 
-# Obsolete string
-firefox-home-share-large-files-without = Bagikan file berukuran besar tanpa risiko pelanggaran privasi.
-
-# Obsolete string
-firefox-home-start-sending-files = Mulailah mengirim file dengan aman
 firefox-home-trade-clickbait-for = Dapatkan kualitas, bukan clickbait
 firefox-home-learn-more-about-pocket = Pelajari lebih lanjut mengenai { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Perlindungan menyeluruh untuk perangkat Anda, di setiap perangkat.

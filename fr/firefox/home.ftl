@@ -22,12 +22,6 @@ firefox-home-start-getting-breach = Recevoir les alertes
 firefox-home-un-spam-your-life = Dites adieu au spam avec { -brand-name-relay }
 firefox-home-try-relay = Essayer { -brand-name-relay }
 
-# Obsolete string
-firefox-home-keep-your-passwords = Gérez vos mots de passe de manière sécurisée sur tous vos appareils
-
-# Obsolete string
-firefox-home-learn-more-about-lockwise = En savoir plus sur { -brand-name-lockwise }
-
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Retrouvez le <strong>respect</strong> que vous méritez
 
@@ -36,11 +30,6 @@ firefox-home-every-single-firefox = Chacun des produits { -brand-name-firefox } 
 
 firefox-home-every-single-mozilla = Chacun des produits { -brand-name-mozilla } respecte notre engagement concernant la protection de la vie privée : <strong>nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien.</strong>
 
-# Obsolete string
-firefox-home-share-large-files-without = Partagez vos fichiers volumineux à l’abri des regards indiscrets
-
-# Obsolete string
-firefox-home-start-sending-files = Envoyer des fichiers en toute sécurité
 firefox-home-trade-clickbait-for = Des articles de qualité plutôt que des pièges à clics
 firefox-home-learn-more-about-pocket = En savoir plus sur { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Une protection de l’ensemble de votre appareil, sur chaque appareil.
