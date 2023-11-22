@@ -15,8 +15,6 @@ mobile-compare-since-your-mobile = Votre navigateur mobile vous permet d’accé
 mobile-compare-which-mobile-browser = Quel navigateur mobile est le meilleur pour respecter la confidentialité ?
 mobile-compare-at-a-minimum-v2 = Au minimum, un navigateur mobile doit proposer une version du « mode de navigation privée » qui supprime automatiquement votre historique de navigation et de recherche. Et à cet égard, les cinq navigateurs mobiles comparés ici se révèlent efficaces.
 
-# Obsolete string
-mobile-compare-at-a-minimum = Au minimum, un navigateur mobile doit proposer une version du « mode de navigation privée » qui supprime automatiquement votre historique de navigation et de recherche. Et à cet égard, les 7 navigateurs mobiles comparés ici se révèlent efficaces.
 mobile-compare-another-mobile-feature = Une autre fonctionnalité que chaque navigateur mobile devrait inclure est la possibilité d’empêcher les sites web et les entreprises de suivre vos données de navigation et vos achats, même en mode de navigation normal.
 mobile-compare-blocking-thirdparty-trackers = Bloquer les traqueurs tiers n’est pas seulement important en termes de confidentialité. Cela permet aussi de charger les pages bien plus rapidement, sans tous ces fragments de code qui ralentissent votre navigateur.
 mobile-compare-from-the-chart = Si l’on observe le tableau plus haut, il est clair que { -brand-name-firefox } propose les paramètres de sécurité et de confidentialité les plus complets parmi ces cinq navigateurs, et propose même un tableau de bord offrant un aperçu de votre niveau de sécurité et de confidentialité en ligne.

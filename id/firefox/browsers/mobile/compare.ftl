@@ -15,8 +15,6 @@ mobile-compare-since-your-mobile = Karena peramban seluler adalah sumber informa
 mobile-compare-which-mobile-browser = Peramban seluler mana yang paling menjaga kerahasiaan?
 mobile-compare-at-a-minimum-v2 = Minimal, peramban seluler Anda harus menyediakan beberapa versi “mode penjelajahan pribadi” yang otomatis menghapus riwayat penjelajahan dan pencarian Anda. Dalam lingkup ini, kelima peramban dibandingkan dengan skor berikut.
 
-# Obsolete string
-mobile-compare-at-a-minimum = Minimal, peramban seluler Anda harus menyediakan beberapa versi “mode penjelajahan pribadi” yang otomatis menghapus riwayat penjelajahan dan pencarian Anda. Dalam lingkup ini, ketujuh peramban dibandingkan dengan skor berikut.
 mobile-compare-another-mobile-feature = Fitur seluler lain yang harus ditambahkan ialah kemampuan untuk mencegah laman web dan perusahaan agar tidak melacak data penjelajahan dan belanja Anda — bahkan di mode penjelajahan biasa.
 mobile-compare-blocking-thirdparty-trackers = Memblokir pelacak pihak ketiga tidak hanya penting bagi privasi — tapi juga untuk memuat halaman lebih cepat, tanpa berbagai kode yang terlampir sendiri dan memperlambat peramban Anda.
 mobile-compare-from-the-chart = Dari bagan di atas, jelas { -brand-name-firefox } menawarkan perangkat privasi dan keamanan terlengkap dari lima peramban dan menyediakan dasbor untuk memantau keamanan dan privasi daring Anda secara keseluruhan.

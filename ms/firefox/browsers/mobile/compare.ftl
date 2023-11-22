@@ -15,8 +15,6 @@ mobile-compare-since-your-mobile = Oleh kerana pelayar mudah alih adalah sumber 
 mobile-compare-which-mobile-browser = Pelayar mudah alih mana yang mengekalkan kerahsiaan?
 mobile-compare-at-a-minimum-v2 = Sekurang-kurangnya, pelayar mudah alih anda harus menyediakan versi "mod pelayaran peribadi," yang secara automatik menghapuskan sejarah pelayaran dan carian anda. Dalam hal ini, kesemua tujuh pelayar yang dibandingkan di sini mendapat kutipan mata.
 
-# Obsolete string
-mobile-compare-at-a-minimum = Sekurang-kurangnya, pelayar mudah alih anda harus menyediakan beberapa versi "mod pelayaran peribadi," yang secara automatik menghapuskan sejarah pelayaran dan carian anda. Dalam hal ini, ketujuh-tujuh pelayar yang dibandingkan di sini mendapat mata.
 mobile-compare-another-mobile-feature = Satu lagi ciri mudah alih yang perlu ada ialah kemampuan untuk mencegah laman web dan syarikat daripada menjejaki data pelayaran dan membeli-belah anda — walaupun dalam mod pelayaran biasa.
 mobile-compare-blocking-thirdparty-trackers = Menyekat penjejak pihak ketiga bukan hanya mustahak untuk privasi — ia juga membantu memuatkan laman dengan lebih pantas, tanpa cebisan kod yang tersisip dan melembapkan pelayar anda.
 mobile-compare-from-the-chart = Daripada carta di atas, jelas bahawa { -brand-name-firefox } menawarkan kit privasi dan keselamatan paling lengkap daripada lima pelayar ini dan membekalkan gambaran menyeluruh untuk kesemua keselamatan dan privasi dalam talian anda.

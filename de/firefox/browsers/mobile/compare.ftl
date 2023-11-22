@@ -15,8 +15,6 @@ mobile-compare-since-your-mobile = Da Ihr mobiler Browser Ihr Zugang zu Informat
 mobile-compare-which-mobile-browser = Welcher mobile Browser hält die Dinge vertraulich?
 mobile-compare-at-a-minimum-v2 = Zumindest sollte Ihr mobiler Browser eine Version des „privaten Surf-Modus“ bereitstellen, der Ihre Chronik und Ihren Suchverlauf automatisch löscht. In diesem Bereich punkten alle fünf hier verglichenen Browser.
 
-# Obsolete string
-mobile-compare-at-a-minimum = Zumindest sollte Ihr mobiler Browser eine Version des „privaten Surf-Modus“ bereitstellen, der Ihre Chronik und Ihren Suchverlauf automatisch löscht. In diesem Bereich punkten alle sieben hier verglichenen Browser.
 mobile-compare-another-mobile-feature = Eine weitere mobile Funktion, die selbstverständlich sein sollte, ist die Möglichkeit, Websites und Unternehmen daran zu hindern, Ihre Surf- und Einkaufsdaten zu verfolgen – selbst im normalen Surf-Modus.
 mobile-compare-blocking-thirdparty-trackers = Das Blockieren von Trackern von Drittanbietern ist nicht nur für den Datenschutz wichtig – es hilft auch, dass Seiten viel schneller geladen werden, ohne dass Sie diesen Quelltext auch laden müssen, was Ihren Browser verlangsamt.
 mobile-compare-from-the-chart = Aus der obigen Tabelle geht hervor, dass { -brand-name-firefox } den umfassendsten Datenschutz- und Sicherheits-Werkzeugkasten der fünf Browser bietet und einen Überblick über Ihre allgemeine Sicherheit und Ihren Datenschutz im Internet bereitstellt.
