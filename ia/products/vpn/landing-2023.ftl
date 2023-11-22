@@ -10,7 +10,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Protege tote tu apparato
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-desc = Usa { -brand-name-mozilla-vpn } pro le protection total del apparato pro tote le apps. Con servitores in plus de { $paises } paises, tu pote connecter te a ubique, non importa ubi tu es.
+vpn-landing-desc = Usa { -brand-name-mozilla-vpn } pro le protection total del apparato pro tote le apps. Con servitores in plus de { $countries } paises, tu pote connecter te a ubique, non importa ubi tu es.
 vpn-landing-powerful-privacy-for-peace = Potente confidentialitate pro tu tranquillitate
 vpn-landing-whats-a-vpn = Que es un VPN?
 vpn-landing-a-virtual-private-network-protects = Un rete virtual private protege tu connexion a internet, mantene tu position e lo que tu face online plus private inter tu apparatos.
