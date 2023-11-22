@@ -34,3 +34,4 @@ vpn-pricing-get-monthly-subscription = Obtener subscription mensual
 vpn-pricing-faqs = Folios a questiones
 vpn-pricing-refund-policy = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-pricing-the-first-time-you = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
+vpn-pricing-how-do-i-manage = Como gere io mi abonamento e cambia mi plano?
