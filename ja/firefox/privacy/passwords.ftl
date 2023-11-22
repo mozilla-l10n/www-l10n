@@ -39,9 +39,6 @@ privacy-passwords-your-browser-also = ブラウザーもまた、ウェブサイ
 
 privacy-passwords-firefox-will-v2 = そのウェブサイトがフィッシングウェブサイトとして確認されている場合、{ -brand-name-firefox } にはそのサイトではなく警告が表示されます。
 
-# Obsolete string
-privacy-passwords-firefox-will = そのウェブサイトがフィッシングウェブサイトとして確認されている場合、Firefox にはそのサイトではなく警告が表示されます。
-
 privacy-passwords-in-general-the = 一般に、フィッシング防止の最善策は、メールやテキストメッセージ、スマートフォンにに表示されるもの全てについて、<strong>受け取った内容を疑ってかかることです。</strong>受信したメッセージに対応せず、ウェブサイトに直接訪問しましょう。たとえば、PayPal のパスワードをリセットする必要があるという内容をメールで受け取った場合、そのメールのリンクをクリックしてはなりません。その代わりに、自分で paypal.com と入力しましょう。銀行から電話があった場合は、銀行に電話をかけ直しましょう。
 privacy-passwords-strength-in-diversity = 多様性の長所
 privacy-passwords-the-secret-to = パスワードを推測や盗難、リセットされるのを防止するための秘訣は、無作為性を大幅に高めることです。攻撃者は、パスワードを推測する際に、通常 1) 「辞書」(多くの人々が使用する一般的なパスワードのリスト) を使用する、そして 2) 無作為に推測するという、2 種類の行動を取ります。<strong>パスワードは、文字数が多く、比較的無作為性の高いほど</strong>、そのいずれの推測法においても解読される可能性が低くなります。
@@ -88,8 +85,3 @@ privacy-passwords-for-better-or = 良かれ悪かれ、今後ともオンライ�
 #   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
 #   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
 privacy-passwords-in-todays-internet-v2 = 毎日何千件ものパスワードが盗まれ、アカウントが闇市場で取引されている現在のインターネットでは、オンライン生活の安全を維持する労力に大きな意義があります。{ -brand-name-firefox } 製品は、Mozilla の<a { $url_privacy_products }>プライバシー保護の約束</a>を守るために作成されていますので、そうした労力が軽減されます。また、{ -brand-name-firefox } は、それを支える非営利組織 <a { $url_about_manifesto }>{ -brand-name-mozilla } の、より良いインターネットの構築というミッション</a>を常にガイドラインとしています。
-
-# Obsolete string
-#   $url_privacy_products (string) - link to https://www.mozilla.org/firefox/privacy/products/ with additional attributes for analytics
-#   $url_about_manifesto (string) - link to https://www.mozilla.org/about/manifesto/ with additional attributes for analytics
-privacy-passwords-in-todays-internet = 毎日何千件ものパスワードが盗まれ、アカウントが闇市場で取引されている現在のインターネットでは、オンライン生活の安全を維持する労力は報われます。{ -brand-name-firefox } 製品は、Mozilla の<a { $url_privacy_products }>プライバシー保護の約束</a>を守るために作成されていますので、そうした労力が軽減されます。また、{ -brand-name-firefox } は、それを支える非営利組織<a { $url_about_manifesto }> Mozilla の、より良いインターネットの構築というミッション</a>を常にガイドラインとしています。
