@@ -50,23 +50,6 @@ firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = 本当のメールアドレスを保護して迷惑メールを防止しましょう。
 firefox-products-learn-more-about-relay = { -brand-name-firefox-relay } について詳しく知る
 
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = パスワードを安全に保存して同期デバイスすべてで使用できます。
-
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } をダウンロード
-
-# Obsolete string
-firefox-products-open-in-firefox = { -brand-name-firefox } で開く
-
-# Obsolete string
-firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } の詳細
-
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 最大2.5GBまでの大きなファイルを安全に送信。
 firefox-products-send-a-file = ファイルを送信
 firefox-products-pocket = { -brand-name-pocket }

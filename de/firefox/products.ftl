@@ -50,23 +50,6 @@ firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Schützen Sie Ihre echte E-Mail-Adresse, um Ihren Posteingang besser zu kontrollieren.
 firefox-products-learn-more-about-relay = Weitere Informationen zu { -brand-name-firefox-relay }
 
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Schütze deine Passwörter und greife auf allen synchronisierten Geräten darauf zu.
-
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } herunterladen
-
-# Obsolete string
-firefox-products-open-in-firefox = In { -brand-name-firefox } öffnen
-
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Weitere Infos zu { -brand-name-lockwise }
-
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Sende großen Dateien und vertraulichen Dokumente bis zu 2,5 GB sicher und geschützt.
 firefox-products-send-a-file = Datei senden
 firefox-products-pocket = { -brand-name-pocket }

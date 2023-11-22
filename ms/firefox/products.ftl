@@ -50,23 +50,6 @@ firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Lindungi alamat e-mel yang sebenar untuk melindungi peti e-mel anda.
 firefox-products-learn-more-about-relay = Ketahui lebih lanjut tentang { -brand-name-firefox-relay }
 
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Pastikan kata laluan anda selamat dan akses kata laluan anda di semua peranti yang diselaraskan.
-
-# Obsolete string
-firefox-products-download-lockwise = Muat turun { -brand-name-lockwise }
-
-# Obsolete string
-firefox-products-open-in-firefox = Buka di { -brand-name-firefox }
-
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Ketahui lebih lanjut tentang { -brand-name-lockwise }
-
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Hantar fail besar dan dokumen sensitif anda dengan selamat, sehingga 2.5G.
 firefox-products-send-a-file = Hantar fail
 firefox-products-pocket = { -brand-name-pocket }
