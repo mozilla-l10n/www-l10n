@@ -5,19 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Hãy giúp { -brand-name-mozilla } đấu tranh để có một Internet tốt hơn trong mùa lễ này.
-banner-fundraising-title-giving-day = Hãy giúp { -brand-name-mozilla } đấu tranh để có một internet tốt hơn vào lễ Giving Tuesday.
-# Outdated string
-banner-fundraising-title = Tương lai đang được quyết định trực tuyến. Giúp { -brand-name-mozilla } chiến đấu vì một web cho tất cả chúng ta.
-banner-fundraising-body-v2 = Chúng tôi tự hào là tổ chức phi lợi nhuận, đang nỗ lực để giữ cho web hoạt động tốt. Những đóng góp của bạn giúp xây dựng một mạng internet mở và an toàn.
-# Outdated string
-banner-fundraising-body = Dữ liệu cá nhân của chúng tôi được thu thập mỗi khi chúng tôi truy cập web và không dễ dàng để tìm hiểu điều gì xảy ra với nó. Thông tin sai lệch đang khiến chúng ta khó tìm ra sự thật hơn. Các thiết bị kết nối web được tung ra thị trường mà không đáp ứng các tiêu chuẩn bảo mật tối thiểu. Tổ chức phi lợi nhuận { -brand-name-mozilla-foundation } chiến đấu để làm cho Internet an toàn, cởi mở và có thể truy cập được cho tất cả mọi người. <strong>Bạn sẽ quyên góp hôm nay chứ?</strong>
-banner-fundraising-body-extra = Bạn có thể quyên góp ngày hôm nay?
-banner-fundraising-monthly = Hàng tháng
-banner-fundraising-one-time = Một lần
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Quyên góp cho { -brand-name-mozilla } cho Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Đã đến lúc đòi lại Internet từ tay những công nghệ lớn. Bạn có thể quyên góp cho { -brand-name-mozilla } cho Giving Tuesday?
+banner-fundraising-title-1 = Quyên góp cho { -brand-name-mozilla }. Đòi lại tiếng nói internet.
+banner-fundraising-tagline-1 = Đã đến lúc đòi lại Internet từ tay công nghệ lớn. Bạn có thể quyên góp cho { -brand-name-mozilla }?
+banner-fundraising-title-2 = Lấy lại quyền kiểm soát internet.
+banner-fundraising-tagline-2 = Mọi người không còn kiểm soát trực tuyến. Đó là Big Tech. Quyên góp cho { -brand-name-mozilla } và đòi lại internet.
+banner-fundraising-title-3 = Bạn có thể quyên góp cho { -brand-name-mozilla }?
+banner-fundraising-tagline-3 = { -brand-name-mozilla } luôn đặt mọi người lên trên lợi nhuận. Quyên góp cho { -brand-name-mozilla } và giúp duy trì Internet lành mạnh.
 banner-fundraising-donate = Quyên góp
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = ${ $amount }
