@@ -9,12 +9,6 @@ browsers-mobile-firefox-mobile-browsers-put = Les navigateurs mobiles { -brand-n
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Un aperçu de tous les navigateurs mobiles { -brand-name-firefox } ({ -brand-name-firefox } pour { -brand-name-android }, { -brand-name-firefox } pour { -brand-name-ios }, { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = À la maison ou en déplacement, vous méritez la confidentialité sur chaque appareil. La protection renforcée contre le pistage est automatique sur chaque navigateur mobile { -brand-name-firefox }.
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = Installez le navigateur mobile qui donne la priorité à votre <strong>vie privée</strong>
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } pour { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Infiniment personnalisable, privé et sécurisé, { -brand-name-firefox } pour { -brand-name-android } est un navigateur ultrarapide qui ne vous exploitera jamais.

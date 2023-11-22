@@ -9,12 +9,6 @@ browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } モバイ�
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = { -brand-name-firefox } モバイルブラウザーのラインナップ ({ -brand-name-android } 用 { -brand-name-firefox }、{ -brand-name-ios } 用 { -brand-name-firefox }、{ -brand-name-firefox-focus }) の概要
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = 自宅でも移動中でも、プライバシーはすべてのデバイスで大切なものです。強化型トラッキング防止機能は、すべての { -brand-name-firefox } モバイルブラウザーに自動的に備わっています。
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = <strong>プライバシー</strong>を第一に考えたモバイルブラウザーを手に入れよう
 
 browsers-mobile-firefox-for-android = { -brand-name-android } 用 { -brand-name-firefox }
 browsers-mobile-infinitely-customizable-private = どこまでもカスタマイズ可能、プライベート、安全な { -brand-name-android } 用 { -brand-name-firefox } は、個人情報を売り渡すことのない高速のブラウザーです。

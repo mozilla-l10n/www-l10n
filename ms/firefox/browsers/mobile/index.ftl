@@ -9,12 +9,6 @@ browsers-mobile-firefox-mobile-browsers-put = Pelayar mudah alih { -brand-name-f
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Gambaran keseluruhan bagi semua pelayar mudah alih { -brand-name-firefox } ({ -brand-name-firefox } untuk { -brand-name-android }, { -brand-name-firefox } untuk { -brand-name-ios }, { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = Di rumah mahupun dalam perjalanan, anda berhak beroleh privasi bagi setiap peranti. Dalam setiap pelayar mudah alih { -brand-name-firefox }, Enhanced Tracking Protection dihidupkan secara automatik.
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = Dapatkan pelayar mudah alih yang mengutamakan <strong>privasi</strong> anda
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } untuk { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Amat mudah untuk diperibadikan, berciri privasi dan keselamatan tinggi, { -brand-name-firefox } untuk { -brand-name-android } adalah pelayar yang pantas dan tidak akan sekali-kali menjual data anda.

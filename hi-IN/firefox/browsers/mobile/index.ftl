@@ -9,12 +9,6 @@ browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } मोब�
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = सभी { -brand-name-firefox } मोबाइल ब्राउज़रों पर एक नज़र ({ -brand-name-android } वाला { -brand-name-firefox }, { -brand-name-ios } वाला{ -brand-name-firefox }, { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = घर पर, सफर में या कहीं भी, आपका अधिकार है कि हर डिवाइस में आपकी निजता बरकरार रहे। प्रत्येक { -brand-name-firefox } मोबाइल ब्राउज़र में उन्नत ट्रैकिंग सुरक्षा ऑटोमैटिक है।
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = वह मोबाइल ब्राउज़र पाएँ जो आपकी <strong>निजता</strong> को सबसे ज्यादा महत्व देता है
 
 browsers-mobile-firefox-for-android = { -brand-name-android } के लिए { -brand-name-firefox }
 browsers-mobile-infinitely-customizable-private = { -brand-name-android } के लिए - जितना मन चाहे उतना कस्टमाइज़ करने लायक, गोपनीय व सुरक्षित { -brand-name-firefox } एक धाँसू स्पीड वाला ब्राउज़र है, जो आपको कभी धोखा नहीं देगा।

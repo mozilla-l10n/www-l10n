@@ -9,12 +9,6 @@ browsers-mobile-firefox-mobile-browsers-put = Für die mobilen Browser von { -br
 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Ein Überblick über sämtliche mobile Browser von { -brand-name-firefox } ({ -brand-name-firefox } für { -brand-name-android }, { -brand-name-firefox } für { -brand-name-ios }, { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = Ob zu Hause oder unterwegs, du verdienst Privatsphäre auf jedem Gerät. Der verbesserte Tracking-Schutz ist in jedem mobilen Browser von { -brand-name-firefox } automatisch verfügbar.
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = Hol dir den mobilen Browser, bei dem dein <strong>Datenschutz</strong> an erster Stelle steht
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } für { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Unbegrenzt anpassbar, privat und sicher, { -brand-name-firefox } für { -brand-name-android } ist ein blitzschneller Browser, der dich nie verrät.
