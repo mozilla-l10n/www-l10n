@@ -27,19 +27,12 @@ sub-navigation-features = 機能
 sub-navigation-support = サポート
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = アドオン
-
 sub-navigation-add-ons = アドオン
 sub-navigation-faq = よくあるご質問
 sub-navigation-learn-more = もっと詳しく
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = モバイル用 { -brand-name-firefox }
 
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = { -brand-name-android } 用アドオン
-
-sub-navigation-android-add-ons = { -brand-name-android } 用アドオン
 sub-navigation-chromebook = { -brand-name-chromebook }
 
 # Obsolete string

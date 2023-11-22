@@ -27,19 +27,12 @@ sub-navigation-features = Fitur
 sub-navigation-support = Dukungan
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Pengaya
-
 sub-navigation-add-ons = Pengaya
 sub-navigation-faq = Pertanyaan Umum
 sub-navigation-learn-more = Pelajari Selengkapnya
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } untuk Seluler
 
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Pengaya { -brand-name-android }
-
-sub-navigation-android-add-ons = Pengaya { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 
 # Obsolete string

@@ -27,19 +27,12 @@ sub-navigation-features = Funktionen
 sub-navigation-support = Hilfe
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Add-ons
-
 sub-navigation-add-ons = Add-ons
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = Weitere Informationen
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } für Mobilgeräte
 
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Add-ons für { -brand-name-android }
-
-sub-navigation-android-add-ons = Add-ons für { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 
 # Obsolete string

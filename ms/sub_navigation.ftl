@@ -27,19 +27,12 @@ sub-navigation-features = Ciri-ciri
 sub-navigation-support = Bantuan
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Tambahan
-
 sub-navigation-add-ons = Tambahan
 sub-navigation-faq = Soalan Lazim
 sub-navigation-learn-more = Ketahui Lebih Lanjut
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } untuk Mudah Alih
 
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Tambahan { -brand-name-android }
-
-sub-navigation-android-add-ons = Tambahan { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 
 # Obsolete string
