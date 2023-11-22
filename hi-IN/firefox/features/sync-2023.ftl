@@ -15,10 +15,6 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } म�
 features-sync-sign-up-for-a-free-mozilla-account-v3 = मुफ़्त <a { $fxa }>{ -brand-name-mozilla-account } के लिए साइन अप करें</a> और आप अपने डेटा को हर उस जगह सिंक कर पाएंगे जहां आप { -brand-name-firefox } और अन्य { -brand-name-mozilla } उत्पादों का उपयोग करते हैं।
 
 # Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">मुफ़्त { -brand-name-mozilla-account } के लिए साइन अप करें</a> और तब आप अपने { -brand-name-firefox } ब्राउज़र का उपयोग करते हुए हर जगह अपना डेटा सिंक कर पाएंगे।
-
-# Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">मुफ़्त { -brand-name-firefox } अकाउंट के लिए साइन अप करें</a> और तब आप अपने { -brand-name-firefox } ब्राउज़र का उपयोग करते हुए हर जगह अपना डेटा सिंक कर पाएंगे।
 
 # Variables:

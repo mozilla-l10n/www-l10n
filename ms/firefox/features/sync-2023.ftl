@@ -15,10 +15,6 @@ features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox 
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Daftar untuk { -brand-name-mozilla-account } percuma</a> dan anda boleh menyelaraskan data anda di mana jua anda menggunakan { -brand-name-firefox } dan lain-lain produk { -brand-name-mozilla }.
 
 # Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Daftar untuk { -brand-name-mozilla-account } percuma</a> dan anda boleh menyelaraskan data di mana jua anda menggunakan pelayar { -brand-name-firefox }.
-
-# Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar untuk akaun { -brand-name-firefox } percuma</a> dan anda boleh menyelaraskan data di mana jua anda menggunakan pelayar { -brand-name-firefox }.
 
 # Variables:

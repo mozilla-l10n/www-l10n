@@ -15,10 +15,6 @@ features-sync-with-firefox-you-can-pick-up-where = Mit { -brand-name-firefox } k
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Melden Sie sich für ein kostenloses { -brand-name-mozilla-account }</a> an und Sie können Ihre Daten überall synchronisieren, wo Sie { -brand-name-firefox } und andere { -brand-name-mozilla }-Produkte verwenden.
 
 # Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Melden Sie sich für ein kostenloses { -brand-name-mozilla-account }</a> an und Sie können Ihre Daten überall da synchronisieren, wo Sie ihren { -brand-name-firefox }-Browser verwenden.
-
-# Obsolete string
 features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Melden Sie sich für ein kostenloses { -brand-name-firefox }-Konto</a> an und Sie können Ihre Daten überall da synchronisieren, wo Sie ihren { -brand-name-firefox }-Browser verwenden.
 
 # Variables:
