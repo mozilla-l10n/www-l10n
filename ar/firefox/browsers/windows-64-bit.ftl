@@ -37,3 +37,4 @@ windows-64-bit-if-you-see-32-bit-newer = إذا رأيت "(32 بت)" وكنت ت
 windows-64-bit-if-you-need-to-run = وإذا كنت تريد تشغيل متصفح { -brand-name-firefox } 32 بت أو تثبيت متصفح { -brand-name-firefox } 64 بت يدويًا، يُمكنك ببساطة تنزيل وإعادة تشغيل مثبِّت { -brand-name-firefox } لنظام تشغيل { -brand-name-windows } (32 بت أو 64 بت) من <a href="{ $all }">صفحة تنزيل الأنظمة الأساسية واللغات</a>.
 windows-64-bit-take-control-of-your = تحكَّم في متصفحك.
 
+windows-64-bit-download-firefox = نزِّل متصفح { -brand-name-firefox } للإصدار 64 بت من نظام التشغيل Windows
