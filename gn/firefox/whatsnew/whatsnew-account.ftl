@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Natekotevẽi ereko mba’ete. Hákatu ikatu eipota.
-whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } kundahára ombyaty michĩmi marandu nde rehegua ha noroikotevẽvéima ne ñanduti veve kundaharape. Hákatu eipurúvo emoheñói hag̃ua { -brand-name-mozilla-account }, ikatu romo’ã eike hag̃ua heta apo-pyre ñemiguáva { -brand-name-firefox } reheguápe.
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } kundahára ombyaty michĩmi marandu nde rehegua ha noroikotevẽvéima ne ñanduti veve kundaharape. Hákatu eiporúvo emoheñói hag̃ua { -brand-name-mozilla-account }, ikatu romo’ã eike hag̃ua heta apo-pyre ñemiguáva { -brand-name-firefox } reheguápe.
 whatsnew-account-mozilla-cta = Erekóke { -brand-name-mozilla-account }
 
 ##

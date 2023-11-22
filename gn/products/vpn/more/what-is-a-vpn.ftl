@@ -8,7 +8,7 @@
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = ¿Mba’épa VPN?
 # HTML page description and intro
-vpn-what-is-get-answers-to-nine = Ereko mbohovái porundy porandúpe VPNs rehegua eñemomarandu hag̃ua ojejapóvare, araka’épa eipurúta ha mba’ére.
+vpn-what-is-get-answers-to-nine = Ereko mbohovái porundy porandúpe VPNs rehegua eñemomarandu hag̃ua ojejapóvare, araka’épa eiporúta ha mba’ére.
 vpn-what-is-many-of-us = Ore heta aravo rohasa Ñandutípe rohechávo ta’ãngamýi, mba’ejogua, ñembosarái ha ñehepyme’ẽ, ikatuhápe romoinge tembiapo apopyrã ha ñehenói ta’ãngamýi rupive. Peteĩ <strong>Red Privada Virtual (VPN)</strong> ikatuhápe eguereko tekoñemi ha tekorosã ñandutípe, ha emo’ãvo ne mba’ekuaarã ha’etéva.
 vpn-what-is-how-do-vpns = ¿Mba’éicha omba’apo VPNs?
 vpn-what-is-a-vpn-is = Ko VPN ha’e peteĩ tembiporu omoneĩva eikekuaa hag̃ua ñandutípe tekorosãme eime eimehápe. Ko VPN omba’apo omoheñóivo “túnel” hekorosãva ne mba’e’oka ha ne VPN me’ẽhára ha ne mo’ã añete mokõi mba’égui:
@@ -19,9 +19,9 @@ vpn-what-is-a-vpn-will = Peteĩ VPN omo’ãta jeporuguasu oikóva nde ha VPN me
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
-vpn-what-is-a-vpn-provider = Pe VPN me’ẽhára ome’ẽse hetaichagua jekekuaarã hetaiterei hendápe arapy tuichakuépe, omoneĩva eipurúvo peteĩ IP kundaharape pe ne rendaitégui ambue hendápe. Péicha rupi, ko tenda eikeha ohecha ne rembiapo reñoiha pe IP VPN rehegua, ndaha’éi pe nde IP kundaharape. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ombohape ne rembiapo peteĩ apopyvusu hekorosãva rupive ha omoneĩ eiporakuaávo peteĩ tendaite hetaiterei { $countries } tetã pa’ũmegui.
+vpn-what-is-a-vpn-provider = Pe VPN me’ẽhára ome’ẽse hetaichagua jekekuaarã hetaiterei hendápe arapy tuichakuépe, omoneĩva eiporúvo peteĩ IP kundaharape pe ne rendaitégui ambue hendápe. Péicha rupi, ko tenda eikeha ohecha ne rembiapo reñoiha pe IP VPN rehegua, ndaha’éi pe nde IP kundaharape. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ombohape ne rembiapo peteĩ apopyvusu hekorosãva rupive ha omoneĩ eiporakuaávo peteĩ tendaite hetaiterei { $countries } tetã pa’ũmegui.
 vpn-what-is-when-should-i = ¿Araka’épa eiporuva’erã VPN?
-vpn-what-is-connecting-to-a = Hetajey iporã eike WiFi ojepurukuaáva pyhápe, ndereguerekói mba’éramo ñanduti térã ne pumbyrýpe nog̃uahẽiramo. Péicha avei, eikéramo WiFi ojeporukuaáva pyha rupive ikatu hetajey naiporãmbái. Hasyeterei eime hag̃ua tekorosãme tapiaite oĩkuaahápe ambue tapicha oikéva avei nde reikehárupi oikuaaségui mba’etépa rejapo. Jepémo ne ñeikundaha ipapapy, ikatukuaa gueteri ohecha tenda eikeha. Ha eipurúramo tembiporu’i ipapapy’ỹva — jepémo ko árape, heta ndoguerekóiva — upéicha rupi ikatu ojehecha rejapóva eikundahakuévo.
+vpn-what-is-connecting-to-a = Hetajey iporã eike WiFi ojepurukuaáva pyhápe, ndereguerekói mba’éramo ñanduti térã ne pumbyrýpe nog̃uahẽiramo. Péicha avei, eikéramo WiFi ojeporukuaáva pyha rupive ikatu hetajey naiporãmbái. Hasyeterei eime hag̃ua tekorosãme tapiaite oĩkuaahápe ambue tapicha oikéva avei nde reikehárupi oikuaaségui mba’etépa rejapo. Jepémo ne ñeikundaha ipapapy, ikatukuaa gueteri ohecha tenda eikeha. Ha eiporúramo tembiporu’i ipapapy’ỹva — jepémo ko árape, heta ndoguerekóiva — upéicha rupi ikatu ojehecha rejapóva eikundahakuévo.
 vpn-what-is-when-youre-at = Eimévo nde rógape, ikatu osẽ tekove ñaña nde pyha ogaguápe michĩvéta. Upéicharamo jepe, ne ñanduti me’ẽhára (ISP) ikatu ohapykueho ha omoherakuã ne rembiapo ñandutípe umi mba’ekuaarã ñanduti rupive eikeha oñemondo pyha rupi nde ISP-pe, oĩkuaahápe oñembopapapýva. VPN omboykekuaa umi ISP nde rapykuehóvo ha ombopapapývo nde VPN me’ẽhára toĩ oĩhápe.
 vpn-what-is-wait-i-thought = Epyta, aimo’ã jeku’e ñandutigua ipapapýma HTTPS ndive…
 vpn-what-is-its-true-that = Añetehápe heta ñanduti rendápe jeike hekorosã HTTPS ndive, he’iséva pe tetepy, hákatu ndaha’éi pe IP kundaharape ou térã ohohague, ipapapýva. Pe VPN ome’ẽ tekoñemiete omboykévo umi ñanduti renda ha mbohapyháva ohechávo IP kundaharape.
@@ -31,7 +31,7 @@ vpn-what-is-keeping-your-online = Eikundaha ñanduti ñemiguávape.
 vpn-what-is-keeping-your-home = Eguerekóke nde róga renda térã umi tenda eikeveha ñemihápe.
 vpn-what-is-protecting-your-connection = Emo’ã ñandutípe jeike WiFi rupive, taperyva’uha, pepoatãguejyha, ñemuha térã arandukarendápe.
 vpn-what-is-ensuring-the-confidentiality = Emoañete pe ñemiguaitéva ha ñandutípe jeike reko.
-vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oipurúvo nde IP oñemoheñói hag̃ua mba’ete ombohapekuaáva ñemurã nde rapykuehokuaáva ñandutípe.
+vpn-what-is-make-it-more = Embohasy umi maranduñemurã apohápe oiporúvo nde IP oñemoheñói hag̃ua mba’ete ombohapekuaáva ñemurã nde rapykuehokuaáva ñandutípe.
 vpn-what-is-what-are-the = ¿Mba’épa umi ivaikuaáva eiporukuévo VPN?
 vpn-what-is-some-service-providers = Heta mba’epytyvõrã me’ẽhára ojoko umi jeike ojejapóva peteĩ VPN rupive, ha péicha pe hetepýpe ndaikatúi ojeike emyandúvo pe VPN. Ndahetái VPN omboguejykuaa pe pya’ekue térã omomichĩ pe ancho de banda. Ha heta VPN oha’ã karape poruhára rekoñemi ha rekorosã.
 vpn-what-is-are-vpns-safe = ¿Hekorosãpa ko’ã VPNs?
