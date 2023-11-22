@@ -11,43 +11,7 @@ footer-corporate-blog = مدونة الشركة
 footer-browser-comparison = المقارنة بين المتصفحات
 footer-brand-standards = معايير العلامات التجارية
 footer-browsers = المتصفحات
-
-# Obsolete string
-footer-desktop = أجهزة الكمبيوتر
-
-# Obsolete string
-footer-mobile = الهواتف المحمولة
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = المنتجات
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = انضم إلينا
-
-# Obsolete string
-footer-sign-up = تسجيل الاشتراك
-
-# Obsolete string
-footer-sign-in = تسجيل الدخول
-
-# Obsolete string
-footer-benefits = المزايا
 footer-developers = المُطوّرون
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = تفضل بزيارة <a { $moco_link }>{ -b
 footer-portions-of-this-content = أجزاء من هذا المحتوى محفوظة بحقوق الطبع والنشر © لعام 1998-{ $current_year } بواسطة مساهمين فرديين في mozilla.org. والمحتوى متاح بموجب ترخيص <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = الشركة
-
-# Obsolete string
-footer-about = نبذة عنا
 footer-press-center = مركز الصحافة
 footer-careers = الوظائف
-
-# Obsolete string
-footer-test-new-features = اختبِر الميزات الجديدة
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = الأدوات
 footer-resources = الموارد
 footer-contact = اتصل بنا

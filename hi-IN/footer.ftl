@@ -11,43 +11,7 @@ footer-corporate-blog = कॉर्पोरेट ब्लॉग
 footer-browser-comparison = ब्राउज़र तुलना
 footer-brand-standards = ब्रांड मानक
 footer-browsers = ब्राउज़र
-
-# Obsolete string
-footer-desktop = डेस्कटॉप
-
-# Obsolete string
-footer-mobile = मोबाइल
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = उत्पाद
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = शामिल हों
-
-# Obsolete string
-footer-sign-up = साइन अप करें
-
-# Obsolete string
-footer-sign-in = साइन इन करें
-
-# Obsolete string
-footer-benefits = फायदे
 footer-developers = डेवलपर
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = कृपया <a { $moco_link }>{ -brand-n
 footer-portions-of-this-content = इस सामग्री के कुछ हिस्से mozilla.org योगदानकर्ताओं द्वारा ©1998–{ $current_year } हैं। <a rel="license" href="{ $url }">{ -brand-name-creative-commons } लाइसेंस</a> के तहत उपलब्ध सामग्री।
 footer-mozilla = { -brand-name-mozilla }
 footer-company = कंपनी
-
-# Obsolete string
-footer-about = परिचय
 footer-press-center = प्रेस सेंटर
 footer-careers = करियर
-
-# Obsolete string
-footer-test-new-features = नए फ़ीचर्स टेस्ट करें
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = टूल्स
 footer-resources = संसाधन
 footer-contact = संपर्क करें

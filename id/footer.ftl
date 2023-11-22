@@ -11,43 +11,7 @@ footer-corporate-blog = Blog Perusahaan
 footer-browser-comparison = Perbandingan Peramban
 footer-brand-standards = Standar Merek
 footer-browsers = Peramban
-
-# Obsolete string
-footer-desktop = Desktop
-
-# Obsolete string
-footer-mobile = Seluler
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = Produk
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = Gabung
-
-# Obsolete string
-footer-sign-up = Daftar
-
-# Obsolete string
-footer-sign-in = Masuk
-
-# Obsolete string
-footer-benefits = Manfaat
 footer-developers = Pengembang
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = Kunjungi organisasi induk nirlaba <a { $moco
 footer-portions-of-this-content = Sebagian konten ini merupakan hak cipta ©1998–{ $current_year } oleh kontributor individual mozilla.org. Konten tersedia di bawah lisensi <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Perusahaan
-
-# Obsolete string
-footer-about = Tentang
 footer-press-center = Pers & Media
 footer-careers = Karier
-
-# Obsolete string
-footer-test-new-features = Uji Fitur Baru
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Alat
 footer-resources = Sumber Daya
 footer-contact = Kontak

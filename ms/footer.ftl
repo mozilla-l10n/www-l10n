@@ -11,43 +11,7 @@ footer-corporate-blog = Blog Korporat
 footer-browser-comparison = Perbandingan Pelayar
 footer-brand-standards = Piawaian Jenama
 footer-browsers = Pelayar
-
-# Obsolete string
-footer-desktop = Desktop
-
-# Obsolete string
-footer-mobile = Mudah alih
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = Produk
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = Sertai
-
-# Obsolete string
-footer-sign-up = Daftar
-
-# Obsolete string
-footer-sign-in = Daftar masuk
-
-# Obsolete string
-footer-benefits = Faedah-faedah
 footer-developers = Pembangun
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = Layari entiti induk bukan berasaskan keuntun
 footer-portions-of-this-content = Sebahagian daripada kandungan ini ©1998–{ $current_year } oleh penyumbang individu mozilla.org. Kandungan tersedia di bawah lesen <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Syarikat
-
-# Obsolete string
-footer-about = Tentang
 footer-press-center = Pusat Berita
 footer-careers = Kerjaya
-
-# Obsolete string
-footer-test-new-features = Uji Ciri-ciri Baru
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Alatan
 footer-resources = Sumber
 footer-contact = Hubungan

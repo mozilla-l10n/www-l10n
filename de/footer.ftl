@@ -11,43 +11,7 @@ footer-corporate-blog = Unternehmensblog
 footer-browser-comparison = Browser-Vergleich
 footer-brand-standards = Marken-Standards
 footer-browsers = Browser
-
-# Obsolete string
-footer-desktop = Desktop
-
-# Obsolete string
-footer-mobile = Mobile
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = Produkte
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = Anmelden
-
-# Obsolete string
-footer-sign-up = Registrieren
-
-# Obsolete string
-footer-sign-in = Anmelden
-
-# Obsolete string
-footer-benefits = Vorteile
 footer-developers = Entwickler
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = Besuche die <a { $mofo_link }>{ -brand-name-
 footer-portions-of-this-content = Teile dieses Inhalts sind ©1998–{ $current_year } von einzelnen Mitwirkenden von mozilla.org. Inhalt verfügbar unter einer <a rel="license" href="{ $url }"> { -brand-name-creative-commons }-Lizenz </a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Company
-
-# Obsolete string
-footer-about = Über uns
 footer-press-center = Presse
 footer-careers = Karrieren
-
-# Obsolete string
-footer-test-new-features = Neue Funktionen testen
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Tools
 footer-resources = Quellen
 footer-contact = Kontakt

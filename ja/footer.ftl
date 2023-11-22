@@ -11,43 +11,7 @@ footer-corporate-blog = 企業ブログ
 footer-browser-comparison = ブラウザーの比較
 footer-brand-standards = ブランド基準
 footer-browsers = ブラウザー
-
-# Obsolete string
-footer-desktop = デスクトップ
-
-# Obsolete string
-footer-mobile = モバイル
-
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-
-# Obsolete string
-footer-products = 製品
-
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-
-# Obsolete string
-footer-send = { -brand-name-send }
-
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-
-# Obsolete string
-footer-join = 参加する
-
-# Obsolete string
-footer-sign-up = 新規登録
-
-# Obsolete string
-footer-sign-in = サインイン
-
-# Obsolete string
-footer-benefits = メリット
 footer-developers = デベロッパー
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -58,17 +22,8 @@ footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corp
 footer-portions-of-this-content = このコンテンツの一部は ©1998–{ $current_year }、mozilla.org の個人寄稿者。コンテンツは <a rel="license" href="{ $url }">{ -brand-name-creative-commons } のライセンス</a>の下で公開。
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 会社
-
-# Obsolete string
-footer-about = 会社概要
 footer-press-center = プレスセンター
 footer-careers = 採用情報
-
-# Obsolete string
-footer-test-new-features = 新機能をテスト
-
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ツール
 footer-resources = リソース
 footer-contact = お問い合わせ
