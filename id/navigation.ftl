@@ -18,10 +18,6 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } untuk { -brand-name-fir
 navigation-watch-videos-and-browse = Tonton video dan jelajahi internet di { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Peramban { -brand-name-firefox } mengutamakan privasi Anda - dan akan selalu begitu.
 navigation-take-the-passwords-youve = Bawalah sandi yang tersimpan di { -brand-name-firefox } ke mana pun Anda pergi.
-
-# Obsolete string
-navigation-firefox-is-a-whole-family = { -brand-name-firefox } adalah seluruh rangkaian produk yang dirancang untuk membuat Anda lebih aman dan cerdas saat daring.
-
 navigation-join-firefox = Bergabunglah dengan { -brand-name-firefox }
 navigation-access-all-of-firefox = Akses semua { -brand-name-firefox } dengan sekali masuk — dan dapatkan lebih banyak manfaat dari setiap produk saat Anda melakukannya.
 navigation-meet-the-firefox-family = Temui Keluarga { -brand-name-firefox }
@@ -39,30 +35,10 @@ navigation-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
 navigation-android-extensions = Ekstensi { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } Anda
 navigation-make-the-most-of-your = Maksimalkan pengalaman menggunakan { -brand-name-firefox }, di setiap perangkat.
-
-# Obsolete string
-navigation-learn-how-to-customize = Pelajari bagaimana menyesuaikan cara kerja { -brand-name-firefox }.
-
 navigation-explore-the-immersive = Jelajahi web secara imersif melalui headset virtual reality.
-
-# Obsolete string
-navigation-experience-augmented = Rasakan pengalaman augmented reality dan virtual reality dengan { -brand-name-firefox }.
-
 navigation-get-together = Berinteraksi dalam virtual reality dengan ruang sosial daring ini.
-
-# Obsolete string
-navigation-meet-people-in-experimental = Temui orang-orang di ruang obrolan Mixed Reality eksperimental dengan { -brand-name-firefox }.
-
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
-
-# Obsolete string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
-
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } menghadirkan virtual dan augmented reality ke web terbuka.
-
-# Obsolete string
-navigation-mozilla-brings-firefox = { -brand-name-mozilla } menghadirkan { -brand-name-firefox } ke augmented reality dan virtual reality.
-
 navigation-firefox-built-just-for = { -brand-name-firefox }, dirancang khusus untuk pengembang.
 navigation-preview-the-latest-build = Pratinjau versi terbaru { -brand-name-firefox } dan bantu kami membuatnya jadi yang terbaik.
 navigation-firefox-playground = { -brand-name-firefox } Playground
@@ -89,10 +65,6 @@ navigation-sign-up = Daftar
 
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Cepat. Simpel. Pribadi.
 navigation-protect-your-entire-device = Lindungi seluruh perangkat Anda dan semua aplikasi. Samarkan lokasi Anda yang sebenarnya dan terhubung dengan maksimal 5 perangkat. Berlangganan sekarang.
-
-# Obsolete string
-navigation-connected-and-protected = Terhubung dan terlindungi
-
 navigation-join = Gabung
 navigation-close-join-menu = Tutup menu Gabung
 navigation-sign-in = Masuk
@@ -104,22 +76,12 @@ navigation-meet-the-technology-company = Temui perusahaan teknologi yang lebih m
 navigation-new-features = Fitur Baru
 navigation-save-content-absorb-knowledge = Simpan konten. Dapatkan pengetahuan.
 navigation-same-speed-and-safety = Kecepatan dan keamanan yang tepercaya, dirancang khusus untuk bisnis.
-
-# Obsolete string
-navigation-add-ons = Pengaya
-
 navigation-projects = Proyek
 navigation-close-projects-menu = Tutup menu Proyek
 navigation-donate-your-voice-to = Donasikan suara Anda agar pengenalan suara menjadi terbuka bagi semua orang.
 navigation-machine-learning = Machine Learning
 
-# Obsolete string
-navigation-web-of-things-iot = Web of Things (IoT)
-
 navigation-help-make-deep-learning = Membantu agar algoritma deep learning tersedia bagi dunia sumber terbuka.
-
-# Obsolete string
-navigation-make-devices-connected = Menjadikan perangkat yang terhubung ke internet lebih aman, terlindungi, dan dapat dioperasikan.
 
 navigation-developers = Pengembang
 navigation-close-developers-menu = Tutup menu Pengembang
@@ -162,5 +124,4 @@ navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }

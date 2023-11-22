@@ -18,10 +18,6 @@ navigation-firefox-for-fire-tv = { -brand-name-fire-tv } 用 { -brand-name-firef
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv } で動画を視聴、インターネットを閲覧。
 navigation-firefox-browsers-put = { -brand-name-firefox } ブラウザーは、いつでもユーザーのプライバシーを第一に考えています。
 navigation-take-the-passwords-youve = { -brand-name-firefox } で保存したパスワードは、どこにでも持ち出せます。
-
-# Obsolete string
-navigation-firefox-is-a-whole-family = { -brand-name-firefox } は、オンラインの安全を守り、スマートにする製品ファミリです。
-
 navigation-join-firefox = { -brand-name-firefox } に参加
 navigation-access-all-of-firefox = ログイン 1 回で { -brand-name-firefox } すべてにアクセスでき、すべての製品をより活用できます。
 navigation-meet-the-firefox-family = { -brand-name-firefox } ファミリーのご紹介
@@ -39,30 +35,10 @@ navigation-get-firefox-focus = { -brand-name-firefox-focus } をダウンロー�
 navigation-android-extensions = { -brand-name-android } 拡張機能
 navigation-your-firefox-account = あなたの { -brand-name-firefox-account }
 navigation-make-the-most-of-your = すべてのデバイスで { -brand-name-firefox } を活用しましょう。
-
-# Obsolete string
-navigation-learn-how-to-customize = { -brand-name-firefox } をカスタマイズする方法をご覧ください。
-
 navigation-explore-the-immersive = 仮想現実ヘッドセットでウェブに没入してみてください。
-
-# Obsolete string
-navigation-experience-augmented = { -brand-name-firefox } で拡張現実/仮想現実を体験。
-
 navigation-get-together = このオンラインソーシャルスペースで、仮想現実で会いましょう。
-
-# Obsolete string
-navigation-meet-people-in-experimental = { -brand-name-firefox } では、実験的な複合現実のチャットルームで会うことができます。
-
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } 複合現実
-
-# Obsolete string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
-
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } は、仮想現実と拡張現実をオープンウェブに導入します。
-
-# Obsolete string
-navigation-mozilla-brings-firefox = { -brand-name-mozilla } は、{ -brand-name-firefox } に拡張現実と仮想現実を導入します。
-
 navigation-firefox-built-just-for = { -brand-name-firefox } は、デベロッパーのためだけに構築されています。
 navigation-preview-the-latest-build = { -brand-name-firefox } の最新ビルドをプレビューし、最高の製品に仕上げるためにご協力ください。
 navigation-firefox-playground = { -brand-name-firefox } Playground
@@ -89,10 +65,6 @@ navigation-sign-up = 新規登録
 
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: 高速、シンプル、プライベート。
 navigation-protect-your-entire-device = デバイスとすべてのアプリケーションを保護します。ユーザーの実際の所在地を隠し、最大 5 台のデバイスを接続します。今すぐご利用ください。
-
-# Obsolete string
-navigation-connected-and-protected = 接続、保護
-
 navigation-join = 参加する
 navigation-close-join-menu = 参加メニューを閉じる
 navigation-sign-in = サインイン
@@ -104,22 +76,12 @@ navigation-meet-the-technology-company = 利益よりもユーザーファース
 navigation-new-features = 新機能
 navigation-save-content-absorb-knowledge = コンテンツを守る。知識を吸収する。
 navigation-same-speed-and-safety = ビジネス専用に設計された、信頼のスピードと安全性。
-
-# Obsolete string
-navigation-add-ons = アドオン
-
 navigation-projects = プロジェクト
 navigation-close-projects-menu = プロジェクトメニューを閉じる
 navigation-donate-your-voice-to = 声を寄付して、すべての人が利用できる音声認識を作りしましょう。
 navigation-machine-learning = 機械学習
 
-# Obsolete string
-navigation-web-of-things-iot = モノのウェブ (IoT)
-
 navigation-help-make-deep-learning = オープンソースの世界にディープラーニングアルゴリズムを公開するため、ご協力ください。
-
-# Obsolete string
-navigation-make-devices-connected = インターネットに接続されたデバイスの安全とセキュリティを守り、相互運用を可能にします。
 
 navigation-developers = デベロッパー
 navigation-close-developers-menu = デベロッパーメニューを閉じる
@@ -162,5 +124,4 @@ navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }

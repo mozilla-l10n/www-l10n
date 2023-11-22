@@ -18,10 +18,6 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } لـ { -brand-name-fire
 navigation-watch-videos-and-browse = شاهِد الفيديوهات وتصفَّح الإنترنت على جهاز { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = تضع مُتصفحات { -brand-name-firefox } خصوصيتك على رأس أولوياتها - وتلتزم بذلك دائمًا.
 navigation-take-the-passwords-youve = يُمكنك استخدام كلمات المرور التي حفظتها على { -brand-name-firefox } في كل مكان.
-
-# Obsolete string
-navigation-firefox-is-a-whole-family = يُعد { -brand-name-firefox } بمثابة مجموعة كاملة من المُنتجات المُصممة خصيصًا لِتجعلك أكثر أمانًا وذكاءً على الإنترنت.
-
 navigation-join-firefox = انضم إلى { -brand-name-firefox }
 navigation-access-all-of-firefox = الوصول إلى جميع منتجات { -brand-name-firefox } بمعلومات تسجيل دخول واحدة - واحصل على المزيد من المزايا من كل منتج.
 navigation-meet-the-firefox-family = تعرّف على عائلة { -brand-name-firefox }
@@ -39,30 +35,10 @@ navigation-get-firefox-focus = احصل على { -brand-name-firefox-focus }
 navigation-android-extensions = مُلحقات { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } الخاص بك
 navigation-make-the-most-of-your = حقِّق أقصى استفادة من تجربتك مع { -brand-name-firefox } في كل جهاز.
-
-# Obsolete string
-navigation-learn-how-to-customize = تعرَّف على كيفية تخصيص الطريقة التي يعمل بها { -brand-name-firefox }.
-
 navigation-explore-the-immersive = استكشف شبكة الويب الشاملة من خلال سماعة الواقع الافتراضي.
-
-# Obsolete string
-navigation-experience-augmented = استمتع بتجربة الواقع المُعزَّز والافتراضي من خلال { -brand-name-firefox }.
-
 navigation-get-together = اجتمِع مع أشخاص أخرين عبر الواقع الافتراضي من خلال هذه المنصة الاجتماعية المقدمة عبر الإنترنت.
-
-# Obsolete string
-navigation-meet-people-in-experimental = التقِ بأشخاص آخرين في غرف الدردشة التجريبية بالواقع المُختلط باستخدام { -brand-name-firefox }.
-
 navigation-mozilla-mixed-reality = الواقع المختلط في { -brand-name-mozilla }
-
-# Obsolete string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
-
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } تأتي بالواقع الافتراضي والمعزَّز إلى شبكة الويب المفتوحة.
-
-# Obsolete string
-navigation-mozilla-brings-firefox = { -brand-name-mozilla } تقدّم متصفح { -brand-name-firefox } إلى الواقع المعزَّز والافتراضي.
-
 navigation-firefox-built-just-for = أُنشئ { -brand-name-firefox } للمُطورين خصيصًا.
 navigation-preview-the-latest-build = جرِّب أحدث إصدار من { -brand-name-firefox } وساعدنا على تطويره للأفضل.
 navigation-firefox-playground = ملعب { -brand-name-firefox }
@@ -89,10 +65,6 @@ navigation-sign-up = تسجيل الاشتراك
 
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: سريع. بسيط. خاص.
 navigation-protect-your-entire-device = احمِ جهازك بالكامل وجميع تطبيقاتك. اِخفِ موقعك الحقيقي واتصل بما لا يزيد عن 5 أجهزة. اشترك الآن.
-
-# Obsolete string
-navigation-connected-and-protected = متصل ومحمي
-
 navigation-join = انضم إلينا
 navigation-close-join-menu = أغلِق قائمة ”انضم إلينا“
 navigation-sign-in = تسجيل الدخول
@@ -104,22 +76,12 @@ navigation-meet-the-technology-company = تعرّف على الشركة التق
 navigation-new-features = الميزات الجديدة
 navigation-save-content-absorb-knowledge = احفظ المحتوى. استقِ المعرفة.
 navigation-same-speed-and-safety = نفس السرعة والسلامة اللتان تثق بهما، والمُصممتان للأعمال فقط.
-
-# Obsolete string
-navigation-add-ons = الوظائف الإضافية
-
 navigation-projects = المشاريع
 navigation-close-projects-menu = أغلِق قائمة المشاريع
 navigation-donate-your-voice-to = ساهِم بصوتك لتساعد على جعل ميزة التعرف على الصوت متاحًا للجميع.
 navigation-machine-learning = التعلم الآلي
 
-# Obsolete string
-navigation-web-of-things-iot = إنترنت الأشياء (IoT)
-
 navigation-help-make-deep-learning = ساعِد على إتاحة خوارزميات التعلّم العميق لِعالم المصدر المفتوح.
-
-# Obsolete string
-navigation-make-devices-connected = اجعل الأجهزة المُتصلة بالإنترنت آمنة وقابلة للتشغيل المتبادل.
 
 navigation-developers = المُطوّرون
 navigation-close-developers-menu = أغلِق قائمة "المطوّرون"
@@ -162,5 +124,4 @@ navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }

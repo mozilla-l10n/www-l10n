@@ -18,10 +18,6 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } untuk { -brand-name-fir
 navigation-watch-videos-and-browse = Tonton video dan layari internet dengan { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Pelayar { -brand-name-firefox } mengutamakan privasi anda — sentiasa.
 navigation-take-the-passwords-youve = Bawa kata laluan yang telah anda simpan dalam { -brand-name-firefox } ke mana sahaja.
-
-# Obsolete string
-navigation-firefox-is-a-whole-family = { -brand-name-firefox } adalah rangkaian produk yang direka untuk memastikan anda lebih selamat dan bijak dalam talian.
-
 navigation-join-firefox = Sertai { -brand-name-firefox }
 navigation-access-all-of-firefox = Akses semua { -brand-name-firefox } dengan log masuk tunggal — dan nikmati lebih banyak faedah jika log masuk.
 navigation-meet-the-firefox-family = Temui rangkaian produk { -brand-name-firefox }
@@ -39,30 +35,10 @@ navigation-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
 navigation-android-extensions = Sambungan { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } Anda
 navigation-make-the-most-of-your = Manfaatkan sepenuhnya pengalaman { -brand-name-firefox }, di semua peranti.
-
-# Obsolete string
-navigation-learn-how-to-customize = Ketahui cara memperibadikan fungsi { -brand-name-firefox }.
-
 navigation-explore-the-immersive = Terokai web yang mengasyikkan dengan set kepala realiti maya anda.
-
-# Obsolete string
-navigation-experience-augmented = Alami realiti maya dan terimbuh dengan { -brand-name-firefox }.
-
 navigation-get-together = Berkumpul dalam realiti maya dengan ruangan sosial dalam talian ini.
-
-# Obsolete string
-navigation-meet-people-in-experimental = Temui pengguna lain dalam ruang sembang eksperimen Mixed Reality dengan { -brand-name-firefox }.
-
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
-
-# Obsolete string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
-
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } membawa realiti maya dan terimbuh ke web terbuka.
-
-# Obsolete string
-navigation-mozilla-brings-firefox = { -brand-name-mozilla } membawakan { -brand-name-firefox } ke realiti maya dan terimbuh.
-
 navigation-firefox-built-just-for = { -brand-name-firefox } dibina khas untuk pembangun.
 navigation-preview-the-latest-build = Pratonton terbitan terkini { -brand-name-firefox } dan bantu kami menjadikannya yang terbaik.
 navigation-firefox-playground = { -brand-name-firefox } Playground
@@ -89,10 +65,6 @@ navigation-sign-up = Daftar
 
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Pantas. Mudah. Peribadi.
 navigation-protect-your-entire-device = Melindungi kesemua peranti anda dan aplikasinya. Selindungkan lokasi sebenar dan sambungkan sehingga 5 peranti. Langgan sekarang.
-
-# Obsolete string
-navigation-connected-and-protected = Bersambung dan dilindungi
-
 navigation-join = Sertai
 navigation-close-join-menu = Tutup menu Sertai
 navigation-sign-in = Daftar masuk
@@ -104,22 +76,12 @@ navigation-meet-the-technology-company = Kenali syarikat teknologi yang mengutam
 navigation-new-features = Ciri-ciri Baru
 navigation-save-content-absorb-knowledge = Simpan kandungan. Serap pengetahuan.
 navigation-same-speed-and-safety = Kelajuan dan keselamatan yang sama dan anda percayai, direka khusus untuk perniagaan.
-
-# Obsolete string
-navigation-add-ons = Tambahan
-
 navigation-projects = Projek
 navigation-close-projects-menu = Tutup menu Projek
 navigation-donate-your-voice-to = Sumbang suara anda untuk membantu menjadikan pengecaman suara terbuka bagi semua.
 navigation-machine-learning = Pembelajaran Mesin
 
-# Obsolete string
-navigation-web-of-things-iot = Internet Benda (IoT)
-
 navigation-help-make-deep-learning = Bantu kami menjadikan algoritma pembelajaran mendalam boleh didapati di sumber terbuka.
-
-# Obsolete string
-navigation-make-devices-connected = Jadikan peranti yang bersambung ke internet selamat, dilindungi serta beroperasi seperti yang sepatutnya.
 
 navigation-developers = Pembangun
 navigation-close-developers-menu = Tutup menu Pembangun
@@ -162,5 +124,4 @@ navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }
