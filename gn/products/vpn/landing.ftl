@@ -76,51 +76,50 @@ vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojok
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ojokupyty <a href="{ $mobile }">pumbyry</a>, tableta ha <a href="{ $desktop }">mohendaha</a> ndive amo:
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc = Máva ndive ojokupyty { -brand-name-mozilla-vpn }:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit añoite)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-bit añoite)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ha tuichave)
-# Outdated string
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } ha hetave)
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 ha yvate)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 ha hetave)
+vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 ha tuichave)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> ( 8 rehegua ha tuichave)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6 ichagua ha yvateve)
-# Outdated string
+# Obsolete string
 vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6 háva ha upeigua)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ha tuichavéva)
-# Outdated string
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 ha tuichave)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ha hetave)
-# Outdated string
+# Obsolete string
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 ha tuichave)
 vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia porureko?
 vpn-landing-faq-refund-question-desc-v2 = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
 vpn-landing-faq-refund-question-additional-desc = Ejoguárõ ne ñemboheraguapy tembiporu’i ryepy guive { -brand-name-apple } ñemuha { -brand-name-app-store } térã { -brand-name-google-play } Store, ne ñehepyme’ẽ ojokupyty pe { -brand-name-app-store } he’iháicha rehe. Embohapeva’erã ne ñeporandu kuatia ñemuhague ha viru ñembojevy ejoguahaguégui { -brand-name-apple } térã { -brand-name-google }, oikotevẽháicha.
-# Outdated string
+# Obsolete string
 vpn-landing-faq-refund-question-desc = Erekojeykuaa nde viru 30 ára oútava pa’ũme ejogua rire mboheraguapy. Eñe’ẽ ore ndive ha emondo mba’ejerure me’ẽjeyrã eiporavóvo votõ “Pytyvõ jeguereko” Ñemoĩporãme ne rembiporu’i { -brand-name-mozilla-vpn } ryepýpe.
 vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
 # Variables:
@@ -136,7 +135,7 @@ vpn-landing-faq-link = Ehechave FAQs
 
 vpn-landing-invite-page-title = Ejuaju tysýi oha’ãrõvare: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } reiporukuaa vove reikohápe.
-# Outdated string
+# Obsolete string
 vpn-landing-invite-page-desc = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } eiporukuaa vove ne mba’e’oka ha eikohápe.
 vpn-landing-invite-page-heading = Ejuaju VPN rysýi oha’ãrõvare
 vpn-landing-invite-email-label = ¿Máva ne ñanduti veve kundaharape?
