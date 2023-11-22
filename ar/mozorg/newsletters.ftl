@@ -155,6 +155,7 @@ newsletters-your-content-wasnt-relevant = ليس لمُحتواكم صلة بي�
 newsletters-your-email-design = تصميم رسائلكم صعب القراءة.
 newsletters-i-didnt-sign-up = لم أشترك في هذا.
 newsletters-please-select-a-reason = يُرجى اختيار سَبب لإلغاء الاشتراك.
+newsletters-fxa-error-retry = عذرًا، لقد حدثت مُشكلة أثناء توجيهك إلى تفضيلات البريد الإلكتروني. يُرجى تجربة النموذج التالي.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/

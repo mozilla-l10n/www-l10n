@@ -155,6 +155,7 @@ newsletters-your-content-wasnt-relevant = Le contenu ne me concernait pas.
 newsletters-your-email-design = La lettre était visuellement pénible à lire.
 newsletters-i-didnt-sign-up = Je ne m’étais pas inscrit·e à cette newsletter.
 newsletters-please-select-a-reason = Veuillez sélectionner un motif de désabonnement.
+newsletters-fxa-error-retry = Nous sommes désolés, mais un problème est survenu lors de la redirection vers les préférences en matière d’e-mails. Veuillez remplir le formulaire ci-dessous.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
