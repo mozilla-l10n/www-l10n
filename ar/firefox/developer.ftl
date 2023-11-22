@@ -57,10 +57,6 @@ firefox-developer-firefox-devtools-now-grays-out = يُضفي { -brand-name-fire
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = متصفّح { -brand-name-firefox-devtools } الجديد قوي، ومرن، وأفضل ما في هذا كله أنه غير قابل للاختراق. يتضمن ذلك مُصحح أخطاء JavaScript هو الأفضل في فئته، والذي يُمكنه استهداف مُتصفحات مُتعددة وهو مدمج في React، وRedux.
 firefox-developer-master-css-grid = احترف CSS Grid
-
-# Obsolete string
-firefox-developer-next-gen-css-engine = محرك CSS للجيل القادم
-
 firefox-developer-built-for-developers = صُمّم للمطوّرين
 firefox-developer-a-next-generation = محرك CSS للجيل القادم
 firefox-developer-master-innovative-features = مزايا مبتكرة
