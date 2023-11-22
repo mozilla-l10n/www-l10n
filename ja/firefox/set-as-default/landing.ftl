@@ -9,9 +9,9 @@ set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } を�
 
 # HTML page description
 set-as-default-landing-choose-the-browser = プライバシーを保護するブラウザーを選択しましょう。{ -brand-name-firefox } を既定のブラウザーにする
-# Obsolete string
+
 set-as-default-landing-thanks-for-using-the = 最新版 { -brand-name-firefox } ブラウザーをダウンロードしていただき、ありがとうございました。{ -brand-name-firefox } をご使用いただくということは、万人のためにウェブ改善をご支援いただくということなのです。ご自身の保護のため、早速ご使用ください。
-# Obsolete string
+
 set-as-default-landing-make-sure-youre-protected = オンライン上での保護をつねに確保
 
 set-as-default-landing-you-should-get = ユーザーのブラウズのあり方について、ユーザーにも発言権が必要です

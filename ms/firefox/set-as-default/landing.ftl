@@ -9,9 +9,9 @@ set-as-default-landing-make-firefox-your-default = Jadikan { -brand-name-firefox
 
 # HTML page description
 set-as-default-landing-choose-the-browser = Pilih pelayar yang melindungi privasi anda. Tetapkan { -brand-name-firefox } sebagai pelayar lalai anda.
-# Obsolete string
+
 set-as-default-landing-thanks-for-using-the = Terima kasih kerana menggunakan pelayar { -brand-name-firefox } yang terkini. Apabila anda memilih { -brand-name-firefox }, anda menyokong web yang lebih baik untuk anda dan orang lain. Sekarang ambil langkah seterusnya untuk melindungi diri anda.
-# Obsolete string
+
 set-as-default-landing-make-sure-youre-protected = Pastikan anda dilindungi, setiap kali anda berada dalam talian
 
 set-as-default-landing-you-should-get = Anda berhak ke atas apa yang anda layari
