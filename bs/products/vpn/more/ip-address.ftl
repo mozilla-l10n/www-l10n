@@ -15,3 +15,28 @@ vpn-ip-address-your-ip-address = Vaša IP adresa je jedinstveni identifikator, p
 vpn-ip-address-an-example-of-an-ip = Primjer IP adrese koja je niz od četiri broja, odvojenih decimalama: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Ako pogledate svoju IP adresu, izgledat će otprilike ovako.
 vpn-ip-address-does-it-travel = Hoće li vas svuda pratiti?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Ne. Vaša IP adresa je povezana samo s jednom lokacijom osim ako ne koristite VPN (o tome ćemo detaljnije govoriti kasnije). Kada ste kod kuće i povezujete se na internet koji plaćate, koristite ga. Međutim, ako ujutro provjerite e-mail kod kuće, zatim skenirate vijesti u lokalnom kafiću dok čekate kafu, a zatim radite iz kancelarije, koristit ćete različite IP adrese na svakoj lokaciji.
+# Outdated string
+vpn-ip-address-no-your-ip = Ne. Vaša IP adresa je povezana samo s jednom lokacijom osim ako ne <a href="{ $url }">koristite VPN</a> (o tome ćemo detaljnije govoriti kasnije). Kada ste kod kuće i povezujete se na internet koji plaćate, koristite ga. Međutim, ako ujutro provjerite e-mail kod kuće, zatim skenirate vijesti u lokalnom kafiću dok čekate kafu, a zatim radite iz ureda, koristit ćete različite IP adrese na svakoj lokaciji.
+vpn-ip-address-does-your-ip = Da li se vaša IP adresa mijenja?
+vpn-ip-address-yes-even-if = Da. Čak i ako koristite internet samo kod kuće, IP adresa vašeg doma može se promijeniti. Možete kontaktirati svog dobavljača internetskih usluga (ISP) da je promijenite, ali čak i nešto tako rutinsko kao što je ponovno pokretanje modema ili rutera zbog problema s internet vezom može rezultirati promjenom.
+vpn-ip-address-can-more-than = Može li više od jednog uređaja imati istu IP adresu?
+vpn-ip-address-this-is-a = Ovo je pomalo škakljivo pitanje – odgovor je i da i ne. Više od jednog uređaja može dijeliti istu eksternu (javnu) IP adresu, ali svaki uređaj će imati svoju lokalnu (privatnu) IP adresu. Na primjer, vaš ISP (provajder internet usluga) postavlja vaš dom sa jednom eksternom IP adresom. Pošto je vaš ruter ono što se zapravo povezuje na internet, IP adresa se dodeljuje vašem ruteru. Vaš ruter tada dodjeljuje lokalnu IP adresu svakom uređaju koji je istovremeno povezan na internet. Eksterna IP adresa je ono što se dijeli sa vanjskim svijetom. Vaša lokalna IP adresa se ne dijeli van vaše privatne kućne mreže.
+vpn-ip-address-can-we-run = Možemo li ostati bez njih?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Kada je Internet prvi put dizajniran, koristio je adrese "verzije 4". One su od 32 bita, što znači da bismo mogli imati do <a href="{ $sr }">4,2 milijarde adresa</a>. Ovo se činilo kao dovoljno u to vrijeme, ali nije ni blizu dovoljno u svijetu u kojem prosječno američko domaćinstvo ima <a href="{ $variety }">11 povezanih uređaja</a>.
+vpn-ip-address-we-now-have = Sada imamo verziju 6 IP adresa, koje imaju 128 bita po adresi. Nažalost, verzija 4 i verzija 6 ne mogu direktno razgovarati jedna s drugom, tako da će ljudima trebati adrese verzije 4 dugo vremena.
+vpn-ip-address-should-you-hide = Trebate li sakriti svoju IP adresu?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Ne morate sakrivati svoju IP adresu, ali ponekad ćete to poželjeti. Najčešći razlog je privatnost. U SAD-u, <a href="{ $congress }">Kongres je poništio</a> propise o privatnosti dizajnirane da zaštite privatnost korisnika širokopojasnog pristupa. Provajderi internetskih usluga mogu vidjeti vaše navike pretraživanja, za šta koristite internet i koliko dugo provodite na svakoj stranici. Ova komunikacija nije šifrovana, tako da treće strane mogu vidjeti koju web stranicu posjećujete. Jedan od načina za borbu protiv ovoga je <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Ovo šifruje vaš DNS (sistem imena domena) promet, što otežava ISP-ovima da vide web stranice koje pokušavate posjetiti. Za <a href="{ $firefox }">{ -brand-name-firefox } korisnike</a> u SAD-u, vaši upiti za DoH su prema zadanim postavkama usmjereni na pouzdane DNS servere, što otežava povezivanje s web stranicama koje pokušavate posjetiti.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Postoje i situacijski razlozi za skrivanje vaše IP adrese. Možda ga želite sakriti kada putujete. VPN će vam također pružiti <a href="{ $url }">više privatnosti</a> kada se povežete na WiFi za prijenos i kupovinu dok istražujete svijet.
+vpn-ip-address-how-do-you = Kako je sakriti?
