@@ -29,3 +29,7 @@ vpn-or-proxy-a-proxy-is-useful = Proxy je koristan kada pretražujete web na jav
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> je ekstenzija pretraživača koja se lahko instalira i koja pruža siguran, šifrovani tunel na web kako bi zaštitio vezu vašeg pretraživača bilo gdje koristite { -brand-name-firefox }. Brzo i lahko se uključuje kad god vam zatreba radi dodatne sigurnosti u vašem pretraživaču.
 vpn-or-proxy-vpns-devicelevel-protection = VPN-ovi: zaštita na nivou uređaja
+vpn-or-proxy-vpns-do-more = VPN-ovi rade više od proxyja u tome što proxy štiti samo ono što radite u svom pretraživaču, dok VPN štiti sav vaš promet, uključujući vaš pretraživač, gdje god imate instaliran i omogućen VPN. VPN-ovi pružaju dodatnu sigurnost i privatnost za sve vaše aktivnosti na mreži – što je važno ako želite da svoju aktivnost zadržite za sebe i otežate praćenjem gladnih podataka i ISP-ovima da kreiraju vaš profil na svim vašim uređajima, kao što je telefon, kompjuter i tablet.
+vpn-or-proxy-a-vpn-works = VPN funkcioniše tako što stvara siguran “tunel” između vašeg uređaja i interneta u cjelini. Štiti vašu privatnost na dva ključna načina:
+vpn-or-proxy-concealing-your-ip = Prikrivanje vaše IP adrese, zaštita vašeg identiteta i skrivanje vaše lokacije.
+vpn-or-proxy-encrypting-your-traffic = Šifrovanje vašeg prometa između vas i vašeg VPN provajdera tako da ga niko na vašoj lokalnoj mreži ne može dešifrovati ili modifikovati.
