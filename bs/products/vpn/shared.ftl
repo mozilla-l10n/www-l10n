@@ -115,7 +115,7 @@ vpn-shared-platfrom-why-choose = Zašto { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } radi na globalnoj mreži servera koje pokreće <a href="{ $policy }">{ -brand-name-mullvad }</a> koristeći <a href=" { $wireguard }">{ -brand-name-wireguard }</a>® protokol. { -brand-name-mullvad } stavlja vašu privatnost na prvo mjesto i ne vodi evidenciju bilo koje vrste.
+vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } radi na globalnoj mreži servera koje pokreće <a href="{ $policy }">{ -brand-name-mullvad }</a> koristeći <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® protokol. { -brand-name-mullvad } stavlja vašu privatnost na prvo mjesto i ne vodi evidenciju bilo koje vrste.
 vpn-shared-platform-what-youll-get = Šta ćete dobiti sa { -brand-name-mozilla-vpn }om:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
