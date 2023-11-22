@@ -16,9 +16,6 @@ newsletters-read-all-about-it-in-our-newsletter = Baca semua tentangnya di <span
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Langgan di sini untuk mengetahui berita terkini tentang { -brand-name-mozilla }, ambil tindakan demi internet yang lebih sihat dan jadi bijak dalam kehidupan anda dalam talian.
 
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = Langgani untuk mengetahui perkembangan terkini dengan berita { -brand-name-mozilla }. Cara untuk berhubung yang sempurna!
-
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Sahkan Buletin
 
@@ -26,23 +23,15 @@ newsletters-thanks-for-subscribing = Terima kasih di atas Langganan!
 newsletters-your-newsletter-subscription = Langganan buletin anda telah disahkan.
 newsletters-please-be-sure-to-add-our-v2 = Pastikan alamat penghantaran kami: mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami sampai kepada anda.
 
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Sila pastikan alamat penghantaran kami: mozilla@e.mozilla.org disimpan di dalam buku alamat agar berita kami sampai kepada anda.
-
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = Pautan yang diberikan telah tamat. Sila <a { $recovery_href }>mohon pautan baru di sini</a>.
-
-# Obsolete string
-newsletters-the-supplied-link-has-expired = Pautan yang diberikan telah tamat. Anda akan menerima yang baru di buletin seterusnya.
 
 newsletters-something-is-amiss-with = Ada yang tidak kena dengan sistem kami, maaf! Sila cuba sebentar lagi.
 newsletters-youre-awesome = Anda hebat!
 newsletters-and-were-not-just-saying = Kami tidak hanya mengatakannya kerana anda mempercayai kami dengan alamat e-mel anda.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Pastikan alamat mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami sampai kepada anda.
 
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Pastikan alamat mozilla@e.mozilla.org disimpan di dalam buku alamat agar berita kami sampai kepada anda.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } menyentuh tentang pelbagai isu yang penting.
 newsletters-open-your-inbox-and-your = Buka peti e-mel anda (dan hati) lebih kerap — lihat topik lain yang kami rangkumi.
 newsletters-manage-your-email-preferences = Urus Pilihan E-mel anda
@@ -81,9 +70,6 @@ newsletters-text-subscribers-will-receive = Pelanggan teks akan menerima e-mel d
 
 newsletters-many-of-our-communications-v2 = Kebanyakan komunikasi kami berkaitan dengan akaun yang telah anda daftarkan, seperti { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs }, atau Add-on Developer. Untuk menguruskan salah satu akaun anda atau melihat senarai semua akaun, kunjungi <a href="{ $url }">laman sokongan pengurusan akaun kami</a>.
 
-# Obsolete string
-newsletters-many-of-our-communications = Kebanyakan komunikasi kami berkaitan dengan akaun yang telah anda daftarkan, seperti { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs }, atau Add-on Developer. Untuk menguruskan salah satu akaun anda atau melihat senarai semua akaun, kunjungi <a href="{ $url }">laman sokongan pengurusan akaun kami</a>.
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Untuk mendapatkan akses kepada semua produk, pengetahuan dan perkhidmatan { -brand-name-firefox } dalam satu akaun, sertai kami! Ketahui lebih lanjut mengenai manfaatnya <a href="{ $url }">di sini</a>.
@@ -114,8 +100,6 @@ newsletters-youve-been-unsubscribed = Anda telah berhenti melanggan.
 newsletters-were-sorry-to-see-you-go = Kami kesal melihat anda pergi.
 newsletters-would-you-mind-telling-us = Adakah anda tidak keberatan untuk memberitahu kami mengapa anda pergi?
 newsletters-other-v2 = Lain-lain… (maksimum 500 aksara)
-
-# Obsolete string
 newsletters-other = Lain-lain…
 
 newsletters-submit = Hantar
@@ -136,9 +120,6 @@ newsletters-love-the-web-so-do-we = Gemarkan internet? Kami pun sama!
 
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Bukakan dunia pembangunan web dengan { -brand-name-mozilla } Developer Newsletter mingguan. Setiap edisi membawa anda teknik pengkodan dan amalan terbaik, kemas kini { -brand-name-mdn }, maklumat mengenai teknologi baru, tip alat pembangun, dan banyak lagi.
-
-# Obsolete string
-newsletters-join-thousands-of-developers = Sertailah ribuan pembangun seperti anda yang mempelajari kaedah pembangunan web yang terbaik.
 
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Benarkan sang musang ke dalam peti masuk anda.
@@ -163,20 +144,11 @@ newsletters-this-email-address-is-not = Alamat e-mel ini tidak ada di dalam sist
 
 newsletters-im-keeping-in-touch-v2 = Saya kekal berhubung dengan { -brand-name-mozilla } di { -brand-name-twitter } pula.
 
-# Obsolete string
-newsletters-im-keeping-in-touch = Saya kekal berhubung dengan { -brand-name-mozilla } di { -brand-name-facebook } dan { -brand-name-twitter } pula.
-
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Daftar, baca lagi,<br> kekal bermaklumat.
 
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Daftar. Baca lagi.<br> Lakukan perubahan.
-
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Bijak dalam isu yang mempengaruhi kehidupan anda dalam talian.
-
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Dapatkan buletin { -brand-name-mozilla } untuk terus mengetahui tentang isu mencabar tentang kesihatan Internet dan ketahui bagaimana anda boleh melibatkan diri.
 
 newsletters-your-email-preferences = Pilihan e-mel anda telah berjaya dikemas kini.
 newsletters-consider-it-done = Anggap sahaja semuanya selesai
@@ -223,14 +195,8 @@ newsletters-get-involved = Libatkan diri
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Pandangan
 
-# Obsolete string
-newsletters-internet-health-report = Laporan Kesihatan Internet
-
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } menerbitkan artikel dan kajian mendalam tentang isu-isu berkisar tentang kesihatan internet dan kebolehpercayaan AI, termasuklah Laporan Kesihatan Internet kami.
-
-# Obsolete string
-newsletters-keep-up-with-our-annual = Ikuti perkembangan kompilasi penyelidikan dan cerita tahunan kami mengenai isu privasi &amp; keselamatan, keterbukaan, penyertaan digital, tidak berpusat, dan celik internet.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Pengetahuan adalah Kuasa
@@ -262,10 +228,6 @@ newsletters-student-reps = Wakil Pelajar
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Program yang dikenali sebagai Former University dari 2008-2011, kini dihentikan dan dilancarkan semula sebagai program Duta Pelajar { -brand-name-firefox }.
 
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Program yang dikenali sebagai Former University dari 2008-2011, kini dihentikan dan dilancarkan semula sebagai program Duta Pelajar Firefox.
-
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Ambil Tindakan demi Internet
 
@@ -277,9 +239,6 @@ newsletters-new-product-testing = Ujian Produk Baru
 
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = Bantu kami menghasilkan { -brand-name-mozilla } yang lebih baik untuk anda dengan menguji produk dan ciri-ciri kami yang terkini.
-
-# Obsolete string
-newsletters-help-us-make-a-better = Bantu kami menghasilkan { -brand-name-firefox } yang lebih baik untuk anda dengan menguji produk dan ciri-ciri kami yang terkini.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komuniti { -brand-name-mozilla }
@@ -392,17 +351,11 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Pengumuman khas berkaitan festival tahunan kami yang fokus kepada menempa masa depan internet yang terbuka.
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Pengumuman istimewa tentang festival tahunan { -brand-name-mozilla } yang ditujukan khas demi menempa masa depan Internet.
-
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Berita { -brand-name-mozilla }
 
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = Kemas kini biasa untuk membantu anda menjadi lebih bijak atas talian dan aktif dalam perjuangan kami demi internet yang lebih baik.
-
-# Obsolete string
-newsletters-regular-updates-to-keep = Kemas kini biasa untuk pengetahuan dan sentiasa aktif dalam perjuangan kami untuk internet yang lebih baik.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }

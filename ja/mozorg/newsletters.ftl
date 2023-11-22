@@ -16,9 +16,6 @@ newsletters-read-all-about-it-in-our-newsletter = 盛りだくさんの Mozilla 
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = { -brand-name-mozilla } のニュースや、より健全なインターネットのための対策、より安全なオンライン生活などの最新情報をお読みいただくには、こちらで購読登録してください。
 
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = { -brand-name-mozilla } の最新情報をご覧いただくには、こちらで購読登録してください。ニュースレターは連絡手段として最適です。
-
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = ニュースレター確認
 
@@ -26,23 +23,15 @@ newsletters-thanks-for-subscribing = 購読のご登録ありがとうござい�
 newsletters-your-newsletter-subscription = ニュースレター購読登録が確定しました。
 newsletters-please-be-sure-to-add-our-v2 = Mozilla のニュースレターを受信箱にお届けできるよう、送信元アドレス (mozilla@email.mozilla.org) をアドレス帳に追加してください。
 
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Mozilla のニュースレターを受信箱にお届けできるよう、送信元アドレス (mozilla@e.mozilla.org) をアドレス帳に追加してください。
-
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = 入力されたリンクは有効期限切れです。<a { $recovery_href }>こちらから新しいリンクをリクエスト</a>してください。
-
-# Obsolete string
-newsletters-the-supplied-link-has-expired = 入力されたリンクは有効期限切れです。次号ニュースレターで新しいリンクが送付されます。
 
 newsletters-something-is-amiss-with = Mozilla のシステムで不具合が発生しています。お手数ですが、後でもう一度試してください。
 newsletters-youre-awesome = メールアドレスをご提示いただき
 newsletters-and-were-not-just-saying = ありがとうございます。
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Mozilla のニュースレターを受信箱にお届けできるよう、mozilla@email.mozilla.org をアドレス帳に追加してください。
 
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Mozilla のニュースレターを受信箱にお届けできるよう、mozilla@e.mozilla.org をアドレス帳に追加してください。
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } は様々な重要問題を取り扱っています。
 newsletters-open-your-inbox-and-your = その他のトピックに関する Mozilla の記事についてもメールにて送付いたしますので、ぜひお読みください。
 newsletters-manage-your-email-preferences = メールの設定管理
@@ -81,9 +70,6 @@ newsletters-text-subscribers-will-receive = テキストの定期購読者の方
 
 newsletters-many-of-our-communications-v2 = Mozilla からの連絡内容には、{ -brand-name-mozilla-accounts }、{ -brand-name-mdn-web-docs }、Add-on Developer など、サインアップしていただいたアカウントに関するものが多数含まれています。アカウントを管理したり、すべてのアカウントのリスト表示を確認するには、Mozilla の<a href="{ $url }">アカウント管理サポートページ</a>をご覧ください。
 
-# Obsolete string
-newsletters-many-of-our-communications = Mozilla からの連絡内容には、{ -brand-name-firefox-accounts }、{ -brand-name-mdn-web-docs }、Add-on Developer など、サインアップしていただいたアカウントに関するものが多数含まれています。アカウントを管理したり、すべてのアカウントのリスト表示を確認するには、Mozilla の<a href="{ $url }">アカウント管理サポートページ</a>をご覧ください。
-
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = ひとつのアカウントで { -brand-name-firefox } の各種製品や情報、サービスをご利用いただけますので、ぜひご登録ください。利点の詳細については<a href="{ $url }">こちら</a>をご覧ください。
@@ -114,8 +100,6 @@ newsletters-youve-been-unsubscribed = 購読を停止しました。
 newsletters-were-sorry-to-see-you-go = ご満足いただけなくて残念です。
 newsletters-would-you-mind-telling-us = よろしければ、停止理由をお知らせください。
 newsletters-other-v2 = その他
-
-# Obsolete string
 newsletters-other = その他
 
 newsletters-submit = 送信
@@ -136,9 +120,6 @@ newsletters-love-the-web-so-do-we = あなたが好きなウェブは、Mozilla 
 
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = 週刊の { -brand-name-mozilla } のデベロッパーニュースレターでウェブ開発の世界へ。コーディングの技術やベストプラクティス、{ -brand-name-mdn } の最新情報のほか、新登場のテクノロジーに関する情報、デベロッパー用ツールのヒントなど、盛りだくさんで各号でお届けします。
-
-# Obsolete string
-newsletters-join-thousands-of-developers = 究極のウェブ開発を学習中のデベロッパー数千名が購読するニュースレターを、あなたもぜひ。
 
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = もっと Firefox からお便りさせてください
@@ -163,20 +144,11 @@ newsletters-this-email-address-is-not = このメールアドレスはシステ�
 
 newsletters-im-keeping-in-touch-v2 = { -brand-name-mozilla } の情報は { -brand-name-twitter } で確認している。
 
-# Obsolete string
-newsletters-im-keeping-in-touch = { -brand-name-mozilla } の情報は { -brand-name-facebook } と { -brand-name-twitter } で確認している。
-
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = サインアップして最新情報をご確認ください。
 
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = 新規登録して、詳しく読んで、貢献する。
-
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = オンライン生活に影響を与える問題を知る。
-
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = { -brand-name-mozilla } ニュースレターを購読して、インターネットの健全性を悪化させる問題に関する最新情報や、参加方法についてご確認ください。
 
 newsletters-your-email-preferences = メールの設定が更新されました。
 newsletters-consider-it-done = これで確実
@@ -223,14 +195,8 @@ newsletters-get-involved = 参加する
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = インサイト
 
-# Obsolete string
-newsletters-internet-health-report = インターネット健全性レポートを読む
-
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } では、毎年発表されるインターネット健全性レポートなど、インターネットの健全性や信頼できる AI に関する問題の真相に迫る論文を発表しています。
-
-# Obsolete string
-newsletters-keep-up-with-our-annual = プライバシーやセキュリティ、門戸開放、デジタルインクルージョン、分散化、ウェブリテラシーなどの問題に関する、Mozilla の研究や論文の選集をお見逃し無く。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = 知識は力です
@@ -262,10 +228,6 @@ newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = 2008 年～2011 年の大学の課程で、現在は廃止され、{ -brand-name-firefox } Student Ambassadors として再開されました。
 
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = 2008 年～2011 年の大学の課程で、現在は廃止され、Firefox Student Ambassadors として再開されました。
-
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Take Action for the Internet
 
@@ -277,9 +239,6 @@ newsletters-new-product-testing = New Product Testing
 
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = 最新の製品や機能を試用して { -brand-name-mozilla } の改善を支援してください。
-
-# Obsolete string
-newsletters-help-us-make-a-better = 最新の製品や機能を試用して { -brand-name-firefox } の改善を支援してください。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } Community
@@ -392,17 +351,11 @@ newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = オープンなウェブの未来を切り拓くことをテーマとした毎年恒例のフェスティバルに関する特別発表。
 
-# Obsolete string
-newsletters-special-announcements-about-mozilla = オープンなウェブの未来を切り拓くことをテーマとして毎年開催される、{ -brand-name-mozilla } のフェスティバルに関する特別発表。
-
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } News
 
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = オンライン生活でもっとスマートになって、Mozilla と一緒により良いインターネットを作っていくための情報を定期的にお届けします。
-
-# Obsolete string
-newsletters-regular-updates-to-keep = Mozilla のより良いインターネットへの闘いに関する情報提供や活動のための定期的な最新情報。
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
