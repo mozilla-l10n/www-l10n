@@ -123,11 +123,6 @@ privacy-book-some-online-services = <strong>Ehrlich währt nicht immer am längs
 
 privacy-book-wondering-how-youre = <strong>Manage deine Passwörter.</strong> Puh, wie sollst du dir nun all die verschiedenen Passwörter und Sicherheitsantworten merken? Zuallererst: Bitte schreibe sie nicht auf ein Blatt Papier, das du neben deinem Computer aufbewahrst (ja, es gibt Leute, die das tun). Leg dir stattdessen einen Passwortmanager zu, der nicht nur deine Passwörter, Sicherheitsantworten und alle möglichen anderen privaten Informationen sicher aufbewahrt, sondern dir sogar hilft, zufällige Passwörter zu generieren.
 
-privacy-book-there-are-several-v2 = Es gibt verschiedene gute Passwortmanager auf dem Markt; einige sind mit einem primären Passwort verschlüsselt, andere mithilfe biometrischer Funktionen wie Fingerabdruck oder Gesichtsscan. Wählen Sie den für Sie passenden – vielleicht möchten Sie ja { -brand-name-firefox-lockwise } ausprobieren? Ihre Passwörter werden sicher gespeichert und Sie haben sowohl über sämtliche Ihrer Geräte Zugriff als auch über Ihren Desktopbrowser, damit Sie Ihre Anmeldedaten immer zur Hand haben.
-
-# Obsolete string
-privacy-book-there-are-several = Es gibt mehrere gute Passwort-Manager auf dem Markt. Einige sind mit einem Generalpasswort verschlüsselt, andere mit biometrischen Features (Fingerabdruck, Gesichtsscan). Wählen Sie den für Sie passenden – vielleicht möchten Sie ja { -brand-name-firefox-lockwise } ausprobieren? Ihre Passwörter werden sicher gespeichert und Sie haben sowohl über sämtliche Ihrer Geräte Zugriff als auch über Ihren Desktop-Browser, damit Sie Ihre Anmeldedaten immer zur Hand haben.
-
 privacy-book-not-just-for = Nicht nur für IT-Profis:
 
 privacy-book-a-strong-password = Ein starkes Passwort ist wichtig und ein guter erster Schritt zu mehr Sicherheit im Web. Noch sicherer wird es aber mit Multi-Faktor-Authentisierung (MFA).

@@ -123,11 +123,6 @@ privacy-book-some-online-services = <strong>Beberapa layanan daring akan meminta
 
 privacy-book-wondering-how-youre = <strong>Ingin tahu bagaimana Anda seharusnya menemukan dan mengingat semua kata sandi dan jawaban keamanan Anda?</strong> Tolong jangan menuliskannya di selembar kertas yang Anda simpan di samping komputer Anda (ya, orang-orang melakukannya). Sebagai gantinya, dapatkan pengelola kata sandi yang tidak hanya menyimpan kata sandi, jawaban keamanan, dan informasi pribadi lainnya dengan aman, tetapi juga membantu Anda membuat kata sandi acak dan memungkinkan Anda menggunakannya dengan mudah di semua perangkat Anda.
 
-privacy-book-there-are-several-v2 = Ada beberapa pengelola kata sandi yang bagus di pasaran; beberapa terenkripsi dengan kata sandi utama, lainnya dengan fitur biometrik (sidik jari, pemindaian wajah). Pilih mana yang terbaik untuk Anda – dan mungkin Anda ingin mencoba { -brand-name-firefox-lockwise }? Ini akan menyimpan semua kata sandi Anda dengan aman dan tersedia untuk perangkat seluler Anda serta peramban desktop Anda, sehingga Anda memiliki informasi masuk yang siap kapan pun Anda membutuhkannya.
-
-# Obsolete string
-privacy-book-there-are-several = Ada beberapa pengelola kata sandi yang bagus di pasaran; beberapa terenkripsi dengan kata sandi utama, lainnya dengan fitur biometrik (sidik jari, pemindaian wajah). Pilih mana yang terbaik untuk Anda – dan mungkin Anda ingin mencoba { -brand-name-firefox-lockwise }? Ini akan menyimpan semua kata sandi Anda dengan aman dan tersedia untuk perangkat seluler Anda serta peramban desktop Anda, sehingga Anda memiliki informasi masuk yang siap kapan pun Anda membutuhkannya.
-
 privacy-book-not-just-for = Tidak hanya untuk profesional IT:
 
 privacy-book-a-strong-password = Kata sandi yang kuat itu penting dan merupakan langkah pertama menuju keamanan daring yang ditingkatkan. Ingin menggandakan keamanan? Coba autentikasi multi-faktor (MFA) – banyak layanan sudah menawarkannya!

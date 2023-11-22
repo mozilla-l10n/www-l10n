@@ -123,11 +123,6 @@ privacy-book-some-online-services = <strong>Certains services en ligne vous dema
 
 privacy-book-wondering-how-youre = <strong>Vous vous demandez comment vous êtes censé·e vous souvenir de tous vos mots de passe et réponses de sécurité ?</strong> De grâce, ne les écrivez pas sur un morceau de papier que vous gardez à côté de votre ordinateur (apparemment certaines personnes le font). Mais procurez-vous plutôt un gestionnaire de mots de passe qui non seulement stocke en toute sécurité vos mots de passe, réponses de sécurité et autres informations privées, mais vous aide également à générer des mots de passe aléatoires et vous permet de les utiliser facilement sur tous vos appareils.
 
-privacy-book-there-are-several-v2 = Il existe plusieurs excellents gestionnaires de mots de passe sur le marché ; certains sont chiffrés avec un mot de passe principal, d’autres avec des caractéristiques biométriques (empreinte digitale, scan du visage). Choisissez celui qui vous convient le mieux — et pourquoi pas { -brand-name-firefox-lockwise } ? Il stocke tous vos mots de passe en toute sécurité et est disponible pour vos appareils mobiles ainsi que votre navigateur sur l’ordinateur, afin que vous ayez vos informations de connexion à portée de main chaque fois que vous en avez besoin.
-
-# Obsolete string
-privacy-book-there-are-several = Il existe plusieurs excellents gestionnaires de mots de passe sur le marché ; certains sont chiffrés avec un mot de passe principal, d’autres avec des caractéristiques biométriques (empreinte digitale, scan du visage). Choisissez celui qui vous convient le mieux — et pourquoi pas { -brand-name-firefox-lockwise } ? Il stocke tous vos mots de passe en toute sécurité et est disponible pour vos appareils mobiles ainsi que votre navigateur sur l’ordinateur, afin que vous ayez vos informations de connexion à portée de main chaque fois que vous en avez besoin.
-
 privacy-book-not-just-for = Pas seulement pour les professionnels de l’informatique :
 
 privacy-book-a-strong-password = un mot de passe complexe est important et c’est la première étape vers une sécurité en ligne renforcée. Vous voulez aller encore plus loin ? Essayez l’authentification multi-facteurs (MFA) — de nombreux services la proposent déjà.

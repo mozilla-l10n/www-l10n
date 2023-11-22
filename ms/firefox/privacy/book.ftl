@@ -123,11 +123,6 @@ privacy-book-some-online-services = <strong>Ada juga perkhidmatan dalam talian y
 
 privacy-book-wondering-how-youre = <strong>Tertanya-tanya bagaimana anda mesti membuat dan mengingati semua kata laluan dan jawapan keselamatan anda?</strong> Tolong jangan tuliskan kata laluan anda di atas sekeping kertas yang diletakkan di sebelah komputer (ya, ada orang yang berbuat demikian). Maka, dapatkan pengurus kata laluan yang bukan sahaja menyimpan kata laluan anda, jawapan keselamatan dan lain-lain maklumat peribadi, tetapi juga.
 
-privacy-book-there-are-several-v2 = Ada beberapa pengurus kata laluan di pasaran, ada yang dienkrip dengan kata laluan primer, ada juga ciri-ciri biometrik (cap jari, imbasan wajah). Pilihlah apa yang sesuai dengan anda – atau mungkin juga perlu mencuba { -brand-name-firefox-lockwise }? Ia akan menyimpan semua kata laluan anda dengan selamat dan tersedia untuk peranti mudah alih anda termasuk pelayar desktop, maklumat log masuk anda sentiasa tersedia setiap kali anda memerlukannya.
-
-# Obsolete string
-privacy-book-there-are-several = Ada beberapa pengurus kata laluan di pasaran, ada yang dienkrip dengan kata laluan primer, ada juga ciri-ciri biometrik (cap jari, imbasan wajah). Pilihlah apa yang sesuai dengan anda – atau mungkin juga perlu mencuba { -brand-name-firefox-lockwise }? Ia akan menyimpan semua kata laluan anda dengan selamat dan tersedia untuk peranti mudah alih anda termasuk pelayar desktop, maklumat log masuk anda sentiasa tersedia setiap kali anda memerlukannya.
-
 privacy-book-not-just-for = Bukan hanya untuk golongan profesional IT:
 
 privacy-book-a-strong-password = Kata laluan yang mantap adalah penting dan merupakan langkah pertama ke arah keselamatan dalam talian yang dipertingkatkan. Mahu tingkatkan dua kali lebih keselamatan? Cubalah pengesahan multi-faktor (MFA) – banyak perkhidmatan yang menawarkannya sekarang!
