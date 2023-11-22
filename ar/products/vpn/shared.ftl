@@ -125,6 +125,8 @@ vpn-shared-save-percent-on = وفّر { $percent }% على { -brand-name-mozilla
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *عند الاشتراك في خطة 12 شهرًا
 
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *مع اشتراك سنوي
 
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
@@ -171,6 +173,7 @@ vpn-subnav-vpn-vs-proxy = VPN مقابل Proxy
 vpn-subnav-subscribe = اشترك في { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = تعرّف على المزيد عن شبكات VPN
 vpn-subnav-download-mozilla-vpn = تحميل { -brand-name-mozilla-vpn }
+vpn-subnav-features = الميزات
 
 ## VPN Affiliate cookie notice
 
@@ -202,7 +205,15 @@ vpn-shared-why-bundle = ما سبب أهمية الحزمة؟
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>وفّر { $percent }%</span> على الخطة السنوية { -brand-name-relay-premium }
 
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } غير متوفرة في بلدك حتى الآن
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = كما رأينا في
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = &quot;VPN { -brand-name-mozilla } يمكن أنْ <a { $attrs }>تتكامل مع بعض ميزات حماية الخصوصية الرائعة</a> في متصفح { -brand-name-firefox }.&quot;
+vpn-press-unique-features-like-its-multi-account = "... الميزات الفريدة، مثل الحاويات مُتعددة الحسابات، قد تجعل الميزة سهلة المنال للمُستخدمين الذين لديهم مخاوف أعلى تتعلق بالخصوصية."
+vpn-press-mozilla-vpns-feature-list-has-grown = "قائمة ميزات { -brand-name-mozilla-vpn } قد اتسعت بشكل كبير منذ إطلاقها، والخدمة تتفوق الآن على العديد من شبكات VPN المُتخصصة في بعض المناطق."
