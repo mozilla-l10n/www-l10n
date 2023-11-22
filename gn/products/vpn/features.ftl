@@ -45,6 +45,7 @@ vpn-features-super-private-mode = Ñemiguaite ayvu: ombohape ñeikundaha mokõi 
 vpn-features-support-for-custom-dns = Ñepytyvõ DNS mboavapyrépe g̃uarã
 vpn-features-flexible = Pepykuaáva
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
+vpn-features-personalize-which-apps = Eiporavo mba’e tembiporu’ípa oñemo’ãta VPN ndive
 vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
 vpn-features-people-over-profits = Yvypóra viru ñegana ári
