@@ -8,9 +8,6 @@ navigation-v2-download-firefox = تنزيل { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
 navigation-v2-menu = القائمة
 
-# Obsolete string
-navigation-v2-get-a-firefox-account = احصل على { -brand-name-firefox-account }
-
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }

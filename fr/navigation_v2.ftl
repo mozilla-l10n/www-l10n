@@ -8,9 +8,6 @@ navigation-v2-download-firefox = Télécharger { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
-# Obsolete string
-navigation-v2-get-a-firefox-account = Créer un { -brand-name-firefox-account }
-
 ## Firefox menu
 
 navigation-v2-firefox-browsers = Navigateurs Firefox

@@ -8,9 +8,6 @@ navigation-v2-download-firefox = { -brand-name-firefox } herunterladen
 navigation-v2-get-mozilla-vpn = Hol dir { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menü
 
-# Obsolete string
-navigation-v2-get-a-firefox-account = Hol dir einen { -brand-name-firefox-account }
-
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
