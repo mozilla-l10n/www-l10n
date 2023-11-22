@@ -42,3 +42,10 @@ vpn-or-proxy-choose-a-trustworthy = Odaberite uslugu od povjerenja
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-or-proxy-the-most-important = Najvažnija stvar koju treba uzeti u obzir pri odabiru VPN ili proxy usluge je odabir kompanije od povjerenja. Budite sigurni da razumijete uslove na koje pristajete. Mnogi tvrde da su sjajni i fokusirani na privatnost, ali veliki broj njih ne ispunjava svoje obećanje. Nisu sve proxy i VPN usluge sigurne i privatne. Neki <a href="{ $cnet }">će</a> <a href="{ $pcmag }">zabilježiti</a> vaše online aktivnosti kako bi mogli prodati vaše podatke i informacije samim marketinškim firmama. Druge usluge će vas pokušati uvjeriti da instalirate zlonamjerni softver na svoje uređaje.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Preduzeli smo korake da osiguramo da <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> i <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> proxy dodatak stvarno poštuju vašu privatnost i spremni smo da se kladimo na našu reputaciju na to. { -brand-name-mozilla } je poznata po stvaranju proizvoda koji pomažu da vaši podaci budu sigurni. Pridržavamo se naših lahko čitljivih <a href="{ $principles }">principa o privatnosti podataka</a>, koji nam omogućavaju da se fokusiramo isključivo na podatke koji su nam potrebne za pružanje usluga. A pošto nas podržava <a href="{ $mission }">kompanija vođena misijom</a>, možete vjerovati da novac koji potrošite na ovaj proizvod ne samo da će vam osigurati vrhunsku sigurnost, već također čini internet boljim za sve.
