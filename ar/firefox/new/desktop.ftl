@@ -45,14 +45,6 @@ firefox-desktop-download-os-availability = التوافر على أنظمة ال
 firefox-desktop-download-in-browser-screenshot = أداة مُدمجة بالمتصفح لأخذ لقطات الشاشة
 firefox-desktop-download-primary-password = كلمة مرور رئيسية
 
-# Obsolete string
-firefox-desktop-love-your-life = عِش حياتك على الإنترنت
-
-# Obsolete string
-firefox-desktop-its-your-internet = إنه الإنترنت الخاص بك. زيّنه بالطريقة التي تحلو لك مع آلاف الأدوات والأشكال والامتدادات. يُعد { -brand-name-firefox } المتصفّح البديل الأصلي الذي يُقدّم الناس على الأرباح.
-
-# Obsolete string
-firefox-desktop-download-master-password = كلمة المرور الرئيسية
 firefox-desktop-download-we-block-the-ad = نحجب المتعقِّبات الإعلانية، لتتمكن من تصفح الإنترنت على نحو أسرع.
 firefox-desktop-download-ads-are-distracting = تتسبّب الإعلانات في تشتيت الانتباه وإبطاء تحميل صفحات الإنترنت، وتراقِب الأدوات التي تتعقب تلك الإعلانات كل خطوة تخطوها على الإنترنت. ونظرًا لأن { -brand-name-firefox-browser } يحجب معظم أدوات التعقُّب تلقائيًا، فلا داعي للبحث في إعدادات الأمان.
 firefox-desktop-download-see-your-report = اطَّلِع على تقرير الحماية
@@ -174,9 +166,6 @@ firefox-desktop-download-watch-for-hackers-with-v3 = احترس من المُخ�
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-firefox-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = احترس من المخترقين وراقبهم باستخدام{ -brand-name-firefox-monitor }، واحمِ كلمات المرور باستخدام { -brand-name-firefox-lockwise }، وجرِّب المزيد.
-
 firefox-desktop-download-get-more-from-firefox = احصل على المزيد من ميزات { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = نزِّل المتصفح
 
@@ -195,8 +184,6 @@ firefox-desktop-download-get-help = هل تواجهك مشكلة؟ <a { $attrs }
 firefox-desktop-download-in-another-language = نزِّل المُتصفح بلغة أخرى أو لنظام تشغيل آخر.
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = إذا ظهرت لك مُطالبة تفيد بأن التطبيق الذي تُحاول تثبيته غير مُعتمد من { -brand-name-microsoft }، انقر فوق &quot;تثبيت على أي حال&quot; أو <a { $attrs }>غيِّر إعدادات توصيات التطبيق</a>.
@@ -205,11 +192,6 @@ firefox-desktop-download-visit-support-for-more = تفضل بزيارة الدع
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = <a href="{ $url }">لم تَعد شركة { -brand-name-mozilla } تقدم تحديثات أمنية</a> لنظام تشغيل { -brand-name-windows }{ -brand-name-xp } أو { -brand-name-vista }، ولكن لا يزال بإمكانك استخدام { -brand-name-firefox }.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = إنك تستخدم نظام تشغيل قديم وغير آمن <a href="{ $url }">ولم يعد مدعومًا من { -brand-name-firefox }</a>.
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

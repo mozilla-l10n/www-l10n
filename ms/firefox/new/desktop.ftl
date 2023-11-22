@@ -45,14 +45,6 @@ firefox-desktop-download-os-availability = Ketersediaan OS
 firefox-desktop-download-in-browser-screenshot = Ciri tangkapan skrin dalam pelayar
 firefox-desktop-download-primary-password = Kata laluan utama
 
-# Obsolete string
-firefox-desktop-love-your-life = Sayangi hidup anda dalam talian
-
-# Obsolete string
-firefox-desktop-its-your-internet = Ini Internet anda. Warnainya mengikut kemahuan anda dengan ribuan alatan, tema dan sambungan. { -brand-name-firefox } ialah pelayar alternatif tulen yang mengutamakan pengguna daripada keuntungan.
-
-# Obsolete string
-firefox-desktop-download-master-password = Kata laluan induk
 firefox-desktop-download-we-block-the-ad = Kami menyekat penjejak iklan. Anda mampu melayari internet lebih pantas.
 firefox-desktop-download-ads-are-distracting = Iklan bersifat mengacau dan menjadikan pemuatan laman web perlahan manakala penjejak pula memerhati setiap pergerakan anda di atas talian. { -brand-name-firefox-browser } menyekat kebanyakan penjejak automatik maka anda tidak perlu menggodek tetapan keselamatan anda.
 firefox-desktop-download-see-your-report = Lihat laporan perlindungan anda
@@ -174,9 +166,6 @@ firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -b
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Awasi penggodam dengan { -brand-name-firefox-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Pantau penggodam dengan { -brand-name-firefox-monitor }, lindungi kata laluan dengan { -brand-name-firefox-lockwise }, dan banyak lagi.
-
 firefox-desktop-download-get-more-from-firefox = Dapatkan Lebih Lagi Daripada { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Hanya Muat turun Pelayarnya
 
@@ -195,8 +184,6 @@ firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan 
 firefox-desktop-download-in-another-language = Muat turun dalam bahasa lain atau sistem operasi yang lain.
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Jika anda nampak arahan yang menyatakan aplikasi yang ingin anda pasang bukan disahkan oleh { -brand-name-microsoft }, klik &quot;Install anyway&quot; atau <a { $attrs }>ubah tetapan aplikasi</a>.
@@ -205,11 +192,6 @@ firefox-desktop-download-visit-support-for-more = Layari Sokongan untuk Maklumat
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak lagi membekalkan kemas kini keselamatan</a> bagi { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi anda masih boleh menggunakan { -brand-name-firefox }.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Anda menggunakan sistem operasi yang <a href="{ $url }">tidak selamat dan lama dan tidak lagi disokong oleh { -brand-name-firefox }</a>.
 
 # Variables:
 #   $id (string) - HTML ID for the download link.

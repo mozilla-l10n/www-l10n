@@ -45,14 +45,6 @@ firefox-desktop-download-os-availability = OS 対応
 firefox-desktop-download-in-browser-screenshot = ブラウザー内スクリーンショットツール
 firefox-desktop-download-primary-password = プライマリパスワード
 
-# Obsolete string
-firefox-desktop-love-your-life = オンライン生活を大切に
-
-# Obsolete string
-firefox-desktop-its-your-internet = あなたのためのインターネットです。いくつものツールやテーマ、拡張機能で、思いのままのカラーにカスタマイズ。{ -brand-name-firefox } は利益よりもユーザーファーストのオリジナルブラウザーです。
-
-# Obsolete string
-firefox-desktop-download-master-password = マスターパスワード
 firefox-desktop-download-we-block-the-ad = 広告トラッカーをブロックします。もっと高速にインターネットをお楽しみください。
 firefox-desktop-download-ads-are-distracting = 広告は視界の妨げになり、ウェブページの読み込みを遅くするうえに、ユーザーはオンライン上のあらゆる操作が広告トラッカーによって追跡されます。{ -brand-name-firefox-browser } なら、ほとんどのトラッカーを自動的にブロックするため、セキュリティ設定を確認する必要はありません。
 firefox-desktop-download-see-your-report = 保護レポートを見る
@@ -174,9 +166,6 @@ firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monit
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } がハッカーをブロック、{ -brand-name-firefox-lockwise } がパスワードを保護します。他にも機能は満載。
-
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } なら、もっとたくさんのことができます
 firefox-desktop-download-just-download-the-browser = ブラウザーをダウンロードするだけです
 
@@ -195,8 +184,6 @@ firefox-desktop-download-get-help = 問題が発生しましたら、<a { $attrs
 firefox-desktop-download-in-another-language = 別の言語または別の OS でダウンロード。
 firefox-desktop-download-windows = { -brand-name-windows }
 
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = インストールしようとしているアプリが { -brand-name-microsoft } に検証されたアプリではないというメッセージが表示されたら、[このままインストールする] をクリックするか、<a { $attrs }>アプリの推奨に関する設定を変更してください</a>。
@@ -205,11 +192,6 @@ firefox-desktop-download-visit-support-for-more = 詳しくはサポートをご
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } は、{ -brand-name-windows } { -brand-name-xp } および { -brand-name-vista } の<a href="{ $url }">セキュリティアップデートの提供を終了しています</a>が、引き続き { -brand-name-firefox } をご利用になれます。
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox } がサポートを終了した</a>安全でない古い OS を使用しています。
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
