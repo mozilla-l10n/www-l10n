@@ -17,9 +17,9 @@ vpn-landing-a-virtual-private-network-protects = 虚拟专用网络可以保护�
 vpn-landing-see-all-the-ways-mozilla-vpn = 了解 { -brand-name-mozilla-vpn } 用以保护您的各门本领
 vpn-landing-how-a-vpn-helps-you = VPN 的用处
 vpn-landing-keeps-your-data-safe = 在公共 Wi-Fi 中保护数据安全
-vpn-landing-log-in-to-your-bank-or = 在机场、咖啡厅或者任何地方登录您的银行或者医生办公室的信息请高枕无忧。
+vpn-landing-log-in-to-your-bank-or = 在机场、咖啡厅等场所安心登录网银或网上挂号。
 vpn-landing-blocks-advertisers-from = 拒绝广告商定向推广
-vpn-landing-hide-your-activity-from = 对跟踪器和恶意软件隐藏您的活动安全购物而不被监视。
+vpn-landing-hide-your-activity-from = 不让跟踪器和恶意软件窥视您的活动，安心网购。
 vpn-landing-helps-you-access-global = 助您访问全球内容
 vpn-landing-check-out-streaming-media = 无论在旅途中还是在家都能看到其他国家/地区的流媒体、网站和直播。
 vpn-landing-features = 功能
@@ -37,17 +37,17 @@ vpn-landing-more-than-servers-in-countries =
        *[other] { $countries }+ 个国家/地区的 { $servers } 余台服务器随心用
     }
 vpn-landing-fast-network-speeds-even-while = 玩游戏照样快到飞起
-vpn-landing-no-logging-tracking-or-sharing = 绝不会记录、跟踪或共享网络数据
+vpn-landing-no-logging-tracking-or-sharing = 绝不记录、跟踪、共享网络数据
 vpn-landing-no-bandwidth-restrictions-or = 不限制带宽
-vpn-landing-extra-security-whole-device = 额外安全性整设备保护、多跳路由等
+vpn-landing-extra-security-whole-device = 额外安全性：全设备保护、多跳路由等功能
 vpn-landing-see-all-features = 查看所有功能
 vpn-landing-fram-a-brand-you-can-trust = 值得信赖的品牌
-vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家非营利的互联网公司自 1998 年以来一直为健康的网络奋斗。
-vpn-landing-one-subscription-for-all-your = 一次订阅，全设备可用
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家受非营利组织支持的互联网公司。1998 年至今，持续为健康的网络而战。
+vpn-landing-one-subscription-for-all-your = 一份订阅可供您的所有设备使用
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>由 { -brand-name-mozilla } 提供。</strong>从 1998 年开始为您的隐私权而战。
-vpn-landing-learn-more-from-our-experts = 向我们的专家详细了解
-vpn-landing-do-you-need-a-vpn-at-home = 您在家需要 VPN 吗这里有 5 个可能的理由。
+vpn-landing-learn-more-from-our-experts = 进一步咨询我们的专家
+vpn-landing-do-you-need-a-vpn-at-home = 在家也需要用 VPN 码？请看五大好处
 vpn-landing-what-is-an-ip-address = IP 地址是什么？
 vpn-landing-how-your-location-is-tracked = 我们如何跟踪您的位置以及如何限制共享
 vpn-landing-see-more-resources = 参阅更多资源
