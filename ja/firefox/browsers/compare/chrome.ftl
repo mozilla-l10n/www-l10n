@@ -22,19 +22,9 @@ compare-chrome-at-firefox-we-have-a-huge-v2 = { -brand-name-firefox } には、�
 #   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } には、オンラインプライバシーを守るという Mozilla の揺るぎない取り組みを支持するユーザーが数多くいます。たとえば、{ -brand-name-firefox } の最新バージョンには強化型トラッキング防止 (ETP) という機能を搭載し、世界中のすべてのユーザーを対象に既定でオンになっています。ETP は、{ -brand-name-facebook } や { -brand-name-twitter }、LinkedIn といった企業が埋め込むソーシャルトラッカーを含め、2000 個以上のトラッカーをブロックします。また、パスワードが漏洩したり、更新が必要になったりした場合に自動的に通知する <a { $attrs }>{ -brand-name-firefox-monitor }</a> という機能も統合しています。これらの保護に加えて、{ -brand-name-firefox } のプライベートブラウジングモードでは、履歴や Cookie などの閲覧情報を自動的に削除し、セッション終了後に痕跡を残しません。
 
-# Obsolete string
-# Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
-compare-chrome-at-firefox-we-have-a-huge-fallback = { -brand-name-firefox } には、オンラインプライバシーを守るという Mozilla の揺るぎない取り組みを支持するユーザーが数多くいます。例えば、{ -brand-name-firefox } の最新バージョンには強化型トラッキング防止 (ETP) という機能を搭載し、世界中のすべてのユーザーを対象に既定でオンになっています。ETP は、{ -brand-name-facebook } や { -brand-name-twitter }、LinkedIn といった企業が埋め込むソーシャルトラッカーを含め、2000 個以上のトラッカーをブロックします。また、パスワードが漏洩したり、更新が必要になったりした場合に自動的に通知する <a { $attrs }>{ -brand-name-firefox-monitor }</a> という機能も統合しています。これらの保護に加えて、{ -brand-name-firefox } のプライベートブラウジングモードでは、履歴や Cookie などの閲覧情報を自動的に削除し、セッション終了後に痕跡を残しません。
-
 # Variables:
 #   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
 compare-chrome-weve-also-recently-restated-v2 = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「{ -brand-name-mozilla } は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。
-
-# Obsolete string
-# Variables:
-#   $attrs (string) - link to mozilla.org/privacy/firefox/ with additional attributes for analytics
-compare-chrome-weve-also-recently-restated = また、最近では、最新版の <a { $attrs }>Firefox のプライバシーに関する通知</a> にて、ユーザーデータに関するプライバシーと透明性の公約を改訂しました。「Mozilla は、プライバシーが健全なインターネットの基盤であると信じています」と記述しています。
 
 compare-chrome-google-chrome-is-by-all-accounts = { -brand-name-google } { -brand-name-chrome } は間違いなくセキュリティの固いブラウザーです。搭載している { -brand-name-google } セーフ ブラウジングは、ユーザーが危険なサイトに移動するか危険なファイルをダウンロードしようとしたときに目立つ警告を表示してユーザーを保護します。
 
@@ -44,8 +34,6 @@ compare-chrome-ultimately-its-up-to-you = 検索履歴や買い物履歴を共�
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
 compare-chrome-fast-forward-to-today-the-updated = 今日では、ブラウザー競争の様相が変わり、多くのユーザーが閲覧履歴やパスワード、その他の注意を要する情報といったオンラインデータに何が起こっているのかを疑問視するようになりました。{ -brand-name-chrome } が登場した 2008 年から、たくさんの変化がありました。{ -brand-name-firefox } では、インターフェイスを再設計し、既定で適用されるいくつものプライバシーおよびパフォーマンス改良、充実した便利なブラウザーツールを提供するために尽力しています。
 
-# Obsolete string
-compare-chrome-fast-forward-to-today-the = 今日では、ブラウザー競争の様相が変わり、多くのユーザーが閲覧履歴やパスワード、その他の注意を要する情報といったオンラインデータに何が起こっているのかを疑問視するようになりました。{ -brand-name-chrome } が登場した 2008 年から、たくさんの変化がありました。{ -brand-name-firefox } では、インターフェイスを再設計し、いくつものプライバシーおよびパフォーマンス改良、充実した便利なブラウザーツールを提供するために尽力しています。
 compare-chrome-and-so-here-we-are-the-browser = こうしてまたブラウザー戦争は加速し、{ -brand-name-firefox-browser } と { -brand-name-google } { -brand-name-chrome } を再評価、比較する時が来ました。
 compare-chrome-in-2008-google-introduced = 2008 年、{ -brand-name-google } は { -brand-name-chrome } を発表し、ブラウザーテクノロジーのイノベーションとして、その影響はすぐに現れました。サイトの読み込みが速く、画面の占有スペースは最小限で、ユーザーインターフェイスは間違いなくシンプルでした。
 compare-chrome-in-fact-both-chrome-and-firefox = { -brand-name-chrome } と { -brand-name-firefox } は、いずれも厳格なセキュリティを備えています。どちらもブラウザーのプロセスを分離する「サンドボックス」という機能を搭載し、ノートパソコンなどのデバイスの他の部分が有害なウェブサイトからの感染を受けることがありません。
@@ -62,9 +50,6 @@ compare-chrome-if-having-tons-of-open-tabs = タブをたくさん開くタイ�
 compare-chrome-almost-needless-to-say-versions = 言うまでもないかもしれませんが、{ -brand-name-firefox } と { -brand-name-chrome } の両方とも一般的なデスクトップおよびモバイル OS ({ -brand-name-windows }、{ -brand-name-mac }、{ -brand-name-linux }、{ -brand-name-android }、{ -brand-name-ios }) に対応しています。
 
 compare-chrome-both-chrome-and-firefox-also-updated = { -brand-name-chrome } と { -brand-name-firefox } の両方でパスワードやブックマーク、開いているタブなどをすべてのデバイスで同期できます。{ -brand-name-firefox } のほうはプライマリパスワードのセキュリティを強化し、すべての保存されたログインとパスワードに対し、ロックとキーを追加します。{ -brand-name-firefox } アカウントがあると、開いているタブを手動でデスクトップ⇄モバイルデバイス間で送信できます。{ -brand-name-chrome } なら、設定で選択すると自動的にできます。先に読み終わらなかった記事の続きを読むといった場面では、1 つのデバイスから別のデバイスにタブを手動送信する手間がないと便利です。ただし、1 つの { -brand-name-google } アカウントにサインインして複数のユーザーが閲覧する可能性がある場合には、自動同期は理想的でないかもしれません。
-
-# Obsolete string
-compare-chrome-both-chrome-and-firefox-also = { -brand-name-chrome } と { -brand-name-firefox } の両方でパスワードやブックマーク、開いているタブなどをすべてのデバイスで同期できます。{ -brand-name-firefox } アカウントがあると、開いているタブを手動でデスクトップ⇄モバイルデバイス間で送信できます。{ -brand-name-chrome } なら、設定で選択すると自動的にできます。先に読み終わらなかった記事の続きを読むといった場面では、1 つのデバイスから別のデバイスにタブを手動送信する手間がないと便利です。ただし、1 つの { -brand-name-google } アカウントにサインインして複数のユーザーが閲覧する可能性がある場合には、自動同期は理想的でないかもしれません。
 
 # "Neck and neck" means they are evenly matched. Alternative: "evenly matched". "Baked-in" means it's included, not added in later. Alternatives: "built-in" or "included".
 compare-chrome-we-think-its-fair-to-say = { -brand-name-firefox } と { -brand-name-chrome } は、ポータブル性と実用性の面では互角であるといえます。実用性では、拡張機能とアドオン機能の巨大なライブラリを擁する { -brand-name-chrome } にやや利があります。一方、プライバシーの面では { -brand-name-firefox } が勝ります。ユーザーのオンラインデータを守るという公約を掲げ、ユーザーの資格情報がデータ侵害に遭った場合に通知するパスワードマネージャーといった無料のサービスを内蔵しています。
