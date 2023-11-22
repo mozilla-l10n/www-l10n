@@ -41,8 +41,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Envoyer un onglet</a> vers un 
 firefox-accounts-save-and-sync = <a href="{ $password }">Enregistrer et synchroniser vos mots de passe</a>
 firefox-accounts-get-email-alerts = Recevoir des alertes par e-mail quand vos informations sont concernées par une faille de données connue
 
-# Obsolete string
-firefox-accounts-see-if-youve-been = Vérifiez si vous avez été victime d’une fuite de données en ligne.
 firefox-accounts-protect-your-identity = Protéger votre identité grâce au masquage sécurisé du numéro de téléphone et de l’adresse e-mail
 firefox-accounts-keep-your-passwords = Des mots de passe sûrs qui vous suivent partout.
 firefox-accounts-get-a-lookout-for = Des alertes en cas de fuite de données.

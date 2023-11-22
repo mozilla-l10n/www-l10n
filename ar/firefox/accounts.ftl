@@ -41,8 +41,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">إرسال تبويب</a> إل
 firefox-accounts-save-and-sync = <a href="{ $password }">حفظ كلمات المرور ومُزامنتها</a>
 firefox-accounts-get-email-alerts = استقبال إشعارات البريد الإلكتروني عند ظهور معلوماتك في خرق للبيانات معروف
 
-# Obsolete string
-firefox-accounts-see-if-youve-been = تحقق مما إذا كنت قد تعرَّضت لعملية خرق بيانات على الإنترنت.
 firefox-accounts-protect-your-identity = حماية هويتك بتليفون آمن وتقنيع البريد الإلكتروني
 firefox-accounts-keep-your-passwords = حافظ على حماية كلمات المرور واستمتع بإمكانية استخدامها في كل مكان
 firefox-accounts-get-a-lookout-for = تنبّه وتيقّظ إلى خروقات البيانات.

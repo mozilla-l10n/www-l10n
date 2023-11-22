@@ -41,8 +41,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Hantar tab</a> ke peranti lain
 firefox-accounts-save-and-sync = <a href="{ $password }">Simpan dan selaraskan kata laluan</a>
 firefox-accounts-get-email-alerts = Terima notifikasi e-mel jika info anda muncul di dalam kebocoran data yang diketahui
 
-# Obsolete string
-firefox-accounts-see-if-youve-been = Lihat sama ada anda terlibat dalam kebocoran data dalam talian.
 firefox-accounts-protect-your-identity = Lindungi identiti anda dengan penyamaran telefon dan e-mel yang selamat
 firefox-accounts-keep-your-passwords = Pastikan kata laluan anda dilindungi dan mudah alih.
 firefox-accounts-get-a-lookout-for = Berhati-hati dengan kebocoran data.

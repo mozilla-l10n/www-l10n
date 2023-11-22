@@ -41,8 +41,6 @@ firefox-accounts-send-a-tab = 別のデバイスに<a href="{ $send }">タブを
 firefox-accounts-save-and-sync = <a href="{ $password }">パスワードを保存、同期</a>
 firefox-accounts-get-email-alerts = 既知のデータ侵害であなたの情報が見つかったときにメールアラートを受け取る
 
-# Obsolete string
-firefox-accounts-see-if-youve-been = オンライン上のデータ侵害の被害を受けているか確認できます。
 firefox-accounts-protect-your-identity = 安全な電話とメールのマスキングで ID を保護
 firefox-accounts-keep-your-passwords = パスワードを保護しながらポータブルに。
 firefox-accounts-get-a-lookout-for = データ侵害にご注意ください。

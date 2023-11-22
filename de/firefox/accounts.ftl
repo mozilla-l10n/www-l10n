@@ -41,8 +41,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">einen Tab</a> an ein anderes G
 firefox-accounts-save-and-sync = <a href="{ $password }">Passwörter zu speichern und zu synchronisieren</a>
 firefox-accounts-get-email-alerts = Erhalten Sie E-Mail-Benachrichtigungen, wenn Ihre Daten in einem bekannten Datenleck auftauchen.
 
-# Obsolete string
-firefox-accounts-see-if-youve-been = Überprüfe, ob du von einem Online-Datenleck betroffen bist.
 firefox-accounts-protect-your-identity = Schützen Sie Ihre Identität mit sicheren Telefon- und E-Mail-Masken
 firefox-accounts-keep-your-passwords = Schütze deine Passwörter und nimm sie überall mit hin.
 firefox-accounts-get-a-lookout-for = Hol dir jemanden zur Seite, der Datenlecks im Auge behält.
