@@ -13,19 +13,11 @@ mission-our-mission-is-to-promote-openness = Misi kami adalah untuk mempromosika
 
 mission-at-mozilla-were-a-global-community-v2 = Di { -brand-name-mozilla }, kami adalah komunitas global ahli teknologi, pemikir, dan pembangun yang bekerja bersama untuk menjaga Internet tetap hidup dan dapat diakses, sehingga orang di seluruh dunia dapat menjadi kontributor dan pencipta Web yang terinformasi.
 
-# Obsolete string
-mission-at-mozilla-were-a-global-community = Di Mozilla, kami adalah komunitas global ahli teknologi, pemikir, dan pembangun yang bekerja bersama untuk menjaga Internet tetap hidup dan dapat diakses, sehingga orang di seluruh dunia dapat menjadi kontributor dan pencipta Web yang terinformasi.
-
 mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kolaborasi manusia di seluruh platform terbuka ini penting untuk pertumbuhan individu dan masa depan kolektif kita.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Baca <a href="{ $url }">Manifesto { -brand-name-mozilla }</a> untuk mempelajari lebih lanjut mengenai nilai dan prinsip yang memandu pencapaian misi kami.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Baca <a href="{ $url }">Manifesto Mozilla</a> untuk mempelajari lebih lanjut mengenai nilai dan prinsip yang memandu pencapaian misi kami.
 
 mission-watch-the-video-above-to-learn-more = Tonton video di atas untuk mempelajari lebih lanjut mengenai kami, di mana kami berasal, dan bagaimana kami membuat Web menjadi lebih baik untuk Anda.
 
@@ -44,6 +36,3 @@ mission-topics-include-support-products = Topik meliputi dukungan, produk, dan t
 mission-governance = Tata Kelola
 
 mission-our-structure-organization-and-the-v2 = Struktur, organisasi, dan komunitas { -brand-name-mozilla } kami yang lebih luas
-
-# Obsolete string
-mission-our-structure-organization-and-the = Struktur, organisasi, dan komunitas Mozilla kami yang lebih luas

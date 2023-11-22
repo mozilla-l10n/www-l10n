@@ -13,19 +13,11 @@ mission-our-mission-is-to-promote-openness = Unsere Mission ist es, Offenheit, I
 
 mission-at-mozilla-were-a-global-community-v2 = Bei { -brand-name-mozilla } sind wir eine weltweite Gemeinschaft von Technologen, Denkern und Entwicklern, die zusammenarbeiten, um das Internet lebendig und zugänglich zu erhalten, so dass Menschen auf der ganzen Welt informiert zum Web beitragen und es erschaffen können.
 
-# Obsolete string
-mission-at-mozilla-were-a-global-community = Bei Mozilla sind wir eine weltweite Gemeinschaft von Technologen, Denkern und Entwicklern, die zusammenarbeiten, um das Internet lebendig und zugänglich zu erhalten, so dass Menschen auf der ganzen Welt informiert zum Web beitragen und es erschaffen können.
-
 mission-we-believe-this-act-of-human-collaboration = Wir glauben, dass dieser Akt menschlicher Zusammenarbeit auf einer offenen Plattform unabdingbar für individuelles Wachstum und unsere gemeinsame Zukunft ist.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Lesen Sie das <a href="{ $url }">{ -brand-name-mozilla }-Manifest</a>, um mehr über die Werte und Prinzipien zu erfahren, die uns bei unserer Mission leiten.
-
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Lesen Sie das <a href="{ $url }">Mozilla-Manifest</a>, um mehr über die Werte und Prinzipien zu erfahren, die uns bei unserer Mission leiten.
 
 mission-watch-the-video-above-to-learn-more = Sehen Sie sich das obige Video an, um mehr darüber zu erfahren, wer wir sind, wo wir herkommen und wie wir das Internet für Sie verbessern.
 
@@ -44,6 +36,3 @@ mission-topics-include-support-products = Zu den Themen gehören Hilfe, Produkte
 mission-governance = Verwaltung
 
 mission-our-structure-organization-and-the-v2 = Unsere Struktur, Organisation und weitere { -brand-name-mozilla } Community
-
-# Obsolete string
-mission-our-structure-organization-and-the = Unsere Struktur, Organisation und die breitere Mozilla-Gemeinschaft
