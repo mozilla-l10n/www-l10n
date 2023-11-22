@@ -28,11 +28,6 @@ firefox-new-need-help = お困りの場合
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } は、{ -brand-name-windows } { -brand-name-xp } および { -brand-name-vista } の<a href="{ $url }">セキュリティアップデートの提供を終了しています</a>が、引き続き { -brand-name-firefox } をご利用になれます。
 
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox } がサポートを終了した</a>安全でない古い OS を使用しています。
-
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -51,9 +46,6 @@ firefox-new-please-follow = { -brand-name-firefox } をインストールする�
 firefox-new-your-system-may-not = お使いのシステムが { -brand-name-firefox } の要件を満たしていない可能性がありますが、<a href="{ $url }">こちらのバージョン</a>のいずれかをお試しください。
 
 firefox-new-windows = { -brand-name-windows }
-
-# Obsolete string
-firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
