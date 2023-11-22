@@ -11,8 +11,7 @@ vpn-linux-linux-is-free = Linux itu gratis, sumber terbuka, dan dapat disesuaika
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } adalah layanan jaringan pribadi virtual yang menggunakan enkripsi canggih sumber terbuka dan tidak mencatat, melacak, atau membagikan aktivitas jaringan Anda. Memungkinkan Anda terhubung ke lebih dari 500 server di 30+ negara.
 vpn-linux-why-choose = Mengapa memilih { -brand-name-mozilla-vpn } untuk Linux?
 vpn-linux-fast-and-v2 = <strong>Cepat dan andal:</strong> { -brand-name-mozilla-vpn } menggunakan protokol { -brand-name-wireguard }® yang menawarkan kinerja dan stabilitas yang lebih baik dibandingkan protokol VPN lain.
-# Obsolete string
-vpn-linux-fast-and = <strong>Cepat dan andal:</strong> { -brand-name-mozilla-vpn } menggunakan protokol { -brand-name-wireguard }® yang menawarkan kinerja dan stabilitas yang lebih baik dibandingkan protokol VPN lain
+
 vpn-linux-no-logs = <strong>Tanpa log aktivitas:</strong> { -brand-name-mozilla-vpn } tidak menyimpan log apa pun dari aktivitas jaringan Anda; kami tidak mencatat situs web mana saja yang Anda kunjungi atau menginspeksi trafik Anda.
 vpn-linux-additional-security = <strong>Fitur keamanan tambahan:</strong> Kami menggunakan pemblokiran DNS untuk memblokir iklan, pelacak, dan malware. Sementara peramban hanya dapat mencegah situs web untuk menyebarkan malware dan melacak Anda.
 vpn-linux-device-level = <strong>Enkripsi tingkat perangkat:</strong> Tidak seperti VPN yang hanya mengenkripsi trafik peramban Anda, { -brand-name-mozilla-vpn } mengenkripsi semua trafik perangkat, termasuk semua aplikasi dan game.
@@ -27,12 +26,6 @@ vpn-linux-how-to-install = Cara menginstal { -brand-name-mozilla-vpn } di Linux
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Jika Anda menggunakan salah satu rilis Ubuntu yang didukung, ada dua cara untuk menginstal paket resmi mozillavpn yang dihosting di <a { $attrs }>launchpad:</a>
-
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Jika Anda menggunakan salah satu rilis Ubuntu yang didukung, ada dua cara untuk menginstal paket resmi mozillavpn yang dihosting di <a { $attrs }>launchpad:</a>
 
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer

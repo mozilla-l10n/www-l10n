@@ -11,8 +11,7 @@ vpn-linux-linux-is-free = Linux は無料、オープンソースでカスタマ
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } は、オープンソースの最先端の暗号化を使用する仮想プライベートネットワークサービスであり、ネットワークアクティビティの記録、追跡、共有は一切行いません。30 か国以上 500 台以上のサーバーに接続できます。
 vpn-linux-why-choose = Linux 用 { -brand-name-mozilla-vpn } を選ぶ理由
 vpn-linux-fast-and-v2 = <strong>高速で信頼性が高い:</strong> { -brand-name-mozilla-vpn } は、他の VPN プロトコルよりも優れたパフォーマンスと安定性を提供する { -brand-name-wireguard }® プロトコルを採用しています。
-# Obsolete string
-vpn-linux-fast-and = <strong>高速で信頼性が高い:</strong> { -brand-name-mozilla-vpn } は、他の VPN プロトコルよりも優れたパフォーマンスと安定性を提供する { -brand-name-wireguard }® プロトコルを採用しています。
+
 vpn-linux-no-logs = <strong>ノーログ:</strong> { -brand-name-mozilla-vpn } はネットワークアクティビティを記録しません。つまり、ユーザーがアクセスしたウェブサイトを記録したり、トラフィックを検査したりすることはありません。
 vpn-linux-additional-security = <strong>追加のセキュリティ機能:</strong> DNS ブロックを使用して、広告やトラッカー、マルウェアをブロックします。ブラウザーが防止できるのは、ウェブサイトから植え付けられるマルウェアとユーザーの追跡だけです。
 vpn-linux-device-level = <strong>デバイスレベルの暗号化:</strong> ブラウザートラフィックのみを暗号化する VPN とは異なり、{ -brand-name-mozilla-vpn } は、すべてのアプリケーションやゲームを含むデバイスのすべてのトラフィックを暗号化します。
@@ -27,12 +26,6 @@ vpn-linux-how-to-install = Linuxで { -brand-name-mozilla-vpn } をインスト�
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = サポートされている Ubuntu リリースのいずれかをお使いの場合、<a { $attrs }>launchpad</a> でホストされている mozillavpn 公式パッケージをインストールする方法は 2 つあります。
-
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = サポートされている Ubuntu リリースのいずれかをお使いの場合、<a { $attrs }>launchpad</a> でホストされている mozillavpn 公式パッケージをインストールする方法は 2 つあります。
 
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
