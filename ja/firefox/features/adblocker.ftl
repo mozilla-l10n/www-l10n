@@ -40,8 +40,6 @@ features-adblocker-on-firefox-you-can-use = { -brand-name-firefox } では、[<a
 features-adblocker-choose-your-level-of-protection = 保護のレベルを選ぶ
 features-adblocker-to-start-click-on-the-v2 = まず、任意のウェブページのアドレスバー左側にある盾をクリックし、[保護設定] を選択します。{ -brand-name-firefox } 設定の [プライバシーとセキュリティ] パネルが新しいタブで開きます。いろいろな選択肢のある青色のポップアップが表示されます。
 
-# Obsolete string
-features-adblocker-to-start-click-on-the = 始めるには、画面右上の { -brand-name-firefox } メニューをクリックします。3 本の線が積み重なった形です。ドロップダウンメニューから [コンテンツブロッキング] をクリックします。いろいろな選択肢のある青色のポップアップが表示されます。
 features-adblocker-go-easy-with-standard = スタンダードモードで簡単に
 
 # Variables:
@@ -73,6 +71,3 @@ features-adblocker-in-some-cases-an-ad-blocker = 広告ブロッカーによっ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = 広告ブロックについて詳しく知りたい場合は、{ -brand-name-firefox } などのブラウザーで利用できる広告ブロッカー拡張機能をチェックしてみてください。数百という種類があります。{ -brand-name-firefox } が利用している広告ブロッカーを試す場合は、プライバシー第一を掲げるブラウザーを、<a href="{ $url }">ここをクリックしてダウンロード</a>してください。
-
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = 広告ブロックについて詳しく知りたい場合は、{ -brand-name-firefox } などのブラウザーで利用できる広告ブロッカー拡張機能をチェックしてみてください。数百という種類があります。{ -brand-name-firefox } が利用している広告ブロッカーを試す場合は、プライバシー第一を掲げるブラウザーを、<a href="{ $url }">ここをクリックしてダウンロード</a>してください。

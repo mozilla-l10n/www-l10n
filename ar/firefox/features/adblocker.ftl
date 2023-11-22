@@ -40,8 +40,6 @@ features-adblocker-on-firefox-you-can-use = يُمكنك استخدام إعدا
 features-adblocker-choose-your-level-of-protection = اختر مستوى الحماية الذي يُناسبك
 features-adblocker-to-start-click-on-the-v2 = لبدء تفعيل الحماية، انقر فوق الدرع الموجود على يسار شريط العناوين في أي صفحة ويب، وحدِّد "إعدادات الحماية".سَتظهر لك لوحة إعدادات الخصوصية والأمان الخاصة بمتصفح { -brand-name-firefox } في علامة تبويب جديدة. وسترى في هذه اللوحة نافذة منبثقة زرقاء بها خيارات مختلفة.
 
-# Obsolete string
-features-adblocker-to-start-click-on-the = للبدء، انقر فوق القائمة الموجودة في متصفح { -brand-name-firefox } في الزاوية العليا اليُسرى من شاشتك. هذه القائمة على شكل ثلاثة أسطر فوق بعضها. في القائمة المُنسدلة، انقر فوق حجب المحتوى. ستظهر لك نافذة منبثقة زرقاء بها خيارات مختلفة.
 features-adblocker-go-easy-with-standard = أرح نفسك واستخدم الوضع القياسي
 
 # Variables:
@@ -73,6 +71,3 @@ features-adblocker-in-some-cases-an-ad-blocker = قد تساعد حاجبات ا
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = وإذا كنت تُريد معرفة المزيد من المعلومات عن حجب الإعلانات، فهناك المئات من ملحقات حاجبات الإعلانات المتاحة لمُتصفح { -brand-name-firefox } وغيره من المتصفحات. وإذا كنت ترغب في تجربة حاجبات الإعلانات التي يستخدمها متصفح { -brand-name-firefox }، <a href="{ $url }">انقر هنا لتنزيل</a> متصفح يضع الخصوصية فوق كل اعتبار.
-
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = وإذا كنت تريد معرفة المزيد من المعلومات عن حجب الإعلانات، فهناك المئات من ملحقات حاجبات الإعلانات المتاحة لمتصفح { -brand-name-firefox } وغيره من المتصفحات. وإذا كنت ترغب في تجربة حاجبات الإعلانات التي يستخدمها متصفح { -brand-name-firefox }، <a href="{ $url }">انقر هنا لتنزيل</a> متصفح يضع الخصوصية فوق كل اعتبار.

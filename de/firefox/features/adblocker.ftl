@@ -40,8 +40,6 @@ features-adblocker-on-firefox-you-can-use = In { -brand-name-firefox } können S
 features-adblocker-choose-your-level-of-protection = Wählen Sie Ihre Schutzstufe
 features-adblocker-to-start-click-on-the-v2 = Klicken Sie auf das Schild links neben der Adressleiste auf einer beliebigen Website und wählen Sie „Schutzeinstellungen“, um zu beginnen.So wird die { -brand-name-firefox }-Leiste für Datenschutz- und Sicherheitseinstellungen in einem neuen Tab geöffnet.Sie sollten ein blaues Pop-up-Fenster mit verschiedenen Wahlmöglichkeiten sehen.
 
-# Obsolete string
-features-adblocker-to-start-click-on-the = Klicken Sie zuerst auf das { -brand-name-firefox }-Menü in der oberen rechten Ecke Ihres Bildschirms. Es sieht aus wie drei übereinander gestapelte Linien. Klicken Sie im Dropdown-Menü auf Inhaltsblockierung. Sie sollten ein blaues Pop-up mit verschiedenen Auswahlmöglichkeiten sehen.
 features-adblocker-go-easy-with-standard = Der Standard-Modus ist recht locker
 
 # Variables:
@@ -73,6 +71,3 @@ features-adblocker-in-some-cases-an-ad-blocker = In einigen Fällen kann ein Wer
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung.Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.
-
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung. Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.

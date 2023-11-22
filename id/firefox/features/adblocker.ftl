@@ -40,8 +40,6 @@ features-adblocker-on-firefox-you-can-use = Di { -brand-name-firefox }, Anda dap
 features-adblocker-choose-your-level-of-protection = Pilih tingkat perlindungan Anda
 features-adblocker-to-start-click-on-the-v2 = Untuk memulai, klik perisai di sebelah kiri bilah alamat di halaman web mana pun dan pilih “Pengaturan Perlindungan.” Ini akan membuka tab baru yang berisi panel Pengaturan Privasi & Keamanan { -brand-name-firefox }.Anda akan melihat sembulan biru dengan pilihan berbeda.
 
-# Obsolete string
-features-adblocker-to-start-click-on-the = Untuk memulai, klik menu { -brand-name-firefox } di sudut kanan atas layar Anda. Tampak di sana tiga garis yang bertumpuk. Di menu tarik-turun, klik Pemblokiran Konten. Anda akan melihat sembulan biru dengan pilihan berbeda.
 features-adblocker-go-easy-with-standard = Mudah dengan mode Standar
 
 # Variables:
@@ -73,6 +71,3 @@ features-adblocker-in-some-cases-an-ad-blocker = Dalam beberapa kasus, pemblokir
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Jika Anda ingin mempelajari lebih lanjut tentang pemblokiran iklan, ada ratusan ekstensi pemblokir iklan yang tersedia di { -brand-name-firefox } dan peramban lainnya. Jika ingin mencoba pemblokir iklan yang digunakan { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk mengunduh</a> peramban yang mengutamakan privasi.
-
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Jika Anda ingin mempelajari lebih lanjut tentang pemblokiran iklan, ada ratusan ekstensi pemblokir iklan yang tersedia di { -brand-name-firefox } dan peramban lainnya. Jika ingin mencoba pemblokir iklan yang digunakan { -brand-name-firefox }, <a href="{ $url }">klik di sini untuk mengunduh</a> peramban yang mengutamakan privasi.
