@@ -4,8 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Obsolete Strings
-vpn-windows-page-title = { -brand-name-windows } 10 用 { -brand-name-mozilla-vpn }
 vpn-windows-page-description = 1998 年よりユーザーのデジタルプライバシーのために闘うインターネットのパイオニア、{ -brand-name-mozilla } の仮想プライベートネットワーク (VPN) で PC 全体を保護します。
 
 # Windows strings

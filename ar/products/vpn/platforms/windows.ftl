@@ -4,8 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Obsolete Strings
-vpn-windows-page-title = تطبيق { -brand-name-mozilla-vpn } لنظام تشغيل 10 { -brand-name-windows }
 vpn-windows-page-description = احمِ جهاز الكمبيوتر الخاص بك بالكامل باستخدام شبكة افتراضية خاصة (VPN) من شركة { -brand-name-mozilla }، الرائدة في مجال الإنترنت والتي تعمل جاهدةً على حماية خصوصيتك الرقمية منذ عام 1998.
 
 # Windows strings
