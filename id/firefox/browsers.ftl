@@ -7,14 +7,8 @@
 # HTML page title
 firefox-browsers-page-title = Unduh { -brand-name-firefox } untuk Desktop, Seluler, atau Perusahaan
 
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = Dapatkan peramban yang selalu mengutamakan privasi Anda
-
 # HTML page description
 firefox-browsers-page-desc = Pilih dari Desktop, { -brand-name-ios }, { -brand-name-android }, atau izinkan kami mengirimkan tautan unduhan seluler melalui email.
-
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = Dapatkan privasi yang pantas Anda dapatkan. Perlindungan Pelacakan yang Ditingkatkan otomatis tersedia di setiap peramban { -brand-name-firefox }.
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -45,12 +39,6 @@ firefox-browsers-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-n
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
-
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> tentang bergabung dengan Firefox.
 
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

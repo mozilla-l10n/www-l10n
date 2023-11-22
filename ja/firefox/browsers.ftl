@@ -7,14 +7,8 @@
 # HTML page title
 firefox-browsers-page-title = デスクトップ、モバイル、エンタープライズ用 { -brand-name-firefox } をダウンロード
 
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = ユーザーのプライバシーを常に優先するブラウザーをご利用ください
-
 # HTML page description
 firefox-browsers-page-desc = デスクトップ、{ -brand-name-ios }、{ -brand-name-android } から選択してください。モバイルダウンロード用リンクをメールでお送りすることもできます。
-
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = プライバシーのあるべき姿を実現。強化型トラッキング防止機能をすべての { -brand-name-firefox } に標準装備しています。
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -45,12 +39,6 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } に登�
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = 既にアカウントをお持ちの場合:<a { $fxa_attr }>ログイン</a>または { -brand-name-firefox } への登録の<a { $accounts_attr }>詳細を確認</a>
-
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = 既にアカウントをお持ちの場合: <a { $fxa_attr }>サインイン</a>または Firefox 利用についての<a { $accounts_attr }>詳細を確認</a>
 
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

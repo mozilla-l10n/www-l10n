@@ -7,14 +7,8 @@
 # HTML page title
 firefox-browsers-page-title = डेस्कटॉप, मोबाइल, या एंटरप्राइज़ के लिए { -brand-name-firefox } डाउनलोड करें
 
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = वे ब्राउज़र पाएँ जो आपकी निजता को सबसे पहले रखते हैं — और हमेशा रखते आए हैं
-
 # HTML page description
 firefox-browsers-page-desc = डेस्कटॉप, { -brand-name-ios }, { -brand-name-android } में से कोई चुनें, या आप चाहें तो हम आपको एक मोबाइल डाउनलोड लिंक ईमेल कर सकते हैं।
-
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = जिस निजता के आप हकदार हैं उसे पाएँ। उन्नत ट्रैकिंग सुरक्षा हर { -brand-name-firefox } ब्राउज़र में स्वतः है।
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -45,12 +39,6 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } के 
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = पहले से ही अकाउंट है? <a { $fxa_attr }>साइन इन करें</a> या { -brand-name-firefox } से जुड़ने के बारे में <a { $accounts_attr }>और जानें</a>.
-
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = पहले से ही एकाउंट है? Firefox से जुड़ने के लिए <a { $fxa_attr }>साइन इन</a> करें या <a { $accounts_attr }>और जानें</a>।
 
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }

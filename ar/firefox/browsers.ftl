@@ -7,14 +7,8 @@
 # HTML page title
 firefox-browsers-page-title = تنزيل { -brand-name-firefox } لأجهزة الكمبيوتر أو الهواتف المحمولة أو المؤسسات
 
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = احصل على متصفحات تضع خُصوصيتك فوق كل اعتبار — ودائمة الالتزام بذلك
-
 # HTML page description
 firefox-browsers-page-desc = اختر من أجهزة الكمبيوتر أو { -brand-name-ios } أو { -brand-name-android } أو اسمح لنا أن نُرسل إليك رابط تنزيل نُسخة الهاتف المحمول.
-
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = استمتع بالخصوصية التي تَستحقها. فميزة "الحماية المُعزَّزة من التعقُّب" تلقائية في أي متصفح { -brand-name-firefox }.
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -45,12 +39,6 @@ firefox-browsers-join-firefox-and-get-the-most = انضم إلى { -brand-name-f
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = هل لديك حساب بالفعل؟ <a { $fxa_attr }>سجِّل الدخول</a> أو <a { $accounts_attr }>اطّلع على المزيد</a> حول الانضمام إلى { -brand-name-firefox }.
-
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = هل لديك حساب بالفعل؟ <a { $fxa_attr }>سجِّل الدخول</a> أو <a { $accounts_attr }>اطَّلِع على المزيد</a> حول الانضمام إلى Firefox.
 
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
