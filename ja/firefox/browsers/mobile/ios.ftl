@@ -7,14 +7,8 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-ios } 用の { -brand-name-firefox } ブラウザーは、初めて開いたときから、高速、安全、プライベートです。
-
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string
-mobile-ios-get-automatic-privacy = { -brand-name-iphone } と { -brand-name-ipad } で自動的にプライバシー保護
 mobile-ios-get-firefox-for = { -brand-name-ios } 用 { -brand-name-firefox } をダウンロード
 
 mobile-ios-send-a-download-link-to-your = スマートフォンにダウンロードリンクを送信。
@@ -42,16 +36,8 @@ mobile-ios-see-your-open-tabs = { -brand-name-ios } 用 { -brand-name-firefox-br
 mobile-ios-own-your-home = 自分だけのホーム画面
 mobile-ios-get-to-the-parts = よく使うサイトにもっと早くアクセスできます。開いているタブ、最近の検索、ブックマーク、お気に入りのサイトをすべて 1 か所で見ることができます。
 
-# Obsolete string
-mobile-ios-add-firefox-across = 複数のデバイスで { -brand-name-firefox } を追加して、安全でシームレスなブラウジングができます。{ -brand-name-sync } なら、お気に入りのブックマークや保存したログイン情報、パスワード、閲覧履歴をどこにでも持ち運ぶことができます。さらに、開いているタブをスマートフォンとデスクトップの間で同期して、いつでも作業を中断した所から再開できます。
-
 mobile-ios-find-it-all = もっと早く見つかる
 mobile-ios-get-search-suggestions = 検索バーに検索候補を表示し、よくアクセスするサイトに素早くアクセスできます。検索用語を入力すると、お気に入りの複数の検索エンジンで以前に検索した結果を提案します。
-
-# Obsolete string
-mobile-ios-keep-tabs-on = すべてのタブを管理
-# Obsolete string
-mobile-ios-create-as-many = タブをたくさん開いても迷いません。{ -brand-name-firefox } は、開いているタブをサムネイルと数字付きのタブで表示し、目当てのものをすぐに見つけることができます。
 
 mobile-ios-discover-more-of = 好きなものをもっと発見
 mobile-ios-open-a-new = { -brand-name-firefox } で新しいタブを開くと、よくアクセスするサイト、最近のブックマーク、人気記事を{ -brand-name-pocket } に表示します。{ -brand-name-firefox } では、最近利用したサイトに素早くアクセスでき、探しものがすぐに見かります。

@@ -7,14 +7,8 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Peramban { -brand-name-firefox } untuk { -brand-name-ios } yang cepat, aman, dan pribadi sejak pertama kali Anda membukanya.
-
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string
-mobile-ios-get-automatic-privacy = Dapatkan privasi otomatis di { -brand-name-iphone } dan { -brand-name-ipad }
 mobile-ios-get-firefox-for = Dapatkan { -brand-name-firefox } untuk { -brand-name-ios }
 
 mobile-ios-send-a-download-link-to-your = Kirim tautan unduhan ke ponsel Anda.
@@ -42,16 +36,8 @@ mobile-ios-see-your-open-tabs = Lihat tab terbuka, penelusuran sebelumnya, dan s
 mobile-ios-own-your-home = Miliki kendali penuh atas layar utama Anda
 mobile-ios-get-to-the-parts = Kunjungi situs favorit Anda lebih cepat. Anda dapat melihat semua tab terbuka, penelusuran terkini, markah, dan situs favorit semua di satu tempat.
 
-# Obsolete string
-mobile-ios-add-firefox-across = Tambahkan { -brand-name-firefox } di seluruh perangkat untuk penjelajahan yang aman dan lancar. Gunakan { -brand-name-sync } di perangkat Anda untuk membawa serta markah favorit, log masuk tersimpan, kata sandi, dan riwayat penjelajahan ke mana pun Anda pergi. Selain itu, kirim tab terbuka antara ponsel dan desktop untuk melanjutkan pekerjaan dari tempat terakhir yang Anda tinggalkan.
-
 mobile-ios-find-it-all = Temukan semuanya lebih cepat
 mobile-ios-get-search-suggestions = Dapatkan saran pencarian di bilah pencarian dan akses situs yang paling sering Anda kunjungi dengan cepat. Ketik pertanyaan Anda, dan dapatkan hasil yang disarankan dan yang telah dicari sebelumnya di mesin pencari favorit Anda.
-
-# Obsolete string
-mobile-ios-keep-tabs-on = Pantau semua tab
-# Obsolete string
-mobile-ios-create-as-many = Buat tab sebanyak yang Anda mau tanpa kehilangan jejak. { -brand-name-firefox } menampilkan tab yang terbuka sebagai thumbnail dan tab bernomor, sehingga dapat dengan mudah menemukan apa yang Anda inginkan.
 
 mobile-ios-discover-more-of = Temukan lebih banyak hal yang Anda sukai
 mobile-ios-open-a-new = Buka tab baru di { -brand-name-firefox } untuk melihat situs yang paling sering Anda kunjungi, markah terbaru, dan artikel populer di { -brand-name-pocket }. { -brand-name-firefox } memberi Anda akses cepat ke situs terakhir yang Anda kunjungi agar Anda dapat menjelajah lebih cepat.

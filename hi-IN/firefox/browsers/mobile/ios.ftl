@@ -7,14 +7,8 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } एवं { -brand-name-ipad })
 
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-firefox } ब्राउज़र { -brand-name-ios } के लिए उपलब्ध है और यह तेज़, सुरक्षित और एकदम शुरुआत से ही निजता बनाए रखने वाला है।
-
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string
-mobile-ios-get-automatic-privacy = { -brand-name-iphone } और { -brand-name-ipad } पर ऑटोमेटिक ही पूरी निजता पाएँ
 mobile-ios-get-firefox-for = { -brand-name-ios } के लिए { -brand-name-firefox } पाएँ
 
 mobile-ios-send-a-download-link-to-your = अपने फ़ोन पर एक डाउनलोड लिंक भेजें।
@@ -42,16 +36,8 @@ mobile-ios-see-your-open-tabs = { -brand-name-ios } के लिए { -brand-na
 mobile-ios-own-your-home = होम स्क्रीन अपने मुताबिक बनाएं
 mobile-ios-get-to-the-parts = इंटरनेट पर अपने काम की चीज़ों तक अधिक तेजी से पहुंच हासिल करें। अपने सभी खुले टैब, हाल की खोजें, बुकमार्क और पसंदीदा साइटें सभी एक ही स्थान पर देखना चुनें।
 
-# Obsolete string
-mobile-ios-add-firefox-across = सुरक्षित, निर्बाध ब्राउज़िंग के लिए अपनी सभी डिवाइसों में { -brand-name-firefox } जोड़ें। { -brand-name-sync } से आपकी डिवाइसों में यह सुविधा मिल जाती है कि आप जहाँ कहीं भी जाएँ अपने पसंदीदा बुकमार्क, सेव किए गए लॉगिन, पासवर्ड और ब्राउज़िंग हिस्ट्री को अपने साथ पा सकते हैं। साथ ही, अपने फ़ोन और डेस्कटॉप में आपस में खुले टैब भेजें ताकि आप वहीं से शुरू कर सकें जहाँ से आपने छोड़ा था।
-
 mobile-ios-find-it-all = सब कुछ तेज़ी से खोजें
 mobile-ios-get-search-suggestions = सर्च बार में खोज सुझाव प्राप्त करें और वे साइटें पलक झपकते ही एक्सेस करें जिन पर आप सबसे अधिक जाते हैं। अपने खोज प्रश्न में कुछ टाइप करें, और अपने पसंदीदा खोज इंजनों में सुझाए गए और पहले खोजे गए परिणाम प्राप्त करें।
-
-# Obsolete string
-mobile-ios-keep-tabs-on = आपके सभी टैब आपकी निगाहों के सामने
-# Obsolete string
-mobile-ios-create-as-many = जितने चाहें उतने टैब बनाएँ बिना किसी उलझाव के। { -brand-name-firefox } आपके खुले टैब्स को थंबनेल और नंबर्ड टैब्स के रूप में दिखाता है, जिससे आप जो चाहते हैं उसे तुरंत ढूँढ़ना आसान हो जाता है।
 
 mobile-ios-discover-more-of = जो आपको पसंद है उसके बारे में अधिक जानें
 mobile-ios-open-a-new = { -brand-name-firefox } में एक नया टैब खोलें - यह देखने के लिए कि आप किन साइटों पर सबसे अधिक जाते हैं, अपने हाल के बुकमार्क और { -brand-name-pocket } में लोकप्रिय आर्टिकल जानने के लिए। { -brand-name-firefox } आपको अपनी सबसे हाल ही में उपयोग की गई साइटों तक झटपट एक्सेस प्रदान करता है ताकि आप जहाँ पर जा रहे हैं वहाँ तेजी से जा पाएँ।

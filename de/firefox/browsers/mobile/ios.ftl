@@ -7,14 +7,8 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
 
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Der { -brand-name-firefox }-Browser für { -brand-name-ios } ist schnell, sicher und privat vom ersten Tag an.
-
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 
-# Obsolete string
-mobile-ios-get-automatic-privacy = Hol dir automatischen Datenschutz für dein { -brand-name-iphone } oder { -brand-name-ipad }.
 mobile-ios-get-firefox-for = Holen Sie sich { -brand-name-firefox } für { -brand-name-ios }
 
 mobile-ios-send-a-download-link-to-your = Sende einen Download-Link an dein Handy.
@@ -42,16 +36,8 @@ mobile-ios-see-your-open-tabs = Sieh all deine offenen Tabs, letzten Suchanfrage
 mobile-ios-own-your-home = Dein persönlicher Homescreen
 mobile-ios-get-to-the-parts = Sei schneller in dem Teil des Webs, der dir am Herzen liegt. Sieh deine offenen Tabs, letzten Suchanfragen, Lesezeichen und Lieblingsseiten auf einen Blick.
 
-# Obsolete string
-mobile-ios-add-firefox-across = Installiere { -brand-name-firefox } auf deinen Geräten, um sicheres, nahtloses Surfen zu ermöglichen. Mit { -brand-name-sync } kannst du deine Geräte synchronisieren, um deine Lieblingslesezeichen, gespeicherten Logins, Passwörter und die Chronik überallhin mitzunehmen. Versende außerdem offene Tabs von deinem Handy auf deinen Desktop-PC, um dort weiterzumachen, wo du aufgehört hast.
-
 mobile-ios-find-it-all = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
 mobile-ios-get-search-suggestions = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
-
-# Obsolete string
-mobile-ios-keep-tabs-on = Behalte die Tabs im Auge
-# Obsolete string
-mobile-ios-create-as-many = Erstelle so viele Tabs, wie du möchtest, ohne den Überblick zu verlieren. { -brand-name-firefox } zeigt deine offenen Tabs Miniaturansicht und nummeriert an, sodass du schnell findest, was du suchst.
 
 mobile-ios-discover-more-of = Endecke mehr von dem, was dir gefällt
 mobile-ios-open-a-new = Öffnen Sie in { -brand-name-firefox } einen neuen Tab, um die von Ihnen am häufigsten besuchten Websites, Ihre neusten Lesezeichen und beliebte Artikel in { -brand-name-pocket } angezeigt zu bekommen. { -brand-name-firefox } ermöglicht Ihnen einen schnellen Zugriff auf Ihre meistgenutzten Seiten, damit Sie schneller ans Ziel gelangen.
