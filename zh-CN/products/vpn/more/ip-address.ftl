@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
 
 # HTML page title and main title
-vpn-ip-address-what-is-an-ip-address = IP 地址是什么？
+vpn-ip-address-what-is-an-ip-address = 什么是 IP 地址？
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } 将回答您关于 IP 地址的所有问题，从什么是 IP 地址，到它的工作原理，再到是否该隐藏它。
 vpn-ip-address-every-time-you = 在您上网冲浪时，IP 地址在信息交换中发挥着重要作用。您能看到所请求的站点，IP 地址功不可没。但您可能仍不太清楚它究竟是何方神圣，所以接下来，我们将对一些常见问题进行分析。

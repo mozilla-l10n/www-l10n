@@ -7,7 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下载 { -brand-name-mozilla-vpn }
-vpn-shared-waitlist-link = 加入预约名单
+vpn-shared-waitlist-link = 预约
 vpn-shared-sign-in-link = 已经是订阅者？
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } 目前在奥地利、比利时、保加利亚、加拿大、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、芬兰、法国、德国、匈牙利、爱尔兰、意大利、拉脱维亚、立陶宛、卢森堡、马来西亚、马耳他、荷兰、新西兰、波兰、葡萄牙、罗马尼亚、新加坡、斯洛文尼亚、斯洛伐克、西班牙、瑞典、瑞士、英国和美国可用。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -117,7 +117,7 @@ vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = 移动版
 vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = IP 地址是什么？
+vpn-subnav-whats-an-ip-address = 什么是 IP 地址？
 vpn-subnav-when-to-use-a-vpn = 何时应该使用 VPN
 vpn-subnav-vpn-vs-proxy = VPN VS 代理
 vpn-subnav-subscribe = 订阅 { -brand-name-mozilla-vpn }
@@ -158,5 +158,5 @@ vpn-press-as-seen-in = 曾受媒体推介
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合到 { -brand-name-firefox } 浏览器的隐私保护功能</a>。”
-vpn-press-unique-features-like-its-multi-account = “…诸如多账户身份这样的独特功能可能会让有严重隐私顾虑的用户更轻松地使用该功能。”
-vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } 的功能列表自推出以来有了长足的发展现在这项服务在某些方面已经胜过许多专业 VPN。”
+vpn-press-unique-features-like-its-multi-account = “…诸如 Multi-Account Containers 这样的独特功能可能会让有高级隐私需求的用户更轻松地使用该功能。”
+vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } 的功能列表自推出以来有了长足的发展，现在这项服务在某些方面已经胜过许多专业 VPN。”

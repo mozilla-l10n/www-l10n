@@ -49,7 +49,7 @@ vpn-features-easily-exclude-apps = 轻松将应用排除出 VPN 保护范围，�
 vpn-features-set-different-locations = 为 { -brand-name-firefox } 中的标签页分别设置服务器位置
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = 将 { -brand-name-mozilla-vpn } 与 Multi-Account Containers { -brand-name-firefox } 扩展合用，为每个 { -brand-name-firefox } 标签页设置不同的 VPN 位置。a { $containers }>了解方法</a>。
+vpn-features-combine-mozilla-vpn-with-containers = 将 { -brand-name-mozilla-vpn } 与 Multi-Account Containers { -brand-name-firefox } 扩展合用，为每个 { -brand-name-firefox } 标签页设置不同的 VPN 位置。<a { $containers }>了解方法</a>。
 vpn-features-trustworthy = 可信赖
 vpn-features-money-back = 30 天退款保证
 vpn-features-plus-customer-support = 另有 24/7 客户支持。

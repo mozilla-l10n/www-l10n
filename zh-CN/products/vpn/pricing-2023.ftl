@@ -8,25 +8,19 @@
 vpn-pricing-page-title = 价格 - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
-vpn-pricing-one-subscription = 一次订阅，全设备可用
+vpn-pricing-one-subscription = 一份订阅可供您的所有设备使用
 # Pricing section
-vpn-pricing-included-in-subscription = 订阅包含
+vpn-pricing-included-in-subscription = 订阅包含：
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
-vpn-pricing-connect-up-to =
-    { $devices ->
-       *[other] 连接多达 { $devices } 台设备
-    }
+vpn-pricing-connect-up-to = 连接多达 { $devices } 台设备
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
-vpn-pricing-access =
-    { $servers ->
-       *[other] 访问 { $countries }+ 个国家/地区的 { $servers } 台服务器
-    }
-vpn-pricing-money-back = 30 天退款保证仅适用于新用户
-vpn-pricing-annual = 每年
-vpn-pricing-monthly = 每月
+vpn-pricing-access = 访问 { $countries }+ 个国家/地区的 { $servers } 台服务器
+vpn-pricing-money-back = 30 天退款保证（仅新用户可享）
+vpn-pricing-annual = 年度
+vpn-pricing-monthly = 月度
 vpn-pricing-get-annual-subscription = 获取年度订阅
 vpn-pricing-get-monthly-subscription = 获取每月订阅
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } 尚未在您所在的国家/地区推出
