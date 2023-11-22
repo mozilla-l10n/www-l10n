@@ -12,8 +12,6 @@ compare-shared-no = なし
 compare-shared-private-browsing-mode = プライベートブラウジングモード
 compare-shared-blocks-third-party-tracking-default = 既定でサードパーティトラッキング Cookie をブロック
 
-# Obsolete string
-compare-shared-blocks-third-party-tracking = サードパーティのトラッキング Cookie をブロック
 compare-shared-blocks-cryptomining-scripts = 暗号通貨マイニングスクリプトをブロック
 compare-shared-blocks-fingerprinting-scripts = フィンガープリント採取スクリプトをブロック
 compare-shared-blocks-social-trackers = ソーシャルトラッカーをブロック
@@ -34,9 +32,6 @@ compare-shared-mobile-os-availability = モバイル OS 対応
 compare-shared-syncs-with-mobile = モバイルと同期
 compare-shared-password-management = パスワード管理
 compare-shared-primary-password = プライマリパスワード
-
-# Obsolete string
-compare-shared-master-password = マスターパスワード
 compare-shared-security-and-privacy = セキュリティとプライバシー
 compare-shared-utility = ユーティリティ
 compare-shared-portability = ポータビリティ
@@ -52,9 +47,6 @@ compare-shared-portability-strong = <strong>ポータビリティ</strong>
 compare-shared-overall-assessment = 全体的な評価
 
 compare-shared-the-comparisons-made-here-updated = ここで実施された比較は、初期設定で以下のブラウザーリリースバージョンを使用しています。
-
-# Obsolete string
-compare-shared-the-comparisons-made-here = ここで実施された比較は、以下のブラウザーリリースバージョンを使用しています。
 compare-shared-this-page-updated-semi-quarterly = このページは半四半期ごとに更新されており、最新のバージョンが反映されていないことがあります。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

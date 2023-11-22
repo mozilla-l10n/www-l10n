@@ -12,8 +12,6 @@ compare-shared-no = لا
 compare-shared-private-browsing-mode = وضع التصفّح الخاص
 compare-shared-blocks-third-party-tracking-default = يَحجب ملفات تعريف الارتباط التعقّبية من الأطراف الثالثة بشكل افتراضي
 
-# Obsolete string
-compare-shared-blocks-third-party-tracking = يَحجب ملفات تعريف الارتباط التعقّبية الخاصة بأطراف ثالثة
 compare-shared-blocks-cryptomining-scripts = يحجب نُصوص التنقيب الإلكتروني عن العمليات المشفرة
 compare-shared-blocks-fingerprinting-scripts = حجب برامج تتبع البصمات
 compare-shared-blocks-social-trackers = يَحجب المُتعقّبات الاجتماعية
@@ -34,9 +32,6 @@ compare-shared-mobile-os-availability = التوافر على أنظمة تشغ�
 compare-shared-syncs-with-mobile = المزامنة مع الهواتف
 compare-shared-password-management = إدارة كلمات المرور
 compare-shared-primary-password = كلمة مرور رئيسية
-
-# Obsolete string
-compare-shared-master-password = كلمة مرور رئيسية
 compare-shared-security-and-privacy = الأمان والخصوصية
 compare-shared-utility = الأدوات
 compare-shared-portability = قابلية الحمل
@@ -52,9 +47,6 @@ compare-shared-portability-strong = <strong>قابلية الحمل</strong>
 compare-shared-overall-assessment = التقييم الشامل
 
 compare-shared-the-comparisons-made-here-updated = إن المقارنات التي أُجريت هنا قد تمت على الإعدادات الافتراضية وعلى الإصدارين التاليين للمتصفِّحَين:
-
-# Obsolete string
-compare-shared-the-comparisons-made-here = إن المقارنات التي أُجريت هنا قد تمت على إصدارات المتصفحات التالية:
 compare-shared-this-page-updated-semi-quarterly = يتم تحديث هذه الصفحة مرتين كل فصل لتوضح آخر الإصدارات، ولكنها قد لا تُوضح دائمًا آخر التحديثات.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

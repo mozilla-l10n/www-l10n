@@ -12,8 +12,6 @@ compare-shared-no = Nein
 compare-shared-private-browsing-mode = Privater Modus
 compare-shared-blocks-third-party-tracking-default = Blockiert standardmäßig Tracking-Cookies von Drittanbietern
 
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blockt Tracking-Cookies von Drittanbietern
 compare-shared-blocks-cryptomining-scripts = Blockiert Krypto-Mining-Skripte
 compare-shared-blocks-fingerprinting-scripts = Blockiert Fingerprinting-Skripte
 compare-shared-blocks-social-trackers = Blockt Social-Media-Tracker
@@ -34,9 +32,6 @@ compare-shared-mobile-os-availability = Verfügbarkeit für mobile Betriebssyste
 compare-shared-syncs-with-mobile = Synchronisation mit dem Handy
 compare-shared-password-management = Passwortverwaltung
 compare-shared-primary-password = Hauptpasswort
-
-# Obsolete string
-compare-shared-master-password = Master-Passwort
 compare-shared-security-and-privacy = Sicherheit und Privatsphäre
 compare-shared-utility = Funktionalität
 compare-shared-portability = Portabilität
@@ -52,9 +47,6 @@ compare-shared-portability-strong = <strong>Portabilität</strong>
 compare-shared-overall-assessment = Gesamtbewertung
 
 compare-shared-the-comparisons-made-here-updated = Die hier vorgenommenen Vergleiche wurden mit Standardeinstellungen und für alle Versionen der Browser-Version wie folgt durchgeführt:
-
-# Obsolete string
-compare-shared-the-comparisons-made-here = Die hier vorgenommenen Vergleiche wurden für alle Versionen der Browser-Version wie folgt durchgeführt:
 compare-shared-this-page-updated-semi-quarterly = Diese Seite wird halbjährlich aktualisiert, um die neueste Versionierung wiederzugeben, und zeigt möglicherweise nicht immer die neuesten Aktualisierungen.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

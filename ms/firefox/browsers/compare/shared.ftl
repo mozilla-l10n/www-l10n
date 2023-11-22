@@ -12,8 +12,6 @@ compare-shared-no = Tidak
 compare-shared-private-browsing-mode = Mod Pelayaran Peribadi
 compare-shared-blocks-third-party-tracking-default = Menyekat kuki penjejak pihak ketiga secara lalai
 
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Menyekat kuki penjejak pihak ketiga
 compare-shared-blocks-cryptomining-scripts = Menyekat skrip perlombongan kripto
 compare-shared-blocks-fingerprinting-scripts = Menyekat skrip pengecap jari
 compare-shared-blocks-social-trackers = Menyekat pengesan sosial
@@ -34,9 +32,6 @@ compare-shared-mobile-os-availability = Ketersediaan OS mudah alih
 compare-shared-syncs-with-mobile = Keselarasan dengan mudah alih
 compare-shared-password-management = Pengurusan kata laluan
 compare-shared-primary-password = Kata laluan utama
-
-# Obsolete string
-compare-shared-master-password = Kata laluan Induk
 compare-shared-security-and-privacy = Keselamatan dan Privasi
 compare-shared-utility = Utiliti
 compare-shared-portability = Kemudahalihan
@@ -52,9 +47,6 @@ compare-shared-portability-strong = <strong>Kemudahalihan</strong>
 compare-shared-overall-assessment = Penilaian Keseluruhan
 
 compare-shared-the-comparisons-made-here-updated = Perbandingan yang dibuat di sini dilakukan dengan tetapan lalai dan dengan semua versi keluaran pelayar seperti yang berikut:
-
-# Obsolete string
-compare-shared-the-comparisons-made-here = Perbandingan yang dibuat di sini dilakukan dengan semua versi keluaran pelayar seperti yang berikut:
 compare-shared-this-page-updated-semi-quarterly = Halaman ini dikemas kini setiap suku tahun untuk menunjukkan versi terkini dan mungkin tidak sentiasa menunjukkan kemas kini terkini.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

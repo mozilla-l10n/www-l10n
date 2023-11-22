@@ -12,8 +12,6 @@ compare-shared-no = Non
 compare-shared-private-browsing-mode = Mode de navigation privée
 compare-shared-blocks-third-party-tracking-default = Bloque par défaut les cookies tiers utilisés pour le pistage
 
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Bloque les cookies tiers utilisés pour le pistage
 compare-shared-blocks-cryptomining-scripts = Bloque les scripts de minage de cryptomonnaie
 compare-shared-blocks-fingerprinting-scripts = Bloque les scripts d’empreintes numériques
 compare-shared-blocks-social-trackers = Bloque les traqueurs de réseaux sociaux
@@ -34,9 +32,6 @@ compare-shared-mobile-os-availability = Disponibilité pour les systèmes d’ex
 compare-shared-syncs-with-mobile = Synchronisation avec mobiles
 compare-shared-password-management = Gestion des mots de passe
 compare-shared-primary-password = Mot de passe principal
-
-# Obsolete string
-compare-shared-master-password = Mot de passe principal
 compare-shared-security-and-privacy = Sécurité et vie privée
 compare-shared-utility = Utilité
 compare-shared-portability = Portabilité
@@ -52,9 +47,6 @@ compare-shared-portability-strong = <strong>Portabilité</strong>
 compare-shared-overall-assessment = Évaluation globale
 
 compare-shared-the-comparisons-made-here-updated = Les comparaisons ont été réalisées avec les paramètres par défaut et entre les versions des navigateurs précisées comme suit :
-
-# Obsolete string
-compare-shared-the-comparisons-made-here = Les comparaisons effectuées ici l’ont été entre les versions des navigateurs, précisées comme suit :
 compare-shared-this-page-updated-semi-quarterly = Cette page est mise à jour semi-trimestriellement pour refléter les dernières versions et peut ne pas toujours refléter les dernières mises à jour.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
