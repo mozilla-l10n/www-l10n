@@ -24,10 +24,6 @@ privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, der Browser,
 privacy-faq-really-you-dont-collect-my-browsing = Sie sammeln meine Surf-Chronik wirklich nicht?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie Sie vielleicht denken. Als Entwickler eines Browsers ist das tatsächlich eine große Herausforderung für uns. Deshalb haben wir Tools zur Aktivierung von bestimmten Funktionen entwickelt, die es interessierten Nutzer*innen ermöglichen, uns Einblicke in ihr Browsingverhalten zu geben. Wenn Sie Ihren Browserverlauf über { -brand-name-firefox }-Installationen hinweg synchronisieren, kennen wir diesen Verlauf nicht – er wird von Ihrem Gerät verschlüsselt.
 
-# Obsolete string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie Sie vielleicht denken. Als Entwickler eines Browsers ist das tatsächlich eine große Herausforderung für uns. Deshalb haben wir Tools entwickelt, mit denen Sie bestimmte Funktionen aktivieren können, wie z. B. <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>. Das Tool ermöglicht es interessierten Nutzern, uns Einblicke in Ihr Browsingverhalten zu geben. Wenn Sie Ihren Browserverlauf über { -brand-name-firefox }-Installationen hinweg synchronisieren, kennen wir diesen Verlauf nicht – er wird von Ihrem Gerät verschlüsselt.
 privacy-faq-it-seems-like-every-company = Anscheinend kaufen und verkaufen alle Unternehmen im Internet meine Daten. Bei Ihnen ist das wahrscheinlich nicht anders.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } verkauft und kauft keine Daten über Sie.
 privacy-faq-wait-so-how-do-you-make-money = Moment, womit verdienen Sie dann Geld?

@@ -24,10 +24,6 @@ privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }، متصفح 
 privacy-faq-really-you-dont-collect-my-browsing = أتمزح معي، أحقا لا تجمعون محفوظات تصفُّحي على الشبكة؟
 privacy-faq-mozilla-doesnt-know-as-much-v2 = لا تعرف { -brand-name-mozilla } الكثير من الأشياء التي يُمكن أن تتوقّعها بشأن كيفية تصفّح الأشخاص للويب. بصفتنا الجهة المُطوّرة للمُتصفح، فإن هذا في الواقع يُمثل تحديًا كبيرًا لنا. ولهذا السبب أنشأنا أدوات الاشتراك، التي تسمح للمُستخدمين المُهتمين بإعطائنا نظرة ثاقبة على تصفحهم على الويب. في حال مُزامنة سِجل التصفح الخاص بك من خلال عمليات تثبيت { -brand-name-firefox }، فإننا لا نعرف ما هذه السِجلات — لأنها مُشفرة عن طريق جهازك.
 
-# Obsolete string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } لا يعرف قدر ما تتوقعه حول كيفية تصفّح الأشخاص للويب. بصفتنا الجهة المُطورة للمُتصفح، فإن هذا في الواقع يُمثل تحديًا كبيرًا لنا. لهذا السبب قُمنا ببناء أدوات الاختيار، مثل <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>، والتي تسمح للمستخدمين المُهتمين بإعطائنا نظرة ثاقبة على تصفح الويب الخاص بهم. إذا قُمت بمُزامنة سِجل التصفح الخاص بك من خلال عمليات تثبيت { -brand-name-firefox }، نحن لا نعرف ما هي هذه المحفوظات — لأنها مُشفرة بواسطة جهازك.
 privacy-faq-it-seems-like-every-company = يبدو أن كل شركة على الويب تشتري بياناتي وتبيعها. يُحتمل ألا تكوني مختلفة.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } لا تبيع بيانات عنك، ولا نشتري بيانات عنك.
 privacy-faq-wait-so-how-do-you-make-money = لحظة، وكيف تكسبون المال؟
