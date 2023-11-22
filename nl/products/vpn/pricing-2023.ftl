@@ -41,7 +41,7 @@ vpn-pricing-what-information = Welke informatie bewaart { -brand-name-mozilla-vp
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = We houden ons strikt aan de <a href="{ $principles }">Gegevensprivacyprincipes</a> van { -brand-name-mozilla }. We verzamelen alleen de gegevens die nodig zijn om { -brand-name-mozilla-vpn } operationeel te houden en het product mettertijd te verbeteren. We volgen ook campagne- en doorverwijzingsgegevens op onze mobiele app, om { -brand-name-mozilla } te helpen begrijpen hoe effectief onze marketingcampagnes zijn. Meer info in onze <a { $notice }>Privacyverklaring</a>.
+vpn-pricing-we-adhere-strictly = We houden ons strikt aan de <a { $principles }>Gegevensprivacyprincipes</a> van { -brand-name-mozilla }. We verzamelen alleen de gegevens die nodig zijn om { -brand-name-mozilla-vpn } operationeel te houden en het product mettertijd te verbeteren. We volgen ook campagne- en doorverwijzingsgegevens op onze mobiele app, om { -brand-name-mozilla } te helpen begrijpen hoe effectief onze marketingcampagnes zijn. Meer info in onze <a { $notice }>Privacyverklaring</a>.
 vpn-pricing-how-do-i-manage = Hoe beheer ik mijn abonnement en wijzig ik het?
 # Variables
 # $manage (url) - link to subscription management page
