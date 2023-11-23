@@ -9,59 +9,59 @@ vpn-features-page-title = Nodweddion - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
-vpn-features-features-that-protect = Nodweddion sy'n amddiffyn <br> eich bywyd ar-lein
+vpn-features-features-that-protect = Nodweddion sy'n diogelu <br> eich bywyd ar-lein
 vpn-features-convenient = Cyfleus
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [zero] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
+        [zero] Mwy na { $servers } gweinyddion mewn { $countries }+ o wledydd
         [one] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
         [two] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
         [few] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
         [many] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
        *[other] Mwy na { $servers } gweinydd mewn { $countries }+ o wledydd
     }
-vpn-features-see-our-list = Gweler ein rhestr o weinyddion.
+vpn-features-see-our-list = Dyma'm rhestr o weinyddion.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
     { $devices ->
-        [zero] Cysylltwch hyd at { $devices } dyfais
+        [zero] Cysylltwch hyd at { $devices } dyfeisiau
         [one] Cysylltwch hyd at { $devices } dyfais
         [two] Cysylltwch hyd at { $devices } dyfais
         [few] Cysylltwch hyd at { $devices } dyfais
         [many] Cysylltwch hyd at { $devices } dyfais
        *[other] Cysylltwch hyd at { $devices } dyfais
     }
-vpn-features-supported-platforms = Cefnogir ar systemau gweithredu Windows, macOS, Android, iOS a Linux.
-vpn-features-no-bandwidth = Dim cyfyngiadau lled band na sbardun
+vpn-features-supported-platforms = Yn cael ei gefnogi ar systemau gweithredu Windows, macOS, Android, iOS a Linux.
+vpn-features-no-bandwidth = Dim cyfyngiadau lled band na chyfyngu
 vpn-features-including-no-data = Gan gynnwys dim cap data na therfyn cyflymder.
-vpn-features-fast-network = Cyflymder rhwydwaith cyflym hyd yn oed wrth hapchwarae
+vpn-features-fast-network = Cyflymder rhwydwaith uchel hyd yn oed wrth chwarae
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-features-mozilla-vpn-uses-wireguard = Mae { -brand-name-mozilla-vpn } yn defnyddio <a { $wireguard }>Wireguard</a>™, un o'r protocolau VPN mwyaf perfformiadol.
+vpn-features-mozilla-vpn-uses-wireguard = Mae { -brand-name-mozilla-vpn } yn defnyddio <a { $wireguard }>Wireguard</a>™, un o'r protocolau VPN mwyaf effeithiol.
 vpn-features-secure = Diogel
 vpn-features-block-ads = Rhwystro hysbysebwyr rhag eich targedu
-vpn-features-automatically-block-ads = Mae { -brand-name-mozilla-vpn } yn eich helpu yn awtomatig i rwystro hysbysebion a thracwyr hysbysebion rhag gweld eich gweithgarwch ar-lein.
+vpn-features-automatically-block-ads = Mae { -brand-name-mozilla-vpn } yn eich helpu'n awtomatig i rwystro hysbysebion a thracwyr hysbysebion rhag gweld eich gweithgarwch ar-lein.
 vpn-features-encrypt-your-internet = Amgryptio'ch holl draffig rhyngrwyd
-vpn-features-vpn-protects-all-apps = Mae { -brand-name-mozilla-vpn } yn diogelu pob un o'r apiau ar eich dyfais, nid eich porwr yn unig.
-vpn-features-stronger-malware = Amddiffyniad drwgwedd cryfach
-vpn-features-vpn-prevents-downloading-malware = Mae { -brand-name-mozilla-vpn } yn eich atal rhag lawrlwytho meddalwedd maleisus o ffynonellau anniogel hysbys.
-vpn-features-super-private-mode = Modd uwch-breifat: llwybr traffig trwy ddau leoliad
+vpn-features-vpn-protects-all-apps = Mae { -brand-name-mozilla-vpn } yn diogelu pob un o'r apiau ar eich dyfais, nid dim ond eich porwr.
+vpn-features-stronger-malware = Diogelwch drwgwedd cryfach
+vpn-features-vpn-prevents-downloading-malware = Mae { -brand-name-mozilla-vpn } yn eich atal rhag llwytho meddalwedd maleisus i lawr o ffynonellau anniogel hysbys.
+vpn-features-super-private-mode = Modd preifat uwch: anfon traffig trwy ddau leoliad
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = Mae ein <a { $feature }>nodwedd aml-hop</a> yn rhoi hwb diogelwch ychwanegol i chi.
-vpn-features-support-for-custom-dns = Cefnogaeth ar gyfer DNS personol
+vpn-features-multi-hop-feature = Mae ein <a { $feature }>nodwedd aml-hwb</a> yn rhoi hwb diogelwch ychwanegol i chi.
+vpn-features-support-for-custom-dns = Cefnogaeth i DNS cyfaddas
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
-vpn-features-keep-traffic-protected = Gyda { -brand-name-mozilla-vpn }, gallwch ddiogelu eich traffig a pharhau i gyfeirio'ch ymholiadau DNS lle bynnag y bo'n well gennych. <a { $dns }>Dysgu rhagor am gymorth DNS personol</a>.
+vpn-features-keep-traffic-protected = Gyda { -brand-name-mozilla-vpn }, gallwch ddiogelu eich traffig a pharhau i anfon eich ymholiadau DNS lle bynnag y bo'n well gennych. <a { $dns }>Darllen rhagor am gymorth DNS cyfaddas</a>.
 vpn-features-flexible = Hyblyg
 vpn-features-personalized-server = Argymhellion lleoliad gweinydd personol
 vpn-features-well-suggest-which-servers = Byddwn yn awgrymu pa weinyddion yn eich ardal chi fydd yn sicrhau'r cysylltiad rhyngrwyd cyflymaf a mwyaf dibynadwy.
-vpn-features-personalize-which-apps = Personoli pa apiau sy'n cael amddiffyniad VPN
-vpn-features-easily-exclude-apps = Eithrio apiau o amddiffyniad VPN yn hawdd - nid oes angen datgysylltu'ch dyfais o { -brand-name-mozilla-vpn }. Ar gael mewn dyfeisiau Windows, Android a Linux.
+vpn-features-personalize-which-apps = Personoli pa apiau sy'n cael diogelwch VPN
+vpn-features-easily-exclude-apps = Eithrio apiau rhag diogelwch VPN yn hawdd - nid oes angen datgysylltu'ch dyfais o { -brand-name-mozilla-vpn }. Ar gael ar gyfer dyfeisiau Windows, Android a Linux.
 vpn-features-set-different-locations = Gosodwch leoliadau gwahanol ar gyfer pob tab yn { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
