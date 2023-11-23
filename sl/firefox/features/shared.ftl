@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = Značilnosti { -brand-name-firefox(sklon: "rodilnik") }
+features-shared-footer-cta-title = Bodite učinkovitejši s { -brand-name-firefox(sklon: "orodnik") }
 features-shared-footer-cta-desc = Prenesite si hiter, lahek in zasebnosti predan brskalnik, ki ga razvija neprofitna organizacija in ki deluje na vseh vaših napravah.
 features-shared-footer-cta-button = Prenesite { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = Ali je { -brand-name-firefox } hiter brskalnik?

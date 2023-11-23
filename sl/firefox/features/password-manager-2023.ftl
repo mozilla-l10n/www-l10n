@@ -35,5 +35,9 @@ password-manager-have-firefox-create-a-strong-unique = Naj vam { -brand-name-fir
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Slika obrazca za ustvarjanje računa na spletni strani, kjer { -brand-name-firefox } predlaga močno geslo.
 password-manager-password-security-alerts = Opozorila o varnosti gesel
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } vas <a { $attrs }>vas opozori, če se katero od gesel razkrije</a> v kraji podatkov, tako da ga lahko spremenite, preden vam uspejo napadalci prevohljati pošto ali na vaš račun najeti ferrarija.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Slika { -brand-name-firefox }ovega upravitelja gesel, ki prikazuje opozorilo »To geslo uporablja tudi drug račun, ki je bil verjetno izpostavljen v kraji podatkov. Uporaba enakih poverilnic na več mestih ogroža vse vaše račune. Spremenite to geslo.«

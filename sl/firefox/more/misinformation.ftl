@@ -16,6 +16,8 @@ misinformation-false-info-heading = Kje se prikazujejo neresnične informacije?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
 misinformation-widespread-online = Na napačne in lažne informacije lahko naletite kjerkoli, največjo možnost širjenja in vpliva pa imajo, kadar se delijo na spletu. Algoritmi in <a href="{ $tracking }">sledenje</a> so napačnim in lažnim informacijam omogočili, da dosežejo širše občinstvo na spletnih straneh, blogih, forumih in družbenih omrežjih.
+misinformation-tracking-advertising = Za sledenje ste morda že slišali predvsem v zvezi z oglaševanjem. Vendar pa je tudi močno orodje pri širjenju neresničnih informacij. Zakaj? Ko brskate po spletu ali po viru družbenega omrežja, različna spletna mesta sledijo vašemu vedenju, zanimanjem, včasih celo stikom, da bi si o vas ustvarila zelo podroben profil, ki ga nato brez vaše vednosti ali privolitve prodajajo naprej. Ti profili se uporabljajo za prilagojeno oglaševanje, lahko pa tudi za ciljanje posameznikov s prikrojenimi informacijami.
+misinformation-social-newtorks = Večino priporočene vsebine, ki vam jo prikazuje katerokoli spletno mesto ali družbeno omrežje, sestavijo algoritmi na osnovi informacij iz vašega profila. Na žalost algoritmi, čeprav čedalje pametnejši, ne preverjajo točnosti vsebine. To je zlasti problematično pri družbenih omrežjih, ki svojim uporabnikom vsak dan postrežejo neznanske količine informacij in imajo skoraj neomejen dostop do vsebine, vključno z objavami uporabnikov, novicami, oglasi in sponzorirano vsebino. Medtem ko lahko objave in novice slučajno širijo napačne informacije, se oglasi in sponzorirana vsebina lahko izkoriščajo za namerno širjenje lažnih informacij in manipulacijo z uporabniki. Zato je zelo pomembno, da veste, kako prepoznati neresnične informacije.
 misinformation-spot-online-heading = Kako prepoznati neresnične informacije na spletu in pomagati ustaviti njihovo širjenje
 misinformation-look-at-url = Oglejte si spletni naslov in/ali vir.
 misinformation-known-to-br-credible = Ali je znan kot verodostojen? Če niste prepričani, poskusite na internetu izvedeti več o viru in njegovem ugledu.
@@ -30,6 +32,9 @@ misinformation-images-are-powerful = Slike so zelo močno orodje za ciljno dezin
 misinformation-how-firefox-helps-heading = Kako vam { -brand-name-firefox } pomaga pri ogibanju napačnim informacijam
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } drži sledilce v šahu:
 misinformation-social-media-clean-heading = { -brand-name-firefox } vam pomaga ohranjati vire na družbenih omrežjih čiste:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Družbena omrežja vedo mnogo o vas. Poleg tega so vam z gumbi Deli in Všeč mi je zmožna slediti izven svoje platforme kljub zaščiti pred sledenjem – celo če nimate računa. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } otežuje to početje { -brand-name-facebook }u in { -brand-name-instagram }u, kar dodatno zmanjša verjetnost prikazovanja napačnih informacij v oglasih in plačani vsebini.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } vam pomaga odkriti vsebino, ki je vredna vašega časa:
 misinformation-why-trust-firefox = Zakaj zaupati { -brand-name-firefox(sklon: "dajalnik") }?
