@@ -26,6 +26,7 @@ vpn-pricing-access =
         [one] Accede a { $servers } servitor in plus que { $countries } paises
        *[other] Accede a { $servers } servitores in plus que { $countries } paises
     }
+vpn-pricing-money-back = Garantia de reimbursamento de 30-dies (solo pro clientes del prime vice)
 vpn-pricing-annual = Annual
 vpn-pricing-monthly = Mensual
 vpn-pricing-get-annual-subscription = Obtener subscription annual
@@ -35,6 +36,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } nondum es disponibil
 vpn-pricing-faqs = Folios a questiones
 vpn-pricing-refund-policy = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-pricing-the-first-time-you = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
+vpn-pricing-if-you-purchased = Si tu comprava tu abonamento per le app de compras ab le App Store de Apple o le Play Store de Google, tu pagamento es subjecte al terminos e conditiones del boteca. Tu debe diriger qualcunque inquestas de facturation e reimbursamento pro tal compras, in maniera appropriate, a Apple o Google.
 vpn-pricing-what-information = Que informationes mantene { -brand-name-mozilla-vpn }?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
