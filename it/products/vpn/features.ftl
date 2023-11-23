@@ -8,14 +8,6 @@
 vpn-features-page-title = Caratteristiche - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-convenient = Pratica
-# Variables
-#   $servers (number) - number of VPN servers
-#   $countries (number) - number of available countries
-vpn-features-more-than =
-    { $servers ->
-        [one] Più di { $servers } server in più di { $countries } Paesi
-       *[other] Più di { $servers } server in più di { $countries } Paesi
-    }
 vpn-features-see-our-list = Consulta l’elenco dei server.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
