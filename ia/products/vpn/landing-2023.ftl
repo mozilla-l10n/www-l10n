@@ -45,4 +45,10 @@ vpn-landing-see-all-features = Vide tote le functiones
 vpn-landing-fram-a-brand-you-can-trust = Per un marca de fabrica digne de tu confidentia
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } es un compania de internet supportate per un organisation non-lucrative que ha luctate pro un web san desde le 1998.
 vpn-landing-one-subscription-for-all-your = Un sol subscription pro tote tu apparatos
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Per le technologia { -brand-name-mozilla }.</strong> Luctante pro tu derectos al confidentialitate desde le 1998.
+vpn-landing-learn-more-from-our-experts = Saper plus ab nostre expertes
+vpn-landing-do-you-need-a-vpn-at-home = Besonia tu un VPN a casa? Ecce 5 rationes perque tu poterea.
 vpn-landing-what-is-an-ip-address = Que es un adresse IP?
+vpn-landing-how-your-location-is-tracked = Como tu position es traciate e como pote tu limitar compartir lo
+vpn-landing-see-more-resources = Vide altere ressources

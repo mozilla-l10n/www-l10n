@@ -30,8 +30,17 @@ vpn-pricing-annual = Annual
 vpn-pricing-monthly = Mensual
 vpn-pricing-get-annual-subscription = Obtener subscription annual
 vpn-pricing-get-monthly-subscription = Obtener subscription mensual
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } nondum es disponibile in tu pais.
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Folios a questiones
 vpn-pricing-refund-policy = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?
 vpn-pricing-the-first-time-you = Le prime vice que tu te abona a { -brand-name-mozilla-vpn } per le sito web de { -brand-name-mozilla }, si tu cancella tu conto intra le prime 30 dies, tu pote requirer un reimbursamento e { -brand-name-mozilla } reimbursara tu prime termino de subscription.
+vpn-pricing-what-information = Que informationes mantene { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Nos adhere strictemente al { -brand-name-mozilla }’s <a { $principles }>Principios de confidentialitate del datos</a>. Nos solo collige datos necessari pro mantener { -brand-name-mozilla-vpn } operative e meliorar le producto con le tempore. Nos alsi tracia campanias e datos de referentia sur nostre app mobile pro adjutar { -brand-name-mozilla } a comprender le efficacia de nostre campanias de marketing. Lege plus in nostre <a { $notice }>Aviso de confidentialitate</a>.
 vpn-pricing-how-do-i-manage = Como gere io mi abonamento e cambia mi plano?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Si tu es jam abonate a { -brand-name-mozilla-vpn }, tu pote cambiar tu plano o <a { $manage }>gerer tu abonamento</a> quando tu lo vole.

@@ -155,3 +155,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } non an
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Como vidite in
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “Le VPN de { -brand-name-mozilla } pote alsi <a { $attrs }>integrar se in alcun elegante functiones de protection del confidentialitate</a> de su navigator { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…functiones unic, como su Contentores multi-conto, poterea render le function facilemente accessibile a usatores con plus serie problemas de confidentialitate.”
