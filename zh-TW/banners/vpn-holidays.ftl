@@ -8,7 +8,7 @@
 banner-vpn-holidays-title = { -brand-name-mozilla-vpn }
 # strong tag is for visual formatting only.
 # <br> tag is a line-break for visual formatting only.
-banner-vpn-holidays-take-20-percent-off = 這個假期 <br><strong>首年享 20% 折扣</strong>
+banner-vpn-holidays-take-20-percent-off = 在這個假期中訂閱<br><strong>首年可享八折折扣</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'HOLIDAY20'.
 banner-vpn-holidays-use-coupon-code = 結帳時使用折扣碼 { $coupon_code }
