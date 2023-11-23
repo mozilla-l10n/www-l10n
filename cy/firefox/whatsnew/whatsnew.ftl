@@ -10,8 +10,6 @@ whatsnew-page-title-v2 = Beth sy'n newydd gyda { -brand-name-firefox }
 whatsnew-page-title = Beth sy'n newydd gyda { -brand-name-firefox } - Rhagor o breifatrwydd, rhagor o ddiogelu.
 whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Mae eich { -brand-name-firefox } wedi'i ddiweddaru.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/

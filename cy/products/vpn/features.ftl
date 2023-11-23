@@ -65,14 +65,14 @@ vpn-features-easily-exclude-apps = Eithrio apiau rhag diogelwch VPN yn hawdd - n
 vpn-features-set-different-locations = Gosodwch leoliadau gwahanol ar gyfer pob tab yn { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Cyfuno { -brand-name-mozilla-vpn } gyda'r estyniad Cynhwyswyr Amlgyfrif { -brand-name-firefox } a gosodwch leoliadau VPN gwahanol fesul tab { -brand-name-firefox }. <a { $containers }>Dysgu sut</a>.
+vpn-features-combine-mozilla-vpn-with-containers = Cyfunwch { -brand-name-mozilla-vpn } gyda'r estyniad Cynwysyddion Ailgyfrif { -brand-name-firefox } a gosod lleoliadau VPN gwahanol fesul tab { -brand-name-firefox }. <a { $containers }>Darllen sut</a>.
 vpn-features-trustworthy = Dibynadwy
-vpn-features-money-back = Gwarant arian-yn-ôl 30 diwrnod
+vpn-features-money-back = Gwarant 30 diwrnod arian-yn-ôl
 vpn-features-plus-customer-support = Ynghyd â chefnogaeth cwsmeriaid 24/7.
-vpn-features-we-never-log = Nid ydym byth yn logio, olrhain na rhannu eich data rhwydwaith
+vpn-features-we-never-log = Nid ydym byth yn cofnodi, tracio na rhannu eich data rhwydwaith
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = Yn syml, nid ydym yn casglu eich gwybodaeth bori bersonol. Dyma ein <a { $privacy }>polisi preifatrwydd hawdd ei ddarllen</a>.
+vpn-features-simply-put-we-dont = Yn syml, nid ydym yn casglu eich manylion pori bersonol. Dyma ein <a { $privacy }>polisi preifatrwydd hawdd ei ddarllen</a>.
 vpn-features-built-transparently = Wedi'i adeiladu'n dryloyw mewn cod agored
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client

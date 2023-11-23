@@ -53,4 +53,4 @@ vpn-pricing-we-adhere-strictly = Rydym yn glynu'n gaeth at <a { $principles }>Eg
 vpn-pricing-how-do-i-manage = Sut mae rheoli fy nhanysgrifiad a newid fy nghynllun?
 # Variables
 # $manage (url) - link to subscription management page
-vpn-pricing-if-already-subscribed = Os ydych eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a { $manage }>rheoli eich tanysgrifiad</a> unrhyw bryd.
+vpn-pricing-if-already-subscribed = Os ydych eisoes wedi tanysgrifio i { -brand-name-mozilla-vpn }, gallwch newid eich cynllun neu <a { $manage }>reoli eich tanysgrifiad</a> unrhyw bryd.
