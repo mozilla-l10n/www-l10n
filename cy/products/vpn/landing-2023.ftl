@@ -56,8 +56,8 @@ vpn-landing-mozilla-is-a-non-profit-backed = Mae { -brand-name-mozilla } yn gwmn
 vpn-landing-one-subscription-for-all-your = Un tanysgrifiad ar gyfer eich holl ddyfeisiau
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Yn cael ei bweru gan { -brand-name-mozilla }.</strong> Yn brwydro dros eich hawl i breifatrwydd ers 1998.
-vpn-landing-learn-more-from-our-experts = Dysgwch fwy gan ein harbenigwyr
-vpn-landing-do-you-need-a-vpn-at-home = Oes angen VPN arnoch chi gartref? Dyma 5 rheswm y gallech.
+vpn-landing-learn-more-from-our-experts = Dysgwch ragor gan ein harbenigwyr
+vpn-landing-do-you-need-a-vpn-at-home = Oes angen VPN arnoch chi gartref? Dyma 5 rheswm posib.
 vpn-landing-what-is-an-ip-address = Beth yw cyfeiriad IP?
-vpn-landing-how-your-location-is-tracked = Sut y caiff eich lleoliad ei olrhain a sut y gallwch gyfyngu ar ei rannu
+vpn-landing-how-your-location-is-tracked = Sut y caiff eich lleoliad ei dracio a sut y gallwch gyfyngu ar ei rannu
 vpn-landing-see-more-resources = Gweld mwy o adnoddau

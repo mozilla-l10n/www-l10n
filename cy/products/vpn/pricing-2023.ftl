@@ -15,9 +15,9 @@ vpn-pricing-included-in-subscription = Wedi'i gynnwys yn y tanysgrifiad:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [zero] Cysylltwch hyd at { $devices } dyfais
+        [zero] Cysylltwch hyd at { $devices } dyfeisiau
         [one] Cysylltwch hyd at { $devices } dyfais
-        [two] Cysylltwch hyd at { $devices } dyfais
+        [two] Cysylltwch hyd at { $devices } ddyfais
         [few] Cysylltwch hyd at { $devices } dyfais
         [many] Cysylltwch hyd at { $devices } dyfais
        *[other] Cysylltwch hyd at { $devices } dyfais
@@ -27,14 +27,14 @@ vpn-pricing-connect-up-to =
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [zero] Cael mynediad i { $servers } gweinyddwyr mewn { $countries }+ o wledydd
-        [one] Cyrchu gweinydd { $servers } mewn { $countries }+ o wledydd
-        [two] Cael mynediad i { $servers } gweinyddwyr mewn { $countries }+ o wledydd
-        [few] Cael mynediad i { $servers } gweinyddwyr mewn { $countries }+ o wledydd
-        [many] Cael mynediad i { $servers } gweinyddwyr mewn { $countries }+ o wledydd
-       *[other] Cael mynediad i { $servers } gweinyddwyr mewn { $countries }+ o wledydd
+        [zero] Cael mynediad at { $servers } gweinyddion mewn { $countries }+ gwlad
+        [one] Cael mynediad at { $servers } gweinydd mewn { $countries }+ gwlad
+        [two] Cael mynediad at { $servers } gweinydd mewn { $countries }+ gwlad
+        [few] Cael mynediad at { $servers } gweinydd mewn { $countries }+ gwlad
+        [many] Cael mynediad at { $servers } gweinydd mewn { $countries }+ gwlad
+       *[other] Cael mynediad at { $servers } gweinydd mewn { $countries }+ gwlad
     }
-vpn-pricing-money-back = Gwarant arian yn ôl 30 diwrnod (ar gyfer cwsmeriaid tro cyntaf yn unig)
+vpn-pricing-money-back = Gwarant 30 diwrnod o arian yn ôl (ar gyfer cwsmeriaid tro cyntaf yn unig)
 vpn-pricing-annual = Blynyddol
 vpn-pricing-monthly = Misol
 vpn-pricing-get-annual-subscription = Cael tanysgrifiad blynyddol
@@ -44,12 +44,12 @@ vpn-pricing-vpn-not-available = Nid yw { -brand-name-mozilla-vpn } ar gael yn ei
 vpn-pricing-faqs = Cwestiynau Cyffredin
 vpn-pricing-refund-policy = Beth yw polisi ad-dalu { -brand-name-mozilla-vpn }?
 vpn-pricing-the-first-time-you = Y tro cyntaf y byddwch chi'n tanysgrifio i { -brand-name-mozilla-vpn } trwy wefan { -brand-name-mozilla }, byddwch yn gallu diddymu'ch cyfrif o fewn y 30 diwrnod cyntaf,  gallwch ofyn am ad-daliad a bydd { -brand-name-mozilla } yn ad-dalu'ch cyfnod tanysgrifio cyntaf.
-vpn-pricing-if-you-purchased = Os gwnaethoch brynu'ch tanysgrifiad trwy brynu mewn-app o'r Apple App Store neu'r Google Play Store, mae'ch taliad yn amodol ar delerau ac amodau'r siop. Rhaid i chi gyfeirio unrhyw ymholiadau bilio ac ad-daliad ar gyfer pryniannau o'r fath at Apple neu Google, fel y bo'n briodol.
+vpn-pricing-if-you-purchased = Os gwnaethoch chi brynu'ch tanysgrifiad trwy brynu o fewn ap o'r Apple App Store neu'r Google Play Store, mae'ch taliad yn amodol ar delerau ac amodau'r siop. Rhaid i chi gyfeirio unrhyw ymholiadau bilio ac ad-daliad prynu o'r fath at Apple neu Google, fel y bo'n briodol.
 vpn-pricing-what-information = Pa wybodaeth mae { -brand-name-mozilla-vpn } yn ei chadw?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Rydym yn glynu'n gaeth at <a { $principles }>Egwyddorion Preifatrwydd Data</a> { -brand-name-mozilla }. Rydym ond yn casglu data sydd ei angen i gadw { -brand-name-mozilla-vpn } yn weithredol a gwella'r cynnyrch dros amser. Rydym hefyd yn olrhain data ymgyrchu ac atgyfeirio ar ein ap symudol i helpu { -brand-name-mozilla } i ddeall effeithiolrwydd ein hymgyrchoedd marchnata. Darllenwch fwy yn ein <a { $notice }>Hysbysiad Preifatrwydd</a>.
+vpn-pricing-we-adhere-strictly = Rydym yn glynu'n gaeth at <a { $principles }>Egwyddorion Preifatrwydd Data</a> { -brand-name-mozilla }. Rydym ond yn casglu data sydd ei angen i gadw { -brand-name-mozilla-vpn } yn weithredol a gwella'r cynnyrch dros amser. Rydym hefyd yn olrhain data ymgyrchu ac atgyfeirio ar ein hap symudol i helpu { -brand-name-mozilla } i ddeall effeithiolrwydd ein hymgyrchoedd marchnata. Darllenwch ragor yn ein <a { $notice }>Hysbysiad Preifatrwydd</a>.
 vpn-pricing-how-do-i-manage = Sut mae rheoli fy nhanysgrifiad a newid fy nghynllun?
 # Variables
 # $manage (url) - link to subscription management page

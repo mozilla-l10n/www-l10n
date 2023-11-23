@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Cael { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
 vpn-shared-sign-in-link = Eisoes yn danysgrifiwr?
-# Obsolete string
-vpn-shared-available-countries-v5 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Canada, Y Ffindir, Ffrainc, Yr Almaen, Iwerddon, Yr Eidal, Malaysia, Yr Iseldiroedd, Seland Newydd, Singapore, Sbaen, Sweden, Y Swisdir, Prydain a'r Unol Daleithiau.
 vpn-shared-available-countries-v6 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Bwlgaria, Canada, Croatia, Cyprus, y Weriniaeth Tsiec, Denmarc, Estonia, y Ffindir, Ffrainc, yr Almaen, Hwngari, Iwerddon, yr Eidal, Latfia, Lithwania, Lwcsembwrg, Malaysia, Malta, yr Iseldiroedd, Seland Newydd, Gwlad Pwyl, Portiwgal, Romania, Singapôr, Slofenia, Slofacia, Sbaen, Sweden, y Swistir, y DU, a'r Unol Daleithiau.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Gwarant arian-yn-ôl 30 diwrnod
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Dewiswch gynllun sy'n gweithio i chi
 vpn-shared-pricing-variable-sub-heading = Mae pob un o'n cynlluniau yn cynnwys:
 vpn-shared-pricing-recommended-offer = Argymhellwn
 vpn-shared-pricing-plan-12-month-v2 = Cynllun 12 mis
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Mis
 vpn-shared-pricing-plan-monthly-v2 = Cynllun misol
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Misol
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mis + treth</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Cael cynllun 6 mis
-# Obsolete string
-vpn-shared-pricing-get-12-month = Cael cynllun 12 mis
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Cael cynllun 6 mis
 vpn-shared-pricing-get-12-month-v2 = Cael cynllun 12 mis
 vpn-shared-pricing-get-monthly = Cael cynllun misol
 # Variables:
@@ -169,6 +157,6 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Nid yw { -brand-name-mozilla-vpn }
 vpn-press-as-seen-in = Fel wedi'i weld yn
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
-vpn-press-mozillas-vpn-can-also-integrate-into = “Gall VPN { -brand-name-mozilla } hefyd <a { $attrs }>integreiddio i rai nodweddion diogelu preifatrwydd craff</a> o’i borwr { -brand-name-firefox }.”
-vpn-press-unique-features-like-its-multi-account = “…gallai nodweddion unigryw, fel ei Gynhwyswyr Aml-gyfrif, wneud y nodwedd yn hygyrch i ddefnyddwyr sydd â phryderon preifatrwydd mwy difrifol.”
+vpn-press-mozillas-vpn-can-also-integrate-into = “Gall VPN { -brand-name-mozilla } hefyd <a { $attrs }>integreiddio i rai nodweddion diogelu preifatrwydd hwylus</a> ei borwr { -brand-name-firefox }.”
+vpn-press-unique-features-like-its-multi-account = “…gall nodweddion unigryw, fel ei Gynhwysyddion Aml-gyfrif, wneud y nodwedd yn hygyrch i ddefnyddwyr sydd â phryderon preifatrwydd mwy difrifol.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Mae rhestr nodweddion { -brand-name-mozilla-vpn } wedi tyfu’n sylweddol ers ei lansio, ac mae’r gwasanaeth bellach yn curo llawer o VPNs arbenigol mewn rhai meysydd.”
