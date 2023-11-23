@@ -29,6 +29,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Supportate sur le systemas operative Windows, macOS, Android, iOS e Linux.
 vpn-features-no-bandwidth = Nulle limitationes de largessa de banda o de regulation
+vpn-features-including-no-data = Includite nulle  limite de datos o de velocitate.
 vpn-features-fast-network = Alte velocitates de rete mesmo jocante
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -54,7 +55,18 @@ vpn-features-well-suggest-which-servers = Nos suggerera qual servitores presso t
 vpn-features-personalize-which-apps = Personalisar qual apps obtene protection de VPN
 vpn-features-easily-exclude-apps = Facilemente exclude apps ab le protection VPN, nulle besonio de disconnecter tu apparato ab { -brand-name-mozilla-vpn }. Disponibile in apparato Windows, Android e Linux.
 vpn-features-set-different-locations = Predefini differente positiones pro cata scheda in { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Combine { -brand-name-mozilla-vpn } with the Multi-Account Containers { -brand-name-firefox } extension and set different VPN locations per { -brand-name-firefox } tab. <a { $containers }>Apprende como</a>.
 vpn-features-trustworthy = Digne de fide
 vpn-features-money-back = Garantia de reimbursamento de 30 dies
 vpn-features-plus-customer-support = In addition assistentia del cliente 24/7.
 vpn-features-we-never-log = Nos jammais registra, tracia o comparti tu datos de rete
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = In poc parolas, nos non collige tu informationes de navigation personal. Ecce nostre <a { $privacy }>politica de confidentialitate facile a leger</a>.
+vpn-features-built-transparently = Producite transparentemente in open-source
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } es producite con codice aperte, i.e. tote le codice es publicamente accessibile. Vider nostre <a { $github }>repositorio GitHub</a>.
+vpn-features-reviewed-by-third = Revidite per expertes de securitate de tertie-parte
