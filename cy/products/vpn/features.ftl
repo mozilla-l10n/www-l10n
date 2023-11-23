@@ -73,15 +73,15 @@ vpn-features-we-never-log = Nid ydym byth yn logio, olrhain na rhannu eich data 
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Yn syml, nid ydym yn casglu eich gwybodaeth bori bersonol. Dyma ein <a { $privacy }>polisi preifatrwydd hawdd ei ddarllen</a>.
-vpn-features-built-transparently = Wedi'i adeiladu'n dryloyw mewn ffynhonnell agored
+vpn-features-built-transparently = Wedi'i adeiladu'n dryloyw mewn cod agored
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
-vpn-features-made-with-open-source-code = Mae { -brand-name-mozilla-vpn } wedi'i wneud â chod ffynhonnell agored, sy'n golygu bod y cod i gyd ar gael i'r cyhoedd. Gweler ein <a { $github }>storfa GitHub</a>.
+vpn-features-made-with-open-source-code = Mae { -brand-name-mozilla-vpn } wedi'i wneud â chod cod agored, sy'n golygu bod y cod i gyd ar gael i'r cyhoedd. Ewch i'n <a { $github }>storfa GitHub</a>.
 vpn-features-reviewed-by-third = Wedi'i adolygu gan arbenigwyr diogelwch trydydd parti
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
-vpn-features-weve-been-audited = Rydym wedi cael ein harchwilio gan Cure53, cwmni archwilio seiberddiogelwch blaenllaw. <a { $report }>Gweler yr adroddiad yma</a>.
+vpn-features-weve-been-audited = Rydym wedi cael ein harchwilio gan Cure53, cwmni archwilio seiberddiogelwch blaenllaw. <a { $report }>Mae eu hadroddiad yma</a>.
 vpn-features-people-over-profits = Pobl dros elw
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
-vpn-features-were-backed-by-mofo = Rydym yn cael ein cefnogi gan y <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, sef ymgyrch ddi-elw i gadw'r we ar agor ac yn iach i bawb.
+vpn-features-were-backed-by-mofo = Rydym yn cael ein cefnogi gan y <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, corff dim-er-elw er cadw'r we yn agored ac yn iach i bawb.
