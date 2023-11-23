@@ -21,6 +21,7 @@ vpn-landing-log-in-to-your-bank-or = Accede a tu banca o al officio de tu doctor
 vpn-landing-blocks-advertisers-from = Bloca le publicitarios ab prender te de mira
 vpn-landing-hide-your-activity-from = Cela tu activitate ab traciatores e malware assi que tu pote comprar sin esser surveliate.
 vpn-landing-helps-you-access-global = Te adjuta a acceder a contento global
+vpn-landing-check-out-streaming-media = Discoperi medios diffuse, sitos web e diffusiones directe de altere paises dum tu viagia o a casa.
 vpn-landing-features = Functiones
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -38,7 +39,10 @@ vpn-landing-more-than-servers-in-countries =
        *[other] Plus que { $servers } servitores in plus que { $countries } paises
     }
 vpn-landing-fast-network-speeds-even-while = Alte velocitates de rete mesmo jocante
+vpn-landing-no-logging-tracking-or-sharing = Nulle registration, traciamento o compartimento de datos de rete
 vpn-landing-no-bandwidth-restrictions-or = Nulle limitationes de largessa de banda o de regulation
+vpn-landing-see-all-features = Vide tote le functiones
 vpn-landing-fram-a-brand-you-can-trust = Per un marca de fabrica digne de tu confidentia
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } es un compania de internet supportate per un organisation non-lucrative que ha luctate pro un web san desde le 1998.
 vpn-landing-one-subscription-for-all-your = Un sol subscription pro tote tu apparatos
 vpn-landing-what-is-an-ip-address = Que es un adresse IP?

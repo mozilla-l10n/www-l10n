@@ -70,3 +70,10 @@ vpn-features-built-transparently = Producite transparentemente in open-source
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } es producite con codice aperte, i.e. tote le codice es publicamente accessibile. Vider nostre <a { $github }>repositorio GitHub</a>.
 vpn-features-reviewed-by-third = Revidite per expertes de securitate de tertie-parte
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Nos ha essite verificate per Cure53, un eminente interprisa de verification del cybersecuritate. <a { $reportar }>Vide le reporto ci</a>
+vpn-features-people-over-profits = Le personas plus que le profitos
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Nos es supportate per <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, un organisation non-lucrative luctante a mantener le web aperte e san pro totes.
