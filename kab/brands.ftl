@@ -73,6 +73,7 @@
 # Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Azeṭṭa n tbaḍnit n Firefox
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = Firefox Translations
@@ -111,6 +112,7 @@
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Amiḍan n Mozilla
@@ -133,8 +135,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Obsolete string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

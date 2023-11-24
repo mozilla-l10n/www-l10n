@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Sader tura
 download-button-free-download = Sader baṭel
@@ -39,3 +39,4 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> i { -brand-na
 download-button-firefox-privacy = Tasertit n tbaḍnit n { -brand-name-firefox }
 download-button-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 download-button-download = Sader
+download-firefox-esr = Sader { -brand-name-firefox-esr }
