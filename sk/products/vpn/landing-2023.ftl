@@ -14,7 +14,7 @@ vpn-landing-desc = Používajte { -brand-name-mozilla-vpn } pre kompletnú ochra
 vpn-landing-powerful-privacy-for-peace = Veľké súkromie pre pokoj v duši
 vpn-landing-whats-a-vpn = Čo je VPN?
 vpn-landing-a-virtual-private-network-protects = Virtuálna privátna sieť chráni vaše pripojenie k internetu, pričom vaša poloha a to, čo robíte online, sú vo vašich zariadeniach viac súkromné.
-vpn-landing-see-all-the-ways-mozilla-vpn = Pozrite si všetky spôsoby, akými vás { -brand-name-mozilla-vpn } chráni.
+vpn-landing-see-all-the-ways-mozilla-vpn = Pozrite si všetky spôsoby, akými vás { -brand-name-mozilla-vpn } chráni
 vpn-landing-how-a-vpn-helps-you = Ako vám VPN pomáha
 vpn-landing-keeps-your-data-safe = Udržuje vaše dáta v bezpečí na verejných Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Prihláste sa do svojej banky alebo k doktorovi z letiska, kaviarne alebo odkiaľkoľvek, s pokojom na duši.
@@ -53,7 +53,7 @@ vpn-landing-one-subscription-for-all-your = Jedno predplatné pre všetky vaše 
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Od { -brand-name-mozilla(case: "gen") }.</strong> Od roku 1998 bojujeme za vaše právo na súkromie.
 vpn-landing-learn-more-from-our-experts = Ďalší obsah od našich odborníkov
-vpn-landing-do-you-need-a-vpn-at-home = Potrebujete VPN doma? Tu je 5 dôvodov, prečo by ste mali.
+vpn-landing-do-you-need-a-vpn-at-home = Potrebujete VPN doma? Tu je 5 dôvodov, prečo by ste mali
 vpn-landing-what-is-an-ip-address = Čo je to adresa IP?
 vpn-landing-how-your-location-is-tracked = Ako sa sleduje vaša poloha a ako môžete obmedziť jej zdieľanie
 vpn-landing-see-more-resources = Pozrite si ďalšie zdroje
