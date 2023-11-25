@@ -39,7 +39,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } zatiaľ nie je vo va
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Často kladené otázky
 vpn-pricing-refund-policy = Aké sú pri { -brand-name-mozilla-vpn } podmienky vrátenia peňazí?
-vpn-pricing-the-first-time-you = Ak pri prvom prihlásení na odber predplatného { -brand-name-mozilla-vpn } prostredníctvom webovej stránky { -brand-name-mozilla } zrušíte svoj účet do 30 dní, môžete požiadať o vrátenie peňazí a { -brand-name-mozilla } vám vráti peniaze za prvé predplatné.
+vpn-pricing-the-first-time-you = Ak pri prvom zakúpení predplatného { -brand-name-mozilla-vpn } prostredníctvom webovej stránky { -brand-name-mozilla } zrušíte svoj účet do 30 dní, môžete požiadať o vrátenie peňazí a { -brand-name-mozilla } vám vráti peniaze za prvé predplatné.
 vpn-pricing-if-you-purchased = Ak ste si predplatné zakúpili prostredníctvom nákupu v aplikácii v obchode Apple App Store alebo Google Play Store, vaša platba podlieha zmluvným podmienkam obchodu. Akékoľvek otázky týkajúce sa fakturácie a vrátenia peňazí za takéto nákupy musíte podľa potreby smerovať na spoločnosť Apple alebo Google.
 vpn-pricing-what-information = Aké informácie { -brand-name-mozilla-vpn } uchováva?
 # Variables

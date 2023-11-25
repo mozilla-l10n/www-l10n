@@ -12,8 +12,6 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Chráňte celé svoje zari
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Používajte { -brand-name-mozilla-vpn } pre kompletnú ochranu všetkých aplikácií. So servermi vo viac ako { $countries } krajinách sa môžete pripojiť kamkoľvek odkiaľkoľvek.
 vpn-landing-hero-sub-heading-v2 = Bezpečnosť, spoľahlivosť a rýchlosť - na každom zariadení a kdekoľvek.
-# Obsolete string
-vpn-landing-hero-sub-heading = Bezpečnosť, na ktorú sa môžete spoľahnúť. Meno, ktorému môžete dôverovať.
 vpn-landing-hero-desc = Virtuálna privátna sieť od tvorcov { -brand-name-firefox(case: "gen") }.
 vpn-landing-privacy-heading = Súkromie na jedno ťuknutie
 vpn-landing-privacy-desc = Robte všetky svoje aktivity na internete bez straty súkromia. Či už cestujete, používate verejnú Wi‑Fi alebo len chcete mať väčšie súkromie, môžete sa spoľahnúť, že my budeme vaše súkromie vždy klásť na prvé miesto.
@@ -22,12 +20,6 @@ vpn-landing-fast-secure-heading = Rýchla a bezpečná sieť
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov. Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. Nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } beží na celosvetovej sieti serverov poháňanej spoločnosťou <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. Za použitia najpokročilejšieho protokolu <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> šifrujeme všetku vašu aktivitu a skrývame vašu IP adresu. Nezaznamenávame, nesledujeme a nezdieľame vaše údaje.
 vpn-landing-brand-trust-heading = VPN od značky, ktorej môžete dôverovať
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -43,8 +35,6 @@ vpn-landing-faq-uses-question-desc = Keďže čoraz viac každodenného života 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Skrýva vašu skutočnú <a href="{ $url }">IP adresu</a>. Takto chráni vašu identitu a skrýva vaše umiestnenie.
-# Obsolete string
-vpn-landing-faq-uses-conceal = Skrýva vašu skutočnú IP adresu. Takto chráni vašu identitu a skrýva vaše umiestnenie.
 vpn-landing-faq-uses-encrypt = Šifruje spojenie medzi vami a vašim poskytovateľom VPN, takže ju nikto vo vašej lokálnej sieti nemôže rozlúštiť alebo upraviť.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
@@ -54,10 +44,6 @@ vpn-landing-faq-info-question-heading = Aké informácie { -brand-name-mozilla-v
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Prísne dodržiavame <a href="{ $principles }">princípy ochrany osobných údajov</a> spoločnosti { -brand-name-mozilla } a zhromažďujeme údaje potrebné na udržanie prevádzkyschopnosti VPN a na zlepšovanie produktu v priebehu času. V našej mobilnej aplikácii sledujeme aj údaje o kampaniach a odporúčaniach, aby sme pomohli { -brand-name-mozilla(case: "dat") } pochopiť efektivitu našich marketingových kampaní. Ďalšie informácie nájdete v našom <a href="{ $notice }">Vyhlásení o ochrane osobných údajov</a>.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Vašu aktivitu nezaznamenávame, nesledujeme a ani ju s nikým nezdieľame. Striktne sa riadime <a href="{ $url }">princípmi súkromia</a> { -brand-name-mozilla } a zbierame len údaje, ktoré potrebujeme k zachovaniu fungovania VPN a k budúcemu vylepšovaniu nášho produktu.
 vpn-landing-faq-protected-question-heading = Ako je chránené moje súkromie?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -67,60 +53,31 @@ vpn-landing-faq-competition-question-heading = Ako je na tom { -brand-name-mozil
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Aj keď sa bezplatné siete VPN zdajú atraktívne, nezaväzujú sa k ochrane súkromia ako { -brand-name-mozilla-vpn }. Iné siete VPN nemajú viac ako 20-ročné <a href="{ $url }">skúsenosti</a> spoločnosti { -brand-name-mozilla } pri vytváraní produktov, ktoré kladú ľudí a súkromie na prvé miesto.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Aj keď VPN zdarma pôsobia lákavo, neriadia sa rovnakými zásadami ochrany súkromia ako my v { -brand-name-mozilla-vpn } a môžu predávať vaše údaje. Ostatné platené VPN nemajú za sebou 20 rokov <a href="{ $url }">skúseností</a> pri tvorbe produktov, ktoré kladú na prvé miesto ľudí a súkromie, ako { -brand-name-mozilla }.
 vpn-landing-faq-compatibility-question-heading = S akými zariadeniami je { -brand-name-mozilla-vpn } kompatibilné?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilná s <a href="{ $mobile }">mobilnými telefónmi</a>, tabletmi a <a href="{ $desktop }">počítačmi</a> s:
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } je kompatibilná s:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (len 64-bitová verzia)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (len 64-bitová verzia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> (verzia { $minversion } a novšia)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (verzia 10.14 a novšia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (verzia 8 a novšia)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (verzia 6 a novšia)
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (verzia 6 a novšia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> (verzia { $version } a novšia)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (verzia 12.0 a novšia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 a vyššie)
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } verzia 18.04 a novšia)
 vpn-landing-faq-refund-question-heading = Aké sú pri { -brand-name-mozilla-vpn } podmienky vrátenia peňazí?
-vpn-landing-faq-refund-question-desc-v2 = Ak pri prvom prihlásení na odber predplatného { -brand-name-mozilla-vpn } prostredníctvom webovej stránky { -brand-name-mozilla } zrušíte svoj účet do 30 dní, môžete požiadať o vrátenie peňazí a { -brand-name-mozilla } vám vráti peniaze za prvé predplatné.
+vpn-landing-faq-refund-question-desc-v2 = Ak pri prvom zakúpení predplatného { -brand-name-mozilla-vpn } prostredníctvom webovej stránky { -brand-name-mozilla } zrušíte svoj účet do 30 dní, môžete požiadať o vrátenie peňazí a { -brand-name-mozilla } vám vráti peniaze za prvé predplatné.
 vpn-landing-faq-refund-question-additional-desc = Ak si predplatné zakúpite prostredníctvom nákupu v aplikácii v { -brand-name-apple } { -brand-name-app-store } alebo v obchode { -brand-name-google-play }, vaša platba podlieha zmluvným podmienkam obchodu { -brand-name-app-store }. Všetky otázky týkajúce sa fakturácie a vrátenia peňazí za takéto nákupy musíte podľa potreby smerovať na { -brand-name-apple } alebo { -brand-name-google }.
-# Obsolete string
-vpn-landing-faq-refund-question-desc = O vrátenie peňazí môžete požiadať v priebehu 30 dní od zakúpenia predplatného. Kontaktujte nás alebo si vytvorte žiadosť o vrátenie peňazí priamo v aplikácii { -brand-name-mozilla-vpn } kliknutím na tlačidlo „Získať pomoc“ v nastaveniach.
 vpn-landing-faq-manage-subscription-question-heading = Ako môžem spravovať svoje predplatné?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -135,8 +92,6 @@ vpn-landing-faq-link = Ďalšie často kladené otázky
 
 vpn-landing-invite-page-title = Pridajte sa na zoznam čakateľov: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre váš región.
-# Obsolete string
-vpn-landing-invite-page-desc = Dáme vám vedieť, keď bude { -brand-name-mozilla-vpn } k dispozícii pre vaše zariadenie a región.
 vpn-landing-invite-page-heading = Pridajte sa na zoznam čakateľov na VPN
 vpn-landing-invite-email-label = Aká je vaša e‑mailová adresa?
 vpn-landing-invite-required-label = Požadované
