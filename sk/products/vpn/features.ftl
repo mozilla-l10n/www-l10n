@@ -59,3 +59,25 @@ vpn-features-well-suggest-which-servers = Navrhneme vám, ktoré servery vo vaš
 vpn-features-personalize-which-apps = Prispôsobte si, ktoré aplikácie získajú ochranu VPN
 vpn-features-easily-exclude-apps = Jednoducho vylúčte aplikácie z ochrany VPN – nie je potrebné odpájať zariadenie od { -brand-name-mozilla-vpn }. Dostupné v zariadeniach so systémom Windows, Android a Linux.
 vpn-features-set-different-locations = Nastavte rôzne umiestnenia pre každú kartu vo { -brand-name-firefox(case: "loc") }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Skombinujte { -brand-name-mozilla-vpn } s rozšírením Multi-Account Containers pre { -brand-name-firefox } a nastavte rôzne umiestnenia serverov VPN na kartách { -brand-name-firefox(case: "gen") }. <a { $containers }>Ďalšie informácie</a>.
+vpn-features-trustworthy = Dôveryhodnosť
+vpn-features-money-back = 30-dňová záruka vrátenia peňazí
+vpn-features-plus-customer-support = Plus zákaznícka podpora 24/7.
+vpn-features-we-never-log = Nikdy nezbierame, nesledujeme ani nezdieľame údaje o vašich aktivitách
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Jednoducho povedané, nezhromažďujeme vaše osobné informácie o prehliadaní. Tu sú naše <a { $privacy }>jednoducho čitateľné zásady ochrany osobných údajov</a>.
+vpn-features-built-transparently = Transparentne vytvorená ako open source
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je vytvorená s otvoreným zdrojovým kódom, čo znamená, že celý kód je verejne prístupný. Pozrite si naše <a { $github }>úložisko na GitHube</a>.
+vpn-features-reviewed-by-third = Skontrolované odborníkmi tretích strán na bezpečnosť
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Boli sme auditovaní spoločnosťou Cure53, poprednou audítorskou firmou v oblasti kybernetickej bezpečnosti. <a { $report }>Pozrite si správu</a>.
+vpn-features-people-over-profits = Ľudia pred ziskami
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Podporuje nás <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, nezisková organizácia, ktorá bojuje za to, aby bol web otvorený a zdravý pre všetkých ľudí.
