@@ -33,7 +33,7 @@ vpn-when-to-use-because-your-internet = Keďže sa váš internetový prenos u v
 vpn-when-to-use-make-sure-you = Uistite sa, že rozumiete tomu, čo sieť VPN nerobí
 # Variables
 #   $book (url) - https://www.mozilla.org/firefox/privacy/book/
-vpn-when-to-use-a-vpn-provides = Sieť VPN poskytuje dôležité bezpečnostné prepojenie tým, že chráni vaše súkromné údaje pred ich cestovaním cez internet a tiež skrýva vašu IP adresu, čím pomáha chrániť vašu identitu a polohu. Nezabráni vám to však vo veciach, ako je klikanie na podozrivé odkazy, sťahovanie škodlivého softvéru alebo sa stať obeťou e-mailových podvodov. Stále si musíte osvojiť <a href="{ $book }">správne návyky, aby ste boli online v bezpečí</a>.
+vpn-when-to-use-a-vpn-provides = Sieť VPN poskytuje dôležité bezpečnostné prepojenie tým, že chráni vaše súkromné údaje pred ich cestovaním cez internet a tiež skrýva vašu IP adresu, čím pomáha chrániť vašu identitu a polohu. Nezabráni vám to však vo veciach, ako je klikanie na podozrivé odkazy, sťahovanie škodlivého softvéru alebo sa stať obeťou e‑mailových podvodov. Stále si musíte osvojiť <a href="{ $book }">správne návyky, aby ste boli online v bezpečí</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, dôveryhodná služba VPN
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
