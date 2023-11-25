@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = 拦截社交跟踪器
 firefox-desktop-download-os-availability = 操作系统可用性
 firefox-desktop-download-in-browser-screenshot = 浏览器内置截图工具
 firefox-desktop-download-primary-password = 主密码
-# Obsolete string
-firefox-desktop-love-your-life = 热爱在线生活
-# Obsolete string
-firefox-desktop-its-your-internet = 数以千计的工具、主题、扩展，为您的个性化互联网体验增光添彩。{ -brand-name-firefox } 是最老牌的非预装浏览器，我们始终坚持以人为本。
-# Obsolete string
-firefox-desktop-download-master-password = 主密码
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
 firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser }会自动拦截网上大部分的跟踪器，您大可不必深入研究哪些安全设置需要调整。
 firefox-desktop-download-see-your-report = 查看您的保护报告
@@ -59,7 +53,7 @@ firefox-desktop-download-all-your-devices = 将 { -brand-name-firefox } 安装�
 firefox-desktop-download-take-your-privacy = 随时随地皆有最佳隐私保护。{ -brand-name-ios } 和 { -brand-name-android } 版 { -brand-name-firefox-browsers }有着与桌面版一样强大的隐私保护设置，不让跟踪器在网上窥视您的活动。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>特色纵览</strong>
-firefox-desktop-download-search-smarter = 搜索更智能、更快
+firefox-desktop-download-search-smarter = 搜索更快更智能
 firefox-desktop-download-search-from-address = 从地址栏进行搜索
 firefox-desktop-download-search-engine-options = 搜索引擎选项
 firefox-desktop-download-smart-search-suggestions = 智能搜索建议
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成�
 firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 监视骇客行为、使用 { -brand-name-firefox-relay } 保护您的电子邮件地址等等。
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护邮箱，还有种种待您探索。
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-lockwise } 保护密码，还有种种待您探索。
 firefox-desktop-download-get-more-from-firefox = 让 { -brand-name-firefox } 火力全开
 firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
@@ -176,8 +168,6 @@ firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载�
 firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
 firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = 若您看到“您正在安装的应用程序未经 { -brand-name-microsoft } 验证”，请点击“仍要安装”或<a { $attrs }>更改应用建议设置</a>。
@@ -185,10 +175,6 @@ firefox-desktop-download-visit-support-for-more = 到用户支持站了解更多
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再为 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您还是可以使用已安装的 { -brand-name-firefox }。
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用一个不安全、已过时的操作系统，<a href="{ $url }">{ -brand-name-firefox } 已停止支持 </a>。
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
