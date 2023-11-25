@@ -22,7 +22,17 @@ vpn-landing-connect-up-to-devices =
         [one] Eiporu { $devices } mba’e’oka peve
        *[other] Eiporu { $devices } mba’e’okakuéra peve
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Hetave { $servers } apopyvusu { $countries }+ tetãme
+       *[other] Hetave { $servers } apopyvusu { $countries }+ tetãnguérape
+    }
 vpn-landing-fast-network-speeds-even-while = Pyha ipya’eteve eñembosarái aja jepe
+vpn-landing-no-logging-tracking-or-sharing = Mboheraguapy’ỹre, tapykueho térã pyha mba’ekuaarã moherakuã
+vpn-landing-no-bandwidth-restrictions-or = Oñemochi’ĩ ha hu’ã’ỹre ancho de banda
 vpn-landing-see-all-features = Ehechapaite tembiapoite
 vpn-landing-fram-a-brand-you-can-trust = Ere peteĩ márka ejeroviakuaaha
 vpn-landing-one-subscription-for-all-your = Ñemboheraguapy opaite ne mba’e’okápe

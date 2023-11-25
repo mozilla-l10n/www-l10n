@@ -18,6 +18,14 @@ vpn-pricing-connect-up-to =
         [one] Eiporu { $devices } mba’e’oka peve
        *[other] Eiporu { $devices } mba’e’okakuéra peve
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Eike { $servers } apopyvusu { $countries }+ tetãme
+       *[other] Eike { $servers } apopyvusu { $countries }+ tetãnguérape
+    }
 vpn-pricing-annual = Arygua
 vpn-pricing-monthly = Jasygua
 vpn-pricing-get-annual-subscription = Eñemboheraguapy aryguávape
