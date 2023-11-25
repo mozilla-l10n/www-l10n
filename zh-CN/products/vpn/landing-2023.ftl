@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-title = { -brand-name-mozilla-vpn }：全设备保护
+vpn-landing-title = { -brand-name-mozilla-vpn }：全方位设备保护
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
@@ -39,7 +39,7 @@ vpn-landing-more-than-servers-in-countries =
 vpn-landing-fast-network-speeds-even-while = 玩游戏照样快到飞起
 vpn-landing-no-logging-tracking-or-sharing = 绝不记录、跟踪、共享网络数据
 vpn-landing-no-bandwidth-restrictions-or = 不限制带宽
-vpn-landing-extra-security-whole-device = 额外安全性：全设备保护、多跳路由等功能
+vpn-landing-extra-security-whole-device = 额外安全性：全方位设备保护、多跳路由等功能
 vpn-landing-see-all-features = 查看所有功能
 vpn-landing-fram-a-brand-you-can-trust = 品牌值得信赖
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家受非营利组织支持的互联网公司。1998 年至今，持续为健康的网络而战。
