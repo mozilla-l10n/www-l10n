@@ -68,7 +68,7 @@ vpn-features-simply-put-we-dont = Semplicemente, non raccogliamo informazioni pe
 vpn-features-built-transparently = Realizzata con la trasparenza dell’open source
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
-vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } è realizzata con codice open source, il che significa che tutto il codice è pubblicamente accessibile. Dai un’occhiata al nostro <a { $github }>repository GitHub</a>.
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } è completamente open source, il che significa che tutto il codice è pubblicamente accessibile. Dai un’occhiata al nostro <a { $github }>repository GitHub</a>.
 vpn-features-reviewed-by-third = Verificata da esperti di sicurezza di terze parti
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
