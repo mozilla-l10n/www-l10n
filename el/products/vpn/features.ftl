@@ -34,6 +34,7 @@ vpn-features-including-no-data = Χωρίς κανένα περιορισμό δ
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = Το { -brand-name-mozilla-vpn } χρησιμοποιεί το <a { $wireguard }>Wireguard</a>™, ένα από τα πιο αποδοτικά πρωτόκολλα VPN.
 vpn-features-secure = Ασφαλές
+vpn-features-block-ads = Αποκλεισμός παρακολούθησης από διαφημιστές
 vpn-features-vpn-protects-all-apps = Το { -brand-name-mozilla-vpn } προστατεύει όλες τις εφαρμογές στη συσκευή σας, όχι μόνο το πρόγραμμα περιήγησής σας.
 vpn-features-stronger-malware = Ισχυρότερη προστασία από κακόβουλο λογισμικό
 vpn-features-vpn-prevents-downloading-malware = Το { -brand-name-mozilla-vpn } σάς αποτρέπει από τη λήψη κακόβουλου λογισμικού από γνωστές μη ασφαλείς πηγές.
@@ -46,4 +47,5 @@ vpn-features-trustworthy = Αξιόπιστο
 vpn-features-money-back = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-features-plus-customer-support = Και επιπλέον, υποστήριξη πελατών 24/7.
 vpn-features-we-never-log = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας
+vpn-features-reviewed-by-third = Με αξιολογήσεις από τρίτους ειδικούς ασφάλειας
 vpn-features-people-over-profits = Οι άνθρωποι πάνω από τα κέρδη
