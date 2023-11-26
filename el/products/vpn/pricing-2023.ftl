@@ -27,3 +27,4 @@ vpn-pricing-vpn-not-available = Το { -brand-name-mozilla-vpn } δεν είνα
 vpn-pricing-faqs = Συχνές ερωτήσεις
 vpn-pricing-refund-policy = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
 vpn-pricing-what-information = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
+vpn-pricing-how-do-i-manage = Πώς μπορώ να διαχειριστώ τη συνδρομή μου και να αλλάξω το πρόγραμμά μου;
