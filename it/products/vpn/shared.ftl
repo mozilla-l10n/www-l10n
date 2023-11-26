@@ -86,11 +86,11 @@ vpn-shared-when-you-subscribe = *se sottoscrivi un abbonamento a un piano annual
 vpn-shared-with-an-annual-subscription = *con abbonamento annuale
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total = { $amount } totali
+vpn-shared-pricing-total = { $amount } in totale
 # total price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total-plus-tax = { $amount } totali + tasse
+vpn-shared-pricing-total-plus-tax = { $amount } in totale + tasse
 
 # Platform subpage shared strings
 
@@ -158,5 +158,5 @@ vpn-press-as-seen-in = Come visto in
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = “La VPN di { -brand-name-mozilla } può anche <a { $attrs }>integrarsi in alcune eleganti funzioni di protezione della privacy</a> del suo browser { -brand-name-firefox }.”
-vpn-press-unique-features-like-its-multi-account = “…caratteristiche uniche, come Multi-Account Containers, potrebbero rendere la funzione facilmente accessibile agli utenti con problemi di privacy più seri”.
+vpn-press-unique-features-like-its-multi-account = “…caratteristiche uniche, come Multi-Account Containers, potrebbero rendere la funzione facilmente accessibile agli utenti con esigenze di privacy più serie”.
 vpn-press-mozilla-vpns-feature-list-has-grown = “L’elenco delle caratteristiche di { -brand-name-mozilla-vpn } è notevolmente aumentato dal lancio e il servizio è superiore a molte VPN specializzate in alcune aree”.

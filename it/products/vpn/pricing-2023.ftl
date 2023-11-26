@@ -26,7 +26,7 @@ vpn-pricing-access =
         [one] Accesso a { $servers } server in più di { $countries } Paesi
        *[other] Accesso a { $servers } server in più di { $countries } Paesi
     }
-vpn-pricing-money-back = Garanzia di rimborso di 30 giorni (solo per i nuovi clienti)
+vpn-pricing-money-back = Garanzia di rimborso entro 30 giorni (solo per i nuovi clienti)
 vpn-pricing-annual = Annuale
 vpn-pricing-monthly = Mensile
 vpn-pricing-get-annual-subscription = Ottieni l’abbonamento annuale
