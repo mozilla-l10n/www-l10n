@@ -15,6 +15,7 @@ vpn-landing-powerful-privacy-for-peace = Ισχυρό απόρρητο για ν
 vpn-landing-whats-a-vpn = Τι είναι ένα VPN;
 vpn-landing-see-all-the-ways-mozilla-vpn = Δείτε όλους τους τρόπους με τους οποίους σας προστατεύει το { -brand-name-mozilla-vpn }.
 vpn-landing-how-a-vpn-helps-you = Πώς σας βοηθά ένα VPN
+vpn-landing-keeps-your-data-safe = Διατηρεί τα δεδομένα σας ασφαλή σε δημόσια Wi-Fi
 vpn-landing-blocks-advertisers-from = Αποκλείει την παρακολούθηση από διαφημιστές
 vpn-landing-check-out-streaming-media = Δείτε τις πλατφόρμες streaming, τους ιστοτόπους και τις ζωντανές ροές από άλλες χώρες ενώ ταξιδεύετε ή είστε στο σπίτι.
 vpn-landing-features = Δυνατότητες
@@ -33,6 +34,7 @@ vpn-landing-more-than-servers-in-countries =
         [one] Πάνω από { $servers } διακομιστής σε { $countries }+ χώρες
        *[other] Πάνω από { $servers } διακομιστές σε { $countries }+ χώρες
     }
+vpn-landing-fast-network-speeds-even-while = Γρήγορες ταχύτητες δικτύου ακόμα και στα παιχνίδια
 vpn-landing-no-bandwidth-restrictions-or = Χωρίς περιορισμούς εύρους ζώνης ή καθυστερήσεις
 vpn-landing-fram-a-brand-you-can-trust = Από μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-landing-one-subscription-for-all-your = Μία συνδρομή για όλες τις συσκευές σας
