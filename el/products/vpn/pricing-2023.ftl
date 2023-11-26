@@ -26,5 +26,10 @@ vpn-pricing-vpn-not-available = Το { -brand-name-mozilla-vpn } δεν είνα
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Συχνές ερωτήσεις
 vpn-pricing-refund-policy = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
+vpn-pricing-if-you-purchased = Εάν αποκτήσατε τη συνδρομή σας μέσω αγοράς εντός εφαρμογής από το Apple App Store ή το Google Play Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του εκάστοτε καταστήματος. Θα πρέπει να απευθύνετε τυχόν ερωτήματα σχετικά με τις χρεώσεις και τις επιστροφές χρημάτων για αυτές τις αγορές στην Apple ή την Google, αντίστοιχα.
 vpn-pricing-what-information = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Τηρούμε αυστηρά τις <a { $principles }>Αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla }. Συλλέγουμε μόνο τα δεδομένα που απαιτούνται για να παραμείνει λειτουργικό και να βελτιώνεται συνεχώς το { -brand-name-mozilla-vpn }. Καταγράφονται επίσης τα δεδομένα εκστρατειών και παραπομπών στην εφαρμογή μας για κινητές συσκευές, ώστε να κατανοήσει καλύτερα η { -brand-name-mozilla } την αποτελεσματικότητα των διαφημιστικών εκστρατειών μας. Διαβάστε περισσότερα στη <a { $notice }>Σημείωση απορρήτου</a> μας.
 vpn-pricing-how-do-i-manage = Πώς μπορώ να διαχειριστώ τη συνδρομή μου και να αλλάξω το πρόγραμμά μου;

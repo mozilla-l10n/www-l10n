@@ -16,6 +16,7 @@ vpn-landing-whats-a-vpn = Τι είναι ένα VPN;
 vpn-landing-see-all-the-ways-mozilla-vpn = Δείτε όλους τους τρόπους με τους οποίους σας προστατεύει το { -brand-name-mozilla-vpn }.
 vpn-landing-how-a-vpn-helps-you = Πώς σας βοηθά ένα VPN
 vpn-landing-blocks-advertisers-from = Αποκλείει την παρακολούθηση από διαφημιστές
+vpn-landing-check-out-streaming-media = Δείτε τις πλατφόρμες streaming, τους ιστοτόπους και τις ζωντανές ροές από άλλες χώρες ενώ ταξιδεύετε ή είστε στο σπίτι.
 vpn-landing-features = Δυνατότητες
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
