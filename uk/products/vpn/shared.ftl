@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Отримати { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Долучитись до списку очікування
 vpn-shared-sign-in-link = Уже передплатили?
-# Outdated string
-vpn-shared-available-countries-v5 = Наразі ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Канаді, Фінляндії, Франції, Німеччині, Ірландії, Італії, Малайзії, Нідерландах, Новій Зеландії, Сінгапурі, Іспанії, Швеції, Швейцарії, Великій Британії та США.
 vpn-shared-available-countries-v6 = Зараз ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Болгарії, Канаді, Хорватії, Кіпрі, Чехії, Данії, Естонії, Фінляндії, Франції, Німеччині, Угорщині, Ірландії, Італії, Латвії, Литві, Люксембурзі, Малайзії, Мальті, Нідерландах, Новій Зеландії, Польщі, Португалії, Румунії, Сінгапурі, Словенії, Словаччині, Іспанії, Швеції, Швейцарії, Великій Британії та США.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Гарантоване повернення коштів упродовж 30 днів
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Оберіть план, який вам 
 vpn-shared-pricing-variable-sub-heading = Усі наші плани включають:
 vpn-shared-pricing-recommended-offer = Рекомендовано
 vpn-shared-pricing-plan-12-month-v2 = 12-місячний тарифний план
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 місяців
 vpn-shared-pricing-plan-monthly-v2 = Місячний тарифний план
-# Outdated string
-vpn-shared-pricing-plan-monthly = Щомісячно
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + податок</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Отримати 6-місячний план
-# Outdated string
-vpn-shared-pricing-get-12-month = Отримати 12-місячний план
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Отримати 6-місячний тарифний план
 vpn-shared-pricing-get-12-month-v2 = Отримати 12-місячний тарифний план
 vpn-shared-pricing-get-monthly = Отримати щомісячний план
 # Variables:
@@ -94,6 +82,8 @@ vpn-shared-pricing-save-percent = Заощаджуйте { $percent }%
 vpn-shared-save-percent-on = Заощаджуйте { $percent } на { -brand-name-mozilla-vpn }*{ -brand-name-mozilla-vpn }
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *якщо передплачуєте 12-місячний тарифний план
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *з річною передплатою
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Усього { $amount }
@@ -133,11 +123,12 @@ vpn-subnav-vpn-vs-proxy = VPN чи проксі
 vpn-subnav-subscribe = Передплатити { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Дізнайтеся більше про VPN
 vpn-subnav-download-mozilla-vpn = Завантажити { -brand-name-mozilla-vpn }
+vpn-subnav-features = Можливості
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Ми використовуємо куки, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
 vpn-shared-affiliate-notification-reject = Відхилити
 vpn-shared-affiliate-notification-ok = Гаразд
@@ -158,6 +149,14 @@ vpn-shared-why-bundle = Чому пакет?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Заощадьте { $percent }%</span> на річному тарифному плані { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ще не доступна у вашій країні
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Про нас пишуть
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } VPN також може <a { $attrs }>інтегруватися з чудовими функціями захисту приватності</a> браузера { -brand-name-firefox }”
+vpn-press-unique-features-like-its-multi-account = “…унікальні функції, як-от Multi-Account Containers, можуть зробити цю функцію легко доступною для користувачів із серйознішими пересторогами щодо приватності”.
+vpn-press-mozilla-vpns-feature-list-has-grown = “З моменту запуску список функцій { -brand-name-mozilla-vpn } значно розширився, і тепер вони у певних сферах перевершують багато спеціалізованих рішень VPN”.
