@@ -26,6 +26,7 @@ vpn-pricing-access =
         [one] Eike { $servers } apopyvusu { $countries }+ tetãme
        *[other] Eike { $servers } apopyvusu { $countries }+ tetãnguérape
     }
+vpn-pricing-money-back = Oñembojevyjeýta viru 30 ára haguépe (ñemuhára pyahúpe g̃uarã)
 vpn-pricing-annual = Arygua
 vpn-pricing-monthly = Jasygua
 vpn-pricing-get-annual-subscription = Eñemboheraguapy aryguávape
