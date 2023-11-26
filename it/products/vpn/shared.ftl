@@ -9,11 +9,9 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Ottieni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Iscriviti alla lista d’attesa
 vpn-shared-sign-in-link = Sei già abbonato?
-# Obsolete string
-vpn-shared-available-countries-v5 = Attualmente offriamo { -brand-name-mozilla-vpn } in Austria, Belgio, Canada, Finlandia, Francia, Germania, Irlanda, Italia, Malesia, Paesi Bassi, Nuova Zelanda, Singapore, Spagna, Svezia, Svizzera, Regno Unito e Stati Uniti.
 vpn-shared-available-countries-v6 = Attualmente offriamo { -brand-name-mozilla-vpn } in Austria, Belgio, Bulgaria, Canada, Croazia, Cipro, Repubblica Ceca, Danimarca, Estonia, Finlandia, Francia, Germania, Ungheria, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malesia, Malta, Paesi Bassi, Nuova Zelanda, Polonia, Portogallo, Romania, Singapore, Slovenia, Slovacchia, Spagna, Svezia, Svizzera, Regno Unito e Stati Uniti.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
-vpn-shared-money-back-guarantee = Garanzia “soddisfatti o rimborsati” di 30 giorni
+vpn-shared-money-back-guarantee = Garanzia di rimborso entro 30 giorni
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
 vpn-shared-featured-in = Nominata da
 vpn-shared-features-encrypt = Crittografia a livello di dispositivo
@@ -51,7 +49,7 @@ vpn-shared-features-strong-servers = Server affidabili in più di { $countries }
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Connetti fino a { $devices } dispositivi
 # This string is displayed as an item in a list of features.
-vpn-shared-features-guarantee = Garanzia di rimborso di 30 giorni
+vpn-shared-features-guarantee = Garanzia di rimborso entro 30 giorni
 vpn-shared-refund-policy = Criteri di rimborso
 vpn-shared-privacy-notice = Informativa sulla privacy
 vpn-shared-terms-conditions = Termini e condizioni
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Scegli il piano più adatto per te
 vpn-shared-pricing-variable-sub-heading = Tutti i nostri piani includono:
 vpn-shared-pricing-recommended-offer = Consigliato
 vpn-shared-pricing-plan-12-month-v2 = Piano annuale
-# Obsolete string
-vpn-shared-pricing-plan-12-month = Annuale
 vpn-shared-pricing-plan-monthly-v2 = Piano mensile
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Mensile
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount } <span>al mese</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount } <span>al mese</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount } <span>al mese + tasse</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Acquista il piano semestrale
-# Obsolete string
-vpn-shared-pricing-get-12-month = Acquista il piano annuale
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Acquista il piano semestrale
 vpn-shared-pricing-get-12-month-v2 = Acquista il piano annuale
 vpn-shared-pricing-get-monthly = Acquista il piano mensile
 # Variables:

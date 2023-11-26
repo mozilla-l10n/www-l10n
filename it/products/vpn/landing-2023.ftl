@@ -13,14 +13,14 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: proteggi il tuo dispositivo
 vpn-landing-desc = Utilizza { -brand-name-mozilla-vpn } per la protezione completa di tutte le applicazioni del dispositivo. Grazie alla disponibilità di server in più di { $countries } Paesi, puoi connetterti ovunque, da qualsiasi luogo.
 vpn-landing-powerful-privacy-for-peace = Privacy potenziata per la massima tranquillità
 vpn-landing-whats-a-vpn = Che cos’è una VPN?
-vpn-landing-a-virtual-private-network-protects = Una rete privata virtuale protegge la tua connessione a Internet e mantiene la riservatezza della tua posizione e delle tue attività online su tutti i tuoi dispositivi.
+vpn-landing-a-virtual-private-network-protects = Una rete privata virtuale protegge la tua connessione a Internet e mantiene riservate la tua posizione e le tue attività online su tutti i tuoi dispositivi.
 vpn-landing-see-all-the-ways-mozilla-vpn = Scopri tutti i modi in cui { -brand-name-mozilla-vpn } ti protegge.
 vpn-landing-how-a-vpn-helps-you = In che modo una VPN può aiutarti
 vpn-landing-keeps-your-data-safe = Mantiene i tuoi dati al sicuro quando utilizzi reti Wi-Fi pubbliche
 vpn-landing-log-in-to-your-bank-or = Accedi alla tua banca o al portale dello studio medico dall’aeroporto, dal bar o da qualsiasi luogo, in tutta tranquillità.
 vpn-landing-blocks-advertisers-from = Impedisce agli inserzionisti di tracciarti con le loro pubblicità
 vpn-landing-hide-your-activity-from = Proteggi la tua attività da elementi traccianti e malware, così da poter fare acquisti senza essere osservato.
-vpn-landing-helps-you-access-global = Accesso a contenuti globali
+vpn-landing-helps-you-access-global = Consente l’accesso a contenuti globali
 vpn-landing-check-out-streaming-media = Guarda contenuti multimediali in streaming, siti web e live streaming di altri Paesi mentre sei in viaggio o a casa.
 vpn-landing-features = Caratteristiche
 # Variables:
