@@ -13,9 +13,15 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: proteggi il tuo dispositivo
 vpn-landing-desc = Utilizza { -brand-name-mozilla-vpn } per la protezione completa di tutte le applicazioni del dispositivo. Grazie alla disponibilità di server in più di { $countries } Paesi, puoi connetterti ovunque, da qualsiasi luogo.
 vpn-landing-powerful-privacy-for-peace = Privacy potenziata per la massima tranquillità
 vpn-landing-whats-a-vpn = Che cos’è una VPN?
+vpn-landing-a-virtual-private-network-protects = Una rete privata virtuale protegge la tua connessione a Internet e mantiene la riservatezza della tua posizione e delle tue attività online su tutti i tuoi dispositivi.
 vpn-landing-see-all-the-ways-mozilla-vpn = Scopri tutti i modi in cui { -brand-name-mozilla-vpn } ti protegge.
+vpn-landing-how-a-vpn-helps-you = In che modo una VPN può aiutarti
 vpn-landing-keeps-your-data-safe = Mantiene i tuoi dati al sicuro quando utilizzi reti Wi-Fi pubbliche
 vpn-landing-log-in-to-your-bank-or = Accedi alla tua banca o al portale dello studio medico dall’aeroporto, dal bar o da qualsiasi luogo, in tutta tranquillità.
+vpn-landing-blocks-advertisers-from = Impedisce agli inserzionisti di tracciarti con le loro pubblicità
+vpn-landing-hide-your-activity-from = Proteggi la tua attività da elementi traccianti e malware, così da poter fare acquisti senza essere osservato.
+vpn-landing-helps-you-access-global = Accesso a contenuti globali
+vpn-landing-check-out-streaming-media = Guarda contenuti multimediali in streaming, siti web e live streaming di altri Paesi mentre sei in viaggio o a casa.
 vpn-landing-features = Caratteristiche
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -24,10 +30,21 @@ vpn-landing-connect-up-to-devices =
         [one] Possibilità di connettere fino a { $devices } dispositivo
        *[other] Possibilità di connettere fino a { $devices } dispositivi
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Oltre { $servers } server in più di { $countries } Paesi
+       *[other] Oltre { $servers } server in più di { $countries } Paesi
+    }
+vpn-landing-fast-network-speeds-even-while = Rete veloce anche per i giochi online
 vpn-landing-no-logging-tracking-or-sharing = Nessuna registrazione, tracciamento o condivisione dei dati di rete
+vpn-landing-no-bandwidth-restrictions-or = Nessuna limitazione o restrizione della larghezza di banda
 vpn-landing-extra-security-whole-device = Sicurezza extra: protezione dell’intero dispositivo, indirizzamento multi-hop e altro ancora
 vpn-landing-see-all-features = Visualizza tutte le caratteristiche
 vpn-landing-fram-a-brand-you-can-trust = Da un marchio di cui ti puoi fidare
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } è una società internet senza fini di lucro che si batte per un Web sicuro dal 1998.
 vpn-landing-one-subscription-for-all-your = Un abbonamento per tutti i tuoi dispositivi
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Realizzato da { -brand-name-mozilla }.</strong> Dal 1998 ci battiamo per il tuo diritto alla privacy.
