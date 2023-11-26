@@ -62,3 +62,18 @@ vpn-features-trustworthy = Fiable
 vpn-features-money-back = 30 días de garantía de reembolso
 vpn-features-plus-customer-support = Además de atención al cliente 24 horas al día, 7 días por semana.
 vpn-features-we-never-log = Nunca registramos, rastreamos ni compartimos tus datos de red
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = En pocas palabras, no recopilamos tu información personal de navegación. Esta es nuestra <a { $privacy }>política de privacidad fácil de leer</a>.
+vpn-features-built-transparently = Realizada de forma transparente en código abierto
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } está hecho con código abierto, lo que significa que todo el código es accesible públicamente. Mira nuestro <a { $github }>repositorio de GitHub</a>.
+vpn-features-reviewed-by-third = Revisado por expertos en seguridad externos
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Hemos sido auditados por Cure53, una firma líder en auditorías de ciberseguridad. <a { $report }>Consulta el informe aquí</a>.
+vpn-features-people-over-profits = La gente por encima de las ganancias
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Estamos respaldados por <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, una organización sin ánimo de lucro que lucha por mantener la web abierta y saludable para todas las personas.
