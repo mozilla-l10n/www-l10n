@@ -9,6 +9,15 @@ vpn-pricing-page-title = Τιμολόγηση - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Μία συνδρομή για όλες τις συσκευές σας
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Πρόσβαση σε { $servers } διακομιστή σε { $countries }+ χώρες
+       *[other] Πρόσβαση σε { $servers } διακομιστές σε { $countries }+ χώρες
+    }
+vpn-pricing-money-back = Εγγύηση επιστροφής χρημάτων 30 ημερών (μόνο για νέους πελάτες)
 vpn-pricing-annual = Ετήσια
 vpn-pricing-monthly = Μηνιαία
 vpn-pricing-get-annual-subscription = Απόκτηση ετήσιας συνδρομής
