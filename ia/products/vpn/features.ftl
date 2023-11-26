@@ -72,7 +72,7 @@ vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } es produci
 vpn-features-reviewed-by-third = Revidite per expertes de securitate de tertie-parte
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
-vpn-features-weve-been-audited = Nos ha essite verificate per Cure53, un eminente interprisa de verification del cybersecuritate. <a { $reportar }>Vide le reporto ci</a>
+vpn-features-weve-been-audited = Nos ha essite verificate per Cure53, un eminente interprisa de verification del cybersecuritate. <a { $report }>Vide le reporto ci</a>
 vpn-features-people-over-profits = Le personas plus que le profitos
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
