@@ -10,7 +10,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: სრულად დაიც
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-desc = გამოიყენეთ { -brand-name-mozilla-vpn }, მოწყობილობის სრული დაცვით, ყველა აპისთვის. სერვერებით { $countries }+ ქვეყანაში, შეგიძლიათ დაუკავშირდეთ ნებისმიერ ადგილს, ნებისმიერი ადგილიდან.
+vpn-landing-desc = გამოიყენეთ { -brand-name-mozilla-vpn } მოწყობილობის სრული დაცვით ყველა პროგრამისთვის. სერვერებით { $countries }-ზე მეტ ქვეყანაში, შეგიძლიათ წვდომა გქონდეთ ნებისმიერ მხარეში ნებისმიერი მხარედან.
 vpn-landing-powerful-privacy-for-peace = მძლავრი უსაფრთხოება სიმშვიდისთვის
 vpn-landing-whats-a-vpn = რა არის VPN?
 vpn-landing-a-virtual-private-network-protects = წარმოსახვითი კერძო ქსელი იცავს თქვენს კავშირს ქსელთან და არ ამხელს, თუ სად იმყოფებით ან რას საქმიანობით ინტერნეტში ნებისმიერი მოწყობილობით სარგებლობისას.
@@ -27,8 +27,8 @@ vpn-landing-features = შესაძლებლობები
 #   $devices (number) - number of devices users can connect to VPN
 vpn-landing-connect-up-to-devices =
     { $devices ->
-        [one] დააკავშირეთ { $devices } მოწყობილობა
-       *[other] დააკავშირეთ { $devices }-ამდე მოწყობილობა
+        [one] დააკავშირეთ { $devices } მოწყობილობამდე
+       *[other] დააკავშირეთ { $devices } მოწყობილობამდე
     }
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -43,13 +43,13 @@ vpn-landing-no-logging-tracking-or-sharing = აღრიცხვების, 
 vpn-landing-no-bandwidth-restrictions-or = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
 vpn-landing-extra-security-whole-device = დამატებითი უსაფრთხოება: მთლიანი მოწყობილობის დაცვა, მრავალკვანძიანი დამისამართება და სხვა
 vpn-landing-see-all-features = იხილეთ ყველა შესაძლებლობა
-vpn-landing-fram-a-brand-you-can-trust = ბრენდი, რომელსაც შეგიძლიათ ენდოთ
+vpn-landing-fram-a-brand-you-can-trust = სახელი, რომელსაც შეგიძლიათ ენდოთ
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } არამომგებიანი ინტერნეტკომპანიაა, რომელიც ჯანსაღი ინტერნეტისთვის იბრძვის 1998 წლიდან.
 vpn-landing-one-subscription-for-all-your = ერთი ხელშეკრულება ყველა მოწყობილობისთვის
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>უზრუნველმყოფია { -brand-name-mozilla }.</strong> ბრძოლა თქვენი პირადი მონაცემების უსაფრთხოებისთვის 1998 წლიდან.
-vpn-landing-learn-more-from-our-experts = შეიტყვეთ მეტი ჩვენი ექსპერტებისგან
-vpn-landing-do-you-need-a-vpn-at-home = გჭირდებათ VPN სახლში? აი 5 მიზეზი, რის გამოც შეიძლება.
+vpn-landing-learn-more-from-our-experts = ვრცლად ჩვენი სპეციალისტებისგან
+vpn-landing-do-you-need-a-vpn-at-home = გჭირდებათ კი VPN სახლში? აქაა 5 მიზეზი, თუ რატომაც.
 vpn-landing-what-is-an-ip-address = რა არის IP მისამართი?
-vpn-landing-how-your-location-is-tracked = როგორ ადევნებთ თვალს თქვენს მდებარეობას და როგორ შეგიძლიათ შეზღუდოთ გაზიარება
-vpn-landing-see-more-resources = იხილეთ მეტი რესურსი
+vpn-landing-how-your-location-is-tracked = როგორ ადევნებენ თვალს თქვენს მდებარეობას და როგორ შეგიძლიათ შეზღუდოთ მისი გამჟღავნება
+vpn-landing-see-more-resources = იხილეთ მეტი მასალა

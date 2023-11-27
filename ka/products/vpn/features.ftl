@@ -16,26 +16,26 @@ vpn-features-convenient = მოსახერხებელი
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] მეტი { $servers } სერვერი { $countries }+ ქვეყანაში
-       *[other] მეტი { $servers } სერვერი { $countries }+ ქვეყანაში
+        [one] არანაკლებ { $servers } სერვერი { $countries }-ზე მეტ ქვეყანაში
+       *[other] არანაკლებ { $servers } სერვერი { $countries }-ზე მეტ ქვეყანაში
     }
 vpn-features-see-our-list = იხილეთ ჩვენი სერვერების სია.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
     { $devices ->
-        [one] დაუკავშირეთ { $devices } მოწყობილობას
-       *[other] კავშირი { $devices } მოწყობილობამდე
+        [one] დააკავშირეთ { $devices } მოწყობილობამდე
+       *[other] დააკავშირეთ { $devices } მოწყობილობამდე
     }
 vpn-features-supported-platforms = მხარდაჭერილია Windows, macOS, Android, iOS და Linux საოპერაციო სისტემებზე.
-vpn-features-no-bandwidth = არანაირი გამტარუნარიანობა ან გამტარუნარიანობა
-vpn-features-including-no-data = მათ შორის მონაცემების შეზღუდვის ან სიჩქარის შეზღუდვის გარეშე.
-vpn-features-fast-network = ქსელის სწრაფი სიჩქარე თამაშის დროსაც
+vpn-features-no-bandwidth = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
+vpn-features-including-no-data = აგრეთვე მონაცემების ზღვრებისა და სიჩქარის შემცირების გარეშე.
+vpn-features-fast-network = სწრაფი კავშირი ქსელთან თამაშის დროსაც კი
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } იყენებს <a { $wireguard }>Wireguard</a>™, ერთ-ერთ ყველაზე მდგრად VPN-ოქმს.
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn }-ს უზრუნველყოფს <a { $wireguard }>Wireguard</a>™, ერთ-ერთ ყველაზე მდგრადი VPN-ოქმი.
 vpn-features-secure = დაცული
-vpn-features-block-ads = შეზღუდეთ რეკლამის განმთავსებლები თქვენზე გათვლილი მიზნებისგან
+vpn-features-block-ads = სარეკლამოებს უზღუდავს თქვენზე გამიზნულ ზემოქმედებას
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } დაგეხმარებათ ავტომატურად შეზღუდოთ სარეკლამო და სარეკლამო მეთვალყურეები, თქვენი მოქმედებების ნახვაში.
 vpn-features-encrypt-your-internet = დაშიფრეთ მთელი თქვენი ინტერნეტ ტრაფიკი
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } მხოლოდ ბრაუზერის არა, ყველა პროგრამას იცავს.
