@@ -18,9 +18,9 @@ vpn-landing-see-all-the-ways-mozilla-vpn = გაეცანით ყველ
 vpn-landing-how-a-vpn-helps-you = როგორ გეხმარებათ VPN
 vpn-landing-keeps-your-data-safe = უზრუნველყოფს თქვენს მონაცემების უსაფრთხოებას საჯარო WiFi-ქსელში
 vpn-landing-log-in-to-your-bank-or = ეწვიეთ საბანკო ანგარიშს ან პირადი ექიმის კაბინეტს აეროპორტიდან, კაფედან ან ნებისმიერი ადგილიდან აუღელვებლად.
-vpn-landing-blocks-advertisers-from = რეკლამის შემქმნელებს უზღუდავს თქვენზე გათვლის საშუალებას
-vpn-landing-hide-your-activity-from = დაფარეთ თქვენი მოქმედებები მეთვალყურეებისა და მავნე პროგრამებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
-vpn-landing-helps-you-access-global = გეხმარებათ გლობალურ შიგთავსთან წვდომაში
+vpn-landing-blocks-advertisers-from = სარეკლამოებს უზღუდავს თქვენზე გამიზნულ მოქმედებებს
+vpn-landing-hide-your-activity-from = ფარავს თქვენი საქმიანობას მეთვალყურეებისა და მავნებლებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
+vpn-landing-helps-you-access-global = გეხმარებათ საერთაშორისო მასალებთან წვდომაში
 vpn-landing-check-out-streaming-media = შეამოწმეთ ნაკადი მედია, ვებსაიტები და პირდაპირი ეთერი სხვა ქვეყნებიდან, მოგზაურობისას ან სახლში.
 vpn-landing-features = შესაძლებლობები
 # Variables:
