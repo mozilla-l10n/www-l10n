@@ -44,7 +44,7 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } ა�
 vpn-features-super-private-mode = ზეპირადული რეჟიმი: მონაცემთა გატარება ორი კვანძის მეშვეობით
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = ჩვენს <a { $feature }>მრავალკვანძიან</a> დამისამართებას ახალ საფეხურზე აჰყავს თქვენი უსაფრთხოეება.
+vpn-features-multi-hop-feature = ჩვენს <a { $feature }>მრავალკვანძიან</a> დამისამართებას ახალ საფეხურზე აჰყავს თქვენი უსაფრთხოება.
 vpn-features-support-for-custom-dns = მორგებული DNS-ის მხარდაჭერა
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
