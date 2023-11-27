@@ -15,7 +15,7 @@ firefox-browsers-page-desc = Wähle Desktop, { -brand-name-ios }, { -brand-name-
 firefox-browsers-get-the-browsers-strong = <strong>Browser</strong>, bei denen deine Privatsphäre an erster Stelle steht
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Holen Sie sich den Browser, der Ihre Privatsphäre an erster Stelle steht – schon <strong>immer</strong>
+firefox-browsers-get-the-browsers-strong-v2 = Hol dir den Browser, für den deine Privatsphäre seit Tag eins an erster Stelle steht
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Wirklich privat surfen. { -brand-name-firefox } hält ganz automatisch mehr als 2 000 Online-Tracker davon ab, ungefragt Informationen über deine Online-Aktivitäten zu sammeln.
 firefox-browsers-download-for-desktop = Für Desktop herunterladen
