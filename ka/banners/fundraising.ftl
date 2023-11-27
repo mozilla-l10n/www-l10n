@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/
 
 # Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
-banner-fundraising-giving-tuesday-title = შემოწირეთ { -brand-name-mozilla }-ს, შემოწირულობის სანაცვლოდ
-banner-fundraising-giving-tuesday-tagline = დროა დაიბრუნოთ ინტერნეტი დიდი ტექნოლოგიებისგან. შეგიძლიათ { -brand-name-mozilla }-ში შემოწირულობა გაიღოთ მხურვალე სამშაბათისთვის?
+banner-fundraising-giving-tuesday-title = შემოწირეთ { -brand-name-mozilla }-ს მადლიერების სამშაბათს
+banner-fundraising-giving-tuesday-tagline = დროა მოითხოვოთ ინტერნეტის მართვის სადავეების დაბრუნება დიდი კომპანიებისგან. მზად ხართ, შესწიროთ თანხა { -brand-name-mozilla }-ს მადლიერების სამშაბათისთვის?
 banner-fundraising-title-1 = შემოწირულობა { -brand-name-mozilla }-სთვის. დაიბრუნეთ ინტერნეტი.
-banner-fundraising-tagline-1 = დროა დაუბრუნოთ ინტერნეტი დიდ ტექნოლოგიებს. შეგიძლიათ { -brand-name-mozilla }-სთვის შემოწირულობის გაღება?
-banner-fundraising-title-2 = დაიბრუნეთ ინტერნეტის მართვა.
-banner-fundraising-tagline-2 = ხალხი აღარ მართავს ინტერნეტს. დიდი ტექ. შემოწირეთ { -brand-name-mozilla }-ს და დაიბრუნეთ ინტერნეტი.
-banner-fundraising-title-3 = შეგიძლიათ { -brand-name-mozilla }-სთვის შემოწირულობის გაღება?
+banner-fundraising-tagline-1 = დროა დაიბრუნოთ ინტერნეტის მართვის სადავეები დიდი კომპანიებისგან. მზად ხართ, შესწიროთ თანხა { -brand-name-mozilla }-ს მადლიერების სამშაბათისთვის?
+banner-fundraising-title-2 = დაიბრუნეთ ინტერნეტის მართვის სადავეები.
+banner-fundraising-tagline-2 = ხალხის მართვის ქვეშ აღარაა ინტერნეტი, მხოლოდ — დიდი ტექკომპანიების. გაიღეთ თანხა { -brand-name-mozilla }-სთვის და დაიბრუნეთ ინტერნეტი.
+banner-fundraising-title-3 = მზად ხართ, გაიღოთ შემოწირულობა { -brand-name-mozilla }-სთვის?
 banner-fundraising-tagline-3 = { -brand-name-mozilla } ყოველთვის ხალხს აყენებს მოგებაზე წინ. შემოწირეთ { -brand-name-mozilla }-ს და დაგვეხმარეთ ინტერნეტის სიჯანსაღის შენარჩუნებაში.
 banner-fundraising-donate = შემოწირულობა
