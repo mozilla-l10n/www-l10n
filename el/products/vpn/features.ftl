@@ -37,6 +37,7 @@ vpn-features-mozilla-vpn-uses-wireguard = Το { -brand-name-mozilla-vpn } χρ�
 vpn-features-secure = Ασφαλές
 vpn-features-block-ads = Αποκλεισμός παρακολούθησης από διαφημιστές
 vpn-features-automatically-block-ads = Το { -brand-name-mozilla-vpn } σάς βοηθά να εμποδίζετε αυτόματα τις διαφημίσεις και τους ιχνηλάτες από το να βλέπουν τη δραστηριότητά σας στο διαδίκτυο.
+vpn-features-encrypt-your-internet = Κρυπτογράφηση όλης της διαδικτυακής σας κίνησης
 vpn-features-vpn-protects-all-apps = Το { -brand-name-mozilla-vpn } προστατεύει όλες τις εφαρμογές στη συσκευή σας, όχι μόνο το πρόγραμμα περιήγησής σας.
 vpn-features-stronger-malware = Ισχυρότερη προστασία από κακόβουλο λογισμικό
 vpn-features-vpn-prevents-downloading-malware = Το { -brand-name-mozilla-vpn } σάς αποτρέπει από τη λήψη κακόβουλου λογισμικού από γνωστές μη ασφαλείς πηγές.
