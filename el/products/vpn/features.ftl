@@ -41,16 +41,30 @@ vpn-features-encrypt-your-internet = Κρυπτογράφηση όλης της 
 vpn-features-vpn-protects-all-apps = Το { -brand-name-mozilla-vpn } προστατεύει όλες τις εφαρμογές στη συσκευή σας, όχι μόνο το πρόγραμμα περιήγησής σας.
 vpn-features-stronger-malware = Ισχυρότερη προστασία από κακόβουλο λογισμικό
 vpn-features-vpn-prevents-downloading-malware = Το { -brand-name-mozilla-vpn } σάς αποτρέπει από τη λήψη κακόβουλου λογισμικού από γνωστές μη ασφαλείς πηγές.
+vpn-features-super-private-mode = Υπερ-ιδιωτική λειτουργία: δρομολόγηση κίνησης μέσω δύο τοποθεσιών
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Η <a { $feature }>πολυβηματική λειτουργία</a> σάς παρέχει ένα επιπλέον επίπεδο ασφαλείας.
 vpn-features-support-for-custom-dns = Υποστήριξη για προσαρμοσμένο DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Με το { -brand-name-mozilla-vpn }, μπορείτε να διατηρήσετε την κίνηση δικτύου σας ασφαλή και να συνεχίσετε να δρομολογείτε τα αιτήματα DNS σας όπου προτιμάτε. <a { $dns }>Μάθετε περισσότερα σχετικά με την υποστήριξη προσαρμοσμένου DNS</a>.
 vpn-features-flexible = Ευέλικτο
 vpn-features-personalized-server = Εξατομικευμένες προτάσεις τοποθεσίας διακομιστή
 vpn-features-well-suggest-which-servers = Προτείνουμε κοντινούς σε εσάς διακομιστές που θα εξασφαλίσουν την ταχύτερη και πιο αξιόπιστη σύνδεση στο διαδίκτυο.
 vpn-features-personalize-which-apps = Εξατομίκευση προστασίας VPN ανά εφαρμογή
+vpn-features-easily-exclude-apps = Εξαιρέστε εύκολα εφαρμογές από την προστασία VPN, χωρίς να αποσυνδέσετε τη συσκευή σας από το { -brand-name-mozilla-vpn }. Διατίθεται για συσκευές με Windows, Android και Linux.
 vpn-features-set-different-locations = Ορίστε διαφορετική τοποθεσία για κάθε καρτέλα στο { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Συνδυάστε το { -brand-name-mozilla-vpn } με την επέκταση «Multi-Account Containers» του { -brand-name-firefox } και ορίστε διαφορετική τοποθεσία VPN ανά καρτέλα. <a { $containers }>Μάθετε πώς</a>.
 vpn-features-trustworthy = Αξιόπιστο
 vpn-features-money-back = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-features-plus-customer-support = Και επιπλέον, υποστήριξη πελατών 24/7.
 vpn-features-we-never-log = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Με απλά λόγια, δεν συλλέγουμε τις προσωπικές σας πληροφορίες περιήγησης. Δείτε την, εύκολη στην ανάγνωση, <a { $privacy }>πολιτική απορρήτου</a> μας.
 vpn-features-built-transparently = Φτιαγμένο με διαφάνεια σε ανοικτό κώδικα
 vpn-features-reviewed-by-third = Με αξιολογήσεις από τρίτους ειδικούς ασφάλειας
 vpn-features-people-over-profits = Οι άνθρωποι πάνω από τα κέρδη
