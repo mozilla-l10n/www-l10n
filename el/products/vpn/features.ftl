@@ -66,5 +66,8 @@ vpn-features-we-never-log = Δεν καταγράφουμε και δεν κοι
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Με απλά λόγια, δεν συλλέγουμε τις προσωπικές σας πληροφορίες περιήγησης. Δείτε την, εύκολη στην ανάγνωση, <a { $privacy }>πολιτική απορρήτου</a> μας.
 vpn-features-built-transparently = Φτιαγμένο με διαφάνεια σε ανοικτό κώδικα
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = Το { -brand-name-mozilla-vpn } είναι λογισμικό ανοικτού κώδικα, πράγμα που σημαίνει ότι όλος ο κώδικας είναι δημόσια προσβάσιμος. Δείτε το <a { $github }>αποθετήριό μας στο GitHub</a>.
 vpn-features-reviewed-by-third = Με αξιολογήσεις από τρίτους ειδικούς ασφάλειας
 vpn-features-people-over-profits = Οι άνθρωποι πάνω από τα κέρδη

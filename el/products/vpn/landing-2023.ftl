@@ -13,10 +13,14 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Ολική προστασία �
 vpn-landing-desc = Χρησιμοποιήστε το { -brand-name-mozilla-vpn } για ολική προστασία της συσκευής και όλων των εφαρμογών σας. Με διακομιστές σε { $countries }+ χώρες, μπορείτε να συνδεθείτε παντού, από παντού.
 vpn-landing-powerful-privacy-for-peace = Ισχυρό απόρρητο για να έχετε το κεφάλι σας ήσυχο
 vpn-landing-whats-a-vpn = Τι είναι ένα VPN;
+vpn-landing-a-virtual-private-network-protects = Ένα εικονικό ιδιωτικό δίκτυο προστατεύει τη σύνδεσή σας στο διαδίκτυο, διατηρώντας την τοποθεσία και τη δραστηριότητά σας πιο ιδιωτικές στις συσκευές σας.
 vpn-landing-see-all-the-ways-mozilla-vpn = Δείτε όλους τους τρόπους με τους οποίους σας προστατεύει το { -brand-name-mozilla-vpn }.
 vpn-landing-how-a-vpn-helps-you = Πώς σας βοηθά ένα VPN
 vpn-landing-keeps-your-data-safe = Διατηρεί τα δεδομένα σας ασφαλή σε δημόσια Wi-Fi
-vpn-landing-blocks-advertisers-from = Αποκλείει την παρακολούθηση από διαφημιστές
+vpn-landing-log-in-to-your-bank-or = Συνδεθείτε στην τράπεζα ή τον ιστότοπο του γιατρού σας από το αεροδρόμιο, την καφετέρια ή οπουδήποτε αλλού, με ασφάλεια.
+vpn-landing-blocks-advertisers-from = Αποκλείει την καταγραφή από διαφημιστές
+vpn-landing-hide-your-activity-from = Αποκρύψτε τη δραστηριότητά σας από ιχνηλάτες και κακόβουλο λογισμικό, ώστε να κάνετε αγορές χωρίς να σας παρακολουθούν.
+vpn-landing-helps-you-access-global = Σας βοηθά στην πρόσβαση σε παγκόσμιο περιεχόμενο
 vpn-landing-check-out-streaming-media = Δείτε τις πλατφόρμες streaming, τους ιστοτόπους και τις ζωντανές ροές από άλλες χώρες ενώ ταξιδεύετε ή είστε στο σπίτι.
 vpn-landing-features = Δυνατότητες
 # Variables:
@@ -38,6 +42,8 @@ vpn-landing-fast-network-speeds-even-while = Γρήγορες ταχύτητες
 vpn-landing-no-bandwidth-restrictions-or = Χωρίς περιορισμούς εύρους ζώνης ή καθυστερήσεις
 vpn-landing-fram-a-brand-you-can-trust = Από μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-landing-one-subscription-for-all-your = Μία συνδρομή για όλες τις συσκευές σας
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Με την υποστήριξη της { -brand-name-mozilla }.</strong> Αγωνιζόμαστε για το δικαίωμά σας στο απόρρητο από το 1998.
 vpn-landing-learn-more-from-our-experts = Μάθετε περισσότερα από τους ειδικούς μας
 vpn-landing-what-is-an-ip-address = Τι είναι μια διεύθυνση IP;
 vpn-landing-how-your-location-is-tracked = Πώς παρακολουθείται η τοποθεσία σας και πώς μπορείτε να περιορίσετε την κοινοποίησή της
