@@ -39,12 +39,17 @@ vpn-landing-more-than-servers-in-countries =
        *[other] Πάνω από { $servers } διακομιστές σε { $countries }+ χώρες
     }
 vpn-landing-fast-network-speeds-even-while = Γρήγορες ταχύτητες δικτύου ακόμα και στα παιχνίδια
+vpn-landing-no-logging-tracking-or-sharing = Χωρίς παρακολούθηση, καταγραφή ή κοινοποίηση δεδομένων δικτύου
 vpn-landing-no-bandwidth-restrictions-or = Χωρίς περιορισμούς εύρους ζώνης ή καθυστερήσεις
+vpn-landing-extra-security-whole-device = Πρόσθετη ασφάλεια: ολική προστασία συσκευής, πολυβηματική δρομολόγηση και πολλά άλλα
+vpn-landing-see-all-features = Δείτε όλες τις δυνατότητες
 vpn-landing-fram-a-brand-you-can-trust = Από μια επωνυμία που μπορείτε να εμπιστευτείτε
+vpn-landing-mozilla-is-a-non-profit-backed = Η { -brand-name-mozilla } είναι μια μη κερδοσκοπική εταιρεία διαδικτύου που αγωνίζεται για ένα υγιές διαδίκτυο από το 1998.
 vpn-landing-one-subscription-for-all-your = Μία συνδρομή για όλες τις συσκευές σας
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Με την υποστήριξη της { -brand-name-mozilla }.</strong> Αγωνιζόμαστε για το δικαίωμά σας στο απόρρητο από το 1998.
 vpn-landing-learn-more-from-our-experts = Μάθετε περισσότερα από τους ειδικούς μας
+vpn-landing-do-you-need-a-vpn-at-home = Είναι απαραίτητο το VPN στο σπίτι; Δείτε 5 λόγους για τους οποίους είναι.
 vpn-landing-what-is-an-ip-address = Τι είναι μια διεύθυνση IP;
 vpn-landing-how-your-location-is-tracked = Πώς παρακολουθείται η τοποθεσία σας και πώς μπορείτε να περιορίσετε την κοινοποίησή της
 vpn-landing-see-more-resources = Δείτε περισσότερους πόρους

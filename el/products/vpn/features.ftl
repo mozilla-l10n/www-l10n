@@ -70,4 +70,10 @@ vpn-features-built-transparently = Φτιαγμένο με διαφάνεια σ
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = Το { -brand-name-mozilla-vpn } είναι λογισμικό ανοικτού κώδικα, πράγμα που σημαίνει ότι όλος ο κώδικας είναι δημόσια προσβάσιμος. Δείτε το <a { $github }>αποθετήριό μας στο GitHub</a>.
 vpn-features-reviewed-by-third = Με αξιολογήσεις από τρίτους ειδικούς ασφάλειας
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Έχουμε ελεγχθεί από την Cure53, μια κορυφαία εταιρεία ελέγχου στον τομέα της κυβερνοασφάλειας. <a { $report }>Δείτε εδώ την αναφορά.</a>
 vpn-features-people-over-profits = Οι άνθρωποι πάνω από τα κέρδη
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Υποστηριζόμαστε από το <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, έναν μη κερδοσκοπικό οργανισμό που μάχεται για να διατηρήσει το διαδίκτυο ανοικτό και υγιές για όλους τους ανθρώπους.
