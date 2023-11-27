@@ -8,13 +8,9 @@
 firefox-products-are = Продукти { -brand-name-firefox } створено для захисту вашої приватности
 learn-more-about-firefox = Докладніше про { -brand-name-firefox }, його історію, функції та місію
 learn-more-about = Дізнайтеся докладніше про браузери та інші продукти { -brand-name-firefox }, які поводяться з вашими даними відповідально й створені для забезпечення вашої приватности в Інтернеті.
-learn-more-faq = ЧАП { -brand-name-firefox }
+learn-more-faq = Поширені запитання про { -brand-name-firefox }
 the-history-of = Історія браузерів
 firefox-has-been = { -brand-name-firefox } існує майже з самого початку Інтернету.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Бунтар з метою
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } — незалежний браузер, підтримуваний некомерційною організацією { -brand-name-mozilla } яка бореться за ваші права в Інтернеті та робить Інтернет доступним для кожного та скрізь.
 what-is-a = Що таке браузер?
 a-web-browser = Браузер переносить вас до будь-якого куточку Інтернету і дає вам змогу переглядати текст, зображення та відео де б ви не знаходилися.
 update-your-browser = Оновіть свій браузер до швидкого, безпечного та захищеного { -brand-name-firefox }.
@@ -61,10 +57,6 @@ firefox-more-protection = { -brand-name-firefox }: Більше захисту. 
 were-obsessed-with = Ми одержимі захистом вашої приватності. Ось чому ми зробили приватний перегляд у { -brand-name-firefox } потужнішим, ніж в інших браузерах.
 incognito-browser-what = Анонімний режим: Що це насправді означає
 firefox-calls-it = { -brand-name-firefox } називає це приватним переглядом, { -brand-name-chrome } — режимом анонімного перегляду. Обидва дозволяють переглядати вебсторінки, не зберігаючи історію перегляду.
-# Obsolete string
-take-the-stress = Позбудьтеся переживань про пошук безпечного браузера.
-# Obsolete string
-building-a-safe = Створення безпечного браузера — це мистецтво і наука, оскільки встановлених правил не існує.
 firefox-more-fingerprinter-blocking = Блокування зчитування цифрового відбитка
 firefox-more-fingerprinting-is-a = Зчитування цифрового відбитка — це тип мережного стеження, який є значно проникливішим за звичайне стеження на основі кук — саме тому { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } блокує його.
 firefox-more-translate-the-web = Перекладіть Мережу

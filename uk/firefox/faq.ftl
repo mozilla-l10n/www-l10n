@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = ЧАП { -brand-name-firefox }
-whether-you-searched-privacy = Якщо ви шукали швидкий браузер, який захищає вашу приватність, цей розділ частих питань тут і відповідає на найактуальніші питання, пов’язані з { -brand-name-firefox }.
-whether-you-searched-independant = Незалежно від того, чи шукали ви швидкий переглядач, чи шукаєте незалежну технологію, яка захищає вашу приватність, ці ЧаПи дають відповіді на найактуальніші запитання, пов’язані з { -brand-name-firefox }.
+firefox-faq = Поширені запитання про { -brand-name-firefox }
+whether-you-searched-privacy = Якщо ви шукали швидкий браузер, який захищає вашу приватність, у цьому розділі поширених запитань ви знайдете відповіді, пов'язані з { -brand-name-firefox }.
+whether-you-searched-independant = Незалежно від того, чи шукали ви швидкий браузер, чи шукаєте незалежну технологію, яка захищає вашу приватність, ці поширені запитання дають відповіді, пов'язані з { -brand-name-firefox }.
 what-is-firefox = Що таке { -brand-name-firefox }?
 
 # Variables:
