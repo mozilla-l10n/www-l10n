@@ -13,15 +13,15 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: სრულად დაიც
 vpn-landing-desc = გამოიყენეთ { -brand-name-mozilla-vpn } მოწყობილობის სრული დაცვით ყველა პროგრამისთვის. სერვერებით { $countries }-ზე მეტ ქვეყანაში, შეგიძლიათ წვდომა გქონდეთ ნებისმიერ მხარეში ნებისმიერი მხარედან.
 vpn-landing-powerful-privacy-for-peace = მძლავრი უსაფრთხოება სიმშვიდისთვის
 vpn-landing-whats-a-vpn = რა არის VPN?
-vpn-landing-a-virtual-private-network-protects = წარმოსახვითი კერძო ქსელი იცავს თქვენს კავშირს ქსელთან და არ ამხელს, თუ სად იმყოფებით ან რას საქმიანობით ინტერნეტში ნებისმიერი მოწყობილობით სარგებლობისას.
+vpn-landing-a-virtual-private-network-protects = წარმოსახვითი კერძო ქსელი იცავს თქვენს კავშირს ქსელთან და არ ამხელს, თუ სად იმყოფებით ან რას საქმიანობთ ინტერნეტში ნებისმიერი მოწყობილობით სარგებლობისას.
 vpn-landing-see-all-the-ways-mozilla-vpn = გაეცანით ყველა საშუალებას, რომლითაც { -brand-name-mozilla-vpn } გიცავთ.
 vpn-landing-how-a-vpn-helps-you = როგორ გეხმარებათ VPN
-vpn-landing-keeps-your-data-safe = უზრუნველყოფს თქვენს მონაცემების უსაფრთხოებას საჯარო WiFi-ქსელში
+vpn-landing-keeps-your-data-safe = უზრუნველყოფს თქვენი მონაცემების უსაფრთხოებას საჯარო WiFi-ქსელში
 vpn-landing-log-in-to-your-bank-or = ეწვიეთ საბანკო ანგარიშს ან პირადი ექიმის კაბინეტს აეროპორტიდან, კაფედან ან ნებისმიერი ადგილიდან აუღელვებლად.
 vpn-landing-blocks-advertisers-from = სარეკლამოებს უზღუდავს თქვენ მიმართ გამიზნულ მოქმედებებს
-vpn-landing-hide-your-activity-from = ფარავს თქვენი საქმიანობას მეთვალყურეებისა და მავნებლებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
+vpn-landing-hide-your-activity-from = ფარავს თქვენს საქმიანობას მეთვალყურეებისა და მავნებლებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
 vpn-landing-helps-you-access-global = გეხმარებათ საერთაშორისო მასალებთან წვდომაში
-vpn-landing-check-out-streaming-media = მიიღეთ წვდომა ნაკადით გადაცემულ ფაილებთან, საიტებსა თუ პირდაპირ ეთერის გადაცემებთან სხვა ქვეყნებიდან, როცა მოგზაურობთ ან სახლში იმყოფებით.
+vpn-landing-check-out-streaming-media = მიიღეთ წვდომა ნაკადით გადაცემულ ფაილებთან, საიტებსა თუ პირდაპირი ეთერის გადაცემებთან სხვა ქვეყნებიდან, როცა მოგზაურობთ ან სახლში იმყოფებით.
 vpn-landing-features = შესაძლებლობები
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

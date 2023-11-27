@@ -69,7 +69,7 @@ vpn-features-built-transparently = გამჭვირვალედ აგ�
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } შექმნილია ღია წყაროს მქონე კოდით, რაც ნიშნავს, რომ საჯაროდაა ხელმისაწვდომი. ვრცლად იხილეთ ჩვენი <a { $github }>GitHub-საცავი</a>.
-vpn-features-reviewed-by-third = დამოწმებული უსაფრთხოების გარეშე სპეციალისტების მიერ
+vpn-features-reviewed-by-third = უსაფრთხოების გარეშე სპეციალისტების მიერ დამოწმებული
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = გავლილი გვაქვს შემოწმება, რომელსაც უზრუნველყოფს Cure53, კიბერუსაფრთხოების წამყვანი აუდიტორული დაწესებულება. <a { $report }>მოხსენება იხილეთ აქ</a>.
