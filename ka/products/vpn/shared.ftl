@@ -158,5 +158,5 @@ vpn-press-as-seen-in = როგორც აღნიშნავს
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = „{ -brand-name-mozilla }-ს VPN-ს ასევე შეუძლია <a { $attrs }>ჩაამატოს პირადულობის დაცვის მოსახერხებელი შესაძლებლობები</a> მისსავე { -brand-name-firefox }-ბრაუზერში“.
-vpn-press-unique-features-like-its-multi-account = “…უნიკალურმა მახასიათებლებმა, როგორიცაა Multi-Account Containers, შესაძლოა ეს შესაძლებლობა მარტივად ხელმისაწვდომი გახადოს მომხმარებლებისთვის, რომლებიც ზრუნავს პირადი მონაცემების უსაფრთხოებაზე.”
-vpn-press-mozilla-vpns-feature-list-has-grown = „{ -brand-name-mozilla-vpn }-ის შესაძლებლობების სია საგრძნობლად მოიმატა გამოშვების შემდგომ და ეს მომსახურება ახლა უკვე ბევრ სპეციალისტს VPN-ს აჯობა, ზოგიერთ სფეროში“.
+vpn-press-unique-features-like-its-multi-account = „…გამორჩეულ შესაძლებლობებს, მათ შორის მრავალანგარიშიან სათავსებს, შეუძლია აღნიშნული საშუალება უფრო ადვილად ხელმისაწვდომი გახადოს მომხმარებლებისთვის, რომელთაც მეტად აღელვებთ პირადი მონაცემების უსაფრთხოება“.
+vpn-press-mozilla-vpns-feature-list-has-grown = „{ -brand-name-mozilla-vpn } გაცილებით მეტ შესაძლებლობას შეიცავს გამოშვების შემდგომ და უკვე ბევრ გამოცდილ VPN-ს სჯობნის გარკვეულ საკითხებში“.

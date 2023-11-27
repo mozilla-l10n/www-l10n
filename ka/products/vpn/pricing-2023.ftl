@@ -10,12 +10,12 @@ vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = ერთი ხელშეკრულება ყველა მოწყობილობისთვის
 # Pricing section
-vpn-pricing-included-in-subscription = გამოწერილი:
+vpn-pricing-included-in-subscription = გამოწერისას შემოთავაზებულია:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [one] დაუკავშირეთ { $devices } მოწყობილობას
+        [one] კავშირი { $devices } მოწყობილობამდე
        *[other] კავშირი { $devices } მოწყობილობამდე
     }
 # Variables:
@@ -26,10 +26,10 @@ vpn-pricing-access =
         [one] წვდომა { $servers } სერვერზე { $countries }+ ქვეყანაში
        *[other] წვდომა { $servers } სერვერზე { $countries }+ ქვეყანაში
     }
-vpn-pricing-money-back = 30-დღიანი თანხის დაბრუნების გარანტია (მხოლოდ პირველი მომხმარებლებისთვის)
+vpn-pricing-money-back = 30-დღიანი თანხის ანაზღაურება (მხოლოდ პირველი მომხმარებლებისთვის)
 vpn-pricing-annual = ყოველწლიური
-vpn-pricing-monthly = ყოველთვიურად
-vpn-pricing-get-annual-subscription = მიიღეთ წლიური ხელმოწერა
+vpn-pricing-monthly = ყოველთვიური
+vpn-pricing-get-annual-subscription = მიიღეთ წლიური გამოწერა
 vpn-pricing-get-monthly-subscription = მიიღეთ ყოველთვიური გამოწერა
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ჯერ არაა ხელმისაწვდომი თქვენს ქვეყანაში
 # FAQs is short for Frequently Asked Questions
