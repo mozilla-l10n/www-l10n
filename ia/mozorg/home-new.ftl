@@ -7,21 +7,21 @@
 
 home-internet-for-people-not-profit = Internet pro personas, non pro ganio
 home-did-you-know-mozilla-the-maker = Sape tu? { -brand-name-mozilla } — le fabricante del { -brand-name-firefox } — lucta pro mantener Internet un global public ressource, aperte e accessibile a omnes.
-home-mission-driven = Ducite per mission. Supportate per personas.
-home-were-not-normal = Nos non es un normal compania technologic. Le cosas que nos crea confere prioritate al gente e a lor confidentialitate super le profitos.
+home-mission-driven = Guidate per mission. Sustenite per personas.
+home-were-not-normal = Nos non es un compania de technologia normal. Le cosas que nos crea da le prioritate al personas e a lor vita private, e non al profitos. Nostre scopo es facer de Internet un loco plus benefic e plus felice pro tote le mundo.
 # Quotes around string to represent it being a quote by Mitchell Baker
-home-the-health-of = “Le salute del internet e del vita online es le ration de nostre existentia.”
+home-the-health-of = “Le sanitate del internet e del vita in linea es nostre ration de esser.”
 home-mitchell-baker = Mitchell Baker, CEO de { -brand-name-mozilla }
-home-mozilla-makes-privacy = { -brand-name-mozilla } face productos respectuose del confidentialitate
+home-mozilla-makes-privacy = { -brand-name-mozilla } face productos que respecta le vita private
 home-product-firefox-browsing = Navigation private e secur
 home-cta-get-firefox = Discarga { -brand-name-firefox }
-home-product-pocket-articles = Le plus intrigante articulos del Web
+home-product-pocket-articles = Le articulos le plus intrigante del web
 home-cta-get-pocket = Obtene { -brand-name-pocket }
 home-product-relay-masks = Mascas de email e telephono facile a usar
 home-cta-get-relay = Obtene { -brand-name-relay }
-home-product-vpn-trust = Un VPN del qual tu pote fider te
+home-product-vpn-trust = Un VPN digne de fide
 home-cta-get-vpn = Installa { -brand-name-mozilla-vpn }
-home-mozilla-takes-bets = “{ -brand-name-mozilla } sponde pro monstrar al mundo que on pote facer negotios con intelligentia artificial digne de fide. Isto include poner al corde de como iste systemas complexe labora cosas como: derectos human, protection de datos e transparentia.”
+home-mozilla-takes-bets = “{ -brand-name-mozilla } risca multo pro monstrar al mundo que on pote facer negotios con intelligentia artificial digne de fide. Isto significa mitter le derectos human, le protection de datos e le transparentia al centro del functionamento de iste systemas complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-is-mozilla-a-corporation = Es { -brand-name-mozilla } un corporation o un organisation non-lucrative?
