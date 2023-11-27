@@ -36,12 +36,12 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ჯერ არა�
 vpn-pricing-faqs = ხ.დ.კ.
 vpn-pricing-refund-policy = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
 vpn-pricing-the-first-time-you = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
-vpn-pricing-if-you-purchased = თუ გამოწერა შეიძინეთ Apple App Store-იდან ან Google Play Store-იდან შიდა შენაძენით, თქვენი გადახდა ექვემდებარება მაღაზიის წესებსა და პირობებს. ანგარიშსწორების ან ანაზღაურების შესახებ მოთხოვნით, თქვენ უნდა მიმართოთ Apple-ს ან Google-ს, საჭიროებისამებრ.
+vpn-pricing-if-you-purchased = თუ გამოწერისთვის გამოიყენეთ Apple App Store ან Google Play Store და პროგრამის შიდა შესყიდვები, თქვენი შენაძენი ექვემდებარება მაღაზიის წესებსა და პირობებს. ანგარიშსწორების ან ანაზღაურების შესახებ მოთხოვნით უნდა მიმართოთ Apple-ს ან Google-ს შესაბამისად.
 vpn-pricing-what-information = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = ჩვენ მკაცრად ვიცავთ { -brand-name-mozilla }-ს <a { $principles }>მონაცემების კონფიდენციალურობის პრინციპებს</a>. ჩვენ ვაგროვებთ მხოლოდ საჭირო მონაცემებს, { -brand-name-mozilla-vpn }-ის მუშაობისთვის და დროთა განმავლობაში პროდუქტის გასაუმჯობესებლად. ასევე, ჩვენ ვადევნებთ თვალს კამპანიისა და მიმართვის მონაცემებს ჩვენს მობილურ პროგრამაზე, რომ { -brand-name-mozilla }-ს დავეხმაროთ გაიგოს, რამდენად შრომატევადია მარკეტინგული კამპანიები. ვრცლად, გაეცანით ჩვენს <a { $notice }>პირადულობის დებულებას</a>.
+vpn-pricing-we-adhere-strictly = ჩვენ მკაცრად ვიცავთ { -brand-name-mozilla }-ს <a { $principles }>დებულებებს მონაცემების პირადულობის შესახებ</a>. ვაგროვებთ მხოლოდ { -brand-name-mozilla-vpn }-ის გამართულად მუშაობისთვის და დროდადრო გაუმჯობესებისთვის საჭირო ინფორმაციას. ამასთანავე, თვალს ვადევნებთ სარეკლამო კამპანიისა და მობილურ პროგრამაზე მომართვის მონაცემებს, რომ { -brand-name-mozilla }-მ გაარკვიოს მარკეტინგული საქმიანობის შედეგიანობა. ვრცლად, გაეცანით ჩვენს <a { $notice }>პირადულობის დებულებას</a>.
 vpn-pricing-how-do-i-manage = როგორ ვმართო გამოწერა და როგორ შევცვალო საგადასახადო გეგმები?
 # Variables
 # $manage (url) - link to subscription management page
