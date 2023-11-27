@@ -12,8 +12,6 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: სრულად და�
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = გამოიყენოთ { -brand-name-mozilla-vpn } მოწყობილობისა და პროგრამების სრულად დასაცავად. { $countries }+ ქვეყანაში არსებული სერვერებით, შეგიძლიათ დაუკავშირდეთ ნებისმიერ ადგილს, ნებისმიერი ადგილიდან.
 vpn-landing-hero-sub-heading-v2 = უსაფრთხოება, საიმედოობა და სიჩქარე — ყველა მოწყობილობაზე, სადაც არ უნდა იყოთ.
-# Obsolete string
-vpn-landing-hero-sub-heading = უსაფრთხოება, რომელსაც შეგიძლიათ დაეყრდნოთ. სახელი, რომელსაც ენდობით.
 vpn-landing-hero-desc = წარმოსახვითი კერძო ქსელი { -brand-name-firefox }-ის შემქმნელებისგან.
 vpn-landing-privacy-heading = პირადულობა ერთი წკაპით
 vpn-landing-privacy-desc = მოინახულეთ, გაუშვით პირდაპირ ეთერში, ითამაშეთ და იმუშავეთ პირადულობის დაცვით. არ აქვს მნიშვნელობა მგზავრობთ, საჯარო WiFi-ს იყენებთ, თუ მხოლოდ მეტი უსაფრთხოება გსურთ, ჩვენთვის თქვენი პირადულობა მუდამ უპირველესია.
@@ -22,12 +20,6 @@ vpn-landing-fast-secure-heading = სწრაფი და დაცული �
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში, რომელსაც უზრუნველყოფს <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a>. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
 vpn-landing-brand-trust-heading = VPN კომპანიისგან, რომელსაც ენდობით
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -43,8 +35,6 @@ vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = ფარავს თქვენს ნამდვილ <a href="{ $url }">IP-მისამართს</a>. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
-# Obsolete string
-vpn-landing-faq-uses-conceal = ფარავს თქვენს ნამდვილ IP-მისამართს. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
 vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის და ვერავინ ადგილობრივ ქსელში ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
@@ -54,10 +44,6 @@ vpn-landing-faq-info-question-heading = რა მონაცემებს �
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს ჩვენს მობილურ პროგრამაში, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მოქმედებებს ქსელში. ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $url }">მონაცემების პირადულობის პრინციპებს</a> და მხოლოდ იმ მონაცემებს ვაგროვებთ, რომელიც აუცილებელია VPN-ის მუშაობისა და დროდადრო გაუმჯობესებისთვის.
 vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -67,60 +53,31 @@ vpn-landing-faq-competition-question-heading = რით გამოირჩ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთანავე, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a> პირადი მონაცემების დაცვის კუთხით.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = მართალია უფასო VPN-ებიც არსებობს, რომლებიც მიმზიდველი ჩანს, თუმცა პირადულობაზე ისე ვერავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn } და შესაძლოა თქვენი მონაცემები აღირიცხოს ან გაიყიდოს. არც სხვა ფასიან VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a> პირადი მონაცემების დაცვის კუთხით.
 vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } თავსებადი სისტემებია:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-ბიტზე მხოლოდ)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (64-ბიტიანი მხოლოდ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } და ზემოთ)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 და ზემოთ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 8 და ზემოთ)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 6 და ზემოთ)
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (მე-6 ვერსიიდან)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } და ზემოთ)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 და ზემოთ)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 და ზემოთ)
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 და ზემოთ)
 vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
 vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
 vpn-landing-faq-refund-question-additional-desc = თუ ხელშეკრულებისთვის აპლიკაციის შიდა შენაძენით ისარგებლებთ, { -brand-name-apple } { -brand-name-app-store } ან { -brand-name-google-play } მაღაზიაში, ანგარიშსწორება მოხდება იმ პირობებით, რომელთაც { -brand-name-app-store } აწესებს. თანხის ასანაზღაურებლად ნებისმიერი სახის მოთხოვნით, შესაბამისად უნდა მიმართოთ პირდაპირ { -brand-name-apple }-ს ან { -brand-name-google }-ს.
-# Obsolete string
-vpn-landing-faq-refund-question-desc = თანხის დაბრუნება შეგეძლებათ 30 დღეში გამოწერის შეძენიდან. დაგვიკავშირდით ან მოითხოვეთ ანაზღაურება, „დახმარების“ ღილაკით პარამეტრებიდან, თქვენს { -brand-name-mozilla-vpn } პროგრამაში.
 vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -135,8 +92,6 @@ vpn-landing-faq-link = ვრცლად იხილეთ ᲮᲓᲙ
 
 vpn-landing-invite-page-title = შემოუერთდით მსურველებს: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მხარეში.
-# Obsolete string
-vpn-landing-invite-page-desc = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მოწყობილობაზე და რეგიონში.
 vpn-landing-invite-page-heading = შეუერთდით VPN-ის მსურველებს
 vpn-landing-invite-email-label = რა არის თქვენი ელფოსტა?
 vpn-landing-invite-required-label = აუცილებელია

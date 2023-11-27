@@ -10,8 +10,6 @@ whatsnew-page-title-v2 = რა სიახლეებითაა { -brand-na
 whatsnew-page-title = რა სიახლეს შეიცავს { -brand-name-firefox }? – მეტი პირადულობა, მეტი უსაფრთხოება.
 whatsnew-page-description = წინ აღუდექით კომპანიებს, რომლებიც ყიდიან თქვენს მონაცემებს სხვებზე. მოხერხებულად და დაცულად გამოიყენეთ ინტერნეტი იმ საშუალებებით, რომლებიც თქვენთვის იბრძვის.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = თქვენი { -brand-name-firefox } განახლდა.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
