@@ -42,6 +42,9 @@ vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } omo’ã tembip
 vpn-features-stronger-malware = Ñemo’ãve malware rovake
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } omboyke malware ñemboguejy teñoiha ojekuaáva hekorosã’ỹvagui.
 vpn-features-super-private-mode = Ñemiguaite ayvu: ombohape ñeikundaha mokõi tendaite rupive
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Ore <a { $feature }>rembiapoite opo hetáva</a> ome’ẽ ndéve tekorosãve.
 vpn-features-support-for-custom-dns = Ñepytyvõ DNS mboavapyrépe g̃uarã
 vpn-features-flexible = Pepykuaáva
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
