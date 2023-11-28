@@ -35,7 +35,11 @@ vpn-landing-no-logging-tracking-or-sharing = Mboheraguapy’ỹre, tapykueho té
 vpn-landing-no-bandwidth-restrictions-or = Oñemochi’ĩ ha hu’ã’ỹre ancho de banda
 vpn-landing-see-all-features = Ehechapaite tembiapoite
 vpn-landing-fram-a-brand-you-can-trust = Ere peteĩ márka ejeroviakuaaha
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } ha’e mba’apohaguasu Ñandutigua viru’ỹgua oñorairõva Ñanduti hesãive hag̃ua 1998 guive.
 vpn-landing-one-subscription-for-all-your = Ñemboheraguapy opaite ne mba’e’okápe
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>{ -brand-name-mozilla } rembiporupyahu ndive</strong> oñorairõ nde rekoñemi deréchore 1998 guive.
 vpn-landing-learn-more-from-our-experts = Eikuaave ore mba’apohára ikatupyryvévare
+vpn-landing-do-you-need-a-vpn-at-home = ¿Eikotevẽ peteĩ VPN nde rógape? Ápe ereko 5 mba’e eikotevẽkuaaha.
 vpn-landing-what-is-an-ip-address = Mba’épa IP kundaharape
 vpn-landing-see-more-resources = Ehechave mba’eita
