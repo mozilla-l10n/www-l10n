@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Ereko { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 vpn-shared-sign-in-link = ¿Eñemboheraguapýma?
-# Obsolete string
-vpn-shared-available-countries-v5 = Ko’ág̃a romba’apo { -brand-name-mozilla-vpn } ndive Austria, Bélgica, Canadá, Francia, Alemania, Irlanda, Italia, Malasia, Países Bajos, Nueva Zelanda, Singapur, España, Suiza, Reino Unido ha Estados Unidos retãme.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -64,11 +62,7 @@ vpn-shared-choose-a-plan-sub-heading = Eiporavo pe oikótava ndéve g̃uarã
 vpn-shared-pricing-variable-sub-heading = Rojaposéva guivépe oike:
 vpn-shared-pricing-recommended-offer = Jeroviaha
 vpn-shared-pricing-plan-12-month-v2 = 12 arýpe g̃uarã
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Jasy
 vpn-shared-pricing-plan-monthly-v2 = Jasýpe g̃uarã
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Jasygua
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -76,12 +70,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + jehepyme’ẽ</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Ereko oikótava 6 jasy
-# Obsolete string
-vpn-shared-pricing-get-12-month = Ereko oikótava 12 jasy
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Ereko oikótava 6 jasy
 vpn-shared-pricing-get-12-month-v2 = Ereko oikótava 12 jasy
 vpn-shared-pricing-get-monthly = Ereko oikótava jasýnte
 # Variables:
@@ -166,3 +154,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nderei
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Ojehechaháicha
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “Pe { -brand-name-mozilla } VPN ikatu avei <a { $attrs }>ojuaju tembiapoite oikóva tekoñemi ñemo’ãrãme</a> kundahára rehegua { -brand-name-firefox }”.
+vpn-press-mozilla-vpns-feature-list-has-grown = “Pe tembiapoite rysýi { -brand-name-mozilla-vpn } rehegua tuichave osẽ ypy guive ha pe mba’eporu ohasáma heta VPN oikoporãva heta hendápe.”
