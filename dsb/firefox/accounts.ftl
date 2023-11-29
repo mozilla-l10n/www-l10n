@@ -24,11 +24,21 @@ mozilla-account-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-mozilla-acco
 firefox-accounts-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-firefox-account(case: "gen") }, aby:
 # Obsolete string
 firefox-accounts-meet-our-family-of = Póznajśo našu swójźbu produktow, za kótaruž priwatnosć jo na prědnem městnje.
-# Obsolete string
-firefox-accounts-see-if-youve-been = Pśeglědujśo, lěć sćo pótrjefjony wót datoweje źěry online.
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Sćelśo rejtarik</a> na drugi rěd
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Gronidła składowaś a synchronizěrowaś</a>
+firefox-accounts-get-email-alerts = Dostańśo e-mailowe warnowanja, gaž se waše informacije w znatej datowej źěrje zjawiju
+firefox-accounts-protect-your-identity = Šćitajśo swóju identitu z wěstym telefonowym a e-mailowym maskěrowanim
 firefox-accounts-keep-your-passwords = Šćitajśo swóje gronidła a wzejśo je wšuźi sobu.
 firefox-accounts-get-a-lookout-for = Rozglědujśo se za datowymi źěrami.
 firefox-accounts-travel-the-internet = Gibniśo se ze šćitom na kuždem rěźe pó interneśe.
+firefox-accounts-encrypt-your = Koděrujśo swóju seśowu aktiwitu a schowajśo swóju IP-adresu
+firefox-accounts-we-never = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy
+firefox-accounts-save-articles = Składujśo nastawki z interneta
+firefox-accounts-read-in-a = Cytajśo na śichem, priwatnym městnje
 firefox-accounts-get-it-all-on-every = Pśinjasćo wykno na kuždy rěd - wšojadno kótary źěłowy system wužywaśo.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

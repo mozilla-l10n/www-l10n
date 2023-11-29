@@ -39,6 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = Priwatnosć { -brand-name-firefox }
 download-button-firefox-privacy-notice = Pokazki priwatnosći { -brand-name-firefox }
 download-button-download = Ześěgnuś
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } se na { $os_version } a staršych <a href="{ $help_url }">wěcej njepódpěra</a>.
+download-button-please-download-esr = Pšosym ześěgniśo { -brand-name-firefox-esr } (wersija za rozšyrjonu pódpěru), aby { -brand-name-firefox } wužywał.
 download-firefox-esr = { -brand-name-firefox-esr } ześěgnuś
 download-firefox-esr-32 = { -brand-name-firefox-esr } ześěgnuś 32-bitowy
 download-firefox-esr-64 = { -brand-name-firefox-esr } ześěgnuś 64-bitowy
