@@ -6,3 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-cyber-title = { -brand-name-mozilla-vpn }
+# strong tag is for visual formatting only.
+banner-vpn-cyber-take-20-percent-off = Toś ten mjasec internetneje wěstoty <strong>dostawaśo 20 % wopušćenja na prědne lěto</strong>
+# Variables:
+#   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'CYBER20'.
+banner-vpn-cyber-use-coupon-code = Wužywajśo kod { $coupon_code } pśi wótlicenju
+banner-vpn-cyber-get-annual-sub = Lětny abonement wótzamknuś
+banner-vpn-cyber-offer-ends = Póbitowanje se 31. oktobra 2023 skóńcyjo
