@@ -15,6 +15,7 @@ mobile-android-send-a-download-link-to-your = Send ei nedlastingslenke til telef
 mobile-android-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-android-scan-alt-text = Skann QR-koden for å late ned { -brand-name-firefox } til { -brand-name-android }
 mobile-android-fast-and-private = Rask og privat
+mobile-android-firefox-for-android = { -brand-name-firefox } for { -brand-name-android } gir enkel personvernsikring med superraske sidelastingar. Utvida sporingsvern blokkerer automatiskt online-sporarar, som gjer sidene dine tregare, frå å følje deg på nettet.
 mobile-android-one-tap-to = Personvern med eitt trykk
 mobile-android-get-to-private = Gå till privat nettlesingsmodus med berre eitt trykk. Og når du lèt att privat nettlesingsmodus, vert nettlesingshistorikken din automatiskt sletta frå eininga di.
 mobile-android-search-your-own = Søk på din eigen måte
