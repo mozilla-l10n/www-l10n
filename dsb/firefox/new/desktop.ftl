@@ -15,6 +15,9 @@ firefox-desktop-download-meta-desc = Wobstarajśo se { -brand-name-firefox }, de
 firefox-desktop-download-og-title = Ześěgniśo nejmalsnjejšy { -brand-name-firefox }
 firefox-desktop-download-og-desc = Boki se malsnjej zacytaju, mjenjej składa se wužywa a z wjele funkcijami: Nowy { -brand-name-firefox } jo wujšeł.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Samo nowšy { -brand-name-firefox } jo k dispoziciji. <a { $update_url }>Na nejnowšu wersiju aktualizěrowaś</a>
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
@@ -38,10 +41,6 @@ firefox-desktop-download-blocks-social-trackers = Blokěrujo socialne pśeslědo
 firefox-desktop-download-os-availability = K-dispoziciji-byśe źěłowego systema
 firefox-desktop-download-in-browser-screenshot = Rěd za fota wobrazowki we wobglědowaku
 firefox-desktop-download-primary-password = Głowne gronidło
-# Obsolete string
-firefox-desktop-love-your-life = Lubujśo swójo žywjenje online
-# Obsolete string
-firefox-desktop-download-master-password = Głowne gronidło
 firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
 firefox-desktop-download-see-your-report = Wašu šćitnu rozpšawu pokazaś
 firefox-desktop-download-for-everyone = { -brand-name-firefox } jo za wše
@@ -130,8 +129,6 @@ firefox-desktop-download-youve-already-got-the-browser = Maśo južo wobglědowa
 firefox-desktop-download-watch-for-hackers-with-v3 = Wobglědujśo hackerow z { -brand-name-mozilla-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo gronidła z { -brand-name-firefox-lockwise } a wěcej.
 firefox-desktop-download-get-more-from-firefox = Wobstarajśo se wěcej wót { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Ześěgniśo jadnorje wobglědowak
 
@@ -149,8 +146,6 @@ firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, k�
 firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
 firefox-desktop-download-in-another-language = W drugej rěcy abo za drugi źěłowy system ześěgnuś.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Jolic napominanje wiźiśo, kótarež k wěsć dawa, až nałoženje, kótarež cośo instalěrowaś, njejo wót { -brand-name-microsoft } pśeglědane, klikniśo na „Weto instalěrowaś“ abo <a { $attrs }>změńśo dopóruceńske nastajenja nałoženja</a>.
@@ -158,10 +153,6 @@ firefox-desktop-download-visit-support-for-more = Woglědajśo se k bokam pomocy
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Wužywaśo njewěsty, zestarjony źěłowy system, kótaryž <a href="{ $url }">se wěcej wót { -brand-name-firefox } njedpódpěra</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
