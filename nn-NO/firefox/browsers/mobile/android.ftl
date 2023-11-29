@@ -23,6 +23,7 @@ mobile-android-save-power-with = Spar straum med mørk modus
 mobile-android-switch-to-dark = Byt til mørkt modus når som helst for å minske belastninga på auga og forlenge batteriet.
 mobile-android-easily-organize-your = Ordne enkelt fanene dine
 mobile-android-got-lots-of = Har du mange opne faner? Ingen problem, organiser dei i samlingar forå halde orden. Samlingar kan òg delast mellom einingar slik at du kan halde fram med å surfe med det same, same kva for eining du brukar.
+mobile-android-addons-are-like = Tillegg er som kraftfulle små verkty du kan leggje til i nettlesaren din for å gjere ting som å auke standardinnstillingane for personvern og tilpasse opplevinga di.
 mobile-android-pick-up-where = Fortset der du slutta
 mobile-android-pin-videos-to = Fest videoar på skjermen
 mobile-android-about-mozilla = Om { -brand-name-mozilla }
