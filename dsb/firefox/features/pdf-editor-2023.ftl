@@ -11,4 +11,6 @@ pdf-editor-pdf-editor = PDF-editor
 pdf-editor-add-text-to-pdfs = Pśidajśo PDF-datajam tekst z PDF-editorom { -brand-name-firefox }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Woglědajśo se a wobźěłajśo PDF-dataje direktnje w { -brand-name-firefox }.
+pdf-editor-fill-in-forms-online-without = Wupołniśo formulary online, bźez togo aby je śišćał a scannował
 pdf-editor-add-text = Tekst pśidaś
+pdf-editor-add-drawings-or-your-signature = Pśidajśo kreslanki (abo swóju signaturu)

@@ -19,6 +19,9 @@ features-translate-firefox-translations = { -brand-name-firefox-translations }
 features-translate-get-firefox-translations = Wobstarajśo se { -brand-name-firefox-translations }
 # "To Google Translate" is a brand name
 features-translate-to-google-translate = K { -brand-name-google } Translate
+# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
+# "To Google Translate" is a brand name
+features-translate-get-to-google-translate = K { -brand-name-google } Translate
 # Obsolete string
 features-translate-get-the-extension = Wobstarajśo se rozšyrjenje
 features-translate-switch-languages-in = Rěcy w { -brand-name-firefox } pśešaltowaś
