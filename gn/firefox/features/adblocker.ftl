@@ -32,8 +32,6 @@ features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’�
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }-pe ikatu eiporu ko ñemboheko <a href="{ $privacy }">Ñemigua</a> térã <a href="{ $blocking }">Tetepy jokoha</a> eñangarekove hag̃ua jehapykuehoha oikuave’ẽva ñemurã.
 features-adblocker-choose-your-level-of-protection = Eiporavo ne ñemo’ã ra’ãha
 features-adblocker-to-start-click-on-the-v2 = Eñepyrũ hag̃ua, eikutu ta’ãnga’i asugua kundaharape rendápe oimeraẽva ñanduti kuatiaroguépe ha eiporavo “Ñemo’ã ñemboheko”. Kóva ombojurujáta Ñemboheko Ñemigua rupa ha { -brand-name-firefox } rekorosã tendayke pyahúpe. Ehecháta ovetã hovy iñapysẽva jeporavorã reheve.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Eñepyrũ hag̃ua, eikutu { -brand-name-firefox } poravorãme yvate akatúa gotyo mba’erechahápe. Ojehecha mbohapy tairenda ojo’áripa. Pe poravorã ojepysóvape, eikutu Tetepy jejoko. Ehecháta ovetã apysẽ hovýva heta jeporavopyrã ndive.
 features-adblocker-go-easy-with-standard = Tereho py’aguapýpe Standard reko ndive
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -57,6 +55,4 @@ features-adblocker-speed-up-thanks-to-ad = Embopya’eve maranduñemurã rupive
 features-adblocker-in-some-cases-an-ad-blocker = Heta jey, maranduñemurã jokoha ikatu nepytyvõ ne kundaha ipya’eve hag̃ua. Henyhẽkuévo ñemurã, ikatu omombegueve ñanduti renda. Upéicha avei, nemombegueve ejuhu hag̃ua umi ehekáva ehecháramo ambue ñemurã emboty hag̃ua.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = Eikuasérõ mba’éichapa ejokóta ñemurã, oĩ heta moĩmbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahárape. Eiporusérõ maranduñemurã jokoha { -brand-name-firefox } mba’éva, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> peteĩ kundahára omotenondéva nde rekoñemi.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Eikuasevéramo mba’éichapa ejokóta ñemurã, oĩ heta moĩmbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahápe, eiporuséramo heta mba’e ome’ẽva { -brand-name-firefox } ejoko hag̃ua maranduñemurã, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> kundaha omotenondéva ñemigua.
+features-adblocker-if-you-want-to-learn-more-v2 = Eikuaaséramo mba’éichapa ejokóta ñemurã, oĩ heta moĩmbaha ejoko hag̃ua maranduñemurã { -brand-name-firefox } peg̃uarã ha ambue kundahárape. Eiporusérõ maranduñemurã jokoha { -brand-name-firefox } mba’éva, <a href="{ $url }">eikutu ápe emboguejy hag̃ua</a> peteĩ kundahára omotenondéva nde rekoñemi.
