@@ -69,7 +69,7 @@ firefoxs-default-search = { -brand-name-google } je standardna pytawa w { -brand
 does-firefox-have = Ma { -brand-name-firefox } zatwarjeny VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } zatwarjeny VPN (virtual private network „wirtuelna priwatna syć“) nima, ale  { -brand-name-mozilla } produkt z mjenom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> wutworja, kotryž móžeće přidatnje k priwatnemu { -brand-name-firefox-browser } wužiwać, kotryž waš zwisk we WLAN akž tež wašu IP-adresu škita.
+firefox-does-not-v2 = { -brand-name-firefox } zatwarjeny VPN (virtual private network „wirtuelna priwatna syć“) nima, ale  { -brand-name-mozilla } produkt z mjenom <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> wutworja, kotryž móžeće přidatnje k priwatnemu { -brand-name-firefox-browser } wužiwać, kotryž waš zwisk we WLAN kaž tež wašu IP-adresu škita.
 related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
