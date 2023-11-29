@@ -26,7 +26,7 @@ vpn-pricing-access =
         [one] Érjen el { $servers } kiszolgálót { $countries }+ országban
        *[other] Érjen el { $servers } kiszolgálót { $countries }+ országban
     }
-vpn-pricing-money-back = 30 napos pénzvisszafizetési garancia (csak első vásárlóknak)
+vpn-pricing-money-back = 30 napos pénzvisszafizetési garancia (csak az első vásárlóknak)
 vpn-pricing-annual = Éves
 vpn-pricing-monthly = Havi
 vpn-pricing-get-annual-subscription = Kapjon éves előfizetést
@@ -35,7 +35,7 @@ vpn-pricing-vpn-not-available = A { -brand-name-mozilla-vpn } még nem érhető 
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = GYIK
 vpn-pricing-refund-policy = Mi a { -brand-name-mozilla-vpn } pénzvisszatérítési házirendje?
-vpn-pricing-the-first-time-you = Amikor először előfizet a { -brand-name-mozilla-vpn } szolgáltatásra a { -brand-name-mozilla } webhelyén keresztül, és ekkor az első 30 napon belül megszünteti fiókját, akkor visszatérítést kérhet, és { -brand-name-mozilla } visszatéríti az első előfizetési időszakot.
+vpn-pricing-the-first-time-you = Amikor először előfizet a { -brand-name-mozilla-vpn } szolgáltatásra a { -brand-name-mozilla } webhelyén keresztül, és ekkor az első 30 napon belül megszünteti fiókját, akkor visszatérítést kérhet, és a { -brand-name-mozilla } visszatéríti az első előfizetési időszakot.
 vpn-pricing-if-you-purchased = Ha az előfizetését alkalmazáson belüli vásárlással vásárolta az Apple App Store vagy a Google Play Áruházból, akkor a fizetésre az áruház feltételei érvényesek. Az ilyen vásárlásokkal kapcsolatos számlázással és visszatérítéssel kapcsolatos kérdéseivel az Apple-hez vagy a Google-höz kell fordulnia.
 vpn-pricing-what-information = Milyen információkat tárol a { -brand-name-mozilla-vpn }?
 # Variables
