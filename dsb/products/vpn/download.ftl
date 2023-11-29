@@ -22,10 +22,19 @@ vpn-download-for-mac-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand
 #   $version (number) - operating system version
 vpn-download-version-requirements = Wersija { $version } a nowše
 vpn-download-for-linux = VPN za { -brand-name-linux }
+vpn-download-for-linux-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } a nowše
 vpn-download-for-android = VPN za { -brand-name-android }
+vpn-download-for-android-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-download-for-ios = VPN za { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Wobstarajśo se jen na { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Wobstarajśo se jen na { -brand-name-app-store }
+vpn-download-based-on-your = Na zakłaźe wašogo aktualnego rěda
+vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
+vpn-download-privacy-you-can = Priwatnosć, kótarejž móžośo dowěriś
+vpn-download-also-available = Teke k dispoziciji za:
+vpn-download-we-never-log = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy.
+vpn-download-previous-versions = Ześěgniśo pjerwjejšne wersije za { -brand-name-windows } a { -brand-name-mac-short }
