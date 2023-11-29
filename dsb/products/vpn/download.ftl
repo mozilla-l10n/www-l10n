@@ -10,11 +10,14 @@ vpn-download-page-description = Ześěgniśo { -brand-name-mozilla-vpn } za { -b
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Móžośo { -brand-name-mozilla-vpn } na až do { $devices } rědach z jadnym abonementom ześěgnuś.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } wěsty šćit za wšykne wažne źěłowe systemy bitujo.
 vpn-download-not-available-in-country = Bóžko { -brand-name-mozilla-vpn } njejo za ześěgnjenje we wašom kraju k dispoziciji.
 vpn-download-button-copy = Ześěgnuś
-vpn-download-for-windows = VPN za { -brand-name-windows } 10/11
+vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jano 64-bitowy)
+vpn-download-for-windows-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
+vpn-download-for-mac-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Wersija { $version } a nowše

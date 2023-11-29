@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ześěgnuś
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
 navigation-v2-menu = Meni
-# Obsolete string
-navigation-v2-get-a-firefox-account = Wobstarajśo se { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -68,6 +66,7 @@ navigation-v2-careers = Pówołanja
 navigation-v2-work-for-a-mission-driven-updated = Źěłajśo za organizaciju z misiju, za kótarejež produkty luźe na prědnem městnje stoje.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zgóńśo wěcej wó { -brand-name-mozilla } a problemach, kótarež su nam wažne.
+navigation-v2-stories = Tšojenja
 navigation-v2-more-about-mozilla = Wěcej wó { -brand-name-mozilla }
 
 ## Innovation menu
