@@ -7,10 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title = Ześěgniśo { -brand-name-firefox } za desktop, mobilny rěd abo Enterprise
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = Wobstarjśo wobglědowaki, kótarež wašu priwatnosć na prědnem městnje stoje - to jo było južo pśecej tak
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = Dostańśo priwatnosć, kótaruž se zasłužyjośo. Pólěpšony slědowański šćit jo awtomatiski zmóžnjony w kuždem wobglědowaku { -brand-name-firefox }.
+# HTML page description
+firefox-browsers-page-desc = Wubjeŕśo z desktopa, { -brand-name-ios }, { -brand-name-android } abo dowólśo nam, až wam wótkaz za ześěgnjenje z e-mailu na mobilny rěd sćelomy.
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Wobstarajśo se <strong>wobglědowaki</strong>, kótarež wašu priwatnosć na prědnym městnje stoje - to jo južo pśecej tak było
@@ -36,11 +34,6 @@ firefox-browsers-join-firefox-and-get-the-most = Wužywajśo { -brand-name-firef
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Maśo južo konto? <a { $fxa_attr }>Pśizjawśo se</a> abo <a { $accounts_attr }>zgóńśo wěcej</a> wó wužywanju { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Maśo južo konto? <a { $fxa_attr }>Pśizjawśo se</a> abo <a { $accounts_attr }>zgóńśo wěcej</a> wó wužywanju Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
