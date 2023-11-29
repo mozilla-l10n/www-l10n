@@ -8,3 +8,5 @@
 features-customize-customize-your-firefox = Pśiměŕśo swój wobglědowak { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Wubjeŕśo, kak ma waš wobglědowak z tysacami dermotnych drastwow wuglědaś.
+# Used as accessible alternative text for an image
+features-customize-image-of-the-default-themes = Wobraz standardnych drastwow, kótarež { -brand-name-firefox } sobu pśinjaso, kótaryž swětłe, śamne a barwne warianty pokazujo.
