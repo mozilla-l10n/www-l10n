@@ -13,6 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } jo jano zachopjeńk
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Jo ceła produktowa swójźba, kótaraž jo myslona za to, až sćo wěsćejšy a wěcej inteligentny online.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } jo produktowa swójźba, kótaraž wšykne su myslone za to, až sćo wěsćejšy a wěcej inteligentny online
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } jo <strong>wěcej</strong> ako wobglědowak
@@ -37,18 +38,6 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Šćitajśo swóju napšawdnu e-mailowu adresu, aby swój postowy dochad lěpjej kontrolěrował.
 firefox-products-learn-more-about-relay = Dalšne informacije wó { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Źaržćo swóje gronidła wěste a mějśo na nje pśistup na wšych synchronizěrowanych rědach.
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } ześěgnuś
-# Obsolete string
-firefox-products-open-in-firefox = W { -brand-name-firefox } wócyniś
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Dalšne informacije wó { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Sćelśo swóje wjelike dataje a sensibelne dokumenty wěsće, až k 2.5G.
 firefox-products-send-a-file = Dataju pósłaś
 firefox-products-pocket = { -brand-name-pocket }
