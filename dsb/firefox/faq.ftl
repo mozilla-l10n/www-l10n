@@ -67,12 +67,9 @@ does-firefox-use = Wužywa { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } jo standardna pytnica w { -brand-name-firefox }, což groni, až móžośo web direktnje z adresowego póla pśepytaś. <a href="{ $url }">Zgóńśo wěcej wó nastajenjach pytnice a změnjanju standardnych nastajenjow.</a>
 does-firefox-have = Ma { -brand-name-firefox } zatwarjony VPN?
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } zatwarjony VPN (virtual private network „wirtuelna priwatna seś“) njama, ale stej dwa produkta zgótowjonej wót { -brand-name-mozilla }/{ -brand-name-firefox }, kótarejž móžośo pśidatnje k priwatnemu { -brand-name-firefox-browser }, kótaryž móžo pak swój wobglědowak (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) abo rědowy (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) zwisk na WLAN ako teke wašu IP-adresu šćita.
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } zatwarjony VPN (virtual private network „wirtuelna priwatna seś“) njama, ale  { -brand-name-mozilla } produkt z mjenim <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> napórajo, kótaryž móžośo pśidatnje k priwatnemu { -brand-name-firefox-browser } wužywaś, kótaryž waš zwisk we WLAN ako teke wašu IP-adresu šćita.
 related-questions-ip = Pódobne pšašanja: Chowa { -brand-name-firefox } wašu IP-adresu
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 

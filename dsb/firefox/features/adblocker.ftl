@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -31,7 +31,6 @@ features-adblocker-create-a-tracker-free = Napórajśo conu bźez pśeslědowaka
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = W { -brand-name-firefox } móžośo nastajenja <a href="{ $privacy }">priwatnosći</a> abo <a href="{ $blocking }">blokěrowanja wopśimjeśa</a> wužywaś, aby wěcej kontrole nad wabjeńskimi pśeslědowakami dostał, kótarež wam wabjenje prezentěruju.
 features-adblocker-choose-your-level-of-protection = Wubjeŕśo šćitny schójźeńk
-features-adblocker-to-start-click-on-the = Aby zachopił, klikniśo na meni { -brand-name-firefox } w pšawem górnem rožku swójeje wobrazowki. Wuglěda ako tśi linije jadna nad drugeju. Klikniśo we wuběrańskem meniju na Blokěrowanje wopśimjeśa. Wy dejał módre wuskokujuce wokno z rozdźělnymi wuběrańskimi móžnosćami wiźeś.
 features-adblocker-go-easy-with-standard = Cyńśo se lažko ze standardnym modusom
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -55,5 +54,4 @@ features-adblocker-speed-up-thanks-to-ad = Malsnjejšy z pomocu wabjeńskich blo
 features-adblocker-in-some-cases-an-ad-blocker = W někotarych padach móžo blokěrowak wabjenja pomagaś, waš wobglědowak malsnjejšy cyniś. Gaž se wabjenje zacytajo, móžo se websedło spómałšyś. Rownocasnje trajo dlej, to namakaś, což pytaśo, jolic maśo pśewjele źěła, aby dalšne wabjenje zacynił.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Jolic cośo wěcej wó blokěrowanju wabjenja zgóniś, su sta rozšyrjenjow za blokěrowanje wabjenja za { -brand-name-firefox } a druge wobglědowaki k dispoziciji. Jolic cośo wabjeńske blokěrowaki wopytaś, kótarež { -brand-name-firefox } wužywa, <a href="{ $url }">klikniśo how, aby wobglědowak ześěgnuł</a>, za kótaryž priwatnosć jo na prědnem městnje.
-features-adblocker-take-control-of-your-browser = Pśewzejśo kontrolu nad swójim wobglědowakom.
+features-adblocker-if-you-want-to-learn-more-v2 = Jolic cośo wěcej wó blokěrowanju wabjenja zgóniś, su sta rozšyrjenjow za blokěrowanje wabjenja za { -brand-name-firefox } a druge wobglědowaki k dispoziciji. Jolic cośo wabjeńske blokěrowaki wopytaś, kótarež { -brand-name-firefox } wužywa, <a href="{ $url }">klikniśo how, aby wobglědowak ześěgnuł</a>, za kótaryž priwatnosć jo na prědnem městnje.
