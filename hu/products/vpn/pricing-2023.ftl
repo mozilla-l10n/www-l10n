@@ -10,7 +10,7 @@ vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Egy előfizetés az összes eszközéhez
 # Pricing section
-vpn-pricing-included-in-subscription = Tartalmazza az előfizetés:
+vpn-pricing-included-in-subscription = Az előfizetés tartalma:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =

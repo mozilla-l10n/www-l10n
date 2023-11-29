@@ -47,9 +47,9 @@ vpn-landing-fram-a-brand-you-can-trust = Egy márkától, amelyben megbízhat
 vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } egy nonprofit internetes cég, amely 1998 óta az egészséges webért harcol.
 vpn-landing-one-subscription-for-all-your = Egy előfizetés az összes eszközéhez
 # HTML for emphasis
-vpn-landing-powered-by-mozilla-fighting-for = <strong>A { -brand-name-mozilla } motorháztetője.</strong> 1998 óta harcolunk a magánszférájához való jogáért.
+vpn-landing-powered-by-mozilla-fighting-for = <strong>A { -brand-name-mozilla } támogatásával.</strong> 1998 óta harcolunk az adatvédelemhez való jogáért.
 vpn-landing-learn-more-from-our-experts = Tudjon meg többet szakértőinktől
-vpn-landing-do-you-need-a-vpn-at-home = Szüksége van otthoni VPN-re? Íme 5 ok.
+vpn-landing-do-you-need-a-vpn-at-home = Otthon is szüksége van egy VPN-re? Íme 5 ok, hogy miért lehet.
 vpn-landing-what-is-an-ip-address = Mi az IP-cím?
 vpn-landing-how-your-location-is-tracked = Hogyan történik a tartózkodási helyének követése, és hogyan korlátozhatja a megosztását
-vpn-landing-see-more-resources = További források megtekintése
+vpn-landing-see-more-resources = További erőforrások megtekintése

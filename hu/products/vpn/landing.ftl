@@ -12,8 +12,6 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Védje meg a teljes eszkö
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Használja a { -brand-name-mozilla-vpn }-t a teljes eszközvédelemhez, minden alkalmazáshoz. Kiszolgálókkal { $countries }+ országban, bárhová és bárhonnan kapcsolódhat.
 vpn-landing-hero-sub-heading-v2 = Biztonság, megbízhatóság és sebesség – minden eszközön, bárhová is megy.
-# Obsolete string
-vpn-landing-hero-sub-heading = A biztonság, amelyre támaszkodhat. A név, amelyben megbízhat.
 vpn-landing-hero-desc = Virtuális magánhálózat a { -brand-name-firefox } készítőitől.
 vpn-landing-privacy-heading = Egy koppintás az adatvédelemhez
 vpn-landing-privacy-desc = Szörföljön, nézzen élő közvetítést, játsszon és végezze el a munkáját, miközben megtartja az online adatvédelmét. Akár utazik, akár nyilvános Wi-Fit használ, vagy egyszerűen csak nagyobb online biztonságot szeretne, mi mindig az Ön adatvédelmét helyezzük az első helyre.
@@ -22,12 +20,6 @@ vpn-landing-fast-secure-heading = Gyors és biztonságos hálózat
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = A { -brand-name-mozilla-vpn } kiszolgálók globális hálózatán fut. A legfejlettebb <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokollal titkosítjuk a hálózati tevékenységét és elrejtjük az IP-címét. Sosem naplózzuk, követjük és osztjuk meg a hálózati adatait.
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = A { -brand-name-mozilla-vpn } a <a href="{ $mullvad }" { $attrs }>{ -brand-name-mullvad }</a> által biztosított globális kiszolgálóhálózaton fut. A legfejlettebb <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> protokollt használja a hálózati forgalma titkosításához és az IP-címe elrejtéséhez. Sosem naplózzuk, követjük vagy osztjuk meg a hálózati adatait.
 vpn-landing-brand-trust-heading = VPN attól a márkától, amelyben megbízik
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -43,8 +35,6 @@ vpn-landing-faq-uses-question-desc = Ahogy a mindennapi életünk egyre nagyobb 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = Elrejti a valódi <a href="{ $url }">IP-címét</a>. Ez védi a személyazonosságát, és elfedi a tartózkodási helyét.
-# Obsolete string
-vpn-landing-faq-uses-conceal = Elrejti a valódi IP-címét. Ez védi a személyazonosságát, és elfedi a tartózkodási helyét.
 vpn-landing-faq-uses-encrypt = Titkosítja a forgalmat Ön és a VPN szolgáltató között, így a helyi hálózaton senki nem tudja azt megfejteni vagy módosítani.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
@@ -54,10 +44,6 @@ vpn-landing-faq-info-question-heading = Milyen információkat tárol a { -brand
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Szigorúan betartjuk a { -brand-name-mozilla } <a href="{ $principles }">Adatvédelmi elveit</a> és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük. Követjük a kampányokkal kapcsolatos és az ajánlási adatokat is a mobilalkalmazásunkban, hogy segítsünk a { -brand-name-mozilla(ending: "accented") }nak megérteni a marketingkampányok hatásosságát. További információk az <a href="{ $notice }">Adatvédelmi nyilatkozatban</a>.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Nem naplózzuk, követjük és osztjuk meg a hálózati forgalmát. Szigorúan a { -brand-name-mozilla } <a href="{ $url }">Adatvédelmi elveihez</a> tartjuk magunkat, és csak a VPN működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük be.
 vpn-landing-faq-protected-question-heading = Hogyan védik a magánszférámat?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -67,60 +53,31 @@ vpn-landing-faq-competition-question-heading = Hogy áll a { -brand-name-mozilla
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }. Más VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Bár az ingyenes VPN-ek vonzónak tűnnek, nem vállalnak ugyanolyan kötelezettségeket az adatvédelem terén, mint a { -brand-name-mozilla-vpn }, és eladhatják vagy tárolhatják adatait. Más fizetős VPN-ek nem rendelkeznek a { -brand-name-mozilla } több mint 20 éves termékfejlesztési <a href="{ $url }">múltjával</a>, amely az embereket és az adatvédelmet helyezi az első helyre.
 vpn-landing-faq-compatibility-question-heading = Milyen eszközökkel kompatibilis a { -brand-name-mozilla-vpn }?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = A { -brand-name-mozilla-vpn } az alábbi <a href="{ $mobile }">mobiltelefonokkal</a>, táblagépekkel és <a href="{ $desktop }">asztali számítógépekkel</a> kompatibilis:
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc = A { -brand-name-mozilla-vpn } a következőkkel kompatibilis:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (csak 64 bites)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (csak 64 bites)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15
 vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } vagy újabb)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 vagy újabb)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (8-as verzió vagy újabb)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (6-os verzió és újabb)
-# Obsolete string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (6-os verzió vagy újabb)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } vagy újabb)
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 vagy újabb)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 vagy újabb)
-# Obsolete string
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 vagy újabb)
 vpn-landing-faq-refund-question-heading = Mi a { -brand-name-mozilla-vpn } pénzvisszatérítési házirendje?
 vpn-landing-faq-refund-question-desc-v2 = Amikor először előfizet a { -brand-name-mozilla-vpn } szolgáltatásra a { -brand-name-mozilla } webhelyén keresztül, és ekkor az első 30 napon belül megszünteti fiókját, akkor visszatérítést kérhet, és { -brand-name-mozilla } visszatéríti az első előfizetési időszakot.
 vpn-landing-faq-refund-question-additional-desc = Ha az előfizetést alkalmazáson belüli vásárlással vásárolja meg az { -brand-name-apple } { -brand-name-app-store }-ból vagy a { -brand-name-google-play } Áruházból, akkor a fizetésére az { -brand-name-app-store } általános szerződési feltételei érvényesek. Az ilyen vásárlásokkal kapcsolatos számlázással és visszatérítéssel kapcsolatos kérdéseit az { -brand-name-apple } vagy a { -brand-name-google } felé kell küldenie.
-# Obsolete string
-vpn-landing-faq-refund-question-desc = Az előfizetés megvásárlásától számított 30 napon belül visszakaphatja a pénzét. Vegye fel velünk a kapcsolatot, és küldje el a visszatérítési kérelmet a { -brand-name-mozilla-vpn } alkalmazás Beállítások menüjének „Segítség kérése” gombjára koppintva.
 vpn-landing-faq-manage-subscription-question-heading = Hogyan kezelhetem az előfizetésemet?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -135,8 +92,6 @@ vpn-landing-faq-link = További GYIK bejegyzések megtekintése
 
 vpn-landing-invite-page-title = Csatlakozzon a várólistához: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Értesüljön, ha a { -brand-name-mozilla-vpn } elérhetővé válik a régiójában.
-# Obsolete string
-vpn-landing-invite-page-desc = Értesüljön, ha a { -brand-name-mozilla-vpn } elérhetővé válik az eszközére és a régiójában.
 vpn-landing-invite-page-heading = Csatlakozzon a VPN várólistához
 vpn-landing-invite-email-label = Mi az e-mail-címe?
 vpn-landing-invite-required-label = Kötelező
