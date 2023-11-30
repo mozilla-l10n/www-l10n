@@ -7,5 +7,9 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Suojaa koko laitteesi
+vpn-landing-whats-a-vpn = Mikä on VPN?
+vpn-landing-how-a-vpn-helps-you = Näin VPN auttaa sinua
+vpn-landing-features = Ominaisuudet
 vpn-landing-see-all-features = Katso kaikki ominaisuudet
+vpn-landing-one-subscription-for-all-your = Yksi tilaus kaikille laitteillesi
 vpn-landing-what-is-an-ip-address = Mikä on IP-osoite?

@@ -10,16 +10,7 @@ whatsnew-page-title-v2 = Mitä uutta { -brand-name-firefox } sisältää
 whatsnew-page-title = Mitä uutta { -brand-name-firefox } sisältää - Lisää yksityisyyttä, enemmän suojauksia.
 whatsnew-page-description = Nouse vastaan teollisuutta, joka myy tietojasi kolmansille osapuolille. Pysy fiksuna ja turvassa verkossa hyödyntäen teknologioita, jotka ovat apunasi.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Onnittelut! Sinulla on uusin { -brand-name-firefox } käytössä.
-# Obsolete string
-whatsnew-up-to-date-notification = Onnittelut! Sinulla on uusin { -brand-name-firefox-browser } käytössä.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Uudempi { -brand-name-firefox } on saatavilla. <a href="{ $url }">Päivitä uusimpaan versioon</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Vielä uudempi { -brand-name-firefox } on saatavilla. Käynnistä uudelleen päivittääksesi.
+whatsnew-update-notification = { -brand-name-firefox } on päivitetty!
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Omaksu lisää uudesta { -brand-name-firefox }-selaimestasi lukemalla <a href="{ $url }">julkaisutiedot</a>.
