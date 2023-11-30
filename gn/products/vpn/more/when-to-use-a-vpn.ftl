@@ -38,7 +38,7 @@ vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejerovia
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
-vpn-when-to-use-the-most-important = Tuichave mba’éva pe eiporavóvo peteĩ VPN ha’e eiporavoha mba’apohaguasu jeroviaha. Eheha’ãke eikumby porã mba’etépa pe emoneĩva. Heta he’íva tuichaha ha omomba’éva tekoñemi, hákatu hetave pe ndojapóiva he’iva’ekue. Ndaopavavéi proxy ha VPN mba’eporurã hekorosã ha hekoñemi. Ndahetái <a href="{ $pcmag }">ohaíta</a> <a href="{ $cnet }">katuete</a> ne rembiapo ñandutípe ohepyme’ẽ hag̃ua ne mba’ekuaarã ha marandu umi mba’apohaguasu jehepyme’ẽkuaahapegua. Ambue mba’eporurã omohendaséta malware ne mba’e’okápe.
+vpn-when-to-use-the-most-important = Tuichave mba’éva pe eiporavóvo peteĩ VPN ha’e eiporavoha mba’apohaguasu jeroviaha. Eheha’ãke eikũmby porã mba’etépa pe emoneĩva. Heta he’íva tuichaha ha omomba’éva tekoñemi, hákatu hetave pe ndojapóiva he’iva’ekue. Ndaopavavéi proxy ha VPN mba’eporurã hekorosã ha hekoñemi. Ndahetái <a href="{ $pcmag }">ohaíta</a> <a href="{ $cnet }">katuete</a> ne rembiapo ñandutípe ohepyme’ẽ hag̃ua ne mba’ekuaarã ha marandu umi mba’apohaguasu jehepyme’ẽkuaahapegua. Ambue mba’eporurã omohendaséta malware ne mba’e’okápe.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
