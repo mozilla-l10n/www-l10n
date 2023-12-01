@@ -70,3 +70,10 @@ vpn-features-built-transparently = Transparant boud yn iepen boarne
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } is makke mei iepenboarnekoade, wat betsjut dat alle koade iepenbier tagonklik is. Sjoch ús <a { $github }>GitHub repository</a>.
 vpn-features-reviewed-by-third = Beoardiele troch eksterne befeiligingseksperts
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Wy binne audit troch Cure53, in liedend auditburo foar cyberbefeiliging. <a { $report }>Sjoch it rapport hjir</a>.
+vpn-features-people-over-profits = Minsken boppe winst
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Wy wurde stipe troch de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, in non-profitorganisaasje dy’t striid om it web foar alle minsken iepen en sûn te hâlden.
