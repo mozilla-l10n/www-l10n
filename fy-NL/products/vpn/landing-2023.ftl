@@ -21,3 +21,33 @@ vpn-landing-log-in-to-your-bank-or = Meld jo mei in gerêst hert fan it fleanfji
 vpn-landing-blocks-advertisers-from = Foarkomt dat advertearders harren op jo rjochtsje
 vpn-landing-hide-your-activity-from = Ferbergje jo aktiviteit foar trackers en malware, sadat jo kinne winkelje sûnder besjoen te wurden.
 vpn-landing-helps-you-access-global = Helpt jo by it benaderjen fan wrâldwide ynhâld
+vpn-landing-check-out-streaming-media = Besjoch streaming media, websites en livestreams út oare lannen, wylst jo reizgje of thús binne.
+vpn-landing-features = Funksjes
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices =
+    { $devices ->
+        [one] Ferbyn maksimaal { $devices } apparaat
+       *[other] Ferbyn maksimaal { $devices } apparaten
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Mear as { $servers } server yn mear as { $countries } lannen
+       *[other] Mear as { $servers } servers yn mear as { $countries } lannen
+    }
+vpn-landing-fast-network-speeds-even-while = Hege netwurksnelheden, sels wylst it gamen
+vpn-landing-no-logging-tracking-or-sharing = Gjin loggen, folgjen of dielen fan netwurkgegevens
+vpn-landing-no-bandwidth-restrictions-or = Gjin bânbreedtebeheiningen of throttling
+vpn-landing-extra-security-whole-device = Ekstra befeiliging: beskerming fan it hiele apparaat, multi-hop-rûtearing en mear
+vpn-landing-see-all-features = Alle funksjes besjen
+vpn-landing-fram-a-brand-you-can-trust = Fan in merk dat jo fertrouwe kinne
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } is in ynternetbedriuw dat stipe wurdt troch in non-profitorganisaasje en dat al sûnt 1998 striidt foar in sûn web.
+vpn-landing-one-subscription-for-all-your = Ien abonnemint foar al jo apparaten
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Mooglik makke troch { -brand-name-mozilla }.</strong> Striidt foar jo rjocht op privacy sûnt 1998.
+vpn-landing-learn-more-from-our-experts = Mear ynfo fan ús eksperts
+vpn-landing-do-you-need-a-vpn-at-home = Hawwe jo thús in VPN nedich? Hjir binne 5 redenen wêrom.
+vpn-landing-what-is-an-ip-address = Wat is in IP-adres?
