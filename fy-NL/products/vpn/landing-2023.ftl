@@ -51,3 +51,5 @@ vpn-landing-powered-by-mozilla-fighting-for = <strong>Mooglik makke troch { -bra
 vpn-landing-learn-more-from-our-experts = Mear ynfo fan ús eksperts
 vpn-landing-do-you-need-a-vpn-at-home = Hawwe jo thús in VPN nedich? Hjir binne 5 redenen wêrom.
 vpn-landing-what-is-an-ip-address = Wat is in IP-adres?
+vpn-landing-how-your-location-is-tracked = Hoe’t jo lokaasje folge wurdt en hoe’t jo it dielen derfan beheine kinne
+vpn-landing-see-more-resources = Mear helpboarnen besjen
