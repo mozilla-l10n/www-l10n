@@ -38,3 +38,11 @@ vpn-pricing-refund-policy = Wat is it restitúsjebelied fan { -brand-name-mozill
 vpn-pricing-the-first-time-you = As jo jo foar it earst abonnearje op { -brand-name-mozilla-vpn } fia de website fan { -brand-name-mozilla }, en as jo jo account binnen de earste 30 dagen annulearje, kinne jo om restitúsje freegje en betellet { -brand-name-mozilla } jo earste abonnemintsperioade werom.
 vpn-pricing-if-you-purchased = As jo jo abonnemint kocht hawwe fia in yn-app-oankeap yn de Apple App Store of de Google Play Store, is jo betelling ûnderwurpen oan de betingsten fan de Store. Jo moatte alle fragen oer fakturearring en werombetelje foar sokke oankeapen rjochtsje oan Apple of Google, al wat fan tapassing is.
 vpn-pricing-what-information = Hokker ynformaasje bewarret { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Wy hâlde ús strikt oan de <a { $principles }>Gegevensprivacyprinsipen</a> fan { -brand-name-mozilla }. Wy sammelje allinnich de gegevens dy’t nedich binne om { -brand-name-mozilla-vpn } operasjoneel te hâlden en om it produkt meidertiid te ferbetterjen. Wy folgje ek kampanje- en trochferwizingsgegevens op ús mobile app, om { -brand-name-mozilla } te helpen begripen hoe effektyf ús marketingkampanjes binne. Mear ynfo yn ús <a { $notice }>Privacyferklearring</a>.
+vpn-pricing-how-do-i-manage = Hoe behear ik myn abonnemint en wizigje ik het?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = As jo al abonnearre binne op { -brand-name-mozilla-vpn }, dan kinne jo op elk winske momint jo soarte fan abonnemint wizigje of <a { $manage }>jo abonnemint beheare</a>.

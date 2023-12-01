@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloade
 vpn-shared-waitlist-link = Op de wachtlist pleatse
 vpn-shared-sign-in-link = Binne jo al abonnee?
-# Outdated string
-vpn-shared-available-countries-v5 = Wy biede op dit stuit { -brand-name-mozilla-vpn } oan yn Eastenryk, België, Kanada, Finlân, Frankryk, Dútslân, Ierlân, Italië, Maleizje, Nederlân, Nij-Seelân, Singapore, Spanje, Sweden, Switserlân, it FK en de FS.
 vpn-shared-available-countries-v6 = Wy biede op dit stuit { -brand-name-mozilla-vpn } oan yn Eastenryk, België, Bulgarije, Kanada, Kroaasje, Syprus, Tsjechië, Denemarken, Estlân, Finlân, Frankryk, Dútslân, Hongarije, Ierlân, Italië, Letlân, Litouwen, Lúksemboarch, Maleizje, Malta, Nederlân, Nij-Seelân, Poalen, Portugal, Roemenië, Singapore, Sloveenje, Slowakije, Spanje, Sweden, Switserlân, it Feriene Keninkryk en de FS.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagen-jildweromgarânsje
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Kies in abonnemint dat by jo past
 vpn-shared-pricing-variable-sub-heading = Al ús abonneminten omfetsje:
 vpn-shared-pricing-recommended-offer = Oanrekommandearre
 vpn-shared-pricing-plan-12-month-v2 = Jierabonnemint
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 moannen
 vpn-shared-pricing-plan-monthly-v2 = Moanne-abonnemint
-# Outdated string
-vpn-shared-pricing-plan-monthly = Moanliks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/moanne</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/moanne</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + BTW</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Abonnemint foar 6 moannen ôfslute
-# Outdated string
-vpn-shared-pricing-get-12-month = Abonnemint foar 12 moannen ôfslute
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Abonnemint foar 6 moannen ôfslute
 vpn-shared-pricing-get-12-month-v2 = Abonnemint foar 12 moannen ôfslute
 vpn-shared-pricing-get-monthly = Moanne-abonnemint ôfslute
 # Variables:
@@ -94,6 +82,8 @@ vpn-shared-pricing-save-percent = Besparje { $percent }%
 vpn-shared-save-percent-on = Besparje { $percent }% op { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *wannear’t jo in jierabonnemint nimme
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *mei in jierabonnemint
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } yn totaal
@@ -133,11 +123,12 @@ vpn-subnav-vpn-vs-proxy = VPN fersus proxy
 vpn-subnav-subscribe = Abonnearje op { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Mear ynfo oer VPN’s
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
+vpn-subnav-features = Funksjes
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Wy brûke cookies om te begripen hokker oansluten partner jo nei { -brand-name-mozilla-vpn } lied hat. Wy diele gjin persoanlik identifisearbere gegevens mei ús partners. Lês ús <a { $attrs }>Privacybelied</a>.
 vpn-shared-affiliate-notification-reject = Ofwize
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +149,12 @@ vpn-shared-why-bundle = Wêrom bondelje?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Besparje { $percent }%</span> op it jierplan fan { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } is yn jo lân noch net beskikber.
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Lykas sjoen yn
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = ‘De VPN fan { -brand-name-mozilla } kin ek <a { $attrs }>yntegrearje yn guon handige funksjes foar privacybeskermingsfunksjes</a> fan harren { -brand-name-firefox } browser.’
