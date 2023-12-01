@@ -10,16 +10,7 @@ whatsnew-page-title-v2 = Wat is der nij yn { -brand-name-firefox }
 whatsnew-page-title = Wat is der nij yn { -brand-name-firefox } – Mear privacy, mear beskerming.
 whatsnew-page-description = Kom yn aksje tsjin in yndustry dy’t jo gegevens oan oare partijen ferkeapet. Tûk en feilich online mei technology dy’t oan jo kant stiet.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Lokwinske! Jo brûke de nijste ferzje fan { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Lokwinske! Jo brûke de nijste ferzje fan { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Der is in noch nijere { -brand-name-firefox } beskikber. <a href="{ $url }">Bywurkje nei de nijste ferzje</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Der is in noch nijere ferzje fan { -brand-name-firefox } beskikber. Start opnij om by te wurkjen.
+whatsnew-update-notification = Jo { -brand-name-firefox } is bywurke.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lês de <a href="{ $url }">Ferzje-notysjes</a> foar mear ynformaasje oer wat der nij is yn jo { -brand-name-firefox }-browser.
