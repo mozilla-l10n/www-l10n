@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Emboguejy { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Ereko { -brand-name-mozilla-vpn }
 navigation-v2-menu = Poravorã
-# Obsolete string
-navigation-v2-get-a-firefox-account = Erekóke { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -59,7 +57,7 @@ navigation-v2-close-who-we-are-menu = Emboty poravorã Mávapa ore
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 navigation-v2-learn-about-the-values = Eikuaa tekoporãrã rehegua ha tekoypy ogueroguatáva ore rembipota.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
-navigation-v2-meet-the-not-for-profit-behind = Eikuaa atyguasu viru’ỹgua { -brand-name-firefox } rapykuéri omyakãva ñanduti iporãvéva.
+navigation-v2-meet-the-not-for-profit-behind = Eikuaa atyguasu viru’ỹgua { -brand-name-firefox } rapykuéri omoakãva ñanduti iporãvéva.
 navigation-v2-get-involved = Emba’apo orendive
 navigation-v2-join-the-fight-for-a = Eipytyvõke ñanduti hekoresãi hag̃ua.
 navigation-v2-leadership = Motenondekuaa

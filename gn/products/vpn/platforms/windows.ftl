@@ -5,15 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Obsolete Strings
-vpn-windows-page-title = { -brand-name-mozilla-vpn } { -brand-name-windows } 10 peg̃uarã
 vpn-windows-page-description = Emo’ãmbaite nde PC red privada virtual (VPN) ndive { -brand-name-mozilla } mba’éva, omoñepyrũva ñanduti ha oñorairõva ne rekoñemi ñanduti pegua ary 1998 guive.
 # Windows strings
 vpn-windows-hero-headline = Eiko jeikememe ha ñemo’ãme { -brand-name-mozilla-vpn } ndive { -brand-name-windows } 10 peg̃uarã
 vpn-windows-ability = Eñeñanduva’erã tekorosãme ñandutípe eimeha térã ehohápe. { -brand-name-mozilla-vpn } ndive, eiporukuaa wifi opavaveguáva ha eikuaa nde jeike hekorosãha mba’evaiapohágui ha ñanduti me’ẽhára oikereívagui. Ore VPN ndahasýi ijeporu, oĩva { -brand-name-windows } 10 peg̃uarã (ha oimeraẽva ne mba’e’okápe), ha nomombeguéi. Ha pe iporãvéva ha’e rupi ko VPN { -brand-name-mozilla } mba’éva { -brand-name-wireguard }® raperekoite ndive, eikuaa hag̃ua ne mba’ekuaarã ipapapy ha ne rembiapo noñeñongatuiha. Ha’e peteĩ VPN iporã ha imbaretéva ne mo’ã añetéva.
 vpn-windows-wifi-headline = Eiko tekorosãme wifi ndive
 vpn-windows-wifi-copy = { -brand-name-mozilla-vpn } omo’ã nde jeike ñandutípe umi oma’ẽ reívagui, ejapo hag̃ua ne rembiapo eime eimehápe — pepoatãguejyha, pytaha koty, taperyva’uhápe — ejepy’apy’ỹre nde rekoñemi ñanduti pegua rehe.
-vpn-windows-about-headline = Omyakãva tekoñemi ñandutípe
+vpn-windows-about-headline = Omoakãva tekoñemi ñandutípe
 vpn-windows-about-copy = Ko atyguasu oiko’ỹva viru rapykuéri año { -brand-name-firefox-browser }, { -brand-name-mozilla }, ha’e tapichakuéra rekoha ñandutigua arapy tuichakue oñeha’ãva Ñanduti hekosãso ha ijurujávo opavavépe g̃uarã. { -brand-name-mozilla } rembipota, ha’e yvypóra ñemomba’e viru renondépe, opaite apopyre romoheñóiva nemoĩ tenondete.
 vpn-windows-privacy-headline = Ñemo’ã peteĩ votõ jekutúpe
 vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } ombopapapy ñandutípe jeike ha oñomi pe IP kundaharape oikuaaséva nde PC mesa ariguágui térã laptop pe taperekoite oikóva ndive { -brand-name-wireguard }®.

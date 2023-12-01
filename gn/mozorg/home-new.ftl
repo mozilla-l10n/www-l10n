@@ -11,7 +11,7 @@ home-mission-driven = Omopu’ãva tembipota. Omopu’ãva avakuéra.
 home-were-not-normal = Ore ndaha’éi mba’apohaguasu tembiporupyahuguareíva. Umi romoheñóiva omotenonde tapichápe ha hekoñemi viruñeganagua. Roime rojapo hag̃ua Ñandutígui tenda hesãiva ha jevy’aha opavavépe g̃uarã.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Ñanduti resãi ha ñeikundaha porã ha’e ore rekovesã.”
-home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } myakãhára
+home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } moakãhára
 home-mozilla-makes-privacy = { -brand-name-mozilla } omoheñói apopyre omomba’éva tekoñemi
 home-product-firefox-browsing = Ñeikundaha iñemi ha hekorosãva
 home-cta-get-firefox = Erekóke { -brand-name-firefox }
