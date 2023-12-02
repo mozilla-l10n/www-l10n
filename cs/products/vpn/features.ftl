@@ -30,13 +30,13 @@ vpn-features-connect-up-to =
        *[other] Připojte až { $devices } zařízení
     }
 vpn-features-supported-platforms = Podporováno na operačních systémech Windows, macOS, Android, iOS a Linux.
-vpn-features-no-bandwidth = Žádná omezení šířky pásma nebo přiškrcování
+vpn-features-no-bandwidth = Žádné omezení šířky pásma nebo přiškrcování
 vpn-features-including-no-data = Včetně žádného datového limitu nebo rychlostního omezení.
 vpn-features-fast-network = Vysoká rychlost sítě i při hraní her
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } používá <a { $wireguard }>Wireguard</a>™, jeden z nejvýkonnějších protokolů VPN.
-vpn-features-secure = Bezpečný
+vpn-features-secure = Bezpečnost
 vpn-features-block-ads = Zabraňte inzerentům, aby na vás cílili
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } vám pomáhá automaticky blokovat reklamy a reklamní sledovací prvky, aby neviděli vaši online aktivitu.
 vpn-features-encrypt-your-internet = Šifruje všechen váš internetový provoz
@@ -51,12 +51,12 @@ vpn-features-support-for-custom-dns = Podpora pro vlastní DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Se službou { -brand-name-mozilla-vpn } můžete chránit svůj provoz a přitom směrovat své DNS dotazy kamkoliv chcete. <a { $dns }>Zjistěte více o podpoře vlastních DNS</a>.
-vpn-features-flexible = Flexibilní
+vpn-features-flexible = Flexibilita
 vpn-features-personalized-server = Personalizované doporučení umístění serveru
 vpn-features-well-suggest-which-servers = Doporučíme vám servery ve vašem okolí, které zajistí nejrychlejší a nejspolehlivější připojení k internetu.
 vpn-features-personalize-which-apps = Přizpůsobte si, které aplikace získají ochranu skrze VPN
 vpn-features-easily-exclude-apps = Jednoduše odstraňte aplikace z ochrany pomocí VPN — bez nutnosti odpojovat zařízení od { -brand-name-mozilla-vpn }. Dostupné pro zařízení se systémem Windows, Android a Linux.
-vpn-features-set-different-locations = Nastavit ve { -brand-name-firefox(case: "dat") } pro každý panel jiné umístění
+vpn-features-set-different-locations = Nastavte si ve { -brand-name-firefox(case: "dat") } pro každý panel jiné umístění
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Zkombinujte { -brand-name-mozilla-vpn } s rozšířením prohlížeče { -brand-name-firefox } pro Multi-Account Containers a nastavte různá umístění VPN pro každý panel { -brand-name-firefox(case: "gen") }. <a { $containers }>Přečtěte si jak</a>.

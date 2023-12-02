@@ -42,7 +42,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-fast-network-speeds-even-while = Vysoká rychlost sítě i při hraní her
 vpn-landing-no-logging-tracking-or-sharing = Žádné protokolování, sledování nebo sdílení síťových dat
-vpn-landing-no-bandwidth-restrictions-or = Žádná omezení šířky pásma nebo přiškrcování
+vpn-landing-no-bandwidth-restrictions-or = Žádné omezení šířky pásma nebo přiškrcování
 vpn-landing-extra-security-whole-device = Extra zabezpečení: ochrana celého zařízení, multi-hop směrování a další
 vpn-landing-see-all-features = Zobrazit všechny funkce
 vpn-landing-fram-a-brand-you-can-trust = Od značky, které můžete věřit
