@@ -70,8 +70,10 @@
 -brand-name-firefox-accounts = Firefox 계정
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay-premium = Firefox 릴레이 프리미엄
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox 동기화
 -brand-name-firefox-translations = Firefox Translations
@@ -103,14 +105,14 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = Glean
+-brand-name-mdn-plus = MDN 플러스
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla 개발자 네트워크
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mdn-plus = MDN 플러스
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -129,8 +131,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
