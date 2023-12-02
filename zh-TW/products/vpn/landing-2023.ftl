@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-title = { -brand-name-mozilla-vpn }: 保護您的整台裝置
+vpn-landing-title = { -brand-name-mozilla-vpn }：保護您的整台裝置
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
@@ -36,18 +36,18 @@ vpn-landing-more-than-servers-in-countries =
     { $servers ->
        *[other] 在超過 { $countries } 個國家超過 { $servers } 台伺服器
     }
-vpn-landing-fast-network-speeds-even-while = 玩遊戲時網路速度也很快
-vpn-landing-no-logging-tracking-or-sharing = 不記錄、追踪或分享網路資料
-vpn-landing-no-bandwidth-restrictions-or = 沒有頻寬限製或節流
+vpn-landing-fast-network-speeds-even-while = 玩遊戲時網路速度也超快
+vpn-landing-no-logging-tracking-or-sharing = 不記錄、追蹤或分享網路資料
+vpn-landing-no-bandwidth-restrictions-or = 沒有頻寬限制、不限速
 vpn-landing-extra-security-whole-device = 額外的安全性: 保護整台裝置、多點跳轉路由等
 vpn-landing-see-all-features = 檢視所有功能
-vpn-landing-fram-a-brand-you-can-trust = 來自您可以信任的品牌
+vpn-landing-fram-a-brand-you-can-trust = 由您可以信任的品牌所提供
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家自 1998 年起開始為更健康的網路環境而戰的非營利網際網路公司。
 vpn-landing-one-subscription-for-all-your = 一次訂閱，所有裝置都適用
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>由 { -brand-name-mozilla } 提供。</strong>自 1998 年起就為您的隱私權而戰。
 vpn-landing-learn-more-from-our-experts = 從我們的專家了解更多資訊
-vpn-landing-do-you-need-a-vpn-at-home = 您需要在家里安裝 VPN 嗎以下是您可能會想要的 5 個理由。
+vpn-landing-do-you-need-a-vpn-at-home = 需要在家裡安裝 VPN 嗎？以下是您可能會想要的 5 個理由。
 vpn-landing-what-is-an-ip-address = IP 地址是什麼？
-vpn-landing-how-your-location-is-tracked = 如何追踪您的所在位置以及如何限制分享位置
+vpn-landing-how-your-location-is-tracked = 您的所在位置是如何被追蹤的，以及要如何避免
 vpn-landing-see-more-resources = 看更多資源

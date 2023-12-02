@@ -10,7 +10,7 @@ vpn-mac-looking-for = 正在尋找一種 VPN 來保護您的 Mac 嗎{ -brand-nam
 vpn-mac-protect-your-mac = 使用 { -brand-name-mozilla-vpn } 保護您的 Mac
 vpn-mac-a-vpn-is = 必須安裝 VPN 才能保護您的線上隱私與安全。駭客或網路服務供應商可窺探您的上網行為或偷走您的個人資料。
 vpn-mac-but-finding = 但要找到一套好的 VPN 服務可能會有點難。有些速度慢、不可靠甚至會保留您的上網紀錄。這也是我們打造 { -brand-name-mozilla-vpn } 的原因。這是一套更快、更安全、更值得信賴的 VPN 由 { -brand-name-firefox } 的開發者提供。
-vpn-mac-with-mozilla-vpn = 透過 { -brand-name-mozilla-vpn }您可以
+vpn-mac-with-mozilla-vpn = 透過 { -brand-name-mozilla-vpn }，您可以：
 vpn-mac-get-one-click = 透過簡單且對使用者友善的介面一鍵開啟隱私保護功能。
 vpn-mac-connect-up-to = 透過一份訂閱服務最多可連結 5 台不同的裝置。
 # “Cap” means putting a limit to
