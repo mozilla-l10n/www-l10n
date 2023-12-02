@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下載 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入排隊名單
 vpn-shared-sign-in-link = 已經訂閱了嗎？
-# Obsolete string
-vpn-shared-available-countries-v5 = 我們已在奧地利、比利時、加拿大、芬蘭、法國、德國、愛爾蘭、義大利、馬來西亞、荷蘭、紐西蘭、新加坡、西班牙、瑞典、瑞士、英國和美國推出 { -brand-name-mozilla-vpn }。
 vpn-shared-available-countries-v6 = 我們已在奧地利、比利時、保加利亞、加拿大、克羅埃西亞、賽普勒斯、捷克、丹麥、愛沙尼亞、芬蘭、法國、德國、匈牙利、愛爾蘭、義大利、拉脫維亞、立陶宛、盧森堡、馬來西亞、馬爾他、荷蘭、紐西蘭、波蘭、葡萄牙、羅馬尼亞、新加坡、斯洛維尼亞、斯洛伐克、西班牙、瑞典、瑞士、英國、美國推出 { -brand-name-mozilla-vpn }。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 天內保證退款
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = 選擇適合您的方案
 vpn-shared-pricing-variable-sub-heading = 我們有下列方案:
 vpn-shared-pricing-recommended-offer = 推薦
 vpn-shared-pricing-plan-12-month-v2 = 年度方案
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 個月
 vpn-shared-pricing-plan-monthly-v2 = 月租方案
-# Obsolete string
-vpn-shared-pricing-plan-monthly = 每月
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = <span>每月</span> { $amount }
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = <span>每月</span> { $amount }
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = <span>每月</span> { $amount }（外加稅金）
-# Obsolete string
-vpn-shared-pricing-get-6-month = 訂閱 6 個月方案
-# Obsolete string
-vpn-shared-pricing-get-12-month = 訂閱 12 個月方案
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = 訂閱半年繳方案
 vpn-shared-pricing-get-12-month-v2 = 訂閱年繳方案
 vpn-shared-pricing-get-monthly = 訂閱月繳方案
 # Variables:
@@ -95,7 +83,7 @@ vpn-shared-save-percent-on = 訂閱 { -brand-name-mozilla-vpn } 省下 { $percen
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = * 訂閱年約方案時
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-with-an-annual-subscription = * 需按年訂閱
+vpn-shared-with-an-annual-subscription = * 年約訂閱時
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = 總金額 { $amount }
@@ -169,6 +157,6 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } 尚未
 vpn-press-as-seen-in = 出現於
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
-vpn-press-mozillas-vpn-can-also-integrate-into = 「{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合到 { -brand-name-firefox } 瀏覽器的隱私保護功能</a>。
-vpn-press-unique-features-like-its-multi-account = 「…獨特的功能像是 Multi-Account Containers 可能會讓那些有更嚴重隱私風險的使用者也能更簡單使用。」
+vpn-press-mozillas-vpn-can-also-integrate-into = 「{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合進 { -brand-name-firefox } 瀏覽器的隱私保護功能</a>。」
+vpn-press-unique-features-like-its-multi-account = 「…可讓對隱私權較為在意的使用者，更簡單就能使用 Multi-Account Containers 等獨特功能。」
 vpn-press-mozilla-vpns-feature-list-has-grown = 「自推出以來{ -brand-name-mozilla-vpn } 的功能清單已經有了明顯的成長在某些方面服務已經超過了許多專業的 VPN。」

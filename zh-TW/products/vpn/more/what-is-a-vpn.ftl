@@ -41,7 +41,7 @@ vpn-what-is-its-very-hard = 很難找到值得信賴的 VPN。 VPN 設計用來�
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
-vpn-what-is-weve-done-the = 我們做了一些努力確保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 真的尊重您的隱私權也是我們願意用 { -brand-name-mozilla-vpn }聲望。 { -brand-name-mozilla } 以打造可幫助您確保資訊安全的產品而聞名。我們遵循簡單易懂、又不簡單的<a href="{ $principles }">隱私資料處理原則</a>讓我們只專注於提供服務所需要的那些資訊。 { -brand-name-mozilla-vpn } 精簡而現代的技術可為使用者提供快速連線、完整的 VPN 保護與安全性。由於本 VPN 的開發者是由<a href="{ $mission }">以使命為導向</a>的公司在背後全力您可以相信花在此產品上的錢不只能讓您-notch VPN但也讓網際網路對每個人都變得更好。
+vpn-what-is-weve-done-the = 我們做了一些努力確保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 真正尊重您的隱私權，也是我們願意用來建立聲望的部分。{ -brand-name-mozilla } 以打造可幫助您確保資訊安全的產品而聞名。我們遵循簡單易懂、不胡謅的<a href="{ $principles }">隱私資料處理原則</a>讓我們專注於只取得服務所必需的資訊。{ -brand-name-mozilla-vpn } 使用最精簡的現代技術，提供使用者一套快速又安全的的 VPN 保護。又由於我們是由<a href="{ $mission }">使命所驅動</a>的公司在背後全力開發，您可以相信花在此產品上的每一分錢不僅能獲得一流的 VPN 服務，也讓網際網路對每個人都變得更好。
 vpn-what-is-can-vpns-protect = VPN 可保護我不受網路犯罪影響嗎？
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/

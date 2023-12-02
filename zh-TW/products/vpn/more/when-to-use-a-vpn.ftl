@@ -44,4 +44,4 @@ vpn-when-to-use-the-most-important = 挑選 VPN 時最重要的事情就是要�
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
-vpn-when-to-use-weve-done-the = 我們做了一些努力確保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 真的尊重您的隱私權也是我們願意用 { -brand-name-mozilla-vpn }聲望。 { -brand-name-mozilla } 以打造可幫助您確保資訊安全的產品而聞名。我們遵循簡單易懂、又不簡單的<a href="{ $principles }">隱私資料處理原則</a>讓我們只專注於提供服務所需要的那些資訊。由於我們是由<a href="{ $mission }">專案驅動</a>公司所支援您可以相信花在此產品上的不僅能確保您有一流的安全性也讓網際網路對每個人都變得更好。
+vpn-when-to-use-weve-done-the = 我們做了一些努力確保 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 真正尊重您的隱私權，也是我們願意用來建立聲望的部分。{ -brand-name-mozilla } 以打造可幫助您確保資訊安全的產品而聞名。我們遵循簡單易懂、不胡謅的<a href="{ $principles }">隱私資料處理原則</a>讓我們專注於只取得服務所必需的資訊。由於我們是由<a href="{ $mission }">使命所驅動</a>的公司在背後全力開發，您可以相信花在此產品上的每一分錢不僅能獲得一流的安全性，也讓網際網路對每個人都變得更好。
