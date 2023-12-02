@@ -10,7 +10,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkce, které <br> chrání váš život online
-vpn-features-convenient = Pohodlné
+vpn-features-convenient = Pohodlí
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
