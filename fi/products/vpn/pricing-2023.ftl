@@ -20,4 +20,5 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ei ole vielä saatav
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = UKK
 vpn-pricing-refund-policy = Mikä on { -brand-name-mozilla-vpn }:n hyvityskäytäntö?
+vpn-pricing-what-information = Mitä tietoja { -brand-name-mozilla-vpn } säilyttää?
 vpn-pricing-how-do-i-manage = Kuinka hallitsen tilaustani ja muutan sitä?
