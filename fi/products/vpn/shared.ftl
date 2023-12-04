@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hanki { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Liity odotuslistalle
 vpn-shared-sign-in-link = Oletko jo tilaaja?
-# Outdated string
-vpn-shared-available-countries-v5 = Tarjoamme tällä hetkellä { -brand-name-mozilla-vpn }:ää Alankomaissa, Belgiassa, Espanjassa, Irlannissa, Isossa-Britanniassa, Italiassa, Itävallassa, Kanadassa, Malesiassa, Ranskassa, Saksassa, Ruotsissa, Singaporessa, Suomessa, Sveitsissä, Uudessa-Seelannissa ja Yhdysvalloissa.
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } on tällä hetkellä saatavilla Alankomaissa, Belgiassa, Bulgariassa, Espanjassa, Irlannissa, Iso-Britanniassa, Italiassa, Itävallassa, Kanadassa, Kroatiassa, Kyproksella, Latviassa, Liettuassa, Luxemburgissa, Malesiassa, Maltalla, Puolassa, Portugalissa, Ranskassa, Ruotsissa, Romaniassa, Saksassa, Singaporessa, Sloveniassa, Slovakiassa, Suomessa, Sveitsissä, Tanskassa, Tšekissä, Uudessa-Seelannissa, Unkarissa, Virossa ja Yhdysvalloissa.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 päivän rahat takaisin -takuu
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Valitse sinulle sopiva tilaus
 vpn-shared-pricing-variable-sub-heading = Kaikki tilaukset sisältävät:
 vpn-shared-pricing-recommended-offer = Suositeltu
 vpn-shared-pricing-plan-12-month-v2 = 12 kuukauden tilaus
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 kuukautta
 vpn-shared-pricing-plan-monthly-v2 = Kuukausitilaus
-# Outdated string
-vpn-shared-pricing-plan-monthly = Kuukausittain
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount } <span>kuukaudessa</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount } <span>kuukaudessa</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/kuukausi + verot</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Hanki 6 kuukauden tilaus
-# Outdated string
-vpn-shared-pricing-get-12-month = Hanki 12 kuukauden tilaus
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Hanki 6 kuukauden tilaus
 vpn-shared-pricing-get-12-month-v2 = Hanki 12 kuukauden tilaus
 vpn-shared-pricing-get-monthly = Hanki kuukausitilaus
 # Variables:
@@ -94,6 +82,8 @@ vpn-shared-pricing-save-percent = Säästä { $percent } %
 vpn-shared-save-percent-on = Säästä { $percent } % { -brand-name-mozilla-vpn }:stä*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = * kun sitoudut 12 kuukauden tilaukseen
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *vuositilauksella
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } yhteensä
@@ -133,11 +123,12 @@ vpn-subnav-vpn-vs-proxy = VPN vs välityspalvelin
 vpn-subnav-subscribe = Tilaa { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Lisätietoja VPN:istä
 vpn-subnav-download-mozilla-vpn = Lataa { -brand-name-mozilla-vpn }
+vpn-subnav-features = Ominaisuudet
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Käytämme evästeitä ymmärtääksemme, mikä yhteistyökumppani johti sinut { -brand-name-mozilla-vpn }:n pariin. Emme jaa yksilöiviä tietoja kumppaneillemme. Lue <a { $attrs }>tietosuojakäytäntömme</a>.
 vpn-shared-affiliate-notification-reject = Hylkää
 vpn-shared-affiliate-notification-ok = OK
@@ -158,6 +149,9 @@ vpn-shared-why-bundle = Miksi yhdessä?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Säästä { $percent } %</span> { -brand-name-relay-premium }in vuositilauksella
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ei ole vielä saatavilla maassasi
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Valokeilassa

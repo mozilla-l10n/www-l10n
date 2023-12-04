@@ -7,9 +7,13 @@
 
 vpn-features-page-title = Ominaisuudet - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-features-convenient = Kätevä
 vpn-features-see-our-list = Katso palvelinlistamme.
 vpn-features-supported-platforms = Saatavilla Windowsille, Androidille, Linuxille, iOS:lle ja macOS:lle.
+vpn-features-secure = Turvallinen
+vpn-features-block-ads = Estä mainostajia seuraamasta sinua
 vpn-features-encrypt-your-internet = Salaa kaikki Internet-liikenteesi
+vpn-features-stronger-malware = Vahvempi haittaohjelmasuojaus
 vpn-features-flexible = Joustava
 vpn-features-trustworthy = Luotettava
 vpn-features-money-back = 30 päivän rahat takaisin -takuu
