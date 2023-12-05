@@ -45,7 +45,7 @@ vpn-what-is-weve-done-the = Hetaiterei romba’apo omomba’e hag̃ua <a href="{
 vpn-what-is-can-vpns-protect = ¿Ko’ã VPNs omo’ãpa umi mba’evaiapohápe?
 # Variables
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
-vpn-what-is-while-a-vpn = Peteĩ VPN ome’ẽkuaa jeike ñandutípe tekorosãme, nanemo’ãi opavave tapicha hekovaíva pérupigui. Eike vove ñandutípe, VPN térã hese’ỹ, ejesarekóke umi juajuha imarãkuaáva rehe, maranduvai myasãimbyre, tembiapo vai ha ambue imarãkuaáva. <a href="{ $url }">Eiko tekorosãme ñandutípe</a> ko’áva ha’e ñamindu’u ára ha ára rehegua.
+vpn-what-is-while-a-vpn = Peteĩ VPN ome’ẽkuaa jeike ñandutípe tekorosãme, nanemo’ãi opavave tapicha hekovaíva pérupigui. Eike vove ñandutípe, VPN térã hese’ỹ, ejesarekóke umi juajuha imarãkuaáva rehe, maranduvai moasãimbyre, tembiapo vai ha ambue imarãkuaáva. <a href="{ $url }">Eiko tekorosãme ñandutípe</a> ko’áva ha’e ñamindu’u ára ha ára rehegua.
 vpn-what-is-are-vpns-legal = ¿Hekovoñápiko ko’ã VPNs?
 vpn-what-is-installing-and-using = Emohenda ha eiporu VPN ojeporukuaáva opavave nunga tetãme, oĩhápe avei Estados Unidos, Reino Unido, Canadá ha Nueva Zelanda, hákatu ndahetái tetã ombohape ijeporu. Eiporavóramo peteĩ VPN jeporu, nde ehechava’erã tetãnguéra léi ohecha hag̃ua ijeporu ojokupytýpa pe léi he’iháicha.
 vpn-what-is-are-vpns-only = ¿Umi VPNsha’e mohendahápe g̃uarã añónte?

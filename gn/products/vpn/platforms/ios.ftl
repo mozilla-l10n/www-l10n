@@ -23,7 +23,7 @@ vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } ndahasýi ijeporu. Eikutu pet
 vpn-ios-servers-headline = Eike hetave { $servers } mba’e’okápe arapy tuichakue
 # Variables:
 #   $countries (number) - number of available countries
-vpn-ios-servers-copy = Ejogua Suiza guive. Emyasãi Canadá guive. Eikundaha Australia guive. { -brand-name-mozilla-vpn } ndive, ikatu emboaje ne rendaite ne { -brand-name-iphone } térã { -brand-name-ipad }-pe peteĩva umi { $countries } tetãnguéra, ombojurujáva hetaiterei tetepy.
+vpn-ios-servers-copy = Ejogua Suiza guive. Emoasãi Canadá guive. Eikundaha Australia guive. { -brand-name-mozilla-vpn } ndive, ikatu emboaje ne rendaite ne { -brand-name-iphone } térã { -brand-name-ipad }-pe peteĩva umi { $countries } tetãnguéra, ombojurujáva hetaiterei tetepy.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Eikekuaa { $devices } mba’e’oka peg̃uarã

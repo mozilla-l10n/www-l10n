@@ -24,7 +24,7 @@ vpn-mobile-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-mobile-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Emyasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne mohendadaha rendaite térã pumbyry peteĩva { $servers } mohendahavusúpe hetave { $countries } tetãme.
+vpn-mobile-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Emoasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne mohendadaha rendaite térã pumbyry peteĩva { $servers } mohendahavusúpe hetave { $countries } tetãme.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Emo’ã { $devices } mba’e’oka peve

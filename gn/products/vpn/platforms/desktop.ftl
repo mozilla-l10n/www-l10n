@@ -23,9 +23,9 @@ vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } rembiporu’i ombopapapy 
 vpn-desktop-servers-headline = Eike a mohendahavusu arapyguávape
 # Variables:
 #   $servers (number) - number of available servers
-vpn-desktop-servers-copy-updated = Eikundaha Brasil guive. Eñembosarái Japón guive. Emyasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne pumbyry rendaite térã mohendaha peteĩva { $servers } mohendahavusúpe.
+vpn-desktop-servers-copy-updated = Eikundaha Brasil guive. Eñembosarái Japón guive. Emoasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne pumbyry rendaite térã mohendaha peteĩva { $servers } mohendahavusúpe.
 # Obsolete string
-vpn-desktop-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Emyasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne pumbyry rendaite térã mohendaha oiporavóvo { $servers } mokõiháva pa’ũgui.
+vpn-desktop-servers-copy = Eikundaha Brasil guive. Eñembosarái Japón guive. Emoasãi México guive. { -brand-name-mozilla-vpn } omoneĩ emoambuévo ne pumbyry rendaite térã mohendaha oiporavóvo { $servers } mokõiháva pa’ũgui.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Emo’ã { $devices } mba’e’oka peve
