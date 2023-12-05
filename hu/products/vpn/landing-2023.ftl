@@ -17,11 +17,11 @@ vpn-landing-a-virtual-private-network-protects = Egy virtuális magánhálózat 
 vpn-landing-see-all-the-ways-mozilla-vpn = Tekintse meg az összes módszert, amellyel a { -brand-name-mozilla-vpn } védi Önt.
 vpn-landing-how-a-vpn-helps-you = Hogyan segít egy VPN
 vpn-landing-keeps-your-data-safe = Biztonságban tartja adatait nyilvános Wi-Fi-n
-vpn-landing-log-in-to-your-bank-or = Jelentkezzen be nyugodtan bankjába vagy orvosi rendelőjébe a repülőtérről, kávézóból vagy bárhonnan.
+vpn-landing-log-in-to-your-bank-or = Nyugodtan bejelentkezhet a bankjába vagy az orvosi rendelőjébe a repülőtérről, kávézóból vagy bárhonnan.
 vpn-landing-blocks-advertisers-from = Blokkolja a hirdetőket, hogy ne célozzák Önt
-vpn-landing-hide-your-activity-from = Rejtse el tevékenységét a követők és a rosszindulatú programok elől, így anélkül vásárolhat, hogy figyelnék.
+vpn-landing-hide-your-activity-from = Elrejti a tevékenységét a követők és a rosszindulatú programok elől, így anélkül vásárolhat, hogy figyelnék.
 vpn-landing-helps-you-access-global = Segít a globális tartalmak elérésében
-vpn-landing-check-out-streaming-media = Nézze meg a médiát, weboldalakat és élő közvetítéseket más országokból, miközben utazik vagy otthon.
+vpn-landing-check-out-streaming-media = Nézhet médiatartalmakat, weboldalakat és élő közvetítéseket más országokból, utazás közben vagy otthon.
 vpn-landing-features = Funkciók
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -39,7 +39,7 @@ vpn-landing-more-than-servers-in-countries =
        *[other] Több mint { $servers } kiszolgáló { $countries }+ országban
     }
 vpn-landing-fast-network-speeds-even-while = Nagy hálózati sebesség még játék közben is
-vpn-landing-no-logging-tracking-or-sharing = Nincs naplózás, nyomkövetés vagy hálózati adatok megosztása
+vpn-landing-no-logging-tracking-or-sharing = Nincs naplózás, nyomkövetés vagy hálózatiadat-megosztás
 vpn-landing-no-bandwidth-restrictions-or = Nincs sávszélesség-korlátozás vagy visszafogás
 vpn-landing-extra-security-whole-device = Extra biztonság: teljes eszközvédelem, többugrásos útválasztás és még sok más
 vpn-landing-see-all-features = Összes funkció megtekintése
