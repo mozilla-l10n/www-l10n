@@ -38,7 +38,7 @@ history-not-many-people-noticed = Ndahetái tapicha ohechakuaa upéramo, hákatu
 history-in-2003-the-mozilla-project = Ary 2003 jave, { -brand-name-mozilla } apopyrã omoheñói { -brand-name-mozilla-foundation }, peteĩ <a href="{ $foundation }">atyguasu ijeheguíva viru’ỹgua</a> ombojopóiva tapicha peteĩteĩ ha avei heta mba’apohaguasu.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } ipyahúva oñangareko añetéta gueteri opaite apopyrãme ojejapóva ha avei omoherakuãta tuichaháicha <a href="{ $manifesto }">ñemyesakã, tekopyahu ha paũ</ a> ñandutípe.
+history-the-new-mozilla-foundation = { -brand-name-mozilla-foundation } ipyahúva oñangareko añetéta gueteri opaite apopyrãme ojejapóva ha avei omoherakuãta tuichaháicha <a href="{ $manifesto }">ñemoesakã, tekopyahu ha paũ</a> ñandutípe.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Ojapo omoherakuã memévo software, { -brand-name-firefox } ichagua ha { -brand-name-thunderbird }, ha avei oikévo tenda ipyahúvape, ha’éva dar<a href="{ $grants }">katupyryrã</a> oykeko ñandutípe jeike iporãve hag̃ua.
