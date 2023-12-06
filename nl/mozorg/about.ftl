@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: snel voor het goede
 about-when-you-use-the-new-firefox = Als u de nieuwe { -brand-name-firefox } gebruikt, krijgt u een razendsnelle ervaring en steunt u { -brand-name-mozilla }’s missie om het internet voor iedereen gezond, bijzonder en gastvrij te houden.
 about-walking-our-privacy-talk = Praatje over onze privacy
 about-when-the-facebook-breach-was = Toen het { -brand-name-facebook }-datalek bekend werd, had { -brand-name-mozilla } een direct antwoord – en een { -brand-name-firefox }-product om gebruikersprivacy te steunen.
-about-talking-internet-issues-irl = Internetproblemen in het echte leven
-about-in-mozillas-irl-podcast-host = In { -brand-name-mozilla }’s IRL-podcast deelt gastvrouw Manoush Zomorodi waargebeurde online verhalen en discussies over de toekomst van het web.
 about-corporation-foundation-not = Corporatie. Stichting. Non-profit.
 about-learn-about-the-mozilla-foundation = Info over de { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } plaatst mensen boven winst in alles wat we zeggen, bouwen en doen. Eigenlijk zit er een non-profitstichting in het hart van onze onderneming.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Lees het manifest
 about-a-global-view = Een globaal overzicht
 about-with-offices-all-over-the = Met <a href="{ $url }">kantoren over de hele wereld</a> beschouwen we het internet als iets van meerdere culturen en contexten.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Technologieproblemen in het echte leven
+about-in-mozillas-multi-award-winning = In { -brand-name-mozilla }’s meermaals bekroonde podcast spreekt gastvrouw Bridget Todd met de mensen die de toekomst van het internet en AI vormgeven.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internetproblemen in het echte leven
+about-in-mozillas-irl-podcast-host = In { -brand-name-mozilla }’s IRL-podcast deelt gastvrouw Manoush Zomorodi waargebeurde online verhalen en discussies over de toekomst van het web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> jaarlijks welkom geheten niet-medewerkers
 about-berlin = Berlijn
