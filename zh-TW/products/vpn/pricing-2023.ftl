@@ -39,7 +39,7 @@ vpn-pricing-what-information = { -brand-name-mozilla-vpn } 會保留哪些資訊
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = 我們嚴格遵守 { -brand-name-mozilla } 的<a href="{ $principles }">隱私資料處理原則</a>，只收集讓 { -brand-name-mozilla-vpn } 服務能夠正常運作並改善產品所必需的資料。我們也會在我們的行動應用程式中追蹤行銷活動和導流資料，以幫助 { -brand-name-mozilla } 了解行銷活動的效果。若需更多資訊，請閱讀我們的<a href="{ $notice }">隱私權公告</a>。
+vpn-pricing-we-adhere-strictly = 我們嚴格遵守 { -brand-name-mozilla } 的<a { $principles }>隱私資料處理原則</a>，只收集讓 { -brand-name-mozilla-vpn } 服務能夠正常運作並改善產品所必需的資料。我們也會在我們的行動應用程式中追蹤行銷活動和導流資料，以幫助 { -brand-name-mozilla } 了解行銷活動的效果。若需更多資訊，請閱讀我們的<a { $notice }>隱私權公告</a>。
 vpn-pricing-how-do-i-manage = 我要如何管理訂閱和變更方案？
 # Variables
 # $manage (url) - link to subscription management page
