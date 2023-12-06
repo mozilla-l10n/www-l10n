@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: 更快、更多好事
 about-when-you-use-the-new-firefox = 當您使用新版 { -brand-name-firefox } 時，會有超快的使用體驗，同時也正在支持 { -brand-name-mozilla } 要讓網際網路變得更健康、更奇特也包容所有人的使命。
 about-walking-our-privacy-talk = Walking Our Privacy Talk
 about-when-the-facebook-breach-was = { -brand-name-facebook } 傳出個資洩漏事件後，{ -brand-name-mozilla } 立即發出聲明，並推出 { -brand-name-firefox } 產品來確保使用者的隱私。
-about-talking-internet-issues-irl = 討論網路上的議題 IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } 的 IRL podcast 主持人 Manoush Zomorodi 分享了線上生活的真實故事，並與聽眾一同討論 Web 的未來。
 about-corporation-foundation-not = 企業、基金會、非營利。
 about-learn-about-the-mozilla-foundation = 了解 { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = 不論是言行或是打造的產品，{ -brand-name-mozilla } 都看重人們大過利益。實際上我們的企業核心是個非營利性質的基金會。
@@ -33,6 +31,11 @@ about-read-the-manifesto = 閱讀宣言
 about-a-global-view = 全球觀點
 about-with-offices-all-over-the = 透過<a href="{ $url }">全球各地的辦事處</a>，我們考量各種不同文化與社會環境來影響網際網路。
 about-san-francisco = 舊金山
+about-talking-tech-issues-irl = 討論科技議題 IRL
+about-in-mozillas-multi-award-winning = 由主持人 Bridget Todd 在 { -brand-name-mozilla } 得獎無數的 Podcast 中，與人們一同討論如何塑造網際網路與 AI 的未來的相關議題。
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = 討論網路上的議題 IRL
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } 的 IRL podcast 主持人 Manoush Zomorodi 分享了線上生活的真實故事，並與聽眾一同討論 Web 的未來。
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = 每年接待 <strong>2000</strong> 位不是員工的訪客
 about-berlin = 柏林
