@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: fluch foar it goede
 about-when-you-use-the-new-firefox = As jo de nije { -brand-name-firefox } brûke, krije jo in razendflugge ûnderfining en stypje jo { -brand-name-mozilla }’s missy om it ynternet foar elkenien sûn, bysûnder en gastfrij te hâlden.
 about-walking-our-privacy-talk = Praatsje oer ús privacy
 about-when-the-facebook-breach-was = Doe it { -brand-name-facebook }-datalek bekend waard, hie { -brand-name-mozilla } daliks in antwurd – en in { -brand-name-firefox }-produkt om brûkersprivacy te stypjen.
-about-talking-internet-issues-irl = Ynternetproblemen yn it wiere libben
-about-in-mozillas-irl-podcast-host = Yn { -brand-name-mozilla }’s IRL-podcast dielt gastfrou Manoush Zomorodi wiergebeurde online ferhalen en diskusjes oer de takomst fan it web.
 about-corporation-foundation-not = Korporaasje. Stichting. Non-profit.
 about-learn-about-the-mozilla-foundation = Ynfo oer de { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } pleatst minsken boppe winst yn alles wat wy sizze, bouwe en dogge. Eins sit der in non-profitstichting yn it hert fan ús ûndernimming.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Lês it manifest
 about-a-global-view = In globaal oersjoch
 about-with-offices-all-over-the = Mei <a href="{ $url }">kantoaren oer de hiele wrâld</a> beskôgje wy it ynternet as earne wat fan mear kultueren en konteksten.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Technologyproblemen yn it echte libben
+about-in-mozillas-multi-award-winning = Yn { -brand-name-mozilla }’s faker bekroande podcast, sprekt gastfrou Bridget Todd mei de minsken dy’t de takomst fan it ynternet en AI foarmjaan.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Ynternetproblemen yn it wiere libben
+about-in-mozillas-irl-podcast-host = Yn { -brand-name-mozilla }’s IRL-podcast dielt gastfrou Manoush Zomorodi wiergebeurde online ferhalen en diskusjes oer de takomst fan it web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> jierliks wolkom hjitten net-meiwurkers
 about-berlin = Berlyn
