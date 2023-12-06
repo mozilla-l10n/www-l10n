@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Ακόμη πιο γρή�
 about-when-you-use-the-new-firefox = Όταν χρησιμοποιείτε το νέο { -brand-name-firefox }, απολαμβάνετε μια απίστευτα γρήγορη εμπειρία, ενώ παράλληλα υποστηρίζετε την αποστολή της { -brand-name-mozilla } για ένα υγιές, περίεργο και φιλόξενο προς όλους διαδίκτυο.
 about-walking-our-privacy-talk = Συζήτηση για τη σημασία του απορρήτου
 about-when-the-facebook-breach-was = Όταν αποκαλύφθηκε η παραβίαση του { -brand-name-facebook }, η { -brand-name-mozilla } αντέδρασε άμεσα – με το { -brand-name-firefox } που υπερασπίζεται το απόρρητο των χρηστών.
-about-talking-internet-issues-irl = IRL συζήτησης διαδικτυακών ζητημάτων
-about-in-mozillas-irl-podcast-host = Στο IRL podcast της { -brand-name-mozilla }, η Manoush Zomorodi μοιράζεται πραγματικές ιστορίες ζωής στο διαδίκτυο και παρουσιάζει συζητήσεις σχετικά με το μέλλον του ιστού.
 about-corporation-foundation-not = Εταιρεία. Ίδρυμα. Όχι για το κέρδος.
 about-learn-about-the-mozilla-foundation = Μάθετε για το { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Η { -brand-name-mozilla } βάζει τους ανθρώπους πάνω από το κέρδος, σε όσα λέει, κάνει και δημιουργεί. Βασικά, υπάρχει ένα μη κερδοσκοπικό ίδρυμα στην καρδιά της εταιρείας μας.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Διαβάστε τη διακήρυξη
 about-a-global-view = Μια παγκόσμια θέα
 about-with-offices-all-over-the = Με <a href="{ $url }">γραφεία σε όλο τον κόσμο</a>, παρατηρούμε το διαδίκτυο από πολλαπλούς πολιτισμούς και περιβάλλοντα.
 about-san-francisco = Σαν Φρανσίσκο
+about-talking-tech-issues-irl = Συζήτηση τεχνολογικών ζητημάτων IRL
+about-in-mozillas-multi-award-winning = Στο πολυβραβευμένο podcast της { -brand-name-mozilla }, η Bridget Todd μιλά στους ανθρώπους που διαμορφώνουν το μέλλον του διαδικτύου και της τεχνητής νοημοσύνης.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = IRL συζήτησης διαδικτυακών ζητημάτων
+about-in-mozillas-irl-podcast-host = Στο IRL podcast της { -brand-name-mozilla }, η Manoush Zomorodi μοιράζεται πραγματικές ιστορίες ζωής στο διαδίκτυο και παρουσιάζει συζητήσεις σχετικά με το μέλλον του ιστού.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> καλοδεχούμενοι, μη εργαζόμενοι επισκέπτες κάθε χρόνο
 about-berlin = Βερολίνο
