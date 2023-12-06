@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Rápido de verdade
 about-when-you-use-the-new-firefox = Quando você usa o novo { -brand-name-firefox }, tem uma experiência extremamente rápida ao mesmo tempo que apoia a missão da { -brand-name-mozilla } de manter a internet saudável, diversa e receptiva a todos.
 about-walking-our-privacy-talk = Apresentando nossa conversa sobre privacidade
 about-when-the-facebook-breach-was = Quando o vazamento do { -brand-name-facebook } foi revelado, a { -brand-name-mozilla } teve uma reação imediata – e um produto { -brand-name-firefox } para apoiar a privacidade dos usuários.
-about-talking-internet-issues-irl = Conversa sobre problemas na internet - IRL
-about-in-mozillas-irl-podcast-host = No podcast IRL da { -brand-name-mozilla },  a anfitriã Manoush Zomorodi compartilha histórias reais da vida online e uma conversa real sobre o futuro da web.
 about-corporation-foundation-not = Corporação. Fundação. Sem fins lucrativos.
 about-learn-about-the-mozilla-foundation = Saiba mais sobre a { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = A { -brand-name-mozilla } considera as pessoas acima do lucro em tudo o que falamos, construímos e fazemos. De fato, há uma fundação sem fins lucrativos no coração de nossa empresa.
@@ -33,6 +31,10 @@ about-read-the-manifesto = Leia o Manifesto
 about-a-global-view = Uma visão global
 about-with-offices-all-over-the = Com <a href="{ $url }">escritórios em todo o mundo</a>, levamos em consideração a internet de diversas culturas e contextos.
 about-san-francisco = São Francisco
+about-talking-tech-issues-irl = Conversa sobre problemas de tecnologia (IRL)
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Conversa sobre problemas na internet - IRL
+about-in-mozillas-irl-podcast-host = No podcast IRL da { -brand-name-mozilla },  a anfitriã Manoush Zomorodi compartilha histórias reais da vida online e uma conversa real sobre o futuro da web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> convidados não efetivos recebidos a cada ano
 about-berlin = Berlim
