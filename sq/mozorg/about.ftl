@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: I Shpejtë Përgjithnjë
 about-when-you-use-the-new-firefox = Kur përdorni { -brand-name-firefox }-in e ri, përfitoni shpejtësi të rrufeshme në shfletim, teksa përkrahni misionin e { -brand-name-mozilla }-s për ta mbajtur internetin të shëndetshëm, të çuditshëm dhe mirëpritës për këdo.
 about-walking-our-privacy-talk = Mbajtje e Fjalës së Dhënë Nga Ne Për Privatësinë
 about-when-the-facebook-breach-was = Kur u mor vesh cenimi i të dhënave nga { -brand-name-facebook }, { -brand-name-mozilla } dha një përgjigje të menjëhershme – dhe një produkt { -brand-name-firefox } që përkrah privatësinë e përdoruesve.
-about-talking-internet-issues-irl = Diskutim Problemesh Interneti në IRL
-about-in-mozillas-irl-podcast-host = Në podkastin IRL të { -brand-name-mozilla }-s, drejtuesi i emisionit, Manoush Zomorodi, ju jep shembuj të njëmendtë nga jeta internetore dhe diskutim të njëmendtë rreth të ardhmes së Web-it.
 about-corporation-foundation-not = Korporatë. Fondacion. Jofitimprurës.
 about-learn-about-the-mozilla-foundation = Mësoni rreth { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } vë njerëzit mbi fitimin në çdo gjë që themi, krijojmë dhe bëjmë. Faktikisht, në zemër të sipërmarrjes tonë gjendet një Fondacion jofitimprurës.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Lexoni Manifestin
 about-a-global-view = Një Vizion Global
 about-with-offices-all-over-the = Me <a href="{ $url }">zyra anembanë botës</a>, e vëzhgojmë internetin nga një shumësi kulturash dhe kontekstesh.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Diskutim Problemesh Teknologjike në IRL
+about-in-mozillas-multi-award-winning = Në podcast-in e e vlerësuar me shumë çmime të { -brand-name-mozilla }-s, drejtuesja Bridget Todd bisedon me persona që po i japin formë të ardhmes së internetit dhe IA.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Diskutim Problemesh Interneti në IRL
+about-in-mozillas-irl-podcast-host = Në podkastin IRL të { -brand-name-mozilla }-s, drejtuesi i emisionit, Manoush Zomorodi, ju jep shembuj të njëmendtë nga jeta internetore dhe diskutim të njëmendtë rreth të ardhmes së Web-it.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> vizitorë, jo të punësuar, mirëpritur çdo vit
 about-berlin = Berlin
