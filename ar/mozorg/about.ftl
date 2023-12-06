@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: سريع بكل ما تح
 about-when-you-use-the-new-firefox = عندما تستخدم { -brand-name-firefox } الجديد، تحصل على تجربة سريعة خارقة أثناء دعم مهمة { -brand-name-mozilla } للحفاظ على الإنترنت صحيًا ورائعًا ومُرحّبًا بالجميع.
 about-walking-our-privacy-talk = التحدث عن الخصوصية
 about-when-the-facebook-breach-was = عندما تم الكشف عن اختراق { -brand-name-facebook }، كان لـ { -brand-name-mozilla } استجابة سريعة – وأنشأت منتج { -brand-name-firefox } لدعم خصوصية المستخدم.
-about-talking-internet-issues-irl = الحديث عن قضايا الإنترنت عبر IRL
-about-in-mozillas-irl-podcast-host = في بود كاست IRL من { -brand-name-mozilla }، يُشارك المُضيف مانوش زمردي قصصًا حقيقية عن الحياة عبر الإنترنت وحديثًا حقيقيًا عن مستقبل الويب.
 about-corporation-foundation-not = شركة. مؤسسة. غير ربحية.
 about-learn-about-the-mozilla-foundation = معرفة المزيد عن { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = في { -brand-name-mozilla } نضع الناس فوق الربح في كل ما نقوله ونبنيه ونفعله. وفي الواقع، هناك مُؤسسة غير ربحية في قلب مُؤسستنا.
@@ -37,6 +35,10 @@ about-read-the-manifesto = اقرأ البيان
 about-a-global-view = نظرة عالمية
 about-with-offices-all-over-the = بفضل <a href="{ $url }">المكاتب المنشورة عبر العالم</a>، نحن نعتبر أن الإنترنت آتٍ من ثقافات وسياقات متعددة.
 about-san-francisco = سان فرانسيسكو
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = الحديث عن قضايا الإنترنت عبر IRL
+about-in-mozillas-irl-podcast-host = في بود كاست IRL من { -brand-name-mozilla }، يُشارك المُضيف مانوش زمردي قصصًا حقيقية عن الحياة عبر الإنترنت وحديثًا حقيقيًا عن مستقبل الويب.
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> ضيف من غير المُوظفين يتم الترحيب بهم كل عام

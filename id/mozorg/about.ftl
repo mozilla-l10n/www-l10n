@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Cepat untuk Kebaikan
 about-when-you-use-the-new-firefox = Ketika Anda menggunakan { -brand-name-firefox } baru, Anda akan mendapatkan pengalaman secepat kilat sekaligus mendukung misi { -brand-name-mozilla } untuk menjaga Internet tetap sehat, unik, dan terbuka untuk semua.
 about-walking-our-privacy-talk = Diskusi Jalan Privasi Kami
 about-when-the-facebook-breach-was = Ketika pembobolan { -brand-name-facebook } terungkap, { -brand-name-mozilla } memberikan tanggapan langsung – dan sebuah produk { -brand-name-firefox } untuk mendukung privasi pengguna.
-about-talking-internet-issues-irl = Berbicara Isu Internet IRL
-about-in-mozillas-irl-podcast-host = Di siniar IRL { -brand-name-mozilla }, pembawa acara Manoush Zomorodi berbagi kisah nyata kehidupan daring dan perbincangan nyata tentang masa depan Web.
 about-corporation-foundation-not = Perusahaan. Yayasan. Tidak untuk Laba.
 about-learn-about-the-mozilla-foundation = Pelajari tentang { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } mengutamakan masyarakat daripada laba di dalam setiap apa pun yang kami ucap, bangun, dan lakukan. Bahkan, ada Yayasan nirlaba di jantung perusahaan kami.
@@ -37,6 +35,10 @@ about-read-the-manifesto = Baca Manifesto
 about-a-global-view = Pandangan Global
 about-with-offices-all-over-the = Dengan <a href="{ $url }">kantor di seluruh dunia</a>, kami mempertimbangkan internet dari berbagai budaya dan konteks.
 about-san-francisco = San Fransisco
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Berbicara Isu Internet IRL
+about-in-mozillas-irl-podcast-host = Di siniar IRL { -brand-name-mozilla }, pembawa acara Manoush Zomorodi berbagi kisah nyata kehidupan daring dan perbincangan nyata tentang masa depan Web.
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> tamu nonkaryawan disambut setiap tahun

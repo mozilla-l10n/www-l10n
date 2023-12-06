@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox } : toujours plus rapide
 about-when-you-use-the-new-firefox = Quand vous utilisez le nouveau { -brand-name-firefox }, vous obtenez une expérience incroyablement rapide tout en soutenant la mission de { -brand-name-mozilla } de conserver Internet en bonne santé, original et accueillant pour tous.
 about-walking-our-privacy-talk = Quelques minutes de vidéo sur nos actions pour la vie privée
 about-when-the-facebook-breach-was = Quand a été révélée la fuite de données de { -brand-name-facebook }, { -brand-name-mozilla } a réagi immédiatement – et conçu un produit pour { -brand-name-firefox } qui protège la vie privée des utilisateurs.
-about-talking-internet-issues-irl = Discussions à bâtons rompus sur les problèmes que pose Internet
-about-in-mozillas-irl-podcast-host = Dans le podcast IRL de { -brand-name-mozilla }, l’animatrice Manoush Zomorodi partage de vraies histoires de vie en ligne et mène de vraies discussions sur l’avenir du Web.
 about-corporation-foundation-not = Entreprise. Fondation. Sans but lucratif.
 about-learn-about-the-mozilla-foundation = En savoir plus sur la { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } place les gens avant le profit dans tout ce que nous disons, construisons ou faisons. En fait, une fondation sans but lucratif est au cœur de notre entreprise.
@@ -37,6 +35,10 @@ about-read-the-manifesto = Lire le manifeste
 about-a-global-view = Une vision globale
 about-with-offices-all-over-the = Avec <a href="{ $url }">des bureaux partout dans le monde</a>, nous envisageons Internet depuis plusieurs cultures et plusieurs contextes.
 about-san-francisco = San Francisco
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Discussions à bâtons rompus sur les problèmes que pose Internet
+about-in-mozillas-irl-podcast-host = Dans le podcast IRL de { -brand-name-mozilla }, l’animatrice Manoush Zomorodi partage de vraies histoires de vie en ligne et mène de vraies discussions sur l’avenir du Web.
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2 000</strong> visiteurs accueillis chaque année.

@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: 高速であり続ける�
 about-when-you-use-the-new-firefox = 新しい { -brand-name-firefox } は、インターネットを健全で常識にとらわれず、万人が歓迎される場に保つという { -brand-name-mozilla } のミッションを支持しつつ、超高速エクスペリエンスを提供します。
 about-walking-our-privacy-talk = Mozilla のプライバシーの実例
 about-when-the-facebook-breach-was = { -brand-name-facebook } のデータ侵害が発覚したとき、{ -brand-name-mozilla } は { -brand-name-firefox } 製品などで即時対応しました。
-about-talking-internet-issues-irl = IRL: インターネットの課題について
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } の IRL ポッドキャストで、ホストのマヌーシュ・ゾモロディがオンライン生活の実話と今後のウェブについて語ります。
 about-corporation-foundation-not = 組織・団体・非営利法人について
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } の詳細をご覧ください
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } は、利益よりもユーザーを優先する発言・開発・行動を行います。事実、当社の中核は非営利団体です。
@@ -37,6 +35,10 @@ about-read-the-manifesto = マニフェストを読む
 about-a-global-view = グローバルな視点
 about-with-offices-all-over-the = Mozilla は、<a href="{ $url }">世界各地に事業所</a>を展開し、様々な文化や状況の立場からインターネットについて考えています。
 about-san-francisco = サンフランシスコ
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = IRL: インターネットの課題について
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } の IRL ポッドキャストで、ホストのマヌーシュ・ゾモロディがオンライン生活の実話と今後のウェブについて語ります。
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2,000</strong> 毎年 2000 名の非従業員が来訪

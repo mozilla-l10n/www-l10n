@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Pantas Demi Kebaikan
 about-when-you-use-the-new-firefox = Apabila anda menggunakan { -brand-name-firefox }, anda mendapat pengalaman yang pantas sambil menyokong misi { -brand-name-mozilla } dalam memastikan internet sentiasa sihat, aneh dan mengalu-alukan semua pihak.
 about-walking-our-privacy-talk = Membuktikan Perjuangan Kami
 about-when-the-facebook-breach-was = Sewaktu pencerobohan { -brand-name-facebook } didedahkan, { -brand-name-mozilla } melaksanakan respon serta-merta – satu produk { -brand-name-firefox } yang menyokong privasi pengguna.
-about-talking-internet-issues-irl = Isu Internet IRL
-about-in-mozillas-irl-podcast-host = Di podcast IRL { -brand-name-mozilla }, hos kami Manoush Zomorodi berkongsikan kisah-kisah benar tentang hidup dalam talian dan perbincangan serius tentang masa depan Internet.
 about-corporation-foundation-not = Syarikat Korporat. Yayasan. Bukan berasaskan keuntungan.
 about-learn-about-the-mozilla-foundation = Ketahui tentang { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } mengutamakan pengguna sebelum keuntungan dalam setiap benda yang kami luah, bangun dan laksanakan. Ada sebuah Yayasan bukan berasaskan keuntungan di dalam syarikat kami.
@@ -37,6 +35,10 @@ about-read-the-manifesto = Baca Manifesto Kami
 about-a-global-view = Pandangan Global
 about-with-offices-all-over-the = Dengan <a href="{ $url }">pejabat di seluruh dunia</a>, kami mempertimbangkan internet daripada pelbagai budaya dan konteks.
 about-san-francisco = San Francisco
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Isu Internet IRL
+about-in-mozillas-irl-podcast-host = Di podcast IRL { -brand-name-mozilla }, hos kami Manoush Zomorodi berkongsikan kisah-kisah benar tentang hidup dalam talian dan perbincangan serius tentang masa depan Internet.
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000 </strong> tetamu bukan pekerja disambut setiap tahun

@@ -26,8 +26,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Schnell. Und richtig gut
 about-when-you-use-the-new-firefox = Wenn Sie den neuen { -brand-name-firefox } verwenden, erhalten Sie ein rasantes, schnelles Erlebnis und unterstützen gleichzeitig { -brand-name-mozilla }s Mission, das Internet gesund, seltsam und für alle einladend zu halten.
 about-walking-our-privacy-talk = Datenschutz ist bei uns mehr als Worte
 about-when-the-facebook-breach-was = Als der { -brand-name-facebook }-Verstoß aufgedeckt wurde, hat { -brand-name-mozilla } direkt reagiert – und mit { -brand-name-firefox } ein Produkt zur Unterstützung des Datenschutzes der Benutzer.
-about-talking-internet-issues-irl = Internetprobleme im echten Leben
-about-in-mozillas-irl-podcast-host = In { -brand-name-mozilla }s IRL-Podcast erzählt Moderator Manoush Zomorodi Geschichten aus dem echten Leben online und über die Zukunft des Internets.
 about-corporation-foundation-not = Corporation. Foundation. Gemeinnützig.
 about-learn-about-the-mozilla-foundation = Erfahren Sie mehr über die { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Für { -brand-name-mozilla } steht der Mensch bei allem, was wir sagen, entwickeln und tun über dem Profit. Den Kern unseres Unternehmens bildet sogar eine gemeinnützige Stiftung.
@@ -37,6 +35,10 @@ about-read-the-manifesto = Unser Manifest lesen
 about-a-global-view = Eine globale Sicht
 about-with-offices-all-over-the = Mit <a href="{ $url }">Niederlassungen auf der ganzen Welt</a> betrachten wir das Internet aus verschiedenen Kulturen und Kontexten.
 about-san-francisco = San Francisco
+
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internetprobleme im echten Leben
+about-in-mozillas-irl-podcast-host = In { -brand-name-mozilla }s IRL-Podcast erzählt Moderator Manoush Zomorodi Geschichten aus dem echten Leben online und über die Zukunft des Internets.
 
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> Nicht-Mitarbeiter wurden jedes Jahr begrüßt
