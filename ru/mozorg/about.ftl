@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Быстрый и Отв�
 about-when-you-use-the-new-firefox = Когда вы используете новый { -brand-name-firefox }, вы получаете невероятно быстрый веб-сёрфинг, а также поддерживаете миссию { -brand-name-mozilla } по поддержанию здорового, необычного и гостеприимного Интернета.
 about-walking-our-privacy-talk = Говорим о нашей приватности
 about-when-the-facebook-breach-was = Когда злоупотребления { -brand-name-facebook(case: "genitive") } были раскрыты, от { -brand-name-mozilla } последовал незамедлительный ответ — был создан продукт для { -brand-name-firefox }, поддерживающий приватность пользователей.
-about-talking-internet-issues-irl = ILR-подкаст «Обсуждение проблем Интернета»
-about-in-mozillas-irl-podcast-host = В этом IRL-подкасте { -brand-name-mozilla }, докладчик Manoush Zomorodi делится историями из своей онлайн-жизни и говорит о будущем Интернета.
 about-corporation-foundation-not = Корпорация. Фонд. Не для прибыли.
 about-learn-about-the-mozilla-foundation = Узнайте о { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } ставит права людей выше прибыли во всём том, о чём мы говорим, что создаем и что делаем. Фактически, в сердце нашей корпорации находится некоммерческий фонд.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Прочитать Манифест
 about-a-global-view = Глобальный взгляд
 about-with-offices-all-over-the = Имея <a href="{ $url }">офисы по всему миру</a>, мы видим Интернет со стороны различных культур и обстановок.
 about-san-francisco = Сан-Франциско
+about-talking-tech-issues-irl = Обсуждение технических проблем в реальной жизни
+about-in-mozillas-multi-award-winning = В удостоенном множества наград подкасте { -brand-name-mozilla } ведущая Бриджит Тодд беседует с людьми, формирующими будущее Интернета и искусственного интеллекта.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = ILR-подкаст «Обсуждение проблем Интернета»
+about-in-mozillas-irl-podcast-host = В этом IRL-подкасте { -brand-name-mozilla }, докладчик Manoush Zomorodi делится историями из своей онлайн-жизни и говорит о будущем Интернета.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> гостей приглашается каждый год
 about-berlin = Берлин
