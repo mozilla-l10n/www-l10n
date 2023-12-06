@@ -41,7 +41,7 @@ vpn-pricing-what-information = Milyen információkat tárol a { -brand-name-moz
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Szigorúan betartjuk a { -brand-name-mozilla } <a href="{ $principles }">Adatvédelmi irányelveit</a>. Csak a { -brand-name-mozilla-vpn } működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük. Követjük a kampányokkal kapcsolatos és az ajánlási adatokat is a mobilalkalmazásunkban, hogy segítsünk a { -brand-name-mozilla(ending: "accented") }nak megérteni a marketingkampányok hatásosságát. További információk az <a href="{ $notice }">Adatvédelmi nyilatkozatban</a>.
+vpn-pricing-we-adhere-strictly = Szigorúan betartjuk a { -brand-name-mozilla } <a { $principles }>Adatvédelmi irányelveit</a>. Csak a { -brand-name-mozilla-vpn } működtetéséhez és a termék fejlesztéséhez szükséges adatokat gyűjtjük. Követjük a kampányokkal kapcsolatos és az ajánlási adatokat is a mobilalkalmazásunkban, hogy segítsünk a { -brand-name-mozilla(ending: "accented") }nak megérteni a marketingkampányok hatásosságát. További információk az <a { $notice }>Adatvédelmi nyilatkozatban</a>.
 vpn-pricing-how-do-i-manage = Hogyan kezelhetem az előfizetésemet és hogyan módosíthatom a csomagomat?
 # Variables
 # $manage (url) - link to subscription management page
