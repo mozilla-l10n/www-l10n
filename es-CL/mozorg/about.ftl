@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Rápido para siempre
 about-when-you-use-the-new-firefox = Cuando usas el nuevo { -brand-name-firefox }, obtienes una experiencia increíblemente rápida al mismo tiempo que apoyas la misión de { -brand-name-mozilla } de mantener Internet saludable, diferente y acogedor para todos.
 about-walking-our-privacy-talk = Llevando a cabo nuestro discurso sobre privacidad
 about-when-the-facebook-breach-was = Cuando la filtración de { -brand-name-facebook } fue revelada, { -brand-name-mozilla } tuvo una respuesta inmediata – y un producto de { -brand-name-firefox } para apoyar la privacidad del usuario.
-about-talking-internet-issues-irl = Hablando problemas de Internet en la vida real (IRL)
-about-in-mozillas-irl-podcast-host = En el podcast IRL de { -brand-name-mozilla }, el anfitrión Manoush Zomorodi comparte historias reales de la vida en línea y conversa sobre el futuro de la Web.
 about-corporation-foundation-not = Corporación. Fundación. Sin fines de lucro.
 about-learn-about-the-mozilla-foundation = Aprende acerca de la { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } privilegia a las personas por sobre el dinero en todo lo que decimos, creamos y hacemos. De echo, hay una fundación sin fines de lucro en el corazón de nuestra empresa.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Leer el manifiesto
 about-a-global-view = Una visión global
 about-with-offices-all-over-the = Con <a href="{ $url }">oficinas en todo el mundo</a>, entendemos al Internet desde múltiples culturas y contextos.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Hablando de temas tecnológicos en la vida real (IRL)
+about-in-mozillas-multi-award-winning = En el podcast ganador de múltiples premios de { -brand-name-mozilla }, la presentadora Bridget Todd habla con las personas que están dando forma al futuro de Internet y la IA.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Hablando problemas de Internet en la vida real (IRL)
+about-in-mozillas-irl-podcast-host = En el podcast IRL de { -brand-name-mozilla }, el anfitrión Manoush Zomorodi comparte historias reales de la vida en línea y conversa sobre el futuro de la Web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> invitados, excluyendo empleados, bienvenidos cada año
 about-berlin = Berlín
