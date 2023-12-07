@@ -9,9 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstaraś
 vpn-shared-waitlist-link = Pśistupśo cakańskej lisćinje
 vpn-shared-sign-in-link = Sćo južo abonent?
-# Outdated string
-vpn-shared-available-countries-v4 = Tuchylu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanaźe, Francojskej, Nimskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Špańskej, Šwicaŕskej, Zjadnośonem kralojstwje a USA póbitujomy.
-vpn-shared-available-countries-v5 = Tuchylu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanaźe, Finskej, Francojskej, Nimskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Špańskej, Šwedskej, Šwicaŕskej, Zjadnośonem kralojstwje a USA póbitujomy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowna garantija slědkdaśa pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -60,21 +57,19 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } jo zregistrěrowane z
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Wubjeŕśo abonementowy plan, kótaryž za was funkcioněrujo
-# Outdated string
-vpn-shared-pricing-variable-heading = Wubjeŕśo plan, kótaryž za was funkcioněrujo
+vpn-shared-one-subscription-heading = Jaden abonement za wše waše rědy
+vpn-shared-choose-a-plan-sub-heading = Wubjeŕśo plan, kótaryž za was funkcioněrujo
 vpn-shared-pricing-variable-sub-heading = Wše naše plany wopśimuju:
 vpn-shared-pricing-recommended-offer = Dopórucony
-vpn-shared-pricing-plan-6-month = 6 mjasecow
-vpn-shared-pricing-plan-12-month = 12 mjasecow
-vpn-shared-pricing-plan-monthly = Kuždy mjasec
+vpn-shared-pricing-plan-12-month-v2 = 12-mjasecny plan
+vpn-shared-pricing-plan-monthly-v2 = Mjasecny plan
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mjasec</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = 6-mjasecny plan wobstaraś
-# Outdated string
-vpn-shared-pricing-get-12-month = 12-mjasecny plan wobstaraś
-vpn-shared-pricing-get-6-month-v2 = 6-mjasecny plan wobstaraś
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mjasec + dank</span>
 vpn-shared-pricing-get-12-month-v2 = 12-mjasecny plan wobstaraś
 vpn-shared-pricing-get-monthly = Mjasecny plan wobstaraś
 # Variables:
@@ -89,6 +84,10 @@ vpn-shared-when-you-subscribe = *gaž 12-mjasecny plan aboněrujośo
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } dogromady
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = Cełkowna suma { $amount } + dank
 
 # Platform subpage shared strings
 
@@ -123,5 +122,8 @@ vpn-subnav-subscribe = { -brand-name-mozilla-vpn } aboněrowaś
 vpn-shared-affiliate-notification-reject = Wótpokazaś
 vpn-shared-affiliate-notification-ok = W pórěźe
 
-##
+## VPN + Relay bundle offer
+
+
+## Press quotations
 
