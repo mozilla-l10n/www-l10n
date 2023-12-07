@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: rápido para siempre
 about-when-you-use-the-new-firefox = Cuando usás el nuevo { -brand-name-firefox }, conseguís una experiencia increíblemente rápida al mismo tiempo que apoyás la misión de { -brand-name-mozilla } de mantener Internet saludable, diferente y acogedora para todos.
 about-walking-our-privacy-talk = Explorar nuestra charla de privacidad
 about-when-the-facebook-breach-was = Cuando se reveló la filtración de { -brand-name-facebook }, { -brand-name-mozilla } tuvo una respuesta inmediata y un producto de { -brand-name-firefox } para respaldar la privacidad del usuario.
-about-talking-internet-issues-irl = Charlar sobre temas de Internet IRL
-about-in-mozillas-irl-podcast-host = En el podcast IRL de { -brand-name-mozilla }, el anfitrión Manoush Zomorodi comparte historias reales de la vida en línea y charlas reales sobre el futuro de la Web.
 about-corporation-foundation-not = Corporación. Fundación. Sin fines de lucro.
 about-learn-about-the-mozilla-foundation = Conocé sobre la { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } pone a las personas por encima de las ganancias en todo lo que decimos, construimos y hacemos. De hecho, hay una Fundación sin fines de lucro en el corazón de nuestra empresa.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Leer el Manifiesto
 about-a-global-view = Una visión global
 about-with-offices-all-over-the = Con <a href="{ $url }">oficinas en todo el mundo</a>, consideramos Internet desde múltiples culturas y contextos.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Hablando de temas tecnológicos en la vida real
+about-in-mozillas-multi-award-winning = En el podcast de { -brand-name-mozilla } ganador de múltiples premios, la presentadora Bridget Todd habla con las personas que están dando forma al futuro de Internet y la IA.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Charlar sobre temas de Internet IRL
+about-in-mozillas-irl-podcast-host = En el podcast IRL de { -brand-name-mozilla }, el anfitrión Manoush Zomorodi comparte historias reales de la vida en línea y charlas reales sobre el futuro de la Web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Se da la bienvenida a <strong>2000</strong> invitados, excluyendo empleados, por año
 about-berlin = Berlín
