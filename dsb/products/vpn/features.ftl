@@ -10,6 +10,16 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije, kótarež wašo žywjenje<br>online šćitaju
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Wěcej ako { $servers } serwer we wěcej ako { $countries } krajach
+        [two] Wěcej ako { $servers } serwera we wěcej ako { $countries } krajach
+        [few] Wěcej ako { $servers } serwery we wěcej ako { $countries } krajach
+       *[other] Wěcej ako { $servers } serwerow we wěcej ako { $countries } krajach
+    }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
@@ -22,5 +32,6 @@ vpn-features-connect-up-to =
 vpn-features-secure = Wěsty
 vpn-features-support-for-custom-dns = Pódpora za swójski DNS
 vpn-features-flexible = Fleksibelny
+vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
 vpn-features-we-never-log = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy

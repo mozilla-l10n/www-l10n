@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Malsny a napšawdu dobry
 about-when-you-use-the-new-firefox = Gaž nowy { -brand-name-firefox } wužywaśo, dostanjośo spěšnučke dožywjenje a pódpěraśo rownocasnje misiju { -brand-name-mozilla }, internet strowy, źiwny a wabjecy za wše wobchowaś.
 about-walking-our-privacy-talk = Stajijomy priwatnosć do statka
 about-when-the-facebook-breach-was = Gaž jo se namakała źěra { -brand-name-facebook }, jo měł { -brand-name-mozilla } ned wótegrono - a produkt { -brand-name-firefox }, kótaryž wužywarsku priwatnosć pódpěra.
-about-talking-internet-issues-irl = Internetne problemy w napšawdnem žywjenju
-about-in-mozillas-irl-podcast-host = W IRL-pódcasće { -brand-name-mozilla } moderator Manoush Zomorodi tšojeńka z napšawdnego žywjenja online a w pśichoźe interneta wulicujo.
 about-corporation-foundation-not = Organizacija. Załožba. Za wšě wužytny.
 about-learn-about-the-mozilla-foundation = Zgóńśo wěcej wó załožbje { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } luźi nad profit staja, we wšom, což gronimy, wuwijamy a cynimy. Zawěrno, jědro našogo pśedewześa za wše wužytna załožba twóri.
@@ -33,6 +31,10 @@ about-read-the-manifesto = Cytajśo manifest
 about-a-global-view = Globalne wiźenje
 about-with-offices-all-over-the = Z <a href="{ $url }">wótnožkami na cełem swěśe</a> glědamy na internet z někotarych kulturow a kontekstow.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Techniske problemy w napšawdnem žywjenju diskutěrowaś
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internetne problemy w napšawdnem žywjenju
+about-in-mozillas-irl-podcast-host = W IRL-pódcasće { -brand-name-mozilla } moderator Manoush Zomorodi tšojeńka z napšawdnego žywjenja online a w pśichoźe interneta wulicujo.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> njepśistajonych jo se kužde lěto pśiwitało
 about-berlin = Barliń
