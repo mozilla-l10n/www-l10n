@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox } - vždy rýchly
 about-when-you-use-the-new-firefox = S novým{ -brand-name-firefox(case: "ins") } dostávate do rúk skutočnú rýchlosť a zároveň podporujete misiu { -brand-name-mozilla(case: "gen") } - zdravý internet pre všetkých.
 about-walking-our-privacy-talk = Vedieme rozhovory o súkromí
 about-when-the-facebook-breach-was = Keď bol odhalený škandál { -brand-name-facebook(case: "gen") }, { -brand-name-mozilla } naň okamžite reagovala a vytvorila pre { -brand-name-firefox } nástroj na ochranu súkromia používateľov.
-about-talking-internet-issues-irl = IRL: podcasty o internete
-about-in-mozillas-irl-podcast-host = V podcaste od { -brand-name-mozilla(case: "gen") } hovorí Manoush Zomorodi o príbehoch zo života na internete a o jeho budúcnosti.
 about-corporation-foundation-not = Firma. Nadácia. Neziskovka.
 about-learn-about-the-mozilla-foundation = Zistite viac o { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } kladie ľudí pred zisk vo všetkom, čo robí a buduje. V samotnom srdci jej podnikania stojí nadácia.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Prečítajte si manifest
 about-a-global-view = Celosvetový pohľad
 about-with-offices-all-over-the = S <a href="{ $url }">kanceláriami po celom svete</a> sa na internet dokážeme pozerať z pohľadu mnohých kultúrnych zvykov a kontextov.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = IRL podcasty o technológiách
+about-in-mozillas-multi-award-winning = Vo viackrát ocenenom podcaste { -brand-name-mozilla(case: "gen") } sa moderátorka Bridget Toddová rozpráva s ľuďmi, ktorí formujú budúcnosť internetu a AI.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = IRL: podcasty o internete
+about-in-mozillas-irl-podcast-host = V podcaste od { -brand-name-mozilla(case: "gen") } hovorí Manoush Zomorodi o príbehoch zo života na internete a o jeho budúcnosti.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Každý rok sa u nás zastaví <strong>2000</strong> rôznych hostí
 about-berlin = Berlín
