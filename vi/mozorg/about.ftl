@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Nhanh và tốt hơn
 about-when-you-use-the-new-firefox = Khi bạn sử dụng { -brand-name-firefox } mới, bạn sẽ có được trải nghiệm nhanh chóng trong khi hỗ trợ sứ mệnh { -brand-name-mozilla }, để giữ cho internet luôn khỏe mạnh, kỳ lạ và chào đón tất cả mọi người.
 about-walking-our-privacy-talk = Quyền riêng tư cá nhân không chỉ là lời nói
 about-when-the-facebook-breach-was = Khi vi phạm { -brand-name-facebook } được tiết lộ, { -brand-name-mozilla } đã có phản hồi ngay lập tức - và một sản phẩm { -brand-name-firefox } để hỗ trợ quyền riêng tư của người dùng.
-about-talking-internet-issues-irl = Thảo luận về các vấn đề trên web IRL
-about-in-mozillas-irl-podcast-host = Trong podcast IRL của { -brand-name-mozilla }, người dẫn chương trình Manoush Zomorodi chia sẻ những câu chuyện có thật về cuộc sống trực tuyến và nói chuyện thực tế về tương lai của web.
 about-corporation-foundation-not = Tập đoàn. Nền tảng. Phi lợi nhuận.
 about-learn-about-the-mozilla-foundation = Tìm hiểu về { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } đặt mọi người lên trên lợi nhuận trong mọi thứ chúng ta nói, xây dựng và làm. Trên thực tế, có một quỹ phi lợi nhuận là trung tâm của doanh nghiệp chúng tôi.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Đọc tuyên ngôn
 about-a-global-view = Một cái nhìn toàn cầu
 about-with-offices-all-over-the = Với <a href="{ $url }">văn phòng trên toàn thế giới</a>, chúng tôi xem xét internet từ nhiều nền văn hóa và bối cảnh.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Nói chuyện về vấn đề công nghệ ở ngoài đời
+about-in-mozillas-multi-award-winning = Trong podcast giành được nhiều giải thưởng của { -brand-name-mozilla }, dẫn chương trình Bridget Todd sẽ nói chuyện với những người đang định hình tương lai của Internet và AI.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Thảo luận về các vấn đề trên web IRL
+about-in-mozillas-irl-podcast-host = Trong podcast IRL của { -brand-name-mozilla }, người dẫn chương trình Manoush Zomorodi chia sẻ những câu chuyện có thật về cuộc sống trực tuyến và nói chuyện thực tế về tương lai của web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> khách không phải là nhân viên được mời hàng năm
 about-berlin = Berlin
