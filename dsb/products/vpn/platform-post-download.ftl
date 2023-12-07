@@ -30,3 +30,9 @@ vpn-turn-on-vpn = 4. Zmóžniśo VPN
 
 vpn-download-faq-need-help = Trjebaśo pomoc, aby zachopił?
 vpn-download-faq-why-use = Cogodla { -brand-name-mozilla-vpn } wužywaś?
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Waša <a href="{ $ip }">IP-adresa</a> se schowajo: Tak pomaga, wašu identitu šćitaś a cyni wašo stojnišćo  k njepóznaśeju za websedła, ku kótarymž se woglědujośo.
+vpn-download-faq-working = Kak wěm, až VPN funkcioněrujo?
+vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
+vpn-download-faq-need-more = Trjebaśo pitśku wěcej pomocy?
