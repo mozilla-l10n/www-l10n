@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/download/mac/thanks
+### URL: https://www-dev.allizom.org/products/vpn/download/windows/thanks
+
+
+## Windows download page
+
+vpn-windows-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
+vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-windows } se ześěgujo…
+
+## Mac download page
+
+vpn-mac-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-mac-short } se ześěgujo…
+
+## Shared strings
+
+vpn-download-unable-to-download = Njejo móžno { -brand-name-mozilla-vpn } ześěgnuś
+vpn-download-not-in-country = Bóžko { -brand-name-mozilla-vpn } njejo we wašom kraju k dispoziciji.
+vpn-open-the-file = 1. Wócyńśo dataju
+vpn-launch-the-app = 2. Startujśo nałoženje
+vpn-login-or-signup = 3 Pśizjawśo se abo registrěrujśo se
+vpn-turn-on-vpn = 4. Zmóžniśo VPN
+
+## FAQ Strings
+
+vpn-download-faq-need-help = Trjebaśo pomoc, aby zachopił?
+vpn-download-faq-why-use = Cogodla { -brand-name-mozilla-vpn } wužywaś?

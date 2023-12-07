@@ -66,6 +66,7 @@ vpn-landing-faq-link = Glejśo dalšne cesto stajone pšašanja
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Pśistupśo cakańskej lisćinje: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = Dajśo wam informěrowaś, gaž { -brand-name-mozilla-vpn } jo za waš region k dispoziciji.
 vpn-landing-invite-page-heading = Pśistupśo cakańskej lisćinje VPN
 vpn-landing-invite-email-label = Kótara jo waša e-mailowa adresa?
 vpn-landing-invite-required-label = Trjebny
