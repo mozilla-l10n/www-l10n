@@ -95,6 +95,7 @@ vpn-shared-platform-cta-headline = Zachopmy
 vpn-shared-platform-cta-button = Płaśizny a k-dispoziciji-měśe se woglědaś
 vpn-shared-platform-privacy-promise = Waša priwatnosć jo našo zlubjenje
 vpn-shared-platform-trust-partner-headline = Wo našom dowěrygódnem partnarju
+vpn-shared-platform-what-is = Co jo { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
