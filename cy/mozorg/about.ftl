@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Cyflym am Byth
 about-when-you-use-the-new-firefox = Pan fyddwch yn defnyddio'r { -brand-name-firefox } newydd, rydych chi'n cael profiad cyflym ac yn cefnogi cenhadaeth { -brand-name-mozilla } i gadw'r rhyngrwyd yn iach, yn rhyfedd ac yn groesawgar i bawb.
 about-walking-our-privacy-talk = Cyflawni ein Addewidion Preifatrwydd
 about-when-the-facebook-breach-was = Pan ddatgelwyd tor-data { -brand-name-facebook }, roedd gan { -brand-name-mozilla } ymateb uniongyrchol - a chynnyrch { -brand-name-firefox } i gadw preifatrwydd defnyddwyr.
-about-talking-internet-issues-irl = Trafod Materion Rhyngrwyd IRL
-about-in-mozillas-irl-podcast-host = Ym mhodlediadau IRL { -brand-name-mozilla }, mae Manoush Zomorodi yn rhannu straeon go iawn am fywyd ar-lein ac yn cynnal sgyrsiau creiddiol am ddyfodol y We.
 about-corporation-foundation-not = Corfforaeth. Sefydliad. Nid-er-elw.
 about-learn-about-the-mozilla-foundation = Dysgu am y { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Mae { -brand-name-mozilla } yn rhoi pobl o flaen elw ym mhopeth rydym yn ei ddweud, ei adeiladu a'i wneud. Yn wir, mae sefydliad nid-er-elw wrth wraidd ein menter.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Darllenwch ein Maniffesto
 about-a-global-view = Golwg Fyd-eang
 about-with-offices-all-over-the = Gyda <a href="{ $url }">swyddfeydd ledled y byd</a>, rydym yn ystyried y rhyngrwyd o safbwynt ddiwylliannau a chyd-destunau lluosog.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = IRL - Trafod Materion y Rhyngrwyd
+about-in-mozillas-multi-award-winning = Ym mhodlediad { -brand-name-mozilla } sydd wedi ennill sawl gwobr, mae’r gwesteiwr Bridget Todd yn siarad â’r bobl sy’n llunio dyfodol y rhyngrwyd ac AI.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Trafod Materion Rhyngrwyd IRL
+about-in-mozillas-irl-podcast-host = Ym mhodlediadau IRL { -brand-name-mozilla }, mae Manoush Zomorodi yn rhannu straeon go iawn am fywyd ar-lein ac yn cynnal sgyrsiau creiddiol am ddyfodol y We.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> o westeion nad ydynt yn gyflogedig yn cael eu croesawu bob blwyddyn
 about-berlin = Berlin
