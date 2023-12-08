@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstarać
 vpn-shared-waitlist-link = Přistupće čakanskej lisćinje
 vpn-shared-sign-in-link = Sće hižo abonent?
-# Obsolete string
-vpn-shared-available-countries-v5 = Tuchwilu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Kanadźe, Finskej, Francoskej, Němskej, Irskej, Italskej, Malajziji, Nižozemskej, Nowoseelandskej, Singapurje, Španiskej, Šwedskej, Šwicarskej, Zjednoćenym kralestwje a USA poskićamy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowska garantija wróćenja pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -64,11 +62,7 @@ vpn-shared-choose-a-plan-sub-heading = Wubjerće plan, kotryž za was funguje
 vpn-shared-pricing-variable-sub-heading = Wšě naše plany wobsahuja:
 vpn-shared-pricing-recommended-offer = Doporučeny
 vpn-shared-pricing-plan-12-month-v2 = 12-měsačny plan
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 měsacow
 vpn-shared-pricing-plan-monthly-v2 = Měsačny plan
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Kóždy měsac
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/měsac</span>
@@ -76,12 +70,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/měsac</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + dawk</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = 6-měsačny plan wobstarać
-# Obsolete string
-vpn-shared-pricing-get-12-month = 12-měsačny plan wobstarać
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = 6-měsačny plan wobstarać
 vpn-shared-pricing-get-12-month-v2 = 12-měsačny plan wobstarać
 vpn-shared-pricing-get-monthly = Měsačny plan wobstarać
 # Variables:
@@ -132,6 +120,7 @@ vpn-subnav-vpn-vs-proxy = VPN porno proksy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonować
 vpn-subnav-learn-about-vpns = Zeznajće so z VPN
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } sćahnyć
+vpn-subnav-features = Funkcije
 
 ## VPN Affiliate cookie notice
 
@@ -154,6 +143,7 @@ vpn-shared-why-bundle = Čehodla jako paket?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Składujće { $percent } %</span> na lětny plan { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hišće we wašim kraju k dispoziciji njeje.
 
-##
+## Press quotations
 
