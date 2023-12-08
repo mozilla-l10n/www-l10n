@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }, { -brand-name-m
 firefox-desktop-download-og-title = ਪਹਿਲਾਂ ਹੀ ਸਭ ਤੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-desktop-download-og-desc = ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਸਫ਼ੇ ਡਾਊਨਲੋਡ ਕਰਨੇ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣੀ ਤੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਭਰਿਆ ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = ਹੋਰ ਵੀ ਨਵਾਂ { -brand-name-firefox } ਮੌਜੂਦ ਹੈ। <a { $update_url }>ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</a>
 firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = ਕੋਈ ਵੀ ਸ਼ੱਕੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀਆਂ ਨਹੀਂ ਨਾ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ ਚੋਰ ਮੋਰੀਆਂ ਹਨ। ਸਿਰਫ਼ ਬਹੁਤ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਤੁਹਾਨੂੰ ਵੇਚਦਾ ਨਹੀਂ ਹੈ।
@@ -40,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈ�
 firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
 firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
 firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
-# Obsolete string
-firefox-desktop-love-your-life = ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਲਈ ਪਿਆਰ
-# Obsolete string
-firefox-desktop-its-your-internet = ਇਹ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਹੈ। ਹਜ਼ਾਰਾਂ ਟੂਲਾਂ, ਥੀਮਾਂ ਅਤੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨਾਲ ਇਸ ਨੂੰ ਆਪਣੇ ਢੰਗ ਨਾਲ ਰੰਗ ਦਿਓ। { -brand-name-firefox } ਅਸਲੀ ਰੂਪ ਵਿੱਚ ਬਦਲਵਾਂ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਫਾਇਦੇ ਦੀ ਬਜਾਏ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
-# Obsolete string
-firefox-desktop-download-master-password = ਪ੍ਰਾਇਮਰੀ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
 firefox-desktop-download-ads-are-distracting = ਇਸ਼ਤਿਹਾਰ ਧਿਆਨ ਭਟਕਾਉਂਦੇ ਅਤੇ ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਹੌਲੀ ਕਰ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਟਰੈਕਰ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੀ ਸੂਹ ਲੈਂਦੇ ਹਨ। { -brand-name-firefox-browser } ਆਪਣੇ-ਆਪ ਹੀ ਬਹੁਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਨਾ ਕਰਨੀ ਪਵੇ।
 firefox-desktop-download-see-your-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
@@ -133,9 +130,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ਨੂੰ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ਜਿਵੇਂ ਇੰਟਰਨੈੱਟ ਵੱਧਦਾ ਅਤੇ ਬਦਲਦਾ ਹੈ ਤਾਂ { -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਦੇ ਤੁਹਾਡੇ ਹੱਕ ਉੱਤੇ ਕੇਂਦਰਿਤ ਰਹਿੰਦਾ ਹੈ — ਅਸੀਂ ਇਸ ਨੂੰ <a { $attrs }>ਨਿੱਜੀ ਡਾਟੇ ਦਾ ਵਾਅਦਾ</a> ਕਹਿੰਦੇ ਹਾਂ: ਘੱਟ ਲਵੋ, ਉਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ। ਤੁਹਾਡਾ ਡਾਟਾ, ਤੁਹਾਡੀ ਵੈੱਬ ਸਰਗਰਮੀ, ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ { -brand-name-firefox } ਨਾਲ ਸੁਰੱਖਿਅਤ ਹੈ।
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਉਪਲਬਧ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਬੱਸ <a { $attrs }>{ -brand-name-firefox } ਖਾਤਾ</a> ਚਾਹੀਦਾ ਹੈ।
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਮੌਜੂਦ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਇੱਕ <a { $attrs }>{ -brand-name-mozilla-account }</a> ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਸਿੰਕ ਕਰਨ ਦਾ ਮੌਕਾ ਅਤੇ { -brand-name-mozilla } ਉਤਪਾਦ ਮਿਲਣਗੇ।
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਬਣੇ ਸਾਡੇ <a { $attrs }>ਸਕਰੀਨਸ਼ਾਟ</a> ਟੂਲ ਨਾਲ ਕਿਸੇ ਵੀ ਆਨਲਾਈਨ ਚੀਜ਼ ਦੇ ਵੱਧ ਰੈਜ਼ੋਲੂਸ਼ਨ ਦੀ ਤਸਵੀਰ ਲਵੋ
@@ -147,9 +148,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ। ਹੁਣ { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ।
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ਨਾਲ ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਕਈ ਕੁਝ ਹੋਰ।
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨੂੰ ਬਚਾਅ ਅਤੇ ਹੋਰ।
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-lockwise } ਨਾਲ ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ
 firefox-desktop-download-just-download-the-browser = ਸਿਰਫ਼ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 
@@ -167,8 +168,6 @@ firefox-desktop-download-now-mac = ਹੁਣ ਡਾਊਨਲੋਡ ਕੀਤੀ 
 firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਮਦਦ ਲਵੋ</a>।
 firefox-desktop-download-in-another-language = ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਹੋਰ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ।
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
@@ -176,10 +175,6 @@ firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } { -brand-name-windows } { -brand-name-xp } ਜਾਂ { -brand-name-vista } ਲਈ <a href="{ $url }">ਹੁਣ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ</a>, ਪਰ ਤੁਸੀਂ ਹਾਲੇ ਵੀ { -brand-name-firefox } ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਹੋਇਆ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ <a href="{ $url }">{ -brand-name-firefox } ਵਲੋਂ ਸਹਾਇਕ ਨਹੀਂ ਰਿਹਾ ਹੈ</a>।
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
