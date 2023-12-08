@@ -27,3 +27,11 @@ home-politico-cite = Politico
 home-is-mozilla-a-corporation = ਕੀ { -brand-name-mozilla } ਕਾਰਪੋਰੇਸ਼ਨ ਜਾਂ ਗ਼ੈਰ-ਮੁਨਾਫਾ ਸੰਗਠਨ? ਅਸਲ ਵਿੱਚ ਦੋਵੇਂ ਹੀ।
 home-learn-about-mofo = { -brand-name-mozilla-foundation } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 home-join-the-fight = ਚੰਗੇ ਇੰਟਰਨੈੱਟ ਲਈ ਜੰਗ ਵਿੱਚ ਹਿੱਸਾ ਬਣੋ
+home-your-voice-your-code = ਤੁਹਾਡੀ ਆਵਾਜ਼। ਤੁਹਾਡਾ ਕੋਡ। ਤੁਹਾਡੇ ਵਿਚਾਰ। { -brand-name-mozilla } ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਤੁਹਾਡੇ ਕੋਲ ਹਜ਼ਾਰਾਂ ਢੰਗ ਹਨ।
+home-volunteer-with-mozilla = { -brand-name-mozilla } ਨਾਲ ਵਲੰਟੀਅਰ ਬਣੋ
+home-learn-more-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+home-get-good-news = (ਚੰਗੀਆਂ) { -brand-name-mozilla } ਖ਼ਬਰਾਂ ਲਵੋ
+# VPN Feature
+home-featured-product = ਖਾਸ ਉਤਪਾਦ
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }{ -brand-name-mozilla-vpn }</span> ਵਰਤ ਕੇ ਆਪਣੇ ਅਤੇ ਸਰਗਰਮੀ ਨੂੰ ਅਸਪਸ਼ਟ ਕਰੋ
