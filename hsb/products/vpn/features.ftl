@@ -10,6 +10,16 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije, kotarež waše žiwjenje<br>online škitaja
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Wjace hač { $servers } serwer we wjace hač { $countries } krajach
+        [two] Wjace hač { $servers } serweraj we wjace hač { $countries } krajach
+        [few] Wjace hač { $servers } serwery we wjace hač { $countries } krajach
+       *[other] Wjace hač { $servers } serwerow we wjace hač { $countries } krajach
+    }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
