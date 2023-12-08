@@ -21,7 +21,7 @@ vpn-pricing-annual = Kužde lěto
 vpn-pricing-monthly = Kuždy mjasec
 vpn-pricing-get-annual-subscription = Lětny abonement wótzamknuś
 vpn-pricing-get-monthly-subscription = Mjasecny abonement wótzamknuś
-vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } njejo we wašom kraju k dispoziciji
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } hyšći njejo we wašom kraju k dispoziciji
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Cesto stajone pšašanja
 vpn-pricing-refund-policy = Kótare pšawidła za zarownanje { -brand-name-mozilla-vpn } płaśe?
