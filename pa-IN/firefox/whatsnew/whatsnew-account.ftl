@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਚਾਹੀਦਾ ਹੈ। ਪਰ ਤੁਹਾਨੂੰ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } ਤੁਹਾਡੇ ਬਾਰੇ ਬਹੁਤ ਘੱਟ ਡਾਟਾ ਇਕੱਤਰ ਕਰਦਾ ਹੈ, ਸਾਨੂੰ ਤੁਹਾਡੇ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਵੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਪਰ ਜਦੋਂ ਤੁਸੀਂ { -brand-name-mozilla-account } ਬਣਾਉਂਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ { -brand-name-firefox } ਦੇ ਨਾਲ ਨਾਲ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਉਤਪਾਦਾਂ ਦੇ ਪੂਰੇ ਸਮੂਹ ਦਾ ਹਿੱਸਾ ਬੈਣ ਜਾਂਦੇ ਹੋ।
 whatsnew-account-mozilla-cta = { -brand-name-mozilla-account } ਲਵੋ
 
 ##
