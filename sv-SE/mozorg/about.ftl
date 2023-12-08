@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: snabbt för gott
 about-when-you-use-the-new-firefox = När du använder den nya { -brand-name-firefox } får du en blixtsnabb upplevelse samtidigt som du stöder { -brand-name-mozilla }s uppgift att hålla Internet hälsosamt, konstigt och välkomnande för alla.
 about-walking-our-privacy-talk = Dataskydd är mer än bara ord
 about-when-the-facebook-breach-was = När { -brand-name-facebook }-intrånget avslöjades hade { -brand-name-mozilla } ett omedelbart svar - och en { -brand-name-firefox }-produkt som stödjer användarskydd.
-about-talking-internet-issues-irl = Internetproblem i det verkliga livet
-about-in-mozillas-irl-podcast-host = I { -brand-name-mozilla }s IRL-podcast, delar moderatorn Manoush Zomorodi verkliga historier om livet online och framtiden för Internet.
 about-corporation-foundation-not = Företag. Stiftelse. Ideell.
 about-learn-about-the-mozilla-foundation = Läs om { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } sätter människor före vinst i allt vi säger, bygger och gör. Faktum är att det finns en ideell stiftelse i hjärtat av vårt företag.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Läs vårt manifest
 about-a-global-view = En global vy
 about-with-offices-all-over-the = Med <a href="{ $url }">kontor över hela världen</a>, betraktar vi internet från flera kulturer och sammanhang.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Prata om tekniska problem IRL
+about-in-mozillas-multi-award-winning = I { -brand-name-mozilla }:s flerfaldigt prisbelönta podcast pratar programledaren Bridget Todd med människorna som formar framtiden för internet och AI.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internetproblem i det verkliga livet
+about-in-mozillas-irl-podcast-host = I { -brand-name-mozilla }s IRL-podcast, delar moderatorn Manoush Zomorodi verkliga historier om livet online och framtiden för Internet.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> icke-anställda gäster välkomnas varje år
 about-berlin = Berlin
