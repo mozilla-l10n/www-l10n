@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Vždy rychlý
 about-when-you-use-the-new-firefox = S novým { -brand-name-firefox(case: "ins") } dostáváte do rukou čistou rychlost a zároveň podporujete misi { -brand-name-mozilla(case: "gen") } za zdravý internet, pro všechny stejně tajemný i otevřený.
 about-walking-our-privacy-talk = Naše ochrana soukromí v praxi
 about-when-the-facebook-breach-was = Když se provalil únik dat na { -brand-name-facebook(case: "loc") }, { -brand-name-mozilla } reagovala okamžitě a přidala do rodiny { -brand-name-firefox(case: "gen") } nástroj zajišťující soukromí uživatelů.
-about-talking-internet-issues-irl = IRL: hovory o problémech internetu
-about-in-mozillas-irl-podcast-host = V podcastu IRL od { -brand-name-mozilla(case: "gen") } se moderátor Manoush Zomorodi dělí o skutečné příběhy z online života a povídá si o budoucnosti Webu.
 about-corporation-foundation-not = Firma. Nadace. Nezisková.
 about-learn-about-the-mozilla-foundation = Zjistěte více o { -brand-name-mozilla-foundation(case: "loc") }
 about-mozilla-puts-people-over-profit = Pro { -brand-name-mozilla(case: "acc") } jsou lidé více než zisk ve všem, co děláme a stavíme. V srdci našeho podnikání je ve skutečnosti nezisková nadace.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Přečtěte si manifest Mozilly
 about-a-global-view = Celosvětový pohled
 about-with-offices-all-over-the = S <a href="{ $url }">kancelářemi po celém světě</a> se na internet dokážeme dívat z pohledu mnoha kulturní zvyklostí a kontextů.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = IRL podcasty o technologiích
+about-in-mozillas-multi-award-winning = V několikrát oceněném podcastu { -brand-name-mozilla(case: "gen") } hovoří moderátorka Bridget Toddová s lidmi, kteří utvářejí budoucnost internetu a umělé inteligence.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = IRL: hovory o problémech internetu
+about-in-mozillas-irl-podcast-host = V podcastu IRL od { -brand-name-mozilla(case: "gen") } se moderátor Manoush Zomorodi dělí o skutečné příběhy z online života a povídá si o budoucnosti Webu.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Každý rok se u nás zastaví <strong>2000</strong> různých hostů
 about-berlin = Berlín
