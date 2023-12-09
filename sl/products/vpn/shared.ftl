@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Namestite { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Vpišite se na čakalni seznam
 vpn-shared-sign-in-link = Ste že naročnik?
-# Outdated string
-vpn-shared-available-countries-v5 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Belgiji, na Finskem, v Franciji, na Irskem, v Italiji, Kanadi, Maleziji, Nemčiji, na Nizozemskem, Novi Zelandiji, v Singapurju, Španiji, na Švedskem, v Švici, ZDA in Združenem kraljestvu.
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } trenutno ponujamo v Avstriji, Belgiji, Bolgariji, na Cipru, Češkem, Danskem, v Estoniji, na Finskem, v Franciji, na Hrvaškem, Irskem, v Italiji, Kanadi, Latviji, Litvi, Luksemburgu, na Madžarskem, v Maleziji, na Malti, v Nemčiji, na Nizozemskem, Novi Zelandiji, Poljskem, Portugalskem, v Romuniji, Singapurju, na Slovaškem, v Sloveniji, Španiji, na Švedskem, v Švici, ZDA in Združenem kraljestvu.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno vračilo denarja
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Izberite paket, ki vam ustreza
 vpn-shared-pricing-variable-sub-heading = Vse naše naročnine vključujejo:
 vpn-shared-pricing-recommended-offer = Priporočamo
 vpn-shared-pricing-plan-12-month-v2 = 12-mesečna naročnina
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 mesecev
 vpn-shared-pricing-plan-monthly-v2 = Mesečna naročnina
-# Outdated string
-vpn-shared-pricing-plan-monthly = Mesečno
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mesec</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/mesec</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mesec + davek</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Get 6 month plan
-# Outdated string
-vpn-shared-pricing-get-12-month = Get 12 month plan
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Kupite 6-mesečno naročnino
 vpn-shared-pricing-get-12-month-v2 = Kupite 12-mesečno naročnino
 vpn-shared-pricing-get-monthly = Kupite mesečno naročnino
 # Variables:
@@ -94,6 +82,8 @@ vpn-shared-pricing-save-percent = Prihranite { $percent } %
 vpn-shared-save-percent-on = Prihranite { $percent } % za { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *ob nakupu 12-mesečne naročnine
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *z letno naročnino
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Skupaj { $amount }
@@ -133,11 +123,12 @@ vpn-subnav-vpn-vs-proxy = VPN ali posredniški strežnik?
 vpn-subnav-subscribe = Naročite se na { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Preberite več o VPN-jih
 vpn-subnav-download-mozilla-vpn = Prenesite { -brand-name-mozilla-vpn }
+vpn-subnav-features = Zmožnosti
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Piškotke uporabljamo, da izvemo, preko katerega od naših partnerjev ste izvedeli za { -brand-name-mozilla-vpn }. S partnerji ne delimo nobenih podatkov, na podlagi katerih bi vas bilo možno prepoznati. Preberite našo <a { $attrs }>politiko zasebnosti</a>.
 vpn-shared-affiliate-notification-reject = Zavrni
 vpn-shared-affiliate-notification-ok = V redu
@@ -158,6 +149,7 @@ vpn-shared-why-bundle = Zakaj paket?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Prihranite { $percent }%</span> pri letni naročnini na { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } še ni na voljo v vaši državi
 
-##
+## Press quotations
 
