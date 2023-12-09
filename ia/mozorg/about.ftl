@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: veloce pro bono
 about-when-you-use-the-new-firefox = Quando tu usa le nove { -brand-name-firefox }, tu obtene un experientia rapide e splendide durante que supporta le mission de { -brand-name-mozilla } a mantener internet san, magic e acceptante pro totes.
 about-walking-our-privacy-talk = Poner al obra nostre discurso re le confidentialitate
 about-when-the-facebook-breach-was = Quando le violation de { -brand-name-facebook } era revelate, { -brand-name-mozilla } habeva un immediate responsa – e un producto { -brand-name-firefox } pro supportar le confidentialitate del usator.
-about-talking-internet-issues-irl = Discuter problemas de internet IRL
-about-in-mozillas-irl-podcast-host = In le podcast IRL de { -brand-name-mozilla }, le conductrice Manoush Zomorodi comparti real historias de vita online e real discursos re le futuro del Web.
 about-corporation-foundation-not = Corporation. Fundation. Non lucrative.
 about-learn-about-the-mozilla-foundation = Apprender re { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } antepone personas al lucro in toto lo que nos dice, construe e face. De facto, il ha Fundation un non-lucrative al corde de nostre interprisa.
@@ -33,6 +31,10 @@ about-read-the-manifesto = Lege le manifesto
 about-a-global-view = Un vision global
 about-with-offices-all-over-the = Con <a href="{ $url }">officios per tote le mundo</a>, nos considera internet ex plure culturas e contextos.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Discuter problemas Tech sur IRL
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Discuter problemas de internet IRL
+about-in-mozillas-irl-podcast-host = In le podcast IRL de { -brand-name-mozilla }, le conductrice Manoush Zomorodi comparti real historias de vita online e real discursos re le futuro del Web.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> hospites non dependente colligite cata anno
 about-berlin = Berlin
