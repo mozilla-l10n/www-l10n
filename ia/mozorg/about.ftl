@@ -32,6 +32,7 @@ about-a-global-view = Un vision global
 about-with-offices-all-over-the = Con <a href="{ $url }">officios per tote le mundo</a>, nos considera internet ex plure culturas e contextos.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Discuter problemas Tech sur IRL
+about-in-mozillas-multi-award-winning = In le plure-premiate podcast de { -brand-name-mozilla }, la conductor Bridget Todd parla con le personas qui plasma le futuro de Internet e del intelligentia artificial.
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = Discuter problemas de internet IRL
 about-in-mozillas-irl-podcast-host = In le podcast IRL de { -brand-name-mozilla }, le conductrice Manoush Zomorodi comparti real historias de vita online e real discursos re le futuro del Web.
