@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = 下载 { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = 下载 { -brand-name-mozilla-vpn }
 navigation-v2-menu = 菜单
-# Obsolete string
-navigation-v2-get-a-firefox-account = 获取 { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 捐献一段声音，让未来的互联网中每个人都能被听见。
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = 进一步了解这个新的类汇编低级语言。
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } 创新项目
+navigation-v2-discover-ways-to-bring = 探索将绝妙点子变为现实的方法。
