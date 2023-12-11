@@ -166,3 +166,4 @@ firefox-desktop-download-please-follow = Prošu slědujće <a href="{ $url }">tu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
+firefox-desktop-download-taskbar = { -brand-name-firefox } budźe připjaty po instalaciji na nadawkowej lajsće { -brand-name-windows }.

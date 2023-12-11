@@ -20,6 +20,7 @@ vpn-features-more-than =
         [few] Wjace hač { $servers } serwery we wjace hač { $countries } krajach
        *[other] Wjace hač { $servers } serwerow we wjace hač { $countries } krajach
     }
+vpn-features-see-our-list = Wobhladajće sej našu lisćinu serwerow.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
@@ -29,7 +30,10 @@ vpn-features-connect-up-to =
         [few] Zwjazajće hač do { $devices } gratow
        *[other] Zwjazajće hač do { $devices } gratow
     }
+vpn-features-supported-platforms = Na dźěłowych systemach Windows, macOS, Android, iOS a Linux podpěrany.
 vpn-features-secure = Wěsty
+vpn-features-encrypt-your-internet = Zaklučujće wšón swój internetny wobchad
+vpn-features-stronger-malware = Mócniši škit přećiwo škódnej softwarje
 vpn-features-support-for-custom-dns = Podpěra za swójski DNS
 vpn-features-flexible = Fleksibelny
 vpn-features-trustworthy = Dowěry hódny

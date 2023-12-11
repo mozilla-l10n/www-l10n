@@ -27,10 +27,6 @@ firefox-new-need-help = Trjebaće pomoc?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">hižo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njeposkića, ale móžeće hišće { -brand-name-firefox } wužiwać.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Wužiwaće njewěsty, zestarjeny dźěłowy system, kotryž <a href="{ $url }">so hižo wot { -brand-name-firefox } njedpodpěruje</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukci
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Jeli namołwu widźiće, kotraž zdźěla, zo nałoženje, kotrež chceće instalować, njeje wot { -brand-name-microsoft } přepruwowane, klikńće na „Najebać toho instalować“ abo <a { $attrs }>změńće doporučenske nastajenja nałoženja</a>.
@@ -63,3 +57,4 @@ firefox-new-fast = Spěšny, priwatny a darmotny
 firefox-new-from-mozilla = wot { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } je darmotny webwobhladowak, kotryž strony spěšnje začituje, mjenje składa wužiwa a wjele funkcijow ma - projekt powšitkownosći wužitneje organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Za druhu platformu a rěč sćahnyć
+firefox-new-taskbar = { -brand-name-firefox } budźe připjaty po instalaciji na nadawkowej lajsće { -brand-name-windows }.
