@@ -33,6 +33,7 @@ vpn-landing-more-than-servers-in-countries =
         [few] Wjace hač { $servers } serwery we wjace hač { $countries } krajach
        *[other] Wjace hač { $servers } serwerow we wjace hač { $countries } krajach
     }
+vpn-landing-see-all-features = Wšě funkcije pokazać
 vpn-landing-fram-a-brand-you-can-trust = Wot marki, kotrejž móžeće dowěrić
 vpn-landing-one-subscription-for-all-your = Jedyn abonement za wšě waše graty
 vpn-landing-learn-more-from-our-experts = Wukńće wjace wot našich ekspertow

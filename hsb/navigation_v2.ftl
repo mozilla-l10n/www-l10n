@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } sćahnyć
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 navigation-v2-menu = Meni
-# Obsolete string
-navigation-v2-get-a-firefox-account = Wobstarajće sej { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -69,6 +67,7 @@ navigation-v2-work-for-a-mission-driven-updated = Dźěłajće za organizaciju z
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zhońće wjace wo { -brand-name-mozilla } a problemach, kotrež su nam wažne.
 navigation-v2-stories = Stawiznički
+navigation-v2-stories-about-how = Stawiznički wo tym, kak naše ludźo a produkty swět k lěpšemu wobroćeja.
 navigation-v2-more-about-mozilla = Wjace wo { -brand-name-mozilla }
 
 ## Innovation menu
@@ -87,3 +86,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darće swój hłós, zo by přichod weba móže na kóždeho słuchać.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zhońće wjace wo nowej rěči podobnej na Assembler na niskej runinje.
+navigation-v2-mozilla-innovation-projects = Inowaciske projekty { -brand-name-mozilla }
