@@ -192,7 +192,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } n’es
 ## Press quotations
 
 # Section title for press quotations about Mozilla VPN
-vpn-press-as-seen-in = Tel que vu dans 
+vpn-press-as-seen-in = Vu dans 
 
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
