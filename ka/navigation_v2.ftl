@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = გამოიყენეთ { -brand-name-mozilla-vpn }
 navigation-v2-menu = მენიუ
-# Obsolete string
-navigation-v2-get-a-firefox-account = შექმენით { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = შემოგვწირეთ თქვენი ხმა, რომ მომავალში ვებსამყაროს, ყველასი ესმოდეს.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = შეისწავლეთ ახალი, ქვედა დონის, ასემბლერის მაგვარი ენა.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla }-ს საინოვაციო პროექტები
+navigation-v2-discover-ways-to-bring = აღმოაჩინეთ გზები ნათელი იდეების განსახორციელებლად.
