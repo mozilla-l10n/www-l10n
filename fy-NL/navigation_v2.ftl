@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } downloade
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Donearje jo spraak, sadat de takomst fan it ynternet elkenien ferstean kin.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lês mear oer de nije, leechdrompelige, gearstallingseftige taal.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla }-ynnovaasjeprojekten
+navigation-v2-discover-ways-to-bring = Untdek manieren om tûke ideeën ta libben te bringen.
