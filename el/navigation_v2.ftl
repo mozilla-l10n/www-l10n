@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Λήψη του { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 navigation-v2-menu = Μενού
-# Obsolete string
-navigation-v2-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Δωρίστε τη φωνή σας, ώστε το μέλλον του διαδικτύου να μπορεί να τους ακούσει όλους.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Μάθετε περισσότερα για τη νέα, χαμηλού επιπέδου γλώσσα που μοιάζει με την Assembly.
+navigation-v2-mozilla-innovation-projects = Έργα καινοτομίας της { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Ανακαλύψτε τρόπους για να υλοποιήσετε λαμπρές ιδέες.
