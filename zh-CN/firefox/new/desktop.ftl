@@ -123,7 +123,7 @@ firefox-desktop-download-learn-about-the = 进一步了解各种 { -brand-name-f
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = 从安全、新闻、到网络游戏，都有<a { $attrs }>适合每个人的扩展</a>。按需安装，让浏览器有您的个性。
+firefox-desktop-download-from-security-to = 从安全、新闻，到网络游戏，都有<a { $attrs }>人人合用的扩展</a>。按需安装，让浏览器有您的个性。
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 开发，希望成为在 { -brand-name-ie }（如今则是 { -brand-name-chrome }）之外，更快、更具隐私的浏览器。而现在，我们由以使命驱动的公司与全球志愿者社区组成，任何时刻都将您的隐私放在首位。
