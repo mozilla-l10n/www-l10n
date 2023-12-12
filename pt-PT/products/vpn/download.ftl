@@ -13,8 +13,6 @@ vpn-download-sub-heading = Pode transferir a { -brand-name-mozilla-vpn } para at
 vpn-download-mozilla-vpn-offers = A { -brand-name-mozilla-vpn } oferece proteção segura e protegida para todos os principais sistemas operativos.
 vpn-download-not-available-in-country = Desculpe, a { -brand-name-mozilla-vpn } não está disponível para transferência no seu país.
 vpn-download-button-copy = Transferir
-# Obsolete string
-vpn-download-for-windows = VPN para { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (somente 64 bits)
 vpn-download-for-windows-long = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-windows }
@@ -32,13 +30,15 @@ vpn-download-for-android = VPN para { -brand-name-android }
 vpn-download-for-android-long = Transfira a { -brand-name-mozilla-vpn } para { -brand-name-android }
 vpn-download-for-ios = VPN para { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Transfira a VPN { -brand-name-mozilla-vpn } para { -brand-name-ios }
 vpn-download-get-on-google-play = Entrar na { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Entrar na { -brand-name-app-store }
 vpn-download-based-on-your = Com base no seu dispositivo atual
 vpn-download-get-mozilla-vpn = Obter a { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Privacidade em que pode confiar
 vpn-download-also-available = Também disponível para:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Da criadora do { -brand-name-firefox }, { -brand-name-mozilla-vpn } usa o avançado protocolo <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }< /a>® para criptografar a sua atividade online e ocultar a sua localização.
 vpn-download-we-never-log = Nunca registamos, rastreamos ou partilhamos os seus dados de rede.
 vpn-download-previous-versions = Transferir versões anteriores do { -brand-name-windows } e { -brand-name-mac-short }
