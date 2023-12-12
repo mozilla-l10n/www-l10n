@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Preuzmite { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Preuzmite { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meni
-# Obsolete string
-navigation-v2-get-a-firefox-account = Preuzmite { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Pozajmite svoj glas kako bi budućnost interneta doprijela do svakoga.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Saznajte više o novom programskom jeziku niske razine, sličnom asembleru.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } inovacijski projekti
+navigation-v2-discover-ways-to-bring = Otkrijte načine da oživite pametne ideje.
