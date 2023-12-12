@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Baixe o { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Instale o { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Crie uma { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Doe sua voz para que o futuro da web possa ouvir a todos.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Saiba mais sobre a nova linguagem de baixo nível, semelhante ao assembly.
+navigation-v2-mozilla-innovation-projects = Projetos de inovação da { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Descubra maneiras de dar vida a ideias brilhantes.
