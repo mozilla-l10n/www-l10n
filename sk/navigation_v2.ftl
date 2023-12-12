@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Stiahnuť { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
 navigation-v2-menu = Ponuka
-# Obsolete string
-navigation-v2-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Prispejte svojim hlasom, aby bolo v budúcnosti počuť každého
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zistite viac o novom, nízkoúrovňovom jazyku.
+navigation-v2-mozilla-innovation-projects = Inovatívne projekty { -brand-name-mozilla(case: "gen") }
+navigation-v2-discover-ways-to-bring = Objavte spôsoby, ako oživiť svetlé nápady.
