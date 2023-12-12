@@ -18,7 +18,7 @@ firefox-desktop-download-og-desc = 全新 { -brand-name-firefox } 來了！頁�
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-firefox-desktop-out-of-date = 更新的 { -brand-name-firefox } 也已經推出。 <a { $update_url }>更新到最新版本</a>
+firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = 封鎖社交追蹤器
 firefox-desktop-download-os-availability = 不同作業系統皆有提供
 firefox-desktop-download-in-browser-screenshot = 內建畫面擷圖工具
 firefox-desktop-download-primary-password = 主控密碼
-# Obsolete string
-firefox-desktop-love-your-life = 愛上您的線上生活
-# Obsolete string
-firefox-desktop-its-your-internet = 這是您的網路世界。用您想要的方式與數以千計的工具、佈景主題、擴充套件恣意增添色彩。{ -brand-name-firefox } 是最老牌的非內建瀏覽器，我們把人看得比利益更重要。
-# Obsolete string
-firefox-desktop-download-master-password = 主控密碼
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = 安裝好 { -brand-name
 firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 監控駭客、使用 { -brand-name-firefox-relay } 保護您的信箱，還有更多功能。
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-relay } 保護您的信箱，以及更多功能。
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = 使用 { -brand-name-firefox-monitor } 監控駭客行為、使用 { -brand-name-firefox-lockwise } 保護密碼，以及更多功能。
 firefox-desktop-download-get-more-from-firefox = 取得更完整的 { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = 只要下載瀏覽器
 
@@ -176,8 +168,6 @@ firefox-desktop-download-now-mac = 接下來<strong>開啟</strong>剛下載的�
 firefox-desktop-download-get-help = 遇到問題嗎？<a { $attrs }>獲得安裝協助</a>。
 firefox-desktop-download-in-another-language = 下載其他語言或其他平台版本。
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = 若您看到「您正要安裝的應用程式未經 { -brand-name-microsoft } 驗證」，請點擊「還是要安裝」或<a { $attrs }>更改應用程式推薦設定</a>。
@@ -185,10 +175,6 @@ firefox-desktop-download-visit-support-for-more = 到技術支援站了解更多
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
