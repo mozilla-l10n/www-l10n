@@ -12,6 +12,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Tüm Cihazlarınızı Koruyun
 #   $countries (number) - number of available countries
 vpn-landing-desc = Tüm uygulamalarınızda tam cihaz koruması için { -brand-name-mozilla-vpn } kullanın. { $countries }+ ülkedeki sunuculara her yerden bağlanabilirsiniz.
 vpn-landing-whats-a-vpn = VPN nedir?
+vpn-landing-how-a-vpn-helps-you = VPN size nasıl yardımcı olur?
 vpn-landing-keeps-your-data-safe = Verilerinizi halka açık Wi-Fi ağlarında güvende tutar
 vpn-landing-features = Özellikler
 # Variables:

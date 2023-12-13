@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-1 = { -brand-name-mozilla }’ya bağış yapın. İnternete sahip çıkın.
 banner-fundraising-title-2 = İnternetin kontrolünü geri alın.
 banner-fundraising-title-3 = { -brand-name-mozilla }’ya bağış yapmak ister misiniz?
 banner-fundraising-donate = Bağış yapın
