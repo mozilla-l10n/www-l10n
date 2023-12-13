@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Hämta { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Hämta { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meny
-# Obsolete string
-navigation-v2-get-a-firefox-account = Skapa ett { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Donera din röst så att framtiden på webben kan höra alla.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lär dig mer om det nya, lågnivå, assembler-liknande språket.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovationsprojekt
+navigation-v2-discover-ways-to-bring = Upptäck sätt att förverkliga bra idéer.
