@@ -24,3 +24,13 @@ vpn-pricing-access =
         [one] { $countries }+ ülkede { $servers } sunucuya erişin
        *[other] { $countries }+ ülkede { $servers } sunucuya erişin
     }
+vpn-pricing-money-back = 30 günlük para iade garantisi (yalnızca yeni müşteriler için)
+vpn-pricing-annual = Yıllık
+vpn-pricing-monthly = Aylık
+vpn-pricing-get-annual-subscription = Yıllık abonelik alın
+vpn-pricing-get-monthly-subscription = Aylık abonelik alın
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } henüz ülkenizde kullanılamıyor
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = SSS
+vpn-pricing-refund-policy = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
+vpn-pricing-what-information = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?

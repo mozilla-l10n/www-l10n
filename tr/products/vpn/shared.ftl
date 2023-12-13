@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn }’i edinin
 vpn-shared-waitlist-link = Bekleme listesine katılın
 vpn-shared-sign-in-link = Zaten abone misiniz?
-# Outdated string
-vpn-shared-available-countries-v5 = { -brand-name-mozilla-vpn } şu anda Avusturya, Belçika, Kanada, Finlandiya, Fransa, Almanya, İrlanda, İtalya, Malezya, Hollanda, Yeni Zelanda, Singapur, İspanya, İsveç, İsviçre, Birleşik Krallık ve ABD'de mevcuttur.
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } hizmetine şu anda Avusturya, Belçika, Bulgaristan, Kanada, Hırvatistan, Kıbrıs, Çek Cumhuriyeti, Danimarka, Estonya, Finlandiya, Fransa, Almanya, Macaristan, İrlanda, İtalya, Letonya, Litvanya, Lüksemburg, Malezya, Malta, Hollanda, Yeni Zelanda, Polonya, Portekiz, Romanya, Singapur, Slovenya, Slovakya, İspanya, İsveç, İsviçre, Birleşik Krallık ve ABD'den abone olabilirsiniz.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 gün para iade garantisi
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Size en uygun paketi seçin
 vpn-shared-pricing-variable-sub-heading = Tüm planlarımızın ortak özellikleri:
 vpn-shared-pricing-recommended-offer = Önerilen
 vpn-shared-pricing-plan-12-month-v2 = 12 aylık plan
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 ay
 vpn-shared-pricing-plan-monthly-v2 = Aylık plan
-# Outdated string
-vpn-shared-pricing-plan-monthly = Aylık
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/ay</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/ay</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/ay + vergi</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = 6 aylık planı alın
-# Outdated string
-vpn-shared-pricing-get-12-month = 12 aylık planı alın
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = 6 aylık paket alın
 vpn-shared-pricing-get-12-month-v2 = 12 aylık paket alın
 vpn-shared-pricing-get-monthly = Aylık planı alın
 # Variables:
@@ -94,6 +82,8 @@ vpn-shared-pricing-save-percent = %{ $percent } tasarruf
 vpn-shared-save-percent-on = { -brand-name-mozilla-vpn }'de %{ $percent } tasarruf edin*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *12 aylık plana abone olduğunuzda
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *yıllık abonelikle
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Toplam { $amount }
@@ -133,11 +123,12 @@ vpn-subnav-vpn-vs-proxy = VPN mi proxy mi?
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn }’e abone olun
 vpn-subnav-learn-about-vpns = VPN hakkında bilgi alın
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn }’i indir
+vpn-subnav-features = Özellikler
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Hangi iş ortağımızın sizi { -brand-name-mozilla-vpn }'e yönlendirdiğini anlamak için çerezleri kullanıyoruz. Kişisel bilgilerinizi iş ortaklarımızla paylaşmıyoruz. <a { $attrs }>Gizlilik Politikamızı</a> okuyun.
 vpn-shared-affiliate-notification-reject = Reddet
 vpn-shared-affiliate-notification-ok = Tamam
@@ -158,6 +149,9 @@ vpn-shared-why-bundle = Neden paket?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } yıllık planı ile <span>%{ $percent } tasarruf edin</span>
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } henüz ülkenizde kullanılamıyor
 
-##
+## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Övgüyle bahsedenler
