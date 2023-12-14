@@ -35,6 +35,8 @@ about-read-the-manifesto = Unser Manifest lesen
 about-a-global-view = Eine globale Sicht
 about-with-offices-all-over-the = Mit <a href="{ $url }">Niederlassungen auf der ganzen Welt</a> betrachten wir das Internet aus verschiedenen Kulturen und Kontexten.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Tech-Probleme im echten Leben
+about-in-mozillas-multi-award-winning = Moderatorin Bridget Todd spricht im vielfach ausgezeichneten IRL-Podcast von { -brand-name-mozilla } mit den Leuten, die die Zukunft des Internets und der KI formen.
 
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = Internetprobleme im echten Leben
