@@ -86,5 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darujte svůj hlas, aby budoucnost webu mohla vyslyšet každého.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Zjistěte více o novém nízkoúrovňovém jazyce podobném assembleru.
-navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovation Projects
+navigation-v2-mozilla-innovation-projects = Inovační projekty { -brand-name-mozilla(case: "gen") }
 navigation-v2-discover-ways-to-bring = Objevte způsoby, jak uvést skvělé nápady v život.
