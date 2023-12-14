@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Shkarkoni { -brand-name-firefox }-in
 navigation-v2-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Merrni një { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dhuroni zërin tuaj, që e ardhmja e web-it të dëgjojë këdo.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Mësoni më tepër për gjuhën e re, e shkallës së ulët, e ngjashme me Assembly-n
+navigation-v2-mozilla-innovation-projects = Projekte Novacioni { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Zbuloni rrugë për të vënë në jetë ide të ndritura.
