@@ -160,3 +160,14 @@ vpn-press-as-seen-in = როგორც აღნიშნავს
 vpn-press-mozillas-vpn-can-also-integrate-into = „{ -brand-name-mozilla }-ს VPN-ს ასევე შეუძლია <a { $attrs }>შეათავსოს პირადულობის დაცვის მოსახერხებელი შესაძლებლობები</a> მისსავე { -brand-name-firefox }-ბრაუზერთან“.
 vpn-press-unique-features-like-its-multi-account = „…გამორჩეულ შესაძლებლობებს, მათ შორის მრავალანგარიშიან სათავსებს, შეუძლია აღნიშნული საშუალება უფრო ადვილად ხელმისაწვდომი გახადოს მომხმარებლებისთვის, რომელთაც მეტად აღელვებთ პირადი მონაცემების უსაფრთხოება“.
 vpn-press-mozilla-vpns-feature-list-has-grown = „{ -brand-name-mozilla-vpn } გაცილებით მეტ შესაძლებლობას შეიცავს გამოშვების შემდგომ და უკვე ბევრ გამოცდილ VPN-ს სჯობნის არაერთ საკითხში“.
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } ამჟამად არაა შემოთავაზებული { $language } ენაზე, მაგრამ შეგიძლიათ გამოიყენოთ ინგლისურად, ფრანგული, გერმანული, ესპანურად და <a { $href }>30-ზე მეტ ენაზე</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = გსურთ, დაეხმაროთ { -brand-name-mozilla-vpn }-ს მეტი ხალხის გაზიარებაში? <a { $href }>გახდით მოხალისე მთარგმნელი</a>.
