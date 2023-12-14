@@ -160,3 +160,14 @@ vpn-press-as-seen-in = Fel wedi'i weld yn
 vpn-press-mozillas-vpn-can-also-integrate-into = “Gall VPN { -brand-name-mozilla } hefyd <a { $attrs }>integreiddio i rai nodweddion diogelu preifatrwydd hwylus</a> ei borwr { -brand-name-firefox }.”
 vpn-press-unique-features-like-its-multi-account = “…gall nodweddion unigryw, fel ei Gynwysyddion Aml-gyfrif, wneud y nodwedd yn hygyrch i ddefnyddwyr sydd â phryderon preifatrwydd mwy difrifol.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Mae rhestr nodweddion { -brand-name-mozilla-vpn } wedi tyfu’n sylweddol ers ei lansio, ac mae’r gwasanaeth bellach yn curo llawer o VPNs arbenigol mewn rhai meysydd.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = Nid yw { -brand-name-mozilla-vpn } yn cael ei gynnig yn { $language } ar hyn o bryd, ond gallwch ei ddefnyddio yn Saesneg, Ffrangeg, Almaeneg, Sbaeneg a <a { $href }>dros 30 o ieithoedd eraill</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Eisiau helpu i ddod â { -brand-name-mozilla-vpn } i fwy o bobl? <a { $href }>Dod yn gyfieithydd gwirfoddol</a>.
