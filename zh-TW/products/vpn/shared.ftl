@@ -160,3 +160,14 @@ vpn-press-as-seen-in = 出現於
 vpn-press-mozillas-vpn-can-also-integrate-into = 「{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合進 { -brand-name-firefox } 瀏覽器的隱私保護功能</a>。」
 vpn-press-unique-features-like-its-multi-account = 「…可讓對隱私權較為在意的使用者，更簡單就能使用 Multi-Account Containers 等獨特功能。」
 vpn-press-mozilla-vpns-feature-list-has-grown = 「{ -brand-name-mozilla-vpn } 的功能清單跟剛推出時相比，已有明顯成長，也已經超過許多專業的 VPN。」
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } 目前不提供 { $language } 版本但您可以使用英語、法語、德語、西班牙語以及<a { $href }>超過 30 種其他語言</a>的版本的更多資訊。
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = 想要幫忙將 { -brand-name-mozilla-vpn } 分享給更多人嗎<a { $href }>成為翻譯志工</a>。
