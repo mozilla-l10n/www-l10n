@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hämta { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ställ dig i väntelistan
 vpn-shared-sign-in-link = Är du redan prenumerant?
-# Obsolete string
-vpn-shared-available-countries-v5 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i Österrike, Belgien, Kanada, Finland, Frankrike, Tyskland, Irland, Italien, Malaysia, Nederländerna, Nya Zeeland, Singapore, Spanien, Sverige, Schweiz, Storbritannien och USA.
 vpn-shared-available-countries-v6 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i Österrike, Belgien, Bulgarien, Kanada, Kroatien, Cypern, Tjeckien, Danmark, Estland, Finland, Frankrike, Tyskland, Ungern, Irland, Italien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Nederländerna, Nya Zeeland, Polen, Portugal, Rumänien, Singapore, Slovenien, Slovakien, Spanien, Sverige, Schweiz, Storbritannien och USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagars pengarna tillbaka garanti
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Välj en plan som fungerar för dig
 vpn-shared-pricing-variable-sub-heading = Alla våra planer inkluderar:
 vpn-shared-pricing-recommended-offer = Rekommenderad
 vpn-shared-pricing-plan-12-month-v2 = 12-månadersplan
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 månader
 vpn-shared-pricing-plan-monthly-v2 = Månadsplan
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Månadsvis
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + moms</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Välj en 6-månaders prenumeration
-# Obsolete string
-vpn-shared-pricing-get-12-month = Välj en 12-månaders prenumeration
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Skaffa en 6-månadersplan
 vpn-shared-pricing-get-12-month-v2 = Skaffa en 12-månadersplan
 vpn-shared-pricing-get-monthly = Välj en månadsprenumeration
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Som setts i
 vpn-press-mozillas-vpn-can-also-integrate-into = "VPN för { -brand-name-mozilla } kan också <a { $attrs }>integreras i några fiffiga integritetsskyddsfunktioner</a> i sin webbläsare { -brand-name-firefox }."
 vpn-press-unique-features-like-its-multi-account = "“…unika funktioner, som dess Multi-Account Containers, kan göra funktionen lättillgänglig för användare med allvarligare integritetsproblem."
 vpn-press-mozilla-vpns-feature-list-has-grown = "{ -brand-name-mozilla-vpn }:s funktionslista har växt avsevärt sedan lanseringen och tjänsten slår nu många specialiserade VPN:er i vissa områden."
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } erbjuds för närvarande inte på { $language }, men du kan använda det på engelska, franska, tyska, spanska och <a { $href }>över 30 andra språk</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Vill du hjälpa fler människor att få { -brand-name-mozilla-vpn } på sitt språk? <a { $href }>Bli en frivillig översättare</a>.
