@@ -35,6 +35,8 @@ about-read-the-manifesto = マニフェストを読む
 about-a-global-view = グローバルな視点
 about-with-offices-all-over-the = Mozilla は、<a href="{ $url }">世界各地に事業所</a>を展開し、様々な文化や状況の立場からインターネットについて考えています。
 about-san-francisco = サンフランシスコ
+about-talking-tech-issues-irl = IRL: テクノロジーの課題について
+about-in-mozillas-multi-award-winning = 数々の受賞歴を持つ { -brand-name-mozilla } のポッドキャストにて、Bridget Todd がインターネットと AI の未来を形作る人たちに語りかけます。
 
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = IRL: インターネットの課題について
