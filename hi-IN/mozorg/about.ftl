@@ -35,6 +35,8 @@ about-read-the-manifesto = घोषणा पत्र पढ़ें
 about-a-global-view = एक वैश्विक दृश्य
 about-with-offices-all-over-the = <a href="{ $url }">दुनिया भर में कार्यालय</a> होने के कारण, हम कई संस्कृतियों और संदर्भों को ध्यान में रखकर इंटरनेट पर विचार करते हैं।
 about-san-francisco = सैन फ़्रांसिस्को
+about-talking-tech-issues-irl = IRL (इन रियल लाइफ) वाले तकनीकी मुद्दों पर बात
+about-in-mozillas-multi-award-winning = बहुत सारे पुरस्कार जीतने वाले { -brand-name-mozilla } के पॉडकास्ट में, होस्ट ब्रिजेट टॉड इंटरनेट और एआई के भविष्य को आकार देने वाले लोगों से बात करते हैं।
 
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = इंटरनेट के मुद्दों पर बात IRL
