@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Obtener { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Únete a la lista de espera de VPN
 vpn-shared-sign-in-link = ¿Ya eres suscriptor?
-# Obsolete string
-vpn-shared-available-countries-v5 = Actualmente ofrecemos { -brand-name-mozilla-vpn } en Austria, Bélgica, Canadá, Finlandia, Francia, Alemania, Irlanda, Italia, Malasia, los Países Bajos, Nueva Zelanda, Singapur, España, Suecia, Suiza, el Reino Unido y los Estados Unidos.
 vpn-shared-available-countries-v6 = Actualmente ofrecemos { -brand-name-mozilla-vpn } en Austria, Bélgica, Bulgaria, Canadá, Croacia, Chipre, República Checa, Dinamarca, Estonia, Finlandia, Francia, Alemania, Hungría, Irlanda, Italia, Letonia, Lituania, Luxemburgo, Malasia, Malta, Países Bajos, Nueva Zelanda, Polonia, Portugal, Rumania, Singapur, Eslovenia, Eslovaquia, España, Suecia, Suiza, Reino Unido y Estados Unidos.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 días de garantía de devolución de dinero
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Elige un plan que funcione para ti
 vpn-shared-pricing-variable-sub-heading = Todos nuestros planes incluyen:
 vpn-shared-pricing-recommended-offer = Recomendado
 vpn-shared-pricing-plan-12-month-v2 = Plan de 12 meses
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 meses
 vpn-shared-pricing-plan-monthly-v2 = Plan mensual
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Mensualmente
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + impuestos</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Obtener plan de 6 meses
-# Obsolete string
-vpn-shared-pricing-get-12-month = Obtener plan de 12 meses
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Obtener plan de 6 meses
 vpn-shared-pricing-get-12-month-v2 = Obtener plan de 12 meses
 vpn-shared-pricing-get-monthly = Obtener plan mensual
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Como se vio en
 vpn-press-mozillas-vpn-can-also-integrate-into = "El VPN de { -brand-name-mozilla } también puede <a { $attrs }>integrarse en algunas funciones ingeniosas de protección de la privacidad</a> de tu navegador { -brand-name-firefox }".
 vpn-press-unique-features-like-its-multi-account = “… las características únicas, como sus contenedores multicuenta, podrían hacer que la funcionalidad sea fácilmente accesible para los usuarios con preocupaciones de privacidad más serias”.
 vpn-press-mozilla-vpns-feature-list-has-grown = "La lista de funcionalidades de { -brand-name-mozilla-vpn } ha crecido considerablemente desde su lanzamiento y el servicio ahora supera a muchas VPN especializadas en algunas áreas".
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } no se ofrece actualmente en { $language }, pero puedes usarlo en inglés, francés, alemán, español y en <a { $href }>a lo menos 30 idiomas más</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = ¿Quieres ayudar a llevar { -brand-name-mozilla-vpn } a más personas? <a { $href }>Conviértete en traductor voluntario</a>.
