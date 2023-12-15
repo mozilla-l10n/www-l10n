@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Gyors, a jó célért
 about-when-you-use-the-new-firefox = Ha az új { -brand-name-firefox(case: "accusative") } használja, akkor villámgyors élményt kap, miközben támogatja a { -brand-name-mozilla } küldetését, hogy az internet továbbra is egészséges, furcsa és barátságos legyen mindenki számára.
 about-walking-our-privacy-talk = Beszéljünk az adatvédelemről
 about-when-the-facebook-breach-was = Amikora { -brand-name-facebook } adatszegés kiderült, a { -brand-name-mozilla } azonnal reagált – és ki is adott egy { -brand-name-firefox } terméket, amely támogatja a felhasználók magánszféráját.
-about-talking-internet-issues-irl = Internetes problémák a való életben
-about-in-mozillas-irl-podcast-host = A { -brand-name-mozilla } IRL podcastjában a házigazda Manoush Zomorodi az online életből származó valós történeteket oszt meg, és a világháló jövőjéről beszélget.
 about-corporation-foundation-not = Vállalat. Alapítvány. Nonprofit.
 about-learn-about-the-mozilla-foundation = Tudjon meg többet a { -brand-name-mozilla-foundation }ról
 about-mozilla-puts-people-over-profit = A { -brand-name-mozilla } minden nyilatkozatában, termékében és tettében az embereket helyezi a haszon elé. Valójában a nonprofit Alapítvány áll a vállalkozásunk középpontjában.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Olvassa el a kiáltványt
 about-a-global-view = Globális nézet
 about-with-offices-all-over-the = <a href="{ $url }">Irodákkal a világ minden táján</a>, az internetet több kultúra és környezet szemszögéből nézzük.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Műszaki problémák a való életben
+about-in-mozillas-multi-award-winning = A { -brand-name-mozilla } többszörösen díjnyertes podcastjában, a házigazda, Bridget Todd, az internet és a mesterséges intelligencia jövőjét alakító emberekkel beszélget.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internetes problémák a való életben
+about-in-mozillas-irl-podcast-host = A { -brand-name-mozilla } IRL podcastjában a házigazda Manoush Zomorodi az online életből származó valós történeteket oszt meg, és a világháló jövőjéről beszélget.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> nem munkavállalói vendég fogadása minden évben
 about-berlin = Berlin
