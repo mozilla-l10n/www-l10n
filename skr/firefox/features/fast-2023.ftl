@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = بھلا { -brand-name-firefox } تکھیرا براؤزر ہے؟
+# HTML description
+features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } کروم کنوں گھٹ میموری استعمال کریندا ہے، لہذا تہاݙے ٻئے پروگرام تیز رفتاری نال چلدے رہ سڳدے ہن۔
 features-fast-browse-faster = تیزی نال براؤز کرو
 features-fast-faster-gaming = تکھیرا کھیݙݨ
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.

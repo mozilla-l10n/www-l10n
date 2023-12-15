@@ -10,6 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } براؤزر �
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
 features-index-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
+features-index-free-password-manager = مفت پاس ورڈ منیجر
 features-index-bookmark-manager = نشانی منیجر
 features-index-private-browsing-mode = نجی براؤزنگ موڈ
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
@@ -19,3 +20,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } آپݨے �
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = { -brand-name-firefox } دے بلٹ ان فنگر پرنٹنگ بلاکرز دے نال اپݨے نیڑے تیڑے چمبڑیئے اشتہاراں کوں ختم کرو۔
 features-index-translate-the-web = ویب دا ترجمہ کرو
+features-index-picture-in-picture = تصویر وِچ تصویر
+features-index-got-things-to-do = کرݨ کیتے چیزاں تے ݙیکھݨ کیتے چیزاں ہن؟ { -brand-name-firefox } وِچ تصویر وِچ تصویر دا استعمال کریندے ہوئے ݙوہیں کرو۔
