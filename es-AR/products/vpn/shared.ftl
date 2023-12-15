@@ -167,7 +167,7 @@ vpn-press-mozilla-vpns-feature-list-has-grown = “La lista de funcionalidades d
 # Variables
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
-vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } no está disponible actualmente en { $language }, pero puede usarlo en alemán, español, francés, inglés y <a { $href }> en más de 30 idiomas </a> .
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } no está disponible actualmente en { $language }, pero podés usarla en inglés, francés, alemán, español y <a { $href }>en más de otros 30 idiomas</a>.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
-vpn-shared-unsupported-language-contribute = ¿Querés ayudar a llevar { -brand-name-mozilla-vpn } a más personas? <a { $href }> Hazte traductor voluntario </a>.
+vpn-shared-unsupported-language-contribute = ¿Querés ayudar a llevar { -brand-name-mozilla-vpn } a más personas? <a { $href }>Convertiré en un traductor voluntario</a>.
