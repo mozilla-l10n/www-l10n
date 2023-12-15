@@ -168,3 +168,6 @@ vpn-press-mozilla-vpns-feature-list-has-grown = «Η λίστα δυνατοτή
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
 vpn-shared-unsupported-language-warning = Το { -brand-name-mozilla-vpn } δεν προσφέρεται προς το παρόν στα { $language }, αλλά μπορείτε να το χρησιμοποιήσετε στα αγγλικά, τα γαλλικά, τα γερμανικά, τα ισπανικά και σε <a { $href }>περισσότερες από 30 άλλες γλώσσες</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Θέλετε να μας βοηθήσετε να κάνουμε το { -brand-name-mozilla-vpn } διαθέσιμο σε περισσότερες γλώσσες; <a { $href }>Γίνετε μεταφραστής</a>.
