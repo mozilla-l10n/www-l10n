@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Tải xuống { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Tạo một { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Hãy đóng góp giọng nói của bạn để tương lai của web có thể nghe thấy tất cả mọi người.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Tìm hiểu thêm về ngôn ngữ mới, cấp thấp, giống như hợp ngữ.
+navigation-v2-mozilla-innovation-projects = Các dự án đổi mới của { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Khám phá những cách để mang những ý tưởng sáng tạo vào cuộc sống.

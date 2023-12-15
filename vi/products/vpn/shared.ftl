@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Nhận { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Tham gia danh sách chờ
 vpn-shared-sign-in-link = Đã là một người đăng ký?
-# Obsolete string
-vpn-shared-available-countries-v5 = Chúng tôi hiện cung cấp { -brand-name-mozilla-vpn } ở Áo, Bỉ, Canada, Phần Lan, Pháp, Đức, Ireland, Ý, Malaysia, Hà Lan, New Zealand, Singapore, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 vpn-shared-available-countries-v6 = Chúng tôi hiện đang cung cấp { -brand-name-mozilla-vpn } tại Áo, Bỉ, Bulgaria, Canada, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Hungary, Ireland, Ý, Latvia, Litva, Luxembourg, Malaysia, Malta, Hà Lan, New Zealand, Ba Lan, Bồ Đào Nha, Romania, Singapore, Slovenia, Slovakia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Chọn một gói phù hợp với bạn
 vpn-shared-pricing-variable-sub-heading = Tất cả các gói của chúng tôi bao gồm:
 vpn-shared-pricing-recommended-offer = Được đề xuất
 vpn-shared-pricing-plan-12-month-v2 = Gói 12 tháng
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 tháng
 vpn-shared-pricing-plan-monthly-v2 = Gói hàng tháng
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Hàng tháng
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/tháng</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/tháng</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/tháng+ thuế</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Nhận gói 6 tháng
-# Obsolete string
-vpn-shared-pricing-get-12-month = Nhận gói 12 tháng
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Chọn gói 6 tháng
 vpn-shared-pricing-get-12-month-v2 = Chọn gói 12 tháng
 vpn-shared-pricing-get-monthly = Nhận gói hàng tháng
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Như đã thấy trong
 vpn-press-mozillas-vpn-can-also-integrate-into = “VPN của { -brand-name-mozilla } cũng có thể <a { $attrs }>tích hợp vào một số tính năng bảo vệ quyền riêng tư tiện lợi</a> của trình duyệt { -brand-name-firefox } của nó.”
 vpn-press-unique-features-like-its-multi-account = “…các tính năng độc đáo, như Vùng chứa nhiều tài khoản, có thể làm cho tính năng này dễ dàng truy cập được với người dùng có mối quan ngại nghiêm trọng hơn về quyền riêng tư.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Dạnh sách tính năng của { -brand-name-mozilla-vpn } đã phát triển đáng kể kể từ khi ra mắt và dịch vụ này hiện đã đánh bại nhiều VPN chuyên nghiệp ở một số khu vực.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } hiện không được cung cấp ở { $language }, nhưng bạn có thể sử dụng nó bằng tiếng Anh, tiếng Pháp, tiếng Đức, tiếng Tây Ban Nha và <a { $href }>hơn 30 ngôn ngữ khác</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Bạn muốn giúp mang { -brand-name-mozilla-vpn } đến nhiều người hơn? <a { $href }>Trở thành một tình nguyện viên dịch thuật</a>.
