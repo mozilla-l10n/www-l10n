@@ -160,3 +160,11 @@ vpn-press-as-seen-in = Έγραψαν για εμάς
 vpn-press-mozillas-vpn-can-also-integrate-into = «Το VPN της { -brand-name-mozilla } μπορεί επίσης να <a { $attrs }>ενσωματωθεί σε κάποιες εξαιρετικές λειτουργίες προστασίας απορρήτου</a> του προγράμματος περιήγησής της, του { -brand-name-firefox }.»
 vpn-press-unique-features-like-its-multi-account = «…μοναδικές λειτουργίες, όπως τα Multi-Account Containers, μπορούν να καταστήσουν εύκολα προσβάσιμη τη δυνατότητα σε χρήστες με σοβαρές ανησυχίες απορρήτου.»
 vpn-press-mozilla-vpns-feature-list-has-grown = «Η λίστα δυνατοτήτων του { -brand-name-mozilla-vpn } έχει επεκταθεί σημαντικά από την κυκλοφορία και η υπηρεσία ξεπερνά πλέον πολλά εξειδικευμένα VPN σε ορισμένους τομείς.»
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = Το { -brand-name-mozilla-vpn } δεν προσφέρεται προς το παρόν στα { $language }, αλλά μπορείτε να το χρησιμοποιήσετε στα αγγλικά, τα γαλλικά, τα γερμανικά, τα ισπανικά και σε <a { $href }>περισσότερες από 30 άλλες γλώσσες</a>.
