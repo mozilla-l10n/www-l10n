@@ -89,3 +89,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = ساهِم بصوتك لِتتمكن شبكة الويب من سماع الجميع في المستقبل.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = اطّلِع على المزيد حول اللغة الجديدة المنخفضة المستوى التي تشبه لغة التجمع.
+navigation-v2-mozilla-innovation-projects = مشاريع الابتكار في { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = اكتشف طرقًا لتحويل الأفكار اللامعة إلى واقع ملموس.
