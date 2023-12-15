@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloaden
 vpn-shared-waitlist-link = Op de wachtlijst plaatsen
 vpn-shared-sign-in-link = Bent u al abonnee?
-# Obsolete string
-vpn-shared-available-countries-v5 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Canada, Finland, Frankrijk, Duitsland, Ierland, Italië, Maleisië, Nederland, Nieuw-Zeeland, Singapore, Spanje, Zweden, Zwitserland, het VK en de VS.
 vpn-shared-available-countries-v6 = We bieden { -brand-name-mozilla-vpn } momenteel aan in Oostenrijk, België, Bulgarije, Canada, Kroatië, Cyprus, Tsjechië, Denemarken, Estland, Finland, Frankrijk, Duitsland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Maleisië, Malta, Nederland, Nieuw-Zeeland, Polen, Portugal, Roemenië, Singapore, Slovenië, Slowakije, Spanje, Zweden, Zwitserland, het VK en de VS.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagen-geldteruggarantie
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Kies een abonnement dat bij u past
 vpn-shared-pricing-variable-sub-heading = Al onze abonnementen omvatten:
 vpn-shared-pricing-recommended-offer = Aanbevolen
 vpn-shared-pricing-plan-12-month-v2 = Jaarabonnement
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 maanden
 vpn-shared-pricing-plan-monthly-v2 = Maandabonnement
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Maandelijks
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/maand</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/maand</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/maand + BTW</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Abonnement voor 6 maanden afsluiten
-# Obsolete string
-vpn-shared-pricing-get-12-month = Abonnement voor 12 maanden afsluiten
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Abonnement voor 6 maanden afsluiten
 vpn-shared-pricing-get-12-month-v2 = Abonnement voor 12 maanden afsluiten
 vpn-shared-pricing-get-monthly = Maandabonnement afsluiten
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Zoals gezien in
 vpn-press-mozillas-vpn-can-also-integrate-into = ‘De VPN van { -brand-name-mozilla } kan ook <a { $attrs }>integreren in een aantal handige privacybeschermingsfuncties</a> van haar { -brand-name-firefox }-browser.’
 vpn-press-unique-features-like-its-multi-account = ‘…unieke functies, zoals Multi-Account Containers, kunnen de functie gemakkelijk toegankelijk maken voor gebruikers met serieuzere zorgen over privacy.’
 vpn-press-mozilla-vpns-feature-list-has-grown = ‘De lijst met functies van { -brand-name-mozilla-vpn } is sinds de lancering aanzienlijk gegroeid, en de service verslaat nu veel gespecialiseerde VPN’s op sommige gebieden.’
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } wordt momenteel niet aangeboden in het { $language }, maar u kunt het gebruiken in het Engels, Frans, Duits, Spaans en <a { $href }>meer dan 30 andere talen</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Wilt u { -brand-name-mozilla-vpn } naar meer mensen helpen brengen? <a { $href }>Word een vrijwillige vertaler</a>.
