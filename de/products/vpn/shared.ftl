@@ -199,3 +199,7 @@ vpn-press-as-seen-in = Bekannt aus
 vpn-press-mozillas-vpn-can-also-integrate-into = „Das VPN von { -brand-name-mozilla } lässt sich auch in einige <a { $attrs }>raffinierte Datenschutzfunktionen</a> des { -brand-name-firefox }-Browsers integrieren.”
 vpn-press-unique-features-like-its-multi-account = „…einzigartige Funktionen, wie die Multi-Account-Container, könnten die Funktion für User mit ernsthafteren Datenschutzbedenken leicht zugänglich machen.“
 vpn-press-mozilla-vpns-feature-list-has-grown = „Die Funktionsliste von { -brand-name-mozilla-vpn } wurde seit der Einführung erheblich erweitert. Der Dienst übertrifft in einigen Bereichen mittlerweile viele spezialisierte VPNs.“
+
+## Unsupported language notification
+
+

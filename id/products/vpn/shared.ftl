@@ -199,3 +199,7 @@ vpn-press-as-seen-in = Tampil di
 vpn-press-mozillas-vpn-can-also-integrate-into = “VPN { -brand-name-mozilla } juga dapat <a { $attrs }>diintegrasikan ke dalam beberapa fitur perlindungan privasi yang andal</a> di peramban { -brand-name-firefox }.”
 vpn-press-unique-features-like-its-multi-account = “…fitur unik, seperti Multi-Account Container, dapat memudahkan akses fitur tersebut bagi pengguna yang menghadapi masalah privasi yang lebih serius.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Daftar fitur { -brand-name-mozilla-vpn } telah berkembang pesat sejak diluncurkan, dan layanan ini kini mengalahkan banyak VPN spesialis di beberapa wilayah.”
+
+## Unsupported language notification
+
+
