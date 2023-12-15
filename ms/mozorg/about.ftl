@@ -35,6 +35,8 @@ about-read-the-manifesto = Baca Manifesto Kami
 about-a-global-view = Pandangan Global
 about-with-offices-all-over-the = Dengan <a href="{ $url }">pejabat di seluruh dunia</a>, kami mempertimbangkan internet daripada pelbagai budaya dan konteks.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Talking Tech Issues IRL
+about-in-mozillas-multi-award-winning = Dalam podcast { -brand-name-mozilla } ini, pengacara Bridget Todd berbual bicara dengan mereka yang membentuk masa depan internet dan AI.
 
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = Isu Internet IRL

@@ -35,6 +35,8 @@ about-read-the-manifesto = اقرأ البيان
 about-a-global-view = نظرة عالمية
 about-with-offices-all-over-the = بفضل <a href="{ $url }">المكاتب المنشورة عبر العالم</a>، نحن نعتبر أن الإنترنت آتٍ من ثقافات وسياقات متعددة.
 about-san-francisco = سان فرانسيسكو
+about-talking-tech-issues-irl = الحديث عن المسائل الفنية IRL
+about-in-mozillas-multi-award-winning = في بودكاست { -brand-name-mozilla } الحائز على العديد من الجوائز، استضاف حديث بريدجت تود العديد من الأشخاص الذين يُشكلون مُستقبل الإنترنت والذكاء الاصطناعي.
 
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = الحديث عن قضايا الإنترنت عبر IRL
