@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox einkanetkerfi
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -116,6 +117,7 @@
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Mozilla-reikningur
 -brand-name-mozilla-accounts = Mozilla-reikningar
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -133,8 +135,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

@@ -12,6 +12,7 @@ navigation-v2-menu = Valmynd
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Loka { -brand-name-firefox-browsers } valmyndinni
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } fyrir vinnutölvur
+navigation-v2-get-the-not-for-profit-backed = Fáðu vafrann sem ekki er rekinn í hagnaðarskyni á { -brand-name-windows }, { -brand-name-mac-short } eða { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } fyrir { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Fáðu sérsníðanlegan farsímavafra fyrir { -brand-name-android } snjallsíma.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } fyrir { -brand-name-ios }

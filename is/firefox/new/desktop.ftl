@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Náðu í { -brand-name-firefox } fyrir 
 firefox-desktop-download-og-title = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 firefox-desktop-download-og-desc = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Enn nýrri útgáfa { -brand-name-firefox } er fáanleg. <a { $update_url }>Uppfærðu í nýjustu útgáfuna</a>
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
@@ -40,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlarekjar
 firefox-desktop-download-os-availability = Framboð stýrikerfa
 firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
 firefox-desktop-download-primary-password = Aðallykilorð
-# Obsolete string
-firefox-desktop-love-your-life = Farðu vel með líf þitt á netinu
-# Obsolete string
-firefox-desktop-its-your-internet = Það er internetið þitt. Litaðu það eins og þú vilt með þúsundum verkfæra, þema og viðbóta. { -brand-name-firefox } er upphaflegi vafrinn sem gefur notendunum val og setur fólk framar hagnaði.
-# Obsolete string
-firefox-desktop-download-master-password = Aðallykilorð
 firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
 firefox-desktop-download-ads-are-distracting = Auglýsingar eru truflandi og láta vefsíður hlaðast hægar á meðan rekjararnir í þeim fylgjast með hverri hreyfingu sem þú gerir á netinu. { -brand-name-firefox-browser } lokar sjálfkrafa á flesta rekjara, svo það er engin þörf á að grafa eftir þessu í öryggisstillingarnar þínar.
 firefox-desktop-download-see-your-report = Skoðaðu skýrslu um verndina þína
@@ -133,6 +130,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búi�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – við köllum það <a { $attrs }>loforð um persónuupplýsingar</a>: Taka minna. Geyma öruggt. Engin leyndarmál. Gögnin þín, vefvirkni þín, líf þitt á netinu er verndað með { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er fáanlegt í öllum tækjunum þínum; taktu flipana þína, vafurferilinn og bókamerkin með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-firefox } reikningur</a>.
@@ -147,9 +145,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Þú ert nú þegar með vafrann. Fáðu nú enn meira frá { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-mozilla-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-firefox-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Fylgstu með tölvuþrjótum í gegnum { -brand-name-firefox-monitor }, verndaðu lykilorð með { -brand-name-firefox-lockwise } og ýmislegt fleira.
 firefox-desktop-download-get-more-from-firefox = Fáðu meira frá { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
@@ -167,8 +165,6 @@ firefox-desktop-download-now-mac = Nú skaltu <strong>opna</strong> skrána sem 
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
 firefox-desktop-download-in-another-language = Sæktu á öðru tungumáli eða fyrir annað stýrikerfi.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið sem þú ert að reyna að setja upp sé ekki { -brand-name-microsoft }-staðfest forrit, smelltu á „Setja samt upp“ eða <a { $attrs }>breyttu stillingum fyrir tillögur forrita</a >.
@@ -176,10 +172,6 @@ firefox-desktop-download-visit-support-for-more = Heimsæktu aðstoðargáttina 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">veitir ekki lengur öryggisuppfærslur</a> á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }, en þú getur samt notað { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Þú ert að nota óöruggt, úrelt stýrikerfi sem <a href="{ $url }">er ekki lengur stutt af { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
