@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: სწრაფი და
 about-when-you-use-the-new-firefox = ახალი { -brand-name-firefox }-ის გამოყენებით, იღებთ გასაოცარ სისწრაფეს და ამასთანავე, მხარს უჭერთ { -brand-name-mozilla }-ს მიზანს, დარჩეს ინტერნეტი ჯანსაღი, გამორჩეული და საყოველთაოდ ხელმისაწვდომი.
 about-walking-our-privacy-talk = პირადი მონაცემების დაცვა არაა ცარიელი სიტყვები
 about-when-the-facebook-breach-was = როდესაც { -brand-name-facebook }-ის დარღვევები გამოაშკარავდა, { -brand-name-mozilla }-ს ჰქონდა მყისიერი პასუხი – { -brand-name-firefox }-ის მეშვეობით, მომხმარებლების პირადი მონაცემების უსაფრთხოების უზრუნველყოფა.
-about-talking-internet-issues-irl = საუბრები ინტერნეტის შესახებ – IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }-ს IRL-პოდკასტი, რომელსაც ხელმძღვანელობს Manoush Zomorodi უზიარებს ხალხს ნამდვილ ამბებს ინტერნეტთან დაკავშირებით და განიხილავს საკითხებს, ვებსივრცის მომავლის შესახებ.
 about-corporation-foundation-not = დაწესებულება. ფონდი. არამომგებიანი.
 about-learn-about-the-mozilla-foundation = გაიცანით უკეთ { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } ხალხს აყენებს მოგებაზე წინ ყველა ჩვენი ქმედებით, საქმით და საუბრით. ჩვენი დაწესებულების გულია, არამომგებიანი ფონდი.
@@ -33,6 +31,11 @@ about-read-the-manifesto = წაიკითხეთ ძირითადი 
 about-a-global-view = საერთო ხედვა
 about-with-offices-all-over-the = <a href="{ $url }">დაწესებულებების გახსნით მსოფლიოს სხვადასხვა კუთხეში</a>, ჩვენ ვახერხებთ განვიხილოთ ინტერნეტის საკითხები სხვადასხვა კულტურის ჭრილში.
 about-san-francisco = სან-ფრანცისკო
+about-talking-tech-issues-irl = Talking Tech Issues IRL
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს მრავალ ჯილდოს გამარჯვებულ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება იმ ხალხს, რომლებიც ადგენენ ინტერნეტისა და ხელოვნური ინტელექტის მომავლის წყობას.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = საუბრები ინტერნეტის შესახებ – IRL
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }-ს IRL-პოდკასტი, რომელსაც ხელმძღვანელობს Manoush Zomorodi უზიარებს ხალხს ნამდვილ ამბებს ინტერნეტთან დაკავშირებით და განიხილავს საკითხებს, ვებსივრცის მომავლის შესახებ.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> სტუმარი მიიღება ყოველწლიურად
 about-berlin = ბერლინი
