@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Завантажити { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
 navigation-v2-menu = Меню
-# Obsolete string
-navigation-v2-get-a-firefox-account = Створити { -brand-name-firefox-account(case: "nom", capitalization: "lower") }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Подаруйте свій голос, щоб майбутнє Інтернету могло почути всіх.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Дізнайтеся більше про нову, низькорівневу, подібну до асемблера мову.
+navigation-v2-mozilla-innovation-projects = Інноваційні проєкти { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Відкрийте для себе способи втілення яскравих ідей.
