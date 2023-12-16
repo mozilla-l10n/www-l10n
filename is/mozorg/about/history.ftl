@@ -61,3 +61,6 @@ history-for-more-information-about = Fyrir frekari upplýsingar um sögu { -bran
 history-mozilla-bookmarks = Bókamerki { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Tímalína { -brand-name-mozilla }-verkefnisins
 history-mozilla-digital-memory-bank = Stafrænn minnisbanki { -brand-name-mozilla }
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Saga kynningarspjalda { -brand-name-firefox } og { -brand-name-mozilla }</a> (fáanlegt á ensku og japönsku)

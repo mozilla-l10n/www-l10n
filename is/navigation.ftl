@@ -31,15 +31,9 @@ navigation-get-firefox = Fáðu þér { -brand-name-firefox }
 navigation-get-firefox-focus = Fáðu þér { -brand-name-firefox-focus }
 navigation-android-extensions = Forritsaukar { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account }-reikningurinn þinn
-# Outdated string
-navigation-learn-how-to-customize = Lærðu leiðir til að sérsníða hvernig { -brand-name-firefox } virkar.
 navigation-get-together = Komum saman í sýndarveruleika með þessu samfélagsrými á netinu.
 navigation-mozilla-mixed-reality = Blandaður veruleiki { -brand-name-mozilla }
-# Outdated string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } færir sýndarveruleika og aukinn veruleika inn á opna vefinn.
-# Outdated string
-navigation-mozilla-brings-firefox = { -brand-name-mozilla } færir { -brand-name-firefox } í aukinn veruleika og sýndarveruleika.
 navigation-firefox-built-just-for = { -brand-name-firefox }, smíðað beinlínis fyrir forritara.
 navigation-preview-the-latest-build = Forskoðaðu nýjustu smíðina á { -brand-name-firefox } og hjálpaðu okkur að gera hana sem besta.
 navigation-firefox-playground = { -brand-name-firefox }-leikvöllurinn
@@ -64,28 +58,21 @@ navigation-save-quality-content = Vistaðu gæðaefni hvaðan sem er. Gefðu hug
 navigation-sign-up = Nýskrá
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Hratt. Einfalt. Einka.
 navigation-protect-your-entire-device = Verndaðu allt tækið þitt og öll forritin. Feldu raunverulega staðsetningu þína og tengdu allt að 5 tæki. Gerstu áskrifandi núna.
-# Outdated string
-navigation-connected-and-protected = Tengt og varið
 navigation-join = Taka þátt
 navigation-close-join-menu = Loka þátttökuvalmyndinni
 navigation-sign-in = Skrá inn
 navigation-benefits = Ávinningur
 navigation-about = Um okkur
 navigation-close-about-menu = Loka umfjöllunarvalmyndinni
+navigation-meet-the-technology-company = Kynntu þér tæknifyrirtækið sem setur fólk framar gróða.
 navigation-new-features = Nýir eiginleikar
 navigation-save-content-absorb-knowledge = Vistaðu efni. Gleyptu þekkingu.
 navigation-same-speed-and-safety = Sami hraði og öryggi sem þú treystir, hannað eingöngu fyrir fyrirtæki.
-# Outdated string
-navigation-add-ons = Viðbætur
 navigation-projects = Verkefni
 navigation-close-projects-menu = Loka verkefnavalmyndinni
 navigation-donate-your-voice-to = Gefðu rödd þína til að gera raddgreiningu opna fyrir alla.
 navigation-machine-learning = Vélnám
-# Outdated string
-navigation-web-of-things-iot = Vefur hlutanna - Web of Things (IoT)
 navigation-help-make-deep-learning = Hjálpaðu til við að gera djúpnámsreiknirit aðgengileg fyrir heim opins og frjáls kóða.
-# Outdated string
-navigation-make-devices-connected = Gerðu tæki tengd við internetið örugg, örugg og samhæfð.
 navigation-developers = Hönnuðir
 navigation-close-developers-menu = Loka hönnuðavalmyndinni
 navigation-test-soon-to-be-released = Prófaðu nýja hluti í næstu útgáfu sem er skilgreind sem stöðug útgáfa.
@@ -118,11 +105,11 @@ navigation-firefox-beta = { -brand-name-firefox-beta }
 navigation-firefox-nightly = { -brand-name-firefox-nightly }
 navigation-firefox-reality = { -brand-name-firefox-reality }
 navigation-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 navigation-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-firefox-send = { -brand-name-firefox-send }
 navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }
