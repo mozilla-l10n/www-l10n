@@ -31,8 +31,8 @@ about-read-the-manifesto = წაიკითხეთ ძირითადი 
 about-a-global-view = საერთო ხედვა
 about-with-offices-all-over-the = <a href="{ $url }">დაწესებულებების გახსნით მსოფლიოს სხვადასხვა კუთხეში</a>, ჩვენ ვახერხებთ განვიხილოთ ინტერნეტის საკითხები სხვადასხვა კულტურის ჭრილში.
 about-san-francisco = სან-ფრანცისკო
-about-talking-tech-issues-irl = Talking Tech Issues IRL
-about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს მრავალ ჯილდოს გამარჯვებულ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება იმ ხალხს, რომლებიც ადგენენ ინტერნეტისა და ხელოვნური ინტელექტის მომავლის წყობას.
+about-talking-tech-issues-irl = ტექნოლოგიების შესახებ განხილვა ნამდვილ სამყაროში
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს არაერთი ჯილდოს მფლობელ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება ხალხს, რომელთაც ინტერნეტისა და ხელოვნური ინტელექტის მომავლის ჩამოყალიბებაში შეაქვთ წვლილი.
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = საუბრები ინტერნეტის შესახებ – IRL
 about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }-ს IRL-პოდკასტი, რომელსაც ხელმძღვანელობს Manoush Zomorodi უზიარებს ხალხს ნამდვილ ამბებს ინტერნეტთან დაკავშირებით და განიხილავს საკითხებს, ვებსივრცის მომავლის შესახებ.
