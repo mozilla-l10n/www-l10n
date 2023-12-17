@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Preuzmite { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Pridružite se listi čekanja
 vpn-shared-sign-in-link = Već ste pretplatnik?
-# Obsolete string
-vpn-shared-available-countries-v5 = Trenutno nudimo { -brand-name-mozilla-vpn } u Austriji, Belgiji, Kanadi, Finskoj, Francuskoj, Njemačkoj, Irskoj, Italiji, Maleziji, Holandiji, Novom Zelandu, Singapuru, Španiji, Švedskoj, Švicarskoj, Ujedinjenom Kraljevstvu i SADu.
 vpn-shared-available-countries-v6 = Trenutno nudimo { -brand-name-mozilla-vpn } u Austriji, Belgiji, Bugarskoj, Kanadi, Hrvatskoj, Kipru, Češkoj, Danskoj, Estoniji, Finskoj, Francuskoj, Njemačkoj, Mađarskoj, Irskoj, Italiji, Letoniji, Litvaniji, Luksemburgu, Maleziji, Malti, Holandiji, Novom Zelandu, Poljskoj, Portugalu, Rumuniji, Singapuru, Sloveniji, Slovačkoj, Španiji, Švedskoj, Švajcarskoj, Ujedinjenom Kraljevstvu i SADu.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevna garancija povrata novca
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Odaberite plan koji vam odgovara
 vpn-shared-pricing-variable-sub-heading = Svi naši planovi uključuju:
 vpn-shared-pricing-recommended-offer = Preporučeno
 vpn-shared-pricing-plan-12-month-v2 = 12-mjesečni plan
-# Obsolete string
-vpn-shared-pricing-plan-12-month = Godišnje
 vpn-shared-pricing-plan-monthly-v2 = Mjesečni plan
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Mjesečno
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/mjesečno</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/mjesečno</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mjesečno + porez</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Nabavite 6-mjesečni plan
-# Obsolete string
-vpn-shared-pricing-get-12-month = Nabavite 12-mjesečni plan
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Nabavite 6-mjesečni plan
 vpn-shared-pricing-get-12-month-v2 = Nabavite 12-mjesečni plan
 vpn-shared-pricing-get-monthly = Nabavite mjesečni plan
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Kao što se vidi u
 vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } VPN također može se <a { $attrs }>integrirati u neke sjajne funkcije zaštite privatnosti</a> svog { -brand-name-firefox } pretraživača.”
 vpn-press-unique-features-like-its-multi-account = “…jedinstvene funkcije, poput njegovih kontejnera za više računa, mogu ovu funkciju učiniti lahko dostupnom korisnicima sa ozbiljnijim problemima privatnosti.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Lista funkcija { -brand-name-mozilla-vpn }a je značajno porasla od lansiranja, a usluga sada nadmašuje mnoge specijalizirane VPN-ove u nekim područjima.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } trenutno nije u ponudi na { $language }, ali ga možete koristiti na engleskom, francuskom, njemačkom, španskom i <a { $href }>preko 30 drugih jezika</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Želite li pomoći da { -brand-name-mozilla-vpn } dovedete do više ljudi? <a { $href }>Postani dobrovoljni prevodilac</a>.
