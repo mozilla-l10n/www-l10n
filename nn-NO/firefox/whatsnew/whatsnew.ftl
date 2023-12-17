@@ -10,16 +10,7 @@ whatsnew-page-title-v2 = Kva er nytt i { -brand-name-firefox }
 whatsnew-page-title = Kva er nytt i { -brand-name-firefox } - Meir personvern og ekstra generelt vern.
 whatsnew-page-description = Ta kampen opp mot ei bransje som sel dine data til tredjepartar. Ver fornuftig og trygg på nettet med teknologi som jobbar for deg.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Gratulerer! Du brukar den nyaste versjonen av { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Gratulerer! Du brukar den nyaste versjonen av { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Ein enno nyare { -brand-name-firefox } er tilgjengeleg. <a href="{ $url }">Oppdater til den siste versjonen</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Ein endå nyare { -brand-name-firefox } er tilgjengeleg. Start på nytt for å oppdatere.
+whatsnew-update-notification = { -brand-name-firefox } er oppdatert.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Les <a href="{ $url }">versjonsnotatet</a> for å finne ut meir om kva som er nytt i { -brand-name-firefox }-nettlesaren.
