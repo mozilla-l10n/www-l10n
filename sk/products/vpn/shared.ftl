@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Získajte { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Pridať sa na zoznam čakateľov
 vpn-shared-sign-in-link = Už máte predplatné?
-# Obsolete string
-vpn-shared-available-countries-v5 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v Rakúsku, Belgicku, Kanade, Fínsku, Francúzsku, Nemecku, Írsku, Taliansku, Malajzii, Holandsku, Novom Zélande, Singapure, Španielsku, Švédsku, Švajčiarsku, Veľkej Británii a USA.
 vpn-shared-available-countries-v6 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v týchto krajinách: Belgicko, Bulharsko, Chorvátsko, Cyprus, Česká republika, Dánsko, Estónsko, Francúzsko, Fínsko, Holandsko, Írsko, Kanada, Litva, Lotyšsko, Luxembursko, Malajzia, Malta, Maďarsko, Nemecko, Nový Zéland, Portugalsko, Poľsko, Rakúsko, Rumunsko, Singapur, Slovensko, Slovinsko, Španielsko, Švajčiarsko, Švédsko, Taliansko, Veľká Británia a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dňová záruka vrátenia peňazí
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Vyberte si plán, ktorý vám vyhovuje
 vpn-shared-pricing-variable-sub-heading = Všetky naše plány zahŕňajú:
 vpn-shared-pricing-recommended-offer = Odporúčané
 vpn-shared-pricing-plan-12-month-v2 = 12-mesačný plán
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 mesiacov
 vpn-shared-pricing-plan-monthly-v2 = Mesačný plán
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Mesačne
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> mesačne</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span> mesačne</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mesiac + daň</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Získajte 6-mesačný plán
-# Obsolete string
-vpn-shared-pricing-get-12-month = Získajte 12-mesačný plán
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Získajte 6-mesačný plán
 vpn-shared-pricing-get-12-month-v2 = Získajte 12-mesačný plán
 vpn-shared-pricing-get-monthly = Získajte mesačný plán
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Ako sa objavilo v
 vpn-press-mozillas-vpn-can-also-integrate-into = „VPN od { -brand-name-mozilla(case: "gen") } sa tiež môže <a { $attrs }>integrovať do niektorých šikovných funkcií na ochranu súkromia</a> v prehliadači { -brand-name-firefox }.“
 vpn-press-unique-features-like-its-multi-account = „…jedinečné funkcie, ako napríklad kontajnery pre jednotlivé účty, môžu túto funkciu ľahko sprístupniť používateľom, ktorí majú vážnejšie obavy o súkromie.“
 vpn-press-mozilla-vpns-feature-list-has-grown = „Zoznam funkcií služby { -brand-name-mozilla-vpn } sa od spustenia značne rozrástol a služba teraz v niektorých oblastiach poráža mnohé špecializované siete VPN.“
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } sa momentálne neponúka v jazyku { $language }, ale môžete ju použiť v angličtine, francúzštine, nemčine, španielčine a <a { $href }>v ďalších viac ako 30 jazykoch</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Chcete pomôcť priniesť { -brand-name-mozilla-vpn } ďalším ľuďom? <a { $href }>Staňte sa dobrovoľným prekladateľom</a>.
