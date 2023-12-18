@@ -11,3 +11,5 @@ compare-index-six-of-the-best-browsers-fallback = Seks af de bedste browsere i d
 # Sub-headline
 compare-index-privacy-utility-portability = Privatliv. Anvendelighed. Portabilitet.
 compare-index-which-browser-is-best-at-keeping = Hvilken browser er bedst til at holde ting fortrolige?
+compare-index-what-has-your-browser-done = Hvad har din browser gjort for dig på det seneste?
+compare-index-how-well-does-your-browser = Hvor godt fungerer din browser på tværs af alle dine enheder?
