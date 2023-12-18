@@ -29,6 +29,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Windows, macOS, Android, iOS ve Linux işletim sistemlerinde desteklenir.
 vpn-features-secure = Güvenli
+vpn-features-block-ads = Reklamverenlerin sizi hedeflemesini engelleyin
 vpn-features-encrypt-your-internet = Tüm internet trafiğinizi şifreleyin
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } yalnızca tarayıcınızı değil, cihazınızdaki tüm uygulamaları korur.
 vpn-features-stronger-malware = Daha güçlü kötü amaçlı yazılım koruması
@@ -40,6 +41,10 @@ vpn-features-trustworthy = Güvenilirlik
 vpn-features-money-back = 30 gün para iade garantisi
 vpn-features-plus-customer-support = Ayrıca 7/24 müşteri desteği.
 vpn-features-we-never-log = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Kişisel gezinti verilerinizi toplamıyoruz. Bu kadar basit. <a { $privacy }>Gizlilik politikamızı</a> da herkesin anlayabileceği bir dille yazdık.
+vpn-features-reviewed-by-third = Üçüncü taraf güvenlik uzmanları tarafından incelendi
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Önde gelen siber güvenlik denetim firması Cure53 tarafından denetlendik. <a { $report }>Raporu burada görebilirsiniz</a>.
