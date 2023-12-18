@@ -17,3 +17,4 @@ compare-index-conclusion = Konklusion:
 compare-index-and-the-winner-is = Og vinderen er…
 compare-index-looking-for-a-better-browser = Leder du efter en bedre browser? Vi sammenligner { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } og { -brand-name-ie } for at hjælpe dig med at træffe din beslutning.
 compare-index-looking-for-a-better-fallback = Leder du efter en bedre browser? Vi sammenligner { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } og { -brand-name-ie } for at hjælpe dig med at træffe din beslutning.
+compare-index-compare = Sammenlign
