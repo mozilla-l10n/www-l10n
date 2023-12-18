@@ -86,5 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Cyfrannwch eich llais fel y gall dyfodol y we glywed pawb.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Dysgwch ragor am yr iaith newydd, lefel isel, cydosodedig.
-navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Prosiectau Arloesi
-navigation-v2-discover-ways-to-bring = Darganfyddwch ffyrdd o ddod â syniadau disglair yn fyw.
+navigation-v2-mozilla-innovation-projects = Projectau Arloesedd { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Darganfod ffyrdd o ddod â syniadau da'n fyw.
