@@ -157,4 +157,16 @@ vpn-press-as-seen-in = Ojehechaháicha
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = “Pe { -brand-name-mozilla } VPN ikatu avei <a { $attrs }>ojuaju tembiapoite oikóva tekoñemi ñemo’ãrãme</a> kundahára rehegua { -brand-name-firefox }”.
+vpn-press-unique-features-like-its-multi-account = “…peteĩchaguaitéva, umi ñeñongatuha imba’eteeitávaicha, ojapokuaáva ko tembiapoite oiporukuaáva opavave poruhára ojepy’apýva tekoñemi rehe.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Pe tembiapoite rysýi { -brand-name-mozilla-vpn } rehegua tuichave osẽ ypy guive ha pe mba’eporu ohasáma heta VPN oikoporãva heta hendápe.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } ndojeporukuaái kog̃aite { $language }-pe, hákatu ojeporukuaa inglés, francés, alemán, español ha <a { $href }>hetave ambue 30 ñe’ẽme</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Eipytyvõsépa og̃uahẽ hag̃ua { -brand-name-mozilla-vpn } hetave tapichápe <a { $href }>Toiko ndehegui ñe’ẽasahára reigua</a>.
