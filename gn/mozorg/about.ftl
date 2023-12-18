@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: ipya’éta tapiaite
 about-when-you-use-the-new-firefox = Eiporu vove { -brand-name-firefox } ipyahúva, ehechakuaáma ipya’eveha opavavégui ha péicha avei eipytyvõ { -brand-name-mozilla } rembipota ñanduti resãirã, iñambuéva ha opavavetépe g̃uarãva.
 about-walking-our-privacy-talk = Romboguata ñomongeta ñemiguáva
 about-when-the-facebook-breach-was = Ojehechakuaávo { -brand-name-facebook } imarãhague, { -brand-name-mozilla } ombohovái pya’e ha peteĩ { -brand-name-firefox } apopyre oykeko hag̃ua poruhára rekoñemi.
-about-talking-internet-issues-irl = Roñe’ẽhína IRL ñanduti rehegua
-about-in-mozillas-irl-podcast-host = Pe { -brand-name-mozilla } podcast IRL, mbohupaha Manoush Zomorodi omoherakuã tembiasakue oikopyréva ñandutípe ha oñemoñe’ẽ ñanduti renonderã rehe.
 about-corporation-foundation-not = Jejuaju. Atyguasu. Tembiapo viru’ỹguáva.
 about-learn-about-the-mozilla-foundation = Eikuaave { -brand-name-mozilla-foundation } rehegua
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } ryepýpe oñemomba’eve avápe viru renondépe je’e, ñemopu’ã ha jejapóva guivépe. Upevarã, oĩ peteĩ aty viru’ỹguáva atyguasu ñe’ãkuápe.
@@ -33,6 +31,10 @@ about-read-the-manifesto = Emoñe’ẽ Mozilla he’ipyre
 about-a-global-view = Jehecha tuichaháicha
 about-with-offices-all-over-the = <a href="{ $url }">oficina arapy tuichakuépe</a> ndive, rohecha ñanduti mba’ekuaaita ha jeregua guive.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Roñe’ẽ (IRL) ñandutigua apañuãi
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Roñe’ẽhína IRL ñanduti rehegua
+about-in-mozillas-irl-podcast-host = Pe { -brand-name-mozilla } podcast IRL, mbohupaha Manoush Zomorodi omoherakuã tembiasakue oikopyréva ñandutípe ha oñemoñe’ẽ ñanduti renonderã rehe.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> ñembohupa mba’apohara’ỹ og̃uahẽva peteĩ ary pukukue
 about-berlin = Berlin

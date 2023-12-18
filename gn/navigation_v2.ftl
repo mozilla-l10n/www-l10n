@@ -86,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Eme’ẽ nde ayvu ñanduti renonderãme g̃uarã ohendu hag̃ua opavave.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Eikuaave ñe’ẽ pyahu eikuaaramóva, ojoguáva peteĩ jejapopyrévape.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } apopyrã ipyahúva
+navigation-v2-discover-ways-to-bring = Ehecha mba’éichapa emoingovéta ne remiandu.
