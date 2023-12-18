@@ -13,3 +13,7 @@ compare-index-privacy-utility-portability = Privatliv. Anvendelighed. Portabilit
 compare-index-which-browser-is-best-at-keeping = Hvilken browser er bedst til at holde ting fortrolige?
 compare-index-what-has-your-browser-done = Hvad har din browser gjort for dig på det seneste?
 compare-index-how-well-does-your-browser = Hvor godt fungerer din browser på tværs af alle dine enheder?
+compare-index-conclusion = Konklusion:
+compare-index-and-the-winner-is = Og vinderen er…
+compare-index-looking-for-a-better-browser = Leder du efter en bedre browser? Vi sammenligner { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } og { -brand-name-ie } for at hjælpe dig med at træffe din beslutning.
+compare-index-looking-for-a-better-fallback = Leder du efter en bedre browser? Vi sammenligner { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } og { -brand-name-ie } for at hjælpe dig med at træffe din beslutning.
