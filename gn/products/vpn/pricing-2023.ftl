@@ -38,3 +38,6 @@ vpn-pricing-refund-policy = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovi
 vpn-pricing-the-first-time-you = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
 vpn-pricing-what-information = ¿Mba’e marandu oñongatu { -brand-name-mozilla-vpn }?
 vpn-pricing-how-do-i-manage = Mba’éichapa añangarekóta che mboheraguapy ha amoambuéta
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Eñemboheraguapýmaramo { -brand-name-mozilla-vpn }-pe, emoambuekuaa erekóva térã { $manage }>eñangareko ne ñemboheraguapýre</a> opaite ára.
