@@ -202,4 +202,12 @@ vpn-press-mozilla-vpns-feature-list-has-grown = "قائمة ميزات { -brand-
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = يُرجى العلم بأن { -brand-name-mozilla-vpn } غير متوفر حاليًا باللغة { $language }، ولكن يُمكنك استخدامه باللغة الإنجليزية والفرنسية والألمانية والإسبانية <a { $href }>وأكثر من 30 لغة أخرى</a>.
 
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = هل تُريد المساعدة في جلب { -brand-name-mozilla-vpn } للمزيد من الناس؟ <a { $href }>انضم إلينا كمُترجم متطوّع</a>.
