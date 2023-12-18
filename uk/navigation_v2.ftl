@@ -48,7 +48,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Створюйте нові облікові записи, не передаючи свою електронну адресу.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нові функції та інструменти для персоналізованої роботи з { -brand-name-mdn }
-navigation-v2-view-all-products = Переглянути всі прдукти
+navigation-v2-view-all-products = Переглянути всі продукти
 
 ## Who We Are menu
 
