@@ -48,6 +48,7 @@ vpn-features-multi-hop-feature = Ore <a { $feature }>rembiapoite opo hetáva</a>
 vpn-features-support-for-custom-dns = Ñepytyvõ DNS mboavapyrépe g̃uarã
 vpn-features-flexible = Pepykuaáva
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
+vpn-features-well-suggest-which-servers = Ro’e ndéve mba’e apopyvusu ag̃uiguáva ne pytyvõta jeikekaturã ñanduti ipya’e ha jeroviahávape.
 vpn-features-personalize-which-apps = Eiporavo mba’e tembiporu’ípa oñemo’ãta VPN ndive
 vpn-features-set-different-locations = Eiporavo tendaitekuéra peteĩteĩva tendaykepe g̃uarã { -brand-name-firefox } ndive
 vpn-features-trustworthy = Jeroviaha
