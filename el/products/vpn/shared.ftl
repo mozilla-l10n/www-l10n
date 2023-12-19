@@ -149,7 +149,7 @@ vpn-shared-why-bundle = Γιατί να αγοράσω πακέτο;
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Εξοικονομήστε { $percent }%</span> στο ετήσιο πρόγραμμα του { -brand-name-relay-premium }
-vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο στη χώρα σας
+vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } δεν είναι ακόμα διαθέσιμο στη χώρα σας
 
 ## Press quotations
 

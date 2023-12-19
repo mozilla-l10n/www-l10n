@@ -27,10 +27,6 @@ firefox-new-need-help = Χρειάζεστε βοήθεια;
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = Η { -brand-name-mozilla } <a href="{ $url }">δεν παρέχει πλέον ενημερώσεις ασφαλείας</a> στα { -brand-name-windows } { -brand-name-xp } ή στα { -brand-name-vista }, αλλά μπορείτε ακόμα να χρησιμοποιήσετε το { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Χρησιμοποιείτε ένα επισφαλές, παρωχημένο λειτουργικό σύστημα, <a href="{ $url }">που δεν υποστηρίζεται πλέον από το { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,12 +41,10 @@ firefox-new-please-follow = Παρακαλούμε ακολουθήστε <a hre
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Αν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο “Εγκατάσταση” ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
-firefox-new-visit-support-for-more = Επίσκεψη υποστήριξης για περισσότερες λεπτομέρειες
+firefox-new-visit-support-for-more = Επισκεφτείτε την Υποστήριξη για περισσότερες λεπτομέρειες
 
 # Not-Required
 

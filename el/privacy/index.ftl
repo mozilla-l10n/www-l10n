@@ -15,7 +15,7 @@ privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Δείτε εδώ 
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = Για αιτήματα υποστήριξης προϊόντων, παρακαλούμε <a href="{ $sumo }">επισκεφθείτε το φόρουμ μας</a>.
-privacy-index-data-privacy-principles = Αρχές Προστασίας Δεδομένων
+privacy-index-data-privacy-principles = Αρχές απορρήτου δεδομένων
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/

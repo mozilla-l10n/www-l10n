@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
@@ -8,7 +8,7 @@
 # HTML page title
 features-private-browsing-private-browser = Ιδιωτικό πρόγραμμα περιήγησης με επιπλέον προστασία από καταγραφή
 # HTML page description
-features-private-browsing-firefox-protects = Ο { -brand-name-firefox } προστατεύει το διαδικτυακό σας απόρρητο και αποκλείει τρίτους που σας ακολουθούν στον διαδίκτυο.
+features-private-browsing-firefox-protects = Το { -brand-name-firefox } προστατεύει το διαδικτυακό σας απόρρητο και αποκλείει τρίτους που σας ακολουθούν στο διαδίκτυο.
 features-private-browsing-download-firefox = Λήψη του { -brand-name-firefox }
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Περισσότερη προστασία. Λιγότερη ανησυχία.
 features-private-browsing-were-obsessed-with = Έχουμε εμμονή με την προστασία του απορρήτου σας. Γι' αυτό κάναμε την Ιδιωτική Περιήγηση του { -brand-name-firefox } ισχυρότερη έναντι των άλλων.

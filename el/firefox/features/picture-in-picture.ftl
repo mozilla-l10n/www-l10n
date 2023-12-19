@@ -8,7 +8,7 @@
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = Εικόνας εντός εικόνας { -brand-name-firefox }: Κάντε περισσότερα με αναδυόμενα βίντεο
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία "Εικόνα εντός εικόνας" στο { -brand-name-firefox }.
+features-pip-got-things-to-do-and-things-to-watch = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία «Εικόνα εντός εικόνας» στο { -brand-name-firefox }.
 features-pip-picture-in-picture = Εικόνα εντός εικόνας
 features-pip-new-feature-firefox-multi-picture = Νέα λειτουργία: Πολλαπλά βίντεο σε Εικόνα εντός εικόνας στο { -brand-name-firefox }
 features-pip-cool-feature-picture-in-picture = Φοβερή λειτουργία: Εικόνα εντός εικόνας

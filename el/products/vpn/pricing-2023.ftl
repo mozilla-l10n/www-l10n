@@ -35,7 +35,7 @@ vpn-pricing-vpn-not-available = Το { -brand-name-mozilla-vpn } δεν είνα
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Συχνές ερωτήσεις
 vpn-pricing-refund-policy = Ποια είναι η πολιτική επιστροφής χρημάτων του { -brand-name-mozilla-vpn };
-vpn-pricing-the-first-time-you = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης συνδρομής σας.
+vpn-pricing-the-first-time-you = Την πρώτη φορά που θα εγγραφείτε στο { -brand-name-mozilla-vpn } μέσω του ιστοτόπου της { -brand-name-mozilla }, εάν ακυρώσετε τον λογαριασμό σας εντός των πρώτων 30 ημερών, μπορείτε να ζητήσετε επιστροφή χρημάτων και η { -brand-name-mozilla } θα σας επιστρέψει το ποσό της πρώτης σας συνδρομής.
 vpn-pricing-if-you-purchased = Εάν αποκτήσατε τη συνδρομή σας μέσω αγοράς εντός εφαρμογής από το Apple App Store ή το Google Play Store, η πληρωμή σας υπόκειται στους όρους και τις προϋποθέσεις του εκάστοτε καταστήματος. Θα πρέπει να απευθύνετε τυχόν ερωτήματα σχετικά με τις χρεώσεις και τις επιστροφές χρημάτων για αυτές τις αγορές στην Apple ή την Google, αντίστοιχα.
 vpn-pricing-what-information = Ποιες πληροφορίες διατηρεί το { -brand-name-mozilla-vpn };
 # Variables

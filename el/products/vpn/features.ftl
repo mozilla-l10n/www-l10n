@@ -16,7 +16,7 @@ vpn-features-convenient = Βολικό
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Πάνω από { $servers } διακομιστή σε { $countries }+ χώρες
+        [one] Πάνω από { $servers } διακομιστής σε { $countries }+ χώρες
        *[other] Πάνω από { $servers } διακομιστές σε { $countries }+ χώρες
     }
 vpn-features-see-our-list = Δείτε τη λίστα των διακομιστών μας.

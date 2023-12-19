@@ -57,8 +57,6 @@ firefox-developer-firefox-devtools-now-grays-out = Το { -brand-name-firefox-de
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Τα νέα { -brand-name-firefox-devtools } είναι ισχυρά, ευέλικτα και, το καλύτερο, επεκτάσιμα. Περιλαμβάνουν τον καλύτερο έλεγχο σφαλμάτων JavaScript, που μπορεί να στοχεύσει πολλαπλά προγράμματα περιήγησης και αναπτύσσεται σε React και Redux.
 firefox-developer-master-css-grid = Τιθασεύστε το πλέγμα CSS
-# outdated
-firefox-developer-next-gen-css-engine = Μηχανισμός CSS νέας γενιάς
 firefox-developer-built-for-developers = Για τους προγραμματιστές
 firefox-developer-a-next-generation = Ένας μηχανισμός CSS από το μέλλον
 firefox-developer-master-innovative-features = Καινοτόμα χαρακτηριστικά
@@ -86,4 +84,4 @@ firefox-developer-all-the-latest = Όλα τα νέα εργαλεία προγ�
 firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο έλεγχος σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος έλεγχος σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
 firefox-developer-congrats-you-now-have = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-browser } { -brand-name-developer-edition }.
-firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Έχετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
