@@ -87,4 +87,4 @@ navigation-v2-donate-your-voice-so-the-future = Adományozza a hangját, hogy a 
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Tudjon meg többet az új, alacsony szintű, assemblyhez hasonló nyelvet.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } innovációs projektek
-navigation-v2-discover-ways-to-bring = Fedezze fel a módjait a nagyszerű ötletek megvalósításának.
+navigation-v2-discover-ways-to-bring = Fedezze fel a nagyszerű ötletek megvalósításának módjait.
