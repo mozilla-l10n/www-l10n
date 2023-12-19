@@ -40,4 +40,4 @@ vpn-pricing-what-information = ¿Mba’e marandu oñongatu { -brand-name-mozilla
 vpn-pricing-how-do-i-manage = Mba’éichapa añangarekóta che mboheraguapy ha amoambuéta
 # Variables
 # $manage (url) - link to subscription management page
-vpn-pricing-if-already-subscribed = Eñemboheraguapýmaramo { -brand-name-mozilla-vpn }-pe, emoambuekuaa erekóva térã { $manage }>eñangareko ne ñemboheraguapýre</a> opaite ára.
+vpn-pricing-if-already-subscribed = Eñemboheraguapýmaramo { -brand-name-mozilla-vpn }-pe, emoambuekuaa erekóva térã <a { $manage }>eñangareko ne ñemboheraguapýre</a> opaite ára.
