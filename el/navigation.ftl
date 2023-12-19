@@ -18,8 +18,6 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } για { -brand-name-fi
 navigation-watch-videos-and-browse = Παρακολουθήστε βίντεο και περιηγηθείτε στο διαδίκτυο από την { -brand-name-amazon } { -brand-name-fire-tv } σας.
 navigation-firefox-browsers-put = Τα προϊόντα { -brand-name-firefox } δίνουν προτεραιότητα στο απόρρητό σας — όπως πάντα.
 navigation-take-the-passwords-youve = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασης που έχετε αποθηκεύσει στο { -brand-name-firefox } από οπουδήποτε.
-# Outdated string
-navigation-firefox-is-a-whole-family = Το { -brand-name-firefox } είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σάς προστατεύουν στο διαδίκτυο.
 navigation-join-firefox = Σύνδεση στο { -brand-name-firefox }
 navigation-access-all-of-firefox = Πρόσβαση σε όλα τα προϊόντα { -brand-name-firefox } με μία σύνδεση — αξιοποιήστε στο έπακρο κάθε προϊόν.
 navigation-meet-the-firefox-family = Γνωρίστε την οικογένεια { -brand-name-firefox }
@@ -37,20 +35,10 @@ navigation-get-firefox-focus = Λήψη του { -brand-name-firefox-focus }
 navigation-android-extensions = Επεκτάσεις { -brand-name-android }
 navigation-your-firefox-account = Ο { -brand-name-firefox-account(case: "nom", capitalization: "lower") } σας
 navigation-make-the-most-of-your = Αξιοποιήστε πλήρως το { -brand-name-firefox }, σε κάθε συσκευή σας.
-# Outdated string
-navigation-learn-how-to-customize = Μάθετε πώς να προσαρμόσετε τον τρόπο λειτουργίας του { -brand-name-firefox }.
 navigation-explore-the-immersive = Εξερευνήστε το εμβυθιστικό διαδίκτυο στη δική σας συσκευή εικονικής πραγματικότητας.
-# Outdated string
-navigation-experience-augmented = Ζήστε την επαυξημένη και εικονική πραγματικότητα με το { -brand-name-firefox }.
 navigation-get-together = Συγκεντρωθείτε στην εικονική πραγματικότητα με αυτόν τον διαδικτυακό κοινωνικό χώρο.
-# Outdated string
-navigation-meet-people-in-experimental = Γνωρίστε άτομα σε πειραματικές συνομιλίες μεικτής πραγματικότητας με το { -brand-name-firefox }.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
-# Outdated string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-mozilla-brings-virtual = Η { -brand-name-mozilla } φέρνει την εικονική και την επαυξημένη πραγματικότητα στο ανοικτό διαδίκτυο.
-# Outdated string
-navigation-mozilla-brings-firefox = Η { -brand-name-mozilla } φέρνει το { -brand-name-firefox } στην επαυξημένη και την εικονική πραγματικότητα.
 navigation-firefox-built-just-for = Το { -brand-name-firefox }, μόνο για προγραμματιστές.
 navigation-preview-the-latest-build = Δοκιμάστε την τελευταία έκδοση του { -brand-name-firefox } και βοηθήστε μας να το κάνουμε καλύτερο.
 navigation-firefox-playground = { -brand-name-firefox } Playground
@@ -64,7 +52,7 @@ navigation-download = Λήψη
 navigation-extensions = Επεκτάσεις
 navigation-support = Υποστήριξη
 navigation-privacy = Απόρρητο
-navigation-get-unmatched-data-protection = Λάβετε ασύγκριτη προστασία δεδομένων με το ρυθμό εκδόσεων που ταιριάζει στην εταιρεία σας.
+navigation-get-unmatched-data-protection = Λάβετε ασύγκριτη προστασία δεδομένων με τον ρυθμό εκδόσεων που ταιριάζει στην εταιρεία σας.
 navigation-made-with-respect = Φτιαγμένα με σεβασμό
 navigation-close-products-menu = Κλείσιμο μενού προϊόντων
 navigation-see-if-your-personal = Δείτε αν τα προσωπικά σας στοιχεία έχουν διαρρεύσει στο διαδίκτυο και εγγραφείτε για ειδοποιήσεις παραβίασης.
@@ -76,8 +64,6 @@ navigation-save-quality-content = Αποθηκεύστε ποιοτικό περ
 navigation-sign-up = Εγγραφή
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Γρήγορο. Απλό. Ιδιωτικό.
 navigation-protect-your-entire-device = Προστατέψτε τη συσκευή και όλες σας τις εφαρμογές. Κρύψτε την αληθινή σας τοποθεσία και συνδέστε έως 5 συσκευές. Εγγραφείτε τώρα.
-# Outdated string
-navigation-connected-and-protected = Σε σύνδεση και υπό προστασία
 navigation-join = Συμμετοχή
 navigation-close-join-menu = Κλείσιμο μενού συμμετοχής
 navigation-sign-in = Σύνδεση
@@ -89,17 +75,11 @@ navigation-meet-the-technology-company = Γνωρίστε την τεχνολο�
 navigation-new-features = Νέες δυνατότητες
 navigation-save-content-absorb-knowledge = Αποθηκεύστε περιεχόμενο. Απορροφήστε γνώμη.
 navigation-same-speed-and-safety = Η ίδια ταχύτητα και ασφάλεια που εμπιστεύεστε, τώρα και για επιχειρήσεις.
-# Outdated string
-navigation-add-ons = Πρόσθετα
 navigation-projects = Έργα
 navigation-close-projects-menu = Κλείσιμο μενού έργων
 navigation-donate-your-voice-to = Δωρίστε τη φωνή σας για να κάνετε την αναγνώριση φωνής ανοικτή σε όλους.
 navigation-machine-learning = Μηχανική μάθηση
-# Outdated string
-navigation-web-of-things-iot = Διαδίκτυο των πραγμάτων (IoT)
 navigation-help-make-deep-learning = Βοηθήστε μας να διαθέσουμε αλγόριθμους εκμάθησης σε βάθος, στον κόσμο του ανοικτού κώδικα.
-# Outdated string
-navigation-make-devices-connected = Κάντε τις συσκευές που συνδέονται στο διαδίκτυο ασφαλείς και διαλειτουργικές.
 navigation-developers = Προγραμματιστές
 navigation-close-developers-menu = Κλείσιμο μενού προγραμματιστών
 navigation-test-soon-to-be-released = Δοκιμάστε τις έτοιμες προς έκδοση λειτουργίες στην πιο σταθερή έκδοση πριν από την τελική.
@@ -139,5 +119,4 @@ navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Επισκεφτείτε το <a href="{ $url }">{ $link_copy }</a> για να κάνετε λήψη του { -brand-name-firefox } για υπολογιστές.
-# Outdated string
-facebook-container-the-facebook-container-extension = Η επέκταση «{ -brand-name-facebook-container }» δεν διατίθεται για κινητές συσκευές.
 facebook-container-get-firefox-android-ios = Λήψη του { -brand-name-firefox } για { -brand-name-android } και { -brand-name-ios }.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Δοκιμάστε το <strong>{ -brand-name-firefox-focus }</strong>, το ιδιωτικό πρόγραμμα περιήγησης για { -brand-name-android } και { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Θέστε τους δικούς σας όρους
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -33,5 +28,5 @@ facebook-container-installing-the-extension-is = Η εγκατάσταση τη�
 facebook-container-about-firefox-and-mozilla = Σχετικά με το { -brand-name-firefox } και τη { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
-facebook-container-were-backed-by-mozilla-the = Με την υποστήριξη της <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, της μη κερδοσκοπικής οργάνωσης που βάζει τους ανθρώπους πάνω από το κέρδος για να δώσει σε όλους περισσότερη δύναμη στο διαδίκτυο. Δημιουργήσαμε αυτή την επέκταση, επειδή πιστεύουμε ότι θα έπρεπε να έχετε εύχρηστα εργαλεία που σας βοηθούν να διαχειριστείτε το απόρρητο και την ασφάλειά σας.
+facebook-container-were-backed-by-mozilla-the = Με την υποστήριξη της <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, της μη κερδοσκοπικής οργάνωσης που βάζει τους ανθρώπους πάνω από το κέρδος για να δώσει σε όλους περισσότερη δύναμη στο διαδίκτυο. Δημιουργήσαμε αυτήν την επέκταση, επειδή πιστεύουμε ότι θα έπρεπε να έχετε εύχρηστα εργαλεία που σας βοηθούν να διαχειριστείτε το απόρρητο και την ασφάλειά σας.
 facebook-container-browse-freely-with-firefox = Περιηγηθείτε ελεύθερα με το { -brand-name-firefox } σήμερα.
