@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-newsletter-form-please-enter-a-valid = Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email
+newsletter-form-please-enter-a-valid = Εισαγάγετε μια έγκυρη διεύθυνση email
 newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
 newsletter-form-your-email-address = Η διεύθυνση email σας
 newsletter-form-we-are-sorry-but-there = Λυπούμαστε, αλλά προέκυψε κάποιο πρόβλημα στο σύστημα μας. Παρακαλούμε δοκιμάστε ξανά αργότερα!
