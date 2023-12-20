@@ -34,7 +34,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } henüz ülkenizde ku
 vpn-pricing-faqs = SSS
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
 vpn-pricing-what-information = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
-vpn-pricing-how-do-i-manage = Aboneliğimi nasıl yönetebilirim ve paketimi nasıl nasıl değiştirebilirim?
+vpn-pricing-how-do-i-manage = Aboneliğimi nasıl yönetebilirim ve paketimi nasıl değiştirebilirim?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = { -brand-name-mozilla-vpn } abonesiyseniz istediğiniz zaman paketinizi değiştirebilir veya <a { $manage }>aboneliğinizi yönetebilirsiniz</a>.
