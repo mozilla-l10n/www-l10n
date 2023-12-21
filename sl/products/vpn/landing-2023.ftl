@@ -11,12 +11,14 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napra
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = { -brand-name-mozilla-vpn } lahko ščiti celotno napravo in katerikoli program na njej. Strežniki v preko { $countries } državah vam omogočajo, da se od koderkoli povežete kamorkoli.
+vpn-landing-powerful-privacy-for-peace = Zmogljiva zasebnost za brezskrbno življenje
 vpn-landing-whats-a-vpn = Kaj je VPN?
 vpn-landing-see-all-the-ways-mozilla-vpn = Oglejte si vse načine, na katere vas { -brand-name-mozilla-vpn } ščiti.
 vpn-landing-how-a-vpn-helps-you = Kako vam pomaga VPN
 vpn-landing-keeps-your-data-safe = Varuje vaše podatke na javnem omrežju Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Brezskrbno se prijavite v spletno banko ali zdravstveni portal z letališča, iz kavarne ali od koderkoli drugod.
 vpn-landing-blocks-advertisers-from = Preprečuje ciljano oglaševanje
+vpn-landing-hide-your-activity-from = Skrijte svojo dejavnost pred sledilci in zlonamerno programsko opremo. Nakupujte, ne da bi vas opazovali.
 vpn-landing-helps-you-access-global = Omogoča vam dostop do globalne vsebine
 vpn-landing-features = Zmožnosti
 # Variables:
@@ -44,6 +46,7 @@ vpn-landing-no-bandwidth-restrictions-or = Brez omejitev pasovne širine ali du�
 vpn-landing-extra-security-whole-device = Dodatna varnost: zaščita celotne naprave, usmerjanje z več preskoki in še več
 vpn-landing-see-all-features = Oglejte si vse zmožnosti
 vpn-landing-fram-a-brand-you-can-trust = Znamka, ki ji lahko zaupate
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je neprofitno spletno podjetje, ki se za zdrav splet bori že od leta 1998.
 vpn-landing-one-subscription-for-all-your = Ena naročnina za vse naprave
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Izdelek { -brand-name-mozilla(sklon: "rodilnik") }.</strong> Za vašo pravico do zasebnosti se borimo že od leta 1998.

@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Hiter za vedno
 about-when-you-use-the-new-firefox = Z uporabo novega { -brand-name-firefox }a prejmete neverjetno hitro izkušnjo, hkrati pa podpirate poslanstvo { -brand-name-mozilla(sklon: "rodilnik") }, da ohranimo internet zdrav, čuden in prijeten za vse.
 about-walking-our-privacy-talk = Uresničevanje naših načel zasebnosti
 about-when-the-facebook-breach-was = Ko so na dan prišle { -brand-name-facebook }ove kršitve, se je { -brand-name-mozilla } nemudoma odzvala – in izdala razširitev za { -brand-name-firefox } za zaščito zasebnosti uporabnikov.
-about-talking-internet-issues-irl = Poddaja IRL o težavah interneta
-about-in-mozillas-irl-podcast-host = V podkastu { -brand-name-mozilla } IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
 about-corporation-foundation-not = Podjetje. Organizacija. Neprofitna.
 about-learn-about-the-mozilla-foundation = Več o { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = Pri { -brand-name-mozilla(sklon: "mestnik") } postavljamo ljudi pred dobiček v vsem, kar govorimo, gradimo in delamo. Pravzaprav je v središču našega podjetja neprofitna fundacija.
@@ -33,6 +31,10 @@ about-read-the-manifesto = Preberite manifest
 about-a-global-view = Globalni pogled
 about-with-offices-all-over-the = S <a href="{ $url }">pisarnami po vsem svetu</a> gledamo na internet z vidika več kultur in kontekstov.
 about-san-francisco = San Francisco
+about-in-mozillas-multi-award-winning = V večkrat nagrajenem { -brand-name-mozilla(sklon: "dajalnik") }nem podkastu se Bridget Todd pogovarja z ljudmi, ki oblikujejo prihodnost spleta in umetne inteligence.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Poddaja IRL o težavah interneta
+about-in-mozillas-irl-podcast-host = V podkastu { -brand-name-mozilla } IRL gostiteljica Manoush Zomorodi govori o resničnih zgodbah o življenju na spletu in njegovi prihodnosti.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Vsako leto gostimo <strong>2000</strong> zunanjih gostov
 about-berlin = Berlin
