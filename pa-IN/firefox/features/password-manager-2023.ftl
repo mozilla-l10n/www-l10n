@@ -16,7 +16,7 @@ password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>ਮੁਫ਼ਤ { 
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = <a { $fxa }>ਮੁਫ਼ਤ { -brand-name-mozilla-account }</a> ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।
+password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">ਮੁਫ਼ਤ { -brand-name-mozilla-account }</a> ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
