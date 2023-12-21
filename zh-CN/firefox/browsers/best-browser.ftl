@@ -45,4 +45,4 @@ best-browser-choosing-the-best-browser = 选择您的最佳浏览器，就像挑
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = 在 <a href="{ $firefox }">{ -brand-name-firefox }</a>，我们努力构建一款速度翻倍，可让用户掌控自己在线生活的浏览器。
-best-browser-take-control-of-your = 掌控您的浏览器。
+best-browser-take-control-of-your = 您的浏览器，只由您掌控。
