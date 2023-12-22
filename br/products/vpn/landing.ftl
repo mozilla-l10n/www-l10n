@@ -8,6 +8,8 @@
 
 ## FAQ section
 
+vpn-landing-faq-heading = FAG
+vpn-langing-faq-uses-question-heading = Petra eo ur VPN ha da betra servij?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
