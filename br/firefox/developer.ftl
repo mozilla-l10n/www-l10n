@@ -6,11 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-get-involved = Kemer perzh
 firefox-developer-start-now = Stagañ ganti bremañ
+firefox-developer-inspector = Enseller
 firefox-developer-learn-about-page-inspector = Gouzout hiroc’h diwar-benn an Enklasker Pajennoù
 firefox-developer-learn-about-web-console = Gouzout hiroc’h diwar-benn ar Penel Web
 firefox-developer-learn-more-about-debugger = Gouzout hiroc’h diwar-benn an Diveuger JavaScript

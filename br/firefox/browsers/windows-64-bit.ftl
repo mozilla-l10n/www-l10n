@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/
+### URL: https://www-dev.allizom.org/firefox/browsers/windows-64-bit/
 
-banner-fundraising-donate = Reiñ
+windows-64-bit-64-bit = 64-bit

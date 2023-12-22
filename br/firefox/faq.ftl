@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = FAG { -brand-name-firefox }
+what-is-firefox = Petra eo { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
@@ -27,6 +30,7 @@ is-firefox-safe-download = Ha sur eo pellgargañ { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Ha diogel eo { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/

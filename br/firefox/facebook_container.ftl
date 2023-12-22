@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-download-firefox-and-get-the = Pellgargit { -brand-name-firefox } ha stailhit an askouezh { -brand-name-facebook-container }
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 facebook-container-about-firefox-and-mozilla = Diwar-benn { -brand-name-firefox } ha { -brand-name-mozilla }

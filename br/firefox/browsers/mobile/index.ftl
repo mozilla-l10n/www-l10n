@@ -5,4 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+browsers-mobile-firefox-for-android = { -brand-name-firefox } evit { -brand-name-android }
+browsers-mobile-firefox-for-ios = { -brand-name-firefox } evit { -brand-name-ios }
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare = Keñveriañ
 browsers-mobile-download = Pellgargañ
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }

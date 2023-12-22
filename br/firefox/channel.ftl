@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -29,6 +29,7 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } a gas 
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Roit hoc'h ali</a> evit sikour ac'hanomp da beurlipat an digonusted hag ar c'heweriusterioù en un endro stabil.
 firefox-channel-check-out-new-android-features = Dizoloit keweriusterioù nevez { -brand-name-android } en o fazennoù kentañ, daoust d'ar riskloù.
+firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 firefox-channel-try-new-browser-features = Klaskit keweriusterioù nevez en handelvoù rak-ermaeziadenn | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Arnodit keweriusterioù nevez-flamm en handelvoù rak-ermaeziadenn: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ha { -brand-name-firefox-nightly }. Pellgargit bremañ!
 firefox-channel-download-and-test-the-latest-desktop = Pellgargit hag amprouit ar c'heweriusterioù diwezhañ war { -brand-name-firefox } war urzhiataer gant an { -brand-name-developer-edition }, { -brand-name-beta } hag an handelvoù { -brand-name-nightly }.

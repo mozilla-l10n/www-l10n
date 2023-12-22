@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/
+### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
-banner-fundraising-donate = Reiñ
+# page title
+bookmark-manager-bookmark-manager = Merañ ar sinedoù

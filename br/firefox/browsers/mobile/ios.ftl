@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } hag { -brand-name-ipad })
+mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.

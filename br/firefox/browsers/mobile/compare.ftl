@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+mobile-compare-syncing = Goubredañ
 mobile-compare-dark-mode = Mod teñval
+mobile-compare-collections = Dastumadoù
 mobile-compare-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.

@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-downloads = Pellgargadurioù
 firefox-enterprise-enterprise-downloads = Pellgargadurioù { -brand-name-enterprise }
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Diuzit ho pellgargadur
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
+firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
+firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit

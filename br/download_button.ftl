@@ -39,5 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> evit { -brand
 download-button-firefox-privacy = Buhez prevez { -brand-name-firefox }
 download-button-firefox-privacy-notice = Politikerezh prevezded { -brand-name-firefox }
 download-button-download = Pellgargañ
+download-firefox-esr = Pellgargañ { -brand-name-firefox-esr }
 download-firefox-esr-32 = Pellgargañ { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Pellgargañ { -brand-name-firefox-esr } 64-bit
