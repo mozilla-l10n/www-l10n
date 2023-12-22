@@ -79,6 +79,7 @@
 -brand-name-firefox-private-network = Kenrouedad Prevez Firefox
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Troidigezhioù Firefox
 
 ## Firefox products (short names)
 

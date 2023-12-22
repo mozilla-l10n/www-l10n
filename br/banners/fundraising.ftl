@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/
 
+banner-fundraising-title-1 = Roit un donezon da { -brand-name-mozilla }. Adpiaouit ar genrouedad.
+banner-fundraising-title-2 = Adperc’hennit ar genrouedad.
+banner-fundraising-title-3 = Tu zo deoc’h reiñ un donezon da { -brand-name-mozilla }?
 banner-fundraising-donate = Reiñ

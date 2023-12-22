@@ -13,6 +13,9 @@ firefox-accounts-enter-your-email-address = Lakait ho chomlec'h postel da gregi�
 firefox-accounts-already-have-an-account = Ur gont ho peus dija?
 firefox-accounts-sign-in = Kennaskañ
 # Obsolete string
+firefox-accounts-already = Ur { -brand-name-firefox-account } ho peus c’hoazh. Gourc’hemennoù!
+mozilla-accounts-already = Ur { -brand-name-mozilla-account } ho peus c'hoazh. Gourc'hemennoù!
+# Obsolete string
 firefox-accounts-meet-our-family-of = Kavit hon dibab produoù buhez-prevez-da-gentañ.
 firefox-accounts-keep-your-passwords = Dalc'hit ho kerioù-tremen gwarezet ha ganeoc'h bepred.
 firefox-accounts-get-a-lookout-for = Dizoleiñ ar fuadurioù roadennoù.
