@@ -3,5 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.allizom.org/products/vpn/download/
 
+vpn-download-page-title = Pellgargañ { -brand-name-mozilla-vpn }
+vpn-download-button-copy = Pellgargañ

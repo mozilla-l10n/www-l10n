@@ -3,5 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
+### URL: https://www-dev.allizom.org/products/vpn/
+
+
+## FAQ section
+
+
+## Invite page https://www-dev.allizom.org/products/vpn/invite/
+
+
+##
 

@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-index-bookmark-manager = Merañ ar sinedoù

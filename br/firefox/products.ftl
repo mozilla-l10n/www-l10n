@@ -9,14 +9,8 @@ firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-desktop = Burev
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
+firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-learn-more-about-relay = Gouzout hiroc'h diwar-benn { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-download-lockwise = Pellgargañ { -brand-name-lockwise }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Gouzout hiroc’h diwar-benn { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Gouzout hiroc’h diwar-benn { -brand-name-pocket }
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
