@@ -5,9 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/404/
 
-not-found-page-not-found-page-page-not-found = 404 : N'eo ket bet kavet ar bajenn
-not-found-page-sorry-we-cant-find-that-page = Digarezit, ne c'hallomp ket kavout ar bajenn-se
-not-found-page-were-all-about-a-healthy-internet = Pouezhus eo un internet yac'h evidomp met a-wechoù URLioù torret a zo.
+not-found-page-not-found-page-page-not-found = 404 : N’eo ket bet kavet ar bajenn
+not-found-page-sorry-we-cant-find-that-page = Digarezit, ne c’hallomp ket kavout ar bajenn-se
+not-found-page-were-all-about-a-healthy-internet = Ur genrouedad yac’h a zo pouezus dimp met a-wezhioù ez eus URLioù torret.
 not-found-page-go-back = Distreiñ
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/

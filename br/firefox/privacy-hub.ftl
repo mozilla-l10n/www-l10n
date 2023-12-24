@@ -8,7 +8,7 @@
 # Sub navigation title
 firefox-privacy-privacy = Buhez prevez
 # Sub navigation link
-firefox-privacy-our-products = Hor c'henderc'hadoù
+firefox-privacy-our-products = Hor produioù
 firefox-privacy-hub-learn-more-about-our-mission = Gouzout hiroc’h diwar-benn hon c’hefridi
 firefox-privacy-hub-download-the-firefox-browser = Pellgargañ ar merdeer { -brand-name-firefox }
 # Obsolete string
