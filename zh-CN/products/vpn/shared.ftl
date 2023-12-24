@@ -167,7 +167,7 @@ vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } �
 # Variables
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
-vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } 目前未提供 { $language }版本但您可以使用它来支持英语、法语、德语、西班牙语以及<a { $href }>超过 30 种其他语言</a>修改这些设置。
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } 目前未提供 { $language } 版本，但您可以使用它的英语、法语、德语、西班牙语以及<a { $href }>超过 30 种其他语言</a>的版本。
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
-vpn-shared-unsupported-language-contribute = 想要让 { -brand-name-mozilla-vpn } 能够惠及更多人吗<a { $href }>成为翻译志愿者</a>。
+vpn-shared-unsupported-language-contribute = 想要让 { -brand-name-mozilla-vpn } 能够惠及更多人吗？欢迎<a { $href }>成为翻译志愿者</a>。
