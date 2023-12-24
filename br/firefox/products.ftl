@@ -9,6 +9,7 @@ firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-desktop = Burev
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
+firefox-products-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-learn-more-about-relay = Gouzout hiroc'h diwar-benn { -brand-name-firefox-relay }
 firefox-products-pocket = { -brand-name-pocket }

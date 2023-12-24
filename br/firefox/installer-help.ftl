@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = Paouezet eo bet ho pellgargañ
+installer-help-action-choose = Dibabit un doare pellgargañ amañ dindan.
 
 ##
 

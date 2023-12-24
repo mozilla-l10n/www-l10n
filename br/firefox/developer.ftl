@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-speak-up = Embannit ho soñjoù
 firefox-developer-get-involved = Kemer perzh
 firefox-developer-start-now = Stagañ ganti bremañ
 firefox-developer-inspector = Enseller

@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/compare/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation requires multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+mobile-compare-syncing-strong = <strong>Goubredañ</strong>
 mobile-compare-syncing = Goubredañ
+mobile-compare-conclusion = Evit echuiñ
+mobile-compare-reader-mode = Mod lenn
+mobile-compare-spell-checking = Gwiriañ ar reizhskrivañ
 mobile-compare-dark-mode = Mod teñval
+mobile-compare-find-on-page = Kavout er bajennad
+mobile-compare-add-to-homescreen = Ouzhpennañ dʼar skramm degemer
 mobile-compare-collections = Dastumadoù
 mobile-compare-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.

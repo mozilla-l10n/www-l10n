@@ -10,9 +10,11 @@ firefox-privacy-privacy = Buhez prevez
 # Sub navigation link
 firefox-privacy-our-products = Hor c'henderc'hadoù
 firefox-privacy-hub-learn-more-about-our-mission = Gouzout hiroc’h diwar-benn hon c’hefridi
+firefox-privacy-hub-download-the-firefox-browser = Pellgargañ ar merdeer { -brand-name-firefox }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-privacy-hub-learn-more-about-lockwise = Gouzout hiroc’h diwar-benn { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-get-pocket = Kaout { -brand-name-pocket }
+firefox-privacy-hub-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }

@@ -20,8 +20,6 @@ firefox-new-need-help = Ezhomm skoazell?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 
 # Not-Required
 

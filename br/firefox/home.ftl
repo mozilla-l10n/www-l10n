@@ -6,11 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - Gwarezit ho puhez enlinenn gant produioù prevezded-da-gentañ
-# Obsolete string
-firefox-home-learn-more-about-lockwise = Gouzout hiroc’h diwar-benn { -brand-name-lockwise }
 firefox-home-learn-more-about-pocket = Gouzout hiroc’h diwar-benn { -brand-name-pocket }
 firefox-home-download-the-browser = Pellgargañ ar merdeer
 firefox-home-download-the-app = Pellgargañ an arload
+firefox-home-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
 firefox-home-android = { -brand-name-android }
 firefox-home-ios = { -brand-name-ios }
 firefox-home-monitor = { -brand-name-monitor }
@@ -22,6 +21,7 @@ firefox-home-pocket = { -brand-name-pocket }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }

@@ -13,3 +13,4 @@ mobile-android-send-a-download-link-to-your = Kas ul liamm pellgargadur d'ho pel
 mobile-android-scan-the-qr-code-to-get-started = C’hwilerviñ ar c’hod QR evit stagañ ganti
 mobile-android-fast-and-private = Prim ha prevez
 mobile-android-one-tap-to = Ar merdeiñ prevez en ur c’hlik
+mobile-android-about-mozilla = Diwar-benn { -brand-name-mozilla }

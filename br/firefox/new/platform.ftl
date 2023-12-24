@@ -21,6 +21,8 @@ new-platform-download-mozilla-linux = Pellgargañ { -brand-name-mozilla } { -bra
 
 ## Mac
 
+new-platform-download-mozilla-firefox-mac = Pellgargañ { -brand-name-mozilla } { -brand-name-firefox } evit { -brand-name-mac-short }
 
 ## Windows
 
+new-platform-download-mozilla-windows = Pellgargañ { -brand-name-mozilla } { -brand-name-firefox } evit { -brand-name-windows }
