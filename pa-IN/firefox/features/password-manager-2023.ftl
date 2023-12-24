@@ -27,6 +27,13 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } ਤ
 password-manager-image-of-a-websites-login-form = { -brand-name-firefox } ਨਾਲ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਲਾਗਇਨ ਫਾਰਮ ਦੀ ਤਸਵੀਰ ਹੈ, ਜਿੱਥੇ ਲਾਗਇਨ ਕਰਨ ਸਮੇਂ ਚੁਣਨ ਲਈ ਸੰਭਾਲੇ ਹੋਏ ਕਈ ਖਾਤੇ ਦਿਖਾਏ ਜਾ ਰਹੇ ਹਨ।
 password-manager-import-passwords = ਪਾਸਵਰਡ ਦਰਾਮਦ ਕਰੋ
 password-manager-no-more-reusing-your-passwords = ਹੁਣ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਮੁੜ ਵਰਤਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡੇ ਹਰ ਲਾਗਇਨ ਲਈ { -brand-name-firefox } <a { $attrs }>ਨੂੰ ਮਜ਼ਬੂਤ, ਵਿਲੱਖਣ ਪਾਸਵਰਡ ਬਣਾਉਣ</a> ਦਿਓ — ਇਸ ਢੰਗ ਨਾਲ ਜੇ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਕਿਸੇ ਸੁਰੱਖਿਆ ਸੰਨ੍ਹਮਾਰੀ ਵਿੱਚ ਚੋਰੀ ਹੋ ਵੀ ਜਾਣ ਤਾਂ ਇਹ ਸਿਰਫ਼ ਇੱਕ ਹੀ ਖਾਤੇ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਨ, ਨਾ ਕਿ ਸਾਰਿਆਂ ਨੂੰ।
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = ਵੈੱਬਸਾਈਟ ਦਾ ਸਾਈਨ ਅੱਪ ਕਰਨ ਵਾਲੀ ਤਸਵੀਰ ਹੈ, ਜਿੱਥੇ { -brand-name-firefox } ਵਲੋਂ ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਸੁਝਾਇਆ ਜਾ ਰਿਹਾ ਹੈ, ਜਿਸ ਨੂੰ ਭਵਿੱਖ ਵਿੱਚ ਵਰਤਣ ਲਈ ਆਪਣੇ-ਆਪ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 password-manager-password-security-alerts = ਪਾਸਵਰਡ ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀਆਂ
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ, ਜੇ ਕਿਧਰੇ ਕਿਸੇ ਡਾਟਾ-ਸੰਨ੍ਹਮਾਰੀ ਵਿੱਚ ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਸਾਹਮਣੇ ਆ ਗਿਆ ਹੋਵੇ।</a> ਤਾਂ ਕਿ ਹੈਕਰਾਂ ਵਲੋਂ ਤੁਹਾਡੇ ਕਰੈਡਿਟ ਕਾਰਡਾਂ ਦੀ ਵਰਤੋਂ ਕੀਤੇ ਜਾਣ ਪਹਿਲਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਦਲ ਸਕੋ।
