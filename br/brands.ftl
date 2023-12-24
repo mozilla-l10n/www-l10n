@@ -77,6 +77,7 @@
 # Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Kenrouedad Prevez Firefox
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = Troidigezhioù Firefox
@@ -115,6 +116,7 @@
 -brand-name-mozilla-festival = Festival Mozilla
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Kont Mozilla
