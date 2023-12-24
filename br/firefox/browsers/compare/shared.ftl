@@ -10,7 +10,9 @@ compare-shared-yes = Ya
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ket
 compare-shared-private-browsing-mode = Mod merdeiñ prevez
+compare-shared-spell-checking = Gwiriañ ar reizhskrivañ
 compare-shared-password-management = Merañ ar gerioù-tremen
+compare-shared-primary-password = Ger-tremen pennañ
 compare-shared-security-and-privacy = Diogelroez ha buhez prevez
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
@@ -25,3 +27,4 @@ compare-shared-download-the-app = Pellgargañ an arload
 compare-shared-desktop = Burev
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
+compare-shared-compare-browsers = Keñveriañ merdeerioù
