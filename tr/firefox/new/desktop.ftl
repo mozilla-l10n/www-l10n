@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Sosyal takip kodlarını engel
 firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
 firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
 firefox-desktop-download-primary-password = Ana parola
-# Obsolete string
-firefox-desktop-love-your-life = İnterneti seviyoruz
-# Obsolete string
-firefox-desktop-its-your-internet = Bu internet senin. Binlerce araç, tema ve uzantıyla istediğin gibi özelleştir. { -brand-name-firefox }, insanlığı paraya yeğleyen ilk alternatif tarayıcı.
-# Obsolete string
-firefox-desktop-download-master-password = Ana parola
 firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliyoruz, siz daha hızlı geziniyorsunuz
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
@@ -141,6 +135,9 @@ firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox }’u tüm cihazlarınızda kullanabilirsiniz: Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşıyın. Tek ihtiyacınız bir <a { $attrs }>{ -brand-name-firefox } hesabı</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } tarayıcısını tüm cihazlarınızda kullanabilirsiniz. Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşımak için tek ihtiyacınız bir <a { $attrs }>{ -brand-name-mozilla-account }</a>. Hesap açarak verilerinizi senkronize edebilir ve diğer { -brand-name-mozilla } ürünlerine erişebilirsiniz.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tarayıcıda yerleşik bulunan <a { $attrs }>ekran görüntüsü</a> aracımızla internetteki her şeyin yüksek çözünürlüklü görüntüsünü kaydedebilirsiniz
 # Variables:
@@ -154,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Tarayıcınızı indirm
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-lockwise } ile parolalarınızı koruyabilir ve çok daha fazlasını yapabilirsiniz.
 firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
 firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
@@ -173,8 +168,6 @@ firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın<
 firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.
 firefox-desktop-download-in-another-language = Başka bir dilde veya başka bir işletim sistemi için indirin.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz "Yine de yükle"ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
@@ -182,10 +175,6 @@ firefox-desktop-download-visit-support-for-more = Daha fazla bilgi için destek 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">Artık { -brand-name-firefox } tarafından desteklenmeyen</a>, güvenli olmayan ve eski bir işletim sistemi kullanıyorsunuz.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
