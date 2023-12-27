@@ -26,6 +26,7 @@ features-index-automatically-delete-cookies = Tarayıcıyı kapattığınızda �
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } eklentileri ve tarayıcı uzantıları
 features-index-add-new-tools-capabilities-and = Tarayıcınıza yeni araçlar, yetenekler ve eğlenceli şeyler ekleyin.
 features-index-pinned-browser-tabs = Sabitlenmiş tarayıcı sekmeleri
+features-index-keep-your-favorite-pages-open = En sevdiğiniz sayfalar bir tık uzağınızda. E-posta veya mesajlaşma uygulamalarınıza anında ulaşmak için sekme sabitlemeyi kullanabilirsiniz.
 features-index-eyedropper-tool = Damlalık aracı
 features-index-identify-the-exact-color-on-a = Bir sayfadaki rengi tam olarak tanımlayıp hex kodunu kopyalayın.
 features-index-pdf-editor = PDF düzenleyicisi

@@ -9,6 +9,8 @@ vpn-pricing-page-title = Fiyatlar - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Tüm cihazlarınız için tek abonelik
+# Pricing section
+vpn-pricing-included-in-subscription = Aboneliğe dahil olanlar:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: iyi insanların tarayıc�
 about-when-you-use-the-new-firefox = Yeni { -brand-name-firefox }’u kullandığınızda çok hızlı bir tarayıcıya sahip olmakla kalmıyor, { -brand-name-mozilla }’nın sağlıklı ve kapsayıcı bir internet yaratma misyonunu da destekliyorsunuz.
 about-walking-our-privacy-talk = Lafta değil, icraatta gizlilik
 about-when-the-facebook-breach-was = { -brand-name-facebook } ihlali ortaya çıktığında { -brand-name-mozilla } anında tepkisini ortaya koydu. Kullanıcı gizliliğini destekleyen bir { -brand-name-firefox } ürünü de hazırdı.
-about-talking-internet-issues-irl = İnternet sorunlarını konuşuyoruz
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }’nın IRL adlı podcast’inde, sunucumuz Manoush Zomorodi internet yaşamına dair hikâyeleri paylaşıyor ve web’in geleceğini tartışıyor.
 about-corporation-foundation-not = Kâr amacı gütmüyoruz
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } hakkında bilgi alın
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } olarak söylediğimiz, geliştirdiğimiz ve yaptığımız her şeyde insanlık, paradan önce gelir. Şirketimizi kâr amacı gütmeyen bir vakıf yönetiyor.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Manifestoyu okuyun
 about-a-global-view = Küresel Bir Bakış
 about-with-offices-all-over-the = <a href="{ $url }">Dünyanın her yanındaki ofislerimiz</a> sayesinde farklı kültürlerin internet anlayışlarını görebiliyoruz.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Talking Tech Issues IRL
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }’nın ödüllü podcast’inde Bridget Todd, internetin ve yapay zekânın geleceğini şekillendiren insanlarla sohbet ediyor.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = İnternet sorunlarını konuşuyoruz
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }’nın IRL adlı podcast’inde, sunucumuz Manoush Zomorodi internet yaşamına dair hikâyeleri paylaşıyor ve web’in geleceğini tartışıyor.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Çalışanlarımız dışında her yıl <strong>2000</strong> misafir ağırlıyoruz
 about-berlin = Berlin

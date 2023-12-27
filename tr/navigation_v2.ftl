@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox }’u indir
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 navigation-v2-menu = Menü
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } aç
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = İnternetin geleceğini herkesin duyması için sesinizi bağışlayın.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Düşük seviyeli, assembly benzeri yeni programlama diliyle tanışın.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } İnovasyon Projeleri
+navigation-v2-discover-ways-to-bring = Parlak fikirleri hayata geçirmenin yollarını keşfedin.

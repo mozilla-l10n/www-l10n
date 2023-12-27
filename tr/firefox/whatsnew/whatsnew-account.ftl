@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Hesap açmak size kalmış.
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox } tarayıcısı hakkınızda çok az veri toplar. E-posta adresinizi bile istemeyiz. Ancak { -brand-name-mozilla-account } açarsanız { -brand-name-firefox } tarayıcısının yanı sıra internette gizliliğinizi koruyan birçok ürüne ulaşabilirsiniz.
 whatsnew-account-mozilla-cta = { -brand-name-mozilla-account } açın
 
 ##

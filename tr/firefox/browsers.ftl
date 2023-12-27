@@ -7,14 +7,13 @@
 
 # HTML page title
 firefox-browsers-page-title = Bilgisayar, Mobil veya Kurumsal Cihazlar için { -brand-name-firefox }’u İndirin
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Gizliliğinizi ilk sıraya koyan tarayıcıları indirin
 # HTML page description
 firefox-browsers-page-desc = Bilgisayar, { -brand-name-ios }, { -brand-name-android } arasından seçim yapın veya mobil indirme bağlantısını e-posta adresinize gönderelim.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Hak ettiğiniz gizliliği alın. Gelişmiş İzlenme Koruması tüm { -brand-name-firefox } tarayıcılarında otomatik çalışır.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Gizliliğiniz Firefox için <strong>hep</strong> ilk sıradaydı ve hep öyle kalacak
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Gizliliğinizi her zaman ilk sıraya koyan tarayıcıyı indirin
 firefox-browsers-desktop = Bilgisayar
 firefox-browsers-seriously-private-browsing = Cidden gizli gezinti. { -brand-name-firefox }, 2000’den fazla çevrimiçi takip kodunun internette yaptıklarınızla ilgili bilgi toplamasını otomatik olarak engeller.
 firefox-browsers-download-for-desktop = Bilgisayar sürümünü indirin
@@ -35,11 +34,6 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }’a kat
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Zaten hesabınız var mı? <a { $fxa_attr }>Giriş yapın</a> veya { -brand-name-firefox }’a katılma hakkında <a { $accounts_attr }>bilgi alın</a>.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Zaten hesabınız var mı? <a { $fxa_attr }>Giriş yapın</a> veya Firefox'a katılma hakkında <a { $accounts_attr }>daha fazla bilgi alın</a>.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
