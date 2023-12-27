@@ -13,6 +13,7 @@ firefox-products-firefox-beginning = { -brand-name-firefox } yalnızca başlang�
 # Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Daha güvenli ve daha verimli bir internet deneyimi için tasarlanmış eksiksiz bir ürün ailesi.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ürün ailesi, daha güvenli ve daha verimli bir internet deneyimi için tasarlandı
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } yalnızca bir tarayıcı <strong>değil</strong>
@@ -38,18 +39,6 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Gerçek e-posta adresinizi gizleyerek gelen kutunuzu koruyun.
 firefox-products-learn-more-about-relay = { -brand-name-firefox-relay } hakkında bilgi alın
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Parolalarınızı güvene saklayın ve tüm cihazlarınızla senkronize edin.
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise }’ı indirin
-# Obsolete string
-firefox-products-open-in-firefox = { -brand-name-firefox }’ta aç
-# Obsolete string
-firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 2,5 GB’ye kadar dosyalarınızı ve hassas belgelerinizi kadar güvenle gönderin.
 firefox-products-send-a-file = Dosya gönderin
 firefox-products-pocket = { -brand-name-pocket }
