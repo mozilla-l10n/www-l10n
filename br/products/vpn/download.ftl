@@ -15,12 +15,12 @@ vpn-download-for-mac = VPN evit { -brand-name-mac-short }
 vpn-download-for-mac-long = Pellgargañ { -brand-name-mozilla-vpn } evit { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
-vpn-download-version-requirements = Handelv { $version } d’an nebeutañ
+vpn-download-version-requirements = Handelv { $version } da neubeutañ
 vpn-download-for-linux = VPN evit { -brand-name-linux }
 vpn-download-for-linux-long = Pellgargañ { -brand-name-mozilla-vpn } evit { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
-vpn-download-for-linux-requirements = Ubuntu { $version } d’an nebeutañ
+vpn-download-for-linux-requirements = Ubuntu { $version } da neubeutañ
 vpn-download-for-android = VPN evit { -brand-name-android }
 vpn-download-for-android-long = Pellgargañ { -brand-name-mozilla-vpn } evit { -brand-name-android }
 vpn-download-for-ios = VPN evit { -brand-name-ios }
