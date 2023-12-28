@@ -11,8 +11,6 @@ vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } Linux-pe ñanduti h
 vpn-linux-linux-is-free = Linux reigua, ijayvu juruja ha mboavakuaáva, hákatu ndaha’éi hekorosã ha hekoñemikuaa’ỹva eikundahávo. Avei poruhára oimeraẽva apopyvusu peguáicha, Linux poruhára orekokuaa jejokose, ñema’ẽag̃ui ha mba’evaiapoha.
 vpn-linux-why-choose = Mba’érepa eiporavova’erã { -brand-name-mozilla-vpn } Linux-pe g̃uarã
 vpn-linux-fast-and-v2 = <strong>Ipya’e ha jeroviaha:</strong> { -brand-name-mozilla-vpn } oiporu pe taperekoite { -brand-name-wireguard }®, ome’ẽva jeku’epya’e ha tekopyta ambue VPN raperekoitégui.
-# Obsolete string
-vpn-linux-fast-and = <strong>Ipya’e ha jeroviaha:</strong> { -brand-name-mozilla-vpn } oiporu taperekoite { -brand-name-wireguard }®, ome’ẽva jeku’epya’e ha tekopyta ambue VPN raperekoitégui
 vpn-linux-no-logs = <strong>Mboheraguapy’ỹre:</strong> { -brand-name-mozilla-vpn } noñongatúi nde rapykuere ñandutípe; ndoroikuaaséi mba’e tendápepa eikéra’e ha ndorohechái ne ñeikundaha.
 vpn-linux-gui-client = <strong>GUI joguahára:</strong>{ -brand-name-mozilla-vpn } ereko GUI joguahára (poruhára mba’erechaha ra’ãnga), hákatu heta VPN me’ẽhára oikuave’ẽ peteĩ CLI añónte (mbopya’eha rehegua).
 vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn } Linux-pe g̃uarã
@@ -20,11 +18,9 @@ vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn 
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Eiporúramo peteĩva umi ojokupytýva Ubuntu ndive, ikatukuaa emohenda mokõi hendáicha mozillavpn oñemoĩva <a { $attrs }>Launchpad:</a> ndive
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Si usas una de las versiones compatibles de Ubuntu, hay dos formas de instalar los paquetes oficiales de mozillavpn alojados en <a { $attrs }>Launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Mba’erechaha ra’ãnga Ubuntu poruhára rehegua:</strong> Eike <a { $attrs }>ko jehaipyrépe</a> ha ehecha pehẽ Embojuaju marandurenda pakéte tapicha mba’eteéva.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Avei, Linux ñemyasãi ojokupyty’ỹva, emboguejykuaa ha embyaty teñoiha ayvu <a { $attrs }>GitHub ñembyatyhaite</a> guive.
