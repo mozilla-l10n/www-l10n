@@ -52,6 +52,7 @@ vpn-download-faq-encrypting = Ombopapapy ne rembiapo ñandutípe: ani hag̃ua av
 vpn-download-faq-working = Mba’éichapa aikuaáta VPN oikoporãha
 vpn-download-faq-add-device = Mba’éichapa ambojuajúta ambue mba’e’oka
 vpn-download-faq-best-practices = Mba’épa umi iporãvéva VPN rembiapo
+vpn-download-faq-experience = Ne rembipota ha’éramo ñanduti jeporu reimerõguáicha ambue tenda arapýpe, eiporavokuaa upépe peteĩ apopyvusu rendaite ha opaite ñanduti renda eikehague ohechaukáta eimeramoguáicha upepete.
 vpn-download-faq-lastly = Ipahápe, umi mba’e’oka ojokupytývape, ejapokuaa VPN katupyryve emboykévo peteĩva tembiporu’i (techapyrã, Netflix).
 vpn-download-faq-need-more = Eikotevẽvépa reñepytyvõ
 # Variables

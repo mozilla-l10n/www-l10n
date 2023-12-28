@@ -42,4 +42,5 @@ vpn-landing-powered-by-mozilla-fighting-for = <strong>{ -brand-name-mozilla } re
 vpn-landing-learn-more-from-our-experts = Eikuaave ore mba’apohára ikatupyryvévare
 vpn-landing-do-you-need-a-vpn-at-home = ¿Eikotevẽ peteĩ VPN nde rógape? Ápe ereko 5 mba’e eikotevẽkuaaha.
 vpn-landing-what-is-an-ip-address = Mba’épa IP kundaharape
+vpn-landing-how-your-location-is-tracked = Mba’éicha ojehapykueho ne rendaite ha mba’éicha emomichĩve ijeporu oñondivegua
 vpn-landing-see-more-resources = Ehechave mba’eita
