@@ -58,6 +58,15 @@ vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
 vpn-features-plus-customer-support = Avei oñepytyvõ ñemuhárape 24/7.
 vpn-features-we-never-log = Noroñongatúi, ndorohapykuehói térã noromoherakuãi ne mba’ekuaarã ñandutigua
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Pya’eháicha, norombyatýi ne maranduete ñeikundaha rehegua. Kóva ore <a { $privacy }>temiñemi porureko hasy’ỹva imoñe’ẽ</a>.
 vpn-features-built-transparently = Ojejapo tesakãme ayvu ijurujávape
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } ojejapo ayvu ijurujáva reheve, he’iséva opaite ayvúpe eikekuaaha. Ema’ẽ ore <a { $github }>GitHub mbyatyha</a>.
 vpn-features-reviewed-by-third = Ikatupyryrasáva tekorosãme ohechajeypyre
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Cure53 ohecha ore rapykuere, mba’apoha ikatupyrýva ciberseguridad ñeha’ãme. <a { $report }>Eporandu marandu’i ko’ápe</a>.
 vpn-features-people-over-profits = Yvypóra viru ñegana ári
