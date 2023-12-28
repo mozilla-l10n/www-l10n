@@ -17,7 +17,9 @@ vpn-landing-a-virtual-private-network-protects = Peteĩ red privada virtual omo�
 vpn-landing-see-all-the-ways-mozilla-vpn = Ehechapaite mba’éichapa { -brand-name-mozilla-vpn } nemo’ã.
 vpn-landing-how-a-vpn-helps-you = Mba’éichapa nepytyvõ VPN
 vpn-landing-keeps-your-data-safe = Oreko ne mba’ekuaarã tekorosãme Wi-Fi ojeporukuaávape
+vpn-landing-log-in-to-your-bank-or = Eñepyrũ tembiapo ne banco térã tembiporu’i tesãiguápe aeropuerto, cafetería térã oimeraẽva tenda guive, py’aguapýpe.
 vpn-landing-blocks-advertisers-from = Ojoko umi marandu ñemurã oma’ẽvo nderehe
+vpn-landing-hide-your-activity-from = Eñomi ne rembiapo tapykuehoha ha malware-gui ejogua hag̃ua ejehecha’ỹre.
 vpn-landing-helps-you-access-global = Nepytyvõ eikévo tetepy tuichaháichape
 vpn-landing-features = Reheguáva
 # Variables:
