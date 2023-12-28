@@ -7,8 +7,13 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Emo’ãmbaite ne mba’e’oka
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Eiporu { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembiporu’ípe g̃uarã. Apopyvusu ndive { $countries }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
 vpn-landing-powerful-privacy-for-peace = Tekoñemi mbarete nde py’aguapyrã
 vpn-landing-whats-a-vpn = Mba’épa VPN
+vpn-landing-a-virtual-private-network-protects = Peteĩ red privada virtual omo’ã nde jeike ñandutípe, ne rendaitépe ha ejapóva eikundahakuévo tekoñemíme opaite ne mba’e’okápe.
 vpn-landing-see-all-the-ways-mozilla-vpn = Ehechapaite mba’éichapa { -brand-name-mozilla-vpn } nemo’ã.
 vpn-landing-how-a-vpn-helps-you = Mba’éichapa nepytyvõ VPN
 vpn-landing-keeps-your-data-safe = Oreko ne mba’ekuaarã tekorosãme Wi-Fi ojeporukuaávape
