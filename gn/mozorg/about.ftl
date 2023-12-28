@@ -32,6 +32,7 @@ about-a-global-view = Jehecha tuichaháicha
 about-with-offices-all-over-the = <a href="{ $url }">oficina arapy tuichakuépe</a> ndive, rohecha ñanduti mba’ekuaaita ha jeregua guive.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Roñe’ẽ (IRL) ñandutigua apañuãi
+about-in-mozillas-multi-award-winning = Pe podcast oganáva hetajey { -brand-name-mozilla } rehegua, Bridget Todd oñe’ẽ tapichakuéra ombohapéva ndive Ñanduti pyahu ha IA.
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = Roñe’ẽhína IRL ñanduti rehegua
 about-in-mozillas-irl-podcast-host = Pe { -brand-name-mozilla } podcast IRL, mbohupaha Manoush Zomorodi omoherakuã tembiasakue oikopyréva ñandutípe ha oñemoñe’ẽ ñanduti renonderã rehe.
