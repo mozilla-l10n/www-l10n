@@ -167,7 +167,7 @@ vpn-press-mozilla-vpns-feature-list-has-grown = „{ -brand-name-mozilla-vpn } �
 # Variables
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
-vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } ამჟამად არაა შემოთავაზებული { $language } ენაზე, მაგრამ შეგიძლიათ გამოიყენოთ ინგლისურად, ფრანგული, გერმანული, ესპანურად და <a { $href }>30-ზე მეტ ენაზე</a> .
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } ამჟამად არაა { $language } ენისთვის, მაგრამ შეგიძლიათ გამოიყენოთ ინგლისურად, ფრანგულად, გერმანულად, ესპანურად და <a { $href }>კიდევ 30-ზე მეტ ენაზე</a>.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
-vpn-shared-unsupported-language-contribute = გსურთ, დაეხმაროთ { -brand-name-mozilla-vpn }-ს მეტი ხალხის გაზიარებაში? <a { $href }>გახდით მოხალისე მთარგმნელი</a>.
+vpn-shared-unsupported-language-contribute = გსურთ, დაგვეხმაროთ, რომ მეტ ადამიანამდე მივაწვდინოთ { -brand-name-mozilla-vpn }? <a { $href }>გახდით მოხალისე მთარგმნელი</a>.

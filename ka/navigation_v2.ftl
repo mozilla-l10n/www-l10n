@@ -86,5 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = შემოგვწირეთ თქვენი ხმა, რომ მომავალში ვებსამყაროს, ყველასი ესმოდეს.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = შეისწავლეთ ახალი, ქვედა დონის, ასემბლერის მაგვარი ენა.
-navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla }-ს საინოვაციო პროექტები
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla }-ს ახლებური სახის პროექტები
 navigation-v2-discover-ways-to-bring = აღმოაჩინეთ გზები ნათელი იდეების განსახორციელებლად.
