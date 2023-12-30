@@ -70,6 +70,7 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -104,15 +105,19 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = ግሌን
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = የሞዚላ ገንቢ አውታረ መረብ
 -brand-name-mozilla-festival = የሞዚላ ድግስ
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = ሞዚላ ቤተ-ሙከራ
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mdn-plus = MDN Plus
 -brand-name-thunderbird = Thunderbird
+-brand-name-mozilla-account = የMozilla መለያ
+-brand-name-mozilla-accounts = የMozilla መለያዎች
+-brand-name-mozilla-social = Mozilla.social
 
 ## Mozilla projects (short names)
 
@@ -130,8 +135,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
