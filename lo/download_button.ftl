@@ -48,3 +48,4 @@ download-button-please-download-esr = ກະລຸນາດາວໂຫຼດ { 
 download-firefox-esr = ດາວໂຫລດ { -brand-name-firefox-esr }
 download-firefox-esr-32 = ດາວໂຫລດ { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = ດາວໂຫລດ { -brand-name-firefox-esr } 64-bit
+download-a-different-build = ດາວ​ໂຫຼດ​ການ​ສ້າງ​ທີ່​ແຕກ​ຕ່າງ​ກັນ​
