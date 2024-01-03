@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Amgryptio eich traffig rhyngrwyd: felly ni all unr
 vpn-download-faq-working = Sut ydw i'n gwybod bod y VPN yn gweithio?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = Mae { -brand-name-mozilla-vpn } yn dangos dangosyddion gweledol o'i statws presennol yn y bar offer a sgrin gartref y rhaglen, gan ei gwneud hi'n hawdd gwybod a yw eich gweithgaredd ar-lein wedi'i ddiogelu ai peidio. Mae'r dangosyddion hyn yn eich galluogi i gadarnhau pan fydd eich llywio yn breifat ac yn ddiogel. Yn ogystal, tra'n gysylltiedig, gallwch ymweld â <a href="{ $monitor }">https://monitor.mozilla.org/</a> i gadarnhau a yw eich cyfeiriad IP wedi'i guddio. Am ragor o fanylion, gweler <a href="{ $connected }">Sut gallaf ddweud os yw { -brand-name-mozilla-vpn } wedi'i gysylltu?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = Mae { -brand-name-mozilla-vpn } yn dangos dangosyddion gweledol o'i statws presennol yn y bar offer a sgrin gartref y rhaglen, gan ei gwneud hi'n hawdd gwybod a yw eich gweithgaredd ar-lein wedi'i ddiogelu ai peidio. Mae'r dangosyddion hyn yn eich galluogi i gadarnhau pan fydd eich llywio yn breifat ac yn ddiogel. Yn ogystal, tra'n gysylltiedig, gallwch ymweld â <a href="{ $monitor }">https://monitor.firefox.com/</a> i gadarnhau a yw eich cyfeiriad IP wedi'i guddio. Am ragor o fanylion, ewch i <a href="{ $connected }">Sut gallaf ddweud os yw { -brand-name-mozilla-vpn } wedi'i gysylltu?</a>.
 vpn-download-faq-add-device = Sut i ychwanegu dyfais arall?
