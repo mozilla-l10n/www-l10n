@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Cifrar tu tráfico de Internet: para que nadie en 
 vpn-download-faq-working = ¿Cómo sé que la VPN está funcionando?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } muestra indicadores visuales de su estado actual tanto en la barra de herramientas como en la pantalla de inicio de la aplicación, lo que facilita saber si tu actividad en línea está protegida o no. Estos indicadores te permiten confirmar cuando tu navegación es privada y segura. Además, mientras estás conectado, puedes visitar <a href="{ $monitor }"> https://monitor.mozilla.org/ </a> para confirmar si tu dirección IP está enmascarada. Para más detalles, consultá <a href="{ $connected }"> ¿Cómo puedo saber si { -brand-name-mozilla-vpn } está conectado? </a>
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } muestra indicadores visuales de su estado actual tanto en la barra de herramientas como en la pantalla de inicio de la aplicación, lo que facilita saber si tu actividad en línea está protegida o no. Estos indicadores te permiten confirmar cuando tu navegación es privada y segura. Además, mientras estás conectado, podés visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> para confirmar si tu dirección IP está enmascarada. Para más detalles, consultá <a href="{ $connected }">¿Cómo puedo saber si { -brand-name-mozilla-vpn } está conectado?</a>
 vpn-download-faq-add-device = ¿Cómo agrego otro dispositivo?
