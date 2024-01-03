@@ -22,7 +22,7 @@ password-manager-with-a-free-mozilla-account = 您还可以使用<a href="{ $fxa
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = 您还可以使用<a href="{ $fxa }">免费的 { -brand-name-firefox } 账户</a>来在所有设备间安全同步密码。
 password-manager-password-autofill-for-easy-logins = 自动填写密码，让登录更轻松
-password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可以自动填写您保存的用户名和密码。如果您在一个网站上有多个登录信息，那么只需选择您想要使用的账户，即可填写对应账户的登录信息。
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可以自动填写您保存的用户名和密码。如果您在一个网站上有多条登录信息，那么只需选择您想要使用的账户，即可填写对应账户的登录信息。
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = { -brand-name-firefox } 显示网站登录表单的图片，显示着登录时可供选择的多个已保存账户。
 password-manager-import-passwords = 导入密码
