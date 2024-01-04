@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Jo ynternetferkear fersiferje: sadat gjinien op it
 vpn-download-faq-working = Hoe wit ik dat de VPN wurket?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } toant fisuele yndikatoaren fan de aktuele steat, sawol yn de arkbalke as yn it startskerm fan de tapassing, sadat jo maklik sjen kinne of jo online aktiviteiten beskerme binne of net. Mei dizze yndikatoaren kinne jo befêstigje oft jo navigaasje privee en feilich is. Boppedat kinne jo, wylst jo ferbûn binne, nei <a href="{ $monitor }">https://monitor.mozilla.org/</a> gean om te befêstigjen oft jo IP-adres maskearre is. Gean foar mear details nei <a href="{ $connected }">Hoe kin ik sjen oft { -brand-name-mozilla-vpn } ferbûn is?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } toant fisuele yndikatoaren fan de aktuele steat, sawol yn de arkbalke as yn it startskerm fan de tapassing, sadat jo maklik sjen kinne of jo online aktiviteiten beskerme binne of net. Mei dizze yndikatoaren kinne jo befêstigje oft jo navigaasje privee en feilich is. Boppedat kinne jo, wylst jo ferbûn binne, nei <a href="{ $monitor }">https://monitor.firefox.com/</a> gean om te befêstigjen oft jo IP-adres maskearre is. Gean foar mear details nei <a href="{ $connected }">Hoe kin ik sjen oft { -brand-name-mozilla-vpn } ferbûn is?</a>.
 vpn-download-faq-add-device = Hoe foegje ik noch in apparaat ta?
