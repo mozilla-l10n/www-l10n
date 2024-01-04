@@ -18,7 +18,7 @@ features-private-browsing-a-firefox-window-in-private = 處於隱私瀏覽模式
 features-private-browsing-what-private-browsing-doesnt-do = 隱私瀏覽模式不能做到什麼事？
 # Variables:
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
-features-private-browsing-private-browsing-mode-will-not = 隱私瀏覽模式不會刪除您在隱私瀏覽視窗建立的任何書籤也不會保護您不受惡意軟體與病毒的騷擾。也無法防止您造訪的網站得知您的實際所在地點或您的網路業者紀錄您的行為。為此您需要有 <a href="{ $vpn }">值得信賴的 VPN</a>。
+features-private-browsing-private-browsing-mode-will-not = 隱私瀏覽模式不會清除您在隱私瀏覽視窗中建立的書籤，也無法保護您不受惡意軟體與病毒的騷擾，或是防止您造訪的網站得知您實際所在地點，甚或是網路業者紀錄您的行為。為此您需要有一套<a href="{ $vpn }">值得信賴的 VPN</a>。
 # Variables:
 #   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = 比較 { -brand-name-firefox } 的隱私瀏覽模式與 <a href="{ $chrome }">Chrome 的無痕模式</a>。
