@@ -42,7 +42,7 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } 可�
 vpn-features-super-private-mode = 超隱私模式：讓流量透過兩個位置跳轉傳輸
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = 我們的<a { $feature }>多點跳轉功能</a>讓您的安全性進一步加強。
+vpn-features-multi-hop-feature = 我們的<a { $feature }>多點跳轉功能</a>可進一步加強您的安全性。
 vpn-features-support-for-custom-dns = 支援自訂 DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
@@ -62,7 +62,7 @@ vpn-features-plus-customer-support = 還有 7 天 24 小時的客戶支援。
 vpn-features-we-never-log = 我們永不記錄、追蹤或分享您的網路資料
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = 簡單來說我們不會收集您的個人瀏覽資訊。這是<a { $privacy }>易讀的隱私權保護政策</a>。
+vpn-features-simply-put-we-dont = 簡單說：我們不會收集您的個人上網資訊。以下是我們的<a { $privacy }>好讀版隱私權保護政策</a>。
 vpn-features-built-transparently = 以開放原始碼模式，透明地打造
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
