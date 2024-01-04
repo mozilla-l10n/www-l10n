@@ -53,7 +53,7 @@ vpn-download-faq-working = 我要如何知道 VPN 有正常運作？
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面視覺化顯示目前狀態讓您很簡單就能知道您的線上行為是否受到保護。這些指示器讓您可以確認自己的瀏覽模式是否安全。另外在連線時您可以到 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 確認 IP 地址是否被隱藏。若需更多資訊請參考<a href="{ $connected }">我要如何判斷 { -brand-name-mozilla-vpn } 是否已連線</a>。
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面當中以顯示目前狀態，讓您很簡單就能知道線上行為是否受到保護。這些標示讓您可以確認目前的上網連線是否安全。另外在連線時，您可以到 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 確認 IP 地址是否被隱藏。若需更多資訊，請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線？</a>。
 # Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
