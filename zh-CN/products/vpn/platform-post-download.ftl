@@ -53,12 +53,12 @@ vpn-download-faq-working = 如何知道 VPN 是否正常工作？
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 在工具栏和主屏幕中以可视化的方式显示当前状态。您可轻松了解您的在线活动是否受到保护。这些标记可让您确认您的导航是否私密且安全。此外您在联网的情况下可以访问 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 确认您的 IP 地址是否被伪装了。更多信息请参阅<a href="{ $connected }">我如何判断 { -brand-name-mozilla-vpn } 是否已连接</a>。
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何确认 { -brand-name-mozilla-vpn } 是否已连接</a>。
 # Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.firefox.com/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何判断 { -brand-name-mozilla-vpn } 是否已连接</a>。
+vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.firefox.com/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何确认 { -brand-name-mozilla-vpn } 是否已连接</a>。
 vpn-download-faq-add-device = 如何添加其他设备？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
