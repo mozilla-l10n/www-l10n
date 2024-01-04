@@ -10,7 +10,7 @@ features-private-browsing-private-browsing-mode = 隱私瀏覽模式
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } 隱私瀏覽模式
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } 保護您的線上隱私，並封鎖在不同網站間記錄您的行為的追蹤器。
-features-private-browsing-if-you-share-a-computer = 若您與他人共用一台電腦或者您想要限製網站收集關於您的資料多少可以使用 { -brand-name-firefox } 的隱私瀏覽模式。隱私瀏覽模式會清除您上網時留下的足跡 — 就像在樹上留下的足跡一樣。
+features-private-browsing-if-you-share-a-computer = 若您與其他人共用電腦，或者想要限制網站能收集您的資料，可以使用 { -brand-name-firefox } 的隱私瀏覽模式。隱私瀏覽模式會清除您上網時留下的足跡 — 就像在叢林裡留下的足跡一樣。
 features-private-browsing-what-does-private-browsing-do = 隱私瀏覽模式能做到什麼事？
 features-private-browsing-private-browsing-mode-opens = 隱私瀏覽模式會開啟新的瀏覽器視窗。關閉它時就會清除該視窗的上網紀錄以及來自造訪過網站的追踪 Cookie。 <strong>{ -brand-name-firefox } 專業秘訣:</strong>完成後別忘記關閉隱私瀏覽視窗
 # Used as an accessible text alternative for an image
