@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Duke fshehtëzuar trafikun tuaj internet: kështu,
 vpn-download-faq-working = Nga ta di që VPN-ja po funksionon?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } shfaq tregues pamorë të gjendjes së vet në një çast, si te paneli, ashtu dhe te skena e kreut për aplikacionin, duke e bërë të lehtë të dihet nëse veprimtaria juaj internetore është e mbrojtur apo jo. Këtë tregues ju lejojnë të siguroheni se kur shfletimi juaj është privat dhe i siguruar. Veç kësaj, kur jeni i lidhur, mund të vizitonit <a href="{ $monitor }">https://monitor.mozilla.com/</a> për t’u siguruar se adresa juaj IP është e maskuar. Për më tepër hollësi, ju lutemi, shihni <a href="{ $connected }">Si ta kuptoj se { -brand-name-mozilla-vpn } është e lidhur?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } shfaq tregues pamorë të gjendjes së vet në një çast, si te paneli, ashtu dhe te skena e kreut për aplikacionin, duke e bërë të lehtë të dihet nëse veprimtaria juaj internetore është e mbrojtur apo jo. Këtë tregues ju lejojnë të siguroheni se kur shfletimi juaj është privat dhe i siguruar. Veç kësaj, kur jeni i lidhur, mund të vizitonit <a href="{ $monitor }">https://monitor.firefox.com/</a> për t’u siguruar se adresa juaj IP është e maskuar. Për më tepër hollësi, ju lutemi, shihni <a href="{ $connected }">Si ta kuptoj se { -brand-name-mozilla-vpn } është e lidhur?</a>.
 vpn-download-faq-add-device = Si të shtoj pajisje tjetër?
