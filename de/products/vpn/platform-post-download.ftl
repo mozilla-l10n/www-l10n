@@ -53,10 +53,13 @@ vpn-download-faq-concealing-ip = Ihre wahre <a href="{ $ip }">IP-Adresse</a> wir
 vpn-download-faq-encrypting = Ihr Datenverkehr wird verschlüsselt: Niemand kann Ihren Online-Aktivitäten hinterherspionieren.
 vpn-download-faq-working = Woher weiß ich, dass das VPN funktioniert?
 
+
+# Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zeigt den aktuellen Status sowohl in der Symbolleiste als auch auf dem Home-Screen der App an. So haben Sie immer im Blick, ob Ihre Online-Aktivitäten geschützt sind oder nicht. So können Sie jederzeit prüfen, ob Ihre Navigation privat und sicher ist. Zusätzlich können Sie, während Sie online sind, <a href="{ $monitor }">https://monitor.firefox.com/</a> besuchen, um sicherzugehen, dass Ihre IP-Adresse maskiert ist. Für weitere Informationen lesen Sie bitte <a href="{ $connected }">Woher weiß ich, ob { -brand-name-mozilla-vpn } verbunden ist?</a>
+
 vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
 # Variables:

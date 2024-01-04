@@ -53,10 +53,13 @@ vpn-download-faq-concealing-ip = आपका वास्तविक <a href="
 vpn-download-faq-encrypting = आपके इंटरनेट ट्रैफ़िक को एन्क्रिप्ट करना: ताकि कोई भी वायर पर आपकी ऑनलाइन गतिविधि की जासूसी न कर सके।
 vpn-download-faq-working = मुझे कैसे पता चलेगा कि VPN काम कर रहा है?
 
+
+# Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } अपने मौजूदा स्टेटस के दिखाई देने वाले इंडिकेटर्स को, टूलबार और ऐप्लिकेशन की होम स्क्रीन दोनों पर प्रदर्शित करता है, जिससे यह जानना आसान हो जाता है कि आपकी ऑनलाइन गतिविधि वर्तमान में सुरक्षित है या नहीं। इन इंडिकेटर की मदद से आप यह पुष्टि कर सकते हैं कि आपका नेविगेशन इस समय निजी और सुरक्षित है या नहीं। इसके अतिरिक्त, कनेक्ट होने के दौरान, आप <a href="{ $monitor }">https://monitor.firefox.com/</a> पर जाकर यह पुष्टि कर सकते हैं कि आपका वास्तविक आईपी एड्रेस छिपा हुआ है या नहीं। अधिक विवरण के लिए, कृपया इसे देखें: <a href="{ $connected }">मैं कैसे बताऊं कि { -brand-name-mozilla-vpn } कनेक्ट है या नहीं?</a>
+
 vpn-download-faq-add-device = मैं कोई दूसरा डिवाइस कैसे जोड़ूं?
 
 # Variables:
