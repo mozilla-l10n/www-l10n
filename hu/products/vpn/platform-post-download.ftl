@@ -53,7 +53,7 @@ vpn-download-faq-working = Honnan tudhatom, hogy működik-e a VPN?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a visszajelzők lehetővé teszik annak megerősítését, hogy a navigációja privát és biztonságos-e. Továbbá, amíg csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.mozilla.org/</a> oldalt, hogy megerősítse, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy a { -brand-name-mozilla-vpn } csatlakozik-e?</a>
+vpn-download-faq-visual-indicators-v2 = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a jelzők lehetővé teszik annak ellenőrzését, hogy a böngészése privát és biztonságos-e. Továbbá, ha csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.mozilla.org/</a> oldalt, hogy megbizonyosodjon arról, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy csatlakozik-e a { -brand-name-mozilla-vpn }?</a>
 # Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
