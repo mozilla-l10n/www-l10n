@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Merrni { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bëhuni pjesë e Radhës
 vpn-shared-sign-in-link = Pajtimtar tashmë?
-# Obsolete string
-vpn-shared-available-countries-v5 = Aktualisht e ofrojmë { -brand-name-mozilla-vpn } në Austri, Belgjikë, Kanada, Britani të Madhe, Finlandë, Francë, Gjermani, Holandë, Irlandë, Itali, Kanada, Malajzi, ShBA, Singapor, Spanjë, Suedi, Zelandë të Re dhe Zvicër.
 vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } e ofrojmë aktualisht Austri, Belgjikë, Bullgari, Kanada, Kroaci, Qipro, Republikën Çeke, Danimarkë, Estoni, Finlandë, Francë, Gjermani, Hungari, Irlandë, Itali, Letoni, Lituani, Luksemburg, Malajzi, Maltë, Holandë, Zelandë të Re, Poloni, Portugali, Rumani, Singapor, Sllovaki, Slloveni, Spanjë, Suedi, Zvicër, Mbretëri të Bashkuar dhe Shtete të Bashkuara.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ditë garanci kthimi parash
@@ -65,11 +63,7 @@ vpn-shared-choose-a-plan-sub-heading = Zgjidhni një plan që ju bën punë
 vpn-shared-pricing-variable-sub-heading = Krejt planet tona përfshijnë:
 vpn-shared-pricing-recommended-offer = E këshilluar
 vpn-shared-pricing-plan-12-month-v2 = Plan 12 Muaj
-# Obsolete string
-vpn-shared-pricing-plan-12-month = 12 Muaj
 vpn-shared-pricing-plan-monthly-v2 = Plan mujor
-# Obsolete string
-vpn-shared-pricing-plan-monthly = Mujor
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/muaj</span>
@@ -77,12 +71,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/muaj</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + tax</span>
-# Obsolete string
-vpn-shared-pricing-get-6-month = Merrni planin për 6 muaj
-# Obsolete string
-vpn-shared-pricing-get-12-month = Merrni planin për 12 muaj
-# Obsolete string
-vpn-shared-pricing-get-6-month-v2 = Merrni planin për 6 muaj
 vpn-shared-pricing-get-12-month-v2 = Merrni planin për 12 muaj
 vpn-shared-pricing-get-monthly = Merrni planin mujor
 # Variables:
@@ -172,3 +160,14 @@ vpn-press-as-seen-in = Siç është parë në
 vpn-press-mozillas-vpn-can-also-integrate-into = “VPN-ja e { -brand-name-mozilla }-s mundet edhe <a { $attrs }>të integrohet në disa veçori të lezetshme mbrojtjeje privatësie</a> të shfletuesit të saj { -brand-name-firefox }.”
 vpn-press-unique-features-like-its-multi-account = “…veçori unike, b.f., Kontejner Shumë-Llogari, mund ta bëjnë veçorinë lehtësisht të përdorshme nga përdorues me shqetësim më serioz ndaj privatësisë.”
 vpn-press-mozilla-vpns-feature-list-has-grown = “Lista e veçorive të { -brand-name-mozilla-vpn } është shtuar ndjeshëm që nga hedhja në qarkullim dhe shërbimi tani, në disa fusha, mposht mjaft VPN të specializuara.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } aktualisht nuk ofrohet në { $language }, por mund ta përdorni në anglisht, frëngjisht, gjermanisht, spanjisht dhe <a { $href }>mbi 30 gjuhë të tjera</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Dëshironi të ndihmoni të sillet { -brand-name-mozilla-vpn } te më tepër vetë? <a { $href }>Bëhuni një përkthyes vullnetar</a>.
