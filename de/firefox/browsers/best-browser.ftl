@@ -34,7 +34,7 @@ best-browser-firefox-is-offering-v2 = { -brand-name-firefox } hat etwas neues en
 
 # Obsolete string
 # Variables:
-# $monitor (url) - link to https://monitor.firefox.com
+# $monitor (url) - link to https://monitor.mozilla.org
 best-browser-firefox-is-offering = { -brand-name-firefox } hat etwas neues entwickelt, das Ihrem Schutz dient: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Dabei handelt es sich um einen kostenlosen Dienst, der Sie in Kenntnis setzte, sollte ein Hack öffentlich werden, von dem Ihre Konten betroffen sind und informiert Sie auch darüber, wenn Ihre Konten in der Vergangenheit bereits gehackt wurden. Ein anderes tolles Feature ist das grüne Schloss. Das kleine grüne Icon befindet sich oben links im Browserfenster. Wenn Sie mit { -brand-name-firefox } im Internet unterwegs sind und das grüne Schloss sehen, bedeutet das, dass die Website sicher und verschlüsselt ist. Wenn das Schloss grau ist, sollten Sie sich doppelt überlegen, ob Sie sensible Daten preisgeben möchten.
 
 best-browser-we-visit-hundreds-or = Die meisten von uns besuchen täglich Hunderte oder sogar Tausende von Websites. Man kann von Nutzern nicht erwarten, dass sie für jede dieser Websites eine erneute Sicherheits- und Datenschutzentscheidung treffen. Deshalb ist ein Browser, der dir mehr Kontrolle und echten, sinnvollen Schutz bietet, so wichtig.

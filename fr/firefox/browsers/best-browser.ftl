@@ -34,7 +34,7 @@ best-browser-firefox-is-offering-v2 = { -brand-name-firefox } a plus d'une corde
 
 # Obsolete string
 # Variables:
-# $monitor (url) - link to https://monitor.firefox.com
+# $monitor (url) - link to https://monitor.mozilla.org
 best-browser-firefox-is-offering = { -brand-name-firefox } a plus d'une corde à son arc pour vous protéger : <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Il s'agit d'un service gratuit qui vous alerte en cas de fuite de données et vous informe si votre compte a déjà été piraté auparavant. Une autre fonctionnalité très pratique est le verrou vert. C'est la petite icône verte située dans le coin supérieur gauche de la fenêtre du navigateur. Si vous êtes sur { -brand-name-firefox } et que cette icône est verte, cela signifie que le site est sécurisé et chiffré. S’il est gris, réfléchissez à deux fois avant de soumettre vos informations personnelles.
 
 best-browser-we-visit-hundreds-or = Chaque jour, vous visitez des centaines de sites internet. Vous n’avez donc pas la capacité de régler les paramètres de sécurité et de respect de la vie privée pour chacun de ces sites. C’est pour ça qu’il est essentiel que votre navigateur vous donne plus de contrôle. Ainsi seulement peut-il vous offrir une véritable protection.

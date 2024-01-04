@@ -34,7 +34,7 @@ best-browser-firefox-is-offering-v2 = { -brand-name-firefox } menawarkan sesuatu
 
 # Obsolete string
 # Variables:
-# $monitor (url) - link to https://monitor.firefox.com
+# $monitor (url) - link to https://monitor.mozilla.org
 best-browser-firefox-is-offering = { -brand-name-firefox } menawarkan sesuatu yang baru untuk membuat Anda tetap aman: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Ini adalah layanan gratis yang akan memberi tahu Anda jika ada peretasan publik di akun Anda dan memberi tahu Anda jika akun tersebut pernah diretas di masa lalu. Fitur keren lainnya adalah Green Lock. Terlihat seperti ikon hijau kecil di sisi kiri atas jendela peramban. Jika Anda menggunakan { -brand-name-firefox } dan melihat kunci hijau, itu berarti situs web dienkripsi dan aman. Jika kunci berwarna abu-abu, Anda mungkin ingin berpikir dua kali untuk memasukkan informasi sensitif apa pun.
 
 best-browser-we-visit-hundreds-or = Kami mengunjungi ratusan atau bahkan ribuan situs web setiap hari, dan Anda tidak dapat mengharapkan pengguna untuk membuat keputusan keamanan dan privasi untuk masing-masing situs ini. Itulah sebabnya peramban yang memberi Anda lebih banyak kendali sangatlah penting - karena ia menawarkan perlindungan yang nyata dan bermakna.
