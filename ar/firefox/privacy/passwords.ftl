@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = يكمُن سر منع تخمين كلمة ا�
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = عندما يسرق مُهاجم قاعدة بيانات كلمة السر لموقع تستخدمه (مثل <a { $url_linkedin }>LinkedIn</a> أو <a { $url_yahoo }>Yahoo</a>)، ليس هناك ما يمكنك فعله سوى تغيير كلمة سر لهذا الموقع. هذا أمر سيء، ولكن الضرر يمكن أن يكون أسوأ بكثير إذا كنت قد أعدت استخدام كلمة السر هذه مع مواقع ويب أخرى — ثم يمكن للمهاجم الوصول إلى حساباتك على تلك المواقع أيضًا. لاحتواء الضرر، <strong>استخدم دائمًا كلمات مرور مختلفة لمواقع الويب المختلفة.</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = استخدم <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> لمراقبة عناوين البريد الإلكتروني المرتبطة بحساباتك. إذا ظهر عنوان بريدك الإلكتروني في أي خرق معروف لبيانات الشركة، فسيتم تنبيهك وتزويدك بالخطوات التي يجب اتباعها لحماية الحساب المتأثر.
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = استخدم <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> لمراقبة عناوين البريد الإلكتروني المرتبطة بحساباتك. إذا ظهر عنوان بريدك الإلكتروني في أي خرق معروف لبيانات الشركة، فسيتم تنبيهك وتزويدك بالخطوات التي يجب اتباعها لحماية الحساب المتأثر.
 
 privacy-passwords-security-questions-my = أسئلة الأمان: اسم والدتي قبل الزواج هو "Ff926AKa9j6Q"

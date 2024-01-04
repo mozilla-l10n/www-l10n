@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = Rahsia kepada mencegah tekaan, pencurian atau 
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Apabila penyerang mencuri pangkalan data kata laluan untuk laman web yang anda gunakan (seperti <a { $url_linkedin }>LinkedIn</a> atau <a { $url_yahoo }>Yahoo</a>), tidak ada lain yang boleh anda lakukan kecuali menukar kata laluan anda untuk laman web tersebut. Itu memang teruk, tetapi kerosakannya boleh menjadi lebih teruk jika anda menggunakan semula kata laluan itu pada laman web lain — kerana penyerang juga boleh mengakses akaun anda di laman web tersebut. Bagi membendung kerosakan, <strong>sentiasa gunakan kata laluan yang berbeza pada laman web yang berbeza.</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = Gunakan <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> untuk mengawasi alamat e-mel yang dikaitkan dengan akaun anda. Jika alamat e-mel anda muncul dalam kebocoran data korporat yang diketahui, anda akan dimaklumkan dan diberikan langkah-langkah untuk diikuti bagi melindungi akaun yang terjejas.
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Gunakan <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> untuk mengawasi alamat e-mel yang dikaitkan dengan akaun anda. Jika alamat e-mel anda muncul dalam kebocoran data korporat yang diketahui, anda akan dimaklumkan dan diberikan langkah-langkah untuk diikuti bagi melindungi akaun yang terjejas.
 
 privacy-passwords-security-questions-my = Soalan Keselamatan: Nama ibu saya ialah "Ff926AKa9j6Q"

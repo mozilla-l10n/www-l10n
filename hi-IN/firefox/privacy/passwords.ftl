@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = क्रमरहित पासवर्ड
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = जब कोई हमलावर आपके द्वारा उपयोग की जाने वाली साइट (जैसे <a { $url_linkedin }>LinkedIn</a> या <a { $url_yahoo }>Yahoo</a>) के लिए पासवर्ड डेटाबेस चुराता है, तो आपके पास उस साइट के लिए अपना पासवर्ड बदलने के अलावा कोई विकल्प नहीं होता है। यह बुरा है, लेकिन नुकसान बहुत बुरा हो सकता है यदि आपने उस पासवर्ड को अन्य वेबसाइटों के साथ फिर से उपयोग किया है - तो हमलावर उन साइटों पर भी आपके एकाउंट तक पहुँच सकता है। नुकसान कम करने के लिए, <strong>हमेशा विभिन्न वेबसाइटों के लिए अलग-अलग पासवर्ड का उपयोग करें।</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = अपने एकाउंट से जुड़े ईमेल पतों पर नज़र रखने के लिए <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> का उपयोग करें। यदि आपका ईमेल पता किसी ज्ञात कॉर्पोरेट डेटा उल्लंघन में दिखाई देता है, तो आपको सूचना दी जाएगी और प्रभावित एकाउंट की सुरक्षा के लिए चरण सुझाए जाएँगे।
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = अपने एकाउंट से जुड़े ईमेल पतों पर नज़र रखने के लिए <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> का उपयोग करें। यदि आपका ईमेल पता किसी ज्ञात कॉर्पोरेट डेटा उल्लंघन में दिखाई देता है, तो आपको सूचना दी जाएगी और प्रभावित एकाउंट की सुरक्षा के लिए चरण सुझाए जाएँगे।
 
 privacy-passwords-security-questions-my = सुरक्षा प्रश्न : मेरी माता का नाम "Ff926AKa9j6Q" है

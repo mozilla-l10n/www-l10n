@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = Das Geheimnis, um Erraten, Diebstahl oder das 
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Wenn ein Angreifer die Passwortdatenbank für eine von Ihnen verwendete Website stiehlt (z. B. <a { $url_linkedin }>LinkedIn</a> oder <a { $url_yahoo }>Yahoo</a>), können Sie nur Ihr Passwort für diese Website ändern. Das ist schlimm, aber der Schaden kann viel schlimmer sein, wenn Sie dieses Passwort auf anderen Websites wiederverwendet haben. Dann kann der Angreifer auch auf diese Konten auf diesen Websites zugreifen. Verwenden Sie <strong>immer unterschiedliche Passwörter für unterschiedliche Websites, um den Schaden einzudämmen.</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = Verwenden Sie <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a>, um die mit Ihren Konten verknüpften E-Mail-Adressen im Auge zu behalten. Wenn Ihre E-Mail-Adresse bei einem bekannten Datenleck von Unternehmen bekannt wird, werden Sie benachrichtigt und erhalten Schritte zum Schutz des betroffenen Kontos.
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Verwenden Sie <a { $url_monitor }>{ -brand-name-firefox-monitor }</a>, um die mit Ihren Konten verknüpften E-Mail-Adressen im Auge zu behalten. Wenn Ihre E-Mail-Adresse bei einem bekannten Datenleck von Unternehmen bekannt wird, werden Sie benachrichtigt und erhalten Schritte zum Schutz des betroffenen Kontos.
 
 privacy-passwords-security-questions-my = Sicherheitsfragen: Der Mädchenname meiner Mutter lautet „Ff926AKa9j6Q“.

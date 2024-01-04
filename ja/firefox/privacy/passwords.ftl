@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = パスワードを推測や盗難、リセッ�
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = ウェブサイト (<a { $url_linkedin }>LinkedIn</a> や <a { $url_yahoo }>Yahoo</a> など) のパスワードのデータベースを攻撃者が盗んだ場合、そのウェブサイトのユーザーには、そのウェブサイトで自分が使用しているパスワードを変更する以外になすすべはありません。それだけでも大問題ですが、そのパスワードを別のウェブサイトでも使用している場合、攻撃者はそうした別のウェブサイトにもアクセスできるため、問題ははるかに大きくなります。被害を阻止するため、<strong>必ず各ウェブサイトでそれぞれ異なるパスワードを使用しましょう。</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
 
 privacy-passwords-security-questions-my = セキュリティの質問: 自分の母親の婚前の苗字は「Ff926AKa9j6Q」

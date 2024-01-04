@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = Le secret pour éviter que vos mots de passe n
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Lorsqu’un pirate vole la base de données de mots de passe d’un site que vous utilisez (comme <a { $url_linkedin }>LinkedIn</a> ou <a { $url_yahoo }>Yahoo</a>), vous ne pouvez rien faire d’autre que de modifier votre mot de passe pour ce site. C’est grave, mais les dégâts peuvent être bien pires si vous avez réutilisé ce mot de passe sur d’autres sites Web, car le pirate peut alors accéder à vos comptes sur ces sites également. Pour éviter le pire, <strong>utilisez toujours des mots de passe différents pour différents sites Web</strong>.
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = Utilisez <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> pour garder un œil sur les adresses e-mail associées à vos comptes. Si votre adresse e-mail apparaît dans une fuite de données d’entreprise connue, vous serez alerté·e et informé·e des étapes à suivre pour protéger le compte concerné.
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Utilisez <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> pour garder un œil sur les adresses e-mail associées à vos comptes. Si votre adresse e-mail apparaît dans une fuite de données d’entreprise connue, vous serez alerté·e et informé·e des étapes à suivre pour protéger le compte concerné.
 
 privacy-passwords-security-questions-my = Questions de sécurité : le nom de jeune fille de ma mère est « Ff926AKa9j6Q »

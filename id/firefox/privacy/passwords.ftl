@@ -47,11 +47,11 @@ privacy-passwords-the-secret-to = Rahasia untuk mencegah tebakan, pencurian, ata
 #   $url_yahoo (string) - link to https://www.wired.com/2016/12/yahoo-hack-billion-users/ with additional attributes for analytics
 privacy-passwords-when-an-attacker = Ketika penyerang mencuri basis data kata sandi untuk situs yang Anda gunakan (seperti <a { $url_linkedin }>LinkedIn</a> dan <a { $url_yahoo }>Yahoo</a>), tidak ada yang dapat Anda lakukan selain mengubah kata sandi untuk situs tersebut. Itu buruk, tapi kerusakannya akan jauh lebih buruk lagi jika Anda menggunakan kembali kata sandi itu di situs web lain — maka penyerang juga dapat mengakses akun Anda di situs tersebut. Untuk mencegah kerugian, <strong>selalu gunakan kata sandi berbeda untuk situs web yang berbeda.</strong>
 
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = Gunakan <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
 
 # Obsolete string
-#   $url_monitor (string) - link to https://monitor.firefox.com/ with additional attributes for analytics
+#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-firefox-monitor = Gunakan <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
 
 privacy-passwords-security-questions-my = Pertanyaan Keamanan: Nama gadis ibu saya adalah “Ff926AKa9j6Q”
