@@ -53,7 +53,7 @@ vpn-download-faq-working = Как я узнаю, что VPN работает?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } отображает визуальные индикаторы своего текущего статуса как на панели инструментов, так и на главном экране приложения, позволяя легко узнать, защищена ли ваша активность в Интернете или нет. Эти индикаторы позволяют вам подтвердить, что ваша навигация является приватной и безопасной. Кроме того, при подключении вы можете посетить <a href="{ $monitor }">https://monitor.mozilla.org/</a>, чтобы убедиться, что ваш IP-адрес замаскирован. Для получения дополнительной информации, пожалуйста, обратитесь к <a href="{ $connected }">Как узнать, подключен ли { -brand-name-mozilla-vpn }?</a>.
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } отображает визуальные индикаторы своего текущего статуса как на панели инструментов, так и на главном экране приложения, позволяя легко узнать, защищена ли ваша активность в Интернете или нет. Эти индикаторы позволяют вам подтвердить, что ваш просмотр конфиденциален и безопасен. Кроме того, при подключении вы можете посетить <a href="{ $monitor }">https://monitor.mozilla.org/</a>, чтобы убедиться, что ваш IP-адрес замаскирован. Для получения дополнительной информации, пожалуйста, прочитайте статью <a href="{ $connected }">Как узнать, подключен ли { -brand-name-mozilla-vpn }?</a>.
 # Obsolete string
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
