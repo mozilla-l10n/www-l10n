@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Mã hóa lưu lượng truy cập internet của b
 vpn-download-faq-working = Làm cách nào để biết VPN đang hoạt động?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } hiển thị các chỉ số trực quan về trạng thái hiện tại của nó cả trên thanh công cụ và màn hình chính của ứng dụng, giúp bạn dễ dàng biết liệu hoạt động trực tuyến của mình có được bảo vệ hay không. Các chỉ báo này cho phép bạn xác nhận khi điều hướng của bạn ở chế độ riêng tư và an toàn. Ngoài ra, khi được kết nối, bạn có thể truy cập <a href="{ $monitor }">https://monitor.mozilla.org/</a> để xác nhận xem địa chỉ IP của bạn đã được ẩn hay chưa. Để biết thêm chi tiết, vui lòng xem <a href="{ $connected }">Làm thế nào để tôi biết { -brand-name-mozilla-vpn } đã được kết nối hay chưa?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } hiển thị các chỉ số trực quan về trạng thái hiện tại của nó cả trên thanh công cụ và màn hình chính của ứng dụng, giúp bạn dễ dàng biết liệu hoạt động trực tuyến của mình có được bảo vệ hay không. Các chỉ báo này cho phép bạn xác nhận khi điều hướng của bạn ở chế độ riêng tư và an toàn. Ngoài ra, khi được kết nối, bạn có thể truy cập <a href="{ $monitor }">https://monitor.firefox.com/</a> để xác nhận xem địa chỉ IP của bạn có bị ẩn hay không. Để biết thêm chi tiết, vui lòng xem <a href="{ $connected }">Làm cách nào để biết { -brand-name-mozilla-vpn } đã được kết nối hay chưa?</a>.
 vpn-download-faq-add-device = Làm thế nào để tôi thêm thiết bị khác?
