@@ -14,12 +14,12 @@ compare-chrome-we-compare-mozilla-firefox = Wir vergleichen { -brand-name-mozill
 compare-chrome-comparing-firefox-browser = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-google } { -brand-name-chrome }
 
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-v2 = Bei { -brand-name-firefox } gibt es eine große Anzahl engagierter Nutzer, die unser unerschütterliches Engagement und unseren Einsatz für den Datenschutz schätzen. Zum Beispiel enthält die neuste Version von { -brand-name-firefox } ein Feature namens „Verbesserter Tracking-Schutz“ (Enhanced Tracking Protection, ETP), der für alle Nutzer weltweit automatisch aktiviert ist. ETP blockiert über 2.000 Tracker, darunter Tracker von sozialen Plattformen von Unternehmen wie Facebook, Twitter und LinkedIn. Außerdem gibt es ein integriertes Feature namens <a { $attrs }>{ -brand-name-mozilla-monitor }</a>, das Sie automatisch benachrichtigt, wenn Ihr Passwort geleakt wurde oder aktualisiert werden muss. Zusätzlich zu diesen Schutzvorkehrungen gibt es den privaten Modus bei { -brand-name-firefox }, der automatisch Ihre Browserdaten, wie etwa den Verlauf und Cookies, löscht. So sind Ihre Fußabdrücke verwischt, wenn Sie Ihre Session beenden.
 
 # Obsolete string
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = Bei { -brand-name-firefox } gibt es eine große Anzahl engagierter Nutzer, die unsere Standhaftigkeit und unseren Einsatz für den Datenschutz schätzen. Zum Beispiel enthält die neuste Version von { -brand-name-firefox } ein Feature namens „Verbesserter Tracking-Schutz“ (Enhanced Tracking Protection, ETP), der für alle Nutzer weltweit automatisch aktiviert ist. ETP blockt über 2000 Tracker, darunter Tracker von sozialen Plattformen von Unternehmen wie { -brand-name-facebook }, { -brand-name-twitter } und LinkedIn. Außerdem gibt es ein integriertes Feature namens <a { $attrs }>{ -brand-name-firefox-monitor },</a> das Sie automatisch benachrichtigt, wenn Ihr Passwort geleakt wurde oder aktualisiert werden muss. Zusätzlich zu diesen Schutzvorkehrungen gibt es den privaten Modus bei { -brand-name-firefox }, der automatisch Ihre Browserdaten, wie etwa den Verlauf und Cookies, löscht. So sind Ihre Fußabdrücke verwischt, wenn Sie Ihre Session beenden.
 
 # Variables:

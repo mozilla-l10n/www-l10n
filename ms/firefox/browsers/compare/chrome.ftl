@@ -14,12 +14,12 @@ compare-chrome-we-compare-mozilla-firefox = Kami membandingkan { -brand-name-moz
 compare-chrome-comparing-firefox-browser = Perbandingan { -brand-name-firefox-browser } dengan { -brand-name-google } { -brand-name-chrome }
 
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-v2 = Di { -brand-name-firefox }, kami mempunyai jumlah pengguna besar yang menghargai dedikasi kami bagi privasi dalam talian. Contohnya, versi terkini { -brand-name-firefox } merangkumi ciri yang dinamakan Perlindungan Penjejakan Dipertingkatkan (ETP) yang dihidupkan secara lalai untuk pengguna di seluruh dunia. ETP menyekat lebih 2000 penjejak, termasuk penjejak sosial daripada Facebook, Twitter dan LinkedIn. Ia juga memiliki ciri bersepadu yang dinamakan <a { $attrs }>{ -brand-name-mozilla-monitor }</a> yang memberitahu anda secara automatik jika kata laluan anda telah diceroboh atau perlu dikemas kini. Sebagai tambahan kepada perlindungan ini, mod Pelayaran Peribadi dalam { -brand-name-firefox } akan memadamkan maklumat pelayaran anda secara automatik seperti sejarah dan kuki, tanpa meninggalkan jejak setelah anda menamatkan sesi.
 
 # Obsolete string
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = Di { -brand-name-firefox }, kami mempunyai sebilangan besar pengguna khusus yang menghargai dedikasi kami yang berterusan terhadap privasi dalam talian. Sebagai contoh, versi terkini { -brand-name-firefox } merangkumi ciri yang dinamakan Perlindungan Penjejakan Dipertingkatkan (ETP) yang dihidupkan secara lalai untuk semua pengguna di seluruh dunia. ETP menyekat lebih daripada 2,000 penjejak, termasuk penjejak sosial daripada syarikat seperti { -brand-name-facebook }, { -brand-name-twitter } dan LinkedIn. Ia juga memiliki ciri bersepadu yang dinamakan <a { $attrs }>{ -brand-name-firefox-monitor }</a> yang secara automatik memberi tahu anda jika kata laluan anda telah diceroboh atau perlu dikemas kini. Sebagai tambahan kepada perlindungan ini, mod Pelayaran Peribadi di { -brand-name-firefox } secara automatik akan memadamkan maklumat pelayaran anda seperti sejarah dan kuki, tanpa meninggalkan jejak setelah anda menyelesaikan sesi anda.
 
 # Variables:

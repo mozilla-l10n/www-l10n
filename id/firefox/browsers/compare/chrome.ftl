@@ -14,12 +14,12 @@ compare-chrome-we-compare-mozilla-firefox = Kami membandingkan { -brand-name-moz
 compare-chrome-comparing-firefox-browser = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-google } { -brand-name-chrome }
 
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-v2 = Di { -brand-name-firefox }, ada banyak pengguna yang menghargai dedikasi kami terhadap privasi daring. Sebagai contoh, { -brand-name-firefox } versi terbaru memiliki fitur yang disebut Perlindungan Pelacakan yang Ditingkatkan (ETP) yang aktif secara default untuk semua pengguna di seluruh dunia. ETP memblokir lebih dari 2.000 pelacak, termasuk pelacak media sosial dari berbagai perusahaan seperti Facebook, Twitter, dan LinkedIn. Firefox juga memiliki fitur bawaan seperti <a { $attrs }>{ -brand-name-mozilla-monitor }</a> yang otomatis memberi tahu Anda jika sandi Anda telah bocor atau perlu diperbarui. Selain perlindungan tersebut, mode Penjelajahan Pribadi di { -brand-name-firefox } secara otomatis menghapus informasi penjelajahan Anda seperti riwayat dan kuki, sehingga tidak ada jejak yang ditinggalkan setelah Anda selesai berselancar.
 
 # Obsolete string
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = Di { -brand-name-firefox }, ada banyak pengguna yang menghargai dedikasi kami terhadap privasi daring. Sebagai contoh, { -brand-name-firefox } versi terbaru memiliki fitur yang disebut Perlindungan Pelacakan yang Ditingkatkan (ETP) yang aktif secara default untuk semua pengguna di seluruh dunia. ETP memblokir lebih dari 2.000 pelacak, termasuk pelacak media sosial dari berbagai perusahaan seperti { -brand-name-facebook }, { -brand-name-twitter }, dan LinkedIn. Firefox juga memiliki fitur bawaan seperti <a { $attrs }>{ -brand-name-firefox-monitor }</a> yang otomatis memberi tahu Anda jika sandi Anda telah bocor atau perlu dimutakhirkan. Selain perlindungan tersebut, mode Penjelajahan Pribadi di { -brand-name-firefox } secara otomatis menghapus informasi penjelajahan Anda seperti riwayat dan kuki, sehingga tidak ada jejak yang ditinggalkan setelah Anda selesai berselancar.
 
 # Variables:

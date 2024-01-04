@@ -14,12 +14,12 @@ compare-chrome-we-compare-mozilla-firefox = हम { -brand-name-mozilla } { -br
 compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser } और { -brand-name-google } { -brand-name-chrome } की तुलना
 
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge-v2 = { -brand-name-firefox } में, हमारे पास समर्पित यूज़र्स की एक बड़ी संख्या है जो ऑनलाइन निजता के लिए हमारे दृढ़ समर्पण की सराहना करते हैं। उदाहरण के लिए, { -brand-name-firefox } के नवीनतम संस्करण में उन्नत ट्रैकिंग सुरक्षा (ETP) नामक एक फ़ीचर शामिल है, जो दुनिया भर में डिफ़ॉल्ट रूप से सभी यूज़र्स के लिए चालू है। ETP द्वारा 2,000 से अधिक ट्रैकर्स को ब्लॉक किया जाता है, जिसमें Facebook, Twitter और LinkedIn जैसी कंपनियों के सोशल ट्रैकर्स शामिल हैं। इसमें <a { $attrs }>{ -brand-name-mozilla-monitor }</a> नामक एक इंटीग्रेटेड फ़ीचर भी है जो स्वतः आपको सूचित करता है कि आपका पासवर्ड लीक हो गया है या उसे अपडेट करने की आवश्यकता है। इन सुरक्षाओं के अलावा, { -brand-name-firefox } में प्राइवेट ब्राउज़िंग मोड आपकी ब्राउज़िंग जानकारी जैसे हिस्ट्री और कुकीज़ को स्वतः हटा देता है, जिससे आप अपना सत्र समाप्त करने के बाद कोई निशान नहीं छोड़ते हैं।
 
 # Obsolete string
 # Variables:
-#   $attrs (string) - link to https://monitor.firefox.com with additional attributes for analytics
+#   $attrs (string) - link to https://monitor.mozilla.org with additional attributes for analytics
 compare-chrome-at-firefox-we-have-a-huge = { -brand-name-firefox } में, हमारे पास समर्पित उपयोगकर्ताओं की एक बड़ी संख्या है जो ऑनलाइन निजता के लिए हमारे दृढ़ समर्पण की सराहना करते हैं। उदाहरण के लिए, { -brand-name-firefox } के नवीनतम संस्करण में उन्नत ट्रैकिंग सुरक्षा (ETP)नामक एक सुविधा शामिल है, जो दुनिया भर में सभी उपयोगकर्ताओं के लिए डिफ़ॉल्ट रूप से चालू है। 2,000 से अधिक ट्रैकरों को उन्नत ट्रैकिंग सुरक्षा अवरुद्ध कर देती है, जिसमें { -brand-name-facebook }, { -brand-name-twitter }, और LinkedIn जैसी कंपनियों से सामाजिक ट्रैकर शामिल हैं। इसमें <a { $attrs }>{ -brand-name-firefox-monitor }</a> नामक एक एकीकृत सुविधा भी है जो स्वतः आपको सूचित करती है कि आपका पासवर्ड लीक हो गया है या उसे अपडेट करने की आवश्यकता है। इन सुरक्षाओं के अलावा, { -brand-name-firefox } में निजी ब्राउज़िंग मोड आपकी ब्राउज़िंग जानकारी जैसे इतिहास और कुकीज़ को स्वतः हटा देता है, जिससे आप अपना सत्र समाप्त करने के बाद कोई निशान नहीं छोड़ते हैं।
 
 # Variables:
