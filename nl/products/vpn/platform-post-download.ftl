@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Uw internetverkeer versleutelen: zodat niemand op 
 vpn-download-faq-working = Hoe weet ik of de VPN werkt?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } toont visuele indicatoren van de huidige status, zowel in de werkbalk als in het startscherm van de toepassing, zodat u gemakkelijk kunt zien of uw online activiteiten beschermd zijn of niet. Met deze indicatoren kunt u bevestigen of uw navigatie privé en veilig is. Bovendien kunt u, terwijl u verbonden bent, naar <a href="{ $monitor }">https://monitor.mozilla.org/</a> gaan om te bevestigen of uw IP-adres gemaskeerd is. Ga voor meer details naar <a href="{ $connected }">Hoe kan ik zien of { -brand-name-mozilla-vpn } is verbonden?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } toont visuele indicatoren van de huidige status, zowel in de werkbalk als in het startscherm van de toepassing, zodat u gemakkelijk kunt zien of uw online activiteiten beschermd zijn of niet. Met deze indicatoren kunt u bevestigen of uw navigatie privé en veilig is. Bovendien kunt u, terwijl u verbonden bent, naar <a href="{ $monitor }">https://monitor.firefox.com/</a> gaan om te bevestigen of uw IP-adres gemaskeerd is. Ga voor meer details naar <a href="{ $connected }">Hoe kan ik zien of { -brand-name-mozilla-vpn } is verbonden?</a>.
 vpn-download-faq-add-device = Hoe voeg ik nog een apparaat toe?
