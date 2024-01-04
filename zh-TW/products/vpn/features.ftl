@@ -46,7 +46,7 @@ vpn-features-multi-hop-feature = 我們的<a { $feature }>多點跳轉功能</a>
 vpn-features-support-for-custom-dns = 支援自訂 DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
-vpn-features-keep-traffic-protected = 透過 { -brand-name-mozilla-vpn }您可以在保護網路流量的同時將 DNS 查詢轉發到任何您想要的地方。 <a { $dns }>了解更多關於自訂 DNS 的支援</a>。
+vpn-features-keep-traffic-protected = 您可以透過 { -brand-name-mozilla-vpn }，在保護網路流量的同時將 DNS 查詢轉送到任何想要的伺服器。 <a { $dns }>了解有關自訂 DNS 功能的更多資訊</a>。
 vpn-features-flexible = 靈活
 vpn-features-personalized-server = 個人化的伺服器位置建議
 vpn-features-well-suggest-which-servers = 我們會建議您附近的哪些伺服器能夠提供最快、最可靠的網路連線。
