@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Cryptante tu traffico internet: assi nemo sur le f
 vpn-download-faq-working = Como sape io si le VPN functiona?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } monstra indicatores visual de su stato actual, sia in le barra del instrumentos que in le pagina initial del application, rendente facile saper si tu activitate online es protegite o non. Iste indicatores te permitte de confirmar quando tu navigation es private e secur. In addition, per le connexion, tu pote visitar <a href="{ $monitor }">https://monitor.mozilla.org/</a> pro confirmar si tu adresse IP es disguisate. Pro altere detalios, vide <a href="{ $connected }">Como pote io dicer si { -brand-name-mozilla-vpn } es connectite?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } monstra indicatores visual de su stato actual, sia in le barra del instrumentos que in le pagina initial del application, rendente facile saper si tu activitate online es protegite o non. Iste indicatores te permitte de confirmar quando tu navigation es private e secur. In addition, per le connexion, tu pote visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> pro confirmar si tu adresse IP es disguisate. Pro altere detalios, vide <a href="{ $connected }">Como pote io dicer si { -brand-name-mozilla-vpn } es connectite?</a>.
 vpn-download-faq-add-device = Como adde io un altere apparato?
