@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Šifruje váš internetový prenos: takže nikto n
 vpn-download-faq-working = Ako zistím, že VPN funguje?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } zobrazuje vizuálne indikátory svojho aktuálneho stavu na paneli s nástrojmi aj na domovskej obrazovke aplikácie, čo uľahčuje zistenie, či je vaša online aktivita chránená alebo nie. Tieto indikátory vám umožňujú potvrdiť, či je vaša navigácia súkromná a zabezpečená. Okrem toho, keď ste pripojení, môžete navštíviť stránku <a href="{ $monitor }">https://monitor.mozilla.org/</a> a overiť si, či je vaša IP adresa maskovaná. Ďalšie podrobnosti nájdete v časti <a href="{ $connected }">Ako zistím, či je { -brand-name-mozilla-vpn } pripojená?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zobrazuje vizuálne indikátory svojho aktuálneho stavu na paneli s nástrojmi aj na domovskej obrazovke aplikácie, čo uľahčuje zistenie, či je vaša online aktivita chránená alebo nie. Tieto indikátory vám umožňujú potvrdiť, či je vaša navigácia súkromná a zabezpečená. Okrem toho, keď ste pripojení, môžete navštíviť stránku <a href="{ $monitor }">https://monitor.firefox.com/</a> a overiť si, či je vaša IP adresa maskovaná. Ďalšie podrobnosti nájdete v časti <a href="{ $connected }">Ako zistím, či je { -brand-name-mozilla-vpn } pripojená?</a>.
 vpn-download-faq-add-device = Ako pridám ďalšie zariadenie?
