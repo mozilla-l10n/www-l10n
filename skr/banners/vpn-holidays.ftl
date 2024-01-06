@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+banner-vpn-holidays-title = { -brand-name-mozilla-vpn }
 banner-vpn-holidays-get-annual-sub = سالانہ سبسکرپشن گھنو
