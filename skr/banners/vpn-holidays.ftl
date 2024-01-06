@@ -6,4 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-holidays-title = { -brand-name-mozilla-vpn }
+# Variables:
+#   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'HOLIDAY20'.
+banner-vpn-holidays-use-coupon-code = چیک آؤٹ تے کوڈ { $coupon_code } ورتو
 banner-vpn-holidays-get-annual-sub = سالانہ سبسکرپشن گھنو
