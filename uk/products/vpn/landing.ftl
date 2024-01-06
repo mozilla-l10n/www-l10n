@@ -43,7 +43,7 @@ vpn-landing-faq-info-question-heading = Які дані зберігає { -bran
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Ми суворо дотримуємося <a href="{ $principles }">принципів приватності даних</a> { -brand-name-mozilla } і збираємо дані, необхідні для підтримки роботи VPN та вдосконалення продукту з плином часу. Ми також відстежуємо дані про кампанії та реферальні дані у нашому мобільному застосунку, щоб допомогти { -brand-name-mozilla } зрозуміти ефективність наших маркетингових кампаній. Докладніше читайте в нашій <a href="{ $notice }">Примітці про приватність</a>.
+vpn-landing-faq-info-question-desc-v2 = Ми суворо дотримуємося <a href="{ $principles }">принципів приватності даних</a> { -brand-name-mozilla } і збираємо дані, необхідні для підтримки роботи VPN та вдосконалення продукту з плином часу. Ми також відстежуємо дані про кампанії та реферальні дані у нашому мобільному застосунку, щоб допомогти { -brand-name-mozilla } зрозуміти ефективність наших маркетингових кампаній. Докладніше читайте в нашому <a href="{ $notice }">Положенні про приватність</a>.
 vpn-landing-faq-protected-question-heading = Як захищається моя приватність?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/

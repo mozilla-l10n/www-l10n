@@ -33,7 +33,7 @@ privacy-faq-okay-those-first-few-were-softballs = Гаразд, попередн
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } типово збирає обмежену кількість даних з { -brand-name-firefox }, які допомагають нам зрозуміти, як люди користуються браузером. Ці дані прив'язані до випадкового ідентифікатора, а не до вашого імені чи адреси електронної пошти. Ви можете дізнатися більше про це, ознайомившись з нашими <a href="{ $privacy }">примітками про приватність</a>, а також можете прочитати <a href="{ $data }">документацію про збирання й обробку даних</a>.
+privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } типово збирає обмежену кількість даних з { -brand-name-firefox }, які допомагають нам зрозуміти, як люди користуються браузером. Цим даним присвоюється випадковий ідентифікатор, а не ваше ім'я чи адреса електронної пошти. Ви можете дізнатися більше про це, ознайомившись з нашим <a href="{ $privacy }">Положенням про приватність</a>, а також можете прочитати <a href="{ $data }">документацію про збирання й обробку даних</a>.
 privacy-faq-we-make-our-documentation-public = Ми зберігаємо нашу документацію загальнодоступною, щоб будь-хто міг перевірити й переконатися, що наші слова відповідають дійсності та упевнитися, що ми нічого не приховуємо, а також надавати свої пропозиції для вдосконалення.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Ваша документація є складною для розуміння! Чи не могли б ви викласти її зрозумілою, простою мовою?

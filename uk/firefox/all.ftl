@@ -27,7 +27,7 @@ firefox-all-download-the-firefox = Завантажте { -brand-name-firefox-br
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Кожен заслуговує доступу до інтернету — ваша мова ніколи не повинна бути обмеженням. Ось чому завдяки допомозі відданих волонтерів у всьому світі ми зробили { -brand-name-firefox-browser } доступним понад 90 мовами.
 firefox-all-choose-which-firefox = Оберіть і завантажте { -brand-name-firefox-browser } вашою мовою
-firefox-all-firefox-privacy-notice = Повідомлення про приватність { -brand-name-firefox }
+firefox-all-firefox-privacy-notice = Положення про приватність { -brand-name-firefox }
 firefox-all-learn-about-firefox = Дізнайтеся про браузери { -brand-name-firefox }
 firefox-all-the-standard-firefox = Стандартний браузер { -brand-name-firefox } — швидкий і приватний. Якщо ви не впевнені, який { -brand-name-firefox } вибрати, оберіть цей.
 firefox-all-get-a-sneak-peek-at = Ознайомтеся з новими функціями браузера { -brand-name-firefox }, перш ніж вони будуть випущені.

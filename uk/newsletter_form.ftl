@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Будь ласка, введіть дійсну адресу електронної пошти
-newsletter-form-you-must-agree-to = Ви повинні погодитися з повідомленням про приватність
+newsletter-form-you-must-agree-to = Ви повинні погодитися з Положенням про приватність
 newsletter-form-your-email-address = Ваша адреса електронної пошти
 newsletter-form-we-are-sorry-but-there = Нам шкода, але виникла проблема з нашою системою. Будь ласка, спробуйте пізніше!
 newsletter-form-please-select-country = Виберіть країну або регіон
@@ -19,7 +19,7 @@ newsletter-form-text = Текст
 newsletter-form-get-firefox-news = Отримувати новини { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Я погоджуюсь з тим, як { -brand-name-mozilla } поводиться з моїми даними згідно з <a href="{ $url }">цим повідомленням про приватність</a>
+newsletter-form-im-okay-with-mozilla = Я погоджуюся з тим, як { -brand-name-mozilla } поводиться з моїми даними згідно з <a href="{ $url }">цим Положенням про приватність</a>
 newsletter-form-we-will-only-send = Ми будемо надсилати вам лише інформацію, яка стосується { -brand-name-mozilla }.
 newsletter-form-we-will-only-send-firefox = Ми надсилатимемо вам лише відомості, які стосуються { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Якщо ви раніше не підтвердили підписку на новини від { -brand-name-mozilla }, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.

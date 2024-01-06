@@ -8,7 +8,7 @@ fxa-form-enter-your-email-v2 = <strong>Введіть адресу е-пошти
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Продовжуючи, ви погоджуєтесь з <a href="{ $url1 }">Умовами користування</a> і <a href="{ $url2 }">Політикою приватності</a>.
+fxa-form-by-proceeding = Продовжуючи, ви погоджуєтеся з <a href="{ $url1 }">Умовами надання послуг</a> і <a href="{ $url2 }">Положенням про приватність</a>.
 fxa-form-email-address = Адреса е-пошти
 fxa-form-continue = Продовжити
 fxa-form-create-account = Створити обліковий запис

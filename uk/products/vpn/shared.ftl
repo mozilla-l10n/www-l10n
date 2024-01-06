@@ -51,7 +51,7 @@ vpn-shared-features-connect = Під'єднайте до { $devices } прист
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Гарантоване повернення коштів упродовж 30 днів
 vpn-shared-refund-policy = Політика повернення коштів
-vpn-shared-privacy-notice = Повідомлення про приватність
+vpn-shared-privacy-notice = Положення про приватність
 vpn-shared-terms-conditions = Правила та умови
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } — це зареєстрована торговельна марка Джейсона А. Доненфельда
 
