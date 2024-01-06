@@ -9,7 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = Účet nie je povinný, ale mohol by sa vám zísť.
-whatsnew-account-main-lead-in-v2 = Prehliadač { -brand-name-firefox } o vás zhromažďuje tak málo údajov, že nepotrebujeme ani vašu e‑mailovú adresu. Ale keď ho použijete na vytvorenie { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }, získate okrem { -brand-name-firefox(case: "gen") } prístup k celému radu produktov na ochranu súkromia.
+whatsnew-account-main-lead-in-v2 = Prehliadač { -brand-name-firefox } o vás zhromažďuje tak málo údajov, že nepotrebujeme ani vašu e‑mailovú adresu. Keď ju ale použijete na vytvorenie { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }, získate okrem { -brand-name-firefox(case: "gen") } prístup k celému radu produktov na ochranu súkromia.
 whatsnew-account-mozilla-cta = Získajte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }
 
 ##
