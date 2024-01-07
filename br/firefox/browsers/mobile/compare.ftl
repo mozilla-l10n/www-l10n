@@ -16,3 +16,4 @@ mobile-compare-find-on-page = Kavout er bajennad
 mobile-compare-add-to-homescreen = Ouzhpennañ dʼar skramm degemer
 mobile-compare-collections = Dastumadoù
 mobile-compare-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.
+mobile-compare-scan-the-qr-code-to-get-started = C’hwilerviñ ar c’hod QR evit stagañ ganti
