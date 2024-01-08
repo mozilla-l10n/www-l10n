@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 # HTML page description
 set-as-default-landing-choose-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਰੱਖੇ ਸੁਰੱਖਿਅਤ। { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
-# Obsolete string
-set-as-default-landing-thanks-for-using-the = { -brand-name-firefox }ਨਵਾਂ ਫਾਇਰਫਾਕਸ ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ { -brand-name-firefox } ਚੁਣਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਤੇ ਹਰੇਕ ਲਈ ਜ਼ਿਆਦਾ ਵਧੀਆ ਵੈੱਬ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹੋ। ਹੁਣ ਖੁਦ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਅਗਲਾ ਕਦਮ ਲਵੋ।
-# Obsolete string
+set-as-default-landing-thanks-for-using-the = ਨਵਾਂ { -brand-name-firefox } ਵਰਤਣ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ { -brand-name-firefox } ਚੁਣਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਤੇ ਹਰੇਕ ਲਈ ਜ਼ਿਆਦਾ ਵਧੀਆ ਵੈੱਬ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹੋ। ਹੁਣ ਖੁਦ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਅਗਲਾ ਕਦਮ ਲਵੋ।
 set-as-default-landing-make-sure-youre-protected = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਨਲਾਈਨ ਜਾਓ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਹੋ
 set-as-default-landing-you-should-get = ਤੁਹਾਨੂੰ ਕਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਵੇਂ ਬਰਾਊਜ਼ ਕਰਨਾ ਹੈ
 set-as-default-landing-if-you-recently = ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹਾਲ ਹੀ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਹੈ ਤਾਂ ਤੁਹਾਡੀਆਂ ਸੈਟਿੰਗਾਂ ਬਦਲ ਗਈਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-name-firefox } ਨਾਲ ਆਨਲਾਈਨ ਹੁੰਦੇ ਹੋ ਤਾਂ ਆਜ਼ਾਦ ਅਤੇ ਸਾਂਝੇ ਇੰਟਰਨੈੱਟ ਨੂੰ ਸਹਿਯੋਗ ਦਿਓ।

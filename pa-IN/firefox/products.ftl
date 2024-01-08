@@ -39,18 +39,6 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = ਆਪਣੇ ਇਨਬਾਕਸ ਉੱਤੇ ਕੰਟਰੋਲ ਰੱਖਣ ਲਈ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
 firefox-products-learn-more-about-relay = { -brand-name-firefox-relay } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਰੱਖੋ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } ਡਾਊਨਲੋਡ ਕਰੋ
-# Obsolete string
-firefox-products-open-in-firefox = { -brand-name-firefox } 'ਚ ਖੋਲ੍ਹੋ
-# Obsolete string
-firefox-products-learn-more-about-lockwise = { -brand-name-lockwise } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = 2.5G ਤੱਕ ਆਪਣੀਆਂ ਵੱਡੀਆਂ ਫਾਇਲਾਂ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਦਸਤਾਵੇਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਭੇਜੋ।
 firefox-products-send-a-file = ਫਾਇਲ ਭੇਜੋ
 firefox-products-pocket = { -brand-name-pocket }
@@ -61,6 +49,6 @@ firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } ਦਾ 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? <a { $fxa_attr }>ਸਾਇਨ ਇਨ ਕਰੋ</a> ਜਾਂ { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ <a { $accounts_attr }>ੁਹੋਰ ਜਾਣੋ</a>।
+firefox-products-already-have-an-account-sign = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? <a { $fxa_attr }>ਸਾਇਨ ਇਨ ਕਰੋ</a> ਜਾਂ { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ <a { $accounts_attr }>ਹੋਰ ਜਾਣੋ</a>।
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = ਆਪਣੇ-ਆਪ ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇਣ ਤੇ ਇਸ਼ਤਿਹਾਰਾਂ ਰੋਕਣ ਵਾਲਾ ਤੁਹਾਡੇ ਖਾਸ ਪਰਦੇਦਾਰੀ ਬਰਾਊਜ਼ਰ ਹੈ।
