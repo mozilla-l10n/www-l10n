@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Κρυπτογράφηση διαδικτυακή�
 vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λειτουργεί;
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = Το { -brand-name-mozilla-vpn } εμφανίζει ενδείξεις για την τρέχουσα κατάστασή του στη γραμμή εργαλείων και στην αρχική οθόνη του, ώστε να γνωρίζετε εάν προστατεύεται η διαδικτυακή σας δραστηριότητα. Αυτές οι ενδείξεις σάς επιτρέπουν να επιβεβαιώσετε πότε είναι ιδιωτική και ασφαλής η πλοήγησή σας. Επιπλέον, κατά τη σύνδεση, μπορείτε να επισκεφτείτε το <a href="{ $monitor }">https://monitor.mozilla.org/</a> για να βεβαιωθείτε ότι η διεύθυνση IP σας αποκρύπτεται. Για περισσότερες λεπτομέρειες, δείτε το <a href="{ $connected }">Πώς μπορώ να καταλάβω εάν το { -brand-name-mozilla-vpn } είναι συνδεδεμένο;</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = Το { -brand-name-mozilla-vpn } εμφανίζει ενδείξεις για την τρέχουσα κατάστασή του στη γραμμή εργαλείων και στην αρχική οθόνη του, ώστε να γνωρίζετε εάν προστατεύεται η διαδικτυακή σας δραστηριότητα. Αυτές οι ενδείξεις σάς επιτρέπουν να επιβεβαιώσετε πότε είναι ιδιωτική και ασφαλής η πλοήγησή σας. Επιπλέον, κατά τη σύνδεση, μπορείτε να επισκεφτείτε το <a href="{ $monitor }">https://monitor.firefox.com/</a> για να βεβαιωθείτε ότι η διεύθυνση IP σας αποκρύπτεται. Για περισσότερες λεπτομέρειες, δείτε το <a href="{ $connected }">Πώς μπορώ να καταλάβω εάν το { -brand-name-mozilla-vpn } είναι συνδεδεμένο;</a>.
 vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
