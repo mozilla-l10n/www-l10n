@@ -17,8 +17,6 @@ navigation-firefox-for-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-fi
 navigation-watch-videos-and-browse = ਆਪਣੇ { -brand-name-amazon } { -brand-name-fire-tv } ਉੱਤੇ ਵੀਡਿਓ ਵੇਖੋ ਤੇ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ਰ ਕਰੋ।
 navigation-firefox-browsers-put = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ ਹੈ।
 navigation-take-the-passwords-youve = { -brand-name-firefox } ਵਿੱਚ ਸੰਭਾਲੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਹਰ ਥਾਂ ਲੈ ਜਾਓ।
-# Outdated string
-navigation-firefox-is-a-whole-family = { -brand-name-firefox } ਦਾ ਸਮੂਹ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੁਸ਼ਿਆਰ ਬਣਾਈ ਰੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਹੈ।
 navigation-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
 navigation-access-all-of-firefox = ਇੱਕ ਲਾਗਇਨ ਨਾਲ ਸਾਰੇ { -brand-name-firefox } ਲਈ ਪਹੁੰਚ — ਅਤੇ ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਉਤਪਾਦ ਲਈ ਭਰਪੂਰ ਫਾਇਦਾ ਉਠਾਓ।
 navigation-meet-the-firefox-family = { -brand-name-firefox } ਸਮੂਹ ਨੂੰ ਮਿਲੋ
@@ -32,16 +30,12 @@ navigation-close-firefox-menu = { -brand-name-firefox } ਮੇਨੂ ਬੰਦ �
 navigation-get-the-browser-that-gives = ਉਹ ਬਰਾਊਜ਼ੜ ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ { -brand-name-windows }, { -brand-name-mac } ਜਾਂ { -brand-name-linux } ਲਈ ਮਜ਼ਬੂਤ ਬਣਾਓ।
 navigation-take-firefox-and-firefox = { -brand-name-firefox } ਅਤੇ { -brand-name-firefox-focus } ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ।
 navigation-get-firefox = { -brand-name-firefox } ਲਵੋ
-navigation-get-firefox-focus = { -brand-name-firefox-focus } ਫੋਕਸ ਲਵੋ
+navigation-get-firefox-focus = { -brand-name-firefox-focus } ਲਵੋ
 navigation-android-extensions = { -brand-name-android } ਇਕਸਟੈਨਸ਼ਨਾਂ
 navigation-your-firefox-account = ਤੁਹਾਡਾ { -brand-name-firefox-account }
 navigation-make-the-most-of-your = ਆਪਣੇ { -brand-name-firefox } ਤਰਜਬੇ ਨੂੰ ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਇਕਸਾਰ ਬਣਾਈ ਰੱਖੋ।
-# Outdated string
-navigation-learn-how-to-customize = { -brand-name-firefox } ਦੇ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗਾਂ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਦਲਣ ਲਈ ਢਾਲੋ।
 navigation-get-together = ਇਸ ਆਨਲਾਈਨ ਸਮਾਜਿਕ ਸੱਥ ਨਾਲ ਮਨਸੂਈ ਸੱਥ ਵਿੱਚ ਇਕੱਠੇ ਹੋਈਏ।
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
-# Outdated string
-navigation-mozilla-webvr = { -brand-name-mozilla } WebVR
 navigation-firefox-built-just-for = { -brand-name-firefox }, ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ।
 navigation-firefox-playground = { -brand-name-firefox } ਮੈਦਾਨ
 navigation-mozilla-open-source-support = { -brand-name-mozilla } ਆਜ਼ਾਦ ਸਰੋਤ ਸਹਿਯੋਗ (MOSS)
@@ -64,8 +58,6 @@ navigation-share-large-files-safely = ਵੱਡੀਆਂ ਫ਼ਾਇਲਾਂ �
 navigation-save-quality-content = ਕਿਤੋਂ ਵੀ ਕੁਆਲਟੀ ਸਮੱਗਰੀ ਨੂੰ ਸੰਭਾਲੋ। ਆਪਣੇ ਦਿਮਾਗ ਨੂੰ ਤਰੋ-ਤਾਜ਼ਾ ਕਰੋ।
 navigation-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: ਤੇਜ਼। ਸਰਲ। ਪ੍ਰਾਈਵੇਟ।
-# Outdated string
-navigation-connected-and-protected = ਕਨੈਕਟ ਅਤੇ ਸੁਰੱਖਿਅਤ
 navigation-join = ਹਿੱਸਾ ਬਣੋ
 navigation-close-join-menu = ਜੁਆਇੰਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-sign-in = ਸਾਇਨ ਇਨ
@@ -77,17 +69,11 @@ navigation-meet-the-technology-company = ਅਜਿਹੀ ਤਕਨੀਕੀ ਕ�
 navigation-new-features = ਨਵੇਂ ਫੀਚਰ
 navigation-save-content-absorb-knowledge = ਸਮੱਗਰੀ ਸੰਭਾਲੋ। ਗਿਆਨ ਲਵੋ।
 navigation-same-speed-and-safety = ਉਹੀ ਸਪੀਡ ਤੇ ਉਹੀ ਸੁਰੱਖਿਆ, ਜਿਸ ਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ, ਸਿਰਫ਼਼ ਕਾਰੋਬਾਰ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।
-# Outdated string
-navigation-add-ons = ਐਡ-ਆਨ
 navigation-projects = ਪਰੋਜੈਕਟ
 navigation-close-projects-menu = ਪ੍ਰੋਜੈਕਟ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-donate-your-voice-to = ਹਰ ਕਿਸੇ ਲਈ ਆਵਾਜ਼ ਪਛਾਣ ਨੂੰ ਪਹੁੰਚਾਉਣ ਲਈ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਆਪਣੀ ਆਵਾਜ਼ ਦਾਨ ਕਰੋ।
 navigation-machine-learning = ਮਸ਼ੀਨ ਸਿਖਲਾਈ
-# Outdated string
-navigation-web-of-things-iot = ਚੀਜ਼ਾਂ ਦਾ ਵੈੱਬ (IoT)
 navigation-help-make-deep-learning = ਡੀਪ ਲਰਨਿੰਗ ਐਲਗੋਰਿਥਮਾਂ ਨੂੰ ਆਜ਼ਾਦ ਸਰੋਤ ਸੰਸਾਰ ਵਿੱਚ ਪਹੁੰਚਣ ਲਈ ਮਦਦ ਕਰੋ।
-# Outdated string
-navigation-make-devices-connected = ਡਿਵਾਈਸਾਂ ਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਸੁਰੱਖਿਅਤ, ਬੇਫ਼ਿਕਰ ਤੇ ਆਪਸ ਵਿੱਚ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਦਾ ਹੈ।
 navigation-developers = ਡਿਵੈਲਪਰ
 navigation-close-developers-menu = ਡਿਵੈਲਪਰ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-test-soon-to-be-released = ਸਾਡੇ ਸਭ ਤੋਂ ਸਥਿਰ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਿਲਡ ਵਿੱਚ ਰੀਲਿਜ਼ ਲਈ ਤਿਆਰ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
@@ -120,11 +106,11 @@ navigation-firefox-beta = { -brand-name-firefox-beta }
 navigation-firefox-nightly = { -brand-name-firefox-nightly }
 navigation-firefox-reality = { -brand-name-firefox-reality }
 navigation-firefox-lockwise = { -brand-name-firefox-lockwise }
+# Obsolete string
 navigation-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-firefox-send = { -brand-name-firefox-send }
 navigation-pocket = { -brand-name-pocket }
 navigation-common-voice = { -brand-name-common-voice }
 navigation-hubs = { -brand-name-hubs }
 navigation-rust = { -brand-name-rust }
-navigation-web-assembly = { -brand-name-web-assembly }
 navigation-mdn-web-docs = { -brand-name-mdn-web-docs }
