@@ -8,7 +8,7 @@
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
-firefox-new-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-new-download-firefox = { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-new-download-the-fastest-firefox = ਪਹਿਲਾਂ ਨਾਲੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਵਾਲਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਲੱਦਿਆ ਹੋਇਆ, ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
@@ -27,10 +27,6 @@ firefox-new-need-help = ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ਹੁਣ ਤੋਂ ਕੋਈ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ</a> on { -brand-name-windows } { -brand-name-xp } ਜਾਂ { -brand-name-vista } ਲਈ ਨਹੀਂ ਦਿੰਦਾ ਹੈ, ਪਰ ਤੁਸੀਂ ਹਾਲੇ ਵੀ { -brand-name-firefox } ਵਰਤ ਸਕਦੇ ਹੋ।
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ, ਪੁਰਾਣਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ <a href="{ $url }">{ -brand-name-firefox } ਹੁਣ ਇਸ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ</a>।
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = { -brand-name-firefox } ਇੰਸਟਾਲ ਕਰਨ
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।

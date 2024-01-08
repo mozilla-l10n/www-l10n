@@ -34,7 +34,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-browsers = ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ
+-brand-name-firefox-browsers = Firefox ਬਰਾਊਜ਼ਰ
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -135,8 +135,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Obsolete string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

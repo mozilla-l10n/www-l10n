@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -33,7 +33,7 @@ firefox-all-the-standard-firefox = ਸਟੈਂਡਰਡ { -brand-name-firefox }
 firefox-all-get-a-sneak-peek-at = ਨਵੇਂ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਦੇ ਰੀਲਿਜ਼ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਉਹਨਾਂ ‘ਤੇ ਝਾਤੀ ਮਾਰੀ।
 firefox-all-test-your-sites-against = ਆਪਣੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਛੇਤੀ ਹੀ ਆਉਣ ਵਾਲੇ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਦੇ ਮਜ਼ਬੂਤ, ਲਚਕੀਲੇ DevTools ਨਾਲ ਟੈਸਟ ਕਰੋ, ਜੋ ਕਿ ਮੂਲ ਰੂਪ ਵਿੱਚ ਚਾਲੂ ਹੁੰਦੇ ਹਨ।
 firefox-all-count-on-stability-and = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ ਬਣਾਏ ਇਸ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਨਾਲ ਸਥਿਰਤਾ ਅਤੇ ਵਰਤਣ ਲਈ ਸੌਖ ਹੋਵੇਗੀ।
-firefox-all-windows-installers-for = ਕਾਰਪੋਰੇਟ ਆਈਟੀ ਲਈ ਵਿੰਡੋਜ਼ ਇੰਸਟਾਲਰ ਜੋ { -brand-name-firefox-browser } ਬਰਾਉਜ਼ਰ ਦੇ ਸੰਰਚਨਾ, ਡਿਪਲਾਇਮੈਂਟ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਨੂੰ ਸਰਲ ਬਣਾਉਂਦਾ ਹੈ।
+firefox-all-windows-installers-for = ਕਾਰਪੋਰੇਟ ਆਈਟੀ ਲਈ ਵਿੰਡੋਜ਼ ਇੰਸਟਾਲਰ, ਜੋ { -brand-name-firefox-browser } ਬਰਾਉਜ਼ਰ ਦੇ ਸੰਰਚਨਾ, ਡਿਪਲਾਇਮੈਂਟ ਅਤੇ ਮੈਨੇਜਮੈਂਟ ਨੂੰ ਸਰਲ ਬਣਾਉਂਦਾ ਹੈ।
 firefox-all-arm64-installers = ARM64/AArch64 ਇੰਸਟਾਲਰ
 firefox-all-arm64-installers-optimized = ARM64/AArch64 ਇੰਸਟਾਲਰਾਂ ਨੂੰ ਸਨੈਪਡਰੈਗਨ ਵਾਲੇ { -brand-name-windows } ਕੰਪਿਊਟਰ ਲਈ ਢੁੱਕਵਾਂ ਬਣਾਇਆ ਗਿਆ ਹੈ।
 firefox-all-product-send-link = ਆਪਣੇ ਫ਼ੋਨ ਲਈ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ
