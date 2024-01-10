@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -45,7 +45,7 @@ manifesto-the-mozilla-manifesto-addendum = Komplement till { -brand-name-mozilla
 manifesto-pledge-for-a-healthy-internet = Löfte om ett hälsosamt internet
 manifesto-the-open-global-internet = Det öppna globala internet är den mest kraftfulla kommunikations- och samarbetsresurs vi någonsin har sett. Det belyser några av våra djupaste förhoppningar om mänsklig utveckling. Det möjliggör nya möjligheter att lära, utveckla en förståelse för den gemensamma mänskligheten och lösa de pressande problem som människor överallt står inför.
 manifesto-over-the-last-decade-we = Under det senaste årtiondet har detta löfte uppfyllts på många sätt. Internets kraft förstärker också uppdelningen, leder till våld, uppmuntrar hat och direkt manipulerar fakta och verklighet. Vi har lärt oss att vi ska göra våra mål för mänsklig existens på internet tydligare. Vi gör det nu.
-manifesto-we-are-committed-to-people = Vi står för ett internet som involverar alla människor i världen — där en persons demografiska egenskaper inte påverkar hans åtkomst till internet, hans chanser eller kvaliteten på hans erfarenhet.
+manifesto-we-are-committed-to-people = Vi står för ett internet som inkluderar alla människor världen över — där en persons demografiska egenskaper inte påverkar dennes möjligheter, åtkomst till internet eller kvaliteten på upplevelserna.
 manifesto-we-are-committed-to-discourse = Vi står för ett internet som främjar utbyte på ögonnivå, mänsklig värdighet och yttrandefrihet.
 manifesto-we-are-committed-to-thinking = Vad sägs om ett internet som värderar kritiskt tänkande, faktiska diskussioner, delad kunskap och kontrollerbara fakta.
 manifesto-we-are-committed-to-diverse = Vi står för ett internet som främjar samarbete mellan olika samhällen till fördel för det gemensamma bästa.
@@ -54,31 +54,6 @@ manifesto-an-internet-with-these = Ett internet med dessa egenskaper uppkommer i
 manifesto-i-support-the-vision-of = Jag stöder visionen om ett bättre och hälsosammare internet från @mozilla - du också?
 manifesto-share-on-twitter = Dela på { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Våra 10</strong> grundsatser
-manifesto-use-open-badges-to-share = Förtjänstmärken, Open Badges, visar dina färdigheter och intressen.
-manifesto-explore-how-the-web-impacts = Utforska webbens inflytande på vetenskapen
-manifesto-learn-about-open-source = Läs om öppen källkod inom journalistiken
-manifesto-read-about-open-internet = Läs om hur principen om ett öppet internet engagerar och utvecklas
-manifesto-explore-how-to-help-keep = Undersök hur du kan hjälpa till att hålla webben öppen
-manifesto-see-how-the-web-can-connect = Läs om hur webben kan skapa kontakt mellan världen och sjukvården
-manifesto-explore-how-the-web-works = Undersök hur webben fungerar
-manifesto-see-how-mozilla-works = Läs om hur { -brand-name-mozilla } arbetar för att placera din integritet i första rummet
-manifesto-read-about-developments = Läs om utvecklingen inom integritet och datasäkerhet
-manifesto-learn-more-about-how-to = Läs mer om hur du skyddar dig på nätet
-manifesto-use-these-free-tools-to = Använd de här gratisverktygen för att undervisa på webben
-manifesto-learn-about-creating-and = Läs om hur du skapar och förvaltar innehåll för webben
-manifesto-add-new-voices-to-open = Hjälp andra eller få hjälp att skapa teknik med öppen källkod
-manifesto-set-your-do-not-track = Ange dina inställningar för Do Not Track
-manifesto-understand-the-web-ecosystem = Förstå webbens ekosystem
-manifesto-explore-how-open-practices = Undersök hur öppna arbetsmetoder håller webben tillgänglig
-manifesto-learn-how-to-remix-content = Läs om hur du kan blanda om gammalt innehåll för att skapa något nytt
-manifesto-learn-how-to-maximize = Läs om hur du maximerar webbens interaktivitetspotential
-manifesto-participate-in-our-governance = Delta i vårt ledningsforum
-manifesto-join-us-as-a-volunteer = Bli volontär hos Mozilla
-manifesto-learn-how-to-collaborate = Läs om hur du samarbetar på nätet
-manifesto-visualize-who-you-interact = Få en bild av vem du interagerar med på nätet, med { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Läs om hur du kan skapa webbresurser tillsammans med andra
-manifesto-host-or-join-a-maker-party = Stå som värd för eller delta i ett { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Läs om hur du bygger upp dina färdigheter i att samarbeta på nätet
 manifesto-read-the-entire-manifesto = Läs hela manifestet
 manifesto-love-the-web = Älskar du internet?
 manifesto-get-the-mozilla-newsletter = Prenumerera på { -brand-name-mozilla } nyhetsbrev och hjälp oss att hålla det öppet och gratis.
