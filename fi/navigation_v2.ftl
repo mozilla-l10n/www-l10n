@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Lataa { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 navigation-v2-menu = Valikko
-# Obsolete string
-navigation-v2-get-a-firefox-account = Hanki { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -88,3 +86,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Lahjoita äänesi, jotta verkon tulevaisuus on kaikkien kuultavissa.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lue lisää uudesta, matalan tason assembly-tyyppisestä kielestä.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla }n innovaatioprojektit
+navigation-v2-discover-ways-to-bring = Löydä tapoja toteuttaa kirkkaita ideoita.
