@@ -19,3 +19,6 @@ features-private-what-information-does-firefox = Tge infurmaziuns rimna { -brand
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (l’organisaziun che realisescha { -brand-name-firefox }) dat gronda paisa a la protecziun da datas. <strong>Gronda paisa</strong>. Effectivamain sa cunfa mintga product { -brand-name-firefox } che nus sviluppain cun nossa <a href="{ $url }">empermischun areguard las datas persunalas</a>: Rimnar pauc. Proteger bain. Nagins secrets.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Legia las <a href="{ $url }">infurmaziuns davart la protecziun da datas da { -brand-name-firefox }</a> per ulteriuras infurmaziuns. Seriusamain: Dà in tgit. Igl è scrit en grondezza legibla ed insumma tut normal.
