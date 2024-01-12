@@ -5,19 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/
 
-banner-fundraising-title-v2 = Gida { -brand-name-mozilla } durant quests dis da festa da cumbatter per in meglier internet.
-banner-fundraising-title-giving-day = Gida { -brand-name-mozilla } da cumbatter per in meglier internet quest Giving Tuesday.
-# Outdated string
-banner-fundraising-title = L'internet vegn a daventar anc pli impurtant. Gida a { -brand-name-mozilla } da cumbatter per in web per nus tuts.
-banner-fundraising-body-v2 = Nus essan superbis dad esser in'organisaziun senza finamira da profit e nus lavurain per in internet saun. Tias contribuziuns gidan da crear in internet segir ed avert.
-# Outdated string
-banner-fundraising-body = Nossas datas persunalas vegnan rimnadas mintga giada che nus accedin al web ed i n'è betg simpel da chattar ora tge che capita cun ellas. La dischinfurmaziun renda anc pli difficil da chattar la vardad. Apparats connectads cun il web vegnan mess sin il martgà senza resguardar standards da segirezza minimals. La { -brand-name-mozilla-foundation } senza finamira da profit cumbatta per che l'internet daventia segir, avert ed accessibel a tuts. <strong>Pos ti oz far ina donaziun?</strong>
-banner-fundraising-body-extra = Pudessas ti far oz ina donaziun?
-banner-fundraising-monthly = Mensilmain
-banner-fundraising-one-time = Ina giada
+# Giving Tuesday is a global day of generosity where people are inspired to give, collaborate, share and donate.
+banner-fundraising-giving-tuesday-title = Fa ina donaziun a { -brand-name-mozilla } a chaschun dal Giving Tuesday
+banner-fundraising-giving-tuesday-tagline = Il mument è arrivà per reclamar l’internet dals concerns da tecnologia. Pos ti far ina donaziun a { -brand-name-mozilla } a chaschun dal Giving Tuesday?
+banner-fundraising-title-1 = Far ina donaziun a { -brand-name-mozilla }. Reclamar l’internet.
+banner-fundraising-tagline-1 = Igl è temp da reclamar l’internet dals concerns da tecnologia. Pos ti far ina donaziun a { -brand-name-mozilla }?
 banner-fundraising-donate = Fa ina donaziun
-# Outdated string
-# Variables:
-#   $amount (number) - Inserts a number in US dollars, e.g. '$50'. Adapt the string in your translation for your locale conventions if needed, ex: { $amount } US$
-# Some other currencies are available. Check the currency dropdown at https://donate.mozilla.org and if your currency is available you should adapt the string with the correct symbol, e.g. '€{ $amount }' for Euro or '{ $amount } zł' for Polish złoty
-banner-fundraising-amount = { $amount } CHF
