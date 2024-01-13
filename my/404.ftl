@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } နော�
 # Variables:
 #   $explore (url) - link to https://www.mozilla.org/firefox/
 not-found-page-explore-the-entire-family-for = သင့် ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို အလေးထားကာကွယ်ခြင်းအား အသားပေးထားသည့် { -brand-name-firefox } မိသားစုထုတ်ကုန် အကြောင်း <a href={ $explore }>လေ့လာပါ</a>
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = သင့် မိုဘိုင်လ်း နှင့် ဒတ်စတော့ ကွန်ပျူတာ များအတွက် { -brand-name-firefox } ကို <a href={ $download }>ဒေါင်းလုဒ်</a>ရယူပါ
