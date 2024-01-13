@@ -13,3 +13,7 @@ not-found-locale-not-yet-translated = စာမျက်နှာကို ဘ�
 #   $contribute (url) - link to https://wiki.mozilla.org/L10n:Contribute
 not-found-locale-join-us = ကျွန်ုပ်တို့၏ <a href="{ $community }">ကွန်မြူနတီအဖွဲ့</a> တွင်ပါဝင်ပြီး <a href="{ $contribute }">ဤစာမျက်နှာကို ဘာသာပြန်ပါ။</a> ကူညီပေးပါ။
 not-found-locale-available = အောက်ပါဘာသာစကားများဖြင့် ရရှိနိုင်ပါသည်။
+# Variables:
+#   $requested_page (string) - path of originally requested page
+#   $link_language (string) - name of language used in page link
+not-found-locale-link-title = { $link_language } ဘာသာစကားဖြင့် { $requested_page } ကို ရှာဖွေပါ။
