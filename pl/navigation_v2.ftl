@@ -87,3 +87,4 @@ navigation-v2-donate-your-voice-so-the-future = Nagraj swój głos, aby przyszł
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Dowiedz się więcej o nowym niskopoziomowym języku à la asembler.
 navigation-v2-mozilla-innovation-projects = Innowacyjne projekty { -brand-name-mozilla(case: "gen") }
+navigation-v2-discover-ways-to-bring = Odkrywaj sposoby na urzeczywistnienie błyskotliwych pomysłów.

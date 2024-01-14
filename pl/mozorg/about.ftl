@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: szybki, już na dobre
 about-when-you-use-the-new-firefox = Kiedy używasz nowego { -brand-name-firefox(case: "gen") }, korzystasz z superszybkiej przeglądarki i jednocześnie wspierasz misję { -brand-name-mozilla(case: "gen") } na rzecz zdrowego, dziwnego i przyjaznego Internetu dla wszystkich.
 about-walking-our-privacy-talk = Bierzemy prywatność na serio
 about-when-the-facebook-breach-was = Kiedy ujawniono wyciek danych z { -brand-name-facebook(case: "gen") }, { -brand-name-mozilla } natychmiast miała odpowiedź — i { -brand-name-firefox(case: "acc") } wspierającego prywatność użytkowników.
-about-talking-internet-issues-irl = Problemy Internetu także „w realu”
-about-in-mozillas-irl-podcast-host = W podcaście { -brand-name-mozilla(case: "gen") }, IRL, prowadząca Manoush Zomorodi dzieli się prawdziwymi historiami o życiu w sieci i prowadzi dyskusje o przyszłości Internetu.
 about-corporation-foundation-not = Korporacja. Fundacja. Non-profit.
 about-learn-about-the-mozilla-foundation = Poznaj { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } stawia ludzi ponad zyskiem we wszystkim co mówimy, budujemy i robimy. Sercem naszego przedsięwzięcia jest fundacja non-profit.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Przeczytaj manifest
 about-a-global-view = Widzimy cały świat
 about-with-offices-all-over-the = Dzięki <a href="{ $url }">biurom na całym świecie</a> patrzymy na Internet z punktu widzenia wielu kultur i kontekstów.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Problemy z technologią także „w realu”
+about-in-mozillas-multi-award-winning = W wielokrotnie nagradzanym podcaście { -brand-name-mozilla(case: "gen") } prowadząca Bridget Todd rozmawia z ludźmi kształtującymi przyszłość Internetu i sztucznej inteligencji.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Problemy Internetu także „w realu”
+about-in-mozillas-irl-podcast-host = W podcaście { -brand-name-mozilla(case: "gen") }, IRL, prowadząca Manoush Zomorodi dzieli się prawdziwymi historiami o życiu w sieci i prowadzi dyskusje o przyszłości Internetu.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> gości niebędących pracownikami każdego roku
 about-berlin = Berlin
