@@ -21,11 +21,7 @@ privacy-faq-the-following-questions-and = 以下问题和答案应该有助于�
 privacy-faq-i-use-firefox-for-almost-everything = 我在网络上几乎只使用 { -brand-name-firefox }。 你们 { -brand-name-mozilla } 肯定知道大量关于我的资料，对吧？
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
 privacy-faq-really-you-dont-collect-my-browsing = 你们真的不收集我的浏览记录？
-privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即便您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
-# Outdated string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是一个巨大的挑战。这就是我们开发自愿加入工具（例如 <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>）的原因。这使得感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即便您选择在 { -brand-name-firefox } 间同步浏览历史记录，我们也不会看到您的记录—因为记录是在您的设备上加密的。
+privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即使您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
 privacy-faq-it-seems-like-every-company = 似乎每个公司都在购买和出售我的数据。你们可能也这样。
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } 不会出售您的数据，我们也不会购买您的数据。
 privacy-faq-wait-so-how-do-you-make-money = 等等，那你们这样要如何赚钱呢？
