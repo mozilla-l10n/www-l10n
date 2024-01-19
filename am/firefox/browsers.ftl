@@ -7,14 +7,13 @@
 
 # HTML page title
 firefox-browsers-page-title = ለዴስክቶፕ፣ ሞባይል ወይም ኢንተርፕራይዝ { -brand-name-firefox }ን ያውርዱ
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = የእርስዎን ግላዊነት የሚያስቀድሙ አሳሾችን ያግኙ — ሁልጊዜም
 # HTML page description
 firefox-browsers-page-desc = ከዴስክቶፕ፣ { -brand-name-ios }፣ { -brand-name-android } ይምረጡ ወይም የሞባይል ማውረጃ አገናኝን በኢሜል እንልክልዎታለን።
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = የሚገባዎትን ግላዊነት ያግኙ። የተሻሻለ የክትትል ጥበቃ በእያንዳንዱ { -brand-name-firefox } አሳሽ ውስጥ በራስ-ሰር ነው።
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = የእርስዎን ግላዊነት የሚያስቀድሙትን <strong>አሳሾች</strong> ያግኙ ፤ ሁልጊዜም።
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = የእርስዎን ግላዊነት የሚያስቀድመውን አሳሽ ያግኙ - እና <strong>ሁልጊዜ</strong>ያለው
 firefox-browsers-desktop = ዴስክቶፕ
 firefox-browsers-seriously-private-browsing = በቁም ነገር የግል አሰሳ። { -brand-name-firefox } ከ2000 በላይ የመስመር ላይ መከታተያዎች - እርስዎ በመስመር ላይ ስለሚያደርጉት ነገር መረጃ እንዳይሰበስቡ በራስ-ሰር ያግዳል።
 firefox-browsers-download-for-desktop = ለዴስክቶፕ አውርድ
@@ -35,11 +34,6 @@ firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }ን ይ�
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = አስቀድሞ መለያ አለዎት? <a { $fxa_attr }>ይግቡ</a> ወይም { -brand-name-firefox }ን ስለመቀላቀል <a { $accounts_attr }>ተጨማሪ ይወቁ</a>።
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = መለያ አለዎት? <a { $fxa_attr }>ይግቡ</a> ወይም ፋየርፎክስን ስለመቀላቀል <a { $accounts_attr }>ተጨማሪ ይወቁ</a>።
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
