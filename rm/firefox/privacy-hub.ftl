@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Nus resguardain tia sfera priv
 firefox-privacy-hub-firefox-products-work-differently = Ils products da { -brand-name-firefox } èn auters – perquai ch'els èn concepids en emprima lingia per proteger tia sfera privata.
 firefox-privacy-hub-learn-about-our-products = Ve a savair dapli davart noss products
 firefox-privacy-hub-firefox-privacy-by-the = La protecziun da datas da { -brand-name-firefox } en mintga product
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } protegia tia sfera privata en mintga product.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } protegia tia sfera privata en mintga product.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>protegia</strong> tia sfera privata en mintga product
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>protegia</strong> tia sfera privata en mintga product.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-privacy-hub-2000-trackers-blocked-automatically = Passa 2'000 fastizaders bloccads – automaticamain
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -61,25 +65,37 @@ firefox-privacy-hub-meet-four-of-the-most-common = Quai èn las quatter categori
 firefox-privacy-hub-always-in-your-control = Ti has adina la controlla
 firefox-privacy-hub-want-to-customize-what = Vulessas ti decider sez tge che vegn bloccà? Las configuraziuns sa chattan a la purtada dad in clic.
 firefox-privacy-hub-protection-beyond-tracking = Dapli che mo protecziun cunter fastizaders
+firefox-privacy-hub-if-you-have-a-mozilla-account = Sche ti has in { -brand-name-mozilla-account }, vesas ti era co nus ta gidain a proteger tias datas persunalas e tes pleds-clav.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Sche ti has in { -brand-name-firefox-account } vesas ti era co nus ta gidain da proteger tias datas persunalas e tes pleds-clav.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Mintga di dapli che { $trackers } fastizaders bloccads per utilisaders da { -brand-name-firefox } en tut il mund
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Sche ti endateschas tia adressa dad e-mail en { -brand-name-mozilla-monitor } l’emblidain nus immediatamain suenter avair controllà sch’ella figurescha en las datas dad in cas enconuschent da sperdita da datas – nun che ti ans permettas da controllar vinavant per tai sche tias datas èn eventualmain pertutgadas da novas pannas.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Sche ti endateschas tia adressa dad e-mail en { -brand-name-firefox-monitor } l'emblidain nus immediatamain suenter avair controllà sch'ella figurescha en las datas dad in cas enconuschent da sperdita da datas – nun che ti ans autoriseschas da controllar vinavant per tai sche tias datas èn eventualmain pertutgadas da novas pannas.
 firefox-privacy-hub-check-for-breaches = Controllar sperditas da datas
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Ils pleds-clav e las datas d'access che ti memoriseschas en { -brand-name-firefox-lockwise } èn criptads sin tuts tes apparats. Gnanc nus na pudain als vesair.
-firefox-privacy-hub-learn-more-about-lockwise = Ve a savair dapli davart { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Nus na pudain ni vesair nums ni cuntegns da datotecas grondas che ti cundividas via { -brand-name-firefox-send } perquai ch'ellas èn criptadas da fin a fin. Ti pos decider tgi che vesa quai che ti tramettas e ti pos schizunt definir ina data da scadenza ed in pled-clav.
 firefox-privacy-hub-send-a-file = Trametter ina datoteca
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } ta recumonda artitgels dad auta qualitad, tschernids dad umans senza registrar tia cronologia u cundivider tias datas persunalas cun agenturas da reclama.
 firefox-privacy-hub-get-pocket = Ir per { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = Tes { -brand-name-mozilla-account }
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Tes { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Tut las infurmaziuns sincronisadas cun agid da tes { -brand-name-mozilla-account } – da la cronologia enfin als pleds-clav – èn criptadas. E tes pled-clav per il conto è l'unica clav.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Tut las infurmaziuns sincronisadas via tes { -brand-name-firefox-account } – da la cronologia enfin als pleds-clav èn criptadas. E tes pled-clav per il conto è l'unica clav.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Cun in { -brand-name-mozilla-account } pos ti prender cun tai tia sfera privata e tes segnapaginas nua ch'i saja.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Cun tes { -brand-name-firefox-account } pos ti pigliar cun tai tia sfera privata e tes segnapaginas nua ch'i saja.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

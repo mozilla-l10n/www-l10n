@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Va per { -brand-name-firefox } per { -br
 firefox-desktop-download-og-title = Telechargia il pli svelt { -brand-name-firefox } da tuts
 firefox-desktop-download-og-desc = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } è qua.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Ina versiun anc pli nova da { -brand-name-firefox } è disponibla. <a { $update_url }>Actualisescha a la versiun la pli nova</a>
 firefox-desktop-download-get-the-browser = Va per il navigatur che protegia quai che quinta
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nagina protecziun da datas suspectusa cun largias per vendiders da reclama. Mo in navigatur sco ina frizza che na ta splima betg.
@@ -40,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Blochescha fastizaders da soci
 firefox-desktop-download-os-availability = Disponibladad per sistems operativs
 firefox-desktop-download-in-browser-screenshot = Utensil integrà per far maletgs dal visur
 firefox-desktop-download-primary-password = Pled-clav universal
-# Obsolete string
-firefox-desktop-love-your-life = Amur per tia vita online
-# Obsolete string
-firefox-desktop-its-your-internet = Igl è tes internet. Al colurescha tenor tes gust cun millis utensils, designs ed extensiuns. { -brand-name-firefox } è il vair navigatur alternativ che dat la prioritad a las persunas, betg al profit.
-# Obsolete string
-firefox-desktop-download-master-password = Pled-clav universal
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
 firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. Il { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
 firefox-desktop-download-see-your-report = Vesair tes rapport da protecziun
@@ -133,9 +130,13 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è vegnì
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Fertant che l'internet crescha e sa mida, sa concentrescha { -brand-name-firefox } vinavant sin la protecziun da datas — nus numnain quai l'<a { $attrs }>engaschi per las datas persunalas</a>: Rimnar pauc, memorisar a moda segira e na zuppentar nagut. Tias datas, tias activitads en il web e tia vita online èn protegidas cun { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibel per tut tes apparats; prenda tes tabs, tia cronologia e tes segnapaginas cun tai. Ti dovras be in <a { $attrs }>conto da { -brand-name-firefox }</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } è disponibel  per tut tes apparats; piglia tes tabs, tia cronologia e tes segnapaginas cun tai. Tut quai che ti dovras è in <a { $attrs }>{ -brand-name-mozilla-account }</a> e ti vegns ad avair access a la sincronisaziun ed ulteriurs products da { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Fa in maletg cun buna resoluziun dad x insatge che ti chattas en il web cun l'utensil <a { $attrs }>maletg dal visur</a> integrà en il navigatur
@@ -147,9 +148,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 firefox-desktop-download-questions = Dumondas? <a { $attrs }>L'agid da { -brand-name-mozilla }</a> stat a tia disposiziun.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = Ti has gia il navigatur. Va ussa anc per dapli da { -brand-name-firefox }.
+firefox-desktop-download-watch-for-hackers-with-v3 = Surveglia ils hackers cun { -brand-name-mozilla-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia ils pleds-clav cun { -brand-name-firefox-lockwise } e dapli.
 firefox-desktop-download-get-more-from-firefox = Va per dapli da { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Mo telechargiar il navigatur
 
@@ -167,8 +168,6 @@ firefox-desktop-download-now-mac = <strong>Avra</strong> ussa la datoteca gist t
 firefox-desktop-download-get-help = Has difficultads? <a { $attrs }>Ta lascha gidar cun l'installaziun</a>.
 firefox-desktop-download-in-another-language = Telechargiar en in'autra lingua u per in auter sistem operativ.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
@@ -176,10 +175,6 @@ firefox-desktop-download-visit-support-for-more = Visita l'agid per ulteriuras i
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">na porscha naginas actualisaziuns da segirezza pli</a> sin { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, ma ti pos anc adina utilisar { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Ti utiliseschas in sistem operativ antiquà e malsegir che <a href="{ $url }">na vegn betg pli sustegnì da { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
