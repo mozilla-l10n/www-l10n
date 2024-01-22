@@ -58,14 +58,11 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 新しい { -brand-name-firefox-devtools } はパワフルかつ柔軟、そして何よりもハッキングが容易です。これには、複数のブラウザーを対象とすることが可能で React とRedux がビルトインされた、クラス最高の JavaScript デバッガーが含まれています。
 firefox-developer-master-css-grid = CSS グリッドを自在に操る
 firefox-developer-built-for-developers = デベロッパー向け
-firefox-developer-a-next-generation = 次世代 CSS エンジン
 firefox-developer-master-innovative-features = 革新的機能
 firefox-developer-want-to-be-on-the-cutting-edge = 最先端を求める方へ
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } は更新を毎日取得し、新機能が主流となる数ヶ月前に利用することができます。
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } には最先端の革新技術が採用された新 CSS エンジンや内蔵 Rust が含まれ、超高速です。
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } は、CSS グリッドを用いた構築・デザイン専用に開発されたツールを備えた唯一のブラウザーです。これらのツールで実現されるのは、グリッドを可視化し、関連する領域名を表示し、グリッドの変換のプレビューなどなど盛りだくさんです。
 firefox-developer-convenient-features = 便利な機能
-firefox-developer-faster-performance = さらに高速なパフォーマンス
 firefox-developer-shapes-editor = Style Editor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } は新しい図形パスエディターを内蔵しています。このエディターは微調整作業を容易にするビジュアルエディターにより、 shape-outside や clip-path の図形での勘に頼った作業を解消します。
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } は新しい図形パスエディターを内蔵しています。このエディターは微調整作業を容易にするビジュアルエディターにより、 shadow-outside や clip-path の図形での勘に頼った作業を解消します。
@@ -80,7 +77,10 @@ firefox-developer-congrats-you-now-have-firefox = あなたは{ -brand-name-fire
 firefox-developer-this-isnt-just-an-update = これは単なるアップデートではありません。{ -brand-name-firefox-quantum } は、完全に再構築されて、さらに高速、シンプル、パワフルになった { -brand-name-firefox } です。
 firefox-developer-welcome-to-firefox-browser = ようこそ { -brand-name-firefox-browser } { -brand-name-developer-edition } へ
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー
+
+# Obsolete string
 firefox-developer-all-the-latest = すべての最新ベータ版デベロッパーツールに加え、Multi-line Console Editor や WebSocket Inspector 等の<strong>試験的機能</strong>。
+
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
 firefox-developer-congrats-you-now-have = あなたは{ -brand-name-firefox-browser } { -brand-name-developer-edition }を手に入れました。

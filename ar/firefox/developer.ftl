@@ -58,14 +58,11 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = متصفّح { -brand-name-firefox-devtools } الجديد قوي، ومرن، وأفضل ما في هذا كله أنه غير قابل للاختراق. يتضمن ذلك مُصحح أخطاء JavaScript هو الأفضل في فئته، والذي يُمكنه استهداف مُتصفحات مُتعددة وهو مدمج في React، وRedux.
 firefox-developer-master-css-grid = احترف CSS Grid
 firefox-developer-built-for-developers = صُمّم للمطوّرين
-firefox-developer-a-next-generation = محرك CSS للجيل القادم
 firefox-developer-master-innovative-features = مزايا مبتكرة
 firefox-developer-want-to-be-on-the-cutting-edge = أتود أن تكون مواكبًا للتطور والتحديث؟
 firefox-developer-firefox-nightly-receives = يتلقى { -brand-name-firefox-nightly } تحديثات يومية ويسمح لك بالوصول إلى الميزات قبل أشهر من تعميمها.
-firefox-developer-firefox-quantum-includes = يتضمن { -brand-name-firefox-quantum } مُحرك CSS جديدًا، مكتوبًا بلغة Rust، يحتوي على أحدث الابتكارات وسريع للغاية.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } هو المتصفح الوحيد الذي يحتوي على أدوات مُصممة خصيصًا للبناء والتصميم مع CSS Grid. تُتيح لك هذه الأدوات تصوّر الشبكة وعرض أسماء المناطق المرتبطة ومعاينة التحويلات على الشبكة وغير ذلك الكثير.
 firefox-developer-convenient-features = مزايا مريحة
-firefox-developer-faster-performance = أداء أسرع
 firefox-developer-shapes-editor = Shapes Editor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يُزيل التخمين من ضبط الشكل الخارجي وأشكال مسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
 firefox-developer-firefox-devtools-has-a-brand-new = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يزيل التخمين من ضبط أشكال الظل الخارجي ومسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
@@ -80,7 +77,10 @@ firefox-developer-congrats-you-now-have-firefox = تهانينا! لديك ال�
 firefox-developer-this-isnt-just-an-update = هذا ليس مُجرد تحديث. هذا { -brand-name-firefox-quantum }: متصفّح { -brand-name-firefox } جديد تمت إعادة بنائه من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
 firefox-developer-welcome-to-firefox-browser = مرحبًا بك في { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين
+
+# Obsolete string
 firefox-developer-all-the-latest = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثل Multi-line Console Editor و<strong></strong>WebSocket Inspector.
+
 firefox-developer-a-separate-profile = مسار <strong>وملف تعريف مُنفصلين</strong> حتى يتسنى لك بسهولة تشغيله بجانب الإصدار أو { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = تفضيلات <strong>صُممت لمُطوري الويب</strong>: يتم تمكين المُتصفح وتصحيح الأخطاء عن بُعد افتراضيًا، وكذلك السِمة الداكنة وزر شريط أدوات المُطور.
 firefox-developer-congrats-you-now-have = تهانينا! لديك الآن { -brand-name-firefox-browser }: { -brand-name-developer-edition }.

@@ -58,14 +58,11 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = नए { -brand-name-firefox-devtools } मज़बूत, लचीले, और सबसे अच्छा है कि हैक करने लायक हैं। इसमें सबसे बेहतरीन JavaScript डिबगर शामिल है, जो एक साथ अनेक ब्राउज़र पर काम कर सकता है और React और Redux में निर्मित है।
 firefox-developer-master-css-grid = मास्टर CSS ग्रिड
 firefox-developer-built-for-developers = डेवलपर्स के लिए बनाया गया
-firefox-developer-a-next-generation = अगली-पीढ़ी का एक CSS इंजन
 firefox-developer-master-innovative-features = उन्नतिशील विशेषताएँ
 firefox-developer-want-to-be-on-the-cutting-edge = अत्याधुनिक होना चाहते हैं?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } दैनिक अपडेट पाता है और आपको सुविधाओं के आम बनने से महीनों पहले उपयोग करने का मौका देता है।
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } में Rust में लिखित एक नया CSS इंजन शामिल है, जिसमें अत्याधुनिक नवाचार और अतितीव्र गति है।
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } अकेला ऐसा ब्राउज़र है जिसमें CSS ग्रिड के साथ बनाने और डिज़ाइन करने के लिए विशेष उपकरण शामिल होते हैं। इन उपकरणों के ज़रिए आप ग्रिड को रूप देने, उनसे जुड़े नाम प्रदर्शित करने, ग्रिड पर आने वाले बदलावों की समीक्षा करने जैसे अनेक काम कर सकते हैं।
 firefox-developer-convenient-features = सुविधाजनक विशेषताएँ
-firefox-developer-faster-performance = तीव्रतर कार्यक्षमता
 firefox-developer-shapes-editor = आकार संपादक
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } में एक बिलकुल नया शेप पाथ संपादक है, जो आपके शेप-आउटसाइड और क्लिप-पाथ शेप को फ़ाइन ट्यून करना आसान बनाता है और आपको विज़ुअल संपादक के साथ इन्हें आसानी से फ़ाइन ट्यून करने देता है।
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } में एक बिलकुल नया शेप पाथ संपादक है, जो आपके शैडो-आउटसाइड और क्लिप-पाथ शेप को फ़ाइन ट्यून करना आसान बनाता है और आपको विज़ुअल संपादक के साथ इन्हें आसानी से फ़ाइन ट्यून करने देता है।
@@ -80,7 +77,10 @@ firefox-developer-congrats-you-now-have-firefox = बधाई हो। अब 
 firefox-developer-this-isnt-just-an-update = यह सिर्फ एक अपडेट नहीं है। यह है { -brand-name-firefox-quantum }: एक बिलकुल नया { -brand-name-firefox }, जिसे शुरू से पुनर्निर्मित किया गया है तीव्रतर, आकर्षक और पहले से अधिक शक्तिशाली बनाने के लिए।
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } में आपका स्वागत है।
 firefox-developer-made-for-developers = डेवलपर्स के लिए बनाया गया ब्राउज़र
+
+# Obsolete string
 firefox-developer-all-the-latest = बीटा में सभी नवीनतम डेवलपर उपकरण, साथ ही <strong>प्रयोगात्मक विशेषताएँ</strong> जैसे मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर।
+
 firefox-developer-a-separate-profile = एक <strong>अलग प्रोफ़ाइल और पाथ</strong> जिससे आप रिलीज़ या { -brand-name-beta } { -brand-name-firefox } के साथ इसे आसानी से चला सकें।
 firefox-developer-preferences-tailored = वरीयता <strong>विशेष रूप से वेब Devलपर्स के लिए</strong> : ब्राउज़र और रिमोट डिबगिंग तयशुदा रूप से सक्षम होते हैं, साथ ही, डार्क थीम और डेवलपर टूलबार बटन भी।
 firefox-developer-congrats-you-now-have = बधाई हो। अब आपके पास { -brand-name-firefox-browser } { -brand-name-developer-edition }।

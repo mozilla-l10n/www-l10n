@@ -58,14 +58,11 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } yang baru sangat kuat, fleksibel, dan yang terbaik dari semuanya, dapat diretas. Termasuk debugger JavaScript terbaik di kelasnya, yang dapat menargetkan banyak peramban dan dibangun di React dan Redux.
 firefox-developer-master-css-grid = Master CSS Grid
 firefox-developer-built-for-developers = Dirancang untuk Pengembang
-firefox-developer-a-next-generation = Mesin CSS Generasi Berikutnya
 firefox-developer-master-innovative-features = Fitur Inovatif
 firefox-developer-want-to-be-on-the-cutting-edge = Ingin menjadi yang terdepan?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } menerima pembaruan harian dan memungkinkan Anda untuk mengakses fitur beberapa bulan sebelum menjadi populer.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } menyertakan mesin CSS baru, ditulis di Rust, yang memiliki inovasi mutakhir dan sangat cepat.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } adalah satu-satunya peramban dengan alat yang dibuat khusus untuk membangun dan merancang dengan CSS Grid. Alat-alat ini memungkinkan Anda untuk memvisualisasikan grid, menampilkan nama area terkait, melihat pratinjau transformasi di grid dan banyak lagi.
 firefox-developer-convenient-features = Fitur Nyaman
-firefox-developer-faster-performance = Kinerja Lebih Cepat
 firefox-developer-shapes-editor = Editor Bentuk
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } memiliki editor jalur bentuk baru yang menghilangkan spekulasi saat menyempurnakan bentuk di luar dan jalur klip yang memungkinkan Anda menyempurnakan penyesuaian dengan sangat mudah dengan editor visual.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } memiliki editor jalur bentuk baru yang menghilangkan spekulasi saat menyempurnakan bentuk bayangan di luar dan jalur klip yang memungkinkan Anda menyempurnakan penyesuaian dengan sangat mudah dengan editor visual.
@@ -80,7 +77,10 @@ firefox-developer-congrats-you-now-have-firefox = Selamat. Sekarang Anda memilik
 firefox-developer-this-isnt-just-an-update = Ini bukan sekadar pembaruan. Ini adalah { -brand-name-firefox-quantum }: { -brand-name-firefox } baru yang telah dibangun kembali dari awal sehingga menjadi lebih cepat, ramping, dan bertenaga daripada sebelumnya.
 firefox-developer-welcome-to-firefox-browser = Selamat datang di { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Peramban yang dibuat untuk pengembang
+
+# Obsolete string
 firefox-developer-all-the-latest = Semua alat pengembang terbaru dalam versi beta, ditambah <strong>fitur eksperimental</strong> seperti Editor Konsol Multisaluran dan Inspektur WebSocket.
+
 firefox-developer-a-separate-profile = <strong>Profil dan jalur terpisah</strong> sehingga Anda dapat dengan mudah menjalankannya bersama Rilis atau { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferensi yang <strong>disesuaikan untuk pengembang web</strong>: Peramban dan debugging jarak jauh diaktifkan secara bawaan, demikian pula dengan tema gelap dan tombol bilah alat pengembang.
 firefox-developer-congrats-you-now-have = Selamat. Sekarang Anda memiliki { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
