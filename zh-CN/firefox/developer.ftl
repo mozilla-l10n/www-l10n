@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 新款 { -brand-name-firefox-devtools }具有强大、灵活、酷炫的工具。其中包括一流的 JavaScript 调试器，可以面向多种浏览器，且内置 React 和 Redux。
 firefox-developer-master-css-grid = 强大的 CSS 网格
-# outdated
-firefox-developer-next-gen-css-engine = 新一代 CSS 引擎
 firefox-developer-built-for-developers = 为开发者打造
-firefox-developer-a-next-generation = 新一代 CSS 引擎
 firefox-developer-master-innovative-features = 创新功能
 firefox-developer-want-to-be-on-the-cutting-edge = 想要跟进最先进的技术？
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } 会收到每日提供的更新，您可以先于用正式版几个月体验新功能。
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } 内含采用 Rust 语言编写的全新 CSS 引擎，拥有最先进的革新技术，速度当然超级快。
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } 是目前唯一配备打造和设计 CSS 网格的工具的浏览器。这些工具可以让 CSS 网格可视化，显示关联区域的名称，预览网格变化，等等。
 firefox-developer-convenient-features = 便捷的功能
-firefox-developer-faster-performance = 更高性能
 firefox-developer-shapes-editor = 形状编辑器
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }拥有全新的形状路径编辑器，可让您通过可视化编辑器，无需猜测即可轻松微调 shape-outside 与 clip-path 形状。
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools }拥有全新的形状路径编辑器，可让您通过可视化编辑器，无需猜测即可轻松微调 shadow-outside 与 clip-path 形状。
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = 欢迎，您现在使用的是
 firefox-developer-this-isnt-just-an-update = 这不仅仅是次普通的更新。这是从底层开始重新打造的 { -brand-name-firefox }，更快、更轻、更强大。这是 { -brand-name-firefox-quantum }。
 firefox-developer-welcome-to-firefox-browser = 欢迎使用 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = 专为开发者构建的浏览器
+firefox-developer-all-the-latest-v2 = Beta 版中所有最新的开发者工具此外还有多行控制台编辑器和 WebSocket 检查器等功能。
+# Obsolete string
 firefox-developer-all-the-latest = Beta 版中所有最新的开发者工具，再加上多行控制台编辑器和 WebSocket 检查器等<strong>实验功能</strong>。
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
