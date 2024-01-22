@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Новые { -brand-name-firefox-devtools } — мощны, гибки и хорошо настраиваемы. В них есть лучший в своём классе отладчик JavaScript, который может эмулировать поведение других браузеров, и построен на React и Redux.
 firefox-developer-master-css-grid = Управление CSS-сеткой
-# outdated
-firefox-developer-next-gen-css-engine = CSS-движок нового поколения
 firefox-developer-built-for-developers = Создан для разработчиков
-firefox-developer-a-next-generation = CSS-движок нового поколения
 firefox-developer-master-innovative-features = Инновационные функции
 firefox-developer-want-to-be-on-the-cutting-edge = Хотите быть на волне передовых технологий?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } обновляется ежедневно и предоставляет вам доступ к функциям за месяцы до официального релиза.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } включает в себя новейший CSS-движок, написанный на Rust, содержащий в себе передовые новшества и совершенную скорость.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } — единственный браузер с инструментами, созданными специально для проектирования макетов и дизайна с помощью CSS-сеток. Эти инструменты позволяют визуализировать сетку, отображать связанные имена областей, предпросматривать трансформации на сетке и многое другое.
 firefox-developer-convenient-features = Удобные возможности
-firefox-developer-faster-performance = Повышенная производительность
 firefox-developer-shapes-editor = Редактор фигур
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = В { -brand-name-firefox-devtools(case: "prepositional") } появился совершенно новый редактор путей фигур, который принимает на себя работу по точной настройке свойств shape-outside и clip-path, позволяя с лёгкостью производить точную настройку в визуальном редакторе.
 firefox-developer-firefox-devtools-has-a-brand-new = В { -brand-name-firefox-devtools(case: "prepositional") } появился совершенно новый редактор путей фигур, который принимает на себя работу по точной настройке свойств shape-outside и clip-path, позволяя с лёгкостью производить точную настройку в визуальном редакторе.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Поздравляем. Теп
 firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox-quantum }: Совершенно новый { -brand-name-firefox }, который был переписан с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
 firefox-developer-welcome-to-firefox-browser = Добро пожаловать в { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Браузер, созданный для разработчиков
+firefox-developer-all-the-latest-v2 = Бета-версия самых последних инструментов разработчика, а также такие функции, как Многострочный режим веб-консоли и Инспектор WebSocket'ов.
+# Obsolete string
 firefox-developer-all-the-latest = Бета-версия самых последних инструментов разработчика, а также такие <strong>экспериментальные функции</strong>, как Многострочный режим веб-консоли и Инспектор WebSocket'ов.
 firefox-developer-a-separate-profile = <strong>Отдельный профиль и путь</strong>, чтобы вы могли легко его запустить одновременно с релизом { -brand-name-firefox } или { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Настроенный <strong>специально под веб-разработчиков</strong>: Браузерная и удалённая отладка, тёмная тема и кнопка инструментов разработчика на панели инструментов включены по умолчанию.
