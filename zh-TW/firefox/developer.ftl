@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 全新的 { -brand-name-firefox-devtools } 更強大、更靈活，而且最棒的是還可自行 hack 修改。這版開發者工具當中包含了同級當中最強大的 JavaScript 除錯器，可將不同瀏覽器作為除錯目標，也內建支援 React 及 Redux。
 firefox-developer-master-css-grid = 成為 CSS Grid 大師
-# outdated
-firefox-developer-next-gen-css-engine = 新一代 CSS 引擎
 firefox-developer-built-for-developers = 為開發者而打造
-firefox-developer-a-next-generation = 下一代的 CSS 引擎
 firefox-developer-master-innovative-features = 創新功能
 firefox-developer-want-to-be-on-the-cutting-edge = 想要尋求尖端科技？
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } 每天都會收到更新，讓您可在正式版推出前幾個月就搶先試用新功能。
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } 內建使用 Rust 語言撰寫的全新 CSS 引擎，當中有最尖端的科技、動作超級快。
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } 是唯一一套內建 CSS Grid 開發與設計工具的瀏覽器。這些工具有格線視覺化、顯示相關區域名稱、預覽格線變型效果等功能。
 firefox-developer-convenient-features = 方便的功能
-firefox-developer-faster-performance = 效能更快
 firefox-developer-shapes-editor = 形狀編輯器
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } 開發者工具有全新的圖形路徑編輯器，讓您可以用視覺化編輯器非常簡單地就對圖形的 shape-outside 與 clip-path 進行微調。
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } 有全新的圖形路徑編輯器，可讓您透過視覺化編輯器，很簡單就微調圖型的 shadow-outside 與 clip-path。
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = 您現在使用的是 { -brand
 firefox-developer-this-isnt-just-an-update = 不只是更新而已，{ -brand-name-firefox-quantum } 全新登場。這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
 firefox-developer-welcome-to-firefox-browser = 歡迎使用 { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = 為了開發者打造的瀏覽器
+firefox-developer-all-the-latest-v2 = 所有最新測試版的開發者工具除了多行主控台編輯器與 WebSocket 檢測器等功能。
+# Obsolete string
 firefox-developer-all-the-latest = 所有仍在 Beta 測試中的最新開發者工具，再加上主控台多行編輯器與 WebSocket 檢測器等<strong>實驗性功能</strong>。
 firefox-developer-a-separate-profile = 使用<strong>獨立設定擋</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
 firefox-developer-preferences-tailored = <strong>為網頁開發者量身打造的偏好設定</strong>：預設開啟瀏覽器與遠端除錯功能，以及暗色佈景主題，還有開發者工具列按鈕。
