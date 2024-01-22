@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Obtenha uma { -brand-name-mozilla-account } – Mantenha os seus dados privados, seguros e sincronizados
+mozilla-accounts-get-a-mozilla-account = Obtenha uma { -brand-name-mozilla-account } – mantenha os seus dados privados, seguros e sincronizados
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Obtenha uma { -brand-name-firefox-account } – Mantenha os seus dados privados, seguros e sincronizados
 # HTML page description
@@ -30,14 +30,12 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Enviar um separador</a> para u
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Guardar e sincronizar palavras-passe</a>
-firefox-accounts-get-email-alerts = Receba alertas por email quando a sua informação aparecer numa brecha de dados conhecida
-# Obsolete string
-firefox-accounts-see-if-youve-been = Veja se esteve envolvido(a) numa brecha de dados online.
+firefox-accounts-get-email-alerts = Receba alertas por e-mail quando a sua informação aparecer numa violação de dados conhecida
 firefox-accounts-protect-your-identity = Proteja a sua identidade com máscaras seguras para telefone e e-mail
 firefox-accounts-keep-your-passwords = Mantenha as suas palavras-passe protegidas e portáteis.
 firefox-accounts-get-a-lookout-for = Fique de olho nas falhas de segurança de dados.
 firefox-accounts-travel-the-internet = Navegue na Internet com proteção, em todos os dispositivos.
-firefox-accounts-encrypt-your = Encripte a sua atividade de rede e oculte o seu endereço IP
+firefox-accounts-encrypt-your = Encripte a sua atividade na rede e oculte o seu endereço IP
 firefox-accounts-we-never = Nunca registamos, rastreamos ou partilhamos os seus dados de rede
 firefox-accounts-save-articles = Guarde artigos de toda a Internet
 firefox-accounts-read-in-a = Leia num espaço sossegado e privado

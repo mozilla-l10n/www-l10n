@@ -14,4 +14,4 @@ affiliate-notification-message = Usamos cookies para saber qual o parceiro afili
 # label for the button that rejects cookie use
 affiliate-notification-reject = Rejeitar
 # label for the button that okays cookie use
-affiliate-notification-ok = OK
+affiliate-notification-ok = Ok
