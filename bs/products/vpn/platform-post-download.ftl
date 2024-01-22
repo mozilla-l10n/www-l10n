@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Šifruje vaš internet promet: tako da niko na ži
 vpn-download-faq-working = Kako da znam da VPN radi?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } prikazuje vizuelne indikatore svog trenutnog statusa i na traci sa alatkama i na početnom ekranu aplikacije, što olakšava saznanje da li je vaša aktivnost na mreži zaštićena ili ne. Ovi indikatori vam omogućavaju da potvrdite kada je vaša navigacija privatna i sigurna. Osim toga, dok ste povezani, možete posjetiti <a href="{ $monitor }">https://monitor.mozilla.com/</a> da potvrdite da li je vaša IP adresa maskirana. Za više detalja pogledajte <a href="{ $connected }">Kako mogu znati da li je { -brand-name-mozilla-vpn } povezan?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } prikazuje vizuelne indikatore svog trenutnog statusa i na traci sa alatkama i na početnom ekranu aplikacije, što olakšava saznanje da li je vaša aktivnost na mreži zaštićena ili ne. Ovi indikatori vam omogućavaju da potvrdite kada je vaša navigacija privatna i sigurna. Osim toga, dok ste povezani, možete posjetiti <a href="{ $monitor }">https://monitor.firefox.com/</a> da potvrdite da li je vaša IP adresa maskirana. Za više detalja pogledajte <a href="{ $connected }">Kako mogu znati da li je { -brand-name-mozilla-vpn } povezan?</a>.
 vpn-download-faq-add-device = Kako da dodam drugi uređaj?
