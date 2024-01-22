@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = A { -brand-name-firefox-devto
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = A új { -brand-name-firefox-devtools } hatékonyak, rugalmasak, és ami a legjobb, hackelhetőek. Ez tartalmazza a legjobb JavaScript hibakeresőt, amely több böngészőt képes célozni, valamint beépített React és Redux támogatással rendelkezik.
 firefox-developer-master-css-grid = Legyen a CSS rács mestere
-# outdated
-firefox-developer-next-gen-css-engine = Új generációs CSS motor
 firefox-developer-built-for-developers = Fejlesztőknek készítve
-firefox-developer-a-next-generation = Új generációs CSS motor
 firefox-developer-master-innovative-features = Innovatív funkciók
 firefox-developer-want-to-be-on-the-cutting-edge = Szeretné kipróbálni a legújabb dolgokat?
 firefox-developer-firefox-nightly-receives = A { -brand-name-firefox-nightly } naponta kap frissítéseket, és hónapokkal hamarabb hozzáférhet az új funkciókhoz, még mielőtt azok bekerülnének a főáramba.
-firefox-developer-firefox-quantum-includes = A { -brand-name-firefox-quantum } egy CSS motort tartalmaz, amely Rustban íródott, a legkorszerűbb innovációkat tartalmazza, és villámgyors.
 firefox-developer-firefox-is-the-only-browser = A { -brand-name-firefox } az egyetlen böngésző, amely olyan eszközökkel érkezik, amelyek kifejezetten CSS rácsok tervezésére és összeállítására lettek készítve. Ezekkel az eszközökkel vizualizálhatja a rácsot, megjelenítheti a hozzájuk tartozó területneveket, megtekintheti a transzformációk előnézetét a rácson, és ez még nem minden.
 firefox-developer-convenient-features = Kényelmes funkciók
-firefox-developer-faster-performance = Jobb teljesítmény
 firefox-developer-shapes-editor = Alakzatszerkesztő
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = A { -brand-name-firefox-devtools } egy vadonatúj alakzatútvonal-szerkesztővel rendelkezik, amely megszünteti a találgatást a shape-outside és a clip-path alakzatok finomhangolása közben, lehetővé téve a beállítások egy vizuális szerkesztővel történő finomhangolását.
 firefox-developer-firefox-devtools-has-a-brand-new = A { -brand-name-firefox-devtools }ben szerepel egy vadonatúj alakzatszerkesztő, amely megszünteti a tippelgetést, ha finomhangolja az árnyékokat vagy a vágási útvonalakat, mivel könnyen finomhangolhatja a módosításokat a vizuális szerkesztővel.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Gratulálunk. Most már a { -b
 firefox-developer-this-isnt-just-an-update = Ez nem csak egy frissítés. Ez a { -brand-name-firefox-quantum }: egy teljesen új { -brand-name-firefox }, amely az alapoktól újra lett építve, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
 firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
+firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
+# Obsolete string
 firefox-developer-all-the-latest = A legújabb béta verziójú fejlesztői eszközök, valamint <strong>kísérleti funkciók</strong>, például a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
