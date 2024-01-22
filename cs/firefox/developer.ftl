@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nové nástroje pro vývojáře { -brand-name-firefox-devtools } jsou funkční, flexibilní a hlavně pro hackery. Obsahují nejlepší debugger JavaScriptu, který cílí na několik prohlížečů a je napsaný v Reactu a Reduxu.
 firefox-developer-master-css-grid = Ovládněte CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = CSS jádro nové generace
 firefox-developer-built-for-developers = Vytvořeno pro vývojáře
-firefox-developer-a-next-generation = CSS Engine nové generace
 firefox-developer-master-innovative-features = Inovativní funkce
 firefox-developer-want-to-be-on-the-cutting-edge = Chcete být na hraně inovací?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } dostává denně aktualizace a umožňuje vám používat funkce měsíce předtím, než se dostanou k ostatním.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } obsahuje nové CSS jádro napsané v Rustu, které obsahuje skvělé inovace a je šíleně rychlé.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jediný prohlížeč, který má nástroje speciálně vyvinuté pro tvorbu a návrh CSS Gridu. Tyto nástroje vám dovolují vizualizovat grid, zobrazovat přiřazená jména oblastí, kontrolovat transformace gridu a spoustu dalšího.
 firefox-developer-convenient-features = Užitečné funkce
-firefox-developer-faster-performance = Vyšší výkon
 firefox-developer-shapes-editor = Editor tvarů
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Nástroje pro vývojáře { -brand-name-firefox-devtools } mají nový vizuální editor tvarů, který vám usnadní ladit vaše vylepšení a úpravy.
 firefox-developer-firefox-devtools-has-a-brand-new = Nástroje pro vývojáře { -brand-name-firefox-devtools } mají nový vizuální editor tvarů, který vám usnadní ladit vaše vylepšení a úpravy.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Gratulujeme. Nyní máte { -br
 firefox-developer-this-isnt-just-an-update = Není to jen aktualizace. Je to { -brand-name-firefox-quantum } - nový { -brand-name-firefox }, který byl upraven od základu, aby byl rychlejší, elegantnější a výkonnější než kdy předtím.
 firefox-developer-welcome-to-firefox-browser = Vítá vás { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Prohlížeč určený pro vývojáře
+firefox-developer-all-the-latest-v2 = Kromě funkcí jako je Multi-line Console Editor a WebSocket Inspector také všechny nejnovější nástroje pro vývojáře obsažené v betaverzi.
+# Obsolete string
 firefox-developer-all-the-latest = Všechny nejnovější nástroje pro vývojáře obsažené ve verzi Beta a k tomu ještě <strong>experimentální funkce</strong>, jako jsou Multi-line Console Editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho můžete snadno spustit zároveň se standardní verzí nebo { -brand-name-firefox(case: "ins") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Předvolby přímo <strong>pro webové vývojáře</strong>: Ve výchozím stavu je zapnuté ladění prohlížeče a vzdálené ladění, stejně jako tmavý vzhled a rychlý přístup k nástrojům pro vývojáře.
