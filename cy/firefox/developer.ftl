@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = Mae { -brand-name-firefox-dev
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Mae'r { -brand-name-firefox-devtools } newydd yn bwerus, hyblyg a gorau oll, yn hacadwy. Mae'n cynnwys y dadfygiwr JavaScript gorau yn ei ddosbarth, sy'n gallu targedu porwyr lluosog ac wedi ei adeiladu gyda React a Redux.
 firefox-developer-master-css-grid = Master CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = Peiriant CSS Cenhedlaeth Nesaf
 firefox-developer-built-for-developers = Adeiladwyd ar gyfer Datblygwyr
-firefox-developer-a-next-generation = Peiriant CSS Cenhedlaeth Nesaf
 firefox-developer-master-innovative-features = Nodweddion Arloesol
 firefox-developer-want-to-be-on-the-cutting-edge = Eisiau bod ar y blaen?
 firefox-developer-firefox-nightly-receives = Mae { -brand-name-firefox-nightly } yn derbyn diweddariadau dyddiol ac yn caniatáu i chi gael mynediad i nodweddion misoedd cyn iddyn nhw gyrraedd y cyhoedd.
-firefox-developer-firefox-quantum-includes = Mae { -brand-name-firefox-quantum } yn cynnwys peiriant CSS newydd, wedi ei ysgrifennu yn Rust, sy'n cynnwys yr arloesedd diweddaraf ac sy'n sydyn iawn.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } yw'r unig borwr gydag offer wedi eu hadeiladu'n benodol ar gyfer adeiladu a chynllunio grid CSS. Mae'r offer hyn yn caniatáu i chi ddelweddu'r grid, dangos enwau ardal cysylltiedig, rhagweld trawsnewidiadau ar y grid a mwy.
 firefox-developer-convenient-features = Nodweddion Hwylus
-firefox-developer-faster-performance = Perfformiad Cynt
 firefox-developer-shapes-editor = Golygydd Siapiau
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Mae gan { -brand-name-firefox-devtools } olygydd llwybr siâp newydd sy'n ei gwneud yn glir sut mae addasu eich siapiau allanol a llwybr clip drwy ganiatáu i chi addasu'n fanwl gyda golygydd gweladwy.
 firefox-developer-firefox-devtools-has-a-brand-new = Mae gan { -brand-name-firefox-devtools } olygydd llwybr siapiau newydd sy'n tynnu'r dyfalu allan o'ch siapiau cysgod y tu allan a llwybr clipio drwy ganiatáu i chi addasu eich newidiadau'n fan gyda golygydd gweledol.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Llongyfarchiadau. Rydych nawr 
 firefox-developer-this-isnt-just-an-update = Nid dim ond diweddariad yw hwn. Hwn yw { -brand-name-firefox-quantum }: { -brand-name-firefox } newydd sbon sydd wedi ei ailadeiladu o'i sail i fod yn gynt yn fwy llyfn a phwerus nag erioed.
 firefox-developer-welcome-to-firefox-browser = Croeso i { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
+firefox-developer-all-the-latest-v2 = Yr holl offer datblygwr diweddaraf mewn beta yn ogystal â nodweddion fel y Golygydd Consol Aml-lein ac Arolygydd WebSocket.
+# Obsolete string
 firefox-developer-all-the-latest = Yr holl offer datblygwr diweddaraf mewn beta, ynghyd â <strong>nodweddion arbrofol</strong> fel y Golygydd Aml-linell y Consol ac Archwiliwr WebSocket.
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
