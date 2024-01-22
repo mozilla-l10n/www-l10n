@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Las nuevas { -brand-name-firefox-devtools } de Firefox son poderosas, flexibles y, lo mejor de todo, modificables. Esto incluye un depurador JavaScript best-in-class, que puede apuntar a múltiples navegadores y está hecho en React y Redux.
 firefox-developer-master-css-grid = Grillas CSS profesionales
-# outdated
-firefox-developer-next-gen-css-engine = Motor de CSS de nueva generación
 firefox-developer-built-for-developers = Hecho para desarrolladores
-firefox-developer-a-next-generation = Un motor de CSS de nueva generación
 firefox-developer-master-innovative-features = Características innovadoras
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Quiere estar en la vanguardia?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } se actualiza todos los días y le permite acceder a las funciones meses antes de que se incluyan en la versión general.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } incluye un nuevo motor de CSS, escrito en Rust, que tiene innovaciones de última generación y es ultrarápido.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } es el único navegador con herramientas creadas específicamente para diseñar con Grillas CSS. Estas herramientas te permiten ver las grillas, mostrar los nombres de áreas asociadas, ver previamente las transformaciones en la grilla y mucho más.
 firefox-developer-convenient-features = Funciones convenientes
-firefox-developer-faster-performance = Mejor rendimiento
 firefox-developer-shapes-editor = Editor de formas
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Gracias al nuevo editor de formas de { -brand-name-firefox-devtools }, ya no hay necesidad de conjeturar cómo se ajustan las sombras externas ni cómo usar las formas clip-path, lo que te permite hacer los ajustes más finos fácilmente con un editor visual.
 firefox-developer-firefox-devtools-has-a-brand-new = Gracias al nuevo editor de formas de { -brand-name-firefox-devtools }, ya no hay necesidad de adivinar cómo se ajustan algunos detalles de cómo aplicar sombras externas o usar las formas clip-path, permitiéndote hacer los ajustes más finos fácilmente con un editor visual.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Felicitaciones. Ahora tiene { 
 firefox-developer-this-isnt-just-an-update = Esta no es sólo una actualización. Este es { -brand-name-firefox-quantum }: un nuevo { -brand-name-firefox } que ha sido creado desde cero para ser más rápido, liviano y más potente que nunca.
 firefox-developer-welcome-to-firefox-browser = Bienvenido a { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = El navegador hecho para desarrolladores
+firefox-developer-all-the-latest-v2 = Todas las herramientas para desarrolladores más recientes en versión beta, además de funciones como el editor de consola multilínea y el inspector de WebSocket.
+# Obsolete string
 firefox-developer-all-the-latest = Todas las herramientas para desarrollador de la beta, más <strong>funciones experimentales</strong> como el editor de consola multilínea y el inspector de WebSocket.
 firefox-developer-a-separate-profile = Con <strong>perfil y ruta separados</strong> para que se pueda ejecutar junto a { -brand-name-firefox } versión final o { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencias <strong>diseñadas para desarrolladores web</strong>: Depuración del navegador y remota vienen habilitadas por defecto, como el tema oscuro y el botón de la barra de desarrollador.
