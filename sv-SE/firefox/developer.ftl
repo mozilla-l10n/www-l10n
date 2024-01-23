@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = De nya { -brand-name-firefox-devtools } är kraftfulla, flexibla och bäst av allt, de går att utöka. Detta inkluderar en JavaScript-debugger, som kan användas på flera webbläsare och utvecklad i React och Redux.
 firefox-developer-master-css-grid = Behärska CSS-rutnät
-# outdated
-firefox-developer-next-gen-css-engine = Nästa generations CSS-motor
 firefox-developer-built-for-developers = Byggt för utvecklare
-firefox-developer-a-next-generation = Nästa generations CSS-motor
 firefox-developer-master-innovative-features = Innovativa funktioner
 firefox-developer-want-to-be-on-the-cutting-edge = Vill du vara i framkant?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } tar emot dagliga uppdateringar och låter dig komma åt funktioner månader innan de går ut till alla andra.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } innehåller en ny CSS-motor, utvecklad i Rust, som har toppmoderna innovationer och är blixtrande snabb.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } är den enda webbläsaren med verktyg som är konstruerade speciellt för att bygga och designa med CSS-rutnät. Med dessa verktyg kan du visualisera rutnätet, visa associerade områdesnamn, förhandsgranska transformering på rutnätet och mycket mer.
 firefox-developer-convenient-features = Praktiska funktioner
-firefox-developer-faster-performance = Snabbare prestanda
 firefox-developer-shapes-editor = Formeditor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } har en ny formeditor som gör det enklare att redigera 'shape-outside' och 'clip-path' figurer genom att göra justeringar med en visuell redigerare.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } har en ny formeditor som gör det enklare att redigera 'shadow-outside' och 'clip-path' figurer genom att göra justeringar med en visuell redigerare.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Grattis. Du har nu { -brand-na
 firefox-developer-this-isnt-just-an-update = Detta är inte bara en uppdatering. Detta är { -brand-name-firefox-quantum }: en helt ny { -brand-name-firefox } som har blivit ombyggd från grunden för att vara snabbare, snyggare och mer kraftfull än tidigare.
 firefox-developer-welcome-to-firefox-browser = Välkommen till { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Webbläsaren gjord för utvecklare
+firefox-developer-all-the-latest-v2 = Alla de senaste utvecklingsverktygen i beta utöver funktioner som konsolredigeraren med flera rader och WebSocket-inspektören.
+# Obsolete string
 firefox-developer-all-the-latest = Alla de senaste utvecklarverktygen i beta, plus <strong>experimentella funktioner</strong> som konsolredigeraren med flera rader och WebSocket-inspektören.
 firefox-developer-a-separate-profile = En <strong>separat profil och sökväg</strong> så att du enkelt kan köra den tillsammans med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Inställningar <strong>skräddarsydda för webbutvecklare</strong>: Webbläsar- och fjärrfelsökning är aktiverade som standard, liksom det mörka temat och knappen för verktygsfält för utvecklare.
