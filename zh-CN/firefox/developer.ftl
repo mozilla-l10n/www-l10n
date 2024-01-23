@@ -77,7 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = 欢迎，您现在使用的是
 firefox-developer-this-isnt-just-an-update = 这不仅仅是次普通的更新。这是从底层开始重新打造的 { -brand-name-firefox }，更快、更轻、更强大。这是 { -brand-name-firefox-quantum }。
 firefox-developer-welcome-to-firefox-browser = 欢迎使用 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = 专为开发者构建的浏览器
-firefox-developer-all-the-latest-v2 = Beta 版中所有最新的开发者工具此外还有多行控制台编辑器和 WebSocket 检查器等功能。
+firefox-developer-all-the-latest-v2 = 包含 Beta 版中所有最新的开发者工具，并加入了多行控制台编辑器和 WebSocket 检查器等功能。
 # Obsolete string
 firefox-developer-all-the-latest = Beta 版中所有最新的开发者工具，再加上多行控制台编辑器和 WebSocket 检查器等<strong>实验功能</strong>。
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
