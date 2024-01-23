@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = De nieuwe { -brand-name-firefox-devtools } zijn krachtig, flexibel, en het beste van alles, aanpasbaar. Hieronder valt een uitmuntende JavaScript-debugger, die geschikt is voor meerdere browsers en gebouwd is in React en Redux.
 firefox-developer-master-css-grid = Beheers CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
 firefox-developer-built-for-developers = Gebouwd voor ontwikkelaars
-firefox-developer-a-next-generation = Een CSS-engine van de volgende generatie
 firefox-developer-master-innovative-features = Innovatieve functies
 firefox-developer-want-to-be-on-the-cutting-edge = Wilt u vooruit blijven lopen?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } ontvangt dagelijks updates en biedt vroege toegang tot functies voordat ze worden vrijgegeven.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } bezit een nieuwe CSS-engine, geschreven in Rust, die de nieuwste innovaties bevat en razendsnel is.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } is de enige browser met hulpmiddelen die specifiek zijn gemaakt voor het bouwen en ontwerpen met CSS Grid. Met deze hulpmiddelen kunt u het raster visualiseren, gekoppelde gebiedsnamen weergeven, voorbeelden van transformaties op het raster bekijken, en veel meer.
 firefox-developer-convenient-features = Handige functies
-firefox-developer-faster-performance = Snellere prestaties
 firefox-developer-shapes-editor = Vormen-editor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } heeft een hagelnieuwe ‘shape path editor’ die giswerk uit het fijnafstemmen van uw ‘shape-outside’- en ‘clip-path’-vormen haalt doordat u aanpassingen eenvoudig kunt optimaliseren met een visuele editor.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } heeft een hagelnieuwe ‘shape path editor’ die giswerk uit het fijnafstemmen van uw ‘shape-outside’- en ‘clip-path’-vormen haalt doordat u aanpassingen eenvoudig kunt optimaliseren met een visuele editor.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Gefeliciteerd. U beschikt nu o
 firefox-developer-this-isnt-just-an-update = Dit is niet zomaar een update. Dit is { -brand-name-firefox-quantum }: een hagelnieuwe { -brand-name-firefox } die volledig opnieuw is opgebouwd om sneller, slanker en krachtiger te zijn dan ooit tevoren.
 firefox-developer-welcome-to-firefox-browser = Welkom bij { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = De browser gemaakt voor ontwikkelaars
+firefox-developer-all-the-latest-v2 = Alle nieuwste ontwikkelaarstools in beta, naast functies zoals de Multi-line Console Editor en WebSocket Inspector.
+# Obsolete string
 firefox-developer-all-the-latest = Alle nieuwste ontwikkelaarstools in beta, plus <strong>experimentele functies</strong> zoals de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = Een <strong>apart profiel en pad</strong>, zodat u het gemakkelijk naast { -brand-name-firefox } Release of { -brand-name-beta } kunt gebruiken.
 firefox-developer-preferences-tailored = Voorkeuren die <strong>op maat zijn gemaakt voor webontwikkelaars</strong>: foutopsporing in de browser en op afstand debuggen zijn standaard ingeschakeld, evenals het donkere thema en de knop voor de ontwikkelaarswerkbalk.
