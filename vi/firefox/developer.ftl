@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } mới rất mạnh mẽ, linh hoạt, và tốt nhất của tất cả, dễ dàng tùy biến. Nó bao gồm một trình gỡ lỗi JavaScript tốt nhất, mà có thể nhắm mục tiêu tới nhiều trình duyệt và được xây dựng trong React và Redux.
 firefox-developer-master-css-grid = Bậc thầy về lưới CSS
-# outdated
-firefox-developer-next-gen-css-engine = Công cụ CSS thế hệ tiếp theo
 firefox-developer-built-for-developers = Được xây dựng cho các nhà phát triển
-firefox-developer-a-next-generation = Một công cụ CSS thế hệ tiếp theo
 firefox-developer-master-innovative-features = Tính năng sáng tạo
 firefox-developer-want-to-be-on-the-cutting-edge = Bạn có muốn theo đuổi xu hướng tiên tiến?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } nhận cập nhật hàng ngày và cho phép bạn truy cập các tính năng hàng tháng trước khi chúng được tích hợp trên phiên bản chính thức.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } bao gồm một công cụ CSS mới, được viết bằng Rust, có những cải tiến tiên tiến và nhanh chóng.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } là trình duyệt duy nhất có các công cụ được xây dựng dành riêng để xây dựng và thiết kế với lưới CSS. Các công cụ này cho phép bạn trực quan hóa lưới, hiển thị tên khu vực liên quan, chuyển đổi xem trước trên lưới và nhiều hơn nữa.
 firefox-developer-convenient-features = Các tính năng tiện lợi
-firefox-developer-faster-performance = Hiệu năng tốt hơn
 firefox-developer-shapes-editor = Trình biên tập hình dạng
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } có trình chỉnh sửa mới giúp dễ dàng thao tác với các hình dạng bên ngoài và hình dạng đường dẫn clip bằng cách điều chỉnh với trình chỉnh sửa trực quan.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } có trình chỉnh sửa mới để ước tính hình thức bỏ bóng và các clip cho phép bạn cải thiện điều chỉnh bằng trình chỉnh sửa trực quan rất đơn giản.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Chúc mừng. Bạn đã cài 
 firefox-developer-this-isnt-just-an-update = Đây không chỉ là một bản cập nhật. Đây là { -brand-name-firefox-quantum }: Một { -brand-name-firefox } hoàn toàn mới đã được xây dựng lại từ đầu để nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
 firefox-developer-welcome-to-firefox-browser = Chào mừng đến với { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Trình duyệt dành cho nhà phát triển
+firefox-developer-all-the-latest-v2 = Tất cả các công cụ mới nhất dành cho nhà phát triển trong bản beta cùng các tính năng như trình chỉnh sửa bảng điều khiển nhiều dòng và trình kiểm tra WebSocket.
+# Obsolete string
 firefox-developer-all-the-latest = Tất cả các công cụ mới nhất dành cho nhà phát triển trong bản beta, cùng với <strong>các tính năng thử nghiệm</strong> như trình chỉnh sửa bảng điều khiển nhiều dòng và trình kiểm tra WebSocket.
 firefox-developer-a-separate-profile = Một <strong>hồ sơ và đường dẫn riêng biệt</strong> để bạn có thể dễ dàng chạy nó cùng với { -brand-name-firefox } bản phát hành chính thức hoặc { -brand-name-beta }.
 firefox-developer-preferences-tailored = Tùy chọn <strong>phù hợp với nhà phát triển web</strong>: Trình duyệt và gỡ lỗi từ xa được bật theo mặc định, cũng như nút thanh công cụ dành cho nhà phát triển và chủ đề tối.
