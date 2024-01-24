@@ -38,7 +38,7 @@ features-adblocker-create-a-tracker-free = Erstellen Sie mit Inhaltsblockierung 
 features-adblocker-on-firefox-you-can-use = In { -brand-name-firefox } können Sie die Einstellungen <a href="{ $privacy }">Datenschutz</a> oder <a href="{ $blocking }">Inhaltsblockierung</a> verwenden, um noch mehr Kontrolle über die Werbe-Tracker zu erhalten, die Ihnen die Anzeigen übermitteln.
 
 features-adblocker-choose-your-level-of-protection = Wählen Sie Ihre Schutzstufe
-features-adblocker-to-start-click-on-the-v2 = Klicken Sie auf das Schild links neben der Adressleiste auf einer beliebigen Website und wählen Sie „Schutzeinstellungen“, um zu beginnen.So wird die { -brand-name-firefox }-Leiste für Datenschutz- und Sicherheitseinstellungen in einem neuen Tab geöffnet.Sie sollten ein blaues Pop-up-Fenster mit verschiedenen Wahlmöglichkeiten sehen.
+features-adblocker-to-start-click-on-the-v2 = Klicken Sie auf das Schild links neben der Adressleiste auf einer beliebigen Website und wählen Sie „Schutzeinstellungen“, um zu beginnen. So wird die { -brand-name-firefox }-Leiste für Datenschutz- und Sicherheitseinstellungen in einem neuen Tab geöffnet. Sie sollten ein blaues Pop-up-Fenster mit verschiedenen Wahlmöglichkeiten sehen.
 
 features-adblocker-go-easy-with-standard = Der Standard-Modus ist recht locker
 
@@ -70,4 +70,4 @@ features-adblocker-in-some-cases-an-ad-blocker = In einigen Fällen kann ein Wer
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung.Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.
+features-adblocker-if-you-want-to-learn-more-v2 = Wenn Sie mehr über das Blockieren von Werbung erfahren möchten, stehen für { -brand-name-firefox } und andere Browser Hunderte von Werbeblocker-Erweiterungen zur Verfügung. Wenn Sie die von { -brand-name-firefox } verwendeten Werbeblocker ausprobieren möchten, <a href="{ $url }">klicken Sie hier, um einen Browser herunterzuladen,</a> bei dem der Datenschutz an erster Stelle steht.

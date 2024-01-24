@@ -38,7 +38,7 @@ features-adblocker-create-a-tracker-free = Ciptakan zona bebas pelacak dengan Pe
 features-adblocker-on-firefox-you-can-use = Di { -brand-name-firefox }, Anda dapat menggunakan setelan <a href="{ $privacy }">Privasi</a> atau <a href="{ $blocking }">Pemblokiran Konten</a> untuk mendapatkan kendali yang lebih besar atas pelacak yang membawa iklan.
 
 features-adblocker-choose-your-level-of-protection = Pilih tingkat perlindungan Anda
-features-adblocker-to-start-click-on-the-v2 = Untuk memulai, klik perisai di sebelah kiri bilah alamat di halaman web mana pun dan pilih “Pengaturan Perlindungan.” Ini akan membuka tab baru yang berisi panel Pengaturan Privasi & Keamanan { -brand-name-firefox }.Anda akan melihat sembulan biru dengan pilihan berbeda.
+features-adblocker-to-start-click-on-the-v2 = Untuk memulai, klik perisai di sebelah kiri bilah alamat di halaman web mana pun dan pilih “Pengaturan Perlindungan.” Ini akan membuka tab baru yang berisi panel Pengaturan Privasi & Keamanan { -brand-name-firefox }. Anda akan melihat sembulan biru dengan pilihan berbeda.
 
 features-adblocker-go-easy-with-standard = Mudah dengan mode Standar
 
