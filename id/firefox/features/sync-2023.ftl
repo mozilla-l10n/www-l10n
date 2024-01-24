@@ -19,7 +19,7 @@ features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar aku
 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
-features-sync-all-your-data-is-encrypted-on-our = Semua data Anda dienkripsi di server kami sehingga kami tidak dapat membacanya – hanya Anda yang dapat mengaksesnya.Kami tidak menjual informasi Anda kepada pengiklan karena hal itu bertentangan dengan <a href="{ $privacy }">janji privasi data</a> kami.
+features-sync-all-your-data-is-encrypted-on-our = Semua data Anda dienkripsi di server kami sehingga kami tidak dapat membacanya – hanya Anda yang dapat mengaksesnya. Kami tidak menjual informasi Anda kepada pengiklan karena hal itu bertentangan dengan <a href="{ $privacy }">janji privasi data</a> kami.
 features-sync-send-tabs-from-one-device-to-another = Kirim tab dari satu perangkat ke perangkat lainnya
 features-sync-the-send-tab-feature-in-firefox = Dengan fitur Kirim Tab di { -brand-name-firefox }, Anda dapat mengirimkan halaman dari { -brand-name-firefox } di satu perangkat ke perangkat lain (seperti perangkat iPhone, iPad, atau Android). Pernahkah Anda menemukan artikel menarik saat menjelajah menggunakan ponsel dan ingin Anda baca kembali di meja kerja? Atau dokumen kerja penting yang ingin Anda simpan untuk diperiksa kembali di rumah? Atau mungkin Anda menemukan resep di laptop dan ingin dikirimkan ke tablet Anda yang ada di dapur. Kirim saja tab-nya!
 
