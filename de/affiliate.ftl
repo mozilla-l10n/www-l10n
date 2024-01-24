@@ -8,7 +8,7 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Wir verwenden Cookies, um zu verstehen, welcher Partner Sie hierher geführt hat.Wir geben keine persönlichen und identifizierende Informationen an unsere Partner weiter.Lesen Sie unsere <a { $attrs }>Datenschutzrichtlinie</a>.
+affiliate-notification-message = Wir verwenden Cookies, um zu verstehen, welcher Partner Sie hierher geführt hat. Wir geben keine persönlichen und identifizierende Informationen an unsere Partner weiter. Lesen Sie unsere <a { $attrs }>Datenschutzrichtlinie</a>.
 
 # label for the button that rejects cookie use
 affiliate-notification-reject = Ablehnen

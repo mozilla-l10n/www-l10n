@@ -8,7 +8,7 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Kami menggunakan kuki untuk mengetahui mitra afiliasi mana yang mengarahkan Anda ke sini.Kami tidak membagikan informasi identitas pribadi kepada mitra kami. Baca <a { $attrs }>Kebijakan Privasi</a> kami.
+affiliate-notification-message = Kami menggunakan kuki untuk mengetahui mitra afiliasi mana yang mengarahkan Anda ke sini. Kami tidak membagikan informasi identitas pribadi kepada mitra kami. Baca <a { $attrs }>Kebijakan Privasi</a> kami.
 
 # label for the button that rejects cookie use
 affiliate-notification-reject = Tolak
