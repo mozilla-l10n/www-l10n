@@ -13,6 +13,6 @@ relay-shared-subnav-faq = { -brand-name-relay } FAQ
 nav-profile-sign-in = Anmelden
 
 # Page description
-meta-description-2 = { -brand-name-firefox-relay } macht es einfach, E-Mail-Masken zu erstellen, die Ihre Nachrichten an Ihren echten Posteingang weiterleiten.Verwenden Sie sie, um Ihre Online-Konten vor Hackern und unerwünschten Nachrichten zu schützen.
+meta-description-2 = { -brand-name-firefox-relay } macht es einfach, E-Mail-Masken zu erstellen, die Ihre Nachrichten an Ihren echten Posteingang weiterleiten. Verwenden Sie sie, um Ihre Online-Konten vor Hackern und unerwünschten Nachrichten zu schützen.
 
 hero-section-cta = Loslegen

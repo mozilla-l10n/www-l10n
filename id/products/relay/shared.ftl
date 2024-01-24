@@ -13,6 +13,6 @@ relay-shared-subnav-faq = Pertanyaan Umum (FAQ) { -brand-name-relay }
 nav-profile-sign-in = Masuk
 
 # Page description
-meta-description-2 = { -brand-name-firefox-relay } mempermudah pembuatan topeng surel yang meneruskan pesan ke kotak masuk asli Anda.Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.
+meta-description-2 = { -brand-name-firefox-relay } mempermudah pembuatan topeng surel yang meneruskan pesan ke kotak masuk asli Anda. Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.
 
 hero-section-cta = Mari Mulai
