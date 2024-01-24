@@ -9,7 +9,7 @@ features-customize-customize-your-firefox = Personalisieren Sie Ihren { -brand-n
 # HTML page description
 features-customize-choose-how-your-browser-looks = Wählen Sie aus Tausenden kostenlosen Themen und gestalten Sie Ihren Browser selbst.
 
-features-customize-firefox-themes-let-you-change = Mit { -brand-name-firefox }-Themen können Sie Ihren Browser gestalten.Die Themen bestimmen das Farbschema für Browser-Menüs und { -brand-name-firefox }-Systemseiten und können Ihrer { -brand-name-firefox }-Symbolleiste sogar ein Hintergrundbild hinzufügen.
+features-customize-firefox-themes-let-you-change = Mit { -brand-name-firefox }-Themen können Sie Ihren Browser gestalten. Die Themen bestimmen das Farbschema für Browser-Menüs und { -brand-name-firefox }-Systemseiten und können Ihrer { -brand-name-firefox }-Symbolleiste sogar ein Hintergrundbild hinzufügen.
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } ist standardmäßig mit einem Systemthema ausgestattet und bietet die Farbvariationen Hell, Dunkel und Bunt.
 
 # Used as accessible alternative text for an image
