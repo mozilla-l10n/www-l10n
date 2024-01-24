@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
-meta-description-2 = { -brand-name-firefox-relay } macht es einfach, E-Mail-Masken zu erstellen, die Ihre Nachrichten an Ihren echten Posteingang weiterleiten.Verwenden Sie sie, um Ihre Online-Konten vor Hackern und unerwünschten Nachrichten zu schützen.
+meta-description-2 = { -brand-name-firefox-relay } macht es einfach, E-Mail-Masken zu erstellen, die Ihre Nachrichten an Ihren echten Posteingang weiterleiten. Verwenden Sie sie, um Ihre Online-Konten vor Hackern und unerwünschten Nachrichten zu schützen.
 
 ## HERO SECTION
 
@@ -26,7 +26,7 @@ how-it-works-section-extension-headline = Verwenden Sie überall E-Mail- und Tel
 how-it-works-section-extension-body = Erhalten Sie sichere, zufällige E-Mail-Masken und eine eindeutige, maskierte Telefonnummer, die Sie verwenden können, wenn eine Website, App, ein Geschäft oder ein Restaurant nach Ihren Daten fragt.
 
 how-it-works-section-forward-headline = Wir leiten E-Mails, Anrufe und SMS an Sie weiter
-how-it-works-section-forward-body = Seien Sie versichert, dass Absender niemals Ihre echte E-Mail-Adresse oder echte Nummer erfahren.Sie können sogar auf Textnachrichten und E-Mails antworten, ohne Ihre wahre Identität preiszugeben.
+how-it-works-section-forward-body = Seien Sie versichert, dass Absender niemals Ihre echte E-Mail-Adresse oder echte Nummer erfahren. Sie können sogar auf Textnachrichten und E-Mails antworten, ohne Ihre wahre Identität preiszugeben.
 
 how-it-works-section-manage-headline = Verwalten Sie Ihre Masken über Ihr { -brand-name-relay } Dashboard
 how-it-works-section-manage-body = Melden Sie sich bei Ihrem { -brand-name-relay } Dashboard an, um neue Masken zu erstellen, vorhandene Masken zu kennzeichnen und Anrufe, SMS oder E-Mails von Masken zu blockieren, die zu viel Spam erhalten.
@@ -49,9 +49,9 @@ landing-reviews-out-of-5 =
 landing-reviews-show-next-button = Nächste Bewertung anzeigen
 landing-reviews-show-previous-button = Vorherige Bewertung anzeigen
 landing-review-anonymous-user = { -brand-name-firefox } Nutzer*in { $user_id }
-landing-review-user-one-review = Ich schätze das Team von { -brand-name-mozilla } sehr dafür, dass es so kreativ ist und die Anonymisierung meiner E-Mail-Adresse vereinfacht hat.Dies ist eine großartige Erweiterung, die ich datenschutzbewussten Personen nur wärmstens empfehlen kann!
+landing-review-user-one-review = Ich schätze das Team von { -brand-name-mozilla } sehr dafür, dass es so kreativ ist und die Anonymisierung meiner E-Mail-Adresse vereinfacht hat. Dies ist eine großartige Erweiterung, die ich datenschutzbewussten Personen nur wärmstens empfehlen kann!
 landing-review-user-two-review = Einfaches Werkzeug, um Ihre E-Mail-ID loszuwerden oder Spam zu vermeiden.
-landing-review-user-three-review = Ich liebe diese Erweiterung!Sehr einfach, aber leistungsstark und die Integration mit dem Browser ist toll.
+landing-review-user-three-review = Ich liebe diese Erweiterung! Sehr einfach, aber leistungsstark und die Integration mit dem Browser ist toll.
 landing-review-user-four-review-list-1 = Gibt Sicherheit beim Surfen im Internet.
 landing-review-user-four-review-list-2 = Schützt die eigene Identität vor Trackern durch die Generierung von Aliasnamen, wenn man die echte E-Mail-Adresse aus verschiedenen Gründen nicht weitergeben möchte.
 landing-review-user-four-review-list-3 = E-Mail-Posteingangsdaten sind bei { -brand-name-firefox-relay } sicher.

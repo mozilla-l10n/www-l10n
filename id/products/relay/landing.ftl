@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/products/relay/
 
 meta-title = { -brand-name-firefox-relay }
-meta-description-2 = { -brand-name-firefox-relay } mempermudah pembuatan topeng surel yang meneruskan pesan ke kotak masuk asli Anda.Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.
+meta-description-2 = { -brand-name-firefox-relay } mempermudah pembuatan topeng surel yang meneruskan pesan ke kotak masuk asli Anda. Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.
 
 ## HERO SECTION
 
@@ -26,7 +26,7 @@ how-it-works-section-extension-headline = Gunakan topeng surel dan topeng telepo
 how-it-works-section-extension-body = Dapatkan topeng surel acak yang aman dan nomor telepon bertopeng yang unik untuk digunakan kapan saja ketika situs web, aplikasi, toko, atau restoran meminta informasi Anda.
 
 how-it-works-section-forward-headline = Kami akan meneruskan surel, panggilan telepon, dan SMS kepada Anda
-how-it-works-section-forward-body = Tenang, pengirim tidak akan pernah tahu alamat surel atau nomor asli Anda.Anda bahkan dapat membalas pesan teks dan surel tanpa membagikan identitas asli Anda.
+how-it-works-section-forward-body = Tenang, pengirim tidak akan pernah tahu alamat surel atau nomor asli Anda. Anda bahkan dapat membalas pesan teks dan surel tanpa membagikan identitas asli Anda.
 
 how-it-works-section-manage-headline = Kelola topeng Anda dari dasbor { -brand-name-relay }
 how-it-works-section-manage-body = Masuk ke dasbor { -brand-name-relay } Anda untuk membuat topeng baru, memberi label topeng yang ada, dan memblokir panggilan, SMS, atau surel dari topeng yang mendapatkan terlalu banyak spam.
