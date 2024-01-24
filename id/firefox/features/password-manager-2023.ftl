@@ -32,7 +32,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } dap
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Gambar formulir login situs web dengan { -brand-name-firefox } menampilkan beberapa akun tersimpan yang dapat dipilih saat masuk.
 password-manager-import-passwords = Impor kata sandi
-password-manager-you-can-use-the-import-wizard = Anda dapat dengan mudah (secara ajaib) menggunakan import wizard untuk mengimpor nama pengguna dan kata sandi yang disimpan di Chrome, Edge, Safari, atau peramban lainnya.Pilih Kata Sandi dari menu, lalu klik “impor ke { -brand-name-firefox }” di bagian bawah halaman Login & Kata Sandi.
+password-manager-you-can-use-the-import-wizard = Anda dapat dengan mudah (secara ajaib) menggunakan import wizard untuk mengimpor nama pengguna dan kata sandi yang disimpan di Chrome, Edge, Safari, atau peramban lainnya. Pilih Kata Sandi dari menu, lalu klik “impor ke { -brand-name-firefox }” di bagian bawah halaman Login & Kata Sandi.
 
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Gambar dialog import wizard { -brand-name-firefox }, menampilkan opsi untuk mengimpor pengaturan dan data dari peramban lain.
@@ -52,4 +52,4 @@ password-manager-password-security-alerts = Peringatan keamanan kata sandi
 password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>memperingatkan Anda jika kata sandi telah terekspos</a> dalam suatu pelanggaran data, sehingga Anda dapat menggantinya sebelum peretas sempat melakukan tindakan yang merugikan, seperti menyewa mobil mewah dengan kartu kredit Anda.
 
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-password-manager = Gambar pengelola kata sandi { -brand-name-firefox } menampilkan pesan peringatan yang berbunyi “Kata sandi ini telah digunakan di akun lain yang mungkin mengalami pelanggaran data. Menggunakan kredensial berulang kali dapat membahayakan semua akun Anda.Ubah kata sandi ini.”
+password-manager-image-of-the-firefox-password-manager = Gambar pengelola kata sandi { -brand-name-firefox } menampilkan pesan peringatan yang berbunyi “Kata sandi ini telah digunakan di akun lain yang mungkin mengalami pelanggaran data. Menggunakan kredensial berulang kali dapat membahayakan semua akun Anda. Ubah kata sandi ini.”
