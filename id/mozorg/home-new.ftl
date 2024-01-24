@@ -8,7 +8,7 @@ home-internet-for-people-not-profit = Internet untuk semua orang, bukan untuk me
 home-did-you-know-mozilla-the-maker = Tahukah Anda? { -brand-name-mozilla } — sebagai pembuat { -brand-name-firefox } — berjuang agar internet tetap menjadi sumber daya publik global, terbuka, dan dapat diakses oleh semua.
 
 home-mission-driven = Digerakkan oleh misi. Didukung masyarakat.
-home-were-not-normal = Kami bukan perusahaan teknologi biasa. Inovasi yang kami kembangkan mengutamakan pengguna dan privasinya dibanding laba.Kami hadir untuk menjadikan internet tempat yang lebih sehat dan menyenangkan bagi semua orang.
+home-were-not-normal = Kami bukan perusahaan teknologi biasa. Inovasi yang kami kembangkan mengutamakan pengguna dan privasinya dibanding laba. Kami hadir untuk menjadikan internet tempat yang lebih sehat dan menyenangkan bagi semua orang.
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Kami ada demi kesehatan internet dan kehidupan daring.”
@@ -34,7 +34,7 @@ home-mozilla-consists-of = { -brand-name-mozilla } terdiri dari dua organisasi. 
 home-learn-about-mofo = Pelajari tentang { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Ikut memperjuangkan internet yang sehat
-home-your-voice-your-code = Suara Anda. Kode Anda. Ide Anda.Ada banyak cara yang dapat Anda lakukan untuk berkontribusi pada { -brand-name-mozilla }.
+home-your-voice-your-code = Suara Anda. Kode Anda. Ide Anda. Ada banyak cara yang dapat Anda lakukan untuk berkontribusi pada { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Jadi relawan di { -brand-name-mozilla }
 
 home-that-one-time = Di suatu waktu saat kami mengungkapkan kode sumber kami…
