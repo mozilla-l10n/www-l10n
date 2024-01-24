@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Novi { -brand-name-firefox-devtools } su moćni, fleksibilni i prilagodljivi. Ovo uključuje najbolji JavaScript otklanjač grešaka, koji može upravljati s više pretraživača i razvijen je u React-u i Redux-u.
 firefox-developer-master-css-grid = Ovladajte CSS mrežom
-# outdated
-firefox-developer-next-gen-css-engine = CSS motor nove generacije
 firefox-developer-built-for-developers = Napravljen za programere
-firefox-developer-a-next-generation = CSS motor nove generacije
 firefox-developer-master-innovative-features = Inovativne mogućnosti
 firefox-developer-want-to-be-on-the-cutting-edge = Želite ostati uz najnovije tehnologije?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } prima dnevno ažuriranje i omogućava vam pristup mogućnostima mjesecima prije nego budu dostupni široj javnosti.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } uključuje novi CSS motor, napravljen u Rust-u, koji posjeduje najsavremenije inovacije i radi super brzo.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jedini pretraživač s alatima napravljenim posebno za izgradnju i dizajniranje s CSS mrežom. Ovi alati omogućavaju vam vizualizaciju mreže, prikaz naziva pridruženih lokacija, pregled transformacije na mreži i još mnogo toga.
 firefox-developer-convenient-features = Korisne mogućnosti
-firefox-developer-faster-performance = Veća efikasnost
 firefox-developer-shapes-editor = Urednik oblika
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shape-outside" in "clip-path".
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } su opremljeni potpuno novim uređivačem oblika, koji uz intuitivno vizualno uređivanje štedi nagađanja o usavršavanju oblika "shadow-outside" in "clip-path".
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Čestitamo. Sada imate { -bran
 firefox-developer-this-isnt-just-an-update = Ovo nije samo nadogradnja. Ovo je { -brand-name-firefox-quantum }: potpuno novi { -brand-name-firefox } koji je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad prije.
 firefox-developer-welcome-to-firefox-browser = Dobrodošli u { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Pretraživač napravljen za programere
+firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji, pored funkcija kao što su uređivač višelinijskih konzola i WebSocket inspektor.
+# Obsolete string
 firefox-developer-all-the-latest = Svi najnoviji alati za programere u beta verziji, plus <strong>eksperimentalne funkcije</strong> kao što su uređivač višelinijskih konzola i WebSocket inspektor.
 firefox-developer-a-separate-profile = <strong>Zaseban profil i putanja</strong> tako da ga možete lahko pokrenuti uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-preferences-tailored = Postavke <strong>skrojene za web programere</strong>: Otklanjanje grešaka u pretraživaču i udaljeno su podrazumjevano omogućeni, kao i tamna tema i brz pristup alatima za programere.
