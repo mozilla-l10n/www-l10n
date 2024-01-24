@@ -8,7 +8,7 @@
 monitor-landing-page-title = { -brand-name-mozilla-monitor } — Lindungi Data Pribadi Anda dari Risiko Pelanggaran
 
 # HTML page description
-monitor-landing-page-desc = Telusuri apakah informasi pribadi Anda, dari nomor telepon hingga alamat rumah, sudah tersebar di internet. Bergabunglah dengan 10 juta pengguna di seluruh dunia untuk memperoleh kembali privasi Anda.Mulai dengan pemindaian gratis.
+monitor-landing-page-desc = Telusuri apakah informasi pribadi Anda, dari nomor telepon hingga alamat rumah, sudah tersebar di internet. Bergabunglah dengan 10 juta pengguna di seluruh dunia untuk memperoleh kembali privasi Anda. Mulai dengan pemindaian gratis.
 
 monitor-hero-heading = Cari tahu di mana informasi pribadi Anda terungkap — dan pulihkan kembali
 monitor-hero-tagline = Kami melakukan pemindaian terhadap pelanggaran data untuk mengecek apakah data Anda telah bocor, dan memberikan panduan untuk mengatasi situasi tersebut.
@@ -50,8 +50,8 @@ monitor-faq-heading = Pertanyaan umum
 monitor-all-faq-link = Lihat semua Pertanyaan Umum
 monitor-faq-what-is-a-data-breach-question = Apa yang dimaksud dengan pelanggaran data?
 monitor-faq-what-is-a-data-breach-answer = Pelanggaran data terjadi ketika informasi pribadi terungkap, dicuri, atau disalin tanpa izin. Insiden keamanan ini bisa disebabkan oleh serangan siber terhadap situs web, aplikasi, atau basis data yang menyimpan informasi pribadi seseorang. Pelanggaran data juga dapat terjadi secara tidak sengaja, seperti ketika kredensial login seseorang diposting secara publik.
-monitor-faq-what-do-i-do-question = Saya baru saja mengetahui bahwa saya mengalami pelanggaran data.Apa yang harus saya lakukan?
-monitor-faq-what-do-i-do-answer = Kunjungi { -brand-name-mozilla-monitor } untuk mempelajari upaya yang harus diambil setelah terjadinya pelanggaran data dan mendapatkan panduan bagaimana mengatasi informasi pribadi yang terungkap. Peretas memanfaatkan pengguna yang menggunakan kata sandi yang sama di berbagai akun, oleh karena itu, Anda harus membuat kata sandi yang kuat dan unik untuk setiap akun.Simpan kata sandi Anda di tempat yang aman yang hanya dapat diakses oleh Anda; tempat ini bisa sama dengan tempat Anda menyimpan dokumen penting atau pengelola kata sandi.
+monitor-faq-what-do-i-do-question = Saya baru saja mengetahui bahwa saya mengalami pelanggaran data. Apa yang harus saya lakukan?
+monitor-faq-what-do-i-do-answer = Kunjungi { -brand-name-mozilla-monitor } untuk mempelajari upaya yang harus diambil setelah terjadinya pelanggaran data dan mendapatkan panduan bagaimana mengatasi informasi pribadi yang terungkap. Peretas memanfaatkan pengguna yang menggunakan kata sandi yang sama di berbagai akun, oleh karena itu, Anda harus membuat kata sandi yang kuat dan unik untuk setiap akun. Simpan kata sandi Anda di tempat yang aman yang hanya dapat diakses oleh Anda; tempat ini bisa sama dengan tempat Anda menyimpan dokumen penting atau pengelola kata sandi.
 monitor-faq-what-gets-exposed-question = Informasi apa yang terekspos dalam pelanggaran data?
 monitor-faq-whats-gets-exposed-answer = Tidak semua pelanggaran mengungkap informasi yang sama. Tergantung pada apa yang dapat diakses oleh peretas. Banyak pelanggaran data yang mengungkap alamat email dan kata sandi. Yang lain membeberkan informasi yang lebih sensitif seperti nomor kartu kredit, nomor paspor, dan nomor jaminan sosial.
 
