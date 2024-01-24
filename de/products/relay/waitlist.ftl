@@ -38,4 +38,4 @@ waitlist-subscribe-success-bundle-desc = Wir werden Sie per E-Mail informieren, 
 waitlist-subscribe-please-enter-a-valid = Bitte geben Sie eine gültige E-Mail-Adresse ein
 waitlist-subscribe-please-select-country = Bitte wählen Sie ein Land oder eine Region
 waitlist-subscribe-please-select-language = Bitte wählen Sie eine Sprache
-waitlist-subscribe-error-unknown = Beim Hinzufügen zur Warteliste ist ein Fehler aufgetreten.Bitte versuchen Sie es erneut.
+waitlist-subscribe-error-unknown = Beim Hinzufügen zur Warteliste ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
