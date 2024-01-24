@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/governance/policies/participation/
@@ -98,7 +98,7 @@ participation-mozilla-spaces = { -brand-name-mozilla } Space
 participation-each-physical-or-virtual = 每个实体或虚拟 { -brand-name-mozilla } Space 都有指定的联系人。
 participation-mozilla-events = { -brand-name-mozilla } 活动
 participation-all-mozilla-events = 每场线下与线上的 { -brand-name-mozilla } 活动都有特定的安全准则，以及紧急情况和伤害防治的联系人。在活动全程、印刷或在线文件都会标明这些联系人的联系方式。活动主办人须在活动中说明应遵循的准则，并要求参与者在报名参加事件时审阅并同意这些准则。
-participation-reports-will-receive = 举报将以电子邮件通知已送达并受理。一旦举报进入调查程序，将会通知相关各方最终的结果，各方可发送电子邮件至 <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a> 对结果提出上诉。
+participation-reports-will-receive = 举报将以电子邮件通知已送达并受理。一旦举报进入调查程序，将会通知相关各方最终的结果，各方可发送电子邮件至 <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a> 对结果提出申诉。
 participation-ask-questions = 我要提问
 participation-everyone-is-encouraged = 欢迎任何人提出此准则的相关问题。如果您是活动主办人，请参阅对活动或 Space 营造包容氛围的提示。当您联系 <a href="{ $mailto_questions }">cpg-questions@mozilla.com</a> 后，会在 24 小时内（如遇周末或假日，将顺延至下一个工作日）收到回复。可在<a href="{ $changelog }">此处</a>找到本文档的的更新记录。
 participation-license-and-attribution = 许可协议与引用条款
