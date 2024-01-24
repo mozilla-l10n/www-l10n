@@ -22,7 +22,7 @@ features-private-browsing-what-private-browsing-doesnt-do = Yang tidak dilakukan
 
 # Variables:
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
-features-private-browsing-private-browsing-mode-will-not = Mode penjelajahan pribadi tidak akan menghapus markah baru yang Anda buat saat berada di dalam jendela penjelajahan pribadi, dan juga tidak akan memberikan perlindungan terhadap malware atau virus.Hal ini juga tidak menghalangi situs web yang Anda kunjungi untuk melihat lokasi fisik Anda, atau menghentikan penyedia layanan internet untuk mencatat aktivitas daring Anda.Untuk itu, Anda butuh <a href="{ $vpn }">VPN yang tepercaya</a>.
+features-private-browsing-private-browsing-mode-will-not = Mode penjelajahan pribadi tidak akan menghapus markah baru yang Anda buat saat berada di dalam jendela penjelajahan pribadi, dan juga tidak akan memberikan perlindungan terhadap malware atau virus. Hal ini juga tidak menghalangi situs web yang Anda kunjungi untuk melihat lokasi fisik Anda, atau menghentikan penyedia layanan internet untuk mencatat aktivitas daring Anda. Untuk itu, Anda butuh <a href="{ $vpn }">VPN yang tepercaya</a>.
 
 # Variables:
 #   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
