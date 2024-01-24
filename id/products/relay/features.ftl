@@ -23,7 +23,7 @@ highlighted-features-section-masks-on-the-go-headline = Buat topeng secara insta
 #   $mozmail (string): domain used by Relay masks (mozmail.com)
 highlighted-features-section-masks-on-the-go-body =
     { -brand-name-relay-premium } memberi Anda domain surel { -brand-name-relay } unik sehingga Anda dapat langsung
-    membuat topeng baru di mana pun Anda berada. Cukup tambahkan kata atau frasa sebelum simbol @.Di restoran? Gunakan restoran@domainanda.{ $mozmail }.
+    membuat topeng baru di mana pun Anda berada. Cukup tambahkan kata atau frasa sebelum simbol @. Di restoran? Gunakan restoran@domainanda.{ $mozmail }.
     Belanja? Coba shop@domainanda.{ $mozmail }.
 
 highlighted-features-section-replying-headline = Balas surel & teks secara anonim
