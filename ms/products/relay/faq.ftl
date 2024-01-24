@@ -65,7 +65,7 @@ faq-question-email-storage-answer = Di dalam situasi di mana khidmat ini tergend
 faq-question-acceptable-use-question = Apakah amalan yang boleh diterima oleh { -brand-name-relay }?
 #   $url (url) - link to Mozilla's Acceptable Use Policy, i.e. https://www.mozilla.org/about/legal/acceptable-use/
 #   $attrs (string) - specific attributes added to external links
-faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } mempunyai persamaan dengan <a href="{ $url }" { $attrs }>syarat penggunaan bagi semua produk { -brand-name-mozilla } yang lain</a>. Kami tidak akan bertoleransi sekiranya { -brand-name-relay } digunakan untuk tujuan jahat seperti spam, yang mengakibatkan akaun pengguna ditamatkan.Kami mengambil langkah untuk memastikan pengguna tidak melanggar syarat kami dengan:
+faq-question-acceptable-use-answer-a-html = { -brand-name-firefox-relay } mempunyai persamaan dengan <a href="{ $url }" { $attrs }>syarat penggunaan bagi semua produk { -brand-name-mozilla } yang lain</a>. Kami tidak akan bertoleransi sekiranya { -brand-name-relay } digunakan untuk tujuan jahat seperti spam, yang mengakibatkan akaun pengguna ditamatkan. Kami mengambil langkah untuk memastikan pengguna tidak melanggar syarat kami dengan:
 faq-question-acceptable-use-answer-measure-account-v2 = Memerlukan { -brand-name-mozilla-account } dengan alamat e-mel yang disahkan
 
 # Obsolete string
@@ -77,7 +77,7 @@ faq-question-acceptable-use-answer-measure-rate-limit-2 = Menghadkan bilangan sa
 #   $attrs (string) - specific attributes added to external links
 faq-question-acceptable-use-answer-b-html = Sila baca <a href="{ $url }" { $attrs }>Syarat Perkhidmatan</a> untuk maklumat lanjut.
 faq-question-promotional-email-blocking-question = Apakah itu halangan e-mel promosi?
-faq-question-promotional-email-blocking-answer = Pelanggan { -brand-name-relay-premium } boleh membenarkan halangan e-mel promosi. Ciri ini akan menghantar semula e-mel seperti resit, penetapan semula kata laluan dan pengesahan dan masih menghalang mesej-mesej pengiklanan.Masih ada sedikit risiko yang mungkin menghalang e-mel yang penting dihalang, maka kami mengesyorkan agar ciri ini tidak digunakan untuk hal-hal penting seperti perbankan.Sekiranya e-mel dihalang, ia tidak boleh dikembalikan.
+faq-question-promotional-email-blocking-answer = Pelanggan { -brand-name-relay-premium } boleh membenarkan halangan e-mel promosi. Ciri ini akan menghantar semula e-mel seperti resit, penetapan semula kata laluan dan pengesahan dan masih menghalang mesej-mesej pengiklanan. Masih ada sedikit risiko yang mungkin menghalang e-mel yang penting dihalang, maka kami mengesyorkan agar ciri ini tidak digunakan untuk hal-hal penting seperti perbankan. Sekiranya e-mel dihalang, ia tidak boleh dikembalikan.
 faq-question-detect-promotional-question = Bagaimana { -brand-name-relay } mengesan jika e-mel itu bersifat Promosi atau tidak?
 faq-question-detect-promotional-answer = Kebanyakan e-mel dihantar dengan metadata "kepala surat" yang menunjukkan ia datang daripada alat automasi berasaskan senarai.{ -brand-name-firefox-relay } mengesan data kepala surat ini agar ia mampu menghalang e-mel jenis ini.
 faq-question-disable-trackerremoval-question = Bolehkah saya tidak lagi membuang penjejak e-mel?
@@ -85,7 +85,7 @@ faq-question-disable-trackerremoval-answer = Ya. Jika anda menghadapi masalah de
 faq-question-bulk-trackerremoval-question = Bolehkan saya keluarkan penjejak daripada e-mel samaran yang terpilih?
 faq-question-bulk-trackerremoval-answer = Anda hanya boleh melancarkan pembuangan penjejak pada tahap akaun — sama ada anda membuang penjejak daripada semua e-mel anda, atau tidak.
 faq-question-trackerremoval-breakage-question = Mengapa e-mel saya kelihatan tidak sempurna?
-faq-question-trackerremoval-breakage-answer-2 = Kadang-kala, membuang penjejak menyebabkan e-mel anda kelihatan tidak sempurna kerana penjejak itu sering terkandung di dalam imej atau pautan. Apabila penjejak dikeluarkan, e-mel itu kelihatan seperti tidak diformat dengan baik kerana imejnya telah hilang.Ini tidak boleh diperbaiki untuk e-mel yang telah anda terima. Jika situasi ini menghalang anda daripada membaca e-mel anda dengan sempurna, tutup ciri penghalang penjejak ini.
+faq-question-trackerremoval-breakage-answer-2 = Kadang-kala, membuang penjejak menyebabkan e-mel anda kelihatan tidak sempurna kerana penjejak itu sering terkandung di dalam imej atau pautan. Apabila penjejak dikeluarkan, e-mel itu kelihatan seperti tidak diformat dengan baik kerana imejnya telah hilang. Ini tidak boleh diperbaiki untuk e-mel yang telah anda terima. Jika situasi ini menghalang anda daripada membaca e-mel anda dengan sempurna, tutup ciri penghalang penjejak ini.
 
 ## Frequently Asked Questions about Phone plans
 
