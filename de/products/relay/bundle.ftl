@@ -9,7 +9,7 @@
 bundle-banner-header-2 = Nur für kurze Zeit: { -brand-name-relay-premium } + { -brand-name-mozilla-vpn } für { $monthly_price }/Monat
 # Variables:
 #   $savings (string) - the percentage saved for a given plan, not including the % Examples: 50, 70
-bundle-banner-body-v2 = { -brand-name-mozilla-vpn } schützt Sie beim Gamen, Online-Banking und Arbeiten vor Trackern und Überwachung.Zu { -brand-name-firefox-relay } hinzufügen, um { $savings } % Rabatt zu erhalten.
+bundle-banner-body-v2 = { -brand-name-mozilla-vpn } schützt Sie beim Gamen, Online-Banking und Arbeiten vor Trackern und Überwachung. Zu { -brand-name-firefox-relay } hinzufügen, um { $savings } % Rabatt zu erhalten.
 bundle-banner-plan-header-2 = Ihr 1-Jahres-Plan beinhaltet:
 bundle-banner-plan-modules-email-masking = E-Mail-Maskierung
 bundle-banner-plan-modules-phone-masking = Maskierung der Telefonnummer
