@@ -11,8 +11,6 @@ compare-shared-yes = Ja
 compare-shared-no = Nej
 compare-shared-private-browsing-mode = Privat browsing-tilstand
 compare-shared-blocks-third-party-tracking-default = Blokerer som standard sporings-cookies fra tredjepart
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blokerer sporings-cookies fra tredjepart
 compare-shared-blocks-cryptomining-scripts = Blokerer cryptomining-scripts
 compare-shared-blocks-fingerprinting-scripts = Blokerer fingerprinting-scripts
 compare-shared-blocks-social-trackers = Blokerer sporing via sociale medier
@@ -29,12 +27,10 @@ compare-shared-spell-checking = Stavekontrol
 compare-shared-web-extensionsadd-ons = Webextensions/Tilføjelser
 compare-shared-in-browser-screenshot-tool = Indbygget funktion til at tage skærmbilleder
 compare-shared-os-availability = Tilgængelig på alle operativsystemer
-compare-shared-mobile-os-availability = Tilgængelighed på mobil
+compare-shared-mobile-os-availability = Tilgængelig på mobil
 compare-shared-syncs-with-mobile = Synkroniserer med mobil
 compare-shared-password-management = Håndtering af adgangskoder
 compare-shared-primary-password = Hovedadgangskode
-# Obsolete string
-compare-shared-master-password = Hovedadgangskode
 compare-shared-security-and-privacy = Sikkerhed og privatliv
 compare-shared-utility = Funktionalitet
 compare-shared-portability = Portabilitet
@@ -46,8 +42,6 @@ compare-shared-utility-strong = <strong>Funktionalitet</strong>
 compare-shared-portability-strong = <strong>Portabilitet</strong>
 compare-shared-overall-assessment = Samlet vurdering
 compare-shared-the-comparisons-made-here-updated = Sammenligningerne her på siden blev foretaget med standardindstillinger og mellem følgende browsere og versioner:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Sammenligningerne her på siden blev foretaget mellem følgende browsere og versioner:
 compare-shared-this-page-updated-semi-quarterly = Denne side opdateres halvårligt for at afspejle de seneste versioner og afspejler muligvis ikke altid de seneste opdateringer.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
