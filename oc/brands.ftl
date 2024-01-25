@@ -27,6 +27,7 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -69,10 +70,11 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
+# Obsolete brand name
 -brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
--brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
@@ -82,6 +84,7 @@
 -brand-name-monitor = Monitor
 -brand-name-relay = Relay
 -brand-name-sync = Sync
+-brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
@@ -97,13 +100,13 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -122,8 +125,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
