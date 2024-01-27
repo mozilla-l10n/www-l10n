@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -19,10 +19,7 @@ firefox-mobile-leave-no-trace-with-private = עם <a href="{ $url }">מצב גל
 firefox-mobile-stop-companies-from-following = למנוע מחברות לעקוב אחריך
 firefox-mobile-sync-your-history-passwords = סנכרון ההיסטוריה, הססמאות והסימניות שלך. שליחת לשוניות לכל המכשירים שלך.
 firefox-mobile-android-only = ל־{ -brand-name-android } בלבד
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = התאמה אישית של דפדפן ה־{ -brand-name-firefox } הנייד עם <a href="{ $url }">הרחבות</a> לחסימת פרסומות, ניהול ססמאות, עצירת המעקב של { -brand-name-facebook } אחריך ועוד.
 firefox-mobile-find-it-fast-with-a-smart = למצוא מה שצריך במהירות עם סרגל חיפוש חכם
 firefox-mobile-get-firefox-for-mobile = קבלת { -brand-name-firefox } לנייד
-firefox-mobile-send-a-download-link-to-your = שליחת קישור להורדה לטלפון שלך.
+firefox-mobile-send-a-download-link-to-your = שליחת קישור הורדה לטלפון שלך.
 firefox-mobile-scan-the-qr-code-to-get-started = יש לסרוק את קוד ה־QR כדי להתחיל

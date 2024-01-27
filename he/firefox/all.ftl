@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -30,6 +30,7 @@ firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגי
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
+firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלך
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ניתן לבחור במתקין 32 סיביות למחשבים עם מעבדי 32 סיביות — או למחשבים ישנים וחלשים יותר. <a href="{ $url }">במקרה של ספק</a> האם לבחור במתקין 64 סיביות או 32 סיביות אנו ממליצים על 32 סיביות.
