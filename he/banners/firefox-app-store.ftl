@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = ‏{ -brand-name-firefox }: דפדפן פרטי ובטוח
+banner-firefox-focus-app-store-title = ‏{ -brand-name-firefox-focus }: דפדפן הפרטיות
