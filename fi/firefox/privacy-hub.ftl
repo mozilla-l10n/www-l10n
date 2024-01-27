@@ -44,8 +44,12 @@ firefox-privacy-hub-your-privacy-by-the-product = Yksityisyytesi tuotteen toteut
 firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox }-tuotteet toimivat eri tavalla, koska ne on suunniteltu asettamaan yksityisyytesi ensisijaiseksi.
 firefox-privacy-hub-learn-about-our-products = Tutustu tuotteisiimme
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } yksityisyyttä tuotteen toteuttamana
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } suojaa yksityisyyttäsi kaikissa tuotteissa.
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla } suojaa yksityisyyttäsi kaikissa tuotteissa.
+# Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } <strong>suojaa</strong> yksityisyyttäsi kaikissa tuotteissa
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } <strong>suojaa</strong> yksityisyyttäsi kaikissa tuotteissa.
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ seurainta estetty — automaattisesti
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -61,25 +65,42 @@ firefox-privacy-hub-meet-four-of-the-most-common = Tapaa neljä yleisintä seura
 firefox-privacy-hub-always-in-your-control = Aina hallinnassasi
 firefox-privacy-hub-want-to-customize-what = Haluatko määrittää itse, mitä kaikkea estetään? Asetukset ovat vain yhden napsautuksen päässä.
 firefox-privacy-hub-protection-beyond-tracking = Enemmän kuin vain suojausta seurannalta
+firefox-privacy-hub-if-you-have-a-mozilla-account = Jos sinulla on { -brand-name-mozilla-account }, voit nähdä, kuinka autamme sinua suojaamaan henkilökohtaisia tietojasi ja salasanojasi.
+# Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = Jos sinulla on { -brand-name-firefox-account }, voit nähdä, kuinka autamme sinua suojaamaan henkilökohtaisia tietojasi ja salasanojasi.
 # Variables:
 #   $trackers (number) - localized number total of trackers blocked by Firefox users worldwide
 firefox-privacy-hub-more-than-s-trackers-blocked = Yli { $trackers } seurainta estetty päivittäin { -brand-name-firefox }-käyttäjiltä maailmanlaajuisesti
+firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = Kun kirjoitat sähköpostiosoitteesi { -brand-name-mozilla-monitor }iin, unohdamme sen heti, kun olemme tarkastaneet onko se paljastunut tunnetuissa tietovuodoissa – ellet anna meille lupaa jatkaa uusien tietovuotojen seurantaa.
+# Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = Kun kirjoitat sähköpostiosoitteesi { -brand-name-firefox-monitor }iin, unohdamme sen heti, kun olemme tarkastaneet onko se paljastunut tunnetuissa tietovuodoissa – ellet anna meille lupaa jatkaa uusien tietovuotojen seurantaa.
 firefox-privacy-hub-check-for-breaches = Tarkista tietovuotojen varalta
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = { -brand-name-firefox-lockwise }en tallentamasi salasanat ja kirjautumistiedot on salattu kaikilla laitteillasi, joten edes me emme näe niitä.
-firefox-privacy-hub-learn-more-about-lockwise = Lisätietoja { -brand-name-lockwise }sta
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Emme näe { -brand-name-firefox-send } -palvelun kautta jakamiesi suurten tiedostojen nimiä tai sisältöä, koska ne on päästä päähän -salattuja – voit valita, kuka näkee lähettämäsi tiedostot, ja voit jopa määrittää viimeisen voimassaolopäivän ja salasanan.
 firefox-privacy-hub-send-a-file = Lähetä tiedosto
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } suosittelee korkealaatuisia, ihmisten kuratoimia artikkeleita keräämättä selaushistoriaasi tai jakamatta henkilökohtaisia tietojasi mainostajien kanssa.
 firefox-privacy-hub-get-pocket = Hanki { -brand-name-pocket }
+firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account }si
+# Obsolete string
 firefox-privacy-hub-your-firefox-account = Oma { -brand-name-firefox-account }
+firefox-privacy-hub-all-the-information-synced-v2 = Kaikki { -brand-name-mozilla-account }n kautta synkronoidut tiedot - selaushistoriasta salasanoihin - on salattu. Tilisi salasana on ainoa avain salauksen purkamiseksi.
+# Obsolete string
 firefox-privacy-hub-all-the-information-synced = Kaikki { -brand-name-firefox-account }n kautta synkronoidut tiedot - selaushistoriasta salasanoihin - on salattu. Tilisi salasana on ainoa avain salauksen purkamiseksi.
+firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = Vie yksityisyytesi ja kirjanmerkkisi kaikkialle { -brand-name-mozilla-account }n avulla.
+# Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = Vie yksityisyytesi ja kirjanmerkkisi kaikkialle { -brand-name-firefox-account }n avulla.
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = Onko sinulla jo tili? <a { $sign_in } class="{ $class_name }">Kirjaudu sisään</a> tai <a href="{ $learn_more }">lue lisätietoja</a> { -brand-name-mozilla }an liittymisestä.
+# Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
 #   $class_name (string) - CSS class name for sign in link

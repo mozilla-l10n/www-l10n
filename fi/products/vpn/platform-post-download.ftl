@@ -52,6 +52,11 @@ vpn-download-faq-encrypting = Salaamalla Internet-liikenteesi: näin kukaan ei v
 vpn-download-faq-working = Mistä tiedän, että VPN toimii?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } näyttää visuaalisia ilmaisimia VPN-yhteyden tilasta sekä työkalupalkissa että sovelluksen aloitusnäkymässä, joten on helppo tietää, onko verkkotoimintasi suojattu vai ei. Näiden ilmaisimien avulla voit varmistua, milloin liikkuminen on yksityistä ja turvallista. Kun olet yhteydessä, voit myös käydä osoitteessa <a href="{ $monitor }">https://monitor.mozilla.org/</a> varmistaaksesi, onko IP-osoitteesi peitetty. Lisätietoja on tukiartikkelissa <a href="{ $connected }">Kuinka tiedän, onko { -brand-name-mozilla-vpn } yhdistetty?</a>.
+# Obsolete string
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.firefox.com/
 vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } näyttää visuaalisia ilmaisimia VPN-yhteyden tilasta sekä työkalupalkissa että sovelluksen aloitusnäkymässä, joten on helppo tietää, onko verkkotoimintasi suojattu vai ei. Näiden ilmaisimien avulla voit varmistua, milloin liikkuminen on yksityistä ja turvallista. Kun olet yhteydessä, voit myös käydä osoitteessa <a href="{ $monitor }">https://monitor.firefox.com/</a> varmistaaksesi, onko IP-osoitteesi peitetty. Lisätietoja on tukiartikkelissa <a href="{ $connected }">Kuinka tiedän, onko { -brand-name-mozilla-vpn } yhdistetty?</a>.
 vpn-download-faq-add-device = Miten lisään toisen laitteen?

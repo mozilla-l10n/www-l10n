@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Nopeus on hyväksi
 about-when-you-use-the-new-firefox = Kun käytät uutta { -brand-name-firefox }ia, saat salamannopean kokemuksen ja tuet samalla { -brand-name-mozilla }n tehtävää pitää Internet terveenä, outona ja lähestyttävänä kaikille.
 about-walking-our-privacy-talk = Tietosuoja-asiat käytännössä
 about-when-the-facebook-breach-was = Kun { -brand-name-facebook }-tietovuoto paljastui, { -brand-name-mozilla } reagoi välittömästi – ja { -brand-name-firefox }-tuote oli tarjolla käyttäjien yksityisyyden tukemiseksi.
-about-talking-internet-issues-irl = Internet-ongelmista keskustelua IRL:ssä
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }n IRL-podcastissa juontaja Manoush Zomorodi jakaa tositarinoita elämästä verkossa ja puhuu verkon tulevaisuudesta.
 about-corporation-foundation-not = Yritys. Säätiö. Voittoa tavoittelematon.
 about-learn-about-the-mozilla-foundation = Lue lisää { -brand-name-mozilla-foundation }ista
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } asettaa ihmiset voittojen edelle kaikessa, mitä sanomme, rakennamme ja teemme. Itse asiassa yrityksemme ytimessä on voittoa tavoittelematon säätiö.
@@ -33,6 +31,11 @@ about-read-the-manifesto = Lue manifestimme
 about-a-global-view = Maailmanlaajuinen näkökulma
 about-with-offices-all-over-the = <a href="{ $url }">Toimistojamme on kaikkialla maailmassa</a>, ja mielestämme Internet koostuu useista kulttuureista ja yhteyksistä.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Teknologiaongelmista keskustelua IRL:ssä
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }n useasti palkitussa podcastissa juontaja Bridget Todd puhuu ihmisille, jotka muokkaavat Internetin ja tekoälyn tulevaisuutta.
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = Internet-ongelmista keskustelua IRL:ssä
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }n IRL-podcastissa juontaja Manoush Zomorodi jakaa tositarinoita elämästä verkossa ja puhuu verkon tulevaisuudesta.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> vierasta toivotettu tervetulleeksi vuosittain
 about-berlin = Berliini
