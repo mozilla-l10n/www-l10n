@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet para pessoas, não para lucro
 home-did-you-know-mozilla-the-maker = Você sabia? { -brand-name-mozilla } — criadora do { -brand-name-firefox } — luta para manter a Internet um recurso público global, aberto e acessível a todos.
 home-mission-driven = Impulsionado pela missão. Suportado por pessoas.
-home-were-not-normal = Não somos uma empresa de tecnologia normal. As coisas que criamos priorizam as pessoas e a sua privacidade em vez dos lucros. Nós existemos para fazer da Internet um lugar mais saudável e feliz para todos.
+home-were-not-normal = Nós não somos uma empresa de tecnologia normal. As coisas que nós criamos priorizam as pessoas e a sua privacidade em detrimento dos lucros. Nós existimos para tornar a Internet num lugar mais saudável e feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “A saúde da Internet e da vida online é a razão de existirmos.”
 home-mitchell-baker = Mozilla Baker, Ceo da { -brand-name-mozilla }
