@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }나 { -brand-name
 firefox-desktop-download-og-title = { -brand-name-firefox } 최신 버전 다운로드
 firefox-desktop-download-og-desc = 빠른 페이지 로딩, 작은 메모리 사용 및 다양한 기능을 갖춘 새로운 { -brand-name-firefox }가 여기 있습니다.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a { $update_url }>최신 버전으로 업데이트</a>
 firefox-desktop-download-get-the-browser = 여러분에게 중요한 것을 먼저 생각하는 브라우저
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 보호 정책이나 백도어가 없습니다. 여러분을 상품으로 취급하는 브라우저가 아닙니다.
@@ -40,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = 소셜 추적기 차단
 firefox-desktop-download-os-availability = 사용 가능 OS
 firefox-desktop-download-in-browser-screenshot = 브라우저 내 스크린 샷 도구
 firefox-desktop-download-primary-password = 기본 비밀번호
-# Obsolete string
-firefox-desktop-love-your-life = 온라인 생활을 사랑합니다.
-# Obsolete string
-firefox-desktop-its-your-internet = 당신의 인터넷입니다. 수천 개의 도구, 테마 및 확장 기능을 사용하여 원하는 색을 칠하세요. { -brand-name-firefox }는 이익보다 사람을 우선시하는 독보적인 대안 브라우저입니다.
-# Obsolete string
-firefox-desktop-download-master-password = 기본 비밀번호
 firefox-desktop-download-we-block-the-ad = 저희는 광고 추적기를 차단합니다. 여러분은 인터넷을 더 빨리 탐험할 수 있습니다.
 firefox-desktop-download-ads-are-distracting = 온라인 광고는 주의를 산만하게 하고 웹 페이지 로딩 속도를 느리게 만듭니다. 광고에 있는 추적기는 온라인에서 이루어지는 여러분의 모든 활동을 감시합니다. { -brand-name-firefox-browser }는 대부분의 추적기를 자동으로 차단하므로 데이터 보안에 뛰어납니다.
 firefox-desktop-download-see-your-report = 보호 대시보드 살펴보기
@@ -133,6 +130,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }> 개인 데이터 보호 약속 </a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox }는 모든 기기에서 사용할 수 있습니다. 탭, 방문 기록 및 북마크를 동기화하세요. <a { $attrs }> { -brand-name-firefox } 계정 </a> 만 있으면 손쉽게 하실 수 있습니다.
@@ -147,9 +145,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }> { -brand-name-mozilla } 도움말 </a>을 참고하세요.
 # The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
 firefox-desktop-download-youve-already-got-the-browser = 많은 브라우저가 있지만, 이제 { -brand-name-firefox }에 대해 알아보세요.
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor }로 해커를 감시하고, { -brand-name-firefox-relay } 등으로 이메일 주소를 보호하세요.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor }로 해커를 감시하고 { -brand-name-firefox-lockwise }로 비밀번호를 보호하세요.
 firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox }에서 더 많은 정보 얻기
 firefox-desktop-download-just-download-the-browser = 브라우저 다운로드
 
@@ -167,8 +164,6 @@ firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <str
 firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
 firefox-desktop-download-in-another-language = 다른 언어 또는 다른 운영 체제로 다운로드하세요.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
@@ -176,10 +171,6 @@ firefox-desktop-download-visit-support-for-more = 더 자세한 내용을 위해
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox }가 더 이상 지원하지 않는</a> 안전하지 않고 오래된 운영체제를 사용하고 있습니다.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
