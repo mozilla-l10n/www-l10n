@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } e reja që Firefox-i ofron për zhvilluesit janë të fuqishme, të lakueshme dhe, më e mira e të mirave, të përpunueshme. Këtu përfshihen një diagnostikues JavaScript nga më të mirët, që mund të trajtojë shumë shfletues njëherësh dhe që është ndërtuar me React dhe Redux.
 firefox-developer-master-css-grid = Zotëroni Rrjetën CSS
-# outdated
-firefox-developer-next-gen-css-engine = Mekanizëm CSS i Brezit Pasues
 firefox-developer-built-for-developers = Ngritur për Zhvillues
-firefox-developer-a-next-generation = Mekanizëm CSS i Brezit Pasues
 firefox-developer-master-innovative-features = Veçori Risore
 firefox-developer-want-to-be-on-the-cutting-edge = Doni të jeni në pararojë?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } merr përditësime të përditshme dhe ju lejon të përdorni veçori muaj më parë se të bëhen pronë e kujtdo.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } përfshin një mekanizim CSS të ri, shkruar në Rust, që përmban risi të fjalës së fundit dhe është i shpejtë në mënyrë marramendëse.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox }-i është shfletuesi i vetëm me mjete të krijuara posaçërisht për hartim dhe krijim me Rrjetë CSS. Këto mjete ju lejojnë të vizualizoni rrjetën, të shfaqni emra fushash, të parashihni transformime në rrjetë dhe shumë të tjera.
 firefox-developer-convenient-features = Veçoritë të Volitshme
-firefox-developer-faster-performance = Punim Më të Shpejtë
 firefox-developer-shapes-editor = Përpunues Formash
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } ka një përpunues shtigjesh formash fringo të ri, që i heq hamendësimet përimtimit të formave tuaja shape-outside dhe clip-path, duke ju lejuar të përimtoni fare kollaj përshtatjet tuaja përmes një përpunuesi pamor.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ka një përpunues shtigjesh formash fringo të ri, që i heq hamendësimet përimtimit të formave tuaja shadow-outside dhe clip-path, duke ju lejuar të përimtoni fare kollaj përshtatjet tuaja përmes një përpunuesi pamor.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Përgëzime. Tani keni { -bran
 firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox-quantum }: një { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-welcome-to-firefox-browser = Mirë se vini te { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
+firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
+# Obsolete string
 firefox-developer-all-the-latest = Krejt mjetet më të reja të zhvillimit në beta, plus <strong>veçori eksperimentale</strong>, bie fjala, Multi-line Console Editor dhe WebSocket Inspector.
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: diagnostkim Shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
