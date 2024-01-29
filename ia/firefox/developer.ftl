@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Le nove { -brand-name-firefox-devtools } es utensiles de disveloppamento potente, flexibile e super toto servicial. I.A. le melior depurator de JavaScript, producite per le bibliothecas React e Redux, illo pote gerer plure navigatores al mesme tempore.
 firefox-developer-master-css-grid = Domina le grillia CSS
-# outdated
-firefox-developer-next-gen-css-engine = Motor de CSS de proxime generation
 firefox-developer-built-for-developers = Facte pro le disveloppatores
-firefox-developer-a-next-generation = Un motor de CSS de proxime-generation
 firefox-developer-master-innovative-features = Functionalitates innovative
 firefox-developer-want-to-be-on-the-cutting-edge = Vole tu esser al vanguarda?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } es actualisate quotidianmente e te permitte de acceder al nove functionalitates menses ante le disponibilitate general.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } include un nove motor de CSS, scribite in Rust, que ha innovationes de vanguarda e es fulmineemente rapide.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } es le sol navigator con applicationes integrate specificamente designate pro le projecto e le production con le grillia CSS. Iste utensiles te permitte de visualisar le grillia, monstrar le nomine de area associate, le pre-visualisation del transformationes sur le grillia e multo de plus.
 firefox-developer-convenient-features = Functionalitates conveniente
-firefox-developer-faster-performance = Plus rapide performance
 firefox-developer-shapes-editor = Editor de formas
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Gratias al nove editor pro traciar formas de { -brand-name-firefox-devtools }, es finite le necessitate de divinar quando tu tracia le trajectorias precise de contorno e de retalio de tu objectos. Iste adjustamentos es facile e intuitive con le nove editor visual.
 firefox-developer-firefox-devtools-has-a-brand-new = Gratias al nove editor pro traciar formas de { -brand-name-firefox-devtools }, es finite le necessitate de divinar quando tu tracia le trajectorias precise de umbra e de retalio de tu objectos. Iste adjustamentos es facile e intuitive con le nove editor visual.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Felicitationes. Ora tu ha { -b
 firefox-developer-this-isnt-just-an-update = Isto non es justo un actualisation. Isto es { -brand-name-firefox-quantum }: un { -brand-name-firefox } nove de fabrica que ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
 firefox-developer-welcome-to-firefox-browser = Benvenite a { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
+firefox-developer-all-the-latest-v2 = Tote le ultime utensiles de disveloppator in beta in addition a functionalitates como le Redactor de consola multilinea e le Inspector de WebSocket.
+# Obsolete string
 firefox-developer-all-the-latest = Tote le ultime utensiles de disveloppator in version beta, plus <strong>functionalitates experimental</strong> como le Redactor de consola multilinea e le Inspector de WebSocket.
 firefox-developer-a-separate-profile = Un <strong> profilo e route separate</strong> assi que pote currer preter le version official o le { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro le disveloppatores web</strong>: le depuratores remote e del navigator es activate per configuration predefinite, assi como le thema obscur e le button de disveloppator sur le barra de instrumentos.
