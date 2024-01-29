@@ -18,19 +18,11 @@ firefox-home-know-when-hackers-strike = Saiba quando os piratas atacam — e man
 firefox-home-start-getting-breach = Comece por receber os relatórios de falhas de segurança
 firefox-home-un-spam-your-life = Elimine o spam da sua vida com o { -brand-name-relay }
 firefox-home-try-relay = Experimente o { -brand-name-relay }
-# Obsolete string
-firefox-home-keep-your-passwords = Mantenha as suas palavras-passe seguras em cada dispositivo
-# Obsolete string
-firefox-home-learn-more-about-lockwise = Saber mais sobre o { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Obtenha o <strong>respeito</strong> que merece
 # Obsolete string
 firefox-home-every-single-firefox = Cada produto { -brand-name-firefox } honra a nossa Promessa de dados pessoais: <strong>Recolher menos. Manter seguro. Sem segredos.</strong>
-firefox-home-every-single-mozilla = Cada produto da { -brand-name-mozilla } honra a nossa Promessa de dados pessoais: <strong>Recolher menos. Mantenha-o seguro. Sem segredos.</strong>
-# Obsolete string
-firefox-home-share-large-files-without = Partilhe ficheiros grandes sem olhares indiscretos
-# Obsolete string
-firefox-home-start-sending-files = Comece a enviar ficheiros com segurança
+firefox-home-every-single-mozilla = Cada produto da { -brand-name-mozilla } honra a nossa Promessa de Dados Pessoais: <strong>Recolher menos. Manter a sua segurança. Sem segredos.</strong>
 firefox-home-trade-clickbait-for = Troque engodo para cliques por conteúdos de qualidade
 firefox-home-learn-more-about-pocket = Saber mais sobre o { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Proteção para todo o seu dispositivo, em todos os dispositivos.

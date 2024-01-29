@@ -18,7 +18,7 @@ features-translate-the-google-translate = A extensão To { -brand-name-google } 
 features-translate-the-internet-is = A Internet está cheia de coisas incríveis, mas muitas delas não estão escritas em Inglês - fazendo com que milhões de pessoas em todo o mundo precisem de um tradutor apenas para utilizar a Internet. Pode <a { $attrs }>transferir o { -brand-name-firefox } em mais de 100 idiomas</a>, para que os menus, notificações e mensagens do seu navegador sejam no idioma que prefere, mas isto não resolve o problema de todo aquele conteúdo incrível que encontra com o seu navegador.
 features-translate-firefox-translations = { -brand-name-firefox-translations }
 # $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>extensão { -brand-name-firefox-translations }</a> pode traduzir automaticamente o conteúdo das páginas de Internet que visita. Ao contrário de algumas alternativas baseadas na nuvem, esta extensão traduz texto localmente no { -brand-name-firefox }, para que o conteúdo que está a traduzir não saia da sua máquina.
+features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>extensão { -brand-name-firefox-translations }</a> pode traduzir automaticamente o conteúdo das páginas de Internet que visita. Ao contrário de algumas alternativas baseadas na nuvem, esta extensão traduz texto localmente no { -brand-name-firefox }, para que o conteúdo que está a traduzir não saia do seu equipamento.
 # links to https://addons.mozilla.org/firefox/addon/firefox-translations/
 features-translate-get-firefox-translations = Obter o { -brand-name-firefox-translations }
 # "To Google Translate" is a brand name

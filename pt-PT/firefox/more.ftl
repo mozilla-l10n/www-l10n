@@ -11,10 +11,6 @@ learn-more-about = Saber mais sobre navegadores e produtos { -brand-name-firefox
 learn-more-faq = Perguntas frequentes sobre o { -brand-name-firefox }
 the-history-of = A história dos navegadores de Internet
 firefox-has-been = O { -brand-name-firefox } tem estado lá, praticamente desde o início.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebelde, com uma causa
-# Obsolete string
-firefox-is-independent = O { -brand-name-firefox } é independente e parte da { -brand-name-mozilla }, uma organização sem fins lucrativos que luta pelos seus direitos na Internet, mantém os poderes corporativos em cheque e torna a Internet acessível para a toda a gente, em qualquer lugar.
 what-is-a = O que é um navegador de Internet?
 a-web-browser = Um navegador de Internet dá-lhe acesso a qualquer lugar na Internet, permitindo que veja textos, imagens e vídeos de qualquer sítio do mundo.
 update-your-browser = Atualize o seu navegador para um { -brand-name-firefox } rápido, seguro e protegido.
@@ -31,7 +27,7 @@ firefox-more-quantum-was-revolution = O { -brand-name-firefox-quantum } foi uma 
 firefox-more-little-book = Pequeno livro da privacidade
 firefox-more-you-can-reclaim = Pode reclamar a sua privacidade e recuperar o controle sobre a sua própria experiência na Internet! Na verdade, é surpreendentemente fácil. Todos o podem fazer.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Aceda e sincronize os seus marcadores, palavras-passe, separadores abertos e mais — onde quer que utilize o { -brand-name-firefox }.
+firefox-more-access-your-sync = Aceda e sincronize os seus marcadores, palavras-passe, separadores abertos e muito mais – onde quer que utilize o { -brand-name-firefox }.
 we-believe-everyone = Acreditamos que todos devem ter acesso à Internet — é por isso que disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas, com a ajuda de voluntários dedicados de todo o mundo.
 firefox-fights-for = O { -brand-name-firefox } luta por si nas { -brand-name-windows }
 easy-migration-of = Migração fácil de preferências e marcadores quando transfere o { -brand-name-firefox } para { -brand-name-windows }.
@@ -61,10 +57,6 @@ firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocu
 were-obsessed-with = Estamos obcecados com a proteção da sua privacidade. É por isso que nós tornamos a Navegação privada do { -brand-name-firefox } mais poderosa do que os outros.
 incognito-browser-what = Navegador anónimo: O que realmente significa
 firefox-calls-it = O { -brand-name-firefox } chama-lhe navegação privada, o { -brand-name-chrome } chama-lhe modo de incógnito. Ambos permitem que navegue na web sem guardar o seu histórico de navegação.
-# Obsolete string
-take-the-stress = Eliminar o stress de encontrar um navegador seguro.
-# Obsolete string
-building-a-safe = Construir um navegador seguro é uma arte e uma ciência porque não existem regras definidas.
 firefox-more-fingerprinter-blocking = Bloqueio de identificadores digitais
 firefox-more-fingerprinting-is-a = A identificação digital é um tipo de rastreamento na Internet que é mais invasivo do que o rastreamento comum baseado em cookies - é por isso que o { -brand-name-firefox-browser } a bloqueia.
 firefox-more-translate-the-web = Traduzir a Internet

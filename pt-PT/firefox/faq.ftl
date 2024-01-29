@@ -69,7 +69,7 @@ firefoxs-default-search = O { -brand-name-google } é o motor de pesquisa predef
 does-firefox-have = O { -brand-name-firefox } tem uma VPN incorporada?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = O { -brand-name-firefox } não tem uma VPN (rede virtual privada) integrada, mas a { -brand-name-mozilla } cria um produto chamado <a href="{ $url }"> { -brand-name-mozilla-vpn }</a> que pode utilizar adicionalmente ao { -brand-name-firefox-browser } privado que pode proteger a sua ligação Wi-Fi, bem como o seu endereço IP.
+firefox-does-not-v2 = O { -brand-name-firefox } não tem uma VPN (rede virtual privada) integrada, mas a { -brand-name-mozilla } cria a <a href="{ $url }"> { -brand-name-mozilla-vpn }</a>, um produto que pode utilizar de forma complementar ao { -brand-name-firefox-browser }, e que pode proteger a sua ligação Wi-Fi, bem como o seu endereço IP.
 related-questions-ip = Questões relacionadas: o { -brand-name-firefox } oculta o seu endereço IP
 who-owns-firefox = Quem é o proprietário do { -brand-name-firefox }?
 

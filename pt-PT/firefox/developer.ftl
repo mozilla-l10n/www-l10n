@@ -77,7 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = Parabéns. Agora tem o { -bran
 firefox-developer-this-isnt-just-an-update = Isto não é apenas uma atualização. Isto é o { -brand-name-firefox-quantum }: Um { -brand-name-firefox } totalmente novo, construído do zero para ser mais rápido, leve e poderoso do que nunca.
 firefox-developer-welcome-to-firefox-browser = Bem-vindo ao { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = O navegador feito para programadores
-firefox-developer-all-the-latest-v2 = Todas as ferramentas de programação mais recentes e em beta, além de funcionalidades como a consola com editor multi-linha e o inspetor de WebSockets.
+firefox-developer-all-the-latest-v2 = Todas as ferramentas de programação em beta mais recentes, além de funcionalidades como a consola com editor multi-linha e o inspetor de WebSockets.
 # Obsolete string
 firefox-developer-all-the-latest = Todas as ferramentas de programação mais recentes e em beta, além de <strong>funcionalidades experimentais</strong> como a consola com editor multi-linha e o inspetor de WebSockets.
 firefox-developer-a-separate-profile = Um <strong>perfil e caminho separados</strong> para que possa executá-lo com facilidade em conjunto com a versão final ou { -brand-name-beta } do { -brand-name-firefox }.

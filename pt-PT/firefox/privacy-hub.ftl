@@ -80,7 +80,6 @@ firefox-privacy-hub-when-you-enter-your-email = Quando você introduz o seu ende
 firefox-privacy-hub-check-for-breaches = Pesquisar por violações
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = As palavras-passe e credenciais que guarda no { -brand-name-firefox-lockwise } são encriptadas em todos os seus dispositivos, para que nem nós as consigamos ver.
-firefox-privacy-hub-learn-more-about-lockwise = Saber mais sobre o { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Não podemos ver os nomes ou o conteúdo dos ficheiros grandes que você partilhe através do { -brand-name-firefox-send } porque estes são encriptados ponto a ponto - você escolhe quem vê o que você enviar e até pode definir uma data de validade e palavra-passe.
 firefox-privacy-hub-send-a-file = Enviar um ficheiro
