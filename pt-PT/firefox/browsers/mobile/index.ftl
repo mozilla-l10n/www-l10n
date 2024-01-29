@@ -18,9 +18,9 @@ browsers-mobile-the-more-you-use = Quanto mais o utiliza, mais inteligente este 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Obtenha a proteção melhorada contra a monitorização e faça do { -brand-name-firefox } o seu navegador predefinido, de eleição e para sempre, no seu { -brand-name-iphone } e { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = À procura de um navegador móvel simplificado e super rápido com funcionalidades de privacidade do próximo nível? O { -brand-name-firefox-focus } apaga automaticamente todo o seu histórico de navegação a partir do momento em que abre o seu navegador até ao segundo que o fecha.
+browsers-mobile-looking-for-a-streamlined = À procura de um navegador móvel simplificado e super rápido, com funcionalidades de privacidade de próxima geração? O { -brand-name-firefox-focus } elimina automaticamente todo o seu histórico de navegação, desde do momento em que abre o seu navegador até ao instante em que o fecha.
 browsers-mobile-compare-mobile-browsers = Comparar navegadores móveis
-browsers-mobile-see-how-firefox-stacks-up = Veja como o { -brand-name-firefox } se compara com outros navegadores populares quando se trata dos três grandes: privacidade, funcionalidades e sincronização.
+browsers-mobile-see-how-firefox-stacks-up = Veja como o { -brand-name-firefox } se compara com outros navegadores populares quando se trata dos três grandes temas: privacidade, funcionalidades e sincronização.
 browsers-mobile-compare = Comparar
 browsers-mobile-see-how-firefox-for-desktop-stacks = Veja como o { -brand-name-firefox } para desktop se compara com sete outros navegadores.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
