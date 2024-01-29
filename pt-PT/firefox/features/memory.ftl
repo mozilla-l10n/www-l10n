@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/memory/
@@ -16,7 +16,7 @@ features-memory-every-computer-program-you = Todo o programa de computador que c
 features-memory-stop-running-out-of-memory = Pare de ficar sem memória
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">O { -brand-name-chrome } utiliza até 1.77x mais memória que o { -brand-name-firefox }</a>. Se o seu computador já estiver com pouca memória, isto pode causar uma lentidão significante. Ao utilizar a versão mais recente do { -brand-name-firefox } com multi-processo pode resultar em mais memória disponível para correr os seus programas favoritos.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">O { -brand-name-chrome } utiliza até 1,77x mais memória que o { -brand-name-firefox }</a>. Se o seu computador já estiver com pouca memória, isto pode causar uma lentidão significativa. Utilizar a versão mais recente, com multi-processo, do { -brand-name-firefox } pode resultar em mais memória disponível para correr os seus programas favoritos.
 features-memory-browse-faster-privately = Navegue mais rápido, privadamente
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
