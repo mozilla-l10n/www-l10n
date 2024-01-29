@@ -25,16 +25,11 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } para computador
 sub-navigation-features = Funcionalidades
 sub-navigation-support = Apoio
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Extras
 sub-navigation-add-ons = Extras
 sub-navigation-faq = Perguntas frequentes
 sub-navigation-learn-more = Saber mais
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } para dispositivos móveis
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Extras para o { -brand-name-android }
-sub-navigation-android-add-ons = Extras para o { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }

@@ -11,31 +11,7 @@ footer-corporate-blog = Blogue empresarial
 footer-browser-comparison = Comparação de navegadores
 footer-brand-standards = Normas gráficas
 footer-browsers = Navegadores
-# Obsolete string
-footer-desktop = Computador
-# Obsolete string
-footer-mobile = Móvel
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Obsolete string
-footer-products = Produtos
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-# Obsolete string
-footer-send = { -brand-name-send }
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-# Obsolete string
-footer-join = Participar
-# Obsolete string
-footer-sign-up = Registo
-# Obsolete string
-footer-sign-in = Iniciar sessão
-# Obsolete string
-footer-benefits = Benefícios
 footer-developers = Programadores
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Visite a <a { $moco_link }>{ -brand-name-moz
 footer-portions-of-this-content = Partes deste conteúdo são ©1998–{ $current_year } por contribuidores individuais da mozilla.org. Conteúdo disponível sobre uma <a rel="license" href="{ $url }">licença { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Empresa
-# Obsolete string
-footer-about = Informações
 footer-press-center = Centro de imprensa
 footer-careers = Carreiras
-# Obsolete string
-footer-test-new-features = Teste novas funcionalidades
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Ferramentas
 footer-resources = Recursos
 footer-contact = Contactar
@@ -77,4 +47,4 @@ footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-follow-firefox = Seguir @{ -brand-name-firefox }
-footer-about-this-site = Acerca deste site
+footer-about-this-site = Sobre este site

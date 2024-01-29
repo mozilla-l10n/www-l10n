@@ -47,7 +47,7 @@ navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registe novas contas sem fornecer o seu endereço de e-mail.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
-navigation-v2-new-features-and-tools = Novas funcionalidades e ferramentas para uma experiência personalizada com a { -brand-name-mdn }
+navigation-v2-new-features-and-tools = Novas ferramentas e funcionalidades, para uma experiência personalizada com a { -brand-name-mdn }
 navigation-v2-view-all-products = Ver todos os produtos
 
 ## Who We Are menu
