@@ -49,3 +49,12 @@ download-firefox-esr = Ladda ner { -brand-name-firefox-esr }
 download-firefox-esr-32 = Ladda ner { -brand-name-firefox-esr } 32-bitars
 download-firefox-esr-64 = Ladda ner { -brand-name-firefox-esr } 64-bitars
 download-a-different-build = Ladda ner en annan version
+
+## Linux
+
+download-button-linux-32 = Ladda ner { -brand-name-linux } 32-bitars
+download-button-linux-64 = Ladda ner { -brand-name-linux } 64-bitars
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Använder du Debian, Ubuntu eller någon Debian-baserad distribution?<br> Du kan konfigurera vårt <a { $attrs }>APT-arkiv istället</a>.
