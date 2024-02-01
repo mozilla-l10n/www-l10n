@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = სოცქსელები
 firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
 firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
 firefox-desktop-download-primary-password = მთავარი პაროლი
-# Obsolete string
-firefox-desktop-love-your-life = გიყვარდეთ თქვენი ინტერნეტცხოვრება
-# Obsolete string
-firefox-desktop-its-your-internet = ეს თქვენი ინტერნეტსივრცეა. გაიმრავალფეროვნეთ ათასობით სასურველი ხელსაწყოთი, გაფორმებებითა და გაფართოებებით. { -brand-name-firefox } ყველასგან გამორჩეული ბრაუზერია, რომელიც ხალხს აყენებს მოგებაზე წინ.
-# Obsolete string
-firefox-desktop-download-master-password = მთავარი პაროლი
 firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. ვებგვერდების მონახულება გაცილებით სწრაფად შეგიძლიათ.
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.
 firefox-desktop-download-see-your-report = იხილეთ, უსაფრთხოების ანგარიში
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = ბრაუზერ�
 firefox-desktop-download-watch-for-hackers-with-v3 = თვალი ადევნეთ ჰაკერებს { -brand-name-mozilla-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართი { -brand-name-firefox-relay }-ით და სხვა.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართები { -brand-name-firefox-relay }-ით, და ა. შ.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით პაროლები { -brand-name-firefox-lockwise }-ით, და ა. შ.
 firefox-desktop-download-get-more-from-firefox = მიიღეთ მეტი { -brand-name-firefox }-ისგან
 firefox-desktop-download-just-download-the-browser = მხოლოდ ჩამოტვირთეთ ბრაუზერი
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = ახლა <strong>დააყენე�
 firefox-desktop-download-now-windows = <strong>გაუშვით</strong> ახლადჩამოტვირთული დასაყენებელი ფაილი.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>გახსენით</strong> ახლადჩამოტვირთული ფაილი
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = აირჩიეთ <strong>ჩამოტვირთვის</strong> ვარიანტი ქვემოთ
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = დაბრკოლება შეგექმნათ? <a { $attrs }>მიიღეთ მხარდაჭერა დაყენებისას</a>.
 firefox-desktop-download-in-another-language = ჩამოტვირთეთ სხვა ენაზე ან სხვა საოპერაციო სისტემისთვის.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = თუ ამოგიგდებთ, რომ დასაყენებელი პროგრამა { -brand-name-microsoft }-ის მიერ არაა დამოწმებული, დაწკაპეთ „მაინც დაყენება“ ან <a { $attrs }>შეცვალეთ პროგრამების შეფასების პარამეტრები</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = დაწვრილები
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">აღარ აწარმოებს უსაფრთხოების განახლებებს</a> სისტემებისთვის { -brand-name-windows } { -brand-name-xp } ან { -brand-name-vista }, თუმცა მაინც შეგიძლიათ გამოიყენოთ { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="{ $url }">აღარ უჭერს მხარს { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

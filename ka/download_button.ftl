@@ -49,3 +49,12 @@ download-firefox-esr = ჩამოტვირთეთ { -brand-name-firefox-e
 download-firefox-esr-32 = ჩამოტვირთეთ { -brand-name-firefox-esr } 32-ბიტიანი
 download-firefox-esr-64 = ჩამოტვირთეთ { -brand-name-firefox-esr } 64-ბიტიანი
 download-a-different-build = ჩამოტვირთეთ სხვა ანაწყობი
+
+## Linux
+
+download-button-linux-32 = ჩამოტვირთეთ { -brand-name-linux } 32-ბიტიანი
+download-button-linux-64 = ჩამოტვირთეთ { -brand-name-linux } 64-ბიტიანი
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Debian-ს, Ubuntu-ს ან რომელიმე Debian-ზე დაფუძნებულ დისტრიბუციას იყენებთ?<br> შეგიძლიათ ჩვენი <a { $attrs }>APT-საცავის მოწყობა</a>.

@@ -27,10 +27,6 @@ firefox-new-need-help = დახმარება გესაჭიროე�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">აღარ აწარმოებს უსაფრთხოების განახლებებს</a> სისტემებისთვის { -brand-name-windows } { -brand-name-xp } ან { -brand-name-vista }, თუმცა მაინც შეგიძლიათ გამოიყენოთ { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="{ $url }">აღარ უჭერს მხარს { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = თქვენი ჩამოტ�
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = თქვენი ჩამოტვირთვა შეწყდა. მაგრამ ჯერ ყველაფერი არაა დაკარგული.
+firefox-new-download-almost-there = თითქმის მზადაა!
+firefox-new-download-select-linux = აირჩიეთ ჩამოტვირთვის ვარიანტი ქვემოთ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = გთხოვთ, { -brand-name-firefox }-ის დასაყენებლად მიჰყვეთ <a href="{ $url }">ამ მითითებებს</a>.
@@ -45,8 +43,6 @@ firefox-new-please-follow = გთხოვთ, { -brand-name-firefox }-ის �
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = თუ ამოგიგდებთ, რომ დასაყენებელი პროგრამა { -brand-name-microsoft }-ის მიერ არაა დამოწმებული, დაწკაპეთ „მაინც დაყენება“ ან <a { $attrs }>შეცვალეთ პროგრამების შეფასების პარამეტრები</a>.
