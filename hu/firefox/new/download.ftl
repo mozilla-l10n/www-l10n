@@ -27,10 +27,6 @@ firefox-new-need-help = Segítségre van szüksége?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="{ $url }">már nem támogat a { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = A letöltés automatikusan elindul. 
 firefox-new-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = A letöltése megszakadt. De nincs minden veszve.
+firefox-new-download-almost-there = Mindjárt megvagyunk!
+firefox-new-download-select-linux = Válasszon az alábbi letöltési lehetőségek közül
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
@@ -45,8 +43,6 @@ firefox-new-please-follow = A { -brand-name-firefox } telepítéséhez kövesse 
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, hogy a telepítendő alkalmazás nem egy { -brand-name-microsoft } által ellenőrzött alkalmazás, akkor kattintson a „Telepítés mindenképpen” lehetőségre, vagy <a { $attrs }>módosítsa az alkalmazásajánlási beállításokat</a>.

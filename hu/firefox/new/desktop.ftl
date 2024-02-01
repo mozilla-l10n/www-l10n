@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követői
 firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
 firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
 firefox-desktop-download-primary-password = Elsődleges jelszó
-# Obsolete string
-firefox-desktop-love-your-life = Szeresse az online életét
-# Obsolete string
-firefox-desktop-its-your-internet = Ez az Ön internete. Színezze olyanra, amilyenre szeretné az eszközök, témák és kiegészítők ezreivel. A { -brand-name-firefox } az eredeti alternatív böngésző, amely az embereket helyezi a profit elé.
-# Obsolete string
-firefox-desktop-download-master-password = Mesterjelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
 firefox-desktop-download-ads-are-distracting = A reklámok elvonják a figyelmet, és lassabbá teszik a weboldalak betöltését, miközben a nyomkövetőik minden online mozdulatát követik. A { -brand-name-firefox-browser } automatikusan blokkolja a legtöbb követőt, így nem kell beleásnia magát a biztonsági beállításokba.
 firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Már rendelkezik a bön
 firefox-desktop-download-watch-for-hackers-with-v3 = Figyeljen a hackerekre a { -brand-name-mozilla-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Figyeljen a hackerekre a { -brand-name-firefox-monitor }ral, védje meg a jelszavait a { -brand-name-firefox-lockwise } segítségével, és így tovább.
 firefox-desktop-download-get-more-from-firefox = Kapjon többet a { -brand-name-firefox }tól
 firefox-desktop-download-just-download-the-browser = Csak a böngésző letöltése
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Most fejezze be a { -brand-name-firefox } <s
 firefox-desktop-download-now-windows = Most <strong>futtassa</strong> az éppen letöltött telepítőt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen letöltött fájlt.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Válasszon egy <strong>letöltési</strong> lehetőséget lentebb
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.
 firefox-desktop-download-in-another-language = Letöltés más nyelven vagy más operációs rendszerre.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, hogy a telepítendő alkalmazás nem egy { -brand-name-microsoft } által ellenőrzött alkalmazás, akkor kattintson a „Telepítés mindenképpen” lehetőségre, vagy <a { $attrs }>módosítsa az alkalmazásajánlási beállításokat</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = További részletekért látog
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Egy nem biztonságos, elavult operációs rendszert használ, amit <a href="{ $url }">már nem támogat a { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
