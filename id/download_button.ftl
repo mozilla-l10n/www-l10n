@@ -55,3 +55,7 @@ download-firefox-esr = Unduh { -brand-name-firefox-esr }
 download-firefox-esr-32 = Unduh { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Unduh { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Unduh build lain
+
+## Linux
+
+

@@ -55,3 +55,7 @@ download-firefox-esr = { -brand-name-firefox-esr } をダウンロード
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32 ビット版をダウンロード
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64 ビット版をダウンロード
 download-a-different-build = 別のビルドをダウンロード
+
+## Linux
+
+

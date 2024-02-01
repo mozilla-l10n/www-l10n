@@ -55,3 +55,7 @@ download-firefox-esr = Muat turun { -brand-name-firefox-esr }
 download-firefox-esr-32 = Muat turun { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Muat turun { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Muat turun versi yang lain
+
+## Linux
+
+

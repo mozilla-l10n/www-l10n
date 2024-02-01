@@ -55,3 +55,7 @@ download-firefox-esr = { -brand-name-firefox-esr } डाउनलोड कर�
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32-बिट डाउनलोड करें
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64-बिट डाउनलोड करें
 download-a-different-build = कोई दूसरा बिल्ड डाउनलोड करें
+
+## Linux
+
+
