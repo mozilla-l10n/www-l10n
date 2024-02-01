@@ -49,3 +49,8 @@ download-firefox-esr = { -brand-name-firefox-esr } ześěgnuś
 download-firefox-esr-32 = { -brand-name-firefox-esr } ześěgnuś 32-bitowy
 download-firefox-esr-64 = { -brand-name-firefox-esr } ześěgnuś 64-bitowy
 download-a-different-build = Drugu wersiju ześěgnuś
+
+## Linux
+
+download-button-linux-32 = { -brand-name-linux } ześěgnuś 32-bitowy
+download-button-linux-64 = { -brand-name-linux } ześěgnuś 64-bitowy
