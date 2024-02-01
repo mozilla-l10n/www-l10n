@@ -163,10 +163,12 @@ firefox-desktop-download-now-else = 接下来，完成<strong>安装</strong> { 
 firefox-desktop-download-now-windows = 接下来，<strong>运行</strong>刚下载的安装程序。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = 接下来，<strong>打开</strong>刚下载的文件。
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = 请从下方选择一个<strong>下载</strong>选项
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 遇到问题？<a { $attrs }>获取安装帮助</a>。
-firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本。
+firefox-desktop-download-in-another-language = 下载其他语言或其他平台版本
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
