@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Estää sosiaalisen median seu
 firefox-desktop-download-os-availability = Saatavuus käyttöjärjestelmille
 firefox-desktop-download-in-browser-screenshot = Selaimen sisäinen kuvakaappaustyökalu
 firefox-desktop-download-primary-password = Pääsalasana
-# Obsolete string
-firefox-desktop-love-your-life = Rakkautta elämää verkossa kohtaan
-# Obsolete string
-firefox-desktop-its-your-internet = Se on sinun internet. Väritä se haluamallasi tavalla tuhansilla työkaluilla, teemoilla ja laajennuksilla. { -brand-name-firefox } on alkuperäinen vaihtoehtoselain, joka asettaa ihmiset tuottojen edelle.
-# Obsolete string
-firefox-desktop-download-master-password = Pääsalasana
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
 firefox-desktop-download-ads-are-distracting = Mainokset häiritsevät ja niiden vuoksi verkkosivut latautumaan hitaammin, kun niiden seuraimet seuraavat jokaista liikettäsi verkossa. { -brand-name-firefox-browser } estää useimmat seuraimet automaattisesti, joten sinun ei välttämättä tarvitse penkoa turvallisuusasetuksia.
 firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Sinulla on jo selain. K
 firefox-desktop-download-watch-for-hackers-with-v3 = Varaudu pahoilta hakkereilta { -brand-name-mozilla-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa salasanasi { -brand-name-firefox-lockwise }llä ja paljon muuta.
 firefox-desktop-download-get-more-from-firefox = Lisää { -brand-name-firefox }ilta
 firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Viimeistele <strong>asentamalla</strong> { -
 firefox-desktop-download-now-windows = <strong>Suorita</strong> juuri ladattu asennusohjelma.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Avaa</strong> juuri ladattu tiedosto.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Valitse <strong>lataus</strong> alta
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ongelmia? <a { $attrs }>Apua asennukseen</a>.
 firefox-desktop-download-in-another-language = Lataa toisella kielellä tai muulle käyttöjärjestelmälle.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Jos näet kehotteen, jonka mukaan sovellus, jota yrität asentaa, ei ole { -brand-name-microsoft }-vahvistettu sovellus, napsauta "Asenna silti" tai <a { $attrs }>muuta sovellusten suositusasetuksia</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Katso lisätietoja tukisivusto
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja vanhentunut käyttöjärjestelmä, jota <a href="{ $url }">{ -brand-name-firefox } ei enää tue</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

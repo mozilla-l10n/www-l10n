@@ -27,10 +27,6 @@ firefox-new-need-help = Tarvitsetko apua?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Käytössäsi on tietoturvaton ja vanhentunut käyttöjärjestelmä, jota <a href="{ $url }">{ -brand-name-firefox } ei enää tue</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä a
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Lataus keskeytettiin, mutta kaikki ei ole menetetty.
+firefox-new-download-almost-there = Melkein valmista!
+firefox-new-download-select-linux = Valitse latausvaihtoehto alta
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Voit asentaa { -brand-name-firefox }in seuraamalla <a href="{ $url }">näitä ohjeita</a>.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Voit asentaa { -brand-name-firefox }in seuraamalla <
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name-firefox }in vaatimuksia, mutta voit kokeilla jotakin <a href="{ $url }">näistä versioista</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Jos näet kehotteen, jonka mukaan sovellus, jota yrität asentaa, ei ole { -brand-name-microsoft }-vahvistettu sovellus, napsauta "Asenna silti" tai <a { $attrs }>muuta sovellusten suositusasetuksia</a>.

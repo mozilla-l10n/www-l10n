@@ -49,3 +49,12 @@ download-firefox-esr = Lataa { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lataa { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Lataa { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Lataa toinen build-kooste
+
+## Linux
+
+download-button-linux-32 = Lataa { -brand-name-linux } 32-bit
+download-button-linux-64 = Lataa { -brand-name-linux } 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Käytätkö Debiania, Ubuntua tai mitä tahansa Debian-pohjaista jakelua?<br> Voit määrittää <a { $attrs }>APT-tietovarastomme</a>.
