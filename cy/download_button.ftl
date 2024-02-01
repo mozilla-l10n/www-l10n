@@ -49,3 +49,12 @@ download-firefox-esr = Llwythwch { -brand-name-firefox-esr } i Lawr
 download-firefox-esr-32 = Llwythwch { -brand-name-firefox-esr } 32-did i Lawr
 download-firefox-esr-64 = Llwythwch { -brand-name-firefox-esr } 64-did i Lawr
 download-a-different-build = Llwythwch i lawr fersiwn gwahanol
+
+## Linux
+
+download-button-linux-32 = Lawrlwythwch { -brand-name-linux } 32-bit
+download-button-linux-64 = Lawrlwythwch { -brand-name-linux } 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Gan ddefnyddio Debian, Ubuntu neu unrhyw ddosbarthiad sy'n seiliedig ar Debian? <br> Gallwch chi sefydlu ein <a { $attrs }>storfa APT yn lle</a>.

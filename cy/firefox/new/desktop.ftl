@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Yn rhwystro tracwyr cymdeithas
 firefox-desktop-download-os-availability = Argaeledd OS
 firefox-desktop-download-in-browser-screenshot = Teclyn llun sgrin o fewn y porwr
 firefox-desktop-download-primary-password = Prif gyfrinair
-# Obsolete string
-firefox-desktop-love-your-life = Carwch eich bywyd ar-lein
-# Obsolete string
-firefox-desktop-its-your-internet = Eich rhyngrwyd chi yw hi. Lliwiwch hi yn y ffordd rydych chi ei eisiau gyda miloedd o offer, themâu ac estyniadau. { -brand-name-firefox } yw'r porwr amgen gwreiddiol sy'n rhoi pobl cyn elw.
-# Obsolete string
-firefox-desktop-download-master-password = Prif gyfrinair
 firefox-desktop-download-we-block-the-ad = Rydyn ni'n rhwystro tracwyr hysbysebion. Rydych chi'n crwydro'r rhyngrwyd yn gynt.
 firefox-desktop-download-ads-are-distracting = Mae hysbysebion yn blino pawb ac yn gwneud i dudalennau gwe lwytho'n arafach, tra bod eu tracwyr yn gwylio pob symudiad rydych chi'n ei wneud ar-lein. Mae'r { -brand-name-firefox-browser } yn rhwystro'r mwyafrif o dracwyr yn awtomatig, felly does dim angen i chi fynd i'ch gosodiadau diogelwch.
 firefox-desktop-download-see-your-report = Gweld eich adroddiad diogelu
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda c
 firefox-desktop-download-watch-for-hackers-with-v3 = Gwyliwch am hacwyr gyda { -brand-name-mozilla-monitor }, gwarchodwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfrineiriau gyda { -brand-name-firefox-lockwise }, a mwy.
 firefox-desktop-download-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Llwytho'r Porwr i Lawr
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Nawr gorffen <strong>gosod</strong> { -brand
 firefox-desktop-download-now-windows = Nawr <strong>rhedeg</strong> y gosodwr sydd newydd ei lwytho i lawr.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Nawr <strong>agor</strong> y ffeil sydd newydd ei llwytho i lawr.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Dewiswch opsiwn <strong>lawrlwytho</strong> isod
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth gyda'ch gosodiad </a>.
 firefox-desktop-download-in-another-language = Llwytho i lawr mewn iaith arall neu ar gyfer system weithredu arall.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Os ydych chi'n gweld anogyn yn nodi nad yw'r ap rydych chi'n ceisio ei osod yn ap wedi'i ddilysu gan { -brand-name-microsoft }, cliciwch "Gosod beth bynnag" neu <a { $attrs }> newid gosodiadau argymhelledig yr ap </a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Ewch i Cymorth am Ragor o Fany
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Nid yw { -brand-name-mozilla } <a href="{ $url }"> bellach yn darparu diweddariadau diogelwch </a> ar { -brand-name-windows } { -brand-name-xp } na { -brand-name-vista }, ond gallwch barhau i ddefnyddio { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Rydych yn defnyddio system weithredu hen ac anniogel <a href="{ $url }">sydd ddim yn cael ei gynnal bellach gan { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
