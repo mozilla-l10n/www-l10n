@@ -27,10 +27,6 @@ firefox-new-need-help = 需要幫忙嗎？
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = 您正在使用的是 <a href="{ $url }">{ -brand-name-firefox } 已停止支援</a>，也不安全的過時作業系統。
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = 將自動開始下載，若沒有的
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是瀏覽器。
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = 下載已中斷，但已下載的部分將保留。
+firefox-new-download-almost-there = 快完成了！
+firefox-new-download-select-linux = 請選擇下列項目的下載選項
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 { -brand-name-firefox }。
@@ -45,8 +43,6 @@ firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 {
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = 若您看到「您正要安裝的應用程式未經 { -brand-name-microsoft } 驗證」，請點擊「還是要安裝」或<a { $attrs }>更改應用程式推薦設定</a>。
