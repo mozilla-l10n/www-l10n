@@ -15,10 +15,9 @@ new-platform-advanced-install-options = Options d’installation avancées et au
 new-platform-download-in-another = Télécharger dans une autre langue
 new-platform-need-help = Besoin d’aide ?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Télécharger { -brand-name-mozilla } { -brand-name-firefox } pour { -brand-name-linux }
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Téléchargez { -brand-name-mozilla } { -brand-name-firefox } pour { -brand-name-linux }, un navigateur web gratuit. { -brand-name-firefox } est développé par une organisation internationale à but non lucratif, qui œuvre pour que les utilisateurs et utilisatrices gardent le contrôle de leur vie numérique. Téléchargez { -brand-name-firefox } pour { -brand-name-linux } aujourd’hui !
 

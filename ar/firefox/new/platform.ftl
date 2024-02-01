@@ -15,10 +15,9 @@ new-platform-advanced-install-options = خيارات التثبيت المتقد
 new-platform-download-in-another = نزِّله بلغة أخرى
 new-platform-need-help = أتحتاج لمساعدة؟
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = نزِّل متصفح { -brand-name-mozilla }{ -brand-name-firefox } لنظام تشغيل { -brand-name-linux }
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = نزِّل متصفح { -brand-name-mozilla }{ -brand-name-firefox } المجاني لنظام تشغيل { -brand-name-linux }. طُوِّر متصفح { -brand-name-firefox } من قِبل مؤسسة عالمية غير هادفة للربح، تُكرس جهودها لِجعل الأفراد ينعمُون بالتحكّم في حياتهم عبر الإنترنت. احصل على مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-linux } اليوم!
 

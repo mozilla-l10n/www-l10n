@@ -15,10 +15,9 @@ new-platform-advanced-install-options = Pilihan pemasangan lanjutan & lain-lain 
 new-platform-download-in-another = Muat turun dalam bahasa lain
 new-platform-need-help = Perlukan bantuan?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Muat turun { -brand-name-mozilla } { -brand-name-firefox } untuk { -brand-name-linux }
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Muat turun { -brand-name-mozilla } { -brand-name-firefox } untuk { -brand-name-linux }, pelayar web yang percuma. { -brand-name-firefox } dihasilkan oleh organisasi bukan berasaskan keuntungan yang mengutamakan kawalan individu di atas talian. Dapatkan { -brand-name-firefox } untuk { -brand-name-linux } hari ini!
 

@@ -15,10 +15,9 @@ new-platform-advanced-install-options = उन्नत इंस्टॉल �
 new-platform-download-in-another = किसी अन्य भाषा में डाउनलोड करें
 new-platform-need-help = मदद चाहिए?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } के लिए { -brand-name-mozilla } { -brand-name-firefox } डाउनलोड करें
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = { -brand-name-linux } के लिए { -brand-name-mozilla } { -brand-name-firefox } डाउनलोड करें, जो मुफ़्त वेब ब्राउज़र है। { -brand-name-firefox } एक गैर-लाभकारी वैश्विक प्रयास है ताकि ऑनलाइन पूरा कंट्रोल लोगों के अपने हाथ में रहे। { -brand-name-linux } के लिए { -brand-name-firefox } आज ही प्राप्त करें!
 

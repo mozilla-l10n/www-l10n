@@ -15,10 +15,9 @@ new-platform-advanced-install-options = 高度なインストールオプショ�
 new-platform-download-in-another = 別の言語でダウンロード
 new-platform-need-help = お困りの場合
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } 用 { -brand-name-mozilla } { -brand-name-firefox } をダウンロード
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = 無料のウェブブラウザー、{ -brand-name-linux } 用 { -brand-name-mozilla } { -brand-name-firefox } をダウンロードしてください。{ -brand-name-firefox } は、個人ユーザーがオンライン生活を管理できるようにすることを目的とした非営利法人が開発しています。{ -brand-name-linux } 用 { -brand-name-firefox } は、今すぐご利用いただけます。
 

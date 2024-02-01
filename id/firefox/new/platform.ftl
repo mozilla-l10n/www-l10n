@@ -15,10 +15,9 @@ new-platform-advanced-install-options = Opsi penginstalan tingkat lanjut & platf
 new-platform-download-in-another = Unduh dalam bahasa lain
 new-platform-need-help = Butuh bantuan?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Unduh { -brand-name-mozilla } { -brand-name-firefox } untuk { -brand-name-linux }
-
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Unduh { -brand-name-mozilla } { -brand-name-firefox } untuk { -brand-name-linux }, peramban web gratis. { -brand-name-firefox } dirancang oleh organisasi nirlaba global agar masing-masing pengguna dapat memiliki kendali penuh atas aktivitas daring mereka. Dapatkan { -brand-name-firefox } untuk { -brand-name-linux } sekarang!
 
