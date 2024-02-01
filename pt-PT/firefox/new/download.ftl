@@ -34,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = A sua transferência deveria ter sid
 firefox-new-firefox-is-more-than-a-browser = O { -brand-name-firefox } é mais do que um navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = A sua transferência foi interrompida, mas nem tudo está perdido.
+firefox-new-download-almost-there = Quase lá!
+firefox-new-download-select-linux = Selecione uma opção de transferência abaixo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Por favor, siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.

@@ -49,3 +49,12 @@ download-firefox-esr = Transferir o { -brand-name-firefox-esr }
 download-firefox-esr-32 = Transferir o { -brand-name-firefox-esr } de 32 bits
 download-firefox-esr-64 = Transferir o { -brand-name-firefox-esr } de 64 bits
 download-a-different-build = Transferir uma compilação diferente
+
+## Linux
+
+download-button-linux-32 = Transferir o { -brand-name-linux } 32-bit
+download-button-linux-64 = Transferir o { -brand-name-linux } 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Está a utilizar o Debian, Ubuntu ou qualquer distribuição baseada no Debian?<br> Em alternativa, pode configurar o nosso <a { $attrs }>repositório APT</a>.
