@@ -49,3 +49,12 @@ download-firefox-esr = Scarica { -brand-name-firefox-esr }
 download-firefox-esr-32 = Scarica { -brand-name-firefox-esr } a 32 bit
 download-firefox-esr-64 = Scarica { -brand-name-firefox-esr } a 64 bit
 download-a-different-build = Scarica un’altra versione
+
+## Linux
+
+download-button-linux-32 = Scarica per { -brand-name-linux } a 32 bit
+download-button-linux-64 = Scarica per { -brand-name-linux } a 64 bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Utilizzi Debian, Ubuntu o una distribuzione basata su Debian?<br>In alternativa puoi utilizzare il nostro <a { $attrs }>repository APT</a>.
