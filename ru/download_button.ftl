@@ -49,3 +49,12 @@ download-firefox-esr = Загрузить { -brand-name-firefox-esr }
 download-firefox-esr-32 = Загрузить { -brand-name-firefox-esr } (32-разрядная версия)
 download-firefox-esr-64 = Загрузить { -brand-name-firefox-esr } (64-разрядная версия)
 download-a-different-build = Загрузить другую сборку
+
+## Linux
+
+download-button-linux-32 = Загрузить 32-разрядную версию { -brand-name-linux }
+download-button-linux-64 = Загрузить { -brand-name-linux } (64-разрядная версия)
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Используете Debian, Ubuntu или любой дистрибутив на основе Debian?<br> Вместо этого вы можете настроить наш <a { $attrs }>APT-репозиторий</a>.
