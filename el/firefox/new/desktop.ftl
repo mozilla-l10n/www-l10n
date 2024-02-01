@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών 
 firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
 firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
 firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
-# Obsolete string
-firefox-desktop-love-your-life = Αγαπήστε τη διαδικτυακή σας ζωή
-# Obsolete string
-firefox-desktop-its-your-internet = Είναι το διαδίκτυό σας. Προσαρμόστε το όπως θέλετε με χιλιάδες εργαλεία, θέματα και επεκτάσεις. Το { -brand-name-firefox } είναι το πρώτο εναλλακτικό πρόγραμμα περιήγησης που βάζει τους ανθρώπους πάνω από το κέρδος.
-# Obsolete string
-firefox-desktop-download-master-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Ταχύτερη εξερεύνηση του ιστού, χωρίς ιχνηλάτες διαφημίσεων.
 firefox-desktop-download-ads-are-distracting = Οι διαφημίσεις αποσπούν την προσοχή σας και επιβραδύνουν τη φόρτωση των ιστοσελίδων, ενώ οι ιχνηλάτες τους καταγράφουν την κάθε σας κίνηση στο διαδίκτυο. Το { -brand-name-firefox-browser } αποκλείει αυτόματα τους περισσότερους ιχνηλάτες, επομένως δεν χρειάζεται να ψάχνετε μέσα στις ρυθμίσεις ασφαλείας σας.
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το 
 firefox-desktop-download-watch-for-hackers-with-v3 = Προφυλαχτείτε από τους hacker με το { -brand-name-mozilla-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Προφυλαχτείτε από τους χάκερ με το { -brand-name-firefox-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Προστατευτείτε από χάκερ με το { -brand-name-firefox-monitor }, φυλάξτε τους κωδικούς πρόσβασης με το { -brand-name-firefox-lockwise } και πολλά άλλα.
 firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Ολοκληρώστε τώρα την <stro
 firefox-desktop-download-now-windows = <strong>Εκτελέστε</strong> το πρόγραμμα εγκατάστασης που μόλις αποθηκεύσατε.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Ανοίξτε</strong> το αρχείο που μόλις αποθηκεύσατε.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Επιλέξτε μια <strong>λήψη</strong> παρακάτω
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Έχετε προβλήματα; <a { $attrs }>Λάβετε βοήθεια με την εγκατάστασή σας</a>.
 firefox-desktop-download-in-another-language = Λήψη σε άλλη γλώσσα ή για άλλο λειτουργικό σύστημα.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Αν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο “Εγκατάσταση” ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Επισκεφτείτε τη�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = Η { -brand-name-mozilla } <a href="{ $url }">δεν παρέχει πλέον ενημερώσεις ασφαλείας</a> στα { -brand-name-windows } { -brand-name-xp } ή στα { -brand-name-vista }, αλλά μπορείτε ακόμα να χρησιμοποιήσετε το { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Χρησιμοποιείτε ένα επισφαλές, παρωχημένο λειτουργικό σύστημα, <a href="{ $url }">που δεν υποστηρίζεται πλέον από το { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

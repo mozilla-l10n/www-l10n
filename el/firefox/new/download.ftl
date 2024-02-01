@@ -34,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει 
 firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
+firefox-new-download-almost-there = Σχεδόν τελειώσατε!
+firefox-new-download-select-linux = Επιλέξτε μια λήψη παρακάτω
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Παρακαλούμε ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.

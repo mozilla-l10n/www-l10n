@@ -49,3 +49,12 @@ download-firefox-esr = Λήψη του { -brand-name-firefox-esr }
 download-firefox-esr-32 = Λήψη του { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Λήψη του { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Λήψη διαφορετικής έκδοσης
+
+## Linux
+
+download-button-linux-32 = Λήψη του { -brand-name-linux } 32-bit
+download-button-linux-64 = Λήψη του { -brand-name-linux } 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Χρησιμοποιείτε το Debian, το Ubuntu ή οποιαδήποτε διανομή που βασίζεται στο Debian;<br> Μπορείτε να εγκαταστήσετε το <a { $attrs }>αποθετήριο APT</a> μας.
