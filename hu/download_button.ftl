@@ -48,13 +48,13 @@ download-button-please-download-esr = A { -brand-name-firefox } használatához 
 download-firefox-esr = A { -brand-name-firefox-esr } letöltése
 download-firefox-esr-32 = A { -brand-name-firefox-esr } 32 bites verziójának letöltése
 download-firefox-esr-64 = A { -brand-name-firefox-esr } 64 bites verziójának letöltése
-download-a-different-build = Töltsön le egy másik verziót
+download-a-different-build = Másik verzió letöltése
 
 ## Linux
 
-download-button-linux-32 = Töltse le a { -brand-name-linux } 32 bites verzióját
-download-button-linux-64 = 64 bites { -brand-name-linux } letöltése
+download-button-linux-32 = A 32 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
+download-button-linux-64 = A 64 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Debiant, Ubuntut vagy bármely más Debian-alapú terjesztést használ?<br> Helyette beállíthatja az <a { $attrs }>APT tárolónkat</a>.
+download-button-using-debian = Debiant, Ubuntut vagy bármely más Debian-alapú disztribúciót használ?<br> Ehelyett beállíthatja az <a { $attrs }>APT-tárolónkat</a>.

@@ -164,7 +164,7 @@ firefox-desktop-download-now-windows = Most <strong>futtassa</strong> az éppen 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Most <strong>nyissa meg</strong> az éppen letöltött fájlt.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = Válasszon egy <strong>letöltési</strong> lehetőséget lentebb
+firefox-desktop-download-select-linux = Válasszon az alábbi <strong>letöltési</strong> lehetőségek közül
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problémája van? <a { $attrs }>Kapjon segítséget a telepítéshez</a>.

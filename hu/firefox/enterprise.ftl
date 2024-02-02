@@ -23,7 +23,7 @@ firefox-enterprise-with-install-packages-and = A telepítőcsomagokkal és a sz�
 firefox-enterprise-choose-your-release-cadence = Válassza ki a kiadási ütemét
 firefox-enterprise-get-rapid-releases-to-make = Kapjon gyors kiadásokat, melyekkel hamarabb megkapja az új funkciókat, vagy válassza a bővített támogatást a valóban stabil élményért.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } letöltések
-firefox-enterprise-windows-64-bit = { -brand-name-windows } 64 bites
+firefox-enterprise-windows-64-bit = 64 bites { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Válassza ki a letöltését
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
@@ -42,7 +42,7 @@ firefox-enterprise-documentation-and-community = Dokumentáció és közösségi
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Minta <a href="{ $url }">plist konfigurációs profilhoz</a>
 firefox-enterprise-pkg-installer = PKG telepítő
-firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bites
+firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = A { -brand-name-firefox-esr } vagy gyors kiadású verzió letöltése egy<br> <a href="{ $firefox_all }">másik nyelvre vagy platformra.</a>
