@@ -49,7 +49,7 @@ vpn-landing-extra-security-whole-device = Erhöhte Sicherheit: Gesamtgeräteschu
 vpn-landing-see-all-features = Alle Funktionen ansehen
 vpn-landing-fram-a-brand-you-can-trust = Eine Marke, die Vertrauen schafft
 vpn-landing-mozilla-is-a-non-profit-backed = Bei { -brand-name-mozilla } handelt es sich um eine Non-Profit-Organisation, die sich seit 1998 für ein gesundes Internet einsetzt.
-vpn-landing-one-subscription-for-all-your = Ein Abonnement für alle Ihre Geräte
+vpn-landing-one-subscription-for-all-your = Ein Abonnement für all deine Geräte
 
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Powered by { -brand-name-mozilla }.</strong>Seit 1998 im Kampf für Ihr Recht auf Datenschutz.
