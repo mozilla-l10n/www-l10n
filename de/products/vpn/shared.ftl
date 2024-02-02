@@ -185,7 +185,7 @@ vpn-shared-why-bundle = Warum ein Abo-Paket?
 
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Sparen Sie { $percent } %</span> auf ein { -brand-name-relay-premium } Jahresabo.
+vpn-shared-save-on-relay-premium = <span>Spare { $percent } %</span> auf ein { -brand-name-relay-premium } Jahresabo.
 
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ist in deinem Land noch nicht verfügbar
 
