@@ -164,7 +164,7 @@ firefox-desktop-download-now-windows = Nawr <strong>rhedeg</strong> y gosodwr sy
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Nawr <strong>agor</strong> y ffeil sydd newydd ei llwytho i lawr.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = Dewiswch opsiwn <strong>lawrlwytho</strong> isod
+firefox-desktop-download-select-linux = Dewiswch opsiwn <strong>llwytho i lawr</strong> isod
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Cael trafferth? <a { $attrs }>Cael cymorth gyda'ch gosodiad </a>.

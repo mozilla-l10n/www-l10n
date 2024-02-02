@@ -35,7 +35,7 @@ firefox-new-firefox-is-more-than-a-browser = Mae { -brand-name-firefox } yn fwy 
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Cafodd eich llwytho i lawr ei darfu. Ond nid yw popeth wedi'i golli.
 firefox-new-download-almost-there = Bron a gorffen!
-firefox-new-download-select-linux = Dewiswch opsiwn lawrlwytho isod
+firefox-new-download-select-linux = Dewiswch opsiwn llwytho i lawr isod
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Dilynwch <a href="{ $url }">y cyfarwyddiadau hyn</a> er mwyn gosod { -brand-name-firefox }.
