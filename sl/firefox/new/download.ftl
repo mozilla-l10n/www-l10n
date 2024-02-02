@@ -27,10 +27,6 @@ firefox-new-need-help = Potrebujete pomoč?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ne izdaja več varnostnih posodobitev</a> za { -brand-name-windows } { -brand-name-xp } in { -brand-name-vista }, vendar lahko { -brand-name-firefox } vseeno uporabljate.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Uporabljate zastarel operacijski sistem, ki ni več varen in ga <a href="{ $url }">{ -brand-name-firefox } več ne podpira</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Prenos bi se moral začeti samodejno
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je več kot le brskalnik.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Prenašanje se je prekinilo. Toda vse ni izgubljeno.
+firefox-new-download-almost-there = Še malo!
+firefox-new-download-select-linux = Spodaj izberite možnost prenosa
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a href="{ $url }">navodilom</a>.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Za namestitev { -brand-name-firefox }a sledite <a hr
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Če se prikaže obvestilo, da nameščate aplikacijo, ki je { -brand-name-microsoft } ni preveril, kliknite "Vseeno namesti" ali <a { $attrs }>spremenite nastavitve priporočil aplikacij</a>.
