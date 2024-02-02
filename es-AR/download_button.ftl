@@ -57,4 +57,4 @@ download-button-linux-64 = Descargar { -brand-name-linux } 64 bits
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = ¿Usas Debian, Ubuntu o cualquier distribución basada en Debian? <br> Puedes configurar nuestro repositorio APT <a { $attrs }> en su lugar </a>.
+download-button-using-debian = ¿Usás Debian, Ubuntu o cualquier distribución basada en Debian?<br> Podés configurar nuestro <a { $attrs }>repositorio APT en su lugar</a>.
