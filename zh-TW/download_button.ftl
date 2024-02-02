@@ -52,9 +52,9 @@ download-a-different-build = 下載不同版本
 
 ## Linux
 
-download-button-linux-32 = 下載 { -brand-name-linux } 32 位元
-download-button-linux-64 = 下載 { -brand-name-linux } 64 位元
+download-button-linux-32 = 下載 { -brand-name-linux } 32 位元版
+download-button-linux-64 = 下載 { -brand-name-linux } 64 位元版
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = 使用 Debug、Ubuntu 或任何以 Debug 為基礎的發行版
+download-button-using-debian = 使用 Debian、Ubuntu 或任何以 Debian 為基礎的發行版嗎？<br>您可以設定我們的 <a { $attrs }>APT 倉庫</a>。

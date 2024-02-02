@@ -35,7 +35,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是�
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = 下載已中斷，但已下載的部分將保留。
 firefox-new-download-almost-there = 快完成了！
-firefox-new-download-select-linux = 請選擇下列項目的下載選項
+firefox-new-download-select-linux = 請選擇下載選項
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 { -brand-name-firefox }。
