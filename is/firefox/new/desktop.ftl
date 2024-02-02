@@ -135,6 +135,9 @@ firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar 
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er fáanlegt í öllum tækjunum þínum; taktu flipana þína, vafurferilinn og bókamerkin með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-firefox } reikningur</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er í boði í öllum tækjunum þínum; taktu flipana þína, vafurferil og bókamerki með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-mozilla-account }</a> og þú munt geta samstillt þetta á milli tækjanna þinna, auk þess að bjóðast fleiri gerðir af { -brand-name-mozilla }-hugbúnaði.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Taktu myndir í hárri upplausn af hverju sem er á netinu með <a { $attrs }>skjámyndatólinu</a> okkar sem er innbyggt í vafranum
 # Variables:
@@ -160,6 +163,8 @@ firefox-desktop-download-now-else = Ljúktu nú við <strong>uppsetningu</strong
 firefox-desktop-download-now-windows = Nú skaltu <strong>keyra</strong> uppsetningarforritið sem var sótt rétt í þessu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Nú skaltu <strong>opna</strong> skrána sem var sótt rétt í þessu.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Veldu einn valkost fyrir<strong>niðurhal</strong> hér að neðan
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Áttu í vandræðum? <a { $attrs }>Fáðu hjálp við uppsetninguna þína</a>.
