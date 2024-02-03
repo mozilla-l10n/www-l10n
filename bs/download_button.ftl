@@ -49,3 +49,12 @@ download-firefox-esr = Preuzmite { -brand-name-firefox-esr }
 download-firefox-esr-32 = Preuzmite { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Preuzmite { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Preuzmite drugu verziju
+
+## Linux
+
+download-button-linux-32 = Preuzmite { -brand-name-linux } 32-bit
+download-button-linux-64 = Preuzmite { -brand-name-linux } 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Koristite Debian, Ubuntu ili bilo koju distribuciju zasnovanu na Debianu?<br> Umjesto toga možete postaviti naše <a { $attrs }>APT spremište</a>.

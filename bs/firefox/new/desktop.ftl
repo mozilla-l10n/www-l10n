@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Blokira društvene pratioce
 firefox-desktop-download-os-availability = Dostupnost na operativnim sistemima
 firefox-desktop-download-in-browser-screenshot = Alat za snimanje ekrana u pretraživaču
 firefox-desktop-download-primary-password = Primarna lozinka
-# Obsolete string
-firefox-desktop-love-your-life = Volite svoj online život
-# Obsolete string
-firefox-desktop-its-your-internet = Ovo je vaš internet. Obojite ga onako kako želite sa hiljadama alata, tema i proširenja. { -brand-name-firefox } je originalni alternativni pretraživač koji ljude stavlja ispred profita.
-# Obsolete string
-firefox-desktop-download-master-password = Glavna lozinka
 firefox-desktop-download-we-block-the-ad = Blokiramo oglase za praćenje. Brže istražujete internet.
 firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi pratioci prate svaki vaš pokret na mreži. { -brand-name-firefox-browser } automatski blokira većinu pratilaca, tako da nema potrebe da kopate po vašim sigurnosnim postavkama.
 firefox-desktop-download-see-your-report = Pogledajte svoj izvještaj o zaštiti
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Već imate pretraživa�
 firefox-desktop-download-watch-for-hackers-with-v3 = Pazite na hakere sa { -brand-name-mozilla-monitor }, zaštitite svoju email adresu sa { -brand-name-firefox-relay } i još mnogo toga.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Pazite na hakere sa { -brand-name-firefox-monitor }, zaštitite svoju email adresu sa { -brand-name-firefox-relay } i još mnogo toga.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Pazite na hakere sa { -brand-name-firefox-monitor }, zaštitite lozinke sa { -brand-name-firefox-lockwise } i još mnogo toga.
 firefox-desktop-download-get-more-from-firefox = Dobijte više uz { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Samo preuzmite pretraživač
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Sada završite <strong>instaliranje</strong>
 firefox-desktop-download-now-windows = Sada <strong>pokrenite</strong> instalacijski program koji ste upravo preuzeli.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Sada <strong>otvorite</strong> datoteku koja je upravo preuzeta.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Odaberite opciju <strong>preuzimanja</strong> ispod
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Imate problema? <a { $attrs }>Potražite pomoć za svoju instalaciju</a>.
 firefox-desktop-download-in-another-language = Preuzmite na drugom jeziku ili za drugi operativni sistem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Ako vidite upit u kojem se navodi da aplikacija koju pokušavate instalirati nije verifikovao { -brand-name-microsoft }, kliknite na “Instaliraj svejedno” ili <a { $attrs }>promijenite postavke preporuke aplikacije</a >.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Posjetite podršku za više de
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">više ne pruža sigurnosna ažuriranja</a> za { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }, ali i dalje možete koristiti { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Koristite nesiguran, zastarjeli operativni sistem <a href="{ $url }">koji { -brand-name-firefox }</a> više ne podržava.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
