@@ -27,10 +27,6 @@ firefox-new-need-help = Cần trợ giúp?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Bạn đang sử dụng một hệ điều hành đã lỗi thời, không an toàn và <a href="{ $url }">không còn được { -brand-name-firefox } hỗ trợ nữa</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không chỉ là một trình duyệt.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Quá trình tải xuống của bạn đã bị gián đoạn, nhưng mọi thứ chưa hẳn đã bị mất.
+firefox-new-download-almost-there = Sắp xong rồi!
+firefox-new-download-select-linux = Chọn lựa chọn tải xuống bên dưới
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Làm theo <a href="{ $url }">hướng dẫn này</a> để cài đặt { -brand-name-firefox }.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Làm theo <a href="{ $url }">hướng dẫn này</a>
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Nếu bạn thấy lời nhắc cho biết ứng dụng bạn đang cố gắng cài đặt không phải là ứng dụng đã được xác minh của { -brand-name-microsoft }, hãy nhấp vào “Install anyway” hoặc <a { $attrs }>thay đổi cài đặt đề xuất ứng dụng</a>.

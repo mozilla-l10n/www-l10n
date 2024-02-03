@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Chặn trình theo dõi xã h�
 firefox-desktop-download-os-availability = Hệ điều hành khả dụng
 firefox-desktop-download-in-browser-screenshot = Công cụ chụp màn hình trong trình duyệt
 firefox-desktop-download-primary-password = Mật khẩu chính
-# Obsolete string
-firefox-desktop-love-your-life = Yêu cuộc sống trực tuyến của bạn
-# Obsolete string
-firefox-desktop-its-your-internet = Đó là internet của bạn. Tô màu theo cách bạn muốn với hàng nghìn công cụ, chủ đề và tiện ích mở rộng. { -brand-name-firefox } là trình duyệt thay thế ban đầu đặt mọi người lên trước lợi nhuận.
-# Obsolete string
-firefox-desktop-download-master-password = Mật khẩu chính
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
 firefox-desktop-download-ads-are-distracting = Quảng cáo gây mất tập trung và làm cho các trang web tải chậm hơn trong khi trình theo dõi của họ theo dõi mọi di chuyển bạn thực hiện trực tuyến. { -brand-name-firefox-browser } tự động chặn hầu hết các trình theo dõi, do đó, không cần phải đào sâu vào cài đặt bảo mật của bạn.
 firefox-desktop-download-see-your-report = Xem báo cáo bảo vệ của bạn
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Bạn đã có trình d
 firefox-desktop-download-watch-for-hackers-with-v3 = Theo dõi tin tặc với { -brand-name-mozilla-monitor }, bảo vệ địa chỉ email của bạn với { -brand-name-firefox-relay }, và hơn thế nữa.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Đề phòng tin tặc bằng { -brand-name-firefox-monitor }, bảo vệ địa chỉ email của bạn bằng { -brand-name-firefox-relay }, v.v.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Theo dõi các tin tặc với { -brand-name-firefox-monitor }, bảo vệ mật khẩu với { -brand-name-firefox-lockwise } và hơn thế nữa.
 firefox-desktop-download-get-more-from-firefox = Nhận thêm từ { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Chỉ cần tải xuống trình duyệt
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Bây giờ kết thúc <strong>cài đặt</
 firefox-desktop-download-now-windows = Bây giờ <strong>chạy</strong> trình cài đặt vừa được tải xuống.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Bây giờ <strong>mở</strong> tập tin vừa được tải xuống.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Chọn lựa chọn <strong>tải xuống</strong> bên dưới
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Gặp sự cố? <a { $attrs }>Nhận trợ giúp với cài đặt của bạn</a>.
 firefox-desktop-download-in-another-language = Tải xuống bằng ngôn ngữ khác hoặc cho hệ điều hành khác.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Nếu bạn thấy lời nhắc cho biết ứng dụng bạn đang cố gắng cài đặt không phải là ứng dụng đã được xác minh của { -brand-name-microsoft }, hãy nhấp vào “Install anyway” hoặc <a { $attrs }>thay đổi cài đặt đề xuất ứng dụng</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Truy cập hỗ trợ để bi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Bạn đang sử dụng một hệ điều hành đã lỗi thời, không an toàn và <a href="{ $url }">không còn được { -brand-name-firefox } hỗ trợ nữa</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
