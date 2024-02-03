@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = En konto er ikke påkrævet. Men måske vil du have en alligevel.
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox }-browseren indsamler så lidt data om dig, at vi ikke engang beder om din mailadresse. Men hvis du bruger din mailadresse til at oprette en { -brand-name-mozilla-account }, får du adgang til en hel række af produkter ud over { -brand-name-firefox }, der beskytter dit privatliv.
 whatsnew-account-mozilla-cta = Få en { -brand-name-mozilla-account }
 
 ##
