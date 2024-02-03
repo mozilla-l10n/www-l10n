@@ -57,4 +57,4 @@ download-button-linux-64 = 下载 { -brand-name-linux }（64 位）
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = 使用 Debian、Ubuntu 或任何基于 Debian 的发行版<br>您可以设置我们的<a { $attrs }>APT 软件库</a>。
+download-button-using-debian = 您在使用 Debian、Ubuntu 或其他基于 Debian 的发行版吗？<br>那么您可以设置我们的<a { $attrs }>APT 软件库</a>。
