@@ -5,17 +5,29 @@
 
 ### URL: https://www-dev.allizom.org/firefox/products/
 
+# Obsolete string
 # HTML page title
 firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser
+# HTML page title
+firefox-products-firefox-beginning = { -brand-name-firefox } er kun begyndelsen
+# Obsolete string
 # HTML page description
 firefox-products-its-a-whole-family-of-products = Det er en hel familie af produkter, der er designet til at beskytte dig online.
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } er en hel familie af produkter, der er designet til at beskytte dig online
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } er <strong>mere</strong> end en browser
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } er kun <strong>begyndelsen</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Se om dine personlige oplysninger er blevet kompromitteret i en virksomheds datalæk - og meld dig til at få advarsler fremover.
 firefox-products-check-for-breaches = Undersøg for datalæk
 firefox-products-sign-up-for-breach-alerts = Tilmeld dig advarsler om datalæk
+# Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox }-browsere
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Hent de browsere, der automatisk blokerer mere end 2000 sporings-tjenester. Udvidet beskyttelse mod sporing er standard i alle { -brand-name-firefox }-browsere.
 firefox-products-desktop = Computer
 firefox-products-android = { -brand-name-android }
@@ -27,18 +39,6 @@ firefox-products-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Beskyt din rigtige mailadresse for at få bedre kontrol over din indbakke.
 firefox-products-learn-more-about-relay = Læs mere om { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Beskyt dine adgangskoder, og få adgang til dem på alle dine synkroniserede enheder.
-# Obsolete string
-firefox-products-download-lockwise = Hent { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Åbn i { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Læs mere om { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Send dine store filer og følsomme dokumenter på op til 2,5G sikkert.
 firefox-products-send-a-file = Send en fil
 firefox-products-pocket = { -brand-name-pocket }
