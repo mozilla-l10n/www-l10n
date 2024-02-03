@@ -49,3 +49,8 @@ download-firefox-esr = { -brand-name-firefox-esr }’yi indir
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32 bit sürümünü indir
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64 bit sürümünü indir
 download-a-different-build = Farklı bir yapı indir
+
+## Linux
+
+download-button-linux-32 = { -brand-name-linux } 32 bit sürümünü indir
+download-button-linux-64 = { -brand-name-linux } 64 bit sürümünü indir
