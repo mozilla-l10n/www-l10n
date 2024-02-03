@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
 # HTML page title
-mozsocial-invite-join-the-waitlist = 加入 { -brand-name-mozilla-social } 预约名单
+mozsocial-invite-join-the-waitlist = 预约 { -brand-name-mozilla-social }
 mozsocial-invite-welcome-to-mozillasocial = 欢迎使用 { -brand-name-mozilla-social }！
-mozsocial-invite-please-join-our-waitlist = 请填写表格加入我们的预约名单。
+mozsocial-invite-please-join-our-waitlist = 填写下方表格即可预约。
 mozsocial-invite-required-label = 必需
 mozsocial-invite-first-name-label = 名
 mozsocial-invite-last-name-label = 姓

@@ -92,7 +92,7 @@ vpn-landing-faq-link = 参阅更多常见问题
 
 vpn-landing-invite-page-title = 预约：{ -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = 当 { -brand-name-mozilla-vpn } 可用于您的区域时，将会收到通知。
-vpn-landing-invite-page-heading = 加入 VPN 预约名单
+vpn-landing-invite-page-heading = 预约 VPN
 vpn-landing-invite-email-label = 您的电子邮件地址是什么？
 vpn-landing-invite-required-label = 必填
 # Only localize "yourname". Do not change "@example.com".

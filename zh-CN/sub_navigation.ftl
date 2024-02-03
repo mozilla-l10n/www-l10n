@@ -25,16 +25,11 @@ sub-navigation-desktop-nightly = 桌面版 { -brand-name-nightly }
 sub-navigation-features = 特色
 sub-navigation-support = 用户支持
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = 附加组件
 sub-navigation-add-ons = 附加组件
 sub-navigation-faq = 常见问题
 sub-navigation-learn-more = 详细了解
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } 移动版
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = { -brand-name-android } 附加组件
-sub-navigation-android-add-ons = { -brand-name-android } 附加组件
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
@@ -52,7 +47,7 @@ sub-navigation-firefox-features = { -brand-name-firefox } 特色
 sub-navigation-ad-tracker-blocking = 拦截广告跟踪器
 sub-navigation-private-browsing = 隐私浏览
 sub-navigation-what-is-a-browser = 浏览器是什么？
-sub-navigation-browsing-history = 浏览记录
+sub-navigation-browsing-history = 浏览历史
 sub-navigation-browser-history = 浏览器简史
 sub-navigation-privacy = 隐私权
 sub-navigation-our-promise = 我们的承诺
