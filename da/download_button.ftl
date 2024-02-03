@@ -38,7 +38,7 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> til { -br
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> til { -brand-name-ios }
 download-button-firefox-privacy = Privatliv i { -brand-name-firefox }
 download-button-firefox-privacy-notice = Privatlivserklæring for { -brand-name-firefox }
-download-button-download = Download
+download-button-download = Hent
 # Variables:
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
@@ -49,3 +49,6 @@ download-firefox-esr = Hent { -brand-name-firefox-esr }
 download-firefox-esr-32 = Hent { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Hent { -brand-name-firefox-esr } 64-bit
 download-a-different-build = Hent en anden version
+
+## Linux
+

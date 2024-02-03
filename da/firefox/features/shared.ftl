@@ -5,18 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-a-better-internet-experience = En bedre internetoplevelse
-features-shared-more-firefox-features = Flere funktioner i { -brand-name-firefox }-browseren
-features-shared-browse-faster = Surf hurtigere
-features-shared-your-favorite-extensions = Dine foretrukne udvidelser
-features-shared-balanced-memory = Balanceret hukommelsesforbrug
-features-shared-more-powerful-private-browsing = Mere effektiv privat browsing
-features-shared-ad-tracker-blocking = Blokering af annoncesporing
-features-shared-password-manager = Håndtering af adgangskoder
-features-shared-customize-your-browser = Tilpas din browser
-features-shared-sync-between-devices = Synkroniser mellem enheder
-features-shared-better-bookmarks = Bedre bogmærker
+features-shared-footer-cta-button = Hent { -brand-name-firefox }
 features-shared-fingerprinter-blocking = Blokering af fingerprinters
 features-shared-translate-the-web = Oversæt websider
 features-shared-picture-in-picture = Billede-i-billede
-brand-name-firefox = { -brand-name-firefox }
