@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Блокує стеження 
 firefox-desktop-download-os-availability = Доступність для різних ОС
 firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
 firefox-desktop-download-primary-password = Головний пароль
-# Obsolete string
-firefox-desktop-love-your-life = Любіть своє онлайн-життя
-# Obsolete string
-firefox-desktop-its-your-internet = Це ваш інтернет. Прикрасьте його на свій смак за допомогою тисяч інструментів, тем і розширень. { -brand-name-firefox } — оригінальний альтернативний браузер, який ставить людей понад прибуток.
-# Obsolete string
-firefox-desktop-download-master-password = Головний пароль
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
 firefox-desktop-download-ads-are-distracting = Оголошення відвертають увагу та сповільнюють завантаження вебсторінок, а їхні елементи стеження слідкують за кожним вашим кроком в Інтернеті. { -brand-name-firefox-browser } блокує більшість елементів стеження автоматично, тому не потрібно заглиблюватися в налаштування безпеки.
 firefox-desktop-download-see-your-report = Переглянути звіт про ваш захист
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = У вас вже є б�
 firefox-desktop-download-watch-for-hackers-with-v3 = Слідкуйте за хакерами за допомогою { -brand-name-mozilla-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Слідкуйте за хакерами за допомогою { -brand-name-firefox-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Слідкуйте за діями зловмисників за допомогою { -brand-name-firefox-monitor }, захистіть паролі за допомогою { -brand-name-firefox-lockwise }, а також інші можливості.
 firefox-desktop-download-get-more-from-firefox = Отримайте більше від { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Просто завантажте браузер
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Тепер закінчіть <strong>вст
 firefox-desktop-download-now-windows = Тепер <strong>запустіть</strong> файл встановлення, який щойно завантажено.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Тепер <strong>відкрийте</strong> файл, який щойно завантажено.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Виберіть варіант <strong>завантаження</strong> нижче
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Маєте проблеми? <a { $attrs }>Отримайте довідку щодо встановлення</a>.
 firefox-desktop-download-in-another-language = Завантажити іншою мовою або для іншої операційної системи.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Якщо ви бачите підказку, що програма, яку ви намагаєтесь встановити, не є затвердженою програмою { -brand-name-microsoft }, натисніть “Все одно встановити” або <a { $attrs }>змініть налаштування рекомендацій програм</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Відвідайте служ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Ви використовуєте незахищену, застарілу операційну систему, <a href="{ $url }">яка більше не підтримується { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

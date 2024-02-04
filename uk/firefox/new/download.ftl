@@ -27,10 +27,6 @@ firefox-new-need-help = Потрібна допомога?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Ви використовуєте незахищену, застарілу операційну систему, <a href="{ $url }">яка більше не підтримується { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Завантаження розпо�
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
+firefox-new-download-almost-there = Майже готово!
+firefox-new-download-select-linux = Виберіть варіант завантаження нижче
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб установити { -brand-name-firefox }.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Дотримуйтесь <a href="{ $url }">цих �
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Якщо ви бачите підказку, що програма, яку ви намагаєтесь встановити, не є затвердженою програмою { -brand-name-microsoft }, натисніть “Все одно встановити” або <a { $attrs }>змініть налаштування рекомендацій програм</a>.

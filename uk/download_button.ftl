@@ -49,3 +49,12 @@ download-firefox-esr = Завантажити { -brand-name-firefox-esr }
 download-firefox-esr-32 = Завантажити 32-розрядий { -brand-name-firefox-esr }
 download-firefox-esr-64 = Завантажити 64-розрядий { -brand-name-firefox-esr }
 download-a-different-build = Завантажити іншу збірку
+
+## Linux
+
+download-button-linux-32 = Завантажити { -brand-name-linux } 32-розрядний
+download-button-linux-64 = Завантажити { -brand-name-linux } 64-розрядний
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Користуєтеся Debian, Ubuntu чи будь-яким іншим дистрибутивом на основі Debian?<br> Натомість ви можете налаштувати наш <a { $attrs }>репозиторій APT</a>.
