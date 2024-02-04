@@ -52,9 +52,9 @@ download-a-different-build = Stáhnout jiné sestavení
 
 ## Linux
 
-download-button-linux-32 = Stáhnout { -brand-name-linux } 32-bitová verze
-download-button-linux-64 = Stáhnout { -brand-name-linux } 64-bit
+download-button-linux-32 = Stáhnout { -brand-name-linux } (32-bitová verze)
+download-button-linux-64 = Stáhnout { -brand-name-linux } (64-bitová verze)
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Používáte Debian, Ubuntu nebo jinou distribuci založenou na Debianu?<br> Můžete místo toho zřídit naše <a { $attrs }>APT repozitář</a>.
+download-button-using-debian = Používáte Debian, Ubuntu nebo jinou distribuci založenou na Debianu?<br> Můžete místo toho využít náš <a { $attrs }>APT repozitář</a>.
