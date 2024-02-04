@@ -129,7 +129,7 @@ vpn-subnav-features = Можливості
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Ми використовуємо куки, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
+vpn-shared-affiliate-notification-message = Ми використовуємо файли cookie, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
 vpn-shared-affiliate-notification-reject = Відхилити
 vpn-shared-affiliate-notification-ok = Гаразд
 

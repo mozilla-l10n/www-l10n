@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
@@ -12,7 +12,7 @@ firefox-quantum-was = { -brand-name-firefox-quantum } був революціє�
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Дізнайтеся більше про { -brand-name-firefox-quantum }
 privacy-first = Приватність насамперед
-firefox-doesnt-spy = { -brand-name-firefox } не стежить за вашими діями в Мережі. Ми зупиняємо багато відомих сторонніх кук стеження і надаємо вам повний контроль.
+firefox-doesnt-spy = { -brand-name-firefox } не стежить за вашими діями онлайн. Ми зупиняємо багато відомих сторонніх файлів cookie стеження і надаємо вам повний контроль.
 super-fast = Надшвидкий
 get-speed-and = Отримайте швидкість і безпеку. { -brand-name-firefox } працює швидко, тому що ми не стежимо за вашими діями.
 always-evolving = Завжди розвивається

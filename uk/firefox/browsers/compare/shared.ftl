@@ -10,9 +10,7 @@ compare-shared-yes = Так
 # Used as an accessible label for a "no" icon (a gray bar)
 compare-shared-no = Ні
 compare-shared-private-browsing-mode = Режим приватного перегляду
-compare-shared-blocks-third-party-tracking-default = Усталене блокування сторонніх кук стеження
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Блокування сторонніх кук стеження
+compare-shared-blocks-third-party-tracking-default = Типово блокує сторонні куки стеження
 compare-shared-blocks-cryptomining-scripts = Блокування скриптів добування криптовалют
 compare-shared-blocks-fingerprinting-scripts = Блокування скриптів збору цифрових відбитків
 compare-shared-blocks-social-trackers = Блокування стеження соціальних мереж
@@ -33,8 +31,6 @@ compare-shared-mobile-os-availability = Доступність для мобіл
 compare-shared-syncs-with-mobile = Синхронізація з мобільним
 compare-shared-password-management = Керування паролями
 compare-shared-primary-password = Головний пароль
-# Obsolete string
-compare-shared-master-password = Головний пароль
 compare-shared-security-and-privacy = Безпека й приватність
 compare-shared-utility = Зручність
 compare-shared-portability = Доступність
@@ -46,8 +42,6 @@ compare-shared-utility-strong = <strong>Зручність</strong>
 compare-shared-portability-strong = <strong>Доступність</strong>
 compare-shared-overall-assessment = Загальна оцінка
 compare-shared-the-comparisons-made-here-updated = Наведені тут порівняння було виконано з типовими налаштуваннями в таких версіях браузерів:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Наведені тут порівняння було виконано в таких версіях браузерів:
 compare-shared-this-page-updated-semi-quarterly = Ця сторінка оновлюється двічі на квартал, щоб враховувати нові версії, і може не завжди показувати останні оновлення.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }

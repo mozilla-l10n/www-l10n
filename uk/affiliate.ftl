@@ -10,7 +10,7 @@
 
 # Variables:
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-affiliate-notification-message = Ми використовуємо куки, щоб зрозуміти, який афілійований партнер привів вас сюди. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
+affiliate-notification-message = Ми використовуємо файли cookie, щоб зрозуміти, який афілійований партнер привів вас сюди. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
 # label for the button that rejects cookie use
 affiliate-notification-reject = Відхилити
 # label for the button that okays cookie use
