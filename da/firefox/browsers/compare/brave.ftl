@@ -43,8 +43,16 @@ compare-brave-brave-also-supports-the-huge = { -brand-name-brave } understøtter
 compare-brave-the-ability-to-sync-your-passwords = Muligheden for at synkronisere dine adgangskoder, udvidelser, formulardata og andre indstillinger på tværs af dine enheder og operativsystemer har været tilgængelig i { -brand-name-firefox } i flere år. De synkroniserede data er desuden krypterede, hvilket betyder, at ingen kan tilgå dem udefra.
 # Variables:
 #   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
-#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
-#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
+#   $monitor (string) - link to monitor.mozilla.org with additional attributes for analytics
+#   $breaches (string) - link to monitor.mozilla.org/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v3 = { -brand-name-firefox } giver også mulighed for at tilmelde sig en gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. En { -brand-name-mozilla-account } er nøglen til at synkronisere dine data mellem forskellige enheder. Og med en konto kan du også bruge <a { $monitor }>{ -brand-name-mozilla-monitor }</a>, der holder øje med om dine mailadresser har været involveret i kendte <a { $breaches }>datalæk</a> - og giver dig besked, hvis det sker.
+# Obsolete string
+# Variables:
+#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
+#   $monitor (string) - link to monitor.mozilla.org with additional attributes for analytics
+#   $breaches (string) - link to monitor.mozilla.org/breaches with additional attributes for analytics
+compare-brave-the-firefox-browser-also-gives-v2 = { -brand-name-firefox } giver også mulighed for at tilmelde sig en gratis <a { $accounts }>{ -brand-name-mozilla-account }</a>. En { -brand-name-mozilla-account } er nøglen til at synkronisere dine data mellem forskellige enheder. Og med en konto kan du også bruge <a { $monitor }>{ -brand-name-firefox-monitor }</a>, der holder øje med om dine mailadresser har været involveret i kendte <a { $breaches }>datalæk</a> - og giver dig besked, hvis det sker.
+# Obsolete string
 compare-brave-the-firefox-browser-also-gives = { -brand-name-firefox } giver også mulighed for at tilmelde sig en gratis <a { $accounts }>{ -brand-name-firefox-account }</a>. { -brand-name-firefox }-kontoen er nøglen til at synkronisere dine data mellem forskellige enheder. Og med en konto kan du også bruge <a { $monitor }>{ -brand-name-firefox-monitor }</a>, der holder øje med om dine mailadresser har været involveret i kendte <a { $breaches }>datalæk</a> - og giver dig besked, hvis det sker.
 # "Basic Attention Token" is a brand name.
 compare-brave-brave-also-recently-gained = { -brand-name-brave } er for nylig også begyndt at kunne synkronisere data på tværs af de fleste populære styresystemer og enheder - inklusive muligheden for at synkronisere dine BATs.
