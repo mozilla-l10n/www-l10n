@@ -60,7 +60,7 @@ vpn-landing-faq-compatibility-question-heading = S akými zariadeniami je { -bra
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilná s <a href="{ $mobile }">mobilnými telefónmi</a>, tabletmi a <a href="{ $desktop }">počítačmi</a> s:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (len 64-bitová verzia)
+vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (len 64‑bitová verzia)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
 #   $minversion (string) - minimum supported version e.g. 10.15

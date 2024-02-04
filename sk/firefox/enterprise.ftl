@@ -23,7 +23,7 @@ firefox-enterprise-with-install-packages-and = Pomocou inštalačných balíčko
 firefox-enterprise-choose-your-release-cadence = Vyberte si, ako často chcete dostávať nové funkcie
 firefox-enterprise-get-rapid-releases-to-make = Klasická verzia zaručuje najnovšie funkcie, verzia s rozšírenou podporou garantuje stabilitu.
 firefox-enterprise-enterprise-downloads = Na stiahnutie pre { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = { -brand-name-windows }, 64-bitová verzia
+firefox-enterprise-windows-64-bit = { -brand-name-windows }, 64‑bitová verzia
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Vyberte si svoju verziu
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
@@ -42,7 +42,7 @@ firefox-enterprise-documentation-and-community = Dokumentácia a komunitná podp
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Zoznam pre <a href="{ $url }">nastavenie profilu</a>
 firefox-enterprise-pkg-installer = PKG inštalátor
-firefox-enterprise-windows-32-bit = { -brand-name-windows }, 32-bitová verzia
+firefox-enterprise-windows-32-bit = { -brand-name-windows }, 32‑bitová verzia
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
 firefox-enterprise-download-firefox-esr-or-rapid = Stiahnite si { -brand-name-firefox-esr } alebo jeho klasickú verziu pre<br> <a href="{ $firefox_all }">iný jazyk alebo platformu.</a>

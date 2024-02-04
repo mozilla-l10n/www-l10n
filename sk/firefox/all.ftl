@@ -19,9 +19,9 @@ firefox-all-language = Jazyk:
 firefox-all-lang-multi = Viac jazykov
 firefox-all-sorry-we-couldnt-find = Ľutujeme, nepodarilo sa nám nájsť to, čo hľadáte. Prosím, skúste to znova alebo si vyberte nejakú možnosť zo zoznamu.
 firefox-all-the-pre-alpha-version = Predbežné alfa verzie pre pokročilých používateľov, ktorí radi testujú nové funkcie v priebehu ich vývoja.
-firefox-all-64-bit-installers = 64-bitové inštalátory
-firefox-all-choose-a-64-bit-installer = 64-bitový inštalátor vyberte pre počítače so 64-bitovým procesorom, ktorý im umožňuje prideľovať jednotlivým programom viac pamäte RAM - toto je obzvlášť dôležité pre hry a iné náročné aplikácie.
-firefox-all-32-bit-installers = 32-bitové inštalátory
+firefox-all-64-bit-installers = 64‑bitové inštalátory
+firefox-all-choose-a-64-bit-installer = 64‑bitový inštalátor vyberte pre počítače so 64‑bitovým procesorom, ktorý im umožňuje prideľovať jednotlivým programom viac pamäte RAM - toto je obzvlášť dôležité pre hry a iné náročné aplikácie.
+firefox-all-32-bit-installers = 32‑bitové inštalátory
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
 # HTML page description, also used as the introductory text.
@@ -39,7 +39,7 @@ firefox-all-arm64-installers-optimized = Inštalátory pre platformy ARM64/AArch
 firefox-all-product-send-link = Odošlite si odkaz na stiahnutie do svojho telefónu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = 32-bitový inštalátor vyberte pre počítače s 32-bitovými procesormi alebo pre staršie či menej výkonné počítače. <a href="{ $url }">Ak si nie ste istí</a>, či si máte vybrať 64-bitový alebo 32-bitový inštalátor, odporúčame vám vybrať si 32-bitový.
+firefox-all-choose-a-32-bit-installer = 32‑bitový inštalátor vyberte pre počítače s 32‑bitovými procesormi alebo pre staršie či menej výkonné počítače. <a href="{ $url }">Ak si nie ste istí</a>, či si máte vybrať 64‑bitový alebo 32‑bitový inštalátor, odporúčame vám vybrať si 32‑bitový.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux

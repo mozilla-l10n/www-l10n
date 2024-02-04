@@ -25,23 +25,18 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } pre počítače
 sub-navigation-features = Funkcie
 sub-navigation-support = Podpora
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Doplnky
 sub-navigation-add-ons = Doplnky
 sub-navigation-faq = Často kladené otázky
 sub-navigation-learn-more = Ďalšie informácie
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pre mobilné zariadenia
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Doplnky pre { -brand-name-android }
-sub-navigation-android-add-ons = Doplnky pre { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
-sub-navigation-windows-64-bit = { -brand-name-windows }, 64-bitová verzia
+sub-navigation-windows-64-bit = { -brand-name-windows }, 64‑bitová verzia
 sub-navigation-mac = { -brand-name-mac-short }
 sub-navigation-linux = { -brand-name-linux }
 sub-navigation-enterprise = { -brand-name-enterprise }

@@ -11,10 +11,6 @@ learn-more-about = Získajte ďalšie informácie o prehliadačoch a produktoch 
 learn-more-faq = Často kladené otázky o { -brand-name-firefox(case: "loc") }
 the-history-of = História webových prehliadačov
 firefox-has-been = { -brand-name-firefox } je tu takmer od začiatku.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox } - rebel s poslaním
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } je nezávislý a podporovaný neziskovou organizáciou { -brand-name-mozilla }, ktorá bojuje za vaše online práva a sprístupňuje internet každému a kdekoľvek.
 what-is-a = Čo je webový prehliadač?
 a-web-browser = Webový prehliadač vás zavedie kamkoľvek na internete a umožní vám prezerať si text, obrázky a videá odkiaľkoľvek na svete.
 update-your-browser = Prejdite na rýchly a bezpečný { -brand-name-firefox }
@@ -39,7 +35,7 @@ firefox-respects-your = { -brand-name-firefox } pre { -brand-name-mac-short } re
 firefox-doesnt-spy = { -brand-name-firefox } nesleduje vaše vyhľadávanie. Blokujeme známe sledovacie cookies tretích strán a dávame vám úplnú kontrolu.
 firefox-for-linux = { -brand-name-firefox } pre { -brand-name-linux }
 new-school-meets = Nová škola sa stretáva so starou školou s doteraz najrýchlejším prehliadačom.
-firefox-for-windows = { -brand-name-firefox } pre 64-bitovú verziu systému { -brand-name-windows }
+firefox-for-windows = { -brand-name-firefox } pre 64‑bitovú verziu systému { -brand-name-windows }
 we-worry-about = Staráme sa o bezpečnosť vašich údajov, takže vy nemusíte.
 seven-of-the = Priame porovnanie siedmych najlepších prehliadačov
 we-compare-firefox = Porovnávame { -brand-name-firefox } s { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, aby sme vám pomohli pri rozhodovaní.
@@ -61,10 +57,6 @@ firefox-more-protection = { -brand-name-firefox } - viac ochrany, menej starost�
 were-obsessed-with = Ide nám o ochranu vášho súkromia. Preto je súkromné prehliadanie vo { -brand-name-firefox(case: "loc") } silnejšie ako konkurenčné riešenia.
 incognito-browser-what = Prehliadač inkognito: čo to naozaj znamená
 firefox-calls-it = { -brand-name-firefox } to nazýva súkromné prehliadanie, { -brand-name-chrome } to nazýva režim inkognito. Obe vám umožňujú prehliadať web bez ukladania histórie prehliadania.
-# Obsolete string
-take-the-stress = Zbavte sa stresu pri hľadaní bezpečného prehliadača
-# Obsolete string
-building-a-safe = Vytvorenie bezpečného prehliadača je umenie a veda, pretože neexistujú žiadne stanovené pravidlá.
 firefox-more-fingerprinter-blocking = Blokovanie snímania digitálnych odtlačkov
 firefox-more-fingerprinting-is-a = Snímanie digitálnych odtlačkov je typ online sledovania, ktorý je invazívnejší ako bežné sledovanie založené na súboroch cookie – preto ho { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
 firefox-more-translate-the-web = Prekladanie webových stránok

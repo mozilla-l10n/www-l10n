@@ -14,7 +14,7 @@ download-button-systems-languages = Systémy a jazyky
 download-button-recommended = Odporúčame
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } už neposkytuje bezpečnostné aktualizácie pre { -brand-name-firefox } pre { -brand-name-windows } { -brand-name-xp } a { -brand-name-vista }</a>, stále si však môžete stiahnuť finálnu verziu pre 32-bitovú verziu { -brand-name-windows(case: "gen") }.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } už neposkytuje bezpečnostné aktualizácie pre { -brand-name-firefox } pre { -brand-name-windows } { -brand-name-xp } a { -brand-name-vista }</a>, stále si však môžete stiahnuť finálnu verziu pre 32‑bitovú verziu { -brand-name-windows(case: "gen") }.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Pri inštalácií { -brand-name-firefox(case: "gen") } postupujte, prosím, podľa <a href="{ $url }">týchto inštrukcií</a>.
@@ -46,6 +46,11 @@ download-button-download = Stiahnuť
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">už nie je podporovaný</a> na { $os_version } a nižších.
 download-button-please-download-esr = Ak chcete používať { -brand-name-firefox }, stiahnite si { -brand-name-firefox-esr } (vydanie s rozšírenou podporou).
 download-firefox-esr = Stiahnuť { -brand-name-firefox-esr }
-download-firefox-esr-32 = Stiahnite si { -brand-name-firefox-esr } (32-bitová verzia)
-download-firefox-esr-64 = Stiahnite si { -brand-name-firefox-esr } (64-bitová verzia)
+download-firefox-esr-32 = Stiahnite si { -brand-name-firefox-esr } (32‑bitová verzia)
+download-firefox-esr-64 = Stiahnite si { -brand-name-firefox-esr } (64‑bitová verzia)
 download-a-different-build = Stiahnuť iné zostavenie
+
+## Linux
+
+download-button-linux-32 = Stiahnite si { -brand-name-linux } (32‑bitová verzia)
+download-button-linux-64 = Stiahnite si { -brand-name-linux } (64‑bitová verzia)
