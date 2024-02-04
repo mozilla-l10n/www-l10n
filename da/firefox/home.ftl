@@ -7,24 +7,22 @@
 
 firefox-home-firefox-protect-your = { -brand-name-firefox } - beskyt dit online-liv med produkter, der sætter privatlivet først
 firefox-home-firefox-is-more-than = { -brand-name-firefox } er mere end en browser. Læs mere om { -brand-name-firefox }-produkter, der behandler dine data med respekt og er bygget til at beskytte dine private data på nettet.
+# Obsolete string
 firefox-home-the-browser-is-just = Browseren er kun begyndelsen
+firefox-home-firefox-is-just = { -brand-name-firefox } er kun begyndelsen.
+# Obsolete string
 firefox-home-meet-our-family-of = Mød alle vores produkter
+firefox-home-meet-mozillas-family = Mød { -brand-name-mozilla }s familie af produkter
 firefox-home-get-trackers-off = Slip for mere end 2000 sporingstjenester - inklusive { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Få besked når hackerne slår til - og vær et skridt foran dem
 firefox-home-start-getting-breach = Få advarsler om datalæk
 firefox-home-un-spam-your-life = Fjern spam fra dit liv med { -brand-name-relay }
 firefox-home-try-relay = Prøv { -brand-name-relay }
-# Obsolete string
-firefox-home-keep-your-passwords = Beskyt dine adgangskoder på alle dine enheder
-# Obsolete string
-firefox-home-learn-more-about-lockwise = Læs mere om { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Få den <strong>respekt</strong> du fortjener
+# Obsolete string
 firefox-home-every-single-firefox = Alle { -brand-name-firefox }-produkter overholder vores løfte om private data: <strong>Gem mindre. Beskyt alt. Ingen hemmeligheder.</strong>
-# Obsolete string
-firefox-home-share-large-files-without = Del store filer uden at blive overvåget
-# Obsolete string
-firefox-home-start-sending-files = Kom i gang med at sende filer på en sikker måde
+firefox-home-every-single-mozilla = Alle { -brand-name-mozilla }-produkter overholder vores løfte om private data: <strong>Gem mindre. Beskyt alt. Ingen hemmeligheder.</strong>
 firefox-home-trade-clickbait-for = Udskift ligegyldigt clickbait med indhold af høj kvalitet
 firefox-home-learn-more-about-pocket = Læs mere om { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Fuld beskyttelse af alle dine enheder.
@@ -52,6 +50,8 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-home-firefox-send = { -brand-name-firefox-send }
