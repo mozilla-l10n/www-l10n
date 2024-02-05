@@ -49,3 +49,8 @@ download-firefox-esr = { -brand-name-firefox-esr } downloade
 download-firefox-esr-32 = 32-bits { -brand-name-firefox-esr } downloade
 download-firefox-esr-64 = 64-bits { -brand-name-firefox-esr } downloade
 download-a-different-build = Download in oare build
+
+## Linux
+
+download-button-linux-32 = 32-bits { -brand-name-linux } downloade
+download-button-linux-64 = 64-bits { -brand-name-linux } downloade

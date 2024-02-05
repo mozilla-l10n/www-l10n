@@ -27,10 +27,6 @@ firefox-new-need-help = Help nedich?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Jo brûke in ûnfeilich, ferâldere bestjoeringssysteem dat <a href="{ $url }">net mear troch { -brand-name-firefox } stipe wurdt</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = It downloaden soe automatysk begjinn
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mear as in browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Jo download waard ûnderbrutsen. Mar alles is net ferlern.
+firefox-new-download-almost-there = Hast dien!
+firefox-new-download-select-linux = Selektearje hjirûnder in downloadopsje
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om { -brand-name-firefox } te ynstallearjen.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Folgje <a href="{ $url }">dizze ynstruksjes</a> om {
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Jo systeem foldocht mooglik net oan de easken foar { -brand-name-firefox }, mar jo kinne ien fan <a href="{ $url }">dizze ferzjes</a> probearje.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy’t jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.

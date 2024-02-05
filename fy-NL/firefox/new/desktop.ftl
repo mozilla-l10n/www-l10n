@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Blokkearret sosjale trackers
 firefox-desktop-download-os-availability = Beskikberheid op bestjoeringssystemen
 firefox-desktop-download-in-browser-screenshot = Helpmiddel foar skermôfdrukken yn de browser
 firefox-desktop-download-primary-password = Haadwachtwurd
-# Obsolete string
-firefox-desktop-love-your-life = Hâld fan jo libben online
-# Obsolete string
-firefox-desktop-its-your-internet = It is jo ynternet. Kleur it sa as jo wolle mei tûzenen helpmiddelen, tema’s en útwreidingen. { -brand-name-firefox } is de orizjinele alternative browser dy’t minsken boppe winst stelt.
-# Obsolete string
-firefox-desktop-download-master-password = Haadwachtwurd
 firefox-desktop-download-we-block-the-ad = Wy blokkearje de advertinsje-trackers. Jo sneupe flugger oer it ynternet.
 firefox-desktop-download-ads-are-distracting = Advertinsjes liede ôf en soargje derfoar dat websiden stadiger laden wurde, wylst harren trackers al jo online hannelingen folgje. De { -brand-name-firefox-browser } blokkearre de measte trackers automatysk, dus jo hoege jo befeiligingsynstellingen net troch te spitten.
 firefox-desktop-download-see-your-report = Jo beskermingsrapport besjen
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = Jo hawwe de browser al.
 firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers mei { -brand-name-mozilla-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Let op hackers mei { -brand-name-firefox-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Let op hackers mei { -brand-name-firefox-monitor }, beskermje wachtwurden mei { -brand-name-firefox-lockwise }, en mear.
 firefox-desktop-download-get-more-from-firefox = Helje mear út { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Download gewoanwei de browser
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Foltôgje no de <strong>ynstallaasje</strong
 firefox-desktop-download-now-windows = <strong>Fier no</strong> it ynstallaasjeprogramma út dat sakrekt download is.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Iepenje no</strong> it bestân dat sakrekt download is.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Selektearje hjirûnder in <strong>download</strong>opsje
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Problemen? <a { $attrs }>Untfang help by jo ynstallaasje</a>.
 firefox-desktop-download-in-another-language = Downloade yn in oare taal of foar in oar bestjoeringssysteem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = As jo in melding sjogge wêryn steld wurdt dat de app dy’t jo probearje te ynstallearjen gjin troch { -brand-name-microsoft } ferifiearre app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wizigje de ynstellingen foar app-oanrekommandaasjes</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Besykje Stipe foar mear detail
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt gjin befeiligingsfernijingen mear oan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, mar jo kinne { -brand-name-firefox } noch hieltyd brûke.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Jo brûke in ûnfeilich, ferâldere bestjoeringssysteem dat <a href="{ $url }">net mear troch { -brand-name-firefox } stipe wurdt</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
