@@ -27,10 +27,6 @@ firefox-new-need-help = Har du brug for hjælp?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">udgiver ikke længere sikkerhedsopdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan stadig bruge { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Du bruger et usikkert og forældet styresystem, <a href="{ $url }">der ikke længere understøttes af { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,7 @@ firefox-new-your-firefox-new-should-begin = Din download skulle gerne begynde au
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Hentning af din fil blev afbrudt. Men alt er ikke tabt.
+firefox-new-download-almost-there = Næsten færdig!
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Følg <a href="{ $url }">denne vejledning</a> for at installere { -brand-name-firefox }.
@@ -45,8 +42,6 @@ firefox-new-please-follow = Følg <a href="{ $url }">denne vejledning</a> for at
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Hvis du ser en meddelelse om, at appen du er ved at installere, ikke er en { -brand-name-microsoft }-bekræftet app, så klik på "Installer alligevel", eller <a { $attrs }>skift indstillinger for appanbefalinger</a>.
