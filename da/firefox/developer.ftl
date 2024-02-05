@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = De nye { -brand-name-firefox-devtools } er avancerede og fleksible - og så kan du tilpasse dem efter behov. Du får blandt andet en JavaScript-debugger, der er langt bedre end andre debuggere. Den nye debugger er bygget i React og Redux, og du kan bruge den til forskellige browsere.
 firefox-developer-master-css-grid = Behersk CSS-gitre
-# outdated
-firefox-developer-next-gen-css-engine = Næstegenerations CSS-motor
 firefox-developer-built-for-developers = Lavet til udviklere
-firefox-developer-a-next-generation = Næstegenerations CSS-motor
 firefox-developer-master-innovative-features = Innovative funktioner
 firefox-developer-want-to-be-on-the-cutting-edge = Vil du være helt fremme på beatet?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } opdateres hver dag, hvilket giver dig adgang til nye funktioner, flere måneder før de bliver tilgængelige for et større publikum.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } indeholder en ny CSS-motor, skrevet i Rust, der indeholder de allernyeste funktioner og er afsindigt hurtig.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } er den eneste browser med indbyggede værktøjer specielt udviklet til at bruge og designe med CSS-gitre. Værktøjerne hjælper dig med at gøre gitrene visuelle, vise tilknyttede områdenavne, forhåndsvise transformeringer på gitteret og meget mere.
 firefox-developer-convenient-features = Praktiske funktioner
-firefox-developer-faster-performance = Hurtigere ydelse
 firefox-developer-shapes-editor = Figureditor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } har en helt ny editor til figurbaner, der gør det enklere at redigere figurkonturer og clip-path-figurer, fordi du kan finindstille med et visuelt redigeringsprogram.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } har en helt ny editor til figurbaner, der gør det enklere at redigere skyggekonturer og clip-path-figurer, fordi du kan finindstille med et visuelt redigeringsprogram.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Tillykke! Du har nu { -brand-n
 firefox-developer-this-isnt-just-an-update = Dette er ikke bare en opdatering. Dette er { -brand-name-firefox-quantum }, en helt ny { -brand-name-firefox }, der er blevet genopbygget fra grunden af for at være hurtigere, mere strømlinet og mere kraftfuld end nogensinde før.
 firefox-developer-welcome-to-firefox-browser = Velkommen til { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Browseren lavet til udviklere
+firefox-developer-all-the-latest-v2 = Beta-versioner af de nyeste værktøjer til udviklere og funktioner som en konsol med visning af flere linjer og WebSocket-inspektøren.
+# Obsolete string
 firefox-developer-all-the-latest = Alle de nyeste udviklerværktøj i beta samt <strong>eksperimentelle funktioner</strong> såsom en konsol med visning af flere linjer og WebSocket-inspektøren.
 firefox-developer-a-separate-profile = En <strong>separat profil og sti</strong>, så du nemt kan køre den samtidig med den officielle udgivelse eller { -brand-name-beta }-versionen af { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Indstillinger <strong>skræddersyet til webudviklere</strong>: Browser- og remote debugging er aktiveret som standard sammen med et mørkt tema og knappen Webudvikler på værktøjslinjen.
