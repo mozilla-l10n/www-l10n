@@ -87,3 +87,4 @@ navigation-v2-donate-your-voice-so-the-future = Bidrag med din stemme, så fremt
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Læs mere om det nye low-level, assembly-lignende sprog.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovationsprojekter
+navigation-v2-discover-ways-to-bring = Opdag hvordan idéer kan blive til virkelighed.

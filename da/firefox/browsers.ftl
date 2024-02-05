@@ -7,14 +7,13 @@
 
 # HTML page title
 firefox-browsers-page-title = Hent { -brand-name-firefox } til computer, mobil eller virksomheder
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Få en browser, der sætter beskyttelse af dit privatliv i første række - og altid har gjort det
 # HTML page description
 firefox-browsers-page-desc = Vælg mellem computer, { -brand-name-ios }, { -brand-name-android } eller lad os maile dig et download-link til mobilen.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Få den beskyttelse af dit privatliv, du fortjener. Udvidet beskyttelse mod sporing er standard i alle { -brand-name-firefox }-browsere.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Få en browser, der sætter beskyttelse af <strong>dit privatliv</strong> i første række - og altid har gjort det
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Få browseren, der sætter beskyttelse af dit privatliv i første række - og <strong>altid</strong> har gjort det
 firefox-browsers-desktop = Computer
 firefox-browsers-seriously-private-browsing = Seriøs privat browsing. { -brand-name-firefox } forhindrer automatisk over 2.000 sporings-mekanismer i at indsamle information om din adfærd på nettet.
 firefox-browsers-download-for-desktop = Hent til computer
@@ -35,11 +34,6 @@ firefox-browsers-join-firefox-and-get-the-most = Slut dig til { -brand-name-fire
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Har du allerede en konto? <a { $fxa_attr }>Log ind</a> eller <a { $accounts_attr }>læs mere</a> om at være en del af { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Har du allerede en konto? <a { $fxa_attr }>Log ind</a> eller <a { $accounts_attr }>læs mere</a> om at være en del af Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
