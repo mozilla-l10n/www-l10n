@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Hent { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Få en { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -33,6 +31,8 @@ navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browser
 
 navigation-v2-products = Produkter
 navigation-v2-close-products-menu = Luk menuen Produkter
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Se om din mailadresse optrådte i et firmas datalæk.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +46,6 @@ navigation-v2-learn-how-each-firefox-product = Læs, hvordan hvert { -brand-name
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Opret nye konti uden at udlevere din mailadresse.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Beskyt din browsers forbindelse til internettet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = En tilpasset { -brand-name-mdn }-oplevelse med nye funktioner og værktøj.
 navigation-v2-view-all-products = Vis alle produkter
@@ -88,3 +86,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidrag med din stemme, så fremtidens internet kan høre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Læs mere om det nye low-level, assembly-lignende sprog.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovationsprojekter
