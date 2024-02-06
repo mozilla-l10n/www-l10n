@@ -21,6 +21,8 @@ home-product-relay-masks = 簡單易用的轉寄信箱與虛擬門號
 home-cta-get-relay = 下載 { -brand-name-relay }
 home-product-vpn-trust = 您可以信任的 VPN
 home-cta-get-vpn = 下載 { -brand-name-mozilla-vpn }
+home-product-monitor-data = 資料外洩警報
+home-cta-get-monitor = 使用 { -brand-name-monitor }
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } 決定讓世界看到可信任的 AI 的重要性。這也包括將人權、資料保護、透明度放在這些複雜系統運作過程的核心。」
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
