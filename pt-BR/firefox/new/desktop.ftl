@@ -19,7 +19,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Está disponível um { -brand-name-firefox } ainda mais novo. <a { $update_url }>Atualizar para a versão mais recente</a>
-firefox-desktop-download-get-the-browser = Instale o navegador que protege o que é importante
+firefox-desktop-download-get-the-browser = Use o navegador que protege o que é importante
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Nenhuma política de privacidade obscura nem acesso escondido para anunciantes. Apenas um navegador extremamente rápido, que não vende você como produto.
 firefox-desktop-download-download-options = Opções de tipo de navegador e outros idiomas

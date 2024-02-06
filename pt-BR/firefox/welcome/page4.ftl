@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -12,7 +12,7 @@ welcome-page4-privacy-every-screen-now = Agora tenha privacidade em todas as tel
 welcome-page4-take-privacy-with-you-on-every = Leve a privacidade com você em qualquer dispositivo - e deixe os rastreadores de dados para trás.
 welcome-page4-privacy-on-by-default = Sua privacidade é ativada por padrão no novo { -brand-name-firefox } para { -brand-name-android } — agora você pode tornar o { -brand-name-firefox } seu navegador padrão no { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Instale o { -brand-name-firefox } para dispositivos móveis
-welcome-page4-get-firefox-on-your-phone = Instale o { -brand-name-firefox } no seu celular
+welcome-page4-get-firefox-on-your-phone = Use o { -brand-name-firefox } no celular
 welcome-page4-send-the-download-link-right = Envie o link de download direto para seu celular ou email.
 welcome-page4-download-firefox-for-your = Instale o { -brand-name-firefox } no seu smartphone ou tablet.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: navegador privativo e seguro” no { -brand-name-ios } ou { -brand-name-android }.
