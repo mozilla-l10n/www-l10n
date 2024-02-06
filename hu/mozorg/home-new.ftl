@@ -21,6 +21,8 @@ home-product-relay-masks = Egyszerűen használható e-mail- és telefonmaszkok
 home-cta-get-relay = { -brand-name-relay } beszerzése
 home-product-vpn-trust = Egy VPN, amelyben megbízhat
 home-cta-get-vpn = { -brand-name-mozilla-vpn } beszerzése
+home-product-monitor-data = Adatsértési figyelmeztetések
+home-cta-get-monitor = A { -brand-name-monitor } beszerzése
 home-mozilla-takes-bets = „A { -brand-name-mozilla } arra fogad, hogy megmutatja a világnak, hogy van jövője a megbízható MI-t használó üzletnek. Ebbe beletartozik az is, hogy az emberi jogokat, adatvédelmet és az átláthatóságot helyezzük ezen összetett rendszerek működésének középpontjába.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

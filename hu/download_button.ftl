@@ -52,8 +52,12 @@ download-a-different-build = Másik verzió letöltése
 
 ## Linux
 
+# Obsolete string
 download-button-linux-32 = A 32 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
+# Obsolete string
 download-button-linux-64 = A 64 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
+download-button-linux-32-v2 = Letöltés 32 bites Linuxra
+download-button-linux-64-v2 = Letöltés 64 bites Linuxra
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
