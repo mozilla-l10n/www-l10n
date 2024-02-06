@@ -56,8 +56,8 @@ download-a-different-build = Llwythwch i lawr fersiwn gwahanol
 download-button-linux-32 = Llwytho i lawr { -brand-name-linux } 32-bit
 # Obsolete string
 download-button-linux-64 = Llwytho i lawr { -brand-name-linux } 64-bit
-download-button-linux-32-v2 = Lawrlwythwch ar gyfer Linux 32-bit
-download-button-linux-64-v2 = Dadlwythwch ar gyfer Linux 64-bit
+download-button-linux-32-v2 = Llwytho i lawr ar gyfer Linux 32-bit
+download-button-linux-64-v2 = Llwytho i lawr ar gyfer Linux 64-bit
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
