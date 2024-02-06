@@ -39,23 +39,11 @@ firefox-products-get-mozilla-vpn = Instale o { -brand-name-mozilla-vpn }
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Proteja seu endereço de email real para ajudar a controlar sua caixa de entrada.
 firefox-products-learn-more-about-relay = Saiba mais sobre o { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Mantenha suas senhas protegidas e acesse em todos os seus dispositivos sincronizados.
-# Obsolete string
-firefox-products-download-lockwise = Baixar o { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Abrir no { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
 firefox-products-send-your-large-files-and = Envie arquivos grandes e documentos confidenciais com segurança, até 2.5G.
 firefox-products-send-a-file = Enviar um arquivo
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Descubra o melhor conteúdo da web — e aproveite onde e quando quiser.
-firefox-products-get-pocket = Instale o { -brand-name-pocket }
+firefox-products-get-pocket = Use o { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Saiba mais sobre o { -brand-name-pocket }
 firefox-products-join-firefox-and-get-the-most = Junte-se ao { -brand-name-firefox } e aproveite ao máximo todos os produtos, em todos os dispositivos.
 # Variables:

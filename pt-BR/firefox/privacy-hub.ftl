@@ -80,13 +80,12 @@ firefox-privacy-hub-when-you-enter-your-email = Quando você digita seu endereç
 firefox-privacy-hub-check-for-breaches = Verifique se há vazamentos
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = As senhas e credenciais que você salva no { -brand-name-firefox-lockwise } são criptografadas em todos os seus dispositivos, assim nem nós conseguimos ver.
-firefox-privacy-hub-learn-more-about-lockwise = Saiba mais sobre o { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Não podemos ver o nome nem o conteúdo dos arquivos grandes que você compartilha através do { -brand-name-firefox-send } porque são criptografados de ponta a ponta — você escolhe quem consegue ver o que envia e pode até definir uma data de validade e uma senha.
 firefox-privacy-hub-send-a-file = Enviar um arquivo
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = O { -brand-name-pocket } recomenda artigos de alta qualidade selecionados por pessoas, sem coletar seu histórico de navegação nem compartilhar suas informações pessoais com anunciantes.
-firefox-privacy-hub-get-pocket = Instale o { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Use o { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = Sua { -brand-name-mozilla-account }
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = Sua { -brand-name-firefox-account }

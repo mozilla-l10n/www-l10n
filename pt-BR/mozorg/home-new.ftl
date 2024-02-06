@@ -16,11 +16,13 @@ home-mozilla-makes-privacy = A { -brand-name-mozilla } cria produtos que respeit
 home-product-firefox-browsing = Navegação privativa e segura
 home-cta-get-firefox = Instale o { -brand-name-firefox }
 home-product-pocket-articles = Os artigos mais intrigantes da web
-home-cta-get-pocket = Instale o { -brand-name-pocket }
+home-cta-get-pocket = Use o { -brand-name-pocket }
 home-product-relay-masks = Máscaras de email e celular fáceis de usar
 home-cta-get-relay = Tenha o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que você pode confiar
 home-cta-get-vpn = Instale o { -brand-name-mozilla-vpn }
+home-product-monitor-data = Alertas de vazamentos de dados
+home-cta-get-monitor = Use o { -brand-name-monitor }
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está fazendo apostas para mostrar ao mundo que há negócios a ser feitos com inteligência artificial confiável. Isso inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como esses sistemas complexos funcionam.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
