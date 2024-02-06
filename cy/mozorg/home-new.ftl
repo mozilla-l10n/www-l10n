@@ -21,6 +21,8 @@ home-product-relay-masks = Arallenwau e-bost a rhifau ffôn cudd hawdd eu defnyd
 home-cta-get-relay = Cael { -brand-name-relay }
 home-product-vpn-trust = VPN y gallwch ymddiried ynddo
 home-cta-get-vpn = Cael { -brand-name-mozilla-vpn }
+home-product-monitor-data = Rhybuddion torri data
+home-cta-get-monitor = Cael { -brand-name-monitor }
 home-mozilla-takes-bets = “Mae { -brand-name-mozilla } yn hyderus bod modd dangos i’r byd bod modd gwneud busnes gydag AI dibynadwy. Mae hynny’n cynnwys rhoi pethau fel hawliau dynol, diogelu data a thryloywder wrth wraidd y ffordd y mae’r systemau cymhleth hyn yn gweithio.”
 # Politico is a brand name for a news organization
 home-politico-cite = Gwleidyddiaeth
