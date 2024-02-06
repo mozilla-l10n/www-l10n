@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = जितना आप इसे इस्त
 browsers-mobile-get-enhanced-tracking-protection = { -brand-name-iphone } और { -brand-name-ipad } पर { -brand-name-firefox } को अपना डिफ़ॉल्ट, भरोसेमंद और हमेशा वाला ब्राउज़र बनाएँ, उन्नत ट्रैकिंग सुरक्षा पाएँ.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = बेहतर गोपनीयता फ़ीचर्स वाले एक स्मूद, सुपर फास्ट मोबाइल ब्राउज़र की तलाश है? { -brand-name-firefox-focus } आपके द्वारा अपना ब्राउज़र खोलने से लेकर बंद करने के क्षण तक आपकी समस्त ब्राउज़िंग हिस्ट्री को स्वचालित रूप से मिटा देता है।
-browsers-mobile-compare-mobile-browsers = मोबाइल ब्राउज़रों की तुलना करें
-browsers-mobile-see-how-firefox-stacks-up = देखें कि किस तरह { -brand-name-firefox } अन्य लोकप्रिय ब्राउज़रों के मुकाबले इन चीज़ों पर अधिक खरा उतरता है: गोपनीयता, फ़ीचर्स और सिंकिंग।
 browsers-mobile-compare = तुलना करें
 browsers-mobile-see-how-firefox-for-desktop-stacks = देखें कि किस तरह डेस्कटॉप वाला { -brand-name-firefox } सात ब्राउज़रों के बीच अलग नज़र आता है।
 

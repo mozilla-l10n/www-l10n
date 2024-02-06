@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = Plus vous l’utilisez, plus il devient intel
 browsers-mobile-get-enhanced-tracking-protection = Bénéficiez d’une protection renforcée contre le pistage et faites de { -brand-name-firefox } votre navigateur par défaut incontournable sur { -brand-name-iphone } et { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Vous recherchez un navigateur mobile optimisé et ultrarapide avec des fonctionnalités de confidentialité hors normes ? { -brand-name-firefox-focus } efface automatiquement tout votre historique de navigation à partir du moment où vous ouvrez votre navigateur jusqu’à la seconde où vous le fermez.
-browsers-mobile-compare-mobile-browsers = Comparer les navigateurs mobiles
-browsers-mobile-see-how-firefox-stacks-up = Découvrez comment { -brand-name-firefox } se positionne par rapport aux autres navigateurs populaires en ce qui concerne ces trois fondamentaux : la confidentialité, les fonctionnalités et la synchronisation.
 browsers-mobile-compare = Comparer
 browsers-mobile-see-how-firefox-for-desktop-stacks = Découvrez comment { -brand-name-firefox } pour ordinateur se distingue face à sept autres navigateurs.
 

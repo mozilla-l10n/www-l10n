@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = Je mehr du ihn nutzt, desto cleverer wird er.
 browsers-mobile-get-enhanced-tracking-protection = Holen Sie sich den verbesserten Tracking-Schutz und machen Sie { -brand-name-firefox } zu Ihrem dauerhaften Standardbrowser auf Ihrem { -brand-name-iphone } und { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Suchst du nach einem optimierten, superschnellen mobilen Browser mit Datenschutzfunktionen der nächsten Stufe? { -brand-name-firefox-focus } löscht automatisch deine gesamte Chronik vom Moment des Öffnens bis zum Schließen des Browsers.
-browsers-mobile-compare-mobile-browsers = Mobile Browser vergleichen
-browsers-mobile-see-how-firefox-stacks-up = Sieh, wie sich { -brand-name-firefox } bei den großen Drei im Vergleich zu anderen gängigen Browsern schlägt: Datenschutz, Funktionen und Synchronisierung.
 browsers-mobile-compare = Vergleichen
 browsers-mobile-see-how-firefox-for-desktop-stacks = Sieh, wie sich { -brand-name-firefox } für Desktop gegen sieben andere Browser schlägt.
 

@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = Semakin sering Anda menggunakannya, semakin c
 browsers-mobile-get-enhanced-tracking-protection = Dapatkan Perlindungan Pelacakan yang Ditingkatkan dan jadikan { -brand-name-firefox } peramban bawaan, andalan, yang selalu digunakan di { -brand-name-iphone } dan { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Mencari peramban seluler yang efisien dan super cepat dengan fitur privasi tingkat lanjut? { -brand-name-firefox-focus } secara otomatis menghapus semua riwayat penelusuran dari saat Anda membuka peramban hingga menutupnya.
-browsers-mobile-compare-mobile-browsers = Bandingkan Peramban Seluler
-browsers-mobile-see-how-firefox-stacks-up = Lihat bagaimana { -brand-name-firefox } dibandingkan dengan peramban populer lainnya dalam tiga aspek penting: privasi, fitur, dan sinkronisasi.
 browsers-mobile-compare = Bandingkan
 browsers-mobile-see-how-firefox-for-desktop-stacks = Lihat bagaimana { -brand-name-firefox } untuk desktop dibandingkan dengan tujuh peramban lain.
 

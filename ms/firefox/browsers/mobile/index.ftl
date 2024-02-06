@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = Lebih banyak anda menggunakannya, semakin pin
 browsers-mobile-get-enhanced-tracking-protection = Dapatkan Enhanced Tracking Protection dan jadi { -brand-name-firefox } pelayar utama dan selamanya untuk { -brand-name-iphone } dan { -brand-name-ipad } anda.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Mencari pelayar mudah alih yang super pantas dengan ciri privasi di tahap yang lebih tinggi? { -brand-name-firefox-focus } memadamkan kesemua sejarah pelayaran anda secara automatik dari saat anda membuka sehingga anda menutup pelayar anda.
-browsers-mobile-compare-mobile-browsers = Bandingkan Pelayar Mudah Alih
-browsers-mobile-see-how-firefox-stacks-up = Lihat kedudukan { -brand-name-firefox } jika dibandingkan dengan lain-lain pelayar popular dalam tiga isu utama: privasi, ciri-ciri dan keselarasan.
 browsers-mobile-compare = Bandingkan
 browsers-mobile-see-how-firefox-for-desktop-stacks = Lihat di mana kedudukan { -brand-name-firefox } untuk desktop jika dibandingkan dengan tujuh pelayar web yang lain.
 

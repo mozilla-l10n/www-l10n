@@ -22,8 +22,6 @@ browsers-mobile-the-more-you-use = 使えば使うほどスマートになりま
 browsers-mobile-get-enhanced-tracking-protection = 強化型トラッキング防止機能を利用し、{ -brand-name-iphone } と { -brand-name-ipad } で { -brand-name-firefox } を既定のブラウザーとしてご愛用ください。
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = 1 レベル上のプライバシー機能を備えた効率的かつ超高速のモバイルブラウザーがあります。{ -brand-name-firefox-focus } は、ブラウザーを開いてから閉じるまでのすべての閲覧履歴を自動的に消去します。
-browsers-mobile-compare-mobile-browsers = モバイルブラウザーの比較
-browsers-mobile-see-how-firefox-stacks-up = プライバシー、機能、同期の 3 大基準で { -brand-name-firefox } と他の人気のブラウザーを比較してみましょう。
 browsers-mobile-compare = 比較
 browsers-mobile-see-how-firefox-for-desktop-stacks = デスクトップ用 { -brand-name-firefox } と他の 7 つのブラウザーを比較しました。
 
