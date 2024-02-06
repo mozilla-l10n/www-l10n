@@ -56,6 +56,8 @@ download-a-different-build = Hent en anden version
 download-button-linux-32 = Hent til 32-bit { -brand-name-linux }
 # Obsolete string
 download-button-linux-64 = Hent til 64-bit { -brand-name-linux }
+download-button-linux-32-v2 = Hent til 32-bit Linux
+download-button-linux-64-v2 = Hent til 64-bit Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
