@@ -21,6 +21,8 @@ home-product-relay-masks = Máscaras de e-mail e telefone de fácil utilização
 home-cta-get-relay = Obter o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que pode confiar
 home-cta-get-vpn = Obter a { -brand-name-mozilla-vpn }
+home-product-monitor-data = Alertas de violações de dados
+home-cta-get-monitor = Obter o { -brand-name-monitor }
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está a aceitar escolhas para mostrar ao mundo que pode fazer negócios com uma IA confiável. Isto inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como funcionam estes sistemas complexos.”
 # Politico is a brand name for a news organization
 home-politico-cite = Política
