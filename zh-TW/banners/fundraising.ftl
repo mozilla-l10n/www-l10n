@@ -13,5 +13,5 @@ banner-fundraising-tagline-1 = 是時候從大型科技公司手中奪回網際�
 banner-fundraising-title-2 = 奪回對網際網路的控制權。
 banner-fundraising-tagline-2 = 網絡被大型科技公司壟斷，不再由人們所掌控了。請捐款給 { -brand-name-mozilla } 重新奪回網路的控制權。
 banner-fundraising-title-3 = 您可以捐款給 { -brand-name-mozilla } 嗎？
-banner-fundraising-tagline-3 = { -brand-name-mozilla } 總是看重人們大過利益。捐款給 { -brand-name-mozilla }幫助保持網際網路的健康。
+banner-fundraising-tagline-3 = { -brand-name-mozilla } 看重人們大過利益。請捐款給 { -brand-name-mozilla } 幫助保持網際網路環境生態的健康。
 banner-fundraising-donate = 捐款
