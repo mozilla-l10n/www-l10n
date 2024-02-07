@@ -52,8 +52,12 @@ download-a-different-build = Preuzmite drugu verziju
 
 ## Linux
 
+# Obsolete string
 download-button-linux-32 = Preuzmite { -brand-name-linux } 32-bit
+# Obsolete string
 download-button-linux-64 = Preuzmite { -brand-name-linux } 64-bit
+download-button-linux-32-v2 = Preuzmite za 32-bitni Linux
+download-button-linux-64-v2 = Preuzmite za 64-bitni Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
