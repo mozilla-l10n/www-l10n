@@ -22,7 +22,7 @@ home-cta-get-relay = Conseguí { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que podés confiar
 home-cta-get-vpn = Conseguí { -brand-name-mozilla-vpn }
 home-product-monitor-data = Alertas de filtración de datos
-home-cta-get-monitor = Obtenga { -brand-name-monitor }
+home-cta-get-monitor = Conseguí { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } está haciendo apuestas para mostrar al mundo que se puede hacer negocio con una IA confiable. Eso incluye poner aspectos como los derechos humanos, la protección de datos y la transparencia en el centro de cómo funcionan estos complejos sistemas”.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
