@@ -56,7 +56,7 @@ download-a-different-build = Загрузить другую сборку
 download-button-linux-32 = Загрузить 32-разрядную версию { -brand-name-linux }
 # Obsolete string
 download-button-linux-64 = Загрузить { -brand-name-linux } (64-разрядная версия)
-download-button-linux-32-v2 = Загрузить 32-битную версию Linux
+download-button-linux-32-v2 = Загрузить для 32-битной Linux
 download-button-linux-64-v2 = Загрузить для 64-битной Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
