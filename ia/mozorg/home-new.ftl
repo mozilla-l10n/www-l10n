@@ -21,6 +21,7 @@ home-product-relay-masks = Mascas de email e telephono facile a usar
 home-cta-get-relay = Obtene { -brand-name-relay }
 home-product-vpn-trust = Un VPN digne de fide
 home-cta-get-vpn = Installa { -brand-name-mozilla-vpn }
+home-cta-get-monitor = Obtene { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } risca multo pro monstrar al mundo que es possibile facer negotios con intelligentia artificial digne de fide. Isto significa mitter le derectos human, le protection de datos e le transparentia al centro del functionamento de iste systemas complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
