@@ -81,5 +81,6 @@ firefox-developer-all-the-latest-v2 = เครื่องมือสำหร
 # Obsolete string
 firefox-developer-all-the-latest = เครื่องมือสำหรับนักพัฒนาล่าสุดทั้งหมดในรุ่นเบต้า พร้อมด้วย<strong>คุณลักษณะขั้นทดลอง</strong>อย่างเช่น ตัวแก้ไขคอนโซลแบบหลายบรรทัด และตัวตรวจสอบ WebSocket
 firefox-developer-a-separate-profile = <strong>โปรไฟล์และเส้นทางจะแยกออกจากกัน</strong>เพื่อให้คุณสามารถเรียกใช้งานควบคู่ไปกับ { -brand-name-firefox } รุ่นเปิดตัวหรือ { -brand-name-beta } ได้อย่างง่ายดาย
+firefox-developer-preferences-tailored = การกำหนดลักษณะที่<strong>ปรับแต่งมาสำหรับนักพัฒนาเว็บ</strong>: เบราว์เซอร์และการดีบั๊กระยะไกลจะถูกเปิดใช้งานตามค่าเริ่มต้น เช่นเดียวกับชุดรูปแบบมืดและปุ่มแถบเครื่องมือนักพัฒนา
 firefox-developer-congrats-you-now-have = ยินดีด้วย คุณได้{ -brand-name-firefox-browser } { -brand-name-developer-edition }แล้ว
 firefox-developer-congrats-you-now-have-latest = ยินดีด้วย ตอนนี้คุณมี { -brand-name-firefox-browser } { -brand-name-developer-edition } รุ่นล่าสุดแล้ว
