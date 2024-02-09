@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = โอกาสในการเป็นอาสาสมัครที่ { -brand-name-mozilla }
+contribute-page-heading = พรสวรรค์ของคุณจำเป็นสำหรับอินเทอร์เน็ตที่ดียิ่งขึ้น
 contribute-page-intro = { -brand-name-mozilla } เป็นองค์กรไม่แสวงหาผลกำไรที่ทำงานเพื่อให้แน่ใจว่าอินเทอร์เน็ตเปิดกว้างและยินดีต้อนรับทุกคน และเราต้องการความช่วยเหลือจากคุณ การเข้าร่วมชุมชนของเราจะช่วยผลักดันนวัตกรรมเพิ่มความรับผิดชอบและความไว้วางใจและทำให้อินเทอร์เน็ตเป็นสถานที่ที่ดีขึ้นสำหรับทุกคน
 contribute-how-heading = วิธีการที่คุณสามารถมีส่วนร่วม…
 
@@ -23,6 +24,7 @@ contribute-tag-support = สนับสนุน
 contribute-task-translate-heading = เนื้อหาการแปล
 contribute-task-translate-desc = อินเทอร์เน็ตเป็นสิ่งที่ใช้ได้ทั่วโลกก็ต่อเมื่อเข้าใจได้ทุกที่ ช่วยเราแปลผลิตภัณฑ์และเว็บไซต์ { -brand-name-mozilla } เป็นภาษาท้องถิ่นของคุณ
 contribute-task-mozilla-codebase-heading = ร่วมให้ข้อมูลกับ codebase ของ { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = ปรับปรุงผลิตภัณฑ์ { -brand-name-mozilla } อย่างต่อเนื่องโดยสนับสนุนโอกาสในการพัฒนาที่หลากหลาย
 contribute-task-support-desc = ช่วยให้ผลิตภัณฑ์ { -brand-name-mozilla } ใช้งานง่าย ตอบคำถาม "ความช่วยเหลือ" ของผู้คนโดยเป็นส่วนหนึ่งของฟอรัมชุมชนการสนับสนุนของ { -brand-name-mozilla }
 contribute-task-join-heading = เข้าร่วมชุมชน
 contribute-task-join-desc = ต้องการมีส่วนร่วมมากขึ้นในชุมชน { -brand-name-mozilla } ไหม ดูโอกาสในการเป็นอาสาสมัครทั้งหมดในพอร์ทัลชุมชนของเรา
