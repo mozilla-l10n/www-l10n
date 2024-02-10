@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -18,7 +18,7 @@ firefox-all-platform = Plattform:
 firefox-all-language = Språk:
 firefox-all-lang-multi = Flera språk
 firefox-all-sorry-we-couldnt-find = Tyvärr kunde vi inte hitta den nedladdning du letar efter. Vänligen försök igen, eller välj en nedladdning från listan nedan.
-firefox-all-the-pre-alpha-version = Pre-alpha-versionen för mer erfarna användare som gillar att jaga kraschar och testa nya funktioner medans dom blir programmerade.
+firefox-all-the-pre-alpha-version = Pre-alpha-versionen för avancerade användare som gillar att jaga krascher och testa nya funktioner allt eftersom de kodas.
 firefox-all-64-bit-installers = 64-bitars installationsprogram
 firefox-all-choose-a-64-bit-installer = Välj ett 64-bitars installationsprogram för datorer med 64-bitars processorer, vilket gör det möjligt för dem att fördela mer RAM till enskilda program - särskilt viktigt för spel och andra krävande applikationer.
 firefox-all-32-bit-installers = 32-bitars installationsprogram
