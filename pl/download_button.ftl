@@ -58,3 +58,7 @@ download-button-linux-32 = Pobierz dla 32-bitowego { -brand-name-linux(case: "ge
 download-button-linux-64 = Pobierz dla 64-bitowego { -brand-name-linux(case: "gen") }
 download-button-linux-32-v2 = Pobierz dla 32-bitowego Linuksa
 download-button-linux-64-v2 = Pobierz dla 64-bitowego Linuksa
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Używasz Debiana, Ubuntu lub innej dystrybucji opartej na Debianie?<br> Możesz zamiast tego skonfigurować nasze <a { $attrs }>repozytorium APT</a>.
