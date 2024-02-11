@@ -49,3 +49,12 @@ download-firefox-esr = Pobierz { -brand-name-firefox-esr(case: "acc") }
 download-firefox-esr-32 = Pobierz 32-bitowego { -brand-name-firefox-esr(case: "acc") }
 download-firefox-esr-64 = Pobierz 64-bitowego { -brand-name-firefox-esr(case: "acc") }
 download-a-different-build = Pobierz inną wersję
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Pobierz dla 32-bitowego { -brand-name-linux(case: "gen") }
+# Obsolete string
+download-button-linux-64 = Pobierz dla 64-bitowego { -brand-name-linux(case: "gen") }
+download-button-linux-32-v2 = Pobierz dla 32-bitowego Linuksa
+download-button-linux-64-v2 = Pobierz dla 64-bitowego Linuksa
