@@ -18,6 +18,8 @@ home-product-relay-masks = Lažke wužywanje e-mailowych a telefonowych maskow
 home-cta-get-relay = { -brand-name-relay } wobstaraś
 home-product-vpn-trust = VPN, kótaremuž móžośo dowěriś
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstaraś
+home-product-monitor-data = Warnowanja wó datowych źěrach
+home-cta-get-monitor = { -brand-name-monitor } wobstaraś
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-learn-about-mofo = Zgóńśo wěcej wó załožbje { -brand-name-mozilla-foundation }
