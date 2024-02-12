@@ -16,6 +16,7 @@ features-index-free-password-manager = Darmotny zrjadowak hesłow
 features-index-customize-your-firefox-browser = Přiměrće swój wobhladowak { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Wubjerće, kak ma waš wobhladowak z tysacami darmotnych drastow wupadać.
 features-index-firefox-browser-sync = Synchronizacija wobhladowaka { -brand-name-firefox }
+features-index-access-your-firefox-bookmarks = Mějće přistup k wašim zapołožkam, hesłam, wočinjenym rajtarkam { -brand-name-firefox } a wjace z kóždeho grata.
 features-index-bookmark-manager = Zrjadowak zapołožkow
 features-index-organize-your-bookmarks-with = Organizujće swoje zapołožki z rjadowakami a značkami.
 features-index-private-browsing-mode = Priwatny modus

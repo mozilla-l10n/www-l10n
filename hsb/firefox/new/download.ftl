@@ -34,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Waše sćehnjenje dyrbjało so awtom
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace hač wobhladowak.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Waše sćehnjenje je so přetorhnyło. Ale wšitko zhubjene njeje.
+firefox-new-download-almost-there = Nimale zdokonjany!
+firefox-new-download-select-linux = Wubjerće deleka nastajenje sćehnjenja
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukcijam</a> za instalowanje { -brand-name-firefox }.
