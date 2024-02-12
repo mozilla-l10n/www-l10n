@@ -20,6 +20,7 @@ vpn-features-more-than =
         [few] Wěcej ako { $servers } serwery we wěcej ako { $countries } krajach
        *[other] Wěcej ako { $servers } serwerow we wěcej ako { $countries } krajach
     }
+vpn-features-see-our-list = Woglědajśo se našu lisćinu serwerow.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
@@ -29,7 +30,11 @@ vpn-features-connect-up-to =
         [few] Zwěžćo až k { $devices } rědam
        *[other] Zwěžćo až k { $devices } rědam
     }
+vpn-features-supported-platforms = Na źěłowych systemach Windows, macOS, Android, iOS a Linux pódprěty.
 vpn-features-secure = Wěsty
+vpn-features-encrypt-your-internet = Koděrujśo wšen swój internetny wobchad
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšykne nałoženja na wašom rěźe, nic jano waš wobglědowak
+vpn-features-stronger-malware = Mócnjejšy šćit pśeśiwo škódnej software
 vpn-features-support-for-custom-dns = Pódpora za swójski DNS
 vpn-features-flexible = Fleksibelny
 vpn-features-trustworthy = Dowěry gódny
