@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Testujte beta verzie { 
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testujte beta verzie { -brand-name-firefox(case: "gen") } pre { -brand-name-ios } v programe { -brand-name-apple } { -brand-name-test-flight }.
 firefox-channel-sign-up-now = Prihlásiť sa
+firefox-channel-nightly-update-one-or-more-times = Poznámka: { -brand-name-firefox-nightly } sa aktualizuje približne raz alebo dvakrát denne.

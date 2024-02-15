@@ -37,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } pre { -brand-name-linux }
 new-school-meets = Nová škola sa stretáva so starou školou s doteraz najrýchlejším prehliadačom.
 firefox-for-windows = { -brand-name-firefox } pre 64‑bitovú verziu systému { -brand-name-windows }
 we-worry-about = Staráme sa o bezpečnosť vašich údajov, takže vy nemusíte.
+# Obsolete string
 seven-of-the = Priame porovnanie siedmych najlepších prehliadačov
+six-of-the-best = Priame porovnanie šiestich najlepších prehliadačov
+# Obsolete string
 we-compare-firefox = Porovnávame { -brand-name-firefox } s { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, aby sme vám pomohli pri rozhodovaní.
+we-compare-firefox-v2 = Porovnávame { -brand-name-firefox } s prehliadačmi Chrome, Edge, Safari, Opera a Brave, aby sme vám pomohli pri rozhodovaní.
 comparing-firefox-chrome = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Veľký nie je vždy najlepší. Zvoľte radšej nezávislosť.
 comparing-firefox-brave = Porovnanie { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } a { -brand-name-brave }
