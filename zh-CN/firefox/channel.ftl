@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = 通过 { -brand-name-ap
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = 通过 { -brand-name-apple } 的 { -brand-name-test-flight } 计划帮助测试 { -brand-name-firefox } { -brand-name-ios } 版的公测版本。
 firefox-channel-sign-up-now = 立即订阅
+firefox-channel-nightly-update-one-or-more-times = 注意{ -brand-name-firefox-nightly } 大约每天更新一到两次。
