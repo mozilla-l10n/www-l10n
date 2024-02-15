@@ -58,3 +58,7 @@ download-button-linux-32 = 32-bits { -brand-name-linux } downloade
 download-button-linux-64 = 64-bits { -brand-name-linux } downloade
 download-button-linux-32-v2 = Downloade foar 32-bits Linux
 download-button-linux-64-v2 = Downloade foar 64-bits Linux
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Brûke jo Debian, Ubuntu of in oare op Debian basearre distribúsje?<br>Jo kinne yn stee dêrfan ús <a { $attrs }>APT-repository</a> ynstelle.

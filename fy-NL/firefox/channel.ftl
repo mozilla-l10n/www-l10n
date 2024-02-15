@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Test bètaferzjes fan {
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Test bètaferzjes fan { -brand-name-firefox } foar { -brand-name-ios } fia { -brand-name-apple }’s { -brand-name-test-flight }-programma.
 firefox-channel-sign-up-now = No ynskriuwe
+firefox-channel-nightly-update-one-or-more-times = Noat: { -brand-name-firefox-nightly } wurdt ûngefear ien of twa kear deis bywurke.
