@@ -25,7 +25,7 @@ vpn-desktop-servers-headline = 連線到世界各地的伺服器
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = 從巴西瀏覽。日本的遊戲。從墨西哥直播。 { -brand-name-mozilla-vpn } 讓您可以將手機或電腦所在的位置變更到 { $servers } 台伺服器。
 # Obsolete string
-vpn-desktop-servers-copy = 從巴西瀏覽。日本的遊戲。從墨西哥直播。 { -brand-name-mozilla-vpn } 讓您可以將手機或電腦所在的位置變更為 { $servers } 帳號。
+vpn-desktop-servers-copy = 瀏覽巴西的網頁、玩日本的遊戲、追墨西哥的電視劇。 { -brand-name-mozilla-vpn } 讓您可以將手機或電腦所在的位置更改為任一 { $servers }。
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = 同時保護最多 { $devices } 台裝置連線

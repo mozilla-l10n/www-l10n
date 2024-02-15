@@ -164,7 +164,7 @@ firefox-desktop-download-now-windows = 接下來<strong>執行</strong>剛下載
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = 接下來<strong>開啟</strong>剛下載的檔案。
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = 選擇下面的<strong>下載</strong>選項
+firefox-desktop-download-select-linux = 在下面選擇<strong>下載</strong>選項
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 遇到問題嗎？<a { $attrs }>獲得安裝協助</a>。
