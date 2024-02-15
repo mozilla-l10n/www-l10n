@@ -11,10 +11,6 @@ learn-more-about = 了解更多會在處理資料時尊重您，並且為了保�
 learn-more-faq = { -brand-name-firefox } 常見問題 FAQ
 the-history-of = 網頁瀏覽器簡史
 firefox-has-been = { -brand-name-firefox } 從一開始就與您同行。
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }：有理由的反抗軍
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } 是一套獨立的瀏覽器，由為您在網路上的權利而戰，並且致力讓網際網路隨時隨地、任何人都能平等使用的非營利組織 { -brand-name-mozilla } 在背後全力相挺。
 what-is-a = 網頁瀏覽器是什麼？
 a-web-browser = 網頁瀏覽器能帶您暢遊網際網路，讓您看到來自世界各地的文字、影音圖片內容。
 update-your-browser = 升級使用更快、更安全的 { -brand-name-firefox } 瀏覽器。
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } for { -brand-name-linux }
 new-school-meets = 老品牌，新功能。請使用最新最快的瀏覽器。
 firefox-for-windows = { -brand-name-firefox } for { -brand-name-windows } 64-bit
 we-worry-about = 請放心，資料安全的事情就交給我們來煩惱。
+# Obsolete string
 seven-of-the = 七套最佳瀏覽器功能比較
+six-of-the-best = 六套最佳瀏覽器功能比較
+# Obsolete string
 we-compare-firefox = 我們將 { -brand-name-firefox } 與 { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } 等瀏覽器進行比較，幫助您做決定。
+we-compare-firefox-v2 = 我們將 { -brand-name-firefox } 與 Chrome、Edge、Safari、Opera 及 Brave 進行比較幫助您做決定。
 comparing-firefox-chrome = 比較 { -brand-name-firefox-browser }與 { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = 大，不一定好。選擇獨立的瀏覽器。
 comparing-firefox-brave = 比較 { -brand-name-firefox-browser } 與 { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }：保護更多、擔心更少�
 were-obsessed-with = 我們超．級．注．重於保護您的隱私。這也是我們讓 { -brand-name-firefox } 的隱私瀏覽功能比其他瀏覽器威力更強大的原因。
 incognito-browser-what = 瀏覽器的無痕模式：到底是什麼？
 firefox-calls-it = { -brand-name-firefox } 把這個功能叫做「隱私瀏覽」，而 { -brand-name-chrome } 把這個功能稱為「無痕模式」；兩個功能都可以讓您上網不留下瀏覽紀錄。
-# Obsolete string
-take-the-stress = 讓尋找安全瀏覽器的過程變得更輕鬆。
-# Obsolete string
-building-a-safe = 要打造安全的瀏覽器不是簡單的事，這是一門藝術，又是一門科學。
 firefox-more-fingerprinter-blocking = 封鎖數位指紋追蹤程式
 firefox-more-fingerprinting-is-a = 「數位指紋追蹤」是一種比使用 Cookie 還更有侵入性的追蹤方式，這也是 { -brand-name-firefox-browser } 要封鎖它的原因。
 firefox-more-translate-the-web = 翻譯網頁內容
