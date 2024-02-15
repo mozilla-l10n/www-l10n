@@ -11,10 +11,6 @@ learn-more-about = Dysgwch ragor am gynnyrch { -brand-name-firefox } sy'n trin e
 learn-more-faq = Cwestiynau Cyffredin { -brand-name-firefox }
 the-history-of = Hanes porwyr gwe
 firefox-has-been = Mae { -brand-name-firefox } wedi bod yno ers bron y dechrau.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebel gydag achos
-# Obsolete string
-firefox-is-independent = Mae { -brand-name-firefox } yn annibynnol ac yn rhan o { -brand-name-mozilla } nid-er-elw, sy'n brwydro dros eich hawliau ar-lein ac yn gwneud y Rhyngrwyd yn agored ar gyfer pawb, ymhob man.
 what-is-a = Beth yw porwr gwe?
 a-web-browser = Mae porwr gwe yn mynd â chi unrhyw le ar y rhyngrwyd, gan adael i chi weld testun, delweddau a fideo o unrhyw le yn y byd.
 update-your-browser = Uwchraddiwch eich porwr i'r { -brand-name-firefox } cyflym, diogel a chadarn.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }
 new-school-meets = Y porwr cyflymaf eto ar gyfer y systemau annibynnol.
 firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } 64-did
 we-worry-about = Rydyn ni'n pryderu am diogelwch eich data felly does dim rhaid i chi wneud hynny.
+# Obsolete string
 seven-of-the = Cymharu'r saith porwr gorau yn uniongyrchol
+six-of-the-best = Cymhariaeth o'r chwech porwyr gorau
+# Obsolete string
 we-compare-firefox = Rydym yn cymharu { -brand-name-firefox } â { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ac { -brand-name-ie } i'ch helpu chi i benderfynu.
+we-compare-firefox-v2 = Rydym yn cymharu { -brand-name-firefox } â Chrome, Edge, Safari, Opera a Brave i'ch helpu i wneud eich penderfyniad.
 comparing-firefox-chrome = Cymharu { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Nid Mawr sydd orau bob tro. Dewiswch annibyniaeth yn ei le.
 comparing-firefox-brave = Cymharu { -brand-name-firefox-browser } â { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Mwy diogel. Llai o boen.
 were-obsessed-with = Mae gennym obsesiwn am ddiogelu eich preifatrwydd. Dyna pam rydym wedi gwneud Pori Preifat yn { -brand-name-firefox } yn fwy pwerus na'r lleill.
 incognito-browser-what = Porwr Incognito: Beth mae'n ei olygu mewn gwirionedd
 firefox-calls-it = Mae { -brand-name-firefox } yn ei alw'n bori preifat, mae { -brand-name-chrome } yn ei alw'n fodd incognito. Mae'r ddau yn gadael i chi bori'r we heb gadw'ch hanes pori.
-# Obsolete string
-take-the-stress = Tynnwch y straen o ddod o hyd i borwr diogel.
-# Obsolete string
-building-a-safe = Mae adeiladu porwr diogel yn gelfyddid ac yn wyddoniaeth oherwydd nad oes unrhyw reolau penodol.
 firefox-more-fingerprinter-blocking = Rhwystro Bysbrintwyr
 firefox-more-fingerprinting-is-a = Mae bysbrintio'n fath o dracio ar-lein sy'n fwy ymledol na thracio cyffredin sy'n seiliedig ar gwcis - dyna pam mae { -brand-name-firefox-browser } yn ei rwystro.
 firefox-more-translate-the-web = Cyfieithu'r we

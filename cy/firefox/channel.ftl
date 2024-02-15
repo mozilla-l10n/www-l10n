@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Profwch fersiynau beta 
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Profi'r fersiwn beta o { -brand-name-firefox } ar gyfer { -brand-name-ios } drwy rhaglen { -brand-name-test-flight } { -brand-name-apple }.
 firefox-channel-sign-up-now = Cofrestrwch nawr
+firefox-channel-nightly-update-one-or-more-times = Nodyn: Bydd { -brand-name-firefox-nightly } yn diweddaru tua unwaith neu ddwywaith y dydd.
