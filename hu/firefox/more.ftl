@@ -11,10 +11,6 @@ learn-more-about = Tudjon meg többet a { -brand-name-firefox } böngészőkről
 learn-more-faq = { -brand-name-firefox } GYIK
 the-history-of = A böngészők története
 firefox-has-been = A { -brand-name-firefox } szinte a kezdetek óta ott van.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: lázadó, aminek célja van
-# Obsolete string
-firefox-is-independent = A { -brand-name-firefox } független, és a nonprofit { -brand-name-mozilla } támogatja, amely az online jogaiért küzd, ellenőrzés alatt tartja a vállalatbirodalmakat, és mindenki számára elérhetővé teszi az internetet, mindenhol.
 what-is-a = Mi az a webböngésző?
 a-web-browser = Egy webböngészővel bárhová eljuthat az interneten, lehetővé téve, hogy szöveget, képeket és videókat tekintsen meg a világ bármely pontjáról.
 update-your-browser = Frissítse a böngészőjét a gyors és biztonságos { -brand-name-firefox }ra.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ra
 new-school-meets = A modern találkozik a megszokottal az eddig leggyorsabb böngészőben.
 firefox-for-windows = { -brand-name-firefox } 64 bites { -brand-name-windows }ra
 we-worry-about = Aggódunk az adatbiztonsága miatt, így Önnek már nem kell.
+# Obsolete string
 seven-of-the = A hét legjobb böngésző közvetlen összehasonlítása
+six-of-the-best = A hat legjobb böngésző közvetlen összehasonlítása
+# Obsolete string
 we-compare-firefox = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a { -brand-name-chrome }-mal, az { -brand-name-edge }-dzsel, a { -brand-name-safari }val, az { -brand-name-opera(ending: "accented") }val, a { -brand-name-brave }-vel és az { -brand-name-ie }rel, hogy segítsük a döntésben.
+we-compare-firefox-v2 = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a Chrome-mal, az Edge-dzsel, a Safarival, az Operával és a Braveval, hogy segítsük a döntésben.
 comparing-firefox-chrome = A { -brand-name-firefox-browser } és a { -brand-name-google } { -brand-name-chrome } összehasonlítása
 big-isnt-always = A nagy nem mindig a legjobb. Válassza inkább a függetlenséget.
 comparing-firefox-brave = A { -brand-name-firefox-browser } és a { -brand-name-brave } összehasonlítása
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: több védelem. Kevesebb aggo
 were-obsessed-with = Megszállottam védjük a magánszféráját. Ezért tettük a { -brand-name-firefox } privát böngészést még nagyobb tudásúvá, mint mások.
 incognito-browser-what = Inkognitó böngésző: Mit is jelent valójában
 firefox-calls-it = A { -brand-name-firefox } privát böngészésnek, a { -brand-name-chrome } inkognitó módnak hívja. Mindkettővel az előzmények mentése nélkül böngészheti a világhálót.
-# Obsolete string
-take-the-stress = Tegye stresszmentessé a biztonságos böngésző megtalálását.
-# Obsolete string
-building-a-safe = Egy biztonságos böngésző készítése legalább annyira művészet, mint tudomány, mert nincsenek előre meghatározott szabályok.
 firefox-more-fingerprinter-blocking = Ujjlenyomat-készítők blokkolása
 firefox-more-fingerprinting-is-a = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = A web lefordítása
