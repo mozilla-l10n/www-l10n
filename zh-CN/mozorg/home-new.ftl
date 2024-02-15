@@ -22,7 +22,7 @@ home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
 home-product-monitor-data = 数据外泄警报
-home-cta-get-monitor = 下载 { -brand-name-monitor }
+home-cta-get-monitor = 使用 { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

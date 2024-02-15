@@ -56,8 +56,8 @@ download-a-different-build = 下载不同版本
 download-button-linux-32 = 下载 { -brand-name-linux }（32 位）
 # Obsolete string
 download-button-linux-64 = 下载 { -brand-name-linux }（64 位）
-download-button-linux-32-v2 = 下载适用于 Linux 32 位的版本
-download-button-linux-64-v2 = 下载适用于 Linux 64 位的版本
+download-button-linux-32-v2 = 下载适用于 Linux（32 位）的版本
+download-button-linux-64-v2 = 下载适用于 Linux（64 位）的版本
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
