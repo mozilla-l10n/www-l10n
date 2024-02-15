@@ -37,8 +37,14 @@ firefox-for-linux = { -brand-name-linux } के लिए { -brand-name-firefox
 new-school-meets = सबसे तेज़ ब्राउज़र नई सोच और पुराने ख्यालों का अनूठा मिश्रण है।
 firefox-for-windows = { -brand-name-windows } 64-बिट के लिए { -brand-name-firefox }
 we-worry-about = हमें आपकी डेटा सुरक्षा की देखभाल करते हैं, ताकि आपको न करनी पड़े।
+
+# Obsolete string
 seven-of-the = सात सबसे बढ़िया ब्राउज़र्स की सीधी तुलना
+
+
+# Obsolete string
 we-compare-firefox = हम { -brand-name-firefox } की तुलना { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } और { -brand-name-ie } के साथ करके आपको निर्णय लेने में सहायता करते हैं।
+
 comparing-firefox-chrome = { -brand-name-firefox-browser } और { -brand-name-google } { -brand-name-chrome } की तुलना
 big-isnt-always = बड़ा हमेशा बेहतर नहीं होता। इसके बजाय स्वतंत्रता चुनें।
 comparing-firefox-brave = { -brand-name-firefox-browser } से { -brand-name-brave } की तुलना

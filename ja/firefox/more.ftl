@@ -37,8 +37,14 @@ firefox-for-linux = { -brand-name-linux } 用 { -brand-name-firefox }
 new-school-meets = 伝統のプラットフォーム用の最先端・最速ブラウザーです。
 firefox-for-windows = { -brand-name-windows } 用 { -brand-name-firefox }
 we-worry-about = データの安全性をユーザーに代わって見守ります。
+
+# Obsolete string
 seven-of-the = ベストブラウザー 7 つの直接対決
+
+
+# Obsolete string
 we-compare-firefox = ここでは、ブラウザー選びの一助として { -brand-name-firefox } を { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } と比較します。
+
 comparing-firefox-chrome = { -brand-name-firefox-browser } と { -brand-name-google } { -brand-name-chrome } の比較
 big-isnt-always = 大企業がベストであるとは限りません。そこで、独立系という選択肢があります。
 comparing-firefox-brave = { -brand-name-firefox-browser } と { -brand-name-brave } の比較

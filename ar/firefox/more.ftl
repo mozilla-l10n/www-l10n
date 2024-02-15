@@ -37,8 +37,14 @@ firefox-for-linux = متصفح { -brand-name-firefox } لنظام تشغيل { -
 new-school-meets = المدرسة الجديدة تلتقي بالمدرسة القديمة مع أسرع متصفح حتى الآن.
 firefox-for-windows = متصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-windows } 64 بت
 we-worry-about = نحن قلقون بشأن سلامة بياناتك، لذا لا داعي لقلقك أنت أيضًا.
+
+# Obsolete string
 seven-of-the = سبعة من أفضل المتصفحات في المقارنة المباشرة
+
+
+# Obsolete string
 we-compare-firefox = نقارن { -brand-name-firefox } مع { -brand-name-chrome }، و{ -brand-name-edge }، و{ -brand-name-safari }، و{ -brand-name-opera }، و{ -brand-name-brave }، و{ -brand-name-ie } لمساعدتك في اتخاذ قرارك.
+
 comparing-firefox-chrome = مقارنة { -brand-name-firefox-browser } مع { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = الأضخم ليس بالضرورة هو الأفضل. اختر الاستقلالية بديلاً عمليًا.
 comparing-firefox-brave = مقارنة مُتصفح { -brand-name-firefox-browser } بمتصفح { -brand-name-brave }

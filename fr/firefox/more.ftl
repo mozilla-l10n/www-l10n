@@ -37,8 +37,14 @@ firefox-for-linux = { -brand-name-firefox } pour { -brand-name-linux }
 new-school-meets = La nouvelle garde au service de l’ancienne avec le navigateur le plus rapide au monde.
 firefox-for-windows = { -brand-name-firefox } pour { -brand-name-windows } 64 bits
 we-worry-about = La sécurité de vos données est notre souci, pas le vôtre.
+
+# Obsolete string
 seven-of-the = Comparaison directe des sept meilleurs navigateurs
+
+
+# Obsolete string
 we-compare-firefox = Nous comparons { -brand-name-firefox } à { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } et { -brand-name-ie } pour vous aider à faire le bon choix.
+
 comparing-firefox-chrome = Comparaison entre le { -brand-name-firefox-browser } et { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Le plus grand n’est pas toujours le meilleur. Optez plutôt pour un navigateur indépendant.
 comparing-firefox-brave = Comparaison entre le { -brand-name-firefox-browser } et { -brand-name-brave }
