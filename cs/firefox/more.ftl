@@ -11,10 +11,6 @@ learn-more-about = Seznamte se s prohlížeči a produkty z rodiny { -brand-name
 learn-more-faq = Časté dotazy ohledně { -brand-name-firefox(case: "gen") }
 the-history-of = Historie webových prohlížečů
 firefox-has-been = { -brand-name-firefox } je tu téměř od samého počátku.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebel s posláním
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } je nezávislý a zaštiťuje ho nezisková organizace { -brand-name-mozilla }, která bojuje za vaše práva na internetu a ten zpřístupňuje všem a všude.
 what-is-a = Co je to webový prohlížeč?
 a-web-browser = Webový prohlížeč vás přenese na libovolné místo internetu a umožní prohlížet text, obrázky a videa odkudkoli na světě.
 update-your-browser = Aktualizujte svůj prohlížeč na rychlý, spolehlivý a zabezpečený { -brand-name-firefox(case: "acc") }
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } pro { -brand-name-linux(case: "acc")
 new-school-meets = Nová škola se setkává se starou školou v dosud nejrychlejším prohlížeči.
 firefox-for-windows = { -brand-name-firefox } pro { -brand-name-windows(case: "acc") } 64-bit
 we-worry-about = Staráme se o bezpečnost vašich dat, takže vy už nemusíte.
+# Obsolete string
 seven-of-the = Sedm nejlepších prohlížečů v přímém srovnání
+six-of-the-best = Šest nejlepších prohlížečů v přímém srovnání
+# Obsolete string
 we-compare-firefox = Porovnali jsme { -brand-name-firefox(case: "acc") } s { -brand-name-chrome(case: "ins") }, { -brand-name-edge(case: "ins") }, { -brand-name-safari(case: "ins") }, { -brand-name-opera(case: "ins") }, { -brand-name-brave(case: "ins") } a { -brand-name-ie(case: "ins") }, abychom vám pomohli s rozhodováním.
+we-compare-firefox-v2 = Abyste se rozhodli lépe, porovnáváme { -brand-name-firefox(case: "acc") } s prohlížeči Chrome, Edgem, Safari, Operou a Brave.
 comparing-firefox-chrome = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-chrome(case: "ins") } od { -brand-name-google(case: "gen") }
 big-isnt-always = Velký není vždy nejlepší. Zvolte raději nezávislost.
 comparing-firefox-brave = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-brave(case: "ins") }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Více ochrany. Méně starost
 were-obsessed-with = Ochranou vašeho soukromí jsme posedlí. Proto je anonymní prohlížení ve { -brand-name-firefox(case: "loc") } dokonalejší než u konkurence.
 incognito-browser-what = Inkognito prohlížeč: Co to vlastně znamená
 firefox-calls-it = { -brand-name-firefox } tomu říká anonymní prohlížení, { -brand-name-chrome } anonymní režim. V obou případech můžete procházet web bez ukládání historie prohlížení.
-# Obsolete string
-take-the-stress = Zbavte se stresu z hledání bezpečného prohlížeče
-# Obsolete string
-building-a-safe = Vytvořit bezpečný prohlížeč je umění i věda, protože neexistují žádná pevně daná pravidla.
 firefox-more-fingerprinter-blocking = Blokování vytváření otisku prohlížeče
 firefox-more-fingerprinting-is-a = Vytváření otisku prohlížeče je invazivní technika vašeho sledování bez použití běžných cookies – proto ji { -brand-name-firefox-browser(capitalization: "lower") } blokuje.
 firefox-more-translate-the-web = Překládání webových stránek
