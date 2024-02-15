@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-firefox-browser = { -brand-name-firefox-browser }: 更快、更好用的密碼管理員
+password-manager-firefox-browser = { -brand-name-firefox-browser }：更快、更好用的密碼管理員
 # HTML page description
 password-manager-firefox-password = { -brand-name-firefox } 的密碼管理員可將您的所有密碼儲存起來，這樣就可以自動登入各個網站，或找回已存的密碼。
 # Hero title

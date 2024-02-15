@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
 # HTML page title
-features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }: 隨處使用更棒的書籤功能
+features-bookmarks-firefox-browser-better = { -brand-name-firefox-browser }：隨處使用更棒的書籤功能
 # HTML page description
 features-bookmarks-easily-organize-your-bookmarks = 輕鬆將書籤整理到不同資料夾，然後在您的任何桌機或行動裝置中同步使用。
 features-bookmarks-better-bookmarks = 更棒的書籤

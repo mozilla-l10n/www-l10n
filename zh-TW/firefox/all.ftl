@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -12,10 +12,10 @@ firefox-all-need-help = 需要幫忙嗎？
 firefox-all-which-browser-would = 您想要下載哪套瀏覽器？
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 取得幫助
-firefox-all-you-are-about-to-download = 即將下載:
-firefox-all-browser = 瀏覽器:
-firefox-all-platform = 平台:
-firefox-all-language = 語言:
+firefox-all-you-are-about-to-download = 即將下載：
+firefox-all-browser = 瀏覽器：
+firefox-all-platform = 平台：
+firefox-all-language = 語言：
 firefox-all-lang-multi = 多種語言
 firefox-all-sorry-we-couldnt-find = 很抱歉，我們找不到您想要下載的東西。請再試一次，或從下方的清單選擇要下載的項目。
 firefox-all-the-pre-alpha-version = pre-alpha 測試版，適用於想要找出錯誤，或在新功能一完成就立即測試的進階使用者。
@@ -29,10 +29,10 @@ firefox-all-everyone-deserves-access = 不論使用哪種語言，每個人都�
 firefox-all-choose-which-firefox = 選擇要用您的語言下載哪套 { -brand-name-firefox-browser }
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 隱私權公告
 firefox-all-learn-about-firefox = 了解各種 { -brand-name-firefox } 瀏覽器的相關資訊
-firefox-all-the-standard-firefox = 標準 { -brand-name-firefox } 瀏覽器: 速度快，又保護隱私。若您不確定應該選擇哪套，請選這個。
+firefox-all-the-standard-firefox = 標準 { -brand-name-firefox } 瀏覽器：速度快，又保護隱私。若您不確定應該選擇哪套，請選這個。
 firefox-all-get-a-sneak-peek-at = 在 { -brand-name-firefox } 瀏覽器正式發行前，搶先試用最新版本當中的功能。
 firefox-all-test-your-sites-against = 使用這套即將發行的 { -brand-name-firefox } 瀏覽器當中強大而靈活的開發者工具，來測試您的網站。
-firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用這套為企業打造 { -brand-name-firefox } 瀏覽器。
+firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用這套為企業量身打造的 { -brand-name-firefox } 瀏覽器。
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
 firefox-all-arm64-installers = ARM64/AArch64 安裝程式
 firefox-all-arm64-installers-optimized = 針對使用 Snapdragon 處理器的 { -brand-name-windows } PC 最佳化的 ARM64/AArch64 安裝程式。

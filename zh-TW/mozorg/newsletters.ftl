@@ -13,26 +13,18 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } 電子報
 newsletters-read-all-about-it-in-our-newsletter = 透過我們的電子報取得最新資訊
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = 在此訂閱電子報，搶先知道 { -brand-name-mozilla } 的大小事，並採取行動讓網路環境更健康，也讓您的線上生活更聰明。
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = 訂閱最新消息，搶先取得在 { -brand-name-mozilla } 發生的大小事。這是您能與我們保持連絡的最佳方式！
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = 確認電子報
 newsletters-thanks-for-subscribing = 感謝您的訂閱！
 newsletters-your-newsletter-subscription = 已確認訂閱電子報。
 newsletters-please-be-sure-to-add-our-v2 = 請務必將我們的寄件信箱: mozilla@email.mozilla.org 加到通訊錄，確保每封信都能直達您的收件匣。
-# Obsolete string
-newsletters-please-be-sure-to-add-our = 請務必將我們的寄件地址 mozilla@e.mozilla.org 加到通訊錄，確保信件可以直接掉進您的收件匣。
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = 提供的鏈結已失效。請<a { $recovery_href }>在此申請新鏈結</a>。
-# Obsolete string
-newsletters-the-supplied-link-has-expired = 提供的鏈結已過期，您會在下一封電子報中收到新的鏈結。
 newsletters-something-is-amiss-with = 抱歉！我們的系統有點怪怪的，請稍候再試。
 newsletters-youre-awesome = 您真是超棒的！
 newsletters-and-were-not-just-saying = 不只是因為您相信我們，而提供了您的電子信箱地址。
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = 請務必將 mozilla@email.mozilla.org 加到通訊錄，確保每封信都能直達您的收件匣。
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = 請將 mozilla@e.mozilla.org 加到通訊錄中，確保我們寄出的每一封信都會進到您的收件匣。
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } 關注不同的重大議題。
 newsletters-open-your-inbox-and-your = 打開您的收件匣（與您的心）更多一點，看看我們還關注哪些議題。
 newsletters-manage-your-email-preferences = 管理收信偏好
@@ -47,7 +39,7 @@ newsletters-country-or-region = 國家或地區:
 # Form field label
 newsletters-country = 國家:
 # Form field label
-newsletters-language = 語言:
+newsletters-language = 語言：
 newsletters-not-all-subscriptions-are = 並非所有電子報都提供列出的語言版本。大部分提供英語、德語、法語版本。
 # Form field error message
 newsletters-please-select-country = 請選擇國家或地區
@@ -61,8 +53,6 @@ newsletters-text-subscribers-will-receive = 純文字格式版本的訂閱者，
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
 newsletters-many-of-our-communications-v2 = 我們的許多通訊內容都與您註冊過的帳號有關，諸如 { -brand-name-mozilla-accounts }、{ -brand-name-mdn-web-docs } 或附加元件開發者中心。若要管理這些帳號，或想要了解您註冊過哪些帳號，請到<a href="{ $url }">帳號管理頁面</a>確認。
-# Obsolete string
-newsletters-many-of-our-communications = 我們的許多通訊內容都與您註冊過的帳號有關，諸如 { -brand-name-firefox-accounts }、{ -brand-name-mdn-web-docs } 或附加元件開發者中心。若要管理這些帳號，或想要了解您註冊過哪些帳號，請到<a href="{ $url }">帳號管理頁面</a>確認。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = 快來加入我們，使用單一帳號使用完整的 { -brand-name-firefox } 相關產品與服務，並獲得相關資訊！<a href="{ $url }">在此</a>了解更多優點。
@@ -86,7 +76,6 @@ newsletters-youve-been-unsubscribed = 您已退訂成功。
 newsletters-were-sorry-to-see-you-go = 很抱歉您要離開。
 newsletters-would-you-mind-telling-us = 您方便告訴我們為什麼要離開嗎？
 newsletters-other-v2 = 其他…（最多 500 字元）
-# Obsolete string
 newsletters-other = 其他…
 newsletters-submit = 送出
 newsletters-thanks-for-telling-us-why = 感謝您告訴我們為什麼要離開。
@@ -104,8 +93,6 @@ newsletters-were-glad-you-asked = 很高興您問了！
 newsletters-love-the-web-so-do-we = 喜愛 Web 嗎？我們也是！
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = 透過 { -brand-name-mozilla } 開發者電子報探索網頁開發的世界。每週的電子報當中都會帶給您程式寫作技巧、最佳實踐、{ -brand-name-mdn } 最新消息、新技術資訊、開發工具使用秘訣等豐富資訊。
-# Obsolete string
-newsletters-join-thousands-of-developers = 與數以千計像您一樣，想要了解 Web 開發最精華部分的開發者。
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = 在收件匣裡面多塞一點狐狸。
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
@@ -124,16 +111,10 @@ newsletters-fxa-error-retry = 很抱歉，將頁面跳轉到電子郵件偏好�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
 newsletters-im-keeping-in-touch-v2 = 我想改到 { -brand-name-twitter } 接收 { -brand-name-mozilla } 的相關訊息。
-# Obsolete string
-newsletters-im-keeping-in-touch = 我要改用 { -brand-name-facebook } 或 { -brand-name-twitter } 跟 { -brand-name-mozilla } 保持聯繫。
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = 訂報、閱讀、<br>取得最新消息。
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = 訂報、閱讀、<br>造成改變。
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = 了解有哪些議題會影響您的線上生活。
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = 訂閱 { -brand-name-mozilla } 電子報，了解有哪些議題會挑戰網際網路的生態，並探索您可如何參與其中。
 newsletters-your-email-preferences = 已成功更新您的郵件偏好設定。
 newsletters-consider-it-done = 交給我們，馬上搞定
 newsletters-back-to-email-preferences = 回到郵件偏好設定
@@ -166,12 +147,8 @@ newsletters-dont-miss-the-latest = 別錯過 Firefox 桌面版的最新公告。
 newsletters-get-involved = 參與我們
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Insights 深入解析
-# Obsolete string
-newsletters-internet-health-report = Internet Health Report
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } 會發布有關網際網路健康與可信任 AI 的相關文章，包含我們的年度網際網路健康報告。
-# Obsolete string
-newsletters-keep-up-with-our-annual = 了解我們關於隱私權與安全性、開放性、數位包容、去中心化、網路素養等議題的年度研究與議題彙編。
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = 知識就是力量
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
@@ -192,9 +169,6 @@ newsletters-news-and-information = 與 Web 的生態相關的新聞與資訊。
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = 2008-2011 年的 University 專案，已經結束，改為 { -brand-name-firefox } 校園大使專案。
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = 2008-2011 年的 University 專案，已經結束，改為 Firefox 校園大使專案。
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = 為網際網路採取行動
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -203,8 +177,6 @@ newsletters-add-your-voice = 在我們為網際網路的未來而戰的請願、
 newsletters-new-product-testing = 新產品測試報
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = 透過測試最新的產品與功能來協助我們為您打造更好的 { -brand-name-mozilla }。
-# Obsolete string
-newsletters-help-us-make-a-better = 透過測試最新的產品與功能，來協助我們為您打造更好的 { -brand-name-firefox }。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } 社群
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -279,14 +251,10 @@ newsletters-get-how-tos = 訂閱能讓 { -brand-name-firefox } 為您發揮最�
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = 有關我們致力於打造 Open Web 的未來的年度活動的相關特殊公告。
-# Obsolete string
-newsletters-special-announcements-about-mozilla = 關於致力於塑造 open Web 的未來的 { -brand-name-mozilla } 年度嘉年華的特別公告。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } 新聞
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = 幫助您讓線上生活更有智慧，並參與我們打造出一個更好的網路環境的定期新訊電子報
-# Obsolete string
-newsletters-regular-updates-to-keep = 讓您了解並參與我們，一起讓網際網路變得更好的定期電子報。
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
