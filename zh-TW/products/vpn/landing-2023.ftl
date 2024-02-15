@@ -10,7 +10,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }：保護您的整台裝置
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-desc = 使用 { -brand-name-mozilla-vpn } 為所有應用程式提供完整的裝置保護。您可以透過位於超過 { $countries } 個國家的伺服器隨時隨地連線到任何地方。
+vpn-landing-desc = 使用 { -brand-name-mozilla-vpn }，完整保護您整台裝置上的所有軟體。您可以隨時隨地透過超過 { $countries } 個國家的伺服器，連線到任何地方。
 vpn-landing-powerful-privacy-for-peace = 強大隱私讓您高枕無憂
 vpn-landing-whats-a-vpn = VPN 是什麼？
 vpn-landing-a-virtual-private-network-protects = 透過虛擬私人網路保護您與網際網路的連線讓您在不同裝置上的位置與上網行為更加私密。

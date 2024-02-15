@@ -12,14 +12,12 @@ compare-edge-compare-microsoft-edge-to-the = 比較 { -brand-name-microsoft } { 
 # Main title.
 compare-edge-comparing-firefox-browser-with = 比較 { -brand-name-firefox-browser }與 { -brand-name-microsoft } { -brand-name-edge }
 compare-edge-with-windows-10-microsoft-introduced-updated = { -brand-name-microsoft } 在 { -brand-name-windows } 10 中推出了 { -brand-name-edge } 瀏覽器來與 { -brand-name-firefox } 及 { -brand-name-chrome } 競爭，使 { -brand-name-edge } 瀏覽器成為數百萬台電腦中的預設瀏覽器。即便如此，使用者們採用的速度還是很慢。{ -brand-name-microsoft } 最終宣布將把 { -brand-name-edge } 改為基於 { -brand-name-chromium } 技術的瀏覽器重新推出（而 { -brand-name-chromium } 是 { -brand-name-google } 的開放原始碼瀏覽器專案。）自 2020 年 1 月起，{ -brand-name-microsoft } 已使用 { -brand-name-chromium } 核心的 { -brand-name-edge } 取代舊版的 { -brand-name-edge }。雖然 { -brand-name-edge } 現在使用 { -brand-name-google } 的 { -brand-name-chromium } 核心，但也有許多與 { -brand-name-google } 的 { -brand-name-chrome } 瀏覽器不同的獨特功能。
-# Obsolete string
-compare-edge-with-windows-10-microsoft-introduced = { -brand-name-microsoft } 在 { -brand-name-windows } 10 中推出了 { -brand-name-edge } 瀏覽器來與 { -brand-name-firefox } 及 { -brand-name-chrome } 競爭，使 { -brand-name-edge } 瀏覽器成為數百萬台電腦中的預設瀏覽器。即便如此，使用者們採用的速度還是很慢。{ -brand-name-microsoft } 最終宣布將把 { -brand-name-edge } 改為基於 { -brand-name-chromium } 技術的瀏覽器重新推出（而 { -brand-name-chromium } 是 { -brand-name-google } 的開放原始碼瀏覽器專案。）
 compare-edge-here-well-compare-our-firefox = 在此，我們將自家的 { -brand-name-firefox-browser }與使用 { -brand-name-chromium } 技術的 { -brand-name-microsoft } { -brand-name-edge } 在隱私權保護、實用性、可攜性等方面進行比較，幫助您更加了解哪套瀏覽器比較符合需求與偏好。
 # "SmartScreen" and "Windows Hello" are brand names.
 compare-edge-edge-is-integrated-into-the = { -brand-name-edge } 整合於 { -brand-name-windows } 10 平台，於沙盒環境中運作。它會隔離於其他程式之外，並防止惡意程式窺探您的電腦。內建的 SmartScreen 會掃描您造訪網站的聲譽紀錄並封鎖可疑網站。為了加強保護隱私權，{ -brand-name-edge } 讓您可透過 { -brand-name-windows } Hello，使用生物識別機制或 PIN 碼，不需輸入密碼即可完成線上驗證。
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
-compare-edge-at-firefox-we-pride-ourselves = 在 { -brand-name-firefox } 以保護使用者的安全與隱私為榮。我們的<a { $attrs }>隱私權保護政策</a>內容通俗易懂。實際上我們花了很多時間確保它簡單明了、容易閱讀。現在起預設開啟加強型追踪保護後我們就會自動封鎖超過 2000 組追踪器。追踪器就是一些小小的程式碼會嘗試將您在多個網站的所作所為拼湊起來了解您的是誰、損害您的隱私來定向更好的廣告。
+compare-edge-at-firefox-we-pride-ourselves = 在 { -brand-name-firefox }，我們以保護使用者的安全與隱私為榮。我們的<a { $attrs }>隱私權保護政策</a>透明而簡單。實際上我們花了很多時間確保它簡單明瞭、容易閱讀。透過現在預設開啟的「加強型追蹤保護」功能，可自動封鎖超過 2000 組追蹤器。追蹤器是廣告商在許多網站中安裝的程式碼，嘗試將您在不同網站間的瀏覽行為拼湊起來，了解您是誰、並損害您的隱私來，只為了投放更吸引您的廣告。
 # Variables:
 #   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
 compare-edge-at-firefox-our-privacy-fallback = 在 { -brand-name-firefox }，我們的<a { $attrs }>隱私權保護政策</a>透明而簡單。實際上我們花了很多時間確保它簡單明瞭、容易閱讀。我們以保護使用者的安全與隱私為榮。透過現在預設開啟的「加強型追蹤保護」功能，可自動封鎖超過 2000 組追蹤器。追蹤器是廣告商在許多網站中安裝的程式碼，嘗試將您在不同網站間的瀏覽行為拼湊起來，了解您是誰、並損害您的隱私來，只為了投放更吸引您的廣告。
