@@ -11,10 +11,6 @@ learn-more-about = Узнайте больше о браузерах и прод
 learn-more-faq = Часто задаваемые вопросы по { -brand-name-firefox }
 the-history-of = История веб-браузеров
 firefox-has-been = { -brand-name-firefox } существовал почти с самого начала.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Бунтарь с целью
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } — независимый браузер, поддерживаемый некоммерческой организацией { -brand-name-mozilla }, которая борется за ваши Интернет-права и делает Всемирную Сеть доступной для всех и каждого, в независимости от местоположения.
 what-is-a = Что такое веб-браузер?
 a-web-browser = Браузер перенесёт вас в любую точку Интернета, и вы сможете просматривать текст, изображения и видео, где бы вы ни находились.
 update-your-browser = Обновите свой браузер до быстрого, безопасного и надёжного { -brand-name-firefox }.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } для { -brand-name-linux }
 new-school-meets = Новая школа встречает старую школу с самым быстрым браузером.
 firefox-for-windows = { -brand-name-firefox } для 64-битной { -brand-name-windows }
 we-worry-about = Мы заботимся о безопасности ваших данных, чтобы вам не приходилось это делать.
+# Obsolete string
 seven-of-the = Семь лучших браузеров в прямом сравнении
+six-of-the-best = Шесть лучших браузеров в прямом сравнении
+# Obsolete string
 we-compare-firefox = Мы сравнили { -brand-name-firefox } с { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } и { -brand-name-ie }, чтобы помочь вам сделать правильный выбор.
+we-compare-firefox-v2 = Мы сравнили { -brand-name-firefox } с Chrome, Edge, Safari, Opera и Brave, чтобы помочь вам сделать правильный выбор.
 comparing-firefox-chrome = Сравнение { -brand-name-firefox-browser(case: "genitive") } с { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Известный — не значит хороший. Лучше выберите независимость.
 comparing-firefox-brave = Сравнение { -brand-name-firefox-browser(case: "genitive") } с { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Больше защиты. М
 were-obsessed-with = Мы одержимы защитой вашей приватности. Вот почему, мы сделали Приватный Просмотр в { -brand-name-firefox } более мощным, чем в других браузерах.
 incognito-browser-what = Браузер в режиме инкогнито: Что на самом деле это означает
 firefox-calls-it = { -brand-name-firefox } называет это приватным просмотром, { -brand-name-chrome } называет это режимом инкогнито. Оба позволяют просматривать веб-страницы без сохранения истории просмотров.
-# Obsolete string
-take-the-stress = Снимите стресс, выбрав безопасный браузер.
-# Obsolete string
-building-a-safe = Создание безопасного браузера — это искусство и наука, потому что здесь нет установленных правил.
 firefox-more-fingerprinter-blocking = Блокировка сборщиков цифровых отпечатков
 firefox-more-fingerprinting-is-a = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
 firefox-more-translate-the-web = Переводите Интернет
