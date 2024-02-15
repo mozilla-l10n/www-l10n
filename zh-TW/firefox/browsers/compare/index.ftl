@@ -30,14 +30,14 @@ compare-index-find-out-how-firefox-chrome = 看看 { -brand-name-firefox }、{ -
 compare-index-find-out-how-firefox-chrome-v2 = 看看 { -brand-name-firefox }、Chrome、Edge、Safari、Opera 及 Brave 在隱私保護、實用性、可攜帶性上有哪些不同。
 # Obsolete string
 compare-index-looking-for-a-better-browser = 想找一套更好的瀏覽器嗎？我們會比較 { -brand-name-firefox } 與 { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } 等瀏覽器，幫助您做決定。
-compare-index-looking-for-a-better-browser-v2 = 想找更好的瀏覽器嗎我們會將 { -brand-name-firefox } 與 Chrome、Edge、Safari、Opera、Brave 進行比較幫助您做決定。
+compare-index-looking-for-a-better-browser-v2 = 想找一套更好的瀏覽器嗎？我們將 { -brand-name-firefox } 與 Chrome、Edge、Safari、Opera 及 Brave 進行比較，幫助您做決定。
 # Obsolete string
 compare-index-so-is-your-browser-the-best = 那麼您的瀏覽器是最適合您在線上使用的嗎？選擇正確的瀏覽器，可以大幅度改善上網體驗。話不多說，讓我們來比較一下 { -brand-name-google } { -brand-name-chrome }、{ -brand-name-firefox }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-microsoft } { -brand-name-ie } 與 { -brand-name-edge }，看看哪套最符合您的需求。
-compare-index-so-is-your-browser-the-best-v2 = 那麼您的瀏覽器是最適合您線上活動的瀏覽器嗎正確的瀏覽器可以大幅度改善您的上網體驗。話不多說讓我們來比較一下 Google Chrome、{ -brand-name-firefox }、Safari、Opera、Brave 及 Edge看看哪套最符合您的需求。
+compare-index-so-is-your-browser-the-best-v2 = 那麼您的瀏覽器是最適合您在線上使用的嗎？選擇正確的瀏覽器，可以大幅度改善上網體驗。話不多說，讓我們來比較一下 Google Chrome、{ -brand-name-firefox }、Safari、Opera 與 Edge，看看哪套最符合您的需求。
 compare-index-since-your-browser-is-your = 由於瀏覽器是網路世界的入口，速度、安全性、隱私權與實用性是最重要的事情。近年來大部分使用者都採用 { -brand-name-google } { -brand-name-chrome }，但當網路廣告隨時隨地跟蹤我們、資料外洩事件越發成為新聞頭條時，許多使用者開始要求瀏覽器加強保護隱私權，並且尊重他們。
 # Obsolete string
 compare-index-the-first-thing-to-point-out = 首先要提出的是，並非所有瀏覽器都能在所有作業系統運作。儘管很簡單就能在各主要作業系統安裝使用 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-brave } 及 { -brand-name-opera }，但 { -brand-name-ie } 及 { -brand-name-safari } 僅能於 { -brand-name-microsoft } 或 Apple 系統中運作。Apple 行動裝置內建了行動版 { -brand-name-safari }，而大部分 { -brand-name-android } 裝置也內建由裝置製造商客製化的瀏覽器。除此之外，很簡單就能安裝 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-brave }、{ -brand-name-edge } 與 { -brand-name-opera }，甚至可以與其他瀏覽器同時使用。
-compare-index-the-first-thing-to-point-out-v2 = 關於可攜帶性首先要指出的是並非所有瀏覽器都可在所有作業系統上使用。 { -brand-name-firefox }、Chrome、Edge、Brave 及 Opera 可在所有主要係統使用並且簡單安裝。但 Safari 僅能在 Apple 自己開發的系統上使用。 Apple 的行動裝置內也內建了由製造商針對裝置修改過的瀏覽器大部分的 Android 裝置也內建了行動版的 Safari。可輕鬆安裝 { -brand-name-firefox }、Chrome、Brave、Edge 與 Opera 甚至可並排使用。
+compare-index-the-first-thing-to-point-out-v2 = 首先要提出的是，並非所有瀏覽器都能在所有作業系統運作。儘管很簡單就能在各主要作業系統安裝使用 { -brand-name-firefox }、Chrome、Edge、Brave 及 Opera，但 Safari 僅能於 Apple 系統中運作。Apple 行動裝置內建了行動版 Safari，而大部分 Android 裝置也內建由製造商客製化的瀏覽器。很簡單就能安裝 { -brand-name-firefox }、Chrome、Brave、Edge 與 Opera，甚至可以同時使用。
 compare-index-browsers-have-come-a-long = 自從 { -brand-name-chrome } 推出並佔據瀏覽器市場佔有率以來，各家瀏覽器都大有進步。大多數現代瀏覽器已經弭平可攜帶性與功能性上的差距，在某些領域甚至還超越了 { -brand-name-chrome }。但究竟哪套瀏覽器最適合您，還是取決於您的需求，以及在上網時最看重的東西。
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } 是由非營利組織 { -brand-name-mozilla } 在背後全力相挺。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } 在打造產品與做事時都最看重您的隱私。我們相信，您有權決定要如何、與誰分享個人資訊。{ -brand-name-firefox } 盡量減少資料收集，也永遠不會出賣您的資料。我們只為了讓產品與軟體功能變得更好來收集少量資料、不偷偷摸摸，更提供透明且實際的隱私保護。

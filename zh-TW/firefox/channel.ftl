@@ -56,4 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = 透過 { -brand-name-ap
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = 透過 { -brand-name-apple } 的 { -brand-name-test-flight } 應用程式測試 { -brand-name-firefox } for { -brand-name-ios }。
 firefox-channel-sign-up-now = 立刻訂閱
-firefox-channel-nightly-update-one-or-more-times = 注: { -brand-name-firefox-nightly } 大約每天更新一到兩次。
+firefox-channel-nightly-update-one-or-more-times = 註：{ -brand-name-firefox-nightly } 每天約更新一到兩次。

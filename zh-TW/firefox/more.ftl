@@ -42,7 +42,7 @@ seven-of-the = 七套最佳瀏覽器功能比較
 six-of-the-best = 六套最佳瀏覽器功能比較
 # Obsolete string
 we-compare-firefox = 我們將 { -brand-name-firefox } 與 { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } 等瀏覽器進行比較，幫助您做決定。
-we-compare-firefox-v2 = 我們將 { -brand-name-firefox } 與 Chrome、Edge、Safari、Opera 及 Brave 進行比較幫助您做決定。
+we-compare-firefox-v2 = 我們將 { -brand-name-firefox } 與 Chrome、Edge、Safari、Opera 及 Brave 進行比較，幫助您做決定。
 comparing-firefox-chrome = 比較 { -brand-name-firefox-browser }與 { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = 大，不一定好。選擇獨立的瀏覽器。
 comparing-firefox-brave = 比較 { -brand-name-firefox-browser } 與 { -brand-name-brave }
