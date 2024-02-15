@@ -11,10 +11,6 @@ learn-more-about = Spoznajte { -brand-name-firefox }ove brskalnike in izdelke, k
 learn-more-faq = Pogosta vprašanja o { -brand-name-firefox }u
 the-history-of = Zgodovina spletnih brskalnikov
 firefox-has-been = { -brand-name-firefox } obstaja že skoraj od samega začetka.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: upornik z razlogom
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } je neodvisen in pod okriljem neprofitne organizacije { -brand-name-mozilla }, ki se bori za vaše pravice na spletu in dela internet dostopen vsakomur, povsod.
 what-is-a = Kaj je spletni brskalnik?
 a-web-browser = Spletni brskalnik je program, ki vas ponese po internetu in vam omogoča ogled besedil, slik in videoposnetkov od koderkoli na svetu.
 update-your-browser = Posodobite svoj brskalnik na hitri in varni { -brand-name-firefox }.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 new-school-meets = Nova šola sreča staro šolo v najhitrejšem brskalniku doslej.
 firefox-for-windows = { -brand-name-firefox } za 64-bitni { -brand-name-windows }
 we-worry-about = Skrbimo za varnost vaših podatkov, da vam ni treba.
+# Obsolete string
 seven-of-the = Sedem najboljših brskalnikov v neposredni primerjavi
+six-of-the-best = Šest najboljših brskalnikov v neposredni primerjavi
+# Obsolete string
 we-compare-firefox = { -brand-name-firefox } smo primerjali z brskalniki { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } in { -brand-name-ie }, da bi vam pomagali pri odločitvi.
+we-compare-firefox-v2 = Da bi se lažje odločili, smo { -brand-name-firefox } primerjali z brskalniki Chrome, Edge, Safari, Opera in Brave.
 comparing-firefox-chrome = Primerjava: { -brand-name-firefox-browser } in { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Največji ni nujno najboljši. Raje izberite neodvisnost.
 comparing-firefox-brave = Primerjava: { -brand-name-firefox-browser } in { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Več zaščite. Manj skrbi.
 were-obsessed-with = Varovanje vaše zasebnosti nam je zelo pomembno. Zato je { -brand-name-firefox }ovo zasebno brskanje zmogljivejše od kateregakoli drugega.
 incognito-browser-what = Inkognito brskalnik: kaj to v resnici pomeni
 firefox-calls-it = { -brand-name-firefox } to imenuje zasebno brskanje, { -brand-name-chrome } pa način brez beleženja zgodovine. Oba vam omogočata brskanje po spletu brez shranjevanja zgodovine brskanja.
-# Obsolete string
-take-the-stress = Brez stresa poiščite varen brskalnik.
-# Obsolete string
-building-a-safe = Razvoj varnega brskalnika je umetnost in znanost, ker ni določenih pravil.
 firefox-more-fingerprinter-blocking = Zavračanje sledilcev prstnih odtisov
 firefox-more-fingerprinting-is-a = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki – zato ga { -brand-name-firefox-browser } preprečuje.
 firefox-more-translate-the-web = Prevedite splet
