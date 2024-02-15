@@ -27,17 +27,17 @@ compare-index-conclusion = 结论：
 compare-index-and-the-winner-is = 最终获胜者是…
 # Obsolete string
 compare-index-find-out-how-firefox-chrome = 了解 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave } 和 { -brand-name-ie } 在隐私、实用和平台支持方面有何不同。
-compare-index-find-out-how-firefox-chrome-v2 = 了解 { -brand-name-firefox }、Chrome、Edge、Safari、Opera 和 Internet Explorer 在隐私、实用性和平台支持方面有何不同。
+compare-index-find-out-how-firefox-chrome-v2 = 了解 { -brand-name-firefox }、Chrome、Edge、Safari、Opera 和 Brave 在隐私、实用性和平台支持方面有何不同。
 # Obsolete string
 compare-index-looking-for-a-better-browser = 寻找更好的浏览器？我们将 { -brand-name-firefox } 与 { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave } 和 { -brand-name-ie } 进行比较，以便助您作出选择。
-compare-index-looking-for-a-better-browser-v2 = 在寻找更好的浏览器？我们将 { -brand-name-firefox } 与 Chrome、Edge、Safari、Opera、Internet Explorer 进行比较，帮助您作出选择。
+compare-index-looking-for-a-better-browser-v2 = 在寻找更好的浏览器？我们将 { -brand-name-firefox } 与 Chrome、Edge、Safari、Opera、Brave 进行比较，帮助您作出选择。
 # Obsolete string
 compare-index-so-is-your-browser-the-best = 那么，您的浏览器是最好的网页浏览器吗？合适的浏览器可以极大改善您的网络体验。因此，闲话少叙，让我们来比较一下 { -brand-name-google } { -brand-name-chrome }、{ -brand-name-firefox }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-microsoft } { -brand-name-ie } 和 { -brand-name-edge }，看看哪款最符合您的需求。
 compare-index-so-is-your-browser-the-best-v2 = 那么，您的浏览器是最好的网页浏览器吗？合适的浏览器可以极大改善您的网络体验。因此，闲话少叙，让我们来比较一下 Google Chrome、{ -brand-name-firefox }、Safari、Opera、Brave 和 Edge，看看哪款最符合您的需求。
 compare-index-since-your-browser-is-your = 浏览器是您通往互联网的入口，因此速度、安全性、隐私和实用性至关重要。近年来，{ -brand-name-google } { -brand-name-chrome } 成为很多人的首选浏览器。但在网络广告似已无处不在、数据外泄事件登上头条屡见不鲜的今天，越来越多的人开始寻求浏览器提供更多隐私和尊重。
 # Obsolete string
 compare-index-the-first-thing-to-point-out = 首先要指出的是，并非所有浏览器都能在所有操作系统运行。尽管 { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-brave } 及 { -brand-name-opera } 能在各主要操作系统运行，且很容易安装，但 { -brand-name-ie } 和 { -brand-name-safari } 仅能运行于 { -brand-name-microsoft } 或 Apple 各自的系统中。Apple 移动设备预装移动版 { -brand-name-safari }，而大多数 { -brand-name-android } 设备都预装其制造商的定制版浏览器。{ -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-brave }、{ -brand-name-edge } 和 { -brand-name-opera } 均可以轻松安装，甚至可以同时使用。
-compare-index-the-first-thing-to-point-out-v2 = 关于跨平台性首先要指出的是并非所有浏览器都可以在所有操作系统上运行。 { -brand-name-firefox }、Chrome、Edge、Brave 和 Opera 可在所有主流系统上运行且安装简单但 Safari 仅能在 Apple 自有系统上运行。 Apple 的移动设备上预装了 Safari 浏览器移动版大多数 Android 设备预装了由设备制造商针对设备进行的浏览器修改。 { -brand-name-firefox }、Chrome、Brave、Edge 与 Opera 可轻松安装甚至同时使用。
+compare-index-the-first-thing-to-point-out-v2 = 首先要指出的是，并非所有浏览器都能在全部操作系统上运行。尽管 { -brand-name-firefox }、Chrome、Edge、Brave 和 Opera 能在各主要操作系统上运行，且很容易安装，Safari 却仅能运行于 Apple 自有系统中。Apple 移动设备预装移动版 Safari，大多数 Android 设备则预装其制造商的定制版浏览器。{ -brand-name-firefox }、Chrome、Brave、Edge 和 Opera 均可以轻松安装，甚至可以同时使用。
 compare-index-browsers-have-come-a-long = 自 { -brand-name-chrome } 推出并占领市场份额以来，各个浏览器已经取得了长足的进步。大多数现代浏览器已经缩小了在跨平台和功能方面的差距，在一些方面，如速度和隐私，实际上已经超过了 { -brand-name-chrome }。不过，决定哪款浏览器适合您，最终将取决于您的个人需求和网络浏览最看重的体验取向。
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } 由非营利组织 { -brand-name-mozilla } 全力支持。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } 始终将您的隐私置于首位 — 我们说到做到。我们相信，您有权决定要与谁、以如何方式共享自己的个人信息。{ -brand-name-firefox } 遵守数据收集最小化原则，并承诺永远不会出售您的数据。我们只收集为改进产品和功能所需的数据，绝不隐瞒，提供高透明度和真正的隐私。

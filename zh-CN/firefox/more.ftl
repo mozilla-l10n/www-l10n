@@ -42,7 +42,7 @@ seven-of-the = 七款最佳浏览器同台对比
 six-of-the-best = 六款最佳浏览器同台对比
 # Obsolete string
 we-compare-firefox = 我们将 { -brand-name-firefox } 与 { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave } 和 { -brand-name-ie } 进行比较，以便助您作出选择。
-we-compare-firefox-v2 = 我们将 { -brand-name-firefox } 与 Chrome、Edge、Safari、Opera 和 Brave 进行比较以便您作出选择。
+we-compare-firefox-v2 = 我们将 { -brand-name-firefox } 与 Chrome、Edge、Safari、Opera 和 Brave 进行比较，帮助您作出选择。
 comparing-firefox-chrome = { -brand-name-firefox-browser }与 { -brand-name-google } { -brand-name-chrome } 之间的比较
 big-isnt-always = 大，并不总意味着好。请选择独立自主的。
 comparing-firefox-brave = { -brand-name-firefox-browser }与 { -brand-name-brave } 之间的比较
