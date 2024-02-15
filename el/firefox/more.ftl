@@ -11,10 +11,6 @@ learn-more-about = Μάθετε περισσότερα σχετικά με τα 
 learn-more-faq = Συχνές ερωτήσεις για το { -brand-name-firefox }
 the-history-of = Η ιστορία των προγραμμάτων περιήγησης
 firefox-has-been = Το { -brand-name-firefox } ήταν εκεί σχεδόν από την αρχή.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Επανάσταση με ιδανικά
-# Obsolete string
-firefox-is-independent = Το { -brand-name-firefox } είναι ανεξάρτητο και υποστηρίζεται από τη μη κερδοσκοπική { -brand-name-mozilla }, η οποία μάχεται για τα διαδικτυακά σας δικαιώματα και κάνει το διαδίκτυο διαθέσιμο σε οποιονδήποτε, οπουδήποτε.
 what-is-a = Τι είναι ένα πρόγραμμα περιήγησης ιστού;
 a-web-browser = Ένα πρόγραμμα περιήγησης σας μεταφέρει οπουδήποτε στο διαδίκτυο, προβάλλοντας κείμενο, εικόνες και βίντεο από όλο τον κόσμο.
 update-your-browser = Ενημερώστε το πρόγραμμα περιήγησής σας στο γρήγορο και ασφαλές { -brand-name-firefox }.
@@ -41,7 +37,10 @@ firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
 new-school-meets = Το νέο συναντά το παλιό στο πιο γρήγορο πρόγραμμα περιήγησης.
 firefox-for-windows = { -brand-name-firefox } για { -brand-name-windows } 64-bit
 we-worry-about = Ανησυχούμε για την ασφάλεια των δεδομένων σας, ώστε να μη χρειάζεται να το κάνετε εσείς.
+# Obsolete string
 seven-of-the = Τα επτά καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
+six-of-the-best = Τα έξι καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
+# Obsolete string
 we-compare-firefox = Συγκρίνουμε το { -brand-name-firefox } με τα { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } and { -brand-name-ie } για να σας βοηθήσουμε να αποφασίσετε.
 comparing-firefox-chrome = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Οι μεγάλες εταιρείες δεν είναι πάντα καλύτερες. Επιλέξτε την ανεξαρτησία σας.
@@ -61,10 +60,6 @@ firefox-more-protection = { -brand-name-firefox }: Περισσότερη προ
 were-obsessed-with = Έχουμε εμμονή με την προστασία του απορρήτου σας. Γι' αυτό κάναμε την Ιδιωτική περιήγηση του { -brand-name-firefox } ισχυρότερη έναντι των άλλων.
 incognito-browser-what = Ιδιωτική περιήγηση: Μάθετε τι σημαίνει πραγματικά
 firefox-calls-it = Το { -brand-name-firefox } το ονομάζει ιδιωτική περιήγηση, το { -brand-name-chrome } ανώνυμη περιήγηση. Και τα δύο σας επιτρέπουν να περιηγηθείτε στο διαδίκτυο χωρίς αποθήκευση ιστορικού περιήγησης.
-# Obsolete string
-take-the-stress = Βρείτε ένα ασφαλές πρόγραμμα περιήγησης χωρίς άγχος.
-# Obsolete string
-building-a-safe = Η ανάπτυξη ενός ασφαλούς προγράμματος περιήγησης είναι τέχνη και επιστήμη, επειδή δεν υπάρχουν κανόνες.
 firefox-more-fingerprinter-blocking = Φραγή fingerprinter
 firefox-more-fingerprinting-is-a = Το fingerprinting είναι ένας τύπος online καταγραφής και είναι πιο επεμβατικό από την καταγραφή βάσει cookie — γι' αυτό, αποκλείεται από το { -brand-name-firefox-browser }.
 firefox-more-translate-the-web = Μετάφραση του web

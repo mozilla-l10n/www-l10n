@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Δοκιμάστε τι
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Δοκιμάστε τις εκδόσεις beta του { -brand-name-firefox } για { -brand-name-ios } μέσω του προγράμματος { -brand-name-test-flight } της { -brand-name-apple }.
 firefox-channel-sign-up-now = Εγγραφή τώρα
+firefox-channel-nightly-update-one-or-more-times = Σημείωση: το { -brand-name-firefox-nightly } θα ενημερώνεται περίπου μία ή δύο φορές την ημέρα.
