@@ -5,7 +5,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # HTML page title, also used for the main title
-compare-index-seven-of-the-best-browsers-in = Tujuh pelayar terbaik dalam bandingan langsung
 compare-index-six-of-the-best-browsers-fallback = Enam pelayar terbaik dalam bandingan langsung
 
 # Sub-headline
@@ -27,15 +26,23 @@ compare-index-how-well-does-your-browser = Seberapa baikkah pelayar anda berfung
 compare-index-almost-all-of-the-browsers = Hampir semua pelayar yang dibandingkan di sini membolehkan penyelarasan antara desktop dan peranti mudah alih. Anda memerlukan akaun untuk melakukannya, yang boleh anda gunakan untuk log masuk ke pelayar pada semua peranti dan menyelaraskan perkara seperti kata laluan, sejarah pelayaran, tandabuku dan tetapan.
 compare-index-conclusion = Kesimpulan:
 compare-index-and-the-winner-is = Dan pemenangnya ialah…
+
+# Obsolete string
 compare-index-find-out-how-firefox-chrome = Ketahui perbezaan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } dan { -brand-name-ie } dari segi privasi, utiliti dan kemudahalihan.
-compare-index-find-out-how-firefox-fallback = Ketahui perbezaan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } dan { -brand-name-ie } dari segi privasi, utiliti dan kemudahalihan.
+
+
+# Obsolete string
 compare-index-looking-for-a-better-browser = Sedang mencari pelayar yang lebih baik? Kami akan bandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } dan { -brand-name-ie } untuk membantu anda membuat keputusan.
-compare-index-looking-for-a-better-fallback = Sedang mencari pelayar yang lebih baik? Kami akan bandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } dan { -brand-name-ie } untuk membantu anda membuat keputusan.
+
+
+# Obsolete string
 compare-index-so-is-your-browser-the-best = Jadi, adakah pelayar anda pelayar terbaik untuk segala yang anda lakukan dalam talian? Pelayar yang tepat membawa perbezaan besar kepada pengalaman anda di web. Jadi, tanpa berlengah lagi, mari kita bandingkan { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, { -brand-name-microsoft }, { -brand-name-ie } dan { -brand-name-edge } — dan lihat pelayar manakah yang memenuhi keperluan anda dengan baik.
-compare-index-so-is-your-browser-the-fallback = Jadi, adakah pelayar anda pelayar terbaik untuk segala yang anda lakukan dalam talian? Pelayar yang tepat membawa perbezaan besar kepada pengalaman anda di web. Jadi, tanpa berlengah lagi, mari kita bandingkan { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-microsoft }, { -brand-name-ie } dan { -brand-name-edge } — dan lihat pelayar manakah yang memenuhi keperluan anda dengan baik.
+
 compare-index-since-your-browser-is-your = Oleh sebab pelayar anda merupakan pintu masuk anda ke internet, kepantasan, keselamatan, privasi dan utiliti adalah yang paling penting. Dalam beberapa tahun kebelakangan ini, { -brand-name-google } { -brand-name-chrome } telah menjadi pelayar pilihan ramai. Tetapi, saat iklan dalam talian nampaknya mengekori kita ke mana-mana dan kebocoran data menjadi tajuk utama berita, ramai yang mula mahukan lebih banyak privasi dan rasa hormat daripada pelayar mereka.
+
+# Obsolete string
 compare-index-the-first-thing-to-point-out = Perkara utama yang perlu diperhatikan tentang kemudahalihan ialah, tidak semua pelayar berjalan pada semua sistem operasi. Walaupun { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-brave } dan { -brand-name-opera } berfungsi pada semua sistem utama dan mudah dipasang, { -brand-name-ie } dan { -brand-name-safari } hanya berfungsi pada { -brand-name-microsoft } dan sistem Apple sendiri. Versi mudah alih { -brand-name-safari } sudah sedia terpasang pada peranti mudah alih Apple, manakala kebanyakan peranti { -brand-name-android } dilengkapi dengan pelayar sedia terpasang yang telah diubah suai oleh pengeluar untuk peranti tersebut. { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-brave }, { -brand-name-edge } dan { -brand-name-opera } boleh dipasang dengan mudah. Malah, boleh digunakan sebelah-menyebelah.
-compare-index-the-first-thing-to-point-fallback = Perkara utama yang perlu diperhatikan tentang kemudahalihan ialah, tidak semua pelayar berjalan pada semua sistem operasi. Walaupun { -brand-name-firefox }, { -brand-name-chrome } dan { -brand-name-opera } berfungsi pada semua sistem utama dan mudah dipasang, { -brand-name-ie }, { -brand-name-edge } dan { -brand-name-safari } hanya berfungsi pada { -brand-name-microsoft } dan sistem Apple sendiri. Versi mudah alih { -brand-name-safari } sudah sedia terpasang pada peranti mudah alih Apple, manakala kebanyakan peranti { -brand-name-android } dilengkapi dengan pelayar sedia terpasang yang telah diubah suai oleh pengeluar untuk peranti tersebut. { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge } dan { -brand-name-opera } boleh dipasang dengan mudah. Malah, boleh digunakan sebelah-menyebelah.
+
 compare-index-browsers-have-come-a-long = Pelayar telah semakin membangun sejak { -brand-name-chrome } diperkenalkan dan mengambil alih bahagian pasaran. Kebanyakan pelayar moden telah menutup jurang kemudahalihan dan fungsi dan dalam beberapa perkara, seperti kepantasan dan privasi, pelayar-pelayar moden ini sebenarnya telah melebihi { -brand-name-chrome }. Akan tetapi, menentukan pelayar manakah yang sesuai untuk anda akan sentiasa bergantung pada keperluan individu anda dan perkara yang paling dihargai semasa menavigasi dalam talian.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } disokong oleh organisasi bukan untung { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } mengutamakan privasi anda — dalam semua perkara yang kami buat dan lakukan. Kami percaya yang anda berhak memutuskan cara dan orangnya untuk anda berkongsi maklumat peribadi anda. { -brand-name-firefox } mengumpulkan sedikit data sahaja dan tidak pernah menjualnya. Sedikit data yang kami kumpulkan itu digunakan hanya untuk menghasilkan produk dan ciri yang lebih baik. Tiada rahsia. Tetapi banyak ketelusan dan privasi sebenar.

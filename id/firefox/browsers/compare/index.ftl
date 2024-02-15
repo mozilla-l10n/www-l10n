@@ -5,7 +5,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # HTML page title, also used for the main title
-compare-index-seven-of-the-best-browsers-in = Perbandingan langsung dengan tujuh peramban terbaik
 compare-index-six-of-the-best-browsers-fallback = Perbandingan langsung enam peramban terbaik
 
 # Sub-headline
@@ -27,15 +26,23 @@ compare-index-how-well-does-your-browser = Seberapa baik peramban Anda bekerja d
 compare-index-almost-all-of-the-browsers = Hampir semua peramban yang dibandingkan di sini memungkinkan sinkronisasi antara desktop dan perangkat seluler. Anda perlu akun untuk melakukannya, yang dapat digunakan untuk masuk ke peramban di semua perangkat dan menyinkronkan hal-hal seperti kata sandi, riwayat penelusuran, markah, dan pengaturan.
 compare-index-conclusion = Kesimpulan:
 compare-index-and-the-winner-is = Dan pemenangnya adalah…
+
+# Obsolete string
 compare-index-find-out-how-firefox-chrome = Cari tahu perbedaan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } dan { -brand-name-ie } dalam hal privasi, kegunaan, dan portabilitas.
-compare-index-find-out-how-firefox-fallback = Cari tahu perbedaan { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, dan { -brand-name-ie } dalam hal privasi, kegunaan, dan portabilitas.
+
+
+# Obsolete string
 compare-index-looking-for-a-better-browser = Mencari peramban yang lebih baik? Kami membandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, dan { -brand-name-ie } untuk membantu Anda membuat keputusan.
-compare-index-looking-for-a-better-fallback = Mencari peramban yang lebih baik? Kami akan membandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, dan { -brand-name-ie } untuk membantu Anda membuat keputusan.
+
+
+# Obsolete string
 compare-index-so-is-your-browser-the-best = Jadi, apakah peramban Anda adalah yang terbaik untuk semua yang Anda lakukan secara daring? Peramban yang tepat dapat membuat perbedaan yang sangat besar dalam pengalaman Anda berinternet. Maka, tanpa basa-basi, mari kita bandingan { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, { -brand-name-microsoft } { -brand-name-ie }, dan { -brand-name-edge } — dan lihat mana yang paling sesuai dengan kebutuhan Anda.
-compare-index-so-is-your-browser-the-fallback = Jadi, apakah peramban Anda adalah yang terbaik untuk semua yang Anda lakukan secara daring? Peramban yang tepat dapat membuat perbedaan yang sangat besar dalam pengalaman Anda berinternet. Maka, tanpa basa-basi, mari kita bandingan { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-microsoft }, { -brand-name-ie }, dan { -brand-name-edge } — dan lihat mana yang paling sesuai dengan kebutuhan Anda.
+
 compare-index-since-your-browser-is-your = Kecepatan, keamanan, privasi dan kemampuan peramban Anda sangatlah penting karena peramban adalah gerbang Anda menuju internet. Dalam beberapa tahun terakhir, { -brand-name-google } { -brand-name-chrome } telah menjadi peramban pilihan banyak orang. Namun saat iklan daring tampak mengikuti kita ke mana saja dan pembobolan data menjadi berita utama, banyak orang mulai menuntut lebih banyak privasi dan rasa hormat dari peramban mereka.
+
+# Obsolete string
 compare-index-the-first-thing-to-point-out = Hal pertama yang perlu dicermati tentang portabilitas adalah tidak semua peramban berjalan di semua sistem operasi. Meskipun { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-brave }, dan { -brand-name-opera } bekerja pada semua sistem utama dan mudah diinstal, { -brand-name-ie } dan { -brand-name-safari } hanya berfungsi pada sistem { -brand-name-microsoft } dan Apple miliknya sendiri. Versi seluler { -brand-name-safari } sudah dipasang secara baku di perangkat seluler Apple, dan sebagian besar perangkat { -brand-name-android } dilengkapi dengan peramban yang sudah dipasang secara baku, yang dimodifikasi oleh pabrikan untuk perangkat tersebut. { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-brave }, { -brand-name-edge }, dan { -brand-name-opera } dapat dengan mudah dipasang dan bahkan digunakan berdampingan.
-compare-index-the-first-thing-to-point-fallback = Hal pertama yang perlu dicermati tentang portabilitas adalah tidak semua peramban berjalan di semua sistem operasi. Meskipun { -brand-name-firefox }, { -brand-name-chrome }, dan { -brand-name-opera } bekerja pada semua sistem utama dan mudah diinstal, { -brand-name-ie }, { -brand-name-edge }, dan { -brand-name-safari } hanya berfungsi pada sistem { -brand-name-microsoft } dan Apple sendiri. Versi seluler { -brand-name-safari } sudah dipasang secara baku di perangkat seluler Apple, dan sebagian besar perangkat { -brand-name-android } dilengkapi dengan peramban yang sudah dipasang secara baku, yang dimodifikasi oleh pabrikan untuk perangkat tersebut. { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge } dan { -brand-name-opera } dapat dengan mudah diinstal dan bahkan digunakan berdampingan.
+
 compare-index-browsers-have-come-a-long = Peramban telah berkembang lebih jauh sejak { -brand-name-chrome } diperkenalkan dan mengambil alih pangsa pasar. Sebagian besar peramban modern telah menutup celah pada portabilitas dan fungsionalitas, dan di beberapa area, seperti kecepatan dan privasi, sebenarnya banyak yang telah melampaui { -brand-name-chrome }. Namun, menentukan peramban mana yang tepat untuk Anda akan selalu tergantung pada kebutuhan pribadi dan apa yang paling Anda hargai saat menjelajah secara daring.
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } didukung oleh organisasi nirlaba { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } mengutamakan privasi Anda — dalam segala hal yang kami buat dan lakukan. Kami yakin Anda memiliki hak untuk memutuskan bagaimana dan dengan siapa Anda membagikan informasi pribadi. { -brand-name-firefox } mengumpulkan data sesedikit mungkin dan tidak pernah menjualnya. Sedikit data yang kami kumpulkan hanya digunakan untuk membuat produk dan fitur peramban menjadi lebih baik. Tidak ada rahasia. Tetapi banyak transparansi dan privasi yang nyata.

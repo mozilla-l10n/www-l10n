@@ -5,7 +5,6 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # HTML page title, also used for the main title
-compare-index-seven-of-the-best-browsers-in = सात सबसे बढ़िया ब्राउज़र्स की सीधी तुलना
 compare-index-six-of-the-best-browsers-fallback = छः सबसे बढ़िया ब्राउज़र्स की सीधी तुलना
 
 # Sub-headline
@@ -27,15 +26,23 @@ compare-index-how-well-does-your-browser = आपका ब्राउज़र
 compare-index-almost-all-of-the-browsers = यहॉं तुलना किए गए तकरीबन सारे ही ब्राउज़र्स डेस्कटॉप और मोबाइल डिवाइस के बीच सिंक्रोनाइजेशन की अनुमति देते हैं। आपको ऐसा करने के लिए एक एकाउंट की ज़रूरत होगी, जिसे आप हर एक डिवाइस में ब्राउज़र में लॉग इन करने और चीज़ों को सिंक्रोनाइज़ करने के लिए उपयोग कर सकते हैं, जैसे कि पासवर्ड, ब्राउज़िंग इतिहास, बुकमार्क और सेटिंग्स।
 compare-index-conclusion = निष्कर्ष :
 compare-index-and-the-winner-is = और विजेता है…
+
+# Obsolete string
 compare-index-find-out-how-firefox-chrome = पता लगाएँ कैसे निजता, उपयोगिता और पोर्टेबिलिटी के लिहाज़ से { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } और { -brand-name-ie } में अंतर है।
-compare-index-find-out-how-firefox-fallback = पता लगाएँ कैसे निजता, उपयोगिता और पोर्टेबिलिटी के लिहाज़ से { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera } और { -brand-name-ie } में अंतर है।
+
+
+# Obsolete string
 compare-index-looking-for-a-better-browser = क्या बेहतर ब्राउज़र की तलाश में हैं? हम { -brand-name-firefox } की तुलना { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } और { -brand-name-ie } के साथ करके आपको निर्णय लेने में सहायता करते हैं।
-compare-index-looking-for-a-better-fallback = क्या बेहतर ब्राउज़र की तलाश में हैं? तो ठीक है, अपना निर्णय लेने में मदद के लिए, { -brand-name-firefox } की { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, और { -brand-name-ie } के साथ तुलना करें।
+
+
+# Obsolete string
 compare-index-so-is-your-browser-the-best = तो क्या आपका ब्राउज़र क्या जो आप ऑनलाइन करते हैं उसके लिए सबसे बेहतर है? एक सही ब्राउज़र आपके वेब के अनुभव में एक बड़ा बदलाव ला सकता है। इसलिए, बिना देर किए, आइए तुलना करते हैं, { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, { -brand-name-microsoft } { -brand-name-ie } और { -brand-name-edge } की — और देखते हैं आपकी ज़रूरतों के लिहाज़ से सबसे बेहतर कौन है।
-compare-index-so-is-your-browser-the-fallback = तो क्या आपका ब्राउज़र क्या जो आप ऑनलाइन करते हैं उसके लिए सबसे बेहतर है? एक सही ब्राउज़र आपके वेब के अनुभव में एक बड़ा बदलाव ला सकता है। इसलिए, बिना देर किए, आइए तुलना करते हैं, { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-microsoft }, { -brand-name-ie } और { -brand-name-edge } की — और देखते हैं आपकी ज़रूरतों के लिहाज़ से सबसे बेहतर कौन है।
+
 compare-index-since-your-browser-is-your = क्योंकि आपका ब्राउज़र आपके इंटरनेट का गेटवे है इसलिए गति, सुरक्षा, निजता और उपयोगिता, सब चीज़ों से ऊपर है। हाल के सालों में, { -brand-name-google } { -brand-name-chrome } कई लोगों की पसंद का ब्राउज़र बना है। लेकिन जिस दौर में ऑनलाइन विज्ञापन हर जगह हमारा पीछा करते महसूस हो रहे हों और डेटा उल्लंघनों, समाचारों की सुर्खियों में नियमित तौर पर आ रहे हों, कई लोग अब अपने ब्राउज़र्स से और अधिक निजता और सम्मान की मांग कर रहे हैं।
+
+# Obsolete string
 compare-index-the-first-thing-to-point-out = पोर्टिबिलिटी के बारे में ध्यान देने से पहले जो पहली चीज़ है वह यह है कि सारे ऑपरेटिंग सिस्टम्स में सभी ब्राउज़र्स नहीं चलते हैं। हालांकि, { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-brave }, और { -brand-name-opera } सभी महत्वपूर्ण सिस्टम्स में काम करते हैं और इंस्टॉल करने में आसान हैं, { -brand-name-ie } और { -brand-name-safari } केवल { -brand-name-microsoft } और Apple के अपने सिस्टम में काम करते हैं। { -brand-name-safari } का मोबाइल संस्करण Apple मोबाइल डिवाइसों में पहले से ही इंस्टॉल रहता है और अधिकतर { -brand-name-android } डिवाइस एक पहले से ही इंस्टॉल ब्राउज़र के साथ आती हैं जिसे डिवाइस के निर्माता ने संशोधित किया है। { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-brave }, { -brand-name-edge } और { -brand-name-opera } को आसानी से इंस्टॉल किया जा सकता है और एक साथ उपयोग भी किया जा सकता है।
-compare-index-the-first-thing-to-point-fallback = पोर्टिबिलिटी के बारे में ध्यान देने से पहले जो पहली चीज़ है वह यह है कि सारे ऑपरेटिंग सिस्टम्स में सभी ब्राउज़र्स नहीं चलते हैं। जहाँ एक ओर { -brand-name-firefox }, { -brand-name-chrome } और { -brand-name-opera } सभी मुख्य सिस्टम्स में काम करते हैं और इंस्टॉल करने में आसान हैं, { -brand-name-ie }, { -brand-name-edge } और { -brand-name-safari } केवल { -brand-name-microsoft } और Apple के अपने सिस्टम्स में काम करते हैं। { -brand-name-safari } का मोबाइल संस्करण Apple मोबाइल डिवाइस में पहले से ही इंस्टॉल रहता है और अधिकतर { -brand-name-android } डिवाइस पहले से ही इंस्टॉल ब्राउज़र के साथ आती हैं जिसे डिवाइस के निर्माता ने संशोधित किया है। { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge } और { -brand-name-opera } को आसानी से इंस्टॉल किया जा सकता है और यहाँ तक कि साथ साथ उपयोग भी किया जा सकता है।
+
 compare-index-browsers-have-come-a-long = { -brand-name-chrome } को शुरू करने और बाज़ार में इसकी हिस्सेदारी संभालने के बाद से अब ब्राउज़र्स बहुत आगे आ चुके हैं। अधिकतर आधुनिक ब्राउज़र्स ने पोर्टेबिलिटी और फ़ंक्शनलिटी की दूरियों को पाट दिया है और कुछ क्षेत्रों में, जैसे कि गति और निजता में वास्तव में { -brand-name-chrome } को पीछे छोड़ दिया है। अब भी, यह निर्धारित करने में कि कौन सा ब्राउज़र आपके लिए ठीक है आप हमेशा इस बात पर निर्भर रहेंगे कि आपकी व्यक्तिगत आवश्यकताएँ क्या हैं और जब ऑनलाइन होते हैं तो आप किस चीज़ को सबसे अधिक महत्व देते हैं।
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } गैर-लाभ संगठन { -brand-name-mozilla } द्वारा समर्थित है।
 compare-index-firefox-puts-your-privacy = जो भी हम बनाते हैं और करते हैं उसमें { -brand-name-firefox } आपकी निजता को प्राथमिकता देता है। हम मानते हैं कि आपके पास यह निर्धारित करने का अधिकार है कि आप किसके साथ अपनी निजी जानकारी को साझा करते हैं। { -brand-name-firefox } जितना संभव हो उतना कम डेटा एकत्र करता है और इसे कभी नहीं बेचता है। कम से कम डेटा जुटाता है और इसे कभी नहीं बेचता है। कोई सीक्रेट नहीं। लेकिन ढेर सारी पारदर्शिता और वास्तविक निजता।
