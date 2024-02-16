@@ -11,10 +11,6 @@ learn-more-about = Saiba mais sobre os navegadores e produtos { -brand-name-fire
 learn-more-faq = Perguntas frequentes sobre o { -brand-name-firefox }
 the-history-of = A história dos navegadores web
 firefox-has-been = O { -brand-name-firefox } está aí desde quase o início.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebelde com uma causa
-# Obsolete string
-firefox-is-independent = O { -brand-name-firefox } é independente e respaldado pela organização sem fins lucrativos { -brand-name-mozilla }, que luta por seus direitos online e torna a internet acessível a todos, em qualquer lugar.
 what-is-a = O que é um navegador web?
 a-web-browser = Um navegador web leva você a qualquer lugar na internet, permitindo ver textos, imagens e vídeos de qualquer lugar do mundo.
 update-your-browser = Troque seu navegador para o rápido, seguro e protegido { -brand-name-firefox }.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-school-meets = A nova escola encontra a velha escola com o navegador mais rápido ainda.
 firefox-for-windows = { -brand-name-firefox } para { -brand-name-windows } 64 bits
 we-worry-about = Nós nos preocupamos com a segurança de seus dados para que você não precise fazer isso.
+# Obsolete string
 seven-of-the = Sete dos melhores navegadores em comparação direta
+six-of-the-best = Seis dos melhores navegadores em comparação direta
+# Obsolete string
 we-compare-firefox = Comparamos o { -brand-name-firefox } com { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } e { -brand-name-ie } para lhe ajudar a decidir.
+we-compare-firefox-v2 = Comparamos o { -brand-name-firefox } com Chrome, Edge, Safari, Opera e Brave para te ajudar a decidir.
 comparing-firefox-chrome = Comparação entre { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Ser grande nem sempre significa ser melhor. Em vez disso, escolha independência.
 comparing-firefox-brave = Comparação entre { -brand-name-firefox-browser } e { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Mais proteção. Menos preocu
 were-obsessed-with = Somos obcecados em proteger sua privacidade. É por isso que fizemos a navegação privativa do { -brand-name-firefox } ser mais poderosa que a dos outros.
 incognito-browser-what = Navegação anônima: o que realmente significa
 firefox-calls-it = O { -brand-name-firefox } chama de navegação privativa, o { -brand-name-chrome } chama de modo anônimo. Ambos permitem que você navegue na web sem salvar o histórico de navegação.
-# Obsolete string
-take-the-stress = Acabe com o estresse de encontrar um navegador seguro.
-# Obsolete string
-building-a-safe = Construir um navegador seguro é uma arte e uma ciência, porque não existem regras definidas.
 firefox-more-fingerprinter-blocking = Bloqueio de rastreamento de identidade digital
 firefox-more-fingerprinting-is-a = <i>Fingerprinting</i> (rastreamento de identidade digital) é um tipo de rastreamento online mais invasivo do que o rastreamento comum baseado em cookies. É por isso que o { -brand-name-firefox-browser } bloqueia.
 firefox-more-translate-the-web = Traduza a web
