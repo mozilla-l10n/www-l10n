@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
-nightly-firstrun-firefox-nightly = Trang khi { -brand-name-firefox-nightly } chạy lần đầu
+nightly-firstrun-firefox-nightly = Trang khi chạy lần đầu tiên của { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Cảm ơn bạn đã sử dụng { -brand-name-firefox-nightly }
 nightly-firstrun-choose-an-area = Chọn một khu vực dưới đây để tham gia và làm cho { -brand-name-firefox } trở nên tốt hơn cho người dùng khắp mọi nơi
 nightly-firstrun-test = Thử nghiệm
