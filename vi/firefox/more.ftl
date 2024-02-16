@@ -11,10 +11,6 @@ learn-more-about = Tìm hiểu thêm về các trình duyệt và sản phẩm c
 learn-more-faq = Câu hỏi thường gặp về { -brand-name-firefox }
 the-history-of = Lịch sử của các trình duyệt web
 firefox-has-been = { -brand-name-firefox } đã ở đó gần như ngay từ đầu.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Nổi loạn với một lý do
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } độc lập và được hỗ trợ bởi tổ chức phi lợi nhuận { -brand-name-mozilla }, tổ chức đấu tranh vì quyền trực tuyến của bạn và giúp mọi người ở mọi nơi có thể truy cập Internet.
 what-is-a = Trình duyệt web là gì?
 a-web-browser = Trình duyệt web đưa bạn đến mọi nơi trên internet, cho phép bạn xem văn bản, hình ảnh và video từ mọi nơi trên thế giới.
 update-your-browser = Cập nhật trình duyệt của bạn lên { -brand-name-firefox } nhanh, an toàn và bảo mật.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } dành cho { -brand-name-linux }
 new-school-meets = Trường mới gặp trường cũ với trình duyệt nhanh nhất.
 firefox-for-windows = { -brand-name-firefox } dành cho { -brand-name-windows } 64-bit
 we-worry-about = Chúng tôi lo lắng về sự an toàn dữ liệu của bạn nên bạn không cần phải làm như vậy.
+# Obsolete string
 seven-of-the = Bảy trong số các trình duyệt tốt nhất được so sánh
+six-of-the-best = Sáu trong số các trình duyệt tốt nhất được so sánh
+# Obsolete string
 we-compare-firefox = Chúng tôi so sánh { -brand-name-firefox } với { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } và { -brand-name-ie } để giúp bạn đưa ra quyết định.
+we-compare-firefox-v2 = Chúng tôi so sánh { -brand-name-firefox } với Chrome, Edge, Safari, Opera và Brave để giúp bạn đưa ra quyết định.
 comparing-firefox-chrome = So sánh { -brand-name-firefox-browser } với { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Lớn không phải lúc nào cũng tốt nhất. Thay vào đó hãy chọn sự độc lập.
 comparing-firefox-brave = So sánh { -brand-name-firefox-browser } với { -brand-name-brave }
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Bảo vệ nhiều hơn, lo l
 were-obsessed-with = Chúng tôi bị ám ảnh bởi việc bảo vệ sự riêng tư của bạn. Đó là lý do tại sao chúng tôi tạo ra chế độ duyệt web riêng tư { -brand-name-firefox } mạnh hơn các trình duyệt khác.
 incognito-browser-what = Trình duyệt ẩn danh: Ý nghĩa thực sự của nó
 firefox-calls-it = { -brand-name-firefox } gọi nó là duyệt web riêng tư, { -brand-name-chrome } gọi nó là chế độ ẩn danh. Cả hai đều cho phép bạn duyệt web mà không cần lưu lịch sử duyệt web của bạn.
-# Obsolete string
-take-the-stress = Đừng căng thẳng khi tìm kiếm một trình duyệt an toàn.
-# Obsolete string
-building-a-safe = Xây dựng một trình duyệt an toàn là một nghệ thuật và khoa học vì không có quy tắc nào được thiết lập.
 firefox-more-fingerprinter-blocking = Chặn dấu vết (Fingerprinter)
 firefox-more-fingerprinting-is-a = Dấu vết là một loại theo dõi trực tuyến xâm lấn hơn so với theo dõi dựa trên cookie thông thường — đó là lý do tại sao { -brand-name-firefox-browser } chặn nó.
 firefox-more-translate-the-web = Dịch trang web

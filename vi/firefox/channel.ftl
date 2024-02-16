@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -32,7 +32,7 @@ firefox-channel-check-out-new-android-features = Kiểm tra các tính năng m�
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-nightly-is-an-unstable-testing = Hàng đêm là một nền tảng phát triển và thử nghiệm không ổn định. Theo mặc định, { -brand-name-nightly } gửi dữ liệu đến { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý các vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } là một nền tảng thử nghiệm và phát triển không ổn định. Theo mặc định, { -brand-name-nightly } sẽ gửi dữ liệu tới { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } tự động gửi phản hồi cho { -brand-name-mozilla }.
 firefox-channel-try-new-browser-features = Thử các tính năng duyệt web mới ở các phiên bản tiền phát hành | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Trải nghiệm các tính năng trình duyệt tiên tiến trong các phiên bản tiền phát hành: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Tải xuống ngay!
@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Kiểm tra các phiên 
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Kiểm tra các phiên bản beta của { -brand-name-firefox } cho { -brand-name-ios } thông qua chương trình { -brand-name-test-flight } của { -brand-name-apple }.
 firefox-channel-sign-up-now = Đăng ký ngay
+firefox-channel-nightly-update-one-or-more-times = Lưu ý: { -brand-name-firefox-nightly } sẽ cập nhật khoảng một hoặc hai lần mỗi ngày.
