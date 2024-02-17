@@ -28,6 +28,7 @@ vpn-features-connect-up-to =
        *[other] { $devices } cihaz bağlayabilme imkânı
     }
 vpn-features-supported-platforms = Windows, macOS, Android, iOS ve Linux işletim sistemlerinde desteklenir.
+vpn-features-fast-network = Oyun oynarken bile yüksek hızda bağlantı
 vpn-features-secure = Güvenli
 vpn-features-block-ads = Reklamverenlerin sizi hedeflemesini engelleyin
 vpn-features-encrypt-your-internet = Tüm internet trafiğinizi şifreleyin

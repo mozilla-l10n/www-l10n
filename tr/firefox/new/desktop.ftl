@@ -163,6 +163,8 @@ firefox-desktop-download-now-else = Şimdi { -brand-name-firefox } <strong>yükl
 firefox-desktop-download-now-windows = Şimdi indirdiğiniz yükleyiciyi <strong>çalıştırın</strong>.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Şimdi indirdiğiniz dosyayı <strong>açın</strong>.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Aşağıdan bir <strong>indirme</strong> seçeneği seçin
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Sorun yaşıyorsanız <a { $attrs }>kurulumla ilgili yardım alabilirsiniz</a>.

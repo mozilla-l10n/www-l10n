@@ -58,3 +58,7 @@ download-button-linux-32 = { -brand-name-linux } 32 bit sürümünü indir
 download-button-linux-64 = { -brand-name-linux } 64 bit sürümünü indir
 download-button-linux-32-v2 = 32 bit Linux sürümünü indir
 download-button-linux-64-v2 = 64 bit Linux sürümünü indir
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Debian, Ubuntu veya herhangi bir Debian tabanlı dağıtım mı kullanıyorsunuz?<br> Bunun yerine <a { $attrs }>APT depomuzu</a> kurabilirsiniz.
