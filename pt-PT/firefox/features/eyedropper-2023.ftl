@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
-features-eyedropper-eyedropper-tool = Ferramenta de contorno
-features-eyedropper-select-colors-in-firefox = Selecionar cores no { -brand-name-firefox } com a ferramenta conta-gotas
+features-eyedropper-eyedropper-tool = Ferramenta de extração de cor
+features-eyedropper-select-colors-in-firefox = Extraia cores no { -brand-name-firefox } com a ferramenta de extração de cor
 # HTML page description
 features-eyedropper-identify-the-exact-color-on-a = Identifica a cor exata numa página e copia o seu código hexadecimal.
 features-eyedropper-there-are-a-lot-of-reasons = Existem várias razões para querer saber o código hexadecimal de cor exato de uma cor específica numa página web — talvez você construa páginas web ou seja um designers gráficos. A ferramenta conta-gotas, na versão para computador do { -brand-name-firefox }, permite encontrar códigos de cores hexadecimais exatos, apenas colocando o rato sob qualquer cor que veja numa página de Internet. Um clique irá copiar esse valor de cor para a sua área de transferência.
