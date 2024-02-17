@@ -164,7 +164,7 @@ firefox-desktop-download-now-windows = Agora <strong>execute</strong> o ficheiro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Agora <strong>abra</strong> o ficheiro que acabou de transferir.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = Selecione uma opção de <strong>transferir</strong> abaixo
+firefox-desktop-download-select-linux = Selecione uma opção de <strong>transferência</strong> abaixo
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Está a ter problemas? <a { $attrs }>Obtenha ajuda com a sua instalação</a>.
