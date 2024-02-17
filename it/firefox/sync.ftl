@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
@@ -12,7 +12,7 @@ firefox-sync-sync-your-firefox = Sincronizza { -brand-name-firefox } su tutti i 
 firefox-sync-privacy-made-easy = La privacy facilitata
 firefox-sync-all-you-need = Per usare { -brand-name-firefox-sync } ti serve soltanto un { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Critta i tuoi dati
-firefox-sync-your-encryption-key = La tua chiave di crittografia rimane un segreto noto solo a te e ai dispositivi autorizzati.
+firefox-sync-your-encryption-key = La tua chiave crittografica rimane un segreto noto solo a te e ai dispositivi autorizzati.
 firefox-sync-feel-safe = Puoi sentirti al sicuro
 firefox-sync-we-store-your = Archiviamo i tuoi dati crittati sui nostri server in modo tale che nemmeno noi possiamo leggerli.
 firefox-sync-start-syncing-in = Inizia la sincronizzazione in quattro semplici passaggi:
