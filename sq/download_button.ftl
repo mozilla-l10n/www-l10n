@@ -49,3 +49,16 @@ download-firefox-esr = Shkarkoni { -brand-name-firefox-esr }-in
 download-firefox-esr-32 = Shkarkoni { -brand-name-firefox-esr }-in 32-bit
 download-firefox-esr-64 = Shkarkoni { -brand-name-firefox-esr }-in 64-bit
 download-a-different-build = Shkarkoni një tjetër montim
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Shkarkoni { -brand-name-linux } 32-bit
+# Obsolete string
+download-button-linux-64 = Shkarkoni { -brand-name-linux } 64-bit
+download-button-linux-32-v2 = Shkarkojeni për Linux 32-bit
+download-button-linux-64-v2 = Shkarkojeni për Linux 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Përdorni Debian, Ubuntu ose çfarëdo shpërndarje me bazë Debian-in?<br> Mund të caktoni depon tonë apt <a { $attrs }>, në vend të saj</a>.

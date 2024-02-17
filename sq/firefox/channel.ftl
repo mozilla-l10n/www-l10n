@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Provoni versione beta t
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Provoni versione beta të { -brand-name-firefox }-it për { -brand-name-ios } përmes programit { -brand-name-test-flight } të { -brand-name-apple }-it
 firefox-channel-sign-up-now = Regjistrohuni që tani
+firefox-channel-nightly-update-one-or-more-times = Shënim: { -brand-name-firefox-nightly } do të përditësohet afërsisht një ose dy herë në ditë.

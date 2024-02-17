@@ -11,10 +11,6 @@ learn-more-about = Mësoni më tepër rreth shfletuesve dhe produkteve { -brand-
 learn-more-faq = PBR rreth { -brand-name-firefox }-it
 the-history-of = Historiku i shfletuesve
 firefox-has-been = { -brand-name-firefox }-i ka qenë i pranishëm thuajse që prej fillimit.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebel me një kauzë
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox }-i është i pavarur dhe ka prapa entin jofitimprurës { -brand-name-mozilla }, që lufton për të drejtat tuaja internetore dhe e bën Internetin të përdorshëm nga cilido, kudo.
 what-is-a = Ç’është një shfletues?
 a-web-browser = Një shfletues ju shpie kudo në internet, duke ju lënë të shihni tekst, figura dhe video nga kudo në botë.
 update-your-browser = Përditësojeni shfletuesin tuaj me { -brand-name-firefox }-in e shpejtë, e parrezik dhe të sigurt.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } për { -brand-name-linux }
 new-school-meets = Shkolla e re takon shkollën e vjetër me shfletuesin më të shpejtë deri sot.
 firefox-for-windows = { -brand-name-firefox } për { -brand-name-windows } 64-bit
 we-worry-about = Shqetësohemi ne për sigurinë e të dhënave tuaja, që të mos ju duhet juve.
+# Obsolete string
 seven-of-the = Shtatë nga shfletuesit më të mirë në krahasim të drejtpërdrejtë
+six-of-the-best = Gjashtë nga shfletuesit më të mirë në krahasim të drejtpërdrejtë
+# Obsolete string
 we-compare-firefox = Do të krahasojmë { -brand-name-firefox }-in me { -brand-name-chrome }-in, { -brand-name-edge }-in, { -brand-name-safari }-in, { -brand-name-opera }-n, { -brand-name-brave }-in dhe { -brand-name-ie }-in, që t’ju ndihmojmë të ndani mendjen.
+we-compare-firefox-v2 = Krahasojmë { -brand-name-firefox }-in me Chrome-in, Edge-in, Safari-in, Opera-n dhe Brave-in, që t’ju ndihmojmë të ndani mendjen.
 comparing-firefox-chrome = Krahasim i { -brand-name-firefox-browser } me { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = E madhja s’është përherë më e mira. Në vend të kësaj, zgjidhni pavarësinë.
 comparing-firefox-brave = Krahasim i { -brand-name-firefox-browser }-it me { -brand-name-brave }-in
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: Më tepër mbrojtje. Më pak 
 were-obsessed-with = Mbrojtjen e privatësisë e kemi fiksim. Ja pse e bëmë Shfletimin Privat nën { -brand-name-firefox } edhe më të fuqishëm se ai i të tjerëve.
 incognito-browser-what = Shfletues inkonjito: Ç’do të thotë faktikisht
 firefox-calls-it = { -brand-name-firefox }-i e quan shfletim privat, { -brand-name-chrome }-i e quan mënyra inkonjito. Që të dyja ju lënë të shfletoni internetin pa ruajtur historik të shfletimit tuaj.
-# Obsolete string
-take-the-stress = Hiqini lodhjen gjetjes së një shfletuesi të parrezik.
-# Obsolete string
-building-a-safe = Ndërtimi i një shfletuesi të parrezik është art dhe shkencë bashkë, ngaqë për këtë punë s’ka rregulla të caktuara.
 firefox-more-fingerprinter-blocking = Bllokim Krijuesish Shenjash Gishtash
 firefox-more-fingerprinting-is-a = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
 firefox-more-translate-the-web = Përktheni internetin

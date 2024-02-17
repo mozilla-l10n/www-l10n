@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Bllokon gjurmues shoqërorësh
 firefox-desktop-download-os-availability = Pasje në OS
 firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda shfletuesit
 firefox-desktop-download-primary-password = Fjalëkalim parësor
-# Obsolete string
-firefox-desktop-love-your-life = Duajeni jetën tuaj internetore
-# Obsolete string
-firefox-desktop-its-your-internet = Është interneti juaj. Ngjyroseni si doni, me mijëra mjete, tema dhe zgjerime. { -brand-name-firefox }-i është shfletuesi alternativ që vendos njerëzit përpara fitimeve.
-# Obsolete string
-firefox-desktop-download-master-password = Fjalëkalim i përgjithshëm
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
 firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
 firefox-desktop-download-see-your-report = Shihni raportim tuaj të mbrojtjes
@@ -157,8 +151,6 @@ firefox-desktop-download-youve-already-got-the-browser = E keni tashmë shfletue
 firefox-desktop-download-watch-for-hackers-with-v3 = Vëzhgoni për hacker-a me { -brand-name-mozilla-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Vëzhgoni për hacker-a me { -brand-name-firefox-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Vëzhgoni për hacker-a, përmes { -brand-name-firefox-monitor }, mbroni fjalëkalimet me { -brand-name-firefox-lockwise }, etj.
 firefox-desktop-download-get-more-from-firefox = Përfitoni Më Tepër Nga { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
@@ -171,13 +163,13 @@ firefox-desktop-download-now-else = Tani përfundoni <strong>instalimin</strong>
 firefox-desktop-download-now-windows = Tani <strong>vini në punë</strong> instaluesin që sapo shkarkuat.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Tani <strong>hapni</strong> kartelën që sapo shkarkuat.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Përzgjidhni  më poshtë një mundësi <strong>shkarkimi</strong>
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Keni vështirësi? <a { $attrs }>Merrni ndihmë për instalimin tuaj</a>.
 firefox-desktop-download-in-another-language = Shkarkojeni në një gjuhë tjetër ose për një tjetër sistem operativ.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Nëse shihni një njoftim që thotë se aplikacioni që po provoni të instaloni s’është aplikacion i verifikuar nga { -brand-name-microsoft }, klikoni mbi “Instaloje, sido qoftë” ose <a { $attrs }>ndryshoni rregullime mbi rekomandim aplikacionesh</a>.
@@ -185,10 +177,6 @@ firefox-desktop-download-visit-support-for-more = Për Më Tepër Hollësi, Vizi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">s’furnizon më përditësime sigurie</a> për { -brand-name-windows } { -brand-name-xp } apo { -brand-name-vista }, por prapë mundeni ta përdorni { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Keni në përdorim një sistem operativ jo të sigurt, të vjetruar, <a href="{ $url }">që s’mbulohet më nga { -brand-name-firefox }-i</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

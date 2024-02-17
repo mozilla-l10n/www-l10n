@@ -21,6 +21,8 @@ home-product-relay-masks = Maska email & telefon të lehta për t’u përdorur
 home-cta-get-relay = Merrni { -brand-name-relay }-në
 home-product-vpn-trust = Një VPN të cilës mund t’i zini besë
 home-cta-get-vpn = Merrni { -brand-name-mozilla-vpn }
+home-product-monitor-data = Sinjalizime cenimesh të dhënash
+home-cta-get-monitor = Merrni { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien e gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca në zemër të mënyrës se si funksionojnë këto sisteme komplekse.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
