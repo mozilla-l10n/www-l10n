@@ -7,9 +7,9 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Evite a desinformação na Internet – o { -brand-name-firefox } está aqui para ajudar
-misinformation-page-desc = A desinformação é irritante, distrativa e cara. O { -brand-name-firefox } tem algumas dicas para evitar informação falsa – e ver menos ao navegar na web.
-misinformation-page-subheading = Consulte dicas para ver menos desinformação e focar no que é importante para si
-misinformation-what-is-heading = O que é desinformação? O que é a desinformação?
+misinformation-page-desc = A desinformação é irritante, distrativa e cara. O { -brand-name-firefox } tem algumas dicas para evitar informação falsa – e ver menos desinformação ao navegar na web.
+misinformation-page-subheading = Consulte as dicas para ver menos desinformação e focar-se no que é importante para si
+misinformation-what-is-heading = O que é a informação falsa? O que é a desinformação?
 misinformation-disinformation = Desinformação, desinformação - provavelmente já deve ter ouvido estes termos no passado e questionado se e como estes diferem no significado. É a intenção que as destaca: A desinformação é qualquer tipo de informação falsa que as pessoas possam enganar. É comprovadamente incorreto ou enganador, mas não foi criado ou partilhado com a intenção de enganar as pessoas. A desinformação, por outro lado, é criada e divulgada de forma a desinformar e atingir um determinado objetivo.
 misinformation-ultimately-harmful = Em última análise, a desinformação e a desinformação podem ser prejudiciais. Não é só que as pessoas vão acreditar na informação incorreta, a informação falsa custa muito dinheiro à poupança global e pode ameaçar a Demologia e a governação eficiente. E é difícil parar porque as notícias falsas espalharam-se de forma muito mais rápida, profunda e ampla do que as notícias corretas.
 misinformation-false-info-heading = Onde é que as informações falsas são apresentadas?
