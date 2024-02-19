@@ -42,6 +42,7 @@ seven-of-the = Τα επτά καλύτερα προγράμματα περιή�
 six-of-the-best = Τα έξι καλύτερα προγράμματα περιήγησης σε άμεση σύγκριση
 # Obsolete string
 we-compare-firefox = Συγκρίνουμε το { -brand-name-firefox } με τα { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } and { -brand-name-ie } για να σας βοηθήσουμε να αποφασίσετε.
+we-compare-firefox-v2 = Συγκρίνουμε το { -brand-name-firefox } με τα Chrome, Edge, Safari, Opera και Brave για να σας βοηθήσουμε να αποφασίσετε.
 comparing-firefox-chrome = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Οι μεγάλες εταιρείες δεν είναι πάντα καλύτερες. Επιλέξτε την ανεξαρτησία σας.
 comparing-firefox-brave = Σύγκριση του { -brand-name-firefox-browser } με το { -brand-name-brave }
