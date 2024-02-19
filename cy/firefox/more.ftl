@@ -42,7 +42,7 @@ seven-of-the = Cymharu'r saith porwr gorau yn uniongyrchol
 six-of-the-best = Cymhariaeth o'r chwech porwyr gorau
 # Obsolete string
 we-compare-firefox = Rydym yn cymharu { -brand-name-firefox } â { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ac { -brand-name-ie } i'ch helpu chi i benderfynu.
-we-compare-firefox-v2 = Rydym yn cymharu { -brand-name-firefox } â Chrome, Edge, Safari, Opera a Brave i'ch helpu i wneud eich penderfyniad.
+we-compare-firefox-v2 = Rydym yn cymharu { -brand-name-firefox } â Chrome, Edge, Safari, Opera a Brave i'ch helpu i benderfynu.
 comparing-firefox-chrome = Cymharu { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Nid Mawr sydd orau bob tro. Dewiswch annibyniaeth yn ei le.
 comparing-firefox-brave = Cymharu { -brand-name-firefox-browser } â { -brand-name-brave }
