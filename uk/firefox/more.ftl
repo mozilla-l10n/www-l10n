@@ -37,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } для { -brand-name-linux }
 new-school-meets = Нова школа зустрічає стару школу з найшвидшим донині браузером.
 firefox-for-windows = { -brand-name-firefox } для 64-розрядної { -brand-name-windows }
 we-worry-about = Ми турбуємось про безпеку ваших даних, тож вам не потрібно цього робити.
+# Obsolete string
 seven-of-the = Сім кращих браузерів у прямому порівнянні
+six-of-the-best = Порівняння шести найкращих браузерів
+# Obsolete string
 we-compare-firefox = Ми порівнюємо { -brand-name-firefox } із { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } та { -brand-name-ie }, щоб допомогти вам визначитися.
+we-compare-firefox-v2 = Ми порівнюємо { -brand-name-firefox } із Chrome, Edge, Safari, Opera та Brave, щоб допомогти вам прийняти рішення.
 comparing-firefox-chrome = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } із { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Велике — не завжди найкраще. Виберіть замість цього незалежність.
 comparing-firefox-brave = Порівняння { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } та { -brand-name-brave }
