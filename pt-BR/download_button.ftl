@@ -20,7 +20,7 @@ download-button-mozilla-no-longer-provides = <a href="{ $url }">A { -brand-name-
 download-button-please-follow-these = Siga <a href="{ $url }">estas instruções</a> para instalar o { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = O seu sistema não atende aos <a href="{ $url }">requisitos</a> para executar o { -brand-name-firefox }.
+download-button-your-system-does-not = Seu sistema não atende aos <a href="{ $url }">requisitos</a> para executar o { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } para outras plataformas e idiomas
 download-button-update-your-firefox = Atualize seu { -brand-name-firefox }
 download-button-get-firefox-android = Instale o { -brand-name-firefox } para { -brand-name-android }
