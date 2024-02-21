@@ -11,7 +11,9 @@ home-mission-driven = Řízeno posláním. Poháněno lidmi.
 home-were-not-normal = Nejsme běžná technologická společnost. Věci, které vytváříme, upřednostňují lidi a jejich soukromí před ziskem. Existujeme proto, abychom z internetu udělali zdravější a šťastnější místo pro všechny.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Zdraví internetu a online života je důvodem, proč existujeme.“
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla(case: "gen") }
+home-mitchell-baker-v2 = Mitchell Baker, výkonný předseda představenstva, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } vytváří produkty, které respektují soukromí
 home-product-firefox-browsing = Soukromé a bezpečné prohlížení
 home-cta-get-firefox = Získat { -brand-name-firefox(case: "acc") }
