@@ -11,10 +11,6 @@ learn-more-about = Saper plus re navigatores e productos { -brand-name-firefox }
 learn-more-faq = Folio a questiones re { -brand-name-firefox }
 the-history-of = Le historia de navigatores del Web
 firefox-has-been = { -brand-name-firefox } ha essite illac depost quasi le initio.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: rebelle con causa
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } es independente e supportate per le organisation non lucrative { -brand-name-mozilla }, que lucta pro tu derectos online e rende internet accessibile a totes, ubique.
 what-is-a = Que es un navigator del Web?
 a-web-browser = Un navigator del Web te porta ubique sur internet, te consenti vider texto, imagines e video non importa ubi tu es in le mundo.
 update-your-browser = Actualisa tu navigator al veloce, secur e fidabile { -brand-name-firefox }.
@@ -41,7 +37,10 @@ firefox-for-linux = { -brand-name-firefox } pro { -brand-name-linux }
 new-school-meets = Nove schola reuni vetere schola con le plus veloce navigator de sempre
 firefox-for-windows = { -brand-name-firefox } pro { -brand-name-windows } 64-bit
 we-worry-about = Nos cura le securitate de tu datos, assi tu non debe.
+# Obsolete string
 seven-of-the = Septe del melior navigatores in directe comparation
+six-of-the-best = Sex del melior navigatores in comparation directe
+# Obsolete string
 we-compare-firefox = Nos compara { -brand-name-firefox } con { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } e { -brand-name-ie } pro te adjutar a prender le decision.
 comparing-firefox-chrome = Comparation inter { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Grande non es sempre le melior. Elige in vice le independentia.
@@ -61,10 +60,6 @@ firefox-more-protection = { -brand-name-firefox }: major protection. Minor preoc
 were-obsessed-with = Nos es maniac con le protection de tu confidentialitate. Pro isto nos ha facite le Navigation private de { -brand-name-firefox } plus potente que le alteres.
 incognito-browser-what = Navigator in incognito: que significa vermente?
 firefox-calls-it = { -brand-name-firefox } lo appella navigation private, { -brand-name-chrome } lo appella modo in incognito. Ambes te permitte de navigar le Web sin salvar tu chronologia de navigation.
-# Obsolete string
-take-the-stress = Sparnia te le stress de cercar un navigator secur.
-# Obsolete string
-building-a-safe = Producer un navigator secur es un arte e un scientia perque il non ha alcun regulas preconfigurate.
 firefox-more-fingerprinter-blocking = Blocada de dactylogrammatores
 firefox-more-fingerprinting-is-a = Dactylogrammatores es un typo de traciamento online plus invasive que ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
 firefox-more-translate-the-web = Traducer le web
