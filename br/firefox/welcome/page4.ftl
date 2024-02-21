@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
+# HTML page title
+welcome-page4-download-the-firefox-browser = Pellgargit ar { -brand-name-firefox-browser } war ho hezoug { -brand-name-ios } pe { -brand-name-android }
 welcome-page4-download-firefox-for-your = Pellgargit { -brand-name-firefox } evit ho pellgomz hag ho tablezenn.
 welcome-page4-why-am-i-seeing-this = Perak e welan an dra-mañ?

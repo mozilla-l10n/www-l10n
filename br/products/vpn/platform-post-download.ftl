@@ -19,6 +19,7 @@ vpn-mac-downloading-mozilla-vpn = O pellgargañ { -brand-name-mozilla-vpn } evit
 
 ## Shared strings
 
+vpn-download-unable-to-download = N’haller ket pellgargañ { -brand-name-mozilla-vpn }
 vpn-open-the-file = 1. Digorit ar restr
 vpn-login-or-signup = 3. Kennaskit pa lakait hoc'h anv
 

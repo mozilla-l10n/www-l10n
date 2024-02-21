@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Pellgargañ ar { -brand-name-firefox-browser } evit ho hezoug war { -brand-name-ios } hag { -brand-name-android }
+firefox-mobile-download-the-firefox-browser = Pellgargañ ar { -brand-name-firefox-browser } war ho hezoug { -brand-name-ios } pe { -brand-name-android }
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.
