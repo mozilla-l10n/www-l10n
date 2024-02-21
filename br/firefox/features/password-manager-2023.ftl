@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/customize/
+### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
-features-customize-customize-your-firefox = Personelait ho merdeer { -brand-name-firefox }
+password-manager-import-passwords = Enporzhiañ gerioù-tremen

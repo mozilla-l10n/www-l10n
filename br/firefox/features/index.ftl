@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-read-mozillas-mission = Lennit kefridi { -brand-name-mozilla }
 features-index-enhanced-tracking = Gwarez heuliañ araoket
+features-index-firefox-vs = { -brand-name-firefox } e-skoaz ar verdeerien all
 features-index-download-latest = Pellgargañ stumm diwezhañ { -brand-name-firefox }

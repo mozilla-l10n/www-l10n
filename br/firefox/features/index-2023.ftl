@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-customize-your-firefox-browser = Personelait ho merdeer { -brand-name-firefox }
+features-index-private-browsing-mode = Mod merdeiñ prevez
