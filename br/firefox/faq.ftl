@@ -21,6 +21,7 @@ what-is-firefox = Petra eo { -brand-name-firefox }?
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Ha digoust eo { -brand-name-firefox }?
 is-chrome-better = Gwelloc’h eo { -brand-name-chrome } eget { -brand-name-firefox }?
 
 # Variables:
@@ -36,6 +37,7 @@ is-firefox-safe = Ha diogel eo { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
 
+does-firefox-sell = Daoust ha gwerzhañ a ra { -brand-name-firefox } ho roadennoù personel?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
