@@ -12,7 +12,10 @@ home-were-not-normal = لسنا شركة تكنولوجيا عادية. ينصب
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "نحن هنا لنُوفر الحياة الصحية والآمنة عبر الإنترنت."
+
+# Obsolete string
 home-mitchell-baker = ميتشل بيكر، { -brand-name-mozilla } الرئيس التنفيذي
+
 
 home-mozilla-makes-privacy = تُقدم { -brand-name-mozilla } منتجات تحترم الخصوصية
 home-product-firefox-browsing = تصفّح خاص وآمن

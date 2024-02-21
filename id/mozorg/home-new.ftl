@@ -12,7 +12,10 @@ home-were-not-normal = Kami bukan perusahaan teknologi biasa. Inovasi yang kami 
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Kami ada demi kesehatan internet dan kehidupan daring.”
+
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
+
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } membuat produk yang menghormati privasi
 home-product-firefox-browsing = Penjelajahan yang pribadi & aman

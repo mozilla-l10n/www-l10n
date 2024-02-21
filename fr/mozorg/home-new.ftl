@@ -12,7 +12,10 @@ home-were-not-normal = Nous ne sommes pas une entreprise normale du secteur de l
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = « La bonne santé d’Internet et de la vie en ligne est notre raison d’exister. »
+
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, PDG de { -brand-name-mozilla }
+
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } conçoit des produits qui respectent la vie privée
 home-product-firefox-browsing = Navigation privée et sécurisée

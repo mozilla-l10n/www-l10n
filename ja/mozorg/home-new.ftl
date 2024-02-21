@@ -12,7 +12,10 @@ home-were-not-normal = Mozilla は一般的なテクノロジー企業とは異�
 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = 「インターネットとオンライン生活の健全性、それが Mozilla の存在理由です」
+
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
+
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } は、プライバシーを尊重する製品を作っています
 home-product-firefox-browsing = プライバシーとセキュリティを守るブラウジング
