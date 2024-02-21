@@ -47,6 +47,7 @@ why-is-firefox = Perak eo { -brand-name-firefox } ken gorrek?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+who-owns-firefox = Piv a zo perc’henn war { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
