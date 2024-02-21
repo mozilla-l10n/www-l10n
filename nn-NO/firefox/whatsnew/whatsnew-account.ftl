@@ -19,6 +19,6 @@ whatsnew-account-main-lead-in = { -brand-name-firefox }-nettlesaren samlar inn s
 whatsnew-account-main-button = Logg inn
 whatsnew-account-signed-in-headline = Gjer meir. Bruk { -brand-name-firefox } for mobil.
 whatsnew-account-signed-in-lead-in = Send ei nedlastingslenke til telefonen din.
-whatsnew-account-signed-in-qr-title = Last ned { -brand-name-firefox } til smarttelefonen din og nettbrettet ditt.
+whatsnew-account-signed-in-qr-title = Last ned { -brand-name-firefox } til smarttelefonen din, og nettbrettet ditt.
 # An accessible label for a QR code image
 whatsnew-account-qr-code-alt = Skann denne QR-koden
