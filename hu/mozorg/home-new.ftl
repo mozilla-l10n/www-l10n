@@ -11,7 +11,9 @@ home-mission-driven = Küldetésvezérelt. Emberi erővel.
 home-were-not-normal = Nem egy szokványos technológiai vállalat vagyunk. Az általunk létrehozott dolgok az embereket és az adatvédelmet a haszon elé helyezik. Azért vagyunk, hogy az internetet egy egészségesebb, boldogabb hellyé tegyük, mindenki számára.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Az internet és az online élet egészsége a létünk.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, a { -brand-name-mozilla } vezérigazgatója
+home-mitchell-baker-v2 = Mitchell Baker, az igazgatóság ügyvezető elnöke, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = A { -brand-name-mozilla } az adatvédelmet szem előtt tartó termékeket készít
 home-product-firefox-browsing = Privát és biztonságos böngészés
 home-cta-get-firefox = { -brand-name-firefox } beszerzése
