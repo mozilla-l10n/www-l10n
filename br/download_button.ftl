@@ -42,3 +42,12 @@ download-button-download = Pellgargañ
 download-firefox-esr = Pellgargañ { -brand-name-firefox-esr }
 download-firefox-esr-32 = Pellgargañ { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Pellgargañ { -brand-name-firefox-esr } 64-bit
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Pellgargañ { -brand-name-linux } 32-bit
+# Obsolete string
+download-button-linux-64 = Pellgargañ { -brand-name-linux } 64-bit
+download-button-linux-32-v2 = Pellgargañ evit Linux 32-bit
+download-button-linux-64-v2 = Pellgargañ evit Linux 64-bit

@@ -19,6 +19,7 @@ firefox-new-need-help = Ezhomm skoazell?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+firefox-new-download-almost-there = Tost echu!
 firefox-new-windows = { -brand-name-windows }
 
 # Not-Required

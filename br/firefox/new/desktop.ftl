@@ -22,6 +22,7 @@ firefox-desktop-download-all-your-devices = Stailhit { -brand-name-firefox } war
 firefox-desktop-download-do-it-all = Grit <strong>pep tra</strong> gant { -brand-name-firefox }
 firefox-desktop-download-search-engine-options = Dibaboù al lusker klask
 firefox-desktop-download-reader-mode = Mod lenn
+firefox-desktop-download-spell-check = Gwiriañ ar reizhskrivañ
 firefox-desktop-download-pinned-tabs = Ivinelloù spilhennet
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Stankañ lenn emgefreek ar videoioù hag ar sonioù
@@ -43,4 +44,5 @@ firefox-desktop-download-just-download-the-browser = Pellgargit ar merdeer, ‘t
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Tost echu!
+firefox-desktop-download-in-another-language = Pellgargañ en ur yezh all pe evit ur reizhiad korvoiñ (OS) all.
 firefox-desktop-download-windows = { -brand-name-windows }
