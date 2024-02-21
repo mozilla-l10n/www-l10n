@@ -11,7 +11,9 @@ home-mission-driven = 以使命为动力，共济群力
 home-were-not-normal = 我们不是普通的科技公司。我们的产品以人为本，隐私至上。我们的存在是为了让互联网更健康，让每个人都能乐在其中。
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “我们以保护互联网与在线生活的健康为己任。”
+# Obsolete string
 home-mitchell-baker = { -brand-name-mozilla } CEO - Mitchell Baker
+home-mitchell-baker-v2 = 米切尔·贝克{ -brand-name-mozilla-foundation } 执行委员会主席
 home-mozilla-makes-privacy = { -brand-name-mozilla } 致力打造隐私为先的产品
 home-product-firefox-browsing = 安全私密的浏览体验
 home-cta-get-firefox = 下载 { -brand-name-firefox }
