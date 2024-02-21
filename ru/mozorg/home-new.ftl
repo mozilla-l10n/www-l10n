@@ -11,7 +11,9 @@ home-mission-driven = Целеустремлённый. Народный.
 home-were-not-normal = Мы не просто обычная технологическая компания. Мы создаём вещи, которые ставят людей и их конфиденциальность выше прибыли. Мы существуем, чтобы сделать интернет более здоровым и счастливым местом для всех и каждого.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Здоровье интернета и жизнь в нем — причина нашего существования."
+# Obsolete string
 home-mitchell-baker = Митчелл Бэйкер, генеральный директор { -brand-name-mozilla }
+home-mitchell-baker-v2 = Митчелл Бэйкер, исполнительный директор, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } создает продукты уважающие вашу приватность
 home-product-firefox-browsing = Приватный и защищённый просмотр
 home-cta-get-firefox = Загрузить { -brand-name-firefox }
