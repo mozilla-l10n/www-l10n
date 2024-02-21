@@ -11,7 +11,9 @@ home-mission-driven = Cenhadaeth rymus. Pŵer pobl.
 home-were-not-normal = Nid ydym yn gwmni technoleg arferol. Mae'r pethau rydyn ni'n eu creu yn rhoi pobl yn gyntaf a'u preifatrwydd dros elw. Rydym yn bodoli i wneud y rhyngrwyd yn lle iachach ac hapusach i bawb.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Iechyd y rhyngrwyd a bywyd ar-lein yw pam rydyn ni’n bodoli.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, Prif Swyddog Gweithredol { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, Cadeirydd Gweithredol y Bwrdd, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = Mae { -brand-name-mozilla } yn creu cynnyrch sy'n parchu preifatrwydd
 home-product-firefox-browsing = Pori preifat a diogel
 home-cta-get-firefox = Cael { -brand-name-firefox }
