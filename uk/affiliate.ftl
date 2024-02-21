@@ -14,4 +14,4 @@ affiliate-notification-message = Ми використовуємо файли co
 # label for the button that rejects cookie use
 affiliate-notification-reject = Відхилити
 # label for the button that okays cookie use
-affiliate-notification-ok = Гаразд
+affiliate-notification-ok = OK

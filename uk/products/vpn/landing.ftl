@@ -27,7 +27,7 @@ vpn-landing-brand-trust-desc = Понад 20 років { -brand-name-mozilla } 
 
 ## FAQ section
 
-vpn-landing-faq-heading = ЧаПи
+vpn-landing-faq-heading = Поширені запитання
 vpn-langing-faq-uses-question-heading = Що таке VPN і яке його застосування?
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
@@ -86,7 +86,7 @@ vpn-landing-faq-download-heading = Як мені завантажити { -brand
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
 vpn-landing-faq-download-desc = Відвідайте <a { $attrs }>сторінку завантаження</a> для встановлення { -brand-name-mozilla-vpn } на своєму пристрої, а потім увійдіть з використанням { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
-vpn-landing-faq-link = Докладніше у ЧаП
+vpn-landing-faq-link = Докладніше у поширених запитаннях
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 

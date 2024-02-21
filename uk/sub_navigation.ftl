@@ -25,16 +25,11 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } для комп'юте�
 sub-navigation-features = Можливості
 sub-navigation-support = Підтримка
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Додатки
 sub-navigation-add-ons = Додатки
-sub-navigation-faq = ЧаП
+sub-navigation-faq = Поширені запитання
 sub-navigation-learn-more = Докладніше
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } для мобільних
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Додатки для { -brand-name-android }
-sub-navigation-android-add-ons = Додатки для { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }

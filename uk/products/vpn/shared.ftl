@@ -108,7 +108,7 @@ vpn-shared-platform-what-youll-get = Що ви отримаєте за допо�
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Що таке VPN?
-vpn-subnav-faqs = ЧаПи
+vpn-subnav-faqs = Поширені запитання
 vpn-subnav-get-help = Отримати допомогу
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Для комп'ютера
@@ -131,7 +131,7 @@ vpn-subnav-features = Можливості
 #   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = Ми використовуємо файли cookie, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
 vpn-shared-affiliate-notification-reject = Відхилити
-vpn-shared-affiliate-notification-ok = Гаразд
+vpn-shared-affiliate-notification-ok = OK
 
 ## VPN + Relay bundle offer
 
