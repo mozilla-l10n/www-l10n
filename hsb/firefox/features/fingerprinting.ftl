@@ -14,4 +14,4 @@ features-fingerprinting-every-fingerprint = Kóždy porstowy wotćišć je jónk
 features-fingerprinting-download-firefox = { -brand-name-firefox } sćahnyć
 features-fingerprinting-what-is-fingerprinting-body = Što je slědowanje přez porstowe wotćišće?
 features-fingerprinting-fingerprinting-is-bad = Slědowanje přez porstowe wotćišće je špatne za web
-features-fingerprinting-protect = Škitajcé swoju priwatnosć
+features-fingerprinting-protect = Škitajće swoju priwatnosć
