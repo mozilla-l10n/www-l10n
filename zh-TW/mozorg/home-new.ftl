@@ -11,7 +11,9 @@ home-mission-driven = 以使命為導向，以人為本。
 home-were-not-normal = 我們不是一般的科技公司，我們把人與隱私權看得比利益更重要。我們的存在就是為了要讓網際網路成為一個對每個人來說都更健康、更快樂的地方。
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = 「網際網路與線上生活的健康就是我們存在的理由。」
+# Obsolete string
 home-mitchell-baker = { -brand-name-mozilla } 執行長 Mitchell Baker
+home-mitchell-baker-v2 = { -brand-name-mozilla-foundation } 執行主席 Mitchell Baker
 home-mozilla-makes-privacy = { -brand-name-mozilla } 打造尊重隱私的產品
 home-product-firefox-browsing = 有隱私又安全地上網
 home-cta-get-firefox = 下載 { -brand-name-firefox }
