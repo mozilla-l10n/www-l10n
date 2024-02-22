@@ -13,7 +13,7 @@ home-were-not-normal = No somos una empresa tecnológica normal. Las cosas que c
 home-the-health-of = “La salud de Internet y la vida en línea es la razón por la que existimos”.
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO de { -brand-name-mozilla }
-home-mitchell-baker-v2 = Mitchell Baker, presidente ejecutivo de la junta, { -brand-name-mozilla-foundation }
+home-mitchell-baker-v2 = Mitchell Baker, Presidente Ejecutiva de la Junta, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } hace productos que respetan la privacidad
 home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Conseguí { -brand-name-firefox }
