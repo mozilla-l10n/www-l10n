@@ -11,7 +11,9 @@ home-mission-driven = Conduzido por uma missão. Impulsionado por pessoas.
 home-were-not-normal = Não somos uma empresa normal de tecnologia. As coisas que criamos dão mais prioridade às pessoas e sua privacidade do que a lucros. Existimos para tornar a internet um lugar mais saudável e feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “A saúde da internet e da vida online é o motivo de nossa existência.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO da { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, Presidente Executiva do Conselho, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = A { -brand-name-mozilla } cria produtos que respeitam a privacidade
 home-product-firefox-browsing = Navegação privativa e segura
 home-cta-get-firefox = Use o { -brand-name-firefox }
