@@ -11,7 +11,9 @@ home-mission-driven = Vodeni s poslanstvom. Gnani z ljudmi.
 home-were-not-normal = Nismo običajno tehnološko podjetje. Naši izdelki dajejo ljudem in njihovi zasebnosti prednost pred dobičkom. Obstajamo, da bi iz interneta naredili bolj zdrav in srečnejši kraj za vse.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Zdravje interneta in spletnega življenja je razlog, da obstajamo."
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, izvršna direktorica { -brand-name-mozilla(sklon: "rodilnik") }
+home-mitchell-baker-v2 = Mitchell Baker, izvršna direktorica odbora, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } ustvarja izdelke, ki spoštujejo zasebnost
 home-product-firefox-browsing = Zasebno in varno brskanje
 home-cta-get-firefox = Prenesite { -brand-name-firefox }
@@ -21,6 +23,7 @@ home-product-relay-masks = Preproste in uporabne maske za e-pošto in telefon
 home-cta-get-relay = Pridobite { -brand-name-relay }
 home-product-vpn-trust = VPN, ki mu lahko zaupate
 home-cta-get-vpn = Prenesite { -brand-name-mozilla-vpn }
+home-cta-get-monitor = Pridobite { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } želi svetu pokazati, da je mogoče poslovati z zaupanja vredno umetno inteligenco. To vključuje spoštovanje človekovih pravic, varstva podatkov in transparentnosti v samem jedru teh zapletenih sistemov.«
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
