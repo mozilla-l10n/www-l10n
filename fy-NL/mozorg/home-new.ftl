@@ -11,7 +11,9 @@ home-mission-driven = Oandreaun troch in missy. Mooglik makke troch minsken.
 home-were-not-normal = Wy binne gjin normaal techbedriuw. De dingen dy’t wy meitsje jouwe de foarkar oan minsken en harren privacy boppe winst. Wy besteane om it ynternet foar elkenien in sûner en lokkiger plak te meitsjen.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = ‘De sûnens fan it ynternet en it online libben is wêrom’t wy bestean.’
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO fan { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, Executive Chair fan de Board, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } makket produkten dy’t privacy respektearje
 home-product-firefox-browsing = Privee en feilich sneupe
 home-cta-get-firefox = { -brand-name-firefox } downloade
