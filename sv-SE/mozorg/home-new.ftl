@@ -11,7 +11,9 @@ home-mission-driven = Missionsdriven. Människostyrd.
 home-were-not-normal = Vi är inte ett vanligt teknikföretag. De saker vi skapar prioriterar människor och deras integritet framför vinster. Vi finns till för att göra internet till en hälsosammare och lyckligare plats för alla.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Hälsan hos internet och livet på nätet är därför vi finns."
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, VD { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, verkställande styrelseordförande, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } tillverkar integritetsrespekterande produkter
 home-product-firefox-browsing = Privat och säker surfning
 home-cta-get-firefox = Hämta { -brand-name-firefox }
