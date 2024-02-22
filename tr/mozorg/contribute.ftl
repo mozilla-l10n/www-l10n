@@ -27,7 +27,7 @@ contribute-task-mozilla-codebase-heading = { -brand-name-mozilla } kod tabanına
 contribute-task-mozilla-codebase-desc = Çeşitli geliştirme olanaklarına katkıda bulunarak { -brand-name-mozilla } ürünlerini aktif bir şekilde geliştirin.
 contribute-task-support-desc = { -brand-name-mozilla } ürünlerinin kullanımını kolaylaştırın. { -brand-name-mozilla } Destek forumlarına katılarak kullanıcıların destek taleplerini yanıtlayın.
 contribute-task-join-heading = Topluluğa katılın
-contribute-task-join-desc = { -brand-name-mozilla } topluluğuna daha fazla katkıda bulunmak ister misiniz? Topluluk Portalı'mızdaki tüm olanakları göz atın.
+contribute-task-join-desc = { -brand-name-mozilla } topluluğuna daha fazla katkıda bulunmak ister misiniz? Topluluk Portalı'mızdaki tüm olanaklara göz atın.
 
 ## Mission
 
