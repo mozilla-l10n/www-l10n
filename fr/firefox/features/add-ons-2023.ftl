@@ -6,7 +6,7 @@
 
 features-add-ons-firefox-add-ons = Modules complémentaires pour { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Extensions et modules { -brand-name-firefox }
-features-add-ons-extensions-also-known-as-add-ons = Les extensions, aussi connues sous le nom de modules { -brand-name-firefox }, sont des fonctionnalités supplémentaires que vous pouvez télécharger et installer pour ajouter des capacités et des outils à votre navigateur. Les modules vous permettent de personnaliser votre navigateur { -brand-name-firefox } et d’améliorer votre façon d’utiliser le Web.
+features-add-ons-extensions-also-known-as-add-ons = Les extensions, aussi connues sous le nom de modules complémentaires { -brand-name-firefox }, ou add-ons, sont des fonctionnalités supplémentaires que vous pouvez télécharger et installer pour ajouter des capacités et des outils à votre navigateur. Les modules vous permettent de personnaliser votre navigateur { -brand-name-firefox } et d’améliorer votre utilisation du Web.
 
 # Variables:
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
