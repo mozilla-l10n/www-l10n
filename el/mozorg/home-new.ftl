@@ -11,7 +11,9 @@ home-mission-driven = Προσηλωμένοι στην αποστολή μας.
 home-were-not-normal = Δεν είμαστε μια απλή εταιρεία τεχνολογίας. Τα προϊόντα μας δίνουν προτεραιότητα στους ανθρώπους και το απόρρητό τους, όχι στα κέρδη. Υπάρχουμε για να κάνουμε το διαδίκτυο ένα πιο υγιές και χαρούμενο μέρος για όλους.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = «Η υγεία του διαδικτύου και της διαδικτυακής ζωής είναι ο λόγος που υπάρχουμε.»
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO της { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, Εκτελεστικός πρόεδρος του διοικητικού συμβουλίου, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = Η { -brand-name-mozilla } δημιουργεί προϊόντα που σέβονται το απόρρητο
 home-product-firefox-browsing = Ιδιωτική και ασφαλής περιήγηση
 home-cta-get-firefox = Λήψη του { -brand-name-firefox }
