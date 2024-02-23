@@ -42,7 +42,7 @@ seven-of-the = Sedm nejlepších prohlížečů v přímém srovnání
 six-of-the-best = Šest nejlepších prohlížečů v přímém srovnání
 # Obsolete string
 we-compare-firefox = Porovnali jsme { -brand-name-firefox(case: "acc") } s { -brand-name-chrome(case: "ins") }, { -brand-name-edge(case: "ins") }, { -brand-name-safari(case: "ins") }, { -brand-name-opera(case: "ins") }, { -brand-name-brave(case: "ins") } a { -brand-name-ie(case: "ins") }, abychom vám pomohli s rozhodováním.
-we-compare-firefox-v2 = Abyste se rozhodli lépe, porovnáváme { -brand-name-firefox(case: "acc") } s prohlížeči Chrome, Edgem, Safari, Operou a Brave.
+we-compare-firefox-v2 = Abyste se rozhodli lépe, porovnáváme { -brand-name-firefox(case: "acc") } s prohlížeči Chrome, Edge, Safari, Operou a Brave.
 comparing-firefox-chrome = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-chrome(case: "ins") } od { -brand-name-google(case: "gen") }
 big-isnt-always = Velký není vždy nejlepší. Zvolte raději nezávislost.
 comparing-firefox-brave = Porovnání { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } s { -brand-name-brave(case: "ins") }

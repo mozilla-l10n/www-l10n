@@ -13,7 +13,7 @@ home-were-not-normal = Nejsme běžná technologická společnost. Věci, které
 home-the-health-of = „Zdraví internetu a online života je důvodem, proč existujeme.“
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla(case: "gen") }
-home-mitchell-baker-v2 = Mitchell Baker, výkonný předseda představenstva, { -brand-name-mozilla-foundation }
+home-mitchell-baker-v2 = Mitchell Baker, výkonná předsedkyně správní rady, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } vytváří produkty, které respektují soukromí
 home-product-firefox-browsing = Soukromé a bezpečné prohlížení
 home-cta-get-firefox = Získat { -brand-name-firefox(case: "acc") }
