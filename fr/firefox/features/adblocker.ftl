@@ -20,11 +20,11 @@ features-adblocker-find-the-right-ad-blocker = Trouvez le bloqueur de publicité
 
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Il existe <a href="{ $url }">AdBlocker Ultimate</a> qui vous débarrasse de toutes les publicités, mais ayez conscience que certains de vos journaux et magazines préférés dépendent de la publicité. Trop de personnes bloquant leurs publicités pourraient les mettre en faillite.
+features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> vous débarrasse de toutes les publicités, mais ayez conscience que certains de vos journaux et magazines préférés dépendent de la publicité. Trop de personnes bloquant leurs publicités pourraient les mettre en faillite.
 
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Les annonces pop-up sont les pires. Bloquez-les avec <a href="{ $url }">Popup Blocker</a> et ne soyez plus jamais confronté·e à une autre fenêtre pop-up gênante.
+features-adblocker-popup-ads-are-the-worst = Les publicités en pop-up sont très fatigantes. Bloquez-les avec <a href="{ $url }">Popup Blocker</a> et ne soyez plus jamais confronté·e à une autre fenêtre pop-up gênante.
 
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
