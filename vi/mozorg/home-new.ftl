@@ -11,7 +11,9 @@ home-mission-driven = Định hướng theo sứ mệnh. Được hỗ trợ b�
 home-were-not-normal = Chúng tôi không phải là một công ty công nghệ bình thường. Những thứ chúng tôi tạo ra ưu tiên con người và quyền riêng tư của họ hơn lợi nhuận. Chúng tôi tồn tại để biến Internet thành một nơi lành mạnh hơn, hạnh phúc hơn cho mọi người.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Sức khỏe của Internet và cuộc sống trực tuyến là lý do chúng tôi tồn tại.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, Chủ tịch Hội đồng quản trị, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } tạo ra các sản phẩm tôn trọng quyền riêng tư
 home-product-firefox-browsing = Duyệt web riêng tư & an toàn
 home-cta-get-firefox = Tải { -brand-name-firefox }
