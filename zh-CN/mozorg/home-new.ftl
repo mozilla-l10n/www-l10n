@@ -13,7 +13,7 @@ home-were-not-normal = 我们不是普通的科技公司。我们的产品以人
 home-the-health-of = “我们以保护互联网与在线生活的健康为己任。”
 # Obsolete string
 home-mitchell-baker = { -brand-name-mozilla } CEO - Mitchell Baker
-home-mitchell-baker-v2 = 米切尔·贝克{ -brand-name-mozilla-foundation } 执行委员会主席
+home-mitchell-baker-v2 = 米切尔·贝克，{ -brand-name-mozilla-foundation }董事会执行主席
 home-mozilla-makes-privacy = { -brand-name-mozilla } 致力打造隐私为先的产品
 home-product-firefox-browsing = 安全私密的浏览体验
 home-cta-get-firefox = 下载 { -brand-name-firefox }
