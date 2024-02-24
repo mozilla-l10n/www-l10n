@@ -42,7 +42,7 @@ seven-of-the = A hét legjobb böngésző közvetlen összehasonlítása
 six-of-the-best = A hat legjobb böngésző közvetlen összehasonlítása
 # Obsolete string
 we-compare-firefox = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a { -brand-name-chrome }-mal, az { -brand-name-edge }-dzsel, a { -brand-name-safari }val, az { -brand-name-opera(ending: "accented") }val, a { -brand-name-brave }-vel és az { -brand-name-ie }rel, hogy segítsük a döntésben.
-we-compare-firefox-v2 = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a Chrome-mal, az Edge-dzsel, a Safarival, az Operával és a Braveval, hogy segítsük a döntésben.
+we-compare-firefox-v2 = Összehasonlítjuk a { -brand-name-firefox(case: "accusative") } a Chrome-mal, az Edge-dzsel, a Safarival, az Operával és a Brave-vel, hogy segítsük a döntésben.
 comparing-firefox-chrome = A { -brand-name-firefox-browser } és a { -brand-name-google } { -brand-name-chrome } összehasonlítása
 big-isnt-always = A nagy nem mindig a legjobb. Válassza inkább a függetlenséget.
 comparing-firefox-brave = A { -brand-name-firefox-browser } és a { -brand-name-brave } összehasonlítása
