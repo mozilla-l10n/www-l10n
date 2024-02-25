@@ -6,6 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 banner-vpn-holidays-title = { -brand-name-mozilla-vpn }
+# strong tag is for visual formatting only.
+# <br> tag is a line-break for visual formatting only.
+banner-vpn-holidays-take-20-percent-off = Toś ten dowolowy cas <br> <strong>dostawaśo 20 % wopušćenja na prědne lěto</strong>
 # Variables:
 #   $coupon_code (string) - Inserts a coupon code that can be used to apply a discount at checkout e.g. 'HOLIDAY20'.
 banner-vpn-holidays-use-coupon-code = Wužywajśo kod { $coupon_code } pśi wótlicenju
