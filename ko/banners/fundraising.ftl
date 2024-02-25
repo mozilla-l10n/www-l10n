@@ -11,4 +11,7 @@ banner-fundraising-giving-tuesday-tagline = 이제 거대 기술 기업으로부
 banner-fundraising-title-1 = { -brand-name-mozilla }에 기부하세요. 인터넷을 되찾으세요.
 banner-fundraising-tagline-1 = 이제 거대 기술 기업으로부터 인터넷을 되찾아야 할 때입니다. { -brand-name-mozilla }에 기부해 주실 수 있나요?
 banner-fundraising-title-2 = 인터넷 통제권을 되찾으세요.
+banner-fundraising-tagline-2 = 사람들은 온라인 통제권을 더이상 가지고 있지 않습니다. 거대 기술 기업이 가지고 있죠. { -brand-name-mozilla }에 기부하고 인터넷을 되찾으세요.
+banner-fundraising-title-3 = { -brand-name-mozilla }에 기부해 주실 수 있나요?
+banner-fundraising-tagline-3 = { -brand-name-mozilla }는 언제나 이윤보다 사람들을 먼저 생각합니다. { -brand-name-mozilla }에 기부하고 인터넷이 건강하게 유지되도록 도와주세요.
 banner-fundraising-donate = 기부
