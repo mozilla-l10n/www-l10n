@@ -14,7 +14,7 @@ what-is-firefox = Apakah { -brand-name-firefox } itu?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } merupakan satu-satunya peramban utama yang didukung oleh nirlaba yang tidak menjual data pribadi Anda ke pengiklan sambil membantu Anda melindungi informasi pribadi Anda. Pelajari lebih lanjut mengenai <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lainnya.</a>
 

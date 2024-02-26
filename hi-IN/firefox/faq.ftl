@@ -14,7 +14,7 @@ what-is-firefox = { -brand-name-firefox } क्या है?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } एकमात्र ऐसा प्रमुख ब्राउज़र है जो गैर-लाभ संगठन द्वारा समर्थित है और आपकी निजी जानकारी को सुरक्षित रखने में आपकी मदद करते हुए विज्ञापनदाताओं को आपका व्यक्तिगत डेटा नहीं बेचता है। <a href="{ $url }">{ -brand-name-firefox-browsers }</a> और <a href="{ $url2 }">अन्य उत्पादों</a> के बारे में जानें।
 

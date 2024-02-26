@@ -14,7 +14,7 @@ what-is-firefox = { -brand-name-firefox } とは？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } は主要ブラウザーのうち、非営利組織が運営し、広告主に対するユーザーの個人情報の販売を行わず、個人情報の保護に役立つ唯一のブラウザーです。<a href="{ $url }">{ -brand-name-firefox-browsers }</a> や<a href="{ $url2 }">その他の製品</a>の詳細をご覧ください。
 
