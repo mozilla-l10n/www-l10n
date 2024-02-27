@@ -7,7 +7,7 @@
 features-private-browsing-private-browsing-mode = Mode de navigation privée
 
 # HTML page title
-features-private-browsing-firefox-private-browsing-mode = Mode Navigation privée de { -brand-name-firefox }
+features-private-browsing-firefox-private-browsing-mode = Mode de navigation privée de { -brand-name-firefox }
 
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } protège votre vie privée et bloque les traqueurs qui vous pistent partout sur le web.
