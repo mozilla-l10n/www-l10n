@@ -8,7 +8,7 @@
 features-pip-firefox-picture-in-picture-get-more = Incrustation vidéo { -brand-name-firefox } : gagnez en efficacité avec les vidéos incrustées
 
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = Vous avez des choses à faire et de vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
+features-pip-got-things-to-do-and-things-to-watch = Vous avez des sites web à visiter et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Incrustation vidéo
 
@@ -20,7 +20,7 @@ features-pip-play-the-video = Lire la vidéo
 features-pip-heres-how-it-works = Voici comment ça marche :
 features-pip-play-any-video-in-your-updated = <strong>Visionnez une vidéo</strong> dans votre navigateur { -brand-name-firefox }, comme celle-ci.
 features-pip-play-any-video-in-your = <strong>Regardez n’importe quelle vidéo</strong> dans votre navigateur { -brand-name-firefox }, comme celle de ces petits pandas roux.
-features-pip-click-the-picture-in-picture-button = <strong>Cliquez sur le bouton d’incrustation vidéo</strong> qui apparaît sur la vidéo, et elle prendra la forme d’un pop-up.
+features-pip-click-the-picture-in-picture-button = <strong>Cliquez sur l'icône d’incrustation vidéo</strong> qui apparaît sur la vidéo, et elle prendra la forme d’un pop-up.
 features-pip-cruise-around-to-other = <strong>Consultez d’autres onglets</strong> ou sortez même du navigateur { -brand-name-firefox }. La vidéo reste en place !
 features-pip-repeat-steps-1-3-to-have = <strong>Répétez les étapes 1 à 3</strong> pour regarder autant de vidéos en incrustation que vous désirez.
 features-pip-3-more-ways-to-use-picture = 3 autres façons d’utiliser l’incrustation vidéo
