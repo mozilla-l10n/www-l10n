@@ -52,8 +52,12 @@ download-a-different-build = Prenesi drugo graditev
 
 ## Linux
 
+# Obsolete string
 download-button-linux-32 = Prenesi za { -brand-name-linux } (32-bitni)
+# Obsolete string
 download-button-linux-64 = Prenesi za { -brand-name-linux } (64-bitni)
+download-button-linux-32-v2 = Prenos za Linux (32-bitni)
+download-button-linux-64-v2 = Prenos za Linux (64-bitni)
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
