@@ -17,7 +17,7 @@ features-private-yes-firefox-protects-your = Oui. { -brand-name-firefox } protè
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } protège aussi votre vie privée grâce à la <a href="{ $url }">Protection renforcée contre le pistage</a>, permettant de bloquer les traqueurs qui vous suivent de site en site et collectent des informations sur vos habitudes de navigation. Il inclut également des protections contre les scripts et les logiciels malveillants.
 
-features-private-sidenote-we-are-not-big-tech = <em>Au fait :</em> Nous ne sommes pas un géant de la tech. Nous faisons les choses différemment. Notre indépendance (aucun actionnaire) nous permet de faire passer les personnes avant les profits. À l’inverse de certaines autres entreprises, nous ne vendons pas l’accès à vos données.
+features-private-sidenote-we-are-not-big-tech = <em>Si vous ne le saviez pas :</em> Nous ne sommes pas un géant de la tech, et nous ne faisons pas partie de ce que nous appelons communément les GAFAM. Nous faisons les choses différemment. Notre indépendance (nous n'avons aucun actionnaire) nous permet de donner la priorité aux personnes, et non aux profits. Contrairement à d'autres entreprises, nous ne vendons pas l’accès à vos données.
 features-private-what-information-does-firefox = Quelles informations { -brand-name-firefox } collecte-t-il ?
 
 # Variables:
