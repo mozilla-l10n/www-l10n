@@ -8,7 +8,7 @@
 pinned-tabs-pinned-browser-tabs = Onglets épinglés
 
 # HTML page description
-pinned-tabs-keep-your-favorite-pages-open = Gardez vos pages préférées ouvertes et à portée de clic. Utilisez les onglets épinglés pour garder un œil sur vos e-mails ou votre application de messagerie.
+pinned-tabs-keep-your-favorite-pages-open = Gardez vos sites préférés ouverts et à portée de clic. Utilisez les onglets épinglés pour garder un œil sur vos e-mails ou votre application de messagerie.
 
 pinned-tabs-pinning-a-tab-in-firefox-allows = Épingler un onglet dans { -brand-name-firefox } vous permet de garder vos sites préférés toujours ouverts et accessibles en un clic. Ils s’ouvriront automatiquement dès que vous lancez { -brand-name-firefox }. Cette fonctionnalité est particulièrement utile pour garder à portée de main vos e-mails, ou un site de calendrier, par exemple.
 pinned-tabs-theyre-small-and-you-cant-close = Les onglets épinglés sont petits, et vous ne pouvez pas les fermer par erreur, car ils n’ont pas de bouton « Fermer ». Pour ce faire, vous devrez les désépingler.
