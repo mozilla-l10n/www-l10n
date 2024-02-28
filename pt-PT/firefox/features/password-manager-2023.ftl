@@ -12,11 +12,11 @@ password-manager-firefox-password-manager-saves-all = O Gestor de palavras-passe
 password-manager-firefox-securely-stores-your = O { -brand-name-firefox } guarda com segurança os seus nomes de utilizador e palavras-passe para acesso aos sites, preenchendo estes dados automaticamente da próxima vez que os visitar e, permite que faça a gestão das suas credenciais armazenadas com a respetiva funcionalidade integrada de gestão de palavras-passe.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>grátis { -brand-name-mozilla-account }</a>, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos. Pode também aceder a todos os outros produtos que respeitam a privacidade da { -brand-name-mozilla }.
+password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>{ -brand-name-mozilla-account } gratuita</a>, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos. Também pode aceder a todos os outros produtos da { -brand-name-mozilla } que respeitam a privacidade.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">grátis { -brand-name-mozilla-account }</a>, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos.
+password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a> pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos.
 # Obsolete string
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
