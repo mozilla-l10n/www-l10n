@@ -8,8 +8,8 @@
 # HTML page title
 password-manager-free-password-manager = Gestor de palavras-passe gratuito
 # HTML page description
-password-manager-firefox-password-manager-saves-all = O Gestor de palavras-passe do { -brand-name-firefox } guarda todas as suas palavras-passe num único lugar para que possa iniciar sessão automaticamente em sites, ou recuperar palavras-passe guardadas.
-password-manager-firefox-securely-stores-your = O { -brand-name-firefox } armazena com segurança os seus nomes de utilizador e palavras-passe para aceder a sites, preenchendo-os automaticamente da próxima vez que visitar um site e permite que gira as suas credenciais armazenadas com a sua funcionalidade integrada de gestão de palavras-passe.
+password-manager-firefox-password-manager-saves-all = O Gestor de palavras-passe do { -brand-name-firefox } guarda todas as suas palavras-passe num único sítio para que possa iniciar sessão em sites automaticamente, ou recuperar as palavras-passe guardadas.
+password-manager-firefox-securely-stores-your = O { -brand-name-firefox } guarda com segurança os seus nomes de utilizador e palavras-passe para acesso aos sites, preenchendo estes dados automaticamente da próxima vez que os visitar e, permite que faça a gestão das suas credenciais armazenadas com a respetiva funcionalidade integrada de gestão de palavras-passe.
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>grátis { -brand-name-mozilla-account }</a>, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos. Pode também aceder a todos os outros produtos que respeitam a privacidade da { -brand-name-mozilla }.

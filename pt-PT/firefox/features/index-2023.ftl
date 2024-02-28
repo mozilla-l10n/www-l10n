@@ -35,8 +35,8 @@ features-index-fingerprint-blocking = Bloqueio de identificadores digitais
 features-index-ad-tracker-blocking = Bloqueio de rastreadores de anúncios
 features-index-firefox-automatically-blocks = O { -brand-name-firefox } impede automaticamente que mais de 2000 rastreadores de anúncios o rastreiem pela Internet.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
-features-index-ditch-the-sticky-ads = Esqueça os anúncios que o perseguem na Internet com os bloqueadores, de identificadores digitais, integrados no { -brand-name-firefox }.
+features-index-ditch-the-sticky-ads = Esqueça os anúncios que o perseguem na Internet com os bloqueadores de identificadores digitais integrados no { -brand-name-firefox }.
 features-index-translate-the-web = Traduzir a Internet
-features-index-translate-more-than = Traduza mais de 100 idiomas diretamente para o seu idioma, no seu { -brand-name-firefox } — mais simples do que nunca.
+features-index-translate-more-than = Traduza a partir de mais de 100 idiomas para o seu idioma, diretamente no seu navegador { -brand-name-firefox } – mais simples do que nunca.
 features-index-picture-in-picture = Vídeo em janela flutuante
-features-index-got-things-to-do = Tem coisas para fazer e para ver? Faça as duas coisas com o vídeo numa janela flutuante no { -brand-name-firefox }.
+features-index-got-things-to-do = Tem coisas para fazer e para ver? Faça ambas com o vídeo numa janela flutuante no { -brand-name-firefox }.
