@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-home-firefox-protect-your = { -brand-name-firefox } - Gizliliğinize önem veren ürünlerle internetteki yaşamanızı koruyun
+firefox-home-firefox-protect-your = { -brand-name-firefox } - Gizliliğinize önem veren ürünlerle internetteki yaşamınızı koruyun
 firefox-home-firefox-is-more-than = { -brand-name-firefox } sadece bir tarayıcı değil. Verilerinize saygı gösteren, internette gittiğiniz her yerde gizliliğiniz korumak için tasarlanmış { -brand-name-firefox } ürünleriyle tanışın.
 # Obsolete string
 firefox-home-the-browser-is-just = Tarayıcı sadece başlangıçtı
@@ -18,19 +18,11 @@ firefox-home-know-when-hackers-strike = Hacker saldırılarından haberiniz olsu
 firefox-home-start-getting-breach = İhlal raporlarına kaydolun
 firefox-home-un-spam-your-life = { -brand-name-relay } ile spam’i hayatınızdan çıkarın
 firefox-home-try-relay = { -brand-name-relay }’i deneyin
-# Obsolete string
-firefox-home-keep-your-passwords = Parolalarınızı tüm cihazlarınızda güvenle saklayın
-# Obsolete string
-firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } hakkında bilgi alın
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Hak ettiğiniz <strong>saygıyı</strong> görme zamanı
 # Obsolete string
 firefox-home-every-single-firefox = { -brand-name-firefox } ürünlerinin hepsinde Kişisel Veri Sözü’müzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
 firefox-home-every-single-mozilla = { -brand-name-mozilla } ürünlerinin hepsinde Kişisel Veri Sözü’müzü tutmaya ant içtik: <strong>Daha az veri topla. Güvenle sakla. Sır tutma.</strong>
-# Obsolete string
-firefox-home-share-large-files-without = Büyük dosyaları meraklı gözlere takılmadan paylaşın
-# Obsolete string
-firefox-home-start-sending-files = Dosyaları güvenle göndermeye başlayın
 firefox-home-trade-clickbait-for = Clickbait’i bırakın, kaliteli içeriğe bakın
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } hakkında bilgi alın
 firefox-home-protection-for-your-whole = Her cihazınız için komple koruma.
@@ -38,7 +30,7 @@ firefox-home-protection-for-your-whole = Her cihazınız için komple koruma.
 firefox-home-one-login-all-your = Tüm cihazlarınızda tek hesap. <strong>Gizliliğinize</strong> saygı duyan bir ürün ailesi.
 firefox-home-join-firefox = { -brand-name-firefox }’a katılın
 firefox-home-learn-more-about-joining = { -brand-name-firefox }’a katılma hakkında bilgi alın
-firefox-home-get-the-browser-extension = Tarayıcı eklentisini yükleyin
+firefox-home-get-the-browser-extension = Tarayıcı uzantısını yükleyin
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } eklentisini yükleyin
 firefox-home-download-the-browser = Tarayıcıyı indir
 firefox-home-download-the-app = Uygulamayı indir

@@ -19,7 +19,7 @@ newsletter-form-text = Metin
 newsletter-form-get-firefox-news = { -brand-name-firefox } haberlerini alın
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla }’nın bilgilerimi <a href="{ $url }">bu Gizlilik Notu’nda</a> açıklandığı şekilde kullanmasını kabul ediyorum.
+newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla }’nın bilgilerimi <a href="{ $url }">bu Gizlilik Bildirimi’nde</a> açıklandığı şekilde kullanmasını kabul ediyorum.
 newsletter-form-we-will-only-send = { -brand-name-mozilla } ile ilgili olmayan hiçbir şey göndermiyoruz.
 newsletter-form-we-will-only-send-firefox = { -brand-name-firefox } ile ilgili olmayan hiçbir şey göndermiyoruz.
 newsletter-form-if-you-havent-previously = Daha önce bir { -brand-name-mozilla } bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.

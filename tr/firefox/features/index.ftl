@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/
@@ -21,7 +21,7 @@ features-index-get-an-account = { -brand-name-firefox-account } aç
 features-index-use-the-bookmark = Yer imlerinizi düzenlemek, hızlıca özel adlar ve klasörler eklemek için yıldız simgesini kullanın.
 features-index-from-the-company = Paradan önce insanlığı düşünen bir şirketten
 features-index-private-browsing-mode = Gizli gezinti modu, tarayıcıyı her kapattığınızda çerez verilerini ve gezinti geçmişinizi siler.
-features-index-firefox-automatically = { -brand-name-firefox }, 2.000’den fazla reklam takipçisinin sizi internette takip etmesini otomatik olarak engeller.
+features-index-firefox-automatically = { -brand-name-firefox }, 2.000’den fazla reklam takip kodunun sizi internette takip etmesini otomatik olarak engeller.
 features-index-access-all-passwords = Ücretsiz { -brand-name-firefox-lockwise }, { -brand-name-firefox }’a kaydettiğiniz parolalara her yerden erişmenizi sağlar.
 features-index-just-enough = { -brand-name-firefox } ihtiyacından fazla bellek kullanmaz, böylece bilgisayarınızdaki diğer programlar da yavaşlamadan çalışır.
 features-index-use-less-memory = { -brand-name-firefox } { -brand-name-chrome }’dan daha az bellek tüketir, böylece diğer programlarınız da daha hızlı çalışabilir.

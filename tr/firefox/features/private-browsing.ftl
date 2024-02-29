@@ -8,13 +8,13 @@
 # HTML page title
 features-private-browsing-private-browser = Ekstra izlenme koruması sağlayan gizlilik tarayıcısı
 # HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } çevrimiçi gizliliğini korur ve web'de seni takip eden izleyicileri engeller.
+features-private-browsing-firefox-protects = { -brand-name-firefox } çevrimiçi gizliliğini korur ve web'de seni takip eden takip kodlarını engeller.
 features-private-browsing-download-firefox = { -brand-name-firefox }’u indir
 features-private-browsing-firefox-more-protection = { -brand-name-firefox }: Daha fazla koruma, daha az dert.
 features-private-browsing-were-obsessed-with = Gizliliğini korumaya kafayı taktık. O yüzden { -brand-name-firefox }’un Gizli Gezinti özelliğini tüm rakiplerimizden daha güçlü hale getirdik.
 features-private-browsing-browse-without = İz bırakmadan gez
 features-private-browsing-sharing-is-caring = Paylaşmak güzeldir, ama neyi paylaşacağına sen karar veriyorsan. { -brand-name-firefox } Gizli Gezinti; bilgisayarındaki parolalar, çerezler ve gezinti geçmişi gibi bilgilerini otomatik olarak siler. Tarayıcını kapattığında ardında hiç iz bırakmamış olursun.
-features-private-browsing-catch-those-hidden = Gizli takipçilere yakalanma
+features-private-browsing-catch-those-hidden = Gizli takip kodlarına yakalanma
 features-private-browsing-some-websites-and = Bazı web siteleri ve reklamlar, sen o siteden çıktıktan sonra bile nerelerde gezdiğini kaydeden takip kodları içerir. { -brand-name-firefox } Gizli Gezinti’deki izlenme koruması onları otomatik olarak engeller.
 features-private-browsing-shake-off-tracking = Üstündeki ağırlıkları at
 features-private-browsing-not-only-do-trackers = Takip kodları bilgi toplamakla kalmaz, gezinti hızlarını da yavaşlatabilir. { -brand-name-firefox } Gizli Gezinti, takip kodu içeren reklamları engelleyerek üzerindeki yükü hafifletir ve daha hızlı gezinmeni sağlar.

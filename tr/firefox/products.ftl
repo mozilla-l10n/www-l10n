@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
 # Obsolete string
 # HTML page title
@@ -28,7 +28,7 @@ firefox-products-sign-up-for-breach-alerts = İhlal uyarılarına kaydolun
 # Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox } tarayıcıları
 firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = 2.000’den fazla veri takipçisini otomatik olarak engelleyen tarayıcıları kullanın. Gelişmiş İzlenme Koruması tüm { -brand-name-firefox } tarayıcılarında standart olarak gelir.
+firefox-products-get-the-browsers-that-block = 2.000’den fazla veri takip kodunu otomatik olarak engelleyen tarayıcıları kullanın. Gelişmiş İzlenme Koruması tüm { -brand-name-firefox } tarayıcılarında standart olarak gelir.
 firefox-products-desktop = Bilgisayar
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
@@ -39,7 +39,7 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Gerçek e-posta adresinizi gizleyerek gelen kutunuzu koruyun.
 firefox-products-learn-more-about-relay = { -brand-name-firefox-relay } hakkında bilgi alın
-firefox-products-send-your-large-files-and = 2,5 GB’ye kadar dosyalarınızı ve hassas belgelerinizi kadar güvenle gönderin.
+firefox-products-send-your-large-files-and = 2,5 GB’ye kadar dosyalarınızı ve hassas belgelerinizi güvenle gönderin.
 firefox-products-send-a-file = Dosya gönderin
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Web’in en iyi içeriklerini keşfedin, istediğiniz yerde ve istediğiniz zaman tüketin.

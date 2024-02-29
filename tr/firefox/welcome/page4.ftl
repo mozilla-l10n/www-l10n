@@ -9,15 +9,15 @@
 welcome-page4-download-the-firefox-browser = { -brand-name-ios } ve { -brand-name-android } için { -brand-name-firefox-browser }nı indirin
 welcome-page4-wallet-keys-phone-firefox = Cüzdan. Anahtarlar. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Her cihazda gizlilik
-welcome-page4-take-privacy-with-you-on-every = Gizliliği her cihazınızda yanınızda taşıyın, veri takipçilerini arkanızda bırakın.
+welcome-page4-take-privacy-with-you-on-every = Gizliliği her cihazınızda yanınızda taşıyın, veri takip kodlarını arkanızda bırakın.
 welcome-page4-privacy-on-by-default = { -brand-name-android } için yeni { -brand-name-firefox } gizliliğinizi varsayılan olarak koruyor, ve artık { -brand-name-firefox }’u { -brand-name-ios } 14’te varsayılan tarayıcınız yapabilirsiniz.
 welcome-page4-get-the-firefox-mobile = Mobil { -brand-name-firefox }’u indirin
 welcome-page4-get-firefox-on-your-phone = { -brand-name-firefox }’u telefonunuza yükleyin
 welcome-page4-send-the-download-link-right = İndirme bağlantısını telefonunuza veya e-postanıza gönderelim.
 welcome-page4-download-firefox-for-your = Akıllı telefonunuza veya tabletinize { -brand-name-firefox }’u indirin.
-welcome-page4-firefox-private-safe-browser = { -brand-name-ios } ve { -brand-name-android }’de “{ -brand-name-firefox }: Private, Safe Browser”.
+welcome-page4-firefox-private-safe-browser = { -brand-name-ios } ve { -brand-name-android }’de “{ -brand-name-firefox }: Gizli, Güvenli Tarayıcı”.
 # "off your trail" is an expression for not being followed around.
-welcome-page4-get-data-trackers-off-your = Veri takipçilerine izinizi kaybettirin
+welcome-page4-get-data-trackers-off-your = Veri takip kodlarına izinizi kaybettirin
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
 welcome-page4-enhanced-tracking-protection = Gelişmiş İzlenme Koruması web’de sizin takip eden <a href="{ $privacy }">2.000’den fazla takip kodunu</a> engeller.

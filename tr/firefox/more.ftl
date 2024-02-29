@@ -11,14 +11,10 @@ learn-more-about = Verilerinize saygı gösteren, internette gittiğiniz her yer
 learn-more-faq = { -brand-name-firefox } Hakkında SSS
 the-history-of = Web tarayıcılarının tarihi
 firefox-has-been = { -brand-name-firefox } neredeyse tarayıcı tarihinin başlangıcından beri var.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Asil değil, asi
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } bağımsız ve { -brand-name-mozilla } tarafından destekleniyor. { -brand-name-mozilla }, internetteki haklarınız için savaşan ve interneti her yerde herkes için erişilebilir kılan, kâr amacı gütmeyen bir kuruluş.
 what-is-a = Web tarayıcısı nedir?
 a-web-browser = Web tarayıcıları, internetin her yerine ulaşarak dünyanın dört bir yanından gelen metinleri, resimleri ve videoları görmenizi sağlar.
 update-your-browser = Hızlı, güvenli ve güvenilir { -brand-name-firefox }’a geçin.
-the-firefox-browser = { -brand-name-firefox } tarayıcısı gizliliğinizi her an korumak için tasarlandı: Çünkü sizi yavaş yüklenen sayfalardan, kötü niyetli reklamlardan ve izleyicilerden kurtarmanın en hızlı yolu bu.
+the-firefox-browser = { -brand-name-firefox } tarayıcısı gizliliğinizi her an korumak için tasarlandı: Çünkü sizi yavaş yüklenen sayfalardan, kötü niyetli reklamlardan ve takip kodlarından kurtarmanın en hızlı yolu bu.
 firefox-is-more = { -brand-name-firefox } yalnızca bir tarayıcı değil
 its-a-lightning = En iyi web deneyimine giden ışık hızında bir kapı.
 get-the-browsers = Gizliliğinizi her zaman ilk sıraya koyan tarayıcıları indirin
@@ -31,7 +27,7 @@ firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum }, { -brand-
 firefox-more-little-book = Gizlilik Kitapçığı
 firefox-more-you-can-reclaim = Gizliliğinizi geri alabilir, internet deneyiminizin kontrolünü yeniden ele geçirebilirsiniz! Aslında hiç de zor değil. Herkes yapabilir.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Yer imlerinizi, parolalarınızı ve daha fazlasını { -brand-name-firefox } kullandığınız her yerde senkronize edin ve onlara erişin.
+firefox-more-access-your-sync = Yer imlerinizi, parolalarınızı ve daha fazlasını { -brand-name-firefox } kullandığınız her yerde eşitleyin ve onlara erişin.
 we-believe-everyone = Bizce internete herkes erişebilmeli. Bu yüzden dünyanın dört bir yanındaki gönüllülerimizin desteğiyle { -brand-name-firefox-browser }nı 90’dan fazla dile çevirdik.
 firefox-fights-for = { -brand-name-firefox }, { -brand-name-windows }’ta sizin için savaşır
 easy-migration-of = { -brand-name-firefox }’un { -brand-name-windows } sürümünü indirdikten sonra tercihlerinizi ve yer imlerinizi kolayca taşıyabilirsiniz.
@@ -41,7 +37,9 @@ firefox-for-linux = { -brand-name-linux } için { -brand-name-firefox }
 new-school-meets = En hızlı tarayıcımız Linux dünyasında da var.
 firefox-for-windows = 64 bit { -brand-name-windows } için { -brand-name-firefox }
 we-worry-about = Veri güvenliğinizi siz kafaya takmayın diye biz takıyoruz.
+# Obsolete string
 seven-of-the = En iyi yedi tarayıcıyı karşılaştırdık
+# Obsolete string
 we-compare-firefox = Karar vermenize yardımcı olması için { -brand-name-firefox }’u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ve { -brand-name-ie } ile karşılaştırdık.
 comparing-firefox-chrome = { -brand-name-firefox-browser } ile { -brand-name-google } { -brand-name-chrome } karşılaştırması
 big-isnt-always = Büyük olan iyi olacak diye bir şey yok. Bağımsız olanı seçin.
@@ -61,10 +59,6 @@ firefox-more-protection = { -brand-name-firefox }: Daha fazla koruma, daha az de
 were-obsessed-with = Gizliliğini korumaya kafayı taktık. O yüzden { -brand-name-firefox }’un Gizli Gezinti özelliğini tüm rakiplerimizden daha güçlü hale getirdik.
 incognito-browser-what = Gizli tarayıcı: Gerçekte ne anlama geliyor?
 firefox-calls-it = { -brand-name-firefox }’ta gizli gezinti, { -brand-name-chrome }’da gizli mod. Her ikisi de gezinti geçmişinizi kaydetmeden web'de dolaşmanızı sağlıyor.
-# Obsolete string
-take-the-stress = Güvenli bir tarayıcı aramanın stresinden kurtulun.
-# Obsolete string
-building-a-safe = Güvenli bir tarayıcı yapmanın belli kuralları yok. Biz bunu hem sanat hem de bilim olarak görüyoruz.
 firefox-more-fingerprinter-blocking = Parmak izi toplayıcı engelleme
 firefox-more-fingerprinting-is-a = Parmak izi toplama, sıradan çerez tabanlı izlemeden daha istilacı bir çevrimiçi izleme türü. Neyse ki { -brand-name-firefox-browser } bunları engelliyor.
 firefox-more-translate-the-web = Web’i çevirin

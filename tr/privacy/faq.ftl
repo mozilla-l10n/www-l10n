@@ -10,7 +10,7 @@ privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla }’nın Veri Gizl
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } olarak kişisel bilgilerinize saygı duyuyor ve onları koruyoruz.
 privacy-faq-we-stand-for-people-over-profit = Bizim için kârdan önce insanlık gelir.
 privacy-faq-it-can-be-tricky-for-people = Günümüzde kullandığınız yazılım ve hizmetlerden ne beklemeniz gerektiğini bilmek epey zor. Hayatımızı kolaylaştıran teknolojiler oldukça karmaşık ve insanların ayrıntıları kurcalayacak zamanları yok. Bunlar { -brand-name-firefox } için de geçerli: Pek çok insan, kullandıkları tarayıcının arka planında neler olup bittiğine dair farklı fikirlere kapılabiliyor.
-privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } olaraka kişisel bilgilerinize saygı duyuyor ve onları koruyoruz:
+privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } olarak kişisel bilgilerinize saygı duyuyor ve onları koruyoruz:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = { -brand-name-firefox }’un hem bilgisayar hem mobil sürümlerinde gizlilik yaklaşımımızı şekillendiren <a href="{ $link }">Veri Gizliliği İlkelerimizi</a> uyguluyoruz.
@@ -22,10 +22,6 @@ privacy-faq-i-use-firefox-for-almost-everything = Web’deki hemen hemen her şe
 privacy-faq-firefox-the-web-browser-that = Mobil cihazınızda veya bilgisayarınızda çalışan { -brand-name-firefox } web tarayıcısı, internete açılan bir kapıdır. Tarayıcınız, ziyaret ettiğiniz web siteleriyle ilgili birçok bilgiyi yönetir ama bu bilgiler cihazınızda kalır. { -brand-name-firefox }’u geliştiren { -brand-name-mozilla } bu bilgileri (siz izin vermediğiniz sürece) toplamaz.
 privacy-faq-really-you-dont-collect-my-browsing = Gezinti geçmişimi gerçekten toplamıyor musunuz?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiğiyle ilgili hiç de sandığınız kadar bilgi sahibi değil. Bir tarayıcı yapımcısı olarak, aslında bu bizim için büyük bir sorun. Bu nedenle, gönüllü kullanıcıların web’de gezinme alışkanlıklarına ilişkin bize bilgi vermelerini sağlayan isteğe bağlı araçlar geliştirdik. Gezinti geçmişinizi { -brand-name-firefox } cihazlarınız arasında eşitleseniz bile verileriniz cihazınızdan çıkmadan şifrelendiği için geçmişinizi kesinlikle göremeyiz.
-# Outdated string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiğiyle ilgili hiç de sandığınız kadar bilgi sahibi değil. Bir tarayıcı yapımcısı olarak, aslında bu bizim için büyük bir sorun. Bu nedenle, gönüllü kullanıcıların web’de gezinme alışkanlıklarına ilişkin bize bilgi vermelerini sağlayan <a href="{ $link }">{ -brand-name-firefox } Pioneer</a> gibi isteğe bağlı araçlar geliştirdik. Gezinti geçmişinizi { -brand-name-firefox } cihazlarınız arasında eşitleseniz bile verileriniz cihazınızdan çıkmadan şifrelendiği için geçmişinizi kesinlikle göremeyiz.
 privacy-faq-it-seems-like-every-company = Bütün internet şirketleri verilerimi alıp satıyor gibi görünüyor. Sizin de farkınız yoktur herhalde.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sizin hakkınızdaki verileri asla satmaz, hakkınızdaki verileri de asla satın almaz.
 privacy-faq-wait-so-how-do-you-make-money = Peki nasıl para kazanıyorsunuz?
@@ -38,7 +34,7 @@ privacy-faq-okay-those-first-few-were-softballs = Tamam, ilk birkaç soru kolayd
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla }, kullanıcıların { -brand-name-firefox }’u nasıl kullandığını anlamamıza yardımcı olması için tarayıcınızla ilgili sınırlı bir veri kümesi toplar. Bu veriler adınıza veya e-posta adresinize değil, rastgele bir numaraya bağlanır. Bu konuyla ilgili daha fazla bilgiyi <a href="{ $privacy }"> gizlilik bildirimimizden</a> edinebilir ve <a href="{ $data }">bu veri toplamasıyla ilgili tam belgeyi okuyabilirsiniz</a>.
-privacy-faq-we-make-our-documentation-public = Belgelemizi herkese açık. Böylece herkes söylediklerimizin doğruluğunu kontrol edebilir, neleri geliştirmemiz gerektiğini söyleyebilir ve hiçbir şey gizlemediğimizden emin olabilir.
+privacy-faq-we-make-our-documentation-public = Belgelemiz herkese açık. Böylece herkes söylediklerimizin doğruluğunu kontrol edebilir, neleri geliştirmemiz gerektiğini söyleyebilir ve hiçbir şey gizlemediğimizden emin olabilir.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = O belgelerden hiçbir şey anlamıyorum! Daha basit bir Türkçeyle anlatabilir misiniz?
 privacy-faq-there-are-two-categories-of = { -brand-name-firefox }’un final sürümünde varsayılan olarak topladığımız iki veri kategorisi var.

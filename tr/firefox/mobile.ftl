@@ -25,10 +25,10 @@ firefox-mobile-stop-companies-from-following = Şirketler sizi takip edemesin
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
 firefox-mobile-stay-off-their-radar-with = <a href="{ $url }">{ -brand-name-firefox } İzlenme Koruması</a> ile izinizi belli etmeyin.
 firefox-mobile-discover-products-that-keep = Sizi güvende tutan ürünleri keşfedin
-firefox-mobile-sync-your-history-passwords = Geçmişinizi, parolalarınızı ve yer imlerinizi senkronize edin. Cihazdan cihaza sekme gönderin.
+firefox-mobile-sync-your-history-passwords = Geçmişinizi, parolalarınızı ve yer imlerinizi eşitleyin. Cihazdan cihaza sekme gönderin.
 firefox-mobile-android-only = Yalnızca { -brand-name-android }’de
 firefox-mobile-make-android-your-own = { -brand-name-android } tarayıcınızı özelleştirin
-firefox-mobile-customize-your-firefox-mobile-truncated = { -brand-name-firefox } mobil tarayıcınızı eklentilerle özelleştirin.
+firefox-mobile-customize-your-firefox-mobile-truncated = { -brand-name-firefox } mobil tarayıcınızı uzantılarla özelleştirin.
 firefox-mobile-find-it-fast-with-a-smart = Akıllı arama çubuğuyla çabucak bulun
 firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox }, akıllı arama önerileri ve en çok ziyaret ettiğiniz sitelere hızlı erişim sunarak ihtiyaçlarınızı hızlıca karşılar.
 firefox-mobile-the-privacy-you-deserve-the = Hak ettiğiniz gizlilik. İhtiyacınız olan hız.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -17,7 +17,7 @@ firefox-channel-try-new-features-in-a-pre = Yeni özellikleri henüz tamamlanmam
 firefox-channel-download-and-test-future = { -brand-name-firefox }’un masaüstü, { -brand-name-android } ve { -brand-name-ios } sürümlerinin gelecekteki hallerini indirip test edin.
 firefox-channel-experience-cutting-edge-android-updated = Henüz tamamlanmamış { -brand-name-android } tarayıcımızda gün yüzü görmemiş özellikleri deneyin. { -brand-name-firefox-beta } ve { -brand-name-firefox-nightly }’yi hemen yükleyin!
 firefox-channel-experience-cutting-edge-android = Henüz tamamlanmamış { -brand-name-android } tarayıcımızda gün yüzü görmemiş özellikleri deneyin. { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ve { -brand-name-firefox-nightly }’yi hemen yükleyin!
-firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } and { -brand-name-nightly } sürümleriyle { -brand-name-android } için { -brand-name-firefox }’un en yeni halini indirip test edin.
+firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } ve { -brand-name-nightly } sürümleriyle { -brand-name-android } için { -brand-name-firefox }’un en yeni halini indirip test edin.
 firefox-channel-try-the-latest-android-features = En son { -brand-name-android } özelliklerini herkesten önce siz deneyin.
 firefox-channel-all-languages-and-platforms = Tüm diller ve platformlar
 firefox-channel-all-languages-and-builds = Tüm diller ve sürümler
@@ -36,7 +36,7 @@ firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } stabil 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } otomatik olarak { -brand-name-mozilla }’ya geri bildirim gönderir.
 firefox-channel-try-new-browser-features = Yeni tarayıcı özelliklerini henüz bitmemiş sürümlerde deneyin | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Gün yüzü görmemiş tarayıcı özelliklerini henüz tamamlanmamış sürümlerimizde deneyin: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ve { -brand-name-firefox-nightly }’yi hemen indirin!
-firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } and { -brand-name-nightly } sürümleriyle { -brand-name-firefox }’un masaüstü sürümünün en yeni halini indirip test edin.
+firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } ve { -brand-name-nightly } sürümleriyle { -brand-name-firefox }’un masaüstü sürümünün en yeni halini indirip test edin.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Yakında çıkacak özellikleri daha güvenilir bir ortamda test edin.
 firefox-channel-release-notes = Sürüm notları

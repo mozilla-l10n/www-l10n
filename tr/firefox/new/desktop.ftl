@@ -47,7 +47,7 @@ firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliy
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
 firefox-desktop-download-for-everyone = { -brand-name-firefox } herkes için
-firefox-desktop-download-available-in-over = { -brand-name-firefox } 90 dili destekliyor ve { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } ile uyumlu. En iyi deneyim için işletim sisteminizin güncel olması yeterli.
+firefox-desktop-download-available-in-over = { -brand-name-firefox } 90’dan fazla dili destekliyor ve { -brand-name-windows }, { -brand-name-mac-short } ve { -brand-name-linux } ile uyumlu. En iyi deneyim için işletim sisteminizin güncel olması yeterli.
 firefox-desktop-download-review-system-req = Sistem gereksinimlerini inceleyin
 firefox-desktop-download-all-your-devices = { -brand-name-firefox }’u tüm cihazlarınıza yükleyin
 firefox-desktop-download-take-your-privacy = Gizliliğinizi yanınızda taşıyın. { -brand-name-ios } ve { -brand-name-android } için { -brand-name-firefox-browsers }, nerede olursanız olun takip kodlarının sizi web’de takip etmesini engelleyen güçlü gizlilik ayarlarına sahip.
@@ -89,11 +89,11 @@ firefox-desktop-download-automatic-updates = Otomatik güncellemeler
 firefox-desktop-download-customize-your-browser = Tarayıcınızı özelleştirin
 firefox-desktop-download-themes = Temalar
 firefox-desktop-download-dark-mode = Koyu mod
-firefox-desktop-download-library-of-extensions = Eklenti kitaplığı
+firefox-desktop-download-library-of-extensions = Uzantı kitaplığı
 firefox-desktop-download-adjust-search-bar = Arama çubuğu ayarlarını özelleştirme
 firefox-desktop-download-change-new-tab = Yeni sekme düzenini değiştirme
 firefox-desktop-download-make-firefox-your = Bu <strong>{ -brand-name-firefox }</strong> sizin
-firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden eklentiler
+firefox-desktop-download-extensions-for-every = Her ilgi alanına hitap eden uzantılar
 firefox-desktop-download-change-up-your = Görünüşü değiştirin
 firefox-desktop-download-go-from-light = Ruh halinize veya tercihinize göre açık moddan koyu moda geçebilir, isterseniz özel temalarla tarayıcınızı renklendirebilirsiniz.
 firefox-desktop-download-tweak-your-settings = Ayarlarınızı değiştirin
@@ -109,7 +109,7 @@ firefox-desktop-download-all-your-favourite = Sevdiğiniz tüm { -brand-name-goo
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = { -brand-name-facebook }’un (ve { -brand-name-instagram }’ın) internette sizi izlemesini önlemek için <a { $attrs } >bu eklentiyi indirebilirsiniz</a>.
+firefox-desktop-download-download-this-browser = { -brand-name-facebook }’un (ve { -brand-name-instagram }’ın) internette sizi izlemesini önlemek için <a { $attrs } >bu uzantıyı indirebilirsiniz</a>.
 firefox-desktop-download-sync-your-devices = Cihazlarınızı eşitleyin
 firefox-desktop-download-screenshots = Ekran görüntüleri
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -123,7 +123,7 @@ firefox-desktop-download-learn-about-the = { -brand-name-firefox } masaüstü ta
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = Güvenlikten haberlere ve oyunlara, <a { $attrs }>herkese uygun eklentilerimiz var</a>. Tarayıcınız istediğiniz hale gelene dek, istediğiniz kadar eklenti kurabilirsiniz.
+firefox-desktop-download-from-security-to = Güvenlikten haberlere ve oyunlara, <a { $attrs }>herkese uygun uzantılarımız var</a>. Tarayıcınız istediğiniz hale gelene dek, istediğiniz kadar uzantı kurabilirsiniz.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>, { -brand-name-firefox }’u { -brand-name-ie } ve { -brand-name-chrome } gibi tarayıcılara daha hızlı, daha gizlilik yanlısı bir alternatif olarak yarattı. Misyonumuza bağlılığını sürdüren şirketimiz ve gönüllülerimiz gizliliğinizi her şeyin üstünde tutmaya devam ediyor.

@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Geriye kalan son bağımsız tarayıcıy
 firefox-developer-start-now = Hemen başla
 firefox-developer-design-code-test = Tasarla. Kodla. Test et. Düzelt.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = { -brand-name-firefox-devtools } ile<br>sitelerini kur ve mükemmeleştir
+firefox-developer-build-and-perfect = { -brand-name-firefox-devtools } ile<br>sitelerini kur ve mükemmelleştir
 firefox-developer-inspector = Denetçi
 firefox-developer-inspect-and-refine = Mükemmel sayfalar oluşturmak için kodunu denetle ve iyileştir.
 firefox-developer-learn-about-page-inspector = Sayfa Denetçisi hakkında bilgi al
@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Yeni { -brand-name-firefox-devtools } güçlü, esnek ve üzerlerinde oynanmaya açık. Farklı tarayıcıları hedefleyebilen, React ve Ember ile yapılmış, sınıfının en iyisi bir JavaScript hata ayıklayıcımız da var.
 firefox-developer-master-css-grid = CSS Grid’de ustalaş
-# outdated
-firefox-developer-next-gen-css-engine = Yeni nesil CSS motoru
 firefox-developer-built-for-developers = Geliştiriciler için tasarlandı
-firefox-developer-a-next-generation = Yeni nesil CSS motoru
 firefox-developer-master-innovative-features = Yenilikçi özellikler
 firefox-developer-want-to-be-on-the-cutting-edge = En son teknolojiye sahip olmak ister misin?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } günlük güncellemeler alarak yeni özellikleri son kullanıcıya sunulmadan aylar önce denemenizi sağlar.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum }; Rust programlama dilinde yazılmış, en son yenilikleri içeren bir CSS motoruna sahip ve bariz bir şekilde hızlı.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox }, CSS Grid ile tasarım yapmak için özel olarak geliştirilmiş araçları içeren tek tarayıcı. Bu araçlarla grid’i görselleştirebilir, ilgili alan adlarını görebilir, dönüşümleri ön izleyebilir ve çok daha fazlasını yapabilirsin.
 firefox-developer-convenient-features = Kullanışlı özellikler
-firefox-developer-faster-performance = Daha yüksek performans
 firefox-developer-shapes-editor = Şekil editörü
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }nda artık yepyeni bir şekil editörü var: shape-outside ve clip-path şekillerine ince ayar yapmak için deneme yanılmaya gerek kalmadı. Görsel bir editörle düzenlemelerini yapabilirsin.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools }’a yeni eklenen şekil yolu editörü, gölgeli ve clip-path’li şekillerine ince ayar yaparken deneme yanılma yapmak yerine görsel bir editörle kolayca her şeyi ayarlamanı sağlıyor.
@@ -82,6 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = Tebrikler. { -brand-name-firef
 firefox-developer-this-isnt-just-an-update = Bu sadece bir güncelleme değil. Bu, { -brand-name-firefox-quantum }: { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tarayıcı
+# Obsolete string
 firefox-developer-all-the-latest = Betadaki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi <strong>deneysel özellikler</strong>.
 firefox-developer-a-separate-profile = Final sürümü veya { -brand-name-beta } { -brand-name-firefox } ile aynı anda kullanabilmeniz için <strong>ayrı bir profil</strong>.
 firefox-developer-preferences-tailored = <strong>Web geliştiricilerine yönelik</strong> tercihler: Tarayıcıdan ve uzaktan hata ayıklama, koyu tema ve geliştirici araç çubuğu düğmesi gibi özellikler varsayılan olarak açık.

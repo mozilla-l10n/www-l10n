@@ -33,7 +33,7 @@ features-index-pdf-editor = PDF düzenleyicisi
 features-index-view-and-edit-pdf-files = PDF dosyalarını doğrudan { -brand-name-firefox }’ta görüntüleyip düzenleyin.
 features-index-fingerprint-blocking = Parmak izi engelleme
 features-index-ad-tracker-blocking = Reklam takip kodlarını engelleme
-features-index-firefox-automatically-blocks = { -brand-name-firefox }, 2.000’den fazla reklam takipçisinin sizi internette takip etmesini otomatik olarak engeller.
+features-index-firefox-automatically-blocks = { -brand-name-firefox }, 2.000’den fazla reklam takip kodunun sizi internette takip etmesini otomatik olarak engeller.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = { -brand-name-firefox }’un yerleşik parmak izi engelleyicileri ile sizi takip eden yılışık reklamlardan kurtulun.
 features-index-translate-the-web = Web’i çevirin

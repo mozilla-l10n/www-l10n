@@ -7,18 +7,13 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } ve { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-ios } için { -brand-name-firefox } tarayıcısı hızlı, güvenli ve ilk andan itibaren gizliliğiniz koruyor.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = { -brand-name-iphone } ve { -brand-name-ipad }’inizde otomatik gizliliğe kavuşun
 mobile-ios-get-firefox-for = { -brand-name-ios } için { -brand-name-firefox }’u indir
 mobile-ios-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
 mobile-ios-scan-the-qr-code-to-get-started = Başlamak için QR kodunu tarayın
 mobile-ios-scan-alt-text = { -brand-name-ios } için { -brand-name-firefox }’u indirmek için QR kodunu tarayın
 mobile-ios-make-firefox-your = { -brand-name-firefox }’u varsayılan tarayıcınız yapın
-mobile-ios-now-iphone-and = Artık { -brand-name-iphone } ve { -brand-name-ipad } kullanıcıları varsayılan tarayıcılarını seçebiliyor. YAni artık { -brand-name-safari }’ye bağımlı değilsiniz ve mobil tarayıcınızı bilgisayarınızdaki en sevdiğiniz tarayıcıyla senkronize edebilirsiniz. Ayrıca { -brand-name-firefox }'u varsayılan tarayıcı olarak ayarladığınızda bağımsız bir teknoloji şirketini desteklemiş olursunuz. Üstelik { -brand-name-firefox }, kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcıdır.
+mobile-ios-now-iphone-and = Artık { -brand-name-iphone } ve { -brand-name-ipad } kullanıcıları varsayılan tarayıcılarını seçebiliyor. Yani artık { -brand-name-safari }’ye bağımlı değilsiniz ve mobil tarayıcınızı bilgisayarınızdaki en sevdiğiniz tarayıcıyla senkronize edebilirsiniz. Ayrıca { -brand-name-firefox }'u varsayılan tarayıcı olarak ayarladığınızda bağımsız bir teknoloji şirketini desteklemiş olursunuz. Üstelik { -brand-name-firefox }, kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcıdır.
 mobile-ios-fast-private-secure = Hızlı. Gizli. Güvenli
 mobile-ios-keep-whats-personal = Hızdan ödün vermeden kişisel verilerinizi gizli tutun. Ayrıca, akıllı gezinti özellikleriyle gizliliğinizi, parolalarınızı ve yer imlerinizi gittiğiniz her yere güvenle götürerek çevrimiçi hayatınızı kolaylaştırın.
 mobile-ios-stay-private-online = İnternette gizli kalın
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = { -brand-name-iphone } ve { -brand-name-ipad }’
 mobile-ios-see-your-open-tabs = { -brand-name-ios } için { -brand-name-firefox-browser } ile açık sekmelerinizi, geçmiş aramalarınızı ve sık kullandığınız siteleri tek bir yerde görebilirsiniz.
 mobile-ios-own-your-home = Size özel giriş ekranı
 mobile-ios-get-to-the-parts = İnternette sizin için en önemli yerlere daha çabuk ulaşın. Tüm açık sekmelerinizi, son aramalarınızı, yer imlerinizi ve sık kullandığınız siteleri tek bir yerde topladık.
-# Obsolete string
-mobile-ios-add-firefox-across = Güvenli ve sorunsuz gezinti için { -brand-name-firefox } tarayıcısını tüm cihazlarınıza yükleyin. Yer imlerinizi, kayıtlı hesaplarınızı, parolalarınızı ve gezinti geçmişinizi { -brand-name-sync } ile senkronize ederek gittiğiniz her yere götürün. Ayrıca, kaldığınız yerden devam etmek için açık sekmelerinizi telefonunuzla bilgisayarınız arasında gönderin.
 mobile-ios-find-it-all = Daha hızlı bulun
 mobile-ios-get-search-suggestions = Arama çubuğunda arama önerileri alın ve en çok ziyaret ettiğiniz sitelere hızla erişin. Arama terimlerinizi yazın, favori arama motorlarınızdan öneriler ve önceden aradığınız sonuçlar karşınıza gelsin.
-# Obsolete string
-mobile-ios-keep-tabs-on = Sekmeleri yönetin
-# Obsolete string
-mobile-ios-create-as-many = İstediğiniz kadar sekme açın. { -brand-name-firefox } açık sekmelerinizi küçük resimler ve numaralı seklemeler halinde görüntüleyerek aradığınız şeyleri bulmanızı kolaylaştırır.
 mobile-ios-discover-more-of = Seveceğiniz şeyleri keşfedin
 mobile-ios-open-a-new = Sık ziyaret ettiğiniz siteleri, en son yer imlerinizi ve  { -brand-name-pocket }’taki popüler makaleleri görmek için { -brand-name-firefox }’ta yeni bir sekme açın. Gideceğiniz yere daha hızlı ulaşmanız için { -brand-name-firefox } en son kullandığınız sitelere hızlı erişim sağlar.
 mobile-ios-about-mozilla = { -brand-name-mozilla } hakkında

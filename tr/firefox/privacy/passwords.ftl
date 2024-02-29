@@ -27,14 +27,13 @@ privacy-passwords-look-for-the = Tarayıcınızdaki asma kilide dikkat edin
 privacy-passwords-a-closed-lock = Tüm büyük tarayıcılarda adres çubuğundaki web sitesi adresinin hemen önünde kapalı bir asma kilit görünür.
 privacy-passwords-a-padlock-with = Kırmızı çapraz çizgili asma kilit, bağlantının güvenli olmadığını gösterir.
 privacy-passwords-firefox-will-v2 = Sitenin kimlik avı sitesi olduğu biliniyorsa { -brand-name-firefox } web sitesi yerine bir uyarı görüntüleyecektir.
-# Outdated string
-privacy-passwords-firefox-will = Sitenin kimlik avı sitesi olduğu biliniyorsa Firefox web sitesi yerine bir uyarı görüntüleyecektir.
 privacy-passwords-strength-in-diversity = Farklılıktan gelen güç
 privacy-passwords-security-questions-my = Güvenlik Soruları: Annemin kızlık soyadı “Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = Son olarak, çoğu web sitesi, parolanızı unutursanız onu kurtarmanıza izin verir. Genellikle bu sistemler, parolanızı sıfırlamadan önce bazı “güvenlik sorularını” yanıtlamanızı ister. <strong>Bu soruların yanıtlarının da parolanız kadar gizli olması gerekir.</strong> Aksi takdirde saldırgan yanıtları tahmin edebilir ve parolanızı değiştirebilir.
-privacy-passwords-randomness-can-be = Rastgelelik bir sorun olabilir çünkü sitelerin sıklıkla kullandığı güvenlik soruları; doğum yeriniz, doğum gününüz veya akrabalarınızın adları gibi insanların sizin hakkınızda bilebileceği veya sosyal medya gibi kaynaklardan toplayabileceği şeylerdir. Neyse verdiğiniz cevabın gerçek olup olmadığı aslında önemli değil. Yani yalan söyleyebilirsiniz! Ama verimli bir şekilde yalan söyleyin: Güvenlik sorularına da parolalarınız gibi <strong>uzun ve rastgele yanıtlar verin</strong>.
+privacy-passwords-randomness-can-be = Rastgelelik bir sorun olabilir çünkü sitelerin sıklıkla kullandığı güvenlik soruları; doğum yeriniz, doğum gününüz veya akrabalarınızın adları gibi insanların sizin hakkınızda bilebileceği veya sosyal medya gibi kaynaklardan toplayabileceği şeylerdir. Neyse ki verdiğiniz cevabın gerçek olup olmadığı aslında önemli değil. Yani yalan söyleyebilirsiniz! Ama verimli bir şekilde yalan söyleyin: Güvenlik sorularına da parolalarınız gibi <strong>uzun ve rastgele yanıtlar verin</strong>.
 privacy-passwords-get-help-from = Parola yöneticisi kullanın
 privacy-passwords-twofactor-authentication-2fa = İki aşamalı kimlik doğrulama (2FA)
+# Obsolete string
 #   $url_sumo_2fa (string) - link to https://support.mozilla.org/kb/secure-firefox-account-two-step-authentication with additional attributes for analytics
 privacy-passwords-your-firefox-account = Örneğin { -brand-name-firefox } hesabınız, <a { $url_sumo_2fa }>burada daha fazla bilgi edinebileceğiniz</a> 2FA ile korunabilir.
 privacy-passwords-strong-diverse-and = Güçlü, farklı ve çok aşamalı
