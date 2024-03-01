@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Koji jezici su trenutno podrž
 features-translate-the-languages-below-are-what = Ispod navedeni jezici su trenutno podržani od strane { -brand-name-firefox } funkcije prijevoda:
 features-translate-and-more-languages-are-in = I još jezika je u razvoju!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori vaš jezik
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Funkcija prijevoda { -brand-name-firefox } je još jedan način na koji { -brand-name-mozilla } održava vaš internet personalizovanim i privatnijim. { -brand-name-mozilla } ne prati koje web stranice prevodite. Sa milionima korisnika širom svijeta, { -brand-name-mozilla } želi osigurati da oni koji koriste { -brand-name-firefox } uče, komuniciraju, dijele i ostaju informisani pod svojim uvjetima. <a { $download }>Započnite na željenom jeziku preuzimanjem { -brand-name-firefox }a.</a>
