@@ -36,7 +36,6 @@ navigation-android-extensions = Ekstensi { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } Anda
 navigation-make-the-most-of-your = Maksimalkan pengalaman menggunakan { -brand-name-firefox }, di setiap perangkat.
 navigation-explore-the-immersive = Jelajahi web secara imersif melalui headset virtual reality.
-navigation-get-together = Berinteraksi dalam virtual reality dengan ruang sosial daring ini.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } menghadirkan virtual dan augmented reality ke web terbuka.
 navigation-firefox-built-just-for = { -brand-name-firefox }, dirancang khusus untuk pengembang.

@@ -36,7 +36,6 @@ navigation-android-extensions = مُلحقات { -brand-name-android }
 navigation-your-firefox-account = { -brand-name-firefox-account } الخاص بك
 navigation-make-the-most-of-your = حقِّق أقصى استفادة من تجربتك مع { -brand-name-firefox } في كل جهاز.
 navigation-explore-the-immersive = استكشف شبكة الويب الشاملة من خلال سماعة الواقع الافتراضي.
-navigation-get-together = اجتمِع مع أشخاص أخرين عبر الواقع الافتراضي من خلال هذه المنصة الاجتماعية المقدمة عبر الإنترنت.
 navigation-mozilla-mixed-reality = الواقع المختلط في { -brand-name-mozilla }
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } تأتي بالواقع الافتراضي والمعزَّز إلى شبكة الويب المفتوحة.
 navigation-firefox-built-just-for = أُنشئ { -brand-name-firefox } للمُطورين خصيصًا.

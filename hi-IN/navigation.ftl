@@ -36,7 +36,6 @@ navigation-android-extensions = { -brand-name-android } एक्सटेंश
 navigation-your-firefox-account = आपका { -brand-name-firefox-account }
 navigation-make-the-most-of-your = हरेक डिवाइस पर अपने { -brand-name-firefox } अनुभव का अधिकतम लाभ उठाएँ।
 navigation-explore-the-immersive = अपने वर्चुअल रियलिटी हेडसेट पर वर्चुअल दुनिया के नए-नए अनुभव लें।
-navigation-get-together = इस ऑनलाइन स्पेस के साथ वर्चुअल रिएलिटी के ज़रिए एक-दूसरे से मिलें।
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } मिक्स्ड रिएलिटी
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } वर्चुअल और ऑगमेंटेंड रिएलिटी को ओपन वेब तक लेकर आता है।
 navigation-firefox-built-just-for = { -brand-name-firefox }, सिर्फ़ डेवलपर्स के लिए निर्मित।

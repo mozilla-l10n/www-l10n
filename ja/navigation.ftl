@@ -36,7 +36,6 @@ navigation-android-extensions = { -brand-name-android } 拡張機能
 navigation-your-firefox-account = あなたの { -brand-name-firefox-account }
 navigation-make-the-most-of-your = すべてのデバイスで { -brand-name-firefox } を活用しましょう。
 navigation-explore-the-immersive = 仮想現実ヘッドセットでウェブに没入してみてください。
-navigation-get-together = このオンラインソーシャルスペースで、仮想現実で会いましょう。
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } 複合現実
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } は、仮想現実と拡張現実をオープンウェブに導入します。
 navigation-firefox-built-just-for = { -brand-name-firefox } は、デベロッパーのためだけに構築されています。

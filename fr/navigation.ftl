@@ -36,7 +36,6 @@ navigation-android-extensions = Extensions { -brand-name-android }
 navigation-your-firefox-account = Votre { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Profitez au mieux de l’expérience { -brand-name-firefox }, sur tous vos appareils.
 navigation-explore-the-immersive = Explorez le Web immersif avec votre casque de réalité virtuelle.
-navigation-get-together = Rencontrez-vous dans la réalité virtuelle avec cet espace social en ligne.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } apporte la réalité virtuelle et augmentée sur le Web ouvert.
 navigation-firefox-built-just-for = { -brand-name-firefox }, conçu spécialement pour les développeurs.
