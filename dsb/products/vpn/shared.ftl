@@ -128,3 +128,9 @@ vpn-shared-affiliate-notification-ok = W pórěźe
 
 ## Press quotations
 
+
+## Unsupported language notification
+
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Cośo wěcej luźi z { -brand-name-mozilla-vpn } wopóznaś? <a { $href }>Buźćo dobrowólny pśełožowaŕ</a>.
