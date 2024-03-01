@@ -11,31 +11,7 @@ footer-corporate-blog = Předewzaćelski blog
 footer-browser-comparison = Přirunanje wobhladowakow
 footer-brand-standards = Markowe standardy
 footer-browsers = Wobhladowaki
-# Obsolete string
-footer-desktop = Desktop
-# Obsolete string
-footer-mobile = Mobilny
-# Obsolete string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Obsolete string
-footer-products = Produkty
-# Obsolete string
-footer-lockwise = { -brand-name-lockwise }
-# Obsolete string
-footer-monitor = { -brand-name-monitor }
-# Obsolete string
-footer-send = { -brand-name-send }
-# Obsolete string
-footer-pocket = { -brand-name-pocket }
-# Obsolete string
-footer-join = Wobdźělić so
-# Obsolete string
-footer-sign-up = Registrować
-# Obsolete string
-footer-sign-in = Přizjewić
-# Obsolete string
-footer-benefits = Lěpšiny
 footer-developers = Wuwiwarjo
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Wopytajće załožbu <a { $mofo_link }>{ -br
 footer-portions-of-this-content = Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–{ $current_year }. Wobsah steji pod licencu <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Předewzaće
-# Obsolete string
-footer-about = Wo nas
 footer-press-center = Nowinski centrum
 footer-careers = Powołanja
-# Obsolete string
-footer-test-new-features = Nowe funkcije testować
-# Obsolete string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Nastroje
 footer-resources = Resursy
 footer-contact = Kontakt
@@ -68,7 +38,10 @@ footer-websites-legal = Prawniske
 footer-language = Rěč
 footer-go = Start
 footer-donate = Darić
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (bywši Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

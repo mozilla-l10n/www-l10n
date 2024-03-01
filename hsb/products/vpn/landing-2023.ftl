@@ -13,6 +13,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły grat
 vpn-landing-desc = Wužiwajće { -brand-name-mozilla-vpn } za dospołny škit swojeho grata za wšykne nałoženja. Ze serwerami w přez { $countries } krajach, móžeće do něhdźe a wot něhdźe zwjazać.
 vpn-landing-whats-a-vpn = Što je VPN?
 vpn-landing-how-a-vpn-helps-you = Kak VPN wam pomha
+vpn-landing-helps-you-access-global = Zmóžnja wam přistup ke globalnemu wobsahej
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

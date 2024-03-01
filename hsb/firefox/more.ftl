@@ -39,6 +39,7 @@ seven-of-the = Sydom z najlěpšich wobhladowakow w direktnym přirunanju
 six-of-the-best = Šěsć z najlěpšich wobhladowakow w direktnym přirunanju
 # Obsolete string
 we-compare-firefox = Přirunamy { -brand-name-firefox } z { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, zo bychmy wam pomhali so rozsudźić.
+we-compare-firefox-v2 = Přirunujemy { -brand-name-firefox } z Chrome, Edge, Safari, Opera a Brave, zo bychmy wam pomhali so rozsudźić.
 comparing-firefox-chrome = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Wulki nic přeco najlěpše je. Rozsudźće so město toho za njewotwisnosć.
 comparing-firefox-brave = Přirunanje { -brand-name-firefox-browser } z { -brand-name-brave }
