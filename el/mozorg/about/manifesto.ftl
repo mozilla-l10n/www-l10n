@@ -52,7 +52,10 @@ manifesto-we-are-committed-to-diverse = Δεσμευόμαστε για ένα �
 manifesto-show-your-support = Δείξτε την υποστήριξή σας
 manifesto-an-internet-with-these = Ένα διαδίκτυο με αυτά τα χαρακτηριστικά δεν θα δημιουργηθεί μόνο του. Τα άτομα και οι οργανώσεις πρέπει να ενσωματώνουν αυτές τις φιλοδοξίες στη διαδικτυακή τεχνολογία και στην εμπειρία τους στο διαδίκτυο. Η διακήρυξη της { -brand-name-mozilla } και το προσάρτημά της εκπροσωπούν τη δέσμευσή της στην εξέλιξη αυτών των στόχων. Στοχεύουμε να συνεργαστούμε με άτομα και οργανισμούς σε όλο τον κόσμο που έχουν τις ίδιες ιδέες για ένα καλύτερο διαδίκτυο για όλους.
 manifesto-i-support-the-vision-of = Υποστηρίζω το όραμα ενός καλύτερου, υγιέστερου διαδικτύου από τη @mozilla, θα με βοηθήσετε;
+# Obsolete string
 manifesto-share-on-twitter = Κοινοποίηση στο { -brand-name-twitter }
+manifesto-share-on-x = Κοινοποίηση στο X
+manifesto-share-on-x-aria-label = Κοινοποίηση στο X (πρώην Twitter)
 manifesto-our-10-principles = <strong>Οι 10</strong> αρχές μας
 manifesto-read-the-entire-manifesto = Διαβάστε όλη τη διακήρυξη
 manifesto-love-the-web = Αγαπάτε το διαδίκτυο;

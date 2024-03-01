@@ -37,6 +37,8 @@ features-index-firefox-automatically-blocks = Το { -brand-name-firefox } απ�
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Ξεφορτωθείτε τις διαφημίσεις που σας ακολουθούν παντού με την ενσωματωμένη φραγή fingerprinting του { -brand-name-firefox }.
 features-index-translate-the-web = Μετάφραση διαδικτύου
+features-index-translate-websites-to-your = Μεταφράστε ιστοτόπους στη γλώσσα σας απευθείας στο { -brand-name-firefox }, χωρίς να μοιραστείτε τα δεδομένα σας με κανέναν άλλο.
+# Obsolete string
 features-index-translate-more-than = Μεταφράστε από πάνω από 100 γλώσσες στη δική σας απευθείας στο { -brand-name-firefox }, πιο εύκολα από ποτέ.
 features-index-picture-in-picture = Εικόνα εντός εικόνας
 features-index-got-things-to-do = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία «Εικόνα εντός εικόνας» στο { -brand-name-firefox }.

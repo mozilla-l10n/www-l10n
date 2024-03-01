@@ -11,31 +11,7 @@ footer-corporate-blog = Εταιρικό blog
 footer-browser-comparison = Σύγκριση προγραμμάτων περιήγησης
 footer-brand-standards = Πρότυπα εμπορικών σημάτων
 footer-browsers = Προγράμματα περιήγησης
-# Outdated string
-footer-desktop = Υπολογιστές
-# Outdated string
-footer-mobile = Κινητά
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = Προϊόντα
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = Συμμετοχή
-# Outdated string
-footer-sign-up = Εγγραφή
-# Outdated string
-footer-sign-in = Σύνδεση
-# Outdated string
-footer-benefits = Οφέλη
 footer-developers = Προγραμματιστές
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Επισκεφτείτε τον μη κερ�
 footer-portions-of-this-content = Τμήματα αυτού του περιεχομένου ανήκουν σε εθελοντές του mozilla.org ©1998–{ $current_year }. Το περιεχόμενο διατίθεται υπό την <a rel="license" href="{ $url }">άδεια { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Εταιρεία
-# Outdated string
-footer-about = Πληροφορίες
 footer-press-center = Κέντρο τύπου
 footer-careers = Καριέρες
-# Outdated string
-footer-test-new-features = Δοκιμή νέων λειτουργιών
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Εργαλεία
 footer-resources = Πόροι
 footer-contact = Επικοινωνία
@@ -68,7 +38,10 @@ footer-websites-legal = Νομικά
 footer-language = Γλώσσα
 footer-go = Μετάβαση
 footer-donate = Δωρεά
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (πρώην Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
