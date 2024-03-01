@@ -37,6 +37,8 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } 可自动�
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = 使用 { -brand-name-firefox } 内置的数字指纹跟踪拦截器赶走烦人的广告。
 features-index-translate-the-web = 翻译网页
+features-index-translate-websites-to-your = 直接在您的 { -brand-name-firefox } 浏览器中将网站翻译为您的语言 – 无需与任何人共享您的数据。
+# Obsolete string
 features-index-translate-more-than = 直接在 { -brand-name-firefox } 浏览器中将 100 多种语言翻译成您的语言，体验前所未有的方便。
 features-index-picture-in-picture = 画中画
 features-index-got-things-to-do = 想一边看视频一边处理其他事？试试 { -brand-name-firefox } 的画中画。

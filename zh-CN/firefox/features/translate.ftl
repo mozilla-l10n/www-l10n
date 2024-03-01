@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = 直接在浏览器中翻译网页
-# page description
-features-translate-translate-more-than = 直接在 { -brand-name-firefox-browser }中将 100 多种语言翻译为您的语言 - 前所未有的容易。
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = 使用 { -brand-name-firefox } 翻译网页
 features-translate-translate-the-web = 在 { -brand-name-firefox } 上翻译网页
-# Shorter title used in subnav
-features-translate-translate-the-web-short = 翻译网页
-# Obsolete string
-features-translate-the-google-translate = { -brand-name-firefox } 的 To { -brand-name-google } Translate 扩展，让世界更多人从 Web 中受益。
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = 互联网内容异彩纷呈，但其中大部分并非用中文所撰写——全球数十亿人需要借助翻译才能看到这个更广阔的世界。您可以<a { $attrs }>下载有着超过 100 种语言版本的 { -brand-name-firefox }</a>，浏览器菜单、通知和消息都将会使用您的首选语言，但这并不足以解决以下问题：您用浏览器发现的更多精彩内容。
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } 扩展程序</a> 可以自动翻译网页内容。与某些基于云的替代方案不同，此扩展在 { -brand-name-firefox } 本地进行翻译，被翻译的内容不会离开您的机器。
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = 使用 { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } 翻译已支持超过 100 种语言*，全球用户数以亿计。但是，在 translate.google.com 和您尝试阅读的页面之间来回切换的体验显然不理想。有了 <a { $attrs }>To { -brand-name-google } Translate</a> 扩展，便可更便捷地翻译当前浏览的页面。
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = 使用 { -brand-name-google } 翻译
-# Obsolete string
-features-translate-get-the-extension = 安装扩展
-features-translate-once-installed-simply = 安装完成后，只需选中要翻译的文本，右击鼠标就会弹出多选项菜单：1）前往translation.google.com，并将您选中的文本自动填入翻译框；2）聆听该短语的发音（由 { -brand-name-google } 文字转语音引擎驱动），如果您想学习一种新的语言，这会很有帮助。
-features-translate-switch-languages-in = 在 { -brand-name-firefox } 中切换语言
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = 若您已在使用 { -brand-name-firefox }，则可以更改浏览器的语言或将语言添加到 { -brand-name-firefox } 界面。 <a { $attrs }>在此处了解如何操作。</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *通过“To { -brand-name-google } Translate”扩展，<a { $attrs }>下列语言</a>当前均可翻译：
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }>以及更多</a>
-features-translate-for-everyone-v2 = 人人皆可使用 { -brand-name-firefox }
-# Outdated string
-features-translate-for-everyone = Firefox 人人皆可用
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } 翻译是一项内置的翻译功能可让您以您喜欢的语言轻松浏览网络。详细了解{ -brand-name-firefox } 中的此功能如何使用以及 { -brand-name-mozilla } 如何帮助保护您翻译的内容。
+features-translate-one-of-the-best-things-about = 互联网最棒的事情之一就是我们可以存取世界各地的内容。无论是新闻文章、博客甚至是您的最新科技产品的评论您都可以在看似永无止境的网络上找到它。借助 { -brand-name-firefox } 的最新翻译功能此工具将不间断地实时翻译网页。
+features-translate-while-other-browsers-rely-on = 其他浏览器均需依赖云服务才能进行翻译但 { -brand-name-firefox } Translations 语言模型会下载到用户的浏览器上并在本地完成翻译因此 { -brand-name-mozilla } 不会记录您翻译了哪些网页。
+features-translate-when-you-translate-a-webpage = 翻译网页后获得的隐私将得到保障
+features-translate-when-your-translations-are = 当您的翻译在本地处理时所选设备中没有数据会离开您的设备或依赖云服务进行翻译。这意味着 { -brand-name-mozilla } 不知道您要翻译哪个网页这也使得我们的翻译功能有别于其他翻译工具。
+features-translate-what-languages-are-currently = 目前支持哪些语言
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = 目前{ -brand-name-firefox } 翻译功能支持下列语言
+features-translate-and-more-languages-are-in = 更多语言正在开发中
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } 也有您的语言
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = { -brand-name-firefox } 的翻译功能是 { -brand-name-mozilla } 保持您的互联网个性化和隐私的另一种方式。 { -brand-name-mozilla } 不会跟踪您翻译的网页。由于 { -brand-name-mozilla } 的用户遍布全球数以百万计{ -brand-name-mozilla } 希望确保 { -brand-name-firefox } 的用户能够按照自己的方式学习、交流、分享并随时了解最新消息。 <a { $download }>开始使用您喜欢的语言下载 { -brand-name-firefox }。</a>
