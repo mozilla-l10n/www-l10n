@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Vilka språk stöds för närv
 features-translate-the-languages-below-are-what = Språken nedan stöds för närvarande av funktionen { -brand-name-firefox } översättningar:
 features-translate-and-more-languages-are-in = Och fler språk är under utveckling!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } talar ditt språk
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Funktionen { -brand-name-firefox } översättningar är ett annat sätt som { -brand-name-mozilla } håller ditt internet personligt och mer privat. { -brand-name-mozilla } spårar inte vilka webbsidor du översätter. Med miljontals användare över hela världen vill { -brand-name-mozilla } se till att de som använder { -brand-name-firefox } lär sig, kommunicerar, delar och håller sig informerade på sina egna villkor. <a { $download }>Kom igång på ditt önskade språk genom att ladda ner { -brand-name-firefox }.</a>
