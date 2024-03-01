@@ -5,32 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Pśełožujśo web - direktnje w swójom wobglědowaku
-# page description
-features-translate-translate-more-than = Pśełožujśo z wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox-browser } - lažčej ako do togo.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Pśełožujśo webbok z { -brand-name-firefox }
 features-translate-translate-the-web = Pśełožujśo web z { -brand-name-firefox }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Web pśełožyś
-# Obsolete string
-features-translate-the-google-translate = Rozšyrjenje To { -brand-name-google } Translate za { -brand-name-firefox } swětoju web pśistupni.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Wobstarajśo se { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = K { -brand-name-google } Translate
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = K { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Wobstarajśo se rozšyrjenje
-features-translate-switch-languages-in = Rěcy w { -brand-name-firefox } pśešaltowaś
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Jolic { -brand-name-firefox } južo wužywaśo, móžośo rěc swójogo wobglědowaka změniś abo pówjerchoju { -brand-name-firefox } rěcy pśidaś. <a { $attrs }>Zgóńśo howu wěcej.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Z rozšyrjenim { -brand-name-google } Translate, móžośo tuchylu <a { $attrs }>toś te rěcy pśełožyś</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> a wěcej!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } jo za wše
-# Outdated string
-features-translate-for-everyone = Firefox jo za wšykne
+features-translate-when-you-translate-a-webpage = Gaž webbok pśełožujośo, wón priwatny wóstawa
+features-translate-what-languages-are-currently = Kótare rěcy se tuchylu pódpěraju?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Slědujuce rěcy se tuchylu pśez pśełožowańsku funkciju  { -brand-name-firefox } pódpěraju:
+features-translate-and-more-languages-are-in = A dalšne rěcy su we wuwiśu!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } wašu rěc powěda
