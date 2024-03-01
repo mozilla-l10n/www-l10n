@@ -40,8 +40,8 @@ footer-go = Перейти
 footer-donate = Пожертвовать
 # Obsolete string
 footer-twitter = { -brand-name-twitter }
-footer-x = н
-footer-x-formerly-twitter = X (ранее Твиттер)
+footer-x = X
+footer-x-formerly-twitter = X (ранее Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

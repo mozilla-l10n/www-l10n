@@ -55,7 +55,7 @@ manifesto-i-support-the-vision-of = Я поддерживаю видение л�
 # Obsolete string
 manifesto-share-on-twitter = Поделиться в { -brand-name-twitter(case: "prepositional") }
 manifesto-share-on-x = Поделиться на X
-manifesto-share-on-x-aria-label = Поделиться на X (ранее Твиттер)
+manifesto-share-on-x-aria-label = Поделиться на X (ранее Twitter)
 manifesto-our-10-principles = <strong>Наши 10</strong> Принципов
 manifesto-read-the-entire-manifesto = Прочесть весь манифест
 manifesto-love-the-web = Любите Интернет?
