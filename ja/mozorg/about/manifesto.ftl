@@ -56,7 +56,10 @@ manifesto-we-are-committed-to-diverse = Mozilla は一般の利益のために�
 manifesto-show-your-support = 支援をお願いします
 manifesto-an-internet-with-these = こうした性質のインターネットはおのずから実現されるものではありません。多くの個人や組織が、こうした願望をインターネット技術と人間のインターネット上のエクスペリエンスに組み入れる必要があります。{ -brand-name-mozilla } のマニフェストとその補遺は、こうした願望を推進する { -brand-name-mozilla } の約束です。Mozilla のねらいは、こうした目標を共にする世界各地の人々や組織と協働し、あらゆる人々のためにインターネットをより良い場にすることです。
 manifesto-i-support-the-vision-of = 私は @mozilla のより健全で優れたインターネットのビジョンに賛同します。あなたはどうですか？
+
+# Obsolete string
 manifesto-share-on-twitter = { -brand-name-twitter } にシェア
+
 manifesto-our-10-principles = <strong>Mozilla の 10 </strong>原則
 manifesto-read-the-entire-manifesto = マニフェストを読む
 manifesto-love-the-web = ウェブが好きですか？
