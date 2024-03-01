@@ -38,7 +38,10 @@ footer-websites-legal = Undang-undang
 footer-language = Bahasa
 footer-go = Pergi
 footer-donate = Sumbangan
+
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

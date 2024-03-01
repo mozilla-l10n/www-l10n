@@ -38,7 +38,10 @@ footer-websites-legal = الشؤون القانونية
 footer-language = اللغة
 footer-go = ابدأ
 footer-donate = تبرَّع
+
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

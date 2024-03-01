@@ -38,7 +38,10 @@ footer-websites-legal = 法的情報
 footer-language = 言語
 footer-go = 進む
 footer-donate = 寄付する
+
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
