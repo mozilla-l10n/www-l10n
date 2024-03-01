@@ -5,39 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Prevedite stranicu - direktno u vašem pretraživaču
-# page description
-features-translate-translate-more-than = Prevodite sa više od 100 jezika na svoj jezik direktno u svom { -brand-name-firefox-browser }u - lakše nego ikad.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Prevedite web stranicu sa { -brand-name-firefox }om
 features-translate-translate-the-web = Prevedite stranicu sa { -brand-name-firefox }om
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Prevedi stranicu
-# Obsolete string
-features-translate-the-google-translate = Ekstenzija To { -brand-name-google } Translate za { -brand-name-firefox } čini web dostupnim cijelom svijetu.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Internet je pun nevjerovatnih stvari, ali većina njih nije na bosanskom jeziku, zbog čega je milijardama ljudi širom svijeta potreban prevodilac da bi koristili internet. Možete da <a { $attrs }>preuzmete { -brand-name-firefox } na više od 100 jezika</a>, tako da se meniji pretraživača, obavještenja i poruke pojavljuju na željenom jeziku, ali to opet ne rešava jezički problem svog tog nevjerovatnog sadržaja koji tražite u pretraživaču.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } dodatak</a> može da automatski prevoditi sadržaj na stranicama koje posjećujete. Za razliku od nekih alternativa „u oblaku”, ovaj dodatak prevodi tekst lokalno u { -brand-name-firefox }-u, tako da sadržaj koji prevodite ne napušta vaš uređaj.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Preuzmite { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate je dostupan na preko 100 jezika* i koriste ga milioni ljudi širom svijeta. Ali prebacivanje između translate.google.com i stranice koju želite da pročitate ne pruža baš idealno korisničko iskustvo. <a { $attrs }>To { -brand-name-google } Translate</a> dodatak čini prevođenje posjećene stranice lakšim nego ikad.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Preuzmite To { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Preuzmite ekstenziju
-features-translate-once-installed-simply = Jednom kad je instalirana, jednostavno označite tekst koji želite da prevedete i kliknite desnim tasterom miša da biste otvorili meni sa dve opcije: 1) Vodi na translate.google.com sa vašim odabranim tekstom koji se automatski unosi u polje za prevod; ili 2) Slušajte audio izgovor fraze (pokreće { -brand-name-google } Text-to-Speech), što je od pomoći ako pokušavate naučiti novi jezik.
-features-translate-switch-languages-in = Promijeni jezike u { -brand-name-firefox }u
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Ako već koristite { -brand-name-firefox }, možete promijeniti jezik vašeg pretraživača ili dodati jezike u { -brand-name-firefox } interfejs. <a { $attrs }>Ovdje saznajte kako.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Sa ekstenzijom To { -brand-name-google } Translate, trenutno možete prevesti <a { $attrs }>ove jezike</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> i više!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } je za svakoga
-# Outdated string
-features-translate-for-everyone = Firefox je za svakoga
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } prijevodi su ugrađena funkcija prevođenja koja vam omogućava da lahko pretražujete web na željenom jeziku. Saznajte više o tome kako ova funkcija u { -brand-name-firefox } funkcioniše i kako { -brand-name-mozilla } pomaže da ono što prevodite ostane privatno.
+features-translate-one-of-the-best-things-about = Jedna od najboljih stvari na internetu je to što možemo pristupiti sadržaju širom svijeta. Bilo da su u pitanju novinski članci, blogovi ili čak pregled vašeg najnovijeg tehnološkog gadgeta, sve to možete pronaći na naizgled beskrajnom webu. Uz najnoviju funkciju prevođenja { -brand-name-firefox }a, ovaj alat će kontinuirano prevoditi web stranicu u realnom vremenu.
+features-translate-while-other-browsers-rely-on = Dok se drugi pretraživači oslanjaju na usluge u oblaku, { -brand-name-firefox } jezički modeli prijevoda se preuzimaju na korisnikov pretraživač i prijevodi se rade lokalno, tako da { -brand-name-mozilla } ne bilježi koje web stranice prevodite.
+features-translate-when-you-translate-a-webpage = Kada prevedete web stranicu, ona ostaje privatna
+features-translate-when-your-translations-are = Kada se vaši prijevodi obrađuju lokalno, nikakvi podaci s vašeg odabranog uređaja ne napuštaju vaš uređaj ili se za prijevod oslanjaju na usluge u oblaku. To znači da { -brand-name-mozilla } ne zna koju web stranicu prevodite i čini da se naša funkcija prevođenja ističe u poređenju sa drugim alatima za prevođenje.
+features-translate-what-languages-are-currently = Koji jezici su trenutno podržani?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Ispod navedeni jezici su trenutno podržani od strane { -brand-name-firefox } funkcije prijevoda:
+features-translate-and-more-languages-are-in = I još jezika je u razvoju!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori vaš jezik
