@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,10 @@ manifesto-we-are-committed-to-diverse = Ci impegniamo a realizzare un Internet c
 manifesto-show-your-support = Mostra il tuo sostegno
 manifesto-an-internet-with-these = Un Internet con queste qualità non nascerà in maniera autonoma. Gli individui e le organizzazioni devono incorporare queste aspirazioni nelle stesse tecnologie e nell’esperienza umana del Web. Il Manifesto { -brand-name-mozilla } e questo addendum testimoniano l’impegno di { -brand-name-mozilla } a promuovere le suddette aspirazioni. Il nostro obiettivo è lavorare insieme alle persone e organizzazioni di tutto il mondo che condividono la missione di rendere Internet un posto migliore per tutti.
 manifesto-i-support-the-vision-of = Io sostengo la visione di @mozilla per un Internet migliore e più in salute. Ti unisci a me?
+# Obsolete string
 manifesto-share-on-twitter = Condividi su { -brand-name-twitter }
+manifesto-share-on-x = Condividi su X
 manifesto-our-10-principles = <strong>I nostri 10</strong> principi
-manifesto-use-open-badges-to-share = Condividi le tue competenze e i tuoi interessi con Open Badges
-manifesto-explore-how-the-web-impacts = Scopri l’impatto del Web sulla scienza
-manifesto-learn-about-open-source = Informati sul codice open source nel giornalismo
-manifesto-read-about-open-internet = Leggi le iniziative e gli sviluppi della nostra politica per un Internet aperto
-manifesto-explore-how-to-help-keep = Scopri come puoi contribuire a mantenere il Web aperto
-manifesto-see-how-the-web-can-connect = Scopri come il Web può avvicinare il mondo all’assistenza sanitaria
-manifesto-explore-how-the-web-works = Tocca con mano il funzionamento del Web
-manifesto-see-how-mozilla-works = Informati sulle iniziative di { -brand-name-mozilla } per mettere la tua privacy al primo posto
-manifesto-read-about-developments = Leggi le novità sugli ultimi sviluppi nel campo della privacy e della protezione dati
-manifesto-learn-more-about-how-to = Impara a tutelarti durante la tua esperienza online
-manifesto-use-these-free-tools-to = Insegna il Web con i nostri strumenti gratuiti
-manifesto-learn-about-creating-and = Impara a creare e gestire contenuti per il Web
-manifesto-add-new-voices-to-open = Aggiungi voci nuove alle tecnologie open source
-manifesto-set-your-do-not-track = Attiva l’impostazione antitracciamento
-manifesto-understand-the-web-ecosystem = Impara a conoscere l’ecosistema del Web
-manifesto-explore-how-open-practices = Apprendi come le pratiche “open” contribuiscono a mantenere il Web accessibile
-manifesto-learn-how-to-remix-content = Impara a rielaborare i contenuti per creare qualcosa di completamente nuovo
-manifesto-learn-how-to-maximize = Sfrutta appieno il potenziale interattivo del Web
-manifesto-participate-in-our-governance = Partecipa alla discussione sul forum amministrativo
-manifesto-join-us-as-a-volunteer = Collabora con noi come volontario
-manifesto-learn-how-to-collaborate = Informati su come puoi collaborare online
-manifesto-visualize-who-you-interact = Identifica le entità con cui interagisci sul Web con { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Impara a creare risorse web in gruppo
-manifesto-host-or-join-a-maker-party = Ospita o prendi parte a un { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Sviluppa le tue competenze di collaborazione online
 manifesto-read-the-entire-manifesto = Leggi il manifesto completo
 manifesto-love-the-web = Ti piace il Web?
 manifesto-get-the-mozilla-newsletter = Iscriviti alla newsletter di { -brand-name-mozilla } ed aiutaci a mantenerlo aperto e libero.
