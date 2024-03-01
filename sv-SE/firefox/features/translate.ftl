@@ -5,39 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Översätt webben - direkt i din webbläsare
-# page description
-features-translate-translate-more-than = Översätt från mer än 100 språk till ditt språk direkt i din { -brand-name-firefox-browser } - enklare än någonsin.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Översätt en webbsida med { -brand-name-firefox }
 features-translate-translate-the-web = Översätt webben med { -brand-name-firefox }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Översätt webben
-# Obsolete string
-features-translate-the-google-translate = Tillägget { -brand-name-google } Translate för { -brand-name-firefox } gör internet tillgängligt för hela världen.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Internet är fyllt med fantastiska grejer, men mycket av det är inte skrivet på engelska — vilket gör att miljarder människor runt om i världen behöver en översättare bara för att använda internet. Du kan <a { $attrs }>ladda ner { -brand-name-firefox } på över 100 språk</a>, så att din webbläsares menyer, aviseringar och meddelanden finns på ditt språk, men det löser inte problemet med allt det fantastiska innehållet du använder din webbläsare för att hitta.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations }-tillägget</a> kan automatiskt översätta innehåll från webbsidorna du besöker. Till skillnad från vissa molnbaserade alternativ översätter denna tillägg text lokalt i { -brand-name-firefox }, så att innehållet du översätter inte lämnar din dator.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Hämta { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate, med över 100 språk*, används av miljontals människor runt om i världen. Men att flytta fram och tillbaka mellan translate.google.com och sidan du försöker läsa är inte en perfekt upplevelse. Med tillägget <a { $attrs }>To { -brand-name-google } Translate</a> kan du översätta sidan du är på lättare än någonsin.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Gå till { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Hämta tillägget
-features-translate-once-installed-simply = När du har installerat, markerar du bara texten du vill översätta och högerklickar för att öppna en meny med två alternativ: 1) Ta dig till translate.google.com med din markerade text automatiskt angiven i översättningsfältet eller 2) Lyssna på ljuduttalande av frasen (drivs av { -brand-name-google } Text-to-Speech), vilket är användbart om du försöker lära dig ett nytt språk.
-features-translate-switch-languages-in = Byt språk i { -brand-name-firefox }
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Om du redan använder { -brand-name-firefox } kan du ändra webbläsarens språk eller lägga till språk i { -brand-name-firefox } gränssnitt. <a { $attrs }>Läs mer här.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Med To { -brand-name-google } Translate-tillägget kan du för närvarande översätta <a { $attrs }>dessa språk</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> och fler!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } är för alla
-# Outdated string
-features-translate-for-everyone = Firefox är för alla
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } översättningar är en inbyggd översättningsfunktion som gör att du enkelt kan surfa på webben på ditt önskade språk. Läs mer om hur den här funktionen i { -brand-name-firefox } fungerar och hur { -brand-name-mozilla } hjälper till att hålla det du översätter privat.
+features-translate-one-of-the-best-things-about = En av de bästa sakerna med internet är att vi kan komma åt innehåll från hela världen. Oavsett om det är nyhetsartiklar, bloggar eller till och med en recension av din senaste tekniska gadget, kan du hitta allt på den till synes oändliga webben. Med { -brand-name-firefox }:s senaste kommer det här verktyget kontinuerligt att översätta en webbsida i realtid.
+features-translate-while-other-browsers-rely-on = Medan andra webbläsare förlitar sig på molntjänster, hämtas språkmodellerna för { -brand-name-firefox } översättning till användarens webbläsare och översättningar görs lokalt, så { -brand-name-mozilla } inte registrerar vilka webbsidor du översätter.
+features-translate-when-you-translate-a-webpage = När du översätter en webbsida förblir den privat
+features-translate-when-your-translations-are = När dina översättningar bearbetas lokalt, lämnas ingen data från din valda enhet din enhet eller förlitar sig på molntjänster för översättning. Det betyder att { -brand-name-mozilla } inte vet vilken webbsida du översätter och gör att vår översättningsfunktion sticker ut i jämförelse med andra översättningsverktyg.
+features-translate-what-languages-are-currently = Vilka språk stöds för närvarande?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Språken nedan stöds för närvarande av funktionen { -brand-name-firefox } översättningar:
+features-translate-and-more-languages-are-in = Och fler språk är under utveckling!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } talar ditt språk
