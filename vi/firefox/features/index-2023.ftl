@@ -37,6 +37,8 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } tự độ
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Loại bỏ những quảng cáo dính theo dõi bạn bằng trình chặn dấu vết tích hợp của { -brand-name-firefox }.
 features-index-translate-the-web = Dịch trang web
+features-index-translate-websites-to-your = Dịch các trang web sang ngôn ngữ của bạn trực tiếp trong trình duyệt { -brand-name-firefox } của bạn – mà không chia sẻ dữ liệu của bạn với bất kỳ ai khác.
+# Obsolete string
 features-index-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox } của bạn - dễ dàng hơn bao giờ hết.
 features-index-picture-in-picture = Hình trong hình
 features-index-got-things-to-do = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }.

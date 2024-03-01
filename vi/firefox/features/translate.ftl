@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Dịch trang web - trực tiếp trong trình duyệt của bạn
-# page description
-features-translate-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox-browser } của bạn - dễ dàng hơn bao giờ hết.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Dịch một trang web với { -brand-name-firefox }
 features-translate-translate-the-web = Dịch trang web với { -brand-name-firefox }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Dịch trang web
-# Obsolete string
-features-translate-the-google-translate = Tiện ích To { -brand-name-google } Translate dành cho { -brand-name-firefox } làm cho trang web có thể tiếp cận với mọi người dễ dàng hơn.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Internet có rất nhiều thứ tuyệt vời, nhưng rất nhiều thứ không được viết bằng tiếng Anh — khiến hàng tỷ người trên toàn cầu cần một phiên dịch chỉ để sử dụng Internet. Bạn có thể <a { $attrs }>tải xuống { -brand-name-firefox } trong hơn 100 ngôn ngữ</a>, vì vậy menu, thông báo và tin nhắn của trình duyệt ở ngôn ngữ ưa thích của bạn, nhưng điều đó không giải quyết được vấn đề của tất cả nội dung thú vị mà bạn sử dụng trình duyệt của mình để tìm.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Tiện ích { -brand-name-firefox-translations }</a> có thể tự động dịch nội dung từ các trang web bạn truy cập. Không giống như một số lựa chọn thay thế dựa trên đám mây, tiện ích mở rộng này dịch văn bản cục bộ trong { -brand-name-firefox }, để nội dung bạn cần dịch không rời khỏi máy của bạn.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Tải xuống { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate, với hơn 100 ngôn ngữ* đã sẵn sàng, được hàng triệu người trên thế giới sử dụng. Nhưng di chuyển qua lại giữa translate.google.com và trang bạn đang cố đọc không phải là trải nghiệm lý tưởng. Tiện ích <a { $attrs }>To { -brand-name-google } Translate</a> giúp việc dịch trang bạn đang truy cập dễ dàng hơn bao giờ hết.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Tải xuống To { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Nhận tiện ích mở rộng
-features-translate-once-installed-simply = Sau khi cài đặt, chỉ cần đánh dấu văn bản bạn muốn dịch và nhấp chuột phải để kéo lên menu có hai tùy chọn: 1) Đưa đến bạn translate.google.com với văn bản đã chọn của bạn tự động được nhập vào trường dịch; hoặc 2) Nghe cách phát âm của cụm từ (được hỗ trợ bởi { -brand-name-google } Text-to-Speech), điều này rất hữu ích nếu bạn đang cố gắng học một ngôn ngữ mới.
-features-translate-switch-languages-in = Chuyển đổi ngôn ngữ trong { -brand-name-firefox }
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Nếu bạn đã sử dụng { -brand-name-firefox }, bạn có thể thay đổi ngôn ngữ của trình duyệt hoặc thêm ngôn ngữ vào giao diện { -brand-name-firefox }. <a { $attrs }>Tìm hiểu cách thực hiện tại đây.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Với tiện ích To { -brand-name-google } Translate, bạn hiện có thể dịch <a { $attrs }>những ngôn ngữ này</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> và hơn thế nữa!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } dành cho tất cả mọi người
-# Outdated string
-features-translate-for-everyone = Firefox dành cho tất cả mọi người
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = Dịch thuật của { -brand-name-firefox } là tính năng dịch tích hợp cho phép bạn dễ dàng duyệt web bằng ngôn ngữ yêu thích của mình. Tìm hiểu thêm về cách hoạt động của tính năng này trong { -brand-name-firefox }, và làm thế nào { -brand-name-mozilla } giúp giữ những gì bạn dịch ở chế độ riêng tư.
+features-translate-one-of-the-best-things-about = Một trong những điều tuyệt vời nhất về Internet là chúng ta có thể truy cập nội dung trên toàn thế giới. Cho dù đó là các bài báo, blog hay thậm chí là bài đánh giá về tiện ích công nghệ mới nhất của bạn, bạn đều có thể tìm thấy tất cả trên trang web dường như không bao giờ kết thúc. Với tính năng dịch thuật mới nhất của { -brand-name-firefox }, công cụ này sẽ liên tục dịch một trang web theo thời gian thực.
+features-translate-while-other-browsers-rely-on = Trong khi các trình duyệt khác dựa vào dịch vụ đám mây, các mô hình ngôn ngữ dịch thuật của { -brand-name-firefox } được tải xuống trên trình duyệt của người dùng và các bản dịch được thực hiện cục bộ, do đó { -brand-name-mozilla } không ghi lại những trang web bạn dịch.
+features-translate-when-you-translate-a-webpage = Khi bạn dịch một trang web, nó vẫn sẽ riêng tư
+features-translate-when-your-translations-are = Khi bản dịch của bạn được xử lý cục bộ, không có dữ liệu nào từ thiết bị bạn đã chọn rời khỏi thiết bị của bạn hoặc dựa vào các dịch vụ đám mây để dịch. Điều này có nghĩa rằng { -brand-name-mozilla } không biết bạn dịch trang web nào và làm cho tính năng dịch của chúng tôi nổi bật so với các công cụ dịch khác.
+features-translate-what-languages-are-currently = Những ngôn ngữ nào hiện đang được hỗ trợ?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Các ngôn ngữ bên dưới hiện được hỗ trợ bởi tính năng Dịch thuật của { -brand-name-firefox }:
+features-translate-and-more-languages-are-in = Và nhiều ngôn ngữ khác đang được phát triển!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } nói ngôn ngữ của bạn
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Tính năng Dịch thuật của { -brand-name-firefox } là một cách khác để { -brand-name-mozilla } giữ cho internet của bạn được cá nhân hóa và riêng tư hơn. { -brand-name-mozilla } không theo dõi những trang web bạn dịch. Với hàng triệu người dùng trên toàn thế giới, { -brand-name-mozilla } muốn đảm bảo rằng những người sử dụng { -brand-name-firefox } đang học tập, giao tiếp, chia sẻ và cập nhật thông tin theo cách riêng của họ. <a { $download }>Bắt đầu với ngôn ngữ yêu thích của bạn bằng cách tải xuống { -brand-name-firefox }.</a>

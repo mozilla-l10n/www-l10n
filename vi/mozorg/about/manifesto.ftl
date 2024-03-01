@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = Chúng tôi sẽ tập trung vào việc
 manifesto-show-your-support = Thể hiện sự ủng hộ của bạn
 manifesto-an-internet-with-these = Một internet với những phẩm chất này sẽ không đi vào cuộc sống của chính nó. Các cá nhân và tổ chức phải nhúng những khát vọng này vào công nghệ internet và vào trải nghiệm của con người với internet. Tuyên ngôn và Phụ lục của { -brand-name-mozilla } thể hiện cam kết của { -brand-name-mozilla }, nhằm thúc đẩy những khát vọng này. Chúng tôi mong muốn hợp tác với mọi người và các tổ chức ở khắp mọi nơi, những người chia sẻ những mục tiêu này để biến internet thành một nơi thậm chí tốt hơn cho mọi người.
 manifesto-i-support-the-vision-of = Tôi ủng hộ tầm nhìn về một mạng internet tốt hơn, lành mạnh hơn từ @mozilla, bạn sẽ tham gia chứ?
+# Obsolete string
 manifesto-share-on-twitter = Chia sẻ trên { -brand-name-twitter }
+manifesto-share-on-x = Chia sẻ trên X
+manifesto-share-on-x-aria-label = Chia sẻ trên X (trước đây là Twitter)
 manifesto-our-10-principles = <strong>10</strong> nguyên tắc của chúng tôi
-manifesto-use-open-badges-to-share = Sử dụng Open Badge để chia sẻ những kỹ năng và sự quan tâm của bạn
-manifesto-explore-how-the-web-impacts = Khám phá web tác động đến khoa học như thế nào
-manifesto-learn-about-open-source = Tìm hiểu thêm về nguồn mở trong báo chí
-manifesto-read-about-open-internet = Đọc về những sáng kiến chính sách internet mở và những sự phát triển
-manifesto-explore-how-to-help-keep = Khám phá việc giúp giữ web mở như thế nào
-manifesto-see-how-the-web-can-connect = Xem cách mà web có thể kết nối với thế giới một cách lành mạnh
-manifesto-explore-how-the-web-works = Khám phá cách các web hoạt động
-manifesto-see-how-mozilla-works = Xem cách { -brand-name-mozilla } làm việc để đặt việc bảo mật của bạn lên hàng đầu
-manifesto-read-about-developments = Đọc về quá trình bảo vệ sự riêng tư và an toàn dữ liệu
-manifesto-learn-more-about-how-to = Tìm hiểu thêm về cách tự bảo vệ mình khi trực tuyến
-manifesto-use-these-free-tools-to = Sử dụng những công cụ miễn phí này để đào tạo web
-manifesto-learn-about-creating-and = Tìm hiểu về việc tạo và quản lý nội dung của web
-manifesto-add-new-voices-to-open = Thêm tiếng nói mới cho công nghệ nguồn mở
-manifesto-set-your-do-not-track = Thiết lập tùy chọn không theo dõi
-manifesto-understand-the-web-ecosystem = Hiểu về hệ sinh thái web
-manifesto-explore-how-open-practices = Khám phá các lý thuyết mở để giữ web dễ dàng tiếp cận
-manifesto-learn-how-to-remix-content = Tìm hiểu cách trộn nội dung để tạo ra nội dung mới
-manifesto-learn-how-to-maximize = Học cách tối đa hóa khả năng tương tác của web
-manifesto-participate-in-our-governance = Tham gia vào diễn đàn quản trị của chúng tôi
-manifesto-join-us-as-a-volunteer = Tham gia với chúng tôi như một tình nguyện viên
-manifesto-learn-how-to-collaborate = Tìm hiểu cách tương tác trực tuyến
-manifesto-visualize-who-you-interact = Hình dung hoạt động web với { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Tìm hiểu cách tạo tài nguyên web với người khác
-manifesto-host-or-join-a-maker-party = Tổ chức hoặc tham gia một { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Tìm hiểu cách xây dựng kỹ năng làm việc trực tuyến
 manifesto-read-the-entire-manifesto = Đọc toàn bộ tuyên ngôn
 manifesto-love-the-web = Yêu thích web?
 manifesto-get-the-mozilla-newsletter = Nhận bản tin { -brand-name-mozilla } và giúp chúng tôi giữ cho nó mở và miễn phí.
