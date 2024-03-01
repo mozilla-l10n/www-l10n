@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = თარგმნეთ საიტები – პირდაპირ ბრაუზერში
-# page description
-features-translate-translate-more-than = თარგმნეთ 100-ზე მეტი ენიდან თქვენს ენაზე პირდაპირ { -brand-name-firefox-browser }-ში – ჯერ არნახული სიმარტივით.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = თარგმნეთ ვებგვერდი { -brand-name-firefox }-ით
 features-translate-translate-the-web = თარგმნეთ საიტები { -brand-name-firefox }-ით
-# Shorter title used in subnav
-features-translate-translate-the-web-short = გვერდების თარგმნა
-# Obsolete string
-features-translate-the-google-translate = To { -brand-name-google } Translate გაფართოება { -brand-name-firefox }-ზე ვებსივრცეს ხელმისაწვდომის ხდის მთელი მსოფლიოსთვის.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = ინტერნეტი სავსეა საოცრებებით, მაგრამ ბევრი რამ ინგლისურისგან განსხვავებულ ენებზეა — შედეგად, მსოფლიოში მილიარდობით ხალხს ესაჭიროება მთარგმნელი ინტერნეტით უბრალო სარგებლობისთვისაც კი. შეგიძლიათ <a { $attrs }>ჩამოტვირთოთ { -brand-name-firefox } 100-ზე მეტი ენისთვის</a> და ბრაუზერის მენიუები, შეტყობინებები ან ცნობები გამოჩნდება თქვენს სასურველ ენაზე, თუმცაღა ეს ვერ გადაწყვეტს ბრაუზერით მოძიებული მასალების საკითხს.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = ამ <a { $attrs }>{ -brand-name-firefox-translations }გაფართოებით</a> შესაძლებელია შიგთავსის ავტომატურად თარგმნა ვებგვერდებზე, რომელთაც ეწვევით. ღრუბლოვან მომსახურებებზე დაფუძნებული სხვა შემცვლელებისგან განსხვავებით, აღნიშნული გაფართოება ნაწერს თარგმნის ადგილობრივად, პირდაპირ { -brand-name-firefox }-ში, შესაბამისად, შიგთავსი არ დატოვებს თქვენს მოწყობილობას.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = გადმოწერეთ { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate, გამზადებული 100-ზე მეტი ენისთვის* გამოიყენება მილიონობით ადამიანის მიერ, მთელ მსოფლიოში. თუმცა ყოველ ჯერზე translate.google.com საიტზე შესვლა და გამოსვლა გვერდის წასაკითხად, მეტად მოუხერხებელია. <a { $attrs }>To { -brand-name-google } Translate</a> გაფართოებით კი გვერდის თარგმნა შესაძლებელია აქამდე არნახული სიმარტივით.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = გადმოწერეთ To { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = გადმოწერეთ გაფართოება
-features-translate-once-installed-simply = დაყენების შემდგომ მხოლოდ მონიშნეთ ტექსტი რომლის თარგმნაც გსურთ და მარჯვენა წკაპისას ჩამოიშლება მენიუ ორი არჩევანით: 1) გადახვიდეთ translate.google.com მისამართზე თქვენ მიერ მონიშნული ტექსტის სათარგმნ ველში შეყვანით; ან 2) მოუსმინოთ ხმოვან წარმოთქმას (უზრუნველყოფილს { -brand-name-google } Text-to-Speech მომსახურებით), რომელიც მეტად გამოსადეგი იქნება ახალი ენის შესასწავლად.
-features-translate-switch-languages-in = შეცვალეთ ენა { -brand-name-firefox }-ში
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = თუ უკვე გიყენიათ { -brand-name-firefox }, შეგიძლიათ შეცვალოთ ბრაუზერის ენა ან დაამატოთ ახლები { -brand-name-firefox }-ის იერსახეს. <a { $attrs }>იხილეთ როგორ.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *To { -brand-name-google } Translate გაფართოებით, შეგიძლიათ თარგმნოთ <a { $attrs }>შემდეგ ენებზე</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> და სხვა!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } ყველასთვისაა
-# Outdated string
-features-translate-for-everyone = Firefox ყველასთვისაა
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox }-ის თარგმნა არის თარგმნის ჩაშენებული შესაძლებლობა, რომელიც საშუალებას გაძლევთ მარტივად მოინახულოთ ვებსივრცე, სასურველ ენით. შეიტყვეთ, თუ როგორ მუშაობს { -brand-name-firefox }-ის ეს შესაძლებლობა და როგორ ეხმარება { -brand-name-mozilla } თქვენი წერილების პირადულობაში თარგმნაში.
+features-translate-one-of-the-best-things-about = ინტერნეტის ერთ-ერთი საუკეთესო რამ არის ის, რომ ჩვენ შეგვიძლია შიგთავსზე წვდომა მთელი მსოფლიოდან. იქნება ეს ახალი ამბების სტატიები, ბლოგები ან თუნდაც თქვენი უახლესი ტექნიკური გაჯეტის მიმოხილვა, შეგიძლიათ ყველაფერი მონახოთ ერთი შეხედვით დაუსრულებელ ვებსივრცეში. { -brand-name-firefox }-ის უახლესი თარგმნის შესაძლებლობით, ეს ხელსაწყო განუწყვეტლივ გადათარგმნის ვებგვერდებს რეალურ დროში.
+features-translate-while-other-browsers-rely-on = მაშინ როცა სხვა ბრაუზერები ღრუბლოვანი მომსახურებებისაა დამოკიდებული, { -brand-name-firefox }-ის თარგმნის ენის ნიმუშები ჩამოიტვირთება მომხმარებლის ბრაუზერიდან და ითარგმნება ადგილობრივად, ასე რომ { -brand-name-mozilla } არ აღრიცხავს, თქვენ მიერ თარგმნილი გვერდების მონაცემებს.
+features-translate-when-you-translate-a-webpage = როცა გვერდს თარგმნით, იგი პირადი დარჩება
+features-translate-when-your-translations-are = როცა თქვენი თარგმანი ადგილობრივად დამუშავდება, არჩეული მოწყობილობიდან არცერთი მონაცემი არ გადის თქვენი მოწყობილობიდან ან ღრუბლოვანი მომსახურებების თარგმნისთვის. ეს ნიშნავს, რომ { -brand-name-mozilla }-მა არ იცის, რომელ ვებგვერდებს თარგმნით და ჩვენს თარგმნის საშუალებას იძლევა, სხვა სათარგმნ ხელსაწყოებისგან განსხვავებით.
+features-translate-what-languages-are-currently = რომელი ენებია მხარდაჭერილი?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = ქვემოთ მოცემული ენები ამჟამად მხარდაჭერილია { -brand-name-firefox }-ის თარგმნის შესაძლებლობით:
+features-translate-and-more-languages-are-in = და კიდევ მეტი ენა დამუშავების სტადია!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } ფლობს თქვენს ენას
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = { -brand-name-firefox }-ის თარგმნის შესაძლებლობა კიდევ ერთი საშუალებაა, რომ { -brand-name-mozilla } უზრუნველყოფს თქვენი ინტერნეტის მორგების და პირადულობის შენარჩუნებას. { -brand-name-mozilla } არ ადევნებს თვალს, რომელ ვებგვერდებს თარგმნით. მილიონობით მომხმარებელით მსოფლიოს მასშტაბით, { -brand-name-mozilla }-ს სურს უზრუნველყოს, რომ ისინი, ვინც { -brand-name-firefox }-ს იყენებს, შეისწავლიან, ურთიერთობენ, გაუზიარებენ და იქნებიან ინფორმირებულები საკუთარი პირობებით. <a { $download }>დაიწყეთ სასურველ ენაზე { -brand-name-firefox }-ის ჩამოტვირთვით.</a>
