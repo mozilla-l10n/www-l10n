@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = 我們致力於讓網際網路變成能�
 manifesto-show-your-support = 展現您的支持
 manifesto-an-internet-with-these = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，我們致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-i-support-the-vision-of = 我支持 @mozilla 要打造一個更好、更健康的網際網路環境的遠見，想與我一起加入嗎？
+# Obsolete string
 manifesto-share-on-twitter = 分享到 { -brand-name-twitter }
+manifesto-share-on-x = 分享到 X
+manifesto-share-on-x-aria-label = 分享到 X以前稱為 Twitter
 manifesto-our-10-principles = 我們的 <strong>10</strong> 個信條
-manifesto-use-open-badges-to-share = 使用 Open Badges 來分享您的技能與興趣
-manifesto-explore-how-the-web-impacts = 探索 Web 如何影響科學
-manifesto-learn-about-open-source = 了解更多新聞學當中的開源文化
-manifesto-read-about-open-internet = 閱讀我們的開放網路政策倡議與發展
-manifesto-explore-how-to-help-keep = 探索如何幫助保持 Web 的開放
-manifesto-see-how-the-web-can-connect = 看看 Web 可如何將醫療衛生與世界連結起來
-manifesto-explore-how-the-web-works = 探索 Web 技術原理
-manifesto-see-how-mozilla-works = 看看 { -brand-name-mozilla } 如何努力，將您的隱私權視為最優先
-manifesto-read-about-developments = 閱讀我們在隱私與資料安全領域的發展
-manifesto-learn-more-about-how-to = 更加了解如何能保護您在線上的安全
-manifesto-use-these-free-tools-to = 使用這些免費的工具來教導 Web
-manifesto-learn-about-creating-and = 了解建立與策展 Web 內容
-manifesto-add-new-voices-to-open = 為開源技術加入新聲
-manifesto-set-your-do-not-track = 設定您的 Do Not Track 偏好
-manifesto-understand-the-web-ecosystem = 了解 Web 生態系統
-manifesto-explore-how-open-practices = 探索開放如何能夠實際地保持 Web 可被近用
-manifesto-learn-how-to-remix-content = 了解如何能夠混搭線上內容，用以建立新東西
-manifesto-learn-how-to-maximize = 了解如何能夠最大化 Web 的互動潛力
-manifesto-participate-in-our-governance = 參與我們的公司治理論壇
-manifesto-join-us-as-a-volunteer = 加入我們，成為志工
-manifesto-learn-how-to-collaborate = 了解如何在線上協作
-manifesto-visualize-who-you-interact = 透過 { -brand-name-lightbeam }，視覺化展示您在 Web 中的互動對象
-manifesto-learn-about-creating-web = 了解如何與他人一起創造 Web 資源
-manifesto-host-or-join-a-maker-party = 舉辦或參加 { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = 了解如何建構線上協作能力
 manifesto-read-the-entire-manifesto = 閱讀完整的宣言
 manifesto-love-the-web = 也熱愛 Web 嗎？
 manifesto-get-the-mozilla-newsletter = 訂閱 { -brand-name-mozilla } 電子報，與我們一起保持 Web 的自由與開放。
