@@ -77,8 +77,6 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } の詳細
 
 navigation-v2-innovation = イノベーション
 navigation-v2-close-innovation-menu = イノベーションメニューを閉じる
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = このインタラクティブ、オンライン、多次元なソーシャルスペースで会いましょう。
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = デベロッパー専用に構築された { -brand-name-firefox } ブラウザーをご覧ください。
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -77,8 +77,6 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } के बारे �
 
 navigation-v2-innovation = नवाचार
 navigation-v2-close-innovation-menu = नवाचार मेन्यू बंद करें
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = आपस में संपर्क करने की सुविधा वाले इस ऑनलाइन, बहुआयामी सोशल स्पेस में एक-दूसरे से मिलें।
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = सिर्फ़ डेवलपर्स के लिए बनाया गया { -brand-name-firefox } ब्राउज़र पाएँ।
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
