@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = We are committed to an internet that cat
 manifesto-show-your-support = Show Your Support
 manifesto-an-internet-with-these = An internet with these qualities will not come to life on its own. Individuals and organisations must embed these aspirations into internet technology and into the human experience with the internet. The { -brand-name-mozilla } Manifesto and Addendum represent { -brand-name-mozilla }’s commitment to advancing these aspirations. We aim to work together with people and organisations everywhere who share these goals to make the internet an even better place for everyone.
 manifesto-i-support-the-vision-of = I support the vision of a better, healthier internet from @mozilla, will you join me?
+# Obsolete string
 manifesto-share-on-twitter = Share on { -brand-name-twitter }
+manifesto-share-on-x = Share on X
+manifesto-share-on-x-aria-label = Share on X (formerly Twitter)
 manifesto-our-10-principles = <strong>Our 10</strong> Principles
-manifesto-use-open-badges-to-share = Use Open Badges to share your skills and interests
-manifesto-explore-how-the-web-impacts = Explore how the web impacts science
-manifesto-learn-about-open-source = Learn about open source code in journalism
-manifesto-read-about-open-internet = Read about open internet policy initiatives and developments
-manifesto-explore-how-to-help-keep = Explore how to help keep the web open
-manifesto-see-how-the-web-can-connect = See how the web can connect the world to healthcare
-manifesto-explore-how-the-web-works = Explore how the web works
-manifesto-see-how-mozilla-works = See how { -brand-name-mozilla } works to put your privacy first
-manifesto-read-about-developments = Read about developments in privacy and data safety
-manifesto-learn-more-about-how-to = Learn more about how to protect yourself online
-manifesto-use-these-free-tools-to = Use these free tools to teach the web
-manifesto-learn-about-creating-and = Learn about creating and curating content for the web
-manifesto-add-new-voices-to-open = Add new voices to open source technology
-manifesto-set-your-do-not-track = Set your Do Not Track preference
-manifesto-understand-the-web-ecosystem = Understand the web ecosystem
-manifesto-explore-how-open-practices = Explore how open practices keep the web accessible
-manifesto-learn-how-to-remix-content = Learn how to remix content to create something new
-manifesto-learn-how-to-maximize = Learn how to maximise the interactive potential of the web
-manifesto-participate-in-our-governance = Participate in our governance forum
-manifesto-join-us-as-a-volunteer = Join us as a volunteer
-manifesto-learn-how-to-collaborate = Learn how to collaborate online
-manifesto-visualize-who-you-interact = Visualise who you interact with on the web with { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Learn about creating web resources with others
-manifesto-host-or-join-a-maker-party = Host or join a { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Learn how to build online collaboration skills
 manifesto-read-the-entire-manifesto = Read the entire manifesto
 manifesto-love-the-web = Love the web?
 manifesto-get-the-mozilla-newsletter = Get the { -brand-name-mozilla } newsletter and help us keep it open and free.

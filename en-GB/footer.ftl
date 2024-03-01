@@ -11,31 +11,7 @@ footer-corporate-blog = Corporate Blog
 footer-browser-comparison = Browser Comparison
 footer-brand-standards = Brand Standards
 footer-browsers = Browsers
-# Outdated string
-footer-desktop = Desktop
-# Outdated string
-footer-mobile = Mobile
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = Products
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = Join
-# Outdated string
-footer-sign-up = Sign Up
-# Outdated string
-footer-sign-in = Sign In
-# Outdated string
-footer-benefits = Benefits
 footer-developers = Developers
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Visit <a { $moco_link }>{ -brand-name-mozill
 footer-portions-of-this-content = Portions of this content are ©1998–{ $current_year } by individual mozilla.org contributors. Content available under a <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licence</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Company
-# Outdated string
-footer-about = About
 footer-press-center = Press Centre
 footer-careers = Careers
-# Outdated string
-footer-test-new-features = Test New Features
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Tools
 footer-resources = Resources
 footer-contact = Contact
@@ -68,7 +38,10 @@ footer-websites-legal = Legal
 footer-language = Language
 footer-go = Go
 footer-donate = Donate
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (formerly Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
