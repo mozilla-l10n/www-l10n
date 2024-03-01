@@ -11,10 +11,6 @@ learn-more-about = Zhońće wjace wo wobhladowakach a produktach { -brand-name-f
 learn-more-faq = Husto stajene prašenja { -brand-name-firefox }
 the-history-of = Historija webwobhladowakow
 firefox-has-been = { -brand-name-firefox } hižo nimale wot spočatka eksistuje.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebel z winu
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } je njewotwisny a spěchuje so wot powšitkownosći wužitneje organizacije { -brand-name-mozilla }, kotraž za waše prawa online wojuje, a čini internet wšudźe přistupny za kóždeho.
 what-is-a = Što je webwobhladowak?
 a-web-browser = Webwobhladowak was wšudźe w interneće wjedźe a zmóžnja wam, sej wobrazy a wideja z cyłeho swěta wobhladać.
 update-your-browser = Aktualizujće swój wobhladowak na spěšny a wěsty { -brand-name-firefox }.
@@ -38,7 +34,10 @@ firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 new-school-meets = Nowa šula staru šulu z dotal najspěšnišim wobhladowakom zetkawa.
 firefox-for-windows = { -brand-name-firefox } za { -brand-name-windows } 64-bitowy
 we-worry-about = Staramy so wo wěstotu wašich datow, zo njebyšće wy to činił.
+# Obsolete string
 seven-of-the = Sydom z najlěpšich wobhladowakow w direktnym přirunanju
+six-of-the-best = Šěsć z najlěpšich wobhladowakow w direktnym přirunanju
+# Obsolete string
 we-compare-firefox = Přirunamy { -brand-name-firefox } z { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, zo bychmy wam pomhali so rozsudźić.
 comparing-firefox-chrome = Přirunanje mjez { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Wulki nic přeco najlěpše je. Rozsudźće so město toho za njewotwisnosć.
@@ -54,10 +53,6 @@ so-many-ads = Tak wjele wabjenja, tak mało sćerpnosće… Je čas, błudnosć 
 firefox-more-protection = { -brand-name-firefox }: Wjace škita. Mjenje starošćow.
 were-obsessed-with = Škit wašeje priwatnosće je nam jara wažny. Tohodla je priwatny modus { -brand-name-firefox } mócniši hač druhe.
 incognito-browser-what = Wobhladowak incognito: Štož to woprawdźe woznamjenja
-# Obsolete string
-take-the-stress = Pytajće wěsty wobhladowak bjez stresa.
-# Obsolete string
-building-a-safe = Wuwiwanje wěsteho wobhladowaka je kumšt a wědomosć, dokelž postajene prawidła njejsu.
 firefox-more-fingerprinter-blocking = Blokowanje porstowych wotćišćow
 firefox-more-translate-the-web = Web přełožować
 firefox-more-translate-more-than = Přełožujće wjace hač 100 rěčow direktnje do swojeje rěče w swojim { -brand-name-firefox-browser } - lóšo hač do toho.
