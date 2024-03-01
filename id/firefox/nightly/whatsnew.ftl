@@ -16,6 +16,8 @@ nightly-whatsnew-every-4-to-5-weeks = Setiap 4 hingga 5 minggu, versi utama dari
 
 nightly-whatsnew-this-is-a-good = Ini saat yang tepat untuk berterima kasih karena telah membantu kami membuat { -brand-name-firefox } menjadi lebih baik dan memberi Anda beberapa petunjuk mengenai dokumentasi, kanal komunikasi, dan situs berita terkait { -brand-name-nightly } yang mungkin menarik bagi Anda.
 
+
+# Obsolete string
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
