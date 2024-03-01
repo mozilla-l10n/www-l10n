@@ -38,7 +38,10 @@ footer-websites-legal = Informação legal
 footer-language = Idioma
 footer-go = Ir
 footer-donate = Fazer donativos
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (anteriormente Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
