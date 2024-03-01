@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,7 +52,10 @@ manifesto-we-are-committed-to-diverse = Nos comprometemos a una internet que cat
 manifesto-show-your-support = Demuestre su apoyo
 manifesto-an-internet-with-these = Una internet con estas cualidades no verá la vida por sí sola. Individuos y organizaciones deberán incluir estas aspiraciones en las tecnologías de internet y en la experiencia humana en internet. El Manifiesto de { -brand-name-mozilla } y la adenda representan el compromiso de { -brand-name-mozilla } para lograr estas aspiraciones. Esperamos trabajar junto a otras personas y organizaciones que compartan los mismos objetivos para hacer de internet un mejor lugar para todos.
 manifesto-i-support-the-vision-of = Yo apoyo esta visión de @mozilla por una internet mejor y más saludable, ¿te sumás también?
+# Obsolete string
 manifesto-share-on-twitter = Compartir en { -brand-name-twitter }
+manifesto-share-on-x = Compartir en X
+manifesto-share-on-x-aria-label = Compartir en X (anteriormente Twitter)
 manifesto-our-10-principles = <strong>Nuestros 10</strong> principios
 manifesto-read-the-entire-manifesto = Leé el manifiesto completo
 manifesto-love-the-web = ¿Amás la web?

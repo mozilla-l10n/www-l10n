@@ -11,23 +11,21 @@ nightly-whatsnew-youve-just-been = ¡Terminás de actualizarte a { -brand-name-f
 nightly-whatsnew-your-firefox-nightly = Se actualizó { -brand-name-firefox-nightly }
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Cada 4 a 5 semanas, se lanza una nueva versión de { -brand-name-firefox } y como resultado, la versión de { -brand-name-nightly } también aumenta.
-# Obsolete
-nightly-whatsnew-every-6-to-8-weeks = Cada 6 a 8 semanas, se lanza una nueva versión de { -brand-name-firefox } y como resultado, la versión de { -brand-name-nightly } también aumenta.
 nightly-whatsnew-this-is-a-good = Es un buen momento para agradecerte que nos ayudes a mejorar a { -brand-name-firefox } y darte algunas pistas a la documentación, canales de comunicaciones y sitios de noticias relacionados a { -brand-name-nightly } que te pueden interesar.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v3 = Si querés saber qué está pasando alrededor de { -brand-name-nightly } y su comunidad, leyendo nuestro <a { $blog }> blog </a> y síguenos en <a { $mastodon }> Mastodon </a> o <a { $twitter }> X </a> son buenos puntos de partida.
+# Obsolete string
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = Si querés saber qué está pasando alrededor de { -brand-name-nightly } y su comunidad, leer nuestro <a href="{ $blog }">blog</a> y seguirnos en <a href = "{ $mastodon }">Mastodon</a> o <a href="{ $twitter }">Twitter</a> son buenos puntos de partida.
-# Obsolete
-nightly-whatsnew-if-you-want-to = Si querés saber que pasa alrededeor de { -brand-name-nightly } y su comunidad, leer nuestro <a href="{ $blog }">blog</a> y seguirnos en <a href="{ $twitter }">{ -brand-name-twitter }</a> son buenos puntos de inicio.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no todavía no podés ver en los otros canales de { -brand-name-firefox }? Entonces podés mirar la página de preferencias <a { $attrs }>Experimentos en Nightly</a>
-# Obsolete
-# Variables:
-#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no podés aún ver en los otros canales de { -brand-name-firefox }? Entonces podés mirar la página de <a href="{ $mdn }">Funciones experimentales</a> en <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = ¿Se cuelga? ¿Comportamiento inesperado? ¿Regresiones en la compatibilidad web? ¡Nos encantaría que lo informés en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos que no lleguen a la versión final (extra karma si agregás la palabra clave <em>{ -brand-name-nightly }-community</em> a tus informes de errores)!
