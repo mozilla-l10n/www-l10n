@@ -206,4 +206,6 @@ privacy-book-questions-feedback = Pertanyaan & Umpan Balik
 
 privacy-book-do-you-have = Apakah Anda memiliki pertanyaan atau umpan balik? Jangan ragu untuk menghubungi kami, dengan senang hati kami menunggu kabar dari Anda!
 
+# Obsolete string
 privacy-book-twitter = { -brand-name-twitter }
+

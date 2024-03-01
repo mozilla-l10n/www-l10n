@@ -206,4 +206,6 @@ privacy-book-questions-feedback = ご質問・フィードバック
 
 privacy-book-do-you-have = ご質問やご意見がある方は、ぜひご遠慮なく Mozilla までご連絡ください。
 
+# Obsolete string
 privacy-book-twitter = { -brand-name-twitter }
+
