@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Nechte si přeložit obsah na webu přímo ve svém prohlížeči
-# page description
-features-translate-translate-more-than = Přímo v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } si můžete snadno přeložit obsah stránek z více než stovky jazyků.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Přeložte webové stránky pomocí { -brand-name-firefox(case: "gen") }
 features-translate-translate-the-web = Přeložte si na webu cokoliv díky { -brand-name-firefox(case: "dat") }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Překládání webových stránek
-# Obsolete string
-features-translate-the-google-translate = Rozšíření To { -brand-name-google } Translate pro { -brand-name-firefox(case: "acc") } zpřístupňuje web celému světu.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Internet je plný úžasných věcí, ale velká část z nich není napsána v potřebném jazyce, takže miliardy lidí na celém světě potřebují překladač, aby vůbec mohli internet používat. { -brand-name-firefox(case: "acc") } si sice můžete <a { $attrs }>stáhnout ve více než 100 jazycích</a>, takže nabídky, oznámení a dialogy prohlížeče se zobrazují ve vámi preferovaném jazyce, jenže to neřeší problém se vším tím úžasným obsahem, který pomocí prohlížeče vyhledáváte.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = Rozšíření <a { $attrs }>{ -brand-name-firefox-translations }</a> dokáže automaticky přeložit obsah webových stránek, které navštívíte. Na rozdíl od některých cloudových alternativ toto rozšíření překládá text lokálně ve { -brand-name-firefox(case: "loc") }, takže obsah, který překládáte, neopustí váš počítač.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Získat { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = Překladač { -brand-name-google } s více než 100 dostupnými jazyky* používají miliony lidí na celém světě. Neustálé přecházení sem a tam mezi stránkou translate.google.com a stránkou, kterou se snažíte přečíst, ovšem není zrovna ideální. Rozšíření <a { $attrs }>To { -brand-name-google } Translate</a> umožňuje překládat stránku, na které se nacházíte, snadněji než kdykoli předtím.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Získat To { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Získat toto rozšíření
-features-translate-once-installed-simply = Po jeho instalaci jednoduše zvýrazněte text, který chcete přeložit, a klikněte pravým tlačítkem myši, čímž se zobrazí nabídka se dvěma možnostmi: první vás přenese na stránku translate.google.com, na níž se vybraný text automaticky vloží do překladového pole, druhá vám umožní si poslechnout výslovnost dané fráze (pomocí funkce { -brand-name-google } Text-to-Speech), což je užitečné, pokud se snažíte naučit nový jazyk.
-features-translate-switch-languages-in = Změna jazyků ve { -brand-name-firefox(case: "loc") }
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Pokud již { -brand-name-firefox(case: "acc") } používáte, můžete změnit jazyk prohlížeče nebo přidat jazyky do rozhraní { -brand-name-firefox(case: "gen") }. <a { $attrs }>Zde se dozvíte, jak na to.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *S rozšířením To { -brand-name-google } Translate můžete v současné době překládat do <a { $attrs }>těchto jazyků</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> a další!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } je pro každého
-# Outdated string
-features-translate-for-everyone = Firefox je pro každého
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = Překlady { -brand-name-firefox(case: "gen") } jsou vestavěná funkce překladače, která vám umožní snadno procházet web ve vámi preferovaném jazyce. Přečtěte si více o tom, jak tato funkce ve { -brand-name-firefox(case: "loc") } funguje a jak { -brand-name-mozilla } pomáhá zachovat přeložený obsah v tajnosti.
+features-translate-one-of-the-best-things-about = Jedna z nejlepších věcí na internetu je to, že máme přístup k obsahu po celém světě. Ať už jde o novinové články, blogy nebo dokonce recenze vašich nejnovějších technologických vychytávek, vše najdete na zdánlivě nekonečném webu. S nejnovější funkcí překladu ve { -brand-name-firefox(case: "loc") } bude tento nástroj průběžně překládat webové stránky v reálném čase.
+features-translate-while-other-browsers-rely-on = Zatímco ostatní prohlížeče spoléhají na cloudové služby, jazykové modely překladů { -brand-name-firefox } jsou staženy do prohlížeče uživatele a překlady jsou prováděny lokálně, takže { -brand-name-mozilla } nezaznamenává, jaké webové stránky překládáte.
+features-translate-when-you-translate-a-webpage = Když webovou stránku přeložíte, zůstane soukromá
+features-translate-when-your-translations-are = Když jsou překlady zpracovávány lokálně, žádná data z vámi zvoleného zařízení neopouštějí vaše zařízení nebo je jejich překlad závislý na cloudových službách. To znamená, že { -brand-name-mozilla } nebude vědět, jakou webovou stránku překládáte, a díky tomu náš překlad vynikne ve srovnání s jinými překladovými nástroji.
+features-translate-what-languages-are-currently = Jaké jazyky jsou aktuálně podporovány?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Ve funkci překladů pro { -brand-name-firefox(case: "acc") } jsou aktuálně podporovány následující jazyky:
+features-translate-and-more-languages-are-in = A další jazyky jsou ve vývoji!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } mluví vaším jazykem
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Funkce překladů do { -brand-name-firefox(case: "gen") } je dalším způsobem, jak { -brand-name-mozilla } uchová váš internet přizpůsobený a více soukromí. { -brand-name-mozilla } nesleduje, jaké webové stránky překládáte. S miliony uživatelů po celém světě chce { -brand-name-mozilla } zajistit, aby se ti, kteří používají { -brand-name-firefox(case: "acc") }, mohli učit, komunikovat, sdílet a být informováni za svých vlastních podmínek. <a { $download }>Začněte používat { -brand-name-firefox(case: "acc") } v preferovaném jazyce.</a>
