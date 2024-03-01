@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Fordítsa le a webet – közvetlenül a böngészőjében
-# page description
-features-translate-translate-more-than = Fordítson több mint 100 nyelvről magyarra közvetlenül a { -brand-name-firefox-browser }ben – könnyebben, mint valaha.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Fordítson le egy weboldalt a { -brand-name-firefox(case: "instrumental") }
 features-translate-translate-the-web = Fordítsa le a webet a { -brand-name-firefox(case: "instrumental") }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = A web lefordítása
-# Obsolete string
-features-translate-the-google-translate = A „To { -brand-name-google } Translate” { -brand-name-firefox }-kiegészítő az egész világ számára elérhetővé teszi a webet.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Az internet tele van csodálatos dolgokkal, de a nagy része nem magyarul íródott – így sokaknak fordítóra van szükségük, hogy az internetet használják. A <a { $attrs }>{ -brand-name-firefox(case: "accusative") } több mint 100 nyelven töltheti le</a>, így a böngészőmenük, értesítések és üzenetek az Ön által választott nyelven jelennek meg, de ez nem oldja meg a böngészővel talált nagyszerű tartalmak problémáját.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = A <a { $attrs }>{ -brand-name-firefox-translations } kiegészítő</a> automatikusan le tudja fordítani a felkeresett weboldalak tartalmát. Néhány felhő-alapú alternatívától eltérően, ez a kiegészítő helyben fordítja le a szöveget a { -brand-name-firefox }ban, így a lefordítandó tartalom nem hagyja el a gépét.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = A { -brand-name-firefox-translations } beszerzése
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = A { -brand-name-google } Fordító, több mint 100 nyelven* áll a rendelkezésére, és emberek milliói használják világszerte. De a translate.google.com és az elolvasandó lap közti váltás nem nyújt ideális felhasználói élményt. A <a { $attrs }>To { -brand-name-google } Translate</a> kiegészítő könnyebbé teszi a jelenlegi oldal lefordítását, mint valaha.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = A To { -brand-name-google } Translate beszerzése
-# Obsolete string
-features-translate-get-the-extension = Kiegészítő beszerzése
-features-translate-once-installed-simply = A telepítés után egyszerűen jelölje ki a lefordítani kívánt szöveget, kattintson a jobb gombos menü megjelenítéséhez, amelyben két lehetőség közül választhat: 1) Átirányítás a translate.google.com webhelyre, ahol a kiválasztott szöveg automatikusan bekerül a fordítási mezőbe; vagy 2) A kifejezés kiejtésének meghallgatása (a { -brand-name-google } Text-to-Speech szolgáltatja), ami akkor hasznos, ha új nyelvet tanul.
-features-translate-switch-languages-in = Nyelvváltás a { -brand-name-firefox }ban
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Ha már a { -brand-name-firefox(case: "accusative") } használja, akkor módosíthatja a böngésző nyelvét, vagy nyelveket adhat hozzá a { -brand-name-firefox } felületéhez. <a { $attrs }>Tudja meg hogyan itt.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *A To { -brand-name-google } Translate kiegészítővel jelenleg <a { $attrs }>ezekre a nyelvekre tud fordítani</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }>és még sok más!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } mindenki számára
-# Outdated string
-features-translate-for-everyone = Firefox mindenki számára
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = A { -brand-name-firefox } Translations egy beépített fordítási funkció, amely lehetővé teszi, hogy könnyen böngésszen az interneten a választott nyelvén. Tudjon meg többet a { -brand-name-firefox } ezen funkciójának működéséről, és hogy a { -brand-name-mozilla } hogyan segíti elő a fordítások bizalmasságát.
+features-translate-one-of-the-best-things-about = Az egyik legjobb dolog az interneten, hogy világszerte elérhetjük a tartalmakat. Legyen szó hírekről, blogokról vagy akár a legfrissebb kütyüjének értékeléséről, mindent megtalál a véget nem érőnek tűnő weben. A { -brand-name-firefox } legújabb fordítási funkciójával, ez az eszköz folyamatosan, valós időben lefordítja a weboldalakat.
+features-translate-while-other-browsers-rely-on = Míg más böngészők a felhő szolgáltatásokra támaszkodnak, a { -brand-name-firefox } Translations nyelvi modellek a felhasználó böngészőjében töltődnek le, és a fordítás helyben történik, így a { -brand-name-mozilla } nem rögzíti, hogy milyen weboldalakat fordít le.
+features-translate-when-you-translate-a-webpage = Amikor egy weboldalt fordít, az privát marad
+features-translate-when-your-translations-are = Ha a fordítások helyben kerülnek feldolgozásra, akkor a kiválasztott eszközről nem távozik adat, vagy nem támaszkodik felhő szolgáltatásokra a fordítás. Ez azt jelenti, hogy a { -brand-name-mozilla } nem tudja, melyik weboldalt fordítja le, és a fordítási szolgáltatásunkat kiemeli a többi fordítói eszközhöz képest.
+features-translate-what-languages-are-currently = Milyen nyelvek támogatottak jelenleg?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = A { -brand-name-firefox } fordítási funkciója jelenleg az alábbi nyelveket támogatja:
+features-translate-and-more-languages-are-in = És további nyelvek vannak fejlesztésben!
+features-translate-firefox-speaks-your-language = A { -brand-name-firefox } beszéli az Ön nyelvét
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = A { -brand-name-firefox } fordítási funkció egy másik módja, hogy a { -brand-name-mozilla } továbbra is személyre szabottan és biztonságosabbá tegye az internetét. A { -brand-name-mozilla } nem követi nyomon, milyen weboldalakat fordít le. Világszerte felhasználók millióival, a { -brand-name-mozilla } biztosítani akarja, hogy a { -brand-name-firefox(case: "accusative") } használók a saját feltételeik szerint tanuljanak, kommunikáljanak, megosztják egymást, és tájékozódjanak. <a { $download }>Kezdje a kívánt nyelven a { -brand-name-firefox } letöltésével.</a>
