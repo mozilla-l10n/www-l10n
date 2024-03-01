@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
@@ -36,4 +36,4 @@ password-manager-password-master = Parola ustası
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
 # Black belt is connected to the mention of password master above, to convey you are competent in your own security skills.
-password-manager-earn-your-second = { -brand-name-firefox }’un desteklediği parola yöneticisi <a href="{ $addons }">eklentileri</a> ile güvenlikte siyah kuşağa yükselebilirsin. İster sevdiğin bir ekentiyi kullan, ister puanlardan ve yorumlardan yola çıkarak kendi tercihini yap.
+password-manager-earn-your-second = { -brand-name-firefox }’un desteklediği parola yöneticisi <a href="{ $addons }">eklentileri</a> ile güvenlikte siyah kuşağa yükselebilirsin. İster sevdiğin bir eklentiyi kullan, ister puanlardan ve incelemelerden yola çıkarak kendi tercihini yap.
