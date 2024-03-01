@@ -52,7 +52,10 @@ manifesto-we-are-committed-to-diverse = Rydym yn ymroddedig i rhyngrwyd sy'n hyr
 manifesto-show-your-support = Dangos eich Cefnogaeth
 manifesto-an-internet-with-these = Nid yw rhyngrwyd sydd â'r nodweddion hyn yn dod yn fyw ar ben ei hun. Rhaid i unigolion a chyrff blannu'r deisyfiadau hyn i'w technoleg rhyngrwyd ac i'r profiad dynol o'r rhyngrwyd. Mae'r { -brand-name-mozilla } Manifesto a'r Addendum yn cynrychioli ymroddiad { -brand-name-mozilla } i hyrwyddo'r dyfeisiadau hyn. Rydym yn anelu i weithio gyda phobl a chyrff ym mhob man sy'n rhannu'r amcanion hyn i wneud y rhyngrwyd yn le gwell byth ar gyfer pawb.
 manifesto-i-support-the-vision-of = Rwy'n cefnogi'r weledigaeth o rhyngrwyd gwell a iachach gan @mozilla, wnewch chi ymuno â mi?
+# Obsolete string
 manifesto-share-on-twitter = Rhannu ar { -brand-name-twitter }
+manifesto-share-on-x = Rhannwch ar X
+manifesto-share-on-x-aria-label = Rhannu ar X (Twitter yn flaenorol)
 manifesto-our-10-principles = <strong>Ein 10</strong> Egwyddor
 manifesto-read-the-entire-manifesto = Darllenwch y maniffesto i gyd
 manifesto-love-the-web = Caru'r we?

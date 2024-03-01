@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Cyfieithu'r we - o fewn eich Porwr
-# page description
-features-translate-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith chi'n o fewn eich { -brand-name-firefox-browser } - yn haws nag erioed.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Cyfieithwch dudalen we gyda { -brand-name-firefox }
 features-translate-translate-the-web = Cyfieithu'r we gyda { -brand-name-firefox }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Cyfieithu'r we
-# Obsolete string
-features-translate-the-google-translate = Mae'r estyniad To { -brand-name-google } Translate ar gyfer { -brand-name-firefox } yn gwneud y we yn hygyrch i'r byd.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Mae'r rhyngrwyd yn llawn o bethau anhygoel, ond nid yw llawer ohono wedi'i ysgrifennu yn Saesneg - mae angen cyfieithydd ar biliynau o bobl ledled y byd er mwyn defnyddio'r rhyngrwyd yn unig. Gallwch <a { $attrs }> lwytho { -brand-name-firefox } i lawr mewn dros 100 o ieithoedd</a>, felly mae dewislenni, hysbysiadau a negeseuon eich porwr yn eich dewis iaith, ond nid yw hynny'n datrys problem yr holl gynnwys anhygoel hwnnw rydych chi'n defnyddio'ch porwr i ddod o hyd iddo.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = Gall yr estyniad <a { $attrs }>{ -brand-name-firefox-translations }</a> gyfieithu cynnwys yn awtomatig o'r tudalennau gwe rydych chi'n ymweld â nhw. Yn wahanol i rai dewisiadau amgen yn y cwmwl, mae'r estyniad hwn yn cyfieithu testun yn lleol yn { -brand-name-firefox }, felly nid yw'r cynnwys rydych chi'n ei gyfieithu yn gadael eich peiriant.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Cael { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = Mae miliynau o bobl ledled y byd yn defnyddio To { -brand-name-google } Translate, gyda dros 100 o ieithoedd* yn barod. Ond nid yw symud yn ôl ac ymlaen rhwng translate.google.com a'r dudalen rydych chi'n ceisio ei darllen yn brofiad delfrydol. Mae'r estyniad <a { $attrs }>{ -brand-name-google } Translate</a> yn golygu bod cyfieithu'r dudalen rydych chi arni yn haws nag erioed.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Cael To { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = Cael yr Estyniad
-features-translate-once-installed-simply = Ar ôl ei osod, amlygwch y testun rydych chi am ei gyfieithu a chliciwch ar y dde i dynnu dewislen gyda dau opsiwn: 1) Yn mynd â chi i translate.google.com gyda'ch testun dethol yn cael ei osod yn awtomatig yn y maes cyfieithu; neu 2) Gwrandewch ar ynganiad sain yr ymadrodd (wedi'i bweru gan { -brand-name-google } Testun i Leferydd), sy'n ddefnyddiol os ydych chi'n ceisio dysgu iaith newydd.
-features-translate-switch-languages-in = Newid Ieithoedd yn { -brand-name-firefox }
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Os ydych eisoes yn defnyddio { -brand-name-firefox }, gallwch newid iaith eich porwr neu ychwanegu ieithoedd i'r rhyngwyneb { -brand-name-firefox }. <a { $attrs }>Dysgwch sut yma.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Gyda'r estyniad To { -brand-name-google } Translate, gallwch gyfieithu <a { $attrs }>yr ieithoedd hyn</a>:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> a mwy!</a>
-features-translate-for-everyone-v2 = Mae { -brand-name-firefox } ar gyfer pawb
-# Outdated string
-features-translate-for-everyone = Mae Firefox i bawb
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Mae Translations yn nodwedd gyfieithu integredig sy'n eich galluogi i bori'r we yn hawdd yn eich dewis iaith. Dysgwch fwy am sut mae'r nodwedd hon yn { -brand-name-firefox } yn gweithio, a sut mae { -brand-name-mozilla } yn helpu i gadw'r hyn rydych chi'n ei gyfieithu yn breifat.
+features-translate-one-of-the-best-things-about = Un o'r pethau gorau am y rhyngrwyd yw ein bod yn gallu cyrchu cynnwys ledled y byd. P'un a yw'n erthyglau newyddion, blogiau, neu hyd yn oed adolygiad o'ch teclyn technoleg diweddaraf, gallwch ddod o hyd i'r cyfan ar y we sy'n ymddangos yn ddiddiwedd. Gyda nodwedd cyfieithu diweddaraf { -brand-name-firefox }, bydd yr offeryn hwn yn cyfieithu tudalen we yn barhaus mewn amser real.
+features-translate-while-other-browsers-rely-on = Tra bod porwyr eraill yn dibynnu ar wasanaethau cwmwl, mae modelau iaith Cyfieithiadau { -brand-name-firefox } yn cael eu llwytho i lawr ar borwr y defnyddiwr ac mae cyfieithiadau yn cael eu gwneud yn lleol, felly nid yw { -brand-name-mozilla } yn cofnodi pa dudalennau gwe rydych chi'n eu cyfieithu.
+features-translate-when-you-translate-a-webpage = Pan fyddwch chi'n cyfieithu tudalen we, mae'n aros yn breifat
+features-translate-when-your-translations-are = Pan fydd eich cyfieithiadau yn cael eu prosesu'n lleol, nid oes unrhyw ddata o'ch dyfais ddewisol yn gadael eich dyfais nac yn dibynnu ar wasanaethau cwmwl i'w cyfieithu. Mae hyn yn golygu nad yw { -brand-name-mozilla } yn gwybod pa dudalen we rydych chi'n ei chyfieithu, ac mae'n gwneud i'n nodwedd cyfieithu sefyll allan o gymharu ag offer cyfieithu eraill.
+features-translate-what-languages-are-currently = Pa ieithoedd sy'n cael eu cefnogi ar hyn o bryd?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Mae'r ieithoedd isod yn cael eu cefnogi ar hyn o bryd gan nodwedd Cyfieithiadau { -brand-name-firefox }:
+features-translate-and-more-languages-are-in = Ac mae mwy o ieithoedd yn cael eu datblygu!
+features-translate-firefox-speaks-your-language = Mae { -brand-name-firefox } yn siarad eich iaith
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Mae nodwedd { -brand-name-firefox } Cyfieithiadau yn ffordd arall mae { -brand-name-mozilla } yn cadw eich rhyngrwyd yn bersonol ac yn fwy preifat. Nid yw { -brand-name-mozilla } yn olrhain pa dudalennau gwe rydych chi'n eu cyfieithu. Gyda miliynau o ddefnyddwyr ledled y byd, mae { -brand-name-mozilla } am sicrhau bod y rhai sy'n defnyddio { -brand-name-firefox } yn dysgu, yn cyfathrebu, yn rhannu ac yn cael y wybodaeth ddiweddaraf ar eu telerau eu hunain. <a { $download }>Cychwynnwch arni yn eich dewis iaith drwy lawrlwytho { -brand-name-firefox }.</a>
