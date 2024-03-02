@@ -27,6 +27,7 @@ compare-index-conclusion = Conclusion:
 compare-index-and-the-winner-is = E le vincitor es…
 # Obsolete string
 compare-index-find-out-how-firefox-chrome = Discoperi como { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } e { -brand-name-ie } differe in terminos de confidentialitate, utilitate e portabilitate.
+compare-index-find-out-how-firefox-chrome-v2 = Discoperi como { -brand-name-firefox }, Chrome, Edge, Safari, Opera e Brave differe in terminos de confidentialitate, utilitate e portabilitate.
 # Obsolete string
 compare-index-looking-for-a-better-browser = Cerca tu un navigator melior? Nos comparara { -brand-name-firefox } con { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } e { -brand-name-ie } pro adjutar te a prender le decision.
 compare-index-looking-for-a-better-browser-v2 = Cerca tu un navigator melior? Nos comparara { -brand-name-firefox } con Chrome, Edge, Safari, Opera e Brave pro adjutar te a prender tu decision.
