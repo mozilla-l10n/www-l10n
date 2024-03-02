@@ -28,7 +28,7 @@ password-manager-no-more-try-again = Parolalarını cebinde taşıyabilirsin. Te
 password-manager-password-champion = Parola şampiyonu
 # Variables:
 #   $addons (url) = https://addons.mozilla.org/firefox/collections/mozilla/password-managers/
-password-manager-earn-your-security-gold-medal = { -brand-name-firefox }’un desteklediği parola yöneticisi <a href="{ $addons }">eklentileri</a> ile güvenlikte altın madalya sahibi olabilirsin. İster sevdiğin bir ekentiyi kullan, ister puanlardan ve yorumlardan yola çıkarak kendi tercihini yap.
+password-manager-earn-your-security-gold-medal = { -brand-name-firefox }’un desteklediği parola yöneticisi <a href="{ $addons }">eklentileri</a> ile güvenlikte altın madalya sahibi olabilirsin. İster sevdiğin bir eklentiyi kullan, ister puanlardan ve incelemelerden yola çıkarak kendi tercihini yap.
 # Obsolete string
 # "Master" here means mastery of a subject, to be highly skilled at managing passwords.
 password-manager-password-master = Parola ustası
