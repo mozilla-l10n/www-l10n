@@ -16,7 +16,7 @@ nightly-whatsnew-this-is-a-good = Mae hwn yn gyfle da i ddiolch i chi am ein cyn
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v3 = Os ydych chi eisiau gwybod beth sy'n digwydd o gwmpas { -brand-name-nightly } a'i gymuned, darllenwch ein <a { $blog }>blog</a> a dilynwch ni ar <a { $mastodon }>Mastodon</a> neu <a { $twitter }>X</a> yn fannau cychwyn da!
+nightly-whatsnew-if-you-want-to-v3 = Os ydych chi eisiau gwybod beth sy'n digwydd i { -brand-name-nightly } a'i gymuned, darllenwch ein <a { $blog }>blog</a> ac mae ein dilyn ni ar <a { $mastodon }>Mastodon</a> neu <a { $twitter }>X</a> yn fannau cychwyn da!
 # Obsolete string
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/

@@ -54,8 +54,8 @@ manifesto-an-internet-with-these = Nid yw rhyngrwyd sydd â'r nodweddion hyn yn 
 manifesto-i-support-the-vision-of = Rwy'n cefnogi'r weledigaeth o rhyngrwyd gwell a iachach gan @mozilla, wnewch chi ymuno â mi?
 # Obsolete string
 manifesto-share-on-twitter = Rhannu ar { -brand-name-twitter }
-manifesto-share-on-x = Rhannwch ar X
-manifesto-share-on-x-aria-label = Rhannu ar X (Twitter yn flaenorol)
+manifesto-share-on-x = Rhannu ar X
+manifesto-share-on-x-aria-label = Rhannu ar X (Twitter gynt)
 manifesto-our-10-principles = <strong>Ein 10</strong> Egwyddor
 manifesto-read-the-entire-manifesto = Darllenwch y maniffesto i gyd
 manifesto-love-the-web = Caru'r we?
