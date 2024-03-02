@@ -55,7 +55,7 @@ manifesto-i-support-the-vision-of = 我支持 @mozilla 去创造一个更好的�
 # Obsolete string
 manifesto-share-on-twitter = 分享到 { -brand-name-twitter }
 manifesto-share-on-x = 分享到 X
-manifesto-share-on-x-aria-label = 在 X以前的 Twitter 上分享
+manifesto-share-on-x-aria-label = 分享到 X（原 Twitter）
 manifesto-our-10-principles = 我们的<strong>十大准则</strong>
 manifesto-read-the-entire-manifesto = 阅读完整的宣言
 manifesto-love-the-web = 也热爱 Web 吗？
