@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 # HTML page title
-features-translate-translate-a-webpage-with-firefox = Cyfieithwch dudalen we gyda { -brand-name-firefox }
+features-translate-translate-a-webpage-with-firefox = Cyfieithwch dudalen gwe gyda { -brand-name-firefox }
 features-translate-translate-the-web = Cyfieithu'r we gyda { -brand-name-firefox }
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Mae Translations yn nodwedd gyfieithu integredig sy'n eich galluogi i bori'r we yn hawdd yn eich dewis iaith. Dysgwch fwy am sut mae'r nodwedd hon yn { -brand-name-firefox } yn gweithio, a sut mae { -brand-name-mozilla } yn helpu i gadw'r hyn rydych chi'n ei gyfieithu yn breifat.
