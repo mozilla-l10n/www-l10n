@@ -21,4 +21,4 @@ features-translate-and-more-languages-are-in = 更多语言即将上线！
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } 也懂您的语言
 # Variables:
 #   $download (url) = link to https://www.mozilla.org/firefox/new/
-features-translate-the-firefox-translations-feature = { -brand-name-firefox } 的翻译功能是 { -brand-name-mozilla } 保持您的互联网个性化和隐私的另一种方式。 { -brand-name-mozilla } 不会跟踪您翻译的网页。由于 { -brand-name-mozilla } 的用户遍布全球数以百万计{ -brand-name-mozilla } 希望确保 { -brand-name-firefox } 的用户能够按照自己的方式学习、交流、分享并随时了解最新消息。 <a { $download }>开始使用您喜欢的语言下载 { -brand-name-firefox }。</a>
+features-translate-the-firefox-translations-feature = { -brand-name-mozilla } 通过 { -brand-name-firefox } 翻译功能这一新途径，让您的互联网体验更有个性，更具隐私。{ -brand-name-mozilla } 不会跟踪您翻译了哪些网页。{ -brand-name-mozilla } 希望确保全世界亿万 { -brand-name-firefox } 用户都能以适合自己的方式来学习、交流、分享，并了解各类信息。<a { $download }>下载 { -brand-name-firefox }</a>，以您所需的语言畅游互联网吧。
