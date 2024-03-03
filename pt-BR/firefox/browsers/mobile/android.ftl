@@ -10,14 +10,10 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = O navegador { -brand-name-firefox } para { -brand-name-android } é rápido, seguro e privativo desde a primeira vez que você o abre.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Leve o navegador com você. Seja independente com o { -brand-name-firefox } para { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Ao usar o { -brand-name-firefox }, você escolhe apoiar uma empresa de tecnologia independente. O { -brand-name-firefox } é o único grande navegador respaldado por uma entidade sem fins lucrativos que luta para dar a você mais abertura, transparência e controle de sua vida online.
 mobile-android-get-firefox-for = Instale o { -brand-name-firefox } para { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Envie um link de download para seu celular.
 mobile-android-scan-the-qr-code-to-get-started = Capture o código QR para começar
-mobile-android-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox } no { -brand-name-android }
+mobile-android-scan-alt-text = Aponte a câmera para o código QR para instalar o { -brand-name-firefox } no { -brand-name-android }
 mobile-android-fast-and-private = Rápido e privativo
 mobile-android-firefox-for-android = O { -brand-name-firefox } para { -brand-name-android } oferece proteção de privacidade sem esforço com carregamento de páginas extremamente rápido. A proteção aprimorada contra rastreamento automaticamente bloqueia rastreadores online que tentam te seguir pela web e agiliza suas páginas.
 mobile-android-one-tap-to = Só um toque para o modo privativo

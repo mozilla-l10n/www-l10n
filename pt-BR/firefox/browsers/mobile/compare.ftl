@@ -12,8 +12,6 @@ mobile-compare-who-makes-the = Quem faz o melhor navegador para dispositivos mó
 mobile-compare-since-your-mobile = Como o navegador do seu celular é seu canal de acesso para informações onde quer que você esteja, velocidade, segurança, privacidade e facilidade de uso são as chaves para uma boa experiência de uso. Então, qual é o melhor navegador para dispositivos móveis? Vamos comparar os principais e ver qual se adapta melhor às suas necessidades.
 mobile-compare-which-mobile-browser = Qual navegador móvel mantém as coisas confidenciais?
 mobile-compare-at-a-minimum-v2 = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os cinco navegadores comparados aqui marcam pontos.
-# Obsolete string
-mobile-compare-at-a-minimum = No mínimo, seu navegador para dispositivos móveis deve fornecer alguma versão de “modo de navegação privativa”, que exclui automaticamente seu histórico de pesquisa e navegação. Nesta área, todos os sete navegadores comparados aqui marcam pontos.
 mobile-compare-another-mobile-feature = Outro recurso que deve ser disponibilizado em dispositivos móveis é a capacidade de impedir que sites e empresas rastreiem seus dados de navegação e compras, mesmo no modo de navegação normal.
 mobile-compare-blocking-thirdparty-trackers = Bloquear rastreadores de terceiros não é importante apenas para privacidade. Também ajuda a carregar páginas muito mais rápido. Ao remover aqueles trechos de código, diminui a carga e agiliza a navegação.
 mobile-compare-from-the-chart = Olhando o gráfico acima, fica óbvio que o { -brand-name-firefox } oferece o conjunto mais completo de ferramentas de privacidade e segurança dentre os cinco navegadores e fornece um painel com visão geral de sua segurança e privacidade online.
@@ -55,4 +53,4 @@ mobile-compare-primary-password = Senha principal
 mobile-compare-get-firefox-for-mobile = Instale o { -brand-name-firefox } para dispositivos móveis
 mobile-compare-send-a-download-link-to-your = Envie um link de download para seu celular.
 mobile-compare-scan-the-qr-code-to-get-started = Capture o código QR para começar
-mobile-compare-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox } no seu dispositivo móvel
+mobile-compare-scan-alt-text = Aponte a câmera para o código QR para instalar o { -brand-name-firefox } no seu dispositivo móvel

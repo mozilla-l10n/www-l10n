@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -35,4 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = A privacidade que você merece. A r
 firefox-mobile-get-firefox-for-mobile = Instale o { -brand-name-firefox } para dispositivos móveis
 firefox-mobile-send-a-download-link-to-your = Envie um link de download para seu celular.
 firefox-mobile-scan-the-qr-code-to-get-started = Capture o código QR para começar
-firefox-mobile-scan-alt-text = Capture o código QR para instalar o { -brand-name-firefox } no celular
+firefox-mobile-scan-alt-text = Aponte a câmera para o código QR para instalar o { -brand-name-firefox } no celular
