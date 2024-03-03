@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = ¿Qué idiomas están disponib
 features-translate-the-languages-below-are-what = Los siguientes idiomas son compatibles actualmente con la función de traducciones de { -brand-name-firefox }:
 features-translate-and-more-languages-are-in = ¡Y más idiomas están en desarrollo!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } habla tu idioma
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = La función { -brand-name-firefox } Translations es otra forma en que { -brand-name-mozilla } mantiene tu Internet personalizada y más privada. { -brand-name-mozilla } no rastrea las páginas web que traduces. Con millones de usuarios en todo el mundo, { -brand-name-mozilla } quiere asegurarse de que aquellos que usan { -brand-name-firefox } estén aprendiendo, comunicándose, compartiendo y manteniéndose informados bajo sus propios términos. <a { $download }>Empieca en tu idioma preferido descargando { -brand-name-firefox }.</a>

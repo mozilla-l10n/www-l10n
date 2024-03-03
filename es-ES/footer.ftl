@@ -11,31 +11,7 @@ footer-corporate-blog = Blog corporativo
 footer-browser-comparison = Comparación de navegadores
 footer-brand-standards = Estándares de la marca
 footer-browsers = Navegadores
-# Outdated string
-footer-desktop = Escritorio
-# Outdated string
-footer-mobile = Móviles
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = Productos
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = Unirse
-# Outdated string
-footer-sign-up = Suscribirse
-# Outdated string
-footer-sign-in = Iniciar sesión
-# Outdated string
-footer-benefits = Beneficios
 footer-developers = Desarrolladores
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Visita la empresa matriz sin ánimo de lucro
 footer-portions-of-this-content = Algunos contenidos están protegidos por los derechos de autor ©1998–{ $current_year } de determinados colaboradores en mozilla.org. El resto de contenidos está disponible bajo una licencia <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Empresa
-# Outdated string
-footer-about = Conócenos
 footer-press-center = Área de prensa
 footer-careers = Empleos
-# Outdated string
-footer-test-new-features = Probar nuevas características
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Herramientas
 footer-resources = Recursos
 footer-contact = Contacto
@@ -68,7 +38,10 @@ footer-websites-legal = Legal
 footer-language = Idioma
 footer-go = Ir
 footer-donate = Donar
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (anteriormente Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
