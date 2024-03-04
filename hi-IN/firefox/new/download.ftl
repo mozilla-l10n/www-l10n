@@ -36,6 +36,8 @@ firefox-new-your-firefox-new-should-begin = आपका डाउनलोड �
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } महज एक ब्राउज़र से कहीं अधिक है।
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = आपका डाउनलोड बाधित हो गया था। पर परेशान होने की ज़रूरत नहीं है।
+firefox-new-download-almost-there = बस होने ही वाला है!
+firefox-new-download-select-linux = नीचे डाउनलोड विकल्प चुनें
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
