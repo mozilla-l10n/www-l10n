@@ -60,6 +60,8 @@ manifesto-i-support-the-vision-of = हम @mozilla के एक बेहत�
 # Obsolete string
 manifesto-share-on-twitter = { -brand-name-twitter } पर साझा करें
 
+manifesto-share-on-x = X पर शेयर करें
+manifesto-share-on-x-aria-label = X (पूर्व में Twitter) पर शेयर करें
 manifesto-our-10-principles = <strong>हमारे 10</strong> सिद्धांत
 manifesto-read-the-entire-manifesto = पूरा घोषणापत्र पढ़ें
 manifesto-love-the-web = वेब से प्यार है?
