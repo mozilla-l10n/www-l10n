@@ -42,6 +42,8 @@ footer-donate = दान करें
 # Obsolete string
 footer-twitter = { -brand-name-twitter }
 
+footer-x = x
+footer-x-formerly-twitter = X (पूर्व में Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
