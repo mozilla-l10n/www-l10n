@@ -4,54 +4,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = ترجم محتوى الويب - مباشرةً في متصفحك
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = ترجم صفحة ويب باستخدام { -brand-name-firefox }
+features-translate-translate-the-web = ترجمة محتوى الويب
 
-# page description
-features-translate-translate-more-than = ترجِمْ من أكثر من 100 لغة إلى لغتك مباشرةً في { -brand-name-firefox-browser } - بشكل أسهل من ذي قبل.
-features-translate-translate-the-web = ترجِمْ محتوى الويب باستخدام متصفح { -brand-name-firefox }
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = تُعتبر ترجمات { -brand-name-firefox } ميزة ترجمة مدمجة تُتيح لك تصفّح الويب بسهولة بلغتك المفضلة. تعرّف على المزيد عن كيفية عمل هذه الميزة في { -brand-name-firefox }، وكيف يُساعد { -brand-name-mozilla } على الحفاظ على سرية ما تُترجمه.
+features-translate-one-of-the-best-things-about = يتمثل أحد أفضل الأشياء في الإنترنت في إمكانية الوصول إلى المحتوى من جميع أنحاء العالم. سواءً كانت مقالات إخبارية أو مدونات أو حتى مراجعة لأحدث أدواتك التقنية، يمكنك العثور عليها جميعًا على الويب الذي لا تبدو له نهاية على الأرجح. وبفضل ميزة الترجمة الأحدث من { -brand-name-firefox }، ستقوم هذه الأداة بترجمة إحدى صفحات الويب في الحال وبشكل مستمر.
+features-translate-while-other-browsers-rely-on = بينما تعتمد المتصفحات الأخرى على الخدمات السحابية، يتم تنزيل نماذج لغات الترجمات الخاصة بمتصفح { -brand-name-firefox } على متصفح المستخدم ويتم إجراء الترجمات داخل المتصفح، لذلك فإن { -brand-name-mozilla } لا يُسجّل صفحات الويب التي تترجمها.
+features-translate-when-you-translate-a-webpage = عندما تترجم صفحة ويب، فإنها تبقى خاصة
+features-translate-when-your-translations-are = عند القيام بالترجمة داخل المُتصفح، فإن هذا يعني أن البيانات الموجودة على جهازك المختار لا تغادره أو تعتمد على خدمات سحابية للترجمة. وهذا يعني أن { -brand-name-mozilla } لا يعرف صفحة الويب التي تُترجمها، ويجعل ميزة الترجمة متفرّدة في القمة ولا تُقارن بأي أداة أخرى من أدوات الترجمة.
+features-translate-what-languages-are-currently = ما هي اللغات المدعومة حاليًا؟
 
-# Shorter title used in subnav
-features-translate-translate-the-web-short = ترجمة محتوى الويب
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = تدعم ميزة الترجمات في { -brand-name-firefox } اللغات التالية في الوقت الحالي:
+features-translate-and-more-languages-are-in = وهناك المزيد من اللغات قيد التطوير والإعداد!
+features-translate-firefox-speaks-your-language = مُتصفح { -brand-name-firefox } يتحدّث لغتك
 
-# Obsolete string
-features-translate-the-google-translate = يعمل ملحق "ترجمة { -brand-name-google }" في متصفح { -brand-name-firefox } على إتاحة الإنترنت للجميع.
-
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = يعُج الإنترنت بأشياء مذهلة، لكن الكثير منها غير مكتوب باللغة الإنجليزية — مما يجعل مليارات الأشخاص حول العالم بحاجة إلى ترجمة لاستخدام الإنترنت فقط. ومع أنه يمكنك <a { $attrs }>تنزيل { -brand-name-firefox } بأكثر من 100 لغة</a>، لتتمكن من استخدام قوائمه وإشعاراته ورسائله بلغتك المفضلة، إلا أن هذا الأمر لا يحل مشكلة هذا الكم المُذهل من المحتوى الذي تستخدم متصفحك للبحث عنه.
-
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = يُمكن للملحق <a { $attrs }>{ -brand-name-firefox-translations }</a> ترجمة المحتوى من صفحات الويب التي تزورها بشكل تلقائي. على عكس بعض البدائل السحابية، يعمل هذا الملحق على ترجمة النص محليًا في { -brand-name-firefox }، ولذلك فإن المحتوى الذي تترجمه لا يُغادر جهازك.
-
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = نزِّل متصفح { -brand-name-firefox-translations }
-
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = ترجمة { -brand-name-google }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = يستخدم ملايين الأشخاص حول العالم ترجمة { -brand-name-google }، التي تضُم أكثر من 100 لغة*. لكن التنقل بين موقع translate.google.com والصفحة التي تحاول قراءتها ليس بالتجربة المثالية. أما مُلحق &quot;<a { $attrs }>ترجمة { -brand-name-google }</a>&quot;، فإنه يجعل ترجمة الصفحة التي تتصفحها أسهل من أي وقت مضى.
-
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = احصل على ترجمة { -brand-name-google }
-
-# Obsolete string
-features-translate-get-the-extension = نزِّل الملحق
-features-translate-once-installed-simply = بمجرد تثبيت المُلحق، ما عليك سوى تحديد النص الذي تريد ترجمته والنقر بزر الماوس الأيمن للحصول على قائمة بخيارين: 1) الانتقال إلى موقع translate.google.com وإدخال النص المحدد تلقائيًا في حقل الترجمة؛ أو 2) الاستماع إلى النطق الصوتي للعبارة (من خلال ميزة تحويل النص إلى كلام من { -brand-name-google })، وهذا أمر مُفيد إذا كنت تحاول تعلم لغة جديدة.
-features-translate-switch-languages-in = تغيير اللغة في متصفح { -brand-name-firefox }
-
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = إذا كنت تستخدم متصفح { -brand-name-firefox } بالفعل، فيمكنك تغيير لغته أو إضافة لغات إلى واجهته. <a { $attrs }>تعرَّف على الطريقة من هنا.</a>
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *باستخدام ملحق ترجمة { -brand-name-google }، يُمكنك في الوقت الحالي ترجمة <a { $attrs }>اللغات التالية</a>:
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }>والمزيد!</a>
-
-features-translate-for-everyone-v2 = مُتصفح { -brand-name-firefox } يناسب الجميع
-
-# Outdated string
-features-translate-for-everyone = متصفح Firefox يُناسب الجميع
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = تُعتبر ميزة الترجمات في { -brand-name-firefox } طريقة أخرى تجعل من { -brand-name-mozilla } متصفح الإنترنت المخصّص والأكثر خصوصية والذي يُناسب احتياجاتك تمامًا. لا يتعقّب { -brand-name-mozilla } صفحات الويب التي تُترجمها. وبفضل قاعدة المستخدمين التي تبلغ الملايين في جميع أنحاء العالم، يسعى { -brand-name-mozilla } للتأكد من أن الذين يستخدمون { -brand-name-firefox } يتعلمون ويتواصلون ويشاركون ويظلون على معرفة بالجديد بشروطهم الخاصة. <a { $download }>ابدأ الآن بلغتك المفضلة من خلال تنزيل { -brand-name-firefox }.</a>
