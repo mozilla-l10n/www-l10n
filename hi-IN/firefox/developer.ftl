@@ -77,6 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = बधाई हो। अब 
 firefox-developer-this-isnt-just-an-update = यह सिर्फ एक अपडेट नहीं है। यह है { -brand-name-firefox-quantum }: एक बिलकुल नया { -brand-name-firefox }, जिसे शुरू से पुनर्निर्मित किया गया है तीव्रतर, आकर्षक और पहले से अधिक शक्तिशाली बनाने के लिए।
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } में आपका स्वागत है।
 firefox-developer-made-for-developers = डेवलपर्स के लिए बनाया गया ब्राउज़र
+firefox-developer-all-the-latest-v2 = बीटा में सभी नवीनतम डेवलपर टूल्स हैं, साथ ही मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर मौजूद हैं।
 
 # Obsolete string
 firefox-developer-all-the-latest = बीटा में सभी नवीनतम डेवलपर उपकरण, साथ ही <strong>प्रयोगात्मक विशेषताएँ</strong> जैसे मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर।
