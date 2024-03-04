@@ -209,3 +209,5 @@ privacy-book-do-you-have = क्या आपके कोई प्रश्�
 # Obsolete string
 privacy-book-twitter = { -brand-name-twitter }
 
+privacy-book-x = X
+privacy-book-x-formerly-twitter = X (पूर्व में Twitter)
