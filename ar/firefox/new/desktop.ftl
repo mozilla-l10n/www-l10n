@@ -178,6 +178,8 @@ firefox-desktop-download-now-else = أكمل <strong>تثبيت</strong> { -bran
 firefox-desktop-download-now-windows = <strong>شغِّل</strong> المثبت الذي نزَّلته للتو.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>افتح</strong> الملف الذي نزَّلته للتو.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = اختر أحد خيارات <strong>التنزيل</strong> التالية
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = هل تواجهك مشكلة؟ <a { $attrs }>احصل على مساعدة في عملية التثبيت</a>.
