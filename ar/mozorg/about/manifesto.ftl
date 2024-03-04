@@ -60,6 +60,8 @@ manifesto-i-support-the-vision-of = أؤيد رؤية إنترنت أفضل وص
 # Obsolete string
 manifesto-share-on-twitter = مشاركة على { -brand-name-twitter }
 
+manifesto-share-on-x = شارك على منصة X
+manifesto-share-on-x-aria-label = شارك على منصة X (سابقًا Twitter)
 manifesto-our-10-principles = <strong>مبادئنا العشرة</strong>
 manifesto-read-the-entire-manifesto = اقرأ البيان كاملًا
 manifesto-love-the-web = هل تُحب الويب؟
