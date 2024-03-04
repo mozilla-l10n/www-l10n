@@ -41,10 +41,12 @@ we-worry-about = نحن قلقون بشأن سلامة بياناتك، لذا �
 # Obsolete string
 seven-of-the = سبعة من أفضل المتصفحات في المقارنة المباشرة
 
+six-of-the-best = مقارنة مباشرة بين ستة من أفضل المتصفّحات
 
 # Obsolete string
 we-compare-firefox = نقارن { -brand-name-firefox } مع { -brand-name-chrome }، و{ -brand-name-edge }، و{ -brand-name-safari }، و{ -brand-name-opera }، و{ -brand-name-brave }، و{ -brand-name-ie } لمساعدتك في اتخاذ قرارك.
 
+we-compare-firefox-v2 = نقارن فيما يلي { -brand-name-firefox } مع Chrome و Edge و Safari و Opera و Brave وذلك لنساعدك في اتخاذ قرارك.
 comparing-firefox-chrome = مقارنة { -brand-name-firefox-browser } مع { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = الأضخم ليس بالضرورة هو الأفضل. اختر الاستقلالية بديلاً عمليًا.
 comparing-firefox-brave = مقارنة مُتصفح { -brand-name-firefox-browser } بمتصفح { -brand-name-brave }
