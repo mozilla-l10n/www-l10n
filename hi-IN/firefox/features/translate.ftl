@@ -4,54 +4,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = वेब पर मौजूद चीजों का अनुवाद करें - सीधे अपने ब्राउज़र से
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } के ज़रिए, वेबपेज का अनुवाद करें
+features-translate-translate-the-web = वेब का अनुवाद करें
 
-# page description
-features-translate-translate-more-than = सीधे { -brand-name-firefox-browser } के ज़रिए, 100 से भी ज़्यादा भाषाओं से अपनी भाषा में अनुवाद करें – पहले से बहुत आसान।
-features-translate-translate-the-web = { -brand-name-firefox } के ज़रिए, वेब पेज अनुवाद करें
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } एक बिल्ट-इन यानी पहले से मौजूद अनुवाद फ़ीचर है जिससे आपको अपनी पसंदीदा भाषा में आसानी से वेब ब्राउज़ करने की सुविधा मिलती है। इस बारे में और जानें कि { -brand-name-firefox } में यह फ़ीचर कैसे काम करता है, और आप जो कुछ भी अनुवाद करते हैं उसे निजी बनाए रखने में { -brand-name-mozilla } कैसे मददगार साबित होता है।
+features-translate-one-of-the-best-things-about = इंटरनेट के बारे में एक सबसे अच्छी बात यह है कि हम दुनिया भर के कंटेंट तक पहुंच सकते हैं। चाहे यह न्यूज़ आर्टिकल हो, ब्लॉग हो, या यहां तक कि आपके नवीनतम तकनीकी गैजेट का रिव्यू हो, आप यह सब असीमित जान पड़ते इंटरनेट जगत पर पा सकते हैं। { -brand-name-firefox } के नवीनतम अनुवाद फ़ीचर के ज़रिए, यह टूल आपके लिए रियल-टाइम में किसी वेबपेज का लगातार अनुवाद करता रहेगा।
+features-translate-while-other-browsers-rely-on = जो दूसरे ब्राउज़र हैं उनकी निर्भरता क्लाउड सेवाओं पर रहती है, जबकि { -brand-name-firefox } Translations भाषा मॉडलों को यूज़र के ब्राउज़र पर डाउनलोड किया जाता है और अनुवाद स्थानीय किए जाते हैं, इसलिए { -brand-name-mozilla } यह कतई रिकॉर्ड नहीं करता है कि आप किन वेबपेजों का अनुवाद करते हैं।
+features-translate-when-you-translate-a-webpage = जब आप किसी वेबपेज का अनुवाद करते हैं, तो वह निजी रहता है
+features-translate-when-your-translations-are = आपके अनुवाद स्थानीय तौर पर प्रोसेस होते हैं, इस दौरान आपका कोई भी डेटा आपके डिवाइस से कहीं नहीं जा रहा होता है या अनुवाद के लिए क्लाउड सेवाओं पर निर्भर नहीं होता है। इसका मतलब यह है कि { -brand-name-mozilla } को यह पता नहीं चलता कि आप किस वेब पेज का अनुवाद कर रहे हैं, और यह बात दूसरे अनुवाद टूल्स की तुलना में हमारे अनुवाद फ़ीचर को अलग बनाती है।
+features-translate-what-languages-are-currently = वर्तमान में किन भाषाओं को सपोर्ट हासिल है?
 
-# Shorter title used in subnav
-features-translate-translate-the-web-short = वेब का अनुवाद करें
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = वर्तमान में { -brand-name-firefox } Translations फ़ीचर में निम्नलिखित भाषाओं को सपोर्ट हासिल है:
+features-translate-and-more-languages-are-in = कई और भाषाओं पर भी काम चल रहा है!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } की प्रस्तुति अब आपकी भाषा में
 
-# Obsolete string
-features-translate-the-google-translate = { -brand-name-firefox } के लिए { -brand-name-google } Translate एक्सटेंशन, पूरी दुनिया के लिए वेब को सुलभ बनाता है।
-
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = इंटरनेट पर एक-से-एक चीज़ें हैं, मगर उनमें से कई चीज़ें अंग्रेज़ी में नहीं हैं — और लाखों लोगों को इसके लिए अनुवाद की ज़रूरत पड़ती है। आप <a { $attrs }>{ -brand-name-firefox } को 100 से ज़्यादा भाषाओं में डाउनलोड</a> कर सकते हैं, ताकि आपके ब्राउज़र मेनू, नोटिफ़िकेशन और मैसेज आपकी पसंद की भाषा में दिखाई दें। पर जो कंटेंट आप अपने ब्राउज़र से खोजते हैं, उसके अनुवाद की समस्या फिर भी बनी रहेगी।
-
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } एक्सटेंशन</a> उन वेब पेजों के कंटेंट का स्वचालित ढंग से अनुवाद कर सकता है, जिन्हें आप देख रहे हैं। कुछ क्लाउड-आधारित विकल्पों से अलग, यह एक्सटेंशन { -brand-name-firefox } में टेक्स्ट का अनुवाद उसी स्थान पर करता है, इसलिए आप जिस कंटेंट का अनुवाद कर रहे हैं वह आपके डिवाइस या कंप्यूटर से बाहर नहीं जाता है।
-
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = { -brand-name-firefox-translations } प्राप्त करें
-
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = { -brand-name-google } Translate पर
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate फ़िलहाल 100 से ज़्यादा भाषाओं में उपलब्ध है* और इसे दुनियाभर में लाखों लोगों द्वारा इस्तेमाल किया जा रहा है। मगर अपने पेज से बार-बार translate.google.com पर जाना और अनुवाद करके पढ़ना बहुत झंझट भरा होता है। <a { $attrs }>{ -brand-name-google } Translate</a> एक्सटेंशन आपके मौजूदा पेज पर ही अनुवाद किए जाने को और ज़्यादा आसान बना देता है।
-
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = { -brand-name-google } Translate शुरू करें
-
-# Obsolete string
-features-translate-get-the-extension = एक्सटेंशन पाएँ
-features-translate-once-installed-simply = इंस्टॉल कर लेने के बाद, जिस टेक्स्ट को आप अनुवाद करना चाहते हैं उसे हाइलाइट करें और राइट-क्लिक करें। आपको दो विकल्प दिखाई देंगे: 1) यह आपको translate.google.com पर ले जाता है जहाँ आपके द्वारा चुना गया टेक्स्ट अपने आप ही अनुवाद वाले फ़ील्ड में दिखाई देने लगता है; या 2) वाक्य का ऑडियो उच्चारण सुनें ({ -brand-name-google } Text-to-Speech द्वारा संचालित), जो कि काफ़ी उपयोगी है अगर आप कोई नई भाषा सीखने की कोशिश कर रहे हैं।
-features-translate-switch-languages-in = { -brand-name-firefox } में भाषाएँ बदलें
-
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = अगर आप पहले से ही { -brand-name-firefox } इस्तेमाल कर रहे हैं, तो आप अपने ब्राउज़र की भाषा बदल सकते हैं या { -brand-name-firefox } इंटरफ़ेस में भाषाएँ जोड़ सकते हैं। <a { $attrs }>यहाँ से इसका तरीका जानें।</a>
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *{ -brand-name-google } Translate एक्सटेंशन से आप फ़िलहाल <a { $attrs }>ये भाषाएँ</a> अनुवाद कर सकते हैं:
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> साथ ही, अन्य भी!</a>
-
-features-translate-for-everyone-v2 = { -brand-name-firefox } सभी के लिए है
-
-# Outdated string
-features-translate-for-everyone = Firefox हर किसी के लिए है
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = { -brand-name-firefox } Translations फ़ीचर एक और उपाय है जिसके ज़रिए { -brand-name-mozilla } आपके इंटरनेट को पर्सनलाइज़्ड तथा और अधिक निजता वाला बनाए रखता है। { -brand-name-mozilla } यह ट्रैक नहीं करता है कि आप किन वेबपेजों का अनुवाद कर रहे हैं। दुनिया भर में लाखों यूज़र्स वाला, { -brand-name-mozilla } यह सुनिश्चित करना चाहता है कि जो लोग { -brand-name-firefox } इस्तेमाल कर रहे हैं वे ज्ञान पाने, आपस में संवाद करने, चीज़ें साझा करने, नई चीज़ों से अपडेट रहने जैसे काम अपने अनुसार अपनी शर्तों पर कर सकें। <a { $download }>{ -brand-name-firefox } डाउनलोड करें और अपनी पसंदीदा भाषा में शुरू हो जाएं।</a>
