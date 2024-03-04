@@ -52,8 +52,12 @@ download-a-different-build = Sækja aðra byggingarútgáfu
 
 ## Linux
 
+# Obsolete string
 download-button-linux-32 = Sækja { -brand-name-linux } 32-bita
+# Obsolete string
 download-button-linux-64 = Sækja { -brand-name-linux } 64-bita
+download-button-linux-32-v2 = Sækja fyrir Linux 32-bita
+download-button-linux-64-v2 = Sækja fyrir Linux 64-bita
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

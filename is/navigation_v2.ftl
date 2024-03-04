@@ -72,10 +72,10 @@ navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 
 navigation-v2-innovation = Nýsköpun
 navigation-v2-close-innovation-menu = Loka nýsköpunarvalmyndinni
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Náðu í { -brand-name-firefox }-vafrann, hannaðan beinlínis fyrir forritara.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Skoðaðu yfirlit um tilföng fyrir vefhönnuði.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Kannaðu vefinn með { -brand-name-firefox } vafranum fyrir sýndarveruleika.
 navigation-v2-common-voice = { -brand-name-common-voice }
