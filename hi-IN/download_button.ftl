@@ -58,6 +58,16 @@ download-a-different-build = कोई दूसरा बिल्ड डाउ
 
 ## Linux
 
+# Obsolete string
+download-button-linux-32 = { -brand-name-linux } 32-बिट डाउनलोड करें
 
+# Obsolete string
+download-button-linux-64 = { -brand-name-linux } 64-बिट डाउनलोड करें
 
+download-button-linux-32-v2 = Linux 32-बिट के लिए डाउनलोड करें
+download-button-linux-64-v2 = Linux 64-बिट के लिए डाउनलोड करें
 
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Debian, Ubuntu या किसी Debian-आधारित डिस्ट्रीब्यूशन का इस्तेमाल कर रहे हैं?<br> इसके बजाय आप हमारी <a { $attrs }>APT रिपॉजिटरी</a> सेट कर सकते हैं।
