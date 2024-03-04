@@ -77,6 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = تهانينا! لديك ال�
 firefox-developer-this-isnt-just-an-update = هذا ليس مُجرد تحديث. هذا { -brand-name-firefox-quantum }: متصفّح { -brand-name-firefox } جديد تمت إعادة بنائه من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
 firefox-developer-welcome-to-firefox-browser = مرحبًا بك في { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين
+firefox-developer-all-the-latest-v2 = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثلMulti-line Console Editor و WebSocket Inspector.
 
 # Obsolete string
 firefox-developer-all-the-latest = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثل Multi-line Console Editor و<strong></strong>WebSocket Inspector.
