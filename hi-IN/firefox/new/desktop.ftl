@@ -178,6 +178,8 @@ firefox-desktop-download-now-else = अब { -brand-name-firefox } <strong>इ�
 firefox-desktop-download-now-windows = अब डाउनलोड किया गया इंस्टॉलर <strong>रन करें</strong>।
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = अब डाउनलोड की गई फ़ाइल <strong>खोलें</strong>।
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = नीचे <strong>डाउनलोड</strong> विकल्प चुनें
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = कोई परेशानी है? <a { $attrs }>इंस्टॉलेशन संबंधी सहायता प्राप्त करें</a>।
