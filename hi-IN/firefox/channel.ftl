@@ -63,3 +63,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-apple } �
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-apple } के { -brand-name-test-flight } प्रोग्राम के द्वारा { -brand-name-ios } के लिए { -brand-name-firefox } के बीटा संस्करण जाँचे।
 firefox-channel-sign-up-now = अभी साइन अप करें
+firefox-channel-nightly-update-one-or-more-times = ध्यान दें: { -brand-name-firefox-nightly } दिन में तकरीबन एक या दो बार अपडेट किया जाएगा।
