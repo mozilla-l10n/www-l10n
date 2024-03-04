@@ -11,23 +11,21 @@ nightly-whatsnew-youve-just-been = Ви щойно оновилися до { -br
 nightly-whatsnew-your-firefox-nightly = Ваш { -brand-name-firefox-nightly } оновлено.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = Кожні 4 - 5 тижнів випускається нова основна версія { -brand-name-firefox }, і, як наслідок, оновлюється версія { -brand-name-nightly }.
-# Obsolete
-nightly-whatsnew-every-6-to-8-weeks = Кожні 6 - 8 тижнів випускається нова основна версія { -brand-name-firefox }, і, як наслідок, оновлюється версія { -brand-name-nightly }.
 nightly-whatsnew-this-is-a-good = Це гарна нагода, щоб подякувати вам за те, що допомагаєте нам робити { -brand-name-firefox } кращим, і запропонувати вам кілька посилань на документацію, канали зв'язку та новинні сайти, пов'язані з { -brand-name-nightly }, які можуть вас зацікавити.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v3 = Якщо ви хочете бути в курсі останніх розробок у { -brand-name-nightly } та подій у спільноті, читайте наш <a href="{ $blog }">блог</a> і підписуйтеся на нас у <a href="{ $mastodon }">Mastodon</a> або <a href="{ $twitter }">X</a>!
+# Obsolete string
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = Якщо ви хочете дізнатися, що відбувається навколо { -brand-name-nightly } та його спільноти, читайте наш <a href="{ $blog }">блог</a> і підписуйтеся на нас у <a href="{ $mastodon }">Mastodon</a> або <a href="{ $twitter }">Twitter</a>!
-# Obsolete
-nightly-whatsnew-if-you-want-to = Якщо ви хочете дізнатися, що відбувається навколо { -brand-name-nightly } та його спільноти, читайте наш <a href="{ $blog }">блог</a> та підписуйтеся на нас в <a href="{ $twitter }">{ -brand-name-twitter }</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = Хочете дізнатись, які можливості платформи можна протестувати в { -brand-name-nightly }, які ще недоступні в інших каналах { -brand-name-firefox }? Тоді перегляньте сторінку налаштувань <a { $attrs }>Nightly Experiments</a>.
-# Obsolete
-# Variables:
-#   $mdn (url) - link to https://developer.mozilla.org/Firefox/Experimental_features
-nightly-whatsnew-want-to-know-which = Хочете дізнатись, які можливості платформи можна протестувати в { -brand-name-nightly }, які ще недоступні в інших каналах { -brand-name-firefox }? Тоді перегляньте сторінку <a href="{ $mdn }">Експериментальних можливостей</a> на <abbr title="{ -brand-name-mozilla-developer-network }">{ -brand-name-mdn }</abbr>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Вам трапляються збої в роботі, неочікувана поведінка, погіршення веб-сумісності? Ми б хотіли, щоб такі помилки були зареєстровані в <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a>, щоб бути певними в тому, що вони не ввійдуть у фінальний випуск (плюс в карму, якщо ви додасте ключове слово <em>{ -brand-name-nightly }-community</em> до звітів про помилки)!
