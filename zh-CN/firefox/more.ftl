@@ -70,4 +70,4 @@ firefox-more-more-and-more = 我们的生活中有越来越多私密、有价值
 firefox-more-avoid-misinformation-heading = 远离网上的错误信息 – { -brand-name-firefox } 可为您提供帮助
 firefox-more-avoid-misinformation-desc = 了解如何避免看到错误信息，专注于重要的事情。
 firefox-more-is-firefox-a-private-browser = { -brand-name-firefox } 浏览器是否能守护隐私？
-firefox-more-were-focused-on-your-right-to = 我们十分重视您的隐私权。 { -brand-name-firefox } 能够保护您的数据、网络活动及在线生活。
+firefox-more-were-focused-on-your-right-to = 我们十分重视您的隐私权。{ -brand-name-firefox } 能够保护您的数据、网络活动及在线生活。

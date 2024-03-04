@@ -7,7 +7,7 @@
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } 能守护隐私吗？
 # HTML description
-features-private-were-focused-on-your-right-to = 我们十分重视您的隐私权。 { -brand-name-firefox } 能够保护您的数据、网络活动及在线生活。
+features-private-were-focused-on-your-right-to = 我们十分重视您的隐私权。{ -brand-name-firefox } 能够保护您的数据、网络活动及在线生活。
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
 features-private-yes-firefox-protects-your = 是的。 { -brand-name-firefox } 通过<a href="{ $url }">隐私浏览</a>等功能保护您的隐私。即使您与其他人共用设备（例如家庭计算机和 { -brand-name-ipad }），它也能防止其他人获知您的浏览历史和密码。
