@@ -42,6 +42,8 @@ footer-donate = 寄付する
 # Obsolete string
 footer-twitter = { -brand-name-twitter }
 
+footer-x = X
+footer-x-formerly-twitter = X (旧 Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
