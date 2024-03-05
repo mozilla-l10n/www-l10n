@@ -209,3 +209,5 @@ privacy-book-do-you-have = ご質問やご意見がある方は、ぜひご遠�
 # Obsolete string
 privacy-book-twitter = { -brand-name-twitter }
 
+privacy-book-x = X
+privacy-book-x-formerly-twitter = X (旧 Twitter)
