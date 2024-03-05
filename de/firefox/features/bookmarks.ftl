@@ -34,7 +34,7 @@ features-bookmarks-futz-with-that-bookmark = Lesezeichen lieben
 
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/search/?q=bookmark%20managers
-features-bookmarks-practice-your-precision = Lässt keine Wünsche offen: Mit unseren <a href="{ $url }">Add-ons</a> für die Lesezeichenverwaltung können Sie Ihre Seiten genaustens sortieren, Bildschirmfotos von Seiten machen, eine Sidebar anlegen oder private Lesezeichen ablegen.
+features-bookmarks-practice-your-precision = Lässt keine Wünsche offen: Mit unseren <a href="{ $url }">Add-ons</a> für die Lesezeichenverwaltung kannst du deine Seiten genaustens sortieren, Bildschirmfotos von Seiten machen, eine Sidebar anlegen oder private Lesezeichen ablegen.
 
 # Obsolete string
 # Variables:
