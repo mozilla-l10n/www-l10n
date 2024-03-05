@@ -36,6 +36,8 @@ firefox-new-your-firefox-new-should-begin = Unduhan Anda akan dimulai secara oto
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari sekadar peramban.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
+firefox-new-download-almost-there = Hampir selesai!
+firefox-new-download-select-linux = Pilih opsi unduh di bawah ini
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
