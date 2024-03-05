@@ -4,54 +4,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Terjemahkan web - langsung di Peramban Anda
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Terjemahkan halaman web dengan { -brand-name-firefox }
+features-translate-translate-the-web = Terjemahkan web
 
-# page description
-features-translate-translate-more-than = Terjemahkan lebih dari 100 bahasa ke bahasa Anda langsung di { -brand-name-firefox-browser } - lebih mudah dari sebelumnya.
-features-translate-translate-the-web = Terjemahkan web dengan { -brand-name-firefox }
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Translations adalah fitur terjemahan bawaan yang memungkinkan Anda menjelajahi web dengan mudah dalam bahasa yang Anda inginkan. Pelajari selengkapnya cara kerja fitur ini di { -brand-name-firefox }, dan bagaimana { -brand-name-mozilla } membantu menjaga kerahasiaan materi yang Anda terjemahkan.
+features-translate-one-of-the-best-things-about = Salah satu keunggulan utama internet adalah membantu kita mengakses konten dari seluruh dunia. Entah itu artikel berita, blog, atau ulasan tentang gadget teknologi terbaru Anda, semuanya dapat ditemukan di web yang seolah tak ada batasnya. Dengan fitur terjemahan terbaru { -brand-name-firefox }, halaman web akan terus diterjemahkan secara real-time.
+features-translate-while-other-browsers-rely-on = Meskipun peramban lain mengandalkan layanan cloud, model bahasa { -brand-name-firefox } Translations diunduh di peramban pengguna dan terjemahan diproses secara lokal, sehingga { -brand-name-mozilla } tidak mencatat halaman web apa yang Anda terjemahkan.
+features-translate-when-you-translate-a-webpage = Saat Anda menerjemahkan halaman web, halaman tersebut tetap bersifat pribadi
+features-translate-when-your-translations-are = Saat terjemahan Anda diproses secara lokal, tidak ada data dari perangkat pilihan Anda yang keluar dari perangkat atau mengandalkan layanan cloud untuk terjemahan. Artinya, { -brand-name-mozilla } tidak mengetahui halaman web mana yang Anda terjemahkan, sehingga fitur terjemahan kami lebih unggul dibandingkan dengan platform terjemahan lain.
+features-translate-what-languages-are-currently = Saat ini, bahasa apa saja yang didukung?
 
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Terjemahkan web
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = Bahasa di bawah ini saat ini didukung oleh fitur { -brand-name-firefox } Translations:
+features-translate-and-more-languages-are-in = Dan masih ada banyak lagi bahasa yang sedang dalam tahap pengembangan!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } berbicara dalam bahasa Anda
 
-# Obsolete string
-features-translate-the-google-translate = Ekstensi { -brand-name-google } Terjemahan untuk { -brand-name-firefox } memungkinkan internet dapat diakses oleh pengguna di seluruh dunia.
-
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Internet penuh dengan berbagai hal luar biasa, tetapi tidak semuanya tersedia dalam bahasa Inggris — sehingga miliaran orang di seluruh dunia membutuhkan penerjemah hanya untuk menggunakan internet. Anda dapat <a { $attrs }>mengunduh { -brand-name-firefox } dalam lebih dari 100 bahasa</a>, sehingga menu peramban, notifikasi, dan pesan Anda tersedia dalam bahasa pilihan Anda, tetapi itu belum menyelesaikan masalah peramban yang digunakan untuk mencari semua konten menakjubkan itu.
-
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>Ekstensi { -brand-name-firefox-translations }</a> dapat menerjemahkan konten secara otomatis dari halaman web yang Anda kunjungi. Tidak seperti beberapa alternatif berbasis cloud, ekstensi ini menerjemahkan teks secara lokal di { -brand-name-firefox }, sehingga konten yang Anda terjemahkan tidak meninggalkan perangkat Anda.
-
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Dapatkan { -brand-name-firefox-translations }
-
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = Ke { -brand-name-google } Terjemahan
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Terjemahan, dengan lebih dari 100 bahasa* yang tersedia saat ini, digunakan oleh jutaan orang di seluruh dunia. Tapi berpindah-pindah antara translate.google.com dan halaman yang akan Anda baca bukan cara yang ideal. <a { $attrs }>Ekstensi Ke { -brand-name-google } Terjemahan</a> sangat memudahkan Anda dalam menerjemahkan laman web yang Anda kunjungi.
-
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Kunjungi { -brand-name-google } Terjemahan
-
-# Obsolete string
-features-translate-get-the-extension = Dapatkan Ekstensi
-features-translate-once-installed-simply = Setelah diinstal, cukup sorot teks yang ingin Anda terjemahkan dan klik kanan untuk menampilkan menu dengan dua opsi: 1) Membawa Anda ke translate.google.com dengan teks yang Anda pilih secara otomatis telah dimasukkan ke dalam kolom terjemahan; atau 2) Mendengarkan pelafalan audio dari frasa yang diterjemahkan (didukung oleh { -brand-name-google } Text-to-Speech, yang berguna jika Anda ingin mempelajari bahasa baru.
-features-translate-switch-languages-in = Ganti Bahasa di { -brand-name-firefox }
-
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Jika Anda sudah menggunakan { -brand-name-firefox }, Anda dapat mengubah bahasa peramban atau menambahkan bahasa ke antarmuka { -brand-name-firefox }. <a { $attrs }>Pelajari caranya di sini.</a>
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Dengan ekstensi Ke { -brand-name-google } Terjemahan, saat ini Anda dapat menerjemahkan <a { $attrs }>bahasa-bahasa berikut</a>:
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }>dan banyak lagi!</a>
-
-features-translate-for-everyone-v2 = { -brand-name-firefox } untuk semua
-
-# Outdated string
-features-translate-for-everyone = Firefox untuk semua orang
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = Fitur { -brand-name-firefox } Translations adalah cara lain { -brand-name-mozilla } dalam menjaga internet Anda tetap dipersonalisasi dan lebih pribadi. { -brand-name-mozilla } tidak melacak halaman web yang Anda terjemahkan. Dengan jutaan pengguna di seluruh dunia, { -brand-name-mozilla } ingin memastikan bahwa mereka yang menggunakan { -brand-name-firefox } akan belajar, berkomunikasi, berbagi, dan tetap mendapatkan informasi sesuai preferensi mereka sendiri. <a { $download }>Mulai dalam bahasa pilihan Anda dengan mengunduh { -brand-name-firefox }.</a>
