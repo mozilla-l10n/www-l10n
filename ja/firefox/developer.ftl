@@ -77,6 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = あなたは{ -brand-name-fire
 firefox-developer-this-isnt-just-an-update = これは単なるアップデートではありません。{ -brand-name-firefox-quantum } は、完全に再構築されて、さらに高速、シンプル、パワフルになった { -brand-name-firefox } です。
 firefox-developer-welcome-to-firefox-browser = ようこそ { -brand-name-firefox-browser } { -brand-name-developer-edition } へ
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー
+firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
 
 # Obsolete string
 firefox-developer-all-the-latest = すべての最新ベータ版デベロッパーツールに加え、Multi-line Console Editor や WebSocket Inspector 等の<strong>試験的機能</strong>。
