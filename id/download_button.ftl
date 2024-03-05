@@ -58,6 +58,16 @@ download-a-different-build = Unduh build lain
 
 ## Linux
 
+# Obsolete string
+download-button-linux-32 = Unduh { -brand-name-linux } 32-bit
 
+# Obsolete string
+download-button-linux-64 = Unduh { -brand-name-linux } 64-bit
 
+download-button-linux-32-v2 = Unduh untuk Linux 32-bit
+download-button-linux-64-v2 = Unduh untuk Linux 64-bit
 
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Apakah Anda menggunakan Debian, Ubuntu, atau distribusi berbasis Debian lainnya?<br> Anda dapat menyiapkan <a { $attrs }>repositori APT sebagai gantinya</a>.
