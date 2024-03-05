@@ -63,3 +63,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-apple } �
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-apple } の { -brand-name-test-flight } プログラムで { -brand-name-ios } 用 { -brand-name-firefox } のベータ版をご試用ください。
 firefox-channel-sign-up-now = 今すぐサインアップ
+firefox-channel-nightly-update-one-or-more-times = 注: { -brand-name-firefox-nightly } は、1 日に 1~2 回程度更新されます。
