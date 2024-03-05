@@ -30,19 +30,23 @@ compare-index-and-the-winner-is = 優勝したのは？
 # Obsolete string
 compare-index-find-out-how-firefox-chrome = { -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } のプライバシー、実用性、ポータブル性を比較します。
 
+compare-index-find-out-how-firefox-chrome-v2 = { -brand-name-firefox }、Chrome、Edge、Safari、Opera、Brave のプライバシー、実用性、ポータブル性を比較します。
 
 # Obsolete string
 compare-index-looking-for-a-better-browser = より優れたブラウザーをお探しの方のために、ここでは、ブラウザー選びの一助として { -brand-name-firefox } を { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } と比較します。
 
+compare-index-looking-for-a-better-browser-v2 = より優れたブラウザーをお探しの方のために、{ -brand-name-firefox } を Chrome、Edge、Safari、Opera、Brave と比較してブラウザー選びをお手伝いします。
 
 # Obsolete string
 compare-index-so-is-your-browser-the-best = お使いのブラウザーは、あなたのオンライン生活にぴったりと合ったものですか？最適なブラウザーは、ウェブの使い心地に大きく影響します。そこで、{ -brand-name-google } { -brand-name-chrome }、{ -brand-name-firefox }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-microsoft } { -brand-name-ie }、{ -brand-name-edge } を比較して、ニーズに合ったものを見てください。
 
+compare-index-so-is-your-browser-the-best-v2 = お使いのブラウザーは、あなたのオンライン生活にぴったりと合ったものですか？ 最適なブラウザーは、ウェブの使い心地に大きく影響します。そこで、Google Chrome、{ -brand-name-firefox }、Safari、Opera、Brave、Edge を比較して、ニーズに合ったものを見つけてみてください。
 compare-index-since-your-browser-is-your = ブラウザーはインターネットへの門であるため、スピード、セキュリティ、プライバシー、実用性は外せません。近年では、{ -brand-name-google } { -brand-name-chrome } が多くの人に選ばれるブラウザーになっています。しかし、オンライン広告がユーザーにつきまとい、データ侵害がニュースの日常になっていることから、多くの人がブラウザーにプライバシーと保護を求めるようになっています。
 
 # Obsolete string
 compare-index-the-first-thing-to-point-out = ポータブル性についてまず述べておきたいのは、すべてのブラウザーがすべての OS に対応しているわけではないということです。{ -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-brave }、{ -brand-name-opera } は、すべての主要なシステムで動作し、インストールが簡単ですが、{ -brand-name-ie } と { -brand-name-safari } は { -brand-name-microsoft } および Apple 専用です。{ -brand-name-safari } のモバイル版は、Apple のモバイルデバイスにプリインストールされており、ほとんどの { -brand-name-android } デバイスには、メーカーが指定したブラウザーがプリインストールされています。{ -brand-name-firefox }、{ -brand-name-chrome }、{ -brand-name-brave }、{ -brand-name-edge }、{ -brand-name-opera } はインストールが簡単で、並べて利用することもできます。
 
+compare-index-the-first-thing-to-point-out-v2 = ポータブル性についてまず述べておきたいのは、すべてのブラウザーがすべての OS に対応しているわけではないということです。{ -brand-name-firefox }、Chrome、Edge、Brave、Opera は、すべての主要なシステムで動作し、インストールが簡単ですが、Safari は Apple 専用です。Safari のモバイル版は、Apple のモバイルデバイスにプリインストールされており、ほとんどの Android デバイスには、メーカーが指定したブラウザーがプリインストールされています。{ -brand-name-firefox }、Chrome、Brave、Edge、Opera はインストールが簡単で、併用することもできます。
 compare-index-browsers-have-come-a-long = { -brand-name-chrome } が登場して市場を席巻して以来、ブラウザーは長い道程を辿ってきました。現代のブラウザーのほとんどは、ポータブル性と機能性で拮抗しており、スピードやプライバシーなどの一部の分野では、{ -brand-name-chrome } を超えるものもあります。それでも、どのブラウザーがユーザーに合っているかは、それぞれのニーズとオンライン生活で重視するもの次第です。
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } は、非営利法人の { -brand-name-mozilla } が提供しています。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } は、あらゆる開発と活動においてユーザーのプライバシーを第一に考えています。ユーザーには、自分自身の個人情報をどのように、誰と共有するかを決定する権利があると考えています。{ -brand-name-firefox } は、収集するデータはできる限り少なく抑え、売却することは一切ありません。わずかに収集するデータは、製品開発と機能改善にのみ使用します。秘密は作りません。その代わり、透明性と本物のプライバシーを徹底します。
