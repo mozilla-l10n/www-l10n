@@ -63,3 +63,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Uji versi beta { -brand
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Uji versi beta dari { -brand-name-firefox } untuk { -brand-name-ios } melalui program { -brand-name-apple } { -brand-name-test-flight }.
 firefox-channel-sign-up-now = Daftar sekarang
+firefox-channel-nightly-update-one-or-more-times = Catatan: { -brand-name-firefox-nightly } akan diperbarui kira-kira sekali atau dua kali sehari.

@@ -63,3 +63,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Testen Sie über { -bra
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testen Sie über { -brand-name-apple }s { -brand-name-test-flight }-Programm Beta-Versionen von { -brand-name-firefox } für { -brand-name-ios }.
 firefox-channel-sign-up-now = Jetzt registrieren
+firefox-channel-nightly-update-one-or-more-times = Hinweis: { -brand-name-firefox-nightly } wird etwa ein- bis zweimal am Tag aktualisiert.
