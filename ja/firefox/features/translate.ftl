@@ -4,54 +4,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = ウェブをブラウザーで直接翻訳
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } でウェブページを翻訳する
+features-translate-translate-the-web = ウェブを翻訳
 
-# page description
-features-translate-translate-more-than = { -brand-name-firefox-browser } が 100 か国以上から日本語などに直接翻訳、さらに簡単になりました。
-features-translate-translate-the-web = { -brand-name-firefox } でウェブを翻訳する
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } 翻訳は、お好みの言語でウェブを手軽に閲覧できるようにする内蔵の翻訳機能です。この { -brand-name-firefox } 機能の仕組み、{ -brand-name-mozilla } が翻訳内容のプライバシーを守る取り組みについて詳しく説明します。
+features-translate-one-of-the-best-things-about = インターネット最大の利点の 1 つは、世界中のコンテンツにアクセスできることです。ニュース記事やブログ、最新のテクノロジーガジェットのレビューなど、限りないウェブ上ですべてを見つけることができます。{ -brand-name-firefox } の最新の翻訳機能は、ウェブページをリアルタイムで翻訳し続けます。
+features-translate-while-other-browsers-rely-on = 他社のブラウザーはクラウドサービスに依存する一方、{ -brand-name-firefox } 翻訳の言語モデルは、ユーザーのブラウザーにダウンロードされ、ローカルで翻訳が行われるため、{ -brand-name-mozilla } は翻訳したウェブページを記録しません。
+features-translate-when-you-translate-a-webpage = 翻訳したウェブページのプライバシーが守られます
+features-translate-when-your-translations-are = 翻訳がローカルで処理される際、デバイスからデータの送受信が行われたり、翻訳のためにクラウドサービスに依存したりすることはありません。つまり、{ -brand-name-mozilla } はユーザーが翻訳するウェブページを把握せず、このため他社の翻訳ツールと比較して際立った翻訳機能となります。
+features-translate-what-languages-are-currently = 現在サポートしている言語
 
-# Shorter title used in subnav
-features-translate-translate-the-web-short = ウェブを翻訳
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = 現在 { -brand-name-firefox } 翻訳機能でサポートされている言語は以下のとおりです。
+features-translate-and-more-languages-are-in = 他の言語も開発中です。
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } は、あなたの言語を理解します
 
-# Obsolete string
-features-translate-the-google-translate = { -brand-name-firefox } 用の拡張機能「To { -brand-name-google } Translate」を使うと、世界中のウェブにアクセスできるようになります。
-
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = インターネットは素晴らしいコンテンツでいっぱいですが、日本語で書かれているものばかりでなく、世界の数十億という人がインターネットを使うためだけに翻訳者を必要としています。<a { $attrs }>{ -brand-name-firefox } は 100 か国語以上でダウンロード</a>できるため、ブラウザーのメニューや通知、メッセージはお好みの言語で表示されます。それでも、ブラウザーで検索できる素晴らしいコンテンツを読めないという問題は解決できません。
-
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = <a { $attrs }>{ -brand-name-firefox-translations } 拡張機能</a>は、アクセスした Web ページのコンテンツを自動的に翻訳できます。一部のクラウドベースの代替製品とは異なり、この拡張機能はテキストを { -brand-name-firefox } 内でローカルに翻訳するので、翻訳しているコンテンツがコンピューターから発信されることはありません。
-
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = { -brand-name-firefox-translations } をダウンロード
-
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = To { -brand-name-google } Translate は、100 か国語以上*に対応し、世界中で数百万人のユーザーに利用されています。ただ、読みたいページと translate.google.com を行き来することは、快適とはいえません。拡張機能「<a { $attrs }>To { -brand-name-google } Translate</a>」なら、閲覧しているページの翻訳がもっと簡単になります。
-
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = To { -brand-name-google } Translate をダウンロード
-
-# Obsolete string
-features-translate-get-the-extension = 拡張機能をインストール
-features-translate-once-installed-simply = インストールしたら、翻訳したいテキストをハイライトし、右クリックでメニューを開き、2 つのオプションから選びます。1) translate.google.com に移動し、選択したテキストを自動的に翻訳フィールドに入力します。2) フレーズの音声を聞きます ({ -brand-name-google } Text-to-Speech を使用)。新しい語学を学んでいるときに役立ちます。
-features-translate-switch-languages-in = { -brand-name-firefox } で言語を切り替える
-
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = 既に { -brand-name-firefox } を利用している場合は、ブラウザーの言語を変更したり、{ -brand-name-firefox } のインターフェイスに言語を追加したりできます。<a { $attrs }>方法はこちらです。</a>
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *拡張機能「To { -brand-name-google } Translate」では、現在<a { $attrs }>こちらの言語</a>を翻訳できます。
-
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }>他にも多数</a>
-
-features-translate-for-everyone-v2 = { -brand-name-firefox } は、あらゆるユーザーのために開発されました
-
-# Outdated string
-features-translate-for-everyone = みんなのための Firefox
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = { -brand-name-mozilla } は、{ -brand-name-firefox } 翻訳機能でも個人に合わせたインターネットを提供し、プライバシーを守っています。{ -brand-name-mozilla } は、ユーザーが翻訳するウェブページを追跡しません。世界中に何百万人ものユーザーがいる { -brand-name-mozilla } は、{ -brand-name-firefox } を利用するユーザーが自由に学習、通信、共有、情報収集できるようにしたいと考えています。<a { $download }>{ -brand-name-firefox } をダウンロードして、あなたの言語に翻訳しましょう。</a>
