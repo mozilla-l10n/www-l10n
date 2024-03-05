@@ -178,6 +178,8 @@ firefox-desktop-download-now-else = Sekarang selesaikan <strong>penginstalan</st
 firefox-desktop-download-now-windows = Lalu <strong>jalankan</strong> penginstal yang baru saja diunduh.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Sekarang <strong>buka</strong> file yang baru saja diunduh.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Pilih opsi <strong>unduh</strong> di bawah ini
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ada masalah? <a { $attrs }>Dapatkan bantuan untuk penginstalan Anda</a>.
