@@ -16,6 +16,7 @@ home-the-health-of = „Wir sind da, damit das Internet und unser Online-Leben g
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO, { -brand-name-mozilla }
 
+home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } macht Produkte, die den Datenschutz respektieren
 home-product-firefox-browsing = Privates und sicheres Browsen
@@ -26,6 +27,8 @@ home-product-relay-masks = Einfach zu verwendende E-Mail- und Telefonmasken
 home-cta-get-relay = Hol dir jetzt { -brand-name-relay }
 home-product-vpn-trust = Ein VPN, dem Sie vertrauen können
 home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
+home-product-monitor-data = Warnmeldungen zu Datenlecks
+home-cta-get-monitor = Hol dir jetzt { -brand-name-monitor }
 
 home-mozilla-takes-bets = „{ -brand-name-mozilla } möchte der Welt unter Beweis stellen, dass man mit vertrauenswürdiger KI Geld verdienen kann. Das schließt Dinge wie Menschenrechte, Datenschutz und Transparenz ein, die für den Betrieb dieser komplexen Systeme von zentraler Bedeutung sind.“
 

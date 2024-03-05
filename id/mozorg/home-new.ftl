@@ -16,6 +16,7 @@ home-the-health-of = “Kami ada demi kesehatan internet dan kehidupan daring.�
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
 
+home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } membuat produk yang menghormati privasi
 home-product-firefox-browsing = Penjelajahan yang pribadi & aman
@@ -26,6 +27,8 @@ home-product-relay-masks = Penyamaran surel & telepon yang mudah digunakan
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang tepercaya
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
+home-product-monitor-data = Peringatan tentang pelanggaran data
+home-cta-get-monitor = Dapatkan { -brand-name-monitor }
 
 home-mozilla-takes-bets = “{ -brand-name-mozilla } berani menunjukkan kepada dunia bahwa ada bisnis yang dapat dibangun dengan AI yang tepercaya. Dengan menjadikan hak asasi manusia, perlindungan data, dan transparansi sebagai inti dari cara kerja sistem yang kompleks ini.”
 
