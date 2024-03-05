@@ -39,6 +39,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } secara oto
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Singkirkan iklan melekat yang mengikuti Anda dengan pemblokir fingerprinting yang tersemat di { -brand-name-firefox }.
 features-index-translate-the-web = Terjemahkan web
+features-index-translate-websites-to-your = Terjemahkan situs web ke bahasa Anda langsung di peramban { -brand-name-firefox } – tanpa membagikan data Anda kepada orang lain.
 
 # Obsolete string
 features-index-translate-more-than = Terjemahkan lebih dari 100 bahasa ke bahasa Anda langsung di peramban { -brand-name-firefox } — lebih mudah dari sebelumnya.
