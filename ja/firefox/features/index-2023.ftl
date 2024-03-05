@@ -39,6 +39,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } は、イ�
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = { -brand-name-firefox } の内蔵フィンガープリント採取ブロッカーで、しつこい広告につきまとわれなくなります。
 features-index-translate-the-web = ウェブを翻訳
+features-index-translate-websites-to-your = データを他の人と共有することなく、{ -brand-name-firefox } ブラウザーでウェブサイトをあなたの言語に直接翻訳できます。
 
 # Obsolete string
 features-index-translate-more-than = { -brand-name-firefox } ブラウザーが 100 か国以上から日本語などに直接翻訳、さらに簡単になりました。
