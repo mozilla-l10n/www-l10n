@@ -16,6 +16,7 @@ home-the-health-of = 「インターネットとオンライン生活の健全�
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
 
+home-mitchell-baker-v2 = Mitchell Baker、{ -brand-name-mozilla-foundation }、理事会長
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } は、プライバシーを尊重する製品を作っています
 home-product-firefox-browsing = プライバシーとセキュリティを守るブラウジング
@@ -26,6 +27,8 @@ home-product-relay-masks = 使いやすいメール・電話マスク
 home-cta-get-relay = { -brand-name-relay } をダウンロード
 home-product-vpn-trust = 信頼できる VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
+home-product-monitor-data = データ侵害通知
+home-cta-get-monitor = { -brand-name-monitor } をダウンロード
 
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } は、信頼できる AI を使って実現するビジネスがあることを世界に示す取り組みをしています。その中で、人権やデータ保護、透明性などをこれらの複雑なシステムの中核に据えています」
 
