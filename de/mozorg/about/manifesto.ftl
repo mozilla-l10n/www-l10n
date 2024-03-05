@@ -60,6 +60,8 @@ manifesto-i-support-the-vision-of = Ich unterstütze die Vision von @mozilla fü
 # Obsolete string
 manifesto-share-on-twitter = Auf { -brand-name-twitter } teilen
 
+manifesto-share-on-x = Auf X teilen
+manifesto-share-on-x-aria-label = Auf X (früher Twitter) teilen
 manifesto-our-10-principles = <strong>Unsere 10</strong> Prinzipien
 manifesto-read-the-entire-manifesto = Lesen Sie das gesamte Manifest
 manifesto-love-the-web = Lieben Sie das Internet?
