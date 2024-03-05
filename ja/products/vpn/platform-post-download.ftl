@@ -53,6 +53,10 @@ vpn-download-faq-concealing-ip = ユーザーの本当の <a href="{ $ip }">IP �
 vpn-download-faq-encrypting = インターネットトラフィックを暗号化する: ネットワーク上の誰からもオンラインアクティビティを覗かれないようにします。
 vpn-download-faq-working = VPN が機能していることを確認する方法は？
 
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } は、ツールバーとアプリケーションのホーム画面の両方に現在の状態の視覚的なインジケーターを表示し、オンラインアクティビティが保護されているかどうかを簡単に知ることができます。これらのインジケーターで、ナビゲーションがプライベートで安全であることを確認できます。また、接続中に、<a href="{ $monitor }">https://monitor.mozilla.org/</a> にアクセスしてIP アドレスが秘匿されているかどうかを確認できます。詳しくは、「<a href="{ $connected }">{ -brand-name-mozilla-vpn } が接続されているかどうかを確認する方法</a>」を参照してください。
 
 # Obsolete string
 # Variables:
