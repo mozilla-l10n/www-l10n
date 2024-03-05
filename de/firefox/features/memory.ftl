@@ -17,10 +17,10 @@ features-memory-stop-running-out-of-memory = Immer genug Speicherplatz
 
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/fx54memorytest/
-features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } verbraucht bis zu 1,77-mal mehr Speicher als { -brand-name-firefox }</a>. Wenn Ihr Computer bereits über wenig Arbeitsspeicher verfügt, kann dies zu einer erheblichen Verlangsamung führen. Wenn Sie die neuste Version von { -brand-name-firefox } mit mehreren Prozessen verwenden, steht möglicherweise mehr Speicher zur Verfügung, um Ihre Lieblingsprogramme auszuführen.
+features-memory-chrome-uses-up-to-177x-more = <a href="{ $url }">{ -brand-name-chrome } verbraucht bis zu 1,77-mal mehr Speicher als { -brand-name-firefox }</a>. Wenn dein Computer bereits über wenig Arbeitsspeicher verfügt, kann dies zu einer erheblichen Verlangsamung führen. Wenn du die neuste Version von { -brand-name-firefox } mit mehreren Prozessen verwendest, steht möglicherweise mehr Speicher zur Verfügung, um deine Lieblingsprogramme auszuführen.
 features-memory-browse-faster-privately = Schneller und privat surfen
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 # "Decluttering" means reducing clutter
-features-memory-explore-the-web-faster-with = Entdecken Sie das Internet schneller mit <a href="{ $url }">der Funktion Privater Modus von { -brand-name-firefox }</a>. Nur der Private Modus von { -brand-name-firefox } inklusive Nicht-Verfolgen-Funktion blockiert Werbung mit Trackern automatisch. Dadurch können Websites noch schneller laden.
+features-memory-explore-the-web-faster-with = Entdecke das Internet schneller mit <a href="{ $url }">der Funktion Privater Modus von { -brand-name-firefox }</a>. Nur der Private Modus von { -brand-name-firefox } inklusive Nicht-Verfolgen-Funktion blockiert Werbung mit Trackern automatisch. Dadurch können Websites noch schneller laden.
