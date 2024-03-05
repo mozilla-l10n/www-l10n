@@ -6,12 +6,12 @@
 
 features-shared-firefox-features = Funktionen von { -brand-name-firefox }
 features-shared-footer-cta-title = Mehr machen mit { -brand-name-firefox }
-features-shared-footer-cta-desc = Holen Sie sich den schnellen, leichten, datenschutzorientierten Browser, der von einer Non-Profit unterstützt wird und auf allen Ihren Geräten funktioniert.
+features-shared-footer-cta-desc = Hol dir den schnellen, leichten, datenschutzorientierten Browser, der von einer Non-Profit unterstützt wird und auf all deinen Geräten funktioniert.
 features-shared-footer-cta-button = { -brand-name-firefox } herunterladen
 features-shared-is-firefox-a-fast-browser = Ist { -brand-name-firefox } ein schneller Browser?
 features-shared-is-firefox-a-private-browser = Ist { -brand-name-firefox } ein privater Browser?
 features-shared-free-password-manager = Passwort-Manager
-features-shared-customize-your-firefox-browser = Personalisieren Sie Ihren { -brand-name-firefox }-Browser
+features-shared-customize-your-firefox-browser = Personalisiere deinen { -brand-name-firefox }-Browser
 features-shared-firefox-browser-sync = { -brand-name-firefox } Browser-Synchronisierung
 features-shared-bookmark-manager = Lesezeichenverwaltung
 features-shared-private-browsing-mode = Privater Modus
