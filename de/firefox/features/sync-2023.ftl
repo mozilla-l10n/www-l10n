@@ -8,20 +8,20 @@
 features-sync-firefox-browser-sync = { -brand-name-firefox } Browser-Synchronisierung
 
 # HTML page description
-features-sync-access-your-firefox-bookmarks = Greifen Sie von allen Ihren Geräten auf Ihre { -brand-name-firefox } Lesezeichen, Passwörter, offenen Tabs und mehr zu.
-features-sync-with-firefox-you-can-pick-up-where = Mit { -brand-name-firefox } können Sie da weitermachen, wo Sie aufgehört haben, wenn Sie von Ihrem PC auf Ihr Smartphone auf Ihr Tablet wechseln. Mit { -brand-name-firefox } sehen Sie Ihre Lesezeichen, Ihren Verlauf, Ihre gespeicherten Passwörter und mehr, egal, welches Gerät Sie nutzen.
+features-sync-access-your-firefox-bookmarks = Greife von all deinen Geräten auf deine { -brand-name-firefox } Lesezeichen, Passwörter, offenen Tabs und mehr zu.
+features-sync-with-firefox-you-can-pick-up-where = Mit { -brand-name-firefox } kannst du da weitermachen, wo du aufgehört hast, wenn du von deinem PC auf dein Smartphone auf dein Tablet wechselst. Mit { -brand-name-firefox } siehst du deine Lesezeichen, deinen Verlauf, deine gespeicherten Passwörter und mehr, egal, welches Gerät du nutzt.
 
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Melden Sie sich für ein kostenloses { -brand-name-mozilla-account }</a> an und Sie können Ihre Daten überall synchronisieren, wo Sie { -brand-name-firefox } und andere { -brand-name-mozilla }-Produkte verwenden.
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Melde dich für ein kostenloses { -brand-name-mozilla-account }</a> an und du kannst deine Daten überall synchronisieren, wo du { -brand-name-firefox } und andere { -brand-name-mozilla }-Produkte verwendest.
 
 # Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Melden Sie sich für ein kostenloses { -brand-name-firefox }-Konto</a> an und Sie können Ihre Daten überall da synchronisieren, wo Sie ihren { -brand-name-firefox }-Browser verwenden.
+features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Melde dich für ein kostenloses { -brand-name-firefox }-Konto</a> an und du kannst deine Daten überall da synchronisieren, wo du deinen { -brand-name-firefox }-Browser verwendest.
 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
-features-sync-all-your-data-is-encrypted-on-our = Ihre Daten werden auf unseren Servern verschlüsselt, damit wir sie nicht lesen können – nur Sie haben Zugriff. Wir verkaufen Ihre Daten nicht an Werbetreibende, weil das gegen unser <a href="{ $privacy }">Datenschutzversprechen</a> verstoßen würde.
-features-sync-send-tabs-from-one-device-to-another = Senden Sie Tabs von einem Gerät an ein anderes
-features-sync-the-send-tab-feature-in-firefox = Die Funktion „Tab senden“ in { -brand-name-firefox } ermöglicht es Ihnen, Seiten von { -brand-name-firefox } auf einem Gerät an andere Geräte (wie etwa ein iPhone, iPad oder Android-Gerät) zu senden. Sie haben beim Surfen auf Ihrem Smartphone einen interessanten Artikel gefunden und wollen ihn lesen, wenn Sie wieder am Schreibtisch sitzen? Oder ein wichtiges Dokument bei der Arbeit, das Sie zu Hause speichern wollen? Oder vielleicht haben Sie auf Ihrem Laptop ein Rezept gefunden, das Sie an Ihr Tablet in der Küche senden wollen? Senden Sie den Tab!
+features-sync-all-your-data-is-encrypted-on-our = Deine Daten werden auf unseren Servern verschlüsselt, damit wir sie nicht lesen können – nur du hast Zugriff. Wir verkaufen deine Daten nicht an Werbetreibende, weil das gegen unser <a href="{ $privacy }">Datenschutzversprechen</a> verstoßen würde.
+features-sync-send-tabs-from-one-device-to-another = Sende Tabs von einem Gerät an ein anderes
+features-sync-the-send-tab-feature-in-firefox = Die Funktion „Tab senden“ in { -brand-name-firefox } ermöglicht es dir, Seiten von { -brand-name-firefox } auf einem Gerät an andere Geräte (wie etwa ein iPhone, iPad oder Android-Gerät) zu senden. Du hast beim Surfen auf deinem Smartphone einen interessanten Artikel gefunden und willst ihn lesen, wenn du wieder am Schreibtisch sitzt? Oder ein wichtiges Dokument bei der Arbeit, das du zu Hause speichern willst? Oder vielleicht hast du auf deinem Laptop ein Rezept gefunden, das du an dein Tablet in der Küche senden willst? Sende den Tab!
 
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Ein Bild eines { -brand-name-firefox } App-Menüs, das die Option „Tab an Gerät senden“ hervorhebt.
