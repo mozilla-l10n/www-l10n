@@ -41,10 +41,12 @@ we-worry-about = データの安全性をユーザーに代わって見守りま
 # Obsolete string
 seven-of-the = ベストブラウザー 7 つの直接対決
 
+six-of-the-best = 人気のブラウザー 6 つを直接比較します
 
 # Obsolete string
 we-compare-firefox = ここでは、ブラウザー選びの一助として { -brand-name-firefox } を { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } と比較します。
 
+we-compare-firefox-v2 = 意思決定を支援するために、{ -brand-name-firefox } を Chrome、Edge、Safari、Opera、Brave と比較します。
 comparing-firefox-chrome = { -brand-name-firefox-browser } と { -brand-name-google } { -brand-name-chrome } の比較
 big-isnt-always = 大企業がベストであるとは限りません。そこで、独立系という選択肢があります。
 comparing-firefox-brave = { -brand-name-firefox-browser } と { -brand-name-brave } の比較
