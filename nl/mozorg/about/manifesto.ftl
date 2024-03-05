@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = We zijn toegewijd aan een internet dat s
 manifesto-show-your-support = Toon uw steun
 manifesto-an-internet-with-these = Een internet met deze kwaliteiten komt niet vanzelf tot stand. Personen en organisaties moeten deze aspiraties in internettechnologie en menselijke ervaring met het internet verwerken. Het manifest en addendum van { -brand-name-mozilla } vertegenwoordigen { -brand-name-mozilla }’s toewijding aan het bevorderen van deze aspiraties. We richten ons op samenwerking met mensen en organisaties overal ter wereld die deze doelen delen, om zo het internet voor iedereen een betere plek te maken.
 manifesto-i-support-the-vision-of = Ik steun de visie van een beter, gezonder internet van @mozilla, doet u mee?
+# Obsolete string
 manifesto-share-on-twitter = Delen op { -brand-name-twitter }
+manifesto-share-on-x = Delen op X
+manifesto-share-on-x-aria-label = Delen op X (voorheen Twitter)
 manifesto-our-10-principles = <strong>Onze 10</strong> principes
-manifesto-use-open-badges-to-share = Gebruik Open Badges om uw vaardigheden en interesses te delen
-manifesto-explore-how-the-web-impacts = Ontdek hoe het web de wetenschap beïnvloedt
-manifesto-learn-about-open-source = Meer over opensourcecode in de journalistiek
-manifesto-read-about-open-internet = Meer over beleidsinitiatieven en ontwikkelingen van een open internet
-manifesto-explore-how-to-help-keep = Ontdek hoe u het web open kunt helpen houden
-manifesto-see-how-the-web-can-connect = Zie hoe het web de wereld met gezondheidszorg kan verbinden
-manifesto-explore-how-the-web-works = Ontdek hoe het web werkt
-manifesto-see-how-mozilla-works = Lees hoe { -brand-name-mozilla } zich inzet om uw privacy voorop te stellen
-manifesto-read-about-developments = Meer over ontwikkelingen in privacy en gegevensveiligheid
-manifesto-learn-more-about-how-to = Meer over hoe u zich online kunt beschermen
-manifesto-use-these-free-tools-to = Gebruik deze gratis hulpmiddelen om het web te onderwijzen
-manifesto-learn-about-creating-and = Lees meer over het maken en beheren van inhoud voor het web
-manifesto-add-new-voices-to-open = Voeg nieuwe stemmen toe aan opensourcetechnologie
-manifesto-set-your-do-not-track = Stel uw Niet volgen-voorkeur in
-manifesto-understand-the-web-ecosystem = Het web-ecosysteem begrijpen
-manifesto-explore-how-open-practices = Ontdek hoe open oefeningen het web toegankelijk houden
-manifesto-learn-how-to-remix-content = Leer hoe u inhoud ombouwt om iets nieuws van te maken
-manifesto-learn-how-to-maximize = Leer het interactieve potentieel van het web te maximaliseren
-manifesto-participate-in-our-governance = Neem deel aan ons bestuursforum
-manifesto-join-us-as-a-volunteer = Doe mee als vrijwilliger
-manifesto-learn-how-to-collaborate = Leer hoe u online kunt samenwerken
-manifesto-visualize-who-you-interact = Maak uw interactie op het web zichtbaar met { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Meer over het maken van webhulpbronnen met anderen
-manifesto-host-or-join-a-maker-party = Organiseer of woon een { -brand-name-maker-party } bij
-manifesto-learn-how-to-build-online = Leer hoe u online-samenwerkingsvaardigheden kunt opbouwen
 manifesto-read-the-entire-manifesto = Lees het gehele manifest
 manifesto-love-the-web = Gek op het web?
 manifesto-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en help het open en vrij te houden.

@@ -5,39 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# page title
-features-translate-translate-the-web-title = Vertaal het internet – rechtstreeks in uw browser
-# page description
-features-translate-translate-more-than = Vertaal uit meer dan 100 talen rechtstreeks in uw { -brand-name-firefox-browser } naar uw eigen taal – eenvoudiger dan ooit.
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Vertaal een webpagina met { -brand-name-firefox }
 features-translate-translate-the-web = Vertaal het internet met { -brand-name-firefox }
-# Shorter title used in subnav
-features-translate-translate-the-web-short = Het internet vertalen
-# Obsolete string
-features-translate-the-google-translate = De { -brand-name-google } Translate-extensie voor { -brand-name-firefox } maakt het internet toegankelijk voor de wereld.
-# $attrs (string) - link to https://www.mozilla.org/firefox/all/
-features-translate-the-internet-is = Het internet is vol met geweldige dingen, maar veel ervan is niet in het Engels geschreven – waardoor miljarden mensen op de wereld een vertaler nodig hebben om alleen het internet te gebruiken. U kunt <a { $attrs }>{ -brand-name-firefox } downloaden in meer dan 100 talen</a>, zodat uw browsermenu’s, notificaties en berichten in uw voorkeurstaal worden weergegeven, maar dat lost het probleem van al die geweldige inhoud die u met uw browser opzoekt niet op.
-features-translate-firefox-translations = { -brand-name-firefox-translations }
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-the-firefox-translations-extension-provides = De <a { $attrs }>{ -brand-name-firefox-translations }-extensie</a> kan automatisch inhoud van de webpagina’s die u bezoekt vertalen. In tegenstelling tot sommige op de cloud gebaseerde alternatieven, vertaalt deze extensie tekst lokaal in { -brand-name-firefox }, zodat de inhoud die u vertaalt uw apparaat niet verlaat.
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Download { -brand-name-firefox-translations }
-# "To Google Translate" is a brand name
-features-translate-to-google-translate = To { -brand-name-google } Translate
-# $attrs (string) - link to https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-google-translate-with = { -brand-name-google } Translate wordt, met meer dan 100 talen* beschikbaar, gebruikt door miljoenen mensen wereldwijd. Maar heen en weer springen tussen translate.google.com en de pagina die u probeert te lezen is geen ideale ervaring. De extensie <a { $attrs }>To { -brand-name-google } Translate</a> maakt het vertalen van de bezochte pagina eenvoudiger dan ooit.
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-# "To Google Translate" is a brand name
-features-translate-get-to-google-translate = Ga naar { -brand-name-google } Translate
-# Obsolete string
-features-translate-get-the-extension = De extensie downloaden
-features-translate-once-installed-simply = Markeer na installatie eenvoudigweg de tekst die u wilt vertalen en klik met de rechtermuisknop om een menu te zien met twee opties: 1) brengt u naar translate.google.com, waar uw geselecteerde tekst automatisch in het vertaalveld is ingevoerd; of 2) luisteren naar de gesproken zin (mogelijk gemaakt door { -brand-name-google } Text-to-Speech), dat nuttig is als u een nieuwe taal probeert te leren.
-features-translate-switch-languages-in = Van taal wisselen in { -brand-name-firefox }
-# $attrs (string) - link to https://support.mozilla.org/kb/use-firefox-another-language
-features-translate-if-you-are = Als u { -brand-name-firefox } al gebruikt, dan kunt u de taal van de browser wijzigen of talen toevoegen aan de interface van { -brand-name-firefox }. <a { $attrs }>Lees hier hoe.</a>
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-with-the-to = *Met de extensie To { -brand-name-google } Translate kunt u momenteel <a { $attrs }>deze talen</a> vertalen:
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> en meer!</a>
-features-translate-for-everyone-v2 = { -brand-name-firefox } is voor iedereen
-# Outdated string
-features-translate-for-everyone = Firefox is voor iedereen
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Translations is een ingebouwde vertaalfunctie, waarmee u eenvoudig op het web kunt bladeren in de taal van uw voorkeur. Lees meer over hoe deze functie in { -brand-name-firefox } werkt, en hoe { -brand-name-mozilla } helpt wat u vertaalt privé te houden.
+features-translate-one-of-the-best-things-about = Een van de beste dingen van het internet is dat we wereldwijd toegang hebben tot inhoud. Of het nu nieuwsartikelen, blogs of zelfs een beoordeling van uw nieuwste technische apparaat zijn, u kunt het allemaal vinden op het schijnbaar eindeloze web. Met de nieuwste vertaalfunctie van { -brand-name-firefox } zal dit hulpmiddel continu een webpagina in realtime vertalen.
+features-translate-while-other-browsers-rely-on = Terwijl andere browsers afhankelijk zijn van cloudservices, worden de taalmodellen van { -brand-name-firefox } Translations gedownload in de browser van de gebruiker en worden vertalingen lokaal uitgevoerd, dus { -brand-name-mozilla } registreert niet welke webpagina’s u vertaalt.
+features-translate-when-you-translate-a-webpage = Wanneer u een webpagina vertaalt, blijft deze privé
+features-translate-when-your-translations-are = Wanneer uw vertalingen lokaal worden verwerkt, verlaten geen gegevens van het door u gekozen apparaat uw apparaat of zijn ze voor vertaling afhankelijk van cloudservices. Dit betekent dat { -brand-name-mozilla } niet weet welke webpagina u vertaalt, en zorgt ervoor dat onze vertaalfunctie opvalt in vergelijking met andere vertaalhulpmiddelen.
+features-translate-what-languages-are-currently = Welke talen worden momenteel ondersteund?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what = De onderstaande talen worden momenteel ondersteund door de functie { -brand-name-firefox } Translations:
+features-translate-and-more-languages-are-in = En er zijn nog meer talen in ontwikkeling!
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } spreekt uw taal
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature = De functie { -brand-name-firefox } Translations is een andere manier waarop { -brand-name-mozilla } uw internet gepersonaliseerd en meer privé houdt. { -brand-name-mozilla } houdt niet bij welke webpagina’s u vertaalt. Met miljoenen gebruikers wereldwijd wil { -brand-name-mozilla } ervoor zorgen dat degenen die { -brand-name-firefox } gebruiken, onder hun eigen voorwaarden leren, communiceren, delen en geïnformeerd blijven. <a { $download }>Begin in de taal van uw voorkeur door { -brand-name-firefox } te downloaden.</a>
