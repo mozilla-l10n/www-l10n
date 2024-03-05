@@ -60,6 +60,8 @@ manifesto-i-support-the-vision-of = 私は @mozilla のより健全で優れた�
 # Obsolete string
 manifesto-share-on-twitter = { -brand-name-twitter } にシェア
 
+manifesto-share-on-x = X でシェア
+manifesto-share-on-x-aria-label = X (旧 Twitter) でシェア
 manifesto-our-10-principles = <strong>Mozilla の 10 </strong>原則
 manifesto-read-the-entire-manifesto = マニフェストを読む
 manifesto-love-the-web = ウェブが好きですか？
