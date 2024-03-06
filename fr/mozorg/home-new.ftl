@@ -16,6 +16,7 @@ home-the-health-of = « La bonne santé d’Internet et de la vie en ligne est 
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, PDG de { -brand-name-mozilla }
 
+home-mitchell-baker-v2 = Mitchell Baker, Président du Conseil d’administration, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } conçoit des produits qui respectent la vie privée
 home-product-firefox-browsing = Navigation privée et sécurisée
@@ -26,6 +27,8 @@ home-product-relay-masks = Des alias de messagerie et de numéro de téléphone 
 home-cta-get-relay = Installer { -brand-name-relay }
 home-product-vpn-trust = Un VPN de confiance
 home-cta-get-vpn = Installer { -brand-name-mozilla-vpn }
+home-product-monitor-data = Alertes sur les fuites de données
+home-cta-get-monitor = Installer { -brand-name-monitor }
 
 home-mozilla-takes-bets = « { -brand-name-mozilla } parie sur le fait de montrer au monde qu’il est possible de concevoir et de commercialiser une IA digne de confiance. Ce concept nécessite de placer les droits humains, la protection des données et la transparence au cœur du fonctionnement de ces systèmes complexes. »
 
