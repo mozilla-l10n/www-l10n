@@ -53,6 +53,10 @@ vpn-download-faq-concealing-ip = En masquant votre véritable <a href="{ $ip }">
 vpn-download-faq-encrypting = En chiffrant votre trafic Internet afin que personne ne puisse espionner votre activité.
 vpn-download-faq-working = Comment savoir que le VPN fonctionne ?
 
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } affiche des indicateurs visuels de son statut actuel, à la fois dans la barre d’outils et sur l’écran d’accueil de l’application. Il est ainsi très simple de savoir si votre activité en ligne est protégée ou non. Ces indicateurs vous permettent de vous assurer que votre navigation est privée et sécurisée. De plus, quand vous êtes en ligne, vous pouvez visiter la page <a href="{ $monitor }">https://monitor.mozilla.org/</a> pour vérifier que votre adresse IP est masquée. Pour plus d’informations, consultez la section <a href="{ $connected }">Comment savoir si { -brand-name-mozilla-vpn } est connecté</a>.
 
 # Obsolete string
 # Variables:
