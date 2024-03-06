@@ -58,6 +58,16 @@ download-a-different-build = Télécharger un build différent
 
 ## Linux
 
+# Obsolete string
+download-button-linux-32 = Télécharger { -brand-name-linux } 32 bits
 
+# Obsolete string
+download-button-linux-64 = Télécharger { -brand-name-linux } 64 bits
 
+download-button-linux-32-v2 = Télécharger pour Linux 32 bits
+download-button-linux-64-v2 = Télécharger pour Linux 64 bits
 
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Vous utilisez Debian, Ubuntu ou une distribution dérivée de Debian ?<br> Vous pouvez installer notre <a { $attrs }>dépôt APT</a>.
