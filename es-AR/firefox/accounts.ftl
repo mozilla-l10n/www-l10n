@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Conseguí una { -brand-name-mozilla-account } y mantené tus datos privados, seguros y sincronizados
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Conseguí una { -brand-name-firefox-account } y mantené tus datos privados, seguros y sincronizados
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Sincronizá tus contraseñas, marcadores y pestañas de manera segura en todos tus dispositivos. Obtené una { -brand-name-firefox-account }. Un único inicio de sesión. Poder y privacidad en todas partes.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sincroniza de forma segura tus contraseñas, marcadores y pestañas en todos tus dispositivos. Obtené una { -brand-name-mozilla-account } ahora. Un único inicio de sesión. Poder y privacidad en todas partes.
 firefox-accounts-enter-your-email-address = Ingresá tu dirección de correo electrónico para empezar.
 firefox-accounts-already-have-an-account = ¿Ya tenés una cuenta?
 firefox-accounts-sign-in = Iniciar sesión
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Iniciar sesión
 firefox-accounts-already = Ya tenés una { -brand-name-firefox-account }. ¡Felicitaciones!
 mozilla-accounts-already = Ya tenés una { -brand-name-mozilla-account }. ¡Felicitaciones!
 firefox-accounts-manage = Administrar tu cuenta
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Iniciar sesión en tu { -brand-name-mozilla-account } para:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Enviar una pestaña</a> a un d
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Guardar y sincronizar contraseñas</a>
 firefox-accounts-get-email-alerts = Recibí alertas por correo electrónico cuando tu información aparezca en una filtración de datos conocida
-# Obsolete string
-firefox-accounts-see-if-youve-been = Fijate si estuviste involucrado en una filtración de datos en línea.
 firefox-accounts-protect-your-identity = Protegé tu identidad con un número telefónico seguro y enmascaramiento de correo electrónico
 firefox-accounts-keep-your-passwords = Mantené tus contraseñas protegidas y portables.
 firefox-accounts-get-a-lookout-for = Conseguí un estado de alerta para las filtraciones de datos.
