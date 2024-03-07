@@ -53,6 +53,10 @@ vpn-download-faq-concealing-ip = Menyembunyikan <a href="{ $ip }">alamat IP</a> 
 vpn-download-faq-encrypting = Mengenkripsi trafik internet anda: agar tiada sesiapa boleh merisik aktiviti atas talian anda.
 vpn-download-faq-working = Bagaimana hendak saya pastikan VPN ini berfungsi?
 
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } memaparkan petunjuk status terkini di toolbar dan laman utama aplikasi ini, menjadikannya mudah untuk memastikan adakah aktiviti atas talian anda dilindungi atau sebaliknya. Petunjuk ini membenarkan anda mengesahkan pelayaran anda di internet kekal peribadi dan dilindungi. Tambahan lagi, anda boleh melayari <a href="{ $monitor }">https://monitor.mozilla.org/</a> untuk mengesahkan adakah alamat IP anda dilindungi. Untuk butiran lanjut, lihat <a href="{ $connected }">Bagaimana untuk saya tahu jika { -brand-name-mozilla-vpn } ini berfungsi?</a>
 
 # Obsolete string
 # Variables:
