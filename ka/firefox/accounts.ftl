@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = შექმენით { -brand-name-mozilla-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
 # Obsolete string
 firefox-accounts-get-a-firefox-account = შექმენით { -brand-name-firefox-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-firefox-account } ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
+# HTML page description
+mozilla-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-mozilla-account } ახლავე – ერთი შესვლა – ძალა და პირადულობა ყველგან.
 firefox-accounts-enter-your-email-address = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 firefox-accounts-already-have-an-account = უკვე გაქვთ ანგარიში?
 firefox-accounts-sign-in = შესვლა
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = შესვლა
 firefox-accounts-already = თქვენ უკვე გაქვთ { -brand-name-firefox-account }. გილოცავთ!
 mozilla-accounts-already = თქვენ უკვე გაქვთ { -brand-name-mozilla-account }. გილოცავთ!
 firefox-accounts-manage = მართეთ თქვენი ანგარიში
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = შედით თქვენს { -brand-name-mozilla-account(case: "ine") }:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">გაგზავნეთ �
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">შეინახეთ და დაასინქრონეთ პაროლები</a>
 firefox-accounts-get-email-alerts = მიიღეთ ცნობები ელფოსტაზე, როცა თქვენი ანგარიში მიტაცებულ მონაცემებში აღმოჩნდება
-# Obsolete string
-firefox-accounts-see-if-youve-been = გაარკვიეთ, თქვენი ანგარიშიც არის თუ არა, მიტაცებულ მონაცემებში.
 firefox-accounts-protect-your-identity = დაფარეთ თქვენი ვინაობა ტელეფონისა და ელფოსტის უსაფრთხოდ შენიღბვით
 firefox-accounts-keep-your-passwords = უზრუნველყავით თქვენი პაროლების უსაფრთხოება და მარტივი ხელმისაწვდომობა.
 firefox-accounts-get-a-lookout-for = თვალი ადევნეთ მონაცემების მიტაცების შემთხვევებს.
