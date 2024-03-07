@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = 注册 { -brand-name-firefox-account } 
 # Obsolete string
 firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密码、书签与标签页。注册 { -brand-name-firefox-account } — 一次登录，强大威力与隐私保护随身相伴。
 # HTML page description
-mozilla-accounts-securely-sync-your = 在您的所有设备间安全地同步您的密码、书签与标签页。立即注册 { -brand-name-mozilla-account } — 一次登录强大威力与隐私保护随身相伴。
+mozilla-accounts-securely-sync-your = 跨设备安全同步密码、书签、标签页。立即注册 { -brand-name-mozilla-account }，一个账户就能让强大功能与隐私保护随身相伴。
 firefox-accounts-enter-your-email-address = 请输入您的邮箱地址，开始改变。
 firefox-accounts-already-have-an-account = 已经注册过了吗？
 firefox-accounts-sign-in = 登录

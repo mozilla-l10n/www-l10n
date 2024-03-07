@@ -27,7 +27,7 @@ set-as-default-thanks-join-firefox = 加入 { -brand-name-firefox } 的行列
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 创建一个免费账户，即可在您的所有设备间同步密码、浏览历史和首选项。
 set-as-default-create-an-account = 创建账户
-set-as-default-thanks-sign-up-for-a-free-account-v2 = 创建一个免费的 { -brand-name-mozilla-account }即可在您的设备间同步您的密码、浏览历史和首选项。
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 注册免费的 { -brand-name-mozilla-account }，即可跨设备同步密码、浏览历史、首选项。
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = 创建账户
 set-as-default-thanks-having-trouble = 遇到问题？
