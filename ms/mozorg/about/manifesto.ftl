@@ -60,6 +60,8 @@ manifesto-i-support-the-vision-of = Saya menyokong visi internet yang lebih baik
 # Obsolete string
 manifesto-share-on-twitter = Kongsikan di { -brand-name-twitter }
 
+manifesto-share-on-x = Kongsi di X
+manifesto-share-on-x-aria-label = Kongsi di X (dahulunya Twitter)
 manifesto-our-10-principles = <strong>10</strong> Prinsip Kami
 manifesto-read-the-entire-manifesto = Baca keseluruhan manifesto
 manifesto-love-the-web = Gemarkan internet?
