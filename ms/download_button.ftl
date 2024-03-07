@@ -58,6 +58,16 @@ download-a-different-build = Muat turun versi yang lain
 
 ## Linux
 
+# Obsolete string
+download-button-linux-32 = Muat turun { -brand-name-linux } 32-bit
 
+# Obsolete string
+download-button-linux-64 = Muat turun { -brand-name-linux } 64-bit
 
+download-button-linux-32-v2 = Muat turun untuk Linux 32-bit
+download-button-linux-64-v2 = Muat turun untuk Linux 64-bit
 
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Menggunakan Debian, Ubuntu atau sebarang pengedaran berasaskan Debian?<br> Sebaliknya anda boleh menetapkan <a { $attrs }>repositori APT</a> kami.
