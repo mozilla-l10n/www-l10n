@@ -10,8 +10,9 @@ mozilla-accounts-get-a-mozilla-account = Dapatkan { -brand-name-mozilla-account 
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Dapatkan { -brand-name-firefox-account } – Pastikan data anda sulit, selamat dan diselaraskan
 
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Selaraskan kata laluan, tandabuku dan tab pada kesemua peranti anda dengan selamat. Dapatkan { -brand-name-firefox-account } sekarang – Satu log masuk – Kuasa dan privasi di mana jua.
+
 
 firefox-accounts-enter-your-email-address = Masukkan alamat e-mel anda untuk bermula.
 firefox-accounts-already-have-an-account = Sudah ada akaun?
@@ -22,6 +23,7 @@ firefox-accounts-already = Anda sudah mempunyai { -brand-name-firefox-account }.
 
 mozilla-accounts-already = Anda sudah mempunyai { -brand-name-mozilla-account }. Tahniah!
 firefox-accounts-manage = Uruskan akaun anda
+
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Log masuk ke { -brand-name-mozilla-account } anda untuk:

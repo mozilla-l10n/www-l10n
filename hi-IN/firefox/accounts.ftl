@@ -10,8 +10,9 @@ mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } पा�
 # Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } पाएँ – अपने डेटा को निजी, सुरक्षित और सिंक रखें
 
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = अपने पासवर्ड, बुकमार्क और टैब को अपने सभी डिवाइसों में सुरक्षित ढंग से सिंक करें। { -brand-name-firefox-account } पाएँ – एक लॉग इन – सभी को निजता और सुरक्षा का अधिकार।
+
 
 firefox-accounts-enter-your-email-address = शुरू करने के लिए अपना ईमेल एड्रेस दर्ज करें।
 firefox-accounts-already-have-an-account = पहले से ही अकाउंट है?
@@ -22,6 +23,7 @@ firefox-accounts-already = आपके पास पहले से { -brand-n
 
 mozilla-accounts-already = आपके पास पहले से { -brand-name-mozilla-account } है। बधाई!
 firefox-accounts-manage = अपना अकाउंट प्रबंधित करें
+
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = अपने { -brand-name-mozilla-account } में साइन इन करें ताकि आप:
