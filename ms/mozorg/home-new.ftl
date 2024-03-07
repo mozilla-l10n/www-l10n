@@ -16,6 +16,7 @@ home-the-health-of = "Keselamatan internet dan kehidupan dalam talian adalah seb
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
 
+home-mitchell-baker-v2 = Mitchell Baker, Pengerusi Eksekutif Lembaga, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } membangunkan produk yang menghormati privasi penggunanya
 home-product-firefox-browsing = Pelayaran yang privasi & selamat
@@ -26,6 +27,8 @@ home-product-relay-masks = Samaran e-mel & telefon yang mesra pengguna
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang anda boleh percayai
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
+home-product-monitor-data = Amaran pencerobohan data
+home-cta-get-monitor = Dapatkan { -brand-name-monitor }
 
 home-mozilla-takes-bets = "{ -brand-name-mozilla } bersungguh-sungguh demi membuktikan kepada dunia bahawa perniagaan tetap boleh berjalan lancar dengan menggunakan AI yang boleh dipercayai. Ini termasuklah meletakkan hak asasi manusia, perlindungan data serta ketelusan sebagai batu asas di dalam pembangunan sistem yang kompleks."
 
