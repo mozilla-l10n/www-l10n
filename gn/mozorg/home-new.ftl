@@ -11,6 +11,7 @@ home-mission-driven = Omopu’ãva tembipota. Omopu’ãva avakuéra.
 home-were-not-normal = Ore ndaha’éi mba’apohaguasu tembiporupyahuguareíva. Umi romoheñóiva omotenonde tapichápe ha hekoñemi viruñeganagua. Roime rojapo hag̃ua Ñandutígui tenda hesãiva ha jevy’aha opavavépe g̃uarã.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Ñanduti resãi ha ñeikundaha porã ha’e ore rekovesã.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } moakãhára
 home-mozilla-makes-privacy = { -brand-name-mozilla } omoheñói apopyre omomba’éva tekoñemi
 home-product-firefox-browsing = Ñeikundaha iñemi ha hekorosãva
@@ -21,6 +22,8 @@ home-product-relay-masks = Pumbyry ha ñanduti veve rovamo’ãha hasy’ỹva i
 home-cta-get-relay = Erekóke { -brand-name-relay }
 home-product-vpn-trust = VPN ejeroviakuaaha
 home-cta-get-vpn = Erekóke { -brand-name-mozilla-vpn }
+home-product-monitor-data = Mongyhyje mba’ekuaarã ñembogua rehe
+home-cta-get-monitor = Ereko { -brand-name-monitor }
 # Politico is a brand name for a news organization
 home-politico-cite = Político
 home-is-mozilla-a-corporation = { -brand-name-mozilla } ha’épa mba’apoha térã tendaguasu oku’eva viru’ỹre. Peichaite, mokõivéva.

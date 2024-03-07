@@ -49,3 +49,10 @@ download-firefox-esr = Emboguejy { -brand-name-firefox-esr }
 download-firefox-esr-32 = Emboguejy { -brand-name-firefox-esr } 32-bits
 download-firefox-esr-64 = Emboguejy { -brand-name-firefox-esr } 64-bits
 download-a-different-build = Emboguejy itujavevaichagua
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Emboguejy { -brand-name-linux } 32-bit
+# Obsolete string
+download-button-linux-64 = Emboguejy { -brand-name-linux } 64-bit
