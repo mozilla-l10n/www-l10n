@@ -56,3 +56,5 @@ download-a-different-build = Emboguejy itujavevaichagua
 download-button-linux-32 = Emboguejy { -brand-name-linux } 32-bit
 # Obsolete string
 download-button-linux-64 = Emboguejy { -brand-name-linux } 64-bit
+download-button-linux-32-v2 = Emboguejy Linux-pe g̃uarã 32-bit
+download-button-linux-64-v2 = Emboguejy Linux-pe g̃uarã 64-bit
