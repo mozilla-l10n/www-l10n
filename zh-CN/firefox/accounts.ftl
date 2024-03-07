@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = 注册 { -brand-name-mozilla-account }，保持数据私密安全、时刻同步。
 # Obsolete string
 firefox-accounts-get-a-firefox-account = 注册 { -brand-name-firefox-account } - 确保数据隐私、安全、同步
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = 安全地在不同设备间同步您的密码、书签与标签页。注册 { -brand-name-firefox-account } — 一次登录，强大威力与隐私保护随身相伴。
+# HTML page description
+mozilla-accounts-securely-sync-your = 在您的所有设备间安全地同步您的密码、书签与标签页。立即注册 { -brand-name-mozilla-account } — 一次登录强大威力与隐私保护随身相伴。
 firefox-accounts-enter-your-email-address = 请输入您的邮箱地址，开始改变。
 firefox-accounts-already-have-an-account = 已经注册过了吗？
 firefox-accounts-sign-in = 登录
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = 登录
 firefox-accounts-already = 太好了！您已拥有 { -brand-name-firefox-account }。
 mozilla-accounts-already = 太好了！您已拥有 { -brand-name-mozilla-account }。
 firefox-accounts-manage = 管理账户
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = 将 { -brand-name-mozilla-account }用于
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = 将标签页<a href="{ $send }">发送到其他设
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">保存和同步密码</a>
 firefox-accounts-get-email-alerts = 在您的信息出现在已知外泄事件中时获得邮件警报
-# Obsolete string
-firefox-accounts-see-if-youve-been = 看看您是否受数据外泄事件的影响。
 firefox-accounts-protect-your-identity = 使用虚拟手机号和马甲邮箱，保护您的身份信息
 firefox-accounts-keep-your-passwords = 小巧便携、固若金汤的密码保险箱。
 firefox-accounts-get-a-lookout-for = 帮你关心数据泄漏事故。

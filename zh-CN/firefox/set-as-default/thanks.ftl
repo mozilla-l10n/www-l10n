@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = 一切就绪。
 set-as-default-thanks-get-firefox-for-mobile = 下载 { -brand-name-firefox } 移动版
 set-as-default-thanks-travel-the-internet-with = 守护你的网上冲浪，随身相伴。
 set-as-default-thanks-download-the-app = 下载 App
+# Obsolete string
 set-as-default-thanks-join-firefox = 加入 { -brand-name-firefox } 的行列
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 创建一个免费账户，即可在您的所有设备间同步密码、浏览历史和首选项。
+set-as-default-create-an-account = 创建账户
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 创建一个免费的 { -brand-name-mozilla-account }即可在您的设备间同步您的密码、浏览历史和首选项。
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = 创建账户
 set-as-default-thanks-having-trouble = 遇到问题？
