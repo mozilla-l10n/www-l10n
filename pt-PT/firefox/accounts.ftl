@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Obtenha uma { -brand-name-mozilla-account } – mantenha os seus dados privados, seguros e sincronizados
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Obtenha uma { -brand-name-firefox-account } – Mantenha os seus dados privados, seguros e sincronizados
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Sincronize as suas palavras-passe, marcadores e separadores em todos os seus dispositivos com segurança. Obtenha agora uma { -brand-name-firefox-account } – Uma conta – poder e privacidade em todo o lado.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sincronize com segurança as suas palavras-passe, marcadores e separadores em todos os seus dispositivos. Obtenha agora uma { -brand-name-mozilla-account } – Uma conta – poder e privacidade em todo o lado.
 firefox-accounts-enter-your-email-address = Introduza o seu endereço de email para começar.
 firefox-accounts-already-have-an-account = Já tem uma conta?
 firefox-accounts-sign-in = Iniciar sessão
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Iniciar sessão
 firefox-accounts-already = Já tem uma { -brand-name-firefox-account }. Parabéns!
 mozilla-accounts-already = Já tem uma { -brand-name-mozilla-account }. Parabéns!
 firefox-accounts-manage = Gerir a sua conta
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Iniciar sessão na sua { -brand-name-mozilla-account } para:
 # Obsolete string
