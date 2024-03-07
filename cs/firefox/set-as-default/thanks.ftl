@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = Vše máte nastaveno.
 set-as-default-thanks-get-firefox-for-mobile = Získat { -brand-name-firefox(case: "acc") } pro mobily
 set-as-default-thanks-travel-the-internet-with = Prohlížejte internet bezpečně na každém svém zařízení.
 set-as-default-thanks-download-the-app = Stáhnout aplikaci
+# Obsolete string
 set-as-default-thanks-join-firefox = Přihlaste se k { -brand-name-firefox(case: "dat") }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Vytvořte si účet zdarma a synchronizujte všechna svá hesla, historii vyhledávání a nastavení na všech svých zařízeních.
+set-as-default-create-an-account = Vytvořit účet
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Zaregistrujte si bezplatný { -brand-name-mozilla-account } a synchronizujte všechna svá hesla, historii prohlížení a nastavení napříč svými zařízeními.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Vytvořit účet
 set-as-default-thanks-having-trouble = Máte potíže?
