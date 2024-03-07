@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Szerezzen egy { -brand-name-mozilla-account }ot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Szerezzen egy { -brand-name-firefox-account }ot – Tartsa az adatait bizalmasan, biztonságban és szinkronban
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Szinkronizálja biztonságosan a jelszavait, könyvjelzőit és lapjait az összes eszközén. Szerezzen egy { -brand-name-firefox-account }ot most – Egy bejelentkezés – Teljesítmény és adatvédelem mindenhol.
+# HTML page description
+mozilla-accounts-securely-sync-your = Szinkronizálja biztonságosan a jelszavait, könyvjelzőit és lapjait az összes eszközén. Szerezzen egy { -brand-name-mozilla-account }ot most – Egy bejelentkezés – Teljesítmény és adatvédelem mindenhol.
 firefox-accounts-enter-your-email-address = A kezdéshez adja meg az e-mail-címét.
 firefox-accounts-already-have-an-account = Van felhasználói fiókja?
 firefox-accounts-sign-in = Jelentkezzen be
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Jelentkezzen be
 firefox-accounts-already = Már van { -brand-name-firefox-account }ja. Gratulálunk!
 mozilla-accounts-already = Már van { -brand-name-mozilla-account }ja. Gratulálunk!
 firefox-accounts-manage = Saját fiók kezelése
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Jelentkezzen be a { -brand-name-mozilla-account }jába a következőkhöz:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Lap küldése</a> egy másik e
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Jelszavak mentése és szinkronizálása</a>
 firefox-accounts-get-email-alerts = E-mail értesítések, ha adatai ismert adatvédelmi incidensben érintettek
-# Obsolete string
-firefox-accounts-see-if-youve-been = Nézze meg, hogy szerepelt-e online adatvédelmi incidensben.
 firefox-accounts-protect-your-identity = Védje személyazonosságát a biztonságos telefon- és e-mail-maszkolással
 firefox-accounts-keep-your-passwords = Tartsa védve a jelszavait, és vigye el azokat bárhova.
 firefox-accounts-get-a-lookout-for = Legyen résen az adatvédelmi incidensek miatt.
