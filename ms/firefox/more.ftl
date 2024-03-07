@@ -41,10 +41,12 @@ we-worry-about = Biar kami saja yang bimbang tentang keselamatan data anda, anda
 # Obsolete string
 seven-of-the = Tujuh pelayar terbaik dalam bandingan langsung
 
+six-of-the-best = Enam pelayar terbaik dalam bandingan langsung
 
 # Obsolete string
 we-compare-firefox = Kami membandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } dan { -brand-name-ie } untuk membantu anda membuat keputusan.
 
+we-compare-firefox-v2 = Kami bandingkan { -brand-name-firefox } dengan Chrome, Edge, Safari, Opera dan Brave untuk membantu anda membuat keputusan.
 comparing-firefox-chrome = Perbandingan { -brand-name-firefox-browser } dengan { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Besar tidak semestinya bagus. Sebaliknya, pilih kebebasan.
 comparing-firefox-brave = Perbandingan { -brand-name-firefox-browser } dengan { -brand-name-brave }
