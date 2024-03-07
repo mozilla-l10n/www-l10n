@@ -27,8 +27,13 @@ set-as-default-thanks-youre-all-set = 準備完了です。
 set-as-default-thanks-get-firefox-for-mobile = モバイル用 { -brand-name-firefox } をご利用ください。
 set-as-default-thanks-travel-the-internet-with = あらゆるデバイスで、安全にインターネットを旅しましょう。
 set-as-default-thanks-download-the-app = アプリをダウンロード
+
+# Obsolete string
 set-as-default-thanks-join-firefox = { -brand-name-firefox } に参加
+
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 無料アカウントにサインアップしてパスワードや閲覧履歴、設定をすべてのデバイスで同期。
+
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = アカウント作成

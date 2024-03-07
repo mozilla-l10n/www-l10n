@@ -27,8 +27,13 @@ set-as-default-thanks-youre-all-set = Semuanya sudah sedia.
 set-as-default-thanks-get-firefox-for-mobile = Dapatkan { -brand-name-firefox } untuk peranti mudah alih
 set-as-default-thanks-travel-the-internet-with = Mengembara ke seluruh pelosok internet dengan semua peranti anda dilindungi.
 set-as-default-thanks-download-the-app = Muat turun aplikasi
+
+# Obsolete string
 set-as-default-thanks-join-firefox = Sertai { -brand-name-firefox }
+
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Daftar untuk akaun percuma dan selaraskan semua kata laluan anda, sejarah pelayaran dan pilihan pada semua peranti anda.
+
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Dapatkan Akaun

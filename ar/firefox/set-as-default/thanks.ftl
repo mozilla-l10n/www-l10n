@@ -27,8 +27,13 @@ set-as-default-thanks-youre-all-set = أنت الآن على أتم استعدا
 set-as-default-thanks-get-firefox-for-mobile = نزّل { -brand-name-firefox } للجوال
 set-as-default-thanks-travel-the-internet-with = أبحر في غمار الإنترنت بفضل الحماية على جميع أجهزتك.
 set-as-default-thanks-download-the-app = نزِّل التطبيق
+
+# Obsolete string
 set-as-default-thanks-join-firefox = انضم إلى { -brand-name-firefox }
+
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = سجّل حسابًا مجانيًا وزامِن معه كلمات السر وتأريخ التصفّح وتفضيلاتك عبر مختلف الأجهزة.
+
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = سجّل حسابًا

@@ -27,8 +27,13 @@ set-as-default-thanks-youre-all-set = हो गया।
 set-as-default-thanks-get-firefox-for-mobile = मोबाइल के लिए { -brand-name-firefox } पाएँ
 set-as-default-thanks-travel-the-internet-with = हर डिवाइस पर, सुरक्षा के साथ इंटरनेट की यात्रा करें।
 set-as-default-thanks-download-the-app = ऐप डाउनलोड करें
+
+# Obsolete string
 set-as-default-thanks-join-firefox = { -brand-name-firefox } से जुड़ें
+
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = एक निःशुल्क एकाउंट के लिए साइन अप करें और अपनी सभी डिवाइस पर पासवर्ड, ब्राउज़िंग इतिहास और वरीयताएँ सिंक करें।
+
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = एक एकाउंट बनाएँ

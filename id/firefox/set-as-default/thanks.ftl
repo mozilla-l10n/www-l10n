@@ -27,8 +27,13 @@ set-as-default-thanks-youre-all-set = Anda sudah siap.
 set-as-default-thanks-get-firefox-for-mobile = Dapatkan { -brand-name-firefox } untuk seluler
 set-as-default-thanks-travel-the-internet-with = Jelajahi internet dengan perlindungan di semua perangkat Anda.
 set-as-default-thanks-download-the-app = Unduh aplikasi
+
+# Obsolete string
 set-as-default-thanks-join-firefox = Bergabunglah dengan { -brand-name-firefox }
+
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Daftar untuk mendapatkan akun gratis dan sinkronkan semua kata sandi, riwayat penjelajahan, dan preferensi di semua perangkat Anda.
+
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Dapatkan Akun
