@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = Tutto pronto.
 set-as-default-thanks-get-firefox-for-mobile = Installa { -brand-name-firefox } per dispositivi mobili
 set-as-default-thanks-travel-the-internet-with = Naviga in Internet protetto su tutti i tuoi dispositivi.
 set-as-default-thanks-download-the-app = Scarica l’app
+# Obsolete string
 set-as-default-thanks-join-firefox = Entra in { -brand-name-firefox }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Registra gratuitamente un account unico per mantenere sincronizzate password, cronologia di navigazione e preferenze tra i tuoi dispositivi.
+set-as-default-create-an-account = Crea un account
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Registra gratuitamente un { -brand-name-mozilla-account } per mantenere sincronizzate password, cronologia di navigazione e preferenze tra i tuoi dispositivi.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Registra un account
 set-as-default-thanks-having-trouble = Problemi?

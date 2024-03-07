@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Registra un { -brand-name-mozilla-account }: mantieni i tuoi dati privati, sicuri e sincronizzati.
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Registra un { -brand-name-firefox-account }: mantieni i tuoi dati privati, sicuri e sincronizzati.
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Sincronizza in sicurezza password, segnalibri e schede su tutti i tuoi dispositivi. Registra subito un { -brand-name-firefox-account }: un unico accesso, libertà e privacy ovunque.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sincronizza in sicurezza password, segnalibri e schede su tutti i tuoi dispositivi. Registra subito un { -brand-name-mozilla-account }: un unico accesso, libertà e privacy ovunque.
 firefox-accounts-enter-your-email-address = Per iniziare inserisci il tuo indirizzo email.
 firefox-accounts-already-have-an-account = Hai già un account?
 firefox-accounts-sign-in = Accedi
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Accedi
 firefox-accounts-already = Hai già un { -brand-name-firefox-account }. Congratulazioni!
 mozilla-accounts-already = Hai già un { -brand-name-mozilla-account }. Congratulazioni!
 firefox-accounts-manage = Gestisci il tuo account
+mozilla-account-header = { -brand-name-mozilla-account(capitalization: "uppercase") }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Accedi al tuo { -brand-name-mozilla-account } per:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Inviare una scheda</a> a un al
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Salvare e sincronizzare le password</a>
 firefox-accounts-get-email-alerts = Ricevere una notifica via email quando i tuoi dati vengono coinvolti in una violazione di dati conosciuta
-# Obsolete string
-firefox-accounts-see-if-youve-been = Controlla se sei stato coinvolto in una violazione di dati online.
 firefox-accounts-protect-your-identity = Proteggere la tua identità con alias sicuri per numeri di telefono e posta elettronica
 firefox-accounts-keep-your-passwords = Mantieni le tue password al sicuro e portale sempre con te.
 firefox-accounts-get-a-lookout-for = Tieni sotto controllo le violazioni di dati.
