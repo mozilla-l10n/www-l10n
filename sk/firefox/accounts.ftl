@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } a majte svoje údaje v bezpečí a synchronizované
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } - majte svoje údaje v bezpečí a synchronizované
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
+# HTML page description
+mozilla-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 firefox-accounts-enter-your-email-address = Začnite zadaním svojej e‑mailovej adresy.
 firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Prihláste sa
 firefox-accounts-already = Už máte { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 mozilla-accounts-already = Už máte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 firefox-accounts-manage = Spravovať účet
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prihláste sa do svojho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Odošlite kartu</a> do iného 
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Ukladajte a synchronizujte heslá</a>
 firefox-accounts-get-email-alerts = Dostávajte e‑mailové upozornenia, keď sa vaše informácie objavia pri známom úniku údajov
-# Obsolete string
-firefox-accounts-see-if-youve-been = Pozrite sa, či ste sa stali súčasťou úniku dát.
 firefox-accounts-protect-your-identity = Chráňte svoju identitu pomocou bezpečného maskovania telefónu a e‑mailu
 firefox-accounts-keep-your-passwords = Majte svoje heslá chránené a vždy so sebou.
 firefox-accounts-get-a-lookout-for = Buďte informovaní o únikoch dát
