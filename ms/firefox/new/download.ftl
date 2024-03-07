@@ -36,6 +36,8 @@ firefox-new-your-firefox-new-should-begin = Muat turun anda akan bermula secara 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih daripada sekadar pelayar.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Muat turun anda terganggu. Tapi jangan bimbang.
+firefox-new-download-almost-there = Hampir tiba!
+firefox-new-download-select-linux = Pilih satu opsyen muat turun di bawah
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
