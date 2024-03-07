@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = 準備就緒。
 set-as-default-thanks-get-firefox-for-mobile = 下載 { -brand-name-firefox } 行動版
 set-as-default-thanks-travel-the-internet-with = 在每一台裝置上網都受到保護。
 set-as-default-thanks-download-the-app = 下載應用程式
+# Obsolete string
 set-as-default-thanks-join-firefox = 加入 { -brand-name-firefox }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 註冊一組免費帳號，即可在您的所有裝置間同步密碼、上網紀錄、偏好設定。
+set-as-default-create-an-account = 註冊帳號
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 註冊免費的 { -brand-name-mozilla-account }即可在您的所有裝置間同步密碼、上網紀錄、偏好設定。
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = 註冊帳號
 set-as-default-thanks-having-trouble = 遇到麻煩了？
