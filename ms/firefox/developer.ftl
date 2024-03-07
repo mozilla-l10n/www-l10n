@@ -77,6 +77,7 @@ firefox-developer-congrats-you-now-have-firefox = Tahniah. Anda kini memiliki { 
 firefox-developer-this-isnt-just-an-update = Ini bukan sekadar kemas kini. Ini { -brand-name-firefox-quantum }: { -brand-name-firefox } baru yang telah dibina semula sepenuhnya untuk menjadi lebih pantas, lebih lancar dan lebih hebat daripada sebelumnya.
 firefox-developer-welcome-to-firefox-browser = Selamat datang ke { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
+firefox-developer-all-the-latest-v2 = Semua kelengkapan pembangun yang terkini dalam beta termasuklah ciri-ciri seperti Multi-line Console Editor dan WebSocket Inspector.
 
 # Obsolete string
 firefox-developer-all-the-latest = Kesemua alatan pembangun terkini dalam beta, termasuk <strong>ciri percubaan</strong> seperti Editor Konsol Multi-Baris dan Pemeriksa WebSocket.
