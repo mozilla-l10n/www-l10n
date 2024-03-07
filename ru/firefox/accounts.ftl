@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Создайте { -brand-name-mozilla-account } – Храните свои данные в безопасности и синхронизируйте их
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-account } – Храните свои данные в безопасности и синхронизируйте их
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Безопасно синхронизируйте свои пароли, закладки и вкладки между всеми своими устройствами. Создайте { -brand-name-firefox-account } сейчас – Один аккаунт – Мощь и приватность повсюду.
+# HTML page description
+mozilla-accounts-securely-sync-your = Надежно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account } сейчас – Один логин – Электропитание и приватность повсюду.
 firefox-accounts-enter-your-email-address = Введите адрес электронной почты, чтобы начать.
 firefox-accounts-already-have-an-account = Уже есть аккаунт?
 firefox-accounts-sign-in = Войти
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Войти
 firefox-accounts-already = У вас уже есть { -brand-name-firefox-account }. Поздравляем!
 mozilla-accounts-already = У вас уже есть { -brand-name-mozilla-account }. Поздравляем!
 firefox-accounts-manage = Управление вашим аккаунтом
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Войдите в свой { -brand-name-mozilla-account }, чтобы:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Отправлять вкла�
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Сохранять и синхронизировать пароли</a>
 firefox-accounts-get-email-alerts = Получать оповещения по электронной почте, когда ваша информация появляется в известной утечке данных
-# Obsolete string
-firefox-accounts-see-if-youve-been = Узнайте, не стали ли вы жертвой утечки данных.
 firefox-accounts-protect-your-identity = Защитите свою личность с помощью безопасного маскирования телефона и псевдонимов электронной почты
 firefox-accounts-keep-your-passwords = Держите свои пароли в безопасности и всегда при себе.
 firefox-accounts-get-a-lookout-for = Следите за утечками данных.
