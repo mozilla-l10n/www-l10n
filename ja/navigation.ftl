@@ -18,7 +18,10 @@ navigation-firefox-for-fire-tv = { -brand-name-fire-tv } 用 { -brand-name-firef
 navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-tv } で動画を視聴、インターネットを閲覧。
 navigation-firefox-browsers-put = { -brand-name-firefox } ブラウザーは、いつでもユーザーのプライバシーを第一に考えています。
 navigation-take-the-passwords-youve = { -brand-name-firefox } で保存したパスワードは、どこにでも持ち出せます。
+
+# Obsolete string
 navigation-join-firefox = { -brand-name-firefox } に参加
+
 navigation-access-all-of-firefox = ログイン 1 回で { -brand-name-firefox } すべてにアクセスでき、すべての製品をより活用できます。
 navigation-meet-the-firefox-family = { -brand-name-firefox } ファミリーのご紹介
 navigation-firefox-blog = { -brand-name-firefox } のブログ

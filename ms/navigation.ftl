@@ -18,7 +18,10 @@ navigation-firefox-for-fire-tv = { -brand-name-firefox } untuk { -brand-name-fir
 navigation-watch-videos-and-browse = Tonton video dan layari internet dengan { -brand-name-amazon } { -brand-name-fire-tv }.
 navigation-firefox-browsers-put = Pelayar { -brand-name-firefox } mengutamakan privasi anda — sentiasa.
 navigation-take-the-passwords-youve = Bawa kata laluan yang telah anda simpan dalam { -brand-name-firefox } ke mana sahaja.
+
+# Obsolete string
 navigation-join-firefox = Sertai { -brand-name-firefox }
+
 navigation-access-all-of-firefox = Akses semua { -brand-name-firefox } dengan log masuk tunggal — dan nikmati lebih banyak faedah jika log masuk.
 navigation-meet-the-firefox-family = Temui rangkaian produk { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }
