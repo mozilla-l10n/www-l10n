@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = Rydych chi nawr yn barod.
 set-as-default-thanks-get-firefox-for-mobile = { -brand-name-firefox } ar gyfer symudol
 set-as-default-thanks-travel-the-internet-with = Teithiwch y rhyngrwyd gyda diogelwch, ar eich holl ddyfeisiau.
 set-as-default-thanks-download-the-app = Llwytho'r ap i lawr
+# Obsolete string
 set-as-default-thanks-join-firefox = Ymunwch â { -brand-name-firefox }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Cofrestrwch i gael cyfrif am ddim a chydweddu'ch holl gyfrineiriau, hanes pori, a'ch dewisiadau ar draws eich dyfeisiau.
+set-as-default-create-an-account = Creu cyfrif
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Cofrestrwch i gael { -brand-name-mozilla-account } am ddim a chysonwch eich holl gyfrineiriau, hanes pori a dewisiadau ar draws eich dyfeisiau.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Creu Cyfrif
 set-as-default-thanks-having-trouble = Cael trafferth?

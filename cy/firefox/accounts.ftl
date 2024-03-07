@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Defnyddiwch gyfrif { -brand-name-mozilla-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
+# HTML page description
+mozilla-accounts-securely-sync-your = Cydamserwch eich cyfrineiriau, nodau tudalen a thabiau yn ddiogel ar draws eich holl ddyfeisiau. Sicrhewch { -brand-name-mozilla-account } nawr - Un mewngofnodi - Pwer a phreifatrwydd ym mhobman.
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?
 firefox-accounts-sign-in = Mewngofnodwch
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Mewngofnodwch
 firefox-accounts-already = Mae gennych chi gyfrif { -brand-name-firefox-account } yn barod. Llongyfarchiadau!
 mozilla-accounts-already = Mae gennych chi gyfrif { -brand-name-mozilla-account } yn barod. Llongyfarchiadau!
 firefox-accounts-manage = Rheoli eich cyfrif
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-mozilla-account } i:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Anfon tab</a> i ddyfais arall
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Cadw a chydweddu cyfrineiriau</a>
 firefox-accounts-get-email-alerts = Derbyn rhybuddion e-bost pan fydd eich manylion yn ymddangos mewn achos hysbys o dor-data
-# Obsolete string
-firefox-accounts-see-if-youve-been = Gweld os ydych chi wedi bod yn rhan o dor-data ar-lein.
 firefox-accounts-protect-your-identity = Diogelwch eich hunaniaeth trwy guddio rhif ffôn ac e-bost diogel
 firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu ac yn gludadwy.
 firefox-accounts-get-a-lookout-for = Cadw llygad allan am dor-data.
