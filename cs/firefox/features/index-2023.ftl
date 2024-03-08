@@ -37,7 +37,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } automatick
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Zbavte se vlezlých reklam, které vás neustále pronásledují, díky blokování vytváření otisku prohlížeče zabudovaného v prohlížeči { -brand-name-firefox }.
 features-index-translate-the-web = Překládání webových stránek
-features-index-translate-websites-to-your = Překládejte webové stránky do svého jazyka přímo v prohlížeči { -brand-name-firefox } – bez sdílení dat s nikým dalším.
+features-index-translate-websites-to-your = Překládejte webové stránky do svého jazyka přímo v prohlížeči { -brand-name-firefox } – bez sdílení dat s někým dalším.
 # Obsolete string
 features-index-translate-more-than = Překládejte z více než 100 jazyků do svého jazyka přímo v prohlížeči { -brand-name-firefox } - snadněji než kdykoli předtím.
 features-index-picture-in-picture = Obraz v obraze
