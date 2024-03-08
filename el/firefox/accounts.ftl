@@ -11,6 +11,8 @@ mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-na
 firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – Προστασία και συγχρονισμός δεδομένων
 # Obsolete string
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
+# HTML page description
+mozilla-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Διαθέτετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
