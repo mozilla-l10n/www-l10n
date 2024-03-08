@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
 firefox-desktop-download-os-availability = OS jeporukuaáva
 firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembiporu
 firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
-# Obsolete string
-firefox-desktop-love-your-life = Ejehayhúke eikundahávo
-# Obsolete string
-firefox-desktop-its-your-internet = Ne ñanduti. Embosa’y eipotaháicha hetaiterei tembiporu rupive, téma ha jepysokue. { -brand-name-firefox } ha’e kundahára mokõiha ypyguáva oguerekóva yvypórape viru jepota ári.
-# Obsolete string
-firefox-desktop-download-master-password = Ñe’ẽñemi peteĩháva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
 firefox-desktop-download-ads-are-distracting = Pe maranduñemurã nemyangekói ha omyanehẽ mbegueve ñanduti kuatiarogue, péicha umi tapykuehoha ohecha rejapóva ñandutíe. { -brand-name-firefox-browser } ojoko heta umi tapykuehoha ijehegui, péicha rupi natekotevẽi emoĩporã tekorosã.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
@@ -154,8 +148,6 @@ firefox-desktop-download-youve-already-got-the-browser = Eguerekóma kundahára.
 firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñanduti veve { -brand-name-firefox-relay } rupive ha hetave.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Ehecha tembiporupyahu mbyaiha { -brand-name-firefox-monitor } ndive, emo’ã ñe’ẽñemi { -brand-name-firefox-lockwise } ndive ha hetave.
 firefox-desktop-download-get-more-from-firefox = Eiporuvéke { -brand-name-firefox }
 firefox-desktop-download-just-download-the-browser = Emboguejy pe kundahára
 
@@ -168,13 +160,13 @@ firefox-desktop-download-now-else = Ko’ág̃a <strong>emohendapa</strong> { -b
 firefox-desktop-download-now-windows = Ko’ág̃a <strong>oiporu</strong> mohendaha emboguejyva’ekue.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> marandurenda emboguejyramóva.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Eiporavo jeporavorã <strong>mboguejy</strong> ko’ág̃a
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembiporu’i emohendaséva ndaha’éi tembiporu’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembiporu’i ñe’ẽporãhague</a>.
@@ -182,10 +174,6 @@ firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃u
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-xp } térã { -brand-name-vista }, hákatu eiporukuaa gueteri { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Eiporu apopyvusu hetekorosã ha hekopyahu’ỹva <a href="{ $url }">ndorekovéimava pytyvõ { -brand-name-firefox } guive</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

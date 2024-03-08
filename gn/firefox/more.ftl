@@ -11,10 +11,6 @@ learn-more-about = Eikuaave { -brand-name-firefox } kundahára rehegua ha apopyr
 learn-more-faq = { -brand-name-firefox } FAQ
 the-history-of = Ñanduti kundahára rembiasakue
 firefox-has-been = { -brand-name-firefox } oĩ nendive ñepyrũhaite guive.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Oñemoaña ojehekáre chupe
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } ijehegui ha oykekóva chupe { -brand-name-mozilla }, atyguasu reiguáva, oñorairõva nde derécho rehe ñandutípe ha ojapo ñandutígui opavavépe g̃uarã, opaite hendápe.
 what-is-a = ¿Mba’e Ñanduti kundahára?
 a-web-browser = Peteĩ kundahára ndereraha oimeraẽva ñanduti rendápe, ohechaukakuaáva moñe’ẽrã, ta’ãnga ha ta’ãngamýi arapy tuichakue javegua.
 update-your-browser = Embohekopyahu ne kundahára { -brand-name-firefox } ipya’e, hekorosã ha iñemo’ã hag̃ua.
@@ -41,7 +37,10 @@ firefox-for-linux = { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 new-school-meets = Mbokatupyha pyahu ojojuhu mbokatupyha ymaguare ndive kundahára ipya’evéva ndive.
 firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } 64-bit peg̃uarã
 we-worry-about = Rojepy’apy ne mba’ekuaarã rekorosãre ani hag̃ua nde ejepy’apy.
+# Obsolete string
 seven-of-the = Emoñondive umi pokõi kundahára iporãvéva
+six-of-the-best = Emoñondive umi 6 kundahára iporãvéva
+# Obsolete string
 we-compare-firefox = Romoñondive { -brand-name-firefox } { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ha { -brand-name-ie } ndive nepytyvõkuaa hag̃ua jeporavópe.
 comparing-firefox-chrome = Romoñondive { -brand-name-firefox-browser } { -brand-name-google } { -brand-name-chrome } ndive
 big-isnt-always = Tuicha haguére ndaha’éi iporãvégui. Eiporavo sãso hendaguépe.
@@ -61,10 +60,6 @@ firefox-more-protection = { -brand-name-firefox }: Ñemo’ãve. Sa’ivéma jep
 were-obsessed-with = Ore jepy’apy ha’e hína ne ñemigua ñemo’ãve. Upévare rojapo { -brand-name-firefox } kundahára ñemigua imbaretevéva opavavégui.
 incognito-browser-what = Kundahára jekuaa’ỹva: mba’épa he’isetéva
 firefox-calls-it = { -brand-name-firefox } ombohéra kundaha ñemigua, { -brand-name-chrome } ohenói ñemimby ayvu. Mokõivéva omoneĩ eikundahávo ñandutípe oñongatu’ỹre ne kundahára rembiasakue.
-# Obsolete string
-take-the-stress = Eñembyesarái kane’õgui ehekahápe kundahára hekorosãva.
-# Obsolete string
-building-a-safe = Kundahára hekorosãva jejapo ha’e tekoporã ha avei mba’ekuaa ndorekóire mbojojaha.
 firefox-more-fingerprinter-blocking = Ñemokuãhũ Jejoko
 firefox-more-fingerprinting-is-a = Ñemokuãhũ (fingerprinting) ñemoheñói ha’e peteĩ tapykuehoha ñandutípe imbaretéva tapykuehoha oĩvagui kookie-pe; upévare { -brand-name-firefox-browser } ojokóma.
 firefox-more-translate-the-web = Emoñe’ẽasa ñanduti
