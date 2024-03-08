@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Meitsje in { -brand-name-mozilla-account } oan – Hâld jo gegevens privee, feilich en syngroan
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan – Hâld jo gegevens privee, feilich en syngroan
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Syngronisearje jo wachtwurden, blêdwizers en ljepblêden feilich tusken al jo apparaten. Meitsje no in { -brand-name-firefox-account } oan – Ien oanmelding – Oeral krêft en privacy.
+# HTML page description
+mozilla-accounts-securely-sync-your = Syngronisearje jo wachtwurden, blêdwizers en ljepblêden feilich tusken al jo apparaten. Meitsje no in { -brand-name-mozilla-account } oan – Ien oanmelding – Oeral krêft en privacy.
 firefox-accounts-enter-your-email-address = Fier jo e-mailadres yn om te begjinnen.
 firefox-accounts-already-have-an-account = Hawwe jo al in account?
 firefox-accounts-sign-in = Oanmelde
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Oanmelde
 firefox-accounts-already = Jo hawwe al in { -brand-name-firefox-account }. Lokwinske!
 mozilla-accounts-already = Jo hawwe al in { -brand-name-mozilla-account }. Lokwinske!
 firefox-accounts-manage = Jo account beheare
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Meld jo oan by jo { -brand-name-mozilla-account } om:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">In ljepblêd te ferstjoeren</a
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Wachtwurden te bewarjen en te syngronisearjen</a>
 firefox-accounts-get-email-alerts = E-mailwarskôgingen te ûntfangen wannear’t jo gegevens foar komme yn in bekend datalek
-# Obsolete string
-firefox-accounts-see-if-youve-been = Besjoch oft jo troffen binne troch in online datalek.
 firefox-accounts-protect-your-identity = Jo identiteit beskermje mei feilige telefoan- en e-mailmaskearring
 firefox-accounts-keep-your-passwords = Hâld jo wachtwurden beskerme en nim se mei.
 firefox-accounts-get-a-lookout-for = Untfang sicht op datalekken.

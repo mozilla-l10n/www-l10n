@@ -37,6 +37,8 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkearre
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Fuort mei de plakkerige advertinsjes dy’t jo folgje mei de yn de { -brand-name-firefox } ynboude blokkearring fan fingerprinting.
 features-index-translate-the-web = Set it ynternet oer
+features-index-translate-websites-to-your = Set websites streekrjocht oer yn jo { -brand-name-firefox }-browser nei jo taal – sûnder jo gegevens mei oaren te dielen.
+# Obsolete string
 features-index-translate-more-than = Set fan mear as 100 talen út streekrjocht yn jo { -brand-name-firefox }-browser oer nei jo eigen taal – ienfâldiger as ea.
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Hawwe jo dingen te dwaan en dingen om te besjen? Doch it tagelyk mei Picture-in-Picture yn { -brand-name-firefox }.
