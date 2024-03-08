@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } ਲਵੋ – ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਿੰਕ ਰੱਖੋ
 # Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ – ਆਪਣੇ ਡਾਟਾ ਨੂੰ ਨਿੱਜੀ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਿੰਕ ਕਰੀ ਰੱਖੋ
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ। ਹੁਣੇ { -brand-name-firefox-account } ਲਵੋ – ਇੱਕ ਲਾਗਇਨ – ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਹਰ ਥਾਂ।
+# HTML page description
+mozilla-accounts-securely-sync-your = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ। ਹੁਣੇ { -brand-name-mozilla-account } ਲਵੋ – ਇੱਕ ਲਾਗਇਨ – ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਹਰ ਥਾਂ।
 firefox-accounts-enter-your-email-address = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਓ।
 firefox-accounts-already-have-an-account = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?
 firefox-accounts-sign-in = ਸਾਈਨ ਇਨ ਕਰੋ
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = ਸਾਈਨ ਇਨ ਕਰੋ
 firefox-accounts-already = ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ { -brand-name-firefox-account } ਹੈ। ਵਧਾਈਆਂ!
 mozilla-accounts-already = ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ { -brand-name-mozilla-account } ਹੈ। ਵਧਾਈਆਂ!
 firefox-accounts-manage = ਆਪਣੇ ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = ਇਸ ਲਈ ਆਪਣੇ { -brand-name-mozilla-account } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = ਵੱਖਰੇ ਡਿਵਾਈਸ ਉੱਤੇ <a
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">ਪਾਸਵਰਡ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ</a>
 firefox-accounts-get-email-alerts = ਜਦੋਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਜਾਣੀ-ਪਛਾਣੀ ਸੰਨ੍ਹ ਵਿੱਚ ਹੋਣ ਦਾ ਪਤਾ ਲੱਗੇ ਤਾਂ ਈਮੇਲ ਸੂਚਨਾ ਲਵੋ
-# Obsolete string
-firefox-accounts-see-if-youve-been = ਵੇਖੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਆਨਲਾਈਨ ਡਾਟਾ ਸੰਨ੍ਹ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਚੁੱਕੇ ਹੋ।
 firefox-accounts-protect-your-identity = ਸੁਰੱਖਿਅਤ ਫ਼ੋਨ ਅਤੇ ਈਮੇਲ ਮਾਸਕ ਨਾਲ ਆਪਣੀ ਪਛਾਣ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ
 firefox-accounts-keep-your-passwords = ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹਰ ਥਾਂ ਤਿਆਰ ਲਵੋ।
 firefox-accounts-get-a-lookout-for = ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਲਈ ਭਾਲ ਕਰੋ।
