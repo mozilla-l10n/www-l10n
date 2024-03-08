@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Eiporumína beta { -bra
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Eiporumína beta { -brand-name-firefox } { -brand-name-ios } peg̃uarã { -brand-name-test-flight } { -brand-name-apple } mba’éva rupive.
 firefox-channel-sign-up-now = Eike ko’ág̃a
+firefox-channel-nightly-update-one-or-more-times = Kuaarã: { -brand-name-firefox-nightly } hekopyahúta peteĩ térã mokõijey arapukukuépe.
