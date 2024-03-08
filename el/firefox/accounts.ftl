@@ -9,7 +9,7 @@
 mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – Προστασία και συγχρονισμός δεδομένων
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Διαθέτετε ήδη λογαριασμό;
@@ -18,6 +18,7 @@ firefox-accounts-sign-in = Σύνδεση
 firefox-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
 mozilla-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
 firefox-accounts-manage = Διαχείριση του λογαριασμού σας
+mozilla-account-header = { -brand-name-mozilla-account(case: "nom", capitalization: "upper") }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Συνδεθείτε στον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας για:
 # Obsolete string
@@ -31,8 +32,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Αποστολή καρτελ�
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Αποθήκευση και συγχρονισμό κωδικών πρόσβασης</a>
 firefox-accounts-get-email-alerts = Λήψη ειδοποιήσεων μέσω email εάν εμφανιστούν τα στοιχεία σας σε γνωστή παραβίαση δεδομένων
-# Obsolete string
-firefox-accounts-see-if-youve-been = Δείτε αν έχετε εμπλακεί σε διαρροή δεδομένων στο διαδίκτυο.
 firefox-accounts-protect-your-identity = Προστασία της ταυτότητάς σας με ασφαλή απόκρυψη τηλεφώνου και email
 firefox-accounts-keep-your-passwords = Προστασία και φορητότητα κωδικών πρόσβασης.
 firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσεων δεδομένων.
