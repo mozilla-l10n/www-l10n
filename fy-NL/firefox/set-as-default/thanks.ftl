@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = Jo binne hielendal klear.
 set-as-default-thanks-get-firefox-for-mobile = { -brand-name-firefox } foar mobyl downloade
 set-as-default-thanks-travel-the-internet-with = Reizgje beskerme op it ynternet, op al jo apparaten.
 set-as-default-thanks-download-the-app = De app downloade
+# Obsolete string
 set-as-default-thanks-join-firefox = Doch mei mei { -brand-name-firefox }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Meld jo oan foar in fergees account en syngronisearje al jo wachtwurden, navigaasjeskiednis en foarkarren op al jo apparaten.
+set-as-default-create-an-account = Account oanmeitsje
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Meld jo oan foar in fergees { -brand-name-mozilla-account } en syngronisearje al jo wachtwurden, navigaasjeskiednis en foarkarren op al jo apparaten.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = In account oanmeitsje
 set-as-default-thanks-having-trouble = Hawwe jo problemen?
