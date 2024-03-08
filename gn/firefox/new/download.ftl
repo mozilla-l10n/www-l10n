@@ -27,10 +27,6 @@ firefox-new-need-help = ¿Eikotevẽpa pytyvõ?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-xp } térã { -brand-name-vista }, hákatu eiporukuaa gueteri { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Eiporuhína apopyvusu oku’éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="{ $url }">ndoguerekovéimava { -brand-name-firefox } pytyvõ</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ij
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundaha año.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
+firefox-new-download-almost-there = ¡Ejapopa’íntema!
+firefox-new-download-select-linux = Eiporavo jeporavorã mboguejyrã ko’ág̃a
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox }.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> em
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eiporukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembiporu’i emohendaséva ndaha’éi tembiporu’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembiporu’i ñe’ẽporãhague</a>.
