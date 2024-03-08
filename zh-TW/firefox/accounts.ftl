@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = 註冊 { -brand-name-firefox-account } 
 # Obsolete string
 firefox-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-firefox-account }: 一次登入，隨處都有強大威力與隱私保護功能。
 # HTML page description
-mozilla-accounts-securely-sync-your = 在您的所有裝置間安全地同步密碼、書籤、分頁。立即註冊 { -brand-name-mozilla-account } - 一次登入隨處都有強大威力與隱私保護。
+mozilla-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-mozilla-account } 帳號：一次登入，隨處都有強大威力與隱私保護功能。
 firefox-accounts-enter-your-email-address = 輸入您的電子郵件地址，即可加入我們。
 firefox-accounts-already-have-an-account = 已經有帳號了嗎？
 firefox-accounts-sign-in = 登入

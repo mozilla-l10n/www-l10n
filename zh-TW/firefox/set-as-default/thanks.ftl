@@ -27,7 +27,7 @@ set-as-default-thanks-join-firefox = 加入 { -brand-name-firefox }
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 註冊一組免費帳號，即可在您的所有裝置間同步密碼、上網紀錄、偏好設定。
 set-as-default-create-an-account = 註冊帳號
-set-as-default-thanks-sign-up-for-a-free-account-v2 = 註冊免費的 { -brand-name-mozilla-account }即可在您的所有裝置間同步密碼、上網紀錄、偏好設定。
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 註冊一組免費的 { -brand-name-mozilla-account }，即可在您的所有裝置間同步密碼、上網紀錄、偏好設定。
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = 註冊帳號
 set-as-default-thanks-having-trouble = 遇到麻煩了？
