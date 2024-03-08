@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Maak een { -brand-name-mozilla-account } aan – Houd uw gegevens privé, veilig en synchroon
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Maak een { -brand-name-firefox-account } aan – Houd uw gegevens privé, veilig en synchroon
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Synchroniseer uw wachtwoorden, bladwijzers en tabbladen veilig tussen al uw apparaten. Maak nu een { -brand-name-firefox-account } aan – Eén aanmelding – Overal kracht en privacy.
+# HTML page description
+mozilla-accounts-securely-sync-your = Synchroniseer uw wachtwoorden, bladwijzers en tabbladen veilig tussen al uw apparaten. Maak nu een { -brand-name-mozilla-account } aan – Eén aanmelding – Overal kracht en privacy.
 firefox-accounts-enter-your-email-address = Voer uw e-mailadres in om te beginnen.
 firefox-accounts-already-have-an-account = Hebt u al een account?
 firefox-accounts-sign-in = Aanmelden
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Aanmelden
 firefox-accounts-already = U hebt al een { -brand-name-firefox-account }. Gefeliciteerd!
 mozilla-accounts-already = U hebt al een { -brand-name-mozilla-account }. Gefeliciteerd!
 firefox-accounts-manage = Uw account beheren
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Meld u aan bij uw { -brand-name-mozilla-account } om:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Een tabblad te verzenden</a> n
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Wachtwoorden op te slaan en te synchroniseren</a>
 firefox-accounts-get-email-alerts = E-mailwaarschuwingen te ontvangen wanneer uw gegevens voorkomen in een bekend datalek
-# Obsolete string
-firefox-accounts-see-if-youve-been = Bekijk of u getroffen bent door een online datalek.
 firefox-accounts-protect-your-identity = Uw identiteit te beschermen met veilige telefoon- en e-mailmaskering
 firefox-accounts-keep-your-passwords = Houd uw wachtwoorden beschermd en neem ze mee.
 firefox-accounts-get-a-lookout-for = Ontvang zicht op datalekken.
