@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Egueru { -brand-name-mozilla-account } – Ereko mba’ekuaarã ñemi, tekorosã ha mbojuehépe
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Egueru { -brand-name-firefox-account } – Ereko mba’ekuaarã ñemi, tekorosã ha mbojuehépe
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Embojuehe ñe’ẽñemi, techaukaha ha tendayke tekorosãme opa mba’e’okápe. Ereko { -brand-name-firefox-account }: emoñepyrũ tembiapo peteĩjey ha ome’ẽta pokatu ha ñemi opa hendápe.
+# HTML page description
+mozilla-accounts-securely-sync-your = Embojuehe ñe’ẽñemi, techaukaha ha tendayke tekorosãme opaite mba’e’okápe. Erekóke { -brand-name-mozilla-account } ko’ág̃a – Peteĩ jeike – Pokatu ha tekoñemi opaite hendápe.
 firefox-accounts-enter-your-email-address = Emoĩ ñanduti veve kundaharape eñepyrũ hag̃ua.
 firefox-accounts-already-have-an-account = ¿Eguerekóma ne mba’ete?
 firefox-accounts-sign-in = Emoñepyrũ tembiapo
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Emoñepyrũ tembiapo
 firefox-accounts-already = Eguerekóma peteĩ { -brand-name-firefox-account }. ¡Vy’apavẽ!
 mozilla-accounts-already = Eguerekóma peteĩ { -brand-name-mozilla-account }. ¡Vy’apavẽ!
 firefox-accounts-manage = Eñangareko mba’etére
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Emoñepyrũ tembiapo nde { -brand-name-mozilla-account } peg̃uarã:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Emondo tendayke</a> mba’e’
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Eñongatu ha embojuehe ñe’ẽñemi</a>
 firefox-accounts-get-email-alerts = Tog̃uahẽ kyhyjerã ñanduti vevépe ne marandu ojehechávo mba’ekuaarã ñemboguape
-# Obsolete string
-firefox-accounts-see-if-youve-been = Ehecha ejapópara’e mba’ekuaarã ñembogua ñandutípe.
 firefox-accounts-protect-your-identity = Emo’ã nde reratee tovamo’ãha ñanduti veve ha pumbyry hekorosãva ndive
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
 firefox-accounts-get-a-lookout-for = Ehechakuaáke ára ha ára mba’ekuaarã ñemboguáre.
