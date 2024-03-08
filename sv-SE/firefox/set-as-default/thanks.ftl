@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,11 @@ set-as-default-thanks-youre-all-set = Du är klar!
 set-as-default-thanks-get-firefox-for-mobile = Skaffa { -brand-name-firefox } för mobil
 set-as-default-thanks-travel-the-internet-with = Surfa på internet med skydd på alla dina enheter.
 set-as-default-thanks-download-the-app = Hämta appen
+# Obsolete string
 set-as-default-thanks-join-firefox = Bli en del av { -brand-name-firefox }
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Registrera dig för ett gratis konto och synkronisera alla dina lösenord, surfhistorik och inställningar på dina enheter.
+set-as-default-create-an-account = Skapa ett konto
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Skaffa ett konto
 set-as-default-thanks-having-trouble = Har du problem?

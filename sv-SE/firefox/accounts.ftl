@@ -9,7 +9,7 @@
 mozilla-accounts-get-a-mozilla-account = Skaffa ett { -brand-name-mozilla-account } – Håll din data privat, säker och synkroniserad
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Skapa ett { -brand-name-firefox-account } – Håll dina data privata, säkra och synkroniserade
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Synkronisera säkert dina lösenord, bokmärken och flikar mellan dina enheter. Skapa ett { -brand-name-firefox-account } nu – En inloggning – Styrka och integritet överallt.
 firefox-accounts-enter-your-email-address = Ange din e-postadress för att komma igång.
 firefox-accounts-already-have-an-account = Har du redan ett konto?
@@ -18,6 +18,7 @@ firefox-accounts-sign-in = Logga in
 firefox-accounts-already = Du har redan ett { -brand-name-firefox-account }. Grattis!
 mozilla-accounts-already = Har du redan ett { -brand-name-mozilla-account }. Grattis!
 firefox-accounts-manage = Hantera ditt konto
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Logga in på ditt { -brand-name-mozilla-account } för att:
 # Obsolete string
@@ -31,8 +32,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Skicka en flik</a> till en ann
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Spara och synkronisera lösenord</a>
 firefox-accounts-get-email-alerts = Få e-postvarningar när din information förekommer i ett känt dataintrång
-# Obsolete string
-firefox-accounts-see-if-youve-been = Se om du har varit inblandad i ett dataintrång online.
 firefox-accounts-protect-your-identity = Skydda din identitet med säkra telefon- och e-postalias
 firefox-accounts-keep-your-passwords = Skydda dina lösenord och ta med dem överallt.
 firefox-accounts-get-a-lookout-for = Håll koll på dataintrång.
