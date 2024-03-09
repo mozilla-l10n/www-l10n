@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Get a { -brand-name-mozilla-account } – Keep your data private, safe and synchronised
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Get a { -brand-name-firefox-account } – Keep your data private, safe and synced
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Securely sync your passwords, bookmarks and tabs across all your devices. Get a { -brand-name-firefox-account } now – One login – Power and privacy everywhere.
+# HTML page description
+mozilla-accounts-securely-sync-your = Securely synchronise your passwords, bookmarks and tabs across all your devices. Get a { -brand-name-mozilla-account } now – One login – Power and privacy everywhere.
 firefox-accounts-enter-your-email-address = Enter your email address to get started.
 firefox-accounts-already-have-an-account = Already have an account?
 firefox-accounts-sign-in = Sign In
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Sign In
 firefox-accounts-already = You already have a { -brand-name-firefox-account }. Congratulations!
 mozilla-accounts-already = You already have a { -brand-name-mozilla-account }. Congratulations!
 firefox-accounts-manage = Manage your account
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Sign in to your { -brand-name-mozilla-account } to:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Send a tab</a> to a different 
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Save and synchronise passwords</a>
 firefox-accounts-get-email-alerts = Get email alerts when your info appears in a known data breach
-# Obsolete string
-firefox-accounts-see-if-youve-been = See if you’ve been involved in an online data breach.
 firefox-accounts-protect-your-identity = Protect your identity with secure phone and email masking
 firefox-accounts-keep-your-passwords = Keep your passwords protected and portable.
 firefox-accounts-get-a-lookout-for = Get a lookout for data breaches.
