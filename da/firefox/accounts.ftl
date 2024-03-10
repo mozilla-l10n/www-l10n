@@ -11,6 +11,8 @@ mozilla-accounts-get-a-mozilla-account = Få en { -brand-name-mozilla-account } 
 firefox-accounts-get-a-firefox-account = Få en { -brand-name-firefox-account } – Hold dine data private, sikre og synkroniserede
 # Obsolete string
 firefox-accounts-securely-sync-your = Synkroniser dine adgangskoder, bogmærker og faneblade mellem alle dine enheder på en sikker måde. Få en { -brand-name-firefox-account } nu - Et login - Masser af muligheder og beskyttelse af dit privatliv overalt.
+# HTML page description
+mozilla-accounts-securely-sync-your = Synkroniser dine adgangskoder, bogmærker og faneblade mellem alle dine enheder på en sikker måde. Få en { -brand-name-mozilla-account } nu - Et login - masser af muligheder og beskyttelse af dit privatliv overalt.
 firefox-accounts-enter-your-email-address = Indtast din mailadresse for at komme i gang.
 firefox-accounts-already-have-an-account = Har du allerede en konto?
 firefox-accounts-sign-in = Log ind
