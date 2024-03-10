@@ -8,3 +8,4 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Traduce un pagina web con { -brand-name-firefox }
 features-translate-translate-the-web = Traduce le web con { -brand-name-firefox }
+features-translate-when-you-translate-a-webpage = Quando tu traduce un pagina web, illo resta private
