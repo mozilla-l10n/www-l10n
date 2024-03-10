@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Testuj wersje beta { -b
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testuj wersje beta { -brand-name-firefox(case: "gen") } na { -brand-name-ios } poprzez program { -brand-name-test-flight } od { -brand-name-apple }.
 firefox-channel-sign-up-now = Zapisz się
+firefox-channel-nightly-update-one-or-more-times = Uwaga: { -brand-name-firefox-nightly } będzie aktualizowany mniej więcej raz lub dwa razy dziennie.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/newsletter/opt-out-confirmation/
@@ -29,4 +29,6 @@ opt-out-confirmation-youtube = { -brand-name-youtube }
 # Link to https://www.facebook.com/Firefox
 opt-out-confirmation-facebook = { -brand-name-facebook }
 # Link to https://twitter.com/firefox
+opt-out-confirmation-x-formerly-twitter = Twitter
+# Obsolete string
 opt-out-confirmation-twitter = { -brand-name-twitter }

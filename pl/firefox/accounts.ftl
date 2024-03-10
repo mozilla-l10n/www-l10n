@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Załóż { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } już teraz — jedno logowanie — prywatność w każdym miejscu.
+# HTML page description
+mozilla-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } już teraz — jedno logowanie — prywatność w każdym miejscu.
 firefox-accounts-enter-your-email-address = Wpisz swój adres e-mail, aby zacząć.
 firefox-accounts-already-have-an-account = Masz już konto?
 firefox-accounts-sign-in = Zaloguj się
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Zaloguj się
 firefox-accounts-already = Masz już { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulacje!
 mozilla-accounts-already = Masz już { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulacje!
 firefox-accounts-manage = Zarządzaj kontem
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Z { -brand-name-mozilla-account(case: "ins", capitalization: "lower") } możesz więcej!
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Przesyłaj karty</a> między u
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Zachowuj i synchronizuj hasła</a>
 firefox-accounts-get-email-alerts = Otrzymuj powiadomienia pocztą, kiedy Twoje dane osobowe znajdą się w znanym wycieku danych
-# Obsolete string
-firefox-accounts-see-if-youve-been = Sprawdź, czy Twoje dane gdzieś wyciekły.
 firefox-accounts-protect-your-identity = Chroń swoją tożsamość za pomocą bezpiecznego maskowania numeru telefonu i adresu e-mail
 firefox-accounts-keep-your-passwords = Korzystaj z chronionych i przenośnych haseł.
 firefox-accounts-get-a-lookout-for = Miej oko na wyciekach danych.
