@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Ustvarite si { -brand-name-mozilla-account } – Ohranite svoje podatke zasebne, varne in sinhronizirane
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Ustvarite si { -brand-name-firefox-account } – Ohranite svoje podatke zasebne, varne in sinhronizirane
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Varno sinhronizirajte gesla, zaznamke in zavihke med svojimi napravami. Izberite { -brand-name-firefox-account } zdaj – ena prijava, moč in zasebnost povsod.
+# HTML page description
+mozilla-accounts-securely-sync-your = Varno sinhronizirajte gesla, zaznamke in zavihke med svojimi napravami. Izberite { -brand-name-mozilla-account(sklon: "tozilnik") } zdaj – ena prijava, moč in zasebnost povsod.
 firefox-accounts-enter-your-email-address = Za začetek vnesite e-poštni naslov.
 firefox-accounts-already-have-an-account = Že imate račun?
 firefox-accounts-sign-in = Prijavite se
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Prijavite se
 firefox-accounts-already = { -brand-name-firefox-account } že imate. Čestitke!
 mozilla-accounts-already = { -brand-name-mozilla-account(sklon: "tozilnik", zacetnica: "velika") } že imate. Čestitke!
 firefox-accounts-manage = Upravljajte račun
+mozilla-account-header = { -brand-name-mozilla-account(zacetnica: "velika") }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prijava v { -brand-name-mozilla-account(sklon: "tozilnik") } vam omogoča:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">poslati zavihek</a> na drugo n
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">sinhronizirati shranjena gesla</a>
 firefox-accounts-get-email-alerts = prejeti opozorilo po e-pošti, če se vaši podatki pojavijo v znani kraji podatkov
-# Obsolete string
-firefox-accounts-see-if-youve-been = Preverite, ali ste bili vpleteni v spletno krajo podatkov.
 firefox-accounts-protect-your-identity = zaščititi identiteto z varnim zakrivanjem telefonske številke in e-poštnega naslova
 firefox-accounts-keep-your-passwords = Imejte gesla zaščitena in pri roki.
 firefox-accounts-get-a-lookout-for = Bodite obveščeni o krajah podatkov.
