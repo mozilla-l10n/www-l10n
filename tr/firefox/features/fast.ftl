@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
@@ -13,7 +13,7 @@ features-fast-firefox-is-now-faster-and-leaner = { -brand-name-firefox } artık 
 features-fast-weve-been-working-out-so-you = Daha fazlasını yapabilmen için çok çalıştık.
 features-fast-use-less-memory = Daha az bellek kullanır
 # A "computer hog" here means software that consumes a lot of memory and resources
-features-fast-no-one-likes-a-computer-hog = Bilgisayarı tıkayan programları kimse sevmez! { -brand-name-firefox } fazlalıklardan arınmış, yalın bir tarayıcıdır. { -brand-name-chrome }’dan daha az RAM kullandığı için diğer programların en yüksek hızda çalışmaya devam edebilir.
+features-fast-no-one-likes-a-computer-hog = Bilgisayarı tıkayan programları kimse sevmez! { -brand-name-firefox } fazlalıklardan arınmış, yalın bir tarayıcıdır. { -brand-name-chrome }’dan daha az RAM kullandığı için diğer programlarınız en yüksek hızda çalışmaya devam edebilir.
 features-fast-get-all-the-tabs-without-lags = Tüm sekmeleri geciktirmeden açar
 features-fast-multi-tasking-with-multiple = Aynı anda bir sürü sekmeyle uğraşanlara müjde! { -brand-name-firefox } artık çok işlemli bir tarayıcı, yani sekmelerin daima taze kalıyor ve yüklenmeleri çok daha kısa sürüyor. %86 daha az bekleme süresiyle sekmeler arasında çabucak geçiş yapabilirsin.
 features-fast-level-up-browser-gameplay = Tarayıcı oyunlarını daha hızlı çalıştırır

@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } açın: Verileriniz gizlilik ve güven içinde eşitlensin
 # Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } açın – Verileriniz gizlilik ve güven içinde eşitlensin
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerini tüm cihazların arasında güvenle eşitle. Hemen { -brand-name-firefox-account } aç: tek hesap, her yerde güç ve gizlilik.
+# HTML page description
+mozilla-accounts-securely-sync-your = Parolalarınızı, yer imlerinizi ve sekmelerinizi tüm cihazların arasında güvenle eşitleyin. Hemen { -brand-name-mozilla-account } açın: tek hesap, her yerde güç ve gizlilik.
 firefox-accounts-enter-your-email-address = Başlamak için e-posta adresinizi yazın.
 firefox-accounts-already-have-an-account = Zaten hesabınız var mı?
 firefox-accounts-sign-in = Giriş yapın
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Giriş yapın
 firefox-accounts-already = Zaten bir { -brand-name-firefox-account }nız var. Tebrikler!
 mozilla-accounts-already = Zaten { -brand-name-mozilla-account }nız var. Tebrikler!
 firefox-accounts-manage = Hesabınızı yönetin
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = { -brand-name-mozilla-account }nıza giriş yaparak şunları yapabilirsiniz:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = Farklı bir cihaza <a href="{ $send }">sekme gönd
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Parolaları kaydedip eşitleyin</a>
 firefox-accounts-get-email-alerts = Bilgileriniz yeni bir veri ihlalinde yer alırsa e-posta uyarıları alın
-# Obsolete string
-firefox-accounts-see-if-youve-been = Çevrimiçi veri ihlallerinde verilerinin çalınıp çalınmadığını öğren.
 firefox-accounts-protect-your-identity = Güvenli telefon ve e-posta maskeleme ile kimliğinizi koruyun
 firefox-accounts-keep-your-passwords = Parolalarınızı güvenle yanınızda taşıyın.
 firefox-accounts-get-a-lookout-for = Veri hırsızlıklarından haberin olsun.
