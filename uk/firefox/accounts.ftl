@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Створіть { -brand-name-mozilla-account } – зберігайте свої дані приватними, захищеними та синхронізованими
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account(case: "nom", capitalization: "lower") } – зберігайте свої дані приватними, захищеними та синхронізованими
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account(case: "nom", capitalization: "lower") }. Один обліковий запис – доступ і приватність усюди.
+# HTML page description
+mozilla-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки і вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-mozilla-account } – один вхід – доступ і приватність усюди.
 firefox-accounts-enter-your-email-address = Введіть свою адресу електронної пошти, щоб почати роботу.
 firefox-accounts-already-have-an-account = Уже маєте обліковий запис?
 firefox-accounts-sign-in = Увійти
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Увійти
 firefox-accounts-already = У вас уже є { -brand-name-firefox-account }. Вітаємо!
 mozilla-accounts-already = У вас уже є { -brand-name-mozilla-account }. Вітаємо!
 firefox-accounts-manage = Керувати обліковим записом
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Увійдіть у свій { -brand-name-mozilla-account }, щоб:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Надіслати вклад�
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Зберігати й синхронізувати паролі</a>
 firefox-accounts-get-email-alerts = Отримуйте сповіщення електронною поштою, коли ваші дані з'являються у відомих витоках
-# Obsolete string
-firefox-accounts-see-if-youve-been = Дізнайтеся, чи ви стали жертвою витоку даних в Інтернеті.
 firefox-accounts-protect-your-identity = Захистіть свої особисті дані надійним маскуванням номера телефону й електронної пошти
 firefox-accounts-keep-your-passwords = Зберігайте свої паролі в безпеці та завжди при собі.
 firefox-accounts-get-a-lookout-for = Стежте за витоками даних.
