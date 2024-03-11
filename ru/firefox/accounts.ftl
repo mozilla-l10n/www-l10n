@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Создайте { -brand-name-firefox-
 # Obsolete string
 firefox-accounts-securely-sync-your = Безопасно синхронизируйте свои пароли, закладки и вкладки между всеми своими устройствами. Создайте { -brand-name-firefox-account } сейчас – Один аккаунт – Мощь и приватность повсюду.
 # HTML page description
-mozilla-accounts-securely-sync-your = Надежно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account } сейчас – Один логин – Электропитание и приватность повсюду.
+mozilla-accounts-securely-sync-your = Надежно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account } сейчас – Один логин – Мощь и приватность повсюду.
 firefox-accounts-enter-your-email-address = Введите адрес электронной почты, чтобы начать.
 firefox-accounts-already-have-an-account = Уже есть аккаунт?
 firefox-accounts-sign-in = Войти
