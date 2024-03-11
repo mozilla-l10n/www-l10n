@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Conseguí una { -brand-name-firefox-acc
 # Obsolete string
 firefox-accounts-securely-sync-your = Sincronizá tus contraseñas, marcadores y pestañas de manera segura en todos tus dispositivos. Obtené una { -brand-name-firefox-account }. Un único inicio de sesión. Poder y privacidad en todas partes.
 # HTML page description
-mozilla-accounts-securely-sync-your = Sincroniza de forma segura tus contraseñas, marcadores y pestañas en todos tus dispositivos. Obtené una { -brand-name-mozilla-account } ahora. Un único inicio de sesión. Poder y privacidad en todas partes.
+mozilla-accounts-securely-sync-your = Sincronizá tus contraseñas, marcadores y pestañas de manera segura en todos tus dispositivos. Obtené una { -brand-name-mozilla-account }. Un único inicio de sesión. Poder y privacidad en todas partes.
 firefox-accounts-enter-your-email-address = Ingresá tu dirección de correo electrónico para empezar.
 firefox-accounts-already-have-an-account = ¿Ya tenés una cuenta?
 firefox-accounts-sign-in = Iniciar sesión
