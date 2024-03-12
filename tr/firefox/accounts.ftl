@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } açın 
 # Obsolete string
 firefox-accounts-securely-sync-your = Parolalarını, yer imlerini ve sekmelerini tüm cihazların arasında güvenle eşitle. Hemen { -brand-name-firefox-account } aç: tek hesap, her yerde güç ve gizlilik.
 # HTML page description
-mozilla-accounts-securely-sync-your = Parolalarınızı, yer imlerinizi ve sekmelerinizi tüm cihazların arasında güvenle eşitleyin. Hemen { -brand-name-mozilla-account } açın: tek hesap, her yerde güç ve gizlilik.
+mozilla-accounts-securely-sync-your = Parolalarınızı, yer imlerinizi ve sekmelerinizi tüm cihazlarınız arasında güvenle eşitleyin. Hemen { -brand-name-mozilla-account } açın: tek hesap, her yerde güç ve gizlilik.
 firefox-accounts-enter-your-email-address = Başlamak için e-posta adresinizi yazın.
 firefox-accounts-already-have-an-account = Zaten hesabınız var mı?
 firefox-accounts-sign-in = Giriş yapın
