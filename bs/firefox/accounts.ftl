@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Napravite { -brand-name-mozilla-account } – Čuvajte svoje podatke kao privatne, sigurne i sinhronizovane
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Nabavite { -brand-name-firefox-account } - čuvajte svoje podatke privatnim, sigurnim i sinhronizovanim
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, zabilješke i tabove na svim svojim uređajima. Napravite { -brand-name-firefox-account } – Jedna prijava – Snaga i privatnost svuda.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, oznake i tabove na svim svojim uređajima. Napravite { -brand-name-mozilla-account } – Jedna prijava – Snaga i privatnost svuda.
 firefox-accounts-enter-your-email-address = Unesite vašu email adresu da biste počeli.
 firefox-accounts-already-have-an-account = Već imate račun?
 firefox-accounts-sign-in = Prijava
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Prijava
 firefox-accounts-already = Već imate { -brand-name-firefox-account }. Čestitamo!
 mozilla-accounts-already = Već imate { -brand-name-mozilla-account }. Čestitamo!
 firefox-accounts-manage = Upravljajte svojim računom
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prijavite se na svoj { -brand-name-mozilla-account } na:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Pošalji tab</a> na drugi ure�
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Sačuvaj i sinhronizuj lozinke</a>
 firefox-accounts-get-email-alerts = Primajte obavještenja putem emaila kada se vaši podaci pojave u poznatom kršenju podataka
-# Obsolete string
-firefox-accounts-see-if-youve-been = Pogledajte da li ste bili uključeni u kršenje podataka na mreži.
 firefox-accounts-protect-your-identity = Zaštitite svoj identitet sigurnim maskiranjem telefona i emaila
 firefox-accounts-keep-your-passwords = Čuvajte svoje lozinke zaštićenim i prenosivim.
 firefox-accounts-get-a-lookout-for = Potražite kršenje podataka.
