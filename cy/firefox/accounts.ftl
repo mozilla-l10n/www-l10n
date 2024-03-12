@@ -12,7 +12,7 @@ firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-accou
 # Obsolete string
 firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 # HTML page description
-mozilla-accounts-securely-sync-your = Cydamserwch eich cyfrineiriau, nodau tudalen a thabiau yn ddiogel ar draws eich holl ddyfeisiau. Sicrhewch { -brand-name-mozilla-account } nawr - Un mewngofnodi - Pwer a phreifatrwydd ym mhobman.
+mozilla-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar eich holl ddyfeisiau. Defnyddiwch { -brand-name-mozilla-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?
 firefox-accounts-sign-in = Mewngofnodwch

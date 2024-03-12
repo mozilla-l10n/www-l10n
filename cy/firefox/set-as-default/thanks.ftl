@@ -27,7 +27,7 @@ set-as-default-thanks-join-firefox = Ymunwch â { -brand-name-firefox }
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Cofrestrwch i gael cyfrif am ddim a chydweddu'ch holl gyfrineiriau, hanes pori, a'ch dewisiadau ar draws eich dyfeisiau.
 set-as-default-create-an-account = Creu cyfrif
-set-as-default-thanks-sign-up-for-a-free-account-v2 = Cofrestrwch i gael { -brand-name-mozilla-account } am ddim a chysonwch eich holl gyfrineiriau, hanes pori a dewisiadau ar draws eich dyfeisiau.
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Cofrestrwch i gael cyfrif { -brand-name-mozilla-account } a chydweddu'ch holl gyfrineiriau, hanes pori a'ch dewisiadau ar eich holl ddyfeisiau.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Creu Cyfrif
 set-as-default-thanks-having-trouble = Cael trafferth?
