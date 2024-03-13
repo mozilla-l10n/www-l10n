@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -11,8 +11,6 @@ compare-shared-yes = Igen
 compare-shared-no = Nem
 compare-shared-private-browsing-mode = Privát böngészési mód
 compare-shared-blocks-third-party-tracking-default = Alapértelmezetten blokkolja a harmadik féltől származó követő sütiket
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Harmadik féltől származó követő sütik blokkolása
 compare-shared-blocks-cryptomining-scripts = Kriptobányász parancsfájlok blokkolása
 compare-shared-blocks-fingerprinting-scripts = Blokkolja az ujjlenyomat-készítőket
 compare-shared-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Elérhetőség mobil operációs rendsze
 compare-shared-syncs-with-mobile = Szinkronizálás a mobiljával
 compare-shared-password-management = Jelszókezelés
 compare-shared-primary-password = Elsődleges jelszó
-# Obsolete string
-compare-shared-master-password = Mesterjelszó
 compare-shared-security-and-privacy = Biztonság és adatvédelem
 compare-shared-utility = Hasznos funkciók
 compare-shared-portability = Hordozhatóság
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Biztonság és <strong>adatvédelem</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Hasznos funkciók</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Hordozhatóság</strong>
 compare-shared-overall-assessment = Átfogó értékelés
 compare-shared-the-comparisons-made-here-updated = Az itt végzett összehasonlítás alapértelmezett beállításokkal és a következő böngészőkiadásokkal készült:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Az itt végzett összehasonlítás a következő böngészőkiadásokkal készült:
 compare-shared-this-page-updated-semi-quarterly = Ez az oldal negyedévente kétszer frissül, hogy tükrözze a legfrissebb verziót, és nem mindig tükrözi a legfrissebb frissítéseket.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Asztali
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Böngészők összehasonlítása
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Teljesítmény</strong>

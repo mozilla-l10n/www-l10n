@@ -157,6 +157,7 @@
 -brand-name-mozilla-account = Mozilla-fiók
 -brand-name-mozilla-accounts = Mozilla-fiókok
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
 
