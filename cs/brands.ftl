@@ -809,6 +809,7 @@
             }
     }
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
 
@@ -846,8 +847,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Obsolete string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

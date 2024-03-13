@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -11,8 +11,6 @@ compare-shared-yes = Ano
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Režim anonymního prohlížení
 compare-shared-blocks-third-party-tracking-default = Blokování sledovacích cookies třetích stran ve výchozím stavu
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blokování cookies třetích stran
 compare-shared-blocks-cryptomining-scripts = Blokování těžby kryptoměn
 compare-shared-blocks-fingerprinting-scripts = Blokování vytváření otisku prohlížeče
 compare-shared-blocks-social-trackers = Blokování sledovacích prvků sociálních sítí
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Dostupnost na mobilních OS
 compare-shared-syncs-with-mobile = Synchronizace s mobilem
 compare-shared-password-management = Správce hesel
 compare-shared-primary-password = Hlavní heslo
-# Obsolete string
-compare-shared-master-password = Hlavní heslo
 compare-shared-security-and-privacy = Zabezpečení a soukromí
 compare-shared-utility = Funkcionalita
 compare-shared-portability = Přenositelnost
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Zabezpečení a <strong>soukromí</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Funkcionalita</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Přenositelnost</strong>
 compare-shared-overall-assessment = Celkové hodnocení
 compare-shared-the-comparisons-made-here-updated = Při porovnávání jsme vycházeli z výchozího nastavení následujících verzí prohlížečů:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Při porovnávání jsme vycházeli z následujících verzí prohlížečů:
 compare-shared-this-page-updated-semi-quarterly = Tato stránka se aktualizuje jednou za měsíc a půl, aby zohledňovala nejnovější verze a nemusí vždy zohledňovat nejnovější vydané aktualizace.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Počítač
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Porovnat prohlížeče
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Výkon</strong>
