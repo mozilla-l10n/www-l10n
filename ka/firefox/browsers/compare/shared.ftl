@@ -11,8 +11,6 @@ compare-shared-yes = დიახ
 compare-shared-no = არა
 compare-shared-private-browsing-mode = პირადი თვალიერების რეჟიმი
 compare-shared-blocks-third-party-tracking-default = გარეშე მეთვალყურეების ფუნთუშების თავისთავად შეზღუდვა
-# Obsolete string
-compare-shared-blocks-third-party-tracking = ზღუდავს გარეშე მეთვალყურეების ფუნთუშებს
 compare-shared-blocks-cryptomining-scripts = კრიპტოვალუტის გამომმუშავებლების შეზღუდვა
 compare-shared-blocks-fingerprinting-scripts = ვინაობის ამომცნობების შეზღუდვა
 compare-shared-blocks-social-trackers = სოცქსელის მეთვალყურეების შეზღუდვა
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = მობილურ სისტემ
 compare-shared-syncs-with-mobile = დასინქრონება მობილურზე
 compare-shared-password-management = პაროლების მართვა
 compare-shared-primary-password = მთავარი პაროლით დაცვა
-# Obsolete string
-compare-shared-master-password = მთავარი პაროლით დაცვა
 compare-shared-security-and-privacy = უსაფრთხოება და პირადულობა
 compare-shared-utility = სარგებლიანობა
 compare-shared-portability = მოქნილობა
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = უსაფრთხოება და <strong>პირადულობა</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>გამოსადეგი</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>მოქნილი</strong>
 compare-shared-overall-assessment = საერთო შეფასება
 compare-shared-the-comparisons-made-here-updated = აქ მოყვანილი შედარებები გაკეთდა, საწყისი პარამეტრებით გამართული ბრაუზერების შემდეგ გამოშვებებზე:
-# Obsolete string
-compare-shared-the-comparisons-made-here = აქ მოყვანილი შედარებები გაკეთდა ბრაუზერების შემდეგ გამოშვებებზე:
 compare-shared-this-page-updated-semi-quarterly = ეს გვერდი ახლდება სამ თვეში ორჯერ, იმ დროისთვის უახლესი ვერსიების აღწერით და შესაძლოა ყოველთვის ვერ მოიცავდეს, ბოლო სიახლეებს.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = კომპიუტერი
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = ბრაუზერების შედარება
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>შემსრულებლობა</strong>

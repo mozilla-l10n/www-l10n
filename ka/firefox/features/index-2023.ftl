@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = { -brand-name-firefox }-ის შესაძლებლობები
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } სწრაფი, მსუბუქი, პირადულობაზე მზრუნველი ბრაუზერია, რომელიც იმუშავებს ყველა თქვენს მოწყობილობაზე.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } სულ უფრო სწრაფდება
+features-index-the-latest-browser-speed-benchmarks = ბრაუზერის სიჩქარის უახლესი მონაცემები მოწმობს, რომ { -brand-name-firefox } არნახულად სწრაფია.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } სწრაფი ბრაუზერია?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } იყენებს ნაკლებ მეხსიერებას, ვიდრე Chrome, შედეგად სხვა პროგრამებს სწრაფი მუშაობის საშუალება დარჩება.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } პირადი ბრაუზერია?
 features-index-were-focused-on-your-right-to = ჩვენი საქმიანობა მიმართულია თქვენი პირადი მონაცემების ხელშეუხებლობის უზრუნველყოფისთვის. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებსა და ინტერნეტცხოვრებას იცავს { -brand-name-firefox }.

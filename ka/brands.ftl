@@ -156,6 +156,7 @@
        *[nom] Mozilla-ანგარიშები
     }
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
 
@@ -173,8 +174,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

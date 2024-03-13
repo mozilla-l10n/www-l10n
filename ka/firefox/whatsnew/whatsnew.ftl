@@ -13,5 +13,9 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = თქვენი { -brand-name-firefox } განახლდა.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = გაეცანით <a { $url }>გამოშვების შენიშვნებს</a>, რომ უკეთ გაეცნოთ, რა სიახლეებია { -brand-name-firefox }-ბრაუზერში.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = იხილეთ <a href="{ $url }">გამოშვების შენიშვნები</a>, რომ უკეთ გაეცნოთ, თუ რა სიახლეები ახლავს { -brand-name-firefox }-ბრაუზერს.
 whatsnew-signoff = <strong>უზრუნველყოფს { -brand-name-mozilla }.</strong> ხალხის საჭიროებების მოგებაზე წინ დაყენება 1998 წლიდან.
