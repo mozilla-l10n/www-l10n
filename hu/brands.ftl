@@ -35,7 +35,7 @@
             }
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
--brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mozilla-foundation = Mozilla Alapítvány
 -brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
@@ -47,7 +47,13 @@
 
 ## Firefox browsers
 
--brand-name-firefox = Firefox
+-brand-name-firefox =
+    { $case ->
+        [accusative] Firefoxot
+        [dative] Firefoxnak
+        [instrumental] Firefoxszal
+       *[nominative] Firefox
+    }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
@@ -168,8 +174,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
