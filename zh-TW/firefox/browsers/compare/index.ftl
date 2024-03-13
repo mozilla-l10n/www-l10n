@@ -42,3 +42,14 @@ compare-index-browsers-have-come-a-long = 自從 { -brand-name-chrome } 推出�
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } 是由非營利組織 { -brand-name-mozilla } 在背後全力相挺。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } 在打造產品與做事時都最看重您的隱私。我們相信，您有權決定要如何、與誰分享個人資訊。{ -brand-name-firefox } 盡量減少資料收集，也永遠不會出賣您的資料。我們只為了讓產品與軟體功能變得更好來收集少量資料、不偷偷摸摸，更提供透明且實際的隱私保護。
 compare-index-based-on-the-criteria-we-outlined = 只有 { -brand-name-firefox } 唯一達到我們對瀏覽器訂出的標準: 隱私保護、實用性、可攜帶性。各家瀏覽器在功能性上沒有太大差異；主要差別在於對隱私權的保護。{ -brand-name-firefox } 是最能保護隱私，也不把您鎖在某個單一生態系當中的瀏覽器。您可以在任何作業系統、任何裝置上使用，讓您掌握方向，更有安全感。
+compare-index-how-well-does-firefox-perform = { -brand-name-firefox } 的效能如何
+compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } 使用世界一流的 { -brand-name-gecko } 引擎提供超快的樣式與頁面排版、現代的 JavaScript 功能以及持續不斷的新效能改善功能讓使用者滿意並推動整個網頁平台向前發展。
+# "Speedometer 3" is a brand name
+# Variables
+#   $url1 (url) - link to /firefox/features/fast/
+#   $url2 (url) - link to https://github.com/WebKit/Speedometer/
+#   $url3 (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+compare-index-firefox-engineers-focus-on-improving = { -brand-name-firefox } 的工程師致力於改善效能與反應速度以提供 <a { $url1 }>更快的上網體驗</a>讓您可更快找到需要的東西並且順暢地完成工作。我們與其他瀏覽器製造商的團隊合作開發了一個名為 <a { $url2 }>速度計 3</a> 的專案。這是一套惠及所有瀏覽器以至整個 Open Web 的業界標準效能基準測試。此功能已讓 <a { $url3 }>對 { -brand-name-firefox } 使用者體驗有大幅度改善</a>頁面載入更快、互動更順暢。
+# Variables:
+#   $download (url) - link to /firefox/new/
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } 關心 Web 環境我們歡迎其他競爭者。當其他瀏覽器需要投資才能在效能上與 { -brand-name-firefox } 競爭時對他們的使用者及我們的使命來說都是好事。而 { -brand-name-firefox } 也反對這些廠商: 我們鼓勵其他瀏覽器的使用者 <a { $download }>下載 { -brand-name-firefox }</a> 自己試試看。

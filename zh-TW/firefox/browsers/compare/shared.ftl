@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -11,8 +11,6 @@ compare-shared-yes = 有
 compare-shared-no = 沒有
 compare-shared-private-browsing-mode = 隱私瀏覽模式
 compare-shared-blocks-third-party-tracking-default = 自動封鎖第三方追蹤 Cookie
-# Obsolete string
-compare-shared-blocks-third-party-tracking = 封鎖第三方追蹤 Cookie
 compare-shared-blocks-cryptomining-scripts = 封鎖加密貨幣採礦程式
 compare-shared-blocks-fingerprinting-scripts = 封鎖數位指紋追蹤指令碼
 compare-shared-blocks-social-trackers = 封鎖社交追蹤器
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = 提供行動版本
 compare-shared-syncs-with-mobile = 與行動裝置同步
 compare-shared-password-management = 密碼管理
 compare-shared-primary-password = 主控密碼
-# Obsolete string
-compare-shared-master-password = 主控密碼
 compare-shared-security-and-privacy = 安全性與隱私權
 compare-shared-utility = 實用性
 compare-shared-portability = 可攜帶性
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = 安全性與<strong>隱私權</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>實用性</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>可攜帶性</strong>
 compare-shared-overall-assessment = 總體評價
 compare-shared-the-comparisons-made-here-updated = 本頁根據下列版本的瀏覽器發行版本的預設設定值進行評比:
-# Obsolete string
-compare-shared-the-comparisons-made-here = 本頁根據下列版本的瀏覽器發行版本進行評比:
 compare-shared-this-page-updated-semi-quarterly = 此頁面當中的資料每半年更新兩次，可能不會隨時根據各瀏覽器最新版本更新。
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = 桌面版
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = 比較瀏覽器
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>效能</strong>
