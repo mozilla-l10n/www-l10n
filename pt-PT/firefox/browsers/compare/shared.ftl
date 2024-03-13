@@ -11,8 +11,6 @@ compare-shared-yes = Sim
 compare-shared-no = Não
 compare-shared-private-browsing-mode = Modo de navegação privada
 compare-shared-blocks-third-party-tracking-default = Bloqueia cookies de monitorização de terceiros por predefinição
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Bloqueia cookies de monitorização de terceiros
 compare-shared-blocks-cryptomining-scripts = Bloqueia códigos de criptomineração
 compare-shared-blocks-fingerprinting-scripts = Bloqueia scripts de identificação
 compare-shared-blocks-social-trackers = Bloqueia rastreadores de redes sociais
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Disponibilidade no sistema operativo mó
 compare-shared-syncs-with-mobile = Sincroniza com dispositivos móveis
 compare-shared-password-management = Gestor de palavras-passe
 compare-shared-primary-password = Palavra-passe principal
-# Obsolete string
-compare-shared-master-password = Palavra-passe mestra
 compare-shared-security-and-privacy = Segurança e privacidade
 compare-shared-utility = Utilidade
 compare-shared-portability = Portabilidade
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Segurança e <strong>Privacidade</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Utilidade</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabilidade</strong>
 compare-shared-overall-assessment = Avaliação geral
 compare-shared-the-comparisons-made-here-updated = As comparações aqui apresentadas foram feitas com as definições predefinidas e nas seguintes versões disponíveis dos navegadores:
-# Obsolete string
-compare-shared-the-comparisons-made-here = As comparações foram feitas com as seguintes versões de cada navegador:
 compare-shared-this-page-updated-semi-quarterly = Esta página é atualizada 2 vezes por trimestre para refletir as versões mais recentes, no entanto pode não refletir sempre as últimas atualizações.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Computador
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Comparar navegadores
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Desempenho</strong>
