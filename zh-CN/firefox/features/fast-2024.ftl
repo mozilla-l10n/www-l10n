@@ -13,9 +13,6 @@ features-fast-speedometer-is-the-most-widely = 速度计是使用最广泛的测
 features-fast-the-new-speedomer-3-benchmark = 全新的 Speedometer 3 基准测试是与主流浏览器合作推出的首个基准测试旨在使整个网络受益。
 features-fast-faster-every-day = 快一天天
 features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } 由世界一流的 { -brand-name-gecko } 引擎提供速度超快的样式设置和页面排版、现代 JavaScript 功能以及永无止境的性能改进以留住我们的用户快乐并推动 Web 平台向前发展。
-# Variables
-#   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
-features-fast-all-browsers-had-to-make = 所有浏览器都必须进行改进才能在全新的“速度计 3”测试中表现良好。 { -brand-name-firefox } 取得了长足的进步{ -brand-name-firefox } 比以往任何时候都更快。您可以真切地感受到它的速度包括更快的页面加载和更顺畅的交互。
 features-fast-towards-a-faster-web = 迈向更快的网络
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
