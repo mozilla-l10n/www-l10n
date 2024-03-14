@@ -302,6 +302,15 @@
             }
     }
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko =
+    { $sklon ->
+        [rodilnik] Gecka
+        [dajalnik] Gecku
+        [tozilnik] Gecko
+        [mestnik] Gecku
+        [orodnik] Geckom
+       *[imenovalnik] Gecko
+    }
 
 ## Mozilla projects (short names)
 
@@ -319,8 +328,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 
