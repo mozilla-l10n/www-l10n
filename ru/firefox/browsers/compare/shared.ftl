@@ -57,4 +57,4 @@ compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Сравнение браузеров
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Профайлер</strong>
+compare-shared-performance-strong = <strong>Производительность</strong>

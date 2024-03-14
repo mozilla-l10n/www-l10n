@@ -13,7 +13,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Ваш { -brand-name-firefox } был успешно обновлён.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Прочтите <a { $url }>примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
+whatsnew-release-notes-v2 = Прочитайте <a { $url }>Примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
