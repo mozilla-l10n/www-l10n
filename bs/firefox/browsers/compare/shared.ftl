@@ -11,8 +11,6 @@ compare-shared-yes = Da
 compare-shared-no = Ne
 compare-shared-private-browsing-mode = Privatni način pretraživanja
 compare-shared-blocks-third-party-tracking-default = Zadano blokira kolačiće trećih strana
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blokira kolačiće trećih strana
 compare-shared-blocks-cryptomining-scripts = Blokira skripte za kripto rudarenje
 compare-shared-blocks-fingerprinting-scripts = Blokira skripte za otiske prstiju
 compare-shared-blocks-social-trackers = Blokira društvene pratioce
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Dostupnost na operativnim sistemima mobi
 compare-shared-syncs-with-mobile = Sinhronizira s mobilnim uređajima
 compare-shared-password-management = Upravljanje lozinkama
 compare-shared-primary-password = Primarna lozinka
-# Obsolete string
-compare-shared-master-password = Glavna lozinka
 compare-shared-security-and-privacy = Sigurnost i privatnost
 compare-shared-utility = Korisnost
 compare-shared-portability = Prenosivost
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Sigurnost i <strong>privatnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Korisnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Prenosivost</strong>
 compare-shared-overall-assessment = Ukupna procjena
 compare-shared-the-comparisons-made-here-updated = Poređenja koja su ovdje napravljena su napravljena sa zadanim postavkama i svim verzijama izdanja pretraživača kako slijedi:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Poređenja koja su ovdje napravljena su urađena u svim verzijama izdanja pretraživača na sljedeći način:
 compare-shared-this-page-updated-semi-quarterly = Ova stranica se ažurira na svaka tri mjeseca kako bi odrazila najnovije verzije, ali možda neće uvijek odražavati najnovije promjene.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Desktop
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Uporedite pretraživače
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Performanse</strong>
