@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = { -brand-name-firefox } karakteristike pretraživača
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je brz, lagan pretraživač fokusiran na privatnost koji radi na svim vašim uređajima.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
+features-index-the-latest-browser-speed-benchmarks = Najnovija mjerila brzine pretraživača dokazuju da je { -brand-name-firefox } brži nego ikad.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = Je li { -brand-name-firefox } brz pretraživač?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } koristi manje memorije od Chromea, tako da vaši drugi programi mogu nastaviti raditi maksimalnom brzinom.
 features-index-is-firefox-a-private-browser = Je li { -brand-name-firefox } privatni pretraživač?
 features-index-were-focused-on-your-right-to = Fokusirani smo na vaše pravo na privatnost. Vaši podaci, vaša web aktivnost, vaš život na mreži su zaštićeni sa { -brand-name-firefox }om.

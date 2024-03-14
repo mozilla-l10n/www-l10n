@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = Šta je novo na { -brand-name-firefox }
 whatsnew-page-title = Šta je novo na { -brand-name-firefox } - Više privatnosti, više zaštite.
 whatsnew-page-description = Zauzmite stav protiv industrije koja prodaje vaše podatke trećim stranama. Ostanite pametni i sigurni na mreži s tehnologijom koja se bori za vas.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Vaš { -brand-name-firefox } je ažuriran.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Pročitajte <a { $url }>Napomene o izdanju</a> da saznate više o tome šta je novo u vašem { -brand-name-firefox } pretraživaču.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Pročitajte <a href="{ $url }">Napomene o izdanju</a> da saznate više o tome šta je novo u vašem { -brand-name-firefox } pretraživaču.
