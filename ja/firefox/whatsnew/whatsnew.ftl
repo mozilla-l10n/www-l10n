@@ -15,6 +15,11 @@ whatsnew-update-notification = { -brand-name-firefox } が更新されました�
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = { -brand-name-firefox } ブラウザーの新機能について詳しくは、<a { $url }>リリースノート</a>をご覧ください。
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } ブラウザーの新機能について詳しくは、<a href="{ $url }">リリースノート</a>をご覧ください。
 
 whatsnew-signoff = <strong>{ -brand-name-mozilla } が開発</strong>。1998 年より、利益よりもユーザーを守ってきました。

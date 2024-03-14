@@ -15,6 +15,11 @@ whatsnew-update-notification = { -brand-name-firefox } anda telah dinaikkan tara
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Baca <a { $url }>Nota Siaran</a> untuk mengetahui lebih lanjut tentang perkembangan baru untuk pelayar { -brand-name-firefox }.
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Baca <a href="{ $url }">Nota Siaran</a> untuk mengetahui lebih lanjut tentang perkembangan baru untuk pelayar { -brand-name-firefox }.
 
 whatsnew-signoff = <strong>Dikuasakan oleh { -brand-name-mozilla }.</strong> Mementingkan pengguna sebelum keuntungan sejak 1998.

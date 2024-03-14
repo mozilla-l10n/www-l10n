@@ -15,6 +15,11 @@ whatsnew-update-notification = لقد تم تحديث { -brand-name-firefox } ا
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = اقرأ <a { $url }>ملاحظات الإصدار</a> لتتعرف على ما هو جديد في متصفّح { -brand-name-firefox }.
+
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = اقرأ <a href="{ $url }">ملاحظات الإصدار</a> لتتعرف على ما هو جديد في متصفّح { -brand-name-firefox }.
 
 whatsnew-signoff = <strong>مدعوم من شركة { -brand-name-mozilla }.</strong>الناس عندنا أهم من الأرباح منذ أنْ طوّرنا المتصفح في عام 1998.
