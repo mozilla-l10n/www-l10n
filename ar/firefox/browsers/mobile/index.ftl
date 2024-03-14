@@ -27,12 +27,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks = لاحِظ مدى تفوّ�
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = لاحِظ مدى تفوُّق مُتصفح { -brand-name-firefox } المُخصص <strong>لأجهزة الكمبيوتر المكتبية</strong> على المتصفحات السبعة الأخرى.
-browsers-mobile-join-firefox-and-get-the-most = انضم إلى { -brand-name-firefox } وحقّق أقصى استفادة من كل منتج — على كل جهاز.
 
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = هل لديك حساب بالفعل؟ <a { $fxa_attr }>سجِّل الدخول</a> أو <a { $accounts_attr }>اطّلع على المزيد</a> حول الانضمام إلى { -brand-name-firefox }.
 browsers-mobile-download = تنزيل
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

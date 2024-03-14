@@ -27,12 +27,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks = Sieh, wie sich { -brand-nam
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Sieh, wie sich { -brand-name-firefox } für <strong>Desktop</strong> gegen sieben andere Browser schlägt.
-browsers-mobile-join-firefox-and-get-the-most = Erstelle dein { -brand-name-firefox }-Konto und hole noch mehr aus jedem Produkt heraus – auf allen deinen Geräten.
 
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Du hast schon ein Konto? <a { $fxa_attr }>Melde dich an</a> oder <a { $accounts_attr }>erfahre mehr</a> über die Nutzung von { -brand-name-firefox }.
 browsers-mobile-download = Download
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

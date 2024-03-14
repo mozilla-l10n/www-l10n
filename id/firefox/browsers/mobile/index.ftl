@@ -27,12 +27,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks = Lihat bagaimana { -brand-na
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Lihat bagaimana { -brand-name-firefox } untuk <strong>desktop</strong> dibandingkan dengan tujuh peramban lain.
-browsers-mobile-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-name-firefox } dan dapatkan manfaat maksimal dari setiap produk — di setiap perangkat.
 
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Sudah punya akun? <a { $fxa_attr }>Masuk</a> atau <a { $accounts_attr }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-firefox }.
 browsers-mobile-download = Unduh
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

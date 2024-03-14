@@ -27,12 +27,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks = デスクトップ用 { -br
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = <strong>デスクトップ</strong>用 { -brand-name-firefox } と他の 7 つのブラウザーを比較しました。
-browsers-mobile-join-firefox-and-get-the-most = { -brand-name-firefox } に登録して、すべてのデバイスで最大限に活用しましょう。
 
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = 既にアカウントをお持ちの場合: <a { $fxa_attr }>ログイン</a>または { -brand-name-firefox } への登録の<a { $accounts_attr }>詳細を確認</a>
 browsers-mobile-download = ダウンロード
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
