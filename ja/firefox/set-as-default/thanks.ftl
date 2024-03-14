@@ -34,6 +34,8 @@ set-as-default-thanks-join-firefox = { -brand-name-firefox } に参加
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = 無料アカウントにサインアップしてパスワードや閲覧履歴、設定をすべてのデバイスで同期。
 
+set-as-default-create-an-account = アカウントを作成
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 無料の { -brand-name-mozilla-account } にサインアップしてパスワードや閲覧履歴、設定をすべてのデバイスで同期。
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = アカウント作成
