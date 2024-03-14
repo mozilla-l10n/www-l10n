@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } ipya’evéva gueteri
+features-fast-how-is-browser-speed-measured = ¿Mba’éicha eha’ãkuaa kundahára pya’ekue?
+features-fast-faster-every-day = Ipya’eve ko’ẽreíre
