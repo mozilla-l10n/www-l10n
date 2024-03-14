@@ -33,7 +33,6 @@ firefox-browsers-go-beyond-two-dimensions-and = दो आयामों से
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> के साथ अपनी साईट बनाएँ और कोड सुधारें
 
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } के बारे में और अधिक जानें
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } के साथ जुड़ें और हर उत्पाद का लाभ उठाएँ — हर डिवाइस पर।
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

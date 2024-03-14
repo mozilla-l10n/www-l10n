@@ -33,7 +33,6 @@ firefox-browsers-go-beyond-two-dimensions-and = ウェブで二次元を超え�
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> でサイトを構築、コードを洗練
 
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } について詳しく知る
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } に登録して、すべてのデバイスで最大限に活用しましょう。
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

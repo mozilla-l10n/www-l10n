@@ -33,7 +33,6 @@ firefox-browsers-go-beyond-two-dimensions-and = Capai lebih jauh daripada dua di
 firefox-browsers-build-sites-and-refine-your = Bina laman web dan halusi kod anda dengan { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 
 firefox-browsers-learn-more-about-devtools = Ketahui lebih lanjut tentang { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Sertai { -brand-name-firefox } dan manfaatkan sepenuhnya setiap produk — pada semua peranti.
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

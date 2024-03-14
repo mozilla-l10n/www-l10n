@@ -33,7 +33,6 @@ firefox-browsers-go-beyond-two-dimensions-and = Geh über zwei Dimensionen hinau
 firefox-browsers-build-sites-and-refine-your = Erstelle Websiten und optimiere deinen Code mit { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 
 firefox-browsers-learn-more-about-devtools = Weitere Infos zu { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Erstelle dein { -brand-name-firefox }-Konto und hole noch mehr aus jedem Produkt heraus – auf allen deinen Geräten.
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
