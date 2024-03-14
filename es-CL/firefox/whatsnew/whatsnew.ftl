@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = Qué hay de nuevo en { -brand-name-firefox }
 whatsnew-page-title = Novedades de { -brand-name-firefox } - más privacidad, más protecciones.
 whatsnew-page-description = Pronúnciate contra la industria que vende tus datos a terceros. Mantente perspicaz y seguro en línea con tecnología que lucha por ti.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Tu { -brand-name-firefox } ha sido actualizado.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Lee las <a { $url }>Notas de la versión</a> para obtener más información sobre las novedades de tu navegador { -brand-name-firefox }.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lee las <a href="{ $url }">Notas de la versión</a> para obtener más información sobre las novedades de tu navegador { -brand-name-firefox }.
