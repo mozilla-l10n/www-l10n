@@ -8,3 +8,4 @@
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } ipya’evéva gueteri
 features-fast-how-is-browser-speed-measured = ¿Mba’éicha eha’ãkuaa kundahára pya’ekue?
 features-fast-faster-every-day = Ipya’eve ko’ẽreíre
+features-fast-towards-a-faster-web = Peteĩ ñanduti ipya’evéva gotyo
