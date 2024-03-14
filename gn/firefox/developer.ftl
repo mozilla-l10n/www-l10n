@@ -57,17 +57,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } ipyahúva imbarete añete, hu’ũva ha, iporãvéva, hakeakuaáva. Kóvape oike JavaScript best-in-class mopotĩha, ikatúva oma’ẽ heta kundaha rehe ha ojejapo React ha Redux-pe.
 firefox-developer-master-css-grid = CSS renda ha’evéva
-# Obsolete string
-firefox-developer-next-gen-css-engine = CSS mongu’eha ipyahuetéva
 firefox-developer-built-for-developers = Ojejapóva mboguatahárape g̃uarã
-firefox-developer-a-next-generation = Peteĩ CSS mongu’eha ipyahuetéva
 firefox-developer-master-innovative-features = Hupytyha hekoambuéva
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Eimesépa tenondete?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } hekopyahu ára ha ára ha péva rupi ikatu oike tembiapoitépe heta jasy og̃uahẽmbotápe ha oike mboyve pe tembiapokue tuichakueguávape.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } omoinge peteĩ CSS mongu’eha, ojehaíva Rust-pe, oguereko ñemoambue pyahu ha ipya’etereíva.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } hína kundaha heñóiva omba’apo hag̃ua CSS renda ndive. Ko’ã tembiporu ohechauka ndéve ã tenda, ohechauka avei kora hesegua réra, ehecha ñepyrũháme umi ñemoambuepy pe tenda pegua ha hetave mba’e.
 firefox-developer-convenient-features = Tembiapoite oikóva
-firefox-developer-faster-performance = Tembiapo porã
 firefox-developer-shapes-editor = Ysaja mbosako’iha
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } oguereko mbosako’iha pyahu ysaja rape omboguetéva je’erei omoĩporãvo ijysaja ha clip, omoneĩvo ñemoĩporã hasy’ỹva ijapo peteĩ mbosako’iha jehecháva ndive.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ysaja mbosako’iha rupive, natekotevẽvéima emoĩporã mba’emimi mba’éichapa emokuarahy’ãta okáguio térã eiporúta clip-path ysaja, emoneĩvo umi ñemoĩporã hasy’ỹ hag̃uáicha mbosako’iha jehecháva ndive.
@@ -82,6 +77,8 @@ firefox-developer-congrats-you-now-have-firefox = Vy’apavẽ. Ko’ág̃a egue
 firefox-developer-this-isnt-just-an-update = Kóva ndaha’éi ñembohekopyahu año. Kóva ha’e { -brand-name-firefox-quantum }:  { -brand-name-firefox } ipyahúva heñóiva yvyetégui ipya’eve, ivevúi ha imbareteve hag̃ua.
 firefox-developer-welcome-to-firefox-browser = Eg̃uahẽporãite { -brand-name-firefox-browser } { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
+firefox-developer-all-the-latest-v2 = Tembiporukuéra mboguatahárape g̃uarã ipyahúva beta rehegua, avei tembiapoite mba’e’oka mbosako’iha ha WebSocket mbohekoha.
+# Obsolete string
 firefox-developer-all-the-latest = Opaite tembiporu mboguatahárape g̃uarã ipyahúva beta rehegua, avei <strong>tembiapoite ipyahúva</strong> mba’e’oka mbosako’iha itairendaetáva ha WebSocket mbohekoha.
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uarã</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uarã.
