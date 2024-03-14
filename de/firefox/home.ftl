@@ -37,8 +37,6 @@ firefox-home-protection-for-your-whole = Schutz für Ihr gesamtes Gerät auf all
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Ein Login. Auf all deinen Geräten. Eine ganze Reihe an Produkten, die deine <strong>Privatsphäre</strong> respektieren.
 
-firefox-home-join-firefox = Komm zu { -brand-name-firefox }
-firefox-home-learn-more-about-joining = Was es bedeutet, { -brand-name-firefox } zu nutzen
 firefox-home-get-the-browser-extension = Hol dir Browser-Erweiterung
 firefox-home-get-the-facebook-container = Hol dir die { -brand-name-facebook-container }-Erweiterung
 firefox-home-download-the-browser = Browser downloaden

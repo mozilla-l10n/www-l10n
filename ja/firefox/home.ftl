@@ -37,8 +37,6 @@ firefox-home-protection-for-your-whole = すべてのデバイスで、デバイ
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 1 回のログインですべてのデバイスを保護。ユーザーの<strong>プライバシー</strong>を尊重する製品ファミリ。
 
-firefox-home-join-firefox = { -brand-name-firefox } に参加する
-firefox-home-learn-more-about-joining = { -brand-name-firefox } の参加について詳しく知る
 firefox-home-get-the-browser-extension = ブラウザーの拡張機能を手に入れる
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } 拡張機能を手に入れる
 firefox-home-download-the-browser = ブラウザーをダウンロード

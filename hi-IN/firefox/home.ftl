@@ -37,8 +37,6 @@ firefox-home-protection-for-your-whole = हरेक डिवाइस पर,
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = एक लॉग इन। आपके सभी डिवाइसों के लिए। आपकी <strong>निजता</strong> का सम्मान करने वाले उत्पादों की शृंखला।
 
-firefox-home-join-firefox = { -brand-name-firefox } से जुड़ें
-firefox-home-learn-more-about-joining = { -brand-name-firefox } से जुड़ने के बारे में और जानें
 firefox-home-get-the-browser-extension = ब्राउज़र एक्सटेंशन प्राप्त करें
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } एक्सटेंशन पाएँ
 firefox-home-download-the-browser = ब्राउज़र डाउनलोड करें
