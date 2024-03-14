@@ -51,3 +51,17 @@ compare-index-browsers-have-come-a-long = { -brand-name-chrome } が登場して
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } は、非営利法人の { -brand-name-mozilla } が提供しています。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } は、あらゆる開発と活動においてユーザーのプライバシーを第一に考えています。ユーザーには、自分自身の個人情報をどのように、誰と共有するかを決定する権利があると考えています。{ -brand-name-firefox } は、収集するデータはできる限り少なく抑え、売却することは一切ありません。わずかに収集するデータは、製品開発と機能改善にのみ使用します。秘密は作りません。その代わり、透明性と本物のプライバシーを徹底します。
 compare-index-based-on-the-criteria-we-outlined = ここで採用した基準 (プライバシー、実用性、ポータブル性) から、その条件を満たすブラウザーは { -brand-name-firefox } だけです。差別化の決め手となったのは、機能性ではなくプライバシーです。{ -brand-name-firefox } は、ユーザーを囲い込まない最もプライベートなブラウザーです。あらゆる OS とデバイスで、安心して利用できます。
+
+compare-index-how-well-does-firefox-perform = { -brand-name-firefox } のパフォーマンスは？
+compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } は世界クラスの { -brand-name-gecko } エンジンを搭載しており、圧倒的に高速なスタイリングおよびページレイアウト、最新の JavaScript 機能、絶え間ないパフォーマンス改善でユーザーを満足させ、ウェブプラットフォーム全体を前進させています。
+
+# "Speedometer 3" is a brand name
+# Variables
+#   $url1 (url) - link to /firefox/features/fast/
+#   $url2 (url) - link to https://github.com/WebKit/Speedometer/
+#   $url3 (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+compare-index-firefox-engineers-focus-on-improving = { -brand-name-firefox } のエンジニアはパフォーマンスと応答性の向上を追求し、ユーザーが求めるものを迅速に見つけ、円滑に作業を完了できる<a { $url1 }>高速ブラウジング体験</a>を提供します。Mozilla は、すべてのブラウザーとオープンウェブ全体に恩恵がある業界標準のパフォーマンスベンチマークである <a { $url2 }>Speedometer 3</a> というプロジェクトにて、他のブラウザー開発会社と協力してきました。これは <a { $url3 }>{ -brand-name-firefox } ユーザーにとって大きな改善</a>をもたらし、ページ読み込みの高速化やスムーズな操作など、その速度を実感できます。
+
+# Variables:
+#   $download (url) - link to /firefox/new/
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } はウェブを大切にしているため、競争を歓迎します。他のブラウザーがパフォーマンスで { -brand-name-firefox } と競争するために投資するなら、それはユーザーにとっても私たちの使命にとっても素晴らしいことです。{ -brand-name-firefox } は競争を受けて立ちます。別のブラウザーを使用している方は、<a { $download }>{ -brand-name-firefox } をダウンロード</a>して実際に確認してみることをお勧めします。
