@@ -14,10 +14,10 @@ features-translate-one-of-the-best-things-about = 網際網路最棒的事情之
 features-translate-while-other-browsers-rely-on = 其他瀏覽器都使用雲端服務{ -brand-name-firefox } Translations 的語言模型會下載到使用者的瀏覽器並在本機完成翻譯所以 { -brand-name-mozilla } 就不會記錄下您翻譯了哪些網頁。
 features-translate-when-you-translate-a-webpage = 在您翻譯網頁時也保持隱私
 features-translate-when-your-translations-are = 當您在本機處理翻譯後裝置上的資料就不會流出裝置或需透過雲端服務來翻譯。這代表 { -brand-name-mozilla } 並不會知道您要翻譯的網頁內容讓我們的翻譯功能在其他翻譯工具中顯得與眾不同。
-features-translate-what-languages-are-currently = 目前支援哪些語言
+features-translate-what-languages-are-currently = 目前支援哪些語言？
 # This is followed by a localized list of supported languages
-features-translate-the-languages-below-are-what = { -brand-name-firefox } 的翻譯功能目前支援下列語言:
-features-translate-and-more-languages-are-in = 更多語言正在開發中
+features-translate-the-languages-below-are-what = { -brand-name-firefox } 的翻譯功能目前支援下列語言：
+features-translate-and-more-languages-are-in = 更多語言正在開發中！
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } 會說您的語言
 # Variables:
 #   $download (url) = link to https://www.mozilla.org/firefox/new/
