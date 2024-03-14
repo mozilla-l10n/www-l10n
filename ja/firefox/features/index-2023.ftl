@@ -10,7 +10,13 @@ features-index-firefox-browser-features = { -brand-name-firefox } ブラウザ�
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } は、高速で軽量、プライバシー重視のブラウザーで、すべてのデバイスで利用できます。
 
+features-index-firefox-keeps-getting-faster = 高速化を続ける { -brand-name-firefox }
+features-index-the-latest-browser-speed-benchmarks = 最新のブラウザースピードベンチマークは、{ -brand-name-firefox } がこれまで以上の高速化を実現していることを証明しています。
+
+# Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } は高速なブラウザーですか？
+
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } は Chrome よりもメモリの使用量を抑えているため、他のプログラムはトップスピードで動作を続けることができます。
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } はプライバシーを守るブラウザーですか？
 features-index-were-focused-on-your-right-to = 私たちはあなたのプライバシーの権利に重点を置いています。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
