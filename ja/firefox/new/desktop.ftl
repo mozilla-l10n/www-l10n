@@ -158,16 +158,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } は、�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = お問い合わせがありましたら、<a { $attrs }>{ -brand-name-mozilla } サポート</a>がお答えします。
 
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = 既にブラウザーがインストールされています。{ -brand-name-firefox } なら、もっとたくさんのことができます。
-
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
 
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
-
-firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } なら、もっとたくさんのことができます
-firefox-desktop-download-just-download-the-browser = ブラウザーをダウンロードするだけです
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

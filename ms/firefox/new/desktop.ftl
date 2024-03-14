@@ -158,16 +158,10 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Ada soalan? <a { $attrs }>Bantuan { -brand-name-mozilla } </a> sedia membantu.
 
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Anda sudah pun mempunyai pelayar. Sekarang dapatkan lebih banyak lagi daripada { -brand-name-firefox }.
-
 firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -brand-name-mozilla-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
 
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Awasi penggodam dengan { -brand-name-firefox-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
-
-firefox-desktop-download-get-more-from-firefox = Dapatkan Lebih Lagi Daripada { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Hanya Muat turun Pelayarnya
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
