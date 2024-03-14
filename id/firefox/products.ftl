@@ -56,7 +56,6 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Temukan konten terbaik di web — dan gunakan di mana pun dan kapan pun Anda inginkan.
 firefox-products-get-pocket = Dapatkan { -brand-name-pocket }
 firefox-products-learn-more-about-pocket = Pelajari lebih lanjut mengenai { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Bergabunglah bersama { -brand-name-firefox } dan dapatkan hasil maksimal dari setiap produk — di setiap perangkat.
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes

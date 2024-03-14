@@ -56,7 +56,6 @@ firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。
 firefox-products-get-pocket = { -brand-name-pocket } をダウンロード
 firefox-products-learn-more-about-pocket = { -brand-name-pocket } の詳細
-firefox-products-join-firefox-and-get-the-most = { -brand-name-firefox } に登録して全てのデバイスを最大限に活用しましょう。
 
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
