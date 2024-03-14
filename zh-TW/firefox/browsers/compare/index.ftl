@@ -42,7 +42,7 @@ compare-index-browsers-have-come-a-long = 自從 { -brand-name-chrome } 推出�
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } 是由非營利組織 { -brand-name-mozilla } 在背後全力相挺。
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } 在打造產品與做事時都最看重您的隱私。我們相信，您有權決定要如何、與誰分享個人資訊。{ -brand-name-firefox } 盡量減少資料收集，也永遠不會出賣您的資料。我們只為了讓產品與軟體功能變得更好來收集少量資料、不偷偷摸摸，更提供透明且實際的隱私保護。
 compare-index-based-on-the-criteria-we-outlined = 只有 { -brand-name-firefox } 唯一達到我們對瀏覽器訂出的標準: 隱私保護、實用性、可攜帶性。各家瀏覽器在功能性上沒有太大差異；主要差別在於對隱私權的保護。{ -brand-name-firefox } 是最能保護隱私，也不把您鎖在某個單一生態系當中的瀏覽器。您可以在任何作業系統、任何裝置上使用，讓您掌握方向，更有安全感。
-compare-index-how-well-does-firefox-perform = { -brand-name-firefox } 的效能如何
+compare-index-how-well-does-firefox-perform = { -brand-name-firefox } 表現得如何？
 compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } 使用世界一流的 { -brand-name-gecko } 引擎提供超快的樣式與頁面排版、現代的 JavaScript 功能以及持續不斷的新效能改善功能讓使用者滿意並推動整個網頁平台向前發展。
 # "Speedometer 3" is a brand name
 # Variables
