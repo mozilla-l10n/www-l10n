@@ -51,3 +51,17 @@ compare-index-browsers-have-come-a-long = Pelayar telah semakin membangun sejak 
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } disokong oleh organisasi bukan untung { -brand-name-mozilla }.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } mengutamakan privasi anda — dalam semua perkara yang kami buat dan lakukan. Kami percaya yang anda berhak memutuskan cara dan orangnya untuk anda berkongsi maklumat peribadi anda. { -brand-name-firefox } mengumpulkan sedikit data sahaja dan tidak pernah menjualnya. Sedikit data yang kami kumpulkan itu digunakan hanya untuk menghasilkan produk dan ciri yang lebih baik. Tiada rahsia. Tetapi banyak ketelusan dan privasi sebenar.
 compare-index-based-on-the-criteria-we-outlined = Berdasarkan kriteria yang kami gariskan — privasi, utiliti dan kemudahalihan — hanya ada satu pelayar yang memenuhi semuanya, itulah { -brand-name-firefox }. Ruang perbezaan yang sebenarnya bukan fungsi, tetapi privasi. { -brand-name-firefox } ialah pelayar yang paling peribadi, yang tidak mengunci anda dalam suatu ekosistem. Gunakan pada mana-mana sistem operasi, pada semua peranti anda dan yakin selamat ketika melakukannya.
+
+compare-index-how-well-does-firefox-perform = Bagaimana dengan prestasi { -brand-name-firefox }?
+compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } dikuasakan oleh enjin { -brand-name-gecko } yang bertaraf dunia. Dengan penggayaan dan susun atur laman yang teramat pantas, ciri JavaScript moden serta penambahbaikan prestasi yang tiada penghujung menjadikan pengguna kami kekal berpuas hati selain menjadikan teknologi internet sentiasa maju ke hadapan.
+
+# "Speedometer 3" is a brand name
+# Variables
+#   $url1 (url) - link to /firefox/features/fast/
+#   $url2 (url) - link to https://github.com/WebKit/Speedometer/
+#   $url3 (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+compare-index-firefox-engineers-focus-on-improving = Para jurutera { -brand-name-firefox } memberi fokus dalam meningkatkan prestasi serta kebolehresponsif memberikan <a { $url1 }>pengalaman berlayar yang pantas</a> yang membantu anda mencari apa yang anda perlukan dengan cepat dan melaksanakan apa jua tugasan tanpa kesulitan. Kami telah berkolaborasi dengan kumpulan pembangun pelayar yang lain di dalam satu projek yang dipanggil <a { $url2 }>Speedometer 3</a>, satu penanda aras prestasi piawaian industri yang memberi manfaat kepada semua pelayar web serta internet secara amnya. Ini telah menjurus kepada <a { $url3 }>penaiktarafan yang signifikan kepada pengguna { -brand-name-firefox }</a> dengan kelajuan yang boleh dipercayai, termasuk muatan laman yang lebih pantas dan interaksi yang lebih lancar.
+
+# Variables:
+#   $download (url) - link to /firefox/new/
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } mengambil berat tentang internet maka kami mengalu-alukan persaingan. Apabila pelayar lain membuat pelaburan untuk bersaing dengan prestasi { -brand-name-firefox }, ini memanfaatkan pengguna mereka serta misi kami. Dan { -brand-name-firefox } mampu bersaing dengan kesemua mereka: kami menggalakkan pengguna pelayar lain untuk <a { $download }>memuat turun { -brand-name-firefox }</a> dan saksikan kepantasannya sendiri.
