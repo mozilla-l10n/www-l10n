@@ -39,8 +39,10 @@ firefox-for-windows = 64 bit { -brand-name-windows } için { -brand-name-firefox
 we-worry-about = Veri güvenliğinizi siz kafaya takmayın diye biz takıyoruz.
 # Obsolete string
 seven-of-the = En iyi yedi tarayıcıyı karşılaştırdık
+six-of-the-best = En iyi altı tarayıcıyı karşılaştırdık
 # Obsolete string
 we-compare-firefox = Karar vermenize yardımcı olması için { -brand-name-firefox }’u { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ve { -brand-name-ie } ile karşılaştırdık.
+we-compare-firefox-v2 = Karar vermenize yardımcı olması için { -brand-name-firefox } tarayıcısını Chrome, Edge, Safari, Opera ve Brave ile karşılaştırdık.
 comparing-firefox-chrome = { -brand-name-firefox-browser } ile { -brand-name-google } { -brand-name-chrome } karşılaştırması
 big-isnt-always = Büyük olan iyi olacak diye bir şey yok. Bağımsız olanı seçin.
 comparing-firefox-brave = { -brand-name-firefox-browser } ile { -brand-name-brave } karşılaştırması

@@ -11,6 +11,7 @@ home-mission-driven = Gücümüzü insanlıktan alıyoruz.
 home-were-not-normal = Biz bildiğiniz teknoloji şirketlerinden değiliz. Geliştirdiğimiz her şeyde paradan ziyade insanlığa ve insanların gizliliğine öncelik veriyoruz. Biz, interneti herkes için daha sağlıklı ve mutlu bir yere dönüştürmek için varız.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Varlığımızın yegâne amacı, internetin ve çevrimiçi yaşamın sağlığını korumak.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO’su
 home-mozilla-makes-privacy = { -brand-name-mozilla } gizliliğe saygı duyan ürünler geliştirir
 home-product-firefox-browsing = Gizli ve güvenli gezinti
@@ -21,6 +22,7 @@ home-product-relay-masks = Kullanımı kolay e-posta ve telefon maskeleri
 home-cta-get-relay = { -brand-name-relay }’i deneyin
 home-product-vpn-trust = Güvenebileceğiniz bir VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn }’i edinin
+home-product-monitor-data = Veri ihlali uyarıları
 home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile de iş yapılabileceğini dünyaya göstermekle kararlı. Bu amaçla, bu karmaşık sistemlerin işleyişinin merkezine insan hakları, veri gizliliği ve şeffaflık gibi konuları koymak istiyor.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

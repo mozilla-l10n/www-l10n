@@ -28,6 +28,7 @@ vpn-features-connect-up-to =
        *[other] { $devices } cihaz bağlayabilme imkânı
     }
 vpn-features-supported-platforms = Windows, macOS, Android, iOS ve Linux işletim sistemlerinde desteklenir.
+vpn-features-no-bandwidth = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-features-fast-network = Oyun oynarken bile yüksek hızda bağlantı
 vpn-features-secure = Güvenli
 vpn-features-block-ads = Reklamverenlerin sizi hedeflemesini engelleyin
@@ -49,3 +50,4 @@ vpn-features-reviewed-by-third = Üçüncü taraf güvenlik uzmanları tarafınd
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Önde gelen siber güvenlik denetim firması Cure53 tarafından denetlendik. <a { $report }>Raporu burada görebilirsiniz</a>.
+vpn-features-people-over-profits = Para için değil, insanlık için
