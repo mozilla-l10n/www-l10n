@@ -9,7 +9,7 @@
 vpn-ip-address-what-is-an-ip-address = ¿Mba’épa IP kundaharape?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } ombohovái ne porandu IP kundaharape rehegua pe IP kundaharapete guive, mba’éichapa oku’e guive ha eñomisépa.
-vpn-ip-address-every-time-you = Eike vovénte ñandutípe, umi IP kundaharenda tuichamba’e marandu jeju ha jehópe g̃uarã nepytyvõ hag̃ua ehechávo umi tenda ejeruréva. Upéicharamo jepe, ikatu ndereikuaái mba’épa upéva, upévare rombohovaipaite umi oñeporanduvéva ko’ág̃aite guive oikóva.
+vpn-ip-address-every-time-you = Eike vovénte ñandutípe, umi IP kundaharape tuichamba’e marandu jeju ha jehópe g̃uarã nepytyvõ hag̃ua ehechávo umi tenda ejeruréva. Upéicharamo jepe, ikatu ndereikuaái mba’épa upéva, upévare rombohovaipaite umi oñeporanduvéva ko’ág̃aite guive oikóva.
 vpn-ip-address-your-ip-address = Nde IP kundaharape jekuaaukaha ha’eñóva, ha’eháica avei pe ñandutiveve, ojuajúva ne rembiapo ñanduti peguáre. Eiporu vove ñanduti (emba’ejoguávo ñanduti rupive, emondo ñanduti veve, ehecha ta’ãngambyry), ejerurehína eike hag̃ua peteĩ ñanduti renda ha’etévape, ha og̃uahẽta ndéve marandu mbohováiramo. ¿Mba’éicha omba’apo? Ajépa, IP he’ise "Protocolo de Internet", oguenohẽva tekoguatarã ha mbojojaha (añete, avei ojekuaáva taperekoitéramo) omboguata mba’ekuaarã ha oikéma ñandutípe. Ko taperekoite ha’e mbojojaha aty oikotevẽva peteĩteĩ pehẽ omoneĩ hag̃ua mba’ekuaarã ñembohape ohoseha gotyo.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Peteĩ techapyrã IP kundaharape oguerekóva irundy papapy, ojeíva ojuehegui kyta rupive: 123.45.67.89
@@ -29,7 +29,7 @@ vpn-ip-address-can-we-run = ¿Ikatúpa opa?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Oñemoheñóiramoguare Ñanduti ñepyrũrãite, oiporuva’ekue kundaharape “versión 4”. Ha’éva 32 bits, he’iséva ojeguerekokuaaha <a href="{ $sr }">4.200.000.000 kundaharape</a>. Kóva ha’ete ku tuicháva upérõguare, hákatu ndahetái peteĩ arapy ojeporuhápe EE. UU. retãme <a href="{ $variety }">11 mba’e’oka hendyhápe</a>.
-vpn-ip-address-we-now-have = Ko’ág̃a roreko IP kundaharenda 6 ichguáva, orekóva 128 bits peteĩva kundaharenda. Rombyasýrõ jepe, 4 ha 6 ichagua noñe’ẽkuaái oñondive, upévare opavave oikotevẽta kundaharenda 4 ichguáva heta ára gueteri.
+vpn-ip-address-we-now-have = Ko’ág̃a roreko IP kundaharape 6 ichguáva, orekóva 128 bits peteĩva kundaharape. Rombyasýrõ jepe, 4 ha 6 ichagua noñe’ẽkuaái oñondive, upévare opavave oikotevẽta kundaharape 4 ichguáva heta ára gueteri.
 vpn-ip-address-should-you-hide = ¿Oñomikuaápa IP kundaharape?
 # Variables
 #   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
