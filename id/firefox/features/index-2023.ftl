@@ -10,7 +10,13 @@ features-index-firefox-browser-features = Fitur peramban { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } adalah peramban yang cepat, ringan, dan berfokus pada privasi yang bekerja di seluruh perangkat Anda.
 
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } semakin cepat
+features-index-the-latest-browser-speed-benchmarks = Standar kecepatan peramban terbaru membuktikan bahwa { -brand-name-firefox } kini semakin cepat.
+
+# Obsolete string
 features-index-is-firefox-a-fast-browser = Apakah { -brand-name-firefox } peramban yang cepat?
+
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } menggunakan lebih sedikit memori dibandingkan Chrome, sehingga program lain dapat terus berjalan dengan kecepatan tinggi.
 features-index-is-firefox-a-private-browser = Apakah { -brand-name-firefox } peramban yang pribadi?
 features-index-were-focused-on-your-right-to = Kami berfokus pada hak Anda akan privasi. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
