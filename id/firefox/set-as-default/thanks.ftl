@@ -34,6 +34,8 @@ set-as-default-thanks-join-firefox = Bergabunglah dengan { -brand-name-firefox }
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Daftar untuk mendapatkan akun gratis dan sinkronkan semua kata sandi, riwayat penjelajahan, dan preferensi di semua perangkat Anda.
 
+set-as-default-create-an-account = Buat akun
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Daftar untuk mendapatkan { -brand-name-mozilla-account } gratis dan sinkronkan semua kata sandi, riwayat penjelajahan, dan preferensi di semua perangkat Anda.
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Dapatkan Akun
