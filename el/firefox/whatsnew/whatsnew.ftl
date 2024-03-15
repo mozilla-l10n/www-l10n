@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = Τι νέο υπάρχει στο { -brand-name-firefox
 whatsnew-page-title = Τι νέο υπάρχει στο { -brand-name-firefox } - Περισσότερο απόρρητο και προστασία
 whatsnew-page-description = Αντισταθείτε σε μια βιομηχανία που πουλά τα δεδομένα σας σε τρίτους. Παραμείνετε ασφαλείς στο διαδίκτυο με την τεχνολογία που μάχεται για εσάς.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Το { -brand-name-firefox } σας έχει ενημερωθεί.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Διαβάστε τις <a { $url }>Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox } σας.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Διαβάστε τις <a href="{ $url }">Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox } σας.
