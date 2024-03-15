@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-firefox-keeps-getting-faster = O { -brand-name-firefox } continua ficando cada vez mais rápido
 features-fast-how-is-browser-speed-measured = Como é medida a velocidade do navegador?
 features-fast-faster-every-day = Mais rápido a cada dia
