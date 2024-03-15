@@ -13,7 +13,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = 您的 { -brand-name-firefox } 已更新。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = 阅读<a { $url }>发行说明</a>详细了解您的 { -brand-name-firefox } 浏览器的新变化。
+whatsnew-release-notes-v2 = 阅读<a { $url }>发行说明</a>，详细了解 { -brand-name-firefox } 浏览器的新变化。
 # Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
