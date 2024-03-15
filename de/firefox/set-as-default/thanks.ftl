@@ -34,6 +34,8 @@ set-as-default-thanks-join-firefox = Komm zu { -brand-name-firefox }
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Erstelle ein kostenloses Konto und synchronisiere Passwörter, Chronik und Einstellungen auf allen deinen Geräten.
 
+set-as-default-create-an-account = Konto erstellen
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Erstelle ein kostenloses { -brand-name-mozilla-account } Konto und synchronisiere Passwörter, Chronik und Einstellungen auf allen deinen Geräten.
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Konto erstellen
