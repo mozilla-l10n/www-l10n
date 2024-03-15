@@ -34,6 +34,8 @@ set-as-default-thanks-join-firefox = { -brand-name-firefox } से जुड़
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = एक निःशुल्क एकाउंट के लिए साइन अप करें और अपनी सभी डिवाइस पर पासवर्ड, ब्राउज़िंग इतिहास और वरीयताएँ सिंक करें।
 
+set-as-default-create-an-account = एक खाता बनाएं
+set-as-default-thanks-sign-up-for-a-free-account-v2 = मुफ़्त { -brand-name-mozilla-account } के लिए साइन अप करें और अपने सभी डिवाइसों पर अपने सारे पासवर्ड, ब्राउज़िंग हिस्ट्री तथा वरीयताएं सिंक करें।
 
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = एक एकाउंट बनाएँ
