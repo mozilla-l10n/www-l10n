@@ -10,7 +10,13 @@ features-index-firefox-browser-features = Fonctionnalités du navigateur { -bran
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } est le navigateur rapide, léger et respectueux de la vie privée qui fonctionne sur tous vos appareils.
 
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } est de plus en plus rapide
+features-index-the-latest-browser-speed-benchmarks = Les dernières mesures de référence de la vitesse des navigateurs prouvent que { -brand-name-firefox } est plus rapide que jamais.
+
+# Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } est-il un navigateur rapide ?
+
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } utilise moins de mémoire que Chrome, afin que vos autres programmes puissent continuer de fonctionner à leur vitesse maximale.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } est-il un navigateur qui protège ma vie privée ?
 features-index-were-focused-on-your-right-to = Votre droit à la vie privée est au cœur de notre mission. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
