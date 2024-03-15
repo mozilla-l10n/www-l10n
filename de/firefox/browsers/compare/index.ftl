@@ -51,3 +51,17 @@ compare-index-browsers-have-come-a-long = Browser haben sich seit dem Launch und
 compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } wird von der gemeinnützigen Organisation { -brand-name-mozilla } unterstützt.
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } stellt den Schutz Ihrer Daten an erste Stelle – in allem, was wir tun. Wir glauben, dass Sie ein Recht darauf haben zu entscheiden, wie und mit wem Sie Ihre privaten Daten teilen. { -brand-name-firefox } sammelt so wenige Daten wie möglich und verkauft sie nie. Die wenigen Daten, die wir erheben, dienen ausschließlich der Verbesserung unserer Produkte und Funktionen. Keine Geheimnisse. Aber viel Transparenz und echter Datenschutz.
 compare-index-based-on-the-criteria-we-outlined = Basierend auf den beschriebenen Kriterien – Datenschutz, Funktionalität und Portabilität – gibt es wirklich nur einen Browser, der alle Anforderungen erfüllt, und das ist { -brand-name-firefox }. Dabei liegt der Hauptunterschied nicht in seiner Funktionalität sondern im Datenschutz. { -brand-name-firefox } ist der privateste Browser, der nicht an bestimmte Geräte gekoppelt ist. Sie können ihn mit jedem Betriebssystem, auf allen Ihren Geräten nutzen und sich dabei sicher fühlen.
+
+compare-index-how-well-does-firefox-perform = Wie gut ist { -brand-name-firefox }?
+compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } läuft über die Engine { -brand-name-gecko }, mit schockierend schnellem Styling und Page-Layout, modernen JavaScript-Funktionen und einem ewig rollenden Drumbeat neuer Leistungsverbesserungen, die unsere User*innen zufriedenstellen und die gesamte Web-Plattform pushen sollen.
+
+# "Speedometer 3" is a brand name
+# Variables
+#   $url1 (url) - link to /firefox/features/fast/
+#   $url2 (url) - link to https://github.com/WebKit/Speedometer/
+#   $url3 (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+compare-index-firefox-engineers-focus-on-improving = Dabei konzentrieren die Techniker*innen bei { -brand-name-firefox } sich auf die Verbesserung der Leistung und Reaktion und liefern ein <a { $url1 }>schnelles Surf-Erlebnis,</a> damit du schnell findest, was du brauchst und reibungslos alles Nötige erledigen kannst. Wir haben mit Teams anderer Browser-Macher an einem Projekt namens <a { $url2 }>Speedometer 3</a> gearbeitet, einer dem Branchenstandard entsprechenden Leistungs-Benchmark, die allen Browsern und dem gesamten offenen Web zugute kommt. Dies hat zu <a { $url3 }>riesigen Verbesserungen für { -brand-name-firefox } User*innen</a> geführt, mit spürbarer Geschwindigkeit, schnellerem Laden von Seiten und reibungsloseren Interaktionen.
+
+# Variables:
+#   $download (url) - link to /firefox/new/
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } liegt das Internet am Herzen. Deshalb begrüßen wir Wettbewerb. Wenn andere Browser sich gezwungen sehen, Investitionen zu tätigen, um mit { -brand-name-firefox } in Sachen Leistung mithalten zu können, ist das toll für ihre User*innen und super für unsere Mission. Und { -brand-name-firefox } ist allen gewachsen: Wir fordern alle dazu auf, die einen anderen Browser nutzen, <a { $download }>{ -brand-name-firefox } herunterzuladen</a> und sich selbst zu überzeugen.
