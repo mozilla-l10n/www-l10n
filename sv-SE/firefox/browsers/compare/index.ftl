@@ -44,3 +44,12 @@ compare-index-firefox-puts-your-privacy = { -brand-name-firefox } sätter din in
 compare-index-based-on-the-criteria-we-outlined = Baserat på kriterierna som vi beskrev — integritet, användbarhet och portabilitet — finns det egentligen bara en webbläsare som uppfyller kraven och det är { -brand-name-firefox }. Det verkliga skillnaden ligger inte i funktionalitet, utan i integriteten. { -brand-name-firefox } är den mest privata webbläsaren som inte låser dig i ett ekosystem. Använd den på alla operativsystem, på alla dina enheter och känn dig säker när du gör det.
 compare-index-how-well-does-firefox-perform = Hur bra presterar { -brand-name-firefox }?
 compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } drivs av den förstklassiga { -brand-name-gecko }-motorn, med chockerande snabb styling och sidlayout, moderna JavaScript-funktioner och en aldrig sinande puls av nya prestandaförbättringar för att hålla våra användare nöjda och driva hela webbplattformen framåt.
+# "Speedometer 3" is a brand name
+# Variables
+#   $url1 (url) - link to /firefox/features/fast/
+#   $url2 (url) - link to https://github.com/WebKit/Speedometer/
+#   $url3 (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+compare-index-firefox-engineers-focus-on-improving = { -brand-name-firefox }:s ingenjörer fokuserar på att förbättra prestanda och lyhördhet och levererar en <a { $url1 }>snabb surfupplevelse</a> som hjälper dig att hitta vad du behöver snabbt och få saker gjorda utan friktion. Vi har samarbetat med team från andra webbläsartillverkare i ett projekt som kallas <a { $url2 }>Speedometer 3</a>, ett prestandariktmärke som gynnar alla webbläsare och hela den öppna webben. Detta har lett till <a { $url3 }>stora förbättringar för { -brand-name-firefox }-användare</a> med en hastighet du verkligen kan känna, inklusive snabbare sidladdningar och smidigare interaktioner.
+# Variables:
+#   $download (url) - link to /firefox/new/
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } bryr sig om webben så vi välkomnar konkurrens. När andra webbläsare måste göra investeringar för att konkurrera med { -brand-name-firefox } när det gäller prestanda, är det bra för deras användare och bra för vårt uppdrag. Och { -brand-name-firefox } står upp mot dem alla: vi uppmuntrar alla som använder en annan webbläsare att <a { $download }>hämta { -brand-name-firefox }</a> och se själv.

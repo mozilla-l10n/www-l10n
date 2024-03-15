@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = { -brand-name-firefox } webbläsarfunktioner
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } är den snabba, lätta, sekretessfokuserade webbläsaren som fungerar på alla dina enheter.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } blir hela tiden snabbare
+features-index-the-latest-browser-speed-benchmarks = De senaste mätvärdena för webbläsarens hastighet bevisar att { -brand-name-firefox } är snabbare än någonsin.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = Är { -brand-name-firefox } en snabb webbläsare?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } använder mindre minne än Chrome, så dina andra program kan fortsätta köras med högsta hastighet.
 features-index-is-firefox-a-private-browser = Är { -brand-name-firefox } en privat webbläsare?
 features-index-were-focused-on-your-right-to = Vi fokuserar på din rätt till integritet. Din data, din webbaktivitet, ditt liv online skyddas med { -brand-name-firefox }.
