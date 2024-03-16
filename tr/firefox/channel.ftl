@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-ios } iç
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-ios } için { -brand-name-firefox }’un beta sürümlerini { -brand-name-apple }’ın { -brand-name-test-flight } programıyla test edin.
 firefox-channel-sign-up-now = Kaydolun
+firefox-channel-nightly-update-one-or-more-times = Not: { -brand-name-firefox-nightly } genellikle günde bir veya iki kere güncellenir.
