@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = Có gì mới với { -brand-name-firefox }
 whatsnew-page-title = Có gì mới với { -brand-name-firefox } - Bảo mật hơn, bảo vệ nhiều hơn.
 whatsnew-page-description = Hãy phản kháng những ngành bán dữ liệu của bạn cho bên thứ ba. Hãy sử dụng một cách thông minh và an toàn loại công nghệ biết đấu tranh vì bạn.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = { -brand-name-firefox } của bạn đã được cập nhật.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Hãy đọc <a { $url }>ghi chú phát hành</a> để biết thêm về những gì mới trong trình duyệt { -brand-name-firefox } của bạn.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Đọc <a href="{ $url }">ghi chú phát hành</a> để cập nhật thông tin trong trình duyệt { -brand-name-firefox } của bạn.

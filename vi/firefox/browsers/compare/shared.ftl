@@ -11,8 +11,6 @@ compare-shared-yes = Có
 compare-shared-no = Không
 compare-shared-private-browsing-mode = Chế độ duyệt web riêng tư
 compare-shared-blocks-third-party-tracking-default = Chặn cookie theo dõi của bên thứ ba theo mặc định
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Chặn cookie theo dõi của bên thứ ba
 compare-shared-blocks-cryptomining-scripts = Chặn các tập lệnh khai thác tiền điện tử
 compare-shared-blocks-fingerprinting-scripts = Chặn các tập lệnh in dấu vết (fingerprinting)
 compare-shared-blocks-social-trackers = Chặn các trình theo dõi xã hội
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Hệ điều hành di động khả dụ
 compare-shared-syncs-with-mobile = Đồng bộ với di động
 compare-shared-password-management = Quản lý mật khẩu
 compare-shared-primary-password = Mật khẩu chính
-# Obsolete string
-compare-shared-master-password = Mật khẩu chính
 compare-shared-security-and-privacy = Bảo mật và riêng tư
 compare-shared-utility = Tiện ích
 compare-shared-portability = Tính di động
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Bảo mật và <strong>riêng tư</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Tiện ích</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Tính di động</strong>
 compare-shared-overall-assessment = Đánh giá tổng thể
 compare-shared-the-comparisons-made-here-updated = Các so sánh ở đây được thực hiện với cài đặt mặc định và trên các phiên bản phát hành của trình duyệt sau:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Các so sánh được thực hiện ở đây đã được thực hiện trên các trình duyệt phiên bản chính thức sau:
 compare-shared-this-page-updated-semi-quarterly = Trang này được cập nhật nửa quý để phản ánh phiên bản mới nhất và có thể không phải lúc nào cũng phản ánh các cập nhật mới nhất.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Máy tính để bàn
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = So sánh trình duyệt
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Hiệu suất</strong>

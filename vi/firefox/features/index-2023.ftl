@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = Các tính năng của trình duyệt { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } là trình duyệt nhanh, nhẹ, tập trung vào quyền riêng tư, hoạt động trên tất cả các thiết bị của bạn.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } không ngừng nhanh hơn
+features-index-the-latest-browser-speed-benchmarks = Benchmark tốc độ trình duyệt mới nhất chứng minh { -brand-name-firefox } nhanh hơn bao giờ hết.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } có phải là trình duyệt nhanh?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } sử dụng ít bộ nhớ hơn Chrome nên các chương trình khác của bạn có thể tiếp tục chạy ở tốc độ cao nhất.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } có phải là trình duyệt riêng tư?
 features-index-were-focused-on-your-right-to = Chúng tôi tập trung vào quyền riêng tư của bạn. Dữ liệu của bạn, hoạt động trên web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
