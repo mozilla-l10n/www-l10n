@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
-# Obsolete string
-vpn-landing-hero-sub-heading = Sikkerheit du kan stole på. Eit namn du kan stole på.
 vpn-landing-brand-trust-heading = Eit VPN frå eit merke du kan stole på
 
 ## FAQ section
@@ -14,8 +12,11 @@ vpn-landing-brand-trust-heading = Eit VPN frå eit merke du kan stole på
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-required-label = Påkravd
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = namnetditt@eksempel.com
+vpn-landing-invite-country-label = Kva land bur du i?
+vpn-landing-invite-language-label = Vel ønskt språk.
 
 ##
 

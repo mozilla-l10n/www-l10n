@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
-vpn-landing-what-is-an-ip-address = Kva er ei IP-addresse?
+vpn-landing-what-is-an-ip-address = Kva er ei IP-adresse?
