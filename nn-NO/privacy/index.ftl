@@ -33,4 +33,7 @@ privacy-index-to-review-and-comment-on-proposed = For å granske og kommentere f
 privacy-index-read-more-about-our-ongoing = Les meir om det fortløpande arbeidet vårt med sikkerheit- og ivaretaking av personvern i <a href="{ $blog }">bloggen for { -brand-name-mozilla }'s Open Policy and Advocacy</a>.
 privacy-index-outdated-policies = Utdaterte praksisar
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } nettstadar, kommunikasjon og infokapslar
+privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } for Amazon «{ -brand-name-fire-tv }»
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-hubs = { -brand-name-mozilla-hubs }

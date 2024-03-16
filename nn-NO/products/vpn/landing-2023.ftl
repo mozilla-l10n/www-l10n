@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/sync/
+### URL: https://www-dev.allizom.org/products/vpn/
 
-firefox-sync-firefox-sync = { -brand-name-firefox-sync }
-firefox-sync-feel-safe = Kjenn deg trygg
+vpn-landing-what-is-an-ip-address = Kva er ei IP-addresse?
