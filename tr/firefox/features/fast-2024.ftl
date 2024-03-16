@@ -7,4 +7,5 @@
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } hızlanmaya devam ediyor
 features-fast-how-is-browser-speed-measured = Tarayıcı hızı nasıl ölçülür?
+features-fast-faster-every-day = Her gün daha da hızlı
 features-fast-towards-a-faster-web = Daha hızlı bir web’e doğru

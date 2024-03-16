@@ -26,6 +26,7 @@ set-as-default-thanks-download-the-app = Uygulamayı indir
 set-as-default-thanks-join-firefox = { -brand-name-firefox }’a katılın
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Ücretsiz bir hesap açarak tüm parolalarınızı, gezinti geçmişinizi ve tercihlerinizi cihazlarınız arasında eşitleyebilirsiniz.
+set-as-default-create-an-account = Hesap oluştur
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Ücretsiz bir { -brand-name-mozilla-account } açarak tüm parolalarınızı, gezinti geçmişinizi ve tercihlerinizi cihazlarınız arasında eşitleyebilirsiniz.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Hesap açın
