@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = Novinky vo { -brand-name-firefox(case: "loc") }
 whatsnew-page-title = Novinky vo { -brand-name-firefox(case: "loc") } - viac súkromia, viac ochrany.
 whatsnew-page-description = Postavte sa proti spoločnostiam, ktoré predávajú vaše údaje tretím stranám. Používajte technológiu, ktorá za vás bojuje.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Váš prehliadač { -brand-name-firefox } bol aktualizovaný.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Prečítajte si <a { $url }>poznámky k vydaniu</a>, kde nájdete ďalšie informácie o novinkách vo { -brand-name-firefox(case: "loc") }.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Prečítajte si <a href="{ $url }">poznámky k vydaniu</a> a získajte viac informácií o novinkách vo { -brand-name-firefox(case: "loc") }.
