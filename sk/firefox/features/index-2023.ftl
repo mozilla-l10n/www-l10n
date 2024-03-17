@@ -10,7 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } a jeho funkcie
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je rýchly a jednoduchý prehliadač zameraný na ochranu súkromia, ktorý funguje na všetkých vašich zariadeniach.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } je stále rýchlejší
-features-index-the-latest-browser-speed-benchmarks = Najnovšie testy rýchlosti prehliadačov dokazujú, že { -brand-name-firefox } je rýchlejší ako kedykoľvek predtým.
+features-index-the-latest-browser-speed-benchmarks = Najnovšie testy rýchlosti prehliadačov dokazujú, že { -brand-name-firefox } je rýchlejší než kedykoľvek predtým.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Je { -brand-name-firefox } rýchlym prehliadačom?
 # Obsolete string
