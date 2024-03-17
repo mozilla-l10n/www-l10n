@@ -30,5 +30,5 @@ vpn-mac-devices-headline = Chráňte { $devices } zariadení jedným predplatný
 vpn-mac-devices-copy = Váš počítač, tablet a smartfón si zaslúžia byť v bezpečí. Použite { -brand-name-mozilla-vpn } na ochranu až { $devices } zariadení { -brand-name-mac-short } a { -brand-name-ios } (okrem { -brand-name-windows }, { -brand-name-linux } a { -brand-name-android }).
 vpn-mac-speed-headline = Netreba obetovať rýchlosť
 vpn-mac-speed-copy = Neobmedzené dáta a žiadne obmedzenia šírky pásma znamenajú, že môžete objavovať zákutia internetu ako obvykle – s extra úrovňou zabezpečenia.
-vpn-mac-log-headline = To, čo robíte online, je vaša vec
+vpn-mac-log-headline = Čo robíte na internete je len vaša vec
 vpn-mac-log-copy = Užite si pokoj, keď používate { -brand-name-mozilla-vpn }. Vaše údaje sú šifrované, vaša aktivita sa nikdy nezaznamenáva a vaše súkromie je vždy chránené. To je náš prísľub vám.
