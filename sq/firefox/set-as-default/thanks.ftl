@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,12 @@ set-as-default-thanks-youre-all-set = E rregulluat.
 set-as-default-thanks-get-firefox-for-mobile = Merrni { -brand-name-firefox }-in për celular
 set-as-default-thanks-travel-the-internet-with = Udhëtoni në internet me mbrojtje në krejt pajisjet tuaja.
 set-as-default-thanks-download-the-app = Shkarkoni aplikacionin
+# Obsolete string
 set-as-default-thanks-join-firefox = Bëhuni pjesë e { -brand-name-firefox }-it
+# Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Regjistrohuni për një llogari falas dhe njëkohësoni krejt fjalëkalimet tuaj, historik shfletimesh dhe parapëlqime, në krejt pajisjet tuaja.
+set-as-default-create-an-account = Krijoni një llogari
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Regjistrohuni për një { -brand-name-mozilla-account } falas dhe njëkohësoni krejt fjalëkalimet tuaj, historik shfletimesh dhe parapëlqime, në krejt pajisjet tuaja.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Merrni një Llogari
 set-as-default-thanks-having-trouble = Po keni probleme?

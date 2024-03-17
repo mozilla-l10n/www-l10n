@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = Veçori të shfletuesit { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }-i është shfletuesi i shpejtë, i peshës së lehtë, i përqendruar te privatësia, që funksionon nëpër krejt pajisjet tuaja.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox }-i vazhdon të bëhet më i shpejtë
+features-index-the-latest-browser-speed-benchmarks = Bankëprova më e re për shpejtësi shfletuesish provon se { -brand-name-firefox }-i është më i shpejtë se kurrë.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = A është { -brand-name-firefox }-i një shfletues i shpejtë?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox }-i përdor më pak kujtesë se sa Chrome-i, që kështu programet tuaj të tjerë të mund të xhirojnë me shpejtësinë maksimale.
 features-index-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?
 features-index-were-focused-on-your-right-to = Përqendrohemi te e drejta juaj për privatësi.  Të dhënat tuaja, veprimtaria juaj në web, jeta juaj internetore është e mbrojtur me { -brand-name-firefox }.
