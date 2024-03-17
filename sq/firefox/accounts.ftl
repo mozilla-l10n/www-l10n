@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Merrni një { -brand-name-mozilla-account } – Mbajini të dhënat tuaja private, të parrezik dhe të njëkohësuara
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Merrni një { -brand-name-firefox-account } - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Njëkohësi në mënyrë të siguruar fjalëkalimet tuaj, faqerojtësit dhe skedat, nëpër krejt pajisjet. Merrni që tani një { -brand-name-firefox-account } – Një palë kredenciale hyrjeje – Pushtet dhe privatësi kudo.
+# HTML page description
+mozilla-accounts-securely-sync-your = Njëkohësoni në mënyrë të siguruar fjalëkalimet, faqerojtësit dhe skedat nëpër krejt pajiset tuaja. Merrni tani një { -brand-name-mozilla-account } – Një palë kredenciale hyrjeje – Fuqi dhe privatësi kudo.
 firefox-accounts-enter-your-email-address = Jepni adresën tuaj email, që t’ia filloni.
 firefox-accounts-already-have-an-account = Keni tashmë një llogari?
 firefox-accounts-sign-in = Hyni
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Hyni
 firefox-accounts-already = Keni tashmë një { -brand-name-firefox-account }. Përgëzime!
 mozilla-accounts-already = Keni tashmë një { -brand-name-mozilla-account }. Përgëzime!
 firefox-accounts-manage = Administroni llogarinë tuaj
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Bëni hyrjen te { -brand-name-mozilla-account } e juaj që të:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Dërgoni një skedë</a> te nj
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Ruani dhe njëkohësoni fjalëkalime</a>
 firefox-accounts-get-email-alerts = Merrni sinjalizime me email, kur hollësitë tuaja shfaqen te një cenim i ditur të dhënash
-# Obsolete string
-firefox-accounts-see-if-youve-been = Shihni nëse jeni përfshirë në një cenim të dhënash në internet.
 firefox-accounts-protect-your-identity = Mbroni identitetin tuaj me maskim të siguruar telefonash dhe email-esh
 firefox-accounts-keep-your-passwords = Mbajini fjalëkalimet tuaja të mbrojtur dhe me vete.
 firefox-accounts-get-a-lookout-for = Merrni njoftime mbi cenim të dhënash.
