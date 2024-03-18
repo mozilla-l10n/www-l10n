@@ -52,4 +52,4 @@ compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } 由世�
 compare-index-firefox-engineers-focus-on-improving = { -brand-name-firefox } 工程师致力于提升浏览器的性能和响应速度，带来<a { $url1 }>高速的浏览体验</a>，帮助用户快速搜集信息，高效搞定工作。我们与其他浏览器开发商的团队合作开展了 <a { $url2 }>Speedometer 3</a> 项目，这是业界标准的性能基准测试，所有浏览器以及整个开放网络都能从中受益。{ -brand-name-firefox } 用户同样可以通过更快的页面加载、更顺畅的交互体验，切身感受到这项成果带来的<a { $url3 }>巨大提升</a>。
 # Variables:
 #   $download (url) - link to /firefox/new/
-compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } 关怀网络，因此欢迎竞争。当其他浏览器必须花钱与 { -brand-name-firefox } 在性能上竞争时，这对他们的用户和我们的使命都很好。 { -brand-name-firefox } 能与这些浏览器抗衡：我们鼓励所有使用其他浏览器的人<a { $download }>下载 { -brand-name-firefox }</a> 并亲自体验一下。
+compare-index-mozilla-cares-about-the-web-so = { -brand-name-mozilla } 关怀网络，因此欢迎竞争。如果其他浏览器必须投入资金来与 { -brand-name-firefox } 比拼性能，那么对它们的用户和我们的使命都有好处，而 { -brand-name-firefox } 同样会持续进步，追求卓越。其他浏览器的用户也不妨<a { $download }>下载 { -brand-name-firefox }</a>，亲身体验一下。
