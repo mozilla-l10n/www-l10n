@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+# HTML description
+features-fast-firefox-is-faster-than-ever = { -brand-name-firefox } 的速度更胜以往。您可以通过更快的页面加载，以及更顺畅的交互体验，切身感受到这阵速度。
 features-fast-how-is-browser-speed-measured = 如何衡量浏览器速度？
 features-fast-speedometer-is-the-most-widely = Speedometer 是使用最广泛的测量 Web 应用程序响应能力的浏览器性能基准测试。尽管市场上还有其他浏览器基准测试，但 Speedometer 3 是我们衡量浏览速度的新标准。最新的测试更好地反映了当今的网络——处理视觉丰富的图表、编辑文本、与新闻网站等复杂繁杂的网页交互——它测量的是浏览器性能的全貌。
 features-fast-the-new-speedomer-3-benchmark = 全新的 Speedometer 3 基准测试是与主流浏览器合作推出的首个基准测试，旨在使整个网络受益。
