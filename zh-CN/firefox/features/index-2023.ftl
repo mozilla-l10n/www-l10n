@@ -10,7 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } 浏览器特�
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } 是一款快速、轻量、注重隐私的浏览器，全平台可用。
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } 速度节节高
-features-index-the-latest-browser-speed-benchmarks = 最新的浏览器速度基准测试证明 { -brand-name-firefox } 比以往更快。
+features-index-the-latest-browser-speed-benchmarks = 最新的浏览器速度基准测试证明 { -brand-name-firefox } 的速度再创新高。
 # Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } 速度快吗？
 # Obsolete string
