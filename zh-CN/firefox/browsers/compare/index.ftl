@@ -43,7 +43,7 @@ compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } 由非营�
 compare-index-firefox-puts-your-privacy = { -brand-name-firefox } 始终将您的隐私置于首位 — 我们说到做到。我们相信，您有权决定要与谁、以如何方式共享自己的个人信息。{ -brand-name-firefox } 遵守数据收集最小化原则，并承诺永远不会出售您的数据。我们只收集为改进产品和功能所需的数据，绝不隐瞒，提供高透明度和真正的隐私。
 compare-index-based-on-the-criteria-we-outlined = 基于我们所述的标准 — 隐私、实用和跨平台 — 只有一个浏览器符合该标准，那就是 { -brand-name-firefox }。其实真正的不同并非功能，而是隐私。{ -brand-name-firefox } 是最私密的浏览器，它不会将你禁锢在某个生态系统中。在任何操作系统、所有设备上使用 { -brand-name-firefox }，安全可依赖。
 compare-index-how-well-does-firefox-perform = { -brand-name-firefox } 的性能如何？
-compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } 由世界一流的 { -brand-name-gecko } 引擎提供速度超快的样式和页面排版、现代 JavaScript 功能以及永无止境的性能改进，它不断满足用户的需求并推动整个网络平台的发展。
+compare-index-firefox-is-powered-by-the-world = { -brand-name-firefox } 由业界领先的 { -brand-name-gecko } 引擎提供速度超快的样式和页面排版、现代 JavaScript 功能以及永无止境的性能改进，它不断满足用户的需求并推动整个网络平台的发展。
 # "Speedometer 3" is a brand name
 # Variables
 #   $url1 (url) - link to /firefox/features/fast/
