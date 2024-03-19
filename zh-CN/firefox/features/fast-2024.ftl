@@ -19,4 +19,4 @@ features-fast-all-browsers-had-to-make = 所有浏览器都需要加以改进，
 features-fast-towards-a-faster-web = 奔向更快的网络
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>致力于</a>不断改进我们自己的浏览器以及整个网络。这也是我们投资合作开发的 Speedometer 3 的原因，而Speedometer 3 提升了所有浏览器的性能。无论您选择哪个浏览器，{ -brand-name-mozilla } 都希望它更快。
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>致力于</a>不断改进自己的浏览器，同时也心怀整个网络世界。为此，我们投资并合作开发了 Speedometer 3，该测试提升了所有浏览器的性能。因此无论您选用哪款浏览器，{ -brand-name-mozilla } 都是希望它越快越好。
