@@ -10,9 +10,11 @@ whatsnew-page-title-v2 = ¿Mba’e oĩ ipyahúva { -brand-name-firefox } ndive?
 whatsnew-page-title = Mba’épa ipyahumíva { -brand-name-firefox }-pe - Tekoñemive, ñemo’ãve.
 whatsnew-page-description = Eñemohatã apoharaguasu rovake ohepyme’ẽ ne mba’ekuaarã mbohapyhávape. Eiko nde jehegui ha tekorosãme ñandutípe tembiporupyahu ndeykeregua ndive.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 whatsnew-update-notification = Oñembohekopyahúma { -brand-name-firefox }.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
+# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Emoñe’ẽ <a href="{ $url }">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.

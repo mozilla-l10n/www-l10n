@@ -13,6 +13,7 @@ home-were-not-normal = Ore ndaha’éi mba’apohaguasu tembiporupyahuguareíva.
 home-the-health-of = “Ñanduti resãi ha ñeikundaha porã ha’e ore rekovesã.”
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } moakãhára
+home-mitchell-baker-v2 = Mitchell Baker, { -brand-name-mozilla-foundation } aty guasu moakãhára
 home-mozilla-makes-privacy = { -brand-name-mozilla } omoheñói apopyre omomba’éva tekoñemi
 home-product-firefox-browsing = Ñeikundaha iñemi ha hekorosãva
 home-cta-get-firefox = Erekóke { -brand-name-firefox }

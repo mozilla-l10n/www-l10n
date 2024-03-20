@@ -27,6 +27,7 @@ set-as-default-thanks-join-firefox = Ejuaju { -brand-name-firefox } rehe
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Eñemboheraguapy ereko hag̃ua mba’ete reíva ha embojuehe ñe’ẽñemíre, kundaha rembiasakue ha eguerohoryvéva opaite ne mba’e’okápe.
 set-as-default-create-an-account = Emoheñói mba’ete
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Eñemboheraguapy ereko hag̃ua { -brand-name-mozilla-account } reíva ha embojuehe ne ñe’ẽñemi, ñeikundaha rembiasakue ha erohoryvéva ne mba’e’okakuérape.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Emoheñói peteĩ mba’ete
 set-as-default-thanks-having-trouble = ¿Eguerekópa apañuãi?

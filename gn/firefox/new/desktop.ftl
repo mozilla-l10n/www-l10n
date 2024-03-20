@@ -135,6 +135,9 @@ firefox-desktop-download-as-the-internet = Ñanduti okakuaave ha iñambuévo, { 
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } eiporu opaite mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Opamba’e eikotevẽva ha’e <a { $attrs }>{ -brand-name-firefox } mba’ete</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } eiporukuaa opaite ne mba’e’okápe; eraha tendayke, tembiasakue ha techaukaha nendive. Pe eikotevẽva ha’e <a { $attrs }>{ -brand-name-mozilla-account }</a> ha eikekuaáta ñembojuehépe ha hetave { -brand-name-mozilla } apopyrépe.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Egueru ta’ãnga porã oimeraẽva ñandutígui ore rembiporu <a { $attrs }>mba’erechaha jejapyhy</a> oĩva kundahára ndive.
 # Variables:
@@ -143,13 +146,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Eguerekóma kundahára. Ko’ág̃a eñeha’ãta eiporuporãve { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñanduti veve { -brand-name-firefox-relay } rupive ha hetave.
-firefox-desktop-download-get-more-from-firefox = Eiporuvéke { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Emboguejy pe kundahára
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
