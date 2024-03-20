@@ -42,6 +42,7 @@ seven-of-the = Emoñondive umi pokõi kundahára iporãvéva
 six-of-the-best = Emoñondive umi 6 kundahára iporãvéva
 # Obsolete string
 we-compare-firefox = Romoñondive { -brand-name-firefox } { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ha { -brand-name-ie } ndive nepytyvõkuaa hag̃ua jeporavópe.
+we-compare-firefox-v2 = Ñambojojami { -brand-name-firefox }, Chrome, Edge, Safari ha Brave nepytyvõkuaa hag̃ua jeporavorãme.
 comparing-firefox-chrome = Romoñondive { -brand-name-firefox-browser } { -brand-name-google } { -brand-name-chrome } ndive
 big-isnt-always = Tuicha haguére ndaha’éi iporãvégui. Eiporavo sãso hendaguépe.
 comparing-firefox-brave = Emoñondive { -brand-name-firefox-browser } { -brand-name-brave } ndive
