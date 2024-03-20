@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Μετάφραση ιστοσελίδων με το { -brand-name-firefox }
-features-translate-translate-the-web = Μετάφραση ιστού με το { -brand-name-firefox }
+features-translate-translate-the-web = Μετάφραση διαδικτύου
 features-translate-when-you-translate-a-webpage = Όταν μεταφράζετε μια ιστοσελίδα, παραμένει ιδιωτική
 features-translate-what-languages-are-currently = Ποιες γλώσσες υποστηρίζονται αυτήν τη στιγμή;
 # This is followed by a localized list of supported languages
