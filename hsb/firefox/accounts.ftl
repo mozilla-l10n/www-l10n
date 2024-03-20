@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Wobstarajće sej konto { -brand-name-mozilla-account } - Dźeržće swoje daty priwatne, wěste a synchronizowane
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Wobstarajće sej konto { -brand-name-firefox-account } - Dźeržće swoje daty priwatne, wěste a synchronizowane
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Synchronizujće swoje hesła, zapołožki a rajtarki wěsće přez wšě swoje graty. Wobstarajće sej nětko konto { -brand-name-firefox-account } - Jedne přizjewjenje - wukon a priwatnosć wšudźe.
+# HTML page description
+mozilla-accounts-securely-sync-your = Synchronizujće swoje hesła, zapołožki a rajtarki wěsće přez wšě swoje graty. Wobstarajće sej nětko konto { -brand-name-mozilla-account } - Jedne přizjewjenje - wukon a priwatnosć wšudźe.
 firefox-accounts-enter-your-email-address = Zapodajće tu swoju e-mejlowu adresu, zo byšće započał.
 firefox-accounts-already-have-an-account = Maće hižo konto?
 firefox-accounts-sign-in = Přizjewić
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Přizjewić
 firefox-accounts-already = Maće hižo { -brand-name-firefox-account }. Zbožopřeće!
 mozilla-accounts-already = Maće hižo { -brand-name-mozilla-account }. Zbožopřeće!
 firefox-accounts-manage = Rjadujće sowje konto
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Přizjewće pola wašeho  { -brand-name-mozilla-account(case: "gen") }, zo byšće:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Sćelće rajtark</a> na druhi 
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Hesła składować a synchronizować</a>
 firefox-accounts-get-email-alerts = Dóstańće e-mejlowe warnowanja, hdyž so waše informacije w znatej datowej dźěrje jewja
-# Obsolete string
-firefox-accounts-see-if-youve-been = Přepruwujće, hač sće potrjecheny wot datoweje dźěry online.
 firefox-accounts-protect-your-identity = Škitajće swoju identitu z wěstym telefonowym a e-mejlowym maskowanjom
 firefox-accounts-keep-your-passwords = Škitajće swoje hesła a wzmiće je wšudźe sobu.
 firefox-accounts-get-a-lookout-for = Rozhladujće so za datowymi dźěrami.
