@@ -41,6 +41,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } ojoko ijeh
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Ejei umi maranduñemurã nderapykuehóvagui ñemokuãhũ (fingerprinting) jokoha ndive oĩva { -brand-name-firefox } kundahárape.
 features-index-translate-the-web = Emoñe’ẽasa ñanduti
+features-index-translate-websites-to-your = Emoñe’ẽasa ñanduti rogue ne ñe’ẽteépe ne kundahára { -brand-name-firefox }-pe, emoherakuã’ỹre ne mba’ekuaarã avavete ndive.
 # Obsolete string
 features-index-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’etépe nde { -brand-name-firefox } kundahára guive — ndahasyive ko’ág̃a rupi ijapo.
 features-index-picture-in-picture = Picture-in-picture

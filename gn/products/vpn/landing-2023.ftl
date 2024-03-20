@@ -41,6 +41,7 @@ vpn-landing-more-than-servers-in-countries =
 vpn-landing-fast-network-speeds-even-while = Pyha ipya’eteve eñembosarái aja jepe
 vpn-landing-no-logging-tracking-or-sharing = Mboheraguapy’ỹre, tapykueho térã pyha mba’ekuaarã moherakuã
 vpn-landing-no-bandwidth-restrictions-or = Oñemochi’ĩ ha hu’ã’ỹre ancho de banda
+vpn-landing-extra-security-whole-device = Tekorosãve: mba’e’oka ñemo’ã tuichaháicha, opaite jepo ha hetave mba’e
 vpn-landing-see-all-features = Ehechapaite tembiapoite
 vpn-landing-fram-a-brand-you-can-trust = Ere peteĩ márka ejeroviakuaaha
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } ha’e mba’apohaguasu Ñandutigua viru’ỹgua oñorairõva Ñanduti hesãive hag̃ua 1998 guive.
