@@ -24,6 +24,7 @@ class FilesExtraction:
         self.ref_files = []
         self.l10n_files = []
         self.local_files = []
+        self.unlisted_files = []
         self.obsolete_files = []
 
         self.extractFilesTOML()
@@ -35,16 +36,40 @@ class FilesExtraction:
         Find obsolete files
         """
 
+        # Check for files that should not exist based on the TOML configurations.
+        # Ignore files in the en-US folder.
         all_toml_files = self.ref_files + self.l10n_files
-        # Special case files in the en-US folder
-        self.obsolete_files = [
+        self.unlisted_files = [
             f
             for f in self.local_files
             if f not in all_toml_files and not f.startswith("en-US/")
         ]
+        if self.unlisted_files:
+            self.unlisted_files.sort()
+            print(
+                f"\n----\nThere are files not listed in TOML files ({len(self.unlisted_files)})"
+            )
+            print("\n".join(self.unlisted_files))
+
+        # Check for files that don't exist in the reference folder
+        ref_folder = "en"
+        ref_local_files = [
+            os.path.sep.join(f.split("/")[1:])
+            for f in self.local_files
+            if f.startswith(f"{ref_folder}/")
+        ]
+
+        for f in self.local_files:
+            if f.startswith((f"{ref_folder}/", "en-US/")):
+                continue
+            if os.path.sep.join(f.split("/")[1:]) not in ref_local_files:
+                self.obsolete_files.append(f)
+
         if self.obsolete_files:
             self.obsolete_files.sort()
-            print(f"\n----\nThere are obsolete files ({len(self.obsolete_files)})")
+            print(
+                f"\n----\nThere are files not present in the {ref_folder} folder ({len(self.obsolete_files)})"
+            )
             print("\n".join(self.obsolete_files))
 
     def deleteObsoleteFiles(self):
@@ -53,6 +78,14 @@ class FilesExtraction:
         """
 
         for f in self.obsolete_files:
+            os.remove(os.path.join(self.repo_path, f))
+
+    def deleteAllFiles(self):
+        """
+        Delete obsolete files and files not listed in TOML configurations
+        """
+
+        for f in self.unlisted_files + self.obsolete_files:
             os.remove(os.path.join(self.repo_path, f))
 
     def extractFilesLocal(self):
@@ -142,11 +175,18 @@ def main():
         help="Delete obsolete files",
         action="store_true",
     )
+    parser.add_argument(
+        "--deleteall",
+        help="Delete obsolete and unlisted (not in TOML) files",
+        action="store_true",
+    )
     args = parser.parse_args()
 
     extracted_files = FilesExtraction(args.repo_path)
     if args.delete:
         extracted_files.deleteObsoleteFiles()
+    if args.deleteall:
+        extracted_files.deleteAllFiles()
 
 
 if __name__ == "__main__":
