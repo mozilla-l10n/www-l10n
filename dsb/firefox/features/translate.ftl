@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Pśełožujśo webbok z { -brand-name-firefox }
-features-translate-translate-the-web = Pśełožujśo web z { -brand-name-firefox }
+features-translate-translate-the-web = Pśełožujśo web
 features-translate-when-you-translate-a-webpage = Gaž webbok pśełožujośo, wón priwatny wóstawa
 features-translate-what-languages-are-currently = Kótare rěcy se tuchylu pódpěraju?
 # This is followed by a localized list of supported languages
