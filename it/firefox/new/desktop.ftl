@@ -146,13 +146,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Hai già installato il browser. Ora scopri che cosa può offrirti { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Tieni sotto controllo gli hacker con { -brand-name-mozilla-monitor }, proteggi il tuo indirizzo email con { -brand-name-firefox-relay } e altro ancora.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Tieni sotto controllo gli hacker con { -brand-name-firefox-monitor }, proteggi il tuo indirizzo email con { -brand-name-firefox-relay } e altro ancora.
-firefox-desktop-download-get-more-from-firefox = Ottieni di più da { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Devi solo scaricare il browser
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,7 +163,7 @@ firefox-desktop-download-now-mac = Ora <strong>apri</strong> il file appena scar
 firefox-desktop-download-select-linux = Seleziona un’opzione di <strong>download</strong> di seguito
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ottieni assistenza per l’installazione</a>.
+firefox-desktop-download-get-help = Problemi? <a { $attrs }>Ricevi assistenza per l’installazione</a>.
 firefox-desktop-download-in-another-language = Scarica il programma in un’altra lingua o per un altro sistema operativo.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:

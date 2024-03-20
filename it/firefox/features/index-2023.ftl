@@ -9,12 +9,14 @@
 features-index-firefox-browser-features = Caratteristiche del browser { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } è il browser veloce, leggero e incentrato sulla privacy che funziona su tutti i tuoi dispositivi.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } è un browser veloce?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } utilizza meno memoria di Chrome, consentendo agli altri tuoi programmi di continuare a funzionare alla massima velocità.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } è un browser riservato?
 features-index-were-focused-on-your-right-to = Abbiamo a cuore il tuo diritto alla privacy. I tuoi dati, le tue attività sul Web, la tua vita online sono al sicuro con { -brand-name-firefox }.
 features-index-free-password-manager = Gestore password gratuito
-features-index-get-help-creating-new-passwords = Ottieni aiuto per creare nuove password, compilare automaticamente i moduli online e accedere automaticamente.
+features-index-get-help-creating-new-passwords = Ricevi un aiuto per creare nuove password, compilare automaticamente i moduli online e accedere automaticamente.
 features-index-customize-your-firefox-browser = Personalizza il tuo browser { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Scegli l’aspetto del tuo browser con migliaia di temi gratuiti.
 features-index-firefox-browser-sync = Sincronizzazione del browser { -brand-name-firefox }
