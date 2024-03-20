@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Переведите веб-страницу с помощью { -brand-name-firefox }
-features-translate-translate-the-web = Переводите Интернет с помощью { -brand-name-firefox }
+features-translate-translate-the-web = Перевод веб-страниц
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Переводы { -brand-name-firefox } — это встроенная функция перевода, которая позволяет вам легко просматривать веб-страницы на нужном вам языке. Узнайте больше о том, как работает эта функция в { -brand-name-firefox } и как { -brand-name-mozilla } помогает сохранить приватность вашего перевода.
 features-translate-one-of-the-best-things-about = Одна из лучших вещей в Интернете — это то, что мы можем получить доступ к контенту со всего мира. Будь-то новостные статьи, блоги или даже обзор вашего последнего технического устройства, вы можете найти это на, как кажется, никогда не заканчивающемся Интернете. С новейшей функцией перевода { -brand-name-firefox } этот инструмент будет постоянно переводить веб-страницу в реальном времени.
