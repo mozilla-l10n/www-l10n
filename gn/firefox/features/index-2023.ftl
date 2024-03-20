@@ -10,6 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } kundahára reh
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojeporukuaáva opaite mba’e’oka ndive.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } ipya’evéva gueteri
+features-index-the-latest-browser-speed-benchmarks = Umi ñeha’ã oñembojuehéva kundahára pya’ekue ohechauka { -brand-name-firefox } ipya’eveha ko’ẽreíre.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
 # Obsolete string
