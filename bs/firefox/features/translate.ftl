@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prevedite web stranicu sa { -brand-name-firefox }om
-features-translate-translate-the-web = Prevedite stranicu sa { -brand-name-firefox }om
+features-translate-translate-the-web = Prevedi stranicu
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } prijevodi su ugrađena funkcija prevođenja koja vam omogućava da lahko pretražujete web na željenom jeziku. Saznajte više o tome kako ova funkcija u { -brand-name-firefox } funkcioniše i kako { -brand-name-mozilla } pomaže da ono što prevodite ostane privatno.
 features-translate-one-of-the-best-things-about = Jedna od najboljih stvari na internetu je to što možemo pristupiti sadržaju širom svijeta. Bilo da su u pitanju novinski članci, blogovi ili čak pregled vašeg najnovijeg tehnološkog gadgeta, sve to možete pronaći na naizgled beskrajnom webu. Uz najnoviju funkciju prevođenja { -brand-name-firefox }a, ovaj alat će kontinuirano prevoditi web stranicu u realnom vremenu.
