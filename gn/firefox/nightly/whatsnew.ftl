@@ -16,7 +16,7 @@ nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -bra
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v3 = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a { $blog }">blog</a> ha orerapykueho <a { $mastodon }>Mastodon</a> térã <a { $twitter }>X</a>.
+nightly-whatsnew-if-you-want-to-v3 = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a { $blog }>blog</a> ha orerapykueho <a { $mastodon }>Mastodon</a> térã <a { $twitter }>X</a>.
 # Obsolete string
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
