@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Översätt en webbsida med { -brand-name-firefox }
-features-translate-translate-the-web = Översätt webben med { -brand-name-firefox }
+features-translate-translate-the-web = Översätt webben
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } översättningar är en inbyggd översättningsfunktion som gör att du enkelt kan surfa på webben på ditt önskade språk. Läs mer om hur den här funktionen i { -brand-name-firefox } fungerar och hur { -brand-name-mozilla } hjälper till att hålla det du översätter privat.
 features-translate-one-of-the-best-things-about = En av de bästa sakerna med internet är att vi kan komma åt innehåll från hela världen. Oavsett om det är nyhetsartiklar, bloggar eller till och med en recension av din senaste tekniska gadget, kan du hitta allt på den till synes oändliga webben. Med { -brand-name-firefox }:s senaste kommer det här verktyget kontinuerligt att översätta en webbsida i realtid.
