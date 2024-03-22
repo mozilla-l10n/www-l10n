@@ -3,15 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Nādunïnj hìaj
-download-button-free-download = Naduninj chre'
+download-button-free-download = Nadunïnj hìaj
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Nej aga' ran' dugui'
 download-button-whats-new = Nùhuin sa hua nakà doj
-download-button-systems-languages = Sistemas &amp; Nanj a'mi'
+download-button-systems-languages = Nej &amp; nânj a'mi'
 download-button-recommended = Sā sa'a huin ânj
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla }  nitaj sa nakàa hua guendâ { -brand-name-firefox } riña { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a>, sinī ga'hue nādunïnjt bersiôn 32 bits guendâ { -brand-name-windows } hiuj nan.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Ganiko'<a href="{ $url }">nej nuguan' na</a> da' gi'iaj sunt nga { -brand-name-firefox }.
@@ -36,3 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> guenda { -bra
 download-button-firefox-privacy = Nuguan huìi riña { -brand-name-firefox }
 download-button-firefox-privacy-notice = { -brand-name-firefox } Nuguan' huìi
 download-button-download = Naduni'
+
+## Linux
+
