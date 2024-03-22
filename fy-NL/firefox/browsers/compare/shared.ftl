@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
@@ -11,8 +11,6 @@ compare-shared-yes = Ja
 compare-shared-no = Nee
 compare-shared-private-browsing-mode = Priveenavigaasjemodus
 compare-shared-blocks-third-party-tracking-default = Blokkearret standert tracking-cookies fan tredden
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blokkearret tracking-cookies fan tredden
 compare-shared-blocks-cryptomining-scripts = Blokkearret cryptomining-scripts
 compare-shared-blocks-fingerprinting-scripts = Blokkearret fingerprintscripts
 compare-shared-blocks-social-trackers = Blokkearret sosjale trackers
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Beskikberheid op mobile bestjoeringssyst
 compare-shared-syncs-with-mobile = Syngronisearret mei mobyl
 compare-shared-password-management = Wachtwurdbehear
 compare-shared-primary-password = Haadwachtwurd
-# Obsolete string
-compare-shared-master-password = Haadwachtwurd
 compare-shared-security-and-privacy = Befeiliging en privacy
 compare-shared-utility = Brûkberheid
 compare-shared-portability = Portabiliteit
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Befeiliging en <strong>privacy</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Brûkberheid</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Portabiliteit</strong>
 compare-shared-overall-assessment = Algemiene beoardieling
 compare-shared-the-comparisons-made-here-updated = De hjir makke fergelikingen binne mei standertynstellingen yn de folgjende browserferzjes útfierd:
-# Obsolete string
-compare-shared-the-comparisons-made-here = De hjir makke fergelikingen binne yn de folgjende browserferzjes útfierd:
 compare-shared-this-page-updated-semi-quarterly = Dizze side wurdt twa kear yn it kwartaal bywurke om de nijste ferzjes wer te jaan en jout mooglik net altyd de lêste updates.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Desktop
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Browsers fergelykje
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Prestaasjes</strong>
