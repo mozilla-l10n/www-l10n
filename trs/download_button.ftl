@@ -20,7 +20,7 @@ download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mo
 download-button-please-follow-these = Ganiko'<a href="{ $url }">nej nuguan' na</a> da' ga'ninïnjt riña { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = Nitaj si aran' si agat' nga <a href="{ $url }"> sa ni'ñan </a> da' gi'iaj sunj nga { -brand-name-firefox }.
+download-button-your-system-does-not = Nitaj si aran' si agat' 'ngà <a href="{ $url }"> sa ni'ñanj ma </a> da' gi'iaj sunj 'ngà { -brand-name-firefox }.
 download-button-firefox-other-platforms = { -brand-name-firefox } guenda A'ngo Platforms & nanj a'mi'
 download-button-update-your-firefox = Nagui'iaj nako' { -brand-name-firefox }
 download-button-get-firefox-android = { -brand-name-firefox } guenda { -brand-name-android }
