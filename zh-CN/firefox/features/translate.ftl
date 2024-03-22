@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = 使用 { -brand-name-firefox } 翻译网页
-features-translate-translate-the-web = 在 { -brand-name-firefox } 上翻译网页
+features-translate-translate-the-web = 翻译网页
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } 翻译是一项内置的翻译功能，可让您以自己所需的语言轻松浏览网页。详细了解 { -brand-name-firefox } 中这项功能的工作方式，以及 { -brand-name-mozilla } 如何守护您所翻译内容的私密。
 features-translate-one-of-the-best-things-about = 互联网最棒的特点，在于将五湖四海的内容联结到了一起。不管是新闻、博客，还是最新数码产品的评测，在近乎无边无际的网络上全都能找到。这时候，{ -brand-name-firefox } 最新的翻译功能可全程帮您自动翻译网页。
