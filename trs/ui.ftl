@@ -5,9 +5,9 @@
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
-ui-back-to-home-page = Gun' ñan gayi'ij
+ui-back-to-home-page = Nāniko' riñan ayi'ij
 ui-return-to-top = Gun' ne' yata'a
-ui-close = Ganarun'
+ui-close = Nārun'
 ui-previous = Sa gachin
 ui-next = Ne'ian an
 ui-watch-the-video = Ni'io' sa siki'i
