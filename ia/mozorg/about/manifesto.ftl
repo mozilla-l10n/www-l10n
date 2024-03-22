@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,10 @@ manifesto-we-are-committed-to-diverse = Nos es ingagiate pro un internet que cat
 manifesto-show-your-support = Monstra tu appoio
 manifesto-an-internet-with-these = Un internet con iste qualitates non prendera vita per se sol. Individuos e organisationes debe integrar iste aspirationes in le technologia de internet e in le human experientia con internet. Le Manifesto de { -brand-name-mozilla } e le Addendum representa le dedication de { -brand-name-mozilla } pro le progresso de iste aspirationes. Nos spera de laborar insimul con personas e organisationes ubique, qui comparti iste scopos a render internet un loco sempre melior pro omnes.
 manifesto-i-support-the-vision-of = Io supporta le vision de un internet melior, plus salubre per @mozilla, vole tu junger te a me?
+# Obsolete string
 manifesto-share-on-twitter = Comparti sur { -brand-name-twitter }
+manifesto-share-on-x = Compatir sur X
 manifesto-our-10-principles = <strong>Nostre 10</strong> Principios
-manifesto-use-open-badges-to-share = Comparti tu competentias e tu interesses per Open Badge
-manifesto-explore-how-the-web-impacts = Explora como le web impinge le scientia
-manifesto-learn-about-open-source = Apprende re le applicationes open source in le jornalismo
-manifesto-read-about-open-internet = Lege re initiativas e disveloppamentos del politica de internet aperte
-manifesto-explore-how-to-help-keep = Cerca como adjutar a tener aperte le web
-manifesto-see-how-the-web-can-connect = Vide como le web pote connecter le mundo al assistentia sanitari
-manifesto-explore-how-the-web-works = Explora como le web functiona
-manifesto-see-how-mozilla-works = Vide como { -brand-name-mozilla } functiona pro poner tu confidentialitate prime
-manifesto-read-about-developments = Lege re le disveloppamentos in le confidentialitate e in le securitate del datos
-manifesto-learn-more-about-how-to = Saper plus como proteger a te mesme online
-manifesto-use-these-free-tools-to = Usa iste libere applicationes pro inseniar le web
-manifesto-learn-about-creating-and = Apprende re creation e cura de contento pro le web
-manifesto-add-new-voices-to-open = Adde nove voces al technologia open source
-manifesto-set-your-do-not-track = Monta tu preferentia Non traciar
-manifesto-understand-the-web-ecosystem = Studia le ecosystema del web
-manifesto-explore-how-open-practices = Explora como le practicas aperte mantene le web accessibile
-manifesto-learn-how-to-remix-content = Apprende como re-miscer le contento pro crear alco de nove
-manifesto-learn-how-to-maximize = Apprende como maximisar le potential interactive del web
-manifesto-participate-in-our-governance = Participa in nostre foro de governamento
-manifesto-join-us-as-a-volunteer = Collabora con nos como voluntario
-manifesto-learn-how-to-collaborate = Apprende a collaborar online
-manifesto-visualize-who-you-interact = Visualisa per { -brand-name-lightbeam } qui interage con te sur le web
-manifesto-learn-about-creating-web = Apprender re le creation de ressources de web con alteres
-manifesto-host-or-join-a-maker-party = Celebra o junge te a un { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Apprende como disveloppar habilitates de collaboration in linea
 manifesto-read-the-entire-manifesto = Lege le manifesto complete
 manifesto-love-the-web = Ama tu le web?
 manifesto-get-the-mozilla-newsletter = Recipe le littera de novas de { -brand-name-mozilla } e adjuta nos a lo mantener aperte e libere.

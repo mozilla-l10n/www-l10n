@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-how-is-browser-speed-measured = Como es il mesurate le velocitate del navigator?
+features-fast-faster-every-day = Cata die plus veloce
