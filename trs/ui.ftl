@@ -8,7 +8,7 @@
 ui-back-to-home-page = Nāniko' riñan ayi'ij
 ui-return-to-top = Gun' ne' yata'a
 ui-close = Nārun'
-ui-previous = Sa gachin
+ui-previous = Nāniko'
 ui-next = Ne'ian an
 ui-watch-the-video = Ni'io' sa siki'i
 ui-replay = Duguchro'
