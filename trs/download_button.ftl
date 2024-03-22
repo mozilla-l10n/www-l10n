@@ -17,7 +17,7 @@ download-button-recommended = Sā sa'a huin ânj
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla }  nitaj sa nakàa hua guendâ { -brand-name-firefox } riña { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }</a>, sinī ga'hue nādunïnjt bersiôn 32 bits guendâ { -brand-name-windows } hiuj nan.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Ganiko'<a href="{ $url }">nej nuguan' na</a> da' gi'iaj sunt nga { -brand-name-firefox }.
+download-button-please-follow-these = Ganiko'<a href="{ $url }">nej nuguan' na</a> da' ga'ninïnjt riña { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Nitaj si aran' si agat' nga <a href="{ $url }"> sa ni'ñan </a> da' gi'iaj sunj nga { -brand-name-firefox }.
