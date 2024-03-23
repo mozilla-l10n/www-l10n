@@ -7,7 +7,6 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Перекладіть вебсторінку за допомогою { -brand-name-firefox }
-features-translate-translate-the-web = Перекладайте Мережу за допомогою { -brand-name-firefox }
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Перекладач { -brand-name-firefox } – це вбудована функція, що забезпечує можливість перегляду вебсторінок бажаною мовою. Дізнайтеся більше про те, як працює ця функція у { -brand-name-firefox } і як { -brand-name-mozilla } допомагає зберігати приватність перекладених матеріалів.
 features-translate-one-of-the-best-things-about = Однією з найкращих переваг інтернету є можливість отримувати доступ до інформації з усього світу. Новинні статті, блоги чи навіть огляд вашого останнього технічного гаджета – все це можна знайти в неосяжній мережі. Завдяки найновішій функції перекладу { -brand-name-firefox } ви зможете миттєво перекласти будь-яку вебсторінку в реальному часі.
