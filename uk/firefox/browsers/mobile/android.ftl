@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } для 
 # HTML description
 mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — швидкий, безпечний і приватний з першої секунди.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Будьте мобільними. Будьте незалежними з { -brand-name-firefox } для { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Завантажуючи { -brand-name-firefox }, ви підтримуєте незалежну технологічну компанію. { -brand-name-firefox } — єдиний великий браузер, який підтримується некомерційним борцем за надання вам більшої відкритості, прозорості та контролю вашого життя в інтернеті.
 mobile-android-get-firefox-for = Отримайте { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Надіслати посилання для завантаження на свій телефон.
 mobile-android-scan-the-qr-code-to-get-started = Скануйте QR-код, щоб почати завантаження
@@ -23,7 +19,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } для { -brand-nam
 mobile-android-one-tap-to = Приватний режим на віддалі одного дотику
 mobile-android-get-to-private = Переходьте в режим приватного перегляду одним дотиком. Під час виходу історія перегляду автоматично зітреться з вашого пристрою.
 mobile-android-search-your-own = Пристосуйте його для себе
-mobile-android-got-a-big = Маєте великий телефон і звичайні пальці? Нема проблем. { -brand-name-firefox } для { -brand-name-android } дає змогу переміщувати панель пошуку з верхньої частини екрана до нижньої, що полегшує керування однією рукою. Ви також можете обрати власний засіб пошуку в браузері та встановити { -brand-name-firefox } типовим браузером.
+mobile-android-got-a-big = Маєте великий телефон і звичайні пальці? Нема проблем. { -brand-name-firefox } для { -brand-name-android } дає змогу переміщувати панель пошуку з верхньої частини екрана до нижньої, що полегшує керування однією рукою. Ви також можете обрати власну пошукову систему в браузері та встановити { -brand-name-firefox } типовим браузером.
 mobile-android-save-power-with = Заощаджуйте заряд із темним режимом
 mobile-android-switch-to-dark = У будь-який час переходьте в темний режим, щоб зменшити навантаження на очі та заощадити заряд акумулятора.
 mobile-android-easily-organize-your = Легко впорядковуйте свої вкладки

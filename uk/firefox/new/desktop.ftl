@@ -55,7 +55,7 @@ firefox-desktop-download-take-your-privacy = Беріть приватність
 firefox-desktop-download-do-it-all = Робіть <strong>все</strong> це з { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Шукайте розумніше, швидше
 firefox-desktop-download-search-from-address = Пошук з панелі адрес
-firefox-desktop-download-search-engine-options = Керування засобами пошуку
+firefox-desktop-download-search-engine-options = Налаштування пошукових систем
 firefox-desktop-download-smart-search-suggestions = Влучнні пошукові пропозиції
 firefox-desktop-download-bookmark-history = Закладки, історія та відкриті вкладки серед пропозицій
 firefox-desktop-download-boost-your = Підвищуйте свою продуктивність
@@ -146,13 +146,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = У вас вже є браузер. Тепер отримайте ще більше від { -brand-name-firefox }
 firefox-desktop-download-watch-for-hackers-with-v3 = Слідкуйте за хакерами за допомогою { -brand-name-mozilla-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Слідкуйте за хакерами за допомогою { -brand-name-firefox-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
-firefox-desktop-download-get-more-from-firefox = Отримайте більше від { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Просто завантажте браузер
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
