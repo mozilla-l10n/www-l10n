@@ -80,13 +80,12 @@ firefox-privacy-hub-when-you-enter-your-email = Khi bạn nhập địa chỉ em
 firefox-privacy-hub-check-for-breaches = Kiểm tra rò rỉ
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Mật khẩu và thông tin đăng nhập bạn lưu trong { -brand-name-firefox-lockwise } được mã hóa trên tất cả các thiết bị của bạn, do đó chúng tôi thậm chí không thể nhìn thấy chúng.
-firefox-privacy-hub-learn-more-about-lockwise = Tìm hiểu thêm về { -brand-name-lockwise }
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = Chúng tôi không thể thấy tên hoặc nội dung của các tập tin lớn mà bạn chia sẻ thông qua { -brand-name-firefox-send } vì chúng được mã hóa từ đầu đến cuối - bạn chọn người xem những gì bạn gửi và thậm chí bạn có thể đặt ngày hết hạn và mật khẩu
 firefox-privacy-hub-send-a-file = Gửi một tập tin
 firefox-privacy-hub-pocket = { -brand-name-pocket }
 firefox-privacy-hub-pocket-recommends-high = { -brand-name-pocket } đề xuất các bài viết chất lượng cao, được quản lý bởi con người mà không thu thập lịch sử duyệt web của bạn hoặc chia sẻ thông tin cá nhân của bạn với các nhà quảng cáo.
-firefox-privacy-hub-get-pocket = Nhận { -brand-name-pocket }
+firefox-privacy-hub-get-pocket = Sử dụng { -brand-name-pocket }
 firefox-privacy-hub-your-mozilla-account = { -brand-name-mozilla-account } của bạn
 # Obsolete string
 firefox-privacy-hub-your-firefox-account = { -brand-name-firefox-account } của bạn
@@ -112,4 +111,4 @@ firefox-privacy-hub-already-have-an-account = Đã có một tài khoản? <a { 
 firefox-privacy-hub-read-the-privacy-notice-for = Đọc <a href="{ $url }">Thông báo bảo mật</a> cho các sản phẩm của chúng tôi
 firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-privacy-hub-surf-stream-and-get-work = Lướt, phát trực tuyến và hoàn thành công việc trên các máy chủ ở hơn 30 quốc gia để có kết nối internet an toàn với một góc nhìn mới.
-firefox-privacy-hub-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
+firefox-privacy-hub-get-mozilla-vpn = Sử dụng { -brand-name-mozilla-vpn }

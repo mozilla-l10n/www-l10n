@@ -18,31 +18,21 @@ firefox-home-know-when-hackers-strike = Biết khi nào tin tặc tấn công �
 firefox-home-start-getting-breach = Bắt đầu nhận báo cáo các vụ rò rỉ
 firefox-home-un-spam-your-life = Bỏ thư rác khỏi cuộc sống của bạn với { -brand-name-relay }
 firefox-home-try-relay = Thử { -brand-name-relay }
-# Obsolete string
-firefox-home-keep-your-passwords = Giữ mật khẩu của bạn an toàn trên mọi thiết bị
-# Obsolete string
-firefox-home-learn-more-about-lockwise = Tìm hiểu thêm về { -brand-name-lockwise }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Nhận <strong>sự tôn trọng</strong> mà bạn xứng đáng
 # Obsolete string
 firefox-home-every-single-firefox = Mỗi sản phẩm { -brand-name-firefox } đều tôn vinh lời hứa về dữ liệu cá nhân của chúng tôi: <strong>Mất ít hơn. Giữ nó an toàn. Không có bí mật.</strong>
 firefox-home-every-single-mozilla = Mỗi sản phẩm { -brand-name-mozilla } đều tôn trọng lời hứa về dữ liệu cá nhân của chúng tôi: <strong>Lấy ít hơn. Giữ nó an toàn. Không có bí mật.</strong>
-# Obsolete string
-firefox-home-share-large-files-without = Chia sẻ tập tin lớn bảo mật và riêng tư
-# Obsolete string
-firefox-home-start-sending-files = Bắt đầu gửi tập tin một cách an toàn
 firefox-home-trade-clickbait-for = Clickbait thương mại cho nội dung chất lượng
 firefox-home-learn-more-about-pocket = Tìm hiểu thêm về { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Bảo vệ cho toàn bộ thiết bị của bạn, trên mọi thiết bị.
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = Một lần đăng nhập. Tất cả các thiết bị của bạn. Một nhóm sản phẩm tôn trọng <strong>quyền riêng tư</strong>.
-firefox-home-join-firefox = Tham gia { -brand-name-firefox }
-firefox-home-learn-more-about-joining = Tìm hiểu thêm về việc tham gia { -brand-name-firefox }
-firefox-home-get-the-browser-extension = Nhận tiện ích mở rộng trình duyệt
-firefox-home-get-the-facebook-container = Nhận tiện ích mở rộng { -brand-name-facebook-container }
+firefox-home-get-the-browser-extension = Tải xuống tiện ích mở rộng trình duyệt
+firefox-home-get-the-facebook-container = Tải xuống tiện ích mở rộng { -brand-name-facebook-container }
 firefox-home-download-the-browser = Tải xuống trình duyệt
 firefox-home-download-the-app = Tải xuống ứng dụng
-firefox-home-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
+firefox-home-get-mozilla-vpn = Tải xuống { -brand-name-mozilla-vpn }
 firefox-home-desktop = Máy tính để bàn
 firefox-home-browsers = Trình duyệt
 firefox-home-android = { -brand-name-android }

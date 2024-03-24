@@ -21,8 +21,8 @@ vpn-pricing-access = Truy cập hơn { $servers } máy chủ ở { $countries }+
 vpn-pricing-money-back = Đảm bảo hoàn tiền trong 30 ngày (chỉ dành cho khách hàng thanh toán lần đầu)
 vpn-pricing-annual = Hàng năm
 vpn-pricing-monthly = Hàng tháng
-vpn-pricing-get-annual-subscription = Nhận thuê bao hàng năm
-vpn-pricing-get-monthly-subscription = Nhận thuê bao hàng tháng
+vpn-pricing-get-annual-subscription = Sử dụng thuê bao hàng năm
+vpn-pricing-get-monthly-subscription = Sử dụng thuê bao hàng tháng
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } chưa có sẵn ở quốc gia của bạn
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Câu hỏi thường gặp

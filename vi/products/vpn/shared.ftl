@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
-vpn-shared-subscribe-link = Nhận { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Sử dụng { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Tham gia danh sách chờ
 vpn-shared-sign-in-link = Đã là một người đăng ký?
 vpn-shared-available-countries-v6 = Chúng tôi hiện đang cung cấp { -brand-name-mozilla-vpn } tại Áo, Bỉ, Bulgaria, Canada, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Hungary, Ireland, Ý, Latvia, Litva, Luxembourg, Malaysia, Malta, Hà Lan, New Zealand, Ba Lan, Bồ Đào Nha, Romania, Singapore, Slovenia, Slovakia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
@@ -72,7 +72,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/tháng</span>
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/tháng+ thuế</span>
 vpn-shared-pricing-get-12-month-v2 = Chọn gói 12 tháng
-vpn-shared-pricing-get-monthly = Nhận gói hàng tháng
+vpn-shared-pricing-get-monthly = Sử dụng gói hàng tháng
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Tiết kiệm { $percent }%
@@ -144,7 +144,7 @@ vpn-add-relay-to-protect = Thêm { -brand-name-firefox-relay } vào thuê bao c�
 vpn-shared-add-firefox-relay = Thêm <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-relay-email-masking = Che dấu email
 vpn-shared-relay-phone-masking = Che giấu điện thoại
-vpn-shared-get-vpn-plus-relay = Nhận { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-get-vpn-plus-relay = Sử dụng { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Tại sao đăng ký combo?
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'

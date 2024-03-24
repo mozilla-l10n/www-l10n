@@ -18,13 +18,13 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } tạo ra các sản phẩm 
 home-product-firefox-browsing = Duyệt web riêng tư & an toàn
 home-cta-get-firefox = Tải { -brand-name-firefox }
 home-product-pocket-articles = Các bài viết hấp dẫn nhất trên web
-home-cta-get-pocket = Nhận { -brand-name-pocket }
+home-cta-get-pocket = Sử dụng { -brand-name-pocket }
 home-product-relay-masks = Mặt nạ email & điện thoại dễ sử dụng
-home-cta-get-relay = Nhận { -brand-name-relay }
+home-cta-get-relay = Sử dụng { -brand-name-relay }
 home-product-vpn-trust = VPN bạn có thể tin cậy
 home-cta-get-vpn = Tải { -brand-name-mozilla-vpn }
 home-product-monitor-data = Cảnh báo rò rỉ dữ liệu
-home-cta-get-monitor = Nhận { -brand-name-monitor }
+home-cta-get-monitor = Sử dụng { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } đang đặt cược để cho thế giới thấy rằng có một công việc kinh doanh được thực hiện bằng AI đáng tin cậy. Điều đó bao gồm việc đặt những thứ như nhân quyền, bảo vệ dữ liệu và tính minh bạch làm cốt lõi trong cách thức hoạt động của các hệ thống phức tạp này.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

@@ -4,7 +4,7 @@
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Tải xuống { -brand-name-firefox }
-navigation-v2-get-mozilla-vpn = Nhận { -brand-name-mozilla-vpn }
+navigation-v2-get-mozilla-vpn = Sử dụng { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
 ## Firefox menu
@@ -74,8 +74,6 @@ navigation-v2-more-about-mozilla = Thông tin thêm về { -brand-name-mozilla }
 
 navigation-v2-innovation = Sự đổi mới
 navigation-v2-close-innovation-menu = Đóng menu Sự đổi mới
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Tập hợp trong không gian xã hội đa chiều, trực tuyến, tương tác này.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Tải xuống trình duyệt { -brand-name-firefox } được xây dựng chỉ dành cho các nhà phát triển.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -18,7 +18,7 @@ installer-help-action-choose = Chọn một tải xuống dưới đây.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Nhận trình duyệt mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox-browser } để chặn { $trackers } trình theo dõi.
+installer-help-firefox-release-desc = Tải xuống trình duyệt mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox-browser } để chặn { $trackers } trình theo dõi.
 installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Kiểm tra các tính năng sắp phát hành trong bản xây dựng trước bản phát hành ổn định.
 installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }

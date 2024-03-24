@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
-vpn-mac-get-a-vpn = Nhận VPN cho macOS từ { -brand-name-mozilla }
+vpn-mac-get-a-vpn = Tải xuống VPN cho macOS từ { -brand-name-mozilla }
 vpn-mac-looking-for = Bạn đang tìm kiếm một VPN để bảo vệ máy Mac của mình? { -brand-name-mozilla-vpn } được hỗ trợ bởi công ty phi lợi nhuận. Tìm hiểu cách VPN bảo vệ bạn và lý do bạn nên tin tưởng { -brand-name-mozilla } với quyền riêng tư và bảo mật của bạn khi sử dụng macOS của bạn
 vpn-mac-protect-your-mac = Bảo vệ Mac của bạn với { -brand-name-mozilla-vpn }
 vpn-mac-a-vpn-is = Một VPN (mạng riêng ảo) là điều bắt buộc phải có đối với quyền riêng tư và bảo mật trực tuyến của bạn khi bạn sử dụng máy Mac. Tin tặc và nhà cung cấp internet có thể theo dõi hoạt động trực tuyến của bạn hoặc lấy cắp dữ liệu cá nhân của bạn.

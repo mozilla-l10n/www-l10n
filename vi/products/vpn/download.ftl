@@ -13,8 +13,6 @@ vpn-download-sub-heading = Bạn có thể tải xuống { -brand-name-mozilla-v
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } cung cấp khả năng bảo vệ an toàn và bảo mật cho tất cả các hệ điều hành.
 vpn-download-not-available-in-country = Xin lỗi, { -brand-name-mozilla-vpn } không khả dụng ở quốc gia của bạn.
 vpn-download-button-copy = Tải xuống
-# Obsolete string
-vpn-download-for-windows = VPN cho { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN dành cho { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (chỉ 64-bit)
 vpn-download-for-windows-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-windows }
@@ -32,10 +30,8 @@ vpn-download-for-android = VPN cho { -brand-name-android }
 vpn-download-for-android-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-android }
 vpn-download-for-ios = VPN cho { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Tải xuống VPN { -brand-name-mozilla-vpn } cho { -brand-name-ios }
 vpn-download-get-on-google-play = Tải xuống trên Cửa hàng { -brand-name-google-play }
-vpn-download-get-on-app-store = Nhận trên { -brand-name-app-store }
+vpn-download-get-on-app-store = Tải xuống trên { -brand-name-app-store }
 vpn-download-based-on-your = Dựa trên thiết bị hiện tại của bạn
 vpn-download-get-mozilla-vpn = Tải { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Quyền riêng tư mà bạn có thể tin tưởng
