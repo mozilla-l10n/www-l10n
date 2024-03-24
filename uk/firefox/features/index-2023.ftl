@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = Можливості браузера { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } є швидким, легким, орієнтованим на приватність браузером, який працює на всіх ваших пристроях.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } стає ще швидшим
+features-index-the-latest-browser-speed-benchmarks = Останні тести швидкості браузера доводять, що { -brand-name-firefox } швидший, ніж будь-коли.
+# Obsolete string
 features-index-is-firefox-a-fast-browser = Чи швидкий браузер { -brand-name-firefox }?
+# Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } використовує менше пам'яті, ніж Chrome, тому ваші інші програми можуть продовжувати працювати з найвищою швидкістю.
 features-index-is-firefox-a-private-browser = Чи приватний браузер { -brand-name-firefox }?
 features-index-were-focused-on-your-right-to = Ми зосереджені на вашому праві на приватність. Ваші дані, ваша онлайн-діяльність і ваше життя в інтернеті захищені { -brand-name-firefox }.
