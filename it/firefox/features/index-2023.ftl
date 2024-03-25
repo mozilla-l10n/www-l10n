@@ -9,6 +9,7 @@
 features-index-firefox-browser-features = Caratteristiche del browser { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } è il browser veloce, leggero e incentrato sulla privacy che funziona su tutti i tuoi dispositivi.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } diventa sempre più veloce
 # Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } è un browser veloce?
 # Obsolete string
