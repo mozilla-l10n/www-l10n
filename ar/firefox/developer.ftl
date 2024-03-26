@@ -8,6 +8,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } هو متصفح سريع للغاية يوفر أدوات مطور متطورة وأحدث الميزات، مثل دعم CSS Grid وتصحيح أخطاء إطار العمل
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = مرحبًا بك في متصفّحك المفضل الجديد. احصل على أحدث الميزات مع الأداء السريع وأدوات تطوير أنت بحاجة إليها مع الويب المفتوح.
 firefox-developer-speak-up = عبّر عن نفسك
@@ -20,7 +22,6 @@ firefox-developer-design-code-test = تصميم. كود. حسّن. نقّح.
 
 # Line break for visual formatting
 firefox-developer-build-and-perfect = أنشئ مواقعك واجعلها مثالية<br> مع { -brand-name-firefox-devtools }
-
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = افحص الكود وحسّنه لبناء تخطيطات بكسلات مثالية.
 firefox-developer-learn-about-page-inspector = معرفة المزيد عن Page Inspector
@@ -71,18 +72,15 @@ firefox-developer-fonts-panel = لوحة الخطوط
 firefox-developer-the-new-fonts-panel = توفر لوحة الخطوط في متصفّح { -brand-name-firefox-devtools } المُطورين وصولاً سريعًا إلى جميع المعلومات التي يحتاجونها حول الخطوط المستخدمة في عنصر ما. ويتضمن أيضًا معلومات قيمة، مثل مصدر الخط ووزنه ونمطه والمزيد.
 firefox-developer-firefox-developer-edition-sends = يُرسِل { -brand-name-firefox-developer-edition } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = تنزيل { -brand-name-firefox } المُصمم خصيصًا للمطوّرين
-firefox-developer-welcome-to-the-all-new = مرحبًا بك في جديد { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = تمت إعادة بناء { -brand-name-firefox } من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
-firefox-developer-congrats-you-now-have-firefox = تهانينا! لديك الآن { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = هذا ليس مُجرد تحديث. هذا { -brand-name-firefox-quantum }: متصفّح { -brand-name-firefox } جديد تمت إعادة بنائه من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = مرحبًا بك في { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين
 firefox-developer-all-the-latest-v2 = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثلMulti-line Console Editor و WebSocket Inspector.
-
-# Obsolete string
-firefox-developer-all-the-latest = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثل Multi-line Console Editor و<strong></strong>WebSocket Inspector.
-
 firefox-developer-a-separate-profile = مسار <strong>وملف تعريف مُنفصلين</strong> حتى يتسنى لك بسهولة تشغيله بجانب الإصدار أو { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = تفضيلات <strong>صُممت لمُطوري الويب</strong>: يتم تمكين المُتصفح وتصحيح الأخطاء عن بُعد افتراضيًا، وكذلك السِمة الداكنة وزر شريط أدوات المُطور.
-firefox-developer-congrats-you-now-have = تهانينا! لديك الآن { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = تهانينا! لديك الآن أحدث إصدار من { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+

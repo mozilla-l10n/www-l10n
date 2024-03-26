@@ -8,6 +8,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ialah pelayar yang amat pantas yang menawarkan alatan pembangun canggih dan ciri terkini seperti sokongan CSS Grid dan menyahpepijat rangka kerja
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Selamat datang ke pelayar kegemaran baru anda. Dapatkan ciri terkini, prestasi pantas dan alatan pembangunan yang diperlukan untuk pembinaan bagi laman web terbuka.
 firefox-developer-speak-up = Bersuaralah
@@ -20,7 +22,6 @@ firefox-developer-design-code-test = Reka bentuk. Kod. Uji. Halusi.
 
 # Line break for visual formatting
 firefox-developer-build-and-perfect = Bina dan Sempurnakan laman web anda<br> dengan { -brand-name-firefox-devtools }
-
 firefox-developer-inspector = Pemeriksa
 firefox-developer-inspect-and-refine = Periksa dan halusi kod untuk membina reka letak berpiksel sempurna.
 firefox-developer-learn-about-page-inspector = Ketahui lebih lanjut tentang Pemeriksa Halaman
@@ -71,18 +72,15 @@ firefox-developer-fonts-panel = Panel Fon
 firefox-developer-the-new-fonts-panel = Panel fon yang baru dalam { -brand-name-firefox-devtools } memberikan pembangun akses pantas kepada semua maklumat yang diperlukan tentang fon yang digunakan dalam sesuatu elemen. Ia juga merangkumi maklumat berharga seperti sumber fon, ketebalan, gaya dan banyak lagi.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } akan menghantar maklum balas kepada { -brand-name-mozilla } secara automatik.
 firefox-developer-download-the-firefox-browser = Muat turun pelayar { -brand-name-firefox } yang dibuat untuk pembangun
-firefox-developer-welcome-to-the-all-new = Selamat datang ke { -brand-name-firefox-quantum } yang serba baru: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } telah dibina semula sepenuhnya untuk menjadi lebih pantas, lebih lancar dan lebih hebat daripada sebelumnya.
-firefox-developer-congrats-you-now-have-firefox = Tahniah. Anda kini memiliki { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ini bukan sekadar kemas kini. Ini { -brand-name-firefox-quantum }: { -brand-name-firefox } baru yang telah dibina semula sepenuhnya untuk menjadi lebih pantas, lebih lancar dan lebih hebat daripada sebelumnya.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Selamat datang ke { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
 firefox-developer-all-the-latest-v2 = Semua kelengkapan pembangun yang terkini dalam beta termasuklah ciri-ciri seperti Multi-line Console Editor dan WebSocket Inspector.
-
-# Obsolete string
-firefox-developer-all-the-latest = Kesemua alatan pembangun terkini dalam beta, termasuk <strong>ciri percubaan</strong> seperti Editor Konsol Multi-Baris dan Pemeriksa WebSocket.
-
 firefox-developer-a-separate-profile = <strong>Profil dan laluan berasingan</strong> agar anda boleh menjalankannya bersama Release atau { -brand-name-beta } { -brand-name-firefox } dengan mudah.
 firefox-developer-preferences-tailored = Keutamaan <strong>disesuaikan untuk pembangun web</strong>: Pelayar dan nyahpepijat jauh didayakan secara lalai, begitu juga dengan tema gelap dan butang bar alatan pembangun.
-firefox-developer-congrats-you-now-have = Tahniah. Anda kini memiliki { -brand-name-firefox-browser }: { -brand-name-developer-edition }.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Tahniah. Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+

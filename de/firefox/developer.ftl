@@ -8,6 +8,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Bei der { -brand-name-firefox-developer-edition } für Dich drin: Top-Speed, richtungsweisende Developer Tools und starke Features wie CSS Grid Support und Framework Debugging.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dein neuer Lieblings-Browser ist da – mit innovativen Features, mehr Performance sowie allen DevTools für Dich und das offene Web.
 firefox-developer-speak-up = Dein Feedback
@@ -20,7 +22,6 @@ firefox-developer-design-code-test = Gestalte. Code. Teste. Verbessere.
 
 # Line break for visual formatting
 firefox-developer-build-and-perfect = Bauen und perfektionieren Sie Ihre Websites<br> mit { -brand-name-firefox-devtools }
-
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Code inspizieren und optimieren für pixelgenaue Layouts.
 firefox-developer-learn-about-page-inspector = Mehr über den Inspector erfahren
@@ -71,18 +72,15 @@ firefox-developer-fonts-panel = Schriftart-Panel
 firefox-developer-the-new-fonts-panel = Mit dem neuen Schriftart-Panel in den { -brand-name-firefox-devtools } haben Entwickler schnellen Zugriff auf alle Informationen zu den von einem Element verwendeten Schriftarten. Dazu zählen auch wichtige Informationen wie die Quelle, das Gewicht und der Stil der Schriftart und mehr.
 firefox-developer-firefox-developer-edition-sends = Die { -brand-name-firefox-developer-edition } sendet automatisch Feedback an { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = { -brand-name-firefox } für Developer. Jetzt herunterladen.
-firefox-developer-welcome-to-the-all-new = Zeit für die neue { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Wir haben { -brand-name-firefox } fundamental erneuert. Das Ergebnis: er ist schneller, geschmeidiger und leistungsstärker als je zuvor.
-firefox-developer-congrats-you-now-have-firefox = Glückwunsch – Du hast die { -brand-name-firefox-quantum }: { -brand-name-developer-edition } am Start.
-firefox-developer-this-isnt-just-an-update = Weit mehr als nur ein Update: { -brand-name-firefox-quantum } ist ein völlig neuer { -brand-name-firefox }. Und noch viel schneller, flüssiger und leistungsstärker als je zuvor.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Willkommen bei { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Der Browser für Entwickler
 firefox-developer-all-the-latest-v2 = Die neuesten Entwicklerwerkzeuge als Beta-Version, plus Funktionen wie der mehrzeilige Konsoleneditor und WebSocket-Inspektor.
-
-# Obsolete string
-firefox-developer-all-the-latest = Die neuesten Entwicklerwerkzeuge als Beta-Version sowie <strong>experimentelle Funktionen</strong> wie der mehrzeilige Konsoleneditor und WebSocket-Inspektor.
-
 firefox-developer-a-separate-profile = Ein <strong>getrenntes Profil mit eigenem Pfad</strong>, damit die Version neben dem Release oder { -brand-name-firefox } { -brand-name-beta } genutzt werden kann.
 firefox-developer-preferences-tailored = Einstellungen, <strong>die an Web-Entwickler angepasst wurden</strong>: Browser- und Fern-Debugging sind standardmäßig aktiviert, ebenso wie das dunkle Theme und die Schaltfläche für die Entwicker-Symbolleiste.
-firefox-developer-congrats-you-now-have = Glückwunsch. Sie nutzen jetzt { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Glückwunsch. Sie nutzen jetzt die neueste Version von { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+

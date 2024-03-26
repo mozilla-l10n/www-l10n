@@ -8,6 +8,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } は最先端のデベロッパーツールや、CSS Grid 対応・フレームワークデバグなど、最新機能を備えた超高速ブラウザー
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ご愛用いただいているブラウザーが新しくなりました。自由なウェブを築くために必要とされる最新機能や高速パフォーマンス、開発ツールを、ぜひ入手してください。
 firefox-developer-speak-up = ご意見をお寄せください
@@ -20,7 +22,6 @@ firefox-developer-design-code-test = 設計・コーディング・テスト・�
 
 # Line break for visual formatting
 firefox-developer-build-and-perfect = { -brand-name-firefox-devtools } でサイト構築・完璧な仕上げ<br>
-
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = コードを検査して修正し、完璧なピクセルのレイアウトを構築します。
 firefox-developer-learn-about-page-inspector = Page Inspector の詳細
@@ -71,18 +72,15 @@ firefox-developer-fonts-panel = フォントパネル
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } の新フォントパネルを使用して、要素で使用されているフォントに関して必要なすべての情報にすばやくアクセスできます。また、フォントのソース、太さ、スタイルなど、重宝する情報も含まれています。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } は { -brand-name-mozilla } にフィードバックを自動送信します。
 firefox-developer-download-the-firefox-browser = デベロッパー専用に構築されたブラウザー、{ -brand-name-firefox } をダウンロード
-firefox-developer-welcome-to-the-all-new = 最新版 { -brand-name-firefox-quantum } へようこそ: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } が完全に再構築されて、さらに高速、シンプル、パワフルになりました。
-firefox-developer-congrats-you-now-have-firefox = あなたは{ -brand-name-firefox-quantum } を手に入れました: { -brand-name-developer-edition }
-firefox-developer-this-isnt-just-an-update = これは単なるアップデートではありません。{ -brand-name-firefox-quantum } は、完全に再構築されて、さらに高速、シンプル、パワフルになった { -brand-name-firefox } です。
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = ようこそ { -brand-name-firefox-browser } { -brand-name-developer-edition } へ
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー
 firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
-
-# Obsolete string
-firefox-developer-all-the-latest = すべての最新ベータ版デベロッパーツールに加え、Multi-line Console Editor や WebSocket Inspector 等の<strong>試験的機能</strong>。
-
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
-firefox-developer-congrats-you-now-have = あなたは{ -brand-name-firefox-browser } { -brand-name-developer-edition }を手に入れました。
+
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = これで{ -brand-name-firefox-browser } { -brand-name-developer-edition } の最新バージョンがインストールされました。
+
