@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } — очень быстрый браузер, обладающий передовыми инструментами разработчика и содержащий в себе последние разработки, например, он поддерживает CSS-сетки и отладку веб-приложений, построенных на фреймворках
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Добро пожаловать в ваш новый любимый браузер. Получите доступ к новым функциям, повышенной производительности и инструментам разработчика, которые понадобятся вам для построения открытого Интернета.
 firefox-developer-speak-up = Выскажитесь
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = Панель шрифтов
 firefox-developer-the-new-fonts-panel = Новая панель шрифтов в { -brand-name-firefox-devtools(case: "prepositional") } даёт быстрый доступ ко всей необходимой информации о шрифтах, использованных в элементе. Она также отображает полезные сведения, например, источник шрифта, ширину, стиль и другое.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } автоматически осуществляет обратную связь с { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Загрузите браузер { -brand-name-firefox }, созданный для разработчиков
-firefox-developer-welcome-to-the-all-new = Добро пожаловать в полностью новый { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } был переписан с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
-firefox-developer-congrats-you-now-have-firefox = Поздравляем. Теперь у вас установлен { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Это не просто обновление. Это { -brand-name-firefox-quantum }: Совершенно новый { -brand-name-firefox }, который был переписан с нуля, и теперь быстрее, плавнее и мощнее, чем когда-либо.
+firefox-developer-welcome-to-firefox-developer-edition = Добро пожаловать в { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Добро пожаловать в { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Браузер, созданный для разработчиков
 firefox-developer-all-the-latest-v2 = Бета-версия самых последних инструментов разработчика, а также такие функции, как Многострочный режим веб-консоли и Инспектор WebSocket'ов.
-# Obsolete string
-firefox-developer-all-the-latest = Бета-версия самых последних инструментов разработчика, а также такие <strong>экспериментальные функции</strong>, как Многострочный режим веб-консоли и Инспектор WebSocket'ов.
 firefox-developer-a-separate-profile = <strong>Отдельный профиль и путь</strong>, чтобы вы могли легко его запустить одновременно с релизом { -brand-name-firefox } или { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Настроенный <strong>специально под веб-разработчиков</strong>: Браузерная и удалённая отладка, тёмная тема и кнопка инструментов разработчика на панели инструментов включены по умолчанию.
-firefox-developer-congrats-you-now-have = Поздравляем. Теперь у вас установлен { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Теперь вы используете последнюю версию { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Поздравляем. Теперь вы используете последнюю версию { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Просмотрите <a { $attrs }>примечания к выпуску</a> (только на английском), чтобы узнать, что нового.
+firefox-developer-developer-tools-user = Документация пользователя инструментов разработчика
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Ресурсы для разработчиков, от разработчиков
+firefox-developer-mdn-references = Отзывы { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } — это совместный проект с открытым исходным кодом, документирующий технологии веб-платформы, включая CSS, HTML, JavaScript и веб-API.
+firefox-developer-mdn-curriculum = Учебный план { -brand-name-mdn }
+firefox-developer-a-structured-guide = Структурированное руководство по важным навыкам и практикам успешного интерфейсного разработчика, а также по рекомендуемым учебным ресурсам.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Поддержите { -brand-name-mdn } и сделайте его своим с подборками, уведомлениями и игровыми платформами.

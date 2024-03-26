@@ -38,3 +38,5 @@ legal-report-copyright = Сообщить о нарушении авторски
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Условия предоставления услуг { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Службы подписки { -brand-name-mozilla }
+legal-content-moderation = Правила модерации содержимого
+legal-amo-policies = Политики AMO

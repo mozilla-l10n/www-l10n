@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -18,12 +18,16 @@ installer-help-action-choose = Выберите загрузку ниже.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Загрузить последнюю версию. Приватность «из коробки» уже здесь. Загрузите { -brand-name-firefox }, чтобы заблокировать более { $trackers } трекеров.
+# Obsolete string (expires: 2024-05-14)
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Установите последнюю версию. Приватность «из коробки» уже здесь. Загрузите { -brand-name-firefox-browser }, чтобы блокировать свыше { $trackers } трекеров.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Протестируйте близкие к релизу возможности в более стабильных предрелизных сборках.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Создавайте, тестируйте, испытывайте и делайте многое другое с единственным браузером, созданным специально для разработчиков.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Загляните в веб-браузер следующего поколения и помогите сделать его лучшим.
 installer-help-need-help = Нужна помощь в установке?
 # Variables:
