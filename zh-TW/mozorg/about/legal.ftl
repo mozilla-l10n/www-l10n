@@ -38,3 +38,5 @@ legal-report-copyright = 回報著作權或商標侵害行為
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } 服務條款
 legal-mozilla-subscription-services = { -brand-name-mozilla } 訂閱服務
+legal-content-moderation = 內容管理實踐
+legal-amo-policies = AMO 政策

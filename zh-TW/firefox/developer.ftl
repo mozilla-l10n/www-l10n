@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } 是超級快的瀏覽器，提供最強大的開發者工具、CSS Grid 支援、對框架除錯等最新功能。
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = 歡迎使用您最愛的瀏覽器的全新版本。取得最新功能、更快速的效能，以及用來打造 Open Web 所需的開發工具。
 firefox-developer-speak-up = 有話大聲說
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = 字型面板
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } 當中全新的字體面板，讓開發者可以快速存取某個元素中，使用到的字體的相關資訊。面板中也包含了字體來源、字重、樣式等重要資訊。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } 會自動回傳資料回 { -brand-name-mozilla }。
 firefox-developer-download-the-firefox-browser = 下載為開發者設計的 { -brand-name-firefox } 瀏覽器
-firefox-developer-welcome-to-the-all-new = 歡迎使用全新的 { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = 這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
-firefox-developer-congrats-you-now-have-firefox = 您現在使用的是 { -brand-name-firefox-quantum }: { -brand-name-developer-edition }，恭喜您。
-firefox-developer-this-isnt-just-an-update = 不只是更新而已，{ -brand-name-firefox-quantum } 全新登場。這是從頭開始重新打造的 { -brand-name-firefox }，更快、更輕盈、威力更強大。
+firefox-developer-welcome-to-firefox-developer-edition = 歡迎使用 { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = 歡迎使用 { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = 為了開發者打造的瀏覽器
 firefox-developer-all-the-latest-v2 = 所有仍在 Beta 測試中的最新開發者工具，再加上主控台多行編輯器與 WebSocket 檢測器等功能。
-# Obsolete string
-firefox-developer-all-the-latest = 所有仍在 Beta 測試中的最新開發者工具，再加上主控台多行編輯器與 WebSocket 檢測器等<strong>實驗性功能</strong>。
 firefox-developer-a-separate-profile = 使用<strong>獨立設定擋</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
 firefox-developer-preferences-tailored = <strong>為網頁開發者量身打造的偏好設定</strong>：預設開啟瀏覽器與遠端除錯功能，以及暗色佈景主題，還有開發者工具列按鈕。
-firefox-developer-congrats-you-now-have = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 安裝完成。
+firefox-developer-congrats-you-now-have-latest-v2 = 您已經安裝了最新版的 { -brand-name-firefox-developer-edition }。
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 更新完成。
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = 檢視 <a { $attrs }>發行公告</a>只有英文版。
+firefox-developer-developer-tools-user = 開發者工具使用者文件
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = 依開發者分類的開發者資源
+firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
+firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、撰寫網頁平台技術文件的協作專案包含 CSS、HTML、JavaScript 及 Web API。
+firefox-developer-mdn-curriculum = { -brand-name-mdn } 課程
+firefox-developer-a-structured-guide = 關於成為成功的前端開發者必須具備的能力、實踐方式以及推薦的學習資源的結構化指南。
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = 支援 { -brand-name-mdn } 並透過收藏集、通知與 Playground 來打造您自己的風格。
