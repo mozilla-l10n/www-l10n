@@ -38,3 +38,5 @@ legal-report-copyright = Szerzői jogi vagy védjegyoltalmi visszaélések bejel
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = A { -brand-name-mozilla-hubs } szolgáltatási feltételei
 legal-mozilla-subscription-services = A { -brand-name-mozilla } előfizetéses szolgáltatásai
+legal-content-moderation = Tartalommoderációs gyakorlatok
+legal-amo-policies = AMO házirendek

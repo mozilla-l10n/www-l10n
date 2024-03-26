@@ -18,12 +18,16 @@ installer-help-action-choose = Válasszon egy letöltést alább.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Szerezze be a legfrissebbet. Az automatikus adatvédelem megérkezett. Töltse le a { -brand-name-firefox(case: "accusative") }, hogy blokkoljon több mint { $trackers } nyomkövetőt.
+# Obsolete string (expires: 2024-05-14)
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Szerezze be a legfrissebbet. Az automatikus adatvédelem megérkezett. Töltse le a { -brand-name-firefox-browser }t, és blokkoljon több mint { $trackers } nyomkövetőt.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Tesztelje a kiadásra váró funkciókat a legstabilabb, kiadás előtti változatban.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Építsen, teszteljen és skálázzon az egyetlen csak fejlesztőknek készülő böngészővel.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Nézze meg a következő generációs webböngészőnket, és segítsen nekünk a lehető legjobb böngésző elkészítésében.
 installer-help-need-help = Segítségre van szüksége a telepítéshez?
 # Variables:

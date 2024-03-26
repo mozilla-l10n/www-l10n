@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Gratulálunk. Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } legfrissebb verzióját használja.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Több { -brand-name-mdn }. Az <em>Ön</em> { -brand-name-mdn }-je.

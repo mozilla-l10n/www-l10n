@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = A { -brand-name-firefox-developer-edition } egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Üdvözöljük az új kedvenc böngészőjében. Szerezze meg a legújabb funkciókat, a jó teljesítményt, és azokat a fejlesztői eszközöket, amelyek a nyílt web építéséhez szükségesek.
 firefox-developer-speak-up = Mondja el véleményét
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = Betűkészletek panel
 firefox-developer-the-new-fonts-panel = A { -brand-name-firefox-devtools }ben található új betűkészletek panel gyors hozzáférést ad a fejlesztőknek, hogy azonnal megkapják a szükséges információkat az elemben használt betűkészletekről. Hasznos információkat is tartalmaz, mint a betűkészlet forrása, súlya, stílusa és így tovább.
 firefox-developer-firefox-developer-edition-sends = A { -brand-name-firefox-developer-edition } automatikus visszajelzést küld a { -brand-name-mozilla(ending: "accented") }nak.
 firefox-developer-download-the-firefox-browser = Töltse le a fejlesztőknek készült { -brand-name-firefox } böngészőt
-firefox-developer-welcome-to-the-all-new = Üdvözöljük a teljesen megújult { -brand-name-firefox-quantum }: { -brand-name-developer-edition }ben
 firefox-developer-firefox-has-been-rebuilt = A { -brand-name-firefox(case: "accusative") } az alapoktól építettük újra, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
-firefox-developer-congrats-you-now-have-firefox = Gratulálunk. Most már a { -brand-name-firefox-quantum }: { -brand-name-developer-edition }t használja.
-firefox-developer-this-isnt-just-an-update = Ez nem csak egy frissítés. Ez a { -brand-name-firefox-quantum }: egy teljesen új { -brand-name-firefox }, amely az alapoktól újra lett építve, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
+firefox-developer-welcome-to-firefox-developer-edition = Üdvözli a { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
 firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
-# Obsolete string
-firefox-developer-all-the-latest = A legújabb béta verziójú fejlesztői eszközök, valamint <strong>kísérleti funkciók</strong>, például a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
-firefox-developer-congrats-you-now-have = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } változatát használja.
+firefox-developer-congrats-you-now-have-latest-v2 = Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } legfrissebb verzióját használja.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megtudja az újdonságokat.
+firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációk
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől
+firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
+firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platform technológiákat dokumentál, beleértve a CSS, HTML, JavaScript és webes API-kat.
+firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
+firefox-developer-a-structured-guide = Strukturált útmutató a sikeres felületfejlesztő létfontosságú készségekhez és gyakorlatokhoz, ajánlott tanulási eszközökkel együtt.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és készítse el, gyűjteményekkel, értesítésekkel és játszóterekkel.
