@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Mae { -brand-name-firefox-developer-edition } yn borwr eithriadol o gyflym sy'n cynnig offer datblygwyr blaengar a'r nodweddion diweddaraf fel cefnogaeth i CSS Grid a fframwaith dadfygio
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Croeso i'ch hoff borwr newydd. Cewch y nodweddion diweddaraf, perfformiad cyflym a'r offer datblygu sydd eu hagen arnoch ar gyfer adeiladu ar gyfer y we agored.
 firefox-developer-speak-up = Rhannwch eich barn
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = Panel Ffontiau
 firefox-developer-the-new-fonts-panel = Mae'r panel ffontiau newydd yn { -brand-name-firefox-devtools } yn rhoi i ddatblygwyr fynediad cyflym i'r holl wybodaeth sydd ei angen arnynt am ffontiau sy'n cael eu defnyddio mewn elfennau. Mae hefyd yn cynnwys gwybodaeth werthfawr, fel ffynhonnell ffontiau, pwysau, arddull a rhagor.
 firefox-developer-firefox-developer-edition-sends = Mae { -brand-name-firefox-developer-edition } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Llwythwch i lawr y porwr { -brand-name-firefox } sydd wedi ei greu ar gyfer datblygwyr
-firefox-developer-welcome-to-the-all-new = Croeso i'r { -brand-name-firefox-quantum }: { -brand-name-developer-edition } newydd
 firefox-developer-firefox-has-been-rebuilt = Mae { -brand-name-firefox } wedi ei ailadeiladu i fod yn gynt, llyfnach a mwy pwerus nag o'r blaen.
-firefox-developer-congrats-you-now-have-firefox = Llongyfarchiadau. Rydych nawr yn defnyddio { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Nid dim ond diweddariad yw hwn. Hwn yw { -brand-name-firefox-quantum }: { -brand-name-firefox } newydd sbon sydd wedi ei ailadeiladu o'i sail i fod yn gynt yn fwy llyfn a phwerus nag erioed.
+firefox-developer-welcome-to-firefox-developer-edition = Croeso i { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Croeso i { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
 firefox-developer-all-the-latest-v2 = Yr holl offer datblygwr diweddaraf o fewn y beta yn ogystal â nodweddion fel y Golygydd Consol Aml-lein ac Arolygydd WebSocket.
-# Obsolete string
-firefox-developer-all-the-latest = Yr holl offer datblygwr diweddaraf mewn beta, ynghyd â <strong>nodweddion arbrofol</strong> fel y Golygydd Aml-linell y Consol ac Archwiliwr WebSocket.
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
-firefox-developer-congrats-you-now-have = Llongyfarchiadau. Bellach mae gennych { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-congrats-you-now-have-latest-v2 = Bellach mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Gweld y <a { $attrs }>nodiadau rhyddhau</a> (Saesneg yn unig) i weld beth sy'n newydd.
+firefox-developer-developer-tools-user = Dogfennau Defnyddiwr Offer Datblygwr
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatblygwyr
+firefox-developer-mdn-references = { -brand-name-mdn } Cyfeiriadau
+firefox-developer-mdn-is-a = Mae { -brand-name-mdn } yn brosiect ffynhonnell agored, cydweithredol sy'n dogfennu technolegau llwyfannau gwe, gan gynnwys CSS, HTML, JavaScript ac APIs gwe.
+firefox-developer-mdn-curriculum = { -brand-name-mdn } Cwricwlwm
+firefox-developer-a-structured-guide = Canllaw strwythuredig i'r sgiliau a'r arferion hanfodol ar gyfer bod yn ddatblygwr pen blaen llwyddiannus, ynghyd ag adnoddau dysgu a argymhellir.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Cefnogwch { -brand-name-mdn } a gwnewch ef yn un eich hun gyda chasgliadau, hysbysiadau a meysydd chwarae.

@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Llongyfarchiadau. Bellach mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Rhagor o { -brand-name-mdn }. <em>Eich</em> { -brand-name-mdn }.
