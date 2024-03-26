@@ -81,13 +81,13 @@ firefox-developer-made-for-developers = El navegador hecho para desarrolladores
 firefox-developer-all-the-latest-v2 = Todas las herramientas para desarrolladores más recientes en versión beta, además de funciones como el editor de consola multilínea y el inspector de WebSocket.
 firefox-developer-a-separate-profile = Con <strong>perfil y ruta separados</strong> para que se pueda ejecutar junto a { -brand-name-firefox } versión final o { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencias <strong>diseñadas para desarrolladores web</strong>: Depuración del navegador y remota vienen habilitadas por defecto, como el tema oscuro y el botón de la barra de desarrollador.
-firefox-developer-congrats-you-now-have-latest-v2 = Ahora tiene la última versión de { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Ahora tenés la última versión de { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Felicitaciones. Ahora tenés la última versión de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Mirá las <a { $attrs }> notas de la versión </a> (solo en inglés) para ver las novedades.
-firefox-developer-developer-tools-user = Documentación para el usuario de Herramientas para desarrolladores
+firefox-developer-view-the-release = Mirá las <a { $attrs }>notas de la versión</a> (solo en inglés) para ver las novedades.
+firefox-developer-developer-tools-user = Documentación para el usuario de herramientas de desarrollador
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
 firefox-developer-mdn-references = Referencias de { -brand-name-mdn }
