@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } är en blixtrande snabb webbläsare som erbjuder avancerade utvecklingsverktyg och nya funktioner som support för CSS-rutnät och felsökning av framework
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Välkommen till din nya favoritwebbläsare. Få de senaste funktionerna, snabb prestanda och de utvecklingsverktyg du behöver skapa den öppna webben.
 firefox-developer-speak-up = Säg din mening
@@ -71,16 +73,19 @@ firefox-developer-fonts-panel = Teckensnittspanel
 firefox-developer-the-new-fonts-panel = Den nya teckensnittspanelen i { -brand-name-firefox-devtools } ger utvecklare snabb åtkomst till all information de behöver om de teckensnitt som används i ett element. Den innehåller också värdefull information som teckensnittskälla, vikt, stil och mer.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } skickar automatiskt återkoppling till { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Ladda ner webbläsaren { -brand-name-firefox } gjord för utvecklare
-firefox-developer-welcome-to-the-all-new = Välkommen till den alldeles nya { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } har byggts om från grunden till att bli snabbare, snyggare och kraftfullare än någonsin.
-firefox-developer-congrats-you-now-have-firefox = Grattis. Du har nu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Detta är inte bara en uppdatering. Detta är { -brand-name-firefox-quantum }: en helt ny { -brand-name-firefox } som har blivit ombyggd från grunden för att vara snabbare, snyggare och mer kraftfull än tidigare.
+firefox-developer-welcome-to-firefox-developer-edition = Välkommen till { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Välkommen till { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Webbläsaren gjord för utvecklare
 firefox-developer-all-the-latest-v2 = Alla de senaste utvecklingsverktygen i beta utöver funktioner som konsolredigeraren med flera rader och WebSocket-inspektören.
-# Obsolete string
-firefox-developer-all-the-latest = Alla de senaste utvecklarverktygen i beta, plus <strong>experimentella funktioner</strong> som konsolredigeraren med flera rader och WebSocket-inspektören.
 firefox-developer-a-separate-profile = En <strong>separat profil och sökväg</strong> så att du enkelt kan köra den tillsammans med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Inställningar <strong>skräddarsydda för webbutvecklare</strong>: Webbläsar- och fjärrfelsökning är aktiverade som standard, liksom det mörka temat och knappen för verktygsfält för utvecklare.
-firefox-developer-congrats-you-now-have = Grattis. Du har nu { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Du har nu den senaste versionen av { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Grattis. Du har nu den senaste versionen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endast engelska) för att se vad som är nytt.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
