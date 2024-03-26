@@ -15,15 +15,14 @@ installer-help-action-choose = Pilih muat turun di bawah.
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
+
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Dapatkan yang terkini. Privasi automatik telah tiba. Muat turun { -brand-name-firefox-browser } untuk menyekat lebih daripada { $trackers } penjejak.
 
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Uji ciri yang akan dikeluarkan tidak lama lagi dalam binaan pra keluaran yang paling stabil.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Bina, uji, skalakan dan banyak lagi dengan satu-satunya pelayar yang direka khusus untuk para pembangun.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Lihat pelayar web generasi akan datang kami dan bantu kami menjadikannya pelayar terhebat.
 installer-help-need-help = Perlukan bantuan untuk memasang?
 

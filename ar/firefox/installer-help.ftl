@@ -15,15 +15,14 @@ installer-help-action-choose = اختر تنزيلاً أدناه.
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
+
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = احصل على الأحدث. الخُصوصية التلقائية مشمولة. نزّل { -brand-name-firefox-browser } لحظر ما يزيد عن { $trackers } من أداة تتبع.
 
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = اختبر الميزات التي قرُبَ إطلاقها في الإصدار التجريبي الأكثر استقرارًا.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = يُمكنك البناء والاختبار والتوسّع والمزيد باستخدام المتصفح الوحيد المُصمم للمطورين فقط.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = ألق نظرة خاطفة على مُتصفح الويب من الجيل التالي، وساعدنا في جعله أفضل مُتصفح على الإطلاق.
 installer-help-need-help = أتبحث عن مساعدة في التثبيت؟
 

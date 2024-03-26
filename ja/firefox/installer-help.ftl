@@ -15,15 +15,14 @@ installer-help-action-choose = 以下のうちからダウンロードを 1 件�
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
+
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = 最新版をダウンロードしてください。プライバシーが自動で守られます。{ -brand-name-firefox-browser } をダウンロードして、{ $trackers } 件以上のトラッカーをブロックしましょう。
 
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = 最も安定したプレリリースビルドで、近日リリース予定の機能をテストしてください。
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = デベロッパー専用に構築された唯一のブラウザーで、構築、テスト、スケーリングなどができます。
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = 次世代ウェブブラウザーを先行利用して、それを最も優れたブラウザーにする Mozilla の取り組みを応援してください。
 installer-help-need-help = インストールにヘルプが必要な場合
 
