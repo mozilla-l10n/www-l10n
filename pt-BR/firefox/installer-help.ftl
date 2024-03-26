@@ -18,12 +18,16 @@ installer-help-action-choose = Escolha um download abaixo.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Instale a versão mais recente. Privacidade automática é aqui. Use o { -brand-name-firefox } para bloquear mais de { $trackers } rastreadores.
+# Obsolete string (expires: 2024-05-14)
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Instale a versão mais recente. Privacidade automática é aqui. Use o { -brand-name-firefox-browser } para bloquear mais de { $trackers } rastreadores.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Teste na versão de pré-lançamento mais estável os recursos prestes a ser lançados.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Construa, teste, escale e muito mais com o único navegador feito especificamente para desenvolvedores.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Dê uma olhada em nosso navegador de próxima geração e ajude-nos a torná-lo o melhor navegador possível.
 installer-help-need-help = Precisa de ajuda para instalar?
 # Variables:

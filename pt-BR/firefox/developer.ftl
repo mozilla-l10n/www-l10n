@@ -74,11 +74,23 @@ firefox-developer-the-new-fonts-panel = O novo painel de fontes no { -brand-name
 firefox-developer-firefox-developer-edition-sends = O { -brand-name-firefox-developer-edition } envia informações automaticamente para a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Use o navegador { -brand-name-firefox } criado para desenvolvedores
 firefox-developer-firefox-has-been-rebuilt = O { -brand-name-firefox } foi completamente reconstruído para ser mais rápido, mais elegante e mais poderoso do que nunca.
+firefox-developer-welcome-to-firefox-developer-edition = Boas-vindas ao { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Boas-vindas ao { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = O navegador feito para desenvolvedores
 firefox-developer-all-the-latest-v2 = Todas as ferramentas de desenvolvimento mais recentes em beta, além de recursos como o editor multilinhas de console e o inspetor de WebSocket.
 firefox-developer-a-separate-profile = <strong>Perfil e caminho separados</strong> para você poder usar facilmente, lado a lado com o { -brand-name-firefox } comum ou { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferências <strong>ajustadas para desenvolvimento web</strong>: a depuração remota e no navegador é ativada por padrão, assim como o tema escuro e o botão de ferramentas de desenvolvimento na barra de ferramentas.
+firefox-developer-congrats-you-now-have-latest-v2 = Agora você tem a versão mais recente do { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Parabéns. Agora você tem a versão mais recente do { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Veja as <a { $attrs }>notas de atualização</a> (somente em inglês) para saber as novidades.
+firefox-developer-developer-tools-user = Documentação de ferramentas de desenvolvimento
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Recursos para desenvolvedores, por desenvolvedores
+firefox-developer-mdn-references = Referências do { -brand-name-mdn }
+firefox-developer-mdn-curriculum = Currículo do { -brand-name-mdn }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Apoie o { -brand-name-mdn } e ajuste para ficar do seu jeito, com coleções, notificações e áreas de teste de código.

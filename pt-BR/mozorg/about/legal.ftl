@@ -38,3 +38,5 @@ legal-report-copyright = Denunciar violação de direitos autorais ou marcas reg
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Termos de serviço do { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Serviços da { -brand-name-mozilla } com assinatura
+legal-content-moderation = Práticas de moderação de conteúdo
+legal-amo-policies = Diretrizes do AMO
