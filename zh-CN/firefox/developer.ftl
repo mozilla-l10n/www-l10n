@@ -86,7 +86,7 @@ firefox-developer-congrats-you-now-have-latest-v2 = 您已安装最新版 { -bra
 firefox-developer-congrats-you-now-have-latest = 恭喜，您正在使用的是最新版 { -brand-name-firefox-browser } - { -brand-name-developer-edition }。
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>仅提供英文版了解新版变化。
+firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅提供英文版），了解新版变化。
 firefox-developer-developer-tools-user = 开发者工具用户文档
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 由开发者编写的面向开发者的资源
