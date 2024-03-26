@@ -86,12 +86,12 @@ firefox-developer-congrats-you-now-have-latest-v2 = 您已經安裝了最新版�
 firefox-developer-congrats-you-now-have-latest = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 更新完成。
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = 檢視 <a { $attrs }>發行公告</a>只有英文版。
+firefox-developer-view-the-release = 看看<a { $attrs }>有什麼新鮮事</a>（只有英文版）。
 firefox-developer-developer-tools-user = 開發者工具使用者文件
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = 依開發者分類的開發者資源
+firefox-developer-resources-for-developers = 由開發者撰寫，提供開發者的相關資源
 firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
-firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、撰寫網頁平台技術文件的協作專案包含 CSS、HTML、JavaScript 及 Web API。
+firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、包含 CSS、HTML、JavaScript 及 Web API 等網頁平台技術文件的協作專案。
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 課程
 firefox-developer-a-structured-guide = 關於成為成功的前端開發者必須具備的能力、實踐方式以及推薦的學習資源的結構化指南。
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
