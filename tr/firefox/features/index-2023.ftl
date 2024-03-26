@@ -10,6 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox } tarayıcı öz
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }, tüm cihazlarınızda çalışan hızlı, hafif ve gizlilik odaklı bir tarayıcıdır.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } hızlanmaya devam ediyor
+features-index-the-latest-browser-speed-benchmarks = En son tarayıcı hız karşılaştırmaları, { -brand-name-firefox }’un her zamankinden daha hızlı olduğunu kanıtlıyor.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir tarayıcı mıdır?
 # Obsolete string

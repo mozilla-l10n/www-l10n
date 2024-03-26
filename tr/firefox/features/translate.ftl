@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } ile web sayfalarını çevirin
 features-translate-translate-the-web = Web’i çevirin
 features-translate-what-languages-are-currently = Şu anda hangi diller destekleniyor?
 features-translate-and-more-languages-are-in = Ve yeni diller de yolda!

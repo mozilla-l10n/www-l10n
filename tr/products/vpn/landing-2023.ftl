@@ -33,6 +33,7 @@ vpn-landing-more-than-servers-in-countries =
        *[other] { $countries }+ ülkede { $servers } taneden fazla sunucu
     }
 vpn-landing-fast-network-speeds-even-while = Oyun oynarken bile yüksek hızda bağlantı
+vpn-landing-no-bandwidth-restrictions-or = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-landing-see-all-features = Tüm özelliklere bakın
 vpn-landing-fram-a-brand-you-can-trust = Güvenebileceğiniz bir markadan
 vpn-landing-one-subscription-for-all-your = Tüm cihazlarınız için tek abonelik

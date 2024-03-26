@@ -38,3 +38,4 @@ legal-report-copyright = Telif hakkı veya ticari marka ihlalini bildir
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } Hizmet Koşulları
 legal-mozilla-subscription-services = { -brand-name-mozilla } Abonelik Hizmetleri
+legal-amo-policies = AMO ilkeleri

@@ -13,5 +13,9 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } güncellendi.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a { $url }>sürüm notlarını</a> okuyabilirsiniz.
+# Obsolete string
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a href="{ $url }">sürüm notlarını</a> okuyabilirsiniz.
 whatsnew-signoff = <strong>{ -brand-name-mozilla } desteğiyle.</strong> 1998’den beri para için değil, insanlık için çalışıyoruz.

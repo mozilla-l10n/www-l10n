@@ -7,3 +7,5 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Sabitlenmiş tarayıcı sekmeleri
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = En sevdiğiniz sayfalar bir tık uzağınızda. E-posta veya mesajlaşma uygulamalarınıza anında ulaşmak için sekme sabitlemeyi kullanabilirsiniz.

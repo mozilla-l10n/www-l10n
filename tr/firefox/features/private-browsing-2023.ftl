@@ -14,3 +14,6 @@ features-private-browsing-what-does-private-browsing-do = Gizli gezinti ne işe 
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Gizli gezinti modunda bir { -brand-name-firefox } tarayıcı penceresi.
 features-private-browsing-what-private-browsing-doesnt-do = Gizli gezinti ne değildir?
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = { -brand-name-firefox }’un gizli gezintisini <a href="{ $chrome }">Chrome’un gizli modu</a> ile karşılaştırın.
