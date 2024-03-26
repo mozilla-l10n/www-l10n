@@ -18,7 +18,7 @@ installer-help-action-choose = Elegí una descarga de las de abajo.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = Obtén las últimas novedades. La privacidad automática está aquí. Descargá { -brand-name-firefox } para bloquear más de { $trackers } rastreadores.
+installer-help-firefox-release-desc-v2 = Obtené las últimas novedades. La privacidad automática está acá. Descargá { -brand-name-firefox } para bloquear más de { $trackers } rastreadores.
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
