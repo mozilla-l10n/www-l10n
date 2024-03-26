@@ -95,4 +95,4 @@ firefox-developer-mdn-is-a = { -brand-name-mdn } 是提供 Web 平台技术相�
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 课程
 firefox-developer-a-structured-guide = 体例完善的指南中包含基础技能和实践，再配以推荐的学习资源，助您成为优秀的前端开发者。
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持并通过收藏、通知、游乐场让 { -brand-name-mdn } 为您所用。
+firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持，并借助收藏集、通知、演练场，将 { -brand-name-mdn } 化为己用。
