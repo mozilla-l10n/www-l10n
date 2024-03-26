@@ -38,3 +38,5 @@ legal-report-copyright = გვაცნობეთ საავტორო �
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } – მომსახურების პირობები
 legal-mozilla-subscription-services = { -brand-name-mozilla }-ს გამოსაწერი მომსახურებები
+legal-content-moderation = შიგთავსის მოდერაციის ხერხები
+legal-amo-policies = AMO-ს დებულებები

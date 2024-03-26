@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } არის უსწრაფესი ბრაუზერი, რომელიც გთავაზობთ შემმუშავებლის უახლეს ხელსაწყოებსა და შესაძლებლობებს, როგორიცაა CSS-ბადის მხარდაჭერა და სამუშაო გარსის გამმართველი
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = მოგესალმებათ თქვენი ახალი რჩეული ბრაუზერი. ისარგებლეთ უახლესი შესაძლებლობებით, გაზრდილი წარმადობითა და შემმუშავებლის ხელსაწყოებით ღია და გახსნილი ვებპროექტების შესაქმნელად.
 firefox-developer-speak-up = გამოთქვით მოსაზრება
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = შრიფტების არე
 firefox-developer-the-new-fonts-panel = შრიფტების ახალი არე, რომლითაც { -brand-name-firefox-devtools } საშუალებას აძლევს შემმუშავებლებს, სწრაფი წვდომა ჰქონდეთ გამოყენებული შრიფტების ყველა მონაცემთან. ამასთანავე, შეიცავს ისეთ გამოსადეგ ინფორმაციას, როგორიცაა შრიფტის წყარო, სისქე, იერსახე და სხვა.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ავტომატურად უგზავნის მონაცემებს { -brand-name-mozilla }-ს.
 firefox-developer-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი შექმნილი შემმუშავებლებისთვის
-firefox-developer-welcome-to-the-all-new = მოგესალმებათ ახალთახალი { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } შეიქმნა ახლიდან, რომ გამხდარიყო არნახულად სწრაფი, მოქნილი და მძლავრი.
-firefox-developer-congrats-you-now-have-firefox = გილოცავთ. თქვენ უკვე იყენებთ { -brand-name-firefox-quantum }: { -brand-name-developer-edition }-ს.
-firefox-developer-this-isnt-just-an-update = ეს არაა რიგითი განახლება. ეს არის { -brand-name-firefox-quantum }: სრულიად ახალი { -brand-name-firefox }, რომელიც შეიქმნა ნულიდან, რომ გამხდარიყო არნახულად სწრაფი, მოქნილი და მძლავრი.
+firefox-developer-welcome-to-firefox-developer-edition = მოგესალმებათ { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = მოგესალმებათ { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = ბრაუზერი შექმნილი შემმუშავებლებისთვის
 firefox-developer-all-the-latest-v2 = შემმუშავებლის ყველა უახლესი ხელსაწყო Beta-ში, მრავალი ხაზოვანი კონსოლის რედაქტორისა და WebSocket Inspector-ის მსგავსი შესაძლებლობების გარდა.
-# Obsolete string
-firefox-developer-all-the-latest = ყველა უახლესი ხელსაწყო შემმუშავებლებისთვის, ამასთანავე, ჯერ კიდევ <strong>გამოსაცდელი შესაძლებლობები</strong>, მათ შორის ბრძანებების მრავალხაზიანი შეტანის შემსწორებელი და WebSocket-საკვლევი.
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოჰყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
-firefox-developer-congrats-you-now-have = გილოცავთ. თქვენ უკვე გიყენიათ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = თქვენ უკვე გაქვთ { -brand-name-firefox-developer-edition }-ის უახლესი ვერსია.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = გილოცავთ. თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = იხილეთ <a { $attrs }>გამოშვების შენიშვნები</a> (მხოლოდ ინგლისურად), რომ იხილოთ, რა სიახლეებია.
+firefox-developer-developer-tools-user = შემმუშავებლის ხელსაწყოები მომხმარებლის დოკუმენტები
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = რესურსები შემმუშავებლებისთვის, შემმუშავებლებისგან
+firefox-developer-mdn-references = { -brand-name-mdn } დამოწმება
+firefox-developer-mdn-is-a = { -brand-name-mdn } ღია წყაროს მქონე, თანამშრომლობითი პროექტია, ვებპლატფორმის ტექნოლოგიების, CSS, HTML, JavaScript და ვებ API-ების ჩათვლით.
+firefox-developer-mdn-curriculum = { -brand-name-mdn } სასწავლო გეგმა
+firefox-developer-a-structured-guide = სტრუქტურირებული გზამკვლევი ძირითადი უნარებისა და ხერხების შესახებ, front-end შემუშავებისთვის, სასურველ რესურსებთან ერთად.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = მხარი დაუჭირეთ { -brand-name-mdn }-ს და გახადეთ თქვენებური კრებულებით, შეტყობინებებითა და მოედნებით.

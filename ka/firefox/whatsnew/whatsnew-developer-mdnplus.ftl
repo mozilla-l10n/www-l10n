@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = გილოცავთ. თქვენ უკვე გაქვთ { -brand-name-firefox-developer-edition }-ის უახლესი ვერსია.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = გილოცავთ. თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = მეტი { -brand-name-mdn }. <em>თქვენი</em> { -brand-name-mdn }.
