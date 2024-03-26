@@ -87,7 +87,7 @@ firefox-developer-congrats-you-now-have-latest = Поздравляем. Теп�
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Просмотрите <a { $attrs }>примечания к выпуску</a> (только на английском), чтобы узнать, что нового.
-firefox-developer-developer-tools-user = Документация пользователя инструментов разработчика
+firefox-developer-developer-tools-user = Документация пользователя для инструментов разработчика
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ресурсы для разработчиков, от разработчиков
 firefox-developer-mdn-references = Отзывы { -brand-name-mdn }
