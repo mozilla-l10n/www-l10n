@@ -87,5 +87,11 @@ firefox-developer-congrats-you-now-have-latest = Grattis. Du har nu den senaste 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endast engelska) för att se vad som är nytt.
+firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
+firefox-developer-mdn-references = Referenser { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } är ett samarbetsprojekt med öppen källkod som dokumenterar webbplattformstekniker, inklusive CSS, HTML, JavaScript och webb-API:er.
+firefox-developer-mdn-curriculum = Läroplan { -brand-name-mdn }
+firefox-developer-a-structured-guide = En strukturerad guide till de grundläggande färdigheterna och metoderna för att vara en framgångsrik front-end utvecklare, tillsammans med rekommenderade inlärningsresurser.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

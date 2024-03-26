@@ -38,3 +38,5 @@ legal-report-copyright = Rapportera upphovsrättsintrång eller varumärkesintr�
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Användarvillkor för { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = { -brand-name-mozilla } Prenumerationstjänster
+legal-content-moderation = Metoder för innehållsmoderering
+legal-amo-policies = AMO-policyer

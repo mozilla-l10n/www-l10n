@@ -16,6 +16,9 @@ installer-help-action-choose = Välj en nedladdning nedan.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Få det senaste. Automatisk integritet är här. Hämta { -brand-name-firefox } för att blockera över { $trackers } spårare.
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
