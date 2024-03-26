@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Gratulujeme. Nyní máte nejnovější verzi { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Gratulujeme. Nyní máte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Více { -brand-name-mdn }. <em>Vaše</em> { -brand-name-mdn }.

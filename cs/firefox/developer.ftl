@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je šíleně rychlý prohlížeč, který nabízí moderní nástroje pro vývojáře a podporu nejnovějších funkcí jako je CSS Grid nebo ladění frameworků
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Vítejte ve svém novém oblíbeném prohlížeči. Získejte nejnovější funkce, skvělý výkon a nástroje pro vývojáře, které potřebujete k tvorbě otevřeného webu.
 firefox-developer-speak-up = Řekněte nám, co si myslíte
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = Panel písem
 firefox-developer-the-new-fonts-panel = Nový panel fontů v nástrojích pro vývojáře { -brand-name-firefox-devtools } umožňuje rychlí přístup k potřebným informacích o použitých fontech, jejich zdrojích, velikosti a dalším stylování.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automaticky odesílá zpětnou vazbu { -brand-name-mozilla(case: "dat") }.
 firefox-developer-download-the-firefox-browser = Stáhněte si { -brand-name-firefox(case: "acc") } vytvořený pro vývojáře
-firefox-developer-welcome-to-the-all-new = Vítejte ve světě nového { -brand-name-firefox-quantum(case: "gen") }: { -brand-name-developer-edition } pro vývojáře
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } byl upraven od základu, aby byl rychlejší, elegantnější a výkonnější než kdy předtím.
-firefox-developer-congrats-you-now-have-firefox = Gratulujeme. Nyní máte { -brand-name-firefox-quantum(case: "acc") }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Není to jen aktualizace. Je to { -brand-name-firefox-quantum } - nový { -brand-name-firefox }, který byl upraven od základu, aby byl rychlejší, elegantnější a výkonnější než kdy předtím.
+firefox-developer-welcome-to-firefox-developer-edition = Vítá vás { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Vítá vás { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Prohlížeč určený pro vývojáře
 firefox-developer-all-the-latest-v2 = Kromě funkcí jako je Multi-line Console Editor a WebSocket Inspector také všechny nejnovější nástroje pro vývojáře obsažené v betaverzi.
-# Obsolete string
-firefox-developer-all-the-latest = Všechny nejnovější nástroje pro vývojáře obsažené ve verzi Beta a k tomu ještě <strong>experimentální funkce</strong>, jako jsou Multi-line Console Editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho můžete snadno spustit zároveň se standardní verzí nebo { -brand-name-firefox(case: "ins") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Předvolby přímo <strong>pro webové vývojáře</strong>: Ve výchozím stavu je zapnuté ladění prohlížeče a vzdálené ladění, stejně jako tmavý vzhled a rychlý přístup k nástrojům pro vývojáře.
-firefox-developer-congrats-you-now-have = Gratulujeme. Nyní máte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Nyní máte nejnovější verzi { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulujeme. Nyní máte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Podívejte se do <a { $attrs }>poznámek k vydání</a> (pouze v angličtině), co je nového.
+firefox-developer-developer-tools-user = Uživatelská dokumentace Nástrojů pro vývojáře
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Zdroje pro vývojáře, od vývojářů
+firefox-developer-mdn-references = Reference { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } je otevřený projekt založený na spolupráci dokumentující technologie webových platforem, včetně CSS, HTML, JavaScriptu a webových API.
+firefox-developer-mdn-curriculum = Učební plán { -brand-name-mdn }
+firefox-developer-a-structured-guide = Strukturovaný průvodce základními dovednostmi a postupy, abyste mohli být úspěšným vývojářem front-endu, spolu s doporučenými zdroji pro výuku.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Podpořte { -brand-name-mdn } a přizpůsobte si ho pomocí sbírek, upozornění a možností nastavení.
