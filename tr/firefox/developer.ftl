@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }, CSS Grid desteği ve framework'lerde hata ayıklama gibi son teknoloji geliştirici araçları ve yepyeni özellikler sunan, son derece hızlı bir tarayıcı
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = En sevdiğin tarayıcının yeni haline hoş geldin. Açık web’i inşa etmen için gereken en yeni özellikler, daha yüksek performans ve geliştirici araçları bir arada.
 firefox-developer-speak-up = Derdini söyle
@@ -71,15 +73,13 @@ firefox-developer-fonts-panel = Yazı tipleri paneli
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }’a yeni eklenen yazı tipleri paneli, geliştiricilerin, sayfadaki bir elemanda kullanılan yazı tipleriyle ilgili tüm bilgilere kolayca ulaşmasını sağlıyor. Ayrıca yazı tipi kaynağı, ağırlığı, stili gibi önemli bilgileri de içeriyor.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } otomatik olarak { -brand-name-mozilla }’ya geri bildirim gönderir.
 firefox-developer-download-the-firefox-browser = Geliştiriciler için geliştirdiğimiz { -brand-name-firefox } tarayıcısını indir
-firefox-developer-welcome-to-the-all-new = Yepyeni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
-firefox-developer-congrats-you-now-have-firefox = Tebrikler. { -brand-name-firefox-quantum }: { -brand-name-developer-edition } emrinize amade.
-firefox-developer-this-isnt-just-an-update = Bu sadece bir güncelleme değil. Bu, { -brand-name-firefox-quantum }: { -brand-name-firefox } hiç olmadığı kadar hızlı, çekici ve daha güçlü olması için sıfırdan inşa edildi.
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }’a hoş geldiniz
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tarayıcı
-# Obsolete string
-firefox-developer-all-the-latest = Betadaki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi <strong>deneysel özellikler</strong>.
 firefox-developer-a-separate-profile = Final sürümü veya { -brand-name-beta } { -brand-name-firefox } ile aynı anda kullanabilmeniz için <strong>ayrı bir profil</strong>.
 firefox-developer-preferences-tailored = <strong>Web geliştiricilerine yönelik</strong> tercihler: Tarayıcıdan ve uzaktan hata ayıklama, koyu tema ve geliştirici araç çubuğu düğmesi gibi özellikler varsayılan olarak açık.
-firefox-developer-congrats-you-now-have = Tebrikler. { -brand-name-firefox-browser } { -brand-name-developer-edition } emrinize amade.
+firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }’ın son sürümünü kullanıyorsunuz.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Tebrikler. En yeni { -brand-name-firefox-browser } { -brand-name-developer-edition } sürümünü kullanıyorsunuz.
