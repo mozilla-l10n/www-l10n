@@ -86,13 +86,13 @@ firefox-developer-congrats-you-now-have-latest-v2 = Most már a { -brand-name-fi
 firefox-developer-congrats-you-now-have-latest = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } legfrissebb verzióját használja.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megtudja az újdonságokat.
-firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációk
+firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megismerje az újdonságokat.
+firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációi
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől
 firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
-firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platform technológiákat dokumentál, beleértve a CSS, HTML, JavaScript és webes API-kat.
+firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platformtechnológiákat dokumentál, beleértve a CSS-t, HTML-t, JavaScriptet és a webes API-kat.
 firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
 firefox-developer-a-structured-guide = Strukturált útmutató a sikeres felületfejlesztő létfontosságú készségekhez és gyakorlatokhoz, ajánlott tanulási eszközökkel együtt.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és készítse el, gyűjteményekkel, értesítésekkel és játszóterekkel.
+firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.

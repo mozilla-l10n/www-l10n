@@ -16,7 +16,7 @@ features-fast-firefox-is-powered-by-the-world = A { -brand-name-firefox } a vil�
 # Variables
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
 features-fast-all-browsers-had-to-make = Minden böngészőnek fejlesztést kellett végeznie, hogy jól teljesítsen az új Speedométer 3 teszteken. Mindenekelőtt a { -brand-name-firefox } ért el hatalmas lépéseket, és <a { $link }>láthatóan gyorsabb lett</a> a felhasználói számára, közvetlen munka eredményeként. A { -brand-name-firefox } minden eddiginél gyorsabb, olyan sebességgel, amilyen gyorsan csak érezhető, beleértve a gyorsabb oldalbetöltést és a simább interakciókat.
-features-fast-towards-a-faster-web = A gyorsabb internet felé
+features-fast-towards-a-faster-web = A gyorsabb világháló felé
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = A { -brand-name-mozilla } <a { $link }>elkötelezettségünk</a> a saját böngészőnk és az egész web folyamatos fejlesztése iránt. Ezért fektettünk be az együttműködésbe, hogy kifejlesztjük a Speedométer 3-at, amely viszont javította az összes böngésző teljesítményét. Tehát bármelyik böngészőt választja is, a { -brand-name-mozilla } azt szeretné, hogy gyors legyen.
+features-fast-theres-been-an-encouraging = A { -brand-name-mozilla } <a { $link }>elkötelezett</a> a saját böngészőnk és az egész web folyamatos fejlesztése mellett. Ezért fektettünk be az együttműködésbe, hogy kifejlesszük a Speedometer 3-at, amely az összes többi böngésző teljesítményét is javította. Tehát bármelyik böngészőt is választja, a { -brand-name-mozilla } azt szeretné, hogy az gyors legyen.

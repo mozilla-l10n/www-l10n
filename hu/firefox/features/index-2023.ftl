@@ -10,7 +10,7 @@ features-index-firefox-browser-features = A { -brand-name-firefox } böngészőf
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = A { -brand-name-firefox } a gyors, könnyűsúlyú és adatvédelem-központú böngésző, amely minden eszközén működik.
 features-index-firefox-keeps-getting-faster = A { -brand-name-firefox } egyre gyorsabb
-features-index-the-latest-browser-speed-benchmarks = A legfrissebb böngészősebesség-benchmarkok azt bizonyítják, hogy a { -brand-name-firefox } gyorsabb, mint valaha.
+features-index-the-latest-browser-speed-benchmarks = A legfrissebb böngésző-sebességmérések azt bizonyítják, hogy a { -brand-name-firefox } gyorsabb, mint valaha.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = A { -brand-name-firefox } gyors böngésző?
 # Obsolete string
