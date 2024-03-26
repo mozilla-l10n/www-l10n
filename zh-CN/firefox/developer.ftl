@@ -93,6 +93,6 @@ firefox-developer-resources-for-developers = 庞大资源库。源于开发者�
 firefox-developer-mdn-references = { -brand-name-mdn } 参考文档
 firefox-developer-mdn-is-a = { -brand-name-mdn } 是提供 Web 平台技术相关文档的协作式开源项目，内容涵盖 CSS、HTML、JavaScript 以及 Web API。
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 课程
-firefox-developer-a-structured-guide = 成为一名成功的前端开发者的基本技能和实践的结构化指南以及推荐的学习资源。
+firefox-developer-a-structured-guide = 体例完善的指南中包含基础技能和实践，再配以推荐的学习资源，助您成为优秀的前端开发者。
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持并通过收藏、通知、游乐场让 { -brand-name-mdn } 为您所用。

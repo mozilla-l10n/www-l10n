@@ -18,14 +18,14 @@ installer-help-action-choose = 请选择您想要下载的版本。
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = 获取最新信息。自动隐私保护在这里。下载 { -brand-name-firefox } 即可拦截超过 { $trackers } 个跟踪器。
+installer-help-firefox-release-desc-v2 = 下载会自动保护隐私的最新版。下载 { -brand-name-firefox } 即可拦截超过 { $trackers } 种跟踪器。
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = 下载会自动保护隐私的最新版。下载 { -brand-name-firefox-browser } 即可拦截超过 { $trackers } 种跟踪器。
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = 在最稳定的预览版本中测试即将发布的功能。
-installer-help-firefox-developer-title-v2 = { -brand-name-developer-edition } { -brand-name-firefox }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = 使用专为开发者打造的浏览器进行构建、测试和测量。
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = 抢先体验我们的下一代网络浏览器，与我们一起把它打造得尽善尽美
