@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } është një shfletues i shpejtë si rrufe që ofron mjete zhvilluesish të fjalës së fundit dhe veçoritë më të reja, të tilla mbulim për Rrjetë CSS dhe diagnostikim platformash
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Mirë se vini te shfletuesi juaj i ri i parapëlqyer. Shijoni veçoritë më të reja, punim të shpejtë dhe mjete zhvillimi që ju duhen për të ndërtuar një web të hapur.
 firefox-developer-speak-up = Ngrini zërin
@@ -71,16 +73,21 @@ firefox-developer-fonts-panel = Panel Shkronjash
 firefox-developer-the-new-fonts-panel = Paneli i ri i shkronjave te { -brand-name-firefox-devtools } në Firefox u jep zhvilluesve hyrje të shpejtë në krejt të dhënat që ata kanë nevojë mbi shkronjat e përdorura në një element. Në të përfshihen edhe të dhëna të dobishme të tilla si burimi, madhësia, stili i shkronjave, etj .
 firefox-developer-firefox-developer-edition-sends = Versioni { -brand-name-firefox-developer-edition } dërgon vetvetiu të dhëna te { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-name-firefox } të krijuar për zhvillues
-firefox-developer-welcome-to-the-all-new = Mirë se vini te { -brand-name-firefox-quantum }: { -brand-name-developer-edition } fringo i ri
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }-i është rikrijuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
-firefox-developer-congrats-you-now-have-firefox = Përgëzime. Tani keni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Ky s’është thjesht një përditësim. Ky është { -brand-name-firefox-quantum }: një { -brand-name-firefox } fringo i ri që është rindërtuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
+firefox-developer-welcome-to-firefox-developer-edition = Mirë se vini te { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Mirë se vini te { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
-# Obsolete string
-firefox-developer-all-the-latest = Krejt mjetet më të reja të zhvillimit në beta, plus <strong>veçori eksperimentale</strong>, bie fjala, Multi-line Console Editor dhe WebSocket Inspector.
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: diagnostkim Shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
-firefox-developer-congrats-you-now-have = Përgëzime. Tani keni { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Përgëzime. Tanimë keni versionin më të ri të { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $attrs }>shënime hedhjeje në qarkullim</a> (vetëm në anglisht).
+firefox-developer-developer-tools-user = Dokumentime për Përdorues Mjetesh Zhvilluesi
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillues
+firefox-developer-mdn-references = Referenca { -brand-name-mdn }
