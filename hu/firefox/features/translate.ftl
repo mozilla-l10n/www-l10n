@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Fordítson le egy weboldalt a { -brand-name-firefox(case: "instrumental") }
-features-translate-translate-the-web = Fordítsa le a webet a { -brand-name-firefox(case: "instrumental") }
+features-translate-translate-the-web = Fordítsa le a webet
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = A { -brand-name-firefox } Translations egy beépített fordítási funkció, amely lehetővé teszi, hogy könnyen böngésszen a weben a választott nyelvén. Tudjon meg többet a { -brand-name-firefox } ezen funkciójának működéséről, és hogy a { -brand-name-mozilla } hogyan segít a fordítások privátan tartásában.
 features-translate-one-of-the-best-things-about = Az egyik legjobb dolog az interneten, hogy világszerte elérhetjük a tartalmakat. Legyen szó hírekről, blogokról vagy akár a legfrissebb kütyüjének értékeléséről, mindent megtalál a véget nem érőnek tűnő weben. A { -brand-name-firefox } legújabb fordítási funkciójával, ez az eszköz folyamatosan, valós időben fordítja le a weboldalakat.

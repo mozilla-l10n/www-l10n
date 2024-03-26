@@ -163,7 +163,13 @@
 
 -brand-name-common-voice = Common Voice
 -brand-name-hubs = Hubs
--brand-name-mdn = MDN
+-brand-name-mdn =
+    { $case ->
+        [accusative] MDN-t
+        [dative] MDN-nek
+        [instrumental] MDN-nel
+       *[nominative] MDN
+    }
 
 ## Mozilla projects (legacy)
 
