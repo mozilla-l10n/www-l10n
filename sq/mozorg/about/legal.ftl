@@ -38,3 +38,5 @@ legal-report-copyright = Njoftoni Shkelje të Drejtash Kopjimi ose Shenjash Treg
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Kushte Shërbimi { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Shërbime { -brand-name-mozilla } Me Pajtim
+legal-content-moderation = Praktika Moderimi Lënde
+legal-amo-policies = Rregulla AMO
