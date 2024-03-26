@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il browser ultra veloce con funzioni all’avanguardia per lo sviluppo web, supporto alle ultime tecnologie come le griglie CSS ed equipaggiato di un debugger avanzato compatibile con i più diffusi framework.
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ti presentiamo il tuo nuovo browser preferito. Ti aspettano nuove funzioni, prestazioni eccezionali e tutti gli strumenti necessari per consentirti di creare per l’Open Web.
 firefox-developer-speak-up = Fai sentire la tua voce
@@ -71,16 +73,26 @@ firefox-developer-fonts-panel = Pannello caratteri
 firefox-developer-the-new-fonts-panel = Il nuovo pannello caratteri di { -brand-name-firefox-devtools } fornisce agli sviluppatori un accesso rapido a tutte le informazioni necessarie sui caratteri utilizzati in un elemento. Include anche preziosi dati come provenienza, peso, stile ecc.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } è impostato per inviare automaticamente un feedback a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Scarica la versione di { -brand-name-firefox } dedicata agli sviluppatori
-firefox-developer-welcome-to-the-all-new = Benvenuto nel nuovissimo { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Abbiamo riprogettato { -brand-name-firefox } dalle fondamenta per farlo diventare il browser più veloce, più elegante e potente di sempre.
-firefox-developer-congrats-you-now-have-firefox = Congratulazioni. Adesso stai usando { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Questo non è un semplice aggiornamento. Questo è { -brand-name-firefox-quantum }, un { -brand-name-firefox } completamente riprogettato per essere il più veloce, più elegante e più avanzato di sempre.
+firefox-developer-welcome-to-firefox-developer-edition = Benvenuto in { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Benvenuto nel { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Il browser realizzato per gli sviluppatori
 firefox-developer-all-the-latest-v2 = Tutti gli strumenti di sviluppo più recenti in versione beta, oltre a funzionalità come la console multi linea e il WebSocket Inspector.
-# Obsolete string
-firefox-developer-all-the-latest = Tutti gli strumenti di sviluppo più recenti in versione beta, oltre a <strong>funzioni sperimentali</strong> come la console multi linea e il WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Percorso e profilo separati</strong> così da poter essere eseguito facilmente in parallelo alla versione ufficiale o { -brand-name-beta } di { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Impostazioni <strong>a misura di sviluppatori</strong>: browser e debugger remoto sono attivati per impostazione predefinita, così come il tema scuro e il pulsante degli strumenti di sviluppo web.
-firefox-developer-congrats-you-now-have = Congratulazioni: stai usando il { -brand-name-firefox-browser }{ -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Ora stai utilizzando la versione più recente di { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Congratulazioni: stai utilizzando la versione più recente del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Consulta le <a { $attrs }>note di versione</a> (solo in inglese) per scoprire le novità.
+firefox-developer-developer-tools-user = Documentazione per gli strumenti di sviluppo
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Risorse per sviluppatori, da sviluppatori
+firefox-developer-mdn-references = Riferimenti { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } è un progetto collaborativo open source che documenta le tecnologie della piattaforma web, inclusi CSS, HTML, JavaScript e API web.
+firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
+firefox-developer-a-structured-guide = Una guida strutturata alle competenze e alle pratiche essenziali per diventare uno sviluppatore front-end di successo, insieme a risorse di apprendimento consigliate.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Sostieni { -brand-name-mdn } e personalizzalo con raccolte, notifiche e aree per provare il tuo codice.
