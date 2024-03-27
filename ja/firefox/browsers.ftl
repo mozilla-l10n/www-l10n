@@ -2,13 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = デスクトップ、モバイル、エンタープライズ用 { -brand-name-firefox } をダウンロード
 
 # HTML page description
 firefox-browsers-page-desc = デスクトップ、{ -brand-name-ios }、{ -brand-name-android } から選択してください。モバイルダウンロード用リンクをメールでお送りすることもできます。
+
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
