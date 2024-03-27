@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Preuzmite { -brand-name-firefox } za desktop, mobilne uređaje ili preduzeća
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Nabavite pretraživače koji vašu privatnost stavljaju na prvo mjesto — i uvijek jesu
 # HTML page description
 firefox-browsers-page-desc = Odaberite između desktopa, { -brand-name-ios }, { -brand-name-android } ili nam dopustite da vam pošaljemo link za preuzimanje putem emaila.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Dobijte privatnost koju zaslužujete. Poboljšana zaštita od praćenja je automatska u svakom { -brand-name-firefox } pretraživaču.
+firefox-browsers-main-heading = { -brand-name-firefox } pretraživači
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Nabavite <strong>pretraživače</strong> koji vašu privatnost stavljaju na prvo mjesto — i uvijek jesu
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Napusti dvodimenzionalni svijet 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Izgradite web stranice i poboljšajte svoj kod pomoću { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Saznajte više o { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Pridružite se { -brand-name-firefox }u i izvucite maksimum iz svakog proizvoda — na svakom uređaju.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Već imate račun? <a { $fxa_attr }>Prijavite se</a> ili <a { $accounts_attr }>saznajte više</a> o pridruživanju { -brand-name-firefox }u.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Već imate račun? <a { $fxa_attr }>Prijavite se</a> ili <a { $accounts_attr }>saznajte više</a> o pridruživanju Firefoxu.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
