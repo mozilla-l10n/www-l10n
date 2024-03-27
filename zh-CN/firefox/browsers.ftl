@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = 下载 { -brand-name-firefox } 桌面版、移动版或企业版
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = 我们的浏览器视隐私为先—这是不变的承诺
 # HTML page description
 firefox-browsers-page-desc = 从桌面版、{ -brand-name-ios } 版和 { -brand-name-android } 版中选取一个，或者让我们通过电子邮件发送给您移动端下载链接。
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = 隐私就是你应有的权利。增强型跟踪保护在所有 { -brand-name-firefox } 浏览器中均默认开启。
+firefox-browsers-main-heading = { -brand-name-firefox } 浏览器
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 我们的<strong>浏览器</strong><br>视隐私为先—<br>这是不变的承诺
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = 游目骋怀，享受网络中�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = 使用 { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>开发网站、调校代码
 firefox-browsers-learn-more-about-devtools = 详细了解“{ -brand-name-devtools }”
-firefox-browsers-join-firefox-and-get-the-most = 加入 { -brand-name-firefox } 的行列，跨越设备边界，解锁各款产品的完整体验。
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = 已有账户？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a>关于加入 { -brand-name-firefox } 的行列。
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = 已经有账户了吗？<a { $fxa_attr }>在此登录</a>或<a { $accounts_attr }>详细了解</a> Firefox 的大家庭。
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
