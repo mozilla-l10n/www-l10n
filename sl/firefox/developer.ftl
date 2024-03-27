@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dobrodošli v svojem novem najljubšem brskalniku. Postrezite si z najnovejšimi možnostmi, izboljšano zmogljivostjo in razvijalskimi orodji, ki jih potrebujete za ustvarjanje odprtega spleta.
 firefox-developer-speak-up = Spregovorite
@@ -57,17 +59,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nova { -brand-name-firefox-devtools } so zmogljiva in prilagodljiva, lahko pa jih tudi hekate. Vključujejo najboljši razhroščevalnik JavaScripta v razredu, ki lahko pokriva več brskalnikov, ter je razvit z Reactom in Reduxom.
 firefox-developer-master-css-grid = Obvladajte mrežo CSS
-# outdated
-firefox-developer-next-gen-css-engine = Pogon CSS naslednje generacije
 firefox-developer-built-for-developers = Ustvarjen za razvijalce
-firefox-developer-a-next-generation = Pogon CSS naslednje generacije
 firefox-developer-master-innovative-features = Inovativne možnosti
 firefox-developer-want-to-be-on-the-cutting-edge = Želite že danes preizkusiti prihodnost?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } prejema dnevne posodobitve in vam omogoča dostop do funkcij že mesece, preden postanejo na voljo v uradni izdaji.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } vključuje nov pogon CSS, razvit v Rustu, ki je poln najsodobnejših inovacij in je izjemno hiter.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je edini brskalnik z orodji, posebej namenjenimi ustvarjanju in oblikovanju mreže CSS. Ta orodja omogočajo vizualizacijo mreže, prikaz imen povezanih območij, predogled preoblikovanj na mreži in še veliko več.
 firefox-developer-convenient-features = Uporabne zmožnosti
-firefox-developer-faster-performance = Večja učinkovitost
 firefox-developer-shapes-editor = Urejevalnik oblik
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } so opremljena s povsem novim urejevalnikom poti oblik, ki vam z intuitivnim vizualnim urejanjem prihrani ugibanje pri izpopolnjevanju oblik "shape-outside" in "clip-path".
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } so opremljena s povsem novim urejevalnikom poti oblik, ki vam z intuitivnim vizualnim urejanjem prihrani ugibanje pri izpopolnjevanju oblik "shadow-outside" in "clip-path".
@@ -76,14 +73,16 @@ firefox-developer-fonts-panel = Plošča pisav
 firefox-developer-the-new-fonts-panel = Nova plošča pisav v razvojnih orodjih { -brand-name-firefox-devtools } omogoča hiter dostop do vseh podatkov o pisavah, uporabljenih na izbranem elementu. Vključuje tudi podatke o viru pisave, teži, slogu in drugo.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } samodejno pošilja povratne informacije { -brand-name-mozilla(sklon: "dajalnik") }.
 firefox-developer-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }, ustvarjen za razvijalce
-firefox-developer-welcome-to-the-all-new = Dobrodošli v povsem nov { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je bil popolnoma prenovljen, da bo hitrejši, lepši in močnejši kot kdajkoli prej.
-firefox-developer-congrats-you-now-have-firefox = Čestitamo. Sedaj imate { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = To je več kot le posodobitev. To je { -brand-name-firefox-quantum }: popolnoma prenovljen { -brand-name-firefox }, ki je hitrejši, elegantnejši in zmogljivejši kot kdajkoli prej.
+firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli v brskalniku { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Dobrodošli v { -brand-name-firefox-browser(sklon: "mestnik") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
-firefox-developer-all-the-latest = Vsa najnovejša razvojna orodja iz beta različice in še <strong>poskusne zmogljivosti</strong>, kot sta večvrstični urejevalnik konzole in pregledovalnik WebSocket.
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
-firefox-developer-congrats-you-now-have = Čestitamo. Sedaj imate { -brand-name-firefox-browser(sklon: "tozilnik") } { -brand-name-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Čestitamo. Sedaj imate najnovejšo različico { -brand-name-firefox-browser(sklon: "rodilnik") } { -brand-name-developer-edition }.
+firefox-developer-developer-tools-user = Dokumentacija za razvojna orodja
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Viri za razvijalce, od razvijalcev
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

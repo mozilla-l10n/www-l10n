@@ -38,3 +38,5 @@ legal-report-copyright = Prijavite kršitev avtorskih pravic ali zlorabo blagovn
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs }: Pogoji uporabe
 legal-mozilla-subscription-services = { -brand-name-mozilla }: Naročniške storitve
+legal-content-moderation = Praksa moderiranja vsebine
+legal-amo-policies = Pravilniki AMO

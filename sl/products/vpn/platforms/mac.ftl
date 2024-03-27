@@ -15,4 +15,5 @@ vpn-mac-servers-headline = Dostop do strežnikov po vsem svetu
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Zaščitite { $devices } naprav z eno naročnino
+vpn-mac-speed-headline = Ni treba žrtvovati hitrosti
 vpn-mac-log-headline = Kar počnete na spletu, je vaša stvar
