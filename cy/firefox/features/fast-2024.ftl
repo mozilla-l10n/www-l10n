@@ -19,4 +19,4 @@ features-fast-all-browsers-had-to-make = Roedd yn rhaid i bob porwr wneud gwelli
 features-fast-towards-a-faster-web = Tuag at we cyflymach
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = Mae { -brand-name-mozilla } <a { $link }>wedi ymrwymo</a> i wella ein porwr ein hunain yn ogystal â'r we gyfan yn barhaus. Dyna pam y gwnaethom fuddsoddi yn y cydweithrediad i ddatblygu Speedometer 3 sydd, yn ei dro, wedi gwella perfformiad pob porwr. Felly pa bynnag borwr rydych yn ei ddewis, mae { -brand-name-mozilla } am iddo fod yn gyflym.
+features-fast-theres-been-an-encouraging = Mae { -brand-name-mozilla } <a { $link }>wedi ymrwymo</a> i barhau i wella ein porwr ein hunain yn ogystal â'r we gyfan. Dyna pam y gwnaethom fuddsoddi yn y cydweithrediad i ddatblygu Speedometer 3 sydd, yn ei dro, wedi gwella perfformiad pob porwr. Felly pa bynnag borwr rydych yn ei ddewis, mae { -brand-name-mozilla } am iddo fod yn gyflym.
