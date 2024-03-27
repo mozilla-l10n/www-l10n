@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = ჩამოტვირთეთ { -brand-name-firefox } კომპიუტერისთვის, მობილურისთვის ან დაწესებულებისთვის
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = ისარგებლეთ ბრაუზერებით, რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება
 # HTML page description
 firefox-browsers-page-desc = აირჩიეთ კომპიუტერს, { -brand-name-ios }-სა, { -brand-name-android }-ს შორის ან ნება მოგვეცით, ელფოსტაზევე გამოგიგზავნოთ მობილურზე ჩამოსატვირთი ბმული.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = მიიღეთ პირადულობა, რომელსაც იმსახურებთ. თვალთვალისგან გაძლიერებული დაცვით აღჭურვილია თითოეული { -brand-name-firefox }-ბრაუზერი.
+firefox-browsers-main-heading = { -brand-name-firefox }-ბრაუზერები
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = ისარგებლეთ <strong>ბრაუზერებით</strong> რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = გადადგით ნა�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = საიტების ასაგებად და კოდის გასაუმჯობესებლად გამოიყენეთ { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = გაიცანით უკეთ { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = შემოუერთდით { -brand-name-firefox }-ს და სრულყოფილად გამოიყენეთ ყველა პროდუქტი — თითოეულ მოწყობილობაზე.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ { -brand-name-firefox }-ს.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = უკვე გაქვთ ანგარიში? <a { $fxa_attr }>შედით</a> ან <a { $accounts_attr }>იხილეთ ვრცლად,</a> როგორ შემოუერთდეთ Firefox-ს.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
