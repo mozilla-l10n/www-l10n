@@ -10,7 +10,7 @@ features-index-firefox-browser-features = Nodweddion porwr { -brand-name-firefox
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } yw'r porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd ac yn gweithio ar draws eich holl ddyfeisiau.
 features-index-firefox-keeps-getting-faster = Mae { -brand-name-firefox } yn mynd yn gyflymach o hyd
-features-index-the-latest-browser-speed-benchmarks = Mae meincnodau cyflymder porwr diweddaraf yn profi bod { -brand-name-firefox } yn gyflymach nag erioed.
+features-index-the-latest-browser-speed-benchmarks = Mae meincnodau cyflymder y porwyr diweddaraf yn profi bod { -brand-name-firefox } yn gyflymach nag erioed.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Ydy { -brand-name-firefox } yn borwr cyflym?
 # Obsolete string

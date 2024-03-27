@@ -18,7 +18,7 @@ installer-help-action-choose = Dewiswch llwyth isod.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = Cael y diweddaraf. Mae preifatrwydd awtomatig yma. Lawrlwythwch { -brand-name-firefox } i rwystro dros { $trackers } o dracwyr.
+installer-help-firefox-release-desc-v2 = Cael y diweddaraf. Mae preifatrwydd awtomatig yma. Llwythwch i lawr { -brand-name-firefox } i rwystro dros { $trackers } o dracwyr.
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
