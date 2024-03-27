@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Cyfieithwch dudalen gwe gyda { -brand-name-firefox }
-features-translate-translate-the-web = Cyfieithu'r we gyda { -brand-name-firefox }
+features-translate-translate-the-web = Cyfieithu'r we
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Mae Cyfieithiadau { -brand-name-firefox }  yn nodwedd gyfieithu integredig sy'n eich galluogi i bori'r we yn hawdd yn eich dewis iaith. Dysgwch fwy am sut mae'r nodwedd hon yn { -brand-name-firefox } yn gweithio, a sut mae { -brand-name-mozilla } yn helpu i gadw'r hyn rydych chi'n ei gyfieithu yn breifat.
 features-translate-one-of-the-best-things-about = Un o'r pethau gorau am y rhyngrwyd yw ein bod yn gallu cael mynediad at gynnwys ledled y byd. P'un a yw'n erthyglau newyddion, blogiau, neu hyd yn oed adolygiad o'ch teclyn technoleg diweddaraf, gallwch ddod o hyd i'r cyfan ar y we dibendraw. Gyda nodwedd cyfieithu diweddaraf { -brand-name-firefox }, bydd y teclyn hwn yn cyfieithu tudalen we yn syth.
