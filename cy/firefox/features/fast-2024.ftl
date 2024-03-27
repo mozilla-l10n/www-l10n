@@ -5,9 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
-features-fast-firefox-keeps-getting-faster = Mae { -brand-name-firefox } yn mynd yn gyflymach o hyd
+features-fast-firefox-keeps-getting-faster = Mae { -brand-name-firefox } yn mynd yn gynt ac yn gynt
 # HTML description
-features-fast-firefox-is-faster-than-ever = Mae { -brand-name-firefox } yn gyflymach nag erioed o'r blaen, gyda chyflymder y gallwch ei deimlo mewn gwirionedd, gan gynnwys llwythi tudalennau cyflymach a rhyngweithiadau llyfnach.
+features-fast-firefox-is-faster-than-ever = Mae { -brand-name-firefox } yn gyflymach nag erioed o'r blaen, gyda chyflymder y gallwch wir ei deimlo, gan gynnwys llwytho tudalennau cyflymach a rhyngweithiadau llyfnach.
 features-fast-how-is-browser-speed-measured = Sut mae cyflymder porwr yn cael ei fesur?
 features-fast-speedometer-is-the-most-widely = Gelwir y meincnod perfformiad porwr a ddefnyddir fwyaf i fesur ymatebolrwydd cymwysiadau gwe yn Speedometer. Er bod meincnodau porwr eraill yn bodoli, Speedometer 3 yw'r safon newydd ar gyfer sut rydym yn mesur cyflymder eich profiad pori. Mae'r profion diweddaraf yn adlewyrchu gwe heddiw yn well - gan weithio gyda siartiau sy'n gyfoethog yn weledol, golygu testun, rhyngweithio â thudalennau gwe cymhleth a thrwm fel gwefannau newyddion - ac mae'n mesur darlun llawn o berfformiad y porwr.
 features-fast-the-new-speedomer-3-benchmark = Y meincnod Speedomedr 3 newydd yw'r meincnod porwr mawr cyntaf a ddatblygwyd erioed trwy gydweithrediad a gefnogir gan bob porwr mawr, sydd wedi'i gynllunio i fod o fudd i'r we gyfan.

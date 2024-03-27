@@ -81,7 +81,7 @@ firefox-developer-made-for-developers = Y porwr ar gyfer datblygwyr
 firefox-developer-all-the-latest-v2 = Yr holl offer datblygwr diweddaraf o fewn y beta yn ogystal â nodweddion fel y Golygydd Consol Aml-lein ac Arolygydd WebSocket.
 firefox-developer-a-separate-profile = A <strong>proffil a llwybr ar wahân</strong> fel y gallwch chi ei redeg yn hawdd ochr yn ochr â Rhyddhau neu { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Dewisiadau <strong>wedi'u teilwra ar gyfer datblygwyr gwe</strong>: Mae porwr a dadfygio o bell yn cael eu galluogi'n rhagosodedig, yn ogystal a'r thema dywyll a botwm bar offer y datblygwr.
-firefox-developer-congrats-you-now-have-latest-v2 = Bellach mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
 # Variables:
@@ -90,9 +90,9 @@ firefox-developer-view-the-release = Gweld y <a { $attrs }>nodiadau rhyddhau</a>
 firefox-developer-developer-tools-user = Dogfennau Defnyddiwr Offer Datblygwr
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatblygwyr
-firefox-developer-mdn-references = { -brand-name-mdn } Cyfeiriadau
-firefox-developer-mdn-is-a = Mae { -brand-name-mdn } yn brosiect ffynhonnell agored, cydweithredol sy'n dogfennu technolegau llwyfannau gwe, gan gynnwys CSS, HTML, JavaScript ac APIs gwe.
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Cwricwlwm
-firefox-developer-a-structured-guide = Canllaw strwythuredig i'r sgiliau a'r arferion hanfodol ar gyfer bod yn ddatblygwr pen blaen llwyddiannus, ynghyd ag adnoddau dysgu a argymhellir.
+firefox-developer-mdn-references = Cyfeiriadau { -brand-name-mdn }
+firefox-developer-mdn-is-a = Mae { -brand-name-mdn } yn broject cod agored, cydweithredol sy'n dogfennu technolegau llwyfannau gwe, gan gynnwys CSS, HTML, JavaScript ac APIs gwe.
+firefox-developer-mdn-curriculum = Cwricwlwm { -brand-name-mdn }
+firefox-developer-a-structured-guide = Canllaw strwythuredig i'r sgiliau a'r arferion hanfodol ar gyfer bod yn ddatblygwr blaen llwyddiannus, ynghyd a'r adnoddau dysgu sy'n cael ei  argymell.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = Cefnogwch { -brand-name-mdn } a gwnewch ef yn un eich hun gyda chasgliadau, hysbysiadau a meysydd chwarae.
