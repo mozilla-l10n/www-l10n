@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = 下載 { -brand-name-firefox } 桌面版、行動版或企業版
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = 下載一直以來，都將您的隱私擺在第一位的瀏覽器
 # HTML page description
 firefox-browsers-page-desc = 選擇要下載桌面版、{ -brand-name-ios }、{ -brand-name-android }，或讓我們直接把下載鏈結寄給您。
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = 加強型追蹤保護在每一套 { -brand-name-firefox } 瀏覽器中都自動開啟，讓您獲得應有的尊重。
+firefox-browsers-main-heading = { -brand-name-firefox } 瀏覽器
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 下載一直以來，都將您的隱私擺在第一位的<strong>瀏覽器</strong>。
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = 跳出平面，享受網路上�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = 使用 { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> 開發網站並調整程式碼
 firefox-browsers-learn-more-about-devtools = 了解 { -brand-name-devtools } 的更多資訊
-firefox-browsers-join-firefox-and-get-the-most = 加入 { -brand-name-firefox }，在任何裝置使用所有產品的完整功能。
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = 已經有帳號了嗎？<a { $fxa_attr }>在此登入</a>或<a { $accounts_attr }>在此了解</a>加入 { -brand-name-firefox } 的更多資訊。
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = 已經有帳號了嗎？<a { $fxa_attr }>在此登入</a>或<a { $accounts_attr }>在此了解</a>加入 Firefox 的更多資訊。
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
