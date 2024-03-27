@@ -15,7 +15,7 @@ features-fast-faster-every-day = Yn gyflymach bob dydd
 features-fast-firefox-is-powered-by-the-world = Mae { -brand-name-firefox } yn cael ei bweru gan y peiriant{ -brand-name-gecko } sydd o safon fyd-eang, gyda steilio a gosodiad tudalen syfrdanol o gyflym, nodweddion JavaScript modern a churiad di-ddiwedd o welliannau perfformiad newydd i gadw ein defnyddwyr yn hapus a gwthio'r llwyfan gwe cyfan yn ei flaen.
 # Variables
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
-features-fast-all-browsers-had-to-make = Roedd yn rhaid i bob porwr wneud gwelliannau er mwyn perfformio'n dda ar y profion Speedometer 3 newydd. Mae { -brand-name-firefox } yn arbennig wedi cymryd camau breision, <a { $link }>yn dod yn amlwg yn gyflymach</a> i'n defnyddwyr o ganlyniad uniongyrchol i'r gwaith hwn. Mae { -brand-name-firefox } yn gyflymach nag erioed o'r blaen, gyda chyflymder y gallwch ei deimlo mewn gwirionedd, gan gynnwys llwythi tudalennau cyflymach a rhyngweithiadau llyfnach.
+features-fast-all-browsers-had-to-make = Roedd yn rhaid i bob porwr wneud gwelliannau er mwyn perfformio'n dda ar y profion Speedometer 3 newydd. Mae { -brand-name-firefox } yn arbennig wedi cymryd camau breision, <a { $link }>yn dod yn gynt o lawer</a> i'n defnyddwyr o ganlyniad uniongyrchol i'r gwaith hwn. Mae { -brand-name-firefox } yn gyflymach nag erioed o'r blaen, gyda chyflymder y gallwch ei deimlo, gan gynnwys llwytho tudalennau cyflymach a rhyngweithiadau llyfnach.
 features-fast-towards-a-faster-web = Tuag at we cyflymach
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
