@@ -3,12 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Transfira o { -brand-name-firefox } para computador, dispositivo móvel ou empresa
 # HTML page description
 firefox-browsers-page-desc = Escolha a partir da versão para computador, { -brand-name-ios }, { -brand-name-android } ou deixe-nos enviar-lhe um e-mail com uma ligação de transferência móvel.
+firefox-browsers-main-heading = Navegadores { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtenha os <strong>navegadores</strong> que colocam a sua privacidade em primeiro lugar — e que sempre o fizeram
@@ -29,7 +30,6 @@ firefox-browsers-go-beyond-two-dimensions-and = Vá para além das duas dimensõ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Crie sites e refine o seu código com as { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Saber mais sobre as { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Adira ao { -brand-name-firefox } e tire o máximo proveito de todos os produtos — em todos os dispositivos.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
