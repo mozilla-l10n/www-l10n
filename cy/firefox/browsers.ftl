@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Llwythwch { -brand-name-firefox } i lawr ar gyfer Bwrdd Gwaith, Symudol neu Fenter
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Cael y porwyr sy'n rhoi eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
 # HTML page description
 firefox-browsers-page-desc = Dewiswch rhwng Bwrdd Gwaith, { -brand-name-ios }, { -brand-name-android }, neu gadewch i ni e-bostio dolen llwytho symudol atoch.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Cael y preifatrwydd rydych yn ei haeddu. Mae Diogelu rhag Tracio Uwch yn awtomatig ym mhob porwr { -brand-name-firefox }.
+firefox-browsers-main-heading = Porwyr { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Cael y <strong>porwyr</strong> sy'n gosod eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Ewch y tu hwnt i ddau ddimensiwn
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Adeiladwch wefannau a mireinio'ch cod gyda <strong>{ -brand-name-devtools }</strong> { -brand-name-firefox }
 firefox-browsers-learn-more-about-devtools = Dysgwch ragor am { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Ymunwch â { -brand-name-firefox } a chael y gorau o bob cynnyrch - ar draws pob dyfais.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgwch ragor</a> am ymuno â { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }>dysgu rhagor</a> am ymuno â Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
