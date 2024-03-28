@@ -33,8 +33,8 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
--brand-name-firefox-browsers = Firefox Webbläsare
+-brand-name-firefox-browser = Firefox webbläsare
+-brand-name-firefox-browsers = Firefox webbläsare
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -66,8 +66,8 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account = Firefox-konto
+-brand-name-firefox-accounts = Firefox-konton
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 # Obsolete brand name

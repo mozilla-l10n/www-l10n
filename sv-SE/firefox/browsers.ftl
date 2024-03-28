@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Ladda ned { -brand-name-firefox } för dator, mobil eller företag
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Hämta webbläsarna som sätter din integritet först — och har alltid gjort det
 # HTML page description
 firefox-browsers-page-desc = Välj från dator, { -brand-name-ios }, { -brand-name-android } eller låt oss skicka en länk för nedladdning via e-post till dig.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Få den integritet du förtjänar. Förbättrat spårningsskydd är automatiskt i alla { -brand-name-firefox }-webbläsare.
+firefox-browsers-main-heading = { -brand-name-firefox } webbläsare
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Hämta <strong>webbläsarna</strong> som sätter din integritet först — och har alltid gjort det
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Gå längre än två dimensioner
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Bygg webbplatser och förfina din kod med { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Läs mer om { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Gå med i { -brand-name-firefox } och få ut det mesta möjliga av varje produkt — på alla enheter.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Har du redan ett konto? <a { $fxa_attr }>Logga in</a> eller <a { $accounts_attr }>läs mer</a> om att gå med i { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Har du redan ett konto? <a { $fxa_attr }>Logga in</a> eller <a { $accounts_attr }>läs mer</a> om att gå med i Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
