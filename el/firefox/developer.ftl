@@ -84,5 +84,11 @@ firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσ
 firefox-developer-congrats-you-now-have-latest-v2 = Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημειώσεις έκδοσης</a> (μόνο στα αγγλικά) για να δείτε τι νέο υπάρχει.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
+firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
+firefox-developer-mdn-curriculum = Πρόγραμμα σπουδών { -brand-name-mdn }
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
