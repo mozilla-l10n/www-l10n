@@ -38,3 +38,5 @@ legal-report-copyright = Αναφορά παραβίασης πνευματικ�
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Όροι υπηρεσίας του { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Συνδρομητικές υπηρεσίες { -brand-name-mozilla }
+legal-content-moderation = Πρακτικές συντονισμού περιεχομένου
+legal-amo-policies = Πολιτικές AMO

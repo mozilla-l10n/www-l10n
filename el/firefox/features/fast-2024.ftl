@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-firefox-keeps-getting-faster = Το { -brand-name-firefox } γίνεται όλο και πιο γρήγορο
+features-fast-how-is-browser-speed-measured = Πώς μετριέται η ταχύτητα του προγράμματος περιήγησης;
 features-fast-faster-every-day = Πιο γρήγορο κάθε μέρα

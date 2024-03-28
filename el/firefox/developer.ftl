@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία ανάπτυξης και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και έλεγχος σφαλμάτων πλαισίου
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Καλώς ορίσατε στο νέο, αγαπημένο σας πρόγραμμα περιήγησης. Λάβετε τις νεότερες λειτουργίες, υψηλές επιδόσεις και τα εργαλεία ανάπτυξης που χρειάζεστε για δημιουργία στο ανοικτό διαδίκτυο.
 firefox-developer-speak-up = Εκφραστείτε
@@ -71,16 +73,16 @@ firefox-developer-fonts-panel = Πίνακας γραμματοσειρών
 firefox-developer-the-new-fonts-panel = Ο νέος πίνακας γραμματοσειρών στο { -brand-name-firefox-devtools } παρέχει στους προγραμματιστές ταχεία πρόσβαση σε όλες τις πληροφορίες που χρειάζονται σχετικά με τις γραμματοσειρές που χρησιμοποιούνται σε ένα στοιχείο. Περιλαμβάνει επίσης πολύτιμες πληροφορίες, όπως την πηγή γραμματοσειράς, το πάχος, το στυλ και άλλα.
 firefox-developer-firefox-developer-edition-sends = Το { -brand-name-firefox-developer-edition } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox } για προγραμματιστές
-firefox-developer-welcome-to-the-all-new = Καλώς ορίσατε στο ολοκαίνουριο { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Το { -brand-name-firefox } έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
-firefox-developer-congrats-you-now-have-firefox = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Αυτό δεν είναι μια απλή ενημέρωση. Αυτό είναι το { -brand-name-firefox-quantum }: ένα ολοκαίνουριο { -brand-name-firefox } που έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
+firefox-developer-welcome-to-firefox-developer-edition = Καλώς ορίσατε στο { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Καλώς ορίσατε στο { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Το πρόγραμμα περιήγησης για προγραμματιστές
 firefox-developer-all-the-latest-v2 = Όλα τα νέα εργαλεία προγραμματισμού σε beta, καθώς και λειτουργίες, όπως το πρόγραμμα επεξεργασίας κονσόλας πολλαπλών γραμμών και η επιθεώρηση WebSocket.
-# Obsolete string
-firefox-developer-all-the-latest = Όλα τα νέα εργαλεία προγραμματισμού σε beta, καθώς και <strong>πειραματικές λειτουργίες</strong>, όπως το πρόγραμμα επεξεργασίας κονσόλας πολλαπλών γραμμών και η Επιθεώρηση WebSocket.
 firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο έλεγχος σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος έλεγχος σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
-firefox-developer-congrats-you-now-have = Συγχαρητήρια. Έχετε πλέον το { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

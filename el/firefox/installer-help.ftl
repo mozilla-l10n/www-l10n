@@ -16,14 +16,15 @@ installer-help-action-choose = Επιλέξτε μια λήψη παρακάτω
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Αποκτήστε την πιο πρόσφατη έκδοση. Αυτόματο απόρρητο. Κάντε λήψη του { -brand-name-firefox-browser } για φραγή πάνω από { $trackers } ιχνηλατών.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Δοκιμάστε τις έτοιμες προς έκδοση λειτουργίες στην πιο σταθερή έκδοση πριν από την τελική.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Δημιουργήστε, εκτελέστε δοκιμές, κάντε μετρήσεις και πολλά άλλα στο μόνο πρόγραμμα περιήγησης για προγραμματιστές.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Ρίξτε μια ματιά στο πρόγραμμα περιήγησης της επόμενης γενιάς και βοηθήστε μας να το κάνουμε το καλύτερο δυνατό πρόγραμμα περιήγησης.
 installer-help-need-help = Χρειάζεστε βοήθεια με την εγκατάσταση;
 # Variables:

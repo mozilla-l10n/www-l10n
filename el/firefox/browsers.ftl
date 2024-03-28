@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Λήψη του { -brand-name-firefox } για υπολογιστές, κινητές συσκευές ή επιχειρήσεις
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Προγράμματα περιήγησης με έμφαση στο απόρρητο — όπως πάντα
 # HTML page description
 firefox-browsers-page-desc = Επιλέξτε μεταξύ των εκδόσεων για υπολογιστές, { -brand-name-ios }, { -brand-name-android } ή αφήστε μας να σας στείλουμε μέσω email έναν σύνδεσμο λήψης για κινητές συσκευές.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Το απόρρητο που σας αξίζει. Η Ενισχυμένη προστασία από καταγραφή είναι αυτόματη σε κάθε { -brand-name-firefox }.
+firefox-browsers-main-heading = Προγράμματα περιήγησης { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = <strong>Φυλλομετρητές</strong> με έμφαση στο απόρρητο — όπως πάντα
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Υπερπηδήστε τις δ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Ανάπτυξη ιστοτόπων και βελτίωση κώδικα με το { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Μάθετε περισσότερα για το { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με την εγγραφή στο { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
