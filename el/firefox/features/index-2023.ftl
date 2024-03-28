@@ -10,6 +10,7 @@ features-index-firefox-browser-features = Δυνατότητες του { -brand
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = Το { -brand-name-firefox } είναι ένα γρήγορο, «ελαφρύ» και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
 features-index-firefox-keeps-getting-faster = Το { -brand-name-firefox } γίνεται όλο και πιο γρήγορο
+features-index-the-latest-browser-speed-benchmarks = Οι πιο πρόσφατοι δείκτες αναφοράς επιδόσεων για προγράμματα περιήγησης αποδεικνύουν ότι το { -brand-name-firefox } είναι πιο γρήγορο από ποτέ.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο;
 # Obsolete string

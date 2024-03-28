@@ -87,9 +87,11 @@ firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Δι�
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημειώσεις έκδοσης</a> (μόνο στα αγγλικά) για να δείτε τι νέο υπάρχει.
+firefox-developer-developer-tools-user = Έγγραφα χρήστη εργαλείων ανάπτυξης
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
 firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
+firefox-developer-mdn-is-a = Το { -brand-name-mdn } είναι ένα συλλογικό έργο ανοικτού κώδικα, το οποίο τεκμηριώνει τις τεχνολογίες της διαδικτυακής πλατφόρμας, όπως τα CSS, HTML, JavaScript και web API.
 firefox-developer-mdn-curriculum = Πρόγραμμα σπουδών { -brand-name-mdn }
 firefox-developer-a-structured-guide = Ένας δομημένος οδηγός για τις απαραίτητες δεξιότητες και πρακτικές για έναν επιτυχημένο προγραμματιστή περιβάλλοντος χρήστη, μαζί με προτεινόμενους πόρους εκμάθησης.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
