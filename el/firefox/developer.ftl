@@ -91,4 +91,6 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
 firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
 firefox-developer-mdn-curriculum = Πρόγραμμα σπουδών { -brand-name-mdn }
+firefox-developer-a-structured-guide = Ένας δομημένος οδηγός για τις απαραίτητες δεξιότητες και πρακτικές για έναν επιτυχημένο προγραμματιστή περιβάλλοντος χρήστη, μαζί με προτεινόμενους πόρους εκμάθησης.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Υποστηρίξτε το { -brand-name-mdn } και κάντε το δικό σας με συλλογές, ειδοποιήσεις και χώρους πειραματισμού.
