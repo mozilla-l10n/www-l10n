@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Download { -brand-name-firefox } foar Desktop, Mobyl of Undernimmingen
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Download de browsers dy’t jo privacy foarop stelle – en dat altyd dien hawwe
 # HTML page description
 firefox-browsers-page-desc = Kies út Desktop, { -brand-name-ios }, { -brand-name-android }, of lit ús jo in mobile downloadkeppeling tastjoere fia e-mail.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Krij de privacy dy’t jo fertsjinje. Ferbettere befeiliging tsjin folgjen is automatysk yn elke { -brand-name-firefox }-browser.
+firefox-browsers-main-heading = { -brand-name-firefox }-browsers
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> dy’t jo privacy foarop stelle – en dat altyd dien hawwe
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Gean fierder as twa diminsjes en
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Bou websites en ferfynje jo koade mei { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Mear ynfo oer { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Doch mei mei { -brand-name-firefox } en helje it measte út elk produkt – op elk apparaat.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Hawwe jo al in account? <a { $fxa_attr }>Oanmelde</a> of <a { $accounts_attr }>mear ynfo</a> oer meidwaan mei { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Hawwe jo al in account? <a { $fxa_attr }>Oanmelde</a> of <a { $accounts_attr }>mear ynfo</a> oer meidwaan mei Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
