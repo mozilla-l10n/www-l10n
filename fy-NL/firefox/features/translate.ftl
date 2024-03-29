@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Set in webside oer mei { -brand-name-firefox }
-features-translate-translate-the-web = Set it ynternet oer mei { -brand-name-firefox }
+features-translate-translate-the-web = Set it ynternet oer
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Translations is in ynboude oersetfunksje, wêrmei’t jo ienfâldich op it web blêdzje kinne yn de taal fan jo foarkar. Lês mear oer hoe’t dizze funksje yn { -brand-name-firefox } wurket, en hoe’t { -brand-name-mozilla } helpt wat jo oersette privee te hâlden.
 features-translate-one-of-the-best-things-about = Ien fan de beste dingen fan it ynternet is dat wy wrâldwiid tagong hawwe ta ynhâld. Of it no nijsartikelen, blogs of sels in beoardieling fan jo nijste technyske apparaat binne, jo kinne it allegearre fine op it skynber einleaze web. Mei de nijste oersetfunksje fan { -brand-name-firefox } sil dit helpmiddel kontinu in webside yn realtime oersette.

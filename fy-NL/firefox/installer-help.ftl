@@ -20,6 +20,7 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Download it nijste. Automatyske privacy is hjir. Download { -brand-name-firefox-browser } om mear as { $trackers } trackers te blokkearjen.
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Test hast frijjûne funksjes yn de meast stabile pre-releasebuild.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Bou, test, skeal en doch mear mei de iennige browser dy’t makke is foar ûntwikkelers.

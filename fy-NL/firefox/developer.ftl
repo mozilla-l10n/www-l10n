@@ -87,3 +87,4 @@ firefox-developer-congrats-you-now-have-latest = Lokwinske. Jo beskikke no oer d
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-mdn-references = { -brand-name-mdn }-referinsjes
 firefox-developer-mdn-curriculum = { -brand-name-mdn }-kurrikulum
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
