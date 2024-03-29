@@ -81,10 +81,18 @@ firefox-developer-made-for-developers = De browser gemaakt voor ontwikkelaars
 firefox-developer-all-the-latest-v2 = Alle nieuwste ontwikkelaarstools in beta, naast functies zoals de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = Een <strong>apart profiel en pad</strong>, zodat u het gemakkelijk naast { -brand-name-firefox } Release of { -brand-name-beta } kunt gebruiken.
 firefox-developer-preferences-tailored = Voorkeuren die <strong>op maat zijn gemaakt voor webontwikkelaars</strong>: foutopsporing in de browser en op afstand debuggen zijn standaard ingeschakeld, evenals het donkere thema en de knop voor de ontwikkelaarswerkbalk.
+firefox-developer-congrats-you-now-have-latest-v2 = U beschikt nu over de nieuwste versie van { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gefeliciteerd. U beschikt nu over de nieuwste versie van { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Bekijk de <a { $attrs }>uitgaveopmerkingen</a> (alleen in het Engels) om te zien wat er nieuw is.
+firefox-developer-developer-tools-user = Ontwikkelaarshulpmiddelen-gebruikersdocumenten
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Hulpbronnen voor ontwikkelaars, door ontwikkelaars
 firefox-developer-mdn-references = { -brand-name-mdn }-referenties
+firefox-developer-mdn-is-a = { -brand-name-mdn } is een opensource samenwerkingsproject dat webplatformtechnologieën documenteert, waaronder CSS, HTML, JavaScript en web-API’s.
 firefox-developer-mdn-curriculum = { -brand-name-mdn }-curriculum
+firefox-developer-a-structured-guide = Een gestructureerde gids voor de essentiële vaardigheden en praktijken om een succesvolle front-end-ontwikkelaar te zijn, samen met aanbevolen leerbronnen.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Ondersteun { -brand-name-mdn } en maak het van uzelf met collecties, notificaties en speelterreinen.
