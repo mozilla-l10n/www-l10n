@@ -89,4 +89,6 @@ firefox-developer-view-the-release = Yenilikleri görmek için <a { $attrs }>sü
 firefox-developer-developer-tools-user = Geliştirici Araçları Kullanıcı Belgeleri
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar
+firefox-developer-mdn-curriculum = { -brand-name-mdn } Müfredatı
+firefox-developer-a-structured-guide = Başarılı bir front-end geliştiricisi olmak için temel beceri ve uygulamaların yanı sıra önerilen öğrenme kaynaklarını da içeren yapılandırılmış bir rehber.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
