@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Descargar { -brand-name-firefox } para escritorio, dispositivo móvil o versión empresarial
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Obtené los navegadores que priorizan tu privacidad y siempre lo hicieron
 # HTML page description
 firefox-browsers-page-desc = Elegí entre escritorio, { -brand-name-ios }, { -brand-name-android } o dejanos enviarte un correo electrónico con un enlace de descarga para dispositivos móviles.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Obtené la privacidad que te merecés. La Protección de rastreo aumentada es automática en todos los navegadores { -brand-name-firefox }.
+firefox-browsers-main-heading = Navegadores { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtené los <strong>navegadores</strong> que priorizan tu privacidad, y siempre lo hicieron
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Andá más allá de dos dimensio
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Creá sitios y refiná tu código con { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Conocé más sobre { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Unite a { -brand-name-firefox } y aprovechá al máximo cada producto en todos los dispositivos.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = ¿Ya tenés una cuenta? <a { $fxa_attr }>Iniciá sesión</a> o<a { $accounts_attr }>conocé  más</a> sobre cómo unirte a { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = ¿Ya tenés una cuenta? <a { $fxa_attr }>Iniciá sesión</a>o<a { $accounts_attr }>conocé  más</a> sobre cómo unirte a Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
