@@ -38,3 +38,5 @@ legal-report-copyright = Nahlásiť porušenie autorských práv alebo ochrannej
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Podmienky používania služby { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Služby predplatného spoločnosti { -brand-name-mozilla }
+legal-content-moderation = Postupy moderovania obsahu
+legal-amo-policies = Zásady AMO

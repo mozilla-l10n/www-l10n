@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Stiahnite si { -brand-name-firefox } pre stolné počítače, mobilné zariadenia alebo podniky
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = Získajte prehliadače, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
 # HTML page description
 firefox-browsers-page-desc = Vyberte si z možností stolný počítač, { -brand-name-ios }, { -brand-name-android } alebo si nechajte poslať e‑mailom odkaz na stiahnutie do mobilu.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = Získajte súkromie, ktoré si zaslúžite. Rozšírená ochrana pred sledovaním je automatická v každom prehliadači { -brand-name-firefox }.
+firefox-browsers-main-heading = Prehliadače { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Získajte <strong>prehliadače</strong>, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Prekročte za druhú dimenziu a 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Vytvárajte stránky a zlepšujte svoj kód pomocou { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Ďalšie informácie o { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Prihláste sa do { -brand-name-firefox(case: "gen") } a získajte čo najviac zo svojich produktov - na všetkých zariadeniach.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Už máte účet? <a { $fxa_attr }>Prihláste sa</a> alebo <a { $accounts_attr }>zistite viac</a> o pripojení sa k { -brand-name-firefox(case: "gen") }.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Prihláste sa</a> alebo <a { $accounts_attr }>zistite viac</a> o pripojení sa k Firefoxu.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

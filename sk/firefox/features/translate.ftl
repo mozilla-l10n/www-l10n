@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prekladajte web pomocou { -brand-name-firefox(case: "gen") }
-features-translate-translate-the-web = Prekladajte web pomocou { -brand-name-firefox(case: "gen") }
+features-translate-translate-the-web = Preklad webových stránok
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Preklady { -brand-name-firefox(case: "gen") } je vstavaná funkcia prekladu, ktorá vám umožňuje jednoducho prehliadať web vo vami preferovanom jazyku. Prečítajte si viac o tom, ako táto funkcia vo { -brand-name-firefox(case: "loc") } funguje a ako { -brand-name-mozilla } pomáha zachovať súkromie toho, čo prekladáte.
 features-translate-one-of-the-best-things-about = Jednou z najlepších vecí na internete je, že máme prístup k obsahu na celom svete. Či už ide o novinové články, blogy alebo dokonca recenzie vašej najnovšej technologickej hračky, všetko nájdete na zdanlivo nekončiacom webe. Vďaka najnovšej funkcii prekladu vo { -brand-name-firefox(case: "loc") } bude tento nástroj nepretržite prekladať webové stránky v reálnom čase.
