@@ -38,3 +38,5 @@ legal-report-copyright = Повідомити про порушення авто
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Умови надання послуг { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Послуги передплати { -brand-name-mozilla }
+legal-content-moderation = Правила модерації вмісту
+legal-amo-policies = Політики AMO
