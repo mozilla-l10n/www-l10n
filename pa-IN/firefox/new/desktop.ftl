@@ -146,13 +146,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ। ਹੁਣ { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ।
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ਨਾਲ ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਕਈ ਕੁਝ ਹੋਰ।
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨੂੰ ਬਚਾਅ ਅਤੇ ਹੋਰ।
-firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } ਤੋਂ ਹੋਰ ਫਾਇਦਾ ਲਵੋ
-firefox-desktop-download-just-download-the-browser = ਸਿਰਫ਼ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -163,6 +159,8 @@ firefox-desktop-download-now-else = ਹੁਣ { -brand-name-firefox } ਨੂੰ 
 firefox-desktop-download-now-windows = ਹੁਣ ਸਿਰਫ਼ ਡਾਊਨਲੋਡ ਕੀਤੇ ਇੰਸਟਾਲਰ ਨੂੰ <strong>ਚਲਾਓ</strong>।
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ਹੁਣ ਡਾਊਨਲੋਡ ਕੀਤੀ ਫ਼ਾਈਲ ਨੂੰ <strong>ਖੋਲ੍ਹੋ</strong>।
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = ਹੇਠਾਂ ਤੋਂ ਕੋਈ <strong>ਡਾਊਨਲੋਡ</strong> ਚੋਣ ਕਰੋ।
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ਸਮੱਸਿਆ ਹੈ? <a { $attrs }>ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਮਦਦ ਲਵੋ</a>।

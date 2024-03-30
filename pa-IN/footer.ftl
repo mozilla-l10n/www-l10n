@@ -11,31 +11,7 @@ footer-corporate-blog = ਕਾਰਪੋਰੇਟ ਬਲੌਗ
 footer-browser-comparison = ਬਰਾਊਜ਼ਰਾਂ ਦੀ ਤੁਲਨਾ
 footer-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
 footer-browsers = ਬਰਾਊਜ਼ਰ
-# Outdated string
-footer-desktop = ਡੈਸਕਟਾਪ
-# Outdated string
-footer-mobile = ਮੋਬਾਇਲ
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = ਉਤਪਾਦ
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = ਹਿੱਸਾ ਲਵੋ
-# Outdated string
-footer-sign-up = ਸਾਈਨ ਅੱਪ
-# Outdated string
-footer-sign-in = ਸਾਈਨ ਇਨ
-# Outdated string
-footer-benefits = ਫਾਇਦੇ
 footer-developers = ਡਿਵੈਲਪਰ
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = <a { $mofo_link }>{ -brand-name-mozilla-corp
 footer-portions-of-this-content = ਇਸ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–{ $current_year } ਲਈ ਨਿੱਜੀ mozilla.org ਯੋਗਦਾਨ ਕੋਲ ਹਨ। ਸਮੱਗਰੀ <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> ਦੇ ਅਧੀਨ ਉਪਲਬਧ ਹੈ।
 footer-mozilla = { -brand-name-mozilla }
 footer-company = ਕੰਪਨੀ
-# Outdated string
-footer-about = ਇਸ ਬਾਰੇ
 footer-press-center = ਪਰੈੱਸ ਸੈਂਟਰ
 footer-careers = ਕੈਰੀਅਰ
-# Outdated string
-footer-test-new-features = ਨਵੇਂ ਫ਼ੀਚਰ ਟੈਸਟ ਕਰੋ
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ਸਾਧਨ
 footer-resources = ਸਰੋਤ
 footer-contact = ਸੰਪਰਕ
@@ -68,7 +38,10 @@ footer-websites-legal = ਕਨੂੰਨੀ
 footer-language = ਭਾਸ਼ਾ
 footer-go = ਜਾਓ
 footer-donate = ਦਾਨ ਦਿਓ
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (ਪੁਰਾਣਾ Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

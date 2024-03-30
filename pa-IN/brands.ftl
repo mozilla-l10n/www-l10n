@@ -118,6 +118,7 @@
 -brand-name-mozilla-account = Mozilla ਖਾਤਾ
 -brand-name-mozilla-accounts = Mozilla ਖਾਤੇ
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
 

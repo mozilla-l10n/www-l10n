@@ -34,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਉਨਲ�
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵੱਧ ਹੈ।
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
+firefox-new-download-almost-there = ਲਗਭਗ ਹੋ ਗਿਆ!
+firefox-new-download-select-linux = ਹੇਠਾਂ ਤੋਂ ਕਿਸੇ ਡਾਊਨਲੋਡ ਦੀ ਚੋਣ ਕਰੋ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = { -brand-name-firefox } ਇੰਸਟਾਲ ਕਰਨ ਲਈ <a href="{ $url }">ਇਹ ਹਦਾਇਤਾਂ</a> ਦੀ ਪਾਲਣਾ ਕਰੋ।

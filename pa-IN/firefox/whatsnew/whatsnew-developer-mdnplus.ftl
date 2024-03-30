@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = ਵਧਾਈਆਂ। ਤੁਸੀਂ { -brand-name-firefox-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਸੀਂ { -brand-name-firefox-browser } { -brand-name-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।
 # Main title
 developer-mdnplus-more-mdn-your-mdn = ਹੋਰ { -brand-name-mdn }। <em>ਤੁਹਾਡਾ</em> { -brand-name-mdn }।
@@ -17,3 +19,4 @@ developer-mdnplus-whats-included = ਇਸ ਵਿੱਚ ਕੀ ਸ਼ਾਮਲ ਹ�
 developer-mdnplus-notifications = ਸੂਚਨਾਵਾਂ
 developer-mdnplus-collections = ਭੰਡਾਰ
 developer-mdnplus-mdn-offline = { -brand-name-mdn } ਆਫਲਾਈਨ
+developer-mdnplus-resources-for-developers = ਡਿਵੈਲਪਰਾਂ ਲਈ ਸਰੋਤ ਡਿਵੈਲਪਰਾਂ ਵਲੋਂ।
