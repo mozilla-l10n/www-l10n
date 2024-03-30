@@ -83,3 +83,4 @@ navigation-v2-donate-your-voice-so-the-future = ਆਪਣਾ ਆਵਾਜ਼ ਦਾ
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = ਨਵੀਂ, ਮੁੱਢਲੇ ਪੱਧਰ ਦੀ, ਅਸੈਂਬਲੀ ਵਰਗੀ ਭਾਸ਼ਾ ਬਾਰੇ ਸਿੱਖੋ।
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } ਖੋਜੀ ਪਰੋਜੈਕਟ
+navigation-v2-discover-ways-to-bring = ਨਵੇਂ ਨਵੇਂ ਵਿਚਾਰਾਂ ਨੂੰ ਅਸਲੀਅਤ ਬਣਾਉਣ ਦੇ ਢੰਗ ਖੋਜੋ।
