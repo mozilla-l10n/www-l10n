@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
+page-title = { -brand-name-firefox-quantum } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 privacy-first = ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ
 always-evolving = ਹਮੇਸ਼ਾ ਸੁਧਾਰ ਜਾਰੀ

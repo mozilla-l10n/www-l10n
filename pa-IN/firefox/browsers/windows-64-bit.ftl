@@ -13,3 +13,4 @@ windows-64-bit-a-more-secure-firefox = ਵੱਧ ਸੁਰੱਖਿਅਤ { -bra
 windows-64-bit-whats-the-difference = 32-ਬਿੱਟ ਅਤੇ 64-ਬਿੱਟ ਵਿਚ ਕੀ ਅੰਤਰ ਹੈ?
 windows-64-bit-how-do-you-get-64 = ਤੁਸੀਂ 64-ਬਿੱਟ { -brand-name-firefox } ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹੋ?
 windows-64-bit-take-control-of-your = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦਾ ਕੰਟਰੋਲ ਆਪਣੇ ਹੱਥ ਲਵੋ।
+windows-64-bit-download-firefox = Windows 64-ਬਿੱਟ ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
