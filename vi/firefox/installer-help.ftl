@@ -18,12 +18,16 @@ installer-help-action-choose = Chọn một tải xuống dưới đây.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Nhận thông tin mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox } để chặn hơn { $trackers } trình theo dõi.
+# Obsolete string (expires: 2024-05-14)
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Tải xuống trình duyệt mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox-browser } để chặn { $trackers } trình theo dõi.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Kiểm tra các tính năng sắp phát hành trong bản xây dựng trước bản phát hành ổn định.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Xây dựng, kiểm tra, mở rộng và nhiều hơn nữa với trình duyệt được xây dựng dành cho nhà phát triển.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Xem qua trình duyệt web thế hệ tiếp theo của chúng tôi và giúp chúng tôi biến nó thành trình duyệt tốt nhất có thể.
 installer-help-need-help = Cần sự giúp đỡ về việc cài đặt?
 # Variables:

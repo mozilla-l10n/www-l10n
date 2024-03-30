@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Chúc mừng. Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Chúc mừng. Bạn hiện có phiên bản mới nhất của { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = { -brand-name-mdn } nhiều hơn. { -brand-name-mdn } <em>của bạn</em> .
