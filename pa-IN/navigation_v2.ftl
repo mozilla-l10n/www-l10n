@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 navigation-v2-menu = ਮੇਨੂ
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ
 
 ## Firefox menu
 
@@ -68,16 +66,12 @@ navigation-v2-careers = ਕੈਰੀਅਰ
 navigation-v2-work-for-a-mission-driven-updated = ਕਿਸੇ ਖਾਸ ਮਕਸਦ ਵਾਲੇ ਸੰਗਠਨ ਲਈ ਕੰਮ ਕਰੋ, ਜੋ ਕਿ ਲੋਕਾਂ ਨੂੰ ਅੱਗੇ ਰੱਖ ਕੇ ਉਤਪਾਦ ਬਣਾਉਂਦਾ ਹੈ।
 navigation-v2-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ਅਤੇ ਸਾਡੇ ਉੱਤੇ ਅਸਰ ਪਾਉਣ ਵਾਲੇ ਮਸਲਿਆਂ ਬਾਰੇ ਜਾਣੋ।
-navigation-v2-stories = ਲੇਖ
-navigation-v2-stories-about-how = ਸਾਡੇ ਲੋਕ ਤੇ ਉਤਪਾਦ ਸੰਸਾਰ ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਕਿਵੇਂ ਤਬਦੀਲੀ ਲਿਆ ਰਹੇ ਹਨ ਦੇ ਬਾਰੇ ਲੇਖ।
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ
 
 ## Innovation menu
 
 navigation-v2-innovation = ਖੋਜਾਂ
 navigation-v2-close-innovation-menu = ਖੋਜ ਮੇਨੂ ਨੂੰ ਬੰਦ ਕਰੋ
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = ਇਸ ਤਾਲਮੇਲ ਕਰਨ ਵਾਲੇ, ਆਨਲਾਈਨ, ਬਹੁ-ਦਿਸ਼ਾਵੀ ਸ਼ੋਸ਼ਲ ਸਪੇਸ ਵਿੱਚ ਇਕੱਠੇ ਹੋਵੋ।
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਤਿਆਰ ਕੀਤਾ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਲਵੋ।
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +82,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = ਆਪਣਾ ਆਵਾਜ਼ ਦਾਨ ਦਿਓ ਤਾਂ ਕਿ ਵੈੱਬ ਦੇ ਭਵਿੱਖ ਹਰ ਕਿਸੇ ਨੂੰ ਸੁਣ ਸਕੇ।
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = ਨਵੀਂ, ਮੁੱਢਲੇ ਪੱਧਰ ਦੀ, ਅਸੈਂਬਲੀ ਵਰਗੀ ਭਾਸ਼ਾ ਬਾਰੇ ਸਿੱਖੋ।
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } ਖੋਜੀ ਪਰੋਜੈਕਟ
