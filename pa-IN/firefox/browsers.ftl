@@ -3,12 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = ਡੈਸਕਟਾਪ, ਮੋਬਾਈਲ ਜਾਂ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 # HTML page description
 firefox-browsers-page-desc = ਡੈਸਕਟਾਪ, { -brand-name-ios }, { -brand-name-android } ਵਿੱਚੋਂ ਚੁਣੋ ਜਾਂ ਤੁਹਾਨੂੰ ਮੋਬਾਈਲ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜਣ ਲਈ ਸਾਨੂੰ ਈਮੇਲ ਦਿਓ।
+firefox-browsers-main-heading = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = <strong>ਬਰਾਊਜ਼ਰ</strong> ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ
@@ -29,7 +30,6 @@ firefox-browsers-go-beyond-two-dimensions-and = ਦੋ ਵਿਸਤਾਰਾਂ 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> ਨਾਲ ਸਾਈਟਾਂ ਬਣਾਓ ਅਤੇ ਆਪਣੇ ਕੋਡ ਨੂੰ ਸੋਧੋ
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ ਅਤੇ ਹਰੇਕ ਉਤਪਾਦ ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਫਾਇਦਾ ਲਵੋ — ਹਰੇਕ ਡਿਵਾਈਸ ਲਈ।
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
