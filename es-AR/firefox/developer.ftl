@@ -13,7 +13,7 @@ firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-develop
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Bienvenido a su nuevo navegador favorito. Obtenga las últimas funciones, alto rendimiento y las herramientas de desarrollo que necesita para construir una web abierta.
+firefox-developer-welcome-to-your-new-favorite = Bienvenido a tu nuevo navegador favorito. Obtené las últimas funciones, alto rendimiento y las herramientas de desarrollo que necesitás para construir una web abierta.
 firefox-developer-speak-up = Contanos
 firefox-developer-feedback-makes-us = Tu opinión nos hace mejores. Decinos cómo podemos mejorar el navegador y las herramientas para desarrolladores.
 firefox-developer-join-the-convo = Unite a la conversación
