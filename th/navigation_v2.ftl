@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = ดาวน์โหลด { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = รับ { -brand-name-mozilla-vpn }
 navigation-v2-menu = เมนู
-# Obsolete string
-navigation-v2-get-a-firefox-account = รับ{ -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -33,6 +31,8 @@ navigation-v2-view-all-firefox-browsers = ดู{ -brand-name-firefox-browsers }
 
 navigation-v2-products = ผลิตภัณฑ์
 navigation-v2-close-products-menu = ปิดเมนู “ผลิตภัณฑ์”
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
 navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ดูว่าอีเมลของคุณปรากฏอยู่ในข้อมูลที่รั่วไหลของบริษัทใดบริษัทหนึ่งหรือไม่
 navigation-v2-pocket = { -brand-name-pocket }
@@ -46,8 +46,6 @@ navigation-v2-learn-how-each-firefox-product = เรียนรู้ว่า
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (เบต้า)
 navigation-v2-sign-up-for-new-accounts = ลงทะเบียนสำหรับบัญชีใหม่โดยไม่ต้องส่งที่อยู่อีเมลของคุณ
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (เบต้า)
-navigation-v2-protect-your-browsers-connection = ปกป้องการเชื่อมต่ออินเทอร์เน็ตของเว็บเบราว์เซอร์ของคุณ
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = คุณลักษณะและเครื่องมือใหม่สำหรับประสบการณ์ { -brand-name-mdn } ที่กำหนดเอง
 navigation-v2-view-all-products = ดูผลิตภัณฑ์ทั้งหมด
@@ -68,16 +66,12 @@ navigation-v2-careers = ตำแหน่งงาน
 navigation-v2-work-for-a-mission-driven-updated = ทำงานให้กับองค์กรที่ขับเคลื่อนด้วยพันธกิจที่สร้างผลิตภัณฑ์ที่ให้ความสำคัญกับผู้คนเป็นอันดับแรก
 navigation-v2-mozilla-blog = บล็อก { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = เรียนรู้เกี่ยวกับ { -brand-name-mozilla } และประเด็นที่สำคัญสำหรับเรา
-navigation-v2-stories = เรื่องราว
-navigation-v2-stories-about-how = เรื่องราวเกี่ยวกับวิธีที่บุคลากรและผลิตภัณฑ์ของเรากำลังเปลี่ยนแปลงโลกให้ดีขึ้น
 navigation-v2-more-about-mozilla = เพิ่มเติมเกี่ยวกับ { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = นวัตกรรม
 navigation-v2-close-innovation-menu = ปิดเมนู “นวัตกรรม”
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = มารวมตัวกันในพื้นที่โซเชียลแบบโต้ตอบออนไลน์หลายมิติ
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = รับเว็บเบราว์เซอร์ { -brand-name-firefox } ที่สร้างมาสำหรับนักพัฒนา
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +82,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = บริจาคเสียงของคุณเพื่อให้อนาคตของเว็บสามารถได้ยินทุกคน
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = เรียนรู้เพิ่มเติมเกี่ยวกับภาษาระดับล่างใหม่คล้ายแอสเซมบลี
+navigation-v2-mozilla-innovation-projects = โครงการนวัตกรรมของ { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = ค้นพบวิธีในการนำแนวคิดที่สดใสมาสู่ชีวิต
