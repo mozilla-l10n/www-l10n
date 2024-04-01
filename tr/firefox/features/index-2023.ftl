@@ -41,6 +41,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox }, 2.000’d
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = { -brand-name-firefox }’un yerleşik parmak izi engelleyicileri ile sizi takip eden yılışık reklamlardan kurtulun.
 features-index-translate-the-web = Web’i çevirin
+features-index-translate-websites-to-your = Web sitelerini doğrudan { -brand-name-firefox } tarayıcınızdan, verilerinizi kimseyle paylaşmadan kendi dilinize çevirin.
 # Obsolete string
 features-index-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox }’ta kendi dilinize çevirin. Artık eskisinden de kolay!
 features-index-picture-in-picture = Görüntü içinde görüntü

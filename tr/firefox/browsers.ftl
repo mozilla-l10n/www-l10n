@@ -3,12 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Bilgisayar, Mobil veya Kurumsal Cihazlar için { -brand-name-firefox }’u İndirin
 # HTML page description
 firefox-browsers-page-desc = Bilgisayar, { -brand-name-ios }, { -brand-name-android } arasından seçim yapın veya mobil indirme bağlantısını e-posta adresinize gönderelim.
+firefox-browsers-main-heading = { -brand-name-firefox } Tarayıcıları
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Gizliliğiniz Firefox için <strong>hep</strong> ilk sıradaydı ve hep öyle kalacak
@@ -29,7 +30,6 @@ firefox-browsers-go-beyond-two-dimensions-and = İki boyutun ötesine geçin. We
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> ile sitelerinizi kurun, kodlarınızı iyileştirin
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } hakkında bilgi alın
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }’a katılın: Tüm cihazlarınızda tüm ürünlerimizden en iyi şekilde yararlanın.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

@@ -37,5 +37,6 @@ legal-mdn-plus-terms = { -brand-name-mdn-plus } Hizmet Koşulları
 legal-report-copyright = Telif hakkı veya ticari marka ihlalini bildir
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } Hizmet Koşulları
-legal-mozilla-subscription-services = { -brand-name-mozilla } Abonelik Hizmetleri
+legal-mozilla-subscription-services = { -brand-name-mozilla } abonelik hizmetleri
+legal-content-moderation = İçerik moderasyon uygulamaları
 legal-amo-policies = AMO ilkeleri

@@ -13,6 +13,7 @@ home-were-not-normal = Biz bildiğiniz teknoloji şirketlerinden değiliz. Geli�
 home-the-health-of = “Varlığımızın yegâne amacı, internetin ve çevrimiçi yaşamın sağlığını korumak.”
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO’su
+home-mitchell-baker-v2 = Mitchell Baker, { -brand-name-mozilla-foundation } Yönetim Kurulu Başkanı
 home-mozilla-makes-privacy = { -brand-name-mozilla } gizliliğe saygı duyan ürünler geliştirir
 home-product-firefox-browsing = Gizli ve güvenli gezinti
 home-cta-get-firefox = { -brand-name-firefox }’u indirin

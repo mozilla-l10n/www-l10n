@@ -78,6 +78,7 @@ firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-d
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }’a hoş geldiniz
 firefox-developer-made-for-developers = Geliştiriciler için inşa edilmiş tarayıcı
+firefox-developer-all-the-latest-v2 = Betadaki tüm geliştirici araçlarının yanı sıra çok satırlı konsol editörü ve WebSocket denetçisi gibi ek özellikler.
 firefox-developer-a-separate-profile = Final sürümü veya { -brand-name-beta } { -brand-name-firefox } ile aynı anda kullanabilmeniz için <strong>ayrı bir profil</strong>.
 firefox-developer-preferences-tailored = <strong>Web geliştiricilerine yönelik</strong> tercihler: Tarayıcıdan ve uzaktan hata ayıklama, koyu tema ve geliştirici araç çubuğu düğmesi gibi özellikler varsayılan olarak açık.
 firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }’ın son sürümünü kullanıyorsunuz.
@@ -94,3 +95,4 @@ firefox-developer-mdn-is-a = { -brand-name-mdn }; CSS, HTML, JavaScript ve web A
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Müfredatı
 firefox-developer-a-structured-guide = Başarılı bir front-end geliştiricisi olmak için temel beceri ve uygulamaların yanı sıra önerilen öğrenme kaynaklarını da içeren yapılandırılmış bir rehber.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = { -brand-name-mdn }’i destekleyin; koleksiyonlar, bildirimler ve oyun alanlarıyla kişiselleştirin.
