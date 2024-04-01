@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = ¡Felicidades! Ahora tienes la última versión de { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Felicidades. Ya tienes la última versión del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Más { -brand-name-mdn }. <em>Tu</em> { -brand-name-mdn }.

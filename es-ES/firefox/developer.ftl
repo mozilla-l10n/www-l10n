@@ -84,3 +84,15 @@ firefox-developer-preferences-tailored = Preferencias <strong>personalizadas par
 firefox-developer-congrats-you-now-have-latest-v2 = Ahora tienes la última versión de { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Felicidades. Ya tienes la última versión del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Revisa las <a { $attrs }>notas de la versión</a> (solo en inglés) para ver las novedades.
+firefox-developer-developer-tools-user = Documentación para el usuario de herramientas de desarrollador
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
+firefox-developer-mdn-references = Referencias de { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } es un proyecto colaborativo de código abierto que documenta las tecnologías de la plataforma web, incluyendo CSS, HTML, JavaScript y APIs web.
+firefox-developer-mdn-curriculum = Plan de estudios de { -brand-name-mdn }
+firefox-developer-a-structured-guide = Una guía estructurada de las habilidades y prácticas esenciales para ser un desarrollador front-end exitoso, junto con recursos de aprendizaje recomendados.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Apoya a { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas para probar tu código.
