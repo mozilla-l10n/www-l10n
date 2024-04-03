@@ -39,4 +39,4 @@ legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } 服务条款
 legal-mozilla-subscription-services = { -brand-name-mozilla } 订阅服务
 legal-content-moderation = 内容审核方法
-legal-amo-policies = AMO 策略
+legal-amo-policies = AMO 政策
