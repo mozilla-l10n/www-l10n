@@ -3,8 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/about/this-site/
+### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
-about-this-site-title = Om denne nettstaden
-about-this-site-report-a-bug = Rapporter ein feil
-about-this-site-read-the-docs = Les dokumentasjonen
+vpn-ios-about-headline = Kvifor stole på oss?

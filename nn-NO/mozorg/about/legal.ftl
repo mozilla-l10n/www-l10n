@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
+legal-legal = Juridisk
 legal-get-involved = Ver med
+legal-back-to-legal = Tilbake til juridisk informasjon
+legal-terms = Vilkår
+legal-our-websites = Nettstadane våre
+legal-firefox-services = { -brand-name-firefox }-tenester
+legal-pocket = { -brand-name-pocket }
+legal-firefox = { -brand-name-firefox }
+legal-firefox-rights = { -brand-name-firefox }: Om rettane dine
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Om rettane dine

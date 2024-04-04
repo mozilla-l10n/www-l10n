@@ -9,7 +9,7 @@
 mozilla-accounts-get-a-mozilla-account = Få ein { -brand-name-mozilla-account } – Hald dataa dine  private, sikre og synkroniserte
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Lag ein { -brand-name-firefox-account } – Hald dine data private, trygge og synkroniserte
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein { -brand-name-firefox-account } no - Ei innlogging - Styrke og personvern overalt.
 firefox-accounts-enter-your-email-address = Skriv inn e-postadressa di for å kome i gang.
 firefox-accounts-already-have-an-account = Har du allereie ein konto?
@@ -18,6 +18,7 @@ firefox-accounts-sign-in = Logg inn
 firefox-accounts-already = Du har allereie ein { -brand-name-firefox-account }. Gratulerer!
 mozilla-accounts-already = Du har allereie ein { -brand-name-mozilla-account }. Gratulerer!
 firefox-accounts-manage = Handsam kontoen din
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Logg inn på { -brand-name-mozilla-account }-en din for å:
 # Obsolete string
@@ -31,8 +32,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Send ei fane</a> til ei anna e
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Lagre og synkroniser passord</a>
 firefox-accounts-get-email-alerts = Få e-postvarsel når dine data er involverte i ein kjend datalekkasje
-# Obsolete string
-firefox-accounts-see-if-youve-been = Sjå om du har vore involvert i ein datalekkasje på nettet.
 firefox-accounts-protect-your-identity = Vern identiteten din med sikker maskering av telefonnummer og e-postadresse
 firefox-accounts-keep-your-passwords = Hald passorda dine trygge og ta dei med overalt.
 firefox-accounts-get-a-lookout-for = Hald auge med datalekkasjar.

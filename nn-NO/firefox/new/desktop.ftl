@@ -43,12 +43,6 @@ firefox-desktop-download-blocks-social-trackers = Blokkerer sosiale mediesporara
 firefox-desktop-download-os-availability = OS-tilgjengelegheit
 firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettlesaren
 firefox-desktop-download-primary-password = Hovudpassord
-# Obsolete string
-firefox-desktop-love-your-life = Lik det du gjer på nettet
-# Obsolete string
-firefox-desktop-its-your-internet = Det er ditt internett. Fargelegg det som du vil med tusentals verktøy, tema og tillegg. { -brand-name-firefox } er den opphavlege alternative nettlesaren som set menneske over profitt.
-# Obsolete string
-firefox-desktop-download-master-password = Hovudpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
 firefox-desktop-download-ads-are-distracting = Annonsar er irriterande og gjer at nettsidene lastar tregare medan sporarar sporar aktivitetane dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt dei fleste av desse sporarane automatisk, utan at du treng å endre tryggingsinnstillingane dine.
 firefox-desktop-download-see-your-report = Sjå tryggingsrapporten din
@@ -149,14 +143,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokker
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spørsmål? <a { $attrs }>{ -brand-name-mozilla } brukarstøtte</a> kan hjelpe deg.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Du har allereie nettlesaren. Få enno meir ut av { -brand-name-firefox }.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Pass på hackarar med { -brand-name-firefox-monitor }, beskytt e-postadressa di med { -brand-name-firefox-relay }, med meir.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with = Bruk { -brand-name-firefox-monitor } for å halde eit auge med hackarar, beskytt passord med { -brand-name-firefox-lockwise }, og meir.
-firefox-desktop-download-get-more-from-firefox = Få meir ut av { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Berre last ned nettlesaren
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,13 +155,13 @@ firefox-desktop-download-now-else = Fullfør <strong>installasjonen</strong> av 
 firefox-desktop-download-now-windows = No kan du <strong>køyre</strong> installasjonsprogrammet du nettopp lasta ned.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = No kan du <strong>opne</strong> den nedlasta fila.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Vel eit <strong>nedlastingsalternativ</strong> nedanfor
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har problem? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på eit anna språk eller for eit anna operativsystem.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Obsolete string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Dersom du får ei melding om at appen du prøver å installere ikkje er ein { -brand-name-microsoft }-stadfesta app, klikkar du på «Installer likevel» eller <a { $attrs }>Endre innstillingar for apptilråding</a>.
@@ -181,10 +169,6 @@ firefox-desktop-download-visit-support-for-more = Besøk brukarstøtte for meir 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">kjem ikkje lenger med sikkerheitsoppdateringar</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan enno bruke { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Du brukar eit utrygt, forelda operativsystem, <a href="{ $url }">som ikkje lenger er støtta av { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

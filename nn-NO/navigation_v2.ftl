@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Last ned { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meny
-# Obsolete string
-navigation-v2-get-a-firefox-account = Få deg ein { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -68,16 +66,12 @@ navigation-v2-careers = Karriere
 navigation-v2-work-for-a-mission-driven-updated = Arbeid for ein oppdragsdriven organisasjon som lagar målretta produkt.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogg
 navigation-v2-learn-about-mozilla-and = Les meir om { -brand-name-mozilla } og dei spørsmåla som er viktige for oss.
-navigation-v2-stories = Historier
-navigation-v2-stories-about-how = Historier om korleis vi og produkta våre gjer verda betre.
 navigation-v2-more-about-mozilla = Meir om { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = innovasjon
 navigation-v2-close-innovation-menu = Lat att Innovasjon-menyen
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Kom saman på nettet i eit interaktivt, fleirdimensjonalt sosialt rom.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Få nettlesaren { -brand-name-firefox } som er bygd for utviklarar.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +82,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemma di slik at framtida på nettet kan høyre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lær deg meir om det nye, lågnivå, assembler-liknande språket.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovasjonsprojekt
+navigation-v2-discover-ways-to-bring = Oppdag måtar å verkeleggjere gode idear.

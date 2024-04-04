@@ -3,8 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/about/this-site/
+### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
-about-this-site-title = Om denne nettstaden
-about-this-site-report-a-bug = Rapporter ein feil
-about-this-site-read-the-docs = Les dokumentasjonen
+# HTML page title
+password-manager-free-password-manager = Gratis passordhandsamar

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Skriv inn ei gyldig e-postadresse.
 newsletter-form-you-must-agree-to = Du må godta personvernerklæringa
@@ -31,3 +31,5 @@ newsletter-form-thanks = Takk!
 newsletter-form-leave-this-field-empty = La dette feltet vere tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nei
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

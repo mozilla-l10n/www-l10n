@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Vern heile eininga di
 vpn-landing-brand-trust-heading = Eit VPN frå eit merke du kan stole på
 
 ## FAQ section

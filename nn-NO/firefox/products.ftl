@@ -14,17 +14,23 @@ firefox-products-its-a-whole-family-of-products = Det er ein hel familie av prod
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } er <strong>meir</strong> enn ein nettlesar
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+# Obsolete string
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } er berre <strong>byrjinga</strong>
 firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Sjå om den personlege informasjonen din har blitt kompromittert i samband med ein datalekkasje i eit selskap, og registrer deg for framtidige varsel.
 firefox-products-check-for-breaches = Sjå etter datalekkasjar
 firefox-products-sign-up-for-breach-alerts = Registrer deg for datalekkasjevarsel
 # Obsolete string
 firefox-products-firefox-browsers = { -brand-name-firefox }-nettlesarar
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browsers-that-block = Få nettlesarar som blokkerer 2000+ datasporarar automatisk. Utvida sporingsvern er standard i alle { -brand-name-firefox }-nettlesarar.
 firefox-products-desktop = Datamaskin
 firefox-products-android = { -brand-name-android }
 firefox-products-ios = { -brand-name-ios }
 firefox-products-see-all-browsers = Sjå alle nettlesarar
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 firefox-products-send-your-large-files-and = Send dei store filene dine og sensitive dokument sikkert, opptil 2,5 GB.
 firefox-products-send-a-file = Send ei fil
