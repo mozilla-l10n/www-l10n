@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er den lynraske nettlesaren som tilbyr avanserte utviklarverktøy og nyaste funksjonar som støtte for CSS-rutenett og feilsøking (debugging) av framework
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Velkomen til den nye favorittnettlesaren din. Få dei siste funksjonane, rask yting, og utviklarverktøya du treng for å byggje det opne nettet.
@@ -73,9 +74,12 @@ firefox-developer-the-new-fonts-panel = Det nye skrift-panelet i { -brand-name-f
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk tilbakemeldingar til { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettlesaren som er laga for utviklarar
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd oppatt frå grunnen til å vere raskare, penare og kraftigare enn nokon gong.
+firefox-developer-welcome-to-firefox-developer-edition = Velkomen til { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Velkomen til { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
 firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulerer. Du har no den nyaste versjonen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
