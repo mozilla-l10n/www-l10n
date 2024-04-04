@@ -123,6 +123,7 @@ vpn-subnav-vpn-vs-proxy = VPN vs Proxy
 vpn-subnav-subscribe = Subscribe to { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Learn about VPNs
 vpn-subnav-download-mozilla-vpn = Download { -brand-name-mozilla-vpn }
+vpn-subnav-features = Features
 
 ## VPN Affiliate cookie notice
 
