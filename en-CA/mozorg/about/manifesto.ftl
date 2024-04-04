@@ -54,6 +54,7 @@ manifesto-an-internet-with-these = An internet with these qualities will not com
 manifesto-i-support-the-vision-of = I support the vision of a better, healthier internet from @mozilla, will you join me?
 # Obsolete string
 manifesto-share-on-twitter = Share on { -brand-name-twitter }
+manifesto-share-on-x = Share on X
 manifesto-share-on-x-aria-label = Share on X (formerly Twitter)
 manifesto-our-10-principles = <strong>Our 10</strong> Principles
 manifesto-read-the-entire-manifesto = Read the entire manifesto
