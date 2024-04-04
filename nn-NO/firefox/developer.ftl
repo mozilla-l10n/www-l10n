@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er den lynraske nettlesaren som tilbyr avanserte utviklarverktøy og nyaste funksjonar som støtte for CSS-rutenett og feilsøking (debugging) av framework
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Velkomen til den nye favorittnettlesaren din. Få dei siste funksjonane, rask yting, og utviklarverktøya du treng for å byggje det opne nettet.
 firefox-developer-speak-up = Sei meininga di
@@ -57,17 +58,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Dei nye { -brand-name-firefox-devtools } er avanserte og fleksible, og du kan du tilpasse dei etter behov. Du får mellom anna ein JavaScript-feilsøkar, som er langt betre enn andre feilsøkarar. Den nye JavaScriptfeilsøkaren er bygd i React og Redux, og du kan bruke han med ulike nettlesarar.
 firefox-developer-master-css-grid = Meistre CSS-rutenett
-# outdated
-firefox-developer-next-gen-css-engine = Neste generasjons CSS-motor
 firefox-developer-built-for-developers = Bygd for utviklarar
-firefox-developer-a-next-generation = Neste generasjons CSS-motor
 firefox-developer-master-innovative-features = Nyskapande funksjonar
 firefox-developer-want-to-be-on-the-cutting-edge = Vil du vere i framkant?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } får daglege oppdateringar og lèt deg få tilgang til funksjonar månadar før dei går ut til alle andre.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } inneheld ein ny CSS-motor, utvikla i Rust, som har toppmoderne innovasjonar og er lynrask.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } er den einaste nettlesaren med verktøy som er bygd spesielt for å byggje og designe med CSS-rutenett. Desse verktøya lèt deg visualisere rutenettet, vise tilknytte områdenamn, førehandsvise transformasjonar på rutenettet og mykje meir.
 firefox-developer-convenient-features = Praktiske funksjonar
-firefox-developer-faster-performance = Raskare yting
 firefox-developer-shapes-editor = Formeditor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } har ein heilt ny formbane-editor som gjer det enklare å finjustere figurkonturar og klippforma baner ved å tillate deg å enkelt finjustere justeringane med eit visuelt redigeringsprogram.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } har ein helt ny formbane-editor som gjer det enklare å finjustere skyggekonturar og klippforma baner ved å tillate deg å enkelt finjustere justeringane med eit visuelt redigeringsprogram.
@@ -76,9 +72,10 @@ firefox-developer-fonts-panel = Skrift-panel
 firefox-developer-the-new-fonts-panel = Det nye skrift-panelet i { -brand-name-firefox-devtools } gjev utviklarar rask tilgang til all informasjonen dei treng om skrifttypar som er nytta i eit element. Det inneheld også verdifull informasjon som skrift-kjelde, vekt, stil og meir.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk tilbakemeldingar til { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettlesaren som er laga for utviklarar
-firefox-developer-welcome-to-the-all-new = Velkomen til den heilt nye { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd oppatt frå grunnen til å vere raskare, penare og kraftigare enn nokon gong.
-firefox-developer-congrats-you-now-have-firefox = Gratulerer. Du har no { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Dette er ikkje berre ei oppdatering. Dette er { -brand-name-firefox-quantum }: ein heilt ny { -brand-name-firefox } som er bygd oppatt frå grunnen av for å vere raskare, meir elegant og kraftigare enn nokon gong.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Velkomen til { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
+firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
+firefox-developer-congrats-you-now-have-latest = Gratulerer. Du har no den nyaste versjonen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
