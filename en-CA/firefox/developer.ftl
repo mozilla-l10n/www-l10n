@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Welcome to your new favourite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
 firefox-developer-speak-up = Speak up
@@ -57,17 +59,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = The new { -brand-name-firefox-devtools } are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
 firefox-developer-master-css-grid = Master CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = Next-Gen CSS Engine
 firefox-developer-built-for-developers = Built for Developers
-firefox-developer-a-next-generation = A Next-Generation CSS Engine
 firefox-developer-master-innovative-features = Innovative Features
 firefox-developer-want-to-be-on-the-cutting-edge = Want to be on the cutting-edge?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } receives daily updates and allows you to access features months before they go mainstream.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
 firefox-developer-convenient-features = Convenient Features
-firefox-developer-faster-performance = Faster Performance
 firefox-developer-shapes-editor = Shapes Editor
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } has a brand new shape path editor that takes the guesswork out of fine-tuning your shadow-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
@@ -76,14 +73,22 @@ firefox-developer-fonts-panel = Fonts Panel
 firefox-developer-the-new-fonts-panel = The new fonts panel in { -brand-name-firefox-devtools } gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatically sends feedback to { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Download the { -brand-name-firefox } browser made for developers
-firefox-developer-welcome-to-the-all-new = Welcome to the all-new { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-firefox-developer-congrats-you-now-have-firefox = Congrats. You now have { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = This isn’t just an update. This is { -brand-name-firefox-quantum }: A brand new { -brand-name-firefox } that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+firefox-developer-welcome-to-firefox-developer-edition = Welcome to { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Welcome to { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = The browser made for developers
-firefox-developer-all-the-latest = All the latest developer tools in beta, plus <strong>experimental features</strong> like the Multi-line Console Editor and WebSocket Inspector.
+firefox-developer-all-the-latest-v2 = All the latest developer tools in beta in addition to features like the Multi-line Console Editor and WebSocket Inspector.
 firefox-developer-a-separate-profile = A <strong>separate profile and path</strong> so you can easily run it alongside Release or { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferences <strong>tailored for web developers</strong>: Browser and remote debugging are enabled by default, as are the dark theme and developer toolbar button.
-firefox-developer-congrats-you-now-have = Congrats. You now have { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = You now have the latest version of { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Congratulations. You now have the latest version of { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = View the <a { $attrs }>release notes</a> (English only) to see what’s new.
+firefox-developer-developer-tools-user = Developer Tools User Docs
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resources for Developers, by Developers
+firefox-developer-mdn-references = { -brand-name-mdn } References
+firefox-developer-mdn-is-a = { -brand-name-mdn } is an open-source, collaborative project documenting web platform technologies, including CSS, HTML, JavaScript and web APIs.

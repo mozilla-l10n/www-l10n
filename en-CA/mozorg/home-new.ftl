@@ -11,7 +11,9 @@ home-mission-driven = Mission-driven. People-powered.
 home-were-not-normal = We’re not a normal tech company. The things we create prioritize people and their privacy over profits. We exist to make the internet a healthier, happier place for everyone.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “The health of the internet and online life is why we exist.”
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
+home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } makes privacy-respecting products
 home-product-firefox-browsing = Private & secure browsing
 home-cta-get-firefox = Get { -brand-name-firefox }
@@ -21,6 +23,8 @@ home-product-relay-masks = Easy-to-use email & phone masks
 home-cta-get-relay = Get { -brand-name-relay }
 home-product-vpn-trust = A VPN you can trust
 home-cta-get-vpn = Get { -brand-name-mozilla-vpn }
+home-product-monitor-data = Data breach alerts
+home-cta-get-monitor = Get { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } is taking bets to show the world there’s a business to be made with trustworthy AI. That includes putting things like human rights, data protection and transparency at the core of how these complex systems work.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

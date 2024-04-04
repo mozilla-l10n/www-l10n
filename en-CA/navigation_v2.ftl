@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Download { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Get a { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -68,16 +66,12 @@ navigation-v2-careers = Careers
 navigation-v2-work-for-a-mission-driven-updated = Work for a mission-driven organization that makes people-first products.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Learn about { -brand-name-mozilla } and the issues that matter to us.
-navigation-v2-stories = Stories
-navigation-v2-stories-about-how = Stories about how our people and products are changing the world for the better.
 navigation-v2-more-about-mozilla = More About { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Innovation
 navigation-v2-close-innovation-menu = Close Innovation menu
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Gather in this interactive, online, multi-dimensional social space.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Get the { -brand-name-firefox } browser built just for developers.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +82,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Donate your voice so the future of the web can hear everyone.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Learn more about the new, low-level, assembly-like language.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovation Projects
+navigation-v2-discover-ways-to-bring = Discover ways to bring bright ideas to life.
