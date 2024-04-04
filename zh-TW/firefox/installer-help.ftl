@@ -18,7 +18,7 @@ installer-help-action-choose = 請選擇您想要下載的版本。
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = 下載最新版本。已開啟自動隱私保護。下載 { -brand-name-firefox } 即可封鎖超過 { $trackers } 組追踪器。
+installer-help-firefox-release-desc-v2 = 下載會自動保護隱私的最新版。下載 { -brand-name-firefox } 即可封鎖超過 { $trackers } 組追蹤器。
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
