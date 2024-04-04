@@ -11,10 +11,6 @@ learn-more-about = Lue lisää { -brand-name-firefox }-selaimista ja -tuotteista
 learn-more-faq = { -brand-name-firefox }in UKK
 the-history-of = Verkkoselainten historia
 firefox-has-been = { -brand-name-firefox } on ollut olemassa melkein alusta asti.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Aatteellinen kapinallinen
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } on itsenäinen ja voittoa tavoittelemattoman { -brand-name-mozilla }n tukema, joka taistelee verkko-oikeuksiesi puolesta ja tuo Internetin kaikkien ulottuville - kaikkialla.
 what-is-a = Mikä verkkoselain on?
 a-web-browser = Verkkoselain vie sinut minne tahansa internetissä. Sen avulla näet tekstiä, kuvia ja videota ympäri maailmaa.
 update-your-browser = Päivitä selaimesi nopeaan ja turvalliseen { -brand-name-firefox }iin.
@@ -41,8 +37,12 @@ firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ille
 new-school-meets = Uusi koulukunta kohtaa vanhan koulukunnan nopeimmalla selaimella tähän mennessä.
 firefox-for-windows = { -brand-name-firefox } { -brand-name-windows }ille (64-bit)
 we-worry-about = Me huolehdimme tietojesi suojaamisesta, joten sinun ei tarvitse.
+# Obsolete string
 seven-of-the = Seitsemän parasta selainta suorassa vertailussa
+six-of-the-best = Kuusi parasta selainta suorassa vertailussa
+# Obsolete string
 we-compare-firefox = Verrataan { -brand-name-firefox }ia { -brand-name-chrome }en, { -brand-name-edge }en, { -brand-name-safari }in, { -brand-name-opera }an, { -brand-name-brave }en ja { -brand-name-ie }iin, niin päätöksenteko on hieman helpompaa.
+we-compare-firefox-v2 = Vertaamme { -brand-name-firefox }ia Chromeen, Edgeen, Safariin, Operaan ja Braveen auttaaksemme sinua päätöksenteossa.
 comparing-firefox-chrome = { -brand-name-firefox-browser } vertailussa { -brand-name-google } { -brand-name-chrome }n kanssa
 big-isnt-always = Suurin ei ole aina paras. Valitse sen sijaan itsenäisyys.
 comparing-firefox-brave = { -brand-name-firefox-browser } vertailussa { -brand-name-brave }n kanssa
@@ -61,10 +61,6 @@ firefox-more-protection = { -brand-name-firefox }: enemmän suojaa, vähemmän h
 were-obsessed-with = Yksityisyytesi suojaaminen on meille pakkomielle. Siksi olemme tehneet { -brand-name-firefox }in yksityisestä selauksesta muita vahvemman.
 incognito-browser-what = Incognito-selain: mitä se todella tarkoittaa
 firefox-calls-it = { -brand-name-firefox } kutsuu sitä yksityiseksi selaamiseksi, { -brand-name-chrome } kutsuu sitä incognito-tilaksi. Molempien avulla voit selata verkkoa ilman, että selaushistoriasi tallentuu.
-# Obsolete string
-take-the-stress = Älä ota stressiä turvallisen selaimen etsimisestä.
-# Obsolete string
-building-a-safe = Turvallisen selaimen rakentaminen on taidetta ja tiedettä, koska sille ei ole asetettu sääntöjä.
 firefox-more-fingerprinter-blocking = Yksilöijien esto
 firefox-more-fingerprinting-is-a = Yksilöinti on eräänlaista verkkoseurantaa, joka on tunkeutuvampaa kuin tavallinen evästepohjainen seuranta. Siksi { -brand-name-firefox-browser } estää sen.
 firefox-more-translate-the-web = Käännä verkko

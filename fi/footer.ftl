@@ -11,31 +11,7 @@ footer-corporate-blog = Yritysblogi
 footer-browser-comparison = Selainten vertailu
 footer-brand-standards = Brändistandardit
 footer-browsers = Selaimet
-# Outdated string
-footer-desktop = Tietokone
-# Outdated string
-footer-mobile = Mobiili
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = Tuotteet
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = Liity
-# Outdated string
-footer-sign-up = Liity
-# Outdated string
-footer-sign-in = Kirjaudu sisään
-# Outdated string
-footer-benefits = Hyödyt
 footer-developers = Kehittäjät
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = Vieraile <a { $moco_link }>{ -brand-name-moz
 footer-portions-of-this-content = Osa tästä sisällöstä on tekijänoikeudella suojattu © 1998–{ $current_year } yksittäisten mozilla.org-avustajien toimesta. Sisältö on <a rel="license" href="{ $url }">{ -brand-name-creative-commons } -lisenssin</a> alaista.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Yritys
-# Outdated string
-footer-about = Tietoja
 footer-press-center = Lehdistökeskus
 footer-careers = Työpaikat
-# Outdated string
-footer-test-new-features = Testaa uusia ominaisuuksia
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = Työkalut
 footer-resources = Rersurssit
 footer-contact = Yhteystiedot
@@ -68,7 +38,10 @@ footer-websites-legal = Juridiset asiat
 footer-language = Kieli
 footer-go = Siirry
 footer-donate = Lahjoita
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (entinen Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

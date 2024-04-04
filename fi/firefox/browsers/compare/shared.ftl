@@ -11,8 +11,6 @@ compare-shared-yes = Kyllä
 compare-shared-no = Ei
 compare-shared-private-browsing-mode = Yksityinen selaustila
 compare-shared-blocks-third-party-tracking-default = Estää kolmansien osapuolten seurainevästeet oletusarvoisesti
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Estää kolmansien osapuolten seurainevästeet
 compare-shared-blocks-cryptomining-scripts = Estää kryptolouhinnan komentosarjat
 compare-shared-blocks-fingerprinting-scripts = Estää yksilöijäkomentosarjat
 compare-shared-blocks-social-trackers = Estää sosiaalisen median seuraimet
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = Saatavuus mobiilikäyttöjärjestelmille
 compare-shared-syncs-with-mobile = Synkronoi mobiililaitteen kanssa
 compare-shared-password-management = Salasanojen hallinta
 compare-shared-primary-password = Pääsalasana
-# Obsolete string
-compare-shared-master-password = Pääsalasana
 compare-shared-security-and-privacy = Turvallisuus ja yksityisyys
 compare-shared-utility = Apuohjelmat
 compare-shared-portability = Siirrettävyys
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = Turvallisuus ja <strong>yksityisyys</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>Apuohjelmat</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>Siirrettävyys</strong>
 compare-shared-overall-assessment = Kokonaisarviointi
 compare-shared-the-comparisons-made-here-updated = Tässä tehdyt vertailut tehtiin oletusasetuksilla ja selainversioiden välillä seuraavasti:
-# Obsolete string
-compare-shared-the-comparisons-made-here = Tässä tehdyt vertailut tehtiin selainversioiden välillä seuraavasti:
 compare-shared-this-page-updated-semi-quarterly = Tämä sivu päivitetään 1,5 kuukauden välein viimeisimpien versioiden mukaisesti, tiedot eivät välttämättä aina kuvasta uusimpia päivityksiä.
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = Työpöytä
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = Vertaa selaimia
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>Suorituskyky</strong>

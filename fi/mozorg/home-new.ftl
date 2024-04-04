@@ -11,7 +11,9 @@ home-mission-driven = Tehtävävetoinen. Ihmisvoimainen.
 home-were-not-normal = Emme ole tavallinen teknologiayritys. Luomamme asiat asettavat ihmiset ja heidän yksityisyytensä etusijalle voittojen edelle. Olemme olemassa tehdäksemme Internetistä terveellisemmän ja onnellisemman paikan kaikille.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Internetin ja verkkoelämän terveys on syy, miksi olemme olemassa."
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla }n toimitusjohtaja
+home-mitchell-baker-v2 = Mitchell Baker, { -brand-name-mozilla-foundation }in hallituksen puheenjohtaja
 home-mozilla-makes-privacy = { -brand-name-mozilla } valmistaa yksityisyyttä kunnioittavia tuotteita
 home-product-firefox-browsing = Yksityistä ja suojattua selausta
 home-cta-get-firefox = Lataa { -brand-name-firefox }
@@ -21,6 +23,8 @@ home-product-relay-masks = Helppokäyttöiset sähköposti- ja puhelinmaskit
 home-cta-get-relay = Hanki { -brand-name-relay }
 home-product-vpn-trust = VPN, johon voit luottaa
 home-cta-get-vpn = Hanki { -brand-name-mozilla-vpn }
+home-product-monitor-data = Tietovuotohälytykset
+home-cta-get-monitor = Hanki { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } lyö vetoa näyttääkseen maailmalle, että luotettavalla tekoälyllä on mahdollista tehdä kannattavaa liiketoimintaa. Se sisältää ihmisoikeuksien, tietosuojan ja avoimuuden asettamisen näiden monimutkaisten järjestelmien toiminnan ytimeen.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

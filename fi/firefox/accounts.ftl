@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Luo { -brand-name-mozilla-account } – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Luo { -brand-name-firefox-account } – Pidä tietosi yksityisenä, turvassa ja ajan tasalla
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Synkronoi salasanasi, kirjanmerkkisi ja välilehtesi kaikilla laitteillasi. Luo { -brand-name-firefox-account } nyt – Yksi kirjautuminen – Voimaa ja yksityisyyttä kaikkialla.
+# HTML page description
+mozilla-accounts-securely-sync-your = Synkronoi salasanasi, kirjanmerkkisi ja välilehtesi kaikilla laitteillasi. Luo { -brand-name-mozilla-account } nyt – Yksi kirjautuminen – Voimaa ja yksityisyyttä kaikkialla.
 firefox-accounts-enter-your-email-address = Anna sähköpostiosoitteesi aloittaaksesi.
 firefox-accounts-already-have-an-account = Onko sinulla jo tili?
 firefox-accounts-sign-in = Kirjaudu sisään
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = Kirjaudu sisään
 firefox-accounts-already = Sinulla on jo { -brand-name-firefox-account }. Onnittelut!
 mozilla-accounts-already = Sinulla on jo { -brand-name-mozilla-account }. Onnittelut!
 firefox-accounts-manage = Hallinnoi tiliä
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Kirjaudu { -brand-name-mozilla-account }llesi, niin voit:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Lähettää välilehden</a> to
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Tallentaa ja synkronoida salasanoja</a>
 firefox-accounts-get-email-alerts = Saada sähköposti-ilmoituksia, kun tietojasi paljastuu tunnetussa tietovuodossa
-# Obsolete string
-firefox-accounts-see-if-youve-been = Ota selvää, oletko altistunut tietovuodolle.
 firefox-accounts-protect-your-identity = Suojata henkilöyttäsi asettamalla puhelinnumerollesi ja sähköpostiosoitteellesi maski
 firefox-accounts-keep-your-passwords = Pidä salasanat suojattuna ja siirrettävissä.
 firefox-accounts-get-a-lookout-for = Ota tietovuodot tarkkailuun.
