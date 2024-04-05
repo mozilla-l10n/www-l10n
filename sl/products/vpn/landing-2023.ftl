@@ -13,6 +13,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Zaščitite svojo celotno napra
 vpn-landing-desc = { -brand-name-mozilla-vpn } lahko ščiti celotno napravo in katerikoli program na njej. Strežniki v preko { $countries } državah vam omogočajo, da se od koderkoli povežete kamorkoli.
 vpn-landing-powerful-privacy-for-peace = Zmogljiva zasebnost za brezskrbno življenje
 vpn-landing-whats-a-vpn = Kaj je VPN?
+vpn-landing-a-virtual-private-network-protects = Navidezno zasebno omrežje ščiti vašo povezavo z internetom ter ohranja zasebnost vaše lokacije in spletne dejavnosti na vseh vaših napravah.
 vpn-landing-see-all-the-ways-mozilla-vpn = Oglejte si vse načine, na katere vas { -brand-name-mozilla-vpn } ščiti.
 vpn-landing-how-a-vpn-helps-you = Kako vam pomaga VPN
 vpn-landing-keeps-your-data-safe = Varuje vaše podatke na javnem omrežju Wi-Fi
