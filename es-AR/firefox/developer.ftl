@@ -95,4 +95,4 @@ firefox-developer-mdn-is-a = { -brand-name-mdn } es un proyecto colaborativo de 
 firefox-developer-mdn-curriculum = Plan de estudios de { -brand-name-mdn }
 firefox-developer-a-structured-guide = Una guía estructurada de las habilidades y prácticas esenciales para ser un desarrollador front-end exitoso, junto con recursos de aprendizaje recomendados.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-firefox-developer-support-mdn-and = Admite { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas de juego.
+firefox-developer-support-mdn-and = Apoyá a { -brand-name-mdn } y personalizalo con colecciones, notificaciones y áreas de juego.
