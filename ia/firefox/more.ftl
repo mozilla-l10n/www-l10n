@@ -42,6 +42,7 @@ seven-of-the = Septe del melior navigatores in directe comparation
 six-of-the-best = Sex del melior navigatores in comparation directe
 # Obsolete string
 we-compare-firefox = Nos compara { -brand-name-firefox } con { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } e { -brand-name-ie } pro te adjutar a prender le decision.
+we-compare-firefox-v2 = Nos compara { -brand-name-firefox } con Chrome, Edge, Safari, Opera e Brave pro adjutar te a prender tu decision.
 comparing-firefox-chrome = Comparation inter { -brand-name-firefox-browser } e { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Grande non es sempre le melior. Elige in vice le independentia.
 comparing-firefox-brave = Comparation inter { -brand-name-firefox-browser } e { -brand-name-brave }

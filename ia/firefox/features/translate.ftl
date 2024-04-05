@@ -10,3 +10,4 @@ features-translate-translate-a-webpage-with-firefox = Traduce un pagina web con 
 features-translate-translate-the-web = Traduce le web
 features-translate-when-you-translate-a-webpage = Quando tu traduce un pagina web, illo resta private
 features-translate-what-languages-are-currently = Que lingua es actualmente supportate?
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } parla tu lingua

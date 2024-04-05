@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es le navigator ultra-veloce que offere innovative instrumentos de disveloppamento e le plus recente functionalitate como le supporto del grillias CSS e le depuration de frameworks.
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Benvenite a tu nove navigator favorite. Obtene le ultime functionalitates, rapide performance, e le applicationes de disveloppamento que tu necessita pro producer pro le web aperte.
 firefox-developer-speak-up = Exprime te
@@ -71,16 +73,16 @@ firefox-developer-fonts-panel = Pannello de typos de litteras
 firefox-developer-the-new-fonts-panel = Le nove quadro de typos de litteras in { -brand-name-firefox-devtools } da al disveloppatores rapide accesso a tote le informationes que illos require sur le typos de litteras a usar in un elemento. Illo etiam include importante informationes como le fonte del typo de litteras, peso, stilo e multo plus.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } invia automaticamente feedback a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Discarga le navigator { -brand-name-firefox } dedicate al disveloppatores
-firefox-developer-welcome-to-the-all-new = Benvenite al novissime { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
-firefox-developer-congrats-you-now-have-firefox = Felicitationes. Ora tu ha { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Isto non es justo un actualisation. Isto es { -brand-name-firefox-quantum }: un { -brand-name-firefox } nove de fabrica que ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
+firefox-developer-welcome-to-firefox-developer-edition = Benvenite in { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Benvenite a { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest-v2 = Tote le ultime utensiles de disveloppator in beta in addition a functionalitates como le Redactor de consola multilinea e le Inspector de WebSocket.
-# Obsolete string
-firefox-developer-all-the-latest = Tote le ultime utensiles de disveloppator in version beta, plus <strong>functionalitates experimental</strong> como le Redactor de consola multilinea e le Inspector de WebSocket.
 firefox-developer-a-separate-profile = Un <strong> profilo e route separate</strong> assi que pote currer preter le version official o le { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro le disveloppatores web</strong>: le depuratores remote e del navigator es activate per configuration predefinite, assi como le thema obscur e le button de disveloppator sur le barra de instrumentos.
-firefox-developer-congrats-you-now-have = Felicitationes. Ora tu ha { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
