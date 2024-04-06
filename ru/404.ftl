@@ -13,8 +13,8 @@ not-found-page-go-back = Вернуться назад
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Узнайте</a> о { -brand-name-mozilla }, некоммерческой организации, разрабатывающей { -brand-name-firefox }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Познакомьтесь</a> с целым семейством продуктов { -brand-name-firefox }, созданных для обеспечения вашей приватности.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Загрузите</a> браузер { -brand-name-firefox } на ваше мобильное устройство или компьютер
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Сделайте пожертвование</a> в пользу { -brand-name-mozilla-foundation } и отберите Интернет у крупных технологий.
