@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ہک تکھا براؤزر ہے جیڑھا جدید ترین ڈویلپر ٹولز تے CSS گرڈ سپورٹ تے فریم ورک ڈیبگنگ جیہاں نویاں خصوصیات پیش کریندا ہے۔
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = تہاݙے نویں بھاوݨیں براؤزر وِچ جی آیاں کوں۔ نویاں نکور خصوصیات، تکھی کارکردگی، تے ترقیاتی ٹولز حاصل کرو جنہاں دی تہاکوں اوپن ویب کیتے بݨاوݨ دی ضرورت ہے۔
@@ -73,6 +74,7 @@ firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } وِچ 
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-developer-download-the-firefox-browser = ڈویلپرز کیتے بݨایا ڳیا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو۔
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } کوں پہلے کنوں زیادہ تکھا، لیسواں تے زیادہ تکڑا بݨاوݨ کیتے زمین کنوں دوبارہ بݨایا ڳیا ہے۔
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } وچ ست بسم اللہ
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
