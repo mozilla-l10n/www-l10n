@@ -9,7 +9,7 @@
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } گھنو ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
 # Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } بݨاؤ ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں  تے ٹیباں محفوظ طریقے نال اپݨے تمام آلات وچ سینک کرو۔ ہݨیں { -brand-name-firefox-account }حاصل کرو. ہݨ – ہک لاگ ان – طاقت تے رازداری ہر جاہ.
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
@@ -18,6 +18,7 @@ firefox-accounts-sign-in = سائن ان
 firefox-accounts-already = تہاݙا { -brand-name-firefox-account } پہلے ہی ہے پیا۔ مبارکاں!
 mozilla-accounts-already = تہاݙا { -brand-name-mozilla-account } پہلے ہی ہے پیا۔ مبارکاں!
 firefox-accounts-manage = آپݨاں کھاتہ منیج کرو
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = آپݨے { -brand-name-mozilla-account } نال انہاں وچ سائن ان تھیوو:
 # Obsolete string
@@ -31,8 +32,6 @@ firefox-accounts-send-a-tab = ٻئی ڈیوائس کوں <a href="{ $send }">ہ�
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفوظ کرو تے ہم وقت کرو</a>
 firefox-accounts-get-email-alerts = ڄݙݨ تہاݙیاں معلومات معلوم ڈیٹا دی خلاف ورزی کریندی ظاہر تھیون تاں ای میل الرٹ گھنو
-# Obsolete string
-firefox-accounts-see-if-youve-been = ݙیکھو بھلا تساں آن لائن ڈیٹا دی خلاف ورزی وچ ملوث ہو۔
 firefox-accounts-protect-your-identity = محفوظ فون تے ای میل ماسکنگ نال آپݨی سُن٘ڄاݨ دی حفاظت کرو
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
 firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔

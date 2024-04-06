@@ -43,3 +43,8 @@ download-firefox-esr = { -brand-name-firefox-esr } ڈاؤن لوڈ کرو
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32 ــ بٹ ڈاؤن کرو
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64 ــ بٹ ڈاؤن کرو
 download-a-different-build = ہک مختلف بلڈ ڈاؤن لوڈ کرو
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = { -brand-name-linux } 32-bit ڈاؤن لوڈ کرو

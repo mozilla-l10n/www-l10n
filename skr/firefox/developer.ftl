@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ہک تکھا براؤزر ہے جیڑھا جدید ترین ڈویلپر ٹولز تے CSS گرڈ سپورٹ تے فریم ورک ڈیبگنگ جیہاں نویاں خصوصیات پیش کریندا ہے۔
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = تہاݙے نویں بھاوݨیں براؤزر وِچ جی آیاں کوں۔ نویاں نکور خصوصیات، تکھی کارکردگی، تے ترقیاتی ٹولز حاصل کرو جنہاں دی تہاکوں اوپن ویب کیتے بݨاوݨ دی ضرورت ہے۔
 firefox-developer-speak-up = ٻولو
@@ -57,17 +58,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = نویں { -brand-name-firefox-devtools } طاقتور، لچکدار، تے سبھ توں بہتر، ہیک ایبل ہن۔ ایندے وِچ ہک بہترین JavaScript ڈیبگر شامل ہے، جیڑھا متعدد براؤزرز کوں نشانہ بݨا سڳدا ہے تے اینکوں React تے Redux وِچ بݨایا ڳیا ہے۔
 firefox-developer-master-css-grid = ماسٹر CSS گرڈ
-# outdated
-firefox-developer-next-gen-css-engine = اڳلی پیڑھی CSS انجݨ
 firefox-developer-built-for-developers = ڈویلپرز کیتے بݨایا ڳیا
-firefox-developer-a-next-generation = ہک اڳلی پیڑھی CSS انجݨ
 firefox-developer-master-innovative-features = اختراعی خصوصیات
 firefox-developer-want-to-be-on-the-cutting-edge = نویں نکور تے رہݨ چاہندے او؟
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } روزانہ اپ ڈیٹاں حاصل کریندا ہے تے تہاکوں خصوصیات تائیں رسائی دی اجازت ݙیندا ہے جو او مرکزی دھارے وِچ ونڄݨ کنوں مہینے پہلے۔
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } وِچ ہک نواں CSS انجݨ شامل ہے، جیڑھا Rust وِچ لکھیا ڳیا ہے، جیندے وِچ نویاں نکور اختراعات ہن تے ایہ ٻہوں تکھا ہے۔
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } کلھا براؤزر ہے جیندے وِچ خاص طور تے CSS گرڈ دے نال تعمیر تے ڈیزائننگ کیتے بݨائے ڳئے ٹولز ہن۔ ایہ ٹولز تہاکوں گرڈ کوں ݙیکھݨ، متعلقہ علاقے دے نانواں کوں ظاہر کرݨ، گرڈ تے تبدیلیاں دا پیش نظارہ کرݨ تے ٻہوں کجھ کرݨ دی اجازت ݙیندے ہن۔
 firefox-developer-convenient-features = سوکھیاں خصوصیات
-firefox-developer-faster-performance = تکھیری کارکردگی
 firefox-developer-shapes-editor = شکلاں دا مُدیر
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } وِچ ہک بالکل نویں شکل دا پاتھ ایڈیٹر ہے جیڑھا تہاݙی شکل دے ٻاہر تے کلپ پاتھ دیاں شکلاں کوں ٹھیک کرݨ کنوں اندازہ لیندا ہے تے تہاکوں بصری ایڈیٹر دے نال اپݨی ایڈجسٹمنٹ کوں ٻہوں آسانی نال ٹھیک کرݨ دی اجازت ݙیندا ہے۔
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } دے کول ہک بالکل نویں شکل دا پاتھ ایڈیٹر ہے جیڑھا تہاݙے پچھانویں دے ٻاہر تے کلپ پاتھ دیاں شکلاں کوں ٹھیک کرݨ کنوں اندازہ لیندا ہے تے تہاکوں بصری ایڈیٹر دے نال اپݨی ایڈجسٹمنٹ کوں ٻہوں آسانی نال ٹھیک کرݨ دی اجازت ݙیندا ہے۔
@@ -76,14 +72,14 @@ firefox-developer-fonts-panel = فونٹس پینل
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } وِچ فوٹنس دا نواں پینل ڈویلپرز کوں انہاں تمام معلومات تائیں فوری رسائی فراہم کریندا ہے جنہاں دی انہاں کوں کہیں عنصر وِچ استعمال تھیوݨ والے فونٹس دے بارے ضرورت ہوندی ہے۔ ایندے وِچ قیمتی معلومات وی شامل ہن جیویں فونٹ دا ماخذ، وزن، انداز وغیرہ۔
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } آپݨے آپ فیڈ بیک { -brand-name-mozilla } کوں بھیڄیندا ہے۔
 firefox-developer-download-the-firefox-browser = ڈویلپرز کیتے بݨایا ڳیا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو۔
-firefox-developer-welcome-to-the-all-new = بالکل نویں { -brand-name-firefox-quantum } وِچ جی آیاں کوں: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } کوں پہلے کنوں زیادہ تکھا، لیسواں تے زیادہ تکڑا بݨاوݨ کیتے زمین کنوں دوبارہ بݨایا ڳیا ہے۔
-firefox-developer-congrats-you-now-have-firefox = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-quantum }: { -brand-name-developer-edition } ہے۔
-firefox-developer-this-isnt-just-an-update = ایہ صرف ہک اپ ڈیٹ کائنی۔ ایہ { -brand-name-firefox-quantum } ہے: ہک بالکل نواں { -brand-name-firefox } جیویں پہلے کنوں زیادہ تکھا، لیسواں، تے زیادہ تکڑا بݨاوݨ کیتے زمین کنوں دوبارہ بݨایا ڳیا ہے۔
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
-firefox-developer-all-the-latest = بیٹا وِچ تمام جدید ترین ڈویلپر ٹولز، نال <strong>تجرباتی خصوصیات</strong> جیویں ملٹی لائن کنسول ایڈیٹر تے ویب ساکٹ معائنہ کار۔
 firefox-developer-a-separate-profile = ہک <strong>علیحدہ پروفائل تے رستہ</strong> تاں جو تساں اینکوں ریلیز یا { -brand-name-beta } { -brand-name-firefox } دے نال آسانی نال چلا سڳو۔
 firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویلپرز کیتے تیار کردہ</strong>: براؤزر تے ریموٹ ڈیبگنگ بطور ڈیفالٹ فعال ہن، جیویں جو ڈارک تھیم تے ڈویلپر ٹول بار بٹن ہن۔
-firefox-developer-congrats-you-now-have = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } ہے۔
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } دا نواں نکور ورژن ہے۔
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-references = { -brand-name-mdn } حوالے
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

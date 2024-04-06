@@ -3,16 +3,14 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = ڈیسک ٹاپ، موبائل، یا انٹرپرائز کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = او براؤزرز حاصل کرو جیڑھے تہاݙی رازداری کوں سبھ توں پہلے رکھیندے ہن — تے ہمیشہ رکھیندے ہن۔
 # HTML page description
 firefox-browsers-page-desc = ڈیسک ٹاپ، { -brand-name-ios }، { -brand-name-android } وِچوں انتخاب کرو، یا اساکوں تہاکوں موبائل ڈاؤن لوڈ دا لنک ای میل کرݨ ݙیوو۔
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = او رازداری حاصل کرو جیندے تساں مستحق او۔ بہتر ٹریکنگ پروٹیکشن ہر { -brand-name-firefox } براؤزر وِچ خودکار ہے۔
+firefox-browsers-main-heading = { -brand-name-firefox } براؤزرز
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = او <strong>براؤزرز</strong> حاصل کرو جیڑھے تہاݙی رازداری کوں پہلے رکھیندے ہن — تے ہمیشاں رکھیندے ہن۔
 firefox-browsers-desktop = ڈیسک ٹاپ
@@ -30,16 +28,10 @@ firefox-browsers-go-beyond-two-dimensions-and = ݙو جہتاں کنوں اڳو 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = سائٹاں بݨاؤ تے اپݨے کوڈ کوں{ -brand-name-firefox }<strong>{ -brand-name-devtools }</strong> دے نال بہتر کرو۔
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } بارے ٻیا سکھو
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } وِچ شامل تھیوو تے ہر ڈیوائس تے — ہر بݨتر توں زیادہ توں زیادہ فائدہ چاوو۔
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = پہلے کنوں ای کھاتہ ہے؟ { -brand-name-firefox } وِچ شامل تھیوݨ دے بارے وِچ <a { $fxa_attr }> سائن ان تھیوو </a> یا <a { $accounts_attr }> ٻیا سیکھو </a>
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = پہلے کنوں ای اکاؤٹ ہے؟ فائر فاکس وِچ شامل تھیوݨ دے بارے وِچ <a { $fxa_attr }> سائن ان تھیوو </a> یا <a { $accounts_attr }> ٻیا سیکھو </a>
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
