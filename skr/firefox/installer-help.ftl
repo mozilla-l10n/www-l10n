@@ -16,14 +16,15 @@ installer-help-action-choose = ہیٹھاں ہک ڈاؤن لوڈ چݨو۔
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = تازہ ترین حاصل کرو۔ خودکار رازداری اتھاں ہے۔ { $trackers } کنوں زیادہ ٹریکرز کوں بلاک کرݨ کیتے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو۔
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = سبھ توں زیادہ مستحکم پری ریلیز بِلڈ وِچ ریلیز تھیوݨ والیاں خصوصیات دی جانچ کرو۔
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = صرف ڈویلپرز کیتے بݨائے ڳئے کلھے براؤزر دے نال تعمیر، جانچ، پیمانے تے ودھیک ٻہوں کجھ کرو۔
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = اساݙے اڳلی نسل دے ویب براؤزر تے جھاتی پاوو، تے اونکوں بہترین براؤزر بݨاوݨ وِچ اساݙی مدد کرو۔
 installer-help-need-help = بھلا انسٹال کرݨ کیتے مدد دی لوڑ ہے؟
 # Variables:

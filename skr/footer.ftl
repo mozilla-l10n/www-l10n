@@ -11,31 +11,7 @@ footer-corporate-blog = کارپوریٹ بلاگ
 footer-browser-comparison = براؤزر ویورا
 footer-brand-standards = برانڈ دے معیار
 footer-browsers = براؤزر
-# Outdated string
-footer-desktop = ڈیسک ٹاپ
-# Outdated string
-footer-mobile = موبائل
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = مصنوعات
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = شامل تھیوو
-# Outdated string
-footer-sign-up = سائن اپ
-# Outdated string
-footer-sign-in = سائن ان
-# Outdated string
-footer-benefits = فائدے
 footer-developers = ڈویلپرز
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +22,8 @@ footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corp
 footer-portions-of-this-content = ایں مواد دے حصے ©1998–{ $current_year } انفرادی mozilla.org دے تعاون کنندگان دے ذریعہ ہن۔ <a rel="license" href="{ $url }">{ -brand-name-creative-commons } لائسنس</a> دے تحت دستیاب مواد۔
 footer-mozilla = { -brand-name-mozilla }
 footer-company = کمپنی
-# Outdated string
-footer-about = تعارف
 footer-press-center = پریس سنٹر
 footer-careers = روزگار تے کم
-# Outdated string
-footer-test-new-features = نویاں خصوصیات جان٘چو
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = اوزار
 footer-resources = وسائل
 footer-contact = رابطہ
@@ -68,7 +38,10 @@ footer-websites-legal = قنونی
 footer-language = زبان
 footer-go = ون٘ڄو
 footer-donate = عطیہ ݙیوو
+# Obsolete string
 footer-twitter = { -brand-name-twitter }
+footer-x = X
+footer-x-formerly-twitter = X (سابقہ ٹویٹر)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

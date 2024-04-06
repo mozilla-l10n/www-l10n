@@ -3,8 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
+### URL: https://www-dev.allizom.org/firefox/features/fast/
 
-# Short title used in the subnav
-pdf-editor-pdf-editor = پی ڈی ایف ایڈیٹر
-pdf-editor-add-text = عبارت شامل کرو
+features-fast-faster-every-day = ہر روز تکھیرا
+features-fast-towards-a-faster-web = تکھیری ویب ݙوں

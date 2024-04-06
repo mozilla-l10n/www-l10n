@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
+mozsocial-invite-welcome-to-mozillasocial = { -brand-name-mozilla-social } وچ ست بسم اللہ!
 mozsocial-invite-required-label = ضروری ہے
 mozsocial-invite-first-name-label = پہلا ناں
 mozsocial-invite-last-name-label = چھیکڑی ناں

@@ -27,10 +27,6 @@ firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ہݨ سیکیورٹی اپ ڈیٹس فراہم نہیں کریندا</a> { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista }، لیکن تساں وت وی { -brand-name-firefox } استعمال کر سڳدے او۔
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = تساں ہک غیر محفوظ، پراݨا آپریٹنگ سسٹم استعمال کریندے پئے او <a href="{ $url }"> ہݨ { -brand-name-firefox } دے ذریعے تعاون یافتہ کائنی </a>۔
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,7 @@ firefox-new-your-firefox-new-should-begin = تہاݙا ڈاؤن لوڈ آپوں 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر کنوں ودھ ہے۔
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
+firefox-new-download-almost-there = تقریباً اُتھ!
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
@@ -45,8 +42,6 @@ firefox-new-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔

@@ -9,11 +9,14 @@
 ## Required
 
 whatsnew-account-main-headline = کہیں کھاتے دی لوڑ کائنی۔ بھل تساں ہک چاہندے ہوسو۔
-whatsnew-account-main-lead-in = { -brand-name-firefox } براؤزر تہاݙے بارے اتنا گھٹ ڈیٹا کٹھا کریندا ہے، اساکوں تہاݙے ای میل ایڈریس دی وی ضرورت کائنی۔ لیکن جݙاں تساں اینکوں { -brand-name-firefox } کھاتہ بݨاوݨ کیتے استعمال کریندے او، تاں اساں تہاݙی زیادہ توں زیادہ آن لائن زندگی وِچ تہاݙی رازداری دی حفاظت کر سڳدے او۔
-whatsnew-account-main-button = سائن ان
+whatsnew-account-mozilla-cta = { -brand-name-mozilla-account } گھنو
 
 ##
 
+# Obsolete string
+whatsnew-account-main-lead-in = { -brand-name-firefox } براؤزر تہاݙے بارے اتنا گھٹ ڈیٹا کٹھا کریندا ہے، اساکوں تہاݙے ای میل ایڈریس دی وی ضرورت کائنی۔ لیکن جݙاں تساں اینکوں { -brand-name-firefox } کھاتہ بݨاوݨ کیتے استعمال کریندے او، تاں اساں تہاݙی زیادہ توں زیادہ آن لائن زندگی وِچ تہاݙی رازداری دی حفاظت کر سڳدے او۔
+# Obsolete string
+whatsnew-account-main-button = سائن ان
 whatsnew-account-signed-in-headline = ٻہوں کجھ کم کر گھنو۔ موبائل کیتے { -brand-name-firefox } ورتو۔
 whatsnew-account-signed-in-lead-in = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 whatsnew-account-signed-in-qr-title = آپݨے سمارٹ فون یا ٹیبلٹ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
