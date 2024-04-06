@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = 返回
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">了解</a> { -brand-name-firefox } 背後的非營利組織－{ -brand-name-mozilla }。
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>探索</a> 設計來尊重您的隱私的整套 { -brand-name-firefox } 系列產品。
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>下載</a> 行動裝置或桌面板 { -brand-name-firefox } 瀏覽器
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>捐款</a>給 { -brand-name-mozilla-foundation } 從大型科技公司手中奪回網際網路。
