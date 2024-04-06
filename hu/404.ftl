@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = Ugrás vissza
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }ról, a { -brand-name-firefox } mögötti nonprofit szervezetről.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Fedezze fel</a> az egész { -brand-name-firefox } termékcsaládot, amely úgy készült, hogy tiszteletben tartja az Ön adatvédelmét.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Töltse le</a> a { -brand-name-firefox } böngészőt a mobil eszközére vagy asztali számítógépére
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Adományozzon</a> a { -brand-name-mozilla-foundation }nak, és kérje vissza az internetet a nagy technológiai cégektől.
