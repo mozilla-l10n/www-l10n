@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = Zpátky
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zjistěte více</a> o { -brand-name-mozilla(case: "loc") }, neziskové organizaci, která je autorem { -brand-name-firefox(case: "gen") }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Podívejte se</a> na celou rodinu produktů { -brand-name-firefox } navržených s ohledem na vaše soukromí.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte si</a> { -brand-name-firefox(case: "acc") } do svého mobilního zařízení nebo počítače
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Přispějte</a> pro { -brand-name-mozilla-foundation(case: "acc") } a získejte zpět internet od velkých technologií.
