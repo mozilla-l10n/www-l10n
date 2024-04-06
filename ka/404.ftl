@@ -13,8 +13,8 @@ not-found-page-go-back = უკან დაბრუნება
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">გაიცანით</a> უკეთ { -brand-name-mozilla }, არამომგებიანი დაწესებულება, რომლის ქმნილებაცაა { -brand-name-firefox }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>გამოცადეთ</a> სრული ნაკრები { -brand-name-firefox }-პროდუქტების, განკუთვნილი თქვენი პირადულობის დასაცავად.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ჩამოტვირთეთ</a> { -brand-name-firefox }-ბრაუზერი მობილურ მოწყობილობაზე ან კომპიუტერზე
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>შევემატოთ</a> { -brand-name-mozilla-foundation }-ს და დაიბრუნეთ ინტერნეტი დიდი ტექნოლოგიებისგან.
