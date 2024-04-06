@@ -13,8 +13,8 @@ not-found-page-go-back = Mynd Nôl
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Dysgu</a> am { -brand-name-mozilla }, y corff nid-er-elw y tu ôl i { -brand-name-firefox }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Archwilio'r</a> casgliad cyfan o gynnyrch { -brand-name-firefox } sydd wedi'u cynllunio i barchu'ch preifatrwydd.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i lawr</a> y porwr { -brand-name-firefox } ar gyfer eich dyfais symudol neu'ch bwrdd gwaith
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Rhoddwch</a> i { -brand-name-mozilla-foundation } ac adennill y rhyngrwyd o dechnoleg fawr.
