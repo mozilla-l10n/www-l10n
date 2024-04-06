@@ -35,7 +35,11 @@ vpn-features-block-ads = Reklamverenlerin sizi hedeflemesini engelleyin
 vpn-features-encrypt-your-internet = Tüm internet trafiğinizi şifreleyin
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } yalnızca tarayıcınızı değil, cihazınızdaki tüm uygulamaları korur.
 vpn-features-stronger-malware = Daha güçlü kötü amaçlı yazılım koruması
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn }, güvensiz olduğu bilinen kaynaklardan gelen kötü amaçlı yazılımları indirmenizi engeller.
 vpn-features-support-for-custom-dns = Özel DNS desteği
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn } ile trafiğinizi güvende tutarken DNS sorgularınızı istediğiniz yere yönlendirebilirsiniz. <a { $dns }>Özel DNS desteği hakkında daha fazla bilgi alın</a>.
 vpn-features-flexible = Esnek
 vpn-features-personalized-server = Kişiselleştirilmiş sunucu konumu önerileri
 vpn-features-well-suggest-which-servers = Yakınınızdaki hangi sunucuların en hızlı, en güvenilir internet bağlantısını sağlayacağını önereceğiz.
