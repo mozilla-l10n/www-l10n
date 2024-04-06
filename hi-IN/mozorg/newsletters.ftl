@@ -60,11 +60,6 @@ newsletters-please-select-country = कृपया देश या क्ष�
 # Form field error message
 newsletters-please-select-language = कृपया भाषा चुनें
 
-# Form field label
-newsletters-format = फ़ॉर्मेट:
-
-newsletters-text-subscribers-will-receive = सदस्यता की निरंतरता की पुष्टि करने के लिए टेक्स्ट सब्सक्राइबर्स को साल में दो बार ईमेल मिलेगा। उन ईमेलों में HTML शामिल हो सकता है।
-
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 

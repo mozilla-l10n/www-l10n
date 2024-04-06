@@ -60,11 +60,6 @@ newsletters-please-select-country = Veuillez sélectionner un pays ou une régio
 # Form field error message
 newsletters-please-select-language = Veuillez sélectionner une langue
 
-# Form field label
-newsletters-format = Format :
-
-newsletters-text-subscribers-will-receive = Les personnes abonnées à nos SMS recevront deux courriers électroniques par an pour confirmer le maintien de l’abonnement. Ces courriers électroniques pourront inclure du langage HTML.
-
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 

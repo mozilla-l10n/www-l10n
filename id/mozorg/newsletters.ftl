@@ -60,11 +60,6 @@ newsletters-please-select-country = Pilih negara atau wilayah
 # Form field error message
 newsletters-please-select-language = Pilih bahasa
 
-# Form field label
-newsletters-format = Format:
-
-newsletters-text-subscribers-will-receive = Pelanggan teks akan menerima email dua kali setahun untuk mengonfirmasi kelanjutan langganan. Email tersebut mungkin termasuk HTML.
-
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 

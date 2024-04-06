@@ -60,11 +60,6 @@ newsletters-please-select-country = يُرجى اختيار بلد أو منطق
 # Form field error message
 newsletters-please-select-language = يُرجى اختيار لغة
 
-# Form field label
-newsletters-format = التنسيق:
-
-newsletters-text-subscribers-will-receive = سيتلقى المشتركون في الرسائل النصية رسالة بريد إلكتروني مرتين في السنة لتأكيد استمرار الاشتراك. ربما تتضمن رسائل البريد الإلكتروني هذه HTML.
-
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 

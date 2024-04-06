@@ -60,11 +60,6 @@ newsletters-please-select-country = 国または地域を選択してくださ�
 # Form field error message
 newsletters-please-select-language = 言語を選択してください
 
-# Form field label
-newsletters-format = フォーマット:
-
-newsletters-text-subscribers-will-receive = テキストの定期購読者の方には、定期後続継続の確認メールが 1 年に 2 回送付されます。これらのメールには HTML が含まれる場合があります。
-
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
