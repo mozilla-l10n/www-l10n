@@ -17,4 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">了解</a> { -
 not-found-page-download-the-firefox-browser = <a href={ $download }>下载</a> 移动或桌面版本 { -brand-name-firefox } 浏览器
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
-not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>捐款</a>到 { -brand-name-mozilla-foundation }从大科技手中夺回互联网。
+not-found-page-donate-to-mozilla-reclaim-from = 向 { -brand-name-mozilla-foundation }<a { $donate }>捐款</a>，从科技巨头手中夺回对互联网的话语权。
