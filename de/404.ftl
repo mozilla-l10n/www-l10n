@@ -14,9 +14,6 @@ not-found-page-go-back = Zurück
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahren Sie mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.
 
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Entdecken Sie</a> die gesamte Familie von { -brand-name-firefox }-Produkten, die Ihre Privatsphäre respektieren.
-
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Laden Sie</a> den { -brand-name-firefox }-Browser für Ihr Mobilgerät oder Ihren Desktop-PC herunter
+

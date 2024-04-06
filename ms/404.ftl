@@ -14,9 +14,6 @@ not-found-page-go-back = Kembali
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ketahui</a> tentang { -brand-name-mozilla } syarikat yang bukan berasaskan keuntungan di belakang { -brand-name-firefox }.
 
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Ketahui</a> tentang keseluruhan rangkaian produk keluaran { -brand-name-firefox } yang direka untuk menghormati privasi anda.
-
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Muat turun</a> { -brand-name-firefox } untuk peranti mudah alih atau desktop anda
+

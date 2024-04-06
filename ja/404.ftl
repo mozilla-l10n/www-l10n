@@ -14,9 +14,6 @@ not-found-page-go-back = 戻る
 not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } を開発した非営利法人、{ -brand-name-mozilla } の<a href="{ $about }">詳細はこちらです</a>。
 
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = プライバシーを守る { -brand-name-firefox } 製品ファミリーを<a href={ $explore }>ご覧ください</a>。
-
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = モバイルデバイスまたはデスクトップ用 { -brand-name-firefox } ブラウザーを<a href={ $download }>ダウンロード</a>
+
