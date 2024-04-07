@@ -74,14 +74,14 @@ firefox-developer-the-new-fonts-panel = Nowy panel czcionek { -brand-name-firefo
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatycznie przesyła statystyki użytkownika do { -brand-name-mozilla(case: "gen") }.
 firefox-developer-download-the-firefox-browser = Pobierz przeglądarkę { -brand-name-firefox } tworzoną z myślą o twórcach sieci
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } został zrekonstruowany od podstaw, dzięki czemu jest szybszy, elegantszy i potężniejszy niż kiedykolwiek.
-firefox-developer-welcome-to-firefox-developer-edition = Witaj w { -brand-name-firefox-developer-edition(case: "loc", capitalization: "lower") }
+firefox-developer-welcome-to-firefox-developer-edition = Witaj w { -brand-name-firefox-developer-edition(case: "loc") }
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Witaj w { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Przeglądarka tworzona z myślą o twórcach sieci
 firefox-developer-all-the-latest-v2 = Wszystkie najnowsze narzędzia dla programistów z bety plus takie funkcje, jak wielowierszowy edytor konsoli i inspektor WebSocket.
 firefox-developer-a-separate-profile = <strong>Oddzielny profil i ścieżka</strong> sprawiają, że można ją łatwo uruchamiać obok stabilnego wydania lub { -brand-name-firefox(case: "gen") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencje <strong>dopasowane pod programistów</strong>: debugowanie przeglądarki i debugowanie zdalne są domyślnie włączone, podobnie jak ciemny motyw i przycisk paska narzędzi dla programistów.
-firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej wersji { -brand-name-firefox-developer-edition(case: "gen", capitalization: "lower") }.
+firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej wersji { -brand-name-firefox-developer-edition(case: "gen") }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulacje. Używasz teraz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Variables:
