@@ -84,3 +84,9 @@ firefox-developer-preferences-tailored = Preferencje <strong>dopasowane pod prog
 firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej wersji { -brand-name-firefox-developer-edition(case: "gen", capitalization: "lower") }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulacje. Używasz teraz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Otwórz <a { $attrs }>informacje o wydaniu</a> (tylko w języku angielskim), aby zobaczyć, co nowego.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Zasoby dla deweloperów, od deweloperów
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
