@@ -43,7 +43,7 @@ firefox-desktop-download-blocks-social-trackers = Bloqueia rastreadores de redes
 firefox-desktop-download-os-availability = Disponibilidade para o sistema operativo
 firefox-desktop-download-in-browser-screenshot = Ferramenta de captura de ecrã no navegador
 firefox-desktop-download-primary-password = Palavra-passe principal
-firefox-desktop-download-we-block-the-ad = Bloqueamos os rastreadores de anúncios. Assim, você explora a Internet mais rapidamente.
+firefox-desktop-download-we-block-the-ad = Nós bloqueamos os rastreadores de anúncios. Você explora a Internet mais rapidamente.
 firefox-desktop-download-ads-are-distracting = Os anúncios distraem e tornam as páginas de Internet mais lentas enquanto os respetivos rastreadores monitorizam todos os movimentos que você faz na Internet. O { -brand-name-firefox-browser } bloqueia automaticamente a maioria dos rastreadores. Portanto, não é necessário andar a esmiuçar as suas configurações de segurança.
 firefox-desktop-download-see-your-report = Consulte o seu relatório de proteção
 firefox-desktop-download-for-everyone = O { -brand-name-firefox } é para todos
@@ -146,13 +146,9 @@ firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } <a { 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Questões? O <a { $attrs }>o apoio da { -brand-name-mozilla }</a> está aqui para ajudar.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Já tem o navegador. Agora, obtenha ainda mais do { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Tenha atenção aos piratas informáticos com o { -brand-name-mozilla-monitor }, proteja o seu endereço de e-mail com o { -brand-name-firefox-relay } e muito mais.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Tenha atenção aos piratas informáticos com o { -brand-name-firefox-monitor }, proteja o seu endereço de e-mail com o { -brand-name-firefox-relay } e muito mais.
-firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Basta transferir o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
