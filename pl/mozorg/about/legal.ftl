@@ -38,3 +38,5 @@ legal-report-copyright = Zgłoś naruszenie znaków towarowych lub praw autorski
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } — Warunki świadczenia
 legal-mozilla-subscription-services = Usługi subskrypcyjne { -brand-name-mozilla(case: "gen") }
+legal-content-moderation = Sposoby postępowania ws. moderowania treści
+legal-amo-policies = Zasady serwisu AMO
