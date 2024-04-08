@@ -10,6 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Tebrikler. En yeni { -brand-name-firefox-developer-edition } sürümünü kullanıyorsunuz.
 # Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Tebrikler. En yeni { -brand-name-firefox-browser } { -brand-name-developer-edition } sürümünü kullanıyorsunuz.
+developer-mdnplus-support-mdn-and-make = { -brand-name-mdn }’i destekleyin <em>ve</em> istediğiniz gibi kişiselleştirin.
 # CTA button
 developer-mdnplus-get-started = Başlayın
 developer-mdnplus-whats-included = Neler dahil?
