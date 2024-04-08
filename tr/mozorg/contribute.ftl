@@ -46,13 +46,13 @@ contribute-opportunities = Haberler ve gönüllülük olanakları
 
 contribute-made-by-heading = İnternete tutkuyla bağlıyız. Tıpkı sizin gibi.
 contribute-made-by-desc = { -brand-name-mozilla }’ya katkıda bulunduğunuzda, internetin iyilik için kullanılması gereken bir güç olduğuna inanan, dünyanın her yanına yayılan bir camiaya katılmış oluyorsunuz.
-contribute-made-by-desc-cont = Biz, kapsayıcı, yenilikçi ve insanlara karşı sorumlu bir internet yaratmak için camia içindeki işbirliğinin hayati olduğuna inanıyoruz. İster teknoloji veya etkinlik organizasyonu konusunda deneyimli olun isterseniz de sadece bir bilgisayar ve biraz boş zamanınız olsun, interneti daha iyi bir yere dönüştürmemize yardım edebilirsiniz.
+contribute-made-by-desc-cont = Biz, kapsayıcı, yenilikçi ve insanlara karşı sorumlu bir internet yaratmak için camia içindeki işbirliğinin hayati olduğuna inanıyoruz. İster teknoloji veya etkinlik organizasyonu konusunda deneyimli olun isterseniz de sadece bir bilgisayarınız ve biraz boş zamanınız olsun, interneti daha iyi bir yere dönüştürmemize yardım edebilirsiniz.
 
 ## Newsletter
 
 contribute-newsletter-heading = Karar veremediniz mi?
-contribute-newsletter-sub-heading = Topluluk ve gönüllük haberleri e-posta adresinize gelsin
-contribute-newsletter-desc = Bültenimize abone olun, dünyanın her yanındaki Mozillan’lara katılın ve { -brand-name-mozilla } misyonunu desteklemenizi sağlayacak olanaklar hakkında bilgi edinin.
+contribute-newsletter-sub-heading = Topluluk ve gönüllülük haberleri e-posta adresinize gelsin
+contribute-newsletter-desc = Bültenimize abone olun, dünyanın her yanındaki Mozilla gönüllülerine katılın ve { -brand-name-mozilla } misyonunu desteklemenizi sağlayacak olanakları öğrenin.
 
 ## Support
 
