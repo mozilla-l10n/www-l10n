@@ -15,9 +15,6 @@ newsletter-form-yournameexamplecom = namaanda@contoh.com
 newsletter-form-select-country-or-region = Pilih negara atau wilayah
 newsletter-form-select-language = Pilih bahasa
 newsletter-form-your-email-here = EMAIL ANDA DI SINI
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Teks
 newsletter-form-get-firefox-news = Dapatkan berita tentang { -brand-name-firefox }
 
 # Variables:

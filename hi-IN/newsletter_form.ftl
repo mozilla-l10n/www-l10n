@@ -15,9 +15,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = देश या क्षेत्र चुनें
 newsletter-form-select-language = भाषा चुनें
 newsletter-form-your-email-here = आपका ईमेल यहाँ
-newsletter-form-format = प्रारूप
-newsletter-form-html = HTML
-newsletter-form-text = टेक्स्ट
 newsletter-form-get-firefox-news = { -brand-name-firefox } खबर पाएँ
 
 # Variables:

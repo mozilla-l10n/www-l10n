@@ -15,9 +15,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = حدد البلد أو المنطقة
 newsletter-form-select-language = اختر لغة
 newsletter-form-your-email-here = بريدك الإلكتروني هنا
-newsletter-form-format = تنسيق
-newsletter-form-html = HTML
-newsletter-form-text = نص
 newsletter-form-get-firefox-news = الاطلاع على أخبار { -brand-name-firefox }
 
 # Variables:

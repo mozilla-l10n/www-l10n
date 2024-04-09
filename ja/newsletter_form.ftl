@@ -15,9 +15,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 国または地域を選択してください
 newsletter-form-select-language = 言語の選択
 newsletter-form-your-email-here = メールアドレスを入力してください
-newsletter-form-format = フォーマット
-newsletter-form-html = HTML
-newsletter-form-text = テキスト
 newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースを受け取る
 
 # Variables:
