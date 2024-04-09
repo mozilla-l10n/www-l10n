@@ -16,14 +16,15 @@ installer-help-action-choose = Eiporavo mboguejy yvy gotyoguágui.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Ereko ipyahuvéva. Ñemigua ijeheguíva oĩ ápe. Emboguejy { -brand-name-firefox-browser } ejoko hag̃ua heta { $trackers } tapykuehoha.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Eiporu tembiapoite noĩriva gueteri ojeporu hag̃uáicha noñemohu’ãi rupi.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Emoheñói, eiporu ha hetave ko kundahára oñemoheñóiva ñangakohakuérape g̃uarã.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Ema’ẽmi ore ñanduti kundahára tenonderãgua rehe ha orepytyvõ iporãve hag̃ua opavavetégui.
 installer-help-need-help = ¿Eikotevẽ pytyvõ emohenda hag̃ua?
 # Variables:

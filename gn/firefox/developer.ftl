@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ha’e kundaha ipya’e añetéva ome’ẽva tembiporu itenondéva mboguatahárape g̃uarã ha tembiapoite ipyahúva CSS renda jokoháramo ha tembiapo kora mopotĩha
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Eg̃uahẽporãite ne kundaha erohoryvévape. Eguereko tembiapokue ipyahuvéva, oikoite ha mboguatahára rembiporu oikotevẽva heñói hag̃ua ñanduti ijurujáva.
 firefox-developer-speak-up = Emombe’umína
@@ -71,16 +73,18 @@ firefox-developer-fonts-panel = Teñoiha rupa
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } tai’aty rupa pyahu ome’ẽ mboguatahárape jeike pya’e opaite marandúpe oikotevẽva tai’aty ojeporúva mba’eporúpe. Avei ome’ẽ marandu oikoitéva tai’aty reñoihápe, pohyikue, mba’eichagua ha hetave.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } omondo ijehegui { -brand-name-mozilla } remikotevẽ.
 firefox-developer-download-the-firefox-browser = Emboguejy { -brand-name-firefox } rembiapo omoheñóiva umi mboguatahára
-firefox-developer-welcome-to-the-all-new = Tereg̃uahẽporãite ipyahúva { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Ojejapojey { -brand-name-firefox } iñepyrũha guive ipya’eve, hekoporã ha imbareteve hag̃ua opa ára.
-firefox-developer-congrats-you-now-have-firefox = Vy’apavẽ. Ko’ág̃a eguerekóma { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Kóva ndaha’éi ñembohekopyahu año. Kóva ha’e { -brand-name-firefox-quantum }:  { -brand-name-firefox } ipyahúva heñóiva yvyetégui ipya’eve, ivevúi ha imbareteve hag̃ua.
+firefox-developer-welcome-to-firefox-developer-edition = Eg̃uahẽporã { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Eg̃uahẽporãite { -brand-name-firefox-browser } { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Kundahára ojejapóva mboguatahárape g̃uarã
 firefox-developer-all-the-latest-v2 = Tembiporukuéra mboguatahárape g̃uarã ipyahúva beta rehegua, avei tembiapoite mba’e’oka mbosako’iha ha WebSocket mbohekoha.
-# Obsolete string
-firefox-developer-all-the-latest = Opaite tembiporu mboguatahárape g̃uarã ipyahúva beta rehegua, avei <strong>tembiapoite ipyahúva</strong> mba’e’oka mbosako’iha itairendaetáva ha WebSocket mbohekoha.
 firefox-developer-a-separate-profile = Pe <strong>mba’ete ha tape ojeipyre</strong> ikatu hag̃ua emomba’apo hasy’ỹre oñondive ha’etéva ndide térã { -brand-name-beta } { -brand-name-firefox } mba’éva ndive.
 firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ñanduti mboguatahárape g̃uarã</strong>: kundahára ha ñemopotĩ okaygua hendýma ijehegui, avei téma ypytũ ha votõ tembiporu renda mboguatahárape g̃uarã.
-firefox-developer-congrats-you-now-have = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Eguereko ipyahuvéva { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } osẽramovéva { -brand-name-developer-edition }.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
+firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
