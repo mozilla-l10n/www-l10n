@@ -84,7 +84,12 @@ firefox-developer-preferences-tailored = Foarkarren dy’t <strong>op maat makke
 firefox-developer-congrats-you-now-have-latest-v2 = Jo hawwe no de lêste ferzje fan { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Lokwinske. Jo beskikke no oer de nijste ferzje fan { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Besjoch de <a { $attrs }>útjefteopmerkingen</a> (allinnich yn it Ingelsk) om te sjen wat der nij is.
+firefox-developer-developer-tools-user = Untwikkelershelpmiddelen-brûkersdokuminten
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Helpboarnen foar ûntwikkelers, troch ûntwikkelers.
 firefox-developer-mdn-references = { -brand-name-mdn }-referinsjes
 firefox-developer-mdn-curriculum = { -brand-name-mdn }-kurrikulum
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
