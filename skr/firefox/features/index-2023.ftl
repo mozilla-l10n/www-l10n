@@ -9,10 +9,12 @@
 features-index-firefox-browser-features = { -brand-name-firefox } براؤزر خاصیتاں
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
+# Obsolete string
 features-index-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
 features-index-free-password-manager = مفت پاس ورڈ منیجر
 features-index-bookmark-manager = نشانی منیجر
 features-index-private-browsing-mode = نجی براؤزنگ موڈ
+features-index-pinned-browser-tabs = پن تھیاں براؤزر ٹیباں
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
 features-index-fingerprint-blocking = فنگر پرنٹ بلاک کرݨ
 features-index-ad-tracker-blocking = مشہوری ٹریکر روکݨ

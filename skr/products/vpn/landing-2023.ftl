@@ -7,3 +7,4 @@
 
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-features = خاص
+vpn-landing-what-is-an-ip-address = آئی پی پتہ کیا ہے؟

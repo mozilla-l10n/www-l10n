@@ -13,6 +13,7 @@ features-shared-is-firefox-a-private-browser = بھلا { -brand-name-firefox } 
 features-shared-free-password-manager = پاس ورڈ منیجر
 features-shared-bookmark-manager = نشانی منیجر
 features-shared-private-browsing-mode = نجی براؤزنگ موڈ
+features-shared-pinned-browser-tabs = پن تھیاں براؤزر ٹیباں
 features-shared-pdf-editor = پی ڈی ایف ایڈیٹر
 features-shared-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 features-shared-translate-the-web = ویب دا ترجمہ کرو

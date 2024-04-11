@@ -11,8 +11,6 @@ compare-shared-yes = جیا
 compare-shared-no = کو
 compare-shared-private-browsing-mode = نجی براؤزنگ موڈ
 compare-shared-blocks-third-party-tracking-default = ڈیفالٹ نال تریجھا فریق کوکیاں بلاک کریندے
-# Obsolete string
-compare-shared-blocks-third-party-tracking = تریجھا فریق ٹریکنک کوکیاں بلاک کریندے
 compare-shared-blocks-cryptomining-scripts = کریپٹومیننگ سکرپٹ بلاک کریندے
 compare-shared-blocks-fingerprinting-scripts = فنگر پرنٹنگ سکرپٹ بلاک کریندے
 compare-shared-blocks-social-trackers = سماجی ٹریکراں کوں بلاک کریندے
@@ -33,26 +31,21 @@ compare-shared-mobile-os-availability = موبائل او ایس دستیابی
 compare-shared-syncs-with-mobile = موبائل نال ہم وقت
 compare-shared-password-management = پاس ورڈ منیجمنٹ
 compare-shared-primary-password = بنیادی پاس ورڈ
-# Obsolete string
-compare-shared-master-password = ماسٹر پاس ورڈ
 compare-shared-security-and-privacy = سلامتی تے رازداری
 compare-shared-utility = افادیت
 compare-shared-portability = پورٹیبلٹی
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-security-and-privacy-strong = سلامتی تے <strong>رازداری</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-utility-strong = <strong>افادیت</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
 compare-shared-portability-strong = <strong>پورٹیبلٹی</strong>
 compare-shared-overall-assessment = مجموعی جان٘چ
 compare-shared-the-comparisons-made-here-updated = اتھاں کیتا ڳیا موازنہ طے شدہ ترتیباں دے نال تے براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے نال کیتا ڳیا ہا:
-# Obsolete string
-compare-shared-the-comparisons-made-here = اتھاں کیتا ڳیا موازنہ براؤزر دے ریلیز ورژن وِچ ہیٹھ درج دے مطابق کیتا ڳیا ہا:
 compare-shared-this-page-updated-semi-quarterly = ایہ ورقہ نویں نکور ورژن دی عکاسی کرݨ کیتے ادھ ترائے ماہی وِچ اپ ڈیٹ کیتا ویندا ہے تے تھی سڳدا ہے جو ہمیشاں نویاں نکور اپ ڈیٹاں دی عکاسی نہ کرے۔
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }
@@ -63,3 +56,5 @@ compare-shared-desktop = ڈیسک ٹاپ
 compare-shared-brand-name-android = { -brand-name-android }
 compare-shared-brand-name-ios = { -brand-name-ios }
 compare-shared-compare-browsers = براؤزراں دا ویورا کرو
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
+compare-shared-performance-strong = <strong>کارکردگی</strong>
