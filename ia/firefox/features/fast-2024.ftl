@@ -7,3 +7,4 @@
 
 features-fast-how-is-browser-speed-measured = Como es il mesurate le velocitate del navigator?
 features-fast-faster-every-day = Cata die plus veloce
+features-fast-towards-a-faster-web = Verso un Web plus veloce
