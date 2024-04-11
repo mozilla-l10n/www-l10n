@@ -27,7 +27,7 @@ home-product-monitor-data = Alertas de vazamentos de dados
 home-cta-get-monitor = Use o { -brand-name-monitor }
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está fazendo apostas para mostrar ao mundo que há negócios a ser feitos com inteligência artificial confiável. Isso inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como esses sistemas complexos funcionam.”
 # Politico is a brand name for a news organization
-home-politico-cite = Politico
+home-politico-cite = politico.<!-- -->com
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma corporação ou uma entidade sem fins lucrativos? Na verdade, ambos.
 home-mozilla-consists-of = A { -brand-name-mozilla } consiste em duas organizações. A { -brand-name-mozilla-corporation } é de propriedade integral da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. Significa que não estamos comprometidos com nenhum acionista, apenas com nossa missão.
 home-learn-about-mofo = Conheça a { -brand-name-mozilla-foundation }
