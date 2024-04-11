@@ -81,10 +81,18 @@ firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest-v2 = Tote le ultime utensiles de disveloppator in beta in addition a functionalitates como le Redactor de consola multilinea e le Inspector de WebSocket.
 firefox-developer-a-separate-profile = Un <strong> profilo e route separate</strong> assi que pote currer preter le version official o le { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro le disveloppatores web</strong>: le depuratores remote e del navigator es activate per configuration predefinite, assi como le thema obscur e le button de disveloppator sur le barra de instrumentos.
+firefox-developer-congrats-you-now-have-latest-v2 = Tu ora ha le ultime version de { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Vider le <a { $attrs }>notas de version</a> (anglese solo) pro vider qual es le novas.
+firefox-developer-developer-tools-user = Documentation pro usator de utensiles de disveloppator
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
 firefox-developer-mdn-references = Referentias { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } es un projecto in collaboration open-source que documenta technologias de platteforma web, includite CSS, HTML, JavaScript e APIs web.
 firefox-developer-mdn-curriculum = Curriculum de { -brand-name-mdn }
+firefox-developer-a-structured-guide = Un guida structurate al competentias e practicas essential pro esser un succedite disveloppator de interfacie anterior, insimul con ressources recommendate de erudition.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Supporta { -brand-name-mdn } e personalisa lo con collectiones, notificationes, e areas de joco.
