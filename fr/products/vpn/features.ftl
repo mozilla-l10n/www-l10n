@@ -33,7 +33,7 @@ vpn-features-connect-up-to =
 vpn-features-supported-platforms = Compatible avec les systèmes d’exploitation Windows, macOS, Android, iOS et Linux.
 vpn-features-no-bandwidth = Aucune restriction ou limitation de bande passante
 vpn-features-including-no-data = Pas de limite de données ou de vitesse.
-vpn-features-fast-network = Des vitesses de réseau élevées même même pour le gaming
+vpn-features-fast-network = Des vitesses de réseau élevées même pour le gaming
 
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
