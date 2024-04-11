@@ -10,6 +10,7 @@ firefox-browsers-page-title = Unduh { -brand-name-firefox } untuk Desktop, Selul
 # HTML page description
 firefox-browsers-page-desc = Pilih dari Desktop, { -brand-name-ios }, { -brand-name-android }, atau izinkan kami mengirimkan tautan unduhan seluler melalui email.
 
+firefox-browsers-main-heading = Peramban { -brand-name-firefox }
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

@@ -10,6 +10,7 @@ firefox-browsers-page-title = डेस्कटॉप, मोबाइल, य�
 # HTML page description
 firefox-browsers-page-desc = डेस्कटॉप, { -brand-name-ios }, { -brand-name-android } में से कोई चुनें, या आप चाहें तो हम आपको एक मोबाइल डाउनलोड लिंक ईमेल कर सकते हैं।
 
+firefox-browsers-main-heading = { -brand-name-firefox } ब्राउज़र
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

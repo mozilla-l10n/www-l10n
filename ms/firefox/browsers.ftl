@@ -10,6 +10,7 @@ firefox-browsers-page-title = Muat turun { -brand-name-firefox } untuk Desktop, 
 # HTML page description
 firefox-browsers-page-desc = Pilih daripada Desktop, { -brand-name-ios }, { -brand-name-android }, atau izinkan kami e-melkan anda pautan muat turun mudah alih.
 
+firefox-browsers-main-heading = Pelayar { -brand-name-firefox }
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

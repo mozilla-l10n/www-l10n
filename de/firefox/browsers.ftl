@@ -10,6 +10,7 @@ firefox-browsers-page-title = Lade { -brand-name-firefox } für Desktop, Mobile,
 # HTML page description
 firefox-browsers-page-desc = Wähle Desktop, { -brand-name-ios }, { -brand-name-android } oder lass dir einen mobilen Download-Link per E-Mail zusenden.
 
+firefox-browsers-main-heading = { -brand-name-firefox } Browser
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

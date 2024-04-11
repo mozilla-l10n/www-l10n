@@ -10,6 +10,7 @@ firefox-browsers-page-title = تنزيل { -brand-name-firefox } لأجهزة ا
 # HTML page description
 firefox-browsers-page-desc = اختر من أجهزة الكمبيوتر أو { -brand-name-ios } أو { -brand-name-android } أو اسمح لنا أن نُرسل إليك رابط تنزيل نُسخة الهاتف المحمول.
 
+firefox-browsers-main-heading = متصفحات { -brand-name-firefox }
 
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
