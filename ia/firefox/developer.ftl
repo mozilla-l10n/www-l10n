@@ -85,4 +85,6 @@ firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro l
 firefox-developer-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
+firefox-developer-mdn-references = Referentias { -brand-name-mdn }
+firefox-developer-mdn-curriculum = Curriculum de { -brand-name-mdn }
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
