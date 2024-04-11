@@ -15,14 +15,20 @@ installer-help-action-choose = नीचे एक डाउनलोड चु�
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = सबसे नवीनतम पाएँ। स्वतः निजता यहाँ है। { $trackers } से अधिक ट्रैकर्स ब्लॉक करने के लिए { -brand-name-firefox } डाउनलोड करें।
 
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = सबसे नवीनतम पाएँ। स्वतः निजता यहाँ है। { $trackers } से अधिक ट्रैकर्स ब्लॉक करने के लिए { -brand-name-firefox-browser } डाउनलोड करें।
 
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = सबसे स्थिर प्री-रिलीज़ बिल्ड में रिलीज़ होने वाली विशेषताओं की जाँच करें।
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = डेवलपर्स के लिए बनाए गए एकमात्र ब्राउज़र के साथ बनाएँ, परीक्षण करें, मापें और भी बहुत कुछ करें।
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = हमारी अगली पीढ़ी के वेब ब्राउज़र को देखें, और हमें इसे सबसे बेहतरीन ब्राउज़र बनाने में मदद करें।
 installer-help-need-help = इंस्टॉल करने में मदद चाहिए?
 
