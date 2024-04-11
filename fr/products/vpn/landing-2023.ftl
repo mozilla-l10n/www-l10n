@@ -42,7 +42,7 @@ vpn-landing-more-than-servers-in-countries =
         [one] Plus de { $servers } serveur dans plus de { $countries } pays
        *[other] Plus de { $servers } serveurs dans plus de { $countries } pays
     }
-vpn-landing-fast-network-speeds-even-while = Des vitesses de réseau élevées même même pour le gaming
+vpn-landing-fast-network-speeds-even-while = Des vitesses de réseau élevées même pour le gaming
 vpn-landing-no-logging-tracking-or-sharing = Aucun enregistrement, suivi ou partage des données échangées via votre réseau
 vpn-landing-no-bandwidth-restrictions-or = Aucune restriction ou limitation de bande passante
 vpn-landing-extra-security-whole-device = Sécurité additionnelle : protection intégrale de l’appareil, serveurs en cascade et plus encore
