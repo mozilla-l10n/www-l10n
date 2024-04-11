@@ -203,9 +203,6 @@ newsletters-get-all-the-knowledge = Dapatkan semua pengetahuan yang anda perluka
 newsletters-about-labs = Tentang Labs
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-desktop = Desktop
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -384,9 +381,6 @@ newsletters-welcome-emails = E-mel alu-aluan
 
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = E-mel alu-aluan yang membolehkan anda mula menggunakan produk dan perkhidmatan kami.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
 
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = Langgani buletin kami

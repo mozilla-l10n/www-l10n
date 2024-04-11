@@ -203,9 +203,6 @@ newsletters-get-all-the-knowledge = वह ज्ञान पाएँ जो �
 newsletters-about-labs = लैब्स के बारे में
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-desktop = डेस्कटॉप
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -384,9 +381,6 @@ newsletters-welcome-emails = स्वागत ईमेल
 
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = स्वागत ईमेल वे हैं, जो आपको हमारे प्रोडक्ट और सेवाएं इस्तेमाल करना शुरू करने के लिए प्रेरित करते हैं।
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
 
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = न्यूज़लेटर को सब्सक्राइब करें

@@ -203,9 +203,6 @@ newsletters-get-all-the-knowledge = اكتسب كل المعارف التي تح
 newsletters-about-labs = حول Labs
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-desktop = أجهزة كمبيوتر سطح المكتب
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = الموزيليون
 
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -384,9 +381,6 @@ newsletters-welcome-emails = رسائل البريد الإلكتروني الت
 
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = رسائل بريد إلكتروني ترحيبية تُساعدك على البدء باستخدام منتجاتنا وخدماتنا.
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
 
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = اشترك في النشرة الإخبارية

@@ -203,9 +203,6 @@ newsletters-get-all-the-knowledge = 安全を維持し、危険を回避する�
 newsletters-about-labs = Labs について
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-desktop = デスクトップ
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillian
 
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -384,9 +381,6 @@ newsletters-welcome-emails = ウェルカムメール
 
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Mozilla の製品とサービスを使い始めるためのウェルカムメールです。
-
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
 
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = ニュースレターに登録
