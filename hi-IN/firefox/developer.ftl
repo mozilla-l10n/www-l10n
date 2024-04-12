@@ -8,6 +8,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } एक तीव्र ब्राउज़र है जो अत्याधुनिक डेवलपर साधनों और नवीनतम सुविधाओं जैसे CSS ग्रिड समर्थन और फ़्रेमवर्क डिबगिंग की पेशकश करता है
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -73,6 +74,7 @@ firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } मे�
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } स्वतः { -brand-name-mozilla } को प्रतिक्रिया भेजता है।
 firefox-developer-download-the-firefox-browser = डेवलपर्स के लिए बने { -brand-name-firefox } ब्राउज़र को डाउनलोड करें
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } को शुरू से पुनर्निर्मित किया गया है, तीव्रतर, आकर्षक और पहले से अधिक शक्तिशाली बनाने के लिए।
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } में आपका स्वागत है।
@@ -80,7 +82,20 @@ firefox-developer-made-for-developers = डेवलपर्स के लि�
 firefox-developer-all-the-latest-v2 = बीटा में सभी नवीनतम डेवलपर टूल्स हैं, साथ ही मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर मौजूद हैं।
 firefox-developer-a-separate-profile = एक <strong>अलग प्रोफ़ाइल और पाथ</strong> जिससे आप रिलीज़ या { -brand-name-beta } { -brand-name-firefox } के साथ इसे आसानी से चला सकें।
 firefox-developer-preferences-tailored = वरीयता <strong>विशेष रूप से वेब Devलपर्स के लिए</strong> : ब्राउज़र और रिमोट डिबगिंग तयशुदा रूप से सक्षम होते हैं, साथ ही, डार्क थीम और डेवलपर टूलबार बटन भी।
+firefox-developer-congrats-you-now-have-latest-v2 = अब आपके पास है { -brand-name-firefox-developer-edition } का नवीनतम संस्करण।
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = बधाई हो। अब आपके पास है { -brand-name-firefox-browser } { -brand-name-developer-edition } का नवीनतम संस्करण।
 
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = नया क्या है यह देखने के लिए <a { $attrs }>रिलीज़ नोट्स</a> देखें (ये केवल अंग्रेज़ी में हैं)।
+firefox-developer-developer-tools-user = डेवलपर टूल्स यूज़र डॉक्स
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = डेवलपर्स के लिए, डेवलपर्स द्वारा संसाधन
+firefox-developer-mdn-references = { -brand-name-mdn } संदर्भ
+firefox-developer-mdn-is-a = { -brand-name-mdn } एक ओपन-सोर्स, परस्पर-सहयोगी प्रोजेक्ट है जो वेब प्लेटफ़ॉर्म टेक्नोलॉजी का डॉक्यूमेंटेशन करता है, जिनमें CSS, HTML, JavaScript और Web API शामिल हैं।
+firefox-developer-mdn-curriculum = { -brand-name-mdn } पाठ्यक्रम
+firefox-developer-a-structured-guide = एक सफल फ्रंट-एंड डेवलपर बनने के लिए आवश्यक स्किल और प्रैक्टिस वाली एक सुव्यवस्थित मार्गदर्शिका, सुझाए गए शिक्षण संसाधनों के साथ।
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = { -brand-name-mdn } को सपोर्ट करें और इसे अपना बनाएं - कलेक्शन, नोटिफिकेशन और प्लेग्राउंड के साथ।
