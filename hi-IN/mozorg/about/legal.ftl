@@ -37,3 +37,5 @@ legal-report-copyright = कॉपीराइट या ट्रेडमा�
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } सेवा की शर्तें
 legal-mozilla-subscription-services = { -brand-name-mozilla } सब्सक्रिप्शन सेवाएं
+legal-content-moderation = कंटेंट मॉडरेशन प्रैक्टिस
+legal-amo-policies = AMO नीतियां
