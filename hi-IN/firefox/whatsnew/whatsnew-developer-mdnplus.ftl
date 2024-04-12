@@ -6,6 +6,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = बधाई हो। अब आपके पास है { -brand-name-firefox-developer-edition } का नवीनतम संस्करण।
 
 # Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = बधाई हो। अब आपके पास है { -brand-name-firefox-browser } { -brand-name-developer-edition } का नवीनतम संस्करण।
