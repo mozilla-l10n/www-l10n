@@ -17,3 +17,6 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } के प�
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = अपने मोबाइल डिवाइस या डेस्कटॉप के लिए { -brand-name-firefox } ब्राउज़र <a href={ $download }>डाउनलोड</a> करें
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } को <a { $donate }>दान दें</a> और इंटरनेट का कंट्रोल विशाल टेक कंपनियों से वापस अपने हाथ में लें।
