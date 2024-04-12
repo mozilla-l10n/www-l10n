@@ -17,3 +17,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">تعرّف</a>
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>نزّل</a> مُتصفّح { -brand-name-firefox } لجهازك المحمول أو الكمبيوتر المكتبي.
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>تبرّع</a> لـ { -brand-name-mozilla-foundation } واسترجع الإنترنت من الشركات العملاقة.
