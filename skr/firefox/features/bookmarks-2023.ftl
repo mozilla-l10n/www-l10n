@@ -7,4 +7,5 @@
 
 # page title
 bookmark-manager-bookmark-manager = نشانی منیجر
+bookmark-manager-easily-import-bookmarks = سوکھ نال نشانیاں درآمد کرو
 bookmark-manager-bookmarks-toolbar = بک مارک ٹول بار

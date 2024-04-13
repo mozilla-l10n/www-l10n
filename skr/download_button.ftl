@@ -50,3 +50,5 @@ download-a-different-build = ہک مختلف بلڈ ڈاؤن لوڈ کرو
 download-button-linux-32 = { -brand-name-linux } 32-bit ڈاؤن لوڈ کرو
 # Obsolete string
 download-button-linux-64 = { -brand-name-linux } 64-bit ڈاؤن لوڈ کرو
+download-button-linux-32-v2 = لائنکس 32 بٹ کیتے ڈاؤن لوڈ کرو
+download-button-linux-64-v2 = لائنکس 64 بٹ کیتے ڈاؤن لوڈ کرو
