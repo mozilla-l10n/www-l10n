@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 features-translate-translate-the-web = ویب دا ترجمہ کرو
+features-translate-firefox-speaks-your-language = { -brand-name-firefox } تہاݙی زبان الیندے
