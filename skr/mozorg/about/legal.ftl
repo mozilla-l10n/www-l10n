@@ -38,3 +38,4 @@ legal-report-copyright = کاپی رائٹ یا ٹریڈ مارک دی خلاف 
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } خدمت شرطاں
 legal-mozilla-subscription-services = { -brand-name-mozilla } سبسکرپشن خدمتاں
+legal-amo-policies = AMO  پالیسیاں

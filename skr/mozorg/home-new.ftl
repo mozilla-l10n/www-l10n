@@ -17,4 +17,5 @@ home-cta-get-monitor = { -brand-name-monitor } گھنو
 home-politico-cite = Politico
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
+home-volunteer-with-mozilla = { -brand-name-mozilla } نال رضاکار
 home-learn-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
