@@ -6,6 +6,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Selamat. Sekarang Anda menggunakan { -brand-name-firefox-developer-edition } versi terbaru.
 
 # Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Selamat. Sekarang Anda menggunakan { -brand-name-firefox-browser } { -brand-name-developer-edition } versi terbaru.
