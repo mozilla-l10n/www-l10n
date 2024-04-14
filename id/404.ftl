@@ -17,3 +17,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Pelajari</a> t
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Unduh</a> { -brand-name-firefox } untuk perangkat seluler atau desktop Anda
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Donasi</a> ke { -brand-name-mozilla-foundation } dan rebut kembali kendali internet dari perusahaan teknologi besar.
