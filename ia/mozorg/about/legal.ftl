@@ -38,3 +38,4 @@ legal-report-copyright = Reportar violation de derectos de autor o marca de fabr
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Terminos de servicio de { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Servicios de abonamento de { -brand-name-mozilla }
+legal-amo-policies = Politicas de AMO

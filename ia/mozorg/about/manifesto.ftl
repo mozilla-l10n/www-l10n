@@ -55,6 +55,7 @@ manifesto-i-support-the-vision-of = Io supporta le vision de un internet melior,
 # Obsolete string
 manifesto-share-on-twitter = Comparti sur { -brand-name-twitter }
 manifesto-share-on-x = Compatir sur X
+manifesto-share-on-x-aria-label = Compartir in X (olim Twitter)
 manifesto-our-10-principles = <strong>Nostre 10</strong> Principios
 manifesto-read-the-entire-manifesto = Lege le manifesto complete
 manifesto-love-the-web = Ama tu le web?
