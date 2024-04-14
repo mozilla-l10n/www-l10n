@@ -8,6 +8,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } merupakan peramban yang sangat cepat yang menawarkan alat pengembang mutakhir dan fitur terkini seperti dukungan CSS Grid dan debug framework
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -73,6 +74,7 @@ firefox-developer-the-new-fonts-panel = Panel Fon yang baru di { -brand-name-fir
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } mengirim umpan balik secara otomatis ke { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Unduh peramban { -brand-name-firefox } yang dibuat untuk pengembang
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } telah dibangun kembali dari awal sehingga menjadi lebih cepat, ramping, dan bertenaga daripada sebelumnya.
+firefox-developer-welcome-to-firefox-developer-edition = Selamat datang di { -brand-name-firefox-developer-edition }
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Selamat datang di { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -80,7 +82,20 @@ firefox-developer-made-for-developers = Peramban yang dibuat untuk pengembang
 firefox-developer-all-the-latest-v2 = Semua alat pengembang terbaru dalam versi beta selain fitur seperti Editor Konsol Multisaluran dan Inspektur WebSocket.
 firefox-developer-a-separate-profile = <strong>Profil dan jalur terpisah</strong> sehingga Anda dapat dengan mudah menjalankannya bersama Rilis atau { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferensi yang <strong>disesuaikan untuk pengembang web</strong>: Peramban dan debugging jarak jauh diaktifkan secara bawaan, demikian pula dengan tema gelap dan tombol bilah alat pengembang.
+firefox-developer-congrats-you-now-have-latest-v2 = Sekarang Anda menggunakan { -brand-name-firefox-developer-edition } versi terbaru.
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Selamat. Sekarang Anda menggunakan { -brand-name-firefox-browser } { -brand-name-developer-edition } versi terbaru.
 
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Lihat <a { $attrs }>catatan rilis</a> (bahasa Inggris saja) untuk mendapatkan informasi terbaru.
+firefox-developer-developer-tools-user = Dokumen Pengguna Alat Pengembang
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Sumber Daya untuk Pengembang, oleh Pengembang
+firefox-developer-mdn-references = Referensi { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } adalah proyek kolaboratif sumber terbuka yang mendokumentasikan teknologi platform Web, termasuk CSS, HTML, JavaScript, dan API Web.
+firefox-developer-mdn-curriculum = Kurikulum { -brand-name-mdn }
+firefox-developer-a-structured-guide = Panduan terstruktur mengenai keterampilan dan praktik esensial untuk menjadi pengembang front-end yang sukses, disertai dengan rekomendasi sumber daya pembelajaran.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Dukung { -brand-name-mdn } dan personalisasikan sesuai kebutuhan dengan koleksi, notifikasi, dan playground.
