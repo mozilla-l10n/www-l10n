@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } ــ رازداری 
 firefox-home-firefox-is-more-than = { -brand-name-firefox } ہک براؤزر کنوں زیادہ ہے۔ { -brand-name-firefox } بݨتراں دے بارے ودھیک ڄاݨو جو تہاݙے ڈیٹا کوں عزت دے نال ہینڈل کریندے او تے جتھاں وی تساں آن لائن ویندے او رازداری کیتے بݨائے ڳئے ہن۔
 # Obsolete string
 firefox-home-the-browser-is-just = براوزر ہݨے شروع کریندا پئے
+firefox-home-firefox-is-just = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے۔
 # Obsolete string
 firefox-home-meet-our-family-of = ساݙیاں مصنوعات دے ٹٻر نال ملو
 firefox-home-get-trackers-off = اپݨے ٹریل کنوں 2,000+ ٹریکرز حاصل کرو — بشمول { -brand-name-facebook }
@@ -16,25 +17,15 @@ firefox-home-know-when-hackers-strike = ڄاݨو جو ہیکرز کݙاں حمل
 firefox-home-start-getting-breach = خلاف ورزی رپورٹاں گھنݨ شروع کرو
 firefox-home-un-spam-your-life = { -brand-name-relay } نال آپݨی حیاتی کوں  سپیم کنوں پاک کرو
 firefox-home-try-relay = { -brand-name-relay } ازماؤ
-# Obsolete string
-firefox-home-keep-your-passwords = ہر ڈیوائس تے آپݨے پاس ورڈ محفوظ رکھو
-# Obsolete string
-firefox-home-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = <strong>عزت</strong> گھنو جین٘دے تساں مستحق ہو
 # Obsolete string
 firefox-home-every-single-firefox = ہر ہک { -brand-name-firefox } پروڈکٹ اساݙے ذاتی ڈیٹا دے وعدے دا احترام کریندا ہے: <strong> کم گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ </strong>
-# Obsolete string
-firefox-home-share-large-files-without = وݙیاں فائلاں کوں ٹوہ لائے بغیر شیئر کرو
-# Obsolete string
-firefox-home-start-sending-files = فائلاں کوں حفاظت نال بھیڄݨ شروع کرو
 firefox-home-trade-clickbait-for = معیاری مواد کیتے کلک بیٹ دی تجارت کرو
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-home-protection-for-your-whole = تہاݙے پورے آلے کیتے، ہر ڈیوائس تے تحفظ
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = ہک لاگ ان۔ تہاݙے تمام آلات۔ بݨتراں دا ہک خاندان جیڑھا تہاݙی <strong> رازداری </strong> دا احترام کریندا ہے۔
-firefox-home-join-firefox = { -brand-name-firefox } وچ رلت کرو
-firefox-home-learn-more-about-joining = { -brand-name-firefox } نال رلت کرݨ بارے ٻیا سکھو
 firefox-home-get-the-browser-extension = براؤزر ایکسٹینشن گھنو
 firefox-home-get-the-facebook-container = { -brand-name-facebook-container } ایکسٹیشن گھنو
 firefox-home-download-the-browser = براؤزر ڈاؤن لوڈ کرو

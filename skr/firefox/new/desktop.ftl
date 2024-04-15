@@ -40,12 +40,6 @@ firefox-desktop-download-blocks-social-trackers = سماجی ٹریکراں کو
 firefox-desktop-download-os-availability = او ایس دستیابی
 firefox-desktop-download-in-browser-screenshot = براؤزر وچ سکرین شاٹ ٹُول
 firefox-desktop-download-primary-password = بنیادی پاس ورڈ
-# Obsolete string
-firefox-desktop-love-your-life = اپݨی زندگی نال آن لائن پیار کرو
-# Obsolete string
-firefox-desktop-its-your-internet = ایہ تہاݙا انٹرنیٹ ہے۔ ہزاراں ٹولز، تھیمز تے ایکسٹینشنز دے نال جیویں تساں چاہندے او اونکوں رنگ ݙیوو۔ { -brand-name-firefox } اصل متبادل براؤزر ہے جیڑھا لوکاں کوں منافع کنوں پہلے رکھیندا ہے۔
-# Obsolete string
-firefox-desktop-download-master-password = ماسٹر پاس ورڈ
 firefox-desktop-download-we-block-the-ad = اساں اشتہاری ٹریکرز کوں بلاک کریندے ہیں۔ تساں انٹرنیٹ کوں تکھاجی نال دریافت کریندے او۔
 firefox-desktop-download-ads-are-distracting = اشتہار پریشان کن ہوندے ہن تے ویب ورقیاں کوں سست لوڈ کریندے ہن جݙاں جو انہاں دے ٹریکرز تہاݙی آن لائن ہر حرکت کوں ݙیکھدےہن۔ { -brand-name-firefox-browser } زیادہ تر ٹریکرز کوں آپوں ڄاݨ بلاک کر ݙیندا ہے، ایں سانگے تہاݙیاں حفاظتی ترتیباں کوں کھَٹݨ دی لوڑ کائنی۔
 firefox-desktop-download-see-your-report = اپݨے تحفظ دی رپورٹ ݙیکھو
@@ -133,6 +127,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } کوں <a
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = جیویں جیویں انٹرنیٹ ودھدا تے تبدیل تھیندا ہے، { -brand-name-firefox } تہاݙے رازداری دے حق تے توجہ مرکوز کریندا رہندا ہے — اساں اینکوں <a { $attrs }>ذاتی ڈیٹا وعدہ</a> آہدے ہیں: گھٹ گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ تہاݙا ڈیٹا، تہاݙی ویب سرگرمی، تہاݙی آن لائن زندگی { -brand-name-firefox } دے نال محفوظ ہے۔
+# Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } تہاݙے تمام آلات تے دستیاب ہے۔ اپݨے ٹیباں، تاریخ تے نشانیاں اپݨے نال گھن ونڄو۔ تہاکوں صرف ہک <a { $attrs }>{ -brand-name-firefox }  اکاؤنٹ </a> دی ضرورت ہے۔
@@ -145,13 +140,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } خود 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = سوالات؟ <a { $attrs }>{ -brand-name-mozilla } سپورٹ</a> تہاڈی پوری پوری مدد کیتی ہے۔
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = تہاکوں پہلے ای براؤزر مل ڳیا ہے۔ ہݨ { -brand-name-firefox } کنوں ٻیا وی زیادہ حاصل کرو۔
+# Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-lockwise } دے نال پاس ورڈ دی حفاظت کرو، تے ٻہوں کجھ۔
-firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox } کنوں ٻئے گھنو
-firefox-desktop-download-just-download-the-browser = ٻس براؤزر ڈاؤن لوڈ کرو
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -162,13 +152,13 @@ firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال
 firefox-desktop-download-now-windows = ہݨ  او انسٹالر <strong> چلاؤ </ strong> جہڑا ہݨے ہݨے ڈاؤن لوڈ تھیا ہے۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = ہیٹھاں <strong>ڈاؤن لوڈ کرو</strong> اختیار چݨو
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = پریشانی تھیندی پئی ہے؟ <a { $attrs }>اپݨی انسٹالیشن وِچ مدد حاصل کرو</a>۔
 firefox-desktop-download-in-another-language = کہیں ٻئی زبان وِچ یا کہیں ٻئے آپریٹنگ سسٹم کیتے ڈاؤن لوڈ کرو۔
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔
@@ -176,10 +166,6 @@ firefox-desktop-download-visit-support-for-more = ٻیاں تفصیلاں کیت
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ہݨ سیکیورٹی اپ ڈیٹس فراہم نہیں کریندا </a> { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista }، لیکن تساں وت وی { -brand-name-firefox } استعمال کر سڳدے او۔
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = تساں ہک غیر محفوظ پراݨا آپریٹنگ سسٹم استعمال کریندے پئے او <a href="{ $url }"> ہݨ { -brand-name-firefox } دے ذریعے تعاون یافتہ کائنی </a>۔
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
