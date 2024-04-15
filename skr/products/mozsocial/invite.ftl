@@ -11,3 +11,8 @@ mozsocial-invite-first-name-label = پہلا ناں
 mozsocial-invite-last-name-label = چھیکڑی ناں
 mozsocial-invite-your-email-address-label = تہاݙا ای میل پتہ
 mozsocial-invite-country-label = ملک
+# "Handle" is jargon for a user name.
+mozsocial-invite-twitter-handle-label = ٹویٹر ہینڈل؟
+# Mastodon is a brand name. "Handle" is jargon for a user name.
+mozsocial-invite-mastodon-handle-label = مسٹ ڈون ہینڈل؟
+mozsocial-invite-thanks-youre-on-the-list = شکریہ! تساں تندیر وچ ہو

@@ -10,8 +10,11 @@ whatsnew-page-title-v2 = { -brand-name-firefox } نال نواں کیا ہے؟
 whatsnew-page-title = { -brand-name-firefox } دے نال نواں کیا ہے۔ ودھیک رازداری، ودھیک تحفظات
 whatsnew-page-description = ہک اینجھی صنعت دے خلاف اپݨا موقف گھنو جیڑھی تہاݙا ڈیٹا تریجھے فریق کوں ویچیندی پئی ہے۔ تہاݙے کیتے لڑݨ والی ٹیکنالوں دے نال آن لائن ہوشیار تے محفوظ رہو۔
 whatsnew-firefox = { -brand-name-firefox }
+whatsnew-update-notification = تہاݙی { -brand-name-firefox } اپ ڈیٹ تھی ڳئی ہے۔
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = تہاݙے{ -brand-name-firefox }براؤزر وِچ نواں کیا ہے ایندے بارے ودھیک ڄاݨݨ کیتے  <a { $url }>  ریلیز نوٹس </a> پڑھو۔
 # Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = تہاݙے{ -brand-name-firefox }براؤزر وِچ نواں کیا ہے ایندے بارے ودھیک ڄاݨݨ کیتے <a href="{ $url }"> ریلیز نوٹس </a> پڑھو۔
