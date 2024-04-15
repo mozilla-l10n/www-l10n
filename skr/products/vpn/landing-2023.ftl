@@ -7,4 +7,6 @@
 
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-features = خاص
+vpn-landing-see-all-features = ساریاں خاصیتاں ݙیکھو
+vpn-landing-fram-a-brand-you-can-trust = ہک اینجھا برانڈ جیندے اُتے تساں بھروسہ کر سڳدے ہو
 vpn-landing-what-is-an-ip-address = آئی پی پتہ کیا ہے؟

@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 navigation-v2-menu = مینیو
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } گھنو
 
 ## Firefox menu
 
@@ -68,16 +66,12 @@ navigation-v2-careers = روزگار تے کم
 navigation-v2-work-for-a-mission-driven-updated = مشن نال چلݨ والی تنظیم کیتے کم کرو جیڑھی لوکاں دی پہلی بݨتر بݨیندی ہے۔
 navigation-v2-mozilla-blog = { -brand-name-mozilla } بلاگ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } تے ساݙے متعلق مسئلیاں بارے سکھو۔
-navigation-v2-stories = کہاݨیاں
-navigation-v2-stories-about-how = ایں بارے کہاݨیاں جو کیویں اساݙے لوک تے بݨتراں دنیا کوں بہتری نال تبدیل کریندے پئے ہن۔
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا
 
 ## Innovation menu
 
 navigation-v2-innovation = جدت
 navigation-v2-close-innovation-menu = جدت مینیو بند کرو
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = ایں انٹر ایکٹیو، آن لائن، کثیر جہتی سماجی جاء وچ کٹھے کرو۔
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = صرف ڈیویلپراں کیتے بݨایا ڳیا براؤزر { -brand-name-firefox } گھنو۔
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +82,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = آپݨی اواز دان کرو تاں جو ویب دا مستقبل ہر کہیں کوں سݨ سڳے۔
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = نویں، تلویں سطح دی، اسمبلی وانگوں زبان بارے ٻیا ڄاݨو۔
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } جدتی منصوبے

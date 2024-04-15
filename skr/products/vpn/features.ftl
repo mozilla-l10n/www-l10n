@@ -7,6 +7,7 @@
 
 vpn-features-page-title = خاص ــ { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-features-convenient = سوکھا
 vpn-features-secure = محفوظ
 vpn-features-flexible = لچکدار
 vpn-features-trustworthy = بھروسے آلی
