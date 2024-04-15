@@ -68,3 +68,4 @@ firefox-more-a-guide-to = محفوظ ترین لاگ اناں تے پاس ورڈ
 firefox-more-more-and-more = اساݙی زندگی وِچ زیادہ توں زیادہ حساس، قیمتی چیزاں کوں پاس ورڈ دے ذریعے محفوظ کیتا ویندا ہے۔
 firefox-more-avoid-misinformation-heading = آن لائن غلط معلومات کنوں بچو – اتھ { -brand-name-firefox } مدد کیتے ہے
 firefox-more-avoid-misinformation-desc = گھٹ غلط معلومات ݙیکھݨ تے تہاݙے کیتے اہم چیزاں تے توجہ مرکوز کرݨ کیتے تجویزاں ݙیکھو۔
+firefox-more-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟

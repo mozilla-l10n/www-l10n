@@ -46,8 +46,10 @@ firefox-privacy-hub-learn-about-our-products = ساݙیاں مصنوعات با�
 firefox-privacy-hub-firefox-privacy-by-the = { -brand-name-firefox } رازداری، مصنوع نال
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی حفاظت کریندے۔
+firefox-privacy-hub-mozilla-protects-your-privacy = { -brand-name-mozilla }  ہر مصنوعات وچ تہاݙی رازداری دی حفاظت کریندے۔
 # Obsolete string
 firefox-privacy-hub-firefox-protects-your-privacy-strong = { -brand-name-firefox } ہر مصنوعات وچ تہاݙی رازداری دی <strong>حفاظت کریندے</strong>۔
+firefox-privacy-hub-mozilla-protects-your-privacy-strong = { -brand-name-mozilla } ہر مصنوعات وچ تہاݙی رازداری دی <strong>حفاظت کریندے</strong>۔
 firefox-privacy-hub-firefox-browser = { -brand-name-firefox-browser }
 firefox-privacy-hub-2000-trackers-blocked-automatically = 2,000+ ٹریکرز بلاک تھی ڳئے ــــ خودبخود
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
@@ -76,7 +78,6 @@ firefox-privacy-hub-when-you-enter-your-email = جݙاں تساں اپما ای 
 firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = پاس ورڈز تے سنداں جیڑھیاں تساں { -brand-name-firefox-lockwise } وِچ محفوظ کریندے او او تہاݙے تمام آلات تے ڳجھے ہوندے ہن، ایں سانگے اساں انہاں کوں ݙیکھ وی نئیں سڳدے۔
-firefox-privacy-hub-learn-more-about-lockwise = { -brand-name-lockwise } بارے ٻیا سکھو
 firefox-privacy-hub-firefox-send = { -brand-name-firefox-send }
 firefox-privacy-hub-we-cant-see-the-names-or = اساں انہاں وݙیاں فائلاں دے ناں یا مواد نہیں ݙیکھ سڳدے جیڑھا تساں { -brand-name-firefox-send } دے ذریعے سانجھیاں کریندے او کیوں جو ناونھ کنوں چوٹی تائیں ڳجھیاں ہن — تساں منتخب کریندے او جو تساں جو کجھ بھیڄیندے او اونکوں کون ݙیکھدا ہے، تے تساں سیٹ وی کر سڳدے او۔ ہک معیاذ مُکݨ دی تاریخ تے پاس ورڈ۔
 firefox-privacy-hub-send-a-file = ہک فائل پٹھو
