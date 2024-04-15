@@ -37,3 +37,5 @@ legal-report-copyright = Laporkan Pelanggaran Hak Cipta atau Tanda Dagangan
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Syarat Perkhidmatan { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Perkhidmatan Langganan { -brand-name-mozilla }
+legal-content-moderation = Amalan Moderasi Kandungan
+legal-amo-policies = Polisi AMO
