@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = خاص ــ { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-secure = محفوظ
 vpn-features-flexible = لچکدار
+vpn-features-trustworthy = بھروسے آلی
+vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
