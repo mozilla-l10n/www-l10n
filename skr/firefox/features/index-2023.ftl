@@ -9,6 +9,7 @@
 features-index-firefox-browser-features = { -brand-name-firefox } براؤزر خاصیتاں
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } تکھیرا گھنݨ رکھیندے
 # Obsolete string
 features-index-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
 features-index-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟

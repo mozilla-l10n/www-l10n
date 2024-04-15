@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } تکھیرا گھنݨ رکھیندے
 features-fast-how-is-browser-speed-measured = براؤزر دی رفتار دا میچا کین٘ویں کریندے
 features-fast-faster-every-day = ہر روز تکھیرا
 features-fast-towards-a-faster-web = تکھیری ویب ݙوں

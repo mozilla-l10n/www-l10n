@@ -35,6 +35,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤز�
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
 firefox-new-download-almost-there = تقریباً اُتھ!
+firefox-new-download-select-linux = ہیٹھاں ڈاؤن لوڈ آپشن چݨو
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔

@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
+features-private-what-information-does-firefox = { -brand-name-firefox } کہڑیاں معلومات کٹھیاں کریندے

@@ -7,4 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = پی ڈی ایف ایڈیٹر
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = پی ڈی ایف فائلاں  کوں { -brand-name-firefox } وچ سدھا ݙیکھو تے تبدیلی کرو۔
 pdf-editor-add-text = عبارت شامل کرو
