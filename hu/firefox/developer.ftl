@@ -93,6 +93,6 @@ firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejle
 firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
 firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platformtechnológiákat dokumentál, beleértve a CSS-t, HTML-t, JavaScriptet és a webes API-kat.
 firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
-firefox-developer-a-structured-guide = Strukturált útmutató a sikeres felületfejlesztő létfontosságú készségekhez és gyakorlatokhoz, ajánlott tanulási eszközökkel együtt.
+firefox-developer-a-structured-guide = Strukturált útmutató a sikeres frontendfejlesztők létfontosságú készségeihez és gyakorlataihoz, az ajánlott tanulási erőforrásokkal együtt.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.
