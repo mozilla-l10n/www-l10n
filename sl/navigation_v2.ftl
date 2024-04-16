@@ -66,16 +66,12 @@ navigation-v2-careers = Zaposlitev
 navigation-v2-work-for-a-mission-driven-updated = Delajte za organizacijo, katere izdelki temeljijo na poslanstvu in postavljajo ljudi na prvo mesto.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-v2-learn-about-mozilla-and = Preberite več o { -brand-name-mozilla(sklon: "mestnik") } in o temah, ki so nam pomembne.
-navigation-v2-stories = Zgodbe
-navigation-v2-stories-about-how = Zgodbe o tem, kako naši ljudje in izdelki spreminjajo svet na bolje.
 navigation-v2-more-about-mozilla = Več o { -brand-name-mozilla(sklon: "mestnik") }
 
 ## Innovation menu
 
 navigation-v2-innovation = Inovacije
 navigation-v2-close-innovation-menu = Zapri meni Inovacije
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Družite se v interaktivnem, večdimenzionalnem spletnem prostoru.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Prenesite brskalnik { -brand-name-firefox }, ustvarjen samo za razvijalce.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -87,3 +83,4 @@ navigation-v2-donate-your-voice-so-the-future = Darujte svoj glas in pomagajte, 
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Spoznajte novi nizkonivojski, zbirnemu jeziku podobni programski jezik.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla(sklon: "mestnik") }ni inovacijski projekti
+navigation-v2-discover-ways-to-bring = Odkrijte, kako uresničiti dobre zamisli.
