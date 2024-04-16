@@ -7,3 +7,4 @@
 
 vpn-mobile-get-a-vpn = { -brand-name-mozilla } کنوں موبائل کیتے وی پی این گھنو
 vpn-mobile-vpn-for-mobile = { -brand-name-mozilla } کنوں موبائل کیتے وی پی این
+vpn-mobile-why-do-i = میکوں موبائل کیتے وی پی این دی لوڑ کیوں ہے؟

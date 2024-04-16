@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس دی حفاظت کرو
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = تمام ایپاں کیتے پورے آلہ دے تحفظ کیتے { -brand-name-mozilla-vpn } استعمال کرو۔ { $countries } کنوں زائد ملکاں وِچ سرورز دے نال، تساں کتھاؤں وی، کتھائیں جڑ سڳدے او۔
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-features = خاص
 # Variables:

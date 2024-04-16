@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = Linux تے { -brand-name-mozilla-vpn }
+vpn-linux-why-choose = لائنکس کیتے { -brand-name-mozilla-vpn } کوں چݨوں؟
