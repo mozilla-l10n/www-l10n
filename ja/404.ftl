@@ -17,3 +17,6 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } を開発�
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = モバイルデバイスまたはデスクトップ用 { -brand-name-firefox } ブラウザーを<a href={ $download }>ダウンロード</a>
 
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } に<a { $donate }>寄付</a>して大手テクノロジー企業からインターネットを取り戻しましょう。
