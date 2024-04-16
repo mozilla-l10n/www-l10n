@@ -11,7 +11,9 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس 
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = تمام ایپاں کیتے پورے آلہ دے تحفظ کیتے { -brand-name-mozilla-vpn } استعمال کرو۔ { $countries } کنوں زائد ملکاں وِچ سرورز دے نال، تساں کتھاؤں وی، کتھائیں جڑ سڳدے او۔
+vpn-landing-powerful-privacy-for-peace = ذہنی سکون کیتے تکڑی رازداری ورتو
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
+vpn-landing-how-a-vpn-helps-you = وی پی این تہاݙی کینویں مدد کریندے
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
