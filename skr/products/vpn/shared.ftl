@@ -81,6 +81,8 @@ vpn-shared-pricing-save-percent = { $percent }% بچاؤ
 vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } تے { $percent } % بچاؤ*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *جہڑے ویلے تساں 12ــ مہینہ منصوبہ سبسکرائب کریندے ہو
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *سالانہ سبسکرپشن نال
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } کل
