@@ -7,5 +7,7 @@
 
 # page title
 bookmark-manager-bookmark-manager = نشانی منیجر
+# HTML page description
+bookmark-manager-organize-your-bookmarks-with = فولڈراں تے ٹیگاں نال آپݨیاں نشانیاں منظم کرو۔
 bookmark-manager-easily-import-bookmarks = سوکھ نال نشانیاں درآمد کرو
 bookmark-manager-bookmarks-toolbar = بک مارک ٹول بار
