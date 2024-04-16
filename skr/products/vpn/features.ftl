@@ -8,6 +8,14 @@
 vpn-features-page-title = خاص ــ { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-convenient = سوکھا
+vpn-features-see-our-list = ساݙے سروراں دی تندیر ݙیکھو
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] { $devices } ڈیوائس تائیں کنکٹ تھیوو
+       *[other] { $devices } ڈیوائساں تائیں کنکٹ تھیوو
+    }
 vpn-features-secure = محفوظ
 vpn-features-flexible = لچکدار
 vpn-features-trustworthy = بھروسے آلی
