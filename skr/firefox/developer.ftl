@@ -83,6 +83,7 @@ firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویل�
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } دا نواں نکور ورژن ہے۔
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے
 firefox-developer-mdn-references = { -brand-name-mdn } حوالے
 firefox-developer-mdn-curriculum = { -brand-name-mdn } نصآب
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

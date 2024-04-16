@@ -7,3 +7,4 @@
 
 vpn-linux-mozilla-vpn = Linux تے { -brand-name-mozilla-vpn }
 vpn-linux-why-choose = لائنکس کیتے { -brand-name-mozilla-vpn } کوں چݨوں؟
+vpn-linux-how-to-install = Linux تے { -brand-name-mozilla-vpn } انسٹال کین٘ویں کروں

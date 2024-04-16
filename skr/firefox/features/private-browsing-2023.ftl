@@ -11,4 +11,6 @@ features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox 
 # HTML page description
 features-private-browsing-firefox-protects = { -brand-name-firefox } تہاݙی آن لائن رازداری دی حفاظت کریندا ہے تے ویب تے تہاݙی پیروی کرݨ والے ٹریکرز کوں روکیندا ہے۔
 features-private-browsing-what-does-private-browsing-do = نجی براؤزنگ کیا کریندی ہے؟
+# Used as an accessible text alternative for an image
+features-private-browsing-a-firefox-window-in-private = نجی براؤزنگ موڈ وچ { -brand-name-firefox } براؤز ونڈو
 features-private-browsing-what-private-browsing-doesnt-do = نجی براؤزنگ کیا کائنی کریندی۔

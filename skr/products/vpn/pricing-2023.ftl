@@ -16,6 +16,14 @@ vpn-pricing-connect-up-to =
         [one] { $devices } ڈیوائس تائیں کنکٹ تھیوو
        *[other] { $devices } ڈیوائساں تائیں کنکٹ تھیوو
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] { $countries }+ ملکاں وچ { $servers }+ سرور تے رسائی
+       *[other] { $countries }+ ملکاں وچ { $servers }+ سروراں تے رسائی
+    }
 vpn-pricing-annual = سالانہ
 vpn-pricing-monthly = ماہانہ
 vpn-pricing-get-annual-subscription = سالانہ سبسکرپشن گھنو

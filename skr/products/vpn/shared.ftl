@@ -9,8 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
 vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
-# Outdated string
-vpn-shared-available-countries-v5 = اساں فی الحال { -brand-name-mozilla-vpn } آسٹریا، بیلجیم، کینیڈا، فن لینڈ، فرانس، جرمنی، آئرلینڈ، اٹلی، ملائیشیا، ہالینڈ، نیوزی لینڈ، سنگاپور، اسپین، سویڈن، سوئٹزرلینڈ، برطانیہ، تے امریکہ وِچ پیش کریندے پئے ہیں۔
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -64,11 +62,7 @@ vpn-shared-choose-a-plan-sub-heading = منصوبہ چݨو جہڑا تہاݙے �
 vpn-shared-pricing-variable-sub-heading = ساݙے سارے منصوبیاں وچ شامل ہن:
 vpn-shared-pricing-recommended-offer = سفارش تھئے ہوئے
 vpn-shared-pricing-plan-12-month-v2 = 12 مہینہ منصوبہ
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 مہینہ
 vpn-shared-pricing-plan-monthly-v2 = ماہانہ منصوبہ
-# Outdated string
-vpn-shared-pricing-plan-monthly = ماہانہ
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -76,12 +70,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + ٹیکس</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = 6 مہینے دا منصوبہ گھنو
-# Outdated string
-vpn-shared-pricing-get-12-month = 12 مہینے دا منصوبہ گھنو
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = 6 مہینے دا منصوبہ گھنو
 vpn-shared-pricing-get-12-month-v2 = 12 مہینے دا منصوبہ گھنو
 vpn-shared-pricing-get-monthly = ماہوار منصوبہ گھنو
 # Variables:
@@ -132,11 +120,12 @@ vpn-subnav-vpn-vs-proxy = وی پی این  تے پراکسی
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } سب سکرایب کرو
 vpn-subnav-learn-about-vpns = VPNs بارے ڄاݨو
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
+vpn-subnav-features = خصوصیات
 
 ## VPN Affiliate cookie notice
 
 # Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
+#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
 vpn-shared-affiliate-notification-message = اساں ایہ سمجھݨ کیتے کوکیاں دا استعمال کریندے ہیں جو کیڑھا لڳدڑ پارٹنر تہاکوں { -brand-name-mozilla-vpn } تائیں گھن ڳیا ہے۔ اساں اپݨے شراکت داراں دے نال ذاتی طور تے سنڄاݨ کرݨ والی معلومات دی سانجھ نہیں کریندے۔ اساݙی  <a { $attrs }> رازداری دی پالیسی </a> پڑھو۔
 vpn-shared-affiliate-notification-reject = مسترد کرو
 vpn-shared-affiliate-notification-ok = ٹھیک ہے
@@ -157,6 +146,10 @@ vpn-shared-why-bundle = ٻنڈل کیوں؟
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } دے سالانہ منصوبے تے <span> { $percent }%بچاؤ</span>
+vpn-shared-mozilla-vpn-is-not-yet-available = اڄ تہاݙے ملک وچ { -brand-name-mozilla-vpn } دستیاب کائنی۔
 
-##
+## Press quotations
+
+
+## Unsupported language notification
 
