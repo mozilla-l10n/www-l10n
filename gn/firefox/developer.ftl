@@ -84,6 +84,9 @@ firefox-developer-preferences-tailored = Eguehoryvéva <strong>mbo’avapyre ña
 firefox-developer-congrats-you-now-have-latest-v2 = Eguereko ipyahuvéva { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Vy’apavẽ. Eguerekóma { -brand-name-firefox-browser } osẽramovéva { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩva</a> (inglés ñe’ẽme) ehecha hag̃ua mba’epyahu.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
