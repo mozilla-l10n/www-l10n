@@ -12,6 +12,8 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلک�
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } تکھیرا گھنݨ رکھیندے
 # Obsolete string
 features-index-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
+# Obsolete string
+features-index-firefox-uses-less-memory-than = { -brand-name-firefox } کروم کنوں گھٹ میموری استعمال کریندا ہے، لہذا تہاݙے ٻئے پروگرام تیز رفتاری نال چلدے رہ سڳدے ہن۔
 features-index-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
 features-index-free-password-manager = مفت پاس ورڈ منیجر
 features-index-customize-your-firefox-browser = آپݨا { -brand-name-firefox } براؤزر لوڑ مطابق کرو
@@ -21,7 +23,9 @@ features-index-organize-your-bookmarks-with = فولڈراں تے ٹیگاں ن�
 features-index-private-browsing-mode = نجی براؤزنگ موڈ
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ایڈ آن تے براؤزر ایکسٹینشناں
 features-index-pinned-browser-tabs = پن تھیاں براؤزر ٹیباں
+features-index-eyedropper-tool = آئی ڈراپر ٹول
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
+features-index-view-and-edit-pdf-files = پی ڈی ایف فائلاں  کوں { -brand-name-firefox } وچ سدھا ݙیکھو تے تبدیلی کرو۔
 features-index-fingerprint-blocking = فنگر پرنٹ بلاک کرݨ
 features-index-ad-tracker-blocking = مشہوری ٹریکر روکݨ
 features-index-firefox-automatically-blocks = { -brand-name-firefox } آپݨے آپ 2000 کنوں ودھ مشہوری ٹریکراں کوں تہاکوں فالو کرݨ کنوں بلاک کر ݙیندے۔

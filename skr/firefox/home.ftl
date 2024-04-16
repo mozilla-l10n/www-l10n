@@ -12,6 +12,7 @@ firefox-home-the-browser-is-just = براوزر ہݨے شروع کریندا پ�
 firefox-home-firefox-is-just = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے۔
 # Obsolete string
 firefox-home-meet-our-family-of = ساݙیاں مصنوعات دے ٹٻر نال ملو
+firefox-home-meet-mozillas-family = { -brand-name-mozilla } ٹبر دی مصنوعات کوں ملو
 firefox-home-get-trackers-off = اپݨے ٹریل کنوں 2,000+ ٹریکرز حاصل کرو — بشمول { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = ڄاݨو جو ہیکرز کݙاں حملہ کریندے ہن — تے ہک قدم اڳوں تے رہو
 firefox-home-start-getting-breach = خلاف ورزی رپورٹاں گھنݨ شروع کرو
@@ -21,6 +22,7 @@ firefox-home-try-relay = { -brand-name-relay } ازماؤ
 firefox-home-get-the-respect-you = <strong>عزت</strong> گھنو جین٘دے تساں مستحق ہو
 # Obsolete string
 firefox-home-every-single-firefox = ہر ہک { -brand-name-firefox } پروڈکٹ اساݙے ذاتی ڈیٹا دے وعدے دا احترام کریندا ہے: <strong> کم گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ </strong>
+firefox-home-every-single-mozilla = ہر ہک { -brand-name-mozilla } پروڈکٹ اساݙے ذاتی ڈیٹا دے وعدے دا احترام کریندا ہے: <strong> کم گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ </strong>
 firefox-home-trade-clickbait-for = معیاری مواد کیتے کلک بیٹ دی تجارت کرو
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } بارے ٻیا سکھو
 firefox-home-protection-for-your-whole = تہاݙے پورے آلے کیتے، ہر ڈیوائس تے تحفظ

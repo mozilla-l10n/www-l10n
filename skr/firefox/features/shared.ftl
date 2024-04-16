@@ -17,6 +17,7 @@ features-shared-bookmark-manager = نشانی منیجر
 features-shared-private-browsing-mode = نجی براؤزنگ موڈ
 features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ایڈ آن تے براؤزر ایکسٹینشناں
 features-shared-pinned-browser-tabs = پن تھیاں براؤزر ٹیباں
+features-shared-eyedropper-tool = آئی ڈراپر ٹول
 features-shared-pdf-editor = پی ڈی ایف ایڈیٹر
 features-shared-fingerprinter-blocking = فنگر پرنٹ بلاک کرݨ
 features-shared-translate-the-web = ویب دا ترجمہ کرو
