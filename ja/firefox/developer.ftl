@@ -8,6 +8,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } は最先端のデベロッパーツールや、CSS Grid 対応・フレームワークデバグなど、最新機能を備えた超高速ブラウザー
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
@@ -73,6 +74,7 @@ firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } の新�
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } は { -brand-name-mozilla } にフィードバックを自動送信します。
 firefox-developer-download-the-firefox-browser = デベロッパー専用に構築されたブラウザー、{ -brand-name-firefox } をダウンロード
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } が完全に再構築されて、さらに高速、シンプル、パワフルになりました。
+firefox-developer-welcome-to-firefox-developer-edition = ようこそ { -brand-name-firefox-developer-edition } へ
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = ようこそ { -brand-name-firefox-browser } { -brand-name-developer-edition } へ
@@ -80,7 +82,20 @@ firefox-developer-made-for-developers = デベロッパー専用に構築され�
 firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
+firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
 
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = これで{ -brand-name-firefox-browser } { -brand-name-developer-edition } の最新バージョンがインストールされました。
 
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = <a { $attrs }>リリースノート</a> (英語のみ) で更新内容をご確認ください。
+firefox-developer-developer-tools-user = デベロッパーツールのユーザードキュメント
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = デベロッパーによるデベロッパーのためのリソース
+firefox-developer-mdn-references = { -brand-name-mdn } のリファレンス
+firefox-developer-mdn-is-a = { -brand-name-mdn } は、CSS、HTML、JavaScript、Web API などのウェブプラットフォーム技術を記録するオープンソースの共同プロジェクトです。
+firefox-developer-mdn-curriculum = { -brand-name-mdn } のカリキュラム
+firefox-developer-a-structured-guide = フロントエンドデベロッパーとして成功するために不可欠なスキルと実践方法を体系化したガイドと、推奨される学習リソースです。
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = { -brand-name-mdn } をサポートし、コレクション、通知、プレイグラウンドで自在に活用しましょう。
