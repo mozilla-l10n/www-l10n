@@ -143,6 +143,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } خود 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = سوالات؟ <a { $attrs }>{ -brand-name-mozilla } سپورٹ</a> تہاڈی پوری پوری مدد کیتی ہے۔
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
 

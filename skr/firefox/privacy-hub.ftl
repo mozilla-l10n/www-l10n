@@ -93,6 +93,11 @@ firefox-privacy-hub-all-the-information-synced = تہاݙے { -brand-name-firefo
 firefox-privacy-hub-take-your-privacy-and-bookmarks-v2 = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-mozilla-account }دے نال گھن ونڄو۔
 # Obsolete string
 firefox-privacy-hub-take-your-privacy-and-bookmarks = اپݨی رازداری تے نشانیاں کوں ہر جاء { -brand-name-firefox-account } دے نال گھن ونڄو۔
+# Variables:
+#   $signin (string) - anchor link url and attributes
+#   $class_name (string) - CSS class name for sign in link
+#   $learn_more (url) - link to https://www.mozilla.org/firefox/accounts/
+firefox-privacy-hub-already-have-an-account-v2 = پہلے کنوں اکاؤنٹ ہے پیا؟<a { $sign_in } class="{ $class_name }"> سائن ان تھیوو </a> یا <a href="{ $learn_more }"> ودھیک ڄاݨو </a> { -brand-name-mozilla } وِچ شامل تھیوݨ دے بارے۔
 # Obsolete string
 # Variables:
 #   $signin (string) - anchor link url and attributes
