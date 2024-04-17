@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-bewurker
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Foegje tekst ta oan PDF’s mei de PDF-bewurker fan { -brand-name-firefox }
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Bewurkje PDF’s fergees mei { -brand-name-firefox } PDF Editor
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Besjoch en bewurkje PDF-bestannen daliks yn { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = As jo wat oan in PDF-dokumint tafoegje wolle, kinne jo dat no online dwaan mei { -brand-name-firefox }. Iepenje de pdf yn { -brand-name-firefox } en klik op de tekst- of tekenknop yn de rjochterboppehoek om wizigingen yn jo dokumint oan te bringen. Download it bestân om it te bewarjen mei jo wizigingen.
@@ -19,3 +21,4 @@ pdf-editor-add-text = Tekst tafoegje
 pdf-editor-open-the-pdf-in-firefox-click-text = Iepenje de pdf yn { -brand-name-firefox }. Klikje op de knop Tekst om in kleur en tekstgrutte te kiezen eardat jo selektearje wêr’t op it dokumint jo tekst tafoegje wolle. It is sa maklik!
 pdf-editor-add-drawings-or-your-signature = Tekeningen (of jo hantekening) tafoegje
 pdf-editor-open-the-pdf-in-firefox-click-draw = Iepenje de pdf yn { -brand-name-firefox }. Klik op it piktogram Tekenje om in kleur, tsjokte en transparânsje te kiezen eardat jo op it dokumint tekenje kinne. It sil wierskynlik net rommeliger wêze dan jo gewoane hantekening!
+pdf-editor-add-image-with-alt-text = Ofbylding mei alt tekst tafoegje
