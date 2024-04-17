@@ -7,8 +7,9 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF エディター
 
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF エディターで PDF にテキストを追加
+
 
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = PDF ファイルを { -brand-name-firefox } で直接表示、編集できます。
