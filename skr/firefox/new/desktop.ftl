@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = { -brand-name-windows }، { -brand-name-
 firefox-desktop-download-og-title = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 firefox-desktop-download-og-desc = ورقے دی تکھی لوڈنگ، میموری دا گھٹ استعمال تے خصوصیات نال بھریا ہویا، نواں { -brand-name-firefox } اتھاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔  <a { $update_url }>  نویں نکور ورژن وِچ اپ ڈیٹ کرو </a>
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = مشتہرین کیتے کوئی مشکوک رازداری دی پالیسی یا پچھلے دروازے کائنی۔ صرف ہک تیز رفتار براؤزر جیڑھا تہاکوں نہیں ویچیندا۔
