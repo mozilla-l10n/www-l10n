@@ -13,6 +13,8 @@ firefox-browsers-main-heading = { -brand-name-firefox } براؤزرز
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = او <strong>براؤزرز</strong> حاصل کرو جیڑھے تہاݙی رازداری کوں پہلے رکھیندے ہن — تے ہمیشاں رکھیندے ہن۔
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = اُوہ براؤزر حاصل کرو جہڑا تُہاݙی رازداری کوں پہلاں رکھین٘دا ہِے — اَتے <strong>ہمیشاں</strong> رکھین٘دا ہِے
 firefox-browsers-desktop = ڈیسک ٹاپ
 firefox-browsers-seriously-private-browsing = سنجیدگی نال نجی براؤزنگ۔ { -brand-name-firefox } آپوں ڄاݨ 2000+ آن لائن ٹریکرز کوں تساں آن لائن کریندے او ایندے بارے وِچ معلومات جمع کرݨ کنوں روکیندا ہے۔
 firefox-browsers-download-for-desktop = ڈیسک ٹاپ کیتے ڈاؤن لوڈ کرو

@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-firefox }
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-firefox } دے بیٹا ورژن { -brand-name-ios } کیتے { -brand-name-apple } دے { -brand-name-test-flight } پروگرام دے ذریعے ٹیسٹ کرو۔
 firefox-channel-sign-up-now = ہݨ سائن اپ تھیوو
+firefox-channel-nightly-update-one-or-more-times = نوٹ: { -brand-name-firefox-nightly } ݙِین٘ہ وِچ تقریباً ہِک یا ݙُو واری اپ ڈیٹ تِھیسی۔

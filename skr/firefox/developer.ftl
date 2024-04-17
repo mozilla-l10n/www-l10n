@@ -78,12 +78,21 @@ firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-d
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
+firefox-developer-all-the-latest-v2 = ملٹی لائن کنسول ایڈیٹر اَتے ویب ساکٹ انسپکٹر جیہیں خاصیتاں کنوں اَن٘ج بِیٹا وِچ سبّھے جدید ڈویپلر ٹولز۔
 firefox-developer-a-separate-profile = ہک <strong>علیحدہ پروفائل تے رستہ</strong> تاں جو تساں اینکوں ریلیز یا { -brand-name-beta } { -brand-name-firefox } دے نال آسانی نال چلا سڳو۔
 firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویلپرز کیتے تیار کردہ</strong>: براؤزر تے ریموٹ ڈیبگنگ بطور ڈیفالٹ فعال ہن، جیویں جو ڈارک تھیم تے ڈویلپر ٹول بار بٹن ہن۔
+firefox-developer-congrats-you-now-have-latest-v2 = ہُݨ تُہاݙے کول { -brand-name-firefox-developer-edition } دا نواں نرویا ورژن ہِے۔
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } دا نواں نکور ورژن ہے۔
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیتے <a { $attrs }>ریلیز نوٹس</a> ݙیکھو (صرف انگریزی وِچ)۔
+firefox-developer-developer-tools-user = ڈویپلر ٹولز یوزر ڈاکس
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے
 firefox-developer-mdn-references = { -brand-name-mdn } حوالے
+firefox-developer-mdn-is-a = { -brand-name-mdn } ہِک اوپن سورس، آپتی تعاون اُتے مبنی پراجیکٹ ہِے جہڑا ویب پلیٹ فارم ٹیکنالوجیز کوں دستاویز کرین٘دا ہِے، CSS, HTML, JavaScript اَتے web APIs سمیت۔
 firefox-developer-mdn-curriculum = { -brand-name-mdn } نصآب
+firefox-developer-a-structured-guide = ہِک کامیاب فرنٹ اینڈ ڈویلپر بݨن کِیتے ضروری مہارتاں اَتے طریقیاں کِیتے ہِک منظم اڳواݨی، تجویز کِیتے ڳئے سِکّھݨ دے وسیلیاں دے نال۔
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = { -brand-name-mdn } دی حمایت کرو اَتے اِیکوں مجموعاں، اطلاعواں اَتے کھیݙ دے پِڑاں دے نال آپݨاں بݨاؤ۔

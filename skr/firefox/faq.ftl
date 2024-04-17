@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } او کلھا وݙا براؤزر ہے جینکوں غیر منافع بخش دی حمایت حاصل ہے جیڑھا تہاݙی ذاتی معلومات دی حفاظت وِچ مدد کریندے ہوئے مشتہرین کوں تہاݙا ذاتی ڈیٹا نہیں ویچیندا۔ <a href="{ $url }"> { -brand-name-firefox-browsers } </a>  تے <a href="{ $url2 }"> ٻیاں بݨتراں دے بارے ودھیک ڄاݨو۔ </a>
 how-do-i = میں { -brand-name-firefox-browser } کین٘ویں گھن سڳداں؟
@@ -67,12 +67,9 @@ does-firefox-use = بھلا { -brand-name-firefox } ، { -brand-name-google } و
 
 firefoxs-default-search = { -brand-name-google } { -brand-name-firefox } وِچ ڈیفالٹ سرچ انجݨ ہے، جیندا مطلب ایہ ہے جو تساں ایڈریس بار کنوں براہ راست ویب تے ڳول کر سڳدے او۔ <a href="{ $url }">سرچ انجݨ دیاں ترجیحاں تے ڈیفالٹس کوں تبدیل کرݨ دے بارے وِچ ودھیک ڄاݨو۔</a>
 does-firefox-have = بھلا { -brand-name-firefox } وچ بلٹ ــ ان وی پی این ہوندے؟
-
 # Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = { -brand-name-firefox } وِچ بلٹ ان VPN (ورچوئل پرائیویٹ نیٹ ورک) کائنی، لیکن { -brand-name-mozilla }/{ -brand-name-firefox } دے ذریعہ تیار کردہ ݙو بݨتراں ہن جنہاں کوں تساں استعمال کرسڳدے او۔ نجی { -brand-name-firefox-browser } دے علاوہ جیڑھاں تہاݙے براؤزر دی حفاظت کر سڳدا ہے (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) یا ڈیوائس (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) WiFi تے کنکشن، نال تہاݙا IP پتہ۔
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } وِچ بِلٹ اِن وی پی این (ورچوئل پرائیویٹ نیٹ ورک) کائنی، پَر { -brand-name-mozilla }ہِک پراڈکٹ بݨین٘دا ہِے <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>  جیکوں تُساں نجی براؤزر { -brand-name-firefox-browser } کنوں ان٘ج استعمال کر سڳدے ہِیوے جہڑا وائی فائی اُتّے تُ٘ہاݙے کنکشن دے نال نال تُہاݙے آئی پی پتے دی وی راکھی کر سڳدا ہِے۔
 related-questions-ip = متعلقہ سوالات: بھلا { -brand-name-firefox } تہاݙ ا IP پتہ لکین٘دا ہے؟
 who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
