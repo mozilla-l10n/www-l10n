@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-szerkesztő
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Adjon hozzá szöveget PDF-ekhez a { -brand-name-firefox } PDF-szerkesztővel
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Szerkesszen ingyen PDF-eket a { -brand-name-firefox } PDF szerkesztővel
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Tekintsen még és szerkesszen PDF-fájlokat közvetlenül a { -brand-name-firefox }ban.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Ha dolgokkal kell kiegészítenie egy PDF-dokumentumot, akkor most megteheti online, a { -brand-name-firefox } segítségével. Nyissa meg a PDF-et a { -brand-name-firefox }ban, és kattintson a Szöveg vagy a Rajz gombra a jobb felső sarokban, hogy módosítsa a dokumentumot. Töltse le a fájlt, és mentse a módosításokkal.
@@ -19,3 +21,7 @@ pdf-editor-add-text = Szöveg hozzáadása
 pdf-editor-open-the-pdf-in-firefox-click-text = Nyissa meg a PDF-et a { -brand-name-firefox }ban. Kattintson a Szöveg gombra a szöveg színének és méretének beállításához, mielőtt kijelölné, hogy hová adná hozzá a szöveget a dokumentumhoz. Ilyen egyszerű!
 pdf-editor-add-drawings-or-your-signature = Rajzok (vagy az aláírása) hozzáadása
 pdf-editor-open-the-pdf-in-firefox-click-draw = Nyissa meg a PDF-et a { -brand-name-firefox }ban. Kattintson a Rajz ikonra a szín, a vastagság és az átlátszatlanság kiválasztásához, mielőtt rajzolna a dokumentumra. Valószínűleg nem lesz rendetlenebb, mint a szokásos aláírás!
+pdf-editor-add-image-with-alt-text = Kép hozzáadása alt szöveggel
+pdf-editor-open-pdf-click-image-icon = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Kattintson a kép ikonra, amely kéri a kép feltöltését. Igény szerint módosítsa a kép méretét és elhelyezését. Kattintson a „+Alt szöveg” gombra a képen, hogy adjon hozzá fényképleírást, hogy könnyebben hozzáférhetővé tegye a PDF-jét.
+pdf-editor-create-a-highlight = Kiemelés létrehozása
+pdf-editor-select-text-you-want-to = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Jelölje ki a kiemelendő szöveget, majd kattintson a kiemelés ikonra, amely a kijelölése alatt jelenik meg, vagy kattintson a jobb gombbal, hogy megtalálja a kiemelési lehetőséget a helyi menüben. Kattintson a jobb felső sarokban található ikonra, hogy szabadkézi kiemelje a PDF egyes részeit.
