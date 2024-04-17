@@ -10,6 +10,7 @@ features-index-firefox-browser-features = { -brand-name-firefox }-browserfunksje
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } is de flugge, ljochtgewicht, op privacy rjochte browser dy’t wurket op al jo apparaten.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } wurdt hieltyd flugger
+features-index-the-latest-browser-speed-benchmarks = De lêste benchmarks foar browsersnelheid bewize dat { -brand-name-firefox } rapper is dan ea.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Is { -brand-name-firefox } in rappe browser?
 # Obsolete string

@@ -16,6 +16,9 @@ installer-help-action-choose = Kies hjirûnder in download.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Download it nijste. Automatyske privacy is hjir. Download { -brand-name-firefox } om mear as { $trackers } trackers te blokkearjen.
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
