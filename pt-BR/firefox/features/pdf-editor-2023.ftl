@@ -24,3 +24,4 @@ pdf-editor-open-the-pdf-in-firefox-click-draw = Abra o PDF no { -brand-name-fire
 pdf-editor-add-image-with-alt-text = Adicionar imagem com texto alternativo
 pdf-editor-open-pdf-click-image-icon = Abra o PDF no { -brand-name-firefox }. Clique no ícone de imagem, que solicita que você envie uma imagem. Ajuste o tamanho e o posicionamento da imagem conforme necessário. Clique no botão “+Texto alternativo” na imagem para adicionar uma descrição e melhorar a acessibilidade de seu PDF.
 pdf-editor-create-a-highlight = Crie um destaque
+pdf-editor-select-text-you-want-to = Abra o PDF no { -brand-name-firefox }. Selecione o texto que você quer destacar e clique no ícone de destaque que aparece abaixo da seleção, ou clique com o botão direito para encontrar a opção de destaque no menu de contexto. Clique no ícone no alto à direita para destacar seções do PDF à mão livre.
