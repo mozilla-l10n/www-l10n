@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: تکھا، چنگائی �
 about-when-you-use-the-new-firefox = جݙاں تساں نواں { -brand-name-firefox } استعمال کریندے او، تاں تساں انٹرنیٹ کوں نروآ، حیرن کن تے سبھݨیں کوں جی آیاں کوں آکھݨ کیتے { -brand-name-mozilla } دے مشن دی حمایت کریندے ہوئے ہک تیز رفتار تجربہ حاصل کریندے او۔
 about-walking-our-privacy-talk = اساݙی پرائیویسی ٹاک دا چلݨ
 about-when-the-facebook-breach-was = جݙاں { -brand-name-facebook } دی خلاف ورزی دا انکشاف تھیا، { -brand-name-mozilla } دا فوری رد عمل ہا – تے صارف دی رازداری کوں سپورٹ کرݨ کیتے ہک { -brand-name-firefox } بݨتر۔
-about-talking-internet-issues-irl = انٹرنیٹ مسائل تے ڳالھ کریندے ہوئے IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } کے IRL پوڈ کاسٹ وِچ، میزبان Manoush Zomorodi آن لائن زندگی دیاں حقیقی کہانیاں تے ویب دے مستقبل دے بارے حقیقی ڳالھ مہاڑ دی سانجھ کریندے او۔
 about-corporation-foundation-not = کارپوریشن۔ فاؤنڈیشن۔ غیر منافع بخش
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } لوکیں کوں اساݙے آکھݨ، بݨاوݨ تے کرݨ دے ہر کم وِچ منافع کنوں زیادہ رکھیندا ہے۔ درحقیقت، اساݙے انٹرپرائز دے ڳڑھ وِچ ہک غیر منافع بخش فاؤنڈیشن ہے۔
@@ -33,6 +31,10 @@ about-read-the-manifesto = منشور پڑھو
 about-a-global-view = ہک عالمی منظر
 about-with-offices-all-over-the = <a href="{ $url }"> دنیا بھر دے دفتراں </a> دے نال، اساں متعدد ثقافتاں تے سیاق و سباق کنوں انٹرنیٹ تے غور کریندے ہیں۔
 about-san-francisco = سان فرانسسکو
+about-talking-tech-issues-irl = تیکنیکی مسائل تے ڳالھ کریندے ہوئے IRL
+# Obsolete strings (remove in 1-2 months)
+about-talking-internet-issues-irl = انٹرنیٹ مسائل تے ڳالھ کریندے ہوئے IRL
+about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } کے IRL پوڈ کاسٹ وِچ، میزبان Manoush Zomorodi آن لائن زندگی دیاں حقیقی کہانیاں تے ویب دے مستقبل دے بارے حقیقی ڳالھ مہاڑ دی سانجھ کریندے او۔
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> غیر ملازم مہماناں دا ہر سال استقبال کیتا ویندا ہے۔
 about-berlin = برلن
