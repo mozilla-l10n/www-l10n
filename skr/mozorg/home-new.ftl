@@ -12,6 +12,7 @@ home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
 home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
 home-cta-get-pocket = { -brand-name-pocket } گھنو
+home-product-relay-masks = سوکھے ورتیجݨ آلی ای میل تے فون ماسک
 home-cta-get-relay = { -brand-name-relay } گھنو
 home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھروسہ کر سڳدے ہو
 home-cta-get-vpn = { -brand-name-mozilla-vpn } گھنو

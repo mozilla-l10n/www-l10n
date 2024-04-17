@@ -25,6 +25,9 @@ vpn-features-connect-up-to =
        *[other] { $devices } ڈیوائساں تائیں کنکٹ تھیوو
     }
 vpn-features-secure = محفوظ
+vpn-features-encrypt-your-internet = آپݨی ساری انٹرنیٹ ٹریفک انکرپٹ کرو
+vpn-features-stronger-malware = تکڑی مالویئر حفاظت
 vpn-features-flexible = لچکدار
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
+vpn-features-people-over-profits = منافع کنوں ودھ لوک
