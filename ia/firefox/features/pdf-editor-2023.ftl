@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor de files PDF
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Adde texto a documentos PDF con le editor de PDF de { -brand-name-firefox }
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Modifica gratis documentos PDF con le editor de PDF de { -brand-name-firefox }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Vider e rediger Files PDF justo in { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Si tu debe adder substantia a un documento PDF, ora tu pote facer lo online con { -brand-name-firefox }. Aperi le PDF in { -brand-name-firefox } e clicca le button Texto o Designo in le angulo superior dextre pro modificar tu documento. Discarga le file pro salvar lo con tu modificationes.
@@ -19,3 +21,5 @@ pdf-editor-add-text = Adder texto
 pdf-editor-open-the-pdf-in-firefox-click-text = Aperi le PDF in { -brand-name-firefox }. Clicca le button Texto pro eliger color e dimension del texto ante seliger ubi sur le documento tu vole adder lo. Il es facile!
 pdf-editor-add-drawings-or-your-signature = Adde designos (o tu firma)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Aperi le PDF in { -brand-name-firefox }. Clicca le icone Tirar pro eliger color, spissor e opacitate ante pois poter designar sur le documento. Il non sera probabilemente alco de plus complicate que tu firma usual!
+pdf-editor-add-image-with-alt-text = Adde imagine con altere texto
+pdf-editor-create-a-highlight = Crea un evidentiation
