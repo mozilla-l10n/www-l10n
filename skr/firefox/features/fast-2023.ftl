@@ -9,6 +9,8 @@ features-fast-is-firefox-the-fastest-browser = بھلا { -brand-name-firefox } 
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } کروم کنوں گھٹ میموری استعمال کریندا ہے، لہذا تہاݙے ٻئے پروگرام تیز رفتاری نال چلدے رہ سڳدے ہن۔
 features-fast-browse-faster = تیزی نال براؤز کرو
+# The odd punctuation here is meant to represent how a computer can run slow.
+features-fast-every-computer-program-you-run = ہر کمپیوٹر پروگرام جیڑھا تُساں چلین٘دے ہِیوے کُجھ میموری گِھن٘دا ہِے۔ ڄیکر تُہاݙے کمپیوٹر دی میموری گھٹ ہِے، تاں اِین٘دی وجہ نال …ہِک ……اہم …………آلس تھی سڳدی ہِے۔ { -brand-name-firefox }دا مقصد توازن رکھݨ ہِے – ٻہوں میموری استعمال کرݨ تاں جو تُساں سَوکھ نال براؤز کر سڳو اَتے تُہاݙے کمپیوٹر کوں جوابدہ رکّھݨ کِیتے ڈِھڳ میموری چھوڑ ݙیؤ۔
 features-fast-multi-tasking-with-multiple-tabs = ڈھڳ ٹیباں نال ڈھڳ کم کرݨ
 features-fast-faster-gaming = تکھیرا کھیݙݨ
 # Native speed refers to operating speed for games written for platforms such as macOS or Windows.
