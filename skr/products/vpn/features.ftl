@@ -8,6 +8,14 @@
 vpn-features-page-title = خاص ــ { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-convenient = سوکھا
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] { $countries }+ ملکاں وچ { $servers } سرور کنوں ودھ
+       *[other] { $countries }+ ملکاں وچ { $servers } سروراں کنوں ودھ
+    }
 vpn-features-see-our-list = ساݙے سروراں دی تندیر ݙیکھو
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
