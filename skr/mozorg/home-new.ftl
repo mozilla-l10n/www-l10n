@@ -10,6 +10,7 @@ home-did-you-know-mozilla-the-maker = کیا تساں ڄاݨدے او؟ { -brand
 home-mission-driven = مشن تے مبنی۔ لوکاں کنوں چلݨ آلا
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
+home-mozilla-makes-privacy = { -brand-name-mozilla } رازدری دا احترام کرݨ آلی مصنوعات بݨیدے
 home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
 home-product-pocket-articles = ویب دے سب کنوں ودھ دلچسپ مضامین
@@ -26,7 +27,10 @@ home-is-mozilla-a-corporation = { -brand-name-mozilla } کارپوریشن ہے 
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
 home-volunteer-with-mozilla = { -brand-name-mozilla } نال رضاکار
+home-that-one-time = جو ہک واری اساں آپݨاں سورس کوڈ ݙے ݙتے۔۔۔
 home-learn-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
 home-get-good-news = خوش { -brand-name-mozilla } خبریں گھنو
 # VPN Feature
 home-featured-product = خاص پروڈکٹ
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> ورت تے آپݨے مقام تے سرگرمی کوں دھندلا کرو

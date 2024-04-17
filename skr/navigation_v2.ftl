@@ -83,3 +83,4 @@ navigation-v2-donate-your-voice-so-the-future = آپݨی اواز دان کرو 
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = نویں، تلویں سطح دی، اسمبلی وانگوں زبان بارے ٻیا ڄاݨو۔
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } جدتی منصوبے
+navigation-v2-discover-ways-to-bring = حیاتی وچ روشن خیالات گھن آوݨ دے طریقے دریافت کرو۔
