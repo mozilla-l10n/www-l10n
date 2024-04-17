@@ -11,11 +11,13 @@
 
 vpn-windows-download-page-title = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-windows-downloading-mozilla-vpn = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کریندا پئے ۔۔۔
+vpn-windows-go-to-your-downloads = آپݨے ڈاؤن لوڈ فولڈر تے ون٘ڄو تے .msi فائل تے ڈبل کلک کرو
 
 ## Mac download page
 
 vpn-mac-download-page-title = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کریندا پئے۔۔۔
+vpn-mac-go-to-your-downloads = آپݨے ڈاؤن لوڈ فولڈر تے ون٘ڄو تے .pkg فائل تے ڈبل کلک کرو
 
 ## Shared strings
 

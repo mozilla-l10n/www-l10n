@@ -14,6 +14,7 @@ vpn-landing-desc = تمام ایپاں کیتے پورے آلہ دے تحفظ ک
 vpn-landing-powerful-privacy-for-peace = ذہنی سکون کیتے تکڑی رازداری ورتو
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-how-a-vpn-helps-you = وی پی این تہاݙی کینویں مدد کریندے
+vpn-landing-keeps-your-data-safe = عوامی وائی فائی تے تہاݙا ڈیٹا محفوظ رکھیندے
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -32,6 +33,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-see-all-features = ساریاں خاصیتاں ݙیکھو
 vpn-landing-fram-a-brand-you-can-trust = ہک اینجھا برانڈ جیندے اُتے تساں بھروسہ کر سڳدے ہو
+vpn-landing-one-subscription-for-all-your = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
 vpn-landing-learn-more-from-our-experts = ساݙے ماہراں کنوں ٻیا سکھو
 vpn-landing-what-is-an-ip-address = آئی پی پتہ کیا ہے؟
 vpn-landing-see-more-resources = ٻئے وسائل ݙیکھو

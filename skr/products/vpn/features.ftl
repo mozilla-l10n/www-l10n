@@ -30,4 +30,5 @@ vpn-features-stronger-malware = تکڑی مالویئر حفاظت
 vpn-features-flexible = لچکدار
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
+vpn-features-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
 vpn-features-people-over-profits = منافع کنوں ودھ لوک

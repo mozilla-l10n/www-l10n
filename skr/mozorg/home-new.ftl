@@ -11,6 +11,7 @@ home-did-you-know-mozilla-the-maker = کیا تساں ڄاݨدے او؟ { -brand
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
 home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
+home-product-pocket-articles = ویب دے سب کنوں ودھ دلچسپ مضامین
 home-cta-get-pocket = { -brand-name-pocket } گھنو
 home-product-relay-masks = سوکھے ورتیجݨ آلی ای میل تے فون ماسک
 home-cta-get-relay = { -brand-name-relay } گھنو
