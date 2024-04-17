@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = عوام کیتے انٹرنیٹ، منافع کیتے کائنی
 home-did-you-know-mozilla-the-maker = کیا تساں ڄاݨدے او؟ { -brand-name-mozilla } — { -brand-name-firefox } دا بݨاوݨ والا — انٹرنیٹ کوں ہک عالمی عوامی وسیلہ رکھݨ کیتے لڑدا ہے، جیڑھا سبھݨاں کیتے کھلا تے قابل رسائی ہے۔
+home-mission-driven = مشن تے مبنی۔ لوکاں کنوں چلݨ آلا
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
 home-product-firefox-browsing = نجی تے محفوظ براؤزنگ

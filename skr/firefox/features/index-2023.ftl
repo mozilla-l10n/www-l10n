@@ -17,6 +17,7 @@ features-index-firefox-uses-less-memory-than = { -brand-name-firefox } کروم 
 features-index-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
 features-index-free-password-manager = مفت پاس ورڈ منیجر
 features-index-customize-your-firefox-browser = آپݨا { -brand-name-firefox } براؤزر لوڑ مطابق کرو
+features-index-choose-how-your-browser-looks = چُݨو جو ہزاراں مُفت تھیماں دے نال تُہاݙا براؤزر کین٘ویں لڳدا ہِے۔
 features-index-firefox-browser-sync = { -brand-name-firefox } براؤزر ہم وقت
 features-index-bookmark-manager = نشانی منیجر
 features-index-organize-your-bookmarks-with = فولڈراں تے ٹیگاں نال آپݨیاں نشانیاں منظم کرو۔

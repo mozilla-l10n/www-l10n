@@ -11,4 +11,5 @@ password-manager-free-password-manager = مفت پاس ورڈ منیجر
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } پاس ورڈ مینیجر تہاݙے تمام پاس ورڈز کوں ہک جاہ محفوظ کریندا ہے تاں جو تساں آپوں ڄاݨ سائٹاں تے لاگ ان تھی سڳو، یا ہتھیکڑے پاس ورڈز کوں بازیافت کر سڳو۔
 password-manager-password-autofill-for-easy-logins = سوکھے لاگ اناں کیتے آٹو فل پاس ورڈ
 password-manager-import-passwords = پاس ورڈز درآمد کرو
+password-manager-no-more-reusing-your-passwords = آپݨے پاس ورڈاں کوں دوبارہ ورتݨ دی ٻئی لوڑ کائنی
 password-manager-password-security-alerts = پاس ورڈ سلامتی الرٹس
