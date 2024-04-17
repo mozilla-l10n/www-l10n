@@ -22,3 +22,5 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Abra o PDF no { -brand-name-fire
 pdf-editor-add-drawings-or-your-signature = Adicione desenhos (ou sua assinatura)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Abra o PDF no { -brand-name-firefox }. Clique no ícone 'Desenho' para escolher uma cor, espessura e opacidade antes de desenhar no documento. Talvez assinar assim não seja pior do que sua assinatura habitual!
 pdf-editor-add-image-with-alt-text = Adicionar imagem com texto alternativo
+pdf-editor-open-pdf-click-image-icon = Abra o PDF no { -brand-name-firefox }. Clique no ícone de imagem, que solicita que você envie uma imagem. Ajuste o tamanho e o posicionamento da imagem conforme necessário. Clique no botão “+Texto alternativo” na imagem para adicionar uma descrição e melhorar a acessibilidade de seu PDF.
+pdf-editor-create-a-highlight = Crie um destaque
