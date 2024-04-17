@@ -33,7 +33,12 @@ vpn-turn-on-vpn = 4. VPN’i açın
 ## FAQ Strings
 
 vpn-download-faq-need-help = Başlamak için yardıma mı ihtiyacınız var?
+vpn-download-faq-here-are-some = { -brand-name-mozilla-vpn } kurulumu hakkında en sık sorulan sorulardan bazıları
 vpn-download-faq-why-use = Neden { -brand-name-mozilla-vpn } kullanmalıyım?
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Gerçek <a href="{ $ip }">IP adresinizi</a> gizler. Böylece hem kimliğinizi korumaya yardımcı olur hem de ziyaret ettiğiniz web sitelerinden konumunuzu gizler.
+vpn-download-faq-encrypting = İnternet trafiğinizi şifreler: Böylece hiç kimse çevrimiçi etkinliğinizi göremez.
 vpn-download-faq-working = VPN’in çalıştığını nasıl anlayabilirim?
 vpn-download-faq-add-device = Nasıl başka bir cihaz ekleyebilirim?
 vpn-download-faq-need-more = Daha fazla yardıma mı ihtiyacınız var?

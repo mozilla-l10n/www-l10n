@@ -7,10 +7,14 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF düzenleyicisi
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’lere metin ekleyin
+# page title
+pdf-editor-add-text-to-pdfs-v2 = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’leri ücretsiz düzenleyin
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = PDF dosyalarını doğrudan { -brand-name-firefox }’ta görüntüleyip düzenleyin.
 pdf-editor-fill-in-forms-online-without = Formları yazdırmadan ve taramadan çevrimiçi doldurun
 pdf-editor-add-text = Metin ekleyin
 pdf-editor-add-drawings-or-your-signature = Çizim (veya imzanızı) ekleyin
+pdf-editor-add-image-with-alt-text = Alternatif metinli resim ekleyin
+pdf-editor-create-a-highlight = Metinleri vurgulayın
