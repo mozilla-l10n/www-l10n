@@ -152,6 +152,8 @@ vpn-shared-mozilla-vpn-is-not-yet-available = اڄ تہاݙے ملک وچ { -bra
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = جین٘ویں جو ایندے وچ ݙٹھا ڳئے
 
 ## Unsupported language notification
 

@@ -11,3 +11,4 @@ pdf-editor-pdf-editor = پی ڈی ایف ایڈیٹر
 pdf-editor-view-and-edit-pdf-files-right-in = پی ڈی ایف فائلاں  کوں { -brand-name-firefox } وچ سدھا ݙیکھو تے تبدیلی کرو۔
 pdf-editor-fill-in-forms-online-without = پرنٹنگ تے سکیننگ دے بغیر آن لائن فارم پُر کرو
 pdf-editor-add-text = عبارت شامل کرو
+pdf-editor-add-drawings-or-your-signature = ڈرائنگ شامل کرو(یا آپݨے دستخط)

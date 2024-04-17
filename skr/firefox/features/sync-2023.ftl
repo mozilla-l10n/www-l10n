@@ -7,3 +7,4 @@
 
 # page title
 features-sync-firefox-browser-sync = { -brand-name-firefox } براؤزر ہم وقت
+features-sync-send-tabs-from-one-device-to-another = ہک ڈیوائس کنوں ٻئی ڈیوائس تے ٹیباں بھیڄو

@@ -9,6 +9,8 @@ vpn-pricing-page-title = قیمت ــ { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
+# Pricing section
+vpn-pricing-included-in-subscription = سبسکرپشن وچ شامل تھیا:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =

@@ -22,5 +22,6 @@ home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سک�
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
 home-volunteer-with-mozilla = { -brand-name-mozilla } نال رضاکار
 home-learn-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
+home-get-good-news = خوش { -brand-name-mozilla } خبریں گھنو
 # VPN Feature
 home-featured-product = خاص پروڈکٹ
