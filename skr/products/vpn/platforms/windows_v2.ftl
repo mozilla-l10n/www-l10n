@@ -7,3 +7,4 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = { -brand-name-mozilla } کنوں ونڈو کیتے وی پی این گھنو
+vpn-windows-stay-safe = وی پی این نال آپݨی ونڈو ڈیوائس تے محفوظ تے سلامتی نال راہوو

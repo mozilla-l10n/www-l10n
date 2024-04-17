@@ -26,6 +26,7 @@ vpn-download-not-in-country = افسوس، تہاݙے ملک وچ { -brand-name-
 vpn-open-the-file = 1۔ فائل کھولو
 vpn-launch-the-app = 2۔ ایپ لانچ کرو
 vpn-login-or-signup = 3۔ لاگ ان یا سائن اپ
+vpn-enter-your-email = لاگ ان تھیوݨ یا سائن اپ کرݨ  تے شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو
 vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
 
 ## FAQ Strings
