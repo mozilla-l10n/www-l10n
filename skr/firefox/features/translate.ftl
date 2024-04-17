@@ -8,6 +8,7 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } نال ویب ورقے دا ترجمہ کرو
 features-translate-translate-the-web = ویب دا ترجمہ کرو
+features-translate-when-you-translate-a-webpage = تساں جہڑے ویلے ویب ورقے دا ترجمہ کریسو، ایہ پرائیویٹ تھی ویندے
 features-translate-what-languages-are-currently = حالیہ کہڑیاں زباناں دی سپورٹ ہے؟
 features-translate-and-more-languages-are-in = ڈیویلپمنٹ وچ ٻیاں زباناں شامل کرو!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } تہاݙی زبان الیندے
