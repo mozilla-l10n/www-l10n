@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Dịch một trang web với { -brand-name-firefox }
-features-translate-translate-the-web = Dịch trang web với { -brand-name-firefox }
+features-translate-translate-the-web = Dịch trang web
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Dịch thuật của { -brand-name-firefox } là tính năng dịch tích hợp cho phép bạn dễ dàng duyệt web bằng ngôn ngữ yêu thích của mình. Tìm hiểu thêm về cách hoạt động của tính năng này trong { -brand-name-firefox }, và làm thế nào { -brand-name-mozilla } giúp giữ những gì bạn dịch ở chế độ riêng tư.
 features-translate-one-of-the-best-things-about = Một trong những điều tuyệt vời nhất về Internet là chúng ta có thể truy cập nội dung trên toàn thế giới. Cho dù đó là các bài báo, blog hay thậm chí là bài đánh giá về tiện ích công nghệ mới nhất của bạn, bạn đều có thể tìm thấy tất cả trên trang web dường như không bao giờ kết thúc. Với tính năng dịch thuật mới nhất của { -brand-name-firefox }, công cụ này sẽ liên tục dịch một trang web theo thời gian thực.
