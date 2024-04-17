@@ -15,6 +15,7 @@ home-cta-get-pocket = { -brand-name-pocket } گھنو
 home-cta-get-relay = { -brand-name-relay } گھنو
 home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھروسہ کر سڳدے ہو
 home-cta-get-vpn = { -brand-name-mozilla-vpn } گھنو
+home-product-monitor-data = ڈیٹا دی خلاف ورزی دے الرٹ
 home-cta-get-monitor = { -brand-name-monitor } گھنو
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
