@@ -7,6 +7,9 @@
 
 vpn-features-page-title = خاص ــ { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+# Line break for visual format only
+vpn-features-features-that-protect = خصوصیات جہڑیاں<br> تہاݙی حیاتی دی آن لائن حفاظت کریندیاں ہن
 vpn-features-convenient = سوکھا
 # Variables
 #   $servers (number) - number of VPN servers

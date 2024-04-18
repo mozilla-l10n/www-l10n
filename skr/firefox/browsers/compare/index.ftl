@@ -27,8 +27,10 @@ compare-index-conclusion = نتیجہ:
 compare-index-and-the-winner-is = تے جیتݨ آلا ہے ۔۔۔
 # Obsolete string
 compare-index-find-out-how-firefox-chrome = معلوم کرو جو کیویں  { -brand-name-firefox }, { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }  تے { -brand-name-ie }{ -brand-name-ie } رازداری، افادیت تے پورٹیبلٹی دے لحاظ نال مختلف ہن۔
+compare-index-find-out-how-firefox-chrome-v2 = معلوم کرو جو کیویں { -brand-name-firefox }، کروم، ایج، سفاری، اوپیرا اَتے بریو رازداری افادیت اَتے پورٹیبیلٹی دے لحاظ نال ان٘ج ہِن۔
 # Obsolete string
 compare-index-looking-for-a-better-browser = ہک براؤزر دی ڳول ہے؟ فیصلہ کرݨ وِچ تہاݙی مدد کرݨ کیتے اساں { -brand-name-firefox } دا { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } تے { -brand-name-ie } نال موازنہ کریسوں۔
+compare-index-looking-for-a-better-browser-v2 = بَھلا ہِک چَنڳے براؤزر دی ڳویڑ ہِے؟ اَساں تُہاکوں فین٘صلہ کرݨ وِچ مَدَت کرݨ کِیتے { -brand-name-firefox } دا، کروم، ایج، سفاری، اوپیرا اَتے بریو نال موازنہ کریسوں۔
 # Obsolete string
 compare-index-so-is-your-browser-the-best = تے ول بھلا  تہاݙے آن لائن کم کیتے تہاݙا براؤزر بہترین ہے؟تساں ویب نال کین٘ویں تجربہ کریندے ہو، اہندے وچ صحیح براؤزر ٻہوں فرق پا سڳدا ہے۔ ایں سانگے ، مزید وقت ون٘ڄائے  بغیر ، آؤ { -brand-name-google } { -brand-name-chrome }, { -brand-name-firefox }, { -brand-name-safari }, { -brand-name-opera },{ -brand-name-brave }، { -brand-name-microsoft } { -brand-name-ie } تے { -brand-name-edge } دا موازنہ کرو - تے ݙیکھو جو تہاݙیاں ضروریات کیتے کہڑا مناسب ہے۔
 compare-index-so-is-your-browser-the-best-v2 = تے ول بھلا  تہاݙے آن لائن کم کیتے تہاݙا براؤزر بہترین ہے؟تساں ویب نال کین٘ویں تجربہ کریندے ہو، اہندے وچ صحیح براؤزر ٻہوں فرق پا سڳدا ہے۔ ایں سانگے ، مزید وقت ون٘ڄائے  مُتُّوں، آؤ، گوگل کروم، { -brand-name-firefox }، سفاری، اوپیرا، بریو اَتے ایج دا موازنہ کرو — اَتے ݙیکھو جو کِہڑا تُہاݙیاں لوڑاں دے مطابق ہِے۔

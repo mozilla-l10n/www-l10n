@@ -13,6 +13,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: آپݨی ساری ڈیوائس 
 vpn-landing-desc = تمام ایپاں کیتے پورے آلہ دے تحفظ کیتے { -brand-name-mozilla-vpn } استعمال کرو۔ { $countries } کنوں زائد ملکاں وِچ سرورز دے نال، تساں کتھاؤں وی، کتھائیں جڑ سڳدے او۔
 vpn-landing-powerful-privacy-for-peace = ذہنی سکون کیتے تکڑی رازداری ورتو
 vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
+vpn-landing-see-all-the-ways-mozilla-vpn = سارے او طریقے ݙیکھو { -brand-name-mozilla-vpn } تہاݙی حفاظت کریندے۔
 vpn-landing-how-a-vpn-helps-you = وی پی این تہاݙی کینویں مدد کریندے
 vpn-landing-keeps-your-data-safe = عوامی وائی فائی تے تہاݙا ڈیٹا محفوظ رکھیندے
 vpn-landing-features = خاص
