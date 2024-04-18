@@ -16,3 +16,5 @@ pdf-editor-view-and-edit-pdf-files-right-in = پی ڈی ایف فائلاں  ک�
 pdf-editor-fill-in-forms-online-without = پرنٹنگ تے سکیننگ دے بغیر آن لائن فارم پُر کرو
 pdf-editor-add-text = عبارت شامل کرو
 pdf-editor-add-drawings-or-your-signature = ڈرائنگ شامل کرو(یا آپݨے دستخط)
+pdf-editor-add-image-with-alt-text = آلٹ عبارت نال تصویر شامل کرو
+pdf-editor-create-a-highlight = ہک ہائی لائٹ بݨاؤ
