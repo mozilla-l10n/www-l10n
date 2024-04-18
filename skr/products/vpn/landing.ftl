@@ -72,6 +72,9 @@ vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -b
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } تے ودھ)
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 تے ودھ)
 vpn-landing-faq-refund-question-heading = { -brand-name-mozilla-vpn } دی ریفنڈ پالیسی کیا ہے؟
 vpn-landing-faq-refund-question-desc-v2 = پہلی واری جݙاں تساں { -brand-name-mozilla-vpn } کوں { -brand-name-mozilla } دی ویب سائٹ دے ذریعے سبسکرائب کریندے او، جے تساں اپݨا اکاؤنٹ پہلے 30 ݙینہاں دے اندر منسوخ کریندے او، تاں تساں رقم دی واپسی دی درخواست کر سڳدے او تے { -brand-name-mozilla } تہاݙی پہلی رکنیت دی مدت کوں واپس کر ݙیسے۔
 vpn-landing-faq-refund-question-additional-desc = جے تساں اپݨی رکنیت { -brand-name-apple }{ -brand-name-app-store } یا { -brand-name-google-play } سٹور کنوں درون ایپ خریداری دے ذریعے مل گھندے او، تاں تہاݙی ادائیگی { -brand-name-app-store } دیاں شرطاں تہاکوں ایں طراں دیاں خریداریاں کیتے کہیں وی بلنگ تے رقم دی واپسی دی پچھ ڳجھ کوں { -brand-name-apple } یا { -brand-name-google } کوں بھیڄݨا چاہیدا ہے، جیویں مناسب ہووے۔

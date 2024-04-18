@@ -33,6 +33,9 @@ vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
 
 vpn-download-faq-need-help = بھلا شروع کرݨ کیتے مدد دی لوڑ ہے؟
 vpn-download-faq-why-use = میں { -brand-name-mozilla-vpn } کیوں ورتاں؟
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = آپݨاں اصلی <a href="{ $ip }"> آئی پی پتہ</a>لُکاوݨ۔ ایہ تہاݙی سُن٘ڄاݨ دی حفاظت کریندے  تے جہڑیاں ویب سائٹاں تے تساں ویندے ہو انہاں دا  مقام دھندلا کریندے۔
 vpn-download-faq-working = بَھلا میکوں کیویں پتہ لڳسی جو وی پی این کَم کرین٘دا پِیا ہِے؟
 vpn-download-faq-add-device = میں ہک ٻئی ڈیوائس کین٘ویں شامل کر سڳداں؟
 vpn-download-faq-best-practices = وی پی این دے کُجھ بہترین طریقے کیا ہِن؟

@@ -38,6 +38,7 @@ vpn-features-stronger-malware = تکڑی مالویئر حفاظت
 vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی این ایس کِیتے حمایت
 vpn-features-flexible = لچکدار
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
+vpn-features-set-different-locations = { -brand-name-firefox } وچ ہر ٹیب کیتے مختلف لوکیشناں مقرر کرو
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 vpn-features-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
