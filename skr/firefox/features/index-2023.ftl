@@ -26,8 +26,11 @@ features-index-access-your-firefox-bookmarks = کہیں وی ڈیوائس تے �
 features-index-bookmark-manager = نشانی منیجر
 features-index-organize-your-bookmarks-with = فولڈراں تے ٹیگاں نال آپݨیاں نشانیاں منظم کرو۔
 features-index-private-browsing-mode = نجی براؤزنگ موڈ
+features-index-automatically-delete-cookies = کوکیز کوں خود کار طریقے نال حذف کرو اَتے آپݨے براؤزر دی سرگزشت کوں بند کرݨ تے مِٹا ݙیؤ۔
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ایڈ آن تے براؤزر ایکسٹینشناں
+features-index-add-new-tools-capabilities-and = آپݨے براؤزر وِچ نویں ٹولز، صلاحیتاں اَتے تفریحی شئیں رلاؤ۔
 features-index-pinned-browser-tabs = پن تھیاں براؤزر ٹیباں
+features-index-keep-your-favorite-pages-open = آپݨے من بھان٘دے ورقیاں کوں کُھلّا رکّھو اَتے صرف ہِک کلک دی وِتّھ تے۔ آپݨے ای میل یا میسجنگ ایپس اُتے نظر رکّھݨ کِیتے چِمٻاڑے ڳئے ٹیبز دا استعمال کرو۔
 features-index-eyedropper-tool = آئی ڈراپر ٹول
 features-index-identify-the-exact-color-on-a = ورقے اُتّے صحیح رنگ دی سُن٘ڄاݨ کرو اَتے اِین٘دا ہیکس کوڈ کاپی کرو۔
 features-index-pdf-editor = پی ڈی ایف ایڈیٹر
@@ -38,6 +41,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } آپݨے �
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = { -brand-name-firefox } دے بلٹ ان فنگر پرنٹنگ بلاکرز دے نال اپݨے نیڑے تیڑے چمبڑیئے اشتہاراں کوں ختم کرو۔
 features-index-translate-the-web = ویب دا ترجمہ کرو
+features-index-translate-websites-to-your = آپݨے { -brand-name-firefox }براؤزر وِچ ویب سائٹاں دا براہِ راست آپݨی ٻولی وِچ ترجمہ کرو – آپݨے ڈیٹا کوں کئیں ٻئے نال ساجھا کِیتے مُتُّوں۔
 # Obsolete string
 features-index-translate-more-than = 100 کنوں زیادہ زباناں کنوں اپݨی زبان وِچ براہ راست اپݨے  { -brand-name-firefox } براؤزر وِچ ترجمہ کرو - پہلے کنوں کتھائیں زیادہ آسان۔
 features-index-picture-in-picture = تصویر وِچ تصویر

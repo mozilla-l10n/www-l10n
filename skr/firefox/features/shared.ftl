@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = { -brand-name-firefox } خاصیتاں
 features-shared-footer-cta-title = { -brand-name-firefox } نال ٻیا کجھ کرو
+features-shared-footer-cta-desc = تِکّھا، ہَولا جیہاں، رازداری اُتے مرکوز براؤزر حاصل کرو جیکوں ہِک غیر منافع بخش دی حمایت حاصل ہِے اَتے تُہاݙے سبّھے ڈیوائساں اُتے کم کرین٘دا ہِے۔
 features-shared-footer-cta-button = { -brand-name-firefox } ڈاؤن لوڈ کرو
 features-shared-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
 features-shared-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
