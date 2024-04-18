@@ -19,3 +19,4 @@ mozsocial-invite-twitter-handle-label = ٹویٹر ہینڈل؟
 # Mastodon is a brand name. "Handle" is jargon for a user name.
 mozsocial-invite-mastodon-handle-label = مسٹ ڈون ہینڈل؟
 mozsocial-invite-thanks-youre-on-the-list = شکریہ! تساں تندیر وچ ہو
+mozsocial-invite-mozillasocial-is-currently = { -brand-name-mozilla-social }ایں ویلے ہِک محدود بیٹا جَتّھے کِیتے دستیاب ہِے کیوں جو اَساں ترجمہ کرین٘دے ہِسے، شرکاء کنوں اِن پُٹ حاصل کرین٘دے ہِسے، سِکھدے ہِسے اَتے تجربے کوں بہتر بݨین٘دے ہِسے۔ اَساں تُہاکوں ہِک سَݙّا ای میل کریسوں کیوں جو اَساں ہَولے ہَولے وَدھارا کرین٘دے ہِسے۔

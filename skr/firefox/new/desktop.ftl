@@ -135,6 +135,9 @@ firefox-desktop-download-as-the-internet = جیویں جیویں انٹرنیٹ 
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } تہاݙے تمام آلات تے دستیاب ہے۔ اپݨے ٹیباں، تاریخ تے نشانیاں اپݨے نال گھن ونڄو۔ تہاکوں صرف ہک <a { $attrs }>{ -brand-name-firefox }  اکاؤنٹ </a> دی ضرورت ہے۔
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }تُہاݙے سبّھے ڈیوائساں اُتے دستیاب ہِے۔ آپݨے ٹیبز، ہسٹری اَتے بُک مارکس آپݨے نال گِھن ون٘ڄو۔ تُہاکوں صرف ہِک <a { $attrs }>{ -brand-name-mozilla-account }</a> دی لوڑ ہِے اَتے تُہاکوں ہم وقت پذیری اَتے ٻئے { -brand-name-mozilla }مصنوعات تئیں رسائی مِلسی۔
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = براہ راست براؤزر وِچ بݨائے ڳئے اساݙے <a { $attrs }> سکرین شاٹ </a> ٹول دے نال آن لائن کہیں وی چیز دی اعلیٰ ریزولوشن تصویر حاصل کرو۔
 # Variables:

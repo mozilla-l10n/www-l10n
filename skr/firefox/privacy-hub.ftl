@@ -65,6 +65,7 @@ firefox-privacy-hub-meet-four-of-the-most-common = ٹریکرز دی سبھ تو
 firefox-privacy-hub-always-in-your-control = ہمیشہ تہاݙے قاٻو وچ
 firefox-privacy-hub-want-to-customize-what = کیڑھی چیز کوں بلاک کیتا ویندا ہے اپݨی مرضی دے مطابق کرݨ چاہندے او؟ تہاݙیاں ترتیباں صرف ہک کلک دی دوری تے ہن
 firefox-privacy-hub-protection-beyond-tracking = ٹریکنگ کنوں ٻاہر تحفظ
+firefox-privacy-hub-if-you-have-a-mozilla-account = جے تہاݙے کول { -brand-name-mozilla-account }ہے، تاں تساں ایہ وی ݙیکھ سڳدے او جو اساں تہاݙی ذاتی معلومات تے پاس ورڈز دی حفاظت وِچ کیویں مدد کریندے پئے ہیں۔
 # Obsolete string
 firefox-privacy-hub-if-you-have-a-firefox-account = جے تہاݙے کول { -brand-name-firefox-account } ہے، تاں تساں ایہ وی ݙیکھ سڳدے او جو اساں تہاݙی ذاتی معلومات تے پاس ورڈز دی حفاظت وِچ کیویں مدد کریندے پئے ہیں۔
 # Variables:

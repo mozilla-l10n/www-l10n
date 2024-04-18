@@ -27,10 +27,17 @@ vpn-features-connect-up-to =
         [one] { $devices } ڈیوائس تائیں کنکٹ تھیوو
        *[other] { $devices } ڈیوائساں تائیں کنکٹ تھیوو
     }
+vpn-features-supported-platforms = ونڈوز، میک او ایس، اینڈرائیڈ، آئی او ایس اَتے لائنکس آپریٹنگ سسٹماں اُتے حمایت یافتہ۔
+vpn-features-no-bandwidth = کُئی بینڈ وِتھ حَداں یا تھروٹلنگ کائنی
+vpn-features-including-no-data = کُئی ڈیٹا کیپ یا رفتار دی حد شامل کائنی۔
+vpn-features-fast-network = گیماں دے وِچالے وی نیٹ ورک دی تِکّھی رفتار
 vpn-features-secure = محفوظ
+vpn-features-block-ads = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کرو
 vpn-features-encrypt-your-internet = آپݨی ساری انٹرنیٹ ٹریفک انکرپٹ کرو
 vpn-features-stronger-malware = تکڑی مالویئر حفاظت
+vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی این ایس کِیتے حمایت
 vpn-features-flexible = لچکدار
+vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 vpn-features-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے

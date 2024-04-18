@@ -32,6 +32,7 @@ about-a-global-view = ہک عالمی منظر
 about-with-offices-all-over-the = <a href="{ $url }"> دنیا بھر دے دفتراں </a> دے نال، اساں متعدد ثقافتاں تے سیاق و سباق کنوں انٹرنیٹ تے غور کریندے ہیں۔
 about-san-francisco = سان فرانسسکو
 about-talking-tech-issues-irl = تیکنیکی مسائل تے ڳالھ کریندے ہوئے IRL
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }دے ملٹی ایوارڈ یافتہ پوڈ کاسٹ وِچ، میزبان بریجیٹ ٹاڈ انٹرنیٹ اَتے اے آئی دے مستقبل کوں تشکیل ݙیوݨ آلے لوکاں نال ڳالھ کرین٘دے پئے ہِن۔
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = انٹرنیٹ مسائل تے ڳالھ کریندے ہوئے IRL
 about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } کے IRL پوڈ کاسٹ وِچ، میزبان Manoush Zomorodi آن لائن زندگی دیاں حقیقی کہانیاں تے ویب دے مستقبل دے بارے حقیقی ڳالھ مہاڑ دی سانجھ کریندے او۔

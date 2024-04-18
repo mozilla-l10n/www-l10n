@@ -9,6 +9,7 @@
 ## Required
 
 whatsnew-account-main-headline = کہیں کھاتے دی لوڑ کائنی۔ بھل تساں ہک چاہندے ہوسو۔
+whatsnew-account-main-lead-in-v2 = { -brand-name-firefox }براؤزر تُہاݙے بارے وِچ ایݙا تھولا ڈیٹا کَٹّھا کرین٘دا ہِے، اَساکوں تُہاݙے ای میل پتے دے وی لوڑ کائنی۔ پَر جہڑیلے تُساں اِیکوں { -brand-name-mozilla-account }بݨاوݨ کِیتے ورتین٘دے ہِیوے، تاں تُہاکوں { -brand-name-firefox }کنوں اَن٘ج رازداری دی راکھی کرݨ آلیاں مصنوعات دی پوری صف تئیں رسائی مِل وین٘دی ہِے۔
 whatsnew-account-mozilla-cta = { -brand-name-mozilla-account } گھنو
 
 ##

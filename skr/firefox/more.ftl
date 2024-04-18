@@ -42,6 +42,7 @@ seven-of-the = براہ راست مقابلے وچ ست بہترین براؤز�
 six-of-the-best = براہ راست مقابلے وِچ چھی بہترین براؤزر
 # Obsolete string
 we-compare-firefox = اساں { -brand-name-firefox } دا { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } تے { -brand-name-ie } نال موازنہ کریسوں۔ تہاݙا فیصلہ کرݨ وِچ  تہاݙی مدد کرݨ کیتے
+we-compare-firefox-v2 = اَساں تُہاکوں فین٘صلہ کرݨ وِچ مَدَت کرݨ کِیتے { -brand-name-firefox } دا کروم، ایج، سفاری، اوپیرا اَتے بریو نال موازنہ کرین٘دے ہِسے۔
 comparing-firefox-chrome = { -brand-name-firefox-browser } دا { -brand-name-google }{ -brand-name-chrome } دے نال ویورا
 big-isnt-always = وݙا ہمیشاں بہترین نہیں ہوندا۔ اوندے بجائے آزادی دا انتخاب کرو۔
 comparing-firefox-brave = { -brand-name-firefox-browser } نال { -brand-name-brave } دا ویورا کریندا پئے
@@ -69,3 +70,4 @@ firefox-more-more-and-more = اساݙی زندگی وِچ زیادہ توں زی
 firefox-more-avoid-misinformation-heading = آن لائن غلط معلومات کنوں بچو – اتھ { -brand-name-firefox } مدد کیتے ہے
 firefox-more-avoid-misinformation-desc = گھٹ غلط معلومات ݙیکھݨ تے تہاݙے کیتے اہم چیزاں تے توجہ مرکوز کرݨ کیتے تجویزاں ݙیکھو۔
 firefox-more-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
+firefox-more-were-focused-on-your-right-to = اَساں تُہاݙے رازداری دے حق اُتّے بھال مرکوز کرین٘دے پئے ہِسے۔ تُہاݙا ڈیٹا تُہاݙی ویب سرگرمی، تُہاݙی آن لائن حیاتی { -brand-name-firefox } دے نال محفوظ ہِے۔

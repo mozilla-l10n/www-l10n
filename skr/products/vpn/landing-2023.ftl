@@ -16,6 +16,7 @@ vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-see-all-the-ways-mozilla-vpn = سارے او طریقے ݙیکھو { -brand-name-mozilla-vpn } تہاݙی حفاظت کریندے۔
 vpn-landing-how-a-vpn-helps-you = وی پی این تہاݙی کینویں مدد کریندے
 vpn-landing-keeps-your-data-safe = عوامی وائی فائی تے تہاݙا ڈیٹا محفوظ رکھیندے
+vpn-landing-blocks-advertisers-from = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کریندے
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -32,6 +33,8 @@ vpn-landing-more-than-servers-in-countries =
         [one] { $countries }+ ملکاں وچ { $servers } سرور کنوں ودھ
        *[other] { $countries }+ ملکاں وچ { $servers } سروراں کنوں ودھ
     }
+vpn-landing-fast-network-speeds-even-while = گیماں دے وِچالے وی نیٹ ورک دی تِکّھی رفتار
+vpn-landing-no-bandwidth-restrictions-or = کُئی بینڈ وِتھ حَداں یا تھروٹلنگ کائنی
 vpn-landing-see-all-features = ساریاں خاصیتاں ݙیکھو
 vpn-landing-fram-a-brand-you-can-trust = ہک اینجھا برانڈ جیندے اُتے تساں بھروسہ کر سڳدے ہو
 vpn-landing-one-subscription-for-all-your = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
