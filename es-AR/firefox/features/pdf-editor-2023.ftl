@@ -10,7 +10,7 @@ pdf-editor-pdf-editor = Editor de PDF
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Agregar texto a los PDF con el editor de PDF de { -brand-name-firefox }
 # page title
-pdf-editor-add-text-to-pdfs-v2 = Edita archivos PDF gratis con el editor de PDF de { -brand-name-firefox }
+pdf-editor-add-text-to-pdfs-v2 = Editá archivos PDF gratis con el editor de PDF de { -brand-name-firefox }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Ver y editar archivos PDF directamente en { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Si necesitás agregar cosas a un documento PDF, ahora podés hacerlo en línea con { -brand-name-firefox }. Abrí el PDF en { -brand-name-firefox } y hacé clic en los botones Texto o Dibujar en la esquina superior derecha para hacer cambios en tu documento. Descargá el archivo para guardarlo con tus cambios.
@@ -22,6 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Abrí el PDF en { -brand-name-fi
 pdf-editor-add-drawings-or-your-signature = Agregar dibujos (o tu firma)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Abrí el PDF en { -brand-name-firefox }. Hacé clic en el icono Dibujar para elegir un color, grosor y opacidad antes de poder dibujar en el documento. ¡Probablemente no quede más desordenado que tu firma habitual!
 pdf-editor-add-image-with-alt-text = Agregar imagen con texto alternativo
-pdf-editor-open-pdf-click-image-icon = Abrí el PDF en { -brand-name-firefox }. Haz clic en el icono de la imagen, que te pedirá que subas una imagen. Ajusta el tamaño y la ubicación de tu imagen según sea necesario. Haz clic en el botón “+ Texto alternativo” de la imagen para agregar una descripción de la foto y hacer que tu PDF sea más accesible.
-pdf-editor-create-a-highlight = Crear un destacado
-pdf-editor-select-text-you-want-to = Abrí el PDF en { -brand-name-firefox }. Seleccione el texto que quiere resaltar, luego haga clic en el ícono de resaltar que aparece debajo de su selección, o haga clic con el botón derecho para encontrar la opción de resaltar en el menú contextual. Haz clic en el icono en la parte superior derecha para resaltar secciones del PDF a mano alzada.
+pdf-editor-open-pdf-click-image-icon = Abrí el PDF en { -brand-name-firefox }. Hacé clic en el icono de la imagen, que te pedirá que subas una imagen. Ajustá el tamaño y la ubicación de tu imagen según sea necesario. Hacé clic en el botón “+ Texto alternativo” de la imagen para agregar una descripción de la foto y hacer que tu PDF sea más accesible.
+pdf-editor-create-a-highlight = Crear un resaltado
+pdf-editor-select-text-you-want-to = Abrí el PDF en { -brand-name-firefox }. Seleccioná el texto que querés resaltar, luego hacé clic en el ícono de resaltar que aparece debajo de tu selección, o hacé clic con el botón derecho para encontrar la opción de resaltar en el menú contextual. Hacé clic en el icono en la parte superior derecha para resaltar secciones del PDF a mano alzada.
