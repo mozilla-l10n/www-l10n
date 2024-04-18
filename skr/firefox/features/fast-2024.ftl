@@ -17,3 +17,6 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox }عالم�
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
 features-fast-all-browsers-had-to-make = سبھے براؤزرز کوں نویں سپیڈو میٹر3 جاچ وِچ چنڳی کارکردگی ݙِکھاوݨ کِیتے چَنڳائی گِھن آوݨی پئی۔ خاص طور تے { -brand-name-firefox } نے ٻہوں وݙّی پیش رفت کِیتی، اِیں کَم دے براہِ راست نتیجے دے طور تے اَساݙے صارفاں کِیتے <a { $link }>ٻہوں تِکھائی نال</a>تِھین٘دا پِیا ہِے۔ { -brand-name-firefox }پہلاں کنوں ݙاڈھا تِکّھا ہِے، اِیں رفتار دے نال تُساں پَک نال محسوس کر سڳدے ہِیوے، تِکّھا ورقہ لوڈ اَتے ہموار تعاملات سمیت۔
 features-fast-towards-a-faster-web = تکھیری ویب ݙوں
+# Variables
+#   $link (url) - link to /about/webvision/full/#performance
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla }اَساݙے آپݨے براؤزر دے نال نال پورے ویب کوں مسلسل چَنڳا بݨاوݨ کِیتے <a { $link }>پُر عزم</a> ہِے۔ اِیں کِیتے اَساں سپیڈو میٹر 3 تیار کرݨ کِیتے تعاون وِچ سرمایہ کاری کِیتی جین٘دے نتیجے وِچ، سبّھے براؤزراں دی کارکردگی وِچ چَنڳائی آئی ہِے۔ تَہُوں تُساں جہڑا وی براؤزر چُݨدے ہِیوے، { -brand-name-mozilla }چاہن٘دا ہِے جو اُوہ تِکّھا ہووے۔

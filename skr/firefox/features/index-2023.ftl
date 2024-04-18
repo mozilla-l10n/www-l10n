@@ -10,11 +10,13 @@ features-index-firefox-browser-features = { -brand-name-firefox } براؤزر �
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } تلکھا، ہولا، رازداری مرکوز براؤزر ہے جہڑا تہاݙیاں ساریاں ڈیوائساں تے کم کریندے۔
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } تکھیرا گھنݨ رکھیندے
+features-index-the-latest-browser-speed-benchmarks = نویں نروئی براؤزر رفتار بینچ مارکس ثابت کرین٘دے ہِن جو { -brand-name-firefox } پہلاں کنوں ڈھیر چَنڳا ہِے۔
 # Obsolete string
 features-index-is-firefox-a-fast-browser = بھلا { -brand-name-firefox } تکھا براؤزر ہے؟
 # Obsolete string
 features-index-firefox-uses-less-memory-than = { -brand-name-firefox } کروم کنوں گھٹ میموری استعمال کریندا ہے، لہذا تہاݙے ٻئے پروگرام تیز رفتاری نال چلدے رہ سڳدے ہن۔
 features-index-is-firefox-a-private-browser = بھلا { -brand-name-firefox } نجی براؤزر ہے؟
+features-index-were-focused-on-your-right-to = اَساں تُہاݙے رازداری دے حق اُتّے بھال مرکوز کرین٘دے پئے ہِسے۔ تُہاݙا ڈیٹا تُہاݙی ویب سرگرمی، تُہاݙی آن لائن حیاتی { -brand-name-firefox } دے نال محفوظ ہِے۔
 features-index-free-password-manager = مفت پاس ورڈ منیجر
 features-index-get-help-creating-new-passwords = نویں پاس ورڈ بݨاوݨ، آٹوفل آݨ لائن فارم تے آٹو لاڳ ان کیتے مدد گھنو
 features-index-customize-your-firefox-browser = آپݨا { -brand-name-firefox } براؤزر لوڑ مطابق کرو

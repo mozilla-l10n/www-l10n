@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = { -brand-name-mozilla } کنوں وی پی این اینڈرائیڈ
+vpn-android-how-does-a = وی پی این میݙی اینڈرائیڈ ڈیوائس دی کین٘ویں حفاظت کریندے؟
 vpn-android-why-should-i = میں انڈرائیڈ کیتے { -brand-name-mozilla-vpn } کیوں ڈاؤن لوڈ کراں؟
