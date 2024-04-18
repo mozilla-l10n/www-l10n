@@ -7,4 +7,6 @@
 
 # page title
 features-sync-firefox-browser-sync = { -brand-name-firefox } براؤزر ہم وقت
+# HTML page description
+features-sync-access-your-firefox-bookmarks = کہیں وی ڈیوائس تے آپݨیاں { -brand-name-firefox } نشانیاں تے پاس ورڈز تے رسائی گھنو تے ٹیباں کھولو تے ٻیا ٻہوں کجھ
 features-sync-send-tabs-from-one-device-to-another = ہک ڈیوائس کنوں ٻئی ڈیوائس تے ٹیباں بھیڄو

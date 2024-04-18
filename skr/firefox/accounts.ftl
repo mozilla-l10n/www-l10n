@@ -11,6 +11,8 @@ mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } گھن�
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } بݨاؤ ــ آپݨاں ڈیٹا نجی، محفوظ تے ہم وقت رکھو
 # Obsolete string
 firefox-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں  تے ٹیباں محفوظ طریقے نال اپݨے تمام آلات وچ سینک کرو۔ ہݨیں { -brand-name-firefox-account }حاصل کرو. ہݨ – ہک لاگ ان – طاقت تے رازداری ہر جاہ.
+# HTML page description
+mozilla-accounts-securely-sync-your = اپݨے پاس ورڈز، نشانیاں  تے ٹیباں محفوظ طریقے نال اپݨے تمام آلات وچ سینک کرو۔ ہݨیں { -brand-name-mozilla-account } حاصل کرو. ہݨ – ہک لاگ ان – طاقت تے رازداری ہر جاہ.
 firefox-accounts-enter-your-email-address = شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو۔
 firefox-accounts-already-have-an-account = بھلا پہلے ہی ہک کھاتہ ہے؟
 firefox-accounts-sign-in = سائن ان
