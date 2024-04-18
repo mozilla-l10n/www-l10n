@@ -22,5 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Öppna PDF:en i { -brand-name-fi
 pdf-editor-add-drawings-or-your-signature = Lägg till ritningar (eller din signatur)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Öppna PDF:en i { -brand-name-firefox }. Klicka på ikonen Rita för att välja färg, tjocklek och opacitet innan du sedan kan rita på dokumentet. Det blir förmodligen inte stökigare än din vanliga signatur!
 pdf-editor-add-image-with-alt-text = Lägg till bild med alternativ text
+pdf-editor-open-pdf-click-image-icon = Öppna PDF:en i { -brand-name-firefox }. Klicka på bildikonen, som sedan kommer att uppmana dig att ladda upp en bild. Justera storlek och placering av bilden efter behov. Klicka på knappen "+Alternativ text" på bilden för att lägga till en bildbeskrivning för att göra din PDF mer tillgänglig.
 pdf-editor-create-a-highlight = Skapa en markering
 pdf-editor-select-text-you-want-to = Öppna PDF:en i { -brand-name-firefox }. Markera texten du vill markera, klicka sedan på markeringsikonen som visas nedanför ditt val eller högerklicka för att hitta markeringsalternativet i snabbmenyn. Klicka på ikonen i det övre högra hörnet för att frigöra delar av PDF-filen.
