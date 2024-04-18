@@ -73,6 +73,7 @@ firefox-privacy-hub-more-than-s-trackers-blocked = پوری دنیا وِچ { -b
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-privacy-hub-when-you-enter-your-email-v2 = جݙاں تساں اپما ای میل ایڈریس{ -brand-name-mozilla-monitor } وِچ درج کریندے او، تاں اساں اونکوں معلوم ڈیٹا دیاں خلاف ورزیاں وِچ میچݨ کیتے چیک کرݨ دے ستت بعد بھل ویندے ہیں — جے تائیں کہ تساں اساکوں اپݨی ذاتی معلومات کیتے نویاں خلاف ورزیاں دی نگرانی جاری رکھݨ دی اجازت نئیں ݙیندے۔
 # Obsolete string
 firefox-privacy-hub-when-you-enter-your-email = جݙاں تساں اپما ای میل ایڈریس { -brand-name-firefox-monitor } وِچ درج کریندے او، تاں اساں اونکوں معلوم ڈیٹا دیاں خلاف ورزیاں وِچ میچݨ کیتے چیک کرݨ دے ستت بعد بھل ویندے ہیں — جے تائیں کہ تساں اساکوں اپݨی ذاتی معلومات کیتے نویاں خلاف ورزیاں دی نگرانی جاری رکھݨ دی اجازت نئیں ݙیندے۔
 firefox-privacy-hub-check-for-breaches = خلاف ورزیاں دی پڑتال کرو
