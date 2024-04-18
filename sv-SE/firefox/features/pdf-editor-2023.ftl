@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-redigerare
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Lägg till text i PDF-filer med { -brand-name-firefox } PDF-redigerare
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Redigera PDF-filer gratis med { -brand-name-firefox } PDF-redigerare
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Visa och redigera PDF-filer direkt i { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Om du behöver lägga till saker i ett PDF-dokument kan du nu göra det online med { -brand-name-firefox }. Öppna PDF:en i { -brand-name-firefox } och klicka på text- eller ritknapparna i det övre högra hörnet för att göra ändringar i ditt dokument. Ladda ner filen för att spara den med dina ändringar.
@@ -19,3 +21,6 @@ pdf-editor-add-text = Lägg till text
 pdf-editor-open-the-pdf-in-firefox-click-text = Öppna PDF:en i { -brand-name-firefox }. Klicka på knappen Text för att välja en färg och textstorlek innan du väljer var i dokumentet du vill lägga till text. Så enkelt är det!
 pdf-editor-add-drawings-or-your-signature = Lägg till ritningar (eller din signatur)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Öppna PDF:en i { -brand-name-firefox }. Klicka på ikonen Rita för att välja färg, tjocklek och opacitet innan du sedan kan rita på dokumentet. Det blir förmodligen inte stökigare än din vanliga signatur!
+pdf-editor-add-image-with-alt-text = Lägg till bild med alternativ text
+pdf-editor-create-a-highlight = Skapa en markering
+pdf-editor-select-text-you-want-to = Öppna PDF:en i { -brand-name-firefox }. Markera texten du vill markera, klicka sedan på markeringsikonen som visas nedanför ditt val eller högerklicka för att hitta markeringsalternativet i snabbmenyn. Klicka på ikonen i det övre högra hörnet för att frigöra delar av PDF-filen.
