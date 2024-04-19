@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Driven av { -brand-name-mozilla }.</strong> Har kjempa for din rett til personvern sidan 1998.
 vpn-landing-what-is-an-ip-address = Kva er ei IP-adresse?
