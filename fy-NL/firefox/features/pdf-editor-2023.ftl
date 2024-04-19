@@ -22,3 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Iepenje de pdf yn { -brand-name-
 pdf-editor-add-drawings-or-your-signature = Tekeningen (of jo hantekening) tafoegje
 pdf-editor-open-the-pdf-in-firefox-click-draw = Iepenje de pdf yn { -brand-name-firefox }. Klik op it piktogram Tekenje om in kleur, tsjokte en transparânsje te kiezen eardat jo op it dokumint tekenje kinne. It sil wierskynlik net rommeliger wêze dan jo gewoane hantekening!
 pdf-editor-add-image-with-alt-text = Ofbylding mei alt tekst tafoegje
+pdf-editor-open-pdf-click-image-icon = Iepenje de PDF yn { -brand-name-firefox }. Klik op it ôfbyldingspiktogram, dat sil jo dan freegje om in ôfbylding op te laden. Pas grutte en pleatsing fan jo ôfbylding oan as nedich. Klik op de knop ‘+Alt-tekst’ op de ôfbylding om in fotobeskriuwing ta te foegjen om jo PDF tagonkliker te meitsjen.
+pdf-editor-create-a-highlight = In markearring meitsje
+pdf-editor-select-text-you-want-to = Iepenje de PDF yn { -brand-name-firefox }. Selektearje de tekst dy’t jo markearje wolle, klik dan op it markearpiktogram dat ferskynt ûnder jo seleksje, of klik mei de rjochtermûsknop om de markearringopsje te finen yn it kontekstmenu. Klik op it ikoan rjochtsboppe om seksjes fan de PDF frij te markearjen.
