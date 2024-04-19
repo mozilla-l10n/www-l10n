@@ -35,6 +35,7 @@ vpn-features-secure = محفوظ
 vpn-features-block-ads = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کرو
 vpn-features-encrypt-your-internet = آپݨی ساری انٹرنیٹ ٹریفک انکرپٹ کرو
 vpn-features-stronger-malware = تکڑی مالویئر حفاظت
+vpn-features-super-private-mode = سپر پرائیویٹ موڈ: ݙو جاہیں توں ٹریفک روٹ کرو
 vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی این ایس کِیتے حمایت
 vpn-features-flexible = لچکدار
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
