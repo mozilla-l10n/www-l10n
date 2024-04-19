@@ -43,4 +43,5 @@ vpn-features-set-different-locations = { -brand-name-firefox } وچ ہر ٹیب 
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 vpn-features-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
+vpn-features-built-transparently = اوپن سورس وچ شفاف طریقے نال بݨایا ڳیا
 vpn-features-people-over-profits = منافع کنوں ودھ لوک
