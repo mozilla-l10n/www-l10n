@@ -22,4 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Abre el PDF en { -brand-name-fir
 pdf-editor-add-drawings-or-your-signature = Añade dibujos (o tu firma)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Abre el PDF en { -brand-name-firefox }. Haz clic en el icono Dibujar para elegir un color, grosor y opacidad antes de poder dibujar en el documento. ¡Probablemente no será más complicado que usar tu firma habitual!
 pdf-editor-add-image-with-alt-text = Añade una imagen con texto
+pdf-editor-open-pdf-click-image-icon = Abre el PDF en { -brand-name-firefox }. Haz clic en el icono de la imagen, que luego te pedirá que cargues una imagen. Ajusta el tamaño y la ubicación de tu imagen según sea necesario. Haz clic en el botón "+Texto alternativo" en la imagen para agregar una descripción de la foto y hacer que tu PDF sea más accesible.
 pdf-editor-create-a-highlight = Crear un resaltado
+pdf-editor-select-text-you-want-to = Abre el PDF en { -brand-name-firefox }. Selecciona el texto que deseas resaltar, luego haz clic en el icono de resaltado que aparece debajo de la selección, o haz clic derecho para encontrar la opción de resaltado en el menú contextual. Haz clic en el icono en la parte superior derecha para resaltar secciones del PDF a mano alzada.
