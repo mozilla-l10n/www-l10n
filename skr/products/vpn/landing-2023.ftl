@@ -38,6 +38,8 @@ vpn-landing-no-bandwidth-restrictions-or = کُئی بینڈ وِتھ حَداں
 vpn-landing-see-all-features = ساریاں خاصیتاں ݙیکھو
 vpn-landing-fram-a-brand-you-can-trust = ہک اینجھا برانڈ جیندے اُتے تساں بھروسہ کر سڳدے ہو
 vpn-landing-one-subscription-for-all-your = تہاݙیاں ساریاں ڈیوائساں کیتے ہک سبسکرپشن
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong> { -brand-name-mozilla } ولوں تکڑا تھیا۔</strong> 1998 کنوں تہاݙے رازداری دے حقوق کیتے لڑدا پئے۔
 vpn-landing-learn-more-from-our-experts = ساݙے ماہراں کنوں ٻیا سکھو
 vpn-landing-what-is-an-ip-address = آئی پی پتہ کیا ہے؟
 vpn-landing-see-more-resources = ٻئے وسائل ݙیکھو
