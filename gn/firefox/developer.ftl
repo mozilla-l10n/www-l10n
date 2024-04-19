@@ -89,6 +89,7 @@ firefox-developer-congrats-you-now-have-latest = Vy’apavẽ. Eguerekóma { -br
 firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩva</a> (inglés ñe’ẽme) ehecha hag̃ua mba’epyahu.
 firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uarã kuatiaite
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
