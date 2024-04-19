@@ -38,3 +38,4 @@ legal-report-copyright = Emombe’u apohare derécho rehegua térã marca regist
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = { -brand-name-mozilla-hubs } Mba’eporurã rehegua
 legal-mozilla-subscription-services = Eñemboheraguapykuaa { -brand-name-mozilla } ndive
+legal-amo-policies = AMO Porureko
