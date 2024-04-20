@@ -157,3 +157,6 @@ vpn-press-as-seen-in = جین٘ویں جو ایندے وچ ݙٹھا ڳئے
 
 ## Unsupported language notification
 
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = { -brand-name-mozilla-vpn } ڈھیر لوکاں تائیں پچاوݨ کیتے مدد کرݨ چاہندے ہو؟<a { $href }> رضاکار مترجم بݨو</a>۔
