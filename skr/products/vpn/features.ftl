@@ -51,9 +51,26 @@ vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی ا�
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }دے نال، تُساں آپݨی ٹریفک کوں محفوظ رکھ سڳدے ہِیوے اَتے وَل وی آپݨے ڈی این ایس سوالاں کوں جِتّھاں چاہؤو روٹ کر سڳدے ہِیوے۔ <a { $dns }>لوڑ مطابق ڈی این ایس حمایت دے بارے وِچ ودھیک ڄاݨو</a>۔
 vpn-features-flexible = لچکدار
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
+vpn-features-well-suggest-which-servers = اَساں صلاح ݙین٘دے ہِسے جو تُہاݙے نیڑے کِہڑے سرورز تِکّھے ترین، قابلِ اعتماد انٹرنیٹ کنکشن کوں یقینی بݨیسِن۔
+vpn-features-personalize-which-apps = ذاتی بݨاؤ جو کہڑی ایپس کوں وی پی این تحفظ حاصل ہِے۔
+vpn-features-easily-exclude-apps = سَوکھ نال ایپس کوں وی پی این تحفظ کنوں کڈّھو — آپݨی ڈیوائس کوں { -brand-name-mozilla-vpn } کنوں منقطع کرݨ دی لوڑ کائنی۔ ونڈوز، اینڈرائیڈ اَتے لائنکس ڈیوائسز وِچ دستیاب ہِے۔
 vpn-features-set-different-locations = { -brand-name-firefox } وچ ہر ٹیب کیتے مختلف لوکیشناں مقرر کرو
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = { -brand-name-mozilla-vpn }کوں ملٹی اکاؤنٹ کنٹینرز { -brand-name-firefox }ایکسٹنشناں دے نال جوڑو اَتے فی { -brand-name-firefox }ٹیب کِیتے ان٘جو ان٘ج وی پی این مقامات مُرتّب کرو۔ <a { $containers }>طریقہ ڄاݨو</a>۔
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
+vpn-features-plus-customer-support = ٻِیا اِیہ جو 24/7 ڳاہکاں دی حمایت۔
 vpn-features-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = سِدّھے لوّظاں وِچ، اَساں تُہاݙی نجی براؤزنگ دی معلومات کَٹّھی نِھسے کرین٘دے۔ اِتّھاں اَساݙی <a { $privacy }>سَوکھ نال پڑھیڄݨ آلی رازداری پالیسی</a> ہِے۔
 vpn-features-built-transparently = اوپن سورس وچ شفاف طریقے نال بݨایا ڳیا
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn }کوں اُوپن سورس کوڈ دے نال بݨایا ڳِیا ہِے، یعنی سبّھے کوڈ عوامی طور تے رسائی دے قابل ہِن۔ اَساݙا <a { $github }>GitHub ذخیرہ</a>ݙیکھو۔
+vpn-features-reviewed-by-third = فریق تریجھا سیکیورٹی ماہراں دے ذریعے جائزہ گِھدّا ڳِیا
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = اَساݙا آڈٹ Cure53 دے ذریعے کِیتا ڳِیا ہِے، ہِک معروف سائبر سیکیورٹی آڈیٹنگ تنظیم۔ <a { $report }>رپورٹ اِتّھاں ݙٰکھو</a>۔
 vpn-features-people-over-profits = منافع کنوں ودھ لوک

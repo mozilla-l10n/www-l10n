@@ -36,6 +36,10 @@ vpn-pricing-faqs = عمومی سوالات
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn } دی ریفنڈ پالیسی کیا ہے؟
 vpn-pricing-the-first-time-you = پہلی واری جݙاں تساں { -brand-name-mozilla-vpn } کوں { -brand-name-mozilla } دی ویب سائٹ دے ذریعے سبسکرائب کریندے او، جے تساں اپݨا اکاؤنٹ پہلے 30 ݙینہاں دے اندر منسوخ کریندے او، تاں تساں رقم دی واپسی دی درخواست کر سڳدے او تے { -brand-name-mozilla } تہاݙی پہلی رکنیت دی مدت کوں واپس کر ݙیسے۔
 vpn-pricing-what-information = { -brand-name-mozilla-vpn } کہڑیاں معلومات رکھیندے؟
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = اساں { -brand-name-mozilla } دے <a { $principles }> رازداری  اصول </a> تے سختی نال عمل کریندے ہیں تے اساں { -brand-name-mozilla-vpn }  کوں فعال رکھݨ تے وقت دے نال نال بݨتر کوں بہتر بݨاوݨ کیتے درکار ڈیٹا صرف کٹھا کریندے ہیں۔ اساں اپݨی موبائل ایپ تے مہم تے حوالہ جاتی ڈیٹا کوں وی ٹریک کریندے ہیں تاں جو { -brand-name-mozilla } کوں اساݙیاں مارکیٹنگ مہماں دی تاثیر کوں سمجھݨ وِچ مدد ملے۔ اساݙے <a { $notice }> رازداری نوٹس </a> وِچ ودھیک پڑھو۔
 vpn-pricing-how-do-i-manage = میں آپݨاں منصوبہ کین٘ویں وٹا سڳداں تے کین٘ویں سبسکرپشن منیج کر سڳداں؟
 # Variables
 # $manage (url) - link to subscription management page
