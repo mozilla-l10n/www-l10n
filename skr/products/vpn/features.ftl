@@ -74,3 +74,6 @@ vpn-features-reviewed-by-third = فریق تریجھا سیکیورٹی ماہر
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = اَساݙا آڈٹ Cure53 دے ذریعے کِیتا ڳِیا ہِے، ہِک معروف سائبر سیکیورٹی آڈیٹنگ تنظیم۔ <a { $report }>رپورٹ اِتّھاں ݙٰکھو</a>۔
 vpn-features-people-over-profits = منافع کنوں ودھ لوک
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = اَساکوں <a { $mofo }>{ -brand-name-mozilla-foundation }</a>دی حمایت حاصل ہِے، جہڑا ویب کوں سبّھے لوکاں کِیتے کُھلّا اَتے صِحّت ون٘د رکّھݨ کِیتے ہِک غیر منافع بخش لڑائی لڑدا کھڑے۔

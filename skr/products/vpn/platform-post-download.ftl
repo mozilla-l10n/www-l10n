@@ -12,17 +12,24 @@
 vpn-windows-download-page-title = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-windows-downloading-mozilla-vpn = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کریندا پئے ۔۔۔
 vpn-windows-go-to-your-downloads = آپݨے ڈاؤن لوڈ فولڈر تے ون٘ڄو تے .msi فائل تے ڈبل کلک کرو
+vpn-windows-a-progress-bar = ہِک پروگریس بار ظاہر تِھیسی اَتے انسٹالیشن دا عمل شروع تھی ویسی
 
 ## Mac download page
 
 vpn-mac-download-page-title = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کریندا پئے۔۔۔
 vpn-mac-go-to-your-downloads = آپݨے ڈاؤن لوڈ فولڈر تے ون٘ڄو تے .pkg فائل تے ڈبل کلک کرو
+vpn-mac-follow-the-steps = ایپ کوں شروع کرݨ کِیتے { -brand-name-mozilla-vpn } انسٹالر وِچ ݙَسائے ڳئے مرحلیاں اُتے عمل کرو
 
 ## Shared strings
 
 vpn-download-unable-to-download = { -brand-name-mozilla-vpn } کوں ڈاؤن لوڈ کرݨ دے قابل کائنی
 vpn-download-not-in-country = افسوس، تہاݙے ملک وچ { -brand-name-mozilla-vpn } دستیاب کائنی۔
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = تُہاݙا { -brand-name-mozilla-vpn }ڈاؤن لوڈ خود کار طریقے نال شروع تِھیوݨاں چاہِیدا ہِے۔ ڄیکر ایویں نِھیں تِھین٘دا تاں، <br><a href="{ $url }" id="{ $id }">ڈاؤن لوڈ وَلا شروع کرو</a>، یا کئیں ٻئی ڈیوائس کِیتے ڈاؤن لوڈ کرݨ کِیتے وَل ون٘ڄو۔
 vpn-open-the-file = 1۔ فائل کھولو
 vpn-launch-the-app = 2۔ ایپ لانچ کرو
 vpn-login-or-signup = 3۔ لاگ ان یا سائن اپ
