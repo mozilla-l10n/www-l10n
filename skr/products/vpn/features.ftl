@@ -31,12 +31,24 @@ vpn-features-supported-platforms = ونڈوز، میک او ایس، اینڈر�
 vpn-features-no-bandwidth = کُئی بینڈ وِتھ حَداں یا تھروٹلنگ کائنی
 vpn-features-including-no-data = کُئی ڈیٹا کیپ یا رفتار دی حد شامل کائنی۔
 vpn-features-fast-network = گیماں دے وِچالے وی نیٹ ورک دی تِکّھی رفتار
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn }استعمال کرین٘دا ہِے <a { $wireguard }>وائرگارڈ</a>™، ساریاں کنوں وَدھ پرفارم کرݨ آلے وی پی این پروٹوکولز وِچوں ہِک۔
 vpn-features-secure = محفوظ
 vpn-features-block-ads = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کرو
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn }تُہاکوں خود کار طریقے نال اشتہاراں اَتے اشتہاری ٹریکراں کوں تُہاݙی آن لائن سرگرمی ݙیکھݨ کنوں روکݨ وِچ مَدَت کرین٘دا ہِے۔
 vpn-features-encrypt-your-internet = آپݨی ساری انٹرنیٹ ٹریفک انکرپٹ کرو
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn }تُہاݙی ڈیوائس اُتے موجود سارے ایپس دی راکھی کرین٘دا ہِے، نہ جو صرف تُہاݙے براؤزر دی۔
 vpn-features-stronger-malware = تکڑی مالویئر حفاظت
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn }تُہاکوں معلوم غیر محفوظ ذرائع کنوں مالویئر ڈاؤن لوڈ کرݨ کنوں رُکین٘دا ہِے۔
 vpn-features-super-private-mode = سپر پرائیویٹ موڈ: ݙو جاہیں توں ٹریفک روٹ کرو
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = اَساݙی <a { $feature }>ملٹی-ہاپ خاصیت</a>تُہاکوں ہِک وادُھو سیکیورٹی ودھین٘دا ہِے۔
 vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی این ایس کِیتے حمایت
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }دے نال، تُساں آپݨی ٹریفک کوں محفوظ رکھ سڳدے ہِیوے اَتے وَل وی آپݨے ڈی این ایس سوالاں کوں جِتّھاں چاہؤو روٹ کر سڳدے ہِیوے۔ <a { $dns }>لوڑ مطابق ڈی این ایس حمایت دے بارے وِچ ودھیک ڄاݨو</a>۔
 vpn-features-flexible = لچکدار
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
 vpn-features-set-different-locations = { -brand-name-firefox } وچ ہر ٹیب کیتے مختلف لوکیشناں مقرر کرو

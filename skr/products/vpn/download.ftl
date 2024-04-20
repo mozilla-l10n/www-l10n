@@ -36,5 +36,9 @@ vpn-download-based-on-your = تہاݙی موجودہ ڈیوائس دی بݨیا�
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 vpn-download-privacy-you-can = رازداری جیندے تے تساں بھروسہ کر سڳدے ہو
 vpn-download-also-available = ایں کیتے وی دستیاب ہے:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = { -brand-name-firefox }دے بݨاوݨ آلے کنوں، { -brand-name-mozilla-vpn }جدید ترین<a href="{ $url }" { $attrs }>{ -brand-name-wireguard }دا استعمال کرین٘دا ہِے </a>® پروٹوکول تُہاݙی آن لائن سرگرمی کوں انکرپٹ کرݨ اَتے تُہاݙی جاء لُکاوݨ کِیتے۔
 vpn-download-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے۔
 vpn-download-previous-versions = { -brand-name-windows } تے { -brand-name-mac-short } کیتے پچھلے ورژن ڈاؤن لوڈ کرو
