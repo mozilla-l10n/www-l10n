@@ -26,6 +26,7 @@ vpn-pricing-access =
         [one] { $countries }+ ملکاں وچ { $servers }+ سرور تے رسائی
        *[other] { $countries }+ ملکاں وچ { $servers }+ سروراں تے رسائی
     }
+vpn-pricing-money-back = 30 ݙین٘ہ دی رقم واپسی گارنٹی (صرف پہلی واری صارفین کیتے)
 vpn-pricing-annual = سالانہ
 vpn-pricing-monthly = ماہانہ
 vpn-pricing-get-annual-subscription = سالانہ سبسکرپشن گھنو
