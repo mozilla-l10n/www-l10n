@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Probá tus sitios en comparación con las 
 firefox-all-count-on-stability-and = Contá con la estabilidad y la facilidad de uso con este navegador { -brand-name-firefox } creado para empresas.
 firefox-all-windows-installers-for = Los instaladores de Windows para entornos corporativos que simplifican la configuración, despliegue y administración del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64 / AArch64 optimizados para PC con Windows y Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64 optimizados para PCs { -brand-name-windows } con Snapdragon.
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono.
 # Variables:
