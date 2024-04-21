@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = 使用這套即將發行的 { -brand-name-
 firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用這套為企業量身打造的 { -brand-name-firefox } 瀏覽器。
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
 firefox-all-arm64-installers = ARM64/AArch64 安裝程式
+firefox-all-arm64-installers-optimized-v2 = 針對 Windows 與 Linux PC 最佳化的 ARM64/AArch64 安裝程式。
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = 針對使用 Snapdragon 處理器的 { -brand-name-windows } PC 最佳化的 ARM64/AArch64 安裝程式。
 firefox-all-product-send-link = 傳送下載鏈結到您的手機
 # Variables:
