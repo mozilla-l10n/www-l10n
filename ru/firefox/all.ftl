@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Тестируйте свои сайты �
 firefox-all-count-on-stability-and = Доверьтесь стабильности и простоте использования корпоративного { -brand-name-firefox }.
 firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление { -brand-name-firefox-browser(case: "instrumental") }.
 firefox-all-arm64-installers = Установщики ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Установщики ARM64/AArch64, оптимизированные для ПК с Windows и Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Установщики ARM64/AArch64 оптимизированы для компьютеров { -brand-name-windows } на процессорах Snapdragon.
 firefox-all-product-send-link = Отправить ссылку для загрузки на мой телефон
 # Variables:
