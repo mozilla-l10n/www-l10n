@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Tesztelje a weboldalait a hamarosan kiadá
 firefox-all-count-on-stability-and = Stabilitásra és könnyű használatra számíthat ezzel a kifejezetten vállalatok számára készült { -brand-name-firefox } böngészővel.
 firefox-all-windows-installers-for = Windowsos telepítők a vállalati informatikai részlegek számára, melyek egyszerűsítik a { -brand-name-firefox-browser } beállítását, telepítését és kezelését.
 firefox-all-arm64-installers = ARM64/AArch64 telepítők
+firefox-all-arm64-installers-optimized-v2 = Windowsos és linuxos PC-kre optimalizált ARM64/AArch64 telepítők.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64 / AArch64 telepítők Snapdragon-alapú { -brand-name-windows }t futtató számítógépekre optimalizálva.
 firefox-all-product-send-link = Küldjön egy letöltési hivatkozást a telefonjára
 # Variables:
