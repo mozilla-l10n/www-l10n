@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = 即将发行的 { -brand-name-firefox } �
 firefox-all-count-on-stability-and = 若需要稳定度和易用性，请使用此企业版 { -brand-name-firefox } 浏览器。
 firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 { -brand-name-firefox-browser }的配置、部署和管理。
 firefox-all-arm64-installers = ARM64/AArch64 安装程序
+firefox-all-arm64-installers-optimized-v2 = 为 Windows 和 Linux PC 优化的 ARM64/AArch64 安装程序。
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = 针对高通骁龙™平台 { -brand-name-windows } PC 优化的 ARM64/AArch64 安装程序。
 firefox-all-product-send-link = 发送下载链接到您的手机
 # Variables:
