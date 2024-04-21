@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = გამოცადეთ საიტ�
 firefox-all-count-on-stability-and = განკუთვნილი მდგრადობისა და მოხერხებულად გამოყენებისთვის, { -brand-name-firefox }-ბრაუზერი საგანგებოდ დაწესებულებებისთვის.
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, { -brand-name-firefox-browser(case: "gen") } ადვილად განთავსების, გაწყობისა და მართვისთვის.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ინსტალერები ოპტიმიზირებულია Windows და Linux კომპიუტერებისთვის.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64 დასაყენებელი ფაილები განკუთვნილია Snapdragon-ით აღჭურვილი { -brand-name-windows }-PC სისტემებისთვის.
 firefox-all-product-send-link = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 # Variables:
