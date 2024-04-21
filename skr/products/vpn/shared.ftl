@@ -9,6 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
 vpn-shared-sign-in-link = بھلا پہلے ہی سبسکرائبر ہو؟
+vpn-shared-available-countries-v6 = اَساں اِیں ویلے { -brand-name-mozilla-vpn } آسٹریا، بیلجیئم، بلغاریہ، کینیڈا، کروشیا، قبرض، جمہوریہ چیک، ڈنمارک، ایسٹونیا، فِن لینڈ، فرانس، جرمنی، ہنگری، آئر لینڈ، اٹلی، لیٹویا، لیتھوینیا، لکسمبرگ، ملائشیا، مالٹا، نیدر لینڈ، نیوزی لینڈ، پولینڈ، پرتگال، رومانیہ، سنگا پور، سلووینیا، سلوواکیہ، ہسپانیہ، سویڈن، سوئٹزر لینڈ، برطانیہ اَتے امریکہ وِچ پیش کرین٘دے ہِسے۔
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -154,9 +155,19 @@ vpn-shared-mozilla-vpn-is-not-yet-available = اڄ تہاݙے ملک وچ { -bra
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = جین٘ویں جو ایندے وچ ݙٹھا ڳئے
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = "{ -brand-name-mozilla }دا وی پی این آپݨے { -brand-name-firefox }براؤزر دے <a { $attrs }>کُجھ نفٹی رازداری تحفظ دیاں خاصیتاں وِچ ضَم</a> وی کر سڳدا ہِے۔"
+vpn-press-unique-features-like-its-multi-account = “…منفرد خاصیتاں، جیویں جو اِین٘دے ملٹی اکاؤنٹ کنٹینرز، اِیں خاصیت کوں ڈھیر سنجیدہ رازداری دے خدشیاں آلے صارفاں کِیتے سَوکھ نال قابلِ رسائی بݨا سڳدے ہِن۔"
+vpn-press-mozilla-vpns-feature-list-has-grown = "{ -brand-name-mozilla-vpn }دی خاصیت دی تن٘دِیر جاری تھیوݨ دے بعد ٻہوں وَدھ ڳئی ہِے، اَتے خدمت ہُم کُجھ علاقیاں وِچ ٻہوں سارے ماہر وی پی اینز کوں پِچّھاں چھوڑ ݙین٘دی ہِے۔"
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn }اِیں ویلے { $language }وِچ پیش نِھیں کِیتا وین٘دا، پَر تُساں اِیکوں انگریزی، فرانسیسی، جرمن، ہسپانوی اَتے <a { $href }>30 کنوں وَدھ ٻئے ٻولیاں</a> وِچ استعمال کر سڳدے ہِیوے۔
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = { -brand-name-mozilla-vpn } ڈھیر لوکاں تائیں پچاوݨ کیتے مدد کرݨ چاہندے ہو؟<a { $href }> رضاکار مترجم بݨو</a>۔
