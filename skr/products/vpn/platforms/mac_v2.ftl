@@ -10,3 +10,4 @@ vpn-mac-looking-for = آپݨے میک دی راکھی کِیتے وی پی ای�
 vpn-mac-protect-your-mac = { -brand-name-mozilla-vpn } نال آپݨے  Mac دی حفاظت کرو
 vpn-mac-with-mozilla-vpn = { -brand-name-mozilla-vpn } نال تساں کر سڳدے ہو:
 vpn-mac-get-one-click = ہک سادہ تے ورتݨ الے دوستانہ انٹرفیس نال ہک کلک رازداری گھنو۔
+vpn-mac-connect-up-to = ہک سبسکرپشن نال 5  تائیں مختلف ڈیوائساں نال کنکٹ تھیوو۔ Mac، iOS، ونڈوز، لائنکس تے انڈرائیڈ سمیت۔
