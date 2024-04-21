@@ -10,3 +10,4 @@ vpn-windows-get-a-vpn = { -brand-name-mozilla } کنوں ونڈو کیتے وی 
 vpn-windows-protect-your-windows = پی این نال آپݨی ونڈو ڈیوائص دی راکھی کرو۔ { -brand-name-mozilla } وی پی این کوں ہِک غیر منافع بخش کمپنی دی حمایت حاصل ہِے۔ اِیں بارے وِچ ڄاݨو جو وی اپی این تُہاݙی راکھی کیویں کرین٘دا ہِے اَتے تُہاکوں آپݨی رازداری اَتے سیکیورٹی دے نال { -brand-name-mozilla } اُتے کیوں اعتماد کرݨاں چاہِیدا ہِے۔
 vpn-windows-stay-safe = وی پی این نال آپݨی ونڈو ڈیوائس تے محفوظ تے سلامتی نال راہوو
 vpn-windows-what-are-the-benefits = میݙی ونڈو ڈیوائس تے { -brand-name-mozilla-vpn } ڈاؤن لو کرݨ دے کیا فائدے ہن؟
+vpn-windows-avoid-your-online = آپݨی آن لائن سرگرمی کوں تھرڈ پارٹی یا مشتہرین کنوں گھنݨ تے شیئر کرݨ کنوں بچو۔
