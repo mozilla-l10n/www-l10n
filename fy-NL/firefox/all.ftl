@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Test jo websites tsjin ynkoarten te ferski
 firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei dizze { -brand-name-firefox }-browser dy’t boud is foar bedriuwen.
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy’t de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
+firefox-all-arm64-installers-optimized-v2 = ARM64-/AArch64-ynstallaasjeprogramma’s optimalisearre foar Windows- en Linux-pc’s.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64-ynstallaasjeprogramma’s optimalisearre foar Snapdragon-oandreaune { -brand-name-windows }-pc’s.
 firefox-all-product-send-link = In downloadkeppeling nei jo telefoan ferstjoere
 # Variables:
