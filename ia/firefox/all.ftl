@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Verifica tu sitos con le nove functionalit
 firefox-all-count-on-stability-and = Conta sur le stabilitate e le facilitate de uso de iste navigator { -brand-name-firefox } specific pro interprisa.
 firefox-all-windows-installers-for = Installatores de Windows pro Technologia de information corporative, que simplifica configuration, displicamento e gestion de { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmas de installation ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installatores optimisate pro PCs Windows e Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Programmas de installation ARM64/AArch64 optimisate pro PCs { -brand-name-windows } con Snapdragon
 firefox-all-product-send-link = Inviar un ligamine de discargamento a tu telephono
 # Variables:
