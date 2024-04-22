@@ -39,7 +39,10 @@ firefox-all-test-your-sites-against = اختبر المواقع الإلكترو
 firefox-all-count-on-stability-and = استمتع بالاستقرار وسهولة الاستخدام مع مُتصفح { -brand-name-firefox } المُصمم للشركات.
 firefox-all-windows-installers-for = مُثبِّتات Windows لتكنولوجيا معلومات الشركات التي تعمل على تبسيط عمليات تكوين { -brand-name-firefox-browser } ونشره وإدارته.
 firefox-all-arm64-installers = مُثبِّتات ARM64/AArch64
+
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = مُثبِّتات ARM64/AArch64 مُحسَّنة لأجهزة الكمبيوتر التي تستخدم معالج Snapdragon وتعمل بنظام تشغيل { -brand-name-windows }.
+
 firefox-all-product-send-link = أرسِل رابط تنزيل إلى هاتفك
 
 # Variables:
