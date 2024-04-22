@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = اپݨی سائٹس کوں ستت ریلی
 firefox-all-count-on-stability-and = انٹرپرائز کیتے بݨائے ئئے ایں { -brand-name-firefox } براؤزر دے نال استحکام تے استعمال وِچ آسانی تے بھروسہ کرو۔
 firefox-all-windows-installers-for = کارپوریٹ آئی ٹی کیتے ونڈوز انسٹالرز جیڑھے { -brand-name-firefox-browser } دی ترتیب، تعیناتی تے انتظام کوں آسان بݨیندے ہن۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 انسٹالرز ونڈو تے لائنکس کمپیوٹراں کیتے بہتر بݨائے ڳئے۔
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64 انسٹالرز Snapdragon نال چلݨ والے { -brand-name-windows } PCs کیتے بہتر بݨائے ڳئے ہن۔
 firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
 # Variables:
