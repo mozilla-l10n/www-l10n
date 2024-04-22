@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Otestujte svoje stránky s ohľadom na pri
 firefox-all-count-on-stability-and = Spoľahnite sa na stabilitu a jednoduché používanie prehliadača { -brand-name-firefox } vytvoreného pre podniky.
 firefox-all-windows-installers-for = Inštalátory systému Windows pre podnikové IT, ktoré zjednodušujú konfiguráciu, nasadenie a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 firefox-all-arm64-installers = Inštalátory ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Inštalačné programy ARM64/AArch64 optimalizované pre počítače so systémom Windows a Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Inštalátory pre platformy ARM64/AArch64 optimalizované pre počítače s { -brand-name-windows(case: "ins") } bežiace na procesoroch Snapdragon.
 firefox-all-product-send-link = Odošlite si odkaz na stiahnutie do svojho telefónu
 # Variables:
