@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Testa dina webbplatser mot snart utgivna {
 firefox-all-count-on-stability-and = Räkna med stabilitet och användarvänlighet med denna { -brand-name-firefox }-webbläsare byggd för företag.
 firefox-all-windows-installers-for = Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 installationsprogram
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installationsprogram optimerade för Windows och Linux-datorer.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64-installationsprogram optimerat för Snapdragon-drivna { -brand-name-windows }-datorer.
 firefox-all-product-send-link = Skicka en nedladdningslänk till din telefon
 # Variables:
