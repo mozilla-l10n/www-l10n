@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Αξιοποιήστε τα ενσωματ
 firefox-all-count-on-stability-and = Βασιστείτε στη σταθερότητα και την ευκολία χρήσης του προγράμματος περιήγησης { -brand-name-firefox } που έχει σχεδιαστεί για επιχειρήσεις.
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows, για τα εταιρικά τμήματα πληροφορικής, που απλοποιούν τη ρύθμιση παραμέτρων, τη διανομή και τη διαχείριση του { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Προγράμματα εγκατάστασης ARM64/AArch64 βελτιστοποιημένα για υπολογιστές Windows και Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Προγράμματα εγκατάστασης ARM64/AArch64, βελτιστοποιημένα για { -brand-name-windows } υπολογιστές με Snapdragon.
 firefox-all-product-send-link = Αποστολή συνδέσμου λήψης στο τηλέφωνό σας
 # Variables:
