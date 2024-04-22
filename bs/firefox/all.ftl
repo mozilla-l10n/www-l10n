@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { 
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } browserom, koji je izgrađen za preduzeća.
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfigurisanje, upotrebu i upravljanje browserom { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 instaleri
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 instalateri optimizovani za Windows i Linux računare.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64 instaleri optimizovani za Snapdragon-pogonjene { -brand-name-windows } PC-ove.
 firefox-all-product-send-link = Pošalji link za preuzimanje na svoj mobitel
 # Variables:

@@ -21,3 +21,6 @@ pdf-editor-add-text = Dodaj tekst
 pdf-editor-open-the-pdf-in-firefox-click-text = Otvorite PDF u { -brand-name-firefox }u. Kliknite na dugme Tekst da biste odabrali boju i veličinu teksta prije nego što odaberete gdje u dokumentu želite dodati tekst. Tako je lahko!
 pdf-editor-add-drawings-or-your-signature = Dodajte crteže (ili svoj potpis)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Otvorite PDF u { -brand-name-firefox }u. Kliknite na ikonu Crtanje da odaberete boju, debljinu i prozirnost prije nego što budete mogli crtati na dokumentu. Vjerovatno neće biti ništa neurednije od vašeg uobičajenog potpisa!
+pdf-editor-add-image-with-alt-text = Dodajte sliku sa zamjenskim tekstom
+pdf-editor-open-pdf-click-image-icon = Otvorite PDF u { -brand-name-firefox }u. Kliknite na ikonu slike koja će od vas zatražiti da učitate sliku. Podesite veličinu i položaj vaše slike po potrebi. Kliknite na dugme “+Alt tekst” na slici da dodate opis fotografije kako bi vaš PDF bio pristupačniji.
+pdf-editor-select-text-you-want-to = Otvorite PDF u { -brand-name-firefox }u. Odaberite tekst koji želite istaknuti, a zatim kliknite na ikonu za isticanje koja se pojavljuje ispod vašeg odabira ili kliknite desnim tasterom miša da pronađete opciju isticanja u kontekstualnom meniju. Kliknite na ikonu u gornjem desnom kutu da slobodnom rukom označite dijelove PDF-a.
