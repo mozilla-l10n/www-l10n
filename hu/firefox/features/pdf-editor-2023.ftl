@@ -22,6 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Nyissa meg a PDF-et a { -brand-n
 pdf-editor-add-drawings-or-your-signature = Rajzok (vagy az aláírása) hozzáadása
 pdf-editor-open-the-pdf-in-firefox-click-draw = Nyissa meg a PDF-et a { -brand-name-firefox }ban. Kattintson a Rajz ikonra a szín, a vastagság és az átlátszatlanság kiválasztásához, mielőtt rajzolna a dokumentumra. Valószínűleg nem lesz rendetlenebb, mint a szokásos aláírás!
 pdf-editor-add-image-with-alt-text = Kép hozzáadása alt szöveggel
-pdf-editor-open-pdf-click-image-icon = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Kattintson a kép ikonra, amely kéri a kép feltöltését. Igény szerint módosítsa a kép méretét és elhelyezését. Kattintson a „+Alt szöveg” gombra a képen, hogy adjon hozzá fényképleírást, hogy könnyebben hozzáférhetővé tegye a PDF-jét.
+pdf-editor-open-pdf-click-image-icon = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Kattintson a kép ikonra, amely kéri a kép feltöltését. Igény szerint módosítsa a kép méretét és elhelyezését. Kattintson a „+Alt szöveg” gombra a képen, hogy leírást adjon hozzá a képhez, hogy akadálymentesebbé tegye a PDF-jét.
 pdf-editor-create-a-highlight = Kiemelés létrehozása
 pdf-editor-select-text-you-want-to = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Jelölje ki a kiemelendő szöveget, majd kattintson a kiemelés ikonra, amely a kijelölése alatt jelenik meg, vagy kattintson a jobb gombbal, hogy megtalálja a kiemelési lehetőséget a helyi menüben. Kattintson a jobb felső sarokban található ikonra, hogy szabadkézi kiemelje a PDF egyes részeit.
