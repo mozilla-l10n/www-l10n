@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 mobile-android-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
+mobile-android-scan-the-qr-code-to-get-started = Skan QR-koden for at komme i gang
