@@ -146,13 +146,9 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Prehliadač { -brand-name-firefox } už máte. No to nie je jediná vec so značkou { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Sledujte hackerov pomocou služby { -brand-name-mozilla-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 # Obsolete string
 firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
-firefox-desktop-download-get-more-from-firefox = Využívajte { -brand-name-firefox } naplno
-firefox-desktop-download-just-download-the-browser = Stiahnite si prehliadač
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,7 +163,7 @@ firefox-desktop-download-now-mac = Teraz <strong>otvorte</strong> súbor, ktorý
 firefox-desktop-download-select-linux = Nižšie vyberte možnosť <strong>stiahnuť</strong>
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Mať problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
+firefox-desktop-download-get-help = Máte problémy? <a { $attrs }>Získajte pomoc s inštaláciou</a>.
 firefox-desktop-download-in-another-language = Stiahnutie v inom jazyku alebo pre iný operačný systém.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
