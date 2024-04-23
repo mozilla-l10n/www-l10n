@@ -25,16 +25,11 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } til computer
 sub-navigation-features = Funktioner
 sub-navigation-support = Support
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Tilføjelser
 sub-navigation-add-ons = Tilføjelser
 sub-navigation-faq = FAQ
 sub-navigation-learn-more = Læs mere
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } til mobilen
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Tilføjelser til { -brand-name-android }
-sub-navigation-android-add-ons = Tilføjelser til { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
 # Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
@@ -48,7 +43,7 @@ sub-navigation-enterprise = { -brand-name-enterprise }
 sub-navigation-nightly-and-beta = { -brand-name-nightly } og { -brand-name-beta }
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } og { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
-sub-navigation-firefox-features = { -brand-name-firefox }-funkrioner
+sub-navigation-firefox-features = { -brand-name-firefox }-funktioner
 sub-navigation-ad-tracker-blocking = Blokering af annoncesporing
 sub-navigation-private-browsing = Privat browsing
 sub-navigation-what-is-a-browser = Hvad er en browser?
