@@ -10,7 +10,7 @@ pdf-editor-pdf-editor = PDF-szerkesztő
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Adjon hozzá szöveget PDF-ekhez a { -brand-name-firefox } PDF-szerkesztővel
 # page title
-pdf-editor-add-text-to-pdfs-v2 = Szerkesszen ingyen PDF-eket a { -brand-name-firefox } PDF szerkesztővel
+pdf-editor-add-text-to-pdfs-v2 = Szerkesszen ingyenesen PDF-eket a { -brand-name-firefox } PDF szerkesztőjével
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Tekintsen még és szerkesszen PDF-fájlokat közvetlenül a { -brand-name-firefox }ban.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Ha dolgokkal kell kiegészítenie egy PDF-dokumentumot, akkor most megteheti online, a { -brand-name-firefox } segítségével. Nyissa meg a PDF-et a { -brand-name-firefox }ban, és kattintson a Szöveg vagy a Rajz gombra a jobb felső sarokban, hogy módosítsa a dokumentumot. Töltse le a fájlt, és mentse a módosításokkal.
