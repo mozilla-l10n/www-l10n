@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Тестуйте свої сайти на 
 firefox-all-count-on-stability-and = Розраховуйте на стабільність та простоту версії { -brand-name-firefox } для корпоративного користування.
 firefox-all-windows-installers-for = Інсталятори Windows для корпоративних ІТ, що спрощують конфігурацію, розгортання { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } та керування ним.
 firefox-all-arm64-installers = Встановлювачі ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Встановлювачі ARM64/AArch64, оптимізовані для ПК з Windows і Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Встановлювачі ARM64/AArch64 оптимізовано для комп'ютерів на базі Snapdragon зі встановленою { -brand-name-windows }
 firefox-all-product-send-link = Надіслати посилання для завантаження на свій телефон.
 # Variables:
