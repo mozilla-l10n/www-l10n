@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Kiểm tra các trang web của bạn vớ
 firefox-all-count-on-stability-and = Dựa vào tính ổn định và dễ sử dụng với trình duyệt { -brand-name-firefox } này được xây dựng cho doanh nghiệp.
 firefox-all-windows-installers-for = Trình cài đặt Windows cho CNTT doanh nghiệp giúp đơn giản hóa việc cấu hình, triển khai và quản lý { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Trình cài đặt ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Trình cài đặt ARM64/AArch64 được tối ưu cho PC Windows và Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Trình cài đặt ARM64/AArch64 được tối ưu hóa cho PC { -brand-name-windows } sử dụng vi xử lý Snapdragon.
 firefox-all-product-send-link = Gửi liên kết tải xuống đến điện thoại của bạn.
 # Variables:
