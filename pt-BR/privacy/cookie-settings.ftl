@@ -26,11 +26,16 @@ cookie-settings-category-necessary-how-does-desc = A { -brand-name-mozilla } usa
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Preferências
+cookie-settings-category-preference-what-are-subheading = O que são cookies de preferências?
+cookie-settings-category-preference-what-are-desc = Essas tecnologias são usadas para lembrar escolhas feitas por você durante uma visita anterior a um site. Alguns exemplos são o idioma que você prefere ler e qual tema de cores você prefere.
+cookie-settings-category-preference-how-does-desc = A { -brand-name-mozilla } usa cookies de preferências para honrar suas escolhas e melhorar sua experiência de navegação ao visitar nossos sites. Não são usados para fins analíticos. Cookies de preferências dão suporte a funcionalidades de forma semelhante a cookies necessários, no entanto um site ainda consegue funcionar sem eles. Sendo assim, você pode optar por não permitir seu uso.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analíticos
 cookie-settings-category-analytics-what-are-subheading = O que são cookies analíticos?
+cookie-settings-category-analytics-what-are-desc = Essas tecnologias coletam informações sobre como as pessoas usam sites, como páginas visitadas, links clicados e de que outros sites se originaram visitas.
 
 ## Consent section
 
