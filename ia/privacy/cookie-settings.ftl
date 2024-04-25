@@ -8,6 +8,7 @@
 cookie-settings-page-title = Parametros del cookies
 cookie-settings-page-desc = Iste pagina describe le differente typos de cookies que { -brand-name-mozilla } pote usar e te da controlo super qual typos de datos tu concorda que { -brand-name-mozilla } collige.
 cookie-settings-breadcrumb-link = Previe pagina
+cookie-settings-explainer = Cookies es parve files que contine pecias de informationes que es salvate sur tu computator o apparato quando tu visita un sito web. { -brand-name-mozilla } usa Cookies pro adjutar a facer functionar nostre sitos web, e a colliger informationes sur como tu usa e interage con nostre sitos web, tal como le paginas que tu visita.
 cookie-settings-how-mozilla-heading = Como { -brand-name-mozilla } usa le cookies
 cookie-settings-how-does-mozilla-use-subheading = Como usa { -brand-name-mozilla } iste datos?
 cookie-settings-save-changes = Salvar le cambiamentos
