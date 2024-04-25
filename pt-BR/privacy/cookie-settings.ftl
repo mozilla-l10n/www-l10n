@@ -46,4 +46,5 @@ cookie-settings-your-consent-desc = Ao concordar com cookies, sua permissão é 
 ## Privacy section
 
 cookie-settings-privacy-heading = Nosso aviso de privacidade
+cookie-settings-privacy-desc = Para informações mais detalhadas sobre os diferentes tipos de informação que a { -brand-name-mozilla } coleta quando você visita nossos sites, encontra-se abaixo um link para nosso aviso de privacidade.
 cookie-settings-privacy-policy-link = Aviso de privacidade
