@@ -8,6 +8,7 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } ile web sayfalarını çevirin
 features-translate-translate-the-web = Web’i çevirin
+features-translate-when-you-translate-a-webpage = Bir web sayfasını çevirdiğinizde çevirdiğiniz şeyler gizli kalır
 features-translate-what-languages-are-currently = Şu anda hangi diller destekleniyor?
 features-translate-and-more-languages-are-in = Ve yeni diller de yolda!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } sizin dilinizi de konuşuyor
