@@ -7,8 +7,8 @@
 
 cookie-settings-page-title = Gosodiadau'r cwcis
 cookie-settings-page-desc = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o Gwcis y gall { -brand-name-mozilla } eu defnyddio, ac yn gadael i chi reoli ba fathau o ddata rydych yn cytuno i { -brand-name-mozilla } ei gasglu.
-cookie-settings-breadcrumb-link = Tudalen blaenorol
-cookie-settings-explainer = Ffeiliau bach yw cwcis sy’n cynnwys darnau o wybodaeth sy’n cael eu cadw ar eich cyfrifiadur neu ddyfais pan fyddwch yn ymweld â gwefan. Mae { -brand-name-mozilla } yn defnyddio Cwcis i helpu i wneud i'n gwefannau weithio, yn ogystal ag i gasglu gwybodaeth ar sut rydych chi'n defnyddio ac yn rhyngweithio â'n gwefannau, megis y tudalennau rydych chi'n ymweld â nhw.
+cookie-settings-breadcrumb-link = Tudalen flaenorol
+cookie-settings-explainer = Ffeiliau bychain yw cwcis sy’n cynnwys darnau o wybodaeth sy’n cael eu cadw ar eich cyfrifiadur neu ddyfais pan fyddwch yn ymweld â gwefan. Mae { -brand-name-mozilla } yn defnyddio Cwcis i helpu i wneud i'n gwefannau weithio, yn ogystal ag i gasglu gwybodaeth ar sut rydych chi'n defnyddio ac yn rhyngweithio â'n gwefannau, megis y tudalennau rydych chi'n ymweld â nhw.
 cookie-settings-page-intro = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o Gwcis a thechnolegau tebyg (fel tagiau picsel, ffaglau gwe, GIFs clir, JavaScript, a storfa leol) (“Cookies”) y gall { -brand-name-mozilla } eu defnyddio, ac yn rhoi rheolaeth i chi dros ba fathau o ddata rydych yn cytuno i { -brand-name-mozilla } ei gasglu.
 cookie-settings-how-mozilla-heading = Sut mae { -brand-name-mozilla } yn defnyddio Cwcis
 cookie-settings-how-does-mozilla-use-subheading = Sut mae { -brand-name-mozilla } yn defnyddio'r data hwn?
@@ -42,6 +42,10 @@ cookie-settings-category-analytics-how-does-desc = Mae { -brand-name-mozilla } y
 ## Consent section
 
 cookie-settings-your-consent-heading = Eich cydsyniad
+cookie-settings-your-consent-desc = Trwy gytuno i Gwcis, bydd eich caniatâd yn cael ei roi i'r rhestr ganlynol o wefannau { -brand-name-mozilla }, sydd i gyd yn dilyn yr un safonau preifatrwydd data llym. Sylwch y gall y rhestr hon gael ei diweddaru dros amser.
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Ein hysbysiad preifatrwydd
+cookie-settings-privacy-desc = I gael gwybodaeth fanylach am y gwahanol fathau o wybodaeth y mae { -brand-name-mozilla } yn ei chasglu pan fyddwch yn ymweld â'n gwefannau, gallwch ddod o hyd i ddolen i'n hysbysiad preifatrwydd isod.
+cookie-settings-privacy-policy-link = Hysbysiad Preifatrwydd
