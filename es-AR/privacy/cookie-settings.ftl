@@ -36,6 +36,8 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } usa 
 
 cookie-settings-category-analytics-heading = Analítica
 cookie-settings-category-analytics-what-are-subheading = ¿Qué son las cookies analíticas?
+cookie-settings-category-analytics-what-are-desc = Estas tecnologías recopilan información sobre cómo las personas usan los sitios web, como las páginas visitadas, los enlaces en los que se ha hecho clic y desde qué otros sitios web se originan las visitas.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } usa información analítica para entender cómo los usuarios interactúan con nuestros sitios web, de modo que podamos mejorarlos y solucionar cualquier problema que surja. También podemos usar datos de cookies, información del dispositivo y direcciones IP para ayudarnos a comprender cómo los usuarios interactúan con nuestros productos, servicios, comunicaciones, sitios web, campañas en línea, dispositivos y otras plataformas. Solo recopilaremos información de análisis y configuraremos cookies analíticas con tu consentimiento.
 
 ## Consent section
 
