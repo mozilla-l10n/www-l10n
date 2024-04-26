@@ -27,9 +27,13 @@ cookie-settings-category-preference-what-are-subheading = Che cosa sono i cookie
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Statistiche
+cookie-settings-category-analytics-what-are-subheading = Che cosa sono i cookie analitici?
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Il tuo consenso
 
 ## Privacy section
 
+cookie-settings-privacy-heading = La nostra informativa sulla privacy
+cookie-settings-privacy-policy-link = Informativa sulla privacy
