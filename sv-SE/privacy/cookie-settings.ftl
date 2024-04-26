@@ -9,6 +9,8 @@ cookie-settings-page-title = Kakinställningar
 cookie-settings-page-desc = Den här sidan beskriver de olika typer av kakor som { -brand-name-mozilla } kan använda och ger dig kontroll över vilka typer av data du samtycker till att { -brand-name-mozilla } samlar in.
 cookie-settings-breadcrumb-link = Föregående sida
 cookie-settings-explainer = Kakor är små filer som innehåller bitar av information som sparas på din dator eller enhet när du besöker en webbplats. { -brand-name-mozilla } använder kakor för att våra webbplatser ska fungera samt för att samla in information om hur du använder och interagerar med våra webbplatser, till exempel de sidor du besöker.
+cookie-settings-page-intro = Den här sidan beskriver de olika typer av kakor och liknande tekniker (såsom pixeltaggar, webb-beacons, clear GIFs, JavaScript och lokal lagring) ("Kakor") som { -brand-name-mozilla } kan använda och ger dig kontroll över vilka typer av uppgifter du samtycker till att { -brand-name-mozilla } samlar in.
+cookie-settings-how-mozilla-heading = Hur { -brand-name-mozilla } använder kakor
 cookie-settings-how-does-mozilla-use-subheading = Hur använder { -brand-name-mozilla } denna data?
 cookie-settings-save-changes = Spara ändringar
 cookie-settings-your-cookie-settings-have = Dina kakinställningar har uppdaterats.
@@ -35,9 +37,15 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } anv�
 cookie-settings-category-analytics-heading = Statistik
 cookie-settings-category-analytics-what-are-subheading = Vad är statistikkakor?
 cookie-settings-category-analytics-what-are-desc = Dessa tekniker samlar in information om hur människor använder webbplatser, till exempel besökta sidor, klickade länkar och vilka andra webbplatser besöket kom ifrån.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } använder analysinformation för att förstå hur användare interagerar med våra webbplatser så att vi kan förbättra dem och åtgärda eventuella problem som uppstår. Vi kan också använda data från kakor, enhetsinformation och IP-adresser för att hjälpa oss att förstå hur användare använder våra produkter, tjänster, kommunikation, webbplatser, onlinekampanjer, enheter och andra plattformar. Vi samlar endast in analysinformation och ställer in analyskakor med ditt samtycke.
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Ditt samtycke
+cookie-settings-your-consent-desc = Genom att godkänna kakor, kommer ditt samtycke att beviljas för följande lista över { -brand-name-mozilla } webbplatser, som alla följer samma strikta standarder för datasekretess. Observera att denna lista kan uppdateras med tiden.
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Vårt sekretessmeddelande
+cookie-settings-privacy-desc = För mer detaljerad information om de olika typerna av information som { -brand-name-mozilla } samlar in när du besöker våra webbplatser, hittar du en länk till vårt sekretessmeddelande nedan.
+cookie-settings-privacy-policy-link = Sekretessmeddelande
