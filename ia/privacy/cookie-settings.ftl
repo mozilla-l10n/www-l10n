@@ -30,6 +30,7 @@ cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } usa l
 cookie-settings-category-preference-heading = Preferentia
 cookie-settings-category-preference-what-are-subheading = Qual es le cookies de preferentia?
 cookie-settings-category-preference-what-are-desc = Iste technologias es usate pro memorar selectiones que tu ha facite durante un previe visita a un sito web. Per exemplo tu lingua de lectura preferite, o tu thema de color favorite.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } usa Cookies de preferentia pro honorar tu preferentias e meliorar tu experientia quando tu visita nostre sitos web. Illos non es usate pro proposito de analyse de datos. La Cookies de preferentia supporta functiones in un maniera simile al Cookies necessari, comocunque un sito web pote ancora operar sin illos. Ergo, tu pote seliger de refusar lor uso.
 
 ## Analytics cookies section
 
