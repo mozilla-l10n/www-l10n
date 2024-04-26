@@ -39,6 +39,7 @@ firefox-all-test-your-sites-against = 強力かつ柔軟な DevTools (既定で�
 firefox-all-count-on-stability-and = エンタープライズ用 { -brand-name-firefox } ブラウザーは、安定性と使いやすさを保証します。
 firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成、展開、管理を簡略化する IT 部署向けの Windows インストーラーです。
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
+firefox-all-arm64-installers-optimized-v2 = Windows と Linux PC 向けに最適化された ARM64/AArch64 インストーラー。
 
 # Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Snapdragon 搭載 { -brand-name-windows } PC 用に最適化された ARM64/AArch64 用インストーラーです。
