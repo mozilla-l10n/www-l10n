@@ -36,6 +36,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } usa 
 
 cookie-settings-category-analytics-heading = Analyse datos
 cookie-settings-category-analytics-what-are-subheading = Que es le cookies analytic?
+cookie-settings-category-analytics-what-are-desc = Iste technologias collige informationes re como on usa sitos web, tal como paginas visitate, ligamines cliccate, e qual altere visitas de sitos web origina.
 
 ## Consent section
 
