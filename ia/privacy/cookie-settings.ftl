@@ -42,8 +42,10 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } usa i
 ## Consent section
 
 cookie-settings-your-consent-heading = Tu consentimento
+cookie-settings-your-consent-desc = Acceptantele cookies, tu consenso sera concedite pro le sequente lista de sitos web { -brand-name-mozilla }, que tote seque le mesme rigorose standards pro le confidentialitate de datos. Nota que iste lista pote esser actualisate durante le tempore.
 
 ## Privacy section
 
 cookie-settings-privacy-heading = Nostre aviso de confidentialitate
+cookie-settings-privacy-desc = Pro informationes plus detaliate re le differente typos de informationes que { -brand-name-mozilla } collige quando tu visita nostre sitos web, tu pote trovar un ligamine a nostre aviso de confidentialitate infra.
 cookie-settings-privacy-policy-link = Aviso de confidentialitate
