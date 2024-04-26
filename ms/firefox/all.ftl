@@ -39,6 +39,7 @@ firefox-all-test-your-sites-against = Uji laman web anda menggunakan pelayar { -
 firefox-all-count-on-stability-and = Dapatkan kestabilan dan penggunaan yang mudah dengan pelayar { -brand-name-firefox } yang direka untuk perniagaan.
 firefox-all-windows-installers-for = Pemasang Windows untuk IT korporat yang memudahkan konfigurasi, penyebaran dan pengurusan { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Pemasang ARM64 / AArch64
+firefox-all-arm64-installers-optimized-v2 = Pemasang ARM64/AArch64 dioptimumkan untuk PC Windows dan Linux.
 
 # Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Pemasang ARM64 / AArch64 yang dioptimumkan untuk PC { -brand-name-windows } yang dikuasakan oleh Snapdragon.
