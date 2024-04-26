@@ -10,6 +10,8 @@ pdf-editor-pdf-editor = Editor PDF
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Tambahkan teks ke PDF dengan { -brand-name-firefox } Editor PDF
 
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Edit PDF gratis dengan Editor PDF { -brand-name-firefox }
 
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Buka dan edit file PDF langsung di { -brand-name-firefox }.
@@ -21,3 +23,7 @@ pdf-editor-add-text = Tambahkan teks
 pdf-editor-open-the-pdf-in-firefox-click-text = Buka PDF di { -brand-name-firefox }. Klik tombol Teks untuk memilih warna dan ukuran teks sebelum menentukan area pada dokumen tempat Anda ingin menambahkan teks. Semudah itu!
 pdf-editor-add-drawings-or-your-signature = Tambahkan gambar (atau tanda tangan Anda)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Buka PDF di { -brand-name-firefox }. Klik ikon Gambar untuk mengatur warna, ketebalan, dan tingkat opasitas sebelum mulai menggambar pada dokumen. Hasilnya mungkin tidak akan terlihat lebih berantakan daripada tanda tangan Anda yang biasa!
+pdf-editor-add-image-with-alt-text = Tambahkan gambar dengan alt text
+pdf-editor-open-pdf-click-image-icon = Buka PDF di { -brand-name-firefox }. Klik ikon gambar, lalu sistem akan meminta Anda untuk mengunggah gambar. Atur ukuran dan penempatan gambar Anda sesuai kebutuhan. Klik tombol “+Alt text” pada gambar untuk menambahkan deskripsi foto agar PDF Anda lebih mudah diakses.
+pdf-editor-create-a-highlight = Buat sorotan
+pdf-editor-select-text-you-want-to = Buka PDF di { -brand-name-firefox }. Pilih teks yang ingin Anda sorot, lalu klik ikon sorot yang muncul di bawah pilihan Anda, atau klik kanan untuk menemukan opsi sorot di menu konteks. Klik ikon di kanan atas untuk menyorot bagian PDF secara bebas dengan tangan.
