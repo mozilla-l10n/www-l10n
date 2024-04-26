@@ -10,6 +10,8 @@ pdf-editor-pdf-editor = PDF エディター
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF エディターで PDF にテキストを追加
 
+# page title
+pdf-editor-add-text-to-pdfs-v2 = { -brand-name-firefox } PDF エディターで PDF を無料で編集
 
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = PDF ファイルを { -brand-name-firefox } で直接表示、編集できます。
@@ -21,3 +23,7 @@ pdf-editor-add-text = テキストを追加する
 pdf-editor-open-the-pdf-in-firefox-click-text = { -brand-name-firefox } で PDF を開きます。テキストを追加する場所を選択する前に、[フリーテキスト注釈] ボタンをクリックして色とテキストのサイズを選択するだけで、とても簡単です。
 pdf-editor-add-drawings-or-your-signature = インク注釈または署名を追加する
 pdf-editor-open-the-pdf-in-firefox-click-draw = { -brand-name-firefox } で PDF を開きます。[インク注釈] アイコンをクリックして色、太さ、透明度を選択すると、ドキュメント上にインク注釈ができるようになります。思ったよりも滑らかな署名になるでしょう。
+pdf-editor-add-image-with-alt-text = 代替テキスト付きの画像を追加
+pdf-editor-open-pdf-click-image-icon = { -brand-name-firefox } で PDF を開きます。画像アイコンをクリックすると、画像のアップロードを求められます。必要に応じて画像のサイズと配置を調整します。画像上の [+代替テキスト] ボタンをクリックして写真の説明を追加し、PDF のアクセシビリティを高めます。
+pdf-editor-create-a-highlight = ハイライトを作成
+pdf-editor-select-text-you-want-to = { -brand-name-firefox } で PDF を開きます。ハイライトしたいテキストを選択し、選択範囲の下に表示されるハイライトアイコンをクリックするか、右クリックしてコンテキストメニューでハイライトオプションを呼び出します。右上のアイコンをクリックすると、PDF の選択範囲をフリーハンドでハイライトできます。
