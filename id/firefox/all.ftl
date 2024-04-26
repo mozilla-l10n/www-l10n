@@ -39,6 +39,7 @@ firefox-all-test-your-sites-against = Uji situs Anda dengan fitur peramban { -br
 firefox-all-count-on-stability-and = Andalkan stabilitas dan kemudahan penggunaan peramban { -brand-name-firefox } yang dirancang khusus untuk perusahaan ini.
 firefox-all-windows-installers-for = Penginstal Windows untuk TI perusahaan yang menyederhanakan konfigurasi, penerapan, dan pengelolaan { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Penginstal ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Penginstal ARM64/AArch64 dioptimalkan untuk PC Windows dan Linux.
 
 # Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Penginstal ARM64/AArch64 dioptimalkan untuk PC { -brand-name-windows } yang didukung Snapdragon.
