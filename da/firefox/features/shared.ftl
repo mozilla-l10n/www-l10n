@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-firefox-features = { -brand-name-firefox }-funktioner
 features-shared-footer-cta-button = Hent { -brand-name-firefox }
 features-shared-fingerprinter-blocking = Blokering af fingerprinters
 features-shared-translate-the-web = Oversæt websider
