@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = ਪਿੱਛੇ ਜਾਓ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla }, { -brand-name-firefox } ਨੂੰ ਬਣਾਉਣ ਵਾਲੇ ਗ਼ੈਰਫਾਇਦਾ ਸੰਗਠਨ ਬਾਰੇ <a href="{ $about }">ਸਿੱਖੋ</a>।
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦਾ ਮਾਣ ਰੱਖਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੇ { -brand-name-firefox } ਉਤਪਾਦਾਂ ਦੇ ਪੂਰੇ ਟੱਬਰ ਬਾਰੇ <a href={ $explore }>ਜਾਣੋ</a>।
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ <a href={ $download }>ਡਾਊਨਲੋਡ</a> ਕਰੋ
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } ਨੂੰ <a { $donate }>ਦਾਨ ਦਿਓ</a> ਅਤੇ ਵੱਡੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਬਚਾਓ।
