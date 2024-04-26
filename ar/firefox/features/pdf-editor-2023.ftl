@@ -10,6 +10,8 @@ pdf-editor-pdf-editor = مُحرر ملفات PDF
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = أضف نصوصًا إلى ملفات PDF باستخدام محرر ملفات PDF الموجود في متصفح { -brand-name-firefox }
 
+# page title
+pdf-editor-add-text-to-pdfs-v2 = عدّل ملفات PDF مجانًا باستخدام محرّر { -brand-name-firefox } لملفات PDF
 
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = اعرض ملفات PDF وحرّرها مباشرةً في متصفح { -brand-name-firefox }.
@@ -21,3 +23,7 @@ pdf-editor-add-text = أضِف نصا
 pdf-editor-open-the-pdf-in-firefox-click-text = افتح ملف الـ PDF في متصفح { -brand-name-firefox }.وانقر فوق الزر "نَص" لاختيار اللون وحجم النص قبل تحديد المكان الذي ترغب في إضافة نَص فيه في الملف.فالأمر بهذه السهولة!
 pdf-editor-add-drawings-or-your-signature = أضِف رسومات (أو توقيعك)
 pdf-editor-open-the-pdf-in-firefox-click-draw = افتح ملف الـ PDF في متصفح { -brand-name-firefox }.وانقر فوق أيقونة "رسم" لاختيار اللون والسُمك والقتامة قبل الرسم على الملف.وسيكون التوقيع أكثر تنظيمًا من توقيعك المُعتاد على الأرجح!
+pdf-editor-add-image-with-alt-text = إضافة صورة بنص بديل
+pdf-editor-open-pdf-click-image-icon = افتح ملف الـ PDF في مُتصفح { -brand-name-firefox }. انقر أيقونة الصورة، والتي سَتطلُب منك تحميل صورة. عدّل حجم صورتك ومكانها بحسب الحاجة. انقر زر "Alt text+" على الصورة لإضافة وصف صورة لِجعل ملف PDF أكثر سهولة في الوصول.
+pdf-editor-create-a-highlight = إنشاء تظليل
+pdf-editor-select-text-you-want-to = افتح ملف الـ PDF في مُتصفح { -brand-name-firefox }. اختر النص الذي تُريد تظليله، ثم انقر أيقونة التظليل التي تظهر تحت اختيارك، أو انقر باليمين للعثور على خيار التظليل في قائمة السياق. انقر الأيقونة أعلى اليمين لِتظليل أقسام الـ PDF يدويًا.
