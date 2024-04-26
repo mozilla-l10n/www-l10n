@@ -21,6 +21,7 @@ cookie-settings-turn-on-javascript = Activa JavaScript pro actualisar le paramet
 
 cookie-settings-category-necessary-heading = Necessari
 cookie-settings-category-necessary-what-are-subheading = Qual cookies es necessari?
+cookie-settings-category-necessary-what-are-desc = Iste technologias es necessari pro supportar functionalitates essential pro le sito web, tal como registration in un area secur de un sito web o adder elementos a un paniero de compras online, e non pote esser disactivate.
 
 ## Preference cookies section
 
