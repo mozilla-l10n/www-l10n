@@ -23,11 +23,14 @@ cookie-settings-turn-on-javascript = Por favor, activa JavaScript para actualiza
 cookie-settings-category-necessary-heading = Necesarias
 cookie-settings-category-necessary-what-are-subheading = ¿Qué son las cookies necesarias?
 cookie-settings-category-necessary-what-are-desc = Estas tecnologías son necesarias para admitir funcionalidades esenciales de un sitio web, como conectarte a un área segura de un sitio web o añadir artículos a una cesta de compras en línea, y no se pueden desactivar.
+cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } utiliza las cookies necesarias solo para proporcionar funcionalidades esenciales del sitio web, como conectarte a tu cuenta de { -brand-name-mozilla } o comprar una suscripción de software al finalizar al pasar a la etapa de pago. Sin estas tecnologías, es posible que las funcionalidades esenciales del sitio web no funcionen.
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = De preferencias
 cookie-settings-category-preference-what-are-subheading = ¿Qué son las cookies de preferencia?
+cookie-settings-category-preference-what-are-desc = Estas tecnologías se utilizan para recordar las elecciones que realizaste durante una visita anterior a un sitio web. Los ejemplos pueden incluir en qué idioma prefieres leer o qué tema de color es tu favorito.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } utiliza cookies de preferencias para respetar tus preferencias y mejorar tu experiencia al visitar nuestros sitios web. No se utilizan con fines analíticos. Las cookies de preferencia admiten funcionalidades de manera similar a las cookies necesarias; sin embargo, un sitio web aún puede funcionar sin ellas. Como tal, puedes optar por no utilizarlas.
 
 ## Analytics cookies section
 
