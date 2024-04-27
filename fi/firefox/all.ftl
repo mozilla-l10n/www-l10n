@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Testaa sivustosi pian julkaistavan { -bran
 firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen tämän yrityksiä varten rakennetun { -brand-name-firefox }-selaimen avulla.
 firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
 firefox-all-arm64-installers = ARM64/AArch64-asennusohjelmat
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64-asennusohjelmat on optimoitu Windows- ja Linux-tietokoneille.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64-asennusohjelmat optimoituna Snapdragoniin pohjautuville { -brand-name-windows }-tietokoneille.
 firefox-all-product-send-link = Lähetä latauslinkki puhelimeesi
 # Variables:
