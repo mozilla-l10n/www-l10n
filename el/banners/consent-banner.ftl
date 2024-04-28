@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/?geo=de
 
+consent-banner-heading = Βοηθήστε μας να βελτιώσουμε την εμπειρία σας με τη { -brand-name-mozilla }
 consent-banner-button-reject = Απόρριψη όλων των επιπρόσθετων cookie
 consent-banner-button-accept = Αποδοχή όλων των επιπρόσθετων cookie
 consent-banner-settings-link = Ρυθμίσεις cookie
