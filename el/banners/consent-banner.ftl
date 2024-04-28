@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/?geo=de
 
+consent-banner-button-reject = Απόρριψη όλων των επιπρόσθετων cookie
+consent-banner-button-accept = Αποδοχή όλων των επιπρόσθετων cookie
 consent-banner-settings-link = Ρυθμίσεις cookie
 consent-banner-aria-label = Μήνυμα για cookie
