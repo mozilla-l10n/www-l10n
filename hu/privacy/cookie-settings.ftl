@@ -8,6 +8,7 @@
 cookie-settings-page-title = Sütibeállítások
 cookie-settings-page-desc = Ez az oldal ismerteti a { -brand-name-mozilla } által használt különböző típusú sütiket, és irányítást ad Önnek afelett, hogy a { -brand-name-mozilla } milyen típusú adatgyűjtéséhez járul hozzá.
 cookie-settings-breadcrumb-link = Előző oldal
+cookie-settings-explainer = A sütik kis méretű fájlok, melyek adatdarabokat tartalmaznak, és melyek mentésre kerülnek az Ön számítógépére vagy eszközére, amikor felkeres egy weboldalt. A { -brand-name-mozilla } sütiket használ weboldalaink működésének elősegítésére, valamint hogy információkat gyűjtsön arról, hogyan használja a weboldalainkat, például a felkeresett oldalakat.
 
 ## Necessary cookies section
 
