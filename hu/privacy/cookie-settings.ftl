@@ -21,6 +21,7 @@ cookie-settings-turn-on-javascript = Kapcsolja be a JavaScriptet a sütibeállí
 ## Necessary cookies section
 
 cookie-settings-category-necessary-heading = Szükséges
+cookie-settings-category-necessary-what-are-subheading = Mik a szükséges sütik?
 
 ## Preference cookies section
 
