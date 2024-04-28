@@ -13,9 +13,14 @@ cookie-settings-page-intro = Ez az oldal a { -brand-name-mozilla } által esetle
 cookie-settings-how-mozilla-heading = Hogyan használja a { -brand-name-mozilla } sütiket
 cookie-settings-how-does-mozilla-use-subheading = Hogyan használja fel a { -brand-name-mozilla } ezeket az adatokat?
 cookie-settings-save-changes = Módosítások mentése
+cookie-settings-your-cookie-settings-have = A sütibeállítások frissítve lettek.
+cookie-settings-i-agree = Egyetértek
+cookie-settings-i-do-not-agree = Nem értek egyet
+cookie-settings-turn-on-javascript = Kapcsolja be a JavaScriptet a sütibeállítások frissítéséhez.
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Szükséges
 
 ## Preference cookies section
 
