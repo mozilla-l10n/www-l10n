@@ -10,6 +10,8 @@ pdf-editor-pdf-editor = PDF Editor
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Ajoutez du texte à des fichiers PDF avec PDF Editor sur { -brand-name-firefox }
 
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Modifier gratuitement des PDF avec PDF Editor sur { -brand-name-firefox }
 
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Visualisez et éditez des fichiers PDF directement dans { -brand-name-firefox }.
@@ -21,3 +23,7 @@ pdf-editor-add-text = Ajoutez du texte
 pdf-editor-open-the-pdf-in-firefox-click-text = Ouvrez le PDF dans { -brand-name-firefox }. Cliquez sur l'icône Texte pour choisir la couleur et la taille du texte avant de sélectionner l’endroit de votre document où vous souhaitez l’ajouter. C’est tout simple !
 pdf-editor-add-drawings-or-your-signature = Ajoutez des dessins (ou votre signature)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Ouvrez le PDF dans { -brand-name-firefox }. Cliquez sur l’icône Dessin pour choisir la couleur, l’épaisseur et l’opacité du trait avant de dessiner sur le document. Ce sera probablement tout aussi lisible que votre signature à main levée !
+pdf-editor-add-image-with-alt-text = Ajouter une image avec un texte descriptif
+pdf-editor-open-pdf-click-image-icon = Ouvrez le PDF dans { -brand-name-firefox }. Cliquez sur l’icône Image. Vous serez invité·e à télécharger une image. Ajustez la taille et la position de votre image. Cliquez sur le bouton « + Alt text » sur l’image pour ajouter une description de la photo et rendre votre PDF encore plus accessible.
+pdf-editor-create-a-highlight = Surligner du texte
+pdf-editor-select-text-you-want-to = Ouvrez le PDF dans { -brand-name-firefox }. Sélectionnez le texte que vous souhaitez surligner, puis cliquez sur l’icône de surlignage qui apparaît sous la sélection. Vous pouvez également effectuer un clic droit et sélectionner l’option de surlignage dans le menu contextuel. Cliquez sur l’icône en haut à droite pour surligner manuellement des sections du PDF.
