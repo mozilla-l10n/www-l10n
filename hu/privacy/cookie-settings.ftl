@@ -37,9 +37,15 @@ cookie-settings-category-preference-how-does-desc = A { -brand-name-mozilla } be
 cookie-settings-category-analytics-heading = Analitika
 cookie-settings-category-analytics-what-are-subheading = Mik azok az analitikai sütik?
 cookie-settings-category-analytics-what-are-desc = Ezek a technológiák információkat gyűjtenek arról, hogy az emberek hogyan használják a weboldalakat, például hogy mely lapokat látogatták meg, mely hivatkozásokra kattintottak, és mely weboldalakról érkeztek.
+cookie-settings-category-analytics-how-does-desc = A { -brand-name-mozilla } analitikai információkat használ annak érdekében, hogy megértse, a felhasználók hogyan használják a weboldalainkat, így továbbfejleszthetjük azokat, és javíthatjuk a felmerülő problémákat. Felhasználhatjuk a sütikből származó adatokat, eszközinformációkat és IP-címeket is, hogy segítsenek megértenünk, hogy a felhasználók hogyan használják a termékeinket, a szolgáltatásainkat, a közleményeinket, a weboldalainkat, az online kampányainkat, az eszközeinket és más platformjainkat. Csak az Ön hozzájárulásával gyűjtünk analitikai információkat és helyezünk el analitikai sütiket.
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Az Ön hozzájárulása
+cookie-settings-your-consent-desc = A sütik elfogadásával hozzájárulását adja a következő { -brand-name-mozilla(case: "lower", ending: "accented") }s weboldalak számára, melyek ugyanazokat a szigorú adatvédelmi szabványokat követik. Vegye figyelembe, hogy ez a lista idővel frissülhet.
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Az adatvédelmi nyilatkozatunk
+cookie-settings-privacy-desc = A { -brand-name-mozilla } által, a weboldalak felkeresése során gyűjtött adatokra vonatkozó további információkért alább talál egy az adatvédelmi nyilatkozatunkra mutató hivatkozást.
+cookie-settings-privacy-policy-link = Adatvédelmi nyilatkozat
