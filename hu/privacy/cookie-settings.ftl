@@ -22,12 +22,21 @@ cookie-settings-turn-on-javascript = Kapcsolja be a JavaScriptet a sütibeállí
 
 cookie-settings-category-necessary-heading = Szükséges
 cookie-settings-category-necessary-what-are-subheading = Mik a szükséges sütik?
+cookie-settings-category-necessary-what-are-desc = Ezek a technológiák az alapvető weboldal-funkciók támogatásához szükségesek, mint a bejelentkezés a weboldal biztonságos területére, vagy az elemek online kosárba tétele, és nem kapcsolhatók ki.
+cookie-settings-category-necessary-how-does-desc = A { -brand-name-mozilla } csak az alapvető weboldal-funkciók biztosításához szükséges sütiket használja, mint a { -brand-name-mozilla }-fiókjával való bejelentkezés vagy a szoftver-előfizetés megvásárlása a fizetéskor. Ezen technológiák nélkül lehet, hogy a weboldal alapvető funkciói nem fognak működni.
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Beállítás
+cookie-settings-category-preference-what-are-subheading = Mik azok a beállítássütik?
+cookie-settings-category-preference-what-are-desc = Ezek a technológiák a weboldal előző látogatása során hozott döntések megjegyzésére szolgálnak. Például arra, hogy mely nyelven olvas szívesebben, vagy melyik színtéma a kedvence.
+cookie-settings-category-preference-how-does-desc = A { -brand-name-mozilla } beállítássütiket használ, hogy tiszteletben tartsa az Ön beállításait, és javítsa a felhasználói élményét a weboldalaink felkeresése során. Analitikai célokra nem lesznek felhasználva. A beállítósütik a szükséges sütikhez hasonló módon támogatják a funkciókat, de a webhely nélkülük is tud működni. Ezért dönthet úgy, hogy kikapcsolja a használatukat.
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analitika
+cookie-settings-category-analytics-what-are-subheading = Mik azok az analitikai sütik?
+cookie-settings-category-analytics-what-are-desc = Ezek a technológiák információkat gyűjtenek arról, hogy az emberek hogyan használják a weboldalakat, például hogy mely lapokat látogatták meg, mely hivatkozásokra kattintottak, és mely weboldalakról érkeztek.
 
 ## Consent section
 
