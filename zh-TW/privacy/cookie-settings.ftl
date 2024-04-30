@@ -30,6 +30,7 @@ cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } 僅�
 cookie-settings-category-preference-heading = 個人化
 cookie-settings-category-preference-what-are-subheading = 個人化 Cookie 是什麼？
 cookie-settings-category-preference-what-are-desc = 這些技術是用於記住您先前造訪網站時做過的選擇。例如您偏好閱讀的語言版本，或是希望使用的色彩主題。
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } 使用個人化 Cookie 來紀錄您的偏好，並改善您造訪網站的體驗。這些 Cookie 不會用於統計分析使用。個人化 Cookie 的功能與必要 Cookie 類似，但網站沒有它們仍然可以運作，所以您可以拒絕接受它們。
 
 ## Analytics cookies section
 
@@ -41,6 +42,7 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } 會�
 ## Consent section
 
 cookie-settings-your-consent-heading = 您的同意內容
+cookie-settings-your-consent-desc = 同意設定 Cookie 就代表您同意下列 { -brand-name-mozilla } 網站，可依照相同且嚴格的資料隱私保護標準設定 Cookie。請注意：這份清單可能會隨時更新。
 
 ## Privacy section
 
