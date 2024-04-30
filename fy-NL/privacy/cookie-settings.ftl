@@ -28,11 +28,15 @@ cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } brûk
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Foarkar
+cookie-settings-category-preference-what-are-subheading = Wat binne foarkarcookies?
+cookie-settings-category-preference-what-are-desc = Dizze technologyen wurde brûkt om karren te ûnthâlden dy't jo makke hawwe wylst in eardere besite oan in website. Foarbylden kinne omfetsje hokker taal jo leaver yn lêze, of hokker kleurtema jo favoryt is.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } brûkt foarkarscookies om oan jo foarkarren te foldwaan en jo ûnderfining te ferbetterjen by it besykjen fan ús websites. Se wurde net brûkt foar analytyske doelen. Foarkarscookies stypje funksjes op in fergelykbere manier as needsaaklike cookies, in website kin lykwols noch sûnder har operearje. As sadanich kinne jo kieze om jo ôf te melden foar it gebrûk derfan.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analytysk
 cookie-settings-category-analytics-what-are-subheading = Wat binne analytyske cookies?
+cookie-settings-category-analytics-what-are-desc = Dizze technologyen sammelje ynformaasje oer hoe’t minsken websites brûke, lykas besochte siden, oanklikte keppelingen, en fan hokker oare websites besiten ôfkomstich binne.
 
 ## Consent section
 
