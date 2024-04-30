@@ -9,6 +9,8 @@ cookie-settings-page-title = Cookie 設定
 cookie-settings-page-desc = 此頁面描述了 { -brand-name-mozilla } 會使用的不同類型 Cookie，並讓您可自行控制要同意 { -brand-name-mozilla } 收集哪些類型的資料。
 cookie-settings-breadcrumb-link = 上一頁
 cookie-settings-explainer = Cookie 是當您造訪網站時，儲存到您的電腦或裝置中的小檔案，當中可包含一些資訊。 { -brand-name-mozilla } 使用 Cookie 來儲存讓我們的網站能正常運作，並收集您如何使用網站，或造訪過哪些頁面的互動資訊。
+cookie-settings-page-intro-v2 = 此頁面描述了 { -brand-name-mozilla } 可能使用的不同類型 Cookie 及類似技術諸如 pixel tag、web信標、clear GIF、JavaScript 及本機儲存空間以下稱「Cookie」讓您可自行控制您同意 { -brand-name-mozilla } 收集哪些類型的資料。
+# Obsolete string (expires: 2024-07-01)
 cookie-settings-page-intro = 此頁面描述了 { -brand-name-mozilla } 可能會使用，以及您同意使用的不同類型 Cookie（與類似技術，諸如像素標籤、網路信標、透明 GIF、JavaScript、本機儲存空間等，通稱為「Cookie」），同時也讓您控制要同意 { -brand-name-mozilla } 收集哪些類型的資料。
 cookie-settings-how-mozilla-heading = { -brand-name-mozilla } 如何使用 Cookie
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } 如何使用此資料？
