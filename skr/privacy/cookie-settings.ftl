@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = کوکی ترتیباں
+cookie-settings-breadcrumb-link = پچھلا ورقہ
 cookie-settings-save-changes = تبدیلیاں محفوظ کرو
 cookie-settings-your-cookie-settings-have = تہاݙیاں کوکی ترتیباں اپ ڈیٹ تھی ڳیاں۔
 cookie-settings-i-agree = میں متفق ہاں
