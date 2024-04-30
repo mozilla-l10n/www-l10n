@@ -16,13 +16,13 @@ what-is-a-browser-its-important = 讓每個人都能夠上網相當重要，但�
 what-is-a-browser-in-a-short-period-long = 在短短幾年間，我們就從單純向世界各地的人們寄送電子郵件感到驚奇，轉變為改變了對資訊的認知方式。現在的問題不再只是你知道多少資訊，而是哪一套瀏覽器或應用程式，能讓您最快獲得所需資訊。
 what-is-a-browser-in-a-short-period = 在短短幾年間，我們就從單純向世界各地的人們寄送電子郵件感到驚奇，轉變為改變了對資訊的認知方式。
 what-is-a-browser-how-does-a-web = 網頁瀏覽器如何運作？
-what-is-a-browser-a-web-browser-long = 網頁瀏覽器能帶您暢遊網際網路。它會從網路的其他部分取得資訊並顯示在您的桌機或行動裝置上。資訊將使用超文字傳輸通訊協定來傳輸。該通訊協定定義了文字、圖片、影片要如何在網路上傳輸。您必須分享此資訊並以一致的格式顯示讓在世界上任何地方使用任何瀏覽器的人都可以看到資訊。
+what-is-a-browser-a-web-browser-long = 網頁瀏覽器能帶您暢遊網際網路。它會從網路的其他部分取得資訊並顯示在您的桌機或行動裝置上。資訊將使用超文字傳輸通訊協定進行傳輸，此通訊協定定義了文字、圖片、影片要如何在網路上傳輸。此資訊必需讓所有人都能共享，並以一致的格式顯示，才能在世界上任何地方，讓使用任何瀏覽器的人都可以看到相同資訊。
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
-what-is-a-browser-sadly-not-all = 很可惜不是所有的瀏覽器製造商都使用相同的方式解讀此格式。對使用者來說這代表網站可以用不同的方式外觀與運作。我們稱為<a href="{ $standards }">網頁標準</a>在不同瀏覽器間建立連線讓任何使用者不論使用哪種瀏覽器都可以上網。
+what-is-a-browser-sadly-not-all = 遺憾的是，並非所有瀏覽器製造商都採用相同方式來解析格式。對於使用者而言，這代表同一個網站在不同瀏覽器可能會有不同的外觀和功能表現。為了讓各瀏覽器能有一致的行為，人們建立了<a href="{ $standards }">網頁標準</a>，讓所有使用者，無論選擇哪套瀏覽器，都能有相同的體驗。
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
-what-is-a-browser-when-the-web-browser = 網頁瀏覽器自網路連線的伺服器取得資料時會使用一套稱為「繪圖引擎」的軟體將資料翻譯成文字與圖片。這些資料是使用 <a href="{ $html }">超文字標記語言</a> (HTML) 寫成讓網頁瀏覽器讀取這段程式碼就可以在網路上看到、聽到、體驗到什麼。
+what-is-a-browser-when-the-web-browser = 當網頁瀏覽器從伺服器取回資料時，會利用一套名為「渲染引擎」的軟體將這些資料轉換成文字和圖片。這些資料是使用<a href="{ $html }">超文本標記語言</a>（HTML）編寫的，網頁瀏覽器讀取這些內容並轉換後，呈現我們在網上所看到、聽到和體驗到的內容。
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
