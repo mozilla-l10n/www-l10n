@@ -31,6 +31,8 @@ cookie-settings-category-analytics-what-are-subheading = 統計用 Cookie 是什
 
 ## Consent section
 
+cookie-settings-your-consent-heading = 您的同意內容
 
 ## Privacy section
 
+cookie-settings-privacy-heading = 我們的隱私權公告
