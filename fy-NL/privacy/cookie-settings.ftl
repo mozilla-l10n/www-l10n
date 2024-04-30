@@ -22,6 +22,8 @@ cookie-settings-turn-on-javascript = Skeakelje JavaSkript yn om jo cookie-ynstel
 
 cookie-settings-category-necessary-heading = Needsaaklik
 cookie-settings-category-necessary-what-are-subheading = Wat binne needsaaklike cookies?
+cookie-settings-category-necessary-what-are-desc = Dizze technologyen binne fereaske om essinsjele websitefunksjes te stypjen, lykas oanmelde op in feilich part fan in website of it tafoegjen fan artikelen oan in online winkelkoer, en kinne net útskeakele wurde.
+cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } brûkt allinnich needsaaklike cookies om essinsjele websitefunksjes te bieden, lykas oanmelde mei jo { -brand-name-mozilla }-account of it keapjen fan in softwareabonnemint by it ôfrekkenjen. Sûnder dizze technologyen kinne essinsjele websitefunksjes mooglik net funksjonearje.
 
 ## Preference cookies section
 
