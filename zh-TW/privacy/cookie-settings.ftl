@@ -22,17 +22,20 @@ cookie-settings-turn-on-javascript = 請開啟 JavaScript 來更新您的 Cookie
 
 cookie-settings-category-necessary-heading = 必要
 cookie-settings-category-necessary-what-are-subheading = 必要 Cookie 是什麼？
+cookie-settings-category-necessary-what-are-desc = 必需使用這些技術才能提供網站的必要功能，例如：登入網站的安全區域、將產品加入購物車等功能，無法關閉。
 cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } 僅可使用必要 Cookie，來提供網站所必需的功能。例如在登入您的 { -brand-name-mozilla } 帳號，或在購買軟體訂閱時使用。若沒有這些技術，網站的必需功能可能無法正常運作。
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = 個人化
 cookie-settings-category-preference-what-are-subheading = 個人化 Cookie 是什麼？
+cookie-settings-category-preference-what-are-desc = 這些技術是用於記住您先前造訪網站時做過的選擇。例如您偏好閱讀的語言版本，或是希望使用的色彩主題。
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = 統計
 cookie-settings-category-analytics-what-are-subheading = 統計用 Cookie 是什麼？
+cookie-settings-category-analytics-what-are-desc = 這些技術會收集人們如何使用網站的資訊，例如造訪過的頁面、點擊過的鏈結，以及鏈結造訪來源。
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } 會使用統計用資訊來了解使用者如何與網站互動，以便我們能夠改善網站或修正問題。我們也可能會使用來自 Cookie 的資料、裝置資訊、IP 地址來幫助我們了解使用者如何使用我們的產品、服務、通訊、網站、線上活動、裝置及其他平台。我們只會在您同意後才收集此資訊並設定統計用 Cookie。
 
 ## Consent section
