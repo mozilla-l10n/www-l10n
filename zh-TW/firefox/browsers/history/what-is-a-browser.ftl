@@ -13,8 +13,8 @@ what-is-a-browser-the-web-is-a-vast = 網路是一套強大的工具。過去數
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = 讓每個人都能夠上網相當重要，但能夠<a href="{ $tools }">了解有哪些能用來上網的工具</a>也很重要。我們每天都使用 { -brand-name-mozilla } { -brand-name-firefox }、 { -brand-name-google } { -brand-name-chrome }、{ -brand-name-microsoft } { -brand-name-edge } 以及 { -brand-name-apple } { -brand-name-safari } 等網頁瀏覽器，但我們了解它們是什麼，以及是如何運作的嗎？
-what-is-a-browser-in-a-short-period-long = 在很短的時間內我們就可以傳送電子郵件給世界各地的朋友並改變我們看待資訊的方式。問題已不再是您知道多少資訊的問題而只是哪套瀏覽器或應用程式可以更快帶您找到這些資訊的問題。
-what-is-a-browser-in-a-short-period = 在這麼短的時間內我們就可以傳送電子郵件給世界各地的朋友並改變我們對待資訊的方式。
+what-is-a-browser-in-a-short-period-long = 在短短幾年間，我們就從單純向世界各地的人們寄送電子郵件感到驚奇，轉變為改變了對資訊的認知方式。現在的問題不再只是你知道多少資訊，而是哪一套瀏覽器或應用程式，能讓您最快獲得所需資訊。
+what-is-a-browser-in-a-short-period = 在短短幾年間，我們就從單純向世界各地的人們寄送電子郵件感到驚奇，轉變為改變了對資訊的認知方式。
 what-is-a-browser-how-does-a-web = 網頁瀏覽器如何運作？
 what-is-a-browser-a-web-browser-long = 網頁瀏覽器能帶您暢遊網際網路。它會從網路的其他部分取得資訊並顯示在您的桌機或行動裝置上。資訊將使用超文字傳輸通訊協定來傳輸。該通訊協定定義了文字、圖片、影片要如何在網路上傳輸。您必須分享此資訊並以一致的格式顯示讓在世界上任何地方使用任何瀏覽器的人都可以看到資訊。
 # Variables:
