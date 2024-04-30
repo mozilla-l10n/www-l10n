@@ -6,10 +6,12 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Cookie 設定
+cookie-settings-page-desc = 此頁面描述了 { -brand-name-mozilla } 會使用的不同類型 Cookie，並讓您可自行控制要同意 { -brand-name-mozilla } 收集哪些類型的資料。
 cookie-settings-breadcrumb-link = 上一頁
 cookie-settings-how-mozilla-heading = { -brand-name-mozilla } 如何使用 Cookie
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } 如何使用此資料？
 cookie-settings-save-changes = 儲存變更
+cookie-settings-your-cookie-settings-have = 已更新您的 Cookie 設定。
 cookie-settings-i-agree = 我同意
 cookie-settings-i-do-not-agree = 我不同意
 cookie-settings-turn-on-javascript = 請開啟 JavaScript 來更新您的 Cookie 設定。
