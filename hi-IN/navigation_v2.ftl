@@ -20,8 +20,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } के लिए { -brand-na
 navigation-v2-get-the-mobile-browser = अपने { -brand-name-iphone } या { -brand-name-ipad } के लिए मोबाइल ब्राउज़र पाएँ।
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = मोबाइल ब्राउज़िंग पूरी निजता के साथ।
-navigation-v2-privacy-promise = गोपनीयता वादा
-navigation-v2-learn-how-firefox-treats = जानें कि { -brand-name-firefox } आपके डेटा के साथ किस तरह सम्मानपूर्वक पेश आता है।
 navigation-v2-firefox-blog = { -brand-name-firefox } ब्लॉग
 navigation-v2-read-about-new-firefox-features = नए { -brand-name-firefox } फ़ीचर्स और इंटरनेट पर सुरक्षित बने रहने के तरीकों के बारे में जानें।
 navigation-v2-release-notes = रिलीज़ नोट्स
@@ -33,10 +31,6 @@ navigation-v2-view-all-firefox-browsers = सभी { -brand-name-firefox-browse
 navigation-v2-products = उत्पाद
 navigation-v2-close-products-menu = उत्पाद मेन्यू बंद करें
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-
 navigation-v2-see-if-your-email-has = देखें कि क्या आपका ईमेल किसी कंपनी के डेटा उल्लंघन के घेरे में आया है।
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = इंटरनेट पर सबसे बढ़िया स्टोरीज़ देखें और सेव करें।
@@ -44,8 +38,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } को उनकी साइट के अलावा कहीं और से आपका डेटा इकट्ठा करने से रोकें।
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = अपने सभी डिवाइसों पर अपने ब्राउज़र के अलावा भी सुरक्षा पाएँ।
-navigation-v2-product-promise = उत्पाद संबंधी वचन
-navigation-v2-learn-how-each-firefox-product = जानें कि हरेक { -brand-name-firefox } प्रोडक्ट आपके डेटा का सम्मान और सुरक्षा कैसे करता है।
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (बीटा)
 navigation-v2-sign-up-for-new-accounts = अपना ईमेल एड्रेस दिए बिना नए अकाउंट के लिए साइन अप करें।

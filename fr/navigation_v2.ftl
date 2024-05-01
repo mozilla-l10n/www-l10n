@@ -20,8 +20,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } pour { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obtenez le navigateur mobile pour votre { -brand-name-iphone } ou { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Navigation mobile simple et privée.
-navigation-v2-privacy-promise = Notre engagement pour le respect de la vie privée
-navigation-v2-learn-how-firefox-treats = Découvrez comment { -brand-name-firefox } traite vos données avec respect.
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Découvrez les nouvelles fonctionnalités de { -brand-name-firefox } et comment rester en sécurité en ligne.
 navigation-v2-release-notes = Notes de mise à jour
@@ -33,10 +31,6 @@ navigation-v2-view-all-firefox-browsers = Voir tous les { -brand-name-firefox-br
 navigation-v2-products = Produits
 navigation-v2-close-products-menu = Fermer le menu Produits
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-
 navigation-v2-see-if-your-email-has = Vérifiez si votre adresse électronique est apparue dans une fuite de données d’une entreprise.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Enregistrez et découvrez les meilleurs articles du Web.
@@ -44,8 +38,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Empêchez { -brand-name-facebook } de collecter vos données en dehors de son site.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Obtenez une protection au-delà de votre navigateur, sur tous vos appareils.
-navigation-v2-product-promise = Promesse de produit
-navigation-v2-learn-how-each-firefox-product = Découvrez comment chaque produit { -brand-name-firefox } protège et respecte vos données.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (bêta)
 navigation-v2-sign-up-for-new-accounts = Créez de nouveaux comptes sans transmettre votre adresse électronique.

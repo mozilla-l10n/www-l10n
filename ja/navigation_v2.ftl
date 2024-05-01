@@ -20,8 +20,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } 用 { -brand-name-firefox }
 navigation-v2-get-the-mobile-browser = { -brand-name-iphone } または { -brand-name-ipad } 用のモバイルブラウザーをご利用ください。
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = シンプルにプライベートなモバイルブラウジング。
-navigation-v2-privacy-promise = プライバシー保護の約束
-navigation-v2-learn-how-firefox-treats = { -brand-name-firefox } によるユーザーのデータ保護対策をご覧ください。
 navigation-v2-firefox-blog = { -brand-name-firefox } のブログ
 navigation-v2-read-about-new-firefox-features = { -brand-name-firefox } の新機能とオンラインで安全を守る方法をご覧ください。
 navigation-v2-release-notes = リリースノート
@@ -33,10 +31,6 @@ navigation-v2-view-all-firefox-browsers = すべての { -brand-name-firefox-bro
 navigation-v2-products = 製品
 navigation-v2-close-products-menu = 製品メニューを閉じる
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-
 navigation-v2-see-if-your-email-has = お使いのメールが企業のデータ漏洩で検出された場合に表示します。
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = ウェブ全体から最高のストーリーを保存、発見します。
@@ -44,8 +38,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } からサイト外でデータを収集されないようブロックします。
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = すべてのデバイスで、ブラウザーを超えた保護を提供します。
-navigation-v2-product-promise = 製品の約束
-navigation-v2-learn-how-each-firefox-product = { -brand-name-firefox } の各製品がユーザーのデータをどのように保護、尊重しているかをご覧ください。
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ベータ)
 navigation-v2-sign-up-for-new-accounts = メールアドレスを提供せずに新しいアカウントを新規登録します。

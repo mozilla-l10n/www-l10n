@@ -20,8 +20,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } untuk { -brand-name-ios 
 navigation-v2-get-the-mobile-browser = Dapatkan pelayar mudah alih untuk { -brand-name-iphone } atau { -brand-name-ipad } anda.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Pelayar mudah alih yang benar-benar peribadi.
-navigation-v2-privacy-promise = Janji Privasi
-navigation-v2-learn-how-firefox-treats = Ketahui bagaimana { -brand-name-firefox } menjaga data anda dengan bertanggungjawab.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Bacalah mengenai ciri-ciri terkini { -brand-name-firefox } dan kaedah menjaga keselamatan dalam talian.
 navigation-v2-release-notes = Nota Siaran
@@ -33,10 +31,6 @@ navigation-v2-view-all-firefox-browsers = Lihat semua { -brand-name-firefox-brow
 navigation-v2-products = Produk
 navigation-v2-close-products-menu = Tutup menu Produk
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-
 navigation-v2-see-if-your-email-has = Lihat jika e-mel anda telah muncul dalam kebocoran data sesebuah syarikat.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Simpan dan terokai kisah-kisah terbaik dari seluruh laman web.
@@ -44,8 +38,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Bantulah mencegah { -brand-name-facebook } daripada mengumpulkan data anda di luar laman mereka.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Dapatkan perlindungan bukan sekadar pelayar, bagi kesemua pelayar anda.
-navigation-v2-product-promise = Janji Produk
-navigation-v2-learn-how-each-firefox-product = Ketahui bagaimana setiap produk { -brand-name-firefox } melindungi dan menghormati data anda.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Daftar untuk akaun baru tanpa menyerahkan alamat e-mel anda.

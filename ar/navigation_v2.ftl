@@ -20,8 +20,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } لنظام تشغيل { 
 navigation-v2-get-the-mobile-browser = احصل على متصفح الهاتف المحمول لجهاز { -brand-name-iphone } أو { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = مُتصفِّح يتميز بالخصوصية للأجهزة المحمولة
-navigation-v2-privacy-promise = وعد الخصوصية
-navigation-v2-learn-how-firefox-treats = تعرَّف على كيفية تعامل { -brand-name-firefox } مع بياناتك باحترام.
 navigation-v2-firefox-blog = مدونة { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = اقرأ عن ميزات { -brand-name-firefox } الجديدة وطرق البقاء آمنًا على الإنترنت.
 navigation-v2-release-notes = ملاحظات الإصدار
@@ -33,10 +31,6 @@ navigation-v2-view-all-firefox-browsers = شاهد جميع { -brand-name-firefo
 navigation-v2-products = المنتجات
 navigation-v2-close-products-menu = أغلِق قائمة "المنتجات"
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
-
 navigation-v2-see-if-your-email-has = تحقَّق مما إذا كان بريدك الإلكتروني قد ظهر في عملية خرق لبيانات الشركة أم لا.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = احفظ أفضل القصص واكتشفها عبر شبكة الويب.
@@ -44,8 +38,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = ساعِد في منع { -brand-name-facebook } من جمع بياناتك خارج موقعه.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = احمِ جميع أجهزتك، وليس مُتصفحك فقط.
-navigation-v2-product-promise = وعد المنتجات
-navigation-v2-learn-how-each-firefox-product = تعرّف على الطريقة التي يحمي بها كل مُنتج من منتجات { -brand-name-firefox } بياناتك ويحترمها.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (بيتا)
 navigation-v2-sign-up-for-new-accounts = سجِّل للحصول على حسابات جديدة دون الإفصاح عن عنوان بريدك الإلكتروني.
