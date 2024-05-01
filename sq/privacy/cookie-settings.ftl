@@ -14,15 +14,21 @@ cookie-settings-i-do-not-agree = Nuk Pajtohem
 ## Necessary cookies section
 
 cookie-settings-category-necessary-heading = Të nevojshme
+cookie-settings-category-necessary-what-are-subheading = Ç’janë Cookie-t e Nevojshme?
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Parapëlqim
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Statistika
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Pranim nga ju
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Shënimi ynë mbi privatësinë
+cookie-settings-privacy-policy-link = Shënim Mbi Privatësinë

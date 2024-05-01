@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Provoni sajtet tuaj kundrejt veçorive të
 firefox-all-count-on-stability-and = Lërjani qëndrueshmërinë dhe lehtësinë e përdorimit këtij shfletuesi { -brand-name-firefox } të montuar për ndërrmarje.
 firefox-all-windows-installers-for = Instalues Windows për TI korporatash, që thjeshtojnë formësimin, vënien në punë dhe administrimin e shfletuesit { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instalues për platforma ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Instalues për ARM64/AArch64 të optimizuar për PC Windows dhe Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Instalues për platforma ARM64/AArch64 optimizuar për PC { -brand-name-windows } ngritur mbi Snapdragon.
 firefox-all-product-send-link = Dërgoni te telefoni juaj një lidhje shkarkimi
 # Variables:

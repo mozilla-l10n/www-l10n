@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Përpunues PDF
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Shtoni tekst te PDF-ra, me Përpunuesin e PDF-ve të { -brand-name-firefox }-it
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Përpunoni falas PDF, me Përpunuesin e PDF-ve të { -brand-name-firefox }-it
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Shihni dhe përpunoni kartela PDF drejt e në { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Nëse ju duhet të shtoni gjëra te një dokument PDF, tani këtë mund ta bëni në linjë, me { -brand-name-firefox }. Hapeni PDF-në në { -brand-name-firefox } dhe klikoni butonat Tekst, ose Vizatim në cepin e sipërm djathtas, për të bërë ndryshimet tuaja te dokumenti. Shkarkojeni kartelën, që të ruani ndryshimet tuaja.
