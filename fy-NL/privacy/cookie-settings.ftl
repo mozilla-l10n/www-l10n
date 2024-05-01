@@ -9,6 +9,8 @@ cookie-settings-page-title = Cookie-ynstellingen
 cookie-settings-page-desc = Dizze side beskriuwt de ferskate soarten cookies dy’t { -brand-name-mozilla } brûke kin, en jout jo kontrôle oer hokker soarten gegevens jo troch { -brand-name-mozilla } sammelje litte.
 cookie-settings-breadcrumb-link = Foarige side
 cookie-settings-explainer = Cookies binne lytse bestannen dy’t stikjes ynformaasje befetsje dy’t bewarre wurde op jo kompjûter of apparaat as jo in website besykje. { -brand-name-mozilla } brûkt cookies om ús websites helpe wurkje te litten, en ek om ynformaasje te sammeljen oer hoe’t jo ús websites brûke en dêrmei omgean, lykas de siden dy’t jo besykje.
+cookie-settings-page-intro-v2 = Dizze side beskriuwt de ferskate soarten cookies en ferlykbere technologyen, lykas pixeltags, webbeacons, dúdlike GIF's, JavaScript, en lokale opslach (hjirnei: ‘cookies’) dy't { -brand-name-mozilla } brûke kinne, en jout jo kontrôle oer hokker soarten gegevens jo ynstimme mei it sammeljen fan { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-07-01)
 cookie-settings-page-intro = Dizze side beskriuwt de ferskate soarten cookies en ferlykbere technologyen (lykas pixeltags, webbeacons, dúdlike GIF's, JavaScript, en lokale opslach) (‘Cookies’) dy't { -brand-name-mozilla } brûke kinne, en jout jo kontrôle oer hokker soarten gegevens jo ynstimme mei it sammeljen fan { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Hoe { -brand-name-mozilla } cookies brûkt
 cookie-settings-how-does-mozilla-use-subheading = Hoe brûkt { -brand-name-mozilla } dizze gegevens?
