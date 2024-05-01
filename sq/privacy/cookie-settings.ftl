@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
+cookie-settings-page-title = Rregullime cookie-sh
 cookie-settings-breadcrumb-link = Faqja e mëparshme
 cookie-settings-save-changes = Ruaji Ndryshimet
 cookie-settings-your-cookie-settings-have = Rregullimet tuaja për “Cookies” u përditësuan.
