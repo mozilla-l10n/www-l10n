@@ -92,6 +92,7 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillues
 firefox-developer-mdn-references = Referenca { -brand-name-mdn }
 firefox-developer-mdn-is-a = { -brand-name-mdn } është një projekt me burim të hapët, që zhvillohet përmes bashkëpunimi, për dokumentim teknologjish platformash web, përfshi CSS, HTML, JavaScript dhe API web.
+firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
 firefox-developer-a-structured-guide = Një udhërrëfyes i strukturuar rreth aftësish thelbësore dhe praktikash për të filluar të jeni një zhvillues i suksesshëm <em>front-end</em>, tok me burime të rekomanduara të nxëni.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.

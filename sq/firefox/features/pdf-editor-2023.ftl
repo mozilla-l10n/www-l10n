@@ -21,3 +21,7 @@ pdf-editor-add-text = Shtoni tekst
 pdf-editor-open-the-pdf-in-firefox-click-text = Hapeni PDF-në në { -brand-name-firefox }. Klikoni butonin Tekst që të zgjidhni një ngjyrë dhe madhësi teksti, para se të përzgjidhni se ku në dokumentin tuaj dëshironi të shtoni tekst. Kaq e lehtë është!
 pdf-editor-add-drawings-or-your-signature = Shtoni vizatime (ose nënshkrimin tuaj)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Hapeni PDF-në në { -brand-name-firefox }. Klikoni ikonën Vizatim, që të zgjidhni një ngjyrë, trashësi dhe patejdukshmëri, para se të jeni mandej në gjendje të vizatoni te dokumenti. Gjasat janë që s’do të jetë më pak i kuptueshëm se sa nënshkrimi juaj i zakonshëm!
+pdf-editor-add-image-with-alt-text = Shtoni figurë me tekst alternativ
+pdf-editor-open-pdf-click-image-icon = Hapeni PDF-në në { -brand-name-firefox }. Klikoni ikonën e figurës, çka mandej do t’ju kërkojë të ngarkoni një figurë. Rregulloni madhësinë dhe vendosjen e figurës tuaj, sipas nevojës. Klikoni butonin “+Tekst alternativ” te figura, që të shtoni një përshkrim për të, për ta bërë më të lehtë të kuptuarit e PDF-së.
+pdf-editor-create-a-highlight = Krijoni një theksim
+pdf-editor-select-text-you-want-to = Hapeni PDF-në në { -brand-name-firefox }. Përzgjidhni tekstin që doni të theksohet, mandej klikoni ikonën e theksimeve që shfaqet nën përzgjedhjen, ose djathtasklikoni, që ta gjeni mundësinë e theksimit te menuja e kontekstit. Klikoni ikonën sipër djathtas që të theksoni me dorë të lirë pjesë të PDF-së.

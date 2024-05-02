@@ -7,10 +7,12 @@
 
 cookie-settings-page-title = Rregullime cookie-sh
 cookie-settings-breadcrumb-link = Faqja e mëparshme
+cookie-settings-how-does-mozilla-use-subheading = Si i përdor { -brand-name-mozilla } këto të dhëna?
 cookie-settings-save-changes = Ruaji Ndryshimet
 cookie-settings-your-cookie-settings-have = Rregullimet tuaja për “Cookies” u përditësuan.
 cookie-settings-i-agree = Pajtohem
 cookie-settings-i-do-not-agree = Nuk Pajtohem
+cookie-settings-turn-on-javascript = Që të përditësoni rregullimet tuaja për Cookie-t, ju lutemi, aktivizoni JavaScript-in.
 
 ## Necessary cookies section
 
