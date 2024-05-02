@@ -19,7 +19,7 @@ set-as-default-thanks-heres-everything-you-need-android = Dyma bopeth sydd angen
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Dyma bopeth sydd angen i chi ei wybod am osod eich porwr rhagosodedig ar <a href="{ $ios }">ddyfeisiau iOS</a>.
 set-as-default-thanks-youre-all-set = Rydych chi nawr yn barod.
-set-as-default-thanks-get-firefox-for-mobile = { -brand-name-firefox } ar gyfer symudol
+set-as-default-thanks-get-firefox-for-mobile = Cael { -brand-name-firefox } ar gyfer symudol
 set-as-default-thanks-travel-the-internet-with = Teithiwch y rhyngrwyd gyda diogelwch, ar eich holl ddyfeisiau.
 set-as-default-thanks-download-the-app = Llwytho'r ap i lawr
 # Obsolete string

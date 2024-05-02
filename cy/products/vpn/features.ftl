@@ -36,7 +36,7 @@ vpn-features-connect-up-to =
        *[other] Cysylltwch hyd at { $devices } dyfais
     }
 vpn-features-supported-platforms = Yn cael ei gefnogi ar systemau gweithredu Windows, macOS, Android, iOS a Linux.
-vpn-features-no-bandwidth = Dim cyfyngiadau lled band na chyfyngu
+vpn-features-no-bandwidth = Dim cyfyngiadau lled band na rhwystro
 vpn-features-including-no-data = Gan gynnwys dim cap data na therfyn cyflymder.
 vpn-features-fast-network = Cyflymder rhwydwaith uchel hyd yn oed wrth chwarae
 # Variables
