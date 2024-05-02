@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/?geo=de
 
+consent-banner-button-reject = Emboykepaite kookie juajupyre
+consent-banner-button-accept = Emoneĩmbaite kookie juajupyre
 consent-banner-settings-link = Kookie ñemboheko
 consent-banner-aria-label = Kookie Banner
