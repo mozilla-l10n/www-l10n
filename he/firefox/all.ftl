@@ -16,19 +16,24 @@ firefox-all-you-are-about-to-download = זאת ההורדה שנבחרה:
 firefox-all-browser = דפדפן:
 firefox-all-platform = סביבה:
 firefox-all-language = שפה:
+firefox-all-lang-multi = שפות מרובות
 firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
 firefox-all-the-pre-alpha-version = גרסת טרום אלפא מיועדת למשתמשים מנוסים שאוהבים לצוד קריסות ולבדוק יכולות חדשות ברגע שיצאו מהתנור.
 firefox-all-64-bit-installers = מתקיני 64 סיביות
 firefox-all-choose-a-64-bit-installer = מומלץ לבחור במתקין 64 סיביות עבור מחשבים עם מעבדי 64 סיביות, מה שמאפשר הקצאת זיכרון גדולה יותר לתכניות בודדות — חשוב במיוחד למשחקים וליישומים תובעניים אחרים.
 firefox-all-32-bit-installers = מתקיני 32 סיביות
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox = הורדת ה{ -brand-name-firefox-browser(case: "a") } בעברית ולמעלה מ־90 שפות נוספות
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
-firefox-all-choose-which-firefox = ניתן לבחור איזה { -brand-name-firefox-browser } להוריד בשפה שלך
+firefox-all-choose-which-firefox = ניתן לבחור איזה { -brand-name-firefox-browser(case: "a") } להוריד בשפה שלך
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
 firefox-all-the-standard-firefox = הדפדפן { -brand-name-firefox } הרגיל - מהיר ופרטי. אם הינך בהתלבטות באיזה { -brand-name-firefox } לבחור, מומלץ לבחור בזה.
 firefox-all-get-a-sneak-peek-at = קבלת הצצה לתכונות הדפדפן העדכניות של { -brand-name-firefox } לפני שהן משוחררות לציבור.
+firefox-all-windows-installers-for = חבילות התקנה של Windows עבור IT של ארגונים המפשטים את התצורה, הפריסה והניהול של { -brand-name-firefox-browser(case: "the") }.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
 firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלך
 # Variables:

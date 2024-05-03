@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = קבלת { -brand-name-firefox-browser } עבור { -brand-name-chromebook }
+browsers-chromebook-get-firefox-browser = קבלת { -brand-name-firefox-browser(case: "a") } עבור { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = קבלת { -brand-name-firefox } עבור { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = קבלת { -brand-name-firefox } למחשבים שולחניים עבור { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = ‏*{ -brand-name-chromebook } מבוסס x86 המריץ { -brand-name-chromeos } 80 ומעלה

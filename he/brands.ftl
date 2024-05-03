@@ -180,6 +180,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP

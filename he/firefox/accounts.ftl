@@ -14,6 +14,7 @@ firefox-accounts-already-have-an-account = כבר יש לך חשבון?
 firefox-accounts-sign-in = כניסה
 mozilla-accounts-already = כבר יש לך { -brand-name-mozilla-account(case: "a") }. ברכותינו!
 firefox-accounts-manage = ניהול החשבון שלך
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = יש להיכנס ל{ -brand-name-mozilla-account(case: "the") } שלך כדי:
 # Obsolete string
@@ -39,5 +40,9 @@ firefox-accounts-read-in-a = קריאה במרחב שקט ופרטי
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "a") }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
