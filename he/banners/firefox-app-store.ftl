@@ -7,3 +7,6 @@
 
 banner-firefox-app-store-title = ‏{ -brand-name-firefox }: דפדפן פרטי ובטוח
 banner-firefox-focus-app-store-title = ‏{ -brand-name-firefox-focus }: דפדפן הפרטיות
+banner-firefox-app-store-mozilla = { -brand-name-mozilla }
+banner-firefox-app-store-free-google-play = בחינם - מ־{ -brand-name-google-play }
+banner-firefox-app-store-free-app-store = בחינם - מה־{ -brand-name-app-store }

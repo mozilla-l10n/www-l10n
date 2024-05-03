@@ -17,6 +17,8 @@ about-our-mission-keep-the-internet = המשימה שלנו: לשמור על ה�
 about-read-our-mission = קראו על המשימה שלנו
 about-our-mission-in-action = המשימה שלנו בפעולה
 about-pioneers-of-the-open-web = חלוצי הרשת הפתוחה
+about-our-leadership-has-been-at = ההנהגה שלנו נמצאת בחזית בניית אינטרנט בריא יותר מאז היום הראשון. מה שהתחיל כחלופה לשליטה תאגידית גדל לכוח עולמי למען הטוב באינטרנט.
+about-when-you-use-the-new-firefox = כשמשתמשים ב־{ -brand-name-firefox } החדש, מקבלים חווית שימוש מהירה ובמקביל תומכים במשימה של  { -brand-name-mozilla } לשמור על האינטרנט בריא, מוזר ומסביר פנים לכולם.
 
 ## Newsletter
 
