@@ -39,6 +39,22 @@ download-button-firefox-ios = ‏<span>{ -brand-name-firefox }</span> עבור {
 download-button-firefox-privacy = פרטיות { -brand-name-firefox }
 download-button-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 download-button-download = הורדה
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = ‏{ $channel_name } <a href="{ $help_url }">אינו נתמך עוד</a> ב־{ $os_version } ומטה.
+download-button-please-download-esr = נא להוריד את { -brand-name-firefox-esr } (מהדורת תמיכה מורחבת) כדי להשתמש ב־{ -brand-name-firefox }.
+download-firefox-esr = הורדת { -brand-name-firefox-esr }
 download-firefox-esr-32 = הורדת { -brand-name-firefox-esr } ‏32 סיביות
 download-firefox-esr-64 = הורדת { -brand-name-firefox-esr } ‏64 סיביות
 download-a-different-build = הורדת מהדורה שונה
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = הורדת { -brand-name-linux } 32 סיביות
+# Obsolete string
+download-button-linux-64 = הורדת { -brand-name-linux } 64 סיביות
+download-button-linux-32-v2 = הורדה עבור Linux‏ 32 סיביות
+download-button-linux-64-v2 = הורדה עבור Linux‏ 64 סיביות
