@@ -9,6 +9,8 @@ cookie-settings-page-title = Cài đặt cookie
 cookie-settings-page-desc = Trang này mô tả các loại cookie khác nhau mà { -brand-name-mozilla } có thể sử dụng và cung cấp cho bạn quyền kiểm soát loại dữ liệu nào bạn đồng ý thu thập { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = Trang trước
 cookie-settings-explainer = Cookie là các tập tin nhỏ chứa các mẫu thông tin được lưu vào máy tính hoặc thiết bị của bạn khi bạn truy cập một trang web. { -brand-name-mozilla } sử dụng cookie để giúp các trang web của chúng tôi hoạt động cũng như thu thập thông tin về cách bạn sử dụng và tương tác với các trang web của chúng tôi, chẳng hạn như các trang bạn truy cập.
+cookie-settings-page-intro-v2 = Trang này mô tả các loại Cookie khác nhau và các công nghệ tương tự như pixel tag, web beacon, GIF, JavaScript và bộ nhớ cục bộ (sau đây gọi là “Cookie”) mà { -brand-name-mozilla } có thể sử dụng và cung cấp cho bạn quyền kiểm soát loại dữ liệu nào bạn cho phép { -brand-name-mozilla } thu thập.
+# Obsolete string (expires: 2024-07-01)
 cookie-settings-page-intro = Trang này mô tả các loại cookie khác nhau và các công nghệ tương tự với (“Cookie”) (chẳng hạn như thẻ pixel, web beacon, GIF, JavaScript và bộ nhớ cục bộ) mà { -brand-name-mozilla } có thể sử dụng, và cung cấp cho bạn quyền kiểm soát loại dữ liệu nào bạn đồng ý cho phép { -brand-name-mozilla } thu thập.
 cookie-settings-how-mozilla-heading = Cách { -brand-name-mozilla } sử dụng cookie
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } sử dụng dữ liệu này như thế nào?
