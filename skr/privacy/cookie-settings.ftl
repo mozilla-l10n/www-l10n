@@ -28,4 +28,5 @@ cookie-settings-category-preference-heading = ترجیح
 
 ## Privacy section
 
+cookie-settings-privacy-heading = ساݙا رازداری نوٹس
 cookie-settings-privacy-policy-link = رازداری نوٹس
