@@ -12,6 +12,7 @@ firefox-accounts-sign-in = Ворид шудан
 firefox-accounts-already = Шумо аллакай ҳисоби «{ -brand-name-firefox-account }» доред. Табрик!
 mozilla-accounts-already = Шумо аллакай ҳисоби «{ -brand-name-mozilla-account }» доред. Табрик!
 firefox-accounts-manage = Идоракунии ҳисоби худ
+mozilla-account-header = { -brand-name-mozilla-account }
 # Obsolete string
 firefox-accounts-sign-in-to = Ба ҳисоби худ дар «{ -brand-name-firefox-account }» ворид шавед:
 # Variables:
@@ -21,6 +22,7 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Нигоҳдорӣ ва
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }

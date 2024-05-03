@@ -16,12 +16,10 @@ compare-shared-reader-mode = Реҷаи хонанда
 compare-shared-spell-checking = Санҷиши имло
 compare-shared-password-management = Идоракунии ниҳонвожаҳо
 compare-shared-primary-password = Ниҳонвожаи асосӣ
-# Obsolete string
-compare-shared-master-password = Ниҳонвожаи хусусӣ
+compare-shared-security-and-privacy = Амният ва махфият
 compare-shared-brand-name-firefox = { -brand-name-firefox }
 compare-shared-brand-name-chrome = { -brand-name-chrome }
 compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
 compare-shared-brand-name-opera = { -brand-name-opera }
 compare-shared-brand-name-safari = { -brand-name-safari }
 compare-shared-brand-name-brave = { -brand-name-brave }

@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-get-firefox-browser = Ба даст овардани «{ -brand-name-firefox-browser }» дар «{ -brand-name-chromebook }»
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-android }»
 
 # Variables:
