@@ -43,9 +43,20 @@ firefox-new-please-follow = נא לעקוב אחר <a href="{ $url }">ההנחי
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = ייתכן שהמערכת שלך לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.
 firefox-new-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = אם אתם רואים הודעה המציינת שהיישום שאתם מנסים להתקין אינו יישום מאומת של { -brand-name-microsoft }, לחצו על "התקן בכל זאת" או <a { $attrs }>שנו את הגדרות ההמלצה לאפליקציה</a>.
+firefox-new-visit-support-for-more = בקרו בתמיכה לפרטים נוספים
 
 # Not-Required
 
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = הורדת { -brand-name-firefox-browser }
+firefox-new-fast = מהיר, פרטי וחינמי
+firefox-new-from-mozilla = מבית { -brand-name-mozilla }
+firefox-new-desc = ‏{ -brand-name-firefox-browser } הוא דפדפן אינטרנט חינמי עם טעינת דפים מהירה, פחות שימוש בזיכרון והרבה תכונות - פרויקט של עמותת { -brand-name-mozilla } שאינה למטרות רווח.
+firefox-new-download-a-different = הורדה לפלטפורמה או לשפה אחרת
+firefox-new-taskbar = ‏{ -brand-name-firefox } יוצמד לשורת המשימות של { -brand-name-windows } לאחר ההתקנה
