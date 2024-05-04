@@ -4,5 +4,5 @@
 
 error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
-error-page-error-page-internal-server-error = 500. ներքին սպասարկիչի սխալ
+error-page-error-page-internal-server-error = 500. Ներքին սպասարկիչի սխալ
 error-page-something-went-wrong = Ինչ-որ բան այն չէ
