@@ -7,8 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Urejevalnik PDF
-# page title
+# Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = Dodajte besedilo v datoteke PDF s { -brand-name-firefox }ovim urejevalnikom
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Brezplačno urejajte datoteke PDF s { -brand-name-firefox }ovim urejevalnikom
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Oglejte si in uredite datoteke PDF kar v { -brand-name-firefox(sklon: "mestnik") }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Če morate kaj dodati v dokument PDF, lahko s { -brand-name-firefox(sklon: "orodnik") } to storite neposredno na spletu. Odprite PDF v { -brand-name-firefox(sklon: "mestnik") } in ga uredite s pomočjo gumbov Besedilo in Riši. Nazadnje prenesite datoteko in shranila se bo s spremembami vred.
