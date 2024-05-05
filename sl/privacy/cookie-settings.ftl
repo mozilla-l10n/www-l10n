@@ -26,9 +26,12 @@ cookie-settings-category-necessary-what-are-subheading = Kaj so nujni piškotki?
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analitični
+cookie-settings-category-analytics-what-are-subheading = Kaj so analitični piškotki?
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Vaše soglasje
 
 ## Privacy section
 
