@@ -21,3 +21,4 @@ pdf-editor-add-text = Dodajanje besedila
 pdf-editor-open-the-pdf-in-firefox-click-text = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Kliknite gumb Besedilo in izberite barvo in velikost besedila, nato pa izberite mesto v dokumentu, kamor želite dodati besedilo. Tako enostavno je!
 pdf-editor-add-drawings-or-your-signature = Dodajanje risb (ali podpisa)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Kliknite ikono Risanje, izberite barvo, debelino in neprosojnost ter začnite risati po dokumentu. Verjetno ne bo nič bolj kaotično kot vaš običajen podpis!
+pdf-editor-add-image-with-alt-text = Dodajte sliko z nadomestnim besedilom
