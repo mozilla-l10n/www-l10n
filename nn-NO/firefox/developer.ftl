@@ -81,5 +81,8 @@ firefox-developer-made-for-developers = nettlesaren laga for utviklarar
 firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulerer. Du har no den nyaste versjonen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Vis <a { $attrs }>versjonsnotat</a> (berre på engelsk) for å sjå kva som er nytt.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
