@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prevedite spletno stran s { -brand-name-firefox(sklon: "orodnik") }
-features-translate-translate-the-web = Prevedite splet s { -brand-name-firefox(sklon: "orodnik") }
+features-translate-translate-the-web = Prevedite splet
 features-translate-what-languages-are-currently = Kateri jeziki so trenutno podprti?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what = { -brand-name-firefox }ova možnost prevajanja trenutno podpira naslednje jezike:
