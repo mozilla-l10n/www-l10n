@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
+cookie-settings-page-title = Nastavení cookies
+cookie-settings-breadcrumb-link = Předchozí stránka
 cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy cookies a podobné technologie jako jsou pixelové značky, web beacons, Clear GIFy, JavaScript a místní úložiště (dále jen „Cookies“), které může { -brand-name-mozilla } používat, a dává vám kontrolu. o tom, jaké typy dat souhlasíte se shromažďováním { -brand-name-mozilla(case: "gen") }.
 cookie-settings-save-changes = Uložit změny
 cookie-settings-your-cookie-settings-have = Vaše nastavení souborů cookie bylo aktualizováno.
@@ -27,7 +29,10 @@ cookie-settings-category-analytics-heading = Analytika
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Váš souhlas
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Naše oznámení o ochraně osobních údajů
+cookie-settings-privacy-desc = Podrobnější informace o různých typech informací, které { -brand-name-mozilla } shromažďuje při návštěvě našich webových stránek, naleznete pod odkazem na našich oznámeních o ochraně osobních údajů.
 cookie-settings-privacy-policy-link = Zásady ochrany osobních údajů
