@@ -31,3 +31,5 @@ cookie-settings-category-necessary-what-are-subheading = 什么是必要 Cookie�
 
 ## Privacy section
 
+cookie-settings-privacy-heading = 我们的隐私声明
+cookie-settings-privacy-policy-link = 隐私声明
