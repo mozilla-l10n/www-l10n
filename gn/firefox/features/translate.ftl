@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Emoñe’ẽasa ñanduti rogue { -brand-name-firefox } ndive
-features-translate-translate-the-web = Emoñe’ẽasa ñanduti { -brand-name-firefox } ndive
+features-translate-translate-the-web = Emoñe’ẽasa ñandutirogue
 features-translate-when-you-translate-a-webpage = Emoñe’ẽasávo ñanduti rogue, eiméke tekoñemíme
 features-translate-what-languages-are-currently = Mba’e ñe’ẽpa eiporukuaa ko’ág̃a
 # This is followed by a localized list of supported languages
