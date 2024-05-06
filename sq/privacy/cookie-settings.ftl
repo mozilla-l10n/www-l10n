@@ -18,6 +18,7 @@ cookie-settings-turn-on-javascript = Që të përditësoni rregullimet tuaja pë
 
 cookie-settings-category-necessary-heading = Të nevojshme
 cookie-settings-category-necessary-what-are-subheading = Ç’janë Cookie-t e Nevojshme?
+cookie-settings-category-necessary-what-are-desc = Këto teknologji janë të domosdoshme për të mbuluar veçori thelbësore sajtesh, fjala vjen, hyrje në një zonë të siguruar të një sajti, ose shtim artikujsh te një shportë blerjesh në internet dhe s’mund të çaktivizohen.
 
 ## Preference cookies section
 
