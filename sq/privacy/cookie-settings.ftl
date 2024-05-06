@@ -19,10 +19,13 @@ cookie-settings-turn-on-javascript = Që të përditësoni rregullimet tuaja pë
 cookie-settings-category-necessary-heading = Të nevojshme
 cookie-settings-category-necessary-what-are-subheading = Ç’janë Cookie-t e Nevojshme?
 cookie-settings-category-necessary-what-are-desc = Këto teknologji janë të domosdoshme për të mbuluar veçori thelbësore sajtesh, fjala vjen, hyrje në një zonë të siguruar të një sajti, ose shtim artikujsh te një shportë blerjesh në internet dhe s’mund të çaktivizohen.
+cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } përdor Cookies të Nevojshme për të ofruar veçori thelbësore sajtesh, fjala vjen, hyrje duke përdorur llogarinë tuaj { -brand-name-mozilla }, ose blerje të një pajtimi software-i gjatë përfundimit të blerjes. Pa këto teknologji, veçori thelbësore sajtesh mund të mos funksionojnë.
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Parapëlqim
+cookie-settings-category-preference-what-are-subheading = Ç’janë Cookie-t e Parapëlqimeve?
+cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren për të mbajtur mend zgjedhje që keni bërë gjatë një vizite të mëparshme në një sajt. Në shembujt mund të përfshihen cilën gjuhë parapëlqeni për lexim, ose cila temë ngjyrash është e parapëlqyera juaj.
 
 ## Analytics cookies section
 
