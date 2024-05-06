@@ -23,5 +23,5 @@ pdf-editor-add-drawings-or-your-signature = 绘制图案或签名
 pdf-editor-open-the-pdf-in-firefox-click-draw = 在 { -brand-name-firefox } 中打开 PDF 文件，点击“绘图”图标，选择颜色、粗细、不透明度后，即可在文档上绘图。操作起来大概不比您的签名复杂！
 pdf-editor-add-image-with-alt-text = 添加带有替代文本的图像
 pdf-editor-open-pdf-click-image-icon = 在 { -brand-name-firefox } 中打开 PDF。点击图像图标 它将提示您上传一幅图像。根据需要调整您的图像的大小和位置。单击图像上的“+替代文本”按钮添加照片描述使您的 PDF 更易于使用。
-pdf-editor-create-a-highlight = 新建一个集锦
+pdf-editor-create-a-highlight = 添加高亮
 pdf-editor-select-text-you-want-to = 在 { -brand-name-firefox } 中打开 PDF。选择您要高亮的文本然后单击显示在下方的高亮图标 或右键单击以在上下文菜单中找到高亮选项。点击右上角的图标手动高亮 PDF 中的章节。
