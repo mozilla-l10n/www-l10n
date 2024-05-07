@@ -52,7 +52,7 @@ protecting-your-privacy = La protection de votre vie privée est notre priorité
 is-firefox-safe = { -brand-name-firefox } est-il sûr ?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Non seulement { -brand-name-firefox } est sûr, mais il protège vos données et assure votre confidentialité. Le navigateur { -brand-name-firefox-browser } empêche les traqueurs, mineurs de cryptomonnaies et détecteurs d’empreintes numériques connus de collecter vos données. <a href="{ $url }">En savoir plus sur les garanties de confidentialité de nos produits.</a>
 

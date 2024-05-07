@@ -52,7 +52,7 @@ protecting-your-privacy = Melindungi privasi anda merupakan keutamaan nombor sat
 is-firefox-safe = Adakah { -brand-name-firefox } selamat?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Bukan sahaja { -brand-name-firefox } selamat digunakan, ia juga membantu menjaga keselamatan data dan maklumat peribadi anda. { -brand-name-firefox-browser } secara automatik menyekat penjejak pihak ketiga yang diketahui, penjejak media sosial, pelombong kripto dan pengecap jari daripada mengumpulkan data anda. <a href="{ $url }">Ketahui lebih lanjut tentang privasi dalam produk kami.</a>
 

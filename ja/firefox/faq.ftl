@@ -52,7 +52,7 @@ protecting-your-privacy = ユーザーのプライバシー保護は Mozilla の
 is-firefox-safe = { -brand-name-firefox } は安全ですか？
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } は安全なだけでなく、ユーザーのデータとプライバシー情報の安全を確保する上で役立ちます。{ -brand-name-firefox-browser } は確認されているサードパーティーのトラッカーやソーシャルメディアのトラッカー、暗号通貨採掘、フィンガープリント採取のトラッカーがユーザーの情報を収集するのを阻止します。<a href="{ $url }">Mozilla の製品のプライバシーに関する詳細をご覧ください。</a>
 

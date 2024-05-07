@@ -52,7 +52,7 @@ protecting-your-privacy = حماية خصوصيتك هي أولى أولويتن
 is-firefox-safe = هل { -brand-name-firefox } آمن؟
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = ليس { -brand-name-firefox } آمن الاستخدام فحسب، بل إنه يُساعد في الحفاظ على أمان بياناتك ومعلوماتك الخاصة. يحظر { -brand-name-firefox-browser } تلقائيًا متتبعات الطرف الثالث المعروفة، ومتتبعات الوسائط الاجتماعية، ومزيلات التشفير، وبصمات الأصابع من جمع بياناتك. <a href="{ $url }">معرفة المزيد عن الخصوصية في منتجاتنا.</a>
 
