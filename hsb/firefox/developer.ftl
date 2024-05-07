@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je błyskospěšny wobhladowak, kotryž wulkotne wuwiwarske nastroje a najnowše funkcije kaž podpěru CSS-lěsycow a framework debugging skići
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Witajće k wašenu nowemu najlubšemu wobhladowekej. Wobstarajće sej najnowše funkcije, spěšny wukon a wuwiwarske nastroje, kotrež trjebaće, zo byšće za wotewrjeny web wuwiwał.
 firefox-developer-speak-up = Zdźělće nam swoje měnjenje
@@ -57,17 +59,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Nowe { -brand-name-firefox-devtools } su mócne, fleksibelne a najlěpše, přeměnjomne. K nim tež program za pytanje za zmylkami słuša, najlěpše jeho družiny, kotryž móže z wjaocrymi wobhladowakami wobchadźeć a je so w React a Redux wuwił.
 firefox-developer-master-css-grid = Hłowna CSS-lěsyca
-# outdated
-firefox-developer-next-gen-css-engine = CSS-mašina přichodneje generacije
 firefox-developer-built-for-developers = Za wuwiwarjow wutworjeny
-firefox-developer-a-next-generation = CSS-mašina přichodneje generacije
 firefox-developer-master-innovative-features = Inowatiwne funkcije
 firefox-developer-want-to-be-on-the-cutting-edge = Chceće na najnowšim stawje być?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } kóždy dźeń aktualizacije dóstawa a zmóžnja wam přistup k funkcijam hižo měsacy před jich wozjewjenjom.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } nowu CSS-mašinu, napisanu w Rusće, wobsahuje, kotraž ma wurjadne inowacije a je błyskospěšny.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } je jenički wobhladowak z nastrojemi, kotryž je za wuwiwanje a wuhotowanje z CSS-lěsycu wuwity. Tute nastroje wam zmóžnjeja, lěsycu wizualizować, zwjazane mjena wobłukow pokazać, transformacije na lěsycy w přehledźe pokazać a wjele wjace.
 firefox-developer-convenient-features = Praktiske funkcije
-firefox-developer-faster-performance = Spěšniši wukon
 firefox-developer-shapes-editor = Editor twarow
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }x maja čisće nowy editor za twarowe šćežki, kotryž dokładne nastajenje wonknownych bokow twarow a twarow clip path zmóžneja, a móžeće z nim swoje přiměrjenja z wizuelnym editorom jara lochko přewjesć.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } maja čisće nowy editor za twarowe šćežki, z kotrymž móžeće zahłosowanje sćinoweho wonkowneho boka a twarow klipoweje šćežki přewjesć a wam zmóžnja, swoje přiměrjenja z wizuelnym editorom lochko zahłosować.
@@ -76,14 +73,17 @@ firefox-developer-fonts-panel = Polo pismow
 firefox-developer-the-new-fonts-panel = Nowe polo pismow we { -brand-name-firefox-devtools } zmóžnja wuwiwarjam spěšny přistup ke wšěm informacijam, kotrež wo wužitych pismach w elemenće trjebaja. Wobsahuje tež hódnotne informacije wo žórle, waze, stil pisma a wjace.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } { -brand-name-mozilla } awtomatisce informacije sćele.
 firefox-developer-download-the-firefox-browser = Sćehńće wobhladowak { -brand-name-firefox } wuwity za wuwiwarjow
-firefox-developer-welcome-to-the-all-new = Witajće k cyle nowemu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } bu dospołnje nowo wuwity a je nětko spěšniši, elegantniši a mócniši hač hdy prjedy.
-firefox-developer-congrats-you-now-have-firefox = Zbožopřeće. Maće nětko { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = To je nic jenož aktualizacija. { -brand-name-firefox-quantum } to je: Čisće nowy { -brand-name-firefox }, kotryž bu dospołnje nowo wuwity a je nětko spěšniši, elegantniši a mócniši hač hdy prjedy.
+firefox-developer-welcome-to-firefox-developer-edition = Witajće k { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Witajće k { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Wobhladowak za wuwiwarjow
-firefox-developer-all-the-latest = Wšě najnowše wuwiwarske nastroje w betawersiji kaž tež <strong>eksperimentelne funkcije</strong> kaž wjacelinkowy konsolowy editor a WebSocket Inspector.
+firefox-developer-all-the-latest-v2 = Wšě najnowše wuwiwarske nastroje w betawersiji přidatnje k funkcijam kaž wjacelinkowy konsolowy editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Separatny profil a separatna šćežka</strong>, tak móžeće jón z kónčnej wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjesć.
 firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjene</strong>: Pytanje zmylkow wobhladowaka a znazdala stej po standardźe zmóžnjenej, runje tak kaž ćmowa drasta a tłóčatko za wuwiwarsku symbolowu lajstu.
-firefox-developer-congrats-you-now-have = Zbožopřeće. Maće nětko { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Maće nětko najnowša wersija { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Zbožopřeće. Maće nětko najnowšu wersiju { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Čitajće <a { $attrs }>wersije informacije</a> (jenož jendźelsce), zo byšće nowe funkcije a změny widźał.
