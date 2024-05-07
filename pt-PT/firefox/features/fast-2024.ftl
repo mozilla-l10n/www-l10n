@@ -8,7 +8,7 @@
 features-fast-firefox-keeps-getting-faster = O { -brand-name-firefox } está a ficar mais rápido
 # HTML description
 features-fast-firefox-is-faster-than-ever = O { -brand-name-firefox } está mais rápido do que nunca, com uma velocidade que pode realmente sentir, incluindo carregamentos de página mais rápidos e interações mais suaves.
-features-fast-how-is-browser-speed-measured = Como é que a velocidade do navegador é medida?
+features-fast-how-is-browser-speed-measured = Como é que a velocidade do navegador é calculada?
 features-fast-speedometer-is-the-most-widely = A referência de desempenho do navegador mais amplamente utilizada para medir a responsividade de aplicações web é chamada de Speedómetro. Apesar de existirem outros pontos de referência para navegadores, o velejador 3 é o novo padrão para como mediamos a velocidade da sua experiência de navegação. Os testes mais recentes refletiram melhor a Internet de hoje — trabalhar com gráficos visualmente rico, editar texto, interagir com páginas de Internet complicadas e pesadas como sites de notícias — e mede uma imagem completa do desempenho do navegador.
 features-fast-the-new-speedomer-3-benchmark = O novo padrão de referência do Speedoetro 3 é o primeiro grande ponto de referência do navegador que foi desenvolvido através de uma colaboração suportada por todos os principais navegadores, projetado para beneficiar toda a Internet.
 features-fast-faster-every-day = Mais rápido a cada dia
@@ -19,4 +19,4 @@ features-fast-all-browsers-had-to-make = Todos os navegadores tiveram de fazer m
 features-fast-towards-a-faster-web = Para uma Internet mais rápida
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = A { -brand-name-mozilla } está <a { $link }>comprometida</a> em melhorar continuamente o nosso próprio navegador, assim como toda a Web. É por isso que investimos na colaboração para desenvolver o Speedómetro 3 que, por sua vez, melhorou o desempenho de todos os navegadores. Por isso, qualquer que seja o navegador que escolher, a { -brand-name-mozilla } quer que seja rápido.
+features-fast-theres-been-an-encouraging = A { -brand-name-mozilla } está <a { $link }>comprometida</a> em melhorar continuamente o nosso próprio navegador, assim como toda a Web. É por isso que nós investimos na colaboração para desenvolver o Speedometer 3 que, por sua vez, melhorou o desempenho de todos os navegadores. Por isso, qualquer que seja o navegador que escolher, a { -brand-name-mozilla } quer que este seja rápido.

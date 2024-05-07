@@ -81,7 +81,7 @@ firefox-developer-made-for-developers = O navegador feito para programadores
 firefox-developer-all-the-latest-v2 = Todas as ferramentas de programação em beta mais recentes, além de funcionalidades como a consola com editor multi-linha e o inspetor de WebSockets.
 firefox-developer-a-separate-profile = Um <strong>perfil e caminho separados</strong> para que possa executá-lo com facilidade em conjunto com a versão final ou { -brand-name-beta } do { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferências <strong>personalizadas para programadores da Internet</strong>: o navegador e a depuração remota são ativados por predefinição, assim como o tema escuro e o botão da barra de ferramentas do programador.
-firefox-developer-congrats-you-now-have-latest-v2 = Tem agora a última versão do { -brand-name-firefox-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Agora tem a versão mais recente do { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Parabéns. Tem agora a última versão do { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
@@ -92,7 +92,7 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para programadores, por programadores
 firefox-developer-mdn-references = Referências do { -brand-name-mdn }
 firefox-developer-mdn-is-a = A { -brand-name-mdn } é um projeto colaborativo e de código aberto que documenta tecnologias de plataformas da Internet, incluindo CSS, HTML, JavaScript e APIs da Internet.
-firefox-developer-mdn-curriculum = Currculo de { -brand-name-mdn }
+firefox-developer-mdn-curriculum = Currículo de { -brand-name-mdn }
 firefox-developer-a-structured-guide = Um guia estruturado para as competências e práticas essenciais para ser um programador front-end de sucesso, junto com os recursos de aprendizagem recomendados.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-firefox-developer-support-mdn-and = Apoie a { -brand-name-mdn } e torne-a sua com coleções, notificações e recreios.
+firefox-developer-support-mdn-and = Apoie a { -brand-name-mdn } e personalize-a com coleções, notificações e áreas recreativas .
