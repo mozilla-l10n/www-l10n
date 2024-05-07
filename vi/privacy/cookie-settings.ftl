@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Vui lòng bật JavaScript để cập nh�
 cookie-settings-category-necessary-heading = Cần thiết
 cookie-settings-category-necessary-what-are-subheading = Cookie cần thiết là gì?
 cookie-settings-category-necessary-what-are-desc = Những công nghệ này được yêu cầu để hỗ trợ các tính năng thiết yếu của trang web, chẳng hạn như đăng nhập vào khu vực an toàn của trang web hoặc thêm mặt hàng vào giỏ hàng trực tuyến và không thể tắt được.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } chỉ sử dụng các cookie cần thiết để cung cấp các tính năng thiết yếu của trang web, chẳng hạn như đăng nhập bằng tài khoản { -brand-name-mozilla } của bạn hoặc mua đăng ký phần mềm khi thanh toán. Nếu không có những công nghệ này, các tính năng thiết yếu của trang web có thể không hoạt động.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } chỉ sử dụng các cookie cần thiết để cung cấp các tính năng thiết yếu của một trang web, chẳng hạn như đăng nhập bằng tài khoản { -brand-name-mozilla-account } của bạn hoặc mua một gói đăng ký phần mềm. Nếu không có những công nghệ này, các tính năng thiết yếu của trang web có thể không hoạt động.
 
 ## Preference cookies section
 
