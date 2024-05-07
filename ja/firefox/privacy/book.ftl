@@ -110,9 +110,6 @@ privacy-book-dont-have-time = <strong>時間が無い場合。</strong>ウェブ
 
 privacy-book-breach-alert-if-v2 = <strong>侵害アラート:</strong> 確認されている侵害で自分のデータが開示された場合、なるべく早く対応してパスワードを変更することが不可欠です。{ -brand-name-mozilla-monitor } は侵害発生時にメッセージを送信する手軽なツールです。
 
-# Obsolete string
-privacy-book-breach-alert-if = <strong>侵害アラート:</strong> 確認されている侵害で自分のデータが開示された場合、なるべく早く対応してパスワードを変更することが不可欠です。{ -brand-name-firefox-monitor } は侵害発生時にメッセージを送信する手軽なツールです。
-
 privacy-book-stay-safe-online = オンラインの安全を確保する:
 
 privacy-book-there-are-a = プライバシーとセキュリティのレベル改善に役立つツールは多数あり、助かります。しかし、アカウントを保護するためには、依然としてパスワードが必要です。たとえば、自分のアパートに玄関の戸が無かったとしたら、最新鋭の高性能防犯システムで自宅を警備できると考えるでしょうか。次に、必要とされる処置を説明します:

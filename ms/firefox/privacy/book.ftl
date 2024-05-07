@@ -110,9 +110,6 @@ privacy-book-dont-have-time = <strong>Tidak mempunyai masa?</strong> Tetapkan { 
 
 privacy-book-breach-alert-if-v2 = <strong>Amaran pelanggaran:</strong> Sekiranya data anda benar-benar menjadi umum melalui pelanggaran yang diketahui, sangat penting untuk bertindak balas secepat mungkin dan menukar kata laluan anda. { -brand-name-mozilla-monitor } ialah satu alat yang amat berguna yang akan menghantar anda mesej.
 
-# Obsolete string
-privacy-book-breach-alert-if = <strong>Amaran pelanggaran:</strong> Sekiranya data anda benar-benar menjadi umum melalui pelanggaran yang diketahui, sangat penting untuk bertindak balas secepat mungkin dan menukar kata laluan anda. { -brand-name-firefox-monitor } ialah satu alat yang amat berguna yang akan menghantar anda mesej.
-
 privacy-book-stay-safe-online = Kekal selamat dalam talian:
 
 privacy-book-there-are-a = Ada beberapa peralatan yang boleh membantu anda meningkatkan tahap privasi dan keselamatan anda. Dan ini amat hebat! Sungguh pun begitu, anda masih memerlukan kata laluan untuk melindungi akaun anda. Adakah anda rasa sistem keselamatan rumah yang tercanggih mampu melindungi rumah anda daripada pencuri jika rumah anda tiada pintu? Inilah yang harus anda lakukan:

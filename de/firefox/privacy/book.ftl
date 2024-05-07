@@ -110,9 +110,6 @@ privacy-book-dont-have-time = <strong>Keine Zeit?</strong> Richten Sie einen { -
 
 privacy-book-breach-alert-if-v2 = <strong>Breach-Alert:</strong> Falls Ihre Daten durch eine Datenschutzverletzung veröffentlicht werden, ist es wichtig, so schnell wie möglich zu reagieren und Ihre Passwörter umgehend zu ändern. { -brand-name-mozilla-monitor } ist ein praktisches Tool, das Ihnen eine Benachrichtigung sendet, sollte das der Fall sein.
 
-# Obsolete string
-privacy-book-breach-alert-if = <strong>Breach-Alert:</strong> Falls Ihre Daten durch eine Datenschutzverletzung veröffentlicht werden, ist es wichtig, so schnell wie möglich zu reagieren und Ihre Passwörter umgehend zu ändern. { -brand-name-firefox-monitor } ist ein praktisches Tool, das Ihnen eine Benachrichtigung sendet, sollte das der Fall sein.
-
 privacy-book-stay-safe-online = Sichere dich ab:
 
 privacy-book-there-are-a = Es gibt wirklich eine ganze Menge Tools, die dich dabei  unterstützen! Allerdings helfen sie alle nichts, wenn sie nicht mit guten Passwörtern ausgestattet sind, die sie schützen. Oder anders formuliert: Was nützt dir die tollste und modernste Sicherheitseinrichtung in deiner Wohnung, wenn die Eingangstür im Eimer ist und jeder einfach so reinspazieren kann? Deshalb:

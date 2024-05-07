@@ -110,9 +110,6 @@ privacy-book-dont-have-time = <strong>Pas le temps ?</strong> Ok, configurez al
 
 privacy-book-breach-alert-if-v2 = <strong>Alerte de fuites :</strong> si vos données deviennent publiques via un hack, c’est très important de réagir le plus rapidement possible et de changer vos mots de passe. { -brand-name-mozilla-monitor } est un outil pratique qui vous envoie un message immédiatement si cela se produit.
 
-# Obsolete string
-privacy-book-breach-alert-if = <strong>Alerte de fuites :</strong> si vos données deviennent publiques via un hack, c’est très important de réagir le plus rapidement possible et de changer vos mots de passe. { -brand-name-firefox-monitor } est un outil pratique qui vous envoie un message immédiatement si cela se produit.
-
 privacy-book-stay-safe-online = Restez en sécurité en ligne :
 
 privacy-book-there-are-a = de nombreux outils peuvent vous aider à améliorer votre niveau de confidentialité et de sécurité. Et tant mieux ! En revanche, vous aurez toujours besoin de protéger vos comptes avec un mot de passe. Eh oui, sans porte d’entrée, il ne faut pas s’attendre à un système de sécurité dernier cri pour vous protéger des cambrioleurs. Voici plutôt quelques bons conseils :

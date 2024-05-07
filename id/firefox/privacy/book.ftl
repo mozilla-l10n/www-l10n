@@ -110,9 +110,6 @@ privacy-book-dont-have-time = <strong>Tidak memiliki waktu?</strong> Siapkan Per
 
 privacy-book-breach-alert-if-v2 = <strong>Peringatan pembobolan:</strong> Jika data Anda benar-benar diketahui publik melalui pembobolan, sangat penting untuk bereaksi secepatnya dan mengubah kata sandi Anda. { -brand-name-mozilla-monitor } merupakan alat praktis yang akan mengirimi Anda pesan jika hal tersebut terjadi.
 
-# Obsolete string
-privacy-book-breach-alert-if = <strong>Peringatan pembobolan:</strong> Jika data Anda benar-benar diketahui publik melalui pembobolan, sangat penting untuk bereaksi secepatnya dan mengubah kata sandi Anda. { -brand-name-firefox-monitor } merupakan alat praktis yang akan mengirimi Anda pesan jika hal tersebut terjadi.
-
 privacy-book-stay-safe-online = Tetap aman saat daring:
 
 privacy-book-there-are-a = Terdapat banyak alat yang dapat membantu meningkatkan tingkat privasi dan keamanan Anda. Dan itu bagus! Namun, Anda masih membutuhkan kata sandi untuk melindungi akun Anda. Apakah Anda mengharapkan sistem keamanan rumah kelas atas terbaru untuk melindungi Anda dari pencuri jika Anda tidak memiliki pintu apartemen? Ini yang harus dilakukan:
