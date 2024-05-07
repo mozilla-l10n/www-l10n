@@ -41,7 +41,7 @@ firefox-products-get-relay = A { -brand-name-firefox-relay } beszerzése
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Szörföljön, nézzen közvetítést és dolgozzon biztonságos internetkapcsolaton a több mint 30 országban található kiszolgálók segítségével.
-firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
+firefox-products-get-mozilla-vpn = A { -brand-name-mozilla-vpn } beszerzése
 
 ## MDN Plus
 
@@ -52,12 +52,18 @@ firefox-products-support-mdn = Az { -brand-name-mdn } támogatása
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Érje el az összes e-mailjét, naptárát és névjegyét egy gyors alkalmazásban. Szűrje és rendszerezze őket ahogy szeretné.
+firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltése
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = A { -brand-name-fakespot } támogatja Önt az online vásárlás során – szűrje ki a szélhámosokat, és találja meg a legjobb ajánlatokat. A { -brand-name-mozilla } készítette.
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor.
-firefox-products-get-pocket = { -brand-name-pocket } beszerzése
+firefox-products-get-pocket = A { -brand-name-pocket } beszerzése
