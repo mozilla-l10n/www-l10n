@@ -156,9 +156,6 @@ newsletters-check-for-data-breaches = Periksa pencerobohan data
 
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } adalah perkhidmatan percuma yang boleh anda gunakan untuk melihat adakah anda pernah terlibat dalam pelanggaran data dalam talian.
 
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } adalah perkhidmatan percuma yang boleh anda gunakan untuk melihat adakah anda pernah terlibat dalam pelanggaran data dalam talian.
-
 newsletters-sign-in-to-monitor = Daftar Masuk ke { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Temui jenama induk kami
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, yang bukan berasaskan keuntungan di sebalik { -brand-name-firefox }, mengutamakan pengguna daripada keuntungan dalam setiap apa yang kami bicara, bangunkan dan laksanakan.

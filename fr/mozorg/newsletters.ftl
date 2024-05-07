@@ -156,9 +156,6 @@ newsletters-check-for-data-breaches = Vérifier les fuites de données
 
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } est un service gratuit qui vous permet de voir si vous avez été victime d’une fuite de données en ligne.
 
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } est un service gratuit qui vous permet de voir si vous avez été victime d’une fuite de données en ligne.
-
 newsletters-sign-in-to-monitor = Se connecter à { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Découvrez notre marque mère
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, l’organisation à but non lucratif à l’origine de { -brand-name-firefox }, fait passer les gens avant les profits dans tout ce que nous disons, créons et faisons.
