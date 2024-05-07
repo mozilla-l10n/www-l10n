@@ -160,9 +160,6 @@ firefox-desktop-download-questions = Ada soalan? <a { $attrs }>Bantuan { -brand-
 
 firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -brand-name-mozilla-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Awasi penggodam dengan { -brand-name-firefox-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Hampir tiba!

@@ -160,9 +160,6 @@ firefox-desktop-download-questions = هل لديك أسئلة؟ يمكنك ال�
 
 firefox-desktop-download-watch-for-hackers-with-v3 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-mozilla-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-firefox-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = على وشك الانتهاء!

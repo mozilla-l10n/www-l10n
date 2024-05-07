@@ -160,9 +160,6 @@ firefox-desktop-download-questions = お問い合わせがありましたら、<
 
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = もう少しです!

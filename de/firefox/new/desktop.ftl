@@ -160,9 +160,6 @@ firefox-desktop-download-questions = Hast du Fragen? Die <a { $attrs }>{ -brand-
 
 firefox-desktop-download-watch-for-hackers-with-v3 = Halten Sie mit { -brand-name-mozilla-monitor } nach Hackern Ausschau, schützen Sie Ihre E-Mail-Adresse mit { -brand-name-firefox-relay } und mehr.
 
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Halten Sie mit { -brand-name-firefox-monitor } nach Hackern Ausschau, schützen Sie Ihre E-Mail-Adresse mit { -brand-name-firefox-relay } und mehr.
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Fast geschafft!
