@@ -32,11 +32,6 @@ best-browser-last-but-not-least = 最後に、安全なブラウザーは、ア�
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
 best-browser-firefox-is-offering-v2 = { -brand-name-firefox } は、ユーザーを守るために新しい機能を提供しています。<a { $monitor }>{ -brand-name-mozilla-monitor }</a> です。ユーザーのアカウントがパブリックハックを受けている場合に警告し、アカウントが過去にハッキングを受けたことがあるかどうかを知らせる無料のサービスです。もう一つ、Green Lock も役に立ちます。これはブラウザーウィンドウ左上にあり、小さな緑色のアイコンのように見えます。{ -brand-name-firefox } で緑色のロックが表示されている場合は、ウェブサイトが暗号化され、セキュリティ保護されていることを意味します。ロックがグレーの場合は、機密情報を入力することは考え直してください。
 
-# Obsolete string
-# Variables:
-# $monitor (url) - link to https://monitor.mozilla.org
-best-browser-firefox-is-offering = { -brand-name-firefox } は、ユーザーを守るために新しい機能を提供しています。<a href="{ $monitor }">{ -brand-name-firefox-monitor }</a> です。ユーザーのアカウントがパブリックハックを受けている場合に警告し、アカウントが過去にハッキングを受けたことがあるかどうかを知らせる無料のサービスです。もう一つ、Green Lock も役に立ちます。これはブラウザーウィンドウ左上にあり、小さな緑色のアイコンのように見えます。{ -brand-name-firefox } で緑色のロックが表示されている場合は、ウェブサイトが暗号化され、セキュリティ保護されていることを意味します。ロックがグレーの場合は、機密情報を入力することは考え直してください。
-
 best-browser-we-visit-hundreds-or = 私たちは、毎日数百あるいは数千のウェブサイトにアクセスしており、これらすべてのサイトにおいてユーザーにセキュリティとプライバシーに関する決定を求めることはできません。だからこそ、よりコントロールを可能にするブラウザーが重要になってくるのです。それが本物の意味のある保護を提供するためです。
 best-browser-a-browser-that-minds = きっちり仕事をこなすブラウザー。
 best-browser-privacy-on-the-web = ウェブ上のプライバシーはデリケートな問題です。プライバシーを最優先で求めるなら、それを真剣に考えるブラウザーが必要です。自分に合ったプライベートなブラウザーを選択するときは、トラッキングポリシーと、ブラウザーによるユーザーデータの取り扱いに注意してください。専門的なことに見えるかもしれませんが、これがブラウザーによってプライバシー保護に差がある理由です。
