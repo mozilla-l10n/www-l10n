@@ -50,10 +50,6 @@ privacy-passwords-when-an-attacker = Ketika penyerang mencuri basis data kata sa
 #   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = Gunakan <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
 
-# Obsolete string
-#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = Gunakan <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> untuk mengawasi alamat email yang terkait dengan akun Anda. Jika alamat email Anda muncul di pelanggaran data perusahaan, Anda akan diberi tahu dan diberikan langkah-langkah yang harus diikuti untuk melindungi akun yang terdampak.
-
 privacy-passwords-security-questions-my = Pertanyaan Keamanan: Nama gadis ibu saya adalah “Ff926AKa9j6Q”
 privacy-passwords-finally-most-websites = Terakhir, sebagian besar situs web mengizinkan Anda memulihkan kata sandi jika Anda lupa. Biasanya sistem ini membuat Anda menjawab beberapa &quot;pertanyaan keamanan&quot; sebelum Anda dapat mengatur ulang kata sandi Anda. <strong>Jawaban atas pertanyaan ini harus sama rahasianya dengan kata sandi Anda.</strong> Jika tidak, penyerang dapat menebak jawaban dan mengatur kata sandi Anda ke sesuatu yang mereka ketahui.
 privacy-passwords-randomness-can-be = Keacakan dapat menjadi masalah, karena pertanyaan keamanan yang sering digunakan situs juga merupakan hal yang cenderung diketahui orang mengenai Anda, seperti tempat kelahiran, tanggal lahir, atau nama kerabat Anda, atau yang dapat dikumpulkan dari sumber seperti media sosial. Kabar baiknya adalah situs web tersebut tidak peduli apakah jawabannya nyata atau tidak — Anda dapat berbohong! Tetapi berbohongnya secara produktif: <strong>Berikan jawaban atas pertanyaan keamanan yang panjang dan acak,</strong> seperti kata sandi Anda.

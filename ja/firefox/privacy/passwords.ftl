@@ -50,10 +50,6 @@ privacy-passwords-when-an-attacker = ウェブサイト (<a { $url_linkedin }>Li
 #   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
 
-# Obsolete string
-#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> を使用して、自分のアカウントに関連付けられているメールアドレスを監視しましょう。発覚した企業のデータ侵害に自分のメールアドレスが含まれている場合、ユーザーに警告が送信され、被害を受けたアカウントを保護する手順が通知されます。
-
 privacy-passwords-security-questions-my = セキュリティの質問: 自分の母親の婚前の苗字は「Ff926AKa9j6Q」
 privacy-passwords-finally-most-websites = ほとんどのウェブサイトでは、忘れてしまったパスワードを回復できます。通常、こうしたシステムでは、「セキュリティの質問」に回答してからパスワードをリセットできるようになっています。<strong>これらの質問の回答は、パスワードと同様に秘密でなければなりません。</strong>そうでなければ、攻撃者は答えを推測してパスワードを設定してしまうことができます。
 privacy-passwords-randomness-can-be = 無作為性は問題となる可能性があります。なぜなら、よくウェブサイトで使用されるセキュリティの質問もまた、出生地や誕生日、親戚の名前など、他人が知っている可能性が高いものであったり、ソーシャルメディア等から収集可能なものだからです。しかし、好都合なことに、ウェブサイトは、その回答が事実であるかどうかは問題となりませんので、虚偽の回答を設定できます。しかし、パスワードと同様、<strong>セキュリティの質問には、文字数が多く、無作為な回答を設定して</strong>、効果的な虚偽の回答を設定しましょう。

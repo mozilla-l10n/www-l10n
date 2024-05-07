@@ -50,10 +50,6 @@ privacy-passwords-when-an-attacker = عندما يسرق مُهاجم قاعدة
 #   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
 privacy-passwords-use-mozilla-monitor = استخدم <a { $url_monitor }>{ -brand-name-mozilla-monitor }</a> لمراقبة عناوين البريد الإلكتروني المرتبطة بحساباتك. إذا ظهر عنوان بريدك الإلكتروني في أي خرق معروف لبيانات الشركة، فسيتم تنبيهك وتزويدك بالخطوات التي يجب اتباعها لحماية الحساب المتأثر.
 
-# Obsolete string
-#   $url_monitor (string) - link to https://monitor.mozilla.org/ with additional attributes for analytics
-privacy-passwords-use-firefox-monitor = استخدم <a { $url_monitor }>{ -brand-name-firefox-monitor }</a> لمراقبة عناوين البريد الإلكتروني المرتبطة بحساباتك. إذا ظهر عنوان بريدك الإلكتروني في أي خرق معروف لبيانات الشركة، فسيتم تنبيهك وتزويدك بالخطوات التي يجب اتباعها لحماية الحساب المتأثر.
-
 privacy-passwords-security-questions-my = أسئلة الأمان: اسم والدتي قبل الزواج هو "Ff926AKa9j6Q"
 privacy-passwords-finally-most-websites = وفي النهاية، تتيح لك معظم مواقع الويب استعادة كلمة مرورك إذا نسيتها. عادةً ما تجعلك هذه الأنظمة تجيب على بعض &quot;أسئلة الأمان&quot; قبل أن تتمكن من إعادة تعيين كلمة المرور الخاصة بك. <strong>يجب أن تكون الإجابات على هذه الأسئلة بنفس سرية كلمة المرور الخاصة بك.</strong> وإلا، يمكن للمهاجم تخمين الإجابات وتعيين كلمة المرور الخاصة بك إلى شيء يعرفه.
 privacy-passwords-randomness-can-be = قد تكون العشوائية مشكلة، نظرًا لأن الأسئلة الأمنية التي تستخدمها المواقع غالبًا هي أيضًا أشياء يميل الأشخاص إلى معرفتها عنك، مثل مكان ميلادك أو عيد ميلادك أو أسماء أقاربك، أو التي يمكن الحصول عليها من مصادر مثل وسائل التواصل الاجتماعي. الخبر السار هو أن الموقع لا يهتم بما إذا كانت الإجابة حقيقية أم لا — لك أن تكذب! ولكن اجعله كذبًا منتجًا: <strong>قدم إجابات لأسئلة الأمان الطويلة والعشوائية،</strong> مثل كلمات المرور الخاصة بك.
