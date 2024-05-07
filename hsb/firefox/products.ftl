@@ -44,12 +44,18 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = Pomoc { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = { -brand-name-thunderbird } sćahnyć
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = URL analyzować
 
 ## Pocket
 

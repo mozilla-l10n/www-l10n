@@ -38,3 +38,4 @@ legal-report-copyright = Zranjenje awtorskeho prawa abo wikowanskeho znamjenja z
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Słužbne wuměnjenja { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Abonementowe słužby { -brand-name-mozilla }
+legal-amo-policies = Prawidła AMO
