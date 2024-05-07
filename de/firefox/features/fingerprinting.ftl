@@ -36,7 +36,7 @@ features-fingerprinting-the-practice-of = Durch Fingerprinting kannst du <a { $u
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Der neuste { -brand-name-firefox }-Browser schützt dich vor Fingerprinting, indem Anfragen von Drittanbietern an Unternehmen, die dafür bekannt sind, Fingerprinting anzuwenden, blockiert werden. Wir haben hart daran gearbeitet, diesen Datenschutz zu ermöglichen, ohne die Websites zu beschädigen, die du besuchen möchtest. (Lies hier mehr, wenn du dich für die <a { $url_details }>technischen Einzelheiten</a> interessierst.)
 
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Die Einstellung ist einfach zu finden. Im neuesten { -brand-name-firefox }-Browser wird Fingerprinting automatisch blockiert. Besuche dein <a { $url_protections }>Datenschutz-Dashboard</a>, um zu sehen, wie du heimlich getrackt wirst und wie { -brand-name-firefox } dies verhindert.
 
 # $url_download (string) - link to firefox/new

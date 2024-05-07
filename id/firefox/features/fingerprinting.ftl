@@ -36,7 +36,7 @@ features-fingerprinting-the-practice-of = Praktik pengumpulan sidik jari dapat m
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = { -brand-name-firefox } terbaru melindungi Anda dari fingerprinting dengan memblokir permintaan pihak ketiga ke perusahaan yang diketahui terlibat dalam upaya pengumpulan sidik jari. Kami telah berusaha maksimal untuk mewujudkan perlindungan privasi tersebut tanpa mengganggu kenyamanan Anda saat mengunjungi situs web yang disukai. (Baca selengkapnya di sini, jika Anda menginginkan <a { $url_details }>detail teknisnya</a>.)
 
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Anda tidak perlu menyetel pengaturan yang rumit. Di { -brand-name-firefox } terbaru, pemblokiran sidik jari adalah setelan standar dan bawaan. Kunjungi <a { $url_protections }>dasbor perlindungan privasi</a> Anda untuk melihat bagaimana proses Anda dilacak dan cara { -brand-name-firefox } mencegahnya.
 
 # $url_download (string) - link to firefox/new

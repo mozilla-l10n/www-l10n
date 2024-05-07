@@ -36,7 +36,7 @@ features-fingerprinting-the-practice-of = Amalan membuat pengecapan jari membole
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Pelayar { -brand-name-firefox } yang terkini melindungi anda daripada pengecapan jari dengan menyekat permintaan pihak ketiga kepada syarikat yang diketahui menyertai pengecapan jari. Kami telah bekerja keras untuk mendayakan perlindungan privasi ini tanpa merosakkan laman web yang anda gemari. (Baca lebih lanjut di sini, jika anda inginkan <a { $url_details }>butiran teknikal</a>.)
 
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Ia bukanlah tetapan yang menyukarkan anda mencarinya. Dalam pelayar { -brand-name-firefox } terkini, sekatan pengecapan jari ialah tetapan standard dan dilalaikan. Kunjungi <a { $url_protections }>papan pemuka perlindungan privasi</a> anda untuk melihat cara anda dijejaki di balik tabir dan cara { -brand-name-firefox } mencegah penjejakan tersebut.
 
 # $url_download (string) - link to firefox/new

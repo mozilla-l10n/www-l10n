@@ -36,7 +36,7 @@ features-fingerprinting-the-practice-of = フィンガープリント採取さ�
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = 最新版の { -brand-name-firefox } ブラウザーは、フィンガープリント採取に関与していることが知られている企業へのサードパーティ要求をブロックすることで、フィンガープリント採取から保護します。ユーザーお気に入りのウェブサイトを破損させることなくこのプライバシー保護を実現するために、Mozilla は尽力しました。(<a { $url_details }>技術的な詳細</a>はこちらをご覧ください。)
 
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = これは深くまで掘り下げて確認する必要のある詳細設定ではありません。最新版の { -brand-name-firefox } ブラウザーでは、フィンガープリント採取ブロックは標準の既定設定です。<a { $url_protections }>プライバシー保護ダッシュボード</a>にアクセスすると、あなたが見えない所でどのように追跡を受けているか、{ -brand-name-firefox } がどのように防止しているかを確認できます。
 
 # $url_download (string) - link to firefox/new

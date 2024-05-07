@@ -36,7 +36,7 @@ features-fingerprinting-the-practice-of = La détection d’empreinte numérique
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = La dernière version du navigateur { -brand-name-firefox } vous protège contre la détection d’empreinte numérique en bloquant les demandes provenant de sites tiers liés à des entreprises connues pour participer à cette pratique. Protéger votre vie privée tout en vous permettant de continuer à profiter de vos sites web préférés nous a demandé des efforts considérables. (Cliquez ici pour en savoir plus et consulter tous les <a { $url_details }>détails techniques</a>.)
 
-# $url_protections (string) - https://www.mozilla.org/firefox/privacy/products/
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
 features-fingerprinting-and-its-not = Et pour en profiter, même pas besoin de fouiller des menus et des sous-menus. Dans le dernier navigateur { -brand-name-firefox }, le blocage de la détection d’empreinte numérique est paramétré par défaut. Consultez votre <a { $url_protections }>tableau de bord sur la protection de la vie privée</a> pour découvrir de quelle façon vous êtes actuellement suivi·e en arrière-plan et savoir comment { -brand-name-firefox } vous protège.
 
 # $url_download (string) - link to firefox/new
