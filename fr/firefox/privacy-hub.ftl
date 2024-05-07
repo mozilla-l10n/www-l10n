@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Plus de { $trackers } de traq
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = Quand vous saisissez votre adresse électronique dans { -brand-name-mozilla-monitor }, nous l’oublions immédiatement après avoir vérifié si elle figure dans une fuite de donnée connue. Sauf si vous nous autorisez à vous informer en cas de nouvelles fuites vous concernant.
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = Quand vous saisissez votre adresse électronique dans { -brand-name-firefox-monitor }, nous l’oublions immédiatement après avoir vérifié si elle figure dans une fuite de donnée connue. Sauf si vous nous autorisez à vous informer en cas de nouvelles fuites vous concernant.
 firefox-privacy-hub-check-for-breaches = Vérifier les fuites de données
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Les mots de passe et identifiants que vous enregistrez dans { -brand-name-firefox-lockwise } sont chiffrés sur tous vos appareils. Même nous ne pouvons pas les voir.

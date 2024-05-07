@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Lebih daripada { $trackers } 
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = Apabila anda memasukkan alamat e-mel anda di { -brand-name-mozilla-monitor }, kami akan segera melupakannya setelah kami memeriksa padanan dalam kebocoran data yang diketahui — melainkan anda mengizinkan kami untuk terus memantau kebocoran baru bagi maklumat peribadi anda.
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = Apabila anda memasukkan alamat e-mel anda di { -brand-name-firefox-monitor }, kami akan segera melupakannya setelah kami memeriksa padanan dalam kebocoran data yang diketahui — melainkan anda mengizinkan kami untuk terus memantau kebocoran baru bagi maklumat peribadi anda.
 firefox-privacy-hub-check-for-breaches = Periksa jika ada kebocoran
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Kata laluan dan kelayakan yang anda simpan di { -brand-name-firefox-lockwise } dienkripsi pada semua peranti anda, jadi kami juga tidak dapat melihatnya.

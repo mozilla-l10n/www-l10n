@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = Wir blocken jeden Tag weltwei
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = Wenn du deine E-Mail-Adresse in { -brand-name-mozilla-monitor } eingibst, überprüfen wir sie auf Übereinstimmungen mit bekannten Datenlecks und vergessen sie anschließend gleich wieder. Es sei denn, du berechtigst uns dazu, weiterhin für dich zu checken, ob deine persönlichen Daten in zukünftigen Datenlecks auftauchen.
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = Wenn du deine E-Mail-Adresse in { -brand-name-firefox-monitor } eingibst, überprüfen wir sie auf Übereinstimmungen mit bekannten Datenlecks und vergessen sie anschließend gleich wieder. Es sei denn, du berechtigst uns dazu, weiterhin für dich zu checken, ob deine persönlichen Daten in zukünftigen Datenlecks auftauchen.
 firefox-privacy-hub-check-for-breaches = E-Mail auf Datenlecks überprüfen
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = Die Passwörter und Zugangsdaten, die du in { -brand-name-firefox-lockwise } speicherst, werden auf allen deinen Geräten verschlüsselt, sodass nicht einmal wir sie sehen können.

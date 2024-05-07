@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = प्रतिदिन { $t
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = जब आप { -brand-name-mozilla-monitor } में अपना ईमेल पता डालते हैं, तब डेटा उल्लंघन के ज्ञात मेल की जाँच करने के बाद हम उसे तुरंत भूल जाते हैं — जब तक कि अपनी व्यक्तिगत जानकारी पर संभावित नए उल्लंघनों पर नज़र रखने के लिए आप खुद हमें अधिकृत नहीं करते।
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = जब आप { -brand-name-firefox-monitor } में अपना ईमेल पता डालते हैं, तब डेटा उल्लंघन के ज्ञात मेल की जाँच करने के बाद हम उसे तुरंत भूल जाते हैं — जब तक कि अपनी व्यक्तिगत जानकारी पर संभावित नए उल्लंघनों पर नज़र रखने के लिए आप खुद हमें अधिकृत नहीं करते।
 firefox-privacy-hub-check-for-breaches = उल्लंघनों के लिए देखें
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = आप जो भी पासवर्ड और निजी जानकारी { -brand-name-firefox-lockwise } में सेव करते हैं, वे आपकी डिवाइस पर एन्क्रिप्ट होते हैं, इसलिए हम भी उन्हें देख नहीं सकते।

@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = حظر أكثر من { $track
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = عندما تدخل عنوان بريدك الإلكتروني في { -brand-name-mozilla-monitor }، فإننا ننساه على الفور بعد أن نتحقق من وجود تطابق في خروقات البيانات المعروفة — ما لم تأذن لنا بمواصلة مراقبة الانتهاكات الجديدة لمعلوماتك الشخصية.
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = عندما تدخل عنوان بريدك الإلكتروني في { -brand-name-firefox-monitor }، فإننا ننساه على الفور بعد أن نتحقق من وجود تطابق في خروقات البيانات المعروفة — ما لم تأذن لنا بمواصلة مراقبة الانتهاكات الجديدة لمعلوماتك الشخصية.
 firefox-privacy-hub-check-for-breaches = تحقّق من أي خروقات
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = يتم تشفير كلمات المرور وبيانات الاعتماد في { -brand-name-firefox-lockwise } على كل الأجهزة، ومن ثم لا يُمكننا حتى رؤيتها.

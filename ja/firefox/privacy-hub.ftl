@@ -94,13 +94,8 @@ firefox-privacy-hub-more-than-s-trackers-blocked = 世界各地の { -brand-name
 
 firefox-privacy-hub-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-firefox-privacy-hub-firefox-monitor = { -brand-name-firefox-monitor }
-
 firefox-privacy-hub-when-you-enter-your-email-v2 = { -brand-name-mozilla-monitor } にメールアドレスを入力されたパスワードは、確認されているデータ侵害に一致しないことを確認した後、直ちに消去されます。(その後のデータ侵害についても個人情報を監視することを Mozilla に対してユーザーが許可した場合を除きます。)
 
-# Obsolete string
-firefox-privacy-hub-when-you-enter-your-email = { -brand-name-firefox-monitor } にメールアドレスを入力されたパスワードは、確認されているデータ侵害に一致しないことを確認した後、直ちに消去されます。(その後のデータ侵害についても個人情報を監視することを Mozilla に対してユーザーが許可した場合を除きます。)
 firefox-privacy-hub-check-for-breaches = 侵害を確認
 firefox-privacy-hub-firefox-lockwise = { -brand-name-firefox-lockwise }
 firefox-privacy-hub-the-passwords-and-credentials = ユーザーが { -brand-name-firefox-lockwise } に保存したパスワードと資格情報は全デバイス上で暗号化されますので、Mozilla でさえも読み取ることができません。
