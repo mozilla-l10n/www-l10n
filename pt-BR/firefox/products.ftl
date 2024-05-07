@@ -28,8 +28,8 @@ firefox-products-your-dedicated-privacy = Seu navegador dedicado à privacidade,
 ## Monitor
 
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-products-see-if-your-personal-information = Veja se suas informações pessoais foram comprometidas em um vazamento de dados corporativo e inscreva-se para receber alertas de futuros vazamentos.
-firefox-products-check-for-breaches = Verificar se há vazamentos
+firefox-products-see-if-your-personal-information = Veja se suas informações pessoais foram comprometidas em vazamentos de dados corporativos e inscreva-se para receber alertas de futuros vazamentos.
+firefox-products-check-for-breaches = Verifique se há vazamentos
 
 ## Relay
 
@@ -66,5 +66,5 @@ firefox-products-analyze = Analise um endereço de site
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content = Descubra o melhor conteúdo da web — e aproveite onde e quando quiser.
+firefox-products-discover-the-best-content = Descubra o melhor conteúdo da web, aproveite onde e quando quiser. Feito pela { -brand-name-mozilla }.
 firefox-products-get-pocket = Use o { -brand-name-pocket }
