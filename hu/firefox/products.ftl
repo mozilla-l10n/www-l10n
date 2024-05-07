@@ -61,6 +61,7 @@ firefox-products-fakespot = { -brand-name-fakespot }
 # scam artists are people who are trying to sell fakes or steal money
 # 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
 firefox-products-fakespot-has-your = A { -brand-name-fakespot } támogatja Önt az online vásárlás során – szűrje ki a szélhámosokat, és találja meg a legjobb ajánlatokat. A { -brand-name-mozilla } készítette.
+firefox-products-analyze = Egy webcím elemzése
 
 ## Pocket
 
