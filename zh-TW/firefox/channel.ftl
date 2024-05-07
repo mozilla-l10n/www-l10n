@@ -46,7 +46,7 @@ firefox-channel-build-test-scale-and-more = 使用專門為開發者打造的瀏
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } 是一個不穩定的測試與開發平台。預設情況下，{ -brand-name-developer-edition } 會傳送資料回 { -brand-name-mozilla }，某些時候還會傳送給我們的夥伴，以協助我們處理問題與測試新功能的點子。<a href="{ $link }">了解會回傳哪些資料</a>。
-firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } 會自動傳送意見回饋給 { -brand-name-mozilla }。
+firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } 會自動回傳資料給 { -brand-name-mozilla }。
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = 搶先體驗我們的下一代網頁瀏覽器，也幫助我們讓它盡善盡美: 請試用 { -brand-name-firefox-nightly }。
 firefox-channel-test-brand-new-features = 每天（或者每夜）測試最新功能，使用時請多留意。

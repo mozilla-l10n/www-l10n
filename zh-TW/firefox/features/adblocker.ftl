@@ -7,7 +7,7 @@
 
 features-adblocker-how-to-block-annoying = 如何使用封鎖器來封鎖討厭的廣告
 features-adblocker-how-to-stop-seeing-too = 來自 { -brand-name-firefox } 網頁瀏覽器的廣告封鎖指南，教您如何減少看到廣告的數量，並且防止各個公司在網路上追蹤您。
-features-adblocker-the-ad-blocker-a-secret = 廣告封鎖器 - 對討人厭的廣告的秘密武器。
+features-adblocker-the-ad-blocker-a-secret = 廣告封鎖器：針對討人厭廣告的秘密武器
 features-adblocker-so-many-ads-so-little = 廣告太多了，我才沒有那個閒工夫…是時候該封鎖掉這些廣告了。
 features-adblocker-the-average-person-sees = 一般人平均一天會看到 4,000 組廣告。如果您覺得這數字太多了，廣告封鎖器就會是您的好朋友。
 features-adblocker-an-ad-blocker-is-a-piece = 廣告封鎖器就是一套用來封鎖廣告用的軟體，可以用兩種方式運作。第一種是直接封鎖來自廣告商伺服器的流量，這樣流量就不會在您開啟的頁面中出現。另一種方式是封鎖網頁中，可能是廣告的內容。
@@ -32,8 +32,6 @@ features-adblocker-create-a-tracker-free = 使用內容封鎖功能，建立無�
 features-adblocker-on-firefox-you-can-use = 您可以在 { -brand-name-firefox } 使用<a href="{ $privacy }">隱私權</a>或<a href="{ $blocking }">內容封鎖</a>設定來更細緻地調整如何對待廣告追蹤器。
 features-adblocker-choose-your-level-of-protection = 選擇保護等級
 features-adblocker-to-start-click-on-the-v2 = 首先，請點擊網址列左邊的盾牌，然後選擇「保護設定」。將在新分頁中開啟 { -brand-name-firefox } 的「隱私權與安全性」面板。您會看到有不同選項的藍色視窗。
-# Obsolete string
-features-adblocker-to-start-click-on-the = 請點擊畫面右上角的 { -brand-name-firefox } 選單按鈕。看起來像是三條平行線組合而成的漢堡選單。然後在下拉選單中點擊「內容封鎖」。您應該會看到有幾個選項的藍色視窗。
 features-adblocker-go-easy-with-standard = 使用簡單輕鬆的標準模式
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +56,3 @@ features-adblocker-in-some-cases-an-ad-blocker = 某些情況下，廣告封鎖�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = 若您想了解廣告封鎖器的更多資訊，在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可以使用。如果想試用 { -brand-name-firefox } 提供的廣告封鎖器，可以<a href="{ $url }">點擊此處下載</a>將隱私權看得最重要的瀏覽器。
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = 若您想了解廣告封鎖器的更多資訊，在 { -brand-name-firefox } 與其他瀏覽器中有上百套的廣告封鎖擴充套件可以使用。若您想在 { -brand-name-firefox } 試用看看，可以<a href="{ $url }">點擊此處下載</a>將您的隱私權看得最重要的瀏覽器。

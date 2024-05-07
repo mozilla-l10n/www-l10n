@@ -34,7 +34,7 @@ vpn-landing-connect-up-to-devices =
 #   $countries (number) - number of available countries
 vpn-landing-more-than-servers-in-countries =
     { $servers ->
-       *[other] 在超過 { $countries } 個國家超過 { $servers } 台伺服器
+       *[other] 在超過 { $countries } 個國家有超過 { $servers } 台伺服器
     }
 vpn-landing-fast-network-speeds-even-while = 玩遊戲時網路速度也超快
 vpn-landing-no-logging-tracking-or-sharing = 不記錄、追蹤或分享網路資料

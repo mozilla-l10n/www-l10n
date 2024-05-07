@@ -19,7 +19,7 @@ vpn-shared-features-encrypt = 裝置層級加密
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = 在超過 { $countries } 個國家當中有超過 { $servers } 台伺服器
-vpn-shared-features-bandwidth = 無頻寬限制
+vpn-shared-features-bandwidth = 沒有頻寬限制
 vpn-shared-features-activity = 不會紀錄您的上網行為
 vpn-shared-features-activity-logs = 不論現在或未來，都不偷偷記錄您的上網行為
 # Variables:

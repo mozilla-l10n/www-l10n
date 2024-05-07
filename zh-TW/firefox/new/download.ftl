@@ -38,7 +38,7 @@ firefox-new-download-almost-there = 快完成了！
 firefox-new-download-select-linux = 請選擇下載選項
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = 請依照<a href="{ $url }">這些步驟</a>安裝 { -brand-name-firefox }。
+firefox-new-please-follow = 請依照<a href="{ $url }">此步驟</a>安裝 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。

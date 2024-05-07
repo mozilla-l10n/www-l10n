@@ -19,7 +19,7 @@ bookmark-manager-image-of-the-bookmark-manager = { -brand-name-firefox } 中的�
 bookmark-manager-easily-import-bookmarks = 輕鬆匯入書籤
 bookmark-manager-you-can-import-your-bookmarks = 您可以使用 { -brand-name-firefox } 的匯入精靈從 Chrome、Safari 或 Edge 匯入書籤。只要點擊書籤 > 管理書籤，然後選擇「匯入及備份」即可。
 # Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 匯入精靈對話框的圖片，顯示用來從其他瀏覽器匯入設定與資料的選項。
+bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox } 匯入精靈對話框的示意圖，顯示從其他瀏覽器匯入設定與資料的選項。
 bookmark-manager-bookmarks-toolbar = 書籤工具列
 bookmark-manager-get-quick-access-to-your = 在 { -brand-name-firefox } 頂部的選單快速開啟您最愛的書籤，或將書籤釘選到工具列。
 # Used as an accessible text alternative for an image

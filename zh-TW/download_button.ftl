@@ -17,13 +17,13 @@ download-button-recommended = 推薦
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } 不再為 { -brand-name-windows } { -brand-name-xp } 及 { -brand-name-vista } 上的 { -brand-name-firefox } 提供安全性更新</a>，但您仍可以於下方下載最終版的 { -brand-name-windows } 32 位元版本。
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = 請依照 <a href="{ $url }">下列步驟</a> 安裝 { -brand-name-firefox }。
+download-button-please-follow-these = 請依照<a href="{ $url }">此步驟</a>安裝 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = 您的系統不符合執行 { -brand-name-firefox } 的 <a href="{ $url }">最低需求</a>。
 download-button-firefox-other-platforms = 其他平台與語言版本的 { -brand-name-firefox }
 download-button-update-your-firefox = 更新 { -brand-name-firefox }
-download-button-get-firefox-android = 取得 { -brand-name-android } 版本的 { -brand-name-firefox }
+download-button-get-firefox-android = 取得 { -brand-name-firefox } for { -brand-name-android }
 download-button-get-firefox-ios = 取得 { -brand-name-firefox } for { -brand-name-ios }
 download-button-google-play = 到 { -brand-name-google-play } 下載
 download-button-free-google-play = { -brand-name-google-play }<br>免費下載
