@@ -21,9 +21,6 @@ welcome-page8-see-whats-blocked = Sieh, was geblockt wird
 
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
-
 welcome-page8-see-what-youve-been = Finde heraus, ob du von einem bekannt gewordenen Datenleck betroffen bist und was jetzt zu tun ist.
 welcome-page8-go-to-monitor = Zu { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

@@ -21,9 +21,6 @@ welcome-page8-see-whats-blocked = Lihat apa yang diblokir
 
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
-
 welcome-page8-see-what-youve-been = Lihat apakah Anda pernah terlibat dalam pelanggaran data daring yang diketahui dan ambil tindakan untuk mengatasinya.
 welcome-page8-go-to-monitor = Buka { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
