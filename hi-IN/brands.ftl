@@ -69,9 +69,6 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
 
-# Obsolete brand name
--brand-name-firefox-monitor = Firefox Monitor
-
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox Relay प्रीमियम
 -brand-name-firefox-relay = Firefox Relay
@@ -100,6 +97,9 @@
 ## Pocket
 
 -brand-name-pocket = Pocket
+
+## Fakespot
+
 
 ## Mozilla projects
 
