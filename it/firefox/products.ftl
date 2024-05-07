@@ -3,64 +3,68 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } è molto più di un browser
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } è solo l’inizio
-# Obsolete string
+firefox-products-mozilla-products = Prodotti { -brand-name-mozilla }
 # HTML page description
-firefox-products-its-a-whole-family-of-products = È un’intera famiglia di prodotti progettata per offrirti un’esperienza online più sicura e consapevole.
 firefox-products-mozillas-family-of-products = La famiglia di prodotti { -brand-name-mozilla } è progettata per offrirti un’esperienza online più sicura e consapevole.
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } è molto <strong>più</strong> di un browser
+firefox-products-products = Prodotti
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } è solo l’inizio.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } è solo l’inizio
+firefox-products-mozillas-family-of-products-sentence = La famiglia di prodotti { -brand-name-mozilla } è progettata per offrirti un’esperienza online più sicura e consapevole.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Ottieni il browser che blocca automaticamente più di 2000 elementi in grado di tracciare i tuoi dati. La protezione antitracciamento avanzata è inclusa in ogni browser { -brand-name-firefox }.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Il browser dedicato alla privacy con protezione automatica dal tracciamento e blocco degli annunci pubblicitari.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } è solo l’<strong>inizio</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Controlla se le tue informazioni personali sono state compromesse in una violazione di dati aziendali e registrati per ricevere avvisi in futuro.
 firefox-products-check-for-breaches = Cerca nelle violazioni
-firefox-products-sign-up-for-breach-alerts = Iscriviti per ricevere avvisi sulle violazioni
-# Obsolete string
-firefox-products-firefox-browsers = Browser { -brand-name-firefox }
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Scarica i browser che bloccano automaticamente più di 2000 elementi traccianti di dati. La protezione antitracciamento avanzata è inclusa in ogni browser { -brand-name-firefox }.
-firefox-products-desktop = Desktop
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Vedi tutti i browser
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Proteggi il tuo indirizzo email reale per un maggior controllo della tua casella di posta
+firefox-products-get-relay = Ottieni { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Naviga, guarda contenuti in streaming e lavora appoggiandoti a server in più di 30 Paesi. Osserva il mondo da una nuova prospettiva con una connessione internet sempre sicura.
 firefox-products-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Proteggi il tuo indirizzo email reale per un maggior controllo della tua casella di posta
-firefox-products-learn-more-about-relay = Ulteriori informazioni su { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Mantieni le tue password al sicuro e accedi ad esse su tutti i tuoi dispositivi sincronizzati.
-# Obsolete string
-firefox-products-download-lockwise = Scarica { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Apri in { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Ulteriori informazioni su { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Invia file di grandi dimensioni e documenti riservati in modo sicuro, fino a un massimo di 2,5 GB.
-firefox-products-send-a-file = Invia un file
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Risorse per sviluppatori, da sviluppatori. Sostieni { -brand-name-mdn } e personalizzalo con raccolte, notifiche e aree per provare il tuo codice.
+firefox-products-support-mdn = Sostieni { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Accedi a email, calendari e contatti, tutto in un’app veloce. Filtrali e organizzali come preferisci.
+firefox-products-download-thunderbird = Scarica { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } è al tuo fianco quando fai acquisti online: tieni alla larga gli artisti della truffa e trova le migliori offerte per te. Realizzato da { -brand-name-mozilla }.
+firefox-products-analyze = Analizza un URL
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Scopri i migliori contenuti sul Web e consultali dove e quando vuoi.
 firefox-products-get-pocket = Ottieni { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Ulteriori informazioni su { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Entra in { -brand-name-firefox } e ottieni il massimo da ogni prodotto, su tutti i tuoi dispositivi.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Hai già un account? <a { $fxa_attr }>Accedi</a> o <a { $accounts_attr }>scopri di più</a> su come unirti a { -brand-name-firefox }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Il browser dedicato alla privacy con protezione automatica dal tracciamento e blocco degli annunci pubblicitari.
