@@ -4,63 +4,51 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
-# HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } est bien plus qu’un navigateur.
 
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } n’est qu’un début
-
-# Obsolete string
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Firefox, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
-
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } est bien <strong>plus</strong> qu’un navigateur
 
-firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } n’est qu’un <strong>début</strong>
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } n’est qu’un début
 
 
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-
-firefox-products-see-if-your-personal-information = Découvrez si vos informations personnelles ont été ciblées lors d’une fuite de données d’entreprise, et recevez des alertes dans le futur.
-firefox-products-check-for-breaches = Vérifier les fuites de données
-firefox-products-sign-up-for-breach-alerts = S’inscrire pour les alertes
-
-# Obsolete string
-firefox-products-firefox-browsers = Navigateur { -brand-name-firefox }
+## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Installez les navigateurs qui bloquent automatiquement plus de 2 000 traqueurs de données. La protection renforcée contre le pistage est incluse par défaut dans chaque navigateur { -brand-name-firefox }.
-firefox-products-desktop = Ordinateur
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Découvrir les navigateurs
-firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-products-surf-stream-and-get-work-done = Surfez, streamez et travaillez sur des serveurs dans plus de 30 pays pour une connexion Internet sécurisée avec une nouvelle perspective.
-firefox-products-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Protégez votre véritable adresse e-mail pour garde le contrôle de votre boîte de réception.
-firefox-products-learn-more-about-relay = En savoir plus sur { -brand-name-firefox-relay }
 
-firefox-products-send-your-large-files-and = Envoyez vos fichiers volumineux et documents sensibles en toute sécurité, jusqu’à 2,5 Go.
-firefox-products-send-a-file = Envoyer un fichier
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content = Découvrez du contenu sur le Web — et profitez-en quand bon vous semble.
-firefox-products-get-pocket = Installer { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = En savoir plus sur { -brand-name-pocket }
-
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Vous avez déjà un compte ? <a { $fxa_attr }>Connectez-vous</a> ou <a { $accounts_attr }>apprenez-en plus</a> à propos du compte { -brand-name-firefox }.
+## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage et blocage des publicités.
+
+## Monitor
+
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-products-see-if-your-personal-information = Découvrez si vos informations personnelles ont été ciblées lors d’une fuite de données d’entreprise, et recevez des alertes dans le futur.
+firefox-products-check-for-breaches = Vérifier les fuites de données
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Protégez votre véritable adresse e-mail pour garde le contrôle de votre boîte de réception.
+
+## VPN
+
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surfez, streamez et travaillez sur des serveurs dans plus de 30 pays pour une connexion Internet sécurisée avec une nouvelle perspective.
+firefox-products-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
+
+## MDN Plus
+
+
+## Thunderbird
+
+
+## Fakespot
+
+
+## Pocket
+
+firefox-products-pocket = { -brand-name-pocket }
+firefox-products-get-pocket = Installer { -brand-name-pocket }
