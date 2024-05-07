@@ -3,64 +3,59 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző
-# HTML page title
-firefox-products-firefox-beginning = A { -brand-name-firefox } csak a kezdet
-# Obsolete string
+firefox-products-mozilla-products = A { -brand-name-mozilla } termékei
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Ez egy olyan teljes termékcsalád, amely arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
 firefox-products-mozillas-family-of-products = A { -brand-name-mozilla } termékcsalád arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = A { -brand-name-firefox } <strong>több</strong>, mint egy böngésző
+firefox-products-products = Termékek
+firefox-products-firefox-beginning-v2 = A { -brand-name-firefox } csak a kezdet.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = A { -brand-name-firefox } csak a kezdet
+firefox-products-mozillas-family-of-products-sentence = A { -brand-name-mozilla } termékcsalád arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Szerezze be azt a böngészőt, amely automatikusan blokkol több mint 2000 adatkövetőt. A fokozott követés elleni védelem alapvető minden { -brand-name-firefox } böngészőben.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = A dedikált adatvédelmi böngészője automatikus követés elleni védelemmel és reklámblokkolással.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = A { -brand-name-firefox } csak a <strong>kezdet</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Nézze meg, hogy a személyes információi kikerültek-e vállalati adatvédelmi incidensekben, és iratkozzon fel a jövőbeli figyelmeztetésekre.
 firefox-products-check-for-breaches = Adatvédelmi incidensek keresése
-firefox-products-sign-up-for-breach-alerts = Iratkozzon fel az adatvédelmi incidensek figyelmeztetéseire
-# Obsolete string
-firefox-products-firefox-browsers = { -brand-name-firefox } böngészők
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Szerezze be azokat a böngészőket, amelyek automatikusan blokkolnak több mint 2000 adatkövetőt. A fokozott követés elleni védelem alapvető minden { -brand-name-firefox } böngészőben.
-firefox-products-desktop = Asztali
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Az összes böngésző megtekintése
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Védje valódi e-mail-címét, hogy könnyebben kezelje postaládáját.
+firefox-products-get-relay = A { -brand-name-firefox-relay } beszerzése
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Szörföljön, nézzen közvetítést és dolgozzon biztonságos internetkapcsolaton a több mint 30 országban található kiszolgálók segítségével.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Védje valódi e-mail-címét, hogy könnyebben kezelje postaládáját.
-firefox-products-learn-more-about-relay = Tudjon meg többet a { -brand-name-firefox-relay }ről
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Tartsa biztonságban jelszavait, és érje el azokat az összes szinkronizált eszközén.
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } letöltése
-# Obsolete string
-firefox-products-open-in-firefox = Megnyitás a { -brand-name-firefox }ban
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Tudjon meg többet a { -brand-name-lockwise }-ról
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Küldje el biztonságosan a nagy fájljait és érzékeny dokumentumait, akár 2,5 GB-ig.
-firefox-products-send-a-file = Fájl küldése
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől. Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.
+
+## Thunderbird
+
+
+## Fakespot
+
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor.
 firefox-products-get-pocket = { -brand-name-pocket } beszerzése
-firefox-products-learn-more-about-pocket = További információk a { -brand-name-pocket }ről
-firefox-products-join-firefox-and-get-the-most = Csatlakozzon a { -brand-name-firefox }hoz, és hozza ki a legtöbbet az összes termékből – az összes eszközén.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Már van fiókja? <a { $fxa_attr }>Jelentkezzen be</a> vagy <a { $accounts_attr }>tudjon meg többet</a> a { -brand-name-firefox }hoz csatlakozásról.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = A dedikált adatvédelmi böngészője automatikus követés elleni védelemmel és reklámblokkolással.
