@@ -47,9 +47,11 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
 firefox-products-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől. Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.
+firefox-products-support-mdn = Az { -brand-name-mdn } támogatása
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
 
 ## Fakespot
 
