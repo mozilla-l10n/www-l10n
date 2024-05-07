@@ -11,7 +11,7 @@
 firefox-new-download-firefox = 下載 { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = 下載有史以來最快的 { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
-firefox-new-faster-page-loading-less-memory = 全新 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
+firefox-new-faster-page-loading-less-memory = 全新的 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
 firefox-new-get-the-latest-firefox = 下載最新的 { -brand-name-firefox } 瀏覽器
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = 下載 { -brand-name-firefox } <br>for { -brand-name-windows }

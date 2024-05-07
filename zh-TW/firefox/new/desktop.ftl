@@ -14,7 +14,7 @@ firefox-desktop-download-meta-title-v2 = 下載 { -brand-name-firefox } 桌面�
 firefox-desktop-download-meta-desc = 下載由致力於網路網路生態健康與保護隱私權的非營利組織 { -brand-name-mozilla } 全力開發的瀏覽器 — { -brand-name-firefox }。{ -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux }、{ -brand-name-android }、與 { -brand-name-ios } 版皆能免費下載。
 firefox-desktop-download-meta-desc-v2 = 下載 { -brand-name-firefox } for { -brand-name-windows }、{ -brand-name-mac-short } 或 { -brand-name-linux }。{ -brand-name-firefox } 是一套自由的網頁瀏覽器，由致力於維護網際網路生態與隱私權的非營利組織 { -brand-name-mozilla } 打造。
 firefox-desktop-download-og-title = 下載有史以來最快的 { -brand-name-firefox }
-firefox-desktop-download-og-desc = 全新 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
+firefox-desktop-download-og-desc = 全新的 { -brand-name-firefox } 來了！頁面載入更快、記憶體用量更少，還有更多不同功能。
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release

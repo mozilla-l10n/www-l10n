@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = 從您第一次開啟使用 { -brand-name-firefox } for { -brand-name-android } 瀏覽器，它就又快、又安全、更有隱私。
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = 使用行動版瀏覽器。使用獨立的 { -brand-name-firefox } for { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = 當您下載 { -brand-name-firefox } 時，就代表您選擇支持一家獨立的科技公司。{ -brand-name-firefox } 是唯一一套由非營利組織全力相挺，讓您的線上生活更開放、更透明、更能自行控管的主流瀏覽器。
 mobile-android-get-firefox-for = 取得 { -brand-name-firefox } for { -brand-name-android }
 mobile-android-send-a-download-link-to-your = 傳送下載鏈結到您的手機。
 mobile-android-scan-the-qr-code-to-get-started = 掃描 QR Code 開始使用
@@ -42,4 +38,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網
 mobile-android-short-cut-the-internet = 使用 { -brand-name-firefox } for { -brand-name-android } 抄捷徑，快速上網
 mobile-android-see-all-your-open-tabs = 使用 { -brand-name-firefox } 瀏覽器 for { -brand-name-android } 來一次檢視您所有的分頁、近期搜尋紀錄與最愛網站。
 mobile-android-own-your-home = 擁有自己的主畫面
-mobile-android-get-to-the-parts = 更快開啟您關心的網站。選擇在同一個地方檢視您所有的分頁、近期搜尋、書籤與最愛網站。
+mobile-android-get-to-the-parts = 更快開啟您想看的網站。選擇在同一個地方檢視您所有的分頁、近期搜尋、書籤與最愛網站。

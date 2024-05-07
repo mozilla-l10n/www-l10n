@@ -21,7 +21,7 @@ privacy-index-data-privacy-principles = 隱私資料處理原則
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } 的<a href="{ $principles }">資料隱私保護原則</a>激發了我們尊重與保護網際網路使用者的原則。您可透過這份 <a href="{ $faq }">FAQ</a> 了解我們如何透過這些原則塑造出 { -brand-name-firefox } 及其他產品。
 privacy-index-transparency-report = 透明度報告
-privacy-index-get-involved = 參與其中
+privacy-index-get-involved = 參與我們
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = 作為開放原始碼專案，透明度與開放度是從 { -brand-name-mozilla } 成立以來即深植於組織中的事情。我們的原始碼開放、可受稽核；我們的開發流程也是開放的；我們兩年一度的<a href="{ $report }">透明度報告</a>也展現了我們對實踐這些原則的承諾。
