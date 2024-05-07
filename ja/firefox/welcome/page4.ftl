@@ -21,7 +21,7 @@ welcome-page4-firefox-private-safe-browser = { -brand-name-ios }・{ -brand-name
 welcome-page4-get-data-trackers-off-your = データトラッカーによるトラッキングを阻止
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = 強化型トラッキング防止により、ウェブ上で <a href="{ $privacy }">2,000 件を超えるトラッカーの追跡を阻止</a> します。
 
 # "Leave no trace" is an expression for leaving nothing behind.

@@ -21,7 +21,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: नि�
 welcome-page4-get-data-trackers-off-your = डेटा ट्रैकर्स से अपना पीछा छुड़वाएँ
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = उन्नत ट्रैकिंग सुरक्षा <a href="{ $privacy }">2,000 से भी अधिक ट्रैकर्स</a> को वेब पर आपका पीछा करने से रोकती है।
 
 # "Leave no trace" is an expression for leaving nothing behind.

@@ -21,7 +21,7 @@ welcome-page4-firefox-private-safe-browser = "{ -brand-name-firefox }: Pribadi, 
 welcome-page4-get-data-trackers-off-your = Singkirkan pelacak data dari jejak Anda
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan <a href="{ $privacy }">memblokir 2000+ pelacak</a> agar tidak melacak Anda di web.
 
 # "Leave no trace" is an expression for leaving nothing behind.

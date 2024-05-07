@@ -21,7 +21,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox } – der 
 welcome-page4-get-data-trackers-off-your = Hänge Online-Tracker einfach ab
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Der verbesserte Tracking-Schutz <a href="{ $privacy }">blockt über 2000 Online-Tracker </a> und hält sie davon ab, dir durchs Web zu folgen.
 
 # "Leave no trace" is an expression for leaving nothing behind.
