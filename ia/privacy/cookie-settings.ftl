@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Activa JavaScript pro actualisar le paramet
 cookie-settings-category-necessary-heading = Necessari
 cookie-settings-category-necessary-what-are-subheading = Qual cookies es necessari?
 cookie-settings-category-necessary-what-are-desc = Iste technologias es necessari pro supportar functionalitates essential pro le sito web, tal como registration in un area secur de un sito web o adder elementos a un paniero de compras online, e non pote esser disactivate.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } usa le Cookies necessari solo pro fornir functionalitates essential pro le sito web, tal como authenticationes per tu conto { -brand-name-mozilla } o compras de un abonamento software al momento del pagamento. Sin iste technologias, functiones essential del sito web pote non functionar.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } usa le Cookies necessari solo pro fornir functionalitates essential pro le sito web, tal como authenticationes per tu { -brand-name-mozilla-account } o comprante un abonamento software al momento del pagamento. Sin iste technologias, functiones essential del sito web pote non functionar.
 
 ## Preference cookies section
 
