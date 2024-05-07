@@ -22,12 +22,6 @@ page7-stay-ahead-of-hackers = اسبق المخترقين بخطوات
 
 page7-firefox-monitor-lets-you-find-v2 = يُتيح { -brand-name-mozilla-monitor } لك معرفة ما قد يعرفه المخترقون عنك بالفعل ويساعدك على البقاء متقدمًا عليهم. (وهو مجاني.)
 
-# Obsolete string
-page7-firefox-monitor-lets-you-find = يُتيح { -brand-name-firefox-monitor } لك معرفة ما قد يعرفه المخترقون عنك بالفعل ويساعدك على البقاء متقدمًا عليهم. (وهو مجاني.)
-
 page7-get-mozilla-monitor = نزِّل متصفح { -brand-name-mozilla-monitor }
-
-# Obsolete string
-page7-get-firefox-monitor = نزّل { -brand-name-firefox-monitor }
 
 page7-why-am-i-seeing-this = لماذا أرى هذا؟

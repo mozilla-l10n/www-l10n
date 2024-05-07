@@ -22,12 +22,6 @@ page7-stay-ahead-of-hackers = ハッカーの機先を制する
 
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } は、ユーザーについて、ハッカーがすでに知っている可能性のある情報を確認できるようにし、ハッカーに対して先手を打つ上で役立ちます。(しかも Firefox Monitor は無料です)
 
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } は、ユーザーについて、ハッカーがすでに知っている可能性のある情報を確認できるようにし、ハッカーに対して先手を打つ上で役立ちます。(しかも Firefox Monitor は無料です)
-
 page7-get-mozilla-monitor = { -brand-name-mozilla-monitor } をダウンロード
-
-# Obsolete string
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } をダウンロード
 
 page7-why-am-i-seeing-this = この内容が表示されている理由

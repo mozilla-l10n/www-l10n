@@ -22,12 +22,6 @@ page7-stay-ahead-of-hackers = Sei Hackern einen Schritt voraus
 
 page7-firefox-monitor-lets-you-find-v2 = Mit { -brand-name-mozilla-monitor } erfährst du, was Hacker vielleicht bereits von dir wissen. Überprüfe, ob deine Accounts sicher sind und bleib ihnen immer einen Schritt voraus. (Ist übrigens kostenlos)
 
-# Obsolete string
-page7-firefox-monitor-lets-you-find = Mit { -brand-name-firefox-monitor } erfährst du, was Hacker vielleicht bereits von dir wissen. Überprüfe, ob deine Accounts sicher sind und bleib ihnen immer einen Schritt voraus. (Ist übrigens kostenlos)
-
 page7-get-mozilla-monitor = Hol dir jetzt { -brand-name-mozilla-monitor }
-
-# Obsolete string
-page7-get-firefox-monitor = Jetzt { -brand-name-firefox-monitor } nutzen
 
 page7-why-am-i-seeing-this = Warum wird mir das angezeigt?

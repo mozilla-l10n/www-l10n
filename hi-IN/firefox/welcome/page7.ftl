@@ -22,12 +22,6 @@ page7-stay-ahead-of-hackers = हैकर्स से आगे रहें
 
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } आपको यह पता लगाने देता है कि हैकर्स आपके बारे में पहले से क्या जानते हैं और आपको उनसे एक कदम आगे रहने में मदद करता है। (और यह मुफ़्त है।)
 
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } आपको यह पता लगाने देता है कि हैकर्स आपके बारे में पहले से क्या जानते हैं और आपको उनसे एक कदम आगे रहने में मदद करता है। (और यह मुफ़्त है।)
-
 page7-get-mozilla-monitor = { -brand-name-mozilla-monitor } प्राप्त करें
-
-# Obsolete string
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } पाएँ
 
 page7-why-am-i-seeing-this = मुझे यह क्यों दिखाया जा रहा है?
