@@ -66,5 +66,7 @@ firefox-products-analyze = Analyzovať adresu URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Objavte ten najlepší obsah na webe - a majte k nemu prístup kdekoľvek a kedykoľvek. Od { -brand-name-mozilla(case: "gen") }.
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Objavte ten najlepší obsah na webe - a majte k nemu prístup kdekoľvek a kedykoľvek.
 firefox-products-get-pocket = Získať { -brand-name-pocket }
