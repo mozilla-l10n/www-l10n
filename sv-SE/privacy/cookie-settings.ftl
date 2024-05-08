@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Slå på JavaScript för att uppdatera dina
 cookie-settings-category-necessary-heading = Nödvändig
 cookie-settings-category-necessary-what-are-subheading = Vad är nödvändiga kakor?
 cookie-settings-category-necessary-what-are-desc = Dessa tekniker krävs för att stödja grundläggande webbplatsfunktioner, till exempel att logga in på ett säkert område på en webbplats eller lägga till artiklar i en onlinevarukorg och kan inte stängas av.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } använder nödvändiga kakor endast för att tillhandahålla grundläggande webbplatsfunktioner, till exempel att logga in med ditt { -brand-name-mozilla }-konto eller köpa en mjukvaruprenumeration i kassan. Utan denna teknik kanske grundläggande webbplatsfunktioner inte fungerar.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } använder nödvändiga kakor endast för att tillhandahålla grundläggande webbplatsfunktioner, till exempel att logga in med ditt { -brand-name-mozilla-account } eller köpa en mjukvaruprenumeration i kassan. Utan denna teknik kanske grundläggande webbplatsfunktioner inte fungerar.
 
 ## Preference cookies section
 
