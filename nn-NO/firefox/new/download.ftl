@@ -35,6 +35,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meir enn
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Nedlastinga di vart avbroten. Men alt er ikkje tapt.
 firefox-new-download-almost-there = Nesten ferdig!
+firefox-new-download-select-linux = Vel eit nedlastingsalternativ nedanfor
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Følg <a href="{ $url }">denne rettleiinga</a> for å installere { -brand-name-firefox }.
