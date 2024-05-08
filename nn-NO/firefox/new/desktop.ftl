@@ -143,8 +143,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } blokker
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spørsmål? <a { $attrs }>{ -brand-name-mozilla } brukarstøtte</a> kan hjelpe deg.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Pass på hackarar med { -brand-name-firefox-monitor }, beskytt e-postadressa di med { -brand-name-firefox-relay }, med meir.
+firefox-desktop-download-watch-for-hackers-with-v3 = Hald auge med hackarar med { -brand-name-mozilla-monitor }, beskytt e-postadressa di med { -brand-name-firefox-relay } – og meir.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
