@@ -3,64 +3,68 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
-# HTML page title
-firefox-products-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι παραπάνω από πρόγραμμα περιήγησης
-# HTML page title
-firefox-products-firefox-beginning = Το { -brand-name-firefox } είναι μόνο η αρχή
-# Obsolete string
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Είναι μια ολόκληρη οικογένεια προϊόντων που έχουν σχεδιαστεί για να σας προστατεύουν στο διαδίκτυο.
 firefox-products-mozillas-family-of-products = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = Το { -brand-name-firefox } είναι κάτι <strong>παραπάνω</strong> από περιηγητής
+firefox-products-products = Προϊόντα
+firefox-products-firefox-beginning-v2 = Το { -brand-name-firefox } είναι μόνο η αρχή.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = Το { -brand-name-firefox } είναι μόνο η αρχή
+firefox-products-mozillas-family-of-products-sentence = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Αποκτήστε το πρόγραμμα περιήγησης που αποκλείει αυτόματα 2.000+ ιχνηλάτες. Η Ενισχυμένη προστασία από καταγραφή παρέχεται σε κάθε { -brand-name-firefox }.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Το ιδιωτικό σας πρόγραμμα περιήγησης με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = Το { -brand-name-firefox } είναι μόνο η <strong>αρχή</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Δείτε αν οι προσωπικές σας πληροφορίες έχουν παραβιαστεί λόγω διαρροής εταιρικών δεδομένων και εγγραφείτε για ειδοποιήσεις.
 firefox-products-check-for-breaches = Έλεγχος για παραβιάσεις
-firefox-products-sign-up-for-breach-alerts = Εγγραφή για ειδοποιήσεις παραβιάσεων
-# Obsolete string
-firefox-products-firefox-browsers = Προγράμματα περιήγησης { -brand-name-firefox }
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Αποκτήστε τα προγράμματα περιήγησης που αποκλείουν αυτόματα 2.000+ ιχνηλάτες. Η Ενισχυμένη προστασία από καταγραφή παρέχεται σε κάθε { -brand-name-firefox }.
-firefox-products-desktop = Υπολογιστές
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Δείτε όλα τα προγράμματα περιήγησης
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Προστατέψτε την πραγματική σας διεύθυνση email και ελέγξτε τα εισερχόμενά σας.
+firefox-products-get-relay = Λήψη { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Περιηγηθείτε, δείτε βίντεο και εργαστείτε σε διακομιστές περισσότερων από 30 χωρών για ασφαλή σύνδεση στο διαδίκτυο, με μια νέα προοπτική.
 firefox-products-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Προστατέψτε την πραγματική σας διεύθυνση email και ελέγξτε τα εισερχόμενά σας.
-firefox-products-learn-more-about-relay = Μάθετε περισσότερα για το { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Προστατεύστε τους κωδικούς πρόσβασής σας και συγχρονίστε τους με όλες τις συσκευές σας.
-# Obsolete string
-firefox-products-download-lockwise = Λήψη του { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Άνοιγμα στο { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Μάθετε περισσότερα για το { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Κάντε αποστολή μεγάλων αρχείων και ευαίσθητων εγγράφων με ασφάλεια, έως 2,5G.
-firefox-products-send-a-file = Αποστολή αρχείου
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Πηγές για προγραμματιστές, από προγραμματιστές. Υποστηρίξτε το { -brand-name-mdn } και κάντε το δικό σας με συλλογές, ειδοποιήσεις και χώρους πειραματισμού.
+firefox-products-support-mdn = Υποστήριξη { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Πρόσβαση σε όλα τα email, τα ημερολόγια και τις επαφές σας σε μια γρήγορη εφαρμογή. Φιλτράρετε και οργανώστε τα όπως σας αρέσει.
+firefox-products-download-thunderbird = Λήψη { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = Το { -brand-name-fakespot } σας υποστηρίζει όταν κάνετε αγορές στο διαδίκτυο, απομακρύνοντας απατεώνες και βρίσκοντας για εσάς τις καλύτερες προσφορές. Από τη { -brand-name-mozilla }.
+firefox-products-analyze = Ανάλυση URL
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Ανακαλύψτε το καλύτερο περιεχόμενο στο διαδίκτυο και καταναλώστε το όπου και όποτε θέλετε. Από τη { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Ανακαλύψτε το καλύτερο περιεχόμενο στο διαδίκτυο — και καταναλώστε το όπου και όποτε θέλετε.
 firefox-products-get-pocket = Λήψη του { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Μάθετε περισσότερα για το { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Εγγραφείτε στο { -brand-name-firefox } και αξιοποιήστε στο έπακρο κάθε προϊόν — σε κάθε συσκευή.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Έχετε ήδη λογαριασμό; <a { $fxa_attr }>Συνδεθείτε</a> ή <a { $accounts_attr }>μάθετε περισσότερα</a> σχετικά με τη συμμετοχή στο { -brand-name-firefox }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Το ιδιωτικό σας πρόγραμμα περιήγησης με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων.
