@@ -4,18 +4,24 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = { -brand-name-mozilla } の製品
 
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } は、オンラインの安全を守り、スマートにする製品ファミリです。
 
+firefox-products-products = 製品
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } は、始まりに過ぎません。
 
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } は、始まりに過ぎません。
 
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } は、オンラインの安全を守り、スマートにする製品ファミリーです。
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = データトラッカー 2000 件以上を自動ブロックするブラウザーを入手しましょう。強化型トラッキング防止機能がすべての { -brand-name-firefox } に標準装備されています。
 
 ## Focus
 
@@ -32,6 +38,7 @@ firefox-products-check-for-breaches = 侵害を確認
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = 本当のメールアドレスを保護して迷惑メールを防止しましょう。
+firefox-products-get-relay = { -brand-name-firefox-relay } をダウンロード
 
 ## VPN
 
@@ -41,14 +48,27 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロ�
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = デベロッパーによるデベロッパーのためのリソース。 { -brand-name-mdn } をサポートし、コレクション、通知、プレイグラウンドで自在に活用しましょう。
+firefox-products-support-mdn = { -brand-name-mdn } をサポート
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = 1 つの高速なアプリでメール、カレンダー、連絡先すべてにアクセス。好みの方法でフィルター処理したり整理したりできます。
+firefox-products-download-thunderbird = { -brand-name-thunderbird } をダウンロード
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } はオンラインショッピングの味方。詐欺を排除し、お得情報を見つけます。{ -brand-name-mozilla } が運営。
+firefox-products-analyze = URL を分析
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
+firefox-products-discover-the-best-content = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。
 firefox-products-get-pocket = { -brand-name-pocket } をダウンロード
