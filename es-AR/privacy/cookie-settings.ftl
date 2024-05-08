@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Habilitá JavaScript para actualizar la con
 cookie-settings-category-necessary-heading = Necesaria
 cookie-settings-category-necessary-what-are-subheading = ¿Qué son las cookies necesarias?
 cookie-settings-category-necessary-what-are-desc = Estas tecnologías son necesarias para soportar características esenciales del sitio web, como iniciar sesión en un área segura de un sitio web o agregar elementos a un carrito de compras en línea, y no se pueden deshabilitar.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } usa las cookies necesarias solo para proporcionar funciones esenciales del sitio web, como iniciar sesión con tu cuenta de { -brand-name-mozilla } o comprar una suscripción de software al finalizar la compra. Sin estas tecnologías, es posible que las características esenciales del sitio web no funcionen.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } usa las cookies necesarias solo para proporcionar funciones esenciales del sitio web, como iniciar sesión con tu { -brand-name-mozilla-account } o comprar una suscripción de software al finalizar la compra. Sin estas tecnologías, es posible que las características esenciales del sitio web no funcionen.
 
 ## Preference cookies section
 
