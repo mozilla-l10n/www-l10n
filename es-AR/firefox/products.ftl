@@ -56,6 +56,10 @@ firefox-products-download-thunderbird = Descargá { -brand-name-thunderbird }
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } te protege cuando comprás en línea, eliminando a los estafadores y encontrándote las mejores ofertas. Hecho por { -brand-name-mozilla }.
+firefox-products-analyze = Analizar una URL
 
 ## Pocket
 
