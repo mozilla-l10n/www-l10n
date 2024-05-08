@@ -66,5 +66,7 @@ firefox-products-analyze = Egy webcím elemzése
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor. A { -brand-name-mozilla } készítette.
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor.
 firefox-products-get-pocket = A { -brand-name-pocket } beszerzése
