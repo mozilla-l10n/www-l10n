@@ -21,6 +21,7 @@ cookie-settings-turn-on-javascript = Za spreminjanje nastavitev piškotkov vklju
 cookie-settings-category-necessary-heading = Nujni
 cookie-settings-category-necessary-what-are-subheading = Kaj so nujni piškotki?
 cookie-settings-category-necessary-what-are-desc = Te tehnologije so potrebne za delovanje bistvenih funkcij spletnega mesta, kot so prijava v zavarovano območje spletnega mesta ali dodajanje izdelkov v spletno nakupovalno košarico, in jih ni mogoče izklopiti.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } nujne piškotke uporablja samo za zagotavljanje bistvenih funkcij spletnega mesta, kot so prijava z { -brand-name-mozilla-account(sklon: "orodnik") } ali nakup naročnine na programsko opremo ob zaključku nakupa. Brez teh tehnologij bistvene funkcije strani morda ne bodo delovale.
 
 ## Preference cookies section
 
@@ -29,10 +30,13 @@ cookie-settings-category-necessary-what-are-desc = Te tehnologije so potrebne za
 
 cookie-settings-category-analytics-heading = Analitični
 cookie-settings-category-analytics-what-are-subheading = Kaj so analitični piškotki?
+cookie-settings-category-analytics-what-are-desc = Te tehnologije zbirajo podatke o tem, kako ljudje uporabljajo spletna mesta, na primer katere strani obiščejo, katere povezave kliknejo in s katerega spletnega mesta so prišli.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } s pomočjo analitičnih podatkov razume, kako uporabniki uporabljajo naša spletna mesta, da bi jih lahko izboljšali in odpravili morebitne težave. Podatke iz piškotkov, podatke o napravah in naslove IP lahko uporabimo tudi za razumevanje, kako uporabniki uporabljajo naše izdelke, storitve, komunikacije, spletne strani, spletne akcije, naprave in druge platforme. Analitične podatke bomo zbirali in analitične piškotke nalagali samo z vašim soglasjem.
 
 ## Consent section
 
 cookie-settings-your-consent-heading = Vaše soglasje
+cookie-settings-your-consent-desc = Soglasje za piškotke bo veljalo za naslednja spletna mesta { -brand-name-mozilla(sklon: "rodilnik") }, ki vsa sledijo enakim strogim standardom varstva podatkov. Upoštevajte, da se lahko ta seznam občasno spremeni.
 
 ## Privacy section
 
