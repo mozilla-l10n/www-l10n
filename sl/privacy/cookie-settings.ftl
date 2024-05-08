@@ -20,6 +20,7 @@ cookie-settings-turn-on-javascript = Za spreminjanje nastavitev piškotkov vklju
 
 cookie-settings-category-necessary-heading = Nujni
 cookie-settings-category-necessary-what-are-subheading = Kaj so nujni piškotki?
+cookie-settings-category-necessary-what-are-desc = Te tehnologije so potrebne za delovanje bistvenih funkcij spletnega mesta, kot so prijava v zavarovano območje spletnega mesta ali dodajanje izdelkov v spletno nakupovalno košarico, in jih ni mogoče izklopiti.
 
 ## Preference cookies section
 
