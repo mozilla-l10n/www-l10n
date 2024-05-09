@@ -13,8 +13,8 @@ not-found-page-go-back = Guevijey
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Eikuaa</a> { -brand-name-mozilla } rehegua, atyguasu virupota’ỹva { -brand-name-firefox } rapykuerigua.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Ejeporeka</a> opaite pehengue ojehekávo { -brand-name-firefox } rembiapokue ojejapóva teko ñemirã.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Emboguejy</a> { -brand-name-firefox } kundahára ne mba’e’oka térã mohendaha mesa ariguápe
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Embojopói</a> { -brand-name-mozilla-foundation } ha erekóta Ñanduti mba’apohaguasu tembiporupyahugua.

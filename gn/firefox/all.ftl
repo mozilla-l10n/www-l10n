@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Eiporu tenda emoñondivévo umi { -brand-n
 firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi iporu ko { -brand-name-firefox } kundaha ndive heñóiva mba’apohaguasúpe g̃uarã.
 firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemoasãi ha { -brand-name-firefox-browser } ñangareko.
 firefox-all-arm64-installers = ARM64/AArch64 ñemohenda
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ñemohendaha PCs-pe g̃uarã Windows ha Linux ndive.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Mohendaha ARM64/AArch64 oikóva PCs { -brand-name-windows } peg̃uarã Snapdragon ndive.
 firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
