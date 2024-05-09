@@ -100,6 +100,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
