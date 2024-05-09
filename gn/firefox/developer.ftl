@@ -93,3 +93,4 @@ firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Oipytyvõ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eiporukuaa hag̃uáme nde mba’eñemi.

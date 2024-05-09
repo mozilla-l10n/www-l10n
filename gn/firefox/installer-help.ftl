@@ -16,6 +16,9 @@ installer-help-action-choose = Eiporavo mboguejy yvy gotyoguágui.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Ereko ipyahuvéva. Ñemigua ijeheguíva oĩ ápe. Emboguejy { -brand-name-firefox } ejoko hag̃ua heta { $trackers } tapykuehoha.
 # Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
