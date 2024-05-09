@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Trowch JavaScript ymlaen i ddiweddaru eich 
 cookie-settings-category-necessary-heading = Angenrheidiol
 cookie-settings-category-necessary-what-are-subheading = Beth yw Cwcis Angenrheidiol?
 cookie-settings-category-necessary-what-are-desc = Mae angen y technolegau hyn i gefnogi nodweddion gwefan hanfodol, fel mewngofnodi i ardal ddiogel o wefan neu ychwanegu eitemau at fasged siopa ar-lein, ac nid oes modd eu diffodd.
-cookie-settings-category-necessary-how-does-desc = Mae { -brand-name-mozilla } yn defnyddio Cwcis Angenrheidiol i ddarparu nodweddion gwefan hanfodol yn unig, megis mewngofnodi gan ddefnyddio'ch cyfrif { -brand-name-mozilla } neu brynu tanysgrifiad meddalwedd wrth y ddesg dalu. Heb y technolegau hyn, efallai na fydd nodweddion gwefan hanfodol yn gweithio.
+cookie-settings-category-necessary-how-does-desc-v2 = Mae { -brand-name-mozilla } yn defnyddio Cwcis Angenrheidiol i ddarparu nodweddion gwefan hanfodol yn unig, megis mewngofnodi gan ddefnyddio eich cyfrif { -brand-name-mozilla-account } neu brynu tanysgrifiad meddalwedd wrth y ddesg dalu. Heb y technolegau hyn, efallai na fydd nodweddion gwefan hanfodol yn gweithio.
 
 ## Preference cookies section
 
