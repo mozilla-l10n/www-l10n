@@ -28,6 +28,7 @@ cookie-settings-category-preference-what-are-subheading = Mba’épa kookie jero
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Hesa’ỹijopýva
+cookie-settings-category-analytics-what-are-subheading = Mba’épa kookie ñehesa’ỹijoha rehegua
 
 ## Consent section
 
