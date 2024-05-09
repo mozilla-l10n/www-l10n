@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = ¡Vy’apavẽ! Eiporuhína { -brand-name-firefox-developer-edition } rehegua ipyahuvéva.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Vy’apavẽ. Erekóma { -brand-name-firefox-browser } { -brand-name-developer-edition } rembiapokue ipyahuvéva.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Hetave { -brand-name-mdn }. <em>Nde</em> { -brand-name-mdn }.
