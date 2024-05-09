@@ -4,18 +4,24 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = Produits { -brand-name-mozilla }
 
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne
 
+firefox-products-products = Produits
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } n’est qu’un début.
 
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } n’est qu’un début
 
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Installez le navigateur qui bloque automatiquement plus de 2 000 traqueurs de données. La Protection renforcée contre le pistage est incluse par défaut dans chaque navigateur { -brand-name-firefox }.
 
 ## Focus
 
@@ -32,6 +38,7 @@ firefox-products-check-for-breaches = Vérifier les fuites de données
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Protégez votre véritable adresse e-mail pour garde le contrôle de votre boîte de réception.
+firefox-products-get-relay = Installer { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -41,14 +48,27 @@ firefox-products-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Des ressources pour les développeurs, par les développeurs. Soutenez { -brand-name-mdn }, et personnalisez votre expérience grâce aux collections, aux notifications et aux environnements de test.
+firefox-products-support-mdn = Soutenir { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Accédez à tous vos e-mails, calendriers et contacts dans une même application rapide. Filtrez-les et organisez-les comme vous le souhaitez.
+firefox-products-download-thunderbird = Télécharger { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } vous protège lorsque vous faites des achats en ligne, en détectant les arnaques et en trouvant les meilleures offres. Conçu par { -brand-name-mozilla }.
+firefox-products-analyze = Analyser une URL
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
+firefox-products-discover-the-best-content = Découvrez du contenu sur le Web — et profitez-en quand bon vous semble.
 firefox-products-get-pocket = Installer { -brand-name-pocket }

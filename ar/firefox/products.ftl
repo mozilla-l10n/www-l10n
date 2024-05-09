@@ -4,18 +4,24 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = منتجات { -brand-name-mozilla }
 
 # HTML page description
 firefox-products-mozillas-family-of-products = تم تصميم جميع عائلة منتجات { -brand-name-mozilla } لتجعلك أكثر أمانًا وذكاءً على الإنترنت
 
+firefox-products-products = المنتجات
+firefox-products-firefox-beginning-v2 = ليس { -brand-name-firefox } إلا مجرّد بداية.
 
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = ليس { -brand-name-firefox } إلا مجرّد بداية
 
+firefox-products-mozillas-family-of-products-sentence = تم تصميم جميع عائلة منتجات { -brand-name-mozilla } لتجعلك أكثر أمانًا وذكاءً على الإنترنت.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = احصل على المتصفّح الذي يحجب ما يزيد على 2,000 مخترق بيانات تلقائيًا. ويأتي مع كل متصفّح { -brand-name-firefox } ميزة "الحماية المُوسّعة من التتبع".
 
 ## Focus
 
@@ -32,6 +38,7 @@ firefox-products-check-for-breaches = تحقق من أي خروقات
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = اِحمِ عنوان بريدك الإلكتروني الحقيقي للمساعدة على التحكّم في صندوق بريدك الوارد.
+firefox-products-get-relay = نزِّل متصفح { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -41,14 +48,27 @@ firefox-products-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = موارد للمُطورين ومن المُطورين. ادعم { -brand-name-mdn } وخصّصه كما يحلو لك بالمجموعات والإشعارات والملاعب.
+firefox-products-support-mdn = دعم { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = استمتع بالوصول إلى بريدك الإلكتروني بالكامل والتقويمات وجهات الاتصال في تطبيق واحد سريع. افرزها ونظّمها بالطريقة التي تروق لك.
+firefox-products-download-thunderbird = تحميل { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = تعمل { -brand-name-fakespot } على تقديم الدعم لك عن التسوّق عبر الإنترنت — من خلال إبعاد المحتالين عنك والبحث عن أفضل العروض التي تُناسبك. إنتاج { -brand-name-mozilla }.
+firefox-products-analyze = تحليل رابط URL
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
+firefox-products-discover-the-best-content = اكتشف أفضل محتوى على الويب — واستخدمه أينما تريد ومتى تريد.
 firefox-products-get-pocket = احصل على { -brand-name-pocket }
