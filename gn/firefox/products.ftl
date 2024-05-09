@@ -3,64 +3,62 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } ñepyrũrã añoite.
-# Obsolete string
+firefox-products-mozilla-products = { -brand-name-mozilla } ojapopyre
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Ha’e umi apopyre aty ojejapóva hekorosã ha ha’eve hag̃ua ñandutípe.
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ha’e apopyre aty ojejapóva ne rekorosã ha ndera’eve hag̃ua ñandutípe.
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } ha’e <strong>hetave</strong> peteĩ kundaháragui
+firefox-products-products = Apopyre
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ha’e ñepyrũrã añoite.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } ñepyrũrã añoite.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Ne kundahára omba’apóva tekoñemíre ñemo’ã ijeheguíva tapykueho rovake ha ñemurã jejokópe.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } <strong>ñepyrũrã</strong>añoite.
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Eha’ã ne maranduetépa oñembyaikuaápara’e mba’ekuaarã ñemboguápe ha eñemboheraguapy og̃uahẽ hag̃ua kyhyjerã.
 firefox-products-check-for-breaches = Eporandu ñembogua rehegua
-firefox-products-sign-up-for-breach-alerts = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
-# Obsolete string
-firefox-products-firefox-browsers = { -brand-name-firefox } kundahára
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Ereko kundahára ojokóva ijehegui 2000 mba’ekuaarã rapykuehoha. Pe ñemo’ã rapykuehoha iporãvéva ha’e ijypykuéva opaite { -brand-name-firefox } kundahárape.
-firefox-products-desktop = Mesa arigua
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Ehecha opaite kundahára
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Emo’ã ne ñanduti veve kundaharape eipytyvõ hag̃ua ne ñe’ẽmondo g̃uahẽha.
+firefox-products-get-relay = Erekóke { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Eikundaha, emombe’u ha emba’apo mohendahavusu hetave 30 tetãme eikekatu hag̃ua ñanduti hekorosãvape mba’epyahu reheve.
 firefox-products-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Emo’ã ne ñanduti veve kundaharape eipytyvõ hag̃ua ne ñe’ẽmondo g̃uahẽha.
-firefox-products-learn-more-about-relay = Eikuaave { -brand-name-firefox-relay } rehegua
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Ereko ne ñe’ẽñemi tekorosãme ha eike pype opaite ne mba’o’ka mbojuehepyrépe.
-# Obsolete string
-firefox-products-download-lockwise = Emboguejy { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Ijuruja { -brand-name-firefox }-pe
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Maranduve { -brand-name-lockwise } rehegua
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Emondo tekorosãme kuatiaite hekoñemíva ha marandurenda tuicháva, 2,5 GB peve.
-firefox-products-send-a-file = Emondo marandurenda
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = Oipytyvõ { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Ehesa’ỹijo URL
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Ehecha pe ñanduti retepy iporãvéva  — ha emoñe’ẽ ejaposehápe.
 firefox-products-get-pocket = Eguereko { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Maranduve { -brand-name-pocket } rehegua
-firefox-products-join-firefox-and-get-the-most = Eñemoirũ { -brand-name-firefox } ndive ha eiporu opaite ijapopyre — opavave ne mba’e’okápe.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = ¿Erekóma mba’ete? <a { $fxa_attr }>Eñepyrũ tembiapo</a> térã <a { $accounts_attr }>ehecha</a> mba’éichapa ejuajúta { -brand-name-firefox } rehe.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Ne kundahára omba’apóva tekoñemíre ñemo’ã ijeheguíva tapykueho rovake ha ñemurã jejokópe.
