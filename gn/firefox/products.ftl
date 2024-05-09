@@ -13,10 +13,12 @@ firefox-products-products = Apopyre
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ha’e ñepyrũrã añoite.
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } ñepyrũrã añoite.
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } ojapopyréva aty oñemoheñói ne rekorosãverã ha ndera’eve hag̃ua ñandutípe.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Ereko kundahára ojokóva ijehegui 2000 mba’ekuaarã rapykuehoha. Pe ñemo’ã rapykuehoha iporãvéva ha’e ijypykuéva opaite { -brand-name-firefox } kundahárape.
 
 ## Focus
 
@@ -44,6 +46,7 @@ firefox-products-get-mozilla-vpn = Erekóke { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi. Emoneĩ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eñembosaraikuaa hag̃uáme.
 firefox-products-support-mdn = Oipytyvõ { -brand-name-mdn }
 
 ## Thunderbird
