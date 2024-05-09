@@ -91,6 +91,7 @@ firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uar
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
+firefox-developer-mdn-is-a = { -brand-name-mdn } ha’e apopyrã juajugua ijayvu jurujáva ombokuatiáva tembiporupyahu ñanduti pyendavusu, oĩhápe CSS, HTML, JavaScript ha APIs.
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = Oipytyvõ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eiporukuaa hag̃uáme nde mba’eñemi.
