@@ -46,6 +46,7 @@ firefox-products-get-mozilla-vpn = Installar { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Ressources pro disveloppatores, per disveloppatores. Supporta { -brand-name-mdn } e personalisa lo con collectiones, notificationes, e areas de joco.
 firefox-products-support-mdn = Supporta { -brand-name-mdn }
 
 ## Thunderbird
@@ -61,5 +62,6 @@ firefox-products-analyze = Analysar un URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Discoperi le melior contento del web – e gaude de illo ubicunque e quandocunque tu vole.
 firefox-products-get-pocket = Obtener { -brand-name-pocket }
