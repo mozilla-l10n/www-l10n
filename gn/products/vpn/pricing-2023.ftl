@@ -40,7 +40,7 @@ vpn-pricing-what-information = ¿Mba’e marandu oñongatu { -brand-name-mozilla
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Romomba’e <a { $principles }>mba’ekuaarã rekoñemi ñepyrũha</a> { -brand-name-mozilla } mba’e. Rombyaty mba’ekuaarã tekotevẽva ereko hag̃ua { -brand-name-mozilla-vpn } tekoku’épe ha iporãvévo apopyre tenondeve. Avei rohapykueho mba’ekuaarã moherakuãrã ha jehecharã ore pumbyry rembiporu’i oipytyvõ hag̃ua { -brand-name-mozilla }-pe oikũmby hag̃ua iporãha ore marketing. Eikuaave <a href="{ $notice }">Tekoñemi marandu’i</a>.
+vpn-pricing-we-adhere-strictly = Romomba’e <a { $principles }>mba’ekuaarã rekoñemi ñepyrũha</a> { -brand-name-mozilla } mba’e. Rombyaty mba’ekuaarã tekotevẽva ereko hag̃ua { -brand-name-mozilla-vpn } tekoku’épe ha iporãvévo apopyre tenondeve. Avei rohapykueho mba’ekuaarã moherakuãrã ha jehecharã ore pumbyry rembiporu’i oipytyvõ hag̃ua { -brand-name-mozilla }-pe oikũmbývo iporãha ore marketing. Eikuaave <a { $notice }>Tekoñemi marandu’i</a>.
 vpn-pricing-how-do-i-manage = Mba’éichapa añangarekóta che mboheraguapy ha amoambuéta
 # Variables
 # $manage (url) - link to subscription management page
