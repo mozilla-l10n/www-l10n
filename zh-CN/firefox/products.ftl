@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = { -brand-name-mozilla } 产品
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧
+firefox-products-products = 产品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } 只是标配。
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } 只是标配
@@ -49,5 +52,6 @@ firefox-products-get-mozilla-vpn = 获取 { -brand-name-mozilla-vpn }
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = 发现网络中最佳的内容——随时随地为自己“充电”。
 firefox-products-get-pocket = 获取 { -brand-name-pocket }
