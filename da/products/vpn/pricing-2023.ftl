@@ -32,3 +32,4 @@ vpn-pricing-monthly = Månedligt
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er endnu ikke tilgængelig i dit land
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Ofte stillede spørgsmål
+vpn-pricing-what-information = Hvilke oplysninger opbevarer { -brand-name-mozilla-vpn }?
