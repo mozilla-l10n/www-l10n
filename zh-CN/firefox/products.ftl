@@ -13,10 +13,12 @@ firefox-products-products = 产品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } 只是标配。
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } 只是标配
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧。
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = 获取可自动拦截 2000 多种数据跟踪器的浏览器。所有 { -brand-name-firefox } 浏览器皆已标配增强型跟踪保护功能。
 
 ## Focus
 
@@ -33,6 +35,7 @@ firefox-products-check-for-breaches = 检查是否有外泄事件
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = 保护你的真实邮箱地址，拒绝垃圾邮件侵扰邮箱。
+firefox-products-get-relay = 获取 { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -42,12 +45,18 @@ firefox-products-get-mozilla-vpn = 获取 { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = 源于开发者，服务开发者。为 { -brand-name-mdn } 提供支持，并借助收藏集、通知、演练场，将 { -brand-name-mdn } 化为己用。
+firefox-products-support-mdn = 支持 { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
 
 ## Pocket
 
