@@ -7,7 +7,7 @@
 
 cookie-settings-page-title = Nastavení cookies
 cookie-settings-breadcrumb-link = Předchozí stránka
-cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy cookies a podobné technologie jako jsou pixelové značky, web beacons, Clear GIFy, JavaScript a místní úložiště (dále jen „Cookies“), které může { -brand-name-mozilla } používat, a dává vám kontrolu. o tom, jaké typy dat souhlasíte se shromažďováním { -brand-name-mozilla(case: "gen") }.
+cookie-settings-page-intro-v2 = Tato stránka popisuje různé typy souborů cookie a podobných technologií, jako jsou pixelové značky, webové signály, jasné soubory GIF, JavaScript a místní úložiště (dále jen "soubory cookie"), které může společnost { -brand-name-mozilla } používat, a poskytuje vám kontrolu nad tím, u jakých typy údajů souhlasíte se shromažďováním společností { -brand-name-mozilla }.
 cookie-settings-save-changes = Uložit změny
 cookie-settings-your-cookie-settings-have = Vaše nastavení souborů cookie bylo aktualizováno.
 cookie-settings-i-agree = Souhlasím

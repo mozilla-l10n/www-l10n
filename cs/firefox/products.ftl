@@ -13,10 +13,12 @@ firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je jen začátek.
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } je jen začátek
+firefox-products-mozillas-family-of-products-sentence = Všechny produkty { -brand-name-mozilla(case: "gen") } jsou navrženy tak, aby vás na internetu chránily a hýčkaly.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Získejte prohlížeč, který automaticky blokuje více než 2000 sledovačů dat. Vylepšená ochrana proti sledování je standardní součástí každého prohlížeče { -brand-name-firefox }.
 
 ## Focus
 
@@ -44,6 +46,7 @@ firefox-products-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "ac
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Zdroje pro vývojáře, od vývojářů. Podpořte { -brand-name-mdn } a přizpůsobte si jej pomocí sbírek, oznámení či míst na vyzkoušení.
 
 ## Thunderbird
 
