@@ -10,6 +10,9 @@ not-found-page-sorry-we-cant-find-that-page = לא מצאנו את העמוד ה
 not-found-page-were-all-about-a-healthy-internet = אנחנו לגמרי בעד מרשתת בריאה, אך לפעמים ישנם קישורים שבורים.
 not-found-page-go-back = חזרה אחורה
 # Variables:
+#   $about (url) - link to https://www.mozilla.org/about/
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">מידע נוסף</a> אודות { -brand-name-mozilla }, העמותה ללא כוונת רווח שמאחורי { -brand-name-firefox }.
+# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>הורדה</a> של דפדפן ה־{ -brand-name-firefox } למכשיר הנייד או למחשב
 # Variables:
