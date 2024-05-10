@@ -46,6 +46,8 @@ firefox-products-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Recursos para desarrolladores, por desarrolladores. Apoyá a { -brand-name-mdn } y personalizalo con colecciones, notificaciones y áreas de juego.
+firefox-products-support-mdn = Apoyá a { -brand-name-mdn }
 
 ## Thunderbird
 
