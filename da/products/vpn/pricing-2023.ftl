@@ -18,3 +18,18 @@ vpn-pricing-connect-up-to =
         [one] Tilslut op til { $devices } enhed
        *[other] Tilslut op til { $devices } enheder
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Få adgang til { $servers } server i { $countries } land
+       *[other] Få adgang til { $servers } servere i mere end { $countries } lande
+    }
+vpn-pricing-money-back = 30 dages pengeretur-garanti (kun for førstegangskunder)
+vpn-pricing-annual = Årligt
+vpn-pricing-monthly = Månedligt
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er endnu ikke tilgængelig i dit land
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = Ofte stillede spørgsmål
+vpn-pricing-refund-policy = Hvad er { -brand-name-mozilla-vpn }s refusionspolitik?
