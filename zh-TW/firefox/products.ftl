@@ -66,5 +66,7 @@ firefox-products-analyze = 分析網址
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = 探索網路上的最佳內容 — 隨時隨地想讀就讀。產品由 { -brand-name-mozilla } 打造。
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = 探索網路上的最佳內容 — 隨時隨地想讀就讀。
 firefox-products-get-pocket = 取得 { -brand-name-pocket }
