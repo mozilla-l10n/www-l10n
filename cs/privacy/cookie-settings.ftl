@@ -26,6 +26,7 @@ cookie-settings-category-preference-heading = Předvolby
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analytika
+cookie-settings-category-analytics-what-are-subheading = Co jsou analytické soubory cookies?
 
 ## Consent section
 

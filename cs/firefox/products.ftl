@@ -3,64 +3,61 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc než jenom prohlížeč
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } je jen začátek
-# Obsolete string
+firefox-products-mozilla-products = Produkty od { -brand-name-mozilla(case: "gen") }
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Firefox je celá rodina produktů navržených tak, aby vás na internetu chránily a hýčkaly.
 firefox-products-mozillas-family-of-products = Všechny produkty z rodiny { -brand-name-mozilla } jsou navrženy tak, aby vás na internetu chránily a hýčkaly
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } je <strong>víc</strong> než jenom prohlížeč
+firefox-products-products = Produkty
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je jen začátek.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } je jen začátek
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Váš prohlížeč zaměřený na zajištění soukromí s automatickou ochranou proti sledování a blokováním reklam.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } je pouze <strong>začátek</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Podívejte se, jestli byl nejaký váš účet součástí nějakého úniku dat, a nechte se informovat o dalších únicích.
 firefox-products-check-for-breaches = Prohledat úniky
-firefox-products-sign-up-for-breach-alerts = Nastavit upozornění na úniky dat
-# Obsolete string
-firefox-products-firefox-browsers = Prohlížeče { -brand-name-firefox }
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Získejte prohlížeč, který automaticky blokuje přes 2000 sledovacích prvků. Rozšířenou ochranu sledování najdete v základu v každém prohlížeči { -brand-name-firefox }.
-firefox-products-desktop = Počítač
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Zobrazit všechny prohlížeče
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Chraňte svou skutečnou e-mailovou adresu, abyste měli svou doručenou poštu pod kontrolou.
+firefox-products-get-relay = Získejte { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Brouzdejte, streamujte nebo pracujte na internetu díky serverům, které vám zajistí bezpečné připojení k internetu, umístěných ve více než 30 zemích.
 firefox-products-get-mozilla-vpn = Získejte { -brand-name-mozilla-vpn(case: "acc") }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Chraňte svou skutečnou e-mailovou adresu, abyste měli svou doručenou poštu pod kontrolou.
-firefox-products-learn-more-about-relay = Zjistěte více o službě { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Uchovávejte svá hesla v bezpečí a mějte k nim přístup ze všech svých zařízení.
-# Obsolete string
-firefox-products-download-lockwise = Stáhnout { -brand-name-lockwise(case: "acc") }
-# Obsolete string
-firefox-products-open-in-firefox = Otevřít ve { -brand-name-firefox(case: "loc") }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Zjistěte více o { -brand-name-lockwise(case: "loc") }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Posílejte velké soubory a citlivé dokumenty bezpečně, až do velikosti 2,5 GB.
-firefox-products-send-a-file = Poslat soubor
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Analyzovat adresu URL
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Objevujte nejlepší obsah dostupný na webu a přečtěte si ho kdekoliv a kdykoliv chcete.
 firefox-products-get-pocket = Získejte { -brand-name-pocket(case: "acc") }
-firefox-products-learn-more-about-pocket = Zjistěte více o { -brand-name-pocket(case: "loc") }
-firefox-products-join-firefox-and-get-the-most = Přihlaste se k { -brand-name-firefox(case: "dat") } a využívejte naše produkty na maximum — na všech zařízeních.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Už máte účet? <a { $fxa_attr }>Přihlaste se</a> nebo <a { $accounts_attr }>zjistěte více</a> o připojení se do { -brand-name-firefox(case: "gen") }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Váš prohlížeč zaměřený na zajištění soukromí s automatickou ochranou proti sledování a blokováním reklam.

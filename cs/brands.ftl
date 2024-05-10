@@ -528,18 +528,6 @@
         [ins] Firefoxem Lockwise
     }
     .gender = masculine
-# Obsolete brand name
--brand-name-firefox-monitor =
-    { $case ->
-       *[nom] Firefox Monitor
-        [gen] Firefox Monitoru
-        [dat] Firefox Monitoru
-        [acc] Firefox Monitor
-        [voc] Firefox Monitore
-        [loc] Firefox Monitoru
-        [ins] Firefox Monitorem
-    }
-    .gender = masculine
 -brand-name-firefox-private-network =
     { $case ->
        *[nom] Firefox Private Network
@@ -677,6 +665,10 @@
         [ins] Pocketem
     }
     .gender = masculine
+
+## Fakespot
+
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
