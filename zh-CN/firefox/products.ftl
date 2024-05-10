@@ -59,11 +59,13 @@ firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 firefox-products-fakespot = { -brand-name-fakespot }
 # scam artists are people who are trying to sell fakes or steal money
 # 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } 是您网购时的幕后智囊，可帮您过滤水军评价、寻找实惠好价。由 { -brand-name-mozilla } 倾力打造。
+firefox-products-fakespot-has-your = { -brand-name-fakespot } 是您网购时的幕后智囊，可帮您过滤诈骗分子、寻找实惠好价。由 { -brand-name-mozilla } 倾力打造。
+firefox-products-analyze = 分析网址
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = 发现网络中最佳的内容，随时随地为自己“充电”。由 { -brand-name-mozilla } 倾力打造。
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = 发现网络中最佳的内容——随时随地为自己“充电”。
 firefox-products-get-pocket = 获取 { -brand-name-pocket }
