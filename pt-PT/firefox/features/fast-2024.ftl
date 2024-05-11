@@ -7,11 +7,11 @@
 
 features-fast-firefox-keeps-getting-faster = O { -brand-name-firefox } está a ficar mais rápido
 # HTML description
-features-fast-firefox-is-faster-than-ever = O { -brand-name-firefox } está mais rápido do que nunca, com uma velocidade que pode realmente sentir, incluindo carregamentos de página mais rápidos e interações mais suaves.
+features-fast-firefox-is-faster-than-ever = O { -brand-name-firefox } está agora mais rápido do que nunca, oferecendo uma velocidade notável, que inclui o carregamento de páginas mais rápido e interações mais fluidas.
 features-fast-how-is-browser-speed-measured = Como é que a velocidade do navegador é calculada?
-features-fast-speedometer-is-the-most-widely = A referência de desempenho do navegador mais amplamente utilizada para medir a responsividade de aplicações web é chamada de Speedómetro. Apesar de existirem outros pontos de referência para navegadores, o velejador 3 é o novo padrão para como mediamos a velocidade da sua experiência de navegação. Os testes mais recentes refletiram melhor a Internet de hoje — trabalhar com gráficos visualmente rico, editar texto, interagir com páginas de Internet complicadas e pesadas como sites de notícias — e mede uma imagem completa do desempenho do navegador.
-features-fast-the-new-speedomer-3-benchmark = O novo padrão de referência do Speedoetro 3 é o primeiro grande ponto de referência do navegador que foi desenvolvido através de uma colaboração suportada por todos os principais navegadores, projetado para beneficiar toda a Internet.
-features-fast-faster-every-day = Mais rápido a cada dia
+features-fast-speedometer-is-the-most-widely = O Speedometer é a referência de desempenho para navegadores mais utilizada para avaliar a responsividade de aplicações web. Embora existam outras métricas para avaliar navegadores, o Speedometer 3 estabeleceu-se como o novo padrão para avaliar a rapidez da experiência de navegação. Os testes mais recentes captam de forma mais precisa a realidade atual da Internet — lidando com gráficos ricos em detalhes visuais, editando texto, interagindo com páginas web complexas e pesadas, como os sites de notícias — fornecendo uma visão completa do desempenho do navegador.
+features-fast-the-new-speedomer-3-benchmark = O novo benchmark Speedometer 3 é o primeiro grande marco em testes para navegadores que foi desenvolvido através de uma colaboração apoiada por todos os principais navegadores, com o objetivo de beneficiar toda a web.
+features-fast-faster-every-day = Cada dia mais rápido.
 features-fast-firefox-is-powered-by-the-world = O { -brand-name-firefox } é potenciado pelo motor { -brand-name-gecko }, de nível mundial, com um estilo e disposição de página incrivelmente rápidos, funcionalidades modernas de JavaScript e uma lista sem fim de novas melhorias de desempenho para manter os nossos utilizadores contentes e a levar a plataforma da Internet para a frente.
 # Variables
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
