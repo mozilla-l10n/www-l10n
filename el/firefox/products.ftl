@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = Προϊόντα της { -brand-name-mozilla }
 # HTML page description
 firefox-products-mozillas-family-of-products = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο
 firefox-products-products = Προϊόντα
