@@ -7,7 +7,7 @@
 
 features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } je stále rychlejší
 # HTML description
-features-fast-firefox-is-faster-than-ever = { -brand-name-firefox } je rychlejší než kdykoli předtím. Opravdu cítit, včetně rychlejšího načítání stránek a plynulejších interakcí.
+features-fast-firefox-is-faster-than-ever = { -brand-name-firefox } je rychlejší než kdykoli předtím, rychlost je skutečně cítit, včetně rychlejšího načítání stránek a plynulejší interakce.
 features-fast-how-is-browser-speed-measured = Jak se měří rychlost prohlížeče?
 features-fast-speedometer-is-the-most-widely = Nejpoužívanější srovnávací test prohlížeče pro měření odezvy webových aplikací se nazývá Speedometer. Ačkoli existují jiné standardy pro testování prohlížečů, Speedometer 3 je nový standard pro způsob, jakým měříme rychlost vašeho prohlížení. Nejnovější testy lépe odrážejí současný web – pracují s vizuálně bohatými grafy, upravuje text, pracuje s komplikovanými a obtížnými webovými stránkami, jako jsou zpravodajské servery – a poskytuje ucelený obrázek o výkonu prohlížeče.
 features-fast-the-new-speedomer-3-benchmark = Nový test Speedometer 3 je první velký test prohlížečů, který byl kdy vyvinut ve spolupráci se všemi hlavními prohlížeči a je navržen tak, aby byl přínosem pro celý web.
