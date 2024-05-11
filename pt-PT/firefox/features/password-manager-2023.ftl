@@ -21,7 +21,7 @@ password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">{ -bra
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Com uma <a href="{ $fxa }">conta { -brand-name-firefox }</a> gratuita, pode sincronizar com segurança as suas palavras-passe em todos os seus dispositivos.
-password-manager-password-autofill-for-easy-logins = Preenchimento automático de palavras-passe para credenciais fáceis
+password-manager-password-autofill-for-easy-logins = Preenchimento automático de palavras-passe para inícios de sessão facilitados.
 password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } pode preencher automaticamente o seu nome de utilizador e palavra-passe guardados. Se tem mais de uma credencial para um site, basta selecionar a conta que pretende e nós utilizaremos a mesma a partir dali.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Imagem do formulário de início de sessão de um site com o { -brand-name-firefox } a mostrar múltiplas contas guardadas para que possa escolher entre uma delas ao iniciar sessão.
