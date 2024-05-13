@@ -25,7 +25,7 @@ cookie-settings-turn-on-javascript = Schakel JavaScript in om uw cookie-instelli
 cookie-settings-category-necessary-heading = Noodzakelijk
 cookie-settings-category-necessary-what-are-subheading = Wat zijn noodzakelijke cookies?
 cookie-settings-category-necessary-what-are-desc = Deze technologieën zijn vereist om essentiële websitefuncties te ondersteunen, zoals aanmelden bij een beveiligd gedeelte van een website of het toevoegen van artikelen aan een online winkelmandje, en kunnen niet worden uitgeschakeld.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } gebruikt alleen noodzakelijke cookies om essentiële websitefuncties te bieden, zoals aanmelden met uw { -brand-name-mozilla }-account of het kopen van een softwareabonnement bij het afrekenen. Zonder deze technologieën werken essentiële websitefuncties mogelijk niet.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } gebruikt alleen noodzakelijke cookies om essentiële websitefuncties te bieden, zoals aanmelden met uw { -brand-name-mozilla-account } of het kopen van een softwareabonnement bij het afrekenen. Zonder deze technologieën werken essentiële websitefuncties mogelijk niet.
 
 ## Preference cookies section
 

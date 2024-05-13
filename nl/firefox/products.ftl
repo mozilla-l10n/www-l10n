@@ -3,64 +3,70 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } is meer dan een browser
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } is nog maar het begin
-# Obsolete string
+firefox-products-mozilla-products = { -brand-name-mozilla }’s producten
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Het is een hele familie van producten die zijn ontworpen om u online veiliger en slimmer te houden.
 firefox-products-mozillas-family-of-products = De productfamilie van { -brand-name-mozilla } is ontworpen om u online veiliger en slimmer te houden
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } is <strong>meer</strong> dan een browser
+firefox-products-products = Producten
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } is nog maar het begin.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } is nog maar het begin
+firefox-products-mozillas-family-of-products-sentence = De productfamilie van { -brand-name-mozilla } is ontworpen om u online veiliger en slimmer te houden.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Download de browser die automatisch meer dan 2000 datatrackers blokkeert. Verbeterde bescherming tegen volgen is standaard in elke { -brand-name-firefox }-browser.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Uw speciale privacybrowser met automatische advertentieblokkering en beveiliging tegen volgen.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } is nog maar het <strong>begin</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Bekijk of uw persoonlijke gegevens zijn gelekt bij een bedrijfslek en meld u aan voor toekomstige waarschuwingen.
 firefox-products-check-for-breaches = Controleren op datalekken
-firefox-products-sign-up-for-breach-alerts = Inschrijven voor waarschuwingen over datalekken
-# Obsolete string
-firefox-products-firefox-browsers = { -brand-name-firefox }-browsers
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Download de browsers die automatisch meer dan 2000 datatrackers blokkeren. Verbeterde bescherming tegen volgen is standaard in elke { -brand-name-firefox }-browser.
-firefox-products-desktop = Desktop
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Alle browsers bekijken
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Bescherm uw echte e-mailadres om uw Postvak IN te beschermen.
+firefox-products-get-relay = { -brand-name-firefox-relay } verkrijgen
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Surf, stream en voer werk uit op servers in meer dan 30 landen, voor een veilige internetverbinding met een nieuw perspectief.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloaden
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Bescherm uw echte e-mailadres om uw Postvak IN te beschermen.
-firefox-products-learn-more-about-relay = Meer info over { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Houd uw wachtwoorden veilig en benader ze op al uw gesynchroniseerde apparaten.
-# Obsolete string
-firefox-products-download-lockwise = { -brand-name-lockwise } downloaden
-# Obsolete string
-firefox-products-open-in-firefox = Openen in { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Meer info over { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Verzend uw grote bestanden en gevoelige documenten veilig, tot 2,5 GB.
-firefox-products-send-a-file = Een bestand verzenden
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Hulpbronnen voor ontwikkelaars, door ontwikkelaars. Ondersteun { -brand-name-mdn } en maak het van uzelf met collecties, notificaties en speelterreinen.
+firefox-products-support-mdn = { -brand-name-mdn } ondersteunen
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Benader al uw e-mail, agenda’s en contacten in één snelle app. Filter en organiseer ze zoals u dat wilt.
+firefox-products-download-thunderbird = { -brand-name-thunderbird } downloaden
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } staat achter u wanneer u online winkelt – het verwijdert oplichters en vindt de beste deals voor u. Gemaakt door { -brand-name-mozilla }.
+firefox-products-analyze = Een URL analyseren
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Ontdek de beste inhoud op het web – en consumeer deze waar en wanneer u maar wilt. Gemaakt door { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Ontdek de beste inhoud op het web – en consumeer deze waar en wanneer u maar wilt.
 firefox-products-get-pocket = { -brand-name-pocket } gebruiken
-firefox-products-learn-more-about-pocket = Meer info over { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Doe mee met { -brand-name-firefox } en haal het meeste uit elk product – op elk apparaat.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Hebt u al een account? <a { $fxa_attr }>Aanmelden</a> of <a { $accounts_attr }>meer info</a> over meedoen met { -brand-name-firefox }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Uw speciale privacybrowser met automatische advertentieblokkering en beveiliging tegen volgen.
