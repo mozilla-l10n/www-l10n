@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = 隱私權中心
 footer-privacy = 隱私權
 footer-press = 媒體中心
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = 企業部落格
+footer-mozilla-blog = { -brand-name-mozilla } 部落格
 footer-browser-comparison = 瀏覽器比較
 footer-brand-standards = 品牌設計準則
 footer-browsers = 瀏覽器
