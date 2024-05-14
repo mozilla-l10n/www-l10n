@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-ს დებულებე�
 footer-privacy-hub = პირადულობის ცენტრი
 footer-privacy = პირადულობა
 footer-press = პრესა
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = სვეტი თანამშრომლებისთვის
+footer-mozilla-blog = { -brand-name-mozilla } სვეტი
 footer-browser-comparison = ბრაუზერების შედარება
 footer-brand-standards = სავაჭრო ნიშნები
 footer-browsers = ბრაუზერები
