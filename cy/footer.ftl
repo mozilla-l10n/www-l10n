@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
 footer-privacy-hub = Hwb Preifatrwydd
 footer-privacy = Preifatrwydd
 footer-press = Y Wasg
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog Corfforaethol
+footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Cymharu Porwyr
 footer-brand-standards = Safonau'r Brand
 footer-browsers = Porwyr
