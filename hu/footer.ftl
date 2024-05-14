@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Kiáltvány
 footer-privacy-hub = Privacy Hub
 footer-privacy = Adatvédelem
 footer-press = Sajtó
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Vállalati blog
+footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Böngészők összehasonlítása
 footer-brand-standards = Márka szabványok
 footer-browsers = Böngészők
