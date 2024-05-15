@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Manifesto di { -brand-name-mozilla }
 footer-privacy-hub = Privacy Hub
 footer-privacy = Privacy
 footer-press = Per la stampa
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog aziendale
+footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Confronto tra i browser
 footer-brand-standards = Uso del marchio
 footer-browsers = Browser
