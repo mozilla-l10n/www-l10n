@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-manifest
 footer-privacy-hub = Privacyhub
 footer-privacy = Privacy
 footer-press = Parse
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Bedriuwsblog
+footer-mozilla-blog = { -brand-name-mozilla }-blog
 footer-browser-comparison = Browserfergeliking
 footer-brand-standards = Merkstanderts
 footer-browsers = Browsers
