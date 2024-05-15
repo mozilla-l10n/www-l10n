@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 footer-privacy-hub = Centrum ochrany súkromia
 footer-privacy = Súkromie
 footer-press = Tlačové centrum
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Firemný blog
+footer-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 footer-browser-comparison = Porovnanie prehliadačov
 footer-brand-standards = Štandardy značky
 footer-browsers = Prehliadače
