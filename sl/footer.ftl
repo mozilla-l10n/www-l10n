@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 footer-privacy-hub = Središče za zasebnost
 footer-privacy = Zasebnost
 footer-press = Novinarsko središče
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Podjetniški blog
+footer-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 footer-browser-comparison = Primerjava brskalnikov
 footer-brand-standards = Standardi blagovne znamke
 footer-browsers = Brskalniki
