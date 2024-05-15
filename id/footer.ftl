@@ -7,6 +7,8 @@ footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy-hub = Pusat Privasi
 footer-privacy = Privasi
 footer-press = Pers
+
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog Perusahaan
 footer-browser-comparison = Perbandingan Peramban
 footer-brand-standards = Standar Merek

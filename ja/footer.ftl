@@ -7,6 +7,8 @@ footer-mozilla-manifesto = { -brand-name-mozilla } のマニフェスト
 footer-privacy-hub = プライバシーハブ
 footer-privacy = プライバシー
 footer-press = プレス
+
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = 企業ブログ
 footer-browser-comparison = ブラウザーの比較
 footer-brand-standards = ブランド基準

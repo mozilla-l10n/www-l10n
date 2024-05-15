@@ -7,6 +7,8 @@ footer-mozilla-manifesto = بيان { -brand-name-mozilla }
 footer-privacy-hub = مركز الخصوصية
 footer-privacy = الخصوصيّة
 footer-press = الصحافة
+
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = مدونة الشركة
 footer-browser-comparison = المقارنة بين المتصفحات
 footer-brand-standards = معايير العلامات التجارية
