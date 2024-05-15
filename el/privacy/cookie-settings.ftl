@@ -24,6 +24,7 @@ cookie-settings-turn-on-javascript = Παρακαλούμε ενεργοποιή
 
 cookie-settings-category-necessary-heading = Απαραίτητα
 cookie-settings-category-necessary-what-are-subheading = Τι είναι τα απαραίτητα cookie;
+cookie-settings-category-necessary-what-are-desc = Αυτές οι τεχνολογίες απαιτούνται για την υποστήριξη των βασικών λειτουργιών των ιστοτόπων, όπως η σύνδεση σε μια ασφαλή περιοχή μιας ιστοσελίδας ή η προσθήκη προϊόντων σε ένα καλάθι αγορών, επομένως δεν είναι δυνατή η απενεργοποίησή τους.
 
 ## Preference cookies section
 
@@ -42,4 +43,5 @@ cookie-settings-your-consent-heading = Η συγκατάθεσή σας
 ## Privacy section
 
 cookie-settings-privacy-heading = Η σημείωση απορρήτου μας
+cookie-settings-privacy-desc = Για πιο λεπτομερείς πληροφορίες σχετικά με τους διαφορετικούς τύπους πληροφοριών που συλλέγει η { -brand-name-mozilla } όταν επισκέπτεστε τους ιστοτόπους μας, μπορείτε να βρείτε έναν σύνδεσμο για τη σημείωση απορρήτου μας παρακάτω.
 cookie-settings-privacy-policy-link = Σημείωση απορρήτου

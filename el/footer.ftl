@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
 footer-privacy-hub = Κέντρο απορρήτου
 footer-privacy = Απόρρητο
 footer-press = Τύπος
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Εταιρικό blog
+footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Σύγκριση προγραμμάτων περιήγησης
 footer-brand-standards = Πρότυπα εμπορικών σημάτων
 footer-browsers = Προγράμματα περιήγησης
