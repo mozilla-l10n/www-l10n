@@ -10,3 +10,4 @@ consent-banner-body = На додаток до файлів cookie, необхі
 consent-banner-button-reject = Відхилити всі додаткові файли cookie
 consent-banner-button-accept = Прийняти всі додаткові файли cookie
 consent-banner-settings-link = Налаштування файлів cookie
+consent-banner-aria-label = Банер про файли cookie

@@ -13,10 +13,12 @@ firefox-products-products = Продукти
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } – це лише початок.
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } – це лише початок
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } – це сімейство продуктів, створених, щоб захистити вас і зробити вас розумнішими онлайн.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Отримайте браузер, який автоматично блокує понад 2000 елементів стеження. Розширений захист від стеження працює в { -brand-name-firefox } на кожному пристрої.
 
 ## Focus
 
