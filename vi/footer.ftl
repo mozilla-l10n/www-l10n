@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Tuyên ngôn { -brand-name-mozilla }
 footer-privacy-hub = Trung tâm riêng tư
 footer-privacy = Riêng tư
 footer-press = Nhấp
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog công ty
+footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = So sánh trình duyệt
 footer-brand-standards = Tiêu chuẩn thương hiệu
 footer-browsers = Trình duyệt
