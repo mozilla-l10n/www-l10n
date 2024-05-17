@@ -3,12 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 firefox-browsers-desktop = Urzhiataer burev
 firefox-browsers-download-for-desktop = Pellgargañ evit an urzhiataer
 firefox-browsers-mobile = Hezougell
-firefox-browsers-download-for-mobile = Pellgargañ evit ar pellgomz
+firefox-browsers-download-for-mobile = Pellgargañ evit ar pellgomzer
 firefox-browsers-send-me-a-link = Kas ul liamm din
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }

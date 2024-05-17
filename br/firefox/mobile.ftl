@@ -8,5 +8,5 @@
 firefox-mobile-download-the-firefox-browser = Pellgargañ ar { -brand-name-firefox-browser } war ho hezoug { -brand-name-ios } pe { -brand-name-android }
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
-firefox-mobile-send-a-download-link-to-your = Kas ul liamm pellgargañ d'ho pellgomzer.
+firefox-mobile-send-a-download-link-to-your = Kas ul liamm pellgargañ d’ho pellgomzer.
 firefox-mobile-scan-the-qr-code-to-get-started = C’hwilerviñ ar c’hod QR evit stagañ ganti

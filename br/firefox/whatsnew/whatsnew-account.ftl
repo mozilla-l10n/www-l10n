@@ -13,4 +13,4 @@
 
 # Obsolete string
 whatsnew-account-main-button = Kennaskañ
-whatsnew-account-signed-in-qr-title = Pellgargit { -brand-name-firefox } evit ho pellgomz hag ho tablezenn.
+whatsnew-account-signed-in-qr-title = Pellgargit { -brand-name-firefox } evit ho pellgomzer hag ho tablezenn.
