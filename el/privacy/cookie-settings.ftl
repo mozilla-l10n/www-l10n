@@ -35,6 +35,7 @@ cookie-settings-category-preference-what-are-subheading = Τι είναι τα c
 
 cookie-settings-category-analytics-heading = Ανάλυσης
 cookie-settings-category-analytics-what-are-subheading = Τι είναι τα cookie ανάλυσης;
+cookie-settings-category-analytics-what-are-desc = Αυτές οι τεχνολογίες συλλέγουν πληροφορίες σχετικά με το πώς οι χρήστες χρησιμοποιούν τους ιστοτόπους, όπως σελίδες που επισκέφθηκαν, συνδέσμους στους οποίους έκαναν κλικ και από ποιους άλλους ιστοτόπους προέρχονται από επισκέψεις.
 
 ## Consent section
 
