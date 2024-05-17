@@ -12,6 +12,8 @@ features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox 
 features-private-browsing-firefox-protects = { -brand-name-firefox } 助您保护在线隐私，并阻止网络上的跟踪器。
 features-private-browsing-if-you-share-a-computer = 若您与他人共用计算机，或者想要限制网站从你这里收集的数据，则可以使用 { -brand-name-firefox } 的隐私浏览模式。隐私浏览可以隐去你浏览时留下的数字足迹，如同风吹散在林间行走时留下的足印。
 features-private-browsing-what-does-private-browsing-do = 隐私浏览有什么用处？
+features-private-browsing-private-browsing-mode-opens-v2 = 隐私浏览模式会打开新的浏览器窗口。当您最后一个关闭隐私浏览窗口时您的浏览历史和所有来自网站的跟踪 Cookie 都将被清除。 <strong>{ -brand-name-firefox } 专业提示</strong>用完隐私浏览后不要忘记关闭所有窗口
+# Obsolete string (expires: 2024-07-18)
 features-private-browsing-private-browsing-mode-opens = 启用隐私浏览模式会新建一个浏览器窗口。这个窗口关闭后，您在这个窗口中的浏览历史，连同所有访问过的网站的跟踪性 Cookie 都会被抹去。<strong>{ -brand-name-firefox } 专业提示：</strong>浏览结束后，不要忘记关闭隐私浏览窗口！
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = 隐私浏览模式下的 { -brand-name-firefox } 浏览器窗口。
