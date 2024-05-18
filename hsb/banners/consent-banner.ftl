@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/?geo=de
 
-consent-banner-heading = Pomhajće nam, waše dožiwjenje { -brand-name-mozilla } polěpšił
+consent-banner-heading = Pomhajće nam, waše dožiwjenje { -brand-name-mozilla } polěpšić
 consent-banner-button-reject = Wšě přidatne placki wotpokazać
 consent-banner-button-accept = Wšě přidatne placki akceptować
 consent-banner-settings-link = Plackowe nastajenja
