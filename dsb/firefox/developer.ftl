@@ -78,7 +78,18 @@ firefox-developer-welcome-to-firefox-developer-edition = Witajśo k { -brand-nam
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Witajśo k { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Wobglědowak za wuwijarje
+firefox-developer-all-the-latest-v2 = Wšykne nejnowše wuwijaŕske rědy w betawersiji pśidatnje k funkcijam ako wěcejsmužkowy konsolowy editor a WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Separatny profil a separatna sćažka</strong>, tak móžośo jen z kóńcneju wersiju abo { -brand-name-beta } { -brand-name-firefox } wuwjasć.
 firefox-developer-preferences-tailored = Nastajenja, kotrež su <strong>na webwuwiwarjow wusměrjone</strong>: Pytanje zmólkow wobglědowaka a znazdala stej pó standarźe zmóžnjonej, rowno tak kaž śamna drastwa a tłocašk za wuwijaŕsku symbolowu rědku.
+firefox-developer-congrats-you-now-have-latest-v2 = Maśo něnto nejnowša wersija { -brand-name-firefox-developer-edition }.
 # Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulacija. Maśo něnto nejnowšu wersiju { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Cytajśo <a { $attrs }>wersije informacije</a> (jano engelski), aby nowe funkcije a změny wiźeł.
+firefox-developer-developer-tools-user = Wužywaŕske dokumenty wuwijaŕskich rědow
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resurse za wuwijarje wót wuwijarjow
+firefox-developer-mdn-references = Reference { -brand-name-mdn }
+firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
