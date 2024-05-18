@@ -21,18 +21,27 @@ firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-get-relay = «{ -brand-name-firefox-relay }»-ро ба даст оред
 
 ## VPN
 
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Таҳлил кардани нишонии URL
 
 ## Pocket
 
+firefox-products-pocket = { -brand-name-pocket }
+firefox-products-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
