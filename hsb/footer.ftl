@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
 footer-privacy-hub = Centrum priwatnosće
 footer-privacy = Priwatnosć
 footer-press = Nowinarstwo
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Předewzaćelski blog
+footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Přirunanje wobhladowakow
 footer-brand-standards = Markowe standardy
 footer-browsers = Wobhladowaki

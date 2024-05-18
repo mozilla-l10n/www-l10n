@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
@@ -16,14 +16,14 @@ installer-help-action-choose = Wubjerće deleka sćehnjenje.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Wobstarajće sej najnowši. Tu je awtomatiska priwatnosć. Sćehńće { -brand-name-firefox-browser }, zo byšće přez { $trackers } přesćěhowakow blokował.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujće funkcije, kotrež maja so wozjewić, w najstabilnišej předwersiji.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Wuwiwajće, testujće, přiměrće a wjace za jenički wobhladowak, kotryž je so za wuwiwarjow wuwił.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Pohladńće na naš webwobhladowak přichodneje generacije a pomhajće nam, jón k najlěpšemu wobhladowakej činił.
 installer-help-need-help = Trjebaće pomoc za instalaciju?
 # Variables:

@@ -7,12 +7,21 @@
 
 cookie-settings-page-title = Plackowe nastajenja
 cookie-settings-breadcrumb-link = Předchadna strona
+cookie-settings-how-mozilla-heading = Kak { -brand-name-mozilla } placki wužiwa
+cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } tute daty wužiwa?
+cookie-settings-save-changes = Změny składować
+cookie-settings-your-cookie-settings-have = Waše plackowe nastajenja su so zaktualizowali.
+cookie-settings-i-agree = Sym přezjedny
+cookie-settings-i-do-not-agree = Njejsym přezjedny
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Trěbny
+cookie-settings-category-necessary-what-are-subheading = Što su trěbne placki?
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Nastajenje
 
 ## Analytics cookies section
 
