@@ -124,13 +124,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Maśo južo wobglědowak. Wobstarajśo se něnto samo wěcej wót { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Wobglědujśo hackerow z { -brand-name-mozilla-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Wobglědujśo hackerow z { -brand-name-firefox-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
-firefox-desktop-download-get-more-from-firefox = Wobstarajśo se wěcej wót { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Ześěgniśo jadnorje wobglědowak
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -141,6 +135,8 @@ firefox-desktop-download-now-else = Dokóńcćo něnto <strong>instalaciju</stro
 firefox-desktop-download-now-windows = <strong>Wuwjaźćo</strong> něnto instalěrowański program, kótaryž sćo rowno ześěgnuł.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Wócyńśo</strong> něnto dataju, kótaruž sćo rowno ześěgnuł.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Wubjeŕśo dołojce <strong>ześěgnjeńske</strong> nastajenje
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Maśo problemy? <a { $attrs }>Wobstarajśo se pomoc za swóju instalaciju</a>.
@@ -166,3 +162,4 @@ firefox-desktop-download-please-follow = Pšosym slědujśo <a href="{ $url }">t
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
+firefox-desktop-download-taskbar = { -brand-name-firefox } buźo pśipěty pó instalaciji na nadawkowej rědce { -brand-name-windows }.

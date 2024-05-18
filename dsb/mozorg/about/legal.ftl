@@ -38,3 +38,4 @@ legal-report-copyright = Pśekśiwjenje awtorskego pšawa abo wikoweje mark k w�
 legal-hubs = { -brand-name-mozilla-hubs }
 legal-hubs-terms = Słužbne wuměnjenja { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Abonementne słužby { -brand-name-mozilla }
+legal-amo-policies = Pšawidła AMO

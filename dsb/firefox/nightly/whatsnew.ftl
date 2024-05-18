@@ -16,6 +16,12 @@ nightly-whatsnew-this-is-a-good = Pśi toś tej góźbje źěkujomy se za wašu 
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+nightly-whatsnew-if-you-want-to-v3 = Jolic cośo wěźeś, což se dowokoła { -brand-name-nightly } a jogo zgromaźeństwa stawa, cytajśo nejpjerwjej naš <a { $blog }>blog</a> a slědujśo nam na <a { $mastodon }>Mastodon</a> abo <a { $twitter }>X</a>!
+# Obsolete string
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v2 = Jolic cośo wěźeś, což se dowokoła { -brand-name-nightly } a jogo zgromaźeństwa stawa, cytajśo nejpjerwjej naš <a href="{ $blog }">blog</a> a slědujśo nam na <a href="{ $mastodon }">Mastodon</a> abo <a href="{ $twitter }">Twitter</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes

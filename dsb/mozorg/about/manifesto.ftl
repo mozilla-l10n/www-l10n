@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = Zastupujomy internet, kótaryž zgromadn
 manifesto-show-your-support = Wašu pódpěru pokazaś
 manifesto-an-internet-with-these = Internet z toś tymi kwalitami wót samego njenastawa. Wósoby a organizacije muse toś te cele k internetnej technologiji a k cłowjeskemu dožywjenjeju z internetom pśinosowaś. Manifest { -brand-name-mozilla } a pśidank reprezentěrujotej angažěrowanosć { -brand-name-mozilla } za rozšyrjowanje toś tych celow. Prócujomy se wó zgromadne źěło z luźimi a organizacijami wšuźi, kótarež toś te cele źěle, aby my internet k hyšći lěpšemu městnoju za kuždego cynili.
 manifesto-i-support-the-vision-of = Pódpěram wiziju lěpšego, strowšego interneta wót @mozilla, cośo se nam pśizamknuś?
+# Obsolete string
 manifesto-share-on-twitter = Na { -brand-name-twitter } źěliś
+manifesto-share-on-x = Na X źěliś
+manifesto-share-on-x-aria-label = Na X źěliś (něgajšny Twitter)
 manifesto-our-10-principles = <strong>Našych 10</strong> principow
-manifesto-use-open-badges-to-share = Wužyjśo Open Badges, aby swóje znaśa a zajmy źěilił
-manifesto-explore-how-the-web-impacts = Zgóńśo, kak web wobwliwujo wědomnosć
-manifesto-learn-about-open-source = Zgóńśo wěcej wó kode wótwórjonego žrědła w žurnalizmje
-manifesto-read-about-open-internet = Informěrujśo se wó wótwórjonych iniciatiwach a wuwiśach k internetnym pšawidłam
-manifesto-explore-how-to-help-keep = Zgóńśo, kak móžośo pomagaś, web wótwórjony źaržaś
-manifesto-see-how-the-web-can-connect = Zgóńśo, kak web móžo swět ze strowotnistwom zwězaś
-manifesto-explore-how-the-web-works = Zgóńśo, kak web funkcioněrujo
-manifesto-see-how-mozilla-works = Zgóńśo, kak { -brand-name-mozilla } źěła, aby wašu priwatnosć na prědne městno stajił
-manifesto-read-about-developments = Informěrujśo wó wuwiśach w šćiśe a wěstośe datow
-manifesto-learn-more-about-how-to = Zgóńsó wěcej wó tom, kak móžośo se online šćitaś
-manifesto-use-these-free-tools-to = Wužywajśo toś te dermotne rědy, aby web wucył
-manifesto-learn-about-creating-and = Zgóńśo, kak móžośo wopśimjeśe za web napóraś a woplěwaś
-manifesto-add-new-voices-to-open = Pśidajśo technologiji wótwórjonego žrědła nowe głose
-manifesto-set-your-do-not-track = Stajśo swójo nastajenje Do Not Track
-manifesto-understand-the-web-ecosystem = Zrozmějśo ekosystem weba
-manifesto-explore-how-open-practices = Wuslěźćo, kak wótwórjone wašnje póstupowanja źarže web pśistupny
-manifesto-learn-how-to-remix-content = Zgóńśo, kak móžośo wopśimjeśe nowo měšaś, aby něco nowe napórał
-manifesto-learn-how-to-maximize = Zgóńśo, kak móžośo interaktiwny potencial weba maksiměrowaś
-manifesto-participate-in-our-governance = Wobźělśo se na našom wjeźeńskem forumje
-manifesto-join-us-as-a-volunteer = Pśizamkniśo se nam ako dobrowólnik
-manifesto-learn-how-to-collaborate = Zgóńśo, kak móžośo online gromadu źěłaś
-manifesto-visualize-who-you-interact = Wizualizěrujśo z { -brand-name-lightbeam }, z kimž interagěrujośo we webje
-manifesto-learn-about-creating-web = Zgóńśo, kak móžośo webresurse gromaźe z drugimi luźimi napóraś
-manifesto-host-or-join-a-maker-party = Zarědujśo abo woglědajśo se { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Zgóńśo, kak móžośo zamóžnosći za zgromadne źěło online wuwijaś
 manifesto-read-the-entire-manifesto = Cytajśo ceły manifest
 manifesto-love-the-web = Lubujośo web?
 manifesto-get-the-mozilla-newsletter = Aboněrujśo powěsćowy list { -brand-name-mozilla } a pomagajśo nam, web wótwórjony a lichy źaržaś.
