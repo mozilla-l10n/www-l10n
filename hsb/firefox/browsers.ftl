@@ -3,12 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Sćehńće { -brand-name-firefox } za desktop, mobilny grat abo Enterprise
 # HTML page description
 firefox-browsers-page-desc = Wubjerće z desktopa, { -brand-name-ios }, { -brand-name-android } abo dowolće nam, zo wam wotkaz za sćehnjenje z e-mejlu na mobilny grat sćelemy.
+firefox-browsers-main-heading = Wobhladowaki { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Wobstarajće sej <strong>wobhladowaki</strong>, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
@@ -29,7 +30,6 @@ firefox-browsers-go-beyond-two-dimensions-and = Překročće dwě dimensiji a wu
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Wutworće sydła a polěpšće swój kod z { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Dalše informacije wo { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Wužiwajće { -brand-name-firefox } a wućehńće najwjace z kóždeho produkta - na kóždym graće.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
