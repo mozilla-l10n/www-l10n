@@ -34,6 +34,7 @@ vpn-landing-more-than-servers-in-countries =
         [few] Wjace hač { $servers } serwery we wjace hač { $countries } krajach
        *[other] Wjace hač { $servers } serwerow we wjace hač { $countries } krajach
     }
+vpn-landing-no-bandwidth-restrictions-or = žane wobmjezowanja šěrokosće pasma abo haćenje
 vpn-landing-see-all-features = Wšě funkcije pokazać
 vpn-landing-fram-a-brand-you-can-trust = Wot marki, kotrejž móžeće dowěrić
 vpn-landing-one-subscription-for-all-your = Jedyn abonement za wšě waše graty

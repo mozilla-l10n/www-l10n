@@ -37,6 +37,7 @@ vpn-features-no-bandwidth = žane wobmjezowanja šěrokosće pasma abo haćenje
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } <a { $wireguard }>Wireguard</a>™ wužiwa, jedyn z najbóle wukonliwych VPN-protokolow.
 vpn-features-secure = Wěsty
 vpn-features-encrypt-your-internet = Zaklučujće wšón swój internetny wobchad
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšě nałoženja na wašim graće škita, nic jenož waš wobhladowak
 vpn-features-stronger-malware = Mócniši škit přećiwo škódnej softwarje
 vpn-features-support-for-custom-dns = Podpěra za swójski DNS
 vpn-features-flexible = Fleksibelny
