@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-the-history-of-web = Таърихи браузерҳои интернетӣ
+browser-history-resources = Манбаъҳо
