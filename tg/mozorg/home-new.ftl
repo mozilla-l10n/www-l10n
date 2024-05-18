@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/mission/
+### URL: https://www-dev.allizom.org/ (Global locales)
 
-mission-get-involved = Ҳамроҳ шавед
-mission-history = Таърих
-mission-forums = Форумҳо
-mission-governance = Идоракунӣ
+home-learn-more-about-mozilla = Маълумоти бештар дар бораи «{ -brand-name-mozilla }»

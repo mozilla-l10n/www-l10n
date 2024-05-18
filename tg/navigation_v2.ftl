@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 navigation-v2-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 navigation-v2-menu = Меню
-# Obsolete string
-navigation-v2-get-a-firefox-account = «{ -brand-name-firefox-account }»-ро ба даст оред
 
 ## Firefox menu
 
@@ -24,7 +22,6 @@ navigation-v2-view-all-firefox-browsers = Намоиш додани «{ -brand-n
 
 navigation-v2-products = Маҳсулот
 navigation-v2-close-products-menu = Пӯшидани менюи «Маҳсулот»
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -38,13 +35,13 @@ navigation-v2-view-all-products = Намоиш додани ҳамаи маҳс�
 navigation-v2-mozilla-manifesto = Манифести «{ -brand-name-mozilla }»
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Ҳамроҳ шавед
+navigation-v2-leadership = Роҳнамоӣ
 navigation-v2-more-about-mozilla = Бештар дар бораи «{ -brand-name-mozilla }»
 
 ## Innovation menu
 
 navigation-v2-innovation = Навоварӣ
 navigation-v2-close-innovation-menu = Пӯшидани менюи навоварӣ
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
