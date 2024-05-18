@@ -151,3 +151,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hišć
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Kak je so wozjewiło w
+
+## Unsupported language notification
+
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Chceće wjace ludźi z { -brand-name-mozilla-vpn } zeznajomić? <a { $href }>Budźće dobrowólny přełožowar</a>.
