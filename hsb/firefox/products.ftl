@@ -50,7 +50,7 @@ firefox-products-support-mdn = Pomoc { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
-firefox-products-download-thunderbird = { -brand-name-thunderbird } sćahnyć
+firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 
 ## Fakespot
 
@@ -60,5 +60,6 @@ firefox-products-analyze = URL analyzować
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Wotkryjće najlěpši wobsah we webje - a wužiwajće jón, hdźežkuli a hdyžkuli chceće.
 firefox-products-get-pocket = { -brand-name-pocket } wobstarać
