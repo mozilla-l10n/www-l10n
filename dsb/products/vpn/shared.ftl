@@ -122,6 +122,7 @@ vpn-subnav-vpn-vs-proxy = VPN w pśirownanju k proksy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } aboněrowaś
 vpn-subnav-learn-about-vpns = Póznajśo VPN
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ześěgnuś
+vpn-subnav-features = Funkcije
 
 ## VPN Affiliate cookie notice
 
@@ -130,6 +131,21 @@ vpn-shared-affiliate-notification-ok = W pórěźe
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = Pólěpšćo swóju priwatnosć z { -brand-name-vpn } + { -brand-name-relay }
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Pśidajśo swójomu abonementoju { -brand-name-firefox-relay }, aby swóju e-mailowu adresu a telefonowy numer šćitał. <a href="{ $url }">Dalšne informacije</a>.
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = Pśidajśo <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
+vpn-shared-relay-email-masking = E-mailowe maskěrowanje
+vpn-shared-relay-phone-masking = Telefonowe maskěrowanje
+vpn-shared-get-vpn-plus-relay = Wobstarajśo se { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-why-bundle = Cogodla ako paket?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = <span>Składujśo { $percent } %</span> na lětny plan { -brand-name-relay-premium }
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hyšći njejo we wašom kraju k dispoziciji.
 
 ## Press quotations
 
