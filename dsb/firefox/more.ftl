@@ -11,10 +11,6 @@ learn-more-about = Zgóńśo wěcej wó wobglědowakach a produktach { -brand-na
 learn-more-faq = Cesto stajone pšašanja { -brand-name-firefox }
 the-history-of = Historija webwobglědowakow
 firefox-has-been = { -brand-name-firefox } južo pśisamem wót zachopjeńka eksistěrujo.
-# Obsolete string
-firefox-rebel-with = { -brand-name-firefox }: Rebel ze zawinu
-# Obsolete string
-firefox-is-independent = { -brand-name-firefox } jo njewótwisny a spěchujo se wót za wše wužitneje organizacije { -brand-name-mozilla }, kótaraž za waše pšawa online wójujo, a cyni internet wšuźi pśistupny za kuždego.
 what-is-a = Co jo webwobglědowak?
 a-web-browser = Webwobglědowak was wšuźi w interneśe wjeźo a zmóžnja wam, se wobraze a wideo z cełego swěta woglědaś.
 update-your-browser = Aktualizěrujśo swój wobglědowak na malsny a wěsty { -brand-name-firefox }.
@@ -38,8 +34,12 @@ firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 new-school-meets = Nowa šula staru šulu z dotychměst z nejmalsnjejšym wobglědowakom trjefijo.
 firefox-for-windows = { -brand-name-firefox } za { -brand-name-windows } 64-bitowy
 we-worry-about = Staramy se wó wěstotu wašych datow, až njeby wy to cynił.
+# Obsolete string
 seven-of-the = Sedym z nejlěpšych wobglědowakow w direktnem pśirownanju
+six-of-the-best = Šesć z nejlěpšych wobglědowakow w direktnem pśirownanju
+# Obsolete string
 we-compare-firefox = Pśirownajomy { -brand-name-firefox } z { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } a { -brand-name-ie }, aby wam pomagali se rozsuźiś.
+we-compare-firefox-v2 = Pśirownujomy { -brand-name-firefox } z Chrome, Edge, Safari, Opera a Brave, aby wam pomagali se rozsuźiś.
 comparing-firefox-chrome = Pśirownanje mjazy { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
 big-isnt-always = Wjeliki nic pśecej nejlěpše jo. Rozsuźćo se město togo za njewótwisnosć.
 comparing-firefox-brave = Pśirownanje { -brand-name-firefox-browser } z { -brand-name-brave }
@@ -54,10 +54,6 @@ so-many-ads = Tak wjele wabjenja, tak mało sćerpnosći… Jo cas, błaznosć s
 firefox-more-protection = { -brand-name-firefox }: Wěcej šćita. Mjenjej starošćow.
 were-obsessed-with = Šćit wašeje priwatnosći jo nam wjelgin wažny. Togodla jo priwatny modus { -brand-name-firefox } mócnjejšy ako druge.
 incognito-browser-what = Wobglědowak incognito: Což to napšawdu wóznamjenijo
-# Obsolete string
-take-the-stress = Pytajśo wěsty wobglědowak bźeze stresa.
-# Obsolete string
-building-a-safe = Wuwijanje wěstego wobglědowaka jo wuměśe a wědomnosć, dokulaž póstajone pšawidła njejsu.
 firefox-more-fingerprinter-blocking = Blokěrowanje palcowych wótśišćow
 firefox-more-translate-the-web = Web pśełožyś
 firefox-more-translate-more-than = Pśełožujśo wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox-browser } - lažčej ako do togo.
