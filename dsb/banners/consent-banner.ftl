@@ -8,3 +8,5 @@
 consent-banner-heading = Pomagajśo nam, wašo dožywjenje { -brand-name-mozilla } pólěpšyś
 consent-banner-button-reject = Wšykne pśidatne cookieje wótpokazaś
 consent-banner-button-accept = Wšykne pśidatne cookieje akceptěrowaś
+consent-banner-settings-link = Cookiejowe nastajenja
+consent-banner-aria-label = Cookiejowy chórgoj
