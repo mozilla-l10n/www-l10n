@@ -81,6 +81,8 @@ vpn-shared-pricing-save-percent = { $percent } % zažariś
 vpn-shared-save-percent-on = { $percent } % w { -brand-name-mozilla-vpn } składowaś*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *gaž 12-mjasecny plan aboněrujośo
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *z lětnym abonementom
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } dogromady
@@ -96,6 +98,7 @@ vpn-shared-platform-cta-button = Płaśizny a k-dispoziciji-měśe se woglědaś
 vpn-shared-platform-privacy-promise = Waša priwatnosć jo našo zlubjenje
 vpn-shared-platform-trust-partner-headline = Wo našom dowěrygódnem partnarju
 vpn-shared-platform-what-is = Co jo { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Cogodla { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -117,6 +120,8 @@ vpn-subnav-whats-an-ip-address = Co jo IP-adresa?
 vpn-subnav-when-to-use-a-vpn = Gdy wy dejał VPN wužywaś
 vpn-subnav-vpn-vs-proxy = VPN w pśirownanju k proksy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } aboněrowaś
+vpn-subnav-learn-about-vpns = Póznajśo VPN
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ześěgnuś
 
 ## VPN Affiliate cookie notice
 

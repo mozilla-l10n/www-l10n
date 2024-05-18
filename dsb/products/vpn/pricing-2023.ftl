@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-page-title = Płaśizny – { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Jaden abonement za wše waše rědy
+# Pricing section
+vpn-pricing-included-in-subscription = W abonemenśe wopśimjone:
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
@@ -26,6 +29,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } hyšći njejo we wa�
 vpn-pricing-faqs = Cesto stajone pšašanja
 vpn-pricing-refund-policy = Kótare pšawidła za zarownanje { -brand-name-mozilla-vpn } płaśe?
 vpn-pricing-what-information = Kótare informacije { -brand-name-mozilla-vpn } wobchowajo?
+vpn-pricing-how-do-i-manage = Kak mógu swój abonement zastojaś a swój plan změniś?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Jolic sćo južo aboněrował { -brand-name-mozilla-vpn }, móžośo kuždy cas swój tarif změniś abo <a { $manage }>swój abonement zastojaś</a>.
