@@ -70,8 +70,6 @@
 -brand-name-firefox-accounts = Firefox 계정
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
-# Obsolete brand name
--brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox 릴레이 프리미엄
 -brand-name-firefox-relay = Firefox Relay
@@ -101,6 +99,9 @@
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
@@ -118,6 +119,7 @@
 -brand-name-mozilla-account = Mozilla 계정
 -brand-name-mozilla-accounts = Mozilla 계정
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
 

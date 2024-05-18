@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = 지금 다운로드
 download-button-free-download = 무료 다운로드
@@ -39,3 +39,16 @@ download-button-firefox-ios = { -brand-name-ios }용 <span>{ -brand-name-firefox
 download-button-firefox-privacy = { -brand-name-firefox } 개인 정보 정책
 download-button-firefox-privacy-notice = { -brand-name-firefox } 개인정보처리방침
 download-button-download = 다운로드
+download-firefox-esr = { -brand-name-firefox-esr } 다운로드
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32비트 다운로드
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64비트 다운로드
+download-a-different-build = 다른 빌드 다운로드
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = { -brand-name-linux } 32비트 다운로드
+# Obsolete string
+download-button-linux-64 = { -brand-name-linux } 64비트 다운로드
+download-button-linux-32-v2 = Linux 32비트용 다운로드
+download-button-linux-64-v2 = Linux 64비트용 다운로드
