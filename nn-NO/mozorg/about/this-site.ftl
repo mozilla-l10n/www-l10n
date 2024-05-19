@@ -7,5 +7,6 @@
 
 about-this-site-title = Om denne nettstaden
 about-this-site-report-a-bug = Rapporter ein feil
-about-this-site-contribute-to-code = Bidra til denne kodebasen
+about-this-site-contribute-to-code = Bidra til kodebasen
+about-this-site-contribute-to-l10n = Bidra på omsettingar
 about-this-site-read-the-docs = Les dokumentasjonen
