@@ -9,3 +9,4 @@
 features-translate-translate-a-webpage-with-firefox = Omset ei nettside med { -brand-name-firefox }
 features-translate-translate-the-web = Omset nettet
 features-translate-what-languages-are-currently = Kva for språk er for tida støtta?
+features-translate-and-more-languages-are-in = Og fleire språk er under utvikling!
