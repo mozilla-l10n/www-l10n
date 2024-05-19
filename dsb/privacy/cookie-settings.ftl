@@ -13,6 +13,7 @@ cookie-settings-save-changes = Změny składowaś
 cookie-settings-your-cookie-settings-have = Waše cookiejowe nastajenja su se zaktualizěrowali.
 cookie-settings-i-agree = Som wobjadny
 cookie-settings-i-do-not-agree = Njejsom wobjadny
+cookie-settings-turn-on-javascript = Pšosym zmóžniśo JavaScript, aby swóje cookiejowe nastajenja aktualizěrował.
 
 ## Necessary cookies section
 

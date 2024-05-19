@@ -149,6 +149,8 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hyšć
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Kak jo se wózjawiło w
 
 ## Unsupported language notification
 
