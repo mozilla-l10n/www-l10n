@@ -46,16 +46,27 @@ firefox-products-get-mozilla-vpn = Obtén { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Recursos para desarrolladores, por desarrolladores. Apoya a { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas para probar tu código.
+firefox-products-support-mdn = Apoya { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Accede a todos tus correos, calendarios y contactos en una app rápida. Fíltralos y organízalos como prefieras.
+firefox-products-download-thunderbird = Descarga { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } te respalda cuando compras en línea, eliminando a los estafadores y encontrándote las mejores ofertas. Hecho por { -brand-name-mozilla }.
+firefox-products-analyze = Analizar una URL
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Descubre el mejor contenido de la web y disfrútalo donde y cuando quieras. Hecho por { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Descubre el mejor contenido de la web y léelo donde y cuando quieras.
 firefox-products-get-pocket = Obtener { -brand-name-pocket }
