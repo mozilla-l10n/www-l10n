@@ -55,10 +55,12 @@ firefox-products-download-thunderbird = Ześěgniśo { -brand-name-thunderbird }
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = URL analyzěrowaś
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Namakajśo nejlěpše wopsimjeśe we webje - a wužywajśo jo, źožkuli a gažkuli cośo. Napórany wót { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Namakjśo nejlěpše wopsimjeśe we webje - a wužywajśo jo, źožkuli a gažkuli cośo.
 firefox-products-get-pocket = { -brand-name-pocket } wobstaraś
