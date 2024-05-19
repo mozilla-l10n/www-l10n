@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Wšykne rěcy
 sub-navigation-firefox = { -brand-name-firefox }
@@ -25,18 +25,15 @@ sub-navigation-desktop-nightly = { -brand-name-nightly } za desktop
 sub-navigation-features = Funkcije
 sub-navigation-support = Pomoc
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Dodanki
 sub-navigation-add-ons = Dodanki
 sub-navigation-faq = CSP
 sub-navigation-learn-more = Dalšne informacije
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } za mobilne rědy
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Dodanki { -brand-name-android }
-sub-navigation-android-add-ons = Dodanki { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bitowy
