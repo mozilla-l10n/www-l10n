@@ -60,6 +60,7 @@ firefox-products-analyze = URL analyzować
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Wotkryjće najlěpši wobsah we webje - a wužiwajće jón, hdźežkuli a hdyžkuli chceće. Wutworjeny wot { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Wotkryjće najlěpši wobsah we webje - a wužiwajće jón, hdźežkuli a hdyžkuli chceće.
 firefox-products-get-pocket = { -brand-name-pocket } wobstarać

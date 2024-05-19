@@ -13,6 +13,7 @@ cookie-settings-save-changes = Změny składować
 cookie-settings-your-cookie-settings-have = Waše plackowe nastajenja su so zaktualizowali.
 cookie-settings-i-agree = Sym přezjedny
 cookie-settings-i-do-not-agree = Njejsym přezjedny
+cookie-settings-turn-on-javascript = Prošu zmóžńće JavaScript, zo byšće swoje plackowe nastajenja aktualizował.
 
 ## Necessary cookies section
 
