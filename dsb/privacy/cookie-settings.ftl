@@ -12,18 +12,24 @@ cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } to
 cookie-settings-save-changes = Změny składowaś
 cookie-settings-your-cookie-settings-have = Waše cookiejowe nastajenja su se zaktualizěrowali.
 cookie-settings-i-agree = Som wobjadny
+cookie-settings-i-do-not-agree = Njejsom wobjadny
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Trjebny
+cookie-settings-category-necessary-what-are-subheading = Co su trjebne cookieje?
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Nastajenje
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analytika
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Wašo pśizwólenje
 
 ## Privacy section
 

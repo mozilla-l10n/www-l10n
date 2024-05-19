@@ -34,6 +34,8 @@ vpn-landing-more-than-servers-in-countries =
         [few] Wěcej ako { $servers } serwery we wěcej ako { $countries } krajach
        *[other] Wěcej ako { $servers } serwerow we wěcej ako { $countries } krajach
     }
+vpn-landing-no-bandwidth-restrictions-or = žedno wobgranicowanje šyrokosći pasma abo droslowanje
+vpn-landing-see-all-features = Wšykne funkcije pokazaś
 vpn-landing-fram-a-brand-you-can-trust = Wót marki, kótarejž móžośo dowěriś
 vpn-landing-one-subscription-for-all-your = Jaden abonement za wše waše rědy
 vpn-landing-learn-more-from-our-experts = Wukniśo wěcej wót našych ekspertow
