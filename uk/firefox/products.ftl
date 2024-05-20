@@ -49,13 +49,18 @@ firefox-products-mdn-plus = { -brand-name-mdn-plus }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Доступ до всієї вашої електронної пошти, календарів і контактів в одній швидкій програмі. Відфільтруйте та впорядкуйте їх так, як вам подобається.
+firefox-products-download-thunderbird = Завантажити { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Відкрийте для себе найкраще в Інтернеті — і використовуйте його будь-де та будь-коли. Створено { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Знаходьте найкращі статті в мережі — та читайте їх коли забажаєте.
 firefox-products-get-pocket = Отримати { -brand-name-pocket }
