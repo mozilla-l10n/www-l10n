@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Përktheni një faqe web me { -brand-name-firefox }
-features-translate-translate-the-web = Përktheni internetin me { -brand-name-firefox }
+features-translate-translate-the-web = Përktheni web-in
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = Përkthimet me { -brand-name-firefox } janë një veçori e brendshme që ju lejon të shfletoni kollaj në internet në gjuhën tuaj të parapëlqyer. Mësoni më tepër rreth se si funksionon kjo veçori në { -brand-name-firefox } dhe se si { -brand-name-mozilla } ndihmon të mbahet private ajo çka përktheni.
 features-translate-one-of-the-best-things-about = Një nga gjërat më të mira të internetit është se mund të përdorim lëndë anembanë botës. Qoftë artikuj lajmesh, blogje, apo edhe një shqyrtim rreth gadget-it tuaj më të ri teknologjik, mund të gjeni gjithçka në rrjetin që duket se s’mbaron kurrë. Veçoria më e re e përkthimit në { -brand-name-firefox } si mjet do të përkthejë vazhdimisht faqet atypëraty.
