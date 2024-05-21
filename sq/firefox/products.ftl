@@ -46,12 +46,17 @@ firefox-products-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = Përkrahni { -brand-name-mdn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Analizoni një URL
 
 ## Pocket
 

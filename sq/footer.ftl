@@ -7,7 +7,9 @@ footer-mozilla-manifesto = Manifesti i { -brand-name-mozilla }-s
 footer-privacy-hub = Qendër Privatësie
 footer-privacy = Privatësi
 footer-press = Për Shtypin
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog Korporate
+footer-mozilla-blog = Blogu i { -brand-name-mozilla }-s
 footer-browser-comparison = Krahasim Shfletuesish
 footer-brand-standards = Standarde Marke
 footer-browsers = Shfletues
