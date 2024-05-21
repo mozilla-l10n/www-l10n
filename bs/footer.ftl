@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = Centar za privatnost
 footer-privacy = Privatnost
 footer-press = Pritisni
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Korporativni blog
+footer-mozilla-blog = { -brand-name-mozilla } blog
 footer-browser-comparison = Poređenje pretraživača
 footer-brand-standards = Standardi brenda
 footer-browsers = Pretraživači
