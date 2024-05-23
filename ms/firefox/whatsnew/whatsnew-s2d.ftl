@@ -14,3 +14,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = Baiklah. Dapatkan { -brand-name-firefo
 whatsnew-s2d-send-firefox-to-your-phone = Hantar { -brand-name-firefox } ke telefon anda<br> dan bebaskan internet anda.
 
 whatsnew-s2d-download-firefox-for-your = Muat turun { -brand-name-firefox } untuk telefon pintar dan tablet anda.
+

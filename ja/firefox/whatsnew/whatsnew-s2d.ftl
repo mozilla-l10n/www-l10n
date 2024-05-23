@@ -14,3 +14,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = あります。モバイル用 { -bran
 whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-firefox } をスマートフォンに送信し、<br>自由なインターネットを始めましょう。
 
 whatsnew-s2d-download-firefox-for-your = スマートフォンおよびタブレット用に { -brand-name-firefox } をダウンロードしてください。
+

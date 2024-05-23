@@ -14,3 +14,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = C’est possible, avec { -brand-name-f
 whatsnew-s2d-send-firefox-to-your-phone = Ajoutez { -brand-name-firefox } sur votre téléphone<br> et libérez le potentiel d’Internet.
 
 whatsnew-s2d-download-firefox-for-your = Téléchargez { -brand-name-firefox } pour votre smartphone ou votre tablette.
+

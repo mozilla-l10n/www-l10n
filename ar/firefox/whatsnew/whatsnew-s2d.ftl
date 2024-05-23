@@ -14,3 +14,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = حسنًا. احصل على { -brand-n
 whatsnew-s2d-send-firefox-to-your-phone = نزِّل { -brand-name-firefox } على هاتفك <br> وأطلق العنان للإنترنت.
 
 whatsnew-s2d-download-firefox-for-your = نزِّل { -brand-name-firefox } على هاتفك الذّكي أو على جهازك اللوحي.
+
