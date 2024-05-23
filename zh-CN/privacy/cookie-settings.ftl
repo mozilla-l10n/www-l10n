@@ -48,4 +48,5 @@ cookie-settings-your-consent-heading = 您的同意内容
 ## Privacy section
 
 cookie-settings-privacy-heading = 我们的隐私声明
+cookie-settings-privacy-desc = 有关 { -brand-name-mozilla } 在您访问我们的网站时收集的信息类型，可通过下方的隐私声明链接来详细了解。
 cookie-settings-privacy-policy-link = 隐私声明
