@@ -44,6 +44,7 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } 使�
 ## Consent section
 
 cookie-settings-your-consent-heading = 您的同意内容
+cookie-settings-your-consent-desc = 接受 Cookie 即代表您一并同意下列 { -brand-name-mozilla } 网站遵循相同且严格的数据隐私标准来设置 Cookie。请注意，此列表未来可能会有所更新。
 
 ## Privacy section
 
