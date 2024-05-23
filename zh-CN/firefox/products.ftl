@@ -52,6 +52,7 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = 在这款疾如惊雷的应用中，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
 firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 
 ## Fakespot
