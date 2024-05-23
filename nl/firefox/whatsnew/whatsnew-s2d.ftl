@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/whatsnew/all/
+### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Download { -brand-name-firefox } voor { -brand-name-android } en { -brand-name-ios }
 whatsnew-s2d-want-privacy-on-every-device = Privacy op elk apparaat?
@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Dat kan. Download { -brand-name-firefo
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Stuur { -brand-name-firefox } naar uw telefoon<br> en bevrijd uw internet.
 whatsnew-s2d-download-firefox-for-your = Download { -brand-name-firefox } voor uw smartphone en tablet.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Scan deze QR-code
