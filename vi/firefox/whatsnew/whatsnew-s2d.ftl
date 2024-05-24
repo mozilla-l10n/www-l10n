@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Bạn đã sử dụng nó. Tải { -b
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Gửi { -brand-name-firefox } đến điện thoại của bạn<br> và giải phóng Internet.
 whatsnew-s2d-download-firefox-for-your = Tải xuống { -brand-name-firefox } cho điện thoại thông minh và máy tính bảng.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Quét mã QR này
