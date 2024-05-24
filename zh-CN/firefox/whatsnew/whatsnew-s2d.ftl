@@ -13,4 +13,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = 没问题。立即获取{ -brand-name-
 whatsnew-s2d-send-firefox-to-your-phone = 发送 { -brand-name-firefox } 到您的手机<br>，向互联网进发！
 whatsnew-s2d-download-firefox-for-your = 为您的智能手机和平板电脑下载 { -brand-name-firefox }。
 # An accessible label for a QR code image
-whatsnew-s2d-qr-code-alt = 扫码
+whatsnew-s2d-qr-code-alt = 扫描此二维码
