@@ -19,4 +19,4 @@ features-fast-all-browsers-had-to-make = Všechny prohlížeče se musely zlepš
 features-fast-towards-a-faster-web = Na cestě k rychlejšímu webu
 # Variables
 #   $link (url) - link to /about/webvision/full/#performance
-features-fast-theres-been-an-encouraging = { -brand-name-mozilla } <a { $link }>se zavázala</a> neustále vylepšovat svůj vlastní prohlížeč i celý web. To je důvod, proč jsme investovali do spolupráce na vývoji Speedometer 3, který zase zlepšil výkon všech prohlížečů. Ať už si vyberete jakýkoli prohlížeč, { -brand-name-mozilla } chce, aby byl rychlý.
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } se <a { $link }>zavázala</a> neustále zlepšovat náš vlastní prohlížeč i celý web. Proto jsme investovali do spolupráce na vývoji Speedometeru 3, který zase zlepšil výkon všech prohlížečů. Ať už si tedy vyberete jakýkoli prohlížeč, { -brand-name-mozilla } chce, aby byl rychlý.
