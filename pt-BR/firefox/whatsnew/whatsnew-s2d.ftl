@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Sem problema. Use o { -brand-name-fire
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Envie o { -brand-name-firefox } para seu celular e liberte sua internet.
 whatsnew-s2d-download-firefox-for-your = Use o { -brand-name-firefox } em seu smartphone e tablet.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Digitalize este código QR
