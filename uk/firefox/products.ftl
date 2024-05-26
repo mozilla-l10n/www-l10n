@@ -46,6 +46,8 @@ firefox-products-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Ресурси для розробників, від розробників. Підтримайте { -brand-name-mdn } і персоналізуйте його за допомогою збірок, сповіщень та ігрових платформ.
+firefox-products-support-mdn = Підтримати { -brand-name-mdn }
 
 ## Thunderbird
 
@@ -56,6 +58,10 @@ firefox-products-download-thunderbird = Завантажити { -brand-name-thu
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } підтримує вас, коли ви робите покупки в Інтернеті – відсіює шахраїв і знаходить найкращі пропозиції. Створено { -brand-name-mozilla }.
+firefox-products-analyze = Проаналізувати URL
 
 ## Pocket
 
