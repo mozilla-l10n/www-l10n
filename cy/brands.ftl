@@ -120,6 +120,8 @@
 -brand-name-mozilla-account = Cyfrif Mozilla
 -brand-name-mozilla-accounts = Cyfrifon Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ventures = Mentrau Mozilla
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)

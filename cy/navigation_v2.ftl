@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Cael y porwr symudol ar gyfer eich { -brand-name-iphone } neu { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Pori symudol preifat
-navigation-v2-privacy-promise = Addewid Preifatrwydd
-navigation-v2-learn-how-firefox-treats = Dysgwch sut mae { -brand-name-firefox } yn trin eich data â pharch.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Darllenwch am nodweddion newydd { -brand-name-firefox } a ffyrdd i gadw'n ddiogel ar-lein.
 navigation-v2-release-notes = Nodiadau Rhyddhau
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Gweld pob porwr { -brand-name-firefox-
 navigation-v2-products = Cynnyrch
 navigation-v2-close-products-menu = Cau dewislen Cynnyrch
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Gweld a yw'ch e-bost wedi ymddangos mewn tor-data cwmni.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Cadw a darganfod y straeon gorau o bob rhan o'r we.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Helpwch i atal { -brand-name-facebook } rhag casglu eich data y tu allan i'w gwefan.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Cael diogelwch y tu hwnt i'ch porwr, ar eich holl ddyfeisiau.
-navigation-v2-product-promise = Addewid Cynnyrch
-navigation-v2-learn-how-each-firefox-product = Dysgwch sut mae pob cynnyrch { -brand-name-firefox } yn diogelu ac yn parchu'ch data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Cofrestrwch ar gyfer cyfrifon newydd heb drosglwyddo'ch cyfeiriad e-bost.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nodweddion ac offer newydd ar gyfer profiad personoledig o { -brand-name-mdn }
 navigation-v2-view-all-products = Gweld yr Holl Gynnyrch
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Defnyddiwch AI i ganfod adolygiadau ffug a sgamiau
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Gyrfaoedd
 navigation-v2-work-for-a-mission-driven-updated = Gweithiwch i sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch sy'n gosod pobl yn gyntaf.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Dysgwch am { -brand-name-mozilla } a'r materion sy'n bwysig i ni.
-navigation-v2-stories = Straeon
-navigation-v2-stories-about-how = Straeon am sut mae'n pobl a'n cynnyrch yn newid y byd er gwell.
 navigation-v2-more-about-mozilla = Rhagor Am { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Arloesi
 navigation-v2-close-innovation-menu = Cau dewislen Arloesi
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Casglwch yn y gofod cymdeithasol rhyngweithiol, ar-lein, aml-ddimensiwn hwn.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Cael y porwr { -brand-name-firefox } wedi'i adeiladu'n bennaf ar gyfer datblygwyr.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
