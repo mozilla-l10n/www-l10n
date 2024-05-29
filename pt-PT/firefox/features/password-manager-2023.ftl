@@ -26,10 +26,10 @@ password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } p
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Imagem do formulário de início de sessão de um site com o { -brand-name-firefox } a mostrar múltiplas contas guardadas para que possa escolher entre uma delas ao iniciar sessão.
 password-manager-import-passwords = Importar palavras-passe
-password-manager-you-can-use-the-import-wizard = Pode utilizar o assistente de importação para importar de forma fácil (magicamente) nomes de utilizador e palavras-passe armazenados no Chrome, Edge, Safari ou quaisquer outros navegadores. Selecione Palavras-passe no menu e clique em “importar para o { -brand-name-firefox }” no final da página de Credenciais e palavras-passe.
+password-manager-you-can-use-the-import-wizard = Pode utilizar o assistente de importação para importar de forma fácil (magicamente) os nomes de utilizador e as palavras-passe guardados no Chrome, Edge, Safari ou em quaisquer outros navegadores. Selecione Palavras-passe no menu, e depois clique em “importá-los para o { -brand-name-firefox }” no final da página das Credenciais e palavras-passe.
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-import-wizard = Imagem da janela do assistente de importação do { -brand-name-firefox }, mostrando opções para importar definições e dados de outros navegadores.
-password-manager-no-more-reusing-your-passwords = Basta de reutilização das suas palavras-passe
+password-manager-image-of-the-firefox-import-wizard = Imagem da janela do assistente de importação do { -brand-name-firefox }, mostrando as opções para importar as definições e os dados de outros navegadores.
+password-manager-no-more-reusing-your-passwords = Chega de reutilizar as suas palavras-passe
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
 password-manager-have-firefox-create-a-strong-unique = Faça com que o { -brand-name-firefox } <a { $attrs }>crie uma palavra-passe forte e única</a> para cada credencial que tiver na Internet — assim, se uma das suas palavras-passe for violada através de uma violação de segurança, apenas terá impacto nessa conta, e não nas outras contas também.
