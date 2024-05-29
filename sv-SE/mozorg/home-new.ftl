@@ -41,6 +41,10 @@ home-is-mozilla-a-corporation = Är { -brand-name-mozilla } ett företag eller e
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } består av två organisationer. { -brand-name-mozilla-corporation } är helägt av den ideella 501(c) { -brand-name-mozilla-foundation }. Vilket innebär att vi inte har några skyldigheter till några aktieägare — enbart till vårt uppdrag.
 home-so-what-is-mozilla = Så, vad är { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = I grunden är { -brand-name-mozilla } en aktivistorganisation under ledning av { -brand-name-mozilla-foundation } som skapar förändring i världen genom en mängd olika initiativ, inklusive { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> och <a { $mozai }>{ -brand-name-mozilla-ai }</a>. På vilket sätt är vi olika? Eftersom vi är uppdragsdrivna betyder det att vi har friheten att fatta alla våra beslut baserat på vad som är bäst för internet och för alla som är online, inte baserat på aktieägarnas krav — vi har faktiskt ingen av dessa.
 home-learn-about-mofo = Lär dig mer om { -brand-name-mozilla-foundation }
 home-join-the-fight = Gå med i kampen för ett hälsosamt internet
 home-your-voice-your-code = Din röst. Din kod. Dina idéer. Det finns bokstavligen tusentals sätt du kan bidra till { -brand-name-mozilla }.
@@ -56,4 +60,7 @@ home-get-news-and-tips = Få nyheter och tips från { -brand-name-mozilla } för
 home-featured-product = Utvald produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Dölj din plats och aktivitet med <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Bygg vår rörelse
+home-mofo-donate-to-mofo-today = Donera till { -brand-name-mozilla-foundation } idag för att säkerställa att internet förblir öppet och tillgängligt för alla.
 home-mofo-donate = Donera
