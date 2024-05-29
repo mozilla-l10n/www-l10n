@@ -29,8 +29,8 @@ home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
 home-product-monitor-data = 数据外泄警报
 home-product-monitor-protect-your = 保护您的隐私信息不受数据中小型企业窃取
 home-cta-get-monitor = 使用 { -brand-name-monitor }
-home-product-fakespot-detect = 检测虚假购物评论
-home-cta-get-fakespot = 下载 { -brand-name-fakespot }
+home-product-fakespot-detect = 检测购物网站上的虚假评价
+home-cta-get-fakespot = 获取 { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
@@ -64,4 +64,4 @@ home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = 打造我们的运动
 home-mofo-donate-to-mofo-today = 立即捐款给 { -brand-name-mozilla-foundation }以确保互联网保持开放且人人可用。
-home-mofo-donate = 捐赠
+home-mofo-donate = 捐款
