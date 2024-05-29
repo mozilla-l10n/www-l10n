@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios
 navigation-v2-get-the-mobile-browser = Загрузите мобильный браузер для своего { -brand-name-iphone } или { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Просто приватный мобильный веб-сёрфинг.
-navigation-v2-privacy-promise = Обещание по Приватности
-navigation-v2-learn-how-firefox-treats = Узнайте, насколько уважительно { -brand-name-firefox } относится к вашим данным.
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Узнавайте о новых возможностях { -brand-name-firefox } и находите способы оставаться в безопасности в Интернете.
 navigation-v2-release-notes = Примечания к выпуску
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Посмотреть все { -brand-n
 navigation-v2-products = Продукты
 navigation-v2-close-products-menu = Закрыть меню «Продукты»
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Узнайте, не был ли затронут ваш адрес электронной почты утечками данных.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Сохраняйте и открывайте для себя лучшие статьи со всего Интернета.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Получите помощь в предотвращении сбора ваших данных { -brand-name-facebook(case: "instrumental") } за пределами их сайта.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Получите доступ к защите не только в браузере, но и на самих устройствах.
-navigation-v2-product-promise = Обещание по Продуктам
-navigation-v2-learn-how-each-firefox-product = Узнайте, как каждый продукт { -brand-name-firefox } защищает и уважает ваши данные.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
 navigation-v2-sign-up-for-new-accounts = Регистрируйте новые аккаунты, не сообщая свой реальный адрес электронной почты.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Новые функции и инструменты для персонализации { -brand-name-mdn }
 navigation-v2-view-all-products = Посмотреть все продукты
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Используйте ИИ для обнаружения фальшивых отзывов и мошенников
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Вакансии
 navigation-v2-work-for-a-mission-driven-updated = Работайте в организации, движимой миссией и создающей продукты, ставящих людей на 1-е место.
 navigation-v2-mozilla-blog = Блог { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Узнайте о { -brand-name-mozilla } и проблемах, которые важны для нас.
-navigation-v2-stories = Истории
-navigation-v2-stories-about-how = Истории о том, как наши люди и продукты меняют мир к лучшему.
 navigation-v2-more-about-mozilla = Подробнее о { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Новшества
 navigation-v2-close-innovation-menu = Закрыть меню «Новшества»
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Соберитесь в этом интерактивном многомерном социальном пространстве онлайн.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Загрузите версию { -brand-name-firefox }, созданную специально для разработчиков.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
