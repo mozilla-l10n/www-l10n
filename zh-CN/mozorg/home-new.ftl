@@ -19,17 +19,33 @@ home-product-firefox-browsing = 安全私密的浏览体验
 home-cta-get-firefox = 下载 { -brand-name-firefox }
 home-product-pocket-articles = 网络上引人入胜的文章
 home-cta-get-pocket = 获取 { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 简单易用的马甲邮箱与虚拟手机号
+home-product-relay-hide-your = 对垃圾发送者隐藏您的电话号码和电子邮件地址
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = 数据外泄警报
+home-product-monitor-protect-your = 保护您的隐私信息不受数据中小型企业窃取
 home-cta-get-monitor = 使用 { -brand-name-monitor }
+home-product-fakespot-detect = 检测虚假购物评论
+home-cta-get-fakespot = 下载 { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = 加入我们塑造可信赖的 AI
+home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事 — 多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能优先考虑透明度和支持公共利益而非公司议程。
+home-read-more = 详细了解
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？两者兼备。
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } 由两个组织组成。 { -brand-name-mozilla-corporation } 由 501(c) 非营利组织 { -brand-name-mozilla-foundation }全资拥有。这意味着我们不受制于任何股东，可以专注于我们的使命。
+home-so-what-is-mozilla = { -brand-name-mozilla } 是什么
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla }是一个由{ -brand-name-mozilla-foundation }领导的维权人士组织通过各种风险投资改变世界包括{ -brand-name-mozilla-corporation }、MZLA、<a { $ventures }> { -brand-name-mozilla-ventures }</a> 和 <a { $mozai }> { -brand-name-mozilla-ai }</a>。我们有什么不同因为我们是由使命驱动意味着我们可以根据什么最有利于互联网和每个网络上的人而不是股东的需求来做出我们所有的决定——实际上我们没有。
 home-learn-about-mofo = 了解 { -brand-name-mozilla-foundation }
 home-join-the-fight = 加入争取互联网健康的行列。
 home-your-voice-your-code = 您的声音、您的代码、您的想法……您可以通过丰富多样的方式来为 { -brand-name-mozilla } 贡献力量。
@@ -45,3 +61,7 @@ home-get-news-and-tips = 从 { -brand-name-mozilla } 获取新闻和提示，以
 home-featured-product = 精选产品
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span> 掩藏您的位置和活动
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = 打造我们的运动
+home-mofo-donate-to-mofo-today = 立即捐款给 { -brand-name-mozilla-foundation }以确保互联网保持开放且人人可用。
+home-mofo-donate = 捐赠
