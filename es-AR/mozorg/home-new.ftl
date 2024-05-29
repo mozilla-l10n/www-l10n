@@ -19,17 +19,33 @@ home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Conseguí { -brand-name-firefox }
 home-product-pocket-articles = Los artículos más intrigantes de la web
 home-cta-get-pocket = Conseguí { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Máscaras de correo electrónico y teléfono fáciles de usar
+home-product-relay-hide-your = Ocultar tu número de teléfono y correo electrónico de los spammers
 home-cta-get-relay = Conseguí { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que podés confiar
 home-cta-get-vpn = Conseguí { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de filtración de datos
+home-product-monitor-protect-your = Protegé tu información privada de los corredores de datos
 home-cta-get-monitor = Conseguí { -brand-name-monitor }
+home-product-fakespot-detect = Detectar comentarios falsos sobre compras
+home-cta-get-fakespot = Obtener { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } está haciendo apuestas para mostrar al mundo que se puede hacer negocio con una IA confiable. Eso incluye poner aspectos como los derechos humanos, la protección de datos y la transparencia en el centro de cómo funcionan estos complejos sistemas”.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Únete a nosotros para moldear una IA confiable
+home-work-on-ai = El trabajo de { -brand-name-mozilla } con la IA no es solo algo nuevo: hemos pasado años financiando, construyendo y abogando por una IA que sea abierta, justa y se desarrolle de manera responsable. Nuestro enfoque está en crear una IA que esté al servicio de la gente, priorice la transparencia y apoye el bien público, no las agendas corporativas.
+home-read-more = Lee más
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = ¿{ -brand-name-mozilla } es una corporación o una organización sin fines de lucro? De hecho, ambas.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad total de la { -brand-name-mozilla-foundation } sin fines de lucro 501 (c). Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
+home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = En esencia, { -brand-name-mozilla } es una organización activista liderada por { -brand-name-mozilla-foundation } que provoca cambios en el mundo a través de una variedad de empresas que incluyen { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures } </a> y <a { $mozai }> { -brand-name-mozilla-ai } </a>. ¿En qué somos diferentes? Debido a que estamos impulsados por una misión, significa que tenemos la libertad de tomar todas nuestras decisiones basándonos en lo que es mejor para Internet y para todos en línea, no en función de las demandas de los accionistas: en realidad no tenemos ninguna de ellas.
 home-learn-about-mofo = Conocé sobre la { -brand-name-mozilla-foundation }
 home-join-the-fight = Unite a la lucha por una Internet saludable
 home-your-voice-your-code = Tu voz. Tu código. Tus ideas. Hay literalmente miles de formas en las que podés contribuir con { -brand-name-mozilla }.
@@ -45,3 +61,7 @@ home-get-news-and-tips = Recibí noticias y consejos de { -brand-name-mozilla } 
 home-featured-product = Producto destacado
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Difuminá tu ubicación y actividad usando <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Construye nuestro movimiento
+home-mofo-donate-to-mofo-today = Doná a la { -brand-name-mozilla-foundation } hoy para asegurar que Internet permanezca abierto y accesible para todos.
+home-mofo-donate = Donar
