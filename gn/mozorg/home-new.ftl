@@ -30,12 +30,16 @@ home-product-monitor-data = Mongyhyje mba’ekuaarã ñembogua rehe
 home-product-monitor-protect-your = Emo’ã ne maranduete mba’ekuaarã mbyatyhágui
 home-cta-get-monitor = Ereko { -brand-name-monitor }
 home-product-fakespot-detect = Ehechakuaa jejoguarã japuguáva
+home-cta-get-fakespot = Ereko { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Político
+home-join-us-in-shaping = Ejuaju ore rehe jajapo hag̃ua IA jeroviaha
+home-read-more = Emoñe’ẽve
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } ha’épa mba’apoha térã tendaguasu oku’eva viru’ỹre. Peichaite, mokõivéva.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } oguereko mokõi tendaguasu. { -brand-name-mozilla-corporation } ha’e { -brand-name-mozilla-foundation } mba’eteete omba’apóva viru ñembyatyrã’ỹre 501 (c). He’iséva ndojedeveiha mavavetépe —  hembiaporãme añoite.
+home-so-what-is-mozilla = Upévare, ¿mba’e { -brand-name-mozilla }?
 home-learn-about-mofo = Eikuaave { -brand-name-mozilla-foundation } rehegua
 home-join-the-fight = Eipytyvõke ñanduti hekoresãi hag̃ua
 home-your-voice-your-code = Ne ñe’ẽ. Nde ayvu. Ne remimo’ã. Oĩ hetaiterei hendáicha eipytyvõkuaaha { -brand-name-mozilla } ndive.
