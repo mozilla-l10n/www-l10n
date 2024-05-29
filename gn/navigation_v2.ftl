@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios } peg�
 navigation-v2-get-the-mobile-browser = - Ereko kundahára oku’éva { -brand-name-iphone } peg̃uarã térã { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Ñeikundaha pumbyry ñemigua.
-navigation-v2-privacy-promise = Ñemigua Ñe’ẽme’ẽ
-navigation-v2-learn-how-firefox-treats = Eikuaa mba’éichapa { -brand-name-firefox } oreko poyhúpe ne mba’ekuaarã.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-read-about-new-firefox-features = Emoñe’ẽ { -brand-name-firefox } rembiapokue pyahu ha eikuaa mba’éichapa ne rekorosãvéta ñandutípe.
 navigation-v2-release-notes = Jehaipy Rehegua
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Ehechapa { -brand-name-firefox-browser
 navigation-v2-products = Apopyre
 navigation-v2-close-products-menu = Emboty poravorã Apopyre
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Ehechajey ne ñanduti veve ojekuaápa mba’ekuaarã ñembyai mba’apohaguasúpe.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Eñongatu ha ehecha tembiasakue iporãva ñanduti pegua.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Eipytyvõ { -brand-name-facebook } omboyke ne mba’ekuaarã ñembyaty tendágui okápe.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Erekóta ñemo’ã ne kundaháragui, opaite ne mba’e’okápe.
-navigation-v2-product-promise = Apopyre Ñe’ẽme’ẽ
-navigation-v2-learn-how-each-firefox-product = Eikuaa mba’éichapa peteĩteĩva { -brand-name-firefox } apopyre omo’ã ha omomba’e ne mba’ekuarã.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’ete pyahu eme’ẽ’ỹre ne ñanduti veve.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Tembiapoite pyahu ha tembiporu eike hag̃ua { -brand-name-mdn } mba’erãteévape
 navigation-v2-view-all-products = Ehechapaite Apopyre
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Eiporu IA ehecha hag̃ua marandu vai ha jehode
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Mbo’esyryete
 navigation-v2-work-for-a-mission-driven-updated = Emba’apo peteĩ atyguasu orekóva hembipotáramo apopyre opavavépe g̃uarãva.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuãi romomba’éva.
-navigation-v2-stories = Tembiasakue
-navigation-v2-stories-about-how = Tembiasakue mba’éichapa yvypóra ha ore apopyre omoporãve arapy.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
 
 navigation-v2-innovation = Ñembopyahu
 navigation-v2-close-innovation-menu = Emboty poravorã ñembopyahugua
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Eike ko tekoha oñondiveguáva pa’ũme, ñandutípe, hekojeku’etáva.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Erekóke { -brand-name-firefox } ha’éva mboguatahárape g̃uarã añoite.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
