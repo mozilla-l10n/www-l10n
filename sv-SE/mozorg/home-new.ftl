@@ -27,6 +27,7 @@ home-product-vpn-trust = Ett VPN du kan lita på
 home-cta-get-vpn = Hämta { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Varningar för dataintrång
+home-product-monitor-protect-your = Skydda din privata information från datainsamlare
 home-cta-get-monitor = Skaffa { -brand-name-monitor }
 home-product-fakespot-detect = Upptäck falska shoppingrecensioner
 home-cta-get-fakespot = Hämta { -brand-name-fakespot }
