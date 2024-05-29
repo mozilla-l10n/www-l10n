@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = 下載適用於 { -brand-name-iphone } 或 { -brand-name-ipad } 的行動瀏覽器。
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = 單純的隱私保護瀏覽器。
-navigation-v2-privacy-promise = 隱私權承諾
-navigation-v2-learn-how-firefox-treats = 了解 { -brand-name-firefox } 如何以尊重您的方式，處理相關資料。
 navigation-v2-firefox-blog = { -brand-name-firefox } 部落格
 navigation-v2-read-about-new-firefox-features = 了解 { -brand-name-firefox } 的新功能，並取得在網路上確保安全的方式。
 navigation-v2-release-notes = 發行公告
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = 檢視所有版本的 { -brand-name-fi
 navigation-v2-products = 產品
 navigation-v2-close-products-menu = 關閉產品選單
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = 看看您的電子郵件信箱是否出現於某個企業的資料外洩事件當中。
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = 儲存並探索網路上最佳的文章內容。
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = 幫助防止 { -brand-name-facebook } 在他們的網站外收集您的資料。
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = 在您的所有裝置而不只是瀏覽器也能獲得保護。
-navigation-v2-product-promise = 產品承諾
-navigation-v2-learn-how-each-firefox-product = 了解各 { -brand-name-firefox } 產品如何尊重您，保護您的資料。
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = 不用交出電子郵件地址就能註冊新帳號。
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 讓您有 { -brand-name-mdn } 客製化體驗的全新功能與工具
 navigation-v2-view-all-products = 檢視所有產品
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = 使用 AI 偵測虛假評論與詐騙
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = 徵才啟事
 navigation-v2-work-for-a-mission-driven-updated = 在一家以任務導向運作，打造以人為本產品的組織工作。
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 部落格
 navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我們所在意的議題。
-navigation-v2-stories = 故事
-navigation-v2-stories-about-how = 我們的成員與產品，如何讓世界變得更好的故事。
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } 的更多資訊
 
 ## Innovation menu
 
 navigation-v2-innovation = 創新
 navigation-v2-close-innovation-menu = 關閉創新選單
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = 在這個多維度的線上互動社交空間集合。
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = 下載專為開發者打造的 { -brand-name-firefox } 版本。
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
