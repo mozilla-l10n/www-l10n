@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Eiporu { -brand-name-firefox } pumbyr�
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Emondo { -brand-name-firefox } ne pumbyrýpe<br> ha eiporu ñanduti ejaposeháicha.
 whatsnew-s2d-download-firefox-for-your = Emboguejy { -brand-name-firefox } ne pumbyry ha’evéva ha tablétape.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Emoha’ãnga ko QR ayvu

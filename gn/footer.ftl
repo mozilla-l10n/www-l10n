@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 footer-privacy-hub = Ñemigua Ñe’ã
 footer-privacy = Ñemigua
 footer-press = Jopy
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog oñondivegua
+footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Kundahára Atyguasu
 footer-brand-standards = Marca reko’ypy
 footer-browsers = Kundahára

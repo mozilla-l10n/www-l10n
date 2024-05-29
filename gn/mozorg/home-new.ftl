@@ -19,15 +19,22 @@ home-product-firefox-browsing = Ñeikundaha iñemi ha hekorosãva
 home-cta-get-firefox = Erekóke { -brand-name-firefox }
 home-product-pocket-articles = Umi jehaipyre hesakã’ỹva ñandutípe
 home-cta-get-pocket = Erekóke { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Pumbyry ha ñanduti veve rovamo’ãha hasy’ỹva ijeporu
+home-product-relay-hide-your = Eñomi pumbyry papapy ha ñanduti veve spammer-gui
 home-cta-get-relay = Erekóke { -brand-name-relay }
 home-product-vpn-trust = VPN ejeroviakuaaha
 home-cta-get-vpn = Erekóke { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Mongyhyje mba’ekuaarã ñembogua rehe
+home-product-monitor-protect-your = Emo’ã ne maranduete mba’ekuaarã mbyatyhágui
 home-cta-get-monitor = Ereko { -brand-name-monitor }
+home-product-fakespot-detect = Ehechakuaa jejoguarã japuguáva
 # Politico is a brand name for a news organization
 home-politico-cite = Político
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } ha’épa mba’apoha térã tendaguasu oku’eva viru’ỹre. Peichaite, mokõivéva.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } oguereko mokõi tendaguasu. { -brand-name-mozilla-corporation } ha’e { -brand-name-mozilla-foundation } mba’eteete omba’apóva viru ñembyatyrã’ỹre 501 (c). He’iséva ndojedeveiha mavavetépe —  hembiaporãme añoite.
 home-learn-about-mofo = Eikuaave { -brand-name-mozilla-foundation } rehegua
 home-join-the-fight = Eipytyvõke ñanduti hekoresãi hag̃ua
