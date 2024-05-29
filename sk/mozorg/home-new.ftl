@@ -27,14 +27,25 @@ home-product-vpn-trust = VPN, ktorej môžete dôverovať
 home-cta-get-vpn = Získajte { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Upozornenia na úniky údajov
+home-product-monitor-protect-your = Chráňte svoje súkromné informácie pred sprostredkovateľmi údajov
 home-cta-get-monitor = Získajte { -brand-name-monitor }
+home-product-fakespot-detect = Rozpoznajte falošné nákupné recenzie
+home-cta-get-fakespot = Získajte { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } sa snaží ukázať svetu, že sa dá robiť biznis s dôveryhodnou AI. To zahŕňa aj to, aby sa veci ako ľudské práva, ochrana údajov a transparentnosť stali jadrom fungovania týchto zložitých systémov.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Pridajte sa k nám pri vytváraní dôveryhodnej AI
+home-work-on-ai = Práca s AI nie je pre { -brand-name-mozilla(case: "acc") } nová vec – roky financujeme, budujeme a obhajujeme AI, ktorá je otvorená, spravodlivá a vyvíja sa zodpovedne. Zameriavame sa na vytváranie AI, ktorá slúži ľuďom, uprednostňuje transparentnosť a podporuje verejné blaho, nie záujmy korporácií.
+home-read-more = Ďalšie informácie
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Je { -brand-name-mozilla } korporáciou alebo neziskovou organizáciou? Vlastne oboje.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } pozostáva z dvoch organizácií. { -brand-name-mozilla-corporation } je v úplnom vlastníctve neziskovej organizácie 501(c) { -brand-name-mozilla-foundation }. To znamená, že nie sme zaviazaní žiadnym akcionárom – iba nášmu poslaniu.
+home-so-what-is-mozilla = Čo je teda { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Vo svojom jadre je { -brand-name-mozilla } aktivistická organizácia vedená nadáciou { -brand-name-mozilla-foundation }, ktorá mení svet prostredníctvom rôznych aktivít vrátane { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čom sme iní? Keďže sme riadení poslaním, znamená to, že máme slobodu robiť všetky naše rozhodnutia na základe toho, čo je najlepšie pre internet a pre každého online, nie na základe požiadaviek akcionárov – v skutočnosti žiadnych nemáme.
 home-learn-about-mofo = Ďalšie informácie o { -brand-name-mozilla-foundation }
 home-join-the-fight = Zapojte sa do boja za zdravý internet
 home-your-voice-your-code = Váš hlas. Váš kód. Vaše nápady. Existujú doslova tisíce spôsobov, ako môžete { -brand-name-mozilla(case: "dat") } pomôcť.
@@ -50,3 +61,7 @@ home-get-news-and-tips = Získajte novinky a tipy od { -brand-name-mozilla(case:
 home-featured-product = Odporúčaný produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Rozmažte svoju polohu a aktivitu pomocou <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Budujte naše hnutie
+home-mofo-donate-to-mofo-today = Prispejte { -brand-name-mozilla-foundation } ešte dnes, aby ste zabezpečili, že internet zostane otvorený a prístupný pre všetkých.
+home-mofo-donate = Prispieť

@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } pre { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Získajte prehliadač pre svoj { -brand-name-iphone } alebo { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Jednoducho súkromné mobilné prehliadanie.
-navigation-v2-privacy-promise = Prísľub ohľadom súkromia
-navigation-v2-learn-how-firefox-treats = Pozrite sa, ako { -brand-name-firefox } zaobchádza s vašimi údajmi.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 navigation-v2-read-about-new-firefox-features = Prečítajte si o nových funkciách { -brand-name-firefox(case: "gen") }. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
 navigation-v2-release-notes = Poznámky k vydaniu
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Zobraziť všetky { -brand-name-firefo
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Zavrieť
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Skontrolujte, či sa vaša e‑mailová adresa objavila v úniku dát.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Ukladajte si a objavujte najlepšie články z celého webu.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Zabráňte { -brand-name-facebook(case: "dat") } v tom, aby vás sledoval mimo svojej stránky.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Ochrana aj mimo prehliadača - na všetkých zariadeniach
-navigation-v2-product-promise = Prísľub ohľadom produktov
-navigation-v2-learn-how-each-firefox-product = Zistite, ako produkty s označením { -brand-name-firefox } chránia a rešpektujú vaše dáta.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujte si nové účty bez toho, aby ste museli prezradiť svoju e‑mailovú adresu.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nové funkcie a nástroje pre prispôsobené prostredie { -brand-name-mdn }
 navigation-v2-view-all-products = Zobraziť všetky produkty
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Využite AI na odhalenie falošných recenzií a podvodov
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Zamestnanie
 navigation-v2-work-for-a-mission-driven-updated = Pracujte pre organizáciu, ktorá tvorí produkty s určitým zmyslom.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-mozilla-and = Zistite viac o { -brand-name-mozilla(case: "loc") } a o problémoch, na ktorých vyriešení nám záleží.
-navigation-v2-stories = Príbehy
-navigation-v2-stories-about-how = Príbehy o tom, ako naši ľudia a produkty menia svet k lepšiemu.
 navigation-v2-more-about-mozilla = Ďalšie informácie o { -brand-name-mozilla(case: "loc") }
 
 ## Innovation menu
 
 navigation-v2-innovation = Inovácie
 navigation-v2-close-innovation-menu = Zavrieť
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Navštívte tento interaktívny, multidimenzionálny sociálny priestor online.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Získajte { -brand-name-firefox } vytvorený priamo pre vývojárov.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
