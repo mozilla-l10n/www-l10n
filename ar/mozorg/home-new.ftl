@@ -23,11 +23,17 @@ home-product-firefox-browsing = تصفّح خاص وآمن
 home-cta-get-firefox = نزِّل متصفح { -brand-name-firefox }
 home-product-pocket-articles = مقالات أكثر إثارة للاهتمام على الإنترنت
 home-cta-get-pocket = نزِّل متصفح { -brand-name-pocket }
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = قِناعات بريد إلكتروني وهاتف سهلة الاستخدام
+
 home-cta-get-relay = نزِّل متصفح { -brand-name-relay }
 home-product-vpn-trust = شبكة افتراضية خاصة تثق بها
 home-cta-get-vpn = نزِّل متصفح { -brand-name-mozilla-vpn }
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = تنبيهات خرق البيانات
+
 home-cta-get-monitor = نزِّل متصفح { -brand-name-monitor }
 
 home-mozilla-takes-bets = "تراهن { -brand-name-mozilla } لتُثبت للعالم أن هناك أعمال يُمكن تنفيذها بالاعتماد على الذكاء الاصطناعي الموثوق. وهذا يتضمّن ضرورة وضع مجموعة من العوامل مثل حقوق الإنسان وحماية البيانات والشفافية في قلب هذه الأنظمة المعقّدة."
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = "تراهن { -brand-name-mozilla } لتُثبت لل�
 # Politico is a brand name for a news organization
 home-politico-cite = بوليتيكو
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = هل { -brand-name-mozilla } شركة أو مؤسسة غير ربحية؟ إنها الاثنين معًا في واقع الأمر.
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = تتكوّن { -brand-name-mozilla } من مُؤسستين. تُعد { -brand-name-mozilla-corporation } مملوكة بالكامل لشركة { -brand-name-mozilla-foundation } غير الربحية 501(c). وهذا يعني أننا لسنا مُلتزمين بأي شيء لأي مُساهمين — بل نحن ملتزمون برسالتنا فقط.
+
+
+
 home-learn-about-mofo = معرفة المزيد عن { -brand-name-mozilla-foundation }
 
 home-join-the-fight = انضم إلى كتيبة الدفاع عن السلامة على الإنترنت.
@@ -57,3 +70,4 @@ home-featured-product = منتج مُميز
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = إخفِ موقعك ونشاطك باستخدام <span>{ -brand-name-mozilla-vpn }</span>
+

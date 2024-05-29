@@ -23,11 +23,17 @@ home-product-firefox-browsing = Privates und sicheres Browsen
 home-cta-get-firefox = Hol dir jetzt { -brand-name-firefox }
 home-product-pocket-articles = Die spannendsten Artikel im Internet
 home-cta-get-pocket = Hol dir jetzt { -brand-name-pocket }
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Einfach zu verwendende E-Mail- und Telefonmasken
+
 home-cta-get-relay = Hol dir jetzt { -brand-name-relay }
 home-product-vpn-trust = Ein VPN, dem Sie vertrauen können
 home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Warnmeldungen zu Datenlecks
+
 home-cta-get-monitor = Hol dir jetzt { -brand-name-monitor }
 
 home-mozilla-takes-bets = „{ -brand-name-mozilla } möchte der Welt unter Beweis stellen, dass man mit vertrauenswürdiger KI Geld verdienen kann. Das schließt Dinge wie Menschenrechte, Datenschutz und Transparenz ein, die für den Betrieb dieser komplexen Systeme von zentraler Bedeutung sind.“
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = „{ -brand-name-mozilla } möchte der Welt unter Bewe
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Ist { -brand-name-mozilla } ein Unternehmen oder eine Non-Profit-Organisation? Beides, wenn man's genau nimmt.
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } besteht aus zwei Organisationen. Die { -brand-name-mozilla-corporation } ist zu 100 % im Besitz der Non-Profit 501(c) { -brand-name-mozilla-foundation }. Wir sind also nicht an Shareholder gebunden, sondern nur an unsere Mission.
+
+
+
 home-learn-about-mofo = Erfahren Sie mehr über die { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Kämpfen Sie mit uns für ein gesundes Internet
@@ -57,3 +70,4 @@ home-featured-product = Vorgestelltes Produkt
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Verwischen Sie mit <span>{ -brand-name-mozilla-vpn }</span> Ihren Standort und Ihre Aktivitäten
+

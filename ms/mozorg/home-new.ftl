@@ -23,11 +23,17 @@ home-product-firefox-browsing = Pelayaran yang privasi & selamat
 home-cta-get-firefox = Dapatkan { -brand-name-firefox }
 home-product-pocket-articles = Artikel dari internet yang paling menarik
 home-cta-get-pocket = Dapatkan { -brand-name-pocket }
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Samaran e-mel & telefon yang mesra pengguna
+
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang anda boleh percayai
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Amaran pencerobohan data
+
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
 
 home-mozilla-takes-bets = "{ -brand-name-mozilla } bersungguh-sungguh demi membuktikan kepada dunia bahawa perniagaan tetap boleh berjalan lancar dengan menggunakan AI yang boleh dipercayai. Ini termasuklah meletakkan hak asasi manusia, perlindungan data serta ketelusan sebagai batu asas di dalam pembangunan sistem yang kompleks."
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = "{ -brand-name-mozilla } bersungguh-sungguh demi membu
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Adakah { -brand-name-mozilla } sebuah syarikat atau badan bukan berasaskan keuntungan? Kedua-duanya sekali.
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } terdiri daripada dua organisasi. { -brand-name-mozilla-corporation } dimiliki sepenuhnya oleh 501(c) bukan berasaskan keuntungan iaitu { -brand-name-mozilla-foundation }. Bermakna, kami bukan bertanggungjawab kepada mana-mana pemegang saham — dalam misi kami.
+
+
+
 home-learn-about-mofo = Ketahui tentang { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Sertailah perjuangan untuk internet yang lebih sihat
@@ -57,3 +70,4 @@ home-featured-product = Produk paparan
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Kaburkan lokasi &amp; aktiviti anda menggunakan <span>{ -brand-name-mozilla-vpn }</span>
+

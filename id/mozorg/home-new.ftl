@@ -23,11 +23,17 @@ home-product-firefox-browsing = Penjelajahan yang pribadi & aman
 home-cta-get-firefox = Dapatkan { -brand-name-firefox }
 home-product-pocket-articles = Artikel web yang paling menarik
 home-cta-get-pocket = Dapatkan { -brand-name-pocket }
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Penyamaran surel & telepon yang mudah digunakan
+
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang tepercaya
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Peringatan tentang pelanggaran data
+
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
 
 home-mozilla-takes-bets = “{ -brand-name-mozilla } berani menunjukkan kepada dunia bahwa ada bisnis yang dapat dibangun dengan AI yang tepercaya. Dengan menjadikan hak asasi manusia, perlindungan data, dan transparansi sebagai inti dari cara kerja sistem yang kompleks ini.”
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } berani menunjukkan kepada d
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Apakah { -brand-name-mozilla } itu sebuah perusahaan atau organisasi nirlaba? Sesungguhnya, keduanya.
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } terdiri dari dua organisasi. { -brand-name-mozilla-corporation } sepenuhnya dimiliki oleh organisasi nirlaba 501(c) { -brand-name-mozilla-foundation }. Artinya, kami tidak terikat pada pemegang saham mana pun — hanya pada misi kami.
+
+
+
 home-learn-about-mofo = Pelajari tentang { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Ikut memperjuangkan internet yang sehat
@@ -57,3 +70,4 @@ home-featured-product = Produk unggulan
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Samarkan lokasi &amp; aktivitas Anda menggunakan <span>{ -brand-name-mozilla-vpn }</span>
+

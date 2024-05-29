@@ -23,11 +23,17 @@ home-product-firefox-browsing = プライバシーとセキュリティを守る
 home-cta-get-firefox = { -brand-name-firefox } をダウンロード
 home-product-pocket-articles = ウェブで一番興味深い記事
 home-cta-get-pocket = { -brand-name-pocket } をダウンロード
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 使いやすいメール・電話マスク
+
 home-cta-get-relay = { -brand-name-relay } をダウンロード
 home-product-vpn-trust = 信頼できる VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = データ侵害通知
+
 home-cta-get-monitor = { -brand-name-monitor } をダウンロード
 
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } は、信頼できる AI を使って実現するビジネスがあることを世界に示す取り組みをしています。その中で、人権やデータ保護、透明性などをこれらの複雑なシステムの中核に据えています」
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = 「{ -brand-name-mozilla } は、信頼できる AI �
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } は会社、それとも非営利団体？ 両方です。
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } は 2 つの組織で構成されています。{ -brand-name-mozilla-corporation } は、501(c) 非営利団体 { -brand-name-mozilla-foundation } が完全所有しています。つまり、株主には依存せず、そのミッションだけが原動力になっているのです。
+
+
+
 home-learn-about-mofo = { -brand-name-mozilla-foundation } の詳細をご覧ください
 
 home-join-the-fight = 共に健全なインターネットを作りましょう
@@ -57,3 +70,4 @@ home-featured-product = おすすめの製品
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> であなたの現在地とアクティビティを秘匿
+

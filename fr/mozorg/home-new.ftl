@@ -23,11 +23,17 @@ home-product-firefox-browsing = Navigation privée et sécurisée
 home-cta-get-firefox = Installer { -brand-name-firefox }
 home-product-pocket-articles = Les articles les plus intrigants du Web
 home-cta-get-pocket = Installer { -brand-name-pocket }
+
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Des alias de messagerie et de numéro de téléphone simples à utiliser
+
 home-cta-get-relay = Installer { -brand-name-relay }
 home-product-vpn-trust = Un VPN de confiance
 home-cta-get-vpn = Installer { -brand-name-mozilla-vpn }
+
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertes sur les fuites de données
+
 home-cta-get-monitor = Installer { -brand-name-monitor }
 
 home-mozilla-takes-bets = « { -brand-name-mozilla } parie sur le fait de montrer au monde qu’il est possible de concevoir et de commercialiser une IA digne de confiance. Ce concept nécessite de placer les droits humains, la protection des données et la transparence au cœur du fonctionnement de ces systèmes complexes. »
@@ -35,8 +41,15 @@ home-mozilla-takes-bets = « { -brand-name-mozilla } parie sur le fait de montr
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } : entreprise ou organisation à but non lucratif ? Les deux, en vérité.
+
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } est constituée de deux organisations. { -brand-name-mozilla-corporation } est entièrement détenue par l’organisation à but non lucratif 501(c) { -brand-name-mozilla-foundation }. Ce qui signifie que nous ne rendons de comptes à aucun actionnaire ; seule notre mission importe.
+
+
+
 home-learn-about-mofo = En savoir plus sur la { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Aidez-nous à lutter pour un Internet en bonne santé
@@ -57,3 +70,4 @@ home-featured-product = Produit mis en avant
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Masquez votre localisation et votre activité avec <span>{ -brand-name-mozilla-vpn }</span>
+
