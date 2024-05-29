@@ -120,6 +120,8 @@
 -brand-name-mozilla-account = Conta Mozilla
 -brand-name-mozilla-accounts = contas Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla IA
+-brand-name-mozilla-ventures = Mozilla Enterprises
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)

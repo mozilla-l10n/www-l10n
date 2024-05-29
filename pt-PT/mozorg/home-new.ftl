@@ -19,17 +19,33 @@ home-product-firefox-browsing = Navegação privada e segura
 home-cta-get-firefox = Obter o { -brand-name-firefox }
 home-product-pocket-articles = Os artigos mais intrigantes da Web
 home-cta-get-pocket = Obter o { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Máscaras de e-mail e telefone de fácil utilização
+home-product-relay-hide-your = Oculte o seu número de telefone e o seu e-mail de spammers
 home-cta-get-relay = Obter o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que pode confiar
 home-cta-get-vpn = Obter a { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de violações de dados
+home-product-monitor-protect-your = Proteja as suas informações privadas de agentes de dados
 home-cta-get-monitor = Obter o { -brand-name-monitor }
+home-product-fakespot-detect = Detetar análises de compras falsas
+home-cta-get-fakespot = Obter o { -brand-name-fakespot }
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está a aceitar escolhas para mostrar ao mundo que pode fazer negócios com uma IA confiável. Isto inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como funcionam estes sistemas complexos.”
 # Politico is a brand name for a news organization
 home-politico-cite = Política
+home-join-us-in-shaping = Junte-se a nós para moldar uma IA confiável
+home-work-on-ai = O trabalho da { -brand-name-mozilla } com IA não é apenas uma coisa nova — passou anos a financiar, construir e defender uma IA que é aberta, correta e desenvolvida com responsabilidade. O nosso foco está na criação de uma IA que ajude as pessoas, que dê prioridade à transparência e que apoie o bem público, e não em agendas corporativas.
+home-read-more = Ler mais
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma empresa ou uma organização sem fins lucrativos? Na verdade, ambos.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = A { -brand-name-mozilla } é composta por duas organizações. A { -brand-name-mozilla-corporation } é propriedade da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. O que significa que não estamos devedores a quaisquer ações — apenas à nossa missão.
+home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = No seu centro, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que faz mudanças no mundo através de uma variedade de empresas, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures }</a> e <a { $mozai }> { -brand-name-mozilla-ai }</a>. Como é que nós somos diferentes? Porque somos focados na missão, isso significa que temos a liberdade para tomar todas as nossas decisões com base no que é melhor para a Internet e para todos na Internet, não com base nas exigências dos parceiros — na verdade, não temos nenhuma destas questões.
 home-learn-about-mofo = Saber mais sobre a { -brand-name-mozilla-foundation }
 home-join-the-fight = Junte-se à luta por uma internet saudável
 home-your-voice-your-code = A sua voz. O seu código. As suas ideias. Existem milhares de formas de contribuir para a { -brand-name-mozilla }.
@@ -45,3 +61,7 @@ home-get-news-and-tips = Obtenha notícias e dicas da { -brand-name-mozilla } pa
 home-featured-product = Produto em destaque
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Desfoque a sua localização e atividade utilizando a <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Construir o nosso movimento
+home-mofo-donate-to-mofo-today = Faça um donativo hoje para a { -brand-name-mozilla-foundation } para garantir que a Internet se mantém aberta e acessível a todos.
+home-mofo-donate = Doar
