@@ -19,16 +19,21 @@ home-product-firefox-browsing = Súkromné a bezpečné prehliadanie
 home-cta-get-firefox = Nainštalujte si { -brand-name-firefox }
 home-product-pocket-articles = Najzaujímavejšie články na webe
 home-cta-get-pocket = Získajte { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Ľahko použiteľné e‑mailové a telefónne masky
+home-product-relay-hide-your = Skryte svoje telefónne číslo a e‑mail pred spamermi
 home-cta-get-relay = Získajte službu { -brand-name-relay }
 home-product-vpn-trust = VPN, ktorej môžete dôverovať
 home-cta-get-vpn = Získajte { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Upozornenia na úniky údajov
 home-cta-get-monitor = Získajte { -brand-name-monitor }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } sa snaží ukázať svetu, že sa dá robiť biznis s dôveryhodnou AI. To zahŕňa aj to, aby sa veci ako ľudské práva, ochrana údajov a transparentnosť stali jadrom fungovania týchto zložitých systémov.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Je { -brand-name-mozilla } korporáciou alebo neziskovou organizáciou? Vlastne oboje.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } pozostáva z dvoch organizácií. { -brand-name-mozilla-corporation } je v úplnom vlastníctve neziskovej organizácie 501(c) { -brand-name-mozilla-foundation }. To znamená, že nie sme zaviazaní žiadnym akcionárom – iba nášmu poslaniu.
 home-learn-about-mofo = Ďalšie informácie o { -brand-name-mozilla-foundation }
 home-join-the-fight = Zapojte sa do boja za zdravý internet
