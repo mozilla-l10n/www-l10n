@@ -19,17 +19,28 @@ home-product-firefox-browsing = Navigazione riservata e sicura
 home-cta-get-firefox = Ottieni { -brand-name-firefox }
 home-product-pocket-articles = Gli articoli più interessanti del web
 home-cta-get-pocket = Ottieni { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Alias email e per numeri di telefono facili da usare
+home-product-relay-hide-your = Proteggi il tuo numero di telefono e la tua email dagli spammer.
 home-cta-get-relay = Ottieni { -brand-name-relay }
 home-product-vpn-trust = Una VPN di cui ti puoi fidare
 home-cta-get-vpn = Ottieni { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Avvisi per violazioni di dati
+home-product-monitor-protect-your = Salvaguarda le tue informazioni personali dai broker di dati.
 home-cta-get-monitor = Ottieni { -brand-name-monitor }
+home-product-fakespot-detect = Individua recensioni false quando fai shopping
+home-cta-get-fakespot = Ottieni { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } sta investendo per mostrare al mondo che esistono opportunità di business per un’intelligenza artificiale affidabile. Ciò include mettere i diritti umani, la protezione dei dati e la trasparenza al centro del funzionamento di questi sistemi complessi.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Aiutaci a creare un’intelligenza artificiale affidabile
+home-read-more = Ulteriori informazioni
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } è una società o un’organizzazione senza fini di lucro? In realtà, entrambe.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } è composta da due organizzazioni. { -brand-name-mozilla-corporation } è interamente di proprietà dell’organizzazione non-profit 501(c) { -brand-name-mozilla-foundation }. Il che significa che non siamo legati ad alcun azionista, ma solo alla nostra missione.
+home-so-what-is-mozilla = Che cos’è { -brand-name-mozilla }?
 home-learn-about-mofo = Scopri { -brand-name-mozilla-foundation }
 home-join-the-fight = Unisciti alla lotta per un Internet in salute
 home-your-voice-your-code = La tua voce. Il tuo codice. Le tue idee. Ci sono migliaia di modi in cui puoi contribuire a { -brand-name-mozilla }.
@@ -45,3 +56,4 @@ home-get-news-and-tips = Ricevi da { -brand-name-mozilla } notizie e suggeriment
 home-featured-product = Prodotti consigliati
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Nascondi la tua posizione e le tue attività online con <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate = Fai una donazione
