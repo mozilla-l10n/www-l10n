@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Szerezze be a mobilböngészőt az { -brand-name-iphone }-ra vagy { -brand-name-ipad }-re.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Egyszerű, privát mobilböngészés.
-navigation-v2-privacy-promise = Adatvédelmi ígéret
-navigation-v2-learn-how-firefox-treats = Tudja meg, hogyan kezeli tisztelettel a { -brand-name-firefox } az Ön adatait.
 navigation-v2-firefox-blog = { -brand-name-firefox } blog
 navigation-v2-read-about-new-firefox-features = Olvasson az új { -brand-name-firefox } funkciókról, és a biztonságosabb online létről.
 navigation-v2-release-notes = Kiadási megjegyzések
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = { -brand-name-firefox-browsers } megte
 navigation-v2-products = Termékek
 navigation-v2-close-products-menu = Termékek menü bezárása
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Nézze meg, hogy az e-mail-címe szerepelt-e valamilyen vállalat adatvédelmi incidensében.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Mentse el és fedezze fel az internet legjobb történeteit.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Segítsen megakadályozni, hogy a { -brand-name-facebook } adatokat gyűjtsön Önről a saját webhelyükön kívül.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Szerezzen védelmet a böngészőjén túl, az összes eszközén.
-navigation-v2-product-promise = Termék ígéret
-navigation-v2-learn-how-each-firefox-product = Tudja meg, hogy a { -brand-name-firefox } termékek hogyan védik és tartják tiszteletben az adatait.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (béta)
 navigation-v2-sign-up-for-new-accounts = Regisztráljon új fiókokat anélkül, hogy átadná az e-mail-címét.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Új funkciók és eszközök a személyre szabott { -brand-name-mdn } élményhez
 navigation-v2-view-all-products = Összes termék megtekintése
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Használjon MI-t a hamis értékelések és csalások észlelésére
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Álláslehetőségek
 navigation-v2-work-for-a-mission-driven-updated = Dolgozzon egy küldetésvezérelt szervezetnek, amely olyan termékeket készít, melyek az embereket helyezik az első helyre.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról, és a számunkra fontos kérdésekről.
-navigation-v2-stories = Történetek
-navigation-v2-stories-about-how = Történetek arról, hogy az embereink és termékeink hogyan teszik jobbá a világot.
 navigation-v2-more-about-mozilla = További információk a { -brand-name-mozilla(ending: "accented") }ról
 
 ## Innovation menu
 
 navigation-v2-innovation = Innováció
 navigation-v2-close-innovation-menu = Innováció menü bezárása
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Gyülekezzen ebben az interaktív, online, többdimenziós közösségi térben.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Szerezze be a fejlesztők számára összeállított { -brand-name-firefox } böngészőt.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
