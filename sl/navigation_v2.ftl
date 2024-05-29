@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Pridobite mobilni brskalnik za { -brand-name-iphone } ali { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Preprosto zasebno mobilno brskanje.
-navigation-v2-privacy-promise = Zaveza k zasebnosti
-navigation-v2-learn-how-firefox-treats = Preberite, kako { -brand-name-firefox } spoštuje vaše podatke.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Preberite o najnovejših značilnostih { -brand-name-firefox }a in načinih, kako ostati varni na spletu.
 navigation-v2-release-notes = Opombe ob izdaji
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Oglej si vse { -brand-name-firefox-bro
 navigation-v2-products = Izdelki
 navigation-v2-close-products-menu = Zapri meni Izdelki
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Preverite, ali se je vaš e-poštni naslov znašel v kraji podatkov podjetja.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Shranjujte in odkrivajte najboljše zgodbe, ki jih ponuja splet.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Otežite { -brand-name-facebook }u zbiranje vaših podatkov zunaj svojega spletnega mesta.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Zagotovite si zaščito, ki presega okvire brskalnika, na vseh napravah.
-navigation-v2-product-promise = Zaveza izdelkov
-navigation-v2-learn-how-each-firefox-product = Oglejte si, kako vsak od izdelkov { -brand-name-firefox } ščiti in spoštuje vaše podatke.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Ustvarjajte nove račune, ne da bi razdajali svoj e-poštni naslov.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nove zmožnosti in orodja za prilagojeno izkušnjo { -brand-name-mdn }
 navigation-v2-view-all-products = Prikaži vse izdelke
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Z umetno inteligenco prepoznajte lažne ocene in prevare
 
 ## Who We Are menu
 
