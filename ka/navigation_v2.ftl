@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }-ზ�
 navigation-v2-get-the-mobile-browser = გადმოწერეთ ბრაუზერი თქვენი { -brand-name-iphone } ან { -brand-name-ipad }-ისთვის.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = გვერდების მობილურით მონახულება მარტივად და უსაფრთხოდ.
-navigation-v2-privacy-promise = პირადულობის დაცვის პირობა
-navigation-v2-learn-how-firefox-treats = იხილეთ, როგორ ღირსეულად ეპყრობა { -brand-name-firefox } თქვენს მონაცემებს.
 navigation-v2-firefox-blog = { -brand-name-firefox } სვეტი
 navigation-v2-read-about-new-firefox-features = იხილეთ, { -brand-name-firefox }-ის ახალი შესაძლებლობები და რჩევები, როგორ გამოიყენოთ ინტერნეტი უსაფრთხოდ.
 navigation-v2-release-notes = გამოშვების მონაცემები
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = იხილეთ { -brand-name-firef
 navigation-v2-products = პროდუქტები
 navigation-v2-close-products-menu = პროდუქტების მენიუს დახურვა
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = გაარკვიეთ, თქვენი ელფოსტა კომპანიებიდან მიტაცებულ მონაცემებში ხომ არ მოხვედრილა.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = გადაინახეთ და მოიძიეთ საუკეთესო ამბები, ვებსამყაროდან.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = არ მისცეთ { -brand-name-facebook }-ს თქვენზე მონაცემების შეგროვების საშუალება, მისი საიტის გარეთ.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = მიიღეთ უსაფრთხოება ბრაუზერის მიღმაც, ყველა თქვენს მოწყობილობაზე.
-navigation-v2-product-promise = პროდუქტებში პირადულობის პირობა
-navigation-v2-learn-how-each-firefox-product = იხილეთ, თითოეული { -brand-name-firefox }-პროდუქტი როგორ იცავს და პატივისცემით ეპყრობა თქვენს მონაცემებს.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (საცდელი)
 navigation-v2-sign-up-for-new-accounts = შექმენით ახალი ანგარიშები, თქვენი ელფოსტის გამჟღავნების გარეშე.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = ახალი შესაძლებლობები, ხელსაწყოები და უკეთ მორგებული { -brand-name-mdn }
 navigation-v2-view-all-products = იხილეთ ყველა პროდუქტი
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = გამოიყენეთ ხელოვნური ინტელექტი ყალბი მიმოხილვებისა და თაღლითობის დასადგენად
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = დასაქმება
 navigation-v2-work-for-a-mission-driven-updated = იმუშავეთ დაწესებულებაში, რომელიც ისწრაფვის განსაზღვრული მიზნისკენ და ქმნის ხალხის უწინარესობის უზრუნველმყოფ პროდუქტებს.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } სვეტი
 navigation-v2-learn-about-mozilla-and = იხილეთ { -brand-name-mozilla } და საკითხები, რომლებიც მეტად გვაღელვებს.
-navigation-v2-stories = ამბები
-navigation-v2-stories-about-how = ამბები, რომლებიც მოგითხრობთ, როგორ ცვლის ჩვენი ხალხი და პროდუქტები სამყაროს უკეთესობისკენ.
 navigation-v2-more-about-mozilla = უკეთ გაიცანით { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = წამოწყებები
 navigation-v2-close-innovation-menu = წამოწყებების მენიუს დახურვა
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = შეიკრიბეთ ინტერაქტიულ, მრავალგანზომილებიან სოციალურ ინტერნეტსივრცეში.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = გამოიყენეთ { -brand-name-firefox }, შექმნილი საგანგებოდ შემმუშავებლებისთვის.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -19,17 +19,33 @@ home-product-firefox-browsing = პირადი და უსაფრთხ�
 home-cta-get-firefox = გადმოწერეთ { -brand-name-firefox }
 home-product-pocket-articles = ცნობისმოყვარეობის აღმძვრელი სტატიები
 home-cta-get-pocket = გამოიყენეთ { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = ელფოსტისა და ნომრის მოხერხებული შენიღბვა
+home-product-relay-hide-your = დაფარეთ თქვენი ტელეფონის ნომერი და ელფოსტა სპამისგან
 home-cta-get-relay = გამოცადეთ { -brand-name-relay }
 home-product-vpn-trust = VPN, რომელსაც ენდობით
 home-cta-get-vpn = ჩართეთ { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = ცნობები მონაცემთა მიტაცებისთვის
+home-product-monitor-protect-your = დაიცავით თქვენი პირადი ინფორმაცია მონაცემთა ბროკერებისგან
 home-cta-get-monitor = გამოიყენეთ { -brand-name-monitor }
+home-product-fakespot-detect = აღმოაჩინეთ ყალბი საყიდლების მიმოხილვები
+home-cta-get-fakespot = გამოიყენეთ { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla }-ს განზრახული აქვს, მსოფლიოს დაუმტკიცოს, რომ საქმის კეთება შეიძლება ნდობის მქონე ხელოვნური ინტელექტის მეშვეობითაც. ეს კი გულისხმობს, რომ ადამიანის უფლებების დაცვა, მონაცემთა უსაფრთხოება და გამჭვირვალობა უნდა დაედოს საფუძვლად ამგვარი რთული სისტემების შემუშავებას“.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = შემოგვიერთდით, სანდო ხელოვნური ინტელექტის ჩამოყალიბებაში
+home-work-on-ai = { -brand-name-mozilla }-ს მუშაობა AI-სთან ახალი არ არის — ჩვენ წლები ვხარჯავთ ხელოვნური ინტელექტის დაფინანსებას, მშენებლობას და მხარდაჭერისთვის, რომელიც ყოფილიყო გახსნილი, პატიოსანი და პასუხისმგებლობით განვითარებული. ჩვენი ყურადღება კეთდება ისეთი ხელოვნური ინტელექტის შექმნაზე, რომელიც ემსახურება ხალხს, გამჭვირვალობასა და საზოგადოებრივ კეთილდღეობას უზრუნველყოფს და არა კორპორაციული მიზნებისკენ.
+home-read-more = ვრცლად
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } სააქციო საზოგადოებაა თუ – არამომგებიანი? სინამდვილეში ორივეა.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } შედგება ორი დაწესებულებისგან. { -brand-name-mozilla-corporation } არის სრული მფლობელი, რომლის საკუთრებაცაა არამომგებიანი 501(c) { -brand-name-mozilla-foundation }. ეს კი ნიშნავს, რომ არ ვართ ანგარიშვალდებულნი აქციონერების მიმართ — მხოლოდ დასახული მიზნებისა.
+home-so-what-is-mozilla = მაშ, რა არის { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = სინამდვილეში, { -brand-name-mozilla } არის აქტივისტი ორგანიზაცია, { -brand-name-mozilla-foundation }-ის ხელმძღვანელობით, რომელიც ცვლის სამყაროს სხვადასხვა წამოწყებით, მათ შორის { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> და <a { $mozai }>{ -brand-name-mozilla-ai }</a>. რითი განვსხვავდებით? ვინაიდან ჩვენ ვხელმძღვანელობთ მისიით, ეს ნიშნავს, რომ გვაქვს თავისუფლება, მივიღოთ გადაწყვეტილებები იმის საფუძველზე, რაც უკეთესია ინტერნეტისა და ყველასთვის ინტერნეტისთვის, და არა აქციონერების მოთხოვნების საფუძველზე – არცერთი ასეთი არა გვაქვს.
 home-learn-about-mofo = გაიცანით უკეთ { -brand-name-mozilla-foundation }
 home-join-the-fight = ჩაერთეთ ინტერნეტის სიჯანსაღისთვის ბრძოლაში
 home-your-voice-your-code = თქვენი ხმა. თქვენი კოდი. თქვენი მოსაზრებები. პირდაპირი გაგებით, წვლილის შეტანის ათასობით საშუალება არსებობს, რომ განავითაროთ { -brand-name-mozilla }.
@@ -45,3 +61,7 @@ home-get-news-and-tips = გაეცანით ახალ ამბებ�
 home-featured-product = გამორჩეული პროდუქტი
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = მდებარეობისა და მოქმედებების დასაფარად გამოიყენეთ <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = ააწყვეთ ჩვენი მოძრაობა
+home-mofo-donate-to-mofo-today = შემოწირულობა { -brand-name-mozilla-foundation }-ში დღესვე უზრუნველვყოფთ, რომ ინტერნეტი დარჩეს გახსნილი და საყოველთაოდ ხელმისაწვდომი.
+home-mofo-donate = შემოწირულობა
