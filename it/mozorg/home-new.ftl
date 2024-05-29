@@ -42,6 +42,10 @@ home-is-mozilla-a-corporation = { -brand-name-mozilla } è una società o un’o
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } è composta da due organizzazioni. { -brand-name-mozilla-corporation } è interamente di proprietà dell’organizzazione non-profit 501(c) { -brand-name-mozilla-foundation }. Il che significa che non siamo legati ad alcun azionista, ma solo alla nostra missione.
 home-so-what-is-mozilla = Che cos’è { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla } è un'organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
 home-learn-about-mofo = Scopri { -brand-name-mozilla-foundation }
 home-join-the-fight = Unisciti alla lotta per un Internet in salute
 home-your-voice-your-code = La tua voce. Il tuo codice. Le tue idee. Ci sono migliaia di modi in cui puoi contribuire a { -brand-name-mozilla }.
