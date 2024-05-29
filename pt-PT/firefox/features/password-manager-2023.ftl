@@ -32,13 +32,13 @@ password-manager-image-of-the-firefox-import-wizard = Imagem da janela do assist
 password-manager-no-more-reusing-your-passwords = Chega de reutilizar as suas palavras-passe
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
-password-manager-have-firefox-create-a-strong-unique = Faça com que o { -brand-name-firefox } <a { $attrs }>crie uma palavra-passe forte e única</a> para cada credencial que tiver na Internet — assim, se uma das suas palavras-passe for violada através de uma violação de segurança, apenas terá impacto nessa conta, e não nas outras contas também.
+password-manager-have-firefox-create-a-strong-unique = Faça com que o { -brand-name-firefox } <a { $attrs }>crie uma palavra-passe forte e única</a> para cada credencial que tiver na Web — assim, se uma das suas palavras-passe for pirateada através de uma violação de segurança, isto só terá impacto nessa conta, não nas outras contas também.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Imagem do formulário de registo de um site com o { -brand-name-firefox } a sugerir uma palavra-passe forte que será armazenada automaticamente para utilização futura.
 password-manager-password-security-alerts = Alertas de segurança de palavras-passe
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
-password-manager-firefox-alerts-you-if-a-password-has = O { -brand-name-firefox } <a { $attrs }>alerta-o se uma palavra-passe foi exposta</a> numa violação de dados para que a possa alterar antes que os piratas informáticos tenham a oportunidade de fazer algo como contratar um Limpo com os seus dados cartão de crédito.
+password-manager-firefox-alerts-you-if-a-password-has = O { -brand-name-firefox } <a { $attrs }>alerta-o se uma palavra-passe foi exposta</a> numa violação de dados para que a possa alterar antes que os piratas informáticos tenham a oportunidade de fazer algo, tal como alugar um Lamborghini com o seu cartão de crédito.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Imagem do gestor de palavras-passe do { -brand-name-firefox } a mostrar uma mensagem de alerta que diz “Esta palavra-passe foi utilizada noutra conta que provavelmente esteve envolvida numa violação de dados. Reutilizar credenciais coloca todas as suas contas em risco. Altere esta palavra-passe.”
