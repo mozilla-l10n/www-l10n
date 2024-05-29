@@ -44,7 +44,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nové funkce a nástroje pro personalizované prostředí { -brand-name-mdn }
 navigation-v2-view-all-products = Zobrazit všechny produkty
 navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Použijte AI k odhalení falešných recenzí a podvodů
+navigation-v2-use-ai-to-detect = Využijte AI k odhalení falešných recenzí a podvodů
 
 ## Who We Are menu
 
