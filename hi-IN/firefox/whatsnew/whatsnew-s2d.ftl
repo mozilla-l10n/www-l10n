@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = अपने फ़ोन पर { -br
 
 whatsnew-s2d-download-firefox-for-your = अपने स्मार्टफ़ोन और टैबलेट के लिए { -brand-name-firefox } डाउनलोड करें।
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = इस QR कोड को स्कैन करें

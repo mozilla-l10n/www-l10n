@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = Senden Sie { -brand-name-firefox } an 
 
 whatsnew-s2d-download-firefox-for-your = Lade { -brand-name-firefox } für Smartphone und Tablet herunter.
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = QR-Code scannen

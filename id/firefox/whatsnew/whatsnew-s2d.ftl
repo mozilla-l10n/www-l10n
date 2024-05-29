@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = Kirim { -brand-name-firefox } ke ponse
 
 whatsnew-s2d-download-firefox-for-your = Unduh { -brand-name-firefox } untuk ponsel dan tablet Anda.
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Pindai kode QR ini

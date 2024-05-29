@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = { -brand-name-firefox } をスマー�
 
 whatsnew-s2d-download-firefox-for-your = スマートフォンおよびタブレット用に { -brand-name-firefox } をダウンロードしてください。
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = この QR コードをスキャンしてください

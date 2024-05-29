@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = Hantar { -brand-name-firefox } ke tele
 
 whatsnew-s2d-download-firefox-for-your = Muat turun { -brand-name-firefox } untuk telefon pintar dan tablet anda.
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Imbas kod QR ini

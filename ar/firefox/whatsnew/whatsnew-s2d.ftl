@@ -15,3 +15,5 @@ whatsnew-s2d-send-firefox-to-your-phone = نزِّل { -brand-name-firefox } ع�
 
 whatsnew-s2d-download-firefox-for-your = نزِّل { -brand-name-firefox } على هاتفك الذّكي أو على جهازك اللوحي.
 
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = امسح رمز الاستجابة السريعة (QR) ضوئيًا
