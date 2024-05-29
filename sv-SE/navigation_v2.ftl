@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } för { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Hämta mobilwebbläsaren för din { -brand-name-iphone } eller { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Enkel, privat, mobilsurfning
-navigation-v2-privacy-promise = Sekretesslöfte
-navigation-v2-learn-how-firefox-treats = Lär dig hur { -brand-name-firefox } behandlar dina data med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }s blogg
 navigation-v2-read-about-new-firefox-features = Läs om nya { -brand-name-firefox }-funktioner och olika sätt att hålla dig säker online.
 navigation-v2-release-notes = Versionsfakta
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Visa alla { -brand-name-firefox-browse
 navigation-v2-products = Produkter
 navigation-v2-close-products-menu = Stäng menyn Produkter
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Se om din e-postadress har förekommit i ett företags dataintrång.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Spara och upptäck de bästa historierna från hela webben.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Hjälp till att förhindra att { -brand-name-facebook } samlar in dina data utanför deras webbplats.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Få skydd utöver din webbläsare på alla dina enheter.
-navigation-v2-product-promise = Produktlöfte
-navigation-v2-learn-how-each-firefox-product = Lär dig hur varje { -brand-name-firefox }-produkt skyddar och respekterar dina data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrera dig för nya konton utan att lämna över din e-postadress.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nya funktioner och verktyg för en anpassad { -brand-name-mdn }-upplevelse
 navigation-v2-view-all-products = Visa alla produkter
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Använd AI för att upptäcka falska recensioner och bedrägerier
 
 ## Who We Are menu
 
