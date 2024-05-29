@@ -29,12 +29,12 @@ home-cta-get-vpn = Získat { -brand-name-mozilla-vpn(case: "acc") }
 home-product-monitor-data = Upozornění na úniky dat
 home-product-monitor-protect-your = Chraňte své soukromé informace před zprostředkovateli dat
 home-cta-get-monitor = Získejte { -brand-name-monitor }
-home-product-fakespot-detect = Odhalit falešné nákupní recenze
-home-cta-get-fakespot = Získejte { -brand-name-fakespot(case: "acc") }
+home-product-fakespot-detect = Rozpoznejte falešné nákupní recenze
+home-cta-get-fakespot = Získejte { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } se snaží ukázat světu, že se dá dělat obchod s důvěryhodnou AI. To zahrnuje i to, že jádrem fungování těchto složitých systémů jsou lidská práva, ochrana údajů a transparentnost.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-join-us-in-shaping = Přidejte se k nám a formujte důvěryhodnou umělou inteligenci
+home-join-us-in-shaping = Připojte se k nám při vytváření důvěryhodné AI
 home-work-on-ai = Práce { -brand-name-mozilla(case: "gen") } v oblasti umělé inteligence není jen tak nová – strávili jsme roky financováním, budováním a prosazováním umělé inteligence, která je otevřená, fér a vyvíjená zodpovědně. Zaměřujeme se na vytváření umělé inteligence, která slouží lidem, upřednostňuje transparentnost a podporuje veřejné blaho, ne firemní agendy.
 home-read-more = Přečtěte si více
 # Obsolete string (expires: 2024-07-16)
