@@ -69,6 +69,7 @@ firefox-products-analyze = URL を分析
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。{ -brand-name-mozilla } が運営。
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。
 firefox-products-get-pocket = { -brand-name-pocket } をダウンロード
