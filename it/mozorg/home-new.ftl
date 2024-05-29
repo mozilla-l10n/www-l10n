@@ -56,4 +56,7 @@ home-get-news-and-tips = Ricevi da { -brand-name-mozilla } notizie e suggeriment
 home-featured-product = Prodotti consigliati
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Nascondi la tua posizione e le tue attività online con <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Supporta il nostro movimento
+home-mofo-donate-to-mofo-today = Fai una donazione a { -brand-name-mozilla-foundation } oggi stesso per garantire che Internet rimanga aperto e accessibile a tutti.
 home-mofo-donate = Fai una donazione
