@@ -10,6 +10,7 @@ footer-press = Pers
 
 # Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Blog Perusahaan
+footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Perbandingan Peramban
 footer-brand-standards = Standar Merek
 footer-browsers = Peramban

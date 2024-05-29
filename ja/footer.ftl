@@ -10,6 +10,7 @@ footer-press = プレス
 
 # Obsolete string (expires 2024-07-02)
 footer-corporate-blog = 企業ブログ
+footer-mozilla-blog = { -brand-name-mozilla } のブログ
 footer-browser-comparison = ブラウザーの比較
 footer-brand-standards = ブランド基準
 footer-browsers = ブラウザー

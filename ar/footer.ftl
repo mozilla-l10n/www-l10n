@@ -10,6 +10,7 @@ footer-press = الصحافة
 
 # Obsolete string (expires 2024-07-02)
 footer-corporate-blog = مدونة الشركة
+footer-mozilla-blog = مدونة { -brand-name-mozilla }
 footer-browser-comparison = المقارنة بين المتصفحات
 footer-brand-standards = معايير العلامات التجارية
 footer-browsers = المتصفحات

@@ -10,6 +10,7 @@ footer-press = Presse
 
 # Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Unternehmensblog
+footer-mozilla-blog = Der { -brand-name-mozilla } Blog
 footer-browser-comparison = Browser-Vergleich
 footer-brand-standards = Marken-Standards
 footer-browsers = Browser
