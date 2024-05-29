@@ -19,16 +19,21 @@ home-product-firefox-browsing = Ιδιωτική και ασφαλής περι�
 home-cta-get-firefox = Λήψη του { -brand-name-firefox }
 home-product-pocket-articles = Τα πιο ενδιαφέροντα άρθρα του διαδικτύου
 home-cta-get-pocket = Λήψη του { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Εύχρηστες μάσκες email και τηλεφώνου
 home-cta-get-relay = Λήψη του { -brand-name-relay }
 home-product-vpn-trust = Ένα VPN που μπορείτε να εμπιστευτείτε
 home-cta-get-vpn = Λήψη του { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Ειδοποιήσεις παραβίασης δεδομένων
 home-cta-get-monitor = Απόκτηση του { -brand-name-monitor }
 home-mozilla-takes-bets = «Η { -brand-name-mozilla } εργάζεται για να δείξει στον κόσμο ότι υπάρχει ένα επιχειρηματικό μοντέλο που μπορεί να δημιουργηθεί με αξιόπιστη τεχνητή νοημοσύνη. Αυτό προϋποθέτει ότι ιδανικά, όπως τα ανθρωπινα δικαιώματα, η προστασία των δεδομένων και η διαφάνεια, θα είναι θεμελιώδη στοιχεία του τρόπου λειτουργίας αυτού του περίπλοκου συστήματος.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Διαβάστε περισσότερα
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = Η { -brand-name-mozilla } αποτελείται από δύο οργανισμούς. Η { -brand-name-mozilla-corporation } ανήκει εξ ολοκλήρου στον μη κερδοσκοπικό οργανισμό 501(c) { -brand-name-mozilla-foundation }. Αυτό σημαίνει ότι δεν υπηρετούμε κανέναν μέτοχο, παρά μόνο την αποστολή μας.
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
 home-join-the-fight = Λάβετε μέρος στη μάχη για ένα υγιές διαδίκτυο
