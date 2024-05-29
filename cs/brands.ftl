@@ -801,6 +801,8 @@
             }
     }
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Umělá inteligence Mozilly
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
