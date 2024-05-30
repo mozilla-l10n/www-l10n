@@ -4,63 +4,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Yes
+compare-shared-compare-firefox = Compare { -brand-name-firefox }
+compare-shared-footer-cta-title = Do more with { -brand-name-firefox }
+compare-shared-footer-cta-desc = Get the fast, lightweight, privacy-focused browser that’s backed by a non-profit and works across all your devices.
+compare-shared-footer-cta-button = Download { -brand-name-firefox }
+compare-shared-we-also-offer-easy = We also offer easy-to-use features such as:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } also has built-in tools such as:
 
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = No
-compare-shared-private-browsing-mode = Private Browsing mode
-compare-shared-blocks-third-party-tracking-default = Blocks third-party tracking cookies by default
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Edit PDFs</a> on the go within your { -brand-name-firefox } browser window - no extra software needed.
 
-compare-shared-blocks-cryptomining-scripts = Blocks cryptomining scripts
-compare-shared-blocks-fingerprinting-scripts = Blocks fingerprinting scripts
-compare-shared-blocks-social-trackers = Blocks social trackers
-compare-shared-dashboard-to-review = Dashboard to review blocked trackers
-compare-shared-autoplay-blocking = Autoplay blocking
-compare-shared-tab-browsing = Tab browsing
-compare-shared-bookmark-manager = Bookmark manager
-compare-shared-automatically-fills-out-forms = Automatically fills out forms
-compare-shared-automatically-fills-out-payments = Automatically fills out payments
-compare-shared-search-engine-options = Search engine options
-compare-shared-text-to-speech = Text to speech
-compare-shared-reader-mode = Reader mode
-compare-shared-spell-checking = Spell checking
-compare-shared-web-extensionsadd-ons = Web extensions/Add-ons
-compare-shared-in-browser-screenshot-tool = In-browser screenshot tool
-compare-shared-os-availability = OS availability
-compare-shared-mobile-os-availability = Mobile OS availability
-compare-shared-syncs-with-mobile = Syncs with mobile
-compare-shared-password-management = Password management
-compare-shared-primary-password = Primary password
-compare-shared-security-and-privacy = Security and Privacy
-compare-shared-utility = Utility
-compare-shared-portability = Portability
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Translate a web page</a> locally and privately.
+compare-shared-its-easy-to-switch = It’s easy to switch
+compare-shared-since-we-dont-have-to-make = Since we don’t have to make shareholders happy, we can focus on making <strong>you</strong> happy and always put your privacy and convenience first.
 
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Security and <strong>Privacy</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Utility</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Portability</strong>
-compare-shared-overall-assessment = Overall Assessment
-
-compare-shared-the-comparisons-made-here-updated = The comparisons made here were done so with default settings and across browser release versions as follows:
-compare-shared-this-page-updated-semi-quarterly = This page is updated semi-quarterly to reflect latest versioning and may not always reflect latest updates.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Download { -brand-name-firefox }
-compare-shared-download-firefox-browser = Download { -brand-name-firefox-browser }
-compare-shared-download-the-app = Download the app
-compare-shared-desktop = Desktop
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Compare Browsers
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Performance</strong>
+# Used as a small link to a cited source
+compare-shared-source = source
