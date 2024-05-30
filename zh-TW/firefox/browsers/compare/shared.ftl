@@ -5,56 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = 有
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = 沒有
-compare-shared-private-browsing-mode = 隱私瀏覽模式
-compare-shared-blocks-third-party-tracking-default = 自動封鎖第三方追蹤 Cookie
-compare-shared-blocks-cryptomining-scripts = 封鎖加密貨幣採礦程式
-compare-shared-blocks-fingerprinting-scripts = 封鎖數位指紋追蹤指令碼
-compare-shared-blocks-social-trackers = 封鎖社交追蹤器
-compare-shared-dashboard-to-review = 追蹤器封鎖儀錶板
-compare-shared-autoplay-blocking = 封鎖自動播放
-compare-shared-tab-browsing = 分頁瀏覽
-compare-shared-bookmark-manager = 書籤管理員
-compare-shared-automatically-fills-out-forms = 自動填寫網頁表單
-compare-shared-automatically-fills-out-payments = 自動填寫付款資訊
-compare-shared-search-engine-options = 搜尋引擎選項
-compare-shared-text-to-speech = 文字轉語音
-compare-shared-reader-mode = 閱讀器模式
-compare-shared-spell-checking = 拼字檢查
-compare-shared-web-extensionsadd-ons = Web extension / 附加元件
-compare-shared-in-browser-screenshot-tool = 內建畫面擷圖工具
-compare-shared-os-availability = 不同作業系統皆有提供
-compare-shared-mobile-os-availability = 提供行動版本
-compare-shared-syncs-with-mobile = 與行動裝置同步
-compare-shared-password-management = 密碼管理
-compare-shared-primary-password = 主控密碼
-compare-shared-security-and-privacy = 安全性與隱私權
-compare-shared-utility = 實用性
-compare-shared-portability = 可攜帶性
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = 安全性與<strong>隱私權</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>實用性</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>可攜帶性</strong>
-compare-shared-overall-assessment = 總體評價
-compare-shared-the-comparisons-made-here-updated = 本頁根據下列版本的瀏覽器發行版本的預設設定值進行評比:
-compare-shared-this-page-updated-semi-quarterly = 此頁面當中的資料每半年更新兩次，可能不會隨時根據各瀏覽器最新版本更新。
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = 下載 { -brand-name-firefox }
-compare-shared-download-firefox-browser = 下載 { -brand-name-firefox-browser }
-compare-shared-download-the-app = 下載應用程式
-compare-shared-desktop = 桌面版
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = 比較瀏覽器
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>效能</strong>
+compare-shared-compare-firefox = 比較 { -brand-name-firefox }
+compare-shared-footer-cta-title = 使用 { -brand-name-firefox } 做到更多事
+compare-shared-footer-cta-desc = 獲得由非營利組織所打造，快速、輕量級、保護隱私的瀏覽器，且能在您的所有裝置上使用。
+compare-shared-footer-cta-button = 下載 { -brand-name-firefox }
+compare-shared-we-also-offer-easy = 我們也提供簡單好用的功能例如:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 也有內建的工具例如:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = 不需要額外的軟體就可以在 { -brand-name-firefox } 瀏覽器視窗<a { $pdf }>編輯 PDF</a>。
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = 在本機私密<a { $translate }>翻譯網頁</a>。
+compare-shared-its-easy-to-switch = 很簡單就能切換
+compare-shared-since-we-dont-have-to-make = 既然不需要讓利益相關者們覺得滿意我們就可以聚焦於讓<strong>您</strong>滿意並且總是將您的隱私權與方便性放在第一位。
+# Used as a small link to a cited source
+compare-shared-source = 原始碼
