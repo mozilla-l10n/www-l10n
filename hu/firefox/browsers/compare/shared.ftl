@@ -5,56 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Igen
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Nem
-compare-shared-private-browsing-mode = Privát böngészési mód
-compare-shared-blocks-third-party-tracking-default = Alapértelmezetten blokkolja a harmadik féltől származó követő sütiket
-compare-shared-blocks-cryptomining-scripts = Kriptobányász parancsfájlok blokkolása
-compare-shared-blocks-fingerprinting-scripts = Blokkolja az ujjlenyomat-készítőket
-compare-shared-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
-compare-shared-dashboard-to-review = Irányítópult a letiltott nyomkövetők áttekintéséhez
-compare-shared-autoplay-blocking = Automatikus lejátszás blokkolása
-compare-shared-tab-browsing = Böngészőlapok
-compare-shared-bookmark-manager = Könyvjelzőkezelő
-compare-shared-automatically-fills-out-forms = Űrlapok automatikus kitöltése
-compare-shared-automatically-fills-out-payments = Kifizetések automatikus kitöltése
-compare-shared-search-engine-options = Keresőszolgáltatás-beállítások
-compare-shared-text-to-speech = Szöveg beszéddé alakítása
-compare-shared-reader-mode = Olvasó mód
-compare-shared-spell-checking = Helyesírás-ellenőrzés
-compare-shared-web-extensionsadd-ons = Kiegészítők
-compare-shared-in-browser-screenshot-tool = Böngészőn belüli képernyőkép-eszköz
-compare-shared-os-availability = Elérhetőség különböző operációs rendszereken
-compare-shared-mobile-os-availability = Elérhetőség mobil operációs rendszereken
-compare-shared-syncs-with-mobile = Szinkronizálás a mobiljával
-compare-shared-password-management = Jelszókezelés
-compare-shared-primary-password = Elsődleges jelszó
-compare-shared-security-and-privacy = Biztonság és adatvédelem
-compare-shared-utility = Hasznos funkciók
-compare-shared-portability = Hordozhatóság
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Biztonság és <strong>adatvédelem</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Hasznos funkciók</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Hordozhatóság</strong>
-compare-shared-overall-assessment = Átfogó értékelés
-compare-shared-the-comparisons-made-here-updated = Az itt végzett összehasonlítás alapértelmezett beállításokkal és a következő böngészőkiadásokkal készült:
-compare-shared-this-page-updated-semi-quarterly = Ez az oldal negyedévente kétszer frissül, hogy tükrözze a legfrissebb verziót, és nem mindig tükrözi a legfrissebb frissítéseket.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = { -brand-name-firefox } letöltése
-compare-shared-download-firefox-browser = { -brand-name-firefox-browser } letöltése
-compare-shared-download-the-app = Alkalmazás letöltése
-compare-shared-desktop = Asztali
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Böngészők összehasonlítása
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Teljesítmény</strong>
+compare-shared-compare-firefox = { -brand-name-firefox } összehasonlítása
+compare-shared-footer-cta-title = Végezzen el több mindent a { -brand-name-firefox(case: "instrumental") }
+compare-shared-footer-cta-desc = Szerezze be a gyors, könnyű, adatvédelem-központú böngészőt, amelyet egy nonprofit szervezet támogat, és az összes eszközén működik.
+compare-shared-footer-cta-button = { -brand-name-firefox } letöltése
+compare-shared-we-also-offer-easy = Könnyen használható funkciókat is kínálunk, mint például:
+compare-shared-firefox-also-has-built-in = A { -brand-name-firefox } beépített eszközökkel is rendelkezik, mint például:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Szerkessze a PDF-eket</a> útközben a { -brand-name-firefox } böngészőablakban – további szoftverek használata nélkül.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Fordítson le egy weboldalt</a> helyben és privát módon.
+compare-shared-its-easy-to-switch = Váltás egyszerű
+compare-shared-since-we-dont-have-to-make = Mivel nem a részvényeseket kell elégedetté tennünk, ezért arra koncentrálhatunk, hogy <strong>Ön</strong> örömet tegyünk, és mindig az adatvédelmet és a kényelmet helyezzük az első helyre.
+# Used as a small link to a cited source
+compare-shared-source = forrásból származik
