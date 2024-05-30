@@ -34,10 +34,18 @@ home-cta-get-fakespot = Obtener { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } está haciendo apuestas para mostrarle al mundo que se puede hacer negocio con una IA confiable. Eso incluye poner aspectos como los derechos humanos, la protección de datos y la transparencia en el centro del funcionamiento de estos sistemas complejos”.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Únete a nosotros para dar forma a una IA confiable
+home-work-on-ai = El trabajo de { -brand-name-mozilla } con la IA no es sólo algo nuevo: hemos pasado años financiando, construyendo y defendiendo una IA que sea abierta, justa y desarrollada de manera responsable. Nuestro objetivo es crear una IA que sirva a las personas, priorice la transparencia y apoye el bien público, no las agendas corporativas.
+home-read-more = Leer más
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o una organización sin fines de lucro? En realidad, ambas.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad exclusiva de la organización sin fines de lucro 501(c) { -brand-name-mozilla-foundation }. Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
+home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = En esencia, { -brand-name-mozilla } es una organización activista liderada por { -brand-name-mozilla-foundation } que genera cambios en el mundo a través de una variedad de iniciativas que incluyen { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> y <a { $mozai }>{ -brand-name-mozilla-ai }</a>. ¿En qué somos diferentes? Debido a que estamos impulsados por una misión, es que tenemos la libertad de tomar todas nuestras decisiones basándonos en lo que es mejor para Internet y para todos en línea, no basándonos en los intereses de los accionistas; en realidad, no tenemos ninguna de esas.
 home-learn-about-mofo = Aprende acerca de la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
 home-your-voice-your-code = Tu voz. Tu código. Tus ideas. Hay literalmente miles de formas en las que puedes contribuir a { -brand-name-mozilla }.
@@ -53,3 +61,7 @@ home-get-news-and-tips = Recibe noticias y consejos de { -brand-name-mozilla } p
 home-featured-product = Producto destacado
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Difumina tu ubicación y actividad usando <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Ayuda a nuestro movimiento
+home-mofo-donate-to-mofo-today = Haz una donación a { -brand-name-mozilla-foundation } hoy para garantizar que Internet permanezca abierto y accesible para todos.
+home-mofo-donate = Donar
