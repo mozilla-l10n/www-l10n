@@ -69,6 +69,7 @@ firefox-products-analyze = URL की जांच-परख
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = वेब पर बेहतरीन कंटेंट खोजें — और जब चाहें, जहां चाहें उसका उपयोग करें। { -brand-name-mozilla } द्वारा निर्मित।
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = वेब पर सर्वोत्तम कंटेंट खोजें — और जब भी, जहाँ भी चाहें उनके लाभ लें।
 firefox-products-get-pocket = { -brand-name-pocket } पाएँ
