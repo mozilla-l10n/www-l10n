@@ -19,16 +19,24 @@ home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Obtener { -brand-name-firefox }
 home-product-pocket-articles = Los artículos más intrigantes de la web.
 home-cta-get-pocket = Obtener { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Máscaras de correo electrónico y de teléfono fáciles de usar
+home-product-relay-hide-your = Oculta tu número de teléfono y correo electrónico a los spammers
 home-cta-get-relay = Obtener { -brand-name-relay }
 home-product-vpn-trust = Un VPN en el que puedes confiar
 home-cta-get-vpn = Obtener { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de filtraciones de datos
+home-product-monitor-protect-your = Protege tu información privada de los corredores de datos
 home-cta-get-monitor = Obtener { -brand-name-monitor }
+home-product-fakespot-detect = Detectar reseñas de compras falsas
+home-cta-get-fakespot = Obtener { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } está haciendo apuestas para mostrarle al mundo que se puede hacer negocio con una IA confiable. Eso incluye poner aspectos como los derechos humanos, la protección de datos y la transparencia en el centro del funcionamiento de estos sistemas complejos”.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o una organización sin fines de lucro? En realidad, ambas.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad exclusiva de la organización sin fines de lucro 501(c) { -brand-name-mozilla-foundation }. Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
 home-learn-about-mofo = Aprende acerca de la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
