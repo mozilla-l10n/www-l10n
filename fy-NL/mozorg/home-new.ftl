@@ -19,16 +19,24 @@ home-product-firefox-browsing = Privee en feilich sneupe
 home-cta-get-firefox = { -brand-name-firefox } downloade
 home-product-pocket-articles = De meast yntrigearjende artikelen fan it web
 home-cta-get-pocket = { -brand-name-pocket } brûke
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Maklik te brûken e-mail- en telefoanmaskers
+home-product-relay-hide-your = Ferstopje jo telefoannûmer en e-mailadres foar spammers
 home-cta-get-relay = { -brand-name-relay } downloade
 home-product-vpn-trust = In VPN wêrop jo fertrouwe kinne
 home-cta-get-vpn = { -brand-name-mozilla-vpn } downloade
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Warskôgingen oer datalekken
+home-product-monitor-protect-your = Beskermje jo priveegegevens tsjin gegevenshannelers
 home-cta-get-monitor = { -brand-name-monitor } ûntfange
+home-product-fakespot-detect = Detektearje falske winkelbeoardielingen
+home-cta-get-fakespot = { -brand-name-fakespot } brûke
 home-mozilla-takes-bets = ‘{ -brand-name-mozilla } nimt de gok om de wrâld sjen te litten dat der in bedriuw te meitsjen is mei betroubere AI. Dat omfettet it pleatsen fan dingen lykas minskerjochten, gegevensbeskerming en transparânsje sintraal te stellen yn hoe’t dizze komplekse systemen wurkje.’
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Is { -brand-name-mozilla } in bedriuw of in non-profitorganisaasje? Eins beide.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } bestiet út twa organisaasjes. De { -brand-name-mozilla-corporation } is folslein eigendom fan de non-profit 501(c) { -brand-name-mozilla-foundation }. Dat betsjut dat wy oan gjin inkelde oandielhâlder ferplichte hawwe – allinnich oan ús missy.
 home-learn-about-mofo = Ynfo oer de { -brand-name-mozilla-foundation }
 home-join-the-fight = Striid mei foar in sûn ynternet.
