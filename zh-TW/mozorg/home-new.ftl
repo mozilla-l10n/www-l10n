@@ -21,7 +21,7 @@ home-product-pocket-articles = 網路上最引人入勝的文章
 home-cta-get-pocket = 下載 { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 簡單易用的轉寄信箱與虛擬門號
-home-product-relay-hide-your = 隱藏您的手機號碼與電子郵件地址不讓垃圾騷擾者發現
+home-product-relay-hide-your = 隱藏您的手機號碼與電子郵件地址，不讓騷擾者發現
 home-cta-get-relay = 下載 { -brand-name-relay }
 home-product-vpn-trust = 您可以信任的 VPN
 home-cta-get-vpn = 下載 { -brand-name-mozilla-vpn }
@@ -42,6 +42,10 @@ home-is-mozilla-a-corporation = { -brand-name-mozilla } 是一間一般公司，
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } 是由兩個組織所構成。{ -brand-name-mozilla-foundation } 是依照美國《國內稅收法典》第 501(c) 條所登記成立，並全資擁有 { -brand-name-mozilla-corporation }。代表我們只完全對我們的使命負責。
 home-so-what-is-mozilla = 所以，{ -brand-name-mozilla } 是什麼？
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla } 的核心是一個由 { -brand-name-mozilla-foundation } 所領導的社運組織，並透過投資 { -brand-name-mozilla-corporation }、MZLA、<a { $ventures }>{ -brand-name-mozilla-ventures }</a> 及 <a { $mozai }>{ -brand-name-mozilla-ai }</a> 等一系列企業活動來改變世界。我們與其他企業有什麼不同？因為我們是依使命導向，代表我們有能夠根據什麼是對網際網路與線上的每個人來說，是最好的事情來做決定的自由，而不是依照股東或相關利益者的要求進行決策。
 home-learn-about-mofo = 了解 { -brand-name-mozilla-foundation } 的更多資訊
 home-join-the-fight = 與我們一起，為了健康的網路生態而戰
 home-your-voice-your-code = 您的聲音、您的程式碼、您的點子。有數以千計能貢獻給 { -brand-name-mozilla } 的方式。

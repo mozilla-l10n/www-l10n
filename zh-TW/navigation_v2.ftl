@@ -44,7 +44,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 讓您有 { -brand-name-mdn } 客製化體驗的全新功能與工具
 navigation-v2-view-all-products = 檢視所有產品
 navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = 使用 AI 偵測虛假評論與詐騙
+navigation-v2-use-ai-to-detect = 使用 AI 偵測虛假評論與詐騙內容
 
 ## Who We Are menu
 
