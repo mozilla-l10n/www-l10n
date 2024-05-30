@@ -121,7 +121,7 @@
 -brand-name-mozilla-accounts = Mozilla 帳號
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
--brand-name-mozilla-ventures = Mozilla風險投資公司
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)

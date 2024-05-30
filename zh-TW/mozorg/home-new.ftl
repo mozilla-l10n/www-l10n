@@ -27,21 +27,21 @@ home-product-vpn-trust = 您可以信任的 VPN
 home-cta-get-vpn = 下載 { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = 資料外洩警報
-home-product-monitor-protect-your = 保護您的隱私資訊不受資料販子影響
+home-product-monitor-protect-your = 保護您的隱私資訊不受資料交易商影響
 home-cta-get-monitor = 使用 { -brand-name-monitor }
-home-product-fakespot-detect = 偵測虛假的購物評論
+home-product-fakespot-detect = 偵測假的購物評論
 home-cta-get-fakespot = 下載 { -brand-name-fakespot }
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } 決定讓世界看到可信任的 AI 的重要性。這也包括將人權、資料保護、透明度放在這些複雜系統運作過程的核心。」
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = 與我們一起塑造可信任的 AI
-home-work-on-ai = { -brand-name-mozilla } 與 AI 合作不是什麼新鮮事——我們花了數年時間資助、打造並倡導開放、公平、以負責人的方式開發的 AI。我們的焦點是打造服務大眾、透明度高、支持公眾利益的 AI 而非企業。
+home-work-on-ai = { -brand-name-mozilla } 與 AI 合作不是什麼新鮮事 — 我們花了數年時間資助、打造並倡議開放、公平、而以負責任的方式所開發的 AI。我們聚焦於打造出一套能服務大眾、透明度高、支持公眾利益的 AI，而非僅為企業服務。
 home-read-more = 了解更多
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } 是一間一般公司，還是非營利組織？實際上，兩者都是。
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } 是由兩個組織所構成。{ -brand-name-mozilla-foundation } 是依照美國《國內稅收法典》第 501(c) 條所登記成立，並全資擁有 { -brand-name-mozilla-corporation }。代表我們只完全對我們的使命負責。
-home-so-what-is-mozilla = { -brand-name-mozilla } 是什麼
+home-so-what-is-mozilla = 所以，{ -brand-name-mozilla } 是什麼？
 home-learn-about-mofo = 了解 { -brand-name-mozilla-foundation } 的更多資訊
 home-join-the-fight = 與我們一起，為了健康的網路生態而戰
 home-your-voice-your-code = 您的聲音、您的程式碼、您的點子。有數以千計能貢獻給 { -brand-name-mozilla } 的方式。
@@ -58,6 +58,6 @@ home-featured-product = 精選產品
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span> 隱藏您的位置與活動紀錄
 # Mozilla Foundation donation promo
-home-mofo-build-our-movement = 建立我們的運動
-home-mofo-donate-to-mofo-today = 今天就捐款給 { -brand-name-mozilla-foundation }確保網際網路仍然開放讓任何人都能隨意使用。
+home-mofo-build-our-movement = 支持我們的運動
+home-mofo-donate-to-mofo-today = 今天就捐款給 { -brand-name-mozilla-foundation }，確保網際網路維持開放、讓任何人都能隨意使用。
 home-mofo-donate = 捐款
