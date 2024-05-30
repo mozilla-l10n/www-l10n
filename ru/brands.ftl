@@ -211,8 +211,8 @@
 -brand-name-mozilla-account = Аккаунт Mozilla
 -brand-name-mozilla-accounts = Аккаунты Mozilla
 -brand-name-mozilla-social = Mozilla.social
--brand-name-mozilla-ai = Mozilla искусственного интеллекта
--brand-name-mozilla-ventures = Mozilla Enterprise
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
