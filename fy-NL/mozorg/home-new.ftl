@@ -42,6 +42,10 @@ home-is-mozilla-a-corporation = Is { -brand-name-mozilla } in bedriuw of in non-
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } bestiet út twa organisaasjes. De { -brand-name-mozilla-corporation } is folslein eigendom fan de non-profit 501(c) { -brand-name-mozilla-foundation }. Dat betsjut dat wy oan gjin inkelde oandielhâlder ferplichte hawwe – allinnich oan ús missy.
 home-so-what-is-mozilla = Dus, wat is { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Yn de kearn is { -brand-name-mozilla } in aktivistyske organisaasje ûnder lieding fan de { -brand-name-mozilla-foundation } dy’t feroaring makket yn de wrâld troch in ferskaat oan ûndernimmingen, ynklusyf { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> en <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Hoe binne wy oars? Omdat wy troch in misje oandreaun wurde, betsjut it dat wy de frijheid hawwe om al ús besluten te nimmen op basis fan wat it bêste is foar it ynternet en foar elkenien online, net basearre op de easken fan oandielhâlders – dy hawwe wy sels net.
 home-learn-about-mofo = Ynfo oer de { -brand-name-mozilla-foundation }
 home-join-the-fight = Striid mei foar in sûn ynternet.
 home-your-voice-your-code = Jo stim. Jo koade. Jo ideeën. Der binne letterlik tûzenen manieren wêrop jo bydrage kinne oan { -brand-name-mozilla }.
@@ -57,3 +61,7 @@ home-get-news-and-tips = Krij nijs en tips fan { -brand-name-mozilla } om feilic
 home-featured-product = Utljochte produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Ferstopje jo lokaasje en aktiviteit mei <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Bou oan ús beweging
+home-mofo-donate-to-mofo-today = Donearje hjoed noch oan { -brand-name-mozilla-foundation } om derfoar te soargjen dat it ynternet iepen en tagonklik bliuwt foar elkenien.
+home-mofo-donate = Donearje
