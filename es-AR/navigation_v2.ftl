@@ -44,7 +44,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nuevas funcionalidades y herramientas para una experiencia de { -brand-name-mdn } personalizada
 navigation-v2-view-all-products = Ver todos los productos
 navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Usar IA para detectar revisiones falsas y estafas
+navigation-v2-use-ai-to-detect = Usá IA para detectar revisiones falsas y estafas
 
 ## Who We Are menu
 
