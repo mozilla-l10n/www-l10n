@@ -44,6 +44,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nove functiones e utensiles pro un experientia personalisate de { -brand-name-mdn }
 navigation-v2-view-all-products = Vider tote le productos
 navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Usa le intelligentia artificial pro deteger false recensiones e attaccos fraudulente
 
 ## Who We Are menu
 

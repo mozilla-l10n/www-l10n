@@ -35,12 +35,17 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } risca multo pro monstrar al
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Junger te a nos pro formar un intelligentia artificial digne de fide
+home-work-on-ai = Le labor de { -brand-name-mozilla } con le intelligentia artificial non es solo un nova,  nos ha passate annos financiante, producente e favoriente un intelligentia artificial que es aperte, belle e disveloppate responsabilemente. Nostre attention es dedicate al creation del intelligentia artificial que servi le gente, da prioritate al transparentia e supporta le ben public, non agendas corporative.
 home-read-more = Leger plus
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Es { -brand-name-mozilla } un interprisa commercial o un organisation sin scopo lucrative? De facto, ambes.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consiste de duo interprisas. { -brand-name-mozilla-corporation } es proprietate exclusive del organisation sin scopo lucrative 501(c) { -brand-name-mozilla-foundation }. Isto significa que nos non ha obligationes verso alcun actionista – solmente verso nostre mission.
 home-so-what-is-mozilla = Ma, cosa es { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = A su nucleo, { -brand-name-mozilla } es un organisation activistic ducite per { -brand-name-mozilla-foundation } que produce cambiamento in le mundo per un varietate de interprisas riscose includite { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Como es nos differente? Perque nos es ducite per mission, significa que nos ha le libertate de facer tote nostre decisiones basate sur lo que es optime pro internet e pro totes online, non basate super le exigentias de actioneros, nos vermente non ha alco de illos.
 home-learn-about-mofo = Apprender re { -brand-name-mozilla-foundation }
 home-join-the-fight = Junge te al lucta pro un internet san.
 home-your-voice-your-code = Tu voce. Tu codice. Tu ideas. Existe milles de manieras in que tu pote collaborar con { -brand-name-mozilla }.
@@ -58,4 +63,5 @@ home-featured-product = Producto consiliate
 home-feature-blur-your-location = Confunde tu position e activitate per <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Supporta nostre movimento
+home-mofo-donate-to-mofo-today = Dona a { -brand-name-mozilla-foundation } hodie pro curar que internet remane aperte e accessibile a totes.
 home-mofo-donate = Donar
