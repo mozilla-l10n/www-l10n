@@ -45,7 +45,7 @@ home-so-what-is-mozilla = Che cos’è { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = { -brand-name-mozilla } è un'organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
+home-at-its-core = Fondamentalmente, { -brand-name-mozilla } è un’organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
 home-learn-about-mofo = Scopri { -brand-name-mozilla-foundation }
 home-join-the-fight = Unisciti alla lotta per un Internet in salute
 home-your-voice-your-code = La tua voce. Il tuo codice. Le tue idee. Ci sono migliaia di modi in cui puoi contribuire a { -brand-name-mozilla }.
