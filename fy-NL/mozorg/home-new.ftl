@@ -34,10 +34,14 @@ home-cta-get-fakespot = { -brand-name-fakespot } brûke
 home-mozilla-takes-bets = ‘{ -brand-name-mozilla } nimt de gok om de wrâld sjen te litten dat der in bedriuw te meitsjen is mei betroubere AI. Dat omfettet it pleatsen fan dingen lykas minskerjochten, gegevensbeskerming en transparânsje sintraal te stellen yn hoe’t dizze komplekse systemen wurkje.’
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Help mei betroubere AI foarm te jaan
+home-work-on-ai = It wurk fan { -brand-name-mozilla } mei AI is net samar wat nijs – wy hawwe jierren bestege oan it finansieren, bouwen en pleitsjen foar AI dy’t iepen, earlik en ferantwurde ûntwikkele is. Us fokus leit op it meitsjen fan AI dy’t de minsken tsjinnet, foarrang jout oan transparânsje en it publike belang stipet, net bedriuwsaginda’s.
+home-read-more = Mear ynfo
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Is { -brand-name-mozilla } in bedriuw of in non-profitorganisaasje? Eins beide.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } bestiet út twa organisaasjes. De { -brand-name-mozilla-corporation } is folslein eigendom fan de non-profit 501(c) { -brand-name-mozilla-foundation }. Dat betsjut dat wy oan gjin inkelde oandielhâlder ferplichte hawwe – allinnich oan ús missy.
+home-so-what-is-mozilla = Dus, wat is { -brand-name-mozilla }?
 home-learn-about-mofo = Ynfo oer de { -brand-name-mozilla-foundation }
 home-join-the-fight = Striid mei foar in sûn ynternet.
 home-your-voice-your-code = Jo stim. Jo koade. Jo ideeën. Der binne letterlik tûzenen manieren wêrop jo bydrage kinne oan { -brand-name-mozilla }.
