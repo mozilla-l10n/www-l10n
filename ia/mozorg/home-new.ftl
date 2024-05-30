@@ -29,10 +29,12 @@ home-cta-get-vpn = Installa { -brand-name-mozilla-vpn }
 home-product-monitor-data = Alertas de violation de datos
 home-product-monitor-protect-your = Protege tu info private contra le violatores de datos
 home-cta-get-monitor = Obtene { -brand-name-monitor }
+home-product-fakespot-detect = Detege le false recensiones de negotios
 home-cta-get-fakespot = Obtene { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } risca multo pro monstrar al mundo que es possibile facer negotios con intelligentia artificial digne de fide. Isto significa mitter le derectos human, le protection de datos e le transparentia al centro del functionamento de iste systemas complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Junger te a nos pro formar un intelligentia artificial digne de fide
 home-read-more = Leger plus
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Es { -brand-name-mozilla } un interprisa commercial o un organisation sin scopo lucrative? De facto, ambes.
