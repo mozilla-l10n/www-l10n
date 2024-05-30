@@ -27,7 +27,7 @@ home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = 数据外泄警报
-home-product-monitor-protect-your = 保护您的隐私信息不受数据中小型企业窃取
+home-product-monitor-protect-your = 防范隐私信息落入数据代理商手中
 home-cta-get-monitor = 使用 { -brand-name-monitor }
 home-product-fakespot-detect = 检测购物网站上的虚假评价
 home-cta-get-fakespot = 获取 { -brand-name-fakespot }
