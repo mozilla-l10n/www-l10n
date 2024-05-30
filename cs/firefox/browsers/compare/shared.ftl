@@ -5,56 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Ano
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Ne
-compare-shared-private-browsing-mode = Režim anonymního prohlížení
-compare-shared-blocks-third-party-tracking-default = Blokování sledovacích cookies třetích stran ve výchozím stavu
-compare-shared-blocks-cryptomining-scripts = Blokování těžby kryptoměn
-compare-shared-blocks-fingerprinting-scripts = Blokování vytváření otisku prohlížeče
-compare-shared-blocks-social-trackers = Blokování sledovacích prvků sociálních sítí
-compare-shared-dashboard-to-review = Přehled blokovaných sledovacích prvků
-compare-shared-autoplay-blocking = Blokování automatického přehrávání
-compare-shared-tab-browsing = Prohlížení v panelech
-compare-shared-bookmark-manager = Správce záložek
-compare-shared-automatically-fills-out-forms = Automatické vyplňování formulářů
-compare-shared-automatically-fills-out-payments = Automatické vyplňování plateb
-compare-shared-search-engine-options = Nastavení vyhledávače
-compare-shared-text-to-speech = Převod textu na řeč
-compare-shared-reader-mode = Režim pro čtení
-compare-shared-spell-checking = Kontrola pravopisu
-compare-shared-web-extensionsadd-ons = Webová rozšíření a doplňky
-compare-shared-in-browser-screenshot-tool = Nástroj pro vytváření snímků stránek
-compare-shared-os-availability = Dostupnost pro více OS
-compare-shared-mobile-os-availability = Dostupnost na mobilních OS
-compare-shared-syncs-with-mobile = Synchronizace s mobilem
-compare-shared-password-management = Správce hesel
-compare-shared-primary-password = Hlavní heslo
-compare-shared-security-and-privacy = Zabezpečení a soukromí
-compare-shared-utility = Funkcionalita
-compare-shared-portability = Přenositelnost
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Zabezpečení a <strong>soukromí</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Funkcionalita</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Přenositelnost</strong>
-compare-shared-overall-assessment = Celkové hodnocení
-compare-shared-the-comparisons-made-here-updated = Při porovnávání jsme vycházeli z výchozího nastavení následujících verzí prohlížečů:
-compare-shared-this-page-updated-semi-quarterly = Tato stránka se aktualizuje jednou za měsíc a půl, aby zohledňovala nejnovější verze a nemusí vždy zohledňovat nejnovější vydané aktualizace.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Stáhnout { -brand-name-firefox(case: "acc") }
-compare-shared-download-firefox-browser = Stáhnout { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
-compare-shared-download-the-app = Stáhnout aplikaci
-compare-shared-desktop = Počítač
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Porovnat prohlížeče
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Výkon</strong>
+compare-shared-compare-firefox = Porovnání { -brand-name-firefox(case: "gen") }
+compare-shared-footer-cta-title = Udělejte více s { -brand-name-firefox(case: "ins") }
+compare-shared-footer-cta-desc = Získejte rychlý, lehký prohlížeč zaměřený na ochranu soukromí, za kterým stojí nezisková organizace a který funguje na všech vašich zařízeních.
+compare-shared-footer-cta-button = Stáhnout { -brand-name-firefox(case: "acc") }
+compare-shared-we-also-offer-easy = Nabízíme také snadno použitelné funkce jako:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } má také vestavěné nástroje jako:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Upravujte soubory PDF</a>, ať jste kdekoliv v okně prohlížeče { -brand-name-firefox } - není potřeba žádný další software.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Překlad webové stránky</a> lokálně a soukromě.
+compare-shared-its-easy-to-switch = Přepínání je snadné
+compare-shared-since-we-dont-have-to-make = Protože nemusíme dělat šťastnými akcionáře, můžeme se zaměřit na to, abyste udělali šťastným <strong>vás</strong>, a vaše soukromí a pohodlí vždy dávají na první místo.
+# Used as a small link to a cited source
+compare-shared-source = zdroj
