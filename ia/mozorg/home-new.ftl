@@ -21,12 +21,15 @@ home-product-pocket-articles = Le articulos le plus intrigante del web
 home-cta-get-pocket = Obtene { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Mascas de email e telephono facile a usar
+home-product-relay-hide-your = Cela tu numero de telephono e email contra le spam
 home-cta-get-relay = Obtene { -brand-name-relay }
 home-product-vpn-trust = Un VPN digne de fide
 home-cta-get-vpn = Installa { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de violation de datos
+home-product-monitor-protect-your = Protege tu info private contra le violatores de datos
 home-cta-get-monitor = Obtene { -brand-name-monitor }
+home-cta-get-fakespot = Obtene { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } risca multo pro monstrar al mundo que es possibile facer negotios con intelligentia artificial digne de fide. Isto significa mitter le derectos human, le protection de datos e le transparentia al centro del functionamento de iste systemas complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
@@ -35,6 +38,7 @@ home-read-more = Leger plus
 home-is-mozilla-a-corporation = Es { -brand-name-mozilla } un interprisa commercial o un organisation sin scopo lucrative? De facto, ambes.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consiste de duo interprisas. { -brand-name-mozilla-corporation } es proprietate exclusive del organisation sin scopo lucrative 501(c) { -brand-name-mozilla-foundation }. Isto significa que nos non ha obligationes verso alcun actionista – solmente verso nostre mission.
+home-so-what-is-mozilla = Ma, cosa es { -brand-name-mozilla }?
 home-learn-about-mofo = Apprender re { -brand-name-mozilla-foundation }
 home-join-the-fight = Junge te al lucta pro un internet san.
 home-your-voice-your-code = Tu voce. Tu codice. Tu ideas. Existe milles de manieras in que tu pote collaborar con { -brand-name-mozilla }.
@@ -50,4 +54,6 @@ home-get-news-and-tips = Recipe novas e consilios per { -brand-name-mozilla } pr
 home-featured-product = Producto consiliate
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Confunde tu position e activitate per <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Supporta nostre movimento
 home-mofo-donate = Donar
