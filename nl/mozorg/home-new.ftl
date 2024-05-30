@@ -19,16 +19,21 @@ home-product-firefox-browsing = Privé en veilig surfen
 home-cta-get-firefox = { -brand-name-firefox } downloaden
 home-product-pocket-articles = De meest intrigerende artikelen van het web
 home-cta-get-pocket = { -brand-name-pocket } gebruiken
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Eenvoudig te gebruiken e-mail- en telefoonmaskers
 home-cta-get-relay = { -brand-name-relay } downloaden
 home-product-vpn-trust = Een VPN waarop u kunt vertrouwen
 home-cta-get-vpn = { -brand-name-mozilla-vpn } downloaden
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Waarschuwingen over datalekken
 home-cta-get-monitor = { -brand-name-monitor } ontvangen
 home-mozilla-takes-bets = ‘{ -brand-name-mozilla } neemt de gok om de wereld te laten zien dat er zaken gedaan kunnen worden met betrouwbare AI. Dat houdt in dat zaken als mensenrechten, gegevensbescherming en transparantie centraal moeten staan in hoe deze complexe systemen werken.’
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Meer info
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Is { -brand-name-mozilla } een bedrijf of een non-profitorganisatie? Eigenlijk allebei.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } bestaat uit twee organisaties. De { -brand-name-mozilla-corporation } is volledig eigendom van de non-profitorganisatie 501(c) { -brand-name-mozilla-foundation }. Dat betekent dat we aan geen enkele aandeelhouder verplichtingen hebben – alleen aan onze missie.
 home-learn-about-mofo = Info over de { -brand-name-mozilla-foundation }
 home-join-the-fight = Vecht mee voor een gezond internet
@@ -45,3 +50,4 @@ home-get-news-and-tips = Ontvang nieuws en tips van { -brand-name-mozilla } om v
 home-featured-product = Uitgelicht product
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Verhul uw locatie en activiteit met <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate = Doneren
