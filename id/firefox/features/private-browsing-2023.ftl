@@ -14,6 +14,7 @@ features-private-browsing-firefox-protects = { -brand-name-firefox } melindungi 
 
 features-private-browsing-if-you-share-a-computer = Jika Anda menggunakan komputer bersama dengan orang lain atau ingin membatasi jumlah data yang dapat dikumpulkan situs web tentang Anda, Anda dapat menggunakan mode penjelajahan pribadi di { -brand-name-firefox }. Penjelajahan pribadi menghapus jejak digital yang Anda tinggalkan saat menjelajah daring — anggap saja seperti jejak kaki di hutan.
 features-private-browsing-what-does-private-browsing-do = Apa fungsi penjelajahan pribadi?
+features-private-browsing-private-browsing-mode-opens-v2 = Mode penjelajahan pribadi membuka jendela peramban baru. Saat Anda menutup jendela penjelajahan pribadi yang terakhir, riwayat penjelajahan Anda dan kuki pelacakan apa pun dari situs web yang Anda kunjungi akan terhapus. <strong>Kiat Penting { -brand-name-firefox }:</strong> Jangan lupa menutup semua jendela penjelajahan pribadi Anda setelah selesai!
 # Obsolete string (expires: 2024-07-18)
 features-private-browsing-private-browsing-mode-opens = Mode penjelajahan pribadi membuka jendela peramban baru. Saat Anda menutupnya, riwayat penjelajahan Anda untuk jendela tersebut dan kuki pelacakan apa pun dari situs web yang Anda kunjungi akan terhapus.<strong>Kiat Penting { -brand-name-firefox }:</strong> Jangan lupa menutup jendela penjelajahan pribadi setelah selesai!
 
