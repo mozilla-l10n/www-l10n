@@ -17,3 +17,6 @@ compare-chrome-we-block-trackers-by-default = Bloqueamos los rastreadores de man
 compare-chrome-in-fact-by-default-chrome-monitors = De hecho, de forma predeterminada, Chrome monitorea qué sitios web visitas y qué haces para poder identificar "temas publicitarios" y enviarte anuncios más específicos. Puedes bloquear tres temas, pero no puedes hacer que dejen de identificar otros temas publicitarios orientados a tu persona.
 compare-chrome-chrome-allows-other-websites-to = Chrome permite que otros sitios web recopilen información sobre ti para poder sugerir anuncios. Puedes bloquear sitios específicos para que no sugieran anuncios, pero no puedes detener la recopilación de datos o las sugerencias de otros sitios.
 compare-chrome-google-runs-the-worlds-largest = Google gestiona la red publicitaria más grande del mundo y Chrome es parte de ella.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
+compare-chrome-switching-to-firefox-is-easy = Cambiar a { -brand-name-firefox } es fácil y rápido — importa tus marcadores de Chrome, tus contraseñas, historial y preferencias con un solo clic y estarás listo para usar inmediatamente { -brand-name-firefox }. Descubre <a { $howto }>cómo cambiar de Chrome a { -brand-name-firefox }</a>.
