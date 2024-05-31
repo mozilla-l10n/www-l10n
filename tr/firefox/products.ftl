@@ -57,6 +57,7 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Adresi analiz et
 
 ## Pocket
 

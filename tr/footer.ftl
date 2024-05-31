@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifestosu
 footer-privacy-hub = Gizlilik Merkezi
 footer-privacy = Gizlilik
 footer-press = Basın
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Kurumsal Blog
+footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Tarayıcı Karşılaştırması
 footer-brand-standards = Marka Standartları
 footer-browsers = Tarayıcılar
