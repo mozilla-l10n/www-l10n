@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } için { -brand-name-firefox 
 navigation-v2-get-the-mobile-browser = { -brand-name-iphone } ve { -brand-name-ipad }’inize özel tarayıcıyı indirin.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Gizli mobil gezinti.
-navigation-v2-privacy-promise = Gizlilik Sözü
-navigation-v2-learn-how-firefox-treats = { -brand-name-firefox }’un verilerinizi nasıl özenle işlediğini öğrenin.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-read-about-new-firefox-features = Yeni { -brand-name-firefox } özelliklerini ve internette güvende kalmanın yollarını öğrenin.
 navigation-v2-release-notes = Sürüm Notları
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Tüm { -brand-name-firefox-browsers }n
 navigation-v2-products = Ürünler
 navigation-v2-close-products-menu = Ürünler menüsünü kapat
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = E-postanızın veri ihlallerine karışıp karışmadığını kontrol edin.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Web’deki en iyi makaleleri kaydedin ve keşfedin.
@@ -41,14 +37,13 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } kendi sitesi dışında verilerinizi toplayamasın.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Tüm cihazlarınızda tarayıcının ötesine geçen koruma.
-navigation-v2-product-promise = Ürün Sözü
-navigation-v2-learn-how-each-firefox-product = { -brand-name-firefox } ürünlerinin verilerinizi nasıl koruduğunu öğrenin.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = E-posta adresinizi gizleyerek yeni hesaplar açın.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Kişisel bir { -brand-name-mdn } deneyimi için yeni özellikler ve araçlar
 navigation-v2-view-all-products = Tüm ürünlere bak
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 
@@ -66,16 +61,12 @@ navigation-v2-careers = Kariyer
 navigation-v2-work-for-a-mission-driven-updated = İnsancıl ürünler geliştirilen, misyon odaklı bir kuruluşta çalışabilirsiniz.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
-navigation-v2-stories = Haberler
-navigation-v2-stories-about-how = Çalışanlarımızın ve ürünlerimizin dünyayı nasıl daha iyi hale getirdiğine dair öyküler.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } hakkında daha fazla bilgi
 
 ## Innovation menu
 
 navigation-v2-innovation = İnovasyon
 navigation-v2-close-innovation-menu = İnovasyon menüsünü kapat
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Etkileşimli, çevrimiçi, çok boyutlu sosyal alanlarda toplanın.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Geliştiriciler için geliştirilmiş { -brand-name-firefox }’u indirin.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -40,6 +40,7 @@ home-read-more = Devamını oku
 home-is-mozilla-a-corporation = { -brand-name-mozilla } şirket mi yoksa kâr amacı gütmeyen bir kuruluş mu? Aslında ikisi de.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } iki kuruluştan oluşuyor. Ticari işletmemiz { -brand-name-mozilla-corporation }’ın tamamı kâr amacı gütmeyen { -brand-name-mozilla-foundation }’na ait. Yani hiçbir hissedarımız yok ve bizi bağlayan tek şey misyonumuz.
+home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
 home-learn-about-mofo = { -brand-name-mozilla-foundation } hakkında bilgi alın
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 home-your-voice-your-code = Sesinizle, kodunuzla, fikirlerinizle… { -brand-name-mozilla }’ya katkıda bulunmanızın pek çok yolu var.
@@ -55,3 +56,4 @@ home-get-news-and-tips = İnternette güvende kalmak ve web’i daha sağlıklı
 home-featured-product = Mutlaka deneyin
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> ile konumunuzu ve internetteki etkinliklerinizi gizleyin
+home-mofo-donate = Bağış yapın
