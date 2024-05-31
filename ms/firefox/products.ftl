@@ -69,6 +69,7 @@ firefox-products-analyze = Analisis URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Temui kandungan terbaik di laman web — dan gunakan ia di mana sahaja, bila-bila masa yang anda mahu. Dibangunkan oleh { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Temui kandungan terbaik di laman web — dan gunakan ia di mana sahaja, bila-bila masa yang anda mahu.
 firefox-products-get-pocket = Dapatkan { -brand-name-pocket }
