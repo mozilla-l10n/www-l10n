@@ -8,7 +8,7 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } frente a Google Chrome
 # HTML page description
-compare-chome-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Chrome en cuanto a características, privacidad y facilidad de uso.
+compare-chome-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Chrome en cuanto a funciones, privacidad y facilidad de uso.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
