@@ -120,6 +120,8 @@
 -brand-name-mozilla-account = Tài khoản Mozilla
 -brand-name-mozilla-accounts = Các tài khoản Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
