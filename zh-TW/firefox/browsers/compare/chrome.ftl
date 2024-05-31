@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } 與 Google Chrome
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 Chrome 瀏覽器的功能、隱私權、易用性進行比較。
 # Variables:

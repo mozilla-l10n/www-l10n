@@ -9,8 +9,8 @@ compare-shared-compare-firefox = 比較 { -brand-name-firefox }
 compare-shared-footer-cta-title = 使用 { -brand-name-firefox } 做到更多事
 compare-shared-footer-cta-desc = 獲得由非營利組織所打造，快速、輕量級、保護隱私的瀏覽器，且能在您的所有裝置上使用。
 compare-shared-footer-cta-button = 下載 { -brand-name-firefox }
-compare-shared-we-also-offer-easy = 我們也提供簡單好用的功能例如:
-compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 也有內建的工具例如:
+compare-shared-we-also-offer-easy = 我們也提供簡單好用的功能，例如：
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 也有內建的工具，例如：
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = 不需要額外的軟體就可以在 { -brand-name-firefox } 瀏覽器視窗<a { $pdf }>編輯 PDF</a>。
@@ -20,4 +20,4 @@ compare-shared-translate-a-web-page = 在本機私密<a { $translate }>翻譯網
 compare-shared-its-easy-to-switch = 很簡單就能切換
 compare-shared-since-we-dont-have-to-make = 既然不需要讓利益相關者們覺得滿意我們就可以聚焦於讓<strong>您</strong>滿意並且總是將您的隱私權與方便性放在第一位。
 # Used as a small link to a cited source
-compare-shared-source = 原始碼
+compare-shared-source = 來源

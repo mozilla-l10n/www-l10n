@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # Page title
-compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } 與 Microsoft Edge
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 Edge 瀏覽器的功能、隱私保護、易用性比較。
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } 讓隱私保護變得簡單方便讓您完全不必擔心它。
