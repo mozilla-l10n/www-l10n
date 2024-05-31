@@ -5,56 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Ja
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Nee
-compare-shared-private-browsing-mode = Privénavigatiemodus
-compare-shared-blocks-third-party-tracking-default = Blokkeert standaard tracking-cookies van derden
-compare-shared-blocks-cryptomining-scripts = Blokkeert cryptomining-scripts
-compare-shared-blocks-fingerprinting-scripts = Blokkeert fingerprinting-scripts
-compare-shared-blocks-social-trackers = Blokkeert sociale trackers
-compare-shared-dashboard-to-review = Dashboard om geblokkeerde trackers te bekijken
-compare-shared-autoplay-blocking = Automatisch afspelen blokkeren
-compare-shared-tab-browsing = Navigeren met tabbladen
-compare-shared-bookmark-manager = Bladwijzerbeheerder
-compare-shared-automatically-fills-out-forms = Automatisch invullen van formulieren
-compare-shared-automatically-fills-out-payments = Vult automatisch betalingen in
-compare-shared-search-engine-options = Zoekmachine-opties
-compare-shared-text-to-speech = Tekst naar spraak
-compare-shared-reader-mode = Lezermodus
-compare-shared-spell-checking = Spellingscontrole
-compare-shared-web-extensionsadd-ons = Webextensies/add-ons
-compare-shared-in-browser-screenshot-tool = Hulpmiddel voor schermafdrukken in de browser
-compare-shared-os-availability = Beschikbaarheid op besturingssystemen
-compare-shared-mobile-os-availability = Beschikbaarheid op mobiele besturingssystemen
-compare-shared-syncs-with-mobile = Synchroniseert met mobiel
-compare-shared-password-management = Wachtwoordbeheer
-compare-shared-primary-password = Hoofdwachtwoord
-compare-shared-security-and-privacy = Beveiliging en privacy
-compare-shared-utility = Bruikbaarheid
-compare-shared-portability = Portabiliteit
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Beveiliging en <strong>privacy</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Bruikbaarheid</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Portabiliteit</strong>
-compare-shared-overall-assessment = Algemene beoordeling
-compare-shared-the-comparisons-made-here-updated = De hier gemaakte vergelijkingen zijn met standaardinstellingen in de volgende browserversies uitgevoerd:
-compare-shared-this-page-updated-semi-quarterly = Deze pagina wordt tweemaal per kwartaal bijgewerkt om de nieuwste versies weer te geven en weerspiegelt mogelijk niet altijd de laatste updates.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = { -brand-name-firefox } downloaden
-compare-shared-download-firefox-browser = { -brand-name-firefox-browser } downloaden
-compare-shared-download-the-app = De app downloaden
-compare-shared-desktop = Desktop
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Browsers vergelijken
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Prestaties</strong>
+compare-shared-footer-cta-title = Doe meer met { -brand-name-firefox }
+compare-shared-footer-cta-desc = Ontvang de snelle, lichtgewicht, op privacy gerichte browser die wordt ondersteund door een non-profitorganisatie en op al uw apparaten werkt.
+compare-shared-footer-cta-button = { -brand-name-firefox } downloaden
+compare-shared-we-also-offer-easy = We bieden ook eenvoudig te gebruiken functies, zoals:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } heeft ook ingebouwde hulpmiddelen, zoals:
