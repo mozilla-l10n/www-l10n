@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } dành cho { -brand-name-
 navigation-v2-get-the-mobile-browser = Tải xuống trình duyệt di động cho { -brand-name-iphone } hoặc { -brand-name-ipad } của bạn.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Đơn giản là duyệt web riêng tư trên di động.
-navigation-v2-privacy-promise = Lời hứa về quyền riêng tư
-navigation-v2-learn-how-firefox-treats = Tìm hiểu cách { -brand-name-firefox } đối xử với dữ liệu của bạn một cách tôn trọng.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Đọc về các tính năng mới của { -brand-name-firefox } và các cách để giữ an toàn khi trực tuyến.
 navigation-v2-release-notes = Ghi chú phát hành
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Xem tất cả { -brand-name-firefox-b
 navigation-v2-products = Sản phẩm
 navigation-v2-close-products-menu = Đóng menu Sản phẩm
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Xem liệu email của bạn có bị rò rỉ dữ liệu từ công ty hay không.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Lưu và khám phá những câu chuyện hay nhất từ khắp nơi trên web.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Giúp ngăn { -brand-name-facebook } thu thập dữ liệu của bạn bên ngoài trang web của họ.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Bảo vệ ngoài trình duyệt của bạn, trên tất cả các thiết bị của bạn.
-navigation-v2-product-promise = Lời hứa về sản phẩm
-navigation-v2-learn-how-each-firefox-product = Tìm hiểu cách mỗi sản phẩm { -brand-name-firefox } bảo vệ và tôn trọng dữ liệu của bạn.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Đăng ký tài khoản mới mà không cần chuyển địa chỉ email của bạn.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Các tính năng và công cụ mới cho trải nghiệm { -brand-name-mdn } tùy chỉnh
 navigation-v2-view-all-products = Xem tất cả sản phẩm
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Sử dụng AI để phát hiện các đánh giá giả mạo và lừa đảo
 
 ## Who We Are menu
 
@@ -66,8 +62,6 @@ navigation-v2-careers = Nghề nghiệp
 navigation-v2-work-for-a-mission-driven-updated = Làm việc cho một tổ chức dựa trên sứ mệnh tạo ra các sản phẩm ưu tiên con người.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Tìm hiểu về { -brand-name-mozilla } và các vấn đề quan trọng với chúng tôi.
-navigation-v2-stories = Câu chuyện
-navigation-v2-stories-about-how = Những câu chuyện về cách con người và sản phẩm của chúng tôi đang thay đổi thế giới trở nên tốt đẹp hơn.
 navigation-v2-more-about-mozilla = Thông tin thêm về { -brand-name-mozilla }
 
 ## Innovation menu

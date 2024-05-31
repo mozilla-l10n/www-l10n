@@ -5,56 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Có
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Không
-compare-shared-private-browsing-mode = Chế độ duyệt web riêng tư
-compare-shared-blocks-third-party-tracking-default = Chặn cookie theo dõi của bên thứ ba theo mặc định
-compare-shared-blocks-cryptomining-scripts = Chặn các tập lệnh khai thác tiền điện tử
-compare-shared-blocks-fingerprinting-scripts = Chặn các tập lệnh in dấu vết (fingerprinting)
-compare-shared-blocks-social-trackers = Chặn các trình theo dõi xã hội
-compare-shared-dashboard-to-review = Trang tổng quan để xem lại các trình theo dõi bị chặn
-compare-shared-autoplay-blocking = Chặn tự động phát
-compare-shared-tab-browsing = Duyệt theo thẻ
-compare-shared-bookmark-manager = Trình quản lý dấu trang
-compare-shared-automatically-fills-out-forms = Tự động điền vào biểu mẫu
-compare-shared-automatically-fills-out-payments = Tự động điền vào các khoản thanh toán
-compare-shared-search-engine-options = Tùy chọn công cụ tìm kiếm
-compare-shared-text-to-speech = Chuyển văn bản thành giọng nói
-compare-shared-reader-mode = Chế độ đọc
-compare-shared-spell-checking = Kiểm tra chính tả
-compare-shared-web-extensionsadd-ons = Tiện ích Web/Tiện ích mở rộng
-compare-shared-in-browser-screenshot-tool = Công cụ chụp màn hình trong trình duyệt
-compare-shared-os-availability = Hệ điều hành khả dụng
-compare-shared-mobile-os-availability = Hệ điều hành di động khả dụng
-compare-shared-syncs-with-mobile = Đồng bộ với di động
-compare-shared-password-management = Quản lý mật khẩu
-compare-shared-primary-password = Mật khẩu chính
-compare-shared-security-and-privacy = Bảo mật và riêng tư
-compare-shared-utility = Tiện ích
-compare-shared-portability = Tính di động
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Bảo mật và <strong>riêng tư</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Tiện ích</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Tính di động</strong>
-compare-shared-overall-assessment = Đánh giá tổng thể
-compare-shared-the-comparisons-made-here-updated = Các so sánh ở đây được thực hiện với cài đặt mặc định và trên các phiên bản phát hành của trình duyệt sau:
-compare-shared-this-page-updated-semi-quarterly = Trang này được cập nhật nửa quý để phản ánh phiên bản mới nhất và có thể không phải lúc nào cũng phản ánh các cập nhật mới nhất.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Tải xuống { -brand-name-firefox }
-compare-shared-download-firefox-browser = Tải xuống { -brand-name-firefox-browser }
-compare-shared-download-the-app = Tải xuống ứng dụng
-compare-shared-desktop = Máy tính để bàn
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = So sánh trình duyệt
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Hiệu suất</strong>
+compare-shared-compare-firefox = So sánh { -brand-name-firefox }
+compare-shared-footer-cta-title = Làm việc nhiều hơn với { -brand-name-firefox }
+compare-shared-footer-cta-desc = Sở hữu trình duyệt nhanh, nhẹ, tập trung vào quyền riêng tư được hỗ trợ bởi một tổ chức phi lợi nhuận và hoạt động trên tất cả các thiết bị của bạn.
+compare-shared-footer-cta-button = Tải xuống { -brand-name-firefox }
+compare-shared-we-also-offer-easy = Chúng tôi cũng cung cấp các tính năng dễ sử dụng như:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } cũng có các công cụ tích hợp như:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Chỉnh sửa PDF</a> ngay trong cửa sổ trình duyệt { -brand-name-firefox } của bạn - không cần thêm phần mềm.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Dịch một trang web</a> cục bộ và riêng tư.
+compare-shared-its-easy-to-switch = Thật dễ dàng để chuyển đổi
+compare-shared-since-we-dont-have-to-make = Vì chúng tôi không cần phải làm cho các cổ đông hài lòng, chúng tôi có thể tập trung vào việc làm <strong>bạn</strong> hài lòng và luôn đặt sự riêng tư và thuận tiện của bạn lên hàng đầu.
+# Used as a small link to a cited source
+compare-shared-source = nguồn
