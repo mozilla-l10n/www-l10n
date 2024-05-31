@@ -17,4 +17,4 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } giúp bạ
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } cung cấp cho bạn tùy chọn mã hóa mật khẩu đã lưu của bạn và bạn có thể <a { $primary }>sử dụng mật khẩu chính để truy cập chúng</a>; mật khẩu của bạn được bảo vệ ngay cả khi bạn phải dùng chung máy tính. Brave không bảo vệ mật khẩu của bạn bằng mật khẩu chính.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
-compare-brave-switching-to-firefox-is-easy = Chuyển sang { -brand-name-firefox } rất dễ dàng và nhanh - nhập dấu trang Brave, mật khẩu, lịch sử và tùy chọn của bạn chỉ bằng một cú nhấp chuột và ngay lập tức sẵn sàng sử dụng { -brand-name-firefox }. Đây là <a { $howto }>cách nhập dữ liệu Brave của bạn</a>.
+compare-brave-switching-to-firefox-is-easy = Chuyển sang { -brand-name-firefox } rất dễ dàng và nhanh - nhập dấu trang Brave, mật khẩu, lịch sử và tùy chọn của bạn chỉ bằng một cú nhấp chuột và ngay lập tức sẵn sàng sử dụng { -brand-name-firefox }. Đây là <a { $howto }>cách nhập dữ liệu từ Brave của bạn</a>.
