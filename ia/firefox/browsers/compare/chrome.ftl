@@ -7,3 +7,5 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } contra Google Chrome
+compare-chrome-we-block-trackers-by-default = Nos ordinarimente bloca le traciatores. Chrome non.
+compare-chrome-google-runs-the-worlds-largest = Google face fluer le plus grande retes de avisos publicitari in le mundo, e Chrome es parte de isto.
