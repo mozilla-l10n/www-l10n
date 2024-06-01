@@ -13,5 +13,5 @@ compare-index-see-how-firefox-stacks-up = Mirá cómo { -brand-name-firefox } se
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } frente a Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } frente a Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } frente a Apple Safari
-compare-index-firefox-versus-brave = { -brand-name-firefox } contra Brave
+compare-index-firefox-versus-brave = { -brand-name-firefox } frente a Brave
 compare-index-firefox-versus-opera = { -brand-name-firefox } frente a Opera
