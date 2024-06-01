@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Wobstarajće sej mobilny wobhladowak za waš { -brand-name-iphone } abo { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Jednorje priwatne mobilne přehladowanje.
-navigation-v2-privacy-promise = Slubjenje priwatnosće
-navigation-v2-learn-how-firefox-treats = Zhońće, kak { -brand-name-firefox } z wašimi datam z respektom wobchadźa.
 navigation-v2-firefox-blog = Blog { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Informujće so wo najnowšich funkcijach a móžnosćach { -brand-name-firefox }, zo byšće online wěsty wostał.
 navigation-v2-release-notes = Wersijowe informacije
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Wšě { -brand-name-firefox-browsers }
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Produktowy meni začinić
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Hladajće, hač so waša e-mejlowa adresa w datowej dźěrje předewzaća pokazuje.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Składujće a namakajće najlěpše stawiznički z cyłeho weba.
@@ -41,14 +37,13 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Zadźěwajće tomu, zo { -brand-name-facebook } waše daty zwonka swojeho sydła hromadźi.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Wobstarajće sej škit zwonka swojeho wobhladowaka, na wšěch swojich gratach.
-navigation-v2-product-promise = Produktowe slubjenje
-navigation-v2-learn-how-each-firefox-product = Zhońće, kak kóždy produkt { -brand-name-firefox } waše daty škita a respektuje.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujće so za nowe konta, bjeztoho zo byšće swoju e-mejlowu adresu podał.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nowe funkcije a nastroje za přiměrjene dožiwjenje { -brand-name-mdn }
 navigation-v2-view-all-products = Wšě produkty pokazać
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 
@@ -66,16 +61,12 @@ navigation-v2-careers = Powołanja
 navigation-v2-work-for-a-mission-driven-updated = Dźěłajće za organizaciju z misiju, za kotrejež produkty ludźo na prěnim městnje steja.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zhońće wjace wo { -brand-name-mozilla } a problemach, kotrež su nam wažne.
-navigation-v2-stories = Stawiznički
-navigation-v2-stories-about-how = Stawiznički wo tym, kak naše ludźo a produkty swět k lěpšemu wobroćeja.
 navigation-v2-more-about-mozilla = Wjace wo { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Inowacija
 navigation-v2-close-innovation-menu = Meni „Inowacija“ začinić
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Zetkajće so w tutym interaktiwnym, multidimensionalnym socialnym rumje online.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Wobstarajće sej wobhladowak { -brand-name-firefox }, jenož za wuwiwarjow wutworjeny.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

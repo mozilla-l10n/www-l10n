@@ -20,6 +20,7 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Wobstarajće sej najnowši. Tu je awtomatiska priwatnosć. Sćehńće { -brand-name-firefox-browser }, zo byšće přez { $trackers } přesćěhowakow blokował.
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujće funkcije, kotrež maja so wozjewić, w najstabilnišej předwersiji.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Wuwiwajće, testujće, přiměrće a wjace za jenički wobhladowak, kotryž je so za wuwiwarjow wuwił.

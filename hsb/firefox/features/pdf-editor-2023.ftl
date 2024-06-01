@@ -16,4 +16,5 @@ pdf-editor-view-and-edit-pdf-files-right-in = Wobhladajće sej a wobdźěłajće
 pdf-editor-fill-in-forms-online-without = Wupjelńće formulary online, bjeztoho zo byšće je ćišćał a skenował
 pdf-editor-add-text = Tekst přidać
 pdf-editor-add-drawings-or-your-signature = Přidajće rysowanki (abo swoju signaturu)
+pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
 pdf-editor-create-a-highlight = Wutworće wjeršk

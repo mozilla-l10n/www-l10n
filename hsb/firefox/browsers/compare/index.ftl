@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Přirunajće { -brand-name-firefox } z druhimi wobhladowakami
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } porno Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } porno Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } porno Apple Safari

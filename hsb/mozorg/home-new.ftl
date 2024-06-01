@@ -15,14 +15,19 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } produkty wutworja, kotrež 
 home-product-firefox-browsing = Priwatne a wěste přehladowanje
 home-cta-get-firefox = Wobstarajće sej { -brand-name-firefox }
 home-cta-get-pocket = { -brand-name-pocket } wobstarać
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Lochke wužiwanje e-mejlowych a telefonowych maskow
 home-cta-get-relay = { -brand-name-relay } wobstarać
 home-product-vpn-trust = VPN, kotremuž móžeće dowěrić
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstarać
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Warnowanja wo datowych dźěrach
 home-cta-get-monitor = { -brand-name-monitor } wobstarać
+home-cta-get-fakespot = Wobstarajće sej { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Čitajće wjace
+home-so-what-is-mozilla = Što tuž je { -brand-name-mozilla }?
 home-learn-about-mofo = Zhońće wjace wo załožbje { -brand-name-mozilla-foundation }
 home-join-the-fight = Wojujće z nami za strowy internet
 home-your-voice-your-code = Waš hłós. Waš kod. Waše ideje. Su tysacy móžnosćow, přez kotrež móžeće k { -brand-name-mozilla } přinošować.
@@ -31,3 +36,4 @@ home-learn-more-about-mozilla = Dalše informacije wo { -brand-name-mozilla }
 home-get-good-news = Wobstarajće sej (dobre) nowinki wo { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Doporučeny produkt
+home-mofo-donate = Darić

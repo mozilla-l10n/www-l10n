@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Wšo jasne. Wobstarajće sej { -brand-
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Sćelće { -brand-name-firefox } na swój telefon<br> a wuswobodźće internet z putow.
 whatsnew-s2d-download-firefox-for-your = Sćehńće { -brand-name-firefox } za swóje šmóratko a tablet.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Tutón QR-kod skenować

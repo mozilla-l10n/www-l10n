@@ -7,3 +7,4 @@
 
 features-fast-how-is-browser-speed-measured = Kak so spěšnosć wobhladowaka měri?
 features-fast-faster-every-day = Kóždy dźeń spěšniši
+features-fast-towards-a-faster-web = Za spěšniši web
