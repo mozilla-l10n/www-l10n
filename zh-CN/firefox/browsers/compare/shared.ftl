@@ -18,6 +18,6 @@ compare-shared-edit-pdfs-on-the-go = 无需额外的软件即可在 { -brand-nam
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>在本地安全翻译网页</a>。
 compare-shared-its-easy-to-switch = 切换很容易
-compare-shared-since-we-dont-have-to-make = 既然我们不必让股东满意我们可以专注于让<strong>您</strong>满意并将您的隐私和便利始终放在首位。
+compare-shared-since-we-dont-have-to-make = 我们无需讨好股东，所以可以<strong>专注于您</strong>，让您用得愉快，并将确保隐私与便利作为首要事项。
 # Used as a small link to a cited source
 compare-shared-source = 源代码
