@@ -24,7 +24,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Mirá cómo { -brand-nam
 # Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Mirá cómo { -brand-name-firefox } para escritorio se compara con otros siete navegadores.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Mirá cómo { -brand-name-firefox } para <strong> escritorio </strong> se compara con otros navegadores.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Mirá cómo { -brand-name-firefox } para <strong>escritorio</strong> se compara con otros navegadores.
 # Obsolete string (expires 30 June 2024)
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Mirá cómo { -brand-name-firefox } para <strong>escritorio</strong> se compara con otros siete navegadores.
