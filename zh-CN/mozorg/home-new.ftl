@@ -63,5 +63,5 @@ home-featured-product = 精选产品
 home-feature-blur-your-location = 使用 <span>{ -brand-name-mozilla-vpn }</span> 掩藏您的位置和活动
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = 众人拾柴火焰高
-home-mofo-donate-to-mofo-today = 立即捐款给 { -brand-name-mozilla-foundation }以确保互联网保持开放且人人可用。
+home-mofo-donate-to-mofo-today = 今天就向 { -brand-name-mozilla-foundation }捐款，守护互联网的开放，确保人人可用。
 home-mofo-donate = 捐款
