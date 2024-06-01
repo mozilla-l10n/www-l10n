@@ -9,10 +9,10 @@
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } frente a Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Leé nuestra comparación de los navegadores { -brand-name-firefox } y Edge en cuanto a características, privacidad y facilidad de uso.
-compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } hace que la protección de la privacidad sea fácil y conveniente para que no tengas que preocuparte por eso.
+compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } hace que la protección de la privacidad sea fácil y conveniente para que no tengás que preocuparte por eso.
 compare-edge-we-block-trackers-by-default = Bloqueamos los rastreadores por defecto. Edge no.
-compare-edge-and-we-make-it-easy-for-you = Y te facilitamos la elección del motor de búsqueda que utilizas. Edge te hace revisar tu configuración para usar un motor de búsqueda que no sea Bing.
-compare-edge-microsoft-has-to-make-their-shareholders = Microsoft tiene que hacer felices a sus accionistas, pero podemos centrarnos en <strong> hacerte </strong> feliz y priorizar tu privacidad.
+compare-edge-and-we-make-it-easy-for-you = Y te facilitamos la elección del buscador que preferís usar. Edge te hace ir hasta el fondo de la configuración para usar un buscador que no sea Bing.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft tiene que hacer felices a sus accionistas, pero nosotros podemos centrarnos en hacerte feliz <strong>a vos</strong> y priorizar tu privacidad.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-edge-switching-to-firefox-is-easy = Cambiarse a { -brand-name-firefox } es fácil y rápido: importa tus marcadores de Edge, tus contraseñas, historial y preferencias con un solo clic y prepárate para usar { -brand-name-firefox } de inmediato. Descubre <a { $howto }> cómo usar el botón Importar para cambiar </a>.
+compare-edge-switching-to-firefox-is-easy = Cambiarse a { -brand-name-firefox } es fácil y rápido: importá tus marcadores de Edge, tus contraseñas, historial y preferencias con un solo clic y preparate para usar { -brand-name-firefox } de inmediato. Descubrí <a { $howto }>cómo usar el botón Importar para cambiarte</a>.
