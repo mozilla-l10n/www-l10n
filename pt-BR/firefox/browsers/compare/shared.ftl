@@ -8,4 +8,7 @@
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Edite documentos PDF</a> em qualquer lugar, no próprio navegador { -brand-name-firefox }, não precisa de software adicional.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Traduza páginas</a> localmente, com privacidade.
 compare-shared-its-easy-to-switch = É fácil mudar
