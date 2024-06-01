@@ -8,7 +8,7 @@
 compare-shared-compare-firefox = Porovnání { -brand-name-firefox(case: "gen") }
 compare-shared-footer-cta-title = Udělejte více s { -brand-name-firefox(case: "ins") }
 compare-shared-footer-cta-desc = Získejte rychlý, lehký prohlížeč zaměřený na ochranu soukromí, za kterým stojí nezisková organizace a který funguje na všech vašich zařízeních.
-compare-shared-footer-cta-button = Stáhnout { -brand-name-firefox(case: "acc") }
+compare-shared-footer-cta-button = Stáhnout { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Nabízíme také snadno použitelné funkce jako:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } má také vestavěné nástroje jako:
 # Variables
@@ -17,7 +17,7 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Upravujte soubory PDF</a>, ať 
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Překlad webové stránky</a> lokálně a soukromě.
-compare-shared-its-easy-to-switch = Přepínání je snadné
+compare-shared-its-easy-to-switch = Přechod je snadný
 compare-shared-since-we-dont-have-to-make = Protože nemusíme dělat šťastnými akcionáře, můžeme se zaměřit na to, abyste udělali šťastným <strong>vás</strong>, a vaše soukromí a pohodlí vždy dávají na první místo.
 # Used as a small link to a cited source
 compare-shared-source = zdroj

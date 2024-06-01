@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 # Page title
-compare-index-compare-firefox-with-other = Porovnání { -brand-name-firefox(case: "gen") } s jinými prohlížeči
+compare-index-compare-firefox-with-other = Porovnání prohlížeče { -brand-name-firefox } s ostatními
 # Page description
 # "stacks up" is slang for a competitive comparison to determine a winner, like stacking blocks to see who has more.
 compare-index-see-how-firefox-stacks-up = Podívejte se, jak si { -brand-name-firefox } stojí oproti ostatním předním webovým prohlížečům pro počítače v oblasti funkcí, ochrany soukromí a snadného používání.

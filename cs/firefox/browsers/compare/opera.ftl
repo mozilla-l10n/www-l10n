@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # Page title
-compare-opera-firefox-vs-opera = { -brand-name-firefox } vs. Opera
+compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Opera z hlediska funkcí, soukromí a snadného používání.
 # Variables:

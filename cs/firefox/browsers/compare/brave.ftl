@@ -8,7 +8,7 @@
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
 # HTML page description
-compare-brave-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Brave z hlediska funkcí, soukromí a snadného používání.
+compare-brave-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Brave z hlediska funkcí, ochrany soukromí a snadného používání.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
 compare-brave-firefoxs-privacy-settings-are = Nastavení soukromí { -brand-name-firefox(case: "gen") } je silné a snadno se používá. Výchozí blokování reklam od Brave může navštěvované webové stránky rozbít, takže s ním musíte pokračovat. Chceme, aby vám soukromí bylo dostatečně pohodlné na to, abyste je skutečně <em>používali</em>.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } vám usnadňuje volbu vyhledávače, který chcete pro každé vyhledávání použít. Brave použije jako výchozí svůj vlastní vyhledávač a vy budete muset projít přes nastavení prohlížeče, abyste zvolili něco jiného.

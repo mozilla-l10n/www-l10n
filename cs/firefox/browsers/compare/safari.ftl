@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
 # Page title
-compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs. Apple Safari
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
 # HTML page description
-compare-safari-read-our-comparison = Přečtěte si srovnání funkcí, ochrany soukromí a snadného používání prohlížečů { -brand-name-firefox } a Safari.
+compare-safari-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Safari z hlediska funkcí, ochrany soukromí a snadného používání.
 compare-safari-safari-and-firefox-both-have = Safari i { -brand-name-firefox } mají dobré funkce ochrany soukromí a zabezpečení.
 compare-safari-but-firefox-also-has-built-in = { -brand-name-firefox } má ale také vestavěné nástroje jako:
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } nabízí široké možnosti přizpůsobení, včetně možnosti přesouvat nabídky a lišty na různá místa v okně prohlížeče. Rozhraní Safari je méně přizpůsobitelné.
