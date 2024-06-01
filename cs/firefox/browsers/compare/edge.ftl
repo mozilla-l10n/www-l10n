@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # Page title
-compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs. Microsoft Edge
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Edge z hlediska funkcí, soukromí a snadného používání.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } umožňuje snadnou a pohodlnou ochranu soukromí, takže se o ni nemusíte starat.

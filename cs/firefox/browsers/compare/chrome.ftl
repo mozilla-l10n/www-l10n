@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } a Google Chrome
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Přečtěte si naše srovnání funkcí, soukromí a snadného používání mezi { -brand-name-firefox(case: "ins") } a Chromem.
 # Variables:
