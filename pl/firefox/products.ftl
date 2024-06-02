@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = Produkty { -brand-name-mozilla(case: "gen") }
 # HTML page description
 firefox-products-mozillas-family-of-products = Wszystkie produkty rodziny { -brand-name-mozilla(case: "gen") } są zaprojektowane z myślą o Twoim bezpieczeństwie w Internecie
 firefox-products-products = Produkty
@@ -44,6 +46,7 @@ firefox-products-get-mozilla-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = Wspieraj { -brand-name-mdn }
 
 ## Thunderbird
 
@@ -57,6 +60,7 @@ firefox-products-fakespot = { -brand-name-fakespot }
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Odkrywaj najlepsze rzeczy w sieci — i wracaj do nich gdzie chcesz, kiedy chcesz. Od { -brand-name-mozilla(case: "gen") }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Odkrywaj najlepsze rzeczy w sieci — i wracaj do nich gdzie chcesz, kiedy chcesz.
-firefox-products-get-pocket = Pobierz { -brand-name-pocket }
+firefox-products-get-pocket = Wypróbuj { -brand-name-pocket }
