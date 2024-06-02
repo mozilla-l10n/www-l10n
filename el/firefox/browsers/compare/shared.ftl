@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-shared-footer-cta-button = Λήψη του { -brand-name-firefox }
+# Used as a small link to a cited source
+compare-shared-source = πηγή

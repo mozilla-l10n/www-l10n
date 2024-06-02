@@ -35,6 +35,7 @@ home-read-more = Διαβάστε περισσότερα
 home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = Η { -brand-name-mozilla } αποτελείται από δύο οργανισμούς. Η { -brand-name-mozilla-corporation } ανήκει εξ ολοκλήρου στον μη κερδοσκοπικό οργανισμό 501(c) { -brand-name-mozilla-foundation }. Αυτό σημαίνει ότι δεν υπηρετούμε κανέναν μέτοχο, παρά μόνο την αποστολή μας.
+home-so-what-is-mozilla = Τι είναι, λοιπόν, η { -brand-name-mozilla };
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
 home-join-the-fight = Λάβετε μέρος στη μάχη για ένα υγιές διαδίκτυο
 home-your-voice-your-code = Η φωνή σας, Ο κώδικάς σας. Οι ιδέες σας. Υπάρχουν κυριολεκτικά χιλιάδες τρόποι με τους οποίους μπορείτε να συνεισφέρετε στη { -brand-name-mozilla }.
