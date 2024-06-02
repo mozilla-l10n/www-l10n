@@ -42,6 +42,10 @@ home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o 
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad exclusiva de la organización sin ánimo de lucro 501(c) { -brand-name-mozilla-foundation }. Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
 home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Fundamentalmente, { -brand-name-mozilla } es una organización activista liderada por { -brand-name-mozilla-foundation } que genera cambios en el mundo a través de una variedad de iniciativas que incluyen { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> y <a { $mozai }>{ -brand-name-mozilla-ai }</a>. ¿Qué nos hace diferentes? El hecho de estar impulsados por una misión nos proporciona la libertad de tomar todas nuestras decisiones basándonos en lo que es mejor para Internet y para todos sus usuarios, no basándonos en los intereses de los accionistas; en realidad, no tenemos ningún accionista.
 home-learn-about-mofo = Saber más sobre la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
 home-your-voice-your-code = Tu voz. Tu código. Tus ideas. Hay literalmente miles de formas en las que puedes contribuir a { -brand-name-mozilla }.
@@ -57,3 +61,7 @@ home-get-news-and-tips = Recibe noticias y consejos de { -brand-name-mozilla } p
 home-featured-product = Producto destacado
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Difumina tu ubicación y actividad usando <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Ayuda a nuestro movimiento
+home-mofo-donate-to-mofo-today = Haz una donación a { -brand-name-mozilla-foundation } hoy para garantizar que Internet permanezca abierto y accesible para todos.
+home-mofo-donate = Donar
