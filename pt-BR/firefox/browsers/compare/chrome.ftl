@@ -7,3 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+compare-chrome-we-block-trackers-by-default = Nós bloqueamos rastreadores por padrão. O Chrome não.

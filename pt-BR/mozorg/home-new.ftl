@@ -19,16 +19,23 @@ home-product-firefox-browsing = Navegação privativa e segura
 home-cta-get-firefox = Use o { -brand-name-firefox }
 home-product-pocket-articles = Os artigos mais intrigantes da web
 home-cta-get-pocket = Use o { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Máscaras de email e celular fáceis de usar
+home-product-relay-hide-your = Oculte seu número de celular e endereço de email de spammers
 home-cta-get-relay = Tenha o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que você pode confiar
 home-cta-get-vpn = Instale o { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de vazamentos de dados
+home-product-monitor-protect-your = Proteja suas informações privativas de corretores de dados
 home-cta-get-monitor = Use o { -brand-name-monitor }
+home-product-fakespot-detect = Detecte avaliações falsas de compras
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está fazendo apostas para mostrar ao mundo que há negócios a ser feitos com inteligência artificial confiável. Isso inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como esses sistemas complexos funcionam.”
 # Politico is a brand name for a news organization
 home-politico-cite = politico.<!-- -->com
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma corporação ou uma entidade sem fins lucrativos? Na verdade, ambos.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = A { -brand-name-mozilla } consiste em duas organizações. A { -brand-name-mozilla-corporation } é de propriedade integral da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. Significa que não estamos comprometidos com nenhum acionista, apenas com nossa missão.
 home-learn-about-mofo = Conheça a { -brand-name-mozilla-foundation }
 home-join-the-fight = Participe da luta por uma internet saudável.
