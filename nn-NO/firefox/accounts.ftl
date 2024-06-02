@@ -11,6 +11,8 @@ mozilla-accounts-get-a-mozilla-account = Få ein { -brand-name-mozilla-account }
 firefox-accounts-get-a-firefox-account = Lag ein { -brand-name-firefox-account } – Hald dine data private, trygge og synkroniserte
 # Obsolete string
 firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein { -brand-name-firefox-account } no - Ei innlogging - Styrke og personvern overalt.
+# HTML page description
+mozilla-accounts-securely-sync-your = Synkroniser sikkert passord, bokmerke og faner på alle einingane dine. Skaff deg ein { -brand-name-mozilla-account } no – Ei innloggning – Kraft og personvern overallt.
 firefox-accounts-enter-your-email-address = Skriv inn e-postadressa di for å kome i gang.
 firefox-accounts-already-have-an-account = Har du allereie ein konto?
 firefox-accounts-sign-in = Logg inn
@@ -46,8 +48,6 @@ firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
