@@ -19,17 +19,29 @@ home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Obtén { -brand-name-firefox }
 home-product-pocket-articles = Los artículos más intrigantes de la web.
 home-cta-get-pocket = Obtener { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Máscaras de correo electrónico y de teléfono fáciles de usar
+home-product-relay-hide-your = Oculta tu número de teléfono y correo electrónico a los spammers
 home-cta-get-relay = Obtén { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que puedes confiar
 home-cta-get-vpn = Consigue { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas sobre filtraciones de datos
+home-product-monitor-protect-your = Protege tu información privada de los recopiladores de datos
 home-cta-get-monitor = Obtén { -brand-name-monitor }
+home-product-fakespot-detect = Detecta reseñas falsas sobre compras
+home-cta-get-fakespot = Obtener { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } está apostando por mostrarle al mundo que se puede hacer negocio con una IA fiable. Eso incluye poner aspectos como los derechos humanos, la protección de datos y la transparencia en el centro del funcionamiento de estos sistemas complejos.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Únete a nosotros para dar forma a una IA de confianza
+home-work-on-ai = El trabajo de { -brand-name-mozilla } con la IA no es algo nuevo: hemos pasado años financiando, construyendo y abogando por una IA que sea abierta, justa y se desarrolle de manera responsable. Nuestro enfoque está en crear una IA que esté al servicio de la gente, priorice la transparencia y apoye el bien público, no las agendas corporativas.
+home-read-more = Leer más
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o una organización sin ánimo de lucro? En realidad, ambas.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad exclusiva de la organización sin ánimo de lucro 501(c) { -brand-name-mozilla-foundation }. Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
+home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
 home-learn-about-mofo = Saber más sobre la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
 home-your-voice-your-code = Tu voz. Tu código. Tus ideas. Hay literalmente miles de formas en las que puedes contribuir a { -brand-name-mozilla }.
