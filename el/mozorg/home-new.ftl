@@ -50,3 +50,4 @@ home-get-news-and-tips = Λάβετε νέα και συμβουλές από τ
 home-featured-product = Προβεβλημένο προϊόν
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Αποκρύψτε την τοποθεσία και τη δραστηριότητά σας με το <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate = Δωρεά

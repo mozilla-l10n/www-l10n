@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } για { -brand-name-ios
 navigation-v2-get-the-mobile-browser = Αποκτήστε το πρόγραμμα περιήγησης για το { -brand-name-iphone } ή το { -brand-name-ipad } σας.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Απλά ιδιωτική περιήγηση σε κινητές συσκευές.
-navigation-v2-privacy-promise = Υπόσχεση απορρήτου
-navigation-v2-learn-how-firefox-treats = Μάθετε πώς το { -brand-name-firefox } χειρίζεται τα δεδομένα σας με σεβασμό.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-read-about-new-firefox-features = Διαβάστε για νέες λειτουργίες του { -brand-name-firefox } και τρόπους προστασίας στο διαδίκτυο.
 navigation-v2-release-notes = Σημειώσεις έκδοσης
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Προβολή όλων των προ�
 navigation-v2-products = Προϊόντα
 navigation-v2-close-products-menu = Κλείσιμο μενού προϊόντων
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Δείτε αν το email σας έχει εμφανιστεί στην παραβίαση δεδομένων μιας εταιρείας.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Αποθηκεύστε και ανακαλύψτε τα καλύτερα άρθρα από όλο το διαδίκτυο.
@@ -41,14 +37,13 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Εμποδίστε το { -brand-name-facebook } από τη συλλογή των δεδομένων σας εκτός της ιστοσελίδας του.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Λάβετε προστασία πέρα από το πρόγραμμα περιήγησής σας, σε όλες τις συσκευές σας.
-navigation-v2-product-promise = Υπόσχεση προϊόντων
-navigation-v2-learn-how-each-firefox-product = Μάθετε πώς κάθε προϊόν { -brand-name-firefox } προστατεύει και σέβεται τα δεδομένα σας.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Δημιουργήστε νέους λογαριασμούς χωρίς να δώσετε τη διεύθυνση email σας.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Νέες δυνατότητες και εργαλεία για μια προσαρμοσμένη εμπειρία στο { -brand-name-mdn }
 navigation-v2-view-all-products = Προβολή όλων των προϊόντων
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 
@@ -66,16 +61,12 @@ navigation-v2-careers = Καριέρες
 navigation-v2-work-for-a-mission-driven-updated = Εργαστείτε για έναν οργανισμό που έχει ως αποστολή τη δημιουργία προϊόντων για τον άνθρωπο.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Μάθετε για τη { -brand-name-mozilla } και τα ζητήματα που μας αφορούν.
-navigation-v2-stories = Ιστορίες
-navigation-v2-stories-about-how = Ιστορίες για τους ανθρώπους και τα προϊόντα μας που αλλάζουν τον κόσμο προς το καλύτερο.
 navigation-v2-more-about-mozilla = Περισσότερα σχετικά με τη { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Καινοτομία
 navigation-v2-close-innovation-menu = Κλείσιμο μενού καινοτομίας
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Συγκεντρωθείτε σε αυτόν τον διαδραστικό, διαδικτυακό, πολυδιάστατο κοινωνικό χώρο.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Αποκτήστε το πρόγραμμα περιήγησης { -brand-name-firefox } μόνο για προγραμματιστές.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
