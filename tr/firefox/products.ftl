@@ -52,6 +52,7 @@ firefox-products-support-mdn = { -brand-name-mdn }’i destekle
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Tüm e-postalarınıza, takvimlerinize ve kişilerinize tek bir hızlı uygulamadan erişin. Bunları istediğiniz gibi filtreleyip düzenleyin.
 firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 
 ## Fakespot

@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
+# Page title
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } ile Google Chrome Karşı Karşıya
+compare-chrome-we-block-trackers-by-default = Biz takip kodlarını varsayılan olarak engelliyoruz. Chrome engellemiyor.
 compare-chrome-google-runs-the-worlds-largest = Google dünyanın en büyük reklam ağını yönetiyor ve Chrome da bunun bir parçası.
