@@ -8,7 +8,7 @@
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
-compare-opera-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Opera o funkciách, súkromí a jednoduchosti používania.
+compare-opera-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Opera týkajúce sa funkcií, ochrany súkromia a jednoduchosti používania.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = Predvolené nastavenia ochrany osobných údajov vo { -brand-name-firefox(case: "loc") } sú silnejšie ako nastavenia Opery – a máme viac funkcií, ktoré zabránia webovým stránkam, aby vás sledovali, ako napríklad <a { $fingerprint }>blokovanie snímania odtlačkov prehliadača</a>.

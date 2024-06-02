@@ -8,7 +8,7 @@
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
 # HTML page description
-compare-safari-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Safari o funkciách, súkromí a jednoduchosti používania.
+compare-safari-read-our-comparison = Prečítajte si naše porovnanie prehliadačov { -brand-name-firefox } a Safari týkajúce sa funkcií, ochrany súkromia a jednoduchosti používania.
 compare-safari-safari-and-firefox-both-have = Safari a { -brand-name-firefox } majú dobré funkcie ochrany osobných údajov a zabezpečenia.
 compare-safari-but-firefox-also-has-built-in = Ale { -brand-name-firefox } má tiež vstavané nástroje, ako napríklad:
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } ponúka širokú škálu možností prispôsobenia, vrátane možnosti presúvať ponuky a panely nástrojov na rôzne miesta v okne prehliadača. Rozhranie Safari je menej prispôsobiteľné.
