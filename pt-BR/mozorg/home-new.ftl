@@ -30,9 +30,11 @@ home-product-monitor-data = Alertas de vazamentos de dados
 home-product-monitor-protect-your = Proteja suas informações privativas de corretores de dados
 home-cta-get-monitor = Use o { -brand-name-monitor }
 home-product-fakespot-detect = Detecte avaliações falsas de compras
+home-cta-get-fakespot = Use o { -brand-name-fakespot }
 home-mozilla-takes-bets = “A { -brand-name-mozilla } está fazendo apostas para mostrar ao mundo que há negócios a ser feitos com inteligência artificial confiável. Isso inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como esses sistemas complexos funcionam.”
 # Politico is a brand name for a news organization
 home-politico-cite = politico.<!-- -->com
+home-join-us-in-shaping = Junte-se a nós para moldar inteligência artificial confiável
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma corporação ou uma entidade sem fins lucrativos? Na verdade, ambos.
 # Obsolete string (expires: 2024-07-16)
@@ -52,3 +54,5 @@ home-get-news-and-tips = Receba notícias e dicas da { -brand-name-mozilla } par
 home-featured-product = Produto em destaque
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Oculte sua localização e atividade usando o <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate-to-mofo-today = Faça uma doação para a { -brand-name-mozilla-foundation } para assegurar que a internet permaneça aberta e acessível a todos.
+home-mofo-donate = Faça uma doação

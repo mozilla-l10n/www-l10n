@@ -7,6 +7,8 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+# HTML page description
+compare-brave-read-our-comparison = Leia nosso comparativo entre os navegadores { -brand-name-firefox } e Brave sobre recursos, privacidade e facilidade de uso.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
 compare-brave-firefoxs-privacy-settings-are = As configurações de privacidade do { -brand-name-firefox } são robustas e fáceis de usar. O bloqueio de anúncios padrão do Brave pode atrapalhar os sites que você visita, por isso você precisa ficar ajustando as configurações. Queremos que a privacidade seja conveniente o suficiente, de modo que você realmente <em>use</em>.
 compare-brave-firefox-makes-it-easy-for-you = O { -brand-name-firefox } facilita escolher qual mecanismo de pesquisa usar, toda vez que você faz uma pesquisa. O Brave usa por padrão seu próprio mecanismo de pesquisa, precisa acessar as configurações do navegador para escolher algo diferente.

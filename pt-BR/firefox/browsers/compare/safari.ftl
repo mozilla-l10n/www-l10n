@@ -7,3 +7,5 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = Leia nosso comparativo entre os navegadores { -brand-name-firefox } e Safari sobre recursos, privacidade e facilidade de uso.

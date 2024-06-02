@@ -7,4 +7,6 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Leia nosso comparativo entre os navegadores { -brand-name-firefox } e Chrome sobre recursos, privacidade e facilidade de uso.
 compare-chrome-we-block-trackers-by-default = Nós bloqueamos rastreadores por padrão. O Chrome não.
