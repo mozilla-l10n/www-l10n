@@ -4,63 +4,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Oui
+compare-shared-compare-firefox = Comparez { -brand-name-firefox }
+compare-shared-footer-cta-title = Faites-en plus avec { -brand-name-firefox }
+compare-shared-footer-cta-desc = Téléchargez le navigateur rapide, léger et respectueux de la vie privée qui fonctionne sur tous vos appareils et est conçu par une organisation à but non lucratif.
+compare-shared-footer-cta-button = Télécharger { -brand-name-firefox }
+compare-shared-we-also-offer-easy = Nous proposons également aux utilisateurs et utilisatrices des fonctionnalités comme :
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } possède également des outils intégrés comme :
 
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Non
-compare-shared-private-browsing-mode = Mode de navigation privée
-compare-shared-blocks-third-party-tracking-default = Bloque par défaut les cookies tiers utilisés pour le pistage
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Modifiez des PDF</a> directement dans la fenêtre { -brand-name-firefox } sans passer par un autre logiciel.
 
-compare-shared-blocks-cryptomining-scripts = Bloque les scripts de minage de cryptomonnaie
-compare-shared-blocks-fingerprinting-scripts = Bloque les scripts d’empreintes numériques
-compare-shared-blocks-social-trackers = Bloque les traqueurs de réseaux sociaux
-compare-shared-dashboard-to-review = Tableau de bord pour examiner les traqueurs bloqués
-compare-shared-autoplay-blocking = Bloque la lecture automatique
-compare-shared-tab-browsing = Navigation par onglets
-compare-shared-bookmark-manager = Gestion des marque-pages
-compare-shared-automatically-fills-out-forms = Remplissage automatique des formulaires
-compare-shared-automatically-fills-out-payments = Remplissage automatique des paiements
-compare-shared-search-engine-options = Choix du moteur de recherche
-compare-shared-text-to-speech = Synthèse vocale
-compare-shared-reader-mode = Mode lecture
-compare-shared-spell-checking = Vérification orthographique
-compare-shared-web-extensionsadd-ons = Extensions web / modules complémentaires
-compare-shared-in-browser-screenshot-tool = Outil de capture d’écran dans le navigateur
-compare-shared-os-availability = Disponibilité par système d’exploitation
-compare-shared-mobile-os-availability = Disponibilité pour les systèmes d’exploitation mobiles
-compare-shared-syncs-with-mobile = Synchronisation avec mobiles
-compare-shared-password-management = Gestion des mots de passe
-compare-shared-primary-password = Mot de passe principal
-compare-shared-security-and-privacy = Sécurité et vie privée
-compare-shared-utility = Utilité
-compare-shared-portability = Portabilité
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Traduisez une page web</a> de façon locale et en toute confidentialité.
+compare-shared-its-easy-to-switch = Une transition fluide
+compare-shared-since-we-dont-have-to-make = Nous n’avons pas d’actionnaires à satisfaire. Pour nous, c’est <strong>votre confort d’utilisation et votre vie privée qui priment</strong>.
 
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Sécurité et <strong>vie privée</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Utilité</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Portabilité</strong>
-compare-shared-overall-assessment = Évaluation globale
-
-compare-shared-the-comparisons-made-here-updated = Les comparaisons ont été réalisées avec les paramètres par défaut et entre les versions des navigateurs précisées comme suit :
-compare-shared-this-page-updated-semi-quarterly = Cette page est mise à jour semi-trimestriellement pour refléter les dernières versions et peut ne pas toujours refléter les dernières mises à jour.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Télécharger { -brand-name-firefox }
-compare-shared-download-firefox-browser = Télécharger { -brand-name-firefox-browser }
-compare-shared-download-the-app = Télécharger l’appli
-compare-shared-desktop = Ordinateur
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Comparer les navigateurs
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Performances</strong>
+# Used as a small link to a cited source
+compare-shared-source = source
