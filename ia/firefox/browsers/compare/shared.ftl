@@ -11,6 +11,9 @@ compare-shared-footer-cta-desc = Obtene le navigator veloce, legier, attente al 
 compare-shared-footer-cta-button = Discargar { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Nos alsi offere functiones facile a usar tal como:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } alsi ha utensiles integrate tal como:
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Traduce un pagina web</a> localmente e privatemente
 compare-shared-its-easy-to-switch = Il es facile passar
 # Used as a small link to a cited source
 compare-shared-source = fonte
