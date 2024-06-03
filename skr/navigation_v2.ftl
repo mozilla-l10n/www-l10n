@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } کیتے { -brand-name-firef
 navigation-v2-get-the-mobile-browser = آپݨے { -brand-name-ipad } یا { -brand-name-iphone } کیتے موبائل براؤزر گھنو۔
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = بس نجی موبائل براؤزنگ۔
-navigation-v2-privacy-promise = رازداری وعدہ
-navigation-v2-learn-how-firefox-treats = ڄاݨو جو کیویں { -brand-name-firefox } تہاݙے ڈیٹا دا احترام کریندا ہے۔
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-read-about-new-firefox-features = نویاں { -brand-name-firefox } خصوصیات دے بارے تے آن لائن محفوظ رہݨ دے طریقے  پڑھو۔
 navigation-v2-release-notes = ریلیز نوٹ
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = سارے { -brand-name-firefox-browser
 navigation-v2-products = مصنوعات
 navigation-v2-close-products-menu = مصنوعات مینیو بند کرو
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ݙیکھو جو بھلا تہاݙا ای میل کمپنی دے ڈیٹا دی خلاف ورزی وِچ ظاہر تھیا ہے۔
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = پوری ویب وچوں بہترین کہاݨیاں دریافت تے محفوظ کرو۔
@@ -41,14 +37,13 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } کوں انہاں دی سائٹ کنوں ٻاہر اپݨا ڈیٹا کٹھا کرݨ کنوں روکݨ وِچ مدد کرو۔
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = آپݨیاں ساریاں ڈیوائساں تے آپݨے بروازر کنوں ودھ حفاظت گھنو۔
-navigation-v2-product-promise = مصنوعات وعدہ
-navigation-v2-learn-how-each-firefox-product = ڄاݨو جو کیویں ہر { -brand-name-firefox } بݨتر تہاݙے ڈیٹا دی حفاظت تے احترام کریندا ہے۔
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (بیٹا)
 navigation-v2-sign-up-for-new-accounts = آپݨاں ای میل پتہ حوالے کیتے بغیر نویں کھاتے کیتے سائن اپ تھیوو۔
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = محصوص بݨائے ہوئے { -brand-name-mdn } تجربے کیتے نویاں خصوصیات تے اوزار
 navigation-v2-view-all-products = ساریاں مصنوعات ݙیکھو
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 

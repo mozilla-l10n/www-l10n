@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 footer-privacy-hub = رازداری ہب
 footer-privacy = رازداری
 footer-press = پریس
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = کارپوریٹ بلاگ
+footer-mozilla-blog = { -brand-name-mozilla } بلاگ
 footer-browser-comparison = براؤزر ویورا
 footer-brand-standards = برانڈ دے معیار
 footer-browsers = براؤزر

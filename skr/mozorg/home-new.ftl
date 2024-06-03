@@ -19,16 +19,22 @@ home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
 home-product-pocket-articles = ویب دے سب کنوں ودھ دلچسپ مضامین
 home-cta-get-pocket = { -brand-name-pocket } گھنو
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = سوکھے ورتیجݨ آلی ای میل تے فون ماسک
 home-cta-get-relay = { -brand-name-relay } گھنو
 home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھروسہ کر سڳدے ہو
 home-cta-get-vpn = { -brand-name-mozilla-vpn } گھنو
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = ڈیٹا دی خلاف ورزی دے الرٹ
 home-cta-get-monitor = { -brand-name-monitor } گھنو
+home-cta-get-fakespot = { -brand-name-fakespot } گھنو
 home-mozilla-takes-bets = "{ -brand-name-mozilla }دُنیاں کو اِیہ ݙِکھاوݨ کِیتے شرطاں لین٘دا پِیا ہِے جو قابلِ اعتماد اے آئی دے نال ہِک کاروبار کِیتا وین٘دا ہِے۔ اِین٘دے وِچ انسانی حقوق، ڈیٹا دے تحفّظ اَتے شفافیت جیہیں شئیں کوں بنیادی طور تے رکّھݨ شامل ہِے جو اِیہ پیچیدہ نظام کیویں کَم کرین٘دے ہِن۔"
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = ٻیا پڑھو
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } کارپوریشن ہے یا غیرمنافع بخش؟ اصل وچ، ݙوہیں۔
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla }ݙُو تنظیماں اُتے مشتمل ہِے۔ { -brand-name-mozilla-corporation }پوری طرح غیر منافع بخش 501(سی) { -brand-name-mozilla-foundation }دی ملکیت ہِے۔ جین٘دا مطلب ہِے جو اَساں کئیں وی بھئیوال دی نظر وِچ نِھسے — صرف آپݨے مشن کِیتے۔
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
@@ -45,3 +51,4 @@ home-get-news-and-tips = ویب کوں ہِک صِحت ون٘د جاء بݨاو�
 home-featured-product = خاص پروڈکٹ
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> ورت تے آپݨے مقام تے سرگرمی کوں دھندلا کرو
+home-mofo-donate = عطیہ ݙیوو

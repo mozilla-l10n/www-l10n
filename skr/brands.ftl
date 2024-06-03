@@ -70,8 +70,6 @@
 -brand-name-firefox-accounts = Firefox کھاتے
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-lockwise = Firefox Lockwise
-# Obsolete brand name
--brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = فائرفوکس رِیلے پریمیئم
 -brand-name-firefox-relay = Firefox Relay
@@ -101,6 +99,10 @@
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+-brand-name-fakespot = Fakespot
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
@@ -118,6 +120,7 @@
 -brand-name-mozilla-account = Mozilla کھاتہ
 -brand-name-mozilla-accounts = Mozilla کھاتے
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = موزلّا اے آئی
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
