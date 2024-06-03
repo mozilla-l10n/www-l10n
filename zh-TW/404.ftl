@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/404/
 
-not-found-page-not-found-page-page-not-found = 404: 找不到網頁
+not-found-page-not-found-page-page-not-found = 404：找不到網頁
 not-found-page-sorry-we-cant-find-that-page = 哎呀！找不到這一頁
 not-found-page-were-all-about-a-healthy-internet = 我們致力於打造健康的網路環境，但有時也會有網址失效。
 not-found-page-go-back = 返回

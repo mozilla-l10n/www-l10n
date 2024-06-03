@@ -25,10 +25,10 @@ vpn-pricing-access =
        *[other] 使用位於超過 { $countries } 個國家，超過 { $servers } 台伺服器
     }
 vpn-pricing-money-back = 30 天退款保證（僅適用於新客戶）
-vpn-pricing-annual = 每年
-vpn-pricing-monthly = 每月
-vpn-pricing-get-annual-subscription = 獲得年度訂閱
-vpn-pricing-get-monthly-subscription = 獲得每月訂閱
+vpn-pricing-annual = 年約月繳
+vpn-pricing-monthly = 每月續約
+vpn-pricing-get-annual-subscription = 每年續約一次
+vpn-pricing-get-monthly-subscription = 每月續約一次
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } 尚未在您的國家推出
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = 常見問題
