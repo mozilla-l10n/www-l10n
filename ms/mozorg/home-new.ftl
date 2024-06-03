@@ -27,6 +27,7 @@ home-cta-get-pocket = Dapatkan { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Samaran e-mel & telefon yang mesra pengguna
 
+home-product-relay-hide-your = Sembunyikan nombor telefon dan e-mel anda daripada spammer
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang anda boleh percayai
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
@@ -34,13 +35,19 @@ home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Amaran pencerobohan data
 
+home-product-monitor-protect-your = Lindungi maklumat peribadi anda daripada orang tengah
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
+home-product-fakespot-detect = Mengesan ulasan membeli-belah yang palsu
+home-cta-get-fakespot = Dapatkan { -brand-name-fakespot }
 
 home-mozilla-takes-bets = "{ -brand-name-mozilla } bersungguh-sungguh demi membuktikan kepada dunia bahawa perniagaan tetap boleh berjalan lancar dengan menggunakan AI yang boleh dipercayai. Ini termasuklah meletakkan hak asasi manusia, perlindungan data serta ketelusan sebagai batu asas di dalam pembangunan sistem yang kompleks."
 
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+home-join-us-in-shaping = Sertai kami dalam usaha membentuk AI yang boleh dipercayai
+home-work-on-ai = Usaha { -brand-name-mozilla } dalam bidang AI bukan satu perkara baru — selama bertahun-tahun lamanya kami membiayai, membangun serta memperjuangkan AI yang terbuka, adil dan bertanggungjawab. Fokus kami adalah untuk membangunkan AI yang berkhidmat demi pengguna, mengutamakan ketelusan dan menyokong apa yang terbaik untuk pengguna awam dan bukannya agenda korporat.
+home-read-more = Baca Lagi
 
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Adakah { -brand-name-mozilla } sebuah syarikat atau badan bukan berasaskan keuntungan? Kedua-duanya sekali.
@@ -48,7 +55,12 @@ home-is-mozilla-a-corporation = Adakah { -brand-name-mozilla } sebuah syarikat a
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } terdiri daripada dua organisasi. { -brand-name-mozilla-corporation } dimiliki sepenuhnya oleh 501(c) bukan berasaskan keuntungan iaitu { -brand-name-mozilla-foundation }. Bermakna, kami bukan bertanggungjawab kepada mana-mana pemegang saham — dalam misi kami.
 
+home-so-what-is-mozilla = Jadi, apakah { -brand-name-mozilla } sebenarnya?
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Pada asasnya, { -brand-name-mozilla } adalah satu organisasi aktivis yang dikemudi oleh { -brand-name-mozilla-foundation } yang memperjuangkan perubahan positif di dunia ini melalui beberapa usaha termasuklah { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> dan <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Kenapa kami berbeza? Kami dipacu oleh satu misi. Ini bermakna kami mampu berbuat keputusan demi kebaikan pengguna internet sejagat, bukannya berdasarkan kehendak pemegang saham — kami tidak mempunyai pemegang saham.
 
 home-learn-about-mofo = Ketahui tentang { -brand-name-mozilla-foundation }
 
@@ -71,3 +83,7 @@ home-featured-product = Produk paparan
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Kaburkan lokasi &amp; aktiviti anda menggunakan <span>{ -brand-name-mozilla-vpn }</span>
 
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Membina gerakan
+home-mofo-donate-to-mofo-today = Hulurkan derma anda kepada { -brand-name-mozilla-foundation } hari ini bagi memastikan internet kekal terbuka dan boleh diakses oleh semua.
+home-mofo-donate = Sumbangan
