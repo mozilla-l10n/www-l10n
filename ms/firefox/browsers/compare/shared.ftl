@@ -4,63 +4,22 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Ya
+compare-shared-compare-firefox = Bandingkan { -brand-name-firefox }
+compare-shared-footer-cta-title = Nikmati lebih lagi dengan { -brand-name-firefox }
+compare-shared-footer-cta-desc = Dapatkan pelayar yang pantas, ringan serta memfokus kepada privasi pengguna yang disokong oleh organisasi bukan berasaskan keuntungan serta boleh digunakan di semua peranti anda.
+compare-shared-footer-cta-button = Muat turun { -brand-name-firefox }
+compare-shared-we-also-offer-easy = Kami juga menawarkan ciri-ciri seperti:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } juga mempunyai alatan siap bina seperti: { "" }
 
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Tidak
-compare-shared-private-browsing-mode = Mod Pelayaran Peribadi
-compare-shared-blocks-third-party-tracking-default = Menyekat kuki penjejak pihak ketiga secara lalai
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Suntingan PDF</a> yang siap terbina di dalam jendela pelayar { -brand-name-firefox } - perisian tambahan tidak diperlukan.
 
-compare-shared-blocks-cryptomining-scripts = Menyekat skrip perlombongan kripto
-compare-shared-blocks-fingerprinting-scripts = Menyekat skrip pengecap jari
-compare-shared-blocks-social-trackers = Menyekat pengesan sosial
-compare-shared-dashboard-to-review = Papan pemuka untuk menyemak penjejak yang disekat
-compare-shared-autoplay-blocking = Sekatan main automatik
-compare-shared-tab-browsing = Pelayaran tab
-compare-shared-bookmark-manager = Pengurus tandabuku
-compare-shared-automatically-fills-out-forms = Mengisi borang secara automatik
-compare-shared-automatically-fills-out-payments = Mengisi ruang bayaran secara automatik
-compare-shared-search-engine-options = Pilihan enjin carian
-compare-shared-text-to-speech = Teks ke ucapan
-compare-shared-reader-mode = Mod pembaca
-compare-shared-spell-checking = Menyemak ejaan
-compare-shared-web-extensionsadd-ons = Sambungan/Tambahan Web
-compare-shared-in-browser-screenshot-tool = Ciri tangkap skrin dalam pelayar
-compare-shared-os-availability = Ketersediaan OS
-compare-shared-mobile-os-availability = Ketersediaan OS mudah alih
-compare-shared-syncs-with-mobile = Keselarasan dengan mudah alih
-compare-shared-password-management = Pengurusan kata laluan
-compare-shared-primary-password = Kata laluan utama
-compare-shared-security-and-privacy = Keselamatan dan Privasi
-compare-shared-utility = Utiliti
-compare-shared-portability = Kemudahalihan
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Terjemahan laman web</a> secara tempatan dan peribadi.
+compare-shared-its-easy-to-switch = Mudah sekali untuk bertukar
+compare-shared-since-we-dont-have-to-make = Apabila pemegang saham tidak menjadi kepentingan kami, kami mampu memberi fokus kepada keceriaan <strong>anda</strong> selain mengutamakan privasi dan keselesaan.
 
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Keselamatan dan <strong>Privasi</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Utiliti</strong>
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Kemudahalihan</strong>
-compare-shared-overall-assessment = Penilaian Keseluruhan
-
-compare-shared-the-comparisons-made-here-updated = Perbandingan yang dibuat di sini dilakukan dengan tetapan lalai dan dengan semua versi keluaran pelayar seperti yang berikut:
-compare-shared-this-page-updated-semi-quarterly = Halaman ini dikemas kini setiap suku tahun untuk menunjukkan versi terkini dan mungkin tidak sentiasa menunjukkan kemas kini terkini.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Muat turun { -brand-name-firefox }
-compare-shared-download-firefox-browser = Muat turun { -brand-name-firefox-browser }
-compare-shared-download-the-app = Muat turun aplikasi
-compare-shared-desktop = Desktop
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Bandingkan Pelayar
-
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Prestasi</strong>
+# Used as a small link to a cited source
+compare-shared-source = sumber
