@@ -27,6 +27,7 @@ home-cta-get-pocket = Hol dir jetzt { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Einfach zu verwendende E-Mail- und Telefonmasken
 
+home-product-relay-hide-your = Verberge deine Telefonnummer und E-Mail-Adresse vor Spammern
 home-cta-get-relay = Hol dir jetzt { -brand-name-relay }
 home-product-vpn-trust = Ein VPN, dem Sie vertrauen können
 home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
@@ -34,13 +35,19 @@ home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Warnmeldungen zu Datenlecks
 
+home-product-monitor-protect-your = Schütze deine privaten Daten vor Datenbrokers
 home-cta-get-monitor = Hol dir jetzt { -brand-name-monitor }
+home-product-fakespot-detect = Gefälschte Shopping-Bewertungen erkennen
+home-cta-get-fakespot = Hol dir jetzt { -brand-name-fakespot }
 
 home-mozilla-takes-bets = „{ -brand-name-mozilla } möchte der Welt unter Beweis stellen, dass man mit vertrauenswürdiger KI Geld verdienen kann. Das schließt Dinge wie Menschenrechte, Datenschutz und Transparenz ein, die für den Betrieb dieser komplexen Systeme von zentraler Bedeutung sind.“
 
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+home-join-us-in-shaping = Hilf uns dabei, vertrauenswürdige KI zu gestalten
+home-work-on-ai = { -brand-name-mozilla }s Arbeit mit der KI ist nichts Neues – wir setzen uns schon seit Jahren dafür ein, eine KI zu finanzieren und zu formen, die fair ist und verantwortungsvoll entwickelt wird. Unser Schwerpunkt ist dabei die Entwicklung einer KI, die Menschen dient, Transparenz priorisiert und die statt unternehmerischer Interessen das Wohl der Öffentlichkeit unterstützt.
+home-read-more = Weiterlesen
 
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Ist { -brand-name-mozilla } ein Unternehmen oder eine Non-Profit-Organisation? Beides, wenn man's genau nimmt.
@@ -48,7 +55,12 @@ home-is-mozilla-a-corporation = Ist { -brand-name-mozilla } ein Unternehmen oder
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } besteht aus zwei Organisationen. Die { -brand-name-mozilla-corporation } ist zu 100 % im Besitz der Non-Profit 501(c) { -brand-name-mozilla-foundation }. Wir sind also nicht an Shareholder gebunden, sondern nur an unsere Mission.
 
+home-so-what-is-mozilla = Was genau ist eigentlich { -brand-name-mozilla }?
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Im Kern ist { -brand-name-mozilla } eine von der { -brand-name-mozilla-foundation } geleitete aktivistische Organisation, die durch eine Reihe verschiedener Projekte Veränderungen in der Welt bewirken will. Dazu gehören { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> und <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Was zeichnet uns aus? Uns treibt eine Mission an, und das bedeutet, dass wir die Freiheit besitzen, sämtliche unserer Entscheidungen basierend auf dem zu treffen, was für das Internet und alle, die sich online bewegen, das Beste ist, statt uns nach den Forderungen von Shareholdern richten zu müssen. Wir haben nämlich keine Shareholder.
 
 home-learn-about-mofo = Erfahren Sie mehr über die { -brand-name-mozilla-foundation }
 
@@ -71,3 +83,7 @@ home-featured-product = Vorgestelltes Produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Verwischen Sie mit <span>{ -brand-name-mozilla-vpn }</span> Ihren Standort und Ihre Aktivitäten
 
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Stärke unsere Bewegung
+home-mofo-donate-to-mofo-today = Spende heute an die { -brand-name-mozilla-foundation } und stelle sicher, dass das Internet offen und für alle zugänglich bleibt.
+home-mofo-donate = Spenden

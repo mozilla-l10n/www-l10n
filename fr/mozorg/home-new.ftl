@@ -27,6 +27,7 @@ home-cta-get-pocket = Installer { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Des alias de messagerie et de numéro de téléphone simples à utiliser
 
+home-product-relay-hide-your = Masquez votre numéro de téléphone pour ne pas être importuné·e par des e-mails ou des appels téléphoniques non sollicités.
 home-cta-get-relay = Installer { -brand-name-relay }
 home-product-vpn-trust = Un VPN de confiance
 home-cta-get-vpn = Installer { -brand-name-mozilla-vpn }
@@ -34,13 +35,19 @@ home-cta-get-vpn = Installer { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertes sur les fuites de données
 
+home-product-monitor-protect-your = Protégez vos informations personnelles des revendeurs de données.
 home-cta-get-monitor = Installer { -brand-name-monitor }
+home-product-fakespot-detect = Détectez les faux avis sur les sites d’e-commerce
+home-cta-get-fakespot = Installer { -brand-name-fakespot }
 
 home-mozilla-takes-bets = « { -brand-name-mozilla } parie sur le fait de montrer au monde qu’il est possible de concevoir et de commercialiser une IA digne de confiance. Ce concept nécessite de placer les droits humains, la protection des données et la transparence au cœur du fonctionnement de ces systèmes complexes. »
 
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+home-join-us-in-shaping = Aidez-nous à bâtir une IA digne de confiance
+home-work-on-ai = Chez { -brand-name-mozilla }, cela fait plusieurs années que nous nous intéressons à l’intelligence artificielle, en défendant des modèles ouverts, équitables mais aussi développés de manière responsable. Notre objectif est de proposer une IA qui soit au service du plus grand nombre, et qui ne serve pas seulement des intérêts privés.
+home-read-more = En savoir plus
 
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } : entreprise ou organisation à but non lucratif ? Les deux, en vérité.
@@ -48,7 +55,12 @@ home-is-mozilla-a-corporation = { -brand-name-mozilla } : entreprise ou organis
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } est constituée de deux organisations. { -brand-name-mozilla-corporation } est entièrement détenue par l’organisation à but non lucratif 501(c) { -brand-name-mozilla-foundation }. Ce qui signifie que nous ne rendons de comptes à aucun actionnaire ; seule notre mission importe.
 
+home-so-what-is-mozilla = Qu’est-ce que { -brand-name-mozilla } ?
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla } est une organisation qui dépend directement de la { -brand-name-mozilla-foundation } et dont le but est d’amorcer un changement dans le monde à travers différentes actions et structures comme { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> et <a { $mozai }>{ -brand-name-mozilla-ai }</a>. En quoi sommes-nous différents ? Parce que nous agissons dans le seul intérêt des missions que nous nous sommes fixés, nous sommes libres de prendre des décisions qui profitent à Internet et à ses utilisateurs et utilisatrices. Nous n’avons pas à nous soucier des intérêts d’actionnaires, car nous avons fait le choix de ne pas en avoir.
 
 home-learn-about-mofo = En savoir plus sur la { -brand-name-mozilla-foundation }
 
@@ -71,3 +83,7 @@ home-featured-product = Produit mis en avant
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Masquez votre localisation et votre activité avec <span>{ -brand-name-mozilla-vpn }</span>
 
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Contribuez à notre mouvement
+home-mofo-donate-to-mofo-today = Faites un don à la { -brand-name-mozilla-foundation } pour qu’Internet reste ouvert et accessible à tous.
+home-mofo-donate = Faire un don

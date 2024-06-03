@@ -27,6 +27,7 @@ home-cta-get-pocket = نزِّل متصفح { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = قِناعات بريد إلكتروني وهاتف سهلة الاستخدام
 
+home-product-relay-hide-your = إخفاء رقم هاتفك وبريدك الإلكتروني عن أعين مرسلي رسائل البريد العشوائي
 home-cta-get-relay = نزِّل متصفح { -brand-name-relay }
 home-product-vpn-trust = شبكة افتراضية خاصة تثق بها
 home-cta-get-vpn = نزِّل متصفح { -brand-name-mozilla-vpn }
@@ -34,13 +35,19 @@ home-cta-get-vpn = نزِّل متصفح { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = تنبيهات خرق البيانات
 
+home-product-monitor-protect-your = حماية معلوماتك الخاصة من مُخترقي البيانات
 home-cta-get-monitor = نزِّل متصفح { -brand-name-monitor }
+home-product-fakespot-detect = اكتشاف تقييمات التسوّق الزائفة
+home-cta-get-fakespot = نزِّل متصفح { -brand-name-fakespot }
 
 home-mozilla-takes-bets = "تراهن { -brand-name-mozilla } لتُثبت للعالم أن هناك أعمال يُمكن تنفيذها بالاعتماد على الذكاء الاصطناعي الموثوق. وهذا يتضمّن ضرورة وضع مجموعة من العوامل مثل حقوق الإنسان وحماية البيانات والشفافية في قلب هذه الأنظمة المعقّدة."
 
 # Politico is a brand name for a news organization
 home-politico-cite = بوليتيكو
 
+home-join-us-in-shaping = انضم إلينا لبناء ذكاء اصطناعي موثوق
+home-work-on-ai = لا يُعتبر عمل { -brand-name-mozilla } بالذكاء الاصطناعي مجرد شيء جديد—فقد قضينا سنوات في تمويل الذكاء الاصطناعي وبنائه والدفاع عنه، ذكاء اصطناعي مفتوح وعادل ومطوّر بطريقة مسؤولة. يَنصب تركيزُنا على بناء ذكاء اصطناعي يخدم الناس ويُعطي الأولوية للشفافية ويدعم الصالح العام وليس الأجندات المؤسسية.
+home-read-more = اطَّلِع على المزيد
 
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = هل { -brand-name-mozilla } شركة أو مؤسسة غير ربحية؟ إنها الاثنين معًا في واقع الأمر.
@@ -48,7 +55,12 @@ home-is-mozilla-a-corporation = هل { -brand-name-mozilla } شركة أو مؤ�
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = تتكوّن { -brand-name-mozilla } من مُؤسستين. تُعد { -brand-name-mozilla-corporation } مملوكة بالكامل لشركة { -brand-name-mozilla-foundation } غير الربحية 501(c). وهذا يعني أننا لسنا مُلتزمين بأي شيء لأي مُساهمين — بل نحن ملتزمون برسالتنا فقط.
 
+home-so-what-is-mozilla = إذن، ما هي { -brand-name-mozilla }؟
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = في الجوهر، تُعتبر { -brand-name-mozilla } مؤسسة نشطة تمارس عملها تحت قيادة { -brand-name-mozilla-foundation } التي تُحدث التغيير في العالم من خلال مجموعة متنوعة من المشاريع مثل { -brand-name-mozilla-corporation }، MZLA، <a { $ventures }>{ -brand-name-mozilla-ventures }</a> و <a { $mozai }>{ -brand-name-mozilla-ai }</a>. كيف نختلف عن الآخرين؟ نظرًا لأننا نعمل بهدف تحقيق مُهمة محدّدة، فهذا يعني أننا نمتلك حرية اتخاذ جميع قراراتنا بناءً على ما هو أفضل للإنترنت وللجميع عبر الإنترنت، وليس بناءً على مطالب المساهمين — ليس لدينا مساهمين في الواقع.
 
 home-learn-about-mofo = معرفة المزيد عن { -brand-name-mozilla-foundation }
 
@@ -71,3 +83,7 @@ home-featured-product = منتج مُميز
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = إخفِ موقعك ونشاطك باستخدام <span>{ -brand-name-mozilla-vpn }</span>
 
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = بناء حركتنا
+home-mofo-donate-to-mofo-today = تبرّع لحساب { -brand-name-mozilla-foundation } اليوم لِضمان بقاء الإنترنت مفتوحًا ومتاحًا للجميع.
+home-mofo-donate = تبرَّع
