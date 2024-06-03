@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
 # Page title
-compare-brave-firefox-vs-brave = { -brand-name-firefox } 与 Brave
+compare-brave-firefox-vs-brave = { -brand-name-firefox } 对比 Brave
 # HTML page description
 compare-brave-read-our-comparison = 阅读我们对 { -brand-name-firefox } 与 Brave 浏览器在功能、隐私和易用性方面的比较。
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
