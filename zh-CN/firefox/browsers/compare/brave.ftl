@@ -8,9 +8,9 @@
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } 对比 Brave
 # HTML page description
-compare-brave-read-our-comparison = 阅读我们对 { -brand-name-firefox } 与 Brave 浏览器在功能、隐私和易用性方面的比较。
+compare-brave-read-our-comparison = 将 { -brand-name-firefox } 与 Brave 浏览器，在功能、隐私、易用性等方面比比看。
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } 的隐私设置强大且易于使用。 Brave 的默认广告拦截功能可能会导致您访问的网站异常因此您需要继续使用它。我们希望隐私保护您能<em>真正地用到</em>。
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } 的隐私设置强大而易用。Brave 默认的广告拦截器可能会造成网站异常，需要您来来回回调整设置。我们希望既能保持隐私，又不耽误效率，这样才真正<em>实用</em>。
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } 可让您轻松选择每次搜索时使用的搜索引擎。 Brave 默认使用自己的搜索引擎您必须到浏览器设置中选择不同的引擎。
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
