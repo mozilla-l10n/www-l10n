@@ -19,4 +19,4 @@ compare-chrome-chrome-allows-other-websites-to = Mae Chrome yn caniatáu i wefan
 compare-chrome-google-runs-the-worlds-largest = Mae Google yn rhedeg rhwydwaith hysbysebu mwyaf y byd, ac mae Chrome yn rhan o hynny.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
-compare-chrome-switching-to-firefox-is-easy = Mae newid i { -brand-name-firefox } yn hawdd ac yn gyflym — mewngludwch eich nodau tudalen Chrome, eich cyfrineiriau, hanes a dewisiadau gydag un clic a byddwch yn barod i ddefnyddio { -brand-name-firefox } ar unwaith. Darganfyddwch <a { $howto }>sut i newid o Chrome i { -brand-name-firefox }</a>.
+compare-chrome-switching-to-firefox-is-easy = Mae newid i { -brand-name-firefox } yn hawdd ac yn gyflym — mewngludwch eich nodau tudalen, eich cyfrineiriau, hanes a dewisiadau Chrome gydag un clic a byddwch yn barod i ddefnyddio { -brand-name-firefox } ar unwaith. Dyma <a { $howto }>sut i newid o Chrome i { -brand-name-firefox }</a>.
