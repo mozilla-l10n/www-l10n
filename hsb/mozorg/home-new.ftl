@@ -11,6 +11,7 @@ home-did-you-know-mozilla-the-maker = Sće hižo wědźał? { -brand-name-mozill
 home-the-health-of = „Strowosć interneta a žiwjenje online je přičina, čehoždla eksistujemy.“
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, amtěrowaca nawodnica předsydstwa, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } produkty wutworja, kotrež priwatnosć škitaja
 home-product-firefox-browsing = Priwatne a wěste přehladowanje
 home-cta-get-firefox = Wobstarajće sej { -brand-name-firefox }
