@@ -2,10 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Bantu kami meningkatkan pengalaman Anda dalam menggunakan { -brand-name-mozilla }
+
+# Obsolete string (expires: 2024-07-22)
 consent-banner-body = Selain kuki yang diperlukan agar situs ini berfungsi, kami meminta izin Anda untuk mengatur beberapa Kuki tambahan untuk lebih memahami kebutuhan penjelajahan Anda dan meningkatkan pengalaman Anda. Tenang — kami menghargai privasi Anda.
+
 consent-banner-button-reject = Tolak Semua Kuki Tambahan
 consent-banner-button-accept = Terima Semua Kuki Tambahan
 consent-banner-settings-link = Pengaturan kuki
