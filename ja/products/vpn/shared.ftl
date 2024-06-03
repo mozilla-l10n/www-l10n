@@ -157,15 +157,6 @@ vpn-subnav-learn-about-vpns = VPN の詳細を見る
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 vpn-subnav-features = 機能
 
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = 当社は、{ -brand-name-mozilla-vpn } に誘導したアフィリエイトパートナーを把握するために Cookie を使用しています。個人を特定できる情報をパートナーと共有することはありません。<a { $attrs }>プライバシーポリシー</a>をご覧ください。
-
-vpn-shared-affiliate-notification-reject = 拒否する
-vpn-shared-affiliate-notification-ok = OK
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay } でプライバシーを強化

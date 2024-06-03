@@ -157,15 +157,6 @@ vpn-subnav-learn-about-vpns = Ketahui tentang VPN
 vpn-subnav-download-mozilla-vpn = Muat turun { -brand-name-mozilla-vpn }
 vpn-subnav-features = Ciri-ciri
 
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Demi memahami rakan gabungan kami yang membawa anda ke { -brand-name-mozilla-vpn }, kami menggunakan kuki. Kami tidak berkongsi maklumat pengenalan peribadi dengan rakan kongsi kami. Baca <a { $attrs }>Dasar Privasi</a> kami.
-
-vpn-shared-affiliate-notification-reject = Tidak Setuju
-vpn-shared-affiliate-notification-ok = OK
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Tingkatkan privasi anda dengan { -brand-name-vpn } + { -brand-name-relay }
