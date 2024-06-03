@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # Page title
-compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } yn erbyn Microsoft Edge
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } o'i gymharu â Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Darllenwch ein cymhariaeth o borwyr { -brand-name-firefox } ac Edge ar nodweddion, preifatrwydd a rhwyddineb defnydd.
 compare-edge-firefox-makes-privacy-protection = Mae { -brand-name-firefox } yn gwneud diogelu preifatrwydd yn hawdd ac yn gyfleus, fel nad oes rhaid i chi boeni amdano.
