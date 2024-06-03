@@ -7,3 +7,5 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } contra Opera
+# HTML page description
+compare-opera-read-our-comparison = Lege nostre comparation del navigatores { -brand-name-firefox } e Opera re functiones, confidentialitate, e facilitate de uso.
