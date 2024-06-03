@@ -14,4 +14,4 @@ compare-safari-but-firefox-also-has-built-in = Ma { -brand-name-firefox } alsi h
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } offere un large campo de optiones de personalisation, includite le capacitate de mover menus e barras de instrumentos a differente positiones sur le fenestra de navigator. Le interfacie de Safari es minus personalisabile.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
-compare-safari-switching-to-firefox-is-easy = Passar a { -brand-name-firefox } es facile e veloce, importa tu Safari marcapaginas, tu contrasignos, chronologia e preferentias de Safari con un clic e immediatemente tu es preste a usar { -brand-name-firefox }. Ecce <a { $howto }>como importar tu datos de Safari</a>.
+compare-safari-switching-to-firefox-is-easy = Passar a { -brand-name-firefox } es facile e veloce, importa tu marcapaginas, tu contrasignos, chronologia e preferentias de Safari con un clic e immediatemente tu es preste a usar { -brand-name-firefox }. Ecce <a { $howto }>como importar tu datos de Safari</a>.
