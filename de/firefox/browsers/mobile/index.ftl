@@ -17,17 +17,22 @@ browsers-mobile-go-your-own-way = Geh deinen eigenen Weg mit { -brand-name-firef
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } fürs Handy passt sich dir an und macht es dir leichter als je zuvor all deine offenen Tabs, letzten Suchanfragen und Lieblingsseiten au feinen Blick zu sehen.
 browsers-mobile-the-more-you-use = Je mehr du ihn nutzt, desto cleverer wird er. { -brand-name-firefox } Homescreen passt sich dir an und erleichtert es dir immer da weiterzumachen, wo du aufgehört hast.
 
-
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Holen Sie sich den verbesserten Tracking-Schutz und machen Sie { -brand-name-firefox } zu Ihrem dauerhaften Standardbrowser auf Ihrem { -brand-name-iphone } und { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Suchst du nach einem optimierten, superschnellen mobilen Browser mit Datenschutzfunktionen der nächsten Stufe? { -brand-name-firefox-focus } löscht automatisch deine gesamte Chronik vom Moment des Öffnens bis zum Schließen des Browsers.
 browsers-mobile-compare = Vergleichen
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Sieh, wie sich { -brand-name-firefox } für Desktop im Vergleich mit anderen Browsern schlägt.
+
+# Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Sieh, wie sich { -brand-name-firefox } für Desktop gegen sieben andere Browser schlägt.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Sieh, wie sich { -brand-name-firefox } für <strong>Desktop</strong> gegen sieben andere Browser schlägt.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Sieh, wie sich { -brand-name-firefox } für <strong>Desktop</strong> im Vergleich mit anderen Browsern schlägt.
 
+# Obsolete string (expires 30 June 2024)
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong = Sieh, wie sich { -brand-name-firefox } für <strong>Desktop</strong> gegen sieben andere Browser schlägt.
 browsers-mobile-download = Download
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
