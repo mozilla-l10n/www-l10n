@@ -44,6 +44,8 @@ navigation-v2-sign-up-for-new-accounts = Daftar untuk akaun baru tanpa menyerahk
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Ciri dan peralatan baru untuk pengalaman { -brand-name-mdn } yang disesuaikan
 navigation-v2-view-all-products = Lihat semua Produk
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Menggunakan AI untuk mengesan ulasan palsu dan penipuan
 
 ## Who We Are menu
 

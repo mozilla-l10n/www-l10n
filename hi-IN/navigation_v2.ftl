@@ -44,6 +44,8 @@ navigation-v2-sign-up-for-new-accounts = अपना ईमेल एड्र�
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = अपने अनुरूप { -brand-name-mdn } अनुभव के लिए नए फ़ीचर्स और टूल्स
 navigation-v2-view-all-products = सभी उत्पाद देखें
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = नकली रिव्यू और घोटालों का पता लगाने के लिए AI का उपयोग करें
 
 ## Who We Are menu
 
