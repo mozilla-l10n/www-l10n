@@ -27,7 +27,7 @@ home-product-vpn-trust = Uma VPN em que você pode confiar
 home-cta-get-vpn = Instale o { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Alertas de vazamentos de dados
-home-product-monitor-protect-your = Proteja suas informações privativas de corretores de dados
+home-product-monitor-protect-your = Proteja suas informações privativas de vendedores de dados
 home-cta-get-monitor = Use o { -brand-name-monitor }
 home-product-fakespot-detect = Detecte avaliações falsas de compras
 home-cta-get-fakespot = Use o { -brand-name-fakespot }
