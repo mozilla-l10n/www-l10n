@@ -18,5 +18,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Bewurkje PDF’s</a> ûnderweis
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Set in webside oer</a> lokaal en privee.
 compare-shared-its-easy-to-switch = Oerstappe is ienfâldich
+compare-shared-since-we-dont-have-to-make = Omdat wy oandielhâlders net lokkich hoege te meitsjen, kinne wy ús rjochtsje op it lokkich meitsjen fan <strong>jo</strong> en altyd jo privacy en gemak foarop sette.
 # Used as a small link to a cited source
 compare-shared-source = boarne
