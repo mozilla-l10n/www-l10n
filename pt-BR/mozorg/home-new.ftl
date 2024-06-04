@@ -31,7 +31,7 @@ home-product-monitor-protect-your = Proteja suas informações privativas de ven
 home-cta-get-monitor = Use o { -brand-name-monitor }
 home-product-fakespot-detect = Detecte avaliações falsas de compras
 home-cta-get-fakespot = Use o { -brand-name-fakespot }
-home-mozilla-takes-bets = “A { -brand-name-mozilla } está fazendo apostas para mostrar ao mundo que há negócios a ser feitos com inteligência artificial confiável. Isso inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como esses sistemas complexos funcionam.”
+home-mozilla-takes-bets = “A { -brand-name-mozilla } está empenhada em mostrar ao mundo que há oportunidades em inteligência artificial confiável. Isso envolve colocar questões como direitos humanos, proteção de dados e transparência no centro do funcionamento desses sistemas complexos.”
 # Politico is a brand name for a news organization
 home-politico-cite = politico.<!-- -->com
 home-join-us-in-shaping = Junte-se a nós para moldar inteligência artificial confiável
