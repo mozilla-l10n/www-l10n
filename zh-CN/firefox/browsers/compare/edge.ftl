@@ -12,7 +12,7 @@ compare-edge-read-our-comparison = 阅读我们对 { -brand-name-firefox } 与 E
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } 让您的隐私保护简单便捷让您的隐私无后顾之忧。
 compare-edge-we-block-trackers-by-default = 我们默认拦截跟踪器。 Edge 不会。
 compare-edge-and-we-make-it-easy-for-you = 我们让您可以轻松选择进行搜索的搜索引擎。 Edge 会强制您浏览设置使用必应以外的搜索引擎。
-compare-edge-microsoft-has-to-make-their-shareholders = 微软必须让他们的股东满意但我们可以专注于让<strong>您</strong>满意并将您的隐私放在首位。
+compare-edge-microsoft-has-to-make-their-shareholders = 微软必须让他们的股东满意，但我们可以专注于让<strong>您</strong>满意并将您的隐私放在首位。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = 切换到 { -brand-name-firefox } 简单快捷 — 只需一次点击即可导入您的 Edge 书签、密码、历史记录和首选项然后即可使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用“导入”按钮切换</a>。

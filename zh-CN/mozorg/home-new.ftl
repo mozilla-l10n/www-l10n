@@ -21,7 +21,7 @@ home-product-pocket-articles = 网络上引人入胜的文章
 home-cta-get-pocket = 获取 { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 简单易用的马甲邮箱与虚拟手机号
-home-product-relay-hide-your = 对垃圾发送者隐藏您的电话号码和电子邮件地址
+home-product-relay-hide-your = 对垃圾邮件发送者隐藏电话号码和邮箱地址
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
@@ -34,7 +34,7 @@ home-cta-get-fakespot = 获取 { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-join-us-in-shaping = 加入我们塑造可信赖的 AI
+home-join-us-in-shaping = 与我们一起塑造可信 AI
 home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事 — 多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能优先考虑透明度和支持公共利益而非公司议程。
 home-read-more = 详细了解
 # Obsolete string (expires: 2024-07-16)
