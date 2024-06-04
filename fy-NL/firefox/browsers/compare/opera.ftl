@@ -9,3 +9,7 @@
 compare-opera-firefox-vs-opera = { -brand-name-firefox } fs Opera
 # HTML page description
 compare-opera-read-our-comparison = Lês ús fergeliking fan { -brand-name-firefox }- en Opera-browsers op funksjes, privacy en brûkersgemak .
+# Variables:
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+compare-opera-firefoxs-default-privacy-settings = De standert privacy-ynstellingen fan { -brand-name-firefox } binne sterker as dy fan Opera – en wy hawwe mear funksjes om foar te kommen dat websites jo folgje, lykas <a { $fingerprint }>fingerprintblokkearring</a>.
+compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } biedt in breed skala oan oanpassingsopsjes, ynklusyf de mooglikheid om menu’s en arkbalken nei ferskate lokaasjes yn it browserfinster te ferpleatsen. Opera's interface is minder oan te passen.

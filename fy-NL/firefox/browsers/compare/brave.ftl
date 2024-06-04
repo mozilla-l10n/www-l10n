@@ -17,4 +17,4 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } makket it 
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } biedt jo de opsje om jo bewarre wachtwurden te fersiferjen, en jo kinne <a { $primary }>in haadwachtwurd brûke om tagong te krijen</a>; jo wachtwurden binne beskerme sels as jo in kompjûter diele moatte. Brave beskermet jo wachtwurden net mei in wachtwurd.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
-compare-brave-switching-to-firefox-is-easy = Oerstappe nei { -brand-name-firefox } is maklik en fluch – ymportearje jo Brave-blêdwizers, jo wachtwurden, skiednis en foarkarren mei ien klik en wês daliks klear om { -brand-name-firefox } te brûken. Hjir is <a { $howto }>hoe’ jo jo Brave-gegevens ymportearje kinne</a>.
+compare-brave-switching-to-firefox-is-easy = Oerstappe nei { -brand-name-firefox } is maklik en fluch – ymportearje jo Brave-blêdwizers, jo wachtwurden, skiednis en foarkarren mei ien klik en wês daliks klear om { -brand-name-firefox } te brûken. Hjir is <a { $howto }>hoe’t jo jo Brave-gegevens ymportearje kinne</a>.
