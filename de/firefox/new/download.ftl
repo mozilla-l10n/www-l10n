@@ -65,4 +65,3 @@ firefox-new-from-mozilla = von { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } ist ein kostenloser Internetbrowser, der sich durch schnelle Ladezeiten, geringen Speicherverbrauch und viele Funktionen auszeichnet – ein Projekt der gemeinnützigen Organisation { -brand-name-mozilla }.
 firefox-new-download-a-different = Firefox für andere Plattformen & Sprachen herunterladen
-firefox-new-taskbar = { -brand-name-firefox } wird nach der Installation an die { -brand-name-windows } Taskleiste angeheftet

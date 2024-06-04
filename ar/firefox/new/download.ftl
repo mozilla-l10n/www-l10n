@@ -65,4 +65,3 @@ firefox-new-from-mozilla = من { -brand-name-mozilla }
 
 firefox-new-desc = { -brand-name-firefox-browser } مُتصفّح ويب مجاني بسرعة تحميل فائقة واستخدام أقل للذاكرة والكثير من المزايا - مشروع لا يَستهدف الربح { -brand-name-mozilla }.
 firefox-new-download-a-different = تحميل منصة أو لغة مُختلفة
-firefox-new-taskbar = سَتتم إضافة { -brand-name-firefox } في شريط مهام { -brand-name-windows } بعد التثبيت
