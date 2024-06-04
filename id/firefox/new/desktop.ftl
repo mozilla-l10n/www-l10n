@@ -202,5 +202,3 @@ firefox-desktop-download-please-follow = Ikuti <a href="{ $url }">instruksi ini<
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox }, tetapi Anda dapat menggunakan salah satu dari <a href="{ $url }">versi berikut</a> .
-
-firefox-desktop-download-taskbar = { -brand-name-firefox } akan disematkan ke bilah tugas { -brand-name-windows } setelah diinstal
