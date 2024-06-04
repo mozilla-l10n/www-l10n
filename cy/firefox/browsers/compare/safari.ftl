@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
 # Page title
-compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } yn erbyn Apple Safari
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } o'i gymharu ag Apple Safari
 # HTML page description
 compare-safari-read-our-comparison = Darllenwch ein cymhariaeth o borwyr { -brand-name-firefox } a Safari ar nodweddion, preifatrwydd a rhwyddineb defnydd.
 compare-safari-safari-and-firefox-both-have = Mae gan Safari a { -brand-name-firefox } nodweddion preifatrwydd a diogelwch da.
