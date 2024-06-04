@@ -15,4 +15,4 @@ compare-opera-firefoxs-default-privacy-settings = Mae gosodiadau preifatrwydd rh
 compare-opera-firefox-offers-a-wide-range-of = Mae { -brand-name-firefox } yn cynnig ystod eang o ddewisiadau cyfaddasu, gan gynnwys y gallu i symud dewislenni a bariau offer i leoliadau gwahanol ar ffenestr y porwr. Mae rhyngwyneb Opera yn llai cyfaddasadwy.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-opera-switching-to-firefox-is-easy = Mae newid i { -brand-name-firefox } yn hawdd ac yn gyflym — mewngludwch eich nodau tudalen, eich cyfrineiriau, eich hanes, a'ch dewisiadau Opera gydag un clic a byddwch yn barod i'w defnyddio ar unwaith { -brand-name-firefox }. Dyma <a { $howto }>sut i ddefnyddio'r botwm Mewnforio</a>  i newid.
+compare-opera-switching-to-firefox-is-easy = Mae newid i { -brand-name-firefox } yn hawdd ac yn gyflym — mewnforiwch eich nodau tudalen, eich cyfrineiriau, eich hanes, a'ch dewisiadau Opera gydag un clic a byddwch yn barod i'w defnyddio ar unwaith { -brand-name-firefox }. Dyma <a { $howto }>sut i ddefnyddio'r botwm Mewnforio</a>  i newid.

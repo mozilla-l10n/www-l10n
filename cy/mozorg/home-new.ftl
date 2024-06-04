@@ -35,8 +35,8 @@ home-mozilla-takes-bets = “Mae { -brand-name-mozilla } yn hyderus bod modd dan
 # Politico is a brand name for a news organization
 home-politico-cite = Gwleidyddiaeth
 home-join-us-in-shaping = Ymunwch â ni i lunio AI dibynadwy
-home-work-on-ai = Nid peth newydd yn unig yw gwaith { -brand-name-mozilla } gydag AI - rydym wedi treulio blynyddoedd yn ariannu, adeiladu ac eirioli dros AI sy'n agored, yn deg ac wedi'i ddatblygu'n gyfrifol. Rydym yn canolbwyntio ar greu AI sy’n gwasanaethu’r bobl, yn blaenoriaethu tryloywder ac yn cefnogi lles y cyhoedd, nid agendâu corfforaethol.
-home-read-more = Darllen mwy
+home-work-on-ai = Nid yw gwaith { -brand-name-mozilla } gydag AI yn beth newydd - rydym wedi treulio blynyddoedd yn ariannu, adeiladu ac eirioli dros AI sy'n agored, yn deg ac wedi'i ddatblygu'n gyfrifol. Rydym yn canolbwyntio ar greu AI sy’n gwasanaethu’r bobl, yn blaenoriaethu tryloywder ac yn cefnogi lles y cyhoedd, nid agendâu corfforaethol.
+home-read-more = Darllen rhagor
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = A yw { -brand-name-mozilla } yn gorfforaeth neu'n gorff dim-er-elw? Y gwir yw, y ddau.
 # Obsolete string (expires: 2024-07-16)
@@ -45,7 +45,7 @@ home-so-what-is-mozilla = Felly, beth yw { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad actifydd a arweinir gan y { -brand-name-mozilla-foundation } sy'n gwneud newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr—nid oes gennym ni ddim o’r rheini mewn gwirionedd.
+home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweeithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n gwneud newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
 home-learn-about-mofo = Rhagor am y { -brand-name-mozilla-foundation }
 home-join-the-fight = Ymunwch â'r frwydr dros rhyngrwyd iach
 home-your-voice-your-code = Eich llais. Eich cod. Eich syniadau. Mae yna filoedd o ffyrdd y gallwch chi gyfrannu at { -brand-name-mozilla }.
@@ -62,6 +62,6 @@ home-featured-product = Cynnyrch
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Cuddiwch eich lleoliad a gweithgarwch gan ddefnyddio <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
-home-mofo-build-our-movement = Adeiladwch ein symudiad
+home-mofo-build-our-movement = Adeiladwn ein mudiad
 home-mofo-donate-to-mofo-today = Cyfrannwch i { -brand-name-mozilla-foundation } heddiw er mwyn sicrhau bod y rhyngrwyd yn parhau i fod yn agored ac yn hygyrch i bawb.
 home-mofo-donate = Cyfrannu
