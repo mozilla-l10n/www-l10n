@@ -27,6 +27,7 @@ home-cta-get-pocket = { -brand-name-pocket } をダウンロード
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 使いやすいメール・電話マスク
 
+home-product-relay-hide-your = 電話番号とメールアドレスをスパム送信者から隠す
 home-cta-get-relay = { -brand-name-relay } をダウンロード
 home-product-vpn-trust = 信頼できる VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
@@ -34,13 +35,19 @@ home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = データ侵害通知
 
+home-product-monitor-protect-your = データブローカーから個人情報を保護する
 home-cta-get-monitor = { -brand-name-monitor } をダウンロード
+home-product-fakespot-detect = 偽のショッピングレビューを検出する
+home-cta-get-fakespot = { -brand-name-fakespot } をダウンロード
 
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } は、信頼できる AI を使って実現するビジネスがあることを世界に示す取り組みをしています。その中で、人権やデータ保護、透明性などをこれらの複雑なシステムの中核に据えています」
 
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 
+home-join-us-in-shaping = 信頼できる AI の構築にご参加ください
+home-work-on-ai = { -brand-name-mozilla } の AI 開発はただの新しい動きではありません。Mozilla は、長年にわたってオープンで公平、責任を持って開発された AI への資金提供、構築、推進に取り組んできました。Mozilla の焦点は、企業としての関心事ではなく、人のためになり、透明性を優先し、公益をサポートする AI を作成することです。
+home-read-more = 詳しく読む
 
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } は会社、それとも非営利団体？ 両方です。
@@ -48,7 +55,12 @@ home-is-mozilla-a-corporation = { -brand-name-mozilla } は会社、それとも
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } は 2 つの組織で構成されています。{ -brand-name-mozilla-corporation } は、501(c) 非営利団体 { -brand-name-mozilla-foundation } が完全所有しています。つまり、株主には依存せず、そのミッションだけが原動力になっているのです。
 
+home-so-what-is-mozilla = { -brand-name-mozilla } とは？
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla } は、{ -brand-name-mozilla-foundation } が主導する活動家組織が本質です。{ -brand-name-mozilla-corporation }、MZLA、<a { $ventures }>{ -brand-name-mozilla-ventures }</a>、<a { $mozai }>{ -brand-name-mozilla-ai }</a> などさまざまなベンチャーを通じて世界に変化をもたらしています。Mozilla が他と違うところは？ Mozilla はミッションを原動力としているので、株式会社とは違い、株主の要求ではなく、インターネットと全てのオンラインユーザーにとって最善となることを考えて決定をする自由があります。
 
 home-learn-about-mofo = { -brand-name-mozilla-foundation } の詳細をご覧ください
 
@@ -71,3 +83,7 @@ home-featured-product = おすすめの製品
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> であなたの現在地とアクティビティを秘匿
 
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = 運動を起こす
+home-mofo-donate-to-mofo-today = インターネットがオープンで、すべての人がアクセスできる場にするため、{ -brand-name-mozilla-foundation } への寄付にご協力ください。
+home-mofo-donate = 寄付する
