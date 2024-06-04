@@ -3,9 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Helpwch ni i wella eich profiad o { -brand-name-mozilla }
+consent-banner-body-v2 = Yn ogystal â’r Cwcis sydd eu hangen er mwyn i’r wefan hon weithredu, hoffem gael eich caniatâd i osod Cwcis ychwanegol er mwyn deall eich anghenion pori yn well a gwella’ch profiad. Gallwch fod yn dawel eich meddwl am hyn - rydym yn gwerthfawrogi eich preifatrwydd.
+# Obsolete string (expires: 2024-07-22)
 consent-banner-body = Yn ogystal â’r cwcis sydd eu hangen er mwyn i’r wefan hon weithredu, hoffem gael eich caniatâd i osod Cwcis ychwanegol er mwyn deall eich anghenion pori yn well a gwella’ch profiad. Byddwch yn dawel eich meddwl - rydym yn gwerthfawrogi eich preifatrwydd.
 consent-banner-button-reject = Gwrthod Pob Cwci Ychwanegol
 consent-banner-button-accept = Derbyn Pob Cwci Ychwanegol
