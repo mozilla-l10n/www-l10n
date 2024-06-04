@@ -35,17 +35,17 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = 与我们一起塑造可信 AI
-home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事 — 多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能优先考虑透明度和支持公共利益而非公司议程。
+home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事——多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能，优先考虑透明度和支持公共利益而非公司规划。
 home-read-more = 详细了解
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = { -brand-name-mozilla } 是公司还是非营利组织？两者兼备。
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } 由两个组织组成。 { -brand-name-mozilla-corporation } 由 501(c) 非营利组织 { -brand-name-mozilla-foundation }全资拥有。这意味着我们不受制于任何股东，可以专注于我们的使命。
-home-so-what-is-mozilla = { -brand-name-mozilla } 是什么
+home-so-what-is-mozilla = { -brand-name-mozilla } 是什么？
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = { -brand-name-mozilla }是一个由{ -brand-name-mozilla-foundation }领导的维权人士组织通过各种风险投资改变世界包括{ -brand-name-mozilla-corporation }、MZLA、<a { $ventures }> { -brand-name-mozilla-ventures }</a> 和 <a { $mozai }> { -brand-name-mozilla-ai }</a>。我们有什么不同因为我们是由使命驱动意味着我们可以根据什么最有利于互联网和每个网络上的人而不是股东的需求来做出我们所有的决定——实际上我们没有。
+home-at-its-core = 就其核心来看，{ -brand-name-mozilla }是一个由{ -brand-name-mozilla-foundation }领导的活跃人士组织，它通过各种机构改变世界，包括{ -brand-name-mozilla-corporation }、MZLA、<a { $ventures }> { -brand-name-mozilla-ventures }</a> 和 <a { $mozai }> { -brand-name-mozilla-ai }</a>。我们因何不同？因为我们是由使命驱动。这意味着我们可以根据什么最有利于互联网和每个网络上的人而不是股东的需求来做出我们所有的决定——实际上我们没有股东。
 home-learn-about-mofo = 了解 { -brand-name-mozilla-foundation }
 home-join-the-fight = 加入争取互联网健康的行列。
 home-your-voice-your-code = 您的声音、您的代码、您的想法……您可以通过丰富多样的方式来为 { -brand-name-mozilla } 贡献力量。
