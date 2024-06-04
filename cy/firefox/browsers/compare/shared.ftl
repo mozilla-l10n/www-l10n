@@ -10,10 +10,10 @@ compare-shared-footer-cta-title = Gwnewch fwy gyda { -brand-name-firefox }
 compare-shared-footer-cta-desc = Defnyddiwch y porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd sy'n cael ei gefnogi  gan gorff dim-er-elw ac sy'n gweithio ar draws eich holl ddyfeisiau.
 compare-shared-footer-cta-button = Llwytho { -brand-name-firefox } i Lawr
 compare-shared-we-also-offer-easy = Rydym hefyd yn cynnig nodweddion hawdd eu defnyddio fel:
-compare-shared-firefox-also-has-built-in = Mae gan { -brand-name-firefox } offer mewnol hefyd megis:
+compare-shared-firefox-also-has-built-in = Mae gan { -brand-name-firefox } offer ychwanegol hefyd megis:
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
-compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Golygu PDFs</a> o fewn ffenestr eich porwr { -brand-name-firefox } - nid oes angen meddalwedd ychwanegol.
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Golygu PDFs</a> o fewn ffenestr eich porwr { -brand-name-firefox } - does dim angen meddalwedd ychwanegol.
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Cyfieithu tudalen we</a> yn lleol ac yn breifat.

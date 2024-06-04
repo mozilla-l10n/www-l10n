@@ -21,15 +21,15 @@ home-product-pocket-articles = Erthyglau mwyaf diddorol y we
 home-cta-get-pocket = Defnyddio { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Arallenwau e-bost a rhifau ffôn cudd hawdd eu defnyddio
-home-product-relay-hide-your = Cuddiwch eich rhif ffôn a'ch e-bost rhag sbamwyr
+home-product-relay-hide-your = Cuddio eich rhif ffôn a'ch e-bost rhag sbamwyr
 home-cta-get-relay = Cael { -brand-name-relay }
 home-product-vpn-trust = VPN y gallwch ymddiried ynddo
 home-cta-get-vpn = Cael { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Rhybuddion tor-data
-home-product-monitor-protect-your = Diogelwch eich manylion preifat rhag broceriaid data
+home-product-monitor-protect-your = Diogelu eich manylion preifat rhag broceriaid data
 home-cta-get-monitor = Cael { -brand-name-monitor }
-home-product-fakespot-detect = Canfyddwch adolygiadau siopa ffug
+home-product-fakespot-detect = Canfod adolygiadau siopa ffug
 home-cta-get-fakespot = Cael { -brand-name-fakespot }
 home-mozilla-takes-bets = “Mae { -brand-name-mozilla } yn hyderus bod modd dangos i’r byd bod modd gwneud busnes gydag AI dibynadwy. Mae hynny’n cynnwys rhoi pethau fel hawliau dynol, diogelu data a thryloywder wrth wraidd y ffordd y mae’r systemau cymhleth hyn yn gweithio.”
 # Politico is a brand name for a news organization
@@ -45,7 +45,7 @@ home-so-what-is-mozilla = Felly, beth yw { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweeithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n gwneud newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
+home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n creu newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
 home-learn-about-mofo = Rhagor am y { -brand-name-mozilla-foundation }
 home-join-the-fight = Ymunwch â'r frwydr dros rhyngrwyd iach
 home-your-voice-your-code = Eich llais. Eich cod. Eich syniadau. Mae yna filoedd o ffyrdd y gallwch chi gyfrannu at { -brand-name-mozilla }.
