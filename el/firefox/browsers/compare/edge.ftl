@@ -7,7 +7,10 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } εναντίον Microsoft Edge
+# HTML page description
+compare-edge-read-our-comparison = Διαβάστε τη σύγκριση του { -brand-name-firefox } με το Edge, όσον αφορά τις λειτουργίες, το απόρρητο και την ευκολία χρήσης.
 compare-edge-we-block-trackers-by-default = Αποκλείουμε τους ιχνηλάτες από προεπιλογή. Το Edge δεν το κάνει.
+compare-edge-microsoft-has-to-make-their-shareholders = Η Microsoft πρέπει να κάνει χαρούμενους τους μετόχους της, αλλά εμείς μπορούμε να επικεντρωθούμε στο να κάνουμε <strong>εσάς</strong> χαρούμενους, με προτεραιότητα το απόρρητο.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = Η μετάβαση στο { -brand-name-firefox } είναι εύκολη και γρήγορη. Εισαγάγετε με ένα κλικ τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό και τις προτιμήσεις σας από το Edge και το { -brand-name-firefox } θα είναι άμεσα έτοιμο προς χρήση. Μάθετε <a { $howto }>πώς να χρησιμοποιήσετε την επιλογή «Εισαγωγή» για να κάνετε τη μετάβαση</a>.
