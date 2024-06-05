@@ -25,6 +25,7 @@ cookie-settings-category-preference-heading = ترجیح
 
 ## Consent section
 
+cookie-settings-your-consent-heading = تہاݙی رضامندی
 
 ## Privacy section
 

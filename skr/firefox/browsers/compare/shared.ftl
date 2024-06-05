@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-shared-footer-cta-button = { -brand-name-firefox } ڈاؤن لوڈ کرو
+# Used as a small link to a cited source
+compare-shared-source = ماخذ
