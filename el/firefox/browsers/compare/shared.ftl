@@ -11,6 +11,13 @@ compare-shared-footer-cta-desc = Αποκτήστε το γρήγορο και �
 compare-shared-footer-cta-button = Λήψη του { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Προσφέρουμε επίσης εύχρηστες λειτουργίες, όπως:
 compare-shared-firefox-also-has-built-in = Το { -brand-name-firefox } διαθέτει επίσης ενσωματωμένα εργαλεία, όπως:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Επεξεργασία αρχείων PDF</a> εν κινήσει, εντός του { -brand-name-firefox }, χωρίς να απαιτείται επιπλέον λογισμικό.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Μετάφραση ιστοσελίδων</a> τοπικά και ιδιωτικά.
 compare-shared-its-easy-to-switch = Η μετάβαση είναι εύκολη
+compare-shared-since-we-dont-have-to-make = Αφού δεν χρειάζεται να κάνουμε χαρούμενο κάποιον μέτοχο, μπορούμε να επικεντρωθούμε στο να κάνουμε <strong>εσάς</strong> χαρούμενους, με προτεραιότητα το απόρρητο και την ευκολία χρήσης.
 # Used as a small link to a cited source
 compare-shared-source = πηγή

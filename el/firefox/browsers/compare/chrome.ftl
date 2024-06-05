@@ -8,6 +8,9 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } εναντίον Google Chrome
 compare-chrome-we-block-trackers-by-default = Αποκλείουμε τους ιχνηλάτες από προεπιλογή. Το Chrome δεν το κάνει.
+compare-chrome-in-fact-by-default-chrome-monitors = Στην πραγματικότητα, το Chrome εποπτεύει, από προεπιλογή, ποιους ιστοτόπους επισκέπτεστε και τι κάνετε σε αυτούς, προκειμένου να εντοπίσει «θέματα διαφημίσεων» για να σας παρέχει πιο στοχευμένες διαφημίσεις. Μπορείτε να αποκλείσετε τρία θέματα, αλλά δεν μπορείτε να σταματήσετε τον εντοπισμό άλλων διαφημιστικών θεμάτων για εσάς.
+compare-chrome-chrome-allows-other-websites-to = Το Chrome επιτρέπει σε άλλους ιστοτόπους να συλλέγουν πληροφορίες σχετικά με εσάς, ώστε να μπορούν να προτείνουν διαφημίσεις. Μπορείτε να αποκλείσετε τις προτεινόμενες διαφημίσεις από συγκεκριμένους ιστοτόπους, αλλά δεν μπορείτε να σταματήσετε τη συλλογή δεδομένων ή τις προτάσεις από άλλους ιστοτόπους.
+compare-chrome-google-runs-the-worlds-largest = Η Google διαθέτει το μεγαλύτερο διαφημιστικό δίκτυο στον κόσμο και το Chrome είναι μέρος αυτού.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
 compare-chrome-switching-to-firefox-is-easy = Η μετάβαση στο { -brand-name-firefox } είναι εύκολη και γρήγορη. Εισαγάγετε με ένα κλικ τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό και τις προτιμήσεις σας από το Chrome και το { -brand-name-firefox } θα είναι άμεσα έτοιμο προς χρήση. Μάθετε <a { $howto }>πώς να κάνετε τη μετάβαση από το Chrome στο { -brand-name-firefox }</a>.
