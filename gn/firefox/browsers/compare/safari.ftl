@@ -8,3 +8,4 @@
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
 compare-safari-safari-and-firefox-both-have = Safari ha { -brand-name-firefox } oreko tembiapoite tekoñemi ha tekorosã rehegua.
+compare-safari-but-firefox-also-has-built-in = Hákatu { -brand-name-firefox } oreko avei tembiporu ijehevoi:
