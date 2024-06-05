@@ -21,16 +21,20 @@ home-product-pocket-articles = Τα πιο ενδιαφέροντα άρθρα �
 home-cta-get-pocket = Λήψη του { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Εύχρηστες μάσκες email και τηλεφώνου
+home-product-relay-hide-your = Αποκρύψτε τον αριθμό τηλεφώνου και το email σας από τους αποστολείς ανεπιθύμητων μηνυμάτων
 home-cta-get-relay = Λήψη του { -brand-name-relay }
 home-product-vpn-trust = Ένα VPN που μπορείτε να εμπιστευτείτε
 home-cta-get-vpn = Λήψη του { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Ειδοποιήσεις παραβίασης δεδομένων
+home-product-monitor-protect-your = Προστατέψτε τις προσωπικές σας πληροφορίες από εμπόρους δεδομένων
 home-cta-get-monitor = Απόκτηση του { -brand-name-monitor }
+home-product-fakespot-detect = Εντοπίστε ψευδείς κριτικές αγορών
 home-cta-get-fakespot = Απόκτηση του { -brand-name-fakespot }
 home-mozilla-takes-bets = «Η { -brand-name-mozilla } εργάζεται για να δείξει στον κόσμο ότι υπάρχει ένα επιχειρηματικό μοντέλο που μπορεί να δημιουργηθεί με αξιόπιστη τεχνητή νοημοσύνη. Αυτό προϋποθέτει ότι ιδανικά, όπως τα ανθρωπινα δικαιώματα, η προστασία των δεδομένων και η διαφάνεια, θα είναι θεμελιώδη στοιχεία του τρόπου λειτουργίας αυτού του περίπλοκου συστήματος.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Βοηθήστε μας να διαμορφώσουμε ένα αξιόπιστο AI
 home-read-more = Διαβάστε περισσότερα
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
@@ -52,4 +56,7 @@ home-get-news-and-tips = Λάβετε νέα και συμβουλές από τ
 home-featured-product = Προβεβλημένο προϊόν
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Αποκρύψτε την τοποθεσία και τη δραστηριότητά σας με το <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Βοηθήστε το κίνημά μας
+home-mofo-donate-to-mofo-today = Κάντε μια δωρεά στο { -brand-name-mozilla-foundation } σήμερα για να εξασφαλίσετε ότι το διαδίκτυο θα παραμείνει ανοικτό και προσβάσιμο σε όλους.
 home-mofo-donate = Δωρεά
