@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } εναντίον Microsoft Edge
+compare-edge-we-block-trackers-by-default = Αποκλείουμε τους ιχνηλάτες από προεπιλογή. Το Edge δεν το κάνει.

@@ -7,3 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } εναντίον Google Chrome
+compare-chrome-we-block-trackers-by-default = Αποκλείουμε τους ιχνηλάτες από προεπιλογή. Το Chrome δεν το κάνει.

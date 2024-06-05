@@ -27,6 +27,7 @@ home-cta-get-vpn = Λήψη του { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Ειδοποιήσεις παραβίασης δεδομένων
 home-cta-get-monitor = Απόκτηση του { -brand-name-monitor }
+home-cta-get-fakespot = Απόκτηση του { -brand-name-fakespot }
 home-mozilla-takes-bets = «Η { -brand-name-mozilla } εργάζεται για να δείξει στον κόσμο ότι υπάρχει ένα επιχειρηματικό μοντέλο που μπορεί να δημιουργηθεί με αξιόπιστη τεχνητή νοημοσύνη. Αυτό προϋποθέτει ότι ιδανικά, όπως τα ανθρωπινα δικαιώματα, η προστασία των δεδομένων και η διαφάνεια, θα είναι θεμελιώδη στοιχεία του τρόπου λειτουργίας αυτού του περίπλοκου συστήματος.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

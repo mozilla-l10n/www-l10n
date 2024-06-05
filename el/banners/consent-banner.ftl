@@ -3,9 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Βοηθήστε μας να βελτιώσουμε την εμπειρία σας με τη { -brand-name-mozilla }
+consent-banner-body-v2 = Πέρα από τα απαραίτητα cookie για τη λειτουργία αυτού του ιστοτόπου, θα θέλαμε την άδειά σας για να αποθηκεύσουμε μερικά ακόμη cookie για να κατανοήσουμε καλύτερα τις ανάγκες περιήγησής σας και να βελτιώσουμε την εμπειρία σας. Μείνετε ήσυχοι: εκτιμούμε το απόρρητό σας.
+# Obsolete string (expires: 2024-07-22)
 consent-banner-body = Πέρα από τα απαραίτητα cookie για τη λειτουργία αυτού του ιστοτόπου, θα θέλαμε την άδειά σας για να αποθηκεύσουμε μερικά ακόμη cookie για να κατανοήσουμε καλύτερα τις ανάγκες περιήγησής σας και να βελτιώσουμε την εμπειρία σας. Μείνετε ήσυχοι: εκτιμούμε το απόρρητό σας.
 consent-banner-button-reject = Απόρριψη όλων των επιπρόσθετων cookie
 consent-banner-button-accept = Αποδοχή όλων των επιπρόσθετων cookie

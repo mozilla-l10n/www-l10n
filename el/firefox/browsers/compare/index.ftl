@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Σύγκριση του { -brand-name-firefox } με άλλα προγράμματα περιήγησης
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } εναντίον Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } εναντίον Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } εναντίον Apple Safari
