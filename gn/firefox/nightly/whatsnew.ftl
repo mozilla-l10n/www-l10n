@@ -28,5 +28,5 @@ nightly-whatsnew-if-you-want-to-v2 = Eikuaasevéramo oikóva { -brand-name-night
 nightly-whatsnew-want-to-know-which-v2 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehecharamovéva <a { $attrs }>Nightly mba’e’apopy</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = ¿Ehechápa jejavy? ¿Heko noñeha’ãrõi? ¿Ojevy jokupyty ojehechávo ñandutípe? Rovy’áta ejuajúrõ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ndive ko’ã apañuãi ani hag̃ua og̃uahẽ apopyre ipyahuvévape (¡japopyre ojo’áva embojuajúvo ñe’ẽ kañymby<em>{ -brand-name-nightly }-community</em> ne jehaikue jejavygua!).
+nightly-whatsnew-do-you-experience = ¿Ehechápa jejavy? ¿Heko noñeha’ãrõi? ¿Ojevy jokupyty ojehechávo ñandutípe? Rovy’áta ejuajúrõ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ndive ko’ã apañuái ani hag̃ua og̃uahẽ apopyre ipyahuvévape (¡japopyre ojo’áva embojuajúvo ñe’ẽ kañymby<em>{ -brand-name-nightly }-community</em> ne jehaikue jejavygua!).
 nightly-whatsnew-go-community = ¡Che maitei tekohápe!

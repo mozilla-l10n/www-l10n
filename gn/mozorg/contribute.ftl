@@ -57,11 +57,11 @@ contribute-newsletter-desc = Eñemboheraguapy ore marandu’i jehaipyrépe, ejua
 ## Support
 
 contribute-support-heading = Eipota pytyvõ
-contribute-support-desc = { -brand-name-mozilla } oguereko pytyvõhára aty oykeko añetéva oimeraẽva apañuãi ikatúva eguereko.
+contribute-support-desc = { -brand-name-mozilla } oguereko pytyvõhára aty oykeko añetéva oimeraẽva apañuái ikatúva eguereko.
 contribute-mozilla-support = { -brand-name-mozilla } Ñepytyvõ
 
 ## Web compat
 
-contribute-web-compat-heading = ¿Apañuãi peteĩ ñanduti rendápe?
-contribute-web-compat-desc = Ne rembiapo ñanduti rendápe ojuavy kundaharakuéra pa’ũme, ikatu ehechahína apañuãi ñanduti jokupyty rehegua. ¡Rovy’ata roikuaárõ!
-contribute-report-issue = Emomarandu apañuãi
+contribute-web-compat-heading = ¿Apañuái peteĩ ñanduti rendápe?
+contribute-web-compat-desc = Ne rembiapo ñanduti rendápe ojuavy kundaharakuéra pa’ũme, ikatu ehechahína apañuái ñanduti jokupyty rehegua. ¡Rovy’ata roikuaárõ!
+contribute-report-issue = Emomarandu apañuái

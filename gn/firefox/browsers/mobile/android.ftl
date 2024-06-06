@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Kundahára { -brand-name-firefox } { -brand-name-android } peg̃uarã ipya’e, hekorosã ha hekoñemíva eike ñepyrũ guive.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Eku’ekuaáke. Tanderekosãso { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
-# Obsolete string
-mobile-android-when-you-download = Emboguejy vove { -brand-name-firefox }, eiporavo eykekotaha mba’apohaguasu tembiporupyahugua hekosãsóva. { -brand-name-firefox } ha’e kundahára iporãva oipytyvõtava chupe tendaguasu viru’ỹgua oñorairõva teko jurujave, tekoresakã ha nde rekove ñandutípe ñemboguata.
 mobile-android-get-firefox-for = Erekóke { -brand-name-firefox } { -brand-name-android } peg̃uarã
 mobile-android-send-a-download-link-to-your = Emondo juajuha mboguejyrã ne pumbyrýpe.
 mobile-android-scan-the-qr-code-to-get-started = Emoha’ãnga QR ayvu eñepyrũ hag̃ua
@@ -23,11 +19,11 @@ mobile-android-firefox-for-android = { -brand-name-firefox } { -brand-name-andro
 mobile-android-one-tap-to = Jepoko tekoñemi ayvúpe g̃uarã
 mobile-android-get-to-private = Eike kundahára ñimigua rekópe peteĩ jekutúpe. Ha embotývo kundahára ñimigua reko, ne ñeikundaha rembiasakue oguéta ijehegui ne mba’e’okápe.
 mobile-android-search-your-own = Eheka mba’éichapa
-mobile-android-got-a-big = ¿Ereko pumbyry tuicháva ha ne kuã tuicha’ỹva? Naiñapañuãiri. { -brand-name-firefox } { -brand-name-android } peg̃uarãva omoneĩ emongu’évo jehekaha renda yvatégui yvy gotyo, ikatuhápe eiporu nde po peteĩme. Avei eiporavokuaa jehekaha mongu’eha teéva kundahára ryepýpe ha emboheko { -brand-name-firefox } ne kundahára ypyguárõ reipotárõ.
+mobile-android-got-a-big = ¿Ereko pumbyry tuicháva ha ne kuã tuicha’ỹva? Naiñapañuáiri. { -brand-name-firefox } { -brand-name-android } peg̃uarãva omoneĩ emongu’évo jehekaha renda yvatégui yvy gotyo, ikatuhápe eiporu nde po peteĩme. Avei eiporavokuaa jehekaha mongu’eha teéva kundahára ryepýpe ha emboheko { -brand-name-firefox } ne kundahára ypyguárõ reipotárõ.
 mobile-android-save-power-with = Eiporu’ive batería teko ypytũme
 mobile-android-switch-to-dark = Emoambue ypytũ reko oimeraẽva aravo omomichĩve hag̃ua tesa kane’õ ha ipukuve hag̃ua batería jeporu.
 mobile-android-easily-organize-your = Emoĩpora ne rendaykekuéra
-mobile-android-got-lots-of = ¿Eguereko heta tendayke embojurujáva? Naiñapañuãiri, embyatypaite peteĩ hendápe. Umi ñembyatyguasu avei emoherakuãkuaa mba’e’okakuéra pa’ũme ikatu hag̃uáicha eikundaha ema’ẽ’ỹre mba’e’oka reiporúva rehe.
+mobile-android-got-lots-of = ¿Eguereko heta tendayke embojurujáva? Naiñapañuáiri, embyatypaite peteĩ hendápe. Umi ñembyatyguasu avei emoherakuãkuaa mba’e’okakuéra pa’ũme ikatu hag̃uáicha eikundaha ema’ẽ’ỹre mba’e’oka reiporúva rehe.
 mobile-android-supercharge-firefox-with = Emombarete { -brand-name-firefox } moĩmbaha ndive
 mobile-android-addons-are-like = Moĩmbahakuéra ha’e tembiporu ha’evéva embojuajukuaáva ne kundahárare ejapo hag̃ua ñemboheko ñemigua ijeheguíva mbotuicha ha péicha emboava ne rembiapo.
 mobile-android-pick-up-where = Eku’ejey eheja haguégui

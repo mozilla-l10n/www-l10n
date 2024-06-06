@@ -47,7 +47,7 @@ firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevar
 firefox-desktop-download-ads-are-distracting = Pe maranduñemurã nemyangekói ha omyanehẽ mbegueve ñanduti kuatiarogue, péicha umi tapykuehoha ohecha rejapóva ñandutíe. { -brand-name-firefox-browser } ojoko heta umi tapykuehoha ijehegui, péicha rupi natekotevẽi emoĩporã tekorosã.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
 firefox-desktop-download-for-everyone = { -brand-name-firefox } opavavépe g̃uarã
-firefox-desktop-download-available-in-over = Ojeporukuaa hetave 90 ñe’ẽme, ha ojokupytýva mohendaha { -brand-name-windows }, { -brand-name-mac-short } ha { -brand-name-linux }, { -brand-name-firefox } oikóva oimeraẽva ndive térã mamópa reime. Ehecháke nde apopyvusu oku’éva hekopyahúpa emba’apokuaa hag̃ua apañuãi’ỹre tapiaite.
+firefox-desktop-download-available-in-over = Ojeporukuaa hetave 90 ñe’ẽme, ha ojokupytýva mohendaha { -brand-name-windows }, { -brand-name-mac-short } ha { -brand-name-linux }, { -brand-name-firefox } oikóva oimeraẽva ndive térã mamópa reime. Ehecháke nde apopyvusu oku’éva hekopyahúpa emba’apokuaa hag̃ua apañuai’ỹre tapiaite.
 firefox-desktop-download-review-system-req = Ehechajey apopyvusu jerurepy
 firefox-desktop-download-all-your-devices = Emoĩ { -brand-name-firefox } opaite ne mba’e’okápe
 firefox-desktop-download-take-your-privacy = Egueraha nde rekoñemi oparupiete. { -brand-name-firefox-browsers } { -brand-name-ios } peg̃uarã ha { -brand-name-android } oreko ñemboheko ñemigua imbaretéva omboyke hag̃ua tapykuehoha nderapykuehóvo ñandutípe, mamo reimehápe.
@@ -147,8 +147,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Ejesareko mba’evai’apoha rehe { -brand-name-firefox-monitor }, emo’ã ne ñanduti veve { -brand-name-firefox-relay } rupive ha hetave.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -163,7 +161,7 @@ firefox-desktop-download-now-mac = Ko’ág̃a <strong>embojuruja</strong> maran
 firefox-desktop-download-select-linux = Eiporavo jeporavorã <strong>mboguejy</strong> ko’ág̃a
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = ¿Neapañuãipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
+firefox-desktop-download-get-help = ¿Neapañuaipa? <a { $attrs }>Eñepytyvõta ne ñemohendápe</a>.
 firefox-desktop-download-in-another-language = Emboguejy ambue ñe’ẽme térã ambue apopyvusúpe g̃uarã.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
@@ -186,4 +184,3 @@ firefox-desktop-download-please-follow = Ejapomína <a href="{ $url }">ko’ã m
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eiporukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } ejuhúta tembiaporã rendápe { -brand-name-windows } emohenda rire

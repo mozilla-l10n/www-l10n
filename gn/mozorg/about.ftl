@@ -31,7 +31,7 @@ about-read-the-manifesto = Emoñe’ẽ Mozilla he’ipyre
 about-a-global-view = Jehecha tuichaháicha
 about-with-offices-all-over-the = <a href="{ $url }">oficina arapy tuichakuépe</a> ndive, rohecha ñanduti mba’ekuaaita ha jeregua guive.
 about-san-francisco = San Francisco
-about-talking-tech-issues-irl = Roñe’ẽ (IRL) ñandutigua apañuãi
+about-talking-tech-issues-irl = Roñe’ẽ (IRL) ñandutigua apañuái
 about-in-mozillas-multi-award-winning = Pe podcast oganáva hetajey { -brand-name-mozilla } rehegua, Bridget Todd oñe’ẽ tapichakuéra ombohapéva ndive Ñanduti pyahu ha IA.
 # Obsolete strings (remove in 1-2 months)
 about-talking-internet-issues-irl = Roñe’ẽhína IRL ñanduti rehegua
@@ -54,5 +54,5 @@ about-get-involved = Eike hyepyetépe
 ## Newsletter
 
 about-get-the-mozilla-newsletter = Ejapyhy { -brand-name-mozilla } marandu’i
-about-stay-informed-about-the-issues = Eikuaa meméke apañuãi oguerekóva ñanduti ha eikuaa mba’eichaitépa ikatu eipytyvõ emo’ã hag̃ua ko arapygua mba’éva ramoite guive.
+about-stay-informed-about-the-issues = Eikuaa meméke apañuái oguerekóva ñanduti ha eikuaa mba’eichaitépa ikatu eipytyvõ emo’ã hag̃ua ko arapygua mba’éva ramoite guive.
 about-subscribe = Mboheraguapy

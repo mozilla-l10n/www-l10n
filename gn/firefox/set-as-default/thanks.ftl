@@ -11,7 +11,7 @@ set-as-default-thanks-success-your-default-browser = ¡Iporã! Ne kundaha ijypyk
 set-as-default-thanks-looks-like-youre-using-a = Ha’ete eiporúva ambue kundaha ko’ág̃a rupi. Ehecháke eguerekópa { -brand-name-firefox } ne mba’e’okápe.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = Emohu’ã’íntema. Emoambue ne kundaha ypygua { -brand-name-firefox }-pe ne mba’erechaha ñembohekoha rupápe.
-set-as-default-thanks-having-trouble-setting-your = ¿Erekópa apañuãi emboheko hag̃ua ne kundaha ypygua?
+set-as-default-thanks-having-trouble-setting-your = ¿Erekópa apañuái emboheko hag̃ua ne kundaha ypygua?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 set-as-default-thanks-heres-everything-you-need-android = Ápe ejuhúta opaite eikuaaséva mba’éichapa embohekóta ne kundaha ypyguáva <a href="{ $android }">Android mba’e’okápe</a>.
@@ -30,7 +30,7 @@ set-as-default-create-an-account = Emoheñói mba’ete
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Eñemboheraguapy ereko hag̃ua { -brand-name-mozilla-account } reíva ha embojuehe ne ñe’ẽñemi, ñeikundaha rembiasakue ha erohoryvéva ne mba’e’okakuérape.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Emoheñói peteĩ mba’ete
-set-as-default-thanks-having-trouble = ¿Eguerekópa apañuãi?
+set-as-default-thanks-having-trouble = ¿Eguerekópa apañuái?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 #   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
