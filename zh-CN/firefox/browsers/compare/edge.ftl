@@ -15,4 +15,4 @@ compare-edge-and-we-make-it-easy-for-you = 我们让您可以轻松选择进行�
 compare-edge-microsoft-has-to-make-their-shareholders = 微软需要让他们的股东满意，而我们可以专注于<strong>让您满意</strong>，并将您的隐私放在首位。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-edge-switching-to-firefox-is-easy = 切换到 { -brand-name-firefox } 简单快捷——只需一次点击即可导入您的 Edge 书签、密码、历史记录和首选项然后即可使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用“导入”按钮切换</a>。
+compare-edge-switching-to-firefox-is-easy = 换用 { -brand-name-firefox }，轻松又快捷。一键导入您在 Edge 中的书签、密码、历史记录、首选项，即可马上转为使用 { -brand-name-firefox }。了解<a { $howto }>如何使用“导入”按钮来更换浏览器</a>。

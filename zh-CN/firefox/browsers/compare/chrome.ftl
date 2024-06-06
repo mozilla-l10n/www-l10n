@@ -19,4 +19,4 @@ compare-chrome-chrome-allows-other-websites-to = Chrome 允许其他网站收集
 compare-chrome-google-runs-the-worlds-largest = Google 经营着全球最大的广告网络，Chrome 正是其组成部分。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
-compare-chrome-switching-to-firefox-is-easy = 换用 { -brand-name-firefox }，轻松又快捷。一键导入您在 Chrome 中的书签、密码、历史记录、首选项，即可转为使用 { -brand-name-firefox }。了解<a { $howto }>如何从 Chrome 换用 { -brand-name-firefox }</a>。
+compare-chrome-switching-to-firefox-is-easy = 换用 { -brand-name-firefox }，轻松又快捷。一键导入您在 Chrome 中的书签、密码、历史记录、首选项，即可马上转为使用 { -brand-name-firefox }。了解<a { $howto }>如何从 Chrome 换用 { -brand-name-firefox }</a>。
