@@ -21,6 +21,7 @@ home-product-pocket-articles = 网络上引人入胜的文章
 home-cta-get-pocket = 获取 { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = 简单易用的马甲邮箱与虚拟手机号
+home-product-relay-hide-your = 对别有用心之人隐藏电话号码和邮箱地址
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
