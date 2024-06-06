@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 footer-privacy-hub = Tietosuojakeskus
 footer-privacy = Tietosuoja
 footer-press = Lehdistö
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = Yritysblogi
+footer-mozilla-blog = { -brand-name-mozilla }-blogi
 footer-browser-comparison = Selainten vertailu
 footer-brand-standards = Brändistandardit
 footer-browsers = Selaimet

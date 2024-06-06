@@ -19,17 +19,24 @@ home-product-firefox-browsing = Yksityistä ja suojattua selausta
 home-cta-get-firefox = Lataa { -brand-name-firefox }
 home-product-pocket-articles = Internetin kiehtovimmat artikkelit
 home-cta-get-pocket = Hanki { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Helppokäyttöiset sähköposti- ja puhelinmaskit
+home-product-relay-hide-your = Piilota puhelinnumerosi ja sähköpostiosoitteesi roskapostittajilta
 home-cta-get-relay = Hanki { -brand-name-relay }
 home-product-vpn-trust = VPN, johon voit luottaa
 home-cta-get-vpn = Hanki { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Tietovuotohälytykset
 home-cta-get-monitor = Hanki { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } lyö vetoa näyttääkseen maailmalle, että luotettavalla tekoälyllä on mahdollista tehdä kannattavaa liiketoimintaa. Se sisältää ihmisoikeuksien, tietosuojan ja avoimuuden asettamisen näiden monimutkaisten järjestelmien toiminnan ytimeen.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Lue lisää
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Onko { -brand-name-mozilla } yritys vai voittoa tavoittelematon järjestö? Itse asiassa molempia.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } koostuu kahdesta organisaatiosta. { -brand-name-mozilla-corporation }in omistaa kokonaan voittoa tavoittelematon 501(c) { -brand-name-mozilla-foundation }. Tämä tarkoittaa, että emme ole vastuullisia osakkeenomistajillemme – vain tehtävällemme.
+home-so-what-is-mozilla = Mikä { -brand-name-mozilla } on?
 home-learn-about-mofo = Lue lisää { -brand-name-mozilla-foundation }ista
 home-join-the-fight = Liity taisteluun terveen internetin puolesta
 home-your-voice-your-code = Äänesi. Koodisi. Ideasi. Voit osallistua { -brand-name-mozilla }an kirjaimellisesti tuhansilla eri tavoilla.
@@ -45,3 +52,4 @@ home-get-news-and-tips = Vastaanota uutisia ja vinkkejä { -brand-name-mozilla }
 home-featured-product = Valokeilassa
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Sumenna sijaintisi ja toimintasi käyttämällä <span>{ -brand-name-mozilla-vpn }</span>:ää
+home-mofo-donate = Lahjoita

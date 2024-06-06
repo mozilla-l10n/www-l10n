@@ -9,11 +9,6 @@
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox }-mobiiliselaimet asettavat yksityisyytesi etusijalle
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Yleiskatsaus kaikista { -brand-name-firefox }-mobiiliselaimista ({ -brand-name-firefox } { -brand-name-android }ille, { -brand-name-firefox } { -brand-name-ios }:lle , { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = Kotona tai liikkeellä ollessasi ansaitset yksityisyyden kaikilla laitteilla. Parannettu seurannan suojaus on automaattinen kaikissa { -brand-name-firefox }-mobiiliselaimessa.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = Mobiiliselain, joka asettaa <strong>yksityisyytesi</strong> etusijalle
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }ille
 browsers-mobile-infinitely-customizable-private = Äärettömän muokattava, yksityinen ja turvallinen, { -brand-name-firefox } { -brand-name-android }ille on salamannopea selain, joka ei koskaan aseta sinua kauppatavaraksi.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
@@ -24,17 +19,13 @@ browsers-mobile-the-more-you-use = Mitä enemmän käytät sitä, sitä älykkä
 browsers-mobile-get-enhanced-tracking-protection = Hanki tehostettu seurannan suojaus ja tee { -brand-name-firefox }ista oletusselaimesi { -brand-name-iphone }lla ja { -brand-name-ipad }illa.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Etsitkö virtaviivaistettua, huippunopeaa mobiiliselainta seuraavan tason tietosuojaominaisuuksilla? { -brand-name-firefox-focus } poistaa automaattisesti kaiken selaushistoriasi, kun suljet selaimen.
-browsers-mobile-compare-mobile-browsers = Vertaa mobiiliselaimia
-browsers-mobile-see-how-firefox-stacks-up = Katso, kuinka { -brand-name-firefox } erottuu muista suosituista selaimista, kun on kyse kolmesta merkittävästä asiasta: yksityisyydestä, ominaisuuksista ja synkronoinnista.
 browsers-mobile-compare = Vertaa
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Katso, kuinka { -brand-name-firefox }in työpöytäversio pärjää muita selaimia vastaan.
+# Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Katso, kuinka { -brand-name-firefox }in työpöytäversio pärjää seitsemää muuta selainta vastaan.
+# Obsolete string (expires 30 June 2024)
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Katso, kuinka { -brand-name-firefox }in <strong>työpöytäversio</strong> pärjää seitsemää muuta selainta vastaan.
-browsers-mobile-join-firefox-and-get-the-most = Liity { -brand-name-firefox }iin ja saat kaiken irti kaikista tuotteista — kaikilla laitteilla.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Onko sinulla jo tili? <a { $fxa_attr }>Kirjaudu sisään</a> tai <a { $accounts_attr }>lue lisätietoja</a> { -brand-name-firefox }iin liittymisestä.
 browsers-mobile-download = Lataa
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

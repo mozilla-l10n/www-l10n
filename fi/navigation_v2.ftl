@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
 navigation-v2-get-the-mobile-browser = Hanki mobiiliselain { -brand-name-iphone }lle tai { -brand-name-ipad }ille.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Yksityistä mobiiliselailua yksinkertaisesti.
-navigation-v2-privacy-promise = Tietosuojalupaus
-navigation-v2-learn-how-firefox-treats = Lue kuinka { -brand-name-firefox } kohtelee tietojasi kunnioituksella.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogi
 navigation-v2-read-about-new-firefox-features = Lue uusista { -brand-name-firefox }-ominaisuuksista ja tavoista pysyä turvassa verkossa.
 navigation-v2-release-notes = Julkaisutiedot
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Näytä kaikki { -brand-name-firefox-b
 navigation-v2-products = Tuotteet
 navigation-v2-close-products-menu = Sulje Tuotteet-valikko
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Selvitä, onko sähköpostisi paljastunut yritykseen kohdistuneessa tietovuodossa.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Tallenna ja löydä parhaat tarinat verkosta.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Auta estämään { -brand-name-facebook }ia keräämästä tietojasi sivustonsa ulkopuolelta.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Hanki suojausta selaimesi lisäksi kaikille laitteillesi.
-navigation-v2-product-promise = Tuotelupaus
-navigation-v2-learn-how-each-firefox-product = Lue, miten kaikki { -brand-name-firefox }-tuotteet suojaavat ja kunnioittavat tietojasi.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beeta)
 navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta todellista sähköpostiosoitettasi.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Uusia ominaisuuksia ja työkaluja mukautettuun { -brand-name-mdn }-kokemukseen
 navigation-v2-view-all-products = Katso kaikki tuotteet
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Käytä tekoälyä väärennettyjen arvostelujen ja huijausten havaitsemiseen
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Työpaikat
 navigation-v2-work-for-a-mission-driven-updated = Työskentele tehtävälähtöisessä organisaatiossa, joka valmistaa ihmisille suunnattuja tuotteita.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogi
 navigation-v2-learn-about-mozilla-and = Lisätietoja { -brand-name-mozilla }sta ja meille tärkeistä asioista.
-navigation-v2-stories = Tarinat
-navigation-v2-stories-about-how = Tarinoita siitä, kuinka ihmiset ja tuotteemme muuttavat maailmaa parempaan suuntaan.
 navigation-v2-more-about-mozilla = Lisätietoja { -brand-name-mozilla }sta
 
 ## Innovation menu
 
 navigation-v2-innovation = Innovaatio
 navigation-v2-close-innovation-menu = Sulje Innovaatio-valikko
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Kokoonnu tähän vuorovaikutteiseen, moniulotteiseen sosiaaliseen tilaan verkossa.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Hanki { -brand-name-firefox }-selain, joka on suunniteltu juuri kehittäjiä varten.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
