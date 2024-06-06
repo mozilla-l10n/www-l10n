@@ -19,17 +19,33 @@ home-product-firefox-browsing = Privatno i sigurno pretraživanje
 home-cta-get-firefox = Preuzmite { -brand-name-firefox }
 home-product-pocket-articles = Najintrigantniji članci na internetu
 home-cta-get-pocket = Preuzmite { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Jednostavni i korisni skinovi za e-mail i telefon
+home-product-relay-hide-your = Sakrijte svoj broj telefona i e-mail od pošiljatelja neželjene pošte
 home-cta-get-relay = Nabavite { -brand-name-relay }
 home-product-vpn-trust = VPN kojem možete vjerovati
 home-cta-get-vpn = Preuzmite { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Upozorenja o curenju podataka
+home-product-monitor-protect-your = Zaštitite svoje privatne podatke od brokera podataka
 home-cta-get-monitor = Preuzmite { -brand-name-monitor }
+home-product-fakespot-detect = Otkrijte lažne recenzije o kupovini
+home-cta-get-fakespot = Preuzmite { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } se kladi kako bi pokazala svijetu da se može napraviti posao s pouzdanom AI. To uključuje stavljanje stvari kao što su ljudska prava, zaštita podataka i transparentnost u srž rada ovih složenih sistema.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Pridružite nam se u oblikovanju pouzdane AI
+home-work-on-ai = Rad { -brand-name-mozilla } sa AI nije samo nova stvar – proveli smo godine finansirajući, gradili i zagovarajući AI koja je otvorena, poštena i odgovorno razvijena. Naš fokus je na stvaranju AI koji služi ljudima, daje prioritet transparentnosti i podržava javno dobro, a ne korporativne planove.
+home-read-more = Pročitajte više
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Je li { -brand-name-mozilla } korporacija ili neprofitna organizacija? U stvari, oboje.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } se sastoji od dvije organizacije. { -brand-name-mozilla-corporation } je u potpunom vlasništvu neprofitne organizacije 501(c) { -brand-name-mozilla-foundation }. Što znači da nismo dužni nijednom dioničaru – samo svojoj misiji.
+home-so-what-is-mozilla = Dakle, šta je { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = U svojoj srži, { -brand-name-mozilla } je aktivistička organizacija koju vodi { -brand-name-mozilla-foundation } koja mijenja svijet kroz razne poduhvate uključujući { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> i <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Po čemu se razlikujemo? Budući da smo vođeni misijom, to znači da imamo slobodu da donosimo sve naše odluke na osnovu onoga što je najbolje za internet i za sve na mreži, a ne na osnovu zahtjeva dioničara – mi zapravo nemamo ništa od toga.
 home-learn-about-mofo = Saznajte više o { -brand-name-mozilla-foundation }
 home-join-the-fight = Pridružite se borbi za zdrav internet
 home-your-voice-your-code = Vaš glas. Vaš kod. Vaše ideje. Postoje bukvalno hiljade načina na koje možete doprinijeti { -brand-name-mozilla }i.
@@ -45,3 +61,7 @@ home-get-news-and-tips = Primajte vijesti i savjete od { -brand-name-mozilla }e 
 home-featured-product = Istaknuti proizvod
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Zamaglite svoju lokaciju i aktivnost koristeći <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Izgradite naš pokret
+home-mofo-donate-to-mofo-today = Donirajte za { -brand-name-mozilla-foundation } danas da osigurate da internet ostane otvoren i dostupan svima.
+home-mofo-donate = Doniraj

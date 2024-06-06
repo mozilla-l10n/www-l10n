@@ -9,11 +9,6 @@
 browsers-mobile-firefox-mobile-browsers-put = { -brand-name-firefox } mobilni pretraživači stavljaju vašu privatnost na prvo mjesto
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Pregled svih { -brand-name-firefox } mobilnih pretraživača ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios } , { -brand-name-firefox-focus })
-# Obsolete string
-browsers-mobile-at-home-or-on-the-move = Kod kuće ili u pokretu zaslužujete privatnost na svakom uređaju. Poboljšana zaštita od praćenja je automatska u svakom { -brand-name-firefox } mobilnom pretraživaču.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-# Obsolete string
-browsers-mobile-get-the-mobile-browser-privacy = Nabavite mobilni pretraživač koji vašu <strong>privatnost</strong> stavlja na prvo mjesto
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 browsers-mobile-infinitely-customizable-private = Beskonačno prilagodljiv, privatan i siguran, { -brand-name-firefox } za { -brand-name-android } je munjevit pretraživač koji vas nikada neće prodati.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
@@ -24,17 +19,15 @@ browsers-mobile-the-more-you-use = Što ga više koristite, postaje pametniji. P
 browsers-mobile-get-enhanced-tracking-protection = Budite sigurni uz poboljšanu zaštitu od praćenja i postavite { -brand-name-firefox } kao zadani pretraživač na { -brand-name-iphone } i { -brand-name-ipad } uređajima.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Tražite moderan, super brz mobilni pretraživač sa funkcijama privatnosti sljedećeg nivoa? { -brand-name-firefox-focus } automatski briše svu vašu historiju pretraživanja od trenutka kada otvorite pretraživač do trenutka kada ga zatvorite.
-browsers-mobile-compare-mobile-browsers = Uporedite mobilne pretraživače
-browsers-mobile-see-how-firefox-stacks-up = Pogledajte kako se { -brand-name-firefox } slaže s drugim popularnim pretraživačima kada su u pitanju velika tri pitanja: privatnost, mogućnosti i sinhronizacija.
 browsers-mobile-compare = Uporedite
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pogledajte kako se { -brand-name-firefox } za desktop slaže sa drugim pretraživačima.
+# Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Pogledajte kako { -brand-name-firefox } za desktop slaže do sedam drugih pretraživača.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Pogledajte kako se { -brand-name-firefox } za <strong>desktop</strong> slaže s drugim pretraživačima.
+# Obsolete string (expires 30 June 2024)
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Pogledajte kako { -brand-name-firefox } za <strong>desktop</strong> slaže do sedam drugih pretraživača.
-browsers-mobile-join-firefox-and-get-the-most = Pridružite se { -brand-name-firefox }u i izvucite maksimum iz svakog proizvoda — na svakom uređaju.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Već imate račun? <a { $fxa_attr }>Prijavite se</a> ili <a { $accounts_attr }>saznajte više</a> o pridruživanju { -brand-name-firefox }u.
 browsers-mobile-download = Preuzmi
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

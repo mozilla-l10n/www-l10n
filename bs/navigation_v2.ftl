@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Preuzmite mobilni pretraživač za svoj { -brand-name-iphone } ili { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Jednostavno privatno mobilno pretraživanje.
-navigation-v2-privacy-promise = Obećanje privatnosti
-navigation-v2-learn-how-firefox-treats = Saznaj kako { -brand-name-firefox } poštuje tvoje podatke.
 navigation-v2-firefox-blog = { -brand-name-firefox } blog
 navigation-v2-read-about-new-firefox-features = Čitajte o novim { -brand-name-firefox } mogućnostima i dobijte savjete kako ostati siguran na internetu.
 navigation-v2-release-notes = Napomene o izdanju
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-bro
 navigation-v2-products = Proizvodi
 navigation-v2-close-products-menu = Zatvori meni za proizvode
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Provjerite da li se vaš e-mail pojavio u curenju podataka iz kompanije.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Sačuvajte i otkrijte najbolje priče sa cijelog weba.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Pomozite spriječiti { -brand-name-facebook } da prikuplja vaše podatke van svoje web stranice.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Dobijte zaštitu van vašeg pretraživača, na svim svojim uređajima.
-navigation-v2-product-promise = Obećanje proizvoda
-navigation-v2-learn-how-each-firefox-product = Saznajte kako svaki { -brand-name-firefox } proizvod štiti i poštuje vaše podatke.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registrujte se za nove račune bez davanja email adrese.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nove funkcije i alati za prilagođeno { -brand-name-mdn } iskustvo
 navigation-v2-view-all-products = Pogledajte sve proizvode
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Koristite AI za otkrivanje lažnih recenzija i prevara
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Karijere
 navigation-v2-work-for-a-mission-driven-updated = Radite za organizaciju sa jasnom vizijom i čiji proizvodi stavljaju ljude na prvo mjesto.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } blog
 navigation-v2-learn-about-mozilla-and = Saznajte više o { -brand-name-mozilla } i problemima koji su nam važni.
-navigation-v2-stories = Priče
-navigation-v2-stories-about-how = Priče o tome kako naši ljudi i proizvodi mijenjaju svijet na bolje.
 navigation-v2-more-about-mozilla = Više o { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Inovacije
 navigation-v2-close-innovation-menu = Zatvorite meni Inovacije
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Okupite se u ovom interaktivnom, online, višedimenzionalnom društvenom prostoru.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Preuzmite { -brand-name-firefox } pretraživač napravljen samo za programere.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
