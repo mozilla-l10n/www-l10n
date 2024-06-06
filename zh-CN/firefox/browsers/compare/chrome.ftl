@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } 与 Google Chrome
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } 对比 Google Chrome
 # HTML page description
-compare-chome-read-our-comparison = 请阅读我们对 { -brand-name-firefox } 与 Chrome 浏览器在功能、隐私和易用性方面的比较。
+compare-chome-read-our-comparison = 将 { -brand-name-firefox } 与 Chrome 浏览器，在功能、隐私、易用性等方面比比看。
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
