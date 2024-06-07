@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # Page title
-compare-opera-firefox-vs-opera = { -brand-name-firefox } 与 Opera
+compare-opera-firefox-vs-opera = { -brand-name-firefox } 对比 Opera
 # HTML page description
-compare-opera-read-our-comparison = 请阅读我们对 { -brand-name-firefox } 与 Opera 浏览器在功能、隐私和易用性方面的比较。
+compare-opera-read-our-comparison = 将 { -brand-name-firefox } 与 Opera 浏览器，在功能、隐私、易用性等方面比比看。
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } 的默认隐私设置比 Opera 更强大——我们还有更多功能来防止网站跟踪您，例如<a { $fingerprint }>拦截指纹</a>。
