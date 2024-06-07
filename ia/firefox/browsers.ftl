@@ -14,7 +14,7 @@ firefox-browsers-main-heading = Navigatores { -brand-name-firefox }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Obtene le <strong>navigatores</strong> que antepone tu vita private – e sempre lo ha facite
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Obtene le navigator que pone prime tu confidentialitate desde <strong>sempre</strong>.
+firefox-browsers-get-the-browsers-strong-v2 = Obtene le navigator que antepone tu vita private – e <strong>sempre</strong> lo ha facite
 firefox-browsers-desktop = Scriptorio
 firefox-browsers-seriously-private-browsing = Navigation ben private. { -brand-name-firefox } bloca automaticamente plus de 2000 traciatores, impediente que illos collige informationes sur lo que tu face in linea.
 firefox-browsers-download-for-desktop = Discargar pro scriptorio
