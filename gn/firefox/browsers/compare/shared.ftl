@@ -12,3 +12,5 @@ compare-shared-footer-cta-button = Emboguejy { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Roikuave’ẽ avei tembiapoite hasy’ỹva ijeporu:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } oreko avei tembiporu ijehevoi:
 compare-shared-its-easy-to-switch = Ndahasýi eva hag̃ua
+# Used as a small link to a cited source
+compare-shared-source = teñoiha

@@ -66,6 +66,7 @@ firefox-products-analyze = Ehesa’ỹijo URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Ehecha pe ñanduti retepy iporãvéva ha erohory tenda ejaposehápe. Ojapóva { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Ehecha pe ñanduti retepy iporãvéva  — ha emoñe’ẽ ejaposehápe.
 firefox-products-get-pocket = Eguereko { -brand-name-pocket }

@@ -7,4 +7,6 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Chrome hembiapoite rehegua, hekoñemi ha ndahasýi ijeporu.
 compare-chrome-we-block-trackers-by-default = Rojoko tapykuehoha ijypykue rupi. Chrome ndojapói.
