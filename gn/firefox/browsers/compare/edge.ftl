@@ -7,4 +7,6 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
+# HTML page description
+compare-edge-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Edge hembiapoite rehegua, hekoñemi ha ndahasýi ijeporu.
 compare-edge-we-block-trackers-by-default = Rojoko tapykuehoha ijypykue rupi. Edge ndojapói.
