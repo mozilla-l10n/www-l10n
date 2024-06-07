@@ -13,7 +13,7 @@ what-is-firefox = Que es { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = Le { -brand-name-firefox-browser } es le unic navigator de importantia que es sustenite per un organisation sin scopo lucrative, que non vende tu datos personal a annunciatores, e que te adjuta a proteger tu informationes personal. Apprende plus sur le <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">altere productos.</a>
 how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
@@ -46,11 +46,11 @@ protecting-your-privacy = Proteger tu vita private es nostre prioritate principa
 is-firefox-safe = Es { -brand-name-firefox } secur?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } non solmente es secur de usar, illo etiam te adjuta a mantener secur tu datos e informationes private. Le { -brand-name-firefox-browser } impedi automaticamente que le traciatores de tertios, traciatores de retes social, cryptominatores e dactylogrammatores collige tu datos. <a href="{ $url }">Saper plus sur le confidentialitate in nostre productos.</a>
 related-questions-safe = Questiones similar: { -brand-name-firefox } es bon pro le vita private? { -brand-name-firefox } es secur? { -brand-name-firefox } es melior pro le vita private?
-does-firefox-sell = An { -brand-name-firefox } vende tu datos personal?
+does-firefox-sell = Vende { -brand-name-firefox } tu datos personal?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
