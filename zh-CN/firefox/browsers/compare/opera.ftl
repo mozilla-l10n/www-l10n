@@ -15,4 +15,4 @@ compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } 的默
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } 提供丰富的定制选项，包括将菜单和工具栏移动到浏览器窗口的不同位置。Opera 界面的定制自由度则相对较低。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-opera-switching-to-firefox-is-easy = 切换到 { -brand-name-firefox } 简单快捷——只需一次点击即可导入您的 Opera 书签、密码、历史记录和首选项，然后即可使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用“导入”按钮切换</a>。
+compare-opera-switching-to-firefox-is-easy = 换用 { -brand-name-firefox }，轻松又快捷。一键导入您在 Opera 中的书签、密码、历史记录、首选项，即可马上转为使用 { -brand-name-firefox }。了解<a { $howto }>如何使用“导入”按钮来更换浏览器</a>。

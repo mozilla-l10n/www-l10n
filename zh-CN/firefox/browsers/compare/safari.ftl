@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
 # Page title
-compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } 与 Apple Safari
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } 对比 Apple Safari
 # HTML page description
 compare-safari-read-our-comparison = 请阅读我们的 { -brand-name-firefox } 与 Safari 浏览器在功能、隐私和易用性方面的比较。
 compare-safari-safari-and-firefox-both-have = Safari 和 { -brand-name-firefox } 都有良好的隐私和安全功能。
