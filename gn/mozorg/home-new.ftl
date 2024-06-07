@@ -55,4 +55,5 @@ home-featured-product = Apopyre iporãva
 home-feature-blur-your-location = Emboyke ne rendaite ha rejapóva eiporúvo <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Embohape ore jeku’e
+home-mofo-donate-to-mofo-today = Embojopói { -brand-name-mozilla-foundation } ko árape ikatu hag̃uáicha ñanduti ijuruja ha oiporukuaa opavavete.
 home-mofo-donate = Me’ẽ
