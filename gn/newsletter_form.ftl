@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = Emoĩ ñandutiveve kundaharape oikóva
 newsletter-form-you-must-agree-to = Emoneĩva’erã marandu’i ñemi rehegua
 newsletter-form-your-email-address = Ñandutiveve kundaharape
-newsletter-form-we-are-sorry-but-there = Oreñyrõmíkena, oĩ rupi apañuãi ore apopyvusúpe. Eha’ãjey ohasávo aravo’i.
+newsletter-form-we-are-sorry-but-there = Oreñyrõmíkena, oĩ rupi apañuái ore apopyvusúpe. Eha’ãjey ohasávo aravo’i.
 newsletter-form-please-select-country = Eiporavomína tetã térã tendaguasu
 newsletter-form-please-select-language = Eiporavomína ñe’ẽ
 # Only localize "yourname". Do not change "@example.com".
@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Eiporavo tetã térã tendaguasu
 newsletter-form-select-language = Eiporavo ñe’ẽ
 newsletter-form-your-email-here = NE ÑANDUTIVEVE
-newsletter-form-format = Ysaja
-newsletter-form-html = HTML
-newsletter-form-text = Moñe’ẽrã
 newsletter-form-get-firefox-news = Ejapyhy marandu { -brand-name-firefox }-gui
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/

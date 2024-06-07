@@ -61,7 +61,7 @@ navigation-v2-meet-the-team-thats-building = Eikuaa aty omba’apóva tembiporup
 navigation-v2-careers = Mbo’esyryete
 navigation-v2-work-for-a-mission-driven-updated = Emba’apo peteĩ atyguasu orekóva hembipotáramo apopyre opavavépe g̃uarãva.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
-navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuãi romomba’éva.
+navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuái romomba’éva.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 
 ## Innovation menu
