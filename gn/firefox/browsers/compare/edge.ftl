@@ -11,3 +11,7 @@ compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Ed
 compare-edge-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Edge hembiapoite rehegua, hekoñemi ha ndahasýi ijeporu.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } omo’ã tekoñemi hasy’ỹ ha iporã hag̃uáicha, ani hag̃ua ejepy’apy upévare.
 compare-edge-we-block-trackers-by-default = Rojoko tapykuehoha ijypykue rupi. Edge ndojapói.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft ombovy’ase ijarakuérape, hákatu ore roma’ẽta nde vy’arã rehe <strong>ndéve</strong> ha romoĩta nde rekoñemi tenonderã.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-edge-switching-to-firefox-is-easy = Jeva { -brand-name-firefox } ndive ndahasýi ha ipya’e — egueru techaukaha Edge guive, ñe’ẽñemi, tembiasakue ha erohoryvéva peteĩ jekutúpe ha eiporukuaátama { -brand-name-firefox }. Ápe romombe’úta <a { $howto }>mba’éichapa eiporúta Mba’egueru emoambue hag̃ua</a>.
