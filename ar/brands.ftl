@@ -111,7 +111,6 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = شبكة Mozilla للتطوير
 -brand-name-mozilla-festival = مهرجان موزيلا
--brand-name-mozilla-hubs = مراكز موزيلا
 -brand-name-mozilla-labs = موزيلا لابز
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = موزيلا VPN
