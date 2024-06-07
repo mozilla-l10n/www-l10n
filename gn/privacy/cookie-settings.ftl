@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Kookie ñemboheko
+cookie-settings-page-desc = Ko kuatiarogue ohechauka opaichagua kookie { -brand-name-mozilla } oiporukuaáva, ha ome’ẽ ndéve pokatu máva mba’ekuaarãpa emoneĩta ombyatývo { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = Kuatiarogue mboyvegua
 cookie-settings-how-mozilla-heading = Mba’éichapa oiporu { -brand-name-mozilla } kookie
 cookie-settings-how-does-mozilla-use-subheading = Mba’éichapa oiporu { -brand-name-mozilla } ko’ã mba’ekuaarã
