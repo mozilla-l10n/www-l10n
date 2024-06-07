@@ -8,9 +8,9 @@
 
 ## Required
 
-installer-help-page-title = Seu download foi interrompido
-installer-help-main-tagline = Isso acontece às vezes. Vamos tentar algo diferente.
-installer-help-action-channel = Este download deve funcionar melhor para você.
+installer-help-page-title = A instalação foi interrompida
+installer-help-main-tagline = Às vezes isso acontece. Vamos tentar algo diferente.
+installer-help-action-channel = Baixe o instalador usando o botão abaixo, deve funcionar melhor para você.
 installer-help-action-choose = Escolha um download abaixo.
 
 ##
@@ -32,4 +32,4 @@ installer-help-firefox-nightly-desc = Dê uma olhada em nosso navegador de próx
 installer-help-need-help = Precisa de ajuda para instalar?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
-installer-help-need-help-desc = Se ainda precisa de ajuda para instalar, <a href="{ $url }">leia o tutorial em nossa seção de suporte.</a>
+installer-help-need-help-desc = Se ainda precisar de ajuda para instalar, <a href="{ $url }">consulte o tutorial em nossa seção de suporte.</a>
