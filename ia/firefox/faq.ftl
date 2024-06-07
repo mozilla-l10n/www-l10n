@@ -56,7 +56,7 @@ does-firefox-sell = Vende { -brand-name-firefox } tu datos personal?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 nope-never-have = No. Nunquam facite, nunquam facera. E nos te protege de multes del annunciatores que lo face. Le productos de { -brand-name-firefox } es concipite pro proteger tu vita private. <a href="{ $url }"> Es un promissa.</a>
-why-is-firefox = Perque { -brand-name-firefox } es assi lente?
+why-is-firefox = Proque es { -brand-name-firefox } si lente?
 firefox-isnt-slow = { -brand-name-firefox } non es lente… ora. In 2017, nos completemente reedificava nostre motor de navigator (appellate Quantum), pro que { -brand-name-firefox } poterea concurrer con altere major navigatores. E nostre blocatores de traciator adjuta paginas cargar mesmo plus velocemente. Assi { -brand-name-firefox } es ultra veloce sin sacrificar alco de tu confidentialitate.
 is-firefox-chromium = An { -brand-name-firefox } es basate sur{ -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } non basate super { -brand-name-chromium } (le projecto de navigator open-source al nucleo de { -brand-name-google } { -brand-name-chrome }). De facto, nos es un del ultime major navigatores que non lo es. { -brand-name-firefox } flue sur nostre motor de navigator Quantum construite specificamente pro { -brand-name-firefox }, assi nos pote assecura te que tu datos es tractate respectuosemente e retenite private.
