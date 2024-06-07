@@ -58,15 +58,15 @@ does-firefox-sell = Vende { -brand-name-firefox } tu datos personal?
 nope-never-have = No. Nunquam facite, nunquam facera. E nos te protege de multes del annunciatores que lo face. Le productos de { -brand-name-firefox } es concipite pro proteger tu vita private. <a href="{ $url }"> Es un promissa.</a>
 why-is-firefox = Proque es { -brand-name-firefox } si lente?
 firefox-isnt-slow = { -brand-name-firefox } non es lente… al minus, non plus. In 2017, nos completemente reconstrueva nostre motor de navigator (appellate Quantum), pro render { -brand-name-firefox } preste a concurrer con altere navigatores importante. E con nostre blocatores de traciamento, le paginas se carga ancora plus rapidemente. Es assi que { -brand-name-firefox } es veloce como le fulmine sin sacrificar alcun aspecto de tu confidentialitate.
-is-firefox-chromium = An { -brand-name-firefox } es basate sur{ -brand-name-chromium }?
-firefox-is-not = { -brand-name-firefox } non basate super { -brand-name-chromium } (le projecto de navigator open-source al nucleo de { -brand-name-google } { -brand-name-chrome }). De facto, nos es un del ultime major navigatores que non lo es. { -brand-name-firefox } flue sur nostre motor de navigator Quantum construite specificamente pro { -brand-name-firefox }, assi nos pote assecura te que tu datos es tractate respectuosemente e retenite private.
-does-firefox-use = An { -brand-name-firefox } usa { -brand-name-google }?
+is-firefox-chromium = Es { -brand-name-firefox } basate sur { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } non es basate sur { -brand-name-chromium } (le projecto de navigator open source al nucleo de { -brand-name-google } { -brand-name-chrome }). De facto, nos es un del ultime navigatores importante que non lo es. { -brand-name-firefox } functiona con nostre motor de navigator Quantum construite specificamente pro { -brand-name-firefox }, de sorta que nos pote assecurar te que tu datos es tractate respectuosemente e mantenite private.
+does-firefox-use = Usa { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } es le motor de recerca predefinite in { -brand-name-firefox }, isto significa que tu pote cercar le Web directemente del barra de adresse. <a href="{ $url }">Saper plus re preferentias del motor de recerca e cambiar le valores predefinite.</a>
-does-firefox-have = An { -brand-name-firefox } ha un VPN integrate?
+firefoxs-default-search = { -brand-name-google } es le motor de recerca predefinite in { -brand-name-firefox }. Isto significa que tu pote cercar in le Web directemente desde le barra de adresse. <a href="{ $url }">Saper plus sur le preferentias del motor de recerca e como cambiar le parametros predefinite.</a>
+does-firefox-have = Ha { -brand-name-firefox } un VPN integrate?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
 firefox-does-not-v2 = { -brand-name-firefox } non ha un VPN (rete virtual private) integrate, ma { -brand-name-mozilla } crea un producto appellate <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> que tu pote usar ultra al { -brand-name-firefox-browser } private, que pote proteger tu connexion sur wi-fi, e tu adresse IP.
