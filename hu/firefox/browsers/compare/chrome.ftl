@@ -19,4 +19,4 @@ compare-chrome-chrome-allows-other-websites-to = A Chrome lehetővé teszi, hogy
 compare-chrome-google-runs-the-worlds-largest = A Google üzemelteti a világ legnagyobb hirdetési hálózatát, és ennek a Chrome is része.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
-compare-chrome-switching-to-firefox-is-easy = A { -brand-name-firefox } ra váltás könnyű és gyors – importálja a Chrome könyvjelzőit, jelszavait, előzményeit és beállításait egy kattintással, és azonnal készen áll a { -brand-name-firefox } használatára. Tudja meg <a { $howto }>hogyan válthat Chrome-ról { -brand-name-firefox }</a>.
+compare-chrome-switching-to-firefox-is-easy = A { -brand-name-firefox }ra váltás egyszerű és gyors – importálja a Chrome könyvjelzőit, jelszavait, előzményeit és beállításait egy kattintással, és azonnal készen áll a { -brand-name-firefox } használatára. Tudja meg, <a { $howto }>hogyan váltson a Chrome-ról a { -brand-name-firefox }ra</a>.
