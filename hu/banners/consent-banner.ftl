@@ -3,9 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Segítsen nekünk a { -brand-name-mozilla(ending: "accented", case: "lower") }s élményének javításában
+consent-banner-body-v2 = Az oldal működéséhez szükséges sütik mellett az engedélyét kérjük néhány további süti beállításához is, hogy jobban megértsük az Ön böngészési igényeit és javítsuk az élményét. Nyugodt lehet – tiszteletben tartjuk az adatvédelmét.
+# Obsolete string (expires: 2024-07-22)
 consent-banner-body = Az oldal működéséhez szükséges sütik mellett az engedélyét kérjük néhány további süti beállításához is, hogy jobban megértsük az Ön böngészési igényeit és javítsuk az élményét. Nyugodt lehet – tiszteletben tartjuk az adatvédelmét.
 consent-banner-button-reject = Összes további süti elutasítása
 consent-banner-button-accept = Összes további süti elfogadása

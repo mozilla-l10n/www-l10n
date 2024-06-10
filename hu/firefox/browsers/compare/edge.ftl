@@ -8,7 +8,7 @@
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } kontra Microsoft Edge
 # HTML page description
-compare-edge-read-our-comparison = Olvassa el a { -brand-name-firefox } és Edge böngészők összehasonlítása a funkciókról, az adatvédelemről és a könnyű használhatóságról.
+compare-edge-read-our-comparison = Olvassa el a { -brand-name-firefox } és Edge böngészők összehasonlítását, a funkciók, az adatvédelem és a könnyű használhatóság szempontjából.
 compare-edge-firefox-makes-privacy-protection = A { -brand-name-firefox } egyszerűvé és kényelmessé teszi az adatvédelmet, így Önnek nem kell miatta aggódnia.
 compare-edge-we-block-trackers-by-default = Alapértelmezés szerint blokkoljuk a követőket. Az Edge nem.
 compare-edge-and-we-make-it-easy-for-you = Mi pedig megkönnyítjük Önnek, hogy kiválassza a keresőmotort, amikor keres. Az Edge segítségével átáshatja a beállításokat, hogy a Bingtől eltérő keresőszolgáltatást használjon.
