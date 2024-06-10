@@ -70,8 +70,6 @@
 -brand-name-firefox-accounts = Ҳисобҳои Firefox
 -brand-name-firefox-devtools = Абзорҳои барномарезии Firefox
 -brand-name-firefox-lockwise = Firefox Lockwise
-# Obsolete brand name
--brand-name-firefox-monitor = Firefox Monitor
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
@@ -101,6 +99,10 @@
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+-brand-name-fakespot = Fakespot
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
@@ -110,7 +112,6 @@
 -brand-name-mozilla-common-voice = «Mozilla Common Voice»
 -brand-name-mozilla-developer-network = Шабакаи барномасозони «Mozilla»
 -brand-name-mozilla-festival = Ҷашнвораи «Mozilla»
--brand-name-mozilla-hubs = Маҳфилҳои «Mozilla»
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -118,6 +119,8 @@
 -brand-name-mozilla-account = Ҳисоби «Mozilla»
 -brand-name-mozilla-accounts = Ҳисобҳои «Mozilla»
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
