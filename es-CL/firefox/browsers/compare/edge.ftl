@@ -12,7 +12,6 @@ compare-edge-read-our-comparison = Lee nuestra comparación de los navegadores {
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } hace que la protección de la privacidad sea fácil y cómoda, para que no tengas que preocuparte por ello.
 compare-edge-we-block-trackers-by-default = Bloqueamos los rastreadores de manera predeterminada. Edge no lo hace.
 compare-edge-and-we-make-it-easy-for-you = Y te facilitamos elegir qué motor de búsqueda utilizar cada vez que realizas una búsqueda. Edge te hace buscar en sus ajustes para usar un motor de búsqueda que no sea Bing.
-compare-edge-microsoft-has-to-make-their-shareholders = Microsoft tiene que hacer felices a sus accionistas, pero nosotros podemos centrarnos en hacerte feliz y poner tu privacidad en primer lugar.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = Cambiar a { -brand-name-firefox } es fácil y rápido — importa tus marcadores de Edge, tus contraseñas, historial y preferencias con un solo clic y estarás listo para usar inmediatamente { -brand-name-firefox }. A continuación se explica <a { $howto }>cómo usar el botón Importar para hacer el cambio</a>.
