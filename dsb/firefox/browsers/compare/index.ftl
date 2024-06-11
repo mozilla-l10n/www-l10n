@@ -9,3 +9,6 @@
 compare-index-compare-firefox-with-other = Pśirownajśo { -brand-name-firefox } z drugimi wobglědakami
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } napśeśiwo Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } napśeśiwo Microsoft Edge
+compare-index-firefox-versus-apple-safari = { -brand-name-firefox } napśeśiwo Apple Safari
+compare-index-firefox-versus-brave = { -brand-name-firefox } napśeśiwo Brave
+compare-index-firefox-versus-opera = { -brand-name-firefox } napśeśiwo Opera
