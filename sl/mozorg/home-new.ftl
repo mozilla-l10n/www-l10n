@@ -21,16 +21,20 @@ home-product-pocket-articles = Najmikavnejši članki z vsega spleta
 home-cta-get-pocket = Pridobite { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Preproste in uporabne maske za e-pošto in telefon
+home-product-relay-hide-your = Skrijte svojo telefonsko številko in e-poštni naslov pred pošiljatelji neželenih sporočil
 home-cta-get-relay = Pridobite { -brand-name-relay }
 home-product-vpn-trust = VPN, ki mu lahko zaupate
 home-cta-get-vpn = Prenesite { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Opozorila o krajah podatkov
+home-product-monitor-protect-your = Zaščitite svoje zasebne podatke pred trgovci s podatki
 home-cta-get-monitor = Pridobite { -brand-name-monitor }
 home-cta-get-fakespot = Pridobite { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } želi svetu pokazati, da je mogoče poslovati z zaupanja vredno umetno inteligenco. To vključuje spoštovanje človekovih pravic, varstva podatkov in transparentnosti v samem jedru teh zapletenih sistemov.«
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Pridružite se nam pri oblikovanju zaupanja vredne umetne inteligence
+home-work-on-ai = { -brand-name-mozilla } se z umetno inteligenco ne srečuje prvič – dolga leta že financiramo, soustvarjamo in zagovarjamo UI, ki je odprta, poštena in razvita odgovorno. Osredotočamo se na ustvarjanje UI, ki bi služila ljudem, bila transparentna in služila javnemu dobru, ne ciljem velikih korporacij.
 home-read-more = Preberite več
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Je { -brand-name-mozilla } podjetje ali neprofitna organizacija? Pravzaprav oboje.
@@ -52,4 +56,5 @@ home-get-news-and-tips = Naročite se na novice in nasvete { -brand-name-mozilla
 home-featured-product = Priporočamo
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Zameglite svojo lokacijo in dejavnost z <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate-to-mofo-today = Donirajte fundaciji { -brand-name-mozilla-foundation } še danes in pomagajte ohraniti internet odprt ter dostopen vsem.
 home-mofo-donate = Donirajte

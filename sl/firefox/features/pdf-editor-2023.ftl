@@ -22,5 +22,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Odprite PDF v { -brand-name-fire
 pdf-editor-add-drawings-or-your-signature = Dodajanje risb (ali podpisa)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Kliknite ikono Risanje, izberite barvo, debelino in neprosojnost ter začnite risati po dokumentu. Verjetno ne bo nič bolj kaotično kot vaš običajen podpis!
 pdf-editor-add-image-with-alt-text = Dodajte sliko z nadomestnim besedilom
+pdf-editor-open-pdf-click-image-icon = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Kliknite ikono sličice in prikaže se okence za nalaganje slike. Prilagodite velikost slike in jo postavite na želeno mesto, nato pa lahko s klikom na gumb "+Nadomestno besedilo" dodate opis slike za osebe s posebnimi potrebami.
 pdf-editor-create-a-highlight = Označevanje
 pdf-editor-select-text-you-want-to = Odprite PDF v { -brand-name-firefox(sklon: "mestnik") }. Izberite besedilo, ki ga želite označiti, nato kliknite ikono označevalnika, ki se pojavi pod vašim izborom, ali z desnim klikom poiščite možnost označevanja v priročnem meniju. Za prostoročno označevanje delov PDF-ja uporabite gumb v zgornjem desnem kotu.
