@@ -9,6 +9,10 @@
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Leia nosso comparativo entre os navegadores { -brand-name-firefox } e Chrome sobre recursos, privacidade e facilidade de uso.
+# Variables:
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+compare-chrome-firefoxs-default-privacy-settings = As configurações de privacidade padrão do { -brand-name-firefox } são muito mais robustas que as do Chrome. Também temos recursos adicionais para impedir que sites rastreiem você, como <a { $fingerprint }>bloqueio de identidade digital</a>, bem como escolha de extensões de <a { $adblocker }>bloqueio de anúncios</a>.
 compare-chrome-we-block-trackers-by-default = Nós bloqueamos rastreadores por padrão. O Chrome não.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
