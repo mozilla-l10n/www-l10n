@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = Leia nosso comparativo entre os navegadores 
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = As configurações de privacidade padrão do { -brand-name-firefox } são muito mais robustas que as do Chrome. Também temos recursos adicionais para impedir que sites rastreiem você, como <a { $fingerprint }>bloqueio de identidade digital</a>, bem como escolha de extensões de <a { $adblocker }>bloqueio de anúncios</a>.
+compare-chrome-firefoxs-default-privacy-settings = As configurações de privacidade padrão do { -brand-name-firefox } são muito mais robustas que as do Chrome. Também temos recursos adicionais para impedir que sites rastreiem você, como o <a { $fingerprint }>bloqueio de identidade digital</a>, bem como escolha de extensões de <a { $adblocker }>bloqueio de anúncios</a>.
 compare-chrome-we-block-trackers-by-default = Nós bloqueamos rastreadores por padrão. O Chrome não.
 compare-chrome-in-fact-by-default-chrome-monitors = Na verdade, o Chrome por padrão monitora quais sites você visita e o que você faz, assim ele pode identificar “tópicos de publicidade” para enviar a você anúncios mais direcionados. Você pode bloquear três tópicos, mas não pode fazer com que ele pare de identificar outros tópicos de publicidade para você.
 compare-chrome-chrome-allows-other-websites-to = O Chrome permite que outros sites coletem informações sobre você para que possam sugerir anúncios. Você pode bloquear a sugestão de anúncios em sites específicos, mas não pode impedir a coleta de dados ou sugestões de outros sites.
