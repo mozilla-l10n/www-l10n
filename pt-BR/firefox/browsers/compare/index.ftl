@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Compare o { -brand-name-firefox } com outros navegadores
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } versus Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } versus Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } versus Apple Safari
