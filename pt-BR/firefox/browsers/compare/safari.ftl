@@ -11,3 +11,6 @@ compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
 compare-safari-read-our-comparison = Leia nosso comparativo entre os navegadores { -brand-name-firefox } e Safari sobre recursos, privacidade e facilidade de uso.
 compare-safari-safari-and-firefox-both-have = O Safari e o { -brand-name-firefox } têm bons recursos de privacidade e segurança.
 compare-safari-but-firefox-also-has-built-in = Mas o { -brand-name-firefox } também tem ferramentas integradas, como:
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
+compare-safari-switching-to-firefox-is-easy = Mudar para o { -brand-name-firefox } é fácil e rápido. Importe seus favoritos, senhas, histórico e preferências do Safari com apenas um clique e o { -brand-name-firefox } fica imediatamente pronto para usar. Veja <a { $howto }>como importar seus dados do Safari</a>.
