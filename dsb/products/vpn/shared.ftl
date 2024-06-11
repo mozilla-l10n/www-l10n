@@ -124,11 +124,6 @@ vpn-subnav-learn-about-vpns = Póznajśo VPN
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ześěgnuś
 vpn-subnav-features = Funkcije
 
-## VPN Affiliate cookie notice
-
-vpn-shared-affiliate-notification-reject = Wótpokazaś
-vpn-shared-affiliate-notification-ok = W pórěźe
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Pólěpšćo swóju priwatnosć z { -brand-name-vpn } + { -brand-name-relay }
@@ -154,6 +149,11 @@ vpn-press-as-seen-in = Kak jo se wózjawiło w
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } se tuchylu w rěcy { $language } njepóbitujo, ale móžośo jen w rěcach engelšćina, francojšćina, nimšćina, špańšćina a we <a { $href }>wěcej ako 30 drugich rěcach</a> wužywaś.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = Cośo wěcej luźi z { -brand-name-mozilla-vpn } wopóznaś? <a { $href }>Buźćo dobrowólny pśełožowaŕ</a>.
