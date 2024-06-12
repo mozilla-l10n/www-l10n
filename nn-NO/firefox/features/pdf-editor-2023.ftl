@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
 
+# Short title used in the subnav
+pdf-editor-pdf-editor = PDF-redigerar
 pdf-editor-add-text = Legg til tekst

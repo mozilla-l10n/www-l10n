@@ -61,7 +61,7 @@ firefox-desktop-download-bookmark-history = Bokmerke, historikk og open fane i r
 firefox-desktop-download-boost-your = Auk produktiviteten
 firefox-desktop-download-works-with-google = Fungerer med { -brand-name-google }-produkt
 firefox-desktop-download-built-in-screenshot = Innebygd skjermbildeverktøy
-firefox-desktop-download-bookmarks-manager = Bokmerkehandterar
+firefox-desktop-download-bookmarks-manager = Bokmerkehandsamar
 firefox-desktop-download-autosuggest-urls = Føreslå nettadresser automatisk
 firefox-desktop-download-sync-across-devices = Synkroniser på tvers av einingar
 firefox-desktop-download-reader-mode = Lesemodus
@@ -181,4 +181,3 @@ firefox-desktop-download-please-follow = Følg <a href="{ $url }">denne rettleii
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Systemet ditt oppfyller kanskje ikkje krava for { -brand-name-firefox }, men du kan prøve ein av <a href="{ $url }">desse versjonane</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } vert festa til { -brand-name-windows }-oppgåvelinja etter installasjon

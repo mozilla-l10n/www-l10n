@@ -17,5 +17,6 @@ features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
 features-adblocker-get-tough-with-strict = Bli tøff med stremg modus
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
 features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
+features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapslar eller berre dei som er stilt inn av sporarar. Merk at blokkering av alle infokapslar kan hindre enkelte nettstadar frå å fungere.
 features-adblocker-send-a-do-not-track-signal = Send eit «Ikkje spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar

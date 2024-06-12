@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
+features-pip-picture-in-picture = Bilde-i-bilde
 features-pip-new-feature-firefox-multi-picture = Ny funksjon: { -brand-name-firefox } multi-bilde-i-bilde
 features-pip-cool-feature-picture-in-picture = Kul funksjon: Bilde-i-bilde
 features-pip-get-more-done-with-pop-out-videos = Få meir gjort med sprettut-videoar

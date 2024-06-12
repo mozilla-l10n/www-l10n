@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = { -brand-name-firefox }-funksjonar
+features-shared-bookmark-manager = Bokmerkehandsamar
 features-shared-pdf-editor = PDF-redigerar
 features-shared-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
 features-shared-translate-the-web = Omset nettet
