@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,6 +16,6 @@ features-adblocker-choose-your-level-of-protection = Vel ditt vernenivå
 features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
 features-adblocker-get-tough-with-strict = Bli tøff med stremg modus
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
+features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
 features-adblocker-send-a-do-not-track-signal = Send eit «Ikkje spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar
-features-adblocker-take-control-of-your-browser = Ta kontroll over nettlesaren din.
