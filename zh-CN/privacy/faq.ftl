@@ -39,6 +39,10 @@ privacy-faq-okay-those-first-few-were-softballs = 好吧，说重点。你们收
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = 默认情况下，{ -brand-name-mozilla } 的确从 { -brand-name-firefox } 收集一组有限的数据，这有助于我们了解人们如何使用浏览器。该数据与随机标识符绑定，而不是您的姓名或电子邮件地址。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>，或<a href="{ $data }">数据收集的完整文档</a>。
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = 默认情况下，{ -brand-name-mozilla } 的确从 { -brand-name-firefox } 收集一组有限的数据，这有助于我们了解人们如何使用浏览器。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>，或<a href="{ $data }">数据收集的完整文档</a>。
 privacy-faq-we-make-our-documentation-public = 我们公开我们的文档，任何人都可以验证我们所说真实与否、向我们提出改进建议，并确信我们没有隐瞒任何东西。
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = 那个文档对我来说是天书！你们能直白些解释给我吗？
@@ -50,10 +54,14 @@ privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二种我们称之为
 privacy-faq-do-you-collect-more-data-in = 你们是否在 { -brand-name-firefox } 的预发布版本中收集了更多数据？
 # Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = 稍多一点。除上述数据外，我们还会在 { -brand-name-firefox } 的预发布版本中默认收集崩溃和错误报告。
+privacy-faq-sort-of-in-addition-to-the-data-v2 = 会收集一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
 # Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = 我们还可能为某一<a href="{ $link }">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要我们称之为“网络活动数据”的数据，其中可能包括有关某些网站的 URL 和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如，如何更好地整合特定区域中的热门网站。
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = 我们还可能为某一<a href="{ $link }">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要收集我们所称的“网络活动数据”，其中可能包括有关某些网站的网址和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如如何更好地整合特定区域中的热门网站。
 privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验性功能。我们在预发布版本收集的数据比正式版更多，以便了解这些实验功能的工作原理。您可以在偏好设置中选择不收集这些数据。
 privacy-faq-but-why-do-you-collect-any-data = 但你们为什么要收集一些数据呢？
 privacy-faq-if-we-dont-know-how-the-browser = 如果我们不知道浏览器的性能如何或人们使用哪些功能，我们将无法让它变得更好，也无法提供您想要的优秀产品。我们投资建设数据收集和分析工具，使我们能够在尊重人们隐私的同时对我们的产品做出明智的决策。
