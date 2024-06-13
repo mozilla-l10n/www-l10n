@@ -18,10 +18,12 @@ privacy-faq-we-only-collect-the-data-we = 我们仅为打造优秀产品收集�
 privacy-faq-we-put-people-in-control-of = 我们坚持让民众掌控自身数据与网络体验。
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
 privacy-faq-the-following-questions-and = 以下问题和答案应该有助于你理解 { -brand-name-mozilla } 和 { -brand-name-firefox } 的想法：
 privacy-faq-i-use-firefox-for-almost-everything = 我在网络上几乎只使用 { -brand-name-firefox }。 你们 { -brand-name-mozilla } 肯定知道大量关于我的资料，对吧？
 # Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
+privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息一般只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
 privacy-faq-really-you-dont-collect-my-browsing = 你们真的不收集我的浏览历史？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即使您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
 privacy-faq-it-seems-like-every-company = 似乎每个公司都在购买和出售我的数据。你们可能也这样。
@@ -52,9 +54,6 @@ privacy-faq-sort-of-in-addition-to-the-data = 稍多一点。除上述数据外�
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = 我们还可能为某一<a href="{ $link }">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要我们称之为“网络活动数据”的数据，其中可能包括有关某些网站的 URL 和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如，如何更好地整合特定区域中的热门网站。
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional-v2 = 我们还可能为我们的<a href="{ $link }">研究</a>在预发布版本中收集额外的数据。例如某些研究需要我们所说的“网络活动数据”其中可能包括有关某些网站的 URL 和其他信息。这有助于我们解答用以改进 { -brand-name-firefox } 的特定问题例如如何更好地整合特定语言中的热门网站。
 privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验性功能。我们在预发布版本收集的数据比正式版更多，以便了解这些实验功能的工作原理。您可以在偏好设置中选择不收集这些数据。
 privacy-faq-but-why-do-you-collect-any-data = 但你们为什么要收集一些数据呢？
 privacy-faq-if-we-dont-know-how-the-browser = 如果我们不知道浏览器的性能如何或人们使用哪些功能，我们将无法让它变得更好，也无法提供您想要的优秀产品。我们投资建设数据收集和分析工具，使我们能够在尊重人们隐私的同时对我们的产品做出明智的决策。
