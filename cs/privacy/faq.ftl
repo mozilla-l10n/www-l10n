@@ -16,20 +16,20 @@ privacy-faq-at-mozilla-we-respect-and-protect = V { -brand-name-mozilla(case: "l
 privacy-faq-we-follow-a-set-of-data-privacy = Řídíme se našimi <a href="{ $link }">pravidly pro ochranu osobních údajů</a>, které řídí náš přístup k vašemu soukromí pro používání { -brand-name-firefox(case: "gen") } na počítači i mobilních zařízeních.
 privacy-faq-we-only-collect-the-data-we = Sbíráme jenom data potřebná pro vylepšování našich produktů.
 privacy-faq-we-put-people-in-control-of = Lidé mají mít kontrolu nad svými daty a online prožitkem.
+# Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = Snažíme se nepřipravovat vám žádná překvapení. Naším cílem je, aby lidé rozuměli tomu, jaký je { -brand-name-firefox } ve skutečnosti.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Snažíme se nepřipravovat vám žádná překvapení. Naším cílem je, aby lidé rozuměli tomu, jaký je { -brand-name-firefox } ve skutečnosti.
 privacy-faq-the-following-questions-and = Následující otázky a odpovědi vám pomohou porozumět co můžete od { -brand-name-mozilla(case: "gen") } a { -brand-name-firefox(case: "gen") } očekávat:
 privacy-faq-i-use-firefox-for-almost-everything = Používám { -brand-name-firefox } téměř pořád. To o mně musíte v { -brand-name-mozilla(case: "loc") } vědět spoustu věcí, že?
+# Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, který běží na vašem zařízení, je skutečnou vaší bránou do internetu. Může spravovat mnoho informací o navštívených stránkách, ale všechny zůstávají na vašem zařízení. My, { -brand-name-mozilla }, společnost, která { -brand-name-firefox(case: "acc") } vytváří, tato data nesbíráme (pokud nás o to sami nepožádáte).
+privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, webový prohlížeč, který běží na vašem zařízení nebo počítači, je vaší bránou k internetu. Váš prohlížeč si poradí s mnoha informacemi o webových stránkách, které navštěvujete, ale tyto informace zůstávají na vašem zařízení. { -brand-name-mozilla }, společnost, která { -brand-name-firefox } vytváří, tyto údaje nesbírá (dokud nás o to nepožádáte).
 privacy-faq-really-you-dont-collect-my-browsing = Opravdu nevidíte nic z mé historie prohlížení?
 privacy-faq-mozilla-doesnt-know-as-much-v2 =
     { -brand-name-mozilla.case-status ->
         [with-cases] { -brand-name-mozilla } toho o tom, jak lidé prohází web, neví zdaleka tolik, kolik byste očekávali. Pro nás jako autory prohlížeče je to velká výzva. Proto máme zabudované volitelné nástroje, která povolují zapojeným uživatelům dát nám vzhled do toho, jak prohlížejí web. Pokud synchronizujete historii prohlížení napříč instalacemi { -brand-name-firefox(case: "gen") }, nevíme o této historii nic — jednoduše proto, že je šifrována již na vašem zařízení.
        *[no-cases] { -brand-name-mozilla } toho o tom, jak lidé prohází web, neví zdaleka tolik, kolik byste očekávali. Pro nás jako autory prohlížeče je to velká výzva. Proto máme zabudované volitelné nástroje, která povolují zapojeným uživatelům dát nám vzhled do toho, jak prohlížejí web. Pokud synchronizujete historii prohlížení napříč instalacemi aplikace { -brand-name-firefox }, nevíme o této historii nic — jednoduše proto, že je šifrována již na vašem zařízení.
     }
-# Outdated string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } o vás opravdu neví zdaleka tolik, kolik byste mohli očekávat. Pro nás jako autory prohlížeče to může být složité, a proto nabízíme volitelné nástroje jako <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, které dovolují posílat nám informace o tom, jak prohlížíte internet. Pokud synchronizujete svou historii prohlížení mezi různými instalacemi { -brand-name-firefox(case: "gen") }, nic z ní nevidíme. Je totiž zašifrovaná už na vašem zařízení tak, že jen zase u vás se může dešifrovat.
 privacy-faq-it-seems-like-every-company = Myslím, že každá internetová společnost kupuje nebo prodává má data. Jak se Mozilla liší?
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } neprodává žádná vaše data, stejně tak je ani nekupujeme.
 privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?
@@ -38,21 +38,34 @@ privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } není běžná průměrná organizace. Vznikla jako komunitní open source projekt v roce 1998 a jejím hlavním cílem je její mise a snaha o zdravější internet. Zdrojem většiny zisku { -brand-name-mozilla-corporation(case: "gen") } je partnerství s webovými vyhledávači používanými ve { -brand-name-firefox(case: "gen") }. Více informací o tom, jak vyděláváme peníze, najdete v našem <a href="{ $link }">finančním reportu</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Teď něco složitějšího, jaká sbíráte data?
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } sbírá omezené množství dat ve výchozím nastavení { -brand-name-firefox(case: "gen") }, které nám pomáhá porozumět, jak ho lidé používají. Tato data jsou spojená s náhodným identifikátorem, nikoliv konkrétním jménem ani e-mailovou adresou. Více informací najdete v našich <a href="{ $privacy }">zásadách ochrany osobních údajů</a> případně <a href="{ $data }">dokumentaci sběru dat</a>.
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } sbírá omezené množství dat ve výchozím nastavení { -brand-name-firefox(case: "gen") }, které nám pomáhá porozumět, jak ho lidé používají. Podrobnější informace si můžete přečíst v našich <a href="{ $privacy }">zásadách ochrany osobních údajů</a> a také <a href="{ $data }">úplnou dokumentaci ke sběru dat</a >.
 privacy-faq-we-make-our-documentation-public = Naši dokumentaci zveřejňujeme aby se každý mohl podívat a ověřit, jestli říkáme pravdu, dát nám zpětnou vazbu, návrhy na zlepšení a bít si jistí, že nic neskrýváme.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Tato dokumentace je pro mě španělskou vesnicí. Nešlo by to vysvětlit jednodušeji?
 privacy-faq-there-are-two-categories-of = Ve výchozím nastavení finálních verzí { -brand-name-firefox(case: "gen") } sbíráme dva druhy dat.
 privacy-faq-the-first-is-what-we-call-technical = První jsou tzv. technická data. Tato data obsahují informace o prohlížeči samotném, na jakém běží operačním systému a informace o chybách a pádech.
+# Obsolete string (expires 2024-09-11)
 privacy-faq-the-second-is-what-we-call-interaction = Druhému typu dat říkáme data o interakcích. Tato data obsahují informace o vašem využívání { -brand-name-firefox(case: "gen") }, jako je počet najednou otevřených panelů, některé předvolby nebo informace o využívanosti některých funkcí (snímky stránek nebo kontejnerové panely). Např. pro tlačítko pro přechod v historii prohlížení zpět, tlačítko se šipkou v levém horním rohu vedle adresního řádku, víme, že ho někdo použil, ale nedozvíme se, žádnou ze stránek, kde tlačítko použil ani kam ho zavedlo.
+privacy-faq-the-second-is-what-we-call-interaction-v2 = Druhým jsou to, čemu říkáme „interakční data“. Jedná se o data o zapojení uživatele do { -brand-name-firefox(case: "gen") }, např. počet otevřených panelů, stav uživatelských předvoleb nebo počet použití určitých funkcí prohlížeče, jako jsou snímky obrazovky nebo kontejnery. Tato data sbíráme například prostřednictvím tlačítka Zpět (tzv. šipky v levém horním rohu prohlížeče, která umožňuje návrat na předchozí stránku) způsobem, který ukazuje, že někdo použil tlačítko Zpět, ale neprozradil, co. navštívených konkrétních webových stránkách.
 privacy-faq-do-you-collect-more-data-in = Sbíráte nějaká další data v nefinálních verzích { -brand-name-firefox(case: "gen") }?
+# Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = Kromě dat popsaných výše dostáváme z nefinálních verzích { -brand-name-firefox(case: "gen") } ještě automatická hlášení o pádech.
+privacy-faq-sort-of-in-addition-to-the-data-v2 = Sort-of. Kromě dat popsaných výše dostáváme z nefinálních verzích { -brand-name-firefox(case: "gen") } ještě automatická hlášení o pádech.
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = V nefinálních verzích { -brand-name-firefox(case: "gen") } občas sbíráme další data jako součást některé ze <a href="{ $link }">studií</a>. Některé studie například potřebují data o online aktivitě, která mohou obsahovat URL adresy a informace o některých webových stránkách. To nám pomáhá vylepšovat { -brand-name-firefox(case: "acc") } ve velmi konkrétních funkcích jako např. lepší integrace oblíbených stránek v konkrétních zemích.
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = V nefinálních verzích aplikace můžeme shromažďovat další data pro jednu z našich <a href="{ $link }">studií</a>. Některé studie například vyžadují to, čemu říkáme „údaje o webové aktivitě“, která mohou obsahovat URL adresy a další informace o určitých webových stránkách. To nám pomáhá odpovídat na konkrétní otázky týkající se vylepšení { -brand-name-firefox(case: "gen") }, např. jak do něj lépe začlenit oblíbené webové stránky v konkrétních jazycích.
 privacy-faq-mozillas-pre-release-versions = Nefinální verze { -brand-name-firefox(case: "gen") } nám slouží jako platforma pro vývojáře { -brand-name-mozilla(case: "gen") }, často je aktualizujeme a obsahují i experimentální funkce. Před vydáním proto sbíráme více dat, abychom správně rozuměli jak a jestli tyto experimenty fungují. Samozřejmě můžete toto odesílání dat vypnout v nastavení.
 privacy-faq-but-why-do-you-collect-any-data = Proč vlastně vůbec sbíráte jakákoliv data?
 privacy-faq-if-we-dont-know-how-the-browser = Pokud bychom nevěděli, jak a jestli prohlížeč u uživatelů funguje a jaké jeho funkce používají, nedokázali bychom snadno vylepšovat a vyvíjet v produkt, který chcete. Investovali jsme čas a úsilí do analytických nástrojů, které nám umožňují dělat informovaná rozhodnutí, ale zároveň plně respektují vaše soukromí.
