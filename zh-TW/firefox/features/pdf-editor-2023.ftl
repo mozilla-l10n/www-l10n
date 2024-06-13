@@ -23,5 +23,5 @@ pdf-editor-add-drawings-or-your-signature = 加入繪圖或簽名
 pdf-editor-open-the-pdf-in-firefox-click-draw = 使用 { -brand-name-firefox } 開啟 PDF。點擊「繪圖」圖示選擇色彩、粗細、透明度，然後再來繪圖。簽名簽起來可能比平常還方便！
 pdf-editor-add-image-with-alt-text = 為圖片加入替代文字
 pdf-editor-open-pdf-click-image-icon = 使用 { -brand-name-firefox } 開啟 PDF。點擊圖片圖示接下來就會提示您上傳圖片。依照需要調整圖片的大小與位置。點擊圖片上的「+Alt text」按鈕即可為圖片加上文字描述讓您的 PDF 更易於閱讀。
-pdf-editor-create-a-highlight = 建立精彩片段
+pdf-editor-create-a-highlight = 畫上螢光強調
 pdf-editor-select-text-you-want-to = 使用 { -brand-name-firefox } 開啟 PDF。選擇您想要強調的文字再點擊下方的強調圖示或按右鍵在選單中找到強調的選項。點擊右上角的圖示以手動強調 PDF 當中的段落。
