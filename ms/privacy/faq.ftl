@@ -17,10 +17,16 @@ privacy-faq-at-mozilla-we-respect-and-protect = Di { -brand-name-mozilla }, kami
 privacy-faq-we-follow-a-set-of-data-privacy = Kami mengikuti satu set <a href="{ $link }">Prinsip Privasi Data</a> yang membentuk pendekatan kami terhadap privasi pelayar desktop dan mudah alih { -brand-name-firefox }.
 privacy-faq-we-only-collect-the-data-we = Kami hanya mengumpulkan data yang kami perlukan untuk membuat produk terbaik.
 privacy-faq-we-put-people-in-control-of = Kami menjadikan pengguna berkuasa mengawal data dan pengalaman dalam talian mereka sendiri.
+
+# Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = Kami mematuhi prinsip "tiada kejutan", maksudnya kami bekerja keras memastikan pemahaman pengguna tentang { -brand-name-firefox } selaras dengan realitinya.
+
 privacy-faq-the-following-questions-and = Soal jawab berikut ini mampu membantu anda memahami apa yang boleh anda harapkan daripada { -brand-name-mozilla } dan { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name-firefox } untuk hampir kesemua benda di internet. Anda yang bekerja di { -brand-name-mozilla } tentunya tahu banyak perkara tentang saya, bukan?
+
+# Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, pelayar web yang berjalan pada peranti atau komputer anda adalah gerbang anda ke internet. Pelayar anda akan menguruskan banyak maklumat tentang laman web yang anda kunjungi, tapi maklumat itu kekal di dalam peranti anda. { -brand-name-mozilla }, syarikat yang membangunkan { -brand-name-firefox }, tidak mengumpulnya (melainkan jika anda yang memintanya).
+
 privacy-faq-really-you-dont-collect-my-browsing = Betul ke, awak tidak mengumpulkan sejarah pelayaran saya?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak tahu sebanyak yang anda sangkakan tentang bagaimana pengguna melayari internet. Sebagai pembangun pelayar, ia adalah sesuatu yang mencabar bagi kami. Sebab itulah kami bangunkan ciri pilih-masuk, yang hanya membenarkan pengguna yang berminat sahaja untuk memberikan pandangan mereka tentang penggunaan Internet mereka. Sekalipun anda selaraskan sejarah pelayaran anda di kesemua peranti anda yang dipasang dengan { -brand-name-firefox }, kami tidak tahu sejarahnya — kerana ia dienkripsi oleh peranti anda.
 
@@ -35,23 +41,33 @@ privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } bukan organisa
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Okay, mula-mula tadi mudah saja. Data apa yang anda kumpulkan?
 
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } ada mengumpul set-set data yang terhad secara lalai daripada { -brand-name-firefox } yang membantu kami memahami bagaimana pengguna menggunakan pelayar. Data dihubungkan kepada pengenal rawak berbanding nama dan alamat e-mel. Anda boleh membaca lagi tentang <a href="{ $privacy }">notis privasi</a> kami dan anda boleh baca <a href="{ $data }">dokumentasi penuh tentang koleksi data</a>.
+
 privacy-faq-we-make-our-documentation-public = Kami menjadikan dokumentasi kami terbuka agar semua orang boleh mengesah apa yang kami katakan semuanya benar, maklumkan jika kami perlu peningkatan, dan mempunyai keyakinan yang kami tidak menyembunyikan apa-apa.
 
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Dokumen itu terlalu sukar untuk saya baca dan faham! Bolehkah saya dapatkan versi Inggeris yang mudah difahami?
 privacy-faq-there-are-two-categories-of = Ada dua jenis kategori data yang kami kumpulkan secara lalai dalam versi yang kami lepaskan { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Yang pertama adalah apa yang kami panggil "data teknikal." Ini ialah data mengenai pelayar itu sendiri, seperti sistem operasi di mana ia dijalankan, dan maklumat mengenai ralat atau ranap.
+
+# Obsolete string (expires 2024-09-11)
 privacy-faq-the-second-is-what-we-call-interaction = Yang kedua adalah apa yang kita panggil "data interaksi." Ini ialah data mengenai hubungan individu dengan { -brand-name-firefox }, seperti bilangan tab yang dibuka, status kegemaran pengguna, atau bilangan  ciri-ciri tertentu pelayar digunakan, seperti tangkap layar atau bekas simpanan. Contohnya, kami mengumpul data yang berkaitan dengan butang kembali, anak panah pada bahagian atas sebelah kiri pelayar anda yang membolehkan anda kembali ke laman sebelumnya yang menunjukkan seseorang sedang menggunakan butang itu, tanpa memberitahu laman web yang diakses secara spesifik.
+
 privacy-faq-do-you-collect-more-data-in = Adakah anda mengumpul lebih banyak data dalam versi pra-lancar { -brand-name-firefox }?
+
+# Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = Lebih kurang. Selain daripada data yang diterangkan di atas, kami menerima laporan kerosakan dan ralat secara lalai dalam versi pra-lancar { -brand-name-firefox }.
 
+
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Kami juga mengumpul data tambahan dalam pra-lancar untuk tujuan <a href="{ $link }">kajian</a> kami. Sebagai contoh, ada kajian yang memerlukan kami memanggil data &quot;data aktiviti web&quot;, yang mungkin termasuk URL dan lain-lain maklumat tentang laman web tertentu. Ini membantu kami menjawab soalan-soalan tertentu bagi meningkatkan { -brand-name-firefox }, contohnya bagaimana untuk mengintegrasikan laman web popular dalam penempatan pengguna tertentu.
+
 privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } versi pra-lancar { -brand-name-firefox } adalah platform pembangunan, yang kerap dikemas kini dengan ciri-ciri eksperimen. Kami mengumpul lebih banyak data semasa pra-lancar berbanding pasca lancar demi memahami bagaimana ciri-ciri eksperimen ini berfungsi. Anda boleh memilih untuk tidak bersetuju jenis data ini dikumpulkan dalam pilihan.
 privacy-faq-but-why-do-you-collect-any-data = Tetapi mengapa anda mengumpulkan data sama sekali?
 privacy-faq-if-we-dont-know-how-the-browser = Jika kami tidak tahu bagaimana prestasi pelayar atau ciri mana yang digunakan, kami tidak dapat menjadikannya lebih baik dan memberikan anda produk yang hebat seperti yang anda mahukan. Kami telah banyak melabur dalam membina alat pengumpulan data dan analitik yang membolehkan kami membuat keputusan yang bijak tentang produk dan tetap menghormati privasi pengguna.
