@@ -50,7 +50,7 @@ privacy-faq-there-are-two-categories-of = 默认情况下，我们在 { -brand-n
 privacy-faq-the-first-is-what-we-call-technical = 第一类是我们所说的“技术数据”。这是关于浏览器本身的数据，例如它运行在什么操作系统上，以及有关错误或崩溃的信息。
 # Obsolete string (expires 2024-09-11)
 privacy-faq-the-second-is-what-we-call-interaction = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量，用户偏好设置状态或某些浏览器功能的使用次数，如屏幕截图或身份标签页。 例如，就我们收集后退按钮的数据而言（即浏览器左上角可让您回到之前浏览的网页的箭头），我们可以以某种形式看到有人点击了后退按钮，但不会知道用户访问了哪些特定网页。
-privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二种我们称之为“交互数据”。这是个人使用 { -brand-name-firefox } 的数据例如打开的标签页数量用户首选项的状态或者某些浏览器功能例如屏幕截图或容器的使用次数。例如我们收集通过后退按钮位于您的浏览器左上角的箭头可以返回上一个网页的数据只会告诉我们有人使用了后退按钮但不会透露其他人在做什么。访问了特定的网页。
+privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量、用户偏好设置状态，或某些浏览器功能（例如屏幕截图和身份标签页）的使用次数。举例来说，我们会通过后退按钮（即浏览器左上角可让您回到之前浏览的网页的箭头）来收集此类数据，这样我们就可以得知有人点击了后退按钮，但并不知晓访问了哪些特定网页。
 privacy-faq-do-you-collect-more-data-in = 你们是否在 { -brand-name-firefox } 的预发布版本中收集了更多数据？
 # Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = 稍多一点。除上述数据外，我们还会在 { -brand-name-firefox } 的预发布版本中默认收集崩溃和错误报告。
