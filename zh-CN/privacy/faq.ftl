@@ -18,12 +18,10 @@ privacy-faq-we-only-collect-the-data-we = 我们仅为打造优秀产品收集�
 privacy-faq-we-put-people-in-control-of = 我们坚持让民众掌控自身数据与网络体验。
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
-privacy-faq-we-adhere-to-no-surprises-principle-v2 = 我们坚持“如所料”的原则即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
 privacy-faq-the-following-questions-and = 以下问题和答案应该有助于你理解 { -brand-name-mozilla } 和 { -brand-name-firefox } 的想法：
 privacy-faq-i-use-firefox-for-almost-everything = 我在网络上几乎只使用 { -brand-name-firefox }。 你们 { -brand-name-mozilla } 肯定知道大量关于我的资料，对吧？
 # Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
-privacy-faq-firefox-the-web-browser-that-v2 = 您的设备或计算机上运行的网络浏览器 { -brand-name-firefox } 是您通往互联网的门户。您的浏览器将管理许多有关您访问的网站的信息但这些信息通常会保留在您的设备上。开发 { -brand-name-firefox } 的 { -brand-name-mozilla } 公司不收集密码除非您要求。
 privacy-faq-really-you-dont-collect-my-browsing = 你们真的不收集我的浏览历史？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即使您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
 privacy-faq-it-seems-like-every-company = 似乎每个公司都在购买和出售我的数据。你们可能也这样。
@@ -39,10 +37,6 @@ privacy-faq-okay-those-first-few-were-softballs = 好吧，说重点。你们收
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = 默认情况下，{ -brand-name-mozilla } 的确从 { -brand-name-firefox } 收集一组有限的数据，这有助于我们了解人们如何使用浏览器。该数据与随机标识符绑定，而不是您的姓名或电子邮件地址。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>，或<a href="{ $data }">数据收集的完整文档</a>。
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited-v2 = 默认情况下{ -brand-name-mozilla } 的确会从 { -brand-name-firefox } 收集一组有限的数据以帮助我们了解人们如何使用浏览器。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>或<a href="{ $data }">该数据收集的完整文档</a >。
 privacy-faq-we-make-our-documentation-public = 我们公开我们的文档，任何人都可以验证我们所说真实与否、向我们提出改进建议，并确信我们没有隐瞒任何东西。
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = 那个文档对我来说是天书！你们能直白些解释给我吗？
@@ -54,7 +48,6 @@ privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二种我们称之为
 privacy-faq-do-you-collect-more-data-in = 你们是否在 { -brand-name-firefox } 的预发布版本中收集了更多数据？
 # Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = 稍多一点。除上述数据外，我们还会在 { -brand-name-firefox } 的预发布版本中默认收集崩溃和错误报告。
-privacy-faq-sort-of-in-addition-to-the-data-v2 = 次要。除了上述数据我们默认会收到 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
 # Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
