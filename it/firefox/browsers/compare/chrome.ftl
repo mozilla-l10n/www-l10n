@@ -7,3 +7,5 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Leggi il nostro confronto tra { -brand-name-firefox } e Chrome riguardo a funzionalità, privacy e facilità d’uso.
