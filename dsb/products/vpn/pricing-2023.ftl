@@ -20,6 +20,16 @@ vpn-pricing-connect-up-to =
         [few] Zwěžćo až k { $devices } rědam
        *[other] Zwěžćo až k { $devices } rědam
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Mějśo pśistup k { $servers } serweroju we wěcej ako { $countries } krajach
+        [two] Mějśo pśistup k { $servers } serweroma we wěcej ako { $countries } krajach
+        [few] Mějśo pśistup k { $servers } serweram we wěcej ako { $countries } krajach
+       *[other] Mějśo pśistup k { $servers } serweram we wěcej ako { $countries } krajach
+    }
 vpn-pricing-annual = Kužde lěto
 vpn-pricing-monthly = Kuždy mjasec
 vpn-pricing-get-annual-subscription = Lětny abonement wótzamknuś
