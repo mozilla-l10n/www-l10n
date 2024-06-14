@@ -8,6 +8,7 @@
 features-private-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 # HTML description
 features-private-were-focused-on-your-right-to = Romomba’e nde rekoñemi derécho. Ne mba’ekuaarã, ne rembiapo ñandutípe, eikundahakuévo { -brand-name-firefox } nemo’ãme.
+features-private-sidenote-we-are-not-big-tech = <em>Jehaipy ykegua:</em> Ndaha’éi mba’apohaguasu tembiporupyahugua. Rojapo tembiapo ambueháicha. Ore rekosãso (jaraita’ỹre) omoneĩ romomba’évo yvypóra viru ári. Ambue mba’apohaguasúicha, norohepyme’ẽi ne mba’ekuaarãme jeike.
 features-private-what-information-does-firefox = Mba’e marandúpa ombyaty { -brand-name-firefox }
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
