@@ -6,11 +6,12 @@
 #   $class (string) = CSS Class name for banner title
 moz-account-promo-title = Ein Login. <br> <span { $class }>Für ganz</span> { -brand-name-mozilla }.
 
+
+# Obsolete string (expires: 2024-09-12)
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = Sie haben schon ein Konto? <a { $sign_in_url }>Melden Sie sich an</a> oder <a { $learn_more_url }>erfahren Sie mehr</a> über { -brand-name-mozilla }
-moz-account-get-a-mozilla-account = Hol dir einen { -brand-name-mozilla-account }
 
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
