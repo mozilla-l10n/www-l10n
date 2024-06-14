@@ -18,5 +18,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Embosako’i PDF</a> pya’e ne
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Omoñe’ẽasa ñanduti rogue</a> pypegua ha tekoñemíme.
 compare-shared-its-easy-to-switch = Ndahasýi eva hag̃ua
+compare-shared-since-we-dont-have-to-make = Norombovy’aséiramo jepe jarakuérape, ikatu roma’ẽ nde vy’arã rehe <strong>ndéve</strong> romoĩvo nde rekoñemi ha nde rekoporã tenonderãite.
 # Used as a small link to a cited source
 compare-shared-source = teñoiha
