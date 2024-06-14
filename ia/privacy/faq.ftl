@@ -18,6 +18,7 @@ privacy-faq-we-only-collect-the-data-we = Nos collige solmente le datos necessar
 privacy-faq-we-put-people-in-control-of = Nos pone le personas in controlo de lor datos e de lor experientias in linea.
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = Nos adhere al principio de “nulle surprisas”, isto es, nos es determinate a garantir que le perception public de { -brand-name-firefox } corresponde al realitate.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Nos adhere al principio “nulle surprisas”, significa que nos labora durmente pro assecurar que lo que le personas intende re { -brand-name-firefox } concorda con le realitate.
 privacy-faq-the-following-questions-and = Le sequente questiones e responsas debe adjutar te a comprender lo que expectar se ab { -brand-name-mozilla } e { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Io usa { -brand-name-firefox } pro quasi toto sur le Web. Vos de { -brand-name-mozilla } debe saper un massa de cosas sur me, nonne?
 # Obsolete string (expires 2024-09-11)
