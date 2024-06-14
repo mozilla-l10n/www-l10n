@@ -8,8 +8,12 @@ moz-account-promo-title = 一个账户<br><span { $class }>通行</span> { -bran
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+moz-account-already-have-v2 = 已经注册过了吗<a { $sign_in_url }>登录</a>或<a { $learn_more_url }>详细了解</a>关于加入 { -brand-name-mozilla } 的行列。
+# Obsolete string (expires: 2024-09-12)
+# Variables
+#   $sign_in_url - link to
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = 已有账户？<a { $sign_in_url }>登录</a>或<a { $learn_more_url }>详细了解</a> { -brand-name-mozilla }
-moz-account-get-a-mozilla-account = 获取 { -brand-name-mozilla-account }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
