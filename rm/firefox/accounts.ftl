@@ -9,8 +9,10 @@
 mozilla-accounts-get-a-mozilla-account = Va per in { -brand-name-mozilla-account } – guarda che tias datas restian privatas, segiras e sincronisadas
 # Obsolete string
 firefox-accounts-get-a-firefox-account = Va per in { -brand-name-firefox-account } – guarda che tias datas restian privatas, segiras e sincronisadas
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira tranter tut tes apparats. Va ussa per in { -brand-name-firefox-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira sin tut tes apparats. Va ussa per in { -brand-name-mozilla-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
 firefox-accounts-enter-your-email-address = Endatescha tia adressa d'e-mail per cumenzar.
 firefox-accounts-already-have-an-account = Ti has gia in conto?
 firefox-accounts-sign-in = S'annunziar
@@ -18,6 +20,7 @@ firefox-accounts-sign-in = S'annunziar
 firefox-accounts-already = Ti has gia in { -brand-name-firefox-account }. Gratulaziuns!
 mozilla-accounts-already = Ti has gia in { -brand-name-mozilla-account }. Gratulaziuns!
 firefox-accounts-manage = Administrar tes conto
+mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = T'annunzia en tes { -brand-name-mozilla-account } per:
 # Obsolete string
@@ -31,8 +34,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Trametter in tab</a> ad in aut
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Memorisar e sincronisar pleds-clav</a>
 firefox-accounts-get-email-alerts = Retschaiver avis via e-mail en cas che tias datas cumparan en ina perdita da datas enconuschenta
-# Obsolete string
-firefox-accounts-see-if-youve-been = Controllescha sche ti es pertutgà dad in enguladitsch da datas.
 firefox-accounts-protect-your-identity = Protegia tia identitad cun alias segirs per tes numer da telefon e l'adressa dad e-mail
 firefox-accounts-keep-your-passwords = Guarda che tes pleds-clav sajan segirs ed adina per mauns.
 firefox-accounts-get-a-lookout-for = Tegna en egl ils enguladitschs da datas.
@@ -47,8 +48,6 @@ firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser pigli
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

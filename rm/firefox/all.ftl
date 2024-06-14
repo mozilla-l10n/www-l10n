@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = Testescha tias websites cun las funcziuns 
 firefox-all-count-on-stability-and = Questa varianta da { -brand-name-firefox } creada per interpresas è specialmain stabila e simpla d'utilisar.
 firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun dal { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programs d'installaziun ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Programs d’installaziun ARM64/AArch64 optimads per PCs Windows e Linux.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = Programs d'installaziun ARM64/AArch64 optimads per PCs cun { -brand-name-windows } e processurs Snapdragon.
 firefox-all-product-send-link = Trametter ina colliaziun per telechargiar a tes telefonin
 # Variables:

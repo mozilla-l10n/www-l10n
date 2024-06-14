@@ -49,3 +49,16 @@ download-firefox-esr = Telechargiar { -brand-name-firefox-esr }
 download-firefox-esr-32 = Telechargiar { -brand-name-firefox-esr } per 32 bits
 download-firefox-esr-64 = Telechargiar { -brand-name-firefox-esr } per 64 bits
 download-a-different-build = Telechargiar in auter build
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Telechargiar { -brand-name-linux } per 32 bits
+# Obsolete string
+download-button-linux-64 = Telechargiar { -brand-name-linux } per 64 bits
+download-button-linux-32-v2 = Telechargiar per Linux per 32 bits
+download-button-linux-64-v2 = Telechargiar per Linux per 64 bits
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Utiliseschas ti Debian, Ubuntu u x-ina distribuziun che sa basa sin Debian?<br> Ti pos era endrizzar noss <a { $attrs }>repository APT</a>.
