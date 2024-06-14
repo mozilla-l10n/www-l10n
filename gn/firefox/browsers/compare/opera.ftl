@@ -7,3 +7,5 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
+# HTML page description
+compare-opera-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Opera rembiapoite, hekoñemi ha ndahasýi ijeporu.
