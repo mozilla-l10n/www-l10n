@@ -11,6 +11,9 @@ compare-shared-footer-cta-desc = Erekóke kundahára ipya’e, ivevýi ha hekoñ
 compare-shared-footer-cta-button = Emboguejy { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Roikuave’ẽ avei tembiapoite hasy’ỹva ijeporu:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } oreko avei tembiporu ijehevoi:
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Omoñe’ẽasa ñanduti rogue</a> pypegua ha tekoñemíme.
 compare-shared-its-easy-to-switch = Ndahasýi eva hag̃ua
 # Used as a small link to a cited source
 compare-shared-source = teñoiha
