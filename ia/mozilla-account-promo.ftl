@@ -8,8 +8,14 @@ moz-account-promo-title = Un sol accesso. <br> <span { $class }>Tote</span> { -b
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+moz-account-already-have-v2 =
+    Ha tu jam un conto? <a { $sign_in_url }>Accede</a> o <a { $learn_more_url }>learn more</a> about joining { -brand-name-mozilla }.
+     <a { $sign_in_url }></a> o <a { $learn_more_url }>apprende plus</a> re { -brand-name-mozilla }
+# Obsolete string (expires: 2024-09-12)
+# Variables
+#   $sign_in_url - link to
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = Ha tu jam un conto? <a { $sign_in_url }>Accede</a> o <a { $learn_more_url }>pro saper plus</a> re { -brand-name-mozilla }
-moz-account-get-a-mozilla-account = Obtene un { -brand-name-mozilla-account }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
