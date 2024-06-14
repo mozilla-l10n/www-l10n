@@ -8,7 +8,7 @@ moz-account-promo-title = 一組帳號，<br> <span { $class }>一切都是</spa
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have-v2 = 已經有帳號了嗎<a { $sign_in_url }>登入</a>或<a { $learn_more_url }>了解</a>加入 { -brand-name-mozilla } 的更多資訊。
+moz-account-already-have-v2 = 已經有帳號了嗎？<a { $sign_in_url }>在此登入</a>或<a { $learn_more_url }>在此了解</a>加入 { -brand-name-mozilla } 的更多資訊。
 # Obsolete string (expires: 2024-09-12)
 # Variables
 #   $sign_in_url - link to
