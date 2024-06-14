@@ -10,5 +10,8 @@ features-private-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundah
 features-private-were-focused-on-your-right-to = Romomba’e nde rekoñemi derécho. Ne mba’ekuaarã, ne rembiapo ñandutípe, eikundahakuévo { -brand-name-firefox } nemo’ãme.
 features-private-what-information-does-firefox = Mba’e marandúpa ombyaty { -brand-name-firefox }
 # Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (omoheñóiva { -brand-name-firefox }) omomba’e tekoñemi. <strong>Añetehápe</strong>. Upéicha, peteĩteĩva apopyre { -brand-name-firefox } rojapóva ojokupyty ore <a href="{ $url }">Ñe’ẽme’ẽ mba’ekuaarã teéva rehegua</a>: Eñongatu’ive. Ereko tekorosãme. Kañygua’ỹre.
+# Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
 features-private-read-firefoxs-privacy-notice = Emoñe’ẽ <a href="{ $url }">Marandu’i ñemigua { -brand-name-firefox } mba’éva</a> eñemomarandu hag̃ua. Añetehápe, eiporúntema. Oĩmbaite tai ojeporuvévape.
