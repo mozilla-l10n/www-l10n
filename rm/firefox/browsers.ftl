@@ -3,16 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = Telechargia { -brand-name-firefox } per computers desktop, apparats mobils u per interpresas
-# Obsolete string
-firefox-browsers-get-the-browsers-that-put = Va per ils navigaturs che respectan tia sfera privata — da bell'entschatta
 # HTML page description
 firefox-browsers-page-desc = Tscherna tranter computer desktop, { -brand-name-ios }, { -brand-name-android } u ans lascha ta trametter via e-mail ina colliaziun da telechargiada sin tes apparat mobil.
-# Obsolete string
-firefox-browsers-get-the-privacy-you-deserve = Obtegna la protecziun da datas che ti meritas. La protecziun avanzada cunter il fastizar è automatica en mintga navigatur { -brand-name-firefox }.
+firefox-browsers-main-heading = Ils navigaturs { -brand-name-firefox }
 # Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = Va per ils <strong>navigaturs</strong> che respectan tia sfera privata — da bell'entschatta
@@ -33,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Surpassa las duas dimensiuns e s
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Creescha websites ed optimescha tes code cun { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Ulteriuras infurmaziuns davart { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Ve tar { -brand-name-firefox } e profitescha maximalmain da mintga product – sin mintga apparat.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }>ve a savair dapli</a> davart { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Has ti gia in conto? <a { $fxa_attr }>T'annunzia</a> u <a { $accounts_attr }>ve a savair dapli</a> davart l'utilisaziun da Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il navigatur superspert che dispona dad utensils innovativs per sviluppaders e da novas funcziuns sco il sustegn da griglias CSS u il debugadi da frameworks
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Tes nov navigatur preferì ta dà il bainvegni. Tai spetgan novischmas funcziuns, buna prestaziun ed ils utensils per sviluppaders che ti dovras per lavurar per il web avert.
 firefox-developer-speak-up = Ta fa udir
@@ -57,17 +59,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Ils novs { -brand-name-firefox-devtools } èn pussants, flexibels e surtut modifitgabels tenor tes giavischs. Els includan in debugadi da JavaScript extraordinari che s'adatta a differents navigaturs, sviluppà cun agid da React e Redux.
 firefox-developer-master-css-grid = Dumogna las griglias CSS
-# outdated
-firefox-developer-next-gen-css-engine = In motor CSS da la pli nova generaziun
 firefox-developer-built-for-developers = Fatg per sviluppaders
-firefox-developer-a-next-generation = In motor CSS da la pli nova generaziun
 firefox-developer-master-innovative-features = Funcziuns innovativas
 firefox-developer-want-to-be-on-the-cutting-edge = Vuls esser avantgarda?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } vegn actualisà mintga di e ta dat access a novas funcziuns – plirs mais avant ch'ellas stattan a disposiziun als utilisaders da la versiun normala.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } includa in nov motor CSS supersvelt ch'è programmà cun il linguatg Rust e profitescha da las tecnologicas las pli avanzadas.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } è l'unic navigatur cun utensils fatgs aposta per la concepziun e la creaziun cun agid da griglias CSS. Quests utensils ta permettan da visualisar ina griglia, da mussar il num da las zonas associadas, da generar previstas da transfurmaziuns sin la griglia e bler auter.
 firefox-developer-convenient-features = Funcziuns praticas
-firefox-developer-faster-performance = Meglra prestaziun
 firefox-developer-shapes-editor = L'editur da furmas
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Grazia al nov editur da sendas da furmas en ils { -brand-name-firefox-devtools } n'èsi betg pli necessari dad engiavinar per perfecziunar detagls sco gestir shape-outside e clip-path sin ina furma. Quai va ussa a moda simpla ed intuitiva cun il nov editur visual.
 firefox-developer-firefox-devtools-has-a-brand-new = Grazia al nov editur da sendas da furmas en ils { -brand-name-firefox-devtools } n'èsi betg pli necessari dad engiavinar per perfecziunar detagls sco gestir shadow-outside e clip-path sin ina furma. Quai va ussa a moda simpla ed intuitiva cun il nov editur visual.
@@ -76,14 +73,26 @@ firefox-developer-fonts-panel = Panela da scrittiras
 firefox-developer-the-new-fonts-panel = La nova panela da scrittiras en ils { -brand-name-firefox-devtools } porscha als sviluppaders in simpel access a tut las infurmaziuns necessarias davart las scrittiras utilisadas en in element. Quai includa infurmaziuns nizzaivlas davart la funtauna, la paisa, il stil da la scrittira etc.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Telechargia la versiun da { -brand-name-firefox } fatga aposta per ils sviluppaders
-firefox-developer-welcome-to-the-all-new = Bainvegni en il { -brand-name-firefox-quantum } resch nov: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
-firefox-developer-congrats-you-now-have-firefox = Gratulaziun. Ti has ussa { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Quai n'è betg mo ina actualisaziun. Quai è { -brand-name-firefox-quantum }: in { -brand-name-firefox } dal tuttafatg nov ch'è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
+firefox-developer-welcome-to-firefox-developer-edition = Bainvegni en { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Bainvegni en il { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
-firefox-developer-all-the-latest = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai <strong>funcziuns experimentalas</strong> sco l'editur da consola en pliras lingias u l'inspectur WebSocket.
+firefox-developer-all-the-latest-v2 = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai funcziuns sco l’editur da consola en pliras lingias u l’inspectur WebSocket.
 firefox-developer-a-separate-profile = In <strong>profil separà cun in agen percurs</strong> per che ti al pos exequir parallelamain a la versiun uffiziala u a { -brand-name-beta } da { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferenzas <strong>adattadas aposta per sviluppaders da web</strong>: Il navigatur ed il debugadi a distanza èn activads en la configuraziun da standard. Il medem vala per il design stgir ed il buttun da la trav d'utensils da svilup.
-firefox-developer-congrats-you-now-have = Gratulaziun. Ussa utiliseschas ti { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Ti has ussa la versiun la pli nova da { -brand-name-firefox-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Gratulaziun. Ti has ussa la versiun la pli nova da { -brand-name-firefox-browser }{ -brand-name-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Consultescha las <a { $attrs }>remartgas davart la versiun</a> (mo per englais) per vegnir a savair tge ch’è nov.
+firefox-developer-developer-tools-user = Documentaziun dals utensils da svilup
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resursas per sviluppaders, da sviluppaders
+firefox-developer-mdn-references = Referenzas da { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } è in project open-source collaborativ che documentescha tecnologias da la plattafurma web, inclusiv CSS, HTML, JavaScript ed APIs dal web.
+firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
+firefox-developer-a-structured-guide = In guid structurà per acquistar las cumpetenzas e praticas essenzialas per sviluppaders front-end professiunals, cumbinà cun resursas recumandadas per emprender.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = Sustegna { -brand-name-mdn } ed adattescha il servetsch a tes basegns cun agid da collecziuns, notificaziuns e plazzas da gieu per experimentar.

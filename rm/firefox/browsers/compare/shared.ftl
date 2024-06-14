@@ -5,61 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Gea
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Na
-compare-shared-private-browsing-mode = Modus da navigaziun privata
-compare-shared-blocks-third-party-tracking-default = Blochescha cookies da terzas partidas che fastizeschan gia en la configuraziun predefinida
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blochescha cookies da terzas partidas che fastizeschan
-compare-shared-blocks-cryptomining-scripts = Blochescha scripts criptominiers
-compare-shared-blocks-fingerprinting-scripts = Blochescha scripts dad improntas dal det
-compare-shared-blocks-social-trackers = Blochescha fastizaders da social media
-compare-shared-dashboard-to-review = Survista dals fastizaders bloccads
-compare-shared-autoplay-blocking = Bloccada da la reproducziun automatica
-compare-shared-tab-browsing = Navigaziun cun tabs
-compare-shared-bookmark-manager = Administraziun da segnapaginas
-compare-shared-automatically-fills-out-forms = Emplenescha automaticamain formulars
-compare-shared-automatically-fills-out-payments = Emplenescha automaticamain datas per pajaments
-compare-shared-search-engine-options = Opziuns per maschinas da tschertgar
-compare-shared-text-to-speech = Sintesa vocala
-compare-shared-reader-mode = Modus da lectura
-compare-shared-spell-checking = Correctura ortografica
-compare-shared-web-extensionsadd-ons = «Web extensions»/supplements
-compare-shared-in-browser-screenshot-tool = Utensil integrà per far maletgs dal visur
-compare-shared-os-availability = Disponibel per blers sistems operativs
-compare-shared-mobile-os-availability = Disponibel era per sistems operativs mobils
-compare-shared-syncs-with-mobile = Sincronisaziun cun apparats mobils
-compare-shared-password-management = Administraziun da pleds-clav
-compare-shared-primary-password = Pled-clav universal
-# Obsolete string
-compare-shared-master-password = Pled-clav universal
-compare-shared-security-and-privacy = Segirezza e protecziun da datas
-compare-shared-utility = Funcziunalitad
-compare-shared-portability = Portabilitad
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Segirezza e <strong>protecziun da datas</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Funcziunalitad</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Portabilitad</strong>
-compare-shared-overall-assessment = Evaluaziun cumplessiva
-compare-shared-the-comparisons-made-here-updated = La cumparegliaziun è vegnida fatga mintgamai cun la configuraziun da standard, a basa da las suandantas versiuns dals navigaturs examinads:
-# Obsolete string
-compare-shared-the-comparisons-made-here = La cumparegliaziun è succedida sco suonda a basa da differentas versiuns dals navigaturs examinads:
-compare-shared-this-page-updated-semi-quarterly = Questa pagina vegn actualisada duas giadas per quartal per evaluar las novas versiuns. Eventualmain na resguarda ella dentant betg las actualisaziuns las pli novas.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Telechargiar { -brand-name-firefox }
-compare-shared-download-firefox-browser = Telechargiar il { -brand-name-firefox-browser }
-compare-shared-download-the-app = Telechargiar l'app
-compare-shared-desktop = Computer (desktop)
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Cumparegliar ils navigaturs
+compare-shared-compare-firefox = Cumparegliar { -brand-name-firefox }
+compare-shared-footer-cta-title = Fa dapli cun { -brand-name-firefox }
+compare-shared-footer-cta-desc = Va per il navigatur svelt, lev ed orientà a la protecziun da datas che vegn sustegnì dad ina organisaziun senza finamira da profit e che funcziunescha sin tut tes apparats.
+compare-shared-footer-cta-button = Telechargiar { -brand-name-firefox }
+compare-shared-we-also-offer-easy = Nus offrin era funcziuns simplas d’utilisar sco:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ha era utensils integrads sco:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Modifitgescha PDFs</a> directamain en la fanestra da { -brand-name-firefox } – i na dovra nagina software supplementara.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Translatescha ina pagina web</a> – local e privat.
+compare-shared-its-easy-to-switch = La midada è simpla
+compare-shared-since-we-dont-have-to-make = Cunquai che nus na stuain betg cuntentar acziunarias ed acziunaris, pudain nus ans focussar sin <strong>tia</strong> cuntentezza e dar la prioritad a tia sfera privata ed a tes basegns.
+# Used as a small link to a cited source
+compare-shared-source = funtauna
