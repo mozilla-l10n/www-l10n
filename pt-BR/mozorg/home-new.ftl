@@ -35,10 +35,13 @@ home-mozilla-takes-bets = “A { -brand-name-mozilla } está empenhada em mostra
 # Politico is a brand name for a news organization
 home-politico-cite = politico.<!-- -->com
 home-join-us-in-shaping = Junte-se a nós para moldar inteligência artificial confiável
+home-work-on-ai = O trabalho da { -brand-name-mozilla } com inteligência artificial não é apenas uma novidade. Dedicamos anos financiando, construindo e defendendo que inteligência artificial seja aberta, justa e desenvolvida com responsabilidade. Nosso foco está na criação de inteligência artificial que sirva às pessoas, priorize a transparência e contribua para o bem público, não interesses corporativos.
+home-read-more = Saiba mais
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma corporação ou uma entidade sem fins lucrativos? Na verdade, ambos.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = A { -brand-name-mozilla } consiste em duas organizações. A { -brand-name-mozilla-corporation } é de propriedade integral da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. Significa que não estamos comprometidos com nenhum acionista, apenas com nossa missão.
+home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
 home-learn-about-mofo = Conheça a { -brand-name-mozilla-foundation }
 home-join-the-fight = Participe da luta por uma internet saudável.
 home-your-voice-your-code = Sua voz. Seu código. Suas ideias. Existem literalmente milhares de maneiras de contribuir na { -brand-name-mozilla }.
