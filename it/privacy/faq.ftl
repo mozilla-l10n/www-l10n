@@ -18,7 +18,7 @@ privacy-faq-we-only-collect-the-data-we = Raccogliamo solo i dati necessari per 
 privacy-faq-we-put-people-in-control-of = Mettiamo le persone in condizione di controllare i propri dati e la propria esperienza online.
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = Sposiamo il principio “niente sorprese”, ovvero facciamo del nostro meglio per presentare agli utenti di { -brand-name-firefox } un’immagine che corrisponda alla realtà effettiva.
-privacy-faq-we-adhere-to-no-surprises-principle-v2 = Ci atteniamo al principio del "niente sorprese", il che significa che ci impegniamo a fondo affinché la percezione che le persone hanno di { -brand-name-firefox } corrisponda alla realtà.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Ci atteniamo al principio del “niente sorprese”, il che significa che ci impegniamo a fondo affinché la percezione che le persone hanno di { -brand-name-firefox } corrisponda alla realtà.
 privacy-faq-the-following-questions-and = Le seguenti domande e risposte dovrebbero aiutarti a capire cosa aspettarti da { -brand-name-mozilla } e da { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Uso { -brand-name-firefox } per quasi tutto sul Web. Voi ragazzi di { -brand-name-mozilla } dovreste ormai sapere tantissime cose sul mio conto, non è vero?
 # Obsolete string (expires 2024-09-11)
