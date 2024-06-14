@@ -14,4 +14,4 @@ compare-safari-but-firefox-also-has-built-in = 但是 { -brand-name-firefox } �
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } 提供丰富的定制选项，包括将菜单和工具栏移动到浏览器窗口的不同位置。Safari 界面的定制自由度则相对较低。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
-compare-safari-switching-to-firefox-is-easy = 切换到 { -brand-name-firefox } 既简单又快捷——只需点击一下即可导入您的 Safari 浏览器书签、密码、历史记录和首选项，然后即可使用 { -brand-name-firefox }。以下是<a { $howto }>如何导入 Safari 浏览器数据</a>。
+compare-safari-switching-to-firefox-is-easy = 换用 { -brand-name-firefox }，轻松又快捷。一键导入您在 Safari 中的书签、密码、历史记录、偏好设置，即可马上转为使用 { -brand-name-firefox }。了解<a { $howto }>如何导入 Safari 数据</a>。

@@ -13,7 +13,7 @@ compare-shared-we-also-offer-easy = 我们还提供易于使用的功能，例�
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 还内置有下列工具：
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
-compare-shared-edit-pdfs-on-the-go = 无需额外的软件即可在 { -brand-name-firefox } 浏览器中<a { $pdf }>编辑 PDF</a>。
+compare-shared-edit-pdfs-on-the-go = 无需额外的软件即可在 { -brand-name-firefox } 浏览器中<a { $pdf }>编辑 PDF 文件</a>。
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>在本地安全翻译网页</a>。
