@@ -6,15 +6,24 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
+mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } 받기 – 데이터를 비공개로 안전하게 동기화된 상태로 유지하세요
+# Obsolete string
 firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } 다운로드 – 안전한 개인 정보 보호 및 동기화
-# HTML page description
+# Obsolete string
 firefox-accounts-securely-sync-your = 모든 기기에서 비밀번호, 북마크 및 탭을 안전하게 동기화 할 수 있습니다. 이제 { -brand-name-firefox-account }을 통해 어디서나 한 번의 로그인으로 개인 정보를 관리하실 수 있습니다.
+# HTML page description
+mozilla-accounts-securely-sync-your = 모든 기기에서 비밀번호, 북마크, 탭을 안전하게 동기화하세요. 지금 { -brand-name-mozilla-account }를 만드세요 – 한 번의 로그인으로 어디에서나 강력한 성능과 개인 정보 보호를 누리세요.
 firefox-accounts-enter-your-email-address = 시작하려면 이메일 주소를 입력하세요.
 firefox-accounts-already-have-an-account = 이미 계정이 있으신가요?
 firefox-accounts-sign-in = 로그인
+# Obsolete string
 firefox-accounts-already = 이미 { -brand-name-firefox-account }이 있습니다. 축하합니다!
+mozilla-accounts-already = 이미 { -brand-name-mozilla-account }가 있습니다. 축하합니다!
 firefox-accounts-manage = 계정 관리
-# This is followed by a list of things you can do with your Firefox account
+mozilla-account-header = { -brand-name-mozilla-account }
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = { -brand-name-mozilla-account }에 로그인하세요:
+# Obsolete string
 firefox-accounts-sign-in-to = { -brand-name-firefox-account }에 로그인하세요:
 # Obsolete string
 firefox-accounts-meet-our-family-of = 사생활 보호를 최우선으로 하는 주요 제품을 만나보세요.
@@ -25,8 +34,6 @@ firefox-accounts-send-a-tab = 다른 기기로 <a href="{ $send }">탭 보내기
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">비밀번호 저장 및 동기화</a>
 firefox-accounts-get-email-alerts = 정보가 알려진 데이터 위반에 나타날 때 이메일 알림 받기
-# Obsolete string
-firefox-accounts-see-if-youve-been = 온라인 데이터 유출 사건에 포함되었는지 확인해 보세요.
 firefox-accounts-protect-your-identity = 안전한 전화 및 이메일 마스킹으로 신원을 보호
 firefox-accounts-keep-your-passwords = 비밀번호를 보호하고 항상 가지고 다니세요.
 firefox-accounts-get-a-lookout-for = 데이터 유출에 대비하세요.
@@ -40,7 +47,7 @@ firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모�
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
