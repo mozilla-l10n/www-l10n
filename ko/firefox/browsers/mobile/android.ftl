@@ -38,3 +38,4 @@ mobile-android-mozilla-exists-to = { -brand-name-mozilla }는 개방과 자유�
 mobile-android-short-cut-the-internet = { -brand-name-android }용 { -brand-name-firefox }로 인터넷 바로가기
 mobile-android-see-all-your-open-tabs = { -brand-name-android }용 { -brand-name-firefox } 브라우저를 사용하여 모든 열린 탭, 최근 검색 및 즐겨찾는 사이트를 모두 한 곳에서 확인하세요.
 mobile-android-own-your-home = 나만의 홈 화면을 가져보세요
+mobile-android-get-to-the-parts = 관심 있는 인터넷에 더 빠르게 접근하세요. 열려 있는 모든 탭, 최근 검색어, 북마크, 즐겨찾는 사이트를 모두 한 곳에서 보려면 선택하세요.

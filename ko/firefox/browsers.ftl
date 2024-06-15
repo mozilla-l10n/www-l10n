@@ -3,18 +3,18 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = 데스크톱, 모바일 또는 기업용 { -brand-name-firefox } 다운로드
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = 개인 정보 보호를 최우선으로 생각하는 브라우저 사용하기
 # HTML page description
 firefox-browsers-page-desc = 데스크톱, { -brand-name-ios }, { -brand-name-android } 중에서 선택하거나 모바일 다운로드 링크를 이메일로 보내드립니다.
-# Outdated string
-firefox-browsers-get-the-privacy-you-deserve = 개인 정보 보호를 최우선으로 하는 향상된 추적 보호 기능은 모든 { -brand-name-firefox } 브라우저에서 자동으로 제공됩니다.
+firefox-browsers-main-heading = { -brand-name-firefox } 브라우저
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong = 개인 정보 보호를 최우선으로 생각하는 <strong>웹 브라우저</ strong>
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = 개인정보 보호를 최우선으로 생각하는 브라우저를 사용하세요. — <strong>항상</strong> 그랬습니다.
 firefox-browsers-desktop = 데스크톱
 firefox-browsers-seriously-private-browsing = 사생활 보호 모드 제공. { -brand-name-firefox }는 2천개 이상의 온라인 서비스 광고/쿠키 제공자의 추적 작업에 대한 정보를 수집하지 못하도록 자동으로 차단합니다.
 firefox-browsers-download-for-desktop = 데스크톱 용 다운로드
@@ -30,16 +30,10 @@ firefox-browsers-go-beyond-two-dimensions-and = 2차원을 넘어 웹에서 가�
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = { -brand-name-firefox } <strong> { -brand-name-devtools } </ strong>를 사용하여 웹 사이트를 구축하고 여러분의 코드를 수정하세요.
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools }에 대해 알아보기
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }에 가입하여 모든 기기에서 다양한 제품을 최대한 활용하세요.
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
 firefox-browsers-already-have-an-account-sign-v2 = 이미 계정이 있습니까? <a { $fxa_attr }>로그인</a>하거나 { -brand-name-firefox } 가입에 대해  <a { $accounts_attr }>더 알아보세요</a>.
-# Outdated string
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = 이미 계정이 있습니까? Firefox에 가입에 대해 <a { $accounts_attr }>자세히 알아보기</a> 또는  <a { $fxa_attr }>로그인</a>하세요.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
