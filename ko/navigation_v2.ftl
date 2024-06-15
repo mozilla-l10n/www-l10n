@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } 다운로드
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
 navigation-v2-menu = 메뉴
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } 생성
 
 ## Firefox menu
 
@@ -21,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } 용 { -brand-name-firefox }
 navigation-v2-get-the-mobile-browser = { -brand-name-iphone } 또는 { -brand-name-ipad } 용 모바일 브라우저를 다운로드하세요.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = 간단한 개인 모바일 브라우징
-navigation-v2-privacy-promise = 개인정보 보호 약속
-navigation-v2-learn-how-firefox-treats = { -brand-name-firefox }가 개인 정보를 보호하는 방식에 대해 알아보세요.
 navigation-v2-firefox-blog = { -brand-name-firefox } 블로그
 navigation-v2-read-about-new-firefox-features = 새로운 { -brand-name-firefox } 기능 및 온라인 보안 유지 방법에 대해 읽어보세요.
 navigation-v2-release-notes = 출시 안내
@@ -33,7 +29,7 @@ navigation-v2-view-all-firefox-browsers = { -brand-name-firefox-browsers } 모�
 
 navigation-v2-products = 제품
 navigation-v2-close-products-menu = 제품 메뉴 닫기
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = 내 이메일이 회사의 데이터 유출에 있는지 확인해 보세요.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = 웹에 있는 최고의 이야기를 찾고 저장하세요.
@@ -41,16 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook }이 다른 사이트에서 사용자의 데이터를 수집하지 못하게 도와주세요.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = 모든 기기에서 브라우저외에도 보호를 받으세요.
-navigation-v2-product-promise = 제품 약속
-navigation-v2-learn-how-each-firefox-product = 각 { -brand-name-firefox } 제품이 어떻게 사용자의 데이터를 보호하고 존중하는지 알아보세요.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }(베타)
 navigation-v2-sign-up-for-new-accounts = 사용자의 이메일 주소 전달 없이 새로 계정에 가입하세요.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network }(베타)
-navigation-v2-protect-your-browsers-connection = 브라우저의 인터넷 연결을 보호하세요.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 맞춤형 { -brand-name-mdn } 경험을 위한 새로운 기능과 도구
 navigation-v2-view-all-products = 모든 제품보기
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = AI를 사용하여 가짜 리뷰와 사기를 감지합니다.
 
 ## Who We Are menu
 
@@ -68,16 +62,12 @@ navigation-v2-careers = 채용
 navigation-v2-work-for-a-mission-driven-updated = 사람을 최우선으로 하는 제품을 만드는 미션 중심의 조직을 위해 일합니다.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 블로그
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla }와 우리에게 중요한 문제에 대해 알아보세요.
-navigation-v2-stories = 이야기
-navigation-v2-stories-about-how = 우리와 제품이 어떻게 세상을 더 나은 방향으로 변화시키고 있는지에 대한 이야기입니다.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla }에 대한 자세한 정보
 
 ## Innovation menu
 
 navigation-v2-innovation = 혁신
 navigation-v2-close-innovation-menu = 혁신 메뉴 닫기
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = 이 대화형, 온라인, 다차원 소셜 공간에 모여 보세요.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = 개발자 전용으로 제작 된 { -brand-name-firefox } 브라우저를 받으세요.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -88,3 +78,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 웹의 미래가 모두의 말소리를 들을 수 있도록 목소리를 기부하세요.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = 새로운 로우 레벨, 어셈블리어와 유사한 언어에 대해 자세히 알아보세요.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } 혁신 프로젝트
+navigation-v2-discover-ways-to-bring = 기발한 아이디어를 실현하는 방법을 찾아보세요.

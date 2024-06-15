@@ -25,18 +25,15 @@ sub-navigation-desktop-nightly = 데스크톱 { -brand-name-nightly }
 sub-navigation-features = 기능
 sub-navigation-support = 지원
 sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = 부가 기능
 sub-navigation-add-ons = 부가 기능
 sub-navigation-faq = 자주 묻는 질문
 sub-navigation-learn-more = 더 알아보기
 sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = 모바일 용 { -brand-name-firefox }
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = { -brand-name-android } 부가 기능
-sub-navigation-android-add-ons = { -brand-name-android } 부가 기능
 sub-navigation-chromebook = { -brand-name-chromebook }
+# Obsolete string
 sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64비트

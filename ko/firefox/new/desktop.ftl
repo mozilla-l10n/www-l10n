@@ -135,6 +135,9 @@ firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함�
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox }는 모든 기기에서 사용할 수 있습니다. 탭, 방문 기록 및 북마크를 동기화하세요. <a { $attrs }> { -brand-name-firefox } 계정 </a> 만 있으면 손쉽게 하실 수 있습니다.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }는 모든 기기에서 사용할 수 있습니다. 탭, 방문 기록, 북마크를 가지고 다니세요. <a { $attrs }>{ -brand-name-mozilla-account }</a>만 있으면 동기화와 더 많은 { -brand-name-mozilla } 제품에 접근할 수 있습니다.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = 브라우저에 내장 된 <a { $attrs }> 스크린 샷 </a> 도구를 사용하여 웹 페이지를 고해상도 이미지로 캡처하세요.
 # Variables:
@@ -143,12 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }> { -brand-name-mozilla } 도움말 </a>을 참고하세요.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = 많은 브라우저가 있지만, 이제 { -brand-name-firefox }에 대해 알아보세요.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor }로 해커를 감시하고, { -brand-name-firefox-relay } 등으로 이메일 주소를 보호하세요.
-firefox-desktop-download-get-more-from-firefox = { -brand-name-firefox }에서 더 많은 정보 얻기
-firefox-desktop-download-just-download-the-browser = 브라우저 다운로드
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor }로 해커를 감시하고, { -brand-name-firefox-relay }로 이메일 주소를 보호하는 등을 할 수 있습니다.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -159,6 +157,8 @@ firefox-desktop-download-now-else = 이제 { -brand-name-firefox } <strong> 설�
 firefox-desktop-download-now-windows = 이제 방금 다운로드 한 설치 프로그램을 <strong> 실행 </strong>합니다.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <strong> 실행 </strong>합니다.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = 아래에서 <strong>다운로드</strong> 옵션을 선택하세요.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
@@ -184,4 +184,3 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
-firefox-desktop-download-taskbar = { -brand-name-firefox }가 설치 후 { -brand-name-windows } 작업 표시줄에 고정됩니다.

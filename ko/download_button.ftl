@@ -39,6 +39,12 @@ download-button-firefox-ios = { -brand-name-ios }용 <span>{ -brand-name-firefox
 download-button-firefox-privacy = { -brand-name-firefox } 개인 정보 정책
 download-button-firefox-privacy-notice = { -brand-name-firefox } 개인정보처리방침
 download-button-download = 다운로드
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name }은 { $os_version } 이하 버전에서 <a href="{ $help_url }">더 이상 지원되지 않습니다</a>.
+download-button-please-download-esr = { -brand-name-firefox }를 사용하려면 { -brand-name-firefox-esr }(확장 지원 릴리스)를 다운로드하세요.
 download-firefox-esr = { -brand-name-firefox-esr } 다운로드
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32비트 다운로드
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64비트 다운로드
@@ -52,3 +58,7 @@ download-button-linux-32 = { -brand-name-linux } 32비트 다운로드
 download-button-linux-64 = { -brand-name-linux } 64비트 다운로드
 download-button-linux-32-v2 = Linux 32비트용 다운로드
 download-button-linux-64-v2 = Linux 64비트용 다운로드
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Debian이나 Ubuntu, 다른 Debian 기반 배포판을 사용하시나요?<br> <a { $attrs }>대신 APT 저장소</a>를 설정할 수 있습니다.

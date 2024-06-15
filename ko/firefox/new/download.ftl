@@ -27,10 +27,6 @@ firefox-new-need-help = 도움이 필요한가요?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = <a href="{ $url }">{ -brand-name-firefox }가 더이상 지원하지 않는</a> 안전하지 않고 오래된 운영체제를 사용하고 있습니다.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = 자동으로 다운로드가 시작�
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 이상입니다.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = 다운로드가 중단되었습니다. 그러나 모두 손실되지는 않았습니다.
+firefox-new-download-almost-there = 거의 다 완료되었습니다!
+firefox-new-download-select-linux = 아래에서 다운로드 옵션을 선택하세요.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
@@ -45,8 +43,6 @@ firefox-new-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ 
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows }10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
@@ -63,4 +59,3 @@ firefox-new-fast = 빠름, 안전함, 무료
 firefox-new-from-mozilla = { -brand-name-mozilla }로부터
 firefox-new-desc = { -brand-name-firefox-browser }는 비영리 단체인 { -brand-name-mozilla }에서 출시한 무료 웹 브라우저로 페이지 로딩이 빠르고 메모리를 적게 사용하며 다양한 기능을 갖추었습니다.
 firefox-new-download-a-different = 플랫폼 또는 언어를 변경하여 다운로드
-firefox-new-taskbar = { -brand-name-firefox }가 설치 후 { -brand-name-windows } 작업 표시줄에 고정됩니다.
