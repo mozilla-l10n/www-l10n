@@ -101,6 +101,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
@@ -111,7 +112,6 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Mozilla 개발자 네트워크
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -119,6 +119,8 @@
 -brand-name-mozilla-account = Mozilla 계정
 -brand-name-mozilla-accounts = Mozilla 계정
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)

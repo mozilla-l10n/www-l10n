@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,6 +35,8 @@ firefox-all-test-your-sites-against = 강력하고 유연한 개발자 도구(De
 firefox-all-count-on-stability-and = 기업용으로 제공하는 { -brand-name-firefox } 브라우저를 사용하여 안정성과 사용 편의성을 고려하시기 바랍니다.
 firefox-all-windows-installers-for = 기업 IT용 윈도 설치 관리자를 통해 { -brand-name-firefox-browser }의 구성, 배포 및 관리를 단순화할 수 있습니다.
 firefox-all-arm64-installers = ARM64 / AArch64 설치 프로그램
+firefox-all-arm64-installers-optimized-v2 = Windows와 Linux PC에 최적화된 ARM64/AArch64 설치 프로그램입니다.
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64 및 AArch64 설치 프로그램은 Snapdragon 기반의 { -brand-name-windows } PC에 최적화되어 있습니다.
 firefox-all-product-send-link = 휴대 전화로 다운로드 링크 보내기
 # Variables:
