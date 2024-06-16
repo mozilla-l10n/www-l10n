@@ -9,8 +9,8 @@
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } contra Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Lege nostre comparation del navigatores { -brand-name-firefox } e Edge re functiones, confidentialitate, e facilitate de uso.
-compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } render facile e conveniente le protection del confidentialitate, assi que tu non debe preoccupar te de illo.
-compare-edge-we-block-trackers-by-default = Nos ordinarimente bloca le traciatores. Edge non.
+compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } rende le protection del confidentialitate facile e commode, de maniera que tu non ha besonio de preoccupar te de illo.
+compare-edge-we-block-trackers-by-default = Nos bloca le traciatores per predefinition. Edge non lo face.
 compare-edge-and-we-make-it-easy-for-you = E nos rende facile pro te seliger que motor de recerca tu usa quandocunque tu cerca. Bordo te face excavar per tu parametros pro usar motor de recerca ultra a Bing.
 compare-edge-microsoft-has-to-make-their-shareholders = Microsoft debe render felice lor actioneros, ma nos pote concentrar nos a facer <strong>te</strong> felice e anteponer tu confidentialitate.
 # Variables:
