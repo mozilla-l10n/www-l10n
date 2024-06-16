@@ -8,11 +8,11 @@
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
 # HTML page description
-compare-edge-read-our-comparison = Leia a nossa comparação dos navegadores { -brand-name-firefox } e Edge sobre funcionalidades, privacidade e facilidade de utilização.
+compare-edge-read-our-comparison = Consulte a nossa análise comparativa entre os navegadores { -brand-name-firefox } e Edge, abordando funcionalidades, privacidade e facilidade de utilização.
 compare-edge-firefox-makes-privacy-protection = O { -brand-name-firefox } torna a proteção da privacidade fácil e conveniente, para que não tenha de se preocupar com a mesma.
 compare-edge-we-block-trackers-by-default = Por predefinição, bloqueamos os rastreadores. O Edge não.
-compare-edge-and-we-make-it-easy-for-you = E nós facilitamos a escolha do motor de pesquisa a utilizar sempre que pesquisa. O Edge faz com que explore as suas definições para utilizar um motor de pesquisa que não o Bing.
-compare-edge-microsoft-has-to-make-their-shareholders = A Microsoft tem de fazer os seus proprietários de ações felizes, mas nós podemos focar-nos em fazer <strong>você</strong> feliz e em colocar a sua privacidade em primeiro lugar.
+compare-edge-and-we-make-it-easy-for-you = E nós tornamos simples a escolha do motor de pesquisa que prefere utilizar sempre que faz uma pesquisa. No entanto, o Edge obriga a que tenha de explorar as suas definições para poder utilizar um motor de pesquisa diferente do Bing.
+compare-edge-microsoft-has-to-make-their-shareholders = A Microsoft tem de satisfazer os seus acionistas, mas nós podemos concentrar-nos em <strong>si</strong> para dar prioridade à sua privacidade e felicidade.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = Mudar para o { -brand-name-firefox } é fácil e rápido — importe os seus marcadores do Edge, as suas palavras-passe, histórico e preferências com um clique e esteja imediatamente pronto para utilizar o { -brand-name-firefox }. Aqui está <a { $howto }>como utilizar o botão Importar para mudar</a>.
