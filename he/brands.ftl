@@ -133,7 +133,6 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = רשת המפתחים של Mozilla
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -145,6 +144,7 @@
     }
 -brand-name-mozilla-accounts = חשבונות Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla AI
 -brand-name-gecko = Gecko
 
 ## Mozilla projects (short names)
