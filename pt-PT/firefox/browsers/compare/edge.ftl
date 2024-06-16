@@ -15,4 +15,4 @@ compare-edge-and-we-make-it-easy-for-you = E nós tornamos simples a escolha do 
 compare-edge-microsoft-has-to-make-their-shareholders = A Microsoft tem de satisfazer os seus acionistas, mas nós podemos concentrar-nos em <strong>si</strong> para dar prioridade à sua privacidade e felicidade.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-edge-switching-to-firefox-is-easy = Mudar para o { -brand-name-firefox } é fácil e rápido — importe os seus marcadores do Edge, as suas palavras-passe, histórico e preferências com um clique e esteja imediatamente pronto para utilizar o { -brand-name-firefox }. Aqui está <a { $howto }>como utilizar o botão Importar para mudar</a>.
+compare-edge-switching-to-firefox-is-easy = Mudar para o { -brand-name-firefox } é fácil e rápido — importe os seus marcadores do Edge, as suas palavras-passe, histórico e preferências com um clique e esteja imediatamente pronto para utilizar o { -brand-name-firefox }. Eis <a { $howto }>como utilizar o botão Importar para mudar</a>.
