@@ -112,7 +112,6 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-developer-network = Rede de programadores da Mozilla
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
 -brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -120,7 +119,7 @@
 -brand-name-mozilla-account = Conta Mozilla
 -brand-name-mozilla-accounts = contas Mozilla
 -brand-name-mozilla-social = Mozilla.social
--brand-name-mozilla-ai = Mozilla IA
+-brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-gecko = Gecko
 
