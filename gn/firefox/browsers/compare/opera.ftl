@@ -9,3 +9,6 @@
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
 compare-opera-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Opera rembiapoite, hekoñemi ha ndahasýi ijeporu.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-opera-switching-to-firefox-is-easy = Jeva { -brand-name-firefox } ndive ndahasýi ha ipya’e — egueru techaukaha Opera guive, ñe’ẽñemi, tembiasakue ha erohoryvéva peteĩ jekutúpe ha eiporukuaátama { -brand-name-firefox }. Ápe romombe’úta <a { $howto }>mba’éichapa eiporúta Mba’egueru emoambue hag̃ua</a>.
