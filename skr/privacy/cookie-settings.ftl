@@ -22,6 +22,7 @@ cookie-settings-category-preference-heading = ترجیح
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = تجزیاتی
 
 ## Consent section
 
