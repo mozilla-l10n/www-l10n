@@ -7,7 +7,9 @@ footer-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 footer-privacy-hub = ਪਰਦੇਦਾਰੀ ਹੱਬ
 footer-privacy = ਪਰਦੇਦਾਰੀ
 footer-press = ਦੱਬੋ
+# Obsolete string (expires 2024-07-02)
 footer-corporate-blog = ਕਾਰਪੋਰੇਟ ਬਲੌਗ
+footer-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
 footer-browser-comparison = ਬਰਾਊਜ਼ਰਾਂ ਦੀ ਤੁਲਨਾ
 footer-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
 footer-browsers = ਬਰਾਊਜ਼ਰ

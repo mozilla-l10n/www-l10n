@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox
 navigation-v2-get-the-mobile-browser = ਆਪਣੇ { -brand-name-iphone } ਜਾਂ { -brand-name-ipad } ਲਈ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਲਵੋ।
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = ਬੱਸ ਪ੍ਰਾਈਵੇਟ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਿੰਗ ਹੈ।
-navigation-v2-privacy-promise = ਪਰਦੇਦਾਰੀ ਦਾ ਇਕਰਾਰ
-navigation-v2-learn-how-firefox-treats = ਜਾਣੋ ਕਿ { -brand-name-firefox } ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸਨਮਾਣ ਨਾਲ ਕਿਵੇਂ ਵਰਤਦਾ ਹੈ।
 navigation-v2-firefox-blog = { -brand-name-firefox } ਬਲੌਗ
 navigation-v2-read-about-new-firefox-features = ਨਵੇਂ { -brand-name-firefox } ਫ਼ੀਚਰਾਂ ਤੇ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਦੇ ਢੰਗਾਂ ਬਾਰੇ ਪੜ੍ਹੋ।
 navigation-v2-release-notes = ਰੀਲਿਜ਼ ਨੋਟਿਸ
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = ਸਾਰੇ { -brand-name-firefox-bro
 navigation-v2-products = ਉਤਪਾਦ
 navigation-v2-close-products-menu = ਉਤਪਾਦ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਈਮੇਲ ਕਿਸੇ ਕੰਪਨੀ ਦੇ ਸੰਨ੍ਹ ਲੱਗੇ ਡਾਟੇ ਵਿੱਚ ਮੌਜੂਦ ਤਾਂ ਨਹੀ ਹੈ।
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = ਸਾਰੇ ਵੈੱਬ ਤੋਂ ਸਭ ਤੋਂ ਵਧੀਆਂ ਕਿੱਸੇ ਸੰਭਾਲੋ ਅਤੇ ਲੱਭੋ।
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } ਨੂੰ ਉਹਨਾਂ ਦੀ ਵੈੱਬਸਾਈਟ ਤੋਂ ਬਾਹਰ ਤੁਹਾਡਾ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਾਹਰ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ, ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ।
-navigation-v2-product-promise = ਉਤਪਾਦ ਦਾ ਇਕਰਾਰ
-navigation-v2-learn-how-each-firefox-product = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ ਹਰ { -brand-name-firefox } ਉਤਪਾਦ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਤੇ ਸਨਮਾਣ ਦਿੰਦਾ ਹੈ।
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ਬੀਟਾ)
 navigation-v2-sign-up-for-new-accounts = ਨਵੇਂ ਖਾਤਿਆਂ ਲਈ ਬਿਨਾਂ ਆਪਣਾ ਈਮੇਲ ਐਡਰੈਸ ਦਿੱਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ।
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = ਚੁਣਿੰਦਾ { -brand-name-mdn } ਤਜਰਬੇ ਲਈ ਨਵੇਂ ਫ਼ੀਚਰ ਅਤੇ ਟੂਲ
 navigation-v2-view-all-products = ਸਾਰੇ ਉਤਪਾਦ ਵੇਖੋ
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = ਫ਼ਰਜ਼ੀ ਰੀਵਿਊ ਅਤੇ ਘੁਟਾਲਿਆਂ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ AI ਨੂੰ ਵਰਤੋਂ
 
 ## Who We Are menu
 
