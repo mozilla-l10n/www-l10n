@@ -7,12 +7,16 @@
 
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
+firefox-products-products = مصنوعات
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے۔
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = اینجھا براؤزر حاصل کرو جیڑھے 2000+ ڈیٹا ٹریکرز کوں آپوں ڄاݨ بلاک کریندے۔ بہتر ٹریکنگ پروٹیکشن ہر { -brand-name-firefox } براؤزر وِچ معیار آندا ہے۔
 
 ## Focus
 
