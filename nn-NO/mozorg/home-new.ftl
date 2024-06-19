@@ -9,19 +9,28 @@ home-mission-driven = Oppdragsdriven. Menneskestyrt.
 home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi lagar prioriterer mennneske og personvern over profitt. Vi finst for å gjere internet til ein meir helsesam og trivelegare plass for alle.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = «Helsa til internett og livet på nettet er grunnen til at vi eksisterer.»
+# Obsolete string
 home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
 home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekterer personvernet
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-cta-get-firefox = Last ned { -brand-name-firefox }
 home-product-pocket-articles = Nettets mest spennande artiklar
 home-cta-get-pocket = Hent { -brand-name-pocket }
+# Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Lettbrukte e-post- og telefonalias
 home-cta-get-relay = Last ned { -brand-name-relay }
 home-product-vpn-trust = Eit VPN du kan stole på
 home-cta-get-vpn = Last ned { -brand-name-mozilla-vpn }
+# Obsolete string (expires 2024-07-23)
+home-product-monitor-data = Datalekkasjevarsel
+home-cta-get-monitor = Få { -brand-name-monitor }
+home-product-fakespot-detect = Oppdag falske varevurderingar
+home-cta-get-fakespot = Last ned { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+# Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Er { -brand-name-mozilla } eit føretak eller ein ideell organisajon? Faktisk begge delar.
+# Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } består av to organisasjonar. { -brand-name-mozilla-corporation } er heileigd av den ideelle 501(c) { -brand-name-mozilla-foundation }. Dette tyder at vi ikkje har forpliktingar til aksjeeigarar — berre til oppdraget vårt.
 home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Ver med i kampen for eit helsesamt internett
