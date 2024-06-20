@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Internett for folket, ikkje profitt
+home-did-you-know-mozilla-the-maker = Visste du? { -brand-name-mozilla } — skaparen av { -brand-name-firefox } — jobbar for at internett skal halde fram med å vere ein global offentleg resurs, open og tilgengleg for alle.
 home-mission-driven = Oppdragsdriven. Menneskestyrt.
 home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi lagar prioriterer mennneske og personvern over profitt. Vi finst for å gjere internet til ein meir helsesam og trivelegare plass for alle.
 # Quotes around string to represent it being a quote by Mitchell Baker
@@ -47,4 +49,7 @@ home-get-news-and-tips = Få nyheiter og tips frå { -brand-name-mozilla } får 
 home-featured-product = Utvalt produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Gøym plassering og aktivitet med <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Bygg rørsla vår
 home-mofo-donate-to-mofo-today = Doner til { -brand-name-mozilla-foundation } i dag for å sikre at internett vert verande ope og tilgjengeleg for alle.
+home-mofo-donate = Doner
