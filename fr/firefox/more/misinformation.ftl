@@ -14,7 +14,7 @@ misinformation-ultimately-harmful = Au bout du compte, la mésinformation et la 
 misinformation-false-info-heading = Où apparaissent les fausses informations ?
 
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = La mésinformation et la désinformation peuvent se retrouver partout, mais leur impact est bien plus important lorsqu’elles sont partagées en ligne. Grâce aux algorithmes et aux techniques de <a href="{ $tracking }">suivi</a>, la mésinformation et la désinformation peuvent désormais atteindre un public encore plus large sur les sites web, les blogs, les forums et bien sûr les réseaux sociaux.
 
 misinformation-tracking-advertising = Vous avez peut-être entendu parler du suivi dans le contexte de la publicité en ligne. Mais c’est également un outil très puissant pour répandre de fausses informations. Explications : Lorsque vous êtes sur le Web ou sur le fil d’actualités de vos réseaux sociaux, votre comportement, vos centres d’intérêt, vos contacts dans certains cas et bien d’autres choses encore sont suivis par diverses organismes tiers sur des sites web afin de créer un profil extrêmement détaillé de votre personne. Le but ? Le revendre ensuite sans que vous le sachiez (et bien souvent sans votre consentement). Ces profils sont utilisés pour personnaliser les publicités que vous voyez en ligne, mais peuvent également servir à vous présenter des informations ciblées.

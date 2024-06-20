@@ -14,7 +14,7 @@ misinformation-ultimately-harmful = Pada akhirnya, kedua-dua maklumat salah dan 
 misinformation-false-info-heading = Di manakah maklumat palsu dikeluarkan?
 
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Anda boleh menemukan maklumat salah dan maklumat palsu di mana sahaja tetapi ia paling meluas dan memberi kesan apabila dikongsi dalam talian. Algoritma dan <a href="{ $tracking }">penjejakan</a> telah meningkatkan kemampuan maklumat salah dan maklumat palsu untuk menjangkau khalayak yang lebih besar di laman web, blog, forum dan rangkaian sosial.
 
 misinformation-tracking-advertising = Anda mungkin pernah mendengar tentang penjejakan terutamanya dalam konteks pengiklanan. Walau bagaimanapun, ia juga merupakan alat yang berkuasa dalam penyebaran maklumat palsu. Mengapa begitu? Ketika anda melayari internet atau suapan rangkaian sosial, tingkah laku, minat, kenalan dalam sesetengah keadaan dan banyak lagi, akan dijejaki oleh pelbagai pihak di seluruh laman web bagi membuat profil yang amat terperinci tentang anda untuk dijual kepada orang lain tanpa pengetahuan atau persetujuan anda. Profil ini digunakan untuk pengiklanan yang diperibadikan tetapi juga dapat memberikan apa-apa jenis maklumat yang disasarkan kepada anda.

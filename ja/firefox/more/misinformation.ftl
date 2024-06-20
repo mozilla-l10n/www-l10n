@@ -14,7 +14,7 @@ misinformation-ultimately-harmful = 結局のところ、誤報も偽情報も�
 misinformation-false-info-heading = 誤った情報はどこに表示されるか
 
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = 誤報や偽情報はいたるところで見受けられますが、オンラインで共有された場合に最も広く拡散し、最も強い影響を及ぼします。誤報や偽情報のアルゴリズムや<a href="{ $tracking }">追跡</a>の機能が強化され、ウェブサイトやブログ、掲示板やソーシャルネットワーク上で一層多くの閲覧者の目に触れるようになっています。
 
 misinformation-tracking-advertising = 追跡については、主として広告に関連するものとして聞いたことがあるかも知れません。しかし、虚偽の情報の拡散に関しても、追跡は強力なツールです。それはなぜでしょうか。インターネットやソーシャルネットワークのフィードをブラウジングすると、ユーザーに知られることなく、またユーザーの許可なしで、ユーザーの極めて詳細なプロフィールを作成してそれを販売するために、ユーザーの行動や関心、場合によっては連絡先などまでもが、様々なウェブサイトで様々な者により追跡されます。こうしたプロフィールは、各個人に合わせてカスタマイズされた広告に使用されますが、ユーザーに的を絞った何らかの情報を伝える上でも使用される場合があります。

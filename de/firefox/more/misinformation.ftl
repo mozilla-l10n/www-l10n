@@ -14,7 +14,7 @@ misinformation-ultimately-harmful = Letztendlich können sowohl Fehl- als auch D
 misinformation-false-info-heading = Wo tauchen falsche Informationen auf?
 
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Fehl- und Desinformation können dir beinahe überall begegnen, aber beide sind online besonders weit verbreitet und wirkungsvoll. Algorithmen und <a href="{ $tracking }">Tracking</a> machen es Fehl- und Desinformation leicht, ein großes Publikum über Webseiten, Blogs, Foren und soziale Netzwerke zu erreichen.
 
 misinformation-tracking-advertising = Von Tracking hast du wahrscheinlich vor allem in Zusammenhang mit Werbung gehört. Es ist allerdings auch ein mächtiges Werkzeug bei der Verbreitung von falschen Informationen. Wieso? Wenn du im Internet surfst oder durch deinen Social-Media-Feed scrollst, werden dein Verhalten, deine Interessen und in manchen Fällen sogar deine Kontakte von verschiedenen Parteien über zahlreiche Webseiten hinweg getrackt. Basierend auf den so gesammelten Daten wird ein extrem detailliertes Profil von dir erstellt, das dann wiederum ohne dein Wissen oder deine Zustimmung an andere verkauft wird. Solche Profile werden für personalisierte Werbung verwendet, können aber auch zum Einsatz kommen, um dir alle möglichen Arten von auf dich zugeschnittenen Informationen anzubieten.

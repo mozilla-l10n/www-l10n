@@ -14,7 +14,7 @@ misinformation-ultimately-harmful = Pada akhirnya, baik itu misinformasi dan dis
 misinformation-false-info-heading = Di mana informasi palsu muncul?
 
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Anda dapat menemukan misinformasi dan disinformasi di mana-mana, tetapi keduanya paling tersebar luas dan berdampak ketika dibagikan secara daring. Algoritme dan <a href="{ $tracking }">pelacakan</a> telah meningkatkan kemampuan misinformasi dan disinformasi untuk menjangkau audiens yang lebih besar di situs web, blog, forum, dan jejaring sosial.
 
 misinformation-tracking-advertising = Anda mungkin pernah mendengar tentang pelacakan terutama dalam konteks periklanan. Namun, ini juga merupakan alat yang ampuh dalam hal penyebaran informasi palsu. Mengapa demikian? Ketika Anda menjelajahi internet atau feed jejaring sosial Anda, perilaku, minat, kontak Anda dalam beberapa kasus, dan lainnya dilacak oleh berbagai pihak di seluruh situs web untuk membuat profil yang sangat rinci mengenai Anda untuk dijual kepada orang lain tanpa sepengetahuan atau persetujuan Anda. Profil ini digunakan untuk iklan yang dipersonalisasi tetapi juga dapat berfungsi untuk menyajikan segala bentuk informasi yang ditargetkan kepada Anda.
