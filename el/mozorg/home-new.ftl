@@ -35,12 +35,17 @@ home-mozilla-takes-bets = «Η { -brand-name-mozilla } εργάζεται για
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Βοηθήστε μας να διαμορφώσουμε ένα αξιόπιστο AI
+home-work-on-ai = Η δουλειά της { -brand-name-mozilla } με την τεχνητή νοημοσύνη δεν είναι κάτι νέο· έχουμε αφιερώσει χρόνια στη χρηματοδότηση, την ανάπτυξη και την υπεράσπιση της τεχνητής νοημοσύνης που είναι ανοικτή, δίκαιη και αναπτύσσεται με υπευθυνότητα. Εστιάζουμε στη δημιουργία τεχνητής νοημοσύνης που εξυπηρετεί τους ανθρώπους, έχει ως προτεραιότητα τη διαφάνεια και στηρίζει το κοινό συμφέρον, όχι εταιρικές ατζέντες.
 home-read-more = Διαβάστε περισσότερα
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = Η { -brand-name-mozilla } αποτελείται από δύο οργανισμούς. Η { -brand-name-mozilla-corporation } ανήκει εξ ολοκλήρου στον μη κερδοσκοπικό οργανισμό 501(c) { -brand-name-mozilla-foundation }. Αυτό σημαίνει ότι δεν υπηρετούμε κανέναν μέτοχο, παρά μόνο την αποστολή μας.
 home-so-what-is-mozilla = Τι είναι, λοιπόν, η { -brand-name-mozilla };
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Στον πυρήνα της, η { -brand-name-mozilla } είναι μια ακτιβιστική οργάνωση υπό την ηγεσία του { -brand-name-mozilla-foundation } και αλλάζει τον κόσμο μέσα από μια ποικιλία εγχειρημάτων, όπως η { -brand-name-mozilla-corporation }, η MZLA, η <a { $ventures }>{ -brand-name-mozilla-ventures }</a> και η <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Σε τι διαφέρουμε; Έχουμε ως οδηγό την αποστολή μας, έχουμε την ελευθερία να λαμβάνουμε όλες τις αποφάσεις μας με γνώμονα το καλύτερο για το διαδίκτυο και για όλους, όχι βάσει των απαιτήσεων των μετόχων· στην πραγματικότητα, δεν έχουμε μετόχους.
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
 home-join-the-fight = Λάβετε μέρος στη μάχη για ένα υγιές διαδίκτυο
 home-your-voice-your-code = Η φωνή σας, Ο κώδικάς σας. Οι ιδέες σας. Υπάρχουν κυριολεκτικά χιλιάδες τρόποι με τους οποίους μπορείτε να συνεισφέρετε στη { -brand-name-mozilla }.
