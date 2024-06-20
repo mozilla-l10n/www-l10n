@@ -46,6 +46,9 @@ vpn-features-super-private-mode = Ñemiguaite ayvu: ombohape ñeikundaha mokõi 
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Ore <a { $feature }>rembiapoite opo hetáva</a> ome’ẽ ndéve tekorosãve.
 vpn-features-support-for-custom-dns = Ñepytyvõ DNS mboavapyrépe g̃uarã
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn } ndive, emo’ãkuaa nde jeike ha emboguata nde DNS ñeporandu emondosehápe. <a { $dns }>Eñemomaranduve jokupyty DNS mboavapyréva ndive</a>.
 vpn-features-flexible = Pepykuaáva
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
 vpn-features-well-suggest-which-servers = Ro’e ndéve mba’e apopyvusu ag̃uiguáva ne pytyvõta jeikekaturã ñanduti ipya’e ha jeroviahávape.
