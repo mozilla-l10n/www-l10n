@@ -35,7 +35,7 @@ vpn-when-to-use-because-your-internet = Karena trafik internet Anda di rumah ber
 vpn-when-to-use-make-sure-you = Pastikan Anda memahami apa yang tidak bisa dilakukan VPN
 
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN menyediakan tautan keamanan yang penting dengan melindungi data pribadi Anda sebelum dikirim melalui internet, kemudian menyembunyikan alamat IP Anda, serta membantu melindungi identitas dan lokasi Anda. Namun, VPN tidak dapat mencegah Anda dari upaya seperti mengklik tautan yang mencurigakan, mengunduh malware, atau menjadi korban penipuan email. Anda harus selalu mempraktikkan <a href="{ $book }">kebiasaan untuk tetap berhati-hati agar tetap aman saat daring</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, layanan VPN tepercaya
 

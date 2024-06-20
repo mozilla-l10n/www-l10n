@@ -35,7 +35,7 @@ vpn-when-to-use-because-your-internet = 自宅でのインターネットトラ�
 vpn-when-to-use-make-sure-you = VPN ができないこと
 
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN は、ユーザーのプライベートデータがインターネットで送信される前に保護することで、重要なセキュリティリンクを提供します。また、IP アドレスを隠し、身元と現在地を保護にも役立ちます。ただし、疑わしいリンクをクリックする、マルウェアをダウンロードする、電子メール詐欺の被害に遭うといったことは防止できません。<a href="{ $book }">オンラインで身を守る習慣</a>を実践しましょう。
 vpn-when-to-use-mozilla-vpn-a = 信頼できる VPN サービス「{ -brand-name-mozilla-vpn }」
 

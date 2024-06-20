@@ -35,7 +35,7 @@ vpn-when-to-use-because-your-internet = Da Ihr Internetverkehr zu Hause über Ih
 vpn-when-to-use-make-sure-you = Vergewissern Sie sich, dass Sie verstehen, was ein VPN nicht tut
 
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Ein VPN bietet eine wichtige Sicherheitsverbindung, indem es Ihre privaten Daten schützt, bevor sie über das Internet übertragen werden, und es verbirgt auch Ihre IP-Adresse, um Ihre Identität und Ihren Standort zu schützen. Es wird Sie jedoch nicht daran hindern, auf verdächtige Links zu klicken, Schadsoftware herunterzuladen oder Opfer von E-Mail-Betrug zu werden. Sie müssen immer noch <a href="{ $book }">vorsichtig bleiben, um im Internet sicher zu sein</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ein vertrauenswürdiger VPN-Dienst
 

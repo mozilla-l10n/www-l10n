@@ -35,7 +35,7 @@ vpn-when-to-use-because-your-internet = Étant donné que votre connexion Intern
 vpn-when-to-use-make-sure-you = Ce qu’un VPN fait et ne fait pas
 
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Un VPN protège vos données personnelles avant qu’elles ne transitent sur Internet et dissimule votre adresse IP, ce qui contribue à protéger votre identité et votre emplacement. Toutefois, un VPN ne pourra pas vous empêcher de cliquer sur des liens suspects, de télécharger des logiciels malveillants ou d’être victime d’une arnaque par e-mail. <a href="{ $book }">Pour rester en sécurité en ligne, vous devrez également adopter et garder de bonnes habitudes</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un service VPN digne de confiance
 
