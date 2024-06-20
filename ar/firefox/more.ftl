@@ -24,8 +24,6 @@ firefox-more-firefox-chromebook = متصفح { -brand-name-firefox-browser } ل�
 firefox-more-while-on-chromebook = بينما يأتي { -brand-name-chromebook } مثبتًا عليه إصدار { -brand-name-chrome }، فإن تنزيل واستخدام { -brand-name-firefox } أثناء التنقل يوفر لك عدة ميزات.
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = كان { -brand-name-firefox-quantum } بمثابة ثورة في تطور { -brand-name-firefox }. فقد تم إطلاقه في عام 2017، ليكون مُتصفحًا جديدًا وسريعًا يتحسن باستمرار. { -brand-name-firefox-quantum } هو { -brand-name-firefox-browser }.
-firefox-more-little-book = كُتيب صغير للخصوصية
-firefox-more-you-can-reclaim = يمكنك استعادة خصوصيتك واستعادة السيطرة على تجربة الإنترنت الخاصة بك! إن الأمر أسهل مما تتخيل. وبإمكان الجميع القيام بذلك.
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 firefox-more-access-your-sync = قم بالوصول إلى الإشارات المرجعية وكلمات السرّ وعلامات التبويب المفتوحة والمزيد ومزامنتها — من أي مكان تستخدم فيه { -brand-name-firefox }.
 we-believe-everyone = نعتقد أنه يجب أن يُتاح للجميع إمكانية الوصول إلى الإنترنت — ولهذا نوفر { -brand-name-firefox-browser } بأكثر من 90 لغة بمساعدة متطوعين متخصصين من جميع أنحاء العالم.
