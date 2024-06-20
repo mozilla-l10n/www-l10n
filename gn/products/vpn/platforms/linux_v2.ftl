@@ -13,6 +13,7 @@ vpn-linux-why-choose = Mba’érepa eiporavova’erã { -brand-name-mozilla-vpn 
 vpn-linux-fast-and-v2 = <strong>Ipya’e ha jeroviaha:</strong> { -brand-name-mozilla-vpn } oiporu pe taperekoite { -brand-name-wireguard }®, ome’ẽva jeku’epya’e ha tekopyta ambue VPN raperekoitégui.
 vpn-linux-no-logs = <strong>Mboheraguapy’ỹre:</strong> { -brand-name-mozilla-vpn } noñongatúi nde rapykuere ñandutípe; ndoroikuaaséi mba’e tendápepa eikéra’e ha ndorohechái ne ñeikundaha.
 vpn-linux-additional-security = <strong>Tembiapoite tekorosãverã:</strong> roiporu jokoha DNS mba’e rojoko hag̃ua ñemurã, tapykuehoha ha malware. Peteĩ kundahára omboykekuaa peteĩ ñanduti renda año ome’ẽvo malware ha nde rapykuehóvo.
+vpn-linux-device-level = <strong>Ipapapy mba’e’oka rehe:</strong> iñambuéva VPN-gui ombopapapýva ne kundahára jeporu añoite, { -brand-name-mozilla-vpn } ombopapapypaite ne mba’e’oka jeporu, oĩhápe ne rembiporu’i ha ñembosarái.
 vpn-linux-simple-and = <strong>Jehechaha hasy’ỹva ha itenondéva:</strong> Eiporu apopyvusu peteĩ jekutúpe. Avei ikatu emboava ne ñemboheko ha erohoryvéva eikotevẽháicha.
 vpn-linux-gui-client = <strong>GUI joguahára:</strong>{ -brand-name-mozilla-vpn } ereko GUI joguahára (poruhára mba’erechaha ra’ãnga), hákatu heta VPN me’ẽhára oikuave’ẽ peteĩ CLI añónte (mbopya’eha rehegua).
 vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn } Linux-pe g̃uarã
