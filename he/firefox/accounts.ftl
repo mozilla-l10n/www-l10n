@@ -12,6 +12,8 @@ firefox-accounts-get-a-firefox-account = הרשמה ל{ -brand-name-firefox-acco
 firefox-accounts-enter-your-email-address = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
 firefox-accounts-already-have-an-account = כבר יש לך חשבון?
 firefox-accounts-sign-in = כניסה
+# Obsolete string
+firefox-accounts-already = כבר יש לך { -brand-name-firefox-account(case: "a") }. ברכותינו!
 mozilla-accounts-already = כבר יש לך { -brand-name-mozilla-account(case: "a") }. ברכותינו!
 firefox-accounts-manage = ניהול החשבון שלך
 mozilla-account-header = { -brand-name-mozilla-account }
@@ -41,8 +43,6 @@ firefox-accounts-read-in-a = קריאה במרחב שקט ופרטי
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
