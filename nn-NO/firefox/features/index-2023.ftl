@@ -7,6 +7,8 @@
 
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } er den raske, lette, personvernfokuserte nettlesaren som fungerer på alle einingane dine.
+# Obsolete string
+features-index-is-firefox-a-fast-browser = Er { -brand-name-firefox } ein rask nettlesar?
 features-index-free-password-manager = Gratis passordhandsamar
 features-index-customize-your-firefox-browser = Tilpass { -brand-name-firefox }-nettlesaren din
 features-index-choose-how-your-browser-looks = Vel korleis nettlesaren din skal sjå ut med tusenvis av gratis tema.
