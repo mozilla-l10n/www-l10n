@@ -35,9 +35,6 @@ sub-navigation-firefox-for-mobile = { -brand-name-firefox } للهواتف ال�
 
 sub-navigation-chromebook = { -brand-name-chromebook }
 
-# Obsolete string
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
-
 sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
@@ -54,8 +51,3 @@ sub-navigation-private-browsing = التّصفّح الخاص
 sub-navigation-what-is-a-browser = ما هو المتصفح؟
 sub-navigation-browsing-history = سِجِل التصفح
 sub-navigation-browser-history = تاريخ المتصفح
-sub-navigation-privacy = الخصوصيّة
-sub-navigation-our-promise = وعدُنا
-sub-navigation-our-products = مُنتجاتنا
-sub-navigation-little-book-of-privacy = كتاب الخصوصية الصغير
-sub-navigation-safe-passwords = كلمات المرور الآمنة

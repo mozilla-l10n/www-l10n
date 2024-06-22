@@ -35,9 +35,6 @@ sub-navigation-firefox-for-mobile = モバイル用 { -brand-name-firefox }
 
 sub-navigation-chromebook = { -brand-name-chromebook }
 
-# Obsolete string
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
-
 sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
@@ -54,8 +51,3 @@ sub-navigation-private-browsing = プライベートブラウジング
 sub-navigation-what-is-a-browser = ブラウザーとは?
 sub-navigation-browsing-history = 閲覧履歴
 sub-navigation-browser-history = ブラウザー履歴
-sub-navigation-privacy = プライバシー
-sub-navigation-our-promise = Mozilla の約束
-sub-navigation-our-products = Mozilla 製品
-sub-navigation-little-book-of-privacy = プライバシーのハンドブック
-sub-navigation-safe-passwords = 安全なパスワード

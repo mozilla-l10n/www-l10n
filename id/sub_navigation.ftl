@@ -35,9 +35,6 @@ sub-navigation-firefox-for-mobile = { -brand-name-firefox } untuk Seluler
 
 sub-navigation-chromebook = { -brand-name-chromebook }
 
-# Obsolete string
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
-
 sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
@@ -54,8 +51,3 @@ sub-navigation-private-browsing = Penjelajahan Pribadi
 sub-navigation-what-is-a-browser = Apa itu Peramban?
 sub-navigation-browsing-history = Riwayat Peramban
 sub-navigation-browser-history = Riwayat Peramban
-sub-navigation-privacy = Privasi
-sub-navigation-our-promise = Janji Kami
-sub-navigation-our-products = Produk Kami
-sub-navigation-little-book-of-privacy = Catatan Kecil Tentang Privasi
-sub-navigation-safe-passwords = Sandi Aman

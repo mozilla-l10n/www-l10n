@@ -35,9 +35,6 @@ sub-navigation-firefox-for-mobile = मोबाइल के लिए { -brand
 
 sub-navigation-chromebook = { -brand-name-chromebook }
 
-# Obsolete string
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
-
 sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
@@ -54,8 +51,3 @@ sub-navigation-private-browsing = प्राइवेट ब्राउज़
 sub-navigation-what-is-a-browser = ब्राउज़र क्या है?
 sub-navigation-browsing-history = ब्राउज़िंग हिस्ट्री
 sub-navigation-browser-history = ब्राउज़र इतिहास
-sub-navigation-privacy = निजता
-sub-navigation-our-promise = हमारा वादा
-sub-navigation-our-products = हमारे उत्पाद
-sub-navigation-little-book-of-privacy = निजता की पुस्तिका
-sub-navigation-safe-passwords = सुरक्षित पासवर्ड
