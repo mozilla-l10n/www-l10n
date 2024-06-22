@@ -5,56 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Ja
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Nei
-compare-shared-private-browsing-mode = Privat nettlesingsmodus
-compare-shared-blocks-third-party-tracking-default = Blokkerer tredjeparts sporingsinfokapslar som standard
-compare-shared-blocks-cryptomining-scripts = Blokkerer kryptoutvinningsskript
-compare-shared-blocks-fingerprinting-scripts = Blokkerer fingeravtrykkskript
-compare-shared-blocks-social-trackers = Blokkerer sosiale mediesporarar
-compare-shared-dashboard-to-review = Instrumentbord for vurdering av blokkerte sporarar
-compare-shared-autoplay-blocking = Blokkering av automatisk avspeling
-compare-shared-tab-browsing = Nettlesing med faner
-compare-shared-bookmark-manager = Bokmerkehandterar
-compare-shared-automatically-fills-out-forms = Fyller ut skjemaer automatisk
-compare-shared-automatically-fills-out-payments = Fyller automatisk ut betalingar
-compare-shared-search-engine-options = Innstillingar for søkjemotor
-compare-shared-text-to-speech = Tekst til tale
-compare-shared-reader-mode = Lesemodus
-compare-shared-spell-checking = Stavekontroll
-compare-shared-web-extensionsadd-ons = Nett-utvidingar/tillegg
-compare-shared-in-browser-screenshot-tool = Skjermbildeverktøy i nettlesaren
-compare-shared-os-availability = OS-tilgjengelegheit
-compare-shared-mobile-os-availability = Mobil OS-tilgjengelegheit
-compare-shared-syncs-with-mobile = Synkroniserer med mobilen din
-compare-shared-password-management = Passordhandtering
-compare-shared-primary-password = Hovudpassord
-compare-shared-security-and-privacy = Sikkerheit og personvern
-compare-shared-utility = Nytte
-compare-shared-portability = Portabilitet
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Sikkerheit og <strong>personvern</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Nytte</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Portabilitet</strong>
-compare-shared-overall-assessment = Samla vurdring
-compare-shared-the-comparisons-made-here-updated = Samanlikninga her vart gjort med standardinnstillingar, og på tvers av følgjande nettlesarversjonar:
-compare-shared-this-page-updated-semi-quarterly = Denne sida vert oppdatert kvartalsvis for å spegle av dei nyaste versjonane, og speglar kanskje ikke alltid av dei siste oppdateringane.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Last ned { -brand-name-firefox }
-compare-shared-download-firefox-browser = Last ned { -brand-name-firefox-browser }
-compare-shared-download-the-app = Last ned appen
-compare-shared-desktop = Datamaskin
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Jamfør nettlesarar
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Yting</strong>
+compare-shared-compare-firefox = Samanlikn { -brand-name-firefox }
+compare-shared-footer-cta-title = Gjer meir med { -brand-name-firefox }
+compare-shared-footer-cta-button = Last ned { -brand-name-firefox }
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } har òg innebygde verktøy som:
+compare-shared-its-easy-to-switch = Det er enkelt å byte
+# Used as a small link to a cited source
+compare-shared-source = kjelde
