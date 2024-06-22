@@ -20,7 +20,7 @@ browsers-mobile-get-enhanced-tracking-protection = Obtenha a proteção melhorad
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = À procura de um navegador móvel simplificado e super rápido, com funcionalidades de privacidade de próxima geração? O { -brand-name-firefox-focus } elimina automaticamente todo o seu histórico de navegação, desde do momento em que abre o seu navegador até ao instante em que o fecha.
 browsers-mobile-compare = Comparar
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Veja como o { -brand-name-firefox } para desktop se compara com os outros navegadores.
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Veja como o { -brand-name-firefox } para computadores se compara com os outros navegadores.
 # Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Veja como o { -brand-name-firefox } para desktop se compara com sete outros navegadores.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
