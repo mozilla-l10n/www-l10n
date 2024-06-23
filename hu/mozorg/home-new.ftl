@@ -41,7 +41,7 @@ home-read-more = Bővebben
 home-is-mozilla-a-corporation = A { -brand-name-mozilla } egy vállalat vagy egy nonprofit szervezet? Valójában mindkettő.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = A { -brand-name-mozilla } két szervezetből áll. A { -brand-name-mozilla-corporation } teljes egészében a nonprofit { -brand-name-mozilla-foundation } tulajdonában van. Ami azt jelenti, hogy nem kell megfelelnünk részvényeseknek – csak a küldetésünknek.
-home-so-what-is-mozilla = Tehát mi a { -brand-name-mozilla }?
+home-so-what-is-mozilla = Tehát, mi is a { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
