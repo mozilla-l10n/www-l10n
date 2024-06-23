@@ -9,6 +9,7 @@
 features-index-firefox-browser-features = { -brand-name-firefox } nettlesarfunksjonar
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } er den raske, lette, personvernfokuserte nettlesaren som fungerer på alle einingane dine.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } vert heile tida raskare
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Er { -brand-name-firefox } ein rask nettlesar?
 features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } ein privat nettlesar?
@@ -23,6 +24,7 @@ features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-
 features-index-pinned-browser-tabs = Festa nettlesarfaner
 features-index-eyedropper-tool = Pipetteverktøy
 features-index-pdf-editor = PDF-redigerar
+features-index-fingerprint-blocking = Blokkering av fingeravtrykksporarar
 features-index-ad-tracker-blocking = Blokkering av annonsesporarar
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer automatisk over 2000 annonsesporarar frå å samle informasjon om kva du gjer på nettet.
 features-index-translate-the-web = Omset nettet
