@@ -8,7 +8,7 @@ moz-account-promo-title = Un mewngofnod. <br> <span { $class }>Popeth</span> { -
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have-v2 = Oes gennych chi gyfrif yn barod? <a { $sign_in_url }>Mewngofnodwch</a> neu <a { $learn_more_url }>dysgu rhagor</a> am ymuno â { -brand-name-mozilla }.
+moz-account-already-have-v2 = Oes gennych chi gyfrif yn barod? <a { $sign_in_url }>Mewngofnodwch</a> neu <a { $learn_more_url }>ddysgu rhagor</a> am ymuno â { -brand-name-mozilla }.
 # Obsolete string (expires: 2024-09-12)
 # Variables
 #   $sign_in_url - link to
