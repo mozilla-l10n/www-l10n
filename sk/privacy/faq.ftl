@@ -54,10 +54,14 @@ privacy-faq-the-second-is-what-we-call-interaction-v2 = Druhá sa nazýva “úd
 privacy-faq-do-you-collect-more-data-in = Zbierate viac údajov vo vývojových verziách { -brand-name-firefox(case: "gen") }?
 # Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = Dá sa to tak povedať. Vo vývojových verziách { -brand-name-firefox(case: "gen") } dostávame v predvolenom nastavení okrem údajov popísaných vyššie taktiež hlásenia o pádoch a o chybách.
+privacy-faq-sort-of-in-addition-to-the-data-v2 = Dá sa to tak povedať. Vo vývojových verziách { -brand-name-firefox(case: "gen") } dostávame v predvolenom nastavení okrem údajov popísaných vyššie taktiež hlásenia o pádoch a o chybách.
 # Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox(case: "loc") } a naďalej ho vylepšovať.
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = Ak robíme <a href="{ $link }">štúdiu</a>, môžeme zbierať aj dodatočné údaje. Niektoré štúdie napríklad vyžadujú tzv. „údaje o webovej aktivite“, ktoré môžu obsahovať URL adresy a ďalšie informácie o určitých webových stránkach. Vďaka tomu si môžeme odpovedať na určité otázky o { -brand-name-firefox(case: "loc") } a naďalej ho vylepšovať, napríklad integrovaním populárnych webových stránok v niektorých špecifických jazykových verziách.
 privacy-faq-mozillas-pre-release-versions = Vývojové verzie { -brand-name-firefox(case: "gen") } sú často aktualizované experimentálnymi funkciami. Pred vydaním určitej verzie zbiera { -brand-name-mozilla } väčšie množstvo údajov ako po jej vydaní. Chceme sa totiž dozvedieť, ako tieto experimentálne funkcie pracujú. Zo zberu týchto údajov sa môžete odhlásiť v možnostiach.
 privacy-faq-but-why-do-you-collect-any-data = Ale prečo nejaké údaje vôbec zbierate?
 privacy-faq-if-we-dont-know-how-the-browser = Ak nevieme, ako sa prehliadač správa v ostrej prevádzke a aké funkcie ľudia používajú, nemôžeme ho vylepšovať. Investovali sme do analytických nástrojov a do nástrojov na zber údajov, ktoré rešpektujú súkromie ľudí.
