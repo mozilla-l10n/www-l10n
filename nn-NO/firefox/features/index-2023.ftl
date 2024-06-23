@@ -17,6 +17,7 @@ features-index-customize-your-firefox-browser = Tilpass { -brand-name-firefox }-
 features-index-choose-how-your-browser-looks = Vel korleis nettlesaren din skal sjå ut med tusenvis av gratis tema.
 features-index-firefox-browser-sync = { -brand-name-firefox } nettlesarsynkronisering
 features-index-bookmark-manager = Bokmerkehandsamar
+features-index-organize-your-bookmarks-with = Organiser bokmerka dine med mapper og etikettar.
 features-index-private-browsing-mode = Privat nettlesingsmodus
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-tillegg og nettlesarutvidingar
 features-index-pinned-browser-tabs = Festa nettlesarfaner
