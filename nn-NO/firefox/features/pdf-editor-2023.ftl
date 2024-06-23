@@ -7,4 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-redigerar
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Rediger PDF-filer gratis med { -brand-name-firefox } PDF-redigerar
 pdf-editor-add-text = Legg til tekst
