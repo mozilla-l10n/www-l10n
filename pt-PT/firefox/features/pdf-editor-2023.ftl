@@ -8,9 +8,9 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor de PDF
 # Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Adicione texto aos PDFs com o Editor de PDF do { -brand-name-firefox }
+pdf-editor-add-text-to-pdfs = Adicione texto a ficheiros PDF com o Editor de PDF do { -brand-name-firefox }
 # page title
-pdf-editor-add-text-to-pdfs-v2 = Edite PDFs gratuitamente com o Editor de PDF do { -brand-name-firefox }
+pdf-editor-add-text-to-pdfs-v2 = Edite ficheiros PDF gratuitamente com o Editor de PDF do { -brand-name-firefox }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Visualize e edite ficheiros PDF diretamente no { -brand-name-firefox }.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Se precisa de adicionar coisas a um documento PDF, agora pode fazer isso online com o { -brand-name-firefox }. Abra o PDF no { -brand-name-firefox } e clique nos botões Texto ou Desenhar no canto superior direito para fazer alterações ao seu documento. Transfira o ficheiro para o guardar com as suas alterações.

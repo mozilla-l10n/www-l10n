@@ -18,6 +18,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Edite PDF</a> em qualquer síti
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Traduza uma página web</a> localmente e de forma privada.
 compare-shared-its-easy-to-switch = É fácil mudar
-compare-shared-since-we-dont-have-to-make = Como não precisamos de fazer os activistas felizes, podemos focar-nos em fazer <strong> si</strong> feliz e colocar sempre a sua privacidade e conveniência em primeiro lugar.
+compare-shared-since-we-dont-have-to-make = Uma vez que não temos de satisfazer acionistas, podemos concentrar-nos na <strong>sua</strong> felicidade, colocando sempre a sua privacidade e comodidade em primeiro lugar.
 # Used as a small link to a cited source
 compare-shared-source = fonte
