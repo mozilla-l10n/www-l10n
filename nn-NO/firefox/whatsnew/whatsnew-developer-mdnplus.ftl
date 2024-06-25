@@ -19,6 +19,7 @@ developer-mdnplus-get-started = Kom i gang
 developer-mdnplus-whats-included = Kva er inkludert?
 developer-mdnplus-notifications = Varsel
 developer-mdnplus-development-in-real-time = Utvikling i realtid: Få tilpassa varsel
+developer-mdnplus-the-web-doesnt-have-a = Nettet har ingen endringslogg, men { -brand-name-mdn } kan hjelpe. Følg sider og få tilpassa meldingar når dokumentasjonen vert endra, CSS-funksjonar vert lansert og API:ar vert sendt.
 developer-mdnplus-collections = Samlingar
 developer-mdnplus-build-your-perfect-library = Bygg ditt perfekte bibliotek. Eller la oss gjere det for deg.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
