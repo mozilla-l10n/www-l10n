@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Det får du. Hent { -brand-name-firefo
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Send { -brand-name-firefox } til telefonen din<br> og slepp nettet laus.
 whatsnew-s2d-download-firefox-for-your = Last ned { -brand-name-firefox } til smarttelefonen din, og nettbrettet ditt.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Skann denne QR-koden

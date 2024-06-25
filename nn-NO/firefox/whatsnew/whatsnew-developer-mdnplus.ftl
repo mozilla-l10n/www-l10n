@@ -12,6 +12,7 @@ developer-mdnplus-congrats-you-now-have-latest-v2 = Gratulerer. Du har no den ny
 developer-mdnplus-congrats-you-now-have-latest = Gratulerer. Du har no den nyaste versjonen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Meir { -brand-name-mdn }. <em>Ditt</em> { -brand-name-mdn }.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } er eit samarbeidsprosjekt med open kjeldekode som dokumenterer netplattformsteknologiar, inklusive CSS, HTML, JavaScript og webb-API:ar. Vi tilbyr òg ei stor mengde undervisningsmateriell til nye utviklarar og studentar.
 developer-mdnplus-support-mdn-and-make = Støtt { -brand-name-mdn } <em>og</em> gjer det til ditt eige.
 # CTA button
 developer-mdnplus-get-started = Kom i gang

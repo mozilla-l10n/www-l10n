@@ -135,6 +135,9 @@ firefox-desktop-download-as-the-internet = Etter kvart  som internett veks og en
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengeleg på alle einingane dine. Ta med fanene, historikken og bokmerka. Alt du treng er ein <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgjengeleg på alle einingane dine; ta med deg fanene dine, historikk og bokmerke. Alt du treng er ein <a { $attrs }>{ -brand-name-mozilla-account }</a> og du får tilgang till synkronisering og fleire { -brand-name-mozilla }-produkt.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta eit bilde med høg oppløysing av kva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettlesaren
 # Variables:
