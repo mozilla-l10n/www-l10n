@@ -11,3 +11,4 @@ features-pip-cool-feature-picture-in-picture = Kul funksjon: Bilde-i-bilde
 features-pip-get-more-done-with-pop-out-videos = Få meir gjort med sprettut-videoar
 features-pip-play-the-video = Spel av videoen
 features-pip-heres-how-it-works = Slik fungerer det:
+features-pip-3-ways-to-use-picture = 3 måtar å bruke bilde-i-bilde
