@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+# HTML page description
+compare-brave-read-our-comparison = Les samanlikninga vår av nettlesarane { -brand-name-firefox } og Brave om funsjonar, personvern og brukarvennlegheit.
