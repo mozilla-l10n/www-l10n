@@ -29,7 +29,14 @@ vpn-pricing-access =
 vpn-pricing-money-back = 30 dages pengeretur-garanti (kun for førstegangskunder)
 vpn-pricing-annual = Årligt
 vpn-pricing-monthly = Månedligt
+vpn-pricing-get-annual-subscription = Få årsabonnement
+vpn-pricing-get-monthly-subscription = Få månedsabonnement
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er endnu ikke tilgængelig i dit land
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Ofte stillede spørgsmål
+vpn-pricing-refund-policy = Hvad er { -brand-name-mozilla-vpn }s tilbagebetalingspolitik?
 vpn-pricing-what-information = Hvilke oplysninger opbevarer { -brand-name-mozilla-vpn }?
+vpn-pricing-how-do-i-manage = Hvordan administrerer jeg mit abonnement og ændrer min plan?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Hvis du allerede abonnerer på { -brand-name-mozilla-vpn }, kan du til enhver tid ændre din plan eller <a { $manage }>administrere dit abonnement</a>.
