@@ -26,7 +26,7 @@ vpn-pricing-access =
         [one] Få adgang til { $servers } server i { $countries } land
        *[other] Få adgang til { $servers } servere i mere end { $countries } lande
     }
-vpn-pricing-money-back = 30 dages pengeretur-garanti (kun for førstegangskunder)
+vpn-pricing-money-back = 30 dages penge-retur-garanti (kun for førstegangskunder)
 vpn-pricing-annual = Årligt
 vpn-pricing-monthly = Månedligt
 vpn-pricing-get-annual-subscription = Få årsabonnement
