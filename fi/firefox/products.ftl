@@ -9,12 +9,16 @@
 firefox-products-mozilla-products = { -brand-name-mozilla }n tuotteet
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla }n koko tuoteperhe on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
+firefox-products-products = Tuotteet
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } on vasta alkua.
 # Obsolete string (expires: 2024-07-03)
 firefox-products-firefox-beginning = { -brand-name-firefox } on vasta alkua
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }n koko tuoteperhe on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Hanki selain, joka estää yli 2000 seurainta automaattisesti. Tehostettu seurannan suojaus on vakiona jokaisessa { -brand-name-firefox }-selaimessa.
 
 ## Focus
 
@@ -31,6 +35,7 @@ firefox-products-check-for-breaches = Tarkista vuotojen varalta
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Suojaa oikeaa sähköpostiosoitettasi, hallitse postilaatikkoasi aiempaa paremmin.
+firefox-products-get-relay = Hanki { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -40,12 +45,18 @@ firefox-products-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Käytä kaikkia sähköpostitilejä, kalentereita ja yhteystietoja yhdessä nopeassa sovelluksessa. Suodata ja järjestä ne haluamallasi tavalla.
+firefox-products-download-thunderbird = Lataa { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = Analysoi URL-osoite
 
 ## Pocket
 
