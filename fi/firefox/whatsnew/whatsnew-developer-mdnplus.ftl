@@ -7,6 +7,8 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Onnittelut. Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
+# Obsolete string (expires: 2024-05-14)
 developer-mdnplus-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Lisää { -brand-name-mdn }:ää. <em>Sinun</em> { -brand-name-mdn }.
