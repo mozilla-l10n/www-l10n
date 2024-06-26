@@ -8,7 +8,7 @@
 # HTML page title
 firefox-products-mozilla-products = Produkter fra { -brand-name-mozilla }
 # HTML page description
-firefox-products-mozillas-family-of-products = { -brand-name-mozilla } er en hel familie af produkter, der er designet til at beskytte dig online
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } er en hel familie af produkter, der er udviklet med det formål at beskytte dig online
 firefox-products-products = Produkter
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er kun begyndelsen.
 # Obsolete string (expires: 2024-07-03)

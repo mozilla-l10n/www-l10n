@@ -35,7 +35,13 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er endnu ikke tilgæ
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Ofte stillede spørgsmål
 vpn-pricing-refund-policy = Hvad er { -brand-name-mozilla-vpn }s tilbagebetalingspolitik?
+vpn-pricing-the-first-time-you = Første gang du abonnerer på { -brand-name-mozilla-vpn } via { -brand-name-mozilla }s websted, kan du anmode om at få penge tilbage, hvis du lukker din konto inden for de første 30 dage. { -brand-name-mozilla } refunderer herefter din første abonnementsperiode.
+vpn-pricing-if-you-purchased = Hvis du har købt dit abonnement gennem en app fra Apples App Store eller Googles Play Butik, er din betaling underlagt butikkens vilkår og betingelser. Du skal stile eventuelle fakturerings- og refusionsforespørgsler for sådanne køb til Apple eller Google, alt efter hvor abonnementet er købt.
 vpn-pricing-what-information = Hvilke oplysninger opbevarer { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Vi overholder nøje { -brand-name-mozilla }s <a { $principles }>principper for databeskyttelse</a>. Vi indsamler kun data, der er påkrævet for at sikre driften af { -brand-name-mozilla-vpn } og forbedre produktet over tid. Vi sporer også kampagne- og henvisningsdata på vores mobilapp for at hjælpe { -brand-name-mozilla } med at forstå effektiviteten af vores marketingkampagner. Læs mere i vores <a { $notice }>privatlivserklæring</a>.
 vpn-pricing-how-do-i-manage = Hvordan administrerer jeg mit abonnement og ændrer min plan?
 # Variables
 # $manage (url) - link to subscription management page
