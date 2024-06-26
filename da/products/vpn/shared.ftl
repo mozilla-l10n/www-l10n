@@ -13,6 +13,9 @@ vpn-shared-features-guarantee = 30 dages penge-retur-garanti
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Spar { $percent }%
 
 # Platform subpage shared strings
 
