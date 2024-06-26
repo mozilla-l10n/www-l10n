@@ -3,52 +3,70 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# Obsolete string
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } er mere end en browser
-# HTML page title
-firefox-products-firefox-beginning = { -brand-name-firefox } er kun begyndelsen
-# Obsolete string
+firefox-products-mozilla-products = Produkter fra { -brand-name-mozilla }
 # HTML page description
-firefox-products-its-a-whole-family-of-products = Det er en hel familie af produkter, der er designet til at beskytte dig online.
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } er en hel familie af produkter, der er designet til at beskytte dig online
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } er <strong>mere</strong> end en browser
+firefox-products-products = Produkter
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er kun begyndelsen.
+# Obsolete string (expires: 2024-07-03)
+firefox-products-firefox-beginning = { -brand-name-firefox } er kun begyndelsen
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } er en hel familie af produkter, der er udviklet med det formål at beskytte dig online.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Hent browseren, der automatisk blokerer mere end 2000 sporings-tjenester. Udvidet beskyttelse mod sporing er standard i alle { -brand-name-firefox }-browsere.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Din dedikerede browser til beskyttelse af dit privatliv med automatisk beskyttelse mod sporing og blokering af reklamer.
+
+## Monitor
+
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-beginning-emphasis = { -brand-name-firefox } er kun <strong>begyndelsen</strong>
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-products-see-if-your-personal-information = Se om dine personlige oplysninger er blevet kompromitteret i en virksomheds datalæk - og meld dig til at få advarsler fremover.
 firefox-products-check-for-breaches = Undersøg for datalæk
-firefox-products-sign-up-for-breach-alerts = Tilmeld dig advarsler om datalæk
-# Obsolete string
-firefox-products-firefox-browsers = { -brand-name-firefox }-browsere
-firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Hent de browsere, der automatisk blokerer mere end 2000 sporings-tjenester. Udvidet beskyttelse mod sporing er standard i alle { -brand-name-firefox }-browsere.
-firefox-products-desktop = Computer
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Se alle browsere
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Beskyt din rigtige mailadresse for at få bedre kontrol over din indbakke.
+firefox-products-get-relay = Få { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Surf, stream og arbejd på servere i mere end 30 lande for en sikker internetforbindelse med et nyt perspektiv.
 firefox-products-get-mozilla-vpn = Få { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Beskyt din rigtige mailadresse for at få bedre kontrol over din indbakke.
-firefox-products-learn-more-about-relay = Læs mere om { -brand-name-firefox-relay }
-firefox-products-send-your-large-files-and = Send dine store filer og følsomme dokumenter på op til 2,5G sikkert.
-firefox-products-send-a-file = Send en fil
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Ressourcer til udviklere fra udviklere. Støt { -brand-name-mdn } og gør det til dit eget med samlinger, notifikationer og playgrounds.
+firefox-products-support-mdn = Støt { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Få adgang til dine mails, kalendere og kontakter i én hurtig app. Filtrer og organiser dem, som du vil.
+firefox-products-download-thunderbird = Hent { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } passer på dig, når du handler på nettet — luger ud i svindlerne og finder de bedste tilbud. Lavet af { -brand-name-mozilla }.
+firefox-products-analyze = Analyser en URL
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Find det bedste indhold på nettet - og gem det til en senere lejlighed. Lavet af { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-07-08)
 firefox-products-discover-the-best-content = Find det bedste indhold på nettet - og gem det til en senere lejlighed.
 firefox-products-get-pocket = Hent { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Læs mere om { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Slut dig til { -brand-name-firefox } og få mest muligt ud af alle produkterne - på alle dine enheder.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Har du allerede en konto? <a { $fxa_attr }>Log ind</a> eller <a { $accounts_attr }>læs mere</a> om at være en del af { -brand-name-firefox }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Din dedikerede browser til beskyttelse af dit privatliv med automatisk beskyttelse mod sporing og blokering af reklamer.
