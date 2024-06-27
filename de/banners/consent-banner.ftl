@@ -5,6 +5,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Mit deiner Hilfe möchten wir dein { -brand-name-mozilla }-Erlebnis verbessern
+consent-banner-body-v2 = Zusätzlich zu den für die Funktion dieser Seite nötigen Cookies hätten wir gern deine Erlaubnis, weitere Cookies setzen zu dürfen, mit denen wir ermitteln, welche Browsing-Bedürfnisse du hast, und dein Erlebnis verbessern. Dabei legen wir großen Wert auf deine Privatsphäre.
 
 # Obsolete string (expires: 2024-07-22)
 consent-banner-body = Zusätzlich zu den für die Funktion dieser Seite nötigen Cookies hätten wir gern deine Erlaubnis, weitere Cookies setzen zu dürfen, mit denen wir ermitteln, welche Browsing-Bedürfnisse du hast, und dein Erlebnis verbessern. Dabei legen wir großen Wert auf deine Privatsphäre.

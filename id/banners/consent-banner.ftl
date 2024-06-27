@@ -5,6 +5,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Bantu kami meningkatkan pengalaman Anda dalam menggunakan { -brand-name-mozilla }
+consent-banner-body-v2 = Selain kuki yang diperlukan agar situs ini berfungsi, kami meminta izin Anda untuk mengatur beberapa Kuki tambahan untuk lebih memahami kebutuhan penjelajahan Anda dan meningkatkan pengalaman Anda. Tenang — kami menghargai privasi Anda.
 
 # Obsolete string (expires: 2024-07-22)
 consent-banner-body = Selain kuki yang diperlukan agar situs ini berfungsi, kami meminta izin Anda untuk mengatur beberapa Kuki tambahan untuk lebih memahami kebutuhan penjelajahan Anda dan meningkatkan pengalaman Anda. Tenang — kami menghargai privasi Anda.
