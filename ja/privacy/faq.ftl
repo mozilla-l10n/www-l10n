@@ -21,12 +21,14 @@ privacy-faq-we-put-people-in-control-of = ユーザーのデータやオンラ�
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = 「予期せぬ事態なし」の原則を順守します。これは、ユーザーの { -brand-name-firefox } に関する知識を実際と一致させるよう努めることを意味します。
 
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = 「予期せぬ事態なし」の原則を順守します。これは、ユーザーの { -brand-name-firefox } に関する知識を実際と一致させるよう努めることを意味します。
 privacy-faq-the-following-questions-and = { -brand-name-mozilla } と { -brand-name-firefox } に求められる事柄について理解する上で、次に挙げる質問と回答が役立つでしょう。
 privacy-faq-i-use-firefox-for-almost-everything = ウェブでは何をするにも { -brand-name-firefox } を使ってるから、{ -brand-name-mozilla } は私について知ってることがたくさんあるんじゃないの？
 
 # Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = ご使用のデバイスやコンピューター上で実行される { -brand-name-firefox } ウェブブラウザーはインターネット接続のための手段です。ご使用のブラウザーでは訪問するウェブサイトに関する大量の情報が管理されますが、その情報がデバイスから出ることはありません。{ -brand-name-firefox } の製造元である { -brand-name-mozilla } はそうした情報を収集しません (ただしユーザーが要求する場合はこの限りではありません)。
 
+privacy-faq-firefox-the-web-browser-that-v2 = ご使用のデバイスやコンピューター上で実行される { -brand-name-firefox } ウェブブラウザーはインターネット接続のための手段です。ご使用のブラウザーでは訪問するウェブサイトに関する大量の情報が管理されますが、一般的にその情報がデバイスから出ることはありません。{ -brand-name-firefox } の製造元である { -brand-name-mozilla } はそうした情報を収集しません (ただしユーザーが要求する場合はこの限りではありません)。
 privacy-faq-really-you-dont-collect-my-browsing = 本当に？Mozilla は私の閲覧履歴を収集しないの？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } は、ユーザーがウェブをどのようにブラウジングしているかについて、あなたが思うほど知りません。実のところ、ブラウザーメーカーとして、それは大きな課題です。そこで、Mozilla は関心のあるユーザーが Mozilla に自分のウェブブラウジングに関するインサイトを提供できるオプトインツールを作りました。閲覧履歴を複数の { -brand-name-firefox } インストールで同期した場合、その履歴はデバイスで暗号化されているので、Mozilla はその履歴を知ることができません。
 
@@ -47,6 +49,10 @@ privacy-faq-okay-those-first-few-were-softballs = オーケー。それじゃあ
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = 基本的に、{ -brand-name-mozilla } は { -brand-name-firefox } から、ユーザーがブラウザーをどのように利用しているか理解するのに役立つ、少量のデータを収集しています。このデータはユーザーの氏名やメールアドレスではなく、無作為識別子に関連付けられています。この問題については、<a href="{ $privacy }">プライバシーに関する通知</a>で詳細に説明されています。また<a href="{ $data }">データ収集に関する完全版のドキュメンテーション</a>もお読みください。
 
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = 基本的に、{ -brand-name-mozilla } は { -brand-name-firefox } から、ユーザーがブラウザーをどのように利用しているか理解するのに役立つ、少量のデータを収集しています。この問題については、<a href="{ $privacy }">プライバシーに関する通知</a>で詳細に説明されています。また<a href="{ $data }">データ収集に関する完全版のドキュメンテーション</a>もお読みください。
 privacy-faq-we-make-our-documentation-public = Mozilla はドキュメンテーションを公開していますので、誰でも Mozilla の発表内容が真実であることを確認し、Mozilla に改善が必要な場合はその旨を伝えていただき、何も隠し立てしていることが無いことを確信していただけます。
 
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
@@ -57,17 +63,22 @@ privacy-faq-the-first-is-what-we-call-technical = そのひとつは Mozilla 内
 # Obsolete string (expires 2024-09-11)
 privacy-faq-the-second-is-what-we-call-interaction = もうひとつは Mozilla 内部で「インタラクションデータ」と呼ばれているものです。このデータは、開いているタブの数やユーザー設定のステータス、スクリーンショットやコンテナその他ブラウザーの特定機能の使用回数など、個人の { -brand-name-firefox } とのエンゲージメントに関するデータです。たとえば、ユーザーは、ブラウザーの左上角にある矢印の形の戻るボタンを使用してひとつ前のページに戻ることができますが、Mozilla はこの戻るボタンに関してこの種のデータを収集します。しかしこのデータは、誰かがこのボタンを使用したことが示されるものの、具体的にどのウェブページにアクセスしたかは分からない形式で収集されます。
 
+privacy-faq-the-second-is-what-we-call-interaction-v2 = もうひとつは Mozilla 内部で「インタラクションデータ」と呼ばれているものです。このデータは、開いているタブの数やユーザー設定のステータス、スクリーンショットやコンテナその他ブラウザーの特定機能の使用回数など、個人の { -brand-name-firefox } とのエンゲージメントに関するデータです。たとえば、ユーザーは、ブラウザーの左上角にある矢印の形の戻るボタンを使用してひとつ前のページに戻ることができますが、Mozilla はこの戻るボタンを通じてこの種のデータを収集します。しかしこのデータは、誰かがこのボタンを使用したことが示されるものの、具体的にどのウェブページにアクセスしたかは分からない形式で収集されます。
 privacy-faq-do-you-collect-more-data-in = プレリリース版の { -brand-name-firefox } ではそれ以上のデータを収集する？
 
 # Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = 多少収集します。プレリリース版の { -brand-name-firefox } では、基本的に上記のデータに加え、クラッシュとエラーのレポートを収集します。
 
+privacy-faq-sort-of-in-addition-to-the-data-v2 = 多少収集します。プレリリース版の { -brand-name-firefox } では、基本的に上記のデータに加え、クラッシュとエラーのレポートを収集します。
 
 # Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = また、Mozilla の<a href="{ $link }">調査</a>のために、プレリリース版からそれ以外のデータを収集する場合があります。たとえば、Mozilla 内で 「ウェブアクティビティデータ」と呼ばれているデータが必要な調査もあります。このデータには特定のウェブサイトのURLその他の情報が含まれる場合があります。このデータは、たとえば特定のロケールにおける人気サイトの統合方法を改善するにはどうすればよいかなど、特定の問題に関する解決策を特定して { -brand-name-firefox } を改善する上で役立ちます。
 
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = また、Mozilla の<a href="{ $link }">調査</a>のために、プレリリース版からそれ以外のデータを収集する場合があります。たとえば、Mozilla 内で「ウェブアクティビティデータ」と呼ばれているデータが必要な調査もあります。このデータには特定のウェブサイトのURLその他の情報が含まれる場合があります。このデータは、たとえば特定のロケールにおける人気サイトの統合方法を改善するにはどうすればよいかなど、特定の問題に関する解決策を特定して { -brand-name-firefox } を改善する上で役立ちます。
 privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } のプレリリース版 { -brand-name-firefox } は開発プラットフォームであり、試験的機能により頻繁に更新されます。こうした試験的機能がどのように機能するかを理解するために、プレリリース版でリリース後よりも多くの情報を収集します。ユーザーは設定でこのデータの収集をオプトアウトできます。
 privacy-faq-but-why-do-you-collect-any-data = しかし Mozilla がデータを収集するのは、一体なぜ？
 privacy-faq-if-we-dont-know-how-the-browser = ブラウザーのパフォーマンスや、ユーザーはどの機能を使用しているかなどを把握していなければ、ブラウザーを改善してユーザーが求める優れた製品を提供することはできません。Mozilla はデータ収集・分析ツールの制作に取り組んできました。このツールを使用すると、ユーザーのプライバシーを尊重しつつ、製品に関する適切な判断を行うことが可能となります。
