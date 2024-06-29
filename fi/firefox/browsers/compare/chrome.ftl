@@ -15,6 +15,7 @@ compare-chome-read-our-comparison = Lue { -brand-name-firefox }- ja Chrome-selai
 compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox }in yksityisyysasetukset ovat paljon vahvempia kuin Chromen – ja meillä on lisäominaisuuksia, jotka estävät verkkosivustoja seuraamasta sinua, kuten <a { $fingerprint }>yksilöimisen esto</a> sekä valitsemasi lisäosat <a { $adblocker }>mainosten estoon</a>.
 compare-chrome-we-block-trackers-by-default = Estämme seuraimet oletuksena. Chrome ei.
 compare-chrome-in-fact-by-default-chrome-monitors = Itse asiassa Chrome seuraa oletuksena, millä verkkosivustoilla vierailet ja mitä teet, jotta se voi tunnistaa "mainosaiheet" lähettääkseen sinulle kohdistetumpia mainoksia. Voit estää kolme aihetta, mutta et saa muiden mainosaiheiden tunnistamisen lopettamista.
+compare-chrome-chrome-allows-other-websites-to = Chrome antaa muiden verkkosivustojen kerätä tietoja sinusta, jotta ne voivat ehdottaa mainoksia. Voit estää tiettyjä sivustoja ehdottamasta mainoksia, mutta et voi pysäyttää tietojen keräämistä tai muiden sivustojen ehdotuksia.
 compare-chrome-google-runs-the-worlds-largest = Google ylläpitää maailman suurinta mainosverkostoa, ja Chrome on osa sitä.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
