@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } on loistavan nopea selain, joka tarjoaa huippuluokan kehittäjätyökaluja ja uusimpia ominaisuuksia, kuten CSS Grid -tuen ja sovelluskehyksen virheenkorjauksen
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Tervetuloa uuteen suosikkiselaimeesi. Saat uusimmat ominaisuudet, nopean suorituskyvyn ja kehitystyökalut, joita tarvitset avoimen verkon rakentamiseen.
 firefox-developer-speak-up = Puhu
@@ -57,17 +59,12 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Uudet { -brand-name-firefox-devtools }it ovat tehokkaita, joustavia ja mikä parasta, hakkeroitavia. Tämä sisältää luokkansa parhaan JavaScript-virheenkorjaimen, joka voi kohdistaa useisiin selaimiin ja joka on rakennettu Reactilla ja Reduxilla.
 firefox-developer-master-css-grid = Hallitse CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = Seuraavan sukupolven CSS-koneisto
 firefox-developer-built-for-developers = Rakennettu kehittäjiä varten
-firefox-developer-a-next-generation = Uuden sukupolven CSS-moottori
 firefox-developer-master-innovative-features = Innovatiivisia ominaisuuksia
 firefox-developer-want-to-be-on-the-cutting-edge = Haluatko pysyä aallonharjalla?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } saa päivityksiä päivittäin ja antaa sinun käyttää ominaisuuksia kuukausia ennen kuin ne julkaistaan kaikille.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } sisältää uuden Rust-kielellä kirjoitetun CSS-moottorin, jossa on huippuluokan innovaatioita ja joka on räjähtävän nopea.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } on ainoa selain, jossa on työkaluja, jotka on suunniteltu erityisesti CSS Gridin rakentamiseen ja suunnitteluun. Näiden työkalujen avulla voit visualisoida ruudukon, näyttää siihen liittyvien alueiden nimet, esikatsella ruudukon muunnoksia ja paljon muuta.
 firefox-developer-convenient-features = Kätevät ominaisuudet
-firefox-developer-faster-performance = Nopeampi suorituskyky
 firefox-developer-shapes-editor = Muotoeditori
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } sisältää upouuden muotopolkueditorin, joka poistaa arvailun ulko- ja leikepolkumuotojen hienosäätämisestä. Sen avulla voit hienosäätää määrityksiä erittäin helposti visuaalisella editorilla.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } sisältää upouuden muotopolkueditorin, joka poistaa arvailun ulko- ja leikepolkumuotojen hienosäätämisestä. Sen avulla voit hienosäätää määrityksiä erittäin helposti visuaalisella editorilla.
@@ -76,14 +73,19 @@ firefox-developer-fonts-panel = Fonttipaneeli
 firefox-developer-the-new-fonts-panel = Uusi fonttipaneeli { -brand-name-firefox-devtools }issa antaa kehittäjille nopean pääsyn kaikkiin elementissä käytettäviin kirjasimiin liittyviin tietoihin. Se sisältää myös arvokasta tietoa, kuten fontin lähteen, painon, tyylin ja paljon muuta.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
-firefox-developer-welcome-to-the-all-new = Tervetuloa, tämä on täysin uusi { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } on rakennettu alusta alkaen nopeammaksi, tyylikkäämmäksi ja tehokkaammaksi kuin koskaan.
-firefox-developer-congrats-you-now-have-firefox = Onnittelut. Sinulla on nyt { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Tämä ei ole pelkkä päivitys. Tämä on { -brand-name-firefox-quantum }: Upouusi { -brand-name-firefox }, joka on rakennettu alusta alkaen nopeammaksi, tyylikkäämmäksi ja tehokkaammaksi kuin koskaan.
+firefox-developer-welcome-to-firefox-developer-edition = Tervetuloa { -brand-name-firefox-developer-edition }iin
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Tervetuloa { -brand-name-firefox-browser } { -brand-name-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
-firefox-developer-all-the-latest = Kaikki uusimmat beta-kehitystyökalut sekä <strong>kokeelliset ominaisuudet</strong>, kuten Multi-Line Console Editor ja WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-preferences-tailored = Asetukset <strong>räätälöitynä verkkokehittäjille</strong>: Selain ja etävirheenkorjaus ovat oletuksena käytössä, samoin kuin tumma teema ja kehittäjän työkalupalkin painike.
-firefox-developer-congrats-you-now-have = Onnittelut. Sinulla on nyt { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resursseja kehittäjille - kehittäjiltä
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

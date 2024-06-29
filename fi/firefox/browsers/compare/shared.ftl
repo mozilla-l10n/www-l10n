@@ -12,6 +12,12 @@ compare-shared-footer-cta-button = Lataa { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Tarjoamme helppokäyttöisiä ominaisuuksia:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } sisältää myös sisäänrakennettuja työkaluja, kuten:
 # Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Muokkaa PDF-tiedostoja</a> liikkeellä ollessasi { -brand-name-firefox }in selainikkunassa - lisäohjelmistoja ei tarvita.
+# Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Käännä verkkosivu</a> paikallisesti ja yksityisesti.
 compare-shared-its-easy-to-switch = Vaihtaminen on helppoa
+compare-shared-since-we-dont-have-to-make = Koska meidän ei tarvitse ilahduttaa osakkeenomistajia, voimme keskittyä <strong>sinun</strong> ilahduttamiseen ja asettaa yksityisyytesi ja käyttömukavuutesi aina etusijalle.
+# Used as a small link to a cited source
+compare-shared-source = lähde
