@@ -30,7 +30,7 @@ navigation-v2-view-all-firefox-browsers = Zobrazit všechny { -brand-name-firefo
 navigation-v2-products = Produkty
 navigation-v2-close-products-menu = Zavřít
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-navigation-v2-see-if-your-email-has = Zkontrolujte, jestli se váš e-mail neobjevil v nějakém úniku dat.
+navigation-v2-see-if-your-email-has = Zkontrolujte si, zda se váš e-mail neobjevil v nějakém úniku dat.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Ukládejte a objevujte nejlepší články z celého webu.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
@@ -62,7 +62,7 @@ navigation-v2-careers = Kariéra
 navigation-v2-work-for-a-mission-driven-updated = Pojďte pracovat pro organizaci, která vytváří produkty pro lidi.
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-mozilla-and = Zjistěte více o { -brand-name-mozilla(case: "loc") } a problémech, na jejich řešení nám záleží.
-navigation-v2-more-about-mozilla = Vice o { -brand-name-mozilla(case: "loc") }
+navigation-v2-more-about-mozilla = Více o { -brand-name-mozilla(case: "loc") }
 
 ## Innovation menu
 
