@@ -22,7 +22,7 @@ mozilla-accounts-already = Již máte účet { -brand-name-mozilla-account }. Gr
 firefox-accounts-manage = Správa účtu
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
-mozilla-account-sign-in-to = Přihlaste se ke svému { -brand-name-mozilla-account(case: "dat") }:
+mozilla-account-sign-in-to = Přihlaste se ke svému { -brand-name-mozilla-account(case: "dat") } a budete moci:
 # Obsolete string
 firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a budete moci:
 # Obsolete string
@@ -48,8 +48,6 @@ firefox-accounts-get-it-all-on-every = Toto vše získáte na každém svém za�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
