@@ -51,5 +51,5 @@ footer-linkedin = { -brand-name-linkedin }
 footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Sledujte @mozilla
-footer-follow-firefox = Sledujte @{ -brand-name-firefox }
+footer-follow-firefox = Sledujte @firefox
 footer-about-this-site = O těchto stránkách
