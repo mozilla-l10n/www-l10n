@@ -20,20 +20,24 @@ home-product-pocket-articles = Nettets mest spennande artiklar
 home-cta-get-pocket = Hent { -brand-name-pocket }
 # Obsolete string (expires: 2024-07-16)
 home-product-relay-masks = Lettbrukte e-post- og telefonalias
+home-product-relay-hide-your = Skjul telefonnummeret ditt og eposten din frå spammarar
 home-cta-get-relay = Last ned { -brand-name-relay }
 home-product-vpn-trust = Eit VPN du kan stole på
 home-cta-get-vpn = Last ned { -brand-name-mozilla-vpn }
 # Obsolete string (expires 2024-07-23)
 home-product-monitor-data = Datalekkasjevarsel
+home-product-monitor-protect-your = Vern den private informasjonen din frå datainnsamlarar
 home-cta-get-monitor = Få { -brand-name-monitor }
 home-product-fakespot-detect = Oppdag falske varevurderingar
 home-cta-get-fakespot = Last ned { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Les meir
 # Obsolete string (expires: 2024-07-16)
 home-is-mozilla-a-corporation = Er { -brand-name-mozilla } eit føretak eller ein ideell organisajon? Faktisk begge delar.
 # Obsolete string (expires: 2024-07-16)
 home-mozilla-consists-of = { -brand-name-mozilla } består av to organisasjonar. { -brand-name-mozilla-corporation } er heileigd av den ideelle 501(c) { -brand-name-mozilla-foundation }. Dette tyder at vi ikkje har forpliktingar til aksjeeigarar — berre til oppdraget vårt.
+home-so-what-is-mozilla = So, kva er { -brand-name-mozilla }?
 home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Ver med i kampen for eit helsesamt internett
 home-your-voice-your-code = Di røyst. Din kode. Dine idéar. Det finst bokstavleg tala tusenvis av måtar du kan bidra til { -brand-name-mozilla }.

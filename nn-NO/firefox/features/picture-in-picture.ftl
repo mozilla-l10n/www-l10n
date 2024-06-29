@@ -20,3 +20,5 @@ features-pip-repeat-steps-1-3-to-have = <strong>Repeter stega 1-3</strong> for �
 features-pip-3-more-ways-to-use-picture = Ytterlegare 3 måtar å bruke bilde-i-bilde
 features-pip-3-ways-to-use-picture = 3 måtar å bruke bilde-i-bilde
 features-pip-watch-a-lecture-or-meeting = Sjå på ei førelesing eller eit møte medan du tek notat
+features-pip-keep-a-tutorial-video-open = Ha ein opplæringsvideo open med ei oppskrift medan du lagar mat eller bakar
+features-pip-entertain-cats-dogs-and-kids = Underhald kattar, hundar og born medan du gjer noko anna
