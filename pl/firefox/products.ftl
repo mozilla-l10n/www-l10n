@@ -46,11 +46,13 @@ firefox-products-get-mozilla-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Zasoby dla deweloperów, od deweloperów. Wspieraj { -brand-name-mdn } i dostosuj go do własnych potrzeb za pomocą kolekcji, powiadomień i placów zabaw.
 firefox-products-support-mdn = Wspieraj { -brand-name-mdn }
 
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Dostęp do wszystkich wiadomości, kalendarzy i kontaktów w jednej szybkiej aplikacji. Filtruj i organizuj je tak, jak lubisz.
 firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: "acc") }
 
 ## Fakespot
