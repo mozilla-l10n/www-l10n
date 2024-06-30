@@ -46,7 +46,7 @@ firefox-products-get-mozilla-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
-firefox-products-resources-for-developers = Zasoby dla deweloperów, od deweloperów. Wspieraj { -brand-name-mdn } i dostosuj go do własnych potrzeb za pomocą kolekcji, powiadomień i placów zabaw.
+firefox-products-resources-for-developers = Zasoby dla deweloperów, od deweloperów. Wspieraj serwis { -brand-name-mdn } i dostosuj go do własnych potrzeb za pomocą kolekcji, powiadomień i placów zabaw.
 firefox-products-support-mdn = Wspieraj { -brand-name-mdn }
 
 ## Thunderbird
@@ -58,6 +58,10 @@ firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: 
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } wspiera Cię w czasie zakupów w sieci — eliminując oszustów i znajdując dla Ciebie najlepsze oferty. Od { -brand-name-mozilla(case: "gen") }.
+firefox-products-analyze = Przeanalizuj adres
 
 ## Pocket
 
