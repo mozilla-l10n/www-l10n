@@ -14,3 +14,5 @@ firefox-sync-all-you-need = Alt du treng for { -brand-name-firefox-sync } er ein
 firefox-sync-encrypt-your-data = Krypter dataa dine
 firefox-sync-your-encryption-key = Krypteringsnøkkelen din vil bli verande hemmeleg, berre kjend for deg og og dei autoriserte einingane dine.
 firefox-sync-feel-safe = Kjenn deg trygg
+firefox-sync-start-syncing-in = Start synkronisering med fire enkle steg:
+firefox-sync-click-get-started = Trykk på “<strong>Kom i gang</strong>” i fana som opnar seg.
