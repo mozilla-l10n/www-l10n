@@ -8,5 +8,8 @@
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-access-and-sync = Få tilgang til, og synkroniser bokmerke, passord, opne faner, og meir — alle stadar du brukar { -brand-name-firefox }.
 firefox-sync-firefox = { -brand-name-firefox-browser }
+firefox-sync-sync-your-firefox = Synkroniser { -brand-name-firefox } på kva som helst eining
+firefox-sync-privacy-made-easy = Personvern på ein enkel måte
+firefox-sync-all-you-need = Alt du treng for { -brand-name-firefox-sync } er ein { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Krypter dataa dine
 firefox-sync-feel-safe = Kjenn deg trygg
