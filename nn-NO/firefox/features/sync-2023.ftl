@@ -11,3 +11,4 @@ features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrer deg 
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Alle dataa dine er krypterte på sørvarane våre slik at vi ikkje kan lese dei – berre du har tilgang til dei. Vi sel ikkje informasjonen din til annonsørar, sidan det skulle stride mot <a href="{ $privacy }">løftet vårt om datapersonvern</a>.
+features-sync-send-tabs-from-one-device-to-another = Send faner frå ei eining til ei anna
