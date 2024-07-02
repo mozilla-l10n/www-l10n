@@ -17,7 +17,7 @@ bookmark-manager-collect-your-bookmarks-in-folders = Collige tu marcapaginas in 
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Imagine del fenestra del gestor de marcapaginas in { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importar facilemente marcapaginas
-bookmark-manager-you-can-import-your-bookmarks = Tu pote importar tu marcapaginas ab Chrome, Safari o Edge con le assistente de importation de { -brand-name-firefox }. Justo clicca Marcapaginas > Gerer Marcapaginas e pois elige “Importar e reservar”.
+bookmark-manager-you-can-import-your-bookmarks = Tu pote importar tu marcapaginas de Chrome, Safari o Edge con le assistente de importation de { -brand-name-firefox }. Suffice cliccar Marcapaginas > Gerer Marcapaginas e pois eliger “Importar e salveguardar”.
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = Imagine del fenestra de dialogo del assistente de importation de { -brand-name-firefox }, monstrante optiones pro importar parametros e datos ab altere navigatores.
 bookmark-manager-bookmarks-toolbar = Barra del marcapaginas

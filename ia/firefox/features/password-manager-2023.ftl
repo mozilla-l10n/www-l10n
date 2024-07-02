@@ -34,7 +34,7 @@ password-manager-no-more-reusing-your-passwords = Non plus reusa tu contrasignos
 #   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
 password-manager-have-firefox-create-a-strong-unique = Pete a { -brand-name-firefox } de <a { $attrs }>crear un forte, unic contrasigno</a> pro cata accesso que tu ha a transverso le web, in iste condition, si uno de tu contrasignos es violate, illo solo habera impacto sur ille conto, non altere contos alsi.
 # Used as an accessible text alternative for an image
-password-manager-image-of-a-websites-sign-up-form = Imagine de un formulario de inscription a sito web con { -brand-name-firefox } suggerente un contrasigno complexe que illo automaticamente reservara pro uso futur.
+password-manager-image-of-a-websites-sign-up-form = Imagine del formulario de inscription de un sito web, pro le qual { -brand-name-firefox } suggere un contrasigno complexe que illo automaticamente memorisara pro uso futur.
 password-manager-password-security-alerts = Avisos de securitate de contrasigno
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
