@@ -23,3 +23,5 @@ whatsnew-release-notes-v2 = Consultez les <a { $url }>notes de version</a> pour 
 whatsnew-release-notes = Consultez les <a href="{ $url }">notes de version</a> pour en savoir plus sur les nouveautés de votre navigateur { -brand-name-firefox }.
 
 whatsnew-signoff = <strong>Conçu par { -brand-name-mozilla }.</strong> Pensé pour vous depuis 1998.
+
+

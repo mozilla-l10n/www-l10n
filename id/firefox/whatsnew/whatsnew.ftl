@@ -23,3 +23,5 @@ whatsnew-release-notes-v2 = Baca <a { $url }>Catatan Rilis</a> untuk mengetahui 
 whatsnew-release-notes = Baca <a href="{ $url }">Catatan Rilis</a> untuk mengetahui selengkapnya tentang informasi terbaru peramban { -brand-name-firefox }.
 
 whatsnew-signoff = <strong>Didukung oleh { -brand-name-mozilla }.</strong> Mengutamakan pengguna daripada keuntungan sejak 1998.
+
+
