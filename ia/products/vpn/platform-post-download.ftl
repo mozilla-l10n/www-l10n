@@ -11,14 +11,14 @@
 
 vpn-windows-download-page-title = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Discargante { -brand-name-mozilla-vpn } pro { -brand-name-windows }…
-vpn-windows-go-to-your-downloads = Va a tu plica de discargamentos e duple clicca le file .msi
+vpn-windows-go-to-your-downloads = Aperi tu dossier de discargamentos e face duple clic sur le file .msi
 vpn-windows-a-progress-bar = Un barra de progresso apparera e le processo de installation initiara
 
 ## Mac download page
 
 vpn-mac-download-page-title = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Discargante { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }…
-vpn-mac-go-to-your-downloads = Va a tu plica de discargamentos e duple-clicca le file .pkg
+vpn-mac-go-to-your-downloads = Aperi tu dossier de discargamentos e face duple clic sur le file .pkg
 vpn-mac-follow-the-steps = Seque le passos delineate in le installator de { -brand-name-mozilla-vpn } pro initiar le app
 
 ## Shared strings
