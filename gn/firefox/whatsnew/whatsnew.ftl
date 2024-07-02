@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko h
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Emoñe’ẽ <a href="{ $url }">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu kundahára { -brand-name-firefox } rehegua.
 whatsnew-signoff = <strong>Omboguata { -brand-name-mozilla }.</strong> Omotenondévo yvypóra viru rovake 1998 guive.
+whatsnew-donate-to-mofo = Embojopói { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Aguyje eiporúre { -brand-name-firefox }
