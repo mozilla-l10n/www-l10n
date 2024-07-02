@@ -12,4 +12,5 @@ firefox-sync-sync-your-firefox = Synkroniser { -brand-name-firefox } på kva som
 firefox-sync-privacy-made-easy = Personvern på ein enkel måte
 firefox-sync-all-you-need = Alt du treng for { -brand-name-firefox-sync } er ein { -brand-name-firefox-account }.
 firefox-sync-encrypt-your-data = Krypter dataa dine
+firefox-sync-your-encryption-key = Krypteringsnøkkelen din vil bli verande hemmeleg, berre kjend for deg og og dei autoriserte einingane dine.
 firefox-sync-feel-safe = Kjenn deg trygg
