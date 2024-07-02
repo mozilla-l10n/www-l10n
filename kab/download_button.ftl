@@ -40,3 +40,12 @@ download-button-firefox-privacy = Tasertit n tbaḍnit n { -brand-name-firefox }
 download-button-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 download-button-download = Sader
 download-firefox-esr = Sader { -brand-name-firefox-esr }
+download-firefox-esr-32 = Sader { -brand-name-firefox-esr } 32-yibiten
+download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
+
+## Linux
+
+# Obsolete string
+download-button-linux-32 = Sader { -brand-name-linux } 32-yibiten
+# Obsolete string
+download-button-linux-64 = Sader { -brand-name-linux } 64-yibiten

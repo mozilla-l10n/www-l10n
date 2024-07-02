@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } d iminig arurrad ugar n wiyaḍ, yegber ifecka n tneflit n tsuta taneggarut akked timahilin timaynutin am usefrek n twezza CSS neɣ tamseɣtayt n uframework.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Anṣuf yes-k ar yiminig-ik amaynut i t-ḥemmleḍ. Awi timahilin tineggura, d tmellit ifazen akked ifecka n tneflit i tesriḍ akken ad tebnuḍ web yeldin.
 firefox-developer-speak-up = Meslay
@@ -56,17 +57,12 @@ firefox-developer-inactive-css = CCS arurmid
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } imaynuten d uzmiren, d ifallaẓen, ifen akk wiyaḍ yerna zemren ad ttwasɣezfen. Ayagi yegber tamseɣtayt JavaScript n yimussnawen, i izemren ad teddu ɣef ddeqs n yiminigen yettwabnan s React d Redux.
 firefox-developer-master-css-grid = Issin s telqayt tamezzut CSS
-# outdated
-firefox-developer-next-gen-css-engine = Amsedday CSS n tsuta d-iteddun
 firefox-developer-built-for-developers = Yettufeṣṣel i yineflayen
-firefox-developer-a-next-generation = Amsedday CSS n tsuta d-iteddun
 firefox-developer-master-innovative-features = Timahilin n usnulfu
 firefox-developer-want-to-be-on-the-cutting-edge = Acu tebɣiḍ daɣen ad tawiḍ?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } yettwalqam yal ass akken ad k-yeǧǧ ad tkecmeḍ ar timahilin timaynutin ddeqs n wagguren send send ad d-ffɣent i yimdanen meṛṛa.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } yegber amsedday amaynut CSS yuran s Rust. Yettfaras tagnitt seg unerni aneggaru n tatiknulujit ihi yuɣal d arurad s waṭas..
 firefox-developer-firefox-is-the-only-browser = Ala { -brand-name-firefox } i d iminig s ifecka yettwabnan i bennu d ufeṣṣel s tmezzut CSS. Ifecka-agi ad k-eǧǧen ad twaliḍ tamezzut, ad teskneḍ ismawen n timnaḍin icudden ɣur-s, ad twaliḍ aselket ɣef twezzut d wayen nniḍen.
 firefox-developer-convenient-features = Timahilin ilaqen
-firefox-developer-faster-performance = Tamellit taruradt
 firefox-developer-shapes-editor = Amaẓrag n talɣa
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } ɣur-s talɣa tamaynut deg yifecka n tneflit ara ak·akem-yeǧǧen ur teggareḍ ara iḍarren-ik·im deg lxali akken ad tṣeggmeḍ talɣiwin-inek·inem shape-outside d clip-path daɣen ad tgeḍ aṣeggem-inek·inem deg umazrag uman.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } ɣur-s talɣa tamaynut deg yifecka n tneflit ara ak·akem-yeǧǧen ur teggareḍ ara iḍarren-ik·im deg lxali akken ad tṣeggmeḍ talɣiwin-inek·inem shadow-outside d clip-path daɣen ad tgeḍ aṣeggem-inek·inem deg umazrag uman.
@@ -75,11 +71,12 @@ firefox-developer-fonts-panel = Agalis n tsefsiyin
 firefox-developer-the-new-fonts-panel = Agalis n tsefsit amaynut deg { -brand-name-firefox-devtools } yettmuddu-d i yineflayen anekcum uzrib ɣer telɣut meṛṛa i ḥwaǧen ɣef tsefsit i yettwasqedcen deg uferdis. Yegber daɣen talɣut meqqren am uɣbalu n tesfsit, tuzert, aɣanib d wayen-nniḍen.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Sider iminig { -brand-name-firefox } ittwaxedmen i yineflayen
-firefox-developer-welcome-to-the-all-new = Anṣuf ar { -brand-name-firefox-quantum } amaynut: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } iɛawed tamuɣli akken ad yuɣal d arurad ugar, d uzmir ugar akken werǧin yella.
-firefox-developer-congrats-you-now-have-firefox = Ayuz. Tzemreḍ tura ad tawiḍ { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Aya mačči kan d lqem aḥerfi. Ha-t-a { -brand-name-firefox-quantum }: { -brand-name-firefox } amaynut i yettwafeṣṣlen akken-nniḍen i wakken ad yuɣal d arurad, d uzmir , yerna yeǧhed ugar ɣef wakken yella.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-welcome-to-firefox-browser = Ansuf ɣer { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Iminig yettwag i yineflayen
-firefox-developer-congrats-you-now-have = Ayuz. Tzemreḍ tura ad tawiḍ { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = Ayuz. Tesεiḍ tura lqem akk aneggaru n { -brand-name-firefox-browser } { -brand-name-developer-edition }.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Tiɣbula i yineflayen, sɣur ineflayen.
+firefox-developer-mdn-references = Ismenyifen { -brand-name-mdn }
