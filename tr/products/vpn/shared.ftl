@@ -125,14 +125,6 @@ vpn-subnav-learn-about-vpns = VPN hakkında bilgi alın
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn }’i indir
 vpn-subnav-features = Özellikler
 
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Hangi iş ortağımızın sizi { -brand-name-mozilla-vpn }'e yönlendirdiğini anlamak için çerezleri kullanıyoruz. Kişisel bilgilerinizi iş ortaklarımızla paylaşmıyoruz. <a { $attrs }>Gizlilik Politikamızı</a> okuyun.
-vpn-shared-affiliate-notification-reject = Reddet
-vpn-shared-affiliate-notification-ok = Tamam
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay } ile gizliliğinizi artırın
@@ -155,3 +147,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } henüz
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Övgüyle bahsedenler
+
+## Unsupported language notification
+
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = { -brand-name-mozilla-vpn }’i daha fazla kişiye ulaştırmak ister misiniz? <a { $href }>Gönüllü çevirmen olun</a>.

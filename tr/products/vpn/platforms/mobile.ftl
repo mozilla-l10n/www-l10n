@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-mobile-page-title = Mobil cihazlar (akıllı telefonlar ve tabletler) için { -brand-name-mozilla-vpn }
+vpn-mobile-page-description = İnternette gizliliğin güvenilir öncüsü { -brand-name-mozilla }’nın VPN’iyle akıllı telefonunuzu ve tabletinizi koruyun.
 # Mobile strings
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizliliğinizi koruyun
 vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın

@@ -7,3 +7,4 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } ile Apple Safari Karşı Karşıya
+compare-safari-but-firefox-also-has-built-in = Ancak { -brand-name-firefox } şu yerleşik araçlara da sahiptir:
