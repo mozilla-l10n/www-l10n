@@ -7,6 +7,8 @@
 
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bilde-i-bilde: Få meir gjort med sprettut-videoar
+# HTML page description
+features-pip-got-things-to-do-and-things-to-watch = Har du noko å gjere og noko å sjå på? Dra nytte av bilde-i-bilde-funksjonen i { -brand-name-firefox }.
 features-pip-picture-in-picture = Bilde-i-bilde
 features-pip-new-feature-firefox-multi-picture = Ny funksjon: { -brand-name-firefox } multi-bilde-i-bilde
 features-pip-cool-feature-picture-in-picture = Kul funksjon: Bilde-i-bilde

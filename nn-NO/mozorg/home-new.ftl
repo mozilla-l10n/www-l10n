@@ -13,6 +13,7 @@ home-were-not-normal = Vi er ikkje eit vanleg teknologiføretak. Det som vi laga
 home-the-health-of = «Helsa til internett og livet på nettet er grunnen til at vi eksisterer.»
 # Obsolete string
 home-mitchell-baker = Mitchell Baker, dagleg leiar i { -brand-name-mozilla }
+home-mitchell-baker-v2 = Mitchell Baker, dagleg leiar, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekterer personvernet
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-cta-get-firefox = Last ned { -brand-name-firefox }
