@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Lege le <a { $url }>notas de version</a> pro saper p
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Lege le <a href="{ $url }">notas de version</a> pro saper plus sur le novitates in tu navigator { -brand-name-firefox }.
 whatsnew-signoff = <strong>Per le technologia { -brand-name-mozilla }.</strong> Anteponente al profitos le personas desde le 1998.
+whatsnew-donate-to-mofo = Donar al { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Gratias pro haber eligite { -brand-name-firefox }
