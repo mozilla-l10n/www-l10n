@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Darllenwch y <a { $url }>Nodiadau Rhyddhau</a> i wyb
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Darllenwch y <a href="{ $url }">Nodiadau Ryddhau</a> i wybod rhagor am yr hyn sy'n newydd yn eich porwr { -brand-name-firefox }.
 whatsnew-signoff = <strong>Wedi'i bweru gan { -brand-name-mozilla }.</strong> Rhoi pobl cyn elw ers 1998.
+whatsnew-donate-to-mofo = Rhowch i'r { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Diolch am ddewis { -brand-name-firefox }
