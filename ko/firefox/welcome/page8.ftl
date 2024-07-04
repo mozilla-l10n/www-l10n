@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -15,7 +15,7 @@ welcome-page8-view-your-protection-report = 보호 대시보드 자세히 알아
 welcome-page8-enhanced-tracking-protection = 향상된 추적 방지 기능
 welcome-page8-automatically-block-sites = 인터넷 상에서 사이트가 따라오지 못하도록 자동으로 차단합니다.
 welcome-page8-see-whats-blocked = 차단 된 내용보기
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = 온라인 데이터가 유출 됐는지 알아보고 해결하기 위한 조치를 취하세요.
 welcome-page8-go-to-monitor = { -brand-name-monitor }로 이동하기
 welcome-page8-firefox-send = { -brand-name-firefox-send }

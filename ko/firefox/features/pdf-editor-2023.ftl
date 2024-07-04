@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
 
-features-shared-footer-cta-button = { -brand-name-firefox } 다운로드
+# Short title used in the subnav
+pdf-editor-pdf-editor = PDF 편집기

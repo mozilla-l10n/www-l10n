@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -14,7 +14,7 @@ legal-special-thanks-to-all-of-you = { -brand-name-mozilla } 상표권 남용신
 legal-terms = 이용 약관
 legal-our-websites = 웹 사이트
 legal-firefox-services = { -brand-name-firefox } 서비스
-legal-webmaker = { -brand-name-webmaker }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = 개인정보 및 상표권
 legal-privacy-notices-and-policy = 개인정보 고지 및 정책
 legal-downloadable-software-notices = 소프트웨어 고지문 다운로드
@@ -23,3 +23,9 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = 웹사이트 및 커뮤니케이션 약관
 legal-acceptable-use-policy = 이용 정책
 legal-firefox-cloud-services = { -brand-name-firefox } Cloud Services: 서비스 약관
+legal-firefox-better-web = { -brand-name-firefox-better-web }
+legal-firefox-better-web-terms = { -brand-name-firefox-better-web } 서비스 약관
+legal-firefox-relay-terms = { -brand-name-firefox-relay } 서비스 약관
+legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } 서비스 약관
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = { -brand-name-mdn-plus } 서비스 약관

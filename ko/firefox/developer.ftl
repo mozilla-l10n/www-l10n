@@ -10,6 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = 새로운 웹 브라우저에 오신 것을 환영합니다. 최신 기능, 빠른 성능 및 열린 웹을 위해 구축해야하는 개발 도구를 살펴 보세요.
 firefox-developer-speak-up = 피드백
@@ -56,15 +58,11 @@ firefox-developer-inactive-css = 비활성 CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 새로운 { -brand-name-firefox-devtools }는 강력하고 유연하며 모든 것을 분석 가능합니다. 여러 브라우저를 지원하고 React 및 Redux로 작성된 동급 최고의 JavaScript 디버거를 포함합니다.
 firefox-developer-master-css-grid = 마스터 CSS 그리드
-firefox-developer-next-gen-css-engine = 차세대 CSS 엔진
-firefox-developer-a-next-generation = 차세대 CSS 엔진
 firefox-developer-master-innovative-features = 혁신 기능
 firefox-developer-want-to-be-on-the-cutting-edge = 신규 기능
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly }를 통해 매일 업데이트를 통해 최신 기능을 경험해 볼 수 있습니다.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum }는 Rust로 재작성된 차세대 CSS 엔진으로 현재로서 최고의 속도를 보여 줍니다.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox }는 마스터 CSS Grid를 사용하여 제작하고 설계하기 위해 특별히 제작한 도구가 있는 유일한 브라우저입니다. 이 도구를 사용하면 그리드를 시각화하고, 관련 영역 이름을 표시하며 그리드에서 변형을 미리 볼 수 있습니다.
 firefox-developer-convenient-features = 편리한 기능
-firefox-developer-faster-performance = 빠른 성능
 firefox-developer-shapes-editor = 도형 편집기
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }은 아주 쉽게 보면서 정밀하게 편집할 수 있는 편집기를 제공해서 shape-outside와 clip-path 모양을 미세 조정하지 않고도 적용할 수 있는 새로운 모양 경로 편집기를 제공합니다.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools }은 아주 쉽게 보면서 정밀하게 편집할 수 있는 편집기를 제공해서 shadow-outside와 clip-path 모양을 미세 조정하지 않고도 적용할 수 있는 새로운 모양 경로 편집기를 제공합니다.
@@ -73,10 +71,9 @@ firefox-developer-fonts-panel = 글꼴 패널
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }의 새 글꼴 패널은 한 요소에 어떤 글꼴이 사용되었는지에 관한 정보에 빠르게 접근할 수 있게 해줍니다. 이 도구는 글꼴 출처, 굵기, 스타일 등 여러 정보를 같이 제공합니다.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }은 자동적으로 { -brand-name-mozilla }에 사용 의견을 전송합니다.
 firefox-developer-download-the-firefox-browser = 개발자를 위한 { -brand-name-firefox } 브라우저 다운로드
-firefox-developer-welcome-to-the-all-new = { -brand-name-firefox-quantum }에 오신 것을 환영합니다: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }는 더  빠르고, 유연하고, 강력해졌습니다.
-firefox-developer-congrats-you-now-have-firefox = 축하합니다! { -brand-name-firefox-quantum }: { -brand-name-developer-edition }을 받으셨습니다.
-firefox-developer-this-isnt-just-an-update = 단순 업데이트가 아닌 최신 { -brand-name-firefox } { -brand-name-firefox-quantum }  브라우저입니다. 초기부터 새로 만들어진 더 빠른 브라우저입니다.
 firefox-developer-made-for-developers = 개발자를 위한 브라우저
-firefox-developer-congrats-you-now-have = 축하합니다! 지금부터 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용할 수 있습니다.
+# Obsolete string (expires: 2024-05-14)
 firefox-developer-congrats-you-now-have-latest = 축하합니다! 가장 최신 버전의 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용중입니다!
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

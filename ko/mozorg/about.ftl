@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -23,6 +23,7 @@ about-toronto = 토론토
 about-work-at-mozilla = { -brand-name-mozilla }에서 일하기
 about-mozilla-careers = { -brand-name-mozilla } 채용
 about-how-you-can-help = 도울 수 있는 방법
+about-get-involved = 참여하기
 
 ## Newsletter
 

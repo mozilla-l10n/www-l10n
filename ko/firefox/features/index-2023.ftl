@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-footer-cta-button = { -brand-name-firefox } 다운로드
+features-index-bookmark-manager = 북마크 관리자

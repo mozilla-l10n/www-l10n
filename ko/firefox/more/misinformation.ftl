@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-subheading = 잘못된 정보를 줄이고 중요한 사항에 집중하기위한 팁을 확인하세요.
 misinformation-what-is-heading = 잘못된 정보란 무엇입니까? 허위 정보란 무엇입니까?
 misinformation-social-media-clean-heading = { -brand-name-firefox }는 소셜 미디어 피드를 깨끗히 유지하도록 도움을 줍니다.
