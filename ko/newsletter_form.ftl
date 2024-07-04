@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = 유효한 이메일 주소를 입력해 주세요.
 newsletter-form-you-must-agree-to = 개인정보처리방침에 동의해야 합니다.
@@ -8,10 +8,8 @@ newsletter-form-your-email-address = 이메일 주소
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 국가 또는 지역을 선택하십시오
+newsletter-form-select-language = 언어 선택
 newsletter-form-your-email-here = 이메일 주소 입력
-newsletter-form-format = 형식
-newsletter-form-html = HTML
-newsletter-form-text = 텍스트
 newsletter-form-get-firefox-news = { -brand-name-firefox } 뉴스레터
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -31,3 +29,5 @@ newsletter-form-thanks = 감사합니다!
 newsletter-form-leave-this-field-empty = 이 필드는 남겨 둡니다.
 newsletter-form-yes = 네
 newsletter-form-no = 아니오
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

@@ -12,7 +12,6 @@ vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { 
 vpn-download-sub-heading = 한 번의 구독으로 최대 { $devices }개의 기기에 { -brand-name-mozilla-vpn }을 다운로드할 수 있습니다.
 vpn-download-not-available-in-country = 죄송합니다. 귀하의 국가에서는 { -brand-name-mozilla-vpn }을 다운로드할 수 없습니다.
 vpn-download-button-copy = 다운로드
-vpn-download-for-windows = { -brand-name-windows } 10/11용 VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64비트 전용)
 vpn-download-for-mac = { -brand-name-mac-short }용 VPN
 # Variables:
@@ -26,3 +25,4 @@ vpn-download-for-android = { -brand-name-android }용 VPN
 vpn-download-for-ios = { -brand-name-ios }용 VPN
 vpn-download-get-on-google-play = { -brand-name-google-play }에서 받기
 vpn-download-get-on-app-store = { -brand-name-app-store }에서 받기
+vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
