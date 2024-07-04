@@ -16,7 +16,7 @@ compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } 的�
 compare-chrome-we-block-trackers-by-default = 我們預設會封鎖追踪器。 Chrome 不會。
 compare-chrome-in-fact-by-default-chrome-monitors = 實際上Chrome預設情況下會監控您造訪了哪些網站、您做了哪些事以便找出「廣告主題」送出更有針對性的廣告。您可以封鎖三個主題但無法讓它們停止為您識別其他主題的廣告。
 compare-chrome-chrome-allows-other-websites-to = Chrome 允許其他網站收集關於您的資訊以便提供廣告建議。您可以封鎖特定網站讓其提供廣告建議但無法停止其他網站為您提供廣告或資料收集。
-compare-chrome-google-runs-the-worlds-largest = Google 經營著全球最大的廣告網Chrome 也是其中的一員。
+compare-chrome-google-runs-the-worlds-largest = Google 經營全球最大的廣告網，Chrome 也是其中的一員。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
 compare-chrome-switching-to-firefox-is-easy = 切換到 { -brand-name-firefox } 簡單又快速。只要一點即可匯入您的 Chrome 書籤、密碼、瀏覽紀錄、偏好設定立刻開始使用 { -brand-name-firefox }。了解<a { $howto }>如何從 Chrome 切換到 { -brand-name-firefox }</a>。

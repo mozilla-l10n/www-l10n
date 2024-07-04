@@ -13,7 +13,7 @@ compare-shared-we-also-offer-easy = 我們也提供簡單好用的功能，例�
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 也有內建的工具，例如：
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
-compare-shared-edit-pdfs-on-the-go = 不需要額外的軟體就可以在 { -brand-name-firefox } 瀏覽器視窗<a { $pdf }>編輯 PDF</a>。
+compare-shared-edit-pdfs-on-the-go = 不需要額外的軟體就可以在 { -brand-name-firefox } 瀏覽器視窗中<a { $pdf }>編輯 PDF 檔案</a>。
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = 在本機用保護隱私的方式<a { $translate }>翻譯網頁</a>。

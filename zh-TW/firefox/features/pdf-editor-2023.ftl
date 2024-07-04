@@ -10,7 +10,7 @@ pdf-editor-pdf-editor = PDF 編輯器
 # Obsolete string (expires: 2024-06-17)
 pdf-editor-add-text-to-pdfs = 使用 { -brand-name-firefox } PDF 編輯器為 PDF 加上文字
 # page title
-pdf-editor-add-text-to-pdfs-v2 = 免費使用 { -brand-name-firefox } PDF 編輯器編輯 PDF
+pdf-editor-add-text-to-pdfs-v2 = 使用 { -brand-name-firefox } PDF 編輯器，免費編輯 PDF 檔案
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = 直接在 { -brand-name-firefox } 檢視與編輯 PDF 檔案。
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = 若您需要加入東西到 PDF 文件，現在可以透過 { -brand-name-firefox } 直接在電腦上完成。使用 { -brand-name-firefox } 開啟 PDF 並點擊右上角的「文字」或「繪圖」按鈕來修改文件，然後再下載檔案即可儲存編輯後的內容。
