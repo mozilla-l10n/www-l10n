@@ -29,3 +29,4 @@ features-index-ad-tracker-blocking = Blokkering av annonsesporarar
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer automatisk over 2000 annonsesporarar frå å samle informasjon om kva du gjer på nettet.
 features-index-translate-the-web = Omset nettet
 features-index-picture-in-picture = Bilde-i-bilde
+features-index-got-things-to-do = Har du noko å gjere og noko å sjå på? Dra nytte av bilde-i-bilde-funksjonen i { -brand-name-firefox }.
