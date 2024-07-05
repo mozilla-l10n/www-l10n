@@ -3,14 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
-# HTML page title
-firefox-browsers-get-the-browsers-that-put = පෞද්ගලිකත්‍වයට මුල් තැන දෙන අතිරික්සු ගන්න — සහ සැමවිට තිබෙන
-# HTML page description
-firefox-browsers-get-the-privacy-you-deserve = ඔබට යෝග්‍ය පෞද්ගලිකත්‍වය ලබා ගන්න. සියළුම { -brand-name-firefox } අතිරික්සුවල වැඩිදියුණු කළ ලුහුබැඳීමේ රැකවරණය ස්වයංක්‍රීයයි.
+# Obsolete string
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = පෞද්ගලිකත්‍වයට මුල් තැන දෙන <strong>අතිරික්සු</strong> ගන්න — සහ සැමවිට තිබෙන
+firefox-browsers-get-the-browsers-strong = පෞද්ගලිකත්‍වයට මුල් තැන දෙන — සහ සැමවිට තිබෙන <strong>අතිරික්සු</strong> ගන්න
 firefox-browsers-desktop = වැඩතලය
 firefox-browsers-seriously-private-browsing = නිත්‍ය පෞද්ගලික පිරික්සීමකට. අන්තර්ජාල ක්‍රියාකාරකම් ගැන තොරතුරු රැස් කරන මාර්ගගත ලුහුබැඳීම් 2000+ ස්වයංක්‍රීයව { -brand-name-firefox } මගින් අවහිර කරයි.
 firefox-browsers-download-for-desktop = වැඩතලය සඳහා බාගන්න
@@ -23,11 +20,6 @@ firefox-browsers-get-unmatched-data-protection = ඔබගේ සමාගමේ
 firefox-browsers-enterprise-packages = { -brand-name-enterprise } ඇසුරුම්
 firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-learn-more-about-devtools = { -brand-name-devtools } ගැන තව දැනගන්න
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox } සමඟ එක් වී සියළුම නිෂ්පාදනවල උපරිම ප්‍රයෝජනය — ඕනෑම උපාංගයකින් අත්විඳින්න.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = දැනටමත් ගිණුමක් තිබේද? <a { $fxa_attr }>පිවිසෙන්න</a> හෝ ෆයර්ෆොක්ස් වෙත එක්වීම ගැන <a { $accounts_attr }>තව දැන ගන්න</a>.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
