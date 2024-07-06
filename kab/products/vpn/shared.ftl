@@ -92,6 +92,7 @@ vpn-shared-platform-cta-button = Wali ssuma & tilin
 vpn-shared-platform-privacy-promise = Aqader n tudert-ik·im tabaḍnit d lεehd-nneɣ
 vpn-shared-platform-trust-partner-headline = Γef umendid-nneɣ yettwattkalen
 vpn-shared-platform-what-is = D acu-t { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Ayɣer { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -113,6 +114,8 @@ vpn-subnav-whats-an-ip-address = D acu-tt tansa IP?
 vpn-subnav-when-to-use-a-vpn = Melmi ara tesqedceḍ VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Apṛuksi
 vpn-subnav-subscribe = Multeɣ ɣer { -brand-name-mozilla-vpn }
+vpn-subnav-download-mozilla-vpn = Sader { -brand-name-mozilla-vpn }
+vpn-subnav-features = Timahilin
 
 ## VPN + Relay bundle offer
 
