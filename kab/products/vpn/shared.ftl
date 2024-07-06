@@ -9,9 +9,6 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Awi { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rnu ɣer tebdart n uṛaǧu
 vpn-shared-sign-in-link = Tmuletɣeḍ yakan?
-# Outdated string
-vpn-shared-available-countries-v4 = Nsummur-d akka tura { -brand-name-mozilla-vpn } deg Ustriya, Biljik, Kanada, Fṛansa, Lalman, Iṛland, Ṭelyan, Malizya, Huland, Ziland Tamaynut, Singapur, Spanya, Swis, UK akked Marikan.
-vpn-shared-available-countries-v5 = Nsummur-d akka tura { -brand-name-mozilla-vpn } deg Ustriya, Biljik, Kanada, Finlund, Fṛansa, Lalman, Iṛland, Ṭelyan, Malizya, Huland, Ziland Tamaynut, Singapur, Spanya, Swed, Swis, UK akked Marikan.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen deg 30 n wussan
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
@@ -60,23 +57,19 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } d tacreḍt yettwagen
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
 vpn-shared-pricing-variable-heading-v2 = Fren aɣawas n umulteɣ i yeddan yid-k·m
-# Outdated string
-vpn-shared-pricing-variable-heading = Fren aɣawas yeddan yid-k·m
+vpn-shared-one-subscription-heading = Yiwen umulteɣ i meṛṛa ibenkan-ik
+vpn-shared-choose-a-plan-sub-heading = Fren aɣawas yeddan yid-k·m
 vpn-shared-pricing-variable-sub-heading = Meṛṛa iɣawasen-nneɣ deg-sen:
 vpn-shared-pricing-recommended-offer = Yettuwelleh
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 wayyuren
-# Outdated string
-vpn-shared-pricing-plan-monthly = S waggur
+vpn-shared-pricing-plan-12-month-v2 = Aɣawas n 12 wayyuren
+vpn-shared-pricing-plan-monthly-v2 = Aɣawas n wayyur
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Awi aɣawas n 6 wayyuren
-# Outdated string
-vpn-shared-pricing-get-12-month = Awi aɣawas n 12 wayyuren
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Awi aɣawas n 6-wayyuren
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/ayyur +tax</span>
 vpn-shared-pricing-get-12-month-v2 = Awi aɣawas n 12-wayyuren
 vpn-shared-pricing-get-monthly = Awi aɣawas s wayyur
 # Variables:
@@ -98,6 +91,7 @@ vpn-shared-platform-cta-headline = Aha bdu
 vpn-shared-platform-cta-button = Wali ssuma & tilin
 vpn-shared-platform-privacy-promise = Aqader n tudert-ik·im tabaḍnit d lεehd-nneɣ
 vpn-shared-platform-trust-partner-headline = Γef umendid-nneɣ yettwattkalen
+vpn-shared-platform-what-is = D acu-t { -brand-name-mozilla-vpn }?
 # Variables:
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -120,11 +114,6 @@ vpn-subnav-when-to-use-a-vpn = Melmi ara tesqedceḍ VPN
 vpn-subnav-vpn-vs-proxy = VPN vs Apṛuksi
 vpn-subnav-subscribe = Multeɣ ɣer { -brand-name-mozilla-vpn }
 
-## VPN Affiliate cookie notice
-
-vpn-shared-affiliate-notification-reject = Agi
-vpn-shared-affiliate-notification-ok = IH
-
 ## VPN + Relay bundle offer
 
 # Variables:
@@ -132,5 +121,8 @@ vpn-shared-affiliate-notification-ok = IH
 vpn-shared-add-firefox-relay = Rnu <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
 vpn-shared-get-vpn-plus-relay = Awi { -brand-name-vpn } + { -brand-name-relay }
 
-##
+## Press quotations
+
+
+## Unsupported language notification
 
