@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
 
-features-shared-footer-cta-button = { -brand-name-firefox } 다운로드
-features-shared-picture-in-picture = 화면 속 화면
+# HTML page title and main title
+vpn-ip-address-what-is-an-ip-address = IP 주소란 무엇인가요?

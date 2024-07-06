@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = 자주 묻는 질문

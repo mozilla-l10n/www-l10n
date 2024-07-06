@@ -8,12 +8,14 @@
 
 ## Page heading
 
+contribute-page-title = { -brand-name-mozilla }에서의 자원봉사 기회
 
 ## Contribution tasks
 
 contribute-tag-non-technical = 비기술적
 contribute-tag-technical = 기술적
 contribute-tag-technical-non-technical = 기술적 및 비기술적
+contribute-tag-individual-event = 개인 및 행사 조직
 contribute-tag-individual = 개인
 contribute-tag-support = 도움말
 contribute-task-translate-heading = 번역하기
@@ -26,6 +28,7 @@ contribute-learn = { -brand-name-mozilla }에 대해 알아보기
 contribute-find-event = 이벤트 찾기
 contribute-donate = 기부
 contribute-follow-mozilla = { -brand-name-mozilla } 팔로우
+contribute-opportunities = 뉴스 및 자원봉사 기회
 
 ## Made by
 
