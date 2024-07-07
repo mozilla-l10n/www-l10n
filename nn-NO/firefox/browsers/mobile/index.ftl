@@ -7,13 +7,9 @@
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
+browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobil tilpassar seg etter deg og gjer det enklare enn nokon gong å sjå alle opne faner, tidlegare søk, og favorittnettatsdar.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-compare-mobile-browsers = Samanlikn mobilnettlesarar
 browsers-mobile-compare = Samanlikn
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = Har du allereie ein konto? <a { $fxa_attr }>Logg inn</a> eller <a { $accounts_attr }>les meir</a> om å bli med i { -brand-name-firefox }.
 browsers-mobile-download = Last ned
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
