@@ -13,6 +13,7 @@ features-index-firefox-keeps-getting-faster = { -brand-name-firefox } vert heile
 # Obsolete string
 features-index-is-firefox-a-fast-browser = Er { -brand-name-firefox } ein rask nettlesar?
 features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } ein privat nettlesar?
+features-index-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet, ditt liv på nettet vert verna med { -brand-name-firefox }.
 features-index-free-password-manager = Gratis passordhandsamar
 features-index-customize-your-firefox-browser = Tilpass { -brand-name-firefox }-nettlesaren din
 features-index-choose-how-your-browser-looks = Vel korleis nettlesaren din skal sjå ut med tusenvis av gratis tema.

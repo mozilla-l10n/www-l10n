@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = Er { -brand-name-firefox } ein privat nettlesar?
+# HTML description
+features-private-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet, ditt liv på nettet vert verna med { -brand-name-firefox }.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
 features-private-yes-firefox-protects-your = Ja, { -brand-name-firefox } tek vare på personvernet dittt med funksjonar som <a href="{ $url }">Privat surfing</a>. Han lèt deg halde nettlesarhistorikken din og passorda dine privat, sjølv når du brukar ei eining som du deler med andre, til dømes ei heimedatamaskin eller ein { -brand-name-ipad }.

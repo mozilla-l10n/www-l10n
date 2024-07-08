@@ -12,3 +12,4 @@ firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-n
 firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Vi meinar at alle skal ha tillgang til internett — det er difor vi gjer { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk med hjelp av av engasjerte friviljuge rundt om i verda.
 firefox-more-translate-the-web = Omset nettet
+firefox-more-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet, ditt liv på nettet vert verna med { -brand-name-firefox }.
