@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-shared-compare-firefox = { -brand-name-firefox } összehasonlítása
+compare-shared-compare-firefox = A { -brand-name-firefox } összehasonlítása
 compare-shared-footer-cta-title = Végezzen el több mindent a { -brand-name-firefox(case: "instrumental") }
 compare-shared-footer-cta-desc = Szerezze be a gyors, könnyű, adatvédelem-központú böngészőt, amelyet egy nonprofit szervezet támogat, és az összes eszközén működik.
 compare-shared-footer-cta-button = { -brand-name-firefox } letöltése

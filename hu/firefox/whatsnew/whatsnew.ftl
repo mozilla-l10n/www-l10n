@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Olvassa el a <a { $url }>kiadási megjegyzéseket</a
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Olvassa el a <a href="{ $url }">Frissítés részleteit</a>, amelyből még több információt kaphat a { -brand-name-firefox } böngésző újdonságairól.
 whatsnew-signoff = <strong>A { -brand-name-mozilla } támogatásával.</strong> Az emberek a profit elé helyezése, 1998 óta.
+whatsnew-donate-to-mofo = Adományozzon a { -brand-name-mozilla-foundation }nak
+whatsnew-thanks-for-choosing = Köszönjük, hogy a { -brand-name-firefox(case: "accusative") } választotta
