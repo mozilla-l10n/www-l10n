@@ -11,6 +11,9 @@ compare-shared-footer-cta-desc = Kâr amacı gütmeyen bir kuruluş tarafından 
 compare-shared-footer-cta-button = { -brand-name-firefox }’u indir
 compare-shared-we-also-offer-easy = Ayrıca kullanımı kolay özellikler sunuyoruz:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ayrıca şu yerleşik araçlara da sahiptir:
+# Variables
+# $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
+compare-shared-edit-pdfs-on-the-go = Ek bir yazılıma ihtiyacınız olmadan { -brand-name-firefox } tarayıcınızdan <a { $pdf }>PDF’lerinizi düzenleyebilirsiniz</a>.
 compare-shared-its-easy-to-switch = Tarayıcınızı değiştirmek çok kolay
 # Used as a small link to a cited source
 compare-shared-source = kaynak
