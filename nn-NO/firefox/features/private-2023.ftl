@@ -12,3 +12,8 @@ features-private-yes-firefox-protects-your = Ja, { -brand-name-firefox } tek var
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } tek òg vare på personvernet ditt med <a href="{ $url }">Forbetra sporningsvern</a> for å blokkere sporarar som følgjer deg frå nettstad til nettstad og samlar inn informasjon om surfevanane dine. Han inneheld òg vern mot skadelege skript og skadeleg programvare.
+features-private-sidenote-we-are-not-big-tech = <em>Merk:</em> Vi er ikkje big tech. Vi gjer ting annleis. Ved å vere uavhengige (ingen aksjeeigarar) kan vi sette folk først, før profitt. Til skilnad frå andre føretak sel vi ikkje tilgang til dine data.
+features-private-what-information-does-firefox = Kva for informasjon samlar { -brand-name-firefox } inn?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (produsenten av { -brand-name-firefox }) tek personvern på største alvor. <strong>Svært alvorleg</strong>. Faktum er at kvart { -brand-name-firefox }-produkt vi lagar heidrar <a href="{ $url }">løftet vårt om personlege opplysningar</a>: Ta mindre. Hald det trygt. Ingen løyndommar.
