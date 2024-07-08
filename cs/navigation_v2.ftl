@@ -10,6 +10,7 @@ navigation-v2-menu = Nabídka
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Zavřít nabídku { -brand-name-firefox-browsers(case: "gen", capitalization: "lower") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pro počítač
 navigation-v2-get-the-not-for-profit-backed = Používejte prohlížeč od neziskové organizace, dostupný pro { -brand-name-windows(case: "acc") }, { -brand-name-mac-short(case: "acc") } i { -brand-name-linux(case: "acc") }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") }
@@ -27,7 +28,7 @@ navigation-v2-view-all-firefox-browsers = Zobrazit všechny { -brand-name-firefo
 ## Products menu
 
 navigation-v2-products = Produkty
-navigation-v2-close-products-menu = Zavřít
+navigation-v2-close-products-menu = Zavřít nabídku produktů
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Zkontrolujte si, zda se váš e-mail neobjevil v nějakém úniku dat.
 navigation-v2-pocket = { -brand-name-pocket }
@@ -48,7 +49,7 @@ navigation-v2-use-ai-to-detect = Využijte AI k odhalení falešných recenzí a
 ## Who We Are menu
 
 navigation-v2-who-we-are = Kdo jsme
-navigation-v2-close-who-we-are-menu = Zavřít
+navigation-v2-close-who-we-are-menu = Zavřít nabídku o nás
 navigation-v2-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-the-values = Zjistěte o hodnotách a principech, které určují naši misi.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
@@ -66,7 +67,7 @@ navigation-v2-more-about-mozilla = Více o { -brand-name-mozilla(case: "loc") }
 ## Innovation menu
 
 navigation-v2-innovation = Inovace
-navigation-v2-close-innovation-menu = Zavřít
+navigation-v2-close-innovation-menu = Zavřít nabídku inovací
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Stáhněte si verzi { -brand-name-firefox(case: "gen") } vytvořenou přímo pro vývojáře.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
