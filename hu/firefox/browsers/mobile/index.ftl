@@ -24,7 +24,7 @@ browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Nézze meg, hogyan áll 
 # Obsolete string (expires 30 June 2024)
 browsers-mobile-see-how-firefox-for-desktop-stacks = Nézze meg, hogy az asztali { -brand-name-firefox } hogyan áll hét népszerű egyéb böngészővel szemben.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Nézze meg, hogy az <strong>asztali</strong> { -brand-name-firefox } hogyan áll a többi böngészőhöz képest.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Nézze meg, hogyan áll az <strong>asztali</strong> { -brand-name-firefox } a többi böngészőhöz képest.
 # Obsolete string (expires 30 June 2024)
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong = Nézze meg, hogy az <strong>asztali</strong> { -brand-name-firefox } hogyan áll hét népszerű egyéb böngészővel szemben.
