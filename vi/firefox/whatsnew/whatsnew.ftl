@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Hãy đọc <a { $url }>ghi chú phát hành</a> đ�
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Đọc <a href="{ $url }">ghi chú phát hành</a> để cập nhật thông tin trong trình duyệt { -brand-name-firefox } của bạn.
 whatsnew-signoff = <strong>Được cung cấp bởi { -brand-name-mozilla }.</strong> Đặt mọi người lên trên lợi nhuận từ 1998.
+whatsnew-donate-to-mofo = Quyên góp cho { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Cảm ơn bạn đã chọn { -brand-name-firefox }
