@@ -62,3 +62,5 @@ download-button-linux-64-v2 = Letöltés 64 bites Linuxra
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Debiant, Ubuntut vagy bármely más Debian-alapú disztribúciót használ?<br> Ehelyett beállíthatja az <a { $attrs }>APT-tárolónkat</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Szerezze be a Microsofttól
