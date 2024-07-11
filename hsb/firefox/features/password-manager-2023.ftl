@@ -9,6 +9,7 @@
 password-manager-free-password-manager = Darmotny zrjadowak hesłow
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Zrjadowak hesłow { -brand-name-firefox } waše hesła na jednym městnje składuje, zo byšće móhł so awtomatisce pola sydłow přizjewić abo składowane hesła wotwołać.
+password-manager-password-autofill-for-easy-logins = Awtomatiske wupjelnjenje hesłow za lochke přizjewjenja
 password-manager-import-passwords = Hesła importować
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importoweho asistenta { -brand-name-firefox }, kotryž nastajenja za importowanje nastajenjow a datow z druhich wobhladowakow pokazuje.

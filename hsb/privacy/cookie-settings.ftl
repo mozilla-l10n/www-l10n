@@ -23,6 +23,7 @@ cookie-settings-category-necessary-what-are-subheading = Što su trěbne placki?
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Nastajenje
+cookie-settings-category-preference-what-are-subheading = Što su placki nastajenjow?
 
 ## Analytics cookies section
 
