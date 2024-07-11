@@ -24,8 +24,6 @@ firefox-more-firefox-chromebook = متصفح { -brand-name-firefox-browser } ل�
 firefox-more-while-on-chromebook = بينما يأتي { -brand-name-chromebook } مثبتًا عليه إصدار { -brand-name-chrome }، فإن تنزيل واستخدام { -brand-name-firefox } أثناء التنقل يوفر لك عدة ميزات.
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = كان { -brand-name-firefox-quantum } بمثابة ثورة في تطور { -brand-name-firefox }. فقد تم إطلاقه في عام 2017، ليكون مُتصفحًا جديدًا وسريعًا يتحسن باستمرار. { -brand-name-firefox-quantum } هو { -brand-name-firefox-browser }.
-firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = قم بالوصول إلى الإشارات المرجعية وكلمات السرّ وعلامات التبويب المفتوحة والمزيد ومزامنتها — من أي مكان تستخدم فيه { -brand-name-firefox }.
 we-believe-everyone = نعتقد أنه يجب أن يُتاح للجميع إمكانية الوصول إلى الإنترنت — ولهذا نوفر { -brand-name-firefox-browser } بأكثر من 90 لغة بمساعدة متطوعين متخصصين من جميع أنحاء العالم.
 firefox-fights-for = متصفّ { -brand-name-firefox } يحارب بالوكالة عنك على { -brand-name-windows }
 easy-migration-of = سهولة ترحيل التفضيلات والإشارات المرجعية عند تنزيل { -brand-name-firefox } لـ { -brand-name-windows }.
@@ -44,23 +42,8 @@ six-of-the-best = مقارنة مباشرة بين ستة من أفضل المت
 # Obsolete string
 we-compare-firefox = نقارن { -brand-name-firefox } مع { -brand-name-chrome }، و{ -brand-name-edge }، و{ -brand-name-safari }، و{ -brand-name-opera }، و{ -brand-name-brave }، و{ -brand-name-ie } لمساعدتك في اتخاذ قرارك.
 
-we-compare-firefox-v2 = نقارن فيما يلي { -brand-name-firefox } مع Chrome و Edge و Safari و Opera و Brave وذلك لنساعدك في اتخاذ قرارك.
-comparing-firefox-chrome = مقارنة { -brand-name-firefox-browser } مع { -brand-name-google } { -brand-name-chrome }
-big-isnt-always = الأضخم ليس بالضرورة هو الأفضل. اختر الاستقلالية بديلاً عمليًا.
-comparing-firefox-brave = مقارنة مُتصفح { -brand-name-firefox-browser } بمتصفح { -brand-name-brave }
-be-bold-and = كن جريئًا وشجاعًا عند اختيار المتصفح المناسب لك.
-comparing-firefox-edge = مقارنة { -brand-name-firefox-browser } مع { -brand-name-microsoft } { -brand-name-edge }
-youll-never-guess = لن تخمن أبدًا أي متصفح لديه الأفضلية عندما يتعلق الأمر بالسرعة والميزات.
 comparing-firefox-ie = مقارنة { -brand-name-firefox-browser } مع { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = العادات القديمة تموت بصعوبة ومع ذلك، ستشعُر بالفارق عندما تتخذ هذه الخطوة.
-comparing-firefox-safari = مقارنة { -brand-name-firefox-browser } مع { -brand-name-apple } { -brand-name-safari }
-you-dont-have = لست مضطرًا أن يكون لديك متصفحًا افترضيًا لمتصفحك القياسي.
-comparing-firefox-opera = مقارنة { -brand-name-firefox-browser } مع { -brand-name-opera }
-be-free-to = أنت حرّ في ترديد الثناء عن { -brand-name-firefox } متى أردت ذلك.
-the-ad-blocker = داة حظر إعلانات – سلاح سري ضد الإعلانات المزعجة.
-so-many-ads = إعلانات كثير، مع قليل من الصبر … حان الوقت لوقف الجنون.
-firefox-more-protection = { -brand-name-firefox }: حماية أكثر. مخاوف أقل.
-were-obsessed-with = إننا ملتزمون بحماية خصوصيتك على الإنترنت. ومن ثمّ فإننا قد طوَّرنا ميزة التصفح الخاص في { -brand-name-firefox } وجعلناها أكثر قوة وفاعلية من غيرها.
 incognito-browser-what = متصفّح Incognito: ما المقصود
 firefox-calls-it = يسميه { -brand-name-firefox } التصفح الخاص، ويسميه { -brand-name-chrome } وضع incognito كلاهما يتيح لك تصفح الويب دون حفظ محفوظات الاستعراض الخاصة بك.
 
@@ -72,6 +55,3 @@ firefox-more-a-guide-to = دليل لعمليات تسجيل دخول وكلما
 firefox-more-more-and-more = المزيد والمزيد من الأشياء الحسّاسة والقيمة في حياتنا محمية بكلمات مرور.
 firefox-more-avoid-misinformation-heading = تجنّب المعلومات المغلوطة عبر الإنترنت – { -brand-name-firefox } هنا لمساعدتك.
 firefox-more-avoid-misinformation-desc = راجع التلميحات لرؤية معلومات مغلوطة أقل والتركيز على ما هو مُهم بالنسبة لك.
-
-firefox-more-is-firefox-a-private-browser = هل يحافظ متصفح { -brand-name-firefox } على الخصوصية؟
-firefox-more-were-focused-on-your-right-to = إننا نركز على حقك في الخصوصية.فبياناتك ونشاطاتك وأوقاتك على الإنترنت تكون محمية حين تستخدم متصفح { -brand-name-firefox }.

@@ -24,8 +24,6 @@ firefox-more-firefox-chromebook = { -brand-name-firefox-browser } untuk { -brand
 firefox-more-while-on-chromebook = Walaupun { -brand-name-chromebook } sudah terpasang { -brand-name-chrome }, mengunduh dan menggunakan { -brand-name-firefox } sebagai peramban utama memberi Anda beberapa keuntungan
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } merupakan sebuah revolusi dalam pengembangan { -brand-name-firefox }. Pada tahun 2017, kami membuat peramban baru dengan kecepatan kilat yang terus meningkat. { -brand-name-firefox-quantum } adalah { -brand-name-firefox-browser }.
-firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Akses dan sinkronkan markah, kata sandi, tab terbuka, dan lainnya — di mana pun Anda menggunakan { -brand-name-firefox }.
 we-believe-everyone = Kami yakin setiap orang harus memiliki akses ke internet — karena itu kami menyediakan { -brand-name-firefox-browser } dalam lebih dari 90 bahasa dengan bantuan relawan yang berdedikasi di seluruh dunia.
 firefox-fights-for = { -brand-name-firefox } berjuang untuk Anda di { -brand-name-windows }
 easy-migration-of = Mudahnya migrasi preferensi dan markah ketika Anda mengunduh { -brand-name-firefox } untuk { -brand-name-windows }.
@@ -44,23 +42,8 @@ six-of-the-best = Perbandingan langsung enam peramban terbaik
 # Obsolete string
 we-compare-firefox = Kami membandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, dan { -brand-name-ie } untuk membantu Anda membuat keputusan.
 
-we-compare-firefox-v2 = Kami membandingkan { -brand-name-firefox } dengan Chrome, Edge, Safari, Opera, dan Brave untuk membantu Anda membuat keputusan.
-comparing-firefox-chrome = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-google } { -brand-name-chrome }
-big-isnt-always = Besar tidak selalu yang terbaik. Pilih kebebasan sebagai gantinya.
-comparing-firefox-brave = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-brave }
-be-bold-and = Bersikaplah tegas dan berani ketika memilih peramban yang tepat untuk Anda.
-comparing-firefox-edge = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-microsoft } { -brand-name-edge }
-youll-never-guess = Anda tidak akan pernah tahu peramban mana yang lebih unggul dalam hal kecepatan dan fitur.
 comparing-firefox-ie = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Kebiasaan lama sulit dihilangkan tetapi Anda akan merasa lebih baik jika itu terjadi.
-comparing-firefox-safari = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-apple } { -brand-name-safari }
-you-dont-have = Anda tidak harus menggunakan peramban standar Anda.
-comparing-firefox-opera = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-opera }
-be-free-to = Bebas untuk menyanyikan pujian untuk { -brand-name-firefox } kapan pun Anda inginkan.
-the-ad-blocker = Pemblokir iklan – senjata rahasia melawan iklan yang mengganggu.
-so-many-ads = Begitu banyak iklan, sedikit kesabaran… Saatnya untuk menghentikan kegilaan ini.
-firefox-more-protection = { -brand-name-firefox }: Perlindungan lebih. Kurangi kekhawatiran.
-were-obsessed-with = Kami terobsesi untuk melindungi privasi Anda. Karena itulah kami membuat Penjelajahan Pribadi { -brand-name-firefox } yang lebih canggih daripada yang lain.
 incognito-browser-what = Peramban penyamaran: Apa arti sebenarnya
 firefox-calls-it = { -brand-name-firefox } menyebutnya penjelajahan pribadi, { -brand-name-chrome } menyebutnya mode penyamaran. Keduanya memungkinkan Anda menjelajahi web tanpa menyimpan riwayat penjelajahan Anda.
 
@@ -72,6 +55,3 @@ firefox-more-a-guide-to = Panduan untuk info masuk dan kata sandi yang lebih ama
 firefox-more-more-and-more = Semakin banyak hal sensitif dan berharga dalam hidup kita yang dilindungi oleh kata sandi.
 firefox-more-avoid-misinformation-heading = Hindari misinformasi daring – { -brand-name-firefox } hadir untuk membantu
 firefox-more-avoid-misinformation-desc = Lihat kiat-kiat bagaimana melihat lebih sedikit misinformasi dan fokus pada apa yang penting bagi Anda.
-
-firefox-more-is-firefox-a-private-browser = Apakah { -brand-name-firefox } peramban yang pribadi?
-firefox-more-were-focused-on-your-right-to = Kami berfokus pada hak Anda akan privasi. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
