@@ -52,7 +52,6 @@ navigation-browsers = ブラウザー
 navigation-close-browsers-menu = ブラウザーメニューを閉じる
 navigation-download = ダウンロード
 navigation-extensions = 拡張機能
-navigation-support = サポート
 navigation-privacy = プライバシー
 navigation-get-unmatched-data-protection = 所属組織に合ったリリース頻度で、業界随一のデータ保護を。
 navigation-made-with-respect = ユーザーのために開発

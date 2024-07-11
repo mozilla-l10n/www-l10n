@@ -52,7 +52,6 @@ navigation-browsers = Pelayar
 navigation-close-browsers-menu = Tutup menu Pelayar
 navigation-download = Muat turun
 navigation-extensions = Sambungan
-navigation-support = Bantuan
 navigation-privacy = Privasi
 navigation-get-unmatched-data-protection = Dapatkan perlindungan data yang terbaik untuk setiap kitaran terbitan yang sesuai dengan organisasi anda.
 navigation-made-with-respect = Dibangunkan dengan penuh rasa hormat

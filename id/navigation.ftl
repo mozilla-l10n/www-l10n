@@ -52,7 +52,6 @@ navigation-browsers = Peramban
 navigation-close-browsers-menu = Tutup menu Peramban
 navigation-download = Unduh
 navigation-extensions = Ekstensi
-navigation-support = Dukungan
 navigation-privacy = Privasi
 navigation-get-unmatched-data-protection = Dapatkan perlindungan data yang tak tertandingi dengan laju rilis yang sesuai dengan perusahaan Anda.
 navigation-made-with-respect = Dibuat dengan rasa hormat

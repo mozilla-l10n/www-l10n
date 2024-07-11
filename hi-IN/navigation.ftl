@@ -52,7 +52,6 @@ navigation-browsers = ब्राउज़र
 navigation-close-browsers-menu = ब्राउज़र मेन्यू बंद करें
 navigation-download = डाउनलोड करें
 navigation-extensions = एक्सटेंशन
-navigation-support = सपोर्ट
 navigation-privacy = निजता
 navigation-get-unmatched-data-protection = अपने ऑर्गनाइजेशन की ज़रूरत के हिसाब से, रिलीज़ किए जाने वाले अलग-अलग वर्ज़नों के लिए दमदार डेटा सुरक्षा पाएँ।
 navigation-made-with-respect = सम्मान से निर्मित
