@@ -11,11 +11,13 @@
 
 vpn-windows-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-windows } se ześěgujo…
+vpn-windows-go-to-your-downloads = Pśejźćo k swójomu zarědnikoju ześěgnjenjow a klikniśo dwójcy na dataju .msi.
 
 ## Mac download page
 
 vpn-mac-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-mac-short } se ześěgujo…
+vpn-mac-go-to-your-downloads = Pśejźćo k swójomu zarědnikoju ześěgnjenjow a klikniśo dwójcy na dataju .pkg.
 
 ## Shared strings
 

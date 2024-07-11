@@ -28,6 +28,7 @@ cookie-settings-category-preference-what-are-subheading = Co su cookieje nastaje
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analytika
+cookie-settings-category-analytics-what-are-subheading = Co su analytiske cookieje?
 
 ## Consent section
 
