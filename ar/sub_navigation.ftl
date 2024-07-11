@@ -24,13 +24,7 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } و{ -brand-name-developer-edition } لأجهزة الكمبيوتر
 sub-navigation-desktop-nightly = { -brand-name-nightly } لأجهزة الكمبيوتر
 sub-navigation-features = الميزات
-sub-navigation-support = الدعم
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-sub-navigation-add-ons = الوظائف الإضافية
-sub-navigation-faq = الأسئلة المتكررة
-sub-navigation-learn-more = اطّلِع على المزيد
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } للهواتف المحمولة
 
 sub-navigation-chromebook = { -brand-name-chromebook }

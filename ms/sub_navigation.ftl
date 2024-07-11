@@ -24,13 +24,7 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } & { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-features = Ciri-ciri
-sub-navigation-support = Bantuan
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-sub-navigation-add-ons = Tambahan
-sub-navigation-faq = Soalan Lazim
-sub-navigation-learn-more = Ketahui Lebih Lanjut
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } untuk Mudah Alih
 
 sub-navigation-chromebook = { -brand-name-chromebook }

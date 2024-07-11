@@ -24,13 +24,7 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } et { -brand-name-developer-edition } pour ordinateur
 sub-navigation-desktop-nightly = { -brand-name-nightly } pour ordinateur
 sub-navigation-features = Fonctionnalités
-sub-navigation-support = Assistance
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-sub-navigation-add-ons = Modules complémentaires
-sub-navigation-faq = FAQ
-sub-navigation-learn-more = En savoir plus
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pour mobile
 
 sub-navigation-chromebook = { -brand-name-chromebook }

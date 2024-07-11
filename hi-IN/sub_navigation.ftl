@@ -24,13 +24,7 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = डेस्कटॉप { -brand-name-beta } और { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = डेस्कटॉप { -brand-name-nightly }
 sub-navigation-features = फ़ीचर्स
-sub-navigation-support = सपोर्ट
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-sub-navigation-add-ons = ऐड-ऑन्स
-sub-navigation-faq = आम सवाल
-sub-navigation-learn-more = अधिक जानें
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = मोबाइल के लिए { -brand-name-firefox }
 
 sub-navigation-chromebook = { -brand-name-chromebook }

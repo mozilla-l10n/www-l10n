@@ -24,13 +24,7 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = デスクトップ用 { -brand-name-beta } & { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = デスクトップ用 { -brand-name-nightly }
 sub-navigation-features = 機能
-sub-navigation-support = サポート
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
 
-sub-navigation-add-ons = アドオン
-sub-navigation-faq = よくあるご質問
-sub-navigation-learn-more = もっと詳しく
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = モバイル用 { -brand-name-firefox }
 
 sub-navigation-chromebook = { -brand-name-chromebook }
