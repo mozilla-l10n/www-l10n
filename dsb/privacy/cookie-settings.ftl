@@ -23,6 +23,7 @@ cookie-settings-category-necessary-what-are-subheading = Co su trjebne cookieje?
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Nastajenje
+cookie-settings-category-preference-what-are-subheading = Co su cookieje nastajenjow?
 
 ## Analytics cookies section
 

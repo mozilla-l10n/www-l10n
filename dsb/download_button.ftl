@@ -58,3 +58,5 @@ download-button-linux-32 = { -brand-name-linux } ześěgnuś 32-bitowy
 download-button-linux-64 = { -brand-name-linux } ześěgnuś 64-bitowy
 download-button-linux-32-v2 = Za 32-bitowy Linux ześěgnuś
 download-button-linux-64-v2 = Za 64-bitowy Linux ześěgnuś
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Wobstarajśo se jen wót Microsoft

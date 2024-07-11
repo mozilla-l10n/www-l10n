@@ -8,5 +8,6 @@
 compare-shared-compare-firefox = Pśirownajśo { -brand-name-firefox }
 compare-shared-footer-cta-title = Cyńśo wěcej z { -brand-name-firefox }
 compare-shared-footer-cta-button = { -brand-name-firefox } ześěgnuś
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma teke zatwarjone rědy ako:
 # Used as a small link to a cited source
 compare-shared-source = žrědło

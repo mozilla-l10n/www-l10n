@@ -18,3 +18,5 @@ whatsnew-release-notes-v2 = Cytajśo <a { $url }>wersije informacije</a>, aby w�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Cytajśo <a href="{ $url }">wersije informacije</a>, aby wěcej wó nowych funkcijach a změnach w swójom wobglědowaku { -brand-name-firefox } zgónił.
+whatsnew-donate-to-mofo = Pósććo { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Źěkujomy se, až sćo { -brand-name-firefox } wubrał
