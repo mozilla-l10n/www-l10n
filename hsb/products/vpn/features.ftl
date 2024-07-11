@@ -44,3 +44,4 @@ vpn-features-flexible = Fleksibelny
 vpn-features-trustworthy = Dowěry hódny
 vpn-features-money-back = 30-dnjowska garantija wróćenja pjenjez
 vpn-features-we-never-log = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy
+vpn-features-built-transparently = Transparentnje we wotewrjenym žórle wuwity
