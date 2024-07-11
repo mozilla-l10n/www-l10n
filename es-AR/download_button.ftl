@@ -62,3 +62,5 @@ download-button-linux-64-v2 = Descargar para Linux 64 bits
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = ¿Usás Debian, Ubuntu o cualquier distribución basada en Debian?<br> Podés configurar nuestro <a { $attrs }>repositorio APT en su lugar</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Conseguilo de Microsoft
