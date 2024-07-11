@@ -62,3 +62,5 @@ download-button-linux-64-v2 = 下載 Linux 64 位元版本
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = 使用 Debian、Ubuntu 或任何以 Debian 為基礎的發行版嗎？<br>您可以設定我們的 <a { $attrs }>APT 倉庫</a>。
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = 從 Microsoft 取得
