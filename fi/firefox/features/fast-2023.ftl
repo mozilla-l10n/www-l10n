@@ -9,5 +9,8 @@ features-fast-is-firefox-the-fastest-browser = Onko { -brand-name-firefox } nope
 # HTML description
 features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } käyttää vähemmän muistia kuin Chrome, joten muut ohjelmasi voivat jatkaa toimintaansa huippunopeudella.
 features-fast-browse-faster = Selaa nopeammin
+# The odd punctuation here is meant to represent how a computer can run slow.
+features-fast-every-computer-program-you-run = Jokainen käyttämäsi tietokoneohjelma vie jonkin verran muistia. Jos tietokoneessasi on vähän muistia, tämä voi hidastaa…… merkittävästi…………. { -brand-name-firefox } pyrkii tasapainoon – se käyttää riittävästi muistia, jotta voit selata sujuvasti, ja jättää runsaasti muistia, jotta tietokone kykenee jouhevaan toimintaan.
 features-fast-multi-tasking-with-multiple-tabs = Tee enemmän useilla välilehdillä
+features-fast-firefox-is-a-multi-process-browser = { -brand-name-firefox } on usean prosessin selain, mikä tarkoittaa, että välilehdet pysyvät tuoreina, eikä niiden uudelleenlatautumisessa kestä ikuisuutta. 86 prosenttia lyhyemmällä viiveellä voit vaihtaa nopeasti välilehtien välillä, vaikka pieni sisäinen äänesi sanoisi, että sinulla on aivan liian monta välilehteä auki.
 features-fast-faster-gaming = Nopeampaa pelaamista
