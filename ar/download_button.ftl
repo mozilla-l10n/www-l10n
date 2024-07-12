@@ -71,3 +71,4 @@ download-button-linux-64-v2 = التنزيل لنظام Linux 64-bit
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = هل تستخدم دبيان أو أوبونتو أو أي توزيع قائم على دبيان؟<br> يُمكنك إعداد <a { $attrs }>مستودع APT بدلًا من ذلك</a>.
+

@@ -71,3 +71,4 @@ download-button-linux-64-v2 = Télécharger pour Linux 64 bits
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Vous utilisez Debian, Ubuntu ou une distribution dérivée de Debian ?<br> Vous pouvez installer notre <a { $attrs }>dépôt APT</a>.
+

@@ -71,3 +71,4 @@ download-button-linux-64-v2 = Unduh untuk Linux 64-bit
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Apakah Anda menggunakan Debian, Ubuntu, atau distribusi berbasis Debian lainnya?<br> Anda dapat menyiapkan <a { $attrs }>repositori APT sebagai gantinya</a>.
+
