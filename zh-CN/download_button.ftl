@@ -63,4 +63,4 @@ download-button-linux-64-v2 = 下载适用于 Linux（64 位）的版本
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = 您在使用 Debian、Ubuntu 或其他基于 Debian 的发行版吗？<br>那么您可以设置我们的<a { $attrs }>APT 软件库</a>。
 # Microsoft Windows Store badge
-download-button-get-it-from-microsoft = 从微软获取
+download-button-get-it-from-microsoft = 从 Microsoft 获取
