@@ -38,6 +38,7 @@ vpn-landing-more-than-servers-in-countries =
        *[other] { $countries }+ ülkede { $servers } taneden fazla sunucu
     }
 vpn-landing-fast-network-speeds-even-while = Oyun oynarken bile yüksek hızda bağlantı
+vpn-landing-no-logging-tracking-or-sharing = Ağ verileri kaydedilmez, izlenmez ve paylaşılmaz
 vpn-landing-no-bandwidth-restrictions-or = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-landing-extra-security-whole-device = Ekstra güvenlik: komple cihaz koruması, çok sunuculu yönlendirme ve daha fazlası
 vpn-landing-see-all-features = Tüm özelliklere bakın

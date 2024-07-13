@@ -8,8 +8,12 @@ moz-account-promo-title = <span { $class }>Tüm</span> { -brand-name-mozilla } �
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+moz-account-already-have-v2 = Zaten hesabınız var mı? <a { $sign_in_url }>Giriş yapın</a> veya { -brand-name-mozilla }’ya katılma hakkında <a { $learn_more_url }>daha fazla bilgi alın</a>.
+# Obsolete string (expires: 2024-09-12)
+# Variables
+#   $sign_in_url - link to
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = Zaten hesabınız var mı? <a { $sign_in_url }>Giriş yapın</a> veya { -brand-name-mozilla }’ya katılma hakkında <a { $learn_more_url }>daha fazla bilgi alın</a>.
-moz-account-get-a-mozilla-account = { -brand-name-mozilla-account } açın
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

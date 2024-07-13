@@ -30,8 +30,12 @@ vpn-features-connect-up-to =
 vpn-features-supported-platforms = Windows, macOS, Android, iOS ve Linux işletim sistemlerinde desteklenir.
 vpn-features-no-bandwidth = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-features-fast-network = Oyun oynarken bile yüksek hızda bağlantı
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } en yüksek performanslı VPN protokollerinden biri olan <a { $wireguard }>Wireguard</a>™ protokolünü kullanır.
 vpn-features-secure = Güvenli
 vpn-features-block-ads = Reklamverenlerin sizi hedeflemesini engelleyin
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn }, reklamların ve reklam takip kodlarının çevrimiçi etkinliklerinizi görmesini otomatik olarak engellemenize yardımcı olur.
 vpn-features-encrypt-your-internet = Tüm internet trafiğinizi şifreleyin
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } yalnızca tarayıcınızı değil, cihazınızdaki tüm uygulamaları korur.
 vpn-features-stronger-malware = Daha güçlü kötü amaçlı yazılım koruması
@@ -58,6 +62,9 @@ vpn-features-we-never-log = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve payl
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Kişisel gezinti verilerinizi toplamıyoruz. Bu kadar basit. <a { $privacy }>Gizlilik politikamızı</a> da herkesin anlayabileceği bir dille yazdık.
 vpn-features-built-transparently = Açık kaynak olarak şeffaf bir şekilde geliştirildi
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } açık kaynaklıdır. Bu sayede tüm kodlara herkes erişebilir. <a { $github }>GitHub depomuza bakın</a>.
 vpn-features-reviewed-by-third = Üçüncü taraf güvenlik uzmanları tarafından incelendi
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53

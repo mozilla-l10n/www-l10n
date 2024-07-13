@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = { -brand-name-firefox } tarayıcınızdaki yenilikle
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = { -brand-name-firefox } tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a href="{ $url }">sürüm notlarını</a> okuyabilirsiniz.
 whatsnew-signoff = <strong>{ -brand-name-mozilla } desteğiyle.</strong> 1998’den beri para için değil, insanlık için çalışıyoruz.
+whatsnew-donate-to-mofo = { -brand-name-mozilla-foundation }na bağış yapın
+whatsnew-thanks-for-choosing = { -brand-name-firefox }’u seçtiğiniz için teşekkürler
