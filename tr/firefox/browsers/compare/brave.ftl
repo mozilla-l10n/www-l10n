@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } ile Brave Karşı Karşıya
+# HTML page description
+compare-brave-read-our-comparison = Özellikler, gizlilik ve kullanım kolaylığı açısından { -brand-name-firefox } ile Brave tarayıcılarını karşılaştırdığımız yazımızı okuyun.

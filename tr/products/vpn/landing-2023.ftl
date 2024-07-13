@@ -43,7 +43,12 @@ vpn-landing-no-bandwidth-restrictions-or = Bant genişliği kısıtlaması ve h�
 vpn-landing-extra-security-whole-device = Ekstra güvenlik: komple cihaz koruması, çok sunuculu yönlendirme ve daha fazlası
 vpn-landing-see-all-features = Tüm özelliklere bakın
 vpn-landing-fram-a-brand-you-can-trust = Güvenebileceğiniz bir markadan
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla }, 1998’den beri sağlıklı bir web için mücadele eden, kâr amacı gütmeyen bir internet şirketidir.
 vpn-landing-one-subscription-for-all-your = Tüm cihazlarınız için tek abonelik
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>{ -brand-name-mozilla } desteğiyle.</strong> 1998’den beri gizlilik hakkınız için mücadele ediyoruz.
 vpn-landing-learn-more-from-our-experts = Ayrıntıları uzmanlarımızdan öğrenin
+vpn-landing-do-you-need-a-vpn-at-home = Evinizde bir VPN’e ihtiyacınız var mı? İşte ihtiyacınız olabilecek 5 neden.
 vpn-landing-what-is-an-ip-address = IP adresi nedir?
+vpn-landing-how-your-location-is-tracked = Konumunuz nasıl izleniyor ve bunu nasıl kısıtlayabilirsiniz?
 vpn-landing-see-more-resources = Diğer kaynakları inceleyin
