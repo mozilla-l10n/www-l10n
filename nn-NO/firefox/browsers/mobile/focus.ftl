@@ -24,4 +24,5 @@ mobile-focus-private-browsing-on-v2 = I dei flesta nettlesarar er «privat surfn
 mobile-focus-tracking-protection = Sporingsvern
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blokkerer ei rekkje vanlege sporarar som standard, inkludert sosiale sporarar som dei som kjem frå { -brand-name-facebook }-annonsar.
 mobile-focus-see-it-all = Sjå alt raskare
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } fjernar sporarar slik at sidene du ser på krev mindre data og lastar mykje raskare. Fest og opp til fire snarvegar på startskjermen, og kom til favorittnettstaden din endå raskare utan å skrive noko.
 mobile-focus-made-by-mozilla = Laga av { -brand-name-mozilla }
