@@ -36,6 +36,9 @@ firefox-products-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 
 ## Fakespot
 
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } passar på deg når du handlar på nettet — lukar bort svindlarar og finn dei beste tilbydarane. Laga av { -brand-name-mozilla }.
 
 ## Pocket
 
