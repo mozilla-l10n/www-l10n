@@ -23,8 +23,11 @@ mobile-android-save-power-with = Spar straum med mørk modus
 mobile-android-switch-to-dark = Byt til mørkt modus når som helst for å minske belastninga på auga og forlenge batteriet.
 mobile-android-easily-organize-your = Ordne enkelt fanene dine
 mobile-android-got-lots-of = Har du mange opne faner? Ingen problem, organiser dei i samlingar forå halde orden. Samlingar kan òg delast mellom einingar slik at du kan halde fram med å surfe med det same, same kva for eining du brukar.
+mobile-android-supercharge-firefox-with = Forbetre { -brand-name-firefox } med tillegg
 mobile-android-addons-are-like = Tillegg er som kraftfulle små verkty du kan leggje til i nettlesaren din for å gjere ting som å auke standardinnstillingane for personvern og tilpasse opplevinga di.
-mobile-android-pick-up-where = Fortset der du slutta
+mobile-android-pick-up-where = Hald fram der du slutta
+mobile-android-search-from-your = Søk frå startskjermen på telefonen
+mobile-android-no-need-to = Du treng ikkje å opne appen. Legg til søkje-widgeten { -brand-name-firefox } og søk på nettet direkte frå startskjermen på eininga.
 mobile-android-pin-videos-to = Fest videoar på skjermen
 mobile-android-about-mozilla = Om { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
