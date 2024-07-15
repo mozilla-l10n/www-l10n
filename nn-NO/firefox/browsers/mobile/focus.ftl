@@ -26,3 +26,4 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blokkerer ei r
 mobile-focus-see-it-all = Sjå alt raskare
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } fjernar sporarar slik at sidene du ser på krev mindre data og lastar mykje raskare. Fest og opp til fire snarvegar på startskjermen, og kom til favorittnettstaden din endå raskare utan å skrive noko.
 mobile-focus-made-by-mozilla = Laga av { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Vi meinar at alle burde ha kontroll over nettliva sine online. Det har vi kjempa for sidan 1998.

@@ -11,7 +11,7 @@ what-is-firefox = Kva er { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
@@ -36,7 +36,7 @@ is-firefox-safe-download = Er { -brand-name-firefox } trygg å laste ned?
 is-firefox-safe = Er { -brand-name-firefox } trygg?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = Sel { -brand-name-firefox } dine personlege data?
 
@@ -57,3 +57,4 @@ who-owns-firefox = Kven eig { -brand-name-firefox }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } er laga av { -brand-name-mozilla-corporation }, eit heileigd dotterselskap til den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> og er styrt av prinsippa i { -brand-name-mozilla }-manifestet. Les meir om dei som lagar { -brand-name-firefox } <a href="{ $url2 }">her</a>.
