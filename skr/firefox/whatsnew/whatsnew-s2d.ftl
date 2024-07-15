@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = تساں سمجھ گھدے۔ موبا�
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = اپݨے فون تے { -brand-name-firefox } بھیڄو <br> تے اپݨا انٹرنیٹ کھولو۔
 whatsnew-s2d-download-firefox-for-your = آپݨے سمارٹ فون تے ٹیبلٹ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = ایہ کیو آر کوڈ سکین کرو

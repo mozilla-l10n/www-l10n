@@ -7,6 +7,7 @@
 
 cookie-settings-page-title = کوکی ترتیباں
 cookie-settings-breadcrumb-link = پچھلا ورقہ
+cookie-settings-how-mozilla-heading = { -brand-name-mozilla } کین٘ویں کوکیاں ورتیندے
 cookie-settings-save-changes = تبدیلیاں محفوظ کرو
 cookie-settings-your-cookie-settings-have = تہاݙیاں کوکی ترتیباں اپ ڈیٹ تھی ڳیاں۔
 cookie-settings-i-agree = میں متفق ہاں

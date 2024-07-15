@@ -8,8 +8,12 @@ moz-account-promo-title = ہک لاگ ان، <br> <span { $class }>ہر شئے</
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
+moz-account-already-have-v2 = پہلے کنوں ہی کھاتہ ہے؟<a { $sign_in_url }> سائن ان تھیوو</a> یا { -brand-name-mozilla }نال شامل تھیوݨ بارے <a { $learn_more_url }> ٻیا سکھو</a>۔
+# Obsolete string (expires: 2024-09-12)
+# Variables
+#   $sign_in_url - link to
+#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have = پہلے کنوں ہی کھاتہ ہے؟<a { $sign_in_url }> سائن ان تھیوو</a> یا { -brand-name-mozilla } بارے <a { $learn_more_url }> ٻیا سکھو</a>
-moz-account-get-a-mozilla-account = { -brand-name-mozilla-account } گھنو
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
