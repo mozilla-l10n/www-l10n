@@ -16,16 +16,11 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Gå til <a href="{ $url }">{ $link_copy }</a> for å laste ned { -brand-name-firefox } for datamaskiner.
-# Outdated string
-facebook-container-the-facebook-container-extension = Utvidinga { -brand-name-facebook-container } er ikkje tilgjengelege for mobile einingar.
 facebook-container-get-firefox-android-ios = Skaff deg { -brand-name-firefox } for { -brand-name-android } og { -brand-name-ios }
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Prøv <strong>{ -brand-name-firefox-focus }</strong>, den personvernfokuserte nettlesaren for { -brand-name-android } og { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Trekk deg ut på dine villkår
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } kan spore nesten all nettaktiviteten din og knyte han til { -brand-name-facebook }-identitet din. Om det vert litt for mykje for deg, isolerer <a href="{ $fbcontainer }">tillegget { -brand-name-facebook-container }</a> din eigen identitet i ei separat innhaldsfane, som gjer det vanskelegare for { -brand-name-facebook } å spore deg på nettet utanfor { -brand-name-facebook }.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } kan spore nesten all nettaktiviteten din og knyte han til { -brand-name-facebook }-identitet din. Om det vert litt for mykje for deg, isolerer <a href="{ $fbcontainer }">tillegget { -brand-name-facebook-container }</a> din eigen identitet i ei separat behaldarfane, som gjer det vanskelegare for { -brand-name-facebook } å spore deg på nettet utanfor { -brand-name-facebook }.
 facebook-container-install-and-contain = Installer og ta tilbake kontrollen
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
