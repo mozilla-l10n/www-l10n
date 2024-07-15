@@ -22,5 +22,6 @@ mobile-focus-easily-erase-your = Slett enkelt historikken din, passord og infoka
 mobile-focus-take-private-mode = Ta privat modus til neste nivå
 mobile-focus-private-browsing-on-v2 = I dei flesta nettlesarar er «privat surfning» eigentleg ikkje så privat. { -brand-name-firefox-focus } tilbyr personvern på nesta nivå som standard, og er støtta av { -brand-name-mozilla }, den ideelle organisasjonen som kjempar for dine rettar på nettet.
 mobile-focus-tracking-protection = Sporingsvern
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blokkerer ei rekkje vanlege sporarar som standard, inkludert sosiale sporarar som dei som kjem frå { -brand-name-facebook }-annonsar.
 mobile-focus-see-it-all = Sjå alt raskare
 mobile-focus-made-by-mozilla = Laga av { -brand-name-mozilla }
