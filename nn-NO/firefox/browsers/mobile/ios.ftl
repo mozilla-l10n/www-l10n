@@ -16,6 +16,7 @@ mobile-ios-make-firefox-your = Gjer { -brand-name-firefox } til din standardnett
 mobile-ios-now-iphone-and = No kan { -brand-name-iphone } og { -brand-name-ipad } brukarar velje sin eigen standardnettlesar. Det tyder at du ikkje er tvungen til å bruke { -brand-name-safari } og den mobile nettlesaren din kan vere synkronisert med favorittnettlesaren din for datamaskiner. Dessutan, når du stiller inn { -brand-name-firefox } som din standardnettlesar, støttar du eit uahvengig teknologiføretak { -brand-name-firefox } er óg den einaste store nettlesaren som er støtta av ein ideell organisasjon.
 mobile-ios-fast-private-secure = Rask, privat, sikker
 mobile-ios-get-more-firefox = Få meir { -brand-name-firefox } i livet ditt
+mobile-ios-add-firefox-across-v2 = Legg til { -brand-name-firefox } på einingane dine for sikker, smidig surfning. Synkroniser einingane dine for å ta med favorittbokmerka dine, lagra innloggingar, passord og netthistorikk same kvar du går. Send også opne faner mellom telefonen og dastamaskina di for å halde fram der du slapp.
 mobile-ios-get-to-your-go-to = Gå til favorittnettstadane dine raskare på { -brand-name-iphone } og { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Sjå alle opne faner, siste søk og favorittnettstadar på ein og same plass med { -brand-name-firefox-browser } for { -brand-name-ios }.
 mobile-ios-own-your-home = Eig startsida di
