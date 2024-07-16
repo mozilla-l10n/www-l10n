@@ -31,6 +31,7 @@ mobile-android-go-from-your = Byt frå telefonen din til den berbare datamaskina
 mobile-android-search-from-your = Søk frå startskjermen på telefonen
 mobile-android-no-need-to = Du treng ikkje å opne appen. Legg til søkje-widgeten { -brand-name-firefox } og søk på nettet direkte frå startskjermen på eininga.
 mobile-android-pin-videos-to = Fest videoar på skjermen
+mobile-android-pop-videos-out = Sprett ut videoar frå nettstadar, eller spelarar, og fest dei øvst på telefonskjermen for sjå på dei medan du surfar på nettet og gjer andre ting. Hald deg underhalden medan du multitaskar.
 mobile-android-about-mozilla = Om { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Kom raskare fram med { -brand-name-firefox } for { -brand-name-android }
