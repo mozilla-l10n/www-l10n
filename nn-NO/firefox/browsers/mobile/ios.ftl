@@ -19,3 +19,4 @@ mobile-ios-own-your-home = Eig startsida di
 mobile-ios-find-it-all = Finn alt raskare
 mobile-ios-discover-more-of = Oppdag meir av det du likar
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } finst for å byggje internett som ein allmenn resurs som er tilgjengeleg for alle fordi vi trur at ope og gratis er betre enn stengt og kontrollert. Vi byggjer produkt som { -brand-name-firefox } og { -brand-name-pocket } for å fremje val, transparens og kontroll.
