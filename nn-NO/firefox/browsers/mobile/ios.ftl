@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } og { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Send ei nedlastingslenke til telefonen din.
@@ -14,8 +16,10 @@ mobile-ios-make-firefox-your = Gjer { -brand-name-firefox } til din standardnett
 mobile-ios-now-iphone-and = No kan { -brand-name-iphone } og { -brand-name-ipad } brukarar velje sin eigen standardnettlesar. Det tyder at du ikkje er tvungen til å bruke { -brand-name-safari } og den mobile nettlesaren din kan vere synkronisert med favorittnettlesaren din for datamaskiner. Dessutan, når du stiller inn { -brand-name-firefox } som din standardnettlesar, støttar du eit uahvengig teknologiføretak { -brand-name-firefox } er óg den einaste store nettlesaren som er støtta av ein ideell organisasjon.
 mobile-ios-fast-private-secure = Rask, privat, sikker
 mobile-ios-get-more-firefox = Få meir { -brand-name-firefox } i livet ditt
+mobile-ios-get-to-your-go-to = Gå til favorittnettstadane dine raskare på { -brand-name-iphone } og { -brand-name-ipad }
 mobile-ios-see-your-open-tabs = Sjå alle opne faner, siste søk og favorittnettstadar på ein og same plass med { -brand-name-firefox-browser } for { -brand-name-ios }.
 mobile-ios-own-your-home = Eig startsida di
+mobile-ios-get-to-the-parts = Ta deg raskare til den delen av internett du bryr deg om. Vel å sjå alle dei opne fanene dine, siste søk, bokmerke og favorittnettstadar på ein og same plass.
 mobile-ios-find-it-all = Finn alt raskare
 mobile-ios-discover-more-of = Oppdag meir av det du likar
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
