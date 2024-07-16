@@ -12,7 +12,7 @@ compare-edge-read-our-comparison = Přečtěte si naše srovnání prohlížeč�
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } umožňuje snadnou a pohodlnou ochranu soukromí, takže se o ni nemusíte starat.
 compare-edge-we-block-trackers-by-default = Sledovací prvky blokujeme ve výchozím nastavení. Edge ne.
 compare-edge-and-we-make-it-easy-for-you = A my vám usnadňujeme volbu vyhledávače, který chcete při vyhledávání používat. Edge vás donutí prohrabat se v nastavení a použít jiný vyhledávač než Bing.
-compare-edge-microsoft-has-to-make-their-shareholders = Microsoft musí dělat své akcionáře šťastnými, ale my se můžeme zaměřit na to, aby jste byli <strong>vy</strong> šťastnými, a vaše soukromí být na prvním místě.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft musí dělat radost svým akcionářům, ale my se můžeme zaměřit na to, abychom dělali radost <strong>vám</strong>, a vaše soukromí bylo na prvním místě.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = Přechod na { -brand-name-firefox(case: "acc") } je snadný a rychlý – naimportujte si své záložky, hesla, historii a nastavení z Edge jedním klepnutím a buďte připraveni { -brand-name-firefox(case: "acc") } okamžitě používat. Zde se dozvíte, <a { $howto }>pomocí tlačítka Importovat</a>.

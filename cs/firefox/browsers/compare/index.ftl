@@ -9,7 +9,7 @@
 compare-index-compare-firefox-with-other = Porovnání prohlížeče { -brand-name-firefox } s ostatními
 # Page description
 # "stacks up" is slang for a competitive comparison to determine a winner, like stacking blocks to see who has more.
-compare-index-see-how-firefox-stacks-up = Podívejte se, jak si { -brand-name-firefox } stojí oproti ostatním předním webovým prohlížečům pro počítače v oblasti funkcí, ochrany soukromí a snadného používání.
+compare-index-see-how-firefox-stacks-up = Podívejte se, jak si { -brand-name-firefox } stojí oproti jiným předním webovým prohlížečům v oblasti funkcí, ochrany soukromí a jednoduchosti používání.
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } versus Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } versus Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } versus Apple Safari

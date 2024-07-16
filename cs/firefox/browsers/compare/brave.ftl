@@ -10,8 +10,8 @@ compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
 # HTML page description
 compare-brave-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Brave z hlediska funkcí, ochrany soukromí a snadného používání.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = Nastavení soukromí { -brand-name-firefox(case: "gen") } je silné a snadno se používá. Výchozí blokování reklam od Brave může navštěvované webové stránky rozbít, takže s ním musíte pokračovat. Chceme, aby vám soukromí bylo dostatečně pohodlné na to, abyste je skutečně <em>používali</em>.
-compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } vám usnadňuje volbu vyhledávače, který chcete pro každé vyhledávání použít. Brave použije jako výchozí svůj vlastní vyhledávač a vy budete muset projít přes nastavení prohlížeče, abyste zvolili něco jiného.
+compare-brave-firefoxs-privacy-settings-are = Nastavení soukromí { -brand-name-firefox(case: "gen") } je bezpečné a snadné. Výchozí blokování reklam od Brave může navštěvované webové stránky rozbít, takže je potřeba neustálé přenastavování. Chceme, aby ochrana soukromí byla natolik pohodlná, že ji budete skutečně <em>používat</em>.
+compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } vám usnadňuje volbu vyhledávače, který chcete použít pro každé vyhledávání. Brave v základu směřuje na svůj vlastní vyhledávač a vy budete muset projít nastavením, abyste si zvolili něco jiného.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } vám dává možnost šifrovat vaše uložená hesla. Pro přístup k nim můžete <a { $primary }>použít hlavní heslo</a>; vaše hesla jsou chráněna, i když musíte sdílet počítač. Brave vaše hesla nechrání.

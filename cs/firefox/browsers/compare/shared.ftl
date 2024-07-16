@@ -13,11 +13,11 @@ compare-shared-we-also-offer-easy = Nabízíme také snadno použitelné funkce 
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } má také vestavěné nástroje jako:
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
-compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Upravujte soubory PDF</a>, ať jste kdekoliv v okně prohlížeče { -brand-name-firefox } - není potřeba žádný další software.
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Upravujte soubory PDF</a> přímo v okně prohlížeče { -brand-name-firefox } kdykoliv potřebujete - není potřeba žádný další software.
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
-compare-shared-translate-a-web-page = <a { $translate }>Překlad webové stránky</a> lokálně a soukromě.
+compare-shared-translate-a-web-page = <a { $translate }>Překládejte webové stránky</a> soukromě jen v rámci svého zařízení.
 compare-shared-its-easy-to-switch = Přechod je snadný
-compare-shared-since-we-dont-have-to-make = Protože nemusíme dělat šťastnými akcionáře, můžeme se zaměřit na to, abyste udělali šťastným <strong>vás</strong>, a vaše soukromí a pohodlí vždy dávají na první místo.
+compare-shared-since-we-dont-have-to-make = Protože se nemusíme zavděčovat akcionářům, můžeme se soustředit pouze na to, abychom udělali radost <strong>vám</strong>, a vždy dali vaše soukromí a pohodlí na první místo.
 # Used as a small link to a cited source
 compare-shared-source = zdroj

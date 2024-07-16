@@ -19,3 +19,5 @@ whatsnew-release-notes-v2 = Přečtěte si <a { $url }>poznámky k vydání</a>,
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Přečtěte si <a href="{ $url }">poznámky k vydání</a>, které obsahují informace o novinkách ve { -brand-name-firefox(case: "loc") }.
 whatsnew-signoff = <strong>Od { -brand-name-mozilla(case: "gen") }</strong>. Od roku 1998 dáváme přednost lidem před ziskem.
+whatsnew-donate-to-mofo = Přispějte { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Díky, že jste zvolili { -brand-name-firefox(case: "acc") }
