@@ -62,3 +62,5 @@ download-button-linux-64-v2 = Telechargiar per Linux per 64 bits
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Utiliseschas ti Debian, Ubuntu u x-ina distribuziun che sa basa sin Debian?<br> Ti pos era endrizzar noss <a { $attrs }>repository APT</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Telechargiar da Microsoft
