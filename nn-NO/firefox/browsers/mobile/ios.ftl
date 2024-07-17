@@ -17,6 +17,10 @@ mobile-ios-now-iphone-and = No kan { -brand-name-iphone } og { -brand-name-ipad 
 mobile-ios-fast-private-secure = Rask, privat, sikker
 mobile-ios-keep-whats-personal = Behald det personlege privat utan å ofre fart. I tillegg gjev smarte surfefunksjonar deg mulegheita til å ta med deg personvern, passord og bokmerke trygt og sikkert same kvar du går, noko som gjer livet ditt på nettet enklare.
 mobile-ios-stay-private-online = Ta vare på personvernet ditt på nettet
+mobile-ios-firefox-gives-you =
+    { -brand-name-firefox } gjev deg meir personvern medan du er på nettet. Som standard blokkerer det forbetra sporingsvernet vårt sporarar og skript som sporara r for sosiale medium, sporing på fleire nettstadar, kryptoutvinnarar og fingeravtrykksporarar. 
+    
+    { -brand-name-firefox } ger dig större integritetsskydd medan du är på webben. Som standard blockerar vårt förbättrade spårningsskydd spårare och skript som spårare för sociala medier, spårning på flera webbplatser, kryptogrävare och fingeravtrycksspårare.
 mobile-ios-your-browsing-history = Nettlesingshistorikken din er historie
 mobile-ios-if-you-want = Om du vil, kan du enkelt velje å gå ut på internett og søkje i privat nettlesingsmodus. Og når du lèt att privat nettlesingsmodus, vert nettlesarhistorikken din og infokapslar automatisk sletta frå eininga di.
 mobile-ios-get-more-firefox = Få meir { -brand-name-firefox } i livet ditt
