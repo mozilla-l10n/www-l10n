@@ -27,6 +27,7 @@ set-as-default-thanks-join-firefox = Bli ein del av { -brand-name-firefox }
 # Obsolete string
 set-as-default-thanks-sign-up-for-a-free-account = Registrer deg for ein gratis konto og synkroniser alle passorda dine, nettlesarhistorikken og innstillingane dine på tvers av einingane dine.
 set-as-default-create-an-account = Opprett ein konto
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Registrer ein gratis { -brand-name-mozilla-account }, og synkroniser passord, surfehistorikk og instillingar på einingane dine.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Skaff deg ein konto
 set-as-default-thanks-having-trouble = Har du problem?
