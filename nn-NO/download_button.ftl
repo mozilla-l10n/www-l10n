@@ -62,3 +62,5 @@ download-button-linux-64-v2 = Last ned Linux 64-bit
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Brukar du Debian, Ubuntu eller ein Debian-basert distribusjon?<br> Då kan du konfigurere <a { $attrs }>APT-arkivet vårt i staden</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Last ned frå Microsoft
