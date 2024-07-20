@@ -7,6 +7,7 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } mot Apple Safari
+compare-safari-safari-and-firefox-both-have = Safari og { -brand-name-firefox } har begge bra person- og sikkerheitsfunksjonar.
 compare-safari-but-firefox-also-has-built-in = Men { -brand-name-firefox } har òg innebygde verktøy som:
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
