@@ -7,3 +7,7 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } mot Apple Safari
+compare-safari-but-firefox-also-has-built-in = Men { -brand-name-firefox } har òg innebygde verktøy som:
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
+compare-safari-switching-to-firefox-is-easy = Byte til { -brand-name-firefox } er enkelt og raskt - importer Safari-bokmerka dine, passorda dine, historikk og innstillingar med eitt klikk og du er klar for å bruke { -brand-name-firefox }. Slik <a { $howto }>importerer du Safari-dataa dine</a>.
