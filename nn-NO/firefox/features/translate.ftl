@@ -8,6 +8,7 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Omset ei nettside med { -brand-name-firefox }
 features-translate-translate-the-web = Omset nettet
+features-translate-when-you-translate-a-webpage = Når du omset ei nettside blir ho verande privat.
 features-translate-what-languages-are-currently = Kva for språk er for tida støtta?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what = Språka nedanfor er for tida støtta av { -brand-name-firefox } omsettingar:
