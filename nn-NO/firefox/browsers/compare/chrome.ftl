@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 # Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } mot Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Les samanlikninga vår av nettlesaren { -brand-name-firefox } og Chrome om funksjonar, personvern og brukarvennlegheit.
 # Variables:
@@ -17,3 +17,6 @@ compare-chrome-we-block-trackers-by-default = Vi blokkerer sporarar som standard
 compare-chrome-in-fact-by-default-chrome-monitors = Faktum er at Chrome som standard overvakar kva for nettstadar du besøkjer, og kva du gjer, slik at han kan identifisere «annonse-emne» for å sende deg fleire målretta  annonsar. Du kan blokkere tre emne, men du kan ikkje få dei til å slutte med å identifiere andre annonse-emne for deg.
 compare-chrome-chrome-allows-other-websites-to = Chrome tillèt andre nettstadar å samle inn informasjon om deg slik at dei kan føreslå annonsar. Du kan blokkere spesifikke nettstadar frå å føreslå annonsar, men du kan ikkje stoppe datainsamling eller forslag frå andre nettstadar.
 compare-chrome-google-runs-the-worlds-largest = Google driv verdas største annonsenettverk og Chrome er ein del av det.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
+compare-chrome-switching-to-firefox-is-easy = Byte til { -brand-name-firefox } er enkelt og raskt — importer Chrome-bokmerka dine, passord, historikk og innstillingar med eitt klikk og du er klar til å bruke { -brand-name-firefox }. Finn ut <a { $howto }>korleis du byter frå Chrome til { -brand-name-firefox }</a>.
