@@ -8,6 +8,8 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Omset ei nettside med { -brand-name-firefox }
 features-translate-translate-the-web = Omset nettet
+# HTML page description
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } omsettingar er ein innebygd omsettingsfunksjon som gjer at du enkelt kan surfe på nettet, på ditt føretrekte språk. Les meir om korleis denne funklsjonen i { -brand-name-firefox } fungerar og korleis { -brand-name-mozilla } hjelper til med å halde det du omset privat.
 features-translate-when-you-translate-a-webpage = Når du omset ei nettside blir ho verande privat.
 features-translate-what-languages-are-currently = Kva for språk er for tida støtta?
 # This is followed by a localized list of supported languages
