@@ -14,6 +14,8 @@ pdf-editor-add-text-to-pdfs-v2 = Rediger PDF-filer gratis med { -brand-name-fire
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Vis og rediger PDF-filer direkte i { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = Fyll ut skjema på nettet utan skriving og skanning
+pdf-editor-weve-all-faced-this-you-need-to = Vi har alle opplevd å måtte fylle ut eit PDF-skjema som ikkje kan redigerast. Tidlegare var det einaste alternativet å skrive ut skjemaet på papir, fylle inn felta med penn, og so skanne det tilbake til datamaskina.
+pdf-editor-no-more-now-all-you-need-to-do = Dette er det slutt på! No kan du berre redigere PDF-fila direkte på nettet med { -brand-name-firefox }, lagre og sende henne via e-post frå datamaskina di.
 pdf-editor-add-text = Legg til tekst
 pdf-editor-add-drawings-or-your-signature = Legg til teikningar (eller signaturen din)
 pdf-editor-add-image-with-alt-text = Legg til bilde med alternativ tekst
