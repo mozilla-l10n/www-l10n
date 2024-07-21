@@ -4,6 +4,7 @@
 
 # Obsolete string
 fxa-form-enter-your-email = <strong>Skriv inn e-postadressa di</strong> for å få tilgang til { -brand-name-firefox-accounts }.
+fxa-form-enter-your-email-v2 = <strong>Skriv inn e-postadressa di</strong> for å opprette ein  { -brand-name-mozilla-account }.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
