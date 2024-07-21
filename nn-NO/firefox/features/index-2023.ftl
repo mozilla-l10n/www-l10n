@@ -25,6 +25,7 @@ features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }-
 features-index-pinned-browser-tabs = Festa nettlesarfaner
 features-index-eyedropper-tool = Pipetteverktøy
 features-index-pdf-editor = PDF-redigerar
+features-index-view-and-edit-pdf-files = Vis og rediger PDF-filer direkte i { -brand-name-firefox }.
 features-index-fingerprint-blocking = Blokkering av fingeravtrykksporarar
 features-index-ad-tracker-blocking = Blokkering av annonsesporarar
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer automatisk over 2000 annonsesporarar frå å samle informasjon om kva du gjer på nettet.

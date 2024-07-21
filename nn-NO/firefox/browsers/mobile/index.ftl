@@ -7,6 +7,7 @@
 
 browsers-mobile-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
+browsers-mobile-go-your-own-way = Gå din eigen veg med { -brand-name-firefox }-mobil
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobil tilpassar seg etter deg og gjer det enklare enn nokon gong å sjå alle opne faner, tidlegare søk, og favorittnettatsdar.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Samanlikn
