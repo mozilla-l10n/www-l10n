@@ -10,7 +10,7 @@ compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Ed
 # HTML page description
 compare-edge-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Edge z hlediska funkcí, ochrany osobních údajů a snadného používání.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } umožňuje snadnou a pohodlnou ochranu soukromí, takže se o ni nemusíte starat.
-compare-edge-we-block-trackers-by-default = Sledovací prvky blokujeme ve výchozím nastavení. Edge ne.
+compare-edge-we-block-trackers-by-default = Sledovací prvky blokujeme ve výchozím nastavení. Edge nikoliv.
 compare-edge-and-we-make-it-easy-for-you = A my vám usnadňujeme volbu vyhledávače, který chcete při vyhledávání používat. Edge vás donutí prohrabat se v nastavení a použít jiný vyhledávač než Bing.
 compare-edge-microsoft-has-to-make-their-shareholders = Microsoft musí dělat radost svým akcionářům, ale my se můžeme zaměřit na to, abychom dělali radost <strong>vám</strong>, a vaše soukromí bylo na prvním místě.
 # Variables:
