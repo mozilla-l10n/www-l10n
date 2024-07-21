@@ -29,4 +29,10 @@ password-manager-import-passwords = importer passord
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Bilde av dialogruta for importgaiden { -brand-name-firefox }, som viser alternativ for å importere innstillingar og data frå andra nettlesarar.
 password-manager-no-more-reusing-your-passwords = Ikkje lenger gjenbruk av passorda dine
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Bilde på eit registreringsskjema for ein nettstad med { -brand-name-firefox } som føreslår eit sterkt passord som den automatiskt lagrar for framtidig bruk.
 password-manager-password-security-alerts = Sikkerheitsåtvaringar for passord
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>varslar deg om eit passord er eksponert</a> i ein datalekkasje, slik at du kan endre det før hackarar har ein sjanse til gjere noko, slikt som å leige ein Lamborghini med bankkortet ditt.
