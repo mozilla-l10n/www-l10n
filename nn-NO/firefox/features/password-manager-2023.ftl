@@ -22,6 +22,11 @@ password-manager-with-a-free-mozilla-account = Med ein <a href="{ $fxa }">gratis
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-firefox-account = Med in <a href="{ $fxa }">gratis { -brand-name-firefox }-konto</a> kan du sikkert synkronisere passorda dine på alle einingane dine.
 password-manager-password-autofill-for-easy-logins = Autofyll passord for enkle innloggingar
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kan automatisk fylle inn lagra brukarnamn og passord. Om du har meir enn ei innlogging for ein nettstad, kan du berre velje den kontoen du vil ha, og so tek vi det derifrå.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Bilde på innloggingsskjema til ein nettstad med { -brand-name-firefox } som viser fleire lagra konto å velje mellom, når du loggar inn.
 password-manager-import-passwords = importer passord
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Bilde av dialogruta for importgaiden { -brand-name-firefox }, som viser alternativ for å importere innstillingar og data frå andra nettlesarar.
 password-manager-no-more-reusing-your-passwords = Ikkje lenger gjenbruk av passorda dine
 password-manager-password-security-alerts = Sikkerheitsåtvaringar for passord
