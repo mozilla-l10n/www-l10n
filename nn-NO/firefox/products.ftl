@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = Produkt frå { -brand-name-mozilla }
+firefox-products-products = Produkt
 
 ## Firefox
 

@@ -5,11 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+firefox-products-are = { -brand-name-firefox }-produkt laga for å ta vare på personvernet ditt
+learn-more-about-firefox = Les meir om { -brand-name-firefox }, historia, funksjonar og oppdrag
+learn-more-faq = { -brand-name-firefox } vanlege spørsmål
 the-history-of = Historia om nettlesaren
 what-is-a = Kva er ein nettlesar?
 firefox-is-more = { -brand-name-firefox } er meir enn ein nettlesar
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
-firefox-more-firefox-sync = { -brand-name-firefox-sync }
 we-believe-everyone = Vi meinar at alle skal ha tillgang til internett — det er difor vi gjer { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk med hjelp av av engasjerte friviljuge rundt om i verda.
+firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
 firefox-more-translate-the-web = Omset nettet
-firefox-more-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet, ditt liv på nettet vert verna med { -brand-name-firefox }.
