@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokkerer fingeravtrykk
 # description for the header image
 features-fingerprinting-every-fingerprint = Kvart fingeravtrykk er eineståande.
 features-fingerprinting-download-firefox = Last ned { -brand-name-firefox }
