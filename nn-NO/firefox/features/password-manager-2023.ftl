@@ -7,3 +7,4 @@
 
 # HTML page title
 password-manager-free-password-manager = Gratis passordhandsamar
+password-manager-import-passwords = importer passord

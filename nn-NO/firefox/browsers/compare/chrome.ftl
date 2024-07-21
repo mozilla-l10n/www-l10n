@@ -7,3 +7,6 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+# HTML page description
+compare-chome-read-our-comparison = Les samanlikninga vår av nettlesaren { -brand-name-firefox } og Chrome om funksjonar, personvern og brukarvennlegheit.
+compare-chrome-we-block-trackers-by-default = Vi blokkerer sporarar som standard. Chrome gjer det ikkje.
