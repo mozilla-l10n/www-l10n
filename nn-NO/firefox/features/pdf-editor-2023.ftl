@@ -17,4 +17,5 @@ pdf-editor-fill-in-forms-online-without = Fyll ut skjema på nettet utan skrivin
 pdf-editor-add-text = Legg til tekst
 pdf-editor-add-drawings-or-your-signature = Legg til teikningar (eller signaturen din)
 pdf-editor-add-image-with-alt-text = Legg til bilde med alternativ tekst
+pdf-editor-open-pdf-click-image-icon = Opne PDF-en i { -brand-name-firefox }. Klikk på bildeikonet, som vil be deg om å laste opp eit bilde. Juster størrelse og plassering av bildet etter behov. Klikk på knappen «+Alt tekst» på bildet for å leggje til ei bildeskildring, som vil gjere PDF-en din meir tilgjengeleg.
 pdf-editor-create-a-highlight = Lag ei utheving
