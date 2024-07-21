@@ -5,13 +5,12 @@
 newsletter-form-please-enter-a-valid = Skriv inn ei gyldig e-postadresse.
 newsletter-form-you-must-agree-to = Du må godta personvernerklæringa
 newsletter-form-your-email-address = Di e-postadresse
+newsletter-form-please-select-language = Vel eit språk
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = namnetditt@eksempel.no
 newsletter-form-select-country-or-region = Vel land eller region
+newsletter-form-select-language = Vel språk
 newsletter-form-your-email-here = DI EPOSTADRESSE HER
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/

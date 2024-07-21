@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -15,7 +15,7 @@ welcome-page8-view-your-protection-report = Vis tryggingsrapporten din
 welcome-page8-enhanced-tracking-protection = Utvida sporingsvern
 welcome-page8-automatically-block-sites = Blokker automatisk nettstadar frå å følgje deg rundt på internett.
 welcome-page8-see-whats-blocked = Sjå kva som er blokkert
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = Finn ut om du er involvert av ein kjend datalekkasje og kva du skal gjøre no.
 welcome-page8-go-to-monitor = Gå til { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

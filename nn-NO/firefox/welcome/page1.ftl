@@ -1,20 +1,16 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-# HTML page title
-welcome-page1-more-than-a-browser-firefox = Meir enn berre ein nettlesar - { -brand-name-firefox-monitor } held oversikt over datalekkasjar og hackarar
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ta neste steg for å beskytte personvernet ditt på nettet med { -brand-name-firefox }-familien av produkt.
-welcome-page1-stay-ahead-of-hackers-check = Hald deg eit steg framom hackarar. Sjå etter datalekkasjar med { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Du er på rett veg til meir sikkerheit på nettet
 welcome-page1-youve-got-the-web-browser = Du har allereie nettlesaren som tek vare på personvernet ditt. Neste steg: Hald eit auge med datalekkasjar og hackarar.
 welcome-page1-check-your-breach-report = Sjå datalekkasjerapporten din
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } viser deg om informasjonen din har blitt leken i ein kjend datalekkasje, og varslar deg i tilfelle det skulle skje i framtida.
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page1-stay-ahead-of-hackers = Hald deg eit steg framom hackarar
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
