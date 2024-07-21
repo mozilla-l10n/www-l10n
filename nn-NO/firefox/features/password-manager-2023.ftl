@@ -39,6 +39,6 @@ password-manager-password-security-alerts = Sikkerheitsåtvaringar for passord
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
-password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>varslar deg om eit passord er eksponert</a> i ein datalekkasje, slik at du kan endre det før hackarar har ein sjanse til gjere noko, slikt som å leige ein Lamborghini med bankkortet ditt.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>varslar deg om eit passord er eksponert</a> i ein datalekkasje, slik at du kan endre det før hackarar har ein sjanse til gjere noko, slik som å leige ein Lamborghini med bankkortet ditt.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Bilde av passordhandsamaren for { -brand-name-firefox } som viser ei åtvaringsmelding som lyder: «Dette passordet er brukt på ein annan konto som truleg har vore med i ein datalekkasje. Gjenbruk av innloggingsopplysningar utset alle kontoane dine for risiko. Endre dette passordet.»
