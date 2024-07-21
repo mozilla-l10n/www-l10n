@@ -20,6 +20,7 @@ pdf-editor-no-more-now-all-you-need-to-do = Dette er det slutt på! No kan du be
 pdf-editor-add-text = Legg til tekst
 pdf-editor-open-the-pdf-in-firefox-click-text = Opne PDF-en i { -brand-name-firefox }. Klikk på Tekst-knappen for å velje ein farge og tekststørrelse, før du vel kvar i dokumentet du vil leggje til tekst. So enkelt er det!
 pdf-editor-add-drawings-or-your-signature = Legg til teikningar (eller signaturen din)
+pdf-editor-open-the-pdf-in-firefox-click-draw = Opne PDF-en i { -brand-name-firefox }. Klikk på Teikne-knappen for å velje ein farge, tjukn, og opasitet før du vel kvar i dokumentet du vil teikne. So enkelt er det! Det vert venteleg ikkje meir rotete enn den vanlege signaturen din!
 pdf-editor-add-image-with-alt-text = Legg til bilde med alternativ tekst
 pdf-editor-open-pdf-click-image-icon = Opne PDF-en i { -brand-name-firefox }. Klikk på bildeikonet, som vil be deg om å laste opp eit bilde. Juster størrelse og plassering av bildet etter behov. Klikk på knappen «+Alt tekst» på bildet for å leggje til ei bildeskildring, som vil gjere PDF-en din meir tilgjengeleg.
 pdf-editor-create-a-highlight = Lag ei utheving
