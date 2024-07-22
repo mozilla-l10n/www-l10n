@@ -23,3 +23,4 @@ browsers-chromebook-is-it-hard = Er det vanskeleg å installere { -brand-name-fi
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Installer { -brand-name-firefox } som ein { -brand-name-linux }-app: å gjere dette tek litt lenger tid, men det er verdt det. Når du innstallerer nettlesaren { -brand-name-firefox } som ein { -brand-name-linux }-app får du nettlesaren { -brand-name-firefox } og alle fordelar som følgjer med, inkludert Utvida sporingsvern, ein innebygd passordhandsamar, tilgang til tusenvis av tillegg (inkludert UBlock Origin ad blocker) og tema for å tilpasse utsjånaden på nettlesaren din. <a { $url }>Les meir om installasjonen av { -brand-name-firefox }-nettlesar for { -brand-name-chromebook }.</a>
