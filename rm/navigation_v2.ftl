@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Telechargiar { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Utilisar ussa { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Ir per in { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -21,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } per { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Va per il navigatur per apparats mobils per tes { -brand-name-iphone } u { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Navigaziun mobila, simpla e privata.
-navigation-v2-privacy-promise = Engaschi per la protecziun da datas
-navigation-v2-learn-how-firefox-treats = Ve a savair co { -brand-name-firefox } tracta tias datas cun respect.
 navigation-v2-firefox-blog = Blog da { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = T'infurmescha davart las novas funcziunalitads da { -brand-name-firefox } e ve a savair co ta proteger en l'internet.
 navigation-v2-release-notes = Remartgas davart la versiun
@@ -33,7 +29,7 @@ navigation-v2-view-all-firefox-browsers = Vesair tut ils { -brand-name-firefox-b
 
 navigation-v2-products = Products
 navigation-v2-close-products-menu = Serrar il menu «Products»
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Controllar sche tia adressa d'e-mail è pertutgada d'ina sperdita da datas d'ina interpresa.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Memorisar e scuvrir las meglras istorgias ord il web.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Impedescha che { -brand-name-facebook } rimnia tias datas ordaifer lur website.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Ta protegia en ed ordaifer tes navigatur, sin tut tes apparats.
-navigation-v2-product-promise = Engaschi per ils products
-navigation-v2-learn-how-each-firefox-product = Ve a savair co mintga product da { -brand-name-firefox } protegia e respecta tias datas.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Creescha novs contos senza tradir tia adressa d'e-mail.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Novas funcziuns e novs utensils per ina experientscha { -brand-name-mdn } persunalisada
 navigation-v2-view-all-products = Vesair tut ils products
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Utilisescha l’intelligenza artifiziala per identifitgar recensiuns sfalsifitgadas ed engions
 
 ## Who We Are menu
 
@@ -66,16 +62,12 @@ navigation-v2-careers = Lavura cun nus
 navigation-v2-work-for-a-mission-driven-updated = Lavura per ina organisaziun fidaivla a ses princips cun products che correspundan als basegns dals utilisaders.
 navigation-v2-mozilla-blog = Blog da { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Ve a savair dapli davart { -brand-name-mozilla } ed ils temas ch'ans stattan a cor.
-navigation-v2-stories = Istorgias
-navigation-v2-stories-about-how = Istorgias che mussan co nossa glieud e noss products fan dal mund in meglier lieu.
 navigation-v2-more-about-mozilla = Dapli davart { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = Innovaziun
 navigation-v2-close-innovation-menu = Serrar il menu «Innovaziun»
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = T'inscuntra en quest spazi social interactiv, online e multidimensiunal.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Va per il navigatur { -brand-name-firefox } creà aposta per sviluppaders.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -86,3 +78,4 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dà tia vusch per ch'il web da l'avegnir possia udir e chapir ina e mintgin.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Ve a savair dapli dal nov linguatg da nivel bass en stil assembly.
+navigation-v2-mozilla-innovation-projects = Projects d’innovaziun da { -brand-name-mozilla }

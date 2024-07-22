@@ -27,10 +27,6 @@ firefox-new-need-help = Dovras agid?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">na porscha naginas actualisaziuns da segirezza pli</a> sin { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, ma ti pos anc adina utilisar { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Ti utiliseschas in sistem operativ antiquà e malsegir <a href="{ $url }">che na vegn betg pli sustegnì da { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Tia telechargiada duess cumenzar aut
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è dapli ch'in navigatur.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Tia telechargiada è interrutta. Ma betg tut è pers.
+firefox-new-download-almost-there = Quasi fatg!
+firefox-new-download-select-linux = Tscherna ina opziun da telechargiada sutvart
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Suonda per plaschair <a href="{ $url }">questas instrucziuns</a> per installar { -brand-name-firefox }.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Suonda per plaschair <a href="{ $url }">questas inst
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
@@ -63,4 +59,3 @@ firefox-new-fast = Svelt, segir e gratuit
 firefox-new-from-mozilla = da { -brand-name-mozilla }
 firefox-new-desc = Il { -brand-name-firefox-browser } è in navigatur-web liber e gratuit che chargia svelt las paginas, dovra pauca memoria e porscha bleras funcziunalitads – in project da l'organisaziun senza finamira da profit { -brand-name-mozilla }.
 firefox-new-download-a-different = Telechargiar per in'autra plattafurma u lingua
-firefox-new-taskbar = { -brand-name-firefox } vegn fixà en la taskbar da { -brand-name-windows } suenter l'installaziun

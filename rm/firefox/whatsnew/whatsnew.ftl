@@ -5,19 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Quai è nov tar { -brand-name-firefox }
+# Obsolete string
 whatsnew-page-title = Tge è nov en { -brand-name-firefox }? Dapli protecziun da datas e segirezza.
 whatsnew-page-description = Ta defenda cunter ina industria che venda tias datas a terzas partidas. Fa diever da tecnologias che ta correspundan e ta protegian online.
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
-whatsnew-up-to-date-notification-v2 = Gratulaziuns! Ti utiliseschas la versiun la pli nova da { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Gratulaziun! Ti utiliseschas la pli nova versiun dal { -brand-name-firefox-browser }.
+whatsnew-update-notification = Tes { -brand-name-firefox } è vegnì actualisà.
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Ina versiun anc pli nova da { -brand-name-firefox } è disponibla. <a href="{ $url }">Actualisescha a la versiun la pli nova</a>
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Legia las <a { $url }>remartgas davart la versiun</a> per vegnir a savair dapli da las midadas en tes navigatur { -brand-name-firefox }.
 # Obsolete string
-whatsnew-out-of-date-notification-v2 = Ina versiun anc pli nova da { -brand-name-firefox } è disponibla. Reaviescha per actualisar.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes = Legia las <a href="{ $url }">remartgas davart la versiun</a> per vegnir a savair dapli da las midadas en tes navigatur { -brand-name-firefox }.
+whatsnew-signoff = <strong>Realisà da { -brand-name-mozilla }.</strong> Dapi il 1998 dain nus la prioritad a las persunas, betg al profit.
+whatsnew-donate-to-mofo = Far ina donaziun a { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Grazia per avair tschernì { -brand-name-firefox }

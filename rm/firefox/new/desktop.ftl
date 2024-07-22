@@ -146,13 +146,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Dumondas? <a { $attrs }>L'agid da { -brand-name-mozilla }</a> stat a tia disposiziun.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Ti has gia il navigatur. Va ussa anc per dapli da { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Surveglia ils hackers cun { -brand-name-mozilla-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Surveglia ils hackers cun { -brand-name-firefox-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
-firefox-desktop-download-get-more-from-firefox = Va per dapli da { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Mo telechargiar il navigatur
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -163,6 +157,8 @@ firefox-desktop-download-now-else = Terminescha ussa <strong>l'installaziun</str
 firefox-desktop-download-now-windows = <strong>Exequescha</strong> ussa il program d'installaziun gist telechargià.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>Avra</strong> ussa la datoteca gist telechargiada.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Tscherna ina opziun da <strong>telechargiada</strong> sutvart
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Has difficultads? <a { $attrs }>Ta lascha gidar cun l'installaziun</a>.
@@ -188,4 +184,3 @@ firefox-desktop-download-please-follow = Suonda per plaschair <a href="{ $url }"
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } vegn fixà en la taskbar da { -brand-name-windows } suenter l'installaziun

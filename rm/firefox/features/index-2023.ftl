@@ -10,6 +10,7 @@ features-index-firefox-browser-features = Funcziuns dal navigatur { -brand-name-
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } è il navigatur svelt, lev ed orientà a la protecziun da datas che funcziunescha sin tuts tes apparats.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } daventa adina pli svelt
+features-index-the-latest-browser-speed-benchmarks = Ils benchmarks ils pli recents per la sveltezza da navigaturs mussan che { -brand-name-firefox } è pli svelt che mai.
 # Obsolete string
 features-index-is-firefox-a-fast-browser = È { -brand-name-firefox } in navigatur svelt?
 # Obsolete string
@@ -40,6 +41,7 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } blochescha
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Ta liberescha da las reclamas mulestusas che ta suondan dapertut cun agid da la funcziun preinstallada da { -brand-name-firefox } per bloccar improntaders.
 features-index-translate-the-web = Translatescha il web
+features-index-translate-websites-to-your = Lascha translatar websites en tia lingua, directamain en tes navigatur { -brand-name-firefox } – senza stuair parter tias datas cun insatgi.
 # Obsolete string
 features-index-translate-more-than = Translatescha ord passa 100 linguas en tia lingua, directamain en tes navigatur { -brand-name-firefox }. Quai n'è anc mai stà uschè simpel.
 features-index-picture-in-picture = Maletg-en-maletg

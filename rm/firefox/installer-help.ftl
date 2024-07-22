@@ -18,12 +18,16 @@ installer-help-action-choose = Tscherna ina telechargiada sutvart.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Va per la versiun la pli actuala. Qua è la protecziun da datas garantida automaticamain. Telechargia { -brand-name-firefox } per bloccar passa { $trackers } fastizaders.
+# Obsolete string (expires: 2024-05-14)
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc = Va per la versiun la pli actuala. Qua è la protecziun da datas garantida automaticamain. Telechargia { -brand-name-firefox-browser } per bloccar passa { $trackers } fastizaders.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-beta }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Emprova funcziuns ch'èn quasi prontas per vegnir publitgadas en la versiun preliminara la pli stabila.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Creescha, testescha e scalescha cun agid da l'unic navigatur concepì bel ed aposta per sviluppaders.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Dà in'egliada a noss navigatur-web da la proxima generaziun e gida nus d'al far daventar il meglier navigatur pussaivel.
 installer-help-need-help = Dovras agid cun l'installaziun?
 # Variables:
