@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = { -brand-name-mozilla } دیاں مصنوعات
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
 firefox-products-products = مصنوعات
