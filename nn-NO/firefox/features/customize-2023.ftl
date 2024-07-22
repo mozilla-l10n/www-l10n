@@ -12,3 +12,13 @@ features-customize-firefox-themes-let-you-change = { -brand-name-firefox }-tema 
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } kjem med eit standardsystem-tema, og det er førehandslasta med lyse, mørke og fargerike variantar.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = Bilde av standardtemaet som følgjer med { -brand-name-firefox }, og som viser lyse, mørke og fargerike variantar.
+# Variables:
+#   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
+#   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
+#   $trending (url) - link to https://addons.mozilla.org/firefox/search/?sort=hotness&type=statictheme
+#   $recommended (url) - link to https://addons.mozilla.org/firefox/search/?promoted=recommended&sort=random&type=statictheme
+#   $music (url) - link to https://addons.mozilla.org/firefox/themes/category/music/
+#   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
+#   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
+#   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
+features-customize-you-can-find-more-free-custom-v2 = Du kan finne fleire gratis tilpassa tema på <a { $amo }>addons.mozilla.org</a>. Bla i <a { $top }>høgast vurderte</a>, <a { $trending }>populære</a> og <a { $recommended }>mest tilrådde</a> tema. Eller leite etter tema etter kategori, inkludert <a { $music }>musikk</a>, <a { $seasonal }>sesongprega</a>, <a { $sports }>sport</a> og <a { $nature }>natur</a>. Skreddarsy opplevinga di etter din smak. Søte dyr, vonde robotar, vakre landskap — det finst tusentals alternativ for å gjere { -brand-name-firefox } til din eigen.
