@@ -9,3 +9,4 @@ mobile-android-get-firefox-for = Nabavi { -brand-name-firefox } za { -brand-name
 mobile-android-send-a-download-link-to-your = Pošalji poveznicu za preuzimanje na svoj mobitel.
 mobile-android-scan-the-qr-code-to-get-started = Započni skeniranjem QR koda
 mobile-android-scan-alt-text = Skeniraj QR kod i preuzmi { -brand-name-firefox } na { -brand-name-android }
+mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }

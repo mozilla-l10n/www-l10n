@@ -7,3 +7,4 @@
 
 # Meta strings
 vpn-mobile-page-title = { -brand-name-mozilla-vpn } za mobilne uređaje (pametni telefoni i tableti)
+vpn-mobile-about-headline = Informacije o { -brand-name-mozilla }
