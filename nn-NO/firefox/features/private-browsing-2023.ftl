@@ -19,5 +19,8 @@ features-private-browsing-private-browsing-mode-opens = Privat nettlesing opnar 
 features-private-browsing-a-firefox-window-in-private = Eit { -brand-name-firefox } nettlesarvindauge i privat nettlesingsmodus.
 features-private-browsing-what-private-browsing-doesnt-do = Kva privat nettlesing ikkje gjer
 # Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Privat nettlesingsmodus vil ikkje slette nye bokmerke du opprettar frå eit privat nettlesarvindauge, eller verne deg frå skadleg programvare eller virus. Det hindrar heller ikkje nettstadane du besøjer frå å sjå kvar du er fysisk, eller hindrar internettleverandøren din frå å logge det du gjer. Du treng eit <a href="{ $vpn }">påliteleg VPN</a> for det.
+# Variables:
 #   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
 features-private-browsing-compare-firefoxs-private-browsing = Samanlikn privat surfing i { -brand-name-firefox } med <a href="{ $chrome }">ikognito modus i Chrome</a>.
