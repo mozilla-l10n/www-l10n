@@ -9,3 +9,5 @@ features-eyedropper-eyedropper-tool = Pipetteverktøy
 features-eyedropper-select-colors-in-firefox = Vel fargar i { -brand-name-firefox } med pipettverktyet
 # HTML page description
 features-eyedropper-identify-the-exact-color-on-a = Identifiser den nøyaktige fargen på ei side og kopier hex-koden.
+# Used as an accessible text alternative for an image
+features-eyedropper-screenshot-of-the-eyedropper-tool = Skjermbilde av pipettverktyet i { -brand-name-firefox } som viser den hexadesimale fargeverdien for eit einskild piksel på ein nettside.
