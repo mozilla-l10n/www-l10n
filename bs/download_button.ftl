@@ -62,3 +62,5 @@ download-button-linux-64-v2 = Preuzmite za 64-bitni Linux
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Koristite Debian, Ubuntu ili bilo koju distribuciju zasnovanu na Debianu?<br> Umjesto toga možete postaviti naše <a { $attrs }>APT spremište</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Preuzmite s Microsofta
