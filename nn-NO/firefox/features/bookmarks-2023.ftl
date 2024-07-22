@@ -11,7 +11,10 @@ bookmark-manager-bookmark-manager = Bokmerkehandsamar
 bookmark-manager-organize-your-bookmarks-with = Organiser bokmerka dine med mapper og etikettar.
 bookmark-manager-organize-your-boomarks-into = Organiser bokmerka dine i søkbare mapper
 bookmark-manager-collect-your-bookmarks-in-folders = Samle bokmerka dine i mapper og merk dei med meir informasjon. Du kan sortere bokmerka dine for å raskt finne dei du treng.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-bookmark-manager = Bilde av bokmerkehandsamings-vindauget i { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importer enkelt bokmerke
+bookmark-manager-you-can-import-your-bookmarks = Du kan importere bokmerka dine frå Chrome, Safari eller Edge med importgaiden til { -brand-name-firefox }. Klikk på Bokmerke > Handsam bokmerke og vel «Importer og sikkerheitskopier».
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = Bilde av dialogruta for importgaiden { -brand-name-firefox }, som viser alternativ for å importere innstillingar og data frå andra nettlesarar.
 bookmark-manager-bookmarks-toolbar = Verktøylinje for bokmerke
