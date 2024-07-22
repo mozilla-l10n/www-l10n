@@ -79,3 +79,4 @@ navigation-v2-donate-your-voice-so-the-future = Dà tia vusch per ch'il web da l
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Ve a savair dapli dal nov linguatg da nivel bass en stil assembly.
 navigation-v2-mozilla-innovation-projects = Projects d’innovaziun da { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Ve a savair co dar vita ad ideas brigliantas.

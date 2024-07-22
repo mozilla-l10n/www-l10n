@@ -12,8 +12,6 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Protegia tes entir apparat
 #   $countries (number) - number of available countries
 vpn-landing-page-desc = Utilisescha { -brand-name-mozilla-vpn } per ina protecziun cumpletta da tes apparat cun tut las applicaziuns. Cun servers en passa { $countries } pajais pos ti ta connectar cun tut da dapertut.
 vpn-landing-hero-sub-heading-v2 = Segir, fidabel e svelt – sin mintga apparat, dapertut.
-# Obsolete string
-vpn-landing-hero-sub-heading = Segirezza cumprovada. In num fidabel.
 vpn-landing-hero-desc = Ina rait privata virtuala (VPN) dals creaturs da { -brand-name-firefox }.
 vpn-landing-privacy-heading = Sfera privata en in pass
 vpn-landing-privacy-desc = Navighescha, streamescha, gama e lavura senza desister da tia sfera privata en l'internet. Igl è tuttina sche ti es en viadi, utiliseschas il WLAN public u sche ti vuls simplamain augmentar tia segirezza online, nus dain adina la prioritad a tia sfera privata.
@@ -22,12 +20,6 @@ vpn-landing-fast-secure-heading = Ina rait svelta e segira
 #   $wireguard (url) - https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
 vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } sa basa sin ina rait globala da servers. Nus criptain tia activitad en la rait e zuppain tia adressa IP cun agid dal protocol il pli avanzà <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Nus na registrain, fastizain u cundividain mai questas datas.
-# Obsolete string
-# Variables:
-#   $mullvad (url) - https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc = { -brand-name-mozilla-vpn } sa basa sin ina rait globala da servers gestiunads da <a href="{ $mullvad }" { $attrs } >{ -brand-name-mullvad }</a>. Nus criptain tia activitad en la rait e zuppain tia adressa IP cun agid dal protocol il pli avanzà <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a>. Nus na registrain, fastizain u cundividain mai questas datas.
 vpn-landing-brand-trust-heading = In VPN dad ina marca da la quala ti pos ta fidar
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
@@ -43,8 +35,6 @@ vpn-landing-faq-uses-question-desc = Essend che l'internet dominescha adina pli 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-landing-faq-uses-conceal-v2 = El zuppa tia <a href="{ $url }">adressa IP</a>. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
-# Obsolete string
-vpn-landing-faq-uses-conceal = Ella zuppa tia adressa IP. Quai protegia tia identitad e renda nunvisibla tia posiziun actuala.
 vpn-landing-faq-uses-encrypt = El criptescha il traffic da datas tranter tai e tes purschider da VPN uschia che nagin en tia rait locala n'al po decriptar u modifitgar.
 # Variables:
 #   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
@@ -54,10 +44,6 @@ vpn-landing-faq-info-question-heading = Tge infurmaziuns arcuna { -brand-name-mo
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-landing-faq-info-question-desc-v2 = Nus observain strictamain ils <a href="{ $principles }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain las datas necessarias per garantir il funcziunament dal VPN e per optimar cuntinuadamain il product. Nus registrain era datas da campagnas e da recumandaziuns en nossa applicaziun mobila per gidar { -brand-name-mozilla } da chapir l'effect da nossas campagnas da marketing. Ve a savair dapli en nossa <a href="{ $notice }">decleraziun davart la protecziun da datas</a>.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/privacy/principles/
-vpn-landing-faq-info-question-desc = Nus na registrain, fastizain u cundividain naginas da tias activitads en la rait. Nus resguardain strictamain ils <a href="{ $url }">princips da la protecziun da datas</a> da { -brand-name-mozilla } e nus ramassain sulettamain las datas necessarias per garantir il funcziunament dal VPN e per optimar cuntinuadamain il product.
 vpn-landing-faq-protected-question-heading = Co vegn protegida mia sfera privata?
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
@@ -67,64 +53,31 @@ vpn-landing-faq-competition-question-heading = Fa { -brand-name-mozilla-vpn } bu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/history/
 vpn-landing-faq-competition-question-desc-v2 = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Auters VPNs n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc = Malgrà che VPNs gratuits paran dad esser attractivs na s'obligheschan quels betg en la medema maniera da resguardar la protecziun da datas sco { -brand-name-mozilla-vpn }. Purschiders gratuits vendan u arcunan eventualmain tias datas. Auters VPNs che custan n'han betg l'<a href="{ $url }">experientscha</a> da { -brand-name-mozilla } cun passa 20 onns svilup da products che mettan en il center las persunas e lur sfera privata.
 vpn-landing-faq-compatibility-question-heading = Cun tge apparats è { -brand-name-mozilla-vpn } cumpatibel?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } è cumpatibel cun <a href="{ $mobile }">telefonins</a>, tablets e <a href="{ $desktop }">computers desktop</a> cun:
-# Outdated string
-vpn-landing-faq-compatibility-question-desc = { -brand-name-mozilla-vpn } è cumpabel cun:
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
 vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (mo 64 bits)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v2 = <a href="{ $url }">{ -brand-name-windows }</a> 10 (mo 64 bits)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v3 = <a href="{ $url }">{ -brand-name-mac }</a> (10.14 e versiuns pli actualas)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-vpn-landing-faq-compatibility-question-desc-mac-v2 = <a href="{ $url }">{ -brand-name-mac }</a> (10.15 e versiuns pli actualas)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-mac = { -brand-name-mac } (10.15 e versiuns pli actualas)
+#   $minversion (string) - minimum supported version e.g. 10.15
+vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } e versiuns pli novas)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
 vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (versiun 8 e versiuns pli actualas)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v2 = <a href="{ $url }">{ -brand-name-android }</a> (versiun 6 e versiuns pli actualas)
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-android = { -brand-name-android } (versiun 6 e versiuns pli actualas)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
 #   $version (number) - minimum supported version number
 vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } e pli nov)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-vpn-landing-faq-compatibility-question-desc-ios-v3 = <a href="{ $url }">{ -brand-name-ios }</a> (12.0 e versiuns pli actualas)
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v3 = <a href="{ $url }">{ -brand-name-linux }</a> ({ -brand-name-ubuntu } 18.04 e versiuns pli actualas)
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v2 = <a href="{ $url }">{ -brand-name-linux }</a> (mo { -brand-name-ubuntu })
-# Outdated string
-vpn-landing-faq-compatibility-question-desc-linux = { -brand-name-linux } (mo { -brand-name-ubuntu })
+vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 e versiuns pli novas)
 vpn-landing-faq-refund-question-heading = Tge reglas ha { -brand-name-mozilla-vpn } per la restituziun?
 vpn-landing-faq-refund-question-desc-v2 = L'emprima giada che ti abuneschas { -brand-name-mozilla-vpn } via la website da { -brand-name-mozilla } pos ti dumandar ina restituziun sche ti annulleschas tes conto entaifer ils emprims 30 dis. { -brand-name-mozilla } vegn a restituir l'import da l'emprima perioda da tes abunament.
 vpn-landing-faq-refund-question-additional-desc = Sche ti cumpras tes abunament via ina cumpra in-app da l'{ -brand-name-app-store } dad { -brand-name-apple } u il { -brand-name-google-play } Store è tes pajament suttamess a las directivas e cundiziuns da l'{ -brand-name-app-store }. Ti stos inoltrar eventualas dumondas che pertutgan la facturaziun u restituziun dad ina tala cumpra tar { -brand-name-apple } u { -brand-name-google }.
-# Outdated string
-vpn-landing-faq-refund-question-desc = Ti pos dumandar ina restituziun entaifer 30 dis suenter avair cumprà tes abunament. Ans contactescha ed inoltrescha tia dumonda da restituziun cun tutgar il buttun dad agid en ils parameters da tia applicaziun da { -brand-name-mozilla-vpn }.
 vpn-landing-faq-manage-subscription-question-heading = Co poss jau administrar mes abunament?
 # Variables:
 #   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
@@ -139,8 +92,6 @@ vpn-landing-faq-link = Ulteriuras dumondas frequentas
 
 vpn-landing-invite-page-title = T'inscriva en la glista da spetga: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Lascha t'infurmar cura che { -brand-name-mozilla-vpn } stat a disposiziun per tia regiun.
-# Outdated string
-vpn-landing-invite-page-desc = Lascha t'infurmar cura che { -brand-name-mozilla-vpn } stat a disposiziun per tes apparat e per tia regiun.
 vpn-landing-invite-page-heading = T'inscriva en la glista da spetga per VPN
 vpn-landing-invite-email-label = Tgenina è tia adressa dad e-mail?
 vpn-landing-invite-required-label = Obligatoric

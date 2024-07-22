@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = Funcziunalitads – { -brand-name-mozilla-vpn }
+vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funcziunalitads che protegian <br> tia vita online

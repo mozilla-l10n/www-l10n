@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,11 @@ manifesto-we-are-committed-to-diverse = Nus ans engaschain per in internet che e
 manifesto-show-your-support = Mussa tes sustegn
 manifesto-an-internet-with-these = In internet cun questas qualitads na nascha betg da sasez. Persunas singulas ed organisaziuns ston integrar questas finamiras en las tecnologias da l'internet ed en las experientschas ch'ils umans fan cun l'internet. Il manifest da { -brand-name-mozilla } e sia annexa stan per l'engaschi da { -brand-name-mozilla } per cuntanscher questas finamiras. Nus vulain collavurar cun persunas ed organisaziuns da tut il mund che sustegnan questas finamiras per far da l'internet in lieu anc meglier per tuts.
 manifesto-i-support-the-vision-of = Jau sustegn la visiun da @mozilla dad in internet meglier e pli saun – ti era?
+# Obsolete string
 manifesto-share-on-twitter = Cundivider sin { -brand-name-twitter }
+manifesto-share-on-x = Parter sin X
+manifesto-share-on-x-aria-label = Parter sin X (anteriur Twitter)
 manifesto-our-10-principles = <strong>Noss 10</strong> princips
-manifesto-use-open-badges-to-share = Fa diever dad Open Badges per mussar tias cumpetenzas e tes interess
-manifesto-explore-how-the-web-impacts = Ve a savair co l'internet gida a la scienza
-manifesto-learn-about-open-source = Scuvrir open source en il schurnalissem
-manifesto-read-about-open-internet = Legia dapli davart las iniziativas ed il svilup da nossa politica per in internet avert
-manifesto-explore-how-to-help-keep = Scuvra co gidar a mantegnair il web avert
-manifesto-see-how-the-web-can-connect = Scuvrir co che l'internet po promover il provediment da la sanadad en il mund
-manifesto-explore-how-the-web-works = Scuvrir co il web funcziuna
-manifesto-see-how-mozilla-works = Vesair co { -brand-name-mozilla } lavura per proteger tia vita privata
-manifesto-read-about-developments = Leger dapli davart il svilup da la sfera privata e la protecziun da datas
-manifesto-learn-more-about-how-to = Vegnir a savair co ta proteger online
-manifesto-use-these-free-tools-to = Duvrar quests utensils libers per mussar ad auters insatge davart il web
-manifesto-learn-about-creating-and = Emprender a crear ed optimar cuntegn per il web
-manifesto-add-new-voices-to-open = Agiuntar novas vuschs a la tecnologia open source
-manifesto-set-your-do-not-track = Configurar l'opziun 'betg fastizar'
-manifesto-understand-the-web-ecosystem = Chapir l'ecosistem dal web
-manifesto-explore-how-open-practices = Scuvra co il svilup avert pussibilitescha da mantegnair accessibel il web
-manifesto-learn-how-to-remix-content = Ve a savair co rearranschar cuntegn per crear insatge nov
-manifesto-learn-how-to-maximize = Ve a savair co optimar il potenzial interactiv dal web
-manifesto-participate-in-our-governance = Participescha a noss forum da gestiun
-manifesto-join-us-as-a-volunteer = Collavurescha sco voluntari
-manifesto-learn-how-to-collaborate = Ve a savair co collavurar online
-manifesto-visualize-who-you-interact = Visualisescha tias interacziuns cun auters en l'internet grazia a { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Emprender a crear resursas dal web a moda e maniera collectiva
-manifesto-host-or-join-a-maker-party = Organisescha u visita ina { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Vegnir a savair co perfecziunar sias cumpetenzas da collavuraziun online
 manifesto-read-the-entire-manifesto = Leger l'entir manifest
 manifesto-love-the-web = Il web ta plascha?
 manifesto-get-the-mozilla-newsletter = Abunescha il newsletter da { -brand-name-mozilla } ed ans gida d'al mantegnair avert e liber.
