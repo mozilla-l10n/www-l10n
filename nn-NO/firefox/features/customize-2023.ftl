@@ -9,3 +9,6 @@ features-customize-customize-your-firefox = Tilpass { -brand-name-firefox }-nett
 # HTML page description
 features-customize-choose-how-your-browser-looks = Vel korleis nettlesaren din skal sjå ut med tusenvis av gratis tema.
 features-customize-firefox-themes-let-you-change = { -brand-name-firefox }-tema lèt deg endre utsjånaden til nettlesaren. Dei stiller inn fargeskjemaet for nettlesarmenyar og { -brand-name-firefox } systemsider, og kan til og med leggje til eit bakgrunnsbilde i verktøyfeltet til { -brand-name-firefox }.
+features-customize-firefox-comes-with-a-default = { -brand-name-firefox } kjem med eit standardsystem-tema, og det er førehandslasta med lyse, mørke og fargerike variantar.
+# Used as accessible alternative text for an image
+features-customize-image-of-the-default-themes = Bilde av standardtemaet som følgjer med { -brand-name-firefox }, og som viser lyse, mørke og fargerike variantar.
