@@ -37,7 +37,7 @@ firefox-desktop-download-yes = Da
 firefox-desktop-download-no = Ne
 firefox-desktop-download-blocks-third-party = Blokira kolačiće za praćenje trećih strana
 firefox-desktop-download-blocks-third-party-default = Standardno blokira kolačiće za praćenje trećih strana
-firefox-desktop-download-autoplay-blocking = Automatski pokreni blokiranje
+firefox-desktop-download-autoplay-blocking = Blokiranje automatske reprodukcije
 firefox-desktop-download-blocks-social-trackers = Blokira programe za praćenje od društvenih mreža
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dostupnost na operacijskim sustavima
