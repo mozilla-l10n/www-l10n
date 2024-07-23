@@ -97,7 +97,17 @@ firefox-desktop-download-change-up-your = Promijeni izgled
 firefox-desktop-download-go-from-light = Prijeđi iz svijetlog u tamni modus ovisno o raspoloženju ili preferencijama ili dodaj šarolikost pomoću prilagođene teme (možda jednorog u duginim bojama).
 firefox-desktop-download-tweak-your-settings = Podesi postavke
 firefox-desktop-download-theres-no-need = Ne moraš zauvijek ostati na istom. Promijeni početnu stranicu nove kartice, traku za pretraživanje, zabilješke i još mnogo toga na način koji ti najviše odgovara.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Podržan od <strong>neprofitne organizacije</strong> kojoj su ljudi najvažniji
+firefox-desktop-download-your-privacy-comes = Tvoja je privatnost na prvom mjestu
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Zadrži sve svoje omiljene funkcije preglednika i <strong>otkrij</strong> nove.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Svi tvoji omiljeni { -brand-name-google } alati (kao što su Gmail i Docs) besprijekorno rade u pregledniku { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Preuzmi ovo proširenje preglednika</a> i spriječi { -brand-name-facebook } (i { -brand-name-instagram }) da te prate po webu.
 firefox-desktop-download-sync-your-devices = Sinkroniziraj svoje uređaje
 firefox-desktop-download-screenshots = Snimke ekrana
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
