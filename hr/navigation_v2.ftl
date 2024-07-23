@@ -5,6 +5,7 @@
 
 ## Firefox menu
 
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } za desktop
 
 ## Products menu
 

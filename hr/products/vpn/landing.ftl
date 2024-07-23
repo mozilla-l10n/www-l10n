@@ -8,6 +8,10 @@
 
 ## FAQ section
 
+# Variables:
+#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
+#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
+vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilan s <a href="{ $mobile }">mobitelom</a>, tabletom i <a href="{ $desktop }">desktopom</a> na :
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
