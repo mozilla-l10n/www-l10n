@@ -11,6 +11,7 @@
 
 # Platform subpage shared strings
 
+vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
 
 ## VPN + Relay bundle offer

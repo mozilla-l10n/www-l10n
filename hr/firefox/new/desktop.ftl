@@ -53,6 +53,28 @@ firefox-desktop-download-picture-in-picture = Slika-u-slici
 firefox-desktop-download-share-links = Dijeli poveznice
 firefox-desktop-download-protect-your-privacy = Zašti svoju privatnost
 firefox-desktop-download-third-party-cookie = Blokiranje kolačića trećih strana
+firefox-desktop-download-private-browsing-mode = Modus privatnog pregledavanja
+firefox-desktop-download-individual-protections-report = Izvještaj o individualnoj zaštiti
+firefox-desktop-download-secure-your-personal = Zaštiti svoje osobne podatke
+firefox-desktop-download-built-in-password = Ugrađeni upravljač za lozinke
+firefox-desktop-download-clear-history = Izbriši povijest
+firefox-desktop-download-form-autofill = Automatsko ispunjavanje obrazaca
+firefox-desktop-download-automatic-updates = Automatska aktualiziranja
+firefox-desktop-download-customize-your-browser = Prilagodi svoj preglednik
+firefox-desktop-download-themes = Teme
+firefox-desktop-download-dark-mode = Tamni modus
+firefox-desktop-download-library-of-extensions = Biblioteka proširenja
+firefox-desktop-download-adjust-search-bar = Podesi postavke trake za pretraživanje
+firefox-desktop-download-change-new-tab = Promijeni izgled nove kartice
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-sync-your-devices = Sinkroniziraj svoje uređaje
+firefox-desktop-download-screenshots = Snimke ekrana
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Poboljšana zaštita od praćenja (ETP)
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Nabavi { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Nabavi { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows = { -brand-name-windows }
