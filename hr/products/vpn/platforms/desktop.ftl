@@ -20,3 +20,4 @@ vpn-desktop-servers-headline = Poveži se sa serverima diljem svijeta
 vpn-desktop-devices-headline = Zaštiti do { $devices } uređaja
 vpn-desktop-speed-headline = Nevjerojatna brzina, bez ograničenja
 vpn-desktop-log-headline = Tvoja je privatnost na prvom mjestu
+vpn-desktop-log-copy = U { -brand-name-mozilla } ne prikupljamo podatke o tome tko si niti bilježimo tvoje aktivnosti na internetu – ne putem našeg VPN-a ili bilo kojeg drugog proizvoda. Zaštita tvoje privatnosti je temeljno načelo naše misije.
