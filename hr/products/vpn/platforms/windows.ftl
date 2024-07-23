@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } šifrira tvoju internetsku vezu i štiti tvoju IP adresu od znatiželjnih očiju na tvom desktopu ili prijenosnom računalu s naprednim protokolom { -brand-name-wireguard }®.
+vpn-windows-privacy-copy = { -brand-name-mozilla-vpn } šifrira tvoju internetsku vezu i štiti tvoju IP adresu od znatiželjnih očiju na tvom desktopu ili laptopu s naprednim protokolom { -brand-name-wireguard }®.

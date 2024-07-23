@@ -8,4 +8,4 @@
 
 # Meta strings
 
-vpn-mac-page-description = Bilo da koristiš { -brand-name-mac-short } desktop, prijenosno računalo, { -brand-name-ipad } ili { -brand-name-iphone }, zaštiti tvoj cijeli uređaj od hakera i znatiželjnih očiju pomoću { -brand-name-mozilla } VPN-a, pionira u internetskoj sigurnosti od 1998.
+vpn-mac-page-description = Bilo da koristiš { -brand-name-mac-short } desktop, laptop, { -brand-name-ipad } ili { -brand-name-iphone }, zaštiti tvoj cijeli uređaj od hakera i znatiželjnih očiju pomoću { -brand-name-mozilla } VPN-a, pionira u internetskoj sigurnosti od 1998.
