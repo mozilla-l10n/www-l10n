@@ -11,6 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Preuzmi { -brand-name-firefox-browser } (brz, privatan i besplatan) — { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Preuzmi { -brand-name-firefox } za desktop — { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Nabavi { -brand-name-firefox }, besplatni web preglednik koji podržava { -brand-name-mozilla }, neprofitna organizacija posvećena zdravlju i privatnosti interneta. Sada dostupan za { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Nabavi { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } ili { -brand-name-linux }. { -brand-name-firefox } je besplatni web-preglednik iza kojeg stoji { -brand-name-mozilla }, neprofitna organizacija posvećena zdravlju i privatnosti interneta.
 firefox-desktop-download-og-title = Preuzmi najbrži { -brand-name-firefox } ikad
 firefox-desktop-download-og-desc = Brže učitavanje stranica, manja potrošnja memorije i mnoštvo funkcija, ovdje je novi { -brand-name-firefox }.
@@ -99,6 +100,7 @@ firefox-desktop-download-tweak-your-settings = Podesi postavke
 firefox-desktop-download-theres-no-need = Ne moraš zauvijek ostati na istom. Promijeni početnu stranicu nove kartice, traku za pretraživanje, zabilješke i još mnogo toga na način koji ti najviše odgovara.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Podržan od <strong>neprofitne organizacije</strong> kojoj su ljudi najvažniji
+firefox-desktop-download-challenging-the-status = Od 1998. preispitujemo status quo
 firefox-desktop-download-your-privacy-comes = Tvoja je privatnost na prvom mjestu
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Zadrži sve svoje omiljene funkcije preglednika i <strong>otkrij</strong> nove.
@@ -118,9 +120,13 @@ firefox-desktop-download-get-firefox-android = Nabavi { -brand-name-firefox-brow
 firefox-desktop-download-get-firefox-ios = Nabavi { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Preuzmi { -brand-name-firefox } preglednik za mobitele za automatsku zaštitu na svim svojim uređajima.
 firefox-desktop-download-learn-about-the = Saznaj više o { -brand-name-firefox } pregledniku za desktop
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Imaš pitanja? <a { $attrs }>{ -brand-name-mozilla } podrška </a> ti može pomoći.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Skoro gotovo!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Sada završi <strong>instaliranje </strong> { -brand-name-firefox } preglednika.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
