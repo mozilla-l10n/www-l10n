@@ -12,5 +12,6 @@ features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } 
 features-fingerprinting-every-fingerprint = Kvart fingeravtrykk er eineståande.
 features-fingerprinting-download-firefox = Last ned { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Kva er identifisering (fingeravtrykk)?
+features-fingerprinting-if-you-have = Om du har ei vanleg berbar datamaskin, PC eller ein smart-telefon, kan det vere vanskelegare å unikt identifisere eininga di med fingeravtrykk. Dess meir unike tillegg, skrifter og innstillingar du har, dess lettare vil det truleg vere å finne deg. Føretak kan bruke denna unike kombinasjonen av informasjon for å lage ditt fingeravtrykk. Det er derfor { -brand-name-firefox } blokkerer kjende fingeravtrykksporarar, slik at du framleis kan bruke favoritt-tillegga dine, tema og tilpassingar utan å verte følgd av annonsar.
 features-fingerprinting-fingerprinting-is-bad = Fingeravtrykk er ikkje bra for nettet
 features-fingerprinting-protect = Ta vare på personvernet ditt
