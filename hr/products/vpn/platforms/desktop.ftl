@@ -15,3 +15,8 @@ vpn-desktop-about-headline = Informacije o { -brand-name-mozilla }
 vpn-desktop-privacy-headline = Privatnost jednim klikom
 vpn-desktop-privacy-copy = Aplikacija { -brand-name-mozilla-vpn } šifrira tvoju internetsku vezu i skriva IP adresu na tvom mobitelu ili tabletu pomoću naprednog protokola { -brand-name-wireguard }®.
 vpn-desktop-servers-headline = Poveži se sa serverima diljem svijeta
+# Variables:
+#   $devices (number) - number of available devices
+vpn-desktop-devices-headline = Zaštiti do { $devices } uređaja
+vpn-desktop-speed-headline = Nevjerojatna brzina, bez ograničenja
+vpn-desktop-log-headline = Tvoja je privatnost na prvom mjestu
