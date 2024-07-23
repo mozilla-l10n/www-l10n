@@ -11,8 +11,23 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Preuzmi { -brand-name-firefox-browser } (brz, privatan i besplatan) — { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Preuzmi { -brand-name-firefox } za desktop — { -brand-name-mozilla }
+firefox-desktop-download-meta-desc-v2 = Nabavi { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } ili { -brand-name-linux }. { -brand-name-firefox } je besplatni web-preglednik iza kojeg stoji { -brand-name-mozilla }, neprofitna organizacija posvećena zdravlju i privatnosti interneta.
+firefox-desktop-download-og-title = Preuzmi najbrži { -brand-name-firefox } ikad
+firefox-desktop-download-og-desc = Brže učitavanje stranica, manja potrošnja memorije i mnoštvo funkcija, ovdje je novi { -brand-name-firefox }.
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Dostupan je još noviji { -brand-name-firefox }. <a { $update_url }>Aktualiziraj na najnoviju verziju</a>
+firefox-desktop-download-get-the-browser = Nabavi preglednik koji štiti ono što je važno
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača u pozadini. Jednostavno brz preglednik koji ne trguje tvojim podacima.
 firefox-desktop-download-download-options = Mogućnosti preuzimanja i drugi jezici
 firefox-desktop-download-browser-support = Podrška za { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Radi što želiš online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
+firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } u usporedbi s drugim preglednicima
+firefox-desktop-download-get-all-the-speed = Dobij svu brzinu i alate bez zadiranja u privatnost. { -brand-name-firefox-browser } prikuplja tako malo podataka o tebi da čak ne zahtijevamo tvoju e-mail adresu za preuzimanje. To je zato što, za razliku od drugih preglednika, mi nemamo financijskih interesa da pratimo tvoje aktivnosti na webu.
+firefox-desktop-download-how-we-compare = Kako stojimo u usporedbi s drugim preglednicima
 firefox-desktop-download-compare-firefox-to = Usporedi { -brand-name-firefox } sa:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
 firefox-desktop-download-compare-edge = { -brand-name-edge }
@@ -28,6 +43,8 @@ firefox-desktop-download-os-availability = Dostupnost na operacijskim sustavima
 firefox-desktop-download-in-browser-screenshot = U pregledniku ugrađeni alat za snimanje ekrana
 firefox-desktop-download-primary-password = Primarna lozinka
 firefox-desktop-download-we-block-the-ad = Mi blokiramo oglase za praćenje. Ti brže istražuješ internet.
+firefox-desktop-download-ads-are-distracting = Oglasi odvlače pažnju i usporavaju učitavanje web stranica, dok njihovi uređaji za praćenje prate svaki tvoj pokret na internetu. { -brand-name-firefox-browser } automatski blokira većinu programa za praćenje, tako da ne moraš kopati po tvojim sigurnosnim postavkama.
+firefox-desktop-download-see-your-report = Pogledaj svoj izvještaj o zaštiti
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
 firefox-desktop-download-all-your-devices = Instaliraj { -brand-name-firefox } na sve svoje uređaje
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

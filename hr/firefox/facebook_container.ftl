@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,11 @@ facebook-container-millions-of-people-around = Milijuni ljudi širom svijeta vje
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobro ograničen. Zadrži ostatak svoga života za sebe.
 facebook-container-get-the-facebook-container = Nabaci dodatak { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Preuzmi { -brand-name-firefox } i nabavi dodatak { -brand-name-facebook-container }
-facebook-container-the-facebook-container-extension = Dodatak { -brand-name-facebook-container } nije dostupan na mobilnim uređajima.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Isprobaj <strong>{ -brand-name-firefox-focus }</strong>, privatni preglednik za { -brand-name-android } i { -brand-name-ios }.
+facebook-container-only-available-for-desktop = Proširenje { -brand-name-facebook-container } je trenutačno dostupno samo za { -brand-name-firefox } za desktop.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = Posjeti <a href="{ $url }">{ $link_copy }</a> za nabavljanje preglednika { -brand-name-firefox } za desktop.
 facebook-container-opt-out-on-your-terms = Isključi se po svojim uvjetima
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
