@@ -127,4 +127,23 @@ firefox-desktop-download-now-else = Sada završi <strong>instaliranje </strong> 
 firefox-desktop-download-now-windows = Sada <strong>pokreni</strong> upravo preuzeti instalacijski program.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Sada <strong>otvori</strong> upravo preuzetu datoteku.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Dolje odaberi opciju za <strong>preuzimanje</strong>
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Imaš problem? <a { $attrs }>Zatraži pomoć za instaliranje</a>.
+firefox-desktop-download-in-another-language = Preuzmi na jednom drugom jeziku ili za jedan drugi operacijski sustav.
 firefox-desktop-download-windows = { -brand-name-windows }
+firefox-desktop-download-visit-support-for-more = Posjeti stranicu podrške za više pojedinosti
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">više ne pruža sigurnosna aktualiziranja</a> za { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }, ali i dalje možeš koristiti { -brand-name-firefox }.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Preuzimanje bi trebalo početi automatski. Nije uspjelo? <a id="{ $id }" href="{ $fallback_url }">Pokušaj ponovo preuzeti.</a>
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Tvoje preuzimanje je prekinuto. Ali nije sve izgubljeno.
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
+firefox-desktop-download-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="%(url)s">ove upute</a>.
