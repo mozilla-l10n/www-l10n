@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
-vpn-desktop-page-title = { -brand-name-mozilla-vpn } za desktop (osobna i prijenosna računala)
-vpn-desktop-page-description = Koristi { -brand-name-mozilla } za brzu i jednostavnu sigurnost na desktopu i prijenosnom računalu, jednoj od tehnologija kojoj se najviše vjeruje.
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } za desktop (PC i laptop)
+vpn-desktop-page-description = Koristi { -brand-name-mozilla } za brzu i jednostavnu sigurnost na desktopu i laptopu, jednoj od tehnologija kojoj se najviše vjeruje.
 # Desktop strings
 vpn-desktop-hero-headline = Osiguraj svoju internetsku vezu s { -brand-name-mozilla-vpn } za desktop
 vpn-desktop-wifi-headline = Osjećaj se sigurno kada koristiš javni wifi

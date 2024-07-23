@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Preuzmi sada
 download-button-free-download = Besplatno preuzimanje
@@ -17,7 +17,7 @@ download-button-recommended = Preporučeno
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } više ne pruža sigurnosna ažuriranja za { -brand-name-firefox } na { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }</a>, ali posljednju { -brand-name-windows } 32-bitnu inačicu možeš još uvijek preuzeti ispod.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Prati <a href="{ $url }">ove upute</a> za instalaciju { -brand-name-firefox }a.
+download-button-please-follow-these = Slijedi <a href="{ $url }">ove upute</a> za instaliranje preglednika { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Tvoj sustav ne zadovoljava <a href="{ $url }">uvjete</a> za pokretanje { -brand-name-firefox }a.
@@ -39,3 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } privatnost
 download-button-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
 download-button-download = Preuzmi
+
+## Linux
+

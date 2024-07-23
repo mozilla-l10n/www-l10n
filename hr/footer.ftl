@@ -38,3 +38,5 @@ footer-go = Kreni
 footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-follow-mozilla = Slijedi @{ -brand-name-mozilla }
+footer-follow-firefox = Slijedi @{ -brand-name-firefox }

@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
-vpn-desktop-vpn-for-pc = VPN za PC ili prijenosno računalo od { -brand-name-mozilla }
+vpn-desktop-vpn-for-pc = VPN za PC ili laptop od { -brand-name-mozilla }
 vpn-desktop-if-you-are = Ako traži VPN za zaštitu svog prijenosnog računala ili PC-a, pogledaj { -brand-name-mozilla-vpn }. { -brand-name-mozilla-vpn } podržava neprofitno poduzeće. Saznaj kako te VPN štiti i zašto vjerovati da { -brand-name-mozilla } štiti tvoju privatnost i sigurnost.
 vpn-desktop-how-does-a = Kako VPN štiti moje prijenosno računalo ili PC?
 vpn-desktop-there-are-several = Postoji nekoliko razloga za korištenje VPN-a kao zaštitu kada koristiš prijenosno računalo ili PC :
