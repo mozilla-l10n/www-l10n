@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/add-ons/
 
 features-add-ons-firefox-add-ons = { -brand-name-firefox } dodaci
+features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } dodaci i proširenja preglednika
