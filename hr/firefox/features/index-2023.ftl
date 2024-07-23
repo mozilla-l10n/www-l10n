@@ -18,3 +18,7 @@ features-index-firefox-add-ons-and-browser-extensions = Dodaci i proširenja { -
 features-index-eyedropper-tool = Kapaljka
 features-index-identify-the-exact-color-on-a = Identificiraj točnu boju na stranici i kopiraj njezin heksadecimalni kod.
 features-index-pdf-editor = PDF uređivač
+features-index-view-and-edit-pdf-files = Prikaži i uredi PDF datoteke izravno u pregledniku { -brand-name-firefox }.
+features-index-fingerprint-blocking = Blokiranje digitalnih otisaka
+features-index-translate-the-web = Prevedi web
+features-index-picture-in-picture = Slika-u-slici
