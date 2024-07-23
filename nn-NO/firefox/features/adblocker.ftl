@@ -26,3 +26,4 @@ features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapslar eller berre dei som er stilt inn av sporarar. Merk at blokkering av alle infokapslar kan hindre enkelte nettstadar frå å fungere.
 features-adblocker-send-a-do-not-track-signal = Send eit «Ikkje spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar
+features-adblocker-in-some-cases-an-ad-blocker = I enkelte tilfelle kan ein annonsblokkerar hjelpe nettlesaren din med å gå raskare. Når ein annonse vert lasta kan han bremse ein nettstad. Samtidig tek det lengre tid å finne det du leitar etter om du er for oppteken med å late att enno ein annonse.
