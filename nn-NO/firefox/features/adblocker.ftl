@@ -12,6 +12,10 @@ features-adblocker-so-many-ads-so-little = Så mange annonsar, så lite tolmod�
 features-adblocker-the-average-person-sees = Gjennomsnittspersonen ser i omlag 4 000 annonsar om dagen. Dersom du synest at det er for mange, er ein annonseblokkerar din nye bestevenn.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeraren for deg
 features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsblokkering
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = I { -brand-name-firefox } kan du bruke innstillingar for <a href="{ $privacy }">Personvern</a> eller <a href="{ $blocking }">Innhaldsblokkering</a> for å få endå meir kontroll over annonsesporarar som viser annonsane.
 features-adblocker-choose-your-level-of-protection = Vel ditt vernenivå
 features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
 features-adblocker-get-tough-with-strict = Bli tøff med streng modus
