@@ -121,6 +121,10 @@ firefox-desktop-download-get-firefox-ios = Nabavi { -brand-name-firefox-browser 
 firefox-desktop-download-download-the-mobile = Preuzmi { -brand-name-firefox } preglednik za mobitele za automatsku zaštitu na svim svojim uređajima.
 firefox-desktop-download-learn-about-the = Saznaj više o { -brand-name-firefox } pregledniku za desktop
 # Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Od sigurnosti preko vijesti do igara, postoji <a { $attrs }>proširenje za sve</a>. Dodaj proširenja kako bi preglednik odgovarao tvojim željama.
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je stvoren <a { $attrs }>{ -brand-name-mozilla }</a> kao brža, privatnija alternativa preglednika kao što je { -brand-name-ie } i sada { -brand-name-chrome }. Danas naše poduzeće s misijom i zajednicom volontera nastavlja stavljati tvoju privatnost iznad svega.
 # Obsolete string
