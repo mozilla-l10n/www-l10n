@@ -121,8 +121,15 @@ firefox-desktop-download-get-firefox-ios = Nabavi { -brand-name-firefox-browser 
 firefox-desktop-download-download-the-mobile = Preuzmi { -brand-name-firefox } preglednik za mobitele za automatsku zaštitu na svim svojim uređajima.
 firefox-desktop-download-learn-about-the = Saznaj više o { -brand-name-firefox } pregledniku za desktop
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Snimi sliku visoke rezolucije bilo čega na internetu pomoću našeg u pregledniku ugrađenog alata za <a { $attrs }>snimanje ekrana</a>
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automatski <a { $attrs }>blokira mnoge programe za praćenje trećih strana</a> u prikupljanju i prodaji tvojih web aktivnosti.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Imaš pitanja? <a { $attrs }>{ -brand-name-mozilla } podrška </a> ti može pomoći.
+firefox-desktop-download-watch-for-hackers-with-v3 = Pazi na hakere s { -brand-name-mozilla-monitor }, zaštiti svoju e-mail adresu s { -brand-name-firefox-relay } i još više.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
