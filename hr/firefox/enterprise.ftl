@@ -1,12 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Preuzmi { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
 firefox-enterprise-get-unmatched-data-protection = Preuzmi { -brand-name-firefox } za poduzeća, za neusporedivu zaštitu podataka u koracima preuzimanja izdanja koji tebi odgovaraju. Preuzmi { -brand-name-esr } i Brzo izdanje.
+firefox-enterprise-get-firefox-for-your-enterprise = Nabavi { -brand-name-firefox } za svoje poduzeće
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Preuzmi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
