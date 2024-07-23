@@ -39,6 +39,18 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } privatnost
 download-button-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
 download-button-download = Preuzmi
+download-firefox-esr = Preuzmi { -brand-name-firefox-esr }
+download-firefox-esr-32 = Preuzmi { -brand-name-firefox-esr } 32-bitni
+download-firefox-esr-64 = Preuzmi { -brand-name-firefox-esr } 64-bitni
+download-a-different-build = Preuzmi drugu verziju
 
 ## Linux
 
+# Obsolete string
+download-button-linux-32 = Preuzmi { -brand-name-linux } 32-bitna
+# Obsolete string
+download-button-linux-64 = Preuzmi { -brand-name-linux } 64-bitna
+download-button-linux-32-v2 = Preuzmi za 32-bitni Linux
+download-button-linux-64-v2 = Preuzmi za 64-bitni Linux
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Nabavi ga od Microsofta
