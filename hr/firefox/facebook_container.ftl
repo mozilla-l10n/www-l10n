@@ -15,6 +15,7 @@ facebook-container-only-available-for-desktop = Proširenje { -brand-name-facebo
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Posjeti <a href="{ $url }">{ $link_copy }</a> za nabavljanje preglednika { -brand-name-firefox } za desktop.
+facebook-container-get-firefox-android-ios = Nabavi { -brand-name-firefox } za { -brand-name-android } i { -brand-name-ios } sada.
 facebook-container-opt-out-on-your-terms = Isključi se po svojim uvjetima
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

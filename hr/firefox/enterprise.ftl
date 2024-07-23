@@ -27,6 +27,9 @@ firefox-enterprise-support = Podrška
 firefox-enterprise-msi-installers = MSI instalacijski programi
 firefox-enterprise-legacy-browser-support = Podrška za stare web preglednike
 firefox-enterprise-admx-templates = ADMX predlošci
+firefox-enterprise-policy-documentation = Dokumentacija o politici
+firefox-enterprise-release-notes = Napomene o izdanju
+firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajednice
 firefox-enterprise-pkg-installer = PKG instalacijski programi
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bitni
 # Variables:

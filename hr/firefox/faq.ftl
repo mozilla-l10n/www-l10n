@@ -5,11 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+what-is-firefox = Što je { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+how-do-i = Kako mogu nabaviti { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -19,6 +21,8 @@
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 you-can-easily = Preglednik { -brand-name-firefox } možeš jednostavno preuzeti <a href="{ $url }">ovdje.</a> { -brand-name-firefox } radi na <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> uređajima, a također je dostupan za <a href="{ $url5 }">{ -brand-name-android } i { -brand-name-ios } .</a> Preuzmi naš preglednik s jedne od naših pouzdanih stranica { -brand-name-mozilla }/{ -brand-name-firefox }.
+is-firefox-free = Je li { -brand-name-firefox } besplatan?
+is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -27,18 +31,22 @@ you-can-easily = Preglednik { -brand-name-firefox } možeš jednostavno preuzeti
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+is-firefox-safe = Je li je { -brand-name-firefox } siguran?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+does-firefox-sell = Je li { -brand-name-firefox } prodaje tvoje osobne podatke?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+does-firefox-use = Je li { -brand-name-firefox } koristi { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+who-owns-firefox = Tko je vlasnik preglednika { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

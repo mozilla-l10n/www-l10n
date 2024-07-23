@@ -6,3 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Preuzmi { -brand-name-firefox-quantum }
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = Saznaj više o { -brand-name-firefox-quantum }
+privacy-first = Privatnost na prvom mjestu
+super-fast = Super brz
