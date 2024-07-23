@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting is a type of online tracking that’s more invasive than ordinary cookie-based tracking — that’s why { -brand-name-firefox-browser } blocks it.
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokkerer fingeravtrykk
 # description for the header image
 features-fingerprinting-every-fingerprint = Kvart fingeravtrykk er eineståande.

@@ -14,4 +14,5 @@ firefox-is-more = { -brand-name-firefox } er meir enn ein nettlesar
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-name-chromebook }
 we-believe-everyone = Vi meinar at alle skal ha tillgang til internett — det er difor vi gjer { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk med hjelp av av engasjerte friviljuge rundt om i verda.
 firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
+firefox-more-fingerprinting-is-a = Fingeravtrykk er ein type av online-sporing som er meir inngripande enn vanleg infokapselbasert sporing — det er difor { -brand-name-firefox-browser } blokkerer det.
 firefox-more-translate-the-web = Omset nettet
