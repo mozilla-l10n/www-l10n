@@ -6,5 +6,7 @@ sub-navigation-compare-mobile-browsers = Usporedi web preglednike za mobitele
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } za desktop
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Mobitel
+sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } i { -brand-name-developer-edition }
+sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } za mobitele
 sub-navigation-enterprise = { -brand-name-enterprise }
