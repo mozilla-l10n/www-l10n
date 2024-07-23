@@ -67,9 +67,9 @@ firefox-desktop-download-sync-across-devices = Sinkronizacija na svim uređajima
 firefox-desktop-download-reader-mode = Modus za čitanje
 firefox-desktop-download-spell-check = Provjera pravopisa
 firefox-desktop-download-pinned-tabs = Prikvačene kartice
-firefox-desktop-download-stream-share-play = Prenosi, dijeli i reproduciraj
+firefox-desktop-download-stream-share-play = Prenosi, dijeli i igraj
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Blokira automatsku reprodukciju videa i audiosnimaka
+firefox-desktop-download-block-autoplay-of = Blokiraj automatsku reprodukciju videa i audiosnimaka
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Slika-u-slici
 firefox-desktop-download-curated-content-on = Odabrani sadržaj na novoj kartici
@@ -157,6 +157,9 @@ firefox-desktop-download-select-linux = Dolje odaberi opciju za <strong>preuzima
 firefox-desktop-download-get-help = Imaš problem? <a { $attrs }>Zatraži pomoć za instaliranje</a>.
 firefox-desktop-download-in-another-language = Preuzmi na jednom drugom jeziku ili za jedan drugi operacijski sustav.
 firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ako vidite obavijest da aplikacija koju pokušavate instalirati nije { -brand-name-microsoft }potvrđena aplikacija, klikni „Svejedno instaliraj” ili <a { $attrs }>promijeni postavke preporuka aplikacije</a>.
 firefox-desktop-download-visit-support-for-more = Posjeti stranicu podrške za više pojedinosti
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
