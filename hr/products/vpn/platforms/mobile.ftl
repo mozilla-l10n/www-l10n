@@ -11,4 +11,5 @@ vpn-mobile-about-headline = Informacije o { -brand-name-mozilla }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Zaštiti do { $devices } uređaja
+vpn-mobile-devices-copy = Tvoja pretplata ti daje neograničen pristup našoj sigurnoj VPN usluzi na tvom pametnom telefonu, tabletu i desktopu za { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } i { -brand-name-linux }.
 vpn-mobile-speed-headline = Nevjerojatna brzina, bez ograničenja
