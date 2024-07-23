@@ -19,6 +19,19 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Da
 firefox-desktop-download-no = Ne
+firefox-desktop-download-blocks-third-party = Blokira kolačiće za praćenje trećih strana
+firefox-desktop-download-blocks-third-party-default = Standardno blokira kolačiće za praćenje trećih strana
+firefox-desktop-download-autoplay-blocking = Automatski pokreni blokiranje
+firefox-desktop-download-blocks-social-trackers = Blokira programe za praćenje od društvenih mreža
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Dostupnost na operacijskim sustavima
+firefox-desktop-download-in-browser-screenshot = U pregledniku ugrađeni alat za snimanje ekrana
+firefox-desktop-download-primary-password = Primarna lozinka
+firefox-desktop-download-we-block-the-ad = Mi blokiramo oglase za praćenje. Ti brže istražuješ internet.
+firefox-desktop-download-for-everyone = { -brand-name-firefox } je za svakoga
+firefox-desktop-download-all-your-devices = Instaliraj { -brand-name-firefox } na sve svoje uređaje
+firefox-desktop-download-search-smarter = Traži pametnije, brže
+firefox-desktop-download-boost-your = Povećaj svoju produktivnost
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
