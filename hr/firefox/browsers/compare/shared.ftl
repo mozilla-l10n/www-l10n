@@ -5,57 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Da
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Ne
-compare-shared-private-browsing-mode = Modus privatnog pregledavanja
-compare-shared-blocks-third-party-tracking-default = Standardno blokira kolačiće za praćenje trećih strana
-# Obsolete string
-compare-shared-blocks-third-party-tracking = Blokira kolačiće za praćenje trećih strana
-compare-shared-blocks-cryptomining-scripts = Blokira skripte za kriptominiranje
-compare-shared-blocks-social-trackers = Blokira programe za praćenje od društvenih mreža
-compare-shared-dashboard-to-review = Nadzorna ploča za pregled blokiranih sustava za praćenje
-compare-shared-autoplay-blocking = Automatski pokreni blokiranje
-compare-shared-tab-browsing = Pregledavanje pomoću kartica
-compare-shared-bookmark-manager = Upravljanje zabilješkama
-compare-shared-automatically-fills-out-forms = Automatski ispunjava obrasce
-compare-shared-automatically-fills-out-payments = Automatski ispunjava uplate
-compare-shared-search-engine-options = Opcije za tražilice
-compare-shared-text-to-speech = Tekst u govor
-compare-shared-reader-mode = Modus čitača
-compare-shared-spell-checking = Provjera pravopisa
-compare-shared-web-extensionsadd-ons = Web proširenja/dodaci
-compare-shared-in-browser-screenshot-tool = U pregledniku ugrađeni alat za snimanje ekrana
-compare-shared-os-availability = Dostupnost na operacijskim sustavima
-compare-shared-mobile-os-availability = Dostupnost na operacijskim sustavima mobilnih uređaja
-compare-shared-syncs-with-mobile = Sinkronizira s mobilnim uređajima
-compare-shared-password-management = Upravljanje lozinkama
-compare-shared-primary-password = Primarna lozinka
-# Obsolete string
-compare-shared-master-password = Glavna lozinka
-compare-shared-security-and-privacy = Sigurnost i privatnost
-compare-shared-utility = Korisnost
-compare-shared-portability = Prenosivost
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Sigurnost i <strong>privatnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Korisnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation include multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Prenosivost:</strong>
-compare-shared-overall-assessment = Ukupna procjena
-compare-shared-this-page-updated-semi-quarterly = Ova se stranica aktualizira kvartalno, kako bi odražavala najnovije verzije, ali ne odražava uvijek i najnovija aktualiziranja.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-ie = { -brand-name-ie }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Preuzmi { -brand-name-firefox }
-compare-shared-download-firefox-browser = Preuzmi { -brand-name-firefox-browser }
-compare-shared-download-the-app = Preuzmi program
-compare-shared-desktop = Desktop
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Usporedi preglednike
+compare-shared-compare-firefox = Usporedi { -brand-name-firefox }
+compare-shared-footer-cta-title = Uradi više s { -brand-name-firefox }
+compare-shared-footer-cta-button = Preuzmi { -brand-name-firefox }
+# Used as a small link to a cited source
+compare-shared-source = izvor

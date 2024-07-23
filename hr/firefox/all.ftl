@@ -1,11 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Provjeri uvjete sustava
+firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
 firefox-all-release-notes = Napomene o izdanju
 firefox-all-source-code = Izvorni kȏd
 firefox-all-need-help = Trebaš pomoć?
@@ -35,6 +35,7 @@ firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { 
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } preglednikom, koji je izgrađen za poduzeća.
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 instaleri
+# Obsolete string (expires: 2024-06-04)
 firefox-all-arm64-installers-optimized = ARM64/AArch64 instaleri optimirani za Snapdragon-pogonjene { -brand-name-windows } PC-ove.
 firefox-all-product-send-link = Pošalji poveznicu za preuzimanje na svoj mobitel
 # Variables:

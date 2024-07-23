@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Usporedi
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pogledaj kako se { -brand-name-firefox } za desktop razlikuje od drugih web-preglednika.
