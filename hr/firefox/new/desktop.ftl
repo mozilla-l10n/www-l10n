@@ -112,10 +112,19 @@ firefox-desktop-download-sync-your-devices = Sinkroniziraj svoje uređaje
 firefox-desktop-download-screenshots = Snimke ekrana
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Poboljšana zaštita od praćenja (ETP)
+firefox-desktop-download-from-watching-a = Od gledanja web priručnika do praćenja tvoje omiljene momčadi, tvoj te video prati dok obavljaš više zadataka istovremeno.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Nabavi { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Nabavi { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Preuzmi { -brand-name-firefox } preglednik za mobitele za automatsku zaštitu na svim svojim uređajima.
+firefox-desktop-download-learn-about-the = Saznaj više o { -brand-name-firefox } pregledniku za desktop
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Sada završi <strong>instaliranje </strong> { -brand-name-firefox } preglednika.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Sada <strong>pokreni</strong> upravo preuzeti instalacijski program.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Sada <strong>otvori</strong> upravo preuzetu datoteku.
 firefox-desktop-download-windows = { -brand-name-windows }
