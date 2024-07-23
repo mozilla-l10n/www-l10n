@@ -5,3 +5,4 @@
 sub-navigation-compare-mobile-browsers = Usporedi web preglednike za mobitele
 sub-navigation-mobile = Mobitel
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } za mobitele
+sub-navigation-enterprise = { -brand-name-enterprise }
