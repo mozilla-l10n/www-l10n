@@ -33,7 +33,11 @@ features-adblocker-on-firefox-you-can-use = I { -brand-name-firefox } kan du bru
 features-adblocker-choose-your-level-of-protection = Vel ditt vernenivå
 features-adblocker-to-start-click-on-the-v2 = For å starte, klikk på skjoldet til venstre for adressefeltet på ei nettside, og vel «Innstillingar for vern». Dette opnar sida «Personvern og sikkerheit» i { -brand-name-firefox }-innstillingane, i ei ny fane. Under «Utvida sporingsvern», finn du ei blå rute med ulike innstillingar.
 features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
+features-adblocker-if-ads-dont-bother-you = Om annonsar ikkje uroar deg, og du ikkje bryr deg om at du vert følgd av sporarar og tredjeparts-infokapslar, bør standard-innstillinga fungere for deg. For å sleppe sporarar i standard-modus, bruk <a href="{ $url }">Privat nettlesing</a>-vindauget.
 features-adblocker-get-tough-with-strict = Bli tøff med streng modus
+features-adblocker-if-seeing-too-many-ads = Om for mange annonsar øydelegg dagen din, då passar Streng-modus betre. Denne modusen blokkerer kjende tredjeparts-sporarar og infokapslar i alle { -brand-name-firefox }-vindauge.
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
 features-adblocker-cover-your-trail-block = Skjul spora dine, blokker sporarar
 features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
