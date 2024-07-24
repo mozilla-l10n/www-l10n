@@ -11,7 +11,14 @@ features-adblocker-the-ad-blocker-a-secret = Annonseblokkeraren – eit hemmeleg
 features-adblocker-so-many-ads-so-little = Så mange annonsar, så lite tolmod… Det er på tide å stoppe galskapen..
 features-adblocker-the-average-person-sees = Gjennomsnittspersonen ser i omlag 4 000 annonsar om dagen. Dersom du synest at det er for mange, er ein annonseblokkerar din nye bestevenn.
 features-adblocker-an-ad-blocker-is-a-piece = Ein annonsblokkerar er ei programvare som kan brukast til å blokkere annonsar, og dei fungerer på to måtar. Den første måten er når ein annonseblokkerar blokkerer signal frå sørvaren til ein annonsør, slik at annonsen aldri vert vist på datamaskina di eller mobilen din. Ein annan måte annonseblokkerarane fungerar på, er å blokkere delar av ein nettstaden som kan vere annonsar.
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-these-ads-might-be-loud = Desse annonsane kan vere høglydte videoannonsar, annonsar som følgjer deg på nettet, sporarar, infokapslar frå tredjepart og meir. Om du vil bruke ein annonseblokkerar kan du søkje etter tillegg for annonseblokkerarar som er tilgjengelege i nettlesaren din. <a href="{ $firefox }">{ -brand-name-firefox }</a> har til dømes <a href="{ $addons }">denne lista over godkjende tillegg for annonseblokkering</a>. Klikk på denne lista (eller annonseblokkerarar som er godkjende for nettlesaren din), og sjå kva for nokre som passar dine behov.
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeraren for deg
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
+features-adblocker-theres-adblocker-ultimate = Nokre annonseblokkerarar, til dømes <a href="{ $url }">AdBlocker Ultimate</a> blokkerer all kjend reklame. Men hugs på at nokre av dei føretrekte avisene og vekeblada dine kan vere økonomisk avhengige af reklame. Viss alle blokkerer reklamane på ein nettstad, kan det vere at nettstaden rett og slett ikkje greier seg.
 features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsblokkering
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
