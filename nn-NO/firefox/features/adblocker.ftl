@@ -39,6 +39,7 @@ features-adblocker-if-ads-dont-bother-you = Om annonsar ikkje uroar deg, og du i
 features-adblocker-get-tough-with-strict = Bli tøff med streng modus
 features-adblocker-if-seeing-too-many-ads = Om for mange annonsar øydelegg dagen din, då passar Streng-modus betre. Denne modusen blokkerer kjende tredjeparts-sporarar og infokapslar i alle { -brand-name-firefox }-vindauge.
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
+features-adblocker-the-custom-setting-gives = Innstillingane under Tilpassa gjev deg mulegheita til å sjølvbestemme. Du kan velje det du vil blokkere - inkludert sporings-tenester, infokapslar og anna. Viss du tillèt infokapslar frå ein nettstad, brukar du automatisk Tilpassa.
 features-adblocker-cover-your-trail-block = Skjul spora dine, blokker sporarar
 features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapslar eller berre dei som er stilt inn av sporarar. Merk at blokkering av alle infokapslar kan hindre enkelte nettstadar frå å fungere.
