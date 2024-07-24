@@ -109,7 +109,7 @@ firefox-desktop-download-all-your-favourite = Svi tvoji omiljeni { -brand-name-g
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >Preuzmi ovo proširenje preglednika</a> i spriječi { -brand-name-facebook } (i { -brand-name-instagram }) da te prate po webu.
+firefox-desktop-download-download-this-browser = <a { $attrs } >Preuzmi ovo proširenje preglednika</a> i spriječi { -brand-name-facebook } (i { -brand-name-instagram }) da te prate na webu.
 firefox-desktop-download-sync-your-devices = Sinkroniziraj svoje uređaje
 firefox-desktop-download-screenshots = Snimke ekrana
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
