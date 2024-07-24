@@ -16,16 +16,14 @@ privacy-faq-at-mozilla-we-respect-and-protect = My pla { -brand-name-mozilla } w
 privacy-faq-we-follow-a-set-of-data-privacy = Slědujomy rěd <a href="{ $link }">zasadow priwatnosći</a>, kótarež našu wašnju pśistupa k priwatnosći we { -brand-name-firefox } za desktop a mobilne rědy póstajaju.
 privacy-faq-we-only-collect-the-data-we = Zběramy jano daty, kótarež trjebamy, ab my nejlěpše produkty wuwijali.
 privacy-faq-we-put-people-in-control-of = Wóstajijomy luźam kontrolu nad jich datami a dožywjenjami online.
+# Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = Za nas princip „žedne pśechwatanja“ płaśi, to groni, źěłamy śěžko na tom, až se wócakowanja luźi na { -brand-name-firefox } z napšawdnosću kšyju.
 privacy-faq-the-following-questions-and = Slědujuce pšašanja a wótegrona maju wam pomagaś, rozměś, což móžośo wót { -brand-name-mozilla } a { -brand-name-firefox } wócakowaś:
 privacy-faq-i-use-firefox-for-almost-everything = Wužywam { -brand-name-firefox } za skóro wšykno w interneśe. Nejskerjej wě { -brand-name-mozilla } pšawje wjele wó mnje, nic ga?
+# Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, webwobglědowak, kótaryž na wašom rěźe abo licadle běžy, jo waše wrota do interneta. Waš wobglědowak zastoj wjele informacijow wó websedłach, ku kotarymž woglědujośo, ale toś te informacije wóstawaju na wašom rěźe. { -brand-name-mozilla }, organizacija, kótaraž { -brand-name-firefox } gótujo, je njezběra (snaźkuli pšosyśo wó to).
 privacy-faq-really-you-dont-collect-my-browsing = Njezběraśo napšawdu móju pśeglědowańsku historiju?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } njewě tak wjele ako wócakujośo wó tom, kak luźe web pśeglědujośo. Ako zgótowaŕ wobglědowaka jo to napšawdu wjelike wupominanje za nas. Togodla smy rědy za dobrowólne wužywanje wuwili, kótarež zajmowanym wužywarjam zmóžnjaju, nam doglěd do jich webpśeglědowanja bitowaś. Jolic swóju pśeglědowańsku historiju pśez instalacije { -brand-name-firefox } synchronizěrujośo, njewěmy, což toś ta historija wopśimujo - dokulaž jo pśez waš rěd skoděrowana.
-# Obsolete string
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } njewě tak wjele ako wócakujośo wó tom, kak luźe web pśeglědujośo. Ako zgótowaŕ wobglědowaka jo to napšawdu wjelike wupominanje za nas. Togodla smy rědy za dobrowólne wužywanje wuwili, na pśikład <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, kótarež zajmowanym wužywarjam zmóžnjaju, nam doglěd do jich webpśeglědowanja bitowaś. Jolic swóju pśeglědowańsku historiju pśez instalacije { -brand-name-firefox } synchronizěrujośo, njewěmy, což toś ta historija wopśimujo - dokulaž jo pśez waš rěd skoděrowana.
 privacy-faq-it-seems-like-every-company = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } daty wó was njepśedawa a njekupujo.
 privacy-faq-wait-so-how-do-you-make-money = Moment, z cyim ga pjenjeze zaslužyśo?
@@ -34,6 +32,7 @@ privacy-faq-wait-so-how-do-you-make-money = Moment, z cyim ga pjenjeze zaslužy�
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } njejo žedna wšedna organizacija. Ako projekt wótwórjoneho žrědła zgromaźeństwa w lěśe 1998 załožony, jo { -brand-name-mozilla } organizacija z misiju, kótaraž za strowšy internet źěła. Wětšyna zasłužbow, kótarež pśedewześe { -brand-name-mozilla-corporation } dojśpiwa, póchadaju z płaśenjow pśez partnarstwa webwobglědowaka { -brand-name-firefox } a rozdźěleńskich dogronow cełego swěta. Móžośo w našej <a href="{ $link }">lětnej financnej rozpšawje </a> wěcej wó tom zgóniś, kak pjenjeze zasłužymy.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = W pórěźe, toś te pšašanja su byli jadnore. Kótare daty zběraśo?
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -43,9 +42,12 @@ privacy-faq-we-make-our-documentation-public = Naša dokumentacija jo zjawna, ab
 privacy-faq-that-documentation-is-gobbledygook = Dokumentacija jo mě njerozumliwa! Móžośo mě to dolnoserbski rozjasniś?
 privacy-faq-there-are-two-categories-of = Stej dwě kategoriji datow, kótarejž pó standarźe w našej kóńcnej wersiji { -brand-name-firefox } zběramy.
 privacy-faq-the-first-is-what-we-call-technical = Prědnu pomjenjujomy „techniske daty“. To su daty wó wobhglědowaku samem, ako na pśikład źěłowy system, na kótaremž běžy a informacije wó zmólkach abo wowalenjach.
-privacy-faq-the-second-is-what-we-call-interaction = Drugu pomjenjujomy „interakciske daty“. To su daty wó interakciji jadnotliwego wužywarja z { -brand-name-firefox }, na pśikład licba wócynjonych rejtarikow, status wužywarskich nastajenjow abo kak cesto su se wěste funkcije wobglědowaku wužyli, na pśikład fota wobrazowki abo kontejnery. Zběramy toś te daty na pśikład z pomocu tłocaška Slědk, toś teje šypki w lěwem górnym rožku wašogo wobglědowaka, kótaryž wam zmóžnja, k pjerwjejšnemu bokoju nawigěrowaś, aby my mógli wiźeś, lěc něchten jo tłocašk Slědk wužył, ale njamóžomy wiźeś, ku kótarym webbokam sćo woglědał.
+# Obsolete string (expires 2024-09-11)
+privacy-faq-the-second-is-what-we-call-interaction = Drugu pomjenjujomy „interakciske daty“. To su daty wó interakciji jadnotliwego wužywarja z { -brand-name-firefox }, na pśikład licba wócynjonych rejtarikow, status wužywaŕskich nastajenjow abo kak cesto su se wěste funkcije wobglědowaku wužyli, na pśikład fota wobrazowki abo kontejnery. Zběramy toś te daty na pśikład z pomocu tłocaška Slědk, toś teje šypki w lěwem górnym rožku wašogo wobglědowaka, kótaryž wam zmóžnja, k pjerwjejšnemu bokoju nawigěrowaś, aby my mógli wiźeś, lěc něchten jo tłocašk Slědk wužył, ale njamóžomy wiźeś, ku kótarym webbokam sćo woglědał.
 privacy-faq-do-you-collect-more-data-in = Zběraśo wěcej datow w pśedwersijach { -brand-name-firefox }?
+# Obsolete string (expires 2024-09-11)
 privacy-faq-sort-of-in-addition-to-the-data = We wěstem nastupanju. Pśidatnje k datam, kótarež smy górjejce wopisali, dostawamy w pśedwersiji { -brand-name-firefox } pó standarźe rozpšawy wó zmólkach a wowalenjach.
+# Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional = Móžomy teke dalšne daty w pśedwersiji zběraś, za jadnu z našych <a href="{ $link }">studijow</a>. Někotare studije na pśikład trjebaju tak pomjenjone „daty webaktiwity“, ku kótarymž móža URL a druge daty wó wěstych websedłach słušaś. To nam pomaga, na wěste pšašanja wótegroniś, aby my { -brand-name-firefox } pólěpšyli, na pśikład, kak daju se wěste woblubowane websedła do wěstych rěcnych wersijow integrěrowaś.

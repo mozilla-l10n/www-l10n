@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -13,7 +13,7 @@ privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } jo projek
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Slědujuce pěś principow póchada z <a href="{ $link }">manifesta { -brand-name-mozilla }</a> a informěrujo, kak my:
 privacy-principles-develop-our-products = wuwijamy naše produkty a słužby
-privacy-principles-manage-user-data-we-collect = zastojamy wužywarske daty, kótarež zběramy
+privacy-principles-manage-user-data-we-collect = zastojamy wužywaŕske daty, kótarež zběramy
 privacy-principles-select-and-interact-with = wuběramy partnarje a interagěrujomy z niimi
 privacy-principles-shape-our-public-policy = wugótujomy źěło w našej zjawnej politice a zastupowanju zajmow
 privacy-principles-no-surprises = Žedne pśechwatanja
@@ -23,6 +23,6 @@ privacy-principles-develop-products-and = Wuwijamy produkty a zasajźamy se za n
 privacy-principles-limited-data = Wobgranicowane daty
 privacy-principles-collect-what-we-need = Zběramy, což trjebamy, anonymizěrujomy, źož móžomy a lašujomy, což wěcej njetrjebamy.
 privacy-principles-sensible-settings = Zmysłapołne nastajenja
-privacy-principles-design-for-a-thoughtful = Wěstota a wužywarske dožywjenje musytej we wuwažonem poměrje staś.
+privacy-principles-design-for-a-thoughtful = Wěstota a wužywaŕske dožywjenje musytej we wuwažonem poměrje staś.
 privacy-principles-defense-in-depth = Zašćitowanje na někotarych rowninach
 privacy-principles-maintain-multi-layered = Wěstota zarucujo se pśez wěcejworstwowe wóźenje a praktiki, kótarež su zjawnje pśeglědujobne.
