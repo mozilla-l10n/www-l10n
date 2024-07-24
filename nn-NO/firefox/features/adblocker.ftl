@@ -8,7 +8,7 @@
 features-adblocker-how-to-block-annoying = Slik blokkerer du irriterande annonsar med hjelp av ein annonseblokkerar
 features-adblocker-how-to-stop-seeing-too = Korleis du kan slutte å sjå for mange annonsar og hindre at selskap følgjer deg rundt om på nettet. Ein annonseblokkererguide frå nettlesaren { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Annonseblokkeraren – eit hemmeleg våpen mot irriterande annonsar.
-features-adblocker-so-many-ads-so-little = Så mange annonsar, så lite tolmod… Det er på tide å stoppe galskapen..
+features-adblocker-so-many-ads-so-little = Så mange annonsar, så lite tolmod… Det er på tide å stoppe galskapen.
 features-adblocker-the-average-person-sees = Gjennomsnittspersonen ser i omlag 4 000 annonsar om dagen. Dersom du synest at det er for mange, er ein annonseblokkerar din nye bestevenn.
 features-adblocker-an-ad-blocker-is-a-piece = Ein annonsblokkerar er ei programvare som kan brukast til å blokkere annonsar, og dei fungerer på to måtar. Den første måten er når ein annonseblokkerar blokkerer signal frå sørvaren til ein annonsør, slik at annonsen aldri vert vist på datamaskina di eller mobilen din. Ein annan måte annonseblokkerarane fungerar på, er å blokkere delar av ein nettstaden som kan vere annonsar.
 # Variables:
