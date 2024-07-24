@@ -11,6 +11,7 @@ features-fingerprinting-what-is-fingerprinting-title = Kva er fingeravtrykk-iden
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting is a type of online tracking that’s more invasive than ordinary cookie-based tracking — that’s why { -brand-name-firefox-browser } blocks it.
 features-fingerprinting-fingerprint-blocking = Blokkering av fingeravtrykksporarar
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokkerer fingeravtrykk
+features-fingerprinting-ditch-the-sticky = Ta bort dei klistrete annonsane som følgjer deg med { -brand-name-firefox } sin innebygde fingeravtrykkblokkerar.
 # description for the header image
 features-fingerprinting-every-fingerprint = Kvart fingeravtrykk er eineståande.
 features-fingerprinting-download-firefox = Last ned { -brand-name-firefox }
@@ -20,6 +21,8 @@ features-fingerprinting-if-you-have = Om du har ei vanleg berbar datamaskin, PC 
 features-fingerprinting-fingerprinting-is-bad = Fingeravtrykk er ikkje bra for nettet
 # $url_details (string) - https://blog.mozilla.org/security/2020/01/07/firefox-72-fingerprinting/
 features-fingerprinting-the-latest-firefox = Den siste { -brand-name-firefox }-nettlesaren beskyttar deg mot fingeravtrykk ved å blokkere førespurnadar frå tredje part til føretag som er kjende for å delta i fingeravtrykk-identifisering. Vi har arbeidd hardt for å aktivere dette personvernet utan å øydeleggje nettstadane du likar å besøkje. (Les meir her om du vil ha dei <a { $url_details }>tekniske detaljane</a>.)
+# $url_protections (string) - https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard
+features-fingerprinting-and-its-not = Og det er ikkje ei gøymd innstilling du må grave etter for å finne. I den siste { -brand-name-firefox }-nettlesaren er blokkering av fingeravtrykksporarar standard. Besøk <a { $url_protections }>tryggingsoversikta</a> di for å sjå korleis du vert spora bak kulissene, og korleis { -brand-name-firefox } hindrar det.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Du ville sannsynlegvis ikkje sette pris på at nokon skulle spore bevegelsane dine i det verkelege livet. Det finst ingen grunn til å godta det på nettet. Om du ikkje allereie har { -brand-name-firefox }, <a { $url_download }>last ned og beskytt deg sjølv</a> frå digitale fingeravtrykk.
 features-fingerprinting-protect = Ta vare på personvernet ditt
