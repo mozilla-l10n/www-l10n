@@ -95,7 +95,7 @@ firefox-desktop-download-change-new-tab = Promijeni izgled nove kartice
 firefox-desktop-download-make-firefox-your = Prilagodi <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Proširenja za svaku priliku
 firefox-desktop-download-change-up-your = Promijeni izgled
-firefox-desktop-download-go-from-light = Prijeđi iz svijetlog u tamni modus ovisno o raspoloženju ili preferencijama ili dodaj šarolikost pomoću prilagođene teme (možda jednorog u duginim bojama).
+firefox-desktop-download-go-from-light = Prijeđi iz svijetlog u tamni modus ovisno o raspoloženju ili preferencijama ili dodaj šarolikost pomoću prilagođene teme (možda jednu u duginim bojama).
 firefox-desktop-download-tweak-your-settings = Podesi postavke
 firefox-desktop-download-theres-no-need = Ne moraš zauvijek ostati na istom. Promijeni početnu stranicu nove kartice, traku za pretraživanje, zabilješke i još mnogo toga na način koji ti najviše odgovara.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -126,7 +126,7 @@ firefox-desktop-download-learn-about-the = Saznaj više o { -brand-name-firefox 
 firefox-desktop-download-from-security-to = Od sigurnosti preko vijesti do igara, postoji <a { $attrs }>proširenje za sve</a>. Dodaj proširenja kako bi preglednik odgovarao tvojim željama.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je stvoren <a { $attrs }>{ -brand-name-mozilla }</a> kao brža, privatnija alternativa preglednika kao što je { -brand-name-ie } i sada { -brand-name-chrome }. Danas naše poduzeće s misijom i zajednicom volontera nastavlja stavljati tvoju privatnost iznad svega.
+firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a> je izradio { -brand-name-firefox } kao bržu, privatniju alternativu preglednika kao što je { -brand-name-ie } i sada { -brand-name-chrome }. Danas naše poduzeće vođeno misijom i zajednicom volontera nastavlja stavljati tvoju privatnost iznad svega.
 # Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
