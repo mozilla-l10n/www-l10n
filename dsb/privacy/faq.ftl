@@ -63,7 +63,7 @@ privacy-faq-what-about-my-account-data = Co jo z mójimi kontowymi datami?
 privacy-faq-we-are-big-believers-of-data = Dajomy wjele na miniměrowanje datow a njepšašamy se was za nicym, kótarež njetrjebamy.
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
-privacy-faq-you-dont-need-an-account-to = Njetrjebaśo konto, aby { -brand-name-firefox } wužywał. <a href="{ $accounts }">Konta</a> su trěbne za synchronizěrowanje datow mjazy rědami, my pak pšosymy was jano wó e-mailowu adresu. Njocomy daniž wašo mě, daniž wašu adresu, daniž waš narodny źeń danži telefonowy numer wěźeś.
+privacy-faq-you-dont-need-an-account-to = Njetrjebaśo konto, aby { -brand-name-firefox } wužywał. <a href="{ $accounts }">Konta</a> su trjebne za synchronizěrowanje datow mjazy rědami, my pak pšosymy was jano wó e-mailowu adresu. Njocomy daniž wašo mě, daniž wašu adresu, daniž waš narodny źeń danži telefonowy numer wěźeś.
 privacy-faq-you-use-digital-advertising = Wužywaśo digitalne wabjenje ako źěl swójeje marketingoweje strategije. Kupujośo daty luźi, aby swójo wabjenje online lěpjej pśirězał?
 privacy-faq-no-we-do-not-buy-peoples-data = Ně, njekupujomy daty luźi, aby zaměrne wabjenje cynili.
 privacy-faq-we-do-ask-our-advertising-partners = Pominamy wót našych wabjeńskich partnarJow, jano daty prědnego póbitowarja wužywaś, kótarež websedła a wózjawjarje maju wó wšych wužywarjach, na pśikład wobglědowak, kótaryž wužywaśo a rěd, na kótaremž jen wužywaśo.

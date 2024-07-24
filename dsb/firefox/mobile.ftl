@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -30,7 +30,7 @@ firefox-mobile-android-only = Jano { -brand-name-android }
 firefox-mobile-make-android-your-own = Pśiměŕśo se { -brand-name-android }
 firefox-mobile-customize-your-firefox-mobile-truncated = Pśiměŕśo swój mobilny wobglědowak { -brand-name-firefox } z rozšyrjenjami.
 firefox-mobile-find-it-fast-with-a-smart = Pytajśo malsnjej z inteligentneju pytańskeju rědku
-firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } waše pótrěbnosći z inteligentnymi pytańskimi naraźenjami a malsnym pśistupom k sedłam do togo wiźi, ku kótarymž se nejcesćej woglědujośo.
+firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } waše pótrjebnosći z inteligentnymi pytańskimi naraźenjami a malsnym pśistupom k sedłam do togo wiźi, ku kótarymž se nejcesćej woglědujośo.
 firefox-mobile-the-privacy-you-deserve-the = Priwatnosć, kótaruž se zasłužyjośo. Malsnosć, kótaruž trjebaśo.
 firefox-mobile-get-firefox-for-mobile = Wobstarajśo se mobilny { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
