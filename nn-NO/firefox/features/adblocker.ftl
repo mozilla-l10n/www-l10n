@@ -19,6 +19,12 @@ features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeraren
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Nokre annonseblokkerarar, til dømes <a href="{ $url }">AdBlocker Ultimate</a> blokkerer all kjend reklame. Men hugs på at nokre av dei føretrekte avisene og vekeblada dine kan vere økonomisk avhengige af reklame. Viss alle blokkerer reklamane på ein nettstad, kan det vere at nettstaden rett og slett ikkje greier seg.
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
+features-adblocker-popup-ads-are-the-worst = Sprettopp-annonsar er dei verste. Blokker dei med <a href="{ $url }">Popup Blocker</a> og du vil aldri meir sjå ei irriterande sprettopp-annonse.
+# Variables:
+#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
+features-adblocker-one-of-the-most-popular = Ein av dei mest populæra annonse-blokkerarane for { -brand-name-chrome }, { -brand-name-safari } og { -brand-name-firefox } er <a href="{ $url }">AdBlock</a>. Bruk han for å blokkere annonsar på { -brand-name-facebook }, { -brand-name-youtube } og { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsblokkering
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
