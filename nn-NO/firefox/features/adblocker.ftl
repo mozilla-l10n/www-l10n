@@ -31,6 +31,7 @@ features-adblocker-create-a-tracker-free = Lag ei sporingsfri sone med innhaldsb
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = I { -brand-name-firefox } kan du bruke innstillingar for <a href="{ $privacy }">Personvern</a> eller <a href="{ $blocking }">Innhaldsblokkering</a> for å få endå meir kontroll over annonsesporarar som viser annonsane.
 features-adblocker-choose-your-level-of-protection = Vel ditt vernenivå
+features-adblocker-to-start-click-on-the-v2 = For å starte, klikk på skjoldet til venstre for adressefeltet på ei nettside, og vel «Innstillingar for vern». Dette opnar sida «Personvern og sikkerheit» i { -brand-name-firefox }-innstillingane, i ei ny fane. Under «Utvida sporingsvern», finn du ei blå rute med ulike innstillingar.
 features-adblocker-go-easy-with-standard = Ta det roleg med standard-modus
 features-adblocker-get-tough-with-strict = Bli tøff med streng modus
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
