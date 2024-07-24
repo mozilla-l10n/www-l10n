@@ -1,10 +1,11 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
-firefox-privacy-hub-2000-trackers-blocked-automatically = Blokira više od 2000 programa za praćenje – automatski
-firefox-privacy-hub-update-your-firefox-browser = Aktualiziraj najnoviji { -brand-name-firefox } preglednik
-firefox-privacy-hub-meet-four-of-the-most-common = Upoznaj četiri najčešće kategorije programa za praćenje – koji tebe neće upoznati.
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } obećanje privatnosti
+# HTML page description
+firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } preuzima manje podataka, čuva ih sigurno i bez tajni.

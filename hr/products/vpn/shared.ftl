@@ -11,6 +11,7 @@
 
 # Platform subpage shared strings
 
+vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
 

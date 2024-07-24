@@ -133,10 +133,10 @@ firefox-desktop-download-as-the-internet = Kako internet raste i mijenja se, { -
 # Obsolete string
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-firefox } račun</a>.
+firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-mozilla-account }</a> račun i dobit ćeš pristup sinkronizaciji i daljnjim { -brand-name-mozilla } proizvodima.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-mozilla-account }</a> i dobit ćeš pristup sinkronizaciji i daljnjim { -brand-name-mozilla } proizvodima.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Snimi sliku visoke rezolucije bilo čega na internetu pomoću našeg u pregledniku ugrađenog alata za <a { $attrs }>snimanje ekrana</a>
