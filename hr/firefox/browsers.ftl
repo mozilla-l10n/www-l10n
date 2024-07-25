@@ -28,6 +28,10 @@ firefox-browsers-go-beyond-two-dimensions-and = Napusti dvodimenzionalni svijet 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Izgradi web stranice i optimiraj kôd pomoću { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Saznaj više o { -brand-name-devtools }
+# Variables:
+#   $fxa_attr (string) - anchor link url and attributes
+#   $accounts_attr (string) - anchor link url and attributes
+firefox-browsers-already-have-an-account-sign-v2 = Već imaš račun? <a %(fxa_attr)s>Prijavi se</a> ili <a %(accounts_attr)s>saznaj više</a> o pridruživanju na { -brand-name-firefox }.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

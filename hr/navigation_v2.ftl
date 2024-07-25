@@ -5,7 +5,10 @@
 
 ## Firefox menu
 
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Zatvori { -brand-name-firefox-browsers } izbornik
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za desktop
+navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-browsers }
 
 ## Products menu
 
