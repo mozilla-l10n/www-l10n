@@ -18,6 +18,9 @@ firefox-privacy-hub-we-do-the-hard-work-to-protect = Radimo sve kako bismo zašt
 firefox-privacy-hub-data-security-is-complicated = Sigurnost podataka je komplicirana – ili bi barem trebala biti. Zbog toga poduzimamo dodatne korake da klasificiramo podatke koje imamo, održavamo pravila o tome kako spremamo i štitimo svaku vrstu podataka te stalno preispitujemo naše procese. Prioritet nam je tvoja privatnost. Tome smo posvećeni. Čak pomažemo drugim poduzećima da nauče kako to učiniti.
 firefox-privacy-hub-no-secrets = Bez tajni
 firefox-privacy-hub-youll-always-know-where-you = Kod nas ćeš uvijek znati na čemu si
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Ovdje nema skrivenog plana. Naš posao ne ovisi o potajnoj zlouporabi tvog povjerenja. Naše <a href="{ $privacy }">napomene o privatnosti</a> su napisane na jednostavan i razumljiv način. Ako želiš istražiti svaki podatak koji prikupljamo, naš kod je otvoren. I mi smo takvi.
 firefox-privacy-hub-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
