@@ -51,6 +51,7 @@ does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
+related-questions-ip = Liknande spåørsmål: gøymer { -brand-name-firefox } IP-adressa di
 who-owns-firefox = Kven eig { -brand-name-firefox }?
 
 # Variables:
@@ -58,3 +59,4 @@ who-owns-firefox = Kven eig { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } er laga av { -brand-name-mozilla-corporation }, eit heileigd dotterselskap til den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> og er styrt av prinsippa i { -brand-name-mozilla }-manifestet. Les meir om dei som lagar { -brand-name-firefox } <a href="{ $url2 }">her</a>.
+related-questions-who = Liknande spørsmål: kven er eigaren til { -brand-name-firefox }, som eig { -brand-name-firefox-browser }, er { -brand-name-firefox } eigd av { -brand-name-google }, er { -brand-name-mozilla } { -brand-name-firefox } eigd av{ -brand-name-google }
