@@ -41,6 +41,7 @@ features-adblocker-if-seeing-too-many-ads = Om for mange annonsar øydelegg dage
 features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstillingar
 features-adblocker-the-custom-setting-gives = Innstillingane under Tilpassa gjev deg mulegheita til å sjølvbestemme. Du kan velje det du vil blokkere - inkludert sporings-tenester, infokapslar og anna. Viss du tillèt infokapslar frå ein nettstad, brukar du automatisk Tilpassa.
 features-adblocker-cover-your-trail-block = Skjul spora dine, blokker sporarar
+features-adblocker-click-on-the-trackers = Klikk på ruta Sporarar slik at du kan du blokkere sporarar på to måtar. Ein måte å blokkere sporarar på, er å gjere det når du arbeider i eit privat vindauge. Ein annan måte å gjere det på, er å blokkere sporarar i alle vindauge. Tenk på at om du vel å alltid blokkere sporarar, kan det vere at enkelte sider ikkje vil lastast inn på rett måte
 features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
