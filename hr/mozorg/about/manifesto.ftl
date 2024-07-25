@@ -42,11 +42,13 @@ manifesto-the-mozilla-manifesto-addendum = Dodatak { -brand-name-mozilla } manif
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Založi se za zdrav internet
 manifesto-the-open-global-internet = Otvoren, globalni internet je najmoćniji resurs komunikacije i suradnje koji smo ikada vidjeli. Utjelovljuje neke od naših najdubljih nada u ljudski napredak. Omogućuje nove prilike za učenje, izgradnju osjećaja uzajamne ljudskosti i rješavanje problema s kojima se ljudi posvuda suočavaju.
+manifesto-over-the-last-decade-we = Tijekom zadnjeg desetljeća vidjeli smo kako se ovo obećanje ispunjava na mnogo načina. Također smo vidjeli kako se moć interneta koristi za povećanje razdora, poticanje nasilja, promicanje mržnje i namjerno manipuliranje činjenicama i stvarnošću. Naučili smo da bismo trebali eksplicitnije izraziti naše težnje za ljudskim iskustvom u internetu. To sada činimo.
 manifesto-we-are-committed-to-people = Zalažemo se za internet koji uključuje sve ljude svijeta, gdje demografske karakteristike osobe ne određuju pristup internetu, mogućnostima ili kvaliteti iskustva.
 manifesto-we-are-committed-to-discourse = Zalažemo se za internet koji promiče javnu raspravu, ljudsko dostojanstvo i slobodu mišljenja.
 manifesto-we-are-committed-to-thinking = Zalažemo se za internet koji potiče kritičko razmišljanje, argumentaciju, zajedničko znanje i provjerljive činjenice.
 manifesto-we-are-committed-to-diverse = Zalažemo se za internet koji sjedinjuje suradnju različitih zajednica koje rade zajedno za opće dobro.
 manifesto-show-your-support = Iskaži tvoju podršku
+manifesto-an-internet-with-these = Internet s tim kvalitetama neće doći sam od sebe. Pojedinci i organizacije moraju ugraditi te težnje u internetsku tehnologiju i ljudsko iskustvo s internetom. { -brand-name-mozilla } manifest i dopuna predstavljaju predanost { -brand-name-mozilla } organizacije u unaprjeđenju ovih težnji. Cilj nam je surađivati s ljudima i organizacijama posvuda koji dijele te ciljeve kako bismo internet učinili još boljim mjestom za sve.
 manifesto-our-10-principles = <strong>Naših 10</strong> načela
 manifesto-read-the-entire-manifesto = Pročitaj cijeli manifest
 manifesto-love-the-web = Voliš internet?
