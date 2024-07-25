@@ -20,6 +20,7 @@ firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } var ein revolusjon i utviklinga av { -brand-name-firefox }. I 2017 laga vi ein ny, lynrask nettlesar som stadig vert forbetra. { -brand-name-firefox-quantum } er { -brand-name-firefox-browser }.
 we-believe-everyone = Vi meinar at alle skal ha tillgang til internett — det er difor vi gjer { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk med hjelp av av engasjerte friviljuge rundt om i verda.
 easy-migration-of = Enkel migrering av innstillingar og bokmerke når du lastar ned { -brand-name-firefox } for { -brand-name-windows }.
+firefox-respects-your = { -brand-name-firefox } respekterer personvernet ditt på { -brand-name-mac-short }.
 firefox-for-linux = { -brand-name-firefox } for { -brand-name-linux }
 firefox-for-windows = { -brand-name-firefox } for { -brand-name-windows } 64-bit
 # Obsolete string
@@ -31,4 +32,4 @@ firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
 firefox-more-fingerprinting-is-a = Fingeravtrykk er ein type av online-sporing som er meir inngripande enn vanleg infokapselbasert sporing — det er difor { -brand-name-firefox-browser } blokkerer det.
 firefox-more-translate-the-web = Omset nettet
 firefox-more-translate-more-than = Omset meir enn 100 språk til ditt språk direkte i { -brand-name-firefox-browser }/nettlesaren din - enklare enn nokon gong.
-firefox-more-a-guide-to = Ein gaid til sikrare inloggingar og passord
+firefox-more-a-guide-to = Ein gaid til sikrare innloggingar og passord
