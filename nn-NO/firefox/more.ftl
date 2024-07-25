@@ -11,6 +11,7 @@ learn-more-faq = { -brand-name-firefox } vanlege spørsmål
 the-history-of = Historia om nettlesaren
 firefox-has-been = { -brand-name-firefox } har nesten vore der sidan byrjinga.
 what-is-a = Kva er ein nettlesar?
+update-your-browser = Oppdater nettlesaren din til { -brand-name-firefox } for rask og sikker surfning.
 firefox-is-more = { -brand-name-firefox } er meir enn ein nettlesar
 get-the-browsers = Få nettlesarane som set personvernet ditt først — og som alltid har gjort det
 choose-which-firefox = Vel kva for { -brand-name-firefox-browser } du vil laste ned på ditt språk
