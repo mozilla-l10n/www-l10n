@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = { -brand-name-firefox } vanlege spørsmål
+firefox-faq = Vanlege spørsmål om { -brand-name-firefox }
 what-is-firefox = Kva er { -brand-name-firefox }?
 
 # Variables:
