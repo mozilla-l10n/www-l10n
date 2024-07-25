@@ -179,7 +179,7 @@ firefox-desktop-download-your-firefox-new-should-begin = Preuzimanje bi trebalo 
 firefox-desktop-download-interrupted = Tvoje preuzimanje je prekinuto. Ali nije sve izgubljeno.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="%(url)s">ove upute</a>.
+firefox-desktop-download-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tvoj sustav možda ne ispunjava preduvjete za { -brand-name-firefox }, ali možeš isprobati jednu od <a href="{ $url }">ovih verzija</a>.

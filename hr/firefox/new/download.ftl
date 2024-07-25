@@ -30,7 +30,7 @@ firefox-new-your-firefox-new-should-begin = Preuzimanje bi trebalo započeti aut
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od samog preglednika.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="%(url)s">ove upute</a>.
+firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
 
 # Not-Required
 
