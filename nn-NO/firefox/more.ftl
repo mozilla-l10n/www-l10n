@@ -19,10 +19,14 @@ firefox-more-firefox-chromebook = { -brand-name-firefox-browser } for { -brand-n
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } var ein revolusjon i utviklinga av { -brand-name-firefox }. I 2017 laga vi ein ny, lynrask nettlesar som stadig vert forbetra. { -brand-name-firefox-quantum } er { -brand-name-firefox-browser }.
 we-believe-everyone = Vi meinar at alle skal ha tillgang til internett — det er difor vi gjer { -brand-name-firefox-browser } tilgjengeleg på meir enn 90 språk med hjelp av av engasjerte friviljuge rundt om i verda.
+firefox-fights-for = { -brand-name-firefox } kjempar for deg  på { -brand-name-windows }
 easy-migration-of = Enkel migrering av innstillingar og bokmerke når du lastar ned { -brand-name-firefox } for { -brand-name-windows }.
 firefox-respects-your = { -brand-name-firefox } respekterer personvernet ditt på { -brand-name-mac-short }.
+firefox-doesnt-spy = { -brand-name-firefox } spionerer ikkje på søk. Vi stoppar kjende sporings-infokapslar frå tredjepart og gjev deg full kontroll.
 firefox-for-linux = { -brand-name-firefox } for { -brand-name-linux }
+new-school-meets = Den nye skulen møter den gamle skulen med den raskaste nettlesaren til no.
 firefox-for-windows = { -brand-name-firefox } for { -brand-name-windows } 64-bit
+we-worry-about = Vi uroar oss over datasikkerheita di, slik at du slepp.
 # Obsolete string
 seven-of-the = Sju av dei beste nettlesarane i direkte samanlikning
 six-of-the-best = Seks av dei beste nettlesarane i direkte samanlikning
