@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# Variables:
+#   $url (url) - https://www.mozilla.org/about/manifesto/
+vpn-landing-brand-trust-desc = Više od 20 godina se { -brand-name-mozilla } zalaže za stavljanje ljudi na prvo mjesto i za privatnost na internetu. Uz podršku neprofitne organizacije, zalažemo se izgraditi bolji i zdraviji internet za sve ljude. Sve što radimo je dio naše misije i slijedi naša <a href="{ $url }">načela</a>.
 
 ## FAQ section
 
