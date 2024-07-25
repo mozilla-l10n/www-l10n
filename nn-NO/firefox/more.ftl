@@ -30,6 +30,8 @@ we-worry-about = Vi uroar oss over datasikkerheita di, slik at du slepp.
 # Obsolete string
 seven-of-the = Sju av dei beste nettlesarane i direkte samanlikning
 six-of-the-best = Seks av dei beste nettlesarane i direkte samanlikning
+# Obsolete string
+we-compare-firefox = Vi samanliknar { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } och { -brand-name-ie } for å hjelpe deg med å bestemme deg.
 comparing-firefox-ie = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
 incognito-browser-what = Inkognito-nettlesar: Kva det eigentleg tyder
 firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
