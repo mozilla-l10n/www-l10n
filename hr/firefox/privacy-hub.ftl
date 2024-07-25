@@ -14,3 +14,8 @@ firefox-privacy-hub-take-less = Uzmi manje
 firefox-privacy-hub-keep-it-safe = Drži ih sigurnima
 firefox-privacy-hub-no-secrets = Bez tajni
 firefox-privacy-hub-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+firefox-privacy-hub-because-we-put-people-first = Jer ljude stavljamo na prvo mjesto. Nas podržava <a href="{ $foundation }">neprofitna organizacija</a>. Već od prvog dana je naša misija zaštititi internet i sve koji ga koriste.
+firefox-privacy-hub-your-privacy-by-the-product = Tvoja privatnost u svakom proizvodu
+firefox-privacy-hub-firefox-products-work-differently = { -brand-name-firefox } proizvodi su drugačiji, jer su prvenstveno dizajnirani da štite tvoju privatnost.
