@@ -15,6 +15,7 @@ what-is-firefox = Kva er { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser = { -brand-name-firefox-browser } er den einaste store nettlesaren som er støtta av ein ideell organisasjon som ikkje sel dei personlege dataa dine til annonsørar, samtidig som han hjelper deg med å beskytte den personlege informasjonen din. Les meir om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }"> andre produkt.</a>
 how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
 # Variables:
@@ -25,11 +26,13 @@ how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Er { -brand-name-firefox } gratis?
+related-questions-free = Liknande spørsmål: er { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Er { -brand-name-chrome } betre enn { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Sjå korleis { -brand-name-firefox } er samanlikna med { -brand-name-chrome }</a>.
 is-firefox-safe-download = Er { -brand-name-firefox } trygg å laste ned?
 
 # Variables:
