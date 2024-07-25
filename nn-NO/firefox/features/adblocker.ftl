@@ -42,6 +42,9 @@ features-adblocker-do-it-yourself-custom = Tillpassa modus med eigne innstilling
 features-adblocker-the-custom-setting-gives = Innstillingane under Tilpassa gjev deg mulegheita til å sjølvbestemme. Du kan velje det du vil blokkere - inkludert sporings-tenester, infokapslar og anna. Viss du tillèt infokapslar frå ein nettstad, brukar du automatisk Tilpassa.
 features-adblocker-cover-your-trail-block = Skjul spora dine, blokker sporarar
 features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Infiokapslar</a> vert sendt av nettstadar du besøkjer. Dei bur på datamaskina di og overvakar kva du har gjort på ein nettstad. Når eit flyselskap set opp prisane dine fordi du har sett på flybillettar ein gong same dag, er det handverket til ein infokapsel
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapslar eller berre dei som er stilt inn av sporarar. Merk at blokkering av alle infokapslar kan hindre enkelte nettstadar frå å fungere.
 features-adblocker-send-a-do-not-track-signal = Send eit «Ikkje spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar
