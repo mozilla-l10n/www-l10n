@@ -41,7 +41,10 @@ manifesto-10 = 10
 manifesto-the-mozilla-manifesto-addendum = Dodatak { -brand-name-mozilla } manifesta
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Založi se za zdrav internet
+manifesto-we-are-committed-to-people = Zalažemo se za internet koji uključuje sve ljude svijeta, gdje demografske karakteristike osobe ne određuju pristup internetu, mogućnostima ili kvaliteti iskustva.
 manifesto-we-are-committed-to-discourse = Zalažemo se za internet koji promiče javnu raspravu, ljudsko dostojanstvo i slobodu mišljenja.
+manifesto-we-are-committed-to-thinking = Zalažemo se za internet koji potiče kritičko razmišljanje, argumentaciju, zajedničko znanje i provjerljive činjenice.
+manifesto-we-are-committed-to-diverse = Zalažemo se za internet koji sjedinjuje suradnju različitih zajednica koje rade zajedno za opće dobro.
 manifesto-show-your-support = Iskaži tvoju podršku
 # Obsolete string
 manifesto-share-on-twitter = Podijeli na { -brand-name-twitter }u
