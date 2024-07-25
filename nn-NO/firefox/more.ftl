@@ -7,6 +7,7 @@
 
 firefox-products-are = { -brand-name-firefox }-produkt laga for å ta vare på personvernet ditt
 learn-more-about-firefox = Les meir om { -brand-name-firefox }, historia, funksjonar og oppdrag
+learn-more-about = Les meir om nettlesaren { -brand-name-firefox } og produkt som handsamar dataa dine med respekt, og er bygd for personvern, same kvar du er på nettet.
 learn-more-faq = { -brand-name-firefox } vanlege spørsmål
 the-history-of = Historia om nettlesaren
 firefox-has-been = { -brand-name-firefox } har nesten vore der sidan byrjinga.
