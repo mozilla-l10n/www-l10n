@@ -47,5 +47,6 @@ firefox-more-fingerprinting-is-a = Fingeravtrykk er ein type av online-sporing s
 firefox-more-translate-the-web = Omset nettet
 firefox-more-translate-more-than = Omset meir enn 100 språk til ditt språk direkte i { -brand-name-firefox-browser }/nettlesaren din - enklare enn nokon gong.
 firefox-more-a-guide-to = Ein gaid til sikrare innloggingar og passord
+firefox-more-more-and-more = Fleire og fleire av dei kjenslevare, verdifulle tinga i liva våre vert verna av passord.
 firefox-more-avoid-misinformation-heading = Unngå felinformasjon på nettet – { -brand-name-firefox } er her for å hjelpe deg
 firefox-more-avoid-misinformation-desc = Sjekk tips for å sjå mindre feilinformasjon, og fokuser på det som er viktigt for deg.
