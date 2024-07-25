@@ -27,7 +27,7 @@ firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na en
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
 firefox-all-choose-which-firefox = Odaberi { -brand-name-firefox-browser } koji želiš preuzeti na svom jeziku
-firefox-all-firefox-privacy-notice = { -brand-name-firefox } obavijest o privatnosti
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } napomene o privatnosti
 firefox-all-learn-about-firefox = Saznaj više o { -brand-name-firefox } preglednicima
 firefox-all-the-standard-firefox = Standardni { -brand-name-firefox } preglednik – brz i privatan. Ako ne znaš koji { -brand-name-firefox } odabrati, odaberi ovaj.
 firefox-all-get-a-sneak-peek-at = Pogledaj najnovije funkcije { -brand-name-firefox } preglednika prije nego što se objave.
