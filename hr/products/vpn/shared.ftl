@@ -38,6 +38,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registriran zašti
 
 vpn-shared-pricing-variable-heading-v2 = Odaberi plan pretplate koji ti odgovara
 vpn-shared-one-subscription-heading = Jedna pretplata za sve tvoje uređaje
+vpn-shared-pricing-plan-12-month-v2 = 12-mjesečni plan
+vpn-shared-pricing-plan-monthly-v2 = Mjesečni plan
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> na mjesec</span>
@@ -45,6 +47,8 @@ vpn-shared-pricing-monthly = { $amount }<span> na mjesec</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span> na mjesec plus porez</span>
+vpn-shared-pricing-get-12-month-v2 = Nabavi 12-mjesečni plan
+vpn-shared-pricing-get-monthly = Nabavi mjesečni plan
 # Variables:
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
