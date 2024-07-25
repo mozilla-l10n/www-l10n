@@ -5,7 +5,33 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
+vpn-shared-features-encrypt = Šifriranje na razini uređaja
+vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
+# Variables:
+#   $devices (number) - maximum number of connected devices
+vpn-shared-features-devices = Mogućnost povezivanja do { $devices } uređaja
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Zaštita za do { $devices } uređaja
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Poveži se s više od { $servers } servera u više od { $countries } zemlje/zamalja
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = Sada dostupno u { $countries } zemlje/zemalja. Uskoro još više regija
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Jaki serveri u više od { $countries } zemljama
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Poveži se s do { $devices } uređaja
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-privacy-notice = Napomene o privatnosti
+vpn-shared-terms-conditions = Uvjeti i odredbe
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registriran zaštitni znak Jasona A. Donenfelda
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
