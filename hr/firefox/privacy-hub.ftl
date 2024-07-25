@@ -11,8 +11,11 @@ firefox-privacy-hub-firefox-privacy-promise = { -brand-name-firefox } obećanje 
 firefox-privacy-hub-firefox-takes-less-data-keeps = { -brand-name-firefox } uzima manje podataka, čuva ih sigurno i bez tajni.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-privacy-hub-take-less = Uzmi manje
+firefox-privacy-hub-we-make-a-point-of-knowing = Nastojimo znati što manje o tebi
 firefox-privacy-hub-keep-it-safe = Drži ih sigurnima
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Radimo sve kako bismo zaštitili tvoje osobne podatke
 firefox-privacy-hub-no-secrets = Bez tajni
+firefox-privacy-hub-youll-always-know-where-you = Kod nas ćeš uvijek znati na čemu si
 firefox-privacy-hub-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
