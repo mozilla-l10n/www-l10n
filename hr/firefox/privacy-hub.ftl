@@ -15,7 +15,7 @@ firefox-privacy-hub-we-make-a-point-of-knowing = Nastojimo znati što manje o te
 firefox-privacy-hub-all-tech-companies-collect = Sve tehnološka poduzeća prikupljaju podatke kako bi poboljšale svoje proizvode. Ali za to nije potrebno prikupljati tako veliku količinu tvojih osobnih podataka. Jedini podaci koje mi želimo su podaci koji na kraju tebi služe. Pitamo se: treba li nam to zapravo? Što će nam to? I kada to možemo izbrisati?
 firefox-privacy-hub-keep-it-safe = Drži ih sigurnima
 firefox-privacy-hub-we-do-the-hard-work-to-protect = Radimo sve kako bismo zaštitili tvoje osobne podatke
-firefox-privacy-hub-data-security-is-complicated = Sigurnost podataka je komplicirana – ili bi barem trebala biti. Zbog toga poduzimamo dodatne korake da klasificiramo podatke koje imamo, održavamo pravila o tome kako spremamo i štitimo svaku vrstu podataka te stalno preispitujemo naše procese. Prioritet nam je tvoja privatnost. Tome smo posvećeni. Čak pomažemo drugim poduzećima da nauče kako to učiniti.
+firefox-privacy-hub-data-security-is-complicated = Sigurnost podataka je komplicirana – ili bi barem trebala biti. Zbog toga poduzimamo dodatne korake da klasificiramo podatke koje imamo, održavamo pravila o tome kako spremamo i štitimo svaku vrstu podataka te stalno preispitujemo naše procese. Prioritet nam je tvoja privatnost. U to investiramo navac. U to se zalažemo. Čak pomažemo drugim poduzećima da nauče kako to učiniti.
 firefox-privacy-hub-no-secrets = Bez tajni
 firefox-privacy-hub-youll-always-know-where-you = Kod nas ćeš uvijek znati na čemu si
 # Variables:
