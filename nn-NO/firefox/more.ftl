@@ -12,6 +12,7 @@ learn-more-faq = { -brand-name-firefox } vanlege spørsmål
 the-history-of = Historia om nettlesaren
 firefox-has-been = { -brand-name-firefox } har nesten vore der sidan byrjinga.
 what-is-a = Kva er ein nettlesar?
+a-web-browser = Ein nettlesar tek deg med overalt på nettet, slik at du kan sjå tekst, bilde og video frå heile verda.
 update-your-browser = Oppdater nettlesaren din til { -brand-name-firefox } for rask og sikker surfning.
 the-firefox-browser = Nettlesaren { -brand-name-firefox } er bygd for å ta vare på personvernet ditt heile tida — fordi det er den raskaste måten å frigjere deg frå trege sidelastingar, dårlege annonsar og sporarar.
 firefox-is-more = { -brand-name-firefox } er meir enn ein nettlesar
@@ -38,6 +39,7 @@ six-of-the-best = Seks av dei beste nettlesarane i direkte samanlikning
 # Obsolete string
 we-compare-firefox = Vi samanliknar { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } och { -brand-name-ie } for å hjelpe deg med å bestemme deg.
 comparing-firefox-ie = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
+old-habits-that = Gamle vanar er vonde å vende, men du vil kjenne deg betre når du gjer det.
 incognito-browser-what = Inkognito-nettlesar: Kva det eigentleg tyder
 firefox-calls-it = { -brand-name-firefox } kallar det privat nettlesing, { -brand-name-chrome } kallar det inkognito-modus. Begge lèt deg surfe på nettet utan å lagre netthistorikken din.
 firefox-more-fingerprinter-blocking = Blokkering av fingeravtrykksporarar
