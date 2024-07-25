@@ -9,10 +9,7 @@ newsletter-form-your-email-address = Tvoja e-mail adresa
 newsletter-form-yournameexamplecom = tvojeime@primjer.hr
 newsletter-form-select-country-or-region = Odaberi zemlju ili regiju
 newsletter-form-your-email-here = TVOJA E-EDRESA
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
-newsletter-form-get-firefox-news = Primaj novosti o { -brand-name-firefox }u
+newsletter-form-get-firefox-news = Primaj { -brand-name-firefox } novosti
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Slažem se da { -brand-name-mozilla } koristi moje podatke, kao što je objašnjeno u <a href="{ $url }">politici privatnosti</a>
@@ -21,7 +18,7 @@ newsletter-form-if-you-havent-previously = Ako još nisi potvrdio/la pretplatu n
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> i ti
 newsletter-form-get-firefox-tips = Primaj { -brand-name-firefox } savjete, trikove, vijesti i više
 newsletter-form-keep-up-with = Prati<br> sve { -brand-name-firefox } vijesti.
-newsletter-form-get-mozilla-updates = Primaj novosti o { -brand-name-mozilla }
+newsletter-form-get-mozilla-updates = Primaj aktualna { -brand-name-mozilla } izdanja
 newsletter-form-available-languages = Dostupni jezici
 newsletter-form-select-country = Odaberi državu
 newsletter-form-sign-me-up = Pretplati me
