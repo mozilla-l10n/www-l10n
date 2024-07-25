@@ -7,4 +7,4 @@
 
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
-features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tvorac { -brand-name-firefox }) privatnost shvaća vrlo ozbiljno. <strong>Vrlo ozbiljno</strong>. Zapravo, svaki proizvedeni { -brand-name-firefox } poštuje naše <a href="{ $url }">Obećanje o osobnim podacima</a>: Uzmi što manje podataka. Drži ih sigurnima. Bez tajni.
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (tvorac { -brand-name-firefox }) privatnost shvaća vrlo ozbiljno. <strong>Vrlo ozbiljno</strong>. Zapravo, svaki proizvedeni { -brand-name-firefox } poštuje naše <a href="{ $url }">Obećanje o osobnim podacima</a>: Uzmi manje. Drži ih sigurnima. Bez tajni.
