@@ -1,12 +1,18 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } manifest
+manifesto-the-internet-is-an-integral = Internet je sastavni dio modernog života – ključna komponenta u obrazovanju, komunikaciji, suradnji, poslovanju, zabavi i društvu u cjelini.
+manifesto-the-internet-is-a-global = Internet je globalni javni resurs koji mora ostati otvoren i dostupan.
+manifesto-the-internet-must-enrich = Internet mora obogatiti živote pojedinaca.
+manifesto-individuals-security-and = Sigurnost i privatnost pojedinaca na internetu su ključni i ne smiju se tretirati kao opcija.
+manifesto-individuals-must-have = Pojedinci moraju imati mogućnost oblikovanja interneta i svojih vlastitih iskustava na internetu.
+manifesto-the-effectiveness-of-the = Učinkovitost interneta kao javnog resursa ovisi o kompatibilnosti (protokola, formata podataka, sadržaja), inovativnosti i decentraliziranom sudjelovanju diljem svijeta.
 manifesto-transparent-community = Transparentni procesi zajednice promiču sudjelovanje, odgovornost i povjerenje.
 manifesto-principle-1 = 1. načelo
 manifesto-principle-2 = 2. načelo
@@ -34,13 +40,9 @@ manifesto-the-mozilla-manifesto-addendum = Dodatak { -brand-name-mozilla } manif
 manifesto-pledge-for-a-healthy-internet = Založi se za zdrav internet
 manifesto-we-are-committed-to-discourse = Posvećeni smo internetu, koji promiče javnu raspravu, ljudsko dostojanstvo i slobodu mišljenja.
 manifesto-show-your-support = Iskaži tvoju podršku
+# Obsolete string
 manifesto-share-on-twitter = Podijeli na { -brand-name-twitter }u
 manifesto-our-10-principles = <strong>Naših 10</strong> načela
-manifesto-explore-how-the-web-impacts = Istraži kako web utječe na znanost
-manifesto-learn-about-open-source = Saznaj o otvorenom kodu u novinarstvu
-manifesto-add-new-voices-to-open = Dodaj nove glasove tehnologiji otvorenog izvora
-manifesto-join-us-as-a-volunteer = Pridruži nam se kao volonter
-manifesto-learn-how-to-collaborate = Saznaj kako surađivati na internetu
 manifesto-read-the-entire-manifesto = Pročitaj cijeli manifest
 manifesto-love-the-web = Voliš internet?
 manifesto-get-the-mozilla-newsletter = Pretplati se na { -brand-name-mozilla } bilten i pomogni nam zadržati ga otvorenim i besplatnim.
@@ -57,11 +59,11 @@ manifesto-details-make-mozilla-contributors = učiniti doprinositelje { -brand-n
 manifesto-details-provide-a-framework = dati okvir za promicanje ove vizije interneta
 manifesto-details-these-principles = Ti se ciljevi neće ostvariti sami po sebi. Ljudi su ti koji Internet trebaju napraviti otvorenim i spremnim na suradnju - bilo da djeluju individualno, radeći u grupama ili vodeći druge. { -brand-name-mozilla-foundation } se posvećuje provođenju načela navedenih u { -brand-name-mozilla } manifestu. Pozivamo ostale da nam se pridruže u nastojanju da internet učinimo još boljim mjestom za sve.
 manifesto-details-principles = NAČELA
-manifesto-details-the-internet-is-integral = Internet je sastavni dio modernog života - ključan je za obrazovanje, komunikaciju, suradnju, poslovanje, zabavu i društvo općenito.
+manifesto-details-the-internet-is-integral = Internet je sastavni dio modernog života – ključna komponenta u obrazovanju, komunikaciji, suradnji, poslovanju, zabavi i društvu u cjelini.
 manifesto-details-the-internet-is-global = Internet je globalni, javni resurs koji mora ostati otvoren i pristupačan.
-manifesto-details-the-internet-must = Internet mora obogaćivati živote pojedinih ljudskih bića.
-manifesto-details-individuals-security = Sigurnost i privatnost pojedinaca na Internetu su ključni i ne smiju se tretirati drugačije.
-manifesto-details-individuals-must = Pojedinci moraju imati mogućnosti oblikovanja interneta i svojih vlastitih iskustava na Internetu.
+manifesto-details-the-internet-must = Internet mora obogatiti živote pojedinaca.
+manifesto-details-individuals-security = Sigurnost i privatnost pojedinaca na internetu su ključni i ne smiju se tretirati kao opcija.
+manifesto-details-individuals-must = Pojedinci moraju imati mogućnost oblikovanja interneta i svojih vlastitih iskustava na internetu.
 manifesto-details-the-effectiveness = Učinkovitost interneta kao javnog resursa ovisi o kompatibilnosti (protokola, podataka, sadržaja), inovativnosti i decentralizaciji sudjelovanja diljem svijeta.
 manifesto-details-free-and-open = Slobodan softver i softver otvorenog koda promiče razvoj interneta kao javnog resursa.
 manifesto-details-transparent-community = Transparentni procesi zajednice promiču sudjelovanje, odgovornost i povjerenje.
