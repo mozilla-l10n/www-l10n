@@ -10,9 +10,6 @@ cookie-settings-breadcrumb-link = Laman Sebelumnya
 cookie-settings-explainer = Kuki adalah fail-fail kecil yang mengandungi bahagian kecil maklumat yang disimpan di dalam komputer anda apabila anda melayari suatu laman web. { -brand-name-mozilla } menggunakan Kuki untuk menjadikan laman web kami berfungsi dengan lancar, selain mengumpul maklumat penggunaan dan interaksi anda, contohnya laman yang anda layari.
 cookie-settings-page-intro-v2 = Laman ini menjelaskan jenis-jenis Kuki yang berlainan dan teknologi yang seumpamanya seperti tag piksel, pemancar web, pencuci GIF, JavaScript dan storan tempatan (dikenali sebagai “Kuki”) yang mungkin digunakan oleh { -brand-name-mozilla }, dan memberikan anda kawalan ke atas jenis data yang anda setuju untuk dikumpulkan oleh { -brand-name-mozilla }.
 
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Laman ini menjelaskan jenis-jenis Kuki yang berlainan dan teknologi yang seumpamanya (seperti tag piksel, pemancar web, pencuci GIF, JavaScript dan storan tempatan) (“Kuki”) yang mungkin digunakan oleh { -brand-name-mozilla }, dan memberikan anda kawalan ke atas jenis data yang anda setuju untuk dikumpulkan oleh { -brand-name-mozilla }.
-
 cookie-settings-how-mozilla-heading = Bagaimana { -brand-name-mozilla } menggunakan Kuki
 cookie-settings-how-does-mozilla-use-subheading = Bagaimana { -brand-name-mozilla } menggunakan data ini?
 cookie-settings-save-changes = Simpan Perubahan

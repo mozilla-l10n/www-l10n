@@ -10,9 +10,6 @@ cookie-settings-breadcrumb-link = Page précédente
 cookie-settings-explainer = Les cookies sont de petits fichiers contenant des informations, qui sont enregistrés sur votre ordinateur ou votre appareil lorsque vous visitez un site web. { -brand-name-mozilla } utilise des cookies pour faire fonctionner ses sites web, ainsi que pour collecter des informations sur la façon dont vous utilisez ses sites et interagissez avec eux (comme les pages que vous consultez, par exemple).
 cookie-settings-page-intro-v2 = Cette page décrit les différents types de cookies et de technologies similaires, comme les pixel tags, les balises web, les GIF invisibles, JavaScript et le stockage local (ci-après, les « cookies ») pouvant être utilisés par { -brand-name-mozilla } et vous permet de contrôler les données que vous autorisez { -brand-name-mozilla } à collecter.
 
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Cette page décrit les différents types de cookies et de technologies similaires (comme les pixel tags, les balises web, les GIF invisibles, JavaScript et le stockage local) (ensemble, les « cookies ») pouvant être utilisés par { -brand-name-mozilla } et vous permet de contrôler les données que vous autorisez { -brand-name-mozilla } à collecter.
-
 cookie-settings-how-mozilla-heading = Comment { -brand-name-mozilla } utilise les cookies
 cookie-settings-how-does-mozilla-use-subheading = Comment ces données sont-elles utilisées par { -brand-name-mozilla } ?
 cookie-settings-save-changes = Enregistrer les changements

@@ -10,9 +10,6 @@ cookie-settings-breadcrumb-link = Previous Page
 cookie-settings-explainer = Cookies sind kleine Dateien mit Informationshäppchen, die auf deinem Computer oder Gerät gespeichert werden, wenn du eine Website besuchst. { -brand-name-mozilla } nutzt Cookies, damit unsere Websites funktionieren. Außerdem sammeln wir Daten darüber, wie du unsere Websites nutzt und mit ihnen interagierst, wie zum Beispiel, welche Seiten du besuchst.
 cookie-settings-page-intro-v2 = Auf dieser Seite steht, welche verschiedenen Arten von Cookies und ähnlichen Technologien wie Pixel-Tags, Webbeacons, clear GIFs (klare GIFs), JavaScript und lokale Speicherung (im Folgenden „Cookies“) { -brand-name-mozilla } eventuell nutzt. Hier kannst du bestimmen, welche Daten { -brand-name-mozilla } von dir sammeln darf.
 
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Auf dieser Seite steht, welche verschiedenen Arten von Cookies und ähnlichen Technologien (wie Pixel-Tags, Webbeacons, clear GIFs (klare GIFs), JavaScript und lokale Speicherung )(„Cookies“) { -brand-name-mozilla } eventuell nutzt. Hier kannst du bestimmen, welche Daten { -brand-name-mozilla } von dir sammeln darf.
-
 cookie-settings-how-mozilla-heading = Wie { -brand-name-mozilla } Cookies nutzt
 cookie-settings-how-does-mozilla-use-subheading = Wie nutzt { -brand-name-mozilla } diese Daten?
 cookie-settings-save-changes = Änderungen speichern

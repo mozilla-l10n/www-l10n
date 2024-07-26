@@ -10,9 +10,6 @@ cookie-settings-breadcrumb-link = 前のページ
 cookie-settings-explainer = Cookie とは、ウェブサイトにアクセスしたときにお使いのコンピューターまたはデバイスに保存される情報を含む小さなファイルです。{ -brand-name-mozilla } は、Cookie を使用してウェブサイトを機能させるほか、訪問したページなど、訪問者によるウェブサイトの使い方や操作に関する情報を収集しています。
 cookie-settings-page-intro-v2 = このページでは、{ -brand-name-mozilla } が使用する可能性のある各種 Cookie および類似テクノロジー (ピクセルタグ、ウェブビーコン、クリア GIF、JavaScript、ローカルストレージなど) (以下「Cookie」といいます) について確認し、{ -brand-name-mozilla } による収集に同意するデータの種類を管理できます。
 
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = このページでは、{ -brand-name-mozilla } が使用する可能性のある各種 Cookie および類似テクノロジー (ピクセルタグ、ウェブビーコン、クリア GIF、JavaScript、ローカルストレージなど) (以下「Cookie」といいます) について確認し、{ -brand-name-mozilla } による収集に同意するデータの種類を管理できます。
-
 cookie-settings-how-mozilla-heading = { -brand-name-mozilla } による Cookie の使い方
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } によるこのデータの使い方
 cookie-settings-save-changes = 変更内容を保存
