@@ -58,22 +58,11 @@ vpn-download-faq-working = VPN が機能していることを確認する方法�
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } は、ツールバーとアプリケーションのホーム画面の両方に現在の状態の視覚的なインジケーターを表示し、オンラインアクティビティが保護されているかどうかを簡単に知ることができます。これらのインジケーターで、ナビゲーションがプライベートで安全であることを確認できます。また、接続中に、<a href="{ $monitor }">https://monitor.mozilla.org/</a> にアクセスしてIP アドレスが秘匿されているかどうかを確認できます。詳しくは、「<a href="{ $connected }">{ -brand-name-mozilla-vpn } が接続されているかどうかを確認する方法</a>」を参照してください。
 
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } は、ツールバーとアプリケーションのホーム画面の両方に現在の状態の視覚的なインジケーターを表示し、オンラインアクティビティが保護されているかどうかを簡単に知ることができます。これらのインジケーターで、ナビゲーションがプライベートで安全であることを確認できます。また、接続中に、<a href="{ $monitor }">https://monitor.firefox.com/</a> にアクセスしてIP アドレスが秘匿されているかどうかを確認できます。詳しくは、「<a href="{ $connected }">{ -brand-name-mozilla-vpn } が接続されているかどうかを確認する方法</a>」を参照してください。
-
 vpn-download-faq-add-device = 他のデバイスを追加するには？
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = 他のデバイスを追加するには、{ -brand-name-mozilla-vpn } ソフトウェアをダウンロードしてインストールし、新しいデバイスで既存の { -brand-name-mozilla-account } にサインインするだけです。詳しくは、「<a href="{ $subscription }">デバイスを { -brand-name-mozilla-vpn } サブスクリプションに追加する方法</a>」を参照してください。
-
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = 他のデバイスを追加するには、{ -brand-name-mozilla-vpn } ソフトウェアをダウンロードしてインストールし、新しいデバイスで既存の { -brand-name-firefox-account } にサインインするだけです。詳しくは、「<a href="{ $subscription }">デバイスを { -brand-name-mozilla-vpn } サブスクリプションに追加する方法</a>」を参照してください。
 
 vpn-download-faq-best-practices = VPN の推奨する使い方は？
 vpn-download-faq-traffic = 高速の回線を維持しながらインターネットトラフィックを保護することが目標である場合は、物理的な場所にできるだけ近いサーバーの場所を選択することが最善です。これにより、インターネットトラフィックがウェブ上のアクセス先に到着する前に大きな迂回する必要がなくなるため、接続の安定性と速度が向上します。
