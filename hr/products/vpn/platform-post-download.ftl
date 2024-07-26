@@ -16,6 +16,7 @@ vpn-mac-follow-the-steps = Slijedi korake navedene u instalacijskom programu { -
 
 ## Shared strings
 
+vpn-download-not-in-country = Nažalost { -brand-name-mozilla-vpn } nije dostupan u tvojoj zemlji.
 
 ## FAQ Strings
 

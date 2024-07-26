@@ -19,6 +19,8 @@ vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-email-label = Kako glasi tvoja e-mail adresa?
+vpn-landing-invite-country-label = U kojoj zemlji živiš?
+vpn-landing-invite-language-label = Odaberi preferirani jezik.
 vpn-landing-invite-your-information = Tvoji podaci će se koristiti samo za obavještavanje o dostupnosti za platformu.
 
 ##

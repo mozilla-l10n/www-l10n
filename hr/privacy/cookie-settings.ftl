@@ -8,12 +8,16 @@
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Potrebni
+cookie-settings-category-necessary-what-are-subheading = Što su potrebni kolačići?
 
 ## Preference cookies section
 
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analitika
+cookie-settings-category-analytics-what-are-subheading = Što su kolačići analitike?
 
 ## Consent section
 

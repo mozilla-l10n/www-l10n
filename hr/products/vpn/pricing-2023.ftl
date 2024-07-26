@@ -7,3 +7,4 @@
 
 vpn-pricing-get-annual-subscription = Nabavi godišnju pretplatu
 vpn-pricing-get-monthly-subscription = Nabavi mjesečnu pretplatu
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } još nije dostupan u tvojoj zemlji

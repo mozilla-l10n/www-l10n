@@ -38,3 +38,4 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik
