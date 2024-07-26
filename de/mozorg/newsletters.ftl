@@ -367,9 +367,6 @@ newsletters-special-announcements-helping-you = Besondere Ankündigungen, mit de
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
 
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
-
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Holen Sie sich Tipps von { -brand-name-mozilla }, wie Sie Ihr Konto voll ausschöpfen können.
 

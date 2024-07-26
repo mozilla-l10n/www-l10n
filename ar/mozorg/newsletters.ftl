@@ -367,9 +367,6 @@ newsletters-special-announcements-helping-you = إعلانات خاصة تساع
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
 
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
-
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = احصل على نصائح من { -brand-name-mozilla } بشأن كيفية تحقيق أقصى استفادة من حسابك.
 

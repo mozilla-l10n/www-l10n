@@ -367,9 +367,6 @@ newsletters-special-announcements-helping-you = { -brand-name-webmaker } を最�
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
 
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
-
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = アカウントを活用する方法について、{ -brand-name-mozilla } からのアドバイスをご覧ください。
 
