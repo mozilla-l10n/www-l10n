@@ -7,9 +7,6 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = مُحرر ملفات PDF
 
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = أضف نصوصًا إلى ملفات PDF باستخدام محرر ملفات PDF الموجود في متصفح { -brand-name-firefox }
-
 # page title
 pdf-editor-add-text-to-pdfs-v2 = عدّل ملفات PDF مجانًا باستخدام محرّر { -brand-name-firefox } لملفات PDF
 

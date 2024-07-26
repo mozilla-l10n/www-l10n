@@ -7,9 +7,6 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF एडिटर
 
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF एडिटर की मदद से PDF फ़ाइलों में टेक्स्ट जोड़ें
-
 # page title
 pdf-editor-add-text-to-pdfs-v2 = { -brand-name-firefox } PDF एडिटर की मदद से मुफ़्त में PDF फ़ाइलें एडिट करें
 

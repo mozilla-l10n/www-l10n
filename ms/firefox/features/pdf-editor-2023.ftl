@@ -7,9 +7,6 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor PDF
 
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Tambahkan teks kepada PDF dengan Editor PDF { -brand-name-firefox }
-
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Edit fail PDF secara percuma dengan Editor PDF { -brand-name-firefox }
 
