@@ -9,6 +9,7 @@
 browsers-mobile-overview-of-all-mobile = Pregled svih { -brand-name-firefox } mobilnih preglednika ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios } , { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+browsers-mobile-go-your-own-way = Nastavi po svome s { -brand-name-firefox } za mobilne uređaje
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Usporedi
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pogledaj kako se { -brand-name-firefox } za desktop razlikuje od drugih web-preglednika.

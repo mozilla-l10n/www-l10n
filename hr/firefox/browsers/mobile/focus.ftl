@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Preglednik za privatnost
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } je tvoj preglednik za privatnost s automatskom zaštitom od praćenja.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Nabavi { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Pošalji poveznicu za preuzimanje na svoj mobitel.

@@ -9,6 +9,8 @@ navigation-v2-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Zatvori { -brand-name-firefox-browsers } izbornik
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za desktop
+navigation-v2-get-the-customizable-mobile = Nabavi prilagodljiv mobilni preglednik za { -brand-name-android } pametne telefone.
+navigation-v2-get-the-mobile-browser = Nabavi mobilni preglednik za svoj { -brand-name-iphone } ili { -brand-name-ipad }.
 navigation-v2-read-about-new-firefox-features = Pročitaj nove { -brand-name-firefox } funkcije i načine za osiguravanje sigurnost na internetu.
 navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-browsers }
 
