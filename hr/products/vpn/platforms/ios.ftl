@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+vpn-ios-about-headline = Zašto nama vjerovati?
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Dobij pristup za { $devices } uređaja

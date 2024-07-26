@@ -9,6 +9,7 @@ navigation-v2-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Zatvori { -brand-name-firefox-browsers } izbornik
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } za desktop
+navigation-v2-read-about-new-firefox-features = Pročitaj nove { -brand-name-firefox } funkcije i načine za osiguravanje sigurnost na internetu.
 navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-browsers }
 
 ## Products menu
@@ -23,7 +24,10 @@ navigation-v2-view-all-products = Pogledaj sve proizvode
 navigation-v2-who-we-are = Tko smo
 navigation-v2-close-who-we-are-menu = Zatvori izbornik Tko smo
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } manifest
+navigation-v2-learn-about-the-values = Saznaj o vrijednostima i principima koji vode našu misiju.
 navigation-v2-get-involved = Uključi se
+navigation-v2-learn-about-mozilla-and = Saznaj više o { -brand-name-mozilla } i problemima koji su nam važni.
+navigation-v2-more-about-mozilla = Više o { -brand-name-mozilla }
 
 ## Innovation menu
 

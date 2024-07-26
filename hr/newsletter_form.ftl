@@ -24,3 +24,4 @@ newsletter-form-select-country = Odaberi državu
 newsletter-form-sign-me-up = Pretplati me
 newsletter-form-sign-up-now = Registriraj se
 newsletter-form-thanks = Hvala!
+multi-newsletter-form-checkboxes-legend = Želim informacije o:
