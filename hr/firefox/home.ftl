@@ -13,7 +13,7 @@ firefox-home-the-browser-is-just = Preglednik je tek početak
 firefox-home-meet-our-family-of = Upoznaj našu porodicu proizvoda
 firefox-home-get-trackers-off = Blokiraj preko 2,000 programa za praćenje – uključujući { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Znaj kad hakeri napadnu – i ostani uvijek korak ispred
-firefox-home-start-getting-breach = Počni dobivati izvještaje o curenju podataka
+firefox-home-start-getting-breach = Počni primati izvještaje o curenju podataka
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dobij <strong>poštovanje</strong> koje zaslužuješ
 # Obsolete string

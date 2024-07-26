@@ -12,4 +12,4 @@ home-cta-get-relay = Nabavi { -brand-name-relay }
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
-home-get-good-news = Dobivaj (dobre) { -brand-name-mozilla } vijesti
+home-get-good-news = Primaj (dobre) { -brand-name-mozilla } vijesti
