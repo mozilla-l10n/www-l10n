@@ -24,15 +24,9 @@ browsers-mobile-looking-for-a-streamlined = Mencari pelayar mudah alih yang supe
 browsers-mobile-compare = Bandingkan
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Lihat bagaimana { -brand-name-firefox } desktop berbanding lain-lain pelayar.
 
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Lihat di mana kedudukan { -brand-name-firefox } untuk desktop jika dibandingkan dengan tujuh pelayar web yang lain.
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Lihat bagaimana { -brand-name-firefox } <strong>desktop</strong> berbanding lain-lain pelayar.
 
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Lihat kedudukan { -brand-name-firefox } untuk <strong>desktop</strong> jika dibandingkan dengan tujuh pelayar web yang lain.
 browsers-mobile-download = Muat turun
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

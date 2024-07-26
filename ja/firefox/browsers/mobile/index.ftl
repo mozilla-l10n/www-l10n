@@ -24,15 +24,9 @@ browsers-mobile-looking-for-a-streamlined = 1 レベル上のプライバシー�
 browsers-mobile-compare = 比較
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = デスクトップ用 { -brand-name-firefox } と他のブラウザーを比較しました。
 
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = デスクトップ用 { -brand-name-firefox } と他の 7 つのブラウザーを比較しました。
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = <strong>デスクトップ</strong>用 { -brand-name-firefox } と他のブラウザーを比較しました。
 
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = <strong>デスクトップ</strong>用 { -brand-name-firefox } と他の 7 つのブラウザーを比較しました。
 browsers-mobile-download = ダウンロード
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

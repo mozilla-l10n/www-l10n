@@ -24,15 +24,9 @@ browsers-mobile-looking-for-a-streamlined = बेहतर गोपनीय�
 browsers-mobile-compare = तुलना करें
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = देखें कि किस तरह डेस्कटॉप वाला { -brand-name-firefox } अन्य ब्राउज़रों के बीच अलग नज़र आता है।
 
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = देखें कि किस तरह डेस्कटॉप वाला { -brand-name-firefox } सात ब्राउज़रों के बीच अलग नज़र आता है।
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = देखें कि किस तरह <strong>डेस्कटॉप</strong> वाला { -brand-name-firefox } अन्य ब्राउज़रों के बीच अलग नज़र आता है।
 
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = देखें कि किस तरह <strong>डेस्कटॉप</strong> वाला { -brand-name-firefox } सात ब्राउज़रों के बीच अलग नज़र आता है।
 browsers-mobile-download = डाउनलोड करें
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

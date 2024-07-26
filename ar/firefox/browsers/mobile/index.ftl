@@ -24,15 +24,9 @@ browsers-mobile-looking-for-a-streamlined = هل تبحث عن مُتصفح أج
 browsers-mobile-compare = مقارنة
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = لاحِظ مدى تفوُّق مُتصفح { -brand-name-firefox } المُخصص لأجهزة الكمبيوتر المكتبية على المتصفحات الأخرى.
 
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = لاحِظ مدى تفوُّق مُتصفح { -brand-name-firefox } المُخصص لأجهزة الكمبيوتر المكتبية على المتصفحات السبعة الأخرى.
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = لاحِظ مدى تفوُّق مُتصفح { -brand-name-firefox } المُخصص لأجهزة <strong>الكمبيوتر المكتبية</strong> على المتصفحات الأخرى.
 
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = لاحِظ مدى تفوُّق مُتصفح { -brand-name-firefox } المُخصص <strong>لأجهزة الكمبيوتر المكتبية</strong> على المتصفحات السبعة الأخرى.
 browsers-mobile-download = تنزيل
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
