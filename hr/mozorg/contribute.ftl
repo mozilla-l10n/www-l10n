@@ -18,6 +18,7 @@ contribute-task-support-desc = Pomogni da se { -brand-name-mozilla } proizvodi l
 ## Mission
 
 contribute-read-manifesto = Pročitaj naš manifest
+contribute-donate = Doniraj
 contribute-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 
 ## Made by

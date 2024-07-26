@@ -8,3 +8,4 @@
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Pročitaj <a { $url }>Napomene o izdanju</a> i saznaj više o tome što je novo u tvom { -brand-name-firefox } pregledniku.
+whatsnew-donate-to-mofo = Doniraj zakladi { -brand-name-mozilla-foundation }

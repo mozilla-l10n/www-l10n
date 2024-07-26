@@ -34,8 +34,7 @@ footer-websites-cookies = Kolačići
 footer-websites-legal = Pravne informacije
 footer-language = Jezik
 footer-go = Kreni
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
+footer-donate = Doniraj
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Slijedi @{ -brand-name-mozilla }

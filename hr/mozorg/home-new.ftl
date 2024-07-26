@@ -13,3 +13,5 @@ home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
 home-get-good-news = Primaj (dobre) { -brand-name-mozilla } vijesti
+home-mofo-donate-to-mofo-today = Doniraj zakladi { -brand-name-mozilla-foundation } danas kako bi internet ostao otvoren i dostupan svima.
+home-mofo-donate = Doniraj

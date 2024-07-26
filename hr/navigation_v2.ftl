@@ -20,7 +20,8 @@ navigation-v2-view-all-products = Pogledaj sve proizvode
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = Tko smo mi
+navigation-v2-who-we-are = Tko smo
+navigation-v2-close-who-we-are-menu = Zatvori izbornik Tko smo
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } manifest
 navigation-v2-get-involved = Uključi se
 
