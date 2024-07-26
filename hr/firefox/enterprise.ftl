@@ -15,8 +15,12 @@ firefox-enterprise-get-firefox-for-your-enterprise = Nabavi { -brand-name-firefo
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Nabavi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili preglednik Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
 firefox-enterprise-unmatched-data-protection = Nenadmašna zaštita podataka – s ritmom izdavanja koji ti odgovara
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } je preglednik otvorenog je koda i pruža poboljšanu zaštitu od praćenja kao dio naše dugogodišnje predanosti zaštiti podataka.
 firefox-enterprise-your-data-stays-your-business = Tvoji podaci su tvoja stvar
 firefox-enterprise-deploy-when-and-how-you-want = Instaliraj kada i kako želiš
+firefox-enterprise-with-install-packages-and = Uz instalacijske pakete i široku ekspanziju grupnih pravila i funkcija, implementacija je brža i fleksibilnija nego ikad – i jednostavna u { -brand-name-windows } i { -brand-name-mac } okruženjima.
+firefox-enterprise-choose-your-release-cadence = Odaberi ritam preuzimanja iydanja
 firefox-enterprise-get-rapid-releases-to-make = Nabavi brza izdanja za brže dobivanje najnovijih funkcija ili proširi, za osiguravanje super stabilnog iskustva.
 firefox-enterprise-enterprise-downloads = Preuzimanja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bitni

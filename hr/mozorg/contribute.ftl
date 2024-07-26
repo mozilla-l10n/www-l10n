@@ -15,6 +15,7 @@ contribute-how-heading = Kako možeš doprinijeti …
 ## Contribution tasks
 
 contribute-tag-non-technical = Ne tehničko
+contribute-tag-technical = Tehničko
 contribute-tag-technical-non-technical = Tehničko i ne tehničko
 contribute-tag-individual-event = Individualno i organizacija događaja
 contribute-tag-individual = Individualno
