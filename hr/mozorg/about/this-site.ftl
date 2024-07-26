@@ -14,3 +14,20 @@ about-this-site-contribute-to-code = Doprinesi bazi kodova
 about-this-site-contribute-to-l10n = Doprinesi prijevodima
 about-this-site-read-the-docs = Pročitaj dokumentaciju
 about-this-site-colophon = Impresum
+about-this-site-some-open-source-projects = Neki korišteni projekti otvorenog koda za izradu ove web stranice:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> kao pozadinsko web okruženje, s <a href="{ $jinja }">Jinja</a> za izradu predložaka.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = <a href="{ $protocol }">Protokol</a> za { -brand-name-mozilla } sustav dizajna za komponente sučelja i brendiranje.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = <a href="{ $fluent }">Fluent</a> sustav lokalizacije za { -brand-name-mozilla } za prevođenje jezika.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Mnoge druge manje biblioteke i okruženja koje možeš pronaći u našem <a href="{ $github }">{ -brand-name-github } repozitoriju</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Zahvaljujemo svim { -brand-name-mozilla } <a href="{ $credits }">doprinositeljima</a> koji su pomogli da web postane bolje mjesto.
