@@ -10,8 +10,6 @@ firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Bei der { -brand-name-firefox-developer-edition } für Dich drin: Top-Speed, richtungsweisende Developer Tools und starke Features wie CSS Grid Support und Framework Debugging.
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dein neuer Lieblings-Browser ist da – mit innovativen Features, mehr Performance sowie allen DevTools für Dich und das offene Web.
 firefox-developer-speak-up = Dein Feedback
 firefox-developer-feedback-makes-us = Wie können wir Browser und DevTools weiter verbessern? Dein Input zählt.
@@ -76,16 +74,11 @@ firefox-developer-download-the-firefox-browser = { -brand-name-firefox } für De
 firefox-developer-firefox-has-been-rebuilt = Wir haben { -brand-name-firefox } fundamental erneuert. Das Ergebnis: er ist schneller, geschmeidiger und leistungsstärker als je zuvor.
 firefox-developer-welcome-to-firefox-developer-edition = Willkommen bei { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Willkommen bei { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Der Browser für Entwickler
 firefox-developer-all-the-latest-v2 = Die neuesten Entwicklerwerkzeuge als Beta-Version, plus Funktionen wie der mehrzeilige Konsoleneditor und WebSocket-Inspektor.
 firefox-developer-a-separate-profile = Ein <strong>getrenntes Profil mit eigenem Pfad</strong>, damit die Version neben dem Release oder { -brand-name-firefox } { -brand-name-beta } genutzt werden kann.
 firefox-developer-preferences-tailored = Einstellungen, <strong>die an Web-Entwickler angepasst wurden</strong>: Browser- und Fern-Debugging sind standardmäßig aktiviert, ebenso wie das dunkle Theme und die Schaltfläche für die Entwicker-Symbolleiste.
 firefox-developer-congrats-you-now-have-latest-v2 = Du hast die neueste Version von { -brand-name-firefox-developer-edition }.
-
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Glückwunsch. Sie nutzen jetzt die neueste Version von { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

@@ -10,8 +10,6 @@ firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } एक तीव्र ब्राउज़र है जो अत्याधुनिक डेवलपर साधनों और नवीनतम सुविधाओं जैसे CSS ग्रिड समर्थन और फ़्रेमवर्क डिबगिंग की पेशकश करता है
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = आपके नए पसंदीदा ब्राउज़र में आपका स्वागत है। खुले वेब बनाने के लिए ज़रूरी सारे नवीनतम फ़ीचर, तेज़ प्रदर्शन और विकासपरक उपकरण पाएँ।
 firefox-developer-speak-up = बतलाएँ
 firefox-developer-feedback-makes-us = प्रतिक्रिया हमें बेहतर बनाती है। हमें बताएँ कि हम अपने ब्राउज़र और डेवलपर उपकरणों में कैसे सुधार कर सकते हैं।
@@ -76,16 +74,11 @@ firefox-developer-download-the-firefox-browser = डेवलपर्स के
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } को शुरू से पुनर्निर्मित किया गया है, तीव्रतर, आकर्षक और पहले से अधिक शक्तिशाली बनाने के लिए।
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } में आपका स्वागत है।
 firefox-developer-made-for-developers = डेवलपर्स के लिए बनाया गया ब्राउज़र
 firefox-developer-all-the-latest-v2 = बीटा में सभी नवीनतम डेवलपर टूल्स हैं, साथ ही मल्टी-लाइन कंसोल एडिटर और वेबसॉकेट इंस्पेक्टर मौजूद हैं।
 firefox-developer-a-separate-profile = एक <strong>अलग प्रोफ़ाइल और पाथ</strong> जिससे आप रिलीज़ या { -brand-name-beta } { -brand-name-firefox } के साथ इसे आसानी से चला सकें।
 firefox-developer-preferences-tailored = वरीयता <strong>विशेष रूप से वेब Devलपर्स के लिए</strong> : ब्राउज़र और रिमोट डिबगिंग तयशुदा रूप से सक्षम होते हैं, साथ ही, डार्क थीम और डेवलपर टूलबार बटन भी।
 firefox-developer-congrats-you-now-have-latest-v2 = अब आपके पास है { -brand-name-firefox-developer-edition } का नवीनतम संस्करण।
-
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = बधाई हो। अब आपके पास है { -brand-name-firefox-browser } { -brand-name-developer-edition } का नवीनतम संस्करण।
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

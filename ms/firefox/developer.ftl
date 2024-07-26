@@ -10,8 +10,6 @@ firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ialah pelayar yang amat pantas yang menawarkan alatan pembangun canggih dan ciri terkini seperti sokongan CSS Grid dan menyahpepijat rangka kerja
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Selamat datang ke pelayar kegemaran baru anda. Dapatkan ciri terkini, prestasi pantas dan alatan pembangunan yang diperlukan untuk pembinaan bagi laman web terbuka.
 firefox-developer-speak-up = Bersuaralah
 firefox-developer-feedback-makes-us = Maklum balas menjadikan kami lebih baik. Beritahu kami cara untuk meningkatkan pelayar dan alatan Pembangun.
@@ -76,16 +74,11 @@ firefox-developer-download-the-firefox-browser = Muat turun pelayar { -brand-nam
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } telah dibina semula sepenuhnya untuk menjadi lebih pantas, lebih lancar dan lebih hebat daripada sebelumnya.
 firefox-developer-welcome-to-firefox-developer-edition = Selamat datang ke { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Selamat datang ke { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
 firefox-developer-all-the-latest-v2 = Semua kelengkapan pembangun yang terkini dalam beta termasuklah ciri-ciri seperti Multi-line Console Editor dan WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Profil dan laluan berasingan</strong> agar anda boleh menjalankannya bersama Release atau { -brand-name-beta } { -brand-name-firefox } dengan mudah.
 firefox-developer-preferences-tailored = Keutamaan <strong>disesuaikan untuk pembangun web</strong>: Pelayar dan nyahpepijat jauh didayakan secara lalai, begitu juga dengan tema gelap dan butang bar alatan pembangun.
 firefox-developer-congrats-you-now-have-latest-v2 = Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-developer-edition }.
-
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Tahniah. Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

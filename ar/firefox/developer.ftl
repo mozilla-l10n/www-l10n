@@ -10,8 +10,6 @@ firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } هو متصفح سريع للغاية يوفر أدوات مطور متطورة وأحدث الميزات، مثل دعم CSS Grid وتصحيح أخطاء إطار العمل
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = مرحبًا بك في متصفّحك المفضل الجديد. احصل على أحدث الميزات مع الأداء السريع وأدوات تطوير أنت بحاجة إليها مع الويب المفتوح.
 firefox-developer-speak-up = عبّر عن نفسك
 firefox-developer-feedback-makes-us = تعليقاتك تجعلنا أفضل. أخبرنا كيف يمكننا تحسين المتصفح وأدوات المطوّر.
@@ -76,16 +74,11 @@ firefox-developer-download-the-firefox-browser = تنزيل { -brand-name-firefo
 firefox-developer-firefox-has-been-rebuilt = تمت إعادة بناء { -brand-name-firefox } من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
 firefox-developer-welcome-to-firefox-developer-edition = مرحبًا بك في { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = مرحبًا بك في { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين
 firefox-developer-all-the-latest-v2 = جميع أدوات المُطورين الأحدث بإصدار تجريبي، بالإضافة إلى ميزات تجريبية، مثلMulti-line Console Editor و WebSocket Inspector.
 firefox-developer-a-separate-profile = مسار <strong>وملف تعريف مُنفصلين</strong> حتى يتسنى لك بسهولة تشغيله بجانب الإصدار أو { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = تفضيلات <strong>صُممت لمُطوري الويب</strong>: يتم تمكين المُتصفح وتصحيح الأخطاء عن بُعد افتراضيًا، وكذلك السِمة الداكنة وزر شريط أدوات المُطور.
 firefox-developer-congrats-you-now-have-latest-v2 = لديك الآن أحدث إصدار من { -brand-name-firefox-developer-edition }.
-
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = تهانينا! لديك الآن أحدث إصدار من { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes

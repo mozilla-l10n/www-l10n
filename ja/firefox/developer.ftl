@@ -10,8 +10,6 @@ firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } は最先端のデベロッパーツールや、CSS Grid 対応・フレームワークデバグなど、最新機能を備えた超高速ブラウザー
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ご愛用いただいているブラウザーが新しくなりました。自由なウェブを築くために必要とされる最新機能や高速パフォーマンス、開発ツールを、ぜひ入手してください。
 firefox-developer-speak-up = ご意見をお寄せください
 firefox-developer-feedback-makes-us = フィードバックにより当チームは改善します。ブラウザーやデベロッパー用ツールをどう改善すべきか、ご意見をお寄せください。
@@ -76,16 +74,11 @@ firefox-developer-download-the-firefox-browser = デベロッパー専用に構�
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } が完全に再構築されて、さらに高速、シンプル、パワフルになりました。
 firefox-developer-welcome-to-firefox-developer-edition = ようこそ { -brand-name-firefox-developer-edition } へ
 
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = ようこそ { -brand-name-firefox-browser } { -brand-name-developer-edition } へ
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー
 firefox-developer-all-the-latest-v2 = Multi-line Console Editor や WebSocket Inspector 等の機能に加え、すべての最新ベータ版デベロッパーツール。
 firefox-developer-a-separate-profile = <strong>個別のプロフィールとパス</strong>で、リリースや { -brand-name-beta } { -brand-name-firefox } との同時実行が容易にできます。
 firefox-developer-preferences-tailored = <strong>ウェブデベロッパーに合わせてカスタマイズされた</strong>設定: ブラウザーとリモートデバッグのほか、ダークテーマやデベロッパーツールバーボタンが既定で有効になっています。
 firefox-developer-congrats-you-now-have-latest-v2 = { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
-
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = これで{ -brand-name-firefox-browser } { -brand-name-developer-edition } の最新バージョンがインストールされました。
 
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
