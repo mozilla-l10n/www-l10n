@@ -19,11 +19,6 @@ navigation-watch-videos-and-browse = अपने { -brand-name-amazon } { -bran
 navigation-firefox-browsers-put = { -brand-name-firefox } ब्राउज़र हमेशा से आपकी निजता को सबसे ज़्यादा प्राथमिकता देते आए हैं — और अब भी देते हैं।
 navigation-take-the-passwords-youve = { -brand-name-firefox } में सेव किए गए अपने पासवर्डों को आप जहाँ चाहें, वहाँ अपने पास पाएँ।
 
-# Obsolete string
-navigation-join-firefox = { -brand-name-firefox } से जुड़ें
-
-navigation-access-all-of-firefox = एक ही लॉग इन से सभी { -brand-name-firefox } के सभी फ़ंक्शन एक्सेस करें — और ऐसा करते हुए हरेक उत्पाद से अपने और ज़्यादा काम पूरे करें।
-navigation-meet-the-firefox-family = { -brand-name-firefox } परिवार के उत्पाद देखें
 navigation-firefox-blog = { -brand-name-firefox } ब्लॉग
 navigation-read-about-new-firefox = { -brand-name-firefox } के नए फ़ीचर्स के बारे में पढ़ें और इंटरनेट पर अधिक सुरक्षित रहने से जुड़ी सलाहें पाएँ।
 navigation-the-non-profit-behind = { -brand-name-firefox } की पृष्ठभूमि जो गैर-लाभकारी ऑर्गनाइजेशन है, वह इंटरनेट को सभी के वास्ते सुरक्षित बनाने के लिए लड़ रहा है।

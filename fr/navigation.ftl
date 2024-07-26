@@ -19,11 +19,6 @@ navigation-watch-videos-and-browse = Regardez des vidéos et naviguez sur Intern
 navigation-firefox-browsers-put = Depuis toujours, les navigateurs { -brand-name-firefox } mettent un point d’honneur à respecter votre vie privée.
 navigation-take-the-passwords-youve = Emportez partout avec vous les mots de passe que vous avez enregistrés dans { -brand-name-firefox }.
 
-# Obsolete string
-navigation-join-firefox = Rejoindre { -brand-name-firefox }
-
-navigation-access-all-of-firefox = Accédez à tout { -brand-name-firefox } avec un seul identifiant et profitez de toutes les fonctionnalités de nos produits.
-navigation-meet-the-firefox-family = Découvrez la gamme de produits { -brand-name-firefox }
 navigation-firefox-blog = Blog de { -brand-name-firefox }
 navigation-read-about-new-firefox = Découvrez les nouvelles fonctionnalités de { -brand-name-firefox } et obtenez des conseils pour rester plus en sécurité en ligne.
 navigation-the-non-profit-behind = La fondation à but non lucratif qui vous offre { -brand-name-firefox } se bat pour un Internet sain pour tous.

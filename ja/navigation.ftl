@@ -19,11 +19,6 @@ navigation-watch-videos-and-browse = { -brand-name-amazon } { -brand-name-fire-t
 navigation-firefox-browsers-put = { -brand-name-firefox } ブラウザーは、いつでもユーザーのプライバシーを第一に考えています。
 navigation-take-the-passwords-youve = { -brand-name-firefox } で保存したパスワードは、どこにでも持ち出せます。
 
-# Obsolete string
-navigation-join-firefox = { -brand-name-firefox } に参加
-
-navigation-access-all-of-firefox = ログイン 1 回で { -brand-name-firefox } すべてにアクセスでき、すべての製品をより活用できます。
-navigation-meet-the-firefox-family = { -brand-name-firefox } ファミリーのご紹介
 navigation-firefox-blog = { -brand-name-firefox } のブログ
 navigation-read-about-new-firefox = { -brand-name-firefox } の新機能と、オンライン生活で身を守るためのヒントをご覧ください。
 navigation-the-non-profit-behind = { -brand-name-firefox } を提供する非営利法人は、すべての人にとってインターネットを健全な場にするために闘っています。

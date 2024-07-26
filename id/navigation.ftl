@@ -19,11 +19,6 @@ navigation-watch-videos-and-browse = Tonton video dan jelajahi internet di { -br
 navigation-firefox-browsers-put = Peramban { -brand-name-firefox } mengutamakan privasi Anda - dan akan selalu begitu.
 navigation-take-the-passwords-youve = Bawalah sandi yang tersimpan di { -brand-name-firefox } ke mana pun Anda pergi.
 
-# Obsolete string
-navigation-join-firefox = Bergabunglah dengan { -brand-name-firefox }
-
-navigation-access-all-of-firefox = Akses semua { -brand-name-firefox } dengan sekali masuk — dan dapatkan lebih banyak manfaat dari setiap produk saat Anda melakukannya.
-navigation-meet-the-firefox-family = Temui Keluarga { -brand-name-firefox }
 navigation-firefox-blog = Blog { -brand-name-firefox }
 navigation-read-about-new-firefox = Baca tentang fitur { -brand-name-firefox } baru, dan dapatkan tips agar tetap aman saat daring.
 navigation-the-non-profit-behind = Organisasi nirlaba di balik { -brand-name-firefox } memperjuangkan internet yang sehat untuk semua.
