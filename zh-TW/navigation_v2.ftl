@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = 在一家以任務導向運作
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 部落格
 navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我們所在意的議題。
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } 的更多資訊
+navigation-v2-impact = 影響
+navigation-v2-find-out-how = 看看我們如何讓網際網路變得更有包容性、更可持續
 
 ## Innovation menu
 
