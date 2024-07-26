@@ -8,8 +8,6 @@ footer-privacy-hub = Pôle de confidentialité
 footer-privacy = Confidentialité
 footer-press = Dans la presse
 
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog de l’entreprise
 footer-mozilla-blog = Blog de { -brand-name-mozilla }
 footer-browser-comparison = Comparaison des navigateurs
 footer-brand-standards = Normes de la marque
@@ -41,9 +39,6 @@ footer-websites-legal = Mentions légales
 footer-language = Langue
 footer-go = OK
 footer-donate = Faire un don
-
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 
 footer-x = X
 footer-x-formerly-twitter = X (anciennement Twitter)

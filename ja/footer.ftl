@@ -8,8 +8,6 @@ footer-privacy-hub = プライバシーハブ
 footer-privacy = プライバシー
 footer-press = プレス
 
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = 企業ブログ
 footer-mozilla-blog = { -brand-name-mozilla } のブログ
 footer-browser-comparison = ブラウザーの比較
 footer-brand-standards = ブランド基準
@@ -41,9 +39,6 @@ footer-websites-legal = 法的情報
 footer-language = 言語
 footer-go = 進む
 footer-donate = 寄付する
-
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 
 footer-x = X
 footer-x-formerly-twitter = X (旧 Twitter)

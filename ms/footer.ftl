@@ -8,8 +8,6 @@ footer-privacy-hub = Hab Privasi
 footer-privacy = Privasi
 footer-press = Berita
 
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog Korporat
 footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Perbandingan Pelayar
 footer-brand-standards = Piawaian Jenama
@@ -41,9 +39,6 @@ footer-websites-legal = Undang-undang
 footer-language = Bahasa
 footer-go = Pergi
 footer-donate = Sumbangan
-
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 
 footer-x = X
 footer-x-formerly-twitter = X (dahulunya Twitter)

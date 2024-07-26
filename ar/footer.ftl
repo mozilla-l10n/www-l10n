@@ -8,8 +8,6 @@ footer-privacy-hub = مركز الخصوصية
 footer-privacy = الخصوصيّة
 footer-press = الصحافة
 
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = مدونة الشركة
 footer-mozilla-blog = مدونة { -brand-name-mozilla }
 footer-browser-comparison = المقارنة بين المتصفحات
 footer-brand-standards = معايير العلامات التجارية
@@ -41,9 +39,6 @@ footer-websites-legal = الشؤون القانونية
 footer-language = اللغة
 footer-go = ابدأ
 footer-donate = تبرَّع
-
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 
 footer-x = ص
 footer-x-formerly-twitter = X (سابقًا Twitter)

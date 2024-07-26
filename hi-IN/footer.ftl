@@ -8,8 +8,6 @@ footer-privacy-hub = प्राइवेसी हब
 footer-privacy = निजता
 footer-press = प्रेस
 
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = कॉर्पोरेट ब्लॉग
 footer-mozilla-blog = { -brand-name-mozilla } ब्लॉग
 footer-browser-comparison = ब्राउज़र तुलना
 footer-brand-standards = ब्रांड मानक
@@ -41,9 +39,6 @@ footer-websites-legal = कानूनी
 footer-language = भाषा
 footer-go = जाएँ
 footer-donate = दान करें
-
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 
 footer-x = x
 footer-x-formerly-twitter = X (पूर्व में Twitter)
