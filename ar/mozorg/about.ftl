@@ -38,10 +38,6 @@ about-san-francisco = سان فرانسيسكو
 about-talking-tech-issues-irl = الحديث عن المسائل الفنية IRL
 about-in-mozillas-multi-award-winning = في بودكاست { -brand-name-mozilla } الحائز على العديد من الجوائز، استضاف حديث بريدجت تود العديد من الأشخاص الذين يُشكلون مُستقبل الإنترنت والذكاء الاصطناعي.
 
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = الحديث عن قضايا الإنترنت عبر IRL
-about-in-mozillas-irl-podcast-host = في بود كاست IRL من { -brand-name-mozilla }، يُشارك المُضيف مانوش زمردي قصصًا حقيقية عن الحياة عبر الإنترنت وحديثًا حقيقيًا عن مستقبل الويب.
-
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> ضيف من غير المُوظفين يتم الترحيب بهم كل عام
 
