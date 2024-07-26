@@ -58,12 +58,6 @@ download-a-different-build = कोई दूसरा बिल्ड डाउ
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32-बिट डाउनलोड करें
-
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64-बिट डाउनलोड करें
-
 download-button-linux-32-v2 = Linux 32-बिट के लिए डाउनलोड करें
 download-button-linux-64-v2 = Linux 64-बिट के लिए डाउनलोड करें
 

@@ -58,12 +58,6 @@ download-a-different-build = 別のビルドをダウンロード
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32 ビット版をダウンロード
-
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64 ビット版をダウンロード
-
 download-button-linux-32-v2 = Linux 32 ビットをダウンロード
 download-button-linux-64-v2 = Linux 64 ビットをダウンロード
 

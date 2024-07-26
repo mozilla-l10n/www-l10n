@@ -58,12 +58,6 @@ download-a-different-build = تنزيل بنية مختلفة
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = تنزيل { -brand-name-linux } 32-بت
-
-# Obsolete string
-download-button-linux-64 = تنزيل { -brand-name-linux } 64-بت
-
 download-button-linux-32-v2 = التنزيل لنظام Linux 32-bit
 download-button-linux-64-v2 = التنزيل لنظام Linux 64-bit
 

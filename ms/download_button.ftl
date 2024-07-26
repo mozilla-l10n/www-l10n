@@ -58,12 +58,6 @@ download-a-different-build = Muat turun versi yang lain
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Muat turun { -brand-name-linux } 32-bit
-
-# Obsolete string
-download-button-linux-64 = Muat turun { -brand-name-linux } 64-bit
-
 download-button-linux-32-v2 = Muat turun untuk Linux 32-bit
 download-button-linux-64-v2 = Muat turun untuk Linux 64-bit
 

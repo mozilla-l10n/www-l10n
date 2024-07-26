@@ -58,12 +58,6 @@ download-a-different-build = Unduh build lain
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Unduh { -brand-name-linux } 32-bit
-
-# Obsolete string
-download-button-linux-64 = Unduh { -brand-name-linux } 64-bit
-
 download-button-linux-32-v2 = Unduh untuk Linux 32-bit
 download-button-linux-64-v2 = Unduh untuk Linux 64-bit
 
