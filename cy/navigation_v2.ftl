@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = Gweithiwch i sefydliad sy'n ca
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Dysgwch am { -brand-name-mozilla } a'r materion sy'n bwysig i ni.
 navigation-v2-more-about-mozilla = Rhagor Am { -brand-name-mozilla }
+navigation-v2-impact = Effaith
+navigation-v2-find-out-how = Darganfyddwch sut rydym yn gwneud y rhyngrwyd yn fwy cynhwysol a chynaliadwy
 
 ## Innovation menu
 
