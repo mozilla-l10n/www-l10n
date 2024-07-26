@@ -8,9 +8,6 @@
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Tahniah. Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-developer-edition }.
 
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Tahniah. Anda kini sedang menggunakan versi terbaru { -brand-name-firefox-browser } { -brand-name-developer-edition }.
-
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Lagi tentang { -brand-name-mdn }. { -brand-name-mdn } <em>Anda</em>.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } ialah projek kerjasama sumber terbuka yang mendokumenkan teknologi platform internet termasuklah CSS, HTML, JavaScript dan API Web. Kami juga menyediakan sumber pembelajaran yang luas untuk pembangun dan pelajar yang baru bermula.

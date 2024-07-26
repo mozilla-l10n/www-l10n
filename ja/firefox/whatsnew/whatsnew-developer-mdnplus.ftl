@@ -8,9 +8,6 @@
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = これで { -brand-name-firefox-developer-edition }  の最新バージョンがインストールされました。
 
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = これで{ -brand-name-firefox-browser } { -brand-name-developer-edition } の最新バージョンがインストールされました。
-
 # Main title
 developer-mdnplus-more-mdn-your-mdn = { -brand-name-mdn } を、もっと。<em>あなたの</em> { -brand-name-mdn }
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } は、CSS、HTML、JavaScript、Web API などのウェブプラットフォーム技術を記録するオープンソースの共同プロジェクトです。また、初心者の開発者や学生向けの幅広い学習リソースも提供しています。
