@@ -137,11 +137,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } को <a
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = जैसे-जैसे इंटरनेट का विस्तार और उसमें बदलाव हो रहे हैं, { -brand-name-firefox } निजता के आपके अधिकार पर केंद्रित रहने की अपनी नीति जारी रखे हुए है — हम इसे <a { $attrs }>निजी डेटा संबंधी अपना वचन</a> कहते हैं: कम से कम डेटा लेना। इसे सुरक्षित रखना। कोई सीक्रेट नहीं। आपका डेटा, आपकी इंटरनेट गतिविधि, आपका ऑनलाइन जीवन { -brand-name-firefox } के जरिए सुरक्षित रखा जाता है।
 
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } आपके सभी डिवाइसों के लिए उपलब्ध है; अपने टैब, हिस्ट्री और बुकमार्क अपने पास सुरक्षित रखें। आपको बस एक <a { $attrs }>{ -brand-name-firefox } अकाउंट</a> की ज़रूरत है।
-
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } आपके सभी डिवाइसों के लिए उपलब्ध है; अपने टैब, हिस्ट्री और बुकमार्क अपने पास सुरक्षित रखें। आपको बस एक <a { $attrs }>{ -brand-name-mozilla-account }</a> चाहिए और फिर आप सिंक करने की सुविधा और अन्य { -brand-name-mozilla } उत्पादों तक पहुंच हासिल कर सकते हैं।

@@ -137,11 +137,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändern, konzentriert sich { -brand-name-firefox } weiterhin auf den Schutz Ihrer Daten – wir nennen das unser <a { $attrs }>Versprechen für Ihre personenbezogenen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. Ihre Daten, Ihre Webaktivitäten, Ihre Leben online ist mit { -brand-name-firefox } geschützt.
 
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ist auf allen Ihren Geräten verfügbar; Nehmen Sie Ihre Tabs, Ihren Verlauf und Ihre Lesezeichen einfach mit. Alles, was Sie dazu brauchen, ist ein <a { $attrs }>{ -brand-name-firefox } Konto</a>.
-
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ist auf allen Ihren Geräten verfügbar. Nehmen Sie Ihre Tabs, Ihren Verlauf und Ihre Lesezeichen einfach mit. Alles, was Sie brauchen, ist ein <a { $attrs }>{ -brand-name-mozilla-account }</a> und Sie erhalten Zugriff auf Synchronisierung und weitere { -brand-name-mozilla }-Produkte.

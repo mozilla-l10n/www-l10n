@@ -137,11 +137,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dihasilka
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Selagi internet berkembang dan berubah, { -brand-name-firefox } akan terus memberikan fokus kepada hak ke atas privasi anda - kami memanggilnya <a { $attrs }>Perjanjian Data Peribadi</a>: Ambil sedikit. Pastikan ia selamat. Tiada rahsia. Data, aktiviti, dan kehidupan anda dalam talian dilindungi oleh { -brand-name-firefox }.
 
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } boleh didapati di semua peranti anda; bawa bersama tab, sejarah dan tandabuku anda. Apa yang anda perlukan hanyalah akaun <a { $attrs }>akaun{ -brand-name-firefox }</a>.
-
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } boleh didapati di semua peranti anda; bawa bersama tab, sejarah dan tandabuku anda. Anda hanya memerlukan <a { $attrs }>{ -brand-name-mozilla-account }</a> dan anda akan mendapat akses untuk penyelarasan dan lain-lain produk { -brand-name-mozilla }.
