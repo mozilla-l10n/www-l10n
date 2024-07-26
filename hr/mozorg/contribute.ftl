@@ -19,6 +19,7 @@ contribute-task-support-desc = Pomogni da se { -brand-name-mozilla } proizvodi l
 ## Mission
 
 contribute-mission-heading = Naša misija
+contribute-mission-desc = Naša misija je osigurati da internet bude globalni javni resurs, otvoren i dostupan svima. Internet koji ljude uistinu stavlja na prvo mjesto, gdje pojedinci mogu oblikovati vlastito iskustvo, imati ovlasti i biti sigurni i neovisni.
 contribute-learn = Saznaj više o { -brand-name-mozilla }
 contribute-read-manifesto = Pročitaj naš manifest
 contribute-find-event = Pronađi događaj
@@ -26,6 +27,7 @@ contribute-meet-volunteers = Upoznaj naše strastvene volontere
 contribute-donate = Doniraj
 contribute-help-fund = Pomogni financirati našu misiju
 contribute-follow-mozilla = Slijedi @{ -brand-name-mozilla }
+contribute-opportunities = Novosti i prilike za volontiranje
 
 ## Made by
 
