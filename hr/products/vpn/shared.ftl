@@ -78,9 +78,11 @@ vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
 vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
 vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }:
+vpn-subnav-whats-a-vpn = Što je VPN?
 vpn-subnav-get-help = Dobij pomoć
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
+vpn-subnav-whats-an-ip-address = Što je IP adresa?
 vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
 
 ## VPN + Relay bundle offer

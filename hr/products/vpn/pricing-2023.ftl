@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+# HTML page title
+vpn-pricing-one-subscription = Jedna pretplata za sve tvoje uređaje
+# Pricing section
+vpn-pricing-included-in-subscription = Pretplata uključuje:
 vpn-pricing-annual = Godišnje
 vpn-pricing-monthly = Mjesečno
 vpn-pricing-get-annual-subscription = Nabavi godišnju pretplatu

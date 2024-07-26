@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+vpn-resource-center-whats-the-deal = O čemu se radi u virtualnim privatnim mrežama?
 vpn-resource-center-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
