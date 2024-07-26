@@ -14,9 +14,6 @@ features-sync-with-firefox-you-can-pick-up-where = Dengan { -brand-name-firefox 
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Daftar { -brand-name-mozilla-account } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan { -brand-name-firefox } dan produk { -brand-name-mozilla } lainnya.
 
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Daftar akun { -brand-name-firefox } gratis</a> dan Anda dapat menyinkronkan data di mana pun Anda menggunakan peramban { -brand-name-firefox }.
-
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Semua data Anda dienkripsi di server kami sehingga kami tidak dapat membacanya – hanya Anda yang dapat mengaksesnya. Kami tidak menjual informasi Anda kepada pengiklan karena hal itu bertentangan dengan <a href="{ $privacy }">janji privasi data</a> kami.

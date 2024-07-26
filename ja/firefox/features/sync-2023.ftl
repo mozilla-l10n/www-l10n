@@ -14,9 +14,6 @@ features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } で�
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>無料の { -brand-name-mozilla-account } に登録する</a>と、{ -brand-name-firefox } と { -brand-name-mozilla } 製品をどこで使用してもデータを同期できるようになります。
 
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">無料の { -brand-name-firefox } アカウントに登録</a>すると、{ -brand-name-firefox } ブラウザーをどこで使用してもデータを同期できるようになります。
-
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = すべてのデータは Firefox のサーバー上で暗号化されているため、Mozilla 側からも読み取ることはできず、アクセスできるのはユーザーだけです。<a href="{ $privacy }">データプライバシーの約束</a>から、Mozilla はユーザーの個人情報を広告主に売却しません。
