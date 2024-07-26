@@ -24,14 +24,18 @@ contribute-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 
 ## Made by
 
+contribute-made-by-heading = Stvoreno od strastvenih ljudi poput tebe
 
 ## Newsletter
 
+contribute-newsletter-heading = Još nisi siguran/na?
+contribute-newsletter-sub-heading = Primaj vijesti zajednice i doprinose u tvoj ulazni sandučić
 contribute-newsletter-desc = Pretplati se na naš bilten, pridruži se Mozillianerima diljem svijeta i saznaj više o značajnim prilikama za podržavanje { -brand-name-mozilla } misije.
 
 ## Support
 
 contribute-support-heading = Zatraži pomoć
+contribute-support-desc = { -brand-name-mozilla } se sastoji od tima volontera koji ti mogu pomoći s bilo kojim problemima na koje naiđeš.
 
 ## Web compat
 
