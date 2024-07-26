@@ -8,13 +8,23 @@
 
 ## Page heading
 
+contribute-page-heading = Tvoji talenti su potrebni za bolji internet
+contribute-how-heading = Kako možeš doprinijeti …
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Ne tehničko
+contribute-tag-technical-non-technical = Tehničko i ne tehničko
+contribute-tag-individual-event = Individualno i organizacija događaja
+contribute-tag-individual = Individualno
 contribute-tag-support = Podrška
+contribute-task-translate-heading = Prevedi sadržaj
 contribute-task-translate-desc = Internet je globalan samo ako ga svatko razumije. Pomogni nam prevesti { -brand-name-mozilla } proizvode i web stranice na tvoj jezik.
+contribute-task-mozilla-codebase-heading = Doprinesi { -brand-name-mozilla } bazi kodova
 contribute-task-mozilla-codebase-desc = Aktivno poboljšavaj { -brand-name-mozilla } proizvode doprinoseći njihovom razvoju na razne načine.
 contribute-task-support-desc = Pomogni da se { -brand-name-mozilla } proizvodi lako koriste. Odgovaraj na pitanja „pomoći” kao dio foruma zajednice { -brand-name-mozilla } podrške.
+contribute-task-join-heading = Pridruži se zajednici
+contribute-task-join-desc = Želiš se još više uključiti u { -brand-name-mozilla } zajednicu? Pogledaj mogućnosti volontiranja na našem portalu zajednice.
 
 ## Mission
 
