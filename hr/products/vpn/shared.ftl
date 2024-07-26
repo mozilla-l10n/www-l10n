@@ -65,10 +65,12 @@ vpn-shared-with-an-annual-subscription = *s godišnjom pretplatom
 vpn-shared-platform-cta-headline = Započmimo
 vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
+vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
 vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }:
 vpn-subnav-get-help = Dobij pomoć
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
+vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
 
 ## VPN + Relay bundle offer
 
