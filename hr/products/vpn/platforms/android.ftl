@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
+# Mobile strings
+vpn-android-hero-headline = Dobij zaštitu i privatnost na internetu s { -brand-name-mozilla-vpn } za { -brand-name-android }
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-copy = { -brand-name-mozilla-vpn } omogućuje povezivanje { $devices } različitih uređaja uključujući { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } i { -brand-name-linux }. Koristi ga na svom pametnom telefonu, desktopu, laptopu, tabletu i drugim uređajima.
