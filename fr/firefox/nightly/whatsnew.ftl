@@ -22,13 +22,6 @@ nightly-whatsnew-this-is-a-good = Le moment est donc bien choisi pour vous remer
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Si vous voulez vous tenir au courant de tout ce qui concerne { -brand-name-nightly } et sa communauté, commencez par lire notre <a { $blog }>blog</a> et suivre nos comptes <a { $mastodon }>Mastodon</a> ou <a { $twitter }>X</a> !
 
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Si vous voulez vous tenir au courant de ce qu’il se passe autour de { -brand-name-nightly } et de sa communauté, lire notre <a href="{ $blog }">blog</a> et suivre nos comptes <a href="{ $mastodon }">Mastodon</a> ou <a href="{ $twitter }">Twitter</a> est un bon début !
-
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = Vous souhaitez savoir quelles fonctionnalités de la plateforme vous pouvez tester sur { -brand-name-nightly }, que vous ne pouvez pas encore essayer sur les autres versions de { -brand-name-firefox } ? Jetez un œil à la page des préférences de <a { $attrs }>Nightly Experiments</a>.

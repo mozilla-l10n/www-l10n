@@ -22,13 +22,6 @@ nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-f
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a { $blog }>ブログ</a>をご覧いただくか、<a { $mastodon }>Mastodon</a> または <a { $twitter }>X/Twitter</a> で Mozilla をフォローしていただくとよいでしょう。
 
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a href="{ $blog }">ブログ</a>をご覧いただくか、<a href="{ $mastodon }">Mastodon</a> または <a href="{ $twitter }">Twitter/X</a> で Mozilla をフォローしていただくとよいでしょう。
-
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v2 = { -brand-name-nightly } のプラットフォームの機能のうち、どれをテストできるかを知りたい方で、他の { -brand-name-firefox } チャンネルでまだ確認できない方は、<a { $attrs }>Nightly Experiments</a> 設定ページをご覧ください。
