@@ -19,11 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = احصل على الأحدث. الخُصوصية التلقائية مشمولة. نزّل { -brand-name-firefox } لحظر ما يزيد عن { $trackers } من أداة تتبع.
 
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = احصل على الأحدث. الخُصوصية التلقائية مشمولة. نزّل { -brand-name-firefox-browser } لحظر ما يزيد عن { $trackers } من أداة تتبع.
-
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = اختبر الميزات التي قرُبَ إطلاقها في الإصدار التجريبي الأكثر استقرارًا.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

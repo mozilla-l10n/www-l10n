@@ -19,11 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = 最新版をダウンロードしてください。プライバシーが自動で守られます。{ -brand-name-firefox } をダウンロードして、{ $trackers } 件以上のトラッカーをブロックしましょう。
 
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = 最新版をダウンロードしてください。プライバシーが自動で守られます。{ -brand-name-firefox-browser } をダウンロードして、{ $trackers } 件以上のトラッカーをブロックしましょう。
-
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = 最も安定したプレリリースビルドで、近日リリース予定の機能をテストしてください。
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

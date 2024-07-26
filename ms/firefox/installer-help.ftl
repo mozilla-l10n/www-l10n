@@ -19,11 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Dapatkan yang terkini. Privasi automatik telah tiba. Muat turun { -brand-name-firefox } untuk menyekat lebih daripada { $trackers } penjejak.
 
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Dapatkan yang terkini. Privasi automatik telah tiba. Muat turun { -brand-name-firefox-browser } untuk menyekat lebih daripada { $trackers } penjejak.
-
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Uji ciri yang akan dikeluarkan tidak lama lagi dalam binaan pra keluaran yang paling stabil.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
