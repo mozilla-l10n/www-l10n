@@ -62,13 +62,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn } : rapide, privé, s�
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> est un service auquel vous pouvez vous fier pour assurer la sécurité de votre connexion Internet sur l'ensemble de vos appareils. Nous ne conservons pas vos journaux d'activité réseau, et nous ne collaborons pas avec des tiers qui créent des profils à partir de ce que vous faites en ligne. Dans un monde où l'imprévisibilité est devenue la « nouvelle norme », nous savons qu'il est indispensable que vous vous sentiez en sécurité et que vous sachiez que ce que vous faites en ligne ne regarde que vous.
-
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> est un service auquel vous pouvez vous fier pour assurer la sécurité de votre connexion Internet sur l'ensemble de vos appareils. Nous ne conservons pas vos journaux d'activité réseau, et nous ne collaborons pas avec des tiers qui créent des profils à partir de ce que vous faites en ligne. Dans un monde où l’imprévisibilité est devenue la nouvelle norme…
-
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> est un service auquel vous pouvez vous fier pour assurer la sécurité de votre connexion Internet sur l’ensemble de vos appareils. Nous ne conservons pas vos journaux d’activité réseau et nous ne collaborons pas avec des tiers qui souhaitent créer un profil de ce que vous faites en ligne. Dans un monde où l’imprévisibilité est devenue la « nouvelle norme », nous savons qu’il est indispensable que vous vous sentiez en sécurité et que vous sachiez que ce que vous faites en ligne ne regarde que vous.
