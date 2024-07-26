@@ -7,9 +7,9 @@
 
 # HTML page title
 features-index-firefox-browser-features = Funkcije { -brand-name-firefox } preglednika
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Je li je { -brand-name-firefox } brz preglednik?
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
 features-index-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
+features-index-get-help-creating-new-passwords = Dobij pomoć za stvaranje novih lozinki, za automatsko ispunjavanje obrazaca na internetu i za automatske prijave.
 features-index-bookmark-manager = Upravljač zabilješki
 features-index-organize-your-bookmarks-with = Organiziraj svoje zabilješke pomoću mapa i oznaka.
 features-index-private-browsing-mode = Modus privatnog pregledavanja
