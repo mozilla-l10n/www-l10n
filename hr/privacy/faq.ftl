@@ -12,6 +12,7 @@ privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće iznad p
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">načela privatnosti podataka</a> koji određuju naš pristup prema privatnosti u { -brand-name-firefox } desktop i mobilnim preglednicima.
+privacy-faq-we-only-collect-the-data-we = Prikupljamo samo podatke koje trebamo za izradu najboljih proizvoda.
 # Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, web preglednik koji radi na tvom uređaju ili računalu, tvoj je pristup internetu. Preglednik upravlja mnogim informacijama o web stranicama koje posjećuješ, ali ti podaci ostaju na tvom uređaju. { -brand-name-mozilla }, poduzeće koje proizvodi { -brand-name-firefox }, ne prikuplja te podatke (osim, ako nas ne zatražiš).
 privacy-faq-it-seems-like-every-company = Čini se da sva poduzeća na webu kupuju i prodaju moje podatke. Vi vjerojatno također.

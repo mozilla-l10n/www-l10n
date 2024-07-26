@@ -23,3 +23,7 @@ navigation-v2-mozilla-manifesto = { -brand-name-mozilla } manifest
 
 ## Innovation menu
 
+navigation-v2-innovation = Inovacije
+navigation-v2-close-innovation-menu = Zatvori izbornik Inovacije
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } projekti inovacija

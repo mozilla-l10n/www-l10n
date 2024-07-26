@@ -10,8 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je nevjerojatno brz preglednik koji nudi vrhunske programerske alate i najnovije funkcije poput podrške za CSS mrežu i uklanjanje grešaka radnog okruženja
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Stigao je tvoj novi omiljeni preglednik. Nabavi najnovije funkcije, brzu performansu i programerske alate koji su potrebni za izgradnju otvorenog weba.
 firefox-developer-speak-up = Reci što misliš
 firefox-developer-feedback-makes-us = Povratne informacije nam pomažu. Reci nam kako možemo unaprijediti preglednika i programerske alate.
@@ -74,6 +73,7 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Preuzmi { -brand-name-firefox } preglednik namijenjen programerima
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletno obnovljen kako bi bio brži, elegantniji i moćniji nego ikad.
 firefox-developer-made-for-developers = Preglednik izrađen za programere
+firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

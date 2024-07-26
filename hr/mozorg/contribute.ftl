@@ -13,6 +13,7 @@
 
 contribute-task-translate-desc = Internet je globalan samo ako ga svatko razumije. Pomogni nam prevesti { -brand-name-mozilla } proizvode i web stranice na tvoj jezik.
 contribute-task-mozilla-codebase-desc = Aktivno poboljšavaj { -brand-name-mozilla } proizvode doprinoseći njihovom razvoju na razne načine.
+contribute-task-support-desc = Pomogni da se { -brand-name-mozilla } proizvodi lako koriste. Odgovaraj na pitanja „pomoći” kao dio foruma zajednice { -brand-name-mozilla } podrške.
 
 ## Mission
 
