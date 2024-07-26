@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/6/
@@ -11,7 +11,7 @@ welcome-page6-make-sure-youre-protected = Zaštiti se svaki put kad se povežeš
 welcome-page6-when-you-choose-firefox-you = Kada odaberete { -brand-name-firefox }, podržavate bolji web za vas i sve ostale. Sada napravite sljedeći korak kako biste se zaštitili.
 welcome-page6-get-the-firefox-app = Preuzmi { -brand-name-firefox } aplikaciju
 welcome-page6-get-firefox-on-your-phone = Preuzmi { -brand-name-firefox } na svoj telefon
-welcome-page6-scan-the-qr-code-to-get-started = Skeniraj QR kȏd i započni
+welcome-page6-scan-the-qr-code-to-get-started = Započni snimanjem QR koda
 welcome-page6-qr-code-to-scan-for-firefox = QR kȏd koji se treba skenirati za { -brand-name-firefox }
 welcome-page6-choose-automatic-privacy = Odaberi automatsku privatnost
 welcome-page6-companies-keep-finding-new = Poduzeća stalno pronalaze nove načine kako bi se dočepali tvojih osobnih podataka. { -brand-name-firefox } je preglednik s misijom pronalaženja novih načina zaštite.
