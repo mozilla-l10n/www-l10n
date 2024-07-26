@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = იმუშავეთ დ�
 navigation-v2-mozilla-blog = { -brand-name-mozilla } სვეტი
 navigation-v2-learn-about-mozilla-and = იხილეთ { -brand-name-mozilla } და საკითხები, რომლებიც მეტად გვაღელვებს.
 navigation-v2-more-about-mozilla = უკეთ გაიცანით { -brand-name-mozilla }
+navigation-v2-impact = ზემოქმედება
+navigation-v2-find-out-how = გაეცანით, თუ როგორ ვქმნით ინტერნეტს მეტად მოიცავს და მდგრადს
 
 ## Innovation menu
 
