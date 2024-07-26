@@ -10,3 +10,4 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Čestitamo! Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 # CTA button
 developer-mdnplus-get-started = Započni
+developer-mdnplus-resources-for-developers = Resursi za programere, od programera.

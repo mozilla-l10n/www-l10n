@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
+cookie-settings-save-changes = Spremi promjene
 
 ## Necessary cookies section
 

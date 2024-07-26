@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
+mozsocial-invite-required-label = Obavezno
+mozsocial-invite-first-name-label = Ime
+mozsocial-invite-last-name-label = Prezime
+mozsocial-invite-your-email-address-label = Tvoja e-mail adresa
 mozsocial-invite-country-label = Zemlja

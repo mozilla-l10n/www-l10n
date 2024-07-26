@@ -40,6 +40,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registriran zašti
 
 vpn-shared-pricing-variable-heading-v2 = Odaberi plan pretplate koji ti odgovara
 vpn-shared-one-subscription-heading = Jedna pretplata za sve tvoje uređaje
+vpn-shared-pricing-recommended-offer = Preporučeno
 vpn-shared-pricing-plan-12-month-v2 = 12-mjesečni plan
 vpn-shared-pricing-plan-monthly-v2 = Mjesečni plan
 # Variables:
@@ -52,13 +53,23 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span> na mjesec plus porez</sp
 vpn-shared-pricing-get-12-month-v2 = Nabavi 12-mjesečni plan
 vpn-shared-pricing-get-monthly = Nabavi mjesečni plan
 # Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Uštedi { $percent }%
+# Variables:
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
-vpn-shared-save-percent-on = Uštedi { $percent } % s { -brand-name-mozilla-vpn }*
+vpn-shared-save-percent-on = Uštedi { $percent } % na { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *kada se pretplatiš na 12-mjesečni plan
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-with-an-annual-subscription = *s godišnjom pretplatom
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } ukupno
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $iznos } ukupno + porez
 
 # Platform subpage shared strings
 
