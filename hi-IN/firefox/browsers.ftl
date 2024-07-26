@@ -12,10 +12,6 @@ firefox-browsers-page-desc = डेस्कटॉप, { -brand-name-ios }, { -b
 
 firefox-browsers-main-heading = { -brand-name-firefox } ब्राउज़र
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = वे <strong>ब्राउज़र</strong> पाएँ जो आपकी निजता को सबसे पहले रखते हैं — और हमेशा रखते आए हैं
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = वह ब्राउज़र प्राप्त करें, जो आपकी निजता को सबसे पहले रखता है — और <strong>हमेशा</strong> रखता है
 firefox-browsers-desktop = डेस्कटॉप

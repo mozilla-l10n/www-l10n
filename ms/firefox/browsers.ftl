@@ -12,10 +12,6 @@ firefox-browsers-page-desc = Pilih daripada Desktop, { -brand-name-ios }, { -bra
 
 firefox-browsers-main-heading = Pelayar { -brand-name-firefox }
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Dapatkan <strong>pelayar</strong> yang mengutamakan privasi anda — sentiasa
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Dapatkan pelayar yang mengutamakan privasi anda — <strong>sentiasa</strong>
 firefox-browsers-desktop = Desktop

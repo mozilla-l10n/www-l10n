@@ -12,10 +12,6 @@ firefox-browsers-page-desc = اختر من أجهزة الكمبيوتر أو { 
 
 firefox-browsers-main-heading = متصفحات { -brand-name-firefox }
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = احصل على <strong>المتصفحات</strong> التي تضع خصوصيتك فوق كل اعتبار — ودائمة الالتزام بذلك
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = استخدم المتصفّح الذي يضع خصوصيتك فوق كل اعتبار — و<strong>دائمًا</strong> يلتزم بذلك
 firefox-browsers-desktop = أجهزة الكمبيوتر

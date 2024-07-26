@@ -12,10 +12,6 @@ firefox-browsers-page-desc = Pilih dari Desktop, { -brand-name-ios }, { -brand-n
 
 firefox-browsers-main-heading = Peramban { -brand-name-firefox }
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Dapatkan <strong>peramban</strong> yang selalu mengutamakan privasi Anda
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Dapatkan peramban yang <strong>selalu</strong> mengutamakan privasi Anda
 firefox-browsers-desktop = Desktop

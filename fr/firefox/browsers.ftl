@@ -12,10 +12,6 @@ firefox-browsers-page-desc = Choisissez la version pour ordinateur, { -brand-nam
 
 firefox-browsers-main-heading = Navigateur { -brand-name-firefox }
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Installez les <strong>navigateurs</strong> qui respectent votre vie privée — et qui l’ont toujours fait
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Installez le navigateur qui respecte votre vie privée — et qui l’a <strong>toujours</strong> fait
 firefox-browsers-desktop = Ordinateur

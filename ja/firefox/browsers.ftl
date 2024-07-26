@@ -12,10 +12,6 @@ firefox-browsers-page-desc = デスクトップ、{ -brand-name-ios }、{ -brand
 
 firefox-browsers-main-heading = { -brand-name-firefox } ブラウザー
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = ユーザーのプライバシーを常に優先する<strong>ブラウザー</strong>をご利用ください。
-
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = ユーザーのプライバシーを<strong>常に</strong>優先するブラウザーをご利用ください。
 firefox-browsers-desktop = デスクトップ
