@@ -14,4 +14,4 @@ compare-safari-but-firefox-also-has-built-in = { -brand-name-firefox } má ale t
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } nabízí široké možnosti přizpůsobení, včetně možnosti přesouvat nabídky a lišty na různá místa v okně prohlížeče. Rozhraní Safari je méně přizpůsobitelné.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
-compare-safari-switching-to-firefox-is-easy = Přechod na { -brand-name-firefox(case: "acc") } je snadný a rychlý – importujte své záložky, hesla, historii a nastavení ze Safari jedním klepnutím a buďte připraveni { -brand-name-firefox(case: "acc") } používat. Zde se dozvíte, <a { $howto }>importovat data ze Safari</a>.
+compare-safari-switching-to-firefox-is-easy = Přechod na { -brand-name-firefox(case: "acc") } je snadný a rychlý – importujte své záložky, hesla, historii a nastavení ze Safari jedním klepnutím a buďte připraveni { -brand-name-firefox(case: "acc") } používat. Zde se dozvíte, <a { $howto }>jak importovat údaje ze Safari</a>.
