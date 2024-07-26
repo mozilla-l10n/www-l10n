@@ -32,9 +32,6 @@ vpn-desktop-servers-headline = Accédez à des serveurs dans le monde entier
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = Naviguez en ligne depuis le Brésil. Jouez à vos jeux préférés au Japon. Regardez vos programmes préférés au Mexique. { -brand-name-mozilla-vpn } vous permet de choisir parmi { $servers } serveurs pour modifier l’emplacement de votre téléphone ou de votre ordinateur.
 
-# Obsolete string
-vpn-desktop-servers-copy = Naviguez en ligne depuis le Brésil. Jouez à vos jeux préférés au Japon. Regardez vos programmes préférés au Mexique. { -brand-name-mozilla-vpn } vous permet de choisir parmi { $servers } serveurs pour modifier l'emplacement de votre téléphone ou de votre ordinateur.
-
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Protégez jusqu’à { $devices } appareils

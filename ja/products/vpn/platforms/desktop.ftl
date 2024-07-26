@@ -32,9 +32,6 @@ vpn-desktop-servers-headline = 世界中のサーバーに接続
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = ブラジルからブラウズ、日本からゲームをプレイ、メキシコからストリーミング。{ -brand-name-mozilla-vpn } では、スマートフォンやコンピューターの所在地を { $servers } 台あるサーバーに自在に変更できます。
 
-# Obsolete string
-vpn-desktop-servers-copy = ブラジルからブラウズ、日本からゲームをプレイ、メキシコからストリーミング。{ -brand-name-mozilla-vpn } では、スマートフォンやコンピューターの所在地を { $servers } 台あるサーバーに自在に変更できます。
-
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = デバイス { $devices } 台まで保護

@@ -32,9 +32,6 @@ vpn-desktop-servers-headline = Bersambung ke pelayan di seluruh dunia
 #   $servers (number) - number of available servers
 vpn-desktop-servers-copy-updated = Layari dari Brazil. Bermain permainan video dari Jepun. Strim dari Mexico. { -brand-name-mozilla-vpn } membolehkan anda menukar lokasi telefon dan komputer kepada satu daripada { $servers } pelayan.
 
-# Obsolete string
-vpn-desktop-servers-copy = Layari dari Brazil. Bermain permainan video dari Jepun. Strim dari Mexico. { -brand-name-mozilla-vpn } membolehkan anda menukar lokasi telefon atau komputer ke salah satu { $servers }.
-
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Lindungi hingga { $devices } peranti
