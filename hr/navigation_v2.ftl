@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-v2-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 
 ## Firefox menu
 
@@ -20,6 +21,7 @@ navigation-v2-view-all-products = Pogledaj sve proizvode
 ## Who We Are menu
 
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } manifest
+navigation-v2-get-involved = Uključi se
 
 ## Innovation menu
 

@@ -28,6 +28,7 @@ contribute-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 
 ## Support
 
+contribute-support-heading = Zatraži pomoć
 
 ## Web compat
 

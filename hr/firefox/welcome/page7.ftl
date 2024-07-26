@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,5 @@ page7-make-them-unfollow-you = Onemogući im praćenje
 page7-that-sneaky-little-button = Taj lukavi mali gumb
 page7-those-innocent-looking-f-buttons = Te { -brand-name-facebook }ve F-tipke nevinog izgleda prate tvoju aktivnost na webu, čak i ako nemaš račun. { -brand-name-facebook-container } ih blokira.
 page7-stay-ahead-of-hackers = Budi korak ispred hakera
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } omogućuje ti pronalaženje informacija koje hakeri možda znaju o tebi i pomaže ti da budeš korak ispred njih. (I besplatan je.)
-page7-get-firefox-monitor = Koristi { -brand-name-firefox-monitor }
+page7-get-mozilla-monitor = Nabavi { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = Zašto ovo vidim?

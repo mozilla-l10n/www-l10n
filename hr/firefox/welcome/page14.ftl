@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 welcome-page14-never-log = Nikada ne zapisujemo, pratimo ili dijelimo tvoje mrežne podatke – tvoja internetska aktivnost neće ostaviti trag na našim VPN serverima.
