@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-heading = Tvoji talenti su potrebni za bolji internet
+contribute-page-intro = { -brand-name-mozilla } je neprofitna organizacija koja radi na tome da internet bude otvoren i svima dobrodošao. I trebamo tvoju pomoć. Pridruživanjem našoj zajednici možeš pomoći pokrenuti inovacije, poboljšati odgovornost i povjerenje te učiniti internet boljim mjestom za sve.
 contribute-how-heading = Kako možeš doprinijeti …
 
 ## Contribution tasks
@@ -42,6 +43,8 @@ contribute-opportunities = Novosti i prilike za volontiranje
 ## Made by
 
 contribute-made-by-heading = Stvoreno od strastvenih ljudi poput tebe
+contribute-made-by-desc = Kada pridoneseš { -brand-name-mozilla }, postaješ dio svjetske zajednice koju čine ljudi iz cijelog svijeta koji vjeruju da svi imamo ulogu u osiguravanju da internet zauvijek ostane snažan.
+contribute-made-by-desc-cont = Vjerujemo da je suradnja zajednice ključna za stvaranje interneta koji je raznolik, inovativan i odgovoran prema ljudima kojima je najpotrebniji. Bilo da imaš iskustvo u tehnologiji, u organiziranju zajednice ili samo računalo i nešto slobodnog vremena, možeš nam pomoći učiniti internet boljim mjestom.
 
 ## Newsletter
 
@@ -59,3 +62,4 @@ contribute-mozilla-support = { -brand-name-mozilla } podrška
 
 contribute-web-compat-heading = Problemi s web stranicom?
 contribute-web-compat-desc = Ako primijetiš da web stranica ne radi jednako u različitim preglednicima, možda se radi problemu s kompatibilnošću. Voljeli bismo znati o tome!
+contribute-report-issue = Prijavi problem
