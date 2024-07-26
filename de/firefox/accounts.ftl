@@ -7,21 +7,12 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Dein { -brand-name-mozilla-account } synchronisiert deine Daten sicher auf allen Geräten
 
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Dein { -brand-name-firefox-account } synchronisiert deine Daten sicher auf allen Geräten
-
-# Obsolete string
-firefox-accounts-securely-sync-your = Synchronisiere Passwörter, Lesezeichen und Tabs sicher auf allen deinen Geräten. Hol dir dein { -brand-name-firefox-account }: Ein Login. So viele Features.
-
 # HTML page description
 mozilla-accounts-securely-sync-your = Synchronisiere Passwörter, Lesezeichen und Tabs sicher auf allen deinen Geräten. Hol dir dein { -brand-name-mozilla-account }: Ein Login. So viele Features.
 
 firefox-accounts-enter-your-email-address = Gib deine E-Mail-Adresse ein, um loszulegen.
 firefox-accounts-already-have-an-account = Du hast schon ein Konto?
 firefox-accounts-sign-in = Einloggen
-
-# Obsolete string
-firefox-accounts-already = Sie haben bereits ein { -brand-name-firefox-account }. Herzlichen Glückwunsch!
 
 mozilla-accounts-already = Sie haben bereits ein { -brand-name-mozilla-account }. Herzlichen Glückwunsch!
 firefox-accounts-manage = Konto verwalten
@@ -30,12 +21,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Melden Sie sich bei Ihrem { -brand-name-mozilla-account } an, um:
-
-# Obsolete string
-firefox-accounts-sign-in-to = Melden Sie sich bei Ihrem { -brand-name-firefox-account } an, um:
-
-# Obsolete string
-firefox-accounts-meet-our-family-of = Das sind die Produkte der Firefox-Familie. Sie alle setzen deine Privatsphäre an die erste Stelle.
 
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs

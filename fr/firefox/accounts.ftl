@@ -7,21 +7,12 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Créez votre { -brand-name-mozilla-account } – Vos données restent synchronisées, sécurisées et confidentielles
 
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Créez votre { -brand-name-firefox-account } – Vos données restent synchronisées, sécurisées et confidentielles
-
-# Obsolete string
-firefox-accounts-securely-sync-your = Synchronisez vos appareils en toute sécurité : mots de passe, marque-pages, onglets, etc. Créez votre { -brand-name-firefox-account } dès aujourd’hui. Une seule connexion vous garantit puissance et confidentialité à tous les niveaux.
-
 # HTML page description
 mozilla-accounts-securely-sync-your = Synchronisez vos appareils en toute sécurité : mots de passe, marque-pages, onglets, etc. Créez votre { -brand-name-mozilla-account } dès aujourd’hui. Une seule connexion vous garantit puissance et confidentialité à tous les niveaux.
 
 firefox-accounts-enter-your-email-address = Saisissez votre adresse de courrier électronique pour commencer.
 firefox-accounts-already-have-an-account = Vous avez déjà un compte ?
 firefox-accounts-sign-in = Connexion
-
-# Obsolete string
-firefox-accounts-already = Vous disposez déjà d’un { -brand-name-firefox-account }. Félicitations !
 
 mozilla-accounts-already = Vous disposez déjà d’un { -brand-name-mozilla-account }. Félicitations !
 firefox-accounts-manage = Gérer votre compte
@@ -30,12 +21,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Connectez-vous à votre { -brand-name-mozilla-account } pour :
-
-# Obsolete string
-firefox-accounts-sign-in-to = Connectez-vous à votre { -brand-name-firefox-account } pour :
-
-# Obsolete string
-firefox-accounts-meet-our-family-of = Profitez de toute une gamme de produits qui privilégient et respectent votre vie privée.
 
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs

@@ -7,21 +7,12 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Dapatkan { -brand-name-mozilla-account } – Jaga data Anda tetap pribadi, aman, dan tersinkronisasi
 
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Dapatkan { -brand-name-firefox-account } – Jaga data Anda tetap pribadi, aman, dan tersinkronisasi
-
-# Obsolete string
-firefox-accounts-securely-sync-your = Sinkronkan sandi, markah, dan tab Anda dengan aman di seluruh perangkat. Dapatkan { -brand-name-firefox-account } sekarang – Sekali masuk – Kekuatan dan privasi di mana saja.
-
 # HTML page description
 mozilla-accounts-securely-sync-your = Sinkronkan sandi, markah, dan tab Anda dengan aman di seluruh perangkat. Dapatkan { -brand-name-mozilla-account } sekarang – Sekali masuk – Kekuatan dan privasi di mana saja.
 
 firefox-accounts-enter-your-email-address = Masukkan alamat surel Anda untuk memulai.
 firefox-accounts-already-have-an-account = Sudah punya akun?
 firefox-accounts-sign-in = Masuk
-
-# Obsolete string
-firefox-accounts-already = Anda sudah punya { -brand-name-firefox-account }. Selamat!
 
 mozilla-accounts-already = Anda sudah punya { -brand-name-mozilla-account }. Selamat!
 firefox-accounts-manage = Kelola akun Anda
@@ -30,12 +21,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Masuk ke { -brand-name-mozilla-account } Anda untuk:
-
-# Obsolete string
-firefox-accounts-sign-in-to = Masuk ke { -brand-name-firefox-account } Anda untuk:
-
-# Obsolete string
-firefox-accounts-meet-our-family-of = Temui keluarga produk kami yang mengutamakan privasi.
 
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs

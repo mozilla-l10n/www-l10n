@@ -7,21 +7,12 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = احصل على { -brand-name-mozilla-account } – حافظ على خصوصية بياناتك وأمانها ومزامنتها
 
-# Obsolete string
-firefox-accounts-get-a-firefox-account = احصل على { -brand-name-firefox-account } – حافظ على خصوصية بياناتك وأمانها ومزامنتها
-
-# Obsolete string
-firefox-accounts-securely-sync-your = زامِن كلمات المرور والعلامات المرجعية وعلامات التبويب بأمان على جميع أجهزتك. احصل على { -brand-name-firefox-account } الآن – تسجيل دخول واحد – القوة والخصوصية في كل مكان.
-
 # HTML page description
 mozilla-accounts-securely-sync-your = زامِن كلمات المرور والعلامات المرجعية وعلامات التبويب بأمان على جميع أجهزتك. احصل على { -brand-name-mozilla-account } الآن – تسجيل دخول واحد – القوة والخصوصية في كل مكان.
 
 firefox-accounts-enter-your-email-address = أدخِل عنوان بريدك الإلكتروني لتبدأ.
 firefox-accounts-already-have-an-account = هل لديك حساب بالفعل؟
 firefox-accounts-sign-in = تسجيل الدخول
-
-# Obsolete string
-firefox-accounts-already = لديك بالفعل { -brand-name-firefox-account }. تهانينا!
 
 mozilla-accounts-already = لديك بالفعل { -brand-name-mozilla-account }. تهانينا!
 firefox-accounts-manage = إدارة حسابك
@@ -30,12 +21,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = تسجيل الدخول إلى { -brand-name-mozilla-account } من أجل:
-
-# Obsolete string
-firefox-accounts-sign-in-to = تسجيل الدخول إلى { -brand-name-firefox-account } من أجل:
-
-# Obsolete string
-firefox-accounts-meet-our-family-of = تعرَّف على منتجاتنا التي تضع الخصوصية في المقام الأول.
 
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs

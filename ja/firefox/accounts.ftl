@@ -7,21 +7,12 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } をダウンロード — データをプライベート・安全に守って同期
 
-# Obsolete string
-firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } をダウンロード — データをプライベート・安全に守って同期
-
-# Obsolete string
-firefox-accounts-securely-sync-your = パスワード、ブックマーク、タブをすべてのデバイスで安全に同期できます。{ -brand-name-firefox-account } をご利用ください — すべてのデバイスで共通ログイン — どこでもパワーとプライバシー。
-
 # HTML page description
 mozilla-accounts-securely-sync-your = パスワード、ブックマーク、タブをすべてのデバイスで安全に同期できます。{ -brand-name-mozilla-account } をご利用ください — すべてのデバイスで共通ログイン — どこでもパワーとプライバシー。
 
 firefox-accounts-enter-your-email-address = 始めるには、メールアドレスを入力してください。
 firefox-accounts-already-have-an-account = 既にアカウントをお持ちの場合:
 firefox-accounts-sign-in = サインイン
-
-# Obsolete string
-firefox-accounts-already = もう { -brand-name-firefox-account } をお持ちです。
 
 mozilla-accounts-already = もう { -brand-name-mozilla-account } をお持ちです。
 firefox-accounts-manage = アカウントの管理
@@ -30,12 +21,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = { -brand-name-mozilla-account } にサインインすると、次の操作ができます。
-
-# Obsolete string
-firefox-accounts-sign-in-to = { -brand-name-firefox-account } にサインインすると、次の操作ができます。
-
-# Obsolete string
-firefox-accounts-meet-our-family-of = プライバシーファースト製品のファミリーをご覧ください。
 
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
