@@ -13,9 +13,6 @@ home-were-not-normal = Mozilla は一般的なテクノロジー企業とは異�
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = 「インターネットとオンライン生活の健全性、それが Mozilla の存在理由です」
 
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO
-
 home-mitchell-baker-v2 = Mitchell Baker、{ -brand-name-mozilla-foundation }、理事会長
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } は、プライバシーを尊重する製品を作っています
@@ -24,16 +21,10 @@ home-cta-get-firefox = { -brand-name-firefox } をダウンロード
 home-product-pocket-articles = ウェブで一番興味深い記事
 home-cta-get-pocket = { -brand-name-pocket } をダウンロード
 
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = 使いやすいメール・電話マスク
-
 home-product-relay-hide-your = 電話番号とメールアドレスをスパム送信者から隠す
 home-cta-get-relay = { -brand-name-relay } をダウンロード
 home-product-vpn-trust = 信頼できる VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
-
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = データ侵害通知
 
 home-product-monitor-protect-your = データブローカーから個人情報を保護する
 home-cta-get-monitor = { -brand-name-monitor } をダウンロード
@@ -48,12 +39,6 @@ home-politico-cite = Politico
 home-join-us-in-shaping = 信頼できる AI の構築にご参加ください
 home-work-on-ai = { -brand-name-mozilla } の AI 開発はただの新しい動きではありません。Mozilla は、長年にわたってオープンで公平、責任を持って開発された AI への資金提供、構築、推進に取り組んできました。Mozilla の焦点は、企業としての関心事ではなく、人のためになり、透明性を優先し、公益をサポートする AI を作成することです。
 home-read-more = 詳しく読む
-
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = { -brand-name-mozilla } は会社、それとも非営利団体？ 両方です。
-
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } は 2 つの組織で構成されています。{ -brand-name-mozilla-corporation } は、501(c) 非営利団体 { -brand-name-mozilla-foundation } が完全所有しています。つまり、株主には依存せず、そのミッションだけが原動力になっているのです。
 
 home-so-what-is-mozilla = { -brand-name-mozilla } とは？
 

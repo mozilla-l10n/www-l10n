@@ -13,9 +13,6 @@ home-were-not-normal = Wir sind kein normales Tech-Unternehmen. Unsere Produkte 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Wir sind da, damit das Internet und unser Online-Leben gesünder werden.“
 
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO, { -brand-name-mozilla }
-
 home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } macht Produkte, die den Datenschutz respektieren
@@ -24,16 +21,10 @@ home-cta-get-firefox = Hol dir jetzt { -brand-name-firefox }
 home-product-pocket-articles = Die spannendsten Artikel im Internet
 home-cta-get-pocket = Hol dir jetzt { -brand-name-pocket }
 
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Einfach zu verwendende E-Mail- und Telefonmasken
-
 home-product-relay-hide-your = Verberge deine Telefonnummer und E-Mail-Adresse vor Spammern
 home-cta-get-relay = Hol dir jetzt { -brand-name-relay }
 home-product-vpn-trust = Ein VPN, dem Sie vertrauen können
 home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
-
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Warnmeldungen zu Datenlecks
 
 home-product-monitor-protect-your = Schütze deine privaten Daten vor Datenbrokers
 home-cta-get-monitor = Hol dir jetzt { -brand-name-monitor }
@@ -48,12 +39,6 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Hilf uns dabei, vertrauenswürdige KI zu gestalten
 home-work-on-ai = { -brand-name-mozilla }s Arbeit mit der KI ist nichts Neues – wir setzen uns schon seit Jahren dafür ein, eine KI zu finanzieren und zu formen, die fair ist und verantwortungsvoll entwickelt wird. Unser Schwerpunkt ist dabei die Entwicklung einer KI, die Menschen dient, Transparenz priorisiert und die statt unternehmerischer Interessen das Wohl der Öffentlichkeit unterstützt.
 home-read-more = Weiterlesen
-
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = Ist { -brand-name-mozilla } ein Unternehmen oder eine Non-Profit-Organisation? Beides, wenn man's genau nimmt.
-
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } besteht aus zwei Organisationen. Die { -brand-name-mozilla-corporation } ist zu 100 % im Besitz der Non-Profit 501(c) { -brand-name-mozilla-foundation }. Wir sind also nicht an Shareholder gebunden, sondern nur an unsere Mission.
 
 home-so-what-is-mozilla = Was genau ist eigentlich { -brand-name-mozilla }?
 

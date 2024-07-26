@@ -13,9 +13,6 @@ home-were-not-normal = Kami bukan perusahaan teknologi biasa. Inovasi yang kami 
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Kami ada demi kesehatan internet dan kehidupan daring.”
 
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
-
 home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } membuat produk yang menghormati privasi
@@ -24,16 +21,10 @@ home-cta-get-firefox = Dapatkan { -brand-name-firefox }
 home-product-pocket-articles = Artikel web yang paling menarik
 home-cta-get-pocket = Dapatkan { -brand-name-pocket }
 
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Penyamaran surel & telepon yang mudah digunakan
-
 home-product-relay-hide-your = Sembunyikan nomor telepon dan email Anda dari spammer
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang tepercaya
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
-
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Peringatan tentang pelanggaran data
 
 home-product-monitor-protect-your = Lindungi informasi pribadi Anda dari broker data
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
@@ -48,12 +39,6 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Bergabunglah bersama kami membangun AI yang tepercaya
 home-work-on-ai = Pekerjaan { -brand-name-mozilla } dengan AI bukanlah hal baru—kami telah menghabiskan waktu bertahun-tahun untuk mendanai, membangun, dan mengadvokasi pengembangan AI yang terbuka, adil, dan dikembangkan secara bertanggung jawab. Fokus kami adalah menciptakan AI yang melayani masyarakat, memprioritaskan transparansi, dan mendukung kepentingan publik, bukan semata-mata agenda perusahaan.
 home-read-more = Baca Selengkapnya
-
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = Apakah { -brand-name-mozilla } itu sebuah perusahaan atau organisasi nirlaba? Sesungguhnya, keduanya.
-
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } terdiri dari dua organisasi. { -brand-name-mozilla-corporation } sepenuhnya dimiliki oleh organisasi nirlaba 501(c) { -brand-name-mozilla-foundation }. Artinya, kami tidak terikat pada pemegang saham mana pun — hanya pada misi kami.
 
 home-so-what-is-mozilla = Jadi, apa itu { -brand-name-mozilla }?
 

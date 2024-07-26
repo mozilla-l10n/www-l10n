@@ -13,9 +13,6 @@ home-were-not-normal = لسنا شركة تكنولوجيا عادية. ينصب
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "نحن هنا لنُوفر الحياة الصحية والآمنة عبر الإنترنت."
 
-# Obsolete string
-home-mitchell-baker = ميتشل بيكر، { -brand-name-mozilla } الرئيس التنفيذي
-
 home-mitchell-baker-v2 = ميشيل بيكر، الرئيس التنفيذي لمجلس الإدارة، { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = تُقدم { -brand-name-mozilla } منتجات تحترم الخصوصية
@@ -24,16 +21,10 @@ home-cta-get-firefox = نزِّل متصفح { -brand-name-firefox }
 home-product-pocket-articles = مقالات أكثر إثارة للاهتمام على الإنترنت
 home-cta-get-pocket = نزِّل متصفح { -brand-name-pocket }
 
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = قِناعات بريد إلكتروني وهاتف سهلة الاستخدام
-
 home-product-relay-hide-your = إخفاء رقم هاتفك وبريدك الإلكتروني عن أعين مرسلي رسائل البريد العشوائي
 home-cta-get-relay = نزِّل متصفح { -brand-name-relay }
 home-product-vpn-trust = شبكة افتراضية خاصة تثق بها
 home-cta-get-vpn = نزِّل متصفح { -brand-name-mozilla-vpn }
-
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = تنبيهات خرق البيانات
 
 home-product-monitor-protect-your = حماية معلوماتك الخاصة من مُخترقي البيانات
 home-cta-get-monitor = نزِّل متصفح { -brand-name-monitor }
@@ -48,12 +39,6 @@ home-politico-cite = بوليتيكو
 home-join-us-in-shaping = انضم إلينا لبناء ذكاء اصطناعي موثوق
 home-work-on-ai = لا يُعتبر عمل { -brand-name-mozilla } بالذكاء الاصطناعي مجرد شيء جديد—فقد قضينا سنوات في تمويل الذكاء الاصطناعي وبنائه والدفاع عنه، ذكاء اصطناعي مفتوح وعادل ومطوّر بطريقة مسؤولة. يَنصب تركيزُنا على بناء ذكاء اصطناعي يخدم الناس ويُعطي الأولوية للشفافية ويدعم الصالح العام وليس الأجندات المؤسسية.
 home-read-more = اطَّلِع على المزيد
-
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = هل { -brand-name-mozilla } شركة أو مؤسسة غير ربحية؟ إنها الاثنين معًا في واقع الأمر.
-
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = تتكوّن { -brand-name-mozilla } من مُؤسستين. تُعد { -brand-name-mozilla-corporation } مملوكة بالكامل لشركة { -brand-name-mozilla-foundation } غير الربحية 501(c). وهذا يعني أننا لسنا مُلتزمين بأي شيء لأي مُساهمين — بل نحن ملتزمون برسالتنا فقط.
 
 home-so-what-is-mozilla = إذن، ما هي { -brand-name-mozilla }؟
 

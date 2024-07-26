@@ -13,9 +13,6 @@ home-were-not-normal = Kami bukannya syarikat teknologi semata-mata. Produk yang
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Keselamatan internet dan kehidupan dalam talian adalah sebab kewujudan kami."
 
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
-
 home-mitchell-baker-v2 = Mitchell Baker, Pengerusi Eksekutif Lembaga, { -brand-name-mozilla-foundation }
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } membangunkan produk yang menghormati privasi penggunanya
@@ -24,16 +21,10 @@ home-cta-get-firefox = Dapatkan { -brand-name-firefox }
 home-product-pocket-articles = Artikel dari internet yang paling menarik
 home-cta-get-pocket = Dapatkan { -brand-name-pocket }
 
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Samaran e-mel & telefon yang mesra pengguna
-
 home-product-relay-hide-your = Sembunyikan nombor telefon dan e-mel anda daripada spammer
 home-cta-get-relay = Dapatkan { -brand-name-relay }
 home-product-vpn-trust = VPN yang anda boleh percayai
 home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
-
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Amaran pencerobohan data
 
 home-product-monitor-protect-your = Lindungi maklumat peribadi anda daripada orang tengah
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
@@ -48,12 +39,6 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Sertai kami dalam usaha membentuk AI yang boleh dipercayai
 home-work-on-ai = Usaha { -brand-name-mozilla } dalam bidang AI bukan satu perkara baru — selama bertahun-tahun lamanya kami membiayai, membangun serta memperjuangkan AI yang terbuka, adil dan bertanggungjawab. Fokus kami adalah untuk membangunkan AI yang berkhidmat demi pengguna, mengutamakan ketelusan dan menyokong apa yang terbaik untuk pengguna awam dan bukannya agenda korporat.
 home-read-more = Baca Lagi
-
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = Adakah { -brand-name-mozilla } sebuah syarikat atau badan bukan berasaskan keuntungan? Kedua-duanya sekali.
-
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } terdiri daripada dua organisasi. { -brand-name-mozilla-corporation } dimiliki sepenuhnya oleh 501(c) bukan berasaskan keuntungan iaitu { -brand-name-mozilla-foundation }. Bermakna, kami bukan bertanggungjawab kepada mana-mana pemegang saham — dalam misi kami.
 
 home-so-what-is-mozilla = Jadi, apakah { -brand-name-mozilla } sebenarnya?
 
