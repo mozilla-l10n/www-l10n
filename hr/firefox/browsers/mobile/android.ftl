@@ -16,3 +16,4 @@ mobile-android-fast-and-private = Brz i privatan
 mobile-android-easily-organize-your = Jednostavno organiziraj kartice
 mobile-android-pin-videos-to = Prikvači videa na ekran
 mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }
+mobile-android-own-your-home = Prilagodi početni ekran
