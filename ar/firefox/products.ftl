@@ -13,9 +13,6 @@ firefox-products-mozillas-family-of-products = تم تصميم جميع عائل
 firefox-products-products = المنتجات
 firefox-products-firefox-beginning-v2 = ليس { -brand-name-firefox } إلا مجرّد بداية.
 
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = ليس { -brand-name-firefox } إلا مجرّد بداية
-
 firefox-products-mozillas-family-of-products-sentence = تم تصميم جميع عائلة منتجات { -brand-name-mozilla } لتجعلك أكثر أمانًا وذكاءً على الإنترنت.
 
 ## Firefox
@@ -70,6 +67,4 @@ firefox-products-analyze = تحليل رابط URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = اكتشف أفضل محتوى على الويب — واستخدمه أينما تُريد ومتى تريد. إنتاج { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = اكتشف أفضل محتوى على الويب — واستخدمه أينما تريد ومتى تريد.
 firefox-products-get-pocket = احصل على { -brand-name-pocket }

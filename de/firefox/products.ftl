@@ -13,9 +13,6 @@ firefox-products-mozillas-family-of-products = Mit Produkten aus der { -brand-na
 firefox-products-products = Produkte
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ist nur der Anfang.
 
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } ist nur der Anfang
-
 firefox-products-mozillas-family-of-products-sentence = Mit Produkten aus der { -brand-name-mozilla }-Familie bist du sicherer und smarter im Web unterwegs.
 
 ## Firefox
@@ -70,6 +67,4 @@ firefox-products-analyze = Analysiere eine URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Entdecke die besten Inhalte im Web, speichere sie und schau sie dir an, wann und wo immer du möchtest. Entwickelt von { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Entdecke die besten Inhalte im Web, speichere sie und schau sie dir an, wann und wo immer du möchtest.
 firefox-products-get-pocket = Jetzt { -brand-name-pocket } nutzen

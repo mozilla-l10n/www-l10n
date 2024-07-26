@@ -13,9 +13,6 @@ firefox-products-mozillas-family-of-products = { -brand-name-mozilla } は、オ
 firefox-products-products = 製品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } は、始まりに過ぎません。
 
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } は、始まりに過ぎません。
-
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } は、オンラインの安全を守り、スマートにする製品ファミリーです。
 
 ## Firefox
@@ -70,6 +67,4 @@ firefox-products-analyze = URL を分析
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。{ -brand-name-mozilla } が運営。
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。
 firefox-products-get-pocket = { -brand-name-pocket } をダウンロード

@@ -13,9 +13,6 @@ firefox-products-mozillas-family-of-products = { -brand-name-mozilla } के �
 firefox-products-products = उत्पाद
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } तो बस शुरुआत है।
 
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } तो बस शुरुआत है
-
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } के पास उत्पादों की एक पूरी शृंखला है और ये सभी उत्पाद इंटरनेट पर आपको ज़्यादा सुरक्षित व ज़्यादा स्मार्ट रखने के लिए तैयार किए गए हैं।
 
 ## Firefox
@@ -70,6 +67,4 @@ firefox-products-analyze = URL की जांच-परख
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = वेब पर बेहतरीन कंटेंट खोजें — और जब चाहें, जहां चाहें उसका उपयोग करें। { -brand-name-mozilla } द्वारा निर्मित।
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = वेब पर सर्वोत्तम कंटेंट खोजें — और जब भी, जहाँ भी चाहें उनके लाभ लें।
 firefox-products-get-pocket = { -brand-name-pocket } पाएँ

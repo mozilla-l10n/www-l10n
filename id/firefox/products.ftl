@@ -13,9 +13,6 @@ firefox-products-mozillas-family-of-products = Rangkaian produk { -brand-name-mo
 firefox-products-products = Produk
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } hanyalah permulaan.
 
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } hanyalah permulaan
-
 firefox-products-mozillas-family-of-products-sentence = Rangkaian produk { -brand-name-mozilla } sepenuhnya dirancang untuk membuat Anda lebih aman dan cerdas saat daring.
 
 ## Firefox
@@ -70,6 +67,4 @@ firefox-products-analyze = Analisis URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Temukan konten terbaik di web — dan gunakan di mana pun dan kapan pun Anda inginkan. Dibuat oleh { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Temukan konten terbaik di web — dan gunakan di mana pun dan kapan pun Anda inginkan.
 firefox-products-get-pocket = Dapatkan { -brand-name-pocket }
