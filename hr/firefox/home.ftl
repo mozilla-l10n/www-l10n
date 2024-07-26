@@ -27,6 +27,7 @@ firefox-home-get-the-browser-extension = Preuzmi dodatak za preglednik
 firefox-home-get-the-facebook-container = Nabavi dodatak { -brand-name-facebook-container }
 firefox-home-download-the-browser = Preuzmi preglednik
 firefox-home-download-the-app = Preuzmi program
+firefox-home-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 firefox-home-desktop = Desktop
 firefox-home-browsers = Preglednici
 firefox-home-android = { -brand-name-android }

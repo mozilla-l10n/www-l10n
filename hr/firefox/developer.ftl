@@ -72,6 +72,7 @@ firefox-developer-the-new-fonts-panel = Nova ploča za fontove u { -brand-name-f
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatski šalje povratne informacije organizaciji { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Preuzmi { -brand-name-firefox } preglednik namijenjen programerima
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletno obnovljen kako bi bio brži, elegantniji i moćniji nego ikad.
+firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }

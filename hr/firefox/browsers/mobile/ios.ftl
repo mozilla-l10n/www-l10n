@@ -8,8 +8,10 @@
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } i { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-mobile-ios-get-firefox-for = Preuzmi { -brand-name-firefox } za { -brand-name-ios }
+mobile-ios-get-firefox-for = Nabavi { -brand-name-firefox } za { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Pošalji poveznicu za preuzimanje na tvoj mobitel.
+mobile-ios-scan-the-qr-code-to-get-started = Skeniraj QR kȏd i započni
+mobile-ios-scan-alt-text = Skeniraj QR kod i preuzmi { -brand-name-firefox } na { -brand-name-ios }
 mobile-ios-make-firefox-your = Postavi { -brand-name-firefox } kao standardni preglednik
 mobile-ios-now-iphone-and = { -brand-name-iphone } i { -brand-name-ipad } korisnici sada mogu odabrati vlastiti standardni preglednik. To znači da ne moraš koristiti { -brand-name-safari }, a tvoj preglednik za mobitele može ostati sinkroniziran s tvojim omiljenim preglednikom za desktop. Osim toga, kada postaviš { -brand-name-firefox } kao standardni preglednik, podržavaš neovisnu tehnološku tvrtku. { -brand-name-firefox } je također jedini veliki preglednik iza kojeg stoji neprofitna organizacija.
 mobile-ios-fast-private-secure = Brzo. Privatno. Sigurno

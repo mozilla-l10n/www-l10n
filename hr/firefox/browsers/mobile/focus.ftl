@@ -8,7 +8,7 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Preglednik za privatnost
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
-mobile-focus-get-firefox-focus = Preuzmi { -brand-name-firefox-focus }
+mobile-focus-get-firefox-focus = Nabavi { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Pošalji poveznicu za preuzimanje na svoj mobitel.
 mobile-focus-scan-the-qr-code-to-get-started = Snimi QR kod za pokretanje
 mobile-focus-scan-alt-text = Snimi QR kod za preuzimanje aplikacije { -brand-name-firefox-focus }
