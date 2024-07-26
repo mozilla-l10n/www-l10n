@@ -16,16 +16,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } speicher
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Mit einem <a { $fxa }>kostenlosen { -brand-name-mozilla-account }</a> kannst du deine Passwörter sicher auf sämtlichen deiner Geräte synchronisieren. Außerdem hast du Zugriff auf alle anderen { -brand-name-mozilla } Produkte, die den Schutz deiner Daten respektieren.
 
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Mit einem <a href="{ $fxa }">kostenlosen { -brand-name-mozilla-account }</a> kannst du deine Passwörter sicher auf sämtlichen deiner Geräte synchronisieren.
-
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Mit einem <a href="{ $fxa }">kostenlosen { -brand-name-firefox }-Konto</a> kannst du deine Passwörter sicher auf sämtlichen deiner Geräte synchronisieren.
-
 password-manager-password-autofill-for-easy-logins = Passwort-Autofills für einfaches Einloggen
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kann deine gespeicherten Usernamen und Passwörter automatisch ausfüllen. Wenn du mehr als ein Login für eine Seite hast, kannst du ganz einfach das Konto auswählen, das du möchtest und wir kümmern uns um den Rest.
 

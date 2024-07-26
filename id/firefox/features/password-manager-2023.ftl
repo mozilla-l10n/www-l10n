@@ -16,16 +16,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } menyimpa
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Dengan <a { $fxa }>{ -brand-name-mozilla-account } gratis</a>, Anda dapat menyinkronkan kata sandi dengan aman di semua perangkat. Anda juga dapat mengakses semua produk { -brand-name-mozilla } lainnya yang menghormati privasi.
 
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Dengan <a href="{ $fxa }">{ -brand-name-mozilla-account } gratis</a>, Anda dapat menyinkronkan kata sandi dengan aman di semua perangkat.
-
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Dengan <a href="{ $fxa }">akun { -brand-name-firefox } gratis</a>, Anda dapat menyinkronkan kata sandi dengan aman di semua perangkat.
-
 password-manager-password-autofill-for-easy-logins = Isi otomatis kata sandi untuk proses login yang mudah
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } dapat mengisi nama pengguna dan kata sandi yang Anda simpan secara otomatis. Jika Anda memiliki lebih dari satu login untuk sebuah situs, cukup pilih akun yang Anda inginkan dan seterusnya serahkan pada kami.
 
