@@ -7,21 +7,15 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Nabavi { -brand-name-mozilla-account } – Drži svoje podatke privatno, sigurno i sinkronizirano
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Nabavi { -brand-name-firefox-account } – čuvaj svoje podatke privatno, sigurno i sinkronizirano
-# Obsolete string
-firefox-accounts-securely-sync-your = Sigurno sinkroniziraj svoje lozinke, zabilješke i kartice diljem tvojih uređaja. Otvori { -brand-name-firefox-account } račun sada – jedna prijava – moć i privatnost svugdje.
 firefox-accounts-enter-your-email-address = Počni s upisom tvoje e-mail adrese.
 firefox-accounts-already-have-an-account = Već imaš račun?
 firefox-accounts-sign-in = Prijavi se
 firefox-accounts-manage = Upravljaj svojim računom
 mozilla-account-header = { -brand-name-mozilla-account }
-# Obsolete string
-firefox-accounts-meet-our-family-of = Upoznaj našu porodicu proizvoda za zaštitu privatnosti.
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Spremi i sinkroniziraj lozinke</a>
-firefox-accounts-protect-your-identity = Zaštiti svoj identitet sigurnim maskiranjem telefona i e-mail adrese
+firefox-accounts-protect-your-identity = Zaštiti svoj identitet sigurnim maskiranjem broja telefona i e-mail adrese
 firefox-accounts-keep-your-passwords = Čuvaj i prenosi svoje lozinke.
 firefox-accounts-get-a-lookout-for = Dobij obavijesti o curenju podataka.
 firefox-accounts-travel-the-internet = Kreći se po internetu sa zaštitom na svim uređajima.

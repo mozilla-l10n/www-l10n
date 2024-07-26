@@ -8,6 +8,7 @@
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-features-encrypt = Šifriranje na razini uređaja
+vpn-shared-features-bandwidth = Bez ograničenja propusnosti
 vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
 # Variables:
 #   $devices (number) - maximum number of connected devices
@@ -67,7 +68,8 @@ vpn-subnav-platform-mobile = Mobitel
 
 ## VPN + Relay bundle offer
 
-vpn-shared-relay-phone-masking = Maskiranje telefona
+vpn-shared-relay-email-masking = Maskiranje e-mail adreses
+vpn-shared-relay-phone-masking = Maskiranje broja telefona
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Uštedi { $percent } %</span> s { -brand-name-relay-premium } godišnjem planu

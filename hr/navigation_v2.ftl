@@ -12,6 +12,7 @@ navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-bro
 
 ## Products menu
 
+navigation-v2-products = Proizvodi
 navigation-v2-sign-up-for-new-accounts = Prijavi se za nove račune bez otkrivanja tvoje e-mail adrese.
 
 ## Who We Are menu
