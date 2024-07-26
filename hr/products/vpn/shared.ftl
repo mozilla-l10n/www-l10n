@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-subscribe-link = Nabavi { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-features-encrypt = Šifriranje na razini uređaja
@@ -61,8 +62,11 @@ vpn-shared-with-an-annual-subscription = *s godišnjom pretplatom
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Započmimo
 vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
+vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }:
+vpn-subnav-get-help = Dobij pomoć
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
 
@@ -70,6 +74,7 @@ vpn-subnav-platform-mobile = Mobitel
 
 vpn-shared-relay-email-masking = Maskiranje e-mail adreses
 vpn-shared-relay-phone-masking = Maskiranje broja telefona
+vpn-shared-get-vpn-plus-relay = Nabavi { -brand-name-vpn } + { -brand-name-relay }
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-save-on-relay-premium = <span>Uštedi { $percent } %</span> s { -brand-name-relay-premium } godišnjem planu

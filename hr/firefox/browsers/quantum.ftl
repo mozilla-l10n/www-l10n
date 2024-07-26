@@ -10,3 +10,4 @@ page-title = Preuzmi { -brand-name-firefox-quantum }
 learn-more-about = Saznaj više o { -brand-name-firefox-quantum }
 privacy-first = Privatnost na prvom mjestu
 super-fast = Super brz
+get-speed-and = Dobij brzinu i sigurnost. { -brand-name-firefox } je brz jer ne pratimo tvoje radnje.

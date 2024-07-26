@@ -23,11 +23,11 @@ download-button-please-follow-these = Slijedi <a href="{ $url }">ove upute</a> z
 download-button-your-system-does-not = Tvoj sustav ne zadovoljava <a href="{ $url }">uvjete</a> za pokretanje { -brand-name-firefox }a.
 download-button-firefox-other-platforms = { -brand-name-firefox } za druge platforme i jezike
 download-button-update-your-firefox = Ažuriraj svoj { -brand-name-firefox }
-download-button-get-firefox-android = Preuzmi { -brand-name-firefox } za { -brand-name-android }
-download-button-get-firefox-ios = Preuzmi { -brand-name-firefox } za { -brand-name-ios }
-download-button-google-play = Preuzmi u { -brand-name-google-play } trgovini
-download-button-free-google-play = Besplatan u { -brand-name-google-play } trgovini
-download-button-app-store = Preuzmi besplatno u { -brand-name-app-store }u
+download-button-get-firefox-android = Nabavi { -brand-name-firefox } za { -brand-name-android }
+download-button-get-firefox-ios = Nabavi { -brand-name-firefox } za { -brand-name-ios }
+download-button-google-play = Nabavi u { -brand-name-google-play } trgovini
+download-button-free-google-play = Nabavi besplatno u { -brand-name-google-play } trgovini
+download-button-app-store = Nabavi besplatno u { -brand-name-app-store }
 download-button-download-app-store = Preuzmi u { -brand-name-app-store }u
 download-button-download-firefox = Preuzmi { -brand-name-firefox }
 download-button-your-system-may = Tvoj sustav možda ne ispunjva uvjete za instaliranje { -brand-name-firefox }a, ali možeš pokušati jednu od sljedećih verzija:
@@ -46,10 +46,6 @@ download-a-different-build = Preuzmi drugu verziju
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Preuzmi { -brand-name-linux } 32-bitna
-# Obsolete string
-download-button-linux-64 = Preuzmi { -brand-name-linux } 64-bitna
 download-button-linux-32-v2 = Preuzmi za 32-bitni Linux
 download-button-linux-64-v2 = Preuzmi za 64-bitni Linux
 # Microsoft Windows Store badge

@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Preuzmi { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
-firefox-enterprise-get-unmatched-data-protection = Preuzmi { -brand-name-firefox } za poduzeća, za neusporedivu zaštitu podataka u koracima preuzimanja izdanja koji tebi odgovaraju. Preuzmi { -brand-name-esr } i Brzo izdanje.
+firefox-enterprise-get-firefox-for-your-enterprise-with = Nabavi { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
+firefox-enterprise-get-unmatched-data-protection = Nabavi { -brand-name-firefox } za poduzeća, za neusporedivu zaštitu podataka u koracima preuzimanja izdanja koji tebi odgovaraju. Preuzmi { -brand-name-esr } i Brzo izdanje.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Pregled
 firefox-enterprise-downloads = Preuzimanja
@@ -14,7 +14,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = Nabavi { -brand-name-firefo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Nabavi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili preglednik Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
-firefox-enterprise-get-rapid-releases-to-make = Preuzmi brza izdanja za brže dobivanje najnovijih funkcija ili proširi, za osiguravanje super stabilnog iskustva.
+firefox-enterprise-get-rapid-releases-to-make = Nabavi brza izdanja za brže dobivanje najnovijih funkcija ili proširi, za osiguravanje super stabilnog iskustva.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } preuzimanja
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bitni
 firefox-enterprise-macos = { -brand-name-mac }
