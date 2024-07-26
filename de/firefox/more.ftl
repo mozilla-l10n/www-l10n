@@ -34,15 +34,6 @@ new-school-meets = Neue Schule trifft alte Schule mit dem bisher schnellsten Bro
 firefox-for-windows = { -brand-name-firefox } für { -brand-name-windows } 64-bit
 we-worry-about = Wir kümmern uns um Ihre Datensicherheit, damit Sie dies nicht tun müssen.
 
-# Obsolete string
-seven-of-the = Sieben der besten Browser im direkten Vergleich
-
-six-of-the-best = Sechs der besten Browser im direkten Vergleich
-
-# Obsolete string
-we-compare-firefox = Wir vergleichen{ -brand-name-firefox } mit { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } und { -brand-name-ie }, um dir bei deiner Entscheidung zu helfen.
-
-comparing-firefox-ie = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Alte Gewohnheiten, die schwer loszuwerden sind, aber Sie werden sich besser fühlen, wenn sie es tun.
 incognito-browser-what = Inkognito-Browser: Was es wirklich bedeutet
 firefox-calls-it = { -brand-name-firefox } nennt es privates Surfen, { -brand-name-chrome } nennt es Inkognito-Modus. Mit beiden können Sie im Internet surfen, ohne Ihre Surf-Chronik zu speichern.

@@ -34,15 +34,6 @@ new-school-meets = Gaya baru bertemu gaya lama dengan peramban tercepat saat ini
 firefox-for-windows = { -brand-name-firefox } untuk { -brand-name-windows } 64-bit
 we-worry-about = Kami mengkhawatirkan keamanan data Anda, jadi Anda tidak perlu melakukannya.
 
-# Obsolete string
-seven-of-the = Tujuh dari peramban terbaik dalam perbandingan langsung
-
-six-of-the-best = Perbandingan langsung enam peramban terbaik
-
-# Obsolete string
-we-compare-firefox = Kami membandingkan { -brand-name-firefox } dengan { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave }, dan { -brand-name-ie } untuk membantu Anda membuat keputusan.
-
-comparing-firefox-ie = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Kebiasaan lama sulit dihilangkan tetapi Anda akan merasa lebih baik jika itu terjadi.
 incognito-browser-what = Peramban penyamaran: Apa arti sebenarnya
 firefox-calls-it = { -brand-name-firefox } menyebutnya penjelajahan pribadi, { -brand-name-chrome } menyebutnya mode penyamaran. Keduanya memungkinkan Anda menjelajahi web tanpa menyimpan riwayat penjelajahan Anda.

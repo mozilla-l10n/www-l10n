@@ -34,15 +34,6 @@ new-school-meets = 伝統のプラットフォーム用の最先端・最速ブ�
 firefox-for-windows = { -brand-name-windows } 用 { -brand-name-firefox }
 we-worry-about = データの安全性をユーザーに代わって見守ります。
 
-# Obsolete string
-seven-of-the = ベストブラウザー 7 つの直接対決
-
-six-of-the-best = 人気のブラウザー 6 つを直接比較します
-
-# Obsolete string
-we-compare-firefox = ここでは、ブラウザー選びの一助として { -brand-name-firefox } を { -brand-name-chrome }、{ -brand-name-edge }、{ -brand-name-safari }、{ -brand-name-opera }、{ -brand-name-brave }、{ -brand-name-ie } と比較します。
-
-comparing-firefox-ie = { -brand-name-firefox-browser } と { -brand-name-microsoft } { -brand-name-ie } の比較
 old-habits-that = 長年の習慣を断ち切るのは大変ですが、断ち切れてしまえばすっきりします。
 incognito-browser-what = 真のシークレットブラウザー
 firefox-calls-it = { -brand-name-firefox } では、プライベートブラウジング、{ -brand-name-chrome } ではシークレットモードと呼ばれています。いずれも閲覧履歴を保存せずにウェブをブラウジング可能になります。

@@ -34,15 +34,6 @@ new-school-meets = सबसे तेज़ ब्राउज़र नई स
 firefox-for-windows = { -brand-name-windows } 64-बिट के लिए { -brand-name-firefox }
 we-worry-about = हमें आपकी डेटा सुरक्षा की देखभाल करते हैं, ताकि आपको न करनी पड़े।
 
-# Obsolete string
-seven-of-the = सात सबसे बढ़िया ब्राउज़र्स की सीधी तुलना
-
-six-of-the-best = छः सबसे बढ़िया ब्राउज़र्स की सीधी तुलना
-
-# Obsolete string
-we-compare-firefox = हम { -brand-name-firefox } की तुलना { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } और { -brand-name-ie } के साथ करके आपको निर्णय लेने में सहायता करते हैं।
-
-comparing-firefox-ie = { -brand-name-firefox-browser } और { -brand-name-microsoft } { -brand-name-ie } की तुलना
 old-habits-that = पुरानी आदतें आसानी से नहीं जातीं, लेकिन जब चली जाएँगी तब आपको अच्छा लगेगा।
 incognito-browser-what = गुप्त ब्राउज़र: इसका वास्तव में क्या मतलब है
 firefox-calls-it = { -brand-name-firefox } इसे निजी ब्राउज़िंग कहते हैं, { -brand-name-chrome } इसे गुप्त मोड कहते हैं। दोनों आपको अपने ब्राउज़िंग इतिहास को सहेजे बिना वेब ब्राउज़ करने देते हैं।

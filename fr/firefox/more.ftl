@@ -34,15 +34,6 @@ new-school-meets = La nouvelle garde au service de l’ancienne avec le navigate
 firefox-for-windows = { -brand-name-firefox } pour { -brand-name-windows } 64 bits
 we-worry-about = La sécurité de vos données est notre souci, pas le vôtre.
 
-# Obsolete string
-seven-of-the = Comparaison directe des sept meilleurs navigateurs
-
-six-of-the-best = Comparaison directe entre 6 des meilleurs navigateurs
-
-# Obsolete string
-we-compare-firefox = Nous comparons { -brand-name-firefox } à { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } et { -brand-name-ie } pour vous aider à faire le bon choix.
-
-comparing-firefox-ie = Comparaison entre le { -brand-name-firefox-browser } et { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Les vieilles habitudes ont la vie dure, mais vous vous sentirez mieux quand elles ne seront plus.
 incognito-browser-what = Navigateur incognito : ce que cela signifie vraiment
 firefox-calls-it = { -brand-name-firefox } et { -brand-name-chrome } l’appellent navigation privée. Tous deux vous permettent de surfer sur le Web sans enregistrer votre historique de navigation.
