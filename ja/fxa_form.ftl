@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-# Obsolete string
-fxa-form-enter-your-email = { -brand-name-firefox-accounts } にアクセスするには、<strong>メールアドレスを入力してください</strong>。
-
 fxa-form-enter-your-email-v2 = { -brand-name-mozilla-account } を作成するには、<strong>メールアドレスを入力してください</strong>。
 
 # Variables:
