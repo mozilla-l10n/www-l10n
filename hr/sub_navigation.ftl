@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-sub-navigation-compare-mobile-browsers = Usporedi web preglednike za mobitele
+sub-navigation-compare-mobile-browsers = Usporedi preglednike za mobilne uređaje
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } za desktop
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Mobitel
