@@ -8,14 +8,17 @@
 # HTML page title
 firefox-products-mozilla-products = { -brand-name-mozilla } proizvodi
 firefox-products-products = Proizvodi
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je samo početak.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Preuzmi preglednik koji blokira više od 2000 programa za praćenje. Poboljšana zaštita od praćenja standardno je dostupna u svakom { -brand-name-firefox } pregledniku.
 
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Tvoj preglednik za privatnosti s automatskom zaštitom od praćenja i blokiranjem oglasa.
 
 ## Monitor
 
@@ -42,6 +45,7 @@ firefox-products-support-mdn = Podrži { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Pristupi svoj svojoj e-pošti, kalendarima i kontaktima u jednoj brzoj aplikaciji. Filtriraj i organiziraj ih kako želiš.
 firefox-products-download-thunderbird = Preuzmi { -brand-name-thunderbird }
 
 ## Fakespot
@@ -52,4 +56,5 @@ firefox-products-analyze = Analiziraj URL adresu
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Otkrij najbolji sadržaj na webu i koristi ga gdje god i kad god želiš. Od { -brand-name-mozilla }.
 firefox-products-get-pocket = Nabavi { -brand-name-pocket }
