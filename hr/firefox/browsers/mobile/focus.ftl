@@ -26,4 +26,4 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } standardno blo
 mobile-focus-see-it-all = Vidi sve brže
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } uklanja programe za praćenje tako da stranice koje gledaš zahtijevaju manje podataka i učitavaju se puno brže. Također, prikvači do četiri prečaca na početni ekran i prijeđi na svoje omiljene stranice još brže bez upisivanja adrese.
 mobile-focus-made-by-mozilla = Stvoreno od { -brand-name-mozilla }
-mobile-focus-we-believe-everyone = Vjerujemo da bi svatko trebao upravljati svojim online životom. Za se borimo od 1998. godine.
+mobile-focus-we-believe-everyone = Vjerujemo da bi svatko trebao upravljati svojim online životom. Za to se borimo od 1998. godine.

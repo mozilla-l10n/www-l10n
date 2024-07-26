@@ -14,8 +14,11 @@ firefox-enterprise-get-firefox-for-your-enterprise = Nabavi { -brand-name-firefo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Nabavi <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ili preglednik Brzo izdanje</a> za cjelovitu sigurnost podataka i zaštitu podataka.
+firefox-enterprise-unmatched-data-protection = Nenadmašna zaštita podataka – s ritmom izdavanja koji ti odgovara
+firefox-enterprise-your-data-stays-your-business = Tvoji podaci su tvoja stvar
+firefox-enterprise-deploy-when-and-how-you-want = Instaliraj kada i kako želiš
 firefox-enterprise-get-rapid-releases-to-make = Nabavi brza izdanja za brže dobivanje najnovijih funkcija ili proširi, za osiguravanje super stabilnog iskustva.
-firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } preuzimanja
+firefox-enterprise-enterprise-downloads = Preuzimanja za { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bitni
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Odaberi preuzimanje
@@ -27,6 +30,7 @@ firefox-enterprise-support = Podrška
 firefox-enterprise-msi-installers = MSI instalacijski programi
 firefox-enterprise-legacy-browser-support = Podrška za stare web preglednike
 firefox-enterprise-admx-templates = ADMX predlošci
+firefox-enterprise-deployment-guide = Vodič za implementaciju
 firefox-enterprise-policy-documentation = Dokumentacija o politici
 firefox-enterprise-release-notes = Napomene o izdanju
 firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajednice
