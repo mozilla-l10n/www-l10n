@@ -39,6 +39,7 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> za { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox } privatnost
 download-button-firefox-privacy-notice = { -brand-name-firefox } napomene o privatnosti
 download-button-download = Preuzmi
+download-button-please-download-esr = Preuzmi { -brand-name-firefox-esr } (Izdanje proširene podrške) za korištenje { -brand-name-firefox }.
 download-firefox-esr = Preuzmi { -brand-name-firefox-esr }
 download-firefox-esr-32 = Preuzmi { -brand-name-firefox-esr } 32-bitni
 download-firefox-esr-64 = Preuzmi { -brand-name-firefox-esr } 64-bitni

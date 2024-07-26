@@ -31,6 +31,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
+firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedinosti
 
 # Not-Required
 

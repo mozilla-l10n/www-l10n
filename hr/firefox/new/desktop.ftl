@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Nabavi preglednik koji štiti ono št
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača u pozadini. Jednostavno brz preglednik koji ne trguje tvojim podacima.
 firefox-desktop-download-download-options = Mogućnosti preuzimanja i drugi jezici
-firefox-desktop-download-browser-support = Podrška za { -brand-name-firefox-browser }
+firefox-desktop-download-browser-support = { -brand-name-firefox-browser } podrška
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Radi što želiš online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } u usporedbi s drugim preglednicima
@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Kako internet raste i mijenja se, { -brand-name-firefox } se nastavlja fokusirati na tvoje pravo na privatnosti – mi to zovemo <a { $attrs }>Obećanje za osobne podatke</a>: Uzmi manje. Drži ih sigurnima. Bez tajni. { -brand-name-firefox } štiti tvoje podatke, tvoju web aktivnost i tvoj život na webu.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je dostupan na svim tvojim uređajima; ponesi svoje kartice, povijest i zabilješke sa sobom. Sve što trebaš je <a { $attrs }>{ -brand-name-mozilla-account }</a> i dobit ćeš pristup sinkronizaciji i daljnjim { -brand-name-mozilla } proizvodima.

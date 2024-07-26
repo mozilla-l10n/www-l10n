@@ -8,3 +8,4 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prevedi web stranicu pomoću { -brand-name-firefox }
 features-translate-translate-the-web = Prevedi web
+features-translate-what-languages-are-currently = Koji su jezici trenutačno podržani?

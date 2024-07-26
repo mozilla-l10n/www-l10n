@@ -8,3 +8,5 @@
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije koje štite <br> tvoj život na internetu
+vpn-features-supported-platforms = Podržano na operacijskim sustavima Windows, macOS, Android, iOS i Linux.
+vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
