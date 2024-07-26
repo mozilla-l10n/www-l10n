@@ -27,6 +27,7 @@ contribute-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 
 ## Newsletter
 
+contribute-newsletter-desc = Pretplati se na naš bilten, pridruži se Mozillianerima diljem svijeta i saznaj više o značajnim prilikama za podržavanje { -brand-name-mozilla } misije.
 
 ## Support
 
@@ -34,3 +35,4 @@ contribute-support-heading = Zatraži pomoć
 
 ## Web compat
 
+contribute-web-compat-desc = Ako primijetiš da web stranica ne radi jednako u različitim preglednicima, možda se radi problemu s kompatibilnošću. Voljeli bismo znati o tome!
