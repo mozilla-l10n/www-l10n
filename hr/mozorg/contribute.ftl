@@ -11,6 +11,8 @@
 
 ## Contribution tasks
 
+contribute-task-translate-desc = Internet je globalan samo ako ga svatko razumije. Pomogni nam prevesti { -brand-name-mozilla } proizvode i web stranice na tvoj jezik.
+contribute-task-mozilla-codebase-desc = Aktivno poboljšavaj { -brand-name-mozilla } proizvode doprinoseći njihovom razvoju na razne načine.
 
 ## Mission
 
