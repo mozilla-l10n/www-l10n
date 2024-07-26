@@ -19,3 +19,4 @@ mobile-android-easily-organize-your = Jednostavno organiziraj kartice
 mobile-android-pin-videos-to = Prikvači videa na ekran
 mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }
 mobile-android-own-your-home = Prilagodi početni ekran
+mobile-android-get-to-the-parts = Dođi brže do dijelova interneta do kojih ti je stalo. Odaberi da na jednom mjestu vidiš sve svoje otvorene kartice, nedavna pretraživanja, zabilješke i omiljene stranice.

@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+welcome-page8-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 welcome-page8-share-large-files = Dijeli velike datoteke s obostranim šifriranjem koristeći poveznicu koja automatski isteče.

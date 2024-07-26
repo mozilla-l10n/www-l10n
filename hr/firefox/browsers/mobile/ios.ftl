@@ -19,6 +19,7 @@ mobile-ios-stay-private-online = Štiti svoju privatnost na internetu
 mobile-ios-your-browsing-history = Tvoja povijest pregledavanja je povijest
 mobile-ios-get-more-firefox = Za više { -brand-name-firefox }a u tvom život
 mobile-ios-own-your-home = Prilagodi početni ekran
+mobile-ios-get-to-the-parts = Dođi brže do dijelova interneta do kojih ti je stalo. Odaberi da na jednom mjestu vidiš sve svoje otvorene kartice, nedavna pretraživanja, zabilješke i omiljene stranice.
 mobile-ios-find-it-all = Pronađi sve brže
 mobile-ios-discover-more-of = Otkrij više onoga što voliš
 mobile-ios-about-mozilla = Informacije o { -brand-name-mozilla }
