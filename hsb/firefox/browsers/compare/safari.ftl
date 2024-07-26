@@ -7,3 +7,4 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } porno Apple Safari
+compare-safari-but-firefox-also-has-built-in = Ale { -brand-name-firefox } ma tež zatwarjene nastroje kaž:
