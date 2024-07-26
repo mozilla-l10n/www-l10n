@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ดาวน์โหลดทันที
 download-button-free-download = ดาวน์โหลดฟรี
@@ -39,3 +39,8 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> สำหร�
 download-button-firefox-privacy = ประกาศความเป็นส่วนตัวจาก { -brand-name-firefox }
 download-button-firefox-privacy-notice = ประกาศความเป็นส่วนตัวของ { -brand-name-firefox }
 download-button-download = ดาวน์โหลด
+
+## Linux
+
+download-button-linux-32-v2 = ดาวน์โหลดสำหรับ Linux 32-bit​​​​​​​​​​​​​​​​
+download-button-linux-64-v2 = ดาวน์โหลดสำหรับ Linux 64-bit​​​​​​​​​​​​​​​​
