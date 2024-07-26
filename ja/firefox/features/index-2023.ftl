@@ -12,12 +12,6 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } は、�
 
 features-index-firefox-keeps-getting-faster = 高速化を続ける { -brand-name-firefox }
 features-index-the-latest-browser-speed-benchmarks = 最新のブラウザースピードベンチマークは、{ -brand-name-firefox } がこれまで以上の高速化を実現していることを証明しています。
-
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } は高速なブラウザーですか？
-
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } は Chrome よりもメモリの使用量を抑えているため、他のプログラムはトップスピードで動作を続けることができます。
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } はプライバシーを守るブラウザーですか？
 features-index-were-focused-on-your-right-to = 私たちはあなたのプライバシーの権利に重点を置いています。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
 features-index-free-password-manager = 無料のパスワードマネージャー
@@ -46,8 +40,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } は、イ�
 features-index-ditch-the-sticky-ads = { -brand-name-firefox } の内蔵フィンガープリント採取ブロッカーで、しつこい広告につきまとわれなくなります。
 features-index-translate-the-web = ウェブを翻訳
 features-index-translate-websites-to-your = データを他の人と共有することなく、{ -brand-name-firefox } ブラウザーでウェブサイトをあなたの言語に直接翻訳できます。
-
-# Obsolete string
-features-index-translate-more-than = { -brand-name-firefox } ブラウザーが 100 か国以上から日本語などに直接翻訳、さらに簡単になりました。
 features-index-picture-in-picture = ピクチャーインピクチャー
 features-index-got-things-to-do = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。

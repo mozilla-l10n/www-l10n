@@ -12,12 +12,6 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } est le 
 
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } est de plus en plus rapide
 features-index-the-latest-browser-speed-benchmarks = Les dernières mesures de référence de la vitesse des navigateurs prouvent que { -brand-name-firefox } est plus rapide que jamais.
-
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } est-il un navigateur rapide ?
-
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } utilise moins de mémoire que Chrome, afin que vos autres programmes puissent continuer de fonctionner à leur vitesse maximale.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } est-il un navigateur qui protège ma vie privée ?
 features-index-were-focused-on-your-right-to = Votre droit à la vie privée est au cœur de notre mission. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
 features-index-free-password-manager = Gestionnaire de mots de passe gratuit
@@ -46,8 +40,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } empêche a
 features-index-ditch-the-sticky-ads = Débarrassez-vous des publicités qui vous suivent partout grâce aux bloqueurs de détecteurs d’empreintes numériques intégrés au navigateur { -brand-name-firefox }.
 features-index-translate-the-web = Traduisez le Web
 features-index-translate-websites-to-your = Traduisez des sites web dans votre langue directement depuis votre navigateur { -brand-name-firefox }, sans partager vos données.
-
-# Obsolete string
-features-index-translate-more-than = Traduisez plus de 100 langues vers votre langue directement dans { -brand-name-firefox }, plus facilement que jamais.
 features-index-picture-in-picture = Incrustation vidéo
 features-index-got-things-to-do = Vous avez des choses à faire et de vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.

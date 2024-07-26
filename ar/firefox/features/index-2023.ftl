@@ -12,12 +12,6 @@ features-index-firefox-is-the-fast-lightweight = يتميز متصفح { -brand-
 
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } يُواصل تحقيق سرعات فائقة
 features-index-the-latest-browser-speed-benchmarks = تُثبت أحدث معايير سرعة المتصفّحات أن { -brand-name-firefox } أسرع من أي وقت مضى.
-
-# Obsolete string
-features-index-is-firefox-a-fast-browser = هل متصفح { -brand-name-firefox } سريع؟
-
-# Obsolete string
-features-index-firefox-uses-less-memory-than = يستخدم مُتصفح { -brand-name-firefox } مساحة ذاكرة أقل من المساحة التي يستخدمُها مُتصفح Chrome، وهكذا يُمكنك تشغيل برامجك الأخرى بأقصى سرعة مُمكنة.
 features-index-is-firefox-a-private-browser = هل يحافظ متصفح { -brand-name-firefox } على الخصوصية؟
 features-index-were-focused-on-your-right-to = إننا نركز على حقك في الخصوصية.فبياناتك ونشاطاتك وأوقاتك على الإنترنت تكون محمية حين تستخدم متصفح { -brand-name-firefox }.
 features-index-free-password-manager = مدير كلمات مرور مجاني
@@ -46,8 +40,5 @@ features-index-firefox-automatically-blocks = يَحجب متصفح { -brand-nam
 features-index-ditch-the-sticky-ads = تخلَّص من الإعلانات المُملة التي تتبعك باستخدام حاجبات تسجيل البصمات المُضمنة في متصفح { -brand-name-firefox }.
 features-index-translate-the-web = ترجمة محتوى الويب
 features-index-translate-websites-to-your = ترجم مواقع الويب إلى لغتك مباشرةً في متصفّح { -brand-name-firefox } – بدون مشاركة بياناتك مع أي شخص آخر.
-
-# Obsolete string
-features-index-translate-more-than = ترجِمْ أكثر من 100 لغة إلى لغتك مباشرةً في متصفح { -brand-name-firefox } - بشكل أسهل من ذي قبل.
 features-index-picture-in-picture = صورة-في-صورة (PiP)
 features-index-got-things-to-do = هل تُريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كلا الأمرين باستخدام ميزة الفيديوهات المعترِضة في متصفح { -brand-name-firefox }.

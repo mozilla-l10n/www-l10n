@@ -12,12 +12,6 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ialah p
 
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } semakin pantas
 features-index-the-latest-browser-speed-benchmarks = Penanda aras kelajuan pelayar terkini membuktikan { -brand-name-firefox } adalah lebih pantas daripada sebelumnya.
-
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Adakah pelayar { -brand-name-firefox } pantas?
-
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } menggunakan kurang memori berbanding Chrome, jadi program anda yang lain boleh terus berjalan pada kelajuan optimum.
 features-index-is-firefox-a-private-browser = Adakah { -brand-name-firefox } pelayar peribadi?
 features-index-were-focused-on-your-right-to = Kami memberi fokus terhadap hak privasi anda. Data, aktiviti, dan kehidupan anda dalam talian dilindungi dengan { -brand-name-firefox }.
 features-index-free-password-manager = Pengurus kata laluan percuma
@@ -46,8 +40,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } menyekat 2
 features-index-ditch-the-sticky-ads = Buang iklan yang mengekori anda ke sana sini dengan penyekat pengecapan jari terbina dalam pelayar { -brand-name-firefox }.
 features-index-translate-the-web = Terjemahkan web
 features-index-translate-websites-to-your = Terjemahkan laman web ke dalam bahasa anda secara terus di dalam pelayar { -brand-name-firefox } – tanpa berkongsi data dengan sesiapa pun.
-
-# Obsolete string
-features-index-translate-more-than = Terjemahkan lebih daripada 100 bahasa ke dalam bahasa anda terus dalam pelayar pelayar { -brand-name-firefox } — ia tak pernah semudah itu.
 features-index-picture-in-picture = Gambar-dalam-Gambar
 features-index-got-things-to-do = Ada benda yang hendak dibuat dan ada benda yang hendak ditonton? Buat kedua-duanya sekali dengan Gambar-dalam-Gambar dalam { -brand-name-firefox }.

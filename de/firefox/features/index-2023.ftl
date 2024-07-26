@@ -12,12 +12,6 @@ features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ist der
 
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } wird immer schneller
 features-index-the-latest-browser-speed-benchmarks = Die neuesten Benchmarks zur Browser-Geschwindigkeit zeigen, dass { -brand-name-firefox } schneller ist als je zuvor.
-
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Ist { -brand-name-firefox } ein schneller Browser?
-
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } benötigt weniger Speicher als Chrome, sodass deine anderen Programme weiterhin mit Höchstgeschwindigkeit ausgeführt werden können.
 features-index-is-firefox-a-private-browser = Ist { -brand-name-firefox } ein privater Browser?
 features-index-were-focused-on-your-right-to = Wir stellen dein Recht auf Datenschutz in den Mittelpunkt. Deine Daten, deine Webaktivitäten, dein Online-Leben sind mit { -brand-name-firefox } geschützt.
 features-index-free-password-manager = Kostenlose Passwortverwaltung
@@ -46,8 +40,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } verhindert
 features-index-ditch-the-sticky-ads = Lass die störenden Werbeanzeigen, die dich verfolgen, mit dem integrierten Fingerprinting-Blocker von { -brand-name-firefox } hinter dir.
 features-index-translate-the-web = Das Web übersetzen
 features-index-translate-websites-to-your = Übersetze Websites direkt in deinem { -brand-name-firefox }-Browser in deine Sprache – ohne Daten mit anderen teilen zu müssen.
-
-# Obsolete string
-features-index-translate-more-than = Übersetze aus mehr als 100 Sprachen direkt in deinem { -brand-name-firefox }-Browser in deine Sprache – einfacher als je zuvor.
 features-index-picture-in-picture = Bild-im-Bild (PiP)
 features-index-got-things-to-do = Du hast einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bring dein Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature von { -brand-name-firefox }.
