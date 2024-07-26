@@ -41,9 +41,6 @@ firefox-all-windows-installers-for = مُثبِّتات Windows لتكنولوج
 firefox-all-arm64-installers = مُثبِّتات ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = برمجيات تثبيت ARM64/AArch64 المُخصصة لأجهزة الكمبيوتر التي تعمل بنظام تشغيل Windows و Linux.
 
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = مُثبِّتات ARM64/AArch64 مُحسَّنة لأجهزة الكمبيوتر التي تستخدم معالج Snapdragon وتعمل بنظام تشغيل { -brand-name-windows }.
-
 firefox-all-product-send-link = أرسِل رابط تنزيل إلى هاتفك
 
 # Variables:

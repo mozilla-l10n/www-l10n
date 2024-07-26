@@ -41,9 +41,6 @@ firefox-all-windows-installers-for = Des installeurs Windows pour les services i
 firefox-all-arm64-installers = Installeurs ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Les installeurs ARM64/AArch64 sont optimisés pour les PC sous Windows et Linux.
 
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Les installeurs ARM64/AArch64 sont optimisés pour les PC { -brand-name-windows } équipés de processeurs Snapdragon.
-
 firefox-all-product-send-link = Envoyer un lien vers votre téléphone
 
 # Variables:

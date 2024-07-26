@@ -41,9 +41,6 @@ firefox-all-windows-installers-for = Pemasang Windows untuk IT korporat yang mem
 firefox-all-arm64-installers = Pemasang ARM64 / AArch64
 firefox-all-arm64-installers-optimized-v2 = Pemasang ARM64/AArch64 dioptimumkan untuk PC Windows dan Linux.
 
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Pemasang ARM64 / AArch64 yang dioptimumkan untuk PC { -brand-name-windows } yang dikuasakan oleh Snapdragon.
-
 firefox-all-product-send-link = Hantar pautan muat turun ke telefon anda
 
 # Variables:

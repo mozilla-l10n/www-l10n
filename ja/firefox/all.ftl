@@ -41,9 +41,6 @@ firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成�
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
 firefox-all-arm64-installers-optimized-v2 = Windows と Linux PC 向けに最適化された ARM64/AArch64 インストーラー。
 
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Snapdragon 搭載 { -brand-name-windows } PC 用に最適化された ARM64/AArch64 用インストーラーです。
-
 firefox-all-product-send-link = スマートフォンにダウンロードリンクを送信
 
 # Variables:

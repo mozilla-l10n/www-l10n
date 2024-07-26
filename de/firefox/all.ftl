@@ -41,9 +41,6 @@ firefox-all-windows-installers-for = Windows-Installationsprogramme für die Unt
 firefox-all-arm64-installers = ARM64/AArch64-Installationsprogramme
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 Installer, optimiert für Windows und Linux PCs.
 
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64-Installationsprogramme, die für Snapdragon-fähige { -brand-name-windows }-PCs optimiert sind.
-
 firefox-all-product-send-link = Download-Link an Ihr Telefon senden
 
 # Variables:
