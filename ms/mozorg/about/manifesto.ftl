@@ -57,9 +57,6 @@ manifesto-show-your-support = Tunjukkan Sokongan Anda
 manifesto-an-internet-with-these = Internet yang sedemikian kualitinya tidak akan wujud dengan sendiri. Individu dan organisasi wajib menanam aspirasi ini kepada teknologi internet serta ke dalam pengalaman manusia dengan internet. Manifesto dan Adendum { -brand-name-mozilla } ini mewakili komitmen { -brand-name-mozilla } untuk membawa aspirasi ini ke hadapan. Matlamat kami adalah bekerjasama dengan individu dan organisasi di mana saja yang berkongsi matlamat ini untuk menjadikan internet sebuah tempat yang baik untuk semua.
 manifesto-i-support-the-vision-of = Saya menyokong visi internet yang lebih baik dan sihat oleh @mozilla, mahu sertai saya?
 
-# Obsolete string
-manifesto-share-on-twitter = Kongsikan di { -brand-name-twitter }
-
 manifesto-share-on-x = Kongsi di X
 manifesto-share-on-x-aria-label = Kongsi di X (dahulunya Twitter)
 manifesto-our-10-principles = <strong>10</strong> Prinsip Kami

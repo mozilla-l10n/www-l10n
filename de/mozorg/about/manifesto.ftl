@@ -57,9 +57,6 @@ manifesto-show-your-support = Unterstützen Sie uns
 manifesto-an-internet-with-these = Ein Internet mit diesen Eigenschaften richtet sich nicht von selbst ein. Individuen und Organisationen müssen diese Ziele Internettechnologien und die individuellen Erfahrungen mit dem Internet integrieren. Das { -brand-name-mozilla }-Manifest und dessen Ergänzung repräsentieren { -brand-name-mozilla }s Einsatz für diese Ziele. Wir möchten mit Menschen und Organisationen weltweit zusammenarbeiten, die unsere Ziele mit uns teilen, um das Internet zu einem noch besseren Ort für uns alle zu machen.
 manifesto-i-support-the-vision-of = Ich unterstütze die Vision von @mozilla für ein besseres, gesünderes Internet – Sie auch?
 
-# Obsolete string
-manifesto-share-on-twitter = Auf { -brand-name-twitter } teilen
-
 manifesto-share-on-x = Auf X teilen
 manifesto-share-on-x-aria-label = Auf X (früher Twitter) teilen
 manifesto-our-10-principles = <strong>Unsere 10</strong> Prinzipien

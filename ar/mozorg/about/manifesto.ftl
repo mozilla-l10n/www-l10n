@@ -57,9 +57,6 @@ manifesto-show-your-support = أظهروا دعمكم
 manifesto-an-internet-with-these = الإنترنت بهذه الصفات لن يأتي إلى الحياة من تلقاء نفسه. يجب على الأفراد والمنظمات تضمين هذه التطلعات في تكنولوجيا الإنترنت وفي التجربة البشرية مع الإنترنت. يُمثل بيان { -brand-name-mozilla } والملحق التزام { -brand-name-mozilla } بالنهوض بهذه التطلعات. نهدف إلى العمل مع الأشخاص والمُؤسسات في كل مكان الذين يشاركون هذه الأهداف لجعل الإنترنت مكانًا أفضل للجميع.
 manifesto-i-support-the-vision-of = أؤيد رؤية إنترنت أفضل وصحي من @mozilla، هل ستنضم إليّ؟
 
-# Obsolete string
-manifesto-share-on-twitter = مشاركة على { -brand-name-twitter }
-
 manifesto-share-on-x = شارك على منصة X
 manifesto-share-on-x-aria-label = شارك على منصة X (سابقًا Twitter)
 manifesto-our-10-principles = <strong>مبادئنا العشرة</strong>
