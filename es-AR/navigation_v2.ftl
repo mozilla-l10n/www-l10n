@@ -64,7 +64,7 @@ navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Conocé acerca de { -brand-name-mozilla } y los problemas que nos importan.
 navigation-v2-more-about-mozilla = Más sobre { -brand-name-mozilla }
 navigation-v2-impact = Impacto
-navigation-v2-find-out-how = Descubrí cómo estamos haciendo que Internet sea más inclusivo y sostenible
+navigation-v2-find-out-how = Descubrí cómo estamos haciendo que Internet sea más inclusiva y sostenible
 
 ## Innovation menu
 
