@@ -31,3 +31,9 @@ vpn-download-based-on-your = Na osnovi tvog trenutačnog uređaja
 vpn-download-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Privatnost kojoj možeš vjerovati
 vpn-download-also-available = Također dostupno za:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Od proizvođača { -brand-name-firefox }a, { -brand-name-mozilla-vpn } koristi napredni <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokol za šifriranje tvoje internetske aktivnosti i skrivanje tvoje lokacije.
+vpn-download-we-never-log = Nikada ne bilježimo, pratimo ili dijelimo tvoje mrežne podatke.
+vpn-download-previous-versions = Preuzmi prethodne verzije za { -brand-name-windows } i { -brand-name-mac-short }
