@@ -15,7 +15,7 @@ vpn-windows-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn }-a 
 ## Mac download page
 
 vpn-mac-download-page-title = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
-vpn-mac-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn } za { -brand-name-mac-short } …
+vpn-mac-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn }-a za { -brand-name-mac-short } …
 vpn-mac-follow-the-steps = Slijedi korake navedene u instalacijskom programu { -brand-name-mozilla-vpn } za pokretanje aplikacije
 
 ## Shared strings
