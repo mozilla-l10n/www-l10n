@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ: ਪੌਪ-ਅੱਪ ਵੀਡੀਓ ਨਾਲ ਨਾਲ ਹੋਰ ਵੀ ਕੰਮ ਕਰੋ
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ਕੰਮ ਕਰਨ ਅਤੇ ਵੇਖਣ ਲਈ ਵੀ ਚੀਜ਼ਾਂ ਹਨ? { -brand-name-firefox } ਵਿੱਚ ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਰਤ ਕੇ ਦੋਵੇਂ ਚੀਜ਼ਾਂ ਕਰੋ।
+features-pip-picture-in-picture = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
 features-pip-new-feature-firefox-multi-picture = ਨਵਾਂ ਫ਼ੀਚਰ: { -brand-name-firefox } ਕਈ ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
 features-pip-cool-feature-picture-in-picture = ਘੈਂਟ ਫ਼ੀਚਰ: ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
 features-pip-get-more-done-with-pop-out-videos = ਪੌਪ-ਅੱਪ ਵੀਡੀਓ ਨਾਲ ਵੱਧ ਕੰਮ ਕਰੋ

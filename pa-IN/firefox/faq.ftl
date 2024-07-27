@@ -11,7 +11,7 @@ what-is-firefox = { -brand-name-firefox } ਕੀ ਹੈ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = ਮੈਂ { -brand-name-firefox-browser } ਕਿਵੇਂ ਹਾਸਲ ਕਰਾਂ?
 
@@ -36,7 +36,7 @@ is-firefox-safe-download = ਕੀ { -brand-name-firefox } ਡਾਊਨਲੋਡ 
 is-firefox-safe = ਕੀ { -brand-name-firefox } ਸੁਰੱਖਿਅਤ ਹੈ?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = ਕੀ { -brand-name-firefox } ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਵੇਚਦਾ ਹੈ?
 
@@ -50,11 +50,8 @@ does-firefox-use = ਕੀ { -brand-name-firefox } { -brand-name-google } ਵਰ�
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
+does-firefox-have = kੀ { -brand-name-firefox } ਵਿੱਚ ਹੀ VPN ਮੌਜੂਦ ਹੈ?
+related-questions-ip = ਸੰਬੰਧਿਤ ਸਵਾਲ: ਕੀ { -brand-name-firefox } ਤੁਹਾਡੇ IP ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਂਦਾ ਹੈ
 who-owns-firefox = { -brand-name-firefox } ਦਾ ਮਾਲਕ ਕੌਣ ਹਾ?
 
 # Variables:
