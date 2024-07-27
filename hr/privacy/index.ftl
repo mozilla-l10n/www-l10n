@@ -9,6 +9,9 @@
 privacy-index-mozilla-privacy = { -brand-name-mozilla } privatnost
 privacy-index-contact-mozilla = Kontaktiraj { -brand-name-mozilla }
 privacy-index-if-you-want-to-make-a-correction = Ako želiš ispraviti svoje podatke ili ako imaš pitanja u vezi s našom politikom privatnosti, kontaktiraj nas:
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = Za traženje podrške za proizvode <a href="{ $sumo }">posjeti naše forume</a>.
 privacy-index-data-privacy-principles = Načela privatnosti podataka
 privacy-index-transparency-report = Izvještaj o transparentnosti
 privacy-index-get-involved = Uključi se
