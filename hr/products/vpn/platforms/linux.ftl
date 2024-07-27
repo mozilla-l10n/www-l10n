@@ -8,4 +8,7 @@
 
 # Meta strings
 
+vpn-linux-page-title = { -brand-name-mozilla-vpn } za { -brand-name-linux } ({ -brand-name-ubuntu })
+# Linux strings
+vpn-linux-hero-headline = { -brand-name-mozilla-vpn } za { -brand-name-ubuntu } { -brand-name-linux } – savršena kombinacija za privatnost
 vpn-linux-about-headline = Ime kojem se vjeruje od 1998.
