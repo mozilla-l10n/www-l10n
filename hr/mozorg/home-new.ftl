@@ -9,6 +9,7 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji po
 home-cta-get-firefox = Nabavi { -brand-name-firefox }
 home-cta-get-pocket = Nabavi { -brand-name-pocket }
 home-cta-get-relay = Nabavi { -brand-name-relay }
+home-product-vpn-trust = VPN mreža kojoj možeš vjerovati
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }

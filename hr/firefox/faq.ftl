@@ -46,6 +46,7 @@ does-firefox-use = Je li { -brand-name-firefox } koristi { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Sadrži li { -brand-name-firefox } ugrađenu VPN mrežu?
 who-owns-firefox = Tko je vlasnik preglednika { -brand-name-firefox }?
 
 # Variables:
