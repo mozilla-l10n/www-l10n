@@ -7,4 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Što je VPN?
+vpn-what-is-how-do-vpns = Kako funkcioniraju VPN-ovi?
+vpn-what-is-when-should-i = Kada koristiti VPN?
+vpn-what-is-why-would-i = Zašto koristiti VPN?
+vpn-what-is-what-are-the = Koje su mane korištenja VPN-a?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brza, sigurna i pouzdana usluga

@@ -10,7 +10,7 @@
 ## Windows download page
 
 vpn-windows-download-page-title = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-windows }
-vpn-windows-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn } za { -brand-name-windows } …
+vpn-windows-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn }-a za { -brand-name-windows } …
 
 ## Mac download page
 
