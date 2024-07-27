@@ -77,6 +77,7 @@ vpn-shared-platform-cta-headline = Započmimo
 vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
 vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
+vpn-shared-platform-what-is = Što je { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }:
 vpn-subnav-whats-a-vpn = Što je VPN?
 vpn-subnav-get-help = Dobij pomoć

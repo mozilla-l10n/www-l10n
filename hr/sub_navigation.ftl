@@ -13,3 +13,4 @@ sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } i { -br
 sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } za mobitele
 sub-navigation-enterprise = { -brand-name-enterprise }
+sub-navigation-what-is-a-browser = Što je preglednik?

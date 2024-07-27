@@ -7,4 +7,4 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Što je VPN?
-vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brz, siguran, pouzdan
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brza, sigurna i pouzdana usluga
