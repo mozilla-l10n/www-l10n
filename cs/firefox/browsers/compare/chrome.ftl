@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = Přečtěte si naše srovnání prohlížeč
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = Výchozí nastavení ochrany soukromí v { -brand-name-firefox(case: "loc") } je mnohem přísnější než v Chromu – a my jsou k dispozici další funkce, které brání webovým stránkám ve vašem sledování, jako je <a { $fingerprint }>blokování vytváření otisků prstů</a>. váš výběr doplňků pro <a { $adblocker }>blokování reklam</a>.
+compare-chrome-firefoxs-default-privacy-settings = Výchozí nastavení ochrany soukromí ve { -brand-name-firefox(case: "loc") } je mnohem přísnější než v Chromu – a máme k dispozici další funkce, které brání webovým stránkám ve vašem sledování, jako je <a { $fingerprint }>blokování vytváření otisků prstů</a> či výběr doplňků pro <a { $adblocker }>blokování reklam</a>.
 compare-chrome-we-block-trackers-by-default = Sledovací prvky blokujeme ve výchozím nastavení. Chrome ne.
 compare-chrome-in-fact-by-default-chrome-monitors = Ve výchozím nastavení Chrome monitoruje, které webové stránky navštěvujete a co děláte, takže dokáže identifikovat „témata reklam“ a posílat vám cílenější reklamy. Můžete zablokovat tři témata reklam, ale nemůžete je zastavit v vyhledávání dalších témat.
 compare-chrome-chrome-allows-other-websites-to = Chrome umožňuje ostatním webovým stránkám shromažďovat informace o vás pro navrhování reklam. Můžete určitým stránkám zablokovat našeptávání reklam, ale nemůžete zastavit sběr dat z jiných stránek.
