@@ -47,3 +47,6 @@ vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija za dvostruko ši
 vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
 vpn-features-flexible = Fleksibilno
 vpn-features-personalized-server = Personalizirane preporuke za lokaciju servera
+vpn-features-well-suggest-which-servers = Predložit ćemo servere u tvojoj blizini koji osiguravaju najbržu i najpouzdaniju internetsku vezu.
+vpn-features-personalize-which-apps = Odredi aplikacije koje će dobiti VPN zaštitu
+vpn-features-easily-exclude-apps = Jednostavno isključi aplikacije iz VPN zaštite bez odspajanja tvog uređaja od { -brand-name-mozilla-vpn }-a. Dostupno na Windows, Android i Linux uređajima.
