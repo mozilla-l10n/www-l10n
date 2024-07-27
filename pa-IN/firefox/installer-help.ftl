@@ -25,3 +25,6 @@ installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-nam
 installer-help-firefox-developer-desc = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-need-help = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = ਜੇ ਤੁਹਾਨੂੰ ਹਾਲੇ ਵੀ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ ਤਾਂ<a href="{ $url }">ਸਾਡੇ ਸਹਿਯੋਗ ਭਾਗ ਵਿੱਚ ਸਿਖਲਾਈ ਜਾਣਕਾਰੀ (ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ) ਨੂੰ ਪੜ੍ਹੋ।</a>
