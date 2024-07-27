@@ -19,6 +19,7 @@ navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-bro
 
 navigation-v2-products = Proizvodi
 navigation-v2-close-products-menu = Zatvorite izbornik Proizvodi
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-sign-up-for-new-accounts = Prijavi se za nove račune bez otkrivanja tvoje e-mail adrese.
 navigation-v2-view-all-products = Pogledaj sve proizvode
 

@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = { -brand-name-mozilla-vpn }: Zaštiti svoj cijeli uređaj
 vpn-landing-powerful-privacy-for-peace = Snažna privatnost za bezbrižnost
 vpn-landing-whats-a-vpn = Što je VPN?
+vpn-landing-see-all-the-ways-mozilla-vpn = Pogledaj sve načine na koje te { -brand-name-mozilla-vpn } štiti.
 vpn-landing-see-all-features = Pogledaj sve funkcije
 vpn-landing-one-subscription-for-all-your = Jedna pretplata za sve tvoje uređaje
 # HTML for emphasis

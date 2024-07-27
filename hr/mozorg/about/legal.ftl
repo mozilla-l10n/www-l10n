@@ -26,3 +26,4 @@ legal-acceptable-use-policy = Politika prihvatljivog korištenja
 legal-firefox-cloud-services = { -brand-name-firefox } Cloud usluge: uvjeti korištenja
 legal-firefox-light-rights = { -brand-name-firefox-lite }: Informacije o tvojim pravima
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: Informacije o tvojim pravima
+legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } uvjeti usluge

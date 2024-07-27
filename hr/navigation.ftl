@@ -54,6 +54,7 @@ navigation-security-tips = Savjeti za sigurnost
 navigation-share-large-files-safely = Dijeli velike datoteke na siguran način, s poveznicama koje se „samouništavaju”.
 navigation-save-quality-content = Spremi kvalitetan sadržaj od svugdje. Konzumiraj ga bilo gdje.
 navigation-sign-up = Registriraj se
+navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Brzo. Jednostavno. Privatno.
 navigation-join = Pridruži se
 navigation-close-join-menu = Zatvori izbornik za pridruživanje
 navigation-sign-in = Prijava

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaštiti svoj cijeli uređaj
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
 vpn-landing-brand-trust-desc = Više od 20 godina se { -brand-name-mozilla } zalaže za stavljanje ljudi na prvo mjesto i za privatnost na internetu. Uz podršku neprofitne organizacije, zalažemo se izgraditi bolji i zdraviji internet za sve ljude. Sve što radimo je dio naše misije i slijedi naša <a href="{ $url }">načela</a>.
@@ -17,6 +19,7 @@ vpn-landing-faq-compatibility-question-heading = S kojim je uređajima { -brand-
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
 vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } je kompatibilan s <a href="{ $mobile }">mobitelom</a>, tabletom i <a href="{ $desktop }">desktopom</a> na :
+vpn-landing-faq-refund-question-heading = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
