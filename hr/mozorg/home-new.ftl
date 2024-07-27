@@ -12,6 +12,7 @@ home-cta-get-relay = Nabavi { -brand-name-relay }
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
+home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }
 home-get-good-news = Primaj (dobre) { -brand-name-mozilla } vijesti

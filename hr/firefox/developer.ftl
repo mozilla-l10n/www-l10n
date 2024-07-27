@@ -75,6 +75,9 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletn
 firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidiš što je novo.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

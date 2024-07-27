@@ -11,6 +11,8 @@ vpn-landing-brand-trust-desc = Više od 20 godina se { -brand-name-mozilla } zal
 
 ## FAQ section
 
+vpn-langing-faq-uses-question-heading = Što je VPN i za što se koristi?
+vpn-landing-faq-compatibility-question-heading = S kojim je uređajima { -brand-name-mozilla-vpn } kompatibilan?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
 #   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
