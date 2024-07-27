@@ -59,3 +59,11 @@ vpn-features-we-never-log = Nikada ne bilježimo, pratimo ili dijelimo tvoje mre
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Jednostavno rečeno, ne prikupljamo tvoje osobne podatke o pregledavanju. Ovdje je naša <a { $privacy }>politika privatnosti</a>.
 vpn-features-built-transparently = Izgrađeno transparentno u otvorenom kodu
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je stvoren s otvorenim kodom, što znači da je sav kod javno dostupan. Pogledaj naš <a { $github }>GitHub repozitorij</a>.
+vpn-features-reviewed-by-third = Pregledano od stručnjaka sigurnosti trećih strana
+vpn-features-people-over-profits = Ljudi prije profita
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Podržava nas <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, neprofitna organizacija koja se bori da web ostane otvoren i zdrav za sve ljude.

@@ -7,9 +7,23 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Zaštiti svoj cijeli uređaj
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Koristi { -brand-name-mozilla-vpn } za potpunu zaštitu uređaja za sve aplikacije. Možeš se povezati bilo gdje, s bilo kojeg mjesta sa serverima u više od { $countries } zemlje/zemalja.
 vpn-landing-powerful-privacy-for-peace = Snažna privatnost za bezbrižnost
 vpn-landing-whats-a-vpn = Što je VPN?
+vpn-landing-a-virtual-private-network-protects = Virtualna privatna mreža (VPN) štiti tvoju internetsku vezu te čuva privatnost tvoje lokacije i onoga što radiš na internetu na svim tvojim uređajima.
 vpn-landing-see-all-the-ways-mozilla-vpn = Pogledaj sve načine na koje te { -brand-name-mozilla-vpn } štiti.
+vpn-landing-features = Funkcije
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices =
+    { $devices ->
+        [one] Poveži { $devices } uređaj
+        [few] Poveži do { $devices } uređaja
+       *[other] Poveži do { $devices } uređaja
+    }
 vpn-landing-see-all-features = Pogledaj sve funkcije
 vpn-landing-one-subscription-for-all-your = Jedna pretplata za sve tvoje uređaje
 # HTML for emphasis
