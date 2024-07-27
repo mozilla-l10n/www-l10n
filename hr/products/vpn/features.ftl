@@ -40,4 +40,10 @@ vpn-features-encrypt-your-internet = Šifriraj sav svoj internetski promet
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } štiti sve aplikacije na tvom uređaju, ne samo tvoj preglednik.
 vpn-features-stronger-malware = Jača zaštita od zlonamjernog softvera
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } sprečava preuzimanje zlonamjernog softvera iz poznatih nesigurnih izvora.
+vpn-features-super-private-mode = Super privatni modus: usmjerava promet kroz dvije lokacije
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija za dvostruko šifriranje</a> dodatno povećava sigurnost.
 vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
+vpn-features-flexible = Fleksibilno
+vpn-features-personalized-server = Personalizirane preporuke za lokaciju servera
