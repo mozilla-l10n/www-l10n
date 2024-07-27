@@ -22,8 +22,8 @@ set-as-default-thanks-youre-all-set = ਤੁਸੀਂ ਤਿਆਰ ਹੋ!
 set-as-default-thanks-get-firefox-for-mobile = ਮੋਬਾਇਲ ਲਈ { -brand-name-firefox } ਲਵੋ
 set-as-default-thanks-travel-the-internet-with = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਨਾਲ ਇੰਟਰਨੈੱਟ ਨਾਲ ਯਾਤਰਾ ਕਰੋ।
 set-as-default-thanks-download-the-app = ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ
-set-as-default-thanks-join-firefox = { -brand-name-firefox } ਦਾ ਹਿੱਸਾ ਬਣੋ
-set-as-default-thanks-sign-up-for-a-free-account = ਮੁਫ਼ਤ ਖਾਤੇ ਲਈ ਸਾਇਨ ਅੱਪ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਸਾਰੇ ਪਾਸਵਰਡਾਂ, ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+set-as-default-create-an-account = ਖਾਤਾ ਬਣਾਓ
+set-as-default-thanks-sign-up-for-a-free-account-v2 = ਮੁਫ਼ਤ { -brand-name-mozilla-account } ਲਈ ਸਾਇਨ ਅੱਪ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਸਾਰੇ ਪਾਸਵਰਡਾਂ, ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = ਖਾਤਾ ਲਵੋ
 set-as-default-thanks-having-trouble = ਕੋਈ ਸਮੱਸਿਆ ਹੈ?

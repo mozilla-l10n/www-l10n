@@ -1,8 +1,8 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-fxa-form-enter-your-email = { -brand-name-firefox-accounts } ਖਾਤਾ ਖੋਲ੍ਹਣ ਲਈ <strong> ਆਪਣਾ ਈਮੇਲ ਦਿਓ</strong>।
+fxa-form-enter-your-email-v2 = { -brand-name-mozilla-account } ਬਣਾਉਣ ਲਈ <strong>ਆਪਣੀ ਈਮੇਲ</strong> ਦਿਓ।
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy

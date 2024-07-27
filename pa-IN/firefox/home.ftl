@@ -22,6 +22,7 @@ firefox-home-try-relay = { -brand-name-relay } ਵਰਤ ਕੇ ਵੇਖੋ
 firefox-home-get-the-respect-you = ਜਿਸ <strong>ਸਨਮਾਣ</strong> ਦੇ ਤੁਸੀਂ ਹੱਕਦਾਰ ਹੋ, ਉਹ ਲਵੋ
 # Obsolete string
 firefox-home-every-single-firefox = ਹਰ { -brand-name-firefox } ਉਤਪਾਦ ਸਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਉੱਤੇ ਖ੍ਹਰੀ ਉਤਰਦੀ ਹੈ: <strong>ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।</strong>
+firefox-home-every-single-mozilla = { -brand-name-mozilla } ਦੀ ਇਕੱਲੀ ਇਕੱਲੀ ਉਤਪਾਦ ਸਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਉੱਤੇ ਖ੍ਹਰੀ ਉਤਰਦੀ ਹੈ: <strong>ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।</strong>
 firefox-home-trade-clickbait-for = ਕਲਿੱਕਬਾਇਟ ਨੂੰ ਕੁਆਲਟੀ ਸਮੱਗਰੀ ਨਾਲ ਬਦਲ ਦਿਓ
 firefox-home-learn-more-about-pocket = { -brand-name-pocket } ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 firefox-home-protection-for-your-whole = ਤੁਹਾਡੇ ਪੂਰੇ ਡਿਵਾਈਸ ਨੂੰ ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਆ।
@@ -47,6 +48,7 @@ firefox-home-relay = { -brand-name-relay }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }

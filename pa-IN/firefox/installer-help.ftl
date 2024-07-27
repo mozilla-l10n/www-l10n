@@ -18,9 +18,10 @@ installer-help-action-choose = ਹੇਠ ਦਿੱਤਾ ਡਾਊਨਲੋਡ �
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = ਨਵਾਂ ਨਕੋਰ ਲਵੋ। ਪਰਦੇਦਾਰੀ ਤਾਂ ਆਪਣੇ-ਆਪ ਹੀ ਮਿਲੇਗੀ। { $trackers } ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ { -brand-name-firefox-browser } ਡਾਊਨਲੋਡ ਕਰੋ।
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+installer-help-firefox-release-desc-v2 = ਨਵਾਂ ਨਕੋਰ ਲਵੋ। ਪਰਦੇਦਾਰੀ ਤਾਂ ਆਪਣੇ-ਆਪ ਹੀ ਮਿਲੇਗੀ। { $trackers } ਤੋਂ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
+installer-help-firefox-beta-desc = ਸਭ ਤੋਂ ਸਥਿਰ ਰੀਲਿਜ਼ ਬਿਲਡ ਵਿੱਚ ਰੀਲਿਜ਼ ਲਈ ਤਿਆਰ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-need-help = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
