@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = { -brand-name-mozilla-vpn } za { -brand-name-ios } ({ -brand-name-iphone } i { -brand-name-ipad })
+# Mobile strings
+vpn-ios-hero-headline = Zaštiti se na internetu s { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-ios-about-headline = Zašto nama vjerovati?
 # Variables:
 #   $devices (number) - number of available devices

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
+# Meta strings
+vpn-android-page-title = { -brand-name-mozilla-vpn } za { -brand-name-android }
 # Mobile strings
 vpn-android-hero-headline = Dobij zaštitu i privatnost na internetu s { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-android-about-headline = { -brand-name-mozilla } je ime kojem možeš vjerovati

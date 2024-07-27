@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
 
-vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brzo. Jednostavno. Privatno.
+# HTML page title and main title
+vpn-what-is-what-is-a-vpn = Što je VPN?
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brz, siguran, pouzdan
