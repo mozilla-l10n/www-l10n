@@ -51,3 +51,11 @@ vpn-features-well-suggest-which-servers = Predložit ćemo servere u tvojoj bliz
 vpn-features-personalize-which-apps = Odredi aplikacije koje će dobiti VPN zaštitu
 vpn-features-easily-exclude-apps = Jednostavno isključi aplikacije iz VPN zaštite bez odspajanja tvog uređaja od { -brand-name-mozilla-vpn }-a. Dostupno na Windows, Android i Linux uređajima.
 vpn-features-set-different-locations = Postavi različite lokacije za svaku karticu u { -brand-name-firefox(case: "loc") }
+vpn-features-trustworthy = Pouzdano
+vpn-features-money-back = 30-dnevno jamstvo povrata novca
+vpn-features-plus-customer-support = Plus korisnička podrška 24/7.
+vpn-features-we-never-log = Nikada ne bilježimo, pratimo ili dijelimo tvoje mrežne podatke
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Jednostavno rečeno, ne prikupljamo tvoje osobne podatke o pregledavanju. Ovdje je naša <a { $privacy }>politika privatnosti</a>.
+vpn-features-built-transparently = Izgrađeno transparentno u otvorenom kodu
