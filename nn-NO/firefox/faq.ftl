@@ -59,7 +59,7 @@ nope-never-have = Nei. Det har vi aldrig gjort, og vil heller aldri gjere det. O
 why-is-firefox = Kvifor er { -brand-name-firefox } så treg?
 firefox-isnt-slow = { -brand-name-firefox } er ikkje treg… no. I 2017 bygde vi heilt om nettlesarmotoren vår (Quantum) for å sikre at { -brand-name-firefox } skulle kunne konkurrere med andre store nettlesare. Og blokkeringa vår av sporarar hjelper sider til å laste ned endå raskare. So { -brand-name-firefox } er lynrask utan å ofre noko av personvernet ditt.
 is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
-firefox-is-not = { -brand-name-firefox } er ikkje basert på { -brand-name-chromium } (nettlesarprojektet med open kjeldekode i kjerna av { -brand-name-google } { -brand-name-chrome }). Vi er faktiskt ein av dei siste store nettlesarane som ikkje er det. { -brand-name-firefox } køyrer på Quantum-nettlesarmotoren vår bygd spesielt for { -brand-name-firefox }, slik at vi kan sikre at dataa din vert behandla med respekt og vert haldne private.
+firefox-is-not = { -brand-name-firefox } er ikkje basert på { -brand-name-chromium } (nettlesarprosjektet med open kjeldekode i kjerna av { -brand-name-google } { -brand-name-chrome }). Vi er faktiskt ein av dei siste store nettlesarane som ikkje er det. { -brand-name-firefox } køyrer på Quantum-nettlesarmotoren vår bygd spesielt for { -brand-name-firefox }, slik at vi kan sikre at dataa din vert behandla med respekt og vert haldne private.
 does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 
 # Variables:
