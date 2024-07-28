@@ -12,13 +12,13 @@ vpn-shared-features-encrypt = Šifriranje na razini uređaja
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
-vpn-shared-features-servers = Više od { $servers } servera u više od { $countries } zemlje/zemalja
+vpn-shared-features-servers = Više od { $servers } servera u više od { $countries } zemalja
 vpn-shared-features-bandwidth = Bez ograničenja propusnosti
 vpn-shared-features-activity = Bez zapisivanja tvoje internetske aktivnosti
 vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Pristup serverima u više od { $countries } zemlje/zemalja
+vpn-shared-features-access-countries = Pristup serverima u više od { $countries } zemalja
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Mogućnost povezivanja do { $devices } uređaja
@@ -31,7 +31,7 @@ vpn-shared-features-protection = Zaštita za do { $devices } uređaja
 vpn-shared-features-server-countries = Poveži se s više od { $servers } servera u više od { $countries } zemlje/zamalja
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Sada dostupno u { $countries } zemlje/zemalja. Uskoro još više regija
+vpn-shared-countries-coming-soon = Sada dostupno u { $countries } zemalja. Uskoro još više regija
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Jaki serveri u više od { $countries } zemljama

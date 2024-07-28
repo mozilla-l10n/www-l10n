@@ -10,7 +10,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Zaštiti svoj cijeli uređaj
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-desc = Koristi { -brand-name-mozilla-vpn } za potpunu zaštitu uređaja za sve aplikacije. Možeš se povezati bilo gdje, s bilo kojeg mjesta sa serverima u više od { $countries } zemlje/zemalja.
+vpn-landing-desc = Koristi { -brand-name-mozilla-vpn } za potpunu zaštitu uređaja za sve aplikacije. Možeš se povezati bilo gdje, s bilo kojeg mjesta sa serverima u više od { $countries } zemalja.
 vpn-landing-powerful-privacy-for-peace = Snažna privatnost za bezbrižnost
 vpn-landing-whats-a-vpn = Što je VPN?
 vpn-landing-a-virtual-private-network-protects = Virtualna privatna mreža (VPN) štiti tvoju internetsku vezu te čuva privatnost tvoje lokacije i onoga što radiš na internetu na svim tvojim uređajima.
@@ -36,9 +36,9 @@ vpn-landing-connect-up-to-devices =
 #   $countries (number) - number of available countries
 vpn-landing-more-than-servers-in-countries =
     { $servers ->
-        [one] Više od { $servers } server u više od { $countries } zemlje/zemalja
-        [few] Više od { $servers } servera u više od { $countries } zemlje/zemalja
-       *[other] Više od { $servers } servera u više od { $countries } zemlje/zemalja
+        [one] Više od { $servers } server u više od { $countries } zemalja
+        [few] Više od { $servers } servera u više od { $countries } zemalja
+       *[other] Više od { $servers } servera u više od { $countries } zemalja
     }
 vpn-landing-fast-network-speeds-even-while = Brza mreža čak i tijekom igranja
 vpn-landing-no-logging-tracking-or-sharing = Bez zapisivanja, praćenja ili dijeljenja mrežnih podataka

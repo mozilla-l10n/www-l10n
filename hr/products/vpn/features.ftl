@@ -16,9 +16,9 @@ vpn-features-convenient = Pogodnost
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Više od { $servers } server u više od { $countries } zemlje/zemalja
-        [few] Više od { $servers } servera u više od { $countries } zemlje/zemalja
-       *[other] Više od { $servers } servera u više od { $countries } zemlje/zemalja
+        [one] Više od { $servers } server u više od { $countries } zemalja
+        [few] Više od { $servers } servera u više od { $countries } zemalja
+       *[other] Više od { $servers } servera u više od { $countries } zemalja
     }
 vpn-features-see-our-list = Pogledaj naš popis servera.
 # Variables:
@@ -59,7 +59,7 @@ vpn-features-easily-exclude-apps = Jednostavno isključi aplikacije iz VPN zašt
 vpn-features-set-different-locations = Postavi različite lokacije za svaku karticu u { -brand-name-firefox }u
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombiniraj { -brand-name-mozilla-vpn } s { -brand-name-firefox } proširenjem „Spremnici za više računa” i postavi različite VPN lokacije za svaku { -brand-name-firefox } karticu. <a { $containers }>Saznaj kako</a>.
+vpn-features-combine-mozilla-vpn-with-containers = Kombiniraj { -brand-name-mozilla-vpn } s { -brand-name-firefox } proširenjem „Kontejneri računa” i postavi različite VPN lokacije za svaku { -brand-name-firefox } karticu. <a { $containers }>Saznaj kako</a>.
 vpn-features-trustworthy = Pouzdanost
 vpn-features-money-back = 30-dnevno jamstvo povrata novca
 vpn-features-plus-customer-support = Plus korisnička podrška 24/7.
