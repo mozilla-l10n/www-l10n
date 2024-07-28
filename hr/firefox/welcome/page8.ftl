@@ -8,3 +8,5 @@
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 welcome-page8-share-large-files = Dijeli velike datoteke s obostranim šifriranjem koristeći poveznicu koja automatski isteče.
+welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-add-facebook-container = Dodaj { -brand-name-facebook-container }
