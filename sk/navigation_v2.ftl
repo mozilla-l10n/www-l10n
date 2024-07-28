@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = Pracujte pre organizáciu, kto
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 navigation-v2-learn-about-mozilla-and = Zistite viac o { -brand-name-mozilla(case: "loc") } a o problémoch, na ktorých vyriešení nám záleží.
 navigation-v2-more-about-mozilla = Ďalšie informácie o { -brand-name-mozilla(case: "loc") }
+navigation-v2-impact = Vplyv
+navigation-v2-find-out-how = Pozrite sa, ako robíme internet otvorenejším a udržateľnejším
 
 ## Innovation menu
 
