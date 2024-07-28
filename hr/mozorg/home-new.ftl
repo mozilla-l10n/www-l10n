@@ -14,6 +14,7 @@ home-product-vpn-trust = VPN mreža kojoj možeš vjerovati
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
+home-read-more = Saznaj više
 home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }
