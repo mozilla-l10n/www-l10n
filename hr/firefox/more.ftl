@@ -8,5 +8,8 @@
 learn-more-about-firefox = Saznaj više o { -brand-name-firefox }, njegovoj povijesti, funkcijama i misiji
 learn-more-about = Saznaj više o { -brand-name-firefox } preglednicima i proizvodima koji poštuju tvoje podatke i koji su izgrađeni za privatnost gdje god se nalaziš na internetu.
 what-is-a = Što je web preglednik?
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 we-believe-everyone = Vjerujemo da bi svatko trebao imati pristup internetu – zato izrađujemo { -brand-name-firefox-browser } dostupnim na više od 90 jezika uz pomoć predanih volontera diljem svijeta.
+firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
+firefox-for-windows = { -brand-name-firefox } za 64-bitni { -brand-name-windows }
 we-worry-about = Mi se brinemo za sigurnost tvojih podataka umjesto tebe.

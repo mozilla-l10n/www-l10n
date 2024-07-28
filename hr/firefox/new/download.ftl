@@ -38,4 +38,6 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+# The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
+firefox-new-download-browser = Preuzmi { -brand-name-firefox-browser }
 firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik

@@ -171,6 +171,7 @@ firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Preuzimanje bi trebalo početi automatski. Nije uspjelo? <a id="{ $id }" href="{ $fallback_url }">Pokušaj ponovo preuzeti.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od samog preglednika.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Tvoje preuzimanje je prekinuto. Ali nije sve izgubljeno.
 # Variables:

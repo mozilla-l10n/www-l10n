@@ -7,3 +7,5 @@
 
 # page title
 features-sync-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } preglednika
+# HTML page description
+features-sync-access-your-firefox-bookmarks = Pristupi svojim { -brand-name-firefox } zabilješkama, lozinkama, otvorenim karticama i još više s bilo kojeg uređaja.

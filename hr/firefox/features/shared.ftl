@@ -12,6 +12,7 @@ features-shared-is-firefox-a-fast-browser = Je li je { -brand-name-firefox } brz
 features-shared-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
 features-shared-free-password-manager = Upravljač lozinki
 features-shared-customize-your-firefox-browser = Prilagodi svoj { -brand-name-firefox } preglednik
+features-shared-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } preglednika
 features-shared-bookmark-manager = Upravljač zabilješki
 features-shared-private-browsing-mode = Modus privatnog pregledavanja
 features-shared-firefox-add-ons-and-browser-extensions = Dodaci i proširenja { -brand-name-firefox } preglednika
