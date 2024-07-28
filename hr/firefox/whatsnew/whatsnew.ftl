@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Novo u { -brand-name-firefox }u
+whatsnew-firefox = { -brand-name-firefox }
+whatsnew-update-notification = Tvoj { -brand-name-firefox } je aktualiziran.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Pročitaj <a { $url }>Napomene o izdanju</a> i saznaj više o tome što je novo u tvom { -brand-name-firefox } pregledniku.

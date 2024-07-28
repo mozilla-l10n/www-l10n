@@ -7,3 +7,4 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Poduzmi sljedeći korak u zaštiti tvoje privatnost na internetu s { -brand-name-firefox } proizvodima.
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
