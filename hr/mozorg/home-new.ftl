@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-mitchell-baker-v2 = Mitchell Baker, izvršni predsjednik uprave, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji poštuju privatnost
 home-cta-get-firefox = Nabavi { -brand-name-firefox }
 home-cta-get-pocket = Nabavi { -brand-name-pocket }

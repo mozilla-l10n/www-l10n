@@ -8,6 +8,7 @@
 
 ## Page heading
 
+contribute-page-title = Prilike za volontiranje pri { -brand-name-mozilla }
 contribute-page-heading = Tvoji talenti su potrebni za bolji internet
 contribute-page-intro = { -brand-name-mozilla } je neprofitna organizacija koja radi na tome da internet bude otvoren i svima dobrodošao. I trebamo tvoju pomoć. Pridruživanjem našoj zajednici možeš pomoći pokrenuti inovacije, poboljšati odgovornost i povjerenje te učiniti internet boljim mjestom za sve.
 contribute-how-heading = Kako možeš doprinijeti …
