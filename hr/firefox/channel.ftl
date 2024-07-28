@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Testiraj beta verzije {
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testiraj beta verzije { -brand-name-firefox }a za { -brand-name-ios } putem { -brand-name-test-flight } programa od { -brand-name-apple }a.
 firefox-channel-sign-up-now = Registriraj se
+firefox-channel-nightly-update-one-or-more-times = Napomena: { -brand-name-firefox-nightly } će se aktualizirati otprilike jednom ili dva puta na dan.

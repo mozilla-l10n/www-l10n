@@ -80,4 +80,5 @@ firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju
 firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidiš što je novo.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
+firefox-developer-mdn-references = { -brand-name-mdn } reference
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

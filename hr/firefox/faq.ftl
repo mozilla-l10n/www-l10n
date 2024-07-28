@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } ČPP
 what-is-firefox = Što je { -brand-name-firefox }?
 
 # Variables:
@@ -27,6 +29,8 @@ is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Pogledaj usporedbu između { -brand-name-firefox } i { -brand-name-chrome }.</a>
+is-firefox-safe-download = Je li se { -brand-name-firefox } može sigurno preuzeti?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/

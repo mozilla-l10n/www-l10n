@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = Mobilni { -brand-name-firefox } preglednici stavljaju tvoju privatnost na prvo mjesto
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Pregled svih { -brand-name-firefox } mobilnih preglednika ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios } , { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
