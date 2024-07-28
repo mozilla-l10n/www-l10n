@@ -9,8 +9,15 @@ vpn-shared-subscribe-link = Nabavi { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-features-encrypt = Šifriranje na razini uređaja
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = Više od { $servers } servera u više od { $countries } zemlje/zemalja
 vpn-shared-features-bandwidth = Bez ograničenja propusnosti
 vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Pristup serverima u više od { $countries } zemlje/zemalja
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Mogućnost povezivanja do { $devices } uređaja
@@ -85,6 +92,7 @@ vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
 vpn-subnav-whats-an-ip-address = Što je IP adresa?
 vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
+vpn-subnav-features = Funkcije
 
 ## VPN + Relay bundle offer
 
