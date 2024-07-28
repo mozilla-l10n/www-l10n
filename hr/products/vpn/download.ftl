@@ -8,7 +8,7 @@
 vpn-download-page-title = Preuzmi { -brand-name-mozilla-vpn }
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = S jednu pretplatu  { -brand-name-mozilla-vpn } možete preuztb ibdo { $devices } uređaja.
+vpn-download-sub-heading = Uz jednu pretplatu možeš preuzeti { -brand-name-mozilla-vpn } za do { $devices } uređaja.
 vpn-download-not-available-in-country = Nažalost { -brand-name-mozilla-vpn } nije dostupan za preuzimanje u tvojoj zemlji.
 vpn-download-button-copy = Preuzmi
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
