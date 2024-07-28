@@ -8,6 +8,7 @@
 # HTML page title
 features-index-firefox-browser-features = Funkcije { -brand-name-firefox } preglednika
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
+features-index-the-latest-browser-speed-benchmarks = Najnovija mjerenja brzine preglednika dokazuju da je { -brand-name-firefox } brži nego ikada.
 features-index-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
 features-index-were-focused-on-your-right-to = Usredotočeni smo na tvoje pravo na privatnost. { -brand-name-firefox } štiti tvoje podatke, tvoju web aktivnost, tvoj život na internetu.
 features-index-free-password-manager = Besplatni upravljač lozinki
@@ -21,6 +22,7 @@ features-index-organize-your-bookmarks-with = Organiziraj svoje zabilješke pomo
 features-index-private-browsing-mode = Modus privatnog pregledavanja
 features-index-automatically-delete-cookies = Automatski izbriši kolačiće i povijest preglednika kada ga zatvoriš.
 features-index-firefox-add-ons-and-browser-extensions = Dodaci i proširenja { -brand-name-firefox } preglednika
+features-index-add-new-tools-capabilities-and = Dodaj nove alate, mogućnosti i zabavne stvari u svoj preglednik.
 features-index-pinned-browser-tabs = Prikvačene kartice preglednika
 features-index-eyedropper-tool = Kapaljka
 features-index-identify-the-exact-color-on-a = Identificiraj točnu boju na stranici i kopiraj njezin heksadecimalni kod.
