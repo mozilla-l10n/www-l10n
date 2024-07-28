@@ -9,7 +9,11 @@
 features-index-firefox-browser-features = Funkcije { -brand-name-firefox } preglednika
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
 features-index-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
+features-index-were-focused-on-your-right-to = Usredotočeni smo na tvoje pravo na privatnost. { -brand-name-firefox } štiti tvoje podatke, tvoju web aktivnost, tvoj život na internetu.
 features-index-get-help-creating-new-passwords = Dobij pomoć za stvaranje novih lozinki, za automatsko ispunjavanje obrazaca na internetu i za automatske prijave.
+features-index-customize-your-firefox-browser = Prilagodi svoj { -brand-name-firefox } preglednik
+features-index-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } preglednika
+features-index-access-your-firefox-bookmarks = Pristupi svojim { -brand-name-firefox } zabilješkama, lozinkama, otvorenim karticama i još više s bilo kojeg uređaja.
 features-index-bookmark-manager = Upravljač zabilješki
 features-index-organize-your-bookmarks-with = Organiziraj svoje zabilješke pomoću mapa i oznaka.
 features-index-private-browsing-mode = Modus privatnog pregledavanja

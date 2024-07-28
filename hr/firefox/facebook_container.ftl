@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobr
 facebook-container-get-the-facebook-container = Nabaci dodatak { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Preuzmi { -brand-name-firefox } i nabavi dodatak { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Proširenje { -brand-name-facebook-container } je trenutačno dostupno samo za { -brand-name-firefox } za desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
