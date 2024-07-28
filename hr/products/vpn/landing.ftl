@@ -7,6 +7,7 @@
 
 # HTML page title
 vpn-landing-page-title = { -brand-name-mozilla-vpn }: Zaštiti svoj cijeli uređaj
+vpn-landing-brand-trust-heading = VPN marke kojoj može vjerovati
 # Variables:
 #   $url (url) - https://www.mozilla.org/about/manifesto/
 vpn-landing-brand-trust-desc = Više od 20 godina se { -brand-name-mozilla } zalaže za stavljanje ljudi na prvo mjesto i za privatnost na internetu. Uz podršku neprofitne organizacije, zalažemo se izgraditi bolji i zdraviji internet za sve ljude. Sve što radimo je dio naše misije i slijedi naša <a href="{ $url }">načela</a>.
@@ -42,6 +43,7 @@ vpn-landing-faq-link = Pogledajte više ČPP-a
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-page-desc-v2 = Primi obavijest kada { -brand-name-mozilla-vpn } bude dostupna za tvoju regiju.
 vpn-landing-invite-email-label = Kako glasi tvoja e-mail adresa?
 vpn-landing-invite-required-label = Obavezno
 # Only localize "yourname". Do not change "@example.com".
@@ -49,6 +51,7 @@ vpn-landing-invite-email-placeholder = tvojeime@primjer.hr
 vpn-landing-invite-country-label = U kojoj zemlji živiš?
 vpn-landing-invite-language-label = Odaberi preferirani jezik.
 vpn-landing-invite-your-information = Tvoji podaci će se koristiti samo za obavještavanje o dostupnosti za platformu.
+vpn-landing-invite-thanks-desc = Kada { -brand-name-mozilla-vpn } postane dostupna za tvoju regiju, poslat ćemo ti e-mail poruku.
 
 ##
 

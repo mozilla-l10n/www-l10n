@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
+cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } koristi kolačiće
+cookie-settings-how-does-mozilla-use-subheading = Kako { -brand-name-mozilla } koristi ove podatke?
 cookie-settings-save-changes = Spremi promjene
 
 ## Necessary cookies section

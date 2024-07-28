@@ -29,3 +29,5 @@ newsletter-form-sign-me-up = Pretplati me
 newsletter-form-sign-up-now = Registriraj se
 newsletter-form-thanks = Hvala!
 multi-newsletter-form-checkboxes-legend = Želim informacije o:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
