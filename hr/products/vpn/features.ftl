@@ -63,7 +63,7 @@ vpn-features-combine-mozilla-vpn-with-containers = Kombiniraj { -brand-name-mozi
 vpn-features-trustworthy = Pouzdanost
 vpn-features-money-back = 30-dnevno jamstvo povrata novca
 vpn-features-plus-customer-support = Plus korisnička podrška 24/7.
-vpn-features-we-never-log = Nikada ne bilježimo, pratimo ili dijelimo tvoje mrežne podatke
+vpn-features-we-never-log = Nikada ne zapisujemo, pratimo ili dijelimo tvoje mrežne podatke
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Jednostavno rečeno, ne prikupljamo tvoje osobne podatke o pregledavanju. Ovdje je naša <a { $privacy }>politika privatnosti</a>.

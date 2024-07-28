@@ -10,8 +10,11 @@ mozilla-accounts-get-a-mozilla-account = Nabavi { -brand-name-mozilla-account } 
 firefox-accounts-enter-your-email-address = Počni s upisom tvoje e-mail adrese.
 firefox-accounts-already-have-an-account = Već imaš račun?
 firefox-accounts-sign-in = Prijavi se
+mozilla-accounts-already = Već imaš { -brand-name-mozilla-account }. Čestitamo!
 firefox-accounts-manage = Upravljaj svojim računom
 mozilla-account-header = { -brand-name-mozilla-account }
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = Prijavi se na svoj { -brand-name-mozilla-account } za:
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Spremi i sinkroniziraj lozinke</a>

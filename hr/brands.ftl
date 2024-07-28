@@ -75,12 +75,12 @@
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
--brand-name-sync = Sync
+-brand-name-sync = Sinkronizacija
 
 ## Firefox products (legacy)
 
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-account = Firefox račun
+-brand-name-firefox-accounts = Firefox računi
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox tržište
@@ -106,10 +106,13 @@
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-monitor = Mozilla monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla račun
 -brand-name-mozilla-accounts = Mozilla računi
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-ai = Mozilla UI
+-brand-name-mozilla-ventures = Mozilla pothvati
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
