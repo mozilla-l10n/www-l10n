@@ -15,6 +15,7 @@ mobile-android-send-a-download-link-to-your = Pošalji poveznicu za preuzimanje 
 mobile-android-scan-the-qr-code-to-get-started = Započni snimanjem QR koda
 mobile-android-scan-alt-text = Snimi QR kod i preuzmi { -brand-name-firefox } na { -brand-name-android }
 mobile-android-fast-and-private = Brz i privatan
+mobile-android-save-power-with = Štedi energiju uz tamni modus
 mobile-android-easily-organize-your = Jednostavno organiziraj kartice
 mobile-android-pin-videos-to = Prikvači videa na ekran
 mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }

@@ -98,6 +98,8 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Nažalost { -brand-name-mozilla-vp
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Komentari
 vpn-press-unique-features-like-its-multi-account = „… jedinstvene funkcije, poput „Kontejneri računa”, olakšavaju korisnicima s ozbiljnijim problemima s privatnosti pristup funkciji.”
 
 ## Unsupported language notification

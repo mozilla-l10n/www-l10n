@@ -31,6 +31,15 @@ vpn-landing-connect-up-to-devices =
         [few] Poveži do { $devices } uređaja
        *[other] Poveži do { $devices } uređaja
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Više od { $servers } server u više od { $countries } zemlje/zemalja
+        [few] Više od { $servers } servera u više od { $countries } zemlje/zemalja
+       *[other] Više od { $servers } servera u više od { $countries } zemlje/zemalja
+    }
 vpn-landing-fast-network-speeds-even-while = Brza mreža čak i tijekom igranja
 vpn-landing-no-logging-tracking-or-sharing = Bez zapisivanja, praćenja ili dijeljenja mrežnih podataka
 vpn-landing-no-bandwidth-restrictions-or = Bez ograničenja propusnosti ili smanjivanja brzine
