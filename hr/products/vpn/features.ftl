@@ -66,6 +66,9 @@ vpn-features-built-transparently = Izgrađeno transparentno u otvorenom kodu
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je stvoren s otvorenim kodom, što znači da je sav kod javno dostupan. Pogledaj naš <a { $github }>GitHub repozitorij</a>.
 vpn-features-reviewed-by-third = Pregledano od eksternih stručnjaka za sigurnost
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Reviziju je obavilo Cure53, vodeće poduzeće u području obavljanja revizija kibernetičke sigurnosti. <a { $report }>Pogledaj izvještaj</a>.
 vpn-features-people-over-profits = Ljudi prije profita
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
