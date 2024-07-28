@@ -5,12 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
-# Obsolete string
-whatsnew-page-title = มีอะไรใหม่ใน { -brand-name-firefox } - ความเป็นส่วนตัวและการป้องกันที่มากขึ้น
+whatsnew-page-title-v2 = มีอะไรใหม่ใน { -brand-name-firefox }
 whatsnew-page-description = ยืนหยัดต่อสู้กับอุตสาหกรรมที่ขายข้อมูลของคุณให้กับบุคคลภายนอก อยู่บนโลกออนไลน์อย่างชาญฉลาดและปลอดภัยด้วยเทคโนโลยีที่ต่อสู้เพื่อคุณ
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = อัปเดต { -brand-name-firefox } ของคุณเรียบร้อยแล้ว
-# Obsolete string
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = อ่าน<a href="{ $url }">บันทึกประจำรุ่น</a>เพื่อเรียนรู้เพิ่มเติมว่ามีอะไรใหม่ในเบราว์เซอร์ { -brand-name-firefox } ของคุณ
+whatsnew-release-notes-v2 = อ่าน<a { $url }>บันทึกประจำรุ่น</a>เพื่อเรียนรู้เพิ่มเติมว่ามีอะไรใหม่ในเบราว์เซอร์ { -brand-name-firefox } ของคุณ
+whatsnew-signoff = <strong>ขับเคลื่อนโดย { -brand-name-mozilla }</strong> ซึ่งมุ่งมั่นให้ความสำคัญกับผู้คนเหนือกว่าผลกำไรตั้งแต่ปี 1998
+whatsnew-donate-to-mofo = บริจาคให้กับ { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = ขอบคุณที่เลือก { -brand-name-firefox }

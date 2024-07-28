@@ -7,7 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = ยินดีด้วย ตอนนี้คุณมี { -brand-name-firefox-browser } { -brand-name-developer-edition } รุ่นล่าสุดแล้ว
+developer-mdnplus-congrats-you-now-have-latest-v2 = ยินดีด้วย ตอนนี้คุณกำลังใช้ { -brand-name-firefox-developer-edition } รุ่นล่าสุด
 # Main title
 developer-mdnplus-more-mdn-your-mdn = เพิ่มเติมเกี่ยวกับ { -brand-name-mdn } <em>ของคุณ</em> { -brand-name-mdn }
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } เป็นโครงการโอเพนซอร์ซสำหรับทำเอกสารร่วมกันเกี่ยวกับเทคโนโลยีแพลตฟอร์มเว็บ ซึ่งรวมถึง CSS HTML JavaScript และ Web API นอกจากนี้เรายังมีแหล่งข้อมูลการเรียนรู้มากมายสำหรับนักพัฒนาที่กำลังเริ่มต้นและนักเรียน

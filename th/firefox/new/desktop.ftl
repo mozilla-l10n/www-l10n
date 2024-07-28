@@ -131,6 +131,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ถูก
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ในขณะที่อินเทอร์เน็ตเติบโตและเปลี่ยนแปลง { -brand-name-firefox } ยังคงมุ่งเน้นเรื่องสิทธิ์เกี่ยวกับความเป็นส่วนตัวของคุณอยู่เสมอ ซึ่งเราเรียกว่า <a { $attrs }>คำมั่นสัญญาเกี่ยวกับข้อมูลส่วนตัว</a>: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ ข้อมูลของคุณ กิจกรรมบนเว็บของคุณ ชีวิตบนโลกออกไลน์ของคุณจะถูกปกป้องด้วย { -brand-name-firefox }
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } นั้นพร้อมใช้งานในทุกอุปกรณ์ของคุณ นำแท็บ ประวัติ และที่คั่นหน้าของคุณติดตัวไปด้วย สิ่งที่คุณต้องมีก็คือ <a { $attrs }>{ -brand-name-mozilla-account }</a> เพื่อให้คุณสามารถเข้าถึงการซิงค์และผลิตภัณฑ์เพิ่มเติมจาก { -brand-name-mozilla } ได้
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = จับภาพสิ่งต่าง ๆ บนโลกออนไลน์ด้วยความละเอียดสูงด้วยเครื่องมือ<a { $attrs }>ภาพหน้าจอ</a>ของเราที่มาพร้อมกับเบราว์เซอร์
 # Variables:
@@ -139,6 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } จะ<
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = มีคำถามใช่หรือไม่ <a { $attrs }>ฝ่ายสนับสนุนของ { -brand-name-mozilla }</a> พร้อมช่วยเหลือคุณในทุกเรื่อง
+firefox-desktop-download-watch-for-hackers-with-v3 = เฝ้าระวังแฮกเกอร์ด้วย { -brand-name-mozilla-monitor } ปกป้องที่อยู่อีเมลของคุณด้วย { -brand-name-firefox-relay } และอื่น ๆ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -149,6 +153,8 @@ firefox-desktop-download-now-else = มา<strong>ติดตั้ง</strong>
 firefox-desktop-download-now-windows = <strong>เรียกใช้</strong>ตัวติดตั้งที่เพิ่งดาวน์โหลดไปเลย
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>เปิด</strong>ไฟล์ที่เพิ่งดาวน์โหลดไปเลย
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = เลือกตัวเลือกการ<strong>ดาวน์โหลด</strong>ด้านล่าง
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = มีปัญหาใช่หรือไม่ <a { $attrs }>รับความช่วยเหลือเกี่ยวกับการติดตั้งของคุณ</a>
