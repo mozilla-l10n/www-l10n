@@ -14,6 +14,7 @@ vpn-shared-features-encrypt = Šifriranje na razini uređaja
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = Više od { $servers } servera u više od { $countries } zemlje/zemalja
 vpn-shared-features-bandwidth = Bez ograničenja propusnosti
+vpn-shared-features-activity = Bez zapisivanja tvoje internetske aktivnosti
 vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
 # Variables:
 #   $countries (number) - number of available countries
