@@ -16,6 +16,7 @@ features-shared-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } pr
 features-shared-bookmark-manager = Upravljač zabilješki
 features-shared-private-browsing-mode = Modus privatnog pregledavanja
 features-shared-firefox-add-ons-and-browser-extensions = Dodaci i proširenja { -brand-name-firefox } preglednika
+features-shared-pinned-browser-tabs = Prikvačene kartice preglednika
 features-shared-eyedropper-tool = Kapaljka
 features-shared-pdf-editor = PDF uređivač
 features-shared-fingerprinter-blocking = Blokiranje digitalnih otisaka
