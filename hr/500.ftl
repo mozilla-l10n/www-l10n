@@ -10,4 +10,4 @@ error-page-its-probably-just-a-server-error = Vjerojatno je došlo do greške na
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
-error-page-you-can-also-try-refreshing = Možete pokušati osvježiti ovu stranicu ili otići na <a href={ $firefox }>firefox.com</a> ili <a href={ $mozilla }>mozilla.org</a>
+error-page-you-can-also-try-refreshing = Možeš također pokušati aktualizirati ovu stranicu ili otići na <a href={ $firefox }>firefox.com</a> ili <a href={ $mozilla }>mozilla.org</a>
