@@ -34,8 +34,10 @@ vpn-landing-connect-up-to-devices =
 vpn-landing-fast-network-speeds-even-while = Brza mreža čak i tijekom igranja
 vpn-landing-no-logging-tracking-or-sharing = Bez zapisivanja, praćenja ili dijeljenja mrežnih podataka
 vpn-landing-no-bandwidth-restrictions-or = Bez ograničenja propusnosti ili smanjivanja brzine
+vpn-landing-extra-security-whole-device = Dodatna sigurnost: zaštita cijelog uređaja, višestruko usmjeravanje i još više
 vpn-landing-see-all-features = Pogledaj sve funkcije
 vpn-landing-fram-a-brand-you-can-trust = Od robne marke kojoj možeš vjerovati
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je neprofitna internetska kompanija koja se bori za zdrav web od 1998. godine.
 vpn-landing-one-subscription-for-all-your = Jedna pretplata za sve tvoje uređaje
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Pokreće { -brand-name-mozilla }.</strong> Bori se za tvoje pravo na privatnost od 1998. godine.
