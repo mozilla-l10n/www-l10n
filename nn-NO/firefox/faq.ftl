@@ -57,6 +57,7 @@ does-firefox-sell = Sel { -brand-name-firefox } dei personlege dataa dine?
 
 nope-never-have = Nei. Det har vi aldrig gjort, og vil heller aldri gjere det. Og vi vernar deg frå mange av annonsørane som gjer det. { -brand-name-firefox } produkt er utforma for å ta vare på personvernet ditt. <a href="{ $url }">Det er eit løfte</a>.
 why-is-firefox = Kvifor er { -brand-name-firefox } så treg?
+firefox-isnt-slow = { -brand-name-firefox } er ikkje treg… no. I 2017 bygde vi heilt om nettlesarmotoren vår (Quantum) for å sikre at { -brand-name-firefox } skulle kunne konkurrere med andre store nettlesare. Og blokkeringa vår av sporarar hjelper sider til å laste ned endå raskare. So { -brand-name-firefox } er lynrask utan å ofre noko av personvernet ditt.
 is-firefox-chromium = Er { -brand-name-firefox } basert på { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } er ikkje basert på { -brand-name-chromium } (nettlesarprojektet med open kjeldekode i kjerna av { -brand-name-google } { -brand-name-chrome }). Vi er faktiskt ein av dei siste store nettlesarane som ikkje er det. { -brand-name-firefox } køyrer på Quantum-nettlesarmotoren vår bygd spesielt for { -brand-name-firefox }, slik at vi kan sikre at dataa din vert behandla med respekt og vert haldne private.
 does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
@@ -66,6 +67,9 @@ does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } er standardsøkjemotor i { -brand-name-firefox }, som tyder at du kan søkje på nettet direkte frå adressefeltet. <a href="{ $url }">Les meir om søkjmotorinstillingar og endring av standardinstillingar</a>.
 does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } har ikkje innebygd VPN (virtuelt privat nettverk), men { -brand-name-mozilla } lagar eit produkt som heiter <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> som du kan bruke i tillegg til den private { -brand-name-firefox-browser }en som kan verne tilkoplinga di til WiFi, sovel som IP-adressa di.
 related-questions-ip = Liknande spåørsmål: gøymer { -brand-name-firefox } IP-adressa di
 who-owns-firefox = Kven eig { -brand-name-firefox }?
 
