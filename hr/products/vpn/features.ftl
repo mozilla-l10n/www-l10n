@@ -10,7 +10,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije koje štite <br> tvoj život na internetu
-vpn-features-convenient = Pogodno
+vpn-features-convenient = Pogodnost
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -30,10 +30,12 @@ vpn-features-connect-up-to =
        *[other] Poveži do { $devices } uređaja
     }
 vpn-features-supported-platforms = Podržano na operacijskim sustavima Windows, macOS, Android, iOS i Linux.
+vpn-features-no-bandwidth = Bez ograničenja propusnosti ili smanjivanja brzine
+vpn-features-fast-network = Brza mreža čak i tijekom igranja
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } koristi <a { $wireguard }>Wireguard</a>™, jedan od najučinkovitijih VPN protokola.
-vpn-features-secure = Sigurno
+vpn-features-secure = Sigurnost
 vpn-features-block-ads = Blokiraj oglašivače
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } ti pomaže da automatski blokiraš oglase i oglase za praćenje kako ne bi vidjeli tvoju aktivnost na internetu.
 vpn-features-encrypt-your-internet = Šifriraj sav svoj internetski promet
@@ -45,7 +47,7 @@ vpn-features-super-private-mode = Super privatni modus: usmjerava promet kroz dv
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija za dvostruko šifriranje</a> dodatno povećava sigurnost.
 vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
-vpn-features-flexible = Fleksibilno
+vpn-features-flexible = Fleksibilnost
 vpn-features-personalized-server = Personalizirane preporuke za lokaciju servera
 vpn-features-well-suggest-which-servers = Predložit ćemo servere u tvojoj blizini koji osiguravaju najbržu i najpouzdaniju internetsku vezu.
 vpn-features-personalize-which-apps = Odredi aplikacije koje će dobiti VPN zaštitu

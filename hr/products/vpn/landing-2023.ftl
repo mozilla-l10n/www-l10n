@@ -26,6 +26,7 @@ vpn-landing-connect-up-to-devices =
     }
 vpn-landing-fast-network-speeds-even-while = Brza mreža čak i tijekom igranja
 vpn-landing-no-logging-tracking-or-sharing = Bez zapisivanja, praćenja ili dijeljenja mrežnih podataka
+vpn-landing-no-bandwidth-restrictions-or = Bez ograničenja propusnosti ili smanjivanja brzine
 vpn-landing-see-all-features = Pogledaj sve funkcije
 vpn-landing-fram-a-brand-you-can-trust = Od robne marke kojoj možeš vjerovati
 vpn-landing-one-subscription-for-all-your = Jedna pretplata za sve tvoje uređaje
