@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
@@ -35,7 +35,7 @@ firefox-all-test-your-sites-against = ทดสอบไซต์ของคุ
 firefox-all-count-on-stability-and = วางใจในความเสถียรและความง่ายในการใช้ด้วยเบราว์เซอร์ { -brand-name-firefox } ที่สร้างขึ้นสำหรับองค์กร
 firefox-all-windows-installers-for = ตัวติดตั้ง Windows สำหรับแผนก IT ของบริษัทซึ่งสามารถทำให้การกำหนดค่า การปรับใช้ และการจัดการ { -brand-name-firefox-browser } ง่ายขึ้น
 firefox-all-arm64-installers = ตัวติดตั้ง ARM64 / AArch64
-firefox-all-arm64-installers-optimized = ตัวติดตั้ง ARM64/AArch64 ที่ถูกปรับให้เหมาะสมสำหรับพีซี { -brand-name-windows } ที่ขับเคลื่อนด้วย Snapdragon
+firefox-all-arm64-installers-optimized-v2 = ตัวติดตั้ง ARM64/AArch64 ที่ปรับแต่งประสิทธิภาพมาให้เหมาะสำหรับพีซี Windows และ Linux
 firefox-all-product-send-link = ส่งลิงก์ดาวน์โหลดไปที่โทรศัพท์ของคุณ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

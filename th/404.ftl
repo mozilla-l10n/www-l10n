@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = ย้อนกลับ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">เรียนรู้</a>เกี่ยวกับ { -brand-name-mozilla } องค์กรไม่แสวงหาผลกำไรที่อยู่เบื้องหลัง { -brand-name-firefox }
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>สำรวจ</a>ผลิตภัณฑ์ทั้งตระกูลของ { -brand-name-firefox } ซึ่งออกแบบมาเพื่อเคารพความเป็นส่วนตัวของคุณ
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ดาวน์โหลด</a>เบราว์เซอร์ { -brand-name-firefox } สำหรับอุปกรณ์มือถือหรือเดสก์ท็อปของคุณ
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>บริจาค</a>ให้กับ { -brand-name-mozilla-foundation } และร่วมทวงคืนอินเทอร์เน็ตจากบริษัทเทคโนโลยียักษ์ใหญ่
