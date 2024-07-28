@@ -55,6 +55,7 @@ navigation-share-large-files-safely = Dijeli velike datoteke na siguran način, 
 navigation-save-quality-content = Spremi kvalitetan sadržaj od svugdje. Konzumiraj ga bilo gdje.
 navigation-sign-up = Registriraj se
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Brza, jednostavna i privatna mreža.
+navigation-protect-your-entire-device = Zaštiti tvoj cijeli uređaj i sve aplikacije. Maskiraj tvoju stvarnu lokaciju i poveži do 5 uređaja. Pretplati se sada.
 navigation-join = Pridruži se
 navigation-close-join-menu = Zatvori izbornik za pridruživanje
 navigation-sign-in = Prijava
