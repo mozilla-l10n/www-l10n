@@ -64,6 +64,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } 博客
 navigation-v2-learn-about-mozilla-and = 了解 { -brand-name-mozilla } 以及我们所关注的议题。
 navigation-v2-more-about-mozilla = 进一步认识 { -brand-name-mozilla }
 navigation-v2-impact = 影响
+navigation-v2-find-out-how = 了解我们为增进互联网包容度、促进其可持续发展所做的努力
 
 ## Innovation menu
 
