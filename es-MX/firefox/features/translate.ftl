@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-features-translate-translate-the-web = Traduce la web con { -brand-name-firefox }
+features-translate-translate-the-web = Traduce la web
