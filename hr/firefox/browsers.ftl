@@ -10,9 +10,6 @@ firefox-browsers-page-title = Preuzmi { -brand-name-firefox } za desktop, mobite
 # HTML page description
 firefox-browsers-page-desc = Odaberi između desktopa, { -brand-name-ios }, { -brand-name-android } ili nam dopusti da ti pošaljemo poveznicu za preuzimanje putem e-maila.
 firefox-browsers-main-heading = { -brand-name-firefox } preglednici
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Nabavi <strong>preglednike</strong> koji stavljaju tvoju privatnost na prvo mjesto – i već uvijek jesu
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Stvarno privatno pregledavanje. { -brand-name-firefox } automatski blokira više od 2000 mrežnih programa za praćenje u prikupljanju podataka o onome što radiš na mreži.
 firefox-browsers-download-for-desktop = Preuzmi za desktop
@@ -31,7 +28,7 @@ firefox-browsers-learn-more-about-devtools = Saznaj više o { -brand-name-devtoo
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign-v2 = Već imaš račun? <a %(fxa_attr)s>Prijavi se</a> ili <a %(accounts_attr)s>saznaj više</a> o pridruživanju na { -brand-name-firefox }.
+firefox-browsers-already-have-an-account-sign-v2 = Već imaš račun? <a { $fxa_attr }>Prijavi se</a> ili <a { $accounts_attr }>saznaj više</a> o pridruživanju na { -brand-name-firefox }.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }
