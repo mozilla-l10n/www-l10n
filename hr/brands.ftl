@@ -65,7 +65,7 @@
 
 ## Firefox products
 
--brand-name-facebook-container = Facebook Container
+-brand-name-facebook-container = Facebook kontejner
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
