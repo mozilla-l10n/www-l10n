@@ -7,6 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF uređivač
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Besplatno uredi PDF datoteke s { -brand-name-firefox } PDF upravljačem
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Prikaži i uredi PDF datoteke izravno u { -brand-name-firefox } pregledniku.
 pdf-editor-add-text = Dodaj tekst
 pdf-editor-add-drawings-or-your-signature = Dodaj crteže (ili tvoj potpis)
 pdf-editor-add-image-with-alt-text = Dodaj sliku s alternativnim tekstom

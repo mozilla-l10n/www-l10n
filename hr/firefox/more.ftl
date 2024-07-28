@@ -7,6 +7,7 @@
 
 learn-more-about-firefox = Saznaj više o { -brand-name-firefox }, njegovoj povijesti, funkcijama i misiji
 learn-more-about = Saznaj više o { -brand-name-firefox } preglednicima i proizvodima koji poštuju tvoje podatke i koji su izgrađeni za privatnost gdje god se nalaziš na internetu.
+learn-more-faq = { -brand-name-firefox } ČPP
 what-is-a = Što je web preglednik?
 firefox-is-more = { -brand-name-firefox } je više od samog preglednika
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }

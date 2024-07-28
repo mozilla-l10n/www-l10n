@@ -9,3 +9,5 @@
 features-sync-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } preglednika
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Pristupi svojim { -brand-name-firefox } zabilješkama, lozinkama, otvorenim karticama i još više s bilo kojeg uređaja.
+# Used as accessible alternative text for an image
+features-sync-an-image-of-a-firefox-application = Slika izbornika { -brand-name-firefox } aplikacije koja ističe opciju „Pošalji karticu na uređaj”.

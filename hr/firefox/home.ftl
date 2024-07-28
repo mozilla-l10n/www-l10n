@@ -9,11 +9,14 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } – zaštiti svoj ž
 firefox-home-firefox-is-more-than = { -brand-name-firefox } je više od samog preglednika. Saznaj više o { -brand-name-firefox } proizvodima koji s tvojim podacima postupaju s poštovanjem i izgrađeni su da čuvaju tvoju privatnost diljem interneta.
 # Obsolete string
 firefox-home-the-browser-is-just = Preglednik je tek početak
+firefox-home-firefox-is-just = { -brand-name-firefox } je samo početak.
 # Obsolete string
 firefox-home-meet-our-family-of = Upoznaj našu porodicu proizvoda
+firefox-home-meet-mozillas-family = Upoznaj obitelj { -brand-name-mozilla } proizvoda
 firefox-home-get-trackers-off = Blokiraj preko 2,000 programa za praćenje – uključujući { -brand-name-facebook }
 firefox-home-know-when-hackers-strike = Znaj kad hakeri napadnu – i ostani uvijek korak ispred
 firefox-home-start-getting-breach = Počni primati izvještaje o curenju podataka
+firefox-home-try-relay = Isprobaj { -brand-name-relay }
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = Dobij <strong>poštovanje</strong> koje zaslužuješ
 # Obsolete string
@@ -42,6 +45,7 @@ firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-home-firefox-browser = { -brand-name-firefox-browser }
+firefox-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 # Obsolete string
 firefox-home-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-home-firefox-lockwise = { -brand-name-firefox-lockwise }
