@@ -15,6 +15,13 @@ vpn-landing-powerful-privacy-for-peace = Snažna privatnost za bezbrižnost
 vpn-landing-whats-a-vpn = Što je VPN?
 vpn-landing-a-virtual-private-network-protects = Virtualna privatna mreža (VPN) štiti tvoju internetsku vezu te čuva privatnost tvoje lokacije i onoga što radiš na internetu na svim tvojim uređajima.
 vpn-landing-see-all-the-ways-mozilla-vpn = Pogledaj sve načine na koje te { -brand-name-mozilla-vpn } štiti.
+vpn-landing-how-a-vpn-helps-you = Kako ti VPN pomaže
+vpn-landing-keeps-your-data-safe = Čuva tvoje podatke na javnoj Wi-Fi mreži
+vpn-landing-log-in-to-your-bank-or = Prijavi se u svoju banku ili liječničku ordinaciju iz aerodroma, kafića ili bilo gdje, bezbrižno.
+vpn-landing-blocks-advertisers-from = Blokira oglašivače da te ciljaju
+vpn-landing-hide-your-activity-from = Sakrij svoju aktivnost od programa za praćenje i zlonamjernog softvera za kupovine bez da te netko promatra.
+vpn-landing-helps-you-access-global = Pomaže ti pristupiti globalnom sadržaju
+vpn-landing-check-out-streaming-media = Gledaj emitirane medije, web stranice i prijenose uživo iz drugih zemalja dok putuješ ili kod kuće.
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
