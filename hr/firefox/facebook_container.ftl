@@ -8,7 +8,7 @@
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } za { -brand-name-firefox } | Spriječi { -brand-name-facebook } da te prati na web stranicama koje posjećuješ.
 facebook-container-millions-of-people-around = Milijuni ljudi širom svijeta vjeruju { -brand-name-firefox } preglednicima za { -brand-name-android }, { -brand-name-ios } i desktop uređaje. Brz. Privatan. Preuzmi odmah!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobro ograničen. Zadrži ostatak svoga života za sebe.
-facebook-container-get-the-facebook-container = Nabaci dodatak { -brand-name-facebook-container }
+facebook-container-get-the-facebook-container = Nabavi dodatak { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Preuzmi { -brand-name-firefox } i nabavi dodatak { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Proširenje { -brand-name-facebook-container } je trenutačno dostupno samo za { -brand-name-firefox } za desktop.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
