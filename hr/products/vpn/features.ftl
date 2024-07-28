@@ -31,6 +31,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Podržano na operacijskim sustavima Windows, macOS, Android, iOS i Linux.
 vpn-features-no-bandwidth = Bez ograničenja propusnosti ili smanjivanja brzine
+vpn-features-including-no-data = Bez ograničenja za količinu podataka ili brzine.
 vpn-features-fast-network = Brza mreža čak i tijekom igranja
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
