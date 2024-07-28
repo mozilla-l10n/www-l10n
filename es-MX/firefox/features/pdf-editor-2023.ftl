@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
 
-compare-index-firefox-versus-opera = { -brand-name-firefox } versus Opera
+pdf-editor-add-drawings-or-your-signature = Agregar dibujos (o tu firma)

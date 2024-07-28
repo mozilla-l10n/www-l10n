@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
-compare-index-firefox-versus-opera = { -brand-name-firefox } versus Opera
+consent-banner-button-reject = Rechazar todas las cookies adicionales
+consent-banner-button-accept = Aceptar todas las cookies adicionales
