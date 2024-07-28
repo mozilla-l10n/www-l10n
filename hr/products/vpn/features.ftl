@@ -48,6 +48,9 @@ vpn-features-super-private-mode = Super privatni modus: usmjerava promet kroz dv
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija za dvostruko šifriranje</a> dodatno povećava sigurnost.
 vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Pomoću { -brand-name-mozilla-vpn } možeš zaštititi svoj promet i dalje usmjeravati svoje DNS upite gdje god želiš. <a { $dns }>Saznaj više o podršci za prilagođeni DNS</a>.
 vpn-features-flexible = Fleksibilnost
 vpn-features-personalized-server = Personalizirane preporuke za lokaciju servera
 vpn-features-well-suggest-which-servers = Predložit ćemo servere u tvojoj blizini koji osiguravaju najbržu i najpouzdaniju internetsku vezu.
@@ -57,7 +60,7 @@ vpn-features-set-different-locations = Postavi različite lokacije za svaku kart
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Kombiniraj { -brand-name-mozilla-vpn } s { -brand-name-firefox } proširenjem „Spremnici za više računa” i postavi različite VPN lokacije za svaku { -brand-name-firefox } karticu. <a { $containers }>Saznaj kako</a>.
-vpn-features-trustworthy = Pouzdano
+vpn-features-trustworthy = Pouzdanost
 vpn-features-money-back = 30-dnevno jamstvo povrata novca
 vpn-features-plus-customer-support = Plus korisnička podrška 24/7.
 vpn-features-we-never-log = Nikada ne bilježimo, pratimo ili dijelimo tvoje mrežne podatke
