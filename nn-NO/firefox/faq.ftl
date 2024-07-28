@@ -45,6 +45,7 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+related-questions-safe = Liknande spørsmål: er { -brand-name-firefox } bra for personvern, er { -brand-name-firefox } trygg, er { -brand-name-firefox } betre for personvern
 does-firefox-sell = Sel { -brand-name-firefox } dine personlege data?
 
 # Variables:
@@ -59,6 +60,7 @@ does-firefox-use = Brukar { -brand-name-firefox } { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } er standardsøkjemotor i { -brand-name-firefox }, som tyder at du kan søkje på nettet direkte frå adressefeltet. <a href="{ $url }">Les meir om søkjmotorinstillingar og endring av standardinstillingar</a>.
 does-firefox-have = Har { -brand-name-firefox } innebygd VPN?
 related-questions-ip = Liknande spåørsmål: gøymer { -brand-name-firefox } IP-adressa di
 who-owns-firefox = Kven eig { -brand-name-firefox }?
