@@ -19,7 +19,7 @@ firefox-mobile-privacy-protection-by-default = Standardno postavljena zaštita p
 # Variables:
 #   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
 firefox-mobile-leave-no-trace-with-private = Ne ostavljaj trag s <a href="{ $url }">privatnim načinom pregledavanja</a>. Kad zatvoriš preglednik, tvoja povijest pregledavanja i kolačići će se izbrisati.
-firefox-mobile-stop-companies-from-following = Spriječi poduzeća da prate tvoje aktivnosti
+firefox-mobile-stop-companies-from-following = Spriječi poduzeća da te prate
 # "Tracking Protection" is a feature name; it should be capitalized
 # Variables:
 #   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
