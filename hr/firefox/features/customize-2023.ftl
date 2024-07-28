@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
 features-customize-customize-your-firefox = Prilagodi svoj { -brand-name-firefox } preglednik
+# HTML page description
+features-customize-choose-how-your-browser-looks = Odaberi izgled tvog preglednika s tisućama besplatnih tema.
