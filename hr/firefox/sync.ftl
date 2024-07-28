@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
+firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-firefox = { -brand-name-firefox-browser }
+firefox-sync-sync-your-firefox = Sinkroniziraj svoj { -brand-name-firefox } na bilo kojem uređaju
+firefox-sync-all-you-need = Sve što trebaš za { -brand-name-firefox-sync } je { -brand-name-firefox-account }.
 firefox-sync-enter-an-email = Upiši e-mail adresu i lozinku za <strong>„otvaranje računa { -brand-name-firefox-account }.”</strong>

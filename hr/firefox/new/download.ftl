@@ -24,6 +24,9 @@ firefox-new-need-help = Trebaš pomoć?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">više ne pruža sigurnosna aktualiziranja</a> za { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }, ali i dalje možeš koristiti { -brand-name-firefox }.
+# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Preuzimanje bi trebalo započeti automatski. Ne radi? <a id="{ $id }" href="{ $fallback_url }">Pokušaj ponovo preuzeti</a>.
@@ -31,6 +34,10 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
+firefox-new-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Ako vidiš obavijest da aplikacija koju pokušavaš instalirati nije { -brand-name-microsoft }potvrđena aplikacija, klikni „Svejedno instaliraj” ili <a { $attrs }>promijeni postavke preporuka aplikacije</a>.
 firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedinosti
 
 # Not-Required
@@ -40,4 +47,5 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Preuzmi { -brand-name-firefox-browser }
+firefox-new-from-mozilla = od { -brand-name-mozilla }
 firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik
