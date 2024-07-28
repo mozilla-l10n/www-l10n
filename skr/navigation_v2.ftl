@@ -62,6 +62,7 @@ navigation-v2-work-for-a-mission-driven-updated = مشن نال چلݨ والی 
 navigation-v2-mozilla-blog = { -brand-name-mozilla } بلاگ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } تے ساݙے متعلق مسئلیاں بارے سکھو۔
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا
+navigation-v2-impact = اثر
 
 ## Innovation menu
 
