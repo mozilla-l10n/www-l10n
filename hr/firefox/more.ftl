@@ -14,3 +14,4 @@ we-believe-everyone = Vjerujemo da bi svatko trebao imati pristup internetu – 
 firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 firefox-for-windows = { -brand-name-firefox } za 64-bitni { -brand-name-windows }
 we-worry-about = Mi se brinemo za sigurnost tvojih podataka umjesto tebe.
+firefox-more-translate-more-than = Prevedi više od 100 jezika na svoj jezik izravno u svom { -brand-name-firefox-browser } – lakše nego ikad.
