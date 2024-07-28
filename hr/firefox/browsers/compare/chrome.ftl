@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
+# Page title
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } / Google Chrome usporedba
 # HTML page description
 compare-chome-read-our-comparison = Pročitaj našu usporedbu { -brand-name-firefox } i Chrome preglednika po pitanju funkcija, privatnosti i jednostavnosti upotrebe.

@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
+# Page title
+compare-opera-firefox-vs-opera = { -brand-name-firefox } / Opera usporedba
 # HTML page description
 compare-opera-read-our-comparison = Pročitaj našu usporedbu { -brand-name-firefox } i Opera preglednika po pitanju funkcija, privatnosti i jednostavnosti upotrebe.

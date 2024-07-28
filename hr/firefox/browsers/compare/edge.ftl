@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
+# Page title
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } / Microsoft Edge usporedba
 # HTML page description
 compare-edge-read-our-comparison = Pročitaj našu usporedbu { -brand-name-firefox } i Edge preglednika po pitanju funkcija, privatnosti i jednostavnosti upotrebe.

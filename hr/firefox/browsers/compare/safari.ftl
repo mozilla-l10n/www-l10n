@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
+# Page title
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } / Apple Safari usporedba
 # HTML page description
 compare-safari-read-our-comparison = Pročitaj našu usporedbu { -brand-name-firefox } i Safari preglednika po pitanju funkcija, privatnosti i jednostavnosti upotrebe.
 compare-safari-safari-and-firefox-both-have = Safari i { -brand-name-firefox } imaju dobre funkcije za privatnost i sigurnost.

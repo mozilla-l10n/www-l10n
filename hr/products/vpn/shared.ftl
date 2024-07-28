@@ -92,6 +92,7 @@ vpn-subnav-get-help = Dobij pomoć
 vpn-subnav-platform-desktop = Desktop
 vpn-subnav-platform-mobile = Mobitel
 vpn-subnav-whats-an-ip-address = Što je IP adresa?
+vpn-subnav-vpn-vs-proxy = VPN / Proxy usporedba
 vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
 vpn-subnav-features = Funkcije
 
