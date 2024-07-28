@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
+history-history-of-the-mozilla-project = Povijest projekta { -brand-name-mozilla }
 history-for-more-information-about = Za više informacija o { -brand-name-mozilla } povijesti pogledaj sljedeće:
+history-mozilla-bookmarks = { -brand-name-mozilla } zabilješke
+history-timeline-of-mozilla-project = Kronologija { -brand-name-mozilla } projekta
