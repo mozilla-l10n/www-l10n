@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Nabavi { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
@@ -86,14 +87,24 @@ vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
 vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
 vpn-shared-platform-what-is = Što je { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Zašto { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }-om:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Što je VPN?
 vpn-subnav-get-help = Dobij pomoć
+vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Desktop
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobitel
+vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Što je IP adresa?
 vpn-subnav-vpn-vs-proxy = VPN / Proxy usporedba
+vpn-subnav-subscribe = Pretplati se na { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
+vpn-subnav-download-mozilla-vpn = Preuzmi { -brand-name-mozilla-vpn }
 vpn-subnav-features = Funkcije
 
 ## VPN + Relay bundle offer

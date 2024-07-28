@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-page-title = Cijene – { -brand-name-mozilla-vpn }
+vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Jedna pretplata za sve tvoje uređaje
 # Pricing section
