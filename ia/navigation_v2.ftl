@@ -63,6 +63,7 @@ navigation-v2-work-for-a-mission-driven-updated = Travalia pro un organisation e
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Apprende re { -brand-name-mozilla } e le problemas que importa a nos.
 navigation-v2-more-about-mozilla = Saper plus re { -brand-name-mozilla }
+navigation-v2-impact = Impacto
 
 ## Innovation menu
 
