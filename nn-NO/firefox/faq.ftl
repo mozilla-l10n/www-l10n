@@ -30,11 +30,13 @@ is-firefox-free = Er { -brand-name-firefox } gratis?
 yep-the-firefox = Ja! { -brand-name-firefox-browser } er gratis. Supergratis, faktisk. Ingen skjulte kostnadar. Du betalar ingenting for å bruke han og  vi sel ikkje personopplysningane dine.
 related-questions-free = Liknande spørsmål: er { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Er { -brand-name-chrome } betre enn { -brand-name-firefox }?
+no-we-dont = Nei, vi synest ikkje at { -brand-name-chrome } er betre enn { -brand-name-firefox } og grunnen til det er: når folk spør kva for nettlesar som er best, spør dei eigentleg kva nettlesar som er raskast og sikrast. { -brand-name-firefox } vert oppdatert kvar månad for å passe på at du har den raskaste nettlesaren som respekterer personvernet ditt automatisk.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Sjå korleis { -brand-name-firefox } er samanlikna med { -brand-name-chrome }</a>.
+related-questions-better = Liknande spørsmål: er { -brand-name-firefox } betre enn { -brand-name-chrome }, er { -brand-name-firefox } betre enn { -brand-name-google }, er { -brand-name-firefox } sikrare enn { -brand-name-chrome }, er { -brand-name-firefox } meir privat enn { -brand-name-chrome }
 is-firefox-safe-download = Er { -brand-name-firefox } trygg å laste ned?
 
 # Variables:
