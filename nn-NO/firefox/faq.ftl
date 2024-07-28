@@ -46,7 +46,7 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 related-questions-safe = Liknande spørsmål: er { -brand-name-firefox } bra for personvern, er { -brand-name-firefox } trygg, er { -brand-name-firefox } betre for personvern
-does-firefox-sell = Sel { -brand-name-firefox } dine personlege data?
+does-firefox-sell = Sel { -brand-name-firefox } dei personlege dataa dine?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
