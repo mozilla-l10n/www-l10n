@@ -69,6 +69,7 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox prijevodi
 
 ## Firefox products (short names)
 
