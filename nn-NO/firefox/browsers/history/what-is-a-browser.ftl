@@ -11,6 +11,9 @@ what-is-a-browser-what-is-a-web = Kva er ein nettlesar?
 what-is-a-browser-a-web-browser = Ein nettlesar tek deg med overalt på nettet, slik at du kan sjå tekst, bilde og video frå heile verda.
 what-is-a-browser-how-does-a-web = Korleis fungerer ein nettlesar?
 # Variables:
+#   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
+what-is-a-browser-sadly-not-all = Diverre vel ikkje alla nettlesarprodusentane å tolke formatet på same måte. For brukarar tyder dette at ein nettstad kan sjå ulik ut og fungere ulik. Å lage samsvar mellom nettlesarar slik at alle brukarar kan nyte av internett, same kva for nettlesar dei vel, heiter <a href="{ $standards }">nettstandardar</a>.
+# Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Når ein nettlesar hentar data frå ein internett-tilkopla sørvar brukar han ei programvare som vert kalla ein renderingsmotor for å omsette data til tekst og bilde. Desse dataa er skrivne i <a href="{ $html }">Hypertext Markup Language</a> (HTML) og nettlesarar les denne koden for å lage det vi ser, høyrer og opplever på internett.
 what-is-a-browser-understanding = Kunnskap om personvern
