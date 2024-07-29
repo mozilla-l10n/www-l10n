@@ -18,6 +18,9 @@ what-is-a-browser-sadly-not-all = Diverre vel ikkje alle nettlesarprodusentane �
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Når ein nettlesar hentar data frå ein internett-tilkopla sørvar brukar han ei programvare som vert kalla ein renderingsmotor for å omsette data til tekst og bilde. Desse dataa er skrivne i <a href="{ $html }">Hypertext Markup Language</a> (HTML) og nettlesarar les denne koden for å lage det vi ser, høyrer og opplever på internett.
 what-is-a-browser-cookies-not-the = Infokapslar eller cookies-kjeks (ikkje dei du kan ete)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Nettstadar lagrar informasjon om deg i filer som vert kalla <a href="{ $cookies }">infokapslar</a>. Dei vert lagra på datamaskina di til neste gong du besøkjer nettstaden. Når du kjem tilbake vil koden til nettstaden lese fila for å sjå at det er du. Når du til dømes går til ein nettstad vil sida hugse både brukarnamn og passord – det er muleg med ein infokapsel.
 what-is-a-browser-understanding = Kunnskap om personvern
 what-is-a-browser-firefox-helps = { -brand-name-firefox } hjelper deg med å vere meir privat på nettet ved å la deg blokkere sporarar frå å følgje deg på nettet.
 what-is-a-browser-making-your-web = Få nettlesaren din til å arbeide for deg
