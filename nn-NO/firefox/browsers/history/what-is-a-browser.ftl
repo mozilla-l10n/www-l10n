@@ -11,4 +11,5 @@ what-is-a-browser-what-is-a-web = Kva er ein nettlesar?
 what-is-a-browser-a-web-browser = Ein nettlesar tek deg med overalt på nettet, slik at du kan sjå tekst, bilde og video frå heile verda.
 what-is-a-browser-how-does-a-web = Korleis fungerer ein nettlesar?
 what-is-a-browser-understanding = Kunnskap om personvern
+what-is-a-browser-firefox-helps = { -brand-name-firefox } hjelper deg med å vere meir privat på nettet ved å la deg blokkere sporarar frå å følgje deg på nettet.
 what-is-a-browser-making-your-web = Få nettlesaren din til å arbeide for deg
