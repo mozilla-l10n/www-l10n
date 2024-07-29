@@ -6,16 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title-v2 = Mitä uutta { -brand-name-firefox } sisältää
-# Obsolete string
-whatsnew-page-title = Mitä uutta { -brand-name-firefox } sisältää - Lisää yksityisyyttä, enemmän suojauksia.
 whatsnew-page-description = Nouse vastaan teollisuutta, joka myy tietojasi kolmansille osapuolille. Pysy fiksuna ja turvassa verkossa hyödyntäen teknologioita, jotka ovat apunasi.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } on päivitetty!
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Omaksu lisää uudesta { -brand-name-firefox }-selaimestasi lukemalla <a { $url }>julkaisutiedot</a>.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Omaksu lisää uudesta { -brand-name-firefox }-selaimestasi lukemalla <a href="{ $url }">julkaisutiedot</a>.
 whatsnew-signoff = <strong>Mahdollistajana { -brand-name-mozilla }.</strong> Ihmiset voittojen edelle asettaen vuodesta 1998 lähtien.
+whatsnew-donate-to-mofo = Lahjoita { -brand-name-mozilla-foundation }ille
+whatsnew-thanks-for-choosing = Kiitos, että valitsit { -brand-name-firefox }in
