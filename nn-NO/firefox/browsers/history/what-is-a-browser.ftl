@@ -9,13 +9,15 @@
 what-is-a-browser-what-is-a-web = Kva er ein nettlesar?
 # HTML page description
 what-is-a-browser-a-web-browser = Ein nettlesar tek deg med overalt på nettet, slik at du kan sjå tekst, bilde og video frå heile verda.
+what-is-a-browser-the-web-is-a-vast = Nettet er eit stort og kraftfullt verktøy. I nokre tiår har internett endra måten vår å arbeide på, finn underhaldning, og korleis vi samhandlar med kvarandre. Avhengig av korleis det vert brukt, byggjer det bru mellom nasjonar, driv handel, styrkar relasjonar, driv innovasjonsmotoren til framtida, og er ansvarleg for fleire memes enn vi veit kva vi skal gjere med.
 what-is-a-browser-how-does-a-web = Korleis fungerer ein nettlesar?
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
-what-is-a-browser-sadly-not-all = Diverre vel ikkje alla nettlesarprodusentane å tolke formatet på same måte. For brukarar tyder dette at ein nettstad kan sjå ulik ut og fungere ulik. Å lage samsvar mellom nettlesarar slik at alle brukarar kan nyte av internett, same kva for nettlesar dei vel, heiter <a href="{ $standards }">nettstandardar</a>.
+what-is-a-browser-sadly-not-all = Diverre vel ikkje alle nettlesarprodusentane å tolke formatet på same måte. For brukarar tyder dette at ein nettstad kan sjå ulik ut og fungere ulik. Å lage samsvar mellom nettlesarar slik at alle brukarar kan nyte av internett, same kva for nettlesar dei vel, heiter <a href="{ $standards }">nettstandardar</a>.
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Når ein nettlesar hentar data frå ein internett-tilkopla sørvar brukar han ei programvare som vert kalla ein renderingsmotor for å omsette data til tekst og bilde. Desse dataa er skrivne i <a href="{ $html }">Hypertext Markup Language</a> (HTML) og nettlesarar les denne koden for å lage det vi ser, høyrer og opplever på internett.
+what-is-a-browser-cookies-not-the = Infokapslar eller cookies-kjeks (ikkje dei du kan ete)
 what-is-a-browser-understanding = Kunnskap om personvern
 what-is-a-browser-firefox-helps = { -brand-name-firefox } hjelper deg med å vere meir privat på nettet ved å la deg blokkere sporarar frå å følgje deg på nettet.
 what-is-a-browser-making-your-web = Få nettlesaren din til å arbeide for deg
