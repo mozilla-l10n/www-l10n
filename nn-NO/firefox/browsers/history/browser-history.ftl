@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Nettlesarhistorikk: Episke maktkampar som gav oss moderne nettlesarar
 browser-history-the-browser-wars-underdogs-giants = Nettlesarkrig, dei svakare mot kjempene og stunder som endra verda. Les om historia til nettlesaren.
 browser-history-the-history-of-web = Historia om nettlesarane
 browser-history-before-web-era = Før nett-æraen
