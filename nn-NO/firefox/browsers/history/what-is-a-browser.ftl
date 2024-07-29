@@ -21,6 +21,7 @@ what-is-a-browser-cookies-not-the = Infokapslar eller cookies-kjeks (ikkje dei d
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Nettstadar lagrar informasjon om deg i filer som vert kalla <a href="{ $cookies }">infokapslar</a>. Dei vert lagra på datamaskina di til neste gong du besøkjer nettstaden. Når du kjem tilbake vil koden til nettstaden lese fila for å sjå at det er du. Når du til dømes går til ein nettstad vil sida hugse både brukarnamn og passord – det er muleg med ein infokapsel.
+what-is-a-browser-when-you-go-to = Når du går til ein nettstad og sida hugsar både brukarnamn og passord – det er gjort muleg med ein infokapsel.
 what-is-a-browser-understanding = Kunnskap om personvern
 what-is-a-browser-nearly-all-major = Nesten alle store nettlesarar har ei innstilling for privat nettlesing. Desse finst for å skjule nettlesarhistorikken frå andre brukarar på same datamaskin. Mange trur at privat nettlesing eller inkognito-modus både skjuler identiteten deira og nettlesarhistorikken frå internettleverandørar, styresmakter og annonsørar. Det gjer dei ikkje. Dessa innstillingane slettar berre historikken på systemet ditt, noko som er bra, om du har å gjere med sensitiv personleg informasjon på ei delt eller offentleg datamaskin. { -brand-name-firefox } gjer meir enn det.
 what-is-a-browser-firefox-helps = { -brand-name-firefox } hjelper deg med å vere meir privat på nettet ved å la deg blokkere sporarar frå å følgje deg på nettet.
