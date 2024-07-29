@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = Radite za organizaciju sa jasn
 navigation-v2-mozilla-blog = { -brand-name-mozilla } blog
 navigation-v2-learn-about-mozilla-and = Saznajte više o { -brand-name-mozilla } i problemima koji su nam važni.
 navigation-v2-more-about-mozilla = Više o { -brand-name-mozilla }
+navigation-v2-impact = Uticaj
+navigation-v2-find-out-how = Saznajte kako internet činimo inkluzivnijim i održivijim
 
 ## Innovation menu
 
