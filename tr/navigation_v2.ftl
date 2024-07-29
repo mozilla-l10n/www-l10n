@@ -63,6 +63,7 @@ navigation-v2-work-for-a-mission-driven-updated = İnsancıl ürünler geliştir
 navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } hakkında daha fazla bilgi
+navigation-v2-impact = Etki
 
 ## Innovation menu
 
