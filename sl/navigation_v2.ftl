@@ -64,6 +64,7 @@ navigation-v2-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-v2-learn-about-mozilla-and = Preberite več o { -brand-name-mozilla(sklon: "mestnik") } in o temah, ki so nam pomembne.
 navigation-v2-more-about-mozilla = Več o { -brand-name-mozilla(sklon: "mestnik") }
 navigation-v2-impact = Vpliv
+navigation-v2-find-out-how = Spoznajte, kako soustvarjamo bolj vključujoč in trajnosten internet
 
 ## Innovation menu
 

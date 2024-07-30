@@ -136,10 +136,7 @@
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -156,48 +153,48 @@
         [mestnik] Focusu
         [orodnik] Focusom
     }
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Račun
--brand-name-firefox-accounts = Firefox Računi
 -brand-name-firefox-devtools = Firefox DevTools
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-private-network = Firefox Private Network
--brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
--brand-name-fpn = FPN
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync = Sync
--brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account = Firefox Račun
+-brand-name-firefox-accounts = Firefox Računi
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
 
 ## Pocket
 
@@ -218,6 +215,15 @@
         [mestnik] Bugzilli
         [orodnik] Bugzillo
     }
+-brand-name-gecko =
+    { $sklon ->
+        [rodilnik] Gecka
+        [dajalnik] Gecku
+        [tozilnik] Gecko
+        [mestnik] Gecku
+        [orodnik] Geckom
+       *[imenovalnik] Gecko
+    }
 -brand-name-glean =
     { $sklon ->
        *[imenovalnik] Glean
@@ -230,13 +236,9 @@
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozillin festival
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account =
     { $sklon ->
         [rodilnik]
@@ -304,24 +306,23 @@
             }
     }
 -brand-name-mozilla-social = Mozilla.social
--brand-name-gecko =
-    { $sklon ->
-        [rodilnik] Gecka
-        [dajalnik] Gecku
-        [tozilnik] Gecko
-        [mestnik] Gecku
-        [orodnik] Geckom
-       *[imenovalnik] Gecko
-    }
+-brand-name-mozilla-ai = Mozilla UI
+-brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Hubs
+-brand-name-lockwise = Lockwise
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker

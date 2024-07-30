@@ -11,4 +11,5 @@ features-translate-translate-the-web = Prevedite splet
 features-translate-what-languages-are-currently = Kateri jeziki so trenutno podprti?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what = { -brand-name-firefox }ova možnost prevajanja trenutno podpira naslednje jezike:
+features-translate-and-more-languages-are-in = Še več jezikov pa je v razvoju!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori vaš jezik
