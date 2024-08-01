@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = Þú náðir þessu. Fáðu þér { -b
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Settu { -brand-name-firefox } á símann þinn<br> og opnaðu fyrir flóðgáttir Internetsins.
 whatsnew-s2d-download-firefox-for-your = Sæktu { -brand-name-firefox } fyrir snjallsímann þinn og spjaldtölvuna.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Skannaðu þennan QR-kóða

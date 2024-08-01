@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/?geo=de
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
-consent-banner-settings-link = Stillingar á vefkökum
-consent-banner-aria-label = Vefkökuborði
+# Page title
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } í samanburði við Microsoft Edge

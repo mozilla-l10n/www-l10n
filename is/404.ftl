@@ -13,8 +13,8 @@ not-found-page-go-back = Fara til baka
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Kynntu þér</a> { -brand-name-mozilla }, samtökin á hagnaðarmarkmiða sem standa á bak við { -brand-name-firefox }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Kannaðu</a> allan hópinn af { -brand-name-firefox } hugbúnaðnum sem er hannaður til að virða friðhelgi þína.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Sæktu</a> { -brand-name-firefox } vafra fyrir farsímann þinn eða vinnutölvu
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Gefðu</a> til { -brand-name-mozilla-foundation } og endurheimtu internetið frá stóru tæknifyrirtækjunum.

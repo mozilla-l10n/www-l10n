@@ -5,23 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
-firefox-accounts-sign-in-to-monitor = Skráðu þig inn á { -brand-name-monitor }
-firefox-accounts-join-firefox = Gakktu til liðs við { -brand-name-firefox }
 firefox-accounts-enter-your-email-address = Settu inn tölvupóstfangið þitt til að hefjast handa.
 firefox-accounts-already-have-an-account = Ertu þegar með reikning?
 firefox-accounts-sign-in = Skrá inn
-firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-# Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/privacy/
-firefox-accounts-youll-always-get-the = Þú munt alltaf fá sannleikann frá okkur. Allt sem við hönnum og gerum stemmir við <a href="{ $promise }">loforð okkar um persónuupplýsingar</a>:
-# Line breaks for visual formatting.
-firefox-accounts-take-less-keep-it = Tökum minna.<br> Höldum því öruggu.<br> Engin leyndarmál.
+firefox-accounts-manage = Sýsla með reikninginn þinn
+mozilla-account-header = { -brand-name-mozilla-account }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
-# Obsolete string
-firefox-accounts-firefox-send = { -brand-name-firefox-send }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }

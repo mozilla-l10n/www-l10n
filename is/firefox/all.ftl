@@ -35,7 +35,7 @@ firefox-all-test-your-sites-against = Prófaðu vefsvæðin þín á móti { -br
 firefox-all-count-on-stability-and = Reiknaðu með stöðugleika og einfalda notkun með þessum { -brand-name-firefox }-vafra sem er hannaður fyrir fyrirtæki.
 firefox-all-windows-installers-for = Windows-uppsetningarforrit fyrir upplýsingatæknideildir fyrirtækja sem einfaldar uppsetningu, dreifingu og stjórnun á { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 uppsetningarforrit
-firefox-all-arm64-installers-optimized = ARM64/AArch64-uppsetningarforrit fínstillt fyrir Snapdragon-knúnar { -brand-name-windows } tölvur.
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 uppsetningarforrit fínstillt fyrir Windows og Linux-tölvur.
 firefox-all-product-send-link = Sendu niðurhalstengil í símann þinn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
