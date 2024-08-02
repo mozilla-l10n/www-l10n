@@ -29,6 +29,7 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Güvenilir yapay zekâyı şekillendirmede bize katılın
+home-work-on-ai = { -brand-name-mozilla }’nın yapay zekâ üzerine yaptığı çalışmalar yeni değil. Açık, adil ve sorumlu bir şekilde geliştirilen yapay zekâyı yıllardır finanse ediyor, inşa ediyor ve savunuyoruz. İnsana hizmet eden, şeffaflığı ön planda tutan, kurumsal hedefler yerine kamu yararını destekleyen yapay zekâ yaratmaya odaklanıyoruz.
 home-read-more = Devamını oku
 home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
 # Variables

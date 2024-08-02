@@ -29,6 +29,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Windows, macOS, Android, iOS ve Linux işletim sistemlerinde desteklenir.
 vpn-features-no-bandwidth = Bant genişliği kısıtlaması ve hız sınırı yok
+vpn-features-including-no-data = Veri kotası veya hız sınırı yok.
 vpn-features-fast-network = Oyun oynarken bile yüksek hızda bağlantı
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
@@ -54,6 +55,9 @@ vpn-features-well-suggest-which-servers = Yakınınızdaki hangi sunucuların en
 vpn-features-personalize-which-apps = Hangi uygulamaların VPN ile korunacağını ayarlayın
 vpn-features-easily-exclude-apps = { -brand-name-mozilla-vpn } bağlantısını kesmeden, uygulamalarınızı kolayca VPN korumasından hariç tutabilirsiniz. Bu özelliği Windows, Android ve Linux cihazlarda kullanabilirsiniz.
 vpn-features-set-different-locations = Her { -brand-name-firefox } sekmesi için farklı konumlar ayarlayın
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Multi-Account Containers { -brand-name-firefox } uzantısıyla { -brand-name-mozilla-vpn }’i birleştirebilir, her { -brand-name-firefox } sekmesi için farklı VPN konumları ayarlayabilirsiniz. <a { $containers }>Nasıl yapabileceğiniz öğrenin</a>.
 vpn-features-trustworthy = Güvenilirlik
 vpn-features-money-back = 30 gün para iade garantisi
 vpn-features-plus-customer-support = Ayrıca 7/24 müşteri desteği.
@@ -70,3 +74,6 @@ vpn-features-reviewed-by-third = Üçüncü taraf güvenlik uzmanları tarafınd
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Önde gelen siber güvenlik denetim firması Cure53 tarafından denetlendik. <a { $report }>Raporu burada görebilirsiniz</a>.
 vpn-features-people-over-profits = Para için değil, insanlık için
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Arkamızda, web’in herkes için açık ve sağlıklı kalmasını amaçlayan, kâr amacı gütmeyen <a { $mofo }>{ -brand-name-mozilla-foundation }</a> var.
