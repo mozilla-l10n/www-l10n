@@ -11,22 +11,16 @@ home-mission-driven = Gücümüzü insanlıktan alıyoruz.
 home-were-not-normal = Biz bildiğiniz teknoloji şirketlerinden değiliz. Geliştirdiğimiz her şeyde paradan ziyade insanlığa ve insanların gizliliğine öncelik veriyoruz. Biz, interneti herkes için daha sağlıklı ve mutlu bir yere dönüştürmek için varız.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Varlığımızın yegâne amacı, internetin ve çevrimiçi yaşamın sağlığını korumak.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, { -brand-name-mozilla } CEO’su
 home-mitchell-baker-v2 = Mitchell Baker, { -brand-name-mozilla-foundation } Yönetim Kurulu Başkanı
 home-mozilla-makes-privacy = { -brand-name-mozilla } gizliliğe saygı duyan ürünler geliştirir
 home-product-firefox-browsing = Gizli ve güvenli gezinti
 home-cta-get-firefox = { -brand-name-firefox }’u indirin
 home-product-pocket-articles = İnternetteki en ilgi çekici yazılar
 home-cta-get-pocket = { -brand-name-pocket }’ı edinin
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Kullanımı kolay e-posta ve telefon maskeleri
 home-product-relay-hide-your = Telefon numaranızı ve e-postanızı spam gönderenlerden gizleyin
 home-cta-get-relay = { -brand-name-relay }’i deneyin
 home-product-vpn-trust = Güvenebileceğiniz bir VPN
 home-cta-get-vpn = { -brand-name-mozilla-vpn }’i edinin
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Veri ihlali uyarıları
 home-product-monitor-protect-your = Özel bilgilerinizi veri aracılarından koruyun
 home-cta-get-monitor = { -brand-name-monitor }’ü edinin
 home-product-fakespot-detect = Sahte alışveriş değerlendirmelerini tespit edin
@@ -36,11 +30,11 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile
 home-politico-cite = Politico
 home-join-us-in-shaping = Güvenilir yapay zekâyı şekillendirmede bize katılın
 home-read-more = Devamını oku
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = { -brand-name-mozilla } şirket mi yoksa kâr amacı gütmeyen bir kuruluş mu? Aslında ikisi de.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } iki kuruluştan oluşuyor. Ticari işletmemiz { -brand-name-mozilla-corporation }’ın tamamı kâr amacı gütmeyen { -brand-name-mozilla-foundation }’na ait. Yani hiçbir hissedarımız yok ve bizi bağlayan tek şey misyonumuz.
 home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = { -brand-name-mozilla }, özünde { -brand-name-mozilla-foundation } tarafından yönetilen aktivist bir kuruluş. { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ve <a { $mozai }>{ -brand-name-mozilla-ai }</a> gibi girişimlerimizle dünyada fark yaratıyoruz. Farkımız ne mi? Hiç hissedarımız yok. Misyon odaklı bir kuruluş olduğumuz için, hissedarlara para kazandıracak kararları değil de internet için ve herkes için en iyi olacak kararları alma özgürlüğümüz var.
 home-learn-about-mofo = { -brand-name-mozilla-foundation } hakkında bilgi alın
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 home-your-voice-your-code = Sesinizle, kodunuzla, fikirlerinizle… { -brand-name-mozilla }’ya katkıda bulunmanızın pek çok yolu var.

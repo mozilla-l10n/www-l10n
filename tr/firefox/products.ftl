@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } ürünleri
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ürün ailesi, daha güvenli ve daha verimli bir internet deneyimi için tasarlandı
 firefox-products-products = Ürünler
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } yalnızca başlangıç.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } yalnızca başlangıç
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } ürün ailesi, daha güvenli ve daha verimli bir internet deneyimi için tasarlandı.
 
 ## Firefox
@@ -58,11 +56,13 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = Siz internetten alışveriş yaparken { -brand-name-fakespot } arkanızı kollar, dolandırıcıları ayıklar ve en iyi fiyatları bulmanıza yardımcı olur. { -brand-name-mozilla } güvencesiyle.
 firefox-products-analyze = Adresi analiz et
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Web’in en iyi içeriklerini keşfedin, istediğiniz yerde ve istediğiniz zaman tüketin.
+firefox-products-discover-the-best-content-v2 = Web’in en iyi içeriklerini keşfedin, istediğiniz yerde ve istediğiniz zaman tüketin. { -brand-name-mozilla } güvencesiyle.
 firefox-products-get-pocket = { -brand-name-pocket }’ı edinin

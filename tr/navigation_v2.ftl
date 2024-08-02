@@ -64,6 +64,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } ve bizim için önemli konular hakkında bilgi alın.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } hakkında daha fazla bilgi
 navigation-v2-impact = Etki
+navigation-v2-find-out-how = İnterneti nasıl daha kapsayıcı ve sürdürülebilir hale getirdiğimizi öğrenin
 
 ## Innovation menu
 
