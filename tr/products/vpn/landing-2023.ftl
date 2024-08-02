@@ -17,6 +17,7 @@ vpn-landing-a-virtual-private-network-protects = Sanal özel ağ (VPN), internet
 vpn-landing-see-all-the-ways-mozilla-vpn = { -brand-name-mozilla-vpn }’in sizi nasıl koruduğunu görün.
 vpn-landing-how-a-vpn-helps-you = VPN size nasıl yardımcı olur?
 vpn-landing-keeps-your-data-safe = Verilerinizi halka açık Wi-Fi ağlarında güvende tutar
+vpn-landing-log-in-to-your-bank-or = Havalimanından, kafeden veya istediğiniz yerden bankanıza veya hastane kayıtlarınıza güvenle erişin.
 vpn-landing-blocks-advertisers-from = Reklamverenlerin sizi hedeflemesini engeller
 vpn-landing-hide-your-activity-from = Takip kodlarından ve kötü amaçlı yazılımlardan kurtulun, izlenmeden alışveriş yapın.
 vpn-landing-helps-you-access-global = Dünyanın her yerindeki içeriklere erişmenizi sağlar
