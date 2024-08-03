@@ -11,22 +11,16 @@ home-mission-driven = Guidato da una missione. Sostenuto dalle persone.
 home-were-not-normal = Non siamo la tipica azienda tecnologica. Ciò che creiamo antepone le persone e la loro privacy al profitto. Esistiamo per rendere Internet un luogo migliore e più sano per tutti.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “La nostra ragione d’essere è la salute di Internet e della vita online.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO di { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Executive Chair of the Board, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } realizza prodotti che rispettano la privacy
 home-product-firefox-browsing = Navigazione riservata e sicura
 home-cta-get-firefox = Ottieni { -brand-name-firefox }
 home-product-pocket-articles = Gli articoli più interessanti del web
 home-cta-get-pocket = Ottieni { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Alias email e per numeri di telefono facili da usare
 home-product-relay-hide-your = Proteggi il tuo numero di telefono e la tua email dagli spammer.
 home-cta-get-relay = Ottieni { -brand-name-relay }
 home-product-vpn-trust = Una VPN di cui ti puoi fidare
 home-cta-get-vpn = Ottieni { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Avvisi per violazioni di dati
 home-product-monitor-protect-your = Salvaguarda le tue informazioni personali dai broker di dati.
 home-cta-get-monitor = Ottieni { -brand-name-monitor }
 home-product-fakespot-detect = Individua recensioni false quando fai shopping
@@ -35,12 +29,8 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } sta investendo per mostrare
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Aiutaci a creare un’intelligenza artificiale affidabile
-home-work-on-ai = Il lavoro di { -brand-name-mozilla } con l’IA non è una novità: abbiamo investito anni finanziando, sviluppando e sostenendo un’intelligenza artificiale aperta, equa e sviluppata in modo responsabile. Il nostro obiettivo è creare un’intelligenza artificiale che sia al servizio delle persone, dia priorità alla trasparenza e sostenga il bene pubblico, non le agende aziendali.
+home-work-on-ai = Il lavoro di { -brand-name-mozilla } con l’intelligenza artificiale non è una novità: abbiamo investito anni finanziando, sviluppando e sostenendo un’intelligenza artificiale aperta, equa e sviluppata in modo responsabile. Il nostro obiettivo è creare un’intelligenza artificiale che sia al servizio delle persone, dia priorità alla trasparenza e sostenga il bene pubblico, non le agende aziendali.
 home-read-more = Ulteriori informazioni
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = { -brand-name-mozilla } è una società o un’organizzazione senza fini di lucro? In realtà, entrambe.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } è composta da due organizzazioni. { -brand-name-mozilla-corporation } è interamente di proprietà dell’organizzazione non-profit 501(c) { -brand-name-mozilla-foundation }. Il che significa che non siamo legati ad alcun azionista, ma solo alla nostra missione.
 home-so-what-is-mozilla = Che cos’è { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
