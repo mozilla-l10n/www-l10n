@@ -5,14 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
-whatsnew-up-to-date-notification-v2 = Felicitacions ! Utilizatz la darrièra version de { -brand-name-firefox }.
-# Obsolete string
-whatsnew-up-to-date-notification = Felicitacions ! Utilizatz la darrièra version de { -brand-name-firefox-browser }.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
-whatsnew-out-of-date-notification-v3 = Una version encara mai actualizada de { -brand-name-firefox } es disponibla. <a href="{ $url }">Actualizar cap a la darrièra version</a>
-# Obsolete string
-whatsnew-out-of-date-notification-v2 = Una version encara mai actualizada de { -brand-name-firefox } es disponibla. Reaviatz per metre a jorn.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Consultatz la <a href="{ $url }">Nòta de version</a> per saber que i a de nòu dins lo navegador { -brand-name-firefox }.
+whatsnew-release-notes-v2 = Consultatz la <a { $url }>Nòta de version</a> per saber que i a de nòu dins lo navegador { -brand-name-firefox }.
+whatsnew-signoff = <strong>Propulsat per { -brand-name-mozilla }.</strong> Met las gents abans los profièches dempuèi 1998.
