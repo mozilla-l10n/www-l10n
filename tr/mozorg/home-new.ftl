@@ -25,12 +25,12 @@ home-product-monitor-protect-your = Özel bilgilerinizi veri aracılarından kor
 home-cta-get-monitor = { -brand-name-monitor }’ü edinin
 home-product-fakespot-detect = Sahte alışveriş değerlendirmelerini tespit edin
 home-cta-get-fakespot = { -brand-name-fakespot }’u edinin
-home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile de iş yapılabileceğini dünyaya göstermekle kararlı. Bu amaçla, bu karmaşık sistemlerin işleyişinin merkezine insan hakları, veri gizliliği ve şeffaflık gibi konuları koymak istiyor.”
+home-mozilla-takes-bets = “{ -brand-name-mozilla }, güvenilir yapay zekâ ile de iş yapılabileceğini dünyaya göstermekte kararlı. Bu amaçla, bu karmaşık sistemlerin işleyişinin merkezine insan hakları, veri gizliliği ve şeffaflık gibi konuları koymak istiyor.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Güvenilir yapay zekâyı şekillendirmede bize katılın
 home-work-on-ai = { -brand-name-mozilla }’nın yapay zekâ üzerine yaptığı çalışmalar yeni değil. Açık, adil ve sorumlu bir şekilde geliştirilen yapay zekâyı yıllardır finanse ediyor, inşa ediyor ve savunuyoruz. İnsana hizmet eden, şeffaflığı ön planda tutan, kurumsal hedefler yerine kamu yararını destekleyen yapay zekâ yaratmaya odaklanıyoruz.
-home-read-more = Devamını oku
+home-read-more = Devamını okuyun
 home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
 # Variables
 #   $ventures - link to https://mozilla.vc/
