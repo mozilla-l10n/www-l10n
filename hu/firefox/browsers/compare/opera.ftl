@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
 # Page title
-compare-opera-firefox-vs-opera = { -brand-name-firefox } kontra Opera
+compare-opera-firefox-vs-opera = A { -brand-name-firefox } az Operával szemben
 # HTML page description
-compare-opera-read-our-comparison = Olvassa el a { -brand-name-firefox } és Opera böngészők összehasonlítását a funkciókról, az adatvédelemről és a könnyű használhatóságról.
+compare-opera-read-our-comparison = Olvassa el a { -brand-name-firefox } és az Opera böngészők összehasonlítását, a funkciók, az adatvédelem és a könnyű használhatóság szempontjából.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = A { -brand-name-firefox } alapértelmezett adatvédelmi beállításai erősebbek, mint az Operáé – és több olyan funkcióval rendelkezik, mint az <a { $fingerprint }>ujjlenyomat-blokkolás</a>, amely megakadályozza, hogy a webhelyek nyomon kövessék.

@@ -52,10 +52,6 @@ download-a-different-build = Másik verzió letöltése
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = A 32 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
-# Obsolete string
-download-button-linux-64 = A 64 bites { -brand-name-linux(cap: "lower") }os verzió letöltése
 download-button-linux-32-v2 = Letöltés 32 bites Linuxra
 download-button-linux-64-v2 = Letöltés 64 bites Linuxra
 # Variables
