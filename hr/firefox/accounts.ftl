@@ -7,6 +7,8 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Nabavi { -brand-name-mozilla-account } – Drži svoje podatke privatno, sigurno i sinkronizirano
+# HTML page description
+mozilla-accounts-securely-sync-your = Sigurno sinkroniziraj svoje lozinke, oznake i kartice na svim svojim uređajima. Nabavi { -brand-name-mozilla-account } sada – Jedna prijava – Snaga i privatnost svuda.
 firefox-accounts-enter-your-email-address = Počni s upisom tvoje e-mail adrese.
 firefox-accounts-already-have-an-account = Već imaš račun?
 firefox-accounts-sign-in = Prijavi se
