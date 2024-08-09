@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Merdeer ar brevezded
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Kas ul liamm pellgargañ d’ho pellgomzer.
 mobile-focus-scan-the-qr-code-to-get-started = C’hwilerviñ ar c’hod QR evit stagañ ganti
 mobile-focus-scan-alt-text = C’hwilerviñ ar c’hod QR evit tapout { -brand-name-firefox-focus }

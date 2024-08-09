@@ -8,3 +8,4 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = Petra zo ur merdeer web?
 what-is-a-browser-cookies-not-the = Toupinoù (cookies, pas ar re a vez debret)
+what-is-a-browser-understanding = Kompren gwarez ar vuhez prevez

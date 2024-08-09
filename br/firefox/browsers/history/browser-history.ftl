@@ -8,3 +8,4 @@
 browser-history-the-history-of-web = Istor merdeerioù ar genrouedad
 browser-history-the-browser-wars = Brezel ar merdeerioù
 browser-history-browsing-the-web = Merdeiñ ar genrouedad hiziv an deiz
+browser-history-take-control-of = Adperc’hennit ho merdeer.
