@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
-# Page title
-compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+consent-banner-settings-link = Arventennoù an toupinoù

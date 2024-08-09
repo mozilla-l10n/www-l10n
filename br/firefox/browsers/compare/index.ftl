@@ -5,5 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-conclusion = Klozadur:
-compare-index-and-the-winner-is = Ha trec’h eo bet gant…
+# Page title
+compare-index-compare-firefox-with-other = Keñveriit { -brand-name-firefox } gant merdeerioù all
+compare-index-firefox-versus-google-chrome = { -brand-name-firefox } versus Google Chrome
+compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } versus Microsoft Edge
+compare-index-firefox-versus-apple-safari = { -brand-name-firefox } versus Apple Safari
+compare-index-firefox-versus-brave = { -brand-name-firefox } versus Brave
+compare-index-firefox-versus-opera = { -brand-name-firefox } versus Opera

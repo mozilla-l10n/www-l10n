@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-browsers-main-heading = Merdeerioù { -brand-name-firefox }
 firefox-browsers-desktop = Urzhiataer burev
 firefox-browsers-download-for-desktop = Pellgargañ evit an urzhiataer
 firefox-browsers-mobile = Hezougell
