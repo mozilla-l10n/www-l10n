@@ -5,56 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# Used as an accessible label for a "yes" icon (a green check mark)
-compare-shared-yes = Da
-# Used as an accessible label for a "no" icon (a gray bar)
-compare-shared-no = Ne
-compare-shared-private-browsing-mode = Način zasebnega brskanja
-compare-shared-blocks-third-party-tracking-default = Privzeto zavračanje sledilnih piškotkov tretjih strani
-compare-shared-blocks-cryptomining-scripts = Zavračanje kriptorudarskih skriptov
-compare-shared-blocks-fingerprinting-scripts = Zavračanje skriptov za prstne odtise brskalnika
-compare-shared-blocks-social-trackers = Zavračanje sledilcev družbenih omrežij
-compare-shared-dashboard-to-review = Pregledna plošča zavrnjenih sledilcev
-compare-shared-autoplay-blocking = Preprečevanje samodejnega predvajanja
-compare-shared-tab-browsing = Brskanje z zavihki
-compare-shared-bookmark-manager = Upravitelj zaznamkov
-compare-shared-automatically-fills-out-forms = Samodejno izpolnjevanje obrazcev
-compare-shared-automatically-fills-out-payments = Samodejno izpolnjevanje plačil
-compare-shared-search-engine-options = Možnosti iskalnika
-compare-shared-text-to-speech = Besedilo v govor
-compare-shared-reader-mode = Bralni način
-compare-shared-spell-checking = Preverjanje črkovanja
-compare-shared-web-extensionsadd-ons = Spletne razširitve/dodatki
-compare-shared-in-browser-screenshot-tool = Orodje za zajemanje zaslonskih posnetkov
-compare-shared-os-availability = Podpora operacijskim sistemom
-compare-shared-mobile-os-availability = Podpora mobilnim operacijskim sistemom
-compare-shared-syncs-with-mobile = Sinhronizacija z mobilno napravo
-compare-shared-password-management = Upravljanje gesel
-compare-shared-primary-password = Glavno geslo
-compare-shared-security-and-privacy = Varnost in zasebnost
-compare-shared-utility = Uporabnost
-compare-shared-portability = Prenosljivost
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-security-and-privacy-strong = Varnost in <strong>zasebnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-utility-strong = <strong>Uporabnost</strong>
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-portability-strong = <strong>Prenosljivost:</strong>
-compare-shared-overall-assessment = Splošna ocena
-compare-shared-the-comparisons-made-here-updated = Primerjava med brskalniki je bila opravljena s privzetimi nastavitvami v sledečih različicah:
-compare-shared-this-page-updated-semi-quarterly = Ta stran se posodablja enkrat na mesec in pol, da odrazi najnovejše različice, in morda ne odraža vedno najnovejših posodobitev.
-compare-shared-brand-name-firefox = { -brand-name-firefox }
-compare-shared-brand-name-chrome = { -brand-name-chrome }
-compare-shared-brand-name-edge = { -brand-name-edge }
-compare-shared-brand-name-opera = { -brand-name-opera }
-compare-shared-brand-name-safari = { -brand-name-safari }
-compare-shared-brand-name-brave = { -brand-name-brave }
-compare-shared-download-firefox = Prenesite { -brand-name-firefox }
-compare-shared-download-firefox-browser = Prenesite { -brand-name-firefox-browser(sklon: "tozilnik") }
-compare-shared-download-the-app = Prenesite aplikacijo
-compare-shared-desktop = Namizje
-compare-shared-brand-name-android = { -brand-name-android }
-compare-shared-brand-name-ios = { -brand-name-ios }
-compare-shared-compare-browsers = Primerjajte brskalnike
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation includes multiple words, please choose a word to emphasize and wrap that word in the strong tag.
-compare-shared-performance-strong = <strong>Učinkovitost delovanja</strong>
+compare-shared-compare-firefox = Primerjajte { -brand-name-firefox }
+compare-shared-footer-cta-title = Bodite učinkovitejši s { -brand-name-firefox(sklon: "orodnik") }
+compare-shared-footer-cta-desc = Prenesite si hiter, lahek in zasebnosti predan brskalnik, ki ga razvija neprofitna organizacija in ki deluje na vseh vaših napravah.
+compare-shared-footer-cta-button = Prenesi { -brand-name-firefox }
+compare-shared-we-also-offer-easy = Ponujamo tudi funkcije, ki so preproste za uporabo, kot so:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ima tudi že vgrajena orodja, kot so_
