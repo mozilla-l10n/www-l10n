@@ -8,3 +8,4 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = Što je web preglednik?
 what-is-a-browser-how-does-a-web = Kako funkcionira web preglednik?
+what-is-a-browser-understanding = Razumijevanje privatnosti

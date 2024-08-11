@@ -12,5 +12,8 @@ compare-shared-firefox-also-has-built-in = { -brand-name-firefox } također sadr
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Uredi PDF-ove</a> bez lokalne mreže u prozoru tvog { -brand-name-firefox } preglednika – bez dodatnog softvera.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Prevedi web stranicu</a> lokalno i privatno.
 # Used as a small link to a cited source
 compare-shared-source = izvor

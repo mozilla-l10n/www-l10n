@@ -8,6 +8,7 @@
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } slika-u-slici: Obavi više sa skočnim prozorima videa
 features-pip-picture-in-picture = Slika-u-slici
+features-pip-new-feature-firefox-multi-picture = Nova funkcija: { -brand-name-firefox } višestruka slika-u-slici
 features-pip-get-more-done-with-pop-out-videos = Obavi više sa skočnim prozorima videa
 features-pip-play-the-video = Reproduciraj video
 features-pip-heres-how-it-works = Ovako funkcionira:
