@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-what-is-heading = Što je kriva informacija? Što je dezinformacija?
+misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti dezinformacije
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

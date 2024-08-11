@@ -12,4 +12,6 @@ developer-mdnplus-congrats-you-now-have-latest-v2 = Čestitamo! Sada imaš najno
 developer-mdnplus-more-mdn-your-mdn = Više { -brand-name-mdn }a. <em>Tvoj</em> { -brand-name-mdn }.
 # CTA button
 developer-mdnplus-get-started = Započni
+developer-mdnplus-whats-included = Što je uključeno
+developer-mdnplus-notifications = Obavijesti
 developer-mdnplus-resources-for-developers = Resursi za programere, od programera.

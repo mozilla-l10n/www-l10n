@@ -9,3 +9,5 @@
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Spremi vijesti, videa, priče i još više
 welcome-page2-activate-pocket = Aktiviraj { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
+welcome-page2-discover-new-stories = Otkrij nove priče
+welcome-page2-why-am-i-seeing-this = Zašto ovo vidim?

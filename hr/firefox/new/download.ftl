@@ -10,6 +10,7 @@
 
 firefox-new-download-firefox = Preuzmi { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Preuzmi najbrži { -brand-name-firefox } ikad
+firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Brže učitavanje stranica, manja potrošnja memorije i mnoštvo mogućnosti, ovdje je novi { -brand-name-firefox }.
 firefox-new-get-the-latest-firefox = Preuzmi najnoviji { -brand-name-firefox } preglednik.
 # span's below are for visual formatting and line break.
@@ -47,5 +48,6 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Preuzmi { -brand-name-firefox-browser }
+firefox-new-fast = Brzo, privatno i besplatno
 firefox-new-from-mozilla = od { -brand-name-mozilla }
 firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik

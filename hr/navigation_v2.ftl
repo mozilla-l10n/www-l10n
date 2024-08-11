@@ -5,6 +5,7 @@
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Preuzmi { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
+navigation-v2-menu = Izbornik
 
 ## Firefox menu
 

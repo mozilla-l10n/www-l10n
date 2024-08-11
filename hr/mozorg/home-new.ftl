@@ -7,6 +7,7 @@
 
 home-mitchell-baker-v2 = Mitchell Baker, izvršni predsjednik uprave, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji poštuju privatnost
+home-product-firefox-browsing = Privatno i sigurno pregledavanje
 home-cta-get-firefox = Nabavi { -brand-name-firefox }
 home-cta-get-pocket = Nabavi { -brand-name-pocket }
 home-cta-get-relay = Nabavi { -brand-name-relay }
