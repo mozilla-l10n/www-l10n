@@ -11,22 +11,16 @@ home-mission-driven = Conduzido por uma missão. Impulsionado por pessoas.
 home-were-not-normal = Não somos uma empresa normal de tecnologia. As coisas que criamos dão mais prioridade às pessoas e sua privacidade do que a lucros. Existimos para tornar a internet um lugar mais saudável e feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “A saúde da internet e da vida online é o motivo de nossa existência.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO da { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Presidente Executiva do Conselho, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = A { -brand-name-mozilla } cria produtos que respeitam a privacidade
 home-product-firefox-browsing = Navegação privativa e segura
 home-cta-get-firefox = Use o { -brand-name-firefox }
 home-product-pocket-articles = Os artigos mais intrigantes da web
 home-cta-get-pocket = Use o { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Máscaras de email e celular fáceis de usar
 home-product-relay-hide-your = Oculte seu número de celular e endereço de email de spammers
 home-cta-get-relay = Tenha o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que você pode confiar
 home-cta-get-vpn = Instale o { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Alertas de vazamentos de dados
 home-product-monitor-protect-your = Proteja suas informações privativas de vendedores de dados
 home-cta-get-monitor = Use o { -brand-name-monitor }
 home-product-fakespot-detect = Detecte avaliações falsas de compras
@@ -37,11 +31,11 @@ home-politico-cite = politico.<!-- -->com
 home-join-us-in-shaping = Junte-se a nós para moldar inteligência artificial confiável
 home-work-on-ai = O trabalho da { -brand-name-mozilla } com inteligência artificial não é apenas uma novidade. Dedicamos anos financiando, construindo e defendendo que inteligência artificial seja aberta, justa e desenvolvida com responsabilidade. Nosso foco está na criação de inteligência artificial que sirva às pessoas, priorize a transparência e contribua para o bem público, não interesses corporativos.
 home-read-more = Saiba mais
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma corporação ou uma entidade sem fins lucrativos? Na verdade, ambos.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = A { -brand-name-mozilla } consiste em duas organizações. A { -brand-name-mozilla-corporation } é de propriedade integral da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. Significa que não estamos comprometidos com nenhum acionista, apenas com nossa missão.
 home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = No seu cerne, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que muda o mundo através de uma variedade de empreendimentos, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Qual o nosso diferencial? Somos movidos por uma missão, Significa que temos a liberdade de tomar todas as nossas decisões com base no que for melhor para a internet e para todos online, não com base em exigências de acionistas – na verdade, não temos nenhum.
 home-learn-about-mofo = Conheça a { -brand-name-mozilla-foundation }
 home-join-the-fight = Participe da luta por uma internet saudável.
 home-your-voice-your-code = Sua voz. Seu código. Suas ideias. Existem literalmente milhares de maneiras de contribuir na { -brand-name-mozilla }.
