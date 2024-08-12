@@ -23,6 +23,7 @@ privacy-faq-the-following-questions-and = As seguintes perguntas e respostas dev
 privacy-faq-i-use-firefox-for-almost-everything = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
 # Obsolete string (expires 2024-09-11)
 privacy-faq-firefox-the-web-browser-that = O { -brand-name-firefox }, navegador executado no seu dispositivo ou computador, é a sua porta de acesso à Internet. Seu navegador gerenciará muitas informações sobre os sites que você visita, no entanto, tais informações permanecem no seu dispositivo. A { -brand-name-mozilla }, empresa que faz o { -brand-name-firefox }, não as coleta ─ a menos que você nos peça.
+privacy-faq-firefox-the-web-browser-that-v2 = O { -brand-name-firefox }, navegador que funciona em seu dispositivo ou computador, é seu acesso à internet. Seu navegador gerencia muitas informações sobre os sites que você visita, no entanto, tais informações geralmente permanecem em seu dispositivo. A { -brand-name-mozilla }, empresa que faz o { -brand-name-firefox }, não as coleta, a menos que você peça.
 privacy-faq-really-you-dont-collect-my-browsing = Sério? Meu histórico de navegação não é coletado?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } não conhece tanto quando você poderia esperar sobre como as pessoas navegam pela internet. Este é um grande desafio para nós como criadores de navegador. É por isso que criamos ferramentas opcionais, que permitem que usuários interessados nos concedam percepção de sua navegação na internet. Se você o sincroniza o histórico de navegação entre instalações do { -brand-name-firefox }, não tomamos conhecimento dele, porque é criptografado em seu dispositivo.
 privacy-faq-it-seems-like-every-company = Parece que toda empresa na Web está comprando e vendendo meus dados, vocês não são diferentes.
@@ -38,6 +39,10 @@ privacy-faq-okay-those-first-few-were-softballs = Certo, as primeiras perguntas 
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 privacy-faq-mozilla-does-collect-a-limited = Por padrão, a { -brand-name-mozilla } coleta um conjunto limitado de dados do { -brand-name-firefox } para nos ajuda a entender como as pessoas usam o navegador. Esses dados são veiculados a um identificador aleatório, em vez de seu nome ou endereço de email. Leia mais sobre isto em nosso <a href="{ $privacy }">aviso de privacidade</a> e também na <a href="{ $data }">documentação completa desta coleta de dados</a>.
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = Por padrão, a { -brand-name-mozilla } coleta um conjunto limitado de dados do { -brand-name-firefox } que nos ajuda a entender como as pessoas usam o navegador. Leia mais sobre este assunto no nosso <a href="{ $privacy }">aviso de privacidade</a> e na <a href="{ $data }">documentação completa de coleta de dados</a>.
 privacy-faq-we-make-our-documentation-public = Deixamos a nossa documentação pública com o propósito de permitir que qualquer pessoa possa comprovar a veracidade do que dizemos, comentar o que podemos melhorar e confiar que não escondemos nada.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Esta documentação é incompreensível para mim! Poderia disponibilizar de forma clara e simples?
