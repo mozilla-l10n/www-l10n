@@ -27,3 +27,6 @@ vpn-download-not-in-country = Nažalost { -brand-name-mozilla-vpn } nije dostupa
 
 vpn-download-faq-here-are-some = Najčešćih pitanja o postavljanju { -brand-name-mozilla-vpn }-a
 vpn-download-faq-why-use = Zašto koristiti { -brand-name-mozilla-vpn }
+vpn-download-faq-add-device = Kako mogu dodati jedan drugi uređaj?
+vpn-download-faq-best-practices = Koje su najbolje prakse za VPN?
+vpn-download-faq-need-more = Trebaš još malo više pomoći?

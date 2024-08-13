@@ -16,6 +16,9 @@ vpn-landing-brand-trust-desc = Više od 20 godina se { -brand-name-mozilla } zal
 
 vpn-landing-faq-heading = ČPP
 vpn-langing-faq-uses-question-heading = Što je VPN i za što se koristi?
+vpn-landing-faq-info-question-heading = Koje podatke čuva { -brand-name-mozilla-vpn }?
+vpn-landing-faq-protected-question-heading = Kako se štiti moja privatnost?
+vpn-landing-faq-competition-question-heading = Po čemu se { -brand-name-mozilla-vpn } razlikuje od konkurencije?
 vpn-landing-faq-compatibility-question-heading = S kojim je uređajima { -brand-name-mozilla-vpn } kompatibilan?
 # Variables:
 #   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
@@ -39,6 +42,7 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 #   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 i novije verzije)
 vpn-landing-faq-refund-question-heading = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
+vpn-landing-faq-manage-subscription-question-heading = Kako mogu upravljati svojom pretplatom?
 vpn-landing-faq-link = Pogledaj još ČPP-a
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
