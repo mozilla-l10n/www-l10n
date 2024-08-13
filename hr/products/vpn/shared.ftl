@@ -92,6 +92,7 @@ vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-v
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-whats-a-vpn = Što je VPN?
+vpn-subnav-faqs = Često postavljena pitanja
 vpn-subnav-get-help = Dobij pomoć
 vpn-subnav-platform-android = { -brand-name-android }
 vpn-subnav-platform-desktop = Desktop
