@@ -4,7 +4,7 @@
 
 # Variables
 #   $class (string) = CSS Class name for banner title
-moz-account-promo-title = Jedna prijava. <br> <span { $class }>Sve</span> s { -brand-name-mozilla }.
+moz-account-promo-title = Jedna prijava. <br> <span { $class }>Sve</span> { -brand-name-mozilla }.
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
