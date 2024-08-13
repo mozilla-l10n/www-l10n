@@ -10,6 +10,8 @@ firefox-browsers-page-title = Preuzmi { -brand-name-firefox } za desktop, mobite
 # HTML page description
 firefox-browsers-page-desc = Odaberi između desktopa, { -brand-name-ios }, { -brand-name-android } ili nam dopusti da ti pošaljemo poveznicu za preuzimanje putem e-maila.
 firefox-browsers-main-heading = { -brand-name-firefox } preglednici
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = Nabavi preglednik koji stavljaju tvoju privatnost na prvo mjesto – i <strong>uvijek</strong> je
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = Stvarno privatno pregledavanje. { -brand-name-firefox } automatski blokira više od 2000 mrežnih programa za praćenje u prikupljanju podataka o onome što radiš na mreži.
 firefox-browsers-download-for-desktop = Preuzmi za desktop
