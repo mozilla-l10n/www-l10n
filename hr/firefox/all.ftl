@@ -7,12 +7,12 @@
 
 firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
 firefox-all-release-notes = Napomene o izdanju
-firefox-all-source-code = Izvorni kȏd
+firefox-all-source-code = Izvorni kod
 firefox-all-need-help = Trebaš pomoć?
 firefox-all-which-browser-would = Koji preglednik želiš preuzeti?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Zatraži pomoć
-firefox-all-you-are-about-to-download = Preuzimaš:
+firefox-all-you-are-about-to-download = Preuzet ćeš:
 firefox-all-browser = Preglednik:
 firefox-all-platform = Platforma:
 firefox-all-language = Jezik:
@@ -46,8 +46,8 @@ firefox-all-choose-a-32-bit-installer = Odaberi 32-bitni instalacijski program z
 firefox-all-download-product-for = Preuzmi { $product_label } za { $platform } za { $locale }
 firefox-all-msi-installers = MSI instalacijski programi
 firefox-all-which-version = Koju verziju želiš?
-firefox-all-select-your-preferred-installer = Odaberi željeni instalacijski program
-firefox-all-select-your-preferred-language = Odaberi željeni jezik
+firefox-all-select-your-preferred-installer = Odaberi instalacijski program
+firefox-all-select-your-preferred-language = Odaberi jezik
 firefox-all-learn-about-installers = Saznaj o programima za instaliranje
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

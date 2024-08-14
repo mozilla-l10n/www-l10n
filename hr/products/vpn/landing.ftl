@@ -56,7 +56,7 @@ vpn-landing-invite-required-label = Obavezno
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = tvojeime@primjer.hr
 vpn-landing-invite-country-label = U kojoj zemlji živiš?
-vpn-landing-invite-language-label = Odaberi preferirani jezik.
+vpn-landing-invite-language-label = Odaberi jezik.
 vpn-landing-invite-your-information = Tvoji podaci će se koristiti samo za obavještavanje o dostupnosti za platformu.
 vpn-landing-invite-thanks-desc = Kada { -brand-name-mozilla-vpn } postane dostupna za tvoju regiju, poslat ćemo ti e-mail poruku.
 

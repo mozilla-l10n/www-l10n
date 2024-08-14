@@ -13,6 +13,7 @@ sub-navigation-brave = { -brand-name-brave }
 sub-navigation-compare-browsers = Usporedi preglednike
 sub-navigation-compare-mobile-browsers = Usporedi preglednike za mobilne uređaje
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } za desktop
+sub-navigation-release-notes = Napomene o izdanju
 sub-navigation-desktop = Desktop
 sub-navigation-mobile = Mobitel
 sub-navigation-android = { -brand-name-android }
