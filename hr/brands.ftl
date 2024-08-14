@@ -33,7 +33,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Firefox preglednik
 -brand-name-firefox-browsers = Firefox preglednici
 -brand-name-firefox-developer-edition = Firefox izdanje za programere
 -brand-name-firefox-enterprise = Firefox Enterprise
