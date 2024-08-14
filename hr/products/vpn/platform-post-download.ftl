@@ -11,6 +11,7 @@
 
 vpn-windows-download-page-title = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Preuzimanje { -brand-name-mozilla-vpn }-a za { -brand-name-windows } …
+vpn-windows-go-to-your-downloads = Otvori mapu preuzimanja i dvaput klikni na .msi datoteku
 
 ## Mac download page
 

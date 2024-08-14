@@ -43,6 +43,9 @@ vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand
 vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 i novije verzije)
 vpn-landing-faq-refund-question-heading = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
 vpn-landing-faq-manage-subscription-question-heading = Kako mogu upravljati svojom pretplatom?
+# Variables:
+#   $attrs (string) - link href and additional HTML attributes
+vpn-landing-faq-download-desc = Posjeti <a { $attrs }>stranicu za preuzimanje</a> kako bi instalirao/la { -brand-name-mozilla-vpn } na svoj uređaj, a zatim se prijavi koristeći tvoj { -brand-name-firefox-account }.
 vpn-landing-faq-link = Pogledaj još ČPP-a
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
