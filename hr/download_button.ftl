@@ -14,7 +14,7 @@ download-button-systems-languages = Sustavi i jezici
 download-button-recommended = Preporučeno
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } više ne pruža sigurnosna ažuriranja za { -brand-name-firefox } na { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }</a>, ali posljednju { -brand-name-windows } 32-bitnu inačicu možeš još uvijek preuzeti ispod.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } više ne pruža sigurnosna aktualiziranja za { -brand-name-firefox } na { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }</a>, ali zadnju { -brand-name-windows } 32-bitnu verziju možeš još uvijek preuzeti niže dolje.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 download-button-please-follow-these = Slijedi <a href="{ $url }">ove upute</a> za instaliranje preglednika { -brand-name-firefox }.
