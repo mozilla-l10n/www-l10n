@@ -49,5 +49,9 @@ download-a-different-build = Preuzmi drugu verziju
 
 download-button-linux-32-v2 = Preuzmi za 32-bitni Linux
 download-button-linux-64-v2 = Preuzmi za 64-bitni Linux
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Koristiš Debian, Ubuntu ili bilo koju distribuciju temeljenu na Debianu?<br> Umjesto toga možeš postaviti naš <a { $attrs }>APT repozitorij</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Nabavi ga od Microsofta
