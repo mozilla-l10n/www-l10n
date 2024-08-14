@@ -41,14 +41,14 @@ download-button-firefox-privacy-notice = { -brand-name-firefox } napomene o priv
 download-button-download = Preuzmi
 download-button-please-download-esr = Preuzmi { -brand-name-firefox-esr } (Izdanje proširene podrške) za korištenje { -brand-name-firefox }.
 download-firefox-esr = Preuzmi { -brand-name-firefox-esr }
-download-firefox-esr-32 = Preuzmi { -brand-name-firefox-esr } 32-bitni
-download-firefox-esr-64 = Preuzmi { -brand-name-firefox-esr } 64-bitni
+download-firefox-esr-32 = Preuzmi { -brand-name-firefox-esr } (32-bitni)
+download-firefox-esr-64 = Preuzmi { -brand-name-firefox-esr } (64-bitni)
 download-a-different-build = Preuzmi drugu verziju
 
 ## Linux
 
-download-button-linux-32-v2 = Preuzmi za 32-bitni Linux
-download-button-linux-64-v2 = Preuzmi za 64-bitni Linux
+download-button-linux-32-v2 = Preuzmi za Linux (32-bitni)
+download-button-linux-64-v2 = Preuzmi za Linux (64-bitni)
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated

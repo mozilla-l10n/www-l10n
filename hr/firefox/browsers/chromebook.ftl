@@ -16,7 +16,7 @@ browsers-chromebook-x86-based-chromebook = * x86 zasnovan { -brand-name-chromebo
 browsers-chromebook-dropdown-copy = Nabavi { -brand-name-firefox } za { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Zašto nabaviti <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
-browsers-chromebook-while-a-chromebook = Kad { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } kao preglednika za otvaranje pruža nekoliko pogodnosti:
+browsers-chromebook-while-a-chromebook = Mada { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } preglednika pruža nekoliko pogodnosti:
 browsers-chromebook-alwayson-tracking-protection = Uvijek uključena zaštita od praćenja: { -brand-name-firefox } standardno pokreće poboljšanu zaštitu od praćenja (ETP) kako bi zaštitio tvoje osobne podatke od poznatih programa za praćenje oglasa, društvenih programa za praćenje i skripta koje te prate na webu.
 browsers-chromebook-supporting-independent-technology = Podrška neovisnoj tehnologiji: budući da se većina glavnih preglednika sada pokreće na { -brand-name-chromium }, manje je opcija koje se ne uvlače u stroj Big Tech. { -brand-name-firefox } podržava neprofitna organizacija i zalaže se za popravljanje interneta. Korištenjem { -brand-name-firefox } preglednika čini te dijelom toga.
 browsers-chromebook-is-it-hard = Je li teško instalirati { -brand-name-firefox } za { -brand-name-chromebook }?

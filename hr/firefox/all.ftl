@@ -19,9 +19,9 @@ firefox-all-language = Jezik:
 firefox-all-lang-multi = Više jezika
 firefox-all-sorry-we-couldnt-find = Nažalost, nismo mogli pronaći preuzimanje koje tražiš. Pokušaj ponovo ili odaberi preuzimanje s donjeg popisa.
 firefox-all-the-pre-alpha-version = Pred-alfa verzija za napredne korisnike koji vole loviti programske greške i testirati novo kodirane funkcije.
-firefox-all-64-bit-installers = 64-bitni instalacijski programi
+firefox-all-64-bit-installers = Instalacijski programi (64-bitni)
 firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program za računala s 64-bitnim procesorima, koji će im omogućiti dodijeliti više RAM-a pojedinim programima – naročito važno za igre i ostale zahtjevne aplikacije.
-firefox-all-32-bit-installers = 32-bitni instalacijski programi
+firefox-all-32-bit-installers = Instalacijski programi (32-bitni)
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
 # HTML page description, also used as the introductory text.
@@ -35,8 +35,6 @@ firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { 
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } preglednikom, koji je izgrađen za poduzeća.
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 instaleri
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64 instaleri optimirani za Snapdragon-pogonjene { -brand-name-windows } PC-ove.
 firefox-all-product-send-link = Pošalji poveznicu za preuzimanje na svoj mobitel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
