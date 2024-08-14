@@ -38,6 +38,9 @@ firefox-enterprise-deployment-guide = Vodič za implementaciju
 firefox-enterprise-policy-documentation = Dokumentacija o politici
 firefox-enterprise-release-notes = Napomene o izdanju
 firefox-enterprise-documentation-and-community = Dokumentacija i podrška zajednice
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Primjer <a href="{ $url }">pliste za konfiguracijski profil</a>
 firefox-enterprise-pkg-installer = PKG instalacijski programi
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
