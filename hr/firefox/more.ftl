@@ -16,6 +16,7 @@ choose-which-firefox = Odaberi koji { -brand-name-firefox-browser } želite preu
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Mada { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } preglednika pruža nekoliko pogodnosti
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
+firefox-more-quantum-was-revolution = { -brand-name-firefox-quantum } je bila revolucija u razvoju { -brand-name-firefox }a. 2017. smo stvorili nov, munjevito brz preglednik koji se stalno poboljšava. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
 we-believe-everyone = Vjerujemo da bi svatko trebao imati pristup internetu – zato izrađujemo { -brand-name-firefox-browser } dostupnim na više od 90 jezika uz pomoć predanih volontera diljem svijeta.
 firefox-fights-for = { -brand-name-firefox } se bori za tebe na { -brand-name-windows }u
 easy-migration-of = Jednostavna migracija postavki i zabilježaka prilikom preuzimanja { -brand-name-firefox }a za { -brand-name-windows }.

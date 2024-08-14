@@ -6,7 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Preuzmi { -brand-name-firefox-quantum }
+page-description = { -brand-name-firefox-quantum } je bila revolucija. 2017. smo stvorili nov, munjevito brz preglednik koji se stalno poboljšava. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
 the-latest-firefox = Najnoviji { -brand-name-firefox } uređaj: { -brand-name-firefox-quantum }
+firefox-quantum-was = { -brand-name-firefox-quantum } je bila revolucija u razvoju { -brand-name-firefox }a. 2017. smo stvorili nov, munjevito brz preglednik koji se stalno poboljšava. { -brand-name-firefox-quantum } je { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Saznaj više o { -brand-name-firefox-quantum }
 privacy-first = Privatnost na prvom mjestu
