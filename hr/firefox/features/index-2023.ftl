@@ -36,3 +36,4 @@ features-index-ditch-the-sticky-ads = Riješi se oglasa koji te prate pomoću ug
 features-index-translate-the-web = Prevedi web
 features-index-translate-websites-to-your = Prevedi web stranice na svoj jezik izravno u svom { -brand-name-firefox } pregledniku – bez dijeljenja podataka s bilo kim.
 features-index-picture-in-picture = Slika-u-slici
+features-index-got-things-to-do = Imaš stvari za raditi i gledati? Koristi { -brand-name-firefox } funkciju slika-u-slici.
