@@ -7,5 +7,6 @@
 
 features-fingerprinting-fingerprint-blocking = Blokiranje digitalnih otisaka
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokira digitalne otiske
+features-fingerprinting-ditch-the-sticky = Riješi se oglasa koji te prate pomoću ugrađenih { -brand-name-firefox } blokatora digitalnih otisaka.
 features-fingerprinting-download-firefox = Preuzmi { -brand-name-firefox }
 features-fingerprinting-protect = Zaštiti svoju privatnost

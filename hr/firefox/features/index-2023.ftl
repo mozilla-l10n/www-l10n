@@ -30,6 +30,9 @@ features-index-pdf-editor = PDF uređivač
 features-index-view-and-edit-pdf-files = Prikaži i uredi PDF datoteke izravno u pregledniku { -brand-name-firefox }.
 features-index-fingerprint-blocking = Blokiranje digitalnih otisaka
 features-index-ad-tracker-blocking = Blokiranje praćenja putem oglasa
+features-index-firefox-automatically-blocks = { -brand-name-firefox } automatski blokira više od 2000 programa za praćenje putem oglasa da te prate na internetu.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Riješi se oglasa koji te prate pomoću ugrađenih { -brand-name-firefox } blokatora digitalnih otisaka.
 features-index-translate-the-web = Prevedi web
 features-index-translate-websites-to-your = Prevedi web stranice na svoj jezik izravno u svom { -brand-name-firefox } pregledniku – bez dijeljenja podataka s bilo kim.
 features-index-picture-in-picture = Slika-u-slici
