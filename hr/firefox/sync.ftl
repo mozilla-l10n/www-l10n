@@ -17,4 +17,8 @@ firefox-sync-we-store-your = Tvoje šifrirane podatke spremamo na naše servere 
 firefox-sync-start-syncing-in = Započni sinkronizaciju u četiri jednostavna koraka:
 firefox-sync-open-the-menu = Otvori izbornik u gornjem desnom kutu { -brand-name-firefox } i odaberi <strong>„Prijavi se na { -brand-name-sync }”</strong>.
 firefox-sync-click-get-started = Klikni „<strong>Započni</strong>” u kartici koja se otvorila.
-firefox-sync-enter-an-email = Upiši e-mail adresu i lozinku za <strong>„otvaranje računa { -brand-name-firefox-account }.”</strong>
+firefox-sync-enter-an-email = Upiši e-mail adresu i lozinku za <strong>„Stvori { -brand-name-firefox-account }.”</strong>
+firefox-sync-click-next-to = Klikni <strong>„Dalje”</strong> za primanje potvrde na tvoju e-mail adresu.
+firefox-sync-after-you-check = Nakon što klikneš poveznicu za potvrdu, { -brand-name-firefox } će automatski početi sinkronizirati u pozadini.
+# https://support.mozilla.org/kb/firefox-accounts-managing-account-data
+firefox-sync-learn-more = Dodatna pomoć za upravljanje tvojim { -brand-name-firefox-account }
