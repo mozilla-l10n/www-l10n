@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/sync/
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
+firefox-sync-access-and-sync = Pristupi tvojim podacima i sinkroniziraj svoje zabilješke, lozinke, otvorene kartice i više – gdje god koristiš { -brand-name-firefox }.
 firefox-sync-firefox = { -brand-name-firefox-browser }
 firefox-sync-sync-your-firefox = Sinkroniziraj svoj { -brand-name-firefox } na bilo kojem uređaju
 firefox-sync-privacy-made-easy = Jednostavna privatnost
