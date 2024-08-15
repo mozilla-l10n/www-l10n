@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Nabavi preglednik koji štiti ono št
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Bez nejasnih pravila o privatnosti ili oglašivača u pozadini. Jednostavno brz preglednik koji ne trguje tvojim podacima.
 firefox-desktop-download-download-options = Mogućnosti preuzimanja i drugi jezici
-firefox-desktop-download-browser-support = { -brand-name-firefox-browser } podrška
+firefox-desktop-download-browser-support = Podrška za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Radi što želiš online.<br> { -brand-name-firefox-browser } <strong>ne</strong> gleda.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } u usporedbi s drugim preglednicima
