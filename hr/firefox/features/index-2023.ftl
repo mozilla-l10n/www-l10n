@@ -7,6 +7,8 @@
 
 # HTML page title
 features-index-firefox-browser-features = Funkcije { -brand-name-firefox } preglednika
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je brz i lagan preglednik fokusiran na privatnost koji radi na svim tvojim uređajima.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
 features-index-the-latest-browser-speed-benchmarks = Najnovija mjerenja brzine preglednika dokazuju da je { -brand-name-firefox } brži nego ikada.
 features-index-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
@@ -32,7 +34,7 @@ features-index-fingerprint-blocking = Blokiranje digitalnih otisaka
 features-index-ad-tracker-blocking = Blokiranje praćenja putem oglasa
 features-index-firefox-automatically-blocks = { -brand-name-firefox } automatski blokira više od 2000 programa za praćenje putem oglasa da te prate na internetu.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
-features-index-ditch-the-sticky-ads = Riješi se oglasa koji te prate pomoću ugrađenih { -brand-name-firefox } blokatora digitalnih otisaka.
+features-index-ditch-the-sticky-ads = Riješi se oglasa koji te prate pomoću ugrađenih { -brand-name-firefox } blokera digitalnih otisaka.
 features-index-translate-the-web = Prevedi web
 features-index-translate-websites-to-your = Prevedi web stranice na svoj jezik izravno u svom { -brand-name-firefox } pregledniku – bez dijeljenja podataka s bilo kim.
 features-index-picture-in-picture = Slika-u-slici
