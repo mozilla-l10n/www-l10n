@@ -26,6 +26,7 @@ features-index-automatically-delete-cookies = Automatski izbriši kolačiće i p
 features-index-firefox-add-ons-and-browser-extensions = Dodaci i proširenja { -brand-name-firefox } preglednika
 features-index-add-new-tools-capabilities-and = Dodaj nove alate, mogućnosti i zabavne stvari u svoj preglednik.
 features-index-pinned-browser-tabs = Prikvačene kartice preglednika
+features-index-keep-your-favorite-pages-open = Ostavi svoje omiljene stranice otvorene i prijeđi na njih jednim klikom. Koristi prikvačene kartice za nadziranje tvoje e-pošte ili aplikacije za razmjenu poruka.
 features-index-eyedropper-tool = Kapaljka
 features-index-identify-the-exact-color-on-a = Identificiraj točnu boju na stranici i kopiraj njezin heksadecimalni kod.
 features-index-pdf-editor = PDF uređivač

@@ -7,3 +7,5 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Prikvačene kartice preglednika
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = Ostavi svoje omiljene stranice otvorene i prijeđi na njih jednim klikom. Koristi prikvačene kartice za nadziranje tvoje e-pošte ili aplikacije za razmjenu poruka.
