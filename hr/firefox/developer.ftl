@@ -74,6 +74,7 @@ firefox-developer-download-the-firefox-browser = Preuzmi { -brand-name-firefox }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletno obnovljen kako bi bio brži, elegantniji i moćniji nego ikad.
 firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
+firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji uz funkcije kao što su uređivač višeredne konzole i WebSocket inspektor.
 firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
