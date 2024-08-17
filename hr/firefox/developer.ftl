@@ -75,6 +75,7 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je kompletn
 firefox-developer-welcome-to-firefox-developer-edition = Dobro došao, dobro došla u { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Preglednik izrađen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji uz funkcije kao što su uređivač višeredne konzole i WebSocket inspektor.
+firefox-developer-a-separate-profile = <strong>Zasebni profil i staza</strong> tako da ga možeš jednostavno pokretati uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju za { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
