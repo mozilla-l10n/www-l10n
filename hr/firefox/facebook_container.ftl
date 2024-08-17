@@ -7,7 +7,7 @@
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } za { -brand-name-firefox } | Spriječi { -brand-name-facebook } da te prati na web stranicama koje posjećuješ.
 facebook-container-millions-of-people-around = Milijuni ljudi širom svijeta vjeruju { -brand-name-firefox } preglednicima za { -brand-name-android }, { -brand-name-ios } i desktop uređaje. Brz. Privatan. Preuzmi odmah!
-facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Dobro ograničen. Zadrži ostatak svoga života za sebe.
+facebook-container-facebook-well-contained-keep = Stavi { -brand-name-facebook } u kontejner i zaštiti svoju privatnost.
 facebook-container-get-the-facebook-container = Nabavi dodatak { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Preuzmi { -brand-name-firefox } i nabavi dodatak { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Proširenje { -brand-name-facebook-container } je trenutačno dostupno samo za { -brand-name-firefox } za desktop.
@@ -17,7 +17,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Posjeti <a href="{ $url }">{ $link_copy }</a> za nabavljanje preglednika { -brand-name-firefox } za desktop.
 facebook-container-get-firefox-android-ios = Nabavi { -brand-name-firefox } za { -brand-name-android } i { -brand-name-ios } sada.
-facebook-container-opt-out-on-your-terms = Isključi se po svojim uvjetima
+facebook-container-opt-out-on-your-terms = Isključi se pod svojim uvjetima
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-facebook-can-track-almost = { -brand-name-facebook } može pratiti gotovo sve tvoje web aktivnosti i povezati ih s tvojim { -brand-name-facebook } identitetom. Ukoliko ti je to previše, <a href="{ $fbcontainer }">dodatak { -brand-name-facebook-container }</a> izolira tvoj identitet u zasebnu karticu, što { -brand-name-facebook }u otežava praćenje tvojih radnji na ostalim web stranicama izvan { -brand-name-facebook }a.

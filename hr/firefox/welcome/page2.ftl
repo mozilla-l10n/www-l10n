@@ -7,6 +7,7 @@
 
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Spremi vijesti, videa, priče i još više
+welcome-page2-discover-and-save-stories = Otkrij i spremi priče u { -brand-name-pocket } – i čitaj ih se kad imaš vremena.
 welcome-page2-activate-pocket = Aktiviraj { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-discover-new-stories = Otkrij nove priče
