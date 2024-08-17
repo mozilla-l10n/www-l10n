@@ -51,7 +51,7 @@ vpn-landing-one-subscription-for-all-your = Jedna pretplata za sve tvoje uređaj
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Pokreće { -brand-name-mozilla }.</strong> Bori se za tvoje pravo na privatnost od 1998. godine.
 vpn-landing-learn-more-from-our-experts = Saznaj više od naših stručnjaka
-vpn-landing-do-you-need-a-vpn-at-home = Trebaš VPN kod kuće? Evo 5 razloga za to.
+vpn-landing-do-you-need-a-vpn-at-home = Je li potrebno imati VPN kod kuće? Evo 5 razloga zašto možda da.
 vpn-landing-what-is-an-ip-address = Što je IP adresa?
-vpn-landing-how-your-location-is-tracked = Kako se tvoja lokacija prati i kako možeš ograničiti dijeljenje lokacija
+vpn-landing-how-your-location-is-tracked = Kako se tvoja lokacija prati i kako možeš ograničiti dijeljenje lokacije
 vpn-landing-see-more-resources = Pogledaj još resursa
