@@ -66,14 +66,14 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook kontejner
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-devtools = Firefox alati za programere
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox sinkronizacija
 -brand-name-firefox-translations = Firefox prijevodi
 
 ## Firefox products (short names)
 
--brand-name-devtools = DevTools
+-brand-name-devtools = Alati za programere
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync = Sinkronizacija
