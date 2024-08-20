@@ -19,6 +19,7 @@ best-browser-a-browser-built-for = Ein nettlesar bygd for fart.
 best-browser-a-browser-is-still = Ein nettlesar er framleis eit verktøy, så det er fornuftig at du vil velje den beste for jobben. Viss du er ein person som må jobbe for å overleve, treng du ein rask nettlesar. Ein ting å hugse på er at ein nettlesar som køyrer tredjeparts-sporarar er meir sannsynlig å vere tregare enn ein nettlesar som ikkje gjer det. Tredjeparts-sporarar er infokapslar, og sjølv om du ikkje kan sjå dei, køyrer dei i bakgrunnen på nettstaden, og tek opp dyrebar tid. Dess fleire tredjeparts-sporarar ein nettlesar blokkerer, dess raskare kan han køyre.
 best-browser-this-is-one-of-the = Dette er ein av mange grunnar til å velje nettlesaren { -brand-name-firefox }: { -brand-name-firefox } blokkerer sporarar frå tredjepart som standard. Vi har andre grunnar, og vi kjem til å gå inn på dei seinare.
 best-browser-a-browser-that-puts = Ein nettlesar som set sikkerheita først.
+best-browser-remember-the-last-massive = Kjem du i hug den siste store datalekkasjen? Viss ikkje, så er det sannsynlegvis fordi datalekkasjar skjer så ofte. Verksemder oppbevarer kundedata til dømes i form av personlege og økonomiske opplysningar - og hackarar stel opplysningane. Om du prioriterer sikkerheit, er ein sikker nettlesar den beste nettlesaren for deg.
 best-browser-a-browser-that-minds = Ein nettlesar, som passar sine eigne saker.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
