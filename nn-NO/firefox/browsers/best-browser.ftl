@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -16,6 +16,7 @@ best-browser-when-you-use-a-browser = Når du brukar ein nettlesar til alt, så 
 best-browser-marshall-erwin-senior = Marshall Erwin, { -brand-name-mozilla }s direktør for sikkerheit og tillit
 best-browser-if-youre-wondering = Dersom du lurer på kva det vil seie å ha ein privat eller rask nettlesar, er dette ei oversikt over tre ting ein nettlesar bør ha.
 best-browser-a-browser-built-for = Ein nettlesar bygd for fart.
+best-browser-a-browser-is-still = Ein nettlesar er framleis eit verktøy, så det er fornuftig at du vil velje den beste for jobben. Viss du er ein person som må jobbe for å overleve, treng du ein rask nettlesar. Ein ting å hugse på er at ein nettlesar som køyrer tredjeparts-sporarar er meir sannsynlig å vere tregare enn ein nettlesar som ikkje gjer det. Tredjeparts-sporarar er infokapslar, og sjølv om du ikkje kan sjå dei, køyrer dei i bakgrunnen på nettstaden, og tek opp dyrebar tid. Dess fleire tredjeparts-sporarar ein nettlesar blokkerer, dess raskare kan han køyre.
 best-browser-a-browser-that-puts = Ein nettlesar som set sikkerheita først.
 best-browser-a-browser-that-minds = Ein nettlesar, som passar sine eigne saker.
 # Variables:
