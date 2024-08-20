@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Kaj je sledenje prstnemu odtisu brskalnika in zakaj bi ga morali blokirati
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Sledenje prstnim odtisom brskalnikov ("fingerprinting") je način sledenja na spletu, ki je invazivnejši od običajnega sledenja s piškotki – zato ga { -brand-name-firefox-browser } preprečuje.
+features-fingerprinting-fingerprint-blocking = Zavračanje sledilcev prstnih odtisov
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } zavrača sledenje prstnim odtisom
 features-fingerprinting-ditch-the-sticky = Otresite se oglasov, ki so se prilepili na vas, z vgrajenim zavračanjem sledilcev prstnega odtisa v { -brand-name-firefox(sklon: "mestnik") }.
 # description for the header image
