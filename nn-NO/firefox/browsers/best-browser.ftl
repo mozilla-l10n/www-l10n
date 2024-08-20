@@ -20,6 +20,11 @@ best-browser-a-browser-is-still = Ein nettlesar er framleis eit verktøy, så de
 best-browser-this-is-one-of-the = Dette er ein av mange grunnar til å velje nettlesaren { -brand-name-firefox }: { -brand-name-firefox } blokkerer sporarar frå tredjepart som standard. Vi har andre grunnar, og vi kjem til å gå inn på dei seinare.
 best-browser-a-browser-that-puts = Ein nettlesar som set sikkerheita først.
 best-browser-remember-the-last-massive = Kjem du i hug den siste store datalekkasjen? Viss ikkje, så er det sannsynlegvis fordi datalekkasjar skjer så ofte. Verksemder oppbevarer kundedata til dømes i form av personlege og økonomiske opplysningar - og hackarar stel opplysningane. Om du prioriterer sikkerheit, er ein sikker nettlesar den beste nettlesaren for deg.
+best-browser-there-are-a-few-ways = Det er nokre måtar ein nettlesar kan hjelpe brukarane med å halde seg sikre på. Ein nettlesar som er oppdatert med den nyaste sikkerheits-teknologien kan bidra til å beskytte datamaskina og nettstadane dine mot uønskte besøkande, som til dømes skadeleg programvare eller datavirus.
+# Variables:
+# $data (url) - link to https://www.mozilla.org/privacy/firefox/
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-the-second-is-not-storing = Den andre er å ikkje lagre for mykje brukardata. Hackarar kan ikkje stele det som ikkje er der, og det er difor { -brand-name-firefox } berre beheld ei viss minimum-mengd av informasjon om brukarane sine. <a href="{ $data }">{ -brand-name-firefox } veit</a> om du brukar nettlesaren og den generelle plasseringa di <a href="{ $privacy }"> men ikkje namnet på husdyra til borna dine, eller favorittfargen din. </a>
 best-browser-a-browser-that-minds = Ein nettlesar, som passar sine eigne saker.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
