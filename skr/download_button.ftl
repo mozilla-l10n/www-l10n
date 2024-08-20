@@ -52,13 +52,11 @@ download-a-different-build = ہک مختلف بلڈ ڈاؤن لوڈ کرو
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32-bit ڈاؤن لوڈ کرو
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64-bit ڈاؤن لوڈ کرو
 download-button-linux-32-v2 = لائنکس 32 بٹ کیتے ڈاؤن لوڈ کرو
 download-button-linux-64-v2 = لائنکس 64 بٹ کیتے ڈاؤن لوڈ کرو
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = ڈیبیان، یوبنٹو یا ڈیبیان اُتے مبنی کُئی ون٘ڈ استعمال کرین٘دے پئے ہِیوے؟<br>تُساں اِین٘دے کنوں اَن٘ج اَساݙا <a { $attrs }>اے پی ٹی ترتیب ݙے سڳدے ہِیوے</a>۔
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = ایہ مائیکروسافٹ کنوں گھنو
