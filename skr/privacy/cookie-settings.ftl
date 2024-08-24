@@ -16,6 +16,7 @@ cookie-settings-i-do-not-agree = میں راضی کائنی
 ## Necessary cookies section
 
 cookie-settings-category-necessary-heading = ضروری
+cookie-settings-category-necessary-what-are-subheading = ضروری کوکیاں کیا ہن؟
 
 ## Preference cookies section
 
