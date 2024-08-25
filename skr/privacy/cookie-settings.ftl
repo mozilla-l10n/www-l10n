@@ -21,6 +21,7 @@ cookie-settings-category-necessary-what-are-subheading = ضروری کوکیاں
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = ترجیح
+cookie-settings-category-preference-what-are-subheading = ترجیح کوکیاں کیا ہن؟
 
 ## Analytics cookies section
 

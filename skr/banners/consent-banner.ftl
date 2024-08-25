@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
+consent-banner-heading = آپݨاں { -brand-name-mozilla } تجربہ بہتر بݨاؤ، ساݙی مدد کرو
 consent-banner-button-reject = ساریاں وادھوں کوکیاں مسترد کرو
 consent-banner-button-accept = ساریاں وادھوں کوکیاں قبول کرو
 consent-banner-settings-link = کوکی ترتیباں
