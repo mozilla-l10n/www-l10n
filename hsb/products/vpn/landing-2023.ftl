@@ -14,7 +14,10 @@ vpn-landing-desc = Wužiwajće { -brand-name-mozilla-vpn } za dospołny škit sw
 vpn-landing-powerful-privacy-for-peace = Wukonliwa priwatnosć za dušiny měr
 vpn-landing-whats-a-vpn = Što je VPN?
 vpn-landing-a-virtual-private-network-protects = Wirtualna priwatna syć waš zwisk z internetom škita a wobchowuje waše stejnišćo a štož online priwatnišo na wšěch wašich gratach činiće.
+vpn-landing-see-all-the-ways-mozilla-vpn = Wobhladajće sej wšě móžnosće, z kotrymiž { -brand-name-mozilla-vpn } wam škita.
 vpn-landing-how-a-vpn-helps-you = Kak VPN wam pomha
+vpn-landing-keeps-your-data-safe = Dźerži waše daty wěste w zjawnym WLAN
+vpn-landing-log-in-to-your-bank-or = Přizjewće so pola swojeje banki abo praksy lěkarja wot lětanišća, kofejownje abo wot druhdźe z dušinym měrom.
 vpn-landing-helps-you-access-global = Zmóžnja wam přistup ke globalnemu wobsahej
 vpn-landing-features = Funkcije
 # Variables:
