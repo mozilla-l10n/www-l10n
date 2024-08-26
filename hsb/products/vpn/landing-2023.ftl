@@ -11,7 +11,9 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły grat
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = Wužiwajće { -brand-name-mozilla-vpn } za dospołny škit swojeho grata za wšě nałoženja. Ze serwerami w přez { $countries } krajach, móžeće do něhdźe a wot něhdźe zwjazać.
+vpn-landing-powerful-privacy-for-peace = Wukonliwa priwatnosć za dušiny měr
 vpn-landing-whats-a-vpn = Što je VPN?
+vpn-landing-a-virtual-private-network-protects = Wirtualna priwatna syć waš zwisk z internetom škita a wobchowuje waše stejnišćo a štož online priwatnišo na wšěch wašich gratach činiće.
 vpn-landing-how-a-vpn-helps-you = Kak VPN wam pomha
 vpn-landing-helps-you-access-global = Zmóžnja wam přistup ke globalnemu wobsahej
 vpn-landing-features = Funkcije
