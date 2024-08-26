@@ -10,7 +10,7 @@ vpn-landing-page-title = { -brand-name-mozilla-vpn }: Škitajće swój cyły gra
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-page-desc = Wužiwajće { -brand-name-mozilla-vpn } za dospołny škit swojeho grata za wšykne nałoženja. Ze serwerami w přez { $countries } krajach, móžeće do něhdźe a wot něhdźe zwjazać.
+vpn-landing-page-desc = Wužiwajće { -brand-name-mozilla-vpn } za dospołny škit swojeho grata za wšě nałoženja. Ze serwerami w přez { $countries } krajach, móžeće do něhdźe a wot něhdźe zwjazać.
 vpn-landing-hero-sub-heading-v2 = Wěstota, spušćomnosć a spěšnosć – na kóždym graće, wšudźe.
 vpn-landing-hero-desc = Wirtualna priwatna syć wot wuwiwarjow { -brand-name-firefox }.
 vpn-landing-privacy-heading = Priwatnosć z jednym podótkom
