@@ -64,7 +64,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról, és a számunkra fontos kérdésekről.
 navigation-v2-more-about-mozilla = További információk a { -brand-name-mozilla(ending: "accented") }ról
 navigation-v2-impact = Hatás
-navigation-v2-find-out-how = Tudja meg, hogyan csináljuk az internetet befogadóbbá és fenntarthatóbbá
+navigation-v2-find-out-how = Tudja meg, hogyan tesszük az internetet befogadóbbá és fenntarthatóbbá
 
 ## Innovation menu
 

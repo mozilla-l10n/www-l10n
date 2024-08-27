@@ -11,22 +11,16 @@ home-mission-driven = Küldetésvezérelt. Emberi erővel.
 home-were-not-normal = Nem egy szokványos technológiai vállalat vagyunk. Az általunk létrehozott dolgok az embereket és az adatvédelmet a haszon elé helyezik. Azért vagyunk, hogy az internetet egy egészségesebb, boldogabb hellyé tegyük, mindenki számára.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Az internet és az online élet egészsége a létünk.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, a { -brand-name-mozilla } vezérigazgatója
 home-mitchell-baker-v2 = Mitchell Baker, az igazgatóság ügyvezető elnöke, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = A { -brand-name-mozilla } az adatvédelmet szem előtt tartó termékeket készít
 home-product-firefox-browsing = Privát és biztonságos böngészés
 home-cta-get-firefox = { -brand-name-firefox } beszerzése
 home-product-pocket-articles = A web legérdekesebb cikkei
 home-cta-get-pocket = { -brand-name-pocket } beszerzése
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Egyszerűen használható e-mail- és telefonmaszkok
 home-product-relay-hide-your = Rejtse el telefonszámát és e-mail-címét a spammerek elől
 home-cta-get-relay = { -brand-name-relay } beszerzése
 home-product-vpn-trust = Egy VPN, amelyben megbízhat
 home-cta-get-vpn = { -brand-name-mozilla-vpn } beszerzése
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Adatvédelmi incidensek figyelmeztetései
 home-product-monitor-protect-your = Védje meg adatait az adatbrókerektől
 home-cta-get-monitor = A { -brand-name-monitor } beszerzése
 home-product-fakespot-detect = Észlelje a hamis vásárlási értékeléseket
@@ -37,15 +31,11 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Csatlakozzon hozzánk a megbízható MI formálásában
 home-work-on-ai = A { -brand-name-mozilla } mesterséges intelligenciával kapcsolatos munkája nem csak egy új dolog – éveket töltöttünk a nyílt, tisztességes és felelősségteljesen fejlődő MI finanszírozásával, építésével és támogatásával. Arra fókuszálunk, hogy olyan MI-t hozzunk létre, amely az embereket szolgálja, előtérbe helyezi az átláthatóságot, és a közjót támogatja, nem a vállalati célokat.
 home-read-more = Bővebben
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = A { -brand-name-mozilla } egy vállalat vagy egy nonprofit szervezet? Valójában mindkettő.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = A { -brand-name-mozilla } két szervezetből áll. A { -brand-name-mozilla-corporation } teljes egészében a nonprofit { -brand-name-mozilla-foundation } tulajdonában van. Ami azt jelenti, hogy nem kell megfelelnünk részvényeseknek – csak a küldetésünknek.
 home-so-what-is-mozilla = Tehát, mi is a { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = Középpontjában a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal hoz változást a világban, többek között a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures }</a> és <a { $mozai }> { -brand-name-mozilla-ai }</a>. Miben különbözünk? Mivel küldetésvezéreltek vagyunk, ez azt jelenti, hogy szabadságunkban van meghozni döntéseinket az internetnek és mindenki számára online legjobbaja szerint, nem a részvényesek igényei alapján – valójában ilyenek nálunk nincsenek.
+home-at-its-core = A lényegét tekintve, a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal, többek között a { -brand-name-mozilla-corporation }, az MZLA, a <a { $ventures }> { -brand-name-mozilla-ventures }</a> és a <a { $mozai }> { -brand-name-mozilla-ai }</a> segítségével, hoz változást a világban. Miben különbözünk? Mivel a küldetésünk vezérel minket, ez azt jelenti, hogy szabadon tudjuk meghozni a döntéseinket, az alapján, hogy mi a legjobb az internet és mindenki számára, nem pedig a részvényesek igényei alapján – valójában nálunk nincsenek is ilyenek.
 home-learn-about-mofo = Tudjon meg többet a { -brand-name-mozilla-foundation }ról
 home-join-the-fight = Csatlakozzon az egészséges internetért vívott harchoz
 home-your-voice-your-code = Az Ön hangja. Az Ön kódja. Az Ön ötletei. Szó szerint ezernyi módon működhet közre a { -brand-name-mozilla } projektjeiben.
