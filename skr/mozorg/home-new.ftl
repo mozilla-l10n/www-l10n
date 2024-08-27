@@ -26,6 +26,7 @@ home-mozilla-takes-bets = "{ -brand-name-mozilla }دُنیاں کو اِیہ ݙ�
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-read-more = ٻیا پڑھو
+home-so-what-is-mozilla = تے، { -brand-name-mozilla } کیا ہے؟
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
 home-your-voice-your-code = تُہاݙی اواز۔ تُہاݙا کوڈ۔ تُہاݙے وِچار۔ اِتّھاں لوّظی طور تے ہزاراں طریقے ہِن جِنّھاں نال تُساں { -brand-name-mozilla } وِچ تعاون کر سڳدے ہِیوے۔
