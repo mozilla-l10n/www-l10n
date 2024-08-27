@@ -5,13 +5,14 @@
 newsletter-form-please-enter-a-valid = โปรดป้อนที่อยู่อีเมลที่ถูกต้อง
 newsletter-form-you-must-agree-to = คุณต้องยอมรับประกาศความเป็นส่วนตัว
 newsletter-form-your-email-address = ที่อยู่อีเมลของคุณ
+newsletter-form-we-are-sorry-but-there = ขออภัย มีปัญหาเกิดขึ้นกับระบบของเรา โปรดลองอีกครั้งในภายหลัง!
+newsletter-form-please-select-country = กรุณาเลือกประเทศหรือภูมิภาค
+newsletter-form-please-select-language = กรุณาเลือกภาษา
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = เลือกประเทศหรือภูมิภาค
+newsletter-form-select-language = เลือกภาษา
 newsletter-form-your-email-here = อีเมลของคุณที่นี่
-newsletter-form-format = รูปแบบ
-newsletter-form-html = HTML
-newsletter-form-text = ข้อความ
 newsletter-form-get-firefox-news = รับข่าว { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -28,5 +29,12 @@ newsletter-form-select-country = เลือกประเทศ
 newsletter-form-sign-me-up = ลงทะเบียน
 newsletter-form-sign-up-now = ลงทะเบียนตอนนี้
 newsletter-form-thanks = ขอบคุณ!
+newsletter-form-leave-this-field-empty = เว้นช่องนี้ว่างไว้
 newsletter-form-yes = ใช่
 newsletter-form-no = ไม่
+multi-newsletter-form-checkboxes-legend = ฉันต้องการข้อมูลเกี่ยวกับ:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = กรุณาเลือกจดหมายข่าวอย่างน้อยหนึ่งข้อ
+multi-newsletter-form-title = รักเว็บ
+multi-newsletter-form-desc = รับจดหมายข่าว { -brand-name-mozilla } และช่วยเราดูแลโลกแห่งเว็บให้เปิดกว้างและเสรีอยู่เสมอ

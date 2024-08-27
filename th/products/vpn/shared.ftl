@@ -19,9 +19,25 @@ vpn-shared-money-back-guarantee = รับประกันคืนเงิ�
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-button = ดูราคาและพื้นที่ให้บริการ
-
-## VPN Affiliate cookie notice
-
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = VPN คืออะไร?
+vpn-subnav-faqs = คำถามที่พบบ่อย
+vpn-subnav-get-help = รับความช่วยเหลือ
+vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = เดสก์ท็อป
+vpn-subnav-platform-ios = { -brand-name-ios }
+vpn-subnav-platform-linux = { -brand-name-linux }
+vpn-subnav-platform-mac = { -brand-name-mac-short }
+vpn-subnav-platform-mobile = มือถือ
+vpn-subnav-platform-windows = { -brand-name-windows }
+vpn-subnav-whats-an-ip-address = ที่อยู่ IP คืออะไร?
+vpn-subnav-when-to-use-a-vpn = เมื่อไรควรใช้ VPN
+vpn-subnav-vpn-vs-proxy = VPN เทียบกับพร็อกซี
+vpn-subnav-subscribe = สมัครสมาชิก { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = เรียนรู้เกี่ยวกับ VPN
+vpn-subnav-download-mozilla-vpn = ดาวน์โหลด { -brand-name-mozilla-vpn }
+vpn-subnav-features = คุณลักษณะ
 
 ## VPN + Relay bundle offer
 
