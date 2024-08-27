@@ -16,5 +16,6 @@ vpn-landing-features = Магчымасці
 vpn-landing-fram-a-brand-you-can-trust = Ад брэнда, якому можна давяраць
 vpn-landing-one-subscription-for-all-your = Адна падпіска для ўсіх вашых прылад
 vpn-landing-learn-more-from-our-experts = Даведайцеся больш у нашых экспертаў
+vpn-landing-do-you-need-a-vpn-at-home = Ці патрэбен вам VPN дома? Вось 5 прычын.
 vpn-landing-what-is-an-ip-address = Што такое IP-адрас?
 vpn-landing-see-more-resources = Паглядзець іншыя рэсурсы
