@@ -39,8 +39,24 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> สำหร�
 download-button-firefox-privacy = ประกาศความเป็นส่วนตัวจาก { -brand-name-firefox }
 download-button-firefox-privacy-notice = ประกาศความเป็นส่วนตัวของ { -brand-name-firefox }
 download-button-download = ดาวน์โหลด
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">ไม่รองรับ</a>บน { $os_version } และรุ่นที่ต่ำกว่าอีกต่อไปแล้ว
+download-button-please-download-esr = กรุณาดาวน์โหลด { -brand-name-firefox-esr } (Extended Support Release) เพื่อใช้ { -brand-name-firefox }
+download-firefox-esr = ดาวน์โหลด { -brand-name-firefox-esr }
+download-firefox-esr-32 = ดาวน์โหลด { -brand-name-firefox-esr } 32 บิต
+download-firefox-esr-64 = ดาวน์โหลด { -brand-name-firefox-esr } 64 บิต
+download-a-different-build = ดาวน์โหลดรุ่นอื่น
 
 ## Linux
 
 download-button-linux-32-v2 = ดาวน์โหลดสำหรับ Linux 32-bit​​​​​​​​​​​​​​​​
 download-button-linux-64-v2 = ดาวน์โหลดสำหรับ Linux 64-bit​​​​​​​​​​​​​​​​
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = ใช้ Debian, Ubuntu หรือชุดเผยแพร่อื่นๆ ที่มีพื้นฐานจาก Debian อยู่ใช่ไหม?<br> คุณสามารถตั้งค่า<a { $attrs }>คลังแพคเกจ APT ของเราแทน</a>ได้
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = รับจาก Microsoft

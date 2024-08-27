@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } สำหรับ { -br
 navigation-v2-get-the-mobile-browser = รับเบราว์เซอร์มือถือสำหรับ { -brand-name-iphone } หรือ { -brand-name-ipad } ของคุณ
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = เปิดเว็บมือถือแบบส่วนตัวง่ายๆ
-navigation-v2-privacy-promise = คำมั่นสัญญาเกี่ยวกับความเป็นส่วนตัว
-navigation-v2-learn-how-firefox-treats = เรียนรู้ว่า { -brand-name-firefox } จัดการกับข้อมูลของคุณด้วยความเคารพอย่างไรบ้าง
 navigation-v2-firefox-blog = บล็อก { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = อ่านเกี่ยวกับคุณลักษณะใหม่ของ { -brand-name-firefox } และวิธีรักษาความปลอดภัยบนโลกออนไลน์
 navigation-v2-release-notes = บันทึกประจำรุ่น
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = ดู{ -brand-name-firefox-browsers }
 navigation-v2-products = ผลิตภัณฑ์
 navigation-v2-close-products-menu = ปิดเมนู “ผลิตภัณฑ์”
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ดูว่าอีเมลของคุณปรากฏอยู่ในข้อมูลที่รั่วไหลของบริษัทใดบริษัทหนึ่งหรือไม่
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = บันทึกและค้นพบเรื่องราวที่ดีที่สุดจากเว็บทั่วโลก
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = ช่วยป้องกัน { -brand-name-facebook } ไม่ให้รวบรวมข้อมูลของคุณในไซต์อื่น
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = รับการป้องกันในเบราว์เซอร์ของคุณบนอุปกรณ์ทุกเครื่อง
-navigation-v2-product-promise = คำมั่นสัญญาเกี่ยวกับผลิตภัณฑ์
-navigation-v2-learn-how-each-firefox-product = เรียนรู้ว่าผลิตภัณฑ์ { -brand-name-firefox } แต่ละตัวปกป้องและเคารพข้อมูลของคุณอย่างไรบ้าง
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (เบต้า)
 navigation-v2-sign-up-for-new-accounts = ลงทะเบียนสำหรับบัญชีใหม่โดยไม่ต้องส่งที่อยู่อีเมลของคุณ
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = คุณลักษณะและเครื่องมือใหม่สำหรับประสบการณ์ { -brand-name-mdn } ที่กำหนดเอง
 navigation-v2-view-all-products = ดูผลิตภัณฑ์ทั้งหมด
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = ใช้ AI เพื่อตรวจจับบทวิจารณ์ปลอมและการหลอกลวง
 
 ## Who We Are menu
 
