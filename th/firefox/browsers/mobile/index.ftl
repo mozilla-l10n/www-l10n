@@ -20,14 +20,9 @@ browsers-mobile-get-enhanced-tracking-protection = รับการป้อ�
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = กำลังมองหาเบราว์เซอร์มือถือที่มีประสิทธิภาพและรวดเร็วพร้อมคุณลักษณะความเป็นส่วนตัวที่ล้ำหน้าอยู่ใช่ไหม? { -brand-name-firefox-focus } จะลบประวัติการเข้าชมทั้งหมดของคุณโดยอัตโนมัติตั้งแต่วินาทีแรกที่คุณเปิดเบราว์เซอร์จนถึงวินาทีที่คุณปิด
 browsers-mobile-compare = เปรียบเทียบ
-browsers-mobile-see-how-firefox-for-desktop-stacks = ดูว่า { -brand-name-firefox } สำหรับเดสก์ท็อปเหนือชั้นกว่าเบราว์เซอร์อื่นๆ ทั้งเจ็ดอย่างไรบ้าง
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = ดูว่า { -brand-name-firefox } สำหรับเดสก์ท็อปเหนือชั้นกว่าเบราว์เซอร์อื่นๆ อย่างไรบ้าง
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = ดูว่า { -brand-name-firefox } สำหรับ<strong>เดสก์ท็อป</strong>เหนือชั้นกว่าเบราว์เซอร์อื่นๆ ทั้งเจ็ดอย่างไรบ้าง
-browsers-mobile-join-firefox-and-get-the-most = เข้าร่วม { -brand-name-firefox } และรับประโยชน์สูงสุดจากทุกผลิตภัณฑ์ — ทุกอุปกรณ์
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-browsers-mobile-already-have-an-account-sign = มีบัญชีอยู่แล้ว? <a { $fxa_attr }>ลงชื่อเข้า</a>หรือ<a { $accounts_attr }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-firefox }
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = ดูว่า { -brand-name-firefox } สำหรับ<strong>เดสก์ท็อป</strong>เหนือชั้นกว่าเบราว์เซอร์อื่นๆ อย่างไรบ้าง
 browsers-mobile-download = ดาวน์โหลด
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
