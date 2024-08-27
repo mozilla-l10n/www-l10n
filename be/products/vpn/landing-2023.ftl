@@ -7,8 +7,14 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: абараніце ўсю сваю прыладу
+vpn-landing-powerful-privacy-for-peace = Магутная прыватнасць для душэўнага спакою
 vpn-landing-whats-a-vpn = Што такое VPN?
+vpn-landing-a-virtual-private-network-protects = Віртуальная прыватная сетка абараняе ваша падключэнне к інтэрнэту, трымаючы больш прыватным ваша месцазнаходжанне і тое, што вы робіце ў сеціве, на ўсіх вашых прыладах.
+vpn-landing-see-all-the-ways-mozilla-vpn = Паглядзіце, як { -brand-name-mozilla-vpn } абараняе вас.
+vpn-landing-how-a-vpn-helps-you = Як вам дапамагае VPN
 vpn-landing-features = Магчымасці
+vpn-landing-fram-a-brand-you-can-trust = Ад брэнда, якому можна давяраць
 vpn-landing-one-subscription-for-all-your = Адна падпіска для ўсіх вашых прылад
+vpn-landing-learn-more-from-our-experts = Даведайцеся больш у нашых экспертаў
 vpn-landing-what-is-an-ip-address = Што такое IP-адрас?
 vpn-landing-see-more-resources = Паглядзець іншыя рэсурсы
