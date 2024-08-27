@@ -6,15 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-firefox = เป็นมากกว่าเบราว์เซอร์ - { -brand-name-firefox-monitor } คือผู้ช่วยเฝ้าระวังแฮกเกอร์ของคุณ
+welcome-page1-more-than-a-browser-mozilla = เป็นมากกว่าเบราว์เซอร์ - { -brand-name-mozilla-monitor } คือผู้ช่วยเฝ้าระวังแฮกเกอร์ของคุณ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = ทำขั้นตอนต่อไปเพื่อปกป้องตัวคุณเองในโลกออนไลน์ด้วยตระกูลผลิตภัณฑ์ของ { -brand-name-firefox }
-welcome-page1-stay-ahead-of-hackers-check = ปลอดภัยจากแฮกเกอร์อยู่เสมอ ตรวจสอบการรั่วไหลของข้อมูลด้วย { -brand-name-firefox-monitor }
+welcome-page1-stay-ahead-of-hackers-check-v2 = ปลอดภัยจากแฮกเกอร์อยู่เสมอ ตรวจสอบการรั่วไหลของข้อมูลด้วย { -brand-name-mozilla-monitor }
 welcome-page1-youre-on-track-to-stay-protected = คุณอยู่ในเส้นทางที่จะได้รับการปกป้องแล้ว
 welcome-page1-youve-got-the-web-browser = คุณได้รับเบราว์เซอร์ที่ปกป้องความเป็นส่วนตัวของคุณแล้ว ตอนนี้ได้เวลาเฝ้าระวังเหล่าแฮกเกอร์ทั้งหลายแล้ว
 welcome-page1-check-your-breach-report = ตรวจสอบรายงานการรั่วไหลของคุณ
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } จะแสดงให้คุณเห็นเมื่อข้อมูลของคุณมีการรั่วไหล และจะเตือนคุณเมื่อการรั่วไหลเกิดขึ้นในอนาคต
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } จะแสดงให้คุณเห็นเมื่อข้อมูลของคุณมีการรั่วไหล และจะเตือนคุณเมื่อการรั่วไหลเกิดขึ้นในอนาคต
 welcome-page1-stay-ahead-of-hackers = ป้องกันแฮกเกอร์
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
