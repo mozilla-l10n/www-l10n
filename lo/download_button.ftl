@@ -52,5 +52,7 @@ download-a-different-build = ດາວ​ໂຫຼດ​ການ​ສ້າງ
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = ດາວໂຫລດ { -brand-name-linux } 32-bit
+download-button-linux-32-v2 = ດາວໂຫລດສໍາລັບ Linux 32-bit
+download-button-linux-64-v2 = ດາວໂຫລດສໍາລັບ Linux 64-bit
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = ຮັບຈາກ Microsoft
