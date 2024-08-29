@@ -22,10 +22,6 @@ firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
 firefox-desktop-download-yes = Ҳа
 firefox-desktop-download-no = Не
 firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
-# Obsolete string
-firefox-desktop-love-your-life = Ҳаёти худро дар Интернет дӯст доред
-# Obsolete string
-firefox-desktop-download-master-password = Ниҳонвожаи хусусӣ
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
 firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
@@ -77,14 +73,12 @@ firefox-desktop-download-questions = Савол дошта бошед? <a { $att
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Қариб тайёр аст!
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
-firefox-desktop-download-taskbar = Браузери «{ -brand-name-firefox }» ба навори вазифаи «{ -brand-name-windows }» пас аз насб васл карда мешавад
