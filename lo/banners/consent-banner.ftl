@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
+consent-banner-heading = ຊ່ວຍພວກເຮົາປັບປຸງການໃຊ້ງານ { -brand-name-mozilla } ຂອງທ່ານ
 consent-banner-button-reject = ປະຕິເສດ cookies ເພີ່ມເຕີມທັງຫມົດ
 consent-banner-button-accept = ຍອມຮັບ cookies ເພີ່ມເຕີມທັງຫມົດ
 consent-banner-settings-link = ການຕັ້ງຄ່າຄຸກກີ

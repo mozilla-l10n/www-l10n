@@ -10,6 +10,8 @@ firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບ�
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
 firefox-accounts-manage = ຈັດການບັນຊີຂອງທ່ານ
 mozilla-account-header = { -brand-name-mozilla-account }
+# This is followed by a list of things you can do with your Mozilla account
+mozilla-account-sign-in-to = ເຂົ້າສູ່ລະບົບ { -brand-name-mozilla-account } ຂອງທ່ານເພື່ອ:
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">ສົ່ງແຖບ</a> ໄປຫາອຸປະກອນອື່ນ
