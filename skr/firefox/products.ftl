@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } دیاں مصنوع�
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
 firefox-products-products = مصنوعات
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے۔
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
 
 ## Firefox
@@ -46,6 +44,7 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = سپورٹ { -brand-name-mdn }
 
 ## Thunderbird
 
@@ -59,6 +58,4 @@ firefox-products-fakespot = { -brand-name-fakespot }
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = ویب تے بہترین مواد دریافت کرو — تے اونکوں جتھاں تے جݙاں چاہو استعمال کرو۔
 firefox-products-get-pocket = { -brand-name-pocket } گھنو
