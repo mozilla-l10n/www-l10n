@@ -125,14 +125,6 @@ vpn-subnav-learn-about-vpns = Preberite več o VPN-jih
 vpn-subnav-download-mozilla-vpn = Prenesite { -brand-name-mozilla-vpn }
 vpn-subnav-features = Zmožnosti
 
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Piškotke uporabljamo, da izvemo, preko katerega od naših partnerjev ste izvedeli za { -brand-name-mozilla-vpn }. S partnerji ne delimo nobenih podatkov, na podlagi katerih bi vas bilo možno prepoznati. Preberite našo <a { $attrs }>politiko zasebnosti</a>.
-vpn-shared-affiliate-notification-reject = Zavrni
-vpn-shared-affiliate-notification-ok = V redu
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Okrepite svojo zasebnost z { -brand-name-vpn } + { -brand-name-relay }
@@ -158,3 +150,11 @@ vpn-press-as-seen-in = O nas so napisali
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } trenutno ni na voljo v jeziku { $language }, lahko pa ga uporabljate v angleščini, francoščini, nemščini, španščini in <a { $href }>več kot 30 drugih jezikih</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Želite pomagati približati { -brand-name-mozilla-vpn } več ljudem? <a { $href }>Postanite prostovoljni prevajalec</a>.
