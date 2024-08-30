@@ -13,17 +13,29 @@ firefox-all-download-the-firefox = Prenesite { -brand-name-firefox-browser } v s
 firefox-all-everyone-deserves-access-v2 = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox } v preko 90 jezikih.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
+firefox-all-choose-browser = Za nadaljevanje izberite brskalnik
+firefox-all-choose-platform = Za nadaljevanje izberite platformo
+firefox-all-choose-language = Za nadaljevanje izberite jezik
+firefox-all-change-browser = Izberite drug izdelek
+firefox-all-change-platform = Izberite drugo platformo
+firefox-all-change-language = Izberite drug jezik
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Izberite s spodnjega seznama
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoč
-firefox-all-browser = Brskalnik:
-firefox-all-platform = Platforma:
-firefox-all-language = Jezik:
+firefox-all-browser = 1. Brskalnik:
+firefox-all-platform = 2. Platforma:
+firefox-all-language = 3. Jezik:
+firefox-all-download = 4. Prenos:
+firefox-all-recommended = (priporočeno)
 firefox-all-lang-multi = Več jezikov
+firefox-all-plat-mobile = Android in iOS
 firefox-all-sorry-we-couldnt-find = Oprostite, ne najdemo datoteke, ki jo želite prenesti. Poskusite znova ali izberite prenos s spodnjega seznama.
 firefox-all-the-pre-alpha-version = Predizdaja za napredne uporabnike, ki radi preizkušajo stabilnost brskalnika in nove možnosti.
 firefox-all-64-bit-installers = 64-bitni namestitveni programi
 firefox-all-choose-a-64-bit-installer = Izberite 64-bitni namestitveni program za računalnike s 64-bitnim procesorjem, ki omogoča dodelitev več pomnilnika posameznim programom – zlasti pomembno za igre in druge zahtevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni namestitveni programi
+firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-check-the-system-requirements = Preverite sistemske zahteve
 firefox-all-release-notes = Opombe ob izdaji
 firefox-all-source-code = Izvorna koda
