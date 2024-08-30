@@ -5,27 +5,50 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Verificá los requisitos del sistema
-firefox-all-release-notes = Notas de la versión
-firefox-all-source-code = Código fuente
-firefox-all-need-help = ¿Necesitás ayuda?
-firefox-all-which-browser-would = ¿Qué navegador te gustaría descargar?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Descargá { -brand-name-firefox } en inglés (US) y en más de 90 otros idiomas
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Descargá { -brand-name-firefox-browser } en inglés (US) y en más de 90 idiomas más
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados de todo el mundo, hacemos que { -brand-name-firefox } esté disponible en más de 90 idiomas.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados de todo el mundo, hacemos que el { -brand-name-firefox-browser } esté disponible en más de 90 idiomas.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Escaneá el código QR para conseguir <em>{ $product_name }</em>
+firefox-all-choose-browser = Seleccioná un navegador para continuar
+firefox-all-choose-platform = Seleccioná una plataforma para continuar
+firefox-all-choose-language = Seleccioná un idioma para continuar
+firefox-all-change-browser = Seleccioná un producto diferente
+firefox-all-change-platform = Seleccioná una plataforma diferente
+firefox-all-change-language = Seleccioná un idioma diferente
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Seleccioná de la lista siguiente
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obtené ayuda
-firefox-all-you-are-about-to-download = Estás a punto de descargar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:
 firefox-all-language = Idioma:
+firefox-all-download = 4. Descarga:
+firefox-all-desktop = Escritorio
+firefox-all-mobile = Teléfono celular
+firefox-all-recommended = (Recomendado)
 firefox-all-lang-multi = Múltiples idiomas
+firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Lo sentimos, no pudimos encontrar la descarga que estás buscando. Por favor volvé a intentar o seleccioná una descarga de la lista que está a continuación.
 firefox-all-the-pre-alpha-version = La versión pre-alfa para usuarios avanzados a los que les gusta buscar fallos y probar nuevas funciones a medida que se codifican.
 firefox-all-64-bit-installers = Instaladores de 64 -bit
 firefox-all-choose-a-64-bit-installer = Elegí un instalador de 64 -bit para computadoras con procesadores de 64 -bit, que les permite asignar más RAM a programas individuales, especialmente importante para juegos y otras aplicaciones exigentes.
 firefox-all-32-bit-installers = Instaladores de -32 bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Descargá { -brand-name-firefox-browser } en inglés (US) y en más de 90 idiomas más
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados de todo el mundo, hacemos que el { -brand-name-firefox-browser } esté disponible en más de 90 idiomas.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Esta opción abrirá una página del producto de { -brand-name-firefox } en el portal web de Microsoft Store. Si estás ejecutando Windows 10 o Windows 11, tendrás la opción de abrir Microsoft Store desde esta página e instalar { -brand-name-firefox }. Si instalás desde Microsoft Store, desde ahí también se manejarán las actualizaciones a { -brand-name-firefox }. Hay pequeñas diferencias en el comportamiento y las capacidades de { -brand-name-firefox } cuando se instala desde Microsoft Store, pero para la mayoría de los usuarios estas diferencias no son notables.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descargar { $esr_version }
+firefox-all-check-the-system-requirements = Verificá los requisitos del sistema
+firefox-all-release-notes = Notas de la versión
+firefox-all-source-code = Código fuente
+firefox-all-need-help = ¿Necesitás ayuda?
 firefox-all-choose-which-firefox = Elegí qué { -brand-name-firefox-browser } vas a descargar en tu idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidad de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Aprende sobre los navegadores { -brand-name-firefox }
@@ -36,8 +59,6 @@ firefox-all-count-on-stability-and = Contá con la estabilidad y la facilidad de
 firefox-all-windows-installers-for = Los instaladores de Windows para entornos corporativos que simplifican la configuración, despliegue y administración del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64/AArch64 optimizados para PCs con Windows y Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64 optimizados para PCs { -brand-name-windows } con Snapdragon.
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
