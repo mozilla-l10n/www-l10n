@@ -41,9 +41,19 @@ firefox-all-64-bit-installers = Programmi di installazione a 64-bit
 firefox-all-choose-a-64-bit-installer = Per computer con processori a 64-bit, scegli un programma di installazione a 64-bit, per avere più spazio in RAM allocabile per i programmi individuali (particolarmente rilevante per chi utilizza giochi e altre applicazioni intensive).
 firefox-all-32-bit-installers = Programmi di installazione a 32-bit
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Questa opzione aprirà la pagina di { -brand-name-firefox } nel portale web di Microsoft Store. Se utilizzi Windows 10 o Windows 11, avrai la possibilità di aprire lo store da questa pagina e installare { -brand-name-firefox }. Se scegli questa opzione, gli aggiornamenti di { -brand-name-firefox } verranno gestiti direttamente da Microsoft Store. Ci sono piccole differenze nei comportamenti e nelle funzionalità di { -brand-name-firefox } quando viene installato da Microsoft Store, ma per la maggior parte degli utenti queste differenze non sono evidenti.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Scarica { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Siamo nel periodo di transizione tra le versioni ESR { $esr_next_major } e { $esr_current_major }.
+firefox-all-esr-when-there-is = Quando è disponibile un aggiornamento della versione principale di ESR, c’è sempre una sovrapposizione di alcune versioni di { -brand-name-firefox-esr } (”point release”) per consentire agli utenti che stanno utilizzando la versione precedente di prepararsi al passaggio.
+firefox-all-esr-if-you-choose = Se scegli di scaricare la versione precedente di ESR, al termine del periodo di transizione verrà aggiornata automaticamente alla nuova versione.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Leggi ulteriori informazioni sul <a { $attrs }>ciclo di rilascio di { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Verifica i requisiti di sistema
 firefox-all-release-notes = Note di versione
 firefox-all-source-code = Codice sorgente
@@ -58,6 +68,7 @@ firefox-all-count-on-stability-and = I punti di forza di questo browser { -brand
 firefox-all-windows-installers-for = Programmi di installazione per Windows in ambito IT aziendale, che semplificano la configurazione, l’implementazione e la gestione del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmi di installazione ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Programmi di installazione ARM64/AArch64 ottimizzati per PC Windows e Linux.
+firefox-all-testflight = Registrati per provare { -brand-name-firefox } per iOS con TestFlight
 firefox-all-product-send-link = Invia al tuo telefono un link per il download
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -81,3 +92,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = TestFlight per { -brand-name-firefox } per iOS
