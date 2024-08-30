@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: абараніце ўсю сваю прыладу
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Выкарыстоўвайце { -brand-name-mozilla-vpn } для поўнай абароны прылады і ўсіх праграм. Дзякуючы серверам у больш за { $countries } краінах, вы можаце падключыцца да любога месца і адусюль.
 vpn-landing-powerful-privacy-for-peace = Магутная прыватнасць для душэўнага спакою
 vpn-landing-whats-a-vpn = Што такое VPN?
 vpn-landing-a-virtual-private-network-protects = Віртуальная прыватная сетка абараняе ваша падключэнне к інтэрнэту, трымаючы больш прыватным ваша месцазнаходжанне і тое, што вы робіце ў сеціве, на ўсіх вашых прыладах.
