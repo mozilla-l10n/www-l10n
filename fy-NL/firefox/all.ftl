@@ -21,17 +21,34 @@ firefox-all-choose-platform = Kies in platfoarm om troch te gean
 firefox-all-choose-language = Kies in taal om troch te gean
 firefox-all-change-browser = In oar produkt kieze
 firefox-all-change-platform = In oar platfoarm kieze
+firefox-all-change-language = In oare taal kieze
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Kies út ûndersteande list
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Krij help
 firefox-all-browser = Browser:
 firefox-all-platform = Platfoarm:
 firefox-all-language = Taal:
+firefox-all-download = 4. Downloade:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobyl
+firefox-all-recommended = (Oanrekommandearre)
 firefox-all-lang-multi = Meardere talen
+firefox-all-plat-mobile = Android en iOS
 firefox-all-sorry-we-couldnt-find = Sorry, wy koenen de troch jo sochte download net fine. Probearje it opnij of selektearje in download út ûndersteande list.
 firefox-all-the-pre-alpha-version = De pre-alpha-ferzje foar krêftige brûkers dy’t op crashes jeie en nije funksjes teste wylst de koade noch ûntwikkele wurde.
 firefox-all-64-bit-installers = 64-bits-ynstallaasjeprogramma’s
 firefox-all-choose-a-64-bit-installer = Kies in 64-bits-ynstallaasjeprogramma foar kompjûters mei 64-bits prosessors, wêrmei't se mear RAM oan yndividuele programma’s tawize kinne – mei namme wichtich foar spullen en oare sinnige tapassingen.
 firefox-all-32-bit-installers = 32-bits-ynstallaasjeprogramma’s
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Dizze opsje iepenet in { -brand-name-firefox }-produktside yn de Microsoft Store-webportal. As jo Windows 10 of Windows 11 brûke, hawwe jo de opsje om de Microsoft Store fan dizze side ôf te iepenjen en { -brand-name-firefox } te ynstallearjen. As jo ynstallearje fan de Microsoft Store út, wurde fernijingen foar { -brand-name-firefox } ek troch de Microsoft Store fersoarge. Der binne lytse ferskillen yn it gedrach en de mooglikheden fan { -brand-name-firefox } by ynstallaasje fan de Microsoft Store út, mar foar de measte brûkers binne dizze ferskillen net waar te nimmen.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } downloade
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Wy binne yn de oergongsperioade tusken de grutte ESR-ferzjes { $esr_next_major } en { $esr_current_major }.
 firefox-all-check-the-system-requirements = Kontrolearje de systeemeasken
 firefox-all-release-notes = Utjefteopmerkingen
 firefox-all-source-code = Boarnekoade
