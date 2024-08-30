@@ -20,6 +20,8 @@ firefox-all-choose-language = Επιλέξτε μια γλώσσα για να �
 firefox-all-change-browser = Επιλέξτε ένα διαφορετικό προϊόν
 firefox-all-change-platform = Επιλέξτε μια διαφορετική πλατφόρμα
 firefox-all-change-language = Επιλέξτε μια διαφορετική γλώσσα
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Επιλέξτε από την παρακάτω λίστα
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Λήψη βοήθειας
 firefox-all-browser = Πρόγραμμα περιήγησης:
@@ -37,6 +39,19 @@ firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 
 firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα — πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 32-bit
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Αυτή η επιλογή θα ανοίξει τη σελίδα προϊόντος του { -brand-name-firefox } στη διαδικτυακή πύλη του Microsoft Store. Εάν χρησιμοποιείτε Windows 10 ή Windows 11, θα έχετε την επιλογή να ανοίξετε το Microsoft Store από αυτήν τη σελίδα και να εγκαταστήσετε το { -brand-name-firefox }. Εάν κάνετε εγκατάσταση από το Microsoft Store, αυτό θα χειρίζεται και τις ενημερώσεις του { -brand-name-firefox }. Υπάρχουν μικρές διαφορές στη συμπεριφορά και τις δυνατότητες του { -brand-name-firefox } όταν γίνεται εγκατάστασή του από το Microsoft Store, αλλά αυτές οι διαφορές είναι ανεπαίσθητες για τους περισσότερους χρήστες.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Λήψη του { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Βρισκόμαστε στη μεταβατική περίοδο μεταξύ των κύριων εκδόσεων ESR { $esr_next_major } και { $esr_current_major }.
+firefox-all-esr-when-there-is = Όταν γίνεται ενημέρωση της κύριας έκδοσης, συμπίπτουν πάντα ορισμένες δευτερεύουσες εκδόσεις του { -brand-name-firefox-esr }, ώστε να επιτρέπεται στους χρήστες που χρησιμοποιούν την παλιά έκδοση να προετοιμαστούν για τη μετάβαση στη νέα.
+firefox-all-esr-if-you-choose = Αν επιλέξετε να κάνετε λήψη της παλαιότερης έκδοσης ESR, θα ενημερωθείτε αυτόματα στη νέα όταν λήξει η μεταβατική περίοδος.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Διαβάστε περισσότερα σχετικά με τον <a { $attrs }>κύκλο εκδόσεων { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Έλεγχος απαιτήσεων συστήματος
 firefox-all-release-notes = Σημειώσεις έκδοσης
 firefox-all-source-code = Πηγαίος κώδικας
