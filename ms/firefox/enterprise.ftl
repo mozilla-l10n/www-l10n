@@ -50,5 +50,5 @@ firefox-enterprise-pkg-installer = Pemasang PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Muat turun { -brand-name-firefox-esr } atau Rapid Release untuk<br> <a href="{ $firefox_all }">bahasa atau platform lain.</a>

@@ -50,5 +50,5 @@ firefox-enterprise-pkg-installer = PKG इंस्टॉलर
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-बिट
 
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = <br><a href="{ $firefox_all }">दूसरी भाषा या प्लैटफ़ार्म</a> के लिए { -brand-name-firefox-esr } या रैपिड रिलीज़ डाउनलोड करें।
