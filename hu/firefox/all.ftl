@@ -5,27 +5,27 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Ellenőrizze a rendszerkövetelményeket
-firefox-all-release-notes = Kiadási megjegyzések
-firefox-all-source-code = Forráskód
-firefox-all-need-help = Segítségre van szüksége?
-firefox-all-which-browser-would = Melyik böngészőt szeretné letölteni?
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser(case: "acc") } magyarul és több mint 90 egyéb nyelven
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Segítség
-firefox-all-you-are-about-to-download = A következő letöltésére készül:
 firefox-all-browser = Böngésző:
 firefox-all-platform = Platform:
 firefox-all-language = Nyelv:
+firefox-all-mobile = Mobil
 firefox-all-lang-multi = Több nyelv
+firefox-all-plat-mobile = Android és iOS
 firefox-all-sorry-we-couldnt-find = Sajnáljuk, nem találtuk a keresett letöltést. Próbálja újra, vagy válasszon a lenti listából.
 firefox-all-the-pre-alpha-version = Az alfa előtti verzió azon hozzáértő felhasználóknak, akik összeomlásokat akarnak levadászni, és ki akarják próbálni az új funkciókat miközben azok készülnek.
 firefox-all-64-bit-installers = 64 bites telepítők
 firefox-all-choose-a-64-bit-installer = 64 bites processzorral rendelkező számítógépekre válassza a 64 bites telepítőt, amely több memória hozzárendelését tesz lehetővé az egyes programokhoz – ez különösen fontos a játékok és a nagy teljesítményigényű alkalmazások esetén.
 firefox-all-32-bit-installers = 32 bites telepítők
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser(case: "acc") } magyarul és több mint 90 egyéb nyelven
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven.
+firefox-all-check-the-system-requirements = Ellenőrizze a rendszerkövetelményeket
+firefox-all-release-notes = Kiadási megjegyzések
+firefox-all-source-code = Forráskód
+firefox-all-need-help = Segítségre van szüksége?
 firefox-all-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } adatvédelmi nyilatkozat
 firefox-all-learn-about-firefox = Ismerje meg a { -brand-name-firefox } böngészőket
@@ -36,8 +36,6 @@ firefox-all-count-on-stability-and = Stabilitásra és könnyű használatra sz�
 firefox-all-windows-installers-for = Windowsos telepítők a vállalati informatikai részlegek számára, melyek egyszerűsítik a { -brand-name-firefox-browser } beállítását, telepítését és kezelését.
 firefox-all-arm64-installers = ARM64/AArch64 telepítők
 firefox-all-arm64-installers-optimized-v2 = Windowsos és linuxos PC-kre optimalizált ARM64/AArch64 telepítők.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64 / AArch64 telepítők Snapdragon-alapú { -brand-name-windows }t futtató számítógépekre optimalizálva.
 firefox-all-product-send-link = Küldjön egy letöltési hivatkozást a telefonjára
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
