@@ -9,6 +9,8 @@
 firefox-all-download-the-firefox-v2 = Κάντε λήψη του { -brand-name-firefox } στα ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # Obsolete string (expires 2024-10-27)
 firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox } σε πάνω από 90 γλώσσες.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
 # Variables:
