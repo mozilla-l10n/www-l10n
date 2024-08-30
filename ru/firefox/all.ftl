@@ -5,14 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Посмотреть системные требования
-firefox-all-release-notes = Примечания к выпуску
-firefox-all-source-code = Исходный код
-firefox-all-need-help = Нужна помощь?
-firefox-all-which-browser-would = Какой браузер вы хотели бы загрузить?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Загрузите { -brand-name-firefox } на русском и более чем 90 других языках
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Загрузите { -brand-name-firefox-browser } на русском и более чем 90 других языках
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Каждый имеет право на доступ в Интернет — язык никогда не должен становиться преградой. Вот почему мы — с помощью преданных волонтёров по всему миру — делаем { -brand-name-firefox-browser } доступным на более чем 90 языках.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получить помощь
-firefox-all-you-are-about-to-download = Вы собираетесь загрузить:
 firefox-all-browser = Браузер:
 firefox-all-platform = Платформа:
 firefox-all-language = Язык:
@@ -22,10 +22,10 @@ firefox-all-the-pre-alpha-version = Предварительная альфа-в
 firefox-all-64-bit-installers = 64-разрядные установщики
 firefox-all-choose-a-64-bit-installer = Выберите 64-разрядный установщик для компьютеров с 64-разрядными процессорами, которые позволяют выделять больше оперативной памяти отдельным программам, что особенно важно для игр и других требовательных приложений.
 firefox-all-32-bit-installers = 32-разрядные установщики
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Загрузите { -brand-name-firefox-browser } на русском и более чем 90 других языках
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Каждый имеет право на доступ в Интернет — язык никогда не должен становиться преградой. Вот почему мы — с помощью преданных волонтёров по всему миру — делаем { -brand-name-firefox-browser } доступным на более чем 90 языках.
+firefox-all-check-the-system-requirements = Посмотреть системные требования
+firefox-all-release-notes = Примечания к выпуску
+firefox-all-source-code = Исходный код
+firefox-all-need-help = Нужна помощь?
 firefox-all-choose-which-firefox = Выберите и загрузите { -brand-name-firefox-browser(case: "accusative") } на вашем языке
 firefox-all-firefox-privacy-notice = Уведомление о конфиденциальности { -brand-name-firefox }
 firefox-all-learn-about-firefox = Узнайте о браузерах { -brand-name-firefox }
@@ -36,8 +36,6 @@ firefox-all-count-on-stability-and = Доверьтесь стабильност
 firefox-all-windows-installers-for = Windows-установщики для организаций, которые упростят настройку, развёртывание и управление { -brand-name-firefox-browser(case: "instrumental") }.
 firefox-all-arm64-installers = Установщики ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Установщики ARM64/AArch64, оптимизированные для ПК с Windows и Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Установщики ARM64/AArch64 оптимизированы для компьютеров { -brand-name-windows } на процессорах Snapdragon.
 firefox-all-product-send-link = Отправить ссылку для загрузки на мой телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
