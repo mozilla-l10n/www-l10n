@@ -7,7 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: Az oldal nem található
 not-found-page-sorry-we-cant-find-that-page = Sajnáljuk, nem találjuk ezt az oldalt
-not-found-page-were-all-about-a-healthy-internet = Mindannyian az egészséges internetért dolgozunk, de néha előfordulnak hibás URL-ek.
+not-found-page-were-all-about-a-healthy-internet = Mindannyian az egészséges internetért dolgozunk, de néha előfordulnak hibás webcímek.
 not-found-page-go-back = Ugrás vissza
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/

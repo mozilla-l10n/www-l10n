@@ -58,7 +58,7 @@ privacy-faq-sort-of-in-addition-to-the-data-v2 = Mondhatni igen. A fent leírt a
 # Obsolete string (expires 2024-09-11)
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = További kiadási előtti információkat is gyűjthetünk a <a href="{ $link }">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek URL-eket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a { -brand-name-firefox } fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan intergrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
+privacy-faq-we-may-also-collect-additional = További kiadási előtti információkat is gyűjthetünk a <a href="{ $link }">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek webcímeket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a { -brand-name-firefox } fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan intergrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = További kiadás előtti információkat is gyűjthetünk a <a href="{ $link }">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek webcímeket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a { -brand-name-firefox } fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan integrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
