@@ -5,27 +5,27 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Έλεγχος απαιτήσεων συστήματος
-firefox-all-release-notes = Σημειώσεις έκδοσης
-firefox-all-source-code = Πηγαίος κώδικας
-firefox-all-need-help = Χρειάζεστε βοήθεια;
-firefox-all-which-browser-would = Ποιο πρόγραμμα περιήγησης θέλετε να αποκτήσετε;
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Λήψη βοήθειας
-firefox-all-you-are-about-to-download = Πρόκειται να κάνετε λήψη του:
 firefox-all-browser = Πρόγραμμα περιήγησης:
 firefox-all-platform = Πλατφόρμα:
 firefox-all-language = Γλώσσα:
 firefox-all-lang-multi = Πολλαπλές γλώσσες
+firefox-all-plat-mobile = Android και iOS
 firefox-all-sorry-we-couldnt-find = Λυπούμαστε, αλλά δεν ήταν δυνατή η εύρεση της λήψης που ψάχνετε. Δοκιμάστε ξανά ή επιλέξτε μια λήψη από την παρακάτω λίστα.
 firefox-all-the-pre-alpha-version = Η έκδοση pre-alpha για έμπειρους χρήστες που απολαμβάνουν το «κυνήγι» για σφάλματα και τη δοκιμή νέων λειτουργιών ενώ υλοποιούνται.
 firefox-all-64-bit-installers = Προγράμματα εγκατάστασης 64-bit
 firefox-all-choose-a-64-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα — πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 firefox-all-32-bit-installers = Προγράμματα εγκατάστασης 32-bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-check-the-system-requirements = Έλεγχος απαιτήσεων συστήματος
+firefox-all-release-notes = Σημειώσεις έκδοσης
+firefox-all-source-code = Πηγαίος κώδικας
+firefox-all-need-help = Χρειάζεστε βοήθεια;
 firefox-all-choose-which-firefox = Επιλέξτε ποιο { -brand-name-firefox-browser } θέλετε στη γλώσσα σας
 firefox-all-firefox-privacy-notice = Σημείωση απορρήτου { -brand-name-firefox }
 firefox-all-learn-about-firefox = Μάθετε για τα προγράμματα περιήγησης { -brand-name-firefox }
@@ -36,8 +36,6 @@ firefox-all-count-on-stability-and = Βασιστείτε στη σταθερό�
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows, για τα εταιρικά τμήματα πληροφορικής, που απλοποιούν τη ρύθμιση παραμέτρων, τη διανομή και τη διαχείριση του { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Προγράμματα εγκατάστασης ARM64/AArch64 βελτιστοποιημένα για υπολογιστές Windows και Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Προγράμματα εγκατάστασης ARM64/AArch64, βελτιστοποιημένα για { -brand-name-windows } υπολογιστές με Snapdragon.
 firefox-all-product-send-link = Αποστολή συνδέσμου λήψης στο τηλέφωνό σας
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

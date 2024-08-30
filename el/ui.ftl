@@ -21,3 +21,5 @@ ui-show-all = Εμφάνιση όλων
 ui-hide-all = Απόκρυψη όλων
 ui-learn-more = Μάθετε περισσότερα
 ui-view = Προβολή
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Προώθηση
