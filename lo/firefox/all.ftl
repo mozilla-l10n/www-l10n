@@ -5,27 +5,39 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
-firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
-firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
-firefox-all-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
-firefox-all-which-browser-would = ທ່ານຕ້ອງການດາວໂຫລດໂປຣແກຣມທ່ອງເວັບໃດ?
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
+firefox-all-choose-browser = ເລືອກຕົວທ່ອງເວັບເພື່ອສືບຕໍ່
+firefox-all-choose-platform = ເລືອກ platform ເພື່ອສືບຕໍ່
+firefox-all-choose-language = ເລືອກພາສາເພື່ອສືບຕໍ່
+firefox-all-change-browser = ເລືອກຜະລິດຕະພັນອື່ນ
+firefox-all-change-platform = ເລືອກ platform ອື່ນ
+firefox-all-change-language = ເລືອກພາສາອື່ນ
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = ເລືອກຈາກບັນຊີລາຍຊື່ຂ້າງລຸ່ມນີ້
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
-firefox-all-you-are-about-to-download = ທ່ານກຳລັງຈະດາວໂຫລດ:
 firefox-all-browser = ໂປຣແກຣມທ່ອງເວັບ:
 firefox-all-platform = ແພັລດຟອມ
 firefox-all-language = ພາສາ:
+firefox-all-download = 4. ດາວໂຫລດ:
+firefox-all-desktop = ເດສກ໌ທັອບ
+firefox-all-mobile = ໂທລະສັບມືຖື
+firefox-all-recommended = (ແນະນຳ)
 firefox-all-lang-multi = ຫຼາຍພາສາ
+firefox-all-plat-mobile = Android ແລະ iOS
 firefox-all-sorry-we-couldnt-find = ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດດາວໂຫລດໃນສຶ່ງທີ່ທ່ານກຳລັງຊອກຫາຢູ່. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ ຫລື ເລືອກດາວໂຫລດຈາກລາຍຊື່ຂ້າງລຸ່ມນີ້.
 firefox-all-the-pre-alpha-version = ເວີຊັ່ນກ່ອນອັນຟາສຳລັບຜູ້ໃຊ້ພະລັງງານທີ່ມັກການລ່າຫາການຂັດຂ້ອງ ແລະທົດສອບຄຸນສົມບັດໃໝ່ໆເມື່ອພວກເຂົາຖືກລະຫັດ.
 firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-choose-a-64-bit-installer = ເລືອກຕົວຕິດຕັ້ງ 64-bit ສໍາລັບຄອມພິວເຕີທີ່ມີໂປເຊດເຊີ 64-bit, ເຊິ່ງເຮັດໃຫ້ພວກເຂົາສາມາດຈັດສັນ RAM ຫຼາຍຂຶ້ນໃຫ້ກັບແຕ່ລະໂປຼແກຼມ - ມີຄວາມສໍາຄັນໂດຍສະເພາະສໍາລັບເກມແລະຄໍາຮ້ອງສະຫມັກອື່ນໆທີ່ຕ້ອງການ.
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
+firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
+firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
+firefox-all-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 firefox-all-choose-which-firefox = ເລືອກທີ່ { -brand-name-firefox-browser } ເພື່ອດາວໂຫລດເປັນພາສາຂອງເຈົ້າ
 firefox-all-firefox-privacy-notice = ຄວາມເປັນສ່ວນໂຕໃນ { -brand-name-firefox }
 firefox-all-learn-about-firefox = ຮຽນຮູ້ກ່ຽວກັບຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
@@ -35,7 +47,6 @@ firefox-all-test-your-sites-against = ທົດສອບເວັບໄຊຂອ
 firefox-all-count-on-stability-and = ຄິດໄລ່ຄວາມໝັ້ນຄົງ ແລະການນຳໃຊ້ງ່າຍດ້ວຍບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບອົງກອນ.
 firefox-all-windows-installers-for = ຕົວຕິດຕັ້ງ Windows ສໍາລັບ IT ອົງກອນທີ່ງ່າຍໃນການຕັ້ງຄ່າ, ການນຳໃຊ້ ແລະການຈັດການຂອງ { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
-firefox-all-arm64-installers-optimized = ຕົວຕິດຕັ້ງ ARM64/AArch64 ປັບປຸງໃຫ້ເໝາະສົມກັບ{ -brand-name-windows } PCs ທີ່ໃຊ້ Snapdragon.
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
