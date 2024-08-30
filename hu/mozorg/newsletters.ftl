@@ -13,26 +13,18 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla } hírlevél
 newsletters-read-all-about-it-in-our-newsletter = Olvassa <span>hírlevelünket</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Iratkozzon fel, hogy értesüljön a { -brand-name-mozilla } híreiről, tegyen az egészségesebb internetért, és okosabbá váljon az online életét tekintve.
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = Iratkozzon fel a frissítésekre, és legyen naprakész a { -brand-name-mozilla } híreivel. Ez a tökéletes módja, hogy tartsuk a kapcsolatot!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Hírlevél jóváhagyása
 newsletters-thanks-for-subscribing = Köszönjük, hogy feliratkozott!
 newsletters-your-newsletter-subscription = A hírlevél-előfizetés jóváhagyása megtörtént.
 newsletters-please-be-sure-to-add-our-v2 = Győződjön meg arról, hogy a levél küldője, a mozilla@email.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Győződjön meg arról, hogy a levél küldője, a mozilla@e.mozilla.org szerepeljen a címjegyzékében. Így biztosan megkapja hírlevelünket.
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = A megadott hivatkozás lejárt. <a { $recovery_href }>Kérjen új hivatkozást itt</a>.
-# Obsolete string
-newsletters-the-supplied-link-has-expired = A megadott hivatkozás lejárt. A következő hírlevéllel egy újat küldünk.
 newsletters-something-is-amiss-with = Sajnos valami nincs rendben a rendszerünkkel. Próbálja meg később.
 newsletters-youre-awesome = Ön fantasztikus!
 newsletters-and-were-not-just-saying = És ezt nem csak azért mondjuk, mert ránk bízta az e-mail címét.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Adja hozzá a mozilla@email.mozilla.org címet a címjegyzékéhez, hogy mindig elérjük a fiókját.
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Adja hozzá a mozilla@e.mozilla.org címet a címjegyzékéhez, hogy mindig elérjük a fiókját.
 newsletters-mozilla-touches-on-a-variety = A { -brand-name-mozilla } különféle fontos ügyeket érint.
 newsletters-open-your-inbox-and-your = Nyissa meg még jobban a fiókját (és a szívét) – tegyen egy pillantást a többi témára, amit lefedünk.
 newsletters-manage-your-email-preferences = E-mail beállítások kezelése
@@ -53,16 +45,11 @@ newsletters-not-all-subscriptions-are = Nem minden feliratkozás támogatott az 
 newsletters-please-select-country = Válasszon országot vagy régiót
 # Form field error message
 newsletters-please-select-language = Válasszon egy nyelvet
-# Form field label
-newsletters-format = Formátum:
-newsletters-text-subscribers-will-receive = Az üzenetekre feliratkozók évente két levelet kapnak, hogy megerősítsék a feliratkozásuk folytatását. Ezek az e-mailek tartalmazhatnak HTML-t is.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
 newsletters-many-of-our-communications-v2 = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-mozilla-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
-# Obsolete string
-newsletters-many-of-our-communications = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-firefox-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Csatlakozzon hozzánk és érje el a { -brand-name-firefox } termékeinek, tudásának és szolgáltatásainak világát, egyetlen fiókkal. További információk az előnyökről <a href="{ $url }">itt</a>.
@@ -86,7 +73,6 @@ newsletters-youve-been-unsubscribed = Leiratkozott.
 newsletters-were-sorry-to-see-you-go = Sajnáljuk, hogy leiratkozott.
 newsletters-would-you-mind-telling-us = Elmondaná, hogy miért iratkozott le?
 newsletters-other-v2 = Egyéb… (legfeljebb 500 karakter)
-# Obsolete string
 newsletters-other = Egyéb…
 newsletters-submit = Elküld
 newsletters-thanks-for-telling-us-why = Köszönjük, hogy megosztotta velünk leiratkozásának okát.
@@ -104,8 +90,6 @@ newsletters-were-glad-you-asked = Örülünk, hogy megkérdezte!
 newsletters-love-the-web-so-do-we = Szereti a webet? Mi is!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Tekintsen be a webfejlesztés világába a heti { -brand-name-mozilla } fejlesztői hírlevéllel. Minden egyes kiadás kódolási technikákat és legjobb gyakorlatokat mutat be, { -brand-name-mdn } híreket ad, információkat nyújt a feltörekvő technológiákról, fejlesztői eszközökről, és még sok másról.
-# Obsolete string
-newsletters-join-thousands-of-developers = Csatlakozzon az Önhöz hasonló fejlesztők ezreihez, akik a webfejlesztés legjavát tanulják.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-put-more-fox-in-your-inbox = Vegye át a rókapostát.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
@@ -124,16 +108,10 @@ newsletters-fxa-error-retry = Sajnáljuk, de hiba történt az e-mail-beállít�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
 newsletters-im-keeping-in-touch-v2 = Inkább a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
-# Obsolete string
-newsletters-im-keeping-in-touch = Inkább a { -brand-name-facebook }on és a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Iratkozzon fel, olvassa el,<br> legyen tájékozott.
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Iratkozzon fel. Olvassa el.<br> Érjen el változást.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Legyen tudatos az online életét érintő ügyekben.
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Kapja meg a { -brand-name-mozilla } hírlevelet, hogy értesüljön az Internet egészségét veszélyeztető problémákról, és hogy felfedezze hogyan kapcsolódhat be.
 newsletters-your-email-preferences = Az e-mail beállítások sikeresen frissítve.
 newsletters-consider-it-done = Tekintse elintézettnek
 newsletters-back-to-email-preferences = Vissza az e-mail beállításokhoz
@@ -143,8 +121,6 @@ newsletters-travel-the-internet = Utazzon védve az interneten, az összes eszk�
 newsletters-download-the-app = Alkalmazás letöltése
 newsletters-check-for-data-breaches = Adatvédelmi incidensek keresése
 newsletters-mozilla-monitor-is-a-free = A { -brand-name-mozilla-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy megnézze, hogy szerepelt-e online adatvédelmi incidensben.
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = A { -brand-name-firefox-monitor } egy ingyenes szolgáltatás, amely lehetővé teszi, hogy lássa, szerepelt-e online adatvédelmi incidensben.
 newsletters-sign-in-to-monitor = Jelentkezzen be a { -brand-name-monitor }ba
 newsletters-meet-our-parent-brand = Ismerje meg szülőmárkánkat
 newsletters-mozilla-the-non-for-profit = A { -brand-name-mozilla }, a { -brand-name-firefox } mögött álló nonprofit szervezet, amely az embereket helyezi a profit elé mindenben, amit mondunk, építünk és csinálunk.
@@ -166,20 +142,14 @@ newsletters-dont-miss-the-latest = Ne szalassza el a legfrissebb Firefox bejelen
 newsletters-get-involved = Csatlakozzon
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Elemzések
-# Obsolete string
-newsletters-internet-health-report = Internetes egészségi jelentés
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = A { -brand-name-mozilla } cikkeket és mélyreható elemzéseket végez az internet egészségéről szóló problémákról és a megbízható MI-ről, ideértve az éves Internet egészsége jelentésünket is.
-# Obsolete string
-newsletters-keep-up-with-our-annual = Tartson lépést az éves adatvédelemmel és -biztonsággal, nyíltsággal, digitális bevonással, decentralizálással és webes írástudással kapcsolatos kutatási és történeti összeállításunkkal.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = A tudás hatalom
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Szerezzen meg minden ahhoz szükséges tudást, hogy nagyobb biztonságban legyen, és okosabb legyen online.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = A Labsről
-# Name for the newsletter in Newsletter subscription page
-newsletters-desktop = Asztali
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillások
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -192,9 +162,6 @@ newsletters-news-and-information = Hírek és információk a web „egészségi
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív, amíg újra nem indul az új { -brand-name-firefox } Student Ambassadors program.
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Korábbi egyetemi program 2008 és 2011 között. Jelenleg inaktív amíg újra nem indul az új Firefox Student Ambassadors program.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Tegyen lépéseket az internetért
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -203,8 +170,6 @@ newsletters-add-your-voice = Adja hozzá a hangját azon petíciókhoz, esemény
 newsletters-new-product-testing = Új termékek tesztelése
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = Segítsen nekünk, hogy a legújabb termékeink és funkcióink tesztelésével egy jobb { -brand-name-mozilla(ending: "accented") }t készítsünk az Ön számára.
-# Obsolete string
-newsletters-help-us-make-a-better = Segítsen nekünk abban, hogy jobb { -brand-name-firefox(case: "accusative") } készítsünk, azáltal hogy teszteli a legújabb termékeinket és funkcióinkat.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } közösség
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -230,7 +195,7 @@ newsletters-get-firefox-for-android = { -brand-name-firefox } for { -brand-name-
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-ios = Töltse le a { -brand-name-firefox } for { -brand-name-ios }-t
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-mobile = Töltse le a { -brand-name-firefox } for Mobile-t
+newsletters-download-firefox-for-mobile = Töltse le a { -brand-name-firefox } mobilra
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = { -brand-name-firefox-accounts } tippek
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
@@ -279,14 +244,10 @@ newsletters-get-how-tos = Kapjon leírásokat, tanácsokat és híreket, hogy a 
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Különleges bejelentések az éves fesztiválunkról, ahol kézzelfoghatóan alakítható a nyílt web jövője.
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Különleges bejelentések a { -brand-name-mozilla } éves fesztiváljáról, ahol kézzelfoghatóan alakítható a Web jövője.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } hírek
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = Rendszeres hírek, hogy jobban képben legyen az online életről, és aktívabb legyen a jobb internetért vívott harcban.
-# Obsolete string
-newsletters-regular-updates-to-keep = Rendszeres hírek, hogy tájékoztassuk és aktivizáljuk a jobb internetért vívott harcban.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
@@ -301,16 +262,12 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Különleges közlemények, melyek segítenek Önnek kihozni a legtöbbet a { -brand-name-webmaker }ből.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla(ending: "accented") }tól arról, hogyan hozhatja ki a legtöbbet fiókjából.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Üdvözlő levelek
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Üdvözlő e-mailek, melyek segítenek a termékeink és szolgáltatásaink használatának elkezdésében.
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
 # Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
 newsletters-subscribe-to-the-newsletter = Iratkozzon fel a hírlevélre
 # Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/

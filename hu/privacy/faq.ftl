@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = Az emberek számára bonyolult megtudn
 privacy-faq-at-mozilla-we-respect-and-protect = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Az <a href="{ $link }">Adatvédelmi irányelveinket</a> követjük, melyek alakítják az adatvédelmi hozzáállásunk az asztali és mobil { -brand-name-firefox } böngészőkben.
+privacy-faq-we-follow-a-set-of-data-privacy = Az <a href="{ $link }">Adatvédelmi irányelveinket</a> követjük, melyek alakítják az adatvédelmi hozzáállásunk az asztali és mobilos { -brand-name-firefox } böngészőkben.
 privacy-faq-we-only-collect-the-data-we = Csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtjük.
 privacy-faq-we-put-people-in-control-of = Az emberek kezébe adjuk az irányítást az adataik és az online élményeik felett.
 # Obsolete string (expires 2024-09-11)
