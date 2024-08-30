@@ -5,27 +5,49 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = 檢查系統需求
-firefox-all-release-notes = 發行公告
-firefox-all-source-code = 原始碼
-firefox-all-need-help = 需要幫忙嗎？
-firefox-all-which-browser-would = 您想要下載哪套瀏覽器？
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = 下載 { -brand-name-firefox } 正體中文版。另外還有超過 90 種語言版本。
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = 下載 { -brand-name-firefox-browser }正體中文版，另外還有超過 90 種語言版本。
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox }。
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox-browser }。
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = 掃描 QR Code下載 <em>{ $product_name }</em>
+firefox-all-choose-browser = 選擇一套瀏覽器以繼續
+firefox-all-choose-platform = 選擇一種平台以繼續
+firefox-all-choose-language = 選擇一種語言以繼續
+firefox-all-change-browser = 請選擇另一套產品
+firefox-all-change-platform = 請選擇另一種平台
+firefox-all-change-language = 請選擇另一種語言
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = 請從下列清單中選擇
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 取得幫助
-firefox-all-you-are-about-to-download = 即將下載：
 firefox-all-browser = 瀏覽器：
 firefox-all-platform = 平台：
 firefox-all-language = 語言：
+firefox-all-download = 4. 下載：
+firefox-all-desktop = 桌面版
+firefox-all-mobile = 行動版
+firefox-all-recommended = （建議）
 firefox-all-lang-multi = 多種語言
+firefox-all-plat-mobile = Android 與 iOS
 firefox-all-sorry-we-couldnt-find = 很抱歉，我們找不到您想要下載的東西。請再試一次，或從下方的清單選擇要下載的項目。
 firefox-all-the-pre-alpha-version = pre-alpha 測試版，適用於想要找出錯誤，或在新功能一完成就立即測試的進階使用者。
 firefox-all-64-bit-installers = 64 位元安裝程式
 firefox-all-choose-a-64-bit-installer = 若電腦使用的是 64 位元處理器，請選擇 64 位元版本安裝程式。遊戲、瀏覽器等記憶體需求較多的應用程式可使用更多記憶體。
 firefox-all-32-bit-installers = 32 位元安裝程式
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = 下載 { -brand-name-firefox-browser }正體中文版，另外還有超過 90 種語言版本。
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox-browser }。
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = 下載 { $esr_version }
+firefox-all-check-the-system-requirements = 檢查系統需求
+firefox-all-release-notes = 發行公告
+firefox-all-source-code = 原始碼
+firefox-all-need-help = 需要幫忙嗎？
 firefox-all-choose-which-firefox = 用您的語言下載 { -brand-name-firefox-browser }
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 隱私權公告
 firefox-all-learn-about-firefox = 了解各種 { -brand-name-firefox } 瀏覽器的相關資訊
@@ -36,8 +58,6 @@ firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用�
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
 firefox-all-arm64-installers = ARM64/AArch64 安裝程式
 firefox-all-arm64-installers-optimized-v2 = 針對 Windows 與 Linux PC 最佳化的 ARM64/AArch64 安裝程式。
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = 針對使用 Snapdragon 處理器的 { -brand-name-windows } PC 最佳化的 ARM64/AArch64 安裝程式。
 firefox-all-product-send-link = 傳送下載鏈結到您的手機
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -61,3 +81,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
