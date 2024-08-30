@@ -41,6 +41,7 @@ firefox-all-64-bit-installers = 64 位元安裝程式
 firefox-all-choose-a-64-bit-installer = 若電腦使用的是 64 位元處理器，請選擇 64 位元版本安裝程式。遊戲、瀏覽器等記憶體需求較多的應用程式可使用更多記憶體。
 firefox-all-32-bit-installers = 32 位元安裝程式
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = 此選項將開啟 { -brand-name-firefox } 的 Microsoft Store 網頁版產品頁。若您使用的是 Windows 10 或 11，可以從此頁面開啟 Microsoft Store 並安裝 { -brand-name-firefox }。若您透過 Microsoft Store 安裝，也請透過 Microsoft Store 進行更新。{ -brand-name-firefox } 的功能與行為在一般安裝版本與 Microsoft Store 安裝版本之間有些微不同，但是大部分情況下使用者無法察覺。
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = 下載 { $esr_version }
