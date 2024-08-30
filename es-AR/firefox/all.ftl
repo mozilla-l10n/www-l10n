@@ -45,6 +45,15 @@ firefox-all-choose-a-microsoft-store-installer = Esta opción abrirá una págin
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Descargar { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Estamos en el período de transición entre las principales versiones de ESR { $esr_next_major } y { $esr_current_major }.
+firefox-all-esr-when-there-is = Cuando hay una actualización principal de la versión, siempre hay una superposición de algunas versiones de { -brand-name-firefox-esr } para permitir que las personas que están usando la versión anterior se preparen para pasar a la nueva.
+firefox-all-esr-if-you-choose = Si decidís descargar la versión anterior de ESR, se actualizará automáticamente a la nueva cuando finalice el período de transición.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Leer más sobre el <a { $attrs }>ciclo de lanzamiento de { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Verificá los requisitos del sistema
 firefox-all-release-notes = Notas de la versión
 firefox-all-source-code = Código fuente
@@ -59,6 +68,7 @@ firefox-all-count-on-stability-and = Contá con la estabilidad y la facilidad de
 firefox-all-windows-installers-for = Los instaladores de Windows para entornos corporativos que simplifican la configuración, despliegue y administración del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64/AArch64 optimizados para PCs con Windows y Linux.
+firefox-all-testflight = Registrate para probar { -brand-name-firefox } para iOS con TestFlight
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -82,3 +92,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
