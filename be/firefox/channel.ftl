@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Тэстуйце бэт
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Тэстуйце бэта версіі { -brand-name-firefox } для { -brand-name-ios } з дапамогай праграмы { -brand-name-apple } { -brand-name-test-flight }.
 firefox-channel-sign-up-now = Зарэгістравацца
+firefox-channel-nightly-update-one-or-more-times = Заўвага: { -brand-name-firefox-nightly } будзе абнаўляцца прыкладна адзін ці два разы на дзень.
