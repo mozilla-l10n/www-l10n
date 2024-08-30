@@ -48,6 +48,9 @@ firefox-all-download-esr-version = 下载 { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = 我们正处于 ESR 主要版本 { $esr_next_major } 与 { $esr_current_major } 之间的过渡期。
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = 了解有关 <a { $attrs }>{ -brand-name-firefox-esr } 发布周期</a>的更多信息。
 firefox-all-check-the-system-requirements = 检查系统需求
 firefox-all-release-notes = 发行说明
 firefox-all-source-code = 源代码
@@ -62,6 +65,7 @@ firefox-all-count-on-stability-and = 若需要稳定度和易用性，请使用�
 firefox-all-windows-installers-for = 适用于企业 IT 的 Windows 安装程序，可简化 { -brand-name-firefox-browser }的配置、部署和管理。
 firefox-all-arm64-installers = ARM64/AArch64 安装程序
 firefox-all-arm64-installers-optimized-v2 = 为 Windows 和 Linux PC 优化的 ARM64/AArch64 安装程序。
+firefox-all-testflight = 注册以通过 TestFlight 测试 iOS 版 { -brand-name-firefox }
 firefox-all-product-send-link = 发送下载链接到您的手机
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -85,3 +89,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios } 版
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight

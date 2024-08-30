@@ -21,3 +21,5 @@ ui-show-all = 全部显示
 ui-hide-all = 全部隐藏
 ui-learn-more = 详细了解
 ui-view = 查看
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = 宣传推广
