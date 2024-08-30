@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.allizom.org/firefox/features/fast/
 
-# Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+features-fast-faster-every-day = ໄວຂຶ້ນທຸກໆມື້

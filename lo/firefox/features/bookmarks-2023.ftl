@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/bookmarks/
 
+# page title
+bookmark-manager-bookmark-manager = ໂຕຈັດການບຸກມາກ
 bookmark-manager-easily-import-bookmarks = ນຳເຂົ້າບຸກມາກໄດ້ຢ່າງງ່າຍດາຍ

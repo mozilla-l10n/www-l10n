@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: ເຮັດໄດ້ຫຼາຍຂຶ້ນດ້ວຍວິດີໂອທີ່ອອກມາ
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ມີສິ່ງທີ່ຕ້ອງເຮັດ ແລະ ສິ່ງທີ່ຕ້ອງເບິ່ງບໍ? ເຮັດທັງສອງໂດຍໃຊ້ Picture-in-Picture ໃນ { -brand-name-firefox }.
+features-pip-picture-in-picture = ຮູບພາບໃນຮູບ
 features-pip-new-feature-firefox-multi-picture = ຄຸນສົມບັດໃໝ່: { -brand-name-firefox } ຫຼາຍຮູບໃນຮູບ
 features-pip-cool-feature-picture-in-picture = ຄຸນ​ນະ​ສົມ​ບັດ​ທີຄັກ: ຮູບ​ພາບ​ໃນ​ຮູບ​ພາບ​
 features-pip-get-more-done-with-pop-out-videos = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບວິດີໂອທີ່ອອກມາ

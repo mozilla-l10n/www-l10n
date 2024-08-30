@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
+### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
-# Page title
-compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+features-eyedropper-eyedropper-tool = Eyedropper tool
