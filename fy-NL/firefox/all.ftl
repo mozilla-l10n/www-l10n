@@ -13,6 +13,14 @@ firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } y
 firefox-all-everyone-deserves-access-v2 = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – { -brand-name-firefox } beskikber yn mear as 90 talen.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de { -brand-name-firefox-browser } beskikber yn mear as 90 talen.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Scan QR-koade om <em>{ $product_name }</em> te downloaden
+firefox-all-choose-browser = Kies in browser om troch te gean
+firefox-all-choose-platform = Kies in platfoarm om troch te gean
+firefox-all-choose-language = Kies in taal om troch te gean
+firefox-all-change-browser = In oar produkt kieze
+firefox-all-change-platform = In oar platfoarm kieze
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Krij help
 firefox-all-browser = Browser:
