@@ -5,14 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Kontrolearje de systeemeasken
-firefox-all-release-notes = Utjefteopmerkingen
-firefox-all-source-code = Boarnekoade
-firefox-all-need-help = Help nedich?
-firefox-all-which-browser-would = Hokker browser wolle jo downloade?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Download de { -brand-name-firefox } yn it Frysk en yn mear as 90 oare talen
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } yn it Frysk en yn mear as 90 oare talen
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – { -brand-name-firefox } beskikber yn mear as 90 talen.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de { -brand-name-firefox-browser } beskikber yn mear as 90 talen.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Krij help
-firefox-all-you-are-about-to-download = Jo steane op it punt om te downloaden:
 firefox-all-browser = Browser:
 firefox-all-platform = Platfoarm:
 firefox-all-language = Taal:
@@ -22,10 +24,10 @@ firefox-all-the-pre-alpha-version = De pre-alpha-ferzje foar krêftige brûkers 
 firefox-all-64-bit-installers = 64-bits-ynstallaasjeprogramma’s
 firefox-all-choose-a-64-bit-installer = Kies in 64-bits-ynstallaasjeprogramma foar kompjûters mei 64-bits prosessors, wêrmei't se mear RAM oan yndividuele programma’s tawize kinne – mei namme wichtich foar spullen en oare sinnige tapassingen.
 firefox-all-32-bit-installers = 32-bits-ynstallaasjeprogramma’s
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } yn it Frysk en yn mear as 90 oare talen
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Elkenien fertsjinnet tagong ta it ynternet – jo taal mei nea in barriêre foarmje. Dêrom stelle wy – mei help fan tawijde frijwilligers oer de hiele wrâld – de { -brand-name-firefox-browser } beskikber yn mear as 90 talen.
+firefox-all-check-the-system-requirements = Kontrolearje de systeemeasken
+firefox-all-release-notes = Utjefteopmerkingen
+firefox-all-source-code = Boarnekoade
+firefox-all-need-help = Help nedich?
 firefox-all-choose-which-firefox = Kies de { -brand-name-firefox-browser } dy’t jo yn jo taal downloade wolle
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-privacyferklearring
 firefox-all-learn-about-firefox = Mear ynformaasje oer { -brand-name-firefox }-browsers
@@ -36,8 +38,6 @@ firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei 
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy’t de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
 firefox-all-arm64-installers-optimized-v2 = ARM64-/AArch64-ynstallaasjeprogramma’s optimalisearre foar Windows- en Linux-pc’s.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64-ynstallaasjeprogramma’s optimalisearre foar Snapdragon-oandreaune { -brand-name-windows }-pc’s.
 firefox-all-product-send-link = In downloadkeppeling nei jo telefoan ferstjoere
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
