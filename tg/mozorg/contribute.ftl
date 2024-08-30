@@ -11,6 +11,10 @@
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Ғайритехникӣ
+contribute-tag-technical = Техникӣ
+contribute-tag-individual = Инфиродӣ
+contribute-tag-support = Дастгирӣ
 
 ## Mission
 
@@ -24,6 +28,7 @@ contribute-donate = Саҳм гузоштан
 
 ## Support
 
+contribute-support-heading = Гирифтани кумак
 
 ## Web compat
 
