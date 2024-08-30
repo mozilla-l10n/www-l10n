@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = email@example.com
 newsletter-form-select-country-or-region = Válasszon országot vagy régiót
 newsletter-form-select-language = Válasszon nyelvet
 newsletter-form-your-email-here = SAJÁT E-MAIL CÍM
-newsletter-form-format = Formátum
-newsletter-form-html = HTML
-newsletter-form-text = Szöveg
 newsletter-form-get-firefox-news = { -brand-name-firefox } hírek
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Köszönjük!
 newsletter-form-leave-this-field-empty = Hagyja üresen ezt a mezőt.
 newsletter-form-yes = Igen
 newsletter-form-no = Nem
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Hírlevél-feliratkozási űrlap
 multi-newsletter-form-checkboxes-legend = Információt szeretnék ezekről:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
