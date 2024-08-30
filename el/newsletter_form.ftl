@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
 newsletter-form-select-language = Επιλογή γλώσσας
 newsletter-form-your-email-here = ΤΟ EMAIL ΣΑΣ ΕΔΩ
-newsletter-form-format = Μορφή
-newsletter-form-html = HTML
-newsletter-form-text = Απλό κείμενο
 newsletter-form-get-firefox-news = Λάβετε τα νέα του { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Ευχαριστούμε!
 newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
 newsletter-form-yes = Ναι
 newsletter-form-no = Όχι
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Φόρμα εγγραφής στο ενημερωτικό δελτίο
 multi-newsletter-form-checkboxes-legend = Θέλω πληροφορίες σχετικά με:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

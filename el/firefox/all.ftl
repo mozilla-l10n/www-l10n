@@ -5,15 +5,30 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Κάντε λήψη του { -brand-name-firefox } στα ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # Obsolete string (expires 2024-10-27)
 firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Σαρώστε τον κωδικό QR για να λάβετε το <em>{ $product_name }</em>
+firefox-all-choose-browser = Επιλέξτε ένα πρόγραμμα περιήγησης για να συνεχίσετε
+firefox-all-choose-platform = Επιλέξτε μια πλατφόρμα για να συνεχίσετε
+firefox-all-choose-language = Επιλέξτε μια γλώσσα για να συνεχίσετε
+firefox-all-change-browser = Επιλέξτε ένα διαφορετικό προϊόν
+firefox-all-change-platform = Επιλέξτε μια διαφορετική πλατφόρμα
+firefox-all-change-language = Επιλέξτε μια διαφορετική γλώσσα
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Λήψη βοήθειας
 firefox-all-browser = Πρόγραμμα περιήγησης:
 firefox-all-platform = Πλατφόρμα:
 firefox-all-language = Γλώσσα:
+firefox-all-download = 4. Λήψη:
+firefox-all-desktop = Υπολογιστές
+firefox-all-mobile = Κινητές συσκευές
+firefox-all-recommended = (Προτείνεται)
 firefox-all-lang-multi = Πολλαπλές γλώσσες
 firefox-all-plat-mobile = Android και iOS
 firefox-all-sorry-we-couldnt-find = Λυπούμαστε, αλλά δεν ήταν δυνατή η εύρεση της λήψης που ψάχνετε. Δοκιμάστε ξανά ή επιλέξτε μια λήψη από την παρακάτω λίστα.
@@ -36,6 +51,7 @@ firefox-all-count-on-stability-and = Βασιστείτε στη σταθερό�
 firefox-all-windows-installers-for = Προγράμματα εγκατάστασης για Windows, για τα εταιρικά τμήματα πληροφορικής, που απλοποιούν τη ρύθμιση παραμέτρων, τη διανομή και τη διαχείριση του { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Προγράμματα εγκατάστασης ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Προγράμματα εγκατάστασης ARM64/AArch64 βελτιστοποιημένα για υπολογιστές Windows και Linux.
+firefox-all-testflight = Εγγραφείτε για να δοκιμάσετε το { -brand-name-firefox } για iOS με το TestFlight
 firefox-all-product-send-link = Αποστολή συνδέσμου λήψης στο τηλέφωνό σας
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -59,3 +75,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
