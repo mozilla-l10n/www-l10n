@@ -46,9 +46,7 @@ download-a-different-build = Сохти дигареро боргирӣ намо
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Боргирӣ кардани «{ -brand-name-linux }» 32-бит
-# Obsolete string
-download-button-linux-64 = Боргирӣ кардани «{ -brand-name-linux }» 64-бит
 download-button-linux-32-v2 = Боргирӣ кардан барои «Linux» 32-бит
 download-button-linux-64-v2 = Боргирӣ кардан барои «Linux» 64-бит
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Ба даст овардан аз «Microsoft»
