@@ -52,10 +52,6 @@ download-a-different-build = Transferir uma compilação diferente
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Transferir o { -brand-name-linux } 32-bits
-# Obsolete string
-download-button-linux-64 = Transferir o { -brand-name-linux } 64-bits
 download-button-linux-32-v2 = Transferir para o Linux de 32 bits
 download-button-linux-64-v2 = Transferir para o Linux de 64 bits
 # Variables
@@ -63,4 +59,4 @@ download-button-linux-64-v2 = Transferir para o Linux de 64 bits
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Está a utilizar o Debian, Ubuntu ou qualquer distribuição baseada no Debian?<br> Em alternativa, pode configurar o nosso <a { $attrs }>repositório APT</a>.
 # Microsoft Windows Store badge
-download-button-get-it-from-microsoft = Obtenha-o da Microsoft
+download-button-get-it-from-microsoft = Obter da Microsoft
