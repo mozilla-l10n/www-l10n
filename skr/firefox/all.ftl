@@ -5,14 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
-firefox-all-release-notes = ریلیز نوٹ
-firefox-all-source-code = ماخذ کوڈ
-firefox-all-need-help = بھلا مدد دی لوڑ ہے؟
-firefox-all-which-browser-would = تساں کہڑا براؤزر ڈاؤن لوڈ کرݨ پسند کریسو؟
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox } ڈاؤن لوڈ کرو
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox } کوں 90 توں ودھ زباناں وِچ دستیاب کرویندے ہیں۔
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox-browser } کوں 90 توں زائد زباناں وِچ دستیاب کرویندے ہیں۔
+firefox-all-choose-browser = جاری رکھݨ کیتے براؤزر چݨو
+firefox-all-choose-platform = جاری رکھݨ کیتے پلیٹ فارم چݨو
+firefox-all-choose-language = جاری رکھݨ کیتے زبان چݨو
+firefox-all-change-browser = ہک وکھری پروڈکٹ چݨو
+firefox-all-change-platform = ہک وکھرا پلیٹ فارم چݨو
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = مدد گھنو
-firefox-all-you-are-about-to-download = تساں ڈاؤن لوڈ کرݨ دے نیڑے ہو:
 firefox-all-browser = براؤزر:
 firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
@@ -22,10 +29,10 @@ firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور ص�
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپیوٹرز کیتے 64 بٹ انسٹالر دا انتخاب کرو، جیڑھا انہاں کوں انفرادی پروگراماں کیتے زیادہ RAM مختص کرݨ دی اجازت ݙیندا ہے - خاص طور تے گیماں تے بئے مطلوبہ ایپلی کیشنز کیتے اہم۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox-browser } کوں 90 توں زائد زباناں وِچ دستیاب کرویندے ہیں۔
+firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
+firefox-all-release-notes = ریلیز نوٹ
+firefox-all-source-code = ماخذ کوڈ
+firefox-all-need-help = بھلا مدد دی لوڑ ہے؟
 firefox-all-choose-which-firefox = آپݨی زبان وچ ڈاؤن لوڈ کرݨ کیتے { -brand-name-firefox-browser } چݨو
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزراں بارے سِکھو
@@ -36,8 +43,6 @@ firefox-all-count-on-stability-and = انٹرپرائز کیتے بݨائے ئئ
 firefox-all-windows-installers-for = کارپوریٹ آئی ٹی کیتے ونڈوز انسٹالرز جیڑھے { -brand-name-firefox-browser } دی ترتیب، تعیناتی تے انتظام کوں آسان بݨیندے ہن۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 انسٹالرز ونڈو تے لائنکس کمپیوٹراں کیتے بہتر بݨائے ڳئے۔
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64 انسٹالرز Snapdragon نال چلݨ والے { -brand-name-windows } PCs کیتے بہتر بݨائے ڳئے ہن۔
 firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
