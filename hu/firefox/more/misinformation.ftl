@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,12 +14,12 @@ misinformation-disinformation = Félrevezető információ, dezinformáció – 
 misinformation-ultimately-harmful = Végső soron a félretájékoztatás és a dezinformáció egyaránt káros lehet. Nem csak az emberek hisznek a helytelen információkban, a hamis információk sok pénzbe kerülnek a globális gazdaságnak, és veszélyeztethetik a demokráciát és a hatékony kormányzást. És nehéz megállítani ezeket, mert a hamis hírek lényegesen gyorsabban, mélyebben és szélesebb körben terjednek el, mint a pontos információt tartalmazó hírek.
 misinformation-false-info-heading = Hol jelennek meg hamis információk?
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Félrevezető információkkal és dezinformációval mindenhol találkozhat, de ezek online megosztása a legelterjedtebbek és leghatásosabbak. Az algoritmusok és a <a href="{ $tracking }">követés</a> megnövelte annak a lehetőségét, hogy a félrevezető információk és a dezinformáció nagyobb közönséget érjen el a webhelyeken, blogokon, fórumokon és közösségi hálózatokon.
 misinformation-tracking-advertising = Talán már hallott a követésről, elsősorban a reklámokkal összefüggésében. Ugyanakkor hatékony eszköz a hamis információk terjesztésében is. Miért van ez? Amikor a világhálón vagy a közösségi hálózatok hírcsatornájában böngészik, akkor különböző felek követik a viselkedését, érdeklődési körét, és egyes esetekben a kapcsolatait is, hogy rendkívül részletes profilt építsenek Önről, amelyet eladhatnak másoknak, anélkül hogy erről tudna vagy ebbe beleegyezve. Ezeket a profilokat személyre szabott hirdetésekhez használják, de bármilyen célzott információ eljuttatásához használhatók.
 misinformation-social-newtorks = Amikor tartalomjavaslatokat kap egy weboldalon vagy közösségi hálózaton, akkor gyakran a profiladatai alapján kap információkat. Sajnos, bár az algoritmusok egyre okosabbak, nem ellenőrzik a tartalmak pontosságát. Ez különösen a közösségi médiában problémás: ezek a hálózatok minden nap számtalan információt jelenítenek meg a felhasználóiknak, és szinte végtelen mennyiségű tartalomhoz férnek hozzá, köztük felhasználói bejegyzésekhez, hírekhez, hirdetésekhez és szponzorált tartalomhoz. Míg a bejegyzések és a cikkek inkább félrevezető információkat terjeszthetnek, a reklámok és szponzorált tartalmak célzott dezinformációra is használhatók, hogy manipulálhassák Önt, így elengedhetetlen, hogy fel tudja ismerni a félrevezető információkat.
 misinformation-spot-online-heading = Hogyan vegye észre a téves információkat a világhálón, és hogyan akadályozza meg a terjedésüket
-misinformation-look-at-url = Nézze meg az URL-t és a forrást.
+misinformation-look-at-url = Nézze meg az webcímet és a forrást.
 misinformation-known-to-br-credible = Hitelesként ismert? Ha nem biztos benne, akkor tudjon meg többet a forrásról, és az internetes hírnevéről.
 misinformation-overly-sensational = A cím túlságosan szenzációhajhász?
 misinformation-check-out-websites = Nézze meg azokat a weboldalakat és hírforrásokat, melyekben megbízik, és nézze meg hogyan írnak ugyanarról a témáról. A manipulálásra szánt tartalom gyakran olyan szélsőségekbe és túlzásokba bocsátkozik, amelyekre nincs bizonyíték, és nem találhatók meg az alapos kutatást végző munkákban.
