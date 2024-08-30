@@ -44,6 +44,15 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = 下載 { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = 目前正處於兩個 ESR 大版本（{ $esr_next_major } 與 { $esr_current_major }）的轉型期間。
+firefox-all-esr-when-there-is = { -brand-name-firefox-esr } 新的主要版本更新推出後，舊版本仍然會推出幾個小版本更新，讓使用舊版本的使用者能夠準備升級。
+firefox-all-esr-if-you-choose = 若您下載安裝了舊的 ESR 版本，將會在轉型期結束後自動升級到新版本。
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = 了解 <a { $attrs }>{ -brand-name-firefox-esr } 發行週期</a>的更多資訊。
 firefox-all-check-the-system-requirements = 檢查系統需求
 firefox-all-release-notes = 發行公告
 firefox-all-source-code = 原始碼
@@ -58,6 +67,7 @@ firefox-all-count-on-stability-and = 若需要穩定度與易用性，請使用�
 firefox-all-windows-installers-for = Windows Installer 安裝程式可讓企業的 IT 部門簡化 { -brand-name-firefox-browser }的設定、佈署與管理過程。
 firefox-all-arm64-installers = ARM64/AArch64 安裝程式
 firefox-all-arm64-installers-optimized-v2 = 針對 Windows 與 Linux PC 最佳化的 ARM64/AArch64 安裝程式。
+firefox-all-testflight = 註冊後即可使用 TestFlight 測試 { -brand-name-firefox } for iOS
 firefox-all-product-send-link = 傳送下載鏈結到您的手機
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

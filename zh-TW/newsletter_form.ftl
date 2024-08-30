@@ -32,6 +32,8 @@ newsletter-form-thanks = 感謝！
 newsletter-form-leave-this-field-empty = 將此欄位留白。
 newsletter-form-yes = 好的
 newsletter-form-no = 不要
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = 電子報註冊表單
 multi-newsletter-form-checkboxes-legend = 我想要下列單位的相關資訊：
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
