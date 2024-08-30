@@ -31,9 +31,25 @@ vpn-landing-connect-up-to-devices =
         [few] Падключыце да { $devices } прылад
        *[many] Падключыце да { $devices } прылад
     }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Больш за { $servers } сервер у больш чым { $countries } краіне
+        [few] Больш за { $servers } сервераў у больш чым { $countries } краінах
+       *[many] Больш за { $servers } сервераў у больш чым { $countries } краінах
+    }
+vpn-landing-fast-network-speeds-even-while = Высокая хуткасць сеткі нават у часе гульні
+vpn-landing-no-logging-tracking-or-sharing = Ніякай рэгістрацыі, сачэння ці абмену сеткавымі дадзенымі
+vpn-landing-no-bandwidth-restrictions-or = Ніякіх абмежаванняў прапускной здольнасці або рэгулявання
+vpn-landing-extra-security-whole-device = Дадатковая бяспека: абарона ўсёй прылады, маршрутызацыя з некалькімі пераходамі і многае іншае
 vpn-landing-see-all-features = Паглядзець усе функцыі
 vpn-landing-fram-a-brand-you-can-trust = Ад брэнда, якому можна давяраць
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } – гэта некамерцыйная інтэрнэт-кампанія, якая змагаецца за здаровы Інтэрнэт з 1998 года.
 vpn-landing-one-subscription-for-all-your = Адна падпіска для ўсіх вашых прылад
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Пры падтрымцы { -brand-name-mozilla }.</strong> Змагаемся за ваша права на прыватнасць з 1998 года.
 vpn-landing-learn-more-from-our-experts = Даведайцеся больш у нашых экспертаў
 vpn-landing-do-you-need-a-vpn-at-home = Ці патрэбен вам VPN дома? Вось 5 прычын.
 vpn-landing-what-is-an-ip-address = Што такое IP-адрас?
