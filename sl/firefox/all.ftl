@@ -5,14 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Preverite sistemske zahteve
-firefox-all-release-notes = Opombe ob izdaji
-firefox-all-source-code = Izvorna koda
-firefox-all-need-help = Potrebujete pomoč?
-firefox-all-which-browser-would = Kateri brskalnik želite prenesti?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Prenesite { -brand-name-firefox } v slovenščini in več kot 90 drugih jezikih
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Prenesite { -brand-name-firefox-browser } v slovenščini in več kot 90 drugih jezikih
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox } v preko 90 jezikih.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoč
-firefox-all-you-are-about-to-download = Prenesli boste:
 firefox-all-browser = Brskalnik:
 firefox-all-platform = Platforma:
 firefox-all-language = Jezik:
@@ -22,10 +24,10 @@ firefox-all-the-pre-alpha-version = Predizdaja za napredne uporabnike, ki radi p
 firefox-all-64-bit-installers = 64-bitni namestitveni programi
 firefox-all-choose-a-64-bit-installer = Izberite 64-bitni namestitveni program za računalnike s 64-bitnim procesorjem, ki omogoča dodelitev več pomnilnika posameznim programom – zlasti pomembno za igre in druge zahtevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni namestitveni programi
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Prenesite { -brand-name-firefox-browser } v slovenščini in več kot 90 drugih jezikih
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
+firefox-all-check-the-system-requirements = Preverite sistemske zahteve
+firefox-all-release-notes = Opombe ob izdaji
+firefox-all-source-code = Izvorna koda
+firefox-all-need-help = Potrebujete pomoč?
 firefox-all-choose-which-firefox = Izberite, kateri { -brand-name-firefox-browser } želite prenesti v svojem jeziku
 firefox-all-firefox-privacy-notice = Obvestilo o zasebnosti za { -brand-name-firefox }
 firefox-all-learn-about-firefox = Več o brskalnikih { -brand-name-firefox }
@@ -36,8 +38,6 @@ firefox-all-count-on-stability-and = Pričakujte stabilnost in enostavnost upora
 firefox-all-windows-installers-for = Namestitveni programi za sistem Windows, ki v podjetniških okoljih poenostavljajo namestitev in upravljanje { -brand-name-firefox-browser(sklon: "rodilnik") }.
 firefox-all-arm64-installers = Namestitveni programi ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Namestitveni programi ARM64/AArch64, optimizirani za računalnike Windows in Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Namestitveni programi ARM64/AArch64, optimizirani za računalnike { -brand-name-windows } s procesorji Snapdragon.
 firefox-all-product-send-link = Pošljite si povezavo za prenos na telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
