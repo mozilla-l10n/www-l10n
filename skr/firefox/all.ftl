@@ -18,17 +18,26 @@ firefox-all-choose-platform = جاری رکھݨ کیتے پلیٹ فارم چݨ�
 firefox-all-choose-language = جاری رکھݨ کیتے زبان چݨو
 firefox-all-change-browser = ہک وکھری پروڈکٹ چݨو
 firefox-all-change-platform = ہک وکھرا پلیٹ فارم چݨو
+firefox-all-change-language = ہک وکھری زبان چݨو
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = ہیٹھاں تندیر وچوں چݨو
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = مدد گھنو
 firefox-all-browser = براؤزر:
 firefox-all-platform = پلیٹ فارم:
 firefox-all-language = زبان:
+firefox-all-download = 4۔ ڈاؤن لوڈ:
+firefox-all-desktop = ڈیسک ٹاپ
+firefox-all-mobile = موبائل
+firefox-all-recommended = (سفارش تھئے ہوئے)
 firefox-all-lang-multi = ڈھڳ زباناں
+firefox-all-plat-mobile = Android تے iOS
 firefox-all-sorry-we-couldnt-find = معذرت، اساکوں او ڈاؤن لوڈ نہیں لبھی تساں جیندی ڳول اِچ ہو۔ براہ مہربانی ولا کوشش کرو، یا تلویں فہرست کنوں ڈاؤن لوڈ کوں چݨو۔
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کیتے ہے جو کریشز دا شکار کرݨ چاہندے ہن تے نویں خصوصیات کوں کوڈ کریندے ہوئے جانچݨ چاہندے ہن۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپیوٹرز کیتے 64 بٹ انسٹالر دا انتخاب کرو، جیڑھا انہاں کوں انفرادی پروگراماں کیتے زیادہ RAM مختص کرݨ دی اجازت ݙیندا ہے - خاص طور تے گیماں تے بئے مطلوبہ ایپلی کیشنز کیتے اہم۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
+firefox-all-microsoft-store-installers = مائیکروسافٹ سٹور
 firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
 firefox-all-release-notes = ریلیز نوٹ
 firefox-all-source-code = ماخذ کوڈ
