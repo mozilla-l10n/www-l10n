@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = ملک یا علاقہ چݨو
 newsletter-form-select-language = زبان چُݨو
 newsletter-form-your-email-here = تہاݙی ای میل اتھ ہے
-newsletter-form-format = وضع
-newsletter-form-html = HTML
-newsletter-form-text = متن
 newsletter-form-get-firefox-news = { -brand-name-firefox }  خبراں گھنو
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = شکریہ!
 newsletter-form-leave-this-field-empty = ایہ خانہ خالی چھوڑو۔
 newsletter-form-yes = جیا
 newsletter-form-no = کو
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = نیوز لیٹر سائن اپ فارم
 multi-newsletter-form-checkboxes-legend = میں ایں بارے ڄاݨکاری چاہنداں:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

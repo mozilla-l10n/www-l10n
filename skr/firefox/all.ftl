@@ -13,6 +13,9 @@ firefox-all-download-the-firefox = انگریزی (یو ایس) تے 90 کنوں
 firefox-all-everyone-deserves-access-v2 = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox } کوں 90 توں ودھ زباناں وِچ دستیاب کرویندے ہیں۔
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox-browser } کوں 90 توں زائد زباناں وِچ دستیاب کرویندے ہیں۔
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = <em>{ $product_name }</em> گھنݨ کیتے کیوآر کوڈ سکین کرو
 firefox-all-choose-browser = جاری رکھݨ کیتے براؤزر چݨو
 firefox-all-choose-platform = جاری رکھݨ کیتے پلیٹ فارم چݨو
 firefox-all-choose-language = جاری رکھݨ کیتے زبان چݨو
