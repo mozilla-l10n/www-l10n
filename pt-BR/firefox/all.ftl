@@ -5,27 +5,53 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Verifique os requisitos de sistema
-firefox-all-release-notes = Notas de atualização
-firefox-all-source-code = Código fonte
-firefox-all-need-help = Precisa de ajuda?
-firefox-all-which-browser-would = Qual navegador você quer baixar?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Use o { -brand-name-firefox } em português e mais de 90 outros idiomas
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Use o { -brand-name-firefox-browser } em inglês (US) e mais de 90 outros idiomas
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Todos merecem ter acesso à internet, seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox } em mais de 90 idiomas.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Todos merecem ter acesso à internet — seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Capture o código QR para instalar o <em>{ $product_name }</em>
+firefox-all-choose-browser = Escolha um navegador para continuar
+firefox-all-choose-platform = Escolha uma plataforma para continuar
+firefox-all-choose-language = Escolha um idioma para continuar
+firefox-all-change-browser = Escolha outro produto
+firefox-all-change-platform = Escolha outra plataforma
+firefox-all-change-language = Escolha outro idioma
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Escolha da lista abaixo
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pedir ajuda
-firefox-all-you-are-about-to-download = Você vai baixar:
 firefox-all-browser = Navegador:
 firefox-all-platform = Plataforma:
 firefox-all-language = Idioma:
+firefox-all-download = 4. Download:
+firefox-all-desktop = Computador
+firefox-all-mobile = Celular
+firefox-all-recommended = (recomendado)
 firefox-all-lang-multi = Vários idiomas
+firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Desculpe, não encontramos o que está procurando. Tente novamente, ou selecione um item na lista abaixo.
 firefox-all-the-pre-alpha-version = A versão pré-alfa para usuários avançados que gostam de caçar erros e testar novos recursos à medida que são codificados.
 firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Escolha um instalador de 64 bits para computadores com processadores de 64 bits, que permitem alocar mais memória RAM para cada programa — particularmente importante para jogos e outras aplicações exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Use o { -brand-name-firefox-browser } em inglês (US) e mais de 90 outros idiomas
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todos merecem ter acesso à internet — seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas.
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Baixar o { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Estamos no período de transição entre as principais versões { $esr_next_major } e { $esr_current_major } do ESR.
+firefox-all-check-the-system-requirements = Verifique os requisitos de sistema
+firefox-all-release-notes = Notas de atualização
+firefox-all-source-code = Código fonte
+firefox-all-need-help = Precisa de ajuda?
 firefox-all-choose-which-firefox = Escolha qual { -brand-name-firefox-browser } baixar em seu idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidade do { -brand-name-firefox }
 firefox-all-learn-about-firefox = Saiba mais sobre navegadores { -brand-name-firefox }
@@ -36,8 +62,6 @@ firefox-all-count-on-stability-and = Confie na estabilidade e facilidade de uso 
 firefox-all-windows-installers-for = Instaladores Windows para TI corporativo que simplifica a configuração, implantação e gerenciamento do { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64/AArch64 otimizados para computadores com Windows ou Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64, otimizados para PCs com { -brand-name-windows } e processadores Snapdragon.
 firefox-all-product-send-link = Envie um link de download para seu celular
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -61,3 +85,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
