@@ -16,6 +16,12 @@ vpn-landing-whats-a-vpn = Што такое VPN?
 vpn-landing-a-virtual-private-network-protects = Віртуальная прыватная сетка абараняе ваша падключэнне к інтэрнэту, трымаючы больш прыватным ваша месцазнаходжанне і тое, што вы робіце ў сеціве, на ўсіх вашых прыладах.
 vpn-landing-see-all-the-ways-mozilla-vpn = Паглядзіце, як { -brand-name-mozilla-vpn } абараняе вас.
 vpn-landing-how-a-vpn-helps-you = Як вам дапамагае VPN
+vpn-landing-keeps-your-data-safe = Захоўвае вашы звесткі ў бяспецы ў агульнадаступнай сетцы Wi-Fi
+vpn-landing-log-in-to-your-bank-or = Уваходзьце ў свой банк або віртуальны кабінет лекара з аэрапорта, кафэ ці адкуль заўгодна, спакойна.
+vpn-landing-blocks-advertisers-from = Блакуе рэкламадаўцаў ад арыентацыі на вас
+vpn-landing-hide-your-activity-from = Схавайце сваю дзейнасць ад трэкераў і шкодных праграм, каб рабіць пакупкі без назірання.
+vpn-landing-helps-you-access-global = Дапамагае атрымаць доступ да глабальнага змесціва
+vpn-landing-check-out-streaming-media = Праглядайце струменевыя медыя, вэб-сайты і жывыя трансляцыі з іншых краін, пакуль вы падарожнічаеце ці з дома.
 vpn-landing-features = Магчымасці
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
