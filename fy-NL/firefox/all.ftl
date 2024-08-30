@@ -49,6 +49,11 @@ firefox-all-download-esr-version = { $esr_version } downloade
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Wy binne yn de oergongsperioade tusken de grutte ESR-ferzjes { $esr_next_major } en { $esr_current_major }.
+firefox-all-esr-when-there-is = As der in grutte ferzjefernijing is, is der altyd in oerlaap fan in pear { -brand-name-firefox-esr }-puntferzjes om minsken dy’t de âlde ferzje brûke tariede te kinnen op it fernijen nei de nije.
+firefox-all-esr-if-you-choose = As jo derfoar kieze om de âldere ESR-ferzje te downloaden, wurde jo automatysk bywurke nei de nije as de oergongsperioade einiget.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Lês mear oer de <a { $attrs }>{ -brand-name-firefox-esr }-útjeftesyklus</a>.
 firefox-all-check-the-system-requirements = Kontrolearje de systeemeasken
 firefox-all-release-notes = Utjefteopmerkingen
 firefox-all-source-code = Boarnekoade
@@ -63,6 +68,7 @@ firefox-all-count-on-stability-and = Rekkenje op stabiliteit en brûksgemak mei 
 firefox-all-windows-installers-for = Windows-ynstallaasjeprogramma’s foar IT-ôfdielingen dy’t de konfiguraasje, ymplemintaasje en it behear fan de { -brand-name-firefox-browser } ferienfâldigje.
 firefox-all-arm64-installers = ARM/AArch64-ynstallaasjeprogramma’s
 firefox-all-arm64-installers-optimized-v2 = ARM64-/AArch64-ynstallaasjeprogramma’s optimalisearre foar Windows- en Linux-pc’s.
+firefox-all-testflight = Skriuw jo yn om { -brand-name-firefox } foar iOS te testen mei TestFlight
 firefox-all-product-send-link = In downloadkeppeling nei jo telefoan ferstjoere
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -86,3 +92,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } foar iOS TestFlight

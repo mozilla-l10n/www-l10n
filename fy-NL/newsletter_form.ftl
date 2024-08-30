@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = jonamme@example.com
 newsletter-form-select-country-or-region = Selektearje lân of regio
 newsletter-form-select-language = Taal selektearje
 newsletter-form-your-email-here = JO E-MAILADRES
-newsletter-form-format = Formaat
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Krij { -brand-name-firefox }-nijs
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Tank!
 newsletter-form-leave-this-field-empty = Lit dit fjild leech.
 newsletter-form-yes = Ja
 newsletter-form-no = Nee
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Ynskriuwformulier foar nijsbrief
 multi-newsletter-form-checkboxes-legend = Ik wol ynformaasje oer:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
