@@ -5,27 +5,43 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Sistem gereksinimlerini kontrol edin
-firefox-all-release-notes = Sürüm notları
-firefox-all-source-code = Kaynak kodu
-firefox-all-need-help = Yardım mı lazım?
-firefox-all-which-browser-would = Hangi tarayıcıyı indirmek istersiniz?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = { -brand-name-firefox }’u Türkçe veya 90 farklı dilde indirin
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = { -brand-name-firefox-browser }nı Türkçe veya 90 farklı dilde indirin
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox }’u gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }nı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
+firefox-all-choose-browser = Devam etmek için bir tarayıcı seçin
+firefox-all-choose-platform = Devam etmek için bir platform seçin
+firefox-all-choose-language = Devam etmek için bir dil seçin
+firefox-all-change-browser = Farklı bir ürün seç
+firefox-all-change-platform = Farklı bir platform seç
+firefox-all-change-language = Farklı bir dil seç
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Aşağıdaki listeden seçin
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Yardım alın
-firefox-all-you-are-about-to-download = İndirmek üzere olduğunuz tarayıcı:
 firefox-all-browser = Tarayıcı:
 firefox-all-platform = Platform:
 firefox-all-language = Dil:
+firefox-all-download = 4. İndirme:
+firefox-all-desktop = Bilgisayar
+firefox-all-mobile = Mobil
+firefox-all-recommended = (Önerilen)
 firefox-all-lang-multi = Çoklu dil
+firefox-all-plat-mobile = Android ve iOS
 firefox-all-sorry-we-couldnt-find = Kusura bakmayın, aradığınız dosyayı bulamadık. Lütfen tekrar deneyin veya aşağıdaki listeden bir dosya seçin.
 firefox-all-the-pre-alpha-version = Çökmeleri umursamayan, yeni özellikleri daha geliştirilirken test etmek isteyen deneyimli kullanıcılara yönelik alfa öncesi sürüm.
 firefox-all-64-bit-installers = 64 bit yükleyiciler
 firefox-all-choose-a-64-bit-installer = 64 bit işlemcili bilgisayarlar için 64 bit yükleyiciyi seçin. 64 bit işlemcili bilgisayarlar programlara daha fazla RAM ayrılabilmesini sağlar. Bu, özellikle oyunlar ve belleği yoğun kullanan uygulamalar için önemlidir.
 firefox-all-32-bit-installers = 32 bit yükleyiciler
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser }nı Türkçe veya 90 farklı dilde indirin
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }nı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-check-the-system-requirements = Sistem gereksinimlerini kontrol edin
+firefox-all-release-notes = Sürüm notları
+firefox-all-source-code = Kaynak kodu
+firefox-all-need-help = Yardım mı lazım?
 firefox-all-choose-which-firefox = Hangi { -brand-name-firefox-browser }nı hangi dilde indirmek istediğinizi seçin
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Gizlilik Bildirimi
 firefox-all-learn-about-firefox = { -brand-name-firefox } tarayıcıları hakkında bilgi alın
@@ -36,8 +52,6 @@ firefox-all-count-on-stability-and = { -brand-name-firefox } tarayıcısının k
 firefox-all-windows-installers-for = Kurumsal BT departmanları için { -brand-name-firefox-browser }nın yapılandırmasını, dağıtımını ve yönetimini basitleştiren Windows yükleyicileri.
 firefox-all-arm64-installers = ARM64/AArch64 yükleyiciler
 firefox-all-arm64-installers-optimized-v2 = Windows ve Linux bilgisayarlar için optimize edilmiş ARM64/AArch64 yükleyiciler.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64 yükleyiciler Snapdragon destekli { -brand-name-windows } bilgisayarlar için optimize edilmiştir.
 firefox-all-product-send-link = İndirme bağlantısını telefonunuza gönderin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -61,3 +75,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight

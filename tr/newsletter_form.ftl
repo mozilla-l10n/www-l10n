@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = kullanici@example.com
 newsletter-form-select-country-or-region = Ülkenizi seçin
 newsletter-form-select-language = Dil seçin
 newsletter-form-your-email-here = E-POSTA ADRESİNİZ
-newsletter-form-format = Biçim
-newsletter-form-html = HTML
-newsletter-form-text = Metin
 newsletter-form-get-firefox-news = { -brand-name-firefox } haberlerini alın
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Teşekkürler!
 newsletter-form-leave-this-field-empty = Bu alanı boş bırakın.
 newsletter-form-yes = Evet
 newsletter-form-no = Hayır
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Bülten kayıt formu
 multi-newsletter-form-checkboxes-legend = Şu konuda bilgi istiyorum:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
