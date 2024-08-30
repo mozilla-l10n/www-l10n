@@ -8,15 +8,10 @@
 # page title
 features-sync-firefox-browser-sync = Sincronização do navegador { -brand-name-firefox }
 # HTML page description
-features-sync-access-your-firefox-bookmarks = Aceda aos seus marcadores, palavras-passe, separadores abertos e muito mais do { -brand-name-firefox }, a partir de qualquer dispositivo.
-features-sync-with-firefox-you-can-pick-up-where = Com o { -brand-name-firefox }, pode continuar de onde parou quando muda do seu computador para o seu telemóvel para o seu tablet. O { -brand-name-firefox } permite ver os seus marcadores, histórico de navegação, palavras-passe guardadas e muito mais, independentemente do dispositivo que estiver a utilizar.
+features-sync-access-your-firefox-bookmarks = Aceda aos seus marcadores, palavras-passe, separadores abertos e muito mais no { -brand-name-firefox }, a partir de qualquer dispositivo.
+features-sync-with-firefox-you-can-pick-up-where = Com o { -brand-name-firefox }, pode retomar exatamente onde parou, ao alternar entre o seu computador, telemóvel e tablet. O { -brand-name-firefox } dá-lhe acesso aos seus marcadores, histórico de navegação, palavras-passe memorizadas e muito mais, independentemente do dispositivo que estiver a utilizar.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registe-se para uma { -brand-name-mozilla-account }</a> gratuita e poderá sincronizar os seus dados em qualquer lugar em que utilize o { -brand-name-firefox } e outras { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Registe-se para uma { -brand-name-mozilla-account }</a> gratuita e poderá sincronizar os seus dados em qualquer lugar que utiliza o seu navegador { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registe-se para uma conta { -brand-name-firefox }</a> e poderá sincronizar os seus dados onde quer que utilize o seu { -brand-name-firefox } navegador.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Todos os seus dados são encriptados nos nossos servidores para que não os possamos ler - apenas você pode aceder aos mesmos. Não vendemos a sua informação a anunciantes porque isso violaria a nossa <a href="{ $privacy }">promessa de privacidade dos dados</a>.
