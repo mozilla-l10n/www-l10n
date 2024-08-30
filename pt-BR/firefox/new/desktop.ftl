@@ -64,7 +64,7 @@ firefox-desktop-download-built-in-screenshot = Ferramenta integrada de captura d
 firefox-desktop-download-bookmarks-manager = Gerenciador de favoritos
 firefox-desktop-download-autosuggest-urls = Sugestão automática de páginas
 firefox-desktop-download-sync-across-devices = Sincronização entre dispositivos
-firefox-desktop-download-reader-mode = Modo leitor
+firefox-desktop-download-reader-mode = Modo de leitura
 firefox-desktop-download-spell-check = Correção ortográfica
 firefox-desktop-download-pinned-tabs = Poder fixar abas
 firefox-desktop-download-stream-share-play = Transmita, compartilhe e reproduza
@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = O { -brand-name-firefox } foi cri
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À medida que a internet cresce e muda, o { -brand-name-firefox } continua a se concentrar no seu direito à privacidade — chamamos isso de <a { $attrs }>Compromisso de como lidar com dados pessoais</a>: Coletar menos. Manter seguro. Sem segredos. Seus dados, sua atividade na web, sua vida online são protegidos pelo { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = O { -brand-name-firefox } está disponível para todos os seus dispositivos. Leve com você suas abas, histórico, favoritos e muito mais. Tudo que precisa é uma <a { $attrs }>Conta { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = O { -brand-name-firefox } está disponível para todos os seus dispositivos. Tenha com você suas abas, histórico e favoritos. Tudo o que precisa é de uma <a { $attrs }>{ -brand-name-mozilla-account }</a> para acessar a sincronização e aproveitar mais produtos { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = O { -brand-name-firefox } autom
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Dúvidas? O <a { $attrs }>suporte da { -brand-name-mozilla }</a> pode ajudar.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Você já tem o navegador. Agora obtenha ainda mais do { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Esteja atento a hackers com o { -brand-name-mozilla-monitor }, proteja seu endereço de email  com o { -brand-name-firefox-relay } e muito mais.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Esteja atento a hackers com o { -brand-name-firefox-monitor }, proteja seu endereço de email  com o { -brand-name-firefox-relay } e muito mais.
-firefox-desktop-download-get-more-from-firefox = Obter mais do { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Apenas baixar o navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Siga <a href="{ $url }">estas instruç�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Seu sistema pode não atender aos requisitos do { -brand-name-firefox }, mas você pode tentar <a href="{ $url }">uma dessas versões</a>.
-firefox-desktop-download-taskbar = O { -brand-name-firefox } será fixado na barra de tarefas do { -brand-name-windows } após a instalação
