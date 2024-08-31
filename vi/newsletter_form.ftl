@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Chọn quốc gia hoặc khu vực
 newsletter-form-select-language = Chọn ngôn ngữ
 newsletter-form-your-email-here = NHẬP EMAIL CỦA BẠN TẠI ĐÂY
-newsletter-form-format = Định dạng
-newsletter-form-html = HTML
-newsletter-form-text = Văn bản
 newsletter-form-get-firefox-news = Nhận tin tức về { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Cảm ơn!
 newsletter-form-leave-this-field-empty = Để trống trường này.
 newsletter-form-yes = Đồng ý
 newsletter-form-no = Không
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Mẫu đăng ký nhận bản tin
 multi-newsletter-form-checkboxes-legend = Tôi muốn thông tin về:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
