@@ -25,12 +25,18 @@ firefox-all-language = Rěč:
 firefox-all-download = 4. Sćehnjenje:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobilny telefon
+firefox-all-recommended = (Doporučeny)
 firefox-all-lang-multi = Wjacore rěče
+firefox-all-plat-mobile = Android a iOS
 firefox-all-sorry-we-couldnt-find = Bohužel njejsmy sćehnjenje namakali, za kotrymž pytaće. Prošu spytajće hišće raz abo wubjerće sćehnjenje ze slědowaceje lisćiny.
 firefox-all-the-pre-alpha-version = Wersija předalfa za wobhonjenych wužiwarjow, kotřiž za spadami slědźa a nowe funkcije testuja, mjeztym zo so programuja.
 firefox-all-64-bit-installers = 64-bitowe instalowaki
 firefox-all-choose-a-64-bit-installer = Wubjerće 64-bitowy instalowanski program za ličaki z 64-bitowymi procesorami, kotryž jim dowoluje, wjace RAM připokazać - wosebje wažne za hry a druhe naročne nałoženja.
 firefox-all-32-bit-installers = 32-bitowe instalowaki
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } sćahnyć
 firefox-all-check-the-system-requirements = Čitajće systemowe žadanja
 firefox-all-release-notes = Wersijowe informacije
 firefox-all-source-code = Žórłowy kod
@@ -67,3 +73,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
