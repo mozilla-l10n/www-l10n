@@ -8,3 +8,4 @@
 # page title
 bookmark-manager-bookmark-manager = ໂຕຈັດການບຸກມາກ
 bookmark-manager-easily-import-bookmarks = ນຳເຂົ້າບຸກມາກໄດ້ຢ່າງງ່າຍດາຍ
+bookmark-manager-bookmarks-toolbar = ແຖບເຄື່ອງມື bookmarks

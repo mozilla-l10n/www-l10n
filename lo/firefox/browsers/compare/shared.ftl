@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
 compare-shared-compare-firefox = ປຽບທຽບກັບ { -brand-name-firefox }
+compare-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
 compare-shared-footer-cta-button = ດາວໂຫລດ { -brand-name-firefox }
 compare-shared-its-easy-to-switch = ມັນງ່າຍທີ່ຈະປ່ຽນ
 # Used as a small link to a cited source

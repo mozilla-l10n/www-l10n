@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = ດາວໂຫລດ { -brand-name-firefox } ໃນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ຫຼາຍກວ່າ 90 ພາສາອື່ນໆ
 # Obsolete string (expires 2024-10-27)
 firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
 # Obsolete string (expires 2024-10-27)
@@ -34,6 +36,9 @@ firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-choose-a-64-bit-installer = ເລືອກຕົວຕິດຕັ້ງ 64-bit ສໍາລັບຄອມພິວເຕີທີ່ມີໂປເຊດເຊີ 64-bit, ເຊິ່ງເຮັດໃຫ້ພວກເຂົາສາມາດຈັດສັນ RAM ຫຼາຍຂຶ້ນໃຫ້ກັບແຕ່ລະໂປຼແກຼມ - ມີຄວາມສໍາຄັນໂດຍສະເພາະສໍາລັບເກມແລະຄໍາຮ້ອງສະຫມັກອື່ນໆທີ່ຕ້ອງການ.
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = ດາວໂຫຼດ { $esr_version }
 firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
@@ -70,3 +75,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight

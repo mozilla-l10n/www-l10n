@@ -8,6 +8,7 @@
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້
+mozilla-accounts-already = ທ່ານມີ { -brand-name-mozilla-account } ຢູ່ກ່ອນແລ້ວ. ຊົມເຊີຍ!
 firefox-accounts-manage = ຈັດການບັນຊີຂອງທ່ານ
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account

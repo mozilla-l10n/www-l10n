@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-browse-faster = ທ່ອງເວັບໄວຂື້ນ
+features-fast-faster-gaming = ເກມໄວຂຶ້ນ

@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
+features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
+features-index-ad-tracker-blocking = ປ້ອງກັນການຕິດຕາມຈາກໂຄສະນາ
 features-index-translate-the-web = ແປເວັບ
