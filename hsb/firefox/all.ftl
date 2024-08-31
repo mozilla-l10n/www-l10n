@@ -5,27 +5,36 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Čitajće systemowe žadanja
-firefox-all-release-notes = Wersijowe informacije
-firefox-all-source-code = Žórłowy kod
-firefox-all-need-help = Trjebaće pomoc?
-firefox-all-which-browser-would = Kotry wobhladowak chceće sćahnyć?
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Sćehńće wobhladowak { -brand-name-firefox-browser } w hornjoserbšćinje a wjace hač 90 druhich rěčach
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Kóždy sej přistup k internetej zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
+firefox-all-choose-browser = Wubjerće wobhladowak, zo byšće pokročował
+firefox-all-choose-platform = Wubjerće platformu, zo byšće pokročował
+firefox-all-choose-language = Wubjerće rěč, zo byšće pokročował
+firefox-all-change-browser = Wubjerće druhi produkt
+firefox-all-change-platform = Wubjerće druhu platformu
+firefox-all-change-language = Wubjerće druhu rěč
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Wubjerće ze slědowaceje lisćiny
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoc sej wobstarać
-firefox-all-you-are-about-to-download = Chceće tole sćahnyć:
 firefox-all-browser = Wobhladowak:
 firefox-all-platform = Platforma:
 firefox-all-language = Rěč:
+firefox-all-download = 4. Sćehnjenje:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobilny telefon
 firefox-all-lang-multi = Wjacore rěče
 firefox-all-sorry-we-couldnt-find = Bohužel njejsmy sćehnjenje namakali, za kotrymž pytaće. Prošu spytajće hišće raz abo wubjerće sćehnjenje ze slědowaceje lisćiny.
 firefox-all-the-pre-alpha-version = Wersija předalfa za wobhonjenych wužiwarjow, kotřiž za spadami slědźa a nowe funkcije testuja, mjeztym zo so programuja.
 firefox-all-64-bit-installers = 64-bitowe instalowaki
 firefox-all-choose-a-64-bit-installer = Wubjerće 64-bitowy instalowanski program za ličaki z 64-bitowymi procesorami, kotryž jim dowoluje, wjace RAM připokazać - wosebje wažne za hry a druhe naročne nałoženja.
 firefox-all-32-bit-installers = 32-bitowe instalowaki
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Sćehńće wobhladowak { -brand-name-firefox-browser } w hornjoserbšćinje a wjace hač 90 druhich rěčach
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kóždy sej přistup k internetej zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
+firefox-all-check-the-system-requirements = Čitajće systemowe žadanja
+firefox-all-release-notes = Wersijowe informacije
+firefox-all-source-code = Žórłowy kod
+firefox-all-need-help = Trjebaće pomoc?
 firefox-all-choose-which-firefox = Wubjerće { -brand-name-firefox-browser }, kotryž chceće w swojej rěči sćahnyć
 firefox-all-firefox-privacy-notice = Pokazki priwatnosće { -brand-name-firefox }
 firefox-all-learn-about-firefox = Zhońće wjace wo wobhladowakach { -brand-name-firefox }
@@ -35,7 +44,6 @@ firefox-all-test-your-sites-against = Testujće planowane funkcije wobhladowaka 
 firefox-all-count-on-stability-and = Spušćće so na stabilnosć a lochke wužiwanje z tutym wobhladowakom { -brand-name-firefox } za předewzaća.
 firefox-all-windows-installers-for = Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje { -brand-name-firefox-browser } wosnadnjeja.
 firefox-all-arm64-installers = Instalowaki ta ARM64/AArch64
-firefox-all-arm64-installers-optimized = Instalowaki ARM64/AArch64, kotrež su za ličaki { -brand-name-windows } optimowane, kotrež Snapdragon podpěruja.
 firefox-all-product-send-link = Sćelće swojemu telefonej sćehnjenski wotkaz.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
