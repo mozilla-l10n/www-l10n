@@ -41,6 +41,9 @@ firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپیوٹرز کیتے 64 بٹ انسٹالر دا انتخاب کرو، جیڑھا انہاں کوں انفرادی پروگراماں کیتے زیادہ RAM مختص کرݨ دی اجازت ݙیندا ہے - خاص طور تے گیماں تے بئے مطلوبہ ایپلی کیشنز کیتے اہم۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 firefox-all-microsoft-store-installers = مائیکروسافٹ سٹور
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } ڈاؤن لوڈ کرو
 firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
 firefox-all-release-notes = ریلیز نوٹ
 firefox-all-source-code = ماخذ کوڈ
