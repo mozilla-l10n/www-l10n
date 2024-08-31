@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = dittnamn@exempel.se
 newsletter-form-select-country-or-region = Välj land eller region
 newsletter-form-select-language = Välj språk
 newsletter-form-your-email-here = DIN E-POST HÄR
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Text
 newsletter-form-get-firefox-news = Få nyheter om { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Tack!
 newsletter-form-leave-this-field-empty = Lämna fältet tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nej
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Formulär för anmälan till nyhetsbrev
 multi-newsletter-form-checkboxes-legend = Jag vill ha information om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

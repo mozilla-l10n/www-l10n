@@ -49,6 +49,7 @@ firefox-all-download-esr-version = Hämta { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Vi befinner oss i en övergångsperiod mellan två stora ESR-versioner { $esr_next_major } och { $esr_current_major }.
+firefox-all-esr-when-there-is = När det finns en större versionsuppdatering finns det alltid en överlappning av några { -brand-name-firefox-esr }-punktsversioner för att tillåta personer som använder den gamla versionen att förbereda sig för att flytta till den nya.
 firefox-all-esr-if-you-choose = Om du väljer att ladda ner den äldre ESR-versionen, uppdateras du automatiskt till den nya när övergångsperioden slutar.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
