@@ -11,25 +11,23 @@ home-mission-driven = Керовані місією. Натхненні людь
 home-were-not-normal = Ми – не звичайна технологічна компанія. Продукти, які ми створюємо, цінують людей понад прибуток. Ми існуємо заради збереження здоровішого інтернету, в якому знайдеться місце для всіх.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Ми працюємо заради збереження здоров'я інтернету та життя онлайн.”
-# Obsolete string
-home-mitchell-baker = Мітчелл Бейкер, генеральний директор { -brand-name-mozilla }
 home-mitchell-baker-v2 = Мітчелл Бейкер, голова правління { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } створює продукти, які поважають приватність
 home-product-firefox-browsing = Приватний і безпечний перегляд
 home-cta-get-firefox = Отримати { -brand-name-firefox }
 home-product-pocket-articles = Найцікавіші статті з інтернету
 home-cta-get-pocket = Отримати { -brand-name-pocket }
-home-product-relay-masks = Зручні маски е-пошти та телефону
 home-cta-get-relay = Отримати { -brand-name-relay }
 home-product-vpn-trust = VPN, якій можна довіряти
 home-cta-get-vpn = Отримати { -brand-name-mozilla-vpn }
-home-product-monitor-data = Сповіщення про витоки даних
 home-cta-get-monitor = Отримати { -brand-name-monitor }
+home-product-fakespot-detect = Виявляйте підроблені відгуки про покупки
+home-cta-get-fakespot = Отримати { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } робить ставки, щоб показати світові, що бізнес можна розвивати за допомогою довіреного штучного інтелекту. Це включає такі речі, як права людини, захист даних і прозорість, як основу роботи цих складних систем.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-is-mozilla-a-corporation = { -brand-name-mozilla } є корпорацією чи некомерційною організацією? Насправді – і те й інше.
-home-mozilla-consists-of = { -brand-name-mozilla } складається з двох організацій. { -brand-name-mozilla-corporation } повністю належить некомерційній організації 501(c) { -brand-name-mozilla-foundation }. Це означає, що ми не маємо зобов'язань перед акціонерами, а віддані лише нашій місії.
+home-read-more = Докладніше
+home-so-what-is-mozilla = Отже, що таке { -brand-name-mozilla }?
 home-learn-about-mofo = Докладніше про { -brand-name-mozilla-foundation }
 home-join-the-fight = Приєднуйтесь до боротьби за здоровий інтернет
 home-your-voice-your-code = Ваш голос. Ваш код. Ваші ідеї. Є безліч способів зробити свій внесок на користь { -brand-name-mozilla }.
