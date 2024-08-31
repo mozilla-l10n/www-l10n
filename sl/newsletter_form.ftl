@@ -32,6 +32,8 @@ newsletter-form-thanks = Hvala!
 newsletter-form-leave-this-field-empty = Pustite to polje prazno.
 newsletter-form-yes = Da
 newsletter-form-no = Ne
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Obrazec za naročanje na novice
 multi-newsletter-form-checkboxes-legend = Želim informacije o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation(sklon: "mestnik") }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(sklon: "mestnik") }
