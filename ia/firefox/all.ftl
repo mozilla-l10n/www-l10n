@@ -5,27 +5,28 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Verifica le requisitos del systema
-firefox-all-release-notes = Notas pro iste revision
-firefox-all-source-code = Codice fonte
-firefox-all-need-help = Require adjuta?
-firefox-all-which-browser-would = Qual navigator vole tu discargar?
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Discarga { -brand-name-firefox-browser } in interlingua IALA (ia) e plus de 90 altere linguas
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Totes merita accesso a Internet: tu lingua non deberea jammais esser un barriera. Ecce proque, con le adjuta de voluntarios dedicate de tote le mundo, nos rende { -brand-name-firefox-browser } disponibile in plus de 90 linguas.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obtener auxilio
-firefox-all-you-are-about-to-download = Tu es preste a discargar:
 firefox-all-browser = Navigator:
 firefox-all-platform = Platteforma:
 firefox-all-language = Lingua:
+firefox-all-download = 4. Discargar:
+firefox-all-desktop = Scriptorio
+firefox-all-mobile = Mobile
 firefox-all-lang-multi = Plure linguas
 firefox-all-sorry-we-couldnt-find = Pardono, nos non poteva trovar le discarga que tu recerca. Reproba, o elige un discarga del lista infra.
 firefox-all-the-pre-alpha-version = Le version pre-alpha pro usatores experte qui ama deteger crashes e provar nove functiones a mesura que illos es implementate.
 firefox-all-64-bit-installers = Installatores a 64 bit
 firefox-all-choose-a-64-bit-installer = Elige un installator 64 bits pro computatores con processatores a 64 bits, que los permitte de allocar plus memoria RAM pro cata programma: particularmente importante pro jocos e altere applicationes exigente.
 firefox-all-32-bit-installers = Installatores a 32 bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Discarga { -brand-name-firefox-browser } in interlingua IALA (ia) e plus de 90 altere linguas
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Totes merita accesso a Internet: tu lingua non deberea jammais esser un barriera. Ecce proque, con le adjuta de voluntarios dedicate de tote le mundo, nos rende { -brand-name-firefox-browser } disponibile in plus de 90 linguas.
+firefox-all-check-the-system-requirements = Verifica le requisitos del systema
+firefox-all-release-notes = Notas pro iste revision
+firefox-all-source-code = Codice fonte
+firefox-all-need-help = Require adjuta?
 firefox-all-choose-which-firefox = Selige que { -brand-name-firefox-browser } discargar in tu lingua
 firefox-all-firefox-privacy-notice = Aviso de confidentialitate de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Apprende re le navigatores { -brand-name-firefox }
@@ -36,8 +37,6 @@ firefox-all-count-on-stability-and = Conta sur le stabilitate e le facilitate de
 firefox-all-windows-installers-for = Installatores de Windows pro Technologia de information corporative, que simplifica configuration, displicamento e gestion de { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programmas de installation ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installatores optimisate pro PCs Windows e Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Programmas de installation ARM64/AArch64 optimisate pro PCs { -brand-name-windows } con Snapdragon
 firefox-all-product-send-link = Inviar un ligamine de discargamento a tu telephono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
