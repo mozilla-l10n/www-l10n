@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Elige tu pais o region
 newsletter-form-select-language = Elige le lingua
 newsletter-form-your-email-here = TU ADRESSE DE E-MAIL
-newsletter-form-format = Formato
-newsletter-form-html = HTML
-newsletter-form-text = Texto
 newsletter-form-get-firefox-news = Recipe le novas de { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Gratias!
 newsletter-form-leave-this-field-empty = Lassa iste campo vacue
 newsletter-form-yes = Si
 newsletter-form-no = No
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Formulario de inscription al littera de novas
 multi-newsletter-form-checkboxes-legend = Io vole informationes re:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
