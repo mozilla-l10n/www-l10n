@@ -48,6 +48,7 @@ firefox-all-download-esr-version = 下载 { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = 我们正处于 ESR 主要版本 { $esr_next_major } 与 { $esr_current_major } 之间的过渡期。
+firefox-all-esr-if-you-choose = 若选择下载旧版 ESR，则将在过渡期结束后自动更新至新版本。
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = 了解有关 <a { $attrs }>{ -brand-name-firefox-esr } 发布周期</a>的更多信息。

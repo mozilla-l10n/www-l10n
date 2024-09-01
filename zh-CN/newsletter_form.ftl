@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = 选择国家或地区
 newsletter-form-select-language = 选择语言
 newsletter-form-your-email-here = 在这里输入您的电子邮件地址
-newsletter-form-format = 格式
-newsletter-form-html = HTML
-newsletter-form-text = 文本
 newsletter-form-get-firefox-news = 获取 { -brand-name-firefox } 新闻
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = 谢谢！
 newsletter-form-leave-this-field-empty = 将此栏留空。
 newsletter-form-yes = 是的
 newsletter-form-no = 不要
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = 新闻简报订阅表
 multi-newsletter-form-checkboxes-legend = 我想要下列信息：
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
