@@ -5,10 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Discarga { -brand-name-firefox } in interlingua IALA (ia) e plus que 90 altere linguas
 # Obsolete string (expires 2024-10-27)
 firefox-all-download-the-firefox = Discarga { -brand-name-firefox-browser } in interlingua IALA (ia) e plus de 90 altere linguas
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Totes merita accesso a Internet: jammais tu lingua deberea esser un barriera. Ecce proque, con le adjuta de voluntarios devote de tote le mundo, nos rende { -brand-name-firefox } disponibile in plus que 90 linguas.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = Totes merita accesso a Internet: tu lingua non deberea jammais esser un barriera. Ecce proque, con le adjuta de voluntarios dedicate de tote le mundo, nos rende { -brand-name-firefox-browser } disponibile in plus de 90 linguas.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Scande le codice QR pro obtener <em>{ $product_name }</em>
+firefox-all-choose-browser = Elige un navigator pro continuar
+firefox-all-choose-platform = Elige un platteforma pro continuar
+firefox-all-choose-language = Elige un lingua pro continuar
+firefox-all-change-browser = Elige un producto differente
+firefox-all-change-platform = Elige un platteforma differente
+firefox-all-change-language = Elige un lingua differente
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Elige ex le lista infra
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obtener auxilio
 firefox-all-browser = Navigator:
@@ -17,12 +32,19 @@ firefox-all-language = Lingua:
 firefox-all-download = 4. Discargar:
 firefox-all-desktop = Scriptorio
 firefox-all-mobile = Mobile
+firefox-all-recommended = (Recommendate)
 firefox-all-lang-multi = Plure linguas
+firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Pardono, nos non poteva trovar le discarga que tu recerca. Reproba, o elige un discarga del lista infra.
 firefox-all-the-pre-alpha-version = Le version pre-alpha pro usatores experte qui ama deteger crashes e provar nove functiones a mesura que illos es implementate.
 firefox-all-64-bit-installers = Installatores a 64 bit
 firefox-all-choose-a-64-bit-installer = Elige un installator 64 bits pro computatores con processatores a 64 bits, que los permitte de allocar plus memoria RAM pro cata programma: particularmente importante pro jocos e altere applicationes exigente.
 firefox-all-32-bit-installers = Installatores a 32 bit
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Iste option aperira un pagina de producto { -brand-name-firefox } in le portal web de Microsoft Store. Si tu usa Windows 10 o Windows 11, tu habera le option de aperir le Microsoft Store ab iste pagina e installar { -brand-name-firefox }. Si tu installa ab Microsoft Store, le actualisationes a { -brand-name-firefox } sera alsi tractate per Microsoft Store. Il ha minor differentias in le comportamentos e capacitates de { -brand-name-firefox } quando installate ab Microsoft Store, ma pro le major parte del usatores iste differentias non es perceptibile.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Discargar { $esr_version }
 firefox-all-check-the-system-requirements = Verifica le requisitos del systema
 firefox-all-release-notes = Notas pro iste revision
 firefox-all-source-code = Codice fonte
