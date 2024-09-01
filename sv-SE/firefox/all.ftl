@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox-v2 = Ladda ner { -brand-name-firefox } på engelska och mer än 90 andra språk
+firefox-all-download-the-firefox-v2 = Ladda ner { -brand-name-firefox } på svenska och mer än 90 andra språk
 # Obsolete string (expires 2024-10-27)
-firefox-all-download-the-firefox = Ladda ner webbläsaren { -brand-name-firefox-browser } på engelska och mer än 90 andra språk
+firefox-all-download-the-firefox = Ladda ner webbläsaren { -brand-name-firefox-browser } på svenska och mer än 90 andra språk
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Alla förtjänar tillgång till internet — ditt språk ska aldrig vara ett hinder. Det är därför — med hjälp av dedikerade volontärer runt om i världen — som vi gör { -brand-name-firefox } tillgänglig på mer än 90 språk.
 # Obsolete string (expires 2024-10-27)
