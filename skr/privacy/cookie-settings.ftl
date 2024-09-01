@@ -27,6 +27,7 @@ cookie-settings-category-preference-what-are-subheading = ترجیح کوکیا�
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = تجزیاتی
+cookie-settings-category-analytics-what-are-subheading = تجزیاتی کوکیاں کیا ہن؟
 
 ## Consent section
 

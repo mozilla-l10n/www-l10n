@@ -54,8 +54,10 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } ڈاؤن ل�
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = ہک یوآرایل دا تجزیہ کرو
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = ویب تے بہترین مواد دریافت کرو — تے اونکوں جتھاں تے جݙاں چاہو استعمال کرو۔ { -brand-name-mozilla } دی طرفوں بݨیا۔
 firefox-products-get-pocket = { -brand-name-pocket } گھنو
