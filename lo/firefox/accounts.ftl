@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = ເອົາ { -brand-name-mozilla-account } – ຮັກສາຂໍ້ມູນຂອງທ່ານໃຫ້ເປັນສ່ວນຕົວ, ປອດໄພ ແລະ ຖືກຊິ້ງຢູ່ສະເໝີ
+# HTML page description
+mozilla-accounts-securely-sync-your = ຊິ້ງຂໍ້ມູນລະຫັດຜ່ານ, ບຸກມາກ ແລະ ແຖບຂອງທ່ານຢ່າງປອດໄພໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ. ຮັບເອົາ { -brand-name-mozilla-account } ດຽວນີ້ – ເຂົ້າສູ່ລະບົບຄັ້ງດຽວ – ພະລັງງານ ແລະ ຄວາມເປັນສ່ວນຕົວຢູ່ທົ່ວທຸກແຫ່ງ.
 firefox-accounts-enter-your-email-address = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
 firefox-accounts-already-have-an-account = ມີບັນຊີແລ້ວບໍ່?
 firefox-accounts-sign-in = ລົງຊື່ເຂົ້າໃຊ້

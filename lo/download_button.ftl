@@ -54,5 +54,9 @@ download-a-different-build = ດາວ​ໂຫຼດ​ການ​ສ້າງ
 
 download-button-linux-32-v2 = ດາວໂຫລດສໍາລັບ Linux 32-bit
 download-button-linux-64-v2 = ດາວໂຫລດສໍາລັບ Linux 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = ການ​ນໍາ​ໃຊ້ Debian, Ubuntu ຫຼື​ Debian-base distribution ໃດ​ຫນຶ່ງ?<br> ທ່ານ​ສາ​ມາດ​ຕັ້ງ <a { $attrs }> APT repository ຂອງ​ພວກ​ເຮົາ​ແທນ​ໄດ້</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = ຮັບຈາກ Microsoft

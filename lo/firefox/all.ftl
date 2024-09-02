@@ -9,6 +9,8 @@
 firefox-all-download-the-firefox-v2 = ດາວໂຫລດ { -brand-name-firefox } ໃນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ຫຼາຍກວ່າ 90 ພາສາອື່ນໆ
 # Obsolete string (expires 2024-10-27)
 firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງທ່ານບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນີ້ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
 firefox-all-choose-browser = ເລືອກຕົວທ່ອງເວັບເພື່ອສືບຕໍ່
