@@ -36,6 +36,10 @@ newsletter-form-thanks = ありがとうございました。
 newsletter-form-leave-this-field-empty = このフィールドは空欄のままにしてください。
 newsletter-form-yes = あり
 newsletter-form-no = なし
+
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = ニュースレター登録フォーム
+
 multi-newsletter-form-checkboxes-legend = 希望する情報:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
