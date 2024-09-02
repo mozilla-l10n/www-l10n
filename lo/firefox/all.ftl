@@ -13,6 +13,9 @@ firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefo
 firefox-all-everyone-deserves-access-v2 = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງທ່ານບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນີ້ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
 # Obsolete string (expires 2024-10-27)
 firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = ສະແກນລະຫັດ QR ເພື່ອຮັບເອົາ <em>{ $product_name }</em>
 firefox-all-choose-browser = ເລືອກຕົວທ່ອງເວັບເພື່ອສືບຕໍ່
 firefox-all-choose-platform = ເລືອກ platform ເພື່ອສືບຕໍ່
 firefox-all-choose-language = ເລືອກພາສາເພື່ອສືບຕໍ່
@@ -38,9 +41,14 @@ firefox-all-64-bit-installers = ຕົວຕິດຕັ້ງ 64 ບິດ
 firefox-all-choose-a-64-bit-installer = ເລືອກຕົວຕິດຕັ້ງ 64-bit ສໍາລັບຄອມພິວເຕີທີ່ມີໂປເຊດເຊີ 64-bit, ເຊິ່ງເຮັດໃຫ້ພວກເຂົາສາມາດຈັດສັນ RAM ຫຼາຍຂຶ້ນໃຫ້ກັບແຕ່ລະໂປຼແກຼມ - ມີຄວາມສໍາຄັນໂດຍສະເພາະສໍາລັບເກມແລະຄໍາຮ້ອງສະຫມັກອື່ນໆທີ່ຕ້ອງການ.
 firefox-all-32-bit-installers = ຕົວຕິດຕັ້ງ 32 ບິດ
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = ຕົວເລືອກນີ້ຈະເປີດໜ້າຜະລິດຕະພັນ { -brand-name-firefox } ຢູ່ໃນໜ້າເວັບຂອງ Microsoft Store. ຖ້າທ່ານກໍາລັງໃຊ້ Windows 10 ຫຼື Windows 11, ທ່ານຈະມີທາງເລືອກທີ່ຈະເປີດ Microsoft Store ຈາກຫນ້ານີ້ ແລະ ຕິດຕັ້ງ { -brand-name-firefox }. ຖ້າທ່ານຕິດຕັ້ງຈາກ Microsoft Store, ການອັບເດດເປັນ { -brand-name-firefox } ຈະຖືກຈັດການໂດຍ Microsoft Store. ມີຄວາມແຕກຕ່າງເລັກນ້ອຍໃນພຶດຕິກຳ ແລະ ຄວາມສາມາດຂອງ { -brand-name-firefox } ເມື່ອຕິດຕັ້ງຈາກ Microsoft Store, ແຕ່ສຳລັບຜູ້ໃຊ້ສ່ວນໃຫຍ່ ຄວາມແຕກຕ່າງເຫຼົ່ານີ້ບໍ່ແຕກຕ່າງຫຼາຍ.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = ດາວໂຫຼດ { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = ພວກເຮົາຢູ່ໃນໄລຍະການປ່ຽນແປງລະຫວ່າງລຸ້ນ ESR ຫຼັກ { $esr_next_major } ແລະ { $esr_current_major }.
 firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ

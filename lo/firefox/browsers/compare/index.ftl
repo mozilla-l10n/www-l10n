@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = ປຽບທຽບ { -brand-name-firefox } ກັບຕົວທ່ອງເວັບອື່ນໆ
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } vs Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } vs Apple Safari

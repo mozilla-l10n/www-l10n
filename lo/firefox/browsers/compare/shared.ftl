@@ -8,6 +8,8 @@
 compare-shared-compare-firefox = ປຽບທຽບກັບ { -brand-name-firefox }
 compare-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
 compare-shared-footer-cta-button = ດາວໂຫລດ { -brand-name-firefox }
+compare-shared-we-also-offer-easy = ພວກເຮົາຍັງໃຫ້ຄຸນສົມບັດທີ່ງ່າຍຕໍ່ການໃຊ້ເຊັ່ນ:
+compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ຍັງມີເຄື່ອງມືໃນຕົວເຊັ່ນ:
 compare-shared-its-easy-to-switch = ມັນງ່າຍທີ່ຈະປ່ຽນ
 # Used as a small link to a cited source
 compare-shared-source = ແຫຼ່ງ

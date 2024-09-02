@@ -7,3 +7,5 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+compare-chrome-we-block-trackers-by-default = ພວກເຮົາບລັອກຕົວຕິດຕາມໂດຍຄ່າເລີ່ມຕົ້ນ. Chrome ບໍ່.
+compare-chrome-google-runs-the-worlds-largest = Google ດໍາເນີນເຄືອຂ່າຍໂຄສະນາທີ່ໃຫຍ່ທີ່ສຸດຂອງໂລກ, ແລະ Chrome ແມ່ນສ່ວນຫນຶ່ງຂອງນັ້ນ.

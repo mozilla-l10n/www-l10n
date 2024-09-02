@@ -7,3 +7,4 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+compare-safari-but-firefox-also-has-built-in = ແຕ່ { -brand-name-firefox } ຍັງມີເຄື່ອງມືໃນຕົວເຊັ່ນ:
