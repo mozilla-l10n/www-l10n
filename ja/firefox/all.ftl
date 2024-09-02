@@ -4,31 +4,65 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = システム要件を確認
-firefox-all-release-notes = リリースノート
-firefox-all-source-code = ソースコード
-firefox-all-need-help = お困りの場合
-firefox-all-which-browser-would = どのブラウザーをダウンロードしますか？
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox } をダウンロード
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox-browser } をダウンロード
+
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox } を 90 か国語以上で公開しています。
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox-browser } を 90 か国語以上で公開しています。
+
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = QR コードをスキャンして <em>{ $product_name }</em> をダウンロードしてください
+firefox-all-choose-browser = ブラウザーを選択して続行
+firefox-all-choose-platform = プラットフォームを選択して続行
+firefox-all-choose-language = 言語を選択して続行
+firefox-all-change-browser = 別の製品を選択
+firefox-all-change-platform = 別のプラットフォームを選択
+firefox-all-change-language = 別の言語を選択
+
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = 以下からお選びください
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = サポート
-
-firefox-all-you-are-about-to-download = こちらをダウンロードしようとしています:
-firefox-all-browser = ブラウザー:
+firefox-all-browser = 1. ブラウザー:
 firefox-all-platform = プラットフォーム:
 firefox-all-language = 言語:
+firefox-all-download = 4. ダウンロード:
+firefox-all-desktop = デスクトップ
+firefox-all-mobile = モバイル
+firefox-all-recommended = おすすめ
 firefox-all-lang-multi = 多言語
+firefox-all-plat-mobile = Android と iOS
 firefox-all-sorry-we-couldnt-find = 申し訳ありません。お探しのものが見つかりませんでした。もう一度お試しになるか、下のリストからダウンロードする製品を選択してください。
 firefox-all-the-pre-alpha-version = コードができてからいち早くバグを見つけ、新機能をテストしたいパワーユーザー向けのプレアルファ版です。
 firefox-all-64-bit-installers = 64 ビットインストーラー
 firefox-all-choose-a-64-bit-installer = 64 ビットプロセッサーを搭載したコンピューターには 64 ビットインストーラーを選択してください。個々のプログラムにより多くの RAM を割り当てることができます。ゲームなどの負荷の高いアプリケーションでは特に重要です。
 firefox-all-32-bit-installers = 32 ビットインストーラー
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = こちらを選択すると、Microsoft Store ウェブポータルの { -brand-name-firefox } 製品ページが開きます。Windows 10 または Windows 11 をお使いの場合、このページから Microsoft Store を開き、{ -brand-name-firefox } をインストールできます。Microsoft Store からインストールした場合、{ -brand-name-firefox } へのアップデートも Microsoft Store で処理されます。Microsoft Store からインストールした { -brand-name-firefox } は、動作や機能に若干の違いがありますが、ほとんどのユーザーにとっては見えない違いです。
 
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox-browser } をダウンロード
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } をダウンロード
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = 現在、{ $esr_current_major } から ESR のメジャーバージョン { $esr_next_major } へ移行中です。
+firefox-all-esr-when-there-is = メジャーバージョンのアップデートがある場合、旧バージョンを使用中のユーザーが新バージョンに移行する準備ができるよう、{ -brand-name-firefox-esr } のポイントリリースに必ず若干の重複が発生します。
+firefox-all-esr-if-you-choose = ESR の旧バージョンをダウンロードした場合、移行期間が終了すると、自動的に新バージョンにアップデートされます。
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr }リリースサイクル</a>についての詳細をご覧ください。
 
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox-browser } を 90 か国語以上で公開しています。
+firefox-all-check-the-system-requirements = システム要件を確認
+firefox-all-release-notes = リリースノート
+firefox-all-source-code = ソースコード
+firefox-all-need-help = お困りの場合
 
 firefox-all-choose-which-firefox = ご利用の言語でダウンロードする { -brand-name-firefox-browser } を選択してください
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } プライバシーに関する通知
@@ -41,6 +75,7 @@ firefox-all-windows-installers-for = { -brand-name-firefox-browser } の構成�
 firefox-all-arm64-installers = ARM64/AArch64 インストーラー
 firefox-all-arm64-installers-optimized-v2 = Windows と Linux PC 向けに最適化された ARM64/AArch64 インストーラー。
 
+firefox-all-testflight = 登録して TestFlight で iOS 版 { -brand-name-firefox } をテスト
 firefox-all-product-send-link = スマートフォンにダウンロードリンクを送信
 
 # Variables:
@@ -67,3 +102,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
