@@ -5,27 +5,59 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Gwiriwch ofynion y system
-firefox-all-release-notes = Nodiadau rhyddhau
-firefox-all-source-code = Cod ffynhonnell
-firefox-all-need-help = Angen cymorth?
-firefox-all-which-browser-would = Pa borwr hoffech chi ei lwytho i lawr?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Llwythwch { -brand-name-firefox }  i Lawr yn Gymraeg (cy) neu mewn mwy na 90 o ieithoedd eraill
+# Obsolete string (expires 2024-10-27)
+firefox-all-download-the-firefox = Llwythwch y { -brand-name-firefox-browser } Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'ch iaith chi ddim bod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox } mewn mwy na 90 o ieithoedd.
+# Obsolete string (expires 2024-10-27)
+firefox-all-everyone-deserves-access = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'r un iaith fod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox-browser } mewn mwy na 90 o ieithoedd.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Sganiwch y cod QR i gael <em>{ $product_name }</em>
+firefox-all-choose-browser = Dewiswch borwr i barhau
+firefox-all-choose-platform = Dewiswch blatfform i barhau
+firefox-all-choose-language = Dewiswch iaith i barhau
+firefox-all-change-browser = Dewiswch gynnyrch gwahanol
+firefox-all-change-platform = Dewiswch blatfform gwahanol
+firefox-all-change-language = Dewiswch iaith wahanol
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Dewiswch o'r rhestr isod
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Derbyn cymorth
-firefox-all-you-are-about-to-download = Rydych ar fin llwytho i lawr:
 firefox-all-browser = Porwr:
 firefox-all-platform = Platfform:
 firefox-all-language = Iaith:
+firefox-all-download = 4. Llwytho i lawr:
+firefox-all-desktop = Bwrdd Gwaith
+firefox-all-mobile = Symudol
+firefox-all-recommended = (Argymhellwn)
 firefox-all-lang-multi = Ieithoedd lluosog
+firefox-all-plat-mobile = Android ac iOS
 firefox-all-sorry-we-couldnt-find = Ymddiheuriadau, nid oedd modd canfod y llwyth rydych yn chwilio amdano. Ceisiwch eto neu ddewis llwyth o'r rhestr isod.
 firefox-all-the-pre-alpha-version = Y fersiwn cyn-alffa ar gyfer defnyddwyr blaengar sy'n hoffi chwilio am chwaliadau a phrofi nodweddion newydd wrth iddyn nhw gael eu codio.
 firefox-all-64-bit-installers = Gosodwyr 64-did
 firefox-all-choose-a-64-bit-installer = Dewiswch osodwr 64-did ar gyfer cyfrifiaduron â phrosesydd 64-did, sy'n eu galluogi i ddyrannu mwy o RAM i raglenni unigol - yn arbennig o bwysig ar gyfer gemau a rhaglenni heriol eraill.
 firefox-all-32-bit-installers = Gosodwyr 32-did
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Llwythwch y { -brand-name-firefox-browser } Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'r un iaith fod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox-browser } mewn mwy na 90 o ieithoedd.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Bydd y dewis hwn yn agor tudalen cynnyrch { -brand-name-firefox } ym mhorth gwe Microsoft Store. Os ydych yn rhedeg Windows 10 neu Windows 11, bydd gennych y dewis i agor y Microsoft Store o'r dudalen hon a gosod { -brand-name-firefox }. Os byddwch yn gosod o'r Microsoft Store, bydd diweddariadau i { -brand-name-firefox } hefyd yn cael eu trin gan y Microsoft Store. Mae mân wahaniaethau yn ymddygiadau a galluoedd { -brand-name-firefox } wrth ei osod o'r Microsoft Store, ond nid yw'r gwahaniaethau hyn yn amlwg i'r rhan fwyaf o ddefnyddwyr.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Llwytho i lawr { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Rydym yn y cyfnod trawsnewid rhwng prif fersiynau ESR { $esr_next_major } a { $esr_current_major }.
+firefox-all-esr-when-there-is = Pan fydd yna ddiweddariad fersiwn mawr, mae yna orgyffwrdd cyson o ychydig o ddatganiadau pwynt { -brand-name-firefox-esr } er mwyn galluogi pobl sy'n defnyddio'r hen fersiwn i baratoi i symud i'r un newydd.
+firefox-all-esr-if-you-choose = Os fyddwch yn dewis llwytho'r fersiwn ESR hŷn i lawr, byddwch yn cael eich diweddaru'n awtomatig i'r un newydd pan ddaw'r cyfnod trosglwyddo i ben.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Darllen rhagor am y cylch rhyddhau <a { $attrs }>{ -brand-name-firefox-esr }</a>.
+firefox-all-check-the-system-requirements = Gwiriwch ofynion y system
+firefox-all-release-notes = Nodiadau rhyddhau
+firefox-all-source-code = Cod ffynhonnell
+firefox-all-need-help = Angen cymorth?
 firefox-all-choose-which-firefox = Dewiswch pa { -brand-name-firefox-browser } i'w lwytho i lawr yn eich iaith
 firefox-all-firefox-privacy-notice = Hysbysiad Preifatrwydd { -brand-name-firefox }
 firefox-all-learn-about-firefox = Dysgwch am borwyr { -brand-name-firefox }
@@ -36,8 +68,7 @@ firefox-all-count-on-stability-and = Gallwch ddibynnu ar sefydlogrwydd a rhwyddi
 firefox-all-windows-installers-for = Gosodwyr Windows ar gyfer TG corfforaethol sy'n symleiddio'r ffurfweddiad, darpariaeth a rheoli'r { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Gosodwyr ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Gosodwyr ARM64/AArch64 wedi'u optimeiddio ar gyfer cyfrifiaduron Windows a Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Gosodwyr ARM64/AArch64 wedi'u hoptimeiddio ar gyfer cyfrifiaduron personol { -brand-name-windows } wedi'u pweru gan Snapdragon.
+firefox-all-testflight = Cofrestrwch i brofi { -brand-name-firefox } ar gyfer iOS gyda TestFlight
 firefox-all-product-send-link = Anfonwch ddolen llwytho i'ch ffôn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -61,3 +92,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight

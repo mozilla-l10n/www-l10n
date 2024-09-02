@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = eichenw@example.com
 newsletter-form-select-country-or-region = Dewiswch wlad neu ardal
 newsletter-form-select-language = Dewiswch Iaith
 newsletter-form-your-email-here = EICH E-BOST YMA
-newsletter-form-format = Fformat
-newsletter-form-html = HTML
-newsletter-form-text = Testun
 newsletter-form-get-firefox-news = Derbyn newyddion { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Diolch!
 newsletter-form-leave-this-field-empty = Gadewch y maes hwn yn wag.
 newsletter-form-yes = Iawn
 newsletter-form-no = Na
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Ffurflen gofrestru ar gyfer y cylchlythyr
 multi-newsletter-form-checkboxes-legend = Rwyf eisiau gwybodaeth am:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
