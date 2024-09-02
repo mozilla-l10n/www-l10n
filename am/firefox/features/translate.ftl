@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-features-translate-translate-the-web = ድሩን በ{ -brand-name-firefox } ይተርጉሙ
+features-translate-translate-the-web = ድሩን ተርጉም
