@@ -44,6 +44,7 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } گھنو
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز ولوں۔ { -brand-name-mdn } دی حمایت کرو اَتے اِیکوں مجموعاں، اطلاعواں اَتے کھیݙ دے پِڑاں دے نال آپݨاں بݨاؤ۔
 firefox-products-support-mdn = سپورٹ { -brand-name-mdn }
 
 ## Thunderbird
