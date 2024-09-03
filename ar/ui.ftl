@@ -20,3 +20,6 @@ ui-show-all = عرض الكل
 ui-hide-all = إخفاء الكل
 ui-learn-more = اطّلع على المزيد
 ui-view = عرض
+
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = الترويج
