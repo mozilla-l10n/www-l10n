@@ -7,3 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } بنام Google Chrome
+compare-chrome-we-block-trackers-by-default = اساں ٹریکر ڈیفالٹوں بلاک کریندے ہیں۔ کروم کائنی کریندی۔

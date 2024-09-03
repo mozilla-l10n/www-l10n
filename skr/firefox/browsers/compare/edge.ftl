@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } بنام Microsoft Edge
+compare-edge-we-block-trackers-by-default = اساں ٹریکر ڈیفالٹوں بلاک کریندے ہیں۔ ایجّ کائنی کریندی۔

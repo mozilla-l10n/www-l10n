@@ -13,6 +13,7 @@ cookie-settings-save-changes = تبدیلیاں محفوظ کرو
 cookie-settings-your-cookie-settings-have = تہاݙیاں کوکی ترتیباں اپ ڈیٹ تھی ڳیاں۔
 cookie-settings-i-agree = میں متفق ہاں
 cookie-settings-i-do-not-agree = میں راضی کائنی
+cookie-settings-turn-on-javascript = سوہݨا، آپݨیاں کوکی ترتیباں اپ ڈیٹ کرݨ کیتے جاوا سکرپٹ آن کرو۔
 
 ## Necessary cookies section
 

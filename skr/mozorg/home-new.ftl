@@ -17,6 +17,7 @@ home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
 home-product-pocket-articles = ویب دے سب کنوں ودھ دلچسپ مضامین
 home-cta-get-pocket = { -brand-name-pocket } گھنو
+home-product-relay-hide-your = آپݨا فون نمبر تے ای میل سپیمرز توں لُکاؤ
 home-cta-get-relay = { -brand-name-relay } گھنو
 home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھروسہ کر سڳدے ہو
 home-cta-get-vpn = { -brand-name-mozilla-vpn } گھنو
@@ -27,6 +28,7 @@ home-cta-get-fakespot = { -brand-name-fakespot } گھنو
 home-mozilla-takes-bets = "{ -brand-name-mozilla }دُنیاں کو اِیہ ݙِکھاوݨ کِیتے شرطاں لین٘دا پِیا ہِے جو قابلِ اعتماد اے آئی دے نال ہِک کاروبار کِیتا وین٘دا ہِے۔ اِین٘دے وِچ انسانی حقوق، ڈیٹا دے تحفّظ اَتے شفافیت جیہیں شئیں کوں بنیادی طور تے رکّھݨ شامل ہِے جو اِیہ پیچیدہ نظام کیویں کَم کرین٘دے ہِن۔"
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = قابل اعتماد اے آئی دی تشکیل وچ ساݙے نال رلو
 home-read-more = ٻیا پڑھو
 home-so-what-is-mozilla = تے، { -brand-name-mozilla } کیا ہے؟
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
