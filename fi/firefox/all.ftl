@@ -5,27 +5,51 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Tarkista järjestelmävaatimukset
-firefox-all-release-notes = Julkaisutiedot
-firefox-all-source-code = Lähdekoodi
-firefox-all-need-help = Tarvitsetko apua?
-firefox-all-which-browser-would = Minkä selaimen haluat ladata?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Lataa { -brand-name-firefox } amerikanenglanniksi tai yli 90 muulla kielellä
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Lataa { -brand-name-firefox-browser } englanniksi (USA) tai yli 90 muulla kielellä
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Jokainen ansaitsee pääsyn Internetiin – kieli ei saa koskaan olla este. Sen vuoksi tarjoamme { -brand-name-firefox }in omistautuneiden vapaaehtoisten avulla yli 90 kielellä.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa { -brand-name-firefox-browser(case: "genitive") } saataville yli 90 kielellä.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Hanki <em>{ $product_name }</em> skannaamalla QR-koodi
+firefox-all-choose-browser = Valitse selain jatkaaksesi
+firefox-all-choose-platform = Valitse alusta jatkaaksesi
+firefox-all-choose-language = Valitse kieli jatkaaksesi
+firefox-all-change-browser = Valitse eri tuote
+firefox-all-change-platform = Valitse eri alusta
+firefox-all-change-language = Valitse eri kieli
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Valitse alla olevasta luettelosta
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Apua
-firefox-all-you-are-about-to-download = Olet lataamassa:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Selain:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Alusta:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Kieli:
+firefox-all-download = 4. Lataa:
+firefox-all-desktop = Työpöytä
+firefox-all-mobile = Mobiili
+firefox-all-recommended = (suositeltu)
 firefox-all-lang-multi = Useita kieliä
+firefox-all-plat-mobile = Android ja iOS
 firefox-all-sorry-we-couldnt-find = Valitettavasti emme löytäneet etsimääsi latauskohdetta. Yritä uudelleen tai valitse latauskohde alla olevasta luettelosta.
 firefox-all-the-pre-alpha-version = Pre-alfa-versio käyttäjille, jotka haluavat metsästää onnettomuuksia ja testata uusia ominaisuuksia heti kun ne on koodattu.
 firefox-all-64-bit-installers = 64-bittiset asennusohjelmat
 firefox-all-choose-a-64-bit-installer = Valitse 64-bittinen asennusohjelma tietokoneelle, jossa on 64-bittinen prosessori, jonka avulla se voi jakaa enemmän keskusmuistia yksittäiselle ohjelmalle – erityisen tärkeää peleille ja muille tehoa vaativille sovelluksille.
 firefox-all-32-bit-installers = 32-bittiset asennusohjelmat
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Lataa { -brand-name-firefox-browser } englanniksi (USA) tai yli 90 muulla kielellä
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa { -brand-name-firefox-browser(case: "genitive") } saataville yli 90 kielellä.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Lataa { $esr_version }
+firefox-all-check-the-system-requirements = Tarkista järjestelmävaatimukset
+firefox-all-release-notes = Julkaisutiedot
+firefox-all-source-code = Lähdekoodi
+firefox-all-need-help = Tarvitsetko apua?
 firefox-all-choose-which-firefox = Valitse haluamasi { -brand-name-firefox-browser } haluamallasi kielellä
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }in tietosuojaseloste
 firefox-all-learn-about-firefox = Lue lisää { -brand-name-firefox }-selaimista
@@ -36,8 +60,6 @@ firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen t
 firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
 firefox-all-arm64-installers = ARM64/AArch64-asennusohjelmat
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64-asennusohjelmat on optimoitu Windows- ja Linux-tietokoneille.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64-asennusohjelmat optimoituna Snapdragoniin pohjautuville { -brand-name-windows }-tietokoneille.
 firefox-all-product-send-link = Lähetä latauslinkki puhelimeesi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

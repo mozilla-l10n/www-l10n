@@ -63,6 +63,7 @@ navigation-v2-work-for-a-mission-driven-updated = Työskentele tehtävälähtöi
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blogi
 navigation-v2-learn-about-mozilla-and = Lisätietoja { -brand-name-mozilla }sta ja meille tärkeistä asioista.
 navigation-v2-more-about-mozilla = Lisätietoja { -brand-name-mozilla }sta
+navigation-v2-find-out-how = Ota selvää, kuinka teemme internetistä osallistavamman ja kestävämmän
 
 ## Innovation menu
 
