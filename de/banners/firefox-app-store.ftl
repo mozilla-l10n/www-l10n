@@ -9,3 +9,6 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Der privat
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Kostenlos – bei { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Kostenlos – im { -brand-name-app-store }
+
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Download im App Store

@@ -9,3 +9,6 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Pelayar pr
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Percuma - Di { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Percuma - Di { -brand-name-app-store }
+
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Muat turun App Store
