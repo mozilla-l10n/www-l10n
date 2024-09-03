@@ -9,3 +9,6 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Peramban p
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Gratis – di { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Gratis – di { -brand-name-app-store }
+
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Unduhan App store
