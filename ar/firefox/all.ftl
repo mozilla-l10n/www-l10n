@@ -6,12 +6,12 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = نزِّل { -brand-name-firefox } باللغة العربية وبأكثر من 90 لغة أخرى.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = نزِّل { -brand-name-firefox-browser } باللغة الإنجليزية (الولايات المتحدة) وأكثر من 90 لغة أخرى.
 
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = من حق كل شخص أنْ يَصل إلى الإنترنت وأنْ يستخدمه — ويَجب ألاّ تكون اللغة عائقًا أبدًا. ومن ثمّ فإننا — بفضل مُساعدة المُتطوعين المُتفانين في جميع أنحاء العالم — قد جعلنا { -brand-name-firefox } متاحًا بأكثر من 90 لغة.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = من حق الجميع أن يَصل إلى الإنترنت ويستخدمه — ويجب ألا تكون اللغة عائقًا أبدًا. ومن ثمّ فإننا — بفضل مُساعدة للمتطوعين المُتفانين في جميع أنحاء العالم — جعلنا { -brand-name-firefox-browser } متاحًا بأكثر من 90 لغة.
 
 # Variables:
@@ -29,9 +29,12 @@ firefox-all-down-arrow = اختر من القائمة التالية
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = احصل على المساعدة
-firefox-all-browser = 1. المُتصفح:
-firefox-all-platform = 2. المنصة:
-firefox-all-language = 3. اللغة:
+# Obsolete string (expires 2024-10-30)
+firefox-all-browser = المتصفح:
+# Obsolete string (expires 2024-10-30)
+firefox-all-platform = المنصة:
+# Obsolete string (expires 2024-10-30)
+firefox-all-language = اللغة:
 firefox-all-download = 4. التنزيل:
 firefox-all-desktop = أجهزة الكمبيوتر المكتبية
 firefox-all-mobile = الهواتف المحمولة

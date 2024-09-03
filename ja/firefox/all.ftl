@@ -6,12 +6,12 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox } をダウンロード
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = 日本語ほか 90 か国語以上に対応した { -brand-name-firefox-browser } をダウンロード
 
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox } を 90 か国語以上で公開しています。
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox-browser } を 90 か国語以上で公開しています。
 
 # Variables:
@@ -29,8 +29,11 @@ firefox-all-down-arrow = 以下からお選びください
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = サポート
-firefox-all-browser = 1. ブラウザー:
+# Obsolete string (expires 2024-10-30)
+firefox-all-browser = ブラウザー:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = プラットフォーム:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = 言語:
 firefox-all-download = 4. ダウンロード:
 firefox-all-desktop = デスクトップ
