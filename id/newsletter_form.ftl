@@ -36,6 +36,10 @@ newsletter-form-thanks = Terima kasih!
 newsletter-form-leave-this-field-empty = Biarkan bidang ini kosong.
 newsletter-form-yes = Ya
 newsletter-form-no = Tidak
+
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Formulir pendaftaran buletin
+
 multi-newsletter-form-checkboxes-legend = Saya ingin informasi tentang:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
