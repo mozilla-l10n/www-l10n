@@ -7,11 +7,11 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 下载 { -brand-name-firefox }，这里有简体中文及其他 90 多种语言版本供您选择
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = 下载 { -brand-name-firefox-browser }，这里有简体中文及其他 90 多种语言版本供您选择
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox } 拥有了超过 90 种语言版本。
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = 每个人都有访问互联网的权利，您的语言绝不应该成为障碍。在全球志愿者的不懈努力下，我们让 { -brand-name-firefox-browser }拥有了超过 90 种语言版本。
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
@@ -26,9 +26,15 @@ firefox-all-change-language = 选择其他语言
 firefox-all-down-arrow = 从下方列表中选择
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 获取帮助
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = 浏览器：
+firefox-all-browser-v2 = 1. 浏览器：
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = 平台：
+firefox-all-platform-v2 = 2. 平台：
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = 语言：
+firefox-all-language-v2 = 3. 语言：
 firefox-all-download = 4. 下载：
 firefox-all-desktop = 桌面版
 firefox-all-mobile = 移动版
@@ -41,6 +47,7 @@ firefox-all-64-bit-installers = 64 位安装程序
 firefox-all-choose-a-64-bit-installer = 为 64 位处理器的计算机选择 64 位安装程序，这样单个程序可以分配到更多内存——对于游戏或其他配置要求高的应用程序尤为重要。
 firefox-all-32-bit-installers = 32 位安装程序
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = 此选项将在 Microsoft Store 门户网站中打开 { -brand-name-firefox } 产品页。如果您运行的是 Windows 10 或 Windows 11，则可以通过该页面中的选项打开 Microsoft Store 并安装 { -brand-name-firefox }。若从 Microsoft Store 安装，其更新也将由 Microsoft Store 处理，且行为和功能会有细微不同，但对于大部分用户而言并不明显。
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = 下载 { $esr_version }
@@ -48,6 +55,7 @@ firefox-all-download-esr-version = 下载 { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = 我们正处于 ESR 主要版本 { $esr_next_major } 与 { $esr_current_major } 之间的过渡期。
+firefox-all-esr-when-there-is = { -brand-name-firefox-esr } 发布新的主要版本更新后，旧版本仍然会获得数个小更新，让旧版本的用户能够准备升级。
 firefox-all-esr-if-you-choose = 若选择下载旧版 ESR，则将在过渡期结束后自动更新至新版本。
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
