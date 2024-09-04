@@ -1,31 +1,56 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Cytajśo systemowe pominanja
-firefox-all-release-notes = Wersijowe informacije
-firefox-all-source-code = Žrědłowy kod
-firefox-all-need-help = Trjebaśo pomoc?
-firefox-all-which-browser-would = Kótary wobglědowak cośo ześěgnuś?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Ześěgniśo wobglědowak { -brand-name-firefox } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Ześěgniśo { -brand-name-firefox-browser } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta wobglědowak { -brand-name-firefox } we wěcej ako 90 rěcach k dispoziciji.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta { -brand-name-firefox-browser } we wěcej ako 90 rěcach k dispoziciji.
+firefox-all-choose-browser = Wubjeŕśo wobglědowak, aby pókšacował
+firefox-all-choose-platform = Wubjeŕśo platformu, aby pókšacował
+firefox-all-choose-language = Wubjeŕśo rěc, aby pókšacował
+firefox-all-change-browser = Wubjeŕśo drugi produkt
+firefox-all-change-platform = Wubjeŕśo drugu platformu
+firefox-all-change-language = Wubjeŕśo drugu rěc
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Wubjeŕśo ze slědujuceje lisćiny
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoc se wobstaraś
-firefox-all-you-are-about-to-download = Cośo to ześěgnuś:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Wobglědowak:
+firefox-all-browser-v2 = 1. Wobglědowak:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platforma:
+firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Rěc:
+firefox-all-language-v2 = 3. Rěc:
+firefox-all-download = 4. Ześěgnjenje:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobilny telefon
+firefox-all-recommended = (Dopórucony)
 firefox-all-lang-multi = Někotare rěcy
+firefox-all-plat-mobile = Android a iOS
 firefox-all-sorry-we-couldnt-find = Bóžko njejsmy namakali ześěgnjenje, za kótarymž pytaśo. Pšosym wopytajśo hyšći raz abo wubjeŕśo ześěgnjenje ze slědujuceje lisćiny.
 firefox-all-the-pre-alpha-version = Wersija pśedalfa za nazgónjonych wužywarjow, kótarež za wowalenjami slěźe a nowe funkcije testuju, mjaztym až se programěruju.
 firefox-all-64-bit-installers = 64-bitowe instalěrowaki
 firefox-all-choose-a-64-bit-installer = Wubjeŕśo 64-bitowy instalěrowański program za licadła z 64-bitowymi procesorami, kótaryž jim dowólujo, wěcej RAM pśipokazaś - wósebnje wažne za graśa a druge wupominańske nałoženja.
 firefox-all-32-bit-installers = 32-bitowe instalěrowaki
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Ześěgniśo { -brand-name-firefox-browser } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta { -brand-name-firefox-browser } we wěcej ako 90 rěcach k dispoziciji.
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } ześěgnuś
+firefox-all-check-the-system-requirements = Cytajśo systemowe pominanja
+firefox-all-release-notes = Wersijowe informacije
+firefox-all-source-code = Žrědłowy kod
+firefox-all-need-help = Trjebaśo pomoc?
 firefox-all-choose-which-firefox = Wubjeŕśo { -brand-name-firefox-browser }, kótaryž cośo w swójej rěcy ześěgnuś
 firefox-all-firefox-privacy-notice = Pokazki priwatnosći { -brand-name-firefox }
 firefox-all-learn-about-firefox = Zgóńśo wěcej wó wobglědowakach { -brand-name-firefox }
@@ -35,7 +60,6 @@ firefox-all-test-your-sites-against = Testujśo planowane funkcije wobglědowaka
 firefox-all-count-on-stability-and = Spušććo se na stabilnosć a lažke wužywanje z toś tym wobglědowakom { -brand-name-firefox } za pśedewześa.
 firefox-all-windows-installers-for = Instalěrowaki Windows za IT pśedewześow, kótarež konfiguraciju, pśewóstajenje a zastojanje { -brand-name-firefox-browser } wólažcuju.
 firefox-all-arm64-installers = Instalěrowaki ta ARM64/AArch64
-firefox-all-arm64-installers-optimized = Instalěrowaki ARM64/AArch64, kótarež su za licadła { -brand-name-windows } optiměrowane, kótarež Snapdragon pódpěraju.
 firefox-all-product-send-link = Sćelśo swójomu telefonoju ześěgnjeński wótkaz
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
