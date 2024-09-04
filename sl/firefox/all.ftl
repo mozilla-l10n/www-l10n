@@ -7,11 +7,11 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Prenesite { -brand-name-firefox } v slovenščini in več kot 90 drugih jezikih
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Prenesite { -brand-name-firefox-browser } v slovenščini in več kot 90 drugih jezikih
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox } v preko 90 jezikih.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
 firefox-all-choose-browser = Za nadaljevanje izberite brskalnik
 firefox-all-choose-platform = Za nadaljevanje izberite platformo
@@ -23,10 +23,18 @@ firefox-all-change-language = Izberite drug jezik
 firefox-all-down-arrow = Izberite s spodnjega seznama
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoč
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = 1. Brskalnik:
+firefox-all-browser-v2 = 1. Brskalnik:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = 2. Platforma:
+firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = 3. Jezik:
+firefox-all-language-v2 = 3. Jezik:
 firefox-all-download = 4. Prenos:
+firefox-all-desktop = Namizni računalniki
+firefox-all-mobile = Mobilne naprave
 firefox-all-recommended = (priporočeno)
 firefox-all-lang-multi = Več jezikov
 firefox-all-plat-mobile = Android in iOS
@@ -36,6 +44,13 @@ firefox-all-64-bit-installers = 64-bitni namestitveni programi
 firefox-all-choose-a-64-bit-installer = Izberite 64-bitni namestitveni program za računalnike s 64-bitnim procesorjem, ki omogoča dodelitev več pomnilnika posameznim programom – zlasti pomembno za igre in druge zahtevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni namestitveni programi
 firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Prenesi { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Smo v prehodnem obdobju med večjima različicama ESR { $esr_next_major } in { $esr_current_major }.
 firefox-all-check-the-system-requirements = Preverite sistemske zahteve
 firefox-all-release-notes = Opombe ob izdaji
 firefox-all-source-code = Izvorna koda
