@@ -32,10 +32,12 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Na źěłowych systemach Windows, macOS, Android, iOS a Linux pódprěty.
 vpn-features-no-bandwidth = žedno wobgranicowanje šyrokosći pasma abo droslowanje
+vpn-features-fast-network = Wusoke malsnosći seśe, samo gaby wy grał
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } <a { $wireguard }>Wireguard</a>™ wužywa, jaden z nejwěcej wugbałych VPN-protokolow.
 vpn-features-secure = Wěsty
+vpn-features-block-ads = Blokěrujśo wabjece se na was měriś
 vpn-features-encrypt-your-internet = Koděrujśo wšen swój internetny wobchad
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšykne nałoženja na wašom rěźe šćita, nic jano waš wobglědowak
 vpn-features-stronger-malware = Mócnjejšy šćit pśeśiwo škódnej software

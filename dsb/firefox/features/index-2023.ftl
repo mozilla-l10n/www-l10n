@@ -9,13 +9,12 @@
 features-index-firefox-browser-features = Funkcije wobglědowaka { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } jo malsny, lažki wobhlědowak z fokusom na priwatnosć, kótaryž na wšych wašych rědach funkcioněrujo.
-features-index-is-firefox-a-fast-browser = Jo { -brand-name-firefox } malsny wobglědowak?
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } mjenjej składa ako Chrome pśetrjebujo, aby waše druge programy dalej z nejwušeju malsnosću běžali.
 features-index-is-firefox-a-private-browser = Jo { -brand-name-firefox } priwatny wobglědowak?
 features-index-free-password-manager = Dermotny zastojnik gronidłow
 features-index-customize-your-firefox-browser = Pśiměŕśo swój wobglědowak { -brand-name-firefox }
 features-index-choose-how-your-browser-looks = Wubjeŕśo, kak ma waš wobglědowak z tysacami dermotnych drastwow wuglědaś.
 features-index-firefox-browser-sync = Synchronizacija wobglědowaka { -brand-name-firefox }
+features-index-access-your-firefox-bookmarks = Mějśo pśistup k wašym cytańskim znamjenjam, gronidłam, wócynjonym rejtarikam { -brand-name-firefox } a wěcej z kuždego rěda.
 features-index-bookmark-manager = Zastojnik cytańskich znamjenjow
 features-index-organize-your-bookmarks-with = Organizěrujśo swóje cytańske znamjenja ze zarědnikami a wobznamjenjami.
 features-index-private-browsing-mode = Priwatny modus
@@ -29,6 +28,5 @@ features-index-fingerprint-blocking = Blokěrowanje palcowych wótśišćow
 features-index-ad-tracker-blocking = Blokěrowanje wabjeńskego slědowanja
 features-index-firefox-automatically-blocks = { -brand-name-firefox } awtomatiski tomu zajźujo, až wušej 2000 wabjeńskich pśeslědowakow wam pó interneśe slědujo.
 features-index-translate-the-web = Web pśełožyś
-features-index-translate-more-than = Pśełožujśo z wěcej ako 100 rěcow do swójeje rěcy direktnje w swójom { -brand-name-firefox } – lažčej ako do togo.
 features-index-picture-in-picture = Wobraz-we-wobrazu
 features-index-got-things-to-do = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.

@@ -62,6 +62,7 @@ navigation-v2-work-for-a-mission-driven-updated = Źěłajśo za organizaciju z 
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zgóńśo wěcej wó { -brand-name-mozilla } a problemach, kótarež su nam wažne.
 navigation-v2-more-about-mozilla = Wěcej wó { -brand-name-mozilla }
+navigation-v2-impact = Wliw
 
 ## Innovation menu
 
