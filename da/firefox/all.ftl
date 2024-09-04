@@ -5,27 +5,60 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Kontrollér systemkravene
-firefox-all-release-notes = Udgivelsesnoter
-firefox-all-source-code = Kildekode
-firefox-all-need-help = Har du brug for hjælp?
-firefox-all-which-browser-would = Hvilken browser vil du hente?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Hent { -brand-name-firefox } på dansk (da) eller ét af mere end 90 andre sprog
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Hent { -brand-name-firefox-browser } på dansk (da) eller ét af mere end 90 andre sprog
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox } findes på mere end 90 forskellige sprog.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox-browser } findes på mere end 90 forskellige sprog.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Scan QR-koden for at få <em>{ $product_name }</em>
+firefox-all-choose-browser = Vælg en browser for at fortsætte
+firefox-all-choose-platform = Vælg en platform for at fortsætte
+firefox-all-choose-language = Vælg et sprog for at fortsætte
+firefox-all-change-browser = Vælg et andet produkt
+firefox-all-change-platform = Vælg en anden platform
+firefox-all-change-language = Vælg et andet sprog
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Vælg fra listen nedenfor
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjælp
-firefox-all-you-are-about-to-download = Du er ved at hente:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Browser:
+firefox-all-browser-v2 = 1. Browser:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platform:
+firefox-all-platform-v2 = 2. Platform:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Sprog:
+firefox-all-language-v2 = 3. Sprog:
+firefox-all-download = 4. Hent:
+firefox-all-desktop = Computer
+firefox-all-mobile = Mobil
+firefox-all-recommended = (Anbefalet)
 firefox-all-lang-multi = Flere sprog
+firefox-all-plat-mobile = Android og iOS
 firefox-all-sorry-we-couldnt-find = Beklager, men vi kunne ikke finde den fil, du leder efter. Prøv igen eller vælg en anden fil fra listen nedenunder.
 firefox-all-the-pre-alpha-version = Præ-alfa-versionen for erfarne brugere, der gerne vil hjælpe til med at finde fejl og prøvekøre nye funktioner, mens de bliver til.
 firefox-all-64-bit-installers = 64-bit-installationsprogrammer
 firefox-all-choose-a-64-bit-installer = Vælg et 64-bit-installeringsprogram til computere med 64-bit-processorer. Det giver computeren mulighed for at allokere mere RAM til individuelle programmer - hvilket især er vigtigt for spil og andre krævende programmer.
 firefox-all-32-bit-installers = 32-bit-installationsprogrammer
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Hent { -brand-name-firefox-browser } på dansk (da) eller ét af mere end 90 andre sprog
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox-browser } findes på mere end 90 forskellige sprog.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Denne mulighed åbner en produktside med { -brand-name-firefox } i Microsoft Store-webportalen. Hvis du kører Windows 10 eller Windows 11, har du mulighed for at åbne Microsoft Store fra denne side og installere { -brand-name-firefox }. Hvis du installerer fra Microsoft Store, vil opdateringer til { -brand-name-firefox } også blive håndteret af Microsoft Store. Der er mindre forskelle i { -brand-name-firefox }s adfærd og muligheder, når den installeres fra Microsoft Store, men for de fleste brugere er disse forskelle ikke mærkbare.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Hent { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Vi er i overgangsperioden mellem ESR-versionerne { $esr_next_major } og { $esr_current_major }.
+firefox-all-check-the-system-requirements = Kontrollér systemkravene
+firefox-all-release-notes = Udgivelsesnoter
+firefox-all-source-code = Kildekode
+firefox-all-need-help = Har du brug for hjælp?
 firefox-all-choose-which-firefox = Vælg hvilken { -brand-name-firefox-browser }, du vil hente på dit sprog
 firefox-all-firefox-privacy-notice = Privatlivserklæring for { -brand-name-firefox }
 firefox-all-learn-about-firefox = Læs om { -brand-name-firefox }-browsere
@@ -36,8 +69,6 @@ firefox-all-count-on-stability-and = Denne version af { -brand-name-firefox } er
 firefox-all-windows-installers-for = Windows-installationsprogrammer til IT-miljøer hos virksomheder gør opsætning, udrulning og håndtering af { -brand-name-firefox-browser } simplere.
 firefox-all-arm64-installers = ARM64/AArch64-Installationsprogrammer
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64-Installationsprogrammer optimeret til Windows- og Linux-PC'er.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64-Installationsprogrammer optimeret til Snapdragon-drevne { -brand-name-windows }-PCer.
 firefox-all-product-send-link = Send et link til at hente Firefox på din telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
