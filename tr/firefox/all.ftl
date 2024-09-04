@@ -13,6 +13,9 @@ firefox-all-download-the-firefox = { -brand-name-firefox-browser }nı Türkçe v
 firefox-all-everyone-deserves-access-v2 = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox }’u gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }nı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = <em>{ $product_name }</em> uygulamasını indirmek için QR kodunu okutun
 firefox-all-choose-browser = Devam etmek için bir tarayıcı seçin
 firefox-all-choose-platform = Devam etmek için bir platform seçin
 firefox-all-choose-language = Devam etmek için bir dil seçin
