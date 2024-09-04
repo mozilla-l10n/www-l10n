@@ -44,6 +44,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = محصوص بݨائے ہوئے { -brand-name-mdn } تجربے کیتے نویاں خصوصیات تے اوزار
 navigation-v2-view-all-products = ساریاں مصنوعات ݙیکھو
 navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = جعلی ریویو تے ٹھڳاں پتہ لاوݨ کیتے اے آئی ورتو
 
 ## Who We Are menu
 

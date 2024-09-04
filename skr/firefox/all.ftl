@@ -50,6 +50,13 @@ firefox-all-microsoft-store-installers = مائیکروسافٹ سٹور
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ڈاؤن لوڈ کرو
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = اساں وݙے ای ایس آر ورژناں { $esr_next_major } تے{ $esr_current_major } دے درمیان عبوری دور وچ ہیں۔
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } ریلیز چکر </a> بارے ٻیا پڑھو۔
 firefox-all-check-the-system-requirements = سسٹم دے تقاضیاں دی پڑتال کرو
 firefox-all-release-notes = ریلیز نوٹ
 firefox-all-source-code = ماخذ کوڈ
