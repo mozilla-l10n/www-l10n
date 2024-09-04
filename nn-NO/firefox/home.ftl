@@ -19,6 +19,7 @@ firefox-home-try-relay = Prøv { -brand-name-relay }
 firefox-home-get-the-respect-you = Få <strong>respekten</strong> du fortener
 # Obsolete string
 firefox-home-every-single-firefox = Kvart { -brand-name-firefox }-produkt overheld lovnaden vår om private data i alt vi gjer: <strong>Samle inn mindre. Oppbevar dei trygt. Ingen hemmelegheiter.</strong>
+firefox-home-every-single-mozilla = Kvart { -brand-name-mozilla }-produkt overheld lovnaden vår om private data i alt vi gjer: <strong>Samle inn mindre. Oppbevarer dei trygt. Ingen hemmelegheiter.</strong>
 firefox-home-trade-clickbait-for = Byt ut klikkfang (clickbait) med kvalitetsinnhald
 firefox-home-learn-more-about-pocket = Les meir om { -brand-name-pocket }
 firefox-home-protection-for-your-whole = Vern for heile eininga di, på alle einingar.
