@@ -55,6 +55,8 @@ firefox-all-download-esr-version = Hent { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Vi er i overgangsperioden mellem ESR-versionerne { $esr_next_major } og { $esr_current_major }.
+firefox-all-esr-when-there-is = Når der kommer en ny version af { -brand-name-firefox-esr }, er der altid et overlap på et par mindre udgivelser for at give folk mulighed for at bruge den gamle version til at forberede sig til den nye.
+firefox-all-esr-if-you-choose = Hvis du vælger at hente den ældre ESR-version, vil du automatisk blive opdateret til den nye version, når overgangsperioden slutter.
 firefox-all-check-the-system-requirements = Kontrollér systemkravene
 firefox-all-release-notes = Udgivelsesnoter
 firefox-all-source-code = Kildekode
