@@ -57,6 +57,9 @@ firefox-all-download-esr-version = ດາວໂຫຼດ { $esr_version }
 firefox-all-esr-we-are-in-transition = ພວກເຮົາຢູ່ໃນໄລຍະການປ່ຽນແປງລະຫວ່າງລຸ້ນ ESR ຫຼັກ { $esr_next_major } ແລະ { $esr_current_major }.
 firefox-all-esr-when-there-is = ເມື່ອມີການອັບເດດເວີຊັ່ນໃຫຍ່, ມີການທັບຊ້ອນຂອງຈຸດ { -brand-name-firefox-esr } ສະເໝີເພື່ອໃຫ້ຜູ້ທີ່ກຳລັງໃຊ້ເວີຊັ່ນເກົ່າກຽມຍ້າຍໄປໃໝ່.
 firefox-all-esr-if-you-choose = ຖ້າທ່ານເລືອກດາວໂຫຼດ ESR ເວີຊັ່ນເກົ່າ, ທ່ານຈະຖືກອັບເດດໂດຍອັດຕະໂນມັດເປັນອັນໃໝ່ເມື່ອໄລຍະເວລາການປ່ຽນສິ້ນສຸດລົງ.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = ອ່ານເພີ່ມເຕີມກ່ຽວກັບວົງຈອນການປ່ອຍ <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
@@ -70,6 +73,8 @@ firefox-all-test-your-sites-against = ທົດສອບເວັບໄຊຂອ
 firefox-all-count-on-stability-and = ຄິດໄລ່ຄວາມໝັ້ນຄົງ ແລະການນຳໃຊ້ງ່າຍດ້ວຍບຣາວເຊີ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສຳລັບອົງກອນ.
 firefox-all-windows-installers-for = ຕົວຕິດຕັ້ງ Windows ສໍາລັບ IT ອົງກອນທີ່ງ່າຍໃນການຕັ້ງຄ່າ, ການນຳໃຊ້ ແລະການຈັດການຂອງ { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ຕົວຕິດຕັ້ງ ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = ຕົວຕິດຕັ້ງ ARM64/AArch64 ປັບປຸງໃຫ້ເໝາະສົມກັບຄອມພິວເຕີ Windows ແລະ Linux.
+firefox-all-testflight = ລົງທະບຽນເພື່ອທົດສອບ { -brand-name-firefox } ສໍາລັບ iOS ດ້ວຍ TestFlight
 firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄປຫາໂທລະສັບຂອງທ່ານ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

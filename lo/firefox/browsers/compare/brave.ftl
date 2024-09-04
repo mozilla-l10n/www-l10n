@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
+# HTML page description
+compare-brave-read-our-comparison = ອ່ານການປຽບທຽບຂອງພວກເຮົາຂອງ { -brand-name-firefox } ແລະ ຕົວທ່ອງເວັບ Brave ກ່ຽວກັບຄຸນສົມບັດ, ຄວາມເປັນສ່ວນຕົວ, ແລະ ຄວາມສະດວກໃນການນໍາໃຊ້.
