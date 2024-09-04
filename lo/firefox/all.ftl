@@ -7,11 +7,11 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = ດາວໂຫລດ { -brand-name-firefox } ໃນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ຫຼາຍກວ່າ 90 ພາສາອື່ນໆ
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງທ່ານບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນີ້ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
@@ -26,9 +26,15 @@ firefox-all-change-language = ເລືອກພາສາອື່ນ
 firefox-all-down-arrow = ເລືອກຈາກບັນຊີລາຍຊື່ຂ້າງລຸ່ມນີ້
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = ໂປຣແກຣມທ່ອງເວັບ:
+firefox-all-browser-v2 = 1. ຕົວທ່ອງເວັບ:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = ແພັລດຟອມ
+firefox-all-platform-v2 = 2. Platform:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = ພາສາ:
+firefox-all-language-v2 = 3. ພາສາ:
 firefox-all-download = 4. ດາວໂຫລດ:
 firefox-all-desktop = ເດສກ໌ທັອບ
 firefox-all-mobile = ໂທລະສັບມືຖື
@@ -49,6 +55,8 @@ firefox-all-download-esr-version = ດາວໂຫຼດ { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = ພວກເຮົາຢູ່ໃນໄລຍະການປ່ຽນແປງລະຫວ່າງລຸ້ນ ESR ຫຼັກ { $esr_next_major } ແລະ { $esr_current_major }.
+firefox-all-esr-when-there-is = ເມື່ອມີການອັບເດດເວີຊັ່ນໃຫຍ່, ມີການທັບຊ້ອນຂອງຈຸດ { -brand-name-firefox-esr } ສະເໝີເພື່ອໃຫ້ຜູ້ທີ່ກຳລັງໃຊ້ເວີຊັ່ນເກົ່າກຽມຍ້າຍໄປໃໝ່.
+firefox-all-esr-if-you-choose = ຖ້າທ່ານເລືອກດາວໂຫຼດ ESR ເວີຊັ່ນເກົ່າ, ທ່ານຈະຖືກອັບເດດໂດຍອັດຕະໂນມັດເປັນອັນໃໝ່ເມື່ອໄລຍະເວລາການປ່ຽນສິ້ນສຸດລົງ.
 firefox-all-check-the-system-requirements = ກວດເບິງຄວາມຕ້ອງການຂອງລະບົບ
 firefox-all-release-notes = ບັນທຶກປະຈຳລຸ້ນ
 firefox-all-source-code = ໂຄດຕົ້ນສະບັບ
