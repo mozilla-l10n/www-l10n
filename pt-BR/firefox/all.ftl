@@ -7,11 +7,11 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Use o { -brand-name-firefox } em português e mais de 90 outros idiomas
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Use o { -brand-name-firefox-browser } em inglês (US) e mais de 90 outros idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Todos merecem ter acesso à internet, seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox } em mais de 90 idiomas.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Todos merecem ter acesso à internet — seu idioma nunca deve ser um impedimento. É por isso que, com a ajuda de voluntários dedicados no mundo todo, disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
@@ -26,8 +26,11 @@ firefox-all-change-language = Escolha outro idioma
 firefox-all-down-arrow = Escolha da lista abaixo
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pedir ajuda
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Navegador:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Plataforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Idioma:
 firefox-all-download = 4. Download:
 firefox-all-desktop = Computador
@@ -61,7 +64,7 @@ firefox-all-need-help = Precisa de ajuda?
 firefox-all-choose-which-firefox = Escolha qual { -brand-name-firefox-browser } baixar em seu idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidade do { -brand-name-firefox }
 firefox-all-learn-about-firefox = Saiba mais sobre navegadores { -brand-name-firefox }
-firefox-all-the-standard-firefox = O navegador { -brand-name-firefox } padrão — rápido e privativo. Se não sabe ao certo qual { -brand-name-firefox } escolher, escolha este.
+firefox-all-the-standard-firefox = O navegador { -brand-name-firefox } padrão — rápido e privativo. Se não souber qual usar, escolha este.
 firefox-all-get-a-sneak-peek-at = Dê uma espiada nos novos recursos do navegador { -brand-name-firefox } antes que sejam lançados.
 firefox-all-test-your-sites-against = Teste seus sites com os recursos do navegador { -brand-name-firefox } prestes a ser lançado, com ferramentas de desenvolvimento poderosas e flexíveis que são ativadas por padrão.
 firefox-all-count-on-stability-and = Confie na estabilidade e facilidade de uso com este navegador { -brand-name-firefox } feito para empresas.
