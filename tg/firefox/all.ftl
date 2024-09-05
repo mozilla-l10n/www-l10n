@@ -47,6 +47,14 @@ firefox-all-64-bit-installers = Насбкунандаи 64-бит
 firefox-all-choose-a-64-bit-installer = Барои компютерҳои дорои протсессорҳои 64-битае, ки барои ҷудо кардани ҳофизаи иловагии RAM ба барномаҳои алоҳида — хусусан, барои бозиҳо ва дигар барномаҳои талабкунанда, имкон медиҳанд, насбкунандаи 64-битаро интихоб намоед.
 firefox-all-32-bit-installers = Насбкунандаи 32-бит
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ин имкон саҳифаи маҳсули «{ -brand-name-firefox }»-ро дар портали интернетии «Microsoft Store» мекушояд. Агар шумо аз низоми компютерии «Windows 10» ё «Windows 11» истифода баред, ба шумо имконияти кушодани «Microsoft Store» аз ин саҳифа ва дарҳол насб кардани браузери «{ -brand-name-firefox }» пайдо мешавад. Агар шумо браузерро аз «Microsoft Store» насб кунед, навсозиҳои дахлдор ба «{ -brand-name-firefox }» инчунин, аз тарафи «Microsoft Store» таъмин карда мешаванд. Дар ҳолати насб кардани браузер аз «Microsoft Store» фарқиятҳои андак дар рафторҳо ва қобилиятҳои «{ -brand-name-firefox }» ба миён меоянд, аммо барои аксари корбарон чунин фарқиятҳо назаррас намебошанд.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Боргирӣ кардани «{ $esr_version }»
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Мо дар давраи гузариш байни версияҳои асосии ESR { $esr_next_major } ва { $esr_current_major } ҳастем.
 firefox-all-check-the-system-requirements = Талаботи низомро санҷед
 firefox-all-release-notes = Эзоҳоти барориш
 firefox-all-source-code = Рамзи манбаъ

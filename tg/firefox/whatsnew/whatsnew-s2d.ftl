@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = Браузери «{ -brand-name-firefox }»-ро барои «{ -brand-name-android }» ва «{ -brand-name-ios }» боргирӣ намоед
 whatsnew-s2d-download-firefox-for-your = Браузери «{ -brand-name-firefox }»-ро барои смартфон ва планшети худ боргирӣ намоед.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Ин рамзи QR-ро аксбардорӣ намоед
