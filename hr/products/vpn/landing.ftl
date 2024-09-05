@@ -50,7 +50,7 @@ vpn-landing-faq-link = Pogledaj još ČPP-a
 
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
-vpn-landing-invite-page-desc-v2 = Primi obavijest kada { -brand-name-mozilla-vpn } bude dostupna za tvoju regiju.
+vpn-landing-invite-page-desc-v2 = Primi obavijest kada je { -brand-name-mozilla-vpn } dostupno za tvoju regiju.
 vpn-landing-invite-email-label = Kako glasi tvoja e-mail adresa?
 vpn-landing-invite-required-label = Obavezno
 # Only localize "yourname". Do not change "@example.com".
