@@ -25,6 +25,8 @@ best-browser-there-are-a-few-ways = Det er nokre måtar ein nettlesar kan hjelpe
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Den andre er å ikkje lagre for mykje brukardata. Hackarar kan ikkje stele det som ikkje er der, og det er difor { -brand-name-firefox } berre beheld ei viss minimum-mengd av informasjon om brukarane sine. <a href="{ $data }">{ -brand-name-firefox } veit</a> om du brukar nettlesaren og den generelle plasseringa di <a href="{ $privacy }"> men ikkje namnet på husdyra til borna dine, eller favorittfargen din. </a>
+best-browser-last-but-not-least = Sist, men ikkje minst, bør ein sikker nettlesar tilby verktøy som hjelper deg med å halde auge med kontoane dine. Tenk på varsel som går rett til e-posten din viss nokon av kontoane dine blir brotne, eller ikon som fortel deg om ein nettstad er kryptert, (dvs. viss det er ein god idé å oppgi kredittnummeret ditt på eit shopping-nettstad).
+best-browser-we-visit-hundreds-or = Vi besøkjer hundrevis eller til og med tusenvis av nettstadar kvar dag, og du kan ikkje forvente at brukarar skal ta sikkerheits- og personvern-avgjerder for kvar av desse nettstadane. Det er derfor ein nettlesar som gir deg meir kontroll er så viktig – fordi han gir ekte, meiningsfullt vern.
 best-browser-a-browser-that-minds = Ein nettlesar, som passar sine eigne saker.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
