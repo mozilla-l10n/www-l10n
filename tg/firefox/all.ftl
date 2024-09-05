@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-# Obsolete string (expires 2024-10-27)
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Браузери «{ -brand-name-firefox }»-ро бо забони тоҷикӣ ва зиёда аз 90 забони дигар боргирӣ намоед
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = { -brand-name-firefox-browser }-ро бо забони англисӣ (English, US) ва зиёда аз 90 забони дигар, аз ҷумла бо забони тоҷикӣ, боргирӣ намоед
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Ҳар як кас барои пайдо кардани дастрасӣ ба Интернет имконияти калон дорад — забони модарии шумо барои кор дар Интернет шароити мусоид фароҳам меорад ва истифодаи ҳамаи имкониятҳои дастрасро осон мекунад . Бинобар ин, бо дастгирии тарҷумонон аз тамоми ҷаҳон { -brand-name-firefox-browser } ба тариқи ихтиёрӣ ба зиёда аз 90 забон тарҷума шуда истодааст ва, инчунин, бо забони тоҷикӣ дастрас аст.
 firefox-all-choose-browser = Барои идома браузереро интихоб намоед
 firefox-all-choose-platform = Барои идома платформаеро интихоб намоед
@@ -19,8 +21,11 @@ firefox-all-change-language = Забони дигареро интихоб на�
 firefox-all-down-arrow = Аз рӯйхати зерин интихоб намоед
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Гирифтани кумак
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Браузер:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Платформа:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Забон:
 firefox-all-download = 4. Боргирӣ:
 firefox-all-desktop = Мизи корӣ

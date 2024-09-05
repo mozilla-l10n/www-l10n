@@ -13,8 +13,8 @@ not-found-page-go-back = Бозгашт
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Маълумот дар бораи</a> about { -brand-name-mozilla }, ташкилоти ғайритиҷорие, ки { -brand-name-firefox }-ро месозад.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Маълумоти муфассал дар бораи </a> оилаи маҳсулоти { -brand-name-firefox } таҳияшуда, ки махфияти шуморо эҳтиром мекунад.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = Браузери { -brand-name-firefox }-ро барои дастгоҳи мобилӣ ё мизи кории худ <a href={ $download }>боргирӣ кунед</a>
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба худ гардонед.
