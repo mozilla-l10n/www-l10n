@@ -5,27 +5,40 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Zkontrolujte systémové požadavky
-firefox-all-release-notes = Poznámky k vydání
-firefox-all-source-code = Zdrojový kód
-firefox-all-need-help = Potřebujete pomoci?
-firefox-all-which-browser-would = Který prohlížeč si přejete stáhnout?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Stažení { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } v češtině nebo jednom z více než 90 dalších jazyků
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Každý si zaslouží přístup k internetu a jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } k dispozici ve více než 90 jazycích.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Získat pomoc
-firefox-all-you-are-about-to-download = Chystáte se stáhnout:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Prohlížeč:
+firefox-all-browser-v2 = 1. Prohlížeč:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platforma:
+firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Jazyk:
+firefox-all-language-v2 = 3. Jazyk:
+firefox-all-download = 4. Stáhněte si:
+firefox-all-desktop = Počítač
+firefox-all-mobile = Mobil
+firefox-all-recommended = (doporučeno)
 firefox-all-lang-multi = Více jazyků
+firefox-all-plat-mobile = Android a iOS
 firefox-all-sorry-we-couldnt-find = Je nám líto, ale nepodařilo se nám najít, co hledáte. Zkuste to prosím znovu, nebo vyberte stahování z níže uvedeného seznamu.
 firefox-all-the-pre-alpha-version = Předběžná alfa verze pro pokročilé uživatele, kteří rádi pátrají po pádech a testují nové funkce během jejich programování.
 firefox-all-64-bit-installers = 64-bitové instalátory
 firefox-all-choose-a-64-bit-installer = 64-bitový instalátor si vyberte pro počítače s 64-bitovými procesory, které jim umožňují přidělit jednotlivým programům více paměti RAM – zvláště důležité pro hry a jiné náročné aplikace.
 firefox-all-32-bit-installers = 32-bitové instalátory
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Stažení { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } v češtině nebo jednom z více než 90 dalších jazyků
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Každý si zaslouží přístup k internetu a jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } k dispozici ve více než 90 jazycích.
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Stáhnout { $esr_version }
+firefox-all-check-the-system-requirements = Zkontrolujte systémové požadavky
+firefox-all-release-notes = Poznámky k vydání
+firefox-all-source-code = Zdrojový kód
+firefox-all-need-help = Potřebujete pomoci?
 firefox-all-choose-which-firefox = Vyberte, který { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } chcete ve svém jazyce stáhnout
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } a soukromí
 firefox-all-learn-about-firefox = Bližší informace o prohlížečích { -brand-name-firefox }
@@ -36,8 +49,6 @@ firefox-all-count-on-stability-and = Spolehněte se na stabilitu a snadné použ
 firefox-all-windows-installers-for = Instalátory systému Windows pro podnikové IT, které zjednodušují konfiguraci, nasazení a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 firefox-all-arm64-installers = Instalátory pro ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalační programy ARM64/AArch64 optimalizované pro počítače se systémem Windows a Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Instalátory pro ARM64/AArch64 jsou optimalizované pro počítače s { -brand-name-windows(case: "ins") } a procesory Snapdragon.
 firefox-all-product-send-link = Poslat odkaz ke stažení do vašeho telefonu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
