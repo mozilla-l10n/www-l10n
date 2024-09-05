@@ -25,6 +25,7 @@ home-product-monitor-protect-your = Vern den private informasjonen din frå data
 home-cta-get-monitor = Få { -brand-name-monitor }
 home-product-fakespot-detect = Oppdag falske varevurderingar
 home-cta-get-fakespot = Last ned { -brand-name-fakespot }
+home-mozilla-takes-bets = «{ -brand-name-mozilla } tek veddemål for å vise verda at det er ei verksemd som kan gjerast med påliteleg AI. Det inkluderer å setje ting som menneskerettar, datavern og openheit i kjernen av korleis desse komplekse systema fungerer.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Bli med oss ​​i å forme påliteleg AI
