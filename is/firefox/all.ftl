@@ -47,6 +47,7 @@ firefox-all-64-bit-installers = 64-bita uppsetningarforrit
 firefox-all-choose-a-64-bit-installer = Veldu 64-bita uppsetningarforrit fyrir tölvur með 64-bita örgjörva, sem gerir kleift að úthluta meira vinnsluminni til einstakra forrita - sérstaklega mikilvægt fyrir leiki og önnur krefjandi forrit.
 firefox-all-32-bit-installers = 32-bita uppsetningarforrit
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Þessi valkostur mun opna síðu fyrir { -brand-name-firefox } í Microsoft Store vefgáttinni. Ef þú ert að keyra Windows 10 eða Windows 11 hefurðu möguleika á að opna Microsoft Store frá þessari síðu og setja upp { -brand-name-firefox }. Ef þú setur upp frá Microsoft Store verða uppfærslur á { -brand-name-firefox } einnig vera meðhöndlaðar af Microsoft Store. Það er lítill munur á hegðun og getu { -brand-name-firefox } þegar það er sett upp frá Microsoft Store, en fyrir flesta notendur er þessi munur ekki áberandi.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Sækja { $esr_version }
