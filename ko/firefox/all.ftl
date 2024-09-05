@@ -5,27 +5,44 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = 시스템 요구사항 확인
-firefox-all-release-notes = 출시 정보
-firefox-all-source-code = 소스 코드
-firefox-all-need-help = 도움이 필요하신가요?
-firefox-all-which-browser-would = 어떤 웹 브라우저를 다운로드 하시겠습니까?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = 영어(미국) 및 기타 90개 이상의 언어로 { -brand-name-firefox }를 다운로드하세요.
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = { -brand-name-firefox-browser } 다운로드 - 영어 포함 90개 이상의 언어별 제공
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = 모든 사람이 인터넷에 접속할 자격이 있습니다. 언어가 장벽이 되어서는 안 됩니다. 그래서 전 세계의 헌신적인 자원봉사자들의 도움으로 { -brand-name-firefox }를 90개 이상의 언어로 제공합니다.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = 모든 사람은 인터넷에 접속할 자격이 있습니다. 언어는 장벽이 되어서는 안됩니다. 이것이 바로 전 세계 자원 봉사자들의 도움으로 { -brand-name-firefox-browser }가 90 개 이상의 언어 버전을 제공하는 이유입니다.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = QR 코드를 스캔하여 <em>{ $product_name }</em> 다운로드
+firefox-all-choose-browser = 브라우저를 선택하고 계속
+firefox-all-choose-platform = 플랫폼을 선택하고 계속
+firefox-all-choose-language = 언어를 선택하고 계속
+firefox-all-change-browser = 다른 제품 선택
+firefox-all-change-platform = 다른 플랫폼 선택
+firefox-all-change-language = 다른 언어 선택
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = 아래 목록에서 선택
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 도움말
-firefox-all-you-are-about-to-download = 현재 선택한 버전:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = 브라우저:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = 플랫폼:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = 언어:
+firefox-all-download = 4. 다운로드:
 firefox-all-lang-multi = 여러 언어
 firefox-all-sorry-we-couldnt-find = 죄송합니다. 찾으시는 다운로드 항목이 없습니다. 다시 시도하거나 아래 목록에서 다운로드 항목을 선택하십시오.
 firefox-all-the-pre-alpha-version = 고급 사용자를 위한 알파 버전은 신규 기능 테스트 및 문제점 발견을 위한 용도로 제공합니다.
 firefox-all-64-bit-installers = 64비트 설치 프로그램
 firefox-all-choose-a-64-bit-installer = 64 비트 프로세서가 장착된 컴퓨터의 경우, 64 비트 설치 프로그램을 선택하면 개별 프로그램에 더 많은 메모리(RAM)을 할당 할 수 있습니다. 특히 게임과 같은 무거운 프로그램에 유용합니다.
 firefox-all-32-bit-installers = 32비트 설치 프로그램
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } 다운로드 - 영어 포함 90개 이상의 언어별 제공
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = 모든 사람은 인터넷에 접속할 자격이 있습니다. 언어는 장벽이 되어서는 안됩니다. 이것이 바로 전 세계 자원 봉사자들의 도움으로 { -brand-name-firefox-browser }가 90 개 이상의 언어 버전을 제공하는 이유입니다.
+firefox-all-check-the-system-requirements = 시스템 요구사항 확인
+firefox-all-release-notes = 출시 정보
+firefox-all-source-code = 소스 코드
+firefox-all-need-help = 도움이 필요하신가요?
 firefox-all-choose-which-firefox = { -brand-name-firefox-browser } 언어별 버전 다운로드
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } 개인정보처리방침
 firefox-all-learn-about-firefox = { -brand-name-firefox } 브라우저에 대해 알아보기
@@ -36,8 +53,6 @@ firefox-all-count-on-stability-and = 기업용으로 제공하는 { -brand-name-
 firefox-all-windows-installers-for = 기업 IT용 윈도 설치 관리자를 통해 { -brand-name-firefox-browser }의 구성, 배포 및 관리를 단순화할 수 있습니다.
 firefox-all-arm64-installers = ARM64 / AArch64 설치 프로그램
 firefox-all-arm64-installers-optimized-v2 = Windows와 Linux PC에 최적화된 ARM64/AArch64 설치 프로그램입니다.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64 및 AArch64 설치 프로그램은 Snapdragon 기반의 { -brand-name-windows } PC에 최적화되어 있습니다.
 firefox-all-product-send-link = 휴대 전화로 다운로드 링크 보내기
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
