@@ -44,6 +44,7 @@ firefox-all-plat-mobile = Android ва iOS
 firefox-all-sorry-we-couldnt-find = Мутаасифона, мо версияи браузери шуморо наёфтем. Лутфан, аз нав кӯшиш кунед ё ин ки версияи дигареро аз рӯйхати зерин интихоб намоед.
 firefox-all-the-pre-alpha-version = Версияи озмоишии «pre-alpha» барои корбарони таҷрибадоре, ки ошкор кардани садамаҳо ва санҷидани хусусиятҳои навро дар рафти барномарезӣ дӯст медоранд.
 firefox-all-64-bit-installers = Насбкунандаи 64-бит
+firefox-all-choose-a-64-bit-installer = Барои компютерҳои дорои протсессорҳои 64-битае, ки барои ҷудо кардани ҳофизаи иловагии RAM ба барномаҳои алоҳида — хусусан, барои бозиҳо ва дигар барномаҳои талабкунанда, имкон медиҳанд, насбкунандаи 64-битаро интихоб намоед.
 firefox-all-32-bit-installers = Насбкунандаи 32-бит
 firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-check-the-system-requirements = Талаботи низомро санҷед
