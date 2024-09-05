@@ -7,6 +7,9 @@
 
 home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
 home-firefox-browser = { -brand-name-firefox-browser }
+home-our-impact = Нуфузи мо
+home-empowering-women-online = Фароҳам овардани имкониятҳои занон дар Интернет
+home-the-coral-project = Лоиҳаи «Coral»
 home-our-innovations = Навигариҳои мо
 home-virtual-reality-platform = Платформаи ҳақиқати виртуалӣ
 home-common-voice = { -brand-name-common-voice }
