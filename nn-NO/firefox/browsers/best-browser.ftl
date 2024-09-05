@@ -30,6 +30,8 @@ best-browser-we-visit-hundreds-or = Vi besøkjer hundrevis eller til og med tuse
 best-browser-a-browser-that-minds = Ein nettlesar, som passar sine eigne saker.
 best-browser-privacy-on-the-web = Personvern på nettet er viktig for mange. Viss personvern er nummer éin på prioriteringslista di, vil du sjå etter ein nettlesar som tek det på alvor. Når du vel den beste private nettlesaren for deg, sjå på sporings-prinsippa og korleis ein nettlesar handterer dataa dine. Dette verkar som tekniske spørsmål, men dei er grunnen til at nokre nettlesarar er meir private enn andre.
 best-browser-trackers-are-all-those = Sporarar er alle dei irriterande «informasjonskapslar»-meldingane du får på nettstadane til flyselskapet. Desse tredjeparts-sporarane veit kvar du klikkar og kan brukast til å analysere åtferda di. Ein privat nettlesar skal gi brukarane høvet til å slå av tredjeparts-sporarar, men ideelt sett slå dei av som standard.
+best-browser-another-way-to-stop = Ein annan måte å stoppe sporarar frå å spore er å bruke privat modus for å surfe. Alle nettlesarar som hevdar å vere private, bør tilby surfing i privat modus.
+best-browser-choosing-the-best-browser = Å velje den beste nettlesaren for deg er omtrent som å velje ein heim. Du vil utforske alternativa dine, gjere litt research og ta ei avgjerd basert på kva som er viktig for deg.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = På <a href="{ $firefox }">{ -brand-name-firefox }</a> har vi jobba hardt for å byggje ein nettlesar som er dobbel så rask som tidlegare,og som gjev brukarane større kontroll over sitt eige liv på nettet.
