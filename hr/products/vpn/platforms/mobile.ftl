@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 # Meta strings
-vpn-mobile-page-title = { -brand-name-mozilla-vpn } za mobilne uređaje (pametni telefoni i tableti)
+vpn-mobile-page-title = { -brand-name-mozilla-vpn } za mobilne uređaje (mobiteli i tableti)
 vpn-mobile-about-headline = Informacije o { -brand-name-mozilla }
 # Variables:
 #   $devices (number) - number of available devices

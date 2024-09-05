@@ -11,6 +11,6 @@ whatsnew-s2d-want-privacy-on-every-device = Želiš privatnost na svim uređajim
 whatsnew-s2d-you-got-it-get-firefox-for = Može! Preuzmi { -brand-name-firefox } za mobitel.
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = Pošalji { -brand-name-firefox } na svoj mobitel<br> i uživaj u internetu.
-whatsnew-s2d-download-firefox-for-your = Preuzmi { -brand-name-firefox } za pametni mobitel i tablet.
+whatsnew-s2d-download-firefox-for-your = Preuzmi { -brand-name-firefox } za tvoj mobitel ili tablet.
 # An accessible label for a QR code image
 whatsnew-s2d-qr-code-alt = Snimi ovaj QR kod

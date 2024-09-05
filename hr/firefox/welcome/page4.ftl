@@ -12,7 +12,7 @@ welcome-page4-take-privacy-with-you-on-every = Zadržite privatnost na svakom ur
 welcome-page4-get-the-firefox-mobile = Preuzmi { -brand-name-firefox } za mobitel
 welcome-page4-get-firefox-on-your-phone = Preuzmi { -brand-name-firefox } za svoj telefon
 welcome-page4-send-the-download-link-right = Pošalji poveznicu za preuzimanje direktno na svoj telefon ili adresu e-pošte.
-welcome-page4-download-firefox-for-your = Preuzmi { -brand-name-firefox } za tvoj pametni telefon ili tablet.
+welcome-page4-download-firefox-for-your = Preuzmi { -brand-name-firefox } za tvoj mobitel ili tablet.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: privatni, sigurni preglednik” za { -brand-name-ios } ili { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Riješi se programa za praćenje

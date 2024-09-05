@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-send-to-device-send-firefox = Pošalji { -brand-name-firefox } na svoj pametni telefon ili tablet
+send-to-device-send-firefox = Pošalji { -brand-name-firefox } na svoj mobitel ili tablet
 send-to-device-your-download-link = Tvoja poveznica za preuzimanje je poslana.
 send-to-device-please-enter-an-email = Upiši jednu e-mail adresu.
 send-to-device-an-error-occured = Došlo je do greške u sustavu. Pokušaj ponovo kasnije.
