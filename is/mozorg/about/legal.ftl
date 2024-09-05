@@ -9,5 +9,4 @@ legal-legal = Lagalegur fyrirvari
 legal-get-involved = Taktu þátt
 legal-terms = Skilmálar
 legal-our-websites = Vefsvæðin okkar
-legal-privacy-notices-and-policy = Persónuverndartilkynningar og stefna
-legal-hubs = { -brand-name-mozilla-hubs }
+legal-privacy-notices-and-policy = Persónuverndarupplýsingar og stefna
