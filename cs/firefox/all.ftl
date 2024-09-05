@@ -9,6 +9,14 @@
 firefox-all-download-the-firefox = Stažení { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } v češtině nebo jednom z více než 90 dalších jazyků
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Každý si zaslouží přístup k internetu a jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } k dispozici ve více než 90 jazycích.
+firefox-all-choose-browser = Pro pokračování zvolte prohlížeč
+firefox-all-choose-platform = Pro pokračování vyberte platformu
+firefox-all-choose-language = Pro pokračování vyberte jazyk
+firefox-all-change-browser = Zvolte jiný produkt
+firefox-all-change-platform = Zvolte jinou platformu
+firefox-all-change-language = Zvolte jiný jazyk
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Vyberte si z níže uvedeného seznamu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Získat pomoc
 # Obsolete string (expires 2024-10-30)
