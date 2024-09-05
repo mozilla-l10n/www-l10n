@@ -51,6 +51,12 @@ firefox-all-microsoft-store-installers = Microsoft Store
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Sækja { $esr_version }
 # Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Við erum á aðlögunartímabili á milli ESR-aðalútgáfnanna { $esr_next_major } og { $esr_current_major }.
+firefox-all-esr-when-there-is = Þegar um meiriháttar útgáfuuppfærslu er að ræða, er alltaf skörun á nokkrum { -brand-name-firefox-esr } millibilsútgáfum til að gera fólki sem er að nota gömlu útgáfuna kleift að búa sig undir að fara yfir í þá nýju.
+firefox-all-esr-if-you-choose = Ef þú velur að sækja eldri ESR-útgáfuna, verður sjálfkrafa uppfært í þá nýju þegar aðlögunartímabilinu lýkur.
+# Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Lestu meira um <a { $attrs }>{ -brand-name-firefox-esr } útgáfuferilinn</a>.
 firefox-all-check-the-system-requirements = Athugaðu kröfur kerfisins
