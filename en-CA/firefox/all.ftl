@@ -5,27 +5,32 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Check the system requirements
-firefox-all-release-notes = Release notes
-firefox-all-source-code = Source code
-firefox-all-need-help = Need help?
-firefox-all-which-browser-would = Which browser would you like to download?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Download the { -brand-name-firefox-browser } in English (Canada) and more than 90 other languages
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the { -brand-name-firefox-browser } available in more than 90 languages.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Get help
-firefox-all-you-are-about-to-download = You are about to download:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Browser:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platform:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Language:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobile
+firefox-all-recommended = (Recommended)
 firefox-all-lang-multi = Multiple languages
+firefox-all-plat-mobile = Android and iOS
 firefox-all-sorry-we-couldnt-find = Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
 firefox-all-the-pre-alpha-version = The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
 firefox-all-64-bit-installers = 64-bit installers
 firefox-all-choose-a-64-bit-installer = Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
 firefox-all-32-bit-installers = 32-bit installers
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Download the { -brand-name-firefox-browser } in English (Canada) and more than 90 other languages
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the { -brand-name-firefox-browser } available in more than 90 languages.
+firefox-all-check-the-system-requirements = Check the system requirements
+firefox-all-release-notes = Release notes
+firefox-all-source-code = Source code
+firefox-all-need-help = Need help?
 firefox-all-choose-which-firefox = Choose which { -brand-name-firefox-browser } to download in your language
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Privacy Notice
 firefox-all-learn-about-firefox = Learn about { -brand-name-firefox } browsers
@@ -36,8 +41,6 @@ firefox-all-count-on-stability-and = Count on stability and ease of use with thi
 firefox-all-windows-installers-for = Windows installers for corporate IT that simplify the configuration, deployment and management of the { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 installers
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installers optimized for Windows and Linux PCs.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64 installers optimized for Snapdragon-powered { -brand-name-windows } PCs.
 firefox-all-product-send-link = Send a download link to your phone
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
