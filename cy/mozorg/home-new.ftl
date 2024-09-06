@@ -8,39 +8,29 @@
 home-internet-for-people-not-profit = Rhyngrwyd ar gyfer pobl, nid elw
 home-did-you-know-mozilla-the-maker = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn brwydro i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac yn agored i bawb.
 home-mission-driven = Cenhadaeth rymus. Pŵer pobl.
-home-were-not-normal = Nid ydym yn gwmni technoleg arferol. Mae'r pethau rydyn ni'n eu creu yn rhoi pobl yn gyntaf a'u preifatrwydd dros elw. Rydym yn bodoli i wneud y rhyngrwyd yn lle iachach ac hapusach i bawb.
+home-were-not-normal = Nid cwmni technoleg arferol ydyn ni. Mae'r pethau rydyn ni'n eu creu yn rhoi pobl a'u preifatrwydd yn gyntaf, o flaen elw. Rydyn ni'n bodoli i wneud y rhyngrwyd yn lle iachach a hapusach i bawb.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Iechyd y rhyngrwyd a bywyd ar-lein yw pam rydyn ni’n bodoli.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, Prif Swyddog Gweithredol { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Cadeirydd Gweithredol y Bwrdd, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = Mae { -brand-name-mozilla } yn creu cynnyrch sy'n parchu preifatrwydd
 home-product-firefox-browsing = Pori preifat a diogel
 home-cta-get-firefox = Cael { -brand-name-firefox }
 home-product-pocket-articles = Erthyglau mwyaf diddorol y we
 home-cta-get-pocket = Defnyddio { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Arallenwau e-bost a rhifau ffôn cudd hawdd eu defnyddio
 home-product-relay-hide-your = Cuddio eich rhif ffôn a'ch e-bost rhag sbamwyr
 home-cta-get-relay = Cael { -brand-name-relay }
 home-product-vpn-trust = VPN y gallwch ymddiried ynddo
 home-cta-get-vpn = Cael { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Rhybuddion tor-data
 home-product-monitor-protect-your = Diogelu eich manylion preifat rhag broceriaid data
 home-cta-get-monitor = Cael { -brand-name-monitor }
 home-product-fakespot-detect = Canfod adolygiadau siopa ffug
 home-cta-get-fakespot = Cael { -brand-name-fakespot }
-home-mozilla-takes-bets = “Mae { -brand-name-mozilla } yn hyderus bod modd dangos i’r byd bod modd gwneud busnes gydag AI dibynadwy. Mae hynny’n cynnwys rhoi pethau fel hawliau dynol, diogelu data a thryloywder wrth wraidd y ffordd y mae’r systemau cymhleth hyn yn gweithio.”
+home-mozilla-takes-bets = “Mae { -brand-name-mozilla }'n hyderus bod modd dangos i’r byd bod modd gwneud busnes gydag AI dibynadwy. Mae hynny’n cynnwys rhoi pethau fel hawliau dynol, diogelu data a thryloywder wrth wraidd y ffordd y mae’r systemau cymhleth hyn yn gweithio.”
 # Politico is a brand name for a news organization
 home-politico-cite = Gwleidyddiaeth
 home-join-us-in-shaping = Ymunwch â ni i lunio AI dibynadwy
 home-work-on-ai = Nid yw gwaith { -brand-name-mozilla } gydag AI yn beth newydd - rydym wedi treulio blynyddoedd yn ariannu, adeiladu ac eirioli dros AI sy'n agored, yn deg ac wedi'i ddatblygu'n gyfrifol. Rydym yn canolbwyntio ar greu AI sy’n gwasanaethu’r bobl, yn blaenoriaethu tryloywder ac yn cefnogi lles y cyhoedd, nid agendâu corfforaethol.
 home-read-more = Darllen rhagor
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = A yw { -brand-name-mozilla } yn gorfforaeth neu'n gorff dim-er-elw? Y gwir yw, y ddau.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = Mae { -brand-name-mozilla } yn cynnwys dau sefydliad. Mae'r { -brand-name-mozilla-corporation } yn eiddo'n gyfan gwbl y { -brand-name-mozilla-foundation } y corff dim-er-elw 501(c).  Mae hyn yn golygu nad ydym ynghlwm wrth unrhyw gyfranddalwyr - dim ond i'n cenhadaeth.
 home-so-what-is-mozilla = Felly, beth yw { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/

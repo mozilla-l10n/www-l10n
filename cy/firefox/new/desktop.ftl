@@ -53,7 +53,7 @@ firefox-desktop-download-all-your-devices = Rhowch { -brand-name-firefox } ar ei
 firefox-desktop-download-take-your-privacy = Ewch â'ch preifatrwydd gyda chi i bobman. Mae gan { -brand-name-firefox-browsers }, { -brand-name-ios } ac { -brand-name-android } yr un gosodiadau preifatrwydd cryf i rwystro tracwyr rhag eich dilyn o amgylch y we, lle bynnag rydych chi.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Gwneud <strong>popeth</strong> gyda { -brand-name-firefox }
-firefox-desktop-download-search-smarter = Chwilio'n glyfrach ac yn gynt
+firefox-desktop-download-search-smarter = Chwiliwch yn glyfrach ac yn gynt
 firefox-desktop-download-search-from-address = Chwilio o'r bar cyfeiriad
 firefox-desktop-download-search-engine-options = Dewis peiriant chwilio
 firefox-desktop-download-smart-search-suggestions = Awgrymiadau chwilio clyfar
@@ -67,7 +67,7 @@ firefox-desktop-download-sync-across-devices = Cydweddu ar draws dyfeisiau
 firefox-desktop-download-reader-mode = Modd darllen
 firefox-desktop-download-spell-check = Gwirio sillafu
 firefox-desktop-download-pinned-tabs = Pinio Tabiau
-firefox-desktop-download-stream-share-play = Ffrydio, rhannu a chwarae
+firefox-desktop-download-stream-share-play = Ffrydiwch, rhannwch a chwaraewch
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Rhwystro Awtochwarae fideo a sain
 # Picture-in-Picture is a feature names and so is capitalized in English
@@ -80,7 +80,7 @@ firefox-desktop-download-fingerprinter-blocking = Rhwystro Bysbrintwyr
 firefox-desktop-download-cryptominer-blocking = Rhwystro Cryptogloddwyr
 firefox-desktop-download-private-browsing-mode = Modd Pori Preifat
 firefox-desktop-download-individual-protections-report = Adroddiad diogelu personol
-firefox-desktop-download-secure-your-personal = Diogelwch eich manylion personol
+firefox-desktop-download-secure-your-personal = Diogelu eich manylion personol
 firefox-desktop-download-breached-website-alerts = Rhybuddion tor-gwefannau
 firefox-desktop-download-built-in-password = Rheolwr cyfrinair mewnol
 firefox-desktop-download-clear-history = Clirio'r hanes
@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } g
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, hanes a nodau tudalen gyda chi. Y cyfan sydd ei angen yw cyfrif <a { $attrs }>{ -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = Mae { -brand-name-firefox } ar gael ar eich holl ddyfeisiau; ewch â'ch tabiau, eich hanes a'ch nodau tudalen gyda chi. Y cyfan sydd ei angen arnoch yw cyfrif <a { $attrs }>{ -brand-name-mozilla-account }</a> a byddwch yn cael mynediad at gydweddu a rhagor o gynnyrch { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cymorth { -brand-name-mozilla }</a> yr atebion.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Mae porwr eisoes gyda chi. Nawr beth am gael mwy fyth gan { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Gwyliwch am hacwyr gyda { -brand-name-mozilla-monitor }, gwarchodwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Gwyliwch am hacwyr gyda { -brand-name-firefox-monitor }, diogelwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
-firefox-desktop-download-get-more-from-firefox = Cael Mwy Gan { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Llwytho'r Porwr i Lawr
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Dilynwch <a href="{ $url }">y cyfarwydd
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Efallai nad yw eich system yn cwrdd â gofynion { -brand-name-firefox }, ond mae modd i chi brofi un o'r <a href="{ $url }">rhain</a>:
-firefox-desktop-download-taskbar = Bydd { -brand-name-firefox } yn cael ei binio i'r bar tasgau { -brand-name-windows } ar ôl ei osod
