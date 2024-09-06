@@ -56,6 +56,9 @@ firefox-all-download-esr-version = Боргирӣ кардани «{ $esr_versio
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Мо дар давраи гузариш байни версияҳои асосии ESR { $esr_next_major } ва { $esr_current_major } ҳастем.
 firefox-all-esr-when-there-is = Вақте ки навсозии версияи асосӣ ба вуҷуд меояд, ҳамеша якчанд релизҳои нуқтагии «{ -brand-name-firefox-esr }» аз боло татбиқ карда мешаванд, то одамоне, ки аз версияи куҳна истифода мебаранд, тавонанд барои гузариш ба версияи нав тайёрӣ бинанд.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Дар бораи давраи релизи <a { $attrs }>{ -brand-name-firefox-esr }</a> бештар хонед.
 firefox-all-check-the-system-requirements = Талаботи низомро санҷед
 firefox-all-release-notes = Эзоҳоти барориш
 firefox-all-source-code = Рамзи манбаъ
@@ -85,3 +88,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
