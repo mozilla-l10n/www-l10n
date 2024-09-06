@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-faster-every-day = ໄວຂຶ້ນທຸກໆມື້
+features-fast-towards-a-faster-web = ໄປສູ່ເວັບທີ່ໄວຂຶ້ນ

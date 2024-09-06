@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Eyedropper tool
+# HTML page description
+features-eyedropper-identify-the-exact-color-on-a = ກໍານົດສີທີ່ແນ່ນອນໃນຫນ້າໃດຫນຶ່ງ ແລະ ຄັດລອກລະຫັດ hex ຂອງມັນ.

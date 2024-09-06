@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-fast-browse-faster = ທ່ອງເວັບໄວຂື້ນ
 features-fast-faster-gaming = ເກມໄວຂຶ້ນ
