@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-# Obsolete string (expires 2024-10-27)
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Sćehńće wobhladowak { -brand-name-firefox } w hornjoserbšćinje a wjace hač 90 druhich rěčach
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Sćehńće wobhladowak { -brand-name-firefox-browser } w hornjoserbšćinje a wjace hač 90 druhich rěčach
-# Obsolete string (expires 2024-10-27)
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Kóždy sej přistup na internet zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta wobhladowak { -brand-name-firefox } we wjace hač 90 rěčach k dispoziciji.
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Kóždy sej přistup k internetej zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta { -brand-name-firefox-browser } we wjace hač 90 rěčach k dispoziciji.
 firefox-all-choose-browser = Wubjerće wobhladowak, zo byšće pokročował
 firefox-all-choose-platform = Wubjerće platformu, zo byšće pokročował
@@ -19,9 +23,15 @@ firefox-all-change-language = Wubjerće druhu rěč
 firefox-all-down-arrow = Wubjerće ze slědowaceje lisćiny
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoc sej wobstarać
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Wobhladowak:
+firefox-all-browser-v2 = 1. Wobhladowak:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platforma:
+firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Rěč:
+firefox-all-language-v2 = 3. Rěč:
 firefox-all-download = 4. Sćehnjenje:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobilny telefon
