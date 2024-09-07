@@ -10,6 +10,7 @@
 
 contribute-page-title = { -brand-name-mozilla } ਲਈ ਵਲੰਟੀਅਰ ਮੌਕੇ
 contribute-page-heading = ਚੰਗੇਰੇ ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡੀਆਂ ਯੋਗਤਾਵਾਂ ਦੀ ਲੋੜ ਹੈ
+contribute-page-intro = { -brand-name-mozilla } ਸਭ ਲੋਕਾਂ ਲਈ ਆਜ਼ਾਦ ਅਤੇ ਜੀ ਆਇਆਂ ਨੂੰ ਕਹਿਣ ਵਾਲਾ ਇੰਟਰਨੈੱਟ ਯਕੀਨੀ ਬਣਾਉਣ ਵਾਸਤੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਗ਼ੈਰ-ਮੁਨਾਫ਼਼ਾ ਸੰਗਠਨ ਹੈ। ਇਸ ਵਾਸਤੇ ਸਾਨੂੰ ਤੁਹਾਡੀ ਮਦਦ ਚਾਹੀਦੀ ਹੈ। ਸਾਡੀ ਕਮਿਊਨਟੀ ਦਾ ਹਿੱਸਾ ਬਣ ਕੇ ਤੁਸੀਂ ਖੋਜਾਂ ਕਰਨ, ਜਵਾਬਦੇਹੀ ਤੇ ਭਰੋਸਾ ਵਧਾਉਣ ਅਤੇ ਹਰ ਕਿਸੇ ਲਈ ਇੰਟਰਨੈੱਟ ਨੂੰ ਵਧੀਆ ਥਾਂ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ।
 contribute-how-heading = ਤੁਸੀਂ ਯੋਗਦਾਨ ਕਿਵੇਂ ਦੇ ਸਕਦੇ ਹੋ…
 
 ## Contribution tasks
@@ -23,11 +24,14 @@ contribute-tag-support = ਸਹਿਯੋਗ
 contribute-task-translate-heading = ਸਮੱਗਰੀ ਦਾ ਉਲੱਥਾ ਕਰੋ
 contribute-task-translate-desc = ਇੰਟਰਨੈੱਟ ਤਦੇ ਹੀ ਗਲੋਬਲ ਕਹਾਉਂਦਾ ਹੈ ਜਦੋਂ ਇਸ ਨੂੰ ਸਭ ਕਿਤੇ ਸਮਝਿਆ ਜਾਵੇ। { -brand-name-mozilla } ਦੇ ਉਤਪਾਦਾਂ ਅਤੇ ਵੈੱਬਸਾਇਟਾਂ ਨੂੰ ਆਪਣੀ ਲੋਕਲ ਬੋਲੀ ਵਿੱਚ ਉਲੱਥਾ ਕਰਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ।
 contribute-task-mozilla-codebase-heading = { -brand-name-mozilla } ਦੇ ਕੋਡਬੇਸ ਵਿੱਚ ਯੋਗਦਾਨ ਦਿਉ
+contribute-task-mozilla-codebase-desc = ਕਈ ਕਿਸਮ ਦੇ ਵਿਕਾਸ ਦੇ ਮੌਕਿਆਂ ਵਿੱਚ ਹਿੱਸਾ ਪਾ ਕੇ { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਨੂੰ ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਸੁਧਾਰੋ।
+contribute-task-support-desc = { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਨੂੰ ਵਰਤਣਾ ਸੌਖਾ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ। { -brand-name-mozilla } ਸਹਿਯੋਗੀ ਕਮਿਊਨਟੀ ਮੰਚਾਂ ਵਿੱਚ ਹਿੱਸਾ ਲੈ ਕੇ ਲੋਕਾਂ ਦੇ “ਮਦਦ” ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿਓ।
 contribute-task-join-heading = ਕਮਿਊਨਟੀ ਦਾ ਹਿੱਸਾ ਬਣੋ
 
 ## Mission
 
 contribute-mission-heading = ਸਾਡਾ ਮਕਸਦ
+contribute-mission-desc = ਸਾਡਾ ਮਕਸਦ ਇੰਟਰਨੈੱਟ ਨੂੰ ਸਭ ਲਈ ਜਨਤਕ ਸਰੋਤ, ਆਜ਼ਾਦ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਬਣਾਉਣਾ ਹੈ। ਇੰਟਰਨੈੱਟ ਅਸਲੀਅਤ ਵਿੱਚ ਲੋਕਾਂ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ, ਜਿੱਥੇ ਕਿ ਵਿਅਕਤੀ ਆਪਣੇ ਤਜਰਬੇ ਦੇ ਅਧਾਰ ਉੱਤੇ ਸ਼ਕਲ ਦੇ ਸਕਦੇ ਹਨ ਅਤੇ ਇਖਤਿਆਰ ਪ੍ਰਾਪਤ, ਬੇਫ਼ਿਕਰ ਅਤੇ ਆਜ਼ਾਦ ਹਨ।
 contribute-learn = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 contribute-read-manifesto = ਸਾਡਾ ਮਨੋਰਥ ਪੱਤਰ ਪੜ੍ਹੋ
 contribute-find-event = ਸਮਾਗਮ ਲੱਭੋ
