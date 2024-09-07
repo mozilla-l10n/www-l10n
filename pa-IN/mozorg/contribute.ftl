@@ -44,6 +44,7 @@ contribute-made-by-heading = ਤੁਹਾਡੇ ਵਰਗੇ ਜ਼ੋਸ਼ੀਲੇ 
 ## Newsletter
 
 contribute-newsletter-heading = ਹਾਲੇ ਪੱਕੇ ਨਹੀਂ?
+contribute-newsletter-sub-heading = ਕਮਿਊਨਟੀ ਅਤੇ ਯੋਗਦਾਨ ਖ਼ਬਰਾਂ ਨੂੰ ਆਪਣੇ ਇਨਬਾਕਸ ਵਿੱਚ ਲਵੋ
 
 ## Support
 
