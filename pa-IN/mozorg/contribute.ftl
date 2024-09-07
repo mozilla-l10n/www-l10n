@@ -45,13 +45,16 @@ contribute-made-by-heading = ਤੁਹਾਡੇ ਵਰਗੇ ਜ਼ੋਸ਼ੀਲੇ 
 
 contribute-newsletter-heading = ਹਾਲੇ ਪੱਕੇ ਨਹੀਂ?
 contribute-newsletter-sub-heading = ਕਮਿਊਨਟੀ ਅਤੇ ਯੋਗਦਾਨ ਖ਼ਬਰਾਂ ਨੂੰ ਆਪਣੇ ਇਨਬਾਕਸ ਵਿੱਚ ਲਵੋ
+contribute-newsletter-desc = ਸਾਡੀ ਖ਼ਬਰਸਾਰ ਲਈ ਮੈਂਬਰ ਬਣੋ,, ਸੰਸਾਰ ਭਰ ਦੇ Mozillians ਦਾ ਹਿੱਸਾ ਬਣੋ ਅਤੇ { -brand-name-mozilla } ਦੇ ਮਕਸਦ ਨੂੰ ਸਹਿਯੋਗ ਦੇਣ ਵਾਸਤੇ ਪ੍ਰਭਾਵੀ ਮੌਕਿਆਂ ਬਾਰੇ ਜਾਣੋ।
 
 ## Support
 
 contribute-support-heading = ਮਦਦ ਲਵੋ
+contribute-support-desc = { -brand-name-mozilla } ਕੋਲ ਵਲੰਟੀਅਰਾਂ ਦੀ ਸਮਰਪਿਤ ਟੀਮ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਉਣ ਵਾਲੀ ਕਿਸੇ ਵੀ ਸਮੱਸਿਆ ਵਾਸਤੇ ਮਦਦ ਕਰਦੀ ਹੈ।
 contribute-mozilla-support = { -brand-name-mozilla } ਸਹਿਯੋਗ
 
 ## Web compat
 
 contribute-web-compat-heading = ਵੈੱਬ ਸਫ਼ੇ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਹਨ?
+contribute-web-compat-desc = ਜੇ ਤੁਹਾਨੂੰ ਵੱਖ-ਵੱਖ ਬਰਾਊਜ਼ਰਾਂ ਵਿੱਚ ਕਿਸੇ ਵੈੱਬਸਾਈਟ ਲਈ ਫ਼ਰਕ ਆਉਂਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਵੈੱਬ ਅਨੁਕੂਲਤਾ ਮਸਲਾ ਲੱਭਿਆ ਹੈ। ਉਸ ਬਾਰੇ ਅਸੀਂ ਜਾਣਨਾ ਚਾਹਾਂਗੇ!
 contribute-report-issue = ਮਸਲੇ ਦੀ ਰਿਪੋਰਟ ਕਰੋ
