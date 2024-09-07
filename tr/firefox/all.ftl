@@ -47,6 +47,9 @@ firefox-all-64-bit-installers = 64 bit yükleyiciler
 firefox-all-choose-a-64-bit-installer = 64 bit işlemcili bilgisayarlar için 64 bit yükleyiciyi seçin. 64 bit işlemcili bilgisayarlar programlara daha fazla RAM ayrılabilmesini sağlar. Bu, özellikle oyunlar ve belleği yoğun kullanan uygulamalar için önemlidir.
 firefox-all-32-bit-installers = 32 bit yükleyiciler
 firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } sürümünü indir
 firefox-all-check-the-system-requirements = Sistem gereksinimlerini kontrol edin
 firefox-all-release-notes = Sürüm notları
 firefox-all-source-code = Kaynak kodu
