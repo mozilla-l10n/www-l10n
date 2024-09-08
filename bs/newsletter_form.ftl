@@ -13,9 +13,6 @@ newsletter-form-yournameexamplecom = ime@example.com
 newsletter-form-select-country-or-region = Odaberite državu ili regiju
 newsletter-form-select-language = Izaberite jezik
 newsletter-form-your-email-here = VAŠA E-POŠTA OVDJE
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Primite novosti o { -brand-name-firefox }u
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
@@ -35,6 +32,8 @@ newsletter-form-thanks = Hvala!
 newsletter-form-leave-this-field-empty = Ostavite ovo polje prazno.
 newsletter-form-yes = Da
 newsletter-form-no = Ne
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Forma za prijavu na bilten
 multi-newsletter-form-checkboxes-legend = Želim informacije o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
