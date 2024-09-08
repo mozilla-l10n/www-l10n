@@ -18,6 +18,7 @@ privacy-faq-we-only-collect-the-data-we = اساں صرف اُوہو ڈیٹا ک
 privacy-faq-we-put-people-in-control-of = اساں لوکاں کوں انہاں دے ڈیٹا تے آن لائن تجربات دے کنٹرول وچ رکھدے ہیں۔
 # Obsolete string (expires 2024-09-11)
 privacy-faq-we-adhere-to-no-surprises-principle = اساں "کوئی سرپرائز کائنی" دے اصول تے کاربند ہیں، یعنی اساں ایں ڳالھ کوں یقینی بݨاوݨ کیتے سخت محنت کریندے ہیں جو لوکاں دی { -brand-name-firefox } دی سمجھ حقیقت نال میل کھاندی ہے۔
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = اساں "کوئی سرپرائز کائنی" دے اصول تے کاربند ہیں، یعنی اساں ایں ڳالھ کوں یقینی بݨاوݨ کیتے سخت محنت کریندے ہیں جو لوکاں دی { -brand-name-firefox } دی سمجھ حقیقت نال میل کھاندی ہے۔
 privacy-faq-the-following-questions-and = ہیٹھلے سوال جواب  ایہ سمجھݨ کیتے تہاݙی مدد کریسن جو { -brand-name-firefox } تے { -brand-name-mozilla } کنوں کیا کیا امیداں رکھوں:
 privacy-faq-i-use-firefox-for-almost-everything = میں ویب تے تقریباً ہر چیز کیتے { -brand-name-firefox } استعمال کریندا ہاں۔ { -brand-name-mozilla } دے تساں لوکاں کوں میݙے بارے ٻہوں ساریاں چیزاں ضرور معلوم تھیسن، ٹھیک ہے؟
 # Obsolete string (expires 2024-09-11)
