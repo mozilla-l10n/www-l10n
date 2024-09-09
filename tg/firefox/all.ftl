@@ -68,6 +68,7 @@ firefox-all-choose-which-firefox = Интихоб кунед, ки кадом { 
 firefox-all-firefox-privacy-notice = Огоҳнома дар бораи махфияти { -brand-name-firefox }
 firefox-all-learn-about-firefox = Маълумот дар бораи браузерҳои { -brand-name-firefox }
 firefox-all-the-standard-firefox = Браузери стандартии { -brand-name-firefox } — тез кор мекунад ва махфияти шуморо ҳафз менамояд. Агар шумо мутмаин набошед, ки кадом версияи { -brand-name-firefox }-ро интихоб кардан мехоҳед, ҳамин версияро интихоб кунед.
+firefox-all-get-a-sneak-peek-at = Имкониятҳоро дар хусусиятҳои навтарини браузери «{ -brand-name-firefox }» пеш аз релизи расмӣ дида бароед.
 firefox-all-arm64-installers = Насбкунандаи ARM64/AArch64
 firefox-all-product-send-link = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер
 # Variables:
