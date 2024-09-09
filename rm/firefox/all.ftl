@@ -5,16 +5,24 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Controllar las premissas dal sistem
-firefox-all-release-notes = Remartgas davart la versiun
-firefox-all-source-code = Code da funtauna
-firefox-all-need-help = Dovras agid?
-firefox-all-which-browser-would = Tge navigatur vuls ti telechargiar?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Telechargia { -brand-name-firefox } per rumantsch e dapli che 90 autras linguas
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Telechargia il { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Mintgin merita dad avair access a l’internet — tia lingua na duess mai esser ina barriera. Perquai mettain nus a disposiziun { -brand-name-firefox } — cun agid da voluntaris passiunads da tut il mund — en passa 90 linguas.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Mintgin ha merità dad avair access a l'internet — en sia atgna lingua. Perquai stat il { -brand-name-firefox-browser } — grazia a la lavur da voluntaris — a disposiziun per rumantsch e passa 90 autras linguas.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Scannescha il code QR per ir per <em>{ $product_name }</em>
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Ir per agid
-firefox-all-you-are-about-to-download = Ti es per telechargiar:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Navigatur:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Plattafurma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Lingua:
 firefox-all-lang-multi = Pliras linguas
 firefox-all-sorry-we-couldnt-find = Perstgisa, nus n'avain betg chattà la telechargiada che ti tschertgas. Emprova per plaschair anc ina giada u tscherna ina telechargiada en la glista sutvart.
@@ -22,10 +30,10 @@ firefox-all-the-pre-alpha-version = La versiun pre-alfa per utilisaders experts 
 firefox-all-64-bit-installers = Programs d'installaziun 64 bits
 firefox-all-choose-a-64-bit-installer = Tscherna in program d'installaziun 64 bits per computers cun in processur da 64 bits. Quai als permetta dad attribuir dapli RAM a singuls programs — quai è spezialmain impurtant per gieus ed autras applicaziuns exigentas.
 firefox-all-32-bit-installers = Programs d'installaziun 32 bits
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Telechargia il { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Mintgin ha merità dad avair access a l'internet — en sia atgna lingua. Perquai stat il { -brand-name-firefox-browser } — grazia a la lavur da voluntaris — a disposiziun per rumantsch e passa 90 autras linguas.
+firefox-all-check-the-system-requirements = Controllar las premissas dal sistem
+firefox-all-release-notes = Remartgas davart la versiun
+firefox-all-source-code = Code da funtauna
+firefox-all-need-help = Dovras agid?
 firefox-all-choose-which-firefox = Tscherna tge { -brand-name-firefox-browser } telechargiar en tia lingua
 firefox-all-firefox-privacy-notice = Las directivas da { -brand-name-firefox } per la protecziun da datas
 firefox-all-learn-about-firefox = Ulteriuras infurmaziuns davart ils navigaturs { -brand-name-firefox }
@@ -36,8 +44,6 @@ firefox-all-count-on-stability-and = Questa varianta da { -brand-name-firefox } 
 firefox-all-windows-installers-for = Programs d'installaziun per ambients informatics da Windows en interpresas che simplifitgeschan la configuraziun, l'implementaziun e l'administraziun dal { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Programs d'installaziun ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Programs d’installaziun ARM64/AArch64 optimads per PCs Windows e Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Programs d'installaziun ARM64/AArch64 optimads per PCs cun { -brand-name-windows } e processurs Snapdragon.
 firefox-all-product-send-link = Trametter ina colliaziun per telechargiar a tes telefonin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
