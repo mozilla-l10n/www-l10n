@@ -56,6 +56,7 @@ firefox-all-download-esr-version = Боргирӣ кардани «{ $esr_versio
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Мо дар давраи гузариш байни версияҳои асосии ESR { $esr_next_major } ва { $esr_current_major } ҳастем.
 firefox-all-esr-when-there-is = Вақте ки навсозии версияи асосӣ ба вуҷуд меояд, ҳамеша якчанд релизҳои нуқтагии «{ -brand-name-firefox-esr }» аз боло татбиқ карда мешаванд, то одамоне, ки аз версияи куҳна истифода мебаранд, тавонанд барои гузариш ба версияи нав тайёрӣ бинанд.
+firefox-all-esr-if-you-choose = Агар шумо интихоб карда, версияи куҳнаи ESR-ро боргирӣ намоед, браузери шумо, вақте ки давраи гузариш ба анҷом мерасад, ба версияи нав ба таври худкор навсозӣ карда мешавад.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Дар бораи давраи релизи <a { $attrs }>{ -brand-name-firefox-esr }</a> бештар хонед.
