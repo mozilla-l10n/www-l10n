@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = Lavura per ina organisaziun fi
 navigation-v2-mozilla-blog = Blog da { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Ve a savair dapli davart { -brand-name-mozilla } ed ils temas ch'ans stattan a cor.
 navigation-v2-more-about-mozilla = Dapli davart { -brand-name-mozilla }
+navigation-v2-impact = Effect
+navigation-v2-find-out-how = Ve a savair co nus rendain l’internet pli inclusiv e persistent
 
 ## Innovation menu
 
