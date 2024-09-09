@@ -64,6 +64,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } بلاگ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } تے ساݙے متعلق مسئلیاں بارے سکھو۔
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا
 navigation-v2-impact = اثر
+navigation-v2-find-out-how = معلوم کرو جو اساں انٹرنیٹ کوں مزید جامع تے پائیدار کین٘ویں بݨیدے پئے ہیں۔
 
 ## Innovation menu
 
