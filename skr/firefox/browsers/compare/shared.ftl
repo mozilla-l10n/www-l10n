@@ -9,6 +9,7 @@ compare-shared-compare-firefox = { -brand-name-firefox } دا موازنہ کر�
 compare-shared-footer-cta-title = { -brand-name-firefox } نال ٻیا کجھ کرو
 compare-shared-footer-cta-desc = تِکّھا، ہَولا جیہاں، رازداری اُتے مرکوز براؤزر حاصل کرو جیکوں ہِک غیر منافع بخش دی حمایت حاصل ہِے اَتے تُہاݙے سبّھے ڈیوائساں اُتے کم کرین٘دا ہِے۔
 compare-shared-footer-cta-button = { -brand-name-firefox } ڈاؤن لوڈ کرو
+compare-shared-we-also-offer-easy = اساں سوکھاں ورتݨ آلیاں اینجھیاں خصوصیات پیش کریندے ہیں:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox }  دے کول بلٹ ان ٹولز وی ہن جیویں جو:
 compare-shared-its-easy-to-switch = ایہ سوئچ کرݨ کیتے سوکھی ہے
 # Used as a small link to a cited source
