@@ -24,6 +24,9 @@ firefox-desktop-download-get-the-browser = Браузереро боргирӣ �
 firefox-desktop-download-no-shady = Ягон сиёсати махфияти сояандоз ё роҳҳои пуштибонии таблиғгарон вуҷуд надорад. Танҳо як браузери барқрафтор, ки шуморо фурӯхта наметавонад.
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» шуморо назорат <strong>намекунад</strong>.
+firefox-desktop-download-how-firefox-compares = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба браузерҳои дигар
 firefox-desktop-download-compare-chrome = «{ -brand-name-chrome }»
 firefox-desktop-download-compare-edge = «{ -brand-name-edge }»
 firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
