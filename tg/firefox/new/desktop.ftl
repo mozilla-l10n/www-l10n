@@ -20,6 +20,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Браузери «{ -brand-name-firefox }» дар нашри боз ҳам навтар дастрас аст. <a { $update_url }>Ба версияи охирин навсозӣ кунед</a>
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Ягон сиёсати махфияти сояандоз ё роҳҳои пуштибонии таблиғгарон вуҷуд надорад. Танҳо як браузери барқрафтор, ки шуморо фурӯхта наметавонад.
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
 firefox-desktop-download-compare-chrome = «{ -brand-name-chrome }»
