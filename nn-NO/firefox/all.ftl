@@ -7,6 +7,8 @@
 
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }en Firefox på norsk (nynorsk) og meir enn 90 andre språk
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Alle fortener tilgang til internett – språket ditt skal aldri vere ein barriere. Det er derfor – ved hjelp av dedikerte frivillige rundt om i verda – gjer vi { -brand-name-firefox } tilgjengeleg på meir enn 90 språk.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Alle fortener å ha tilgang til internett – språket ditt skal aldri vere ei hindring. Difor gjer vi { -brand-name-firefox-browser }en tilgjengeleg på meir enn 90 språk med hjelp frå engasjerte frivillige rundt om i verda.
 # Variables:
