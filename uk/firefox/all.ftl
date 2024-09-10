@@ -16,6 +16,9 @@ firefox-all-everyone-deserves-access = Кожен заслуговує дост�
 firefox-all-choose-browser = Виберіть браузер, щоб продовжити
 firefox-all-choose-platform = Виберіть платформу, щоб продовжити
 firefox-all-choose-language = Виберіть мову, щоб продовжити
+firefox-all-change-browser = Вибрати інший продукт
+firefox-all-change-platform = Вибрати іншу платформу
+firefox-all-change-language = Вибрати іншу мову
 # Used as an accessible label for an image that points down
 firefox-all-down-arrow = Виберіть зі списку нижче
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
@@ -30,6 +33,7 @@ firefox-all-platform-v2 = 2. Платформа:
 firefox-all-language = Мова:
 firefox-all-language-v2 = 3. Мова:
 firefox-all-download = 4. Завантажити:
+firefox-all-mobile = Мобільний
 firefox-all-recommended = (Рекомендовано)
 firefox-all-lang-multi = Кілька мов
 firefox-all-plat-mobile = Android та iOS
@@ -38,6 +42,7 @@ firefox-all-the-pre-alpha-version = Попередня альфа-версія �
 firefox-all-64-bit-installers = 64-розрядні інсталятори
 firefox-all-choose-a-64-bit-installer = Оберіть 64-розрядну версію для комп'ютерів з 64-розрядними процесорами, що дозволяють їм резервувати більше оперативної пам'яті для окремих програм — особливо важливо для ігор та вимогливих програм.
 firefox-all-32-bit-installers = 32-розрядні інсталятори
+firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-choose-a-microsoft-store-installer = Цей параметр відкриє сторінку продукту { -brand-name-firefox } на веб порталі Microsoft Store. Якщо ви використовуєте Windows 10 або Windows 11, у вас буде можливість відкрити Microsoft Store з цієї сторінки і встановити { -brand-name-firefox }. Якщо ви інсталюєте з Microsoft Store, оновлення до { -brand-name-firefox } також будуть оброблятися з Microsoft Store. Існують незначні відмінності у поведінці та можливостях { -brand-name-firefox } при встановленні з Microsoft Store, але для більшості користувачів ці відмінності непомітні.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
