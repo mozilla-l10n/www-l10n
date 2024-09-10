@@ -69,6 +69,8 @@ firefox-all-firefox-privacy-notice = Огоҳнома дар бораи махф
 firefox-all-learn-about-firefox = Маълумот дар бораи браузерҳои { -brand-name-firefox }
 firefox-all-the-standard-firefox = Браузери стандартии { -brand-name-firefox } — тез кор мекунад ва махфияти шуморо ҳафз менамояд. Агар шумо мутмаин набошед, ки кадом версияи { -brand-name-firefox }-ро интихоб кардан мехоҳед, ҳамин версияро интихоб кунед.
 firefox-all-get-a-sneak-peek-at = Имкониятҳоро дар хусусиятҳои навтарини браузери «{ -brand-name-firefox }» пеш аз релизи расмӣ дида бароед.
+firefox-all-test-your-sites-against = Сомонаҳои худро барои мувофиқат бо хусусиятҳои браузери «{ -brand-name-firefox }», ки ба наздикӣ бароварда мешаванд, ба воситаи абзорҳои барномарезии пурзӯри «DevTools», ки ба таври пешфарз фаъол мебошанд, озмоед.
+firefox-all-count-on-stability-and = Ба устоворӣ ва осонӣ дар истифодаи браузери «{ -brand-name-firefox }» барои корхонаҳо аҳамият диҳед.
 firefox-all-arm64-installers = Насбкунандаи ARM64/AArch64
 firefox-all-product-send-link = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер
 # Variables:
