@@ -14,6 +14,9 @@ firefox-all-everyone-deserves-access = Alle fortener å ha tilgang til internett
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Skann QR-koden for å få <em>{ $product_name }</em>
+firefox-all-choose-browser = Vel ein nettlesar for å halde fram
+firefox-all-choose-platform = Vel ei plattform for å halde fram
+firefox-all-choose-language = Vel eit språk for å halde fram
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjelp
 # Obsolete string (expires 2024-10-30)
