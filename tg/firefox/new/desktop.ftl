@@ -12,8 +12,13 @@
 firefox-desktop-download-meta-title = Браузери «{ -brand-name-firefox-browser }»-ро боргирӣ намоед — Зудкор, хусусӣ ва ройгон — аз ширкати «{ -brand-name-mozilla }»
 firefox-desktop-download-meta-title-v2 = Браузери «{ -brand-name-firefox }»-ро барои мизи корӣ боргирӣ намоед — аз ширкати «{ -brand-name-mozilla }»
 firefox-desktop-download-meta-desc = Браузери «{ -brand-name-firefox }»-ро ба даст оред, браузери интернетие, ки ройгон мебошад ва аз тарафи «{ -brand-name-mozilla }», ташкилоти ғайритиҷоратие, ки ба масъалаҳои беҳбудӣ ва махфияти Интернет саҳм мегузорад. дастгирӣ карда мешавад. Акнун дар низомҳои «{ -brand-name-windows }», «{ -brand-name-mac-short }», «{ -brand-name-linux }», «{ -brand-name-android }» ва «{ -brand-name-ios }» дастрас аст.
+firefox-desktop-download-meta-desc-v2 = Браузери «{ -brand-name-firefox }»-ро барои низомҳои «{ -brand-name-windows }», «{ -brand-name-mac-short }» ё «{ -brand-name-linux }» ба даст оред. «{ -brand-name-firefox }» браузери интернетие, ки ройгон мебошад ва аз тарафи «{ -brand-name-mozilla }», ки ба масъалаҳои беҳбудӣ ва махфияти Интернет саҳм мегузорад, дастгирӣ карда мешавад.
 firefox-desktop-download-og-title = Аз ҳама зудтарин браузери «{ -brand-name-firefox }»-ро боргирӣ намоед
+firefox-desktop-download-og-desc = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» акнун дар ин ҷост.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Браузери «{ -brand-name-firefox }» дар нашри боз ҳам навтар дастрас аст. <a { $update_url }>Ба версияи охирин навсозӣ кунед</a>
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
