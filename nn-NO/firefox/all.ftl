@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Last ned { -brand-name-firefox } på norsk (nynorsk) og meir enn 90 andre språk
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }en Firefox på norsk (nynorsk) og meir enn 90 andre språk
 # HTML page description, also used as the introductory text.
@@ -17,6 +19,11 @@ firefox-all-qrcode = Skann QR-koden for å få <em>{ $product_name }</em>
 firefox-all-choose-browser = Vel ein nettlesar for å halde fram
 firefox-all-choose-platform = Vel ei plattform for å halde fram
 firefox-all-choose-language = Vel eit språk for å halde fram
+firefox-all-change-browser = Vel eit anna produkt
+firefox-all-change-platform = Vel ei anna plattform
+firefox-all-change-language = Vel eit anna språk
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Vel frå lista nedanfor
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjelp
 # Obsolete string (expires 2024-10-30)
@@ -39,9 +46,14 @@ firefox-all-the-pre-alpha-version = Pre-alfa-versjonen for røynde brukarar som 
 firefox-all-64-bit-installers = 64-bit installerar
 firefox-all-choose-a-64-bit-installer = Vel eit 64-bit installasjonsprogram for datamaskiner med 64-bit prosessorar, noko som gjer at datamaskina kan fordele meir RAM til einskilde program - særskild viktig for spel og andre krevjande program.
 firefox-all-32-bit-installers = 32-bit installerar
+firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Last ned { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Vi er i overgangsperioden mellom ESR-versjonane { $esr_next_major } og { $esr_current_major }.
 firefox-all-check-the-system-requirements = Kontroller systemkrava
 firefox-all-release-notes = Versjonsnotat
 firefox-all-source-code = Kjeldekode
@@ -56,6 +68,7 @@ firefox-all-count-on-stability-and = Denne versjonen av { -brand-name-firefox } 
 firefox-all-windows-installers-for = Windows-installasjonsprogram for IT-miljø i bedrifter som forenklar konfigurasjonen, distribusjonen og handteringa av { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64-installasjonsprogram
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 installasjonsprogram optimert for Windows og Linux-datamaskiner.
+firefox-all-testflight = Registrer deg for å teste { -brand-name-firefox } for iOS med TestFlight
 firefox-all-product-send-link = Send ei nedlastingslenke til telefonen din
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
