@@ -11,6 +11,7 @@ browsers-mobile-go-your-own-way = Gå din eigen veg med { -brand-name-firefox }-
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobil tilpassar seg etter deg og gjer det enklare enn nokon gong å sjå alle opne faner, tidlegare søk, og favorittnettatsdar.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Samanlikn
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Sjå korleis { -brand-name-firefox } for datamaskiner klarer seg mot andre nettlesarar.
 browsers-mobile-download = Last ned
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

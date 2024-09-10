@@ -8,7 +8,7 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Last ned { -brand-name-firefox-browser } for { -brand-name-chromebook }
+browsers-chromebook-get-firefox-browser = Last ned { -brand-name-firefox-browser }en for { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Så du har ei { -brand-name-chromebook } — no er det på tide å få den uavhengige, automatisk private { -brand-name-firefox-browser }en for å verne dine personlige data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Last ned { -brand-name-firefox } for PC for { -brand-name-chromebook }
