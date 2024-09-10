@@ -11,6 +11,7 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Браузери «{ -brand-name-firefox-browser }»-ро боргирӣ намоед — Зудкор, хусусӣ ва ройгон — аз ширкати «{ -brand-name-mozilla }»
 firefox-desktop-download-meta-title-v2 = Браузери «{ -brand-name-firefox }»-ро барои мизи корӣ боргирӣ намоед — аз ширкати «{ -brand-name-mozilla }»
+firefox-desktop-download-meta-desc = Браузери «{ -brand-name-firefox }»-ро ба даст оред, браузери интернетие, ки ройгон мебошад ва аз тарафи «{ -brand-name-mozilla }», ташкилоти ғайритиҷоратие, ки ба масъалаҳои беҳбудӣ ва махфияти Интернет саҳм мегузорад. дастгирӣ карда мешавад. Акнун дар низомҳои «{ -brand-name-windows }», «{ -brand-name-mac-short }», «{ -brand-name-linux }», «{ -brand-name-android }» ва «{ -brand-name-ios }» дастрас аст.
 firefox-desktop-download-og-title = Аз ҳама зудтарин браузери «{ -brand-name-firefox }»-ро боргирӣ намоед
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
