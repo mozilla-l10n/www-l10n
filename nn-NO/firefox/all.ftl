@@ -26,6 +26,7 @@ firefox-all-language-v2 = 3. Språk:
 firefox-all-download = 4. Last ned:
 firefox-all-desktop = Datamaskin
 firefox-all-mobile = Mobil
+firefox-all-recommended = (Tilrådd)
 firefox-all-lang-multi = Fleire språk
 firefox-all-plat-mobile = Android og iOS
 firefox-all-sorry-we-couldnt-find = Desverre fann vi ikkje nedlastinga du leitar etter. Prøv igjen, eller vel ei nedlasting frå lista nedanfor.
