@@ -77,6 +77,9 @@ firefox-all-arm64-installers-optimized-v2 = Насбкунандаҳои «ARM64
 firefox-all-testflight = Барои санҷиши «{ -brand-name-firefox }» дар iOS тавассути «TestFlight» сабти ном намоед.
 firefox-all-product-send-link = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер
 # Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Насбкунандаи 32-битро барои компютерҳо бо протсессорҳои 32-бит — ё барои компютерҳои куҳна ё камқувват интихоб намоед. <a href="{ $url }">Агар шумо боварӣ набошта бошед</a>, ки аз кадом насбкунандаи 64-бит ё 32-бит истифода баред, мо тавсия медиҳем, ки шумо аз насбкунандаи 32-бит истифода баред.
+# Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
 #   $locale(string) e.g. English (US), German, French
