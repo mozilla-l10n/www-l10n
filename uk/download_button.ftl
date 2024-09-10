@@ -52,13 +52,11 @@ download-a-different-build = Завантажити іншу збірку
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Завантажити { -brand-name-linux } 32-розрядний
-# Obsolete string
-download-button-linux-64 = Завантажити { -brand-name-linux } 64-розрядний
 download-button-linux-32-v2 = Завантажити для 32-розрядної Linux
 download-button-linux-64-v2 = Завантажити для 64-розрядної Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Користуєтеся Debian, Ubuntu чи будь-яким іншим дистрибутивом на основі Debian?<br> Натомість ви можете налаштувати наш <a { $attrs }>репозиторій APT</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Отримати від Microsoft
