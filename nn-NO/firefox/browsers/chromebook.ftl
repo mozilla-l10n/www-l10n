@@ -19,6 +19,7 @@ browsers-chromebook-why-get-firefox = Kvifor laste ned <span>{ -brand-name-firef
 browsers-chromebook-while-a-chromebook = Medan ei { -brand-name-chromebook } allereie har { -brand-name-chrome } installert, kan du laste ned og bruke { -brand-name-firefox } som den daglege nettlesaren din med fleire fordelar som mellom anna:
 browsers-chromebook-alwayson-tracking-protection = Permanent sporingsvern: Som standard køyrer { -brand-name-firefox } utvida sporingsvern (ETP) for å beskytte dine personlige data frå kjende annonsesporarar, sosiale sporarar og kryptomining-skript som følgjer deg rundt på nettet.
 browsers-chromebook-is-it-hard = Er det vanskeleg å installere { -brand-name-firefox } for { -brand-name-chromebook }?
+browsers-chromebook-install-firefox-from = Installer { -brand-name-firefox } frå { -brand-name-google-play } Store: på nyare versjonar av { -brand-name-chromeos } (x86-basert { -brand-name-chromebook } som køyrer { -brand-name-chromeos } 80 eller nyare), har du høve til å installere appen { -brand-name-firefox } for { -brand-name-android }. Denne appen er utvikla for mobile einingar.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
