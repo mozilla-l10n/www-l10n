@@ -14,10 +14,16 @@ newsletter-form-select-country-or-region = Válasszon országot vagy régiót
 newsletter-form-select-language = Válasszon nyelvet
 newsletter-form-your-email-here = SAJÁT E-MAIL CÍM
 newsletter-form-get-firefox-news = { -brand-name-firefox } hírek
+newsletter-form-join-the-community = Csatlakozzon a közösséghez
+newsletter-form-sign-up-to-receive = Iratkozzon fel, hogy havonta értesüljön a { -brand-name-firefox }tól, és azokról az internetes trendekről, amelyek meghatározzák az online életét.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Elfogadom, hogy a { -brand-name-mozilla } az <a href="{ $url }">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
+newsletter-form-we-will-only-send-v2 = Csak a { -brand-name-mozilla } szervezettel kapcsolatos információkat küldünk. Bármikor leiratkozhat.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Csak a { -brand-name-mozilla } szervezettel kapcsolatos információt fogunk küldeni.
+newsletter-form-we-will-only-send-firefox-v2 = Csak a { -brand-name-firefox(case: "instrumental") } kapcsolatos információkat küldjük el Önnek. Bármikor leiratkozhat.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Csak a { -brand-name-firefox(case: "instrumental") } kapcsolatos információkat küldjük el Önnek.
 newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a { -brand-name-mozilla }-hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ön
