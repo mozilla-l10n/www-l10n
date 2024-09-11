@@ -376,18 +376,8 @@ newsletters-welcome-emails = स्वागत ईमेल
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = स्वागत ईमेल वे हैं, जो आपको हमारे प्रोडक्ट और सेवाएं इस्तेमाल करना शुरू करने के लिए प्रेरित करते हैं।
 
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = न्यूज़लेटर को सब्सक्राइब करें
-
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = { -brand-name-mozilla } से नई खबरें और सुझाव पाते रहें ताकि आप सुरक्षित बने रहें और इंटरनेट को एक बेहतर स्वस्थ जगह बनाने में मददगार हर चीज़ के बारे में जानकारी पाते रहें।
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = { -brand-name-firefox } ब्राउज़र
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = इस पेज का उपयोग करने के लिए आपके वेब ब्राउज़र को अपडेट किए जाने की ज़रूरत है।

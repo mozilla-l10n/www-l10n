@@ -376,18 +376,8 @@ newsletters-welcome-emails = E-mel alu-aluan
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = E-mel alu-aluan yang membolehkan anda mula menggunakan produk dan perkhidmatan kami.
 
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = Langgani buletin kami
-
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = Dapatkan berita dan tip-tip daripada { -brand-name-mozilla } untuk kekal bermaklumat tentang topik-topik yang menjadikan web sebuah platform yang sihat dan selamat.
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = Pelayar { -brand-name-firefox }
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Pelayar web anda perlu dikemas kini untuk menggunakan laman ini.

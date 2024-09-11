@@ -376,18 +376,8 @@ newsletters-welcome-emails = ウェルカムメール
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Mozilla の製品とサービスを使い始めるためのウェルカムメールです。
 
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = ニュースレターに登録
-
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = { -brand-name-mozilla } からニュースやアドバイスを受け取って、プライバシーを守り、ウェブをより健全な場所にするものについて情報を入手しましょう。
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = { -brand-name-firefox } ブラウザー
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = このページを使用するには、ウェブブラウザーを更新してください。
