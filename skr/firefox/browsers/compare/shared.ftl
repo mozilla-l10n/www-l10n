@@ -11,6 +11,9 @@ compare-shared-footer-cta-desc = تِکّھا، ہَولا جیہاں، رازد
 compare-shared-footer-cta-button = { -brand-name-firefox } ڈاؤن لوڈ کرو
 compare-shared-we-also-offer-easy = اساں سوکھاں ورتݨ آلیاں اینجھیاں خصوصیات پیش کریندے ہیں:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox }  دے کول بلٹ ان ٹولز وی ہن جیویں جو:
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = مقامی تے نجی طور تے <a { $translate }>ویب ورقے دا ترجمہ کرو</a>۔
 compare-shared-its-easy-to-switch = ایہ سوئچ کرݨ کیتے سوکھی ہے
 # Used as a small link to a cited source
 compare-shared-source = ماخذ
