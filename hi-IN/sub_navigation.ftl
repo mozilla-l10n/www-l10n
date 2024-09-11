@@ -16,6 +16,7 @@ sub-navigation-compare-mobile-browsers = मोबाइल ब्राउज�
 sub-navigation-firefox-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox }
 sub-navigation-release-notes = रिलीज़ नोट्स
 sub-navigation-desktop = डेस्कटॉप
+sub-navigation-mobile = मोबाइल
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } सपोर्ट
@@ -25,6 +26,7 @@ sub-navigation-desktop-beta-and-developer = डेस्कटॉप { -brand-na
 sub-navigation-desktop-nightly = डेस्कटॉप { -brand-name-nightly }
 sub-navigation-features = फ़ीचर्स
 
+sub-navigation-more = और ज्याद
 sub-navigation-firefox-for-mobile = मोबाइल के लिए { -brand-name-firefox }
 
 sub-navigation-chromebook = { -brand-name-chromebook }

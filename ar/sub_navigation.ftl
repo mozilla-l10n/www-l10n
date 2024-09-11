@@ -16,6 +16,7 @@ sub-navigation-compare-mobile-browsers = مقارنة بين مُتصفحات ا
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } لأجهزة الكمبيوتر
 sub-navigation-release-notes = ملاحظات الإصدار
 sub-navigation-desktop = أجهزة الكمبيوتر
+sub-navigation-mobile = الهواتف المحمولة
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = دعم { -brand-name-ios }
@@ -25,6 +26,7 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } و{ -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } لأجهزة الكمبيوتر
 sub-navigation-features = الميزات
 
+sub-navigation-more = المزيد
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } للهواتف المحمولة
 
 sub-navigation-chromebook = { -brand-name-chromebook }
