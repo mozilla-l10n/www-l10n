@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = Preuzmi { -brand-name-firefox-browser } preglednik na tvoj { -brand-name-ios } ili { -brand-name-android } mobitel
 welcome-page4-wallet-keys-phone-firefox = Novčanik. Ključevi. Telefon. <strong>{ -brand-name-firefox }.</strong>
-welcome-page4-take-privacy-with-you-on-every = Zadržite privatnost na svakom uređaju — a pratitelje ostavite u mraku.
+welcome-page4-take-privacy-with-you-on-every = Ponesi privatnost sa sobom na svaki uređaj – i ostavi programe za praćenje u mraku.
 welcome-page4-get-the-firefox-mobile = Preuzmi { -brand-name-firefox } za mobitel
 welcome-page4-get-firefox-on-your-phone = Preuzmi { -brand-name-firefox } za svoj telefon
 welcome-page4-send-the-download-link-right = Pošalji poveznicu za preuzimanje direktno na svoj telefon ili adresu e-pošte.
