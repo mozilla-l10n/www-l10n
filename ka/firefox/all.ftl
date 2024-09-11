@@ -5,27 +5,65 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = გადაამოწმეთ სისტემის მოთხოვნები
-firefox-all-release-notes = გამოშვების მონაცემები
-firefox-all-source-code = პირველწყარო კოდი
-firefox-all-need-help = გესაჭიროებათ დახმარება?
-firefox-all-which-browser-would = რომელი ბრაუზერის ჩამოტვირთვა გსურთ?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = ჩამოტვირთეთ { -brand-name-firefox } ინგლისურად და 90-ზე მეტ ენაზე
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = ჩამოტვირთეთ { -brand-name-firefox-browser } ქართულად და 90-ზე მეტ ენაზე
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = ყველა იმსახურებს ინტერნეტთან წვდომას — თქვენი ენა არასდროს უნდა იყოს ბარიერი. სწორედ ამიტომ — მთელი მსოფლიოდან ერთგული მოხალისეების დახმარებით — ჩვენ { -brand-name-firefox }-ს 90-ზე მეტ ენაზე გავხდით.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = ყველა ადამიანის უფლებაა, ჰქონდეს ინტერნეტთან წვდომა — ენა არ უნდა წარმოადგენდეს დაბრკოლებას. სწორედ ამიტომ — ცალკეული მოხალისეების დახმარებით მთელი მსოფლიოდან — ჩვენ შევძელით, რომ { -brand-name-firefox-browser } ხელმისაწვდომი ყოფილიყო 90-ზე მეტ ენაზე.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = წააკითხეთ QR კოდი, რომ მიიღოთ <em>{ $product_name }</em>
+firefox-all-choose-browser = გასაგრძელებლად აირჩიეთ ბრაუზერი
+firefox-all-choose-platform = აირჩიეთ პლატფორმა გასაგრძელებლად
+firefox-all-choose-language = გასაგრძელებლად აირჩიეთ ენა
+firefox-all-change-browser = აირჩიეთ სხვა პროდუქტი
+firefox-all-change-platform = აირჩიეთ სხვა პლატფორმა
+firefox-all-change-language = სხვა ენის შერჩევა
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = აირჩიეთ ქვემოთ მოცემული სიიდან
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = დახმარების მიღება
-firefox-all-you-are-about-to-download = თქვენ აპირებთ ჩამოტვირთოთ:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = ბრაუზერი:
+firefox-all-browser-v2 = 1. ბრაუზერი:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = პლატფორმა:
+firefox-all-platform-v2 = 2. პლატფორმა:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = ენა:
+firefox-all-language-v2 = 3. ენა:
+firefox-all-download = 4. ჩამოტვირთვა:
+firefox-all-desktop = კომპიუტერი
+firefox-all-mobile = მობილური
+firefox-all-recommended = (სასურველია)
 firefox-all-lang-multi = მრავალ ენაზე
+firefox-all-plat-mobile = Android და iOS
 firefox-all-sorry-we-couldnt-find = სამწუხაროდ, თქვენ მიერ მოთხოვნილი ჩამოტვირთვა ვერ მოიძებნა. გთხოვთ სცადოთ ხელახლა ან ჩამოტვირთვა შეარჩიეთ ქვემოთ მოცემული სიიდან.
 firefox-all-the-pre-alpha-version = წინასწარი ვერსია იმ ძლიერი მომხმარებლებისთვის, რომლებიც არ უშინდებიან უეცარ გათიშვებსა და ჯერ კიდევ დაუსრულებელი ახალი შესაძლებლობების გამოცდას.
 firefox-all-64-bit-installers = 64-ბიტიანის დასაყენებელი
 firefox-all-choose-a-64-bit-installer = აირჩიეთ 64-ბიტიანის დასაყენებელი 64-ბიტიანი პროცესორების მქონე კომპიუტერისთვის, რომელიც საშუალებას აძლევს ცალკეულ პროგრამებს, გამოიყენოს მეტი ოპერატიული — განსაკუთრებით მნიშვნელოვანია თამაშებსა და სხვა დამხმარე პროგრამებთან სამუშაოდ.
 firefox-all-32-bit-installers = 32-ბიტიანის დასაყენებელი
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = ჩამოტვირთეთ { -brand-name-firefox-browser } ქართულად და 90-ზე მეტ ენაზე
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ყველა ადამიანის უფლებაა, ჰქონდეს ინტერნეტთან წვდომა — ენა არ უნდა წარმოადგენდეს დაბრკოლებას. სწორედ ამიტომ — ცალკეული მოხალისეების დახმარებით მთელი მსოფლიოდან — ჩვენ შევძელით, რომ { -brand-name-firefox-browser } ხელმისაწვდომი ყოფილიყო 90-ზე მეტ ენაზე.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = ეს პარამეტრი გახსნის { -brand-name-firefox }-ის პროდუქტის გვერდს Microsoft Store-ის ვებპორტალზე. თუ თქვენ გიყენიათ Windows 10 ან Windows 11, გექნებათ შესაძლებლობა ამ გვერდზე გახსნათ Microsoft-ის მაღაზია და დააყენოთ { -brand-name-firefox }. თუ აყენებთ Microsoft Store-იდან, { -brand-name-firefox }-ის განახლებებს ასევე უზრუნველყოფს Microsoft Store. მცირე განსხვავებებია { -brand-name-firefox }-ის ქცევებსა და შესაძლებლობებში, Microsoft Store-იდან დაყენებისას, მაგრამ მომხმარებელთა უმრავლესობისთვის ეს განსხვავებები შესამჩნევი არაა.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = ჩამოტვირთეთ { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = ჩვენ გარდამავალ პერიოდში ვართ ESR-ის ძირითადი ვერსიებიდან { $esr_next_major } და { $esr_current_major }.
+firefox-all-esr-when-there-is = ძირითადი ვერსიის განახლებისას, ყოველთვის ემთხვევა რამდენიმე { -brand-name-firefox-esr } პუნქტის გადახურვა, რაც საშუალებას აძლევს ხალხს, ვინც ძველი ვერსიით იყენებს, მოემზადოს ახალზე გადასასვლელად.
+firefox-all-esr-if-you-choose = თუ გადაწყვეტთ ძველი ESR ვერსიის ჩამოტვირთვას, ავტომატურად განახლდება ახალზე, გარდამავალი პერიოდის დასრულებისთანავე.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = გაეცანით <a { $attrs }>{ -brand-name-firefox-esr }-ის გამოშვების</a> შესახებ.
+firefox-all-check-the-system-requirements = გადაამოწმეთ სისტემის მოთხოვნები
+firefox-all-release-notes = გამოშვების მონაცემები
+firefox-all-source-code = პირველწყარო კოდი
+firefox-all-need-help = გესაჭიროებათ დახმარება?
 firefox-all-choose-which-firefox = აირჩიეთ, რომელი { -brand-name-firefox-browser(case: "gen") } ჩამოტვირთვა გსურთ მშობლიურ ენაზე
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-ის პირადი მონაცემების დაცვის განაცხადი
 firefox-all-learn-about-firefox = უკეთ გაეცანით { -brand-name-firefox }-ბრაუზერებს
@@ -36,8 +74,7 @@ firefox-all-count-on-stability-and = განკუთვნილი მდგ
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, { -brand-name-firefox-browser(case: "gen") } ადვილად განთავსების, გაწყობისა და მართვისთვის.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ინსტალერები ოპტიმიზირებულია Windows და Linux კომპიუტერებისთვის.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = ARM64/AArch64 დასაყენებელი ფაილები განკუთვნილია Snapdragon-ით აღჭურვილი { -brand-name-windows }-PC სისტემებისთვის.
+firefox-all-testflight = გამოიწერეთ { -brand-name-firefox } iOS-ზე TestFlight-ის საშუალებით
 firefox-all-product-send-link = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -61,3 +98,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight

@@ -13,14 +13,17 @@ newsletter-form-yournameexamplecom = sakheli@misamarti.com
 newsletter-form-select-country-or-region = მიუთითეთ ქვეყანა ან მხარე
 newsletter-form-select-language = ენის არჩევა
 newsletter-form-your-email-here = თქვენი ელფოსტა
-newsletter-form-format = ფორმატი
-newsletter-form-html = HTML
-newsletter-form-text = ტექსტი
 newsletter-form-get-firefox-news = { -brand-name-firefox } სიახლეების გამოწერა
+newsletter-form-join-the-community = შემოუერთდით ერთობას
+newsletter-form-sign-up-to-receive = გამოიწერეთ და მიიღეთ ყოველთვიურად { -brand-name-firefox }-ის სიახლეები და ინტერნეტის იმ ტენდენციები, რომლებიც თქვენს ცხოვრებას ინტერნეტში აყალიბებს.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = თანახმა ვარ, რომ { -brand-name-mozilla }-მ ჩემი მონაცემები გამოიყენოს <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
+newsletter-form-we-will-only-send-v2 = ჩვენ გამოგიგზავნით მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ ინფორმაციას. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = მიიღებთ მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ ინფორმაციას.
+newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ { -brand-name-firefox }-სთან დაკავშირებულ ინფორმაციას გამოგიგზავნით. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = ჩვენ მხოლოდ { -brand-name-firefox }-თან დაკავშირებულ ინფორმაციას მოგაწვდით.
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს სიახლეების ცნობარი, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან ჯართის საქაღალდეში.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + თქვენ
@@ -35,6 +38,8 @@ newsletter-form-thanks = გმადლობთ!
 newsletter-form-leave-this-field-empty = ამ ველის ცარიელად დატოვება.
 newsletter-form-yes = დიახ
 newsletter-form-no = არა
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = საინფორმაციო ცნობების რეგისტრაციის ფორმა
 multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
