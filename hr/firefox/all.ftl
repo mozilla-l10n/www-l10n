@@ -5,27 +5,47 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
-firefox-all-release-notes = Napomene o izdanju
-firefox-all-source-code = Izvorni kod
-firefox-all-need-help = Trebaš pomoć?
-firefox-all-which-browser-would = Koji preglednik želiš preuzeti?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Snimi QR kod za dobivanje aplikacje <em>{ $product_name }</em>
+firefox-all-choose-browser = Odaberi preglednik za nastavljanje
+firefox-all-choose-platform = Odaberi platformu za nastavljanje
+firefox-all-choose-language = Odaberi jezik za nastavljanje
+firefox-all-change-browser = Odaberi jedan drugi proizvod
+firefox-all-change-platform = Odaberi jednu drugu platformu
+firefox-all-change-language = Odaberi jedan drugi jezik
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Odaberi iz donjeg popisa
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Zatraži pomoć
-firefox-all-you-are-about-to-download = Preuzet ćeš:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Preglednik:
+firefox-all-browser-v2 = 1. Preglednik:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platforma:
+firefox-all-platform-v2 = 2. Platforma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Jezik:
+firefox-all-language-v2 = 3. Jezik:
+firefox-all-download = 4. Preuzimanje:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobitel
+firefox-all-recommended = (preporučeno)
 firefox-all-lang-multi = Više jezika
+firefox-all-plat-mobile = Android i iOS
 firefox-all-sorry-we-couldnt-find = Nažalost, nismo mogli pronaći preuzimanje koje tražiš. Pokušaj ponovo ili odaberi preuzimanje s donjeg popisa.
 firefox-all-the-pre-alpha-version = Pred-alfa verzija za napredne korisnike koji vole loviti programske greške i testirati novo kodirane funkcije.
 firefox-all-64-bit-installers = Instalacijski programi (64-bitni)
 firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program za računala s 64-bitnim procesorima, koji će im omogućiti dodijeliti više RAM-a pojedinim programima – naročito važno za igre i ostale zahtjevne aplikacije.
 firefox-all-32-bit-installers = Instalacijski programi (32-bitni)
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
+firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
+firefox-all-release-notes = Napomene o izdanju
+firefox-all-source-code = Izvorni kod
+firefox-all-need-help = Trebaš pomoć?
 firefox-all-choose-which-firefox = Odaberi { -brand-name-firefox-browser } koji želiš preuzeti na svom jeziku
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } napomene o privatnosti
 firefox-all-learn-about-firefox = Saznaj više o { -brand-name-firefox } preglednicima

@@ -68,6 +68,7 @@
 -brand-name-facebook-container = Facebook kontejner
 -brand-name-firefox-devtools = Firefox alati za programere
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync = Firefox sinkronizacija
 -brand-name-firefox-translations = Firefox prijevodi
 
@@ -97,6 +98,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Mozilla projects
 
