@@ -10,3 +10,5 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Preglednik
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Besplatno – u { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Besplatno – u { -brand-name-app-store }
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Preuzimanje iz trgovine aplikacija

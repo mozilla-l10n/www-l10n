@@ -10,3 +10,4 @@ consent-banner-body-v2 = Uz kolačiće koji su potrebni za funkcioniranje ove st
 consent-banner-button-reject = Odbij sve dodatne kolačiće
 consent-banner-button-accept = Prihvati sve dodatne kolačiće
 consent-banner-settings-link = Postavke kolačića
+consent-banner-aria-label = Dijalog kolačića
