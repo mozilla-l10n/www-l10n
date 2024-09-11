@@ -13,14 +13,17 @@ newsletter-form-yournameexamplecom = oseunome@example.com
 newsletter-form-select-country-or-region = Selecionar o país ou região
 newsletter-form-select-language = Selecionar idioma
 newsletter-form-your-email-here = O SEU EMAIL AQUI
-newsletter-form-format = Formato
-newsletter-form-html = HTML
-newsletter-form-text = Texto
 newsletter-form-get-firefox-news = Obter notícias do { -brand-name-firefox }
+newsletter-form-join-the-community = Junte-se à comunidade
+newsletter-form-sign-up-to-receive = Subscrever para receber atualizações mensais do { -brand-name-firefox } e tendências da Internet que definem a sua vida na Internet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Estou bem com a { -brand-name-mozilla } manusear a minha informação como explicado <a href="{ $url }">neste Aviso de privacidade</a>
+newsletter-form-we-will-only-send-v2 = Apenas iremos enviar informação relacionada com a { -brand-name-mozilla }. Pode cancelar a subscrição a qualquer momento.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Apenas lhe iremos enviar informação relacionada com a { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox-v2 = Apenas iremos enviar informação relacionada com a { -brand-name-firefox }. Pode cancelar a subscrição a qualquer momento.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Apenas iremos enviar informação relacionada com a { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Se não confirmou previamente uma subscrição a um boletim informativo relacionado com a { -brand-name-mozilla }, poderá ter de fazê-lo. Por favor, verifique a sua caixa de entrada ou filtro de spam por um email nosso.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Você
