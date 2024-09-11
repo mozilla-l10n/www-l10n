@@ -7,11 +7,11 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Töltse le a { -brand-name-firefox(case: "accusative") } magyarul és több mint 90 egyéb nyelven
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser(case: "acc") } magyarul és több mint 90 egyéb nyelven
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox(case: "accusative") } több mint 90 nyelven.
-# Obsolete string (expires 2024-10-27)
+# Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
@@ -26,9 +26,15 @@ firefox-all-change-language = Másik nyelv választása
 firefox-all-down-arrow = Válasszon a lenti listából
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Segítség
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = 1. Böngésző:
+firefox-all-browser-v2 = 1. Böngésző:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = 2. Platform:
+firefox-all-platform-v2 = 2. Platform:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = 3. Nyelv:
+firefox-all-language-v2 = 3. Nyelv:
 firefox-all-download = 4. Letöltés:
 firefox-all-desktop = Asztali
 firefox-all-mobile = Mobil
@@ -41,6 +47,7 @@ firefox-all-64-bit-installers = 64 bites telepítők
 firefox-all-choose-a-64-bit-installer = 64 bites processzorral rendelkező számítógépekre válassza a 64 bites telepítőt, amely több memória hozzárendelését tesz lehetővé az egyes programokhoz – ez különösen fontos a játékok és a nagy teljesítményigényű alkalmazások esetén.
 firefox-all-32-bit-installers = 32 bites telepítők
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ez a lehetőség egy { -brand-name-firefox } termékoldalt nyit meg a Microsoft Store webes portálon. Ha Windows 10-et vagy Windows 11-et futtat, akkor erről az oldalról megnyithatja a Microsoft Store-t, és telepítheti a { -brand-name-firefox(case: "accusative") }. Ha a Microsoft Store-ból telepíti, akkor a { -brand-name-firefox } frissítéseit is a Microsoft Store fogja kezelni. A Microsoft Store-ból telepített { -brand-name-firefox } viselkedésében és funkcióiban kisebb különbségek vannak, de a legtöbb felhasználó számára ezek a különbségek nem feltűnőek.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } letöltése
