@@ -31,10 +31,13 @@ firefox-all-down-arrow = Wähle aus der Liste unten
 firefox-all-get-help = Wende Dich an unseren Support
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = Browser:
+firefox-all-browser-v2 = 1. Browser:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = Betriebssystem:
+firefox-all-platform-v2 = 2. Plattform:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = Sprache:
+firefox-all-language-v2 = 3. Sprache:
 firefox-all-download = 4. Download:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobile

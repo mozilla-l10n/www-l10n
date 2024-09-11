@@ -31,10 +31,13 @@ firefox-all-down-arrow = اختر من القائمة التالية
 firefox-all-get-help = احصل على المساعدة
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = المتصفح:
+firefox-all-browser-v2 = 1. المُتصفح:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = المنصة:
+firefox-all-platform-v2 = 2. المنصة:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = اللغة:
+firefox-all-language-v2 = 3. اللغة:
 firefox-all-download = 4. التنزيل:
 firefox-all-desktop = أجهزة الكمبيوتر المكتبية
 firefox-all-mobile = الهواتف المحمولة
