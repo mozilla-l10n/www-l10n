@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Preuzmi { -brand-name-firefox } na hrvatskom jeziku i na više od 90 drugih jezika
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
 # Obsolete string (expires 2024-10-30)
@@ -42,6 +44,14 @@ firefox-all-the-pre-alpha-version = Pred-alfa verzija za napredne korisnike koji
 firefox-all-64-bit-installers = Instalacijski programi (64-bitni)
 firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program za računala s 64-bitnim procesorima, koji će im omogućiti dodijeliti više RAM-a pojedinim programima – naročito važno za igre i ostale zahtjevne aplikacije.
 firefox-all-32-bit-installers = Instalacijski programi (32-bitni)
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Preuzmi { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Nalazimo se u prijelaznom razdoblju između glavnih ESR verzija { $esr_next_major } i { $esr_current_major }.
 firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
 firefox-all-release-notes = Napomene o izdanju
 firefox-all-source-code = Izvorni kod
@@ -55,6 +65,7 @@ firefox-all-test-your-sites-against = Testiraj svoje web stranice na funkcije { 
 firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upotrebe s ovim { -brand-name-firefox } preglednikom, koji je izgrađen za poduzeća.
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 instaleri
+firefox-all-arm64-installers-optimized-v2 = Programi za instalaciju ARM64/AArch64 su optimirani za Windows i Linux računala.
 firefox-all-product-send-link = Pošalji poveznicu za preuzimanje na svoj mobitel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
