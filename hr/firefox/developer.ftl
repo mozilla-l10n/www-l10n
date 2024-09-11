@@ -81,6 +81,7 @@ firefox-developer-congrats-you-now-have-latest-v2 = Sada imaš najnoviju verziju
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidiš što je novo.
+firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
 firefox-developer-mdn-references = { -brand-name-mdn } reference
