@@ -5,10 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Stažení { -brand-name-firefox(case: "gen") } v angličtině a více než 90 dalších jazycích
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Stažení { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } v češtině nebo jednom z více než 90 dalších jazyků
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Každý si zaslouží přístup k internetu – jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox(case: "acc") } k dispozici ve více než 90 jazycích.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Každý si zaslouží přístup k internetu a jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } k dispozici ve více než 90 jazycích.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Naskenujte QR kód a získejte <em>{ $product_name }</em>
 firefox-all-choose-browser = Pro pokračování zvolte prohlížeč
 firefox-all-choose-platform = Pro pokračování vyberte platformu
 firefox-all-choose-language = Pro pokračování vyberte jazyk
@@ -40,9 +47,19 @@ firefox-all-64-bit-installers = 64-bitové instalátory
 firefox-all-choose-a-64-bit-installer = 64-bitový instalátor si vyberte pro počítače s 64-bitovými procesory, které jim umožňují přidělit jednotlivým programům více paměti RAM – zvláště důležité pro hry a jiné náročné aplikace.
 firefox-all-32-bit-installers = 32-bitové instalátory
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Tato volba otevře stránku produktu { -brand-name-firefox } na webovém portálu obchodu Microsoft Store. Pokud používáte Windows 10 nebo Windows 11, budete mít možnost z této stránky otevřít Microsoft Store a { -brand-name-firefox(case: "acc") } nainstalovat. Pokud instalujete z Microsoft Store, budou aktualizace { -brand-name-firefox(case: "gen") } také spravovány skrze Microsoft Store. Po instalaci z Microsoft Storu je v chování a možnostech { -brand-name-firefox(case: "gen") } drobné rozdíly, ale pro většinu uživatelů nejsou tyto rozdíly patrné.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Stáhnout { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Nacházíme se v přechodném období mezi hlavními verzemi ESR { $esr_next_major } a { $esr_current_major }.
+firefox-all-esr-when-there-is = Když je k dispozici velká aktualizace, existuje vždy překrytí několika vydání { -brand-name-firefox-esr }, aby uživatelé používající starou verzi měli možnost se připravit na přechod na novou.
+firefox-all-esr-if-you-choose = Pokud se rozhodnete stáhnout starší verzi ESR, budete automaticky aktualizováni na novou verzi po skončení přechodného období.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Přečtěte si více o <a { $attrs }>cyklu vydávání { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Zkontrolujte systémové požadavky
 firefox-all-release-notes = Poznámky k vydání
 firefox-all-source-code = Zdrojový kód
@@ -57,6 +74,7 @@ firefox-all-count-on-stability-and = Spolehněte se na stabilitu a snadné použ
 firefox-all-windows-installers-for = Instalátory systému Windows pro podnikové IT, které zjednodušují konfiguraci, nasazení a správu { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }.
 firefox-all-arm64-installers = Instalátory pro ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalační programy ARM64/AArch64 optimalizované pro počítače se systémem Windows a Linux.
+firefox-all-testflight = Přihlaste se k otestování { -brand-name-firefox(case: "gen") } pro iOS pomocí TestFlight
 firefox-all-product-send-link = Poslat odkaz ke stažení do vašeho telefonu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -80,3 +98,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
