@@ -59,9 +59,6 @@ home-eventually-the-open = やがて、オープンソースの { -brand-name-mo
 home-today-mozilla-continues = 現在、{ -brand-name-mozilla } は、世界中の何百万人ものコミュニティメンバーとともに、より良いインターネットを目指す活動を続けてており、倫理的なテクノロジーや信頼できる AI を支持し、より大きな力を人々に与えるプライバシー第一の製品を生産しています。
 home-learn-more-about-mozilla = { -brand-name-mozilla } について詳しく知る
 
-home-get-good-news = { -brand-name-mozilla } のニュースを見る
-home-get-news-and-tips = { -brand-name-mozilla } からニュースやアドバイスを受け取って、プライバシーを守り、ウェブをより健全な場所にするものについて情報を入手しましょう。
-
 # VPN Feature
 home-featured-product = おすすめの製品
 

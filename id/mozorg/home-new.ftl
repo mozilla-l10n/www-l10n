@@ -59,9 +59,6 @@ home-eventually-the-open = Akhirnya proyek { -brand-name-mozilla } yang bersumbe
 home-today-mozilla-continues = Hari ini, { -brand-name-mozilla } melanjutkan gerakannya menuju internet yang lebih baik dengan jutaan anggota komunitas aktif yang tersebar di seluruh dunia, mendukung teknologi yang etis, AI yang tepercaya, dan menghasilkan produk yang mengutamakan privasi yang memberi lebih banyak kekuatan kepada orang-orang.
 home-learn-more-about-mozilla = Pelajari lebih lanjut mengenai { -brand-name-mozilla }
 
-home-get-good-news = Dapatkan kabar { -brand-name-mozilla }
-home-get-news-and-tips = Dapatkan berita dan tips dari { -brand-name-mozilla } agar tetap aman dan mendapatkan informasi tentang segala hal yang menjadikan web tempat yang lebih sehat.
-
 # VPN Feature
 home-featured-product = Produk unggulan
 

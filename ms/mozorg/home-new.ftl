@@ -59,9 +59,6 @@ home-eventually-the-open = Akhirnya, projek sumber terbuka { -brand-name-mozilla
 home-today-mozilla-continues = Pada hari ini, { -brand-name-mozilla } meneruskan usaha ke arah internet yang lebih baik bagi jutaan ahli komuniti di seluruh dunia, memperjuangkan teknologi yang lebih beretika, AI yang boleh dipercayai serta menghasilkan produk-produk yang mementingkan privasi yang memberi kuasa kepada penggunanya.
 home-learn-more-about-mozilla = Ketahui lebih lanjut tentang { -brand-name-mozilla }
 
-home-get-good-news = Dapatkan berita-berita (baik) tentang { -brand-name-mozilla }
-home-get-news-and-tips = Dapatkan berita dan tip-tip daripada { -brand-name-mozilla } untuk kekal bermaklumat tentang topik-topik yang menjadikan web sebuah platform yang sihat dan selamat.
-
 # VPN Feature
 home-featured-product = Produk paparan
 

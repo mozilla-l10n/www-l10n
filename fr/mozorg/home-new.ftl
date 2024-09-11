@@ -59,9 +59,6 @@ home-eventually-the-open = Finalement, le projet open source { -brand-name-mozil
 home-today-mozilla-continues = Aujourd’hui, { -brand-name-mozilla } continue d’œuvrer pour améliorer Internet et compte des millions de membres actifs de la communauté dans le monde entier, qui militent pour une technologie éthique, une IA digne de confiance et des produits axés sur la confidentialité, afin de donner plus de contrôle aux individus.
 home-learn-more-about-mozilla = En savoir plus sur { -brand-name-mozilla }
 
-home-get-good-news = Recevoir des (bonnes) nouvelles de { -brand-name-mozilla }
-home-get-news-and-tips = Recevez des actualités et des astuces de { -brand-name-mozilla } pour assurer votre sécurité et vous informer sur tout ce qui contribue à faire du Web un endroit sain.
-
 # VPN Feature
 home-featured-product = Produit mis en avant
 
