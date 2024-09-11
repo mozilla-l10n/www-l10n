@@ -14,10 +14,13 @@ newsletter-form-select-country-or-region = Izberite državo ali območje
 newsletter-form-select-language = Izberi jezik
 newsletter-form-your-email-here = VAŠA E-POŠTA
 newsletter-form-get-firefox-news = Novice o { -brand-name-firefox }u
+newsletter-form-join-the-community = Pridružite se skupnosti
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Strinjam se, da { -brand-name-mozilla } obdela te podatke, kot je razloženo v <a href="{ $url }">obvestilu o zasebnosti</a>
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Pošiljali vam bomo samo informacije, ki se tičejo { -brand-name-mozilla(sklon: "rodilnik") }.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Pošiljali vam bomo samo informacije, ki se tičejo { -brand-name-firefox }a.
 newsletter-form-if-you-havent-previously = Če v preteklosti še niste potrdili naročnine na okrožnico { -brand-name-mozilla(sklon: "rodilnik") }, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> in vi
