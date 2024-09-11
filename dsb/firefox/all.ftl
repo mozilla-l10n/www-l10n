@@ -13,6 +13,9 @@ firefox-all-download-the-firefox = Ześěgniśo { -brand-name-firefox-browser } 
 firefox-all-everyone-deserves-access-v2 = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta wobglědowak { -brand-name-firefox } we wěcej ako 90 rěcach k dispoziciji.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta { -brand-name-firefox-browser } we wěcej ako 90 rěcach k dispoziciji.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Scannujśo QR-kod, aby <em>{ $product_name }</em> dostał
 firefox-all-choose-browser = Wubjeŕśo wobglědowak, aby pókšacował
 firefox-all-choose-platform = Wubjeŕśo platformu, aby pókšacował
 firefox-all-choose-language = Wubjeŕśo rěc, aby pókšacował
