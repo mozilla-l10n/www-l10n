@@ -5,27 +5,45 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Kontrolloni domosdoshmëri sistemi
-firefox-all-release-notes = Shënime versioni
-firefox-all-source-code = Kodi burim
-firefox-all-need-help = Ju duhet ndihmë?
-firefox-all-which-browser-would = Cilin shfletues do të donit të shkarkoni?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox-browser } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë shfletuesin { -brand-name-firefox-browser } të gatshëm në më shumë se 90 gjuhë.
+firefox-all-choose-browser = Që të vazhdohet, zgjidhni një shfletues
+firefox-all-choose-platform = Që të vazhdohet, zgjidhni një platformë
+firefox-all-choose-language = Që të vazhdohet, zgjidhni një gjuhë
+firefox-all-change-browser = Zgjidhni një tjetër produkt
+firefox-all-change-platform = Zgjidhni një tjetër platformë
+firefox-all-change-language = Zgjidhni një tjetër gjuhë
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Zgjidhni nga lista më poshtë
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Merrni ndihmë
-firefox-all-you-are-about-to-download = Jeni gati për të shkarkuar:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Shfletues:
+firefox-all-browser-v2 = 1. Shfletues:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Platformë:
+firefox-all-platform-v2 = 2. Platformë:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Gjuhë:
+firefox-all-language-v2 = 3. Gjuhë:
+firefox-all-download = 4. Shkarkim:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Celular
+firefox-all-recommended = (E rekomanduar)
 firefox-all-lang-multi = Shumë gjuhë
+firefox-all-plat-mobile = Android dhe iOS
 firefox-all-sorry-we-couldnt-find = Na ndjeni, s’e gjetëm dot shkarkimin që po kërkoni. Ju lutemi, riprovoni, ose përzgjidhni një shkarkim prej listës më poshtë.
 firefox-all-the-pre-alpha-version = Versioni pre-alfa, për përdorues të fuqishëm që dëshirojnë të ndjekin vithisje dhe të provojnë veçori të reja teksa këto ende programohen.
 firefox-all-64-bit-installers = Instalues 64-bitësh
 firefox-all-choose-a-64-bit-installer = Zgjidhni një instalues 64-bit për kompjutera me procesorë 64-bitësh, çka u lejon atyre t’u japin më tepër RAM programeve individuale — veçanërisht e rëndësishme për lojëra dhe aplikacione të tjera të uritura.
 firefox-all-32-bit-installers = Instalues 32-bitësh
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox-browser } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë shfletuesin { -brand-name-firefox-browser } të gatshëm në më shumë se 90 gjuhë.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-check-the-system-requirements = Kontrolloni domosdoshmëri sistemi
+firefox-all-release-notes = Shënime versioni
+firefox-all-source-code = Kodi burim
+firefox-all-need-help = Ju duhet ndihmë?
 firefox-all-choose-which-firefox = Zgjidhni cili { -brand-name-firefox-browser } të shkarkohet në gjuhën tuaj
 firefox-all-firefox-privacy-notice = Shënim Privatësie në { -brand-name-firefox }
 firefox-all-learn-about-firefox = Mësoni rreth shfletuesve { -brand-name-firefox }
@@ -36,8 +54,6 @@ firefox-all-count-on-stability-and = Lërjani qëndrueshmërinë dhe lehtësinë
 firefox-all-windows-installers-for = Instalues Windows për TI korporatash, që thjeshtojnë formësimin, vënien në punë dhe administrimin e shfletuesit { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instalues për platforma ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalues për ARM64/AArch64 të optimizuar për PC Windows dhe Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Instalues për platforma ARM64/AArch64 optimizuar për PC { -brand-name-windows } ngritur mbi Snapdragon.
 firefox-all-product-send-link = Dërgoni te telefoni juaj një lidhje shkarkimi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
