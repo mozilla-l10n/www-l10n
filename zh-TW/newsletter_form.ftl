@@ -14,10 +14,16 @@ newsletter-form-select-country-or-region = 選擇國家或地區
 newsletter-form-select-language = 選擇語言
 newsletter-form-your-email-here = 在此輸入您的電子郵件地址
 newsletter-form-get-firefox-news = 訂閱 { -brand-name-firefox } 電子報
+newsletter-form-join-the-community = 加入社群
+newsletter-form-sign-up-to-receive = 註冊即可接收來自 { -brand-name-firefox } 的每月更新以及影響您的線上生活的網際網路發展趨勢。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = 我同意 { -brand-name-mozilla } 依照<a href="{ $url }">這份隱私權公告</a>當中描述的方式處理我的資訊。
+newsletter-form-we-will-only-send-v2 = 我們只會寄送 { -brand-name-mozilla } 相關資訊給您。您可以隨時退訂。
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = 我們只會寄送 { -brand-name-mozilla } 相關資訊給您。
+newsletter-form-we-will-only-send-firefox-v2 = 我們只會寄送 { -brand-name-firefox } 相關資訊給您。您可以隨時退訂。
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = 我們只會寄送 { -brand-name-firefox } 相關資訊給您。
 newsletter-form-if-you-havent-previously = 若您還沒有確認過要訂閱 { -brand-name-mozilla } 相關電子報，可能會收到我們的確認郵件。請檢查您的信箱收件匣或垃圾信件匣當中有沒有來自我們的郵件。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
