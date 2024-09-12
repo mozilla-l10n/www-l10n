@@ -75,6 +75,7 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd opp
 firefox-developer-welcome-to-firefox-developer-edition = Velkomen til { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
 firefox-developer-all-the-latest-v2 = Alle dei nyaste utviklarverktøya i beta i tillegg til funksjonar som Multi-line Console Editor og WebSocket Inspector.
+firefox-developer-a-separate-profile = Ein <strong>separat profil og bane</strong> slik at du enkelt kan køyre han saman med Release eller { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
