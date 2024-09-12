@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-find-out-about = Tudjon meg többet a { -brand-name-mozilla } termékeiről, kezdeményezéseiről és egyebekről. Sosem adjuk el az e-mail címét, még akkor sem, ha egy életre szóló ingyen pizzával ajándékozzuk meg.
+footer-refresh-get-the-best = Kapja meg a legjobb { -brand-name-firefox } tippeket, trükköket és frissítéseket. Ígérjük, hogy leveleit bizalmasan és biztonságban tartjuk – a { -brand-name-firefox } legjavát közvetlenül a postaládájába küldjük.
 footer-refresh-leadership = Vezetés
 footer-refresh-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
