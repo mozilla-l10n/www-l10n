@@ -74,6 +74,7 @@ firefox-developer-download-the-firefox-browser = Last ned { -brand-name-firefox 
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er bygd oppatt frå grunnen til å vere raskare, penare og kraftigare enn nokon gong.
 firefox-developer-welcome-to-firefox-developer-edition = Velkomen til { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
+firefox-developer-all-the-latest-v2 = Alle dei nyaste utviklarverktøya i beta i tillegg til funksjonar som Multi-line Console Editor og WebSocket Inspector.
 firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
