@@ -14,10 +14,16 @@ newsletter-form-select-country-or-region = Selecteer land of regio
 newsletter-form-select-language = Taal selecteren
 newsletter-form-your-email-here = UW E-MAILADRES
 newsletter-form-get-firefox-news = Ontvang { -brand-name-firefox }-nieuws
+newsletter-form-join-the-community = Doe mee met de gemeenschap
+newsletter-form-sign-up-to-receive = Schrijf u in om maandelijkse updates van { -brand-name-firefox } en internettrends te ontvangen die uw online leven vormgeven.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ik ga akkoord met het gebruik van mijn gegevens door { -brand-name-mozilla }, zoals uitgelegd in <a href="{ $url }">deze privacyverklaring</a>
+newsletter-form-we-will-only-send-v2 = We sturen u alleen { -brand-name-mozilla }-gerelateerde informatie. U kunt zich op elk gewenst moment uitschrijven.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = We sturen u alleen { -brand-name-mozilla }-gerelateerde informatie.
+newsletter-form-we-will-only-send-firefox-v2 = We sturen u alleen { -brand-name-firefox }-gerelateerde informatie. U kunt zich op elk gewenst moment uitschrijven.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = We sturen u alleen { -brand-name-firefox }-gerelateerde informatie.
 newsletter-form-if-you-havent-previously = Als u nog niet eerder een inschrijving voor een { -brand-name-mozilla }-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + u
