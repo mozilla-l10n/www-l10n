@@ -15,11 +15,14 @@ newsletter-form-select-language = Elige le lingua
 newsletter-form-your-email-here = TU ADRESSE DE E-MAIL
 newsletter-form-get-firefox-news = Recipe le novas de { -brand-name-firefox }
 newsletter-form-join-the-community = Uni te al communitate
+newsletter-form-sign-up-to-receive = Inscribe te pro reciper actualisationes mensual de { -brand-name-firefox } e discoperi tendentias internet que forma tu vita online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Io es de accordo con le tractamento de mi informationes per { -brand-name-mozilla } como explicate in <a href="{ $url }">iste aviso de confidentialitate</a>
+newsletter-form-we-will-only-send-v2 = Nos te inviara solo informationes re { -brand-name-mozilla }. Tu potera quandocunque cancellar tu inscription.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Nos te inviara solo informationes re { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox-v2 = Nos te inviara solo informationes re { -brand-name-firefox }. Tu potera quandocunque cancellar tu inscription.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Nos te inviara solo informationes re { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Si tu non ha anteriormente confirmate un subscription a un bulletin de novas ligate a { -brand-name-mozilla }, es possibile que tu debe facer lo ora. Per favor verifica si tu ha recipite un e-mail de nos in tu cassa de entrata o de spam.

@@ -26,11 +26,14 @@ footer-refresh-product-help = Guida del producto
 footer-refresh-file-a-bug = Signalar un bug
 footer-refresh-localize-mozilla = Localisar { -brand-name-mozilla }
 footer-refresh-resources = Ressources
+footer-refresh-brand-standards = Standards del marca de fabrica
 footer-refresh-developers = Disveloppatores
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Utensiles
 footer-refresh-donate = Donar
+footer-refresh-visit-mozilla-corporations = Visita le organisation non lucrative genitor de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-portions-of-this-content = Contento disponibile sub un licentia <a rel="licentia" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de confidentialitate del sito web
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Legal
