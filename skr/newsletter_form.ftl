@@ -14,10 +14,13 @@ newsletter-form-select-country-or-region = ملک یا علاقہ چݨو
 newsletter-form-select-language = زبان چُݨو
 newsletter-form-your-email-here = تہاݙی ای میل اتھ ہے
 newsletter-form-get-firefox-news = { -brand-name-firefox }  خبراں گھنو
+newsletter-form-join-the-community = برادری وچ شامل تھیوو
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = میں ٹھیک ہاں { -brand-name-mozilla } میݙیاں معلومات کوں سنبھلیندا پیا ہے جیویں جو <a href="{ $url }"> ایں رازداری دے نوٹس </a> وِچ وضاحت کیتی ڳئی ہے۔
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = اساں تہاکوں صرف { -brand-name-mozilla } دیاں معلومات بھیڄیسوں۔
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = اساں تہاکوں صرف { -brand-name-firefox } دیاں معلومات بھیڄیسوں۔
 newsletter-form-if-you-havent-previously = جے تساں پہلے { -brand-name-mozilla } دے متعلق نیوز لیٹر دی رکنیت دی تصدیق نہیں کیتی، تاں تہاکوں ایویں کرݨا پئے سڳدا ہے۔ اساݙی طرفوں ای میل کیتے براہ مہربانی اپݨا ان باکس یا اپݨا سپام فلٹر چیک کرو۔
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + تساں
