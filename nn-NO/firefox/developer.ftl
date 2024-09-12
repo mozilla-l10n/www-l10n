@@ -76,10 +76,12 @@ firefox-developer-welcome-to-firefox-developer-edition = Velkomen til { -brand-n
 firefox-developer-made-for-developers = nettlesaren laga for utviklarar
 firefox-developer-all-the-latest-v2 = Alle dei nyaste utviklarverktøya i beta i tillegg til funksjonar som Multi-line Console Editor og WebSocket Inspector.
 firefox-developer-a-separate-profile = Ein <strong>separat profil og bane</strong> slik at du enkelt kan køyre han saman med Release eller { -brand-name-beta } { -brand-name-firefox }.
+firefox-developer-preferences-tailored = Innstillingar <strong>tilpassa nettutviklarar</strong>: Nettlesar- og ekstern feilsøking er aktivert som standard, det same er det mørke temaet og knappen Utviklar på verktøylinja.
 firefox-developer-congrats-you-now-have-latest-v2 = Du har no den nyaste versjonen av { -brand-name-firefox-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Vis <a { $attrs }>versjonsnotat</a> (berre på engelsk) for å sjå kva som er nytt.
+firefox-developer-developer-tools-user = Dokumentasjon for utviklarverktøy
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursar for utviklarar, av utviklarar
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
