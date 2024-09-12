@@ -14,10 +14,16 @@ newsletter-form-select-country-or-region = Odaberite državu ili regiju
 newsletter-form-select-language = Izaberite jezik
 newsletter-form-your-email-here = VAŠA E-POŠTA OVDJE
 newsletter-form-get-firefox-news = Primite novosti o { -brand-name-firefox }u
+newsletter-form-join-the-community = Pridružite se zajednici
+newsletter-form-sign-up-to-receive = Prijavite se za primanje mjesečnih ažuriranja od { -brand-name-firefox }a i internetskih trendova koji oblikuju vaš život na mreži.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Slažem se da se { -brand-name-mozilla } koristi mojim informacijama kao što je objašnjeno u <a href="{ $url }">ovoj obavjesti o privatnosti</a>
+newsletter-form-we-will-only-send-v2 = Poslat ćemo vam samo informacije koje se odnose na { -brand-name-mozilla }. Možete se odjaviti u bilo kojem trenutku.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Mi ćemo vam samo poslati informacije povezane sa { -brand-name-mozilla }.
+newsletter-form-we-will-only-send-firefox-v2 = Poslat ćemo vam samo informacije koje se odnose na { -brand-name-firefox }. Možete se odjaviti u bilo kojem trenutku.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Mi ćemo vam samo poslati informacije povezane sa { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Ako niste prethodno potvrdili pretplatu na bilten vezan za Mozillu možete to uraditi. { -brand-name-mozilla } provjerite vašu ulaznu poštu ili vaš filter neželjene pošte za e-poštu od nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Vi
