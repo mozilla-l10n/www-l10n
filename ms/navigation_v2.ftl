@@ -64,6 +64,8 @@ navigation-v2-work-for-a-mission-driven-updated = Bekerjalah untuk sebuah organi
 navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Ketahui mengenai { -brand-name-mozilla } dan isu-isu yang penting bagi kami.
 navigation-v2-more-about-mozilla = Ketahui lebih lanjut tentang { -brand-name-mozilla }
+navigation-v2-impact = Impak
+navigation-v2-find-out-how = Ketahui bagaimana kami menjadikan internet lebih inklusif dan mampan
 
 ## Innovation menu
 
