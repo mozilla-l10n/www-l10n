@@ -15,6 +15,7 @@ newsletter-form-select-language = Scegli lingua
 newsletter-form-your-email-here = INSERISCI QUI LA TUA EMAIL
 newsletter-form-get-firefox-news = Ricevi le ultime notizie relative a { -brand-name-firefox }
 newsletter-form-join-the-community = Unisciti alla comunità
+newsletter-form-sign-up-to-receive = Iscriviti per ricevere ogni mese aggiornamenti da { -brand-name-firefox } e per scoprire le tendenze di Internet che modellano la tua vita digitale.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Acconsento al trattamento di queste informazioni da parte di { -brand-name-mozilla } secondo quanto indicato nell’<a href="{ $url }">informativa sulla privacy</a>
