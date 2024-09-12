@@ -8,3 +8,4 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } بنام Google Chrome
 compare-chrome-we-block-trackers-by-default = اساں ٹریکر ڈیفالٹوں بلاک کریندے ہیں۔ کروم کائنی کریندی۔
+compare-chrome-google-runs-the-worlds-largest = گوگل دنیا دا سب توں وݙا مشہوری نیٹ ورک چلیندا ہے تے کروم اوندا حصہ ہے۔
