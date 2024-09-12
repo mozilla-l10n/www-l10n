@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-find-out-about = 了解 { -brand-name-mozilla } 的產品、計畫與更多資訊。我們絕對不會賣掉您的信箱就算是提供您終生免費的比薩。
+footer-refresh-find-out-about = 了解 { -brand-name-mozilla } 的產品、計畫與更多資訊。我們絕對不會把您的信箱資訊拿來販售，換取終身免費比薩。
 footer-refresh-leadership = 領導團隊
 footer-refresh-advertise = 使用 { -brand-name-mozilla } 投放廣告
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
@@ -20,7 +20,7 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = 公司
 footer-refresh-press-center = 新聞中心
 footer-refresh-careers = 徵才啟事
-footer-refresh-contact = 聯絡人
+footer-refresh-contact = 聯絡我們
 footer-refresh-support = 技術支援
 footer-refresh-product-help = 產品說明
 footer-refresh-file-a-bug = 回報 Bug
