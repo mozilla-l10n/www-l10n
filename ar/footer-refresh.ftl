@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-find-out-about = اكتشف معلومات عن منتجات { -brand-name-mozilla } ومبادراتها وأكثر من ذلك. لن نبيع بريدك الإلكتروني أبدًا، حتى لو كان مقابله بيتزا مجانية مدى الحياة.
 footer-refresh-leadership = القيادة
 footer-refresh-advertise = أعلن مع { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = ملاحظات إصدار { -brand-name-firefox }
