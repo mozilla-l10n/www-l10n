@@ -66,3 +66,5 @@ download-button-linux-64-v2 = التنزيل لنظام Linux 64-bit
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = هل تستخدم دبيان أو أوبونتو أو أي توزيع قائم على دبيان؟<br> يُمكنك إعداد <a { $attrs }>مستودع APT بدلًا من ذلك</a>.
 
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = احصل عليه من Microsoft
