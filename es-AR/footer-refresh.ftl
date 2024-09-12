@@ -4,7 +4,7 @@
 
 footer-refresh-find-out-about = Descubrí los productos, las iniciativas y más de { -brand-name-mozilla }. Nunca venderemos tu correo electrónico, incluso si te regalamos pizza de por vida.
 footer-refresh-leadership = Liderazgo
-footer-refresh-advertise = Anunciate con { -brand-name-mozilla }
+footer-refresh-advertise = Publicitá con { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Seguir a @{ -brand-name-mozilla }
@@ -33,7 +33,7 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Herramientas
 footer-refresh-donate = Donar
 footer-refresh-visit-mozilla-corporations = Visitá <a { $moco_link }>matriz de { -brand-name-mozilla-corporation } </a> sin fines de lucro, la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = Partes de este contenido son © 1998– { $current_year } de colaboradores individuales de mozilla.org. Contenido disponible bajo una licencia <a rel="license" { $href }> { -brand-name-creative-commons } </a>.
+footer-refresh-portions-of-this-content = Partes de este contenido son ©1998–{ $current_year } de colaboradores individuales de mozilla.org. Contenido disponible bajo una <a rel="license" { $href }>licencia { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Legales
