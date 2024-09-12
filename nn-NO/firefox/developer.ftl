@@ -84,4 +84,5 @@ firefox-developer-view-the-release = Vis <a { $attrs }>versjonsnotat</a> (berre 
 firefox-developer-developer-tools-user = Dokumentasjon for utviklarverktøy
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursar for utviklarar, av utviklarar
+firefox-developer-a-structured-guide = Ein strukturert guide til dei grunnleggjande ferdigheitene og praksisane for å vere ein vellykka front-end-utviklar, saman med tilrådde læringsressursar.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
