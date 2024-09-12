@@ -13,14 +13,14 @@ newsletter-form-yournameexamplecom = wašemjeno@example.com
 newsletter-form-select-country-or-region = Kraj abo region wubrać
 newsletter-form-select-language = Rěč wubrać
 newsletter-form-your-email-here = WAŠA E-MEJLOWA ADRESA
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Wobstarajće sej nowinki { -brand-name-firefox }
+newsletter-form-join-the-community = Přidružće so zhromadźenstwu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Sym z tym přezjedny, kak { -brand-name-mozilla } po <a href="{ $url }">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Pósćelemy wam jenož informacije nastupajo { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Pósćelemy wam jenož informacije nastupajo { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Jeli hišće njejsće abonement powěsćoweho lista { -brand-name-mozilla } wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Wy
