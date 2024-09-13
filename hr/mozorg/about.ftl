@@ -38,7 +38,10 @@ about-berlin = Berlin
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-500-annual-attendees-to-the = <strong>500</strong> sudionika na godišnjim konferencijama u Berlinu
 about-toronto = Toronto
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-800-bottles-of-cold-brew-coffee = <strong>800</strong> boca hladne kave godišnje.
 about-work-at-mozilla = Radi za { -brand-name-mozilla }
+about-join-a-mission-driven-organization = Pridruži se organizaciji s misijom koja izrađuje namjenske proizvode.
 about-mozilla-careers = { -brand-name-mozilla } karijere
 about-how-you-can-help = Kako pomoći
 about-get-involved = Uključi se
