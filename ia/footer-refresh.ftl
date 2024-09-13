@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-find-out-about = Discoperi le productos, le initiativas, e altero de { -brand-name-mozilla }. Nos jammais vendera tu adresse e-mail, mesmo si es offerite pizza gratis a vita.
 footer-refresh-leadership = Commando
 footer-refresh-advertise = Face publicitate con { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de version de { -brand-name-firefox }
@@ -33,7 +32,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Utensiles
 footer-refresh-donate = Donar
 footer-refresh-visit-mozilla-corporations = Visita le organisation non lucrative genitor de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = Contento disponibile sub un licentia <a rel="licentia" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de confidentialitate del sito web
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Legal
