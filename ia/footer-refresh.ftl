@@ -32,6 +32,7 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Utensiles
 footer-refresh-donate = Donar
 footer-refresh-visit-mozilla-corporations = Visita le organisation non lucrative genitor de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-portions-of-this-content = Portiones de iste contento es ©1998–{ $current_year } per contributores individual de mozilla.org. Contento disponibile sub un licentia <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de confidentialitate del sito web
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Legal
