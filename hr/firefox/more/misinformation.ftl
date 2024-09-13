@@ -16,4 +16,4 @@ misinformation-learn-more-about-our-mission = Saznaj više o našoj misiji
 misinformation-your-privacy-by-the-product = Tvoja privatnost u svakom proizvodu
 misinformation-firefox-products-work-differently = { -brand-name-firefox } proizvodi su drugačiji, jer su prvenstveno dizajnirani da štite tvoju privatnost.
 misinformation-learn-about-our-products = Saznaj više o našim proizvodima
-misinformation-designed-to-protect = Dizajniran za štićenje tvoje privatnosti
+misinformation-designed-to-protect = Dizajniran da štiti tvoju privatnost.

@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-products-are = { -brand-name-firefox } proizvodi su dizajnirani za štićenje tvoje privatnosti
+firefox-products-are = { -brand-name-firefox } proizvodi su dizajnirani da štite tvoju privatnost
 learn-more-about-firefox = Saznaj više o { -brand-name-firefox } pregledniku, njegovoj povijesti, funkcijama i misiji
 learn-more-about = Saznaj više o { -brand-name-firefox } preglednicima i proizvodima koji poštuju tvoje podatke i koji su izgrađeni za privatnost gdje god se nalaziš na internetu.
 learn-more-faq = { -brand-name-firefox } ČPP

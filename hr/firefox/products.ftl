@@ -11,6 +11,7 @@ firefox-products-mozilla-products = { -brand-name-mozilla } proizvodi
 firefox-products-mozillas-family-of-products = Svi { -brand-name-mozilla } proizvodi su dizajnirani za sigurnije i pametnije pregledavanje interneta
 firefox-products-products = Proizvodi
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je samo početak.
+firefox-products-mozillas-family-of-products-sentence = Svi { -brand-name-mozilla } proizvodi su dizajnirani za sigurnije i pametnije pregledavanje interneta
 
 ## Firefox
 
