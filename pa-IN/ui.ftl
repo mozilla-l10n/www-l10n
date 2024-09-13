@@ -21,3 +21,5 @@ ui-show-all = ਸਾਰਾ ਵੇਖੋ
 ui-hide-all = ਸਾਰਾ ਓਹਲੇ ਕਰੋ
 ui-learn-more = ਹੋਰ ਜਾਣੋ
 ui-view = ਵੇਖੋ
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = ਪ੍ਰਚਾਰ

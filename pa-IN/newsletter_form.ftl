@@ -13,14 +13,14 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ ਚੁਣੋ
 newsletter-form-select-language = ਭਾਸ਼ਾ ਚੁਣੋ
 newsletter-form-your-email-here = ਤੁਹਾਡਾ ਈਮੇਲ ਇੱਥੇ
-newsletter-form-format = ਫਾਰਮੈਟ
-newsletter-form-html = HTML
-newsletter-form-text = ਲਿਖਤ
 newsletter-form-get-firefox-news = { -brand-name-firefox } ਖ਼ਬਰਾਂ ਲਵੋ
+newsletter-form-join-the-community = ਕਮਿਊਨਟੀ ਦਾ ਹਿੱਸਾ ਬਣੋ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla } ਵਲੋਂ <a href="{ $url }">ਇਸ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਵਿੱਚ ਦਰਸਾਏ ਮੁਤਾਬਕ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨਾਲ ਕੰਮ ਕਰਨ ਦੇਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ।
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੇਵਲ { -brand-name-mozilla } ਨਾਲ ਸਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ।
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੇਵਲ { -brand-name-firefox } ਨਾਲ ਸਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ।
 newsletter-form-if-you-havent-previously = ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ { -brand-name-mozilla }-ਅਧਾਰਿਤ ਖ਼ਬਰਸਾਰ ਵਾਸਤੇ ਮੈਂਬਰੀ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਹੈ ਤਾਂ ਹੁਣ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਇਨਬਾਕਸ ਜਾਂ ਆਪਣੇ ਸਪੈਮ ਫਿਲਟਰ ਨੂੰ ਸਾਡੇ ਵਲੋਂ ਈਮੇਲ ਵਾਸਤੇ ਜਾਂਚ ਕਰੋ।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ਤੁਸੀਂ
@@ -35,6 +35,8 @@ newsletter-form-thanks = ਧੰਨਵਾਦ!
 newsletter-form-leave-this-field-empty = ਇਸ ਖੇਤਰ ਨੂੰ ਖਾਲੀ ਛੱਡੋ।
 newsletter-form-yes = ਹਾਂ
 newsletter-form-no = ਨਹੀਂ
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = ਖ਼ਬਰਸਾਰ ਲਈ ਸਾਈਨ-ਅੱਪ ਫਾਰਮ
 multi-newsletter-form-checkboxes-legend = ਮੈਨੂੰ ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਚਾਹੀਦੀ ਹੈ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
