@@ -64,6 +64,8 @@ navigation-v2-work-for-a-mission-driven-updated = ユーザーファーストの
 navigation-v2-mozilla-blog = { -brand-name-mozilla } のブログ
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } と、私たちが気にかける問題をご覧ください。
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } の詳細
+navigation-v2-impact = インパクト
+navigation-v2-find-out-how = インターネットをより包摂的で持続可能なものにするための活動をご覧ください。
 
 ## Innovation menu
 
