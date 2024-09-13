@@ -8,7 +8,7 @@
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } – često postavljena pitanja o privatnosti podataka
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } poštuje i štiti tvoje osobne informacije.
-privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće iznad profita.
+privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće ispred profita.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">načela privatnosti podataka</a> koji određuju naš pristup prema privatnosti u { -brand-name-firefox } desktop i mobilnim preglednicima.

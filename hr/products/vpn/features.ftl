@@ -75,7 +75,7 @@ vpn-features-reviewed-by-third = Pregledano od eksternih stručnjaka za sigurnos
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Reviziju je obavilo Cure53, vodeće poduzeće u području obavljanja revizija kibernetičke sigurnosti. <a { $report }>Pogledaj izvještaj</a>.
-vpn-features-people-over-profits = Ljudi prije profita
+vpn-features-people-over-profits = Ljudi ispred profita
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
 vpn-features-were-backed-by-mofo = Podržava nas <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, neprofitna organizacija koja se bori da web ostane otvoren i zdrav za sve ljude.
