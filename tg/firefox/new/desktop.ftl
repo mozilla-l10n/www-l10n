@@ -47,6 +47,7 @@ firefox-desktop-download-we-block-the-ad = Мо васоити пайгирии 
 firefox-desktop-download-ads-are-distracting = Маводҳои рекламавӣ халал мерасонанд ва кушоиши саҳифаҳои сомонаҳоро суст мекунанд, ҳангоме ки васоити пайгирии рекламавӣ ҳар як ҳаракати шуморо дар онлайн назорат мекунанд. Браузери «{ -brand-name-firefox-browser }» аксари васоити пайгириро ба таври худкор манъ мекунад, бинобар ин ягон кофтуков дар танзимоти амнияти шумо лозим нест.
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
+firefox-desktop-download-available-in-over = Дар зиёда аз 90 забон дастрас буда ва ба низомҳои «{ -brand-name-windows }», «{ -brand-name-mac-short }» ва «{ -brand-name-linux }» мувофиқат намуда, ва новобаста аз он, ки шумо аз чӣ истифода мебаред ва дар куҷо мебошед, браузери «{ -brand-name-firefox }» барои шумо кор мекунад. Барои таҷрибаи беҳтарин, мутмаин шавед, ки низоми амалкунандаи шумо нав аст.
 firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
 firefox-desktop-download-all-your-devices = Браузери «{ -brand-name-firefox }»-ро ба ҳамаи дастгоҳҳои худ гузоред
 firefox-desktop-download-search-smarter = Зудтар ва оқилонатар ҷустуҷӯ намоед
