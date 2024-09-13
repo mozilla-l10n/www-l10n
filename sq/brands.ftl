@@ -115,6 +115,7 @@
 -brand-name-mozilla-accounts = Llogari Mozilla
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = IA Mozilla
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)

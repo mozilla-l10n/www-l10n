@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Ndihmonani të përmirësojmë punimin e { -brand-name-mozilla }-s për ju
-consent-banner-body = Veç cookie-ve të nevojshme që të funksionojë sajti, do të donim lejen tuaj për të depozituar disa Cookies shtesë, për të kuptuar më mirë nevojat tuaja të shfletimit dhe për të përmirësuar funksionimin për ju. Jini të qetë — e vlerësojmë privatësinë tuaj.
+consent-banner-body-v2 = Veç Cookie-ve të nevojshme për funksionimin e këtij sajti, do të donim lejen tuaj të depozitojmë disa Cookies shtesë për të kuptuar më mirë nevojat tuaja të shfletimit dhe të përmirësojmë funksionimin për ju. Të jeni të sigurt — e vlerësojmë privatësinë tuaj.
 consent-banner-button-reject = Hidh Poshtë Krejt Cookie-t Shtesë
 consent-banner-button-accept = Prano Krejt Cookie-t Shtesë
 consent-banner-settings-link = Rregullime cookie-sh
