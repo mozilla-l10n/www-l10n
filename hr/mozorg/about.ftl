@@ -28,6 +28,7 @@ about-the-mozilla-manifesto = { -brand-name-mozilla } manifest
 about-the-principles-we-wrote-in = Načela koja smo napisali 1998. vrijede još i danas. 2018. godine smo sastavili dopunu manifesta kako bismo naglasili inkluziju, privatnost i sigurnost za sve online.
 about-read-the-manifesto = Pročitaj manifest
 about-a-global-view = Globalni pogled
+about-with-offices-all-over-the = S <a href="{ $url }">uredima diljem svijeta</a>, promatramo internet iz prespektive raznih kultura i konteksta.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = IRL podcast za tehnološke probleme
 about-in-mozillas-multi-award-winning = U višestruko nagrađivanom { -brand-name-mozilla } podcastu voditeljica Bridget Todd razgovara s ljudima koji oblikuju budućnost interneta i umjetne inteligencije.
