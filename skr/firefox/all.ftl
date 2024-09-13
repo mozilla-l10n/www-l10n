@@ -71,6 +71,7 @@ firefox-all-count-on-stability-and = انٹرپرائز کیتے بݨائے ئئ
 firefox-all-windows-installers-for = کارپوریٹ آئی ٹی کیتے ونڈوز انسٹالرز جیڑھے { -brand-name-firefox-browser } دی ترتیب، تعیناتی تے انتظام کوں آسان بݨیندے ہن۔
 firefox-all-arm64-installers = ARM 64/AArch64  انسٹالر
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 انسٹالرز ونڈو تے لائنکس کمپیوٹراں کیتے بہتر بݨائے ڳئے۔
+firefox-all-testflight = iOS  نال ٹیسٹ فلائٹ کیتے ٹیسٹ { -brand-name-firefox } کیتے سائن اپ تھیوو
 firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
