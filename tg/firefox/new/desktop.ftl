@@ -44,6 +44,7 @@ firefox-desktop-download-os-availability = Дар «OS» дастрас аст
 firefox-desktop-download-in-browser-screenshot = Абзори дарунсохти браузер барои аксҳои экран
 firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
 firefox-desktop-download-we-block-the-ad = Мо васоити пайгирии рекламавиро манъ мекунем. Шумо аз Интернети тезтар истифода мебаред.
+firefox-desktop-download-ads-are-distracting = Маводҳои рекламавӣ халал мерасонанд ва кушоиши саҳифаҳои сомонаҳоро суст мекунанд, ҳангоме ки васоити пайгирии рекламавӣ ҳар як ҳаракати шуморо дар онлайн назорат мекунанд. Браузери «{ -brand-name-firefox-browser }» аксари васоити пайгириро ба таври худкор манъ мекунад, бинобар ин ягон кофтуков дар танзимоти амнияти шумо лозим нест.
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
 firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
