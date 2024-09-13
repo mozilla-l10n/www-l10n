@@ -56,6 +56,10 @@ firefox-all-download-esr-version = Shkarkoni { $esr_version }
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Jemi në periudhë tranzicioni mes versionesh të rëndësishëm ESR { $esr_next_major } dhe { $esr_current_major }.
 firefox-all-esr-when-there-is = Kur ka një përditësim versioni të rëndësishëm, ka përherë një mbivendosje të ndopak hedhjesh në qarkullim të { -brand-name-firefox-esr }-it, për t’u lejuar njerëzve që përdorin versionin e vjetër të përgatiten për të kaluar te i riu.
+firefox-all-esr-if-you-choose = Nëse zgjidhni të shkarkoni versionin e vjetër ESR, do të përditësoheni automatikisht me të riun, kur të përfundojë periudha e tranzicionit.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Lexoni më tepër mbi <a { $attrs }>ciklin e hedhjes në qarkullim të { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Kontrolloni domosdoshmëri sistemi
 firefox-all-release-notes = Shënime versioni
 firefox-all-source-code = Kodi burim
@@ -70,6 +74,7 @@ firefox-all-count-on-stability-and = Lërjani qëndrueshmërinë dhe lehtësinë
 firefox-all-windows-installers-for = Instalues Windows për TI korporatash, që thjeshtojnë formësimin, vënien në punë dhe administrimin e shfletuesit { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instalues për platforma ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instalues për ARM64/AArch64 të optimizuar për PC Windows dhe Linux.
+firefox-all-testflight = Regjjistrohuni për testim të { -brand-name-firefox }-it për iOS me TestFlight
 firefox-all-product-send-link = Dërgoni te telefoni juaj një lidhje shkarkimi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -93,3 +98,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
