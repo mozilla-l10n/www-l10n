@@ -35,6 +35,13 @@ firefox-desktop-download-compare-edge = «{ -brand-name-edge }»
 firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
 firefox-desktop-download-yes = Ҳа
 firefox-desktop-download-no = Не
+firefox-desktop-download-blocks-third-party = Манъ кардани кукиҳои васоити пайгирии тарафҳои сеюм
+firefox-desktop-download-blocks-third-party-default = Ба таври пешфарз манъ кардани кукиҳои васоити пайгирии тарафҳои сеюм
+firefox-desktop-download-autoplay-blocking = Манъ кардани пахши худкор
+firefox-desktop-download-blocks-social-trackers = Манъ кардани васоити пайгирии шабакаҳои иҷтимоӣ
+# OS is short for "Operating System"
+firefox-desktop-download-os-availability = Дар «OS» дастрас аст
+firefox-desktop-download-in-browser-screenshot = Абзори дарунсохти браузер барои аксҳои экран
 firefox-desktop-download-primary-password = Ниҳонвожаи асосӣ
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
 firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox }» барои ҳамаи мо
