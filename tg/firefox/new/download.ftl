@@ -27,6 +27,7 @@ firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-fi
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
 firefox-new-download-almost-there = Қариб тайёр аст!
+firefox-new-download-select-linux = Имкони боргирӣ кардани барномаро дар зер интихоб намоед
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
