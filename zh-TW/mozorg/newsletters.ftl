@@ -45,9 +45,6 @@ newsletters-not-all-subscriptions-are = 並非所有電子報都提供列出的�
 newsletters-please-select-country = 請選擇國家或地區
 # Form field error message
 newsletters-please-select-language = 請選擇語言
-# Form field label
-newsletters-format = 格式:
-newsletters-text-subscribers-will-receive = 純文字格式版本的訂閱者，每年都會收到兩次郵件確認持續訂閱的意願。這些確認信中可能會含有 HTML。
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
@@ -94,8 +91,12 @@ newsletters-love-the-web-so-do-we = 喜愛 Web 嗎？我們也是！
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = 透過 { -brand-name-mozilla } 開發者電子報探索網頁開發的世界。每週的電子報當中都會帶給您程式寫作技巧、最佳實踐、{ -brand-name-mdn } 最新消息、新技術資訊、開發工具使用秘訣等豐富資訊。
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-make-the-most = 發揮 { -brand-name-firefox } 的最大威力
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = 在收件匣裡面多塞一點狐狸。
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-sign-up-to-receive-monthly = 註冊後即可接收來自 { -brand-name-firefox } 的每月最新資訊，以及能夠幫助您打造線上生活的網路趨勢。
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = 看看 Web 能做到什麼程度，以及 { -brand-name-firefox } 秘訣、網路最新情報的每月電子報。
 newsletters-we-are-sorry-but-there = 很抱歉，我們的系統發生問題，請稍候再試一次！
 newsletters-thanks-for-updating-your = 感謝您調整收信偏好。
@@ -124,8 +125,6 @@ newsletters-travel-the-internet = 在每一台裝置上網都受到保護。
 newsletters-download-the-app = 下載應用程式
 newsletters-check-for-data-breaches = 檢查是否有資料外洩事件
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } 是一項能讓您確認是否受線上資料外洩事件影響的免費服務。
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } 是一項能讓您確認是否受線上資料外洩事件影響的免費服務。
 newsletters-sign-in-to-monitor = 登入 { -brand-name-monitor }
 newsletters-meet-our-parent-brand = 認識我們的母品牌
 newsletters-mozilla-the-non-for-profit = { -brand-name-firefox } 背後的非營利組織 { -brand-name-mozilla } 的一言一行、開發的產品，都把人們比利益看得更重要。
@@ -155,8 +154,6 @@ newsletters-knowledge-is-power = 知識就是力量
 newsletters-get-all-the-knowledge = 獲得保持線上安全與能讓上網變得更聰明的所有知識。
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = About Labs
-# Name for the newsletter in Newsletter subscription page
-newsletters-desktop = 桌面版
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -269,27 +266,14 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = 幫助您熟悉 { -brand-name-webmaker } 的特殊公告。
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = 從 { -brand-name-mozilla } 獲得如何讓您的帳號發揮最大威力的小秘訣。
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = 歡迎郵件
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = 可讓您開始使用我們的產品與服務的歡迎郵件。
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = 訂閱電子報
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = 接收來自 { -brand-name-mozilla } 的消息與祕訣以確保安全，並且瞭解能讓網路環境變得更安全的所有事項。
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = { -brand-name-firefox } 瀏覽器
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = 必須更新您的瀏覽器才可以使用此頁面。
 # Name for the newsletter in Newsletter subscription page
