@@ -15,14 +15,14 @@ newsletter-form-select-language = 选择语言
 newsletter-form-your-email-here = 在这里输入您的电子邮件地址
 newsletter-form-get-firefox-news = 获取 { -brand-name-firefox } 新闻
 newsletter-form-join-the-community = 加入社区
-newsletter-form-sign-up-to-receive = 注册以接收来自 { -brand-name-firefox } 的每月更新以及塑造您网络生活的互联网趋势。
+newsletter-form-sign-up-to-receive = 订阅 { -brand-name-firefox } 每月一更的最新消息，另外还报道可影响您在线生活的互联网趋势。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = 我同意 { -brand-name-mozilla } 按照<a href="{ $url }">这份隐私声明</a>所述的方式处理我的信息
-newsletter-form-we-will-only-send-v2 = 我们只会向您发送和 { -brand-name-mozilla } 有关的信息。您可以随时退订。
+newsletter-form-we-will-only-send-v2 = 我们只会向您发送与 { -brand-name-mozilla } 有关的信息。您可以随时退订。
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = 我们只会向您发送和 { -brand-name-mozilla } 有关的信息。
-newsletter-form-we-will-only-send-firefox-v2 = 我们只会向您发送和 { -brand-name-firefox } 有关的信息。您可以随时退订。
+newsletter-form-we-will-only-send-firefox-v2 = 我们只会向您发送与 { -brand-name-firefox } 有关的信息。您可以随时退订。
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = 我们只会向您发送和 { -brand-name-firefox } 有关的信息。
 newsletter-form-if-you-havent-previously = 如果您以前没有确认订阅过 { -brand-name-mozilla } 相关的新闻报，您可能需要检查您的收件箱、垃圾邮件箱或垃圾邮件过滤器，以找到我们发给您的确认邮件。
