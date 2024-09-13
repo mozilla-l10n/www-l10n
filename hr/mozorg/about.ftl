@@ -28,6 +28,8 @@ about-read-the-manifesto = Pročitaj manifest
 about-a-global-view = Globalni pogled
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = IRL podcast za tehnološke probleme
+# The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
+about-2000-non-employee-guests-welcomed = <strong>2000</strong> eksternih suradnika svake godine
 about-berlin = Berlin
 about-toronto = Toronto
 about-work-at-mozilla = Radi za { -brand-name-mozilla }
