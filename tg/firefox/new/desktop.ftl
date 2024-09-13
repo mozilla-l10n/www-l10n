@@ -50,11 +50,15 @@ firefox-desktop-download-for-everyone = Браузери «{ -brand-name-firefox
 firefox-desktop-download-available-in-over = Дар зиёда аз 90 забон дастрас буда ва ба низомҳои «{ -brand-name-windows }», «{ -brand-name-mac-short }» ва «{ -brand-name-linux }» мувофиқат намуда, ва новобаста аз он, ки шумо аз чӣ истифода мебаред ва дар куҷо мебошед, браузери «{ -brand-name-firefox }» барои шумо кор мекунад. Барои таҷрибаи беҳтарин, мутмаин шавед, ки низоми амалкунандаи шумо нав аст.
 firefox-desktop-download-review-system-req = Талаботи низомро баррасӣ намоед
 firefox-desktop-download-all-your-devices = Браузери «{ -brand-name-firefox }»-ро ба ҳамаи дастгоҳҳои худ гузоред
+firefox-desktop-download-take-your-privacy = Махфияти худро ба ҷойҳои дилхоҳ бо худ гиред. Браузери «{ -brand-name-firefox-browsers }» барои «{ -brand-name-ios }» ва «{ -brand-name-android }» новобаста аз ҷойгиршавии шумо, танзимоти махфияти пурқуввати ягонаро дар бар мегирад ва ҳар гуна васоити пайгириро манъ мекунад, то онҳо шуморо дар саросари Интернет пайгирӣ накунанд.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = Ҳамаи корҳои <strong>дилхоҳро</strong> тавассути «{ -brand-name-firefox }» иҷро намоед
 firefox-desktop-download-search-smarter = Зудтар ва оқилонатар ҷустуҷӯ намоед
 firefox-desktop-download-search-from-address = Ҷустуҷӯ аз навори нишонӣ
 firefox-desktop-download-search-engine-options = Имконоти низоми ҷустуҷӯӣ
 firefox-desktop-download-smart-search-suggestions = Пешниҳодҳои ҷустуҷӯии ҳушманд
 firefox-desktop-download-bookmark-history = Хатбаракҳо, таърих ва варақаҳои кушода дар натиҷаҳо
+firefox-desktop-download-boost-your = Самаранокии худро баланд бардоред
 firefox-desktop-download-works-with-google = Бо маҳсулоти «{ -brand-name-google }» кор мекунад
 firefox-desktop-download-built-in-screenshot = Абзори дарунсохт барои гирифтани аксҳои экран
 firefox-desktop-download-bookmarks-manager = Мудири хатбаракҳо
@@ -64,10 +68,14 @@ firefox-desktop-download-reader-mode = Реҷаи хонанда
 firefox-desktop-download-spell-check = Санҷиши имло
 firefox-desktop-download-pinned-tabs = Варақаҳои васлшуда
 firefox-desktop-download-stream-share-play = Пахши мустақим, мубодила ва иҷро
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Пахши худкори видео ва аудиоро манъ мекунад
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Расм-дар-расм
+firefox-desktop-download-curated-content-on = Муҳтаворо дар варақаи нав нигоҳ медорад
 firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
 firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
+firefox-desktop-download-third-party-cookie = Кукиҳои тарафҳои сеюм манъ карда мешаванд
 firefox-desktop-download-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
 firefox-desktop-download-secure-your-personal = Маълумоти шахсии худро ҳифз намоед
 firefox-desktop-download-built-in-password = Мудири ниҳонвожаҳои дарунсохт
