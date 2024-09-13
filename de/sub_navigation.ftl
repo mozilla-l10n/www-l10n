@@ -16,6 +16,7 @@ sub-navigation-compare-mobile-browsers = Mobile Browser vergleichen
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } für Desktop
 sub-navigation-release-notes = Versionshinweise
 sub-navigation-desktop = Desktop
+sub-navigation-mobile = Mobile
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = Hilfe für { -brand-name-ios }
@@ -25,6 +26,7 @@ sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name
 sub-navigation-desktop-nightly = { -brand-name-nightly } für Desktop-PCs
 sub-navigation-features = Funktionen
 
+sub-navigation-more = Mehr
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } für Mobilgeräte
 
 sub-navigation-chromebook = { -brand-name-chromebook }
