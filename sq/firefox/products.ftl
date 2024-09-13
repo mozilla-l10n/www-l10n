@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Produkte { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = Familja { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
 firefox-products-products = Produkte
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } është vetëm fillimi.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } është vetëm fillimi
 firefox-products-mozillas-family-of-products-sentence = Familja e produkteve { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
 
 ## Firefox
@@ -46,6 +44,7 @@ firefox-products-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Burim për zhvillues, nga zhvillues, Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.
 firefox-products-support-mdn = Përkrahni { -brand-name-mdn }
 
 ## Thunderbird
@@ -61,6 +60,5 @@ firefox-products-analyze = Analizoni një URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Zbuloni lëndën më të mirë në internet — dhe përdoreni kudo dhe kurdo që doni.
+firefox-products-discover-the-best-content-v2 = Zbuloni lëndën më të mirë në internet — dhe përdoreni kudo dhe kurdo që doni. Ofruar nga { -brand-name-mozilla }.
 firefox-products-get-pocket = Merrni { -brand-name-pocket }-in
