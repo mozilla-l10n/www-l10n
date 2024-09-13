@@ -16,6 +16,7 @@ sub-navigation-compare-mobile-browsers = Bandingkan Peramban Seluler
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } untuk Desktop
 sub-navigation-release-notes = Catatan Rilis
 sub-navigation-desktop = Desktop
+sub-navigation-mobile = Seluler
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = Dukungan { -brand-name-ios }
@@ -25,6 +26,7 @@ sub-navigation-desktop-beta-and-developer = Desktop { -brand-name-beta } & { -br
 sub-navigation-desktop-nightly = Desktop { -brand-name-nightly }
 sub-navigation-features = Fitur
 
+sub-navigation-more = Lainnya
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } untuk Seluler
 
 sub-navigation-chromebook = { -brand-name-chromebook }
