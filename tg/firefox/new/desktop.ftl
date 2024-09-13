@@ -27,6 +27,9 @@ firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-fi
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» шуморо назорат <strong>намекунад</strong>.
 firefox-desktop-download-how-firefox-compares = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба браузерҳои дигар
+firefox-desktop-download-get-all-the-speed = Суръати тезтарин ва ҳамаи абзорҳоро бе дахолати пурзӯр ба махфияти шумо ба даст оред. Браузери «{ -brand-name-firefox-browser }» ин қадар кам дар бораи шумо маълумотро ҷамъ мекунад, ки мо ҳатто барои боргирӣ кардани браузер аз шумо нишонии почтаи электрониро талаб намекунем. Ин аз он сабаб аст, ки нисбат ба браузерҳои дигар, мо дар пайгирии шумо дар Интернет манфиатҳои молиявӣ надорем.
+firefox-desktop-download-how-we-compare = Чӣ тавр браузери мо аз браузерҳои дигар фарқ мекунад
+firefox-desktop-download-compare-firefox-to = Муқоиса кардани «{ -brand-name-firefox }» нисбат ба:
 firefox-desktop-download-compare-chrome = «{ -brand-name-chrome }»
 firefox-desktop-download-compare-edge = «{ -brand-name-edge }»
 firefox-desktop-download-compare-safari = «{ -brand-name-safari }»
