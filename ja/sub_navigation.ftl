@@ -16,6 +16,7 @@ sub-navigation-compare-mobile-browsers = モバイルブラウザーの比較
 sub-navigation-firefox-for-desktop = デスクトップ用 { -brand-name-firefox }
 sub-navigation-release-notes = リリースノート
 sub-navigation-desktop = デスクトップ
+sub-navigation-mobile = モバイル
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = { -brand-name-ios } サポート
@@ -25,6 +26,7 @@ sub-navigation-desktop-beta-and-developer = デスクトップ用 { -brand-name-
 sub-navigation-desktop-nightly = デスクトップ用 { -brand-name-nightly }
 sub-navigation-features = 機能
 
+sub-navigation-more = 詳しく
 sub-navigation-firefox-for-mobile = モバイル用 { -brand-name-firefox }
 
 sub-navigation-chromebook = { -brand-name-chromebook }
