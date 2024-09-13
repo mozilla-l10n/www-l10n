@@ -5,7 +5,7 @@
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } manifest
 footer-privacy = Privatnost
-footer-press = Centar za medije
+footer-press = Javne objave
 footer-mozilla-blog = { -brand-name-mozilla } blog
 footer-browser-comparison = Usporedba preglednika
 footer-brand-standards = Standardi brenda
@@ -21,7 +21,7 @@ footer-visit-mozilla-corporations = Posjeti <a { $moco_link }>{ -brand-name-mozi
 footer-portions-of-this-content = © 1998. – { $current_year }. Autorska prava nad dijelovima ovog sadržaja zadržavaju individualni doprinositelji mozilla.org projekta. Sadržaj je dostupan pod <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licencom</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Poduzeće
-footer-press-center = Press centar
+footer-press-center = Javne objave
 footer-careers = Karijera
 footer-tools = Alati
 footer-resources = Resursi
