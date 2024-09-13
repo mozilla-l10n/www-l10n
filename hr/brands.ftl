@@ -106,7 +106,7 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
--brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mdn-web-docs = MDN web dokumenti
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla monitor

@@ -62,5 +62,5 @@ firefox-products-analyze = Analiziraj URL adresu
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Otkrij najbolji sadržaj na webu i koristi ga gdje god i kad god želiš. Od { -brand-name-mozilla }.
+firefox-products-discover-the-best-content-v2 = Otkrij najbolji sadržaj na webu i koristi ga gdje god i kad god želiš. Stvoreno od { -brand-name-mozilla }.
 firefox-products-get-pocket = Nabavi { -brand-name-pocket }
