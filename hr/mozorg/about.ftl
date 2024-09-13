@@ -44,9 +44,11 @@ about-work-at-mozilla = Radi za { -brand-name-mozilla }
 about-join-a-mission-driven-organization = Pridruži se organizaciji s misijom koja izrađuje namjenske proizvode.
 about-mozilla-careers = { -brand-name-mozilla } karijere
 about-how-you-can-help = Kako pomoći
+about-your-voice-your-code-your = Tvoj glas. Tvoj kod. Tvoja podrška. Postoji mnogo načina za pridruđivanje u borbi za zdrav internet.
 about-get-involved = Uključi se
 
 ## Newsletter
 
 about-get-the-mozilla-newsletter = Pretplati se na { -brand-name-mozilla } bilten
+about-stay-informed-about-the-issues = Primaj informacije o problemima koji utječu na internet i saznaj kako se možeš uključiti u zaštitu najnovijeg javnog resursa na svijetu.
 about-subscribe = Preplati se
