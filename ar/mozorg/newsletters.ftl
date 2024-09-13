@@ -116,10 +116,12 @@ newsletters-love-the-web-so-do-we = هل تحب الويب؟ ونحن كذلك!�
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = اطلع على عالم تطوير الويب من خلال نشرتنا المطوّرة الإخبارية من { -brand-name-mozilla }. يُقدم لك كل إصدار تقنيات البرمجة وأفضل المُمارسات، وتحديثات { -brand-name-mdn } معلومات حول التقنيات الناشئة ونصائح أدوات المُطور والمزيد.
 
-# Headline for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = أبق عينيك على صندوق الوارد.
 
-# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = راجع أين يُمكن أن يأخذك الويب من خلال تلميحات ونصائح { -brand-name-firefox } وInternet intel.
 
 newsletters-we-are-sorry-but-there = نأسف، حدثت مشكلة في نظامنا. من فضلك حاول ثانية فيما بعد!

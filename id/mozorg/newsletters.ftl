@@ -116,10 +116,12 @@ newsletters-love-the-web-so-do-we = Menyukai webnya? Begitu pun kami!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Buka kunci dunia pengembangan web dengan Buletin Pengembang { -brand-name-mozilla } mingguan kami. Setiap edisi memberi Anda teknik pengodean dan praktik terbaik, pembaruan { -brand-name-mdn }, info tentang teknologi baru, kiat alat pengembang, dan banyak lagi.
 
-# Headline for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = Taruh lebih banyak rubah di kotak masuk Anda.
 
-# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = Lihat ke mana Web dapat membawa Anda dengan kiat, trik, dan intel Internet { -brand-name-firefox } bulanan.
 
 newsletters-we-are-sorry-but-there = Maaf, tampaknya ada masalah dengan sistem kami. Silakan coba lagi nanti.

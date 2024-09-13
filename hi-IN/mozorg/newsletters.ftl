@@ -116,10 +116,12 @@ newsletters-love-the-web-so-do-we = वेब से प्यार है? ह
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = हमारे साप्ताहिक { -brand-name-mozilla } डेवलपर न्यूज़लेटर के साथ वेब विकास की दुनिया की जानकारी रखें। हर संस्करण आपके लिए कोडिंग की तकनीकों और सर्वोत्तम प्रथाओं, { -brand-name-mdn } अपडेट, उभरती हुई तकनीकों, डेवलपर टूल के सुझाव और बहुत कुछ के बारे में जानकारी लाता है।
 
-# Headline for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = अपने इनबॉक्स में और अधिक Fox का फ़ायदा उठाएँ।
 
-# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = हर महीने { -brand-name-firefox } के सुझाव, अंदरूनी बातों और इंटरनेट इंटेलिजेंस के साथ वेब में नए अनुभव पाएँ।
 
 newsletters-we-are-sorry-but-there = हमें खेद है, लेकिन हमारे सिस्टम में एक समस्या थी। कृपया बाद में पुनः प्रयास करें!

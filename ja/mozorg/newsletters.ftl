@@ -116,10 +116,12 @@ newsletters-love-the-web-so-do-we = あなたが好きなウェブは、Mozilla 
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = 週刊の { -brand-name-mozilla } のデベロッパーニュースレターでウェブ開発の世界へ。コーディングの技術やベストプラクティス、{ -brand-name-mdn } の最新情報のほか、新登場のテクノロジーに関する情報、デベロッパー用ツールのヒントなど、盛りだくさんで各号でお届けします。
 
-# Headline for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = もっと Firefox からお便りさせてください
 
-# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = 毎月の { -brand-name-firefox } に関するヒントやコツ、インターネットに関する情報で、ウェブでの冒険がもっとダイナミックに
 
 newsletters-we-are-sorry-but-there = Mozilla のシステムに問題が発生しました。お手数ですが、後でもう一度試してください。
