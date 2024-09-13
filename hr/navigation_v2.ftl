@@ -21,7 +21,7 @@ navigation-v2-simply-private-mobile = Jednostavno privatno mobilno pregledavanje
 navigation-v2-firefox-blog = { -brand-name-firefox } blog
 navigation-v2-read-about-new-firefox-features = Pročitaj nove { -brand-name-firefox } funkcije i načine za osiguravanje sigurnost na internetu.
 navigation-v2-release-notes = Napomene o izdanju
-navigation-v2-view-all-firefox-browsers = Pogledaj sve { -brand-name-firefox-browsers }
+navigation-v2-view-all-firefox-browsers = Svi { -brand-name-firefox-browsers }
 
 ## Products menu
 
