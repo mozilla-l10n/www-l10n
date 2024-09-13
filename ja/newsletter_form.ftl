@@ -16,13 +16,23 @@ newsletter-form-select-country-or-region = 国または地域を選択してく�
 newsletter-form-select-language = 言語の選択
 newsletter-form-your-email-here = メールアドレスを入力してください
 newsletter-form-get-firefox-news = { -brand-name-firefox } ニュースを受け取る
+newsletter-form-join-the-community = コミュニティに参加
+newsletter-form-sign-up-to-receive = ニュースレターにご登録ください。{ -brand-name-firefox } からの毎月の最新情報や、あなたのオンライン生活を形成するインターネットのトレンドをお届けします。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = <a href="{ $url }">このプライバシーに関する通知</a>で説明されているとおり { -brand-name-mozilla } が自分の情報を取り扱うことに同意する
 
+newsletter-form-we-will-only-send-v2 = 送付されるのは { -brand-name-mozilla } 関連情報のみです。いつでも配信停止できます。
+
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = 送付されるのは { -brand-name-mozilla } 関連情報のみです
+
+newsletter-form-we-will-only-send-firefox-v2 = 送付されるのは { -brand-name-firefox } 関連情報のみです。いつでも配信停止できます。
+
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = 送付されるのは { -brand-name-firefox } 関連情報のみです
+
 newsletter-form-if-you-havent-previously = 以前に { -brand-name-mozilla } に関するニュースレターの定期購読を確定していない場合は、確定する必要があります。受信箱かスパムフィルターで Mozilla から送付されたメールを確認してください。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
 newsletter-form-get-firefox-tips = { -brand-name-firefox } のヒントやコツ、ニュースなどをお届けします
