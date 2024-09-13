@@ -91,8 +91,12 @@ newsletters-love-the-web-so-do-we = Szereti a webet? Mi is!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Tekintsen be a webfejlesztés világába a heti { -brand-name-mozilla } fejlesztői hírlevéllel. Minden egyes kiadás kódolási technikákat és legjobb gyakorlatokat mutat be, { -brand-name-mdn } híreket ad, információkat nyújt a feltörekvő technológiákról, fejlesztői eszközökről, és még sok másról.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-make-the-most = Hozza ki a legtöbbet a { -brand-name-firefox }ból
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = Vegye át a rókapostát.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-sign-up-to-receive-monthly = Iratkozzon fel, hogy havonta értesüljön a { -brand-name-firefox }tól, és azokról az internetes trendekről, amelyek meghatározzák az online életét.
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = Lássa hová viheti a web a havi { -brand-name-firefox } tippekkel, trükkökkel és internetes hírekkel.
 newsletters-we-are-sorry-but-there = Sajnáljuk, de hiba volt rendszerünkben. Kérjük próbálja meg később!
 newsletters-thanks-for-updating-your = Köszönjük, hogy frissítette e-mail beállításait.
@@ -268,17 +272,8 @@ newsletters-get-tips-from-mozilla = Kapjon tippeket a { -brand-name-mozilla(endi
 newsletters-welcome-emails = Üdvözlő levelek
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Üdvözlő e-mailek, melyek segítenek a termékeink és szolgáltatásaink használatának elkezdésében.
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = Iratkozzon fel a hírlevélre
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = Kapjon híreket és tippeket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban maradhasson, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a világhálót.
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = { -brand-name-firefox } böngésző
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Az oldal használatához frissíteni kell a böngészőjét.
 # Name for the newsletter in Newsletter subscription page
