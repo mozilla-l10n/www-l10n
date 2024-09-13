@@ -38,7 +38,7 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = Dodatak { -brand-name-mozilla } manifesta
+manifesto-the-mozilla-manifesto-addendum = Dopuna { -brand-name-mozilla } manifesta
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Založi se za zdrav internet
 manifesto-the-open-global-internet = Otvoren, globalni internet je najmoćniji resurs komunikacije i suradnje koji smo ikada vidjeli. Utjelovljuje neke od naših najdubljih nada u ljudski napredak. Omogućuje nove prilike za učenje, izgradnju osjećaja uzajamne ljudskosti i rješavanje problema s kojima se ljudi posvuda suočavaju.

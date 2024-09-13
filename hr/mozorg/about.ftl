@@ -25,10 +25,12 @@ about-corporation-foundation-not = Korporacija. Zaklada. Neprofitna organizacija
 about-learn-about-the-mozilla-foundation = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } stavlja ljude iznad profita u svemu što kažemo, izgrađujemo i radimo. Zapravo, srce našeg poduzeća je neprofitna zaklada.
 about-the-mozilla-manifesto = { -brand-name-mozilla } manifest
+about-the-principles-we-wrote-in = Načela koja smo napisali 1998. vrijede još i danas. 2018. godine smo sastavili dopunu manifesta kako bismo naglasili inkluziju, privatnost i sigurnost za sve online.
 about-read-the-manifesto = Pročitaj manifest
 about-a-global-view = Globalni pogled
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = IRL podcast za tehnološke probleme
+about-in-mozillas-multi-award-winning = U višestruko nagrađivanom { -brand-name-mozilla } podcastu voditeljica Bridget Todd razgovara s ljudima koji oblikuju budućnost interneta i umjetne inteligencije.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> eksternih suradnika svake godine
 about-berlin = Berlin
