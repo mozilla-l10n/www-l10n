@@ -16,13 +16,23 @@ newsletter-form-select-country-or-region = Pilih negara atau wilayah
 newsletter-form-select-language = Pilih bahasa
 newsletter-form-your-email-here = EMAIL ANDA DI SINI
 newsletter-form-get-firefox-news = Dapatkan berita tentang { -brand-name-firefox }
+newsletter-form-join-the-community = Bergabunglah ke Komunitas
+newsletter-form-sign-up-to-receive = Daftar untuk menerima informasi bulanan dari { -brand-name-firefox } serta tren internet yang memengaruhi kehidupan daring Anda.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Saya tidak masalah dengan { -brand-name-mozilla } menangani info saya seperti yang dijelaskan di <a href="{ $url }">Pemberitahuan Privasi ini</a>
 
+newsletter-form-we-will-only-send-v2 = Kami hanya akan mengirimi Anda informasi terkait { -brand-name-mozilla }. Anda dapat berhenti berlangganan kapan saja.
+
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Kami hanya akan mengirimi Anda informasi terkait { -brand-name-mozilla }.
+
+newsletter-form-we-will-only-send-firefox-v2 = Kami hanya akan mengirimi Anda informasi terkait { -brand-name-firefox }. Anda dapat berhenti berlangganan kapan saja.
+
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Kami hanya akan mengirimi Anda informasi terkait { -brand-name-firefox }.
+
 newsletter-form-if-you-havent-previously = Jika Anda belum pernah mengonfirmasi langganan ke berita terkait { -brand-name-mozilla }, Anda mungkin harus melakukannya. Silakan periksa kotak masuk Anda atau filter spam Anda untuk mencari email dari kami.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Anda
 newsletter-form-get-firefox-tips = Dapatkan kiat, trik, berita { -brand-name-firefox }, dan lainnya
