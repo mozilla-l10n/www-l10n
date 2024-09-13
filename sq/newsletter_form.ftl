@@ -13,14 +13,14 @@ newsletter-form-yournameexamplecom = emrijuaj@example.com
 newsletter-form-select-country-or-region = Përzgjidhni vend ose rajon
 newsletter-form-select-language = Përzgjidhni gjuhë
 newsletter-form-your-email-here = JEPNI KËTU EMAIL-IN TUAJ
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Tekst
 newsletter-form-get-firefox-news = Merrni lajme për { -brand-name-firefox }-in
+newsletter-form-join-the-community = Bëhuni pjesë e Bashkësisë
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Pajtohem me trajtimin që { -brand-name-mozilla } u bën të dhënave të mia, ashtu si shpjegohet te <a href="{ $url }">ky Shënim Privatësie</a>
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Do t’ju dërgojmë vetëm informacione që kanë lidhje me { -brand-name-mozilla }-n.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Do t’ju dërgojmë informacion lidhur me { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Nëse s’e keni ripohuar më parë pajtimin te buletini me lajme nga { -brand-name-mozilla }, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni te të marrat tuaja apo te dosja e të padëshiruarave për një email nga ne.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ju
@@ -35,6 +35,8 @@ newsletter-form-thanks = Faleminderit!
 newsletter-form-leave-this-field-empty = Lëreni të zbrazët këtë fushë.
 newsletter-form-yes = Po
 newsletter-form-no = Jo
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Formular pajtimi te buletini
 multi-newsletter-form-checkboxes-legend = Dua informacion mbi:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

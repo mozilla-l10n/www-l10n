@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } për { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Merrni shfletuesin celular për { -brand-name-iphone } ose { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Thjesht shfletim privat në celular.
-navigation-v2-privacy-promise = Premtim Privatësie
-navigation-v2-learn-how-firefox-treats = Mësoni se si { -brand-name-firefox }-i trajton me respekt të dhënat tuaja.
 navigation-v2-firefox-blog = Blog i { -brand-name-firefox }-it
 navigation-v2-read-about-new-firefox-features = Lexoni rreth veçorish të reja të { -brand-name-firefox }-it dhe rrugësh si të jeni i parrezikuar në internet.
 navigation-v2-release-notes = Shënime Versioni
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Shihni krejt { -brand-name-firefox-bro
 navigation-v2-products = Produkte
 navigation-v2-close-products-menu = Mbyllni menunë Produkte
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Shihni nëse email-i juaj është shfaqur te një cenim të dhënash të ndonjë shoqërie.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Ruani dhe zbuloni shkrimet më të mira nëpër internet.
@@ -41,8 +37,6 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Ndihmoni t’i pengohet { -brand-name-facebook }-ut të grumbullojë të dhëna tuajat jashtë sajtit të tyre.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Merrni mbrojtje tej shfletuesit tuaj, në krejt pajisjet tuaja.
-navigation-v2-product-promise = Premtim Mbi Produktin
-navigation-v2-learn-how-each-firefox-product = Mësoni se si mbron dhe respekton të dhënat tuaja çdo produkt { -brand-name-firefox }.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Regjistroni llogari të reja pa dhënë fare adresën tuaj email.
@@ -66,16 +60,13 @@ navigation-v2-careers = Punësime
 navigation-v2-work-for-a-mission-driven-updated = Punoni për një ent të udhëhequr nga një mision, ent që ndërton produkte që vënë njerëzit mbi gjithçka.
 navigation-v2-mozilla-blog = Blogu i { -brand-name-mozilla }-s
 navigation-v2-learn-about-mozilla-and = Mësoni rreth { -brand-name-mozilla }-s dhe çështjesh që kanë rëndësi për ne.
-navigation-v2-stories = Shembuj
-navigation-v2-stories-about-how = Shembuj se si njerëzit dhe produktet tona po ndryshojnë botën për mirë.
 navigation-v2-more-about-mozilla = Më tepër Rreth { -brand-name-mozilla }
+navigation-v2-impact = Ndikim
 
 ## Innovation menu
 
 navigation-v2-innovation = Risi
 navigation-v2-close-innovation-menu = Mbylleni menunë e Risive
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Mblidhuni në këtë hapësirë shoqërore ndërvepruese, internetore, shumëpërmasore.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Merrni { -brand-name-firefox } e ndërtuar pikërisht për zhvilluesit.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

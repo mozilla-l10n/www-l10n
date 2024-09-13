@@ -21,6 +21,7 @@ home-cta-get-relay = Merrni { -brand-name-relay }-në
 home-product-vpn-trust = Një VPN të cilës mund t’i zini besë
 home-cta-get-vpn = Merrni { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Merrni { -brand-name-monitor }
+home-cta-get-fakespot = Merrni { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien e gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca në zemër të mënyrës se si funksionojnë këto sisteme komplekse.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
@@ -34,8 +35,6 @@ home-the-mozilla-project = Projekti { -brand-name-mozilla } u themeluar në San 
 home-eventually-the-open = Përfundimisht, projekti me burim të hapët { -brand-name-mozilla } u shndërrua në versionin e parë shumë popullor të { -brand-name-firefox }-it.
 home-today-mozilla-continues = Sot { -brand-name-mozilla } vazhdon lëvizjen e vet drejt një interneti më të mirë me miliona anëtarë të bashkësisë aktive shtrirë në krejt rruzullin, që mbështesin një industri teknologjike etike, IA të besueshme dhe prodhimin e produkteve që vënë privatësinë së pari, që u japin më tepër fuqi njerëzve.
 home-learn-more-about-mozilla = Mësoni më tepër mbi { -brand-name-mozilla }-n
-home-get-good-news = Merrni lajme (të mbara) { -brand-name-mozilla }
-home-get-news-and-tips = Merrni lajme dhe ndihmëza prej { -brand-name-mozilla } që të jini i parrezik dhe i informuar mbi gjithçka e bën internetin një vend më të shëndetshëm.
 # VPN Feature
 home-featured-product = Produkt i zgjedhur
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
