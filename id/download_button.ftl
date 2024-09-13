@@ -66,3 +66,5 @@ download-button-linux-64-v2 = Unduh untuk Linux 64-bit
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Apakah Anda menggunakan Debian, Ubuntu, atau distribusi berbasis Debian lainnya?<br> Anda dapat menyiapkan <a { $attrs }>repositori APT sebagai gantinya</a>.
 
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Dapatkan dari Microsoft
