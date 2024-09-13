@@ -43,6 +43,7 @@ firefox-products-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Resursi za programere, po programerima. Podrži { -brand-name-mdn } i učini ga svojim sa zbirkama, obavijestima i igralištima.
 firefox-products-support-mdn = Podrži { -brand-name-mdn }
 
 ## Thunderbird
