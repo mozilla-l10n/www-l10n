@@ -9,6 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } wobstaraś
 vpn-shared-waitlist-link = Pśistupśo cakańskej lisćinje
 vpn-shared-sign-in-link = Sćo južo abonent?
+vpn-shared-available-countries-v6 = Tuchylu { -brand-name-mozilla-vpn } w Awstriskej, Belgiskej, Bulgaŕskej,Cypernje, Českej republice, Dańskej, Estniskej, Finskej, Francojskej, Hungorskej, Chorwatskej, Irskej, Italskej, Kanaźe, Letiskej,  Litawskej, Luxemburgskej, Malajziji, Malśe, Nimskej, Nižozemskej, Nowoseelandskej, Pólskej, Portugalskej, Rumuńskej, Singapurje, Słowakskej, Słowjeńskej, Špańskej, Šwedskej, Šwicaŕskej, USA a Zjadnośonem kralojstwje póbitujomy.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnjowna garantija slědkdaśa pjenjez
 # This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
