@@ -4,7 +4,7 @@
 
 footer-refresh-get-the-best = 获取 { -brand-name-firefox } 的提示、技巧和更新。我们承诺保持您电子邮件的私密和安全——让 { -brand-name-firefox } 将内容最丰富的内容直接发送到您的收件箱。
 footer-refresh-leadership = 领导层
-footer-refresh-advertise = 使用 { -brand-name-mozilla } 做广告
+footer-refresh-advertise = 通过 { -brand-name-mozilla } 投放广告
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
@@ -34,7 +34,7 @@ footer-refresh-tools = 工具
 footer-refresh-donate = 捐款
 footer-refresh-visit-mozilla-corporations = 欢迎访问 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非营利母公司 — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-refresh-portions-of-this-content = 上述内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–{ $current_year }）。内容可按<a rel="license" { $href }>{ -brand-name-creative-commons }许可协议</a>使用。
-footer-refresh-websites-privacy-notice = 隐私
+footer-refresh-websites-privacy-notice = 网站隐私声明
 footer-refresh-websites-cookies = Cookie
 footer-refresh-websites-legal = 法律
 footer-refresh-community-participation-guidelines = 社区参与准则
