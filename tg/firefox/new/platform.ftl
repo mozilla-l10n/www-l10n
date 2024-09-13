@@ -45,6 +45,7 @@ new-platform-block-trackers = Манъ кардани васоити пайги�
 
 ## Windows
 
+new-platform-download-mozilla-windows = Браузери «{ -brand-name-mozilla } { -brand-name-firefox }»-ро <br>барои «{ -brand-name-windows }» боргирӣ намоед
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = Браузери ройгони интернетии «{ -brand-name-mozilla } { -brand-name-firefox }»-ро барои «{ -brand-name-windows }» боргирӣ намоед. Браузери «{ -brand-name-firefox }» аз ҷониби ташкилоти ғайритиҷоратие сохта шудааст, ки вафодор буда, ба одамон имконияти идоракунии ҳаёти худро дар Интернет дастрас мекунад. Браузери «{ -brand-name-firefox }»-ро барои низоми амалкунандаи «{ -brand-name-windows }» имрӯз боргирӣ намоед!
 # /firefox/windows/ social sharing title

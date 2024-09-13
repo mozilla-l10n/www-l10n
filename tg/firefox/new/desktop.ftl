@@ -96,6 +96,7 @@ firefox-desktop-download-make-firefox-your = Соҳиби браузери <stro
 firefox-desktop-download-extensions-for-every = Васеъшавиҳо барои ҳар гуна кор
 firefox-desktop-download-change-up-your = Намуди зоҳирии браузерро иваз намоед
 firefox-desktop-download-tweak-your-settings = Беҳтар кардани танзимоти шахсӣ
+firefox-desktop-download-your-privacy-comes = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Ҳамаи хусусиятҳои дӯстдоштаи худро дар браузер нигоҳ доред — ва хусусиятҳои навро <strong>пайдо намоед</strong>.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -116,6 +117,7 @@ firefox-desktop-download-questions = Савол дошта бошед? <a { $att
 firefox-desktop-download-almost-there = Қариб тайёр аст!
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
+firefox-desktop-download-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
 firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.

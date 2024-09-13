@@ -32,6 +32,7 @@ firefox-new-download-select-linux = Имкони боргирӣ кардани �
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
 firefox-new-windows = { -brand-name-windows }
+firefox-new-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
 
 # Not-Required
 
