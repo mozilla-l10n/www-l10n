@@ -13,26 +13,18 @@ newsletters-mozilla-newsletter = Zpravodaj { -brand-name-mozilla(case: "gen") }
 newsletters-read-all-about-it-in-our-newsletter = Přečtěte si více v našem <span>zpravodaji</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Přihlaste se k odběru, abyste měli neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }, podnikali kroky pro zdravější internet a byli chytřejší ve svém online životě.
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = Přihlaste se k odběru aktualit a mějte neustále přehled o novinkách { -brand-name-mozilla(case: "gen") }. Je to ideální způsob, jak s námi zůstat v kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potvrzení odběru zpravodaje
 newsletters-thanks-for-subscribing = Děkujeme za přihlášení k odběru!
 newsletters-your-newsletter-subscription = Váš odběr zpravodaje byl potvrzen.
 newsletters-please-be-sure-to-add-our-v2 = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Nezapomeňte si prosím přidat naši odesílací adresu mozilla@e.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = Platnost poskytnutého odkazu vypršela. <a { $recovery_href }>Požádejte prosím o nový odkaz</a>.
-# Obsolete string
-newsletters-the-supplied-link-has-expired = Platnost dodaného odkazu vypršela. Nový obdržíte v příštím zpravodaji.
 newsletters-something-is-amiss-with = Něco není v pořádku s našim systémem. Omlouváme se! Zkuste to prosím později.
 newsletters-youre-awesome = Jste úžasní!
 newsletters-and-were-not-just-saying = A to neříkáme jen proto, že jste nám sdělili svou e-mailovou adresu.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Nezapomeňte si prosím přidat adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Nezapomeňte si prosím přidat adresu mozilla@e.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zabývá řadou důležitých témat.
 newsletters-open-your-inbox-and-your = Otevřete svou e-mailovou schránku (a své srdce) ještě více – podívejte se na další témata, kterým se věnujeme.
 newsletters-manage-your-email-preferences = Správa nastavení pro váš e-mail
@@ -53,16 +45,11 @@ newsletters-not-all-subscriptions-are = Ne všechny odběry jsou k dispozici ve 
 newsletters-please-select-country = Vyberte prosím zemi nebo oblast
 # Form field error message
 newsletters-please-select-language = Vyberte prosím jazyk
-# Form field label
-newsletters-format = Formát:
-newsletters-text-subscribers-will-receive = Odběratelé textů obdrží dvakrát ročně e-mail za účelem potvrzení, že chtějí v odběru pokračovat. Tyto e-maily mohou obsahovat HTML.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
 newsletters-many-of-our-communications-v2 = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-mozilla-accounts(case: "gen", capitalization: "lower") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
-# Obsolete string
-newsletters-many-of-our-communications = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-firefox-accounts(case: "gen", capitalization: "lower") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému světu produktů, znalostí a služeb { -brand-name-firefox(case: "gen") } v jednom účtu, připojte se k nám! O výhodách se více dozvíte <a href="{ $url }">zde</a>.
@@ -86,7 +73,6 @@ newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
 newsletters-would-you-mind-telling-us = Nechcete nám říci, proč si odhlašujete odběr?
 newsletters-other-v2 = Jiný… (maximálně 500 znaků)
-# Obsolete string
 newsletters-other = Jiné…
 newsletters-submit = Odeslat
 newsletters-thanks-for-telling-us-why = Děkujeme, že jste nám řekli, proč nás opouštíte.
@@ -104,11 +90,13 @@ newsletters-were-glad-you-asked = Jsme rádi, že se ptáte!
 newsletters-love-the-web-so-do-we = Milujete web? My také!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na { -brand-name-mdn(case: "loc") }, informace o nových technologiích, tipy na nástroje pro vývojáře a další.
-# Obsolete string
-newsletters-join-thousands-of-developers = Připojte se k tisícům vývojářů, jako jste vy, kteří se chtějí naučit to nejlepší pro vývoj webových aplikací.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-make-the-most = Využijte { -brand-name-firefox(case: "acc") } naplno
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = Více o Firefoxu ve vaší e-mailové schránce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-sign-up-to-receive-monthly = Přihlaste se k měsíčnímu odběru novinek o { -brand-name-firefox(case: "loc") } a internetových trendech, které utvářejí váš online život.
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = Zjistěte, kam může web směřovat z našich měsíčních tipů k { -brand-name-firefox(case: "dat") } a triků pro používání internetu.
 newsletters-we-are-sorry-but-there = Omlouváme se, v našem systému nastal problém. Zkuste to prosím později!
 newsletters-thanks-for-updating-your = Děkujeme za aktualizaci vašeho nastavení e-mailů.
@@ -124,16 +112,10 @@ newsletters-fxa-error-retry = Omlouváme se, ale došlo k problému s vaším p�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Tato e-mailová adresa není v našem systému. Zkontrolujte ji prosím, popřípadě <a href="{ $url }">se přihlaste k odběru našeho zpravodaje.</a>
 newsletters-im-keeping-in-touch-v2 = Jsem místo toho s { -brand-name-mozilla(case: "ins") } v kontaktu na { -brand-name-twitter(case: "loc") }.
-# Obsolete string
-newsletters-im-keeping-in-touch = Jsem místo toho s { -brand-name-mozilla(case: "ins") } v kontaktu na { -brand-name-facebook(case: "loc") } a { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Odebírejte, čtěte,<br> zůstaňte v obraze.
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Přihlaste se a sledujte.<br>
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Pozor na problémy, které ovlivňují váš online život.
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Přihlaste se ke zpravodaji { -brand-name-mozilla(case: "gen") } a nechte se informovat o zdraví internetu a možnostech, jak se můžete zapojit.
 newsletters-your-email-preferences = Nastavení pro váš e-mail bylo úspěšně aktualizováno.
 newsletters-consider-it-done = Považujte to za vyřízené
 newsletters-back-to-email-preferences = Zpět na nastavení pro e-mail
@@ -143,8 +125,6 @@ newsletters-travel-the-internet = Cestujte po internetu s ochranou na všech sv�
 newsletters-download-the-app = Stáhnout aplikaci
 newsletters-check-for-data-breaches = Zkontrolovat úniky dat
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } je bezplatná služba, která vám umožní zjistit, zda jste byli součástí nějakého internetového úniku dat.
 newsletters-sign-in-to-monitor = Přihlásit se do { -brand-name-monitor(case: "gen") }
 newsletters-meet-our-parent-brand = Seznamte se s naší mateřskou značkou
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, nezisková organizace, která stojí za { -brand-name-firefox(case: "ins") }, dává přednost lidem před ziskem ve všem, co říkáme, vytváříme a děláme.
@@ -166,20 +146,14 @@ newsletters-dont-miss-the-latest = Nenechte si ujít aktuální oznámení o na�
 newsletters-get-involved = Zapojte se
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Přehledy
-# Obsolete string
-newsletters-internet-health-report = Hlášení o zdraví internetu
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje články a hloubkové analýzy týkající se zdraví internetu a spolehlivé umělé inteligence, včetně naší výroční zprávy o stavu internetu.
-# Obsolete string
-newsletters-keep-up-with-our-annual = Buďte neustále v obraze díky našemu každoročnímu kompilátu z výzkumu a článků o otázkách ochrany soukromí a bezpečnosti, otevřenosti, digitálního začleňování, decentralizace a webové gramotnosti.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Ve znalosti je síla
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Získejte všechny znalosti, které potřebujete k tomu, abyste byli na internetu prozíravější a ve větším bezpečí.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = O Labs
-# Name for the newsletter in Newsletter subscription page
-newsletters-desktop = Počítač
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -192,9 +166,6 @@ newsletters-news-and-information = Novinky a informace týkající se zdravého 
 newsletters-student-reps = Zástupci studentů
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program { -brand-name-firefox } Student Ambassadors.
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Původní univerzitní program z let 2008-2011 byl ukončen. Nyní je znovu spuštěn jako program Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Bojujte za internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -203,8 +174,6 @@ newsletters-add-your-voice = Připojte se k peticím, událostem a iniciativám,
 newsletters-new-product-testing = Testování nových produktů
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = Pomozte nám vytvořit lepší { -brand-name-mozilla(case: "acc") } pro vás tím, že vyzkoušíte naše nejnovější produkty a funkce.
-# Obsolete string
-newsletters-help-us-make-a-better = Pomozte nám vylepšovat { -brand-name-firefox(case: "acc") } testováním nejnovějších produktů a funkcí.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komunita { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -279,14 +248,10 @@ newsletters-get-how-tos = Dostávejte návody, rady a novinky, které vám umož
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Zvláštní oznámení o našem každoročním festivalu věnovaném vytváření budoucnosti otevřeného webu.
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Zvláštní oznámení o každoročním festivalu { -brand-name-mozilla(case: "gen") } věnovaném utváření budoucnosti otevřeného webu.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Novinky od { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = Pravidelné informace, které vám pomohou chytřeji se rozhodovat o svém online životě a aktivně se zapojit do našeho boje za lepší internet.
-# Obsolete string
-newsletters-regular-updates-to-keep = Pravidelné informace o našem boji za lepší internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
@@ -301,27 +266,14 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Zvláštní oznámení, která vám pomohou využívat { -brand-name-webmaker(case: "acc") } naplno.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Získejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Welcome emails
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Welcome emails je zpravodaj, které vám pomůže začít používat naše produkty a služby.
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = Odběr zpravodaje
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = Nechte si od { -brand-name-mozilla(case: "gen") } posílat novinky, bezpečnosti tipy a informace o všem, co dělá web zdravějším.
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = Prohlížeč { -brand-name-firefox }
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizujte svůj prohlížeč.
 # Name for the newsletter in Newsletter subscription page
