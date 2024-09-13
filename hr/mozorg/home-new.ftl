@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Internet za ljude, ne za profit
 home-mitchell-baker-v2 = Mitchell Baker, izvršna predsjednica uprave, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji poštuju privatnost
 home-product-firefox-browsing = Privatno i sigurno pregledavanje
@@ -20,6 +21,5 @@ home-read-more = Saznaj više
 home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }
-home-get-good-news = Primaj (dobre) { -brand-name-mozilla } vijesti
 home-mofo-donate-to-mofo-today = Doniraj zakladi { -brand-name-mozilla-foundation } danas kako bi internet ostao otvoren i dostupan svima.
 home-mofo-donate = Doniraj
