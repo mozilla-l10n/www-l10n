@@ -133,10 +133,19 @@ firefox-desktop-download-as-the-internet = Ҳангоме ки фазои Инт
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
+firefox-desktop-download-watch-for-hackers-with-v3 = Хакерҳоро ба воситаи «{ -brand-name-mozilla-monitor }» ошкор кунед, нишонии почтаи электронии худро ба воситаи «{ -brand-name-firefox-relay }» муҳофизат кунед ва аз бисёр имкониятҳои дигар истифода баред.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Қариб тайёр аст!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Акнун <strong>насби</strong> браузери «{ -brand-name-firefox }»-ро ба анҷом расонед.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Акнун, насбкунандаеро, ки ҳоли ҳозир боргирӣ кардед, <strong>иҷро намоед</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Акнун, файлеро, ки ҳоли ҳозир боргирӣ кардед, <strong>кушоед</strong>.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Имкони «<strong>Боргирӣ кардан</strong>»-ро дар зер интихоб намоед
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед

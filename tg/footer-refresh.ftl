@@ -20,4 +20,6 @@ footer-refresh-company = Ширкат
 footer-refresh-press-center = Маркази матбуот
 footer-refresh-careers = Мансабҳо
 footer-refresh-contact = Тамoс
+footer-refresh-support = Дастгирӣ
+footer-refresh-product-help = Кумак барои маҳсулот
 footer-refresh-language = Забон

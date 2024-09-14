@@ -7,5 +7,6 @@
 
 whatsnew-page-title-v2 = Навигариҳои «{ -brand-name-firefox }»
 whatsnew-firefox = { -brand-name-firefox }
+whatsnew-update-notification = Браузери «{ -brand-name-firefox }»-и шумо навсозӣ карда шуд.
 whatsnew-donate-to-mofo = Ба «{ -brand-name-mozilla-foundation }» саҳм гузоред
 whatsnew-thanks-for-choosing = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»

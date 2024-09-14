@@ -14,4 +14,5 @@ developer-mdnplus-whats-included = Чизҳоеро, ки дар бар меги
 developer-mdnplus-notifications = Огоҳномаҳо
 developer-mdnplus-development-in-real-time = Рушд ва барномарезӣ дар вақти воқеӣ: Огоҳиҳои фармоиширо қабул кунед
 developer-mdnplus-collections = Маҷмуаҳо
+developer-mdnplus-build-your-perfect-library = Китобхонаи писандидаи худро созед. Ё имкон диҳед, ки мо онро барои шумо созем.
 developer-mdnplus-mdn-offline = «{ -brand-name-mdn }» дар реҷаи офлайн
