@@ -109,13 +109,13 @@
 -brand-name-mdn-web-docs = MDN web dokumenti
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-monitor = Mozilla monitor
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla račun
 -brand-name-mozilla-accounts = Mozilla računi
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla UI
--brand-name-mozilla-ventures = Mozilla pothvati
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
