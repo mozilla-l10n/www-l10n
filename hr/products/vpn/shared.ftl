@@ -115,7 +115,7 @@ vpn-shared-relay-phone-masking = Maskiranje broja telefona
 vpn-shared-get-vpn-plus-relay = Nabavi { -brand-name-vpn } + { -brand-name-relay }
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Uštedi { $percent } %</span> s { -brand-name-relay-premium } godišnjem planu
+vpn-shared-save-on-relay-premium = <span>Uštedi { $percent } %</span> na { -brand-name-relay-premium } godišnjem planu
 vpn-shared-mozilla-vpn-is-not-yet-available = Nažalost { -brand-name-mozilla-vpn } joü nije dostupan u tvojoj zemlji.
 
 ## Press quotations
