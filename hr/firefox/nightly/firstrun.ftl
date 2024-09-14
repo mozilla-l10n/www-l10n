@@ -7,8 +7,10 @@
 
 nightly-firstrun-thank-you-for-using = Hvala ti da koristiš { -brand-name-firefox-nightly }
 nightly-firstrun-test = Testiraj
+nightly-firstrun-find-and-file-bugs = Pronađi i prijavi greške i općenito osiguraj da stvari ispravno rade.
 nightly-firstrun-start-testing = Počni testirati
 nightly-firstrun-code = Kodiraj
+nightly-firstrun-file-bugs-and-work = Prijavi greške i radi na izgradnji temeljnih dijelova { -brand-name-firefox } preglednika.
 nightly-firstrun-start-coding = Počni kodirati
 nightly-firstrun-localize = Prevedi
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
