@@ -122,6 +122,10 @@ firefox-desktop-download-download-the-mobile = Барои таъмини муҳ�
 firefox-desktop-download-learn-about-the = Маълумоти бештар дар бораи браузери «{ -brand-name-firefox }» барои мизи корӣ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Сар карда аз муҳофизат то хабарҳо ва бозиҳо <a { $attrs }>ҳар гуна васеъшавӣ барои ҳамаи корбарон дастрас аст</a>. То он даме, ки шумо бо браузери худ қаноатманд мешавед, васеъшавиҳои дилхоҳро илова намоед.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
