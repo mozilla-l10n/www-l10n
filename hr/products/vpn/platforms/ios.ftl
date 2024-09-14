@@ -10,6 +10,7 @@ vpn-ios-page-title = { -brand-name-mozilla-vpn } za { -brand-name-ios } ({ -bran
 # Mobile strings
 vpn-ios-hero-headline = Zaštiti se na internetu s { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-ios-about-headline = Zašto nama vjerovati?
+vpn-ios-about-copy = Možda nas poznaješ zbog našeg web preglednika, { -brand-name-firefox } – ali osim toga se { -brand-name-mozilla } bori za tvoja prava na internetu od 1998. – to je naša temeljna misija. Opsesija nam je da osiguramo da internet ostane otvoren i besplatan poštujući svačije pravo na privatnost i sigurnost.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Dobij pristup za { $devices } uređaja
