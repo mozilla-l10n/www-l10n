@@ -15,4 +15,6 @@ developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } je kolabo
 developer-mdnplus-get-started = Započni
 developer-mdnplus-whats-included = Što je uključeno
 developer-mdnplus-notifications = Obavijesti
+developer-mdnplus-development-in-real-time = Razvoj u stvarnom vremenu: primaj prilagođena upozorenja
+developer-mdnplus-collections = Zbirke
 developer-mdnplus-resources-for-developers = Resursi za programere, od programera.
