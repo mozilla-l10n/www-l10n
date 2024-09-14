@@ -95,7 +95,11 @@ firefox-desktop-download-change-new-tab = Қолиби варақаи навро
 firefox-desktop-download-make-firefox-your = Соҳиби браузери <strong>«{ -brand-name-firefox }»</strong> шавед
 firefox-desktop-download-extensions-for-every = Васеъшавиҳо барои ҳар гуна кор
 firefox-desktop-download-change-up-your = Намуди зоҳирии браузерро иваз намоед
+firefox-desktop-download-go-from-light = Вобаста аз рӯҳияи пасту баланд ё ҳаваси шахсӣ аз реҷаи торик ба реҷаи равшан гузаред ё бо мавзуи фармоишӣ (мумкин бо мавзуи якшохаи рангинкамон) ҳаёти худро ороиш намоед.
 firefox-desktop-download-tweak-your-settings = Беҳтар кардани танзимоти шахсӣ
+firefox-desktop-download-theres-no-need = Сабр кардан мумкин нест. Барои баррасӣ кардани фазои Интернет ба таври дилхоҳ, саҳифаи варақаи нав, навори ҷустуҷӯ, хатбаракҳо ё имкониятҳои дигарро иваз намоед.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Аз ҷониби<strong> ташкилоти ғайритиҷоратӣ</strong> дастгирӣ карда мешавад, ки одамонро дар ҷои аввал мегузорад
 firefox-desktop-download-your-privacy-comes = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Ҳамаи хусусиятҳои дӯстдоштаи худро дар браузер нигоҳ доред — ва хусусиятҳои навро <strong>пайдо намоед</strong>.
