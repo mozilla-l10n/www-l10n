@@ -114,9 +114,11 @@ firefox-desktop-download-sync-your-devices = Дастгоҳҳои худро ҳ�
 firefox-desktop-download-screenshots = Аксҳои экран
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ (ETP)
+firefox-desktop-download-from-watching-a = Сар карда аз иштирок дар дарсҳои онлайн то ҳаводории дастаи варзишии дӯстдоштаи худ, видеои шумо шуморо ҳангоми иҷрои якчанд вазифа пайгирӣ мекунад.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Ба даст овардани «{ -brand-name-firefox-browser }» барои <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Барои таъмини муҳофизати худкор дар ҳамаи дастгоҳҳои худ, браузери мобилии «{ -brand-name-firefox }»-ро боргирӣ намоед.
 firefox-desktop-download-learn-about-the = Маълумоти бештар дар бораи браузери «{ -brand-name-firefox }» барои мизи корӣ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
