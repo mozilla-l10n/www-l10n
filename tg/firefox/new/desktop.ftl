@@ -104,7 +104,12 @@ firefox-desktop-download-challenging-the-status = Аз соли 1998 мо ба �
 firefox-desktop-download-your-privacy-comes = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Ҳамаи хусусиятҳои дӯстдоштаи худро дар браузер нигоҳ доред — ва хусусиятҳои навро <strong>пайдо намоед</strong>.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Ҳамаи абзорҳои дӯстдоштаи шумо дар «{ -brand-name-google }» (ба монанди «Gmail» ва «Docs») дар браузери «{ -brand-name-firefox-browser }» бисёр хуб кор мекунанд.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Ин васеъшавии браузерро боргирӣ намоед,</a> то ки «{ -brand-name-facebook }» (ва «{ -brand-name-instagram }») шуморо дар саросари Интернет пайгирӣ накунанд.
 firefox-desktop-download-sync-your-devices = Дастгоҳҳои худро ҳамоҳанг созед
 firefox-desktop-download-screenshots = Аксҳои экран
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
