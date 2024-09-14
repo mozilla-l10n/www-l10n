@@ -52,3 +52,4 @@ new-platform-download-mozilla-desc-windows = Браузери ройгони и�
 new-platform-download-the-fastest-windows = Браузери тезкори «{ -brand-name-firefox }»-ро барои низоми амалкунандаи «{ -brand-name-windows }» боргирӣ намоед
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» акнун дар ин ҷост.
+new-platform-seamless-setup = Насби бароҳат
