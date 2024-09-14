@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -17,7 +17,7 @@ privacy-principles-manage-user-data-we-collect = upravljamo korisničkim podacim
 privacy-principles-select-and-interact-with = biramo partnere i kako s njima surađujemo
 privacy-principles-shape-our-public-policy = oblikujemo našu javnu politiku i zagovornički rad
 privacy-principles-no-surprises = Bez iznaneđenja
-privacy-principles-use-and-share-information = Koristi i dijeli informacije na način koji je transparentan i koristi korisniku.
+privacy-principles-use-and-share-information = Koristi i dijeli informacije na način koji je transparentan i koji koristi korisniku.
 privacy-principles-user-control = Kontrola korisnika
 privacy-principles-develop-products-and = Razvijaj proizvode i zagovaraj najbolje prakse pomoću kojih korisnici kontroliraju svoje podatke i internetska iskustva.
 privacy-principles-limited-data = Ograničeni podaci
