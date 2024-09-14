@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-get-the-best = Získajte najlepšie tipy, triky a novinky týkajúce sa { -brand-name-firefox(case: "gen") }. Sľubujeme, že váš e‑mail uchováme súkromný a v bezpečí – použijeme ho len na zasielanie toho najlepšieho z { -brand-name-firefox(case: "gen") } priamo do vašej doručenej pošty.
+footer-refresh-leadership = Vedenie
+footer-refresh-advertise = Inzerujte pomocou { -brand-name-mozilla(case: "gen") }
 footer-refresh-firefox-release-notes = Poznámky k vydaniu { -brand-name-firefox(case: "gen") }
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
