@@ -64,6 +64,7 @@ navigation-v2-close-innovation-menu = Zatvori izbornik Inovacije
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Nabavi { -brand-name-firefox } preglednik izgrađen samo za programere.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-check-out-the-home-for-web = Pregledaj početnu stranicu za resurse za web programere.
 navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-explore-the-web-with-the = Istraži web s { -brand-name-firefox } preglednikom za virtualnu stvarnost.
 navigation-v2-common-voice = { -brand-name-common-voice }
