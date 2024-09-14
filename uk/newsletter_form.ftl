@@ -13,14 +13,13 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Виберіть країну чи регіон
 newsletter-form-select-language = Оберіть мову
 newsletter-form-your-email-here = АДРЕСА Е-ПОШТИ
-newsletter-form-format = Формат
-newsletter-form-html = HTML
-newsletter-form-text = Текст
 newsletter-form-get-firefox-news = Отримувати новини { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Я погоджуюся з тим, як { -brand-name-mozilla } поводиться з моїми даними згідно з <a href="{ $url }">цим Положенням про приватність</a>
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Ми будемо надсилати вам лише інформацію, яка стосується { -brand-name-mozilla }.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Ми надсилатимемо вам лише відомості, які стосуються { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Якщо ви раніше не підтвердили підписку на новини від { -brand-name-mozilla }, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ви
@@ -35,6 +34,8 @@ newsletter-form-thanks = Дякуємо!
 newsletter-form-leave-this-field-empty = Залиште це поле порожнім.
 newsletter-form-yes = Так
 newsletter-form-no = Ні
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Форма для підписки на розсилку
 multi-newsletter-form-checkboxes-legend = Я хочу отримувати інформацію про:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
