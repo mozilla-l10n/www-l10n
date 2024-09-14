@@ -5,9 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Навигариҳои «{ -brand-name-firefox }»
 whatsnew-firefox = { -brand-name-firefox }
-# Obsolete string
-whatsnew-firefox-browser = { -brand-name-firefox-browser }
-whatsnew-up-to-date-notification-v2 = Табрик! Шумо версияи навтарини «{ -brand-name-firefox }»-ро истифода мебаред.
-# Obsolete string
-whatsnew-up-to-date-notification = Табрик! Шумо версияи навтарини «{ -brand-name-firefox-browser }»-ро истифода мебаред.
+whatsnew-donate-to-mofo = Ба «{ -brand-name-mozilla-foundation }» саҳм гузоред
+whatsnew-thanks-for-choosing = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»

@@ -7,7 +7,11 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-support-mdn-and-make = Ба «{ -brand-name-mdn }» кумак расонед <em>ва</em> соҳиби он шавед.
 # CTA button
 developer-mdnplus-get-started = Оғози кор
+developer-mdnplus-whats-included = Чизҳоеро, ки дар бар мегирад
 developer-mdnplus-notifications = Огоҳномаҳо
+developer-mdnplus-development-in-real-time = Рушд ва барномарезӣ дар вақти воқеӣ: Огоҳиҳои фармоиширо қабул кунед
 developer-mdnplus-collections = Маҷмуаҳо
+developer-mdnplus-mdn-offline = «{ -brand-name-mdn }» дар реҷаи офлайн
