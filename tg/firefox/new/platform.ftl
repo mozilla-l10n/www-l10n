@@ -11,6 +11,7 @@
 new-platform-free-web-browser = Браузери интернетии ройгон
 new-platform-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 new-platform-download-the-fastest = Аз ҳама зудтарин браузери «{ -brand-name-firefox }»-ро боргирӣ намоед
+new-platform-faster-page-loading = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» акнун дар ин ҷост.
 new-platform-2x-faster = 2 маротиба тезтар
 new-platform-advanced-install-options = Имконоти иловагӣ барои насб ва платформҳои дигар
 new-platform-download-in-another = Бо забони дигар боргирӣ намоед
@@ -29,6 +30,7 @@ new-platform-faster-page-loading-linux = Саҳифа боз ҳам тезтар
 new-platform-firefox-for-linux = { -brand-name-firefox } барои { -brand-name-linux }
 new-platform-privacy-more-than = Махфият - на танҳо як сиёсат мебошад
 new-platform-your-life-your-business = Ҳаёти шумо, кори шахсии шумо. Браузери «{ -brand-name-firefox }» кукиҳои васоити пайгирии тарафҳои сеюмро дар низоми амалкунандаи «{ -brand-name-linux }» манъ мекунад.
+new-platform-speed-meet-security = Бо суръат ва бехатарӣ вохӯред. Браузери «{ -brand-name-firefox }» ду маротиба тезтар мебошад ва нисбат ба «{ -brand-name-chrome }» аз ҳофиза 30% камтар истифода мебарад.
 new-platform-open-source = Манбаи кушод
 
 ## Mac
