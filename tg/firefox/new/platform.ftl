@@ -45,7 +45,9 @@ new-platform-download-the-fastest-mac = Браузери тезкори «{ -bra
 new-platform-faster-page-loading-mac = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-mac-short }» акнун дар ин ҷост.
 new-platform-privacy-comes-first = Махфият ҳамеша дар ҷойи аввал мебошад
 new-platform-firefox-doesnt-spy = Браузери «{ -brand-name-firefox }» дар ҷустуҷӯҳои шумо ҷосусӣ намекунад. Мо кукиҳои васоити пайгирии тарафҳои сеюмро манъ мекунем ва ба шумо назорати пурра медиҳем.
+new-platform-get-speed-and-security = Суръат ва бехатариро ба даст оред. Браузери «{ -brand-name-firefox }» дар низоми амалкунандаи «{ -brand-name-mac-short }» тез кор мекунад, зеро ки мо фаъолият ва ҳаракатҳои шуморо пайгирӣ намекунем.
 new-platform-block-trackers = Манъ кардани васоити пайгирӣ
+new-platform-be-the-master-of-your = Соҳиби браузер бошед, ки муҳтавои бегонаро ба таври ҷиддӣ манъ мекунад. Ҳамаи кукиҳо ва васоити пайгирии бегонаро қатъ кунед.
 
 ## Windows
 
