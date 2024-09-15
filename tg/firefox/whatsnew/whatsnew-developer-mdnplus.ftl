@@ -19,3 +19,4 @@ developer-mdnplus-development-in-real-time = Рушд ва барномарез�
 developer-mdnplus-collections = Маҷмуаҳо
 developer-mdnplus-build-your-perfect-library = Китобхонаи писандидаи худро созед. Ё имкон диҳед, ки мо онро барои шумо созем.
 developer-mdnplus-mdn-offline = «{ -brand-name-mdn }» дар реҷаи офлайн
+developer-mdnplus-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон.

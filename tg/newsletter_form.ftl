@@ -7,8 +7,13 @@ newsletter-form-you-must-agree-to = Шумо бояд бо огоҳномаи м
 newsletter-form-your-email-address = Нишонии почтаи электронии шумо
 newsletter-form-please-select-country = Лутфан, кишвар ё минтақаеро интихоб намоед
 newsletter-form-please-select-language = Лутфан, забонеро интихоб намоед
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = номи_корбар@example.com
 newsletter-form-select-country-or-region = Кишвар ё минтақаро интихоб кунед
+newsletter-form-select-language = Забонеро интихоб намоед
+newsletter-form-get-firefox-news = Хабарҳои «{ -brand-name-firefox }»-ро ба даст оред
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
+newsletter-form-get-mozilla-updates = Навсозиҳои «{ -brand-name-mozilla }»-ро ба даст оред
 newsletter-form-available-languages = Забонҳои дастрас
 newsletter-form-select-country = Интихоби кишвар
 newsletter-form-sign-me-up = Маро сабти ном кунед
