@@ -11,6 +11,7 @@ newsletter-form-please-select-language = Лутфан, забонеро инти
 newsletter-form-yournameexamplecom = номи_корбар@example.com
 newsletter-form-select-country-or-region = Кишвар ё минтақаро интихоб кунед
 newsletter-form-select-language = Забонеро интихоб намоед
+newsletter-form-your-email-here = НИШОНИИ ПОЧТАИ ЭЛЕКТРОНИИ ШУМО
 newsletter-form-get-firefox-news = Хабарҳои «{ -brand-name-firefox }»-ро ба даст оред
 newsletter-form-join-the-community = Ба ҷамъияти мо ҳамроҳ шавед
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
