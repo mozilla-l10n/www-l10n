@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-firefox }
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-firefox } { -brand-name-ios }를 위한 { -brand-name-apple } { -brand-name-test-flight } 베타 프로그램 테스트를 할 수 있습니다.
 firefox-channel-sign-up-now = 지금 가입하기
+firefox-channel-nightly-update-one-or-more-times = 참고: { -brand-name-firefox-nightly }는 하루에 한두 번 정도 업데이트됩니다.
