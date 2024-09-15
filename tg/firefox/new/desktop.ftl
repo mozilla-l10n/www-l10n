@@ -131,6 +131,9 @@ firefox-desktop-download-firefox-was-created = Браузери «{ -brand-name-
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ҳангоме ки фазои Интернет афзоиш ва тағйир меёбад, браузери «{ -brand-name-firefox }» ба ҳуқуқи шумо дар махфияти шахсӣ бардавом диққат медиҳад  — мо онро ҳамчун <a { $attrs }>Ваъдаи ҳафзи маълумоти шахсӣ</a> меномем: Маълумотро кам ҷамъ мекунем. Дар вазъи бехатар нигоҳ медорем. Ягон сир надорем. Маълумоти шумо, фаъолияти шумо дар интернет, ҳаёти шумо дар онлайн ба воситаи браузери «{ -brand-name-firefox }» муҳофизат карда мешавад.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = Браузери «{ -brand-name-firefox }» дар ҳамаи дастгоҳҳои шумо дастрас аст; варақаҳо, таърих ва хатбаракҳои худро бо худ гиред. Ба шумо танҳо як ҳисоби «<a { $attrs }>{ -brand-name-mozilla-account }</a>» лозим аст ва шумо ба имкони ҳамоҳангсозӣ ва дигар маҳсулоти «{ -brand-name-mozilla }» дастрасӣ пайдо мекунед.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 firefox-desktop-download-watch-for-hackers-with-v3 = Хакерҳоро ба воситаи «{ -brand-name-mozilla-monitor }» ошкор кунед, нишонии почтаи электронии худро ба воситаи «{ -brand-name-firefox-relay }» муҳофизат кунед ва аз бисёр имкониятҳои дигар истифода баред.
