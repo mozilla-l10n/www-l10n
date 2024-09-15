@@ -138,6 +138,9 @@ firefox-desktop-download-firefox-is-available-v2 = Браузери «{ -brand-n
 firefox-desktop-download-grab-a-high = Ба воситаи абзори «<a { $attrs }>Гирифтани акси экран</a>», ки бевосита ба даруни браузер сохта шудааст, шумо метавонед барои чизҳои дилхоҳ дар Интернет аксҳои баландсифатро бардоред.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = Браузери «{ -brand-name-firefox }» ба таври худкор <a { $attrs }>бисёр васоити пайгирии тарафҳои сеюмеро</a>, ки фаъолияти шумо дар Интернет ҷамъ карда, мефурӯшанд, манъ мекунад.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 firefox-desktop-download-watch-for-hackers-with-v3 = Хакерҳоро ба воситаи «{ -brand-name-mozilla-monitor }» ошкор кунед, нишонии почтаи электронии худро ба воситаи «{ -brand-name-firefox-relay }» муҳофизат кунед ва аз бисёр имкониятҳои дигар истифода баред.
 
@@ -152,6 +155,9 @@ firefox-desktop-download-now-windows = Акнун, насбкунандаеро,
 firefox-desktop-download-now-mac = Акнун, файлеро, ки ҳоли ҳозир боргирӣ кардед, <strong>кушоед</strong>.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-select-linux = Имкони «<strong>Боргирӣ кардан</strong>»-ро дар зер интихоб намоед
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Мушкилӣ мекашед? <a { $attrs }>Барои насби худ кумак гиред</a>.
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
