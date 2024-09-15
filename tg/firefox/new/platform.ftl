@@ -60,4 +60,6 @@ new-platform-download-the-fastest-windows = Браузери тезкори «{ 
 new-platform-faster-page-loading-windows = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» акнун дар ин ҷост.
 new-platform-firefox-moves-fast = Браузери «{ -brand-name-firefox }» тез кор мекунад ва бо маълумоти шахсии шумо эҳтиёткорона муомила мекунад - бе васоити пайгирии рекламавӣ ва халалрасонӣ.
 new-platform-common-sense-privacy = Махфияти боандеша
+new-platform-live-your-life = Ҳаёти шахсии худро зиндагӣ кунед, браузери «{ -brand-name-firefox }» шуморо назорат намекунад. Интихоб кунед, ки кай ва чиро мубодила мекунед.
 new-platform-seamless-setup = Насби бароҳат
+new-platform-easy-migration = Вақте ки шумо браузери «{ -brand-name-firefox }»-ро барои низоми амалкунандаи «{ -brand-name-windows }» боргирӣ мекунед, метавонед хусусиятҳо ва хатбаракҳоро ба осонӣ интиқол диҳед.
