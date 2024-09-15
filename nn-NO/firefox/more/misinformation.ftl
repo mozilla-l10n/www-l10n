@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unngå felinformasjon på nettet – { -brand-name-firefox } er her for å hjelpe deg
+misinformation-false-info-heading = Kvar dukkar falsk informasjon opp?
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
