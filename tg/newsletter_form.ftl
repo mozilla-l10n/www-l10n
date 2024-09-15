@@ -12,6 +12,7 @@ newsletter-form-yournameexamplecom = номи_корбар@example.com
 newsletter-form-select-country-or-region = Кишвар ё минтақаро интихоб кунед
 newsletter-form-select-language = Забонеро интихоб намоед
 newsletter-form-get-firefox-news = Хабарҳои «{ -brand-name-firefox }»-ро ба даст оред
+newsletter-form-join-the-community = Ба ҷамъияти мо ҳамроҳ шавед
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
 newsletter-form-get-mozilla-updates = Навсозиҳои «{ -brand-name-mozilla }»-ро ба даст оред
 newsletter-form-available-languages = Забонҳои дастрас

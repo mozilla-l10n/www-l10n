@@ -33,4 +33,7 @@ footer-refresh-tools = Абзорҳо
 footer-refresh-donate = Саҳм гузоштан
 footer-refresh-websites-privacy-notice = Огоҳномаи махфияти сомона
 footer-refresh-websites-cookies = Кукиҳо
+footer-refresh-websites-legal = Маълумоти ҳуқуқӣ
+footer-refresh-community-participation-guidelines = Роҳнамо барои иштирок дар ҷамъияти мо
+footer-refresh-about-this-site = Дар бораи ин сомона
 footer-refresh-language = Забон

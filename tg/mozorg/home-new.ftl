@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
+home-cta-get-firefox = «{ -brand-name-firefox }»-ро ба даст оред
 home-cta-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
 home-cta-get-relay = «{ -brand-name-relay }»-ро ба даст оред
 home-cta-get-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
