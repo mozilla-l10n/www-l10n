@@ -11,6 +11,7 @@
 firefox-new-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 firefox-new-download-the-fastest-firefox = Аз ҳама зудтарин браузери «{ -brand-name-firefox }»-ро боргирӣ намоед
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = Саҳифа боз ҳам тезтар бор мешавад, ҳофиза камтар истифода мешавад ва дорои хусусиятҳои беш мебошад, браузери «{ -brand-name-firefox }» акнун дар ин ҷост.
 firefox-new-get-the-latest-firefox = Браузери навтарини «{ -brand-name-firefox }»-ро ба даст оред.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Браузери «{ -brand-name-firefox }»-ро <br>барои «{ -brand-name-windows }» боргирӣ намоед
@@ -23,6 +24,13 @@ firefox-new-need-help = Кумак лозим аст?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-new-mozilla-no-longer-provides = Хадамоти «{ -brand-name-mozilla }» <a href="{ $url }">дигар навсозиҳои амниятиро</a> дар низомҳои амалкунандаи «{ -brand-name-windows } { -brand-name-xp }» ё «{ -brand-name-vista }» таъмин наменамояд, аммо шумо то ҳол метавонед аз «{ -brand-name-firefox }» истифода баред.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-firefox-new-should-begin = Боргирии барнома бояд ба таври худкор оғоз карда шавад. Оғоз карда нашуд? <a id="{ $id }" href="{ $fallback_url }">Кӯшиш кунед, ки барномаро аз нав боргирӣ намоед</a>.
 firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
@@ -31,7 +39,13 @@ firefox-new-download-select-linux = Имкони боргирӣ кардани �
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }"></a>ин версияҳоро</a> кӯшиш кунед.
 firefox-new-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-new-if-you-see-a-prompt = Агар шумо огоҳиеро бинед, ки дар бораи барномаи насбшавандаи шумо иттилоъ медиҳад, ки он аз тарафи «{ -brand-name-microsoft }» тасдиқ нашудааст, он гоҳ тугмаи «Ба ҳар ҳол насб кардан»-ро зер кунед ё <a { $attrs }>танзимоти тавсияҳои барномаро иваз намоед</a>.
 firefox-new-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
 
 # Not-Required

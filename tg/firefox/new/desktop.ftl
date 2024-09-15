@@ -177,3 +177,6 @@ firefox-desktop-download-interrupted = Боргирии шумо қатъ шуд
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-desktop-download-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }"></a>ин версияҳоро</a> кӯшиш кунед.
