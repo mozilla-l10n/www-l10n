@@ -33,12 +33,20 @@ firefox-all-platform = 플랫폼:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = 언어:
 firefox-all-download = 4. 다운로드:
+firefox-all-desktop = 데스크톱
+firefox-all-mobile = 모바일
+firefox-all-recommended = (추천)
 firefox-all-lang-multi = 여러 언어
+firefox-all-plat-mobile = 안드로이드와 iOS
 firefox-all-sorry-we-couldnt-find = 죄송합니다. 찾으시는 다운로드 항목이 없습니다. 다시 시도하거나 아래 목록에서 다운로드 항목을 선택하십시오.
 firefox-all-the-pre-alpha-version = 고급 사용자를 위한 알파 버전은 신규 기능 테스트 및 문제점 발견을 위한 용도로 제공합니다.
 firefox-all-64-bit-installers = 64비트 설치 프로그램
 firefox-all-choose-a-64-bit-installer = 64 비트 프로세서가 장착된 컴퓨터의 경우, 64 비트 설치 프로그램을 선택하면 개별 프로그램에 더 많은 메모리(RAM)을 할당 할 수 있습니다. 특히 게임과 같은 무거운 프로그램에 유용합니다.
 firefox-all-32-bit-installers = 32비트 설치 프로그램
+firefox-all-microsoft-store-installers = Microsoft 스토어
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } 다운로드
 firefox-all-check-the-system-requirements = 시스템 요구사항 확인
 firefox-all-release-notes = 출시 정보
 firefox-all-source-code = 소스 코드
