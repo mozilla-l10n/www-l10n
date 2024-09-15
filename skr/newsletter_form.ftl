@@ -18,8 +18,10 @@ newsletter-form-join-the-community = برادری وچ شامل تھیوو
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = میں ٹھیک ہاں { -brand-name-mozilla } میݙیاں معلومات کوں سنبھلیندا پیا ہے جیویں جو <a href="{ $url }"> ایں رازداری دے نوٹس </a> وِچ وضاحت کیتی ڳئی ہے۔
+newsletter-form-we-will-only-send-v2 = اساں تہاکوں { -brand-name-mozilla } دے متعلقہ معلومات بھیڄیسوں۔ تساں کہیں ویلے وی ساکوں اݨ سبسکرائب کر سڳدے ہو۔
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = اساں تہاکوں صرف { -brand-name-mozilla } دیاں معلومات بھیڄیسوں۔
+newsletter-form-we-will-only-send-firefox-v2 = اساں تہاکوں { -brand-name-firefox } دے متعلقہ معلومات بھیڄیسوں۔ تساں کہیں ویلے وی ساکوں اݨ سبسکرائب کر سڳدے ہو۔
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = اساں تہاکوں صرف { -brand-name-firefox } دیاں معلومات بھیڄیسوں۔
 newsletter-form-if-you-havent-previously = جے تساں پہلے { -brand-name-mozilla } دے متعلق نیوز لیٹر دی رکنیت دی تصدیق نہیں کیتی، تاں تہاکوں ایویں کرݨا پئے سڳدا ہے۔ اساݙی طرفوں ای میل کیتے براہ مہربانی اپݨا ان باکس یا اپݨا سپام فلٹر چیک کرو۔
