@@ -7,4 +7,6 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } بنام Microsoft Edge
+# HTML page description
+compare-edge-read-our-comparison = خصوصیات، رازداری تے ورتݨ دی سوکھ  تے { -brand-name-firefox } تے ایج براؤزراں دا ساݙا موازنہ پڑھو۔
 compare-edge-we-block-trackers-by-default = اساں ٹریکر ڈیفالٹوں بلاک کریندے ہیں۔ ایجّ کائنی کریندی۔

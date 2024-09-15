@@ -7,3 +7,5 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } بنام Opera
+# HTML page description
+compare-opera-read-our-comparison = خصوصیات، رازداری تے ورتݨ دی سوکھ تے { -brand-name-firefox } تے اوپیرا براؤزراں دا ساݙا موازنہ پڑھو۔
