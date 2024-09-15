@@ -29,7 +29,7 @@ about-this-site-some-open-source-projects = Một số dự án mã nguồn mở
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
 #   $jinja (url) link to https://jinja.palletsprojects.com/
-about-this-site-django = <a href="{ $django }">Django</a> như một khuôn khổ web back end, với <a href="{ $jinja }">Jinja</a> để tạo khuôn mẫu.
+about-this-site-django = <a href="{ $django }">Django</a> như một back end web framework, với <a href="{ $jinja }">Jinja</a> để tạo khuôn mẫu.
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
 about-this-site-mozilla-protocol = Hệ thống thiết kế <a href="{ $protocol }">giao thúc</a> cho các thành phần giao diện người dùng và thương hiệu cho { -brand-name-mozilla }.
@@ -38,7 +38,7 @@ about-this-site-mozilla-protocol = Hệ thống thiết kế <a href="{ $protoco
 about-this-site-fluent = Hệ thống bản địa hóa <a href="{ $fluent }">Fluent</a> để dịch ngôn ngữ cho { -brand-name-mozilla }.
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
-about-this-site-many-other = Nhiều thư viện và khuôn khổ nhỏ hơn khác mà bạn có thể tìm thấy trong <a href="{ $github }">{ -brand-name-github } repo</a>.
+about-this-site-many-other = Nhiều thư viện và framework nhỏ hơn khác mà bạn có thể tìm thấy trong <a href="{ $github }">{ -brand-name-github } repo</a>.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = Chúng tôi gửi lời cảm ơn đến tất cả các<a href="{ $credits }">cộng tác viên</a> của { -brand-name-mozilla } những người đã giúp làm cho web trở thành một nơi tốt hơn.
+about-this-site-we-extend = Chúng tôi gửi lời cảm ơn đến tất cả các <a href="{ $credits }">cộng tác viên</a> của { -brand-name-mozilla } những người đã giúp làm cho web trở thành một nơi tốt hơn.
