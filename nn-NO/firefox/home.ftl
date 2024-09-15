@@ -9,6 +9,7 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - Vern om nettlivet 
 firefox-home-firefox-is-more-than = { -brand-name-firefox } er meir enn ein nettlesar. Les meir om { -brand-name-firefox }-produk som handterer dataa dine med respekt og er bygd for personvern uansett kvar du navigerer på nettet.
 # Obsolete string
 firefox-home-the-browser-is-just = Nettlesaren er berre starten
+firefox-home-firefox-is-just = { -brand-name-firefox } er berre byrjinga.
 # Obsolete string
 firefox-home-meet-our-family-of = Møt produktfamilien vår
 firefox-home-get-trackers-off = Blokker meir enn 2000 sporarar — inkludert { -brand-name-facebook }
