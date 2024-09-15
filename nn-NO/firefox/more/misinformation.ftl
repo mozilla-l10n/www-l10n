@@ -8,6 +8,9 @@
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unngå felinformasjon på nettet – { -brand-name-firefox } er her for å hjelpe deg
 misinformation-false-info-heading = Kvar dukkar falsk informasjon opp?
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
+misinformation-widespread-online = Du kan kome over feilinformasjon og desinformasjon overalt, men han er mest utbreidd og mest effektfull når han blir delt på nettet. Algoritmar og <a href="{ $tracking }">sporing</a> har auka moglegheita for feilinformasjon og desinformasjon for å nå ut til eit større publikum på nettstadar, bloggar, forum og sosiale nettverk.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
