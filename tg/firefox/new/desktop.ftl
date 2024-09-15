@@ -134,6 +134,9 @@ firefox-desktop-download-as-the-internet = Ҳангоме ки фазои Инт
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = Браузери «{ -brand-name-firefox }» дар ҳамаи дастгоҳҳои шумо дастрас аст; варақаҳо, таърих ва хатбаракҳои худро бо худ гиред. Ба шумо танҳо як ҳисоби «<a { $attrs }>{ -brand-name-mozilla-account }</a>» лозим аст ва шумо ба имкони ҳамоҳангсозӣ ва дигар маҳсулоти «{ -brand-name-mozilla }» дастрасӣ пайдо мекунед.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Ба воситаи абзори «<a { $attrs }>Гирифтани акси экран</a>», ки бевосита ба даруни браузер сохта шудааст, шумо метавонед барои чизҳои дилхоҳ дар Интернет аксҳои баландсифатро бардоред.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 firefox-desktop-download-watch-for-hackers-with-v3 = Хакерҳоро ба воситаи «{ -brand-name-mozilla-monitor }» ошкор кунед, нишонии почтаи электронии худро ба воситаи «{ -brand-name-firefox-relay }» муҳофизат кунед ва аз бисёр имкониятҳои дигар истифода баред.
