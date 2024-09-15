@@ -7,6 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Табрик! Акнун шумо версияи навтарини «{ -brand-name-firefox-developer-edition }»-ро ба даст гирифтед.
 developer-mdnplus-support-mdn-and-make = Ба «{ -brand-name-mdn }» кумак расонед <em>ва</em> соҳиби он шавед.
 # CTA button
 developer-mdnplus-get-started = Оғози кор
