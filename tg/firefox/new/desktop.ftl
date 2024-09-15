@@ -160,7 +160,13 @@ firefox-desktop-download-select-linux = Имкони «<strong>Боргирӣ к
 firefox-desktop-download-get-help = Мушкилӣ мекашед? <a { $attrs }>Барои насби худ кумак гиред</a>.
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Агар шумо огоҳиеро бинед, ки дар бораи барномаи насбшавандаи шумо иттилоъ медиҳад, ки он аз тарафи «{ -brand-name-microsoft }» тасдиқ нашудааст, он гоҳ тугмаи «Ба ҳар ҳол насб кардан»-ро зер кунед ё <a { $attrs }>танзимоти тавсияҳои барномаро иваз намоед</a>.
 firefox-desktop-download-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
+firefox-desktop-download-mozilla-no-longer-provides = Хадамоти «{ -brand-name-mozilla }» <a href="{ $url }">дигар навсозиҳои амниятиро</a> дар низомҳои амалкунандаи «{ -brand-name-windows } { -brand-name-xp }» ё «{ -brand-name-vista }» таъмин наменамояд, аммо шумо то ҳол метавонед аз «{ -brand-name-firefox }» истифода баред.
 firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
