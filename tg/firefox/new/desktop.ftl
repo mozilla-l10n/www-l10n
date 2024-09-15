@@ -132,7 +132,7 @@ firefox-desktop-download-firefox-was-created = Браузери «{ -brand-name-
 firefox-desktop-download-as-the-internet = Ҳангоме ки фазои Интернет афзоиш ва тағйир меёбад, браузери «{ -brand-name-firefox }» ба ҳуқуқи шумо дар махфияти шахсӣ бардавом диққат медиҳад  — мо онро ҳамчун <a { $attrs }>Ваъдаи ҳафзи маълумоти шахсӣ</a> меномем: Маълумотро кам ҷамъ мекунем. Дар вазъи бехатар нигоҳ медорем. Ягон сир надорем. Маълумоти шумо, фаъолияти шумо дар интернет, ҳаёти шумо дар онлайн ба воситаи браузери «{ -brand-name-firefox }» муҳофизат карда мешавад.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = Браузери «{ -brand-name-firefox }» дар ҳамаи дастгоҳҳои шумо дастрас аст; варақаҳо, таърих ва хатбаракҳои худро бо худ гиред. Ба шумо танҳо як ҳисоби «<a { $attrs }>{ -brand-name-mozilla-account }</a>» лозим аст ва шумо ба имкони ҳамоҳангсозӣ ва дигар маҳсулоти «{ -brand-name-mozilla }» дастрасӣ пайдо мекунед.
+firefox-desktop-download-firefox-is-available-v2 = Браузери «{ -brand-name-firefox }» дар ҳамаи дастгоҳҳои шумо дастрас аст; варақаҳо, таърих ва хатбаракҳои худро бо худ гиред. Ба шумо танҳо як «<a { $attrs }>{ -brand-name-mozilla-account }</a>» лозим аст ва шумо ба имкони ҳамоҳангсозӣ ва дигар маҳсулоти «{ -brand-name-mozilla }» дастрасӣ пайдо мекунед.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ба воситаи абзори «<a { $attrs }>Гирифтани акси экран</a>», ки бевосита ба даруни браузер сохта шудааст, шумо метавонед барои чизҳои дилхоҳ дар Интернет аксҳои баландсифатро бардоред.

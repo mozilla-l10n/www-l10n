@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Лутфан, нишонии почтаи электронии кориро ворид намоед
+newsletter-form-you-must-agree-to = Шумо бояд бо огоҳномаи махфият розӣ шавед
+newsletter-form-your-email-address = Нишонии почтаи электронии шумо
+newsletter-form-please-select-country = Лутфан, кишвар ё минтақаеро интихоб намоед
+newsletter-form-please-select-language = Лутфан, забонеро интихоб намоед
 newsletter-form-select-country-or-region = Кишвар ё минтақаро интихоб кунед
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
 newsletter-form-available-languages = Забонҳои дастрас
