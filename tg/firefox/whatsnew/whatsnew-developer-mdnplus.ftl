@@ -10,7 +10,7 @@ developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Табрик! Акнун шумо версияи навтарини «{ -brand-name-firefox-developer-edition }»-ро ба даст гирифтед.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Боз ҳам { -brand-name-mdn }. <em>Шумо</em> { -brand-name-mdn } доред.
-developer-mdnplus-mdn-is-an-open-source = Лоиҳаи «{ -brand-name-mdn-web-docs }» дар манбаи кушод ва ҳамкории муштарак асос меёбад, ки барои технологияҳои платформаи веб, аз он ҷумла CSS, HTML, JavaScript ва «API»-ҳои интернетӣ ҳуҷҷатҳои техникиро таҳия менамояд. Мо, инчунин, барои барномасозони навомад ва омӯзгорон маҷмуи манбаъҳои омӯзишии мукаммалро таъмин менамоем.
+developer-mdnplus-mdn-is-an-open-source = Лоиҳаи «{ -brand-name-mdn-web-docs }» дар манбаи кушод ва ҳамкории муштарак асос меёбад, ки барои технологияҳои платформаи веб, аз он ҷумла CSS, HTML, JavaScript ва «API»-ҳои интернетӣ ҳуҷҷатҳои техникиро таҳия менамояд. Мо, инчунин, барои барномасозони навомад ва омӯзгорону донишҷӯён маҷмуи манбаъҳои омӯзишии мукаммалро таъмин менамоем.
 developer-mdnplus-support-mdn-and-make = Ба «{ -brand-name-mdn }» кумак расонед <em>ва</em> соҳиби он шавед.
 # CTA button
 developer-mdnplus-get-started = Оғози кор
