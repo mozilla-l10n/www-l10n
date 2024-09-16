@@ -15,7 +15,7 @@ newsletter-form-select-language = 选择语言
 newsletter-form-your-email-here = 在这里输入您的电子邮件地址
 newsletter-form-get-firefox-news = 获取 { -brand-name-firefox } 新闻
 newsletter-form-join-the-community = 加入社区
-newsletter-form-sign-up-to-receive = 订阅 { -brand-name-firefox } 每月一更的最新消息，另外还报道可影响您在线生活的互联网趋势。
+newsletter-form-sign-up-to-receive = 订阅 { -brand-name-firefox } 每月一更的最新消息，另外还报道与您的在线生活息息相关的互联网趋势。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = 我同意 { -brand-name-mozilla } 按照<a href="{ $url }">这份隐私声明</a>所述的方式处理我的信息
