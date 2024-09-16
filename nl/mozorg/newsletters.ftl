@@ -13,26 +13,18 @@ newsletters-mozilla-newsletter = { -brand-name-mozilla }-nieuwsbrief
 newsletters-read-all-about-it-in-our-newsletter = Lees er alles over in onze <span>nieuwsbrief</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Abonneer u hier om op de hoogte te blijven met nieuws van { -brand-name-mozilla }, actie te ondernemen voor een gezonder internet en uw online leven slimmer in te richten.
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = Abonneer u op updates en blijf op de hoogte van { -brand-name-mozilla }-nieuws. Voor ons de beste manier om contact te houden!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Nieuwsbriefbevestiging
 newsletters-thanks-for-subscribing = Bedankt voor het inschrijven!
 newsletters-your-newsletter-subscription = Uw nieuwsbriefinschrijving is bevestigd.
 newsletters-please-be-sure-to-add-our-v2 = Voeg ons verzendadres mozilla@email.mozilla.org toe aan uw adresboek, zodat we uw postvak altijd bereiken.
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Zorg ervoor dat u ons afzenderadres mozilla@e.mozilla.org aan uw adresboek toevoegt, zodat we altijd uw postvak IN kunnen bereiken.
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = De geleverde koppeling is verlopen. <a { $recovery_href }>Vraag hier een nieuwe koppeling aan</a>.
-# Obsolete string
-newsletters-the-supplied-link-has-expired = De verstrekte koppeling is verouderd. U ontvangt een nieuwe in de volgende nieuwsbrief.
 newsletters-something-is-amiss-with = Er is iets mis met ons systeem, sorry! Probeer het later nog eens.
 newsletters-youre-awesome = U bent geweldig!
 newsletters-and-were-not-just-saying = En dat zeggen we niet alleen omdat u uw e-mailadres aan ons hebt toevertrouwd.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Voeg mozilla@email.mozilla.org toe aan uw adresboek, zodat we uw postvak altijd bereiken.
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Zorg ervoor dat u mozilla@e.mozilla.org aan uw adresboek toevoegt, zodat we altijd uw postvak IN kunnen bereiken.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } stipt een diversiteit aan belangrijke zaken aan.
 newsletters-open-your-inbox-and-your = Open uw postvak IN (en uw hart) nog meer – bekijk de andere beschikbare onderwepen.
 newsletters-manage-your-email-preferences = Uw e-mailvoorkeuren beheren
@@ -53,16 +45,11 @@ newsletters-not-all-subscriptions-are = Niet alle abonnementen worden in alle ge
 newsletters-please-select-country = Selecteer een land of regio
 # Form field error message
 newsletters-please-select-language = Selecteer een taal
-# Form field label
-newsletters-format = Opmaak:
-newsletters-text-subscribers-will-receive = Tekstabonnementen ontvangen tweemaal per jaar een e-mailbericht, om de voortzetting van de inschrijving te bevestigen. Deze e-mailberichten kunnen HTML bevatten.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
 newsletters-many-of-our-communications-v2 = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
-# Obsolete string
-newsletters-many-of-our-communications = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-firefox-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Sluit u bij ons aan, om toegang te krijgen tot het volledige assortiment van { -brand-name-firefox }-producten, -kennis en -diensten met één account! Meer informatie over de voordelen vindt u <a href="{ $url }">hier</a>.
@@ -86,7 +73,6 @@ newsletters-youve-been-unsubscribed = U bent uitgeschreven.
 newsletters-were-sorry-to-see-you-go = We vinden het jammer dat u weggaat.
 newsletters-would-you-mind-telling-us = Wilt u ons vertellen waarom u weggaat?
 newsletters-other-v2 = Overig… (maximaal 500 tekens)
-# Obsolete string
 newsletters-other = Anders…
 newsletters-submit = Indienen
 newsletters-thanks-for-telling-us-why = Bedankt voor het melden van de reden van uw vertrek.
@@ -104,11 +90,13 @@ newsletters-were-glad-you-asked = Blij dat u het vraagt!
 newsletters-love-the-web-so-do-we = Gek op het web? Wij ook!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Ontgrendel de wereld van webontwikkeling met onze wekelijkse { -brand-name-mozilla } Developer-nieuwsbrief. Elke editie brengt u programmeertechnieken en aanbevolen procedures, { -brand-name-mdn }-updates, info over opkomende technologieën, tips over ontwikkelaarshulpmiddelen, en meer.
-# Obsolete string
-newsletters-join-thousands-of-developers = Sluit u aan bij duizenden ontwikkelaars zoals u die het beste over webontwikkeling leren.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-make-the-most = Haal het meeste uit { -brand-name-firefox }
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = Stop meer fox in uw inbox.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-sign-up-to-receive-monthly = Schrijf u in om maandelijkse updates van { -brand-name-firefox } en internettrends te ontvangen die uw online leven vormgeven.
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = Bekijk waar het web u kan brengen met maandelijkse { -brand-name-firefox }-tips, -trucs en wetenswaardigheden over internet.
 newsletters-we-are-sorry-but-there = Het spijt ons, maar er was een probleem met ons systeem. Probeer het later nog eens!
 newsletters-thanks-for-updating-your = Bedankt voor het bijwerken van uw e-mailvoorkeuren.
@@ -124,16 +112,10 @@ newsletters-fxa-error-retry = Het spijt ons, maar er is een probleem opgetreden 
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
 newsletters-im-keeping-in-touch-v2 = Ik houd contact met { -brand-name-mozilla } op { -brand-name-twitter }.
-# Obsolete string
-newsletters-im-keeping-in-touch = Ik houd in plaats hiervan contact met { -brand-name-mozilla } via { -brand-name-facebook } en { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Schrijf in, lees na,<br> blijf op de hoogte.
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Schrijf in. Lees na.<br> Maak een verschil.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Word expert in zaken die uw onlineleven beïnvloeden.
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Ontvang de { -brand-name-mozilla }-nieuwsbrief en blijf geïnformeerd over zaken die een uitdaging zijn voor een gezond internet, en hoe u kunt meewerken.
 newsletters-your-email-preferences = Uw e-mailvoorkeuren zijn met succes bijgewerkt.
 newsletters-consider-it-done = Zo goed als gereed
 newsletters-back-to-email-preferences = Terug naar e-mailvoorkeuren
@@ -143,8 +125,6 @@ newsletters-travel-the-internet = Reis beschermd op het internet, op al uw appar
 newsletters-download-the-app = De app downloaden
 newsletters-check-for-data-breaches = Controleren op datalekken
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } is een gratis service, waarmee u kunt zien of u getroffen bent door een online datalek.
 newsletters-sign-in-to-monitor = Aanmelden bij { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Maak kennis met ons moedermerk
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, de non-profit achter { -brand-name-firefox }, plaatst in alles wat we zeggen, bouwen en doen mensen boven winst.
@@ -166,20 +146,14 @@ newsletters-dont-miss-the-latest = Mis geen laatste aankondigingen over onze des
 newsletters-get-involved = Meewerken
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Insights
-# Obsolete string
-newsletters-internet-health-report = Internet Health Report
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publiceert artikelen en verdiepende stukken over kwesties rondom internetgezondheid en betrouwbare AI, waaronder ons jaarlijkse Internetgezondheidsrapport.
-# Obsolete string
-newsletters-keep-up-with-our-annual = Blijf op de hoogte met onze jaarlijkse samenvatting van onderzoek en verhalen op het gebied van privacy en beveiliging, openheid, digitale inclusiviteit, decentralisatie en webgeletterdheid.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Kennis is macht
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Krijg alle kennis die u nodig hebt om online veiliger en slimmer te blijven.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Over Labs
-# Name for the newsletter in Newsletter subscription page
-newsletters-desktop = Desktop
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillians
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -192,9 +166,6 @@ newsletters-news-and-information = Nieuws en informatie gerelateerd aan het welz
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Voormalig University-programma van 2008-2011, nu niet meer actief en opnieuw geïntroduceerd als het { -brand-name-firefox } Student Ambassadors-programma.
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Voormalig University-programma van 2008-2011, nu niet meer actief en opnieuw geïntroduceerd als het Firefox Student Ambassadors-programma.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Zet u in voor het Internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -203,8 +174,6 @@ newsletters-add-your-voice = Voeg uw stem toe aan petities, evenementen en initi
 newsletters-new-product-testing = Nieuwe producten testen
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = Help ons een betere { -brand-name-mozilla } voor u te maken door onze nieuwste producten en functies te testen.
-# Obsolete string
-newsletters-help-us-make-a-better = Help ons een betere { -brand-name-firefox } voor u te maken door onze nieuwste producten en functies te testen.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla }-gemeenschap
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -279,14 +248,10 @@ newsletters-get-how-tos = Ontvang handleidingen, advies en nieuws om uw { -brand
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Speciale aankondigingen over ons jaarlijkse festival, dat is gewijd aan het vormgeven van de toekomst van het open web.
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Speciale aankondigingen over { -brand-name-mozilla }’s jaarlijkse praktijkfestival dat is toegewijd aan het vormen van de toekomst van het open web.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = { -brand-name-mozilla } Nieuws
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = Regelmatige updates om u te helpen uw onlineleven slimmer te leven en actief te worden in ons gevecht voor een beter internet.
-# Obsolete string
-newsletters-regular-updates-to-keep = Regelmatige updates om u op de hoogte en actief te houden in ons gevecht voor een beter internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
@@ -301,27 +266,14 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Speciale aankondigingen helpen u het meeste uit { -brand-name-webmaker } te halen.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Ontvang tips van { -brand-name-mozilla } over hoe u het meeste uit uw account haalt.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Welkomstberichten
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Welkomstberichten die u op weg helpen bij het gebruik van onze producten en diensten.
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = Abonneren op de nieuwsbrief
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = Ontvang nieuws en tips van { -brand-name-mozilla } om veilig en geïnformeerd te blijven over alles wat het internet gezonder maakt.
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = { -brand-name-firefox }-browser
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Uw webbrowser moet worden bijgewerkt om deze pagina te kunnen gebruiken.
 # Name for the newsletter in Newsletter subscription page
