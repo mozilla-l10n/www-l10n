@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Абзорҳо
 footer-refresh-donate = Саҳм гузоштан
+footer-refresh-visit-mozilla-corporations = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».
 footer-refresh-websites-privacy-notice = Огоҳномаи махфияти сомона
 footer-refresh-websites-cookies = Кукиҳо
 footer-refresh-websites-legal = Маълумоти ҳуқуқӣ
