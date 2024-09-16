@@ -1,31 +1,41 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
-firefox-all-release-notes = Iwenniten n lqem
-firefox-all-source-code = Tangalt aɣbalu
-firefox-all-need-help = Tesriḍ tallelt?
-firefox-all-which-browser-would = Anwa iminig i tebɣiḍ ad tessadreḍ?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Sader { -brand-name-firefox-browser } s teqbaylit d wugar n 90 tutlayin-nniḍen
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — tutlayt-ik/im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n yiwiziwen deg umaḍal meṛṛa — ad nerr { -brand-name-firefox-browser } yella deg wugar n 90 n tutlayin.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
-firefox-all-you-are-about-to-download = Aql-ak akken kan ad tassadreḍ:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Iminig:
+firefox-all-browser-v2 = 1. Iminig:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Anagraw:
+firefox-all-platform-v2 = 2. Tiɣerɣert
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Tutlayt:
+firefox-all-language-v2 = 3. Tutlayt:
+firefox-all-download = 4. Asader:
+firefox-all-desktop = Tanarit
+firefox-all-mobile = Aziraz
+firefox-all-recommended = (Yelha)
 firefox-all-lang-multi = Aṭas n tutlayin
+firefox-all-plat-mobile = Android akked iOS
 firefox-all-sorry-we-couldnt-find = Suref-aɣ, ur nufi ara asader i tettnadiḍ. Ma ulac aɣilif ales aɛraḍ neɣ fren asader deg tebdert ddaw-a.
 firefox-all-the-pre-alpha-version = Lqem uzwir alpha i yiseqdacen n tseqdacin n i ḥemmlen ad d-ṣeggden ibugen akked uɛraḍ n tmahilin deg tnesflit-nsent.
 firefox-all-64-bit-installers = Imsebdaden 64 n yibiten
 firefox-all-choose-a-64-bit-installer = Fren amsebdad 64 n yibiten i yiselkimen s usasfar 64 n yibiten, ayen ara yeǧǧen tiḥeṛṛit n wayen ilaqen n tkatut RAM i yal ahil — d ayen ilaqen ladɣa i wuraren akked yisnasen yettlaẓen takatut.
 firefox-all-32-bit-installers = Imsebdaden 32 n yibiten
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Sader { -brand-name-firefox-browser } s teqbaylit d wugar n 90 tutlayin-nniḍen
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — tutlayt-ik/im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n yiwiziwen deg umaḍal meṛṛa — ad nerr { -brand-name-firefox-browser } yella deg wugar n 90 n tutlayin.
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
+firefox-all-release-notes = Iwenniten n lqem
+firefox-all-source-code = Tangalt aɣbalu
+firefox-all-need-help = Tesriḍ tallelt?
 firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
 firefox-all-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox }
@@ -35,7 +45,6 @@ firefox-all-test-your-sites-against = Sekyed asmel-ik s tmahilin i d-iteddun n y
 firefox-all-count-on-stability-and = Ttkel ɣef urkad d sshala n useqdec s yiminig-a { -brand-name-firefox } yettwabna i tkebbanit.
 firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Imsebdaden ARM 64/AArch64
-firefox-all-arm64-installers-optimized = Imsebdaden ARM64/AArch64 ttusesfaren i yiselkimen { -brand-name-windows } i iteddun s Snapdragon.
 firefox-all-product-send-link = Azen aseɣwen n usader ɣer tiliɣri-inek·inem
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
