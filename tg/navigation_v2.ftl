@@ -32,7 +32,7 @@ navigation-v2-view-all-products = Намоиш додани ҳамаи маҳс�
 
 ## Who We Are menu
 
-navigation-v2-mozilla-manifesto = Манифести «{ -brand-name-mozilla }»
+navigation-v2-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Ҳамроҳ шавед
 navigation-v2-leadership = Роҳнамоӣ

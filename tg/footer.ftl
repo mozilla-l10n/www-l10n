@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
-footer-mozilla-manifesto = Манифести «{ -brand-name-mozilla }»
+footer-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 footer-privacy-hub = Маркази махфият
 footer-privacy = Махфият
 footer-press = Матбуот
@@ -19,7 +19,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } барои { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } барои { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
-footer-company = Ширкат
+footer-company = Ташкилоти мо
 footer-press-center = Маркази матбуот
 footer-careers = Мансабҳо
 footer-tools = Абзорҳо
