@@ -26,6 +26,7 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-read-more = Lexoni më tepër
+home-so-what-is-mozilla = Atëherë, ç’është { -brand-name-mozilla }?
 home-learn-about-mofo = Mësoni rreth { -brand-name-mozilla-foundation }
 home-join-the-fight = Bëhuni pjesë e ndeshjes për një internet të shëndetshëm
 home-your-voice-your-code = Zëri juaj. Kodi juaj. Idetë tuaja. Ka me mijëra rrugë se si të jepni ndihmesë te { -brand-name-mozilla }.

@@ -7,6 +7,7 @@
 
 cookie-settings-page-title = Rregullime cookie-sh
 cookie-settings-breadcrumb-link = Faqja e mëparshme
+cookie-settings-how-mozilla-heading = Si i përdor “Cookies” { -brand-name-mozilla }
 cookie-settings-how-does-mozilla-use-subheading = Si i përdor { -brand-name-mozilla } këto të dhëna?
 cookie-settings-save-changes = Ruaji Ndryshimet
 cookie-settings-your-cookie-settings-have = Rregullimet tuaja për “Cookies” u përditësuan.
@@ -19,7 +20,7 @@ cookie-settings-turn-on-javascript = Që të përditësoni rregullimet tuaja pë
 cookie-settings-category-necessary-heading = Të nevojshme
 cookie-settings-category-necessary-what-are-subheading = Ç’janë Cookie-t e Nevojshme?
 cookie-settings-category-necessary-what-are-desc = Këto teknologji janë të domosdoshme për të mbuluar veçori thelbësore sajtesh, fjala vjen, hyrje në një zonë të siguruar të një sajti, ose shtim artikujsh te një shportë blerjesh në internet dhe s’mund të çaktivizohen.
-cookie-settings-category-necessary-how-does-desc = { -brand-name-mozilla } përdor Cookies të Nevojshme për të ofruar veçori thelbësore sajtesh, fjala vjen, hyrje duke përdorur llogarinë tuaj { -brand-name-mozilla }, ose blerje të një pajtimi software-i gjatë përfundimit të blerjes. Pa këto teknologji, veçori thelbësore sajtesh mund të mos funksionojnë.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } përdor Cookies të Nevojshme për të ofruar veçori thelbësore sajtesh, fjala vjen, hyrje duke përdorur llogarinë tuaj { -brand-name-mozilla-account }, ose blerje të një pajtimi software-i gjatë përfundimit të blerjes. Pa këto teknologji, veçori thelbësore sajtesh mund të mos funksionojnë.
 
 ## Preference cookies section
 
