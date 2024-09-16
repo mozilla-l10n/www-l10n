@@ -23,4 +23,5 @@ developer-mdnplus-build-your-perfect-library = Китобхонаи писанд
 developer-mdnplus-no-more-haphazard-hunting = Дигар ягон ҷустуҷӯи бетартибона дар китобхонаи бузурги онлайн лозим нест: бигузор, ки китобдори дохилии шумо рафтори худсарона кунад ва мақолаҳои дӯстдоштаи шуморо барои машваратҳои мусоид дар як ҷой ҷамъ намояд.
 developer-mdnplus-mdn-offline = «{ -brand-name-mdn }» дар реҷаи офлайн
 developer-mdnplus-mdns-entire-library-at-your = Китобхонаи пурраи «{ -brand-name-mdn }» дар зери ангуштони шумо мебошад: яъне офлайн
+developer-mdnplus-taking-your-projects-beyond = Шумо лоиҳаҳои худро дар минтақаҳои дурдаст ё берун аз доираи шабаки Wi-Fi наздиқтарин иҷро карда истодаед? Бо саҳифаҳои дастнорас ва варақаҳои бетартиб видоъ кунед. Ба воситаи «{ -brand-name-mdn-plus }» шумо ба манбаъҳои комили «{ -brand-name-mdn }» бо имкони варақзании мукаммал ҳангоми кор дар реҷаи офлайн дастрасии пурра пайдо мекунед.
 developer-mdnplus-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон.
