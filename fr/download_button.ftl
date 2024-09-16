@@ -66,3 +66,5 @@ download-button-linux-64-v2 = Télécharger pour Linux 64 bits
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Vous utilisez Debian, Ubuntu ou une distribution dérivée de Debian ?<br> Vous pouvez installer notre <a { $attrs }>dépôt APT</a>.
 
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Télécharger avec Microsoft
