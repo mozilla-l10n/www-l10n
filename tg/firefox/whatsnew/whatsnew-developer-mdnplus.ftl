@@ -17,6 +17,7 @@ developer-mdnplus-get-started = Оғози кор
 developer-mdnplus-whats-included = Чизҳоеро, ки дар бар мегирад
 developer-mdnplus-notifications = Огоҳномаҳо
 developer-mdnplus-development-in-real-time = Рушд ва барномарезӣ дар вақти воқеӣ: Огоҳиҳои фармоиширо қабул кунед
+developer-mdnplus-the-web-doesnt-have-a = Интернет низоми сабти тағйиротро дар бар намегирад, аммо «{ -brand-name-mdn }» метавонад дар ин масъала кумак расонад. Вақте ки ҳуҷҷатҳо тағйир меёбанд, хусусиятҳои CSS оғоз меёбанд ва «API»-ҳо бароварда мешаванд, саҳифаҳоро пайгирӣ кунед ва огоҳиҳои фармоиширо қабул намоед.
 developer-mdnplus-collections = Маҷмуаҳо
 developer-mdnplus-build-your-perfect-library = Китобхонаи писандидаи худро созед. Ё имкон диҳед, ки мо онро барои шумо созем.
 developer-mdnplus-mdn-offline = «{ -brand-name-mdn }» дар реҷаи офлайн
