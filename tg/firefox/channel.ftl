@@ -8,6 +8,8 @@
 firefox-channel-desktop = Мизи корӣ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
+firefox-channel-file-a-bug-now = Гузориши фаврӣ дар бораи хато
+firefox-channel-nightly-blog = Блоги «{ -brand-name-nightly }»
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Қайдҳои нашр
 firefox-channel-nightly = { -brand-name-nightly }
