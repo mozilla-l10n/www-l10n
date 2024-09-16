@@ -18,6 +18,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } барои { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } барои { -brand-name-android }
+footer-portions-of-this-content = Қисмҳои ин муҳтаво аз ҷониби иштирокдорони лоиҳаи «mozilla.org» эҷод карда шудаанд ©1998–{ $current_year }. Муҳтаво дар таҳти <a rel="license" href="{ $url }">Иҷозатномаи «{ -brand-name-creative-commons }»</a> дастрас аст.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Ташкилоти мо
 footer-press-center = Маркази матбуот

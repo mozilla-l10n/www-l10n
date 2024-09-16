@@ -14,6 +14,12 @@ newsletter-form-select-language = Забонеро интихоб намоед
 newsletter-form-your-email-here = НИШОНИИ ПОЧТАИ ЭЛЕКТРОНИИ ШУМО
 newsletter-form-get-firefox-news = Хабарҳои «{ -brand-name-firefox }»-ро ба даст оред
 newsletter-form-join-the-community = Ба ҷамъияти мо ҳамроҳ шавед
+newsletter-form-we-will-only-send-v2 = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-mozilla }» мефиристем. Шумо метавонед обунашавии худро дар вақти дилхоҳ қатъ кунед.
+# Obsolete string (expires: 2024-11-01)
+newsletter-form-we-will-only-send = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-mozilla }» мефиристем.
+newsletter-form-we-will-only-send-firefox-v2 = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-firefox }» мефиристем. Шумо метавонед обунашавии худро дар вақти дилхоҳ қатъ кунед.
+# Obsolete string (expires: 2024-11-01)
+newsletter-form-we-will-only-send-firefox = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-firefox }» мефиристем.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
 newsletter-form-get-mozilla-updates = Навсозиҳои «{ -brand-name-mozilla }»-ро ба даст оред
 newsletter-form-available-languages = Забонҳои дастрас
