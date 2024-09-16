@@ -11,6 +11,7 @@ home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Тазтар бо масъулиятшиносӣ
 home-with-2x-the-speed-built-in = Бо суръати дукарата, муҳофизати махфияти дарунсохт ва пуштибонии «{ -brand-name-mozilla }», браузери нави «{ -brand-name-firefox }» барои истифодаи Интернет абзори беҳтарин аст.
 home-we-make-the-internet-safer = Мо Интернетро бехатартар, солимтар ва тезтар барои некӣ мегардонем.
+home-mozilla-is-the-not-for-profit = «{ -brand-name-mozilla }» ташкилоти ғайритиҷоратие мебошад, ки браузери аслии истисноии «{ -brand-name-firefox }»-ро пуштибонӣ мекунад. Мо маҳсулотеро месозем ва сиёсатеро дастгирӣ менамоем, ки Интернетро дар хизмати одамон ройгон нигоҳ медорад.
 home-our-impact = Нуфузи мо
 home-empowering-women-online = Фароҳам овардани имкониятҳои занон дар Интернет
 home-the-coral-project = Лоиҳаи «Coral»
