@@ -41,7 +41,7 @@ firefox-new-download-select-linux = Имкони боргирӣ кардани �
 firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }"></a>ин версияҳоро</a> кӯшиш кунед.
+firefox-new-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }">ин версияҳоро</a> кӯшиш кунед.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
