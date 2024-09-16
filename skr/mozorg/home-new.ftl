@@ -40,12 +40,11 @@ home-the-mozilla-project = { -brand-name-mozilla }منصوبے دا مُن٘ڈھ
 home-eventually-the-open = آخر کار، اوپن-سورس{ -brand-name-mozilla }منصوبہ کوں { -brand-name-firefox }دے ݙاڈھے مقبول پہلے ورژن وِچ بدل ݙِتّا ڳِیا۔
 home-today-mozilla-continues = اَڄ، { -brand-name-mozilla }دُنیاں بھر وِچ پھیلے لَکّھاں فعال بیادری ممبراں دے نال ہِک بہتر انٹرنیٹ کَن آپݨی تحریک جاری رکھے ہوئے ہِے، اخلاقی ٹیک، قابلِ اعتماد اے آئی دی وکالت کرین٘دا پِیا ہِے اَتے رازداری دی پہلی مصنوعات تیار کرین٘دا پِیا ہِے جہڑی لوکاں کوں وَدھ تَکڑائی ݙین٘دی ہِے۔
 home-learn-more-about-mozilla = { -brand-name-mozilla } بارے ٻیا سکھو
-home-get-good-news = خوش { -brand-name-mozilla } خبریں گھنو
-home-get-news-and-tips = ویب کوں ہِک صِحت ون٘د جاء بݨاوݨ آلی ہر شے دے بارے وِچ محفوظ اَتے با خبر رہوݨ کِیتے { -brand-name-mozilla }کنوں خبراں اَتے تجویزاں حاصل کرو۔
 # VPN Feature
 home-featured-product = خاص پروڈکٹ
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span> ورت تے آپݨے مقام تے سرگرمی کوں دھندلا کرو
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = آپݨی تحریک بݨاؤ
+home-mofo-donate-to-mofo-today = ساریاں کیتے انٹرنیٹ کھلا تے قابل رسائی یقینی بݨاوݨ کیتے اڄ { -brand-name-mozilla-foundation } کوں عطیہ ݙیوو۔
 home-mofo-donate = عطیہ ݙیوو
