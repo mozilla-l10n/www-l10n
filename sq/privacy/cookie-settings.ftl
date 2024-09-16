@@ -31,6 +31,7 @@ cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren p
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Statistika
+cookie-settings-category-analytics-what-are-subheading = Ç’janë Cookie-t Statistikore?
 
 ## Consent section
 
