@@ -38,7 +38,7 @@ firefox-accounts-travel-the-internet = Beweg dich mit jedem Gerät sicher durchs
 firefox-accounts-encrypt-your = Verschlüsseln Sie Ihre Netzwerkaktivitäten und verstecken Sie Ihre IP-Adresse
 firefox-accounts-we-never = Wir loggen, verfolgen oder teilen Ihre Netzwerkdaten nie.
 firefox-accounts-save-articles = Speichern Sie Artikel aus dem ganzen Web
-firefox-accounts-read-in-a = Lesen Sie in einem ruhigen privaten Rahmen
+firefox-accounts-read-in-a = Lies in einem ruhigen privaten Rahmen
 
 firefox-accounts-get-it-all-on-every = Hol dir all das auf jedes deiner Geräte – egal welches Betriebssystem du nutzt.
 
