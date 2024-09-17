@@ -17,6 +17,22 @@ navigation-refresh-blog = Blog
 ## Firefox
 
 navigation-refresh-firefox-browsers = Wobhladowaki { -brand-name-firefox }
+navigation-refresh-close-firefox-browsers-menu = Meni wobhladowakow { -brand-name-firefox } začinić
+navigation-refresh-firefox-for-desktop = { -brand-name-firefox } za Desktop
+navigation-refresh-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+navigation-refresh-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
+navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
+navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
+navigation-refresh-all-products = Wšě produkty
+navigation-refresh-firefox-blog = Blog { -brand-name-firefox }
 
 ## Products
 
+navigation-refresh-products = Produkty
+navigation-refresh-close-products-menu = Produktowy meni začinić
+navigation-refresh-mozilla-monitor = { -brand-name-monitor }
+navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn = { -brand-name-vpn }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-fakespot = { -brand-name-fakespot }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }
