@@ -12,20 +12,40 @@ firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe —
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Emoha’ãnga QR ayvu egueru hag̃ua <em>{ $product_name }</em>
+firefox-all-choose-browser = Eiporavo kundahára eku’e hag̃ua
+firefox-all-choose-platform = Eiporavo pyendavusu eku’e hag̃ua
+firefox-all-choose-language = Eiporavo ñe’ẽ eku’e hag̃ua
+firefox-all-change-browser = Eiporavo apopyre ambuéva
+firefox-all-change-platform = Eiporavo pyendavusu ambuéva
+firefox-all-change-language = Eiporavo ñe’ẽ ambuéva
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Eiporavo tysýi tenondegua
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Eipotápa pytyvõ
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = Kundahára:
+firefox-all-browser-v2 = 1. Kundahára:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = Jehechaukaha:
+firefox-all-platform-v2 = 2. Pyendavusu:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = Ñe’ẽ:
+firefox-all-language-v2 = 3. Ñe’ẽ:
+firefox-all-download = 4. Emboguejy:
+firefox-all-desktop = Mesa arigua
+firefox-all-mobile = Pumbyry popegua
+firefox-all-recommended = (Jeroviapyrãva)
 firefox-all-lang-multi = Hetaiterei ñe’ẽ
+firefox-all-plat-mobile = Android ha iOS
 firefox-all-sorry-we-couldnt-find = Rombyasy, ndaikatúi rojuhu ñemboguejyrã ehekáva. Ikatúpa eha’ãjey térã eiporavo ñemboguejyrã tysýi yvy gotyoguápe.
 firefox-all-the-pre-alpha-version = Pe pre-alfa poruhára katupyrýpe g̃uarã ohekaséva jejavy ha péicha ojuhu tembiapoite pyahu ombopapapykuévo.
 firefox-all-64-bit-installers = Mohendaha 64-bit
 firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembiporu’i imbaretéva.
 firefox-all-32-bit-installers = Mohendaha 32-bit
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Emboguejy { $esr_version }
 firefox-all-check-the-system-requirements = Ehechajey apopyvusu jerurepy
 firefox-all-release-notes = Jehaipy rehegua
 firefox-all-source-code = Ayvu reñoiha
