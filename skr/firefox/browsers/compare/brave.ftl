@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } بنام Brave
+# HTML page description
+compare-brave-read-our-comparison = خصوصیات، رازداری تے ورتݨ دی سوکھ  تے { -brand-name-firefox } تے بریوّ براؤزراں دا ساݙا موازنہ پڑھو۔
