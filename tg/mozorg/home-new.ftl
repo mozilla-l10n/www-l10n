@@ -43,9 +43,13 @@ home-volunteer-with-mozilla = Фаъолияти ихтиёрӣ бо «{ -brand-
 home-that-one-time = Он вақт мо манбаи рамзи худро озодона дастрас кардем…
 home-the-mozilla-project = Лоиҳаи «{ -brand-name-mozilla }» дар шаҳри Сан Франтсиско дар соли 1998 таъсис дода шудааст, вақте ки браузери «{ -brand-name-netscape }» тасмими ҷиддӣ гирифтааст, ки барои рушд ва такмили браузер рамзи барнома бояд ба ҷамъият озодона дастрас карда шавад. Он вақт, танҳо як ширкати инҳисорӣ таҷрибаи одамонро дар фазои Интернет идора карда буд.
 home-eventually-the-open = Бо мурури замон, лоиҳаи «{ -brand-name-mozilla }» бо манбаи кушод ба як браузери машҳуртарин дар аввалин версияи «{ -brand-name-firefox }» табдил дода шуд.
+home-today-mozilla-continues = Имрӯз, «{ -brand-name-mozilla }» раванди худро ба самти Интернети беҳтар бо миллионҳо аъзои фаъоли ҷомеа дар саросари ҷаҳон идома медиҳад, ки технологияи ахлоқӣ, зеҳни сунъии (AI) боэътимод ва истеҳсоли маҳсулот бо махфияти аввалиндараҷаеро, ки ба мардум қудрати бештар медиҳанд, ҷонибдорӣ мекунанд.
 home-learn-more-about-mozilla = Маълумоти бештар дар бораи «{ -brand-name-mozilla }»
 # VPN Feature
 home-featured-product = Маҳсули пешниҳодшуда
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Ҷойгиршавӣ ва фаъолияти худро ба воситаи <span>«{ -brand-name-mozilla-vpn }»</span> номаълум кунед
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Ҷомеаи моро боз ҳам созед
+home-mofo-donate-to-mofo-today = Имрӯз ба «{ -brand-name-mozilla-foundation }» саҳми худ гузоред ва боварӣ ҳосил кунед, то Интернет тавонад барои ҳамаи мо кушод ва ҳамеша дастрас боқӣ монад.
 home-mofo-donate = Саҳм гузоштан
