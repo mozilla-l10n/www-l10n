@@ -15,11 +15,14 @@ newsletter-form-select-language = Vælg sprog
 newsletter-form-your-email-here = DIN MAILADRESSE HER
 newsletter-form-get-firefox-news = Få nyheder om { -brand-name-firefox }
 newsletter-form-join-the-community = Deltag i fællesskabet
+newsletter-form-sign-up-to-receive = Tilmeld dig for at modtage månedlige nyhedsopdateringer fra { -brand-name-firefox } og om de  seneste trends, der former vores liv på nettet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Det er helt fint, at { -brand-name-mozilla } håndterer mine oplysninger som beskrevet i <a href="{ $url }">denne privatlivserklæring</a>
+newsletter-form-we-will-only-send-v2 = Vi sender udelukkende information relateret til { -brand-name-mozilla }. Du kan til enhver tid afmelde dig.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Vi vil udelukkende sende dig { -brand-name-mozilla }-relateret information.
+newsletter-form-we-will-only-send-firefox-v2 = Vi sender udelukkende information relateret til { -brand-name-firefox }. Du kan til enhver tid afmelde dig.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Vi vil udelukkende sende dig { -brand-name-firefox }-relateret information.
 newsletter-form-if-you-havent-previously = Hvis du ikke tidligere har bekræftet din tilmelding til et nyhedsbrev fra { -brand-name-mozilla }, kan det være nødvendigt at gøre det. Tjek din indbakke eller spam-mappe for en mail fra os.
