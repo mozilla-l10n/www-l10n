@@ -28,10 +28,13 @@ firefox-all-down-arrow = Tscherna da la glista sutvart
 firefox-all-get-help = Ir per agid
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = Navigatur:
+firefox-all-browser-v2 = 1. Navigatur:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = Plattafurma:
+firefox-all-platform-v2 = 2. Plattafurma:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = Lingua:
+firefox-all-language-v2 = 3. Lingua:
 firefox-all-download = 4. Telechargiar:
 firefox-all-desktop = Desktop
 firefox-all-mobile = Mobil
