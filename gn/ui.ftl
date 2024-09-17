@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ## Common user interface (ui) strings used in global templates and shared widgets.
@@ -21,3 +21,5 @@ ui-show-all = Ehechaukapaite
 ui-hide-all = Emoñemipaite
 ui-learn-more = Eikuaave
 ui-view = Hecha
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Moakãrapu’ã
