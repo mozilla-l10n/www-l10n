@@ -15,10 +15,14 @@ home-product-relay-hide-your = Схавайце свой нумар тэлефо
 home-cta-get-relay = Атрымаць { -brand-name-relay }
 home-product-vpn-trust = VPN, якому можна давяраць
 home-cta-get-vpn = Атрымаць { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = Абараніце сваю прыватную інфармацыю ад брокераў дадзеных
 home-cta-get-monitor = Атрымаць { -brand-name-monitor }
+home-product-fakespot-detect = Выяўляйце падробленыя агляды пакупак
 home-cta-get-fakespot = Атрымаць { -brand-name-fakespot }
 home-read-more = Падрабязней
 home-learn-about-mofo = Даведайцеся аб { -brand-name-mozilla-foundation }
 home-join-the-fight = Далучайцеся да барацьбы за здаровы інтэрнэт
 home-learn-more-about-mozilla = Даведайцеся больш пра { -brand-name-mozilla }
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Стварайце наш рух
 home-mofo-donate = Ахвяраваць
