@@ -27,7 +27,7 @@ download-button-your-system-does-not = Ihr System erfüllt nicht alle <a href="{
 
 download-button-firefox-other-platforms = { -brand-name-firefox } für andere Plattformen & Sprachen
 download-button-update-your-firefox = Aktualisiere bitte { -brand-name-firefox }
-download-button-get-firefox-android = Holen Sie sich { -brand-name-firefox } für { -brand-name-android }
+download-button-get-firefox-android = Hol dir { -brand-name-firefox } für { -brand-name-android }
 download-button-get-firefox-ios = Holen Sie sich { -brand-name-firefox } für { -brand-name-ios }
 download-button-google-play = Bei { -brand-name-google-play } herunterladen
 download-button-free-google-play = Kostenlos erhältlich bei { -brand-name-google-play }
