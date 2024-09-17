@@ -18,7 +18,7 @@ footer-refresh-spotify = Spotify
 footer-refresh-follow-firefox = Kövesse a következőt: @{ -brand-name-firefox }
 footer-refresh-youtube = YouTube
 footer-refresh-company = Cég
-footer-refresh-press-center = Sajtó
+footer-refresh-press-center = Sajtóközpont
 footer-refresh-careers = Álláslehetőségek
 footer-refresh-contact = Kapcsolat
 footer-refresh-support = Támogatás
@@ -26,14 +26,14 @@ footer-refresh-product-help = Termék súgó
 footer-refresh-file-a-bug = Hiba bejelentése
 footer-refresh-localize-mozilla = A { -brand-name-mozilla } honosítása
 footer-refresh-resources = Erőforrások
-footer-refresh-brand-standards = Márka szabványok
+footer-refresh-brand-standards = Márkaszabványok
 footer-refresh-developers = Fejlesztők
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Eszközök
 footer-refresh-donate = Adományozás
 footer-refresh-visit-mozilla-corporations = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét: <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } egyéni mozilla.org közreműködők készítették. A tartalom <a rel="license" { $href }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
+footer-refresh-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" { $href }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-refresh-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
 footer-refresh-websites-cookies = Sütik
 footer-refresh-websites-legal = Jogi információk
