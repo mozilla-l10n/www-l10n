@@ -25,7 +25,10 @@ newsletter-form-we-will-only-send = Мо ба шумо танҳо маълумо
 newsletter-form-we-will-only-send-firefox-v2 = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-firefox }» мефиристем. Шумо метавонед обунашавии худро дар вақти дилхоҳ қатъ кунед.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Мо ба шумо танҳо маълумоти марбут ба «{ -brand-name-firefox }» мефиристем.
+newsletter-form-if-you-havent-previously = Агар шумо қаблан обунашавии худро барои қабул кардани хабарҳои марбут ба «{ -brand-name-mozilla }» тасдиқ накарда бошед, шумо метавонед ин амалро ҳоли зоҳир иҷро намоед. Лутфан, паёмдони почта ё полои мактубҳои номатлуби худро барои ёфтани паёми электронии мо дар ин мавзуъ аз назар гузаронед.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Шумо
+newsletter-form-get-firefox-tips = Маслиҳатҳо, ҳилаҳо, хабарҳо ва дигар чизҳои беҳтаринро аз «{ -brand-name-firefox }» қабул намоед.
+newsletter-form-keep-up-with = Дар бораи ҳамаи навигариҳои<br> браузери «{ -brand-name-firefox }» бохабар бошед.
 newsletter-form-get-mozilla-updates = Навсозиҳои «{ -brand-name-mozilla }»-ро ба даст оред
 newsletter-form-available-languages = Забонҳои дастрас
 newsletter-form-select-country = Интихоби кишвар
@@ -35,6 +38,10 @@ newsletter-form-thanks = Ташаккур!
 newsletter-form-leave-this-field-empty = Ин майдонро холӣ гузоред.
 newsletter-form-yes = Ҳа
 newsletter-form-no = Не
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Шакли обунашавӣ ба хабарҳои мо
+multi-newsletter-form-checkboxes-legend = Ба ман маълумоти зерин лозим аст:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Лутфан, ақаллан яке аз якчанд имкони қабули хабарҳои моро интихоб намоед.
 multi-newsletter-form-title = Интернетро дӯст доред
