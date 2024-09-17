@@ -18,4 +18,6 @@ home-product-monitor-protect-your = Beskyt dine private data mod datamæglere
 home-cta-get-monitor = Hent { -brand-name-monitor }
 home-product-fakespot-detect = Påvis falske shopping-anmeldelser
 home-cta-get-fakespot = Hent { -brand-name-fakespot }
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
