@@ -20,4 +20,5 @@ home-product-fakespot-detect = Påvis falske shopping-anmeldelser
 home-cta-get-fakespot = Hent { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Læs mere
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
