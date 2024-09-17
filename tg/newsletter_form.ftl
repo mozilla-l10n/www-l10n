@@ -45,3 +45,4 @@ multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundatio
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Лутфан, ақаллан яке аз якчанд имкони қабули хабарҳои моро интихоб намоед.
 multi-newsletter-form-title = Интернетро дӯст доред
+multi-newsletter-form-desc = Хабарҳои моро дар бораи навигариҳои «{ -brand-name-mozilla }» қабул кунед ва барои нигоҳ доштани Интернет дар вазъи кушод ва озод кумак расонед.
