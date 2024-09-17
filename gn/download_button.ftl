@@ -52,13 +52,11 @@ download-a-different-build = Emboguejy itujavevaichagua
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Emboguejy { -brand-name-linux } 32-bit
-# Obsolete string
-download-button-linux-64 = Emboguejy { -brand-name-linux } 64-bit
 download-button-linux-32-v2 = Emboguejy Linux-pe g̃uarã 32-bit
 download-button-linux-64-v2 = Emboguejy Linux-pe g̃uarã 64-bit
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = ¿Eiporuhína Debian, Ubuntu térã oñemyasãiva Debian rupive?<br> Avei embohekokuaa ore <a { $attrs }>APT ñeñongatuha</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Egueru Microsoft guive

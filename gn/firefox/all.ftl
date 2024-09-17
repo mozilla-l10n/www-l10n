@@ -5,16 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Ehechajey apopyvusu jerurepy
-firefox-all-release-notes = Jehaipy rehegua
-firefox-all-source-code = Ayvu reñoiha
-firefox-all-need-help = Eikotevẽpa pytyvõ?
-firefox-all-which-browser-would = ¿Mba’e kundahápa emboguejyse?
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Emoha’ãnga QR ayvu egueru hag̃ua <em>{ $product_name }</em>
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Eipotápa pytyvõ
-firefox-all-you-are-about-to-download = Emboguejy potaitéma:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Kundahára:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Jehechaukaha:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Ñe’ẽ:
 firefox-all-lang-multi = Hetaiterei ñe’ẽ
 firefox-all-sorry-we-couldnt-find = Rombyasy, ndaikatúi rojuhu ñemboguejyrã ehekáva. Ikatúpa eha’ãjey térã eiporavo ñemboguejyrã tysýi yvy gotyoguápe.
@@ -22,10 +26,10 @@ firefox-all-the-pre-alpha-version = Pe pre-alfa poruhára katupyrýpe g̃uarã o
 firefox-all-64-bit-installers = Mohendaha 64-bit
 firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembiporu’i imbaretéva.
 firefox-all-32-bit-installers = Mohendaha 32-bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
+firefox-all-check-the-system-requirements = Ehechajey apopyvusu jerurepy
+firefox-all-release-notes = Jehaipy rehegua
+firefox-all-source-code = Ayvu reñoiha
+firefox-all-need-help = Eikotevẽpa pytyvõ?
 firefox-all-choose-which-firefox = Eiporavo mba’e { -brand-name-firefox-browser } emboguejýta ne ñe’ẽme
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Marandu ñemigua
 firefox-all-learn-about-firefox = Eikuaáke { -brand-name-firefox } kundaha rehegua
@@ -36,8 +40,6 @@ firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi iporu ko { -bra
 firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemoasãi ha { -brand-name-firefox-browser } ñangareko.
 firefox-all-arm64-installers = ARM64/AArch64 ñemohenda
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ñemohendaha PCs-pe g̃uarã Windows ha Linux ndive.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = Mohendaha ARM64/AArch64 oikóva PCs { -brand-name-windows } peg̃uarã Snapdragon ndive.
 firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
