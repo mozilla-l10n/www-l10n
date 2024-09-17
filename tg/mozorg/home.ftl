@@ -27,4 +27,6 @@ home-common-voice = { -brand-name-common-voice }
 home-extensions = Васеъшавиҳо
 home-personalize-firefox-with-your = Браузери «{ -brand-name-firefox }»-ро ба воситаи иловаҳои дӯстдоштаи худ ба монанди мудири ниҳонвожаҳо, манъкунандаи рекламаҳо ва дигар ба таври шахсӣ созед.
 home-careers = Мансабҳо
+home-learn-about-the-benefits-of = Дар бораи манфиатҳои кор бо «{ -brand-name-mozilla }» маълумот гиред ва мансабҳои озодро дар саросари ҷаҳон аз назар гузаронед.
 home-need-help = Кумак лозим аст?
+home-get-answers-to-your-questions = Аз дастаи дастгирии мо ба саволҳои худ дар бораи браузери «{ -brand-name-firefox }» ва ҳамаи маҳсулоти «{ -brand-name-mozilla }» ҷавобҳо гиред.
