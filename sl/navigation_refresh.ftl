@@ -23,6 +23,16 @@ navigation-refresh-firefox-for-android = { -brand-name-firefox } za { -brand-nam
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
 navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
+navigation-refresh-all-products = Vsi izdelki
+navigation-refresh-firefox-blog = Blog { -brand-name-firefox }
 
 ## Products
 
+navigation-refresh-products = Izdelki
+navigation-refresh-close-products-menu = Zapri meni Izdelki
+navigation-refresh-mozilla-monitor = { -brand-name-monitor }
+navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn = { -brand-name-vpn }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-fakespot = { -brand-name-fakespot }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }
