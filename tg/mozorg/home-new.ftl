@@ -42,6 +42,7 @@ home-your-voice-your-code = Овози шумо! Рамзи шумо! Фикру
 home-volunteer-with-mozilla = Фаъолияти ихтиёрӣ бо «{ -brand-name-mozilla }»
 home-that-one-time = Он вақт мо манбаи рамзи худро озодона дастрас кардем…
 home-the-mozilla-project = Лоиҳаи «{ -brand-name-mozilla }» дар шаҳри Сан Франтсиско дар соли 1998 таъсис дода шудааст, вақте ки браузери «{ -brand-name-netscape }» тасмими ҷиддӣ гирифтааст, ки барои рушд ва такмили браузер рамзи барнома бояд ба ҷамъият озодона дастрас карда шавад. Он вақт, танҳо як ширкати инҳисорӣ таҷрибаи одамонро дар фазои Интернет идора карда буд.
+home-eventually-the-open = Бо мурури замон, лоиҳаи «{ -brand-name-mozilla }» бо манбаи кушод ба як браузери машҳуртарин дар аввалин версияи «{ -brand-name-firefox }» табдил дода шуд.
 home-learn-more-about-mozilla = Маълумоти бештар дар бораи «{ -brand-name-mozilla }»
 # VPN Feature
 home-featured-product = Маҳсули пешниҳодшуда
