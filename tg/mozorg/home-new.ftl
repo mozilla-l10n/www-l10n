@@ -7,7 +7,7 @@
 
 home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
 home-did-you-know-mozilla-the-maker = Шумо медонед, ки «{ -brand-name-mozilla }» — созандаи «{ -brand-name-firefox }» мебошад — ва мубориза мекунад, то ки Интернет барои ҳар як кас ҳамчун манбаи ҷамъиятии умумиҷаҳонӣ, кушод ва дастрас нигоҳ дошта шавад.
-home-mission-driven = Бомақсад. Ҳалқӣ.
+home-mission-driven = Дорои мақсад мебошад. Бо одамон сохта шудааст.
 home-cta-get-firefox = «{ -brand-name-firefox }»-ро ба даст оред
 home-cta-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
 home-cta-get-relay = «{ -brand-name-relay }»-ро ба даст оред
