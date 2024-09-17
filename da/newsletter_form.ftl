@@ -35,6 +35,8 @@ newsletter-form-thanks = Tak!
 newsletter-form-leave-this-field-empty = Lad dette felt være tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nej
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Tilmeldingsformular til nyhedsbrev
 multi-newsletter-form-checkboxes-legend = Jeg ønsker information om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

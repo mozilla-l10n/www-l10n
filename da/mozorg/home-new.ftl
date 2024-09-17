@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Internet for folk, ikke profit
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
