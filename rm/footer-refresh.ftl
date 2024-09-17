@@ -37,3 +37,6 @@ footer-refresh-portions-of-this-content = Parts dal cuntegn èn ©1998–{ $curr
 footer-refresh-websites-privacy-notice = Directivas da la protecziun da datas da la website
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Infurmaziuns giuridicas
+footer-refresh-community-participation-guidelines = Directivas per la participaziun a la communitad
+footer-refresh-about-this-site = Davart questa website
+footer-refresh-language = Lingua

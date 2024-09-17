@@ -21,3 +21,16 @@ vpn-linux-it-helps-restore = <strong>I gida a restabilir la neutralitad da la ra
 vpn-linux-gui-client = <strong>Client cun interfatscha grafica:</strong> { -brand-name-mozilla-vpn } ha in client cun in’interfatscha grafica (GUI), fertant che tscherts purschiders da VPN offran mo ina versiun per la lingia da commandos (CLI).
 vpn-linux-by-using = Cun utilisar { -brand-name-mozilla-vpn } pos ti reprender la controlla da tias activitads online e proteger tia sfera privata e tias datas. Telechargia oz { -brand-name-mozilla-vpn } e profitescha durant 30 dis dad ina garanzia da restituziun – senza protocollaziun, senza grittas e senza ristga.
 vpn-linux-how-to-install = Co installar { -brand-name-mozilla-vpn } sin Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Sche ti utiliseschas ina da las versiuns sustegnidas dad Ubuntu, datti duas opziuns per installar ils pachets uffizials da mozillavpn disponibels sin <a { $attrs }>Launchpad</a>:
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Via lingia da commandos dad Ubuntu:</strong> Per instrucziuns detagliadas co installar { -brand-name-mozilla-vpn } cun agid da la lingia da commandos e ses utensils, consultescha <a { $attrs }>Co installar { -brand-name-mozilla-vpn } sin in computer cun Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interfatscha d’utilisaziun grafica dad Ubuntu:</strong> Visita <a { $attrs }>quest artitgel</a> e suonda las instrucziuns en la secziun «Adding Personal Package Archives (PPAs)».
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Ultra da quai, per distribuziuns da Linux betg sustegnidas, pos ti telechargiar e cumpilar il code da funtauna dal <a { $attrs }>repository GitHub uffizial</a>.
