@@ -29,6 +29,7 @@ home-mozilla-takes-bets = «{ -brand-name-mozilla } гарав баста, ба 
 # Politico is a brand name for a news organization
 home-politico-cite = «Politico»
 home-join-us-in-shaping = Дар ташаккули зеҳни сунъии (AI) боэътимод ба мо ҳамроҳ шавед
+home-work-on-ai = Фаъолияти «{ -brand-name-mozilla }» дар асоси зеҳни сунъӣ (AI) на танҳо чизи нав аст—мо барои маблағгузорӣ, барномарезӣ ва таблиғи зеҳни сунъӣ (AI), ки ба таври кушод, одилона ва бо масъулият таҳия шудааст, солҳо сарф кардем. Таваҷҷуҳи мо ба эҷоди зеҳни сунъӣ (AI), ки ба мардум хизмат мекунад, шаффофиятро ба ҷойи аввал мегузорад ва манфиати ҷамъиятро, на барномаҳои тиҷоратии корхонаҳо, дастгирӣ мекунад.
 home-read-more = Бештар хондан
 home-so-what-is-mozilla = Инак, «{ -brand-name-mozilla }» чист?
 home-learn-about-mofo = Маълумоти бештар дар бораи «{ -brand-name-mozilla-foundation }»
