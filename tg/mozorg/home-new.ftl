@@ -21,7 +21,9 @@ home-product-relay-hide-your = Рақами телефон ва нишонии �
 home-cta-get-relay = «{ -brand-name-relay }»-ро ба даст оред
 home-product-vpn-trust = Ба ин «VPN» шумо метавонед бовар кунед
 home-cta-get-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
+home-product-monitor-protect-your = Маълумоти шахсии худро аз вайронкунандагони маълумот муҳофизат кунед
 home-cta-get-monitor = «{ -brand-name-monitor }»-ро ба даст оред
+home-product-fakespot-detect = Тақризҳои қалбақиро ҳангоми харидорӣ муайян намоед
 home-cta-get-fakespot = «{ -brand-name-fakespot }»-ро ба даст оред
 # Politico is a brand name for a news organization
 home-politico-cite = «Politico»
