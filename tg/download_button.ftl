@@ -44,6 +44,7 @@ download-button-download = Боргирӣ кардан
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = «{ $channel_name }» дар низоми амалкунандаи «{ $os_version }» ва версияҳои пасттар <a href="{ $help_url }">дигар дастгирӣ намешавад</a>.
+download-button-please-download-esr = Барои истифода кардани «{ -brand-name-firefox }», лутфан, «{ -brand-name-firefox-esr }» (Нашр бо дастгирии тӯлонӣ - ESR)-ро боргирӣ намоед.
 download-firefox-esr = Боргирӣ кардани «{ -brand-name-firefox-esr }»
 download-firefox-esr-32 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 32-бит
 download-firefox-esr-64 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 64-бит

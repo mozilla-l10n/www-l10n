@@ -15,6 +15,7 @@ navigation-v2-firefox-for-desktop = Браузери «{ -brand-name-firefox }»
 navigation-v2-firefox-for-android = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-android }»
 navigation-v2-firefox-for-ios = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-ios }»
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-firefox-blog = Блоги «{ -brand-name-firefox }»
 navigation-v2-release-notes = Қайдҳои нашр
 navigation-v2-view-all-firefox-browsers = Намоиш додани «{ -brand-name-firefox-browsers }»
 
@@ -22,6 +23,7 @@ navigation-v2-view-all-firefox-browsers = Намоиш додани «{ -brand-n
 
 navigation-v2-products = Маҳсулот
 navigation-v2-close-products-menu = Пӯшидани менюи «Маҳсулот»
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -29,13 +31,18 @@ navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Намоиш додани ҳамаи маҳсулот
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Мо кӣ ҳастем
+navigation-v2-close-who-we-are-menu = Пӯшидани менюи «Мо кӣ ҳастем»
 navigation-v2-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Ҳамроҳ шавед
 navigation-v2-leadership = Роҳнамоӣ
+navigation-v2-careers = Мансабҳои озод
+navigation-v2-mozilla-blog = Блоги «{ -brand-name-mozilla }»
 navigation-v2-more-about-mozilla = Бештар дар бораи «{ -brand-name-mozilla }»
 
 ## Innovation menu

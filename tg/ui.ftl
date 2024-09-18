@@ -6,6 +6,7 @@
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
 ui-back-to-home-page = Бозгашт ба саҳифаи асосӣ
+ui-return-to-top = Бозгашт ба боло
 ui-close = Пӯшидан
 ui-previous = Қаблӣ
 ui-next = Навбатӣ
@@ -19,3 +20,5 @@ ui-show-all = Ҳамаро намоиш додан
 ui-hide-all = Ҳамаро пинҳон кардан
 ui-learn-more = Маълумоти бештар
 ui-view = Намоиш
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Пешрафт
