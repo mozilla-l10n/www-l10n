@@ -15,7 +15,9 @@ newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Vi vil berre sende deg { -brand-name-mozilla }-relatert informasjon.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon.
 newsletter-form-if-you-havent-previously = Om du ikkje tidlegare har stadfesta eit abonnement på eit { -brand-name-mozilla }-relatert nyheitsbrev, må du kanskje gjere det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + deg
@@ -30,5 +32,6 @@ newsletter-form-thanks = Takk!
 newsletter-form-leave-this-field-empty = La dette feltet vere tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nei
+multi-newsletter-form-checkboxes-legend = Eg ønskjer informasjon om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
