@@ -7,8 +7,8 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = 關於我們
-navigation-refresh-close-about-us-menu = 關閉關於我們選單
-navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } 宣言
+navigation-refresh-close-about-us-menu = 關閉「關於我們」選單
+navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 參與我們
 navigation-refresh-innovation-projects = 創新專案
