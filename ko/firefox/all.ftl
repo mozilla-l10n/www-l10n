@@ -47,9 +47,19 @@ firefox-all-64-bit-installers = 64비트 설치 프로그램
 firefox-all-choose-a-64-bit-installer = 64 비트 프로세서가 장착된 컴퓨터의 경우, 64 비트 설치 프로그램을 선택하면 개별 프로그램에 더 많은 메모리(RAM)을 할당 할 수 있습니다. 특히 게임과 같은 무거운 프로그램에 유용합니다.
 firefox-all-32-bit-installers = 32비트 설치 프로그램
 firefox-all-microsoft-store-installers = Microsoft 스토어
+firefox-all-choose-a-microsoft-store-installer = 이 옵션은 Microsoft Store 웹 포털에서 { -brand-name-firefox } 제품 페이지를 엽니다. Windows 10 또는 Windows 11을 실행 중인 경우 이 페이지에서 Microsoft Store를 열고 { -brand-name-firefox }를 설치할 수 있습니다. Microsoft Store에서 설치하는 경우 { -brand-name-firefox }에 대한 업데이트도 Microsoft Store에서 처리합니다. Microsoft Store에서 설치할 때 { -brand-name-firefox } 동작 및 기능에 약간의 차이가 있지만 대부분 사용자는 알아차리기 힘든 정도입니다.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } 다운로드
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = 현재 주요 ESR 버전 { $esr_next_major }와 { $esr_current_major } 사이의 전환 기간에 있습니다.
+firefox-all-esr-when-there-is = 주요 버전 업데이트가 있을 때는 항상 몇 가지 { -brand-name-firefox-esr } 포인트 릴리스가 중복되는데, 이는 이전 버전을 사용하는 사람들이 새 버전으로 이동할 준비를 할 수 있도록 하기 위한 것입니다.
+firefox-all-esr-if-you-choose = 이전 ESR 버전을 다운로드하도록 선택한 경우, 전환 기간이 끝나면 자동으로 새 버전으로 업데이트됩니다.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } 릴리스 주기</a>에 대해 자세히 알아보세요.
 firefox-all-check-the-system-requirements = 시스템 요구사항 확인
 firefox-all-release-notes = 출시 정보
 firefox-all-source-code = 소스 코드
@@ -64,6 +74,7 @@ firefox-all-count-on-stability-and = 기업용으로 제공하는 { -brand-name-
 firefox-all-windows-installers-for = 기업 IT용 윈도 설치 관리자를 통해 { -brand-name-firefox-browser }의 구성, 배포 및 관리를 단순화할 수 있습니다.
 firefox-all-arm64-installers = ARM64 / AArch64 설치 프로그램
 firefox-all-arm64-installers-optimized-v2 = Windows와 Linux PC에 최적화된 ARM64/AArch64 설치 프로그램입니다.
+firefox-all-testflight = TestFlight에서 iOS용 { -brand-name-firefox } 테스트를 신청하세요.
 firefox-all-product-send-link = 휴대 전화로 다운로드 링크 보내기
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -87,3 +98,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-ios }용 { -brand-name-firefox }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
