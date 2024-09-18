@@ -29,7 +29,7 @@ navigation-refresh-firefox-blog = { -brand-name-firefox } 部落格
 ## Products
 
 navigation-refresh-products = 產品
-navigation-refresh-close-products-menu = 關閉產品選單
+navigation-refresh-close-products-menu = 關閉「產品」選單
 navigation-refresh-mozilla-monitor = { -brand-name-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
 navigation-refresh-mozilla-vpn = { -brand-name-vpn }
