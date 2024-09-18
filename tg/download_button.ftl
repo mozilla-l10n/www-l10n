@@ -39,6 +39,11 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> барои { 
 download-button-firefox-privacy = Махфияти { -brand-name-firefox }
 download-button-firefox-privacy-notice = Огоҳнома дар бораи махфияти { -brand-name-firefox }
 download-button-download = Боргирӣ кардан
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = «{ $channel_name }» дар низоми амалкунандаи «{ $os_version }» ва версияҳои пасттар <a href="{ $help_url }">дигар дастгирӣ намешавад</a>.
 download-firefox-esr = Боргирӣ кардани «{ -brand-name-firefox-esr }»
 download-firefox-esr-32 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 32-бит
 download-firefox-esr-64 = Боргирӣ кардани «{ -brand-name-firefox-esr }» 64-бит
