@@ -32,3 +32,18 @@ home-join-us-in-shaping = 신뢰할 수 있는 AI를 만드는 데 동참하세�
 home-work-on-ai = { -brand-name-mozilla }의 AI 작업은 새로운 것이 아닙니다. 우리는 수년간 개방적이고 공정하며 책임감 있게 개발된 AI를 위한 자금 지원과 구축, 옹호에 시간을 보냈습니다. 우리의 초점은 기업 의제가 아닌 사람들에게 봉사하고 투명성을 우선시하며 대중의 이익을 지원하는 AI를 만드는 것입니다.
 home-read-more = 자세히 살펴보기
 home-so-what-is-mozilla = 그렇다면 { -brand-name-mozilla }는 무엇인가요?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = 본질적으로 { -brand-name-mozilla }는 { -brand-name-mozilla-foundation }이 이끄는 활동가 조직으로, { -brand-name-mozilla-corporation }와 MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a>, <a { $mozai }>{ -brand-name-mozilla-ai }</a>를 포함한 다양한 벤처를 통해 세상을 변화시킵니다. 우리는 어떻게 다를까요? 우리는 사명을 중심으로 하기 때문데 주주들의 요구 사항이 아니라 인터넷과 온라인의 모든 사람에게 가장 좋을 수 있도록 결정을 내릴 자유가 있습니다. — 사실 우리는 주주들의 요구 사항이 없습니다.
+home-learn-about-mofo = { -brand-name-mozilla-foundation }에 대해 알아보기
+home-join-the-fight = 건강한 인터넷을 위한 싸움에 참여하세요
+home-your-voice-your-code = 목소리, 코드, 아이디어, 문자 그대로 { -brand-name-mozilla }에 기여할 수 있는 방법은 수천 가지가 있습니다.
+home-volunteer-with-mozilla = { -brand-name-mozilla }에서 자원봉사하세요
+home-that-one-time = 우리가 소스코드를 공개한 적이 있었는데요…
+home-the-mozilla-project = { -brand-name-mozilla } 프로젝트는 1998년 샌프란시스코에서 설립되었는데, { -brand-name-netscape } 브라우저가 대중에게 프로그램 코드를 공개하여 구축하고 개선하기로 급진적인 결정을 내렸을 때였습니다. 그 당시에는 한 회사가 사람들이 인터넷을 경험하는 방식에 대한 사실상의 독점권을 가지고 있었습니다.
+home-eventually-the-open = 결국, 오픈소스 { -brand-name-mozilla } 프로젝트는 엄청난 인기를 얻은 { -brand-name-firefox }의 첫 번째 버전으로 바뀌었습니다.
+home-today-mozilla-continues = 오늘날 { -brand-name-mozilla }는 전 세계의 수백만 명의 활동적인 커뮤니티 회원과 함께 더 나은 인터넷을 향한 움직임을 계속하고 있으며, 윤리적인 기술, 신뢰할 수 있는 AI를 옹호하고 사람들에게 더 많은 권한을 부여하는 개인 정보 보호 우선 제품을 생산하고 있습니다.
+home-learn-more-about-mozilla = { -brand-name-mozilla }에 대해 자세히 알아보세요
+# VPN Feature
+home-featured-product = 주요 제품
