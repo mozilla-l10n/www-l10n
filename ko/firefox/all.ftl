@@ -28,10 +28,13 @@ firefox-all-down-arrow = 아래 목록에서 선택
 firefox-all-get-help = 도움말
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = 브라우저:
+firefox-all-browser-v2 = 1. 브라우저:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = 플랫폼:
+firefox-all-platform-v2 = 2. 플랫폼:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = 언어:
+firefox-all-language-v2 = 3. 언어:
 firefox-all-download = 4. 다운로드:
 firefox-all-desktop = 데스크톱
 firefox-all-mobile = 모바일
