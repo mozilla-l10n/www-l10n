@@ -31,3 +31,4 @@ home-politico-cite = Politico
 home-join-us-in-shaping = 신뢰할 수 있는 AI를 만드는 데 동참하세요
 home-work-on-ai = { -brand-name-mozilla }의 AI 작업은 새로운 것이 아닙니다. 우리는 수년간 개방적이고 공정하며 책임감 있게 개발된 AI를 위한 자금 지원과 구축, 옹호에 시간을 보냈습니다. 우리의 초점은 기업 의제가 아닌 사람들에게 봉사하고 투명성을 우선시하며 대중의 이익을 지원하는 AI를 만드는 것입니다.
 home-read-more = 자세히 살펴보기
+home-so-what-is-mozilla = 그렇다면 { -brand-name-mozilla }는 무엇인가요?
