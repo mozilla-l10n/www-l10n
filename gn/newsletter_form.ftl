@@ -14,10 +14,13 @@ newsletter-form-select-country-or-region = Eiporavo tetã térã tendaguasu
 newsletter-form-select-language = Eiporavo ñe’ẽ
 newsletter-form-your-email-here = NE ÑANDUTIVEVE
 newsletter-form-get-firefox-news = Ejapyhy marandu { -brand-name-firefox }-gui
+newsletter-form-join-the-community = Ejuaju tekoha rehe
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Ore roguerahauka marandu { -brand-name-mozilla } rehegua añónte.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Ore roguerahaukáta marandu { -brand-name-firefox } rehegua añónte.
 newsletter-form-if-you-havent-previously = Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe { -brand-name-mozilla } ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ha nde
