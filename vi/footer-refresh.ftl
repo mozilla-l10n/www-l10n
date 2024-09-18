@@ -4,6 +4,7 @@
 
 footer-refresh-get-the-best = Nhận các mẹo, thủ thuật và cập nhật tốt nhất về { -brand-name-firefox }. Chúng tôi hứa sẽ giữ email của bạn riêng tư và an toàn — chỉ những gì tốt nhất về { -brand-name-firefox } sẽ gửi thẳng vào hộp thư đến của bạn.
 footer-refresh-leadership = Lãnh đạo
+footer-refresh-advertise = Quảng cáo với { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Ghi chú phát hành { -brand-name-firefox }
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Theo dõi @{ -brand-name-mozilla }
