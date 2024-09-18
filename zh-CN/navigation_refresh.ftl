@@ -18,7 +18,7 @@ navigation-refresh-blog = 博客
 
 navigation-refresh-firefox-browsers = { -brand-name-firefox } 浏览器
 navigation-refresh-close-firefox-browsers-menu = 关闭 { -brand-name-firefox } 浏览器菜单
-navigation-refresh-firefox-for-desktop = { -brand-name-firefox } 桌面版
+navigation-refresh-firefox-for-desktop = 桌面版 { -brand-name-firefox }
 navigation-refresh-firefox-for-android = { -brand-name-android } 版 { -brand-name-firefox }
 navigation-refresh-firefox-for-ios = { -brand-name-ios } 版 { -brand-name-firefox }
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
