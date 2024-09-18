@@ -20,6 +20,7 @@ newsletter-form-join-the-community = Ejuaju tekoha rehe
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Ore roguerahauka marandu { -brand-name-mozilla } rehegua añónte.
+newsletter-form-we-will-only-send-firefox-v2 = Romondóta marandu { -brand-name-firefox } rehegua. Esẽkuaa chugui ejapose vovénte.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Ore roguerahaukáta marandu { -brand-name-firefox } rehegua añónte.
 newsletter-form-if-you-havent-previously = Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe { -brand-name-mozilla } ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
@@ -35,6 +36,8 @@ newsletter-form-thanks = ¡Aguyje!
 newsletter-form-leave-this-field-empty = Eheja ko kora nandiete.
 newsletter-form-yes = Héẽ
 newsletter-form-no = Nahániri
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Ñemboheraguapyha marandu’ípe g̃uarã
 multi-newsletter-form-checkboxes-legend = Añemomaranduse peteĩ rehegua:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

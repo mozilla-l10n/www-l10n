@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Emboguejy { -brand-name-firefox } inglés-pe (US) ha avei hetaiteve 90 ñe’ẽme oĩva
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
 # Obsolete string (expires 2024-10-30)
