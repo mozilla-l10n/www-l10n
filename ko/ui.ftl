@@ -21,3 +21,5 @@ ui-show-all = 모두 보기
 ui-hide-all = 모두 숨기기
 ui-learn-more = 더 자세히 보기
 ui-view = 보기
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = 홍보

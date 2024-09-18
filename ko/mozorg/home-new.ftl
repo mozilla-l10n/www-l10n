@@ -47,3 +47,9 @@ home-today-mozilla-continues = 오늘날 { -brand-name-mozilla }는 전 세계�
 home-learn-more-about-mozilla = { -brand-name-mozilla }에 대해 자세히 알아보세요
 # VPN Feature
 home-featured-product = 주요 제품
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = <span>{ -brand-name-mozilla-vpn }</span>을 사용하여 위치와 활동을 잘 안보이게 하세요.
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = 우리의 운동을 만듭니다
+home-mofo-donate-to-mofo-today = 오늘 { -brand-name-mozilla-foundation }에 기부하여 모든 사람이 인터넷을 계속 이용할 수 있도록 하세요.
+home-mofo-donate = 기부

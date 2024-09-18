@@ -52,13 +52,11 @@ download-a-different-build = 다른 빌드 다운로드
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32비트 다운로드
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64비트 다운로드
 download-button-linux-32-v2 = Linux 32비트용 다운로드
 download-button-linux-64-v2 = Linux 64비트용 다운로드
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Debian이나 Ubuntu, 다른 Debian 기반 배포판을 사용하시나요?<br> <a { $attrs }>대신 APT 저장소</a>를 설정할 수 있습니다.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Microsoft에서 받으세요

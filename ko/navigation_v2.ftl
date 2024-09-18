@@ -63,6 +63,8 @@ navigation-v2-work-for-a-mission-driven-updated = 사람을 최우선으로 하�
 navigation-v2-mozilla-blog = { -brand-name-mozilla } 블로그
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla }와 우리에게 중요한 문제에 대해 알아보세요.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla }에 대한 자세한 정보
+navigation-v2-impact = 영향
+navigation-v2-find-out-how = 인터넷을 보다 포용적이고 지속 가능하게 만드는 방법에 대해 알아보세요
 
 ## Innovation menu
 
