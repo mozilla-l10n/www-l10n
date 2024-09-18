@@ -7,7 +7,7 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Rólunk
-navigation-refresh-close-about-us-menu = Bezárás Rólunk menü
+navigation-refresh-close-about-us-menu = Névjegy menü bezárása
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } kiáltvány
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Csatlakozzon
