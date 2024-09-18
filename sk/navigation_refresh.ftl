@@ -17,7 +17,22 @@ navigation-refresh-blog = Blog
 ## Firefox
 
 navigation-refresh-firefox-browsers = Prehliadače { -brand-name-firefox }
-navigation-refresh-close-firefox-browsers-menu = Zavrieť ponuku Prehliadače { -brand-name-firefox(case: "gen") }
+navigation-refresh-close-firefox-browsers-menu = Zavrieť ponuku Prehliadače { -brand-name-firefox }
+navigation-refresh-firefox-for-desktop = { -brand-name-firefox } pre počítače
+navigation-refresh-firefox-for-android = { -brand-name-firefox } pre { -brand-name-android }
+navigation-refresh-firefox-for-ios = { -brand-name-firefox } pre { -brand-name-ios }
+navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
+navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
+navigation-refresh-all-products = Všetky produkty
+navigation-refresh-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 
 ## Products
 
+navigation-refresh-products = Produkty
+navigation-refresh-close-products-menu = Zavrieť
+navigation-refresh-mozilla-monitor = { -brand-name-monitor }
+navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn = { -brand-name-vpn }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-fakespot = { -brand-name-fakespot }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }
