@@ -7,6 +7,8 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Om oss
+navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifestet
+navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ver med
 navigation-refresh-blog = Blogg
 

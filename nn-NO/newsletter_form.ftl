@@ -12,6 +12,7 @@ newsletter-form-select-country-or-region = Vel land eller region
 newsletter-form-select-language = Vel språk
 newsletter-form-your-email-here = DI EPOSTADRESSE HER
 newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
+newsletter-form-join-the-community = Ver med i fellesskapet
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
