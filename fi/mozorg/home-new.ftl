@@ -26,6 +26,7 @@ home-product-fakespot-detect = Tunnista valheelliset ostosarvostelut
 home-mozilla-takes-bets = “{ -brand-name-mozilla } lyö vetoa näyttääkseen maailmalle, että luotettavalla tekoälyllä on mahdollista tehdä kannattavaa liiketoimintaa. Se sisältää ihmisoikeuksien, tietosuojan ja avoimuuden asettamisen näiden monimutkaisten järjestelmien toiminnan ytimeen.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Liity kanssamme luomaan luotettavaa tekoälyä
 home-read-more = Lue lisää
 home-so-what-is-mozilla = Mikä { -brand-name-mozilla } on?
 home-learn-about-mofo = Lue lisää { -brand-name-mozilla-foundation }ista
@@ -41,4 +42,6 @@ home-learn-more-about-mozilla = Lue lisää { -brand-name-mozilla }sta
 home-featured-product = Valokeilassa
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Sumenna sijaintisi ja toimintasi käyttämällä <span>{ -brand-name-mozilla-vpn }</span>:ää
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Rakenna liikettämme
 home-mofo-donate = Lahjoita
