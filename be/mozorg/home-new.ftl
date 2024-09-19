@@ -19,10 +19,13 @@ home-product-monitor-protect-your = Абараніце сваю прыватну
 home-cta-get-monitor = Атрымаць { -brand-name-monitor }
 home-product-fakespot-detect = Выяўляйце падробленыя агляды пакупак
 home-cta-get-fakespot = Атрымаць { -brand-name-fakespot }
+home-join-us-in-shaping = Далучайцеся да нас у стварэнні надзейнага ШІ
 home-read-more = Падрабязней
 home-learn-about-mofo = Даведайцеся аб { -brand-name-mozilla-foundation }
 home-join-the-fight = Далучайцеся да барацьбы за здаровы інтэрнэт
 home-learn-more-about-mozilla = Даведайцеся больш пра { -brand-name-mozilla }
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Размыйце сваё месцазнаходжанне і дзейнасць з дапамогай <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Стварайце наш рух
 home-mofo-donate = Ахвяраваць
