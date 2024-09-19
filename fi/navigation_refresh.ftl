@@ -18,6 +18,7 @@ navigation-refresh-blog = Blogi
 
 navigation-refresh-firefox-browsers = { -brand-name-firefox }-selaimet
 navigation-refresh-close-firefox-browsers-menu = Sulje { -brand-name-firefox }-selainvalikko
+navigation-refresh-firefox-for-desktop = { -brand-name-firefox } työpöydälle
 navigation-refresh-firefox-for-android = { -brand-name-firefox } { -brand-name-android }ille
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
