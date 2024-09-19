@@ -15,14 +15,14 @@ newsletter-form-select-language = Tscherner la lingua
 newsletter-form-your-email-here = ENDATAR TIA ADRESSA D'E-MAIL
 newsletter-form-get-firefox-news = Retschaiver novitads da { -brand-name-firefox }
 newsletter-form-join-the-community = Daventa part da la cuminanza
-newsletter-form-sign-up-to-receive = T‘annunzia per retschaiver actualisaziuns mensilas da { -brand-name-firefox } e trends da l‘internet che furman tia vita online.
+newsletter-form-sign-up-to-receive = T’annunzia per retschaiver actualisaziuns mensilas da { -brand-name-firefox } e trends da l’internet che furman tia vita online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Jau accept che { -brand-name-mozilla } tracta mias infurmaziuns tenor <a href="{ $url }">questas reglas da la protecziun da datas</a>
-newsletter-form-we-will-only-send-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-mozilla }. Ti pos annullar l‘inscripziun da tut temp.
+newsletter-form-we-will-only-send-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-mozilla }. Ti pos annullar l’inscripziun da tut temp.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Nus tramettain be infurmaziuns en connex cun { -brand-name-mozilla }.
-newsletter-form-we-will-only-send-firefox-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-firefox }. Ti pos annullar l‘inscripziun da tut temp.
+newsletter-form-we-will-only-send-firefox-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-firefox }. Ti pos annullar l’inscripziun da tut temp.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Nus tramettain be infurmaziuns en connex cun { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Sche ti has anc mai confermà in abunament d'in newsletter davart { -brand-name-mozilla } stos ti forsa ussa far quai. Controllescha sche tia posta entrada u tes filter da spam cuntegna in e-mail da nus.

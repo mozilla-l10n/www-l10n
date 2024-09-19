@@ -10,5 +10,5 @@ vpn-mac-looking-for = Tschertgas ti in VPN per proteger tes Mac? { -brand-name-m
 vpn-mac-protect-your-mac = Protegia tes Mac cun { -brand-name-mozilla-vpn }
 vpn-mac-a-vpn-is =
     In VPN (rait privata virtuala) è essenzial per la protecziun da tias datas e per tia segirezza cura che ti utiliseschas tes Mac.
-    Hackers e purschiders d‘internet pon spiunar ora tias activitads online u engular tias datas persunalas.
-vpn-mac-but-finding = I po dentant esser cumplitgà da chattar in bun VPN. Tscherts èn plauns, instabels u ch‘els registreschan perfin tias activitads online. Perquai avain nus sviluppà { -brand-name-mozilla-vpn }: in VPN svelt, segir e fidà, creà da las persunas che fan era { -brand-name-firefox }.
+    Hackers e purschiders d’internet pon spiunar ora tias activitads online u engular tias datas persunalas.
+vpn-mac-but-finding = I po dentant esser cumplitgà da chattar in bun VPN. Tscherts èn plauns, instabels u ch’els registreschan perfin tias activitads online. Perquai avain nus sviluppà { -brand-name-mozilla-vpn }: in VPN svelt, segir e fidà, creà da las persunas che fan era { -brand-name-firefox }.
