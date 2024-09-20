@@ -7,20 +7,24 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Om oss
+navigation-refresh-close-about-us-menu = Lat att Om oss-menyen
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifestet
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ver med
+navigation-refresh-innovation-projects = Innovasjonsprosjekt
 navigation-refresh-blog = Blogg
 
 ## Firefox
 
 navigation-refresh-firefox-browsers = { -brand-name-firefox }-nettlesarar
+navigation-refresh-close-firefox-browsers-menu = Lat att menyen { -brand-name-firefox } nettlesar
 navigation-refresh-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 navigation-refresh-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
 navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
 navigation-refresh-all-products = Alle produkt
+navigation-refresh-firefox-blog = { -brand-name-firefox }-blogg
 
 ## Products
 
