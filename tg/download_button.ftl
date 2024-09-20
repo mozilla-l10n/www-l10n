@@ -54,5 +54,9 @@ download-a-different-build = Сохти дигареро боргирӣ намо
 
 download-button-linux-32-v2 = Боргирӣ кардан барои «Linux» 32-бит
 download-button-linux-64-v2 = Боргирӣ кардан барои «Linux» 64-бит
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Шумо аз низоми амалкунандаи «Debian», «Ubuntu» ё ягон низоми амалкунандаи дигар дар асоси «Debian» истифода мебаред?<br> Шумо метавонед ба ҷойи он <a { $attrs }>анбори «APT»-и моро </a> насб намоед.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Ба даст овардан аз «Microsoft»

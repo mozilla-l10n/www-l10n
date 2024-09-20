@@ -8,16 +8,23 @@
 
 ## Page heading
 
+contribute-page-title = Имкониятҳои ихтиёрӣ дар «{ -brand-name-mozilla }»
+contribute-how-heading = Шумо чӣ тавр метавонед саҳмгузор бошед…
 
 ## Contribution tasks
 
 contribute-tag-non-technical = Ғайритехникӣ
 contribute-tag-technical = Техникӣ
+contribute-tag-technical-non-technical = Техникӣ ва ғайритехникӣ
 contribute-tag-individual = Инфиродӣ
 contribute-tag-support = Дастгирӣ
+contribute-task-translate-heading = Муҳтаворо тарҷума намоед
+contribute-task-mozilla-codebase-heading = Ба пойгоҳи барномарезии «{ -brand-name-mozilla }» саҳм гузоред
+contribute-task-join-heading = Ба ҷамъияти мо ҳамроҳ шавед
 
 ## Mission
 
+contribute-learn = Маълумот дар бораи «{ -brand-name-mozilla }»
 contribute-donate = Саҳм гузоштан
 
 ## Made by

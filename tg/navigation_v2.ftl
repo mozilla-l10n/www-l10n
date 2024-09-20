@@ -40,10 +40,12 @@ navigation-v2-close-who-we-are-menu = Пӯшидани менюи «Мо кӣ ҳ
 navigation-v2-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Ҳамроҳ шавед
+navigation-v2-join-the-fight-for-a = Ба мубориза барои Интернети солим ҳамроҳ шавед.
 navigation-v2-leadership = Роҳнамоӣ
 navigation-v2-careers = Мансабҳои озод
 navigation-v2-mozilla-blog = Блоги «{ -brand-name-mozilla }»
 navigation-v2-more-about-mozilla = Бештар дар бораи «{ -brand-name-mozilla }»
+navigation-v2-impact = Таъсир
 
 ## Innovation menu
 
