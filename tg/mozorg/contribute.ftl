@@ -25,7 +25,10 @@ contribute-task-join-heading = Ба ҷамъияти мо ҳамроҳ шаве�
 ## Mission
 
 contribute-learn = Маълумот дар бораи «{ -brand-name-mozilla }»
+contribute-read-manifesto = Санадҳои асосии моро мутолиа намоед
 contribute-donate = Саҳм гузоштан
+contribute-follow-mozilla = Пайгирӣ кардани «{ -brand-name-mozilla }»
+contribute-opportunities = Хабарҳо ва имкониятҳои ихтиёрӣ
 
 ## Made by
 
@@ -36,6 +39,8 @@ contribute-donate = Саҳм гузоштан
 ## Support
 
 contribute-support-heading = Гирифтани кумак
+contribute-mozilla-support = Дастгирии «{ -brand-name-mozilla }»
 
 ## Web compat
 
+contribute-report-issue = Гузориш дар бораи мушкилӣ
