@@ -11,11 +11,11 @@ not-found-page-go-back = Zurück
 
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahren Sie mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahre mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.
 
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Laden Sie</a> den { -brand-name-firefox }-Browser für Ihr Mobilgerät oder Ihren Desktop-PC herunter
+not-found-page-download-the-firefox-browser = <a href={ $download }>Lade</a> den { -brand-name-firefox }-Browser für dein Mobilgerät oder deinen Desktop-PC herunter
 
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
