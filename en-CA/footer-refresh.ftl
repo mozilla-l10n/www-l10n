@@ -36,3 +36,7 @@ footer-refresh-visit-mozilla-corporations = Visit <a { $moco_link }>{ -brand-nam
 footer-refresh-portions-of-this-content = Portions of this content are ©1998–{ $current_year } by individual mozilla.org contributors. Content available under a <a rel="license" { $href }>{ -brand-name-creative-commons } license</a>.
 footer-refresh-websites-privacy-notice = Website Privacy Notice
 footer-refresh-websites-cookies = Cookies
+footer-refresh-websites-legal = Legal
+footer-refresh-community-participation-guidelines = Community Participation Guidelines
+footer-refresh-about-this-site = About this site
+footer-refresh-language = Language
