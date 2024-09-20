@@ -11,4 +11,4 @@ error-page-its-probably-just-a-server-error = Es ist wahrscheinlich nur ein Serv
 # Variables:
 #   $firefox (url) - link to https://firefox.com/
 #   $mozilla (url) - link to https://www.mozilla.org/
-error-page-you-can-also-try-refreshing = Sie können auch versuchen, diese Seite zu aktualisieren, oder <a href={ $firefox }>firefox.com</a> oder <a href={ $mozilla }>mozilla.org</a>besuchen
+error-page-you-can-also-try-refreshing = Du kannst auch versuchen, diese Seite zu aktualisieren, oder <a href={ $firefox }>firefox.com</a> oder <a href={ $mozilla }>mozilla.org</a>besuchen
