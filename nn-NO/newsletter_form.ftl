@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Skriv inn ei gyldig e-postadresse.
 newsletter-form-you-must-agree-to = Du må godta personvernerklæringa
 newsletter-form-your-email-address = Di e-postadresse
+newsletter-form-please-select-country = Vel land eller region
 newsletter-form-please-select-language = Vel eit språk
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = namnetditt@eksempel.no
@@ -18,6 +19,7 @@ newsletter-form-join-the-community = Ver med i fellesskapet
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Vi vil berre sende deg { -brand-name-mozilla }-relatert informasjon.
+newsletter-form-we-will-only-send-firefox-v2 = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon. Du kan melde deg av når som helst.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon.
 newsletter-form-if-you-havent-previously = Om du ikkje tidlegare har stadfesta eit abonnement på eit { -brand-name-mozilla }-relatert nyheitsbrev, må du kanskje gjere det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
@@ -33,6 +35,10 @@ newsletter-form-thanks = Takk!
 newsletter-form-leave-this-field-empty = La dette feltet vere tomt.
 newsletter-form-yes = Ja
 newsletter-form-no = Nei
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Påmeldingsskjema for nyheitsbrev
 multi-newsletter-form-checkboxes-legend = Eg ønskjer informasjon om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Gjer vel og vel minst eitt av alternativa i nyheitsbrevet.
+multi-newsletter-form-desc = Få { -brand-name-mozilla }-nyheitsbrev, og hjelp oss med å halde nettet ope og fritt.
