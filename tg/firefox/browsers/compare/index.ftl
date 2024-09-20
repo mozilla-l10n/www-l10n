@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-compare = Муқоиса кардан
+compare-index-firefox-versus-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Google Chrome»
+compare-index-firefox-versus-microsoft-edge = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Microsoft Edge»
+compare-index-firefox-versus-apple-safari = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Apple Safari»
+compare-index-firefox-versus-brave = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Brave»
+compare-index-firefox-versus-opera = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Opera»
