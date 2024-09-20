@@ -6,9 +6,11 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-internet-for-people-not-profit = Internet for folk, ikke profit
+home-mitchell-baker-v2 = Mitchell Baker, bestyrelsesforkvinde, { -brand-name-mozilla-foundation }.
 home-mozilla-makes-privacy = { -brand-name-mozilla } udvikler produkter, der respekterer dit privatliv
 home-product-firefox-browsing = Privat og sikker browsing
 home-cta-get-firefox = Hent { -brand-name-firefox }
+home-product-pocket-articles = De mest spændende artikler på internettet
 home-cta-get-pocket = Hent { -brand-name-pocket }
 home-product-relay-hide-your = Skjul dit telefonnummer og din mailadresse fra spammere
 home-cta-get-relay = Hent { -brand-name-relay }
