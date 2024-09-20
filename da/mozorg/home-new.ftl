@@ -21,4 +21,6 @@ home-cta-get-fakespot = Hent { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-read-more = Læs mere
+home-learn-about-mofo = Læs mere om { -brand-name-mozilla-foundation }
+home-join-the-fight = Vær med i kampen for et sundt internet
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
