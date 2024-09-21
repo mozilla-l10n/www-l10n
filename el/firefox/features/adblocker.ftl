@@ -16,12 +16,23 @@ features-adblocker-an-ad-blocker-is-a-piece = Τα πρόσθετα φραγής
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Οι διαφημίσεις μπορεί να είναι θορυβώδη βίντεο, στοιχεία που σας ακολουθούν στο διαδίκτυο, ιχνηλάτες, cookies τρίτων και πολλά άλλα. Μπορείτε να αναζητήσετε τα πρόσθετα φραγής διαφημίσεων που διατίθενται για το πρόγραμμα περιήγησής σας. Το <a href="{ $firefox }">{ -brand-name-firefox }</a>, για παράδειγμα, διαθέτει <a href="{ $addons }">αυτή τη λίστα εγκεκριμένων προσθέτων φραγής διαφημίσεων</a>. Κάντε κλικ σε αυτή τη λίστα (ή τα εγκεκριμένα πρόσθετα φραγής του προγράμματος περιήγησής σας) και δείτε ποιo ταιριάζει στις ανάγκες σας.
 features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
+features-adblocker-there-are-scores-of-content = Υπάρχουν πολλά πρόσθετα φραγής περιεχομένου, αλλά δείτε μερικές φανταστικές επιλογές που προτείνει η { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = Το <a { $attrs }>Ghostery</a> είναι άλλη μια εξαιρετική επιλογή που δεν αποκλείει μόνο τις διαφημίσεις, αλλά παρέχει και πρόσθετα οφέλη κατά της καταγραφής.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Αυτές οι επεκτάσεις λειτουργούν άψογα τόσο στο <a { $attrs1 }>{ -brand-name-firefox } για υπολογιστές</a> όσο και στο <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Υπάρχει το <a href="{ $url }">AdBlocker Ultimate</a> που αποκλείει κάθε διαφήμιση. Μερικές από τις αγαπημένες σας εφημερίδες και περιοδικά εξαρτώνται από τις διαφημίσεις. Αν αποκλείουν πάρα πολλοί χρήστες τις διαφημίσεις τους, θα είναι καταστροφικό για τις επιχειρήσεις αυτές.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες διαφημίσεις είναι οι χειρότερες. Αποκλείστε τα με το <a href="{ $url }">Popup Blocker</a> και δεν θα δείτε ποτέ ξανά κανένα άλλο ενοχλητικό αναδυόμενο παράθυρο.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Ένα από τα πιο δημοφιλή πρόσθετα φραγής διαφημίσεων για { -brand-name-chrome }, { -brand-name-safari } και { -brand-name-firefox } είναι το <a href="{ $url }">AdBlock</a>. Χρησιμοποιήστε το για αποκλεισμό διαφημίσεων στο { -brand-name-facebook }, το { -brand-name-youtube } και το { -brand-name-hulu }.
@@ -32,8 +43,6 @@ features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχ�
 features-adblocker-on-firefox-you-can-use = Στο { -brand-name-firefox }, μπορείτε να χρησιμοποιήσετε τις ρυθμίσεις <a href="{ $privacy }">απορρήτου</a> ή <a href="{ $blocking }">φραγής περιεχομένου</a> για να αποκτήσετε ακόμη περισσότερο έλεγχο όσον αφορά τους ιχνηλάτες διαφημίσεων.
 features-adblocker-choose-your-level-of-protection = Επιλέξτε το επίπεδο προστασίας σας
 features-adblocker-to-start-click-on-the-v2 = Για να ξεκινήσετε, κάντε κλικ στην ασπίδα στα αριστερά της γραμμής διευθύνσεων σε οποιαδήποτε ιστοσελίδα και επιλέξτε «Ρυθμίσεις προστασίας». Θα ανοίξει η ενότητα «Απόρρητο και ασφάλεια» των ρυθμίσεων του { -brand-name-firefox } σε νέα καρτέλα. Θα δείτε ένα μπλε αναδυόμενο παράθυρο με διαφορετικές επιλογές.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Για να ξεκινήσετε, κάντε κλικ στο μενού του { -brand-name-firefox } στην πάνω δεξιά γωνία της οθόνης σας. Είναι τρεις γραμμές, η μία πάνω στην άλλη. Στο αναδιπλούμενο μενού, κάντε κλικ στο "Φραγή περιεχομένου". Θα δείτε ένα μπλε αναδυόμενο με διαφορετικές επιλογές.
 features-adblocker-go-easy-with-standard = Ήπια φραγή με την Τυπική λειτουργία
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +67,3 @@ features-adblocker-in-some-cases-an-ad-blocker = Μερικές φορές, η �
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Αν θέλετε να μάθετε περισσότερα σχετικά με τη φραγή διαφημίσεων, υπάρχουν εκατοντάδες επεκτάσεις φραγής διαφημίσεων για το { -brand-name-firefox } και άλλα προγράμματα περιήγησης. Αν θέλετε να δοκιμάσετε τα πρόσθετα φραγής διαφημίσεων που χρησιμοποιεί το { -brand-name-firefox }, <a href="{ $url }">κάντε κλικ εδώ για λήψη</a> του προγράμματος περιήγησης που δίνει προτεραιότητα στο απόρρητο.
