@@ -43,6 +43,7 @@ vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšykne nałož
 vpn-features-stronger-malware = Mócnjejšy šćit pśeśiwo škódnej software
 vpn-features-support-for-custom-dns = Pódpora za swójski DNS
 vpn-features-flexible = Fleksibelny
+vpn-features-set-different-locations = Nastajśo rozdźělne městna za kuždy rejtarik w { -brand-name-firefox }
 vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
 vpn-features-we-never-log = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy

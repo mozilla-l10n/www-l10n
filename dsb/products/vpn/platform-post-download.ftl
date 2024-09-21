@@ -12,6 +12,7 @@
 vpn-windows-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-windows } se ześěgujo…
 vpn-windows-go-to-your-downloads = Pśejźćo k swójomu zarědnikoju ześěgnjenjow a klikniśo dwójcy na dataju .msi.
+vpn-windows-a-progress-bar = Póstupowa grěda se zjawijo a instalaciski proces se zachopijo
 
 ## Mac download page
 
