@@ -11,6 +11,9 @@ history-history-of-the-mozilla-project = Таърихи лоиҳаи «{ -brand-
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Лоиҳаи «{ -brand-name-mozilla }» дар соли <a href="{ $coderush }">1998</a> дар ҳамроҳӣ бо <a href="{ $sourcerelease }">нашри манбаи рамзи браузери «{ -brand-name-netscape }»</a> эҷод карда шудааст.
 history-it-was-intended-to-harness = Ин лоиҳа барои истифодаи нерӯи эҷодии ҳазорҳо нафару барномасозон дар Интернет ва баланд бардоштани сатҳи бесобиқаи навоварӣ дар бозори браузер пешбинӣ шуда буд.
+# Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = Дар давоми <a href="{ $firstyear }">соли аввал</a>, аъзои нави ҷомеаи мо аз саросари ҷаҳон аллакай ба имконоти нави браузер саҳм гузоштанд, хусусиятҳои мавҷударо такмил доданд ва ба идоракунӣ ва банақшагирии худи лоиҳа машғул шуданд.
 history-for-more-information-about = Барои маълумоти бештар дар бораи таърихи «{ -brand-name-mozilla }», ба моводи зерин нигаред:
 history-mozilla-bookmarks = Хатбаракҳои «{ -brand-name-mozilla }»
 history-timeline-of-mozilla-project = Ҷадвали кори лоиҳаи «{ -brand-name-mozilla }»
