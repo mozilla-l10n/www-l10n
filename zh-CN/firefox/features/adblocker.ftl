@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = 广告拦截器是一种可用于�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 这些广告可能是嘈杂的视频广告，并会以跟踪器、第三方Cookie 等型态在网络上的各个角落跟踪你。若要使用广告拦截器，可直接搜索您的浏览器所适用的附加组件。例如，<a href="{ $firefox }">{ -brand-name-firefox }</a>就有<a href="{ $addons }">这些经过审核的广告拦截附加组件</a>。看看有哪个符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 寻找合适的广告拦截器
+features-adblocker-there-are-scores-of-content = 世界上的内容拦截器有几十种{ -brand-name-mozilla } 精选了一些…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> 被誉为广告拦截的典范之作以其有效性和效率着称。高度可定制性开箱即用。
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> 拦截无处不在的广告。它能拦截网络上的广告、社交媒体上的广告也能拦截恼人的弹窗不过如果您只想抑制弹窗<a { $attrs2 }>Popup Blocker</a> 不错)。
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一个不错的选择它不仅可以拦截广告而且还有其他反跟踪功能。
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = 这些扩展在 <a { $attrs1 }>{ -brand-name-firefox } 桌面版</a>与 <a { $attrs2 }>Android</a> 上均能正常工作。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> 可以让您摆脱所有广告，但消费者也要注意。某些您喜爱的报纸跟杂志的生存依赖于广告，若太多人屏蔽广告可能会使他们经营困难。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = 弹出式广告是最糟的。可以使用 <a href="{ $url }">Popup Blocker</a> 来拦截，这样就再也不会看到恼人的窗口跳出来了。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> 是 { -brand-name-chrome }、{ -brand-name-safari } 和 { -brand-name-firefox } 上最受欢迎的广告拦截器之一。可用来屏蔽 { -brand-name-facebook }、{ -brand-name-youtube } 和 { -brand-name-hulu }上的广告。
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = 使用内容拦截，创造无跟踪�
 features-adblocker-on-firefox-you-can-use = 您可以在 { -brand-name-firefox } 使用<a href="{ $privacy }">隐私</a>或<a href="{ $blocking }">内容拦截</a>设置来更有效地控制广告跟踪器。
 features-adblocker-choose-your-level-of-protection = 选择您的保护级别
 features-adblocker-to-start-click-on-the-v2 = 首先点击地址栏左侧的盾牌，然后选择“保护设置”。这会在新标签页中打开 { -brand-name-firefox } 设置“隐私与安全”面板，您将看到一个提供多种选择的蓝色窗口。
-# Obsolete string
-features-adblocker-to-start-click-on-the = 首先，请点击屏幕右上角的 { -brand-name-firefox } 菜单按钮，它看起来像是三条线堆叠在一起。在下拉菜单中单击“内容拦截”。您应该会看到有不同选项的蓝色窗口。
 features-adblocker-go-easy-with-standard = 使用标准模式轻松完成
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = 某些情况下，广告拦截�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = 如需详细了解广告拦截器，目前有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>这款隐私为先的浏览器。
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = 若您想详细了解广告拦截器，这里有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>隐私优先的浏览器。
