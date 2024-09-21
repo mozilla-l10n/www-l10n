@@ -27,7 +27,7 @@ vpn-mobile-servers-headline = Kết nối với các máy chủ trên toàn th�
 vpn-mobile-servers-copy = Duyệt từ Brazil. Trò chơi đến từ Nhật Bản. Stream từ Úc. { -brand-name-mozilla-vpn } cho phép bạn thay đổi vị trí điện thoại hoặc máy tính của mình thành một trong { $servers } máy chủ ở hơn { $countries } quốc gia.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-mobile-devices-headline = Bảo vệ lên tới { $devices } thiết bị
+vpn-mobile-devices-headline = Bảo vệ lên đến { $devices } thiết bị
 vpn-mobile-devices-copy = Gói đăng ký của bạn giúp bạn truy cập không giới hạn vào dịch vụ VPN an toàn của chúng tôi trên điện thoại thông minh, máy tính bảng và máy tính để bàn của bạn cho { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } và { -brand-name-linux }.
 vpn-mobile-speed-headline = Tốc độ đáng kinh ngạc, không có hạn chế
 vpn-mobile-speed-copy = Truyền phát video, chơi trò chơi, mua sắm và duyệt web với tốc độ cực nhanh. { -brand-name-mozilla-vpn } sẽ không giới hạn băng thông hoặc làm chậm điện thoại thông minh của bạn.

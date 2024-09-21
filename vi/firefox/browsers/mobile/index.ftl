@@ -20,14 +20,9 @@ browsers-mobile-get-enhanced-tracking-protection = Nhận trình chống theo d�
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Bạn đang tìm kiếm một trình duyệt di động được sắp xếp hợp lý, siêu nhanh với các tính năng bảo mật cấp độ tiếp theo? { -brand-name-firefox-focus } tự động xóa tất cả lịch sử duyệt web của bạn từ thời điểm bạn mở trình duyệt cho đến khi bạn đóng trình duyệt.
 browsers-mobile-compare = So sánh
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Xem cách { -brand-name-firefox } dành cho máy tính để bàn so sánh với trình duyệt khác.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Xem cách { -brand-name-firefox } dành cho máy tính để bàn so sánh lên đến bảy trình duyệt khác.
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Xem cách { -brand-name-firefox } dành cho máy tính so sánh với trình duyệt khác.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Xem cách { -brand-name-firefox } dành cho <strong>máy tính để bàn</strong> so sánh với trình duyệt khác.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Xem cách { -brand-name-firefox } dành cho <strong>máy tính để bàn</strong> so sánh lên đến bảy trình duyệt khác.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Xem cách { -brand-name-firefox } dành cho <strong>máy tính</strong> so sánh với trình duyệt khác.
 browsers-mobile-download = Tải xuống
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

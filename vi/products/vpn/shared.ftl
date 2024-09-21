@@ -27,10 +27,10 @@ vpn-shared-features-activity-logs = Không có nhật ký hoạt động trực 
 vpn-shared-features-access-countries = Truy cập vào máy chủ ở hơn { $countries } quốc gia
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Tùy chọn kết nối với { $devices } thiết bị
+vpn-shared-features-devices = Tùy chọn kết nối lên đến { $devices } thiết bị
 # Variables:
 #   $devices (number) - number of available devices
-vpn-shared-features-protection = Bảo vệ lên tới { $devices } thiết bị
+vpn-shared-features-protection = Bảo vệ lên đến { $devices } thiết bị
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries

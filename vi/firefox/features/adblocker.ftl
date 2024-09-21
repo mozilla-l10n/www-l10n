@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = Trình chặn quảng cáo là m�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Những quảng cáo này có thể là quảng cáo video lớn, quảng cáo theo bạn trên web, trình theo dõi, cookie của bên thứ ba và hơn thế nữa. Để sử dụng trình chặn quảng cáo, bạn có thể tìm kiếm các tiện ích mở rộng của trình chặn quảng cáo có sẵn trong trình duyệt của bạn. Chẳng hạn,<a href="{ $firefox }">{ -brand-name-firefox }</a> có <a href="{ $addons }">danh sách các tiện ích mở rộng trình chặn quảng cáo được phê duyệt này</a>. Nhấp vào danh sách này (hoặc trình chặn quảng cáo được phê duyệt cho trình duyệt của bạn) và xem cái nào phù hợp với nhu cầu của bạn.
 features-adblocker-find-the-right-ad-blocker = Tìm trình chặn quảng cáo phù hợp với bạn
+features-adblocker-there-are-scores-of-content = Hiện có rất nhiều trình chặn nội dung nhưng dưới đây là một số tùy chọn tuyệt vời được chọn bởi { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Được nhiều người coi là tiêu chuẩn vàng trong số các trình chặn quảng cáo, <a { $attrs }>uBlock Origin</a> nổi tiếng về tính hiệu quả và hiệu suất của nó. Có tùy chỉnh rất cao, nhưng cũng hoạt động rất tốt ngay khi "đã cài đặt xong".
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> chặn quảng cáo ở khắp mọi nơi. Nó chặn quảng cáo trên web, phương tiện truyền thông xã hội, thậm chí cả những cửa sổ bật lên gây phiền nhiễu đó (tuy nhiên, nếu bạn chỉ muốn chặn các cửa sổ bật lên, bạn có thể sử dụng <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> là một lựa chọn tuyệt vời khác không chỉ chặn quảng cáo mà còn cung cấp thêm lợi ích chống theo dõi.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Tiện ích mở rộng này hoạt động rất tốt trên cả <a { $attrs1 }>{ -brand-name-firefox } dành cho máy tính</a> và <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Ở đó, <a href="{ $url }">AdBlocker Ultimate</a> loại bỏ mọi quảng cáo, nhưng hãy cẩn thận. Một số tờ báo và tạp chí yêu thích của bạn dựa vào quảng cáo. Quá nhiều người chặn quảng cáo của họ có thể khiến họ không hoạt động.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Quảng cáo bật lên là tồi tệ nhất. Chặn chúng bằng <a href="{ $url }">trình chặn bật lên</a> và không bao giờ phải đối phó với một cửa sổ bật lên gây phiền nhiễu nữa.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Một trong những trình chặn quảng cáo phổ biến nhất dành cho { -brand-name-chrome }, { -brand-name-safari } và { -brand-name-firefox } là <a href="{ $url }">AdBlock</a>. Sử dụng nó để chặn quảng cáo trên { -brand-name-facebook }, { -brand-name-youtube } và { -brand-name-hulu }.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = Tạo vùng không theo dõi với tr
 features-adblocker-on-firefox-you-can-use = Trên { -brand-name-firefox }, bạn có thể sử dụng các cài đặt <a href="{ $privacy }">Riêng tư</a> hoặc <a href="{ $blocking }">Chặn nội dung</a> để có thêm quyền kiểm soát quảng cáo trình theo dõi hiện cho bạn quảng cáo.
 features-adblocker-choose-your-level-of-protection = Chọn mức độ bảo vệ của bạn
 features-adblocker-to-start-click-on-the-v2 = Để bắt đầu, hãy nhấp vào khiên ở bên trái thanh địa chỉ trên bất kỳ trang web nào và chọn “Cài đặt bảo vệ”. Thao tác này sẽ mở bảng điều khiển Cài đặt Riêng tư & Bảo mật { -brand-name-firefox } trong thẻ mới. Bạn sẽ thấy một cửa sổ bật lên màu xanh lam với các lựa chọn khác nhau.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Để bắt đầu, nhấp vào menu { -brand-name-firefox } ở góc trên bên phải màn hình của bạn. Có vẻ như ba dòng xếp chồng lên nhau. Trong menu thả xuống, nhấp vào Chặn nội dung. Bạn sẽ thấy một cửa sổ bật lên màu xanh với các lựa chọn khác nhau.
 features-adblocker-go-easy-with-standard = Dễ dàng với chế độ Tiêu chuẩn
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = Trong một số trường hợ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Nếu bạn muốn tìm hiểu thêm về chặn quảng cáo, có hàng trăm tiện ích mở rộng trình chặn quảng cáo có sẵn cho { -brand-name-firefox } và các trình duyệt khác. Nếu bạn muốn dùng thử trình chặn quảng cáo mà { -brand-name-firefox } sử dụng, hãy <a href="{ $url }">nhấp vào đây để tải xuống</a> một trình duyệt đặt quyền riêng tư lên hàng đầu.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Nếu bạn muốn tìm hiểu thêm về chặn quảng cáo, có hàng trăm tiện ích mở rộng trình chặn quảng cáo có sẵn cho { -brand-name-firefox } và các trình duyệt khác. Nếu muốn dùng thử trình chặn quảng cáo mà { -brand-name-firefox } sử dụng, hãy <a href="{ $url }">nhấp vào đây để tải xuống</a> một trình duyệt đặt quyền riêng tư lên hàng đầu.
