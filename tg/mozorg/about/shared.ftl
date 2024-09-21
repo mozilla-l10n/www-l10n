@@ -16,3 +16,5 @@ about-shared-our-products = Маҳсулоти мо
 about-shared-software-innovations = Нармафзор ва дигар навовариҳое, ки барои пешбурди рисолати мо таҳия карда шудаанд.
 about-shared-get-involved = Ҳамроҳ шавед
 about-shared-volunteer = Дар як қатор соҳаҳои фаъолияти гуногун саҳмгузори ихтиёрӣ шавед.
+vision-for-the-web = Нигоҳи «{ -brand-name-mozilla }» нисбат ба рушди Интернет
+read-about-our-vision = Дар бораи нигоҳи мо нисбат ба рушди Интернет ва нияти мо нисбат бо чӣ гуна мо ин нигоҳро амалисозӣ мекунем, хонед.
