@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = 廣告封鎖器就是一套用來�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 這些廣告可能是吵雜的影片廣告，並且會以追蹤器、第三方 Cookie 等型態會在網路上的各個角落追蹤你。若要使用廣告封鎖器，可以直接搜尋您的瀏覽器所適用的附加元件。舉例來說，<a href="{ $firefox }">{ -brand-name-firefox }</a> 就有<a href="{ $addons }">這些經過審核的廣告封鎖附加元件</a>。可以看看此清單中有哪套符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 尋找最合適您的廣告封鎖器
+features-adblocker-there-are-scores-of-content = 市場上有許多內容封鎖器但這裡有一些由 { -brand-name-mozilla } 精選的選項…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> 被許多人認為是廣告封鎖器的黃金標準以有效而聞名。可高度自訂的同時「開箱即用」也能正常使用。
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> 可在任何地方阻擋廣告。它會封鎖網頁、社交媒體上的所有廣告甚至是那些討人厭的彈出視窗但如果您只是不想讓彈出視窗來那麼<a { $attrs2 }>Popup Blocker</a>也能好用)。
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一個不只封鎖廣告還提供反追踪好處的好選擇。
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = 這些擴充套件在 <a { $attrs1 }>{ -brand-name-firefox } 桌面版</a>與 <a { $attrs2 }>Android</a> 都能正常使用。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> 可以讓您擺脫所有廣告，但買家也要小心。某些您喜愛的報紙跟雜誌需要倚靠廣告才能過活，若太多人封鎖廣告的話可能會讓他們難以經營。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = 彈出式廣告是最糟的。可以使用<a href="{ $url }">彈出式廣告封鎖器</a>來阻擋，這樣就再也不會看到討人厭的視窗跳出來了。
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = 另一套在 { -brand-name-chrome }、{ -brand-name-safari } 及 { -brand-name-firefox } 上皆可使用的知名廣告封鎖器是 <a href="{ $url }">AdBlock</a>。可以用來封鎖 { -brand-name-facebook }、{ -brand-name-youtube } 及 { -brand-name-hulu } 上的廣告。
