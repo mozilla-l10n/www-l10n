@@ -19,18 +19,18 @@ features-adblocker-find-the-right-ad-blocker = Encontre o bloqueador de publicid
 features-adblocker-there-are-scores-of-content = Existem dezenas de bloqueadores de conteúdo por todo o lado, mas aqui estão algumas opções fantásticas com curadoria da { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
-features-adblocker-considered-by-many-to-be-the = Considerado por muitos como o padrão-ouro entre os bloqueadores de anúncios, o <a { $attrs }>uBlock Origin</a> é conhecido pela sua eficácia e eficiência. Totalmente personalizável, mas também funciona de forma brilhante assim que sai da caixa.
+features-adblocker-considered-by-many-to-be-the = Considerado por muitos como a referência entre os bloqueadores de anúncios, o <a { $attrs }>uBlock Origin</a> é reconhecido pela sua eficácia e eficiência. É totalmente personalizável, mas também funciona de forma brilhante por predefinição.
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = O <a { $attrs1 }>AdGuard AdBlocker</a> isola a publicidade em todo o lado. Bloqueia anúncios na web, redes sociais, até mesmo aqueles pop-ups irritantes (no entanto, se está à procura de apenas suprimir pop-ups, não há como dar errado com o <a { $attrs2 }>Popup Blocker</a> ).
+features-adblocker-adguard-adblocker-blunts = O <a { $attrs1 }>AdGuard AdBlocker</a> isola a publicidade em todo o lado. Bloqueia anúncios na web, redes sociais, até mesmo aqueles pop-ups irritantes (no entanto, se está à procura de apenas suprimir pop-ups, o <a { $attrs2 }>Popup Blocker</a> também funciona bastante bem).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = O <a { $attrs }>Ghostery</a> é outra ótima opção que não só bloqueia anúncios, mas fornece benefícios adicionais anti-rastreamento.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Estas extensões funcionam lindamente no <a { $attrs1 }>{ -brand-name-firefox } para computador</a> e no <a { $attrs2 }>Android</a>.
+features-adblocker-these-extensions-work-beautifully = Estas extensões funcionam perfeitamente no <a { $attrs1 }>{ -brand-name-firefox } para computador</a> e no <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
