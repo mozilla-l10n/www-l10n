@@ -47,3 +47,4 @@ vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
 vpn-features-we-never-log = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy
 vpn-features-built-transparently = Transparentnje we wótwórjonem žrědle wuwity
+vpn-features-people-over-profits = Luźe pśed profitom

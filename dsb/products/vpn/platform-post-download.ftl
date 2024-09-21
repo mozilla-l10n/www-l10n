@@ -26,6 +26,7 @@ vpn-download-not-in-country = Bóžko { -brand-name-mozilla-vpn } njejo we wašo
 vpn-open-the-file = 1. Wócyńśo dataju
 vpn-launch-the-app = 2. Startujśo nałoženje
 vpn-login-or-signup = 3 Pśizjawśo se abo registrěrujśo se
+vpn-enter-your-email = Zapódajśo swóju e-mailowu adresu, aby se pśizjawił abo registrěrował a zachopśo
 vpn-turn-on-vpn = 4. Zmóžniśo VPN
 
 ## FAQ Strings
