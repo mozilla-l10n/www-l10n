@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
+### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-# Page title
-compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+# New strings for updated page
+vpn-windows-get-a-vpn = Awi VPN i Windows seg { -brand-name-mozilla }
