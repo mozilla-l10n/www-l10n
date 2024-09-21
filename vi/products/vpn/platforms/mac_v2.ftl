@@ -12,7 +12,7 @@ vpn-mac-a-vpn-is = Một VPN (mạng riêng ảo) là điều bắt buộc phả
 vpn-mac-but-finding = Nhưng việc tìm kiếm một VPN tốt có thể khó khăn. Một số chậm, không đáng tin cậy và thậm chí lưu nhật ký hoạt động trực tuyến của bạn. Đó là lý do tại sao chúng tôi xây dựng { -brand-name-mozilla-vpn }, một VPN nhanh, an toàn và đáng tin cậy từ những người đã mang đến cho bạn { -brand-name-firefox }.
 vpn-mac-with-mozilla-vpn = Với { -brand-name-mozilla-vpn } bạn có thể:
 vpn-mac-get-one-click = Nhận quyền riêng tư bằng một cú nhấp chuột với giao diện đơn giản và thân thiện với người dùng.
-vpn-mac-connect-up-to = Kết nối tối đa 5 thiết bị khác nhau với một gói thuê bao, bao gồm Mac, cũng như iOS, Windows, Linux và Android.
+vpn-mac-connect-up-to = Kết nối tối đa 5 thiết bị khác nhau với một gói đăng ký, bao gồm Mac, cũng như iOS, Windows, Linux và Android.
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Sử dụng VPN của chúng tôi nhiều như bạn muốn. Không giống như một số VPN chỉ bảo vệ một lượng dữ liệu nhất định mỗi tháng, chúng tôi không giới hạn lưu lượng truy cập của bạn. Cho dù bạn sử dụng bao nhiêu dữ liệu, nó sẽ luôn được bảo vệ.
 vpn-mac-get-device-level = Nhận mã hóa cấp thiết bị cho lưu lượng truy cập của bạn. Không giống như các giải pháp khác, chỉ mã hóa lưu lượng truy cập trình duyệt của bạn, { -brand-name-mozilla-vpn } mã hóa tất cả, bảo vệ lưu lượng truy cập internet của bạn bất kể ứng dụng nào có liên quan.

@@ -54,19 +54,10 @@ vpn-download-faq-working = Làm cách nào để biết VPN đang hoạt động
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } hiển thị các chỉ số trực quan về trạng thái hiện tại của nó cả trên thanh công cụ và màn hình chính của ứng dụng, giúp bạn dễ dàng biết liệu hoạt động trực tuyến của mình có được bảo vệ hay không. Các chỉ báo này cho phép bạn xác nhận khi điều hướng của bạn ở chế độ riêng tư và an toàn. Ngoài ra, khi được kết nối, bạn có thể truy cập <a href="{ $monitor }">https://monitor.mozilla.org/</a> để xác nhận xem địa chỉ IP của bạn đã được ẩn hay chưa. Để biết thêm chi tiết, vui lòng xem <a href="{ $connected }">Làm thế nào để tôi biết { -brand-name-mozilla-vpn } đã được kết nối hay chưa?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } hiển thị các chỉ số trực quan về trạng thái hiện tại của nó cả trên thanh công cụ và màn hình chính của ứng dụng, giúp bạn dễ dàng biết liệu hoạt động trực tuyến của mình có được bảo vệ hay không. Các chỉ báo này cho phép bạn xác nhận khi điều hướng của bạn ở chế độ riêng tư và an toàn. Ngoài ra, khi được kết nối, bạn có thể truy cập <a href="{ $monitor }">https://monitor.firefox.com/</a> để xác nhận xem địa chỉ IP của bạn có bị ẩn hay không. Để biết thêm chi tiết, vui lòng xem <a href="{ $connected }">Làm cách nào để biết { -brand-name-mozilla-vpn } đã được kết nối hay chưa?</a>.
 vpn-download-faq-add-device = Làm thế nào để tôi thêm thiết bị khác?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v3 = Thêm thiết bị khác cũng đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn } và sau đó đăng nhập vào { -brand-name-mozilla-account } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">Cách thêm thiết bị vào thuê bao { -brand-name-mozilla-vpn } của bạn</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Thêm một thiết bị khác đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn }, sau đó đăng nhập vào { -brand-name-firefox-account } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">Cách thêm thiết bị vào thuê bao { -brand-name-mozilla-vpn } của bạn</a>.
+vpn-download-faq-adding-another-v3 = Thêm thiết bị khác cũng đơn giản như tải xuống và cài đặt phần mềm { -brand-name-mozilla-vpn } và sau đó đăng nhập vào { -brand-name-mozilla-account } hiện có của bạn trên thiết bị mới. Để biết thêm chi tiết, vui lòng xem <a href="{ $subscription }">cách thêm thiết bị vào gói đăng ký { -brand-name-mozilla-vpn } của bạn</a>.
 vpn-download-faq-best-practices = Một số thực tiễn tốt nhất về VPN là gì?
 vpn-download-faq-traffic = Nếu mục tiêu của bạn là bảo vệ lưu lượng truy cập internet trong khi vẫn giữ tốc độ nhanh, thì tốt nhất bạn nên chọn vị trí máy chủ càng gần vị trí thực của bạn càng tốt. Điều này sẽ tăng độ tin cậy và tốc độ kết nối của bạn vì lưu lượng truy cập internet của bạn sẽ không cần phải đi đường vòng đáng kể trước khi đến đích trên web.
 vpn-download-faq-experience = Nếu mục tiêu của bạn là trải nghiệm internet như bạn đang ở một nơi nào khác trên thế giới, bạn có thể chọn một vị trí máy chủ ở đó và tất cả các trang web bạn truy cập sẽ hiển thị như bạn đang ở đó.

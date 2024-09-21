@@ -1,14 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
-
-# Meta strings
-
-vpn-windows-page-title = { -brand-name-mozilla-vpn } cho { -brand-name-windows } 10
 vpn-windows-page-description = Bảo vệ toàn bộ PC của bạn bằng mạng riêng ảo (VPN) từ { -brand-name-mozilla }, một công ty tiên phong về internet đã đấu tranh cho quyền riêng tư kỹ thuật số của bạn kể từ năm 1998.
 # Windows strings
 vpn-windows-hero-headline = Luôn kết nối và bảo vệ với { -brand-name-mozilla-vpn } cho { -brand-name-windows } 10
@@ -24,10 +20,10 @@ vpn-windows-servers-headline = Truy cập các máy chủ trên khắp thế gi�
 #   $countries (number) - number of available countries
 #   $servers (number) - number of available servers
 vpn-windows-servers-copy = Với hơn { $servers } máy chủ ở hơn { $countries } quốc gia, bạn có thể làm bất cứ điều gì bạn cần để hoàn thành trực tuyến — duyệt, mua sắm, kiểm tra tin tức — bằng cách đặt vị trí thiết bị của bạn ở gần như mọi nơi trên thế giới.
-vpn-windows-devices-headline = Một gói thuê bao cho tất cả các thiết bị của bạn
+vpn-windows-devices-headline = Một gói đăng ký cho tất cả các thiết bị của bạn
 # Variables:
 #   $devices (number) - number of available devices
-vpn-windows-devices-copy = Thuê bao { -brand-name-mozilla-vpn } cho phép bạn truy cập không giới hạn vào dịch vụ VPN an toàn của chúng tôi trên tối đa { $devices } thiết bị cho { -brand-name-windows } (bao gồm cả { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } và { -brand-name-ios }.
+vpn-windows-devices-copy = Gói đăng ký { -brand-name-mozilla-vpn } cho phép bạn truy cập không giới hạn vào dịch vụ VPN an toàn của chúng tôi trên tối đa { $devices } thiết bị cho { -brand-name-windows } (bao gồm cả { -brand-name-windows } 10), { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } và { -brand-name-ios }.
 vpn-windows-speed-headline = Không hạn chế băng thông
 vpn-windows-speed-copy = Phát trực tuyến, trò chơi, mua sắm và khám phá web với tốc độ cực nhanh. Với dữ liệu không giới hạn và không giới hạn băng thông, { -brand-name-mozilla-vpn } sẽ không cản trở bạn bất cứ gì.
 vpn-windows-log-headline = Riêng tư của bạn là ưu tiên hàng đầu của chúng tôi

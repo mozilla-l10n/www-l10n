@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
@@ -30,7 +30,7 @@ vpn-linux-servers-copy = { -brand-name-mozilla-vpn } cung cấp cho bạn khả 
 # Variables:
 #   $devices (number) - number of available devices
 vpn-linux-devices-headline = Kết nối lên đến { $devices } thiết bị
-vpn-linux-devices-copy = Với một gói thuê bao, bạn có thể nhận được { -brand-name-mozilla-vpn } lên đến { $devices } thiết bị khác nhau trên các hệ điều hành, bao gồm { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } và { -brand-name-ios } cho { -brand-name-iphone } và { -brand-name-ipad }.
+vpn-linux-devices-copy = Với một gói đăng ký, bạn có thể nhận được { -brand-name-mozilla-vpn } lên đến { $devices } thiết bị khác nhau trên các hệ điều hành, bao gồm { -brand-name-linux }, { -brand-name-windows }, { -brand-name-android }, { -brand-name-mac-short } và { -brand-name-ios } cho { -brand-name-iphone } và { -brand-name-ipad }.
 vpn-linux-speed-headline = Cực nhanh với dữ liệu không giới hạn
 vpn-linux-speed-copy = Chơi trò chơi, phát trực tuyến phim và chương trình cũng như lướt web với tốc độ cực nhanh và không hạn chế băng thông — { -brand-name-mozilla-vpn } sẽ không giới hạn.
 vpn-linux-log-headline = Dữ liệu của bạn thuộc về bạn

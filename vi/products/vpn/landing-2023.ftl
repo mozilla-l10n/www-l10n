@@ -37,7 +37,7 @@ vpn-landing-extra-security-whole-device = Bảo mật bổ sung: bảo vệ toà
 vpn-landing-see-all-features = Xem tất cả các tính năng
 vpn-landing-fram-a-brand-you-can-trust = Từ một thương hiệu bạn có thể tin tưởng
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } là một công ty internet phi lợi nhuận đang đấu tranh cho một trang web lành mạnh kể từ năm 1998.
-vpn-landing-one-subscription-for-all-your = Một gói thuê bao cho tất cả các thiết bị của bạn
+vpn-landing-one-subscription-for-all-your = Một gói đăng ký cho tất cả các thiết bị của bạn
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Cung cấp bởi { -brand-name-mozilla }.</strong> Đấu tranh cho quyền riêng tư của bạn từ 1998.
 vpn-landing-learn-more-from-our-experts = Tìm hiểu thêm từ các chuyên gia của chúng tôi

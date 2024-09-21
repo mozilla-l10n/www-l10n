@@ -57,8 +57,8 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } là nhãn hiệu đã
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading-v2 = Chọn gói thuê bao phù hợp với bạn
-vpn-shared-one-subscription-heading = Một gói thuê bao cho tất cả các thiết bị của bạn
+vpn-shared-pricing-variable-heading-v2 = Chọn gói đăng ký phù hợp với bạn
+vpn-shared-one-subscription-heading = Một gói đăng ký cho tất cả các thiết bị của bạn
 vpn-shared-choose-a-plan-sub-heading = Chọn một gói phù hợp với bạn
 vpn-shared-pricing-variable-sub-heading = Tất cả các gói của chúng tôi bao gồm:
 vpn-shared-pricing-recommended-offer = Được đề xuất
@@ -83,7 +83,7 @@ vpn-shared-save-percent-on = Tiết kiệm { $percent }% với { -brand-name-moz
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *khi bạn đăng ký gói 12 tháng
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-with-an-annual-subscription = *với thuê bao hàng năm
+vpn-shared-with-an-annual-subscription = *với gói hàng năm
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Tổng cộng { $amount }
@@ -125,20 +125,12 @@ vpn-subnav-learn-about-vpns = Tìm hiểu thêm về VPN
 vpn-subnav-download-mozilla-vpn = Tải xuống { -brand-name-mozilla-vpn }
 vpn-subnav-features = Tính năng
 
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Chúng tôi sử dụng cookie để hiểu đối tác liên kết nào đã dẫn bạn đến { -brand-name-mozilla-vpn }. Chúng tôi không chia sẻ thông tin nhận dạng cá nhân với các đối tác của mình. Đọc <a { $attrs }>chính sách riêng tư</a> của chúng tôi.
-vpn-shared-affiliate-notification-reject = Từ chối
-vpn-shared-affiliate-notification-ok = OK
-
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Tăng quyền riêng tư của bạn với { -brand-name-vpn } + { -brand-name-relay }
 # Variables:
 #   $url (string) - link to https://relay.firefox.com/premium/
-vpn-add-relay-to-protect = Thêm { -brand-name-firefox-relay } vào thuê bao của bạn để bảo vệ email và số điện thoại của bạn. <a href="{ $url }">Tìm hiểu thêm</a>.
+vpn-add-relay-to-protect = Thêm { -brand-name-firefox-relay } vào gói đăng ký của bạn để bảo vệ email và số điện thoại của bạn. <a href="{ $url }">Tìm hiểu thêm</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Thêm <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>

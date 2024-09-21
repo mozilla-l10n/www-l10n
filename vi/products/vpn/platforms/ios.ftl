@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
@@ -29,7 +29,7 @@ vpn-ios-servers-copy = Mua sắm từ Thụy Sĩ. Truyền phát từ Canada. Du
 vpn-ios-devices-headline = Nhận quyền truy cập cho { $devices } thiết bị
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = Với một gói thuê bao, bạn có thể nhận { -brand-name-mozilla-vpn } với lên đến { $devices } thiết bị khác nhau, bao gồm { -brand-name-ios } cho { -brand-name-iphone } và { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } và { -brand-name-linux }.
+vpn-ios-devices-copy = Với một gói đăng ký, bạn có thể nhận { -brand-name-mozilla-vpn } với lên đến { $devices } thiết bị khác nhau, bao gồm { -brand-name-ios } cho { -brand-name-iphone } và { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } và { -brand-name-linux }.
 vpn-ios-speed-headline = Tốc độ tối đa. Dữ liệu không giới hạn.
 vpn-ios-speed-copy = Chơi trò chơi trực tuyến, phát trực tuyến các chương trình yêu thích của bạn và lướt web với tốc độ cực nhanh. Đừng lo lắng về băng thông của bạn trên { -brand-name-mozilla-vpn } — nó không giới hạn.
 vpn-ios-log-headline = Dữ liệu của bạn vẫn ở chế độ riêng tư. Đó là nó.

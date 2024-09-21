@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
@@ -27,7 +27,7 @@ vpn-android-servers-headline = Hơn { $servers } ở hơn { $countries } quốc 
 vpn-android-servers-copy = Với { -brand-name-mozilla-vpn }, bạn có thể đặt vị trí của điện thoại { -brand-name-android } của mình thành một trong hơn { $countries } quốc gia. Điều đó có nghĩa là bạn xem web giống như một trang web địa phương từ quốc gia mà bạn đã kết nối. Đó là một cách thú vị và thú vị để trải nghiệm web từ một góc nhìn mới.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-android-devices-headline = Một thuê bao cho lên đến { $devices } thiết bị
+vpn-android-devices-headline = Một gói đăng ký cho lên đến { $devices } thiết bị
 # Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-copy = { -brand-name-mozilla-vpn } cung cấp cho bạn khả năng kết nối { $devices } thiết bị khác nhau bao gồm { -brand-name-android }, { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows } và { -brand-name-linux }. Sử dụng nó trên điện thoại thông minh, máy tính để bàn, máy tính xách tay, máy tính bảng của bạn và hơn thế nữa.

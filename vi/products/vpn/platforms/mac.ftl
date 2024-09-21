@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
@@ -26,7 +26,7 @@ vpn-mac-servers-headline = Truy cập các máy chủ trên khắp thế giới
 vpn-mac-servers-copy = Đặt vị trí của { -brand-name-mac-short } theo lựa chọn của bạn trong số hơn { $servers } máy chủ ở hơn { $countries } quốc gia. Điều này cho phép bạn kiểm tra tin tức, mua sắm, phát trực tuyến và lướt web từ mọi nơi.
 # Variables:
 #   $devices (number) - number of available devices
-vpn-mac-devices-headline = Bảo vệ { $devices } thiết bị với một gói thuê bao
+vpn-mac-devices-headline = Bảo vệ { $devices } thiết bị với một gói đăng ký
 vpn-mac-devices-copy = Máy tính, máy tính bảng và điện thoại thông minh của bạn đều xứng đáng được bảo mật. Sử dụng { -brand-name-mozilla-vpn } để bảo vệ lên tới { $devices } thiết bị { -brand-name-mac-short } và { -brand-name-ios } (cũng như { -brand-name-windows }, { -brand-name-linux } và { -brand-name-android }).
 vpn-mac-speed-headline = Không cần phải hy sinh tốc độ
 vpn-mac-speed-copy = Dữ liệu không giới hạn và không giới hạn băng thông có nghĩa là bạn có thể khám phá các góc của Internet như bạn thường làm — với mức độ bảo mật nâng cao.
