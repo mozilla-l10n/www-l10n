@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = En annonsblockerare är en mjukvar
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Dessa annonser kan vara höga videoannonser, annonser som följer dig på nätet, spårare, kakor från tredje part och mer. Om du vill använda en annonsblockerare kan du söka efter tillägg för annonsblockerare som är tillgängliga i din webbläsare. <a href="{ $firefox }">{ -brand-name-firefox }</a> har till exempel <a href="{ $addons }">den här listan över godkända tillägg för annonsblockering</a>. Klicka på den här listan (eller annonsblockerare som är godkända för din webbläsare) och se vilka som passar dina behov.
 features-adblocker-find-the-right-ad-blocker = Hitta rätt annonsblockerare för dig
+features-adblocker-there-are-scores-of-content = Det finns mängder av innehållsblockerare där ute, men här är några fantastiska alternativ utvalda av { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> anses av många vara guldstandarden bland annonsblockerare och är känt för sin effektivitet. Mycket anpassningsbar, men den fungerar också briljant direkt "ur lådan."
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> dämpar annonsering överallt. Den blockerar annonser på webben, sociala medier, till och med irriterande popup-fönster (men om du bara vill dölja popup-fönster kan det inte gå fel med <a { $attrs2 }>Popup Blocker</a> ).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> är ett annat bra val som inte bara blockerar annonser utan ger ytterligare antispårningsfördelar.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Dessa tillägg fungerar utmärkt på både <a { $attrs1 }>{ -brand-name-firefox } för stationära datorer</a> och <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Det finns <a href="{ $url }">AdBlocker Ultimate</a> som tar bort varje enskild annons, men köpare se upp. Några av dina favorittidningar och tidskrifter är beroende av reklam. Om alltför många människor blockerar sina annonser kan webbplatsen upphöra.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Popup-annonser är de värsta. Blockera dem med <a href="{ $url }">Popup Blocker</a> och du behöver aldrig se en irriterande popup igen.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = En av de mest populära annonsblockerarna för { -brand-name-chrome }, { -brand-name-safari } och { -brand-name-firefox } är <a href="{ $url }">AdBlock</a>. Använd den för att blockera annonser på { -brand-name-facebook }, { -brand-name-youtube } och { -brand-name-hulu }.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = Skapa en spårningsfri zon med inneh�
 features-adblocker-on-firefox-you-can-use = På { -brand-name-firefox } kan du använda inställningar för <a href="{ $privacy }">Sekretess</a> eller <a href="{ $blocking }">Innehållsblockering</a> för att få ännu mer kontroll över annonsspårare som visar annonserna.
 features-adblocker-choose-your-level-of-protection = Välj din skyddsnivå
 features-adblocker-to-start-click-on-the-v2 = För att börja, klicka på skölden till vänster om adressfältet på valfri webbsida och välj "Skyddsinställningar." Detta öppnar panelen { -brand-name-firefox } Inställningar Sekretess & säkerhet på en ny flik. Du bör se en blå popup med olika val.
-# Obsolete string
-features-adblocker-to-start-click-on-the = För att starta, klicka på { -brand-name-firefox }-menyn i det övre högra hörnet på skärmen. Det ser ut som tre rader staplade ovanpå varandra. Klicka på innehållsblockering i rullgardinsmenyn. Du bör se en blå pop-up med olika val.
 features-adblocker-go-easy-with-standard = Ta det lungt med standardläget
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = I vissa fall kan en annonsblock
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Om du vill lära dig mer om annonsblockering finns det hundratals annonsblockeringstillägg tillgängliga för { -brand-name-firefox } och andra webbläsare. Om du vill prova de annonsblockerare som { -brand-name-firefox } använder, <a href="{ $url }">klicka här för att ladda ner</a> en webbläsare som sätter integritet främst.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Om du vill lära dig mer om annonsblockering finns det hundratals tillägg för annonsblockering tillgängliga för { -brand-name-firefox } och andra webbläsare. Om du vill testa de annonsblockerare som { -brand-name-firefox } använder, <a href="{ $url }">klicka här för att ladda ner</a> en webbläsare som sätter integriteten först.
