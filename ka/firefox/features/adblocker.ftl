@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = რეკლამების შ
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალის მდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად შეგიძლიათ მოიძიოთ შესაბამისი დამატება თქვენი ბრაუზერისთვის. მაგალითად <a href="{ $firefox }">{ -brand-name-firefox }-ს</a> აქვს <a href="{ $addons }">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის განკუთვნილ რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რაც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
 features-adblocker-find-the-right-ad-blocker = მონახეთ რეკლამების თქვენთვის შესაფერისი შემზღუდავი
+features-adblocker-there-are-scores-of-content = უამრავი შიგთავსის შემზღუდავია, თუმცა გთავაზობთ რამდენიმე ფანტასტიკურ საშუალებას { -brand-name-mozilla }-ს მიერ…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = ბევრის აზრით, სარეკლამო ბლოკატორების ოქროს სტანდარტად, <a { $attrs }>uBlock Origin</a> ცნობილია თავისი მოქმედებითა და შედეგიანობით. მეტად მორგება, თუმცა ასევე ბრწყინვალედ მუშაობს „თავის გარეშე“.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> აფერხებს რეკლამებს. იგი ზღუდავს რეკლამებს ინტერნეტში, სოციალურ ქსელებში, მომაბეზრებელ ამომხტარ ფანჯრებსაც კი (თუმცა, თუ ამომხტომი ფანჯრების დათრგუნვა გსურთ, <a { $attrs2 }>Popup Blocker</a>“ შეგიძლიათ გამოიყენოთ ).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> კიდევ ერთი შესანიშნავი არჩევანია, რომელიც არა მხოლოდ ზღუდავს რეკლამებს, არამედ უზრუნველყოფს თვალთვალის საწინააღმდეგო დამატებით უპირატესობებსაც.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = ეს გაფართოებები მშვენივრად მუშაობს როგორც <a { $attrs1 }>{ -brand-name-firefox } კომპიუტერზე</a> ასევე <a { $attrs2 }>Android-ზე</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = შეგიძლიათ იხილოთ <a href="{ $url }">AdBlocker Ultimate</a>, რომელიც ყველანაირ რეკლამას აცილებს, მაგრამ პასუხისმგებლობით გამოყენებას მოითხოვს. ზოგიერთი თქვენი საყვარელი საგაზეთო და ახალი ამბების საიტი სწორედ რეკლამებით იღებს შემოსავალს. თუ ბევრი ადამიანი შეზღუდავს რეკლამებს, შესაძლოა, ეს მათი საქმიანობისთვის დამღუპველი აღმოჩნდეს.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = ყველაზე საშინელი ამომხტომი რეკლამებია. მათ შესაზღუდად გამოიყენეთ <a href="{ $url }">Popup Blocker</a> და აღარასდროს შეწუხდებით ამომხტარი სარკლმებით.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = ფართოდ გავრცელებული რეკლამების შემზღუდავი ბრაუზერებისთვის { -brand-name-chrome }, { -brand-name-safari } და { -brand-name-firefox }, არის <a href="{ $url }">AdBlock</a>. გამოიყენეთ რეკლამების შესაზღუდად საიტებზე { -brand-name-facebook }, { -brand-name-youtube } და { -brand-name-hulu }.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = შექმენით მეთვ
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }-ზე შეგიძლიათ, გამოიყენოთ <a href="{ $privacy }">პირადულობის</a> ან <a href="{ $blocking }">შიგთავსის შეზღუდვის</a> პარამეტრები კიდევ უფრო უკეთ სამართავად იმ სარეკლამო საშუალებებისა, რომლებიც რეკლამების შემოთავაზებას ცდილობენ.
 features-adblocker-choose-your-level-of-protection = აირჩიეთ სასურველი დაცვის დონე
 features-adblocker-to-start-click-on-the-v2 = დასაწყებად დაწკაპეთ მისამართების ველის მარცხნივ მდებარე ფარს ნებისმიერ ვებგვერდზე და აირჩიეთ „უსაფრთხოების პარამეტრები“. შედეგად გაიხსნება { -brand-name-firefox }-ის პარამეტრებში პირადულობისა და უსაფრთხოების არე ახალი ჩანართით. იქვე იხილავთ ლურჯად გამოყოფილ რამდენიმე ასარჩევს.
-# Obsolete string
-features-adblocker-to-start-click-on-the = დასაწყებად დაწკაპეთ { -brand-name-firefox }-ის მენიუზე ზედა მარჯვენა კუთხეში. უნდა ჰგავდეს ერთმანეთზე დაწყობილ სამ ხაზს. ჩამოშლილ მენიუში კი დაწკაპეთ შიგთავსის შეზღუდვას (Content Blocking). წესით იხილავთ ლურჯ არეს სამი სხვადასხვა არჩევანით.
 features-adblocker-go-easy-with-standard = ჩვეულებრივი დონე მსუბუქი დაცვისთვის
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = ზოგ შემთხვე
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = თუ გსურთ უკეთ გაეცნოთ რეკლამის შეზღუდვის შესაძლებლობებს, ასობით გაფართოება არსებობს { -brand-name-firefox }-ისა და სხვა ბრაუზერებისთვის. თუ გსურთ გამოცადოთ სარეკლამო შემზღუდავები, რომელთაც { -brand-name-firefox } იყენებს, <a href="{ $url }">დაწკაპეთ აქ და ჩამოტვირთეთ</a> ბრაუზერი, რომლისთვისაც თქვენი პირადულობა უწინარესია.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = თუ გსურთ უკეთ გაერკვეთ რეკლამების შეზღუდვაში, ასობით გაფართოებაა ხელმისაწვდომი { -brand-name-firefox }-ისა და სხვა ბრაუზერებისთვის. რეკლამების იმ შემზღუდავების გამოსაცდელად, რომელთაც { -brand-name-firefox } იყენებს, <a href="{ $url }">დაწკაპეთ და ჩამოტვირთეთ</a> ბრაუზერი, რომელიც ყველაფერზე წინ პირადულობას აყენებს.
