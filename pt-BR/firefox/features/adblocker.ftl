@@ -20,6 +20,17 @@ features-adblocker-there-are-scores-of-content = Existem muitos de bloqueadores 
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = Considerado por muitos como padrão de excelência entre bloqueadores de anúncios, o <a { $attrs }>uBlock Origin</a> é renomado por sua eficiência e eficácia. Altamente personalizável, mas também funciona de forma brilhante com sua configuração padrão.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = O <a { $attrs1 }>AdGuard AdBlocker</a> impede publicidade em todo lugar. Ele bloqueia anúncios em sites, mídias sociais, até mesmo aqueles avisos irritantes (no entanto, se você quer apenas suprimir avisos, não vai errar se usar o <a { $attrs2 }>Popup Blocker</a> ).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> é outra ótima opção que não apenas bloqueia anúncios, mas oferece benefícios adicionais contra rastreamento.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Essas extensões funcionam perfeitamente tanto no <a { $attrs1 }>{ -brand-name-firefox } de computador</a> como de <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
