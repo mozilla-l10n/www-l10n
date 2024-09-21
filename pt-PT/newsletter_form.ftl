@@ -38,6 +38,8 @@ newsletter-form-thanks = Obrigado!
 newsletter-form-leave-this-field-empty = Deixe este campo vazio.
 newsletter-form-yes = Sim
 newsletter-form-no = Não
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Formulário de subscrição da newsletter
 multi-newsletter-form-checkboxes-legend = Quero informações sobre:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
