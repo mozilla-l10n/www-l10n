@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = Um bloqueador de publicidade é um
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estes anúncios podem ser vídeos barulhentos, anúncios que o seguem enquanto navega na Internet, ferramentas de monitorização, cookies de terceiros e muito mais. Para utilizar um bloqueador de publicidade, pode procurar por extras para bloqueio de anúncios que estejam disponíveis para o seu navegador. O <a href="{ $firefox }">{ -brand-name-firefox }</a>, por exemplo, tem <a href="{ $addons }">esta lista de extras aprovados para bloqueio de publicidade</a>. Clique nesta lista (ou em bloqueadores de publicidade que estejam aprovados para o seu navegador) e veja qual se adequa às suas necessidades.
 features-adblocker-find-the-right-ad-blocker = Encontre o bloqueador de publicidade certo para si
+features-adblocker-there-are-scores-of-content = Existem dezenas de bloqueadores de conteúdo por todo o lado, mas aqui estão algumas opções fantásticas com curadoria da { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Considerado por muitos como o padrão-ouro entre os bloqueadores de anúncios, o <a { $attrs }>uBlock Origin</a> é conhecido pela sua eficácia e eficiência. Totalmente personalizável, mas também funciona de forma brilhante assim que sai da caixa.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = O <a { $attrs1 }>AdGuard AdBlocker</a> isola a publicidade em todo o lado. Bloqueia anúncios na web, redes sociais, até mesmo aqueles pop-ups irritantes (no entanto, se está à procura de apenas suprimir pop-ups, não há como dar errado com o <a { $attrs2 }>Popup Blocker</a> ).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = O <a { $attrs }>Ghostery</a> é outra ótima opção que não só bloqueia anúncios, mas fornece benefícios adicionais anti-rastreamento.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Estas extensões funcionam lindamente no <a { $attrs1 }>{ -brand-name-firefox } para computador</a> e no <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Existe um <a href="{ $url }">AdBlocker Ultimate</a> que bloqueia todos os anúncios mas lembre-se que alguns dos seus jornais e revistas favoritos são financiados por publicidade. Se demasiadas pessoas bloquearem os seus anúncios, podem fazer com que tenham de declarar falência.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Anúncios em popup são os piores. Bloqueie-os com <a href="{ $url }">Popup Blocker</a> e nunca mais tenha de lidar com outro popup irritante novamente.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Um dos bloqueadores de publicidade mais conhecidos para o { -brand-name-chrome }, { -brand-name-safari } e { -brand-name-firefox } é o <a href="{ $url }">AdBlock</a>. Utilize-o para bloquear publicidade no { -brand-name-facebook }, { -brand-name-youtube } e { -brand-name-hulu }.
