@@ -36,7 +36,7 @@ best-browser-trackers-are-all-those = 추적기는 항공사 사이트를 방문
 best-browser-another-way-to-stop = 트래커 추적을 중지하는 또 다른 방법은 개인 모드를 사용하여 탐색하는 것입니다. 개인 정보 보호를 주장하는 모든 브라우저는 비공개 모드 브라우징을 제공해야합니다.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = 이를 확인하는 쉬운 방법 중 하나는 브라우저의 콘텐츠 설정 페이지와 개인 정보 취급 방침을 방문하는 것입니다. 개인 정보 페이지에는 데이터 공유 여부와 이유가 설명되어 있어야 합니다. 이것이 <a href="{ $privacy }">{ -brand-name-firefox } 개인 정보 보호 정책</a>이 읽기 쉽고 찾기 쉬운 이유입니다.
+best-browser-one-easy-way-to-check = 이를 확인하는 쉬운 방법 중 하나는 브라우저의 콘텐츠 설정 페이지와 개인 정보 취급 방침을 방문하는 것입니다. 개인 정보 페이지에는 데이터 공유 여부와 이유가 설명되어 있어야 합니다. 이것이 <a href="{ $privacy }">{ -brand-name-firefox } 개인정보 보호정책</a>이 읽기 쉽고 찾기 쉬운 이유입니다.
 best-browser-choosing-the-best-browser = 나에게 가장 적합한 브라우저를 선택하는 것은 집을 선택하는 것과 유사합니다. 사용자는 옵션을 탐색하고 조사하고 중요한 사항을 기반으로 결정을 내리고 싶어 합니다.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/

@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } 선언문
 footer-privacy-hub = 프라이버시 허브
 footer-privacy = 개인 정보 정책
 footer-press = 보도 자료
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = 기업 블로그
 footer-mozilla-blog = { -brand-name-mozilla } 블로그
 footer-browser-comparison = 브라우저 비교
 footer-brand-standards = 브랜드 가이드
@@ -34,14 +32,12 @@ footer-support = 도움말
 footer-file-a-bug = 버그 신고
 footer-localize-mozilla = { -brand-name-mozilla } 지역화
 footer-community-participation-guidelines = 커뮤니티 참여 가이드라인
-footer-websites-privacy-notice = 웹 사이트 개인정보처리방침
+footer-websites-privacy-notice = 웹 사이트 개인정보 보호정책
 footer-websites-cookies = 쿠키
 footer-websites-legal = 법적 고지
 footer-language = 언어
 footer-go = 이동
 footer-donate = 기부
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (이전 Twitter)
 footer-mastodon = { -brand-name-mastodon }

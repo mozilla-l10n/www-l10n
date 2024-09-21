@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = 유효한 이메일 주소를 입력해 주세요.
-newsletter-form-you-must-agree-to = 개인정보처리방침에 동의해야 합니다.
+newsletter-form-you-must-agree-to = 개인정보 보호정책에 동의해야 합니다.
 newsletter-form-your-email-address = 이메일 주소
 newsletter-form-we-are-sorry-but-there = 죄송합니다. 시스템에 문제가 생겼습니다. 잠시 후에 다시 시도해 주세요!
 newsletter-form-please-select-country = 국가 또는 지역을 선택해주세요.
@@ -18,7 +18,7 @@ newsletter-form-join-the-community = 커뮤니티에 가입하세요
 newsletter-form-sign-up-to-receive = 온라인 생활을 만들어주는 { -brand-name-firefox }의 월간 업데이트와 인터넷 트렌드를 받아보려면 가입하세요.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = <a href="{ $url }">개인정보처리방침</a>에 나타난대로 { -brand-name-mozilla }가 개인 정보를 다루는 것에 대해서 동의합니다.
+newsletter-form-im-okay-with-mozilla = <a href="{ $url }">개인정보 보호정책</a>에 나타난대로 { -brand-name-mozilla }가 개인 정보를 다루는 것에 대해서 동의합니다.
 newsletter-form-we-will-only-send-v2 = { -brand-name-mozilla } 관련 정보만 보내드립니다. 언제든지 구독을 취소할 수 있습니다.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = { -brand-name-mozilla } 관련 정보를 보내 드립니다.
