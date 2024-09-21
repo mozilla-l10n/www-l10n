@@ -18,6 +18,13 @@ features-adblocker-these-ads-might-be-loud = Οι διαφημίσεις μπο�
 features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
 features-adblocker-there-are-scores-of-content = Υπάρχουν πολλά πρόσθετα φραγής περιεχομένου, αλλά δείτε μερικές φανταστικές επιλογές που προτείνει η { -brand-name-mozilla }…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Το <a { $attrs }>uBlock Origin</a>, που θεωρείται από πολλούς ως το απόλυτο πρόσθετο φραγής διαφημίσεων, φημίζεται για την αποτελεσματικότητα και την απόδοσή του. Είναι εξαιρετικά προσαρμόσιμο, αλλά λειτουργεί περίφημα και με τις προεπιλεγμένες ρυθμίσεις.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = Το <a { $attrs1 }>AdGuard AdBlocker</a> περιορίζει τις διαφημίσεις παντού. Αποκλείει τις διαφημίσεις στο διαδίκτυο, τα μέσα κοινωνικής δικτύωσης, ακόμα και τα ενοχλητικά αναδυόμενα παράθυρα (εάν όμως θέλετε να περιορίσετε απλώς τα αναδυόμενα παράθυρα, μπορείτε επίσης να βασιστείτε στο <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = Το <a { $attrs }>Ghostery</a> είναι άλλη μια εξαιρετική επιλογή που δεν αποκλείει μόνο τις διαφημίσεις, αλλά παρέχει και πρόσθετα οφέλη κατά της καταγραφής.
 # Variables:
