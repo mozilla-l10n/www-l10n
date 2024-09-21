@@ -16,7 +16,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidad es un 
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estos anuncios pueden ser publicidad de video ruidosos, anuncios que te siguen en la web, rastreadores, cookies de terceros y más. Para usar un bloqueador de publicidad, podés buscar complementos de bloqueadores de publicidad que estén disponibles en tu navegador. <a href="{ $firefox }"> { -brand-name-firefox } </a>, por ejemplo, tiene <a href="{ $addons }"> esta lista de complementos de bloqueadores de anuncios aprobados </a>. Hacé clic en esta lista (o en los bloqueadores de publicidad aprobados para tu navegador) y fijate cuál se ajusta a tus necesidades.
 features-adblocker-find-the-right-ad-blocker = Encontrá el bloqueador de publicidad adecuado para vos
-features-adblocker-there-are-scores-of-content = Hay decenas de bloqueadores de contenido, pero estas son algunas opciones fantásticas seleccionadas por { -brand-name-mozilla }…
+features-adblocker-there-are-scores-of-content = Hay montones de bloqueadores de contenido, pero estas son algunas opciones fantásticas seleccionadas por { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = Considerado por muchos como el estándar de oro entre los bloqueadores de publicidad, <a { $attrs }>uBlock Origin</a> es conocido por su efectividad y eficiencia. Altamente personalizable, también funciona de manera brillante apenas está “fuera de la caja”.
