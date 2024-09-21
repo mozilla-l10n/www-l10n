@@ -12,6 +12,7 @@
 vpn-windows-download-page-title = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-windows } so sćahuje…
 vpn-windows-go-to-your-downloads = Přeńdźće k swojemu rjadowakej sćehnjenjow a klikńće dwójce na dataju .msi.
+vpn-windows-a-progress-bar = Postupowa hrjada so zjewi a instalaciski proces so započnje
 
 ## Mac download page
 
@@ -26,6 +27,7 @@ vpn-download-not-in-country = Bohužel { -brand-name-mozilla-vpn } we wašim kra
 vpn-open-the-file = 1. Wočińće dataju
 vpn-launch-the-app = 2. Startujće nałoženje
 vpn-login-or-signup = 3 Přizjewće so abo registrujće so
+vpn-enter-your-email = Zapodajće swoju e-mejlowu adresu, zo byšće so přizjewił abo registrował a započńće
 vpn-turn-on-vpn = 4. Zmóžńće VPN
 
 ## FAQ Strings
