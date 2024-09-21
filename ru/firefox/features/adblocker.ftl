@@ -16,21 +16,21 @@ features-adblocker-an-ad-blocker-is-a-piece = Блокировщик рекла�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Объявления могут быть громкой видеорекламой, рекламой, отслеживающей вас в Интернете, трекерами, сторонними куками и многим другим. Чтобы воспользоваться блокировщиком рекламы, вы можете поискать его среди дополнений, доступных для вашего браузера. Например, для <a href="{ $firefox }">{ -brand-name-firefox }</a> существует <a href="{ $addons }">список одобренных дополнений для блокировки рекламы</a>. Откройте этот список (или список таких дополнений для вашего браузера) и выберите то, которое подходит вам больше всего.
 features-adblocker-find-the-right-ad-blocker = Найдите лучший для себя блокировщик рекламы
-features-adblocker-there-are-scores-of-content = Существуют множество блокировщиков содержимого, но вот несколько фантастических вариантов от { -brand-name-mozilla }…
+features-adblocker-there-are-scores-of-content = Существует множество блокировщиков содержимого, но вот несколько фантастических вариантов от { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, который многие считаются эталоном блокировки рекламы, известен своей эффективностью и комфортом. Гибко настраиваемый, и при этом прекрасно работает «из коробки».
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> притупляет рекламу везде. Он блокирует рекламу в Интернете, социальных сетях, даже раздражающие всплывающие окна (однако, если вы хотите просто подавить всплывающие окна, вы не ошибетесь, выбрав <a { $attrs2 }>Popup Blocker</a> ).
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> сокращает рекламу везде. Он блокирует рекламу в Интернете, социальных сетях, даже раздражающие всплывающие окна (однако, если вы хотите просто подавить всплывающие окна, вы не ошибётесь, выбрав <a { $attrs2 }>Popup Blocker</a> ).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
-features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> — ещё один отличный выбор, который не только блокирует рекламу, но и предоставляет дополнительные преимущества по защите от отслеживания.
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> — ещё один отличный вариант, который не только блокирует рекламу, но и предоставляет дополнительные преимущества по защите от отслеживания.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Эти расширения прекрасно работают как на <a { $attrs1 }>{ -brand-name-firefox } для компьютера</a>, так и <a { $attrs2 }>Android</a>.
+features-adblocker-these-extensions-work-beautifully = Эти расширения прекрасно работают как на <a { $attrs1 }>{ -brand-name-firefox } для ПК</a>, так и на <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
