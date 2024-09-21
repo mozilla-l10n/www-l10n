@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 # Meta strings
-vpn-desktop-page-title = { -brand-name-mozilla-vpn } dành cho máy tính để bàn (PC & Laptop)
+vpn-desktop-page-title = { -brand-name-mozilla-vpn } dành cho máy tính (PC & Laptop)
 vpn-desktop-page-description = Nhận bảo mật nhanh chóng, dễ dàng trên máy tính để bàn và máy tính xách tay của bạn thông qua { -brand-name-mozilla }, một trong những tên đáng tin cậy nhất trong công nghệ.
 # Desktop strings
-vpn-desktop-hero-headline = Bảo mật kết nối Internet của bạn với { -brand-name-mozilla-vpn } dành cho máy tính để bàn
+vpn-desktop-hero-headline = Bảo mật kết nối Internet của bạn với { -brand-name-mozilla-vpn } dành cho máy tính
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-ability = { -brand-name-mozilla-vpn } mang đến cho bạn khả năng kết nối tự tin và giữ an toàn cho thông tin của bạn trước những con mắt tò mò và kẻ trộm dữ liệu khi bạn trực tuyến. { -brand-name-mozilla-vpn } sử dụng giao thức{ -brand-name-wireguard }® nâng cao để mã hóa dữ liệu cá nhân trên máy tính xách tay hoặc máy tính để bàn của bạn — lên đến { $devices } thiết bị. Truyền phát các chương trình, chơi trò chơi, mua sắm và xem trực tuyến cuộc sống hàng ngày của bạn khi biết rằng bạn được bảo mật.

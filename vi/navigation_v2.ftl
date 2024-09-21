@@ -11,7 +11,7 @@ navigation-v2-menu = Menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Đóng menu { -brand-name-firefox-browsers }
-navigation-v2-firefox-for-desktop = { -brand-name-firefox } dành cho máy tính để bàn
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } dành cho máy tính
 navigation-v2-get-the-not-for-profit-backed = Tải xuống trình duyệt được hỗ trợ phi lợi nhuận trên { -brand-name-windows }, { -brand-name-mac-short } hoặc { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } dành cho { -brand-name-android }
 navigation-v2-get-the-customizable-mobile = Tải xuống trình duyệt di động có thể tùy chỉnh cho điện thoại thông minh { -brand-name-android }.
