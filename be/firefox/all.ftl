@@ -5,27 +5,47 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Праверыць сістэмныя патрабаванні
-firefox-all-release-notes = Заўвагі пры выпуску
-firefox-all-source-code = Зыходны код
-firefox-all-need-help = Патрэбна дапамога?
-firefox-all-which-browser-would = Які браўзер вы хацелі б сцягнуць?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Сцягніце { -brand-name-firefox } на беларускай і больш чым на 90 іншых мовах
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Сцягніце { -brand-name-firefox-browser } на беларускай і больш чым на 90 іншых мовах
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox } даступным на больш чым 90 мовах.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox-browser } даступным на больш чым 90 мовах.
+firefox-all-choose-browser = Выберыце браўзер, каб працягнуць
+firefox-all-choose-platform = Выберыце платформу, каб працягнуць
+firefox-all-choose-language = Выберыце мову, каб працягнуць
+firefox-all-change-browser = Выбраць іншы прадукт
+firefox-all-change-platform = Выбраць іншую платформу
+firefox-all-change-language = Выбраць іншую мову
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Выберыце са спіса ніжэй
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Атрымаць дапамогу
-firefox-all-you-are-about-to-download = Вы збіраецеся сцягнуць:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Браўзер:
+firefox-all-browser-v2 = 1. Браўзер:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Платформа:
+firefox-all-platform-v2 = 2. Платформа:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Мова:
+firefox-all-language-v2 = 3. Мова:
+firefox-all-download = 4. Сцягванне:
+firefox-all-desktop = Камп'ютар
+firefox-all-mobile = Мабільны
+firefox-all-recommended = (Рэкамендуецца)
 firefox-all-lang-multi = Некалькі моў
 firefox-all-sorry-we-couldnt-find = На жаль, не ўдалося знайсці версію, якую вы шукаеце. Калі ласка, паспрабуйце ізноў, або выберыце са спісу ніжэй.
 firefox-all-the-pre-alpha-version = Папярэдняя альфа-версія для дасведчаных карыстальнікаў, якія любяць паляваць на збоі і тэставаць новыя функцыі, што распрацоўваюцца.
 firefox-all-64-bit-installers = 64-бітныя інсталятары
 firefox-all-choose-a-64-bit-installer = Выберыце 64-разрадную праграму ўстаноўкі для камп'ютараў з 64-разраднымі працэсарамі, якія дазваляюць размяркоўваць больш аператыўнай памяці для асобных праграм — гэта асабліва важна для гульняў і іншых патрабавальных праграм.
 firefox-all-32-bit-installers = 32-бітныя інсталятары
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Сцягніце { -brand-name-firefox-browser } на беларускай і больш чым на 90 іншых мовах
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox-browser } даступным на больш чым 90 мовах.
+firefox-all-check-the-system-requirements = Праверыць сістэмныя патрабаванні
+firefox-all-release-notes = Заўвагі пры выпуску
+firefox-all-source-code = Зыходны код
+firefox-all-need-help = Патрэбна дапамога?
 firefox-all-choose-which-firefox = Выберыце, які { -brand-name-firefox-browser } сцягнуць на сваёй мове
 firefox-all-firefox-privacy-notice = Паведамленне аб прыватнасці { -brand-name-firefox }
 firefox-all-learn-about-firefox = Даведайцеся пра браўзеры { -brand-name-firefox }
@@ -35,7 +55,6 @@ firefox-all-test-your-sites-against = Тэстуйце свае сайты на 
 firefox-all-count-on-stability-and = Разлічвайце на стабільнасць і прастату выкарыстання з гэтым браўзерам { -brand-name-firefox }, створаным для прадпрыемстваў.
 firefox-all-windows-installers-for = Windows-усталявальнікі для карпаратыўных ІТ, якія спрашчаюць наладку, разгортванне і кіраванне { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Усталявальнікі ARM64/AArch64
-firefox-all-arm64-installers-optimized = Усталявальнікі ARM64/AArch64 аптымізаваныя для камп'ютараў на базе Snapdragon з { -brand-name-windows }.
 firefox-all-product-send-link = Адпраўце спасылку для сцягвання на свой тэлефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
