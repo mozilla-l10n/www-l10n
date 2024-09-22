@@ -7,6 +7,7 @@
 
 # HTML page title
 features-index-firefox-browser-features = Хусусиятҳои браузери «{ -brand-name-firefox }»
+features-index-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 features-index-bookmark-manager = Мудири хатбаракҳо
 features-index-pdf-editor = Муҳаррири «PDF»
 features-index-picture-in-picture = Расм-дар-расм

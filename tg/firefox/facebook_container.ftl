@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+facebook-container-about-firefox-and-mozilla = Дар бораи «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»
