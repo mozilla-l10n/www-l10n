@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = An ad blocker is a piece of softwa
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="{ $firefox }">{ -brand-name-firefox }</a>, for example, has <a href="{ $addons }">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
 features-adblocker-find-the-right-ad-blocker = Find the right ad blocker for you
+features-adblocker-there-are-scores-of-content = There are scores of content blockers out there, but here are a few fantastic options curated by { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Considered by many to be the gold standard among ad blockers, <a { $attrs }>uBlock Origin</a> is renowned for its effectiveness and efficiency. Highly customisable, yet it also works brilliantly right “out of the box.”
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blunts advertising everywhere. It blocks ads on the web, social media, even those annoying pop-ups (however if you’re looking to just suppress pop-ups, you can’t go wrong with <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> is another great choice that not only blocks ads but provides additional anti-tracking benefits.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = These extensions work beautifully on both <a { $attrs1 }>{ -brand-name-firefox } for desktop</a> and <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = There’s <a href="{ $url }">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favourite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Popup ads are the worst. Block them with <a href="{ $url }">Popup Blocker</a> and never deal with another annoying popup again.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = One of the most popular ad blockers for { -brand-name-chrome }, { -brand-name-safari } and { -brand-name-firefox } is <a href="{ $url }">AdBlock</a>. Use it to block ads on { -brand-name-facebook }, { -brand-name-youtube } and { -brand-name-hulu }.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = Create a tracker-free zone with Conte
 features-adblocker-on-firefox-you-can-use = On { -brand-name-firefox }, you can use <a href="{ $privacy }">Privacy</a> or <a href="{ $blocking }">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
 features-adblocker-choose-your-level-of-protection = Choose your level of protection
 features-adblocker-to-start-click-on-the-v2 = To start, click the shield to the left of the address bar on any web page and select “Protection Settings.” This will open the { -brand-name-firefox } Settings Privacy & Security panel in a new tab. You should see a blue pop-up with different selections.
-# Obsolete string
-features-adblocker-to-start-click-on-the = To start, click on the { -brand-name-firefox } menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
 features-adblocker-go-easy-with-standard = Go easy with Standard mode
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = In some cases, an ad blocker ca
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for { -brand-name-firefox } and other browsers. If you want to try out the ad blockers { -brand-name-firefox } uses, <a href="{ $url }">click here to download</a> a browser that puts privacy first.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for { -brand-name-firefox } and other browsers. If want to try out the ad blockers { -brand-name-firefox } uses, <a href="{ $url }">click here to download</a> a browser that puts privacy first.
