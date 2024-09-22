@@ -13,26 +13,18 @@ newsletters-mozilla-newsletter = Biuletyn { -brand-name-mozilla(case: "gen") }
 newsletters-read-all-about-it-in-our-newsletter = Przeczytaj więcej na ten<br /> temat w naszym <span>biuletynie</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/
 newsletters-subscribe-here-to-keep-current = Subskrybuj, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }, podejmować działania na rzecz zdrowszego Internetu i mądrzej z niego korzystać.
-# Obsolete string
-newsletters-subscribe-to-updates-and-keep = Subskrybuj comiesięczne aktualizacje, aby być na bieżąco z najnowszymi wieściami dotyczącymi { -brand-name-mozilla(case: "gen") }. To idealny sposób na utrzymanie z nami kontaktu!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Potwierdzenie subskrypcji
 newsletters-thanks-for-subscribing = Dziękujemy za subskrypcję!
 newsletters-your-newsletter-subscription = Subskrypcja została potwierdzona.
 newsletters-please-be-sure-to-add-our-v2 = Upewnij się, że nasz adres nadawczy: mozilla@email.mozilla.org znajduje się w Twojej książce adresowej, abyśmy zawsze trafiali do Twojej skrzynki odbiorczej.
-# Obsolete string
-newsletters-please-be-sure-to-add-our = Upewnij się, że nasz adres nadawczy: mozilla@e.mozilla.org znajduje się w Twojej książce adresowej, abyśmy zawsze trafiali do Twojej skrzynki odbiorczej.
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = Odnośnik wygasł. Można <a { $recovery_href }>poprosić o nowy tutaj</a>.
-# Obsolete string
-newsletters-the-supplied-link-has-expired = Odnośnik wygasł. Prześlemy nowy w następnym biuletynie.
 newsletters-something-is-amiss-with = Wybacz, coś nie gra z naszym systemem! Spróbuj ponownie później.
 newsletters-youre-awesome = Jesteś super!
 newsletters-and-were-not-just-saying = Nie mówimy tak tylko dlatego, że mamy Twój adres e-mail.
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Upewnij się, że adres mozilla@email.mozilla.org znajduje się w Twojej książce adresowej, abyśmy zawsze trafiali do Twojej skrzynki odbiorczej.
-# Obsolete string
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Upewnij się, że masz mozilla@e.mozilla.org w książce adresowej, aby nigdy nie zgubić wiadomości od nas.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } porusza wiele ważnych zagadnień.
 newsletters-open-your-inbox-and-your = Jeszcze bardziej otwórz swoją skrzynkę (i swoje serce) — zobacz, jakie tematy omawiamy.
 newsletters-manage-your-email-preferences = Zarządzanie preferencjami subskrypcji
@@ -53,16 +45,11 @@ newsletters-not-all-subscriptions-are = Nie wszystkie subskrypcje są dostępne 
 newsletters-please-select-country = Wybierz państwo lub region
 # Form field error message
 newsletters-please-select-language = Wybierz język
-# Form field label
-newsletters-format = Format:
-newsletters-text-subscribers-will-receive = Subskrybujący w formacie tekstowym dwa razy do roku otrzymają wiadomość proszącą o potwierdzenie kontynuacji subskrypcji. Te wiadomości mogą zawierać kod HTML.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
 newsletters-many-of-our-communications-v2 = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-mozilla-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
-# Obsolete string
-newsletters-many-of-our-communications = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-firefox-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Dołącz do nas, aby mieć dostęp do pełnego zestawu produktów, wiedzy i usług { -brand-name-firefox(case: "gen") } w jednym koncie! <a href="{ $url }">Tutaj</a> przeczytasz więcej o korzyściach.
@@ -86,7 +73,6 @@ newsletters-youve-been-unsubscribed = Subskrypcja została anulowana.
 newsletters-were-sorry-to-see-you-go = Przykro nam, że chcesz się z nami pożegnać.
 newsletters-would-you-mind-telling-us = Możesz nam powiedzieć dlaczego?
 newsletters-other-v2 = Inne… (maksymalnie 500 znaków)
-# Obsolete string
 newsletters-other = Inne…
 newsletters-submit = Wyślij
 newsletters-thanks-for-telling-us-why = Dziękujemy za wyjaśnienie, dlaczego nas opuszczasz.
@@ -104,11 +90,13 @@ newsletters-were-glad-you-asked = Miło nam, że pytasz!
 newsletters-love-the-web-so-do-we = Kochasz Internet? My też!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Odkryj świat tworzenia stron internetowych dzięki naszemu cotygodniowemu biuletynowi { -brand-name-mozilla } Developer. Każda wydanie zawiera informacje o technikach programowania i najlepszych praktykach, najnowsze doniesienia o { -brand-name-mdn }, wiadomości o nowych technologiach, wskazówki na temat narzędzi programistycznych i nie tylko.
-# Obsolete string
-newsletters-join-thousands-of-developers = Dołącz do tysięcy deweloperów takich jak Ty, którzy poznają najlepsze, co oferuje Internet.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-make-the-most = Wyciągnij z { -brand-name-firefox(case: "gen") } jak najwięcej
+# Obsolete string (expires: 2024-11-01)
 newsletters-put-more-fox-in-your-inbox = Więcej lisów w Twojej skrzynce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
+newsletters-sign-up-to-receive-monthly = Zarejestruj się, aby co miesiąc otrzymywać aktualności od { -brand-name-firefox(case: "gen") } i informacje o trendach internetowych, które kształtują Twoje życie w sieci.
+# Obsolete string (expires: 2024-11-01)
 newsletters-see-where-the-web-can-take = Zobacz, co możesz zrobić w sieci dzięki comiesięcznym wskazówkom i skrótom dla { -brand-name-firefox(case: "gen") } i Internetu.
 newsletters-we-are-sorry-but-there = Przepraszamy, ale mamy problemy z systemem. Proszę spróbować później.
 newsletters-thanks-for-updating-your = Dziękujemy za aktualizację preferencji subskrypcji.
@@ -124,16 +112,10 @@ newsletters-fxa-error-retry = Wystąpił problem podczas przekierowywania do pre
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
 newsletters-im-keeping-in-touch-v2 = Wolę śledzić { -brand-name-mozilla(case: "acc") } na { -brand-name-twitter(case: "loc") }.
-# Obsolete string
-newsletters-im-keeping-in-touch = Wolę śledzić { -brand-name-mozilla(case: "acc") } na { -brand-name-twitter(case: "loc") } i { -brand-name-facebook(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Zapisz się, czytaj,<br> bądź na bieżąco
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Zapisz się. Czytaj.<br> Miej znaczenie.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Dowiedz się o problemach wpływających na Twoje życie w sieci.
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Subskrybuj biuletyn { -brand-name-mozilla(case: "gen") }, aby otrzymywać informacje o zagrożeniach dla Internetu i możliwościach zaangażowania się.
 newsletters-your-email-preferences = Preferencje subskrypcji zostały pomyślnie uaktualnione.
 newsletters-consider-it-done = Uznaj to za załatwione
 newsletters-back-to-email-preferences = Wróć do preferencji subskrypcji
@@ -143,8 +125,6 @@ newsletters-travel-the-internet = Podróżuj po Internecie z ochroną na wszyst
 newsletters-download-the-app = Pobierz aplikację
 newsletters-check-for-data-breaches = Sprawdź wycieki danych
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } to bezpłatny serwis umożliwiający sprawdzenie, czy Twoje dane znalazły się w wycieku haseł z innej firmy.
-# Obsolete string
-newsletters-firefox-monitor-is-a-free = { -brand-name-firefox-monitor } to bezpłatny serwis umożliwiający sprawdzenie, czy Twoje dane znalazły się w wycieku haseł z innej firmy.
 newsletters-sign-in-to-monitor = Zaloguj się w serwisie { -brand-name-monitor }
 newsletters-meet-our-parent-brand = Poznaj naszą główną markę
 newsletters-mozilla-the-non-for-profit = { -brand-name-mozilla }, organizacja non-profit stojąca za { -brand-name-firefox(case: "ins") }, stawia ludzi ponad zysk we wszystkim co mówimy, tworzymy i robimy.
@@ -166,20 +146,14 @@ newsletters-dont-miss-the-latest = Nie przegap ostatnich ogłoszeń nt. przegl�
 newsletters-get-involved = Pomóż nam
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = Insights
-# Obsolete string
-newsletters-internet-health-report = Raport o zdrowiu Internetu
 # Description for the newsletter in Newsletter subscription page (Insights)
 newsletters-mozilla-published-articles-and-deep = { -brand-name-mozilla } publikuje artykuły i analizy problemów związanych ze zdrowiem Internetu i zaufaniem do sztucznej inteligencji, w tym nasz coroczny Raport o zdrowiu Internetu.
-# Obsolete string
-newsletters-keep-up-with-our-annual = Bądź na bieżąco z naszym corocznym zbiorem badań i historii na temat prywatności i bezpieczeństwa, otwartości, e-integracji, decentralizacji i edukacji internetowej.
 # Name for the newsletter in Newsletter subscription page
 newsletters-knowledge-is-power = Wiedza to siła
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 newsletters-get-all-the-knowledge = Cała wiedza, jakiej potrzebujesz, aby bezpieczniej i mądrzej korzystać z Internetu.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-labs = Labs
-# Name for the newsletter in Newsletter subscription page
-newsletters-desktop = Na komputery
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozillians = Mozillianie
 # Description for the newsletter in Newsletter subscription page (Mozillians)
@@ -192,9 +166,6 @@ newsletters-news-and-information = Wiadomości i informacje dotyczące stanu si
 newsletters-student-reps = Student Reps
 # Description for the newsletter in Newsletter subscription page (Student Reps)
 newsletters-former-university-program-v2 = Dawny program University z lat 2008-2011, obecnie wznowiony jako program { -brand-name-firefox } Student Ambassadors.
-# Obsolete string
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Dawny program University z lat 2008-2011, obecnie wznowiony jako program Firefox Student Ambassadors.
 # Name for the newsletter in Newsletter subscription page
 newsletters-take-action = Podejmij działania na rzecz Internetu
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
@@ -203,8 +174,6 @@ newsletters-add-your-voice = Dodaj swój głos do petycji, wydarzeń i inicjaty
 newsletters-new-product-testing = Testowanie nowych produktów
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 newsletters-help-us-make-a-better-v2 = Pomóż nam ulepszać { -brand-name-mozilla(case: "acc") } dla Ciebie, testując nasze najnowsze produkty i funkcje.
-# Obsolete string
-newsletters-help-us-make-a-better = Pomóż nam ulepszać { -brand-name-firefox(case: "acc") } dla Ciebie, testując nasze najnowsze produkty i funkcje.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Społeczność { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
@@ -279,14 +248,10 @@ newsletters-get-how-tos = Instrukcje, porady i aktualności, jak najlepiej wyko
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
 # Description for the newsletter in Newsletter subscription page (Mozilla Festival)
 newsletters-special-announcements-about-mozilla-v2 = Okresowe powiadomienia o naszym corocznym festiwalu dedykowanym pełnemu wykorzystaniu potencjału sieci.
-# Obsolete string
-newsletters-special-announcements-about-mozilla = Okresowe powiadomienia o corocznych wydarzeniach { -brand-name-mozilla } Festival dedykowanym pełnemu wykorzystaniu potencjału sieci.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-news = Aktualności { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 newsletters-regular-updates-to-keep-v2 = Regularne informacje o tym, jak mądrzej korzystać z sieci i możliwościach pomocy w naszej walce o lepszy Internet.
-# Obsolete string
-newsletters-regular-updates-to-keep = Regularne informacje i możliwości pomocy w naszej walce o lepszy Internet.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)
@@ -301,27 +266,14 @@ newsletters-webmaker = { -brand-name-webmaker }
 newsletters-special-announcements-helping-you = Informacje pomagające w pełni korzystać z programu { -brand-name-webmaker }.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
-# Obsolete string
-newsletters-firefox-accounts = { -brand-name-firefox-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Otrzymuj wskazówki od { -brand-name-mozilla(case: "gen") }, jak najlepiej wykorzystać swoje konto.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Wiadomości powitalne
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
 newsletter-welcome-emails-that-get-you = Powitalne wiadomości, które pomogą Ci zacząć korzystać z naszych produktów i usług.
-# Name for the newsletter in Newsletter subscription page
-newsletters-android = { -brand-name-android }
-# Headline for https://www-dev.allizom.org/newsletter/knowledge-is-power
+# Headline for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-subscribe-to-the-newsletter = Subskrybuj biuletyn
-# Subtitle for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-newsletters-get-the-news-and-tips = Otrzymuj aktualności i wskazówki od { -brand-name-mozilla(case: "gen") }, aby zachować bezpieczeństwo i być na bieżąco ze wszystkim, co sprawia, że Internet jest zdrowszym miejscem.
-
-## Brand names for https://www-dev.allizom.org/newsletter/knowledge-is-power/
-
-knowledge-is-power-mozilla = { -brand-name-mozilla }
-knowledge-is-power-firefox = Przeglądarka { -brand-name-firefox }
-knowledge-is-power-vpn = { -brand-name-mozilla-vpn }
-knowledge-is-power-pocket = { -brand-name-pocket }
 # Out of date browser message for newsletter management page.
 newsletters-update-your-browser = Używana przeglądarka internetowa musi zostać zaktualizowana, aby móc korzystać z tej strony.
 # Name for the newsletter in Newsletter subscription page
