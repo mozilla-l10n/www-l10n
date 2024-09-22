@@ -36,5 +36,5 @@ footer-refresh-websites-privacy-notice = Zásady ochrany osobních údajů
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Právní informace
 footer-refresh-community-participation-guidelines = Pravidla pro přispěvatele
-footer-refresh-about-this-site = O těchto stránkách
+footer-refresh-about-this-site = O této stránce
 footer-refresh-language = Jazyk
