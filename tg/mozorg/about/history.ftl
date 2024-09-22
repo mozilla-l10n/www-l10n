@@ -14,6 +14,9 @@ history-it-was-intended-to-harness = Ин лоиҳа барои истифода
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
 history-within-the-first-year-new = Дар давоми <a href="{ $firstyear }">соли аввал</a>, аъзои нави ҷомеаи мо аз саросари ҷаҳон аллакай ба имконоти нави браузер саҳм гузоштанд, хусусиятҳои мавҷударо такмил доданд ва ба идоракунӣ ва банақшагирии худи лоиҳа машғул шуданд.
+# Variables:
+#   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
+history-by-creating-an-open-community = Бо таъсис додани ҷомеаи кушод, лоиҳаи «{ -brand-name-mozilla }» <a href="{ $stevecase }">нисбат ба ташкилотҳои дигар</a> калонтар шуд.
 history-for-more-information-about = Барои маълумоти бештар дар бораи таърихи «{ -brand-name-mozilla }», ба моводи зерин нигаред:
 history-mozilla-bookmarks = Хатбаракҳои «{ -brand-name-mozilla }»
 history-timeline-of-mozilla-project = Ҷадвали кори лоиҳаи «{ -brand-name-mozilla }»
