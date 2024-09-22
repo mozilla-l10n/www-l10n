@@ -38,3 +38,6 @@ history-for-more-information-about = Барои маълумоти бештар 
 history-mozilla-bookmarks = Хатбаракҳои «{ -brand-name-mozilla }»
 history-timeline-of-mozilla-project = Ҷадвали кори лоиҳаи «{ -brand-name-mozilla }»
 history-mozilla-digital-memory-bank = Бонки ҳофизаи рақамии «{ -brand-name-mozilla }»
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Таърихи эълонномаҳои «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»</a> (дар забони англисӣ ва ҷопонӣ дастрасанд)

@@ -9,6 +9,7 @@
 ## Page heading
 
 contribute-page-title = Имкониятҳои ихтиёрӣ дар «{ -brand-name-mozilla }»
+contribute-page-heading = Истеъдодҳои шумо барои беҳтар кардани Интернет лозиманд
 contribute-how-heading = Шумо чӣ тавр метавонед саҳмгузор бошед…
 
 ## Contribution tasks
@@ -24,14 +25,19 @@ contribute-task-join-heading = Ба ҷамъияти мо ҳамроҳ шаве�
 
 ## Mission
 
+contribute-mission-heading = Рисолати мо
 contribute-learn = Маълумот дар бораи «{ -brand-name-mozilla }»
 contribute-read-manifesto = Санадҳои асосии моро мутолиа намоед
+contribute-find-event = Ёфтани рӯйдодҳо
+contribute-meet-volunteers = Бо ихтиёриёни дилчаспи мо шинос шавед
 contribute-donate = Саҳм гузоштан
+contribute-help-fund = Барои маблағгузории рисолати мо кумак кунед
 contribute-follow-mozilla = Пайгирӣ кардани «{ -brand-name-mozilla }»
 contribute-opportunities = Хабарҳо ва имкониятҳои ихтиёрӣ
 
 ## Made by
 
+contribute-made-by-heading = Аз ҷониби одамони дилчасп мисли шумо сохта шудааст
 
 ## Newsletter
 
@@ -43,4 +49,5 @@ contribute-mozilla-support = Дастгирии «{ -brand-name-mozilla }»
 
 ## Web compat
 
+contribute-web-compat-heading = Бо саҳифаҳои веб мушкилӣ мекашед?
 contribute-report-issue = Гузориш дар бораи мушкилӣ
