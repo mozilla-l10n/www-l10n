@@ -11,6 +11,7 @@ navigation-refresh-close-about-us-menu = Закрити меню Про нас
 navigation-refresh-mozilla-manifesto = Маніфест { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Долучитися
+navigation-refresh-innovation-projects = Інноваційні проєкти
 navigation-refresh-blog = Блог
 
 ## Firefox
