@@ -32,11 +32,24 @@ home-join-us-in-shaping = Далучайцеся да нас у стварэнн
 home-work-on-ai = Праца { -brand-name-mozilla } з штучным інтэлектам – гэта не проста новая рэч. Мы выдаткавалі гады на фінансаванне, стварэнне і адстойванне адкрытага, справядлівага і адказнага развіцця штучнага інтэлекту. Мы сканцэнтраваныя на стварэнні штучнага інтэлекту, які служыць людзям, аддае перавагу празрыстасці і падтрымлівае грамадскае дабро, а не карпаратыўную павестку.
 home-read-more = Падрабязней
 home-so-what-is-mozilla = Такім чынам, што такое { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Па сутнасці, { -brand-name-mozilla } з'яўляецца актывісцкай арганізацыяй пад кіраўніцтвам { -brand-name-mozilla-foundation }, якая ўносіць змены ў свет праз розныя мерапрыемствы, у тым ліку { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> і <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Чым мы адрозніваемся? Паколькі мы кіруемся місіяй, гэта азначае, што ў нас ёсць свабода прымаць усе нашы рашэнні зыходзячы з таго, што лепш для інтэрнэту і ўсіх у сеціве, а не зыходзячы з патрабаванняў акцыянераў — у нас насамрэч няма ніводнага з іх.
 home-learn-about-mofo = Даведацца аб { -brand-name-mozilla-foundation }
 home-join-the-fight = Далучайцеся да барацьбы за здаровы інтэрнэт
+home-your-voice-your-code = Ваш голас. Ваш код. Вашы ідэі. Ёсць літаральна тысячы спосабаў, як вы можаце зрабіць свой уклад у { -brand-name-mozilla }.
+home-volunteer-with-mozilla = Стаць валанцёрам з { -brand-name-mozilla }
+home-that-one-time = Аднойчы мы аддалі наш зыходны код…
+home-the-mozilla-project = Праект { -brand-name-mozilla } быў заснаваны ў Сан-Францыска ў 1998 годзе, калі браўзер { -brand-name-netscape } прыняў радыкальнае рашэнне выдаць свой праграмны код грамадскасці для далейшага развіцця і ўдасканалення. У той час адна кампанія валодала фактычнай манаполіяй на тое, як людзі карыстаюцца Інтэрнэтам.
+home-eventually-the-open = У рэшце рэшт, праект з адкрытым зыходным кодам { -brand-name-mozilla } ператварыўся ў надзвычай папулярную першую версію { -brand-name-firefox }.
+home-today-mozilla-continues = Сёння { -brand-name-mozilla } працягвае свой рух да лепшага Інтэрнэту з мільёнамі актыўных членаў супольнасці па ўсім свеце, якія выступаюць за этычныя тэхналогіі, надзейны штучны інтэлект і ствараюць прадукты, якія ставяць на першае месца канфідэнцыяльнасць і даюць больш магчымасцей людзям.
 home-learn-more-about-mozilla = Даведайцеся больш пра { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Рэкамендаваны прадукт
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Размыйце сваё месцазнаходжанне і дзейнасць з дапамогай <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Стварайце наш рух
+home-mofo-donate-to-mofo-today = Ахвяруйце { -brand-name-mozilla-foundation } сёння, каб Інтэрнэт заставаўся адкрытым і даступным для ўсіх.
 home-mofo-donate = Ахвяраваць
