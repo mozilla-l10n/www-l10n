@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = Blokovač reklám je softvér, kto
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Týmito reklamami môžu byť hlasné videoreklamy, reklamy, ktoré vás sledujú na webe, sledovače, súbory cookie tretích strán a ďalšie. Ak chcete použiť blokovač reklám, môžete vyhľadať doplnky pre blokovanie reklám, ktoré sú dostupné vo vašom prehliadači. <a href="{ $firefox }">{ -brand-name-firefox }</a> má napríklad <a href="{ $addons }">tento zoznam schválených doplnkov na blokovanie reklám</a>. Kliknite na tento zoznam (alebo blokovače reklám, ktoré sú schválené pre váš prehliadač) a zistite, ktorý vyhovuje vašim potrebám.
 features-adblocker-find-the-right-ad-blocker = Nájdite si pre seba ten správny blokovač
+features-adblocker-there-are-scores-of-content = Existuje množstvo blokovačov obsahu, ale tu je niekoľko fantastických možností, ktoré sú spravované { -brand-name-mozilla(case: "ins") }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, ktorý mnohí považujú za zlatý štandard medzi blokovačmi reklám, je známy svojou účinnosťou a efektívnosťou. Vysoko prispôsobiteľné, no zároveň funguje skvele hneď po vybalení.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> otupuje reklamu všade. Blokuje reklamy na webe, sociálnych médiách, dokonca aj tie otravné vyskakovacie okná (ak však chcete vyskakovacie okná len potlačiť, neurobíte chybu, ak budete používať <a { $attrs2 }>Blokovanie automaticky otváraných okien</a> ).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je ďalšou skvelou voľbou, ktorá nielen blokuje reklamy, ale poskytuje aj ďalšie možnosti ohľadom sledovania.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Tieto rozšírenia fungujú skvele vo <a { $attrs1 }>{ -brand-name-firefox(case: "loc") } pre počítač</a> aj <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Existuje <a href="{ $url }">AdBlocker Ultimate</a>, ktorý vás zbaví každej reklamy. Ale pozor. Niektoré z vašich obľúbených novín a časopisov sa spoliehajú na reklamu. Ak príliš veľa ľudí blokuje ich reklamy, môžu sa dostať do finančných problémov a skončiť s podnikaním.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Vyskakovacie reklamy sú najhoršie. Zablokujte ich pomocou rozšírenia <a href="{ $url }">Popup Blocker</a> a už nikdy sa nebudete musieť zaoberať otravnými vyskakovacími oknami.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Jedným z najobľúbenejších blokovačov reklám pre prehliadače { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Používajte ho na blokovanie reklám na { -brand-name-facebook(case: "loc") }, { -brand-name-youtube } a { -brand-name-hulu }.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích pr
 features-adblocker-on-firefox-you-can-use = Vo { -brand-name-firefox(case: "loc") } môžete použiť nastavenia <a href="{ $privacy }">ochrany súkromia</a> alebo <a href="{ $blocking }">blokovania obsahu</a> a získať ešte väčšiu kontrolu nad nástrojmi na sledovanie reklám, ktoré vám zobrazujú reklamy.
 features-adblocker-choose-your-level-of-protection = Zvoľte si svoju úroveň ochrany
 features-adblocker-to-start-click-on-the-v2 = Ak chcete začať, kliknite na štít naľavo od panela s adresou na ľubovoľnej webovej stránke a vyberte položku “Nastavenia ochrany”. Tým sa na novej karte otvoria Nastavenia { -brand-name-firefox(case: "gen") }, panel Súkromie a bezpečnosť. Tam by ste mali vidieť modré okno s rôznymi voľbami.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Ak chcete začať, kliknite na ponuku { -brand-name-firefox(case: "gen") } v pravom hornom rohu obrazovky. Vyzerá to ako tri riadky naukladané na seba. V rozbaľovacej ponuke kliknite na Blokovanie obsahu. Mali by ste vidieť modré vyskakovacie okno s rôznymi výbermi.
 features-adblocker-go-easy-with-standard = Jednoducho so štandardnou ochranou
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = V niektorých prípadoch môže
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Ak sa chcete dozvedieť viac o blokovaní reklám, pre prehliadač { -brand-name-firefox } ako aj ďalšie prehliadače sú k dispozícii stovky rozšírení na blokovanie reklám. Ak chcete vyskúšať blokovače reklám pre { -brand-name-firefox }, <a href="{ $url }">kliknutím sem</a> si stiahnete prehliadač, ktorý kladie súkromie na prvé miesto.
