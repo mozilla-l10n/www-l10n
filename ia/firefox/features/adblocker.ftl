@@ -16,12 +16,16 @@ features-adblocker-an-ad-blocker-is-a-piece = Un blocator de publicitate es un p
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Iste annuncios pote esser videos aggressive, annuncios que te seque per tote le web, traciatores, cookies de tertios, etc. Pro obtener un blocator de publicitate, tu pote cercar additivos disponibile pro tu navigator. <a href="{ $firefox }">{ -brand-name-firefox }</a>, per exemplo, ha <a href="{ $addons }">iste lista de additivos blocator approbate</a>. Consulta iste lista (o, si tu usa un altere navigator, su lista de blocatores approbate) e vide qual corresponde a tu requisitos.
 features-adblocker-find-the-right-ad-blocker = Trova le blocator de publicitate juste pro te
+features-adblocker-there-are-scores-of-content = Il ha decenas de blocatores de contento circa, ma ecce alcun phantastic optiones curate per { -brand-name-mozilla }…
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Il ha <a href="{ $url }">AdBlocker Ultimate</a> que te disembarassa de tote le annuncios, ma non oblida que alcunes de tu jornales e magazines favorite depende del publicitate. Troppo personas blocante lor annuncios poterea mitter los in bancarupta.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Le annuncios emergente/pop-up es le pejor. Bloca los con <a href="{ $url }">Popup Blocker</a> e non suffre jammais un altere tal molestia.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Un del plus popular blocatores de publicitate pro { -brand-name-chrome }, { -brand-name-safari } e { -brand-name-firefox } es <a href="{ $url }">AdBlock</a>. Usa lo pro blocar annuncios sur { -brand-name-facebook }, { -brand-name-youtube } e { -brand-name-hulu }.
@@ -32,8 +36,6 @@ features-adblocker-create-a-tracker-free = Crea un zona libere de traciatores co
 features-adblocker-on-firefox-you-can-use = Sur { -brand-name-firefox }, tu pote usar le parametros de <a href="{ $privacy }">vita private</a> o <a href="{ $blocking }">blocage de contento</a> pro exequer un controlo ancora plus stricte sur le traciatores publicitari que te administra le annuncios.
 features-adblocker-choose-your-level-of-protection = Elige tu nivello de protection
 features-adblocker-to-start-click-on-the-v2 = Pro initiar, clicca le escudo al sinistra del barra de adresse sur ulle pagina web e elige “Parametros de protection.” Isto aperira le quadro del parametros de confidentialitate e securitate de { -brand-name-firefox } in un nove scheda. Tu deberea vider un message emergente con plure electiones.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Pro comenciar, clicca sur le menu { -brand-name-firefox } in alto a dextra de tu schermo. Illo appare como tres lineas horizontal superponite. In le menu disrolante, clicca sur Blocage de contento. Alora apparera un fenestra blau con varie selectiones.
 features-adblocker-go-easy-with-standard = Naviga tranquillemente con le modo standard
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +60,3 @@ features-adblocker-in-some-cases-an-ad-blocker = In alcun casos, un blocator de 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Si tu desira saper plus re le blocada del avisos publicitari, il ha centenas de extensiones blocator de avisos publicitari disponibile pro { -brand-name-firefox } e altere navigatores. Si tu desira provar le blocatores de avisos publicitari que { -brand-name-firefox } usa, <a href="{ $url }">clicca ci pro discargar</a> un navigator que pone le confidentialitate in prime loco.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Si tu vole saper plus sur le blocage de publicitate, il ha centenas de extensiones pro blocar publicitate disponibile pro { -brand-name-firefox } e altere navigatores. Si tu vole provar le blocatores de publicitate que { -brand-name-firefox } usa, <a href="{ $url }">clicca hic pro discargar</a> un navigator que defende tu vita private.
