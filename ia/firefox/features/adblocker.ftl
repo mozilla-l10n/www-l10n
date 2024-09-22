@@ -17,6 +17,20 @@ features-adblocker-an-ad-blocker-is-a-piece = Un blocator de publicitate es un p
 features-adblocker-these-ads-might-be-loud = Iste annuncios pote esser videos aggressive, annuncios que te seque per tote le web, traciatores, cookies de tertios, etc. Pro obtener un blocator de publicitate, tu pote cercar additivos disponibile pro tu navigator. <a href="{ $firefox }">{ -brand-name-firefox }</a>, per exemplo, ha <a href="{ $addons }">iste lista de additivos blocator approbate</a>. Consulta iste lista (o, si tu usa un altere navigator, su lista de blocatores approbate) e vide qual corresponde a tu requisitos.
 features-adblocker-find-the-right-ad-blocker = Trova le blocator de publicitate juste pro te
 features-adblocker-there-are-scores-of-content = Il ha decenas de blocatores de contento circa, ma ecce alcun phantastic optiones curate per { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Considerate per multes esser le standard auree inter le blocatores de annuncios publicitari, <a { $attrs }>uBlock Origin</a> es famose pro su efficacia e efficientia. Altemente personalisabile, totevia illo alsi functiona brillantemente justo desde su activation.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> obtunde le annuncios publicitari ubique. Illo bloca annuncios publicitari sur le web, medios social, mesmo ille enoiose quadros resaltante (comocunque si tu solo cerca supprimer le quadros resaltante, tu non pote errar con <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> es un altere grande selection que non solo bloca annuncios publicitari, ma offere beneficios additional anti-traciamento.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Iste extensiones laborar magnificamente sur ambe <a { $attrs1 }>{ -brand-name-firefox } pro scriptorio</a> e <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
