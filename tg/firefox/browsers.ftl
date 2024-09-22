@@ -3,8 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
+firefox-browsers-main-heading = Браузерҳои «{ -brand-name-firefox }»
 firefox-browsers-desktop = Мизи корӣ
 firefox-browsers-download-for-desktop = Барои мизи корӣ боргирӣ кунед
 firefox-browsers-mobile = Мобилӣ

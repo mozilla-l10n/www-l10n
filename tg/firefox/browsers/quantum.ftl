@@ -8,3 +8,4 @@
 page-title = Боргирӣ кардани «{ -brand-name-firefox-quantum }»
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Маълумоти бештар дар бораи «{ -brand-name-firefox-quantum }»
+privacy-first = Махфият дар ҷойи аввал

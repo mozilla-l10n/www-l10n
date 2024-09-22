@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Браузери «{ -brand-name-firefox }»-ро бо браузерҳои дигар муқоиса кунед
 compare-index-firefox-versus-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Google Chrome»
 compare-index-firefox-versus-microsoft-edge = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Microsoft Edge»
 compare-index-firefox-versus-apple-safari = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Apple Safari»

@@ -11,6 +11,8 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-get-involved = Ҳамроҳ шавед
 firefox-developer-start-now = Ҳозир оғоз намоед
+firefox-developer-inspector = Тафтишкунанда
+firefox-developer-console = Консол
 firefox-developer-network = Шабака
 firefox-developer-performance = Самаранокӣ
 firefox-developer-learn-more-about-performance = Маълумоти бештар дар бораи абзорҳои самаранокӣ
@@ -21,6 +23,5 @@ firefox-developer-new-tools = Абзорҳои нав
 firefox-developer-inactive-css = «CSS»-и ғайрифаъол
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Хуш омадед ба «{ -brand-name-firefox-browser } { -brand-name-developer-edition }»
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

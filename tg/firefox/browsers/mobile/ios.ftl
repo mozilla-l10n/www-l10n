@@ -5,4 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } ва { -brand-name-ipad })
+mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-firefox-for = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-ios }»
+mobile-ios-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
+mobile-ios-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
+mobile-ios-scan-alt-text = Барои гирифтани «{ -brand-name-firefox }» дар «{ -brand-name-ios }», рамзи «QR»-ро тасвирбардорӣ намоед
+mobile-ios-make-firefox-your = Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарзи худ таъин намоед
+mobile-ios-fast-private-secure = Зудкор. Хусусӣ. Бехатар
 mobile-ios-about-mozilla = Дар бораи «{ -brand-name-mozilla }»

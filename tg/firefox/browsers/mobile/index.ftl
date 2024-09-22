@@ -7,3 +7,8 @@
 
 browsers-mobile-firefox-for-android = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-android }»
 browsers-mobile-firefox-for-ios = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-ios }»
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-compare = Муқоиса кардан
+browsers-mobile-download = Боргирӣ кардан
+browsers-mobile-android = { -brand-name-android }
+browsers-mobile-ios = { -brand-name-ios }

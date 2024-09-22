@@ -8,6 +8,7 @@
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Шарҳ
 firefox-enterprise-downloads = Боргириҳо
+firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-бит
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-support = Дастгирӣ
