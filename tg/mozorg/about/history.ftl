@@ -17,6 +17,12 @@ history-within-the-first-year-new = Дар давоми <a href="{ $firstyear }"
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = Бо таъсис додани ҷомеаи кушод, лоиҳаи «{ -brand-name-mozilla }» <a href="{ $stevecase }">нисбат ба ташкилотҳои дигар</a> калонтар шуд.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Аъзои ҷомеа ҷалб шуда, доираи <a href="{ $mission }">рисолати аслии</a> лоиҳаро васеъ карданд — ба ҷойи кор кардан дар браузери навбатии «{ -brand-name-netscape }», одамон диққати худро ба эҷод кардани <a href="{ $browsers }">браузерҳои гуногун</a>, <a href="{ $bugzilla }">абзорҳои барномарезӣ</a> ва як қатор <a href="{ $projects }">лоиҳаҳои дигар</a> ҷалб намуданд.
 history-for-more-information-about = Барои маълумоти бештар дар бораи таърихи «{ -brand-name-mozilla }», ба моводи зерин нигаред:
 history-mozilla-bookmarks = Хатбаракҳои «{ -brand-name-mozilla }»
 history-timeline-of-mozilla-project = Ҷадвали кори лоиҳаи «{ -brand-name-mozilla }»
