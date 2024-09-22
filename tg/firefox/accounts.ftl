@@ -12,7 +12,7 @@ mozilla-accounts-already = Шумо аллакай ҳисоби «{ -brand-name-
 firefox-accounts-manage = Идоракунии ҳисоби худ
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
-mozilla-account-sign-in-to = Барои имкониятҳои зерин ба ҳисоби худ дар «{ -brand-name-mozilla-account }» ворид шавед:
+mozilla-account-sign-in-to = Барои имкониятҳои зерин ба ҳисоби худ дар { -brand-name-mozilla-account } ворид шавед:
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Нигоҳдорӣ ва ҳамоҳангсозии ниҳонвожаҳо</a>

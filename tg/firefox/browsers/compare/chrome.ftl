@@ -7,3 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» бо «Google Chrome»
+compare-chrome-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Chrome» онҳоро манъ намекунад.

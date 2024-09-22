@@ -3,8 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/?geo=de
+### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
+consent-banner-heading = Ба мо барои беҳтар кардани таҷрибаи шумо бо «{ -brand-name-mozilla }» кумак кунед
 consent-banner-button-reject = Рад кардани ҳамаи кукиҳои иловагӣ
 consent-banner-button-accept = Қабул кардани ҳамаи кукиҳои иловагӣ
 consent-banner-settings-link = Танзимоти кукиҳо
