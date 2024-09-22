@@ -36,6 +36,7 @@ firefox-all-platform-v2 = 2. Платформа:
 firefox-all-language = Мова:
 firefox-all-language-v2 = 3. Мова:
 firefox-all-download = 4. Завантажити:
+firefox-all-desktop = Комп'ютер
 firefox-all-mobile = Мобільний
 firefox-all-recommended = (Рекомендовано)
 firefox-all-lang-multi = Кілька мов

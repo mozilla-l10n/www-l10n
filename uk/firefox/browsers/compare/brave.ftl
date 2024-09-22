@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = { -brand-name-firefox } проти Brave
+# HTML page description
+compare-brave-read-our-comparison = Прочитайте наше порівняння браузерів { -brand-name-firefox } і Brave за функціями, приватністю та простотою використання.
