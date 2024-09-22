@@ -7,6 +7,8 @@
 
 home-internet-for-people-not-profit = Інтэрнэт для людзей, а не для прыбытку
 home-did-you-know-mozilla-the-maker = Ці ведаеце вы, што { -brand-name-mozilla } — стваральнік { -brand-name-firefox } — змагаецца за тое, каб Інтэрнэт быў глабальным публічным рэсурсам, адкрытым і даступным для ўсіх і кожнага?
+home-mission-driven = Кіраваныя місіяй. Натхнёныя людзьмі.
+home-were-not-normal = Мы не проста звычайная тэхналагічная кампанія. Рэчы, якія мы ствараем, аддаюць перавагу людзям і іх прыватнасці, а не прыбытку. Мы існуём, каб зрабіць Інтэрнэт больш здаровым і шчаслівым месцам для ўсіх.
 home-product-firefox-browsing = Прыватнае і бяспечнае агляданне
 home-cta-get-firefox = Атрымаць { -brand-name-firefox }
 home-product-pocket-articles = Самыя цікавыя артыкулы з інтэрнэту
