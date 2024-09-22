@@ -29,7 +29,9 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } робіць стаўкі, 
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Далучайцеся да нас у стварэнні надзейнага ШІ
+home-work-on-ai = Праца { -brand-name-mozilla } з штучным інтэлектам – гэта не проста новая рэч. Мы выдаткавалі гады на фінансаванне, стварэнне і адстойванне адкрытага, справядлівага і адказнага развіцця штучнага інтэлекту. Мы сканцэнтраваныя на стварэнні штучнага інтэлекту, які служыць людзям, аддае перавагу празрыстасці і падтрымлівае грамадскае дабро, а не карпаратыўную павестку.
 home-read-more = Падрабязней
+home-so-what-is-mozilla = Такім чынам, што такое { -brand-name-mozilla }?
 home-learn-about-mofo = Даведацца аб { -brand-name-mozilla-foundation }
 home-join-the-fight = Далучайцеся да барацьбы за здаровы інтэрнэт
 home-learn-more-about-mozilla = Даведайцеся больш пра { -brand-name-mozilla }
