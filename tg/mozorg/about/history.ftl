@@ -54,6 +54,10 @@ history-the-renewed-competition = Рақобати навшуда <a href="{ $in
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = Дар соли 2013, барои озод кардани қувваи пурраи қобилияти Интернет дар смартфонҳо ва аз нав пешниҳод кардани имкониятҳои идоракунӣ ва интихоби озод ба одамони насли наве, ки ба Интернет меоянд, мо низоми амалкунандаи <a href="{ $firefoxos }">«{ -brand-name-firefox-os }»</a>-ро оғоз кардем.
 history-mozilla-also-celebrated = Дар соли 2013 «{ -brand-name-mozilla }», инчунин, ҷашни 15-солагии ҷамъиятро таҷлил намуданд.
+history-the-community-has-shown = Ҷомеаи мо нишон дод, ки ширкатҳои тиҷоратӣ метавонанд тавассути ҳамкорӣ дар лоиҳаҳо бо манбаи кушод фоидаи худро ба даст оранд ва маҳсулоти бузург барои истифодабарандагони ниҳоӣ метавонанд ҳамчун нармафзор бо манбаи кушод истеҳсол карда шаванд.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Имрӯз, ки аз ҳарвақта дида, бештар одамон ба Интернет дастрасӣ пайдо мекунанд ва онро <a href="{ $all }">дар забонҳои модариашон</a> истифода мебаранд.
 history-of-course-were-not-alone = Албатта, мо дар ин кору фаъолият танҳо нестем.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
