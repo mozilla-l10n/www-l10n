@@ -62,6 +62,8 @@ history-more-people-than-ever-before = Имрӯз, ки аз ҳарвақта д
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Ташкилоти устуворе таъсис дода шуд, ки барои дастгирии рисолати манфиатҳои ҷамъиятӣ механизмҳои бозориро истифода мебарад ва ин модели идора аз ҷониби дигарон барои таъсиси ташкилотҳои кушод, шаффоф ва муштарак дар <a href="{ $range }">доираи васеи</a> <a href="{ $areas }">соҳаҳо</a> ҳамчун таҷрибаи беҳтарин такрор карда шуд.
+history-the-future-is-full-of-challenges = Оянда пур аз масъалаҳои гуногун ва имкониятҳои нав мебошад, ки ба замони гузаштаи мо баробар аст.
+history-theres-no-guarantee-that = Ҳеҷ кафолате нест, ки Интернет дар вазъи кушод ё лаззатбахш, ё бехатар боқӣ мемонад.
 history-of-course-were-not-alone = Албатта, мо дар ин кору фаъолият танҳо нестем.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
