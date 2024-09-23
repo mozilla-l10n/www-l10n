@@ -58,6 +58,10 @@ history-the-community-has-shown = Ҷомеаи мо нишон дод, ки ши
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Имрӯз, ки аз ҳарвақта дида, бештар одамон ба Интернет дастрасӣ пайдо мекунанд ва онро <a href="{ $all }">дар забонҳои модариашон</a> истифода мебаранд.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Ташкилоти устуворе таъсис дода шуд, ки барои дастгирии рисолати манфиатҳои ҷамъиятӣ механизмҳои бозориро истифода мебарад ва ин модели идора аз ҷониби дигарон барои таъсиси ташкилотҳои кушод, шаффоф ва муштарак дар <a href="{ $range }">доираи васеи</a> <a href="{ $areas }">соҳаҳо</a> ҳамчун таҷрибаи беҳтарин такрор карда шуд.
 history-of-course-were-not-alone = Албатта, мо дар ин кору фаъолият танҳо нестем.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
