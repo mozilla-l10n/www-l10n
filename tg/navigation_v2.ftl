@@ -44,8 +44,10 @@ navigation-v2-join-the-fight-for-a = Ба мубориза барои Интер
 navigation-v2-leadership = Роҳнамоӣ
 navigation-v2-careers = Мансабҳои озод
 navigation-v2-mozilla-blog = Блоги «{ -brand-name-mozilla }»
+navigation-v2-learn-about-mozilla-and = Дар бораи «{ -brand-name-mozilla }» ва масъалаҳое, ки барои мо муҳиманд, маълумот гиред.
 navigation-v2-more-about-mozilla = Бештар дар бораи «{ -brand-name-mozilla }»
 navigation-v2-impact = Таъсир
+navigation-v2-find-out-how = Бифаҳмед, ки чӣ тавр мо Интернетро фарогиртар ва устувортар мегардонем
 
 ## Innovation menu
 
