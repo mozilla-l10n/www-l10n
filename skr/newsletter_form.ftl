@@ -15,6 +15,7 @@ newsletter-form-select-language = زبان چُݨو
 newsletter-form-your-email-here = تہاݙی ای میل اتھ ہے
 newsletter-form-get-firefox-news = { -brand-name-firefox }  خبراں گھنو
 newsletter-form-join-the-community = برادری وچ شامل تھیوو
+newsletter-form-sign-up-to-receive = آپݨی حیاتی کوں شکل ݙیوݨ آلے انٹرنیٹ ٹرینڈز  تے { -brand-name-firefox } کنوں ماہوار اپ ڈیٹاں گھنݨ کیتے سائن اپ تھیوو۔
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = میں ٹھیک ہاں { -brand-name-mozilla } میݙیاں معلومات کوں سنبھلیندا پیا ہے جیویں جو <a href="{ $url }"> ایں رازداری دے نوٹس </a> وِچ وضاحت کیتی ڳئی ہے۔
