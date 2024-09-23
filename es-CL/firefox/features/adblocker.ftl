@@ -17,11 +17,18 @@ features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidad es una
 features-adblocker-these-ads-might-be-loud = Estos anuncios podrían ser videos publicitarios ruidosos, anuncios que te siguen a través de la web, rastreadores, cookies de terceros y más. Para usar un bloqueador de publicidad, puedes buscar un complemento que esté disponible para tu navegador. <a href="{ $firefox }">{ -brand-name-firefox }</a>, por ejemplo, tiene <a href="{ $addons }">esta lista de bloqueadores de publicidad aprobados</a>. Haz clic en la lista (o bloqueadores de publicidad que estén aprobados para tu navegador) y revisa cual se ajusta a tus necesidades.
 features-adblocker-find-the-right-ad-blocker = Encuentra el bloqueador de publicidad adecuado para ti
 # Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Estas extensiones funcionan perfectamente tanto en <a { $attrs1 }>{ -brand-name-firefox } para escritorio</a> como en <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
+# Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Está <a href="{ $url }">AdBlocker ultimate</a> el cual se hace cargo de todo anuncio, pero el comprador debe estar alerta. Algunos de tus diarios y revistas favoritos dependen de la publicidad. Si demasiadas personas bloquean sus anuncios, ellos podrían quedar en la bancarrota.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Los anuncios emergentes son lo peor. Bloquéalos con <a href="{ $url }">Popup Blocker</a> y nunca más vuelvas a lidiar con otro molesto anuncio emergente.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Uno de los más populares bloqueadores de publicidad para { -brand-name-chrome }, { -brand-name-safari } y { -brand-name-firefox } es <a href="{ $url }">AdBlock</a>. Úsalo para bloquear la publicidad en { -brand-name-facebook }, { -brand-name-youtube } y { -brand-name-hulu }.
@@ -32,8 +39,6 @@ features-adblocker-create-a-tracker-free = Crea una zona libre de rastreadores c
 features-adblocker-on-firefox-you-can-use = En { -brand-name-firefox }, puedes usar los ajustes de <a href="{ $privacy }">Privacidad</a> o de <a href="{ $blocking }">Bloqueo de contenido</a> para tener aún más control sobre los rastreadores de publicidad que te entregan los anuncios.
 features-adblocker-choose-your-level-of-protection = Elige tu nivel de protección
 features-adblocker-to-start-click-on-the-v2 = Para comenzar, haz clic en el escudo a la izquierda de la barra de direcciones en cualquier página web y selecciona "Ajustes de protección". Esto abrirá el panel de Ajustes de privacidad y seguridad de { -brand-name-firefox } en una nueva pestaña. Deberías ver una ventana emergente azul con diferentes selecciones.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Para empezar, haz clic en el menú de { -brand-name-firefox } en la esquina superior derecha de tu pantalla. Luce como tres lineas apiladas una sobre la otra. En el menú desplegable, haz clic en Bloqueo de contenido. Debieras ver una ventana emergente azul con diferentes selecciones.
 features-adblocker-go-easy-with-standard = Hazlo fácil con el modo Estándar
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +63,3 @@ features-adblocker-in-some-cases-an-ad-blocker = En algunos casos, un bloqueador
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Si deseas aprender más sobre el bloqueo de publicidad, hay cientos de extensiones de bloqueo de publicidad disponibles para { -brand-name-firefox } y otros navegadores. Si deseas probar los bloqueadores de publicidad que { -brand-name-firefox } usa, <a href="{ $url }">haz clic aquí para bajar</a> un navegador que pone tu privacidad en primer lugar.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Si deseas aprender más sobre el bloqueo de publicidad, hay cientos de extensiones de bloqueo de publicidad disponibles para { -brand-name-firefox } y otros navegadores. Si deseas probar los bloqueadores de publicidad que { -brand-name-firefox } usa, <a href="{ $url }">haz clic aquí para bajar</a> un navegador que pone tu privacidad en primer lugar.
