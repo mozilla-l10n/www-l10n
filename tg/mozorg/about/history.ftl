@@ -50,6 +50,10 @@ history-new-versions-of-firefox = Версияҳои нави «{ -brand-name-fi
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Рақобати навшуда <a href="{ $innovation }">инноватсияро суръат бахшид</a> ва Интернетро барои ҳар як кас дар саросари ҷаҳон беҳтар кард.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = Дар соли 2013, барои озод кардани қувваи пурраи қобилияти Интернет дар смартфонҳо ва аз нав пешниҳод кардани имкониятҳои идоракунӣ ва интихоби озод ба одамони насли наве, ки ба Интернет меоянд, мо низоми амалкунандаи <a href="{ $firefoxos }">«{ -brand-name-firefox-os }»</a>-ро оғоз кардем.
+history-mozilla-also-celebrated = Дар соли 2013 «{ -brand-name-mozilla }», инчунин, ҷашни 15-солагии ҷамъиятро таҷлил намуданд.
 history-of-course-were-not-alone = Албатта, мо дар ин кору фаъолият танҳо нестем.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
