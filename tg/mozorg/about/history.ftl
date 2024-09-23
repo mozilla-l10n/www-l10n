@@ -36,6 +36,9 @@ history-not-many-people-noticed = Он вақт бисёр одамон пайх
 # Variables:
 #   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
 history-in-2003-the-mozilla-project = Дар соли 2003 лоиҳаи «{ -brand-name-mozilla }» расман { -brand-name-mozilla-foundation }-ро таъсис дод, ки <a href="{ $foundation }">ташкилоти мустақили ғайритиҷоратӣ</a> буда, аз ҷониби донорҳои инфиродӣ ва ширкатҳои гуногун дастгирӣ карда шуд.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Муассисаи нави { -brand-name-mozilla-foundation } нақши асосии идоракунии амалиёти ҳаррӯзаи лоиҳаро идома дод ва инчунин расман нақши пешбурди принсипҳои <a href="{ $manifesto }">кушодагӣ, навоварӣ ва имкониятҳои навро</a> дар Интернет ба уҳда гирифт.
 history-of-course-were-not-alone = Албатта, мо дар ин кору фаъолият танҳо нестем.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
