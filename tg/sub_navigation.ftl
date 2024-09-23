@@ -38,6 +38,7 @@ sub-navigation-nightly-and-beta = { -brand-name-nightly } ва { -brand-name-bet
 sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-nightly } ва { -brand-name-beta }
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
 sub-navigation-firefox-features = Ҳусусиятҳои «{ -brand-name-firefox }»
+sub-navigation-ad-tracker-blocking = Манъкунии васоити пайгирии рекламавӣ
 sub-navigation-private-browsing = Тамошокунии махфӣ
 sub-navigation-what-is-a-browser = Браузер чист?
 sub-navigation-browsing-history = Таърихи тамошо
