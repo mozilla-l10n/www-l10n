@@ -22,13 +22,13 @@ facebook-container-opt-out-on-your-terms = Mehr Kontrolle
 
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-facebook-can-track-almost = { -brand-name-facebook } kann fast alle Ihrer Webaktivitäten tracken und mit Ihrer { -brand-name-facebook }-Identität in Verbindung bringen. Falls Ihnen das zu viel wird, kann die <a href="{ $fbcontainer }">{ -brand-name-facebook-container }-Erweiterung</a> Ihre Identität in einen separaten Container-Tab isolieren. So wird es für { -brand-name-facebook } schwieriger, Sie im Web außerhalb von { -brand-name-facebook } zu tracken.
+facebook-container-facebook-can-track-almost = { -brand-name-facebook } kann fast alle deiner Webaktivitäten tracken und mit deiner { -brand-name-facebook }-Identität in Verbindung bringen. Falls dir das zu viel wird, kann die <a href="{ $fbcontainer }">{ -brand-name-facebook-container }-Erweiterung</a> deine Identität in einen separaten Container-Tab isolieren. So wird es für { -brand-name-facebook } schwieriger, dich im Web außerhalb von { -brand-name-facebook } zu tracken.
 
 facebook-container-install-and-contain = Einfache Installation
 
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Die Installation der <a href="{ $fbcontainer }">Erweiterung</a> ist einfach. Nach der Aktivierung wird { -brand-name-facebook } dann jedes Mal, wenn Sie es benutzen, in einem blauen Tab geöffnet. Sie können { -brand-name-facebook } dann wie gewohnt nutzen. { -brand-name-facebook } kann Ihnen weiterhin Werbung und Empfehlungen schicken, während Sie auf der Seite unterwegs sind, allerdings wird es für { -brand-name-facebook } viel schwieriger, Ihre Aktivitäten <strong>abseits von { -brand-name-facebook } zu nutzen,</strong> um Ihnen Anzeigen oder andere personalisierte Inhalte zu zeigen.
+facebook-container-installing-the-extension-is = Die Installation der <a href="{ $fbcontainer }">Erweiterung</a> ist einfach. Nach der Aktivierung wird { -brand-name-facebook } dann jedes Mal, wenn du es benutzt, in einem blauen Tab geöffnet. Du kannst { -brand-name-facebook } dann wie gewohnt nutzen. { -brand-name-facebook } kann dir weiterhin Werbung und Empfehlungen schicken, während du auf der Seite unterwegs bist, allerdings wird es für { -brand-name-facebook } viel schwieriger, deine Aktivitäten <strong>abseits von { -brand-name-facebook } zu nutzen,</strong> um dir Anzeigen oder andere personalisierte Inhalte zu zeigen.
 
 facebook-container-about-firefox-and-mozilla = Von { -brand-name-firefox } und { -brand-name-mozilla }
 
