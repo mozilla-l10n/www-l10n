@@ -70,10 +70,10 @@ firefox-all-release-notes = Versionshinweise
 firefox-all-source-code = Quelltext
 firefox-all-need-help = Hilfe benötigt?
 
-firefox-all-choose-which-firefox = Holen Sie sich den { -brand-name-firefox-browser } in Ihrer Sprache
+firefox-all-choose-which-firefox = Hole dir den { -brand-name-firefox-browser } in deiner Sprache
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }-Datenschutzhinweis
 firefox-all-learn-about-firefox = Mehr Infos zum { -brand-name-firefox } Browser
-firefox-all-the-standard-firefox = Der Standard-{ -brand-name-firefox }-Browser – schnell und privat. Falls Sie unsicher sind, welchen { -brand-name-firefox } Sie wählen sollen, entscheiden Sie sich hierfür.
+firefox-all-the-standard-firefox = Der Standard-{ -brand-name-firefox }-Browser – schnell und privat. Falls du unsicher bist, welchen { -brand-name-firefox } du wählen sollst, entscheide dich hierfür.
 firefox-all-get-a-sneak-peek-at = Erhalte schon vor der Veröffentlichung Infos über die neuesten Funktionen des { -brand-name-firefox } Browsers.
 firefox-all-test-your-sites-against = Teste deine Websites mit leistungsstarken, flexiblen Entwicklerwerkzeugen, die standardmäßig aktiviert sind, auf die bald veröffentlichten { -brand-name-firefox }-Browserfunktionen.
 firefox-all-count-on-stability-and = Erhalte Stabilität und Benutzerfreundlichkeit mit diesem { -brand-name-firefox }-Browser für Unternehmen.
