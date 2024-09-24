@@ -17,11 +17,18 @@ features-adblocker-an-ad-blocker-is-a-piece = Adblockere er små programmer, der
 features-adblocker-these-ads-might-be-loud = Disse annoncer kan være larmende video-annoncer, bannere, der følger dig rundt på nettet, tredjeparts-cookies og mere. Hvis du vil bruge en adblocker, så kan du søge efter adblocker-tilføjelser til din browser. <a href="{ $firefox }">{ -brand-name-firefox }</a> har fx <a href="{ $addons }">en liste med godkendte adblocker-tilføjelser</a>. Undersøg adblockerne på listen (eller adblockere, der er godkendt til din browser), og se, hvilken der passer bedst til dine behov.
 features-adblocker-find-the-right-ad-blocker = Find den rigtige adblocker
 # Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Disse udvidelser fungerer fint både på <a { $attrs1 }>{ -brand-name-firefox } til computer</a> og <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
+# Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Nogle adblockere, fx <a href="{ $url }">AdBlocker Ultimate</a> blokerer alle kendte reklamer. Men husk på, at nogle af dine foretrukne websteder kan være økonomisk afhængige af reklamer. Hvis alle blokerer et websteds reklamer, så kan det være, at webstedet simpelthen går nedenom og hjem.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Pop op-reklamer er noget af det værste. Du kan blokere dem med <a href="{ $url }">Popup Blocker</a> - så behøver du ikke se på dem.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = En af de mest populære adblockere til { -brand-name-chrome }, { -brand-name-safari } og { -brand-name-firefox } er <a href="{ $url }">AdBlock</a>. Brug den til at blokere reklamer på { -brand-name-facebook }, { -brand-name-youtube } og { -brand-name-hulu }.
@@ -32,8 +39,6 @@ features-adblocker-create-a-tracker-free = Opret en sporingsfri zone med Blokeri
 features-adblocker-on-firefox-you-can-use = I { -brand-name-firefox } kan du bruge indstillingerne for <a href="{ $privacy }">Beskyttelse af privatliv</a> eller <a href="{ $blocking }">Blokering af indhold</a> til at få endnu mere kontrol over sporings-tjenester, der viser dig reklamer.
 features-adblocker-choose-your-level-of-protection = Vælg dit beskyttelsesniveau
 features-adblocker-to-start-click-on-the-v2 = For at komme i gang skal du klikke på på skjoldet til venstre for adressefeltet på en hvilken som helst webside og vælge "Indstillinger for beskyttelse". Dette åbner siden Privatliv og sikkerhed i { -brand-name-firefox }' indstillinger i et nyt faneblad. Et afsnit med forskellige valgmuligheder åbnes.
-# Obsolete string
-features-adblocker-to-start-click-on-the = For at komme i gang, klik på menuknappen i øverste højre hjørne af { -brand-name-firefox }-vinduet. Det er den med de tre vandrette streger. Klik på Blokering af indhold i menuen, der åbnes. Et afsnit med forskellige valgmuligheder åbnes.
 features-adblocker-go-easy-with-standard = Gør det let med standardtilstand
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +63,3 @@ features-adblocker-in-some-cases-an-ad-blocker = I nogle tilfælde kan en adbloc
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Hvis du vil lære mere om blokering af reklamer, så findes der hundredvis af adblockere til { -brand-name-firefox } og andre browsere. Vil du prøve nogle af de adblockere, der findes til { -brand-name-firefox }, så <a href="{ $url }">klik her for at hente</a> en browser, der er fokuseret på at beskytte dit privatliv.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Hvis du vil lære mere om blokering af reklamer, så findes der hundredvis af adblockere til { -brand-name-firefox } og andre browsere. Vil du prøve nogle af de adblockere { -brand-name-firefox } bruger, så <a href="{ $url }">klik her for at hente</a> en browser, der er fokuseret på at beskytte dit privatliv.
