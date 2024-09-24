@@ -68,6 +68,7 @@ navigation-about = Дар бораи барнома
 navigation-close-about-menu = Пӯшидани менюи «Дар бораи барнома»
 navigation-meet-the-technology-company = Бо ташкилоти технологӣ шинос шавед, ки одамонро нисбат ба фоида ба ҷойи волотар мегузорад.
 navigation-new-features = Хусусиятҳои нав
+navigation-save-content-absorb-knowledge = Муҳтаворо нигоҳ доред. Илму дониш гиред.
 navigation-projects = Лоиҳаҳо
 navigation-close-projects-menu = Пӯшидани менюи «Лоиҳаҳо»
 navigation-developers = Барномасозон
