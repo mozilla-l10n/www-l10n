@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = Internet for folk, ikke profit
 home-did-you-know-mozilla-the-maker = Vidste du, at { -brand-name-mozilla } — dem der laver { -brand-name-firefox } — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle?
+home-mission-driven = Drevet af en mission. Drevet af mennesker.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = "Vi eksisterer for at kæmpe for internettet som vores allesammens fælles ressource."
 home-mitchell-baker-v2 = Mitchell Baker, bestyrelsesforkvinde, { -brand-name-mozilla-foundation }.
