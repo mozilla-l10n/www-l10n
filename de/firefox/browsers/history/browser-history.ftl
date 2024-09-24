@@ -66,4 +66,4 @@ browser-history-in-the-future-the-v2 = Das Internet wird sich in Zukunft noch we
 
 browser-history-whatever-the-future = Was immer die Zukunft des Webs mit sich bringt, werden { -brand-name-mozilla } und { -brand-name-firefox } für ihre Nutzer da sein und sicherstellen, dass sie leistungsstarke Tools zur Verfügung haben, um das Internet mit all seinen Möglichkeiten optimal nutzen zu können. Das Internet ist für alle, und jeder sollte die Kontrolle über die eigene Interneterfahrung haben. Deshalb statten wir { -brand-name-firefox } mit Tools aus, die die Daten der Nutzer schützen und verkaufen Nutzerdaten niemals an Werbetreibende.
 browser-history-resources = Quellen
-browser-history-take-control-of = Übernehmen Sie die Kontrolle über Ihren Browser.
+browser-history-take-control-of = Übernimm die Kontrolle über deinen Browser.
