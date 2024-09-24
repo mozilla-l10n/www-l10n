@@ -8,7 +8,7 @@
 what-is-a-browser-what-is-a-web = Was macht ein Internet-Browser?
 
 # HTML page description
-what-is-a-browser-a-web-browser = Ein Internet-Browser bringt Sie im Internet überall hin und ermöglicht es Ihnen, Texte, Bilder und Videos aus der ganzen Welt zu sehen.
+what-is-a-browser-a-web-browser = Ein Internet-Browser bringt dich im Internet überall hin und ermöglicht es dir, Texte, Bilder und Videos aus der ganzen Welt zu sehen.
 
 what-is-a-browser-the-web-is-a-vast = Das Internet ist ein riesiges und machtvolles Tool. Im Laufe von ein paar Jahrzehnten hat das Netz die Art und Weise verändert, wie wir arbeiten, spielen und miteinander interagieren. Abhängig von seiner jeweiligen Nutzung bildet es eine Brücke zwischen Nationen, treibt den Handel voran, fördert Beziehungen und sorgt für künftige Innovationen. Außerdem hat es uns wohl mehr Memes gebracht, als wir jemals nutzen können.
 
