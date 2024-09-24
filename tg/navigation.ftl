@@ -5,7 +5,7 @@
 navigation-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 navigation-get-a-firefox-account = «{ -brand-name-firefox-account }»-ро ба даст оред
 navigation-firefox-browser-for-desktop = Браузери «{ -brand-name-firefox-browser }» барои мизи корӣ
-navigation-get-the-browser-that-respects = Браузереро ба даст оред, ки махфияти шуморо ба таври худкор эҳтиром кунад. Браузери шумо дар «{ -brand-name-windows }», «{ -brand-name-mac }» ё «{ -brand-name-linux }».
+navigation-get-the-browser-that-respects = Браузереро ба даст оред, ки махфияти шуморо ба таври худкор эҳтиром мекунад. Браузери шумо дар «{ -brand-name-windows }», «{ -brand-name-mac }» ё «{ -brand-name-linux }».
 navigation-firefox-browser-for-mobile = Браузери «{ -brand-name-firefox-browser }» барои дастгоҳи мобилӣ
 navigation-take-speed-privacy-and = Суръати баланд, махфият ва оромии ақлро бо худ гиред. Браузери шумо дар «{ -brand-name-android }» ва «{ -brand-name-ios }».
 navigation-download-for-ios = Барои низоми «{ -brand-name-ios }» боргирӣ намоед

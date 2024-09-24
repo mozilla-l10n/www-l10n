@@ -14,4 +14,5 @@ mobile-ios-scan-the-qr-code-to-get-started = Барои оғози кор бо �
 mobile-ios-scan-alt-text = Барои гирифтани «{ -brand-name-firefox }» дар «{ -brand-name-ios }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-ios-make-firefox-your = Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарзи худ таъин намоед
 mobile-ios-fast-private-secure = Зудкор. Хусусӣ. Бехатар
+mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
 mobile-ios-about-mozilla = Дар бораи «{ -brand-name-mozilla }»

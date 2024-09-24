@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } ба қайд гиред – Маълумоти худро ба таври махфӣ, бехатар ва ҳамоҳангшуда нигоҳ доред
 firefox-accounts-enter-your-email-address = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
 firefox-accounts-already-have-an-account = Аллакай ҳисобе доред?
 firefox-accounts-sign-in = Ворид шудан
@@ -13,6 +15,9 @@ firefox-accounts-manage = Идоракунии ҳисоби худ
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Барои имкониятҳои зерин ба ҳисоби худ дар { -brand-name-mozilla-account } ворид шавед:
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Фиристодани варақа</a> ба дастгоҳи дигар
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Нигоҳдорӣ ва ҳамоҳангсозии ниҳонвожаҳо</a>

@@ -8,3 +8,4 @@
 best-browser-privacy-speed-and-security = Махфият, суръат ва амният.
 best-browser-a-browser-built-for = Браузере, ки барои суръат сохта шудааст.
 best-browser-a-browser-that-puts = Браузере, ки бехатариро дар ҷои аввал мегузорад.
+best-browser-take-control-of-your = Браузери худро дар зери назорат гиред.
