@@ -12,7 +12,7 @@ mobile-android-firefox-browser-for = Der { -brand-name-firefox }-Browser für { 
 
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 
-mobile-android-get-firefox-for = Holen Sie sich { -brand-name-firefox } für { -brand-name-android }
+mobile-android-get-firefox-for = Hol dir { -brand-name-firefox } für { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Download-Link an dein Telefon senden.
 mobile-android-scan-the-qr-code-to-get-started = Um loszulegen, scanne den QR-Code
 mobile-android-scan-alt-text = Scanne den QR-Code, um { -brand-name-firefox } auf { -brand-name-android } zu downlaoden
@@ -24,7 +24,7 @@ mobile-android-one-tap-to = Privatsphäre mit einem Fingertipp
 mobile-android-get-to-private = Rufe mit nur einem Fingertipp den privaten Modus auf. Und wenn du den privaten Modus schließt, wird deine Chronik automatisch von deinem Gerät gelöscht.
 
 mobile-android-search-your-own = Benutzerdefinierte Suche
-mobile-android-got-a-big = Sie haben ein großes Smartphone und normalgroße Daumen? Kein Problem. Mit { -brand-name-firefox } für { -brand-name-android } können Sie die Suchleiste von oben nach unten bewegen, damit Sie sie einfacher mit einer Hand bedienen können. Sie können Ihre eigene Suchmaschine innerhalb des Browsers aussuchen und { -brand-name-firefox } als Standardbrowser festlegen, wenn Sie wollen.
+mobile-android-got-a-big = Du hast ein großes Smartphone und normalgroße Daumen? Kein Problem. Mit { -brand-name-firefox } für { -brand-name-android } kannst du die Suchleiste von oben nach unten bewegen, damit du sie einfacher mit einer Hand bedienen kannst. Du kannst deine eigene Suchmaschine innerhalb des Browsers aussuchen und { -brand-name-firefox } als Standardbrowser festlegen, wenn du willst.
 
 mobile-android-save-power-with = Strom sparen mit dem Dunkelmodus
 mobile-android-switch-to-dark = Wechsle jederzeit in den Dunkelmodus, um die Belastung der Augen zu reduzieren und die Akkuleistung zu verlängern.
