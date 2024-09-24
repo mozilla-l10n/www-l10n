@@ -20,7 +20,7 @@ firefox-developer-start-now = Los geht’s
 firefox-developer-design-code-test = Gestalte. Code. Teste. Verbessere.
 
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Bauen und perfektionieren Sie Ihre Websites<br> mit { -brand-name-firefox-devtools }
+firefox-developer-build-and-perfect = Baue und perfektioniere deine Websites<br> mit { -brand-name-firefox-devtools }
 firefox-developer-inspector = Inspector
 firefox-developer-inspect-and-refine = Code inspizieren und optimieren für pixelgenaue Layouts.
 firefox-developer-learn-about-page-inspector = Mehr über den Inspector erfahren
