@@ -14,11 +14,11 @@ firefox-quantum-was = { -brand-name-firefox-quantum } war eine Revolution bei de
 learn-more-about = Weitere Informationen zu { -brand-name-firefox-quantum }
 
 privacy-first = Datenschutz geht vor
-firefox-doesnt-spy = { -brand-name-firefox } spioniert Sie im Internet nicht aus. Wir stoppen viele bekannte Tracking-Cookies von Drittanbietern und geben Ihnen die volle Kontrolle.
+firefox-doesnt-spy = { -brand-name-firefox } spioniert dich im Internet nicht aus. Wir stoppen viele bekannte Tracking-Cookies von Drittanbietern und geben dir die volle Kontrolle.
 super-fast = Superschnell
 get-speed-and = Geschwindigkeit und Sicherheit – alles drin. { -brand-name-firefox } ist schnell, weil wir Ihre Online-Aktivitäten nicht verfolgen.
 always-evolving = Entwickelt sich ständig weiter
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features
-find-out-about = Erfahren Sie mehr über die tollen <a href="{ $url }">Funktionen von { -brand-name-firefox }</a>.
+find-out-about = Erfahre mehr über die tollen <a href="{ $url }">Funktionen von { -brand-name-firefox }</a>.
