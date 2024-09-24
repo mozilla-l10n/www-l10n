@@ -5,8 +5,8 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = { -brand-name-firefox }-Produkte werden so entwickelt, dass sie Ihre Privatsphäre schützen
-learn-more-about-firefox = Erfahren Sie mehr über { -brand-name-firefox }, seine Geschichte, Funktionen und Mission
-learn-more-about = Erfahren Sie mehr über { -brand-name-firefox }-Browser und Produkte, die Ihre Daten mit Respekt behandeln und so entwickelt wurden, dass sie Ihre Privatsphäre schützen.
+learn-more-about-firefox = Erfahre mehr über { -brand-name-firefox }, seine Geschichte, Funktionen und Mission
+learn-more-about = Erfahre mehr über { -brand-name-firefox }-Browser und Produkte, die deine Daten mit Respekt behandeln und so entwickelt wurden, dass sie deine Privatsphäre schützen.
 learn-more-faq = FAQ zu { -brand-name-firefox }
 the-history-of = Die Geschichte der Internet-Browser
 firefox-has-been = { -brand-name-firefox } war fast von Anfang an dabei.
@@ -19,7 +19,7 @@ firefox-is-more = { -brand-name-firefox } ist mehr als ein Browser
 its-a-lightning = Es ist eine blitzschnelle Tür zum besten Web-Erlebnis.
 get-the-browsers = Browser, bei denen deine Privatsphäre an erster Stelle steht
 get-the-privacy = Holen Sie sich die Privatsphäre, die Sie verdienen. Der erweiterte Schutz vor Aktivitätenverfolgung macht die Privatsphäre zum Standard, jedes Mal, wenn Sie Ihren Browser öffnen.
-choose-which-firefox = Holen Sie sich den { -brand-name-firefox-browser } in Ihrer Sprache
+choose-which-firefox = Hole dir den { -brand-name-firefox-browser } in deiner Sprache
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } für { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ein { -brand-name-chromebook } hat schon { -brand-name-chrome } vorinstalliert, aber { -brand-name-firefox } als Standardbrowser bietet noch einige Vorteile:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
