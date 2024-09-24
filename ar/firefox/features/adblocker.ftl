@@ -18,14 +18,37 @@ features-adblocker-these-ads-might-be-loud = وقد تكون هذه الإعلا
 
 features-adblocker-find-the-right-ad-blocker = ابحث عن حاجب الإعلانات المناسب لك
 
+features-adblocker-there-are-scores-of-content = هناك عدد هائل من أدوات حظر المُحتوى، ولكن إليك بعض الخيارات الرائعة التي تأتيك برعاية { -brand-name-mozilla }...
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = تشتهر أداة <a { $attrs }>uBlock Origin</a> بفعاليتها وكفاءتها، ولِذلك يَعتبرها كثيرون المعيار الذهبي لأدوات حظر الإعلانات. تتميز الأداة بأنها قابلة للتخصيص بدرجة كبيرة، كما أنها تعمل بشكل رائع عند تشغيلها مباشرةً دون إجراء أي إعدادات.
+
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = تعمل أداة <a { $attrs1 }>AdGuard AdBlocker</a> على إضعاف الإعلان في كل مكان. إنها تحظر الإعلانات على صفحات الويب ووسائل التواصل الاجتماعي، وحتى تلك النوافذ المُنبثقة المزعجة (ولكن إذا كنت تبحث فقط عن منع ظهور النوافذ المُنبثقة، فلا يُمكنك أن تخطئ مع <a { $attrs2 }>Popup Blocker</a>).
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = كما تُعد أداة <a { $attrs }>Ghostery</a> من الخيارات المُمتازة الأخرى والتي لا تحظر الإعلانات فحسب، ولكنها توفّر مزايا إضافية لمنع التعقّب.
+
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = تعمل هذه الإضافات بشكل رائع على <a { $attrs1 }>{ -brand-name-firefox } لِكل من سطح المكتب</a> و <a { $attrs2 }>أندرويد</a>.
+
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = هنالك حاجب إعلانات يُسمى <a href="{ $url }">AdBlocker Ultimate</a>، يمكنه حجب جميع الإعلانات، ولكن يجب الحذر قبل شرائه. فبعض الصُحف والمجلات المفضلة لديك تعتمد على الإعلانات. وإذا حجب عدد كبير جدًا من الأشخاص إعلانات هذه الصحف والمجلات، قد يتسبب ذلك في توقف عملهم.
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = الإعلانات المُنبثقة هي الأسوأ. حيث يمكن حجبها باستخدام <a href="{ $url }">Popup Blocker</a>، ويجب عليك عدم التعامل مع أي نافذة منبثقة مزعجة مرة أخرى.
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = هذا ويُعد <a href="{ $url }">AdBlock</a> أحد أكثر حاجبات الإعلانات شهرة لمُتصفحات { -brand-name-chrome } و{ -brand-name-safari } و{ -brand-name-firefox }. فاستخدمه لحجب الإعلانات على { -brand-name-facebook } و{ -brand-name-youtube } و{ -brand-name-hulu }.
