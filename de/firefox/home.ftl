@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = Alle { -brand-name-firefox }-Produkte schützen zuallererst deine Privatsphäre online
-firefox-home-firefox-is-more-than = { -brand-name-firefox } ist mehr als nur ein Browser. Erfahren Sie mehr über { -brand-name-firefox }-Produkte, die Ihre Daten mit Respekt behandeln und entwickelt wurden, um online für den Schutz Ihrer Daten zu sorgen.
+firefox-home-firefox-is-more-than = { -brand-name-firefox } ist mehr als nur ein Browser. Erfahre mehr über { -brand-name-firefox }-Produkte, die deine Daten mit Respekt behandeln und entwickelt wurden, um online für den Schutz deiner Daten zu sorgen.
 
 # Obsolete string
 firefox-home-the-browser-is-just = Der Browser ist erst der Anfang
