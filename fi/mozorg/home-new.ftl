@@ -44,4 +44,5 @@ home-featured-product = Valokeilassa
 home-feature-blur-your-location = Sumenna sijaintisi ja toimintasi käyttämällä <span>{ -brand-name-mozilla-vpn }</span>:ää
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Rakenna liikettämme
+home-mofo-donate-to-mofo-today = Lahjoita { -brand-name-mozilla-foundation }ille tänään varmistaaksesi, että Internet pysyy avoimena ja kaikkien saatavilla.
 home-mofo-donate = Lahjoita
