@@ -26,6 +26,7 @@ home-cta-get-fakespot = Hent { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Vær med til at skabe mer pålidelig AI
+home-work-on-ai = { -brand-name-mozilla }s arbejde med AI er ikke noget nyt - vi har i årevis finansieret, udviklet og været fortalere for AI, der er åben, fair og udviklet på ansvarlig vis. Vores fokus er på at skabe AI, der tjener mennesker, prioriterer gennemsigtighed og gavner os alle, og ikke bare virksomheders interesser.
 home-read-more = Læs mere
 home-so-what-is-mozilla = Hvad er { -brand-name-mozilla }?
 home-learn-about-mofo = Læs mere om { -brand-name-mozilla-foundation }
