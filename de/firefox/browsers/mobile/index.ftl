@@ -18,7 +18,7 @@ browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } fürs Han
 browsers-mobile-the-more-you-use = Je mehr du ihn nutzt, desto cleverer wird er. { -brand-name-firefox } Homescreen passt sich dir an und erleichtert es dir immer da weiterzumachen, wo du aufgehört hast.
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
-browsers-mobile-get-enhanced-tracking-protection = Holen Sie sich den verbesserten Tracking-Schutz und machen Sie { -brand-name-firefox } zu Ihrem dauerhaften Standardbrowser auf Ihrem { -brand-name-iphone } und { -brand-name-ipad }.
+browsers-mobile-get-enhanced-tracking-protection = Hol dir den verbesserten Tracking-Schutz und mach { -brand-name-firefox } zu deinem dauerhaften Standardbrowser auf deinem { -brand-name-iphone } und { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Suchst du nach einem optimierten, superschnellen mobilen Browser mit Datenschutzfunktionen der nächsten Stufe? { -brand-name-firefox-focus } löscht automatisch deine gesamte Chronik vom Moment des Öffnens bis zum Schließen des Browsers.
 browsers-mobile-compare = Vergleichen
