@@ -14,9 +14,13 @@ navigation-v2-close-firefox-browsers-menu = Пӯшидани менюи «{ -bra
 navigation-v2-firefox-for-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ
 navigation-v2-firefox-for-android = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-android }»
 navigation-v2-firefox-for-ios = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-ios }»
+navigation-v2-get-the-mobile-browser = Браузери мобилиро барои дастгоҳи «{ -brand-name-iphone }» ё «{ -brand-name-ipad }»-и худ ба даст оред.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Танҳо тамошои мобилии хусусӣ дар Интернет.
 navigation-v2-firefox-blog = Блоги «{ -brand-name-firefox }»
+navigation-v2-read-about-new-firefox-features = Дар бораи хусусиятҳои нави «{ -brand-name-firefox }» ва чораҳои бехатарӣ дар Интернет хонед.
 navigation-v2-release-notes = Қайдҳои нашр
+navigation-v2-get-the-details-on-the = Дар бораи навсозиҳои охирини «{ -brand-name-firefox }» маълумоти ботафсил гиред.
 navigation-v2-view-all-firefox-browsers = Намоиш додани «{ -brand-name-firefox-browsers }»
 
 ## Products menu
@@ -30,6 +34,7 @@ navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = Хусусиятҳо ва абзорҳои нав барои таҷрибаи фармоишии «{ -brand-name-mdn }»
 navigation-v2-view-all-products = Намоиш додани ҳамаи маҳсулот
 navigation-v2-fakespot = { -brand-name-fakespot }
 

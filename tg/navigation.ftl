@@ -74,6 +74,7 @@ navigation-projects = Лоиҳаҳо
 navigation-close-projects-menu = Пӯшидани менюи «Лоиҳаҳо»
 navigation-donate-your-voice-to = Барои дастрас кардани технологияи ташҳиси овоз ба ҳар як кас, овози худро саҳм гузоред.
 navigation-machine-learning = Омӯзиши мошинӣ
+navigation-help-make-deep-learning = Кумак кунед, ки алгоритмҳои омӯзиши амиқ ба ҷаҳон бо манбаи кушод дастрас шаванд.
 navigation-developers = Барномасозон
 navigation-close-developers-menu = Пӯшидани менюи «Барномасозон»
 navigation-developer-innovations = Навовариҳои барномасозӣ
