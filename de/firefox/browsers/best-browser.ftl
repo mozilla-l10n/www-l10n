@@ -24,13 +24,13 @@ best-browser-there-are-a-few-ways = Es gibt einige Möglichkeiten, wie ein Brows
 # Variables:
 # $data (url) - link to https://www.mozilla.org/privacy/firefox/
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-the-second-is-not-storing = Ein weiterer Grund für uns ist, dass wir nicht so viele Nutzerdaten speichern. Hacker können nicht stehlen, was es nicht gibt. Deshalb hält { -brand-name-firefox } nur ein Minimum an Daten über seine Nutzer vor. <a href="{ $data }">{ -brand-name-firefox } weiß,</a> ob Sie den Browser nutzen und wo Sie ungefähr sind, <a href="{ $privacy }">kennt aber weder den Namen Ihres ersten Haustieres noch Ihre Lieblingsfarbe.</a>
+best-browser-the-second-is-not-storing = Ein weiterer Grund für uns ist, dass wir nicht so viele Nutzerdaten speichern. Hacker können nicht stehlen, was es nicht gibt. Deshalb hält { -brand-name-firefox } nur ein Minimum an Daten über seine Nutzer vor. <a href="{ $data }">{ -brand-name-firefox } weiß,</a> ob du den Browser nutzt und wo du ungefähr bist, <a href="{ $privacy }">kennt aber weder den Namen deines ersten Haustieres noch deine Lieblingsfarbe.</a>
 
 best-browser-last-but-not-least = Zu guter Letzt sollte ein sicherer Browser Tools bieten, mit denen du deine Konten im Auge behalten kannst. Zum Beispiel Benachrichtigungen, die direkt an deine E-Mail-Adresse gesendet werden, sobald eines deiner Konten von einer Datenschutzverletzung betroffen ist. Oder aber auch Symbole, die dir mitteilen, ob eine Website verschlüsselt ist oder nicht (und damit, ob es eine gute Idee ist, deine Kreditkartennummer auf einer Shopping-Seite einzugeben).
 
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
-best-browser-firefox-is-offering-v2 = { -brand-name-firefox } hat etwas neues entwickelt, das Ihrem Schutz dient: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Dabei handelt es sich um einen kostenlosen Dienst, der Sie in Kenntnis setzte, sollte ein Hack öffentlich werden, von dem Ihre Konten betroffen sind und informiert Sie auch darüber, wenn Ihre Konten in der Vergangenheit bereits gehackt wurden. Ein anderes tolles Feature ist das grüne Schloss. Das kleine grüne Icon befindet sich oben links im Browserfenster. Wenn Sie mit { -brand-name-firefox } im Internet unterwegs sind und das grüne Schloss sehen, bedeutet das, dass die Website sicher und verschlüsselt ist. Wenn das Schloss grau ist, sollten Sie sich doppelt überlegen, ob Sie sensible Daten preisgeben möchten.
+best-browser-firefox-is-offering-v2 = { -brand-name-firefox } hat etwas Neues entwickelt, das deinem Schutz dient: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Dabei handelt es sich um einen kostenlosen Dienst, der dich in Kenntnis setzt, sollte ein Hack öffentlich werden, von dem deine Konten betroffen sind und informiert dich auch darüber, wenn deine Konten in der Vergangenheit bereits gehackt wurden. Ein anderes tolles Feature ist das grüne Schloss. Das kleine grüne Icon befindet sich oben links im Browserfenster. Wenn du mit { -brand-name-firefox } im Internet unterwegs bist und das grüne Schloss siehst, bedeutet das, dass die Website sicher und verschlüsselt ist. Wenn das Schloss grau ist, solltest du dir doppelt überlegen, ob du sensible Daten preisgeben möchtest.
 
 best-browser-we-visit-hundreds-or = Die meisten von uns besuchen täglich Hunderte oder sogar Tausende von Websites. Man kann von Nutzern nicht erwarten, dass sie für jede dieser Websites eine erneute Sicherheits- und Datenschutzentscheidung treffen. Deshalb ist ein Browser, der dir mehr Kontrolle und echten, sinnvollen Schutz bietet, so wichtig.
 best-browser-a-browser-that-minds = Ein Browser, der sich um seine Angelegenheiten kümmert.
@@ -48,4 +48,4 @@ best-browser-choosing-the-best-browser = Die Auswahl des für dich besten Browse
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Bei <a href="{ $firefox }">{ -brand-name-firefox }</a> haben wir hart daran gearbeitet, einen Browser zu entwickeln, der doppelt so schnell ist wie zuvor und den Nutzern mehr Kontrolle über ihr Online-Leben gibt.
 
-best-browser-take-control-of-your = Übernehmen Sie die Kontrolle über Ihren Browser.
+best-browser-take-control-of-your = Übernimm die Kontrolle über deinen Browser.
