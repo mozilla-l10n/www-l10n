@@ -15,11 +15,11 @@ download-button-recommended = Empfehlung
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } bietet für { -brand-name-firefox } unter { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } keine Sicherheitsupdates mehr an</a>, aber Sie können hier weiterhin die letzte 32-Bit-Version für { -brand-name-windows } herunterladen.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } bietet für { -brand-name-firefox } unter { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } keine Sicherheitsupdates mehr an</a>, aber du kannst hier weiterhin die letzte 32-Bit-Version für { -brand-name-windows } herunterladen.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Bitte folgen Sie <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+download-button-please-follow-these = Bitte folge <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
@@ -28,7 +28,7 @@ download-button-your-system-does-not = Ihr System erfüllt nicht alle <a href="{
 download-button-firefox-other-platforms = { -brand-name-firefox } für andere Plattformen & Sprachen
 download-button-update-your-firefox = Aktualisiere bitte { -brand-name-firefox }
 download-button-get-firefox-android = Hol dir { -brand-name-firefox } für { -brand-name-android }
-download-button-get-firefox-ios = Holen Sie sich { -brand-name-firefox } für { -brand-name-ios }
+download-button-get-firefox-ios = Hol dir { -brand-name-firefox } für { -brand-name-ios }
 download-button-google-play = Bei { -brand-name-google-play } herunterladen
 download-button-free-google-play = Kostenlos erhältlich bei { -brand-name-google-play }
 download-button-app-store = Kostenlos erhältlich im { -brand-name-app-store }
@@ -50,7 +50,7 @@ download-button-download = Download
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } wird auf { $os_version } und älter <a href="{ $help_url }">nicht mehr unterstützt.</a>
 
-download-button-please-download-esr = Bitte laden Sie { -brand-name-firefox-esr } (Extended Support Release) herunter, um { -brand-name-firefox } zu nutzen.
+download-button-please-download-esr = Bitte lade { -brand-name-firefox-esr } (Extended Support Release) herunter, um { -brand-name-firefox } zu nutzen.
 download-firefox-esr = { -brand-name-firefox-esr } herunterladen
 download-firefox-esr-32 = { -brand-name-firefox-esr } 32-Bit herunterladen
 download-firefox-esr-64 = { -brand-name-firefox-esr } 64-Bit herunterladen
