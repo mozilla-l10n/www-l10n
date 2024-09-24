@@ -32,4 +32,5 @@ home-read-more = Læs mere
 home-so-what-is-mozilla = Hvad er { -brand-name-mozilla }?
 home-learn-about-mofo = Læs mere om { -brand-name-mozilla-foundation }
 home-join-the-fight = Vær med i kampen for et sundt internet
+home-volunteer-with-mozilla = Bliv frivillig hos { -brand-name-mozilla }
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
