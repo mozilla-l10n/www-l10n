@@ -8,7 +8,7 @@
 firefox-products-mozilla-products = { -brand-name-mozilla }-Produkte
 
 # HTML page description
-firefox-products-mozillas-family-of-products = Mit Produkten aus der { -brand-name-mozilla }-Familie sind Sie sicherer und smarter im Web unterwegs
+firefox-products-mozillas-family-of-products = Mit Produkten aus der { -brand-name-mozilla }-Familie bist du sicherer und smarter im Web unterwegs
 
 firefox-products-products = Produkte
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ist nur der Anfang.
@@ -34,13 +34,13 @@ firefox-products-check-for-breaches = E-Mail auf Datenlecks überprüfen
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Schützen Sie Ihre echte E-Mail-Adresse, um Ihren Posteingang besser zu kontrollieren.
+firefox-products-protect-your-real = Schütz deine echte E-Mail-Adresse, um deinen Posteingang besser zu kontrollieren.
 firefox-products-get-relay = Hol dir jetzt { -brand-name-firefox-relay }
 
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-products-surf-stream-and-get-work-done = Surfen, streamen und arbeiten Sie auf Servern in über 30 Ländern mit einer sicheren Internetverbindung und einer neuen Perspektive.
+firefox-products-surf-stream-and-get-work-done = Surfe, streame und arbeite auf Servern in über 30 Ländern mit einer sicheren Internetverbindung und einer neuen Perspektive.
 firefox-products-get-mozilla-vpn = Hol dir { -brand-name-mozilla-vpn }
 
 ## MDN Plus
