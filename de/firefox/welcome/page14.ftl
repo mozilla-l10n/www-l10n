@@ -8,9 +8,9 @@ welcome-page14-page-title = Erhalte 20 % Rabatt auf { -brand-name-mozilla-vpn }
 
 welcome-page14-page-title-alt = Es ist Cybersecurity Month – Zeit für ein Upgrade deiner Privatsphäre
 
-welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) schützt Ihre gesamte Internetverbindung auf Ihrem PC, Tablet und sogar Ihrem Smartphone. Für noch mehr Sicherheit erhalten Sie eine 30-Tage-Geld-zurück-Garantie.
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) schützt deine gesamte Internetverbindung auf deinem PC, Tablet und sogar deinem Smartphone. Für noch mehr Sicherheit erhältst du eine 30-Tage-Geld-zurück-Garantie.
 
-welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtuelles privates Netzwerk) schützt die gesamte Internetverbindung auf Ihrem Computer, Tablet und Smartphone. Für noch mehr Sicherheit erhalten Sie eine 30-Tage-Geld-zurück-Garantie.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtuelles privates Netzwerk) schützt die gesamte Internetverbindung auf deinem Computer, Tablet und Smartphone. Für noch mehr Sicherheit erhältst du eine 30-Tage-Geld-zurück-Garantie.
 
 welcome-page14-get-mozilla-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
 
@@ -22,7 +22,7 @@ welcome-page14-code-copied = Code kopiert!
 
 welcome-page14-very-fast = Es ist schnell. Sehr schnell.
 
-welcome-page14-wireguard-powered = Unsere auf { -brand-name-wireguard }® basierenden Server sind auf Geschwindigkeit ausgelegt, damit Sie wie gewohnt streamen, downloaden und spielen können.
+welcome-page14-wireguard-powered = Unsere auf { -brand-name-wireguard }® basierenden Server sind auf Geschwindigkeit ausgelegt, damit du wie gewohnt streamen, downloaden und spielen kannst.
 
 welcome-page14-without-trace = Spurlos im Internet
 
