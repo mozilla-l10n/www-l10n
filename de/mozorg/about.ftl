@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-about-learn-about-mozilla = Erfahren Sie mehr über { -brand-name-mozilla }
+about-learn-about-mozilla = Erfahre mehr über { -brand-name-mozilla }
 
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = { -brand-name-mozilla } entwickelt Browser, Apps, Quelltext und Werkzeuge, für die Menschen über Profit stehen. Unsere Mission: Das Internet offen und für alle zugänglich zu halten.
@@ -23,7 +23,7 @@ about-our-mission-in-action = Unsere Mission in Aktion
 about-pioneers-of-the-open-web = Pioniere des Open Web
 about-our-leadership-has-been-at = Seit unserem ersten Tag übernehmen wir die Führung bei der Entwicklung eines gesünderen Internets. Was als Alternative zur Unternehmensherrschaft begann, ist jetzt eine globale Macht für das Gute im Internet.
 about-firefox-fast-for-good = { -brand-name-firefox }: Schnell. Und richtig gut
-about-when-you-use-the-new-firefox = Wenn Sie den neuen { -brand-name-firefox } verwenden, erhalten Sie ein rasantes, schnelles Erlebnis und unterstützen gleichzeitig { -brand-name-mozilla }s Mission, das Internet gesund, seltsam und für alle einladend zu halten.
+about-when-you-use-the-new-firefox = Wenn du den neuen { -brand-name-firefox } verwendest, erhältst du ein rasantes, schnelles Erlebnis und unterstützt gleichzeitig { -brand-name-mozilla }s Mission, das Internet gesund, seltsam und für alle einladend zu halten.
 about-walking-our-privacy-talk = Datenschutz ist bei uns mehr als Worte
 about-when-the-facebook-breach-was = Als der { -brand-name-facebook }-Verstoß aufgedeckt wurde, hat { -brand-name-mozilla } direkt reagiert – und mit { -brand-name-firefox } ein Produkt zur Unterstützung des Datenschutzes der Benutzer.
 about-corporation-foundation-not = Corporation. Foundation. Gemeinnützig.
