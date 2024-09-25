@@ -30,7 +30,7 @@ features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy 
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind <a { $attrs1 }>{ -brand-name-firefox } for asztali</a>, mind <a { $attrs2 }>Androidon</a>.
+features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox }ban</a>, mind az <a { $attrs2 }>androidos változatban</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
