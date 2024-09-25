@@ -30,21 +30,28 @@ navigation-v2-view-all-firefox-browsers = Намоиш додани «{ -brand-n
 navigation-v2-products = Маҳсулот
 navigation-v2-close-products-menu = Пӯшидани менюи «Маҳсулот»
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+navigation-v2-see-if-your-email-has = Назорат кунед, ки агар почтаи электронии шумо дар маълумоти вайроншудаи ягон ширкати интернетӣ ошкор шуда, пайдо шавад.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = Маводҳои беҳтаринро аз саросари Интернет пайдо кунед ва нигоҳ доред.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Барои манъ кардани «{ -brand-name-facebook }» аз ҷамъоварии маълумоти шумо берун аз сомонаи онҳо кумак кунед.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Муҳофизатро, инчунин, берун аз браузери худ ва дар ҳамаи дастгоҳҳои худ ба даст оред.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
+navigation-v2-sign-up-for-new-accounts = Ҳисобҳои навро бе истифодаи нишонии почтаи электронии худ ба қайд гиред.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Хусусиятҳо ва абзорҳои нав барои таҷрибаи фармоишии «{ -brand-name-mdn }»
 navigation-v2-view-all-products = Намоиш додани ҳамаи маҳсулот
 navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Зеҳни сунъӣ (AI)-ро барои муайян кардани тақризҳои бардурӯғ ва фиребгарӣ истифода баред
 
 ## Who We Are menu
 
 navigation-v2-who-we-are = Мо кӣ ҳастем
 navigation-v2-close-who-we-are-menu = Пӯшидани менюи «Мо кӣ ҳастем»
 navigation-v2-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
+navigation-v2-learn-about-the-values = Дар бораи арзишҳо ва принсипҳое, ки рисолати моро роҳнамоӣ мекунанд, маълумот гиред.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Ҳамроҳ шавед
 navigation-v2-join-the-fight-for-a = Ба мубориза барои Интернети солим ҳамроҳ шавед.
