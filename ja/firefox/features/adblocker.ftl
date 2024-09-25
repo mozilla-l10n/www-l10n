@@ -18,14 +18,37 @@ features-adblocker-these-ads-might-be-loud = 広告の種類には、大きな�
 
 features-adblocker-find-the-right-ad-blocker = あなたに合った広告ブロッカーを見つける
 
+features-adblocker-there-are-scores-of-content = 多くのコンテンツブロッカーが存在しますが、{ -brand-name-mozilla } がお勧めするものをご紹介します。
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> は、広告ブロッカーのゴールドスタンダードとの呼び声が高く、その効果と効率性で評判です。カスタマイズの幅が広く、初期状態でも素晴らしい動作です。
+
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> は、あらゆる場所の広告を無効にします。ウェブや SNS の広告、さらには迷惑なポップアップまでブロックします（ポップアップを防止するだけであれば <a { $attrs2 }>Popup Blocker</a> も堅実です）。
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> は、広告をブロックするだけでなく、トラッキング防止機能も付加します。
+
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = これらの拡張機能は、<a { $attrs1 }>デスクトップ版</a>および <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> の両方に対応しています。
+
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = あらゆる広告を除去する <a href="{ $url }">AdBlocker Ultimate</a> などがありますが、ご注意ください。いつも見ている新聞や雑誌などの中には、広告収入で運営しているものもあります。広告をブロックする人が増えすぎれば、存続できなくなってしまう可能性があります。
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = ポップアップ広告は何より悪質です。<a href="{ $url }">ポップアップブロッカー</a>でブロックすれば、もう迷惑なポップアップに悩まされることはありません。
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = { -brand-name-chrome }、{ -brand-name-safari }、{ -brand-name-firefox } で特に人気の広告ブロッカーは <a href="{ $url }">AdBlock</a> です。{ -brand-name-facebook } や { -brand-name-youtube }、{ -brand-name-hulu } などの広告をブロックできます。
