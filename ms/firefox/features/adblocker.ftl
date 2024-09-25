@@ -18,14 +18,37 @@ features-adblocker-these-ads-might-be-loud = Iklan-iklan ini mungkin iklan video
 
 features-adblocker-find-the-right-ad-blocker = Dapatkan penyekat iklan yang sesuai untuk anda
 
+features-adblocker-there-are-scores-of-content = Ada pelbagai jenis penyekat kandungan yang ada di pasaran, namun { -brand-name-mozilla } ada beberapa cadangan untuk anda…<em></em>
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Sebagai penyekat iklan bertaraf emas yang diiktiraf ramai, <a { $attrs }>uBlock Origin</a> termasyhur kerana keberkesanannya. Ia boleh disuai padan, malah mampu berfungsi &quot;di luar kotak&quot; dengan tiada tandingan.
+
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> mematahkan serangan pengiklan dari semua arah. Ia menyekat iklan di internet, media sosial, termasuklah pop timbul yang menjengkelkan (namun jika hanya penyekat pop timbul yang anda mahukan, <a { $attrs2 }>Popup Blocker</a> patut menjadi pilihan anda).
+
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> merupakan satu lagi pilihan yang baik dan bukan saja menyekat iklan, malah berfungsi juga sebagai anti-penjejak.
+
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Semua perisian ini boleh diguna pakai dengan kedua-dua <a { $attrs1 }>{ -brand-name-firefox } untuk komputer dekstop</a> dan <a { $attrs2 }>Android</a>.
+
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Ada <a href="{ $url }">AdBlocker Ultimate</a> yang menyingkirkan setiap iklan, tetapi pembeli perlu beringat. Sesetengah akhbar dan majalah kegemaran anda bergantung pada pengiklanan. Terlalu ramai yang menyekat iklan mereka boleh menjejaskan perniagaan mereka.
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Iklan pop timbul adalah yang paling teruk. Sekat iklan tersebut dengan <a href="{ $url }">Popup Blocker</a> dan anda tak akan nampak pop timbul yang merimaskan itu lagi.
 
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Salah satu penyekat iklan yang paling popular untuk { -brand-name-chrome }, { -brand-name-safari } dan { -brand-name-firefox } ialah <a href="{ $url }">AdBlock</a>. Gunakan untuk menyekat iklan di { -brand-name-facebook }, { -brand-name-youtube } dan { -brand-name-hulu }.
