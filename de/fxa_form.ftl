@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-fxa-form-enter-your-email-v2 = <strong>Geben Sie Ihre E-Mail-Adresse ein,</strong> um ein { -brand-name-mozilla-account } zu erstellen.
+fxa-form-enter-your-email-v2 = <strong>Gib deine E-Mail-Adresse ein,</strong> um ein { -brand-name-mozilla-account } zu erstellen.
 
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
