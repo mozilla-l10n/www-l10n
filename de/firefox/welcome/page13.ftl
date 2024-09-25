@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/13/
 
 # HTML page title
-welcome-page13-page-title = Schützen Sie mit { -brand-name-mozilla-vpn } bis zu 5 Geräte
+welcome-page13-page-title = Schütze mit { -brand-name-mozilla-vpn } bis zu 5 Geräte
 
 # The strong tag wraps a product name that gets highlighted in color for emphasis.
 welcome-page13-main-heading = Schütze bis zu 5 Geräte mit <strong>{ -brand-name-mozilla-vpn }</strong>
