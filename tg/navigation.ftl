@@ -77,6 +77,7 @@ navigation-machine-learning = Омӯзиши мошинӣ
 navigation-help-make-deep-learning = Кумак кунед, ки алгоритмҳои омӯзиши амиқ ба ҷаҳон бо манбаи кушод дастрас шаванд.
 navigation-developers = Барномасозон
 navigation-close-developers-menu = Пӯшидани менюи «Барномасозон»
+navigation-test-soon-to-be-released = Ҳусусиятҳоеро, ки ба қарибӣ дар сохти устувории мо пеш аз релиз бароварда мешаванд, озмоед.
 navigation-developer-innovations = Навовариҳои барномасозӣ
 navigation-mixed-reality = Воқеияти омехташуда
 navigation-resources = Манбаъҳо
