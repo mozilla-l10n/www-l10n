@@ -25,7 +25,7 @@ set-as-default-thanks-heres-everything-you-need-ios = Hier findest du alles Wich
 
 set-as-default-thanks-youre-all-set = Alles top! Du bist fertig!
 set-as-default-thanks-get-firefox-for-mobile = Hol dir { -brand-name-firefox } Mobile
-set-as-default-thanks-travel-the-internet-with = Bleiben Sie online geschützt – auf jedem Ihrer Geräte.
+set-as-default-thanks-travel-the-internet-with = Bleib online geschützt – auf jedem deiner Geräte.
 set-as-default-thanks-download-the-app = App downloaden
 
 set-as-default-create-an-account = Konto erstellen
