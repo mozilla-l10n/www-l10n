@@ -79,4 +79,6 @@ navigation-v2-explore-the-web-with-the = Интернетро бо браузе�
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Овози худро саҳм гузоред, то ки ҳар як кас тавонад Интернетро шунавад.
 navigation-v2-webassembly = { -brand-name-webassembly }
+navigation-v2-learn-more-about-the-new = Маълумоти бештар дар бораи забони нави пастдараҷа ва монанд ба ҷамъкунанда.
 navigation-v2-mozilla-innovation-projects = Лоиҳаҳои инноватсионии «{ -brand-name-mozilla }»
+navigation-v2-discover-ways-to-bring = Роҳҳоеро, ки фикру ақидаҳои равшанро ба ҳаёт меоранд, кашф кунед.
