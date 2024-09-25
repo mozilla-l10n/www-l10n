@@ -23,7 +23,7 @@ features-adblocker-considered-by-many-to-be-the = Yn cael ei ystyried gan lawer 
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlocker</a> yn lleihau hysbysebu ym mhobman. Mae'n rhwystro hysbysebion ar y we, cyfryngau cymdeithasol, hyd yn oed y llamlenni annifyr hynny (er, os ydych chi eisiau atal dim ond llamlenni, mae <a { $attrs2 }>Popup Blocker</a> yn dda iawn ).
+features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlocker</a> yn lleihau hysbysebu ym mhobman. Mae'n rhwystro hysbysebion ar y we, cyfryngau cymdeithasol, hyd yn oed y llamlenni annifyr hynny (er, os ydych chi eisiau atal dim ond llamlenni, mae <a { $attrs2 }>Popup Blocker</a> yn dda iawn).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn ddewis gwych arall sydd nid yn unig yn rhwystro hysbysebion ond hefyd yn darparu buddion gwrth-dracio ychwanegol.
