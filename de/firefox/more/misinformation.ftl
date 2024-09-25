@@ -36,13 +36,13 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } hält Tr
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Wie bereits erwähnt, spielt Tracking eine wichtige Rolle bei der Verbreitung von Fehlinformationen. <a href="{ $firefox }">Wenn Sie { -brand-name-firefox }</a> mit <a href="{ $protection }">verbessertem Tracking-Schutz</a> benutzten, werden Drittanbieter-Tracker von vielen Werbetreibenden und anderen Instanzen automatisch geblockt, sodass Sie die Kontrolle über Ihre Online-Daten beim Surfen wieder erhalten.
+misinformation-firefox-keeps-trackers-desc = Wie bereits erwähnt, spielt Tracking eine wichtige Rolle bei der Verbreitung von Fehlinformationen. <a href="{ $firefox }">Wenn du { -brand-name-firefox }</a> mit <a href="{ $protection }">verbessertem Tracking-Schutz</a> benutzt, werden Drittanbieter-Tracker von vielen Werbetreibenden und anderen Instanzen automatisch geblockt, sodass du die Kontrolle über deine Online-Daten beim Surfen wieder erhältst.
 
 misinformation-social-media-clean-heading = { -brand-name-firefox } hilft dir, deine Feeds in sozialen Netzwerken sauber zu halten:
 
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Soziale Netzwerke wissen eine Menge über Sie. Außerdem können sie Sie über ihre Plattformen hinweg verfolgen, über die Buttons „Gefällt mir“ und „Teilen“. Und das trotz Schutz vor Aktivitätenverfolgung und auch, wenn Sie kein Konto haben. Der <a href="{ $container }">{ -brand-name-facebook-container }</a> für { -brand-name-firefox } sorgt dafür, dass { -brand-name-facebook } und { -brand-name-instagram } das nicht mehr so einfach tun können, wodurch die Wahrscheinlichkeit erheblich sinkt, dass Sie Falschinformationen über Anzeigen und beworbene Inhalte zu sehen bekommen.
+misinformation-social-media-clean-desc = Soziale Netzwerke wissen eine Menge über dich. Außerdem können sie dich über ihre Plattformen hinweg verfolgen, über die Buttons „Gefällt mir“ und „Teilen“. Und das trotz Schutz vor Aktivitätenverfolgung und auch, wenn du kein Konto hast. Der <a href="{ $container }">{ -brand-name-facebook-container }</a> für { -brand-name-firefox } sorgt dafür, dass { -brand-name-facebook } und { -brand-name-instagram } das nicht mehr so einfach tun können, wodurch die Wahrscheinlichkeit erheblich sinkt, dass du Falschinformationen über Anzeigen und beworbene Inhalte zu sehen bekommst.
 
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = Mit { -brand-name-firefox } Inhalte entdecken, die deine Zeit wert sind:
@@ -52,7 +52,7 @@ misinformation-surface-content-heading = Mit { -brand-name-firefox } Inhalte ent
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Wenn Sie einen neuen Tab in Ihrem { -brand-name-firefox }-Browser öffnen, sehen Sie Artikel, die <a href="{ $recommended }">von { -brand-name-pocket } empfohlen werden</a>. { -brand-name-pocket } verwendet keine Ihrer persönlichen Daten, um Empfehlungen abzugeben. Stattdessen werden die Artikel von echten Menschen kuratiert, die die App verwenden. Das Entdecken von neuen Geschichten, Blickwinkeln und Meinungen ist eine Möglichkeit, die Verbreitung von Fehlinformationen zu bekämpfen. Um noch mehr Empfehlungen zu erhalten, abonnieren Sie den <a href="{ $pocket_hits }">{ -brand-name-pocket }-Newsletter</a> und laden Sie sich die <a href="{ $pocket }">{ -brand-name-pocket }-App herunter</a>.
+misinformation-surface-content-desc = Wenn du einen neuen Tab in deinem { -brand-name-firefox }-Browser öffnest, siehst du Artikel, die <a href="{ $recommended }">von { -brand-name-pocket } empfohlen werden</a>. { -brand-name-pocket } verwendet keine deiner persönlichen Daten, um Empfehlungen abzugeben. Stattdessen werden die Artikel von echten Menschen kuratiert, die die App verwenden. Das Entdecken von neuen Geschichten, Blickwinkeln und Meinungen ist eine Möglichkeit, die Verbreitung von Fehlinformationen zu bekämpfen. Um noch mehr Empfehlungen zu erhalten, abonniere den <a href="{ $pocket_hits }">{ -brand-name-pocket }-Newsletter</a> und lade dir die <a href="{ $pocket }">{ -brand-name-pocket }-App herunter</a>.
 
 misinformation-why-trust-firefox = Warum solltest du { -brand-name-firefox } vertrauen?
 
