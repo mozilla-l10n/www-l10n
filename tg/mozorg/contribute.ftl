@@ -25,7 +25,9 @@ contribute-task-translate-heading = Муҳтаворо тарҷума намое
 contribute-task-translate-desc = Интернет танҳо он вақт умумиҷаҳонӣ мебошад, агар он дар соросари ҷаҳон фаҳмо бошад. Ба мо барои тарҷума кардани маҳсулоти «{ -brand-name-mozilla }» ва сомонаҳои мо ба забони модарии худ мусоидат намоед.
 contribute-task-mozilla-codebase-heading = Ба пойгоҳи барномарезии «{ -brand-name-mozilla }» саҳм гузоред
 contribute-task-mozilla-codebase-desc = Маҳсулоти «{ -brand-name-mozilla }»-ро тавассути саҳмгузорӣ ба имкониятҳои гуногуни рушд фаъолона такмил диҳед.
+contribute-task-support-desc = Барои осонсозии истифодаи маҳсулоти «{ -brand-name-mozilla }» ба мо кумак кунед. Дар бахши «Кумак», ки қисми форумҳои ҷамъияти дастгирии «{ -brand-name-mozilla }» мебошад, ба саволҳои одамон ҷавоб диҳед.
 contribute-task-join-heading = Ба ҷамъияти мо ҳамроҳ шавед
+contribute-task-join-desc = Мехоҳед, ки дар ҷомеаи «{ -brand-name-mozilla }» бештар иштирок кунед? Ҳамаи имкониятҳои ихтиёриёнро дар Портали ҷамъиятии мо озмоед.
 
 ## Mission
 
