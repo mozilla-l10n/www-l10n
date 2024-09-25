@@ -36,8 +36,13 @@ home-volunteer-with-mozilla = Bliv frivillig hos { -brand-name-mozilla }
 home-that-one-time = Dengang vi gjorde vores kildekode frit tilgængeligt…
 home-the-mozilla-project = { -brand-name-mozilla } blev grundlagt i San Francisco i 1998, da browseren { -brand-name-netscape } tog den radikale beslutning at give sin programkode væk til offentligheden, sådan at alle kunne arbejde videre på den og forbedre den. På det tidspunkt havde en enkelt virksomhed næsten monopol på, hvordan folk kunne bruge internettet.
 home-eventually-the-open = Efterhånden blev open source-projektet { -brand-name-mozilla } til den første version af { -brand-name-firefox }.
+home-today-mozilla-continues = { -brand-name-mozilla } arbejder stadig for et bedre internet ved hjælp af et fællesskab med millioner af deltagere, der kæmper for etisk teknologi, pålidelig AI og fremstiller produkter, der giver folk mere magt og bedre beskyttelse af deres privatliv.
 home-learn-more-about-mozilla = Læs mere om { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Udvalgt produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Skjul din placering og aktivitet med <span>{ -brand-name-mozilla-vpn }</span>.
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Bliv en del af fællesskabet
 home-mofo-donate-to-mofo-today = Donér til { -brand-name-mozilla-foundation } i dag for at sikre, at nettet forbliver åbent og tilgængeligt for alle.
 home-mofo-donate = Giv et bidrag

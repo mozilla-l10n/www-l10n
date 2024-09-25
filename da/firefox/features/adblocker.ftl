@@ -16,6 +16,17 @@ features-adblocker-an-ad-blocker-is-a-piece = Adblockere er små programmer, der
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Disse annoncer kan være larmende video-annoncer, bannere, der følger dig rundt på nettet, tredjeparts-cookies og mere. Hvis du vil bruge en adblocker, så kan du søge efter adblocker-tilføjelser til din browser. <a href="{ $firefox }">{ -brand-name-firefox }</a> har fx <a href="{ $addons }">en liste med godkendte adblocker-tilføjelser</a>. Undersøg adblockerne på listen (eller adblockere, der er godkendt til din browser), og se, hvilken der passer bedst til dine behov.
 features-adblocker-find-the-right-ad-blocker = Find den rigtige adblocker
+features-adblocker-there-are-scores-of-content = Der findes masser af software til blokering af indhold, men her er et par rigtigt gode alternativer udvalgt af { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> anses af mange for at være den bedste tilføjelse til at blokere reklamer. Den er kendt for at være effektiv og har mange tilpasningsmuligheder - men den virker også fint med standardindstillingerne.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> skjuler annoncer overalt. Uanset om det er på internettet eller på sociale medier - selv irriterende pop op-vinduer forsvinder. (Men hvis du bare vil slippe for pop op-vinduer, er <a { $attrs2 }>Popup Blocker</a> et godt bud.
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er et andet glimrende valg, der ikke bare blokerer reklamer, men også giver yderligere beskyttelse mod sporing.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
