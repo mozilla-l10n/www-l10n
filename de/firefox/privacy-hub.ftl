@@ -22,7 +22,7 @@ firefox-privacy-hub-youll-always-know-where-you = Du wirst bei uns immer wissen,
 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Wir haben keine versteckten Absichten. Unser Geschäft basiert nicht darauf, Ihr Vertrauen zu missbrauchen. Unsere <a href="{ $privacy }">Datenschutzerklärung</a> ist einfach und verständlich formuliert. Und wenn Sie mehr über die Daten, die wir erfassen, wissen möchten, können Sie das jederzeit tun – unser Code ist öffentlich einsehbar und für jeden zugänglich. Und wir sind es auch.
+firefox-privacy-hub-theres-no-hidden-agenda-here-v2 = Wir haben keine versteckten Absichten. Unser Geschäft basiert nicht darauf, dein Vertrauen zu missbrauchen. Unsere <a href="{ $privacy }">Datenschutzerklärung</a> ist einfach und verständlich formuliert. Und wenn du mehr über die Daten, die wir erfassen, wissen möchtest, kannst du das jederzeit tun – unser Code ist öffentlich einsehbar und für jeden zugänglich. Und wir sind es auch.
 
 firefox-privacy-hub-why-trust-firefox = Warum solltest du { -brand-name-firefox } vertrauen?
 
