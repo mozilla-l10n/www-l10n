@@ -16,21 +16,21 @@ features-adblocker-an-ad-blocker-is-a-piece = Mae rhwystrydd hysbysebion yn ddar
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Gall yr hysbysebion hyn fod yn hysbysebion fideo swnllyd, hysbysebion sy'n eich dilyn o gwmpas y we, tracwyr, cwcis trydydd parti, a mwy. I ddefnyddio rhwystrydd hysbysebion, gallwch chwilio am rwystrydd hysbysebion sydd ar gael yn eich porwr. Mae gan <a href="{ $firefox }">{ -brand-name-firefox }</a>, er enghraifft, <a href="{ $addons }">y rhestr hon o ychwanegion rheolyddion hysbysebion cymeradwy</a>. Cliciwch ar y rhestr hon (neu reolyddion hysbysebion cymeradwy ar gyfer eich porwr) a gweld pa un sy'n gweddu i'ch anghenion.
 features-adblocker-find-the-right-ad-blocker = Dod o hyd i'r rheolydd hysbysebion cywir i chi
-features-adblocker-there-are-scores-of-content = Mae yna ugeiniau o atalwyr cynnwys ar gael, ond dyma rai opsiynau gwych wedi'u curadu gan { -brand-name-mozilla }…
+features-adblocker-there-are-scores-of-content = Mae yna ugeiniau o rwystrwyr cynnwys ar gael, ond dyma rai dewisiadau gwych wedi'u crynhoi gan { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
-features-adblocker-considered-by-many-to-be-the = Yn cael ei ystyried gan lawer fel y safon aur ymhlith atalwyr hysbysebion, mae <a { $attrs }>uBlock Origin</a> yn enwog am ei effeithiolrwydd a'i effeithlonrwydd. Yn hynod addasadwy, ond mae hefyd yn gweithio'n wych yn iawn “allan o'r bocs.”
+features-adblocker-considered-by-many-to-be-the = Yn cael ei ystyried gan lawer fel y safon aur ymhlith rhwystrwyr hysbysebion, mae <a { $attrs }>uBlock Origin</a> yn enwog am ei effeithiolrwydd. Yn hynod addasadwy, ond ac yn gweithio'n wych “allan o'r bocs.”
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlocker</a> yn pylu hysbysebu ym mhobman. Mae'n rhwystro hysbysebion ar y we, cyfryngau cymdeithasol, hyd yn oed y ffenestri naid annifyr hynny (fodd bynnag, os ydych chi'n bwriadu atal ffenestri naid yn unig, ni allwch fynd o'i le gyda <a { $attrs2 }>Popup Blocker</a> ).
+features-adblocker-adguard-adblocker-blunts = Mae <a { $attrs1 }>AdGuard AdBlocker</a> yn lleihau hysbysebu ym mhobman. Mae'n rhwystro hysbysebion ar y we, cyfryngau cymdeithasol, hyd yn oed y llamlenni annifyr hynny (er, os ydych chi eisiau atal dim ond llamlenni, mae <a { $attrs2 }>Popup Blocker</a> yn dda iawn ).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
-features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn ddewis gwych arall sydd nid yn unig yn rhwystro hysbysebion ond hefyd yn darparu buddion gwrth-olrhain ychwanegol.
+features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn ddewis gwych arall sydd nid yn unig yn rhwystro hysbysebion ond hefyd yn darparu buddion gwrth-dracio ychwanegol.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Mae'r estyniadau hyn yn gweithio'n hyfryd ar <a { $attrs1 }>{ -brand-name-firefox } ar gyfer bwrdd gwaith</a> ac <a { $attrs2 }>Android</a>.
+features-adblocker-these-extensions-work-beautifully = Mae'r estyniadau hyn yn gweithio'n wych ar <a { $attrs1 }>{ -brand-name-firefox } ar gyfer y bwrdd gwaith</a> ac <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/

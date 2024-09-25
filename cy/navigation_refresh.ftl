@@ -8,7 +8,7 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 
 navigation-refresh-about-us = Amdanom ni
 navigation-refresh-close-about-us-menu = Cau'r ddewislen Amdanom ni
-navigation-refresh-mozilla-manifesto = maniffesto { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ymunwch
 navigation-refresh-innovation-projects = Prosiectau arloesi
