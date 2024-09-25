@@ -33,6 +33,9 @@ home-so-what-is-mozilla = Hvad er { -brand-name-mozilla }?
 home-learn-about-mofo = Læs mere om { -brand-name-mozilla-foundation }
 home-join-the-fight = Vær med i kampen for et sundt internet
 home-volunteer-with-mozilla = Bliv frivillig hos { -brand-name-mozilla }
+home-that-one-time = Dengang vi gjorde vores kildekode frit tilgængeligt…
+home-the-mozilla-project = { -brand-name-mozilla } blev grundlagt i San Francisco i 1998, da browseren { -brand-name-netscape } tog den radikale beslutning at give sin programkode væk til offentligheden, sådan at alle kunne arbejde videre på den og forbedre den. På det tidspunkt havde en enkelt virksomhed næsten monopol på, hvordan folk kunne bruge internettet.
+home-eventually-the-open = Efterhånden blev open source-projektet { -brand-name-mozilla } til den første version af { -brand-name-firefox }.
 home-learn-more-about-mozilla = Læs mere om { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Udvalgt produkt
