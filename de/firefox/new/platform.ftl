@@ -19,7 +19,7 @@ new-platform-need-help = Hilfe benötigt?
 
 new-platform-download-mozilla-linux = Download { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Downloaden Sie { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-linux }, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Holen Sie sich heute { -brand-name-firefox } für { -brand-name-linux }!
+new-platform-download-mozilla-desc-linux = Lade { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-linux } herunter, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Hole dir heute { -brand-name-firefox } für { -brand-name-linux }!
 
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten für { -brand-name-linux } herunterladen
@@ -41,7 +41,7 @@ new-platform-look-under-the-hood = Wirf ruhig einen Blick unter die Haube. Genau
 new-platform-download-mozilla-firefox-mac = Download { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-mac-short }
 
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Downloaden Sie { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-mac-short }, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Holen Sie sich heute { -brand-name-firefox } für { -brand-name-mac-short }!
+new-platform-download-mozilla-firefox-desc-mac = Lade { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-mac-short } herunter, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Hole dir heute { -brand-name-firefox } für { -brand-name-mac-short }!
 
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten für { -brand-name-mac-short } herunterladen
@@ -60,7 +60,7 @@ new-platform-be-the-master-of-your = Dank strengem Adblocking bleibst du der Bos
 new-platform-download-mozilla-windows = Download { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-windows }
 
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Downloaden Sie { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-windows }, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Holen Sie sich heute { -brand-name-firefox } für { -brand-name-windows }!
+new-platform-download-mozilla-desc-windows = Lade { -brand-name-mozilla } { -brand-name-firefox } für { -brand-name-windows } herunter, ein kostenloser Browser. { -brand-name-firefox } wird von einer gemeinnützigen Organisation entwickelt, die Nutzern im Internet die Kontrolle geben will. Hole dir heute { -brand-name-firefox } für { -brand-name-windows }!
 
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten für { -brand-name-windows } herunterladen
@@ -72,4 +72,4 @@ new-platform-firefox-moves-fast = { -brand-name-firefox } ist schnell und behand
 new-platform-common-sense-privacy = Privatsphäre, weil es richtig ist
 new-platform-live-your-life = Mach, was du willst. So wie du willst. { -brand-name-firefox } verfolgt nicht jeden deiner Schritte. Du entscheidest, was du teilst und wann.
 new-platform-seamless-setup = Nahtlose Installation
-new-platform-easy-migration = Nehmen Sie Einstellungen und Lesezeichen von anderen Browsern einfach mit zu { -brand-name-firefox } für { -brand-name-windows }.
+new-platform-easy-migration = Nimm Einstellungen und Lesezeichen von anderen Browsern einfach mit zu { -brand-name-firefox } für { -brand-name-windows }.
