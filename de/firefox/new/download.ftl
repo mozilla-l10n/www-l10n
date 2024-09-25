@@ -10,7 +10,7 @@ firefox-new-download-firefox = { -brand-name-firefox } herunterladen
 firefox-new-download-the-fastest-firefox = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten herunterladen
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Der neue { -brand-name-firefox }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
-firefox-new-get-the-latest-firefox = Holen Sie sich den neuesten { -brand-name-firefox }-Browser.
+firefox-new-get-the-latest-firefox = Hole dir den neuesten { -brand-name-firefox }-Browser.
 
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-firefox } für { -brand-name-windows } herunterladen
@@ -26,7 +26,7 @@ firefox-new-need-help = Hilfe benötigt?
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, Sie können { -brand-name-firefox } aber weiterhin nutzen.
+firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, du kannst { -brand-name-firefox } aber weiterhin nutzen.
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -41,18 +41,18 @@ firefox-new-download-select-linux = Wähle unten eine Download-Option
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Bitte folgen Sie <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
+firefox-new-please-follow = Bitte folge <a href="{ $url }">dieser Anleitung</a>, um { -brand-name-firefox } zu installieren.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-system-may-not = Möglicherweise erfüllt Ihr System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuchen Sie es mit einer <a href="{ $url }">dieser Versionen</a>.
+firefox-new-your-system-may-not = Möglicherweise erfüllt dein System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuche es mit einer <a href="{ $url }">dieser Versionen</a>.
 
 firefox-new-windows = { -brand-name-windows }
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Wenn Sie aufgefordert werden, anzugeben, dass die App, die Sie installieren möchten, keine von { -brand-name-microsoft } verifizierte App ist, klicken Sie auf „Trotzdem installieren“ oder <a { $attrs }>ändern Sie die App-Empfehlungseinstellungen</a>.
-firefox-new-visit-support-for-more = Weitere Informationen erhalten Sie beim Support
+firefox-new-if-you-see-a-prompt = Wenn du aufgefordert wirst, anzugeben, dass die App, die du installieren möchtest, keine von { -brand-name-microsoft } verifizierte App ist, klicke auf „Trotzdem installieren“ oder <a { $attrs }>ändere die App-Empfehlungseinstellungen</a>.
+firefox-new-visit-support-for-more = Weitere Informationen erhältst du beim Support
 
 # Not-Required
 
