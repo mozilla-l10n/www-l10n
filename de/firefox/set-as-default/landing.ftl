@@ -8,14 +8,14 @@
 set-as-default-landing-make-firefox-your-default = Mache { -brand-name-firefox } zu Deinem Standardbrowser
 
 # HTML page description
-set-as-default-landing-choose-the-browser = Wählen Sie den Browser, der Ihre Privatsphäre schützt. Machen Sie { -brand-name-firefox } zu Ihrem Standardbrowser.
+set-as-default-landing-choose-the-browser = Wähle den Browser, der deine Privatsphäre schützt. Mach { -brand-name-firefox } zu deinem Standardbrowser.
 
-set-as-default-landing-thanks-for-using-the = Danke, dass Sie den neusten { -brand-name-firefox }-Browser verwenden. Wenn Sie sich für { -brand-name-firefox } entscheiden, unterstützen Sie ein besseres Internet für Sie und alle anderen. Gehen Sie jetzt noch einen Schritt weiter, um sich zu schützen.
+set-as-default-landing-thanks-for-using-the = Danke, dass du den neusten { -brand-name-firefox }-Browser verwendest. Wenn du dich für { -brand-name-firefox } entscheidest, unterstützt du ein besseres Internet für dich und alle anderen. Gehe jetzt noch einen Schritt weiter, um dich zu schützen.
 
 set-as-default-landing-make-sure-youre-protected = Bleib geschützt, jedes Mal wenn du ins Web gehst
 
-set-as-default-landing-you-should-get = Sie sollten beim Surfen ein Mitspracherecht haben.
-set-as-default-landing-if-you-recently = Wenn Ihr Computer vor Kurzem ein Update erhalten hat, könnten sich Ihre Einstellung eventuell geändert haben. Mit { -brand-name-firefox } unterstützen Sie bei jedem Surfen ein kostenloses und öffenes Internet.
+set-as-default-landing-you-should-get = Du solltest beim Surfen ein Mitspracherecht haben.
+set-as-default-landing-if-you-recently = Wenn dein Computer vor Kurzem ein Update erhalten hat, könnten sich deine Einstellung eventuell geändert haben. Mit { -brand-name-firefox } unterstützt du bei jedem Surfen ein kostenloses und offenes Internet.
 set-as-default-landing-choose-automatic-privacy = Deine Wahl: automatische Privatsphäre
 set-as-default-landing-companies-keep-finding = Unternehmen finden immer neue Wege, online Daten über dich zu sammeln. { -brand-name-firefox } findet immer neue Wege, deine Daten zu schützen. Das ist unsere Mission.
 set-as-default-landing-choose-freedom-on-every = Deine Wahl: Freiheit auf jedem Gerät
