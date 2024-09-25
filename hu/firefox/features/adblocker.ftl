@@ -23,7 +23,7 @@ features-adblocker-considered-by-many-to-be-the = A sokak szerint a reklámblokk
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = Az <a { $attrs1 }>AdGuard AdBlocker</a> tompítja a hirdetéseket mindenhol. Blokkolja a hirdetéseket az interneten, a közösségi médiában, még a bosszantó felugró ablakokat is (de ha csak el akarja nyomni a felugró ablakokat, akkor nem járhat rosszul a <a { $attrs2 }>Popup Blocker</a> segítségével ).
+features-adblocker-adguard-adblocker-blunts = Az <a { $attrs1 }>AdGuard AdBlocker</a> csökkenti a hirdetések számát mindenhol. Blokkolja a hirdetéseket a weben, a közösségi médiában, még azokat a bosszantó felugró ablakokat is (viszont ha csak a felugró ablakokat akarja elkerülni, akkor nem járhat rosszul a <a { $attrs2 }>Popup Blocker</a> használatával).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy másik nagyszerű választás, amely nem csak hogy blokkolja a hirdetéseket, de további nyomkövetés elleni előnyökkel is jár.
