@@ -15,7 +15,7 @@ moz-account-already-have-v2 = Du hast schon ein Konto? <a { $sign_in_url }>Melde
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Sie haben schon ein Konto? <a { $sign_in_url }>Melden Sie sich an</a> oder <a { $learn_more_url }>erfahren Sie mehr</a> über { -brand-name-mozilla }
+moz-account-already-have = Du hast schon ein Konto? <a { $sign_in_url }>Melde dich an</a> oder <a { $learn_more_url }>erfahre mehr</a> über { -brand-name-mozilla }
 
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
