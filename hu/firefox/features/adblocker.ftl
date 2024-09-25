@@ -16,10 +16,10 @@ features-adblocker-an-ad-blocker-is-a-piece = A reklámblokkoló egy olyan szoft
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ezek a hirdetések lehetnek hangos videóreklámok, hirdetések, melyek követik Önt a weben, követők, harmadik féltől származó sütik és így tovább. Egy reklámblokkoló kiegészítő használatához kereshet egyet a böngészőjéhez. Például a <a href="{ $firefox }">{ -brand-name-firefox }hoz</a> elérhető egy lista, amely a <a href="{ $addons }">jóváhagyott reklámblokkoló kiegészítőket</a> tartalmazza. Kattintson a listára (vagy a böngészőjéhez jóváhagyott reklámblokkolóra) és nézze meg, hogy melyik felel meg az Ön igényeinek.
 features-adblocker-find-the-right-ad-blocker = Találja meg a megfelelő reklámblokkolót
-features-adblocker-there-are-scores-of-content = Tartalomblokkoló rengeteg létezik, de itt van néhány fantasztikus lehetőség a { -brand-name-mozilla } által…
+features-adblocker-there-are-scores-of-content = Rengeteg tartalomblokkoló létezik, de itt van néhány fantasztikus lehetőség a { -brand-name-mozilla } válogatásában…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
-features-adblocker-considered-by-many-to-be-the = A sokak által az arany szabványnak számító reklámblokkolók között, az <a { $attrs }>uBlock Origin</a> híres a hatékonyságáról és hatékonyságáról. Nagymértékben testreszabható, de „dobozból kivéve” ragyogóan működik.
+features-adblocker-considered-by-many-to-be-the = A sokak szerint a reklámblokkolók arany szabványának számító <a { $attrs }>uBlock Origin</a> a hatékonyságáról és hatásosságáról híres. Nagymértékben testreszabható, de már gyárilag is ragyogóan működik.
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
