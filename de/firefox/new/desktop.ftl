@@ -9,9 +9,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Download { -brand-name-firefox-browser } – schnell, privat und kostenlos – von { -brand-name-mozilla }
-firefox-desktop-download-meta-title-v2 = Laden Sie { -brand-name-firefox } für Desktop herunter – von { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Lade { -brand-name-firefox } für Desktop herunter – von { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Hol dir { -brand-name-firefox }, den kostenlosen Webbrowser, der von der gemeinnützigen Organisation { -brand-name-mozilla } unterstützt wird. Mozilla setzt sich für ein gesundes Internet und Datenschutz ein. Firefox ist ab sofort verfügbar für { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios }.
-firefox-desktop-download-meta-desc-v2 = Holen Sie sich { -brand-name-firefox } für { -brand-name-windows }, { -brand-name-mac-short } oder { -brand-name-linux }. { -brand-name-firefox } ist ein kostenloser Webbrowser, der von der gemeinnützigen Organisation { -brand-name-mozilla } unterstützt wird, die sich für ein gesundes Internet und Datenschutz einsetzt.
+firefox-desktop-download-meta-desc-v2 = Hol dir { -brand-name-firefox } für { -brand-name-windows }, { -brand-name-mac-short } oder { -brand-name-linux }. { -brand-name-firefox } ist ein kostenloser Webbrowser, der von der gemeinnützigen Organisation { -brand-name-mozilla } unterstützt wird, die sich für ein gesundes Internet und Datenschutz einsetzt.
 firefox-desktop-download-og-title = Jetzt den schnellsten { -brand-name-firefox } aller Zeiten herunterladen
 firefox-desktop-download-og-desc = Der neue { -brand-name-firefox }: schnellere Seitenladezeiten, weniger Speicherverbrauch und vollgepackt mit neuen Funktionen.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -49,7 +49,7 @@ firefox-desktop-download-we-block-the-ad = Wir blocken Werbe-Tracker. Du surfst 
 firefox-desktop-download-ads-are-distracting = Werbung nervt, verlangsamt das Laden von Webseiten und trackt deine Aktivitäten im Internet. Der { -brand-name-firefox-browser } blockt die meisten dieser Tracker einfach automatisch, ohne dass du es selbst noch einstellen musst.
 firefox-desktop-download-see-your-report = Deinen Privatsphäre-Bericht anzeigen
 firefox-desktop-download-for-everyone = { -brand-name-firefox } ist für alle
-firefox-desktop-download-available-in-over = { -brand-name-firefox } ist in mehr als 90 Sprachen verfügbar, mit { -brand-name-windows }-, { -brand-name-mac-short }- und { -brand-name-linux }-Geräten kompatibel und funktioniert – egal welches Gerät Sie verwenden oder wo Sie gerade sind. Stellen Sie sicher, dass Ihr Betriebssystem auf dem neusten Stand ist, um das beste herauszuholen.
+firefox-desktop-download-available-in-over = { -brand-name-firefox } ist in mehr als 90 Sprachen verfügbar, mit { -brand-name-windows }-, { -brand-name-mac-short }- und { -brand-name-linux }-Geräten kompatibel und funktioniert – egal welches Gerät du verwendest oder wo du gerade bist. Stelle sicher, dass dein Betriebssystem auf dem neusten Stand ist, um das beste herauszuholen.
 firefox-desktop-download-review-system-req = Zu den Systemvoraussetzungen
 firefox-desktop-download-all-your-devices = Hol dir { -brand-name-firefox } auf alle Geräte
 firefox-desktop-download-take-your-privacy = Nimm deine Privatsphäre einfach mit. Der { -brand-name-firefox-browsers } für { -brand-name-ios } und { -brand-name-android } kommt mit denselben starken Privatsphäre-Einstellungen, die verhindern, dass Tracker dir im Internet folgen.
@@ -112,7 +112,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs } >Laden Sie diese Browsererweiterung herunter,</a> um { -brand-name-facebook } (und { -brand-name-instagram }) daran zu hindern, Sie durch das Internet zu tracken.
+firefox-desktop-download-download-this-browser = <a { $attrs } >Lade diese Browsererweiterung herunter,</a> um { -brand-name-facebook } (und { -brand-name-instagram }) daran zu hindern, dich durch das Internet zu tracken.
 firefox-desktop-download-sync-your-devices = Synchronisiere deine Geräte.
 firefox-desktop-download-screenshots = Bildschirmfotos
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -139,7 +139,7 @@ firefox-desktop-download-as-the-internet = Während das Internet wächst und sic
 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ist auf allen Ihren Geräten verfügbar. Nehmen Sie Ihre Tabs, Ihren Verlauf und Ihre Lesezeichen einfach mit. Alles, was Sie brauchen, ist ein <a { $attrs }>{ -brand-name-mozilla-account }</a> und Sie erhalten Zugriff auf Synchronisierung und weitere { -brand-name-mozilla }-Produkte.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ist auf allen deinen Geräten verfügbar. Nimm deine Tabs, deinen Verlauf und deine Lesezeichen einfach mit. Alles, was du brauchst, ist ein <a { $attrs }>{ -brand-name-mozilla-account }</a> und du erhältst Zugriff auf Synchronisierung und weitere { -brand-name-mozilla }-Produkte.
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
@@ -174,12 +174,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Wenn Sie aufgefordert werden, anzugeben, dass die App, die Sie installieren möchten, keine von { -brand-name-microsoft } verifizierte App ist, klicken Sie auf „Trotzdem installieren“ oder <a { $attrs }>ändern Sie die App-Empfehlungseinstellungen</a>.
-firefox-desktop-download-visit-support-for-more = Weitere Informationen erhalten Sie beim Support
+firefox-desktop-download-if-you-see-a-prompt = Wenn du aufgefordert wirst, anzugeben, dass die App, die du installieren möchtest, keine von { -brand-name-microsoft } verifizierte App ist, klicke auf „Trotzdem installieren“ oder <a { $attrs }>ändere die App-Empfehlungseinstellungen</a>.
+firefox-desktop-download-visit-support-for-more = Weitere Informationen erhältst du beim Support
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, Sie können { -brand-name-firefox } aber weiterhin nutzen.
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">bietet keine Sicherheitsaktualisierungen</a> auf { -brand-name-windows } { -brand-name-xp } oder { -brand-name-vista } mehr an, du kannst { -brand-name-firefox } aber weiterhin nutzen.
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -196,4 +196,4 @@ firefox-desktop-download-please-follow = Bitte folgen Sie <a href="{ $url }">die
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-system-may-not = Möglicherweise erfüllt Ihr System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuchen Sie es mit einer <a href="{ $url }">dieser Versionen</a>.
+firefox-desktop-download-your-system-may-not = Möglicherweise erfüllt dein System nicht alle Voraussetzungen für { -brand-name-firefox }. Versuche es mit einer <a href="{ $url }">dieser Versionen</a>.
