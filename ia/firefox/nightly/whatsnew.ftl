@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Isto es un bon momento pro regratiar te pro ad
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Si tu desira saper que eveni circum { -brand-name-nightly } e su communitate, leger nostre <a { $blog }>blog</a> e sequer nos sur <a { $mastodon }>Mastodon</a> o <a { $twitter }>X</a> es bon punctos de initio!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Si tu vole saper lo que occurre circum { -brand-name-nightly } e su communitate, leger nostre <a href="{ $blog }">blog</a> e sequer nos sur <a href="{ $mastodon }">Mastodon</a> o <a href="{ $twitter }">Twitter</a>  es un bon initio!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Vole tu saper qual functionalitates de platteforma poterea tu probar sur { -brand-name-nightly }, que non es ancora disponibile sur altere { -brand-name-firefox }? Alora consulta le pagina de preferentias<a { $attrs }>Nightly Experiments</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Vole tu saper qual functionalitates de platteforma poterea tu probar sur { -brand-name-nightly }, que non es ancora disponibile sur altere { -brand-name-firefox }? Alora consulta le pagina de preferentias <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Incontra tu crashes? Comportamento non expectate? Regressiones de compatibilitate del web? Nos adorarea haber iste problemas reportate in <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> pro evitar que illos permane in le edition final (punctos bonus si tu adde le parola clave <em>{ -brand-name-nightly }-community</em> a tu reportos de defecto)!
