@@ -16,13 +16,6 @@ features-adblocker-an-ad-blocker-is-a-piece = 广告拦截器是一种可用于�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 这些广告可能是嘈杂的视频广告，并会以跟踪器、第三方Cookie 等型态在网络上的各个角落跟踪你。若要使用广告拦截器，可直接搜索您的浏览器所适用的附加组件。例如，<a href="{ $firefox }">{ -brand-name-firefox }</a>就有<a href="{ $addons }">这些经过审核的广告拦截附加组件</a>。看看有哪个符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 寻找合适的广告拦截器
-# Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
-features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一个不错的选择它不仅可以拦截广告而且还有其他反跟踪功能。
-# Variables:
-#   $attrs1 (string) - link to /firefox/new/ with other attributes
-#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = 这些扩展在 <a { $attrs1 }>{ -brand-name-firefox } 桌面版</a>与 <a { $attrs2 }>Android</a> 上均能正常工作。
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
