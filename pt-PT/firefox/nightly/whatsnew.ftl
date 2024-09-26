@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = É uma boa altura para lhe agradecer por nos a
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Se pretende saber o que está a acontecer à volta do { -brand-name-nightly } e da sua comunidade, a ler o nosso <a { $blog }>blogue</a> e a seguir-nos no <a { $mastodon }>Mastodon</a> ou <a { $twitter }>X</a> são bons pontos de partida!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Se pretende saber o que está a acontecer à volta do { -brand-name-nightly } e da sua comunidade, ler o nosso <a href="{ $blog }">blogue</a> e seguir-nos no <a href="{ $mastodon }">Mastodon</a> ou <a href="{ $twitter }">Ttwitter</a> são bons pontos de partida!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Pretende saber que funcionalidades de plataforma pode testar no { -brand-name-nightly } e não pode ver ainda noutros canais do { -brand-name-firefox }? Depois dê uma vista de olhos na página de preferências das <a { $attrs }>experiências do Nightly</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Pretende saber que funcionalidades de plataforma pode testar no { -brand-name-nightly } e não pode ver ainda noutros canais do { -brand-name-firefox }? Depois dê uma vista de olhos na página de preferências do <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Está a enfrentar falhas? Comportamento inesperado? Regressões da compatibilidade web? Adoraríamos de os ter arquivados no <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para ter a certeza que estes não chegam ao lançamento final (carma extra se adicionar a palavra-chave <em>{ -brand-name-nightly }-community</em> aos seus relatórios de bugs)!
