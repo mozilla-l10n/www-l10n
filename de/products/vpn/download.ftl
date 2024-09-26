@@ -5,11 +5,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = { -brand-name-mozilla-vpn } herunterladen
-vpn-download-page-description = Laden Sie { -brand-name-mozilla-vpn } für { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios } herunter.
+vpn-download-page-description = Lade { -brand-name-mozilla-vpn } für { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } und { -brand-name-ios } herunter.
 
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = Sie können { -brand-name-mozilla-vpn } mit einem Abonnement auf bis zu { $devices } Geräten installieren.
+vpn-download-sub-heading = Du kannst { -brand-name-mozilla-vpn } mit einem Abonnement auf bis zu { $devices } Geräten installieren.
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } bietet sicheren Schutz für alle gängigen Betriebssysteme.
 
 vpn-download-not-available-in-country = Tut uns leid, { -brand-name-mozilla-vpn } steht in Ihrem Land nicht zum Download zur Verfügung.
@@ -41,7 +41,7 @@ vpn-download-get-on-google-play = Im { -brand-name-google-play }-Store holen
 vpn-download-get-on-app-store = Im { -brand-name-app-store } holen
 vpn-download-based-on-your = Basierend auf Ihrem aktuellen Gerät
 vpn-download-get-mozilla-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
-vpn-download-privacy-you-can = Datenschutz, dem Sie vertrauen können
+vpn-download-privacy-you-can = Datenschutz, dem du vertrauen kannst
 
 vpn-download-also-available = Auch erhältlich für:
 
@@ -51,4 +51,4 @@ vpn-download-also-available = Auch erhältlich für:
 vpn-download-from-the-maker = { -brand-name-mozilla-vpn } nutzt das fortschrittliche <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-Protokoll von den Machern von { -brand-name-firefox }, um Ihre Aktivitäten online zu verschlüsseln und Ihren Standort zu verstecken.
 vpn-download-we-never-log = Wir loggen, verfolgen oder teilen Ihre Netzwerkdaten nie.
 
-vpn-download-previous-versions = Laden Sie frühere Versionen für { -brand-name-windows } und { -brand-name-mac-short } herunter
+vpn-download-previous-versions = Lade frühere Versionen für { -brand-name-windows } und { -brand-name-mac-short } herunter
