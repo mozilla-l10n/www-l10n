@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Detta är en god tid att tacka dig för att du
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Om du vill veta vad som händer runt { -brand-name-nightly } och dess community, är det bra att läsa vår <a { $blog }>blogg</a> och följ oss på <a { $mastodon }>Mastodon</a> eller <a { $twitter }>X</a>!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Om du vill veta vad som händer runt { -brand-name-nightly } och dess community kan du läsa vår <a href="{ $blog }">blogg</a> och följa oss på <a href="{ $mastodon }">Mastodon</a> eller <a href="{ $twitter }">Twitter</a> är bra utgångspunkter!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Vill du veta vilka plattformsfunktioner du kan testa på { -brand-name-nightly } och ännu inte kan se på andra { -brand-name-firefox }-kanaler? Ta sedan en titt på inställningssidan för <a { $attrs }>Nightly-experiment</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Vill du veta vilka plattformsfunktioner du kan testa på { -brand-name-nightly } och ännu inte kan se på andra { -brand-name-firefox }-kanaler? Ta en titt på inställningssidan för <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Upplever du kraschar? Oväntat beteende? Regressioner av webbkompatibilitet? Vi skulle gärna få dem arkiverade i <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> för att se till att de inte når den slutliga utgåvan (extra karma om du lägger till nyckelordet <em>{ -brand-name-nightly }-community</em> i dina felrapporter)!
