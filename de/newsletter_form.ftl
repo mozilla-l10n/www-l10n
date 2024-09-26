@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-newsletter-form-please-enter-a-valid = Bitte geben Sie eine gültige E-Mail-Adresse ein
-newsletter-form-you-must-agree-to = Sie müssen dem Datenschutzhinweis zustimmen
+newsletter-form-please-enter-a-valid = Bitte gib eine gültige E-Mail-Adresse ein
+newsletter-form-you-must-agree-to = Du musst dem Datenschutzhinweis zustimmen
 newsletter-form-your-email-address = Deine E-Mail-Adresse
-newsletter-form-we-are-sorry-but-there = Es tut uns leid, in unserem System ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut!
-newsletter-form-please-select-country = Bitte wählen Sie ein Land oder eine Region
-newsletter-form-please-select-language = Bitte wählen Sie eine Sprache
+newsletter-form-we-are-sorry-but-there = Es tut uns leid, in unserem System ist ein Fehler aufgetreten. Bitte versuche es später erneut!
+newsletter-form-please-select-country = Bitte wähle ein Land oder eine Region
+newsletter-form-please-select-language = Bitte wähle eine Sprache
 
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = deinname@example.com
@@ -33,17 +33,17 @@ newsletter-form-we-will-only-send-firefox-v2 = Wir schicken dir nur Informatione
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-firefox }.
 
-newsletter-form-if-you-havent-previously = Wenn Sie bisher noch kein Abonnement eines { -brand-name-mozilla }-Newsletters bestätigt haben, müssen Sie dies vielleicht jetzt tun. Sehen Sie bitte in Ihrem Posteingang oder Ihrem Spam-Filter nach einer E-Mail von uns.
-newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Sie
-newsletter-form-get-firefox-tips = Erfahren Sie Tipps, Tricks, Neuigkeiten und mehr über { -brand-name-firefox }.
-newsletter-form-keep-up-with = Bleiben Sie in Sachen<br>{ -brand-name-firefox } auf dem Laufenden.
-newsletter-form-get-mozilla-updates = Erfahren Sie Neuigkeiten von { -brand-name-mozilla }
+newsletter-form-if-you-havent-previously = Wenn du bisher noch kein Abonnement eines { -brand-name-mozilla }-Newsletters bestätigt hast, musst du dies vielleicht jetzt tun. Schau bitte in deinem Posteingang oder deinem Spam-Filter nach einer E-Mail von uns.
+newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + du
+newsletter-form-get-firefox-tips = Erfahre Tipps, Tricks, Neuigkeiten und mehr über { -brand-name-firefox }.
+newsletter-form-keep-up-with = Bleib in Sachen<br>{ -brand-name-firefox } auf dem Laufenden.
+newsletter-form-get-mozilla-updates = Erfahre Neuigkeiten von { -brand-name-mozilla }
 newsletter-form-available-languages = Verfügbare Sprachen
 newsletter-form-select-country = Land auswählen
 newsletter-form-sign-me-up = Abonnieren
 newsletter-form-sign-up-now = Jetzt abonnieren
 newsletter-form-thanks = Vielen Dank!
-newsletter-form-leave-this-field-empty = Lassen Sie dieses Feld leer.
+newsletter-form-leave-this-field-empty = Lass dieses Feld leer.
 newsletter-form-yes = Ja
 newsletter-form-no = Nein
 
