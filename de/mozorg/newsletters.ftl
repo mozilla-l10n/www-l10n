@@ -392,9 +392,9 @@ newsletters-update-your-browser = Bitte aktualisieren Sie Ihren Webbrowser, um d
 newsletters-security-and-privacy-news = Neuigkeiten zu Sicherheit und Datenschutz
 
 # Description for the newsletter in Newsletter subscription page (Security & Privacy News)
-newsletters-stay-informed-of-the-latest = Bleiben Sie über die neuesten Trends bei Datenschutz- und Sicherheitsprodukten von { -brand-name-mozilla }, den Machern von { -brand-name-firefox }, auf dem Laufenden.
+newsletters-stay-informed-of-the-latest = Bleib über die neuesten Trends bei Datenschutz- und Sicherheitsprodukten von { -brand-name-mozilla }, den Machern von { -brand-name-firefox }, auf dem Laufenden.
 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
-newsletters-get-security-and-privacy-news-and-tips = Holen Sie sich Neuigkeiten zu Sicherheit und Datenschutz und Produkt-Updates von { -brand-name-mozilla }, um über alles informiert zu werden, was das Internet zu einem gesünderen Ort macht.
+newsletters-get-security-and-privacy-news-and-tips = Hol dir Neuigkeiten zu Sicherheit und Datenschutz und Produkt-Updates von { -brand-name-mozilla }, um über alles informiert zu werden, was das Internet zu einem gesünderen Ort macht.
 
-newsletters-opt-out-delay = Es kann 1–2 Arbeitstage dauern, bis Ihre Abmeldung bearbeitet wird. Bis dahin kann es sein, dass Sie eine weitere E-Mail erhalten.
+newsletters-opt-out-delay = Es kann 1–2 Arbeitstage dauern, bis deine Abmeldung bearbeitet wird. Bis dahin kann es sein, dass du eine weitere E-Mail erhältst.
