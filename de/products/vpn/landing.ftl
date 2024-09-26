@@ -54,7 +54,7 @@ vpn-landing-faq-info-question-heading = Welche Informationen speichert { -brand-
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Wir halten uns strikt an die { -brand-name-mozilla } <a href="{ $principles }">Datenschutzprinzipien</a> und sammeln die Daten, die wir brauchen, um das VPN funktional zu erhalten das Produkt mit der Zeit zu verbessern. Außerdem tracken wir Kampagnen- und Empfehlungsdaten in unserer mobilen App, um { -brand-name-mozilla } zu helfen, die Effektivität unserer Marketing-Kampagnen nachzuvollziehen. Erfahren Sie in unserer <a href="{ $notice }">Datenschutzerklärung</a> mehr.
+vpn-landing-faq-info-question-desc-v2 = Wir halten uns strikt an die { -brand-name-mozilla } <a href="{ $principles }">Datenschutzprinzipien</a> und sammeln die Daten, die wir brauchen, um das VPN funktional zu erhalten das Produkt mit der Zeit zu verbessern. Außerdem tracken wir Kampagnen- und Empfehlungsdaten in unserer mobilen App, um { -brand-name-mozilla } zu helfen, die Effektivität unserer Marketing-Kampagnen nachzuvollziehen. Erfahre in unserer <a href="{ $notice }">Datenschutzerklärung</a> mehr.
 
 vpn-landing-faq-protected-question-heading = Wie wird meine Privatsphäre geschützt?
 
@@ -100,9 +100,9 @@ vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux<
 
 vpn-landing-faq-refund-question-heading = Welche Richtlinien gelten für die Rückerstattung von { -brand-name-mozilla-vpn }?
 
-vpn-landing-faq-refund-question-desc-v2 = Wenn Sie das erste Mal { -brand-name-mozilla-vpn } über { -brand-name-mozilla }s Website abonnieren und Ihr Konto innerhalb der ersten 30 Tage kündigen, können Sie eine Rückerstattung beantragen und { -brand-name-mozilla } erstattet Ihnen die Kosten für den ersten Abozeitraum.
+vpn-landing-faq-refund-question-desc-v2 = Wenn du das erste Mal { -brand-name-mozilla-vpn } über { -brand-name-mozilla }s Website abonnierst und dein Konto innerhalb der ersten 30 Tage kündigst, kannst du eine Rückerstattung beantragen und { -brand-name-mozilla } erstattet dir die Kosten für den ersten Abozeitraum.
 
-vpn-landing-faq-refund-question-additional-desc = Falls Sie Ihr Abonnement über In-App-Kauf im { -brand-name-apple }{ -brand-name-app-store } oder im { -brand-name-google-play } Store erworben haben, unterliegt Ihre Zahlung den Geschäftsbedingungen des { -brand-name-app-store }. Sie müssen jegliche Anfragen zu Rechnungen oder Rückerstattungen für solche Käufe an { -brand-name-apple } oder { -brand-name-google } adressieren, je nach Sachlage.
+vpn-landing-faq-refund-question-additional-desc = Falls du dein Abonnement über In-App-Kauf im { -brand-name-apple } { -brand-name-app-store } oder im { -brand-name-google-play } Store erworben hast, unterliegt deine Zahlung den Geschäftsbedingungen des { -brand-name-app-store }. Du musst jegliche Anfragen zu Rechnungen oder Rückerstattungen für solche Käufe an { -brand-name-apple } oder { -brand-name-google } adressieren, je nach Sachlage.
 
 vpn-landing-faq-manage-subscription-question-heading = Wie verwalte ich mein Abonnement?
 
@@ -114,7 +114,7 @@ vpn-landing-faq-download-heading = Wie lade ich { -brand-name-mozilla-vpn } heru
 
 # Variables:
 #   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = Gehen Sie auf die <a { $attrs }>Download-Seite,</a> um { -brand-name-mozilla-vpn } auf Ihrem Gerät zu installieren und loggen Sie sich dann mit Ihrem { -brand-name-firefox-account } ein.
+vpn-landing-faq-download-desc = Geh auf die <a { $attrs }>Download-Seite,</a> um { -brand-name-mozilla-vpn } auf deinem Gerät zu installieren und logge dich dann mit deinem { -brand-name-firefox-account } ein.
 
 vpn-landing-faq-link = Weitere Fragen zum Thema
 
@@ -122,7 +122,7 @@ vpn-landing-faq-link = Weitere Fragen zum Thema
 
 vpn-landing-invite-page-title = Tritt der Warteliste bei: { -brand-name-mozilla-vpn }
 
-vpn-landing-invite-page-desc-v2 = Lassen Sie sich benachrichtigen, wenn { -brand-name-mozilla-vpn } in Ihrer Region verfügbar ist.
+vpn-landing-invite-page-desc-v2 = Lass dich benachrichtigen, wenn { -brand-name-mozilla-vpn } in deiner Region verfügbar ist.
 
 vpn-landing-invite-page-heading = Tritt der VPN-Warteliste bei
 vpn-landing-invite-email-label = Wie lautet deine E-Mail-Adresse?
