@@ -52,14 +52,14 @@ about-toronto = Toronto
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> Flaschen kalt gebrühter Kaffee werden jährlich verbraucht.
 
 about-work-at-mozilla = Bei { -brand-name-mozilla } arbeiten
-about-join-a-mission-driven-organization = Arbeiten Sie für eine Organisation mit Visionen und für ein Unternehmen, das zielorientierte Produkte entwickelt.
+about-join-a-mission-driven-organization = Arbeite für eine Organisation mit Visionen und für ein Unternehmen, das zielorientierte Produkte entwickelt.
 about-mozilla-careers = Karriere bei { -brand-name-mozilla }
-about-how-you-can-help = Wie Sie helfen können
+about-how-you-can-help = Wie du helfen kannst
 about-your-voice-your-code-your = Ihre Stimme. Ihr Quelltext. Ihre Unterstützung. Es gibt so viele Möglichkeiten, sich für ein gesundes Internet einzusetzen.
-about-get-involved = Beteiligen Sie sich
+about-get-involved = Beteilige dich
 
 ## Newsletter
 
-about-get-the-mozilla-newsletter = Abonnieren Sie den { -brand-name-mozilla }-Newsletter
-about-stay-informed-about-the-issues = Bleiben Sie auf dem Laufenden was Probleme des Internets angeht und erfahren Sie, wie Sie beim Schutz der neuesten öffentlichen Ressource der Welt mitwirken können.
+about-get-the-mozilla-newsletter = Abonniere den { -brand-name-mozilla }-Newsletter
+about-stay-informed-about-the-issues = Bleib auf dem Laufenden was Probleme des Internets angeht und erfahre, wie du beim Schutz der neuesten öffentlichen Ressource der Welt mitwirken kannst.
 about-subscribe = Abonnieren
