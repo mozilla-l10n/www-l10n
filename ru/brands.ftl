@@ -74,10 +74,7 @@
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -86,38 +83,23 @@
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Фейсбук-контейнер
--brand-name-firefox-account =
-    { $case ->
-       *[nominative] Аккаунт Firefox
-        [genitive] Аккаунта Firefox
-        [dative] Аккаунту Firefox
-        [accusative] Аккаунт Firefox
-        [instrumental] Аккаунтом Firefox
-        [prepositional] Аккаунте Firefox
-    }
--brand-name-firefox-accounts =
-    { $case ->
-       *[nominative] Аккаунты Firefox
-        [genitive] Аккаунтов Firefox
-        [dative] Аккаунтам Firefox
-        [accusative] Аккаунты Firefox
-        [instrumental] Аккаунтами Firefox
-        [prepositional] Аккаунтах Firefox
-    }
 -brand-name-firefox-devtools =
     { $case ->
        *[nominative] Инструменты разработчика Firefox
@@ -127,10 +109,8 @@
         [instrumental] Инструментами разработчика Firefox
         [prepositional] Инструментах разработчика Firefox
     }
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-private-network = Firefox Private Network
--brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync =
     { $case ->
        *[nominative] Синхронизация Firefox
@@ -153,9 +133,6 @@
         [instrumental] Инструментами разработчика
         [prepositional] Инструментах разработчика
     }
--brand-name-fpn = FPN
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync =
@@ -168,15 +145,39 @@
         [prepositional] Синхронизации
         [verb] Синхронизируйте
     }
--brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account =
+    { $case ->
+       *[nominative] Аккаунт Firefox
+        [genitive] Аккаунта Firefox
+        [dative] Аккаунту Firefox
+        [accusative] Аккаунт Firefox
+        [instrumental] Аккаунтом Firefox
+        [prepositional] Аккаунте Firefox
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nominative] Аккаунты Firefox
+        [genitive] Аккаунтов Firefox
+        [dative] Аккаунтам Firefox
+        [accusative] Аккаунты Firefox
+        [instrumental] Аккаунтами Firefox
+        [prepositional] Аккаунтах Firefox
+    }
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
+
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -189,6 +190,7 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
@@ -201,28 +203,29 @@
         [prepositional] Веб-документации MDN
     }
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
 -brand-name-mozilla-festival = Фестиваль Mozilla
--brand-name-mozilla-hubs = Клубы Mozilla
--brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = Аккаунт Mozilla
 -brand-name-mozilla-accounts = Аккаунты Mozilla
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-gecko = Gecko
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Клубы
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Клубы
+-brand-name-lockwise = Lockwise
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party =
     { $case ->
