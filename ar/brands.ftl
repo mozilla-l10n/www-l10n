@@ -90,6 +90,9 @@
 -brand-name-firefox-private-network = شبكة فَيَرفُكس الخاصة
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+
 ## Pocket
 
 -brand-name-pocket = Pocket
