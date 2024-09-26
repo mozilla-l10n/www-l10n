@@ -23,7 +23,7 @@ nightly-whatsnew-if-you-want-to-v3 = 如果您想了解 { -brand-name-nightly } 
 nightly-whatsnew-want-to-know-which-v2 = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <a { $attrs }>Nightly 实验</a> 页面吧。
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = 想知道 { -brand-name-nightly } 测试了哪些尚未在 { -brand-name-firefox } 其他频道上架的平台功能吗那就看看 <a { $attrs }>{ -brand-name-firefox-labs }</a> 首选项页面吧。
+nightly-whatsnew-want-to-know-which-v3 = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <a { $attrs }>{ -brand-name-firefox-labs }</a>页面吧。
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = 您遇到过软件崩溃吗？或者非预期行为？Web 兼容性异常？请将其提交至 <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> 以确保这些问题不会出现在最终的正式发布版本！（若 bug 报告中能加上 <em>{ -brand-name-nightly }-community</em> 这个关键词就更好了）
