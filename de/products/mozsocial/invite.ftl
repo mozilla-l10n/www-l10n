@@ -5,9 +5,9 @@
 ### URL: https://www-dev.allizom.org/products/mozsocial/invite/
 
 # HTML page title
-mozsocial-invite-join-the-waitlist = Treten Sie der Warteliste für { -brand-name-mozilla-social } bei
+mozsocial-invite-join-the-waitlist = Tritt der Warteliste für { -brand-name-mozilla-social } bei
 mozsocial-invite-welcome-to-mozillasocial = Willkommen bei { -brand-name-mozilla-social }!
-mozsocial-invite-please-join-our-waitlist = Bitte treten Sie unserer Warteliste bei, indem Sie das Formular unten ausfüllen.
+mozsocial-invite-please-join-our-waitlist = Bitte tritt unserer Warteliste bei, indem du das Formular unten ausfüllst.
 mozsocial-invite-required-label = Erforderlich
 mozsocial-invite-first-name-label = Vorname
 mozsocial-invite-last-name-label = Nachname
