@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pom
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a jeho komunity, přečtěte si náš <a { $blog }>blog</a> a sledujte nás na sítích <a { $mastodon }>Mastodon</a> nebo <a { $twitter }>X</a>!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a komunity, můžete číst náš <a href="{ $blog }">blog</a> a začít nás sledovat na sítích <a href="{ $mastodon }">Mastodon</a> nebo <a href="{ $twitter }">Twitter</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v žádné jiné verzi { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku <a { $attrs }>Nightly Experiments</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v jiných kanálech s { -brand-name-firefox(case: "ins") }? Pak se podívejte na stránku nastavení <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Pozorujete pády? Neočekávané chování? Regrese v kompatibilitě webů? Nahlaste nám je do <a href="{ $bugzilla }">{ -brand-name-bugzilla(case: "gen") }</a> a zajistěte, že se nedostanou i do finálního vydání (jako bonus můžete při hlášení přidat klíčové slovo <em>{ -brand-name-nightly }-community</em> do pole keywords)!
