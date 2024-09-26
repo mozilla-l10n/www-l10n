@@ -38,7 +38,7 @@ features-adblocker-to-start-click-on-the-v2 = 首先点击地址栏左侧的盾�
 features-adblocker-go-easy-with-standard = 使用标准模式轻松完成
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = 如果广告不大干扰您，您也不介意被跟踪器或第三方 Cookie 跟踪，那么标准设置应该适合您。要在标准模式下关闭跟踪器，请使用<a href="{ $url }">隐私浏览</a>窗口。
+features-adblocker-if-ads-dont-bother-you = 如果广告不大干扰您，您也不介意被跟踪器或第三方 Cookie 跟踪，那么标准设置应该适合您。若要在标准模式下拦截跟踪器，请使用<a href="{ $url }">隐私浏览</a>窗口。
 features-adblocker-get-tough-with-strict = 严格模式，万无一失
 features-adblocker-if-seeing-too-many-ads = 若您觉得一天当中看到太多广告很烦人，那么严格模式更合适。此模式将拦截所有 { -brand-name-firefox } 窗口中的所有已知第三方跟踪器和 Cookie。
 features-adblocker-do-it-yourself-custom = 牛刀小试，自定义拦截模式
