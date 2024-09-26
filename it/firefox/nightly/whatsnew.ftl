@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Questo è un buon momento per ringraziarti per
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Per rimanere aggiornato su { -brand-name-nightly } e la sua comunità, leggere il nostro <a { $blog }>blog</a> e seguirci su <a { $mastodon }>Mastodon</a> o <a { $twitter }>X</a> sono un buon punto di partenza.
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Per rimanere aggiornato su { -brand-name-nightly } e la sua comunità, leggere il nostro <a href="{ $blog }">blog</a> e seguirci su <a href="{ $mastodon }">Mastodon</a> o <a href="{ $twitter }">Twitter</a> sono un buon punto di partenza.
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Vuoi scoprire quali funzionalità puoi provare in { -brand-name-nightly }, anche se non sono ancora disponibili in altre versioni di { -brand-name-firefox }? Dai un’occhiata al pannello <a { $attrs }>Esperimenti di Nightly</a> nelle impostazioni.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Vuoi scoprire quali funzionalità puoi provare in { -brand-name-nightly }, anche se non sono ancora disponibili in altre versioni di { -brand-name-firefox }? Dai un’occhiata al pannello <a { $attrs }>{ -brand-name-firefox-labs }</a> nelle impostazioni.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Stai riscontrando arresti anomali? Comportamenti inaspettati? Regressioni nella compatibilità dei siti internet? Ci farebbe piacere se li segnalassi su <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> per essere sicuri che non rimangano nella versione ufficiale (extra punti se aggiungi la parola chiave <em>{ -brand-name-nightly }-community</em> alle tue segnalazioni).
