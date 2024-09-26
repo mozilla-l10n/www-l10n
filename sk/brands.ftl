@@ -200,19 +200,7 @@
         [ins] Firefoxom Focus
     }
     .gender = masculine
--brand-name-firefox-lite =
-    { $case ->
-       *[nom] Firefox Lite
-        [gen] Firefoxu Lite
-        [dat] Firefoxu Lite
-        [acc] Firefox Lite
-        [loc] Firefoxe Lite
-        [ins] Firefoxom Lite
-    }
-    .gender = masculine
 -brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -230,10 +218,7 @@
         [ins] Focusom
     }
     .gender = masculine
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
@@ -248,6 +233,8 @@
     }
     .gender = masculine
 -brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
        *[nom] Firefox Quantum
@@ -258,6 +245,19 @@
         [ins] Firefoxom Quantum
     }
     .gender = masculine
+-brand-name-firefox-lite =
+    { $case ->
+       *[nom] Firefox Lite
+        [gen] Firefoxu Lite
+        [dat] Firefoxu Lite
+        [acc] Firefox Lite
+        [loc] Firefoxe Lite
+        [ins] Firefoxom Lite
+    }
+    .gender = masculine
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
@@ -271,6 +271,42 @@
         [ins] Facebook Containerom
     }
     .gender = masculine
+-brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-relay =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [loc] Firefoxe Relay
+        [ins] Firefoxom Relay
+    }
+-brand-name-firefox-relay-premium = Firefox Relay Premium
+-brand-name-firefox-sync =
+    { $case ->
+       *[nom] Firefox Sync
+        [gen] Firefoxu Sync
+        [dat] Firefoxu Sync
+        [acc] Firefox Sync
+        [loc] Firefoxe Sync
+        [ins] Firefoxom Sync
+    }
+-brand-name-firefox-translations = Firefox Translations
+
+## Firefox products (short names)
+
+-brand-name-devtools = DevTools
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
+-brand-name-sync =
+    { $form ->
+       *[noun] Synchronizácia
+        [verb] Synchronizovať
+        [verb2] Synchronizujte
+    }
+
+## Firefox products (legacy)
+
 -brand-name-firefox-account =
     { $case ->
        *[nom]
@@ -337,7 +373,7 @@
                 [lower] účtom Firefox
             }
     }
--brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise =
     { $case ->
        *[nom] Firefox Lockwise
@@ -348,67 +384,8 @@
         [ins] Firefoxom Lockwise
     }
     .gender = masculine
--brand-name-firefox-private-network = Firefox Private Network
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-relay =
-    { $case ->
-       *[nom] Firefox Relay
-        [gen] Firefoxu Relay
-        [dat] Firefoxu Relay
-        [acc] Firefox Relay
-        [loc] Firefoxe Relay
-        [ins] Firefoxom Relay
-    }
--brand-name-firefox-sync =
-    { $case ->
-       *[nom] Firefox Sync
-        [gen] Firefoxu Sync
-        [dat] Firefoxu Sync
-        [acc] Firefox Sync
-        [loc] Firefoxe Sync
-        [ins] Firefoxom Sync
-    }
--brand-name-firefox-translations = Firefox Translations
-
-## Firefox products (short names)
-
--brand-name-devtools = DevTools
--brand-name-fpn = FPN
--brand-name-lockwise =
-    { $case ->
-       *[nom] Lockwise
-        [gen] Lockwisu
-        [dat] Lockwisu
-        [acc] Lockwise
-        [loc] Lockwise
-        [ins] Lockwisom
-    }
-    .gender = masculine
--brand-name-monitor =
-    { $case ->
-       *[nom] Monitor
-        [gen] Monitoru
-        [dat] Monitoru
-        [acc] Monitor
-        [loc] Monitore
-        [ins] Monitorom
-    }
-    .gender = masculine
--brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $form ->
-       *[noun] Synchronizácia
-        [verb] Synchronizovať
-        [verb2] Synchronizujte
-    }
--brand-name-vpn = VPN
-
-## Firefox products (legacy)
-
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send =
     { $case ->
        *[nom] Firefox Send
@@ -420,6 +397,12 @@
     }
     .gender = masculine
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
+
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -450,17 +433,14 @@
         [ins] Bugzillou
     }
     .gender = feminine
+-brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Webová dokumentácia MDN
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account =
     { $case ->
         [gen]
@@ -530,16 +510,39 @@
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-gecko = Gecko
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+-brand-name-monitor =
+    { $case ->
+       *[nom] Monitor
+        [gen] Monitoru
+        [dat] Monitoru
+        [acc] Monitor
+        [loc] Monitore
+        [ins] Monitorom
+    }
+    .gender = masculine
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Hubs
+-brand-name-lockwise =
+    { $case ->
+       *[nom] Lockwise
+        [gen] Lockwisu
+        [dat] Lockwisu
+        [acc] Lockwise
+        [loc] Lockwise
+        [ins] Lockwisom
+    }
+    .gender = masculine
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker =
