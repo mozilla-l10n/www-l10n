@@ -33,7 +33,7 @@ navigation-get-firefox-focus = Jetzt { -brand-name-firefox-focus } nutzen
 navigation-android-extensions = Add-ons für { -brand-name-android }
 navigation-your-firefox-account = Dein { -brand-name-firefox-account }
 navigation-make-the-most-of-your = Hol das Beste aus deinem { -brand-name-firefox } heraus – auf jedem Gerät.
-navigation-explore-the-immersive = Entdecken Sie das immersive Web mit Ihrem Virtual-Reality-Headset.
+navigation-explore-the-immersive = Entdecke das immersive Web mit deinem Virtual-Reality-Headset.
 navigation-mozilla-mixed-reality = { -brand-name-mozilla } Mixed Reality
 navigation-mozilla-brings-virtual = { -brand-name-mozilla } bringt virtuelle und erweiterte Realität ins offene Web.
 navigation-firefox-built-just-for = { -brand-name-firefox } – nur für Entwickler gemacht.
@@ -60,7 +60,7 @@ navigation-save-quality-content = Speichere hochwertige Inhalte von überall. Si
 navigation-sign-up = Registrieren
 
 navigation-mozilla-vpn = { -brand-name-mozilla-vpn }: Schnell. Einfach. Privat.
-navigation-protect-your-entire-device = Schützen Sie Ihr gesamtes Gerät und alle Anwendungen. Verbergen Sie Ihren wahren Standort und schließen Sie bis zu 5 Geräte an. Jetzt abonnieren.
+navigation-protect-your-entire-device = Schütze dein gesamtes Gerät und alle Anwendungen. Verberge deinen wahren Standort und schließ bis zu 5 Geräte an. Jetzt abonnieren.
 navigation-join = Anmelden
 navigation-close-join-menu = Menüpunkt schließen
 navigation-sign-in = Anmelden
@@ -77,7 +77,7 @@ navigation-close-projects-menu = Menüpunkt schließen
 navigation-donate-your-voice-to = Spende deine Stimme und hilf uns, Spracherkennung für alle Menschen zugänglich zu machen.
 navigation-machine-learning = Maschinelles Lernen
 
-navigation-help-make-deep-learning = Helfen Sie dabei, Deep-Learning-Algorithmen für die Open-Source-Welt verfügbar zu machen.
+navigation-help-make-deep-learning = Hilf dabei, Deep-Learning-Algorithmen für die Open-Source-Welt verfügbar zu machen.
 
 navigation-developers = Entwickler
 navigation-close-developers-menu = Menüpunkt schließen
