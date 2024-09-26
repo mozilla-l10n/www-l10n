@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = 這是一個能夠感謝您幫助我們讓 { -
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = 若您想要知道 { -brand-name-nightly } 與測試社群有什麼新鮮事請，可閱讀我們的<a { $blog }>部落格</a>或是到 <a { $mastodon }> Mastodon</a> 或 <a { $twitter }>X</a> 上關注我們！
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = 若您想要知道 { -brand-name-nightly } 與測試社群有什麼新鮮事，最好的起點就是閱讀我們的<a href="{ $blog }">部落格</a>，或到 <a href="{ $mastodon }">Mastodon</a>、<a href="{ $twitter }">Twitter</a> 上關注我們！
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = 想了解您可以在 { -brand-name-nightly } 上面測試哪些其他 { -brand-name-firefox } 版本還沒有的平台功能嗎？請到偏好設定當中的 <a { $attrs }>Nightly 實驗</a>頁面搶先看。
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = 想了解您可以在 { -brand-name-nightly } 上面測試哪些其他 { -brand-name-firefox } 版本還沒有的平台功能嗎然後前往 <a { $attrs }>{ -brand-name-firefox-labs }</a> 偏好設定頁面。
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = 遇到錯誤了嗎？瀏覽器有未預期的行為？遇到 Web 相容性問題？請到 <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> 回報給我們，確保這些問題不會跟著正式發行版一起推出！（如果 bug 報告當中能加上 <em>{ -brand-name-nightly }-community</em> 這組 keyword 就更感謝了）
