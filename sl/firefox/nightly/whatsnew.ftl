@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Ob tej priložnosti bi se vam radi zahvalili z
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a { $blog }>blog</a> in nam sledite na <a { $mastodon }>Mastodonu</a> ali <a { $twitter }>X-u</a>.
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a href="{ $blog }">blog</a> in nam sledite na <a href="{ $mastodon }">Mastodonu</a> ali <a href="{ $twitter }">Twitterju</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>Poskusi Nightlyja</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Doživljate sesutja? Nepričakovane muhe v obnašanju? Težave z združljivostjo spletnih strani? Prijavite jih v <a href="{ $bugzilla }">{ -brand-name-bugzilla(sklon: "mestnik") }</a> in zagotovite, da se ne prebijejo do končne izdaje (še bolje, če svoja poročila o hroščih opremite s ključno besedo <em>{ -brand-name-nightly }-community</em>)!
