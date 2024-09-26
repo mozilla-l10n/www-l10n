@@ -24,6 +24,7 @@ nightly-whatsnew-if-you-want-to-v3 = Jika anda ingin mengetahui berita terkini d
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Ingin mengetahui ciri platform mana yang boleh anda uji di { -brand-name-nightly } dan belum dapat dilihat di saluran { -brand-name-firefox } lain? Mari lihat laman pilihan <a { $attrs }>Nightly Experiments</a>.
 
 # Variables:

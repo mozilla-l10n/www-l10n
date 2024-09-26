@@ -24,6 +24,7 @@ nightly-whatsnew-if-you-want-to-v3 = Du willst wissen, was rund um { -brand-name
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Du möchtest wissen, welche Plattformfunktionen du mit { -brand-name-nightly } testen kannst, die du in anderen { -brand-name-firefox }-Kanälen noch nicht sehen kannst? Dann sieh dir die <a { $attrs }>Nightly Experiments</a> Einstellungsseite an.
 
 # Variables:
