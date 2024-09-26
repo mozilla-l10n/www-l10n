@@ -8,21 +8,21 @@
 vpn-ip-address-what-is-an-ip-address = Was ist eine IP-Adresse?
 
 # HTML page description and intro
-vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } beantwortet alle Ihre Fragen zu IP-Adressen, von der Bedeutung einer IP-Adresse über ihre Funktionsweise bis hin zu der Frage, ob Sie sie verbergen sollten.
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } beantwortet alle deine Fragen zu IP-Adressen, von der Bedeutung einer IP-Adresse über ihre Funktionsweise bis hin zu der Frage, ob du sie verbergen solltest.
 
-vpn-ip-address-every-time-you = Jedes Mal, wenn Sie im Internet sind, spielen IP-Adressen eine wesentliche Rolle beim Informationsaustausch, damit Sie die von Ihnen angeforderten Seiten sehen können. Falls Sie nicht wissen, was eine IP-Adresse ist, beantworten wir hier die häufigsten Fragen.
-vpn-ip-address-your-ip-address = Ihre IP-Adresse ist eine eindeutige Kennung, ähnlich einer Postanschrift, die mit Ihren Online-Aktivitäten verbunden ist. Jedes Mal, wenn Sie das Internet nutzen (online einkaufen, E-Mails senden, TV streamen), fordern Sie den Zugang zu einem bestimmten Online-Ziel an und erhalten im Gegenzug Informationen. Wie funktioniert das? Nun, das IP steht für Internet Protocol, das die Standards und Regeln (ja, auch als Protokoll bekannt) für das Routing von Daten und die Verbindung mit dem Internet festlegt. Dieses Protokoll besteht aus einer Reihe von Regeln, die jede Partei befolgen muss, um einen bidirektionalen Datenfluss zu ermöglichen.
+vpn-ip-address-every-time-you = Jedes Mal, wenn du im Internet bist, spielen IP-Adressen eine wesentliche Rolle beim Informationsaustausch, damit du die von dir angeforderten Seiten sehen kannst. Falls du nicht weißt, was eine IP-Adresse ist, beantworten wir hier die häufigsten Fragen.
+vpn-ip-address-your-ip-address = Deine IP-Adresse ist eine eindeutige Kennung, ähnlich einer Postanschrift, die mit deinen Online-Aktivitäten verbunden ist. Jedes Mal, wenn du das Internet nutzt (online einkaufen, E-Mails senden, TV streamen), forderst du den Zugang zu einem bestimmten Online-Ziel an und erhalten im Gegenzug Informationen. Wie funktioniert das? Nun, das IP steht für Internet Protocol, das die Standards und Regeln (ja, auch als Protokoll bekannt) für das Routing von Daten und die Verbindung mit dem Internet festlegt. Dieses Protokoll besteht aus einer Reihe von Regeln, die jede Partei befolgen muss, um einen bidirektionalen Datenfluss zu ermöglichen.
 
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Ein Beispiel für eine IP-Adresse, die aus einer Folge von vier Zahlen besteht, die durch Punkte getrennt sind: 123.45.67.89
-vpn-ip-address-if-you-look-up-your = Wenn Sie Ihre IP-Adresse nachschlagen, sieht sie ungefähr so aus.
+vpn-ip-address-if-you-look-up-your = Wenn du deine IP-Adresse nachschlägst, sieht sie ungefähr so aus.
 vpn-ip-address-does-it-travel = Ist Ihre IP-Adresse standortungebunden?
 
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
-vpn-ip-address-no-your-ip-v2 = Nein. Ihre IP-Adresse ist nur mit einem Standort verknüpft, es sei denn, Sie verwenden ein VPN (dazu später mehr). Wenn Sie zu Hause sind und sich mit dem Internet verbinden, für das Sie bezahlen, verwenden Sie eine IP-Adresse. Wenn Sie jedoch morgens zu Hause Ihre E-Mails lesen, dann die Nachrichten in einem Café überfliegen, während Sie auf Ihren Kaffee warten, und dann von einem Büro aus arbeiten, haben Sie jeweils unterschiedliche IP-Adressen verwendet.
+vpn-ip-address-no-your-ip-v2 = Nein. Deine IP-Adresse ist nur mit einem Standort verknüpft, es sei denn, du verwendest ein VPN (dazu später mehr). Wenn du zu Hause bist und dich mit dem Internet verbindest, für das du bezahlst, verwendest du eine IP-Adresse. Wenn du jedoch morgens zu Hause deine E-Mails liest, dann die Nachrichten in einem Café überfliegst, während du auf deinen Kaffee wartest, und dann von einem Büro aus arbeitest, hast du jeweils unterschiedliche IP-Adressen verwendet.
 vpn-ip-address-does-your-ip = Ändert sich Ihre IP-Adresse?
-vpn-ip-address-yes-even-if = ja. Auch wenn Sie nur zu Hause das Internet nutzen, kann sich die IP-Adresse für Ihr Zuhause ändern. Sie können sich an Ihren Internetdienstanbieter (ISP) wenden, um dies zu ändern, aber selbst etwas Alltägliches wie das Neustarten Ihres Modems oder Routers aufgrund von Problemen mit der Internetverbindung kann zu einer neuen IP-Adresse führen.
+vpn-ip-address-yes-even-if = Ja. Auch wenn du nur zu Hause das Internet nutzen, kann sich die IP-Adresse für dein Zuhause ändern. Du kannst dich an deinen Internetdienstanbieter (ISP) wenden, um dies zu ändern, aber selbst etwas Alltägliches wie das Neustarten deines Modems oder Routers aufgrund von Problemen mit der Internetverbindung kann zu einer neuen IP-Adresse führen.
 vpn-ip-address-can-more-than = Können mehrere Geräte dieselbe IP-Adresse haben?
 vpn-ip-address-this-is-a = Dies ist eine etwas knifflige Frage – die Antwort ist sowohl ja als auch nein. Mehrere Geräte können dieselbe externe (öffentliche) IP-Adresse teilen, aber jedes Gerät hat seine eigene lokale (private) IP-Adresse. Zum Beispiel richtet Ihr ISP (Internetdienstanbieter) Ihr Zuhause mit einer externen IP-Adresse ein. Da Ihr Router die eigentliche Verbindung zum Internet herstellt, wird die IP-Adresse Ihrem Router zugewiesen. Ihr Router weist dann jedem Gerät, das gleichzeitig mit dem Internet verbunden ist, eine lokale IP-Adresse zu. Die externe IP-Adresse wird mit der Außenwelt geteilt. Ihre lokale IP-Adresse wird nicht außerhalb Ihres privaten Heimnetzwerks weitergegeben.
 vpn-ip-address-can-we-run = Haben wir noch genug IP-Adressen übrig?
@@ -32,7 +32,7 @@ vpn-ip-address-can-we-run = Haben wir noch genug IP-Adressen übrig?
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Als das Internet zum ersten Mal entworfen wurde, verwendete es Adressen der „Version 4“. Dies sind 32 Bit, was bedeutet, dass wir bis zu <a href="{ $sr }">4,2 Milliarden Adressen</a> haben könnten. Dies schien zu dieser Zeit ausreichend zu sein, ist aber in einer Welt, in der der durchschnittliche US-Haushalt über <a href="{ $variety }">11 verbundene Geräte</a> verfügt, bei weitem nicht genug.
 vpn-ip-address-we-now-have = Wir haben jetzt IP-Adressen der Version 6, die 128 Bit pro Adresse haben. Leider können Version 4 und Version 6 nicht direkt miteinander kommunizieren, sodass wir noch lange Adressen der Version 4 brauchen werden.
-vpn-ip-address-should-you-hide = Sollten Sie Ihre IP-Adresse verbergen?
+vpn-ip-address-should-you-hide = Solltest du deine IP-Adresse verbergen?
 
 # Variables
 #   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
