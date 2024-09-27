@@ -33,7 +33,7 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Інструменти
 footer-refresh-donate = Зробити внесок
 footer-refresh-visit-mozilla-corporations = Відвідайте сайт некомерційної материнської компанії <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> – <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = Частина цього вмісту ©1998–{ $current_year } належить окремим учасникам mozilla.org. Вміст доступний на умовах ліцензії <a rel="license" { $href }>{ -brand-name-creative-commons }.
+footer-refresh-portions-of-this-content = Частина цього вмісту ©1998–{ $current_year } належить окремим учасникам mozilla.org. Вміст доступний на умовах ліцензії <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Положення про приватність вебсайту
 footer-refresh-websites-cookies = Файли cookie
 footer-refresh-websites-legal = Правові положення
