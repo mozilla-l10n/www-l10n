@@ -24,15 +24,15 @@ vpn-ios-about-copy = Sie kennen uns vielleicht über unseren Webbrowser { -brand
 
 vpn-ios-privacy-headline = Verbindung mit einem Klick
 
-vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } ist sehr einfach zu bedienen. Tippen Sie auf eine Schaltfläche, um Ihre Verbindung zu verschlüsseln und die IP-Adresse auf Ihrem { -brand-name-iphone } oder { -brand-name-ipad } mithilfe des erweiterten { -brand-name-wireguard } ® -Protokolls zu verschleiern.
+vpn-ios-privacy-copy = { -brand-name-mozilla-vpn } ist sehr einfach zu bedienen. Tippe auf eine Schaltfläche, um deine Verbindung zu verschlüsseln und die IP-Adresse auf deinem { -brand-name-iphone } oder { -brand-name-ipad } mithilfe des erweiterten { -brand-name-wireguard }® -Protokolls zu verschleiern.u s
 
 # Variables:
 #   $servers (number) - number of available servers
-vpn-ios-servers-headline = Stellen Sie eine Verbindung zu  mehr als { $servers } Servern auf der ganzen Welt her
+vpn-ios-servers-headline = Stelle eine Verbindung zu mehr als { $servers } Servern auf der ganzen Welt her
 
 # Variables:
 #   $countries (number) - number of available countries
-vpn-ios-servers-copy = Einkaufen aus der Schweiz. Streamen aus Kanada. Surfen aus Australien. Mit { -brand-name-mozilla-vpn } können Sie den Standort Ihres { -brand-name-iphone } oder { -brand-name-ipad } auf eines der über { $countries } Länder festlegen und sich öffnen für eine Welt voller aufregender Inhalte.
+vpn-ios-servers-copy = Einkaufen aus der Schweiz. Streamen aus Kanada. Surfen aus Australien. Mit { -brand-name-mozilla-vpn } kannst du den Standort deines { -brand-name-iphone } oder { -brand-name-ipad } auf eines der über { $countries } Länder festlegen und dich öffnen für eine Welt voller aufregender Inhalte.
 
 
 # Variables:
@@ -41,10 +41,10 @@ vpn-ios-devices-headline = Zugriff für bis zu { $devices } Geräte
 
 # Variables:
 #   $devices (number) - number of available devices
-vpn-ios-devices-copy = Mit einem Abonnement erhalten Sie { -brand-name-mozilla-vpn } auf bis zu { $devices } verschiedenen Geräten, darunter { -brand-name-ios } für { -brand-name-iphone } und { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } und { -brand-name-linux }.
+vpn-ios-devices-copy = Mit einem Abonnement erhältst du { -brand-name-mozilla-vpn } auf bis zu { $devices } verschiedenen Geräten, darunter { -brand-name-ios } für { -brand-name-iphone } und { -brand-name-ipad }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } und { -brand-name-linux }.
 
 vpn-ios-speed-headline = Höchstgeschwindigkeiten. Unbegrenzte Daten.
-vpn-ios-speed-copy = Spielen Sie Online-Spiele, streamen Sie Ihre Lieblingssendungen und surfen Sie mit ultraschneller Geschwindigkeit durch das Internet. Machen Sie sich keine Sorgen um Ihre Bandbreite bei { -brand-name-mozilla-vpn } – sie ist unbegrenzt.
+vpn-ios-speed-copy = Spiele Online-Spiele, streame deine Lieblingssendungen und surfe mit ultraschneller Geschwindigkeit durch das Internet. Mach dir keine Sorgen um deine Bandbreite bei { -brand-name-mozilla-vpn } – sie ist unbegrenzt.
 
 vpn-ios-log-headline = Deine Daten bleiben privat. Punkt.
-vpn-ios-log-copy = Einige VPN-Anbieter protokollieren Ihre Aktivitäten auf ihren Servern. { -brand-name-mozilla-vpn } verfolgt Sie nicht im Internet – wir sind vehement dagegen. Es ist ein wichtiger Teil dessen, wofür wir als Unternehmen stehen.
+vpn-ios-log-copy = Einige VPN-Anbieter protokollieren deine Aktivitäten auf ihren Servern. { -brand-name-mozilla-vpn } verfolgt dich nicht im Internet – wir sind vehement dagegen. Es ist ein wichtiger Teil dessen, wofür wir als Unternehmen stehen.
