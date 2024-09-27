@@ -16,6 +16,21 @@ features-adblocker-an-ad-blocker-is-a-piece = 广告拦截器是一种可用于�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 这些广告可能是嘈杂的视频广告，并会以跟踪器、第三方Cookie 等型态在网络上的各个角落跟踪你。若要使用广告拦截器，可直接搜索您的浏览器所适用的附加组件。例如，<a href="{ $firefox }">{ -brand-name-firefox }</a>就有<a href="{ $addons }">这些经过审核的广告拦截附加组件</a>。看看有哪个符合您的需求。
 features-adblocker-find-the-right-ad-blocker = 寻找合适的广告拦截器
+features-adblocker-there-are-scores-of-content = 市面上的内容拦截器琳琅满目，{ -brand-name-mozilla } 从中推荐出数款精妙之选……
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = 在许多人心目中，<a { $attrs }>uBlock Origin</a> 是广告拦截界的典范之作，其优异的效果和效率为人称道。定制方面相当自由，但即使不做调整也照样好用。
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> 可抹除无处不在的广告。它能够拦截网页、社交媒体上的广告，就连弹出式窗口也不在话下（但如果只是想拦截弹出式窗口，那么 <a { $attrs2 }>Popup Blocker</a> 不容错过）。
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 也同样优秀。除了能拦截广告，还可提供更进一步的跟踪保护。
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = 无论在<a { $attrs1 }>桌面版</a>还是 <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> 上，这些扩展都一样好用。
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
