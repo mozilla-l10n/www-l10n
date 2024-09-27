@@ -4,13 +4,13 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
-vpn-mobile-get-a-vpn = Holen Sie sich ein VPN für mobile Geräte von { -brand-name-mozilla }
-vpn-mobile-looking-for-a = Sie suchen nach einem VPN, um Ihr mobiles Gerät zu schützen? { -brand-name-mozilla-vpn } wird von einer gemeinnützigen Organisation unterstützt. Erfahren Sie, wie ein VPN Sie schützen kann und warum Sie bei Datenschutz und Sicherheit auf { -brand-name-mozilla } setzen sollten.
+vpn-mobile-get-a-vpn = Hole dir ein VPN für mobile Geräte von { -brand-name-mozilla }
+vpn-mobile-looking-for-a = Du suchst nach einem VPN, um dein mobiles Gerät zu schützen? { -brand-name-mozilla-vpn } wird von einer gemeinnützigen Organisation unterstützt. Erfahre, wie ein VPN dich schützen kann und warum du bei Datenschutz und Sicherheit auf { -brand-name-mozilla } setzen solltest.
 vpn-mobile-vpn-for-mobile = VPN für mobile Geräte von { -brand-name-mozilla }
 vpn-mobile-in-todays = Wir leben in einer Welt, in der wir für Kommunikation, Entertainment und Arbeit stark von unseren Smartphones und mobilen Geräten abhängig sind. Ohne ein VPN können Ihre personenbezogenen Daten allerdings mehreren Sicherheits- und Datenschutzrisiken ausgesetzt sein.
 vpn-mobile-why-do-i = Warum brauche ich ein VPN für mobile Geräte?
 vpn-mobile-the-mozilla-vpn = Die { -brand-name-mozilla-vpn } App ist klein, sodass sie nicht zu viel Speicherplatz beansprucht und Ihr Smartphone nicht verlangsamt oder viel Akkukapazität benötigt.
-vpn-mobile-your-internet-v2 = Ihr Internetdienstanbieter (ISP) kann Ihre Bandbreite drosseln, wenn Sie beispielsweise Filme ansehen, Musik hören oder Inhalte streamen.
+vpn-mobile-your-internet-v2 = Dein Internetdienstanbieter (ISP) kann deine Bandbreite drosseln, wenn du beispielsweise Filme ansiehst, Musik hörst oder Inhalte streamst.
 vpn-mobile-your-isp-v2 = Ihr ISP kann Websites oder Services blockieren, die er nicht mag oder die mit seinen eigenen Angeboten konkurrieren.
-vpn-mobile-hackers-can-steal-v2 = Hacker können Ihre personenbezogenen Daten stehlen, wenn Sie in Cafés oder an Flughäfen öffentliche WLAN-Netzwerke nutzen.
-vpn-mobile-a-vpn-works = Ein VPN funktioniert über Ihr gesamtes Gerät hinweg, nicht nur für Ihren Browser. Das umfasst auch Ihre Apps. Im Gegensatz zu anderen Gratis-VPNs oder Proxy-Seiten, die eventuell für ihre Server zahlen, indem sie Sie ausspionieren und Ihre Daten verkaufen, speichert { -brand-name-mozilla } nicht, wo Sie sich aufhalten oder was Sie tun.
+vpn-mobile-hackers-can-steal-v2 = Hacker können deine personenbezogenen Daten stehlen, wenn du in Cafés oder an Flughäfen öffentliche WLAN-Netzwerke nutzt.
+vpn-mobile-a-vpn-works = Ein VPN funktioniert über dein gesamtes Gerät hinweg, nicht nur für deinen Browser. Das umfasst auch deine Apps. Im Gegensatz zu anderen Gratis-VPNs oder Proxy-Seiten, die eventuell für ihre Server zahlen, indem sie dich ausspionieren und deine Daten verkaufen, speichert { -brand-name-mozilla } nicht, wo du dich aufhältst oder was du tust.
