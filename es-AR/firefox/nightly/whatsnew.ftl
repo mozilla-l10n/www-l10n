@@ -23,7 +23,7 @@ nightly-whatsnew-if-you-want-to-v3 = Si querés saber qué está pasando alreded
 nightly-whatsnew-want-to-know-which-v2 = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no todavía no podés ver en los otros canales de { -brand-name-firefox }? Entonces podés mirar la página de preferencias <a { $attrs }>Experimentos en Nightly</a>
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no podés ver todavía en otros canales de { -brand-name-firefox }? Entonces échale un vistazo a la página de preferencias <a { $attrs }> { -brand-name-firefox-labs } </a>.
+nightly-whatsnew-want-to-know-which-v3 = ¿Querés saber qué características de la plataforma podés probar en { -brand-name-nightly } y no podés ver todavía en otros canales de { -brand-name-firefox }? Entonces mirá la página de preferencias de <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = ¿Se cuelga? ¿Comportamiento inesperado? ¿Regresiones en la compatibilidad web? ¡Nos encantaría que lo informés en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> para asegurarnos que no lleguen a la versión final (extra karma si agregás la palabra clave <em>{ -brand-name-nightly }-community</em> a tus informes de errores)!
