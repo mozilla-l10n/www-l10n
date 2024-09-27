@@ -60,7 +60,7 @@ vpn-shared-features-strong-servers = Starke Server in über { $countries } Länd
 
 # Variables:
 #   $devices (number) - number of available devices
-vpn-shared-features-connect = Sie können bis zu { $devices } Geräte verbinden
+vpn-shared-features-connect = Du kannst bis zu { $devices } Geräte verbinden
 
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 Tage Geld-zurück-Garantie
@@ -103,9 +103,9 @@ vpn-shared-pricing-save-percent = { $percent }% sparen
 # Variables:
 #   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
 # Asterisk indicates a footnote for the following string
-vpn-shared-save-percent-on = Sparen Sie { $percent } % auf { -brand-name-mozilla-vpn }*
+vpn-shared-save-percent-on = Spare { $percent } % auf { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-when-you-subscribe = *wenn Sie ein 12-Monatsabonnement abschließen
+vpn-shared-when-you-subscribe = *wenn du ein 12-Monatsabonnement abschließt
 
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-with-an-annual-subscription = * mit einem Jahresabonnement
@@ -135,7 +135,7 @@ vpn-shared-platfrom-why-choose = Warum { -brand-name-mozilla-vpn }?
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = Das { -brand-name-mozilla-vpn } läuft über ein globales Servernetzwerk, das von <a href="{ $policy }">{ -brand-name-mullvad }</a> betrieben wird und das <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®-Protokoll verwendet. { -brand-name-mullvad } setzt den Schutz Ihrer Daten an oberste Stelle und zeichnet Aktivitäten nicht auf.
 
-vpn-shared-platform-what-youll-get = Was Sie mit { -brand-name-mozilla-vpn } erhalten:
+vpn-shared-platform-what-youll-get = Was du mit { -brand-name-mozilla-vpn } erhältst:
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
@@ -150,7 +150,7 @@ vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = Mobile
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = Was ist eine IP-Adresse?
-vpn-subnav-when-to-use-a-vpn = Wann Sie ein VPN verwenden sollten
+vpn-subnav-when-to-use-a-vpn = Wann du ein VPN verwenden solltest
 vpn-subnav-vpn-vs-proxy = VPN vs. Proxy
 vpn-subnav-subscribe = { -brand-name-mozilla-vpn } abonnieren
 vpn-subnav-learn-about-vpns = Mehr zum Thema VPNs
@@ -159,11 +159,11 @@ vpn-subnav-features = Funktionen
 
 ## VPN + Relay bundle offer
 
-vpn-shared-increase-your-privacy = Schützen Sie mit { -brand-name-vpn } + { -brand-name-relay } Ihre Daten besser
+vpn-shared-increase-your-privacy = Schütze mit { -brand-name-vpn } + { -brand-name-relay } deine Daten besser
 
 # Variables:
 #   $url (string) - link to https://relay.firefox.com/premium/
-vpn-add-relay-to-protect = Fügen Sie { -brand-name-firefox-relay } zu Ihrem Abonnement hinzu, um Ihre E-Mail-Adresse und Telefonnummer zu schützen. <a href="{ $url }">Mehr erfahren</a>.
+vpn-add-relay-to-protect = Füge { -brand-name-firefox-relay } zu deinem Abonnement hinzu, um deine E-Mail-Adresse und Telefonnummer zu schützen. <a href="{ $url }">Mehr erfahren</a>.
 
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
@@ -171,7 +171,7 @@ vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firef
 
 vpn-shared-relay-email-masking = E-Mail-Maskierung
 vpn-shared-relay-phone-masking = Maskierung der Telefonnummer
-vpn-shared-get-vpn-plus-relay = Holen Sie sich { -brand-name-vpn } + { -brand-name-relay }
+vpn-shared-get-vpn-plus-relay = Hole dir { -brand-name-vpn } + { -brand-name-relay }
 vpn-shared-why-bundle = Warum ein Abo-Paket?
 
 # Variables:
