@@ -18,7 +18,7 @@ features-adblocker-these-ads-might-be-loud = وقد تكون هذه الإعلا
 
 features-adblocker-find-the-right-ad-blocker = ابحث عن حاجب الإعلانات المناسب لك
 
-features-adblocker-there-are-scores-of-content = هناك عدد هائل من أدوات حظر المُحتوى، ولكن إليك بعض الخيارات الرائعة التي تأتيك برعاية { -brand-name-mozilla }...
+features-adblocker-there-are-scores-of-content = هناك عدد هائل من أدوات حظر المُحتوى، ولكن إليك بعض الخيارات الرائعة التي تأتيك برعاية { -brand-name-mozilla }…
 
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes

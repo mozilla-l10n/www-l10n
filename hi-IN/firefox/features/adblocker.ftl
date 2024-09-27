@@ -18,7 +18,7 @@ features-adblocker-these-ads-might-be-loud = हो सकता है कि �
 
 features-adblocker-find-the-right-ad-blocker = अपने लिए सही ऐड ब्लॉकर पाएँ
 
-features-adblocker-there-are-scores-of-content = वैसे तो कंटेंट ब्लॉकर्स ढेर सारे हैं, मगर { -brand-name-mozilla } कुछ खास विकल्प आपके लिए पेश कर रहा है...
+features-adblocker-there-are-scores-of-content = वैसे तो कंटेंट ब्लॉकर्स ढेर सारे हैं, मगर { -brand-name-mozilla } कुछ खास विकल्प आपके लिए पेश कर रहा है…
 
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
