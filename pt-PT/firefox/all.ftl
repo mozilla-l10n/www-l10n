@@ -54,7 +54,7 @@ firefox-all-download-esr-version = Transferir { $esr_version }
 # Variables:
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
-firefox-all-esr-we-are-in-transition = Nós estamos no período de transição entre as versões principais do ESR { $esr_next_major } e { $esr_current_malor }.
+firefox-all-esr-we-are-in-transition = Nós estamos no período de transição entre as versões principais do ESR { $esr_next_major } e { $esr_current_major }.
 firefox-all-esr-when-there-is = Quando há uma atualização da versão principal, existe sempre uma sobreposição de algumas versões do { -brand-name-firefox-esr } para permitir que as pessoas que estão a utilizar a versão antiga se preparem para mudar para a nova.
 firefox-all-esr-if-you-choose = Se escolher transferir a versão ESR mais antiga, você será automaticamente atualizado para a nova quando o período de transição terminar.
 # Variables:
