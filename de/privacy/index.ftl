@@ -11,7 +11,7 @@ privacy-index-if-you-want-to-make-a-correction = Wenn du deine Daten korrigieren
 
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
-privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Informationen zu Zugriffsanforderungen für betroffene Personen finden Sie hier.</a> Wenn du jünger als 13 Jahre alt bist, möchten wir deine personenbezogenen Daten nicht haben und du darfst sie uns nicht geben. Bist du Elternteil und glaubst, dass dein Kind, das jünger ist als 13 Jahre, uns personenbezogene Daten gegeben hat? Dann melde dich bitte bei uns, damit wir die Informationen über dein Kind entfernen können.
+privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Informationen zu Zugriffsanforderungen für betroffene Personen findest du hier.</a> Wenn du jünger als 13 Jahre alt bist, möchten wir deine personenbezogenen Daten nicht haben und du darfst sie uns nicht geben. Bist du Elternteil und glaubst, dass dein Kind, das jünger ist als 13 Jahre, uns personenbezogene Daten gegeben hat? Dann melde dich bitte bei uns, damit wir die Informationen über dein Kind entfernen können.
 
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
