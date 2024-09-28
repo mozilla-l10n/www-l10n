@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }은 최첨단 개발자 도구와 CSS Grid 지원 및 프레임 워크 디버깅과 같은 최신 기능을 제공하는 초고속 브라우저입니다.
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = 새로운 웹 브라우저에 오신 것을 환영합니다. 최신 기능, 빠른 성능 및 열린 웹을 위해 구축해야하는 개발 도구를 살펴 보세요.
 firefox-developer-speak-up = 피드백
 firefox-developer-feedback-makes-us = 여러분의 피드백은 더 좋은 기능을 만듭니다. 브라우저 및 개발자 도구를 개선 할 수있는 방법을 알려주십시오.
@@ -55,9 +53,11 @@ firefox-developer-edit-and-manage = 웹 브라우저에서 모든 CSS 스타일 
 firefox-developer-learn-more-about-style = 스타일 편집기 자세히 보기
 firefox-developer-new-tools = 신규 개발 도구
 firefox-developer-inactive-css = 비활성 CSS
+firefox-developer-firefox-devtools-now-grays-out = 이제 { -brand-name-firefox-devtools }은 페이지에 영향을 주지 않는 CSS 선언을 회색으로 표시합니다. 정보 아이콘 위로 마우스를 가져가면 CSS가 적용되지 않은 이유와 문제 해결 방법에 대한 유용한 메시지가 표시됩니다.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = 새로운 { -brand-name-firefox-devtools }는 강력하고 유연하며 모든 것을 분석 가능합니다. 여러 브라우저를 지원하고 React 및 Redux로 작성된 동급 최고의 JavaScript 디버거를 포함합니다.
 firefox-developer-master-css-grid = 마스터 CSS 그리드
+firefox-developer-built-for-developers = 개발자를 위한 제품
 firefox-developer-master-innovative-features = 혁신 기능
 firefox-developer-want-to-be-on-the-cutting-edge = 신규 기능
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly }를 통해 매일 업데이트를 통해 최신 기능을 경험해 볼 수 있습니다.
@@ -72,8 +72,8 @@ firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }의 새 
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }은 자동적으로 { -brand-name-mozilla }에 사용 의견을 전송합니다.
 firefox-developer-download-the-firefox-browser = 개발자를 위한 { -brand-name-firefox } 브라우저 다운로드
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }는 더  빠르고, 유연하고, 강력해졌습니다.
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }에 오신 것을 환영합니다
 firefox-developer-made-for-developers = 개발자를 위한 브라우저
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = 축하합니다! 가장 최신 버전의 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용중입니다!
+firefox-developer-a-separate-profile = <strong>별도의 프로필과 경로를 사용해</strong> 정식 배포 버전 또는 { -brand-name-beta }{ -brand-name-firefox }와 함께 쉽게 실행할 수 있습니다.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
