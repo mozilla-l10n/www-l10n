@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = 광고 차단기는 광고를 막�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = 이러한 광고로는 시끄러운 비디오 광고, 사용자를 추적하는 광고, 제 3자 쿠기 및 그 외 다양한 종류가 있을 수 있습니다. 광고 차단기를 사용하기 위해서, 사용하고 계신 브라우저에서 사용 가능한 광고 차단 부가 기능을 검색할 수 있습니다. <a href="{ $firefox }">{ -brand-name-firefox }</a>를 예로 든다면, <a href="{ $addons }">검증된 광고 차단기 부가 기능 목록</a>이 존재합니다. 이 리스트에서(혹은 사용하고 계신 브라우저의 검증된 광고 차단기에서) 선택하여 필요한 기능을 알맞게 제공하는 부가 기능을 찾아보세요.
 features-adblocker-find-the-right-ad-blocker = 당신에게 딱 맞는 광고 차단기를 찾아보세요
+features-adblocker-there-are-scores-of-content = 세상에 다른 콘텐츠 차단기도 많지만 여기에 { -brand-name-mozilla }가 선별한 훌륭한 옵션을 공개합니다…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = 많은 사람이 광고 차단기의 가장 좋은 표준으로 여기는 <a { $attrs }>uBlock Origin</a>은 뛰어난 효과와 효율로 유명합니다. 고급 사용자 정의 기능을 제공하고 “설치 직후”에 훌륭하게 작동합니다.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a>는 어디서든 광고를 무력화합니다. 웹과 소셜 미디어, 성가신 팝업 광고까지 차단합니다(그러나 팝업 차단만 원한다면 <a { $attrs2 }>Popup Blocker</a>를 추천합니다).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 역시 좋은 선택지로, 광고를 차단할 뿐만 아니라 추적 방지 기능까지 추가로 제공합니다.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = 이 확장 기능들은 <a { $attrs1 }>데스크톱용 { -brand-name-firefox }</a>와 <a { $attrs2 }>Android</a> 에서 모두 잘 작동합니다.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a>라는 광고 차단기는 모든 광고를 차단합니다. 하지만 좋아하는 신문이나 잡지가 광고에 수익을 의존하고 있을 수 있으므로, 사용할 때는 주의해야 합니다. 너무 많은 사람들이 그들의 광고를 차단한다면 회사가 폐업할 수도 있습니다.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = 팝업 광고는 최악입니다. <a href="{ $url }">Popup Blocker</a>로 팝업을 차단하고 더이상 거슬리는 팝업에 신경쓰지 마세요.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = { -brand-name-chrome }, { -brand-name-safari } 및 { -brand-name-firefox }용으로 제공되는 가장 유명한 광고 차단기 중 하나는 <a href="{ $url }">AdBlock</a>입니다. { -brand-name-facebook }, { -brand-name-youtube } 그리고 { -brand-name-hulu } 등 여러 사이트에서 광고를 차단하는 데 사용할 수 있습니다.
@@ -31,7 +49,6 @@ features-adblocker-create-a-tracker-free = 콘텐츠 차단으로 추적기 없�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }에서는, <a href="{ $privacy }">개인정보</a> 혹은 <a href="{ $blocking }">콘텐츠 차단</a> 설정으로 광고를 제공하는 추적기를 더욱 효과적으로 제어할 수 있습니다.
 features-adblocker-choose-your-level-of-protection = 보호 수준을 선택하세요
-features-adblocker-to-start-click-on-the = 시작하려면 화면 오른쪽 위에 위치한 { -brand-name-firefox } 메뉴를 여세요. 메뉴 아이콘은 세 줄을 차곡차곡 쌓은 것처럼 생겼습니다. 드롭 다운 메뉴가 나타나면 콘텐츠 차단을 누르세요. 서로 다른 선택지가 포함된 파란색 팝업을 볼 수 있을 것입니다.
 features-adblocker-go-easy-with-standard = 표준 모드로 손쉽게 시작하세요
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +70,3 @@ features-adblocker-send-a-do-not-track-signal = Do Not Track 신호 보내기
 features-adblocker-if-you-dont-want-your = 여러분의 행동이 광고에 사용되는 것을 원하지 않는 경우 { -brand-name-firefox }의 <a href="{ $url }">추적 방지 기능</a> 옵션을 체크하여 웹사이트에 정중히 "감사하지만 사양하겠습니다" 편지를 보낼 수 있습니다. 참여는 선택이지만 참여하는 웹사이트는 즉시 여러분을 추적하는 것을 멈출 것입니다.
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-in-some-cases-an-ad-blocker = 경우에 따라 광고 차단기는 여러분의 브라우저를 빠르게 만드는데 도움이 될 수 있습니다. 광고는 로드될 때 웹사이트를 느리게 만듭니다. 동시에 다른 광고를 닫느라 너무 바빠서 원하는 것을 찾는데 시간이 더 걸립니다.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = 광고 차단에 대해 자세히 알아보려면 { -brand-name-firefox }와 다른 브라우저에서 이용할 수 있는 수백개의 광고 차단 확장 기능이 있습니다. { -brand-name-firefox }가 사용하는 광고 차단기를 사용해보고 싶다면 개인 정보를 최우선으로 생각하는 브라우저를 <a href="{ $url }">여기를 클릭하여 다운로드</a>하세요.
-features-adblocker-take-control-of-your-browser = 브라우저를 제어하세요.

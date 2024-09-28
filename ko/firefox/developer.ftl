@@ -75,5 +75,16 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }는 더  빠
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition }에 오신 것을 환영합니다
 firefox-developer-made-for-developers = 개발자를 위한 브라우저
 firefox-developer-a-separate-profile = <strong>별도의 프로필과 경로를 사용해</strong> 정식 배포 버전 또는 { -brand-name-beta }{ -brand-name-firefox }와 함께 쉽게 실행할 수 있습니다.
+firefox-developer-preferences-tailored = <strong>웹 개발자를 위한 맞춤</strong> 환경 설정: 브라우저와 원격 디버깅이 기본적으로 활성화되어 있으며, 어두운 테마와 개발자 도구 모음 버튼도 있습니다.
+firefox-developer-congrats-you-now-have-latest-v2 = 이제 { -brand-name-firefox-developer-edition } 최신 버전을 사용하고 있습니다.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = 새로운 기능을 살펴보려면 <a { $attrs }>출시 정보</a>(영문)를 확인하세요.
+firefox-developer-developer-tools-user = 개발자 도구 사용자 문서
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = 개발자에 의한, 개발자를 위한 리소스
+firefox-developer-mdn-references = { -brand-name-mdn } 참조
+firefox-developer-mdn-is-a = { -brand-name-mdn }은 CSS와 HTML, JavaScript, web API 등의 웹 플랫폼 기술을 문서화하는 오픈 소스 협업 프로젝트입니다.
+firefox-developer-mdn-curriculum = { -brand-name-mdn } 교육 과정
+firefox-developer-a-structured-guide = 성공적인 프론트엔드 개발자가 되기 위한 필수 기술과 실습에 대한 구조화된 가이드와 권장 학습 리소스입니다.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

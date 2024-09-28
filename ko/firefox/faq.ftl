@@ -7,11 +7,13 @@
 
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ
+whether-you-searched-privacy = 개인 정보를 보호하는 빠른 브라우저를 찾았든 찾지 않았든, 이 FAQ는 { -brand-name-firefox }에 관한 가장 긴급한 질문에 대한 답변을 제공합니다.
+whether-you-searched-independant = 빠른 브라우저를 찾았든 개인 정보를 보호하는 독립적인 기술을 찼았든, 이 FAQ는 { -brand-name-firefox }에 관한 가장 긴급한 질문에 대한 답변을 제공합니다.
 what-is-firefox = { -brand-name-firefox }가 무엇인가요?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser }는 주요 브라우저들 가운데 유일하게 사용자가 자신의 개인 정보를 보호하도록 도우며, 광고주들에게 개인 정보를 판매하지 않는 비영리 단체가 만드는 브라우저입니다. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> 및 <a href="{ $url2 }">기타 애플리케이션들</a>에 대해 더 알아보세요.
 how-do-i = 어떻게 { -brand-name-firefox-browser }를 받을 수 있나요?
@@ -44,7 +46,7 @@ protecting-your-privacy = 여러분의 개인 정보를 보호하는 것은 저�
 is-firefox-safe = { -brand-name-firefox }는 안전한가요?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox }는 사용하기에 안전할 뿐만 아니라, 사용자의 데이터와 개인 정보의 안전을 유지하는 데 기여합니다. { -brand-name-firefox-browser }는 알려진 외부 추적기와 소셜 미디어 추적기, 암호화폐 채굴기와 디지털 지문을 자동으로 차단하여 사용자의 데이터를 지킵니다. <a href="{ $url }">우리의 애플리케이션들이 개인 정보를 어떻게 다루는지 더 알아보세요.</a>
 related-questions-safe = 관련 질문: { -brand-name-firefox }는 개인 정보 보호에 좋은가요, { -brand-name-firefox }는 안전한가요, { -brand-name-firefox }는 개인 정보 보호에 더 좋합한가요
@@ -65,6 +67,9 @@ does-firefox-use = { -brand-name-firefox }는 { -brand-name-google }을 사용�
 
 firefoxs-default-search = { -brand-name-google }은 { -brand-name-firefox }의 기본 검색 엔진이며, 이를 통해 주소창에서 바로 인터넷을 검색할 수 있습니다. <a href="{ $url }">검색 엔진 설정과 기본 검색 엔진 변경에 대해 더 알아보세요.</a>
 does-firefox-have = { -brand-name-firefox }에 내장 VPN이 있나요?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox }에는 내장 VPN(virtual private network, 가상 사설망)이 없지만 { -brand-name-mozilla }가 { -brand-name-firefox-browser }와 함께 사용할 수 있으며 사용자의 Wi-Fi 연결과 IP 주소를 보호할 수 있는 <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>이라는 제품을 만듭니다.
 related-questions-ip = 관련 질문: { -brand-name-firefox }가 IP 주소를 숨시나요?
 who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 
@@ -73,3 +78,4 @@ who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }는 비영리 단체인 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>의 완전자회사 { -brand-name-mozilla-corporation }이 만들며, { -brand-name-mozilla } 선언문의 원칙을 따릅니다. <a href="{ $url2 }">여기</a>에서 { -brand-name-firefox }의 개발사에 대해 더 알아보세요.
+related-questions-who = 관련 질문: { -brand-name-firefox }는 누구 소유인가, 누가 { -brand-name-firefox-browser }를 소유하는가, { -brand-name-firefox }는 { -brand-name-google } 소유인가, { -brand-name-mozilla }{ -brand-name-firefox }는 { -brand-name-google } 소유인가
