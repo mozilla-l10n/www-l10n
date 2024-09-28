@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 

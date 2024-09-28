@@ -20,3 +20,13 @@ vpn-features-more-than =
        *[other] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
     }
 vpn-features-see-our-list = Дидани рӯйхати серверҳои мо.
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Пайваст кардани то { $devices } дастгоҳ
+       *[other] Пайваст кардани то { $devices } дастгоҳ
+    }
+vpn-features-secure = Бехатар
+vpn-features-flexible = Фасеҳ
+vpn-features-trustworthy = Боэътимод
