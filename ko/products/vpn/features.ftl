@@ -53,3 +53,19 @@ vpn-features-combine-mozilla-vpn-with-containers = { -brand-name-mozilla-vpn }�
 vpn-features-trustworthy = 신뢰할 수 있음
 vpn-features-money-back = 30 일 환불 보장
 vpn-features-plus-customer-support = 또한 24시간 고객 지원을 제공합니다.
+vpn-features-we-never-log = 네트워크 데이터를 기록하거나 추적, 공유하지 않습니다.
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = 간단히 말해, 개인 브라우징 정보를 수집하지 않습니다. 우리의 <a { $privacy }>읽기 쉬운 개인정보 보호정책</a>은 다음과 같습니다.
+vpn-features-built-transparently = 투명하게 오픈 소스 기반으로 만들어졌습니다.
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn }은 오픈 소스 코드로 만들어졌으며, 이는 모든 코드에 공개적으로 접근할 수 있음을 의미합니다. <a { $github }>GitHub 저장소</a>를 살펴보세요.
+vpn-features-reviewed-by-third = 제3자 보안 전문가가 검토함
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = 우리는 최고의 사이버 보안 감사 회사 인 Cure53의 감사를 받았습니다. <a { $report }>여기에서 보고서를 확인해 보세요</a>.
+vpn-features-people-over-profits = 이익보다 사람
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = 모든 사람들에게 열려있는 웹을 건강하게 지키기 위해 활동하는 비영리 단체인 <a { $mofo }>{ -brand-name-mozilla-foundation }</a>의 지원을 받고 있습니다.
