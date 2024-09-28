@@ -7,17 +7,13 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-ios } 용 { -brand-name-firefox }는 처음 여는 순간부터 빠르고 안전하며 사생활을 보호합니다.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = { -brand-name-iphone }과 { -brand-name-ipad }에서 자동 개인 정보 보호를 받으세요.
 mobile-ios-get-firefox-for = { -brand-name-ios }용 { -brand-name-firefox } 받기
 mobile-ios-send-a-download-link-to-your = 휴대전화로 다운로드 링크를 보냅니다.
 mobile-ios-scan-the-qr-code-to-get-started = QR 코드를 스캔하고 시작하세요
 mobile-ios-scan-alt-text = QR 코드를 스캔하여 { -brand-name-ios } 용 { -brand-name-firefox }를 받으세요.
 mobile-ios-make-firefox-your = { -brand-name-firefox }를 기본 브라우저로 설정하기
+mobile-ios-now-iphone-and = 이제 { -brand-name-iphone }과 { -brand-name-ipad } 사용자는 자신의 기본 브라우저를 선택할 수 있습니다. { -brand-name-safari }에 얽매이지 않아도 되며 선호하는 데스크톱 브라우저와 모바일 브라우저를 동기화하여 사용할 수 있습니다. 또한 { -brand-name-firefox }를 기본 브라우저로 설정하는 것은 독립적인 기술 기업을 지원한다는 뜻입니다. { -brand-name-firefox } 또한 비영리 단체가 지원하는 유일한 주요 브라우저입니다.
 mobile-ios-fast-private-secure = 빠른. 사적인. 안전한.
 mobile-ios-your-browsing-history = 브라우징 기록은 역사 속으로
 mobile-ios-if-you-want = 여러분이 원한다면 쉽게 온라인으로 이동하여 사생활 브라우징 모드로 검색할 수 있습니다. 사생활 브라우징 모드를 닫으면 여러분의 브라우징 기록와 모든 쿠키는 기기에서 자동으로 지워집니다.
