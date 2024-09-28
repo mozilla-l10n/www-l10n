@@ -34,3 +34,5 @@ vpn-download-get-on-google-play = Ба даст овардан аз дукони
 vpn-download-get-on-app-store = Ба даст овардан аз «{ -brand-name-app-store }»
 vpn-download-based-on-your = Дар асоси дастгоҳи ҷории шумо
 vpn-download-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
+vpn-download-privacy-you-can = Махфиятест, ки шумо метавонед ба он эътимод доред
+vpn-download-also-available = Инчунин, барои низомҳои зерин дастрас аст:
