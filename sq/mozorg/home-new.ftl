@@ -20,7 +20,7 @@ home-cta-get-pocket = Merrni { -brand-name-pocket }-in
 home-cta-get-relay = Merrni { -brand-name-relay }-në
 home-product-vpn-trust = Një VPN të cilës mund t’i zini besë
 home-cta-get-vpn = Merrni { -brand-name-mozilla-vpn }
-home-cta-get-monitor = Merrni { -brand-name-monitor }
+home-cta-get-monitor = Merrni { -brand-name-monitor }-in
 home-cta-get-fakespot = Merrni { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien e gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca në zemër të mënyrës se si funksionojnë këto sisteme komplekse.”
 # Politico is a brand name for a news organization

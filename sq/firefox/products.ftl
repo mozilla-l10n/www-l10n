@@ -33,7 +33,7 @@ firefox-products-check-for-breaches = Kontrolloni për cenime
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Mbroni adresën tuaj reale email, që të ndihmoni në mbajtjen nën kontroll të email-eve të marrë tuaj.
-firefox-products-get-relay = Merrni { -brand-name-firefox-relay }
+firefox-products-get-relay = Merrni { -brand-name-firefox-relay }-in
 
 ## VPN
 

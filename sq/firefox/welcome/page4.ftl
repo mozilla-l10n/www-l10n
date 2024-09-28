@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -11,7 +11,7 @@ welcome-page4-wallet-keys-phone-firefox = Portofolin. Çelësat. Telefonin. <str
 welcome-page4-privacy-every-screen-now = Tani, merrni privatësi në çdo ekran
 welcome-page4-take-privacy-with-you-on-every = Merreni privatësinë me vete në çdo pajisje — dhe lërini në bisht gjurmuesit e të dhënave.
 welcome-page4-privacy-on-by-default = Si parazgjedhje, me { -brand-name-firefox }-in e ri për { -brand-name-android }, privatësia juaj është e aktivizuar — dhe tani mund ta bëni { -brand-name-firefox }-in shfletuesin tuaj parazgjedhje në { -brand-name-ios } 14.
-welcome-page4-get-the-firefox-mobile = Merrni { -brand-name-firefox } për Celular
+welcome-page4-get-the-firefox-mobile = Merrni { -brand-name-firefox }-in për Celular
 welcome-page4-get-firefox-on-your-phone = Merreni { -brand-name-firefox }-in në Telefonin tuaj
 welcome-page4-send-the-download-link-right = Dërgojeni lidhjen e shkarkimit drejt e te telefoni ose email-i juaj.
 welcome-page4-download-firefox-for-your = Shkarkoni { -brand-name-firefox }-in për telefonin apo tabletin tuaj.
@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Shfletu
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Hiqini qafe gjurmuesit e të dhënave
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Mbrojtja e Thelluar Nga Gjurmimet <a href="{ $privacy }">bllokon mbi 2000 gjurmues</a> t’ju ndjekin nëpër internet.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Mos lini gjurmë
