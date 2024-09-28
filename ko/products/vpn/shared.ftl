@@ -145,6 +145,21 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn }은 아
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = 보도 자료에서
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla }의 VPN은 { -brand-name-firefox } 브라우저의 <a { $attrs }>멋진 개인정보 보호기능</a>과도 통합 될 수 있습니다.”
+vpn-press-unique-features-like-its-multi-account = “…다중 계정 컨테이너와 같은 고유한 기능을 사용하면 개인 정보에 대한 우려가 높은 사용자가 이 기능에 쉽게 접근할 수 있습니다.”
+vpn-press-mozilla-vpns-feature-list-has-grown = "{ -brand-name-mozilla-vpn }의 기능 목록은 출시 이후 상당히 증가했으며, 이제 이 서비스는 일부 영역에서 많은 전문 VPN을 능가합니다."
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn }은 현재 { $language } 언어로 제공되고 있지 않지만, 영어와 프랑스어, 독일어, 스페인어 및 <a { $href }>다른 30개 이상의 언어</a>로 사용할 수 있습니다.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = 더 많은 사람들에게 { -brand-name-mozilla-vpn }을 제공하고 싶으신가요? <a { $href }>지역화 자원봉사자가 되어 보세요</a>.
