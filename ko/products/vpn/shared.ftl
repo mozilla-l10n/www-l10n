@@ -104,19 +104,44 @@ vpn-shared-platfrom-why-choose = 왜 { -brand-name-mozilla-vpn }인가요?
 #   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn }은 <a href="{ $policy }">{ -brand-name-mullvad }</a> 서버로 구동되는 글로벌 네트워크 상에서 <a href="{ $wireguard }">{ -brand-name-wireguard }</a>® 프로토콜로 작동됩니다. { -brand-name-mullvad }는 개인 정보 보호를 최우선으로 하며 어떤 종류의 로그도 저장하지 않습니다.
+vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn }으로 얻을 수 있는 것:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-whats-a-vpn = VPN이 무엇인가요?
+vpn-subnav-faqs = 자주 묻는 질문
+vpn-subnav-get-help = 도움 받기
 vpn-subnav-platform-android = { -brand-name-android }
+vpn-subnav-platform-desktop = 데스크톱
 vpn-subnav-platform-ios = { -brand-name-ios }
 vpn-subnav-platform-linux = { -brand-name-linux }
 vpn-subnav-platform-mac = { -brand-name-mac-short }
 vpn-subnav-platform-mobile = 모바일
 vpn-subnav-platform-windows = { -brand-name-windows }
 vpn-subnav-whats-an-ip-address = IP 주소란 무엇인가요?
+vpn-subnav-when-to-use-a-vpn = VPN을 사용해야 하는 경우
+vpn-subnav-vpn-vs-proxy = VPN과 프록시
+vpn-subnav-subscribe = { -brand-name-mozilla-vpn } 구독하기
+vpn-subnav-learn-about-vpns = VPN에 대해 알아보기
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } 다운로드
+vpn-subnav-features = 기능
 
 ## VPN + Relay bundle offer
 
+vpn-shared-increase-your-privacy = { -brand-name-vpn } + { -brand-name-relay }로 개인 정보 보호 강화하기
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = 이메일과 전화 번호를 보호하려면 구독에 { -brand-name-firefox-relay }를 추가하세요. <a href="{ $url }">자세히 알아보기</a>
+# Variables:
+#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
+vpn-shared-add-firefox-relay = <span class="{ $class_name }">{ -brand-name-firefox-relay }</span> 추가
+vpn-shared-relay-email-masking = 이메일 마스킹
+vpn-shared-relay-phone-masking = 폰 마스킹
+vpn-shared-get-vpn-plus-relay = { -brand-name-vpn } + { -brand-name-relay } 받기
+vpn-shared-why-bundle = 왜 묶어야 하나요?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = { -brand-name-relay-premium } 연간 요금제 <span>{ $percent }%</span> 할인
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn }은 아직 해당 국가에서 사용할 수 없습니다.
 
 ## Press quotations
 
