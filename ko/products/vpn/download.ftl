@@ -35,3 +35,10 @@ vpn-download-get-on-app-store = { -brand-name-app-store }에서 받기
 vpn-download-based-on-your = 현재 기기 기반
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
 vpn-download-privacy-you-can = 신뢰할 수 있는 개인 정보 보호
+vpn-download-also-available = 또한 사용 가능:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = { -brand-name-firefox }를 만든 사람들로 부터, { -brand-name-mozilla-vpn }은 <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 프로토콜을 사용하여 온라인 활동을 암호화하고 위치를 숨깁니다.
+vpn-download-we-never-log = 네트워크 데이터를 기록, 추적 또는 공유하지 않습니다.
+vpn-download-previous-versions = 이전 { -brand-name-windows }와 { -brand-name-mac-short } 버전 다운로드
