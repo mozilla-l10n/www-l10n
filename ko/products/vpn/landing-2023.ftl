@@ -23,3 +23,25 @@ vpn-landing-hide-your-activity-from = 추적기와 악성코드로부터 내 활
 vpn-landing-helps-you-access-global = 글로벌 콘텐츠에 접근하는데 도움을 줍니다.
 vpn-landing-check-out-streaming-media = 여행중이나 집에 있을 때에도 다른 나라의 스트리밍 미디어와 웹사이트, 라이브 스트리밍을 이용할 수 있습니다.
 vpn-landing-features = 기능
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices = 최대 { $devices }개의 기기에 연결
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries = { $countries }개 이상 국가에 { $servers }개 이상의 서버
+vpn-landing-fast-network-speeds-even-while = 게임 중에도 빠른 네트워크 속도
+vpn-landing-no-logging-tracking-or-sharing = 로깅이나 추적, 네트워크 데이터 공유를 하지 않음
+vpn-landing-no-bandwidth-restrictions-or = 대역폭 제한이나 스로틀링 없음
+vpn-landing-extra-security-whole-device = 추가 보안: 전체 기기 보호, 멀티 홉 라우팅 등
+vpn-landing-see-all-features = 모든 기능 보기
+vpn-landing-fram-a-brand-you-can-trust = 신뢰할 수 있는 브랜드
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla }는 1998년부터 건강한 웹을 위해 싸워온 비영리 지원 인터넷 회사입니다.
+vpn-landing-one-subscription-for-all-your = 모든 기기를 위한 하나의 구독
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>{ -brand-name-mozilla } 제공.</strong> 1998년 이후로 개인 정보 권리를 위해 싸우고 있습니다.
+vpn-landing-learn-more-from-our-experts = 전문가로부터 더 알아보기
+vpn-landing-do-you-need-a-vpn-at-home = 집에 VPN이 필요하십니까? 5가지 이유를 살펴보세요.
+vpn-landing-what-is-an-ip-address = IP 주소란 무엇인가요?
+vpn-landing-how-your-location-is-tracked = 위치가 추적되는 방법과 공유를 제한하는 방법
+vpn-landing-see-more-resources = 자료 더보기
