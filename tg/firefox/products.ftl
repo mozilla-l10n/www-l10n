@@ -9,6 +9,7 @@ firefox-products-products = Маҳсулот
 
 ## Firefox
 
+firefox-products-firefox = { -brand-name-firefox }
 
 ## Focus
 
@@ -17,6 +18,7 @@ firefox-products-firefox-focus = { -brand-name-firefox-focus }
 ## Monitor
 
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-products-check-for-breaches = Дар бораи вайронкуниҳо маълумот гиред
 
 ## Relay
 
@@ -31,10 +33,12 @@ firefox-products-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба д�
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = Дастгирӣ кардани «{ -brand-name-mdn }»
 
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand-name-thunderbird }»
 
 ## Fakespot
 

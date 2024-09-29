@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
+### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
-nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-go-community = Ҷамъият ба пеш!
+page7-get-facebook-container = «{ -brand-name-facebook-container }»-ро ба даст оред

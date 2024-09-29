@@ -5,6 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
-firefox-privacy-hub-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
-firefox-privacy-hub-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-privacy-hub-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
+firefox-privacy-hub-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо

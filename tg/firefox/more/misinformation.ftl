@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
