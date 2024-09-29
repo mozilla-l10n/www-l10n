@@ -5,12 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+# Obsolete string
+firefox-home-meet-our-family-of = Бо оилаи маҳсулоти мо шинос шавед
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
 firefox-home-download-the-browser = Браузерро боргирӣ кунед
 firefox-home-download-the-app = Барномаро боргирӣ кунед
 firefox-home-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 firefox-home-desktop = Мизи корӣ
 firefox-home-browsers = Браузерҳо
+firefox-home-monitor = { -brand-name-monitor }
+firefox-home-lockwise = { -brand-name-lockwise }
+firefox-home-send = { -brand-name-send }
+firefox-home-mozilla = { -brand-name-mozilla }
+firefox-home-pocket = { -brand-name-pocket }
+firefox-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-home-relay = { -brand-name-relay }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

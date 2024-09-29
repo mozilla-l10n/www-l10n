@@ -14,4 +14,5 @@ firefox-enterprise-select-your-download = Боргирии худро интих
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-support = Дастгирӣ
 firefox-enterprise-msi-installers = Насбкунандаи MSI
+firefox-enterprise-release-notes = Қайдҳои нашр
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит

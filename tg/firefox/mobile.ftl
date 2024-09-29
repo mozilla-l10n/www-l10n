@@ -8,3 +8,4 @@
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-android-only = Танҳо барои «{ -brand-name-android }»
+firefox-mobile-make-android-your-own = Соҳиби «{ -brand-name-android }» шавед

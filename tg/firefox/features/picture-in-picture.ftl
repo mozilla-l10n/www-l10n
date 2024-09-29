@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
+features-pip-picture-in-picture = Расм-дар-расм
 features-pip-play-the-video = Пахш кардани видео
+features-pip-heres-how-it-works = Бинед, ки он чӣ тавр кор мекунад:

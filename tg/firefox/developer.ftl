@@ -34,4 +34,5 @@ firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
