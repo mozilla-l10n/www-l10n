@@ -28,5 +28,6 @@ vpn-features-connect-up-to =
        *[other] Пайваст кардани то { $devices } дастгоҳ
     }
 vpn-features-secure = Бехатар
+vpn-features-support-for-custom-dns = Дастгирӣ барои «DNS»-и фармоишӣ
 vpn-features-flexible = Фасеҳ
 vpn-features-trustworthy = Боэътимод

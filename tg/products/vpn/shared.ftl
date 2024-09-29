@@ -7,6 +7,10 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
+# Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-servers = { $servers } сервер дар { $countries }+ кишвар
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 

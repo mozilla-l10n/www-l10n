@@ -5,7 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-page-title = Нархнома - «{ -brand-name-mozilla-vpn }»
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
+# Pricing section
+vpn-pricing-included-in-subscription = Обуна зеринро дар бар мегирад:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Пайваст кардани то { $devices } дастгоҳ
+       *[other] Пайваст кардани то { $devices } дастгоҳ
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Пайдо кардани дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
+       *[other] Пайдо кардани дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
+    }
 vpn-pricing-annual = Солона
 vpn-pricing-monthly = Ҳармоҳа
 vpn-pricing-get-annual-subscription = Ба даст овардани обунаи солона
