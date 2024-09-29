@@ -27,6 +27,7 @@ vpn-landing-more-than-servers-in-countries =
         [one] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
        *[other] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
     }
+vpn-landing-no-logging-tracking-or-sharing = Маълумоти интернетӣ дар шабака сабт, пайгирӣ ё мубодила карда намешавад
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
 vpn-landing-one-subscription-for-all-your = Як обуна барои ҳамаи дастгоҳҳои шумо
 vpn-landing-learn-more-from-our-experts = Маълумоти бештар аз мутахассисони мо

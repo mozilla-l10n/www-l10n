@@ -8,10 +8,12 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 vpn-shared-waitlist-link = Ба рӯйхати интизорӣ ҳамроҳ шавед
+vpn-shared-sign-in-link = Аллакай соҳиби обуна ҳастед?
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers } сервер дар { $countries }+ кишвар
+vpn-shared-features-activity = Фаъолияти интернетии шумо дар шабака сабт карда намешавад
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
@@ -32,6 +34,28 @@ vpn-shared-privacy-notice = Огоҳномаи махфият
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-plan-12-month-v2 = Нақшаи 12-моҳа
+vpn-shared-pricing-plan-monthly-v2 = Нақшаи моҳона
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/ҳар моҳ</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/ҳар моҳ + андоз</span>
+vpn-shared-pricing-get-12-month-v2 = Нақшаи 12-моҳаро ба даст оред
+vpn-shared-pricing-get-monthly = Нақшаи моҳонаро ба даст оред
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent }% сарфа кунед
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { $percent }% дар «{ -brand-name-mozilla-vpn }» сарфа кунед*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *вакте ки шумо ба нақшаи 12-моҳа обуна мешавед
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *бо обунаи солона
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = Ҳамагӣ: { $amount }
