@@ -15,8 +15,8 @@ vpn-pricing-included-in-subscription = Обуна зеринро дар бар �
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [one] Пайваст кардани то { $devices } дастгоҳ
-       *[other] Пайваст кардани то { $devices } дастгоҳ
+        [one] Имкони пайваст то { $devices } дастгоҳ
+       *[other] Имкони пайваст то { $devices } дастгоҳ
     }
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -33,3 +33,4 @@ vpn-pricing-get-monthly-subscription = Ба даст овардани обуна
 vpn-pricing-vpn-not-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Саволҳои роиҷ (FAQ)
+vpn-pricing-what-information = «{ -brand-name-mozilla-vpn }» кадом маълумотро нигоҳ медорад?

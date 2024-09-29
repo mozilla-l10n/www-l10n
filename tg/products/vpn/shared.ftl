@@ -24,6 +24,9 @@ vpn-shared-features-protection = Муҳофизат барои то { $devices }
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Серверҳои боқувват дар { $countries }+ кишвар
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Имкони пайваст то { $devices } дастгоҳ
 vpn-shared-refund-policy = Сиёсати бозпардохт
 vpn-shared-privacy-notice = Огоҳномаи махфият
 

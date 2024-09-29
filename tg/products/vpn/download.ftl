@@ -9,7 +9,7 @@ vpn-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-
 vpn-download-page-description = «{ -brand-name-mozilla-vpn }»-ро барои низомҳои амалкунандаи «{ -brand-name-windows }», «{ -brand-name-mac }», «{ -brand-name-linux }», «{ -brand-name-android }» ва «{ -brand-name-ios }» боргирӣ намоед.
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = Шумо метавонед «{ -brand-name-mozilla-vpn }»-ро дар то { $devices } дастгоҳ бо як обунашавӣ боргирӣ намоед.
+vpn-download-sub-heading = Шумо метавонед «{ -brand-name-mozilla-vpn }»-ро то { $devices } дастгоҳ бо як обунашавӣ боргирӣ намоед.
 vpn-download-mozilla-vpn-offers = «{ -brand-name-mozilla-vpn }» барои ҳамаи низомҳои амалкунандаи асосӣ муҳофизати боэътимод ва бехатарро пешниҳод мекунад.
 vpn-download-not-available-in-country = Мутаассифона, «{ -brand-name-mozilla-vpn }» барои боргирӣ дар кишвари шумо дастнорас аст.
 vpn-download-button-copy = Боргирӣ кардан

@@ -16,8 +16,8 @@ vpn-landing-features = Хусусиятҳо
 #   $devices (number) - number of devices users can connect to VPN
 vpn-landing-connect-up-to-devices =
     { $devices ->
-        [one] Пайваст кардани то { $devices } дастгоҳ
-       *[other] Пайваст кардани то { $devices } дастгоҳ
+        [one] Имкони пайваст то { $devices } дастгоҳ
+       *[other] Имкони пайваст то { $devices } дастгоҳ
     }
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -29,4 +29,6 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
 vpn-landing-one-subscription-for-all-your = Як обуна барои ҳамаи дастгоҳҳои шумо
+vpn-landing-learn-more-from-our-experts = Маълумоти бештар аз мутахассисони мо
 vpn-landing-what-is-an-ip-address = Нишонии «IP» чӣ аст?
+vpn-landing-see-more-resources = Дидани манбаъҳои бештар

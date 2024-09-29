@@ -24,8 +24,8 @@ vpn-features-see-our-list = Дидани рӯйхати серверҳои мо.
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
     { $devices ->
-        [one] Пайваст кардани то { $devices } дастгоҳ
-       *[other] Пайваст кардани то { $devices } дастгоҳ
+        [one] Имкони пайваст то { $devices } дастгоҳ
+       *[other] Имкони пайваст то { $devices } дастгоҳ
     }
 vpn-features-secure = Бехатар
 vpn-features-encrypt-your-internet = Ҳамаи интиқолҳои интернетии худро рамзгузорӣ кунед
