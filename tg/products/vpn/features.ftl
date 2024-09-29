@@ -28,6 +28,9 @@ vpn-features-connect-up-to =
        *[other] Имкони пайваст то { $devices } дастгоҳ
     }
 vpn-features-supported-platforms = Дар низомҳои амалкунандаи «Windows», «macOS», «Android», «iOS» ва «Linux» дастгирӣ карда мешавад.
+vpn-features-no-bandwidth = Паҳнои пайвастшавӣ ё ҳаҷми интиқол маҳдуд карда намешавад
+vpn-features-including-no-data = Ягон маҳдудияти дастрасӣ ба маълумот ё маҳдудияти суръат вуҷуд надорад.
+vpn-features-fast-network = Шабакаҳои баландсуръат ҳатто ҳангоми бозиҳо
 vpn-features-secure = Бехатар
 vpn-features-encrypt-your-internet = Ҳамаи интиқолҳои интернетии худро рамзгузорӣ кунед
 vpn-features-support-for-custom-dns = Дастгирӣ барои «DNS»-и фармоишӣ

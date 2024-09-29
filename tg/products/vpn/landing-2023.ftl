@@ -29,6 +29,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-no-logging-tracking-or-sharing = Маълумоти интернетӣ дар шабака сабт, пайгирӣ ё мубодила карда намешавад
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
+vpn-landing-fram-a-brand-you-can-trust = Аз тамғаи молие, ки шумо ба он эътимод доред
 vpn-landing-one-subscription-for-all-your = Як обуна барои ҳамаи дастгоҳҳои шумо
 vpn-landing-learn-more-from-our-experts = Маълумоти бештар аз мутахассисони мо
 vpn-landing-what-is-an-ip-address = Нишонии «IP» чӣ аст?
