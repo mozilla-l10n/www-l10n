@@ -29,7 +29,7 @@ navigation-refresh-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 ## Products
 
 navigation-refresh-products = Produkty
-navigation-refresh-close-products-menu = Zavřít
+navigation-refresh-close-products-menu = Zavřít nabídku Produkty
 navigation-refresh-mozilla-monitor = { -brand-name-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
 navigation-refresh-mozilla-vpn = { -brand-name-vpn }
