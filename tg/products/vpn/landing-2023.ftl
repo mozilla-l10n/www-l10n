@@ -9,6 +9,7 @@
 vpn-landing-title = «{ -brand-name-mozilla-vpn }»: Тамоми дастгоҳи худро муҳофизат намоед
 vpn-landing-powerful-privacy-for-peace = Махфияти ҷиддӣ барои оромии рӯҳӣ
 vpn-landing-whats-a-vpn = «VPN» чӣ аст?
+vpn-landing-see-all-the-ways-mozilla-vpn = Ҳамаи роҳҳоеро аз назар гузаронед, ки «{ -brand-name-mozilla-vpn }» шуморо муҳофизат мекунад.
 vpn-landing-how-a-vpn-helps-you = Чӣ тавр «VPN» ба шумо кумак мекунад
 vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шабакаҳои ҷамъиятии «Wi-Fi» ба таври бехатар нигоҳ медорад
 vpn-landing-blocks-advertisers-from = Ҳар гуна ҳадафи рекламадеҳро манъ карда, шуморо ҳифз мекунад

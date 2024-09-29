@@ -9,11 +9,18 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 vpn-shared-waitlist-link = Ба рӯйхати интизорӣ ҳамроҳ шавед
 vpn-shared-sign-in-link = Аллакай соҳиби обуна ҳастед?
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = Кафолати 30-рӯза барои бозпардохти маблағи шумо
+# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
+vpn-shared-featured-in = Тавсияшуда дар
+vpn-shared-features-encrypt = Рамзгузорӣ дар сатҳи дастгоҳ
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-shared-features-servers = { $servers } сервер дар { $countries }+ кишвар
+vpn-shared-features-bandwidth = Бе ягон маҳдудият барои паҳнои пайвастшавӣ
 vpn-shared-features-activity = Фаъолияти интернетии шумо дар шабака сабт карда намешавад
+vpn-shared-features-activity-logs = Ягон фаъолияти интернетӣ ҳеҷ вақт сабт карда намешавад
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
@@ -24,11 +31,17 @@ vpn-shared-features-devices = Имкони пайваст то { $devices } да
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Муҳофизат барои то { $devices } дастгоҳ
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-shared-features-server-countries = Пайвастшавӣ ба зиёда аз { $servers } сервер дар зиёда аз { $countries } кишвар
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Серверҳои боқувват дар { $countries }+ кишвар
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Имкони пайваст то { $devices } дастгоҳ
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-shared-refund-policy = Сиёсати бозпардохт
 vpn-shared-privacy-notice = Огоҳномаи махфият
 
@@ -99,7 +112,10 @@ vpn-shared-increase-your-privacy = Сатҳи махфияти худро тав
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Илова кардани <span class="{ $class_name }">«{ -brand-name-firefox-relay }»</span>
+vpn-shared-relay-email-masking = Ниқобгузории нишонии почтаи электронӣ
+vpn-shared-relay-phone-masking = Ниқобгузории рақами телефон
 vpn-shared-get-vpn-plus-relay = Ба даст гирифтани «{ -brand-name-vpn }» + «{ -brand-name-relay }»
+vpn-shared-why-bundle = Чаро дар маҷмуъ?
 vpn-shared-mozilla-vpn-is-not-yet-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
 
 ## Press quotations

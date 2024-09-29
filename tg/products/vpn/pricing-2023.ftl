@@ -34,3 +34,4 @@ vpn-pricing-vpn-not-available = «{ -brand-name-mozilla-vpn }» ҳануз да�
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Саволҳои роиҷ (FAQ)
 vpn-pricing-what-information = «{ -brand-name-mozilla-vpn }» кадом маълумотро нигоҳ медорад?
+vpn-pricing-how-do-i-manage = Чӣ тавр ман обунаи худро идора мекунам ва нақшаи худро иваз мекунам?
