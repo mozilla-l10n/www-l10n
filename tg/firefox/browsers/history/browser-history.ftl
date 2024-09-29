@@ -8,3 +8,4 @@
 browser-history-the-history-of-web = Таърихи браузерҳои интернетӣ
 browser-history-the-browser-wars = Ҷангҳои браузерҳо
 browser-history-resources = Манбаъҳо
+browser-history-take-control-of = Браузери худро дар зери назорат гиред.

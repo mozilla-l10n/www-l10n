@@ -11,6 +11,7 @@ vpn-landing-powerful-privacy-for-peace = Махфияти ҷиддӣ барои 
 vpn-landing-whats-a-vpn = «VPN» чӣ аст?
 vpn-landing-how-a-vpn-helps-you = Чӣ тавр «VPN» ба шумо кумак мекунад
 vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шабакаҳои ҷамъиятии «Wi-Fi» ба таври бехатар нигоҳ медорад
+vpn-landing-blocks-advertisers-from = Ҳар гуна ҳадафи рекламадеҳро манъ карда, шуморо ҳифз мекунад
 vpn-landing-helps-you-access-global = Ба шумо барои пайдо кардани дастрасӣ ба маводҳои умумиҷаҳонӣ кумак мекунад
 vpn-landing-features = Хусусиятҳо
 # Variables:

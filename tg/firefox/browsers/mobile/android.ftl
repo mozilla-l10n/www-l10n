@@ -12,6 +12,7 @@ mobile-android-get-firefox-for = Ба даст овардани «{ -brand-name-
 mobile-android-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
 mobile-android-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
 mobile-android-fast-and-private = Тез ва хусусӣ
+mobile-android-pick-up-where = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, баргардонед
 mobile-android-search-from-your = Аз экрани асосии телефони худ ҷустуҷӯ кунед
 mobile-android-pin-videos-to = Видеоҳоро ба экрани худ васл кунед
 mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
