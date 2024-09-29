@@ -12,4 +12,5 @@ mobile-focus-scan-the-qr-code-to-get-started = Барои оғози кор бо
 mobile-focus-scan-alt-text = Барои гирифтани «{ -brand-name-firefox-focus }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-focus-delete-your-history = Нест кардани таърихи худ
 mobile-focus-tracking-protection = Муҳофизат аз пайгирӣ
+mobile-focus-see-it-all = Ҳамаашро тезтар тамошо кунед
 mobile-focus-made-by-mozilla = Аз ҷониби «{ -brand-name-mozilla }» сохта шудааст
