@@ -29,7 +29,9 @@ vpn-landing-more-than-servers-in-countries =
         [one] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
        *[other] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
     }
+vpn-landing-fast-network-speeds-even-while = Шабакаҳои баландсуръат ҳатто ҳангоми бозиҳо
 vpn-landing-no-logging-tracking-or-sharing = Маълумоти интернетӣ дар шабака сабт, пайгирӣ ё мубодила карда намешавад
+vpn-landing-no-bandwidth-restrictions-or = Паҳнои пайвастшавӣ ё ҳаҷми интиқол маҳдуд карда намешавад
 vpn-landing-extra-security-whole-device = Амнияти иловагӣ: муҳофизати комили дастгоҳ, масиргирии чандқабата ва ғайра
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
 vpn-landing-fram-a-brand-you-can-trust = Аз тамғаи молие, ки шумо ба он эътимод доред
