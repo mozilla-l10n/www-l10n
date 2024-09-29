@@ -34,6 +34,7 @@ vpn-landing-faq-manage-subscription-question-heading = Чӣ тавр ман об
 ## Invite page https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Ба рӯйхати интизорӣ ҳамроҳ шавед: «{ -brand-name-mozilla-vpn }»
+vpn-landing-invite-page-heading = Ба рӯйхати интизории «VPN» ҳамроҳ шавед
 vpn-landing-invite-email-label = Нишонии почтаи электронии шумо чист?
 vpn-landing-invite-required-label = Ҳатмӣ аст
 # Only localize "yourname". Do not change "@example.com".

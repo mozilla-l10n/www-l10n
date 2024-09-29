@@ -6,5 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 # Variables:
+#   $servers (number) - number of available servers
+#   $countries (number) - number of available countries
+vpn-android-servers-headline = { $servers }+ сервер дар зиёда аз { $countries } кишвар
+# Variables:
 #   $devices (number) - number of available devices
 vpn-android-devices-headline = Як обуна барои { $devices } дастгоҳи шумо

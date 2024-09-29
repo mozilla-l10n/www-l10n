@@ -116,6 +116,9 @@ vpn-shared-relay-email-masking = Ниқобгузории нишонии поч�
 vpn-shared-relay-phone-masking = Ниқобгузории рақами телефон
 vpn-shared-get-vpn-plus-relay = Ба даст гирифтани «{ -brand-name-vpn }» + «{ -brand-name-relay }»
 vpn-shared-why-bundle = Чаро дар маҷмуъ?
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-save-on-relay-premium = Дар нақшаи солонаи «{ -brand-name-relay-premium }» <span>{ $percent }% сарфа кунед</span>
 vpn-shared-mozilla-vpn-is-not-yet-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
 
 ## Press quotations
@@ -125,3 +128,6 @@ vpn-press-as-seen-in = Мувофиқи хабарҳои рӯз дар бора�
 
 ## Unsupported language notification
 
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Мехоҳед, ки «{ -brand-name-mozilla-vpn }»-ро ба одамони бештар дастрас кунед? <a { $href }>Тарҷумони ихтиёрӣ шавед</a>.

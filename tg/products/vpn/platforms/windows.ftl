@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
 vpn-windows-devices-headline = Як обуна барои ҳамаи дастгоҳҳои шумо
+vpn-windows-speed-headline = Бе ягон маҳдудият барои паҳнои пайвастшавӣ
