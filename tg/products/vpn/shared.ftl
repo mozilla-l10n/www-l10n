@@ -7,6 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
+vpn-shared-waitlist-link = Ба рӯйхати интизорӣ ҳамроҳ шавед
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
@@ -17,6 +18,13 @@ vpn-shared-features-access-countries = Дастрасӣ ба { $servers } сер
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Имкони пайваст то { $devices } дастгоҳ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Муҳофизат барои то { $devices } дастгоҳ
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Серверҳои боқувват дар { $countries }+ кишвар
+vpn-shared-refund-policy = Сиёсати бозпардохт
 vpn-shared-privacy-notice = Огоҳномаи махфият
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).

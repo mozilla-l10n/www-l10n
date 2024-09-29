@@ -5,8 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = «{ -brand-name-mozilla-vpn }»: Тамоми дастгоҳи худро муҳофизат намоед
 vpn-landing-whats-a-vpn = «VPN» чӣ аст?
 vpn-landing-how-a-vpn-helps-you = Чӣ тавр «VPN» ба шумо кумак мекунад
+vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шабакаҳои ҷамъиятии «Wi-Fi» ба таври бехатар нигоҳ медорад
+vpn-landing-helps-you-access-global = Ба шумо барои пайдо кардани дастрасӣ ба маводҳои умумиҷаҳонӣ кумак мекунад
 vpn-landing-features = Хусусиятҳо
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -24,4 +28,5 @@ vpn-landing-more-than-servers-in-countries =
        *[other] Зиёда аз { $servers } сервер дар { $countries }+ кишвар
     }
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
+vpn-landing-one-subscription-for-all-your = Як обуна барои ҳамаи дастгоҳҳои шумо
 vpn-landing-what-is-an-ip-address = Нишонии «IP» чӣ аст?

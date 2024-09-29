@@ -7,6 +7,8 @@
 
 vpn-pricing-page-title = Нархнома - «{ -brand-name-mozilla-vpn }»
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+vpn-pricing-one-subscription = Як обуна барои ҳамаи дастгоҳҳои шумо
 # Pricing section
 vpn-pricing-included-in-subscription = Обуна зеринро дар бар мегирад:
 # Variables:
@@ -29,3 +31,5 @@ vpn-pricing-monthly = Ҳармоҳа
 vpn-pricing-get-annual-subscription = Ба даст овардани обунаи солона
 vpn-pricing-get-monthly-subscription = Ба даст овардани обунаи ҳармоҳа
 vpn-pricing-vpn-not-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = Саволҳои роиҷ (FAQ)

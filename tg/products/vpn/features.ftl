@@ -32,3 +32,4 @@ vpn-features-encrypt-your-internet = Ҳамаи интиқолҳои интер�
 vpn-features-support-for-custom-dns = Дастгирӣ барои «DNS»-и фармоишӣ
 vpn-features-flexible = Фасеҳ
 vpn-features-trustworthy = Боэътимод
+vpn-features-people-over-profits = Одамон нисбат ба фоидаи молӣ афзалият доранд
