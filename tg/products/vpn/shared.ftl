@@ -34,6 +34,7 @@ vpn-shared-privacy-notice = Огоҳномаи махфият
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = Тавсияшуда
 vpn-shared-pricing-plan-12-month-v2 = Нақшаи 12-моҳа
 vpn-shared-pricing-plan-monthly-v2 = Нақшаи моҳона
 # Variables:

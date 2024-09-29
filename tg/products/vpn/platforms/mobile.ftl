@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-about-headline = Дар бораи «{ -brand-name-mozilla }»
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
+vpn-mobile-log-headline = Махфияти шумо ҳамеша дар ҷойи аввал мебошад

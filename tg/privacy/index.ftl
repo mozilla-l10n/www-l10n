@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/
 
+# HTML page title
+privacy-index-mozilla-privacy = Махфияти «{ -brand-name-mozilla }»
 privacy-index-contact-mozilla = Бо «{ -brand-name-mozilla }» дар тамос шавед
 privacy-index-data-privacy-principles = Принсипҳои махфияти маълумот
 privacy-index-transparency-report = Гузориши дар бораи шаффофӣ

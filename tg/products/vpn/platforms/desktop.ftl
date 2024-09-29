@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
+# Meta strings
+vpn-desktop-page-title = «{ -brand-name-mozilla-vpn }» барои мизҳои корӣ (Компютерҳои шахсӣ ва ноутбукҳо)
+vpn-desktop-about-headline = Дар бораи «{ -brand-name-mozilla }»
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
+vpn-desktop-log-headline = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
