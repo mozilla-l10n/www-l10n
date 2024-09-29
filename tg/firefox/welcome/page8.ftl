@@ -9,3 +9,4 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-add-facebook-container = Илова кардани «{ -brand-name-facebook-container }»
+welcome-page8-why-am-i = Чаро ман инро дида истодаам?

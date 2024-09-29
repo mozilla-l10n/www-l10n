@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
+legal-legal = Маълумоти ҳуқуқӣ
 legal-get-involved = Ҳамроҳ шавед
+legal-back-to-legal = Бозгашт ба «Маълумоти ҳуқуқӣ»
 legal-terms = Шартҳо
 legal-our-websites = Сомонаҳои мо
 legal-firefox-services = Хидматҳои «{ -brand-name-firefox }»
@@ -26,6 +28,4 @@ legal-firefox-relay-terms = Шартҳои хизматрасонии «{ -brand
 legal-mozilla-vpn-terms = Шартҳои хизматрасонии «{ -brand-name-mozilla-vpn }»
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Шартҳои хизматрасонии «{ -brand-name-mdn-plus }»
-legal-hubs = { -brand-name-mozilla-hubs }
-legal-hubs-terms = Шартҳои хизматрасонии «{ -brand-name-mozilla-hubs }»
 legal-mozilla-subscription-services = Хидматҳои обунашавии «{ -brand-name-mozilla }»
