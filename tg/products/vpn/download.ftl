@@ -41,3 +41,4 @@ vpn-download-also-available = Инчунин, барои низомҳои зер
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Созандаи браузери «{ -brand-name-firefox }» имкони «{ -brand-name-mozilla-vpn }»-ро пешниҳод мекунад, ки барои рамзгузории фаъолияти шумо дар онлайн ва пинҳон кардани ҷойгиршавии шумо аз протоколи механизми <a href="{ $url }" { $attrs }>«{ -brand-name-wireguard }»</a>® истифода мебарад.
 vpn-download-we-never-log = Мо ҳеҷ вақт маълумоти интернетии шуморо дар шабака сабт, пайгирӣ ё мубодила намекунем.
+vpn-download-previous-versions = Боргирӣ кардани версияҳои қаблӣ барои «{ -brand-name-windows }» ва «{ -brand-name-mac-short }»
