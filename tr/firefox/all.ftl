@@ -64,6 +64,7 @@ firefox-all-count-on-stability-and = { -brand-name-firefox } tarayıcısının k
 firefox-all-windows-installers-for = Kurumsal BT departmanları için { -brand-name-firefox-browser }nın yapılandırmasını, dağıtımını ve yönetimini basitleştiren Windows yükleyicileri.
 firefox-all-arm64-installers = ARM64/AArch64 yükleyiciler
 firefox-all-arm64-installers-optimized-v2 = Windows ve Linux bilgisayarlar için optimize edilmiş ARM64/AArch64 yükleyiciler.
+firefox-all-testflight = iOS için { -brand-name-firefox }’u TestFlight ile test etmek için kaydolun
 firefox-all-product-send-link = İndirme bağlantısını telefonunuza gönderin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

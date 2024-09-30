@@ -14,10 +14,13 @@ newsletter-form-select-country-or-region = Ülkenizi seçin
 newsletter-form-select-language = Dil seçin
 newsletter-form-your-email-here = E-POSTA ADRESİNİZ
 newsletter-form-get-firefox-news = { -brand-name-firefox } haberlerini alın
+newsletter-form-join-the-community = Topluluğa katılın
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla }’nın bilgilerimi <a href="{ $url }">bu Gizlilik Bildirimi’nde</a> açıklandığı şekilde kullanmasını kabul ediyorum.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = { -brand-name-mozilla } ile ilgili olmayan hiçbir şey göndermiyoruz.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = { -brand-name-firefox } ile ilgili olmayan hiçbir şey göndermiyoruz.
 newsletter-form-if-you-havent-previously = Daha önce bir { -brand-name-mozilla } bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Sen
