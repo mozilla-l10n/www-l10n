@@ -17,9 +17,9 @@ mission-we-believe-this-act-of-human-collaboration = Wir glauben, dass dieser Ak
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn-v2 = Lesen Sie das <a href="{ $url }">{ -brand-name-mozilla }-Manifest</a>, um mehr über die Werte und Prinzipien zu erfahren, die uns bei unserer Mission leiten.
+mission-read-the-mozilla-manifesto-to-learn-v2 = Lies das <a href="{ $url }">{ -brand-name-mozilla }-Manifest</a>, um mehr über die Werte und Prinzipien zu erfahren, die uns bei unserer Mission leiten.
 
-mission-watch-the-video-above-to-learn-more = Sehen Sie sich das obige Video an, um mehr darüber zu erfahren, wer wir sind, wo wir herkommen und wie wir das Internet für Sie verbessern.
+mission-watch-the-video-above-to-learn-more = Sieh dir das obige Video an, um mehr darüber zu erfahren, wer wir sind, wo wir herkommen und wie wir das Internet für dich verbessern.
 
 mission-get-involved = Mitmachen
 
