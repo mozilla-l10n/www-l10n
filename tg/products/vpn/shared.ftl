@@ -22,9 +22,6 @@ vpn-shared-features-bandwidth = Бе ягон маҳдудият барои па
 vpn-shared-features-activity = Фаъолияти интернетии шумо дар шабака сабт карда намешавад
 vpn-shared-features-activity-logs = Ягон фаъолияти интернетӣ ҳеҷ вақт сабт карда намешавад
 # Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
-# Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-shared-features-devices = Имкони пайваст то { $devices } дастгоҳ
 # Variables:
