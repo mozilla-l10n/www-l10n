@@ -23,7 +23,7 @@ home-cta-get-pocket = Hol dir jetzt { -brand-name-pocket }
 
 home-product-relay-hide-your = Verberge deine Telefonnummer und E-Mail-Adresse vor Spammern
 home-cta-get-relay = Hol dir jetzt { -brand-name-relay }
-home-product-vpn-trust = Ein VPN, dem Sie vertrauen können
+home-product-vpn-trust = Ein VPN, dem du vertrauen kannst
 home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
 
 home-product-monitor-protect-your = Schütze deine privaten Daten vor Datenbrokers
@@ -47,11 +47,11 @@ home-so-what-is-mozilla = Was genau ist eigentlich { -brand-name-mozilla }?
 #   $mozai - link to https://mozilla.ai/
 home-at-its-core = Im Kern ist { -brand-name-mozilla } eine von der { -brand-name-mozilla-foundation } geleitete aktivistische Organisation, die durch eine Reihe verschiedener Projekte Veränderungen in der Welt bewirken will. Dazu gehören { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> und <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Was zeichnet uns aus? Uns treibt eine Mission an, und das bedeutet, dass wir die Freiheit besitzen, sämtliche unserer Entscheidungen basierend auf dem zu treffen, was für das Internet und alle, die sich online bewegen, das Beste ist, statt uns nach den Forderungen von Shareholdern richten zu müssen. Wir haben nämlich keine Shareholder.
 
-home-learn-about-mofo = Erfahren Sie mehr über die { -brand-name-mozilla-foundation }
+home-learn-about-mofo = Erfahre mehr über die { -brand-name-mozilla-foundation }
 
-home-join-the-fight = Kämpfen Sie mit uns für ein gesundes Internet
-home-your-voice-your-code = Ihre Stimme. Ihr Code. Ihre Ideen. Es gibt wortwörtlich Tausende Wege, wie Sie etwas zu { -brand-name-mozilla } beitragen können.
-home-volunteer-with-mozilla = Machen Sie bei { -brand-name-mozilla } mit
+home-join-the-fight = Kämpfe mit uns für ein gesundes Internet
+home-your-voice-your-code = Deine Stimme. Dein Code. Deine Ideen. Es gibt wortwörtlich Tausende Wege, wie du etwas zu { -brand-name-mozilla } beitragen kannst.
+home-volunteer-with-mozilla = Mach bei { -brand-name-mozilla } mit
 
 home-that-one-time = Als wir einmal unseren Quellcode offenlegten …
 home-the-mozilla-project = Das Projekt { -brand-name-mozilla } wurde 1998 in San Francisco, USA, gegründet, als der { -brand-name-netscape }-Browser die radikale Entscheidung traf, seinen Programmiercode an die Öffentlichkeit zu geben, damit diese darauf aufbauen und ihn verbessern konnte. Zu der Zeit hatte ein Unternehmen ein virtuelles Monopol darauf, wie die Menschen das Internet erlebten.
@@ -63,7 +63,7 @@ home-learn-more-about-mozilla = Weitere Informationen zu { -brand-name-mozilla }
 home-featured-product = Vorgestelltes Produkt
 
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Verwischen Sie mit <span>{ -brand-name-mozilla-vpn }</span> Ihren Standort und Ihre Aktivitäten
+home-feature-blur-your-location = Verwisch mit <span>{ -brand-name-mozilla-vpn }</span> deinen Standort und deine Aktivitäten
 
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Stärke unsere Bewegung
