@@ -36,6 +36,7 @@ vpn-features-fast-network = Шабакаҳои баландсуръат ҳатт
 vpn-features-mozilla-vpn-uses-wireguard = «{ -brand-name-mozilla-vpn }» аз <a { $wireguard }>«Wireguard»</a>™, яке аз протоколҳои фаъолтарини «VPN», истифода мебарад.
 vpn-features-secure = Бехатар
 vpn-features-block-ads = Ҳар гуна ҳадафи рекламадеҳро манъ карда, худро ҳифз кунед
+vpn-features-automatically-block-ads = «{ -brand-name-mozilla-vpn }» ба шумо барои ба таври худкор манъ кардани рекламаҳо ва васоити пайгирии рекламавӣ кумак мекунад, то онҳо фаъолияти шуморо дар Интернет назорат накунанд.
 vpn-features-encrypt-your-internet = Ҳамаи интиқолҳои интернетии худро рамзгузорӣ кунед
 vpn-features-vpn-protects-all-apps = «{ -brand-name-mozilla-vpn }» ҳамаи барномаҳоро, на танҳо браузер, дар дастгоҳи шумо муҳофизат мекунад.
 vpn-features-stronger-malware = Муҳофизати боэътимод аз нармафзори зараровар
