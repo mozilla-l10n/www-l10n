@@ -18,10 +18,10 @@ about-this-site-this-website = Die Website www.mozilla.org ist seit über zwei J
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today = Heute ist das die Seite, auf der Leute <a href="{ $firefox }">{ -brand-name-firefox }</a> herunterladen, <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> ausprobieren und mehr <a href="{ $mozilla }">über { -brand-name-mozilla }</a> erfahren. Sie können unterwegs auch ein paar <a href="{ $book }">Überraschungen</a> finden.
+about-this-site-today = Heute ist das die Seite, auf der Leute <a href="{ $firefox }">{ -brand-name-firefox }</a> herunterladen, <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> ausprobieren und mehr <a href="{ $mozilla }">über { -brand-name-mozilla }</a> erfahren. Du kannst unterwegs auch ein paar <a href="{ $book }">Überraschungen</a> finden.
 
 about-this-site-like-many = Wie viele unserer Produkte ist auch diese Website Open-Source:
-about-this-site-view-source = Sehen Sie sich den Quelltext auf { -brand-name-github } an
+about-this-site-view-source = Sieh dir den Quelltext auf { -brand-name-github } an
 about-this-site-report-a-bug = Einen Fehler melden
 about-this-site-contribute-to-code = Etwas zur Codebasis beitragen
 about-this-site-contribute-to-l10n = Zu den Übersetzungen beitragen
@@ -44,7 +44,7 @@ about-this-site-fluent = { -brand-name-mozilla }s <a href="{ $fluent }">Fluent</
 
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
-about-this-site-many-other = Viele andere kleinere Bibliotheken und Frameworks, die Sie in unserem <a href="{ $github }">{ -brand-name-github }-Repository</a> finden können.
+about-this-site-many-other = Viele andere kleinere Bibliotheken und Frameworks, die du in unserem <a href="{ $github }">{ -brand-name-github }-Repository</a> finden kannst.
 
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
