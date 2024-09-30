@@ -89,9 +89,9 @@ history-the-mozilla-community-together = Die { -brand-name-mozilla }-Gemeinschaf
 
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
-history-if-you-want-to-join-us-in = Wenn Sie sich unserer Mission anschließen möchten, <a href="{ $contribute }">machen Sie bitte mit bei uns</a>.
+history-if-you-want-to-join-us-in = Wenn du dich unserer Mission anschließen möchtest, <a href="{ $contribute }">mach bitte mit bei uns</a>.
 
-history-for-more-information-about = Weitere Informationen zu { -brand-name-mozilla }s Geschichte finden Sie im Folgenden:
+history-for-more-information-about = Weitere Informationen zu { -brand-name-mozilla }s Geschichte findest du im Folgenden:
 history-mozilla-bookmarks = Weitere Dokumente zu { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Zeitleiste des { -brand-name-mozilla }-Projekts
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital Memory Bank
