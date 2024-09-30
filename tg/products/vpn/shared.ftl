@@ -44,9 +44,14 @@ vpn-shared-features-connect = Имкони пайваст то { $devices } да
 vpn-shared-features-guarantee = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-shared-refund-policy = Сиёсати бозпардохт
 vpn-shared-privacy-notice = Огоҳномаи махфият
+vpn-shared-terms-conditions = Шартҳои истифодабарӣ
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-variable-heading-v2 = Нақшаи обунаеро, ки ба ниёзҳои шумо мувофиқат мекунад, интихоб намоед
+vpn-shared-one-subscription-heading = Як обуна барои ҳамаи дастгоҳҳои шумо
+vpn-shared-choose-a-plan-sub-heading = Нақшаеро, ки ба ниёзҳои шумо мувофиқат мекунад, интихоб намоед
+vpn-shared-pricing-variable-sub-heading = Ҳамаи нақшаҳои мо зеринро дар бар мегиранд:
 vpn-shared-pricing-recommended-offer = Тавсияшуда
 vpn-shared-pricing-plan-12-month-v2 = Нақшаи 12-моҳа
 vpn-shared-pricing-plan-monthly-v2 = Нақшаи моҳона
