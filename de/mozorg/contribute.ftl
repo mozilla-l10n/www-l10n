@@ -8,8 +8,8 @@
 
 contribute-page-title = Möglichkeiten für Freiwillige bei { -brand-name-mozilla }
 contribute-page-heading = Ihre Talente werden für ein besseres Internet benötigt
-contribute-page-intro = { -brand-name-mozilla } ist eine gemeinnützige Organisation, die sich dafür einsetzt, dass das Internet für alle offen und einladend ist. Und wir brauchen Ihre Hilfe. Indem Sie unserer Gemeinschaft beitreten, können Sie dabei helfen, Innovationen voranzutreiben, die Rechenschaftspflicht und das Vertrauen zu stärken und das Internet zu einem besseren Ort für alle zu machen.
-contribute-how-heading = Wie Sie mithelfen können…
+contribute-page-intro = { -brand-name-mozilla } ist eine gemeinnützige Organisation, die sich dafür einsetzt, dass das Internet für alle offen und einladend ist. Und wir brauchen deine Hilfe. Indem du unserer Gemeinschaft beitrittst, kannst du dabei helfen, Innovationen voranzutreiben, die Rechenschaftspflicht und das Vertrauen zu stärken und das Internet zu einem besseren Ort für alle zu machen.
+contribute-how-heading = Wie du mithelfen kannst …
 
 ## Contribution tasks
 
@@ -20,12 +20,12 @@ contribute-tag-individual-event = Individuell und Veranstaltungsorganisation
 contribute-tag-individual = Individuell
 contribute-tag-support = Hilfe
 contribute-task-translate-heading = Inhalt übersetzen
-contribute-task-translate-desc = Das Internet ist nur global, wenn es überall verstanden wird. Helfen Sie uns, { -brand-name-mozilla }-Produkte und Websites in Ihre Landessprache zu übersetzen.
-contribute-task-mozilla-codebase-heading = Tragen Sie zur Codebasis von { -brand-name-mozilla } bei
-contribute-task-mozilla-codebase-desc = Verbessern Sie aktiv { -brand-name-mozilla }-Produkte, indem Sie zu einer Vielzahl von Entwicklungsmöglichkeiten beitragen.
-contribute-task-support-desc = Helfen Sie dabei, die Verwendung von { -brand-name-mozilla }-Produkten einfacher zu machen. Beantworten Sie die „Hilfe“-Fragen anderer als Teil des { -brand-name-mozilla } Support Community Forums.
-contribute-task-join-heading = Werden Sie Mitglied der Gemeinschaft
-contribute-task-join-desc = Möchten Sie sich stärker in der { -brand-name-mozilla }-Gemeinschaft engagieren? Schauen Sie sich alle Möglichkeiten für Freiwillige in unserem Gemeinschaftsportal an.
+contribute-task-translate-desc = Das Internet ist nur global, wenn es überall verstanden wird. Hilf uns, { -brand-name-mozilla }-Produkte und Websites in deine Landessprache zu übersetzen.
+contribute-task-mozilla-codebase-heading = Trag zur Codebasis von { -brand-name-mozilla } bei
+contribute-task-mozilla-codebase-desc = Verbessere aktiv { -brand-name-mozilla }-Produkte, indem du zu einer Vielzahl von Entwicklungsmöglichkeiten beiträgst.
+contribute-task-support-desc = Hilf dabei, die Verwendung von { -brand-name-mozilla }-Produkten einfacher zu machen. Beantworte die „Hilfe“-Fragen anderer als Teil des { -brand-name-mozilla } Support Community Forums.
+contribute-task-join-heading = Werde Mitglied der Gemeinschaft
+contribute-task-join-desc = Möchtest du dich stärker in der { -brand-name-mozilla }-Gemeinschaft engagieren? Schau dir alle Möglichkeiten für Freiwillige in unserem Gemeinschaftsportal an.
 
 ## Mission
 
@@ -34,23 +34,23 @@ contribute-mission-desc = Unsere Mission besteht darin, dafür zu sorgen, dass d
 contribute-learn = Weitere Informationen zu { -brand-name-mozilla }
 contribute-read-manifesto = Unser Manifest lesen
 contribute-find-event = Eine Veranstaltung finden
-contribute-meet-volunteers = Treffen Sie unsere leidenschaftlichen Freiwilligen
+contribute-meet-volunteers = Triff unsere leidenschaftlichen Freiwilligen
 contribute-donate = Spenden
-contribute-help-fund = Helfen Sie mit, unsere Mission zu finanzieren
+contribute-help-fund = Hilf mit, unsere Mission zu finanzieren
 contribute-follow-mozilla = { -brand-name-mozilla } folgen
 contribute-opportunities = Neuigkeiten und Möglichkeiten für Freiwillige
 
 ## Made by
 
 contribute-made-by-heading = Entwickelt von leidenschaftlichen Menschen wie Ihnen
-contribute-made-by-desc = Wenn Sie an { -brand-name-mozilla } mitwirken, werden Sie Teil einer weltweiten Gemeinschaft, die sich aus Menschen aus aller Welt zusammensetzt, die glauben, dass wir alle eine Rolle dabei spielen, sicherzustellen, dass das Internet weiterhin eine Kraft für das Gute bleibt.
-contribute-made-by-desc-cont = Wir glauben, dass die Zusammenarbeit in der Gemeinschaft von entscheidender Bedeutung ist, um ein Internet zu schaffen, das vielfältig, innovativ und gegenüber den Menschen, die es am dringendsten benötigen, rechenschaftspflichtig ist. Egal, ob Sie einen technischen Hintergrund, Gemeinschafts-Organisation oder nur einen Computer und etwas Freizeit haben, Sie können uns helfen, das Internet zu einem besseren Ort zu machen.
+contribute-made-by-desc = Wenn du an { -brand-name-mozilla } mitwirkst, wirst du Teil einer weltweiten Gemeinschaft, die sich aus Menschen aus aller Welt zusammensetzt, die glauben, dass wir alle eine Rolle dabei spielen, sicherzustellen, dass das Internet weiterhin eine Kraft für das Gute bleibt.
+contribute-made-by-desc-cont = Wir glauben, dass die Zusammenarbeit in der Gemeinschaft von entscheidender Bedeutung ist, um ein Internet zu schaffen, das vielfältig, innovativ und gegenüber den Menschen, die es am dringendsten benötigen, rechenschaftspflichtig ist. Egal, ob du einen technischen Hintergrund, Gemeinschafts-Organisation oder nur einen Computer und etwas Freizeit hast, du kannst uns helfen, das Internet zu einem besseren Ort zu machen.
 
 ## Newsletter
 
 contribute-newsletter-heading = Noch nicht sicher?
-contribute-newsletter-sub-heading = Erhalten Sie Nachrichten über Gemeinschaft und Mitarbeit in Ihrem Posteingang
-contribute-newsletter-desc = Abonnieren Sie unseren Newsletter, schließen Sie sich Mozillianern auf der ganzen Welt an und erfahren Sie mehr über die Möglichkeiten, die Mission { -brand-name-mozilla } zu unterstützen.
+contribute-newsletter-sub-heading = Erhalte Nachrichten über Gemeinschaft und Mitarbeit in deinem Posteingang
+contribute-newsletter-desc = Abonniere unseren Newsletter, schließe dich Mozillianern auf der ganzen Welt an und erfahre mehr über die Möglichkeiten, die Mission { -brand-name-mozilla } zu unterstützen.
 
 ## Support
 
@@ -61,5 +61,5 @@ contribute-mozilla-support = Hilfe für { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Probleme mit einer Webseite?
-contribute-web-compat-desc = Wenn Ihre Erfahrungen mit einer Website zwischen den Browsern unterschiedlich sind, haben Sie möglicherweise ein Problem mit der Webkompatibilität festgestellt. Wir würden gerne davon erfahren!
+contribute-web-compat-desc = Wenn deine Erfahrungen mit einer Website zwischen den Browsern unterschiedlich sind, hast du möglicherweise ein Problem mit der Webkompatibilität festgestellt. Wir würden gerne davon erfahren!
 contribute-report-issue = Ein Problem melden
