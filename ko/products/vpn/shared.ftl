@@ -90,7 +90,7 @@ vpn-shared-pricing-total = 총액 { $amount }
 # total price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total-plus-tax = 총액 { $mount } + 세금
+vpn-shared-pricing-total-plus-tax = 총액 { $amount } + 세금
 
 # Platform subpage shared strings
 
