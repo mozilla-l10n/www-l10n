@@ -42,8 +42,12 @@ vpn-features-vpn-protects-all-apps = «{ -brand-name-mozilla-vpn }» ҳамаи 
 vpn-features-stronger-malware = Муҳофизати боэътимод аз нармафзори зараровар
 vpn-features-vpn-prevents-downloading-malware = «{ -brand-name-mozilla-vpn }» шуморо аз боргирӣ кардани нармафзори зараровар аз манбаъҳои хатарноки маълум пешгирӣ мекунад.
 vpn-features-super-private-mode = Реҷаи хусусии волотарин: масиргузории интиқолҳои интернетии шумо тавассути ду ҷойгиршавӣ
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Хусусияти <a { $feature }>«multi-hop» (интиқол тавассути якчанд шабака)</a> сатҳи амнияти шуморо чанд маротиба баланд мебардорад.
 vpn-features-support-for-custom-dns = Дастгирӣ барои «DNS»-и фармоишӣ
 vpn-features-flexible = Фасеҳ
+vpn-features-set-different-locations = Дар браузери «{ -brand-name-firefox }» барои ҳар як варақа ҷойгиршавии алоҳидаро танзим намоед
 vpn-features-trustworthy = Боэътимод
 vpn-features-money-back = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-features-plus-customer-support = Илова бар ин, дастгирии корбарон дар муддати 24/7.
