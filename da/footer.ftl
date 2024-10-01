@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla }s manifest
 footer-privacy-hub = Privatlivshub
 footer-privacy = Privatliv
 footer-press = Presse
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Virksomhedsblog
 footer-mozilla-blog = { -brand-name-mozilla }-blog
 footer-browser-comparison = Browser-sammenligning
 footer-brand-standards = Brand-standarder
@@ -40,8 +38,6 @@ footer-websites-legal = Juridisk
 footer-language = Sprog
 footer-go = Skift
 footer-donate = Giv et bidrag
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (tidligere Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Følg @{ -brand-name-mozilla }
 footer-follow-firefox = Følg @{ -brand-name-firefox }
 footer-about-this-site = Om dette websted
+footer-advertise = Annoncér med { -brand-name-mozilla }
