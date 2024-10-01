@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 footer-privacy-hub = Središče za zasebnost
 footer-privacy = Zasebnost
 footer-press = Novinarsko središče
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Podjetniški blog
 footer-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
 footer-browser-comparison = Primerjava brskalnikov
 footer-brand-standards = Standardi blagovne znamke
@@ -40,8 +38,6 @@ footer-websites-legal = Pravno obvestilo
 footer-language = Jezik
 footer-go = Pojdi
 footer-donate = Donirajte
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (nekdanji Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Sledite @{ -brand-name-mozilla }
 footer-follow-firefox = Sledite @{ -brand-name-firefox }
 footer-about-this-site = O tem spletnem mestu
+footer-advertise = Oglašujte z { -brand-name-mozilla(sklon: "orodnik") }
