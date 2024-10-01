@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifesto de { -brand-name-mozilla }
 footer-privacy-hub = Centro de confidentialitate
 footer-privacy = Confidentialitate
 footer-press = Pressa
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog corporative
 footer-mozilla-blog = Blog de { -brand-name-mozilla }
 footer-browser-comparison = Comparation del navigatores
 footer-brand-standards = Normas del marca
@@ -40,8 +38,6 @@ footer-websites-legal = Legal
 footer-language = Lingua
 footer-go = Ir
 footer-donate = Donar
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (olim Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seque @{ -brand-name-mozilla }
 footer-follow-firefox = Seque @{ -brand-name-firefox }
 footer-about-this-site = Re iste sito
+footer-advertise = Face publicitate con { -brand-name-mozilla }
