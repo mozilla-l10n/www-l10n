@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
 footer-privacy-hub = Centrum priwatnosći
 footer-privacy = Priwatnosć
 footer-press = Casnikaŕstwo
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Pśedewześowyi blog
 footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Pśirunanje wobglědowakow
 footer-brand-standards = Markowe standardy
@@ -40,8 +38,6 @@ footer-websites-legal = Pšawniske
 footer-language = Rěc
 footer-go = Start
 footer-donate = Pósćiś
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (něgajšny Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } slědowaś
 footer-follow-firefox = @{ -brand-name-firefox } slědowaś
 footer-about-this-site = Wó toś tom sedle
+footer-advertise = Z { -brand-name-mozilla } wabiś
