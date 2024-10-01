@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
 footer-privacy-hub = Centrum priwatnosće
 footer-privacy = Priwatnosć
 footer-press = Nowinarstwo
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Předewzaćelski blog
 footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Přirunanje wobhladowakow
 footer-brand-standards = Markowe standardy
@@ -40,8 +38,6 @@ footer-websites-legal = Prawniske
 footer-language = Rěč
 footer-go = Start
 footer-donate = Darić
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (bywši Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } slědować
 footer-follow-firefox = @{ -brand-name-firefox } slědować
 footer-about-this-site = Wo tutym sydle
+footer-advertise = Z { -brand-name-mozilla } wabić
