@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } 宣言
 footer-privacy-hub = 隐私中心
 footer-privacy = 隐私
 footer-press = 新闻
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Mozilla 博客
 footer-mozilla-blog = { -brand-name-mozilla } 博客
 footer-browser-comparison = 浏览器比较
 footer-brand-standards = 品牌标准
@@ -40,8 +38,6 @@ footer-websites-legal = 法律
 footer-language = 语言
 footer-go = 前往
 footer-donate = 捐款
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X（原 Twitter）
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-follow-firefox = 关注 @{ -brand-name-firefox }
 footer-about-this-site = 关于本站
+footer-advertise = 通过 { -brand-name-mozilla } 投放广告
