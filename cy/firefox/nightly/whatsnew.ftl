@@ -23,7 +23,7 @@ nightly-whatsnew-if-you-want-to-v3 = Os ydych chi eisiau gwybod beth sy'n digwyd
 nightly-whatsnew-want-to-know-which-v2 = Eisiau gwybod pa nodweddion platfform y mae modd eu profi ar { -brand-name-nightly } ac sydd ddim eto ar gael ar sianeli eraill { -brand-name-firefox } ? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>Arbrofion Nightly</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Eisiau gwybod pa nodweddion platfform y gallech chi eu profi ar { -brand-name-nightly } ac na allwch eu gweld eto ar sianeli { -brand-name-firefox } eraill? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+nightly-whatsnew-want-to-know-which-v3 = Eisiau gwybod pa nodweddion platfform y gallech chi eu profi ar { -brand-name-nightly } ac nad oes modd i chi eu gweld eto ar sianeli { -brand-name-firefox } eraill? Yna edrychwch ar y dudalen dewisiadau <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Ydych chi'n profi chwaliadau? Ymddygiad annisgwyl? Atchweliad cydweddu gwe? Byddwn wrth ein bodd petai chi'n eu cofnodi yn <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> er mwyn gwneud yn siŵr nad ydynt yn cyrraedd y fersiwn terfynol (Karma ychwanegol os ydych yn ychwanegu'r allweddair <em>{ -brand-name-nightly }-community</em> i'ch adroddiadau chwalu)!
