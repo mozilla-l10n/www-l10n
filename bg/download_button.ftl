@@ -39,4 +39,10 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> за { -brand
 download-button-firefox-privacy = Поверителност на { -brand-name-firefox }
 download-button-firefox-privacy-notice = Бележка за поверителността на { -brand-name-firefox }
 download-button-download = Изтегляне
+download-firefox-esr-32 = Изтеглете { -brand-name-firefox-esr } 32-бита
 download-firefox-esr-64 = Изтеглете { -brand-name-firefox-esr } 64-бита
+
+## Linux
+
+download-button-linux-32-v2 = Изтегляне за 32-битов Linux
+download-button-linux-64-v2 = Изтегляне за 64-битов Linux
