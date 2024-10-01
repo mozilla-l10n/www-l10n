@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 footer-privacy-hub = Centrum ochrany súkromia
 footer-privacy = Súkromie
 footer-press = Tlačové centrum
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Firemný blog
 footer-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 footer-browser-comparison = Porovnanie prehliadačov
 footer-brand-standards = Štandardy značky
@@ -40,8 +38,6 @@ footer-websites-legal = Právne informácie
 footer-language = Jazyk
 footer-go = Prejsť
 footer-donate = Prispejte
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (predtým Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Sledujte @{ -brand-name-mozilla }
 footer-follow-firefox = Sledujte @{ -brand-name-firefox }
 footer-about-this-site = O tejto stránke
+footer-advertise = Inzerujte pomocou { -brand-name-mozilla(case: "gen") }
