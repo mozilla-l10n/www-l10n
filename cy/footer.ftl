@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
 footer-privacy-hub = Hwb Preifatrwydd
 footer-privacy = Preifatrwydd
 footer-press = Y Wasg
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog Corfforaethol
 footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = Cymharu Porwyr
 footer-brand-standards = Safonau'r Brand
@@ -40,8 +38,6 @@ footer-websites-legal = Cyfreithiol
 footer-language = Iaith
 footer-go = Mynd
 footer-donate = Rhoi Rhodd
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (Twitter gynt)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Dilyn @{ -brand-name-mozilla }
 footer-follow-firefox = Dilyn @{ -brand-name-firefox }
 footer-about-this-site = Am y wefan hon
+footer-advertise = Hysbysebu gyda { -brand-name-mozilla }
