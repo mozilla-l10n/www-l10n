@@ -11,7 +11,7 @@ not-found-page-go-back = Zurück
 
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahre mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Erfahre mehr</a> über { -brand-name-mozilla }, die gemeinnützige Organisation hinter { -brand-name-firefox }.hr
 
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
