@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Манифест { -brand-name-mozilla }
 footer-privacy-hub = Центр приватности
 footer-privacy = Приватность
 footer-press = Пресса
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Корпоративный блог
 footer-mozilla-blog = Блог { -brand-name-mozilla }
 footer-browser-comparison = Сравнение браузеров
 footer-brand-standards = Стандарты бренда
@@ -40,8 +38,6 @@ footer-websites-legal = Юридическая информация
 footer-language = Язык
 footer-go = Перейти
 footer-donate = Пожертвовать
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (ранее Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
 footer-follow-firefox = Подписаться на @{ -brand-name-firefox }
 footer-about-this-site = Об этом сайте
+footer-advertise = Рекламируйтесь в { -brand-name-mozilla }
