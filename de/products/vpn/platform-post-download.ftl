@@ -9,15 +9,15 @@
 
 vpn-windows-download-page-title = { -brand-name-mozilla-vpn } für { -brand-name-windows } herunterladen
 vpn-windows-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } für { -brand-name-windows } wird heruntergeladen …
-vpn-windows-go-to-your-downloads = Gehen Sie in Ihren Downloads-Ordner und doppelklicken Sie die .msi- Datei
+vpn-windows-go-to-your-downloads = Gehe in deinen Downloads-Ordner und doppelklicke die .msi- Datei
 vpn-windows-a-progress-bar = Es erscheint ein Balken mit dem Fortschritt und der Installationsvorgang beginnt
 
 ## Mac download page
 
 vpn-mac-download-page-title = { -brand-name-mozilla-vpn } für { -brand-name-mac-short } herunterladen
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } für { -brand-name-mac-short } wird heruntergeladen …
-vpn-mac-go-to-your-downloads = Gehen Sie in Ihren Download-Ordner und doppelklicken Sie die .pkg- Datei
-vpn-mac-follow-the-steps = Befolgen Sie die Schritte im { -brand-name-mozilla-vpn }-Installer, um die App zu starten
+vpn-mac-go-to-your-downloads = Gehe in deinen Download-Ordner und doppelklicke die .pkg- Datei
+vpn-mac-follow-the-steps = Befolge die Schritte im { -brand-name-mozilla-vpn }-Installer, um die App zu starten
 
 ## Shared strings
 
@@ -28,24 +28,24 @@ vpn-download-not-in-country = Leider ist { -brand-name-mozilla-vpn } in Ihrem La
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform
 #   $id (string) - unique ID for the anchor tag
-vpn-your-download-should-start = Ihr { -brand-name-mozilla-vpn }-Download sollte automatisch starten. Falls nicht, <br> <a href="{ $url }" id="{ $id }">starten Sie den Download bitte erneut</a> oder kehren Sie zur Download-Seite zurück und führen Sie ihn für ein anderes Gerät aus.
+vpn-your-download-should-start = Dein { -brand-name-mozilla-vpn }-Download sollte automatisch starten. Falls nicht, <br> <a href="{ $url }" id="{ $id }">starte den Download bitte erneut</a> oder kehre zur Download-Seite zurück und führe ihn für ein anderes Gerät aus.
 
-vpn-open-the-file = 1. Öffnen Sie die Datei
-vpn-launch-the-app = 2. Starten Sie die App
-vpn-login-or-signup = 3. Melden Sie sich an oder registrieren Sie sich
-vpn-enter-your-email = Geben Sie Ihre E-Mail-Adresse ein, um sich anzumelden oder zu registrieren und loszulegen
-vpn-turn-on-vpn = 4. Aktivieren Sie VPN
-vpn-pick-a-recommended = Wählen Sie einen empfohlenen Standort für eine schnelle, stabile Verbindung oder wählen Sie Ihren gewünschten Standort manuell. Aktivieren Sie dann den AN-Knopf.
+vpn-open-the-file = 1. Öffne die Datei
+vpn-launch-the-app = 2. Starte die App
+vpn-login-or-signup = 3. Melde dich an oder registriere dich
+vpn-enter-your-email = Gib deine E-Mail-Adresse ein, um dich anzumelden oder zu registrieren und loszulegen
+vpn-turn-on-vpn = 4. Aktiviere VPN
+vpn-pick-a-recommended = Wähle einen empfohlenen Standort für eine schnelle, stabile Verbindung oder wähle deinen gewünschten Standort manuell. Aktiviere dann den AN-Knopf.
 
 ## FAQ Strings
 
-vpn-download-faq-need-help = Sie brauchen Hilfe?
-vpn-download-faq-here-are-some = Hier finden Sie einige der am häufigsten gestellten Fragen über das Set-up von { -brand-name-mozilla-vpn }
+vpn-download-faq-need-help = Du brauchst Hilfe?
+vpn-download-faq-here-are-some = Hier findest du einige der am häufigsten gestellten Fragen über das Set-up von { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Warum sollte ich { -brand-name-mozilla-vpn } nutzen?
 
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = Online-Datenschutz und -Sicherheit werden immer wichtiger, da sich ein immer größerer Teil unseres Lebens online abspielt. Ein VPN, also ein <a href="{ $faq }">Virtual Private Network</a>, stellt einen verschlüsselten Tunnel zwischen Ihren Geräten und dem Internet her. So bleibt Ihre Verbindung sicher und privat und Sie werden auf zwei wichtige Weisen geschützt:
+vpn-download-faq-as-more-daily = Online-Datenschutz und -Sicherheit werden immer wichtiger, da sich ein immer größerer Teil unseres Lebens online abspielt. Ein VPN, also ein <a href="{ $faq }">Virtual Private Network</a>, stellt einen verschlüsselten Tunnel zwischen deinen Geräten und dem Internet her. So bleibt deine Verbindung sicher und privat und du wirst auf zwei wichtige Weisen geschützt:
 
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
@@ -62,15 +62,15 @@ vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v3 = Um ein neues Gerät hinzuzufügen, laden Sie einfach die { -brand-name-mozilla-vpn }-Software herunter, installieren sie und melden sich anschließend auf dem neuen Gerät bei Ihrem bestehenden { -brand-name-mozilla-account } an. Für weitere Informationen, lesen Sie bitte <a href="{ $subscription }">Wie Sie Geräte zu Ihrem { -brand-name-mozilla-vpn }-Abo hinzufügen</a>.
+vpn-download-faq-adding-another-v3 = Um ein neues Gerät hinzuzufügen, lade einfach die { -brand-name-mozilla-vpn }-Software herunter, installiere sie und melde dich anschließend auf dem neuen Gerät bei deinem bestehenden { -brand-name-mozilla-account } an. Für weitere Informationen, lies bitte <a href="{ $subscription }">Wie du Geräte zu deinem { -brand-name-mozilla-vpn }-Abo hinzufügst</a>.
 
 vpn-download-faq-best-practices = Welche VPN Best Practices gibt es?
-vpn-download-faq-traffic = Wenn Sie Ihren Datenverkehr schützen möchten und trotzdem schnell im Internet unterwegs sein wollen, sollten Sie einen Server-Standort wählen, der so nah wie möglich an Ihrem tatsächlichen Standort liegt. Dadurch erhöht sich die Zuverlässigkeit und Geschwindigkeit Ihrer Verbindung und Ihr Datenverkehr muss nicht erst einen großen Umweg nehmen, bevor er an seiner Zieladresse ankommt.
-vpn-download-faq-experience = Wenn Sie das Internet erleben möchten, als wären Sie an einem anderen Ort auf der Welt, können Sie einen beliebigen Server-Standort wählen. Sämtliche Websites, die Sie besuchen, sehen dann aus, als befänden Sie sich vor Ort.
-vpn-download-faq-protect = Wenn Sie sich noch besser schützen möchten, können Sie den Schutz vor Werbung, Werbe-Trackern und Malware aktivieren, indem Sie auf Einstellungen > Datenschutzfunktionen gehen. Bitte beachten Sie, dass dadurch einige Websites eventuell nicht funktionieren oder nicht geladen werden können. In diesem Fall sollten Sie die Schutzmaßnahmen daher vorübergehend deaktivieren.
-vpn-download-faq-lastly = Abschließend können Sie auf unterstützten Geräten das VPN noch smarter machen, indem Sie bestimmte Apps (z. B. Netflix) vom VPN ausschließen.
-vpn-download-faq-need-more = Sie brauchen weitere Hilfe?
+vpn-download-faq-traffic = Wenn du deinen Datenverkehr schützen möchtest und trotzdem schnell im Internet unterwegs sein willst, solltest du einen Server-Standort wählen, der so nah wie möglich an deinem tatsächlichen Standort liegt. Dadurch erhöht sich die Zuverlässigkeit und Geschwindigkeit deiner Verbindung und dein Datenverkehr muss nicht erst einen großen Umweg nehmen, bevor er an seiner Zieladresse ankommt.
+vpn-download-faq-experience = Wenn du das Internet erleben möchtest, als wärest du an einem anderen Ort auf der Welt, kannst du einen beliebigen Server-Standort wählen. Sämtliche Websites, die du besuchst, sehen dann aus, als befändest du dich vor Ort.
+vpn-download-faq-protect = Wenn du dich noch besser schützen möchtest, kannst du den Schutz vor Werbung, Werbe-Trackern und Malware aktivieren, indem du auf Einstellungen > Datenschutzfunktionen gehst. Bitte beachte, dass dadurch einige Websites eventuell nicht funktionieren oder nicht geladen werden können. In diesem Fall solltest du die Schutzmaßnahmen daher vorübergehend deaktivieren.
+vpn-download-faq-lastly = Abschließend kannst du auf unterstützten Geräten das VPN noch smarter machen, indem du bestimmte Apps (z. B. Netflix) vom VPN ausschließt.
+vpn-download-faq-need-more = Du brauchst weitere Hilfe?
 
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Sie können sich direkt über die { -brand-name-mozilla-vpn }-App mit unserem Support-Team in Verbindung setzen, indem Sie auf Einstellungen &gt; Hilfe &gt; Support kontaktieren klicken. Sie können uns auch <a href="{ $support }">über unsere Support-Seite</a> erreichen.
+vpn-download-faq-support = Du kannst sich direkt über die { -brand-name-mozilla-vpn }-App mit unserem Support-Team in Verbindung setzen, indem du auf Einstellungen &gt; Hilfe &gt; Support kontaktieren klickst. Du kannst uns auch <a href="{ $support }">über unsere Support-Seite</a> erreichen.
