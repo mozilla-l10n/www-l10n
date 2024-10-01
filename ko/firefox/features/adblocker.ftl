@@ -49,6 +49,7 @@ features-adblocker-create-a-tracker-free = 콘텐츠 차단으로 추적기 없�
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }에서는, <a href="{ $privacy }">개인정보</a> 혹은 <a href="{ $blocking }">콘텐츠 차단</a> 설정으로 광고를 제공하는 추적기를 더욱 효과적으로 제어할 수 있습니다.
 features-adblocker-choose-your-level-of-protection = 보호 수준을 선택하세요
+features-adblocker-to-start-click-on-the-v2 = 시작하려면 웹 페이지 주소 표시줄 왼쪽에 있는 방패를 클릭하고 “보호 설정”을 선택하세요. 이렇게 하면 새 탭에서 { -brand-name-firefox } 설정 개인 정보 보호 및 보안 패널이 열립니다. 다른 선택 항목이 포함된 파란색 팝업을 볼 수 있을 것입니다.
 features-adblocker-go-easy-with-standard = 표준 모드로 손쉽게 시작하세요
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -70,3 +71,6 @@ features-adblocker-send-a-do-not-track-signal = Do Not Track 신호 보내기
 features-adblocker-if-you-dont-want-your = 여러분의 행동이 광고에 사용되는 것을 원하지 않는 경우 { -brand-name-firefox }의 <a href="{ $url }">추적 방지 기능</a> 옵션을 체크하여 웹사이트에 정중히 "감사하지만 사양하겠습니다" 편지를 보낼 수 있습니다. 참여는 선택이지만 참여하는 웹사이트는 즉시 여러분을 추적하는 것을 멈출 것입니다.
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-in-some-cases-an-ad-blocker = 경우에 따라 광고 차단기는 여러분의 브라우저를 빠르게 만드는데 도움이 될 수 있습니다. 광고는 로드될 때 웹사이트를 느리게 만듭니다. 동시에 다른 광고를 닫느라 너무 바빠서 원하는 것을 찾는데 시간이 더 걸립니다.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = 광고 차단에 대해 자세히 알아보려면 { -brand-name-firefox }와 다른 브라우저에서 이용할 수 있는 수백 개의 광고 차단 확장 기능이 있습니다. { -brand-name-firefox }가 사용하는 광고 차단기를 사용해보고 싶다면 개인 정보를 최우선으로 생각하는 브라우저를 <a href="{ $url }">여기를 클릭하여 다운로드</a>하세요.
