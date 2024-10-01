@@ -49,4 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
 footer-follow-firefox = Подписаться на @{ -brand-name-firefox }
 footer-about-this-site = Об этом сайте
-footer-advertise = Рекламируйтесь в { -brand-name-mozilla }
+footer-advertise = Размещайте рекламу у { -brand-name-mozilla }
