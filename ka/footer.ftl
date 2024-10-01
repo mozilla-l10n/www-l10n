@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-ს დებულებე�
 footer-privacy-hub = პირადულობის ცენტრი
 footer-privacy = პირადულობა
 footer-press = პრესა
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = სვეტი თანამშრომლებისთვის
 footer-mozilla-blog = { -brand-name-mozilla } სვეტი
 footer-browser-comparison = ბრაუზერების შედარება
 footer-brand-standards = სავაჭრო ნიშნები
@@ -40,8 +38,6 @@ footer-websites-legal = სამართლებრივი საკით�
 footer-language = ენა
 footer-go = წინ
 footer-donate = შემოწირულობა
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (ყოფილი Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-follow-firefox = გამოიწერეთ @{ -brand-name-firefox }
 footer-about-this-site = საიტის შესახებ
+footer-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
