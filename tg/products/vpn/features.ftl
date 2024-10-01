@@ -52,5 +52,6 @@ vpn-features-trustworthy = Боэътимод
 vpn-features-money-back = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-features-plus-customer-support = Илова бар ин, дастгирии корбарон дар муддати 24/7.
 vpn-features-we-never-log = Мо ҳеҷ вақт маълумоти интернетии шуморо дар шабака сабт, пайгирӣ ё мубодила намекунем
+vpn-features-built-transparently = Дар муҳити манбаи кушод бо кори бошарафона сохта шудааст
 vpn-features-reviewed-by-third = Аз ҷониби мутахассисони амнияти тарафҳои сеюм аз назар гузаронида шудааст
 vpn-features-people-over-profits = Одамон нисбат ба фоидаи молӣ афзалият доранд
