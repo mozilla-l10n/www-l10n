@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Kiáltvány
 footer-privacy-hub = Privacy Hub
 footer-privacy = Adatvédelem
 footer-press = Sajtó
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Vállalati blog
 footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Böngészők összehasonlítása
 footer-brand-standards = Márka szabványok
@@ -40,8 +38,6 @@ footer-websites-legal = Jogi információk
 footer-language = Nyelv
 footer-go = Ugrás
 footer-donate = Adományozás
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (korábban Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
 footer-follow-firefox = Kövesse a következőt: @{ -brand-name-firefox }
 footer-about-this-site = Az oldal névjegye
+footer-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
