@@ -34,3 +34,6 @@ features-index-view-and-edit-pdf-files = { -brand-name-firefox } 안에서 PDF �
 features-index-ad-tracker-blocking = 광고 추적기 차단
 features-index-firefox-automatically-blocks = { -brand-name-firefox }는 2000 개 이상의 광고 추적기가 인터넷에서 사용자를 추적하지 못하도록 자동으로 차단합니다.
 features-index-translate-the-web = 웹 번역
+features-index-translate-websites-to-your = 브라우저 안에서 웹사이트를 { -brand-name-firefox } 사용하는 언어로 바로 번역하세요. 다른 사람과 데이터를 공유하지 않아도 됩니다.
+features-index-picture-in-picture = 화면 속 화면
+features-index-got-things-to-do = 해야 할 일도 있고 시청할 동영상도 있나요? { -brand-name-firefox }의 화면 속 화면 기능을 이용하여 둘 다 수행해 보세요.
