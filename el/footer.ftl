@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
 footer-privacy-hub = Κέντρο απορρήτου
 footer-privacy = Απόρρητο
 footer-press = Τύπος
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Εταιρικό blog
 footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Σύγκριση προγραμμάτων περιήγησης
 footer-brand-standards = Πρότυπα εμπορικών σημάτων
@@ -40,8 +38,6 @@ footer-websites-legal = Νομικά
 footer-language = Γλώσσα
 footer-go = Μετάβαση
 footer-donate = Δωρεά
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (πρώην Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
 footer-follow-firefox = Ακολουθήστε το @{ -brand-name-firefox }
 footer-about-this-site = Σχετικά με τον ιστότοπο
+footer-advertise = Διαφημιστείτε με τη { -brand-name-mozilla }
