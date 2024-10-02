@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Đây là thời điểm tốt để cảm ơn
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Nếu bạn muốn biết những gì đang xảy ra xung quanh { -brand-name-nightly } và cộng đồng của nó, bạn có thể bắt đầu bằng việc đọc <a { $blog }>blog</a> của chúng tôi và theo dõi chúng tôi trên <a { $mastodon }>Mastodon</a> hoặc <a { $twitter }>X</a>!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Nếu bạn muốn biết những gì đang diễn ra xung quanh { -brand-name-nightly } và cộng đồng của nó, bạn có thể bắt đầu bằng cách đọc <a href="{ $blog }">blog</a> và theo dõi chúng tôi trên <a href="{ $mastodon }">Mastodon</a> hoặc <a href="{ $twitter }">Twitter</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Bạn muốn biết những tính năng nền tảng nào bạn có thể thử nghiệm trên { -brand-name-nightly } và chưa thể xem trên các kênh { -brand-name-firefox } khác? Hãy xem trang tùy chỉnh <a { $attrs }>Thử nghiệm Nightly</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Bạn muốn biết những tính năng nền tảng nào bạn có thể thử nghiệm trên { -brand-name-nightly } và chưa có chính thức trên các kênh { -brand-name-firefox } khác? Hãy xem qua trang tuỳ chỉnh <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Bạn đã gặp sự cố? Lỗi bất ngờ? Có vấn đề về tương thích web? Chúng tôi rất muốn bạn gửi nó tới <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> để đảm bảo rằng những lỗi này sẽ không có trong bản phát hành chính thức (thêm karma nếu bạn thêm từ khóa <em>{ -brand-name-nightly }-community</em> vào báo cáo lỗi của bạn)!

@@ -11,7 +11,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Bảo vệ toàn bộ thiết b
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = Sử dụng { -brand-name-mozilla-vpn } để bảo vệ toàn bộ thiết bị và các ứng dụng. Với máy chủ ở { $countries }+ các quốc gia, bạn có thể kết nối với mọi nơi, từ bất cứ đâu.
-vpn-landing-powerful-privacy-for-peace = Sự riêng tư mạnh mẽ để yên tâm
+vpn-landing-powerful-privacy-for-peace = Quyền riêng tư mạnh mẽ để mang lại yên tâm
 vpn-landing-whats-a-vpn = VPN là gì?
 vpn-landing-a-virtual-private-network-protects = Mạng riêng ảo bảo vệ kết nối của bạn với Internet, giữ cho vị trí của bạn và những gì bạn làm trực tuyến riêng tư hơn trên các thiết bị của mình.
 vpn-landing-see-all-the-ways-mozilla-vpn = Xem tất cả cách { -brand-name-mozilla-vpn } bảo vệ bạn.
