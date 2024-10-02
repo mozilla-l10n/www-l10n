@@ -23,7 +23,7 @@ nightly-whatsnew-if-you-want-to-v3 = Ha szeretné tudni, hogy mi történik a { 
 nightly-whatsnew-want-to-know-which-v2 = Szeretné tudni, hogy mely funkciókat tesztelheti a { -brand-name-nightly }ban, és miket nem láthat még a többi { -brand-name-firefox }-csatornában? Akkor tekintse meg a <a { $attrs }>Night kísérletek</a> beállítási oldalát.
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Szeretné tudni, hogy mely funkciókat tesztelheti a { -brand-name-nightly }ban, és melyeket nem láthat még a többi { -brand-name-firefox }-csatornában? Ezután tekintse meg a <a { $attrs }>{ -brand-name-firefox-labs }</a> beállítások oldalt.
+nightly-whatsnew-want-to-know-which-v3 = Szeretné tudni, hogy mely funkciókat tesztelheti a { -brand-name-nightly }ban, és miket nem láthat még a többi { -brand-name-firefox }-csatornában? Akkor tekintse meg a <a { $attrs }>{ -brand-name-firefox-labs }</a> beállítási oldalát.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Összeomlásokat tapasztal? Váratlan viselkedést? Webes kompatibilitási regressziókat? Szeretnénk, hogy bejelentse ezeket a <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> rendszerben, hogy ne kerüljenek bele a végső kiadásba (további karmát ér, ha hozzáadja a <em>{ -brand-name-nightly }-community</em> kulcsszót a hibajelentésekhez).
