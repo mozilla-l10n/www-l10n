@@ -49,4 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-follow-firefox = 关注 @{ -brand-name-firefox }
 footer-about-this-site = 关于本站
-footer-advertise = 通过 { -brand-name-mozilla } 投放广告
+footer-advertise = 携手 { -brand-name-mozilla } 投放广告
