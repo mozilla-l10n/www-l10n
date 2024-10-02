@@ -16,12 +16,30 @@ features-adblocker-an-ad-blocker-is-a-piece = Een adblocker is een stukje softwa
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Deze advertenties kunnen lawaaierige video-advertenties, advertenties die u op het web volgen, trackers, cookies van derden en nog meer zijn. Om een adblocker te gebruiken, kunt u naar adblocker-add-ons die in uw browser beschikbaar zijn zoeken. <a href="{ $firefox }">{ -brand-name-firefox }</a> heeft bijvoorbeeld <a href="{ $addons }">deze lijst met goedgekeurde adblocker-add-ons</a>. Klik op deze lijst (of adblockers die voor uw browser zijn goedgekeurd) en bekijk welke aansluit bij uw wensen.
 features-adblocker-find-the-right-ad-blocker = Vind de juiste adblocker voor u
+features-adblocker-there-are-scores-of-content = Er zijn tientallen inhoudsblokkeerders, maar hier zijn een paar fantastische opties, samengesteld door { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> wordt door velen beschouwd als de gouden standaard onder adblockers en staat bekend om zijn effectiviteit en efficiëntie. Uiterst aanpasbaar, maar het werkt ook ‘uit de doos’ perfect.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> gaat overal advertenties tegen. Het blokkeert advertenties op het web, sociale media en zelfs die vervelende pop-ups (maar als u pop-ups alleen maar wilt onderdrukken, hebt u ruim voldoende aan <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> is een andere geweldige keuze die niet alleen advertenties blokkeert, maar ook andere voordelen tegen volgen biedt.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Deze extensies werken prima op zowel <a { $attrs1 }>{ -brand-name-firefox }desktop</a> als <a { $attrs2 }>Android</a>.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Er is <a href="{ $url }">AdBlocker Ultimate</a>, dat u verlost van alle advertenties, maar kopers, let op. Enkele van uw favoriete kranten en tijdschriften zijn afhankelijk van advertenties. Als te veel mensen hun advertenties blokkeren gaan ze mogelijk failliet.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Pop-upadvertenties zijn het ergst. Blokkeer ze met <a href="{ $url }">Popup Blocker</a> en u hebt nooit meer last van een vervelende pop-up.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Een van de meest populaire adblockers voor { -brand-name-chrome }, { -brand-name-safari } en { -brand-name-firefox } is <a href="{ $url }">AdBlock</a>. Gebruik het om advertenties op { -brand-name-facebook }, { -brand-name-youtube } en { -brand-name-hulu } te blokkeren.
@@ -32,8 +50,6 @@ features-adblocker-create-a-tracker-free = Creëer een trackervrije zone met inh
 features-adblocker-on-firefox-you-can-use = In { -brand-name-firefox } kunt u de instellingen voor <a href="{ $privacy }">Privacy</a> of <a href="{ $blocking }">Inhoudsblokkering</a> gebruiken voor nog meer controle over adtrackers die u de advertenties laten zien.
 features-adblocker-choose-your-level-of-protection = Kies uw beschermingsniveau
 features-adblocker-to-start-click-on-the-v2 = Klik om te beginnen op het schild links van de adresbalk op een willekeurige webpagina en selecteer ‘Beschermingsinstellingen’. Dit opent het paneel Privacy & Beveiliging van uw { -brand-name-firefox }-instellingen in een nieuw tabblad. U zou een blauw pop-upvenster moeten zien met verschillende selecties.
-# Obsolete string
-features-adblocker-to-start-click-on-the = Klik om te beginnen op het { -brand-name-firefox }-menu rechts bovenin uw scherm. Dit ziet eruit als drie op elkaar gestapelde lijnen. Klik in het dropdownmenu op Inhoudsblokkering. U zou nu een blauw pop-upscherm met verschillende selecties moeten zien.
 features-adblocker-go-easy-with-standard = Doe rustig aan met de modus Standaard
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -58,5 +74,3 @@ features-adblocker-in-some-cases-an-ad-blocker = In sommige gevallen kan een adb
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-if-you-want-to-learn-more-v2 = Als u meer wilt weten over advertenties blokkeren, dan zijn er honderden adblockerextensies beschikbaar voor { -brand-name-firefox } en andere browsers. Als u de adblockers die { -brand-name-firefox } gebruikt wilt uitproberen, <a href="{ $url }">klik dan hier om een browser die privacy voorop stelt te downloaden</a>.
-# Obsolete string
-features-adblocker-if-you-want-to-learn-more = Als u meer wilt weten over advertenties blokkeren, dan zijn er honderden adblockerextensies beschikbaar voor { -brand-name-firefox } en andere browsers. Als u de adblockers die { -brand-name-firefox } gebruikt wilt uitproberen, <a href="{ $url }">klik dan hier om een browser die privacy voorop stelt te downloaden</a>.
