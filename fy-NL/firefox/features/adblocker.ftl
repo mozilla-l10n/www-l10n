@@ -17,6 +17,20 @@ features-adblocker-an-ad-blocker-is-a-piece = In adblocker is in stikje software
 features-adblocker-these-ads-might-be-loud = Dizze advertinsjes kinne fideo-advertinsjes mei in protte lawaai, advertinsjes dy’t jo op it web folgje, trackers, cookies fan tredden en noch mear wêze. Om in adblocker te brûken, kinne jo nei adblocker-add-ons dy’t yn jo browser beskikber binne sykje. <a href="{ $firefox }">{ -brand-name-firefox }</a> hat bygelyks <a href="{ $addons }">dizze list mei goedkarre adblocker-add-ons</a>. Klik op dizze list (of adblockers dy’t foar jo browser goedkard binne) en besjoch hokker oanslút by jo winsken.
 features-adblocker-find-the-right-ad-blocker = Fyn de krekte adblocker foar jo
 features-adblocker-there-are-scores-of-content = Der binne tsientallen ynhâldsblokkearders, mar hjir binne in pear fantastyske opsjes gearstald troch { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> wurdt troch in protte beskôge as de gouden standert ûnder adblockers en stiet bekend om syn effektiviteit en effisjinsje. Uterst oanpasber, mar it wurket ek ‘út de doaze’ perfekt.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> giet oeral advertinsjes tsjin. It blokkearret advertinsjes op it web, sosjale media en sels dy ferfelende pop-ups (mr as jo pop-ups allinnich mar ûnderdrukke wolle, hawwe jo rom genôch oan <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> is in oare geweldige kar dy’t net allinnich advertinsjes blokkearret, mar ek oare foardielen tsjin folgjen biedt.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Dizze útwreidingen wurkje prima op sawol <a { $attrs1 }>{ -brand-name-firefox }desktop</a> as <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
