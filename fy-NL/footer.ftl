@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-manifest
 footer-privacy-hub = Privacyhub
 footer-privacy = Privacy
 footer-press = Parse
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Bedriuwsblog
 footer-mozilla-blog = { -brand-name-mozilla }-blog
 footer-browser-comparison = Browserfergeliking
 footer-brand-standards = Merkstanderts
@@ -40,8 +38,6 @@ footer-websites-legal = Juridysk
 footer-language = Taal
 footer-go = Gean
 footer-donate = Donearje
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (earder Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } folgje
 footer-follow-firefox = @{ -brand-name-firefox } folgje
 footer-about-this-site = Oer dizze website
+footer-advertise = Advertearje mei { -brand-name-mozilla }
