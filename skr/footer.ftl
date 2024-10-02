@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 footer-privacy-hub = رازداری ہب
 footer-privacy = رازداری
 footer-press = پریس
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = کارپوریٹ بلاگ
 footer-mozilla-blog = { -brand-name-mozilla } بلاگ
 footer-browser-comparison = براؤزر ویورا
 footer-brand-standards = برانڈ دے معیار
@@ -40,8 +38,6 @@ footer-websites-legal = قنونی
 footer-language = زبان
 footer-go = ون٘ڄو
 footer-donate = عطیہ ݙیوو
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (سابقہ ٹویٹر)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = { -brand-name-mozilla } تے فالو کرو
 footer-follow-firefox = { -brand-name-firefox } تے فالو کرو
 footer-about-this-site = ایں سائٹ بارے
+footer-advertise = { -brand-name-mozilla } نال مشہوری کرو
