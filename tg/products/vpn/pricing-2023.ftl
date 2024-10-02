@@ -26,6 +26,7 @@ vpn-pricing-access =
         [one] Пайдо кардани дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
        *[other] Пайдо кардани дастрасӣ ба { $servers } сервер дар { $countries }+ кишвар
     }
+vpn-pricing-money-back = Кафолати 30-рӯза барои бозпардохти маблағи шумо (танҳо барои корбарони навомада)
 vpn-pricing-annual = Солона
 vpn-pricing-monthly = Ҳармоҳа
 vpn-pricing-get-annual-subscription = Ба даст овардани обунаи солона

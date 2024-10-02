@@ -35,6 +35,10 @@ vpn-shared-features-protection = Муҳофизат барои то { $devices }
 #   $countries (number) - number of available countries
 vpn-shared-features-server-countries = Пайвастшавӣ ба зиёда аз { $servers } сервер дар зиёда аз { $countries } кишвар
 # Variables:
+#   $url (number) - link to https://mullvad.net/servers/
+#   $attrs (string) - specific attributes added to external links
+vpn-shared-features-full-list-servers = Ба рӯйхати пурраи <a href="{ $url }" { $attrs }>серверҳои мо</a> нигаред.
+# Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Серверҳои боқувват дар { $countries }+ кишвар
 # Variables:
