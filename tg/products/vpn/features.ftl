@@ -46,6 +46,9 @@ vpn-features-super-private-mode = Реҷаи хусусии волотарин: 
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Хусусияти <a { $feature }>«multi-hop» (интиқол тавассути якчанд шабака)</a> сатҳи амнияти шуморо чанд маротиба баланд мебардорад.
 vpn-features-support-for-custom-dns = Дастгирӣ барои «DNS»-и фармоишӣ
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Ба воситаи «{ -brand-name-mozilla-vpn }» шумо метавонед интиқолҳои интернетии худро дар ҳолати бехатар нигоҳ доред ва ҳамзамон дархостҳои «DNS»-и худро баҳар ҷойе, ки мехоҳед, равона кунед. <a { $dns }>Маълумоти бештар дар бораи дастгирии фармоишии «DNS»</a>.
 vpn-features-flexible = Фасеҳ
 vpn-features-set-different-locations = Дар браузери «{ -brand-name-firefox }» барои ҳар як варақа ҷойгиршавии алоҳидаро танзим намоед
 vpn-features-trustworthy = Боэътимод

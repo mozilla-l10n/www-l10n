@@ -49,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-follow-firefox = Пайгирӣ кардани @{ -brand-name-firefox }
 footer-about-this-site = Дар бораи ин сомона
+footer-advertise = Таблиғ тавассути «{ -brand-name-mozilla }»
