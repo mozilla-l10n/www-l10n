@@ -13,6 +13,9 @@ firefox-all-download-the-firefox = Prenesite { -brand-name-firefox-browser } v s
 firefox-all-everyone-deserves-access-v2 = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox } v preko 90 jezikih.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Dostop do interneta si zasluži vsakdo – jezik ne bi smel nikoli biti prepreka. Zato s pomočjo predanih prostovoljcev z vsega sveta izdajamo { -brand-name-firefox-browser } v preko 90 jezikih.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Skenirajte kodo QR in prenesite <em>{ $product_name }</em>
 firefox-all-choose-browser = Za nadaljevanje izberite brskalnik
 firefox-all-choose-platform = Za nadaljevanje izberite platformo
 firefox-all-choose-language = Za nadaljevanje izberite jezik
