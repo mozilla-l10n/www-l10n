@@ -62,6 +62,12 @@ vpn-features-trustworthy = Боэътимод
 vpn-features-money-back = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-features-plus-customer-support = Илова бар ин, дастгирии корбарон дар муддати 24/7.
 vpn-features-we-never-log = Мо ҳеҷ вақт маълумоти интернетии шуморо дар шабака сабт, пайгирӣ ё мубодила намекунем
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Оддӣ карда гӯем, мо маълумоти шахсии интернетии шуморо ҷамъ намекунем. Дар ин ҷой <a { $privacy }>сиёсати махфияти осонфаҳми моро мутолиа намоед</a>.
 vpn-features-built-transparently = Дар муҳити манбаи кушод бо кори бошарафона сохта шудааст
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = Барномаи «{ -brand-name-mozilla-vpn }» дар асоси рамзи кушод сохта шудааст, ки маънои онро дорад, ки тамоми рамзи барномарезӣ ба таври оммавӣ дастрас аст. Ба <a { $github }>анбори маълумоти мо дар «GitHub»</a> нигаред.
 vpn-features-reviewed-by-third = Аз ҷониби мутахассисони амнияти тарафҳои сеюм аз назар гузаронида шудааст
 vpn-features-people-over-profits = Одамон нисбат ба фоидаи молӣ афзалият доранд
