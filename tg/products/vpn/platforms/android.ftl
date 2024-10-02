@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
+# Meta strings
+vpn-android-page-title = «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-android }»
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios
 
+# Meta strings
+vpn-ios-page-title = «{ -brand-name-mozilla-vpn }» барои «{ -brand-name-ios }» («{ -brand-name-iphone }» ва «{ -brand-name-ipad }»)
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Гирифтани дастрасӣ дар { $devices } дастгоҳ

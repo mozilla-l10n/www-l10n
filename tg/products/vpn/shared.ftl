@@ -35,6 +35,9 @@ vpn-shared-features-protection = Муҳофизат барои то { $devices }
 #   $countries (number) - number of available countries
 vpn-shared-features-server-countries = Пайвастшавӣ ба зиёда аз { $servers } сервер дар зиёда аз { $countries } кишвар
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-countries-coming-soon = То ҳол дар { $countries } кишвар дастрас аст. Минтақаҳои бештар ба зудӣ меоянд
+# Variables:
 #   $url (number) - link to https://mullvad.net/servers/
 #   $attrs (string) - specific attributes added to external links
 vpn-shared-features-full-list-servers = Ба рӯйхати пурраи <a href="{ $url }" { $attrs }>серверҳои мо</a> нигаред.
@@ -49,6 +52,7 @@ vpn-shared-features-guarantee = Кафолати 30-рӯза барои бозп
 vpn-shared-refund-policy = Сиёсати бозпардохт
 vpn-shared-privacy-notice = Огоҳномаи махфият
 vpn-shared-terms-conditions = Шартҳои истифодабарӣ
+vpn-shared-wireguard-copyright = «{ -brand-name-wireguard }» тамғаи молии бақайдгирифташудаи Ҷейсон А. Доненфелд мебошад
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -118,6 +122,9 @@ vpn-subnav-features = Хусусиятҳо
 ## VPN + Relay bundle offer
 
 vpn-shared-increase-your-privacy = Сатҳи махфияти худро тавассути «{ -brand-name-vpn }» + «{ -brand-name-relay }» баланд бардоред
+# Variables:
+#   $url (string) - link to https://relay.firefox.com/premium/
+vpn-add-relay-to-protect = Барои ҳифз кардани нишонии почтаи электронӣ ва рақами телефони худ, имкони «{ -brand-name-firefox-relay }»-ро ба обунаи худ илова кунед. <a href="{ $url }">Маълумоти бештар</a>.
 # Variables:
 #   $class_name (string) - CSS class name used to replace brand name with wordmark logo
 vpn-shared-add-firefox-relay = Илова кардани <span class="{ $class_name }">«{ -brand-name-firefox-relay }»</span>

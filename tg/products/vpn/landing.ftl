@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-page-title = «{ -brand-name-mozilla-vpn }»: Тамоми дастгоҳи худро муҳофизат намоед
 vpn-landing-fast-secure-heading = Шабакаи тезкор ва бехатар
 vpn-landing-brand-trust-heading = «VPN» аз тамғаи молие, ки шумо ба он эътимод доред
 

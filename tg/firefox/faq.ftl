@@ -45,6 +45,7 @@ does-firefox-use = Браузери «{ -brand-name-firefox }» аз «{ -brand-
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+does-firefox-have = Браузери «{ -brand-name-firefox }» барномаи VPN-и дарунсохтро бар бар мегирад?
 who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 
 # Variables:
