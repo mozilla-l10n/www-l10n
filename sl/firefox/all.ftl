@@ -54,6 +54,7 @@ firefox-all-download-esr-version = Prenesi { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Smo v prehodnem obdobju med večjima različicama ESR { $esr_next_major } in { $esr_current_major }.
+firefox-all-esr-if-you-choose = Če se odločite za prenos starejše različice ESR, se bo po izteku prehodnega obdobja samodejno posodobila na novo.
 firefox-all-check-the-system-requirements = Preverite sistemske zahteve
 firefox-all-release-notes = Opombe ob izdaji
 firefox-all-source-code = Izvorna koda
@@ -91,3 +92,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } za iOS – TestFlight
