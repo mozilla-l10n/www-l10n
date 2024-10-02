@@ -7,4 +7,5 @@
 
 welcome-page4-get-the-firefox-mobile = «{ -brand-name-firefox }»-и мобилиро ба даст оред
 welcome-page4-get-firefox-on-your-phone = «{ -brand-name-firefox }»-ро барои телефони мобилии худ ба даст оред
+welcome-page4-download-firefox-for-your = Браузери «{ -brand-name-firefox }»-ро барои смартфон ва планшети худ боргирӣ намоед.
 welcome-page4-why-am-i-seeing-this = Чаро ман инро дида истодаам?
