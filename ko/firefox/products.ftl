@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = { -brand-name-mozilla } 제품
+# HTML page description
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla }의 모든 제품군은 온라인 환경에서 더 안전하고 똑똑하게 생활할 수 있도록 설계되었습니다.
+firefox-products-products = 제품
 
 ## Firefox
 
@@ -48,6 +53,4 @@ firefox-products-fakespot = { -brand-name-fakespot }
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = 웹에서 최고의 콘텐츠를 찾고 언제 어디서나 원할 때 사용할 수 있습니다.
 firefox-products-get-pocket = { -brand-name-pocket } 사용하기
