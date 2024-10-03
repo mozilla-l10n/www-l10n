@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -35,3 +35,4 @@ firefox-mobile-the-privacy-you-deserve-the = 여러분이 원한 사생활 보�
 firefox-mobile-get-firefox-for-mobile = 모바일용 { -brand-name-firefox }를 사용해보세요
 firefox-mobile-send-a-download-link-to-your = 휴대폰으로 다운로드 링크를 받아보세요.
 firefox-mobile-scan-the-qr-code-to-get-started = QR코드로 다운로드
+firefox-mobile-scan-alt-text = QR 코드를 스캔하여 모바일용 { -brand-name-firefox } 다운로드

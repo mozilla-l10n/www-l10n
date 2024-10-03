@@ -9,8 +9,10 @@ firefox-home-firefox-protect-your = { -brand-name-firefox } - 사생활 보호�
 firefox-home-firefox-is-more-than = { -brand-name-firefox }는 브라우저 그 이상입니다. 개인 데이터를 존중하고 온라인 어디에서나 개인정보를 보호하기 위해 설계된 { -brand-name-firefox } 제품군에 대해 자세히 알아보세요.
 # Obsolete string
 firefox-home-the-browser-is-just = 브라우저는 시작일 뿐입니다
+firefox-home-firefox-is-just = { -brand-name-firefox }는 시작에 불과합니다.
 # Obsolete string
 firefox-home-meet-our-family-of = Firefox의 제품군을 만나보세요
+firefox-home-meet-mozillas-family = { -brand-name-mozilla }의 제품군을 만나 보세요.
 firefox-home-get-trackers-off = { -brand-name-facebook }을 포함한 2000개 이상의 추적기로부터 벗어나세요
 firefox-home-know-when-hackers-strike = 해커의 공격 시점을 알고 — 한 발 더 앞서 나가세요
 firefox-home-start-getting-breach = 데이터 유출 보고서 받기
@@ -20,6 +22,7 @@ firefox-home-try-relay = { -brand-name-relay } 사용해보기
 firefox-home-get-the-respect-you = 받아야 할 <strong>존중</strong>을 받으세요
 # Obsolete string
 firefox-home-every-single-firefox = 각각의 { -brand-name-firefox } 제품은 개인정보 약속을 존중합니다: <strong>적게 가집니다. 안전하게 보관합니다. 숨기지 않습니다.</strong>
+firefox-home-every-single-mozilla = 각각의 { -brand-name-mozilla } 제품은 개인정보 약속을 존중합니다: <strong>적게 가집니다. 안전하게 보관합니다. 숨기지 않습니다.</strong>
 firefox-home-trade-clickbait-for = 낚시기사를 양질의 컨텐츠로 대체하세요
 firefox-home-learn-more-about-pocket = { -brand-name-pocket }에 대해 더 알아보기
 firefox-home-protection-for-your-whole = 모든 기기에서 전체 기기를 보호합니다.

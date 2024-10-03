@@ -16,10 +16,9 @@ installer-help-action-choose = 아래에서 다운로드를 선택하세요.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
-# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = 최신 버전을 다운로드하세요. 자동 개인정보보호 기능이 있습니다. { -brand-name-firefox-browser }를 다운 받아 { $trackers }개가 넘는 추적기를 차단하세요.
+installer-help-firefox-release-desc-v2 = 최신 버전을 다운로드하세요. 자동 개인정보보호 기능이 있습니다. { -brand-name-firefox }를 다운 받아 { $trackers }개가 넘는 추적기를 차단하세요.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = 정식 출시 전 안정된 버전에서 새로운 기능을 테스트할 수 있습니다.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
