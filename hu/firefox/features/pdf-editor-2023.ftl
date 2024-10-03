@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-szerkesztő
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Adjon hozzá szöveget PDF-ekhez a { -brand-name-firefox } PDF-szerkesztővel
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Szerkesszen ingyenesen PDF-eket a { -brand-name-firefox } PDF szerkesztőjével
 # HTML page description
@@ -21,7 +19,7 @@ pdf-editor-add-text = Szöveg hozzáadása
 pdf-editor-open-the-pdf-in-firefox-click-text = Nyissa meg a PDF-et a { -brand-name-firefox }ban. Kattintson a Szöveg gombra a szöveg színének és méretének beállításához, mielőtt kijelölné, hogy hová adná hozzá a szöveget a dokumentumhoz. Ilyen egyszerű!
 pdf-editor-add-drawings-or-your-signature = Rajzok (vagy az aláírása) hozzáadása
 pdf-editor-open-the-pdf-in-firefox-click-draw = Nyissa meg a PDF-et a { -brand-name-firefox }ban. Kattintson a Rajz ikonra a szín, a vastagság és az átlátszatlanság kiválasztásához, mielőtt rajzolna a dokumentumra. Valószínűleg nem lesz rendetlenebb, mint a szokásos aláírás!
-pdf-editor-add-image-with-alt-text = Kép hozzáadása alt szöveggel
-pdf-editor-open-pdf-click-image-icon = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Kattintson a kép ikonra, amely kéri a kép feltöltését. Igény szerint módosítsa a kép méretét és elhelyezését. Kattintson a „+Alt szöveg” gombra a képen, hogy leírást adjon hozzá a képhez, hogy akadálymentesebbé tegye a PDF-jét.
+pdf-editor-add-image-with-alt-text = Kép hozzáadása alternatív szöveggel
+pdf-editor-open-pdf-click-image-icon = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Kattintson a kép ikonra, amely a kép feltöltését kéri. Igény szerint módosítsa a kép méretét és elhelyezését. Kattintson az „+Alternatív szöveg” gombra a képen, hogy leírást adjon hozzá a képhez, hogy akadálymentesebbé tegye a PDF-et.
 pdf-editor-create-a-highlight = Kiemelés létrehozása
 pdf-editor-select-text-you-want-to = Nyissa meg a PDF-t a { -brand-name-firefox }ban. Jelölje ki a kiemelendő szöveget, majd kattintson a kiemelés ikonra, amely a kijelölése alatt jelenik meg, vagy kattintson jobb gombbal, hogy megtalálja a kiemelési lehetőséget a helyi menüben. Kattintson a jobb felső sarokban található ikonra, hogy a PDF egyes részeinek szabadkézi kiemeléséhez.
