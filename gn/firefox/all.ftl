@@ -52,6 +52,9 @@ firefox-all-download-esr-version = Emboguejy { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Romba’aporoína umi apopyre rekoporãverã rehe ESR { $esr_next_major } ha { $esr_current_major }.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Emoñe’ẽve <a { $attrs }>araka’éta oñemoherakuãta { -brand-name-firefox-esr }</a> rehegua.
 firefox-all-check-the-system-requirements = Ehechajey apopyvusu jerurepy
 firefox-all-release-notes = Jehaipy rehegua
 firefox-all-source-code = Ayvu reñoiha
@@ -66,6 +69,7 @@ firefox-all-count-on-stability-and = Ereko tekopyta ha ndahasýi iporu ko { -bra
 firefox-all-windows-installers-for = Umi Windows ñemohendaha hetápe g̃uarãva nombohasýiva ñemboheko, ñemoasãi ha { -brand-name-firefox-browser } ñangareko.
 firefox-all-arm64-installers = ARM64/AArch64 ñemohenda
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ñemohendaha PCs-pe g̃uarã Windows ha Linux ndive.
+firefox-all-testflight = Eñemboheraguapy eiporu hag̃ua { -brand-name-firefox } iOS-pe g̃uarã TestFlight ndive
 firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
