@@ -36,6 +36,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ndereiporukuaamo’�
 vpn-pricing-faqs = FAQs
 vpn-pricing-refund-policy = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia porureko?
 vpn-pricing-the-first-time-you = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
+vpn-pricing-if-you-purchased = Rejoguáramo pe ñemboheraguapy tembiporu’i Apple App Store térã Google Play Store-gui, pe ñehepyme’ẽ ojokupytyva’erãha ñemuha he’iháicha rehe. Eporanduva’erã oimeraẽ mba’e mbokuatia ha ñemboujey jejoguakue rehegua Apple térã Google-pe, ojerureháicha.
 vpn-pricing-what-information = ¿Mba’e marandu oñongatu { -brand-name-mozilla-vpn }?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
