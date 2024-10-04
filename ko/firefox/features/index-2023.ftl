@@ -31,8 +31,11 @@ features-index-eyedropper-tool = 스포이트 도구
 features-index-identify-the-exact-color-on-a = 페이지에서 정확한 색상을 확인하고 16진수 색상 코드를 복사하세요.
 features-index-pdf-editor = PDF 편집기
 features-index-view-and-edit-pdf-files = { -brand-name-firefox } 안에서 PDF 파일을 바로 보고 편집하세요.
+features-index-fingerprint-blocking = 디지털 지문 차단
 features-index-ad-tracker-blocking = 광고 추적기 차단
 features-index-firefox-automatically-blocks = { -brand-name-firefox }는 2000 개 이상의 광고 추적기가 인터넷에서 사용자를 추적하지 못하도록 자동으로 차단합니다.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = { -brand-name-firefox }에 내장된 디지털 지문 차단기를 이용하여 여러분을 따라오는 끈질긴 광고를 떼버리세요.
 features-index-translate-the-web = 웹 번역
 features-index-translate-websites-to-your = 브라우저 안에서 웹사이트를 { -brand-name-firefox } 사용하는 언어로 바로 번역하세요. 다른 사람과 데이터를 공유하지 않아도 됩니다.
 features-index-picture-in-picture = 화면 속 화면

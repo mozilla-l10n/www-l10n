@@ -53,6 +53,7 @@ manifesto-show-your-support = 후원하기
 manifesto-an-internet-with-these = 우리가 원하는 인터넷은 자연적으로 되지 않습니다. 개인과 기업은 인터넷 기술과 인터넷을 통한 인간의 경험에 이러한 포부를 내포해야합니다. { -brand-name-mozilla } 선언문({ -brand-name-mozilla } Manifesto)과 부록(Addendum)은 이러한 포부를 발전시키기위한 { -brand-name-mozilla }의 노력을 나타냅니다. 우리는 인터넷을 모든 사람에게 더 좋은 곳으로 만들기 위해 사명을 함께 공유하는 사람 및 커뮤니티, 기업과 모든 영역에서 함께 일하는 것을 목표로합니다.
 manifesto-i-support-the-vision-of = @mozilla의 건강하고 나은 인터넷에 대한 꿈을 지지해 주십시오.
 manifesto-share-on-x = X에 공유
+manifesto-share-on-x-aria-label = X(구 트위터)에 공유
 manifesto-our-10-principles = <strong>10가지</strong>  원칙
 manifesto-read-the-entire-manifesto = 전체 헌장 읽기
 manifesto-love-the-web = 웹을 사랑하시나요?
