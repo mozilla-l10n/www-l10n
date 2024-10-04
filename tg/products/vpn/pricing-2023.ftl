@@ -34,5 +34,6 @@ vpn-pricing-get-monthly-subscription = Ба даст овардани обуна
 vpn-pricing-vpn-not-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Саволҳои роиҷ (FAQ)
+vpn-pricing-refund-policy = Сиёсати бозпардохти маблағҳои шумо дар «{ -brand-name-mozilla-vpn }» чӣ гуна аст?
 vpn-pricing-what-information = «{ -brand-name-mozilla-vpn }» кадом маълумотро нигоҳ медорад?
 vpn-pricing-how-do-i-manage = Чӣ тавр ман обунаи худро идора мекунам ва нақшаи худро иваз мекунам?

@@ -95,6 +95,7 @@ vpn-shared-pricing-total-plus-tax = Ҳамагӣ: { $amount } + андоз
 
 vpn-shared-platform-cta-headline = Биёед оғоз намоем
 vpn-shared-platform-cta-button = Дидани нархнома ва дастрасӣ
+vpn-shared-platform-privacy-promise = Ваъдаи мо — махфияти шумо
 vpn-shared-platform-trust-partner-headline = Дар бораи шарики боэътимоди мо
 vpn-shared-platform-what-is = «{ -brand-name-mozilla-vpn }» чӣ аст?
 vpn-shared-platfrom-why-choose = Чаро «{ -brand-name-mozilla-vpn }»?
