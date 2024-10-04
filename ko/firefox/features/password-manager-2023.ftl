@@ -28,3 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = 웹에서 로그인할 �
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = 향후 사용을 위해 자동으로 저장될 강력한 비밀번호를 제안하는 { -brand-name-firefox }로 연 웹사이트의 가입 양식 이미지
 password-manager-password-security-alerts = 비밀번호 보안 경고
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox }는 데이터 유출로 인해 <a { $attrs }>비밀번호가 노출되었을 경우 사용자에게 알려</a> 해커가 사용자의 신용카드로 람보르기니를 대여하는 등 뭔가를 하기 전에 비밀번호를 변경할 수 있도록 합니다.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = “이 비밀번호는 데이터 유출에 포함되었을 가능성이 있는 다른 계정에서 사용되었습니다. 로그인 정보를 재사용하면 사용자의 모든 계정이 위험해집니다. 비밀번호를 변경하세요."라고 쓰여 있는 경고 메시지를 표시하는 { -brand-name-firefox } 비밀번호 관리자의 이미지
