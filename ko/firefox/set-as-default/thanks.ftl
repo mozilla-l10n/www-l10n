@@ -22,11 +22,8 @@ set-as-default-thanks-youre-all-set = 모두 준비되었습니다.
 set-as-default-thanks-get-firefox-for-mobile = 모바일용 { -brand-name-firefox } 다운로드
 set-as-default-thanks-travel-the-internet-with = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
 set-as-default-thanks-download-the-app = 앱 다운로드
-# Obsolete string
-set-as-default-thanks-join-firefox = { -brand-name-firefox } 가입하기
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = 무료 계정에 가입하고 모든 비밀번호, 방문기록, 설정을 기기 간에 동기화하세요.
 set-as-default-create-an-account = 계정 만들기
+set-as-default-thanks-sign-up-for-a-free-account-v2 = 무료 { -brand-name-mozilla-account } 계정에 가입하고 모든 비밀번호와 방문 기록, 설정을 기기 간에 동기화하세요.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = 계정 만들기
 set-as-default-thanks-having-trouble = 문제가 있으신가요?

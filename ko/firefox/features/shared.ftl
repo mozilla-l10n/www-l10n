@@ -20,5 +20,6 @@ features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox }
 features-shared-pinned-browser-tabs = 고정된 브라우저 탭
 features-shared-eyedropper-tool = 스포이트 도구
 features-shared-pdf-editor = PDF 편집기
+features-shared-fingerprinter-blocking = 디지털 지문 차단
 features-shared-translate-the-web = 웹 번역
 features-shared-picture-in-picture = 화면 속 화면

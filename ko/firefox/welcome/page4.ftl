@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -8,7 +8,9 @@
 # HTML page title
 welcome-page4-download-the-firefox-browser = 모바일 기기에 { -brand-name-ios } 및 { -brand-name-android } 용 { -brand-name-firefox-browser }를 다운로드하세요
 welcome-page4-wallet-keys-phone-firefox = 지갑. 열쇠. 휴대폰. <strong>{ -brand-name-firefox }.</strong>
+welcome-page4-privacy-every-screen-now = 이제 모든 기기에서 개인 정보 보호
 welcome-page4-take-privacy-with-you-on-every = 모든 기기에서 개인 정보를 보호하세요 — 데이터 추적에서 벗어나세요.
+welcome-page4-privacy-on-by-default = 새로운 { -brand-name-android }용 { -brand-name-firefox }는 개인 정보 보호 기능이 기본으로 활성화됩니다. 또한 { -brand-name-ios } 14에서 { -brand-name-firefox }를 기본 브라우저로 설정할 수 있습니다.
 welcome-page4-get-the-firefox-mobile = { -brand-name-firefox } Mobile 받기
 welcome-page4-get-firefox-on-your-phone = 스마트폰에 { -brand-name-firefox } 설치하기
 welcome-page4-send-the-download-link-right = 휴대전화나 이메일로 다운로드 링크를 전송하세요.
@@ -17,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = { -brand-name-ios } 혹은 { -brand
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = 데이터 추적에서 벗어나세요
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = 향상된 추적 보호 기능을 통해 사용자를 추적하는 <a href="{ $privacy }">2천개 이상의 추적기를 차단합니다</a>.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = 흔적을 남기지 마세요

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,8 @@ manifesto-we-are-committed-to-diverse = 우리는 공공의 이익을 위해 함
 manifesto-show-your-support = 후원하기
 manifesto-an-internet-with-these = 우리가 원하는 인터넷은 자연적으로 되지 않습니다. 개인과 기업은 인터넷 기술과 인터넷을 통한 인간의 경험에 이러한 포부를 내포해야합니다. { -brand-name-mozilla } 선언문({ -brand-name-mozilla } Manifesto)과 부록(Addendum)은 이러한 포부를 발전시키기위한 { -brand-name-mozilla }의 노력을 나타냅니다. 우리는 인터넷을 모든 사람에게 더 좋은 곳으로 만들기 위해 사명을 함께 공유하는 사람 및 커뮤니티, 기업과 모든 영역에서 함께 일하는 것을 목표로합니다.
 manifesto-i-support-the-vision-of = @mozilla의 건강하고 나은 인터넷에 대한 꿈을 지지해 주십시오.
-manifesto-share-on-twitter = { -brand-name-twitter } 공유하기
+manifesto-share-on-x = X에 공유
 manifesto-our-10-principles = <strong>10가지</strong>  원칙
-manifesto-use-open-badges-to-share = 관심사와 재능을 오픈뱃지를 통해 나누기
-manifesto-explore-how-the-web-impacts = 과학에서 웹 활용하기
-manifesto-learn-about-open-source = 뉴스 저널리즘에서 오픈 소스 활용하기
-manifesto-read-about-open-internet = 개방 인터넷 정책 제안 및 지원 방법 알기
-manifesto-explore-how-to-help-keep = 웹을 개방 공간으로 유지하기
-manifesto-see-how-the-web-can-connect = 웹을 통해 건강 정보와 연결하기
-manifesto-explore-how-the-web-works = 웹 활동 방법 탐험
-manifesto-see-how-mozilla-works = { -brand-name-mozilla }의 개인 정보 최우선 정책에 대해 알기
-manifesto-read-about-developments = 개인 정보 및 데이터를 안전하게 지키는 방법 알기
-manifesto-learn-more-about-how-to = 온라인에서 스스로를 지키는 방법 알기
-manifesto-use-these-free-tools-to = 웹 기술 교육에 무료 도구 활용하기
-manifesto-learn-about-creating-and = 웹 콘텐츠 제작 및 큐레이팅 방법 배우기
-manifesto-add-new-voices-to-open = 오픈 소스 기술에 새로운 소식 전달하기
-manifesto-set-your-do-not-track = 방문자 추적 기능(DNT) 설정하기
-manifesto-understand-the-web-ecosystem = 웹 생태계 이해하기
-manifesto-explore-how-open-practices = 웹 접근성을 지키기 위한 다양한 베스트 프랙티스 보기
-manifesto-learn-how-to-remix-content = 웹 콘텐츠 리믹스를 통한 새로운 창작물 만들기
-manifesto-learn-how-to-maximize = 웹의 가능성을 최대화 하는 방법을 알아보기
-manifesto-participate-in-our-governance = 거버넌스 포럼 참여하기
-manifesto-join-us-as-a-volunteer = 자원 봉사 참여
-manifesto-learn-how-to-collaborate = 온라인 협력 방법 상세 보기
-manifesto-visualize-who-you-interact = { -brand-name-lightbeam }으로 웹 활동에 대해 시각화하기
-manifesto-learn-about-creating-web = 서로 웹 콘텐츠를 만드는 방법을 배우기
-manifesto-host-or-join-a-maker-party = { -brand-name-maker-party } 참여 또는 주최하기
-manifesto-learn-how-to-build-online = 온라인 협력 방법 및 도구 익히기
 manifesto-read-the-entire-manifesto = 전체 헌장 읽기
 manifesto-love-the-web = 웹을 사랑하시나요?
 manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } 뉴스레터 구독을 통해 다양한 소식을 들어보세요.
