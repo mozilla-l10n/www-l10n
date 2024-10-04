@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } 可以�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = 借助<a { $fxa }>免费的 { -brand-name-mozilla-account }</a>，您可以在所有设备间安全地同步密码，还可以使用 { -brand-name-mozilla } 其余全部尊重隐私的产品。
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = 您还可以使用<a href="{ $fxa }">免费的 { -brand-name-mozilla-account }</a>来在所有设备间安全同步密码。
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = 您还可以使用<a href="{ $fxa }">免费的 { -brand-name-firefox } 账户</a>来在所有设备间安全同步密码。
 password-manager-password-autofill-for-easy-logins = 自动填写密码，让登录更轻松
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } 可以自动填写您保存的用户名和密码。如果您在一个网站上有多条登录信息，那么只需选择您想要使用的账户，即可填写对应账户的登录信息。
 # Used as an accessible text alternative for an image
@@ -41,4 +33,4 @@ password-manager-password-security-alerts = 密码安全警报
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
 password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } 会<a { $attrs }>在您的密码出现数据外泄事件中时警告您</a>，这样您就可以在黑客用您的信用卡去租兰博基尼（或做诸如此类的事情）前及时更改密码。
 # Used as an accessible text alternative for an image
-password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } 密码管理器的图片，显示着“此密码已用于另一个可能已遭外泄的账号。重复使用登录信息会使您的所有账号面临风险。请更改此密码。”字样的警报消息。
+password-manager-image-of-the-firefox-password-manager = { -brand-name-firefox } 密码管理器的图片，显示着“此密码已用于另一个可能已遭外泄的账户。重复使用登录信息会使您的所有账户面临风险。请更改此密码。”字样的警报消息。
