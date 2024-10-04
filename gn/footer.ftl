@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 footer-privacy-hub = Ñemigua Ñe’ã
 footer-privacy = Ñemigua
 footer-press = Jopy
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog oñondivegua
 footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Kundahára Atyguasu
 footer-brand-standards = Marca reko’ypy
@@ -40,8 +38,6 @@ footer-websites-legal = Añetegua
 footer-language = Ñe’ẽ
 footer-go = Ho
 footer-donate = Me’ẽ
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (yma hérava Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
 footer-follow-firefox = Ehapykueho @{ -brand-name-firefox }
 footer-about-this-site = Ko tenda rehegua
+footer-advertise = Emoherakuã { -brand-name-mozilla } ndive
