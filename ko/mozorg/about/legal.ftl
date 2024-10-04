@@ -36,4 +36,5 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } 서비스 약관
 legal-report-copyright = 저작권 또는 상표권 침해 신고
 legal-mozilla-subscription-services = { -brand-name-mozilla } 구독 서비스
+legal-content-moderation = 콘텐츠 중재 관행
 legal-amo-policies = AMO 정책
