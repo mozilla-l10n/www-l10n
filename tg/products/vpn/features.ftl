@@ -74,3 +74,6 @@ vpn-features-reviewed-by-third = Аз ҷониби мутахассисони а
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Мо аз ҷониби «Cure53», ширкати пешбар барои гузаронидани аудити амнияти компютерӣ, тафтиш карда шудем. <a { $report }>Ба гузориши аудит дар ин ҷо дастрасӣ пайдо намоед</a>.
 vpn-features-people-over-profits = Одамон нисбат ба фоидаи молӣ афзалият доранд
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Моро <a { $mofo }>«{ -brand-name-mozilla-foundation }»</a> дастгирӣ мекунад ва ин ташкилоти ғайритиҷоратие аст, ки барои нигоҳдории Интернети кушод ва солим барои ҳамаи мо мубориза мекунад.
