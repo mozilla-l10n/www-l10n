@@ -18,6 +18,7 @@ newsletter-form-join-the-community = Ejuaju tekoha rehe
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
+newsletter-form-we-will-only-send-v2 = Roguerahaukáta ndéve marandu { -brand-name-mozilla } rehegua. Esẽkuaa chugui ejapose vovénte.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Ore roguerahauka marandu { -brand-name-mozilla } rehegua añónte.
 newsletter-form-we-will-only-send-firefox-v2 = Romondóta marandu { -brand-name-firefox } rehegua. Esẽkuaa chugui ejapose vovénte.
