@@ -9,6 +9,8 @@
 firefox-all-download-the-firefox-v2 = Emboguejy { -brand-name-firefox } inglés-pe (US) ha avei hetaiteve 90 ñe’ẽme oĩva
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Emboguejy { -brand-name-firefox-browser } guaraníme (GN) ha avei hetaiteve 90 ñe’ẽme oĩva
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõhara arapygua ndive — rojapo { -brand-name-firefox } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõharakuéra arapygua ndive — rojapo { -brand-name-firefox-browser } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
 # Variables:
