@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 footer-privacy-hub = Tietosuojakeskus
 footer-privacy = Tietosuoja
 footer-press = Lehdistö
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Yritysblogi
 footer-mozilla-blog = { -brand-name-mozilla }-blogi
 footer-browser-comparison = Selainten vertailu
 footer-brand-standards = Brändistandardit
@@ -40,8 +38,6 @@ footer-websites-legal = Juridiset asiat
 footer-language = Kieli
 footer-go = Siirry
 footer-donate = Lahjoita
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (entinen Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Seuraa @{ -brand-name-mozilla }
 footer-follow-firefox = Seuraa @{ -brand-name-firefox }
 footer-about-this-site = Tietoja tästä sivustosta
+footer-advertise = Mainosta { -brand-name-mozilla }n avulla

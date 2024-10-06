@@ -13,14 +13,14 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Valitse maa tai alue
 newsletter-form-select-language = Valitse kieli
 newsletter-form-your-email-here = KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
-newsletter-form-format = Formaatti
-newsletter-form-html = HTML
-newsletter-form-text = Teksti
 newsletter-form-get-firefox-news = Tilaa { -brand-name-firefox }-uutiset
+newsletter-form-join-the-community = Liity yhteisöön
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Minulle sopii, että { -brand-name-mozilla } käsittelee tietojani <a href="{ $url }">tietosuojaselosteen</a> mukaisesti
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Lähetämme vain { -brand-name-mozilla }an liittyviä tietoja.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Lähetämme vain { -brand-name-firefox }iin liittyviä tietoja.
 newsletter-form-if-you-havent-previously = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut { -brand-name-mozilla }an liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + sinä
@@ -35,6 +35,8 @@ newsletter-form-thanks = Kiitos!
 newsletter-form-leave-this-field-empty = Jätä tämä kenttä tyhjäksi.
 newsletter-form-yes = Kyllä
 newsletter-form-no = Ei
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Uutiskirjeen tilauslomake
 multi-newsletter-form-checkboxes-legend = Haluan tietoa aiheesta:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
