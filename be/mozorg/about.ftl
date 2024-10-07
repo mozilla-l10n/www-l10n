@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -18,12 +18,10 @@ about-read-our-mission = Чытайце нашу місію
 about-our-mission-in-action = Наша місія ў дзеянні
 about-pioneers-of-the-open-web = Піянеры адкрытага сеціва
 about-our-leadership-has-been-at = Наша кіраўніцтва знаходзіцца на пярэднім краі будоўлі здаровага інтэрнэту з самага першага дня. Тое, што пачыналася як альтэрнатыва панаванню карпарацый, ператварылася ў глабальны рух за лепшае сеціва.
-about-firefox-fast-for-good = { -brand-name-firefox }: Хутка на добра
+about-firefox-fast-for-good = { -brand-name-firefox }: Хуткі назаўсёды
 about-when-you-use-the-new-firefox = Калі вы выкарыстоўваеце новы { -brand-name-firefox }, вы атрымліваеце вокамгненны вэб-сёрфінг і адначасова падтрымліваеце місію { -brand-name-mozilla } трымаць Інтэрнэт здаровым, дзіўным і гасцінным для ўсіх.
 about-walking-our-privacy-talk = Гутарым аб нашай прыватнасці
 about-when-the-facebook-breach-was = Калі злоўжыванні ў { -brand-name-facebook } былі выяўлены, ад { -brand-name-mozilla } прыйшоў неадкладны адказ – і быў створаны прадукт для { -brand-name-firefox } для падтрымкі карыстальніцкай прыватнасці.
-about-talking-internet-issues-irl = Абмяркоўваем праблемы Інтэрнэта ў рэале
-about-in-mozillas-irl-podcast-host = У IRL-падкасце ад { -brand-name-mozilla } сп. Manoush Zomorodi дзеліцца рэальнымі гісторыямі жыцця ў сеціве і размаўляе пра будучыню Інтэрнэту.
 about-corporation-foundation-not = Карпарацыя. Фонд. Не дзеля прыбытку.
 about-learn-about-the-mozilla-foundation = Даведайцеся аб { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } ставіць людзей вышэй за прыбытак ва ўсім, што мы кажам, будуем і робім. Насамрэч, некамерцыйны фонд знаходзіцца ў цэнтры нашай карпарацыі.

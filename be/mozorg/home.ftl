@@ -8,9 +8,9 @@
 home-internet-for-people-not-profit = Інтэрнэт для людзей, а не для прыбытку
 home-did-you-know-mozilla-the-maker = Ці ведаеце вы, што { -brand-name-mozilla } — стваральнік { -brand-name-firefox } — змагаецца за тое, каб Інтэрнэт быў глабальным публічным рэсурсам, адкрытым і даступным для ўсіх і кожнага?
 home-firefox-browser = { -brand-name-firefox-browser }
-home-fast-for-good = Хуткі на добра.
+home-fast-for-good = Хуткі назаўсёды
 home-with-2x-the-speed-built-in = З падвоенай хуткасцю, убудаванай аховай прыватнасці і падтрымкай кампаніі { -brand-name-mozilla }, новы { -brand-name-firefox } - найлепшы спосаб аглядання сеціва.
-home-we-make-the-internet-safer = Мы робім інтэрнэт бяспечнейшым, здаравейшым і хутчэйшым на добра.
+home-we-make-the-internet-safer = Мы робім інтэрнэт бяспечнейшым, здаравейшым і хутчэйшым назаўжды.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } - некамерцыйная арганізацыя, што стварыла { -brand-name-firefox }, першы альтэрнатыўны браўзер. Мы ствараем прадукты і стратэгіі, каб трымаць інтэрнэт у інтарэсах людзей, а не прыбытку.
 home-our-impact = Наш уплыў
 home-when-you-use-firefox-you-help = Калі вы карыстаецеся { -brand-name-firefox }, вы дапамагаеце кампаніі { -brand-name-mozilla } змагацца з дэзынфармацыяй у сеціве, навучаць лічбавым тэхналогіям і рабіць раздзел каментарыяў больш чалавечным. Паглядзіце, што дапамагае ствараць здаравейшы інтэрнэт.
