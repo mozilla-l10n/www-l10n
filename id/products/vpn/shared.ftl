@@ -7,23 +7,12 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Dapatkan { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Bergabunglah ke Daftar Tunggu
-vpn-shared-sign-in-link = Sudah menjadi pelanggan?
 
 vpn-shared-available-countries-v6 = Saat ini kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgia, Bulgaria, Kanada, Kroasia, Siprus, Republik Ceko, Denmark, Estonia, Finlandia, Prancis, Jerman, Hungaria, Irlandia, Italia, Latvia, Lituania, Luksemburg, Malaysia, Malta, Belanda, Selandia Baru, Polandia, Portugal, Rumania, Singapura, Slovenia, Slovakia, Spanyol, Swedia, Swiss, Inggris, dan AS.
 
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan uang kembali selama 30 hari
-
-# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Unggulan di
-
 vpn-shared-features-encrypt = Enkripsi di tingkat perangkat
-
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-servers = { $servers }+ server di { $countries }+ negara
-
 vpn-shared-features-bandwidth = Tidak ada batasan bandwidth
 vpn-shared-features-activity = Tidak ada pencatatan aktivitas jaringan Anda
 vpn-shared-features-activity-logs = Tanpa log aktivitas daring, sekarang dan selamanya
@@ -33,26 +22,8 @@ vpn-shared-features-activity-logs = Tanpa log aktivitas daring, sekarang dan sel
 vpn-shared-features-access-countries = Akses ke server di { $countries }+ negara
 
 # Variables:
-#   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Opsi untuk menghubungkan hingga { $devices } perangkat
-
-# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Perlindungan untuk hingga { $devices } perangkat
-
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Terhubung ke lebih dari { $servers } server di lebih dari { $countries } negara
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Sekarang tersedia di { $countries } negara. Segera hadir di wilayah lainnya
-
-# Variables:
-#   $url (number) - link to https://mullvad.net/servers/
-#   $attrs (string) - specific attributes added to external links
-vpn-shared-features-full-list-servers = Lihat daftar <a href="{ $url }" { $attrs }>server kami</a> selengkapnya.
 
 # Variables:
 #   $countries (number) - number of available countries
@@ -65,24 +36,13 @@ vpn-shared-features-connect = Hubungkan hingga { $devices } perangkat
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Jaminan uang kembali selama 30 hari
 
-vpn-shared-refund-policy = Kebijakan Pengembalian Dana
 vpn-shared-privacy-notice = Pemberitahuan Privasi
 vpn-shared-terms-conditions = Syarat dan Ketentuan
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } adalah merek dagang terdaftar dari Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading-v2 = Pilih paket berlangganan yang cocok untuk Anda
-
-vpn-shared-one-subscription-heading = Satu langganan untuk semua perangkat Anda
-vpn-shared-choose-a-plan-sub-heading = Pilih paket yang sesuai untuk Anda
-
-vpn-shared-pricing-variable-sub-heading = Semua paket kami meliputi:
 vpn-shared-pricing-recommended-offer = Direkomendasikan
-
-vpn-shared-pricing-plan-12-month-v2 = Paket 12 Bulan
-
-vpn-shared-pricing-plan-monthly-v2 = Paket bulanan
 
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
@@ -92,9 +52,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/bulan</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/bulan + pajak</span>
-
-vpn-shared-pricing-get-12-month-v2 = Dapatkan paket 12 bulan
-vpn-shared-pricing-get-monthly = Dapatkan paket bulanan
 
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
@@ -123,62 +80,16 @@ vpn-shared-pricing-total-plus-tax = { $amount } total + pajak
 
 vpn-shared-platform-cta-headline = Mari mulai
 vpn-shared-platform-cta-button = Lihat harga & ketersediaan
-
 vpn-shared-platform-privacy-promise = Privasi Anda adalah janji kami
-
-vpn-shared-platform-trust-partner-headline = Tentang mitra tepercaya kami
-
 vpn-shared-platform-what-is = Apakah { -brand-name-mozilla-vpn } itu?
 vpn-shared-platfrom-why-choose = Mengapa { -brand-name-mozilla-vpn }?
-# Variables:
-#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } berjalan di jaringan server global yang didukung oleh <a href="{ $policy }">{ -brand-name-mullvad }</a>, menggunakan protokol <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } mengutamakan privasi Anda dan tidak menyimpan log apa pun.
-
 vpn-shared-platform-what-youll-get = Apa yang akan Anda dapatkan dengan { -brand-name-mozilla-vpn }:
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-whats-a-vpn = Apa itu VPN?
-vpn-subnav-faqs = Pertanyaan Umum
-vpn-subnav-get-help = Dapatkan Bantuan
-vpn-subnav-platform-android = { -brand-name-android }
-vpn-subnav-platform-desktop = Desktop
-vpn-subnav-platform-ios = { -brand-name-ios }
-vpn-subnav-platform-linux = { -brand-name-linux }
-vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = Seluler
-vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = Apa itu alamat IP?
-vpn-subnav-when-to-use-a-vpn = Kapan harus menggunakan VPN
-vpn-subnav-vpn-vs-proxy = VPN vs Proxy
-vpn-subnav-subscribe = Berlangganan { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Pelajari tentang VPN
 vpn-subnav-download-mozilla-vpn = Unduh { -brand-name-mozilla-vpn }
 vpn-subnav-features = Fitur
-
-## VPN + Relay bundle offer
-
-vpn-shared-increase-your-privacy = Tingkatkan privasi Anda dengan { -brand-name-vpn } + { -brand-name-relay }
-
-# Variables:
-#   $url (string) - link to https://relay.firefox.com/premium/
-vpn-add-relay-to-protect = Tambahkan { -brand-name-firefox-relay } ke langganan Anda untuk melindungi email dan nomor telepon Anda. <a href="{ $url }">Pelajari selengkapnya</a>.
-
-# Variables:
-#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
-vpn-shared-add-firefox-relay = Tambahkan <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
-
-vpn-shared-relay-email-masking = Samarkan email
-vpn-shared-relay-phone-masking = Samarkan nomor telepon
-vpn-shared-get-vpn-plus-relay = Dapatkan { -brand-name-vpn } + { -brand-name-relay }
-vpn-shared-why-bundle = Mengapa harus pilih bundel?
-
-# Variables:
-#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Hemat { $percent }%</span> untuk paket tahunan { -brand-name-relay-premium }
-
-vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } belum tersedia di negara Anda
 
 ## Press quotations
 
