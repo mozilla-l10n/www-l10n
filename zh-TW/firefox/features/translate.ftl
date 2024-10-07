@@ -11,9 +11,9 @@ features-translate-translate-the-web = 翻譯網頁內容
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Translations 是內建的翻譯功能讓您可以簡單地使用您偏好的語言瀏覽網頁。了解 { -brand-name-firefox } 當中的這個功能如何運作以及 { -brand-name-mozilla } 如何幫助您保護您的翻譯隱私的更多資訊。
 features-translate-one-of-the-best-things-about = 網際網路最棒的事情之一就是我們可以接觸到世界各地的內容。不論是新聞文章、部落格或是關於您最新科技產品的評論您都可以在網路上找到相關資訊。透過 { -brand-name-firefox } 的最新翻譯功能此工具將持續翻譯網頁。
-features-translate-while-other-browsers-rely-on = 其他瀏覽器都使用雲端服務{ -brand-name-firefox } Translations 的語言模型會下載到使用者的瀏覽器並在本機完成翻譯所以 { -brand-name-mozilla } 就不會記錄下您翻譯了哪些網頁。
-features-translate-when-you-translate-a-webpage = 在您翻譯網頁時也保持隱私
-features-translate-when-your-translations-are = 當您在本機處理翻譯後裝置上的資料就不會流出裝置或需透過雲端服務來翻譯。這代表 { -brand-name-mozilla } 並不會知道您要翻譯的網頁內容讓我們的翻譯功能在其他翻譯工具中顯得與眾不同。
+features-translate-while-other-browsers-rely-on = 其他瀏覽器的翻譯仰賴雲端服務，而 { -brand-name-firefox } 會預先下載翻譯語言模型到使用者的瀏覽器，並在本地完成翻譯，所以 { -brand-name-mozilla } 不會記錄你翻譯了哪些網頁。
+features-translate-when-you-translate-a-webpage = 為您翻譯網頁時，也要保持隱私
+features-translate-when-your-translations-are = 在本機上進行翻譯，資料就不會離開你的裝置、被傳送到雲端服務進行翻譯。這代表 { -brand-name-mozilla } 絕不會知道你在翻譯哪張網頁、怎樣的內容。這是我們的翻譯功能與其他翻譯工具最大的不同之處。
 features-translate-what-languages-are-currently = 目前支援哪些語言？
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what = { -brand-name-firefox } 的翻譯功能目前支援下列語言：
