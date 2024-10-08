@@ -262,6 +262,10 @@
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket
