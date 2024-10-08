@@ -23,7 +23,7 @@ features-adblocker-considered-by-many-to-be-the = 許多人認為 <a { $attrs }>
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> 可在任何地方阻擋廣告。它會封鎖網頁、社交媒體上的所有廣告甚至是那些討人厭的彈出視窗但如果您只是不想讓彈出視窗來那麼<a { $attrs2 }>Popup Blocker</a>也能好用)。
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> 可在任何地方阻擋廣告。它會封鎖網頁、社群媒體上的所有廣告，甚至是那些討人厭的彈出視窗。（但如果您只想封鎖彈出視窗，那 <a { $attrs2 }>Popup Blocker</a> 也很好用）。
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 是另一套不只能封鎖廣告，還提供反追蹤功能的好選項。
