@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Tuyên ngôn { -brand-name-mozilla }
 footer-privacy-hub = Trung tâm riêng tư
 footer-privacy = Riêng tư
 footer-press = Nhấp
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog công ty
 footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-browser-comparison = So sánh trình duyệt
 footer-brand-standards = Tiêu chuẩn thương hiệu
@@ -40,8 +38,6 @@ footer-websites-legal = Thông tin pháp lý
 footer-language = Ngôn ngữ
 footer-go = Đi
 footer-donate = Quyên góp
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (trước đây là Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Theo dõi @{ -brand-name-mozilla }
 footer-follow-firefox = Theo dõi @{ -brand-name-firefox }
 footer-about-this-site = Về trang web này
+footer-advertise = Xử lý quảng cáo với { -brand-name-mozilla }
