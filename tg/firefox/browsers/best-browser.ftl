@@ -7,6 +7,8 @@
 
 best-browser-find-your-best-browser = Браузери беҳтарини худро барои суръат, махфият ва амният ба даст оред.
 best-browser-privacy-speed-and-security = Махфият, суръат ва амният.
+best-browser-how-to-choose-the-best = Чӣ тавр браузери беҳтарин барои шумо бояд интихоб карда шавад.
+best-browser-marshall-erwin-senior = Маршалл Эрвин, роҳбари калони шуъбаи корҳо оид ба эътимод ва амният дар { -brand-name-mozilla }
 best-browser-a-browser-built-for = Браузере, ки барои суръат сохта шудааст.
 best-browser-a-browser-that-puts = Браузере, ки бехатариро дар ҷои аввал мегузорад.
 best-browser-take-control-of-your = Браузери худро дар зери назорат гиред.
