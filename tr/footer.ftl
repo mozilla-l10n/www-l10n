@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifestosu
 footer-privacy-hub = Gizlilik Merkezi
 footer-privacy = Gizlilik
 footer-press = Basın
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Kurumsal Blog
 footer-mozilla-blog = { -brand-name-mozilla } Blog
 footer-browser-comparison = Tarayıcı Karşılaştırması
 footer-brand-standards = Marka Standartları
@@ -40,8 +38,6 @@ footer-websites-legal = Hukuki Bilgiler
 footer-language = Dil
 footer-go = Git
 footer-donate = Bağış
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (eski adıyla Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
 footer-follow-firefox = @{ -brand-name-firefox }’u takip edin
 footer-about-this-site = Bu Site Hakkında
+footer-advertise = { -brand-name-mozilla } ile Reklam Verin
