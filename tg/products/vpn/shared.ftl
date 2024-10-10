@@ -81,6 +81,9 @@ vpn-subnav-features = Хусусиятҳо
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Мувофиқи хабарҳои рӯз дар бораи мо
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = «VPN аз тарафи «{ -brand-name-mozilla }», инчунин, метавонад ба <a { $attrs }>баъзе хусусиятҳои ҷолиби ҳифзи махфияти</a> браузери «{ -brand-name-firefox }» ворид карда шавад.»
 
 ## Unsupported language notification
 
