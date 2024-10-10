@@ -84,6 +84,7 @@ vpn-press-as-seen-in = Мувофиқи хабарҳои рӯз дар бора�
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = «VPN аз тарафи «{ -brand-name-mozilla }», инчунин, метавонад ба <a { $attrs }>баъзе хусусиятҳои ҷолиби ҳифзи махфияти</a> браузери «{ -brand-name-firefox }» ворид карда шавад.»
+vpn-press-unique-features-like-its-multi-account = «…хусусиятҳои нодир, ба монанди Дарбаргирандаҳои серҳисоб, метавонанд ин хусусиятро ба корбарон бо ниёзҳои ҷиддӣ дар махфият ба осонӣ дастрас кунанд.»
 
 ## Unsupported language notification
 
