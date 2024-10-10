@@ -38,4 +38,11 @@ vpn-pricing-refund-policy = Сиёсати бозпардохти маблағҳ
 vpn-pricing-the-first-time-you = Вақте ки шумо бори аввал ба «{ -brand-name-mozilla-vpn }» тавассути сомонаи «{ -brand-name-mozilla }» обуна мешавед, ва агар шумо ҳисоби худро дар муддати 30 рӯзи аввал бекор кунед, шумо метавонед баргардонидани маблағро дархост кунед ва «{ -brand-name-mozilla }» маблағи шуморо барои муҳлати обунаи аввалин бозпардохт мекунад.
 vpn-pricing-if-you-purchased = Агар шумо обунаи худро тавассути барнома аз «Apple App Store» ё «Google Play Store» харид карда бошед, он гоҳ пардохти шумо ба шарту шароити он дукони онлайн вобаста аст. Шумо бояд ҳар гуна дархости ҳисобдорӣ ва баргардонидани маблағи худро барои чунин харидҳо ба «Apple» ё «Google», вобаста аз ҳолат, ирсол намоед.
 vpn-pricing-what-information = «{ -brand-name-mozilla-vpn }» кадом маълумотро нигоҳ медорад?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Мо ба таври қатъӣ { -brand-name-mozilla } <a { $principles }>Принсипҳои махфияти маълумотро</a> риоя мекунем. Мо танҳо он маълумотеро ҷамъ меорем, ки барои фаъол нигоҳ доштани «{ -brand-name-mozilla-vpn }» ва такмил додани маҳсулот бо мурури замон заруранд. Мо, инчунин, маълумоти маъракаҳо ва муроҷиатҳоро дар барномаи мобилии худ пайгирӣ мекунем, то нисбат ба «{ -brand-name-mozilla }» дар фаҳмидани самаранокии маъракаҳои маркетингии мо кумак расонем. Муфассалтар дар <a { $notice }>Огоҳномаи махфияти</a> мо хонед.
 vpn-pricing-how-do-i-manage = Чӣ тавр ман обунаи худро идора мекунам ва нақшаи худро иваз мекунам?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Агар шумо аллакай ба «{ -brand-name-mozilla-vpn }» обуна шуда бошед, шумо метавонед дар вақти дилхоҳ нақшаи худро иваз кунед ё <a { $manage }>обунаи худро идора намоед</a>.
