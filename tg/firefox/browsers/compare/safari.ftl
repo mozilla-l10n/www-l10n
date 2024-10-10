@@ -7,3 +7,4 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = Муқоисаи браузери «{ -brand-name-firefox }» бо «Apple Safari»
+compare-safari-but-firefox-also-has-built-in = Аммо браузери «{ -brand-name-firefox }», инчунин, дорои абзорҳои дарунсохт ба монанди зерин мебошад:
