@@ -85,9 +85,15 @@ vpn-press-as-seen-in = Мувофиқи хабарҳои рӯз дар бора�
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = «VPN аз тарафи «{ -brand-name-mozilla }», инчунин, метавонад ба <a { $attrs }>баъзе хусусиятҳои ҷолиби ҳифзи махфияти</a> браузери «{ -brand-name-firefox }» ворид карда шавад.»
 vpn-press-unique-features-like-its-multi-account = «…хусусиятҳои нодир, ба монанди Дарбаргирандаҳои серҳисоб, метавонанд ин хусусиятро ба корбарон бо ниёзҳои ҷиддӣ дар махфият ба осонӣ дастрас кунанд.»
+vpn-press-mozilla-vpns-feature-list-has-grown = «Рӯйхати хусусиятҳои «{ -brand-name-mozilla-vpn }» аз замони оғози кор ба таври назаррас афзоиш ёфт ва ҳоло худи хидмат дар баъзе соҳаҳо нисбат ба дигар мутахассисони «VPN» хеле пеш рафт.»
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = Дар айни замон «{ -brand-name-mozilla-vpn }» бо дастгирии забони { $language } пешниҳод карда намешавад, аммо шумо метавонед онро бо забонҳои англисӣ, фаронсавӣ, олмонӣ, испанӣ ва <a { $href }>зиёда аз 30 забони дигар</a> истифода баред.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = Мехоҳед, ки «{ -brand-name-mozilla-vpn }»-ро ба одамони бештар дастрас кунед? <a { $href }>Тарҷумони ихтиёрӣ шавед</a>.
