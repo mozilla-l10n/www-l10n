@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+# HTML page title
+firefox-browsers-page-title = Браузери «{ -brand-name-firefox }»-ро барои компютерҳои мизи корӣ, телефонҳои мобилӣ ё дастгоҳҳои корхона боргирӣ кунед
 firefox-browsers-main-heading = Браузерҳои «{ -brand-name-firefox }»
 firefox-browsers-desktop = Мизи корӣ
 firefox-browsers-download-for-desktop = Барои мизи корӣ боргирӣ кунед

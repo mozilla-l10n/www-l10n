@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-to-firefox = Гузариш ба «{ -brand-name-firefox }»
+switch-still-not-convinced = Шумо то ҳол боварӣ надоред, ки гузариш ба истифодаи браузери  «{ -brand-name-firefox }» осон аст?
 switch-download-and-switch = Боргирӣ кунед ва гузаред
 switch-share-to-facebook = Дар «Facebook» мубодила кунед
 switch-share-to-facebook-updated = Дар «{ -brand-name-facebook }» мубодила кунед
