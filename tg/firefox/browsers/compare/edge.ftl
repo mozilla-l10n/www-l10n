@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = Муқоисаи браузери «{ -brand-name-firefox }» бо «Microsoft Edge»
+compare-edge-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Edge» онҳоро манъ намекунад.
