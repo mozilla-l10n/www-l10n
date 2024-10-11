@@ -51,3 +51,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Suivre @{ -brand-name-mozilla }
 footer-follow-firefox = Suivre @{ -brand-name-firefox }
 footer-about-this-site = À propos de ce site
+footer-advertise = Votre publicité et { -brand-name-mozilla }

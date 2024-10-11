@@ -51,3 +51,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ikuti @{ -brand-name-mozilla }
 footer-follow-firefox = Ikuti @{ -brand-name-firefox }
 footer-about-this-site = Tentang situs ini
+footer-advertise = Beriklan dengan { -brand-name-mozilla }

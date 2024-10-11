@@ -51,3 +51,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-follow-firefox = @{ -brand-name-firefox } をフォロー
 footer-about-this-site = このサイトについて
+footer-advertise = { -brand-name-mozilla } で広告掲載
