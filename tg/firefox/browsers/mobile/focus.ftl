@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = «{ -brand-name-firefox-focus }»: Браузер барои истифодаи хусусӣ
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = «{ -brand-name-firefox-focus }»-ро ба даст оред
 mobile-focus-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.

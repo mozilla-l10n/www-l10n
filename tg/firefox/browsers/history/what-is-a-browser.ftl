@@ -8,4 +8,5 @@
 # HTML page title
 what-is-a-browser-what-is-a-web = Браузери веб чист?
 what-is-a-browser-how-does-a-web = Браузери веб чӣ гуна кор мекунад?
+what-is-a-browser-cookies-not-the = Кукиҳо (ин кулчақанд бамаза нест)
 what-is-a-browser-understanding = Фаҳмидани махфият

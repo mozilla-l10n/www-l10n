@@ -9,5 +9,6 @@ browser-history-the-history-of-web = Таърихи браузерҳои инт�
 browser-history-before-web-era = Пеш аз даврони Интернет
 browser-history-web-era = Даврони Интернет
 browser-history-the-browser-wars = Ҷангҳои браузерҳо
+browser-history-browsing-the-web = Аз Интернет имрӯз истифода баред
 browser-history-resources = Манбаъҳо
 browser-history-take-control-of = Браузери худро дар зери назорат гиред.
