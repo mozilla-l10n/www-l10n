@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Csatlakoztasson akár { $devices } eszközt
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Csatlakoztasson akár { $devices } androidos, iOS-es, Windowsos, macOS-es vagy linuxos eszközt
+       *[other] Csatlakoztasson akár { $devices } Android, iOS, Windows, macOS vagy linuxos eszközt
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = Hogyan kezelhetem az előfizetésemet és hogyan m
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Ha már előfizetett a { -brand-name-mozilla-vpn } szolgáltatásra, akkor bármikor módosíthatja a csomagját vagy <a { $manage }>kezelheti az előfizetését</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Az alkalmazás letöltéséhez olvassa le a QR-kódot mobileszközével vagy táblagépével
+vpn-pricing-sign-up-on-your-mobile-device = Regisztráljon { -brand-name-mozilla-vpn }-előfizetést a mobileszközén
+vpn-pricing-download-the-app = Alkalmazás letöltése
