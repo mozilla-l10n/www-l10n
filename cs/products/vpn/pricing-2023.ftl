@@ -20,6 +20,14 @@ vpn-pricing-connect-up-to =
        *[other] Připojte až { $devices } zařízení
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Připojte až { $devices } zařízení s Androidem, iOS, Windows, macOS nebo Linux
+        [few] Připojte až { $devices } zařízení s Androidem, iOS, Windows, macOS nebo Linux
+       *[other] Připojte až { $devices } zařízení s Androidem, iOS, Windows, macOS nebo Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -48,3 +56,9 @@ vpn-pricing-how-do-i-manage = Jak mohu změnit své předplatné a změnit své 
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Pokud již máte síť { -brand-name-mozilla-vpn } předplacenou, můžete kdykoli změnit svůj plán nebo <a { $manage }>spravovat své předplatné</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Pro stažení aplikace naskenujte QR kód svým mobilním zařízením nebo tabletem
+vpn-pricing-sign-up-on-your-mobile-device = Přihlaste si předplatné sítě { -brand-name-mozilla-vpn } na svém mobilním zařízení
+vpn-pricing-download-the-app = Stáhnout aplikaci
