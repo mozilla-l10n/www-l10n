@@ -20,6 +20,7 @@ vpn-pricing-connect-up-to =
        *[other] Hubungkan hingga { $devices } perangkat
     }
 
+
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -52,3 +53,6 @@ vpn-pricing-how-do-i-manage = Bagaimana cara mengelola langganan dan mengubah pa
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Jika Anda sudah berlangganan { -brand-name-mozilla-vpn }, Anda dapat mengubah paket atau <a { $manage }>mengelola langganan Anda</a> kapan saja.
+
+## Mobile only subscription copy
+

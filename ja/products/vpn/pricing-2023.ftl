@@ -20,6 +20,7 @@ vpn-pricing-connect-up-to =
        *[other] デバイス { $devices } 台まで接続
     }
 
+
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -52,3 +53,6 @@ vpn-pricing-how-do-i-manage = サブスクリプションの管理方法とプ�
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = 既に { -brand-name-mozilla-vpn } のサブスクリプションを購入されている場合は、いつでもプランを変更したり、<a { $manage }>サブスクリプションを管理</a>したりできます。
+
+## Mobile only subscription copy
+

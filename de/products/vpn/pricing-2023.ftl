@@ -21,6 +21,7 @@ vpn-pricing-connect-up-to =
        *[other] Du kannst bis zu { $devices } Geräte verbinden
     }
 
+
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -54,3 +55,6 @@ vpn-pricing-how-do-i-manage = Wie verwalte und ändere ich mein Abonnement?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Wenn du { -brand-name-mozilla-vpn } bereits nutzt, kannst du dein <a { $manage }>Abonnement hier verwalten</a> und zum Beispiel deinen Tarif ändern.
+
+## Mobile only subscription copy
+
