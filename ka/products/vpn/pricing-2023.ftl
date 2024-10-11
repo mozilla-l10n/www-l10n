@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] კავშირი { $devices } მოწყობილობამდე
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] დაუკავშირეთ { $devices }-მდე Android, iOS, Windows, macOS ან Linux მოწყობილობას
+       *[other] დაუკავშირეთ { $devices }-მდე Android, iOS, Windows, macOS ან Linux მოწყობილობას
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = როგორ ვმართო გამოწ
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, საგადასახადო გეგმის შეცვლა ან <a { $manage }>გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = აპის ჩამოსატვირთად, QR-კოდი წააკითხეთ თქვენი მობილური მოწყობილობით ან პლანშეტით
+vpn-pricing-sign-up-on-your-mobile-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს მობილურ მოწყობილობაზე
+vpn-pricing-download-the-app = ჩამოტვირთეთ აპლიკაცია
