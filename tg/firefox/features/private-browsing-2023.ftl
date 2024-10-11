@@ -11,3 +11,6 @@ features-private-browsing-firefox-private-browsing-mode = Реҷаи «Тамо�
 # HTML page description
 features-private-browsing-firefox-protects = Браузери «{ -brand-name-firefox }» махфияти онлайни шуморо муҳофизат мекунад ва васоити пайгириеро, ки шуморо дар саросари интернет пайгирӣ мекунанд, манъ мекунад.
 features-private-browsing-what-does-private-browsing-do = Реҷаи «Тамошокунии хусусӣ» чӣ тавр кор мекунад?
+# Used as an accessible text alternative for an image
+features-private-browsing-a-firefox-window-in-private = Равзанаи браузери «{ -brand-name-firefox }» дар реҷаи «Тамошокунии хусусӣ».
+features-private-browsing-what-private-browsing-doesnt-do = Корҳое, ки реҷаи «Тамошокунии хусусӣ» намекунад
