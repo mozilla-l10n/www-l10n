@@ -47,6 +47,6 @@ vpn-pricing-if-already-subscribed = 订阅 { -brand-name-mozilla-vpn } 后您可
 
 ## Mobile only subscription copy
 
-vpn-pricing-scan-qrcode-to-download = 要下载该应用请使用您的移动设备或平板电脑扫描二维码
-vpn-pricing-sign-up-on-your-mobile-device = 在您的移动设备上订阅 { -brand-name-mozilla-vpn }
-vpn-pricing-download-the-app = 下载 App
+vpn-pricing-scan-qrcode-to-download = 用手机或平板电脑扫码下载应用
+vpn-pricing-sign-up-on-your-mobile-device = 在移动设备上订阅 { -brand-name-mozilla-vpn }
+vpn-pricing-download-the-app = 下载应用
