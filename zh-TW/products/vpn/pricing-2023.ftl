@@ -18,6 +18,12 @@ vpn-pricing-connect-up-to =
        *[other] 最多可有 { $devices } 台裝置連線
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+       *[other] 最多可連線到 { $devices } 台 Android、iOS、Windows、macOS 或 Linux 裝置
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -44,3 +50,9 @@ vpn-pricing-how-do-i-manage = 我要如何管理訂閱和變更方案？
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = 若您訂閱了 { -brand-name-mozilla-vpn }，可以隨時到<a { $manage }>管理訂閱</a>頁面更改方案。
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = 請使用行動裝置或平板電腦掃描 QR Code
+vpn-pricing-sign-up-on-your-mobile-device = 在您的行動裝置訂閱 { -brand-name-mozilla-vpn }
+vpn-pricing-download-the-app = 下載應用程式
