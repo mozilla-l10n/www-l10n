@@ -47,7 +47,7 @@ firefox-all-64-bit-installers = 64-bitové instalátory
 firefox-all-choose-a-64-bit-installer = 64-bitový instalátor si vyberte pro počítače s 64-bitovými procesory, které jim umožňují přidělit jednotlivým programům více paměti RAM – zvláště důležité pro hry a jiné náročné aplikace.
 firefox-all-32-bit-installers = 32-bitové instalátory
 firefox-all-microsoft-store-installers = Microsoft Store
-firefox-all-choose-a-microsoft-store-installer = Tato volba otevře stránku produktu { -brand-name-firefox } na webovém portálu obchodu Microsoft Store. Pokud používáte Windows 10 nebo Windows 11, budete mít možnost z této stránky otevřít Microsoft Store a { -brand-name-firefox(case: "acc") } nainstalovat. Pokud instalujete z Microsoft Store, budou aktualizace { -brand-name-firefox(case: "gen") } také spravovány skrze Microsoft Store. Po instalaci z Microsoft Storu je v chování a možnostech { -brand-name-firefox(case: "gen") } drobné rozdíly, ale pro většinu uživatelů nejsou tyto rozdíly patrné.
+firefox-all-choose-a-microsoft-store-installer = Tato volba otevře stránku { -brand-name-firefox(case: "gen") } na webovém portálu obchodu Microsoft Store. Pokud používáte Windows 10 nebo Windows 11, budete mít možnost z této stránky otevřít Microsoft Store a { -brand-name-firefox(case: "acc") } nainstalovat. Pokud instalujete z Microsoft Store, budou aktualizace { -brand-name-firefox(case: "gen") } také spravovány skrze Microsoft Store. Po instalaci z Microsoft Storu jsou v chování a možnostech { -brand-name-firefox(case: "gen") } drobné rozdíly, ale pro většinu uživatelů nejsou tyto rozdíly patrné.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Stáhnout { $esr_version }
@@ -55,11 +55,11 @@ firefox-all-download-esr-version = Stáhnout { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Nacházíme se v přechodném období mezi hlavními verzemi ESR { $esr_next_major } a { $esr_current_major }.
-firefox-all-esr-when-there-is = Když je k dispozici velká aktualizace, existuje vždy překrytí několika vydání { -brand-name-firefox-esr }, aby uživatelé používající starou verzi měli možnost se připravit na přechod na novou.
+firefox-all-esr-when-there-is = Když je k dispozici velká aktualizace, existuje vždy překrytí několika vydání { -brand-name-firefox-esr(case: "gen") }, aby uživatelé používající starou verzi měli možnost se připravit na přechod na novou.
 firefox-all-esr-if-you-choose = Pokud se rozhodnete stáhnout starší verzi ESR, budete automaticky aktualizováni na novou verzi po skončení přechodného období.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
-firefox-all-esr-read-more = Přečtěte si více o <a { $attrs }>cyklu vydávání { -brand-name-firefox-esr }</a>.
+firefox-all-esr-read-more = Přečtěte si více o <a { $attrs }>cyklu vydávání { -brand-name-firefox-esr(case: "gen") }</a>.
 firefox-all-check-the-system-requirements = Zkontrolujte systémové požadavky
 firefox-all-release-notes = Poznámky k vydání
 firefox-all-source-code = Zdrojový kód

@@ -39,7 +39,7 @@ newsletter-form-leave-this-field-empty = Toto pole ponechte prázdné.
 newsletter-form-yes = Ano
 newsletter-form-no = Ne
 # An accessible label used to describe purpose of the form.
-newsletter-form-label = Přihlašovací formulář pro odběr zpravodaje
+newsletter-form-label = Formulář pro odběr zpravodaje
 multi-newsletter-form-checkboxes-legend = Chci informace o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation(case: "loc") }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox(case: "loc") }

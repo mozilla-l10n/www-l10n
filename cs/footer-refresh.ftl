@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Získejte nejlepší tipy, triky a novinky o { -brand-name-firefox(case: "loc") }. Slibujeme, že budeme vaše e-maily udržovat v bezpečí a v bezpečí – jenom to nejlepší z { -brand-name-firefox(case: "gen") } chceme poslat přímo do vaší schránky.
+footer-refresh-get-the-best = Získejte nejlepší tipy, triky a novinky o { -brand-name-firefox(case: "loc") }. Slibujeme, že váš e-mail zůstane chráněný a v bezpečí – jenom to nejlepší z { -brand-name-firefox(case: "gen") } chceme poslat přímo do vaší schránky.
 footer-refresh-leadership = Vedení
 footer-refresh-advertise = Inzerujte s { -brand-name-mozilla(case: "ins") }
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
@@ -22,7 +22,7 @@ footer-refresh-contact = Kontakt
 footer-refresh-support = Podpora
 footer-refresh-product-help = Nápověda k produktům
 footer-refresh-file-a-bug = Nahlásit chybu
-footer-refresh-localize-mozilla = Překládat { -brand-name-mozilla(case: "acc") }
+footer-refresh-localize-mozilla = Přeložit { -brand-name-mozilla(case: "acc") }
 footer-refresh-resources = Zdroje
 footer-refresh-brand-standards = Zásady obchodní značky
 footer-refresh-developers = Vývojáři

@@ -23,14 +23,14 @@ features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> otupuje reklamy všude. Blokuje reklamy na webu, sociálních sítích i ta otravná vyskakovací okna (ovšem pokud chcete vyskakovací okna jen potlačit, s <a { $attrs2 }>Popup Blocker</a> neuděláte chybu). ).
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> funguje na všechny reklamy. Blokuje reklamy na webu, sociálních sítích i ta otravná vyskakovací okna (ovšem pokud chcete vyskakovací okna jen potlačit, s <a { $attrs2 }>Popup Blocker</a> neuděláte chybu).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je další skvělá volba, která nejen blokuje reklamy, ale poskytuje další výhody proti sledování.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Tato rozšíření fungují skvěle jak na <a { $attrs1 }>{ -brand-name-firefox(case: "loc") }</a>, tak na <a { $attrs2 }>Androidu</a>.
+features-adblocker-these-extensions-work-beautifully = Tato rozšíření fungují skvěle jak ve <a { $attrs1 }>{ -brand-name-firefox(case: "loc") }</a>, tak na <a { $attrs2 }>Androidu</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
