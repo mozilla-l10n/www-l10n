@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
+# HTML page title
+browsers-mobile-firefox-mobile-browsers-put = Браузерҳои мобилии «{ -brand-name-firefox }» махфияти шуморо дар ҷойи аввал мегузоранд
 browsers-mobile-firefox-for-android = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-android }»
 browsers-mobile-firefox-for-ios = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-ios }»
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
