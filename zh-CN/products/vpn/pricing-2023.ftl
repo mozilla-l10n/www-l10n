@@ -15,6 +15,12 @@ vpn-pricing-included-in-subscription = 订阅包含：
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to = 连接多达 { $devices } 台设备
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+       *[other] 连接多达 { $devices } 台设备，支持 Android、iOS、Windows、macOS 和 Linux 设备
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access = 访问 { $countries }+ 个国家/地区的 { $servers } 台服务器
@@ -38,3 +44,9 @@ vpn-pricing-how-do-i-manage = 如何管理我的订阅和更改方案
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = 订阅 { -brand-name-mozilla-vpn } 后您可以随时更改计划或<a { $manage }>管理订阅</a>。
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = 要下载该应用请使用您的移动设备或平板电脑扫描二维码
+vpn-pricing-sign-up-on-your-mobile-device = 在您的移动设备上订阅 { -brand-name-mozilla-vpn }
+vpn-pricing-download-the-app = 下载 App
