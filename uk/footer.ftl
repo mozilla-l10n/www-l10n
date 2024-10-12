@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Маніфест { -brand-name-mozilla }
 footer-privacy-hub = Центр приватності
 footer-privacy = Приватність
 footer-press = Преса
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Корпоративний блог
 footer-mozilla-blog = Блог { -brand-name-mozilla }
 footer-browser-comparison = Порівняння браузерів
 footer-brand-standards = Стандарти бренду
@@ -40,8 +38,6 @@ footer-websites-legal = Правові положення
 footer-language = Мова
 footer-go = Перейти
 footer-donate = Сприяння
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (раніше Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Стежити за @{ -brand-name-mozilla }
 footer-follow-firefox = Стежити за @{ -brand-name-firefox }
 footer-about-this-site = Про цей сайт
+footer-advertise = Рекламуйте з { -brand-name-mozilla }
