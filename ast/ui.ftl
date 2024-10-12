@@ -18,5 +18,5 @@ ui-please-turn-on-javascript = Activa JavaScript p'amosar correutamente esta pá
 ui-show-more = Amosar más
 ui-show-less = Amosar menos
 ui-show-all = Amosar too
-ui-hide-all = Anubrir too
+ui-hide-all = Esconder too
 ui-learn-more = Lleer más
