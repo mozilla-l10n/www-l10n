@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Connecte te a maximo { $devices } apparatos
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Connecte maximo { $devices } apparato Android, iOS, Windows, macOS o Linux
+       *[other] Connecte maximo { $devices } apparatos Android, iOS, Windows, macOS o Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -49,4 +56,6 @@ vpn-pricing-if-already-subscribed = Si tu es jam abonate a { -brand-name-mozilla
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Pro discargar le app, scande le CODICE QR con tu apparato mobile o tabletta
+vpn-pricing-sign-up-on-your-mobile-device = Inscribe te pro un abonamento { -brand-name-mozilla-vpn } sur tu apparato mobile<
 vpn-pricing-download-the-app = Discarga le application
