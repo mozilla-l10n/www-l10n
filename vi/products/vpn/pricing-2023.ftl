@@ -15,6 +15,9 @@ vpn-pricing-included-in-subscription = Bao gồm trong gói đăng ký:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to = Kết nối lên đến { $devices } thiết bị
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms = Kết nối lên đến { $devices } thiết bị Android, iOS, Windows, macOS hoặc Linux
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access = Truy cập hơn { $servers } máy chủ ở { $countries }+ quốc gia
@@ -38,3 +41,9 @@ vpn-pricing-how-do-i-manage = Làm cách nào để quản lý và thay đổi g
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Nếu đã có gói đăng ký { -brand-name-mozilla-vpn }, bạn có thể thay đổi hoặc <a { $manage }>quản lý gói đăng ký của mình</a> bất kỳ lúc nào.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Để tải xuống ứng dụng, hãy quét mã QR bằng thiết bị di động hoặc máy tính bảng của bạn
+vpn-pricing-sign-up-on-your-mobile-device = Đăng ký gói { -brand-name-mozilla-vpn } trên thiết bị di động của bạn
+vpn-pricing-download-the-app = Tải xuống ứng dụng
