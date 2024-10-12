@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Σύνδεση έως και { $devices } συσκευών
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Συνδέστε έως και { $devices } συσκευή με Android, iOS, Windows, macOS ή Linux
+       *[other] Συνδέστε έως και { $devices } συσκευές με Android, iOS, Windows, macOS ή Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -49,4 +56,6 @@ vpn-pricing-if-already-subscribed = Αν έχετε ήδη εγγραφεί στ
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Για να κάνετε λήψη της εφαρμογής, σαρώστε τον κωδικό QR στην κινητή συσκευή ή το tablet σας
+vpn-pricing-sign-up-on-your-mobile-device = Εγγραφείτε στο { -brand-name-mozilla-vpn } από την κινητή σας συσκευή
 vpn-pricing-download-the-app = Λήψη της εφαρμογής
