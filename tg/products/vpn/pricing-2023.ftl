@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Имкони пайваст то { $devices } дастгоҳ
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] То { $devices } дастгоҳ бо низоми амалкунандаи «Android», «iOS», «Windows», «macOS» ё «Linux» пайваст намоед
+       *[other] То { $devices } дастгоҳ бо низоми амалкунандаи «Android», «iOS», «Windows», «macOS» ё «Linux» пайваст намоед
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = Чӣ тавр ман обунаи худро ид�
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Агар шумо аллакай ба «{ -brand-name-mozilla-vpn }» обуна шуда бошед, шумо метавонед дар вақти дилхоҳ нақшаи худро иваз кунед ё <a { $manage }>обунаи худро идора намоед</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Барои боргирӣ кардани барнома, рамзи «QR»-ро ба воситаи дастгоҳи мобилӣ ё планшети худ тасвирбардорӣ намоед
+vpn-pricing-sign-up-on-your-mobile-device = Барои обунаи «{ -brand-name-mozilla-vpn }» дар дастгоҳи мобилии худ сабти ном кунед
+vpn-pricing-download-the-app = Барномаро боргирӣ кунед
