@@ -43,3 +43,9 @@ vpn-pricing-how-do-i-manage = Kak móžu swój abonement rjadować a swój plan 
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Jeli sće { -brand-name-mozilla-vpn } hižo abonował, móžeće koždy čas swój tarif změnić abo <a { $manage }>swój abonement rjadować</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Zo byšće nałoženje sćahnył, skenujće kod QR ze swojim mobilnym gratom abo tabletom
+vpn-pricing-sign-up-on-your-mobile-device = Registrujće so za abonement { -brand-name-mozilla-vpn } na swojim mobilnym graće
+vpn-pricing-download-the-app = Nałoženje sćahnyć
