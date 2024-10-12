@@ -46,3 +46,7 @@ vpn-pricing-how-do-i-manage = Πώς μπορώ να διαχειριστώ τη
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Αν έχετε ήδη εγγραφεί στο { -brand-name-mozilla-vpn }, μπορείτε να αλλάξετε το πρόγραμμά σας ή να <a { $manage }>διαχειριστείτε τη συνδρομή σας</a> ανά πάσα στιγμή.
+
+## Mobile only subscription copy
+
+vpn-pricing-download-the-app = Λήψη της εφαρμογής
