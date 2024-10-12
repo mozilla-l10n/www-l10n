@@ -9,6 +9,7 @@
 # Meta strings
 
 vpn-mac-page-title = «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»
+vpn-mac-privacy-headline = Махфият дар сарангушти шумо
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mac-devices-headline = Муҳофизат кардани { $devices } дастгоҳ тавасути як обунашавӣ
