@@ -9,3 +9,4 @@ vpn-android-vpn-for-android = VPN za Android wot { -brand-name-mozilla }
 vpn-android-how-does-a = Kak VPN mój grat Android škita?
 vpn-android-vpns-help = VPN pomhaja wobeńć:
 vpn-android-why-should-i = Čehodla { -brand-name-mozilla-vpn } za Android sćahnyć?
+vpn-android-browse-the-internet = Přehladujće internet, bjeztoho zo byšće swoje stejnišćo přeradźił.
