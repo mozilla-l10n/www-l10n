@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Anslut upp till { $devices } enheter
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Anslut upp till { $devices } Android-, iOS-, Windows, macOS eller Linux-enhet
+       *[other] Anslut upp till { $devices } Android-, iOS-, Windows, macOS eller Linux-enheter
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = Hur hanterar jag min prenumeration och ändrar min
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Om du redan prenumererar på { -brand-name-mozilla-vpn } kan du ändra din plan eller <a { $manage }>hantera din prenumeration</a> när som helst.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = För att ladda ner appen, skanna QR-koden med din mobila enhet eller surfplatta
+vpn-pricing-sign-up-on-your-mobile-device = Registrera dig för en { -brand-name-mozilla-vpn }-prenumeration på din mobila enhet
+vpn-pricing-download-the-app = Hämta appen
