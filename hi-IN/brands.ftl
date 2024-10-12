@@ -92,6 +92,7 @@
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox लैब्स
 
 ## Pocket
 
