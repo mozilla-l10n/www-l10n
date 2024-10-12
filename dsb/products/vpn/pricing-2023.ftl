@@ -21,6 +21,15 @@ vpn-pricing-connect-up-to =
        *[other] Zwěžćo až k { $devices } rědam
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Zwěžćo se z až do { $devices } rědom Android, iOS, Windows, macOS abo Linux
+        [two] Zwěžćo se z až do { $devices } rědoma Android, iOS, Windows, macOS abo Linux
+        [few] Zwěžćo se z až do { $devices } rědami Android, iOS, Windows, macOS abo Linux
+       *[other] Zwěžćo se z až do { $devices } rědami Android, iOS, Windows, macOS abo Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -43,3 +52,9 @@ vpn-pricing-how-do-i-manage = Kak mógu swój abonement zastojaś a swój plan z
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Jolic sćo južo aboněrował { -brand-name-mozilla-vpn }, móžośo kuždy cas swój tarif změniś abo <a { $manage }>swój abonement zastojaś</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Aby nałoženje ześěgnuł, scannujśo kod QR ze swójim mobilnym rědom abo tabletom
+vpn-pricing-sign-up-on-your-mobile-device = Registrěrujśo se za abonement { -brand-name-mozilla-vpn } na swójom mobilnem rěźe
+vpn-pricing-download-the-app = Nałoženje ześěgnuś
