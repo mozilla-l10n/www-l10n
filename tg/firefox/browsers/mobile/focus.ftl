@@ -9,6 +9,7 @@
 mobile-focus-firefox-focus-the-privacy = «{ -brand-name-firefox-focus }»: Браузер барои истифодаи хусусӣ
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Танҳо тамошои мобилии хусусӣ дар Интернет
+mobile-focus-firefox-focus-is-available = Браузери «{ -brand-name-firefox-focus }» барои ҳар ду дастгоҳ — «{ -brand-name-ios }» ва «{ -brand-name-android }» дастрас аст.
 mobile-focus-get-firefox-focus = «{ -brand-name-firefox-focus }»-ро ба даст оред
 mobile-focus-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
 mobile-focus-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
