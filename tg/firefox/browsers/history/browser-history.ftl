@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Таърихи браузер: Ҷангҳои қувваҳои достонӣ ба мо браузерҳои муосирро оварданд
 browser-history-the-history-of-web = Таърихи браузерҳои интернетӣ
 browser-history-before-web-era = Пеш аз даврони Интернет
 browser-history-web-era = Даврони Интернет
