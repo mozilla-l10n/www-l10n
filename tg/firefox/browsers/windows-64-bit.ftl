@@ -8,3 +8,5 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = Браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» 64-бит
 windows-64-bit-64-bit = 64-бит
+# Main title
+windows-64-bit-a-more-secure-firefox = Браузери «{ -brand-name-firefox }» бехатартар аст.
