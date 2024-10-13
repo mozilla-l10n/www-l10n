@@ -40,12 +40,15 @@ is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар а
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Чаро браузери «{ -brand-name-firefox }» хеле суст кор мекунад?
+is-firefox-chromium = Оё браузери «{ -brand-name-firefox }» дар «{ -brand-name-chromium }» асос меёбад?
 does-firefox-use = Браузери «{ -brand-name-firefox }» аз «{ -brand-name-google }» истифода мебарад?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Браузери «{ -brand-name-firefox }» барномаи VPN-и дарунсохтро бар бар мегирад?
+related-questions-ip = Саволҳои марбут: оё браузери «{ -brand-name-firefox }» нишонии IP-и шуморо пинҳон мекунад?
 who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 
 # Variables:

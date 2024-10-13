@@ -7,5 +7,10 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-firefox-mobile = «{ -brand-name-firefox }»-и мобилиро ба даст оред
 firefox-mobile-android-only = Танҳо барои «{ -brand-name-android }»
 firefox-mobile-make-android-your-own = Соҳиби «{ -brand-name-android }» шавед
+firefox-mobile-get-firefox-for-mobile = Браузери «{ -brand-name-firefox }»-ро барои дастгоҳи мобилӣ ба даст оред
+firefox-mobile-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
+firefox-mobile-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
+firefox-mobile-scan-alt-text = Барои гирифтани «{ -brand-name-firefox }», рамзи «QR»-ро тасвирбардорӣ намоед

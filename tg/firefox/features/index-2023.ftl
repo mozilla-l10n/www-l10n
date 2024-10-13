@@ -9,5 +9,8 @@
 features-index-firefox-browser-features = Хусусиятҳои браузери «{ -brand-name-firefox }»
 features-index-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 features-index-bookmark-manager = Мудири хатбаракҳо
+features-index-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
+features-index-firefox-add-ons-and-browser-extensions = Ҷузъҳои иловагӣ ва васеъшавиҳои браузери «{ -brand-name-firefox }»
 features-index-pdf-editor = Муҳаррири «PDF»
+features-index-translate-the-web = Тарҷума кардани саҳифаи сомона
 features-index-picture-in-picture = Расм-дар-расм

@@ -17,3 +17,4 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
+installer-help-need-help = Барои насб кардани браузер кумак лозим аст?
