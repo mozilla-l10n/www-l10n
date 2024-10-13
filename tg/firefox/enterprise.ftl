@@ -8,6 +8,8 @@
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Шарҳ
 firefox-enterprise-downloads = Боргириҳо
+firefox-enterprise-get-firefox-for-your-enterprise = Браузери «{ -brand-name-firefox }»-ро дар корхонаи худ истифода баред
+firefox-enterprise-enterprise-downloads = Боргириҳо барои «{ -brand-name-enterprise }»
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-бит
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Боргирии худро интихоб намоед
