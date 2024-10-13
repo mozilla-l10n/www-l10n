@@ -7,4 +7,6 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = Муқоисаи браузери «{ -brand-name-firefox }» бо «Microsoft Edge»
+# HTML page description
+compare-edge-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Edge» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
 compare-edge-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Edge» онҳоро манъ намекунад.

@@ -7,3 +7,5 @@
 
 # Page title
 compare-brave-firefox-vs-brave = Муқоисаи браузери «{ -brand-name-firefox }» бо «Brave»
+# HTML page description
+compare-brave-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Brave» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.

@@ -7,3 +7,5 @@
 
 # Page title
 compare-opera-firefox-vs-opera = Муқоисаи браузери «{ -brand-name-firefox }» бо «Opera»
+# HTML page description
+compare-opera-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Opera» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
