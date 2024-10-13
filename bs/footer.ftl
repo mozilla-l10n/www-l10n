@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = Centar za privatnost
 footer-privacy = Privatnost
 footer-press = Pritisni
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Korporativni blog
 footer-mozilla-blog = { -brand-name-mozilla } blog
 footer-browser-comparison = Poređenje pretraživača
 footer-brand-standards = Standardi brenda
@@ -40,8 +38,6 @@ footer-websites-legal = Pravno
 footer-language = Jezik
 footer-go = Idi
 footer-donate = Donirajte
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (bivši Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Pratite @{ -brand-name-mozilla }
 footer-follow-firefox = Pratite @{ -brand-name-firefox }
 footer-about-this-site = O ovoj stranici
+footer-advertise = Oglašavajte se sa { -brand-name-mozilla }

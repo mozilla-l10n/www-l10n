@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Ovo je dobro vrijeme da vam zahvalimo na pomo�
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Ako želite znati šta se dešava oko { -brand-name-nightly }ja i njegove zajednice, čitajte naš <a { $blog }>blog</a> i ako nas pratite na platformama <a { $mastodon }>Mastodon</a> ili <a { $twitter }>X</a> to su dobre početne tačke!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Ako želite znati šta se dešava oko { -brand-name-nightly } i njegove zajednice, čitanje našeg <a href="{ $blog }">bloga</a> i prateći nas na <a href="{ $mastodon }">Mastodontu</a> ili <a href="{ $twitter }">Twitteru</a> su dobra polazišta!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Želite da znate koje mogućnosti platforme možete da testirate na { -brand-name-nightly }, a koje još ne vidite u drugim { -brand-name-firefox } kanalima? Pogledajte <a { $attrs }>Nightly eksperimenti</a> stranicu za podešavanja.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Želite znati koje funkcije platforme biste mogli testirati na { -brand-name-nightly }, a još ih ne možete vidjeti na drugim { -brand-name-firefox } kanalima? Zatim pogledajte stranicu sa postavkama <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Jeste li iskusili padove? Neočekivana ponašanja? Kompatibilnost web regresije? Voljeli bi da ih unesete u <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> da budemo sigurno da se neće ponoviti u finalnom izdanju (još bolje ako dodate <em>{ -brand-name-nightly }-community</em> ključnu riječ za vaše prijave greške)!
