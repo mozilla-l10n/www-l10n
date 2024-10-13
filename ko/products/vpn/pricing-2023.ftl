@@ -15,6 +15,9 @@ vpn-pricing-included-in-subscription = 구독에 포함된 사항:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to = 최대 { $devices }개의 기기 연결
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms = 최대 { $devices }개의 Android, iOS, Windows, macOS, Linux 기기에 연결 가능
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access = { $countries }개 이상 국가에 있는 서버 { $servers }개에 접근
@@ -38,3 +41,9 @@ vpn-pricing-how-do-i-manage = 구독을 관리하고 요금제를 변경하려�
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = 이미 { -brand-name-mozilla-vpn }을 구독하고 있다면 언제든지 요금제를 변경하거나 <a { $manage }>구독을 관리</a>할 수 있습니다.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = 앱을 다운로드하려면 모바일 기기나 태블릿으로 QR 코드를 스캔하세요.
+vpn-pricing-sign-up-on-your-mobile-device = 모바일 기기에서 { -brand-name-mozilla-vpn } 구독을 신청하세요.
+vpn-pricing-download-the-app = 앱 다운로드
