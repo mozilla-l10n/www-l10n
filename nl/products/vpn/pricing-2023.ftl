@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Verbind maximaal { $devices } apparaten
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Verbind maximaal { $devices } Android-, iOS-, Windows-, macOS- of Linux-apparaat
+       *[other] Verbind maximaal { $devices } Android-, iOS-, Windows-, macOS- of Linux-apparaten
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -49,4 +56,6 @@ vpn-pricing-if-already-subscribed = Als u al bent geabonneerd op { -brand-name-m
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Scan de QR-code met uw mobiele apparaat of tablet om de app te downloaden
+vpn-pricing-sign-up-on-your-mobile-device = Schrijf u in voor een { -brand-name-mozilla-vpn }-abonnement op uw mobiele apparaat
 vpn-pricing-download-the-app = De app downloaden
