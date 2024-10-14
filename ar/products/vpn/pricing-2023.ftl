@@ -25,6 +25,17 @@ vpn-pricing-connect-up-to =
        *[other] توصيل { $devices } أجهزة بحد أقصى
     }
 
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [zero] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+        [one] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+        [two] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+        [few] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+        [many] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+       *[other] وصّل حتى { $devices } من الأجهزة التي تعمل بأنظمة تشغيل Android أو IOS أو Windows أو macOS أو Linux
+    }
 
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -66,3 +77,6 @@ vpn-pricing-if-already-subscribed = إذا كنت مشتركًا بالفعل ف
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = لتنزيل التطبيق، صوّر رمز الاستجابة السريعة QR Code بجهازك المحمول أو جهازك اللوحي
+vpn-pricing-sign-up-on-your-mobile-device = سجّل لتحصل على اشتراك { -brand-name-mozilla-vpn } على جهازك المحمول أو جهازك اللوحي
+vpn-pricing-download-the-app = نزِّل التطبيق
