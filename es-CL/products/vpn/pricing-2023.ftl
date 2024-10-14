@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Conecta hasta { $devices } dispositivos
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Conecta hasta { $devices } dispositivo Android, iOS, Windows, macOS o Linux
+       *[other] Conecta hasta { $devices } dispositivos Android, iOS, Windows, macOS o Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = ¿Cómo administro mi suscripción y cambio mi pla
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a { $manage }>administrar tu suscripción</a> en cualquier momento.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Para descargar la aplicación, escanea el código QR con tu dispositivo móvil o tablet
+vpn-pricing-sign-up-on-your-mobile-device = Suscríbete a { -brand-name-mozilla-vpn } en tu dispositivo móvil
+vpn-pricing-download-the-app = Bajar la app
