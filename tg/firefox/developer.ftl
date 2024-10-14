@@ -13,6 +13,7 @@ firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-ed
 firefox-developer-get-involved = Ҳамроҳ шавед
 firefox-developer-start-now = Ҳозир оғоз намоед
 firefox-developer-inspector = Тафтишкунанда
+firefox-developer-learn-about-page-inspector = Маълумоти бештар дар бораи «Тафтишкунандаи саҳифа»
 firefox-developer-console = Консол
 firefox-developer-learn-about-web-console = Маълумоти бештар дар бораи «Консоли сомона»
 firefox-developer-debugger = Ислоҳкунанда
