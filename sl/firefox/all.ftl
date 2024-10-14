@@ -47,6 +47,7 @@ firefox-all-64-bit-installers = 64-bitni namestitveni programi
 firefox-all-choose-a-64-bit-installer = Izberite 64-bitni namestitveni program za računalnike s 64-bitnim procesorjem, ki omogoča dodelitev več pomnilnika posameznim programom – zlasti pomembno za igre in druge zahtevne aplikacije.
 firefox-all-32-bit-installers = 32-bitni namestitveni programi
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ob izbiri te možnosti se bo odprla spletna stran izdelka { -brand-name-firefox } na portalu Microsoft Store. Če uporabljate Windows 10 ali Windows 11, boste na tej strani imeli možnost odpreti trgovino Microsoft Store in namestiti { -brand-name-firefox(sklon: "tozilnik") }. Po namestitvi iz trgovine bo le-ta za { -brand-name-firefox(sklon: "tozilnik") } dobavljala tudi posodobitve. Med običajnim in iz trgovine nameščenim { -brand-name-firefox(sklon: "orodnik") } obstajajo manjše razlike, ki pa so večini uporabnikov neopazne.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Prenesi { $esr_version }
