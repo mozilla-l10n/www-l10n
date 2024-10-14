@@ -26,6 +26,9 @@ nightly-whatsnew-if-you-want-to-v3 = إذا كنت تريد أن تعرف ما �
 #   $attrs (string) - link href and additional attributes
 # Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = هل تريد معرفة ميزات النظام الأساسي التي يُمكنك اختبارها على { -brand-name-nightly } ولا يُمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ ما عليك سوى إلقاء نظرة على صفحة تفضيلات <a { $attrs }>التجارب الليلية</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = هل تريد معرفة ميزات النظام الأساسي التي يُمكنك اختبارها على { -brand-name-nightly } ولا يُمكن رؤيتها حتى الآن على قنوات { -brand-name-firefox } الأخرى؟ إذن، ألقِ نظرة على صفحة تفضيلات <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
