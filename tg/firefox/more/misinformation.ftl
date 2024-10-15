@@ -7,3 +7,4 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
+misinformation-learn-about-our-products = Дар бораи маҳсулоти мо маълумот гиред
