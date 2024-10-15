@@ -18,15 +18,9 @@ privacy-faq-we-follow-a-set-of-data-privacy = Kami mengikuti sekumpulan <a href=
 privacy-faq-we-only-collect-the-data-we = Kami hanya mengumpulkan data yang kami butuhkan untuk membuat produk terbaik.
 privacy-faq-we-put-people-in-control-of = Kami menempatkan orang-orang dalam kendali akan data dan pengalaman daring mereka.
 
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Kami menganut prinsip "tidak ada kejutan", yang berarti kami bekerja keras untuk memastikan pemahaman orang mengenai { -brand-name-firefox } sesuai dengan kenyataan.
-
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Kami menganut prinsip “tidak ada kejutan”, yang berarti kami bekerja keras untuk memastikan pemahaman orang mengenai { -brand-name-firefox } sesuai dengan kenyataan.
 privacy-faq-the-following-questions-and = Pertanyaan dan jawaban berikut akan membantu Anda memahami apa yang diharapkan dari { -brand-name-mozilla } dan { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Saya menggunakan { -brand-name-firefox } untuk hampir semua hal di web. Kalian di { -brand-name-mozilla } pasti tahu banyak mengenai saya, bukan?
-
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda. { -brand-name-mozilla }, perusahaan yang membuat { -brand-name-firefox }, tidak mengambilnya (kecuali jika Anda memintanya).
 
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda. { -brand-name-mozilla }, perusahaan yang membuat { -brand-name-firefox }, tidak mengambilnya (kecuali jika Anda memintanya).
 privacy-faq-really-you-dont-collect-my-browsing = Sungguh, Anda tidak mengambil riwayat penjelajahan saya?
@@ -43,12 +37,6 @@ privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } bukanlah organ
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Oke, yang pertama itu mudah. Data apa yang Anda kumpulkan?
 
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } memang mengumpulkan satu set data terbatas secara bawaan dari { -brand-name-firefox } yang membantu kami memahami bagaimana orang menggunakan peramban. Data tersebut terikat dengan pengenal acak, bukan nama atau alamat email Anda. Anda dapat membaca lebih lanjut mengenai hal tersebut di <a href="{ $privacy }">pemberitahuan privasi</a> dan Anda dapat membaca <a href="{ $data }">dokumentasi lengkap untuk pengumpulan data itu</a>.
-
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -60,21 +48,10 @@ privacy-faq-that-documentation-is-gobbledygook = Dokumentasi tersebut terlalu om
 privacy-faq-there-are-two-categories-of = Terdapat dua kategori data yang kami kumpulkan secara bawaan dalam versi rilis { -brand-name-firefox } kami.
 privacy-faq-the-first-is-what-we-call-technical = Pertama adalah apa yang kami sebut dengan "data teknis". Data ini mengenai peramban itu sendiri, seperti sistem operasi yang menjalankannya dan informasi mengenai kesalahan atau kerusakan.
 
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = Kedua adalah apa yang kami sebut dengan "data interaksi". Data ini adalah mengenai keterlibatan seseorang dengan { -brand-name-firefox }, seperti jumlah tab yang terbuka, status preferensi pengguna, atau frekuensi penggunaan fitur peramban tertentu, seperti tangkapan layar atau penampung. Misalnya, kami mengumpulkan data ini dari aktivitas tombol kembali, panah di sudut kiri atas peramban Anda yang memungkinkan Anda untuk menavigasi kembali ke laman web sebelumnya dengan cara yang menunjukkan kepada kami seseorang menggunakan tombol kembali tersebut, tetapi tidak memberi tahu laman web apa yang diakses.
-
 privacy-faq-the-second-is-what-we-call-interaction-v2 = Kedua adalah apa yang kami sebut dengan “data interaksi”. Data ini adalah mengenai keterlibatan seseorang dengan { -brand-name-firefox }, seperti jumlah tab yang terbuka, status preferensi pengguna, atau frekuensi penggunaan fitur peramban tertentu, seperti tangkapan layar atau penampung. Misalnya, kami mengumpulkan data ini dari aktivitas tombol kembali (panah di sudut kiri atas peramban Anda yang memungkinkan Anda untuk menavigasi kembali ke laman web sebelumnya) dengan cara yang menunjukkan kepada kami seseorang menggunakan tombol kembali tersebut, tetapi tidak memberi tahu laman web apa yang diakses.
 privacy-faq-do-you-collect-more-data-in = Apakah Anda mengumpulkan lebih banyak data dalam pra-rilis { -brand-name-firefox }?
 
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = Kurang lebih. Selain data yang dijelaskan di atas, kami menerima laporan kerusakan dan kesalahan secara bawaan dalam versi pra-rilis { -brand-name-firefox }.
-
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Kurang lebih. Selain data yang dijelaskan di atas, kami menerima laporan kerusakan dan kesalahan secara bawaan dalam versi pra-rilis { -brand-name-firefox }.
-
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Kami juga mengumpulkan data tambahan dalam pra-rilis untuk salah satu <a href="{ $link }">penelitian</a> kami. Misalnya, beberapa penelitian membutuhkan apa yang kami sebut dengan &quot;data aktivitas web&quot;, yang mungkin mencakup URL dan informasi lainnya mengenai situs web tertentu. Ini membantu kami menjawab pertanyaan tertentu untuk meningkatkan { -brand-name-firefox }, misalnya, bagaimana cara yang lebih baik untuk mengintegrasikan situs web populer di daerah tertentu.
 
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
