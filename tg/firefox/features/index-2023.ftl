@@ -7,6 +7,8 @@
 
 # HTML page title
 features-index-firefox-browser-features = Хусусиятҳои браузери «{ -brand-name-firefox }»
+features-index-firefox-keeps-getting-faster = «{ -brand-name-firefox }» боз ҳам тезтар аст
+features-index-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
 features-index-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 features-index-bookmark-manager = Мудири хатбаракҳо
 features-index-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»

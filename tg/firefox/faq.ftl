@@ -23,6 +23,7 @@ how-do-i = Чӣ тавр браузери «{ -brand-name-firefox-browser }»-р
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Браузери «{ -brand-name-firefox }» ройгон аст?
+is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат ба браузери «{ -brand-name-firefox }» беҳтар аст?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/

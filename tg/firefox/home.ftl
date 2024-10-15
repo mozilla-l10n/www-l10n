@@ -7,7 +7,10 @@
 
 # Obsolete string
 firefox-home-meet-our-family-of = Бо оилаи маҳсулоти мо шинос шавед
+firefox-home-try-relay = «{ -brand-name-relay }»-ро кӯшиш кунед
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
+firefox-home-get-the-browser-extension = Ба даст овардани васеъшавиҳои браузер
+firefox-home-get-the-facebook-container = Ба даст овардани васеъшавии «{ -brand-name-facebook-container }»
 firefox-home-download-the-browser = Браузерро боргирӣ кунед
 firefox-home-download-the-app = Барномаро боргирӣ кунед
 firefox-home-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред

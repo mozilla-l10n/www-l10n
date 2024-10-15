@@ -7,3 +7,5 @@
 
 # page title
 bookmark-manager-bookmark-manager = Мудири хатбаракҳо
+bookmark-manager-easily-import-bookmarks = Хатбаракҳоро ба осонӣ ворид кунед
+bookmark-manager-bookmarks-toolbar = Навори хатбаракҳо

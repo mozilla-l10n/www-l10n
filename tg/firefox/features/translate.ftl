@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Тарҷума кардани саҳифаи сомона ба воситаи «{ -brand-name-firefox }»
 features-translate-translate-the-web = Тарҷума кардани саҳифаи сомона

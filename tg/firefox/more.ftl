@@ -9,6 +9,7 @@ learn-more-faq = Саволҳои роиҷ дар бораи «{ -brand-name-fir
 the-history-of = Таърихи браузерҳои интернетӣ
 what-is-a = Браузери веб чист?
 choose-which-firefox = Интихоб кунед, ки кадом { -brand-name-firefox-browser }-ро бо забони модарии худ боргирӣ мекунед
+firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-for-linux = Браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-linux }»
 firefox-for-windows = Браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» 64-бит
 firefox-more-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешаванд
