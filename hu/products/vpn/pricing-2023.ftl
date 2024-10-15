@@ -22,8 +22,8 @@ vpn-pricing-connect-up-to =
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to-platforms =
     { $devices ->
-        [one] Csatlakoztasson akár { $devices } androidos, iOS-es, Windowsos, macOS-es vagy linuxos eszközt
-       *[other] Csatlakoztasson akár { $devices } Android, iOS, Windows, macOS vagy linuxos eszközt
+        [one] Csatlakoztasson akár { $devices } androidos, iOS-es, windowsos, macOS-es vagy linuxos eszközt
+       *[other] Csatlakoztasson akár { $devices } androidos, iOS-es, windowsos, macOS-es vagy linuxos eszközt
     }
 # Variables:
 #   $servers (number) - number of VPN servers
