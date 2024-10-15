@@ -26,6 +26,9 @@ nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } とそのコミュ�
 #   $attrs (string) - link href and additional attributes
 # Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = { -brand-name-nightly } のプラットフォームの機能のうち、どれをテストできるかを知りたい方で、他の { -brand-name-firefox } チャンネルでまだ確認できない方は、<a { $attrs }>Nightly Experiments</a> 設定ページをご覧ください。
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = { -brand-name-nightly } のプラットフォームの機能のうち、どれをテストできるかを知りたい方で、他の { -brand-name-firefox } チャンネルでまだ確認できない方は、<a { $attrs }>{ -brand-name-firefox-labs }</a> 設定ページをご覧ください。
 
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
