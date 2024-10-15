@@ -20,6 +20,12 @@ vpn-pricing-connect-up-to =
        *[other] デバイス { $devices } 台まで接続
     }
 
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+       *[other] { $devices } 台までの Android、iOS、Windows、macOS、Linux のデバイスを接続
+    }
 
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -56,3 +62,6 @@ vpn-pricing-if-already-subscribed = 既に { -brand-name-mozilla-vpn } のサブ
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = アプリをダウンロードするには、モバイルデバイスまたはタブレットで QR コードをスキャンしてください
+vpn-pricing-sign-up-on-your-mobile-device = モバイルデバイスで { -brand-name-mozilla-vpn } のサブスクリプションに登録
+vpn-pricing-download-the-app = アプリをダウンロード
