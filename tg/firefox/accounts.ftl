@@ -7,6 +7,8 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } ба қайд гиред – Маълумоти худро ба таври махфӣ, бехатар ва ҳамоҳангшуда нигоҳ доред
+# HTML page description
+mozilla-accounts-securely-sync-your = Ниҳовожаҳо, хатбаракҳо ва варақаҳои худро байни ҳамаи дастгоҳҳои худ ба таври бехатар ҳамоҳанг созед. { -brand-name-mozilla-account }-ро ҳозир ба қайд гиред – Танҳо як тарзи воридшавӣ – Иқтидор ва махфият дар ҳамаи ҷойҳои шумо.
 firefox-accounts-enter-your-email-address = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
 firefox-accounts-already-have-an-account = Аллакай ҳисобе доред?
 firefox-accounts-sign-in = Ворид шудан
