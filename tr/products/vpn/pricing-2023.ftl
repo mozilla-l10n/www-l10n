@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] { $devices } cihaz bağlayabilme imkânı
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] { $devices } adede kadar Android, iOS, Windows, macOS veya Linux cihazı bağlama imkânı
+       *[other] { $devices } adede kadar Android, iOS, Windows, macOS veya Linux cihazı bağlama imkânı
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -40,3 +47,7 @@ vpn-pricing-how-do-i-manage = Aboneliğimi nasıl yönetebilirim ve paketimi nas
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = { -brand-name-mozilla-vpn } abonesiyseniz istediğiniz zaman paketinizi değiştirebilir veya <a { $manage }>aboneliğinizi yönetebilirsiniz</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-download-the-app = Uygulamayı indir
