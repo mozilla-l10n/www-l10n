@@ -50,6 +50,7 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } sürümünü indir
+firefox-all-esr-if-you-choose = Eski ESR sürümünü indirmeyi seçerseniz geçiş dönemi sona erdiğinde otomatik olarak yeni sürüme güncelleneceksiniz.
 firefox-all-check-the-system-requirements = Sistem gereksinimlerini kontrol edin
 firefox-all-release-notes = Sürüm notları
 firefox-all-source-code = Kaynak kodu

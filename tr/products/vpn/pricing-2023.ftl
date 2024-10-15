@@ -30,8 +30,8 @@ vpn-pricing-connect-up-to-platforms =
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] { $countries }+ ülkede { $servers } sunucuya erişin
-       *[other] { $countries }+ ülkede { $servers } sunucuya erişin
+        [one] { $countries }+ ülkedeki { $servers } sunucuya erişim
+       *[other] { $countries }+ ülkedeki { $servers } sunucuya erişim
     }
 vpn-pricing-money-back = 30 günlük para iade garantisi (yalnızca yeni müşteriler için)
 vpn-pricing-annual = Yıllık
@@ -50,4 +50,6 @@ vpn-pricing-if-already-subscribed = { -brand-name-mozilla-vpn } abonesiyseniz is
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Uygulamayı indirmek için mobil cihazınızla veya tabletinizle QR kodunu okutun
+vpn-pricing-sign-up-on-your-mobile-device = Mobil cihazınızda { -brand-name-mozilla-vpn } abonesi olun
 vpn-pricing-download-the-app = Uygulamayı indir
