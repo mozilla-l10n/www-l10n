@@ -13,6 +13,7 @@ what-is-firefox = «{ -brand-name-firefox }» чӣ аст?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+how-do-i = Чӣ тавр браузери «{ -brand-name-firefox-browser }»-ро боргирӣ намоям?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
