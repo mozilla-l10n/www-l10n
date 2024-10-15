@@ -11,12 +11,6 @@ moz-account-promo-title = تسجيل دخول واحد. <br> <span { $class }>ك
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = هل لديك حساب بالفعل؟ <a { $sign_in_url }>سجِّل الدخول</a> أو <a { $learn_more_url }>اطّلع على المزيد</a> حول الانضمام إلى { -brand-name-mozilla }.
 
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = هل لديك حساب بالفعل؟ <a { $sign_in_url }>تسجيل الدخول</a> أو <a { $learn_more_url }>معرفة المزيد</a> عن { -brand-name-mozilla }
-
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

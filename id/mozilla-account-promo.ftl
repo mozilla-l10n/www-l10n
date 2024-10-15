@@ -11,12 +11,6 @@ moz-account-promo-title = Satu info masuk. <br> <span { $class }>Semua di</span>
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Sudah punya akun? <a { $sign_in_url }>Masuk</a> atau <a { $learn_more_url }>pelajari lebih lanjut</a> mengenai bergabung dengan { -brand-name-mozilla }.
 
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Sudah punya akun? <a { $sign_in_url }>Masuk</a> atau <a { $learn_more_url }>pelajari lebih lanjut</a> tentang { -brand-name-mozilla }
-
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
