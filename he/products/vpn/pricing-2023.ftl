@@ -33,6 +33,22 @@ vpn-pricing-access =
         [one] גישה לשרת אחד בלמעלה מ־{ $countries } מדינות
        *[other] גישה ל־{ $servers } שרתים בלמעלה מ־{ $countries } מדינות
     }
+vpn-pricing-money-back = החזר כספי מובטח תוך 30 יום (ללקוחות חדשים בלבד)
+vpn-pricing-annual = שנתי
+vpn-pricing-monthly = חודשי
+vpn-pricing-get-annual-subscription = קבלת מינוי שנתי
+vpn-pricing-get-monthly-subscription = קבלת מינוי חודשי
+vpn-pricing-vpn-not-available = ‏{ -brand-name-mozilla-vpn } עדיין לא זמין במדינה שלך
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = תשובות לשאלות נפוצות
+vpn-pricing-refund-policy = מהי מדיניות ההחזרים של { -brand-name-mozilla-vpn }?
+vpn-pricing-the-first-time-you = בפעם הראשונה שיבוצע רישום כמינוי ל־{ -brand-name-mozilla-vpn } דרך האתר של { -brand-name-mozilla }, אם תבטל את החשבון שלך במהלך 30 הימים הראשונים, יהיה באפשרותך לבקש החזר כספי ו־{ -brand-name-mozilla } תחזיר את תקופת המינוי הראשונה שלך.
+vpn-pricing-if-you-purchased = אם רכשת את המינוי שלך באמצעות רכישה בתוך האפליקציה של Apple App Store או מחנות Google Play, התשלום שלך כפוף לתנאים וההגבלות של החנות. עליך להפנות כל פניה לחיוב והחזר כספי עבור רכישות כאלה אל Apple או Google, בהתאם לצורך.
+vpn-pricing-what-information = איזה מידע { -brand-name-mozilla-vpn } שומר?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = אנו מקפידים על <a { $principles }>עקרונות פרטיות הנתונים</a> של { -brand-name-mozilla }. אנו אוספים רק נתונים הנדרשים כדי לשמור על { -brand-name-mozilla-vpn } פעיל ולשפר את המוצר לאורך זמן. אנו גם עוקבים אחר נתוני מסעות פרסום והפניות ביישומון שלנו לנייד כדי לעזור ל־{ -brand-name-mozilla } להבין את היעילות של מסעות הפרסום השיווקיים שלנו. מידע נוסף ב<a { $notice }>הודעת הפרטיות</a> שלנו.
 
 ## Mobile only subscription copy
 
