@@ -24,11 +24,11 @@ misinformation-known-to-br-credible = É conhecido por ser credível? Se não ti
 misinformation-overly-sensational = A manchete é excessivamente sensacional?
 misinformation-check-out-websites = Consulte sites e canais de notícias em que confia para ver se e como estes reportam o mesmo tópico. O conteúdo que tem a intenção de manipular utiliza, muitas vezes, extremismos e exageros para os quais não existem evidências, elementos que não serão encontrados em reportagens bem fundamentadas.
 misinformation-content-up-to-date = O conteúdo está atualizado?
-misinformation-outdated-information = Informação desatualizada não tem, necessariamente, a intenção de desinformar, mas pode deixar de estar corretamente correta.
-misinformation-credible-publication = O autor publicou outros artigos ou mensagens, de preferência também em publicações credíveis?
+misinformation-outdated-information = A informação desatualizada não tem, necessariamente, a intenção de desinformar, mas pode deixar de estar corretamente correta.
+misinformation-credible-publication = O autor publicou outros artigos ou mensagens, idealmente também em publicações credíveis?
 misinformation-authors-name = Se só encontra o nome do autor em sites questionáveis, não deve dar demasiada atenção às suas declarações.
 misinformation-images-captions = As imagens e as legendas correspondem?
-misinformation-images-are-powerful = As imagens são uma ferramenta muito poderosa para a desinformação direcionada. Dependendo da legenda, a perceção pode ser distorcida para o contrário absoluto. Se não tiver a certeza, realize uma pesquisa inversa de imagem para descobrir como a imagem é descrito noutros sites.
+misinformation-images-are-powerful = As imagens são uma ferramenta muito poderosa para a desinformação direcionada. Dependendo da legenda, a perceção pode ser distorcida para o contrário absoluto. Se não tiver a certeza, realize uma pesquisa inversa de imagem para descobrir como a imagem é descrita noutros sites.
 misinformation-how-firefox-helps-heading = Como o { -brand-name-firefox } o ajuda a evitar a desinformação
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } mantém os rastreadores sob controlo:
 # Variables:
