@@ -49,6 +49,13 @@ vpn-pricing-what-information = איזה מידע { -brand-name-mozilla-vpn } ש�
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-pricing-we-adhere-strictly = אנו מקפידים על <a { $principles }>עקרונות פרטיות הנתונים</a> של { -brand-name-mozilla }. אנו אוספים רק נתונים הנדרשים כדי לשמור על { -brand-name-mozilla-vpn } פעיל ולשפר את המוצר לאורך זמן. אנו גם עוקבים אחר נתוני מסעות פרסום והפניות ביישומון שלנו לנייד כדי לעזור ל־{ -brand-name-mozilla } להבין את היעילות של מסעות הפרסום השיווקיים שלנו. מידע נוסף ב<a { $notice }>הודעת הפרטיות</a> שלנו.
+vpn-pricing-how-do-i-manage = איך אוכל לנהל את המינוי שלי ולשנות את התוכנית שלי?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = אם כבר נרשמת כמינוי ל־{ -brand-name-mozilla-vpn }, באפשרותך לשנות את התוכנית או <a { $manage }>לנהל את המינוי שלך</a> בכל עת.
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = כדי להוריד את היישומון, יש לסרוק את קוד ה־QR עם המכשיר הנייד או מחשב הלוח שלך.
+vpn-pricing-sign-up-on-your-mobile-device = הרשמה כמינוי של { -brand-name-mozilla-vpn } במכשיר הנייד שלך
+vpn-pricing-download-the-app = הורדת היישומון
