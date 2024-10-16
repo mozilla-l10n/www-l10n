@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Quai è ina buna occasiun per t'engraziar per 
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Sche ti vuls savair tge che capita tar { -brand-name-nightly } ed en sia community, pos ti cumenzar cun leger noss <a { $blog }>blog</a> ed ans suandar sin <a { $mastodon }>Mastodon</a> u <a { $twitter }>X</a>!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Sche ti vuls savair novas da quai che capita tar { -brand-name-nightly } ed en sia community, pos ti cumenzar cun leger noss <a href="{ $blog }">blog</a> e suandar nus sin <a href="{ $mastodon }">Mastodon</a> u <a href="{ $twitter }">Twitter</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Vuls ti savair tge funcziuns da la plattafurma che ti pudessas testar en { -brand-name-nightly } che na stattan anc betg a disposiziun en ils auters chanals da publicaziun da { -brand-name-firefox }? Lura dà in'egliada a la pagina da preferenzas dad <a { $attrs }>Experiments da Nightly</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Vuls ti savair tge funcziuns che ti pos testar en { -brand-name-nightly } che na stattan anc betg a disposiziun en ils auters chanals da publicaziun da { -brand-name-firefox }? Lura dà in’egliada a la pagina da preferenzas da <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Constateschas ti collaps e pannas? In cumportament nunspetgà? Novs problems da cumpatibilitad en il web? Nus beneventassan fitg sche ti annunziassas tias observaziuns en <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> per che nus pudain evitar che tals sbagls cumparan en la versiun definitiva (ti pos ramassar puncts da bonus sche ti menziunas il chavazzin <em>{ -brand-name-nightly } community</em> en tia annunzia d'errur!

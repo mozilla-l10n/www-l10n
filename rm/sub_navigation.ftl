@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Tut las linguas
 sub-navigation-firefox = { -brand-name-firefox }
@@ -15,6 +15,7 @@ sub-navigation-compare-mobile-browsers = Cumparegliar navigaturs mobils
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } per computers
 sub-navigation-release-notes = Remartgas davart la versiun
 sub-navigation-desktop = Computer (desktop)
+sub-navigation-mobile = Mobil
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = Agid per { -brand-name-ios }
@@ -23,20 +24,10 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } e { -brand-name-developer-edition } per computers (desktop)
 sub-navigation-desktop-nightly = { -brand-name-nightly } per computers (desktop)
 sub-navigation-features = Funcziunalitads
-sub-navigation-support = Agid
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Supplements
-sub-navigation-add-ons = Supplements
-sub-navigation-faq = Dumondas frequentas
-sub-navigation-learn-more = Ulteriuras infurmaziuns
-sub-navigation-developer-edition = { -brand-name-developer-edition }
+sub-navigation-more = Dapli
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } per apparats mobils
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Supplements per { -brand-name-android }
-sub-navigation-android-add-ons = Supplements per { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
+sub-navigation-mozilla-account = { -brand-name-mozilla-account }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } per 64 bits
@@ -52,8 +43,3 @@ sub-navigation-private-browsing = Modus privat
 sub-navigation-what-is-a-browser = Tge è in navigatur?
 sub-navigation-browsing-history = Cronologia da navigaziun
 sub-navigation-browser-history = L'istorgia dals navigaturs
-sub-navigation-privacy = Protecziun da datas
-sub-navigation-our-promise = Noss engaschi
-sub-navigation-our-products = Noss products
-sub-navigation-little-book-of-privacy = Il cudeschet da la sfera privata
-sub-navigation-safe-passwords = Pleds-clav segirs

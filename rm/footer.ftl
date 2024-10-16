@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Il manifest da { -brand-name-mozilla }
 footer-privacy-hub = Survista da la protecziun da datas
 footer-privacy = Sfera privata
 footer-press = Pressa
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog da l'interpresa
 footer-mozilla-blog = Blog da { -brand-name-mozilla }
 footer-browser-comparison = Cumparegliaziun da navigaturs
 footer-brand-standards = Standards da marca
@@ -40,8 +38,6 @@ footer-websites-legal = Legal
 footer-language = Lingua
 footer-go = Dai
 footer-donate = Far ina donaziun
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (anteriur Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Suandar @{ -brand-name-mozilla }
 footer-follow-firefox = Suandar @{ -brand-name-firefox }
 footer-about-this-site = Davart questa website
+footer-advertise = Fa reclama cun { -brand-name-mozilla }
