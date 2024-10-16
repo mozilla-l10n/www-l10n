@@ -70,9 +70,28 @@ vpn-shared-platform-cta-button = הצגת תמחור וזמינות
 vpn-shared-platform-privacy-promise = הפרטיות שלך היא ההבטחה שלנו
 vpn-shared-platform-what-is = מהו { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = למה { -brand-name-mozilla-vpn }?
+vpn-shared-platform-what-youll-get = מה כלול ב־{ -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = מידע נוסף על VPN
+vpn-subnav-download-mozilla-vpn = הורדת { -brand-name-mozilla-vpn }
+vpn-subnav-features = תכונות
 
 ## Press quotations
 
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = ״ה־VPN של { -brand-name-mozilla } יכול גם <a { $attrs }>להשתלב בכמה תכונות להגנת הפרטיות החזקות</a> של הדפדפן { -brand-name-firefox } שלו.״
+vpn-press-unique-features-like-its-multi-account = ״…תכונות ייחודיות, כמו מגירות לריבוי החשבונות שלה, עשויות להפוך את התכונה לנגישה בקלות למשתמשים עם חששות חמורים יותר לפרטיות.״
+vpn-press-mozilla-vpns-feature-list-has-grown = ״רשימת התכונות של { -brand-name-mozilla-vpn } גדלה במידה ניכרת מאז ההשקה, והשירות כעת מנצח רשתות VPN רבות באזורים מסוימים.״
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = ‏{ -brand-name-mozilla-vpn } אינו מוצע כעת ב{ $language }, אבל באפשרותך להשתמש בו באנגלית, צרפתית, גרמנית, ספרדית ו<a { $href }>מעל 30 שפות אחרות</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = רוצה לעזור להביא את הבשורה של { -brand-name-mozilla-vpn } לעוד אנשים? <a { $href }>באפשרותך להפוך למתרגם בהתנדבות</a>.
