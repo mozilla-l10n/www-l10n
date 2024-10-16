@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Ferbyn maksimaal { $devices } apparaten
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Ferbyn maksimaal { $devices } Android-, iOS-, Windows-, macOS- of Linux-apparaat
+       *[other] Ferbyn maksimaal { $devices } Android-, iOS-, Windows-, macOS- of Linux-apparaten
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -46,3 +53,9 @@ vpn-pricing-how-do-i-manage = Hoe behear ik myn abonnemint en wizigje ik het?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = As jo al abonnearre binne op { -brand-name-mozilla-vpn }, dan kinne jo op elk winske momint jo soarte fan abonnemint wizigje of <a { $manage }>jo abonnemint beheare</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Scan de QR-koade mei jo mobile apparaat of tablet om de app te downloaden
+vpn-pricing-sign-up-on-your-mobile-device = Skriuw jo yn foar in { -brand-name-mozilla-vpn }-abonnemint op jo mobile apparaat
+vpn-pricing-download-the-app = De app downloade
