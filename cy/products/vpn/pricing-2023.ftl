@@ -26,12 +26,12 @@ vpn-pricing-connect-up-to =
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to-platforms =
     { $devices ->
-        [zero] Cysylltwch hyd at { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
-        [one] Cysylltwch hyd at { $devices } dyfais Android, iOS, Windows, macOS neu Linux
-        [two] Cysylltwch hyd at { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
-        [few] Cysylltwch hyd at { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
-        [many] Cysylltwch hyd at { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
-       *[other] Cysylltwch hyd at { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
+        [zero] Cysylltwch { $devices } dyfeisiau Android, iOS, Windows, macOS neu Linux
+        [one] Cysylltwch { $devices } dyfais Android, iOS, Windows, macOS neu Linux
+        [two] Cysylltwch hyd at { $devices } ddyfais Android, iOS, Windows, macOS neu Linux
+        [few] Cysylltwch hyd at { $devices } dyfais Android, iOS, Windows, macOS neu Linux
+        [many] Cysylltwch hyd at { $devices } dyfais Android, iOS, Windows, macOS neu Linux
+       *[other] Cysylltwch hyd at { $devices } dyfais Android, iOS, Windows, macOS neu Linux
     }
 # Variables:
 #   $servers (number) - number of VPN servers
@@ -68,6 +68,6 @@ vpn-pricing-if-already-subscribed = Os ydych eisoes wedi tanysgrifio i { -brand-
 
 ## Mobile only subscription copy
 
-vpn-pricing-scan-qrcode-to-download = I lawrlwytho'r ap, sganiwch y Cod QR gyda'ch dyfais symudol neu dabled
+vpn-pricing-scan-qrcode-to-download = I lwytho'r ap i lawr, sganiwch y Cod QR gyda'ch dyfais symudol neu dabled
 vpn-pricing-sign-up-on-your-mobile-device = Cofrestrwch ar gyfer tanysgrifiad { -brand-name-mozilla-vpn } ar eich dyfais symudol
 vpn-pricing-download-the-app = Llwytho'r ap i lawr
