@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = To dobra okazja, aby podziękować użytkownik
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Nasz <a { $blog }>blog</a>, <a { $mastodon }>Mastodon</a> i <a { $twitter }>Twitter</a> są dobrymi miejscami, aby zacząć śledzić, co się dzieje z wersją { -brand-name-nightly } i społecznością wokół niej.
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Nasz <a href="{ $blog }">blog</a>, <a href="{ $mastodon }">Mastodon</a> i <a href="{ $twitter }">Twitter</a> są dobrymi miejscami, aby zacząć śledzić, co się dzieje z wersją { -brand-name-nightly } i społecznością wokół niej.
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Chcesz wiedzieć, które funkcje można testować w wersji { -brand-name-nightly }, a są niedostępne w pozostałych kanałach { -brand-name-firefox(case: "gen") }? Zajrzyj na stronę preferencji <a { $attrs }>Eksperymenty przeglądarki Nightly</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Chcesz wiedzieć, które funkcje można testować w wersji { -brand-name-nightly }, a są niedostępne w pozostałych kanałach { -brand-name-firefox(case: "gen") }? Zajrzyj na stronę preferencji <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Przeglądarka się zawiesza? Dziwnie zachowuje? Źle wyświetla strony? Byłoby świetnie, gdyby zostało to zgłoszone w <a href="{ $bugzilla }">{ -brand-name-bugzilla(case: "loc") }</a>, dzięki czemu zostanie to załatane przed wydaniem wersji stabilnej. Dodatkowe punkty za dodanie do zgłoszenia słowa kluczowego <em>{ -brand-name-nightly }-community</em>!

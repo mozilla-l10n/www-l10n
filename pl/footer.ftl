@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
 footer-privacy-hub = Centrum prywatności
 footer-privacy = Prywatność
 footer-press = Dla prasy
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog firmowy
 footer-mozilla-blog = Blog { -brand-name-mozilla(case: "gen") }
 footer-browser-comparison = Porównanie przeglądarek
 footer-brand-standards = Standardy marki
@@ -40,8 +38,6 @@ footer-websites-legal = Podstawa prawna
 footer-language = Język
 footer-go = Przejdź
 footer-donate = Przekaż datek
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = Twitter
 footer-x-formerly-twitter = Twitter
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Obserwuj @{ -brand-name-mozilla }
 footer-follow-firefox = Obserwuj @{ -brand-name-firefox }
 footer-about-this-site = Informacje o tej witrynie
+footer-advertise = Reklama z { -brand-name-mozilla(case: "ins") }
