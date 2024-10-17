@@ -14,9 +14,11 @@ newsletter-form-select-language = Vel språk
 newsletter-form-your-email-here = DI EPOSTADRESSE HER
 newsletter-form-get-firefox-news = Få nyheiter om { -brand-name-firefox }
 newsletter-form-join-the-community = Ver med i fellesskapet
+newsletter-form-sign-up-to-receive = Registrer deg for å få månadlege oppdateringar frå { -brand-name-firefox } og internettrendar som formar livet ditt på nettet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
+newsletter-form-we-will-only-send-v2 = Vi sender deg berre { -brand-name-mozilla }-relatert informasjon. Du kan melde deg av når som helst.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Vi vil berre sende deg { -brand-name-mozilla }-relatert informasjon.
 newsletter-form-we-will-only-send-firefox-v2 = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon. Du kan melde deg av når som helst.
