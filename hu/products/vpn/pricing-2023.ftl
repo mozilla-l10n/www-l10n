@@ -57,5 +57,7 @@ vpn-pricing-if-already-subscribed = Ha már előfizetett a { -brand-name-mozilla
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Az alkalmazás letöltéséhez olvassa le a QR-kódot mobileszközével vagy táblagépével
+vpn-pricing-scan-qrcode-to-download-android = Az alkalmazás letöltéséhez olvassa le a QR-kódot androidos eszközével vagy táblagépével
 vpn-pricing-sign-up-on-your-mobile-device = Regisztráljon { -brand-name-mozilla-vpn }-előfizetést a mobileszközén
+vpn-pricing-sign-up-on-your-android-device = Regisztráljon { -brand-name-mozilla-vpn }-előfizetést az androidos eszközén
 vpn-pricing-download-the-app = Alkalmazás letöltése
