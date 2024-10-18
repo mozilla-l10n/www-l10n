@@ -19,7 +19,11 @@ nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını g
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $twitter }>X</a>’te takip edebilirsiniz.
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = { -brand-name-nightly } tarayıcısında test edebileceğiniz, henüz diğer { -brand-name-firefox } kanallarında olmayan özellikleri mi merak ediyorsunuz? Öyleyse <a { $attrs }>Nightly Experiments</a> tercihleri sayfasına bakabilirsiniz.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = { -brand-name-nightly } tarayıcısında test edebileceğiniz, henüz diğer { -brand-name-firefox } kanallarında olmayan özellikleri mi merak ediyorsunuz? Öyleyse <a { $attrs }>{ -brand-name-firefox-labs }</a> tercihleri sayfasına bakabilirsiniz.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Tarayıcınız çöküyor mu? Beklenmedik bir şeyler mi oluyor? Web sayfalarında uyumluluk sorunları mı var? Bunları <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> aracılığıyla bize bildirirseniz final sürüme ulaşmadan çözmeye çalışabiliriz. (Bug raporlarınıza <em>{ -brand-name-nightly }-community</em> anahtar kelimesini eklerseniz çok seviniriz.)

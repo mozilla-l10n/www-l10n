@@ -47,10 +47,19 @@ firefox-all-64-bit-installers = 64 bit yükleyiciler
 firefox-all-choose-a-64-bit-installer = 64 bit işlemcili bilgisayarlar için 64 bit yükleyiciyi seçin. 64 bit işlemcili bilgisayarlar programlara daha fazla RAM ayrılabilmesini sağlar. Bu, özellikle oyunlar ve belleği yoğun kullanan uygulamalar için önemlidir.
 firefox-all-32-bit-installers = 32 bit yükleyiciler
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Bu seçenek, Microsoft Store web sitesinde { -brand-name-firefox } ürün sayfasını açacaktır. Windows 10 veya Windows 11 kullanıyorsanız bu sayfadan Microsoft Store’u açıp { -brand-name-firefox }’u yükleme seçeneğiniz olacak. { -brand-name-firefox }’u Microsoft Store’dan yüklerseniz bundan sonraki güncellemeleri de Microsoft Store üzerinden yapılacaktır. Microsoft Store’dan yüklenen { -brand-name-firefox }’un davranış ve yeteneklerinde küçük farklılıklar vardır ama çoğu kullanıcı için bunlar önemsiz ve görünmezdir.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } sürümünü indir
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Şu anda { $esr_next_majo } ile { $esr_current_majo } ESR sürümleri arasındaki geçiş dönemindeyiz.
+firefox-all-esr-when-there-is = Büyük bir sürüm güncellemesi olduğunda hem yeni hem de eski { -brand-name-firefox-esr } sürümüne ait birkaç küçük sürüm yayımlanır. Böylece eski sürümü kullanan kişiler yenisine geçmeye hazırlanabilir.
 firefox-all-esr-if-you-choose = Eski ESR sürümünü indirmeyi seçerseniz geçiş dönemi sona erdiğinde otomatik olarak yeni sürüme güncelleneceksiniz.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } sürüm döngüsü</a> hakkında bilgi alın.
 firefox-all-check-the-system-requirements = Sistem gereksinimlerini kontrol edin
 firefox-all-release-notes = Sürüm notları
 firefox-all-source-code = Kaynak kodu
