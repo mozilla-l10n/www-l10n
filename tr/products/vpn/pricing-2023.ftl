@@ -42,6 +42,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } henüz ülkenizde ku
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = SSS
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
+vpn-pricing-the-first-time-you = { -brand-name-mozilla-vpn }’e { -brand-name-mozilla } web sitesi üzerinden ilk kez abone olduğunuzda, ilk 30 gün içinde hesabınızı iptal ederseniz iade talep edebilirsiniz. { -brand-name-mozilla } ilk abonelik bedelinizi iade edecektir.
 vpn-pricing-what-information = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
 vpn-pricing-how-do-i-manage = Aboneliğimi nasıl yönetebilirim ve paketimi nasıl değiştirebilirim?
 # Variables

@@ -8,8 +8,9 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Tebrikler. En yeni { -brand-name-firefox-developer-edition } sürümünü kullanıyorsunuz.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Tebrikler. En yeni { -brand-name-firefox-browser } { -brand-name-developer-edition } sürümünü kullanıyorsunuz.
+# Main title
+developer-mdnplus-more-mdn-your-mdn = Daha fazla { -brand-name-mdn }. <em>Sizin</em> { -brand-name-mdn }’iniz.
+developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs }; CSS, HTML, JavaScript ve Web API'ları gibi web platformu teknolojilerini belgeleyen, açık kaynaklı, işbirliğine dayalı bir projedir. Ayrıca yeni başlayan geliştiriciler ve öğrenciler için kapsamlı öğrenme kaynakları da sunuyoruz.
 developer-mdnplus-support-mdn-and-make = { -brand-name-mdn }’i destekleyin <em>ve</em> istediğiniz gibi kişiselleştirin.
 # CTA button
 developer-mdnplus-get-started = Başlayın
