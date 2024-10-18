@@ -43,7 +43,12 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } henüz ülkenizde ku
 vpn-pricing-faqs = SSS
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
 vpn-pricing-the-first-time-you = { -brand-name-mozilla-vpn }’e { -brand-name-mozilla } web sitesi üzerinden ilk kez abone olduğunuzda, ilk 30 gün içinde hesabınızı iptal ederseniz iade talep edebilirsiniz. { -brand-name-mozilla } ilk abonelik bedelinizi iade edecektir.
+vpn-pricing-if-you-purchased = Aboneliğinizi Apple App Store veya Google Play Store'dan uygulama içi satın alma yoluyla satın aldıysanız ödemeniz ilgili mağazanın şart ve koşullarına tabidir. Bu tür satın alma işlemleriyle ilgili fatura ve iade sorularınızı Apple veya Google'a iletmelisiniz.
 vpn-pricing-what-information = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = { -brand-name-mozilla }’nın <a { $principles }>Veri Gizliliği İlkeleri</a>’ne sıkı sıkıya bağlıyız. Yalnızca { -brand-name-mozilla-vpn }’i çalışır halde tutmak ve ürünü geliştirmek için gereken verileri topluyoruz. Pazarlama kampanyalarımızın ne kadar etkili olduğunu { -brand-name-mozilla }’nın anlayabilmesi için mobil uygulamamızdaki kampanya ve referans verilerini de takip ediyoruz. Daha fazla bilgi için <a { $notice }>Gizlilik Bildirimi</a>’mizi okuyabilirsiniz.
 vpn-pricing-how-do-i-manage = Aboneliğimi nasıl yönetebilirim ve paketimi nasıl değiştirebilirim?
 # Variables
 # $manage (url) - link to subscription management page
