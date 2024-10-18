@@ -54,5 +54,7 @@ vpn-pricing-if-already-subscribed = 若您訂閱了 { -brand-name-mozilla-vpn }�
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = 請使用行動裝置或平板電腦掃描 QR Code
+vpn-pricing-scan-qrcode-to-download-android = 請使用 Android 裝置或平板電腦掃描 QR Code
 vpn-pricing-sign-up-on-your-mobile-device = 在您的行動裝置訂閱 { -brand-name-mozilla-vpn }
+vpn-pricing-sign-up-on-your-android-device = 在 Android 裝置上註冊 { -brand-name-mozilla-vpn }
 vpn-pricing-download-the-app = 下載應用程式
