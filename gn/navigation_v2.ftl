@@ -66,6 +66,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuái romomba’éva.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 navigation-v2-impact = Mbaretekue
+navigation-v2-find-out-how = Ehecha mba’épa rojapo Ñanduti ojeporuve ha hekoresãi hag̃ua
 
 ## Innovation menu
 
