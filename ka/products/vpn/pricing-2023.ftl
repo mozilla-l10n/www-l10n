@@ -57,5 +57,7 @@ vpn-pricing-if-already-subscribed = თუ უკვე გამოწერი
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = აპის ჩამოსატვირთად, QR-კოდი წააკითხეთ თქვენი მობილური მოწყობილობით ან პლანშეტით
+vpn-pricing-scan-qrcode-to-download-android = აპის ჩამოსატვირთად, QR-კოდი წააკითხეთ თქვენი Android მოწყობილობით ან პლანშეტით
 vpn-pricing-sign-up-on-your-mobile-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს მობილურ მოწყობილობაზე
+vpn-pricing-sign-up-on-your-android-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს Android მოწყობილობაზე
 vpn-pricing-download-the-app = ჩამოტვირთეთ აპლიკაცია
