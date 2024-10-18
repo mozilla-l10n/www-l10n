@@ -63,5 +63,7 @@ vpn-pricing-if-already-subscribed = Ak už máte predplatné { -brand-name-mozil
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Ak chcete aplikáciu stiahnuť, naskenujte QR kód pomocou mobilného zariadenia alebo tabletu
+vpn-pricing-scan-qrcode-to-download-android = Ak chcete aplikáciu stiahnuť, naskenujte QR kód pomocou zariadenia alebo tabletu so systémom Android
 vpn-pricing-sign-up-on-your-mobile-device = Prihláste sa na odber služby { -brand-name-mozilla-vpn } na svojom mobilnom zariadení
+vpn-pricing-sign-up-on-your-android-device = Prihláste sa na odber služby { -brand-name-mozilla-vpn } na svojom zariadení so systémom Android
 vpn-pricing-download-the-app = Stiahnuť aplikáciu
