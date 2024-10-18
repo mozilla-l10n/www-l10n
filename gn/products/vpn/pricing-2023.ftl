@@ -46,3 +46,9 @@ vpn-pricing-how-do-i-manage = Mba’éichapa añangarekóta che mboheraguapy ha 
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Eñemboheraguapýmaramo { -brand-name-mozilla-vpn }-pe, emoambuekuaa erekóva térã <a { $manage }>eñangareko ne ñemboheraguapýre</a> opaite ára.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Emboguejy hag̃ua tembiporu’i, emoha’ãnga QR ayvu ne pumbyry térã tablétape
+vpn-pricing-sign-up-on-your-mobile-device = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive ne pumbyry popeguápe
+vpn-pricing-download-the-app = Emboguejy tembiporu’i
