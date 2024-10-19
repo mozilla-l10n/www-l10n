@@ -22,3 +22,17 @@ vpn-android-privacy-copy = { -brand-name-android }용 { -brand-name-mozilla-vpn 
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
 vpn-android-servers-headline = { $countries }개 이상 국가에 { $servers }개 이상의 서버
+# Variables:
+#   $countries (number) - number of available countries
+vpn-android-servers-copy = { -brand-name-mozilla-vpn }을 사용하면 { -brand-name-android } 휴대폰의 위치를 { $countries }개 이상의 국가 중 하나로 설정할 수 있습니다. 이는 연결 국가 현지에서처럼 웹을 보게 된다는 뜻으로, 새로운 관점에서 재미있고 흥미롭게 웹을 경험할 수 있습니다.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-headline = 하나의 구독으로 최대 { $devices }개의 기기 연결
+# Variables:
+#   $devices (number) - number of available devices
+vpn-android-devices-copy = { -brand-name-mozilla-vpn }은 { -brand-name-android }와 { -brand-name-ios }, { -brand-name-mac-short }, { -brand-name-windows }, { -brand-name-linux } 등의 다양한 기기 { $devices }개에 연결할 수 있습니다. 스마트폰과 데스크톱, 노트북, 태블릿 등에서 사용하세요.
+vpn-android-speed-headline = 엄청난 속도. 무제한 데이터.
+vpn-android-speed-copy = { -brand-name-android } 기기에서 엄청난 속도와 무제한 대역폭으로 온라인 게임, 영화 스트리밍, 웹 서핑을 즐기세요.
+vpn-android-log-headline = 기록하지 않습니다. 추적하지 않습니다. 사생활을 침해하지 않습니다.
+# "That's not how we roll" can be simplified into "That's not how we do things" or "That's not how we operate". The intent is to show how Mozilla is different from many other VPN providers.
+vpn-android-log-copy = 많은 VPN 제공 업체가 사용자의 활동을 서버에 기록합니다. 그러나 우리는 다릅니다. { -brand-name-mozilla-vpn }은 사용자의 온라인 활동을 추적하지 않습니다. 우리 회사가 지지하는 모든 것에 어긋나기 때문입니다. 우리는 그 무엇보다도 사용자의 개인 정보 보호와 안전을 최우선시합니다.
