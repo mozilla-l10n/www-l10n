@@ -43,7 +43,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } henüz ülkenizde ku
 vpn-pricing-faqs = SSS
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn }’in iade politikası nasıl?
 vpn-pricing-the-first-time-you = { -brand-name-mozilla-vpn }’e { -brand-name-mozilla } web sitesi üzerinden ilk kez abone olduğunuzda, ilk 30 gün içinde hesabınızı iptal ederseniz iade talep edebilirsiniz. { -brand-name-mozilla } ilk abonelik bedelinizi iade edecektir.
-vpn-pricing-if-you-purchased = Aboneliğinizi Apple App Store veya Google Play Store'dan uygulama içi satın alma yoluyla satın aldıysanız ödemeniz ilgili mağazanın şart ve koşullarına tabidir. Bu tür satın alma işlemleriyle ilgili fatura ve iade sorularınızı Apple veya Google'a iletmelisiniz.
+vpn-pricing-if-you-purchased = Aboneliğinizi Apple App Store veya Google Play Store’dan uygulama içi satın alma yoluyla satın aldıysanız ödemeniz ilgili mağazanın şart ve koşullarına tabidir. Bu tür satın alma işlemleriyle ilgili fatura ve iade sorularınızı Apple veya Google’a iletmelisiniz.
 vpn-pricing-what-information = { -brand-name-mozilla-vpn } hangi bilgilerinizi saklar?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/

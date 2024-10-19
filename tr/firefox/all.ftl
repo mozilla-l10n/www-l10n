@@ -54,7 +54,7 @@ firefox-all-download-esr-version = { $esr_version } sürümünü indir
 # Variables:
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
-firefox-all-esr-we-are-in-transition = Şu anda { $esr_next_majo } ile { $esr_current_majo } ESR sürümleri arasındaki geçiş dönemindeyiz.
+firefox-all-esr-we-are-in-transition = Şu anda { $esr_next_major } ile { $esr_current_major } ESR sürümleri arasındaki geçiş dönemindeyiz.
 firefox-all-esr-when-there-is = Büyük bir sürüm güncellemesi olduğunda hem yeni hem de eski { -brand-name-firefox-esr } sürümüne ait birkaç küçük sürüm yayımlanır. Böylece eski sürümü kullanan kişiler yenisine geçmeye hazırlanabilir.
 firefox-all-esr-if-you-choose = Eski ESR sürümünü indirmeyi seçerseniz geçiş dönemi sona erdiğinde otomatik olarak yeni sürüme güncelleneceksiniz.
 # Variables:
