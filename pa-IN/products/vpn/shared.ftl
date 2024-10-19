@@ -10,15 +10,76 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ਲਵੋ
 vpn-shared-waitlist-link = ਉਡੀਕ-ਸੂਚੀ ਦਾ ਹਿੱਸਾ ਬਣੋ
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-ਦਿਨਾਂ ਦੀ ਪੈਸੇ ਵਾਪਸੀ ਦੀ ਗਾਰੰਟੀ
+vpn-shared-features-encrypt = ਡਿਵਾਇਸ-ਪੱਧਰੀ ਇੰਕ੍ਰਿਪਸ਼ਨ
+vpn-shared-features-bandwidth = ਕੋਈ ਬੈਂਡਵਿੱਥ ਲਈ ਕੋਈ ਪਾਬੰਦੀ ਨਹੀਂ
+vpn-shared-features-activity = ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸਰਗਰਮੀ ਲਈ ਕੋਈ ਲਾਗ ਨਹੀਂ ਰੱਖਦੇ
+vpn-shared-features-activity-logs = ਕੋਈ ਆਨਲਾਈਨ ਸਰਗਰਮ ਲਾਗ ਨਾ ਹੁਣ ਨਾ ਕਦੇ
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = { $countries } ਤੋਂ ਵੱਧ ਦੇਸ਼ਾਂ ਵਿੱਚ ਸਰਵਰਾਂ ਲਈ ਪਹੁੰਚ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = { $devices } ਡਿਵਾਈਸਾਂ ਤੱਕ ਨੂੰ ਸੁਰੱਖਿਆ
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = { $countries } ਤੋਂ ਵੱਧ ਦੇਸ਼ਾਂ ਵਿੱਚ ਮਜ਼ਬੂਤ ਸਰਵਰ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = { $devices } ਡਿਵਾਈਸਾਂ ਤੱਕ ਕਨੈਕਟ ਕਰੋ
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = 30-ਦਿਨ ਦੀ ਰਕਮ ਵਾਪਸੀ ਗਾਰੰਟੀ
+vpn-shared-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+vpn-shared-terms-conditions = ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } Jason A. Donenfeld ਦਾ ਰਜਿਸਟਰ ਕੀਤਾ ਮਾਰਕਾ ਹੈ
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = ਸਿਫ਼ਾਰਸ਼ੀ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/ਮਹੀਨਾ</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/ਮਹੀਨਾ + ਟੈਕਸ</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent } % ਬੱਚਤ
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { -brand-name-mozilla-vpn } ਉੱਤੇ { $percent }% ਬੱਚਤ*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *ਜਦ ਤੁਸੀਂ 12-ਮਹੀਨਿਆਂ ਦੇ ਪਲਾਨ ਲਈ ਮੈਂਬਰ ਬਣਦੇ ਹੋ
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *ਸਾਲਨਾ ਮੈਂਬਰੀ ਨਾਲ
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } ਕੁੱਲ
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } ਕੁੱਲ + ਟੈਕਸ
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = ਆਓ ਸ਼ੁਰੂ ਕਰੀਏ
+vpn-shared-platform-cta-button = ਕੀਮਤ ਅਤੇ ਮੌਜੂਦਗੀ ਵੇਖੋ
+vpn-shared-platform-privacy-promise = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਸਾਡਾ ਦਾਅਵਾ
+vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ਕੀ ਹੈ?
+vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ਹੀ ਕਿਉਂ?
+vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } ਨਾਲ ਤੁਹਾਨੂੰ ਕੀ ਮਿਲੇਗਾ:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = VPN ਬਾਰੇ ਜਾਣੋ
+vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+vpn-subnav-features = ਫ਼ੀਚਰ
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = ਜਿਵੇਂ ਵੇਖਿਆ
 
 ## Unsupported language notification
 
