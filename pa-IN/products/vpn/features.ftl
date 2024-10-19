@@ -27,3 +27,13 @@ vpn-features-connect-up-to =
         [one] { $devices } ਤੱਕ ਡਿਵਾਈਸ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
        *[other] { $devices } ਤੱਕ ਡਿਵਾਈਸਾਂ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
     }
+vpn-features-supported-platforms = Windows, macOS, Android, iOS ਅਤੇ ਲੀਨਕਸ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮਾਂ ਲਈ ਸਹਾਇਕ ਹੈ।
+vpn-features-no-bandwidth = ਨਾ ਬੈਂਡਵਿਡਥ ਦੀਆਂ ਪਾਬੰਦੀਆਂ ਨਾ ਹੀ ਰੋਕ ਟੋਕ
+vpn-features-including-no-data = ਕੋਈ ਡਾਟਾ ਹੱਦ ਜਾਂ ਸਪੀਡ ਲਿਮਟ ਨਹੀਂ।
+vpn-features-fast-network = ਗੇਮਾਂ ਖੇਡਣ ਦੌਰਾਨ ਵੀ ਤੇਜ਼ ਨੈੱਟਵਰਕ ਸਪੀਡ
+vpn-features-secure = ਸੁਰੱਖਿਅਤ
+vpn-features-block-ads = ਤੁਹਾਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ਾਂ ਉੱਤੇ ਪਾਬੰਦੀ
+vpn-features-encrypt-your-internet = ਤੁਹਾਡਾ ਸਾਰਾ ਨੈੱਟਵਰਕ ਟਰੈਫਿਕ ਇੰਕ੍ਰਿਪਟ
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸਾਰੀਆਂ ਐਪਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਨਾ, ਨਾ ਕਿ ਸਿਰਫ਼ ਬਰਾਊਜ਼ਰ ਨੂੰ।
+vpn-features-stronger-malware = ਮਜ਼ਬੂਤ ਮਾਲਵੇਅਰ ਸੁਰੱਖਿਆ
+vpn-features-flexible = ਆਗਿਆਕਾਰੀ

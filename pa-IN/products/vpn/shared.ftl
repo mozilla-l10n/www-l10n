@@ -8,7 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ਲਵੋ
 vpn-shared-waitlist-link = ਉਡੀਕ-ਸੂਚੀ ਦਾ ਹਿੱਸਾ ਬਣੋ
-vpn-shared-sign-in-link = ਪਹਿਲਾਂ ਹੀ ਮੈਂਬਰ ਹੋ?
+# This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
+vpn-shared-money-back-guarantee = 30-ਦਿਨਾਂ ਦੀ ਪੈਸੇ ਵਾਪਸੀ ਦੀ ਗਾਰੰਟੀ
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -16,11 +17,8 @@ vpn-shared-sign-in-link = ਪਹਿਲਾਂ ਹੀ ਮੈਂਬਰ ਹੋ?
 # Platform subpage shared strings
 
 
-## VPN Affiliate cookie notice
+## Press quotations
 
 
-## VPN + Relay bundle offer
-
-
-##
+## Unsupported language notification
 

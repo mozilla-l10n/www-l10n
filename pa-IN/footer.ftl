@@ -7,8 +7,6 @@ footer-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 footer-privacy-hub = ਪਰਦੇਦਾਰੀ ਹੱਬ
 footer-privacy = ਪਰਦੇਦਾਰੀ
 footer-press = ਦੱਬੋ
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = ਕਾਰਪੋਰੇਟ ਬਲੌਗ
 footer-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
 footer-browser-comparison = ਬਰਾਊਜ਼ਰਾਂ ਦੀ ਤੁਲਨਾ
 footer-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
@@ -40,8 +38,6 @@ footer-websites-legal = ਕਨੂੰਨੀ
 footer-language = ਭਾਸ਼ਾ
 footer-go = ਜਾਓ
 footer-donate = ਦਾਨ ਦਿਓ
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (ਪੁਰਾਣਾ Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 footer-follow-firefox = @{ -brand-name-firefox } ਲਈ ਫ਼ਾਲੋ ਕਰੋ
 footer-about-this-site = ਇਸ ਸਾਈਟ ਬਾਰੇ
+footer-advertise = { -brand-name-mozilla } ਨਾਲ ਇਸ਼ਤਿਹਾਰ
