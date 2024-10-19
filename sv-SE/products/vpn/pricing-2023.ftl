@@ -57,5 +57,7 @@ vpn-pricing-if-already-subscribed = Om du redan prenumererar på { -brand-name-m
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = För att ladda ner appen, skanna QR-koden med din mobila enhet eller surfplatta
+vpn-pricing-scan-qrcode-to-download-android = För att ladda ner appen, skanna QR-koden med din Android-enhet eller surfplatta
 vpn-pricing-sign-up-on-your-mobile-device = Registrera dig för en { -brand-name-mozilla-vpn }-prenumeration på din mobila enhet
+vpn-pricing-sign-up-on-your-android-device = Registrera dig för en { -brand-name-mozilla-vpn }-prenumeration på din Android-enhet
 vpn-pricing-download-the-app = Hämta appen
