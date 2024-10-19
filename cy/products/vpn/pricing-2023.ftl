@@ -69,7 +69,7 @@ vpn-pricing-if-already-subscribed = Os ydych eisoes wedi tanysgrifio i { -brand-
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = I lwytho'r ap i lawr, sganiwch y Cod QR gyda'ch dyfais symudol neu dabled
-vpn-pricing-scan-qrcode-to-download-android = I lawrlwytho'r ap, sganiwch y Cod QR gyda'ch dyfais Android neu dabled
+vpn-pricing-scan-qrcode-to-download-android = I lwytho'r ap i lawr, sganiwch y Cod QR gyda'ch dyfais symudol neu dabled
 vpn-pricing-sign-up-on-your-mobile-device = Cofrestrwch ar gyfer tanysgrifiad { -brand-name-mozilla-vpn } ar eich dyfais symudol
 vpn-pricing-sign-up-on-your-android-device = Cofrestrwch ar gyfer tanysgrifiad { -brand-name-mozilla-vpn } ar eich dyfais Android
 vpn-pricing-download-the-app = Llwytho'r ap i lawr
