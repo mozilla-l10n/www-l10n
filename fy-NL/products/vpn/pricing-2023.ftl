@@ -57,5 +57,7 @@ vpn-pricing-if-already-subscribed = As jo al abonnearre binne op { -brand-name-m
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Scan de QR-koade mei jo mobile apparaat of tablet om de app te downloaden
+vpn-pricing-scan-qrcode-to-download-android = Scan de QR-koade mei jo Android-apparaat of -tablet om de app te downloaden
 vpn-pricing-sign-up-on-your-mobile-device = Skriuw jo yn foar in { -brand-name-mozilla-vpn }-abonnemint op jo mobile apparaat
+vpn-pricing-sign-up-on-your-android-device = Skriuw jo yn foar in { -brand-name-mozilla-vpn }-abonnemint op jo Android-apparaat
 vpn-pricing-download-the-app = De app downloade
