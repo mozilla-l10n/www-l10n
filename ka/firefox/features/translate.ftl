@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = თარგმნეთ ვებგვერდი { -brand-name-firefox }-ით
-features-translate-translate-the-web = თარგმნეთ საიტები { -brand-name-firefox }-ით
+features-translate-translate-the-web = გვერდების თარგმნა
 # HTML page description
 features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox }-ის თარგმნა არის თარგმნის ჩაშენებული შესაძლებლობა, რომელიც საშუალებას გაძლევთ მარტივად მოინახულოთ ვებსივრცე, სასურველ ენით. შეიტყვეთ, თუ როგორ მუშაობს { -brand-name-firefox }-ის ეს შესაძლებლობა და როგორ ეხმარება { -brand-name-mozilla } თქვენი წერილების პირადულობაში თარგმნაში.
 features-translate-one-of-the-best-things-about = ინტერნეტის ერთ-ერთი საუკეთესო რამ არის ის, რომ ჩვენ შეგვიძლია შიგთავსზე წვდომა მთელი მსოფლიოდან. იქნება ეს ახალი ამბების სტატიები, ბლოგები ან თუნდაც თქვენი უახლესი ტექნიკური გაჯეტის მიმოხილვა, შეგიძლიათ ყველაფერი მონახოთ ერთი შეხედვით დაუსრულებელ ვებსივრცეში. { -brand-name-firefox }-ის უახლესი თარგმნის შესაძლებლობით, ეს ხელსაწყო განუწყვეტლივ გადათარგმნის ვებგვერდებს რეალურ დროში.
