@@ -17,6 +17,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } para { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Obtén el navegador móvil personalizable para teléfonos inteligentes { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obtén el navegador móvil para tu { -brand-name-iphone } o { -brand-name-ipad }.
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } para móvil
+navigation-v2-take-speed-privacy-and = Lleva la velocidad, la privacidad y la tranquilidad vayas donde vayas. Para { -brand-name-android } y { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Simplemente navegación móvil privada.
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
@@ -63,6 +65,8 @@ navigation-v2-work-for-a-mission-driven-updated = Trabaja para una organización
 navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Conoce más sobre { -brand-name-mozilla } y los problemas que nos importan.
 navigation-v2-more-about-mozilla = Más acerca de { -brand-name-mozilla }
+navigation-v2-impact = Impacto
+navigation-v2-find-out-how = Descubre cómo estamos haciendo que Internet sea más inclusivo y sostenible
 
 ## Innovation menu
 

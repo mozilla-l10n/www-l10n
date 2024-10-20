@@ -47,6 +47,7 @@ firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Elige un instalador de 64 bits para ordenadores con procesadores de 64 bits, ya que ello les permite asignar más RAM a programas individuales. Esto es importante sobre todo para juegos y otras aplicaciones exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Esta opción abrirá una página de producto de { -brand-name-firefox } en el portal web de Microsoft Store. Si usas Windows 10 o Windows 11, tendrás la opción de abrir Microsoft Store desde esta página e instalar { -brand-name-firefox }. Si realizas la instalación desde Microsoft Store, las actualizaciones de { -brand-name-firefox } también serán gestionadas por Microsoft Store. Existen pequeñas diferencias en los comportamientos y las capacidades de { -brand-name-firefox } cuando se instala desde Microsoft Store, pero para la mayoría de los usuarios estas diferencias no son perceptibles.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Descargar { $esr_version }
