@@ -19,16 +19,23 @@ vpn-windows-a-progress-bar = Bir ilerleme çubuğu görünecek ve yükleme işle
 vpn-mac-download-page-title = { -brand-name-mac-short } için { -brand-name-mozilla-vpn }’i indir
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mac-short } için { -brand-name-mozilla-vpn } indiriliyor…
 vpn-mac-go-to-your-downloads = İndirilenler klasörünüze gidip .pkg uzantılı dosyaya çift tıklayın
+vpn-mac-follow-the-steps = Uygulamayı başlatmak için { -brand-name-mozilla-vpn } yükleyicisinde göreceğiniz adımları izleyin
 
 ## Shared strings
 
 vpn-download-unable-to-download = { -brand-name-mozilla-vpn } indirilemiyor
 vpn-download-not-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizde kullanılamıyor.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = { -brand-name-mozilla-vpn } indirmeniz otomatik olarak başlayacak. Başlamazsa<br> <a href="{ $url }" id="{ $id }">indirmeyi yeniden başlatabilirsiniz</a> veya başka bir cihaza indirmek için geri dönebilirsiniz.
 vpn-open-the-file = 1. Dosyayı açın
 vpn-launch-the-app = 2. Uygulamayı başlatın
 vpn-login-or-signup = 3. Giriş yapın veya kaydolun
 vpn-enter-your-email = Giriş yapmak veya kaydolup kullanmaya başlamak için e-posta adresinizi yazın
 vpn-turn-on-vpn = 4. VPN’i açın
+vpn-pick-a-recommended = Hızlı ve güvenilir bir bağlantı için önerilen konumlardan birini seçin veya istediğiniz konumu elle seçip düğmeyi AÇIK konuma getirin
 
 ## FAQ Strings
 
@@ -36,9 +43,16 @@ vpn-download-faq-need-help = Başlamak için yardıma mı ihtiyacınız var?
 vpn-download-faq-here-are-some = { -brand-name-mozilla-vpn } kurulumu hakkında en sık sorulan sorulardan bazıları
 vpn-download-faq-why-use = Neden { -brand-name-mozilla-vpn } kullanmalıyım?
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Günlük yaşamımızın çoğu internet üzerinde gerçekleştiğinden çevrimiçi gizlilik ve güvenlik artık daha da önemli. VPN (<a href="{ $faq }">Sanal Özel Ağ</a>), cihazlarınızla internet arasında şifrelenmiş bir tünel oluşturarak bağlantınızın güvenli ve gizli kalmasını sağlarken sizi iki önemli şekilde korur:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Gerçek <a href="{ $ip }">IP adresinizi</a> gizler. Böylece hem kimliğinizi korumaya yardımcı olur hem de ziyaret ettiğiniz web sitelerinden konumunuzu gizler.
 vpn-download-faq-encrypting = İnternet trafiğinizi şifreler: Böylece hiç kimse çevrimiçi etkinliğinizi göremez.
 vpn-download-faq-working = VPN’in çalıştığını nasıl anlayabilirim?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } hem araç çubuğunda hem de uygulamanın ana ekranında mevcut durumu gösteren göstergeler sayesinde çevrimiçi etkinliklerinizin korunup korunmadığını anlamanızı kolaylaştırır. Bu göstergeler, gezintinizin ne zaman gizli ve güvenli olduğunu bir bakışta görmenizi sağlar. Ayrıca bağlıyken <a href="{ $monitor }">https://monitor.mozilla.org/</a> adresini ziyaret ederek IP adresinizin maskelenip maskelenmediğini kontrol edebilirsiniz. Daha fazla bilgi için <a href="{ $connected }">{ -brand-name-mozilla-vpn }’in bağlı olup olmadığını nasıl anlayabilirim?</a> sayfasına bakabilirsiniz.
 vpn-download-faq-add-device = Nasıl başka bir cihaz ekleyebilirim?
 vpn-download-faq-need-more = Daha fazla yardıma mı ihtiyacınız var?
