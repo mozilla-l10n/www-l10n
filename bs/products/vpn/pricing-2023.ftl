@@ -60,5 +60,7 @@ vpn-pricing-if-already-subscribed = Ako ste već pretplaćeni na { -brand-name-m
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Da preuzmete aplikaciju, skenirajte QR kod svojim mobilnim uređajem ili tabletom
+vpn-pricing-scan-qrcode-to-download-android = Da preuzmete aplikaciju, skenirajte QR kod svojim Android uređajem ili tabletom
 vpn-pricing-sign-up-on-your-mobile-device = Prijavite se za { -brand-name-mozilla-vpn } pretplatu na svom mobilnom uređaju
+vpn-pricing-sign-up-on-your-android-device = Prijavite se za { -brand-name-mozilla-vpn } pretplatu na svom Android uređaju
 vpn-pricing-download-the-app = Preuzmite aplikaciju
