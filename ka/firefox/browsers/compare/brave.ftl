@@ -13,5 +13,8 @@ compare-brave-read-our-comparison = გაეცანით { -brand-name-firef
 compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox }-ის კონფიდენციალურობის პარამეტრები მკაცრი და მარტივი გამოსაყენებელია. Brave-ის ნაგულისხმევმა სარეკლამო შეზღუდვამ, შესაძლოა დაარღვიოს თქვენ მიერ მონახულებული ვებსაიტები, ასე რომ, თქვენ მოგიწევთ მისი ჩაბმა. ჩვენ გვსურს, რომ პირადულობა საკმარისად მოსახერხებელი იყოს, რომ ნამდვილად <em>გამოიყენოთ</em>.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } გაგიმარტივებთ საძიებო სისტემით არჩევისას. Brave ნაგულისხმევად აყენებს საკუთარ საძიებო სისტემას, ხოლო თქვენ უნდა გაეცნოთ ბრაუზერს, სხვა რამის შესარჩევად.
 # Variables:
+# $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } საშუალებას გაძლევთ, დაშიფროთ შენახული პაროლები, ხოლო <a { $primary }>მათთან წვდომისთვის გამოიყენოთ მთავარი პაროლი</a>; თქვენი პაროლები დაცულია იმ შემთხვევაშიც, თუ კომპიუტერის სხვასთან გაზიარება გიწევთ. Brave არ იცავს თქვენს პაროლებს მსგავსი საშუალებით.
+# Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
 compare-brave-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა მარტივი და სწრაფია – გადმოიტანეთ Brave სანიშნები, პაროლები, ისტორია და პარამეტრები ერთი დაწკაპებით და დაუყოვნებლივ იყავით მზად, გამოიყენოთ { -brand-name-firefox }. აქ იხილავთ <a { $howto }>როგორ გადმოვიტანოთ თქვენი Brave-ის მონაცემები</a>.
