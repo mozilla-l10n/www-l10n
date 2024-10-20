@@ -240,15 +240,6 @@
         [ins] Firefoksem Focus
         [loc] Firefoksie Focus
     }
--brand-name-firefox-lite =
-    { $case ->
-       *[nom] Firefox Lite
-        [gen] Firefoksa Lite
-        [dat] Firefoksowi Lite
-        [acc] Firefoksa Lite
-        [ins] Firefoksem Lite
-        [loc] Firefoksie Lite
-    }
 -brand-name-firefox-nightly =
     { $case ->
        *[nom] Firefox Nightly
@@ -258,24 +249,6 @@
         [ins] Firefoksem Nightly
         [loc] Firefoksie Nightly
     }
--brand-name-firefox-reality =
-    { $case ->
-       *[nom] Firefox Reality
-        [gen] Firefoksa Reality
-        [dat] Firefoksowi Reality
-        [acc] Firefoksa Reality
-        [ins] Firefoksem Reality
-        [loc] Firefoksie Reality
-    }
--brand-name-firefox-daylight =
-    { $case ->
-       *[nom] Firefox Daylight
-        [gen] Firefoksa Daylight
-        [dat] Firefoksowi Daylight
-        [acc] Firefoksa Daylight
-        [ins] Firefoksem Daylight
-        [loc] Firefoksie Daylight
-    }
 
 ## Firefox browsers (short names)
 
@@ -284,10 +257,7 @@
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
@@ -309,6 +279,16 @@
         [ins] Aurorą
         [loc] Aurorze
     }
+-brand-name-firefox-daylight =
+    { $case ->
+       *[nom] Firefox Daylight
+        [gen] Firefoksa Daylight
+        [dat] Firefoksowi Daylight
+        [acc] Firefoksa Daylight
+        [ins] Firefoksem Daylight
+        [loc] Firefoksie Daylight
+    }
+-brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
        *[nom] Firefox Quantum
@@ -318,76 +298,30 @@
         [ins] Firefoksem Quantum
         [loc] Firefoksie Quantum
     }
+-brand-name-firefox-lite =
+    { $case ->
+       *[nom] Firefox Lite
+        [gen] Firefoksa Lite
+        [dat] Firefoksowi Lite
+        [acc] Firefoksa Lite
+        [ins] Firefoksem Lite
+        [loc] Firefoksie Lite
+    }
+-brand-name-lite = Lite
+-brand-name-firefox-reality =
+    { $case ->
+       *[nom] Firefox Reality
+        [gen] Firefoksa Reality
+        [dat] Firefoksowi Reality
+        [acc] Firefoksa Reality
+        [ins] Firefoksem Reality
+        [loc] Firefoksie Reality
+    }
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Konto Firefoksa
-                [lower] konto Firefoksa
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Konta Firefoksa
-                [lower] konta Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Kontu Firefoksa
-                [lower] kontu Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Konto Firefoksa
-                [lower] konto Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-               *[upper] Kontem Firefoksa
-                [lower] kontem Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Koncie Firefoksa
-                [lower] koncie Firefoksa
-            }
-    }
--brand-name-firefox-accounts =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Konta Firefoksa
-                [lower] konta Firefoksa
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Kont Firefoksa
-                [lower] kont Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Kontom Firefoksa
-                [lower] kontom Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Konta Firefoksa
-                [lower] konta Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-               *[upper] Kontami Firefoksa
-                [lower] kontami Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Kontach Firefoksa
-                [lower] kontach Firefoksa
-            }
-    }
 -brand-name-firefox-devtools =
     { $case ->
        *[nom]
@@ -421,10 +355,8 @@
                 [lower] narzędziach dla programistów Firefoksa
             }
     }
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-private-network = Firefox Private Network
--brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync =
     { $case ->
        *[nom]
@@ -495,9 +427,6 @@
                 [lower] narzędziach dla programistów
             }
     }
--brand-name-fpn = FPN
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync =
@@ -533,15 +462,87 @@
                 [lower] synchronizacji
             }
     }
--brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Kontu Firefoksa
+                [lower] kontu Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Konto Firefoksa
+                [lower] konto Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Kontem Firefoksa
+                [lower] kontem Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Koncie Firefoksa
+                [lower] koncie Firefoksa
+            }
+    }
+-brand-name-firefox-accounts =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Kont Firefoksa
+                [lower] kont Firefoksa
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Kontom Firefoksa
+                [lower] kontom Firefoksa
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Konta Firefoksa
+                [lower] konta Firefoksa
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Kontami Firefoksa
+                [lower] kontami Firefoksa
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Kontach Firefoksa
+                [lower] kontach Firefoksa
+            }
+    }
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
+
+## Firefox projects
+
+-brand-name-firefox-labs = Laboratorium Firefoksa
 
 ## Pocket
 
@@ -562,6 +563,7 @@
         [ins] Bugzillą
         [loc] Bugzilli
     }
+-brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
@@ -598,21 +600,9 @@
             }
     }
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
 -brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla Labs
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird =
-    { $case ->
-       *[nom] Thunderbird
-        [gen] Thunderbirda
-        [dat] Thunderbirdowi
-        [acc] Thunderbirda
-        [ins] Thunderbirdem
-        [loc] Thunderbirdzie
-    }
 -brand-name-mozilla-account =
     { $case ->
         [gen]
@@ -682,16 +672,29 @@
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-gecko = Gecko
+-brand-name-thunderbird =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirda
+        [dat] Thunderbirdowi
+        [acc] Thunderbirda
+        [ins] Thunderbirdem
+        [loc] Thunderbirdzie
+    }
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Hubs
+-brand-name-lockwise = Lockwise
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
