@@ -45,5 +45,7 @@ vpn-pricing-if-already-subscribed = Nếu đã có gói đăng ký { -brand-name
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Để tải xuống ứng dụng, hãy quét mã QR bằng thiết bị di động hoặc máy tính bảng của bạn
+vpn-pricing-scan-qrcode-to-download-android = Để tải xuống ứng dụng, hãy quét mã QR bằng thiết bị hoặc máy tính bảng Android của bạn
 vpn-pricing-sign-up-on-your-mobile-device = Đăng ký gói { -brand-name-mozilla-vpn } trên thiết bị di động của bạn
+vpn-pricing-sign-up-on-your-android-device = Đăng ký gói { -brand-name-mozilla-vpn } trên thiết bị Android của bạn
 vpn-pricing-download-the-app = Tải xuống ứng dụng
