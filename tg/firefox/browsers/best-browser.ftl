@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-find-your-best-browser = Браузери беҳтарини худро барои суръат, махфият ва амният ба даст оред.
+best-browser-so-many-browser-options = Имкониятҳои браузер хеле зиёданд, аммо танҳо як имконе ест, ки барои эҳтиёҷоти шумо беҳтарин кор мекунад. Браузери беҳтарин барои шумо бояд ҳам суръат ва ҳам ҳифзи махфиятро пешниҳод кунад.
 best-browser-privacy-speed-and-security = Махфият, суръат ва амният.
 best-browser-how-to-choose-the-best = Чӣ тавр браузери беҳтарин барои шумо бояд интихоб карда шавад.
 best-browser-marshall-erwin-senior = Маршалл Эрвин, роҳбари калони шуъбаи корҳо оид ба эътимод ва амният дар { -brand-name-mozilla }
