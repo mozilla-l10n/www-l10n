@@ -17,15 +17,13 @@ nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -bra
 #   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Eikuaasevéramo mba’etépa pe oikóva { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a { $blog }>blog</a> ha orerapykueho <a { $mastodon }>Mastodon</a> térã <a { $twitter }>X</a>.
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Eikuaasevéramo oikóva { -brand-name-nightly } jerére ha pe hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a href="{ $blog }">blog</a> ha orerapykueho <a href="{ $mastodon }">Mastodon</a> térã <a href="{ $twitter }">Twitter</a> eñepyrũ hag̃ua.
 # Variables:
 #   $attrs (string) - link href and additional attributes
+# Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehecharamovéva <a { $attrs }>Nightly mba’e’apopy</a>.
+# Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehayhuvéva <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = ¿Ehechápa jejavy? ¿Heko noñeha’ãrõi? ¿Ojevy jokupyty ojehechávo ñandutípe? Rovy’áta ejuajúrõ <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> ndive ko’ã apañuái ani hag̃ua og̃uahẽ apopyre ipyahuvévape (¡japopyre ojo’áva embojuajúvo ñe’ẽ kañymby<em>{ -brand-name-nightly }-community</em> ne jehaikue jejavygua!).
