@@ -9,7 +9,7 @@
 vpn-desktop-page-title = 데스크톱(PC 및 노트북) 용 { -brand-name-mozilla-vpn }
 vpn-desktop-page-description = 기술 분야에서 가장 신뢰받는 브랜드 { -brand-name-mozilla }로 데스크톱과 노트북에 빠르고 쉬운 보안을 적용하세요.
 # Desktop strings
-vpn-desktop-hero-headline = 데크스톱용 { -brand-name-mozilla-vpn }으로 인터넷 연결을 보호하세요.
+vpn-desktop-hero-headline = 데스크톱용 { -brand-name-mozilla-vpn }으로 인터넷 연결을 보호하세요.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-ability = { -brand-name-mozilla-vpn }은 안심하고 네트워크에 연결할 수 있게 해 주며 인터넷에 접속했을 때 감시자와 데이터 도둑들로부터 정보를 보호해 줍니다. { -brand-name-mozilla-vpn }은 고급 { -brand-name-wireguard }® 프로토콜을 사용하여 최대 { $devices }개의 노트북 또는 데스크톱 컴퓨터의 개인 데이터를 암호화합니다. 보안에 대한 걱정 없이 방송 스트리밍과 게임, 쇼핑, 일상적인 온라인 활동을 즐기세요.
