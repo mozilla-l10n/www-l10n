@@ -57,5 +57,7 @@ vpn-pricing-if-already-subscribed = Агар шумо аллакай ба «{ -b
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Барои боргирӣ кардани барнома, рамзи «QR»-ро ба воситаи дастгоҳи мобилӣ ё планшети худ тасвирбардорӣ намоед
+vpn-pricing-scan-qrcode-to-download-android = Барои боргирӣ кардани барнома, рамзи «QR»-ро ба воситаи дастгоҳи «Android» ё планшети худ тасвирбардорӣ намоед
 vpn-pricing-sign-up-on-your-mobile-device = Барои обунаи «{ -brand-name-mozilla-vpn }» дар дастгоҳи мобилии худ сабти ном кунед
+vpn-pricing-sign-up-on-your-android-device = Барои обунаи «{ -brand-name-mozilla-vpn }» дар дастгоҳи «Android»-и худ сабти ном кунед
 vpn-pricing-download-the-app = Барномаро боргирӣ кунед
