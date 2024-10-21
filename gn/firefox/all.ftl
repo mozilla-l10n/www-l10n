@@ -54,6 +54,7 @@ firefox-all-download-esr-version = Emboguejy { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Romba’aporoína umi apopyre rekoporãverã rehe ESR { $esr_next_major } ha { $esr_current_major }.
+firefox-all-esr-if-you-choose = Emboguejývo pe ESR itujavéva rehegua, hekopyahúta ijeheguiete ipyahuvévape og̃uahẽ vove pa’ũ upéva oiko hag̃ua.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Emoñe’ẽve <a { $attrs }>araka’éta oñemoherakuãta { -brand-name-firefox-esr }</a> rehegua.
