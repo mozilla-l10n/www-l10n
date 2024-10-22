@@ -21,6 +21,7 @@ home-cta-get-relay = Merrni { -brand-name-relay }-në
 home-product-vpn-trust = Një VPN të cilës mund t’i zini besë
 home-cta-get-vpn = Merrni { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Merrni { -brand-name-monitor }-in
+home-product-fakespot-detect = Zbuloni shqyrtime të rreme blerjesh
 home-cta-get-fakespot = Merrni { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien e gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca në zemër të mënyrës se si funksionojnë këto sisteme komplekse.”
 # Politico is a brand name for a news organization
@@ -40,4 +41,5 @@ home-learn-more-about-mozilla = Mësoni më tepër mbi { -brand-name-mozilla }-n
 home-featured-product = Produkt i zgjedhur
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Bëjeni të pakuptueshme vendndodhjen & veprimtarinë tuaj, duke përdorur <span>{ -brand-name-mozilla-vpn }</span>
+home-mofo-donate-to-mofo-today = Dhuroni që sot për { -brand-name-mozilla-foundation }, për të garantuar se interneti mbetet i hapët dhe i përdorshëm nga kushdo.
 home-mofo-donate = Dhuroni
