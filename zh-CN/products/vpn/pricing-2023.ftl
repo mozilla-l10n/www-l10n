@@ -8,7 +8,7 @@
 vpn-pricing-page-title = 价格 - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
-vpn-pricing-one-subscription = 一份订阅可供您的所有设备使用
+vpn-pricing-one-subscription = 一份订阅，各设备均可用
 # Pricing section
 vpn-pricing-included-in-subscription = 订阅包含：
 # Variables:

@@ -43,7 +43,7 @@ vpn-landing-extra-security-whole-device = 额外安全性：全方位设备保�
 vpn-landing-see-all-features = 查看所有功能
 vpn-landing-fram-a-brand-you-can-trust = 品牌值得信赖
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家受非营利组织支持的互联网公司。1998 年至今，持续为健康的网络而战。
-vpn-landing-one-subscription-for-all-your = 一份订阅可供您的所有设备使用
+vpn-landing-one-subscription-for-all-your = 一份订阅，各设备均可用
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>由 { -brand-name-mozilla } 提供。</strong>1998 年至今，不断为您的隐私权而战。
 vpn-landing-learn-more-from-our-experts = 进一步咨询我们的专家
