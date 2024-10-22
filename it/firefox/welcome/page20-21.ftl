@@ -12,7 +12,7 @@ welcome-page20-21-your-firefox = Il tuo { -brand-name-firefox } potrebbe iniziar
 # Page 20 body
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-update-now = <strong>Esegui l'aggiornamento ora per garantirti la migliore esperienza di navigazione.</strong> Un certificato principale sta per scadere. Questo provocherà il malfunzionamento di alcune preferenze e altre caratteristiche. <a { $sumo }>Scopri di più su questa modifica</a>
+welcome-page20-21-update-now = <strong>Esegui l’aggiornamento ora per garantirti la migliore esperienza di navigazione.</strong> Un certificato principale sta per scadere. Questo provocherà il malfunzionamento di alcune preferenze e altre caratteristiche. <a { $sumo }>Scopri di più su questa modifica</a>
 # Page 21 header
 welcome-page20-21-update-your-browser = Aggiorna il tuo browser { -brand-name-firefox }
 # Page 21 body
@@ -23,7 +23,7 @@ welcome-page20-21-why-update = Perché aggiornare?
 welcome-page20-21-update-now-cta = Aggiorna adesso
 welcome-page20-21-usually-takes = Di solito ci vogliono 2-3 minuti
 welcome-page20-21-protect-your-data = Proteggi i tuoi dati
-welcome-page20-21-make-sure-your-passwords = Prima di effettuare l'aggiornamento, assicurati di aver eseguito il backup delle password e dei segnalibri.
+welcome-page20-21-make-sure-your-passwords = Prima di effettuare l’aggiornamento, assicurati di aver eseguito il backup delle password e dei segnalibri.
 welcome-page20-21-how-to-back-up = Come eseguire il backup
 welcome-page20-21-keep-using = Continua a utilizzare le tue funzionalità preferite
 welcome-page20-21-does-the-latest = Nella versione più recente di { -brand-name-firefox } manca una funzionalità che ami? Prova a trovare un componente aggiuntivo che faccia al caso tuo.
