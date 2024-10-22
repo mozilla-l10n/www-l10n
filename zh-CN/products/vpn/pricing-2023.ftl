@@ -43,7 +43,7 @@ vpn-pricing-we-adhere-strictly = 我们严格遵守 { -brand-name-mozilla } 的<
 vpn-pricing-how-do-i-manage = 如何管理订阅及更改方案？
 # Variables
 # $manage (url) - link to subscription management page
-vpn-pricing-if-already-subscribed = 订阅 { -brand-name-mozilla-vpn } 后您可以随时更改计划或<a { $manage }>管理订阅</a>。
+vpn-pricing-if-already-subscribed = 若已订阅 { -brand-name-mozilla-vpn }，您可以随时更改方案或<a { $manage }>管理订阅</a>。
 
 ## Mobile only subscription copy
 
