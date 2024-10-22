@@ -85,7 +85,7 @@ vpn-press-as-seen-in = 曾受媒体推介
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = “{ -brand-name-mozilla } 的 VPN 也可以<a { $attrs }>整合到 { -brand-name-firefox } 浏览器的隐私保护功能</a>。”
 vpn-press-unique-features-like-its-multi-account = “…诸如 Multi-Account Containers 这样的独特功能可能会让有高级隐私需求的用户更轻松地使用该功能。”
-vpn-press-mozilla-vpns-feature-list-has-grown = “{ -brand-name-mozilla-vpn } 的功能列表自推出以来有了长足的发展，现在这项服务在某些方面已经胜过许多专业 VPN。”
+vpn-press-mozilla-vpns-feature-list-has-grown = “自推出以来，{ -brand-name-mozilla-vpn } 的功能愈发丰富，现在这项服务在某些方面已经胜过许多专业 VPN。”
 
 ## Unsupported language notification
 
