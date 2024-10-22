@@ -34,13 +34,13 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } 尚未在您所在�
 vpn-pricing-faqs = 常见问题
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn } 的退款政策如何？
 vpn-pricing-the-first-time-you = 当您第一次在 { -brand-name-mozilla } 网站订阅 { -brand-name-mozilla-vpn } 时，若您在一开始的 30 天内取消账户，则可要求全额退款，{ -brand-name-mozilla } 将会退还您的第一期订阅费用。
-vpn-pricing-if-you-purchased = 如果您是在 Apple App Store 或 Google Play 商店通过应用内购买的方式购买了订阅则您的付款将受这些商店的条款与条件约束。您必须向 Apple 或 Google 询问此类购买交易的任何账单和退款问题。
-vpn-pricing-what-information = { -brand-name-mozilla-vpn } 保存了哪些信息
+vpn-pricing-if-you-purchased = 若通过应用内购买方式从 Apple App Store 或 Google Play 商店购得订阅，则付款将受相应商店的条款和条件约束。对于此类购买，其账单及退款事项需直接咨询 Apple 或 Google。
+vpn-pricing-what-information = { -brand-name-mozilla-vpn } 保留哪些信息？
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-pricing-we-adhere-strictly = 我们严格遵守 { -brand-name-mozilla } 的<a { $principles }>数据隐私准则</a>。我们仅收集为 { -brand-name-mozilla-vpn } 正常运行和改进产品所需的数据。我们还会跟踪移动应用上的活动和推荐数据以帮助 { -brand-name-mozilla } 了解我们营销活动的有效性。阅读我们的<a { $notice }>隐私声明</a>详细了解。
-vpn-pricing-how-do-i-manage = 如何管理我的订阅和更改方案
+vpn-pricing-how-do-i-manage = 如何管理订阅及更改方案？
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = 订阅 { -brand-name-mozilla-vpn } 后您可以随时更改计划或<a { $manage }>管理订阅</a>。
