@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/23/
 
-welcome-page23-old-version = Používáte starší verzi { -brand-name-firefox(case: "gen") }
+welcome-page23-old-version = Používáte starší verzi aplikace { -brand-name-firefox }
 welcome-page23-update-before = Abyste { -brand-name-firefox(case: "acc") } nadále používali, aktualizujte do 14. března 2025
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
