@@ -14,6 +14,3 @@ welcome-page23-your-version-of-firefox = <strong>Versi { -brand-name-firefox } a
 
 welcome-page23-update-now-cta = Perbarui sekarang
 welcome-page23-usually-takes = Biasanya memerlukan waktu 2–3 menit
-
-
-
