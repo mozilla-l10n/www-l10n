@@ -8,16 +8,16 @@
 
 welcome-page20-21-old-version = A { -brand-name-firefox } régebbi verzióját használja
 # Page 20 header
-welcome-page20-21-your-firefox = A { -brand-name-firefox } problémái lehetnek 2025. január 14-én
+welcome-page20-21-your-firefox = 2025. január 14-étől problémái lehetnek a { -brand-name-firefox }ával
 # Page 20 body
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-update-now = <strong>Frissítsen most a legjobb böngészési élményért.</strong> A gyökér tanúsítvány lejár, ami miatt egyes beállítások és más funkciók nem fognak működni. <a { $sumo }>További információk erről a változásról</a>
+welcome-page20-21-update-now = <strong>Frissítsen most a legjobb böngészési élményért.</strong> Egy gyökértanúsítvány le fog járni, és emiatt egyes beállítások és funkciók nem fognak működni. <a { $sumo }>További információk erről a változásról</a>
 # Page 21 header
 welcome-page20-21-update-your-browser = Frissítse { -brand-name-firefox } böngészőjét
 # Page 21 body
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-on-march-14 = <strong>2025. március 14-én a jelenlegi { -brand-name-firefox } verziója nem fog megfelelően működni</strong>. A gyökér tanúsítvány lejár, ami miatt a videók közvetítése, a kiegészítők és más funkciók nem fognak működni. <a { $sumo }>További információk erről a változásról</a>
+welcome-page20-21-on-march-14 = <strong>2025. március 14.-től a jelenlegi { -brand-name-firefox } verziója nem fog megfelelően működni</strong>. Egy gyökértanúsítvány le fog járni, és emiatt a videóközvetítések, a kiegészítők és más funkciók nem fognak működni. <a { $sumo }>További információk erről a változásról</a>
 # Note: the following string is used as an accessibile attribute to the list items, and won't be displayed on the webpage itself
 welcome-page20-21-why-update = Miért frissítsen?
 welcome-page20-21-update-now-cta = Frissítés most
