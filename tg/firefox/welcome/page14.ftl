@@ -5,4 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Дар ин моҳи амният дар соҳаи Интернет 20% тахфиф барои «{ -brand-name-mozilla-vpn }» дода мешавад
 welcome-page14-copy-code = Нусха бардоштани рамз
+welcome-page14-code-copied = Рамз нусха бардошта шуд!
+welcome-page14-very-fast = Ин зуд, хеле зуд аст
+welcome-page14-without-trace = Интернет бе пайгирӣ
+welcome-page14-why-see-this = Чаро ман инро дида истодаам?
