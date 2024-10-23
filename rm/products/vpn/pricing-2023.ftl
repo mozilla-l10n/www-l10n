@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Connectescha fin a { $devices } apparats
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Associescha fin ad { $devices } apparat Android, iOS, Windows, macOS u Linux
+       *[other] Associescha fin a { $devices } apparats Android, iOS, Windows, macOS u Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -49,3 +56,8 @@ vpn-pricing-if-already-subscribed = Sche ti has gia in abunament da { -brand-nam
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Per telechargiar l’app, scannescha il code QR cun tes apparat mobil u tablet
+vpn-pricing-scan-qrcode-to-download-android = Per telechargiar l’app, scannescha il code QR cun tes apparat u tablet Android
+vpn-pricing-sign-up-on-your-mobile-device = Abunescha { -brand-name-mozilla-vpn } sin tes apparat mobil
+vpn-pricing-sign-up-on-your-android-device = Abunescha { -brand-name-mozilla-vpn } sin tes apparat Android
+vpn-pricing-download-the-app = Telechargiar l’app
