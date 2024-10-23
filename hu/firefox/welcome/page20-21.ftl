@@ -29,5 +29,5 @@ welcome-page20-21-keep-using = Használja továbbra is kedvenc funkcióit
 welcome-page20-21-does-the-latest = A legújabb { -brand-name-firefox }ból hiányzik egy olyan funkció, amelyet szeret? Próbáljon olyan kiegészítőt találni, amely elvégzi a feladatot.
 welcome-page20-21-search-add-ons = Kiegészítők keresése
 welcome-page20-21-talk-to-us = Beszéljen velünk
-welcome-page20-21-firefox-support-community = A { -brand-name-firefox } támogatói közösség azért van, hogy segítsen megoldani a kérdéseit.
+welcome-page20-21-firefox-support-community = A { -brand-name-firefox } támogatói közössége készen áll, hogy segítsen megoldani a kérdéseit.
 welcome-page20-21-get-in-touch = Kapcsolatfelvétel
