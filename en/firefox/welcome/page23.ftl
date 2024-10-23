@@ -14,6 +14,3 @@ welcome-page23-your-version-of-firefox = <strong>Your version of { -brand-name-f
 
 welcome-page23-update-now-cta = Update now
 welcome-page23-usually-takes = Usually takes 2–3 minutes
-
-
-
