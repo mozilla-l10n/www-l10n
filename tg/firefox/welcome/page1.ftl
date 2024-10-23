@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-why-am-i-seeing-this = Чаро ман инро дида истодаам?
