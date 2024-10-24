@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/24/
 
-welcome-page24-last-chance-to-keep = 最后一次机会继续使用 { -brand-name-firefox }
+welcome-page24-last-chance-to-keep = 续用 { -brand-name-firefox } 的最后机会
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
 welcome-page24-your-version-of-firefox = <strong>2025 年 3 月 14 日起，您的 { -brand-name-firefox } 版本将无法使用。</strong>一份根证书即将到期，导致流播放视频、附加组件以及其他功能失效。<a { $sumo }>阅读关于此次更改的更多信息</a>
