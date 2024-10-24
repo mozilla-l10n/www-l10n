@@ -29,4 +29,5 @@ welcome-page20-21-keep-using = 继续使用您需要的功能
 welcome-page20-21-does-the-latest = 最新版 { -brand-name-firefox } 没有您需要的功能？试试寻找替代的附加组件。
 welcome-page20-21-search-add-ons = 搜索附加组件
 welcome-page20-21-talk-to-us = 和我们聊聊
+welcome-page20-21-firefox-support-community = { -brand-name-firefox } 支持社区随时在线，帮您解决各种问题。
 welcome-page20-21-get-in-touch = 联系我们

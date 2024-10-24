@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/24/
 
+welcome-page24-old-version = 您正在使用旧版本 { -brand-name-firefox }
 welcome-page24-last-chance-to-keep = 续用 { -brand-name-firefox } 的最后机会
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
