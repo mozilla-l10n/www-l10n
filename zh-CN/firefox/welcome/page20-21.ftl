@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/20/
 ### URL: https://www-dev.allizom.org/firefox/welcome/21/
 
-welcome-page20-21-old-version = 您使用的是旧版本的 { -brand-name-firefox }
 # Page 20 header
 welcome-page20-21-your-firefox = 您的 { -brand-name-firefox } 可能于 2025 年 1 月 14 日起出现问题
 # Page 20 body
