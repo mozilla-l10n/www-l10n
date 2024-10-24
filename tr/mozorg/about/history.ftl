@@ -5,7 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
-history-history-of-the-mozilla-project = { -brand-name-mozilla } Projesi'nin Tarihçesi
+history-history-of-the-mozilla-project = { -brand-name-mozilla } Projesinin Tarihçesi
+# Variables:
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = { -brand-name-mozilla } projesi <a href="{ $coderush }">1998 yılında</a> <a href="{ $sourcerelease }">{ -brand-name-netscape } tarayıcı paketi kaynak kodlarının</a> yayımlanmasıyla doğdu.
+history-it-was-intended-to-harness = Projenin amacı, internetteki binlerce programcının yaratıcı gücünden faydalanarak tarayıcı pazarında eşi benzeri görülmemiş seviyede bir inovasyonu körüklemekti.
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = { -brand-name-mozilla } projesi açık bir topluluk oluşturarak <a href="{ $stevecase }">tüm şirketlerden daha büyük</a> hale geldi.

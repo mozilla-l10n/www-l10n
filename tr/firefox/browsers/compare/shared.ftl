@@ -16,7 +16,7 @@ compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ayrıca şu y
 compare-shared-edit-pdfs-on-the-go = Ek bir yazılıma ihtiyacınız olmadan { -brand-name-firefox } tarayıcınızdan <a { $pdf }>PDF’lerinizi düzenleyebilirsiniz</a>.
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
-compare-shared-translate-a-web-page = Web sayfalarını <a { $translate }>kendi cihazınızda ve gizlilikten ödün vermeden</a> çevirin.
+compare-shared-translate-a-web-page = Web sayfalarını <a { $translate }>kendi cihazınızda ve gizlilikten ödün vermeden</a> çevirebilirsiniz.
 compare-shared-its-easy-to-switch = Tarayıcınızı değiştirmek çok kolay
 compare-shared-since-we-dont-have-to-make = Hissedarlarımızı mutlu etmek zorunda olmadığımız için <strong>sizi</strong> mutlu etmeye odaklanabiliyor, gizliliğinizi ve rahatınızı ilk sıraya koyabiliyoruz.
 # Used as a small link to a cited source
