@@ -29,4 +29,6 @@ vpn-mac-servers-copy = { -brand-name-mac-short } bilgisayarınızın konumunu { 
 vpn-mac-devices-headline = Tek abonelikle { $devices } cihazda koruma
 vpn-mac-devices-copy = Bilgisayarınız, tabletiniz ve akıllı telefonunuz güvende olmayı hak ediyor. { -brand-name-mozilla-vpn } sayesinde { $devices } adet { -brand-name-mac-short } ve { -brand-name-ios } cihazınızı (ayrıca { -brand-name-windows }, { -brand-name-linux } ve { -brand-name-android } cihazlarınızı) koruyabilirsiniz.
 vpn-mac-speed-headline = Hızdan ödün vermeyin
+vpn-mac-speed-copy = Hiçbir kota ve bant genişliği kısıtlaması uygulamıyoruz. İnternetin her köşesini normalde gezdiğiniz gibi gezebilirsiniz, tabii üst seviye güvenlikle birlikte.
 vpn-mac-log-headline = İnternette ne yaptığınız sadece sizi ilgilendirir
+vpn-mac-log-copy = { -brand-name-mozilla-vpn }’i kullanırken içiniz rahat olsun. Verilerinizi şifreliyoruz, etkinliklerinizi asla kaydetmiyoruz ve gizliliğinizi her zaman koruyoruz. Sözümüz söz.
