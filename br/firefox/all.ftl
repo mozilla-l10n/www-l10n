@@ -5,24 +5,39 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Pellgargit ar { -brand-name-firefox-browser } e brezhoneg (BR) hag en ouzhpenn 90 yezh all
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Pep hini a rankfe kaout un doare da vont war internet — ho yezh ne rankfe ket bezañ un harz. Setu perak — gant skoazell tud a-youl vat mennet deus ar bed a-bezh — e kinnigomp ar { -brand-name-firefox-browser } en ouzhpenn 90 yezh.
+firefox-all-change-browser = Dibab ur produ all
+firefox-all-change-language = Dibab ur yezh all
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Kaout skoazell
+# Obsolete string (expires 2024-10-30)
+firefox-all-browser = Merdeer:
+firefox-all-browser-v2 = 1. Merdeer:
+# Obsolete string (expires 2024-10-30)
+firefox-all-platform = Saveenn:
+firefox-all-platform-v2 = 2. Savenn:
+# Obsolete string (expires 2024-10-30)
+firefox-all-language = Yezh:
+firefox-all-language-v2 = 3. Yezh:
+firefox-all-download = 4. Pellgargañ:
+firefox-all-desktop = Burev
+firefox-all-mobile = Hezoug
+firefox-all-recommended = (Erbedet)
+firefox-all-lang-multi = Lies yehzoù
+firefox-all-plat-mobile = Android hag iOS
+firefox-all-64-bit-installers = Stalierioù 64-bit
+firefox-all-32-bit-installers = Stalierioù 32-bit
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Pellgargañ { $esr_version }
 firefox-all-check-the-system-requirements = Gwiriekaat an ezhommoù reizhiad
 firefox-all-release-notes = Notennoù handelv
 firefox-all-source-code = Kod tarzh
 firefox-all-need-help = Ezhomm sikour?
-firefox-all-which-browser-would = Peseurt merdeer a fell deoc’h pellgargañ?
-# Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = Kaout skoazell
-firefox-all-you-are-about-to-download = O vont da bellgargañ emaoc’h:
-firefox-all-browser = Merdeer:
-firefox-all-platform = Saveenn:
-firefox-all-language = Yezh:
-firefox-all-lang-multi = Lies yehzoù
-firefox-all-64-bit-installers = Stalierioù 64-bit
-firefox-all-32-bit-installers = Stalierioù 32-bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Pellgargit ar { -brand-name-firefox-browser } e brezhoneg (BR) hag en ouzhpenn 90 yezh all
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Pep hini a rankfe kaout un doare da vont war internet — ho yezh ne rankfe ket bezañ un harz. Setu perak — gant skoazell tud a-youl vat mennet deus ar bed a-bezh — e kinnigomp ar { -brand-name-firefox-browser } en ouzhpenn 90 yezh.
 firefox-all-choose-which-firefox = Dibabit peseurt { -brand-name-firefox-browser } pellgargañ en ho yezh
 firefox-all-firefox-privacy-notice = Politikerezh prevezded { -brand-name-firefox }
 firefox-all-learn-about-firefox = Gouzout hiroc’h diwar-benn merdeerioù { -brand-name-firefox }
