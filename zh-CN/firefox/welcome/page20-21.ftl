@@ -6,8 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/20/
 ### URL: https://www-dev.allizom.org/firefox/welcome/21/
 
-# Page 20 header
-welcome-page20-21-your-firefox = 您的 { -brand-name-firefox } 可能于 2025 年 1 月 14 日起出现问题
 # Page 20 body
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
