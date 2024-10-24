@@ -17,6 +17,7 @@ developer-mdnplus-get-started = Başlayın
 developer-mdnplus-whats-included = Neler dahil?
 developer-mdnplus-notifications = Bildirimler
 developer-mdnplus-development-in-real-time = Gerçek zamanlı geliştirme: Özel uyarılar alın
+developer-mdnplus-the-web-doesnt-have-a = Web’deki değişiklikleri kolay kolay takip edemezsiniz ama { -brand-name-mdn } size yardımcı olabilir. İstediğiniz sayfaları takip edin; belgeler değiştiğinde, yeni CSS özellikleri çıktığında ve API'ler kullanıma sunulduğunda bildirim alın.
 developer-mdnplus-collections = Koleksiyonlar
 developer-mdnplus-build-your-perfect-library = İster mükemmel kitaplığınızı kendiniz oluşturun ister sizin için biz oluşturalım.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } çevrimdışı
