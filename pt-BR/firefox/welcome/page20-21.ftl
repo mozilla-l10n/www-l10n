@@ -13,3 +13,5 @@ welcome-page20-21-your-firefox = Seu { -brand-name-firefox } pode apresentar pro
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
 welcome-page20-21-update-now = <strong>Atualize já para ter a melhor experiência de navegação.</strong> Um certificado raiz irá expirar, fazendo com que algumas preferências e recursos parem de funcionar. <a { $sumo }>Saiba mais sobre esta mudança</a>
+# Page 21 header
+welcome-page20-21-update-your-browser = Atualize seu navegador { -brand-name-firefox }
