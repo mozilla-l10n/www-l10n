@@ -80,4 +80,5 @@ firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
 firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
+firefox-developer-mdn-curriculum = { -brand-name-mdn } ຫຼັກສູດ
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
