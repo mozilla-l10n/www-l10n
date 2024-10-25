@@ -35,13 +35,13 @@ vpn-features-fast-network = Velocidades de rede rápidas mesmo durante os jogos
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = A { -brand-name-mozilla-vpn } utiliza o <a { $wireguard }>wireguard</a>@, um dos protocolos de VPN com melhor desempenho.
 vpn-features-secure = Seguro
-vpn-features-block-ads = Impedir os anunciantes de lhe segmentar
-vpn-features-automatically-block-ads = A { -brand-name-mozilla-vpn } ajuda-o a bloquear automaticamente anúncios e rastreadores de anúncios de ver a sua atividade online.
-vpn-features-encrypt-your-internet = Encripte todo o seu tráfego da Internet
+vpn-features-block-ads = Impede que possa ser um alvo dos anunciantes
+vpn-features-automatically-block-ads = A { -brand-name-mozilla-vpn } ajuda a bloquear automaticamente os anúncios e rastreadores de anúncios que registam a sua atividade online.
+vpn-features-encrypt-your-internet = Encripta todo o seu tráfego da Internet
 vpn-features-vpn-protects-all-apps = A { -brand-name-mozilla-vpn } protege todas as aplicações no seu dispositivo, não apenas o seu navegador.
-vpn-features-stronger-malware = Proteção contra malware mais forte
+vpn-features-stronger-malware = Proteção mais forte contra malware
 vpn-features-vpn-prevents-downloading-malware = A { -brand-name-mozilla-vpn } impede que transfira malware de fontes inseguras conhecidas.
-vpn-features-super-private-mode = Modo super privado: encaminhar o tráfego através de duas localizações
+vpn-features-super-private-mode = Modo super privado: encaminhe o tráfego através de duas localizações
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = A nossa <a { $feature }>funcionalidade multi-salto</a> oferece-lhe um aumento de segurança.
