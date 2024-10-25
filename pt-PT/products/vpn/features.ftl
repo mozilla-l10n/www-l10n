@@ -50,29 +50,29 @@ vpn-features-support-for-custom-dns = Suporte para DNS personalizado
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Com a { -brand-name-mozilla-vpn }, pode manter o seu tráfego protegido e ainda encaminhar as suas consultas de DNS para onde preferir. <a { $dns }>Saber mais sobre o suporte a DNS personalizado</a>.
 vpn-features-flexible = Flexível
-vpn-features-personalized-server = Recomendações personalizadas de localização do servidor
+vpn-features-personalized-server = Recomendações personalizadas de localização de servidores
 vpn-features-well-suggest-which-servers = Iremos sugerir quais os servidores perto de si que irão garantir a ligação à Internet mais rápida e confiável.
 vpn-features-personalize-which-apps = Personalize as aplicações que obtêm proteção VPN
-vpn-features-easily-exclude-apps = Exclua aplicações facilmente da proteção da VPN — não necessita de desassociar o seu dispositivo da { -brand-name-mozilla-vpn }. Disponível em dispositivos Windows, Android e Linux.
+vpn-features-easily-exclude-apps = Exclua facilmente aplicações da proteção da VPN — não necessita de desassociar o seu dispositivo da { -brand-name-mozilla-vpn }. Disponível em dispositivos Windows, Android e Linux.
 vpn-features-set-different-locations = Definir localizações diferentes para cada separador no { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Combinar a { -brand-name-mozilla-vpn } com a extensão Multi-Account Containers { -brand-name-firefox } e definir diferentes localizações de VPN para cada separador do { -brand-name-firefox }. <a { $containers }>Saber como</a>.
 vpn-features-trustworthy = Confiável
-vpn-features-money-back = Garantia de devolução do dinheiro em 30 dias
+vpn-features-money-back = Garantia de devolução do dinheiro durante 30 dias
 vpn-features-plus-customer-support = Além disso, suporte ao cliente 24/7.
 vpn-features-we-never-log = Nunca registamos, rastreamos ou partilhamos os seus dados de rede
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = Simplificando, não recolhemos a sua informação de navegação pessoal. Aqui está a nossa <a { $privacy }>política de privacidade de fácil leitura</a>.
-vpn-features-built-transparently = Construído de forma transparente em código aberto
+vpn-features-simply-put-we-dont = Simplificando, não recolhemos a sua informação de navegação pessoal. Eis a nossa <a { $privacy }>política de privacidade de leitura muito fácil</a>.
+vpn-features-built-transparently = Construída de forma transparente em código aberto
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
-vpn-features-made-with-open-source-code = A { -brand-name-mozilla-vpn } é feita com código de código aberto, o que significa que todo o código é acessível publicamente. Veja o nosso <a { $github }>repositório do GitHub</a>.
+vpn-features-made-with-open-source-code = A { -brand-name-mozilla-vpn } é feita com código de código aberto, o que significa que todo o código é acessível publicamente. Consulte o nosso <a { $github }>repositório do GitHub</a>.
 vpn-features-reviewed-by-third = Analisado por especialistas em segurança
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
-vpn-features-weve-been-audited = Fomos auditados pela Cure53, uma empresa líder de audiência de cibersegurança. <a { $report }>Ver o relatório aqui</a>.
+vpn-features-weve-been-audited = Fomos auditados pela Cure53, uma empresa de auditoria líder em cibersegurança. <a { $report }>Ver o relatório aqui</a>.
 vpn-features-people-over-profits = Pessoas acima dos lucros
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/

@@ -6,18 +6,18 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 # HTML page title
-vpn-landing-title = { -brand-name-mozilla-vpn }: Proteja Todo o Seu Dispositivo
+vpn-landing-title = { -brand-name-mozilla-vpn }: proteja o seu dispositivo integralmente
 # HTML page description
 # Variables:
 #   $countries (number) - number of available countries
-vpn-landing-desc = Use a { -brand-name-mozilla-vpn } para uma proteção completa do dispositivo para todas as aplicações. Com servidores em +{ $countries } países, pode conectar-se a qualquer lugar, a partir de qualquer lugar.
-vpn-landing-powerful-privacy-for-peace = Privacidade poderosa para tranquilidade
+vpn-landing-desc = Utilize a { -brand-name-mozilla-vpn } para uma proteção completa do dispositivo para todas as aplicações. Com servidores em mais de { $countries } países, pode ligar-se a qualquer lugar, a partir de qualquer lugar.
+vpn-landing-powerful-privacy-for-peace = Privacidade robusta para a sua tranquilidade
 vpn-landing-whats-a-vpn = O que é uma VPN?
-vpn-landing-a-virtual-private-network-protects = Uma rede virtual privada protege a sua ligação à Internet, mantendo a sua localização e o que faz na Internet mais privados, entre os seus dispositivos.
-vpn-landing-see-all-the-ways-mozilla-vpn = Veja todas as formas como a { -brand-name-mozilla-vpn } o protege.
-vpn-landing-how-a-vpn-helps-you = Como uma VPN o ajuda
-vpn-landing-keeps-your-data-safe = Mantenha os seus dados seguros em redes públicas
-vpn-landing-log-in-to-your-bank-or = Inicie sessão no seu banco ou consultorio a partir do navegador, café ou qualquer lugar, com tranquilidade.
+vpn-landing-a-virtual-private-network-protects = Uma rede privada virtual protege a sua ligação à internet, assegurando maior privacidade da sua localização e das suas atividades online em todos os seus dispositivos.
+vpn-landing-see-all-the-ways-mozilla-vpn = Descubra todas as formas como a { -brand-name-mozilla-vpn } garante a sua proteção.
+vpn-landing-how-a-vpn-helps-you = Como uma VPN pode ajudar
+vpn-landing-keeps-your-data-safe = Mantém os seus dados seguros em redes públicas
+vpn-landing-log-in-to-your-bank-or = Inicie sessão no seu banco ou consultório do seu médico a partir do navegador, café ou qualquer lugar, com tranquilidade.
 vpn-landing-blocks-advertisers-from = Impede os anunciantes de lhe segmentar
 vpn-landing-hide-your-activity-from = Oculte a sua atividade de rastreadores e malware para que possa fazer compras sem ser monitorizado.
 vpn-landing-helps-you-access-global = Ajuda-o a aceder a conteúdo global
