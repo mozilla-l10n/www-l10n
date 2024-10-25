@@ -5,35 +5,35 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
-vpn-features-page-title = Funcionalidades - { -brand-name-mozilla-vpn }
+vpn-features-page-title = Funcionalidades – { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funcionalidades que protegem <br> a sua vida na Internet
-vpn-features-convenient = conveniente
+vpn-features-convenient = Conveniente
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Mais de { $servers } servidores em +{ $countries } países
-       *[other] Mais de { $servers } servidores em +{ $countries } países
+        [one] Mais de { $servers } servidores em mais de { $countries } países
+       *[other] Mais de { $servers } servidores em mais de { $countries } países
     }
 vpn-features-see-our-list = Consulte a nossa lista de servidores.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
     { $devices ->
-        [one] Conecte até { $devices } dispositivos
-       *[other] Conecte até { $devices } dispositivos
+        [one] Ligue até { $devices } dispositivos
+       *[other] Ligue até { $devices } dispositivos
     }
 vpn-features-supported-platforms = Suportado nos sistemas operativos Windows, macOS, Android, iOS e Linux.
 vpn-features-no-bandwidth = Sem restrições de largura de banda ou limitações
-vpn-features-including-no-data = Incluindo sem limite de dados ou limite de velocidade.
+vpn-features-including-no-data = Sem limites de dados ou de velocidade.
 vpn-features-fast-network = Velocidades de rede rápidas mesmo durante os jogos
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-features-mozilla-vpn-uses-wireguard = A { -brand-name-mozilla-vpn } usa o <a { $wireguard }>wireguard</a>@, um dos protocolos de VPN de melhor desempenho.
+vpn-features-mozilla-vpn-uses-wireguard = A { -brand-name-mozilla-vpn } utiliza o <a { $wireguard }>wireguard</a>@, um dos protocolos de VPN com melhor desempenho.
 vpn-features-secure = Seguro
 vpn-features-block-ads = Impedir os anunciantes de lhe segmentar
 vpn-features-automatically-block-ads = A { -brand-name-mozilla-vpn } ajuda-o a bloquear automaticamente anúncios e rastreadores de anúncios de ver a sua atividade online.
