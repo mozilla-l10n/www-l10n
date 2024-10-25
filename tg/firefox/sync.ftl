@@ -7,4 +7,5 @@
 
 firefox-sync-firefox-sync = { -brand-name-firefox-sync }
 firefox-sync-firefox = { -brand-name-firefox-browser }
+firefox-sync-encrypt-your-data = Маълумоти худро рамзгузорӣ кунед
 firefox-sync-feel-safe = Худро бехатар ҳис кунед

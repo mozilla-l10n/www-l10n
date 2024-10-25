@@ -7,4 +7,8 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Муҳаррири «PDF»
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Файлҳои «PDF»-ро ба воситаи Муҳаррири «{ -brand-name-firefox } PDF Editor» ройгон таҳрир намоед
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Файлҳои «PDF»-ро мустақиман дар браузери «{ -brand-name-firefox }» кушода бинед ва таҳрир намоед.
 pdf-editor-add-text = Илова кардани матн
