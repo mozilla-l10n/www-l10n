@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = Kaj je spletni brskalnik?
 # HTML page description
 what-is-a-browser-a-web-browser = Spletni brskalnik je program, ki vas ponese po internetu in vam omogoča ogled besedil, slik in videoposnetkov od koderkoli na svetu.
+what-is-a-browser-the-web-is-a-vast = Splet je gromozansko in močno orodje. V nekaj desetletjih je internet spremenil način, na katerega delamo, se igramo in sporazumevamo. Odvisno od tega, kako se ga uporablja, gradi mostove med narodi, poganja trgovino, neguje odnose, poganja inovacije in je porodil več memov, kot bi si jih lahko ogledali v enem življenju.
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = Pomembno je vsakomur zagotoviti dostop do spleta, ključnega pomena pa je tudi, da vsi <a href="{ $tools }">razumemo orodja</a>, s katerimi dostopamo do njega. Vsakodnevno uporabljamo brskalnike, kot so { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } in { -brand-name-apple } { -brand-name-safari }, toda ali razumemo, kaj to sploh so in kako delujejo?
@@ -19,6 +20,9 @@ what-is-a-browser-a-web-browser-long = Spletni brskalnik je program, ki vas pone
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Žal se vsi izdelovalci brskalnikov ne odločijo za interpretacijo oblik na enak način. Za uporabnike to pomeni, da je spletno mesto lahko videti različno ali celo deluje različno. Ustvarjanje skladnosti med brskalniki, tako da lahko v internetu uživa vsak uporabnik ne glede na brskalnik, ki ga izbere, se imenuje <a href="{ $standards }">spletni standardi</a>.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Ko spletni brskalnik pridobi podatke iz strežnika na internetu, jih s pomočjo programske opreme, imenovane izrisovalnik, prevede v besedilo in slike. Ti podatki so zapisani v <a href="{ $html }">jeziku HTML</a>, spletni brskalniki pa to kodo preberejo in upodobijo to, kar vidimo, slišimo in doživljamo na internetu.
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
