@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-browsers-page-title = Браузери «{ -brand-name-firefox }»-ро барои компютерҳои мизи корӣ, телефонҳои мобилӣ ё дастгоҳҳои корхона боргирӣ кунед
+# HTML page description
+firefox-browsers-page-desc = Браузери беҳтаринро барои компютери мизи корӣ, «{ -brand-name-ios }», «{ -brand-name-android }» интихоб кунед ё иҷозат диҳед, то ки мо ба почтаи электронии шумо пайвандеро барои боргирӣ кардани браузери мобилӣ ирсол намоем.
 firefox-browsers-main-heading = Браузерҳои «{ -brand-name-firefox }»
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Браузереро ба даст оред, ки махфияти шуморо дар ҷои аввал мегузорад — ва <strong>ҳамеша</strong> ин тавр
