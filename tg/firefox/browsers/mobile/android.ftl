@@ -21,4 +21,6 @@ mobile-android-pick-up-where = Ба он ҷое, ки шумо ба қарибӣ
 mobile-android-search-from-your = Аз экрани асосии телефони худ ҷустуҷӯ кунед
 mobile-android-pin-videos-to = Видеоҳоро ба экрани худ васл кунед
 mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
+# 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
+mobile-android-short-cut-the-internet = Ба фазои Интернет тавассути браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» якбора дароед
 mobile-android-own-your-home = Соҳиби экрани асосии худ шавед
