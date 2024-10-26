@@ -4,7 +4,7 @@
 
 # Variables
 #   $class (string) = CSS Class name for banner title
-moz-account-promo-title = Як воридшавӣ. <br> <span { $class }>Тамоми</span> «{ -brand-name-mozilla }».
+moz-account-promo-title = Як воридшавӣ. <br> <span { $class }>Тамоми</span> «{ -brand-name-mozilla }» дар дасти шумо.
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
