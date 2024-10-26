@@ -10,6 +10,7 @@ legal-get-involved = Ҳамроҳ шавед
 legal-protect-the-fox = Рӯбоҳи ҷилодорро муҳофизат намоед
 legal-takedown-requests = Дархостҳои барҳамдиҳӣ
 legal-back-to-legal = Бозгашт ба «Маълумоти ҳуқуқӣ»
+legal-special-thanks-to-all-of-you = Ташаккури махсус ба ҳамаи шумо, ки дар фиристодани гузоришҳо оид ба сӯиистифода аз тамғаҳои «{ -brand-name-mozilla }», иштирок дар форумҳои идоракунӣ, мубодилаи фикру мулоҳизаҳо оид ба маҳаллисозӣ ва шартҳои ҳуқуқӣ ба мо кумак мерасонанд ва лаёқатҳои баланди худро ба муваффақияти лоиҳаи «{ -brand-name-mozilla }» саҳм мегузоранд.
 legal-terms = Шартҳо
 legal-our-websites = Сомонаҳои мо
 legal-firefox-services = Хидматҳои «{ -brand-name-firefox }»
