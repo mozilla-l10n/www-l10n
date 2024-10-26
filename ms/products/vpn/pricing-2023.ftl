@@ -63,5 +63,7 @@ vpn-pricing-if-already-subscribed = Jika anda sudah pun melanggan { -brand-name-
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Untuk muat turun aplikasi ini, imbas Kod QR menggunakan peranti mudah alih atau tablet
+vpn-pricing-scan-qrcode-to-download-android = Untuk muat turun aplikasi ini, imbas Kod QR menggunakan peranti atau tablet Android
 vpn-pricing-sign-up-on-your-mobile-device = Daftar untuk langganan { -brand-name-mozilla-vpn } menerusi peranti mudah alih anda
+vpn-pricing-sign-up-on-your-android-device = Daftar untuk langganan { -brand-name-mozilla-vpn } pada peranti mudah alih anda
 vpn-pricing-download-the-app = Muat turun aplikasi
