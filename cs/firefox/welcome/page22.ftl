@@ -9,6 +9,6 @@ welcome-page22-old-version = Používáte starší verzi { -brand-name-firefox(c
 welcome-page22-update-before = Aktualizujte, než bude příliš pozdě
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page22-update-now = <strong>Vaši verze { -brand-name-firefox(case: "gen") } bude mít od 14. ledna problémy</strong>. Platnost kořenového certifikátu vyprší a v důsledku toho dojde k omezení některých předvoleb. 14. března 2025 také přestanou fungovat doplňky a další funkce. <a { $sumo }>Více o této změně</a>
+welcome-page22-update-now = <strong>Vaši verze { -brand-name-firefox(case: "gen") } bude mít od 14. ledna problémy</strong>. Vyprší platnost kořenového certifikátu a tím pádem dojde k omezení některých předvoleb. 14. března 2025 také přestanou fungovat doplňky a další funkce. <a { $sumo }>Více o této změně</a>
 welcome-page22-update-now-cta = Aktualizovat
 welcome-page22-usually-takes = Obvykle trvá 2–3 minuty

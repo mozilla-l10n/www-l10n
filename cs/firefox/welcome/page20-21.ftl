@@ -12,12 +12,12 @@ welcome-page20-21-your-firefox = 14. ledna 2025 může začít mít váš { -bra
 # Page 20 body
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-update-now = <strong>Pro nejlepší prohlížení aktualizujte nyní.</strong> Platnost kořenového certifikátu vyprší a způsobí omezení některých předvoleb nebo funkcí. <a { $sumo }>Více o této změně</a>
+welcome-page20-21-update-now = <strong>Pro nejlepší prohlížení aktualizujte nyní.</strong> Vyprší platnost kořenového certifikátu, což způsobí omezení některých předvoleb nebo funkcí. <a { $sumo }>Více o této změně</a>
 # Page 21 header
 welcome-page20-21-update-your-browser = Aktualizujte svůj prohlížeč { -brand-name-firefox }
 # Page 21 body
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-on-march-14 = <strong>Dne 14. března 2025 přestane vaše současná verze { -brand-name-firefox(case: "gen") } správně fungovat</strong>. Platnost kořenového certifikátu vyprší a přestane fungovat stramování videí, doplňky a další funkce. <a { $sumo }>Více o této změně</a>
+welcome-page20-21-on-march-14 = <strong>Dne 14. března 2025 přestane vaše současná verze { -brand-name-firefox(case: "gen") } správně fungovat</strong>. Vyprší platnost kořenového certifikátu a tím pádem přestane fungovat stramování videí, doplňky a další funkce. <a { $sumo }>Více o této změně</a>
 # Note: the following string is used as an accessibile attribute to the list items, and won't be displayed on the webpage itself
 welcome-page20-21-why-update = Proč aktualizovat?
 welcome-page20-21-update-now-cta = Aktualizovat
