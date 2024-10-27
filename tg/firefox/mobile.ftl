@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
+firefox-mobile-download-the-firefox-browser = Браузери «{ -brand-name-firefox-browser }»-ро дар дастгоҳи мобилии худ барои «{ -brand-name-ios }» ва «{ -brand-name-android }» боргирӣ намоед
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = «{ -brand-name-firefox }»-и мобилиро ба даст оред
