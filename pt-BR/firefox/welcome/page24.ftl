@@ -7,4 +7,5 @@
 
 welcome-page24-old-version = Você está usando uma versão antiga do { -brand-name-firefox }
 welcome-page24-last-chance-to-keep = Última chance de continuar usando o { -brand-name-firefox }
+welcome-page24-update-now-cta = Atualizar agora
 welcome-page24-usually-takes = Normalmente demora 2 a 3 minutos
