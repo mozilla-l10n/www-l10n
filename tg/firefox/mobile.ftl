@@ -8,6 +8,7 @@
 firefox-mobile-download-the-firefox-browser = Браузери «{ -brand-name-firefox-browser }»-ро дар дастгоҳи мобилии худ барои «{ -brand-name-ios }» ва «{ -brand-name-android }» боргирӣ намоед
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-automatic-privacy-on-mobile = Дар дастгоҳи мобилии худ махфиятро ба таври худкор дарёфт кунед
 firefox-mobile-get-firefox-mobile = «{ -brand-name-firefox }»-и мобилиро ба даст оред
 firefox-mobile-android-only = Танҳо барои «{ -brand-name-android }»
 firefox-mobile-make-android-your-own = Соҳиби «{ -brand-name-android }» шавед
