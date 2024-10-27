@@ -56,6 +56,9 @@ firefox-all-download-esr-version = Last ned { $esr_version }
 firefox-all-esr-we-are-in-transition = Vi er i overgangsperioden mellom ESR-versjonane { $esr_next_major } og { $esr_current_major }.
 firefox-all-esr-when-there-is = Når det kjem ei større versjonsoppdatering, er det alltid ei overlapping av nokre få { -brand-name-firefox-esr }-punktutgivingar for å la folk som brukar den gamle versjonen førebu seg på å flytte til den nye.
 firefox-all-esr-if-you-choose = Om du vel å laste ned den eldre ESR-versjonen, vil du automatisk bli oppdatert til den nye når overgangsperioden er over.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Les meir om utgivingssyklusen til <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Kontroller systemkrava
 firefox-all-release-notes = Versjonsnotat
 firefox-all-source-code = Kjeldekode
