@@ -45,7 +45,7 @@ firefox-new-your-system-may-not = Seu sistema pode não atender aos requisitos d
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Se aparecer um aviso informando que o aplicativo que você está tentando instalar não é um aplicativo verificado pela { -brand-name-microsoft }, clique em “Instalar mesmo assim” ou <a { $attrs }>altere as configurações de recomendação do aplicativo</a>.
+firefox-new-if-you-see-a-prompt = Se aparecer um aviso informando que o aplicativo que você está instalando não é verificado pela { -brand-name-microsoft }, clique em “Instalar mesmo assim” ou <a { $attrs }>altere as configurações de recomendação de aplicativos</a>.
 firefox-new-visit-support-for-more = Visite o suporte para obter mais detalhes
 
 # Not-Required
@@ -59,4 +59,3 @@ firefox-new-fast = Rápido, privativo e gratuito
 firefox-new-from-mozilla = da { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } é um navegador gratuito com carregamento rápido de páginas, menos uso de memória e muitos recursos - um projeto da entidade sem fins lucrativos { -brand-name-mozilla }.
 firefox-new-download-a-different = Baixar de outra plataforma ou idioma
-firefox-new-taskbar = O { -brand-name-firefox } será fixado na barra de tarefas do { -brand-name-windows } após a instalação
