@@ -10,9 +10,11 @@
 ## Windows download page
 
 vpn-windows-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»
+vpn-windows-downloading-mozilla-vpn = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»…
 
 ## Mac download page
 
+vpn-mac-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»
 
 ## Shared strings
 
