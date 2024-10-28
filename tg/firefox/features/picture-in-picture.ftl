@@ -8,9 +8,11 @@
 # HTML page title
 features-pip-firefox-picture-in-picture-get-more = «Расм-дар-расм» дар браузери «{ -brand-name-firefox }»: Бо видеоҳо дар равзанаҳои алоҳида самараноктар кор кунед
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = Корҳе доред, ки шумо бояд якбора иҷро ва тамошо кунед? Ҳардуи вазифаро ба воситаи реҷаи «Расм-дар-расм» дар браузери «{ -brand-name-firefox }» ба анҷом расонед.
+features-pip-got-things-to-do-and-things-to-watch = Корҳое доред, ки шумо бояд якбора иҷро ва тамошо кунед? Ҳар ду вазифаро ба воситаи реҷаи «Расм-дар-расм» дар браузери «{ -brand-name-firefox }» ба анҷом расонед.
 features-pip-picture-in-picture = Расм-дар-расм
+features-pip-new-feature-firefox-multi-picture = Хусусияти нав: акнун браузери «{ -brand-name-firefox }» якчанд видеоро дар реҷаи «Расм-дар-расм» якбора дастгирӣ мекунад
 features-pip-cool-feature-picture-in-picture = Хусусияти беҳтарин: «Расм-дар-расм»
+features-pip-get-more-done-with-pop-out-videos = Бо видеоҳо дар равзанаҳои алоҳида самараноктар кор кунед
 features-pip-play-the-video = Пахш кардани видео
 features-pip-heres-how-it-works = Бинед, ки он чӣ тавр кор мекунад:
 features-pip-3-more-ways-to-use-picture = 3 роҳи дигар барои истифода бурдани «Расм-дар-расм»
