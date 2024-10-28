@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
+# HTML page title
+features-pip-firefox-picture-in-picture-get-more = «Расм-дар-расм» дар браузери «{ -brand-name-firefox }»: Бо видеоҳо дар равзанаҳои алоҳида самараноктар кор кунед
+# HTML page description
+features-pip-got-things-to-do-and-things-to-watch = Корҳе доред, ки шумо бояд якбора иҷро ва тамошо кунед? Ҳардуи вазифаро ба воситаи реҷаи «Расм-дар-расм» дар браузери «{ -brand-name-firefox }» ба анҷом расонед.
 features-pip-picture-in-picture = Расм-дар-расм
 features-pip-cool-feature-picture-in-picture = Хусусияти беҳтарин: «Расм-дар-расм»
 features-pip-play-the-video = Пахш кардани видео
