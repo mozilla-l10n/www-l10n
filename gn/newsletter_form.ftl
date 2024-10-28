@@ -15,6 +15,7 @@ newsletter-form-select-language = Eiporavo ñe’ẽ
 newsletter-form-your-email-here = NE ÑANDUTIVEVE
 newsletter-form-get-firefox-news = Ejapyhy marandu { -brand-name-firefox }-gui
 newsletter-form-join-the-community = Ejuaju tekoha rehe
+newsletter-form-sign-up-to-receive = Eñemboheraguapy og̃uahẽ hag̃ua ñembohekopyahu jasygua { -brand-name-firefox } guive ha Ñandutipegua eikundaha aja.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>

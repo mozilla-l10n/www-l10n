@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-get-the-best = Emog̃uahẽ umi ñemoñe’ẽ, apokuaareko ha ñembohekopyahu { -brand-name-firefox } guive. Romohekoñemi ha romohekorosãta ne ñanduti veve tapiaite: { -brand-name-firefox } iporãvéva añoite oikéta ne ñe’ẽmondo g̃uahẽhápe.
 footer-refresh-leadership = Motenondekuaa
 footer-refresh-advertise = Emoherakuã { -brand-name-mozilla } ndive
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
