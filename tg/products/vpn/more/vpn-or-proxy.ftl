@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
+vpn-or-proxy-vpns-devicelevel-protection = «VPN»-ҳо: муҳофизат дар сатҳи дастгоҳ
 vpn-or-proxy-choose-a-trustworthy = Хидмати боэътимодро интихоб кунед
