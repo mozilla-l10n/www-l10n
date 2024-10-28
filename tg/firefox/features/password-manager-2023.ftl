@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 password-manager-import-passwords = Ворид кардани ниҳонвожаҳо

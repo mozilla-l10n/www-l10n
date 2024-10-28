@@ -15,10 +15,16 @@ vpn-windows-downloading-mozilla-vpn = Боргирӣ кардани «{ -brand-n
 ## Mac download page
 
 vpn-mac-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»
+vpn-mac-downloading-mozilla-vpn = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»…
 
 ## Shared strings
 
+vpn-open-the-file = 1. Файлро кушоед
+vpn-launch-the-app = 2. Барномаро оғоз кунед
+vpn-login-or-signup = 3. Ворид шавед ё сабти ном кунед
+vpn-turn-on-vpn = 4. «VPN»-ро фаъол созед
 
 ## FAQ Strings
 
+vpn-download-faq-why-use = Чаро ман бояд аз «{ -brand-name-mozilla-vpn }» истифода барам?
 vpn-download-faq-add-device = Чӣ тавр ман дастгоҳи дигареро илова намоям?
