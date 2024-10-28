@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Eiporu { $devices } mba’e’okakuéra peve
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Embojuaju { $devices } mba’e’oka Android, iOS, Windows, macOS térã Linux peve
+       *[other] Embojuaju { $devices } mba’e’okakuéra Android, iOS, Windows, macOS térã Linux peve
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -50,5 +57,7 @@ vpn-pricing-if-already-subscribed = Eñemboheraguapýmaramo { -brand-name-mozill
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Emboguejy hag̃ua tembiporu’i, emoha’ãnga QR ayvu ne pumbyry térã tablétape
+vpn-pricing-scan-qrcode-to-download-android = Emboguejy hag̃ua tembiporu’i, emoha’ãnga QR ayvu ne pumbyry Android térã tabléta ndive
 vpn-pricing-sign-up-on-your-mobile-device = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive ne pumbyry popeguápe
+vpn-pricing-sign-up-on-your-android-device = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive ne pumbyry Android popeguápe
 vpn-pricing-download-the-app = Emboguejy tembiporu’i

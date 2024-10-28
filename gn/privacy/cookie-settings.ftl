@@ -20,6 +20,7 @@ cookie-settings-turn-on-javascript = Ikatúpa, emyandy JavaScript hekopyahu hag�
 
 cookie-settings-category-necessary-heading = Tekotevẽ
 cookie-settings-category-necessary-what-are-subheading = Mba’épa umi kookie tekotevẽva
+cookie-settings-category-necessary-what-are-desc = Ko’ã tembiporupyahu tuicha mba’e oku’e porã hag̃ua pe ñanduti kuatiarogue, ikatúva ñandutípe jeike tekorosãme térã embyaty apopyre karrítope mba’ejoguarã ñandutiguáva, ha ikatu’ỹva embogue.
 
 ## Preference cookies section
 
