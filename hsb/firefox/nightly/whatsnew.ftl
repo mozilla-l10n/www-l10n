@@ -22,6 +22,9 @@ nightly-whatsnew-if-you-want-to-v3 = Jeli chceće wědźeć, štož so dokoławo
 # Obsolete string (expires: 2024-11-26)
 nightly-whatsnew-want-to-know-which-v2 = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu nastajenjow <a { $attrs }>eksperimentow Nightly</a>.
 # Variables:
+#   $attrs (string) - link href and additional attributes
+nightly-whatsnew-want-to-know-which-v3 = Chceće wědźeć, kotre platformowe funkcije wy móhł z { -brand-name-nightly } testować, kotrež hišće w druhich kanalach { -brand-name-firefox } njejsu? Wobhladajće sej potom stronu nastajenjow <a { $attrs }>{ -brand-name-firefox-labs }</a>.
+# Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Stawaja so spady pola was? Njewočakowane zadźerženje? Nowe problemy z webkompatibilnosću? Bychmy je rady w <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> dokumentowali, zo bychmy zawěsćili, zo w kónčnej wersiji njewustupuja (by tež derje było, hdyž klučowe słowo <em>{ -brand-name-nightly }-community</em> přidawaće)!
 nightly-whatsnew-go-community = Pój zhromadźenstwo!
