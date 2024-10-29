@@ -7,3 +7,4 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } napśeśiwo Apple Safari
+compare-safari-but-firefox-also-has-built-in = Ale { -brand-name-firefox } ma teke zatwarjone rědy ako:
