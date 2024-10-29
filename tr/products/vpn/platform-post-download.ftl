@@ -60,4 +60,10 @@ vpn-download-faq-add-device = Nasıl başka bir cihaz ekleyebilirim?
 vpn-download-faq-adding-another-v3 = Yeni bir cihaz eklemek için { -brand-name-mozilla-vpn } yazılımını indirip yükledikten sonra yeni cihazınızdan  { -brand-name-mozilla-account }nıza giriş yapmanız yeterli. Daha fazla bilgi için <a href="{ $subscription }">{ -brand-name-mozilla-vpn } aboneliğinize cihaz ekleme</a> sayfasına bakabilirsiniz.
 vpn-download-faq-best-practices = VPN’den en iyi şekilde nasıl faydalanabilirim?
 vpn-download-faq-traffic = Amacınız internet hızından ödün vermeden internet trafiğinizi korumaksa fiziksel konumunuza olabildiğince yakın bir sunucu konumu seçmek en iyisidir. Bu sayede bağlantınızın güvenilirliğini ve ve hızı artar çünkü web’de ulaşmak istediği yere ulaşmak için uzun bir yol kat etmenize gerek kalmaz.
+vpn-download-faq-experience = Amacınız dünyanın başka bir yerindeymiş gibi internete bağlanmaksa tam istediğiniz yerdeki sunucu konumunu seçin. Böylece, ziyaret ettiğiniz web siteleri orada olduğunuzu sanacaktır.
+vpn-download-faq-protect = Kendinizi daha fazla korumak istiyorsanız Ayarlar > Gizlilik özellikleri kısmından reklam, takip kodu ve kötü amaçlı yazılım korumalarını açabilirsiniz. Ancak unutmayın ki bu özellikler bazı web sitelerinin bozulmasına veya açılmamasına neden olabilir. Böyle bir sorunla karşılaşırsanız bu korumaları geçici olarak devre dışı bırakmanız gerekebilir.
+vpn-download-faq-lastly = Son olarak, desteklenen cihazlarda belirli uygulamaları (örn. Netflix) VPN’den hariç tutarak VPN’i daha da akıllı hale getirebilirsiniz.
 vpn-download-faq-need-more = Daha fazla yardıma mı ihtiyacınız var?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Doğrudan { -brand-name-mozilla-vpn } uygulamasından Ayarlar > Yardım > Destek ekibiyle iletişim’e tıklayarak destek ekibimizle iletişime geçebilirsiniz. Bize <a href="{ $support }">destek sayfamızdan</a> da ulaşabilirsiniz.

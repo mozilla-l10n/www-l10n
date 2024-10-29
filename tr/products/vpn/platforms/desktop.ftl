@@ -13,9 +13,8 @@ vpn-desktop-hero-headline = İnternet bağlantınızı bilgisayarlar için { -br
 vpn-desktop-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
 vpn-desktop-about-headline = { -brand-name-mozilla } hakkında
 vpn-desktop-privacy-headline = Tek tıkla gizlilik
+vpn-desktop-privacy-copy = { -brand-name-mozilla-vpn } uygulaması internet bağlantınızı şifreler ve gelişmiş { -brand-name-wireguard }® protokolünü kullanarak cep telefonunuzda ve tabletinizde IP adresinizi gizler.
 vpn-desktop-servers-headline = Dünyanın dört bir yanındaki sunuculara bağlanın
-# Obsolete string
-vpn-desktop-servers-copy = Brezilya’da internette gezinin. Japonya’dan oyun oynayın. Meksika’dan yayın yapın. { -brand-name-mozilla-vpn } sayesinde telefonunuzun veya bilgisayarınızın konumunu { $servers } konumdan birine değiştirebilirsiniz.
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = { $devices } cihazda koruma
