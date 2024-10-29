@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Tạo một { -brand-name-mozilla-account } – Giữ dữ liệu của bạn riêng tư, an toàn và được đồng bộ hóa
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Tạo một { -brand-name-firefox-account } - Giữ dữ liệu của bạn riêng tư, an toàn và đồng bộ hóa
-# Obsolete string
-firefox-accounts-securely-sync-your = Đồng bộ hóa mật khẩu, dấu trang và thẻ của bạn một cách an toàn trên tất cả các thiết bị của bạn. Tạo { -brand-name-firefox-account } ngay bây giờ - Đăng nhập một lần - Hiệu suất và sự riêng tư ở khắp mọi nơi.
 # HTML page description
 mozilla-accounts-securely-sync-your = Đồng bộ hóa an toàn mật khẩu, dấu trang và thẻ trên tất cả các thiết bị của bạn. Tạo một { -brand-name-mozilla-account } ngay – Một tài khoản – Quyền lực và riêng tư ở mọi nơi.
 firefox-accounts-enter-your-email-address = Nhập địa chỉ email của bạn để bắt đầu.
 firefox-accounts-already-have-an-account = Đã có một tài khoản?
 firefox-accounts-sign-in = Đăng nhập
-# Obsolete string
-firefox-accounts-already = Bạn đã cài đặt { -brand-name-firefox-account }. Chúc mừng!
 mozilla-accounts-already = Bạn đã có { -brand-name-mozilla-account }. Chúc mừng!
 firefox-accounts-manage = Quản lý tài khoản của bạn
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Đăng nhập vào { -brand-name-mozilla-account } của bạn để:
-# Obsolete string
-firefox-accounts-sign-in-to = Đăng nhập vào { -brand-name-firefox-account } của bạn để:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Gặp gỡ gia đình của chúng tôi về các sản phẩm riêng tư đầu tiên.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Gửi thẻ</a> đến thiết bị khác
@@ -34,7 +24,7 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Gửi thẻ</a> đến thiết
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Lưu và đồng bộ hóa mật khẩu</a>
 firefox-accounts-get-email-alerts = Nhận thông báo qua email khi thông tin của bạn xuất hiện trong vụ rò rỉ dữ liệu đã biết
-firefox-accounts-protect-your-identity = Bảo vệ danh tính của bạn bằng mặt nạ điện thoại và email an toàn
+firefox-accounts-protect-your-identity = Bảo vệ danh tính của bạn bằng điện thoại và email ẩn danh an toàn
 firefox-accounts-keep-your-passwords = Giữ mật khẩu của bạn được bảo vệ và di động.
 firefox-accounts-get-a-lookout-for = Cảnh giác với các rò rỉ dữ liệu.
 firefox-accounts-travel-the-internet = Du lịch trên internet với bảo vệ, trên mọi thiết bị.
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Nhận tất cả trên mọi thiết b�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
