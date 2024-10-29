@@ -55,4 +55,9 @@ vpn-download-faq-working = VPN’in çalıştığını nasıl anlayabilirim?
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } hem araç çubuğunda hem de uygulamanın ana ekranında mevcut durumu gösteren göstergeler sayesinde çevrimiçi etkinliklerinizin korunup korunmadığını anlamanızı kolaylaştırır. Bu göstergeler, gezintinizin ne zaman gizli ve güvenli olduğunu bir bakışta görmenizi sağlar. Ayrıca bağlıyken <a href="{ $monitor }">https://monitor.mozilla.org/</a> adresini ziyaret ederek IP adresinizin maskelenip maskelenmediğini kontrol edebilirsiniz. Daha fazla bilgi için <a href="{ $connected }">{ -brand-name-mozilla-vpn }’in bağlı olup olmadığını nasıl anlayabilirim?</a> sayfasına bakabilirsiniz.
 vpn-download-faq-add-device = Nasıl başka bir cihaz ekleyebilirim?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Yeni bir cihaz eklemek için { -brand-name-mozilla-vpn } yazılımını indirip yükledikten sonra yeni cihazınızdan  { -brand-name-mozilla-account }nıza giriş yapmanız yeterli. Daha fazla bilgi için <a href="{ $subscription }">{ -brand-name-mozilla-vpn } aboneliğinize cihaz ekleme</a> sayfasına bakabilirsiniz.
+vpn-download-faq-best-practices = VPN’den en iyi şekilde nasıl faydalanabilirim?
+vpn-download-faq-traffic = Amacınız internet hızından ödün vermeden internet trafiğinizi korumaksa fiziksel konumunuza olabildiğince yakın bir sunucu konumu seçmek en iyisidir. Bu sayede bağlantınızın güvenilirliğini ve ve hızı artar çünkü web’de ulaşmak istediği yere ulaşmak için uzun bir yol kat etmenize gerek kalmaz.
 vpn-download-faq-need-more = Daha fazla yardıma mı ihtiyacınız var?
