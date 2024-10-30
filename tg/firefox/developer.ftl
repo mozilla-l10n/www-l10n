@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+firefox-developer-speak-up = Фикрҳои худро баён кунед
 firefox-developer-get-involved = Ҳамроҳ шавед
 firefox-developer-start-now = Ҳозир оғоз намоед
 firefox-developer-inspector = Тафтишкунанда
