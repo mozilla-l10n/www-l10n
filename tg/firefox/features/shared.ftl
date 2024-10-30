@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = Ҳусусиятҳои «{ -brand-name-firefox }»
 features-shared-footer-cta-title = Имкониятҳои бештар бо «{ -brand-name-firefox }»
+features-shared-footer-cta-desc = Браузереро ба даст оред, ки тезкор, сабук ва дорои махфият мебошад, ва инчунин, аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад ва дар ҳамаи дастгоҳҳои шумо кор мекунад.
 features-shared-footer-cta-button = «{ -brand-name-firefox }»-ро боргирӣ кунед
 features-shared-is-firefox-a-fast-browser = Оё браузери «{ -brand-name-firefox }» тез аст?
 features-shared-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
