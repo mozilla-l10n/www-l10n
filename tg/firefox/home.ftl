@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
+firefox-home-firefox-protect-your = «{ -brand-name-firefox }» - Ҳаёти худро дар фазои Интернет бо маҳсулоти дорои махфияти аввалиндараҷа ҳифз намоед
 # Obsolete string
 firefox-home-meet-our-family-of = Бо оилаи маҳсулоти мо шинос шавед
 firefox-home-try-relay = «{ -brand-name-relay }»-ро кӯшиш кунед
