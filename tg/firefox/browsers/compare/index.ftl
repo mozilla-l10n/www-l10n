@@ -9,7 +9,7 @@
 compare-index-compare-firefox-with-other = Браузери «{ -brand-name-firefox }»-ро бо браузерҳои дигар муқоиса кунед
 # Page description
 # "stacks up" is slang for a competitive comparison to determine a winner, like stacking blocks to see who has more.
-compare-index-see-how-firefox-stacks-up = Нигаред, ки чӣ тавр браузери «{ -brand-name-firefox }» аз браузерҳои асосии интернетии дигар барои кормпютерҳои мизи корӣ дар масъалаҳои хусусиятҳо, махфият ва осонии истифода фарқ мекунад.
+compare-index-see-how-firefox-stacks-up = Нигаред, ки чӣ тавр браузери «{ -brand-name-firefox }» аз браузерҳои асосии интернетии дигар барои компютерҳои мизи корӣ дар масъалаҳои хусусиятҳо, махфият ва осонии истифода фарқ мекунад.
 compare-index-firefox-versus-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Google Chrome»
 compare-index-firefox-versus-microsoft-edge = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Microsoft Edge»
 compare-index-firefox-versus-apple-safari = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба «Apple Safari»
