@@ -20,8 +20,12 @@ firefox-browsers-take-the-same-level-of-privacy = Ҳамон сатҳи махф
 firefox-browsers-download-for-mobile = Барои телефони мобилӣ боргирӣ кунед
 firefox-browsers-send-me-a-link = Ба ман пайвандеро фиристонед
 firefox-browsers-enterprise = { -brand-name-enterprise }
+firefox-browsers-get-unmatched-data-protection = Бо давраҳои дастгирии мутобиқ ба ниёзҳои ташкилоти шумо, муҳофизати илитаринро барои ҳифзи маълумоти худ ба даст оред.
 firefox-browsers-enterprise-packages = Бастаҳои { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }
+firefox-browsers-go-beyond-two-dimensions-and = Аз ду навъи андозагирӣ берун бароед ва аз беҳтарин муҳтавои фарогир дар саросари Интернет лаззат баред.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-build-sites-and-refine-your = Сомонаҳоро созед ва рамзи барномарезии худро ба воситаи  браузери «{ -brand-name-firefox }» ва «<strong>{ -brand-name-devtools }</strong>» беҳтар кунед
 firefox-browsers-learn-more-about-devtools = Маълумоти бештар дар бораи «{ -brand-name-devtools }»
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
