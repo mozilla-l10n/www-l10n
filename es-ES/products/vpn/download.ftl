@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
-vpn-download-page-title = Descarga{ -brand-name-mozilla-vpn }
+vpn-download-page-title = Descarga { -brand-name-mozilla-vpn }
 vpn-download-page-description = Descarga { -brand-name-mozilla-vpn } para { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } y { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
@@ -13,8 +13,6 @@ vpn-download-sub-heading = Puedes descargar { -brand-name-mozilla-vpn } en hasta
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ofrece protección segura para todos los principales sistemas operativos.
 vpn-download-not-available-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está disponible para descargar en tu país.
 vpn-download-button-copy = Descargar
-# Obsolete string
-vpn-download-for-windows = VPN para { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64-bit)
 vpn-download-for-windows-long = Descarga { -brand-name-mozilla-vpn } para { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN para { -brand-name-android }
 vpn-download-for-android-long = Descarga { -brand-name-mozilla-vpn } para { -brand-name-android }
 vpn-download-for-ios = VPN para { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Descargar { -brand-name-mozilla-vpn } para { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Descarga la VPN de { -brand-name-mozilla-vpn } para { -brand-name-ios }
 vpn-download-get-on-google-play = Consíguelo en { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Consíguelo en { -brand-name-app-store }
 vpn-download-based-on-your = Basado en tu dispositivo actual
