@@ -27,7 +27,7 @@ vpn-desktop-servers-copy-updated = Brezilya’da internette gezinin. Japonya’d
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = { $devices } cihazda koruma
-vpn-desktop-devices-copy = Tek bir abonelikle sayesinde güvenli VPN hizmetimize akıllı telefon, tablet ve bilgisayarınızdan; { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ve { -brand-name-linux } işletim sistemlerinden sınırsız erişim sağlayabilirsiniz.
+vpn-desktop-devices-copy = Tek bir abonelikle güvenli VPN hizmetimize akıllı telefon, tablet ve bilgisayarınızdan; { -brand-name-ios }, { -brand-name-android }, { -brand-name-mac-short }, { -brand-name-windows } ve { -brand-name-linux } işletim sistemlerinden sınırsız erişim sağlayabilirsiniz.
 vpn-desktop-speed-headline = Kısıtlamasız, inanılmaz hız
 vpn-desktop-speed-copy = Işık hızında yayın yapın, oyun oynayın, alışveriş yapın ve internette gezinin. { -brand-name-mozilla-vpn } bant genişliğinizi sınırlamaz veya akıllı telefonunuzu yavaşlatmaz.
 vpn-desktop-log-headline = Önceliğimiz gizliliğiniz
