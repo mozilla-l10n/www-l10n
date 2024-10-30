@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = Оё «{ -brand-name-firefox }» браузери тезтарин аст?
 features-fast-browse-faster = Тамошои босуръат
 features-fast-faster-gaming = Бозиҳои босуръат

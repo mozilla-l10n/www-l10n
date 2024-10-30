@@ -15,6 +15,7 @@ mobile-focus-send-a-download-link-to-your = Фиристодани пайван�
 mobile-focus-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
 mobile-focus-scan-alt-text = Барои гирифтани «{ -brand-name-firefox-focus }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-focus-delete-your-history = Нест кардани таърихи худ
+mobile-focus-take-private-mode = Реҷаи «Тамошокунии хусусӣ» ба сатҳи дигар баланд бардоред
 mobile-focus-tracking-protection = Муҳофизат аз пайгирӣ
 mobile-focus-see-it-all = Ҳамаашро тезтар тамошо кунед
 mobile-focus-made-by-mozilla = Аз ҷониби «{ -brand-name-mozilla }» сохта шудааст

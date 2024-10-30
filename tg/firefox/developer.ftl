@@ -11,6 +11,8 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-speak-up = Фикрҳои худро баён кунед
+firefox-developer-feedback-makes-us = Фикрҳои шумо кори моро беҳтар мекунанд. Ба мо маълумот диҳед, ки мо чӣ тавр метавонем худи браузер ва абзорҳои барномасозиро беҳтар кунед.
+firefox-developer-join-the-convo = Ба суҳбат ҳамроҳ шавед
 firefox-developer-get-involved = Ҳамроҳ шавед
 firefox-developer-start-now = Ҳозир оғоз намоед
 firefox-developer-inspector = Тафтишкунанда
@@ -40,6 +42,7 @@ firefox-developer-convenient-features = Хусусиятҳои қулай
 firefox-developer-shapes-editor = Муҳаррири шаклҳо
 firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
+firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шуд.
 firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст

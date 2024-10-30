@@ -18,6 +18,7 @@ features-index-firefox-add-ons-and-browser-extensions = Ҷузъҳои илов�
 features-index-pinned-browser-tabs = Варақаҳои васлшудаи браузер
 features-index-eyedropper-tool = Абзори «Чинандаи ранг»
 features-index-pdf-editor = Муҳаррири «PDF»
+features-index-view-and-edit-pdf-files = Файлҳои «PDF»-ро мустақиман дар браузери «{ -brand-name-firefox }» кушода бинед ва таҳрир намоед.
 features-index-fingerprint-blocking = Манъкунии нақши рақамии ангуштон
 features-index-ad-tracker-blocking = Манъкунии васоити пайгирии рекламавӣ
 features-index-translate-the-web = Тарҷума кардани саҳифаи сомона

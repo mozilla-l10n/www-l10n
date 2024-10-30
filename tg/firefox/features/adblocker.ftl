@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
+features-adblocker-send-a-do-not-track-signal = Фиристодани ишораи махсуси «Пайгирӣ карда нашавад»
