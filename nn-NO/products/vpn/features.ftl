@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
 vpn-features-secure = Trygg
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Enkelt sagt, vi samlar ikkje inn den personlege nettlesarinformasjonen din. Her er den <a { $privacy }>lettlesne personvernerklæringa</a> vår.
