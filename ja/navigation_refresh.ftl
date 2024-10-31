@@ -30,9 +30,7 @@ navigation-refresh-firefox-blog = { -brand-name-firefox } のブログ
 
 navigation-refresh-products = 製品
 navigation-refresh-close-products-menu = 製品メニューを閉じる
-navigation-refresh-mozilla-monitor = { -brand-name-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
-navigation-refresh-mozilla-vpn = { -brand-name-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
