@@ -97,3 +97,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } za iOS – TestFlight
+firefox-all-download-esr-115 = Prenesi ESR 115
+firefox-all-note-unsupported = Opomba: Če uporabljate Windows 7, Windows 8, Windows 8.1 ali macOS 10.12, 10.13 ali 10.14, prenesite ESR 115, saj novejše različice { -brand-name-firefox(sklon: "rodilnik") } niso združljive s temi sistemi.
