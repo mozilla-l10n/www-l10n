@@ -99,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Stáhnout ESR 115
+firefox-all-note-unsupported = Poznámka: Pokud používáte Windows 7, Windows 8, Windows 8.1 nebo macOS 10.12, 10.13 či 10.14, stáhněte si prosím ESR 115, abyste mohli { -brand-name-firefox } používat.
