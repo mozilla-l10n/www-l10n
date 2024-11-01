@@ -99,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Az ESR 115 letöltése
+firefox-all-note-unsupported = Megjegyzés: Ha Windows 7, Windows 8, Windows 8.1 vagy macOS 10.12, 10.13 vagy 10.14 operációs rendszert használ, akkor a { -brand-name-firefox } használatához töltse le az ESR 115-öt .
