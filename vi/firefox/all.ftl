@@ -99,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Tải xuống ESR 115
+firefox-all-note-unsupported = Lưu ý: Nếu bạn đang sử dụng Windows 7, Windows 8, Windows 8.1, hoặc macOS 10.12, 10.13, 10.14, hãy tải về ESR 115 để sử dụng { -brand-name-firefox }.
