@@ -9,6 +9,8 @@
 firefox-all-download-the-firefox = Pellgargit ar { -brand-name-firefox-browser } e brezhoneg (BR) hag en ouzhpenn 90 yezh all
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Pep hini a rankfe kaout un doare da vont war internet — ho yezh ne rankfe ket bezañ un harz. Setu perak — gant skoazell tud a-youl vat mennet deus ar bed a-bezh — e kinnigomp ar { -brand-name-firefox-browser } en ouzhpenn 90 yezh.
+firefox-all-choose-browser = Dibabit ur merdeer evit kenderc’hel
+firefox-all-choose-language = Dibabit ur yezh evit kenderc’hel
 firefox-all-change-browser = Dibab ur produ all
 firefox-all-change-language = Dibab ur yezh all
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
@@ -62,3 +64,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
