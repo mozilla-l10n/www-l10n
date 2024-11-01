@@ -99,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = 下載 ESR 115
+firefox-all-note-unsupported = 注: 若您使用的是 Windows 7、Windows 8、Windows 8.1、macOS 10.12、10.13 或 10.14 版本請下載 ESR 115 才能使用 { -brand-name-firefox }。
