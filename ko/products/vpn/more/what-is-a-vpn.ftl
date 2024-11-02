@@ -24,3 +24,28 @@ vpn-what-is-when-should-i = 언제 VPN을 사용해야 하나요?
 vpn-what-is-connecting-to-a = 인터넷 서비스를 사용할 수 없거나 휴대폰에 네트워크 신호가 잡히지 않을 때처럼 공공 와이파이 네트워크에 연결하는 것이 편리할 때가 가끔 있습니다. 그러나 공공 와이파이에 연결하는 것은 위험할 수 있습니다. 누군가가 사용자의 활동을 엿보기 위해 그 네트워크에 접속하지 않았음을 보장할 수 없습니다. 사용자의 트래픽이 암호화되어도 여전히 어느 사이트에 방문하는지는 볼 수 있습니다. 여전히 많은 사람이 그러하듯, 암호화되지 않은 앱을 사용한다면 앱 안에서 사용자가 하는 행동을 모두 볼 수 있습니다.
 vpn-what-is-when-youre-at = 집에 있을 때는 홈 네트워크에 악의적인 사용자가 나타날 위험이 더 낮습니다. 그러나, 사용자가 웹에서 접근하는 데이터가 모두 암호화되지 않았을 수도 있는 일부 인터넷 서비스 제공자(ISP)의 네트워크를 통해 라우팅되기 때문에 ISP가 사용자의 온라인 활동을 추적하고 공유할 수 있습니다. VPN은 사용자가 어디에 있든 VPN 공급자에게 전송되는 트래픽을 암호화하여 ISP가 사용자를 염탐하는 것을 방지할 수 있습니다.
 vpn-what-is-wait-i-thought = 잠깐, HTTPS가 제 인터넷 트래픽을 암호화하는 줄 알았는데요…
+vpn-what-is-its-true-that = 오늘날의 웹 사이트 연결 대부분이 HTTPS로 보안되는 것은 사실이지만 출발지 또는 목적지 IP 주소가 아닌 콘텐츠가 암호화된다는 뜻입니다. VPN은 웹 사이트 및 제3자가 사용자의 IP 주소를 알 수 없게 하여 추가적인 개인 정보 보호를 제공합니다.
+vpn-what-is-why-would-i = 왜 VPN을 사용해야 하나요?
+vpn-what-is-hiding-your-identity = 신원을 숨기고 웹 트래픽을 감추는 것은 엄청난 기술자나 악의적인 사용자가 할 만한 일처럼 보일지도 모릅니다. 하지만 VPN을 사용해야 할 타당한 이유는 많으며 다음과 같습니다:
+vpn-what-is-keeping-your-online = 온라인 활동을 비공개로 유지합니다.
+vpn-what-is-keeping-your-home = 집의 위치 또는 자주 방문하는 장소를 비공개로 유지합니다.
+vpn-what-is-protecting-your-connection = 카페나 공항, 가게, 도서관 등의 공공 와이파이 네트워크 연결을 보호합니다.
+vpn-what-is-ensuring-the-confidentiality = 인터넷 접근의 기밀성과 무결성을 보장합니다.
+vpn-what-is-make-it-more = 광고 네트워크가 웹에서 사용자를 추적하는 광고 타겟팅 프로필을 만들기 위해 사용자의 IP를 사용하는 것을 어렵게 만듭니다.
+vpn-what-is-what-are-the = VPN의 단점은 무엇인가요?
+vpn-what-is-some-service-providers = 일부 서비스 제공 업체는 VPN을 통한 방문을 차단하여 VPN이 켜져 있을 때 콘텐츠에 접근할 수 없도록 합니다. 일부 VPN은 속도를 저하시키거나 대역폭을 제한할 수 있습니다. 그리고 일부 VPN은 사용자 개인 정보나 보안에 대한 존중 정도가 낮습니다.
+vpn-what-is-are-vpns-safe = VPN은 안전한가요?
+vpn-what-is-its-very-hard = 신뢰할 수 있는 VPN을 찾기는 매우 어렵습니다. VPN은 사용자가 온라인 상태일 때 사용자를 보호하기 위한 것이지만 모든 VPN을 제공하는 서비스가 동일하지는 않습니다. VPN 서비스를 찾을 때 동의하는 약관의 내용을 반드시 확인하세요. 많은 기업이 서비스가 훌륭하며 개인 정보 보호를 중시한다고 주장하지만 다수는 그 약속을 지키지 못합니다. 일부 VPN은 데이터와 정보를 마케팅 기업에 직접 팔기 위해 여러분의 온라인 활동을 기록할 것입니다. 다른 VPN은 기기에 악성 코드를 설치하도록 유도할 것입니다.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a>이 실제로 사용자의 개인 정보를 존중하도록 많은 노력을 했고 이에 우리의 명성을 걸 수 있습니다. { -brand-name-mozilla }는 정보를 안전하게 지키는 데 도움이 되는 제품을 만들기로 유명합니다. 우리는 읽기 쉬우며 현실적인 <a href="{ $principles }">개인정보 데이터 원칙</a>을 따르기 때문에 서비스를 제공하는 데 필요한 정보에만 집중할 수 있습니다. 가볍고 현대적인 { -brand-name-mozilla-vpn } 기술은 사용자에게 빠른 연결과 완전한 VPN 보호 및 보안을 제공합니다. 또한 VPN을 만든 곳이 <a href="{ $mission }">사명 중심</a> 기업의 지원을 받고 있기 때문에 소비자가 이 제품에 사용한 비용이 최고 수준의 VPN을 제공하는데 들어갔으며 또한 모두를 위한 더 좋은 인터넷을 만드는 데 쓰인다는 것을 믿으셔도 됩니다.
+vpn-what-is-can-vpns-protect = VPN이 사이버 범죄자로부터 보호해 주나요?
+# Variables
+#   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
+vpn-what-is-while-a-vpn = VPN이 안전한 인터넷 연결을 제공하기는 하지만 모든 악의적인 사용자로부터 보호해 주지는 않습니다. VPN 사용 여부에 관계없이 온라인에 접속할 때마다 의심스러운 링크와 잘못된 정보 캠페인, 피싱 사기, 기타 위협에 주의해야 합니다. <a href="{ $url }">안전한 온라인 상태를 유지</a>하는 것은 언제나 염두해야 할 사항입니다.
+vpn-what-is-are-vpns-legal = VPN은 합법인가요?
+vpn-what-is-installing-and-using = 미국과 영국, 캐나다, 뉴질랜드를 포함한 대부분의 국가에서 VPN을 설치하고 사용하는 것은 현재 합법이지만 일부 국가에서는 사용을 규제할 수 있습니다. VPN을 사용하기로 결정했다면 VPN 사용의 적법 여부를 알아내기 위해 해당 국가의 법률을 확인하는 것은 사용자의 책임입니다.
+vpn-what-is-are-vpns-only = VPN은 컴퓨터에서만 쓸 수 있나요?
