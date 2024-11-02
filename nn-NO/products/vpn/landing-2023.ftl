@@ -5,8 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = { -brand-name-mozilla-vpn }: Vern heile eininga di
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Bruk { -brand-name-mozilla-vpn } for fullt einingsvern for alle appar. Med serverar i { $countries }+ land, kan du kople til kvar som helst, frå kvar som helst.
 vpn-landing-powerful-privacy-for-peace = Kraftig personvern for sinnsro
 vpn-landing-whats-a-vpn = Kva er eit VPN?
+vpn-landing-a-virtual-private-network-protects = Eit virtuelt privat nettverk vernar tilkoplinga di til internett, og held posisjonen din og det du gjer på nettet meir privat på tvers av einingane dine.
+vpn-landing-see-all-the-ways-mozilla-vpn = Sjå alle måtane { -brand-name-mozilla-vpn } vernar deg på.
 vpn-landing-how-a-vpn-helps-you = Korleis eit VPN hjelper deg
 vpn-landing-features = Funksjonar
 # Variables:
