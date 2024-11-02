@@ -99,3 +99,4 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Llwythwch ESR 115 i lawr
