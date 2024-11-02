@@ -39,3 +39,19 @@ vpn-pick-a-recommended = 연결 상태가 빠르고 안정적일 수 있도록 �
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = 시작하는데 도움이 필요하신가요?
+vpn-download-faq-here-are-some = { -brand-name-mozilla-vpn } 설정 관련 자주 묻는 질문을 살펴보세요.
+vpn-download-faq-why-use = 왜 { -brand-name-mozilla-vpn }을 사용해야 하나요?
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = 일상에서 인터넷으로 이루어지는 일들이 점점 많아지면서 온라인 개인 정보 보호와 보안의 중요성이 커지고 있습니다. VPN, 즉 <a href="{ $faq }">가상 사설망</a>은 기기와 인터넷 사이에 암호화된 터널을 만들어 안전하고 비공개적으로 인터넷에 연결할 수 있게 해 주며 두 가지 중요한 방법으로 사용자를 보호합니다:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = 실제 <a href="{ $ip }">IP 주소</a>를 숨겨 신원을 보호하고 방문한 웹사이트로부터 위치를 알 수 없게 합니다.
+vpn-download-faq-encrypting = 인터넷 트래픽을 암호화하여 아무도 네트워크를 통해 사용자의 온라인 활동을 염탐하지 못하게 합니다.
+vpn-download-faq-working = VPN이 작동하는지 어떻게 알 수 있나요?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn }의 현재 상태는 도구 모음과 애플리케이션 홈 화면에 시각적으로 표시되기 때문에 온라인 활동 보호 여부를 쉽게 알 수 있습니다. 이 표시를 통해 비공개로 안전하게 탐색 중이라는 것을 확인할 수 있습니다. 또한 연결된 동안 <a href="{ $monitor }">https://monitor.mozilla.org/</a>에 방문하여 IP 주소가 가려졌는지 확인할 수 있습니다. 자세한 사항은 <a href="{ $connected }">{ -brand-name-mozilla-vpn }이 연결되었는지 어떻게 아나요?</a>를 참조하세요.
+vpn-download-faq-add-device = 어떻게 다른 기기를 추가하나요?
