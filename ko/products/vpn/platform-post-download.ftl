@@ -55,3 +55,15 @@ vpn-download-faq-working = VPN이 작동하는지 어떻게 알 수 있나요?
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn }의 현재 상태는 도구 모음과 애플리케이션 홈 화면에 시각적으로 표시되기 때문에 온라인 활동 보호 여부를 쉽게 알 수 있습니다. 이 표시를 통해 비공개로 안전하게 탐색 중이라는 것을 확인할 수 있습니다. 또한 연결된 동안 <a href="{ $monitor }">https://monitor.mozilla.org/</a>에 방문하여 IP 주소가 가려졌는지 확인할 수 있습니다. 자세한 사항은 <a href="{ $connected }">{ -brand-name-mozilla-vpn }이 연결되었는지 어떻게 아나요?</a>를 참조하세요.
 vpn-download-faq-add-device = 어떻게 다른 기기를 추가하나요?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = { -brand-name-mozilla-vpn } 소프트웨어를 다운로드하여 설치한 다음 새로운 기기에서 기존 { -brand-name-mozilla-account } 계정에 로그인하여 간편하게 다른 기기를 추가할 수 있습니다. 자세한 사항은 <a href="{ $subscription }">{ -brand-name-mozilla-vpn } 구독에 기기를 추가하는 방법</a>을 참조하세요.
+vpn-download-faq-best-practices = VPN 모범 사례에는 어떤 것이 있나요?
+vpn-download-faq-traffic = 빠른 속도를 유지하면서도 인터넷 트래픽을 보호하는 것이 목적이라면 실제 위치에서 최대한 가까운 서버 위치를 선택하는 것이 좋습니다. 그러면 인터넷 트래픽이 웹의 목표 목적지에 도달하기 위해 크게 우회할 필요가 없어 연결의 안전성과 속도가 향상됩니다.
+vpn-download-faq-experience = 세계의 다른 지역에 위치해 있는 것처럼 인터넷을 사용하는 것이 목적이라면 해당 지역의 서버 위치를 선택하세요. 방문하는 모든 웹사이트가 정말 그 지역에 위치해 있는 것처럼 표시됩니다.
+vpn-download-faq-protect = 보안을 더욱 강화하고 싶다면 설정 > 개인 정보 보호 기능에서 광고와 광고 추적기, 악성 코드에 대한 보호를 활성화할 수 있습니다. 일부 웹사이트가 깨지거나 로드되지 않을 수 있으므로 이런 문제가 발생할 경우 보호 기능을 일시적으로 비활성화해야 할 수도 있습니다.
+vpn-download-faq-lastly = 마지막으로 지원되는 기기에서는 특정 앱(예: Netflix)을 VPN에서 제외하여 더 똑똑한 VPN을 만들 수 있습니다.
+vpn-download-faq-need-more = 도움이 더 필요하신가요?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = { -brand-name-mozilla-vpn } 애플리케이션에서 설정 > 도움 받기 > 지원팀 연락을 클릭하여 지원팀에 바로 연락할 수 있습니다. <a href="{ $support }">지원 페이지</a>에서도 문의할 수 있습니다.
