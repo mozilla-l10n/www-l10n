@@ -35,3 +35,13 @@ vpn-when-to-use-make-sure-you = VPN이 하지 못하는 일에 대해 정확히 
 #   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN은 개인 데이터가 인터넷을 통해 이동하기 전에 데이터를 보호하는 방식으로 중요한 보안 링크를 제공하고 IP 주소를 가려 신원과 위치를 보호합니다. 하지만 의심스러운 링크를 클릭하거나 악성 코드를 다운로드하거나 이메일 사기의 피해자가 되는 것을 막지는 못합니다. <a href="{ $book }">안전한 온라인 상태 유지를 위한 좋은 습관</a>도 함께 실천해야 합니다.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, 신뢰할 수 있는 VPN 서비스
+# Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = VPN을 선택할 때 고려해야 할 가장 중요한 부분은 신뢰할 수 있는 기업을 선택하는 것입니다. 동의하는 약관의 내용을 반드시 확인하세요. 많은 기업이 서비스가 훌륭하며 개인 정보 보호를 중시한다고 주장하지만 다수는 그 약속을 지키지 못합니다. 모든 프록시 및 VPN 서비스가 안전하고 사생활을 보호하는 것은 아닙니다. 일부는 <a href="{ $cnet }">아마</a> 데이터와 정보를 마케팅 기업에 직접 팔기 위해 여러분의 온라인 활동을 <a href="{ $pcmag }">기록</a>할 것입니다. 다른 서비스는 기기에 악성 코드를 설치하도록 유도할 것입니다.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-when-to-use-weve-done-the = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a>이 실제로 사용자의 개인 정보를 존중하도록 많은 노력을 했고 이에 우리의 명성을 걸 수 있습니다. { -brand-name-mozilla }는 정보를 안전하게 지키는 데 도움이 되는 제품을 만들기로 유명합니다. 우리는 읽기 쉬우며 현실적인 <a href="{ $principles }">개인정보 데이터 원칙</a>을 따르기 때문에 서비스를 제공하는 데 필요한 정보에만 집중할 수 있습니다. 또한 <a href="{ $mission }">사명 중심</a> 기업의 지원을 받고 있기 때문에 소비자가 이 제품에 사용한 비용이 최고 수준의 보안을 제공하는데 들어갔으며 또한 모두를 위한 더 좋은 인터넷을 만드는 데 쓰인다는 것을 믿으셔도 됩니다.
