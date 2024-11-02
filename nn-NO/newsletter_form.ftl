@@ -44,4 +44,5 @@ multi-newsletter-form-checkboxes-legend = Eg ønskjer informasjon om:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Gjer vel og vel minst eitt av alternativa i nyheitsbrevet.
+multi-newsletter-form-title = Glad i nettet
 multi-newsletter-form-desc = Få { -brand-name-mozilla }-nyheitsbrev, og hjelp oss med å halde nettet ope og fritt.

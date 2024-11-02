@@ -47,6 +47,7 @@ firefox-all-64-bit-installers = 64-bit installerar
 firefox-all-choose-a-64-bit-installer = Vel eit 64-bit installasjonsprogram for datamaskiner med 64-bit prosessorar, noko som gjer at datamaskina kan fordele meir RAM til einskilde program - særskild viktig for spel og andre krevjande program.
 firefox-all-32-bit-installers = 32-bit installerar
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Dette alternativet opnar ei { -brand-name-firefox }-produktside i Microsoft Store-nettportalen. Viss du køyrer Windows 10 eller Windows 11, vil du ha høvet til å opne Microsoft Store frå denne sida og installere { -brand-name-firefox }. Viss du installerer frå Microsoft Store, vil oppdateringar til { -brand-name-firefox } også bli handtert av Microsoft Store. Det er mindre forskjellar i åtferd og funksjonar til { -brand-name-firefox } når han vert installert frå Microsoft Store, men for dei fleste brukarar er desse forskjellane ikkje merkbare.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Last ned { $esr_version }
