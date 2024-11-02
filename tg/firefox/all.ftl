@@ -100,3 +100,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Боргирӣ кардани «ESR 115»
+firefox-all-note-unsupported = Тавзеҳ: Агар шумо аз «Windows 7», «Windows 8», «Windows 8.1» ё «macOS 10.12, 10.13» ё «10.14» истифода баред, лутфан, барои насб кардани браузери «{ -brand-name-firefox }» версияи «ESR 115»-ро боргирӣ кунед.
