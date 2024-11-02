@@ -14,16 +14,24 @@ vpn-download-not-available-in-country = { -brand-name-mozilla-vpn } er diverre i
 vpn-download-button-copy = Last ned
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (berre 64-bit)
+vpn-download-for-windows-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
+vpn-download-for-mac-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-version-requirements = Versjon { $version } og nyare
 vpn-download-for-linux = VPN for { -brand-name-linux }
+vpn-download-for-linux-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } og nyare
 vpn-download-for-android = VPN for { -brand-name-android }
+vpn-download-for-android-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-android }
 vpn-download-for-ios = VPN for { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Last ned { -brand-name-mozilla-vpn } for { -brand-name-ios }
 vpn-download-get-on-google-play = Last ned frå { -brand-name-google-play }
 vpn-download-get-on-app-store = Last ned frå { -brand-name-app-store }
+vpn-download-based-on-your = Basert på gjeldande eining
+vpn-download-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Personvern du kan stole på
+vpn-download-also-available = Også tilgjengeleg for:
