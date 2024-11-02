@@ -34,7 +34,7 @@ footer-refresh-tools = Verktøy
 footer-refresh-donate = Doner
 footer-refresh-visit-mozilla-corporations = Besøk <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> sitt ideelle moderselskap, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Opphavsretten for delar av dette innhaldet høyrer til enkelte medarbeidarar ved mozilla.org. ©1998–{ $current_year }. Innhald tilgjengeleg under ein <a rel="license" { $href }>{ -brand-name-creative-commons }-licens</a>.
-footer-refresh-websites-privacy-notice = Personvernmerknadar for nettstaden
+footer-refresh-websites-privacy-notice = Personvernerklæring for nettstaden
 footer-refresh-websites-cookies = Infokapslar
 footer-refresh-websites-legal = Juridisk
 footer-refresh-community-participation-guidelines = Retningslinjer for fellesskapsdeltaking

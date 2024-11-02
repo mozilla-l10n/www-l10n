@@ -32,4 +32,5 @@ cookie-settings-category-analytics-what-are-subheading = Kva er analyse-infokaps
 
 ## Privacy section
 
+cookie-settings-privacy-heading = Personvernerklæringa vår
 cookie-settings-privacy-policy-link = Personvernpraksis

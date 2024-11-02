@@ -9,6 +9,7 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Last ned { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagar pengane-tilbake-garanti
+vpn-shared-privacy-notice = Personvernerklæring
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -25,6 +26,7 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + mva</span>
 vpn-shared-platform-cta-headline = La oss kome i gang
 vpn-shared-platform-what-youll-get = Kva du får med { -brand-name-mozilla-vpn }:
 vpn-subnav-learn-about-vpns = Les meir om VPN
+vpn-subnav-features = Funksjonar
 
 ## Press quotations
 

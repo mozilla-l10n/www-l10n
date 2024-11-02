@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
 vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
+# HTML page title
+# Line break for visual format only
+vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på nettet
+vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
