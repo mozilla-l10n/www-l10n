@@ -9,12 +9,17 @@
 
 ## Windows download page
 
+vpn-windows-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
+vpn-windows-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-windows }…
 
 ## Mac download page
 
+vpn-mac-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }…
 
 ## Shared strings
 
+vpn-download-unable-to-download = Klarte ikkje å laste ned { -brand-name-mozilla-vpn }
 # The <br> tag is a line break for the HTML text
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform

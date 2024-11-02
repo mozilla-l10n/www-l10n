@@ -29,6 +29,7 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + mva</span>
 vpn-shared-platform-cta-headline = La oss kome i gang
 vpn-shared-platform-what-youll-get = Kva du får med { -brand-name-mozilla-vpn }:
 vpn-subnav-learn-about-vpns = Les meir om VPN
+vpn-subnav-download-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 vpn-subnav-features = Funksjonar
 
 ## Press quotations

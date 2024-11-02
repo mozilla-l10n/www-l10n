@@ -10,6 +10,7 @@ vpn-download-page-description = Last ned { -brand-name-mozilla-vpn } for { -bran
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Du kan laste ned { -brand-name-mozilla-vpn } på opp til { $devices } einingar med eitt abonnement.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } tilbyr trygt og sikkert vern for alle større operativsystem.
 vpn-download-not-available-in-country = { -brand-name-mozilla-vpn } er diverre ikkje tilgjengeleg for nedlasting i ditt land.
 vpn-download-button-copy = Last ned
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
