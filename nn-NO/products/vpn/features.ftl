@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
 vpn-features-secure = Trygg
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
