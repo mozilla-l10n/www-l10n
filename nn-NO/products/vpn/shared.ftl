@@ -23,6 +23,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + mva</span>
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er enno ikkje tilgjengeleg i landet ditt
 
 # Platform subpage shared strings
 

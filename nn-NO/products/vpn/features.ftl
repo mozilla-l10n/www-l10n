@@ -9,6 +9,7 @@ vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på nettet
+vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } hindrar deg i å laste ned skadeleg programvare frå kjende, usikre kjelder.
