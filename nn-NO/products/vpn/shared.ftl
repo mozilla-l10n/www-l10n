@@ -23,16 +23,7 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + mva</span>
 
 vpn-shared-platform-cta-headline = La oss kome i gang
 vpn-shared-platform-what-youll-get = Kva du får med { -brand-name-mozilla-vpn }:
-vpn-subnav-whats-a-vpn = Kva er eit VPN?
-vpn-subnav-get-help = Få hjelp
-vpn-subnav-whats-an-ip-address = Kva er ei IP-adresse?
-
-## VPN Affiliate cookie notice
-
-
-## VPN + Relay bundle offer
-
-vpn-shared-get-vpn-plus-relay = Last ned { -brand-name-vpn } + { -brand-name-relay }
+vpn-subnav-learn-about-vpns = Les meir om VPN
 
 ## Press quotations
 
