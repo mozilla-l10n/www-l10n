@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Skriv inn ei gyldig e-postadresse.
 newsletter-form-you-must-agree-to = Du må godta personvernerklæringa
 newsletter-form-your-email-address = Di e-postadresse
+newsletter-form-we-are-sorry-but-there = Vi beklagar, men det var eit problem med systemet vårt. Ver vennleg og prøv igjen seinare!
 newsletter-form-please-select-country = Vel land eller region
 newsletter-form-please-select-language = Vel eit språk
 # Only localize "yourname". Do not change "@example.com".
