@@ -8,6 +8,21 @@
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Eitt abonnement for alle einingane dine
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Kople til opp til { $devices } Android-, iOS-, Windows-, macOS- eller Linux-eining
+       *[other] Kople til opp til { $devices } Android-, iOS-, Windows-, macOS- eller Linux-einingar
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Få tilgang til { $servers } server i { $countries }+ land
+       *[other] Få tilgang til { $servers } serverar i { $countries }+ land
+    }
 vpn-pricing-annual = Årleg
 vpn-pricing-monthly = Månadleg
 vpn-pricing-get-annual-subscription = Få eit årsabonnement
