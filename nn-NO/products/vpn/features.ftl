@@ -11,6 +11,7 @@ vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
 vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på nettet
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } hindrar deg i å laste ned skadeleg programvare frå kjende, usikre kjelder.
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du halde trafikken din beskytta og framleis rute DNS-søka dine dit du vil. <a { $dns }>Finn ut meir om tilpassa DNS-støtte</a>.

@@ -33,4 +33,6 @@ vpn-pricing-faqs = Vanlege spørsmål (FAQ)
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = For å laste ned appen, skann QR-koden med mobileininga eller nettbrettet
+vpn-pricing-sign-up-on-your-mobile-device = Registrer deg for eit { -brand-name-mozilla-vpn }-abonnement på mobileininga di
 vpn-pricing-download-the-app = Last ned appen

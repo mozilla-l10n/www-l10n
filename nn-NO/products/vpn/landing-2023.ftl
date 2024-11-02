@@ -7,6 +7,7 @@
 
 vpn-landing-powerful-privacy-for-peace = Kraftig personvern for sinnsro
 vpn-landing-whats-a-vpn = Kva er eit VPN?
+vpn-landing-how-a-vpn-helps-you = Korleis eit VPN hjelper deg
 vpn-landing-features = Funksjonar
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
