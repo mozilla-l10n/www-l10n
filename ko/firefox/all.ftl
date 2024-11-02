@@ -100,3 +100,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-ios }용 { -brand-name-firefox }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ESR 115 다운로드
+firefox-all-note-unsupported = 참고: Windows 7이나 Windows 8, Windows 8.1, 또는 macOS 10.12나 10.13, 10.14를 사용 중인 경우, { -brand-name-firefox }를 사용하기 위해 ESR 115를 다운로드하세요.
