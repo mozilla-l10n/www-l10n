@@ -10,6 +10,8 @@ vpn-shared-subscribe-link = Last ned { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagar pengane-tilbake-garanti
 vpn-shared-privacy-notice = Personvernerklæring
+vpn-shared-terms-conditions = Generelle vilkår
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } er eit registrert varemerke for Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
