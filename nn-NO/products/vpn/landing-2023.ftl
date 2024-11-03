@@ -37,6 +37,7 @@ vpn-landing-more-than-servers-in-countries =
 vpn-landing-fast-network-speeds-even-while = Raske nettverkshastigheiter sjølv medan du speler
 vpn-landing-no-bandwidth-restrictions-or = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-landing-see-all-features = Sjå alle funksjonane
+vpn-landing-fram-a-brand-you-can-trust = Frå eit varemerke du kan stole på
 vpn-landing-one-subscription-for-all-your = Eitt abonnement for alle einingane dine
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Driven av { -brand-name-mozilla }.</strong> Vi har kjempa for din rett til personvern sidan 1998.

@@ -14,8 +14,8 @@ vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på n
 #   $countries (number) - number of available countries
 vpn-features-more-than =
     { $servers ->
-        [one] Meir enn { $servers } server i { $countries }+ land
-       *[other] Meir enn { $servers } serverar i { $countries }+ land
+        [one] Fleire enn { $servers } server i { $countries }+ land
+       *[other] Fleire enn { $servers } serverar i { $countries }+ land
     }
 vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
