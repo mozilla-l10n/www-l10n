@@ -9,6 +9,14 @@ vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på nettet
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Meir enn { $servers } server i { $countries }+ land
+       *[other] Meir enn { $servers } serverar i { $countries }+ land
+    }
 vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
