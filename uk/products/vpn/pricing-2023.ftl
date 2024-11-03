@@ -48,3 +48,11 @@ vpn-pricing-how-do-i-manage = Як керувати передплатою і з
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Якщо ви вже передплатили { -brand-name-mozilla-vpn }, ви можете будь-коли змінити план або <a { $manage }>керувати передплатою</a>.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Щоб завантажити програму, скануйте QR-код за допомогою мобільного пристрою чи планшета
+vpn-pricing-scan-qrcode-to-download-android = Щоб завантажити програму, скануйте QR-код за допомогою мобільного пристрою чи планшета, що працює на Android OS
+vpn-pricing-sign-up-on-your-mobile-device = Передплатіть { -brand-name-mozilla-vpn } на своєму мобільному пристрої
+vpn-pricing-sign-up-on-your-android-device = Передплатіть { -brand-name-mozilla-vpn } на пристрої, що працює на Android OS
+vpn-pricing-download-the-app = Завантажити програму
