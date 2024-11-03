@@ -9,6 +9,8 @@
 firefox-all-download-the-firefox-v2 = { -brand-name-firefox } ਨੂੰ ਅੰਗਰੇਜ਼ੀ (ਅਮਰੀਕੀ) ਤੇ ਹੋਰ 90 ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = { -brand-name-firefox-browser } ਬਰਾਊਜ਼ਰ ਅੰਗਰੇਜ਼ੀ (ਅਮਰੀਕੀ) ਅਤੇ 90 ਤੋਂ ਵੱਧ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = ਹਰ ਇੱਕ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਾ ਹੱਕ ਹੈ — ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਕਦੇ ਵੀ ਰੁਕਾਵਟ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ। ਇਸ ਲਈ — ਦੁਨੀਆ ਭਰ ਦੇ ਸਮਰਪਿਤ ਵਾਲੰਟੀਅਰਾਂ ਦੀ ਮਦਦ ਨਾਲ — ਅਸੀਂ 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਵਿਚ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਦੇ ਰਹੇ ਹਾਂ।
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = ਹਰ ਇੱਕ ਨੂੰ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਾ ਹੱਕ ਹੈ — ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਕਦੇ ਵੀ ਰੁਕਾਵਟ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ। ਇਸ ਲਈ — ਦੁਨੀਆ ਭਰ ਦੇ ਸਮਰਪਿਤ ਵਾਲੰਟੀਅਰਾਂ ਦੀ ਮਦਦ ਨਾਲ — ਅਸੀਂ 90 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਵਿਚ { -brand-name-firefox-browser } ਬਰਾਊਜ਼ਰ ਦੇ ਰਹੇ ਹਾਂ।
 # Variables:
@@ -94,3 +96,4 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = ESR 115 ਡਾਊਨਲੋਡ ਕਰੋ
