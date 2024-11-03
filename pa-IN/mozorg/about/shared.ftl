@@ -17,3 +17,4 @@ about-shared-software-innovations = ਸਾਫਟਵੇਅਰ ਅਤੇ ਹੋਰ
 about-shared-get-involved = ਸਾਥ ਦਿਓ
 about-shared-volunteer = ਵੱਖ-ਵੱਖ ਖੇਤਰਾਂ ਵਿੱਚ ਵਲੰਟੀਅਰ ਯੋਗਦਾਨੀ ਬਣੋ।
 vision-for-the-web = ਵੈੱਬ ਲਈ { -brand-name-mozilla } ਦਾ ਨਜ਼ਰੀਆ
+read-about-our-vision = ਵੈੱਬ ਬਾਰੇ ਸਾਡੀ ਸੋਚ ਅਤੇ ਉਸ ਨੂੰ ਪੂਰਾ ਕਰਨ ਦਾ ਅਸੀਂ ਕਿਵੇਂ ਇਰਾਦਾ ਰੱਖਦੇ ਹਾਂ ਬਾਰੇ ਪੜ੍ਹੋ।

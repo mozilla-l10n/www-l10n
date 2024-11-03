@@ -24,6 +24,7 @@ installer-help-firefox-beta-desc = ਸਭ ਤੋਂ ਸਥਿਰ ਰੀਲਿਜ਼
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = ਸਿਰਫ਼ ਡਿਵੈਲਪਰਾਂ ਲਈ ਹੀ ਬਣਾਏ ਗਏ ਬਰਾਊਜ਼ਰ ਨਾਲ ਬਿਲਡ, ਟੈਸਟ, ਸਕੇਲ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ।
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = ਸਾਡੇ ਅਗਲੀ ਪੀੜ੍ਹੀ ਦੇ ਵੈੱਬ ਬਰਾਊਜ਼ਰਾਂ ਉੱਤੇ ਝਾਤ ਮਾਰੋ ਅਤੇ ਇਸ ਨੂੰ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ।
 installer-help-need-help = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows

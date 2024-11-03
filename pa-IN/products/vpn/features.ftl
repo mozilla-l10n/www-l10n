@@ -57,3 +57,6 @@ vpn-features-we-never-log = ਅਸੀਂ ਕਦੇ ਵੀ ਤੁਹਾਡੇ ਨ
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = ਸਿੱਧੇ ਸ਼ਬਦਾਂ ਵਿੱਚ ਅਸੀਂ ਤੁਹਾਡੀ ਕੋਈ ਵੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਨਹੀਂ ਕਰਦੇ ਹਾਂ। ਇਹ ਸਾਡੀ <a { $privacy }>ਪੜ੍ਹਨ ਲਈ ਸਰਲ ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਹੈ।
+vpn-features-built-transparently = ਆਜ਼ਾਦ ਸਰੋਤ ਨਾਲ ਬਣਾਈ ਪਾਰਦਰਸ਼ਤਾ
+vpn-features-reviewed-by-third = ਆਜ਼ਾਦ ਧਿਰ ਦੇ ਸੁਰੱਖਿਆ ਮਾਹਰਾਂ ਵਲੋਂ ਪੜਤਾਲ ਕੀਤਾ
+vpn-features-people-over-profits = ਲੋਕਾਂ ਦੇ ਹਿੱਤ ਮੁਨਾਫ਼ੇ ਤੋਂ ਪਹਿਲਾਂ
