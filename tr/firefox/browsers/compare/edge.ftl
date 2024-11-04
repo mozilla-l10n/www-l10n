@@ -7,4 +7,6 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } ile Microsoft Edge Karşı Karşıya
+# HTML page description
+compare-edge-read-our-comparison = Özellikler, gizlilik ve kullanım kolaylığı açısından { -brand-name-firefox } ile Edge tarayıcılarını karşılaştırdığımız yazımızı okuyun.
 compare-edge-we-block-trackers-by-default = Biz takip kodlarını varsayılan olarak engelliyoruz. Edge engellemiyor.

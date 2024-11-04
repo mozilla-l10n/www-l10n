@@ -57,7 +57,7 @@ vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } hem araç ç
 vpn-download-faq-add-device = Nasıl başka bir cihaz ekleyebilirim?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v3 = Yeni bir cihaz eklemek için { -brand-name-mozilla-vpn } yazılımını indirip yükledikten sonra yeni cihazınızdan  { -brand-name-mozilla-account }nıza giriş yapmanız yeterli. Daha fazla bilgi için <a href="{ $subscription }">{ -brand-name-mozilla-vpn } aboneliğinize cihaz ekleme</a> sayfasına bakabilirsiniz.
+vpn-download-faq-adding-another-v3 = Yeni bir cihaz eklemek için { -brand-name-mozilla-vpn } yazılımını indirip yükledikten sonra yeni cihazınızdan { -brand-name-mozilla-account }nıza giriş yapmanız yeterli. Daha fazla bilgi için <a href="{ $subscription }">{ -brand-name-mozilla-vpn } aboneliğinize cihaz ekleme</a> sayfasına bakabilirsiniz.
 vpn-download-faq-best-practices = VPN’den en iyi şekilde nasıl faydalanabilirim?
 vpn-download-faq-traffic = Amacınız internet hızından ödün vermeden internet trafiğinizi korumaksa fiziksel konumunuza olabildiğince yakın bir sunucu konumu seçmek en iyisidir. Bu sayede bağlantınızın güvenilirliği ve hızı artar çünkü web’de ulaşmak istediğiniz yere ulaşmak için uzun bir yol kat etmenize gerek kalmaz.
 vpn-download-faq-experience = Amacınız dünyanın başka bir yerindeymiş gibi internete bağlanmaksa tam istediğiniz yerdeki sunucu konumunu seçin. Böylece, ziyaret ettiğiniz web siteleri orada olduğunuzu sanacaktır.

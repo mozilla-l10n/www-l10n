@@ -12,6 +12,7 @@ vpn-mobile-page-description = İnternette gizliliğin güvenilir öncüsü { -br
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizliliğinizi koruyun
 vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
 vpn-mobile-about-headline = { -brand-name-mozilla } hakkında
+vpn-mobile-about-copy = En çok { -brand-name-firefox-browser } ile tanınan { -brand-name-mozilla }, internetin gücünü insanlığın ellerinde tutmak için mücadele eden kullanıcılardan, gönüllülerden ve geliştiricilerden oluşan küresel bir topluluktur. 1998’de kurulduk, özgür ve açık web’in öncülerinden olduk ve web’in daima özgür ve açık kalmasını misyon edindik.
 vpn-mobile-privacy-headline = Tek tıkla gizlilik
 vpn-mobile-servers-headline = Dünyanın dört bir yanındaki sunuculara bağlanın
 # Variables:

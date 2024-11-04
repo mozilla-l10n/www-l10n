@@ -7,5 +7,7 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } ile Apple Safari Karşı Karşıya
+# HTML page description
+compare-safari-read-our-comparison = Özellikler, gizlilik ve kullanım kolaylığı açısından { -brand-name-firefox } ile Safari tarayıcılarını karşılaştırdığımız yazımızı okuyun.
 compare-safari-safari-and-firefox-both-have = Safari ve { -brand-name-firefox }’un her ikisi de iyi gizlilik ve güvenlik özelliklerine sahiptir.
 compare-safari-but-firefox-also-has-built-in = Ancak { -brand-name-firefox } şu yerleşik araçlara da sahiptir:
