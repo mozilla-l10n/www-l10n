@@ -15,6 +15,7 @@ sub-navigation-compare-mobile-browsers = Sammenlign mobil-browsere
 sub-navigation-firefox-for-desktop = { -brand-name-firefox } til computer
 sub-navigation-release-notes = Udgivelsesnoter
 sub-navigation-desktop = Computer
+sub-navigation-mobile = Mobil
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-ios-support = Hjælp til { -brand-name-ios }
