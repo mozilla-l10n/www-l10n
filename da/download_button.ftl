@@ -52,13 +52,11 @@ download-a-different-build = Hent en anden version
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Hent til 32-bit { -brand-name-linux }
-# Obsolete string
-download-button-linux-64 = Hent til 64-bit { -brand-name-linux }
 download-button-linux-32-v2 = Hent til 32-bit Linux
 download-button-linux-64-v2 = Hent til 64-bit Linux
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Bruger du Debian, Ubuntu eller en anden distribution baseret på Debian?<br>Du kan konfigurere vores <a { $attrs }>APT-repository i stedet for</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Hent det fra Microsoft
