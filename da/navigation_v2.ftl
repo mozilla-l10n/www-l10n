@@ -19,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } til { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Få mobil-browsere til din { -brand-name-iphone } eller { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Helt enkelt privat mobilbrowsing.
-navigation-v2-privacy-promise = Vores løfte om beskyttelse af dit privatliv
-navigation-v2-learn-how-firefox-treats = Læs hvordan { -brand-name-firefox } behandler dine data med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blog
 navigation-v2-read-about-new-firefox-features = Læs om nye { -brand-name-firefox }-funktioner og om at være sikker på nettet.
 navigation-v2-release-notes = Udgivelsesnoter
@@ -32,8 +30,6 @@ navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browser
 navigation-v2-products = Produkter
 navigation-v2-close-products-menu = Luk menuen Produkter
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Se om din mailadresse optrådte i et firmas datalæk.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Gem og opdag de bedste historier fra nettet.
@@ -41,14 +37,14 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Forhindrer { -brand-name-facebook } i indsamle dine data udenfor deres websted.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Få beskyttelse udover din browser - på alle dine enheder.
-navigation-v2-product-promise = Produktløfte
-navigation-v2-learn-how-each-firefox-product = Læs, hvordan hvert { -brand-name-firefox }-produkt beskytter og respekterer dine data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Opret nye konti uden at udlevere din mailadresse.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = En tilpasset { -brand-name-mdn }-oplevelse med nye funktioner og værktøj.
 navigation-v2-view-all-products = Vis alle produkter
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Brug AI til at opdage falske anmeldelser og svindel
 
 ## Who We Are menu
 
@@ -66,16 +62,14 @@ navigation-v2-careers = Karrierer
 navigation-v2-work-for-a-mission-driven-updated = Arbejd for en visionær organisation, hvis produkter produkter sætter mennesker først.
 navigation-v2-mozilla-blog = { -brand-name-mozilla }-blog
 navigation-v2-learn-about-mozilla-and = Læs om { -brand-name-mozilla } og de spørgsmål, der betyder noget for os.
-navigation-v2-stories = Historier
-navigation-v2-stories-about-how = Historier om, hvordan vi og vores produkter gør verden bedre.
 navigation-v2-more-about-mozilla = Mere om { -brand-name-mozilla }
+navigation-v2-impact = Indvirkning
+navigation-v2-find-out-how = Find ud af, hvordan vi gør internettet mere inkluderende og bæredygtigt
 
 ## Innovation menu
 
 navigation-v2-innovation = Innovation
 navigation-v2-close-innovation-menu = Luk menuen Innovation
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Mød hinanden i et interaktivt og multi-dimensionalt socialt rum på nettet.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Hent { -brand-name-firefox }-browseren, der er målrettet til udviklere.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

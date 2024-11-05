@@ -99,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Hent ESR 115
+firefox-all-note-unsupported = Bemærk: Hvis du bruger Windows 7, Windows 8, Windows 8.1 eller macOS 10.12, 10.13 eller 10.14, skal du hente ESR 115 for at bruge { -brand-name-firefox }.
