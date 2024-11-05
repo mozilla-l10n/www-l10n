@@ -10,6 +10,7 @@ vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { 
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = ਤੁਸੀਂ { -brand-name-mozilla-vpn } ਨੂੰ ਇੱਕ ਮੈਂਬਰੀ ਨਾਲ { $devices } ਡਿਵਾਈਸਾਂ ਵਾਸਤੇ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ।
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ਸਾਰੇ ਆਮ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮਾਂ ਲਈ ਸੁਰੱਖਿਅਤ ਅਤੇ ਮਜ਼ਬੂਤ ਆਸਰਾ ਦਿੰਦਾ ਹੈ।
 vpn-download-not-available-in-country = ਅਫ਼ਸੋਸ, { -brand-name-mozilla-vpn } ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਡਾਊਨਲੋਡ ਲਈ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
 vpn-download-button-copy = ਡਾਊਨਲੋਡ
 vpn-download-for-windows-v2 = { -brand-name-windows } ਲਈ VPN
