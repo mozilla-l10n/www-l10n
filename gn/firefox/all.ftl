@@ -97,3 +97,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Emboguejy ESR 115
+firefox-all-note-unsupported = Haipy: Eiporúramo Windows 7, Windows 8, Windows 8.1 térã macOS 10.12, 10.13 térã 10.14, Emboguejy ESR 115 eiporukuaa hag̃ua { -brand-name-firefox }.
