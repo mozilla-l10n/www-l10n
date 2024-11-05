@@ -7,7 +7,9 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = { -brand-name-mozilla }’dan Windows için VPN
+vpn-windows-protect-your-windows = Windows cihazınızı VPN ile koruyun. { -brand-name-mozilla } VPN’in arkasında kâr amacı gütmeyen bir şirket var. VPN’lerin sizi nasıl koruduğunu, gizliliğiniz ve güvenliğiniz için neden { -brand-name-mozilla }’ya güvenmeniz gerektiğini öğrenin.
 vpn-windows-stay-safe = VPN ile Windows cihazlarınızda güvende kalın
 vpn-windows-a-vpn-creates = VPN, Windows bilgisayarınızla internet arasındaki verileriniz için şifrelenmiş bir “tünel” oluşturur, ayrıca konumunuzu ziyaret ettiğiniz web sitelerinden gizler. Böylece üçüncü şahıslar ve ağ casusları, hakkınızda bilmeleri gerekmeyen şeyleri öğrenemez.
 vpn-windows-what-are-the-benefits = Windows cihazıma { -brand-name-mozilla-vpn }’i indirmenin faydaları nelerdir?
+vpn-windows-avoid-your-online = Çevrimiçi etkinliklerinizin üçüncü şahıslar ve reklamcılar tarafından toplanmasını ve paylaşılmasını önleyin.
 vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } uygulaması Windows cihazlarınızın belleğinde çok fazla yer kaplamaz, bilgisayarınızı yavaşlatmaz ve pil ömrünüzü boşa harcamaz.
