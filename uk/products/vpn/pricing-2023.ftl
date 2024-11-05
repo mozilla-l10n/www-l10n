@@ -20,6 +20,14 @@ vpn-pricing-connect-up-to =
        *[many] Під'єднання до { $devices } пристроїв
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Під'єднайте { $devices } пристрій Android, iOS, Windows, macOS або Linux
+        [few] Під'єднайте до { $devices } пристроїв Android, iOS, Windows, macOS або Linux
+       *[many] Під'єднайте до { $devices } пристроїв Android, iOS, Windows, macOS або Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
