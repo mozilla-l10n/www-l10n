@@ -10,7 +10,7 @@ firefox-all-download-the-firefox-v2 = Lade dir { -brand-name-firefox } in Deutsc
 firefox-all-download-the-firefox = Lade Dir den { -brand-name-firefox-browser } in Deutsch und in über 90 weiteren Sprachen herunter
 
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Sprache sollte keine Barriere sein. Das Internet spricht viele Sprachen – auch deine. Deshalb machen wir { -brand-name-firefox } mit der Unterstützung engagierter Freiwilliger auf der ganzen Welt in mehr als 90 Sprachen verfügbar.
+firefox-all-everyone-deserves-access-v2 = Sprache sollte keine Barriere sein. Das Internet spricht viele Sprachen — auch deine. Wir alle verdienen einen Zugang zum Internet ohne Sprachbarrieren. Deshalb stellen wir { -brand-name-firefox } — dank vieler engagierter Freiwilliger aus aller Welt — in mehr als 90 Sprachen zur Verfügung.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Das Internet spricht viele Sprachen. Damit du das Beste für dich aus dem Web holst, stellen wir den { -brand-name-firefox-browser } auch auf Deutsch und in mehr als 90 weiteren Sprachen zur Verfügung.
 
