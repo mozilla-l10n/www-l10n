@@ -10,3 +10,4 @@ compare-chrome-firefox-vs-google-chrome = Муқоисаи браузери «{ 
 # HTML page description
 compare-chome-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Chrome» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
 compare-chrome-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Chrome» онҳоро манъ намекунад.
+compare-chrome-google-runs-the-worlds-largest = Ширкати «Google» бузургтарин шабакаи таблиғотии ҷаҳонро идора мекунад ва браузери «Chrome» як қисми он мебошад.

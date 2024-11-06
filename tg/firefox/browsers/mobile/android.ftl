@@ -13,6 +13,7 @@ mobile-android-send-a-download-link-to-your = Фиристодани пайва�
 mobile-android-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
 mobile-android-scan-alt-text = Барои гирифтани «{ -brand-name-firefox }» дар «{ -brand-name-android }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-android-fast-and-private = Тез ва хусусӣ
+mobile-android-one-tap-to = Ба реҷаи «Тамошокунии хусусӣ» бо як ламс гузаред
 mobile-android-search-your-own = Ба таври дилхоҳ ҷустуҷӯ кунед
 mobile-android-save-power-with = Ба воситаи реҷаи «Торик» қувваи барқро сарфа намоед
 mobile-android-easily-organize-your = Варақаҳои худро ба осонӣ ташкил кунед
