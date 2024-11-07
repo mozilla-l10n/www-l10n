@@ -17,6 +17,20 @@ features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është nj
 features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, cookie palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
 features-adblocker-find-the-right-ad-blocker = Gjeni bllokuesin e duhur të reklamave për ju
 features-adblocker-there-are-scores-of-content = Ka bllokues të shumtë lënde, por ja pak mundësi fantastike të zgjedhura nga { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = I mbajtur nga shumë vetë si standardi i artë për bllokues reklamash, <a { $attrs }>uBlock Origin</a> njihet si i suksesshëm dhe efikas. Mund të përshtatet fort, por prapë funksionon shkëlqyer fill e pas instalimit.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blunts advertising everywhere. Bllokon reklama në internet, në media shoqërore, madje edhe ato flluskat bezdisës (por, nëse po kërkoni thjesht të hiqni qafe flluskat, s’mund të gaboni me <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> është një tjetër zgjedhje e fuqishme që jo vetëm bllokon reklama, por jep përfitime shtesë anti-gjurmim.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Këto shtesa funksionojnë paq si në <a { $attrs1 }>{ -brand-name-firefox } për desktop</a>, ashtu edhe <a { $attrs2 }>Android</a>.
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
