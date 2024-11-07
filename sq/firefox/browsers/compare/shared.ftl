@@ -17,5 +17,7 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Përpunoni PDF</a> kudo që të
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Përktheni një faqe web</a> lokalisht dhe privatisht.
+compare-shared-its-easy-to-switch = Është e lehtë të kalosh në të
+compare-shared-since-we-dont-have-to-make = Ngaqë s’na duhet të kënaqim aksionerë, mund të përqendroheni t’ju bëjmë <strong>ju</strong> të kënaqur dhe të vëmë përherë të parat privatësinë dhe leverdinë tuaj.
 # Used as a small link to a cited source
 compare-shared-source = burim
