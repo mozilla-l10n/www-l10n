@@ -50,6 +50,7 @@ firefox-products-support-mdn = Përkrahni { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Përdorni krejt email-et tuaj, kalendarët dhe kontaktet, që nga një aplikacion i shpejtë. Filtrojini dhe sistemojini si doni.
 firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 
 ## Fakespot

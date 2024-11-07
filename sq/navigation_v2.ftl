@@ -46,6 +46,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Veçori dhe mjete të reja për një funksionim të përshtatur të { -brand-name-mdn }
 navigation-v2-view-all-products = Shihni krejt Produktet
 navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Përdorni IA për të zbuluar shqyrtime të rrema dhe mashtrime
 
 ## Who We Are menu
 
@@ -65,6 +66,7 @@ navigation-v2-mozilla-blog = Blogu i { -brand-name-mozilla }-s
 navigation-v2-learn-about-mozilla-and = Mësoni rreth { -brand-name-mozilla }-s dhe çështjesh që kanë rëndësi për ne.
 navigation-v2-more-about-mozilla = Më tepër Rreth { -brand-name-mozilla }
 navigation-v2-impact = Ndikim
+navigation-v2-find-out-how = Shihni se si po e bëjmë internetin më përfshirës dhe të qëndrueshëm
 
 ## Innovation menu
 

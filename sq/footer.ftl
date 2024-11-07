@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Manifesti i { -brand-name-mozilla }-s
 footer-privacy-hub = Qendër Privatësie
 footer-privacy = Privatësi
 footer-press = Për Shtypin
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Blog Korporate
 footer-mozilla-blog = Blogu i { -brand-name-mozilla }-s
 footer-browser-comparison = Krahasim Shfletuesish
 footer-brand-standards = Standarde Marke
@@ -40,8 +38,6 @@ footer-websites-legal = Ligjore
 footer-language = Gjuhë
 footer-go = Shko
 footer-donate = Dhuroni
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (ish-Twitter)
 footer-mastodon = { -brand-name-mastodon }
@@ -53,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
 footer-follow-firefox = Ndiqni @{ -brand-name-firefox }
 footer-about-this-site = Rreth këtij sajti
+footer-advertise = Reklamoni me { -brand-name-mozilla }-n
