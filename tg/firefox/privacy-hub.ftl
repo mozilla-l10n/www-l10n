@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/privacy/
 
+# HTML page title
+firefox-privacy-hub-firefox-privacy-promise = Ваъдаи «{ -brand-name-firefox }» оид ба махфият
 firefox-privacy-hub-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
