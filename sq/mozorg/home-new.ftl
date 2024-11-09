@@ -29,6 +29,7 @@ home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Ejani me ne në formim IA-je të besueshme
+home-work-on-ai = Puna e { -brand-name-mozilla }-s me IA s’është ndonjë gjë e re—kemi shpenzuar vite duke financuar, ndërtuar dhe ngritur zërin për IA që është e hapët, e paanshme dhe e zhvilluar me përgjegjësi. Vëmendja jonë është në krijim IA-je që u shërben njerëzve, i jep përparësi tejdukshmërisë dhe përkrah të mirën publike, jo plane korporatash.
 home-read-more = Lexoni më tepër
 home-so-what-is-mozilla = Atëherë, ç’është { -brand-name-mozilla }?
 home-learn-about-mofo = Mësoni rreth { -brand-name-mozilla-foundation }
@@ -44,5 +45,7 @@ home-learn-more-about-mozilla = Mësoni më tepër mbi { -brand-name-mozilla }-n
 home-featured-product = Produkt i zgjedhur
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Bëjeni të pakuptueshme vendndodhjen & veprimtarinë tuaj, duke përdorur <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Të ngremë lëvizjen tonë
 home-mofo-donate-to-mofo-today = Dhuroni që sot për { -brand-name-mozilla-foundation }, për të garantuar se interneti mbetet i hapët dhe i përdorshëm nga kushdo.
 home-mofo-donate = Dhuroni
