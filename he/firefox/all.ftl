@@ -5,16 +5,23 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = בדיקת דרישות המערכת
-firefox-all-release-notes = הערות שחרור
-firefox-all-source-code = קוד מקור
-firefox-all-need-help = זקוקים לעזרה?
-firefox-all-which-browser-would = איזה דפדפן ברצונך להוריד?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = הורדת { -brand-name-firefox } באנגלית (ארה"ב) ובלמעלה מ-90 שפות נוספות
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = הורדת ה{ -brand-name-firefox-browser(case: "a") } בעברית ולמעלה מ־90 שפות נוספות
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = לכולם מגיעה גישה לאינטרנט - השפה שלך לעולם לא אמורה להוות מחסום. לכן - בעזרת מתנדבים מסורים מסביב לעולם - אנחנו הופכים את { -brand-name-firefox } לזמין בלמעלה מ-90 שפות.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
+firefox-all-choose-browser = יש לבחור בדפדפן כדי להמשיך
+firefox-all-choose-platform = יש לבחור בפלטפורמה כדי להמשיך
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = קבלת עזרה
-firefox-all-you-are-about-to-download = זאת ההורדה שנבחרה:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = דפדפן:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = סביבה:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = שפה:
 firefox-all-lang-multi = שפות מרובות
 firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
@@ -22,10 +29,10 @@ firefox-all-the-pre-alpha-version = גרסת טרום אלפא מיועדת למ
 firefox-all-64-bit-installers = מתקיני 64 סיביות
 firefox-all-choose-a-64-bit-installer = מומלץ לבחור במתקין 64 סיביות עבור מחשבים עם מעבדי 64 סיביות, מה שמאפשר הקצאת זיכרון גדולה יותר לתכניות בודדות — חשוב במיוחד למשחקים וליישומים תובעניים אחרים.
 firefox-all-32-bit-installers = מתקיני 32 סיביות
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = הורדת ה{ -brand-name-firefox-browser(case: "a") } בעברית ולמעלה מ־90 שפות נוספות
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
+firefox-all-check-the-system-requirements = בדיקת דרישות המערכת
+firefox-all-release-notes = הערות שחרור
+firefox-all-source-code = קוד מקור
+firefox-all-need-help = זקוקים לעזרה?
 firefox-all-choose-which-firefox = ניתן לבחור איזה { -brand-name-firefox-browser(case: "a") } להוריד בשפה שלך
 firefox-all-firefox-privacy-notice = הצהרת פרטיות של { -brand-name-firefox }
 firefox-all-learn-about-firefox = מידע נוסף על דפדפני { -brand-name-firefox }
@@ -35,8 +42,6 @@ firefox-all-test-your-sites-against = בדקו את האתרים שלכם מול
 firefox-all-windows-installers-for = חבילות התקנה של Windows עבור IT של ארגונים המפשטים את התצורה, הפריסה והניהול של { -brand-name-firefox-browser(case: "the") }.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = מתקיני ARM64/AArch64 מתאימים למחשבי Windows ו־Linux.
-# Obsolete string (expires: 2024-06-04)
-firefox-all-arm64-installers-optimized = מתקיני ARM64/AArch64 מתאימים למחשבי { -brand-name-windows } עם ליבת Snapdragon.
 firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלך
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
