@@ -10,6 +10,10 @@ vpn-mobile-page-title = Mobil cihazlar (akıllı telefonlar ve tabletler) için 
 vpn-mobile-page-description = İnternette gizliliğin güvenilir öncüsü { -brand-name-mozilla }’nın VPN’iyle akıllı telefonunuzu ve tabletinizi koruyun.
 # Mobile strings
 vpn-mobile-hero-headline = { -brand-name-mozilla-vpn } ile mobil cihazlarda gizliliğinizi koruyun
+vpn-mobile-maker-of-firefox = Gününüz sizi nereye götürürse götürsün, { -brand-name-firefox } yapımcılarının geliştirdiği gizlilik aracı { -brand-name-mozilla-vpn } ile telefonunuzun internet bağlantısı daima size özel kalacak.
+# Variables:
+#   $devices (number) - number of available devices
+vpn-mobile-ability = { -brand-name-mozilla-vpn }, hacker’ların ve casusların IP adresinizi görmesini engeller ve çevrimiçi konumunuzu gizler. Gelişmiş şifrelemesi ve sınırsız bant genişliğiyle, akıllı telefonunuzda ve tabletinizde video izlemeyi ve internette gezinmeyi hızdan ödün vermeden güvenli hale getirir. Makul bir aylık ücret karşılığında { $devices } cihazı koruyabilir ve dünya çapındaki onlarca sunucuya bağlanabilirsiniz.
 vpn-mobile-wifi-headline = Herkese açık WiFi ağlarını güvenle kullanın
 vpn-mobile-wifi-copy = VPN’imiz internet bağlantınızı hacker’lardan ve casuslardan korur. Böylece IP adresinizin korunduğunu bilmenin rahatlığıyla kafede otururken güvenliğinizi tehlikeye atmadan alışveriş yapabilir, otobüsteyken banka hesabınızı kontrol edebilir ve internetteki işlerinizi yapabilirsiniz.
 vpn-mobile-about-headline = { -brand-name-mozilla } hakkında
