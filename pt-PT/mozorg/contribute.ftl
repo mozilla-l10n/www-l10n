@@ -22,17 +22,17 @@ contribute-tag-individual-event = Organização individual e de eventos
 contribute-tag-individual = Individual
 contribute-tag-support = Apoio
 contribute-task-translate-heading = Tradução de conteúdo
-contribute-task-translate-desc = A Internet apenas é global se for compreendida em todo o lado. Ajude-nos a traduzir os produtos e sites da { -brand-name-mozilla } para o seu idioma local.
+contribute-task-translate-desc = A Internet apenas é global se for compreendida em todo o lado. Ajude-nos a traduzir os produtos e sites da { -brand-name-mozilla } para o seu idioma.
 contribute-task-mozilla-codebase-heading = Contribuir para a base de código da { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Melhore ativamente os produtos da { -brand-name-mozilla } ao contribuir para uma variedade de oportunidades de desenvolvimento.
-contribute-task-support-desc = Ajude a tornar os produtos da { -brand-name-mozilla } fáceis de utilizar. Responda às perguntas de “ajuda” das pessoas como parte dos fóruns da comunidade de apoio da { -brand-name-mozilla }.
+contribute-task-support-desc = Contribua para tornar os produtos da { -brand-name-mozilla } simples de usar. Responda às questões de "ajuda" dos utilizadores nos fóruns da Comunidade de Apoio da { -brand-name-mozilla }.
 contribute-task-join-heading = Junte-se à comunidade
-contribute-task-join-desc = Quer participar mais na comunidade da { -brand-name-mozilla }? Veja todas as oportunidades de voluntariado no nosso Portal da Comunidade.
+contribute-task-join-desc = Quer participar mais na comunidade da { -brand-name-mozilla }? Consulte todas as oportunidades de voluntariado no nosso Portal da Comunidade.
 
 ## Mission
 
 contribute-mission-heading = A nossa missão
-contribute-mission-desc = A nossa missão é garantir que a internet é um recurso público global, aberto e acessível a todos. Uma internet que coloca as pessoas realmente em primeiro, onde os indivíduos podem moldar a sua própria experiência e são capacitados, seguros e independentes.
+contribute-mission-desc = A nossa missão é garantir que a Internet é um recurso público global, aberto e acessível a todos. Uma Internet que coloca as pessoas realmente em primeiro, onde os indivíduos podem moldar a sua própria experiência e são capacitados, seguros e independentes.
 contribute-learn = Saber mais sobre a { -brand-name-mozilla }
 contribute-read-manifesto = Leia o nosso manifesto
 contribute-find-event = Encontrar um evento

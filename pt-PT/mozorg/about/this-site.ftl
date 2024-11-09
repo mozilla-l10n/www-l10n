@@ -41,4 +41,4 @@ about-this-site-fluent = Sistema de tradução <a href="{ $fluent }">Fluent</a> 
 about-this-site-many-other = Muitas outras bibliotecas e frameworks mais pequenas, que pode encontrar no nosso <a href="{ $github }">repositório no { -brand-name-github }</a>.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = Esquecemos os nossos agradecimentos a todos os <a href="{ $credits }">colaboradores</a> da { -brand-name-mozilla } que ajudaram a tornar a Internet um pouco melhor.
+about-this-site-we-extend = Estendemos os nossos agradecimentos a todos os <a href="{ $credits }">contribuidores</a> da { -brand-name-mozilla } que contribuíram para tornar a web num lugar melhor.

@@ -6,11 +6,11 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 
 ## About us
 
-navigation-refresh-about-us = Acerca de nós
-navigation-refresh-close-about-us-menu = Fechar menu Sobre nós
+navigation-refresh-about-us = Sobre nós
+navigation-refresh-close-about-us-menu = Fechar o menu Sobre nós
 navigation-refresh-mozilla-manifesto = Manifesto da { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
-navigation-refresh-get-involved = Envolva-se
+navigation-refresh-get-involved = Participar
 navigation-refresh-innovation-projects = Projetos de inovação
 navigation-refresh-blog = Blogue
 

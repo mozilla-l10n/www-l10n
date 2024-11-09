@@ -35,7 +35,7 @@ vpn-pricing-access =
     }
 vpn-pricing-money-back = Garantia de devolução do dinheiro em 30 dias (apenas para clientes principiantes)
 vpn-pricing-annual = Anual
-vpn-pricing-monthly = Mensalmente
+vpn-pricing-monthly = Mensal
 vpn-pricing-get-annual-subscription = Obter uma subscrição anual
 vpn-pricing-get-monthly-subscription = Obter uma subscrição mensal
 vpn-pricing-vpn-not-available = A { -brand-name-mozilla-vpn } ainda não está disponível no seu país

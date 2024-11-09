@@ -5,16 +5,16 @@
 newsletter-form-please-enter-a-valid = Por favor introduza um endereço de e-mail válido
 newsletter-form-you-must-agree-to = Deve concordar com a política de privacidade
 newsletter-form-your-email-address = O seu endereço de e-mail
-newsletter-form-we-are-sorry-but-there = Lamentamos, mas ocorreu um problema com o nosso sistema. Por favor, tente novamente mais tarde!
-newsletter-form-please-select-country = Por favor selecione o país ou região
-newsletter-form-please-select-language = Por favor selecione um idioma
+newsletter-form-we-are-sorry-but-there = Lamentamos, mas ocorreu um problema com o nosso sistema. Tente novamente mais tarde!
+newsletter-form-please-select-country = Selecione um país ou região
+newsletter-form-please-select-language = Selecione um idioma
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = oseunome@example.com
 newsletter-form-select-country-or-region = Selecionar o país ou região
 newsletter-form-select-language = Selecionar idioma
 newsletter-form-your-email-here = O SEU EMAIL AQUI
 newsletter-form-get-firefox-news = Obter notícias do { -brand-name-firefox }
-newsletter-form-join-the-community = Junte-se à comunidade
+newsletter-form-join-the-community = Junte-se à Comunidade
 newsletter-form-sign-up-to-receive = Subscrever para receber atualizações mensais do { -brand-name-firefox } e tendências da Internet que definem a sua vida na Internet.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
