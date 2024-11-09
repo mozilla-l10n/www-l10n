@@ -15,20 +15,38 @@ firefox-all-everyone-deserves-access-v2 = לכולם מגיעה גישה לאי�
 firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
 firefox-all-choose-browser = יש לבחור בדפדפן כדי להמשיך
 firefox-all-choose-platform = יש לבחור בפלטפורמה כדי להמשיך
+firefox-all-choose-language = יש לבחור בשפה כדי להמשיך
+firefox-all-change-browser = בחירת מוצר אחר
+firefox-all-change-platform = בחירת פלטפורמה אחרת
+firefox-all-change-language = בחירת שפה אחרת
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = יש לבחור מהרשימה למטה
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = קבלת עזרה
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = דפדפן:
+firefox-all-browser-v2 = 1. דפדפן:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = סביבה:
+firefox-all-platform-v2 = 2. פלטפורמה:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = שפה:
+firefox-all-language-v2 = 3. שפה:
+firefox-all-desktop = מחשב שולחני
+firefox-all-mobile = נייד
+firefox-all-recommended = (מומלץ)
 firefox-all-lang-multi = שפות מרובות
+firefox-all-plat-mobile = ‏Android ו-iOS
 firefox-all-sorry-we-couldnt-find = מצטערים, לא הצלחנו להוריד את מה שחיפשת. נא לנסות שוב, או לבחור הורדה מהרשימה שלהלן.
 firefox-all-the-pre-alpha-version = גרסת טרום אלפא מיועדת למשתמשים מנוסים שאוהבים לצוד קריסות ולבדוק יכולות חדשות ברגע שיצאו מהתנור.
 firefox-all-64-bit-installers = מתקיני 64 סיביות
 firefox-all-choose-a-64-bit-installer = מומלץ לבחור במתקין 64 סיביות עבור מחשבים עם מעבדי 64 סיביות, מה שמאפשר הקצאת זיכרון גדולה יותר לתכניות בודדות — חשוב במיוחד למשחקים וליישומים תובעניים אחרים.
 firefox-all-32-bit-installers = מתקיני 32 סיביות
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = אפשרות זו תפתח את דף המוצר של { -brand-name-firefox } בפורטל האינטרנטי של Microsoft Store. אם ברשותך Windows 10 או Windows 11, תהיה לך אפשרות לפתוח את Microsoft Store מעמוד זה ולהתקין את { -brand-name-firefox }. כאשר מתקינים דרך Microsoft Store, עדכונים ל־{ -brand-name-firefox } ינוהלו על־ידי החנות. ישנם הבדלים קטנים בהתנהגויות וביכולות של { -brand-name-firefox } כאשר הוא מותקן דרך החנות, אבל רוב המשתמשים לא יבחינו בהבדלים אלה.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = הורדת { $esr_version }
 firefox-all-check-the-system-requirements = בדיקת דרישות המערכת
 firefox-all-release-notes = הערות שחרור
 firefox-all-source-code = קוד מקור
