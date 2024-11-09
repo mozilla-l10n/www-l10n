@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Proteção melhorada contra a monit
 welcome-page8-automatically-block-sites = Impede, de forma automática, que os sites rastreiem o que faz na Internet.
 welcome-page8-see-whats-blocked = Veja o que é bloqueado
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Veja se esteve envolvido em falhas de segurança de dados conhecidas na Internet e tome medidas para as mitigar.
 welcome-page8-go-to-monitor = Ir para o { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

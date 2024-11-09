@@ -6,23 +6,15 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
 # HTML page title
-welcome-page1-more-than-a-browser-mozilla = Mais do que um navegador - a { -brand-name-mozilla-monitor } é o seu vigilante contra os piratas
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Mais do que um navegador - o { -brand-name-firefox-monitor } é o seu vigilante contra os piratas
+welcome-page1-more-than-a-browser-mozilla = Mais do que um navegador - o { -brand-name-mozilla-monitor } é o seu vigilante contra os piratas
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Dê o próximo passo para proteger a sua privacidade na Internet com a família de produtos { -brand-name-firefox }.
-welcome-page1-stay-ahead-of-hackers-check-v2 = Mantenha-se à frente dos piratas informáticos. Veja se existem violações de dados com a { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Mantenha-se à frente dos piratas. Veja se existem violações de dados com o { -brand-name-firefox-monitor }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Mantenha-se à frente dos piratas informáticos. Veja se existem violações de dados com o { -brand-name-mozilla-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Está no caminho certo para se manter protegido
 welcome-page1-youve-got-the-web-browser = Você tem o navegador de Internet que protege a sua privacidade - agora é o momento de vigiar os piratas.
 welcome-page1-check-your-breach-report = Consultar o seu relatório de violações
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-mozilla-monitor-shows-you = O { -brand-name-mozilla-monitor } mostra se as suas informações foram publicadas numa violação de dados conhecida e irá notificá-lo caso isto aconteça no futuro.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = O { -brand-name-firefox-monitor } mostra se as suas informações foram publicadas numa violação de dados conhecida e irá notificá-lo caso isto aconteça no futuro.
+welcome-page1-mozilla-monitor-shows-you = O { -brand-name-mozilla-monitor } mostra se as suas informações foram publicadas numa violação de dados conhecida e irá notificar caso isto aconteça no futuro.
 welcome-page1-stay-ahead-of-hackers = Mantenha-se à frente dos piratas informáticos
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
