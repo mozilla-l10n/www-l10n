@@ -3,8 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/firefox/features/pinned-tabs/
 
-home-read-more = מידע נוסף
-home-so-what-is-mozilla = אז, מהו { -brand-name-mozilla }?
-home-mofo-donate = תרומה
+# page title
+pinned-tabs-pinned-browser-tabs = לשוניות דפדפן נעוצות
