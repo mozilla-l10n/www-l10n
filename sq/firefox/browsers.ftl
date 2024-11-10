@@ -6,13 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
-firefox-browsers-page-title = Shkarkoni { -brand-name-firefox } për Desktop, Celular, ose Ndërmarrje
+firefox-browsers-page-title = Shkarkoni { -brand-name-firefox }-in për Desktop, Celular, ose Ndërmarrje
 # HTML page description
 firefox-browsers-page-desc = Zgjidhni prej versionesh për Desktop, { -brand-name-ios }, { -brand-name-android }, ose lërnani t’ju dërgojmë me email një lidhje shkarkimi.
 firefox-browsers-main-heading = Shfletues { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Merrni <strong>shfletuesit</strong> që vënë mbi gjithçka privatësinë tuaj — dhe e kanë bërë përherë
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Merrni shfletuesin që vë privatësinë tuaj së pari — dhe e ka bërë <strong>përherë</strong>
 firefox-browsers-desktop = Desktop

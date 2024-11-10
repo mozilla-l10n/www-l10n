@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 # HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox-v2 = Shkarkojeni { -brand-name-firefox } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
+firefox-all-download-the-firefox-v2 = Shkarkojeni { -brand-name-firefox }-in në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox-browser } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
 # HTML page description, also used as the introductory text.
