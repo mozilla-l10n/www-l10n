@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Rregullime cookie-sh
+cookie-settings-page-desc = Kjo faqe përshkruan llojet e ndryshme të Cookie-eve që mund të përdorë { -brand-name-mozilla } dhe ju jep kontroll rreth cilave lloje të të dhënave pajtoheni të mbledhë { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = Faqja e mëparshme
 cookie-settings-how-mozilla-heading = Si i përdor “Cookies” { -brand-name-mozilla }
 cookie-settings-how-does-mozilla-use-subheading = Si i përdor { -brand-name-mozilla } këto të dhëna?

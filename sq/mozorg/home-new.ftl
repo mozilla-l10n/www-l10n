@@ -32,6 +32,10 @@ home-join-us-in-shaping = Ejani me ne në formim IA-je të besueshme
 home-work-on-ai = Puna e { -brand-name-mozilla }-s me IA s’është ndonjë gjë e re—kemi shpenzuar vite duke financuar, ndërtuar dhe ngritur zërin për IA që është e hapët, e paanshme dhe e zhvilluar me përgjegjësi. Vëmendja jonë është në krijim IA-je që u shërben njerëzve, i jep përparësi tejdukshmërisë dhe përkrah të mirën publike, jo plane korporatash.
 home-read-more = Lexoni më tepër
 home-so-what-is-mozilla = Atëherë, ç’është { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core = Në thelbin e vet, { -brand-name-mozilla } është një ent veprimtarësh drejtuar nga { -brand-name-mozilla-foundation }, që bën ndryshim në botë përmes një larmie iniciativash, përfshi { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> dhe <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Si jemi ndryshe? Ngaqë udhëhiqemi nga një mision, që do të thotë se jemi të lirë t’i marrim krejt vendimet tona bazuar në çfarë është më e mira për internetin dhe gjithkënd në internet, jo bazuar në kërkesat e aksionerëve — në fakt nuk kemi të tillë.
 home-learn-about-mofo = Mësoni rreth { -brand-name-mozilla-foundation }
 home-join-the-fight = Bëhuni pjesë e ndeshjes për një internet të shëndetshëm
 home-your-voice-your-code = Zëri juaj. Kodi juaj. Idetë tuaja. Ka me mijëra rrugë se si të jepni ndihmesë te { -brand-name-mozilla }.
