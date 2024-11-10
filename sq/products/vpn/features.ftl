@@ -10,7 +10,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Veçori që mbrojnë <br> jetën tuaj internetore
-vpn-features-convenient = E leverdishme
+vpn-features-convenient = I leverdishëm
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -57,7 +57,7 @@ vpn-features-easily-exclude-apps = Përjashtoni lehtësisht aplikacione nga mbro
 vpn-features-set-different-locations = Caktoni vendndodhje të ndryshme për çdo skedë në { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Ndërthureni { -brand-name-mozilla-vpn } me zgjerimin Kontejnerë Multi-Llogari për { -brand-name-firefox } dhe caktoni vendndodhje të ndryshme VPN për çdo skedë { -brand-name-firefox } tab. <a { $containers }>Mësoni se si</a>.
+vpn-features-combine-mozilla-vpn-with-containers = Ndërthureni { -brand-name-mozilla-vpn } me zgjerimin Kontejnerë Multi-Llogari për { -brand-name-firefox } dhe caktoni vendndodhje VPN të ndryshme për çdo skedë { -brand-name-firefox }. <a { $containers }>Mësoni se si</a>.
 vpn-features-trustworthy = I besueshëm
 vpn-features-money-back = Garanci kthimi parash deri 30 ditë nga blerja
 vpn-features-plus-customer-support = Plus asistencë klientësh 24/7.

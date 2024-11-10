@@ -15,7 +15,7 @@ what-is-firefox = Ç’është { -brand-name-firefox }-i?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-the-firefox-browser = { -brand-name-firefox-browser }-i është i vetmi shfletues i rëndësishëm që pas ka një ent jofitimprurës që s’ua shet të dhënat tuaja personale industrisë së reklamave, teksa ju ndihmon të mbroni të dhënat tuaja personale. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjera.</a>
+the-firefox-browser = { -brand-name-firefox-browser }-i është i vetmi shfletues i rëndësishëm që pas ka një ent jofitimprurës që s’ua shet të dhënat tuaja personale industrisë së reklamave, teksa ju ndihmon t’i mbroni ato. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjera.</a>
 how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
 
 # Variables:
@@ -42,7 +42,7 @@ is-firefox-safe-download = A është pa rrezik të shkarkohet { -brand-name-fire
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
-protecting-your-privacy = Mbrojtja e privatësisë tuaj është përparësia jonë numër një dhe sigurojmë që instalimi i { -brand-name-firefox }-it në pajisjen tuaj është plotësisht i parrezik — por sigurohuni përherë se po e shkarkoni prej një sajti të besuar { -brand-name-mozilla }/{ -brand-name-firefox }, bie fjala, <a href="{ $url }">faqja jonë e shkarkimeve.</a>
+protecting-your-privacy = Mbrojtja e privatësisë tuaj është përparësia jonë numër një dhe ju sigurojmë që instalimi i { -brand-name-firefox }-it në pajisjen tuaj është plotësisht i parrezik — por garantoni përherë se po e shkarkoni prej një sajti të besuar { -brand-name-mozilla }/{ -brand-name-firefox }, bie fjala, <a href="{ $url }">faqja jonë e shkarkimeve.</a>
 is-firefox-safe = A është i parrezik { -brand-name-firefox }-i?
 
 # Variables:
