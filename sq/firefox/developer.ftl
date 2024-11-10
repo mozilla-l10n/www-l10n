@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } është një shfletues i shpejtë si rrufe që ofron mjete zhvilluesish të fjalës së fundit dhe veçoritë më të reja, të tilla mbulim për Rrjetë CSS dhe diagnostikim platformash
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Mirë se vini te shfletuesi juaj i ri i parapëlqyer. Shijoni veçoritë më të reja, punim të shpejtë dhe mjete zhvillimi që ju duhen për të ndërtuar një web të hapur.
 firefox-developer-speak-up = Ngrini zërin
 firefox-developer-feedback-makes-us = Përshtypjet na bëjnë më të mirë. Tregonani se si mund të përmirësojmë shfletuesin dhe mjetet e Zhvilluesit.
@@ -57,7 +55,7 @@ firefox-developer-new-tools = Mjete të Reja
 firefox-developer-inactive-css = CSS jo aktive
 firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } tani i hijezon në gri pohimet CSS që s’kanë ndonjë efekt në faqe. Kur të kaloni kursorin përsipër ikonës për të dhëna, do të shihni një mesazh të dobishëm rreth se pse nuk aplikohet CSS-ja, përfshi një ndihmëz se si të zgjidhet problemi.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } e reja që Firefox-i ofron për zhvilluesit janë të fuqishme, të lakueshme dhe, më e mira e të mirave, të përpunueshme. Këtu përfshihen një diagnostikues JavaScript nga më të mirët, që mund të trajtojë shumë shfletues njëherësh dhe që është ndërtuar me React dhe Redux.
+firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } e reja që Firefox-i ofron për zhvilluesit janë të fuqishme, të lakueshme dhe, më e mira e të mirave, të përpunueshme. Këtu përfshihet një diagnostikues JavaScript nga më të mirët, që mund të trajtojë shumë shfletues njëherësh dhe që është ndërtuar me React dhe Redux.
 firefox-developer-master-css-grid = Zotëroni Rrjetën CSS
 firefox-developer-built-for-developers = Ngritur për Zhvillues
 firefox-developer-master-innovative-features = Veçori Risore
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = Versioni { -brand-name-firef
 firefox-developer-download-the-firefox-browser = Shkarkoni shfletuesin { -brand-name-firefox } të krijuar për zhvillues
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox }-i është rikrijuar nga e para për të qenë më i shpejtë, më i zhdërvjellët dhe më i fuqishëm se kurrë.
 firefox-developer-welcome-to-firefox-developer-edition = Mirë se vini te { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Mirë se vini te { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Shfletuesi i ndërtuar për zhvilluesit
 firefox-developer-all-the-latest-v2 = Krejt mjetet më të reja të zhvillimit në beta, plus veçori si Multi-line Console Editor dhe WebSocket Inspector.
 firefox-developer-a-separate-profile = Një <strong>profil dhe shteg më vete</strong>, që të mund ta xhironi kollaj me version të hedhur në qarkullim ose { -brand-name-beta } { -brand-name-firefox }.
-firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: diagnostkim Shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
+firefox-developer-preferences-tailored = Parapëlqime <strong>të qepura për zhvillues web</strong>: Diagnostikim shfletuesi dhe së largëti janë të aktivizuara si parazgjedhje, siç është edhe tema e errët dhe butoni i panelit të zhvilluesit.
 firefox-developer-congrats-you-now-have-latest-v2 = Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Përgëzime. Tanimë keni versionin më të ri të { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $attrs }>shënime hedhjeje në qarkullim</a> (vetëm në anglisht).
