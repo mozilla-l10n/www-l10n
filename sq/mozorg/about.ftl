@@ -17,7 +17,7 @@ about-our-mission-keep-the-internet = Misioni ynë: Ta mbajmë internetin të ha
 about-read-our-mission = Lexoni Misionin Tonë
 about-our-mission-in-action = Misioni Ynë Në Punë
 about-pioneers-of-the-open-web = Pionierë të Web-it të Hapur
-about-our-leadership-has-been-at = Kemi udhëhequr në ballë të ndërtimit të një interneti më të shëndetshëm që ditën e parë. Ajo që filloi si një alternativë ndaj zotërimit të korporatave është fuqizuar në një forcë globale për të mirën në internet.
+about-our-leadership-has-been-at = Udhëheqja jonë ka qenë në ballë të ndërtimit të një interneti më të shëndetshëm që ditën e parë. Ajo që filloi si një alternativë ndaj zotërimit të korporatave është fuqizuar në një forcë globale për të mirën në internet.
 about-firefox-fast-for-good = { -brand-name-firefox }: I Shpejtë Përgjithnjë
 about-when-you-use-the-new-firefox = Kur përdorni { -brand-name-firefox }-in e ri, përfitoni shpejtësi të rrufeshme në shfletim, teksa përkrahni misionin e { -brand-name-mozilla }-s për ta mbajtur internetin të shëndetshëm, të çuditshëm dhe mirëpritës për këdo.
 about-walking-our-privacy-talk = Mbajtje e Fjalës së Dhënë Nga Ne Për Privatësinë
@@ -26,16 +26,13 @@ about-corporation-foundation-not = Korporatë. Fondacion. Jofitimprurës.
 about-learn-about-the-mozilla-foundation = Mësoni rreth { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } vë njerëzit mbi fitimin në çdo gjë që themi, krijojmë dhe bëjmë. Faktikisht, në zemër të sipërmarrjes tonë gjendet një Fondacion jofitimprurës.
 about-the-mozilla-manifesto = Manifesti { -brand-name-mozilla }
-about-the-principles-we-wrote-in = Ende sot na udhëheqin parimet që shkruam më 1998-n. Dhe më 2018, krijuam një shtesë për të vënë theksin më fort te përfshirja, privatësi dhe siguria për këdo në internet.
+about-the-principles-we-wrote-in = Ende sot na udhëheqin parimet që shkruam më 1998-n. Dhe më 2018-n, krijuam një shtesë për të vënë theksin më fort te përfshirja, privatësia dhe siguria për këdo në internet.
 about-read-the-manifesto = Lexoni Manifestin
 about-a-global-view = Një Vizion Global
 about-with-offices-all-over-the = Me <a href="{ $url }">zyra anembanë botës</a>, e vëzhgojmë internetin nga një shumësi kulturash dhe kontekstesh.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Diskutim Problemesh Teknologjike në IRL
 about-in-mozillas-multi-award-winning = Në podcast-in e e vlerësuar me shumë çmime të { -brand-name-mozilla }-s, drejtuesja Bridget Todd bisedon me persona që po i japin formë të ardhmes së internetit dhe IA.
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = Diskutim Problemesh Interneti në IRL
-about-in-mozillas-irl-podcast-host = Në podkastin IRL të { -brand-name-mozilla }-s, drejtuesi i emisionit, Manoush Zomorodi, ju jep shembuj të njëmendtë nga jeta internetore dhe diskutim të njëmendtë rreth të ardhmes së Web-it.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> vizitorë, jo të punësuar, mirëpritur çdo vit
 about-berlin = Berlin

@@ -25,7 +25,7 @@ home-product-monitor-protect-your = Mbroni të dhënat tuaja private nga tregtar
 home-cta-get-monitor = Merrni { -brand-name-monitor }-in
 home-product-fakespot-detect = Zbuloni shqyrtime të rreme blerjesh
 home-cta-get-fakespot = Merrni { -brand-name-fakespot }
-home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien e gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca në zemër të mënyrës se si funksionojnë këto sisteme komplekse.”
+home-mozilla-takes-bets = “{ -brand-name-mozilla } vë bast për t’i treguar botës se ka një mundësi biznesi për t’u krijuar me IA të besueshme. Kjo përfshin vënien në zemër të mënyrës se si funksionojnë këto sisteme komplekse të gjërave të tilla si të drejtat e njeriut, mbrojtja e të dhënave dhe transparenca.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Ejani me ne në formim IA-je të besueshme
@@ -41,7 +41,7 @@ home-join-the-fight = Bëhuni pjesë e ndeshjes për një internet të shëndets
 home-your-voice-your-code = Zëri juaj. Kodi juaj. Idetë tuaja. Ka me mijëra rrugë se si të jepni ndihmesë te { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Dilni vullnetar për { -brand-name-mozilla }-n
 home-that-one-time = Hera që dhamë kodin tonë burim…
-home-the-mozilla-project = Projekti { -brand-name-mozilla } u themeluar në San Francisco më 1998-n, kur shfletuesi { -brand-name-netscape } mori vendimin radikal t’i japë publikut kodin e programit të vet, për ta përdorur për krijim dhe përmirësuar. Në atë kohë, një shoqëri kishte praktikisht monopolin mbi punimin e njerëzve me internetin.
+home-the-mozilla-project = Projekti { -brand-name-mozilla } u themelua në San Francisco më 1998-n, kur shfletuesi { -brand-name-netscape } mori vendimin radikal t’i japë publikut kodin e programit të vet, për ta përdorur për krijim dhe përmirësuar. Në atë kohë, një shoqëri kishte praktikisht monopolin mbi punimin e njerëzve me internetin.
 home-eventually-the-open = Përfundimisht, projekti me burim të hapët { -brand-name-mozilla } u shndërrua në versionin e parë shumë popullor të { -brand-name-firefox }-it.
 home-today-mozilla-continues = Sot { -brand-name-mozilla } vazhdon lëvizjen e vet drejt një interneti më të mirë me miliona anëtarë të bashkësisë aktive shtrirë në krejt rruzullin, që mbështesin një industri teknologjike etike, IA të besueshme dhe prodhimin e produkteve që vënë privatësinë së pari, që u japin më tepër fuqi njerëzve.
 home-learn-more-about-mozilla = Mësoni më tepër mbi { -brand-name-mozilla }-n
