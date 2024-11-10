@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Shfletuesi { -brand-name-firefox } për { -brand-name-android } është i shpejtë, i sigurt dhe privat që herën e parë që e hapni.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Kaloni në celular. Kaloni i pavarur, me { -brand-name-firefox } për { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Kur shkarkoni { -brand-name-firefox }-in, zgjidhni të përkrahni një shoqëri teknologjike të pavarur. { -brand-name-firefox }-i është shfletuesi i vetëm i njohur që ka pas një ent jofitimprurës i cili lufton për t’ju dhënë më tepër hapje, tejdukshmëri dhe kontroll të jetës tuaj internetore.
 mobile-android-get-firefox-for = Merrni { -brand-name-firefox }-in për { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Dërgoni te telefoni juaj një lidhje për shkarkim.
 mobile-android-scan-the-qr-code-to-get-started = Që t’ia filloni, skanoni kodin QR
@@ -37,7 +33,7 @@ mobile-android-no-need-to = S’ka nevojë të hapet aplikacioni. Shtoni widget-
 mobile-android-pin-videos-to = Fiksoni video te ekrani juaj
 mobile-android-pop-videos-out = Merrni video prej sajteve apo lojtësve të tyre dhe fiksojini në krye të ekranit të telefonit tuaj, për t’i parë kur shfletoni në internet dhe bëni gjëra të tjera. Dëfrehuni, teksa jeni shumëpunësh.
 mobile-android-about-mozilla = Rreth { -brand-name-mozilla }-s
-mobile-android-mozilla-exists-to = { -brand-name-mozilla } ekziston për të ndërtuar Internetin si një burim publik i hapur për të gjithë, ngaqë besojmë se i hapur dhe i lirë është më i mirë se sa i mbyllur de i kontrolluar. Krijojmë produkte të tillë si { -brand-name-firefox }-i dhe { -brand-name-pocket }-i, që të promovojmë zgjedhjen, transparencën dhe kontrollin.
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } ekziston për të ndërtuar Internetin si një burim publik i hapur për të gjithë, ngaqë besojmë se i hapur dhe i lirë është më i mirë se sa i mbyllur dhe i kontrolluar. Krijojmë produkte të tillë si { -brand-name-firefox }-i dhe { -brand-name-pocket }-i, që të promovojmë zgjedhjen, transparencën dhe kontrollin.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Shkoni atje më shpejt, me { -brand-name-firefox }-in për { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Shihni krejt skedat tuaja të hapura, kërkime së fundi dhe sajte të parapëlqyer, krejt në një vend, me shfletuesin { -brand-name-firefox } për { -brand-name-android }.

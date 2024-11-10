@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Shfletuesi { -brand-name-firefox } për { -brand-name-ios } është i shpejtë, i sigurt dhe privat që herën e parë që e hapni.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Merrni privatësi të automatizuar në { -brand-name-iphone } dhe { -brand-name-ipad } tuaj.
 mobile-ios-get-firefox-for = Merrni { -brand-name-firefox }-in për { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Dërgoni te telefoni juaj një lidhje për shkarkim.
 mobile-ios-scan-the-qr-code-to-get-started = Që t’ia filloni, skanoni kodin QR
@@ -24,21 +19,15 @@ mobile-ios-keep-whats-personal = Mbajini private ato që janë personale, pa sak
 mobile-ios-stay-private-online = Jini privat në internet
 mobile-ios-firefox-gives-you = { -brand-name-firefox }-i ju jep mbrojtje më të madhe të privatësisë, kur jeni në internet. Si parazgjedhje, Mbrojtja jonë e Thelluar Nga Gjurmimet bllokon gjurmues dhe programthe të tillë si, gjurmues mediash shoqërore, gjurmues cookie-sh nga sajti në sajt, nxjerrës kriptomonedhash dhe krijues profilizimesh.
 mobile-ios-your-browsing-history = Historiku juaj i shfletimit i takon të shkuarës
-mobile-ios-if-you-want = Nëse doni, mund të përzgjidhni lehtësisht të kaloni në internet dhe të kërkoni nën mënyrën shfletim privat. Dhe kur mbyllni mënyrën e shfletimit privat, historiku i shfletimit tuaj dhe çfarëdo cookie-sh fshihen automatikisht te pajisja juaj.
+mobile-ios-if-you-want = Nëse doni, mund të përzgjidhni lehtësisht të kaloni në internet dhe të kërkoni nën mënyrën “Shfletim privat”. Dhe kur mbyllni mënyrën e shfletimit privat, historiku i shfletimit tuaj dhe çfarëdo cookie-sh fshihen automatikisht te pajisja juaj.
 mobile-ios-get-more-firefox = Merrni më tepër { -brand-name-firefox } në jetën tuaj
 mobile-ios-add-firefox-across-v2 = Shtojeni { -brand-name-firefox }-in në pajisjet tuaja, për shfletim të sigurt, të rrjedhshëm. Njëkohësoni pajisjet tuaja që të merrni me vete faqerojtësit tuaj të parapëlqyer, kredenciale të ruajtur hyrjesh, fjalëkalime dhe historik shfletimesh, kudo ku shkoni. Plus, dërgoni skeda të hapura nga telefoni në desktopin tuaj dhe anasjelltas, për të vazhduar atje ku e latë.
 mobile-ios-get-to-your-go-to = Kaloni te vendet e zakonshme më shpejt në { -brand-name-iphone }-in dhe { -brand-name-ipad }-in tuaj
 mobile-ios-see-your-open-tabs = Shihni skedat tuaja të hapura, kërkime së fundi dhe sajte të parapëlqyer, krejt në një vend, me shfletuesin { -brand-name-firefox-browser } për { -brand-name-ios }.
 mobile-ios-own-your-home = Jini zot i skenës tuaj të kreut
 mobile-ios-get-to-the-parts = Shkoni më shpejt te pjesët e internetit që keni për zemër. Zgjidhni të shihni krejt skedat tuaja të hapura, kërkime së fundi, faqerojtës dhe sajte të parapëlqyer, krejt në një vend.
-# Obsolete string
-mobile-ios-add-firefox-across = Shtojeni { -brand-name-firefox }-in në pajisjet tuaja, për shfletim të sigurt, të rrjedhshëm. { -brand-name-sync } pajisjet tuaja që të merrni me vete faqerojtësit tuaj të parapëlqyer, kredenciale të ruajtur hyrjesh, fjalëkalime dhe historik shfletimesh, kudo ku shkoni. Plus, dërgoni skeda të hapura nga telefoni në desktopin tuaj dhe anasjelltas, për të vazhduar atje ku e latë.
 mobile-ios-find-it-all = Gjejeni gjithçka më shpejt
 mobile-ios-get-search-suggestions = Merrni sugjerime kërkimi te shtylla e kërkimeve dhe kaloni shpejt te sajtet që vizitoni më shpesh. Shtypni pyetjen tuaj për kërkim dhe merrni përfundime të sugjeruara dhe të mëparshme kërkimi në motorët tuaj të parapëlqyer të kërkimit.
-# Obsolete string
-mobile-ios-keep-tabs-on = Mbani në vëzhgim krejt këto skeda
-# Obsolete string
-mobile-ios-create-as-many = Krijoni aq skeda sa doni, pa humbur kontrollin. { -brand-name-firefox }-i i shfaq skedat tuaja të hapura si miniatura dhe skeda të numërtuara, duke e bërë të lehtë të gjeni shpejt ç’po kërkonit.
 mobile-ios-discover-more-of = Zbuloni më tepër nga ato që doni
 mobile-ios-open-a-new = Hapni një skedë të re te { -brand-name-firefox }-i që të shihni sajtet që vizitoni më tepër, shfletuesit tuaj të fundit dhe artikuj popullorë në { -brand-name-pocket }. { -brand-name-firefox }-i ju jep hyrje të shpejtë te sajtet tuaj më të përdorur, për t’ju ndihmuar të arrini më shpejt atje ku po shkonit.
 mobile-ios-about-mozilla = Rreth { -brand-name-mozilla }-s

@@ -10,7 +10,7 @@ firefox-all-download-the-firefox-v2 = Shkarkojeni { -brand-name-firefox } në an
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox-browser } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë { -brand-name-firefox }-in të gatshëm në më shumë se 90 gjuhë.
+firefox-all-everyone-deserves-access-v2 = Gjithkush meriton të përdorë internetin meriton gjithkush — gjuha juaj s’duhet të bëhet kurrë një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë { -brand-name-firefox }-in të gatshëm në më shumë se 90 gjuhë.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë shfletuesin { -brand-name-firefox-browser } të gatshëm në më shumë se 90 gjuhë.
 # Variables:

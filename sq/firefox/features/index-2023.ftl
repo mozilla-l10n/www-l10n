@@ -11,12 +11,8 @@ features-index-firefox-browser-features = Veçori të shfletuesit { -brand-name-
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }-i është shfletuesi i shpejtë, i peshës së lehtë, i përqendruar te privatësia, që funksionon nëpër krejt pajisjet tuaja.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox }-i vazhdon të bëhet më i shpejtë
 features-index-the-latest-browser-speed-benchmarks = Bankëprova më e re për shpejtësi shfletuesish provon se { -brand-name-firefox }-i është më i shpejtë se kurrë.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = A është { -brand-name-firefox }-i një shfletues i shpejtë?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox }-i përdor më pak kujtesë se sa Chrome-i, që kështu programet tuaj të tjerë të mund të xhirojnë me shpejtësinë maksimale.
 features-index-is-firefox-a-private-browser = A është { -brand-name-firefox }-i një shfletues privat?
-features-index-were-focused-on-your-right-to = Përqendrohemi te e drejta juaj për privatësi.  Të dhënat tuaja, veprimtaria juaj në web, jeta juaj internetore është e mbrojtur me { -brand-name-firefox }.
+features-index-were-focused-on-your-right-to = Përqendrohemi te e drejta juaj për privatësi.  Me { -brand-name-firefox }-in të dhënat tuaja, veprimtaria juaj në web, jeta juaj internetore janë të mbrojtur.
 features-index-free-password-manager = Përgjegjës fjalëkalimesh falas
 features-index-get-help-creating-new-passwords = Merrni ndihmë për krijim fjalëkalimesh të rinj, vetëplotësim formularësh në internet dhe hyrje të automatizuara në llogari.
 features-index-customize-your-firefox-browser = Përshtatni shfletuesin tuaj { -brand-name-firefox }
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } bllokon au
 features-index-ditch-the-sticky-ads = Hiqni qafe reklamat e ngjitura, që ju ndjekin ngado, përmes bllokuesve të brendshëm të { -brand-name-firefox }-it të <em>fingerprinting</em>.
 features-index-translate-the-web = Përktheni internetin
 features-index-translate-websites-to-your = Përktheni sajte në gjuhën tuaj, drejt e në shfletuesin tuaj { -brand-name-firefox } – pa dhënë të dhënat tuaja cilitdo tjetër.
-# Obsolete string
-features-index-translate-more-than = Përktheni nga më shumë se 100 gjuhë në gjuhën tuaj, drejt e në shfletuesin { -brand-name-firefox }-in tuaj — më e lehtë se kurrë.
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Keni punë për të bërë dhe gjëra për të parë? Bëjini që të dyja, përmes funksionit “Picture-in-Picture” në { -brand-name-firefox }.
