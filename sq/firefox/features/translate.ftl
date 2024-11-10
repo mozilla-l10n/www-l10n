@@ -18,7 +18,7 @@ features-translate-what-languages-are-currently = Cilat gjuhë mbulohen aktualis
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what = Nga veçoria e Përkthimeve me { -brand-name-firefox } mbulohen aktualisht gjuhët më poshtë:
 features-translate-and-more-languages-are-in = Janë duke u zhvilluar dhe më tepër gjuhë!
-features-translate-firefox-speaks-your-language = { -brand-name-firefox } flet gjuhën tuaj
+features-translate-firefox-speaks-your-language = { -brand-name-firefox }-i flet gjuhën tuaj
 # Variables:
 #   $download (url) = link to https://www.mozilla.org/firefox/new/
 features-translate-the-firefox-translations-feature = Veçoria e Përkthimi në { -brand-name-firefox } është një tjetër mënyrë me të cilën { -brand-name-mozilla } e mban internetin tuaj të personalizuar dhe më privat. { -brand-name-mozilla } nuk ndjek cilat faqe përktheni. Me miliona përdorues anembanë botës, { -brand-name-mozilla } dëshiron të bëjë të mundur që ata që përdorin { -brand-name-firefox }-in, të jenë duke mësuar, komunikuar, ndarë me të tjerët dhe të jenë të informuar sipas kushteve zgjedhur prej tyre. <a { $download }>Fillojani në gjuhën tuaj të parapëlqyer, duke shkarkuar { -brand-name-firefox }-in.</a>

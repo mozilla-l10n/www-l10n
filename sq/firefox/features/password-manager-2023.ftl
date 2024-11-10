@@ -13,20 +13,12 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } i depozi
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Me një <a { $fxa }>{ -brand-name-mozilla-account } falas</a> mund të njëkohësoni në mënyrë të parrezik fjalëkalimet tuaj nëpër krejt pajisjet tuaja. Mund të hyni dhe te krejt produktet e tjerë  { -brand-name-mozilla } që respektojnë privatësinë.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Me një <a href="{ $fxa }">{ -brand-name-mozilla-account } falas</a> mund të njëkohësoni në mënyrë të parrezik fjalëkalimet tuaj nëpër krejt pajisjet tuaja.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Me një <a href="{ $fxa }">{ -brand-name-firefox } falas</a> mund të njëkohësoni në mënyrë të parrezik fjalëkalimet tuaj nëpër krejt pajisjet tuaja.
-password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalime, për hyrje më të lehta
+password-manager-password-autofill-for-easy-logins = Vetëplotësim fjalëkalimesh, për hyrje më të lehta
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox }-i mund të plotësojë në mënyrë automatike emrin e përdoruesit dhe fjalëkalimin që ka ruajtur. Nëse keni më tepër se një palë kredenciale hyrjeje për një sajt, mund të përzgjidhni thjesht llogarinë që doni dhe do t’ju shpien atje.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Figurë e formulari hyrjesh të një sajti, me { -brand-name-firefox }-in që shfaq disa llogari të ruajtura prej nga të zgjidhet, kur bëhet hyrja.
 password-manager-import-passwords = Importoni fjalëkalime
-password-manager-you-can-use-the-import-wizard = Që të importoni kollaj (si me magji) emra përdoruesish dhe fjalëkalime të ruajtur në Chrome, Edge, Safari, apo çfarëdo shfletuesi tjetër, mund të përdorni mekanizmin e importimit. Përzgjidhni Fjalëkalime që prej menusë dhe mandej klikoni “importoji në { -brand-name-firefox }”, në fun të faqes Kredenciale Hyrjesh & Fjalëkalime.
+password-manager-you-can-use-the-import-wizard = Që të importoni kollaj (si me magji) emra përdoruesish dhe fjalëkalime të ruajtur në Chrome, Edge, Safari, apo çfarëdo shfletuesi tjetër, mund të përdorni mekanizmin e importimit. Përzgjidhni Fjalëkalime që prej menusë dhe mandej klikoni “importoji në { -brand-name-firefox }”, në fund të faqes Kredenciale Hyrjesh & Fjalëkalime.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Figurë dialogu mekanizmi importimesh të { -brand-name-firefox }, që shfaq mundësi për të importuar rregullime dhe të dhëna prej shfletuesish të tjerë.
 password-manager-no-more-reusing-your-passwords = Pa ripërdorim fjalëkalimesh më
@@ -39,6 +31,6 @@ password-manager-password-security-alerts = Sinjalizime sigurie fjalëkalimesh
 # Variables:
 #   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
 # "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
-password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ju sinjalizon, nëse një fjalëkalim është ekspozuar</a> në një cenim të dhëna, që të mund ta ndryshoni, para se hacker-at të kenë një shans të bëjnë gjë me kartën tuaj të kreditit, fjala vjen, të marrin me qira një Lamborghini.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ju sinjalizon, nëse një fjalëkalim është ekspozuar</a> në një cenim të dhënash, që të mund ta ndryshoni, para se hacker-at të kenë një shans të bëjnë gjë me kartën tuaj të kreditit, fjala vjen, të marrin me qira një Lamborghini.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Figurë e përgjegjësit të fjalëkalimeve në { -brand-name-firefox }, që shfaq një mesazh sinjalizimi ku lexohet “Ky fjalëkalim është përdorur në një tjetër llogari, që ka gjasa të jetë përfshirë në cenim të dhënash. Ripërdorimi i kredencialeve vë në rrezik krejt llogaritë tuaja. Ndryshojeni këtë fjalëkalim.”

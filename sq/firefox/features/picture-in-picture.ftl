@@ -23,6 +23,6 @@ features-pip-cruise-around-to-other = <strong>Merruni me skeda të tjera</strong
 features-pip-repeat-steps-1-3-to-have = <strong>Përsëritni hapat 1-3</strong> që të keni hapur aq video “picture-in-picture” sa doni.
 features-pip-3-more-ways-to-use-picture = 3 mënyra të tjera për të përdorur Picture-in-Picture
 features-pip-3-ways-to-use-picture = 3 mënyra për të përdorur Picture-in-Picture
-features-pip-watch-a-lecture-or-meeting = Ndiqni një leksioni ose mbledhje teksa mbani shënime
+features-pip-watch-a-lecture-or-meeting = Ndiqni një leksion ose mbledhje teksa mbani shënime
 features-pip-keep-a-tutorial-video-open = Mbani hapur një video me udhëzimet për recetën, teksa gatuani apo piqni diçka
 features-pip-entertain-cats-dogs-and-kids = Zbavituni me mace, qen dhe fëmijë, teksa bëni punën
