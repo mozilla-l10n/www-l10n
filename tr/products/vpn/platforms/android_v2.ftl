@@ -11,5 +11,6 @@ vpn-android-vpns-help = VPN kullanarak şunları önleyebilirsiniz:
 vpn-android-your-personal = Halka açık Wi-Fi ağlarını kullanırken kişisel verileriniz çalınması.
 vpn-android-why-should-i = Neden Android için { -brand-name-mozilla-vpn }’i indirmeliyim?
 vpn-android-browse-the-internet = Konumunuzu belli etmeden internette gezinebilirsiniz.
+vpn-android-be-more-comfortable = Kafelerde, havalanlarında ve diğer halka açık yerlerde Wi-Fi ağlarını kullanırken içiniz rahat olsun.
 vpn-android-avoid-intrusive = Can sıkıcı konum tabanlı reklamlardan kaçınabilirsiniz.
 vpn-android-unlike-free = Sizi gözetleyerek ve bilgilerinizi satarak sunucu masraflarını çıkaran ücretsiz VPN’lerin ve proxy sitelerinin aksine, { -brand-name-mozilla } nereye gittiğinizin ve ne yaptığınızın kaydını tutmaz.

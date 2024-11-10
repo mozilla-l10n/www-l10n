@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = { -brand-name-mozilla }’dan iPhone için VPN
+vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn }, internet trafiğinizi şifreleyip IP adresinizi meraklı gözlerden gizleyen bir sanal özel ağ (VPN) hizmetidir.

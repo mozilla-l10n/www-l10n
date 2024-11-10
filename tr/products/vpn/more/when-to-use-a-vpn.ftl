@@ -8,7 +8,9 @@
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = VPN kullanmanız için 5 neden
 vpn-when-to-use-concealing-your-true = Gerçek IP adresinizi gizleyerek kimliğinizi korur ve konumunuzu gizler.
+vpn-when-to-use-encrypting-your-traffic = VPN sağlayıcınızla aranızdaki trafiği şifreler. Böylece yerel ağınızdaki hiç kimse ağ trafiğinizi çözemez ve değiştiremez.
 vpn-when-to-use-1-a-walk = 1. Parkta yürüyüş
+vpn-when-to-use-2-in-the = 2. Sokaktayken
 vpn-when-to-use-3-on-the = 3. Hareket halindeyken
 vpn-when-to-use-4-home-away = 4. Evden uzakta
 vpn-when-to-use-5-in-your = 5. Kendi evinizde
