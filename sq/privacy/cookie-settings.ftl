@@ -30,16 +30,19 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } p�
 cookie-settings-category-preference-heading = Parapëlqim
 cookie-settings-category-preference-what-are-subheading = Ç’janë Cookie-t e Parapëlqimeve?
 cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren për të mbajtur mend zgjedhje që keni bërë gjatë një vizite të mëparshme në një sajt. Në shembujt mund të përfshihen cilën gjuhë parapëlqeni për lexim, ose cila temë ngjyrash është e parapëlqyera juaj.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } përdor “Cookies” Parapëlqimesh për të respektuar parapëlqimet tuaja dhe përmirësuar funksionimin për ju, kur vizitohen sajtet tanë. Ato s’përdoren për qëllime statistikore. “Cookies” Parapëlqimesh mbulojnë veçori në mënyrë të ngjashme me “Cookies” të Nevojshme, por një sajt mund të funksionojë ende pa to. Si të tilla, mundeni të zgjidhni lënien jashtë përdorimit të tyre.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Statistika
 cookie-settings-category-analytics-what-are-subheading = Ç’janë Cookie-t Statistikore?
 cookie-settings-category-analytics-what-are-desc = Këto teknologji grumbullojnë informacion rreth se si i përdorin sajtet njerëzit, f.v., faqet që vizitojnë, lidhje që klikojnë dhe prej cilave sajte erdhën vizitat.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } përdor informacion statistikor për të kuptuar se si ndërveprojnë përdoruesit me sajtet tanë, që të mund t’i përmirësojmë ata dhe të ndreqim çfarëdo problemesh që dalin. Mund të përdorim edhe të dhëna nga “Cookies”, informacion pajisjesh dhe adresa IP, për të na ndihmuar të kuptojmë se si angazhohen përdoruesit me produktet, shërbimet, komunikimet, sajtet, fushatat internetore tona, pajisjet dhe platforma të tjera. Do të grumbullojmë informacion statistikor dhe depozitojmë “Cookies” Statistikore vetëm me pëlqimin tuaj.
 
 ## Consent section
 
 cookie-settings-your-consent-heading = Pranim nga ju
+cookie-settings-your-consent-desc = Duke rënë dakord me përdorim Cookie-sh, do të jepet pëlqimi juaj për listën vijues të sajteve të { -brand-name-mozilla }-s, të cilët ndjekin që të tërë të njëjtat standarde strikte për privatësinë e të dhënave. Ju lutemi, kini parasysh se kjo listë mund të përditësohet përgjatë kohës.
 
 ## Privacy section
 

@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet për njerëzit, jo për fitime
 home-did-you-know-mozilla-the-maker = E dinit? { -brand-name-mozilla } - krijuesja e { -brand-name-firefox }-it - lufton për ta mbajtur Internetin një burim global publik,të hapët dhe përdorshëm nga kushdo.
 home-mission-driven = Udhëhequr nga një mision. Bazuar te njerëzit.
-home-were-not-normal = S’jemi shoqëri teknologjike e zakonshme. Gjërat që krijojmë vënë njerëzit dhe privatësinë e tyre para fitimit. Ekzistojmë për ta bërë internetin një vend më të shëndetshëm, më të gëzuar për këto.
+home-were-not-normal = S’jemi shoqëri teknologjike e zakonshme. Gjërat që krijojmë vënë njerëzit dhe privatësinë e tyre para fitimit. Ekzistojmë për ta bërë internetin një vend më të shëndetshëm, më të gëzuar për këdo.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Shëndeti i internetit dhe jetës internetore është arsyeja e ekzistencës tonë.”
 home-mitchell-baker-v2 = Mitchell Baker, Drejtoreshë Ekzekutive e Bordit, { -brand-name-mozilla-foundation }
@@ -19,7 +19,7 @@ home-product-pocket-articles = Artikujt më intrigues në internet
 home-cta-get-pocket = Merrni { -brand-name-pocket }-in
 home-product-relay-hide-your = Fshihuni atyre që dërgojnë mesazhe të padëshiruar numrin tuaj të telefoni dhe email-in tuaj
 home-cta-get-relay = Merrni { -brand-name-relay }-në
-home-product-vpn-trust = Një VPN të cilës mund t’i zini besë
+home-product-vpn-trust = Një VPN të cilit mund t’i zini besë
 home-cta-get-vpn = Merrni { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Mbroni të dhënat tuaja private nga tregtarët e të dhënave
 home-cta-get-monitor = Merrni { -brand-name-monitor }-in
