@@ -57,6 +57,6 @@ download-button-linux-64-v2 = Shkarkojeni për Linux 64-bit
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Përdorni Debian, Ubuntu ose çfarëdo shpërndarje me bazë Debian-in?<br> Mund të caktoni depon tonë apt <a { $attrs }>, në vend të saj</a>.
+download-button-using-debian = Përdorni Debian, Ubuntu ose çfarëdo shpërndarje me bazë Debian-in?<br> Mund të vini <a { $attrs }>depon tonë APT më mirë</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Merreni që nga Microsoft-i

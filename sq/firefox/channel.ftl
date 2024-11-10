@@ -23,7 +23,7 @@ firefox-channel-all-languages-and-platforms = Krejt Gjuhët dhe Platformat
 firefox-channel-all-languages-and-builds = Krejt Gjuhët dhe Montimet
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
-firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } është një platformë e paqëndrueshme testimi dhe zhvillimi. Si parazgjedhje, { -brand-name-beta } dërgon të dhëna te { -brand-name-mozilla } — dhe ndonjëhere edhe te parterë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } është një platformë e paqëndrueshme testimi dhe zhvillimi. Si parazgjedhje, { -brand-name-beta } dërgon të dhëna te { -brand-name-mozilla } — dhe ndonjëherë edhe te parterë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
