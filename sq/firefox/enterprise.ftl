@@ -16,7 +16,7 @@ firefox-enterprise-get-firefox-for-your-enterprise = Merrni { -brand-name-firefo
 firefox-enterprise-get-the-firefox-extended-support = Për siguri të plotë të dhënash dhe mbrojtje të tyre, merrni <a href="{ $url }">{ -brand-name-firefox-extended-support-release }, ose Rapid Release</a>.
 firefox-enterprise-unmatched-data-protection = Mbrojtje të pashoqe të dhënash — sipas shpeshtisë së hedhjeve në qarkullim që ju bën punë
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = Shfletuesi { -brand-name-firefox } është me burim të hapur dhe furnizon Mbrojtje të Thelluar nga Gjurmimet — krejt kjo si pjesë e përkushtimit tonë të gjatë për mbrojtje të dhënash.
+firefox-enterprise-the-firefox-browser-is-open = Shfletuesi { -brand-name-firefox } është me burim të hapët dhe furnizon Mbrojtje të Thelluar nga Gjurmimet — krejt kjo si pjesë e përkushtimit tonë të gjatë për mbrojtje të dhënash.
 firefox-enterprise-your-data-stays-your-business = Të dhënat tuaja mbeten punë e juaja
 firefox-enterprise-deploy-when-and-how-you-want = Aplikojeni kur dhe si të doni
 firefox-enterprise-with-install-packages-and = Me paketa instalimi dhe një shtrirje të gjerë rregullash dhe veçorish grupi, aplikimi është i shpejtë dhe më i zhdërvjellët se kurrë — dhe, në mjedise { -brand-name-windows } dhe { -brand-name-mac }, i rrufeshëm.

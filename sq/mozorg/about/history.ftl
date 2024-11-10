@@ -54,7 +54,7 @@ history-the-renewed-competition = Konkurrenca e ripërtëritur ka <a href="{ $in
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = Më 2013-n, hodhëm në qarkullim <a href="{ $firefoxos }">{ -brand-name-firefox-os }-in</a>, për të çliruar fuqinë e plotë të Web-it në telefonat e mençur dhe për të ofruar edhe një herë mundësi kontrolli dhe zgjedhjeje për një brez të ri njerëzish që po i afrohen Internetit.
 history-mozilla-also-celebrated = Po më 2013-n, { -brand-name-mozilla } festoi përvjetorin e vet të 15-të.
-history-the-community-has-shown = Bashkësia ka treguar se kompanitë komerciale mund të përfitojnë nga bashkëpunimi në projekte me burim të hapur dhe se në formë software-i me burim të hapur mund të prodhohen produkte shumë të mirë përdoruesi.
+history-the-community-has-shown = Bashkësia ka treguar se kompanitë komerciale mund të përfitojnë nga bashkëpunimi në projekte me burim të hapët dhe se në formë software-i me burim të hapët mund të prodhohen produkte shumë të mirë përdoruesi.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Internetin e përdorin tani më shumë njerëz se kurrë dhe e shijojnë atë <a href="{ $all }">në gjuhën e tyre</a>.
@@ -66,7 +66,7 @@ history-the-future-is-full-of-challenges = E ardhmja është plotë sfida dhe mu
 history-theres-no-guarantee-that = Nuk ka garanci se Interneti do të mbetet i hapur, ose i pëlqyeshëm, ose i parrezik.
 history-mozilla-will-continue-to = { -brand-name-mozilla } do të vazhdojë të ofrojë për njerëzit një mundësi, që zëri i tyre të dëgjohet dhe që të kenë mundësi t’i japin formë jetës së tyre në linjë.
 history-of-course-were-not-alone = Sigurisht, në kryerjen e kësaj, s’jemi vetëm.
-history-the-mozilla-community-together = Bashkësia { -brand-name-mozilla }, tok me projekte të tjera me burim të hapur dhe ente të tjerë të së mirës publike, ekziston vetëm falë njerëzve që janë të angazhuar për t’i bërë realitet synimet tona të përbashkëta.
+history-the-mozilla-community-together = Bashkësia { -brand-name-mozilla }, tok me projekte të tjera me burim të hapët dhe ente të tjerë të së mirës publike, ekziston vetëm falë njerëzve që janë të angazhuar për t’i bërë realitet synimet tona të përbashkëta.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Nëse doni të bashkoheni me ne, për misionin tonë, ju lutemi, <a href="{ $contribute }">përfshihuni te Mozilla</a>.

@@ -59,7 +59,7 @@ nope-never-have = Jo. Kurrë s’e ka bërë, as do ta bëjë kurrë. Dhe ju mbr
 why-is-firefox = Pse është kaq i ngadaltë { -brand-name-firefox }-i?
 firefox-isnt-slow = { -brand-name-firefox } s’është i ngadaltë… tanimë. Më 2017-n, e rindërtuam tërësisht motorin tonë të kërkimeve (të quajtur Quantum), për të siguruar që { -brand-name-firefox }-i të mund të konkurronte me të tjerë shfletues të njohur. Dhe, bllokuesi ynë i gjurmuesve i ndihmon faqet të ngarkohen edhe më shpejt. Ndaj, { -brand-name-firefox }-i është i shpejtë si rrufe pa sakrifikuar gjë nga privatësia juaj.
 is-firefox-chromium = A bazohet { -brand-name-firefox }-i në { -brand-name-chromium }?
-firefox-is-not = { -brand-name-firefox }-i nuk bazohet në { -brand-name-chromium } (projekti me burim të hapur i shfletuesit në zemër të { -brand-name-google } { -brand-name-chrome }). Në fakt, ne jemi një nga shfletuesit e fundit të rëndësishëm të mbetur që nuk bazohemi në të. { -brand-name-firefox }-i xhiron mbi motorin tonë të kërkimeve Quantum të ndërtuar posaçërisht për { -brand-name-firefox }-in, ndaj mund të garantojmë që të dhënat tuaja trajtohen me respekt dhe mbahen private.
+firefox-is-not = { -brand-name-firefox }-i nuk bazohet në { -brand-name-chromium } (projekti me burim të hapët i shfletuesit në zemër të { -brand-name-google } { -brand-name-chrome }). Në fakt, ne jemi një nga shfletuesit e fundit të rëndësishëm të mbetur që nuk bazohemi në të. { -brand-name-firefox }-i xhiron mbi motorin tonë të kërkimeve Quantum të ndërtuar posaçërisht për { -brand-name-firefox }-in, ndaj mund të garantojmë që të dhënat tuaja trajtohen me respekt dhe mbahen private.
 does-firefox-use = A përdor { -brand-name-firefox }-i { -brand-name-google }?
 
 # Variables:

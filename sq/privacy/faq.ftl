@@ -27,7 +27,7 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nuk shet t�
 privacy-faq-wait-so-how-do-you-make-money = Dale, po paratë nga i nxirrni?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } s’është si entet e rëndomta. E themeluar si një projekt bashkësie, me burim të hapur, më 1998, { -brand-name-mozilla } është një ent i udhëhequr nga një mision, që punon për një internet më të shëndetshëm. Pjesa dërrmuese e të ardhurave të { -brand-name-mozilla-corporation } vjen nga tarifa të fituara përmes kontratash partneriteti dhe distribucioni kërkimi me shfletuesin web { -brand-name-firefox } anembanë botës. Më shumë rreth se si i nxjerrim paratë mund të mësoni te <a href="{ $link }">raporti ynë vjetor financiar</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } s’është si entet e rëndomta. E themeluar si një projekt bashkësie, me burim të hapët, më 1998, { -brand-name-mozilla } është një ent i udhëhequr nga një mision, që punon për një internet më të shëndetshëm. Pjesa dërrmuese e të ardhurave të { -brand-name-mozilla-corporation } vjen nga tarifa të fituara përmes kontratash partneriteti dhe distribucioni kërkimi me shfletuesin { -brand-name-firefox } anembanë botës. Më shumë rreth se si i nxjerrim paratë mund të mësoni te <a href="{ $link }">raporti ynë vjetor financiar</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = OK, këto të parat qenë të lehta. Ç’të dhëna grumbulloni?
 # Variables:

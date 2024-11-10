@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/principles/
@@ -8,7 +8,7 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Parime Privatësie të Dhënash
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } është një projekt me burim të hapur, me mision përmirësimin e punimit tuaj në Internet. Kjo është forcë lëvizëse pas praktikave tona të privatësisë.
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } është një projekt me burim të hapët, me mision përmirësimin e punimit tuaj në Internet. Kjo është forcë lëvizëse pas praktikave tona të privatësisë.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Pesë parimet vijuese burojnë nga <a href="{ $link }">Manifesti i { -brand-name-mozilla }-s</a> dhe japin një ide se si:
