@@ -25,7 +25,7 @@ firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçk
 firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
+firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> Shfletuesi Firefox <strong>s’ju</strong> vëzhgon.
 firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë
 firefox-desktop-download-get-all-the-speed = Përfitoni krejt shpejtësinë dhe mjetet pa asnjë prej shkeljeve të privatësisë. { -brand-name-firefox-browser } grumbullon kaq pak të dhëna rreth jush, sa as që ju kërkojmë adresë email për ta shkarkuar. Kjo vjen ngaqë, ndryshe nga shfletues të tjerë, s’kemi interesa financiare për ndjekjen tuaj nëpër internet.
 firefox-desktop-download-how-we-compare = Si dalim në krahasim me shfletues të tjerë
@@ -45,7 +45,7 @@ firefox-desktop-download-in-browser-screenshot = Mjet fotografimi ekrani brenda 
 firefox-desktop-download-primary-password = Fjalëkalim parësor
 firefox-desktop-download-we-block-the-ad = Ne bllokojmë gjurmues reklamash. Ju eksploroni internetin më shpejt.
 firefox-desktop-download-ads-are-distracting = Reklamat të tërheqin vëmendjen dhe bëjnë që faqet web të ngarkohen më ngadalë, teksa gjurmuesit që përmbajnë ndjekin çdo lëvizje që bëni në internet. { -brand-name-firefox-browser }-i bllokon automatikisht shumicën e gjurmuesve, ndaj s’keni pse të zhyteni në rregullimet tuaja të sigurisë.
-firefox-desktop-download-see-your-report = Shihni raportim tuaj të mbrojtjes
+firefox-desktop-download-see-your-report = Shihni raportin tuaj të mbrojtjes
 firefox-desktop-download-for-everyone = { -brand-name-firefox }-i është për këdo
 firefox-desktop-download-available-in-over = I gatshëm në mbi 90 gjuhë dhe i përputhshëm me makina { -brand-name-windows }, { -brand-name-mac-short } dhe { -brand-name-linux }, { -brand-name-firefox } funksionon pavarësisht se ç’përdorni apo se ku ndodheni. Për funksionimin më të mirë, sigurohuni që sistemi juaj është i përditësuar.
 firefox-desktop-download-review-system-req = Shqyrtoni domosdoshmëri sistemi
@@ -97,7 +97,7 @@ firefox-desktop-download-extensions-for-every = Zgjerime për çdo interes
 firefox-desktop-download-change-up-your = Ndryshoni pamjen tuaj
 firefox-desktop-download-go-from-light = Kaloni nga mënyra e çelët në atë të errët, sipas qejfit ose parapëlqimeve tuaja, ose gjallërojini gjërat me një temë vetjake (njëbrirësh ylberi, ndoshta).
 firefox-desktop-download-tweak-your-settings = Përimtoni rregullimet tuaja
-firefox-desktop-download-theres-no-need = S’ka pse zini myk. Ndryshoni faqen për skedë të rem shtyllën e kërkimeve, faqerojtësit e plot gjëra të tjera, që ta eksploroni internetin sipas mënyrës që doni.
+firefox-desktop-download-theres-no-need = S’ka pse zini myk. Ndryshoni faqen për skedë të re, shtyllën e kërkimeve, faqerojtësit e plot gjëra të tjera, që ta eksploroni internetin sipas mënyrës që doni.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Duke patur pas <strong>entin jofitimprurës</strong> që vë njerëzit mbi gjithçka
 firefox-desktop-download-challenging-the-status = Duke sfiduar status quo-në që prej 1998-s
@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } është i gatshëm për krejt pajisjet tuaja; merrni me vete skedat tuaja, historikun dhe faqerojtësit tuaj. Krejt çka ju duhet është një <a { $attrs }>llogari { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }-i mund të kihet në krejt pajisjet; merrni me vete skedat tuaja, historikun de faqerojtësit. Krejt çka ju duhet është një <a { $attrs }>{ -brand-name-mozilla-account }</a> dhe do të mund të përdorni njëkohësim dhe më tepër produkte { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Pyetje? Mbulohen për ju nga <a { $attrs }>asistenca e { -brand-name-mozilla }</a>.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = E keni tashmë shfletuesin. Tani merrni edhe më tepër gjëra nga { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Vëzhgoni për hacker-a me { -brand-name-mozilla-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Vëzhgoni për hacker-a me { -brand-name-firefox-monitor }, mbroni adresën tuaj email me { -brand-name-firefox-relay }, etj.
-firefox-desktop-download-get-more-from-firefox = Përfitoni Më Tepër Nga { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Thjesht Shkarkoni Shfletuesin
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Që të instaloni { -brand-name-firefox
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sistemi juaj mund të mos i plotësojë domosdoshmëritë e { -brand-name-firefox }-it, por mund të provoni një nga <a href="{ $url }">këto versione</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } do të fiksohet te paneli { -brand-name-windows } pas instalimit
