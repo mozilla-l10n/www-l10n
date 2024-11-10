@@ -46,3 +46,7 @@ vpn-pricing-how-do-i-manage = میں آپݨاں منصوبہ کین٘ویں وٹ
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = جے تساں پہلے کنوں ای { -brand-name-mozilla-vpn } سبسکرائب کر چکے او، تاں تساں کہیں وی ویلھے اپݨا پلان تبدیل کر سڳدے او یا <a { $manage }>اپݨی سبسکرپشن کوں منظم کر سڳدے  او </a>۔
+
+## Mobile only subscription copy
+
+vpn-pricing-download-the-app = ایپ ڈاؤن لوڈ کرو
