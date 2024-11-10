@@ -17,7 +17,7 @@ about-this-site-this-website = Sajti www.mozilla.org ka qenë në linjë për m�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today = Sot ky është sajti ku njerëzit vijnë të shkarkojnë <a href="{ $firefox }">{ -brand-name-firefox }-in</a>, të provojnë <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-në</a> dhe të mësojnë më tepër <a href="{ $mozilla }">mbi { -brand-name-mozilla }-n</a>.Mund të zbuloni gjithashtu edhe pak <a href="{ $book }">vezë Pashkësh</a> përgjatë rrugës.
+about-this-site-today = Sot ky është sajti ku njerëzit vijnë të shkarkojnë <a href="{ $firefox }">{ -brand-name-firefox }-in</a>, të provojnë <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-në</a> dhe të mësojnë më tepër <a href="{ $mozilla }">mbi { -brand-name-mozilla }-n</a>. Mund të zbuloni gjithashtu edhe pak <a href="{ $book }">vezë Pashkësh</a> përgjatë rrugës.
 about-this-site-like-many = Si edhe mjaft nga produktet tona, edhe ky sajt është me burim të hapët:
 about-this-site-view-source = Shihni kodin burim në { -brand-name-github }
 about-this-site-report-a-bug = Njoftoni një të metë
@@ -31,10 +31,10 @@ about-this-site-some-open-source-projects = Disa nga projektet me burim të hap�
 about-this-site-django = <a href="{ $django }">Django</a> si pjesë e pasme e platformës web, me <a href="{ $jinja }">Jinja</a> për gjedhe.
 # Variables:
 #   $protocol (url) link to https://protocol.mozilla.org/
-about-this-site-mozilla-protocol = Sistem { -brand-name-mozilla }’s <a href="{ $protocol }">Protocol</a> hartimi, për përbërës të pjesës së dukshme dhe elementë marke.
+about-this-site-mozilla-protocol = Sistemi i dizajnit <a href="{ $protocol }">Protocol</a> i { -brand-name-mozilla }-s, për përbërës të pjesës së dukshme dhe elementë marke.
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
-about-this-site-fluent = Sistem { -brand-name-mozilla }’s <a href="{ $fluent }">Fluent</a> përkthimi për versione në gjuhë të tjera.
+about-this-site-fluent = Sistemi përkthimi <a href="{ $fluent }">Fluent</a> i { -brand-name-mozilla }-s për versione në gjuhë të tjera.
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Mjaft biblioteka dhe grupe mjetesh më të vogla, të cilat mund t’i gjeni në <a href="{ $github }">depon tonë { -brand-name-github }</a>.
