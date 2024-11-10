@@ -53,18 +53,18 @@ features-adblocker-to-start-click-on-the-v2 = Për t’ia filluar, klikoni mburo
 features-adblocker-go-easy-with-standard = Jini i butë, me mënyrën Standarde
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
-features-adblocker-if-ads-dont-bother-you = Nëse reklamat nuk ju bezdisin dhe nuk e keni problem t’ju ndjekin gjurmues dhe cookie palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="{ $url }">Shfletimi Privat</a>.
+features-adblocker-if-ads-dont-bother-you = Nëse reklamat s’ju bezdisin dhe s’e keni problem t’ju ndjekin gjurmues dhe <em>cookies</em> palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="{ $url }">Shfletimi Privat</a>.
 features-adblocker-get-tough-with-strict = Jini i ashpër, me mënyrën Strikte
-features-adblocker-if-seeing-too-many-ads = Nëse parja e shumë reklamave jua çon ditën dëm, atëherë mënyra Strikte ju shkon më shumë për shtat. Kjo mënyrë do të bllokojë në krejt dritaret { -brand-name-firefox } gjurmues dhe cookies të njohura palësh të treta.
+features-adblocker-if-seeing-too-many-ads = Nëse parja e shumë reklamave jua çon ditën dëm, atëherë mënyra Strikte ju shkon më shumë për shtat. Kjo mënyrë do të bllokojë në krejt dritaret { -brand-name-firefox } gjurmues dhe <em>cookies</em> palësh të treta të ditura.
 features-adblocker-do-it-yourself-custom = Mënyrë Vetjake bëjeni-si-doni
-features-adblocker-the-custom-setting-gives = Rregullimi Vetjak ju lejon maksimumin e zgjedhjes. Mund të vendosni ç’të bllokohet, përfshi gjurmues, cookies dhe më tepër. Nëse lejoni cookies prej një sajti, automatikisht do të gjendeni nën mënyrën Vetjake.
+features-adblocker-the-custom-setting-gives = Rregullimi Vetjak ju lejon maksimumin e zgjedhjes. Mund të vendosni ç’të bllokohet, përfshi gjurmues, <em>cookies</em> dhe më tepër. Nëse lejoni <em>cookies</em> prej një sajti, automatikisht do të gjendeni nën mënyrën Vetjake.
 features-adblocker-cover-your-trail-block = Fshini gjurmët tuaja, bllokoni gjurmuesit
 features-adblocker-click-on-the-trackers = Klikoni mbi kuadratin Gjurmues dhe do të jeni në gjendje t’i bllokoni gjurmuesit në dy mënyra. Një mënyrë bllokimi gjurmuesish është ta bëni teksa punoni në një Dritare Private. Një rrugë tjetër është të bllokohen gjurmuesit në krejt dritaret. Mbani parasysh se nëse zgjidhni të bllokohen përherë gjurmuesit, disa faqe mund të mos ngarkohen saktë.
 features-adblocker-take-a-bite-out-of-cookies = Përpijini cookie-t
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> dërgohen nga sajtet që vizitoni. Jetojnë në kompjuterin tuaj dhe mbikëqyrin çfarë bëni në një sajt. Kur një shoqëri fluturimesh rrit çmimet për ju, ngaqë keni parë një herë atë ditë bileta aeroplani, këtu ka gisht një cookie.
-features-adblocker-in-firefox-you-can-block = Në { -brand-name-firefox } mund të bllokoni krejt cookies palësh të treta ose vetëm ato të depozituara nga gjurmues. Mbani parasysh se bllokimi i krejt cookie-ve mund të dëmtojë funksionimin e disa sajteve.
+features-adblocker-in-firefox-you-can-block = Në { -brand-name-firefox } mund të bllokoni krejt cookie-t prej palësh të treta, ose vetëm ato të depozituara nga gjurmues. Mbani parasysh se bllokimi i krejt cookie-ve mund të dëmtojë funksionimin e disa sajteve.
 features-adblocker-send-a-do-not-track-signal = Dërgoni një sinjal “Mos Më Gjurmoni”
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
