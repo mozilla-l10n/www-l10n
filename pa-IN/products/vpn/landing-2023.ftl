@@ -33,3 +33,10 @@ vpn-landing-more-than-servers-in-countries =
        *[other] { $countries }+ ਦੇਸ਼ਾਂ ਵਿੱਚ { $servers } ਤੋਂ ਵੱਧ ਸਰਵਰ
     }
 vpn-landing-fast-network-speeds-even-while = ਗੇਮਾਂ ਖੇਡਣ ਦੌਰਾਨ ਵੀ ਤੇਜ਼ ਨੈੱਟਵਰਕ ਸਪੀਡ
+vpn-landing-no-logging-tracking-or-sharing = ਕੋਈ ਲਾਗ ਜਾਣਕਾਰੀ, ਟਰੈਕਰ ਜਾਂ ਨੈੱਟਵਰਕ ਡਾਟੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ
+vpn-landing-no-bandwidth-restrictions-or = ਨਾ ਬੈਂਡਵਿਡਥ ਦੀਆਂ ਪਾਬੰਦੀਆਂ ਨਾ ਹੀ ਰੋਕ ਟੋਕ
+vpn-landing-extra-security-whole-device = ਵਧੀਕ ਸੁਰੱਖਿਆ: ਪੂਰੇ ਡਿਵਾਈਸ ਦੀ ਸੁਰੱਖਿਆ, ਬਹੁ-ਪੜਾਵੀ ਰਾਊਟਿੰਗ ਤੇ ਹੋਰ
+vpn-landing-see-all-features = ਸਾਰੇ ਫ਼ੀਚਰਾਂ ਨੂੰ ਵੇਖੋ
+vpn-landing-fram-a-brand-you-can-trust = ਬਰੈਂਡ, ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ, ਵਲੋਂ
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ ਇੰਟਰਨੈੱਟ ਕੰਪਨੀ ਹੈ, ਜੋ ਕਿ ਮਜ਼ਬੂਤ ਵੈੱਬ ਲਈ 1998 ਤੋਂ ਲੈ ਕੇ ਸੰਘਰਸ਼ ਕਰ ਰਹੀ ਹੈ।
+vpn-landing-one-subscription-for-all-your = ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਇੱਕ ਮੈਂਬਰੀ
