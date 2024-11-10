@@ -10,11 +10,11 @@ features-adblocker-how-to-stop-seeing-too = Si të reshtet shfaqja e shumë rekl
 features-adblocker-the-ad-blocker-a-secret = Bllokuesi i reklamave – një armë e fshehtë kundër reklamave bezdisëse.
 features-adblocker-so-many-ads-so-little = Kaq shumë reklama, kaq pak durim… Ka ardhur koha të ndalet çmenduria.
 features-adblocker-the-average-person-sees = Personi mesatar sheh mesatarisht 4 mijë reklama në ditë. Nëse mendoni se kaq është shumë, një bllokues reklamash është shoku juaj më i mirë.
-features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është një copë software-i që mund të përdoret për të bllokuar reklama dhe punon në dy drejtime. Drejtimi i parë është kur një bllokues reklamash bllokon sinjalin prej një shërbyesi të reklamuesit, kështu që reklama nuk shfaqet kurrë në faqen tuaj. Një drejtim tjetër në të cilin funksionojnë bllokuesit e reklamave është përmes bllokimi pjesësh të një sajti të cilat mund të jenë reklama.
+features-adblocker-an-ad-blocker-is-a-piece = Një bllokues reklamash është një copë software-i që mund të përdoret për të bllokuar reklama dhe punon në dy rrugë. Rruga e parë është kur një bllokues reklamash bllokon sinjalin prej një shërbyesi të reklamuesit, kështu që reklama nuk shfaqet kurrë në faqen tuaj. Një rrugë tjetër në të cilën funksionojnë bllokuesit e reklamave është përmes bllokimi pjesësh të një sajti të cilat mund të jenë reklama.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, cookie palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
+features-adblocker-these-ads-might-be-loud = Këto reklama mund të jenë reklama video të zhurmshme, reklama që ju ndjekin nëpër internet, gjurmues, <em>cookies</em> palësh të treta, etj. Që të përdorni një bllokues reklamash, mund të kërkoni për shtesa bllokuesi reklamash të gatshme për shfletuesin tuaj. <a href="{ $firefox }">{ -brand-name-firefox }-i</a>, për shembull, ka <a href="{ $addons }">këtë listë shtesash të miratuara bllokuesish reklamash</a>. Klikoni në këtë listë (ose mbi bllokues reklamash që janë të miratuar për shfletuesin tuaj) dhe shihni se cili plotëson nevojat tuaja.
 features-adblocker-find-the-right-ad-blocker = Gjeni bllokuesin e duhur të reklamave për ju
 features-adblocker-there-are-scores-of-content = Ka bllokues të shumtë lënde, por ja pak mundësi fantastike të zgjedhura nga { -brand-name-mozilla }…
 # Variables:
@@ -23,7 +23,7 @@ features-adblocker-considered-by-many-to-be-the = I mbajtur nga shumë vetë si 
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blunts advertising everywhere. Bllokon reklama në internet, në media shoqërore, madje edhe ato flluskat bezdisës (por, nëse po kërkoni thjesht të hiqni qafe flluskat, s’mund të gaboni me <a { $attrs2 }>Popup Blocker</a>).
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> kufizon ngado reklamat. Bllokon reklama në internet, në media shoqërore, madje edhe ato flluskat bezdisës (por, nëse po kërkoni thjesht të hiqni qafe flluskat, s’mund të gaboni me <a { $attrs2 }>Popup Blocker</a>).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> është një tjetër zgjedhje e fuqishme që jo vetëm bllokon reklama, por jep përfitime shtesë anti-gjurmim.
