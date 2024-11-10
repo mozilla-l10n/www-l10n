@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -13,7 +13,7 @@ firefox-enterprise-downloads = Shkarkime
 firefox-enterprise-get-firefox-for-your-enterprise = Merrni { -brand-name-firefox }-in për ndërmarrjen tuaj
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Për siguri të plotë të dhënash dhe mbrojtje të dhënash, merrni <a href="{ $url }">{ -brand-name-firefox-extended-support-release } ose Rapid Release</a>.
+firefox-enterprise-get-the-firefox-extended-support = Për siguri të plotë të dhënash dhe mbrojtje të tyre, merrni <a href="{ $url }">{ -brand-name-firefox-extended-support-release }, ose Rapid Release</a>.
 firefox-enterprise-unmatched-data-protection = Mbrojtje të pashoqe të dhënash — sipas shpeshtisë së hedhjeve në qarkullim që ju bën punë
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Shfletuesi { -brand-name-firefox } është me burim të hapur dhe furnizon Mbrojtje të Thelluar nga Gjurmimet — krejt kjo si pjesë e përkushtimit tonë të gjatë për mbrojtje të dhënash.
@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Shembull <a href="{ $url }">
 firefox-enterprise-pkg-installer = Instalues PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Shkarkojeni { -brand-name-firefox-esr } ose atë Rapid Release për<br> <a href="{ $firefox_all }">tjetër gjuhë ose platformë.</a>

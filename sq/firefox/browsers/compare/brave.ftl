@@ -10,7 +10,7 @@ compare-brave-firefox-vs-brave = { -brand-name-firefox } kundrejt Brave-it
 # HTML page description
 compare-brave-read-our-comparison = Lexoni krahasimin tonë të shfletuesve { -brand-name-firefox } dhe Brave lidhur me veçoritë, privatësinë dhe lehtësinë në përdorim.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = Rregullimet e privatësisë të { -brand-name-firefox }-it janë të fuqishme dhe të lehta për t’u përdorur. Bllokimi parazgjedhje i reklamave nga Brave-i mund të dëmtojë funksionimin e sajteve që vizitoni, ndaj do t’ju duhet të merreni me të. Ne dëshirojmë që privatësia të jetë aq e leverdishme sa ju ta<em>përdorni</em> faktikisht.
+compare-brave-firefoxs-privacy-settings-are = Rregullimet e privatësisë të { -brand-name-firefox }-it janë të fuqishme dhe të lehta për t’u përdorur. Bllokimi parazgjedhje i reklamave nga Brave-i mund të dëmtojë funksionimin e sajteve që vizitoni, ndaj do t’ju duhet të merreni me të. Ne dëshirojmë që privatësia të jetë aq e leverdishme sa ju ta <em>përdorni</em> faktikisht.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox }-i e bën të lehtë për ju të zgjidhni cilin motor kërkimesh dëshironi të përdorni sa herë që bëni një kërkim. Brave-i, si parazgjedhje, përdor motorin e vet të kërkimeve dhe juve ju duhet të kaloni nëpër rregullimet e shfletuesit për të zgjedhur diçka tjetër.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
