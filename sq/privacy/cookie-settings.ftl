@@ -8,6 +8,8 @@
 cookie-settings-page-title = Rregullime cookie-sh
 cookie-settings-page-desc = Kjo faqe përshkruan llojet e ndryshme të Cookie-eve që mund të përdorë { -brand-name-mozilla } dhe ju jep kontroll rreth cilave lloje të të dhënave pajtoheni të mbledhë { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = Faqja e mëparshme
+cookie-settings-explainer = “Cookies” janë kartela të vockla që përmbajnë informacion, që ruhen në kompjuterin apo pajisjen tuaj, kur vizitoni një sajt. { -brand-name-mozilla } i përdor Cookie-t për të ndihmuar që sajtet tona të funksionojnë, si dhe për të grumbulluar informacion se si i përdorni dhe ndërveproni me sajtet tanë, bie fjala, faqet që vizitoni.
+cookie-settings-page-intro-v2 = Kjo faqe përshkruan llojet e ndryshme të Cookie-eve dhe teknologjish të ngjashme, bie fjala,  etiketa piksel, <em> web beacons</em>, GIF-e të tejdukshëm, JavaScript dhe depozitim vendor (këtej e tutje, “Cookies”) që mund të përdorë { -brand-name-mozilla } dhe ju jep kontroll mbi se cilët lloje të dhënash pajtoheni të grumbullojë { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Si i përdor “Cookies” { -brand-name-mozilla }
 cookie-settings-how-does-mozilla-use-subheading = Si i përdor { -brand-name-mozilla } këto të dhëna?
 cookie-settings-save-changes = Ruaji Ndryshimet
@@ -33,6 +35,7 @@ cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren p
 
 cookie-settings-category-analytics-heading = Statistika
 cookie-settings-category-analytics-what-are-subheading = Ç’janë Cookie-t Statistikore?
+cookie-settings-category-analytics-what-are-desc = Këto teknologji grumbullojnë informacion rreth se si i përdorin sajtet njerëzit, f.v., faqet që vizitojnë, lidhje që klikojnë dhe prej cilave sajte erdhën vizitat.
 
 ## Consent section
 
@@ -41,4 +44,5 @@ cookie-settings-your-consent-heading = Pranim nga ju
 ## Privacy section
 
 cookie-settings-privacy-heading = Shënimi ynë mbi privatësinë
+cookie-settings-privacy-desc = Për informacion më të hollësishëm rreth llojeve të ndryshme të informacionit që grumbullon  { -brand-name-mozilla }, kur vizitoni sajtet tanë, mund të gjeni një lidhje te shënimi ynë mbi privatësinë më poshtë.
 cookie-settings-privacy-policy-link = Shënim Mbi Privatësinë
