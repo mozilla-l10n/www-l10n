@@ -56,8 +56,8 @@ vpn-pricing-if-already-subscribed = Nëse jeni pajtuar tashmë te { -brand-name-
 
 ## Mobile only subscription copy
 
-vpn-pricing-scan-qrcode-to-download = Që të shkarkoni aplikacionin, skanoni Kodin QË me pajisjen tuaj celulare, ose tabletin tuaj
-vpn-pricing-scan-qrcode-to-download-android = Që të shkarkoni aplikacionin, skanoni Kodin QË me pajisjen ose tabletin tuaj Android
+vpn-pricing-scan-qrcode-to-download = Që të shkarkoni aplikacionin, skanoni Kodin QR me pajisjen tuaj celulare, ose tabletin tuaj
+vpn-pricing-scan-qrcode-to-download-android = Që të shkarkoni aplikacionin, skanoni Kodin QR me pajisjen ose tabletin tuaj Android
 vpn-pricing-sign-up-on-your-mobile-device = Regjistrohuni për një pajtim { -brand-name-mozilla-vpn } në pajisjen tuaj celulare
 vpn-pricing-sign-up-on-your-android-device = Regjistrohuni për një pajtim { -brand-name-mozilla-vpn } në pajisjen tuaj Android
 vpn-pricing-download-the-app = Shkarkoni aplikacionin

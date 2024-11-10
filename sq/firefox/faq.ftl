@@ -7,13 +7,13 @@
 
 # HTML page title
 firefox-faq = PBR { -brand-name-firefox }-i
-whether-you-searched-privacy = Nëse po kërkonit për një shfletues të shpejtë që mbron privatësinë tuaj, këto PBR janë këtu për t’ju përgjigjur pyetjeve më urgjente që lidhen me { -brand-name-firefox }-in.
-whether-you-searched-independant = Nëse po kërkonit për një shfletues të shpejtë, ose po kërkoni për një ent teknologjik të pavarur që mbron privatësinë tuaj, këto PBR janë këtu për t’ju përgjigjur pyetjeve më urgjente që lidhen me { -brand-name-firefox }-in.
+whether-you-searched-privacy = Nëse po kërkonit për një shfletues të shpejtë që mbron privatësinë tuaj, këto PBR janë këtu për t’iu përgjigjur pyetjeve më urgjente që lidhen me { -brand-name-firefox }-in.
+whether-you-searched-independant = Nëse po kërkonit për një shfletues të shpejtë, ose po kërkoni për një ent teknologjik të pavarur që mbron privatësinë tuaj, këto PBR janë këtu për t’iu përgjigjur pyetjeve më urgjente që lidhen me { -brand-name-firefox }-in.
 what-is-firefox = Ç’është { -brand-name-firefox }-i?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser }-i është i vetmi shfletues i rëndësishëm që pas ka një ent jofitimprurës që s’ua shet të dhënat tuaja personale industrisë së reklamave, teksa ju ndihmon të mbroni të dhënat tuaja personale. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjera.</a>
 how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
@@ -46,7 +46,7 @@ protecting-your-privacy = Mbrojtja e privatësisë tuaj është përparësia jon
 is-firefox-safe = A është i parrezik { -brand-name-firefox }-i?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Jo vetëm që { -brand-name-firefox }-i është i parrezik për t’u përdoru, ai ndihmon gjithashtu të mbahen të parrezik dhënat tuaja dhe informacione private. { -brand-name-firefox-browser }-i u bllokon automatikisht grumbullimin e të dhënave tuaja gjurmuesve palë e tretë, gjurmuesve mediash shoqërore, nxjerrësve të kriptomonedhave dhe profilizuesve të ditur. <a href="{ $url }">Mësoni rreth privatësisë në produktet tona.</a>
 related-questions-safe = Pyetje të afërta: a është i mirë për privatësi { -brand-name-firefox }-i, a është i sigurt { -brand-name-firefox }-i, a është { -brand-name-firefox }-i më i mirë për privatësi
