@@ -8,10 +8,10 @@
 # HTML page title
 firefox-products-mozilla-products = Produkte { -brand-name-mozilla }
 # HTML page description
-firefox-products-mozillas-family-of-products = Familja { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
+firefox-products-mozillas-family-of-products = Produktet e familjes { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
 firefox-products-products = Produkte
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } është vetëm fillimi.
-firefox-products-mozillas-family-of-products-sentence = Familja e produkteve { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
+firefox-products-mozillas-family-of-products-sentence = Produktet e familjes { -brand-name-mozilla } janë të tërë të konceptuar për t’ju mbajtur më të parrezik dhe më të mençur në internet.
 
 ## Firefox
 
@@ -44,7 +44,7 @@ firefox-products-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
-firefox-products-resources-for-developers = Burim për zhvillues, nga zhvillues, Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.
+firefox-products-resources-for-developers = Burime për zhvillues, nga zhvillues. Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.
 firefox-products-support-mdn = Përkrahni { -brand-name-mdn }
 
 ## Thunderbird
@@ -58,7 +58,7 @@ firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 firefox-products-fakespot = { -brand-name-fakespot }
 # scam artists are people who are trying to sell fakes or steal money
 # 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } ju mbron kur blini në internet — duke qëruar mjeshtër të mashtrimeve dhe duke ju gjetur ofertat më të mira. Krijuar nga { -brand-name-mozilla }.
+firefox-products-fakespot-has-your = { -brand-name-fakespot } ju mbron kur blini në internet — duke hequr qafe mjeshtër të mashtrimeve dhe duke ju gjetur ofertat më të mira. Krijuar nga { -brand-name-mozilla }.
 firefox-products-analyze = Analizoni një URL
 
 ## Pocket

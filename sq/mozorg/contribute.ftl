@@ -11,7 +11,7 @@
 contribute-page-title = Mundësi Vullnetarizmi te { -brand-name-mozilla }
 contribute-page-heading = Talenti juaj duhet për një internet më të mirë
 contribute-page-intro = { -brand-name-mozilla } është një ent jofitimprurës që punon për të siguruar që interneti të jetë i hapur dhe mirëpritës për të tërë. Dhe na duhet ndihma juaj. Duke u bërë pjesë e bashkësisë sonë, mund të ndihmoni të shpihet përpara novacioni, të thellohet përgjegjshmëria dhe besimi dhe interneti të bëhet një vend më i mirë për këdo.
-contribute-how-heading = Si mund të jepni ndihmëse…
+contribute-how-heading = Si mund të jepni ndihmesë…
 
 ## Contribution tasks
 
