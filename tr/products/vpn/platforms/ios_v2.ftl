@@ -7,3 +7,4 @@
 
 vpn-ios-vpn-for-iphone = { -brand-name-mozilla }’dan iPhone için VPN
 vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn }, internet trafiğinizi şifreleyip IP adresinizi meraklı gözlerden gizleyen bir sanal özel ağ (VPN) hizmetidir.
+vpn-ios-there-are-many = iPhone’da { -brand-name-mozilla-vpn }’i kullanmanızı gerektirebilecek birçok neden var. Örneğin:
