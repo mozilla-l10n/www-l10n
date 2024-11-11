@@ -32,7 +32,7 @@ about-a-global-view = Një Vizion Global
 about-with-offices-all-over-the = Me <a href="{ $url }">zyra anembanë botës</a>, e vëzhgojmë internetin nga një shumësi kulturash dhe kontekstesh.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Diskutim Problemesh Teknologjike në IRL
-about-in-mozillas-multi-award-winning = Në podcast-in e e vlerësuar me shumë çmime të { -brand-name-mozilla }-s, drejtuesja Bridget Todd bisedon me persona që po i japin formë të ardhmes së internetit dhe IA.
+about-in-mozillas-multi-award-winning = Në podcast-in e { -brand-name-mozilla }-s, të vlerësuar me shumë çmime, drejtuesja Bridget Todd bisedon me persona që po i japin formë të ardhmes së internetit dhe IA-së.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> vizitorë, jo të punësuar, mirëpritur çdo vit
 about-berlin = Berlin
