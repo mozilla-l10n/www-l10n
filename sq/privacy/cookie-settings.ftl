@@ -29,7 +29,7 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } p�
 
 cookie-settings-category-preference-heading = Parapëlqim
 cookie-settings-category-preference-what-are-subheading = Ç’janë Cookie-t e Parapëlqimeve?
-cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren për të mbajtur mend zgjedhje që keni bërë gjatë një vizite të mëparshme në një sajt. Në shembujt mund të përfshihen cilën gjuhë parapëlqeni për lexim, ose cila temë ngjyrash është e parapëlqyera juaj.
+cookie-settings-category-preference-what-are-desc = Këto teknologji përdoren për të mbajtur mend zgjedhje që keni bërë gjatë një vizite të mëparshme në një sajt. Te shembujt mund të përfshiheshin cilën gjuhë parapëlqeni për lexim, ose cila temë ngjyrash është e parapëlqyera juaj.
 cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } përdor “Cookies” Parapëlqimesh për të respektuar parapëlqimet tuaja dhe përmirësuar funksionimin për ju, kur vizitohen sajtet tanë. Ato s’përdoren për qëllime statistikore. “Cookies” Parapëlqimesh mbulojnë veçori në mënyrë të ngjashme me “Cookies” të Nevojshme, por një sajt mund të funksionojë ende pa to. Si të tilla, mundeni të zgjidhni lënien jashtë përdorimit të tyre.
 
 ## Analytics cookies section
