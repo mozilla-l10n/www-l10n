@@ -64,7 +64,7 @@ history-more-people-than-ever-before = Internetin e përdorin tani më shumë nj
 history-a-sustainable-organization = Është krijuar kështu një ent i ripërtërishëm, që përdor mekanizma tregu për të përkrahur një mision të së mirës publike dhe ky model është ripërdorur nga të tjerë për të krijuar ente të hapur, transparentë dhe bashkëpunues, në një <a href="{ $range }">gamë të gjerë</a> <a href="{ $areas }">fushash</a>.
 history-the-future-is-full-of-challenges = E ardhmja është plotë sfida dhe mundësi të barasvlershme me ato të së shkuarës sonë.
 history-theres-no-guarantee-that = Nuk ka garanci se Interneti do të mbetet i hapur, ose i pëlqyeshëm, ose i parrezik.
-history-mozilla-will-continue-to = { -brand-name-mozilla } do të vazhdojë të ofrojë për njerëzit një mundësi, që zëri i tyre të dëgjohet dhe që të kenë mundësi t’i japin formë jetës së tyre në linjë.
+history-mozilla-will-continue-to = { -brand-name-mozilla } do të vazhdojë të ofrojë për njerëzit një mundësi, që zëri i tyre të dëgjohet dhe që të kenë mundësi t’i japin formë jetës së tyre internetore.
 history-of-course-were-not-alone = Sigurisht, në kryerjen e kësaj, s’jemi vetëm.
 history-the-mozilla-community-together = Bashkësia { -brand-name-mozilla }, tok me projekte të tjera me burim të hapët dhe ente të tjerë të së mirës publike, ekziston vetëm falë njerëzve që janë të angazhuar për t’i bërë realitet synimet tona të përbashkëta.
 # Variables:
