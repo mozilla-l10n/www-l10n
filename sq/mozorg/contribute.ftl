@@ -25,7 +25,7 @@ contribute-task-translate-heading = Përktheni lëndë
 contribute-task-translate-desc = Interneti është global vetëm nëse kuptohet kudo. Nidhmonani të përkthejmë produktet dhe sajtet e { -brand-name-mozilla }-s në gjuhën tuaj.
 contribute-task-mozilla-codebase-heading = Kontribuoni te kodi bazë i { -brand-name-mozilla }-s
 contribute-task-mozilla-codebase-desc = Përmirësoni aktivisht produktet { -brand-name-mozilla } duke kontribuar te një larmi mundësish zhvillimi.
-contribute-task-support-desc = Ndihmoni që produktet e { -brand-name-mozilla }-s të bëhen të lehtë për t’u përdorur. Përgjigjuni pyetjeve të natyrës “ndihmë” të njerëzve, si pjesë e forumeve të Asistencës Nga Bashkësia { -brand-name-mozilla }.
+contribute-task-support-desc = Ndihmoni që produktet e { -brand-name-mozilla }-s të bëhen të lehtë për t’u përdorur. Përgjigjuni pyetjeve të njerëzve për “ndihmë”, si pjesë e forumeve të Asistencës Nga Bashkësia { -brand-name-mozilla }.
 contribute-task-join-heading = Bëhuni pjesë e bashkësisë
 contribute-task-join-desc = Doni të përfshiheni më thellë në bashkësinë { -brand-name-mozilla }? Shihni krejt mundësitë e vullnetarizmit te Portali ynë i Bashkësisë.
 
@@ -52,7 +52,7 @@ contribute-made-by-desc-cont = Ne besojmë se bashkëpunimi brenda bashkësisë 
 
 contribute-newsletter-heading = Ende jo i sigurt?
 contribute-newsletter-sub-heading = Merrni te email-i juaj lajme bashkësie dhe kontributi
-contribute-newsletter-desc = Pajtohuni te buletini ynë, bëhuni pjesë e Moxillianëve anembanë botës dhe mësoni mbi mundësi veprimtarie plot ndikim në përkrahje të misionit të { -brand-name-mozilla }-s.
+contribute-newsletter-desc = Pajtohuni te buletini ynë, bëhuni pjesë e Moxillianëve anembanë botës dhe mësoni mbi mundësi veprimtarish plot ndikim, që të përkrahni misionin e { -brand-name-mozilla }-s.
 
 ## Support
 
