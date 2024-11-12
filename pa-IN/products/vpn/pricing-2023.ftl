@@ -21,10 +21,15 @@ vpn-pricing-connect-up-to =
 vpn-pricing-annual = ਸਾਲਾਨਾ
 vpn-pricing-monthly = ਮਹੀਨੇਵਾਰ
 vpn-pricing-get-annual-subscription = ਸਾਲਾਨਾ ਮੈਂਬਰੀ ਲਵੋ
+vpn-pricing-get-monthly-subscription = ਮਹੀਨੇਵਾਰ ਮੈਂਬਰੀ ਲਵੋ
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = ਸਵਾਲ-ਜਵਾਬ
 vpn-pricing-refund-policy = { -brand-name-mozilla-vpn } ਦੀ ਧਨ ਵਾਪਸੀ ਕੀ ਹੈ?
+vpn-pricing-what-information = { -brand-name-mozilla-vpn } ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖਦਾ ਹੈ?
 
 ## Mobile only subscription copy
 
+vpn-pricing-sign-up-on-your-mobile-device = ਆਪਣੇ ਮੋਬਾਇਲ ਡਿਵਾਈਸਾਂ ਲਈ { -brand-name-mozilla-vpn } ਮੈਂਬਰੀ ਵਾਸਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ
+vpn-pricing-sign-up-on-your-android-device = ਆਪਣੇ Android ਡਿਵਾਈਸ ਲਈ { -brand-name-mozilla-vpn } ਮੈਂਬਰੀ ਵਾਸਤੇ ਸਾਈਨ ਅੱਪ ਕਰੋ
 vpn-pricing-download-the-app = ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ

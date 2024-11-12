@@ -44,3 +44,4 @@ vpn-landing-learn-more-from-our-experts = ਸਾਡੇ ਮਾਹਰਾਂ ਵਲ
 vpn-landing-do-you-need-a-vpn-at-home = ਕੀ ਤੁਹਾਨੂੰ ਘਰੇ ਕੋਈ ਵੀ VPN ਚਾਹੀਦਾ ਹੈ? ਇਹ 5 ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ, ਜਿਸ ਕਰਕੇ ਚਾਹੀਦਾ ਹੈ।
 vpn-landing-what-is-an-ip-address = IP ਐਡਰੈਸ ਕੀ ਹੁੰਦਾ ਹੈ?
 vpn-landing-how-your-location-is-tracked = ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੀ ਟੋਹ ਕਿਵੇਂ ਲਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਨੂੰ ਸੀਮਤ ਕਿਵੇਂ ਕਰ ਸਕਦੇ ਹੋ
+vpn-landing-see-more-resources = ਹੋਰ ਸਰੋਤਾਂ ਨੂੰ ਵੇਖੋ
