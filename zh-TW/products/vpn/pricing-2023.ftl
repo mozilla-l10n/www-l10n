@@ -58,3 +58,4 @@ vpn-pricing-scan-qrcode-to-download-android = 請使用 Android 裝置或平板�
 vpn-pricing-sign-up-on-your-mobile-device = 在您的行動裝置訂閱 { -brand-name-mozilla-vpn }
 vpn-pricing-sign-up-on-your-android-device = 在 Android 裝置上訂閱 { -brand-name-mozilla-vpn }
 vpn-pricing-download-the-app = 下載應用程式
+vpn-pricing-transaction-may-be-in = * 交易可能會使用等值的當地貨幣。
