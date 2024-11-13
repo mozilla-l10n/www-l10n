@@ -64,3 +64,4 @@ vpn-pricing-scan-qrcode-to-download-android = Da preuzmete aplikaciju, skenirajt
 vpn-pricing-sign-up-on-your-mobile-device = Prijavite se za { -brand-name-mozilla-vpn } pretplatu na svom mobilnom uređaju
 vpn-pricing-sign-up-on-your-android-device = Prijavite se za { -brand-name-mozilla-vpn } pretplatu na svom Android uređaju
 vpn-pricing-download-the-app = Preuzmite aplikaciju
+vpn-pricing-transaction-may-be-in = * Transakcija može biti u protuvrijednosti u lokalnoj valuti.
