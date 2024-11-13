@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Amdanom ni
+navigation-refresh-about-mozilla = Ynghylch { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Cau'r ddewislen Amdanom ni
 navigation-refresh-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Maniffesto { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ymunwch
+navigation-refresh-get-involved-v2 = Ymunwch
 navigation-refresh-innovation-projects = Projectau arloesi
+navigation-refresh-innovation-projects-v2 = Prosiectau Arloesedd
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Ein Cenhadaeth
+navigation-refresh-our-work = Ein Gwaith
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Mentrau
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Hysbysebu
 
 ## Firefox
 
