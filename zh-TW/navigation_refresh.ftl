@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = 關於我們
+navigation-refresh-about-mozilla = 關於 { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = 關閉「關於我們」選單
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } Manifesto
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } 宣言
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 參與我們
+navigation-refresh-get-involved-v2 = 參與我們
 navigation-refresh-innovation-projects = 創新專案
+navigation-refresh-innovation-projects-v2 = 創新專案
 navigation-refresh-blog = 部落格
+navigation-refresh-our-mission = 我們的使命
+navigation-refresh-our-work = 我們的努力
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Enterprise
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 廣告
 
 ## Firefox
 
