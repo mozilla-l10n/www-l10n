@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = O nás
+navigation-refresh-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 navigation-refresh-close-about-us-menu = Zavřít nabídku O nás
 navigation-refresh-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+navigation-refresh-mozilla-manifesto-v2 = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Zapojte se
+navigation-refresh-get-involved-v2 = Zapojte se
 navigation-refresh-innovation-projects = Inovační projekty
+navigation-refresh-innovation-projects-v2 = Inovační projekty
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Naše mise
+navigation-refresh-our-work = Naše práce
+navigation-refresh-mozilla-ai = Umělá inteligence { -brand-name-mozilla(case: "gen") }
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Reklama
 
 ## Firefox
 
