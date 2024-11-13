@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Scan de QR-koade mei jo Android-ap
 vpn-pricing-sign-up-on-your-mobile-device = Skriuw jo yn foar in { -brand-name-mozilla-vpn }-abonnemint op jo mobile apparaat
 vpn-pricing-sign-up-on-your-android-device = Skriuw jo yn foar in { -brand-name-mozilla-vpn }-abonnemint op jo Android-apparaat
 vpn-pricing-download-the-app = De app downloade
+vpn-pricing-transaction-may-be-in = * Transaksje kin yn lokale faluta wêze.
