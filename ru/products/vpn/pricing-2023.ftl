@@ -64,3 +64,4 @@ vpn-pricing-scan-qrcode-to-download-android = Чтобы загрузить пр
 vpn-pricing-sign-up-on-your-mobile-device = Оформите подписку на { -brand-name-mozilla-vpn } на своём мобильном устройстве
 vpn-pricing-sign-up-on-your-android-device = Оформите подписку на { -brand-name-mozilla-vpn } на своём Android-устройстве
 vpn-pricing-download-the-app = Загрузить приложение
+vpn-pricing-transaction-may-be-in = * Операция может быть в эквиваленте местной валюты.
