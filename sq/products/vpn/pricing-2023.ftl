@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Që të shkarkoni aplikacionin, sk
 vpn-pricing-sign-up-on-your-mobile-device = Regjistrohuni për një pajtim { -brand-name-mozilla-vpn } në pajisjen tuaj celulare
 vpn-pricing-sign-up-on-your-android-device = Regjistrohuni për një pajtim { -brand-name-mozilla-vpn } në pajisjen tuaj Android
 vpn-pricing-download-the-app = Shkarkoni aplikacionin
+vpn-pricing-transaction-may-be-in = * Transaksioni mund të jetë në të barasvlershmin e monedhës vendore.
