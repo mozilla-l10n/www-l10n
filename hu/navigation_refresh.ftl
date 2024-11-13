@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Rólunk
+navigation-refresh-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
 navigation-refresh-close-about-us-menu = Névjegy menü bezárása
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } kiáltvány
+navigation-refresh-mozilla-manifesto-v2 = A { -brand-name-mozilla } Kiáltvány
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Csatlakozzon
+navigation-refresh-get-involved-v2 = Csatlakozzon
 navigation-refresh-innovation-projects = Innovációs projektek
+navigation-refresh-innovation-projects-v2 = Innovációs projektek
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Küldetésünk
+navigation-refresh-our-work = A munkánk
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } MI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } vállalatok
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } hirdetés
 
 ## Firefox
 
