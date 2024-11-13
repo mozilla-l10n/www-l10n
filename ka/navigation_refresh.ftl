@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = ჩვენ შესახებ
+navigation-refresh-about-mozilla = { -brand-name-mozilla }-ს შესახებ
 navigation-refresh-close-about-us-menu = ჩვენს შესახებ მენიუს დახურვა
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-ს მანიფესტი
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } ძირითადი დებულებები
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = შემოგვიერთდით
+navigation-refresh-get-involved-v2 = შემოგვიერთდით
 navigation-refresh-innovation-projects = საინოვაციო პროექტები
+navigation-refresh-innovation-projects-v2 = საინოვაციო პროექტები
 navigation-refresh-blog = სვეტი
+navigation-refresh-our-mission = ჩვენი მიზანი
+navigation-refresh-our-work = ჩვენი ნამუშევარი
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla }-ს საწარმო
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } – სარეკლამო
 
 ## Firefox
 
