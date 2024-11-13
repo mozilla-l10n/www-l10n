@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = För att ladda ner appen, skanna Q
 vpn-pricing-sign-up-on-your-mobile-device = Registrera dig för en { -brand-name-mozilla-vpn }-prenumeration på din mobila enhet
 vpn-pricing-sign-up-on-your-android-device = Registrera dig för en { -brand-name-mozilla-vpn }-prenumeration på din Android-enhet
 vpn-pricing-download-the-app = Hämta appen
+vpn-pricing-transaction-may-be-in = * Transaktionen kan vara i motsvarande lokal valuta.
