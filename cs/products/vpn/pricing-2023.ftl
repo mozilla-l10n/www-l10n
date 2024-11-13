@@ -64,3 +64,4 @@ vpn-pricing-scan-qrcode-to-download-android = Pro stažení aplikace naskenujte 
 vpn-pricing-sign-up-on-your-mobile-device = Přihlaste si předplatné sítě { -brand-name-mozilla-vpn } na svém mobilním zařízení
 vpn-pricing-sign-up-on-your-android-device = Předplaťte si síť { -brand-name-mozilla-vpn } na svém zařízení s Androidem
 vpn-pricing-download-the-app = Stáhnout aplikaci
+vpn-pricing-transaction-may-be-in = * Transakce může být provedena v ekvivalentu v místní měně.
