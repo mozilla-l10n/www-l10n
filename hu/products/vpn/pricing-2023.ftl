@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Az alkalmazás letöltéséhez olv
 vpn-pricing-sign-up-on-your-mobile-device = Regisztráljon { -brand-name-mozilla-vpn }-előfizetést a mobileszközén
 vpn-pricing-sign-up-on-your-android-device = Regisztráljon { -brand-name-mozilla-vpn }-előfizetést az androidos eszközén
 vpn-pricing-download-the-app = Alkalmazás letöltése
+vpn-pricing-transaction-may-be-in = * A tranzakció helyi pénznemben is lehet.
