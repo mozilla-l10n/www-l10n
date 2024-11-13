@@ -73,3 +73,4 @@ vpn-pricing-scan-qrcode-to-download-android = I lwytho'r ap i lawr, sganiwch y C
 vpn-pricing-sign-up-on-your-mobile-device = Cofrestrwch ar gyfer tanysgrifiad { -brand-name-mozilla-vpn } ar eich dyfais symudol
 vpn-pricing-sign-up-on-your-android-device = Cofrestrwch ar gyfer tanysgrifiad { -brand-name-mozilla-vpn } ar eich dyfais Android
 vpn-pricing-download-the-app = Llwytho'r ap i lawr
+vpn-pricing-transaction-may-be-in = * Gall y trafodyn fod mewn arian lleol cyfatebol.
