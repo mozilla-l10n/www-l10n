@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = აპის ჩამოსატ
 vpn-pricing-sign-up-on-your-mobile-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს მობილურ მოწყობილობაზე
 vpn-pricing-sign-up-on-your-android-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს Android მოწყობილობაზე
 vpn-pricing-download-the-app = ჩამოტვირთეთ აპლიკაცია
+vpn-pricing-transaction-may-be-in = * ოპერაცია შეიძლება განხორციელდეს ადგილობრივ ვალუტაში.
