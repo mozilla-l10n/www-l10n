@@ -49,3 +49,4 @@ vpn-pricing-scan-qrcode-to-download-android = 앱을 다운로드하려면 Andro
 vpn-pricing-sign-up-on-your-mobile-device = 모바일 기기에서 { -brand-name-mozilla-vpn } 구독을 신청하세요.
 vpn-pricing-sign-up-on-your-android-device = Android 기기에서 { -brand-name-mozilla-vpn } 구독을 신청하세요.
 vpn-pricing-download-the-app = 앱 다운로드
+vpn-pricing-transaction-may-be-in = * 거래는 현지 통화로 진행될 수 있습니다.
