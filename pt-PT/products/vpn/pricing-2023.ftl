@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Para transferir a aplicação, dig
 vpn-pricing-sign-up-on-your-mobile-device = Registe-se para uma subscrição da { -brand-name-mozilla-vpn } no seu dispositivo móvel
 vpn-pricing-sign-up-on-your-android-device = Registe-se para uma subscrição da { -brand-name-mozilla-vpn } no seu dispositivo Android
 vpn-pricing-download-the-app = Transferir a aplicação
+vpn-pricing-transaction-may-be-in = * A transação pode ser equivalente na moeda local.
