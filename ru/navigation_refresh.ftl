@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = О нас
+navigation-refresh-about-mozilla = О { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Закрыть меню «О нас»
 navigation-refresh-mozilla-manifesto = Манифест { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Манифест { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Принять участие
+navigation-refresh-get-involved-v2 = Принять участие
 navigation-refresh-innovation-projects = Инновационные проекты
+navigation-refresh-innovation-projects-v2 = Инновационные проекты
 navigation-refresh-blog = Блог
+navigation-refresh-our-mission = Наша Миссия
+navigation-refresh-our-work = Наша работа
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } искусственного интеллекта
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Enterprise
+navigation-refresh-mozilla-advertising = Реклама { -brand-name-mozilla }
 
 ## Firefox
 
