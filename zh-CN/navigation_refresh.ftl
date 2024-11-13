@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = 关于我们
+navigation-refresh-about-mozilla = 关于 { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = 关闭关于我们菜单
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } 宣言
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } 宣言
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 参与进来
+navigation-refresh-get-involved-v2 = 参与进来
 navigation-refresh-innovation-projects = 创新项目
+navigation-refresh-innovation-projects-v2 = 创新项目
 navigation-refresh-blog = 博客
+navigation-refresh-our-mission = 我们的使命
+navigation-refresh-our-work = 我们的作品
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } 风险投资
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 广告
 
 ## Firefox
 
