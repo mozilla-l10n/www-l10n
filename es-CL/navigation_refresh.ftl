@@ -19,6 +19,9 @@ navigation-refresh-innovation-projects-v2 = Proyectos de innovación
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Nuestra misión
 navigation-refresh-our-work = Nuestro trabajo
+navigation-refresh-mozilla-ai = IA en { -brand-name-mozilla }
+navigation-refresh-mozilla-ventures = Emprendimientos en { -brand-name-mozilla }
+navigation-refresh-mozilla-advertising = Publicidad en { -brand-name-mozilla }
 
 ## Firefox
 
