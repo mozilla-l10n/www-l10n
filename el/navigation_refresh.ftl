@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Σχετικά με εμάς
+navigation-refresh-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Κλείσιμο του μενού «Σχετικά με εμάς»
 navigation-refresh-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Η Διακήρυξη της { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Συμμετοχή
+navigation-refresh-get-involved-v2 = Συμμετοχή
 navigation-refresh-innovation-projects = Έργα καινοτομίας
+navigation-refresh-innovation-projects-v2 = Έργα καινοτομίας
 navigation-refresh-blog = Ιστολόγιο
+navigation-refresh-our-mission = Η αποστολή μας
+navigation-refresh-our-work = Το έργο μας
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
 
 ## Firefox
 
