@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = 소개
+navigation-refresh-about-mozilla = { -brand-name-mozilla } 소개
 navigation-refresh-close-about-us-menu = 소개 메뉴 닫기
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } 선언문
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } 선언문
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 참여하기
+navigation-refresh-get-involved-v2 = 참여하기
 navigation-refresh-innovation-projects = 혁신 프로젝트
+navigation-refresh-innovation-projects-v2 = 혁신 프로젝트
 navigation-refresh-blog = 블로그
+navigation-refresh-our-mission = 사명
+navigation-refresh-our-work = 주요 업무
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } 벤처스
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 광고
 
 ## Firefox
 
