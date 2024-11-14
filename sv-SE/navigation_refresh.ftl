@@ -10,6 +10,7 @@ navigation-refresh-about-us = Om oss
 navigation-refresh-about-mozilla = Om { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Stäng menyn Om oss
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } manifest
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla }-manifestet
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Engagera dig
 navigation-refresh-get-involved-v2 = Engagera dig
