@@ -7,12 +7,18 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = O nas
+navigation-refresh-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
 navigation-refresh-close-about-us-menu = Zapri meni O nas
 navigation-refresh-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
+navigation-refresh-mozilla-manifesto-v2 = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Pridružite se
+navigation-refresh-get-involved-v2 = Pridružite se
 navigation-refresh-innovation-projects = Inovacijski projekti
+navigation-refresh-innovation-projects-v2 = Inovacijski projekti
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Naše poslanstvo
+navigation-refresh-our-work = Naše delo
 
 ## Firefox
 
