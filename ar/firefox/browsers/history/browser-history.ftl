@@ -39,7 +39,7 @@ browser-history-the-browser-wars = حروب المُتصفحات
 browser-history-by-1995-netscape = بحلول عام 1995، لم يَعُد Navigator { -brand-name-netscape } المتصفح الوحيد أو الطريقة الفريدة للاتصال بالإنترنت. فقد اعتمدت شركة برامج الكمبيوتر العملاقة { -brand-name-microsoft } تشفير متصفح Mosaic القديم وأنشأت مُتصفحها الخاص، <a href="{ $ie }">{ -brand-name-ie }</a>. وقد أشعل هذا المُتصفح فتيل الحرب بين الشركات. فبذلت كلٌ من شركة { -brand-name-netscape } وشركة { -brand-name-microsoft } قصارى جهودها لإنشاء إصدارات جديدة من برامجها، وحاولت كلٌ منهما التفوق على الأخرى بمنتجات أسرع وأفضل.
 
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = طوَّرت شركة { -brand-name-netscape } لغة JavaScript وأصدرتها، مما منح مواقع الويب إمكانات حوسبة قوية لم تكن موجودة من قبل. (كما أنشأت عنصر <a href="{ $blink }">&lt;blink&gt; tag</a> سيء السمعة.) وقد ردَّت شركة { -brand-name-microsoft } على هذا بتصميمها للغة أوراق الأنماط المتتالية (CSS)، التي أصبحت المعيار الأساسي لتصميم صفحات الويب.
 
 # Variables:

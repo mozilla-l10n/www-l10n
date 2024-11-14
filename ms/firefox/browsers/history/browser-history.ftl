@@ -39,7 +39,7 @@ browser-history-the-browser-wars = Peperangan Pelayar
 browser-history-by-1995-netscape = Menjelang tahun 1995, { -brand-name-netscape } Navigator bukan satu-satunya cara untuk masuk ke dalam talian. Gergasi perisian komputer { -brand-name-microsoft } telah melesenkan kod Mosaic dan membina tetingkapnya sendiri ke web iaitu <a href="{ $ie }">{ -brand-name-ie }</a>. Keluaran tersebut mencetuskan peperangan. { -brand-name-netscape } dan { -brand-name-microsoft } bekerja keras untuk membuat versi baru program mereka, masing-masing cuba mengatasi yang lain dengan produk yang lebih pantas dan lebih baik.
 
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } mencipta dan mengeluarkan JavaScript, yang memberikan keupayaan pengkomputeran yang kuat kepada laman web yang tidak pernah mereka miliki sebelumnya. (Mereka juga membuat <a href="{ $blink }">tag &lt;blink&gt;</a> yang terkenal.) { -brand-name-microsoft } membalas dengan Cascading Style Sheets (CSS), yang menjadi standard untuk reka bentuk halaman web.
 
 # Variables:

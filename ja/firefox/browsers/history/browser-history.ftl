@@ -39,7 +39,7 @@ browser-history-the-browser-wars = ブラウザー戦争
 browser-history-by-1995-netscape = 1995 年までには、オンラインに繋がる方法は { -brand-name-netscape } Navigator だけではなくなっていました。巨大コンピューターソフトウェア会社である { -brand-name-microsoft } は Mosaic の古いコードをライセンスし、独自のウェブへの窓、<a href="{ $ie }">{ -brand-name-ie }</a> を構築しました。このリリースによって戦争の火蓋が切られました。{ -brand-name-netscape } と { -brand-name-microsoft } はそれぞれのプログラムの新バージョンを作るために尽力し、そのたびにより高速で優れた製品で抜きつ抜かれつの競争を展開しました。
 
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } は JavaScript を開発、リリースしました。これによってウェブサイトはかつてない強力なコンピューティング能力を手にしました。(悪名高い <a href="{ $blink }">&lt;blink&gt; tag</a> も開発しました。) { -brand-name-microsoft } はカスケーディング・スタイル・シート (CSS) で対抗し、これがウェブページデザインの標準となりました。
 
 # Variables:

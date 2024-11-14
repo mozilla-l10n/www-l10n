@@ -39,7 +39,7 @@ browser-history-the-browser-wars = Persaingan Peramban
 browser-history-by-1995-netscape = Pada 1995, { -brand-name-netscape } Navigator bukan satu-satunya cara untuk daring. Raksasa perangkat lunak komputer { -brand-name-microsoft } melisensikan kode Mosaic lama dan membangun jendelanya sendiri ke web, <a href="{ $ie }">{ -brand-name-ie }</a>. Upaya itu memicu persaingan ketat. { -brand-name-netscape } dan { -brand-name-microsoft } bekerja maksimal untuk membuat versi baru dari program mereka, berusaha saling mengalahkan dengan produk yang lebih cepat dan lebih baik.
 
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } membuat dan merilis JavaScript yang memberi situs web kemampuan komputasi canggih yang belum pernah mereka miliki sebelumnya. (Mereka juga membuat <a href="{ $blink }">tag &lt;blink&gt; yang</a> terkenal.) { -brand-name-microsoft } disusul Cascading Style Sheets (CSS), yang menjadi standar untuk desain halaman web.
 
 # Variables:
