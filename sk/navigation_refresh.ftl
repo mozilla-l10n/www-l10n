@@ -7,12 +7,19 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = O nás
+navigation-refresh-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 navigation-refresh-close-about-us-menu = Zavrieť ponuku O nás
 navigation-refresh-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+navigation-refresh-mozilla-manifesto-v2 = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Zapojte sa
+navigation-refresh-get-involved-v2 = Zapojte sa
 navigation-refresh-innovation-projects = Inovačné projekty
+navigation-refresh-innovation-projects-v2 = Inovačné projekty
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Naša misia
+navigation-refresh-our-work = Naša práca
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 
 ## Firefox
 
