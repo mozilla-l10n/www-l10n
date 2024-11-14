@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = نبذة عنّا
+navigation-refresh-about-mozilla = نبذة عن { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = إغلاق قائمة "نبذة عنا"
 navigation-refresh-mozilla-manifesto = بيان { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = بيان { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = اشترك
+navigation-refresh-get-involved-v2 = شارِك
 navigation-refresh-innovation-projects = المشاريع المبتكرة
+navigation-refresh-innovation-projects-v2 = مشاريع الابتكار
 navigation-refresh-blog = المدوّنة
+navigation-refresh-our-mission = مهمّتنا
+navigation-refresh-our-work = عملُنا
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } الذكاء الاصطناعي
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } المشاريع
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } للإعلانات
 
 ## Firefox
 
@@ -30,7 +39,9 @@ navigation-refresh-firefox-blog = مدوّنة { -brand-name-firefox }
 
 navigation-refresh-products = المنتجات
 navigation-refresh-close-products-menu = أغلِق قائمة "المنتجات"
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
