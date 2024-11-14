@@ -7,6 +7,7 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Om oss
+navigation-refresh-about-mozilla = Om { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Stäng menyn Om oss
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } manifest
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
