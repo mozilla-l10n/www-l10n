@@ -17,10 +17,10 @@ navigation-refresh-get-involved-v2 = Принять участие
 navigation-refresh-innovation-projects = Инновационные проекты
 navigation-refresh-innovation-projects-v2 = Инновационные проекты
 navigation-refresh-blog = Блог
-navigation-refresh-our-mission = Наша Миссия
+navigation-refresh-our-mission = Наша миссия
 navigation-refresh-our-work = Наша работа
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } искусственного интеллекта
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Enterprise
+navigation-refresh-mozilla-ai = ИИ { -brand-name-mozilla }
+navigation-refresh-mozilla-ventures = Предприятия { -brand-name-mozilla }
 navigation-refresh-mozilla-advertising = Реклама { -brand-name-mozilla }
 
 ## Firefox
