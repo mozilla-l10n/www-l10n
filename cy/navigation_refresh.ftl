@@ -15,13 +15,13 @@ navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ymunwch
 navigation-refresh-get-involved-v2 = Ymunwch
 navigation-refresh-innovation-projects = Projectau arloesi
-navigation-refresh-innovation-projects-v2 = Prosiectau Arloesedd
+navigation-refresh-innovation-projects-v2 = Projectau Arloesedd
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Ein Cenhadaeth
 navigation-refresh-our-work = Ein Gwaith
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
-navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Mentrau
-navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Hysbysebu
+navigation-refresh-mozilla-ai = AI { -brand-name-mozilla }
+navigation-refresh-mozilla-ventures = Mentrau { -brand-name-mozilla }
+navigation-refresh-mozilla-advertising = Hysbysebu { -brand-name-mozilla }
 
 ## Firefox
 
