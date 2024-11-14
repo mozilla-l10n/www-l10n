@@ -12,8 +12,15 @@ navigation-refresh-close-about-us-menu = Stäng menyn Om oss
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } manifest
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Engagera dig
+navigation-refresh-get-involved-v2 = Engagera dig
 navigation-refresh-innovation-projects = Innovationsprojekt
+navigation-refresh-innovation-projects-v2 = Innovationsprojekt
 navigation-refresh-blog = Blogg
+navigation-refresh-our-mission = Vårt uppdrag
+navigation-refresh-our-work = Vårt arbete
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Annonsering
 
 ## Firefox
 
