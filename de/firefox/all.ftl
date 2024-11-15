@@ -109,3 +109,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } für iOS TestFlight
+firefox-all-download-esr-115 = Lade ESR 115 herunter
+firefox-all-note-unsupported = Hinweis: Wenn du Windows 7, Windows 8, Windows 8.1 oder macOS 10.12, 10.13 oder 10.14 verwendest, lade bitte ESR 115 herunter, um { -brand-name-firefox } zu nutzen.
