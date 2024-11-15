@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Over ons
+navigation-refresh-about-mozilla = Over { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Menu Over ons sluiten
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifest
+navigation-refresh-mozilla-manifesto-v2 = Het { -brand-name-mozilla }-manifest
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Meewerken
+navigation-refresh-get-involved-v2 = Meewerken
 navigation-refresh-innovation-projects = Innovatieprojecten
+navigation-refresh-innovation-projects-v2 = Innovatieprojecten
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Onze missie
+navigation-refresh-our-work = Ons werk
+navigation-refresh-mozilla-ai = { -brand-name-mozilla }-AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla }-ondernemingen
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla }-advertenties
 
 ## Firefox
 
