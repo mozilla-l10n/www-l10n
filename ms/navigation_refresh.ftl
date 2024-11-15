@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Tentang kami
+navigation-refresh-about-mozilla = Tentang { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Tutup menu Tentang Kami
 navigation-refresh-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Manifesto { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Libatkan diri
+navigation-refresh-get-involved-v2 = Libatkan diri
 navigation-refresh-innovation-projects = Projek Inovasi
+navigation-refresh-innovation-projects-v2 = Projek Inovasi
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Misi Kami
+navigation-refresh-our-work = Bidang Kami
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
 
 ## Firefox
 
@@ -30,7 +39,9 @@ navigation-refresh-firefox-blog = Blog { -brand-name-firefox }
 
 navigation-refresh-products = Produk
 navigation-refresh-close-products-menu = Tutup menu Produk
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
