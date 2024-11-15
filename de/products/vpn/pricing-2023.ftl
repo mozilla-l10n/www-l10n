@@ -70,3 +70,4 @@ vpn-pricing-scan-qrcode-to-download-android = Scanne den QR-Code mit deinem Andr
 vpn-pricing-sign-up-on-your-mobile-device = Melde dich mit deinem Smartphone für ein { -brand-name-mozilla-vpn } Abonnement an
 vpn-pricing-sign-up-on-your-android-device = Melde dich mit deinem Android-Gerät für ein { -brand-name-mozilla-vpn }-Abonnement an
 vpn-pricing-download-the-app = App downloaden
+vpn-pricing-transaction-may-be-in = *Die Zahlung kann in der entsprechenden Landeswährung durchgeführt werden.
