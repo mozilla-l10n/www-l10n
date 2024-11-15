@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = À propos de nous
+navigation-refresh-about-mozilla = À propos de { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Fermer le menu À propos de nous
 navigation-refresh-mozilla-manifesto = Manifeste de { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Le Manifeste { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Contribuer
+navigation-refresh-get-involved-v2 = Participer
 navigation-refresh-innovation-projects = Projets d’innovation
+navigation-refresh-innovation-projects-v2 = Projets d’innovation
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Notre mission
+navigation-refresh-our-work = Notre travail
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } IA
+navigation-refresh-mozilla-ventures = Projets { -brand-name-mozilla }
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } publicité
 
 ## Firefox
 
@@ -30,7 +39,9 @@ navigation-refresh-firefox-blog = Blog de { -brand-name-firefox }
 
 navigation-refresh-products = Produits
 navigation-refresh-close-products-menu = Fermer le menu Produits
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
