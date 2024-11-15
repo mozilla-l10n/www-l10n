@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Mozilla について
+navigation-refresh-about-mozilla = { -brand-name-mozilla } について
 navigation-refresh-close-about-us-menu = 会社概要メニューを閉じる
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } のマニフェスト
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } のマニフェスト
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = 参加する
+navigation-refresh-get-involved-v2 = 参加する
 navigation-refresh-innovation-projects = イノベーションプロジェクト
+navigation-refresh-innovation-projects-v2 = イノベーションプロジェクト
 navigation-refresh-blog = ブログ
+navigation-refresh-our-mission = Mozilla のミッションを読む
+navigation-refresh-our-work = Mozilla の活動
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } ベンチャー
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 広告
 
 ## Firefox
 
@@ -30,7 +39,9 @@ navigation-refresh-firefox-blog = { -brand-name-firefox } のブログ
 
 navigation-refresh-products = 製品
 navigation-refresh-close-products-menu = 製品メニューを閉じる
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
