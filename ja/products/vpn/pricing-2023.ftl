@@ -67,3 +67,4 @@ vpn-pricing-scan-qrcode-to-download-android = アプリをダウンロードす�
 vpn-pricing-sign-up-on-your-mobile-device = モバイルデバイスで { -brand-name-mozilla-vpn } のサブスクリプションに登録
 vpn-pricing-sign-up-on-your-android-device = Android デバイスで { -brand-name-mozilla-vpn } のサブスクリプションに登録
 vpn-pricing-download-the-app = アプリをダウンロード
+vpn-pricing-transaction-may-be-in = * 取引は現地通貨建てとなる場合があります。
