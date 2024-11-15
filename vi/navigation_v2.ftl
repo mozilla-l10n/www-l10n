@@ -50,7 +50,7 @@ navigation-v2-use-ai-to-detect = Sử dụng AI để phát hiện các đánh g
 
 ## Who We Are menu
 
-navigation-v2-who-we-are = Chúng ta là ai
+navigation-v2-who-we-are = Chúng tôi là ai
 navigation-v2-close-who-we-are-menu = Đóng menu Chúng tôi là ai
 navigation-v2-mozilla-manifesto = Tuyên ngôn { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Tìm hiểu về các giá trị và nguyên tắc định hướng sứ mệnh của chúng tôi.

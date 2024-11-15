@@ -11,36 +11,26 @@ home-mission-driven = Định hướng theo sứ mệnh. Được hỗ trợ b�
 home-were-not-normal = Chúng tôi không phải là một công ty công nghệ bình thường. Những thứ chúng tôi tạo ra ưu tiên con người và quyền riêng tư của họ hơn lợi nhuận. Chúng tôi tồn tại để biến Internet thành một nơi lành mạnh hơn, hạnh phúc hơn cho mọi người.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “Sức khỏe của Internet và cuộc sống trực tuyến là lý do chúng tôi tồn tại.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Chủ tịch Hội đồng quản trị, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } tạo ra các sản phẩm tôn trọng quyền riêng tư
 home-product-firefox-browsing = Duyệt web riêng tư & an toàn
 home-cta-get-firefox = Tải { -brand-name-firefox }
 home-product-pocket-articles = Các bài viết hấp dẫn nhất trên web
 home-cta-get-pocket = Sử dụng { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Mặt nạ email & điện thoại dễ sử dụng
 home-product-relay-hide-your = Ẩn số điện thoại và email của bạn khỏi những kẻ gửi thư rác
 home-cta-get-relay = Sử dụng { -brand-name-relay }
 home-product-vpn-trust = VPN bạn có thể tin cậy
 home-cta-get-vpn = Tải { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Cảnh báo rò rỉ dữ liệu
 home-product-monitor-protect-your = Bảo vệ thông tin cá nhân của bạn khỏi các nhà môi giới dữ liệu
 home-cta-get-monitor = Sử dụng { -brand-name-monitor }
 home-product-fakespot-detect = Phát hiện đánh giá mua sắm giả mạo
-home-cta-get-fakespot = Nhận { -brand-name-fakespot }
+home-cta-get-fakespot = Sử dụng { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } đang đặt cược để cho thế giới thấy rằng có một công việc kinh doanh được thực hiện bằng AI đáng tin cậy. Điều đó bao gồm việc đặt những thứ như nhân quyền, bảo vệ dữ liệu và tính minh bạch làm cốt lõi trong cách thức hoạt động của các hệ thống phức tạp này.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Hãy cùng chúng tôi định hình AI đáng tin cậy
 home-work-on-ai = Công việc của { -brand-name-mozilla } với AI không chỉ là một điều mới—chúng tôi đã dành nhiều năm tài trợ, xây dựng và ủng hộ AI cởi mở, công bằng và phát triển có trách nhiệm. Trọng tâm của chúng tôi là tạo ra AI phục vụ mọi người, ưu tiên tính minh bạch và hỗ trợ lợi ích chung chứ không phải các chương trình nghị sự của công ty.
 home-read-more = Xem thêm
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = { -brand-name-mozilla } là một công ty hay một tổ chức phi lợi nhuận? Trên thực tế, cả hai.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } bao gồm hai tổ chức. { -brand-name-mozilla-corporation } hoàn toàn thuộc sở hữu của tổ chức phi lợi nhuận 501(c) { -brand-name-mozilla-foundation }. Điều đó có nghĩa là chúng tôi không đi theo bất kỳ cổ đông nào — chỉ vì sứ mệnh của chúng tôi.
 home-so-what-is-mozilla = Vậy, { -brand-name-mozilla } là gì?
 # Variables
 #   $ventures - link to https://mozilla.vc/
@@ -55,8 +45,6 @@ home-the-mozilla-project = Dự án { -brand-name-mozilla } được thành lậ
 home-eventually-the-open = Cuối cùng, dự án mã nguồn mở { -brand-name-mozilla } đã biến thành phiên bản đầu tiên cực kỳ phổ biến của { -brand-name-firefox }.
 home-today-mozilla-continues = Ngày nay, { -brand-name-mozilla } tiếp tục hành trình hướng tới một mạng Internet tốt hơn với hàng triệu thành viên cộng đồng tích cực trên toàn cầu, ủng hộ công nghệ có đạo đức, AI đáng tin cậy và sản xuất các sản phẩm ưu tiên quyền riêng tư mang lại nhiều quyền lực hơn cho mọi người.
 home-learn-more-about-mozilla = Tìm hiểu thêm về { -brand-name-mozilla }
-home-get-good-news = Nhận tin tức (tốt) về { -brand-name-mozilla }
-home-get-news-and-tips = Nhận tin tức và mẹo từ { -brand-name-mozilla } để luôn an toàn và được thông báo về mọi thứ giúp web trở thành một nơi lành mạnh hơn.
 # VPN Feature
 home-featured-product = Sản phẩm nổi bật
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

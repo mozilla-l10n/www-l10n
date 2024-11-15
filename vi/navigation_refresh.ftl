@@ -20,6 +20,7 @@ navigation-refresh-blog = Nhật ký
 navigation-refresh-our-mission = Sứ mệnh của chúng tôi
 navigation-refresh-our-work = Công việc của chúng tôi
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-advertising = Quảng cáo với { -brand-name-mozilla }
 
 ## Firefox
