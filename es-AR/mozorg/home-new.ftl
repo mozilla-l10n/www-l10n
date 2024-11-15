@@ -11,23 +11,17 @@ home-mission-driven = Impulsado por la misión. Impulsado por la gente.
 home-were-not-normal = No somos una empresa tecnológica normal. Las cosas que creamos priorizan a las personas y su privacidad sobre las ganancias. Existimos para hacer de Internet un lugar más saludable y feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “La salud de Internet y la vida en línea es la razón por la que existimos”.
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO de { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Presidente Ejecutiva de la Junta, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } hace productos que respetan la privacidad
 home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Conseguí { -brand-name-firefox }
 home-product-pocket-articles = Los artículos más intrigantes de la web
 home-cta-get-pocket = Conseguí { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Máscaras de correo electrónico y teléfono fáciles de usar
 home-product-relay-hide-your = Ocultá tu número de teléfono y correo electrónico de los spammers
 home-cta-get-relay = Conseguí { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que podés confiar
 home-cta-get-vpn = Conseguí { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Alertas de filtración de datos
-home-product-monitor-protect-your = Protegé tu información privada de los corredores de datos
+home-product-monitor-protect-your = Protegé tu información privada de los traficantes de datos
 home-cta-get-monitor = Conseguí { -brand-name-monitor }
 home-product-fakespot-detect = Detectá comentarios falsos sobre compras
 home-cta-get-fakespot = Obtener { -brand-name-fakespot }
@@ -37,10 +31,6 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Unite a nosotros para moldear una IA confiable
 home-work-on-ai = El trabajo de { -brand-name-mozilla } con la IA no es solo algo nuevo: hemos pasado años financiando, construyendo y abogando por una IA que sea abierta, justa y se desarrolle de manera responsable. Nuestro enfoque está en crear una IA que esté al servicio de la gente, priorice la transparencia y apoye el bien público, no las agendas corporativas.
 home-read-more = Leer más
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = ¿{ -brand-name-mozilla } es una corporación o una organización sin fines de lucro? De hecho, ambas.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad total de la { -brand-name-mozilla-foundation } sin fines de lucro 501 (c). Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
 home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
@@ -55,8 +45,6 @@ home-the-mozilla-project = El proyecto { -brand-name-mozilla } fue fundado en Sa
 home-eventually-the-open = Con el tiempo, el proyecto de código abierto { -brand-name-mozilla } se transformó en la primera versión muy popular de { -brand-name-firefox }.
 home-today-mozilla-continues = Hoy en día, { -brand-name-mozilla } continúa su movimiento hacia una mejor Internet con millones de miembros activos de la comunidad repartidos por todo el mundo, que abogan por tecnología ética, una IA confiable y producen productos que priorizan la privacidad y que brindan más poder a las personas.
 home-learn-more-about-mozilla = Conocé más sobre { -brand-name-mozilla }
-home-get-good-news = Recibí (buenas) noticias de { -brand-name-mozilla }
-home-get-news-and-tips = Recibí noticias y consejos de { -brand-name-mozilla } para mantenerte seguro e informado sobre todo lo que hace de la web un lugar más saludable.
 # VPN Feature
 home-featured-product = Producto destacado
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
