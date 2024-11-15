@@ -49,3 +49,4 @@ vpn-pricing-scan-qrcode-to-download-android = Để tải xuống ứng dụng, 
 vpn-pricing-sign-up-on-your-mobile-device = Đăng ký gói { -brand-name-mozilla-vpn } trên thiết bị di động của bạn
 vpn-pricing-sign-up-on-your-android-device = Đăng ký gói { -brand-name-mozilla-vpn } trên thiết bị Android của bạn
 vpn-pricing-download-the-app = Tải xuống ứng dụng
+vpn-pricing-transaction-may-be-in = * Giao dịch có thể bằng nội tệ tương đương.
