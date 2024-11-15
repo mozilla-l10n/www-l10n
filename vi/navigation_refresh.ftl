@@ -7,12 +7,19 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Về chúng tôi
+navigation-refresh-about-mozilla = Giới thiệu { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Đóng mục Về chúng tôi
 navigation-refresh-mozilla-manifesto = Tuyên ngôn { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Tuyên ngôn { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Tham gia đóng góp
+navigation-refresh-get-involved-v2 = Tham gia
 navigation-refresh-innovation-projects = Những dự án sáng tạo
+navigation-refresh-innovation-projects-v2 = Những dự án sáng tạo
 navigation-refresh-blog = Nhật ký
+navigation-refresh-our-mission = Sứ mệnh của chúng tôi
+navigation-refresh-our-work = Công việc của chúng tôi
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 
 ## Firefox
 
