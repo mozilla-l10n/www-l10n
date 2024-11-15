@@ -67,3 +67,4 @@ vpn-pricing-scan-qrcode-to-download-android = Untuk muat turun aplikasi ini, imb
 vpn-pricing-sign-up-on-your-mobile-device = Daftar untuk langganan { -brand-name-mozilla-vpn } menerusi peranti mudah alih anda
 vpn-pricing-sign-up-on-your-android-device = Daftar untuk langganan { -brand-name-mozilla-vpn } pada peranti mudah alih anda
 vpn-pricing-download-the-app = Muat turun aplikasi
+vpn-pricing-transaction-may-be-in = * Boleh berurus niaga dalam mata wang tempatan yang setaraf.

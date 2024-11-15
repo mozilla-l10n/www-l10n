@@ -67,3 +67,4 @@ vpn-pricing-scan-qrcode-to-download-android = Untuk mengunduh aplikasinya, pinda
 vpn-pricing-sign-up-on-your-mobile-device = Daftar untuk berlangganan { -brand-name-mozilla-vpn } di perangkat seluler Anda
 vpn-pricing-sign-up-on-your-android-device = Daftar untuk berlangganan { -brand-name-mozilla-vpn } di perangkat Android Anda
 vpn-pricing-download-the-app = Unduh aplikasi
+vpn-pricing-transaction-may-be-in = * Transaksi mungkin disesuaikan dengan nilai mata uang lokal.
