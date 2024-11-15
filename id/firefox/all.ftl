@@ -109,3 +109,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Unduh ESR 115
+firefox-all-note-unsupported = Catatan: Jika Anda menggunakan Windows 7, Windows 8, Windows 8.1, atau macOS 10.12, 10.13 atau 10.14, maka silakan unduh ESR 115 agar dapat menggunakan { -brand-name-firefox }.

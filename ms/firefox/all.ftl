@@ -109,3 +109,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = TestFlight { -brand-name-firefox } iOS
+firefox-all-download-esr-115 = Muat turun ESR 115
+firefox-all-note-unsupported = Peringatan: Jika anda menggunakan Windows 7, Windows 8, Windows 8.1 atau macOS 10.12, 10.13 atau 10.14, maka sila muat turun ESR 115 untuk menggunakan { -brand-name-firefox }.
