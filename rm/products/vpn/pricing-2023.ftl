@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Per telechargiar l’app, scannesc
 vpn-pricing-sign-up-on-your-mobile-device = Abunescha { -brand-name-mozilla-vpn } sin tes apparat mobil
 vpn-pricing-sign-up-on-your-android-device = Abunescha { -brand-name-mozilla-vpn } sin tes apparat Android
 vpn-pricing-download-the-app = Telechargiar l’app
+vpn-pricing-transaction-may-be-in = * La transacziun succeda eventualmain en l’equivalent en la valuta locala.
