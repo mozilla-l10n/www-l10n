@@ -19,6 +19,9 @@ navigation-refresh-innovation-projects-v2 = Inovacijski projekti
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naše poslanstvo
 navigation-refresh-our-work = Naše delo
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } UI
+navigation-refresh-mozilla-ventures = Podvigi { -brand-name-mozilla(sklon: "rodilnik") }
+navigation-refresh-mozilla-advertising = Oglaševanje pri { -brand-name-mozilla(sklon: "mestnik") }
 
 ## Firefox
 
