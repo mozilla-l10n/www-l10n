@@ -119,7 +119,7 @@
 -brand-name-mozilla-accounts = Mozilla 账户
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
--brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-mozilla-ventures = Mozilla 创业投资
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
