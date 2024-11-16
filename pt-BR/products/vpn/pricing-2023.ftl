@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Para baixar o aplicativo, capture 
 vpn-pricing-sign-up-on-your-mobile-device = Cadastre-se para assinar o { -brand-name-mozilla-vpn } e usar em seu dispositivo móvel
 vpn-pricing-sign-up-on-your-android-device = Cadastre-se para assinar o { -brand-name-mozilla-vpn } e usar em seu dispositivo Android
 vpn-pricing-download-the-app = Baixe o aplicativo
+vpn-pricing-transaction-may-be-in = * A transação pode ser no equivalente em moeda local.
