@@ -7,12 +7,19 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Sobre nós
+navigation-refresh-about-mozilla = Informações sobre a { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Fechar o menu de Sobre nós
 navigation-refresh-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Manifesto { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Participe
+navigation-refresh-get-involved-v2 = Envolva-se
 navigation-refresh-innovation-projects = Projetos de inovação
+navigation-refresh-innovation-projects-v2 = Projetos de inovação
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Nossa missão
+navigation-refresh-our-work = Nosso trabalho
+navigation-refresh-mozilla-ai = Inteligência artificial da { -brand-name-mozilla }
 
 ## Firefox
 
