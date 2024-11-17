@@ -7,12 +7,19 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = O nas
+navigation-refresh-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 navigation-refresh-close-about-us-menu = Zamknij menu Mozilli
 navigation-refresh-mozilla-manifesto = Manifest { -brand-name-mozilla(case: "gen") }
+navigation-refresh-mozilla-manifesto-v2 = Manifest { -brand-name-mozilla(case: "gen") }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Dołącz do nas
+navigation-refresh-get-involved-v2 = Dołącz do nas
 navigation-refresh-innovation-projects = Projekty w zakresie innowacji
+navigation-refresh-innovation-projects-v2 = Projekty w zakresie innowacji
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Nasza misja
+navigation-refresh-our-work = Nad czym pracujemy
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 
 ## Firefox
 
@@ -30,9 +37,7 @@ navigation-refresh-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 
 navigation-refresh-products = Produkty
 navigation-refresh-close-products-menu = Zamknij menu produktów
-navigation-refresh-mozilla-monitor = { -brand-name-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
-navigation-refresh-mozilla-vpn = { -brand-name-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
