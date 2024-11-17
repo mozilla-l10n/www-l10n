@@ -20,6 +20,8 @@ navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naša misia
 navigation-refresh-our-work = Naša práca
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = Reklama v { -brand-name-mozilla(case: "loc") }
 
 ## Firefox
 
