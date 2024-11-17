@@ -20,6 +20,8 @@ navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Nasza misja
 navigation-refresh-our-work = Nad czym pracujemy
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = Reklama w { -brand-name-mozilla(case: "loc") }
 
 ## Firefox
 
@@ -37,7 +39,9 @@ navigation-refresh-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 
 navigation-refresh-products = Produkty
 navigation-refresh-close-products-menu = Zamknij menu produktów
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
