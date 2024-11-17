@@ -21,7 +21,7 @@ navigation-refresh-our-mission = Naše mise
 navigation-refresh-our-work = Naše práce
 navigation-refresh-mozilla-ai = Umělá inteligence { -brand-name-mozilla(case: "gen") }
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
-navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Reklama
+navigation-refresh-mozilla-advertising = Reklama ve { -brand-name-mozilla(case: "loc") }
 
 ## Firefox
 
