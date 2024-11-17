@@ -8,6 +8,7 @@
 firefox-channel-desktop = Мизи корӣ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
+firefox-channel-see-something-that-isnt-working = Чизеро мебинед, ки кор намекунад? Ба мо хабар диҳед.
 firefox-channel-file-a-bug-now = Гузориши фаврӣ дар бораи хато
 firefox-channel-tips-for-filing-a-bug = Маслиҳатҳо барои таҳия кардани гузориш дар бораи хатоҳо
 firefox-channel-all-languages-and-platforms = Ҳамаи забонҳо ва платформаҳо
