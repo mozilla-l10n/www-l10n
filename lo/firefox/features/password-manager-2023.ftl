@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
 password-manager-no-more-reusing-your-passwords = ບໍ່ຕ້ອງໃຊ້ລະຫັດຜ່ານຂອງທ່ານຄືນໃໝ່
