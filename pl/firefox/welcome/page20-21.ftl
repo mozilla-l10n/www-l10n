@@ -28,4 +28,6 @@ welcome-page20-21-how-to-back-up = Jak wykonać kopię zapasową
 welcome-page20-21-keep-using = Nadal korzystaj ze swoich ulubionych funkcji
 welcome-page20-21-does-the-latest = Czy najnowszy { -brand-name-firefox } nie ma funkcji, którą lubisz? Spróbuj znaleźć dodatek, który ją zapewni.
 welcome-page20-21-search-add-ons = Wyszukaj dodatki
-welcome-page20-21-talk-to-us = Skontaktuj się z nami
+welcome-page20-21-talk-to-us = Odezwij się do nas
+welcome-page20-21-firefox-support-community = Społeczność wsparcia { -brand-name-firefox(case: "gen") } chętnie pomoże Ci rozwiązać problemy.
+welcome-page20-21-get-in-touch = Skontaktuj się z nami
