@@ -7,7 +7,7 @@
 
 features-shared-firefox-features = התכונות של { -brand-name-firefox }
 features-shared-footer-cta-title = לעשות יותר עם { -brand-name-firefox }
-features-shared-footer-cta-desc = קבלו את הדפדפן המהיר, הקל וממוקד הפרטיות שמגובה על־ידי עמודה שאינה למטרות רווח ועובד בכל המכשירים שלכם.
+features-shared-footer-cta-desc = קבלו את הדפדפן המהיר, הקל וממוקד הפרטיות שמגובה על־ידי עמותה שאינה למטרות רווח ועובד בכל המכשירים שלכם.
 features-shared-footer-cta-button = הורדת { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = האם { -brand-name-firefox } דפדפן מהיר?
 features-shared-is-firefox-a-private-browser = האם { -brand-name-firefox } דפדפן פרטי?
