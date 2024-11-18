@@ -5,7 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+# Meta strings
+vpn-mobile-page-title = «{ -brand-name-mozilla-vpn }» барои дастгоҳи мобилӣ (смартфонҳо ва планшетҳо)
 vpn-mobile-about-headline = Дар бораи «{ -brand-name-mozilla }»
+vpn-mobile-servers-headline = Ба серверҳо дар саросари ҷаҳон пайваст шавед
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
