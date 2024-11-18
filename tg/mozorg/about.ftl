@@ -7,6 +7,8 @@
 
 # HTML Page title
 about-learn-about-mozilla = Маълумот дар бораи «{ -brand-name-mozilla }»
+about-corporation-foundation-not = Иттиҳод. Бунёд. Ташкилоти ғайритиҷорӣ.
+about-learn-about-the-mozilla-foundation = Маълумоти бештар дар бораи «{ -brand-name-mozilla-foundation }»
 about-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 about-read-the-manifesto = Санадҳои асосиро мутолиа намоед
 about-a-global-view = Назари умумиҷаҳонӣ
@@ -15,6 +17,7 @@ about-berlin = Берлин
 about-toronto = Торонто
 about-work-at-mozilla = Кор дар «{ -brand-name-mozilla }»
 about-mozilla-careers = Мансабҳои озод дар «{ -brand-name-mozilla }»
+about-how-you-can-help = шумо чӣ тавр метавонед кумак кунед
 about-get-involved = Ҳамроҳ шавед
 
 ## Newsletter
