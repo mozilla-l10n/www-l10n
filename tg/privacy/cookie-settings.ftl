@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Танзимоти кукиҳо
+cookie-settings-breadcrumb-link = Саҳифаи қаблӣ
 cookie-settings-how-mozilla-heading = Чӣ тавр «{ -brand-name-mozilla }» аз кукиҳо истифода мебарад
 cookie-settings-how-does-mozilla-use-subheading = Чӣ тавр «{ -brand-name-mozilla }» аз ин маълумот истифода мебарад?
 cookie-settings-save-changes = Нигоҳ доштани тағйирот
