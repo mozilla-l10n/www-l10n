@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-android-page-title = «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-android }»
+vpn-android-privacy-headline = Бо як ламс пайваст шавед
 # Variables:
 #   $servers (number) - number of available servers
 #   $countries (number) - number of available countries
