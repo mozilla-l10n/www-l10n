@@ -7,6 +7,8 @@
 
 # Meta strings
 vpn-mobile-page-title = «{ -brand-name-mozilla-vpn }» барои дастгоҳи мобилӣ (смартфонҳо ва планшетҳо)
+# Mobile strings
+vpn-mobile-hero-headline = Махфияти худро дар дастгоҳи мобилӣ ба воситаи «{ -brand-name-mozilla-vpn }» ҳифз намоед
 vpn-mobile-about-headline = Дар бораи «{ -brand-name-mozilla }»
 vpn-mobile-servers-headline = Ба серверҳо дар саросари ҷаҳон пайваст шавед
 # Variables:
