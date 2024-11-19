@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
 
 page7-get-facebook-container = «{ -brand-name-facebook-container }»-ро ба даст оред
+page7-get-mozilla-monitor = «{ -brand-name-mozilla-monitor }»-ро ба даст оред
+page7-why-am-i-seeing-this = Чаро ман инро дида истодаам?

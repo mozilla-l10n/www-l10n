@@ -14,4 +14,5 @@ vpn-mobile-servers-headline = Ба серверҳо дар саросари ҷа
 # Variables:
 #   $devices (number) - number of available devices
 vpn-mobile-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
+vpn-mobile-speed-headline = Суръати бениҳоят тез ва номаҳдуд
 vpn-mobile-log-headline = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
