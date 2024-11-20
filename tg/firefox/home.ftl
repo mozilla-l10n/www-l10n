@@ -13,7 +13,13 @@ firefox-home-firefox-is-just = Браузери «{ -brand-name-firefox }» та
 # Obsolete string
 firefox-home-meet-our-family-of = Бо оилаи маҳсулоти мо шинос шавед
 firefox-home-meet-mozillas-family = Бо оилаи маҳсулоти «{ -brand-name-mozilla }» шинос шавед
+firefox-home-get-trackers-off = Зиёда аз 2,000+ васоити пайгирӣ аз роҳи худ нест кунед — аз он ҷумла «{ -brand-name-facebook }»
+firefox-home-know-when-hackers-strike = Бохабар бошед, ки ҳакерҳо кай ҳамла мекунанд — ва як қадам пеш монед
+firefox-home-start-getting-breach = Қабули гузоришҳоро дар бораи ҳамлаҳо ва вайроншавиҳо оғоз намоед
+firefox-home-un-spam-your-life = Ҳаёти худро ба воситаи «{ -brand-name-relay }» аз мактубҳои номатлуб озод намоед
 firefox-home-try-relay = «{ -brand-name-relay }»-ро кӯшиш кунед
+# The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-get-the-respect-you = <strong>Эҳтироми худро</strong>, ки сазовори он ҳастед, ба даст оред
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
 firefox-home-get-the-browser-extension = Ба даст овардани васеъшавиҳои браузер
 firefox-home-get-the-facebook-container = Ба даст овардани васеъшавии «{ -brand-name-facebook-container }»
