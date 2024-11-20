@@ -11,7 +11,7 @@
 firefox-new-download-firefox = Λήψη του { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Λήψη του πιο γρήγορου { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
-firefox-new-faster-page-loading-less-memory = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } είναι εδώ.
+firefox-new-faster-page-loading-less-memory = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 firefox-new-get-the-latest-firefox = Αποκτήστε το πιο πρόσφατο { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Λήψη του { -brand-name-firefox } <br>για { -brand-name-windows }
@@ -59,4 +59,3 @@ firefox-new-fast = Γρήγορο, ιδιωτικό και δωρεάν
 firefox-new-from-mozilla = από τη { -brand-name-mozilla }
 firefox-new-desc = Το { -brand-name-firefox-browser } είναι ένα δωρεάν πρόγραμμα περιήγησης ιστού για γρήγορη φόρτωση σελίδων, με λιγότερη χρήση μνήμης και πολλές άλλες λειτουργίες - ένα έργο της μη κερδοσκοπικής { -brand-name-mozilla }.
 firefox-new-download-a-different = Λήψη για διαφορετική πλατφόρμα ή γλώσσα
-firefox-new-taskbar = Το { -brand-name-firefox } θα καρφιτσωθεί στη γραμμή εργασιών των { -brand-name-windows } μετά την εγκατάσταση

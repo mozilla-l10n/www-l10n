@@ -20,7 +20,7 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Εταιρεία
 footer-refresh-press-center = Κέντρο τύπου
 footer-refresh-careers = Καριέρες
-footer-refresh-contact = Επαφές
+footer-refresh-contact = Επικοινωνία
 footer-refresh-support = Υποστήριξη
 footer-refresh-product-help = Βοήθεια προϊόντος
 footer-refresh-file-a-bug = Αναφορά σφάλματος
@@ -34,7 +34,7 @@ footer-refresh-tools = Εργαλεία
 footer-refresh-donate = Δωρεά
 footer-refresh-visit-mozilla-corporations = Επισκεφτείτε τον μη κερδοσκοπικό, γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Τμήματα αυτού του περιεχομένου αποτελούν πνευματική ιδιοκτησία μεμονωμένων εθελοντών του mozilla.org (©1998–{ $current_year }). Το περιεχόμενο διατίθεται στα πλαίσια της <a rel="license" { $href }>άδειας { -brand-name-creative-commons }</a>.
-footer-refresh-websites-privacy-notice = Σημείωση απορρήτου ιστοσελίδας
+footer-refresh-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
 footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Νομικά
 footer-refresh-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας

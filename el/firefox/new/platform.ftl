@@ -11,13 +11,13 @@
 new-platform-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
 new-platform-download-firefox = Λήψη του { -brand-name-firefox }
 new-platform-download-the-fastest = Λήψη του πιο γρήγορου { -brand-name-firefox }
-new-platform-faster-page-loading = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } έφτασε.
+new-platform-faster-page-loading = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 new-platform-2x-faster = 2x ταχύτερο
 new-platform-advanced-install-options = Σύνθετες επιλογές εγκατάστασης και άλλες πλατφόρμες
 new-platform-download-in-another = Λήψη σε άλλη γλώσσα
 new-platform-need-help = Χρειάζεστε βοήθεια;
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Λήψη του { -brand-name-mozilla } { -brand-name-firefox } για { -brand-name-linux }
 # /firefox/linux/ HTML page description
@@ -25,7 +25,7 @@ new-platform-download-mozilla-desc-linux = Κάντε λήψη του { -brand-n
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-linux }
 # /firefox/linux/ social sharing description
-new-platform-faster-page-loading-linux = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-linux } έφτασε.
+new-platform-faster-page-loading-linux = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-linux } είναι εδώ.
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
 new-platform-privacy-more-than = Απόρρητο: κάτι παραπάνω από πολιτική
@@ -42,7 +42,7 @@ new-platform-download-mozilla-firefox-desc-mac = Κάντε λήψη του { -b
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
-new-platform-faster-page-loading-mac = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-mac-short } έφτασε.
+new-platform-faster-page-loading-mac = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-mac-short } είναι εδώ.
 new-platform-privacy-comes-first = Προτεραιότητα στο απόρρητο
 new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις σας. Σταματάμε τα τρίτα cookies καταγραφής και σας παρέχουμε τον πλήρη έλεγχο.
 new-platform-get-speed-and-security = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο σε υπολογιστές { -brand-name-mac-short }, επειδή δεν καταγράφει τις κινήσεις σας.
@@ -57,7 +57,7 @@ new-platform-download-mozilla-desc-windows = Κάντε λήψη του { -brand
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-windows }
 # /firefox/windows/ social sharing description
-new-platform-faster-page-loading-windows = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και γεμάτο με λειτουργίες, το νέο { -brand-name-firefox } για { -brand-name-windows } έφτασε.
+new-platform-faster-page-loading-windows = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-windows } είναι εδώ.
 new-platform-firefox-moves-fast = Το { -brand-name-firefox } κινείται γρήγορα και χειρίζεται προσεκτικά τα δεδομένα σας, χωρίς καταγραφή διαφημίσεων και χωρίς επιβράδυνση.
 new-platform-common-sense-privacy = Απόρρητο κοινής λογικής
 new-platform-live-your-life = Ζήστε τη ζωή σας, το { -brand-name-firefox } δεν σας παρακολουθεί. Επιλέξτε τι θα μοιραστείτε και πότε θα το μοιραστείτε.
