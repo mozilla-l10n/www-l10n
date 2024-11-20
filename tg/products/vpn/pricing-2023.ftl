@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Барои боргирӣ кард
 vpn-pricing-sign-up-on-your-mobile-device = Барои обунаи «{ -brand-name-mozilla-vpn }» дар дастгоҳи мобилии худ сабти ном кунед
 vpn-pricing-sign-up-on-your-android-device = Барои обунаи «{ -brand-name-mozilla-vpn }» дар дастгоҳи «Android»-и худ сабти ном кунед
 vpn-pricing-download-the-app = Барномаро боргирӣ кунед
+vpn-pricing-transaction-may-be-in = * Интиқоли маблағ метавонад тавассути мубодилаи асъори миллӣ пардохт карда шавад.

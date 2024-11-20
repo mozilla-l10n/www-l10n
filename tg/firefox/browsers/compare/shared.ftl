@@ -18,5 +18,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Файлҳои «PDF»-ро т�
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Саҳифаи сомонаро ба таври маҳаллӣ ва махфӣ тарҷума намоед.</a>
 compare-shared-its-easy-to-switch = Гузариш осон аст
+compare-shared-since-we-dont-have-to-make = Азбаски мо набояд саҳмдоронро хушбахт кунем, мо метавонем диққатамонро ба хушбахтии <strong>шумо</strong> равона намоем ва ҳамеша махфият ва роҳати шуморо дар ҷойи аввал гузорем.
 # Used as a small link to a cited source
 compare-shared-source = манбаъ

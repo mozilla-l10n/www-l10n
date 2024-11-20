@@ -7,12 +7,19 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Дар бораи мо
+navigation-refresh-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
 navigation-refresh-close-about-us-menu = Пӯшидани менюи «Дар бораи мо»
 navigation-refresh-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
+navigation-refresh-mozilla-manifesto-v2 = Санади асосии «{ -brand-name-mozilla }»
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ҳамроҳ шавед
+navigation-refresh-get-involved-v2 = Ҳамроҳ шудан
 navigation-refresh-innovation-projects = Лоиҳаҳои инноватсионӣ
+navigation-refresh-innovation-projects-v2 = Лоиҳаҳои инноватсионӣ
 navigation-refresh-blog = Блог
+navigation-refresh-our-mission = Рисолати мо
+navigation-refresh-our-work = Фаъолияти мо
+navigation-refresh-mozilla-ai = Зеҳни сунъии «{ -brand-name-mozilla } AI»
 
 ## Firefox
 
