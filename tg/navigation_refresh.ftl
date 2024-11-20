@@ -20,6 +20,8 @@ navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Рисолати мо
 navigation-refresh-our-work = Фаъолияти мо
 navigation-refresh-mozilla-ai = Зеҳни сунъии «{ -brand-name-mozilla } AI»
+navigation-refresh-mozilla-ventures = Корхонаҳои «{ -brand-name-mozilla }»
+navigation-refresh-mozilla-advertising = Рекламаи «{ -brand-name-mozilla }»
 
 ## Firefox
 
