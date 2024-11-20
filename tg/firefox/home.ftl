@@ -6,8 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/
 
 firefox-home-firefox-protect-your = «{ -brand-name-firefox }» - Ҳаёти худро дар фазои Интернет бо маҳсулоти дорои махфияти аввалиндараҷа ҳифз намоед
+firefox-home-firefox-is-more-than = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад. Дар бораи маҳсулоти «{ -brand-name-firefox }», ки маълумоти шуморо бо эҳтиром муомила мекунад ва новобаста аз ҳар ҷойе, ки шумо онлайн меравед, барои махфияти шумо сохта шудааст.
+# Obsolete string
+firefox-home-the-browser-is-just = Браузер танҳо нуқтаи ибтидо аст
+firefox-home-firefox-is-just = Браузери «{ -brand-name-firefox }» танҳо нуқтаи ибтидо аст.
 # Obsolete string
 firefox-home-meet-our-family-of = Бо оилаи маҳсулоти мо шинос шавед
+firefox-home-meet-mozillas-family = Бо оилаи маҳсулоти «{ -brand-name-mozilla }» шинос шавед
 firefox-home-try-relay = «{ -brand-name-relay }»-ро кӯшиш кунед
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
 firefox-home-get-the-browser-extension = Ба даст овардани васеъшавиҳои браузер
