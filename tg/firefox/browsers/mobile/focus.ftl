@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = «{ -brand-name-firefox-focus }»: Браузер барои истифодаи хусусӣ
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = «{ -brand-name-firefox-focus }» — браузере мебошад, ки ба хотири махфияти шумо сохта шудааст ва шуморо аз васоити пайгирӣ ба таври худкор муҳофизат мекунад.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Танҳо тамошои мобилии хусусӣ дар Интернет
 mobile-focus-firefox-focus-is-available = Браузери «{ -brand-name-firefox-focus }» барои ҳар ду дастгоҳ — «{ -brand-name-ios }» ва «{ -brand-name-android }» дастрас аст.
