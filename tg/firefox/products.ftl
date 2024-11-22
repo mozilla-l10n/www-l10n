@@ -8,6 +8,7 @@
 # HTML page title
 firefox-products-mozilla-products = Маҳсулоти «{ -brand-name-mozilla }»
 firefox-products-products = Маҳсулот
+firefox-products-firefox-beginning-v2 = Браузери «{ -brand-name-firefox }» танҳо нуқтаи ибтидо аст.
 
 ## Firefox
 

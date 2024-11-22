@@ -26,6 +26,8 @@ firefox-home-every-single-mozilla = Ҳар як маҳсули «{ -brand-name-m
 firefox-home-trade-clickbait-for = Муҳтавои рекламавиро (кликбейтҳо) ба муҳтавои аълосифат иваз намоед
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
 firefox-home-protection-for-your-whole = Муҳофизат барои тамоми дастгоҳи шумо, дар ҳар як дастгоҳ.
+# The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
+firefox-home-one-login-all-your = Як воридшавӣ. Ҳамаи дастгоҳҳои шумо. Оилаи маҳсулоте, ки <strong>махфияти шуморо</strong> эҳтиром мекунад.
 firefox-home-get-the-browser-extension = Ба даст овардани васеъшавиҳои браузер
 firefox-home-get-the-facebook-container = Ба даст овардани васеъшавии «{ -brand-name-facebook-container }»
 firefox-home-download-the-browser = Браузерро боргирӣ кунед
