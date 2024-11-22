@@ -19,14 +19,9 @@ vpn-shared-pricing-total = මුළු { $amount }
 # Platform subpage shared strings
 
 vpn-shared-platform-privacy-promise = ඔබගේ රහස්‍යතාව අපගේ පොරොන්දුවයි
-vpn-subnav-platform-windows = { -brand-name-windows }
 
-## VPN Affiliate cookie notice
-
-vpn-shared-affiliate-notification-reject = ප්‍රතික්‍ෂේප
-
-## VPN + Relay bundle offer
+## Press quotations
 
 
-##
+## Unsupported language notification
 
