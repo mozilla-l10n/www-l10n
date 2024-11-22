@@ -8,9 +8,14 @@
 # HTML page title
 privacy-index-mozilla-privacy = Махфияти «{ -brand-name-mozilla }»
 privacy-index-contact-mozilla = Бо «{ -brand-name-mozilla }» дар тамос шавед
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = Барои дархост кардани дастгирӣ оид ба маҳсулот, лутфан, <a href="{ $sumo }">ба форумҳои мо ворид шавед</a>.
 privacy-index-data-privacy-principles = Принсипҳои махфияти маълумот
 privacy-index-transparency-report = Гузориши дар бораи шаффофӣ
 privacy-index-get-involved = Ҳамроҳ шавед
+privacy-index-outdated-policies = Сиёсатҳои собиқ
+privacy-index-mozilla-websites-communications = Сомонаҳо, алоқаҳо ва кукиҳои «{ -brand-name-mozilla }»
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
