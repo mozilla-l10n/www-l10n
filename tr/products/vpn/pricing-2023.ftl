@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Uygulamayı indirmek için Android
 vpn-pricing-sign-up-on-your-mobile-device = Mobil cihazınızda { -brand-name-mozilla-vpn } abonesi olun
 vpn-pricing-sign-up-on-your-android-device = Android cihazınızda { -brand-name-mozilla-vpn } abonesi olun
 vpn-pricing-download-the-app = Uygulamayı indir
+vpn-pricing-transaction-may-be-in = * Ödemeler yerel para birimi cinsinden alınabilir.
