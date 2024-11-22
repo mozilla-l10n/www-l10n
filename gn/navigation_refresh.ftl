@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Ore rehegua
+navigation-refresh-about-mozilla = { -brand-name-mozilla } rehegua
 navigation-refresh-close-about-us-menu = Emboty poravorã ore rehegua
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } Je’epy
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } He’ipyre
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Eike pype
+navigation-refresh-get-involved-v2 = Eike pype
 navigation-refresh-innovation-projects = Apopyrã tekopyahurã
+navigation-refresh-innovation-projects-v2 = Apopyrã tekopyahurã
 navigation-refresh-blog = Blog
+navigation-refresh-our-mission = Ore Rembipota
+navigation-refresh-our-work = Ore rembiapo
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Momarandu
 
 ## Firefox
 
