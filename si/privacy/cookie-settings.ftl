@@ -21,3 +21,4 @@ cookie-settings-your-consent-heading = ඔබගේ අනුදැනීම
 
 ## Privacy section
 
+cookie-settings-privacy-policy-link = පෞද්ගලිකත්‍ව දැන්වීම
