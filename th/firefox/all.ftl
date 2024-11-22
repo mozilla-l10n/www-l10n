@@ -28,6 +28,7 @@ firefox-all-down-arrow = เลือกจากรายการด้าน�
 firefox-all-get-help = รับความช่วยเหลือ
 # Obsolete string (expires 2024-10-30)
 firefox-all-browser = เบราว์เซอร์:
+firefox-all-browser-v2 = 1. เบราว์เซอร์:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = แพลตฟอร์ม:
 firefox-all-platform-v2 = 2. แพลตฟอร์ม:
@@ -98,3 +99,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = ดาวน์โหลด ESR 115
+firefox-all-note-unsupported = หมายเหตุ: หากคุณใช้ Windows 7, Windows 8, Windows 8.1 หรือ macOS 10.12, 10.13 หรือ 10.14 โปรดดาวน์โหลด ESR 115 เพื่อใช้ { -brand-name-firefox }
