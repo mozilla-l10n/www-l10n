@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/about/legal/
 
 legal-get-involved = සහභාගී වන්න
+legal-privacy-notices-and-policy = රහස්‍යතා දැන්වීම් සහ ප්‍රතිපත්ති
