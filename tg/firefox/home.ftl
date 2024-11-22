@@ -20,7 +20,12 @@ firefox-home-un-spam-your-life = Ҳаёти худро ба воситаи «{ -
 firefox-home-try-relay = «{ -brand-name-relay }»-ро кӯшиш кунед
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = <strong>Эҳтироми худро</strong>, ки сазовори он ҳастед, ба даст оред
+# Obsolete string
+firefox-home-every-single-firefox = Ҳар як маҳсули «{ -brand-name-firefox }» ваъдаи моро оид ба ҳафзи маълумоти шахсии шумо эҳтиром мекунад: <strong>Маълумотро кам ҷамъ мекунем. Дар вазъи бехатар нигоҳ медорем. Ягон сир надорем.</strong>
+firefox-home-every-single-mozilla = Ҳар як маҳсули «{ -brand-name-mozilla }» ваъдаи моро оид ба ҳафзи маълумоти шахсии шумо эҳтиром мекунад: <strong>Маълумотро кам ҷамъ мекунем. Дар вазъи бехатар нигоҳ медорем. Ягон сир надорем.</strong>
+firefox-home-trade-clickbait-for = Муҳтавои рекламавиро (кликбейтҳо) ба муҳтавои аълосифат иваз намоед
 firefox-home-learn-more-about-pocket = Маълумоти бештар дар бораи «{ -brand-name-pocket }»
+firefox-home-protection-for-your-whole = Муҳофизат барои тамоми дастгоҳи шумо, дар ҳар як дастгоҳ.
 firefox-home-get-the-browser-extension = Ба даст овардани васеъшавиҳои браузер
 firefox-home-get-the-facebook-container = Ба даст овардани васеъшавии «{ -brand-name-facebook-container }»
 firefox-home-download-the-browser = Браузерро боргирӣ кунед
