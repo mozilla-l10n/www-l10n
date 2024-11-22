@@ -11,6 +11,7 @@ features-index-firefox-keeps-getting-faster = «{ -brand-name-firefox }» боз
 features-index-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
 features-index-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 features-index-customize-your-firefox-browser = Браузери «{ -brand-name-firefox }»-и худро ба таври дилхоҳ танзим кунед
+features-index-choose-how-your-browser-looks = Интихоб кунед, ки намуди зоҳирии браузери шумо бо ҳазорҳо мавзуъҳои ройгон чӣ гуна ба назар мерасад.
 features-index-firefox-browser-sync = Ҳамоҳангсозии браузери «{ -brand-name-firefox }»
 features-index-bookmark-manager = Мудири хатбаракҳо
 features-index-private-browsing-mode = Реҷаи «Тамошокунии хусусӣ»
