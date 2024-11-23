@@ -7,9 +7,9 @@
 
 switch-switch-from-chrome = Пребаците се са { -brand-name-chrome }-а на { -brand-name-firefox } за само пар минута
 switch-switching-to-firefox-is-fast-updated = Прелазак на { -brand-name-firefox } је једноставан, брз и без ризика. { -brand-name-firefox } може да увезе податке као што су ваши обележивачи, лозинке и подешавања из { -brand-name-chrome }-а.
-switch-switching-to-firefox-is-fast = Пребацивање на { -brand-name-firefox } је брзо и лако, зато што { -brand-name-firefox } преноси ваше забелешке, лозинке и поставке са { -brand-name-chrome }-а.
+switch-switching-to-firefox-is-fast = Пребацивање на { -brand-name-firefox } је брзо и лако, зато што { -brand-name-firefox } преноси ваше обележиваче, лозинке и поставке са { -brand-name-chrome }-а.
 switch-switching-to-firefox-page-description-updated = Прелазак на { -brand-name-firefox } је једноставан, брз и без ризика. { -brand-name-firefox } може да увезе податке као што су ваши обележивачи, лозинке и подешавања из { -brand-name-chrome }-а.
-switch-switching-to-firefox-page-description = Пребацивање на { -brand-name-firefox } је брзо и лако. { -brand-name-firefox } преноси ваше забелешке, лозинке и поставке са { -brand-name-chrome }-а.
+switch-switching-to-firefox-page-description = Пребацивање на { -brand-name-firefox } је брзо и лако. { -brand-name-firefox } преноси ваше обележиваче, лозинке и поставке са { -brand-name-chrome }-а.
 switch-select-what-to-take = Изаберите шта преносите из { -brand-name-chrome }-a.
 switch-let-firefox-do-the-rest = Пустите { -brand-name-firefox } да уради остало.
 switch-use-firefox-and-still-chrome = Можете користити { -brand-name-firefox } и притом имати { -brand-name-chrome } и даље. { -brand-name-chrome } ће остати исти какав је и био.

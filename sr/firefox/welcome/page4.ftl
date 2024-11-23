@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: при�
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Решите се програма за праћење
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Побољшана заштита од праћења <a href="{ $privacy }">блокира преко 2000 програма за праћење</a> који вас прогоне по мрежи.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Не остављајте траг
@@ -27,5 +27,5 @@ welcome-page4-automatically-clear-your-history = Аутоматски бриши
 welcome-page4-go-faster-do-more = Брже. Моћније.
 welcome-page4-take-it-all-with-you = Понесите све са собом
 welcome-page4-more-done-fast-smart = Урадите више са брзим учитавањем страница и паметним предлозима за претрагу.
-welcome-page4-dont-walk-out-the-door-without = Немојте ићи никуда без ваших обележивача, језичака, забелешки и лозинки.
+welcome-page4-dont-walk-out-the-door-without = Немојте ићи никуда без ваших обележивача, картица, забелешки и лозинки.
 welcome-page4-why-am-i-seeing-this = Зашто ми се ово приказује?
