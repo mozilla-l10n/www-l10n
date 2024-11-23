@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Преузмите { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
 navigation-v2-menu = Мени
-# Obsolete string
-navigation-v2-get-a-firefox-account = Направите { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -21,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } за { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Преузмите мобилни прегледач за ваш { -brand-name-iphone } или { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Једноставно, приватно мобилно прегледање.
-navigation-v2-privacy-promise = Обећање приватности
-navigation-v2-learn-how-firefox-treats = Сазнајте како { -brand-name-firefox } поштује ваше податке.
 navigation-v2-firefox-blog = { -brand-name-firefox } блог
 navigation-v2-read-about-new-firefox-features = Читајте о новим { -brand-name-firefox } функцијама и примајте савете како да останете сигурни на интернету.
 navigation-v2-release-notes = Напомене о издању
@@ -33,7 +29,6 @@ navigation-v2-view-all-firefox-browsers = Погледајте све { -brand-n
 
 navigation-v2-products = Производи
 navigation-v2-close-products-menu = Затвори мени Производи
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Проверите да ли се ваша адреса е-поште појавила у цурењу података из компаније.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Сачувајте и откријте најбоље приче широм интернета.
@@ -41,13 +36,9 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Спречите { -brand-name-facebook } да прикупља ваше податке ван свог сајта.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Останите заштићени изван прегледача, на свим вашим уређајима.
-navigation-v2-product-promise = Обећање производа
-navigation-v2-learn-how-each-firefox-product = Сазнајте како сваки { -brand-name-firefox } производ штити и поштује ваше податке.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
-navigation-v2-sign-up-for-new-accounts = Пријавите се за нове налоге без давања ваше адресе е-поште.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (бета)
-navigation-v2-protect-your-browsers-connection = Заштитите везу вашег прегледача са интернетом.
+navigation-v2-sign-up-for-new-accounts = Региструјте се за нове налоге без давања ваше адресе е-поште.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нове функције и алатке за прилагођено { -brand-name-mdn } искуство
 navigation-v2-view-all-products = Погледајте све производе
@@ -68,16 +59,12 @@ navigation-v2-careers = Каријере
 navigation-v2-work-for-a-mission-driven-updated = Радите за организацију са јасном визијом и чији производи стављају људе на прво место.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } блог
 navigation-v2-learn-about-mozilla-and = Сазнајте о { -brand-name-mozilla }-и и проблемима који су нам битни.
-navigation-v2-stories = Приче
-navigation-v2-stories-about-how = Приче о томе како наши људи и производи мењају свет на боље.
 navigation-v2-more-about-mozilla = Више о { -brand-name-mozilla }-и
 
 ## Innovation menu
 
 navigation-v2-innovation = Иновације
 navigation-v2-close-innovation-menu = Затвори Иновације мени
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Окупите се у овом мултидимензионалном, интерактивном, онлајн простору за дружење.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Преузмите { -brand-name-firefox } прегледач направљен посебно за програмере.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
