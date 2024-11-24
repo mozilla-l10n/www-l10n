@@ -7,12 +7,16 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Om oss
+navigation-refresh-about-mozilla = Om { -brand-name-mozilla }
 navigation-refresh-close-about-us-menu = Lat att Om oss-menyen
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifestet
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla }-manifestet
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ver med
+navigation-refresh-get-involved-v2 = Ver med
 navigation-refresh-innovation-projects = Innovasjonsprosjekt
 navigation-refresh-blog = Blogg
+navigation-refresh-our-mission = Oppdraget vårt
 
 ## Firefox
 
