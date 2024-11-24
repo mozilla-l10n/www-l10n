@@ -8,6 +8,7 @@
 # Meta strings
 vpn-desktop-page-title = «{ -brand-name-mozilla-vpn }» барои мизҳои корӣ (Компютерҳои шахсӣ ва ноутбукҳо)
 vpn-desktop-about-headline = Дар бораи «{ -brand-name-mozilla }»
+vpn-desktop-servers-headline = Ба серверҳо дар саросари ҷаҳон пайваст шавед
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
