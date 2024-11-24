@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
+features-adblocker-how-to-block-annoying = Тарзи манъ кардани рекламаи безоркунанда ба воситаи «Манъкунандаи реклама»
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
 features-adblocker-send-a-do-not-track-signal = Фиристодани ишораи махсуси «Пайгирӣ карда нашавад»
