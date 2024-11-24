@@ -9,4 +9,6 @@
 vpn-ip-address-what-is-an-ip-address = Нишонии «IP» чӣ аст?
 vpn-ip-address-does-it-travel = Оё он шуморо ҳамроҳӣ мекунад?
 vpn-ip-address-does-your-ip = Оё нишонии IP-и шумо тағйир меёбад?
+vpn-ip-address-can-we-run = Оё онҳо метавонанд ба анҷом расонанд?
+vpn-ip-address-should-you-hide = Оё шумо бояд нишонии «IP»-и худро пинҳон кунед?
 vpn-ip-address-how-do-you = Чӣ тавр шумо онро пинҳон мекунед?

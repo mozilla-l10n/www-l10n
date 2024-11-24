@@ -7,3 +7,4 @@
 
 features-fast-firefox-keeps-getting-faster = «{ -brand-name-firefox }» боз ҳам тезтар аст
 features-fast-how-is-browser-speed-measured = Суръати браузер чӣ тавр чен карда мешавад?
+features-fast-faster-every-day = Ҳар рӯз тезтар кор мекунад

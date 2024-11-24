@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
+vpn-mobile-get-a-vpn = Ба даст овардани «VPN» барои дастгоҳи мобилӣ аз «{ -brand-name-mozilla }»
 vpn-mobile-vpn-for-mobile = «VPN» барои дастгоҳи мобилӣ аз «{ -brand-name-mozilla }»
 vpn-mobile-why-do-i = Чаро ба ман «VPN» барои дастгоҳи мобилӣ лозим аст?
