@@ -45,3 +45,4 @@ vpn-download-faq-why-use = Чаро ман бояд аз «{ -brand-name-mozilla
 vpn-download-faq-working = Ман аз куҷо мефаҳмам, ки «VPN» кор мекунад?
 vpn-download-faq-add-device = Чӣ тавр ман дастгоҳи дигареро илова намоям?
 vpn-download-faq-best-practices = Кадом аз баъзе таҷрибаҳои «VPN» беҳтарин мебошанд?
+vpn-download-faq-need-more = Ба шумо кумаки иловагӣ лозим аст?
