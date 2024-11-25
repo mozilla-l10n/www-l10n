@@ -56,3 +56,4 @@ vpn-features-personalized-server = Персонализоване препору
 vpn-features-well-suggest-which-servers = Препоручићемо сервере близу вас који осигуравају најбржу и најпоузданију интернетску везу.
 vpn-features-personalize-which-apps = Прилагодите које апликације добијају VPN заштиту
 vpn-features-easily-exclude-apps = Лако искључите апликације за VPN заштите — без прекида везе између уређаја и { -brand-name-mozilla-vpn }-а. Доступно за Windows, Android и Linux уређаје.
+vpn-features-set-different-locations = Поставите различите локације за сваку { -brand-name-firefox } картицу
