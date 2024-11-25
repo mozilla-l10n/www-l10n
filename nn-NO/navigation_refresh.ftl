@@ -17,6 +17,8 @@ navigation-refresh-get-involved-v2 = Ver med
 navigation-refresh-innovation-projects = Innovasjonsprosjekt
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Oppdraget vårt
+navigation-refresh-our-work = Arbeidet vårt
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 
 ## Firefox
 
