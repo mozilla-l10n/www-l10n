@@ -84,9 +84,16 @@ vpn-press-as-seen-in = Као што други кажу
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = „{ -brand-name-mozilla } VPN се такође може <a { $attrs }>уградити у неке изврсне функције заштите приватности</a> свог { -brand-name-firefox } прегледача.”
+vpn-press-unique-features-like-its-multi-account = „…јединствене функције, попут „Контејнера за више налога”, могу да направе ову функцију лако доступном корисницима који имају озбиљније претње приватности.”
+vpn-press-mozilla-vpns-feature-list-has-grown = „Списак { -brand-name-mozilla-vpn } функција је значајно порастао, а услуга сада надмашује многе специјализоване VPN-ове у неким областима.”
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } тренутно није преведен на { $language }, али можете да га користите на енглеском, француском, немачком, шпанском и <a { $href }>преко 30 других језика</a>.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = Желите да приближите { -brand-name-mozilla-vpn } другима? <a { $href }>Постаните волонтерски преводилац</a>.

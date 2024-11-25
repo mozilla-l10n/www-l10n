@@ -36,7 +36,7 @@ vpn-features-fast-network = Брза мрежа чак и током играњ�
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } користи <a { $wireguard }>Wireguard</a>™, један од најучинковитијих VPN протокола.
-vpn-features-secure = Безбедно
+vpn-features-secure = Безбедан
 vpn-features-block-ads = Блокирајте оглашиваче који вас прате
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } вам помаже да аутоматски блокирате огласе и елементе за праћење како не би пратили ваше радње на мрежи.
 vpn-features-encrypt-your-internet = Шифрујте сав ваш интернетски промет
@@ -57,3 +57,14 @@ vpn-features-well-suggest-which-servers = Препоручићемо серве�
 vpn-features-personalize-which-apps = Прилагодите које апликације добијају VPN заштиту
 vpn-features-easily-exclude-apps = Лако искључите апликације за VPN заштите — без прекида везе између уређаја и { -brand-name-mozilla-vpn }-а. Доступно за Windows, Android и Linux уређаје.
 vpn-features-set-different-locations = Поставите различите локације за сваку { -brand-name-firefox } картицу
+vpn-features-trustworthy = Поуздан
+vpn-features-money-back = 30-дневна гаранција поврата новца
+vpn-features-plus-customer-support = Плус 24/7 корисничка подршка.
+vpn-features-we-never-log = Не бележимо, не пратимо и не делимо ваше мрежне податке
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Једноставно речено, не прикупљамо ваше личне податке о прегледању. Погледајте нашу <a { $privacy }>политику приватности</a>.
+vpn-features-built-transparently = Изграђен транспарентно у отвореном коду
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } је направљен од отвореног кода, што значи да је сав јавно доступан. Погледајте наш <a { $github }>GitHub репозиторијум</a>.
