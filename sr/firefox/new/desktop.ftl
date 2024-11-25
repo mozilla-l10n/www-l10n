@@ -131,6 +131,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } је на
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Како интернет расте и мења се, { -brand-name-firefox } наставља да се фокусира на ваше право на приватност  — називамо га <a { $attrs }>обећање о личним подацима</a>: мање узимај. Боље чувај. Без тајни. Ваши подаци, веб активности и живот на мрежи су заштићени уз { -brand-name-firefox }.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } је доступан на свим вашим уређајима; понесите ваше језичке, историју и обележиваче са собом. Све што вам треба је <a { $attrs }>{ -brand-name-mozilla-account }</a> и добићете приступ синхронизовању и пуно више { -brand-name-mozilla } производа.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Правите снимке екрана високе резолуције уз наш уграђени <a { $attrs }>алат за снимање екрана</a>.
 # Variables:
@@ -139,6 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аут�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Питања? <a { $attrs }>{ -brand-name-mozilla } подршка</a> вам стоји на услузи.
+firefox-desktop-download-watch-for-hackers-with-v3 = Пазите на хакере уз { -brand-name-mozilla-monitor }, заштитите адресу е-поште уз { -brand-name-firefox-relay }, и друго.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -149,6 +153,8 @@ firefox-desktop-download-now-else = Завршите <strong>инсталаци�
 firefox-desktop-download-now-windows = Сада <strong>покрените</strong> инсталацију коју сте управо преузели.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Сада <strong>отворите</strong> датотеку коју сте управо преузели.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Одаберите опцију <strong>преузимања</strong> испод
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Имате проблема? <a { $attrs }>Нађите помоћ за вашу инсталацију</a>.

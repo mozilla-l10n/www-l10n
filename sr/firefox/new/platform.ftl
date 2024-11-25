@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/windows/
@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Додатне инсталационе 
 new-platform-download-in-another = Преузмите на другом језику
 new-platform-need-help = Помоћ?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Преузмите { -brand-name-mozilla } { -brand-name-firefox } за { -brand-name-linux }
 # /firefox/linux/ HTML page description
@@ -61,5 +61,5 @@ new-platform-faster-page-loading-windows = Брже учитавање стра�
 new-platform-firefox-moves-fast = { -brand-name-firefox } је брз и пажљиво третира ваше податке - без праћења од реклама и успоравања.
 new-platform-common-sense-privacy = Подразумевана приватност
 new-platform-live-your-life = Живите живот, { -brand-name-firefox } вас не надгледа. Изаберите шта желите да делите и када.
-new-platform-seamless-setup = Једноставна инсталација
+new-platform-seamless-setup = Једноставно подешавање
 new-platform-easy-migration = Једноставна миграција подешавања и обележивача када преузмете { -brand-name-firefox } за { -brand-name-windows }.

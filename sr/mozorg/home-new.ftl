@@ -7,4 +7,5 @@
 
 home-internet-for-people-not-profit = Интернет за људе, не за профит
 home-did-you-know-mozilla-the-maker = Да ли сте знали? { -brand-name-mozilla }, творац { -brand-name-firefox }-а, бори се да интернет остане глобални јавни ресурс, отворен и доступан свима.
+home-mission-driven = Вођени мисијом. Оснажени људима.
 home-mofo-donate = Донирајте

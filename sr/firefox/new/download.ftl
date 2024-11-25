@@ -27,10 +27,6 @@ firefox-new-need-help = Помоћ?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">више не пружа безбедноснсе исправке</a> за { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }-у, али и даље можете да користите { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Користите несигуран, застарели оперативни систем <a href="{ $url }">који више не подржава { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -38,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = Преузимање би треба
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од веб прегледача.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Ваше преузимање је прекинуто. Али није све изгубљено.
+firefox-new-download-almost-there = Скоро смо готови!
+firefox-new-download-select-linux = Одаберите опцију преузимања испод
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Пратите <a href="{ $url }">ова упутства</a> да инсталирате { -brand-name-firefox }.
@@ -45,8 +43,6 @@ firefox-new-please-follow = Пратите <a href="{ $url }">ова упутс�
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваш систем можда не испуњава захтеве за { -brand-name-firefox }, али можете испробати једну од <a href="{ $url }">ових верзија</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ако видите упит да апликацију коју покушавате да инсталирате није верификовао { -brand-name-microsoft }, кликните на “Свеједно инсталирај” или на <a { $attrs }>промени подешавања препоруке апликације</a>.
@@ -63,4 +59,3 @@ firefox-new-fast = Брзо, приватно и бесплатно
 firefox-new-from-mozilla = од { -brand-name-mozilla }-е
 firefox-new-desc = { -brand-name-firefox-browser } је бесплатни веб прегледач са брзим учитавањем страница, мањом употребом меморије и много функција - пројекат непрофитне организације { -brand-name-mozilla }.
 firefox-new-download-a-different = Преузмите за друге платформе или језике
-firefox-new-taskbar = { -brand-name-firefox } ће бити закачен на { -brand-name-windows } траци задатака након инсталације

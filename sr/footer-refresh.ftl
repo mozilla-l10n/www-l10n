@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-get-the-best = Добијте најбоље { -brand-name-firefox } савете, трикове и ажурирања. Обећавамо да ћемо вашу адресу е-поште чувати приватним и безбедним — само најбоље од { -brand-name-firefox }-а директно у ваше сандуче.
+footer-refresh-leadership = Руководство
+footer-refresh-advertise = Оглашавајте са { -brand-name-mozilla(case: "ins") }
+footer-refresh-firefox-release-notes = { -brand-name-firefox } напомене о издању
+footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пратите @{ -brand-name-mozilla }
 footer-refresh-x = X
 footer-refresh-x-formerly-twitter = X (претходно Twitter)
