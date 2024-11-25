@@ -10,3 +10,4 @@ privacy-principles-data-privacy-principles = Принсипҳои махфият
 privacy-principles-no-surprises = Бе ягон тааҷҷуб
 privacy-principles-user-control = Корбар идора мекунад
 privacy-principles-limited-data = Маълумоти маҳдуд
+privacy-principles-sensible-settings = Танзимоти хирадманд
