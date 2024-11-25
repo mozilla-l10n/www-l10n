@@ -29,6 +29,13 @@ home-cta-get-fakespot = Преузмите { -brand-name-fakespot }
 home-politico-cite = Politico
 home-read-more = Прочитајте више
 home-so-what-is-mozilla = Дакле, шта је { -brand-name-mozilla }?
+home-learn-about-mofo = Сазнајте више о { -brand-name-mozilla-foundation(case: "loc") }
+home-join-the-fight = Придружите се борби за здрав интернет
+home-your-voice-your-code = Ваш глас. Ваш кȏд. Ваше идеје. Постоје хиљаду начина на које можете да допринесет { -brand-name-mozilla(case: "dat") }.
+home-volunteer-with-mozilla = Волонтирајте са { -brand-name-mozilla(case: "gen") }
+home-that-one-time = Онај један пут када смо дали наш изворни кȏд…
+home-eventually-the-open = На крају, { -brand-name-mozilla } пројекат отвореног кода прерастао је у веома популарну прву { -brand-name-firefox } верзију.
+home-today-mozilla-continues = Данас, { -brand-name-mozilla } наставља свој покрет за бољи интернет уз милионе активних чланова заједнице широм света и залаже се за етичку технологију, поуздану вештачку интелигенцију и производе који поштују приватност и дају више моћи људима.
 home-learn-more-about-mozilla = Сазнајте више о { -brand-name-mozilla(case: "loc") }
 # VPN Feature
 home-featured-product = Истакнути производи
