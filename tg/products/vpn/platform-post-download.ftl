@@ -25,6 +25,11 @@ vpn-mac-follow-the-steps = Барои оғоз кардани барнома қ�
 
 vpn-download-unable-to-download = «{ -brand-name-mozilla-vpn }» боргирӣ карда намешавад
 vpn-download-not-in-country = Мутаассифона, «{ -brand-name-mozilla-vpn }» дар кишвари шумо дастрас нест.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Боргирии барномаи «{ -brand-name-mozilla-vpn }» бояд ба таври худкор оғоз карда шавад. Агар он оғоз карда нашавад, <br> <a href="{ $url }" id="{ $id }">раванди боргириро аз нав оғоз кунед</a> ё ин ки ба раванди боргирӣ барои дастгоҳи дигар баргардед.
 vpn-open-the-file = 1. Файлро кушоед
 vpn-launch-the-app = 2. Барномаро оғоз кунед
 vpn-login-or-signup = 3. Ворид шавед ё сабти ном кунед
