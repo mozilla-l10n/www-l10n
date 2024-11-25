@@ -7,3 +7,6 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 сабабе, ки шумо бояд аз «VPN» истифода баред
+vpn-when-to-use-1-a-walk = 1. Ҳангоми сайру гашт дар боғ
+vpn-when-to-use-2-in-the = 2. Дар ҳамсоягӣ ё минтақаи худ
+vpn-when-to-use-3-on-the = 3. Дар роҳ

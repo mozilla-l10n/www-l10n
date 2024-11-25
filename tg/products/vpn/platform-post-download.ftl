@@ -42,6 +42,7 @@ vpn-pick-a-recommended = Ҷойгоҳи тавсияшударо барои па
 vpn-download-faq-need-help = Барои оғози кор кумак лозим аст?
 vpn-download-faq-here-are-some = Дар ин ҷой баъзе аз саволҳои маъмултарин дар бораи насб кардани «{ -brand-name-mozilla-vpn }» оварда шудаанд
 vpn-download-faq-why-use = Чаро ман бояд аз «{ -brand-name-mozilla-vpn }» истифода барам?
+vpn-download-faq-encrypting = Интиқоли маълумоти худро тавассути Интернет рамзгузорӣ намоед: ҳамин тавр ҳеҷ кас дар шабака наметавонад фаъолияти шуморо дар саросари Интернет ҷосусӣ кунад.
 vpn-download-faq-working = Ман аз куҷо мефаҳмам, ки «VPN» кор мекунад?
 vpn-download-faq-add-device = Чӣ тавр ман дастгоҳи дигареро илова намоям?
 vpn-download-faq-best-practices = Кадом аз баъзе таҷрибаҳои «VPN» беҳтарин мебошанд?
