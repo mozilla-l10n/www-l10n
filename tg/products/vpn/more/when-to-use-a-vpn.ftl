@@ -10,3 +10,7 @@ vpn-when-to-use-5-reasons-you-should = 5 сабабе, ки шумо бояд а
 vpn-when-to-use-1-a-walk = 1. Ҳангоми сайру гашт дар боғ
 vpn-when-to-use-2-in-the = 2. Дар ҳамсоягӣ ё минтақаи худ
 vpn-when-to-use-3-on-the = 3. Дар роҳ
+vpn-when-to-use-4-home-away = 4. Дар хонаи дур аз ҷойи зист
+vpn-when-to-use-5-in-your = 5. Дар хонаи шахсӣ ё ҷойи зист
+vpn-when-to-use-make-sure-you = Боварӣ ҳосил кунед, ки шумо фаҳмед, ки «VPN» чӣ кор намекунад
+vpn-when-to-use-mozilla-vpn-a = «{ -brand-name-mozilla-vpn }», хадамоти «VPN»-и боэътимод

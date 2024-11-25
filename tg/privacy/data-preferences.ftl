@@ -5,4 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-page-title = Танзимоти ҷамъоварии маълумоти шахсии худро идора кунед
+data-preferences-notification-opt-out = Шумо барои ҷамъоварии маълумоти шахсӣ аз тарафи худ иҷозат надодед.
+data-preferences-notification-opt-in = Шумо барои ҷамъоварии маълумоти шахсӣ аз тарафи худ иҷозат додед.
 data-preferences-current-preference = Хусусиятҳои ҷорӣ:
+data-preferences-please-enable-javascript = Лутфан, барои идора кардани танзимоти ҷамъоварии маълумоти шахсӣ «JavaScript»-ро фаъол созед.
