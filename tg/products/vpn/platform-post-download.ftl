@@ -11,14 +11,20 @@
 
 vpn-windows-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»
 vpn-windows-downloading-mozilla-vpn = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»…
+vpn-windows-go-to-your-downloads = Ба ҷузвдони боргириҳои худ гузаред ва файли «.msi»-ро тез ду маротиба зер кунед
+vpn-windows-a-progress-bar = Навори пешравӣ пайдо мешавад ва раванди насби барнома оғоз карда мешавад
 
 ## Mac download page
 
 vpn-mac-download-page-title = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»
 vpn-mac-downloading-mozilla-vpn = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»…
+vpn-mac-go-to-your-downloads = Ба ҷузвдони боргириҳои худ гузаред ва файли «.pkg»-ро тез ду маротиба зер кунед
+vpn-mac-follow-the-steps = Барои оғоз кардани барнома қадамҳоеро, ки дар насбкунандаи «{ -brand-name-mozilla-vpn }» зикр шудаанд, иҷро намоед
 
 ## Shared strings
 
+vpn-download-unable-to-download = «{ -brand-name-mozilla-vpn }» боргирӣ карда намешавад
+vpn-download-not-in-country = Мутаассифона, «{ -brand-name-mozilla-vpn }» дар кишвари шумо дастрас нест.
 vpn-open-the-file = 1. Файлро кушоед
 vpn-launch-the-app = 2. Барномаро оғоз кунед
 vpn-login-or-signup = 3. Ворид шавед ё сабти ном кунед
