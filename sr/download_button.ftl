@@ -11,7 +11,7 @@ download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Подржани уређаји
 download-button-whats-new = Шта је ново
 download-button-systems-languages = Системи и језици
-download-button-recommended = Преопручено
+download-button-recommended = Препоручено
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } више не пружа безбедносна ажурирања за { -brand-name-firefox } на { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista } оперативним системима</a>, али и даље можете преузети последњу { -brand-name-windows } 32-битну верзију испод.
@@ -26,7 +26,7 @@ download-button-update-your-firefox = Ажурирајте ваш { -brand-name-
 download-button-get-firefox-android = Преузмите { -brand-name-firefox } за { -brand-name-android }
 download-button-get-firefox-ios = Набавите { -brand-name-firefox } за { -brand-name-ios }
 download-button-google-play = Набавите га на { -brand-name-google-play }-у
-download-button-free-google-play = Преузмите бесплатно са { -brand-name-google-play }-a
+download-button-free-google-play = Преузмите бесплатно са { -brand-name-google-play }-а
 download-button-app-store = Преузмите бесплатно са { -brand-name-app-store }-а
 download-button-download-app-store = Преузмите са { -brand-name-app-store }-а
 download-button-download-firefox = Преузмите { -brand-name-firefox }
@@ -39,3 +39,7 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> за { -brand
 download-button-firefox-privacy = { -brand-name-firefox } приватност
 download-button-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 download-button-download = Преузимање
+download-firefox-esr = Преузмите { -brand-name-firefox-esr }
+
+## Linux
+

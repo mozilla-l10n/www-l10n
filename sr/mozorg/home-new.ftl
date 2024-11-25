@@ -25,4 +25,16 @@ home-product-monitor-protect-your = Заштитите ваше личне по�
 home-cta-get-monitor = Преузмите { -brand-name-monitor }
 home-product-fakespot-detect = Откријте лажне рецензије у куповини
 home-cta-get-fakespot = Преузмите { -brand-name-fakespot }
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
+home-read-more = Прочитајте више
+home-so-what-is-mozilla = Дакле, шта је { -brand-name-mozilla }?
+home-learn-more-about-mozilla = Сазнајте више о { -brand-name-mozilla(case: "loc") }
+# VPN Feature
+home-featured-product = Истакнути производи
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Замаскирајте вашу локацију и радње уз <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Изградите наш покрет
+home-mofo-donate-to-mofo-today = Донирајте { -brand-name-mozilla-foundation } данас да обезбедите да интернет остане отворен и доступан за све.
 home-mofo-donate = Донирајте
