@@ -7,4 +7,6 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Принсипҳои махфияти маълумот
+privacy-principles-no-surprises = Бе ягон тааҷҷуб
+privacy-principles-user-control = Корбар идора мекунад
 privacy-principles-limited-data = Маълумоти маҳдуд

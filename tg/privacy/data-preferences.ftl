@@ -10,3 +10,6 @@ data-preferences-notification-opt-out = Шумо барои ҷамъоварии
 data-preferences-notification-opt-in = Шумо барои ҷамъоварии маълумоти шахсӣ аз тарафи худ иҷозат додед.
 data-preferences-current-preference = Хусусиятҳои ҷорӣ:
 data-preferences-please-enable-javascript = Лутфан, барои идора кардани танзимоти ҷамъоварии маълумоти шахсӣ «JavaScript»-ро фаъол созед.
+data-preferences-opt-out-button = Ҷамъоварии маълумоти шахсӣ аз тарафи худ иҷозат дода нашавад
+data-preferences-if-you-change = Агар шумо фикри худро иваз кунед, шумо метавонед дар ин ҷой аз нав иҷозат диҳед:
+data-preferences-opt-in-button = Ҷамъоварии маълумоти шахсӣ аз тарафи худ иҷозат дода шавад

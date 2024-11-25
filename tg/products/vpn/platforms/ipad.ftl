@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = «VPN» барои низоми «iOS/iPad» аз «{ -brand-name-mozilla }»
+vpn-ipad-with-mozilla-vpn = Ба воситаи «{ -brand-name-mozilla-vpn }» шумо метавонед зеринро ба даст оред:
