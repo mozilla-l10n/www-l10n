@@ -39,3 +39,20 @@ vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } корис
 vpn-features-secure = Безбедно
 vpn-features-block-ads = Блокирајте оглашиваче који вас прате
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } вам помаже да аутоматски блокирате огласе и елементе за праћење како не би пратили ваше радње на мрежи.
+vpn-features-encrypt-your-internet = Шифрујте сав ваш интернетски промет
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } штити не само ваш прегледач, већ све апликације на уређају.
+vpn-features-stronger-malware = Јача заштита од злонамерног софтвера
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } спречава да преузмете злонамеран софтвер са небезбедних извора.
+vpn-features-super-private-mode = Супер приватни режим: усмерава промет кроз две локације
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Наша <a { $feature }>функција за двоструко шифрирање</a> пружа додатни слој заштите.
+vpn-features-support-for-custom-dns = Подршка за прилагођени DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Уз { -brand-name-mozilla-vpn }, можете имати заштићен промет и свеједно усмеравати ваше DNS упите где год желите. <a { $dns }>Сазнајте више о подршци за прилагођени DNS</a>.
+vpn-features-flexible = Прилагодљив
+vpn-features-personalized-server = Персонализоване препоруке за локацију сервера
+vpn-features-well-suggest-which-servers = Препоручићемо сервере близу вас који осигуравају најбржу и најпоузданију интернетску везу.
+vpn-features-personalize-which-apps = Прилагодите које апликације добијају VPN заштиту
+vpn-features-easily-exclude-apps = Лако искључите апликације за VPN заштите — без прекида везе између уређаја и { -brand-name-mozilla-vpn }-а. Доступно за Windows, Android и Linux уређаје.
