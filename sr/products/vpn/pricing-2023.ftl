@@ -5,6 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-annual = Годишње
+vpn-pricing-monthly = Месечно
+vpn-pricing-get-annual-subscription = Набавите годишњу претплату
+vpn-pricing-get-monthly-subscription = Набавите месечну претплату
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } још није доступан у вашој држави
+# FAQs is short for Frequently Asked Questions
+vpn-pricing-faqs = ЧПП
+vpn-pricing-refund-policy = Која је политика рефундирања за { -brand-name-mozilla-vpn }?
 
 ## Mobile only subscription copy
 
