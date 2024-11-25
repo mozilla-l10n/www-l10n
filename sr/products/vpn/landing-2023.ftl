@@ -46,3 +46,12 @@ vpn-landing-no-bandwidth-restrictions-or = Без ограничења проп�
 vpn-landing-extra-security-whole-device = Додатна безбедност: заштита целог уређаја, вишеструко усмеравање и још много тога
 vpn-landing-see-all-features = Погледајте све функције
 vpn-landing-fram-a-brand-you-can-trust = Од бренда којем можете веровати
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } је непрофитна интернет компанија која се бори за здрав интернет још од 1998. године.
+vpn-landing-one-subscription-for-all-your = Једна претплата за све ваше уређаје
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Покреће { -brand-name-mozilla }.</strong> У борби за ваше право на приватности од 1998. године.
+vpn-landing-learn-more-from-our-experts = Сазнајте више од наших стручњака
+vpn-landing-do-you-need-a-vpn-at-home = Је ли потребно имати VPN код куће? Ево 5 разлога зашто јесте.
+vpn-landing-what-is-an-ip-address = Шта је IP адреса?
+vpn-landing-how-your-location-is-tracked = Како се прати ваша локација и како можете ограничити њено дељење
+vpn-landing-see-more-resources = Погледајте више ресурса

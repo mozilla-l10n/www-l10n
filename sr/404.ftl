@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -13,8 +13,8 @@ not-found-page-go-back = Иди назад
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Сазнајте више</a> о { -brand-name-mozilla }-и, непрофитној организацији која стоји иза { -brand-name-firefox }-а.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Истражите</a> целу породицу { -brand-name-firefox } производа дизајнираних да поштују вашу приватност.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Преузмите</a> { -brand-name-firefox } прегледач за ваш мобилни уређај или рачунар
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Донирајте</a> { -brand-name-mozilla-foundation } и одузмите великим технолошким компанијама контролу над интернетом.

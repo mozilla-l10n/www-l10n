@@ -1,31 +1,51 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Проверите системске захтеве
-firefox-all-release-notes = Белешке о издању
-firefox-all-source-code = Изворни код
-firefox-all-need-help = Треба вам помоћ?
-firefox-all-which-browser-would = Који прегледач желите да преузмете?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Преузмите { -brand-name-firefox } на српском (sr) и више од 90 других језика
+# Obsolete string (expires 2024-10-30)
+firefox-all-download-the-firefox = Преузмите { -brand-name-firefox-browser } на српском и више од 90 других језика
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Свако заслужује приступ интернету — ваш језик никада не би требало да буде препрека. Због тога, уз помоћ посвећених волонтера широм света, чинимо { -brand-name-firefox } доступним на више од 90 језика.
+# Obsolete string (expires 2024-10-30)
+firefox-all-everyone-deserves-access = Сви заслужују приступ интернету, а ваш језик никада не би требао бити препрека. Зато је уз помоћ преданих волонтера из целог света, { -brand-name-firefox-browser } је доступан на више од 90 језика.
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Скенирајте QR кȏд да преузмете <em>{ $product_name }</em>
+firefox-all-choose-browser = Одаберите прегледач да наставите
+firefox-all-choose-platform = Одаберите платформу да наставите
+firefox-all-choose-language = Одаберите језик да наставите
+firefox-all-change-browser = Одаберите други производ
+firefox-all-change-platform = Одаберите другу платформу
+firefox-all-change-language = Одаберите други језик
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Одаберите са списка испод
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Потражите помоћ
-firefox-all-you-are-about-to-download = Спремате се да преузмете:
+# Obsolete string (expires 2024-10-30)
 firefox-all-browser = Прегледач:
+firefox-all-browser-v2 = 1. Прегледач:
+# Obsolete string (expires 2024-10-30)
 firefox-all-platform = Платформа:
+firefox-all-platform-v2 = 2. Платформа:
+# Obsolete string (expires 2024-10-30)
 firefox-all-language = Језик:
+firefox-all-language-v2 = 3. Језик:
+firefox-all-download = 4. Преузми:
 firefox-all-lang-multi = Више језика
 firefox-all-sorry-we-couldnt-find = Нажалост, нисмо могли наћи преузимање које тражите. Покушајте поново или изаберите преузимање са листе испод.
 firefox-all-the-pre-alpha-version = Пре-алфа верзија за напредне кориснике који воле ловити грешке и тестирати нове функције током развоја.
 firefox-all-64-bit-installers = 64-битна инсталација
 firefox-all-choose-a-64-bit-installer = Изаберите 64-битни инсталациони програм за рачунаре с 64-битним процесорима, који омогућавају доделу више меморије појединим програмима — посебно важно за игре или друге захтевне апликације.
 firefox-all-32-bit-installers = 32-битна инсталација
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Преузмите { -brand-name-firefox-browser } на српском и више од 90 других језика
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Сви заслужују приступ интернету, а ваш језик никада не би требао бити препрека. Зато је уз помоћ преданих волонтера из целог света, { -brand-name-firefox-browser } је доступан на више од 90 језика.
+firefox-all-check-the-system-requirements = Проверите системске захтеве
+firefox-all-release-notes = Белешке о издању
+firefox-all-source-code = Изворни код
+firefox-all-need-help = Треба вам помоћ?
 firefox-all-choose-which-firefox = Изаберите { -brand-name-firefox-browser } верзију коју желите да преузмете на свом језику
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 firefox-all-learn-about-firefox = Сазнајте више о { -brand-name-firefox } прегледачима
@@ -35,7 +55,6 @@ firefox-all-test-your-sites-against = Тестирајте ваше страни
 firefox-all-count-on-stability-and = Можете да рачунате на стабилност и једноставност коришћења уз { -brand-name-firefox } прегледач намењеног предузећима.
 firefox-all-windows-installers-for = Windows инсталациони програми за корпоративна IT одељења који поједностављују конфигурацију, употребу и управљање { -brand-name-firefox-browser } прегледачем.
 firefox-all-arm64-installers = ARM64/AArch64 инсталације
-firefox-all-arm64-installers-optimized = ARM64/AArch64 инсталације су оптимизоване за Snapdragon { -brand-name-windows } рачунаре.
 firefox-all-product-send-link = Пошаљите везу за преузимање на телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
