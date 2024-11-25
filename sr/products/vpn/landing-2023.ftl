@@ -23,3 +23,26 @@ vpn-landing-hide-your-activity-from = Сакријте ваше радње од 
 vpn-landing-helps-you-access-global = Помаже вам да приступите глобалном садржају
 vpn-landing-check-out-streaming-media = Гледајте платформе за стриминг, сајтове и преносе уживо из других држава док путујете или код куће.
 vpn-landing-features = Функције
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices =
+    { $devices ->
+        [one] Повежите { $devices } уређај
+        [few] Повежите до { $devices } уређаја
+       *[other] Повежите до { $devices } уређаја
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Више од { $servers } сервера у више од { $countries } држава
+        [few] Више од { $servers } сервера у више од { $countries } држава
+       *[other] Више од { $servers } сервера у више од { $countries } држава
+    }
+vpn-landing-fast-network-speeds-even-while = Брза мрежа чак и током играња
+vpn-landing-no-logging-tracking-or-sharing = Без бележења, праћења или дељења мрежних података
+vpn-landing-no-bandwidth-restrictions-or = Без ограничења пропусности или пригушења
+vpn-landing-extra-security-whole-device = Додатна безбедност: заштита целог уређаја, вишеструко усмеравање и још много тога
+vpn-landing-see-all-features = Погледајте све функције
+vpn-landing-fram-a-brand-you-can-trust = Од бренда којем можете веровати
