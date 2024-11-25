@@ -33,6 +33,7 @@ vpn-your-download-should-start = Боргирии барномаи «{ -brand-na
 vpn-open-the-file = 1. Файлро кушоед
 vpn-launch-the-app = 2. Барномаро оғоз кунед
 vpn-login-or-signup = 3. Ворид шавед ё сабти ном кунед
+vpn-enter-your-email = Барои ворид шудан нишонии почтаи электронии худро ворид кунед ё барои оғози кор сабти ном кунед
 vpn-turn-on-vpn = 4. «VPN»-ро фаъол созед
 
 ## FAQ Strings
