@@ -36,12 +36,30 @@ firefox-all-platform-v2 = 2. Платформа:
 firefox-all-language = Језик:
 firefox-all-language-v2 = 3. Језик:
 firefox-all-download = 4. Преузми:
+firefox-all-desktop = Рачунар
+firefox-all-mobile = Мобилни
+firefox-all-recommended = (Препоручено)
 firefox-all-lang-multi = Више језика
+firefox-all-plat-mobile = Android и iOS
 firefox-all-sorry-we-couldnt-find = Нажалост, нисмо могли наћи преузимање које тражите. Покушајте поново или изаберите преузимање са листе испод.
 firefox-all-the-pre-alpha-version = Пре-алфа верзија за напредне кориснике који воле ловити грешке и тестирати нове функције током развоја.
 firefox-all-64-bit-installers = 64-битна инсталација
 firefox-all-choose-a-64-bit-installer = Изаберите 64-битни инсталациони програм за рачунаре с 64-битним процесорима, који омогућавају доделу више меморије појединим програмима — посебно важно за игре или друге захтевне апликације.
 firefox-all-32-bit-installers = 32-битна инсталација
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ова опција ће отворити страницу { -brand-name-firefox } производа на Microsoft Store веб порталу. Ако користите Windows 10 или Windows 11, имаћете опцију да отворите Microsoft Store са ове странице и инсталирате { -brand-name-firefox }. Ако инсталирате из Microsoft Store-а, ажурирања за { -brand-name-firefox } ће се такође обављати путем Microsoft Store-а. Постоје мале разлике у раду и могућностима { -brand-name-firefox }-а када се инсталира из Microsoft Store-а, али за већину корисника ове разлике нису приметне.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Преузмите { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Налазимо се у прелазном периоду између главних ESR верзија { $esr_next_major } и { $esr_current_major }.
+firefox-all-esr-when-there-is = Када дође до већег ажурирања верзије, увек постоји преклапање неколико { -brand-name-firefox-esr } издања како би се омогућило људима који користе стару верзију да се припреме за прелазак на нову.
+firefox-all-esr-if-you-choose = Ако одаберете да преузмете старију ESR верзију, бићете аутоматски ажурирани на нову када се прелазни период заврши.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Прочитајте више о <a { $attrs }>{ -brand-name-firefox-esr } циклусу издања</a>.
 firefox-all-check-the-system-requirements = Проверите системске захтеве
 firefox-all-release-notes = Белешке о издању
 firefox-all-source-code = Изворни код
@@ -55,6 +73,8 @@ firefox-all-test-your-sites-against = Тестирајте ваше страни
 firefox-all-count-on-stability-and = Можете да рачунате на стабилност и једноставност коришћења уз { -brand-name-firefox } прегледач намењеног предузећима.
 firefox-all-windows-installers-for = Windows инсталациони програми за корпоративна IT одељења који поједностављују конфигурацију, употребу и управљање { -brand-name-firefox-browser } прегледачем.
 firefox-all-arm64-installers = ARM64/AArch64 инсталације
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 инсталације оптимизоване за Windows и Linux рачунаре.
+firefox-all-testflight = Пријавите се да тестирате { -brand-name-firefox } за iOS са TestFlight-ом
 firefox-all-product-send-link = Пошаљите везу за преузимање на телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -78,3 +98,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Преузмите ESR 115
+firefox-all-note-unsupported = Напомена: ако користите Windows 7, Windows 8, Windows 8.1, или macOS 10.12, 10.13 или 10.14, преузмите ESR 115 да би могли користити { -brand-name-firefox }.

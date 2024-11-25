@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Преузмите { -brand-name-firefox
 firefox-desktop-download-og-title = Преузмите најбржи { -brand-name-firefox } икада
 firefox-desktop-download-og-desc = Нови { -brand-name-firefox } је овде уз брже учитавање страница, мању потрошњу меморије и натрпан многим корисним функцијама.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Доступан је још новији { -brand-name-firefox }. <a { $update_url }>Ажурирајте на најновију верзију</a>
 firefox-desktop-download-get-the-browser = Преузмите прегледач који штити оно што је вредно
 # shady is slang which suggests something is untrustworthy
 firefox-desktop-download-no-shady = Без нејасних правила о приватности или оглашивача из залеђа. Само брз прегледач који не тргује вашим подацима.

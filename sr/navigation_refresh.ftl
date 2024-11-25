@@ -18,6 +18,7 @@ navigation-refresh-innovation-projects = Иновациони пројекти
 navigation-refresh-innovation-projects-v2 = Иновациони пројекти
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Наша мисија
+navigation-refresh-our-work = Наш рад
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } оглашавање
