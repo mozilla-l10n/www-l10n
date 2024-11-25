@@ -31,3 +31,7 @@ footer-refresh-visit-mozilla-corporations = Посетите непрофитн�
 footer-refresh-portions-of-this-content = Права над деловима овог садржаја су ©1998–{ $current_year } појединачни сарадници mozilla.org пројекта. Садржај је доступан под <a rel="license" { $href }>{ -brand-name-creative-commons } лиценцом</a>.
 footer-refresh-websites-privacy-notice = Обавештење о приватности сајта
 footer-refresh-websites-cookies = Колачићи
+footer-refresh-websites-legal = Правно
+footer-refresh-community-participation-guidelines = Смернице за учешће у заједници
+footer-refresh-about-this-site = О овом сајту
+footer-refresh-language = Језик

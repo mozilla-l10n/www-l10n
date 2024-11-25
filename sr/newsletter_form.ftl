@@ -13,14 +13,17 @@ newsletter-form-yournameexamplecom = вашеиме@example.com
 newsletter-form-select-country-or-region = Изаберите државу или покрајину
 newsletter-form-select-language = Изаберите језик
 newsletter-form-your-email-here = ВАША АДРЕСА Е-ПОШТЕ ОВДЕ
-newsletter-form-format = Формат
-newsletter-form-html = HTML
-newsletter-form-text = Текст
 newsletter-form-get-firefox-news = Примите новости о { -brand-name-firefox }-у
+newsletter-form-join-the-community = Придружите се заједници
+newsletter-form-sign-up-to-receive = Пријавите се да бисте примали месечна ажурирања од { -brand-name-firefox }-а и интернет трендова који обликују ваш живот на мрежи.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Не смета ми да { -brand-name-mozilla } рукује мојим подацима као што је објашњено у <a href="{ $url }">овој Изјави приватности</a>
+newsletter-form-we-will-only-send-v2 = Слаћемо вам само информације везане за { -brand-name-mozilla }-у. Можете се одјавити било када.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = Слаћемо вам само информације везане за { -brand-name-mozilla }-у.
+newsletter-form-we-will-only-send-firefox-v2 = Слаћемо вам само информације везане за { -brand-name-firefox }. Можете се одјавити било када.
+# Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = Слаћемо вам само информације везане за { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Мораћете да потврдите пријаву на један од { -brand-name-mozilla } билтена ако већ нисте. Проверите вашу сандуче е-поште или филтер за непожељну пошту.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ти
@@ -35,6 +38,8 @@ newsletter-form-thanks = Хвала!
 newsletter-form-leave-this-field-empty = Оставите ово поље празним
 newsletter-form-yes = Да
 newsletter-form-no = Не
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Образац за претплату
 multi-newsletter-form-checkboxes-legend = Желим информације о:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
