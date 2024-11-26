@@ -17,6 +17,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } за { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Преузмите прилагодљиви прегледач за { -brand-name-android } паметне телефоне.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } за { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Преузмите мобилни прегледач за ваш { -brand-name-iphone } или { -brand-name-ipad }.
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } за мобилни
+navigation-v2-take-speed-privacy-and = Добијте више брзине, приватности и мира. За { -brand-name-android } и { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Једноставно, приватно мобилно прегледање.
 navigation-v2-firefox-blog = { -brand-name-firefox } блог
@@ -29,6 +31,7 @@ navigation-v2-view-all-firefox-browsers = Погледајте све { -brand-n
 
 navigation-v2-products = Производи
 navigation-v2-close-products-menu = Затвори мени Производи
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Проверите да ли се ваша адреса е-поште појавила у цурењу података из компаније.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Сачувајте и откријте најбоље приче широм интернета.
@@ -42,6 +45,8 @@ navigation-v2-sign-up-for-new-accounts = Региструјте се за нов
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нове функције и алатке за прилагођено { -brand-name-mdn } искуство
 navigation-v2-view-all-products = Погледајте све производе
+navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Користите ВИ да откријете лажне рецензије и преваре
 
 ## Who We Are menu
 
@@ -60,6 +65,8 @@ navigation-v2-work-for-a-mission-driven-updated = Радите за органи
 navigation-v2-mozilla-blog = { -brand-name-mozilla } блог
 navigation-v2-learn-about-mozilla-and = Сазнајте о { -brand-name-mozilla }-и и проблемима који су нам битни.
 navigation-v2-more-about-mozilla = Више о { -brand-name-mozilla }-и
+navigation-v2-impact = Утицај
+navigation-v2-find-out-how = Сазнајте како правимо интернет приступачнијим и одрживијим местом
 
 ## Innovation menu
 
@@ -75,3 +82,5 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Позајмите ваш глас како би будућност интернета допрела до свакога.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Сазнајте више о новом језику ниског нивоа, налик асемблеру.
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } иновациони пројекти
+navigation-v2-discover-ways-to-bring = Откријте начине да остварите добре идеје.

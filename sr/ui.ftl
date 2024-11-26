@@ -21,3 +21,5 @@ ui-show-all = Прикажи све
 ui-hide-all = Сакриј све
 ui-learn-more = Сазнајте више
 ui-view = Преглед
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Промоција
