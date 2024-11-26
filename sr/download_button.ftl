@@ -39,7 +39,24 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> за { -brand
 download-button-firefox-privacy = { -brand-name-firefox } приватност
 download-button-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 download-button-download = Преузимање
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">више није подржан</a> на { $os_version } и ниже.
+download-button-please-download-esr = Преузмите { -brand-name-firefox-esr } (издање проширене подршке) да користите { -brand-name-firefox }.
 download-firefox-esr = Преузмите { -brand-name-firefox-esr }
+download-firefox-esr-32 = Преузмите { -brand-name-firefox-esr } 32-битни
+download-firefox-esr-64 = Преузмите { -brand-name-firefox-esr } 64-битни
+download-a-different-build = Преузмите другу верзију
 
 ## Linux
 
+download-button-linux-32-v2 = Преузмите за Linux 32-битни
+download-button-linux-64-v2 = Преузмите за Linux 64-битни
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Користите Debian, Ubuntu или било коју дистрибуцију засновану на Debian-у?<br> Уместо тога можете поставити наш <a { $attrs }>APT репозиторијум</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Преузмите са Microsoft-а
