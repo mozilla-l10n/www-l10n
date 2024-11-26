@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: брз и ефикаса�
 about-when-you-use-the-new-firefox = Када користите нови { -brand-name-firefox }, стичете невероватно брзо искуство и подржавате { -brand-name-mozilla }-ину мисију да одржи здрав, осебујан и гостољубив интернет за све.
 about-walking-our-privacy-talk = Заштита личних података нису само празне речи
 about-when-the-facebook-breach-was = Када је откривено пропуштање података на { -brand-name-facebook }-у, { -brand-name-mozilla } је одмах реаговала – дизајнирала је производ за { -brand-name-firefox } који штити приватност корисника.
-about-talking-internet-issues-irl = Разговори о интернет проблемима IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }-ин IRL podcast, који води Manoush Zomorodi, дели вести о интернету из стварног живота и разматра питања везана за будућност интернета.
 about-corporation-foundation-not = Корпорација. Фондација. Непрофитна.
 about-learn-about-the-mozilla-foundation = Сазнајте више о { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } свим својим поступцима, делима и разговорима ставља људе испред профита. Срце нашег пословања је непрофитна фондација.
@@ -33,6 +31,8 @@ about-read-the-manifesto = Прочитајте манифест
 about-a-global-view = Глобална визија
 about-with-offices-all-over-the = Кроз <a href="{ $url }">канцеларије широм света</a>, ми размишљамо о интернету из перспективе више култура и различитих позадина.
 about-san-francisco = Сан Франциско
+about-talking-tech-issues-irl = IRL подкаст за технолошке проблеме
+about-in-mozillas-multi-award-winning = У вишеструко награђиваном { -brand-name-mozilla } подкасту, водитељица Бриџет Тод разговара са људима који обликују будућност интернета и вештачке интелигенције.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> гостију угостимо сваке године
 about-berlin = Берлин
