@@ -13,6 +13,7 @@ firefox-privacy-hub-firefox-takes-less-data-keeps = Браузери «{ -brand-
 firefox-privacy-hub-take-less = Камтар ҷамъ мекунем
 firefox-privacy-hub-we-make-a-point-of-knowing = Мо дар бораи шумо камтар маълумот дорем
 firefox-privacy-hub-keep-it-safe = Ба таври бехатар нигоҳ медорем
+firefox-privacy-hub-we-do-the-hard-work-to-protect = Мо барои муҳофизат кардани маълумоти шахсии шумо ҷиддӣ кор карда истодаем
 firefox-privacy-hub-no-secrets = Ягон сир надорем
 firefox-privacy-hub-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
 firefox-privacy-hub-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
