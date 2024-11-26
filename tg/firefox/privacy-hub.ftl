@@ -17,6 +17,7 @@ firefox-privacy-hub-no-secrets = Ягон сир надорем
 firefox-privacy-hub-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
 firefox-privacy-hub-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
 firefox-privacy-hub-your-privacy-by-the-product = Таъмини махфият дар маҳсулоти мо
+firefox-privacy-hub-firefox-products-work-differently = Маҳсулоти «{ -brand-name-firefox }» дигар хел кор мекунанд — зеро ки онҳо, пеш аз ҳама, барои ҳифз кардани махфияти шумо эҷод карда шудаанд.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/firefox/
 firefox-privacy-hub-read-the-privacy-notice-for = <a href="{ $url }">Огоҳномаи махфиятро</a> оид ба маҳсулоти мо мутолиа намоед
