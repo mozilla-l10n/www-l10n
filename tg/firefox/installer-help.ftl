@@ -24,4 +24,8 @@ installer-help-firefox-beta-desc = Ҳусусиятҳоеро, ки ба наз�
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Бо браузери ягонае, ки барои барномасозон таҳия шуддаст, лоиҳаҳоро созед, озмоед, васеъ кунед ва амалҳои дигареро иҷро намоед.
 installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
+installer-help-firefox-nightly-desc = Ба браузери интернетии насли ояндаи мо нигаред ва ба мо барои таҳия намудани браузери беҳтарин кӯмак расонед.
 installer-help-need-help = Барои насб кардани браузер кумак лозим аст?
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
+installer-help-need-help-desc = Агар ба шумо барои насб кардани барнома то ҳол кумак лозим бошад, <a href="{ $url }">дар бахши «Дастгирӣ» дастурҳоро мутолиа намоед.</a>
