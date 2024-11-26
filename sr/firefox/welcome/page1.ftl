@@ -5,16 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-# HTML page title
-welcome-page1-more-than-a-browser-firefox = Више од прегледача, { -brand-name-firefox-monitor } ће вас заштитити од хакера
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Предузмите следећи корак да заштитите вашу приватност на мрежи помоћу { -brand-name-firefox } породице производа.
-welcome-page1-stay-ahead-of-hackers-check = Будите корак испред хакера. Пратите цурење података преко { -brand-name-firefox-monitor }-а
+welcome-page1-stay-ahead-of-hackers-check-v2 = Будите корак испред хакера. Пратите цурење података преко { -brand-name-mozilla-monitor }-а
 welcome-page1-youre-on-track-to-stay-protected = На добром сте путу ка бољој заштити
 welcome-page1-youve-got-the-web-browser = Већ имате прегледач који штити вашу приватност, а сада је време да се сачувате од хакера.
 welcome-page1-check-your-breach-report = Погледајте извештај о цурењу података
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } вам показује да ли су се ваши подаци појавили у случајевима цурења података и упозорава вас када сте потенцијално угрожени.
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } вам показује да ли су се ваши подаци појавили у случајевима цурења података и упозорава вас када сте потенцијално угрожени.
 welcome-page1-stay-ahead-of-hackers = Будите корак испред хакера
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

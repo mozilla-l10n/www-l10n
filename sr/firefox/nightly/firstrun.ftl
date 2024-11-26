@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
@@ -11,7 +11,7 @@ nightly-firstrun-choose-an-area = Изаберите неку област у к
 nightly-firstrun-test = Тестирајте
 nightly-firstrun-find-and-file-bugs = Пронађите и пријавите грешке и будите сигурни да све ради како треба.
 nightly-firstrun-start-testing = Започните тестирање
-nightly-firstrun-code = Код
+nightly-firstrun-code = Кодирајте
 nightly-firstrun-file-bugs-and-work = Пријавите грешке и правите блокове { -brand-name-firefox } прегледача.
 nightly-firstrun-start-coding = Започните са кодирањем
 nightly-firstrun-localize = Локализујте

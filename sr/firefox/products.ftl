@@ -3,52 +3,66 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
 # HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од прегледача
+firefox-products-mozilla-products = { -brand-name-mozilla } производи
 # HTML page description
-firefox-products-its-a-whole-family-of-products = То је цела породица производа дизајнираних за сигурније и паметније прегледање.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } је <strong>више</strong> од прегледача
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } породица производа је осмишљена да будете безбеднији и паметнији на мрежи
+firefox-products-products = Производи
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } је само почетак.
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } породица производа је осмишљена да будете безбеднији и паметнији на мрежи.
+
+## Firefox
+
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Преузмите прегледач који аутоматски блокираја преко 2000 елемената за праћење. Побољшана заштита од праћења је доступна у сваком { -brand-name-firefox } прегледачу.
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Прегледач намењен штићењу ваше приватност са аутоматском заштитом праћења и блокирањем огласа.
+
+## Monitor
+
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Проверите да ли се ваши подаци појављују у цурењу података компанија и пријавите се за будућа упозорења.
 firefox-products-check-for-breaches = Проверите цурења података
-firefox-products-sign-up-for-breach-alerts = Региструјте се за упозорења о цурењу података
-firefox-products-firefox-browsers = { -brand-name-firefox } прегледачи
-firefox-products-get-the-browsers-that-block = Преузмите прегледаче који аутоматски за вас блокирају преко 2000 програма за праћење података. Побољшана заштита од праћења је доступна у сваком { -brand-name-firefox } прегледачу.
-firefox-products-desktop = Десктоп
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Погледајте све прегледаче
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Боља контрола над сандучетом почиње заштитом ваше праве адресе е-поште.
+firefox-products-get-relay = Преузмите { -brand-name-firefox-relay }
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Сурфујте вебом, гледајте видее и радите на серверима у преко 30 земаља за безбедну интернет везу са новом перспективом.
 firefox-products-get-mozilla-vpn = Преузмите { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Боља контрола над сандучетом почиње заштитом ваше праве адресе е-поште.
-firefox-products-learn-more-about-relay = Сазнајте више о { -brand-name-firefox-relay }-у
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Чувајте ваше лозинке и приступајте им на свим вашим синхронизованим уређајима.
-# Obsolete string
-firefox-products-download-lockwise = Преузмите { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Отворите у { -brand-name-firefox }-у
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Сазнајте више о { -brand-name-lockwise }-у
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Сигурно шаљите велике датотеке и осетљива документа, величине до 2.5G.
-firefox-products-send-a-file = Пошаљите датотеку
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Ресурси од програмера за програмере. Подржите { -brand-name-mdn } и направите сопствени стил преко збирки, обавештења и простора за експерименте.
+firefox-products-support-mdn = Подржите { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Приступите свим вашим е-поштама, календарима и контактима у овој брзој апликацији. Филтрирајте и организујте их по жељи.
+firefox-products-download-thunderbird = Преузмите { -brand-name-thunderbird }
+
+## Fakespot
+
+firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } вас штити приликом куповине на интернету — уклања преваранте и проналази најбоље понуде. Ову услугу пружа { -brand-name-mozilla }.
+firefox-products-analyze = Анализирај URL адресу
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content = Откријте најбољи садржај на мрежи — и уживајте у њему кад год желите.
+firefox-products-discover-the-best-content-v2 = Откријте најбољи садржај на интернету — прегледајте га било где и било када. Ову услугу пружа { -brand-name-mozilla }.
 firefox-products-get-pocket = Преузмите { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Сазнајте више о { -brand-name-pocket }-у
-firefox-products-join-firefox-and-get-the-most = Придружите се { -brand-name-firefox }-у и извуците максимум из сваког производа — на сваком од ваших уређаја.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Већ имате налог? <a { $fxa_attr }>Пријавите се</a> или <a { $accounts_attr }>сазнајте више</a> о придруживању { -brand-name-firefox }-у.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Прегледач намењен штићењу ваше приватност са аутоматском заштитом праћења и блокирањем огласа.
