@@ -5,49 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
-# HTML page title
-compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } или { -brand-name-brave }: који је бољи избор за вас?
+# Page title
+compare-brave-firefox-vs-brave = { -brand-name-firefox } vs Brave
 # HTML page description
-compare-brave-compare-brave-to-the-firefox = Упоредите { -brand-name-brave } са { -brand-name-firefox-browser }-ом да бисте сазнали који је прегледач бољи за вас у погледу приватности, употребљивости и преносивости.
-# Main title
-compare-brave-comparing-firefox-browser = Поређење { -brand-name-firefox-browser }-а и { -brand-name-brave }-а
-# "Brave Software" is a brand name.
-compare-brave-just-like-the-firefox-browser = Као и { -brand-name-firefox }, { -brand-name-brave } прегледач је бесплатан, отвореног кода и фокусиран на заштиту приватности својих корисника. { -brand-name-brave } је релативно новост у свету прегледача: његов творац, { -brand-name-brave } софтвер, први пут га је објавио у јануару 2016. У овом чланку ћемо упоредити наш { -brand-name-firefox } прегледач са { -brand-name-brave } прегледачем преко три критеријума: приватност, употребљивост и преносивост.
-# To "piggy-back" means to ride on someone's back or shoulders, and here means that open source software builds upon the work of others.
-# Variables:
-#   $opera (string) - link to /firefox/browsers/compare/opera/ with additional attributes for analytics
-#   $edge (string) - link to /firefox/browsers/compare/edge/ with additional attributes for analytics
-compare-brave-the-brave-browser-like-so = { -brand-name-brave } прегледач, као и многи други, изграђен је на отвореном коду { -brand-name-chromium }-а, којег је развио { -brand-name-google }. Отвореног кода значи да било ко други може да користи изворни код како би створио оно што жели — као са прегледачима  <a { $opera }>{ -brand-name-opera }</a> и <a { $edge }>{ -brand-name-edge }</a>. Али ово не значи да су сви прегледачи засновани на { -brand-name-chromium }-у једнаки или отвореног кода.
-compare-brave-brave-differentiates-itself = { -brand-name-brave } се разликује од осталих прегледача који потичу од { -brand-name-chromium }-а фокусирањем на приватност корисника — посебно подразумеваним блокирањем пратилаца, скрипти и огласа. Дакле, када користите { -brand-name-brave } прегледач, делови веб странице који би обично приказивали огласе приказују се као празни простори. У неким случајевима се странице не учитавају исправно, што ће вас приморати или да одаберете други прегледач или да промените ‘Штит омогућен’ на ‘Штит онемогућен’, што онемогућава заштиту приватности и безбедности.
-# "Basic Attention Token" and "BAT" are brand names. "a.k.a." is an abbreviation of "also known as".
-compare-brave-the-internet-as-a-whole-is = Интернет у целини се у великој мери финансира од приказивања огласа, што одржава садржај који желите да прегледате бесплатним. { -brand-name-brave } је покушао побољшати овај модел подстичући своје кориснике да се одлуче за { -brand-name-brave } систем награђивања, који је у ствари његова сопствена рекламна платформа. Ако пристанете на ово, { -brand-name-brave } ће приказати тзв. “огласе који поштују приватност” за које можете, гледајући их, зарадити тзв. основни токен за пажњу (Basic Attention Token). Тада корисници { -brand-name-brave }-а могу потрошити своје токене на подршку страница или појединих сарадника који им се допадају, а они заузврат могу претворити токене у стварну валуту.
-compare-brave-whether-this-sounds-complicated = Било да ово звучи компликовано или као сјајна идеја вероватно зависи од вашег нивоа презира према интернет оглашавању. Већина корисника интернета разуме да добар садржај кошта и схвата да новац долази од оглашавања.
-# Variables:
-#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with additional attributes for analytics
-compare-brave-on-the-other-side-of-the-coin = С друге стране, уз { -brand-name-firefox } прегледач, ми радије поједностављујемо ствари. { -brand-name-firefox } блокира многе програме за праћење, крипто-рударе и хватаче дигиталних отисака прстију. Међутим, { -brand-name-firefox }, изван приватног режима, одлучује да не блокира приказивање визуелних реклама. Осим ако, наравно, не инсталирате <a { $attrs }>једно од проширења посебно осмиђљених за ову сврху</a>.
-# Variables:
-#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
-#   $extension (string) - link to https://addons.mozilla.org/addon/https-everywhere/ with additional attributes for analytics
-#   $privacy (string) - link to /firefox/privacy/products/ with additional attributes for analytics
-compare-brave-there-are-a-few-of-braves = Неке сигурносне функције у { -brand-name-brave }-у вреди истакнути, нпр. његове аутоматске надоградње HTTPS везе (које { -brand-name-firefox } такође нуди путем <a { $extension }>проширења</a>). { -brand-name-brave } и { -brand-name-firefox } корисницима нуде изворни <a { $lockwise }>менаџер лозинки</a> и могућност провере њихових безбедносних статистика било када. { -brand-name-brave } приказује статистику као што је број пратилаца које блокира сваки пут када отворите нови језичак. { -brand-name-firefox } приказује сличне податке када отворите <a { $privacy }>ваш извештај о приватности</a>, који је доступан у било ком тренутку кликом на штит у адресној траци.
-# "Basic Attention Token" is a brand name.
-compare-brave-the-bottom-line-is-that-even = Суштина је да { -brand-name-brave } модел прихода са основним токенима за пажњу може бити прекомплпикован за већину корисника. Уопште, и { -brand-name-brave } и { -brand-name-firefox } прегледачи нуде разне могућности за уживање у сигурном и приватном прегледању интернета.
-compare-brave-what-might-surprise-some-new = Оно што би могло да изненади неке нове { -brand-name-brave } кориснике је брзина којом се странице учитавају у прегледачу. Разлог за ова глатка учитавања је то што се странице учитавају много брже ако блокирате све рекламе на њима. Просто речено - има мање садржаја за учитавање.
-compare-brave-in-terms-of-actual-precious = У погледу стварне употребе драгоценог RAM-а, { -brand-name-brave } прегледач је много захтевнији од { -brand-name-firefox }-а. { -brand-name-brave } је фабрички опремљен разним функцијама и “додацима” који доводе до веће употребе меморије. С друге стране, { -brand-name-firefox } вас пушта да сами одлучите које додатке и проширења желите да инсталирате.
-# Variables:
-#   $addons - link to addons.mozilla.org/firefox/ with additional attributes for analytics
-#   $screenshot - link to screenshots.firefox.com with additional attributes for analytics
-#   $pocket - link to getpocket.com with additional attributes for analytics
-compare-brave-customization-of-ui-elements = Виџети и теме су годинама били омиљена функција { -brand-name-firefox } корисника и наша ентузијастична заједница програмера створила је <a { $addons }>огромну библиотеку</a> додатака отвореног кода и проширења, који омогућавају још више персонализације и функционалности. Функције које долазе уз { -brand-name-firefox } приликом преузимања укључују <a { $screenshot }>алатку за снимање екрана</a>, функције приступачности и <a { $pocket }>{ -brand-name-pocket }</a> — алатку која корисницима омогућава да брзо сачувају чланак на било ком уређају за касније читање.
-compare-brave-brave-also-supports-the-huge = { -brand-name-brave } такође подржава огромну библиотеку додатака доступну у { -brand-name-google } { -brand-name-chrome } веб продавници и нуди различите функције у прегледачу, попут горе наведених { -brand-name-brave } програма награђивања и подршке за преузимање торент датотека у прегледачу.
-compare-brave-the-ability-to-sync-your-passwords = Могућност синхронизације лозинки, проширења, података образаца, додатака и још много тога на свим вашим уређајима и оперативним системима је функција која је већ годинама доступна у { -brand-name-firefox }-у. Синхронизовани подаци су шифровани и ниједна трећа страна им не може приступити.
-# Variables:
-#   $accounts (string) - link to /firefox/accounts/ with additional attributes for analytics
-#   $monitor (string) - link to monitor.firefox.com with additional attributes for analytics
-#   $breaches (string) - link to monitor.firefox.com/breaches with additional attributes for analytics
-compare-brave-the-firefox-browser-also-gives = Помоћу { -brand-name-firefox } прегледача корисници се могу регистровати за бесплатан <a { $accounts }>{ -brand-name-firefox-account }</a>. { -brand-name-firefox } налог је кључ за синхронизацију између уређаја. Такође, имате додатну корист од производа као што је <a { $monitor }>{ -brand-name-firefox-monitor }</a>, који надгледа ваше адресе е-поште и обавештава вас ако открије ваше податке у познатом <a { $breaches }>цурењу података</a>.
-# "Basic Attention Token" is a brand name.
-compare-brave-brave-also-recently-gained = { -brand-name-brave } је недавно добио опцију за синхронизацију података на најпопуларнијим оперативним системима и уређајима. Такође, можете да синхронизујете ваше основне токене пажње.
-compare-brave-when-comparing-the-two-browsers = Када се упоређују ова два прегледача, и { -brand-name-firefox } и { -brand-name-brave } подразумевано нуде један отмени ниво приватности и безбедности, који је аутоматски доступан од првог покретања.
-compare-brave-overall-brave-is-a-fast-and = Све у свему, { -brand-name-brave } је брз и сигуран прегледач који ће бити посебно привлачан корисницима криптовалута. С друге стране, { -brand-name-firefox } остаје боље и једноставније решење за велику већину интернет корисника.
-compare-brave-braves-advertising-replacement = Идеја да { -brand-name-brave } замени тренутни модел постављања огласа и плаћене претраге представља прекретницу од тренутног пословног модела. Међутим, неки заузети интернет корисници вероватно немају потребу да управљају микроплаћањем веб сајтова у замену за своје време и пажњу.
+compare-brave-read-our-comparison = Прочитајте наше поређење { -brand-name-firefox } и Brave прегледача у погледу функција, приватности и једноставности коришћења.
+# "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } подешавања приватности су снажна и једноставна за коришћење. Подразумевани Brave блокатор огласа може да изазове проблеме на сајтовима које посећујете, те би требало стално да га намештате. Желимо да функције приватности буду довољно једноставне за коришћење да би их ви и <em>користили</em>.
+compare-brave-firefox-makes-it-easy-for-you = Када претражујете, { -brand-name-firefox } вам омогућава да лако изаберете који претраживач да користите. Brave подразумевано користи сопствени претраживач, а ви морате да прођете кроз подешавања претраживача да одаберете неки други.
