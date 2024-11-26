@@ -65,8 +65,8 @@
 
 ## Firefox products
 
--brand-name-facebook-container = Дарбаргирандаи Facebook
--brand-name-firefox-devtools = Абзорҳои барномарезии Firefox
+-brand-name-facebook-container = Дарбаргирандаи «Facebook»
+-brand-name-firefox-devtools = Абзорҳои барномарезии «Firefox»
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync = Ҳамоҳангсозии Firefox
@@ -110,7 +110,7 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-mdn-plus = MDN Plus
--brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии MDN
+-brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии «MDN»
 -brand-name-mozilla-common-voice = «Mozilla Common Voice»
 -brand-name-mozilla-festival = Ҷашнвораи «Mozilla»
 -brand-name-mozilla-monitor = Mozilla Monitor
