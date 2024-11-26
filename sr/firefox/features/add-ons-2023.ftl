@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/features/add-ons/
 
-compare-shared-footer-cta-button = Преузмите { -brand-name-firefox }
+features-add-ons-firefox-add-ons = { -brand-name-firefox } додаци

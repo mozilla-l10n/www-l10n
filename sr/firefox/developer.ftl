@@ -76,3 +76,4 @@ firefox-developer-made-for-developers = Прегледач направљен з
 firefox-developer-a-separate-profile = <strong>Одвојен профил и путања</strong> за лако покретање уз стандардну или { -brand-name-beta } { -brand-name-firefox } верзију.
 firefox-developer-preferences-tailored = Подешавања <strong>скројена за веб програмере</strong>: Отклањање грешака у прегледачу и удаљено су подразумевано омогућени, као и тамна тема и брз приступ алаткама за програмере.
 firefox-developer-congrats-you-now-have-latest-v2 = Сада имате најновију { -brand-name-firefox-developer-edition } верзију.
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
