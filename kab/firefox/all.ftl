@@ -32,6 +32,9 @@ firefox-all-64-bit-installers = Imsebdaden 64 n yibiten
 firefox-all-choose-a-64-bit-installer = Fren amsebdad 64 n yibiten i yiselkimen s usasfar 64 n yibiten, ayen ara yeǧǧen tiḥeṛṛit n wayen ilaqen n tkatut RAM i yal ahil — d ayen ilaqen ladɣa i wuraren akked yisnasen yettlaẓen takatut.
 firefox-all-32-bit-installers = Imsebdaden 32 n yibiten
 firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Sader { $esr_version }
 firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
 firefox-all-release-notes = Iwenniten n lqem
 firefox-all-source-code = Tangalt aɣbalu

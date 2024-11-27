@@ -92,6 +92,10 @@
 -brand-name-firefox-private-network = Azeṭṭa n tbaḍnit n Firefox
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket

@@ -10,8 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } d iminig arurrad ugar n wiyaḍ, yegber ifecka n tneflit n tsuta taneggarut akked timahilin timaynutin am usefrek n twezza CSS neɣ tamseɣtayt n uframework.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Anṣuf yes-k ar yiminig-ik amaynut i t-ḥemmleḍ. Awi timahilin tineggura, d tmellit ifazen akked ifecka n tneflit i tesriḍ akken ad tebnuḍ web yeldin.
 firefox-developer-speak-up = Meslay
 firefox-developer-feedback-makes-us = Tikti-ik d ayen yelhan. Ini-yaɣ-d amek nezmer ad tnesnerni iminig akked ifecka n tneflit.
@@ -72,11 +71,7 @@ firefox-developer-the-new-fonts-panel = Agalis n tsefsit amaynut deg { -brand-na
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Sider iminig { -brand-name-firefox } ittwaxedmen i yineflayen
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } iɛawed tamuɣli akken ad yuɣal d arurad ugar, d uzmir ugar akken werǧin yella.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Ansuf ɣer { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Iminig yettwag i yineflayen
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Ayuz. Tesεiḍ tura lqem akk aneggaru n { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Tiɣbula i yineflayen, sɣur ineflayen.
 firefox-developer-mdn-references = Ismenyifen { -brand-name-mdn }
