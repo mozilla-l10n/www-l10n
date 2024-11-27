@@ -42,6 +42,8 @@ CO01:
             # firefox/privacy/passwords.ftl
             - privacy-passwords-firefox-will
             - privacy-passwords-in-todays-internet
+            # mozorg/about-m24.ftl
+            - m24-about-monitor
             # mozorg/mission.ftl
             - mission-at-mozilla-were-a-global-community
             - mission-read-the-mozilla-manifesto-to-learn
