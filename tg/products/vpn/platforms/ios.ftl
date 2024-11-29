@@ -14,3 +14,5 @@ vpn-ios-servers-headline = Ба зиёда аз { $servers }+ сервер да�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-ios-devices-headline = Гирифтани дастрасӣ дар { $devices } дастгоҳ
+vpn-ios-speed-headline = Суръатҳои баландтарин. Маълумоти номаҳдуд.
+vpn-ios-log-headline = Маълумоти шумо ба таври махфӣ нигоҳ дошта мешавад. Тамоман.
