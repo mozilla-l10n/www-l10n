@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
+features-private-what-information-does-firefox = Браузери «{ -brand-name-firefox }» кадом маълумотро ҷамъ мекунад?

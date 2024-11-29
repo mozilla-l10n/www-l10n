@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = «{ -brand-name-mozilla-vpn }» дар низоми амалкунандаи «Linux»
+vpn-linux-mozilla-vpn-on-linux = «{ -brand-name-mozilla-vpn }» дар низоми амалкунандаи «Linux» барои махфияти бештар ва Интернети бехатартар
 vpn-linux-why-choose = Чаро ман бояд барои низоми амалкунандаи «Linux» аз «{ -brand-name-mozilla-vpn }» истифода барам?
 vpn-linux-how-to-install = Тарзи насб кардани «{ -brand-name-mozilla-vpn }» дар низоми амалкунандаи «Linux»

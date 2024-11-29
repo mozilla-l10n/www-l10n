@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-vpn-for-pc = «VPN» барои компютерҳои шахсӣ ё ноутбукҳо аз «{ -brand-name-mozilla }»
+vpn-desktop-how-does-a = Чӣ тавр «VPN» ноутбук ё компютери маро муҳофизат мекунад?
