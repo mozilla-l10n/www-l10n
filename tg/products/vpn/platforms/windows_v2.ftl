@@ -8,3 +8,4 @@
 # New strings for updated page
 vpn-windows-get-a-vpn = Ба даст овардани «VPN» барои низоми амалкунандаи «Windows» аз «{ -brand-name-mozilla }»
 vpn-windows-protect-your-windows = Дастгоҳи худро бо низоми амалкунандаи «Windows» ба воситаи «VPN» муҳофизат кунед. «{ -brand-name-mozilla } VPN» аз тарафи ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад. Омӯзед, ки чӣ тавр «VPN» шуморо муҳофизат мекунад ва чаро шумо бояд барои таъмини махфият ва амнияти худ ба «{ -brand-name-mozilla }» бовар кунед.
+vpn-windows-stay-safe = Дар дастгоҳи худ бо низоми амалкунандаи «Windows» ба воситаи «VPN» дар вазъи бехатар ва эмин бошед
