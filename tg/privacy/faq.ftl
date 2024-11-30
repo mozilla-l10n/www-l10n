@@ -8,6 +8,7 @@
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = Саволҳои роиҷ оид ба махфияти иттилоот дар «{ -brand-name-mozilla }»
 privacy-faq-at-mozilla-we-respect-and-protect-desc = Дар «{ -brand-name-mozilla }» мо маълумоти шахсии шуморо эҳтиром ва муҳофизат мекунем.
+privacy-faq-we-stand-for-people-over-profit = Мо тарафдори одамон ҳастем, ки аз фоидаи молӣ зиёдтар аст.
 privacy-faq-at-mozilla-we-respect-and-protect = Дар «{ -brand-name-mozilla }» мо маълумоти шахсии шуморо эҳтиром ва муҳофизат мекунем:
 privacy-faq-really-you-dont-collect-my-browsing = Дар ҳақиқат, шумо таърихи тамошои маро дар браузер ҷамъ намекунед?
 privacy-faq-mozilla-doesnt-sell-data-about = «{ -brand-name-mozilla }» маълумот дар бораи шумо намефурӯшад ва мо маълумот дар бораи шумо намехарем.

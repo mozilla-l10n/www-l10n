@@ -9,6 +9,8 @@
 # Meta strings
 
 vpn-linux-page-title = «{ -brand-name-mozilla-vpn }» барои «{ -brand-name-linux }» ({ -brand-name-ubuntu })
+# Linux strings
+vpn-linux-hero-headline = «{ -brand-name-mozilla-vpn }» барои «{ -brand-name-ubuntu } { -brand-name-linux }» — мувофиқати олӣ барои махфияти шумо
 vpn-linux-about-headline = Номи боэътимод аз соли 1998
 # Variables:
 #   $devices (number) - number of available devices
