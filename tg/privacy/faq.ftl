@@ -10,6 +10,7 @@ privacy-faq-mozillas-data-privacy-faq = Саволҳои роиҷ оид ба м
 privacy-faq-at-mozilla-we-respect-and-protect-desc = Дар «{ -brand-name-mozilla }» мо маълумоти шахсии шуморо эҳтиром ва муҳофизат мекунем.
 privacy-faq-we-stand-for-people-over-profit = Мо тарафдори одамон ҳастем, ки аз фоидаи молӣ зиёдтар аст.
 privacy-faq-at-mozilla-we-respect-and-protect = Дар «{ -brand-name-mozilla }» мо маълумоти шахсии шуморо эҳтиром ва муҳофизат мекунем:
+privacy-faq-we-only-collect-the-data-we = Мо танҳо он маълумотеро ҷамъоварӣ мекунем, ки барои истеҳсоли маҳсулоти беҳтарин лозим аст.
 privacy-faq-really-you-dont-collect-my-browsing = Дар ҳақиқат, шумо таърихи тамошои маро дар браузер ҷамъ намекунед?
 privacy-faq-mozilla-doesnt-sell-data-about = «{ -brand-name-mozilla }» маълумот дар бораи шумо намефурӯшад ва мо маълумот дар бораи шумо намехарем.
 privacy-faq-wait-so-how-do-you-make-money = Истед, лекин шумо чӣ тавр пул кор мекунед?
