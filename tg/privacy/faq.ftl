@@ -17,3 +17,4 @@ privacy-faq-wait-so-how-do-you-make-money = Истед, лекин шумо чӣ
 privacy-faq-but-why-do-you-collect-any-data = Аммо, чаро шумо дар умум ҳар гуна маълумотро ҷамъ мекунед?
 privacy-faq-what-about-my-account-data = Дар бораи маълумоти ҳисоби ман чӣ гуфтан мумкин аст?
 privacy-faq-yes-we-do = Бале, ҳамин маълумот дуруст аст.
+privacy-faq-find-out-more-about-how-mozilla = Бифаҳмед, ки чӣ тавр «{ -brand-name-mozilla }» Интернетро муҳофизат мекунад.
