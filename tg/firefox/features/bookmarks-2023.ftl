@@ -21,3 +21,6 @@ bookmark-manager-you-can-import-your-bookmarks = Шумо метавонед х�
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = Тасвири равзанаи гуфтугӯии устоди воридоти «{ -brand-name-firefox }», ки имконотро барои ворид кардани танзимот ва маълумот аз браузерҳои дигар нишон медиҳад.
 bookmark-manager-bookmarks-toolbar = Навори хатбаракҳо
+bookmark-manager-get-quick-access-to-your = Дар менюи болои браузери «{ -brand-name-firefox }» ба хатбаракҳои дӯстдоштаи худ зуд дастрасӣ пайдо намоед ё онҳоро ба навори абзорҳои худ васл кунед.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Тасвири браузери «{ -brand-name-firefox }», ки маҷмуи хатбаракҳоро дар навори абзорҳо дар қисми болои равзанаи браузер нишон медиҳад.
