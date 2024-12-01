@@ -16,4 +16,16 @@ welcome-page4-get-firefox-on-your-phone = «{ -brand-name-firefox }»-ро ба�
 welcome-page4-send-the-download-link-right = Пайванди боргириро рост ба телефон ё нишонии почтаи электронии худ фиристонед.
 welcome-page4-download-firefox-for-your = Браузери «{ -brand-name-firefox }»-ро барои смартфон ва планшети худ боргирӣ намоед.
 welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: Браузери хусусӣ ва бехатар» дар «{ -brand-name-ios }» ё «{ -brand-name-android }».
+# "off your trail" is an expression for not being followed around.
+welcome-page4-get-data-trackers-off-your = Васоити пайгирии маълумотро аз роҳи худ дур нигоҳ доред
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
+welcome-page4-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ <a href="{ $privacy }">зиёда аз 2000+ васоити пайгириро</a> аз таъқиби шумо дар саросари Интернет манъ мекунад.
+# "Leave no trace" is an expression for leaving nothing behind.
+welcome-page4-leave-no-trace = Ҳеҷ гуна пайи худро нагузоред
+welcome-page4-automatically-clear-your-history = Дар реҷаи «Тамошокунии хусусӣ» таърихи шумо ва кукиҳои сомонаҳо ба таври худкор тоза карда мешаванд.
+welcome-page4-go-faster-do-more = Тезтар равед. Бештар кор кунед.
+welcome-page4-take-it-all-with-you = Ҳамаашро бо худ баред
+welcome-page4-more-done-fast-smart = Бо кушоиши босуръати саҳифаҳои сомонаҳо ва пешниҳодҳои оқилонаи ҷустуҷӯ дар давоми рӯзи худ самараноктар кор кунед.
+welcome-page4-dont-walk-out-the-door-without = Бе хатбаракҳо, варақаҳо, ёддоштҳо ва ниҳонвожаҳо аз дари хона ё корхона берун наравед.
 welcome-page4-why-am-i-seeing-this = Чаро ман инро дида истодаам?
