@@ -7,5 +7,7 @@
 
 # page title
 bookmark-manager-bookmark-manager = Мудири хатбаракҳо
+# HTML page description
+bookmark-manager-organize-your-bookmarks-with = Хатбаракҳои худро бо ҷузвдонҳо ва барчаспҳо ба тартиб дароред.
 bookmark-manager-easily-import-bookmarks = Хатбаракҳоро ба осонӣ ворид кунед
 bookmark-manager-bookmarks-toolbar = Навори хатбаракҳо
