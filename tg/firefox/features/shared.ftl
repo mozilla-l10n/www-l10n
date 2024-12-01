@@ -22,4 +22,4 @@ features-shared-eyedropper-tool = Абзори «Чинандаи ранг»
 features-shared-pdf-editor = Муҳаррири «PDF»
 features-shared-fingerprinter-blocking = Манъкунии нақши рақамии ангуштон
 features-shared-translate-the-web = Тарҷума кардани саҳифаи сомона
-features-shared-picture-in-picture = Расм-дар-расм
+features-shared-picture-in-picture = Реҷаи «Расм-дар-расм»

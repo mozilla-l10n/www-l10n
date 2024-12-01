@@ -71,7 +71,7 @@ firefox-desktop-download-stream-share-play = Пахши мустақим, муб
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Пахши худкори видео ва аудиоро манъ мекунад
 # Picture-in-Picture is a feature names and so is capitalized in English
-firefox-desktop-download-picture-in-picture = Расм-дар-расм
+firefox-desktop-download-picture-in-picture = Реҷаи «Расм-дар-расм»
 firefox-desktop-download-curated-content-on = Муҳтаворо дар варақаи нав нигоҳ медорад
 firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
 firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
