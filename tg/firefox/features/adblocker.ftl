@@ -11,3 +11,4 @@ features-adblocker-the-ad-blocker-a-secret = «Манъкунандаи рекл
 features-adblocker-so-many-ads-so-little = Ин қадар бисёр рекламаи безоркунанда, он қадар сабри кам… Акнун вақти он расидааст, ки мо бояд девонагиро бас кунем.
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
 features-adblocker-send-a-do-not-track-signal = Фиристодани ишораи махсуси «Пайгирӣ карда нашавад»
+features-adblocker-speed-up-thanks-to-ad = Ба шарофати абзорҳои манъкунандаи реклама суръати браузерро афзоиш диҳед
