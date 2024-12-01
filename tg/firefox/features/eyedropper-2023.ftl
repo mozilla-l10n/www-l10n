@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Абзори «Чинандаи ранг»
+features-eyedropper-select-colors-in-firefox = Рангҳоро бо абзори қатрачакони ранг тавассути браузери «{ -brand-name-firefox }» интихоб намоед
