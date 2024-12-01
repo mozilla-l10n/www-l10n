@@ -17,4 +17,7 @@ bookmark-manager-collect-your-bookmarks-in-folders = Хатбаракҳои ху
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Тасвири равзанаи мудири хатбаракҳо дар браузери «{ -brand-name-firefox }».
 bookmark-manager-easily-import-bookmarks = Хатбаракҳоро ба осонӣ ворид кунед
+bookmark-manager-you-can-import-your-bookmarks = Шумо метавонед хатбаракҳои худро аз браузерҳои «Chrome», «Safari» ё «Edge» ба воситаи устоди воридоти «{ -brand-name-firefox }» ворид кунед. Танҳо ба «Хатбаракҳо» > «Идоракунии хатбаракҳо» зер кунед ва пас аз ин имкони «Воридот ва нусхаи эҳтиётӣ»-ро интихоб намоед.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-firefox-import-wizard = Тасвири равзанаи гуфтугӯии устоди воридоти «{ -brand-name-firefox }», ки имконотро барои ворид кардани танзимот ва маълумот аз браузерҳои дигар нишон медиҳад.
 bookmark-manager-bookmarks-toolbar = Навори хатбаракҳо
