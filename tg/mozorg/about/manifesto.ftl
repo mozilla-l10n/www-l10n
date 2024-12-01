@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
+# HTML page title
+manifesto-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 manifesto-principle-1 = Қоидаи асосии 1
 manifesto-principle-2 = Қоидаи асосии 2
 manifesto-principle-3 = Қоидаи асосии 3
@@ -27,8 +29,11 @@ manifesto-09 = 09
 manifesto-10 = 10
 manifesto-show-your-support = Дастгирии худро нишон диҳед
 manifesto-our-10-principles = <strong>10 қоидаи асосии мо</strong>
+manifesto-read-the-entire-manifesto = Санадҳои асосии моро дар шакли пурра мутолиа намоед
 manifesto-love-the-web = Интернетро дӯст медоред?
 manifesto-details-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 manifesto-details-introduction = Муқаддима
 manifesto-details-principles = Қоидаҳои асосӣ
+manifesto-details-advancing-the = Амалисозии санади асосии «{ -brand-name-mozilla }»
+manifesto-details-mozilla-foundation = Масъулиятшиноси «{ -brand-name-mozilla-foundation }»
 manifesto-details-invitation = Даъватнома

@@ -10,6 +10,7 @@ features-index-firefox-browser-features = Хусусиятҳои браузер�
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = Браузери «{ -brand-name-firefox }» тезкор, сабук ва дорои махфият мебошад ва дар ҳамаи дастгоҳҳои шумо кор мекунад.
 features-index-firefox-keeps-getting-faster = «{ -brand-name-firefox }» боз ҳам тезтар аст
+features-index-the-latest-browser-speed-benchmarks = Ҳангоми санҷиши суръати браузер нуқтаҳои сарҳисобҳои навтарин нишон медиҳанд, ки браузери «{ -brand-name-firefox }» боз ҳам тезтар шудааст.
 features-index-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
 features-index-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
 features-index-customize-your-firefox-browser = Браузери «{ -brand-name-firefox }»-и худро ба таври дилхоҳ танзим кунед
