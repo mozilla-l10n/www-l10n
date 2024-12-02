@@ -257,6 +257,9 @@ locales = [
     reference = "en/mozorg/home.ftl"
     l10n = "{locale}/mozorg/home.ftl"
 [[paths]]
+    reference = "en/mozorg/home-24.ftl"
+    l10n = "{locale}/mozorg/home-24.ftl"
+[[paths]]
     reference = "en/mozorg/home-new.ftl"
     l10n = "{locale}/mozorg/home-new.ftl"
 [[paths]]
@@ -265,6 +268,9 @@ locales = [
 [[paths]]
     reference = "en/mozorg/about.ftl"
     l10n = "{locale}/mozorg/about.ftl"
+[[paths]]
+    reference = "en/mozorg/about-m24.ftl"
+    l10n = "{locale}/mozorg/about-m24.ftl"
 [[paths]]
     reference = "en/mozorg/about/governance/policies/*.ftl"
     l10n = "{locale}/mozorg/about/governance/policies/*.ftl"
