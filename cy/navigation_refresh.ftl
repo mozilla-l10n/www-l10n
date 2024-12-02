@@ -20,7 +20,9 @@ navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Ein Cenhadaeth
 navigation-refresh-our-work = Ein Gwaith
 navigation-refresh-mozilla-ai = AI { -brand-name-mozilla }
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ventures = Mentrau { -brand-name-mozilla }
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Hysbysebu { -brand-name-mozilla }
 
 ## Firefox
