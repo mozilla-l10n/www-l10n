@@ -15,17 +15,26 @@
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
+-brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-mullvad = Mullvad
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = مرورگرهای Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -45,6 +54,10 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
+-brand-name-firefox-quantum = Firefox Quantum
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-lite = Lite
 -brand-name-firefox-reality = Firefox Reality
@@ -54,23 +67,34 @@
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
 -brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise = Firefox Lockwise
+-brand-name-firefox-marketplace = فروشگاه Firefox
+-brand-name-firefox-os = سیستم‌عامل Firefox
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = شبکه خصوصی Firefox
+-brand-name-fpn = FPN
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -79,12 +103,17 @@
 ## Fakespot
 
 
+## Anonym
+
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = آوای مشترک Mozilla
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-ai = هوش مصنوعی Mozilla
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -92,15 +121,19 @@
 -brand-name-common-voice = آوای مشترک
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = شبکه توسعه‌دهندگان Mozilla
 -brand-name-hubs = Hubs
 -brand-name-lockwise = Lockwise
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -110,13 +143,17 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows = Windows
 -brand-name-xp = XP
@@ -143,3 +180,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
