@@ -17,7 +17,7 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } está trabajando para dev
 
 ## Manifesto
 
-m24-about-together-we-can = Juntos podemos lograr que Internet sea fácil, seguro y gratuito para todos.
+m24-about-together-we-can = Juntos podemos lograr que Internet sea fácil, segura y gratuita para todos.
 m24-about-read-our-manifesto = Leé nuestro manifiesto
 m24-about-advocate = Defensor
 m24-about-we-advocate-for = Abogamos por mejores productos, haciendo que los gobiernos y las corporaciones tecnológicas se responsabilicen por lo que crean.
