@@ -35,3 +35,5 @@ m24-about-join-us-and = Přidružće so nam a čińće rozdźěl
 
 ## Community
 
+# the <br> is presentational
+m24-about-community-love = Lubosće zhromadźenstwa – <br> naša ćěrjaca móc
