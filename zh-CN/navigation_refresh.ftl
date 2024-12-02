@@ -20,7 +20,9 @@ navigation-refresh-blog = 博客
 navigation-refresh-our-mission = 我们的使命
 navigation-refresh-our-work = 我们的作品
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } 创业投资
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 广告
 
 ## Firefox
