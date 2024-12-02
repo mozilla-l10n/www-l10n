@@ -9,5 +9,8 @@ compare-shared-compare-firefox = Přirunajće { -brand-name-firefox }
 compare-shared-footer-cta-title = Čińće wjace z { -brand-name-firefox }
 compare-shared-footer-cta-button = { -brand-name-firefox } sćahnyć
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma tež zatwarjene nastroje kaž:
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Přełožće webstronu</a> lokalnje a priwatnje.
 # Used as a small link to a cited source
 compare-shared-source = žórło
