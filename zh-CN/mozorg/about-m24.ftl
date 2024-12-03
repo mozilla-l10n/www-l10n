@@ -23,7 +23,6 @@ m24-about-advocate = 倡导者
 m24-about-we-advocate-for = 我们倡导更好的产品让政府和科技公司对其创造的产品负责。
 m24-about-monitor = Monitor
 m24-about-we-monitor-developments = 我们会监控事态发展、进行研究和举办活动以改进产品并推行代表您利益的政策。
-m24-about-build = 构建
 m24-about-we-build-products = 我们打造的产品一切由您掌控。例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
 m24-about-fund = 基金
 m24-about-we-fund-and = 我们资助和投资于将技术、互联网和人工智能朝着正确方向发展的人员和努力。
