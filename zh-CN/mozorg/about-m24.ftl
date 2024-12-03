@@ -15,10 +15,8 @@ m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位�
 
 ## Manifesto
 
-m24-about-together-we-can = 我们可以一起为每个人保持简单、安全和自由的互联网。
 m24-about-read-our-manifesto = 阅读我们的宣言
-m24-about-advocate = 倡导者
-m24-about-we-advocate-for = 我们倡导更好的产品让政府和科技公司对其创造的产品负责。
+m24-about-advocate = 倡导
 m24-about-monitor = Monitor
 m24-about-we-monitor-developments = 我们会关注形势发展、进行研究、举办活动，以改进产品及推动代表您利益的政策落地。
 m24-about-build = 打造
