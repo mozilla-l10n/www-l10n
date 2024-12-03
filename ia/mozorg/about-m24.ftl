@@ -7,6 +7,8 @@
 
 # HTML Page title
 m24-about-page-title = Saper plus re { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } produce navigatores, apps, codice e utensiles que antepone le personas al profito. Nostre mission: mantener internet aperte e accessibile a totes.
 
 ## Intro
 
