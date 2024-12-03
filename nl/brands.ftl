@@ -104,11 +104,17 @@
 
 -brand-name-fakespot = Fakespot
 
+## Anonym
+
+-brand-name-anonym = Anonym
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL-podcast
+-brand-name-llamafile = Llamafile
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
