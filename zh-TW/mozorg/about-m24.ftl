@@ -44,13 +44,13 @@ m24-about-read-about-our = 了解我們的承諾
 
 ## Careers
 
-m24-about-join-us-and = 加入我們發揮作用
-m24-about-join-our-team = 加入我們的團隊打破一切可能的邊界 — 從最重要的事情開始不妥協。
-m24-about-see-open-positions = 檢視空缺職位
+m24-about-join-us-and = 加入我們，帶來改變
+m24-about-join-our-team = 加入我們的團隊，打破一切可能的邊界 — 但絕不妥協重要的事情。
+m24-about-see-open-positions = 檢視目前開放職缺
 
 ## Community
 
 # the <br> is presentational
 m24-about-community-love = 社群成員的愛 —<br>我們的原動力
-m24-about-mozilla-is-a = { -brand-name-mozilla } 是一個由熱情的志工、研究員與貢獻者所組成的全球社群自 1998 年起就與我們一起打造、保護並塑造網際網路。
-m24-about-from-writing-code = 從寫程式碼、發現臭蟲到倡導保護隱私、保持網路開放給每個人使用 — 社群成員是我們做的每一件事的中堅力量。他們的熱情與專注每天都在激勵著我們。
+m24-about-mozilla-is-a = { -brand-name-mozilla } 是一個由熱情志工、研究員與貢獻者所組成的全球社群，自 1998 年起就與我們一起打造、保護並塑造網際網路。
+m24-about-from-writing-code = 不論是寫 Code、找 Bug，還是倡議隱私保護、保持網路開放給每個人使用 — 社群成員是我們做的每一件事的中堅力量。他們的熱情與專注每天都在激勵著我們。
