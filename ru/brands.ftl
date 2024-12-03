@@ -189,7 +189,7 @@
 
 ## Anonym
 
--brand-name-anonym = Анонимный
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
@@ -198,7 +198,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL-подкаст
 -brand-name-llamafile = Llamafile
--brand-name-lumigator = Лумигатор
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
