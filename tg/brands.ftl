@@ -9,14 +9,14 @@
 
 ## Company names
 
--brand-name-amazon = «Amazon»
--brand-name-apple = «Apple»
--brand-name-creative-commons = «Creative Commons»
--brand-name-facebook = «Facebook»
--brand-name-github = «GitHub»
--brand-name-google = «Google»
--brand-name-hulu = «Hulu»
--brand-name-microsoft = «Microsoft»
+-brand-name-amazon = Amazon
+-brand-name-apple = Apple
+-brand-name-creative-commons = Creative Commons
+-brand-name-facebook = Facebook
+-brand-name-github = GitHub
+-brand-name-google = Google
+-brand-name-hulu = Hulu
+-brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Ширкати Mozilla
 -brand-name-mozilla-foundation = Бунёди Mozilla
@@ -94,7 +94,7 @@
 
 ## Firefox projects
 
--brand-name-firefox-labs = «Firefox Labs»
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -106,16 +106,16 @@
 
 ## Anonym
 
--brand-name-anonym = «Anonym»
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
--brand-name-irl-podcast = «IRL Podcast»
--brand-name-llamafile = «Llamafile»
--brand-name-lumigator = «Lumigator»
+-brand-name-irl-podcast = IRL Podcast
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии «MDN»
 -brand-name-mozilla-common-voice = «Mozilla Common Voice»
@@ -127,12 +127,12 @@
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = «Rise25»
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
--brand-name-common-voice = «Common Voice»
+-brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
 -brand-name-vpn = VPN
