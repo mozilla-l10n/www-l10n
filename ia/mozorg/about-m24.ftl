@@ -26,10 +26,15 @@ m24-about-we-monitor-developments = Nos survelia le disveloppamentos, conduce re
 m24-about-build = Producer
 m24-about-we-build-products = Nos produce lo que te pone al commando, como { -brand-name-firefox }, { -brand-name-fakespot } e altero.
 m24-about-fund = Financiar
+m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro tener le technologia, internet e le intelligentia artificial in le juste direction.
 
 ## News
 
 m24-about-read-more = Leger plus
+m24-about-read-the-latest = Lege le ultime novas e articulos de { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 Projectos de IA a surveliar: initia le prime cohorte de Builders Accelerator de { -brand-name-mozilla }
+m24-about-at-our-rise25 = In nostre premios de { -brand-name-rise25 }, le futuro del IA es digne de fide, inclusive e responsabile
+m24-about-empowering-chicagos-entrepreneurs = Habilitar le interprenditores de Chicago pro le cambiamento generational
 
 ## Showcase
 
