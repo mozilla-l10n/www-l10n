@@ -38,6 +38,7 @@ m24-about-empowering-chicagos-entrepreneurs = Habilitar le interprenditores de C
 
 ## Showcase
 
+m24-about-lets-build-a = Que nos construe un futuro plus juste
 
 ## Careers
 
