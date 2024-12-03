@@ -12,13 +12,21 @@ m24-about-page-desc = { -brand-name-mozilla } produce navigatores, apps, codice 
 
 ## Intro
 
+m24-about-reclaim-the-internet = Revindica internet con nos
+m24-about-mozilla-is-working = { -brand-name-mozilla } labora pro re-poner le controlo de internet in le manos del personas qui lo usa.
 
 ## Manifesto
 
+m24-about-together-we-can = Insimul, nos pote mantener internet facile, secur e gratuite, pro totes.
 m24-about-read-our-manifesto = Lege nostre manifesto
+m24-about-advocate = Propugnator
+m24-about-we-advocate-for = Nos recommenda le productos melior, responsabilisante governamentos e interprisas technologic pro lo que illos crea.
+m24-about-monitor = Monitor
+m24-about-we-monitor-developments = Nos survelia le disveloppamentos, conduce recercas e campanias pro meliorar productos e promover directivas que representa tu interesses.
 
 ## News
 
+m24-about-read-more = Leger plus
 
 ## Showcase
 
