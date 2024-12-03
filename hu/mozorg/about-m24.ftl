@@ -8,16 +8,16 @@
 # HTML Page title
 m24-about-page-title = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról
 # HTML page description
-m24-about-page-desc = A { -brand-name-mozilla } olyan böngészőket, alkalmazásokat, kódot és eszközöket állít elő, melyek az embereket helyezik a haszon elé. Küldetésünk: Az internet nyílt és hozzáférhető voltának megőrzése mindenki számára.
+m24-about-page-desc = A { -brand-name-mozilla } olyan böngészőket, alkalmazásokat, kódot és eszközöket állít elő, melyek az embereket helyezik a haszon elé. Küldetésünk: az internet nyílt és hozzáférhető voltának megőrzése mindenki számára.
 
 ## Intro
 
-m24-about-reclaim-the-internet = Hozza vissza az internetet velünk
+m24-about-reclaim-the-internet = Szerezze vissza velünk az internetet
 m24-about-mozilla-is-working = A { -brand-name-mozilla } azon dolgozik, hogy visszaadja az internet irányítását az azt használók kezébe.
 
 ## Manifesto
 
-m24-about-together-we-can = Együtt tehetjük meg, hogy az internet könnyű, biztonságos és szabad maradjon – mindenki számára.
+m24-about-together-we-can = Együtt érhetjük el, hogy az internet egyszerű, biztonságos és szabad maradjon – mindenki számára.
 m24-about-read-our-manifesto = Olvassa el a kiáltványunkat
 m24-about-advocate = Advocate
 m24-about-we-advocate-for = Jobb termékeket támogatunk, számon kérve a kormányokat és a technológiai vállalatokat azért, amit létrehoznak.
