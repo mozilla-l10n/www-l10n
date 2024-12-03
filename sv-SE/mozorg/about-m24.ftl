@@ -35,10 +35,18 @@ m24-about-read-the-latest = Läs de senaste artiklarna och nyheterna om { -brand
 
 ## Showcase
 
+m24-about-lets-build-a = Låt oss bygga en rättvisare framtid
+m24-about-see-how-were = Se hur vi främjar en mångsidig, inkluderande och tillgänglig onlinemiljö för alla.
+m24-about-read-about-our = Läs om vårt engagemang
 
 ## Careers
 
+m24-about-join-us-and = Gå med oss och göra skillnad
 m24-about-see-open-positions = Se lediga tjänster
 
 ## Community
 
+# the <br> is presentational
+m24-about-community-love = Gemenskapskärlek —<br> vår drivkraft
+m24-about-mozilla-is-a = { -brand-name-mozilla } är en global gemenskap av passionerade volontärer, stipendiater och bidragsgivare som har byggt, skyddat och format internet med oss ​​sedan 1998.
+m24-about-from-writing-code = Från att skriva kod och upptäcka buggar till att förespråka integritet och hålla internet öppet för alla — våra communitymedlemmar är ryggraden i allt vi gör. Deras passion och engagemang inspirerar oss varje dag.
