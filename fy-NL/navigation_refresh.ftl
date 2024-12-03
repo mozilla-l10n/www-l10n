@@ -20,7 +20,9 @@ navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Us missy
 navigation-refresh-our-work = Us wurk
 navigation-refresh-mozilla-ai = { -brand-name-mozilla }-AI
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla }-ûndernimmingen
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla }-advertinsjes
 
 ## Firefox
