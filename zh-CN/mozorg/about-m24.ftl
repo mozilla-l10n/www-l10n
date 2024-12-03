@@ -18,8 +18,10 @@ m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位�
 m24-about-read-our-manifesto = 阅读我们的宣言
 m24-about-advocate = 倡导
 m24-about-we-advocate-for = 我们倡导更好的产品，并要求政府和科技公司对其政策和产品负责。
+m24-about-monitor = 关注
 m24-about-we-monitor-developments = 我们会关注形势发展、进行研究、举办活动，以改进产品及推动代表您利益的政策落地。
 m24-about-build = 打造
+m24-about-we-build-products = 我们打造让您掌握控制权的产品，例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等。
 m24-about-fund = 资助
 m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向善发展的人与行动。
 
