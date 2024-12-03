@@ -19,7 +19,7 @@ m24-about-mozilla-is-working = A { -brand-name-mozilla } azon dolgozik, hogy vis
 
 m24-about-together-we-can = Együtt érhetjük el, hogy az internet egyszerű, biztonságos és szabad maradjon – mindenki számára.
 m24-about-read-our-manifesto = Olvassa el a kiáltványunkat
-m24-about-advocate = Advocate
+m24-about-advocate = Érdekképviselet
 m24-about-we-advocate-for = Jobb termékeket támogatunk, számon kérve a kormányokat és a technológiai vállalatokat azért, amit létrehoznak.
 m24-about-monitor = Monitor
 m24-about-we-monitor-developments = Figyelemmel kísérjük a fejlesztéseket, kutatásokat végzünk és kampányolunk a termékek fejlesztéséért, és az olyan irányelvek megismertetéséért, amelyek az Ön érdekeit képviselik.
