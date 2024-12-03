@@ -22,19 +22,19 @@ m24-about-read-our-manifesto = 閱讀我們的宣言
 m24-about-advocate = 倡議
 m24-about-we-advocate-for = 我們倡導打造更好的產品，要求政府與科技企業為自己創造的東西負責。
 m24-about-monitor = Monitor
-m24-about-we-monitor-developments = 我們監控事態發展、進行研究並透過活動來改善產品並推行符合您利益的政策。
+m24-about-we-monitor-developments = 我們監控事態發展、進行研究並透過活動宣傳，來改善產品並推行符合您利益的政策。
 m24-about-build = 建構
-m24-about-we-build-products = 我們打造讓您能自行控制的產品例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
-m24-about-fund = 基金會計
-m24-about-we-fund-and = 我們資助並投資於那些將科技、網際網路與 AI 引向正確方向的人們。
+m24-about-we-build-products = 我們打造讓您能自行控制的產品 — 例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
+m24-about-fund = 資助
+m24-about-we-fund-and = 我們投資將科技、網際網路與 AI 引向正確方向的人們與事物。
 
 ## News
 
 m24-about-read-more = 了解更多
 m24-about-read-the-latest = 閱讀最新的 { -brand-name-mozilla } 新聞與文章
-m24-about-14-ai-projects = 14 個值得關注的 AI 專案{ -brand-name-mozilla } 的第一期建設者加速器拉開序幕
-m24-about-at-our-rise25 = 在 { -brand-name-rise25 } 獎中AI 的未來是可信任、包容、負責的
-m24-about-empowering-chicagos-entrepreneurs = 授權芝加哥的創業者進行世代相傳
+m24-about-14-ai-projects = 14 個值得關注的 AI 專案：{ -brand-name-mozilla } 的第一屆 Builders Accelerator 拉開序幕
+m24-about-at-our-rise25 = 在 { -brand-name-rise25 } 獎當中，AI 的未來是可信任、包容、可課責的
+m24-about-empowering-chicagos-entrepreneurs = 賦權於芝加哥的創業者，進行世代交替
 
 ## Showcase
 
