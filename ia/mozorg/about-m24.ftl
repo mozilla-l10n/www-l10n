@@ -39,9 +39,16 @@ m24-about-empowering-chicagos-entrepreneurs = Habilitar le interprenditores de C
 ## Showcase
 
 m24-about-lets-build-a = Que nos construe un futuro plus juste
+m24-about-see-how-were = Vide como nos incoragia un ambiente online diverse, inclusive e accessibile pro totes.
+m24-about-read-about-our = Leger re nostre dedication
 
 ## Careers
 
+m24-about-join-us-and = Junge te a nos e face le differentia
+m24-about-join-our-team = Junge te a nostre equipa e pulsa le frontieras del cosas possibile, sin compromitter lo que es importante.
+m24-about-see-open-positions = Vide le postos disponibile
 
 ## Community
 
+# the <br> is presentational
+m24-about-community-love = Le amor del communitate: <br> nostre fortia motor
