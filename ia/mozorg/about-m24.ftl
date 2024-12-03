@@ -23,6 +23,9 @@ m24-about-advocate = Propugnator
 m24-about-we-advocate-for = Nos recommenda le productos melior, responsabilisante governamentos e interprisas technologic pro lo que illos crea.
 m24-about-monitor = Monitor
 m24-about-we-monitor-developments = Nos survelia le disveloppamentos, conduce recercas e campanias pro meliorar productos e promover directivas que representa tu interesses.
+m24-about-build = Producer
+m24-about-we-build-products = Nos produce lo que te pone al commando, como { -brand-name-firefox }, { -brand-name-fakespot } e altero.
+m24-about-fund = Financiar
 
 ## News
 
