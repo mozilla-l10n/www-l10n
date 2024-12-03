@@ -106,7 +106,7 @@
 
 ## Anonym
 
--brand-name-anonym = 匿名
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
@@ -114,8 +114,8 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL Podcast
--brand-name-llamafile = llamafile
--brand-name-lumigator = Limigator
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
