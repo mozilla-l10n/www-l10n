@@ -26,7 +26,6 @@ m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向�
 
 m24-about-read-more = 详细了解
 m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文章
-m24-about-14-ai-projects = 14 个值得关注的 AI 项目{ -brand-name-mozilla } 的首个 AI 开发者加速器队列开始
 m24-about-at-our-rise25 = 在我们的 { -brand-name-rise25 }奖项见证 AI 的未来将是值得信赖、包容和负责任
 m24-about-empowering-chicagos-entrepreneurs = 赋能芝加哥创业者促成世代变革
 
