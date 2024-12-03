@@ -32,6 +32,9 @@ m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insa
 
 m24-about-read-more = Läs mer
 m24-about-read-the-latest = Läs de senaste artiklarna och nyheterna om { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 AI-projekt att titta på: { -brand-name-mozilla }s första Builders Accelerator-kohort startar
+m24-about-at-our-rise25 = På våra { -brand-name-rise25 } Awards är framtiden för AI pålitlig, inkluderande och ansvarsfull
+m24-about-empowering-chicagos-entrepreneurs = Ge Chicagos entreprenörer kraft för generationsväxling
 
 ## Showcase
 
@@ -42,6 +45,7 @@ m24-about-read-about-our = Läs om vårt engagemang
 ## Careers
 
 m24-about-join-us-and = Gå med oss och göra skillnad
+m24-about-join-our-team = Gå med i vårt team och tänj på gränserna för vad som är möjligt — utan att kompromissa med det som betyder något.
 m24-about-see-open-positions = Se lediga tjänster
 
 ## Community
