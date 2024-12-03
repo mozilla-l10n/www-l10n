@@ -41,4 +41,3 @@ m24-about-see-open-positions = 查看空缺职位
 
 ## Community
 
-m24-about-from-writing-code = 从编写代码和发现 bug到提倡隐私和保持互联网对每个人开放——我们的社区成员是我们一切工作的中坚力量。他们的热情和奉献精神每天都在激励着我们。
