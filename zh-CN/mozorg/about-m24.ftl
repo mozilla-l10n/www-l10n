@@ -12,8 +12,6 @@ m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位�
 
 ## Intro
 
-m24-about-reclaim-the-internet = 与我们一起回收互联网的新希望
-m24-about-mozilla-is-working = { -brand-name-mozilla } 正在努力让互联网的控制权重新掌握在网民的手中。
 
 ## Manifesto
 
@@ -26,7 +24,7 @@ m24-about-we-monitor-developments = 我们会关注形势发展、进行研究�
 m24-about-build = 打造
 m24-about-we-build-products = 我们打造的产品一切由您掌控。例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
 m24-about-fund = 资助
-m24-about-we-fund-and = 我们资助和投资于将技术、互联网和人工智能朝着正确方向发展的人员和努力。
+m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向善发展的人与行动。
 
 ## News
 
@@ -34,7 +32,7 @@ m24-about-read-more = 详细了解
 m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文章
 m24-about-14-ai-projects = 14 个值得关注的 AI 项目{ -brand-name-mozilla } 的首个 AI 开发者加速器队列开始
 m24-about-at-our-rise25 = 在我们的 { -brand-name-rise25 }奖项见证 AI 的未来将是值得信赖、包容和负责任
-m24-about-empowering-chicagos-entrepreneurs = 赋能芝加哥创业者促成世代变更
+m24-about-empowering-chicagos-entrepreneurs = 赋能芝加哥创业者促成世代变革
 
 ## Showcase
 
@@ -44,7 +42,7 @@ m24-about-read-about-our = 了解我们的承诺
 
 ## Careers
 
-m24-about-join-us-and = 加入我们有所作为
+m24-about-join-us-and = 加入我们，成就不凡
 m24-about-join-our-team = 加入我们的团队突破可能性的界限 — 而不在重要的事情上妥协。
 m24-about-see-open-positions = 查看空缺职位
 
