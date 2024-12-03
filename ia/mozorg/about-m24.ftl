@@ -15,6 +15,7 @@ m24-about-page-desc = { -brand-name-mozilla } produce navigatores, apps, codice 
 
 ## Manifesto
 
+m24-about-read-our-manifesto = Lege nostre manifesto
 
 ## News
 
