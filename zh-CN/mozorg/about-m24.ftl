@@ -8,7 +8,7 @@
 # HTML Page title
 m24-about-page-title = 详细了解 { -brand-name-mozilla }
 # HTML page description
-m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位，构建浏览器、应用程序、代码与各种工具。我们的使命：为所有人保持健康、开放且无障碍的互联网。
+m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位，构建浏览器、应用、代码与各种工具。我们的使命：为所有人保持健康、开放且无障碍的互联网。
 
 ## Intro
 
