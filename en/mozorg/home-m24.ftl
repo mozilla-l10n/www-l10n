@@ -34,6 +34,8 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Keep your location and online adventures private — stream like a local, anywhere.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Get a heads-up if your personal info is at risk and lock it down like a pro.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Mask your email and phone number so you only get the messages you want.
 
 ## Donate
 
@@ -55,7 +57,7 @@ m24-home-explore-mozilla-ai = Explore { -brand-name-mozilla-ai }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Run large language models (LLMs) easily on your computer with { -brand-name-llamafile } — no installation needed, and your data stays safe on your device.
 m24-home-mozilla-builders= { -brand-name-mozilla } Builders
-m24-home-turn-your-ai = Turn your AI idea into reality with our 12-week accelerator. Get funding, mentorship and a chance to pitch your innovation to investors.
+m24-home-builders-helps-independent = Builders helps independent developers create transformative open-source AI projects through bespoke collaborations, programming, and community.
 m24-home-lumigator = { -brand-name-lumigator}
 m24-home-find-the-just = Find the right LLM for your needs, use case and data.
 m24-home-can-ai-be = Can AI be trustworthy?
