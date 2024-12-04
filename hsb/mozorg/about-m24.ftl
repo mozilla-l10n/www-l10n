@@ -13,6 +13,7 @@ m24-about-page-desc = { -brand-name-mozilla } wobhladowaki, nałoženja, kod a n
 ## Intro
 
 m24-about-reclaim-the-internet = Dobudźće internet z nami wróćo
+m24-about-mozilla-is-working = { -brand-name-mozilla } dźěła na tym, kontrolu nad internetom do rukow ludźi wróćo dać, kotřiž jón wužiwaja.
 
 ## Manifesto
 
@@ -29,7 +30,7 @@ m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, 
 
 ## News
 
-m24-about-read-more = Čitajće wjace
+m24-about-read-more = Wjace čitać
 m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-name-mozilla }
 
 ## Showcase
