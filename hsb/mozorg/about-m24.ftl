@@ -14,7 +14,7 @@ m24-about-reclaim-the-internet = Dobudźće internet z nami wróćo
 
 ## Manifesto
 
-m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotny dźeržeće – za wšěch.
+m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotny dźeržimy – za wšěch.
 m24-about-read-our-manifesto = Čitajće naš manifest
 m24-about-advocate = Rěčnik
 m24-about-monitor = Monitor
