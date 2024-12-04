@@ -20,7 +20,7 @@ m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotn
 m24-about-read-our-manifesto = Čitajće naš manifest
 m24-about-advocate = Rěčnik
 m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
-m24-about-monitor = Monitor
+m24-about-monitor = Wobkedźbowanje
 m24-about-build = Wuwiwać
 m24-about-fund = Financowanje
 
