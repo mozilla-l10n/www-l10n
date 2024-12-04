@@ -41,6 +41,7 @@ m24-about-read-about-our = Cytajśo wó našom zawězku
 ## Careers
 
 m24-about-join-us-and = Pśizamkniśo se nam a cyńśo rozdźěl
+m24-about-see-open-positions = Glědajśo liche źěłowe městna
 
 ## Community
 
