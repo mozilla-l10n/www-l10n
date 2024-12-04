@@ -19,9 +19,15 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } 正致力于让网民重�
 
 m24-about-together-we-can = 我们同心协力，让人人都能享有舒心、安全、自由的互联网。
 m24-about-read-our-manifesto = 阅读我们的宣言
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = 一群思考者在地里围坐分享想法。
 m24-about-advocate = 倡议
 m24-about-we-advocate-for = 我们倡导更好的产品，并要求政府和科技公司对其政策和产品负责。
+m24-about-research = 研究
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = 关注
+m24-about-we-uncover-insights = 我们发掘符合您兴趣的见解、活动以改进产品并推行政策。
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = 我们会关注形势发展、进行研究、举办活动，以改进产品及推动代表您利益的政策落地。
 m24-about-build = 打造
 m24-about-we-build-products = 我们打造让您掌握控制权的产品，例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等。
@@ -34,7 +40,11 @@ m24-about-read-more = 详细了解
 m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文章
 m24-about-14-ai-projects = 14 个值得关注的 AI 项目：{ -brand-name-mozilla } 首届 Builders Accelerator 研讨会拉开序幕
 m24-about-at-our-rise25 = 我们的 { -brand-name-rise25 } 奖项展示了 AI 可信、包容、负责任的未来
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 } 获奖者指着她的奖杯。
 m24-about-empowering-chicagos-entrepreneurs = 赋能芝加哥创业者促成世代变革
+# Used as an accessible text alternative for an image
+m24-about-chicago = 居住在芝加哥的创业者。
 
 ## Showcase
 
@@ -44,13 +54,24 @@ m24-about-read-about-our = 了解我们的承诺
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = 可信赖的 AI{ -brand-name-common-voice }联邦学习。
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla } 员工正在交谈。
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = 喝咖啡的 { -brand-name-mozilla } 员工。
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = 相互协作的 { -brand-name-mozilla } 员工。
 m24-about-join-us-and = 加入我们，成就不凡
 m24-about-join-our-team = 加入我们的团队，变不可能为可能，并坚守重大原则。
 m24-about-see-open-positions = 查看空缺职位
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = 爱是我们的动力
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = 社区的爱——<br>我们的原动力
 m24-about-mozilla-is-a = { -brand-name-mozilla } 是一个全球社区，由满怀热忱的志愿者、贡献者与志同道合之士汇聚而成。自 1998 年以来，我们始终携手建设、保护、塑造互联网。
 m24-about-from-writing-code = 从编写代码、查找缺陷，到倡导隐私、保持互联网对所有人开放，社区成员始终是我们一切工作的中坚力量。他们的热情与奉献精神时刻激励着我们前行。
+# Used as an accessible text alternative for an image
+m24-about-alt-community = 他背着电脑包、系着 { -brand-name-mozilla } 挂带。
