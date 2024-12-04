@@ -21,5 +21,7 @@ ui-show-all = 顯示全部
 ui-hide-all = 隱藏全部
 ui-learn-more = 了解更多
 ui-view = 檢視
+ui-pause-animation = 暫停動畫
+ui-play-animation = 播放動畫
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = 宣傳
