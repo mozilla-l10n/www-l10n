@@ -41,6 +41,7 @@ m24-about-read-about-our = Čitajće wo našim zawjazku
 ## Careers
 
 m24-about-join-us-and = Přidružće so nam a čińće rozdźěl
+m24-about-see-open-positions = Hlejće swobodne dźěłowe městna
 
 ## Community
 
