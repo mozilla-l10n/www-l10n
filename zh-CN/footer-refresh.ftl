@@ -40,3 +40,5 @@ footer-refresh-websites-legal = 法律
 footer-refresh-community-participation-guidelines = 社区参与准则
 footer-refresh-about-this-site = 关于本站
 footer-refresh-language = 语言
+footer-refresh-primary-nav-aria-label = 主要页脚
+footer-refresh-secondary-nav-aria-label = 次要页脚
