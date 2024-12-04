@@ -24,6 +24,7 @@ m24-about-fund = Financowanje
 ## News
 
 m24-about-read-more = Čitajće wjace
+m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-name-mozilla }
 
 ## Showcase
 
