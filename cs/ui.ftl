@@ -21,5 +21,7 @@ ui-show-all = Zobrazit vše
 ui-hide-all = Skrýt vše
 ui-learn-more = Zjistěte více
 ui-view = Zobrazit
+ui-pause-animation = Pozastavit animaci
+ui-play-animation = Přehrát animaci
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Propagace
