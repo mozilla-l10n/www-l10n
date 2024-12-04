@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Jogi információk
 footer-refresh-community-participation-guidelines = Közösségi részvételi irányelvek
 footer-refresh-about-this-site = Az oldal névjegye
 footer-refresh-language = Nyelv
+footer-refresh-primary-nav-aria-label = Lábléc elsődleges
+footer-refresh-secondary-nav-aria-label = Lábléc másodlagos
