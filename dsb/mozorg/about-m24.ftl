@@ -26,6 +26,7 @@ m24-about-fund = Financěrowanje
 ## News
 
 m24-about-read-more = Wěcej cytaś
+m24-about-read-the-latest = Cytajśo nejnowše powěsći a nastawki { -brand-name-mozilla }
 
 ## Showcase
 

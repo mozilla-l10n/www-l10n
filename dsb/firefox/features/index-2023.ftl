@@ -19,6 +19,7 @@ features-index-bookmark-manager = Zastojnik cytańskich znamjenjow
 features-index-organize-your-bookmarks-with = Organizěrujśo swóje cytańske znamjenja ze zarědnikami a wobznamjenjami.
 features-index-private-browsing-mode = Priwatny modus
 features-index-firefox-add-ons-and-browser-extensions = Dodanki a rozšyrjenja wobglědowaka { -brand-name-firefox }
+features-index-add-new-tools-capabilities-and = Pśidajśo swójomu wobglědowakoju nowe rědy, zamóžnosći a zabawne wěcy.
 features-index-pinned-browser-tabs = Pśipněte rejtariki wobglědowaka
 features-index-eyedropper-tool = Pipetowy rěd
 features-index-identify-the-exact-color-on-a = Identificěrujśo eksaktnu barwu na boku a kopěrujśo jeje heksadecimalny kod.
