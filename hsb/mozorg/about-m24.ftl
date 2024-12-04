@@ -21,8 +21,11 @@ m24-about-read-our-manifesto = Čitajće naš manifest
 m24-about-advocate = Rěčnik
 m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
 m24-about-monitor = Wobkedźbowanje
+m24-about-we-monitor-developments = Wobkedźbujemy wuwića, přewjedźemy slědźenja a kampanje, zo bychmy produkty polěpšili a spěchujemy prawidła, kotrež wašim zajimam wotpowěduja.
 m24-about-build = Wuwiwać
+m24-about-we-build-products = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox }, { -brand-name-fakespot } a dalše.
 m24-about-fund = Financowanje
+m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, internet a KI k prawemu směrej doprědka ćěri a inwestujemy do toho.
 
 ## News
 
