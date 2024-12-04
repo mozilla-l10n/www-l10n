@@ -21,5 +21,7 @@ ui-show-all = Összes megjelenítése
 ui-hide-all = Összes elrejtése
 ui-learn-more = Tudjon meg többet
 ui-view = Nézet
+ui-pause-animation = Animáció szüneteltetése
+ui-play-animation = Animáció lejátszása
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Népszerűsítés

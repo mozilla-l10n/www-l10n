@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-support-ethical = Támogassa az etikus mesterséges intelligenciát és az internetes adatvédelmet – <strong><a { $donate }>adományozzon még ma!</a></strong>
+m24-pencil-banner-donate-by = Adományozzon a { -brand-name-mozilla } számára december 31-ig – <strong><a { $donate }>Adományozzon ♥</a></strong>
