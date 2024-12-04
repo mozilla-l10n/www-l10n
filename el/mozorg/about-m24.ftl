@@ -7,6 +7,8 @@
 
 # HTML Page title
 m24-about-page-title = Μάθετε για τη { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγράμματα περιήγησης, εφαρμογές, κώδικα και εργαλεία που βάζουν τους ανθρώπους πάνω από το κέρδος. Η αποστολή μας: Να παραμείνει το διαδίκτυο ανοικτό και προσβάσιμο σε όλους.
 
 ## Intro
 
@@ -22,9 +24,13 @@ m24-about-read-more = Διαβάστε περισσότερα
 
 ## Showcase
 
+m24-about-lets-build-a = Ας χτίσουμε ένα δικαιότερο μέλλον
+m24-about-read-about-our = Διαβάστε για τη δέσμευσή μας
 
 ## Careers
 
 
 ## Community
 
+# the <br> is presentational
+m24-about-community-love = Η αγάπη της κοινότητας —<br> η κινητήριος δύναμή μας
