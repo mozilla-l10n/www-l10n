@@ -21,5 +21,7 @@ ui-show-all = Dangos y Cyfan
 ui-hide-all = Cuddio'r Cyfan
 ui-learn-more = Dysgu rhagor
 ui-view = Gweld
+ui-pause-animation = Oedwch animeiddiad
+ui-play-animation = Chwarae animeiddiad
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Hyrwyddo
