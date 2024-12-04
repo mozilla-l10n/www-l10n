@@ -35,6 +35,7 @@ m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-na
 
 ## Showcase
 
+m24-about-lets-build-a = Twarmy fairniši přichod
 m24-about-read-about-our = Čitajće wo našim zawjazku
 
 ## Careers
