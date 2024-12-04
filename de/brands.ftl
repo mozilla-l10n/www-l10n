@@ -123,7 +123,6 @@
 -brand-name-mozilla-account = Mozilla-Konto
 -brand-name-mozilla-accounts = Mozilla-Konten
 -brand-name-mozilla-social = Mozilla.social
--brand-name-mozilla-ai = Mozilla KI
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird

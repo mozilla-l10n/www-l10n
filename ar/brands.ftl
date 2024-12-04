@@ -123,7 +123,6 @@
 -brand-name-mozilla-account = حساب Mozilla
 -brand-name-mozilla-accounts = حسابات Mozilla
 -brand-name-mozilla-social = Mozilla.social
--brand-name-mozilla-ai = Mozilla الذكاء الاصطناعي
 -brand-name-mozilla-ventures = مشاريع Mozilla
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
