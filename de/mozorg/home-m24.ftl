@@ -55,7 +55,6 @@ m24-home-explore-mozilla-ai = Entdecken Sie { -brand-name-mozilla-ai }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Mit { -brand-name-llamafile } kannst du große Sprachmodelle (Engl.: large language models, LLMs) auf deinem PC nutzen – ohne zusätzliche Installation. Und deine Daten bleiben sicher auf deinem Gerät.
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
-m24-home-turn-your-ai = Verwirkliche deine KI-Idee mit unserem 12-Wochen-Accelerator. Sichere dir Förderung, Beratung und die Gelegenheit, deine Innovation Investor*innen vorzustellen.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Hier findest du die passende LLM für deine Bedürfnisse, deinen Anwendungsfall und deine Daten.
 m24-home-can-ai-be = Kann KI vertrauenswürdig sein?

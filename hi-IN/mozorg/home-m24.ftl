@@ -55,7 +55,6 @@ m24-home-explore-mozilla-ai = { -brand-name-mozilla-ai } के बारे म
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = अपने कंप्यूटर पर { -brand-name-llamafile } की मदद से आसानी से लार्ज लैंग्वेज मॉडल (LLM) चलाएं — किसी इंस्टॉलेशन की आवश्यकता नहीं है, और आपका डेटा आपके डिवाइस पर सुरक्षित रहता है।
 m24-home-mozilla-builders = { -brand-name-mozilla } बिल्डर
-m24-home-turn-your-ai = हमारे 12-सप्ताह के एक्सेलरेटर के जरिए अपने AI आइडिया को वास्तविकता में बदलें। फ़ंडिंग, मेंटरशिप या मार्गदर्शन और निवेशकों के समक्ष अपना इनोवेशन प्रस्तुत करने का अवसर प्राप्त करें।
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = अपनी आवश्यकताओं, यूज़ केस और डेटा के लिए सही LLM प्राप्त करें।
 m24-home-can-ai-be = क्या AI भरोसेमंद हो सकता है?

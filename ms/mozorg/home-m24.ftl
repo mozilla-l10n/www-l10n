@@ -55,7 +55,6 @@ m24-home-explore-mozilla-ai = Terokai { -brand-name-mozilla-ai }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Laksanakan model bahasa besar (LLM) dengan mudah di komputer anda dengan { -brand-name-llamafile } — tanpa sebarang pemasangan dan data anda kekal selamat di dalam peranti sendiri.
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
-m24-home-turn-your-ai = Jadikan idea AI anda satu realiti dengan program pemecut 12-minggu kami. Dapatkan dana, bimbingan serta peluang untuk melontar idea inovasi anda kepada pelabur.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Carilah LLM yang selaras dengan kehendak, kes guna dan data anda.
 m24-home-can-ai-be = Bolehkah AI dipercayai?

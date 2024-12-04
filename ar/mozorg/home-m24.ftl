@@ -55,7 +55,6 @@ m24-home-explore-mozilla-ai = استكشف { -brand-name-mozilla-ai }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = شغّل نماذج اللغة الكبيرة (LLMs) بسهولة على جهازك باستخدام { -brand-name-llamafile } – دون الحاجة إلى تثبيت، مع الحفاظ على أمان بياناتك على جهازك.
 m24-home-mozilla-builders = مُطوّرو وبُناة { -brand-name-mozilla }
-m24-home-turn-your-ai = حوّل فكرتك في مجال الذكاء الاصطناعي إلى واقع مع برنامجنا المسرّع لمدة 12 أسبوعًا. احصل على تمويل وتوجيه وفرصة لعرض ابتكارك أمام المستثمرين.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = ابحث عن نموذج (LLM) المناسب لاحتياجاتك واستخداماتك وبياناتك.
 m24-home-can-ai-be = هل يمكن أن يكون الذكاء الاصطناعي موثوقًا؟

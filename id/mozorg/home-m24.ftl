@@ -55,7 +55,6 @@ m24-home-explore-mozilla-ai = Telusuri { -brand-name-mozilla-ai }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Jalankan model bahasa besar (LLM) dengan mudah di komputer Anda { -brand-name-llamafile } — tidak perlu diinstal, dan data Anda tetap aman di perangkat.
 m24-home-mozilla-builders = Pembangun { -brand-name-mozilla }
-m24-home-turn-your-ai = Wujudkan ide AI Anda menjadi nyata dengan program akselerator 12 minggu kami. Dapatkan pendanaan, bimbingan, dan kesempatan untuk memperkenalkan inovasi Anda kepada investor.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Temukan LLM yang sesuai dengan kebutuhan, kasus penggunaan, dan data Anda.
 m24-home-can-ai-be = Apakah AI bisa dipercaya?
