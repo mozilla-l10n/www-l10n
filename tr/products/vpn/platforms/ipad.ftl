@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = { -brand-name-mozilla }’dan iOS/iPad için VPN
+vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn }, internet trafiğinizi şifreleyip IP adresinizi gizleyen bir sanal özel ağ (VPN) hizmetidir.

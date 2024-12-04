@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = { -brand-name-mozilla }’dan Android için VPN
+vpn-android-looking-for-a = Android cihazınızı koruyacak bir VPN mi arıyorsunuz? { -brand-name-mozilla-vpn }’in arkasında kâr amacı gütmeyen bir şirket var. VPN’lerin sizi nasıl koruduğunu, gizliliğiniz ve güvenliğiniz için neden { -brand-name-mozilla }’ya güvenmeniz gerektiğini öğrenin.
 vpn-android-how-does-a = VPN, Android cihazımı nasıl korur?
 vpn-android-vpns-help = VPN kullanarak şunları önleyebilirsiniz:
 vpn-android-your-personal = Halka açık Wi-Fi ağlarını kullanırken kişisel verileriniz çalınması.
