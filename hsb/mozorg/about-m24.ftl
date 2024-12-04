@@ -7,6 +7,8 @@
 
 # HTML Page title
 m24-about-page-title = Dalše informacije wo { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } wobhladowaki, nałoženja, kod a nastroje wuwiwa, za kotrež ludźo su wažniši hač profit. Naša misija: Internet wotewrjeny a přistupny za wšěch dźeržeć.
 
 ## Intro
 
