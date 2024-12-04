@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Юридическая информация
 footer-refresh-community-participation-guidelines = Правила поведения в сообществе
 footer-refresh-about-this-site = Об этом сайте
 footer-refresh-language = Язык
+footer-refresh-primary-nav-aria-label = Основной нижний колонтитул
+footer-refresh-secondary-nav-aria-label = Дополнительный нижний колонтитул
