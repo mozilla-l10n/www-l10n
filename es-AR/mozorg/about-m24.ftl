@@ -19,9 +19,15 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } está trabajando para dev
 
 m24-about-together-we-can = Juntos podemos lograr que Internet sea fácil, segura y gratuita para todos.
 m24-about-read-our-manifesto = Leé nuestro manifiesto
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Un grupo de pensadores sentados en círculo en el suelo compartiendo ideas.
 m24-about-advocate = Defensor
 m24-about-we-advocate-for = Luchamos por mejores productos, haciendo que los gobiernos y las corporaciones tecnológicas se responsabilicen por lo que crean.
+m24-about-research = Buscar
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Descubrimos ideas, hacemos campaña para mejorar los productos e impulsamos políticas que representen tus intereses.
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Monitoreamos los desarrollos, realizamos investigaciones y campañas para mejorar los productos e impulsar políticas que representen tus intereses.
 m24-about-build = Construir
 m24-about-we-build-products = Creamos productos que te dan el control, como { -brand-name-firefox }, { -brand-name-fakespot } y más.
@@ -34,7 +40,11 @@ m24-about-read-more = Leer más
 m24-about-read-the-latest = Leer los últimos artículos y noticias de { -brand-name-mozilla }
 m24-about-14-ai-projects = 14 proyectos de IA a seguir: { -brand-name-mozilla } el primer grupo de Builders Accelerator
 m24-about-at-our-rise25 = En nuestros { -brand-name-rise25 } , el futuro de la IA es confiable, inclusivo y responsable
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = La { -brand-name-rise25 } señala su trofeo.
 m24-about-empowering-chicagos-entrepreneurs = Empoderar a los emprendedores de Chicago para un cambio generacional
+# Used as an accessible text alternative for an image
+m24-about-chicago = Un emprendedor con sede en Chicago.
 
 ## Showcase
 
@@ -44,13 +54,24 @@ m24-about-read-about-our = Lee sobre nuestro compromiso
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = IA confiable, { -brand-name-common-voice }, aprendizajes federados.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Empleado de { -brand-name-mozilla } en medio de la conversación.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Empleado de { -brand-name-mozilla } tomando café.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Empleados de { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Unite y marcá la diferencia
 m24-about-join-our-team = Únete a nuestro equipo y supera los límites de lo posible sin comprometer lo que importa.
 m24-about-see-open-positions = Ver puestos abiertos
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = Amor comunitario, nuestro motor
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Amor comunitario - <br> nuestra fuerza impulsora
 m24-about-mozilla-is-a = { -brand-name-mozilla } es una comunidad global de voluntarios, becarios y colaboradores apasionados que han estado construyendo, protegiendo y dando forma a Internet con nosotros desde 1998.
 m24-about-from-writing-code = Desde escribir código y detectar errores hasta defender la privacidad y mantener Internet abierta para todos, los miembros de nuestra comunidad son la columna vertebral de todo lo que hacemos. Su pasión y dedicación nos inspiran cada día.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Persona con un maletín para computadora portátil y cordón de { -brand-name-mozilla }.
