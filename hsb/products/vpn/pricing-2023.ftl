@@ -56,5 +56,7 @@ vpn-pricing-if-already-subscribed = Jeli sće { -brand-name-mozilla-vpn } hižo 
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Zo byšće nałoženje sćahnył, skenujće kod QR ze swojim mobilnym gratom abo tabletom
+vpn-pricing-scan-qrcode-to-download-android = Zo byšće nałoženje sćahnył, skenujće kod QR ze swojim gratom Android abo tabletom
 vpn-pricing-sign-up-on-your-mobile-device = Registrujće so za abonement { -brand-name-mozilla-vpn } na swojim mobilnym graće
+vpn-pricing-sign-up-on-your-android-device = Registrujće so za abonement { -brand-name-mozilla-vpn } na swojim graće Android
 vpn-pricing-download-the-app = Nałoženje sćahnyć
