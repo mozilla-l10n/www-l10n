@@ -19,9 +19,15 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } მუშაობს, �
 
 m24-about-together-we-can = ერთად, ჩვენ შეგვიძლია შევინარჩუნოთ მარტივი, უსაფრთხო და თავისუფალი ინტერნეტი — ყველასთვის.
 m24-about-read-our-manifesto = წაიკითხეთ ჩვენი დებულებები
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = მოაზროვნეთა ჯგუფი, იჯდა წრიულად და უზიარებს აზრებს.
 m24-about-advocate = ადვოკატი
 m24-about-we-advocate-for = ჩვენ მხარს ვუჭერთ უკეთესი პროდუქტების შეძენას, მთავრობებისა და ტექკორპორაციების პასუხისმგებლობის მოთხოვნას, რასაც ქმნიან.
+m24-about-research = კვლევა
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = ჩვენ გამოვამჟღავნებთ მოსაზრებებს, კამპანიებს, პროდუქტების გასაუმჯობესებლად და იმ დებულებების მიღებაზე, თქვენი ინტერესების შესაბამისად.
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = ჩვენ თვალს ვადევნებთ მოვლენების განვითარებას, ვატარებთ კვლევებს და კამპანიას, პროდუქტების გასაუმჯობესებლად და თქვენი ინტერესების შესაბამისი დებულებების განსახილველად.
 m24-about-build = Build
 m24-about-we-build-products = ჩვენ ვქმნით პროდუქტებს, რომლებიც გიბრუნებთ სამართავად — როგორიცაა { -brand-name-firefox }, { -brand-name-fakespot } და სხვა.
@@ -34,7 +40,11 @@ m24-about-read-more = ვრცლად
 m24-about-read-the-latest = გაეცანით { -brand-name-mozilla }-ს უახლეს სიახლეებსა და სტატიებს
 m24-about-14-ai-projects = AI-ის 14 პროექტი, რომელთაც თვალი უნდა უყუროთ: { -brand-name-mozilla }-ს შემქმნელების ამაჩქარებლის პირველი კოჰორტა იხსნება
 m24-about-at-our-rise25 = ჩვენს { -brand-name-rise25 }-დაჯილდოებაზე ხელოვნური ინტელექტის მომავალი სანდო, ინკლუზიური და ანგარიშვალდებული იქნება
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 }-ის ჯილდოს მიმღები თასისკენ მიუთითებს.
 m24-about-empowering-chicagos-entrepreneurs = ჩიკაგოელი მეწარმეების მხარდაჭერა თაობის შეცვლისთვის
+# Used as an accessible text alternative for an image
+m24-about-chicago = ჩიკაგოელი მეწარმე.
 
 ## Showcase
 
@@ -44,13 +54,24 @@ m24-about-read-about-our = წაიკითხეთ ჩვენი ვალ
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = სანდო AI, { -brand-name-common-voice }, ფედერალური სწავლება.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla }-ის თანამშრომელი შუა საუბარს.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla }-ს თანამშრომელი ყავას სვამს.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla }-ს თანამშრომელები თანამშრომლობენ.
 m24-about-join-us-and = შემოგვიერთდით და შეიტანეთ ცვლილებები
 m24-about-join-our-team = შემოუერთდით ჩვენს გუნდს და გადადით იმ საზღვრებში, რისი გაკეთებაც შესაძლებელია — კომპრომისის გარეშე, რაშიც მნიშვნელოვანია.
 m24-about-see-open-positions = იხილეთ გახსნილი პოზიციები
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = ერთობის სიყვარული, ჩვენი მამოძრავებელი ძალა
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = ერთობის სიყვარული —<br> ჩვენი მამოძრავებელი ძალა
 m24-about-mozilla-is-a = { -brand-name-mozilla } არის გლობალური ერთობა ვნებიანი მოხალისეებისა და წვლილის შემტანების, რომლებიც ჩვენთან ერთად აშენებენ, იცავენ და აყალიბებენ ინტერნეტს 1998 წლიდან.
 m24-about-from-writing-code = კოდის დაწერითა და ხარვეზების გამოვლენიდან დაწყებული პირადი მონაცემების დაცულობისა და ინტერნეტის ყველასთვის გახსნილობის დამცველობით – ჩვენი ერთობის წევრები არიან ხერხემალი იმ ყველაფრის, რისი კეთებაც ვიმოქმედებთ. მათი ენთუზიაზმი და მონდომება ყოველდღე შთაგვაგონებს.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = პიროვნება ნოუთბუქის ჩანთით და { -brand-name-mozilla }-ს ლანგრით.
