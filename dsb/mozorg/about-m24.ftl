@@ -38,3 +38,5 @@ m24-about-join-us-and = Pśizamkniśo se nam a cyńśo rozdźěl
 
 ## Community
 
+# the <br> is presentational
+m24-about-community-love = Lubosć zgromaźeństwa – <br> naša gónjeca móc
