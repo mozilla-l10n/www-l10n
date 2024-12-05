@@ -36,7 +36,7 @@ m24-home-keep-your-location = 给位置和网络活动施个障眼法。仿佛�
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 在个人信息面临风险时收到警告，并得心应手解决问题。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来的消息拒之门外。
+m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来的邮件和信息拒之门外。
 
 ## Donate
 
