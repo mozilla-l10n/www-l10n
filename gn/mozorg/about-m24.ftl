@@ -31,6 +31,9 @@ m24-about-fund = Hepyme’ẽ
 ## News
 
 m24-about-read-more = Emoñe’ẽve
+m24-about-read-the-latest = Emoñe’ẽ marandu pyahu ha { -brand-name-mozilla } ohaipyre
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 } ombojopóiva ohechaukávo ñeme’ẽmbyre.
 # Used as an accessible text alternative for an image
 m24-about-chicago = Peteĩ moheñoihára oĩva Chicago-pe.
 
