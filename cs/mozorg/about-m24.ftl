@@ -23,7 +23,7 @@ m24-about-read-our-manifesto = Přečtěte si náš manifest
 m24-about-a-group-of = Skupina myslitelů sedících na zemi v kruhu a sdílících nápady.
 m24-about-advocate = Advocate
 m24-about-we-advocate-for = Prosazujeme lepší produkty a voláme vlády a technologické korporace k zodpovědnosti za to, co vytvoří.
-m24-about-research = Vyhledat
+m24-about-research = Výzkum
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně za vylepšování produktů a prosazujeme zásady, které reprezentují vaše zájmy.
@@ -62,7 +62,7 @@ m24-about-alt-conversation = Zaměstnanec { -brand-name-mozilla(case: "gen") } u
 m24-about-alt-drinking-coffee = Zaměstnanec { -brand-name-mozilla(case: "gen") } pije kávu.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Zaměstnanci { -brand-name-mozilla(case: "gen") } spolupracují.
-m24-about-join-us-and = Přidejte se a udělejte změnu
+m24-about-join-us-and = Připojte se k nám a změňte něco k lepšímu
 m24-about-join-our-team = Připojte se k našemu týmu a posouvejte hranice možného – bez kompromisů v tom, na čem záleží.
 m24-about-see-open-positions = Podívejte se na otevřené pozice
 

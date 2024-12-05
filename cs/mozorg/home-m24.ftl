@@ -20,13 +20,13 @@ m24-home-learn-about-us = Více informací o nás
 
 ## Products
 
-m24-home-love-the-internet = Znovu milujte internet
+m24-home-love-the-internet = Znovu si zamilujte internet
 m24-home-break-free-from = Osvoboďte se od velkých technologií – naše produkty vám dávají kontrolu nad bezpečnějším a soukromějším internetem.
 m24-home-explore-our-products = Prozkoumejte naše produkty
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Získejte zlatý standard pro rychlost, soukromí a kontrolu.
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-go-chaosfree-with = Zjednodušte si život s jednou aplikací pro všechny vaše e-maily, kalendáře a kontakty.
+m24-home-go-chaosfree-with = Zjednodušte si život pomocí jedné aplikace pro všechny e-maily, kalendáře a kontakty.
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Poznejte falešné recenze, špatné produkty a nedůvěryhodné prodejce.
 m24-home-pocket = { -brand-name-pocket }
@@ -62,14 +62,14 @@ m24-home-alt-builders = Tvůrci
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-builders-helps-independent = Builders pomáhá nezávislým vývojářům vytvářet transformační open-source projekty s umělou inteligencí pomocí zakázkové spolupráce, programování a komunity.
 # Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator(case: "gen") }.
+m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Najděte to správné LLM pro vaše potřeby, případ užití a data.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla(case: "gen") }.
 m24-home-can-ai-be = Může být AI důvěryhodná?
 m24-home-in-a-world = Ve světě, kde jsou inovace AI taženy několika vyvolenými, riskujeme monopolizaci této technologie. Aplikace konceptů open-source na umělou inteligenci to může změnit.
-m24-home-watch-now = Dívat se nyní
+m24-home-watch-now = Sledujte nyní
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Reproduktor na jevišti s více logy produktů.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
@@ -85,7 +85,7 @@ m24-home-author = Autor
 m24-home-topic = Téma
 m24-home-intro = Úvod
 m24-home-tag-article = Článek
-m24-home-tag-podcast = Audio kanál
+m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Novinky
 m24-home-topic-ai = Umělá inteligence

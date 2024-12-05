@@ -39,4 +39,4 @@ footer-refresh-community-participation-guidelines = Pravidla pro přispěvatele
 footer-refresh-about-this-site = O této stránce
 footer-refresh-language = Jazyk
 footer-refresh-primary-nav-aria-label = Hlavní patička
-footer-refresh-secondary-nav-aria-label = Sekundární zápatí
+footer-refresh-secondary-nav-aria-label = Sekundární patička
