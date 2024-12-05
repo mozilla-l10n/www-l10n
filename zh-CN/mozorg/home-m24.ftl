@@ -68,14 +68,10 @@ m24-home-tag-video = 视频
 m24-home-topic-news = 新闻
 m24-home-topic-ai = 人工智能
 m24-home-topic-ps = 隐私与安全
-m24-home-why-does-it = 为什么我们经常觉得自己在参与大规模 AI 实验什么是负责任的测试新技术的方法布丽奇特托德探索未经证实的人工智能系统进入公共生活将影响数以百万计的人意味着什么。
-m24-home-kids-are-growing = 孩子们在一个非常网络的世界中成长。忧心如焚的家长会怎么做
 
 ## Showcase
 
-m24-home-rise25-awards = { -brand-name-rise25 }奖项
 m24-home-get-to-know = 了解提倡可信、包容、透明的 AI 开发的领导者设定新的标准并激励下一代的创新者。
-m24-home-watch-the-award = 观看奖项
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = 荣幸地在 { -brand-name-rise25 } 上获奖。
 # Used as an accessible text alternative for an image
