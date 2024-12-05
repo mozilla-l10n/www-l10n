@@ -64,14 +64,14 @@ m24-home-builders-helps-independent = Builders помогает независи
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Логотип { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Найдите правильный LML для ваших потребностей, сценария использования и данных.
+m24-home-find-the-just = Найдите правильный LLM для ваших потребностей, сценария использования и данных.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Марк Сурман, директор { -brand-name-mozilla }.
-m24-home-can-ai-be = Может ли ИИ доверять?
+m24-home-can-ai-be = Может ли ИИ быть доверенным?
 m24-home-in-a-world = В мире, где инновации в области ИИ движимы немногими избранными, мы рискуем монополизировать эту технологию. Применение концепций открытого исходного кода к ИИ может это изменить.
 m24-home-watch-now = Смотреть сейчас
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = Выступающий на стадии с несколькими логотипами продуктов.
+m24-home-alt-ventures = Выступающий на сцене с несколькими логотипами продуктов.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = У вас есть стартап на начальной стадии? Представьте свою компанию { -brand-name-mozilla-ventures } и обеспечьте финансирование позитивных изменений для будущего ИИ и Интернета.
 m24-home-common-voice = { -brand-name-common-voice }
@@ -88,12 +88,12 @@ m24-home-tag-article = Статья
 m24-home-tag-podcast = Подкаст
 m24-home-tag-video = Видео
 m24-home-topic-news = Новости
-m24-home-topic-ai = ИИ
+m24-home-topic-ai = Искусственный интеллект
 m24-home-topic-ps = Приватность и защита
 m24-home-headline-you-ai = Заголовок: Вы, ИИ и Интернет — что на самом деле происходит?
 m24-home-introducing-anonym = Представляем { -brand-name-anonym }: Поднимаем планку цифровой рекламы, сохраняющей приватность.
-m24-home-keeping-genai-technologies = Обеспечение безопасности технологий ГенАИ — это общая ответственность.
-m24-home-from-hollywood-to = От голливудского до рэп-хоп-арта — артисты ведут условия для получения согласия на использование ИИ.
+m24-home-keeping-genai-technologies = Обеспечение безопасности технологий генеративного ИИ — это общая ответственность.
+m24-home-from-hollywood-to = От Голливуда до хип-хопа — художники ведут переговоры о согласии на использование искусственного интеллекта.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } чествует новаторов в новой серии документальных фильмов «{ -brand-name-firefox } представляет».
 m24-home-big-techs-power = Власть больших технологий над языком означает власть над людьми. Бриджит Тодд беседует с лидерами языковых сообществ, прокладывая путь голосовому ИИ на их языках и диалектах.
 m24-home-why-does-it = Почему нам так часто кажется, что мы являемся частью массового эксперимента с ИИ? Что такое ответственный способ тестирования новых технологий? Бриджит Тодд исследует, что значит жить с непроверенными системами ИИ, которые влияют на миллионы людей по мере их развертывания в общественной жизни.
