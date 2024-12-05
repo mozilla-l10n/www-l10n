@@ -26,7 +26,6 @@ m24-about-we-advocate-for = 我们倡导更好的产品，并要求政府和科�
 m24-about-research = 研究
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = 关注
-m24-about-we-uncover-insights = 我们发掘符合您兴趣的见解、活动以改进产品并推行政策。
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = 我们会关注形势发展、进行研究、举办活动，以改进产品及推动代表您利益的政策落地。
 m24-about-build = 打造

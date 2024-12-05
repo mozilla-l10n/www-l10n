@@ -16,12 +16,9 @@ m24-home-learn-about-us = 了解我们
 
 ## Products
 
-m24-home-break-free-from = 摆脱巨头技术的束缚——我们的产品让您可以掌控更安全、更私密的互联网体验。
 m24-home-explore-our-products = 探索我们的产品
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = 获得业界领先的上网速度、隐私、控制权。
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-go-chaosfree-with = 借助一个应用处理您的所有电子邮件、日历和联系人并简化您的生活。
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
