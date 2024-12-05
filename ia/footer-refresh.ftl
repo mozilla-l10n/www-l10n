@@ -41,3 +41,4 @@ footer-refresh-community-participation-guidelines = Lineas guida de participatio
 footer-refresh-about-this-site = Re iste sito
 footer-refresh-language = Lingua
 footer-refresh-primary-nav-aria-label = Pede de pagina primari
+footer-refresh-secondary-nav-aria-label = Pede de pagina secundari

@@ -21,5 +21,7 @@ ui-show-all = Monstrar toto
 ui-hide-all = Celar toto
 ui-learn-more = Apprender plus
 ui-view = Vider
+ui-pause-animation = Pausar animation
+ui-play-animation = Reproducer animation
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promotion
