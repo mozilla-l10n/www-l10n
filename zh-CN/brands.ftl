@@ -125,7 +125,9 @@
 -brand-name-mozilla-account = Mozilla 账户
 -brand-name-mozilla-accounts = Mozilla 账户
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla 创业投资
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
