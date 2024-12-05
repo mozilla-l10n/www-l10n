@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/
 
 # HTML Page title
-m24-home-page-title = Internet 為眾人所共有 — { -brand-name-mozilla }
-m24-home-page-title-v2 = { -brand-name-mozilla } — 公眾共有的網際網路, 非營利的
+m24-home-page-title = 為眾人，而非為利益運作的網際網路 — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — 為眾人，而非為利益運作的網際網路
 # HTML page description
 m24-home-page-desc = 您知道嗎？{ -brand-name-firefox } 的開發者 { -brand-name-mozilla } 持續為了保護網際網路成為全球的公眾資源、維持開放，讓任何人都可使用而奮鬥著。
 m24-home-page-desc-v2 = 我們正在努力將網際網路的控制權交還給使用者。
@@ -48,11 +48,11 @@ m24-home-donate = 捐款
 ## AI gallery
 
 m24-home-tag-product = 產品
-m24-home-tag-program = 程式
-m24-home-tag-event = 事件
+m24-home-tag-program = 專案
+m24-home-tag-event = 活動
 m24-home-read-more = 了解更多
 m24-home-get-started = 開始使用
-m24-home-join-the-movement = 加入 AI 為民<br>運動
+m24-home-join-the-movement = 加入運動：AI for the people
 m24-home-our-mission-is = 我們的使命是讓人們更簡單就能打造開放原始碼、可信任的 AI。
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 圖示。
@@ -85,7 +85,7 @@ m24-home-author = 作者
 m24-home-topic = 主題
 m24-home-intro = 介紹
 m24-home-tag-article = 文章
-m24-home-tag-podcast = 網路廣播 (Podcast)
+m24-home-tag-podcast = Podcast
 m24-home-tag-video = 影片
 m24-home-topic-news = 新聞
 m24-home-topic-ai = 人工智慧
