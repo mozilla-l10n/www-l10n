@@ -29,7 +29,7 @@ m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Bepillantásokat tárunk, kampányolunk a termékek fejlesztéséért és olyan irányelvekért, amelyek az Ön érdekeit képviselik.
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Figyelemmel kísérjük a fejlesztéseket, kutatásokat végzünk és kampányolunk a termékek fejlesztéséért, és az olyan irányelvek megismertetéséért, amelyek az Ön érdekeit képviselik.
-m24-about-build = Összeállítás
+m24-about-build = Fejlesztés
 m24-about-we-build-products = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – mint a { -brand-name-firefox }, a { -brand-name-fakespot } és így tovább.
 m24-about-fund = Finanszírozás
 m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, és abba fektetünk be, hogy a technológiát, az internetet és a mesterséges intelligenciát a helyes irányba tereljük.
