@@ -19,8 +19,12 @@ navigation-refresh-innovation-projects-v2 = Projectau Arloesedd
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Ein Cenhadaeth
 navigation-refresh-our-work = Ein Gwaith
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = AI { -brand-name-mozilla }
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = Mentrau { -brand-name-mozilla }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Hysbysebu { -brand-name-mozilla }

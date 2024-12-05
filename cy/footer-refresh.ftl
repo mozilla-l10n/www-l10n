@@ -39,6 +39,7 @@ footer-refresh-websites-cookies = Cwcis
 footer-refresh-websites-legal = Cyfreithiol
 footer-refresh-community-participation-guidelines = Canllawiau Cyfranogiad Cymunedol
 footer-refresh-about-this-site = Am y wefan hon
+footer-refresh-all-languages = Pob iaith
 footer-refresh-language = Iaith
 footer-refresh-primary-nav-aria-label = cynradd footer
 footer-refresh-secondary-nav-aria-label = Troedyn uwchradd
