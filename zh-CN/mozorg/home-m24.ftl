@@ -51,10 +51,6 @@ m24-home-builders-helps-independent = Builders 帮助独立开发者通过定制
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = 寻找适合您的需求、用例和数据的 LLM。
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = { -brand-name-mozilla } 主席马克·苏曼 (Mark Surman)。
-m24-home-can-ai-be = 人工智能可信吗
 m24-home-in-a-world = 在一个人工智能创新由少数人推动的世界里我们正面临着垄断这项技术的风险。将开源概念应用到 AI 或许可以改变这一切。
 m24-home-watch-now = 立即观看
 # Used as an accessible text alternative for an image
