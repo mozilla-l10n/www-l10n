@@ -19,6 +19,8 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } dźěła na tym, kontrolu
 
 m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotny dźeržimy – za wšěch.
 m24-about-read-our-manifesto = Čitajće naš manifest
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Skupina myslerjow, kotřiž w kole na špundowanju sedźa a ideje wuměnjeja.
 m24-about-advocate = Rěčnik
 m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
 m24-about-research = Slědźenje
@@ -46,6 +48,8 @@ m24-about-read-about-our = Čitajće wo našim zawjazku
 ## Careers
 
 # Used as an accessible text alternative for an image
+m24-about-alt-conversation = Přistajeny { -brand-name-mozilla } wosrjedź konwersacije.
+# Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Přistajeny { -brand-name-mozilla }, kotryž kofej pije.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Přistajeni { -brand-name-mozilla }, kotřiž  hromadźe dźěłaja.
@@ -57,3 +61,5 @@ m24-about-see-open-positions = Hlejće swobodne dźěłowe městna
 m24-about-community-love-v2 = Lubosć zhromadźenstwa, naša ćěrjaca móc
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zhromadźenstwa – <br> naša ćěrjaca móc
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Wosoba z tobołu laptopa a šnórku { -brand-name-mozilla }.
