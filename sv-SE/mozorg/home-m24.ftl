@@ -10,7 +10,7 @@ m24-home-page-title = Internet för människor, inte för vinst — { -brand-nam
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet för människor, inte för vinst
 # HTML page description
 m24-home-page-desc = Visste du? { -brand-name-mozilla } — tillverkaren av { -brand-name-firefox } — kämpar för att internet ska fortsätta vara en global offentlig resurs, öppen och tillgänglig för alla.
-m24-home-page-desc-v2 = Vi arbetar för att ge tillbaka kontrollen över internet i händerna på dom som använder det.
+m24-home-page-desc-v2 = Vi arbetar för att ge tillbaka kontrollen över internet i händerna på de som använder det.
 
 ## Intro
 
@@ -21,7 +21,7 @@ m24-home-learn-about-us = Läs mer om oss
 ## Products
 
 m24-home-love-the-internet = Älska internet igen
-m24-home-break-free-from = Bryt dig fri från de stora teknikföretagen — våra produkter ger dig kontroll över en säkrare, mer privat internetupplevelse.
+m24-home-break-free-from = Bry dig fri från de stora teknikföretagen — våra produkter ger dig kontroll över en säkrare, mer privat internetupplevelse.
 m24-home-explore-our-products = Utforska våra produkter
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Få guldstandarden för surfning med snabbhet, integritet och kontroll.
@@ -34,9 +34,9 @@ m24-home-save-the-internets = Spara internets bästa innehåll på vilken enhet 
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Håll din plats och onlineäventyr privat — streama lokalt, var som helst.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Få ett förvarning om din personliga information är i fara och lås ner den som ett proffs.
+m24-home-get-a-headsup = Få ett meddelande om din personliga information är i fara och lås den som ett proffs.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Maskera din e-post adress och ditt telefonnummer så att du bara får de meddelanden som du vill ha.
+m24-home-mask-your-email = Maskera din e-postadress och ditt telefonnummer så att du bara får de meddelanden du vill ha.
 
 ## Donate
 
@@ -75,7 +75,7 @@ m24-home-alt-ventures = Talare på scen med flera produktlogotyper.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du ett startup i tidigt skede? Presentera ditt företag för { -brand-name-mozilla-ventures } och säkra finansiering för att driva positiva förändringar för framtiden för AI och internet.
 m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Donera din röst för att göra talteknik mer öppen och tillgänglig för alla.
+m24-home-donate-your-voice-to-make = Donera din röst för att göra taltekniken mer öppen och tillgänglig för alla.
 m24-home-donate-your-voice = Donera din röst
 
 ## Media Springboard
