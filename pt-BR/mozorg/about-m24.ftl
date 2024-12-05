@@ -17,6 +17,8 @@ m24-about-reclaim-the-internet = Recupere a internet conosco
 ## Manifesto
 
 m24-about-read-our-manifesto = Leia nosso manifesto
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão trocando ideias.
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Pleiteamos produtos melhores, responsabilizando governos e corporações de tecnologia pelo que criam.
 m24-about-research = Pesquisa

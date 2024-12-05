@@ -26,6 +26,11 @@ m24-home-llamafile = { -brand-name-llamafile }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Encontre o modelo de linguagem (LLM) certo para suas necessidades, caso de uso e dados.
+m24-home-can-ai-be = Inteligência artificial pode ser confiável?
+m24-home-in-a-world = Em um mundo onde a inovação em inteligência artificial é conduzida por poucas pessoas, corremos o risco dessa tecnologia ser monopolizada. Aplicar conceitos de código aberto à inteligência artificial pode mudar isso.
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Doe sua voz
