@@ -5,15 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-# HTML page title, also used for the main title
-compare-index-six-of-the-best-browsers-fallback = ਛੇ ਸਭ ਤੋਂ ਵੱਡੇ ਬਰਾਊਜ਼ਰਾਂ ਦਾ ਟਾਕਰਾ ਕਰੋ
-# Sub-headline
-compare-index-privacy-utility-portability = ਪਰਦੇਦਾਰੀ। ਸਹੂਲਤਾਂ। ਪਰੋਟੇਬਿਲਟੀ।
-# HTML page description
-compare-index-a-great-internet-browser-should = ਸ਼ਾਨਦਾਰ ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੀ ਲੋੜ ਮੁਤਾਬਕ ਕੰਮ ਕਰਦਾ, ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਮੌਜੂਦਅਤੇ ਉਹ ਪਰਦੇਦਾਰੀ, ਜਿਸ ਦੇ ਤੁਸੀਂ ਹੱਕਦਾਰ ਹੋ, ਦਿੰਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।
-compare-index-which-browser-is-best-at-keeping = ਕਿਹੜਾ ਬਰਾਊਜ਼ਰ ਚੀਜ਼ਾਂ ਨੂੰ ਭੇਤ ਵਾਲਾ ਰੱਖਣ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ?
-compare-index-what-has-your-browser-done = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੇ ਤਾਜ਼ਾ ਤੁਹਾਡੇ ਲਈ ਕੀ ਕੀਤਾ ਹੈ?
-compare-index-how-well-does-your-browser = ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ ਨਾਲ ਕਿੰਨੀ ਵਧੀਆ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਦਾ ਹੈ?
-compare-index-conclusion = ਸਿੱਟਾ:
-compare-index-and-the-winner-is = ਅਤੇ ਜੇਤੂ ਹੈ…
-compare-index-firefox-is-backed-by-the-not = { -brand-name-firefox } ਨੂੰ ਫਾਇਦੇ-ਲਈ-ਨਹੀਂ { -brand-name-mozilla } ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਹੈ।
+# Page title
+compare-index-compare-firefox-with-other = { -brand-name-firefox } ਦਾ ਹੋਰ ਬਰਾਊਜ਼ਰ ਨਾਲ ਮੁਕਾਬਲਾ ਕਰੋ
+compare-index-firefox-versus-google-chrome = { -brand-name-firefox } ਬਨਾਮ Google Chrome
+compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } ਬਨਾਮ Microsoft Edge
+compare-index-firefox-versus-apple-safari = { -brand-name-firefox } ਬਨਾਮ Apple Safari
+compare-index-firefox-versus-brave = { -brand-name-firefox } ਬਨਾਮ Brave
+compare-index-firefox-versus-opera = { -brand-name-firefox } ਬਨਾਮ Opera
