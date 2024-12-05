@@ -85,9 +85,41 @@ m24-home-author = Yazar
 m24-home-topic = Konu
 m24-home-intro = Giriş
 m24-home-tag-article = Makale
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Haber
+m24-home-topic-ai = Yapay zekâ
+m24-home-topic-ps = Gizlilik ve güvenlik
+m24-home-headline-you-ai = Manşet: Siz, yapay zekâ ve internet… Aslında neler oluyor?
+m24-home-introducing-anonym = Karşınızda { -brand-name-anonym }: Gizliliği koruyan dijital reklamcılıkta çıtayı yükseltiyoruz.
+m24-home-keeping-genai-technologies = Üretken yapay zekâ teknolojilerinin güvenliğini sağlamak ortak bir sorumluluk.
+m24-home-from-hollywood-to = Hollywood’dan hip-hop’a tüm sanatçılar yapay zekâya verilecek izinleri tartışıyor.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla }, yeni belgesel dizisi “{ -brand-name-firefox } Presents” ile çığır açan yaratıcıları dünyaya tanıtıyor.
+m24-home-why-does-it = Neden kendimizi büyük bir yapay zekâ deneyinin parçası gibi hissediyoruz? Yeni teknolojiler sorumlu bir şekilde nasıl test edilebilir? Bridget Todd, kamusal hayatta milyonlarca insanı etkileyen, başarısı henüz kanıtlanmamış yapay zekâ sistemleriyle yaşamanın nasıl bir şey olduğunu araştırıyor.
+m24-home-kids-are-growing = Çocuklar fazlasıyla çevrimiçi bir dünyada büyüyor. Endişeli ebeveynler ne yapmalı?
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } Ödülleri
+m24-home-get-to-know = Güvenilir, kapsayıcı ve şeffaf yapay zekâ gelişimini savunan, yeni bir standart oluşturan ve yeni nesil mucitlere ilham veren liderleri tanıyın.
+m24-home-watch-the-award = Ödül törenini izleyin
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Gururlu bir { -brand-name-rise25 } ödülü sahibi.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Gülümseyen bir { -brand-name-rise25 } konuşmacısı.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Üzerinde dikkat simgesi olan akıllı cihazlar.
+m24-home-explore-issues-shaping = İnternetin geleceğini şekillendiren sorunları keşfedin
+m24-home-privacy-not-included = *Privacy Not Included
+m24-home-search-our-reviews = Verilerinizi gizlice toplayan teknoloji araçlarını ve uygulamaları öğrenmek için incelemelerimize bakın.
+m24-home-pni-search-now = Arama yapın
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, IRL Podcast sunucusu.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Ödüllü podcast’imiz interneti daha güvenli ve yapay zekâyı daha güvenilir hale getirmek için çalışan öncüleri konuk ediyor.
+m24-home-irl-listen-now = Dinleyin
