@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-donate-by = 於 12 月 31 日之前捐款給 { -brand-name-mozilla } — <strong><a { $donate }>捐款</a></strong>
+m24-pencil-banner-donate-by = 在 12 月 31 日之前捐款給 { -brand-name-mozilla } — <strong><a { $donate }>捐款 ♥</a></strong>
