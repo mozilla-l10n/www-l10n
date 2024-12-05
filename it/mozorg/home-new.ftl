@@ -32,10 +32,12 @@ home-join-us-in-shaping = Aiutaci a creare un’intelligenza artificiale affidab
 home-work-on-ai = Il lavoro di { -brand-name-mozilla } con l’intelligenza artificiale non è una novità: abbiamo investito anni finanziando, sviluppando e sostenendo un’intelligenza artificiale aperta, equa e sviluppata in modo responsabile. Il nostro obiettivo è creare un’intelligenza artificiale che sia al servizio delle persone, dia priorità alla trasparenza e sostenga il bene pubblico, non le agende aziendali.
 home-read-more = Ulteriori informazioni
 home-so-what-is-mozilla = Che cos’è { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = Fondamentalmente, { -brand-name-mozilla } è un’organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = Fondamentalmente, { -brand-name-mozilla } è un’organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
+home-at-its-core-v2 = Fondamentalmente, { -brand-name-mozilla } è un’organizzazione attivista, guidata da { -brand-name-mozilla-foundation }, che cerca di cambiare il mondo attraverso una serie di iniziative commerciali, incluse { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Cosa ci rende diversi? Il fatto di essere guidati da una missione ci garantisce la libertà di basare tutte le nostre decisioni su ciò che è meglio per Internet e per chiunque lo utilizzi, non sulle esigenze degli azionisti — infatti, non abbiamo alcun azionista.
 home-learn-about-mofo = Scopri { -brand-name-mozilla-foundation }
 home-join-the-fight = Unisciti alla lotta per un Internet in salute
 home-your-voice-your-code = La tua voce. Il tuo codice. Le tue idee. Ci sono migliaia di modi in cui puoi contribuire a { -brand-name-mozilla }.
@@ -45,8 +47,6 @@ home-the-mozilla-project = Il progetto { -brand-name-mozilla } fu fondato a San 
 home-eventually-the-open = Alla fine, il progetto open source { -brand-name-mozilla } si trasformò nella prima popolare versione di { -brand-name-firefox }.
 home-today-mozilla-continues = Oggi { -brand-name-mozilla } continua il suo impegno per migliorare Internet, con il supporto di una comunità di milioni di persone da tutto il mondo che si batte per una tecnologia etica, un’intelligenza artificiale affidabile e prodotti incentrati sulla privacy che danno più controllo alle persone.
 home-learn-more-about-mozilla = Scopri di più su { -brand-name-mozilla }
-home-get-good-news = Ricevi (buone) notizie da { -brand-name-mozilla }
-home-get-news-and-tips = Ricevi da { -brand-name-mozilla } notizie e suggerimenti su come rimanere al sicuro e informato su tutto ciò che rende il Web un luogo più sano.
 # VPN Feature
 home-featured-product = Prodotti consigliati
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
