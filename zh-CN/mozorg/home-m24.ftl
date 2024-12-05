@@ -43,7 +43,6 @@ m24-home-tag-program = 程序
 m24-home-tag-event = 事件
 m24-home-read-more = 详细了解
 m24-home-get-started = 开始使用
-m24-home-join-the-movement = 加入我们的行动<br> AI 造福人民
 m24-home-our-mission-is = 我们的使命是让人们能够轻松地构建并协作开源、可信赖的 AI。
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 徽标。
