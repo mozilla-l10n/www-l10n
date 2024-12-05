@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-support-ethical = Eykeko IA hekoporã ha hekoñemíva ñandutípe — <strong><a { $donate }>¡embojopóikatu!</a></strong>
+m24-pencil-banner-donate-by = Eme’ẽ { -brand-name-mozilla }-pe 31 jasypakõi mboyve — <strong><a { $donate }>Jopói ♥</a></strong>
