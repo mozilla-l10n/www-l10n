@@ -56,12 +56,52 @@ m24-home-join-the-movement = Pridružite se pokretu:<br> AI za ljude
 m24-home-our-mission-is = Naša misija je da ljudima olakšamo izgradnju i saradnju na otvorenoj, pouzdanoj AI.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } logo.
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Lahko pokrenite velike jezičke modele (LLM) na svom računaru pomoću { -brand-name-llamafile } — nije potrebna instalacija, a vaši podaci ostaju sigurni na vašem uređaju.
+m24-home-alt-builders = Konstruktori
+m24-home-mozilla-builders = { -brand-name-mozilla } konstruktori
+m24-home-builders-helps-independent = Konstruktori pomažu nezavisnim programerima da kreiraju transformativne AI projekte otvorenog koda kroz prilagođenu saradnju, programiranje i zajednicu.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator } logo.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Pronađite pravi LLM za svoje potrebe, slučaj upotrebe i podatke.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, predsjednik { -brand-name-mozilla }.
+m24-home-can-ai-be = Može li AI biti pouzdan?
+m24-home-in-a-world = U svijetu u kojem inovacije umjetne inteligencije pokreću nekolicina odabranih, riskiramo monopolizaciju ove tehnologije. Primjena koncepta otvorenog koda na AI bi to mogla promijeniti.
+m24-home-watch-now = Gledajte sada
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Govornik na bini sa više logotipa proizvoda.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Imate li startup u ranoj fazi? Predstavite svoju kompaniju na { -brand-name-mozilla-ventures } i osigurajte finansijska sredstva za pokretanje pozitivnih promjena za budućnost AI i interneta.
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Donirajte svoj glas kako biste govornu tehnologiju učinili inkluzivnijom i dostupnijom za sve.
+m24-home-donate-your-voice = Donirajte svoj glas
 
 ## Media Springboard
 
+m24-home-type = Tip
+m24-home-author = Autor
+m24-home-topic = Tema
+m24-home-intro = Predstavljanje
+m24-home-tag-article = Članak
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Vijesti
+m24-home-topic-ai = Umjetna inteligencija
+m24-home-topic-ps = Privatnost i sigurnost
+m24-home-headline-you-ai = Naslov: Vi, AI i internet – šta se zapravo dešava?
+m24-home-introducing-anonym = Predstavljamo { -brand-name-anonym }: Podizanje granice za digitalno oglašavanje koje čuva privatnost.
+m24-home-keeping-genai-technologies = Održavanje sigurnosti GenAI tehnologija je zajednička odgovornost.
+m24-home-from-hollywood-to = Od Hollywooda do hip hopa, umjetnici pregovaraju o pristanku na umjetnu inteligenciju.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } slavi revolucionarne kreatore u novoj dokumentarnoj seriji “{ -brand-name-firefox } Presents.”
+m24-home-big-techs-power = Moć velike tehnologije nad jezikom znači moć nad ljudima. Bridget Todd razgovara sa liderima jezičke zajednice utirući put glasovnoj AI na njihovim jezicima i dijalektima.
+m24-home-why-does-it = Zašto se tako često osjećamo kao da smo dio masovnog AI eksperimenta? Koji je odgovoran način testiranja novih tehnologija? Bridget Todd istražuje šta znači živjeti s neprovjerenim sistemima umjetne inteligencije koji utiču na milione ljudi dok se pojavljuju u javnom životu.
+m24-home-kids-are-growing = Djeca odrastaju u veoma online svijetu. Šta da radi zabrinuti roditelj?
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } nagrade
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 
@@ -70,3 +110,11 @@ m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Pametni uređaji sa ikonom opreza.
 m24-home-explore-issues-shaping = Istražite probleme koji oblikuju budućnost interneta
+m24-home-privacy-not-included = *Privatnost nije uključena
+m24-home-search-our-reviews = Pretražujte naše recenzije da vidite koji tehnički uređaji i aplikacije krišom prikrivaju vaše podatke.
+m24-home-pni-search-now = Traži sada
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Naš višestruko nagrađivani podcast predstavlja kreatore promjena koji rade na tome da internet učine sigurnijim i AI vjerodostojnijim.
+m24-home-irl-listen-now = Poslušajte sada
