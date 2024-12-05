@@ -26,7 +26,6 @@ m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = 如果您的个人信息受到威胁请发出警告并专业地锁定。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 伪装您的邮箱和手机号码以便收到自己想要的消息。
 
