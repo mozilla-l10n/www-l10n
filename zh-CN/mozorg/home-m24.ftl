@@ -16,7 +16,6 @@ m24-home-learn-about-us = 了解我们
 
 ## Products
 
-m24-home-love-the-internet = 再次爱上互联网
 m24-home-break-free-from = 摆脱巨头技术的束缚——我们的产品让您可以掌控更安全、更私密的互联网体验。
 m24-home-explore-our-products = 探索我们的产品
 m24-home-firefox = { -brand-name-firefox }
