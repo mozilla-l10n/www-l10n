@@ -102,6 +102,12 @@ m24-home-kids-are-growing = Djeca odrastaju u veoma online svijetu. Šta da radi
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } nagrade
+m24-home-get-to-know = Upoznajte lidere koji zagovaraju pouzdan, inkluzivan i transparentan razvoj umjetne inteligencije dok postavljaju novi standard i inspirišu sljedeću generaciju inovatora.
+m24-home-watch-the-award = Pogledajte dodjelu nagrada
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ponosni dobitnik na { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Samouvjereni nasmijani govornik na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 
