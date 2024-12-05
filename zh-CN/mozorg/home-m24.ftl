@@ -72,12 +72,6 @@ m24-home-topic-ps = 隐私与安全
 ## Showcase
 
 m24-home-get-to-know = 了解提倡可信、包容、透明的 AI 开发的领导者设定新的标准并激励下一代的创新者。
-# Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = 荣幸地在 { -brand-name-rise25 } 上获奖。
-# Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = { -brand-name-rise25 } 笑盈盈的主讲人。
-# Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = { -brand-name-rise25 } 上喜气洋洋的获奖者。
 
 ## Issues
 
