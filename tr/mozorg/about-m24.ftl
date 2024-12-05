@@ -15,10 +15,13 @@ m24-about-page-desc = { -brand-name-mozilla }, insanlığı paranın üstünde t
 
 ## Manifesto
 
+m24-about-together-we-can = Birlikte internetin herkes için kolay, güvenli ve özgür kalmasını sağlayabiliriz.
 m24-about-read-our-manifesto = Manifestomuzu okuyun
 
 ## News
 
+m24-about-read-more = Devamını okuyun
+m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
 
 ## Showcase
 
