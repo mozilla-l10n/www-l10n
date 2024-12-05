@@ -53,9 +53,7 @@ m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-watch-now = 立即观看
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = 有早期阶段的初创公司向 { -brand-name-mozilla-ventures } 推介您的公司并获得资金为人工智能和互联网的未来带来积极的改变。
 m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = 捐出一段声音让语音技术更具包容性并人人可用。
 m24-home-donate-your-voice = 捐出一段声音
 
 ## Media Springboard
