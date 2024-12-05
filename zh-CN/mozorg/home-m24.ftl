@@ -24,7 +24,6 @@ m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = 伪装您的邮箱和手机号码以便收到自己想要的消息。
 
 ## Donate
 
