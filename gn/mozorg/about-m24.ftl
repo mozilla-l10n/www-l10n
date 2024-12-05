@@ -49,3 +49,6 @@ m24-about-see-open-positions = Ehecha mba’aporã nandíva
 
 ## Community
 
+m24-about-community-love-v2 = Tekohagua mborayhu, ore mongu’eha
+# Obsolete string (expires: 2025-02-03)
+m24-about-community-love = Tekohagua mborayhu —<br> ore mongu’eha
