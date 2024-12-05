@@ -19,9 +19,15 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } इंटरनेट क
 
 m24-about-together-we-can = हम सब मिलकर इंटरनेट को आसान, सुरक्षित और फ़्री बनाए रख सकते हैं — सभी के लिए।
 m24-about-read-our-manifesto = हमारा घोषणापत्र पढ़ें
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = सोचने-विचारने वाले लोगों का एक समूह फ़्लोर पर एक घेरे में बैठकर विचारों का आदान-प्रदान कर रहा है।
 m24-about-advocate = वकालत
 m24-about-we-advocate-for = हम इस बात की वकालत करते हैं कि लोगों को बेहतर प्रोडक्ट मिलें तथा सरकारों और बड़ी टेक कंपनियों की जवाबदेही उनके द्वारा निर्मित चीज़ों के प्रति सुनिश्चित हो।
+m24-about-research = शोध
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = हम महत्वपूर्ण बारीक जानकारियां हासिल करते हैं, प्रोडक्ट बेहतर बनाने के अभियान चलाते हैं तथा आपके हितों का प्रतिनिधित्व करने वाली नीतियां बनाते हैं।
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = हम विकास कार्यों पर नजर रखते हैं, रिसर्च करते हैं और प्रोडक्ट बेहतर बनाने के अभियान चलाते हैं तथा आपके हितों का प्रतिनिधित्व करने वाली नीतियां बनाते हैं।
 m24-about-build = निर्माण
 m24-about-we-build-products = हम ऐसे प्रोडक्ट बनाते हैं जिनमें कंट्रोल आपके हाथ में हो — जैसे { -brand-name-firefox }, { -brand-name-fakespot } और अन्य।
@@ -34,7 +40,11 @@ m24-about-read-more = और पढ़ें
 m24-about-read-the-latest = नवीनतम { -brand-name-mozilla } समाचार और आलेख पढ़ें
 m24-about-14-ai-projects = देखे जाने लायक 14 AI प्रोजेक्ट: { -brand-name-mozilla } के पहले बिल्डर्स एक्सेलरेटर कोहॉर्ट का आरंभ
 m24-about-at-our-rise25 = हमारे { -brand-name-rise25 } पुरस्कारों में, AI का भविष्य भरोसेमंद, समावेशी और जवाबदेह है
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 } पुरस्कार प्राप्तकर्ता अपनी ट्रॉफी की ओर इशारा करते हुए।
 m24-about-empowering-chicagos-entrepreneurs = पीढ़ीगत बदलाव के लिए शिकागो के उद्यमियों का सशक्तीकरण
+# Used as an accessible text alternative for an image
+m24-about-chicago = शिकागो स्थित एंटरप्रेन्योर।
 
 ## Showcase
 
@@ -44,13 +54,25 @@ m24-about-read-about-our = हमारी प्रतिबद्धता क
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = भरोसेमंद AI, { -brand-name-common-voice }, फ़ेडरेटेड लर्निंग।
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla } कर्मचारी बातचीत के बीच में।
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla } कर्मचारी कॉफ़ी पीते हुए।
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla } कर्मचारी परस्पर-सहयोग करते हुए।
+
 m24-about-join-us-and = हमसे जुड़ें और साथ मिलकर बदलाव लाएं
 m24-about-join-our-team = हमारी टीम में शामिल हों और संभावनाओं की सीमाओं से परे जाकर भी काम करने का लुत्फ़ लें — बिना हर उस बात से समझौता किए हुए जो महत्वपूर्ण है।
 m24-about-see-open-positions = रिक्त पद या ज़ॉब्स देखें
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = हमारी कम्युनिटी का प्रेम ही, हमारी प्रेरक शक्ति है
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = हमारी कम्युनिटी को —<br> हमारी प्रेरणाएं बहुत पसंद हैं
 m24-about-mozilla-is-a = { -brand-name-mozilla } एक वैश्विक कम्युनिटी है जिसमें जुनूनी वॉलंटियर, साथी और योगदानकर्ता शामिल हैं, जो 1998 से हमारे साथ मिलकर इंटरनेट के निर्माण, संरक्षण और उसे आकार देने में जुटे हुए हैं।
 m24-about-from-writing-code = कोड लिखने और बग ढूंढने से लेकर लोगों की निजता की पुरजोर हिमायत करने और इंटरनेट को सभी के लिए खुला रखने तक — हमारी कम्युनिटी के सदस्य हमारे द्वारा किए जा रहे हर काम की रीढ़ हैं। उनका जुनून और समर्पण हमें हर दिन प्रेरित करता है।
+# Used as an accessible text alternative for an image
+m24-about-alt-community = एक व्यक्ति जिसके पास लैपटॉप बैग है और गले में { -brand-name-mozilla } लैनयार्ड पहने है।
