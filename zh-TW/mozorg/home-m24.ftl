@@ -73,7 +73,7 @@ m24-home-watch-now = 立刻觀看
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎向 { -brand-name-mozilla-ventures } 宣傳您的公司並爭取到資金來推動 AI 與網際網路的未來發生正面變化。
+m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎？向 { -brand-name-mozilla-ventures } Pitch，並且爭取能對推動 AI 與網際網路的未來發生正面變化的投資。
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 捐出您的聲音讓語音技術更具包容性讓每個人都可使用。
 m24-home-donate-your-voice = 捐出您的聲音
@@ -93,11 +93,11 @@ m24-home-topic-ps = 隱私權與安全性
 m24-home-headline-you-ai = 標題：你、AI 與網際網路 — 到底發生什麼事？
 m24-home-introducing-anonym = 隆重推出 { -brand-name-anonym }：提升數位廣告產業的隱私保護標準。
 m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們的共同責任。
-m24-home-from-hollywood-to = 從荷里活到街哈音樂藝術家都在就是否要使用 AI 進行協商。
+m24-home-from-hollywood-to = 從好萊塢到嘻哈、藝術家們都在討論是否要使用 AI。
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 會透過全新系列紀實「{ -brand-name-firefox } 呈獻」來慶祝取得傑出成就的創作者。
 m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。 Brickett Todd 與語言社群負責人討論如何使用他們自己的語言與方言來開發 AI 語音。
 m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗中測試新技術的負責人的方式是什麼布里奇特 托德探索如何讓未經驗證的 AI 系統一推出就影響數以百萬計的人們的公共生活。
-m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長。有擔心的家長該怎麼辦
+m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長，擔心的家長該怎麼辦？
 
 ## Showcase
 
