@@ -24,6 +24,7 @@ m24-home-love-the-internet = Älska internet igen
 m24-home-break-free-from = Bryt dig fri från de stora teknikföretagen — våra produkter ger dig kontroll över en säkrare, mer privat internetupplevelse.
 m24-home-explore-our-products = Utforska våra produkter
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Få guldstandarden för surfning med snabbhet, integritet och kontroll.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Förenkla ditt liv med en app för alla dina e-postmeddelanden, kalendrar och kontakter.
 m24-home-fakespot = { -brand-name-fakespot }
@@ -31,6 +32,7 @@ m24-home-spot-fake-reviews = Upptäck falska recensioner, dåliga produkter och 
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Spara internets bästa innehåll på vilken enhet som helst — för vem har tid att läsa allt nu?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Håll din plats och onlineäventyr privat — streama lokalt, var som helst.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Få ett förvarning om din personliga information är i fara och lås ner den som ett proffs.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -116,6 +118,7 @@ m24-home-alt-rise25-joyous = En glad pristagare på { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Smarta enheter med försiktighetsikon.
 m24-home-explore-issues-shaping = Utforska frågor som formar framtiden för Internet
+m24-home-privacy-not-included = *Privacy Not Included
 m24-home-search-our-reviews = Sök i våra recensioner för att se vilka tekniska prylar och appar som smyger med din data.
 m24-home-pni-search-now = Sök nu
 # Used as an accessible text alternative for an image
