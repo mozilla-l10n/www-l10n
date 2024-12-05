@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Pravno
 footer-refresh-community-participation-guidelines = Smjernice za učešće u zajednici
 footer-refresh-about-this-site = O ovoj stranici
 footer-refresh-language = Jezik
+footer-refresh-primary-nav-aria-label = Osnovno podnožje
+footer-refresh-secondary-nav-aria-label = Sekundarno podnožje
