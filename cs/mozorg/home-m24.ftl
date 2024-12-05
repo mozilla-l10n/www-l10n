@@ -111,18 +111,18 @@ m24-home-alt-rise25-proud = Hrdý vítěz { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Sebevědomý usměvavý řečník na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = Radostní lidé na { -brand-name-rise25(case: "loc") }.
+m24-home-alt-rise25-joyous = Radostní lidé na { -brand-name-rise25 }.
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Chytrá zařízení s ikonou upozornění.
-m24-home-explore-issues-shaping = Prozkoumejte problémy, které utvářejí budoucnost internetu
+m24-home-explore-issues-shaping = Prozkoumejte otázky, které ovlivňují budoucnost internetu
 m24-home-privacy-not-included = *Soukromí není zahrnuto
-m24-home-search-our-reviews = Vyhledejte v našich recenzích a zjistěte, které technické vymoženosti a aplikace pokradmu ubírají vaše data.
+m24-home-search-our-reviews = Prohledejte naše recenze a zjistěte, které technologické vychytávky a aplikace skrytě odcizují vaše data.
 m24-home-pni-search-now = Hledat
 # Used as an accessible text alternative for an image
-m24-home-alt-irl-host = Bridget Todd, hostitel IRL Podcast.
+m24-home-alt-irl-host = Bridget Todd, host IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = Náš mnoha cenami ověnčený podcast představuje tvůrce změn, kteří dělají internet bezpečnější a umělou inteligenci.
-m24-home-irl-listen-now = Poslouchejte
+m24-home-our-multiaward-winning = Náš několikrát oceněný podcast představuje tvůrce změn, kteří se snaží o bezpečnější internet a důvěryhodnější umělou inteligenci.
+m24-home-irl-listen-now = Poslouchat nyní
