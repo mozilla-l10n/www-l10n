@@ -53,3 +53,4 @@ m24-home-watch-the-award = Ema’ẽmi jopói ñeme’ẽre
 
 m24-home-pni-search-now = Eheka ko’ág̃a
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Ehendu ko’ág̃a

@@ -21,5 +21,7 @@ ui-show-all = Ehechaukapaite
 ui-hide-all = Emoñemipaite
 ui-learn-more = Eikuaave
 ui-view = Hecha
+ui-pause-animation = Mokyre’ỹ ñemombyta
+ui-play-animation = Mokyre’ỹ ñemongu’e
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Moakãrapu’ã
