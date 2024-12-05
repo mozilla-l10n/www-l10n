@@ -7,7 +7,6 @@
 
 # HTML Page title
 m24-home-page-title = 不为营利、造福人民的互联网 — { -brand-name-mozilla }
-m24-home-page-title-v2 = { -brand-name-mozilla } — 造福人民不谋利的互联网
 # HTML page description
 m24-home-page-desc = 你知道吗？打造了 { -brand-name-firefox } 的 { -brand-name-mozilla } 不断为保护互联网的全球公共资源地位、捍卫互联网的开放且人人可用奋斗着。
 m24-home-page-desc-v2 = 我们正在努力让互联网的掌控者重新掌握在互联网用户的手中。

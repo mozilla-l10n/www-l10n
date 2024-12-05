@@ -64,10 +64,7 @@ m24-about-see-open-positions = 查看空缺职位
 
 ## Community
 
-m24-about-community-love-v2 = 爱是我们的动力
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = 社区的爱——<br>我们的原动力
 m24-about-mozilla-is-a = { -brand-name-mozilla } 是一个全球社区，由满怀热忱的志愿者、贡献者与志同道合之士汇聚而成。自 1998 年以来，我们始终携手建设、保护、塑造互联网。
 m24-about-from-writing-code = 从编写代码、查找缺陷，到倡导隐私、保持互联网对所有人开放，社区成员始终是我们一切工作的中坚力量。他们的热情与奉献精神时刻激励着我们前行。
-# Used as an accessible text alternative for an image
-m24-about-alt-community = 他背着电脑包、系着 { -brand-name-mozilla } 挂带。
