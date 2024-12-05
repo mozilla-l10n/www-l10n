@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } 产品
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧
 firefox-products-products = 产品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } 只是标配。
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } 只是标配
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧。
 
 ## Firefox
@@ -34,7 +32,7 @@ firefox-products-check-for-breaches = 检查是否有外泄事件
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = 保护你的真实邮箱地址，拒绝垃圾邮件侵扰邮箱。
+firefox-products-protect-your-real = 保护您的真实邮箱地址，拒绝垃圾邮件侵扰邮箱。
 firefox-products-get-relay = 获取 { -brand-name-firefox-relay }
 
 ## VPN
@@ -52,7 +50,7 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
-firefox-products-access-all = 在这款疾如惊雷的应用中，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
+firefox-products-access-all = 用这款疾如惊雷的应用，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
 firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 
 ## Fakespot
@@ -67,6 +65,4 @@ firefox-products-analyze = 分析网址
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = 发现网络中最佳的内容，随时随地为自己“充电”。由 { -brand-name-mozilla } 倾力打造。
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = 发现网络中最佳的内容——随时随地为自己“充电”。
 firefox-products-get-pocket = 获取 { -brand-name-pocket }
