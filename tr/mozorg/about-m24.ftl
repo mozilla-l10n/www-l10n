@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla }, insanlığı paranın üstünde t
 
 ## Intro
 
+m24-about-reclaim-the-internet = İnternete hep beraber sahip çıkalım
 
 ## Manifesto
 

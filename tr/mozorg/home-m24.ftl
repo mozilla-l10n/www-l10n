@@ -41,6 +41,8 @@ m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin
 ## Donate
 
 m24-home-donate-to-the = Kâr amacı gütmeyen { -brand-name-mozilla }’ya bağış yapın
+m24-home-mozilla-is-building = { -brand-name-mozilla } internete sahip çıkacak bir hareket inşa ediyor. Gizliliğimizin korunduğu, yapay zekânın güvenilir olduğu ve sorumsuz teknoloji şirketlerinin hesap verdiği bir gelecek inşa edebiliriz. Ama bu sadece birlikte çalışırsak mümkün.
+m24-home-were-proudly-nonprofit = Kâr amacı gütmüyoruz ve bununla gurur duyuyoruz. { -brand-name-mozilla }’ya bağış yaparak bize destek olur musunuz?
 m24-home-donate = Bağış yapın
 
 ## AI gallery
@@ -48,9 +50,16 @@ m24-home-donate = Bağış yapın
 m24-home-tag-product = Ürün
 m24-home-tag-program = Program
 m24-home-tag-event = Etkinlik
+m24-home-read-more = Devamını okuyun
+m24-home-get-started = Kullanmaya başlayın
+m24-home-join-the-movement = Harekete katılın:<br> İnsanlık için yapay zekâ
+m24-home-our-mission-is = Misyonumuz, açık kaynaklı ve güvenilir yapay zekâyla yeni şeyler inşa etmeyi ve yapay zekâ üzerinde birlikte çalışmayı kolaylaştıran bir ortam yaratmak.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } logosu.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = { -brand-name-llamafile } ile büyük dilli modellerini (LLM) bilgisayarınızda kolayca çalıştırın. Kurulum gerektirmez ve verileriniz cihazınızda güvenle saklanır.
+m24-home-alt-builders = Builders
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 
 ## Media Springboard
 
