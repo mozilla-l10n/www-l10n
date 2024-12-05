@@ -12,9 +12,11 @@ m24-about-page-desc = { -brand-name-mozilla } omoheñói kundaha, tembiporu’i,
 
 ## Intro
 
+m24-about-reclaim-the-internet = Ejerure ñanduti orendive
 
 ## Manifesto
 
+m24-about-read-our-manifesto = Emoñe’ẽ Mozilla he’ipyre
 
 ## News
 
