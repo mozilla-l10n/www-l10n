@@ -27,7 +27,6 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
-m24-home-mozilla-is-building = { -brand-name-mozilla } 正在发起一场运动以夺回互联网。我们可以共同建设一个隐私受到保护、人工智能值得信赖、不负责任的科技公司将被追究责任的未来。但这只有在我们齐心协力时才有可能。
 m24-home-donate = 捐款
 
 ## AI gallery
@@ -38,7 +37,6 @@ m24-home-get-started = 开始使用
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 徽标。
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-builders-helps-independent = Builders 帮助独立开发者通过定制的协作、编程和社区创建具有革命性的开源 AI 项目。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
