@@ -39,6 +39,7 @@ m24-home-tag-program = tembiaporape
 m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
+m24-home-watch-now = Ema’ẽ ko’ág̃a
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Eme’ẽmína nde ayvu
