@@ -51,6 +51,10 @@ m24-home-watch-the-award = Ema’ẽmi jopói ñeme’ẽre
 
 ## Issues
 
+m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
+m24-home-privacy-not-included = *Tekoñemi ndoikéiva
 m24-home-pni-search-now = Eheka ko’ág̃a
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ehendu ko’ág̃a

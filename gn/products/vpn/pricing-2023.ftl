@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Emboguejy hag̃ua tembiporu’i, e
 vpn-pricing-sign-up-on-your-mobile-device = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive ne pumbyry popeguápe
 vpn-pricing-sign-up-on-your-android-device = Eñemboheraguapy { -brand-name-mozilla-vpn } ndive ne pumbyry Android popeguápe
 vpn-pricing-download-the-app = Emboguejy tembiporu’i
+vpn-pricing-transaction-may-be-in = * Pe jehepyme’ẽ ojejapokuaa viru tendaguávape.
