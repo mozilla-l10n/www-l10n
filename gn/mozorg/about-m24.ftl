@@ -31,9 +31,21 @@ m24-about-chicago = Peteĩ moheñoihára oĩva Chicago-pe.
 
 ## Showcase
 
+m24-about-lets-build-a = Jajapo tenondeve jojaverã
+m24-about-read-about-our = Emoñe’ẽ ore ñe’ẽme’ẽ rehegua
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = IA jeroviaha, { -brand-name-common-voice }, kuaapy ñembyatypyre.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla } mba’apohára ñomongeta pa’ũme.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla } mba’apohára ho’úvo kafe.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla } mba’apohára ñopytyvõme.
+m24-about-join-us-and = Eike orendive ha ehechauka ambue mba’e
+m24-about-see-open-positions = Ehecha mba’aporã nandíva
 
 ## Community
 
