@@ -62,3 +62,4 @@ m24-home-pni-search-now = Nětko pytać
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Słuchajće nětko
