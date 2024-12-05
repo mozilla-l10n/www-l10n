@@ -40,3 +40,5 @@ footer-refresh-websites-legal = कानूनी
 footer-refresh-community-participation-guidelines = सामुदायिक भागीदारी दिशानिर्देश
 footer-refresh-about-this-site = इस साइट के बारे में
 footer-refresh-language = भाषा
+footer-refresh-primary-nav-aria-label = फ़ुटर पहला
+footer-refresh-secondary-nav-aria-label = फ़ुटर दूसरा
