@@ -17,9 +17,17 @@ m24-about-reclaim-the-internet = Ejerure ñanduti orendive
 ## Manifesto
 
 m24-about-read-our-manifesto = Emoñe’ẽ Mozilla he’ipyre
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Peteĩ oñepy’amongetáva aty oguapýva jerépe oguenohẽva hemiandu.
+m24-about-advocate = Pysyrõhára
+m24-about-research = Jehapereka
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitor
 
 ## News
 
+# Used as an accessible text alternative for an image
+m24-about-chicago = Peteĩ moheñoihára oĩva Chicago-pe.
 
 ## Showcase
 
