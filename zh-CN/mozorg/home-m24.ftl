@@ -60,7 +60,7 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = 使用 { -brand-name-llamafile }，轻松在计算机上运行大型语言模型（LLM），而无需安装。数据会安全保留在您的设备上。
 m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
-m24-home-builders-helps-independent = Builders 通过定制的协作方式、方案、社区，帮助独立开发者创建革命性的开源 AI 项目。
+m24-home-builders-helps-independent = Builders 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
@@ -90,6 +90,7 @@ m24-home-tag-video = 视频
 m24-home-topic-news = 新闻
 m24-home-topic-ai = 人工智能
 m24-home-topic-ps = 隐私与安全
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = 聚焦眼前事：关于您、AI 与互联网
 m24-home-introducing-anonym = { -brand-name-anonym } 入局，将隐私保护下数字广告的标准带到新层次。
 m24-home-keeping-genai-technologies = 确保生成式 AI 技术安全，是我们共同的责任。
