@@ -9,19 +9,19 @@
 m24-home-page-title = Internet pro lidi, ne pro peníze — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet pro lidi, ne pro peníze
 # HTML page description
-m24-home-page-desc = Věděli jste, že { -brand-name-mozilla } – tvůrce { -brand-name-firefox(case: "gen") } – bojuje za to, aby Internet zůstal veřejným zdrojem, který je dostupný pro všechny?
+m24-home-page-desc = Věděli jste, že { -brand-name-mozilla } — tvůrce { -brand-name-firefox(case: "gen") } — bojuje za to, aby Internet zůstal veřejným zdrojem, který je dostupný pro všechny?
 m24-home-page-desc-v2 = Snažíme se dát kontrolu nad internetem zpět do rukou lidí, kteří ho používají.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Vítá vás { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = Od důvěryhodných technologií po zásady, které chrání vaše digitální práva, jste vždy na prvním místě.
+m24-home-from-trustworthy-tech = Od důvěryhodných technologií až po zásady, které hájí vaše digitální práva, jste u nás vždy na prvním místě.
 m24-home-learn-about-us = Více informací o nás
 
 ## Products
 
 m24-home-love-the-internet = Znovu si zamilujte internet
-m24-home-break-free-from = Osvoboďte se od velkých technologií – naše produkty vám dávají kontrolu nad bezpečnějším a soukromějším internetem.
+m24-home-break-free-from = Osvoboďte se od velkých technologií — naše produkty vám umožní mít pod kontrolou bezpečnější a soukromější internet.
 m24-home-explore-our-products = Prozkoumejte naše produkty
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Získejte zlatý standard pro rychlost, soukromí a kontrolu.
@@ -30,7 +30,7 @@ m24-home-go-chaosfree-with = Zjednodušte si život pomocí jedné aplikace pro 
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Poznejte falešné recenze, špatné produkty a nedůvěryhodné prodejce.
 m24-home-pocket = { -brand-name-pocket }
-m24-home-save-the-internets = Uložte si nejlepší obsah z internetu na jakékoliv zařízení – protože kdo má teď čas si to všechno číst?
+m24-home-save-the-internets = Uložte si nejlepší obsah z internetu na jakékoliv zařízení — protože kdo má teď čas si to všechno číst?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Udržujte svou polohu a online zážitky v tajnosti — streamujte kdekoliv jako místní.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
@@ -40,8 +40,8 @@ m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste 
 
 ## Donate
 
-m24-home-donate-to-the = Přispějete pro neziskovou organizaci { -brand-name-mozilla }
-m24-home-mozilla-is-building = { -brand-name-mozilla } buduje hnutí za znovuzískání internetu. Společně můžeme budovat budoucnost, kde je naše soukromí chráněno, AI spolehlivá a kde nezodpovědné technologické společnosti nesou odpovědnost. Ale to je možné pouze tehdy, když to děláme společně.
+m24-home-donate-to-the = Přispějete na neziskovou organizaci { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } vytváří hnutí za znovuzískání internetu. Společně můžeme vybudovat budoucnost, ve které bude naše soukromí chráněno, umělá inteligence bude důvěryhodná a nezodpovědné technologické společnosti budou pohnány k odpovědnosti. Ale to je možné jen tehdy, když to uděláme společně.
 m24-home-were-proudly-nonprofit = Jsme hrdí na to, že jsme neziskoví. Přispějete dnes { -brand-name-mozilla(case: "dat") }?
 m24-home-donate = Přispějte
 
@@ -53,7 +53,7 @@ m24-home-tag-event = Událost
 m24-home-read-more = Přečtěte si více
 m24-home-get-started = Začít
 m24-home-join-the-movement = Připojte se k hnutí<br> AI pro lidi
-m24-home-our-mission-is = Naší misí je umožnit lidem snadno vytvářet a spolupracovat na otevřené a spolehlivé umělé inteligenci.
+m24-home-our-mission-is = Naším posláním je usnadnit lidem tvorbu a spolupráci na důvěryhodné umělé inteligenci s otevřeným zdrojovým kódem.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }

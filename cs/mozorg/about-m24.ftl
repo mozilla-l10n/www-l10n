@@ -68,10 +68,10 @@ m24-about-see-open-positions = Podívejte se na otevřené pozice
 
 ## Community
 
-m24-about-community-love-v2 = Komunitní láska, naše hnací síla
+m24-about-community-love-v2 = Láska ke komunitě, naše hnací síla
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Láska ke komunitě —<br> naše hnací síla
 m24-about-mozilla-is-a = { -brand-name-mozilla } je celosvětová komunita zapálených dobrovolníků, kolegů a přispěvatelů, kteří s námi od roku 1998 budují, chrání a utvářejí internet.
-m24-about-from-writing-code = Od psaní kódu a odhalování chyb až po prosazování soukromí a udržování internetu otevřeného pro každého – členové naší komunity jsou páteří všeho, co děláme. Jejich vášeň a nasazení nás inspirují každý den.
+m24-about-from-writing-code = Od psaní kódu a odhalování chyb až po prosazování soukromí a udržování internetu otevřeného pro každého — členové naší komunity jsou páteří všeho, co děláme. Jejich vášeň a nasazení nás inspirují každý den.
 # Used as an accessible text alternative for an image
-m24-about-alt-community = Osoba s taškou na notebook a { -brand-name-mozilla(case: "ins") } na laně.
+m24-about-alt-community = Osoba s brašnou na notebook a šňůrkou { -brand-name-mozilla } na krku.
