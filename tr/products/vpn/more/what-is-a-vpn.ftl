@@ -11,6 +11,7 @@ vpn-what-is-what-is-a-vpn = VPN nedir?
 vpn-what-is-get-answers-to-nine = VPN'lerle ilgili en çok sorulan dokuz sorunun yanıtını alın; ne işe yaradıklarını, ne zaman ve neden kullanıldıklarını öğrenin.
 vpn-what-is-how-do-vpns = VPN’ler nasıl çalışır?
 vpn-what-is-concealing-your-ip = IP adresinizi gizleyerek kimliğinizi ve konumunuzu korur.
+vpn-what-is-encrypting-your-traffic = VPN sağlayıcınızla aranızdaki trafiği şifreler. Böylece yerel ağınızdaki hiç kimse ağ trafiğinizi çözemez ve değiştiremez.
 vpn-what-is-when-should-i = Ne zaman VPN kullanmalıyım?
 vpn-what-is-wait-i-thought = HTTPS kullandığım zaman internet trafiğim zaten şifrelenmiyor mu?
 vpn-what-is-why-would-i = Neden VPN kullanmalıyım?
