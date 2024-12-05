@@ -164,7 +164,9 @@
 -brand-name-mozilla-account = Mozilla-fiók
 -brand-name-mozilla-accounts = Mozilla-fiókok
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
