@@ -19,8 +19,15 @@ navigation-refresh-innovation-projects-v2 = Innovationsprojekte
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Unsere Mission
 navigation-refresh-our-work = Unsere Arbeit
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } KI
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } Werbung

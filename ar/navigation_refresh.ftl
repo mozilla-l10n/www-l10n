@@ -19,8 +19,15 @@ navigation-refresh-innovation-projects-v2 = مشاريع الابتكار
 navigation-refresh-blog = المدوّنة
 navigation-refresh-our-mission = مهمّتنا
 navigation-refresh-our-work = عملُنا
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } الذكاء الاصطناعي
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+
+
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } المشاريع
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } للإعلانات
