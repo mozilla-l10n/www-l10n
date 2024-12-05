@@ -57,7 +57,7 @@ m24-home-our-mission-is = Naším posláním je usnadnit lidem tvorbu a spolupr�
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Pomocí { -brand-name-llamafile } na svém počítači snadno spustíte velké jazykové moduly (LLM) - není potřeba instalace a vaše data zůstávají na vašem zařízení v bezpečí.
+m24-home-run-large-language = Snadné spouštění velkých jazykových modelů (LLM) na počítači pomocí { -brand-name-llamafile } — není nutná žádná instalace a vaše data zůstanou v bezpečí vašeho zařízení.
 m24-home-alt-builders = Tvůrci
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-builders-helps-independent = Builders pomáhá nezávislým vývojářům vytvářet transformační open-source projekty s umělou inteligencí pomocí zakázkové spolupráce, programování a komunity.
@@ -68,7 +68,7 @@ m24-home-find-the-just = Najděte to správné LLM pro vaše potřeby, případ 
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla(case: "gen") }.
 m24-home-can-ai-be = Může být AI důvěryhodná?
-m24-home-in-a-world = Ve světě, kde jsou inovace AI taženy několika vyvolenými, riskujeme monopolizaci této technologie. Aplikace konceptů open-source na umělou inteligenci to může změnit.
+m24-home-in-a-world = Ve světě, kde inovace v oblasti umělé inteligence řídí několik vyvolených, riskujeme monopolizaci této technologie. Použití konceptů open-source v oblasti AI by to mohlo změnit.
 m24-home-watch-now = Sledujte nyní
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Reproduktor na jevišti s více logy produktů.
