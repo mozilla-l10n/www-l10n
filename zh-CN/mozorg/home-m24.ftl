@@ -47,8 +47,6 @@ m24-home-our-mission-is = 我们的使命是让人们能够轻松地构建并协
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 徽标。
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-alt-builders = 构建器
-m24-home-mozilla-builders = { -brand-name-mozilla } 构建器
 m24-home-builders-helps-independent = Builders 帮助独立开发者通过定制的协作、编程和社区创建具有革命性的开源 AI 项目。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
