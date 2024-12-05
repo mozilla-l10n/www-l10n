@@ -26,7 +26,7 @@ m24-home-explore-our-products = 探索我們的產品
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = 獲得黃金標準的上網速度、隱私與控制權。
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-go-chaosfree-with = 集中精力來管理您的所有電子郵件、行事歷、聯絡人資料。
+m24-home-go-chaosfree-with = 使用單一程式收發郵件、管理行事曆與聯絡人，簡化您的生活。
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = 揪出假評論、不良產品和不可信的賣家。
 m24-home-pocket = { -brand-name-pocket }
@@ -64,7 +64,7 @@ m24-home-builders-helps-independent = Builders 透過量身定做的合作、程
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 圖示。
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = 尋找符合您的需求、使用案例與資料的 LLM。
+m24-home-find-the-just = 尋找符合您需求、使用情境與資料的 LLM。
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = { -brand-name-mozilla } 總裁 Mark Surman。
 m24-home-can-ai-be = AI 真的可信任嗎？
