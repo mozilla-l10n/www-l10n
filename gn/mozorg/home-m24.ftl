@@ -30,15 +30,26 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate = Me’ẽ
 
 ## AI gallery
 
+m24-home-tag-product = Apopyre
+m24-home-tag-program = tembiaporape
+m24-home-tag-event = Tembiaporã
+m24-home-read-more = Emoñe’ẽve
+m24-home-get-started = Eñepyrũ
 
 ## Media Springboard
 
+m24-home-topic-ps = Ñemigua ha Tekorosã
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } Jopói
+m24-home-watch-the-award = Ema’ẽmi jopói ñeme’ẽre
 
 ## Issues
 
+m24-home-pni-search-now = Eheka ko’ág̃a
+m24-home-irl-podcast = { -brand-name-irl-podcast }
