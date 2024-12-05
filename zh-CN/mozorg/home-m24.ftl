@@ -27,16 +27,12 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
-m24-home-donate-to-the = 捐款给 { -brand-name-mozilla } 非营利组织
 m24-home-mozilla-is-building = { -brand-name-mozilla } 正在发起一场运动以夺回互联网。我们可以共同建设一个隐私受到保护、人工智能值得信赖、不负责任的科技公司将被追究责任的未来。但这只有在我们齐心协力时才有可能。
-m24-home-were-proudly-nonprofit = 我们以非营利为荣。您愿意今天捐款给 { -brand-name-mozilla } 吗
 m24-home-donate = 捐款
 
 ## AI gallery
 
 m24-home-tag-product = 产品
-m24-home-tag-program = 程序
-m24-home-tag-event = 事件
 m24-home-read-more = 详细了解
 m24-home-get-started = 开始使用
 m24-home-our-mission-is = 我们的使命是让人们能够轻松地构建并协作开源、可信赖的 AI。
