@@ -96,20 +96,20 @@ m24-home-headline-you-ai-v2 = Vy, umělá inteligence a internet – co se ve sk
 m24-home-introducing-anonym = Představujeme { -brand-name-anonym }: zvedá laťku pro digitální reklamy chránící soukromí.
 m24-home-keeping-genai-technologies = Udržování technologií GenAI v bezpečí je společnou odpovědností.
 m24-home-from-hollywood-to = Umělci vyjednávají o souhlasu umělé inteligence, od Hollywoodu po hip hop.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } oslavuje průkopnické tvůrce v nové sérii dokumentů „{ -brand-name-firefox } Presents“.
-m24-home-big-techs-power = Moc technologií nad jazykem znamená moc nad lidmi. Bridget Todd mluví s předními představiteli jazykové komunity, kteří dláždí cestu pro hlasovou umělou inteligenci v jejich vlastních jazycích a dialektech.
-m24-home-why-does-it = Proč máme tak často pocit, že jsme součástí masového experimentu s umělou inteligencí? Jaký je odpovědný způsob testování nových technologií? Bridget Todd zkoumá, co to znamená žít s neověřenými systémy umělé inteligence, které při zavádění nového systému umělé inteligence ovlivňují miliony lidí.
-m24-home-kids-are-growing = Děti vyrůstají ve velmi online světě. Co má dělat starostlivý rodič?
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } oslavuje průkopnické tvůrce v nové sérii dokumentů “{ -brand-name-firefox } Presents”.
+m24-home-big-techs-power = Moc velkých technologií nad jazykem znamená moc nad lidmi. Bridget Toddová hovoří s vůdci jazykových komunit, kteří připravují půdu pro hlasovou umělou inteligenci ve svých jazycích a dialektech.
+m24-home-why-does-it = Proč máme často pocit, že jsme součástí masového experimentu s umělou inteligencí? Jaký je zodpovědný způsob testování nových technologií? Bridget Toddová zkoumá, co to znamená žít s nevyzkoušenými systémy umělé inteligence, které mají dopad na miliony lidí, když se zavádějí ve veřejném životě.
+m24-home-kids-are-growing = Děti vyrůstají ve velmi online světě. Co má dělat znepokojený rodič?
 
 ## Showcase
 
 m24-home-rise25-awards = Ocenění { -brand-name-rise25 }
-m24-home-get-to-know = Poznejte lídry, kteří bojují za důvěryhodný, inkluzivní a transparentní vývoj AI, protože nastavují nový standard a inspirují další generaci inovátorů.
+m24-home-get-to-know = Seznamte se s lídry, kteří se zasazují o důvěryhodný, inkluzivní a transparentní vývoj umělé inteligence, protože stanovují nové standardy a inspirují další generaci inovátorů.
 m24-home-watch-the-award = Podívejte se na předávání cen
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = Hrdý vítěz na { -brand-name-rise25(case: "loc") }.
+m24-home-alt-rise25-proud = Hrdý vítěz { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = Sebevědomý usměvavý řečník v { -brand-name-rise25(case: "loc") }.
+m24-home-alt-rise25-smiling = Sebevědomý usměvavý řečník na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radostní lidé na { -brand-name-rise25(case: "loc") }.
 
