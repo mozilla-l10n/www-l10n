@@ -105,11 +105,11 @@ m24-home-rise25-awards = { -brand-name-rise25 } Awards
 m24-home-get-to-know = Get to know the leaders championing trustworthy, inclusive and transparent AI development as they set a new standard and inspire the next generation of innovators.
 m24-home-watch-the-award = Watch the award show
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = A proud honoree at { -brand-name-rise25 }.
+m24-home-alt-rise25-proud = A proud honouree at { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = A confident smiling speaker at { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = A joyous honoree at { -brand-name-rise25 }.
+m24-home-alt-rise25-joyous = A joyous honouree at { -brand-name-rise25 }.
 
 ## Issues
 
