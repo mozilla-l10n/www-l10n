@@ -57,11 +57,11 @@ m24-about-read-about-our = 了解我们的承诺
 # Used as an accessible text alternative for an image
 m24-about-alt-trustworthy = 可信 AI，{ -brand-name-common-voice }，联邦学习。
 # Used as an accessible text alternative for an image
-m24-about-alt-conversation = { -brand-name-mozilla } 员工正在交谈。
+m24-about-alt-conversation = { -brand-name-mozilla } 员工在交谈。
 # Used as an accessible text alternative for an image
-m24-about-alt-drinking-coffee = 喝咖啡的 { -brand-name-mozilla } 员工。
+m24-about-alt-drinking-coffee = { -brand-name-mozilla } 员工在喝咖啡。
 # Used as an accessible text alternative for an image
-m24-about-alt-collaborating = 相互协作的 { -brand-name-mozilla } 员工。
+m24-about-alt-collaborating = { -brand-name-mozilla } 员工在协作。
 m24-about-join-us-and = 加入我们，成就不凡
 m24-about-join-our-team = 加入我们的团队，变不可能为可能，并坚守重大原则。
 m24-about-see-open-positions = 查看空缺职位
