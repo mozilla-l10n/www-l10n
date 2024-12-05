@@ -13,6 +13,7 @@ m24-about-page-desc = { -brand-name-mozilla } 将众人的利益摆在第一位�
 ## Intro
 
 m24-about-reclaim-the-internet = 与我们一起，夺回对互联网的话语权
+m24-about-mozilla-is-working = { -brand-name-mozilla } 正致力于让网民重掌互联网。
 
 ## Manifesto
 

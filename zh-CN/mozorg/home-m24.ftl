@@ -10,6 +10,7 @@ m24-home-page-title = 不为营利、造福人民的互联网 — { -brand-name-
 m24-home-page-title-v2 = { -brand-name-mozilla } — 不为营利、造福人民的互联网
 # HTML page description
 m24-home-page-desc = 你知道吗？打造了 { -brand-name-firefox } 的 { -brand-name-mozilla } 不断为保护互联网的全球公共资源地位、捍卫互联网的开放且人人可用奋斗着。
+m24-home-page-desc-v2 = 我们正致力于让网民重掌互联网。
 
 ## Intro
 
@@ -93,13 +94,14 @@ m24-home-headline-you-ai = 聚焦眼前事：关于您、AI 与互联网
 m24-home-introducing-anonym = { -brand-name-anonym } 入局，将隐私保护下数字广告的标准带到新层次。
 m24-home-keeping-genai-technologies = 确保生成式 AI 技术安全，是我们共同的责任。
 m24-home-from-hollywood-to = 从好莱坞到嘻哈界，各界艺人正协商 AI 授权问题。
+m24-home-big-techs-power = 科技巨头能掌控语言，也就能影响使用语言的人。Bridget Todd 呼吁语言社区领导者为 AI 与其语言和方言的结合铺平道路。
 m24-home-why-does-it = 为何我们常感觉身处大型的 AI 实验中？如何以负责任的方式测试新技术？未经验证的 AI 系统正渗透到公众生活的方方面面，影响亿万人口，听 Bridget Todd 探究其影响。
 m24-home-kids-are-growing = 如今的孩子成长于网络发达的世界，对此感到忧心的家长要怎么做？
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } 奖
-m24-home-get-to-know = 了解提倡可信、包容、透明的 AI 开发的领导者设定新的标准并激励下一代的创新者。
+m24-home-get-to-know = 了解推动可信、包容、透明 AI 发展的领导者，他们正树立新的行业标准，并激励着下一代创新者。
 m24-home-watch-the-award = 观看颁奖典礼
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = 一位得意的 { -brand-name-rise25 } 获奖者
@@ -119,3 +121,5 @@ m24-home-pni-search-now = 立即搜索
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL 播客主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = 收听我们这档屡获殊荣的播客节目，认识致力于让互联网更安全、让 AI 更可信的变革者。
+m24-home-irl-listen-now = 立即收听
