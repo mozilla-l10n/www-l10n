@@ -71,7 +71,7 @@ m24-home-can-ai-be = AI 真的可信任嗎？
 m24-home-in-a-world = 在這個 AI 創新由少數人驅動的世界我們正冒著被技術壟斷的風險。將開放原始碼的概念應用到 AI 當中可能會改變這種狀況。
 m24-home-watch-now = 立刻觀看
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = 已放到台上以及顯示有多個產品圖示的喇叭。
+m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎向 { -brand-name-mozilla-ventures } 宣傳您的公司並爭取到資金來推動 AI 與網際網路的未來發生正面變化。
 m24-home-common-voice = { -brand-name-common-voice }
