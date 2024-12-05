@@ -39,18 +39,37 @@ m24-home-tag-program = tembiaporape
 m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Eme’ẽmína nde ayvu
 
 ## Media Springboard
 
+m24-home-type = Peteĩchagua
+m24-home-author = Apohára
+m24-home-topic = Téma
+m24-home-intro = Ñepyrũgua
+m24-home-tag-article = Jehaipyre
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Ta’ãngamýi
+m24-home-topic-news = Marandu
 m24-home-topic-ps = Ñemigua ha Tekorosã
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } Jopói
 m24-home-watch-the-award = Ema’ẽmi jopói ñeme’ẽre
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ovy’áva mbojopoipyre { -brand-name-rise25 }-pe.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Peteĩ ñe’ẽkuaahára ijero ha opukavýva { -brand-name-rise25 }-pe.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Ijuruvýva mbojopoipyre { -brand-name-rise25 }-pe.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Mba’e’oka ha’evéva kyhyjerã ra’ãnga’i ndive.
 m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
 m24-home-privacy-not-included = *Tekoñemi ndoikéiva
 m24-home-pni-search-now = Eheka ko’ág̃a
