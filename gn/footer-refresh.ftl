@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Añetegua
 footer-refresh-community-participation-guidelines = Mba’éichapa eikekuaa tekohápe
 footer-refresh-about-this-site = Ko tenda rehegua
 footer-refresh-language = Ñe’ẽ
+footer-refresh-primary-nav-aria-label = Kuatiarogue guygua tuichavéva
+footer-refresh-secondary-nav-aria-label = Kuatiarogue guygua mokõiháva
