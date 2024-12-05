@@ -26,9 +26,9 @@ m24-about-we-advocate-for = A jobb termékeket támogatjuk, számon kérve a kor
 m24-about-research = Kutatás
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
-m24-about-we-uncover-insights = Bepillantásokat tárunk, kampányolunk a termékek fejlesztéséért és olyan irányelvekért, amelyek az Ön érdekeit képviselik.
+m24-about-we-uncover-insights = Meglátásokat tárunk fel, és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
 # Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Figyelemmel kísérjük a fejlesztéseket, kutatásokat végzünk és kampányolunk a termékek fejlesztéséért, és az olyan irányelvek megismertetéséért, amelyek az Ön érdekeit képviselik.
+m24-about-we-monitor-developments = Figyelemmel kísérjük a fejlesztéseket, kutatásokat végzünk és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
 m24-about-build = Fejlesztés
 m24-about-we-build-products = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – mint a { -brand-name-firefox }, a { -brand-name-fakespot } és így tovább.
 m24-about-fund = Finanszírozás
@@ -37,18 +37,18 @@ m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, 
 ## News
 
 m24-about-read-more = Bővebben
-m24-about-read-the-latest = Olvassa el a legfrissebb { -brand-name-mozilla } híreket és cikkeket
-m24-about-14-ai-projects = 14 megnézendő MI projekt: elindul a { -brand-name-mozilla } első Builders Accelerator csoportja
-m24-about-at-our-rise25 = A { -brand-name-rise25 } díjátadónkon, a MI jövője a megbízható, befogadó és elszámoltatható
+m24-about-read-the-latest = Olvassa el a { -brand-name-mozilla } legfrissebb híreit és cikkeit
+m24-about-14-ai-projects = 14 figyelemreméltó MI projekt: elindul a { -brand-name-mozilla } első Builders Accelerator csoportja
+m24-about-at-our-rise25 = A { -brand-name-rise25 } díjátadónkon az MI jövője megbízható, befogadó és elszámoltatható
 # Used as an accessible text alternative for an image
-m24-about-rise25-award = A { -brand-name-rise25 } díjazott a trófeájára mutat.
+m24-about-rise25-award = Egy { -brand-name-rise25 } díjazott a trófeájára mutat.
 m24-about-empowering-chicagos-entrepreneurs = Chicagó vállalkozóinak erősítése a generációváltáshoz
 # Used as an accessible text alternative for an image
-m24-about-chicago = Chicagói vállalkozó.
+m24-about-chicago = Egy chicagói vállalkozó.
 
 ## Showcase
 
-m24-about-lets-build-a = Építsünk egy szebb jövőt
+m24-about-lets-build-a = Építsünk egy tisztességesebb jövőt
 m24-about-see-how-were = Nézze meg, hogyan támogatunk egy sokszínű, inkluzív és mindenki számára hozzáférhető online környezetet.
 m24-about-read-about-our = Olvasson az elkötelezettségünkről
 
