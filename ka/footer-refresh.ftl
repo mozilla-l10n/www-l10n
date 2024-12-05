@@ -39,6 +39,7 @@ footer-refresh-websites-cookies = ფუნთუშები
 footer-refresh-websites-legal = სამართლებრივი საკითხები
 footer-refresh-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
 footer-refresh-about-this-site = საიტის შესახებ
+footer-refresh-all-languages = ყველა ენა
 footer-refresh-language = ენა
 footer-refresh-primary-nav-aria-label = ქვედა ქვედა კოლონტიტული
 footer-refresh-secondary-nav-aria-label = ქვედა ქვედა კოლონტიტული

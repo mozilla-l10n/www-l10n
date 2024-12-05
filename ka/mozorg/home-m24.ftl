@@ -90,7 +90,9 @@ m24-home-tag-video = ვიდეო
 m24-home-topic-news = სიახლეები
 m24-home-topic-ai = ხელოვნური ინტელექტი
 m24-home-topic-ps = პირადულობა და უსაფრთხოება
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Headline: თქვენ, ხელოვნური ინტელექტი და ინტერნეტი — რა ხდება სინამდვილეში?
+m24-home-headline-you-ai-v2 = თქვენ, ხელოვნური ინტელექტი და ინტერნეტი – რა ხდება სინამდვილეში?
 m24-home-introducing-anonym = წარმოგიდგენთ { -brand-name-anonym }-ს: პირადულობის უზრუნველმყოფ ციფრულ რეკლამას ზღვარის ამაღლება.
 m24-home-keeping-genai-technologies = GenAI ტექნოლოგიების უსაფრთხოება გაზიარებული პასუხისმგებლობაა.
 m24-home-from-hollywood-to = ჰოლივუდიდან დაწყებული ჰიპ-ჰოპით დამთავრებული, არტისტები მოლაპარაკებებს აწარმოებენ AI-სთანხმობაზე.
