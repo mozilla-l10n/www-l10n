@@ -20,7 +20,7 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } 正致力于让网民重�
 m24-about-together-we-can = 我们同心协力，让人人都能享有舒心、安全、自由的互联网。
 m24-about-read-our-manifesto = 阅读我们的宣言
 # Used as an accessible text alternative for an image
-m24-about-a-group-of = 一群思考者在地里围坐分享想法。
+m24-about-a-group-of = 围坐在地上的一群思考者正在分享想法。
 m24-about-advocate = 倡议
 m24-about-we-advocate-for = 我们倡导更好的产品，并要求政府和科技公司对其政策和产品负责。
 m24-about-research = 研究
@@ -43,8 +43,6 @@ m24-about-at-our-rise25 = 我们的 { -brand-name-rise25 } 奖项展示了 AI �
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } 获奖者指着她的奖杯。
 m24-about-empowering-chicagos-entrepreneurs = 赋能芝加哥创业者促成世代变革
-# Used as an accessible text alternative for an image
-m24-about-chicago = 居住在芝加哥的创业者。
 
 ## Showcase
 
@@ -54,8 +52,6 @@ m24-about-read-about-our = 了解我们的承诺
 
 ## Careers
 
-# Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = 可信赖的 AI{ -brand-name-common-voice }联邦学习。
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = { -brand-name-mozilla } 员工正在交谈。
 # Used as an accessible text alternative for an image
