@@ -78,7 +78,6 @@ m24-home-get-to-know = 了解提倡可信、包容、透明的 AI 开发的领�
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = 带有警示图标的智能设备。
 m24-home-explore-issues-shaping = 探索塑造互联网未来的议题
-m24-home-privacy-not-included = *不包括隐私
 m24-home-search-our-reviews = 搜索我们的评价即可了解哪些科技产品和应用在偷偷窃取您的数据。
 m24-home-pni-search-now = 立即搜索
 # Used as an accessible text alternative for an image
