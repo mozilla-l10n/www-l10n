@@ -117,7 +117,7 @@ m24-home-alt-rise25-joyous = { -brand-name-rise25 } 歡樂的得獎者。
 m24-home-alt-pni = 含有注意圖示的智慧裝置。
 m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
 m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = 搜尋我們的評論看看有哪些科技小工具與應用程式正在偷偷拿走您的資料。
+m24-home-search-our-reviews = 搜尋我們的評論，看看有哪些科技產品與應用程式正在偷偷拿走您的資料。
 m24-home-pni-search-now = 立即搜尋
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
