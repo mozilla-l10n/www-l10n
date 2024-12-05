@@ -21,7 +21,10 @@ m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotn
 m24-about-read-our-manifesto = Čitajće naš manifest
 m24-about-advocate = Rěčnik
 m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
+m24-about-research = Slědźenje
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Wobkedźbowanje
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Wobkedźbujemy wuwića, přewjedźemy slědźenja a kampanje, zo bychmy produkty polěpšili a spěchujemy prawidła, kotrež wašim zajimam wotpowěduja.
 m24-about-build = Wuwiwać
 m24-about-we-build-products = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox }, { -brand-name-fakespot } a dalše.
@@ -32,6 +35,8 @@ m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, 
 
 m24-about-read-more = Wjace čitać
 m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-about-chicago = Předewzaćel z Chicaga.
 
 ## Showcase
 
@@ -40,10 +45,15 @@ m24-about-read-about-our = Čitajće wo našim zawjazku
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Přistajeny { -brand-name-mozilla }, kotryž kofej pije.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Přistajeni { -brand-name-mozilla }, kotřiž  hromadźe dźěłaja.
 m24-about-join-us-and = Přidružće so nam a čińće rozdźěl
 m24-about-see-open-positions = Hlejće swobodne dźěłowe městna
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = Lubosć zhromadźenstwa, naša ćěrjaca móc
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zhromadźenstwa – <br> naša ćěrjaca móc
