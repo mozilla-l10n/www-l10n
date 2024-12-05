@@ -109,15 +109,15 @@ m24-home-alt-rise25-proud = Гордый наградой на { -brand-name-ris
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Уверенно улыбчивый спикер в { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = Радостный награждение на { -brand-name-rise25 }.
+m24-home-alt-rise25-joyous = Радостный награждённый на { -brand-name-rise25 }.
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Умные устройства со значком предупреждения.
 m24-home-explore-issues-shaping = Изучите проблемы, формирующие будущее Интернета
-m24-home-privacy-not-included = *Приватность не включена
-m24-home-search-our-reviews = Поищите наши отзывы, чтобы узнать, какие технологические устройства и приложения тайно похищают ваши данные.
+m24-home-privacy-not-included = *Privacy Not Included
+m24-home-search-our-reviews = Поищите наши отзывы, чтобы узнать, какие технологичные устройства и приложения тайно похищают ваши данные.
 m24-home-pni-search-now = Искать сейчас
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бриджит Тодд, ведущая подкаста IRL.
