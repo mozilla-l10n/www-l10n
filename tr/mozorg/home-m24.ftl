@@ -32,7 +32,7 @@ m24-home-spot-fake-reviews = Sahte değerlendirmeleri, kötü ürünleri ve güv
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = İnternetin en iyi içeriklerini istediğiniz cihaza kaydedin. Kimin her şeyi hemen okumaya vakti var ki?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = Konumunuzu ve çevrimiçi maceralarınızı gizli tutun, istediğiniz ülkenin videolarını istediğiniz yerden izleyin.
+m24-home-keep-your-location = Konumunuzu ve çevrimiçi maceralarınızı gizli tutun, istediğiniz yerden video izleyin.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kişisel bilgileriniz risk altına girdiğinde haberdar olun ve kolayca önlem alın.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -95,6 +95,7 @@ m24-home-introducing-anonym = Karşınızda { -brand-name-anonym }: Gizliliği k
 m24-home-keeping-genai-technologies = Üretken yapay zekâ teknolojilerinin güvenliğini sağlamak ortak bir sorumluluk.
 m24-home-from-hollywood-to = Hollywood’dan hip-hop’a tüm sanatçılar yapay zekâya verilecek izinleri tartışıyor.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla }, yeni belgesel dizisi “{ -brand-name-firefox } Presents” ile çığır açan yaratıcıları dünyaya tanıtıyor.
+m24-home-big-techs-power = Büyük teknoloji şirketleri dil üzerinde insanlardan daha fazla güce sahip. Bridget Todd, kendi dillerinde ve lehçelerinde yapay zekânın önünü açmaya çalışan dil topluluğu liderleriyle konuşuyor.
 m24-home-why-does-it = Neden kendimizi büyük bir yapay zekâ deneyinin parçası gibi hissediyoruz? Yeni teknolojiler sorumlu bir şekilde nasıl test edilebilir? Bridget Todd, kamusal hayatta milyonlarca insanı etkileyen, başarısı henüz kanıtlanmamış yapay zekâ sistemleriyle yaşamanın nasıl bir şey olduğunu araştırıyor.
 m24-home-kids-are-growing = Çocuklar fazlasıyla çevrimiçi bir dünyada büyüyor. Endişeli ebeveynler ne yapmalı?
 
