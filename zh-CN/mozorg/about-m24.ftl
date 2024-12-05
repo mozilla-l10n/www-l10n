@@ -21,7 +21,7 @@ m24-about-together-we-can = 我们同心协力，让人人都能享有舒心、�
 m24-about-read-our-manifesto = 阅读我们的宣言
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = 围坐在地上的一群思考者正在分享想法。
-m24-about-advocate = 倡议
+m24-about-advocate = 倡导
 m24-about-we-advocate-for = 我们倡导更好的产品，并要求政府和科技公司对其政策和产品负责。
 m24-about-research = 研究
 # Obsolete string (expires: 2025-02-03)
