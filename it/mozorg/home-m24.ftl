@@ -24,7 +24,15 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## AI gallery
 
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Logo di { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logo di { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 
@@ -34,3 +42,4 @@ m24-home-llamafile = { -brand-name-llamafile }
 
 ## Issues
 
+m24-home-irl-podcast = { -brand-name-irl-podcast }
