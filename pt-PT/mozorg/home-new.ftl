@@ -11,22 +11,16 @@ home-mission-driven = Impulsionado pela missão. Suportado por pessoas.
 home-were-not-normal = Nós não somos uma empresa de tecnologia normal. As coisas que nós criamos priorizam as pessoas e a sua privacidade em detrimento dos lucros. Nós existimos para tornar a Internet num lugar mais saudável e feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “A saúde da Internet e da vida online é a razão de existirmos.”
-# Obsolete string
-home-mitchell-baker = Mozilla Baker, Ceo da { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mozilla Baker, ex-executivo do conselho de administração da { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = A { -brand-name-mozilla } faz produtos que respeitam a privacidade
 home-product-firefox-browsing = Navegação privada e segura
 home-cta-get-firefox = Obter o { -brand-name-firefox }
 home-product-pocket-articles = Os artigos mais intrigantes da Web
 home-cta-get-pocket = Obter o { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Máscaras de e-mail e telefone de fácil utilização
 home-product-relay-hide-your = Oculte o seu número de telefone e o seu e-mail de spammers
 home-cta-get-relay = Obter o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que pode confiar
 home-cta-get-vpn = Obter a { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Alertas de violações de dados
 home-product-monitor-protect-your = Proteja as suas informações privadas de agentes de dados
 home-cta-get-monitor = Obter o { -brand-name-monitor }
 home-product-fakespot-detect = Detetar análises de compras falsas
@@ -37,15 +31,13 @@ home-politico-cite = Política
 home-join-us-in-shaping = Junte-se a nós para moldar uma IA confiável
 home-work-on-ai = O trabalho da { -brand-name-mozilla } com IA não é apenas uma coisa nova — passou anos a financiar, construir e defender uma IA que é aberta, correta e desenvolvida com responsabilidade. O nosso foco está na criação de uma IA que ajude as pessoas, que dê prioridade à transparência e que apoie o bem público, e não em agendas corporativas.
 home-read-more = Ler mais
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = A { -brand-name-mozilla } é uma empresa ou uma organização sem fins lucrativos? Na verdade, ambos.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = A { -brand-name-mozilla } é composta por duas organizações. A { -brand-name-mozilla-corporation } é propriedade da organização sem fins lucrativos 501(c) { -brand-name-mozilla-foundation }. O que significa que não estamos devedores a quaisquer ações — apenas à nossa missão.
 home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = No seu centro, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que faz mudanças no mundo através de uma variedade de empresas, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures }</a> e <a { $mozai }> { -brand-name-mozilla-ai }</a>. Como é que nós somos diferentes? Porque somos focados na missão, isso significa que temos a liberdade para tomar todas as nossas decisões com base no que é melhor para a Internet e para todos na Internet, não com base nas exigências dos parceiros — na verdade, não temos nenhuma destas questões.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = No seu centro, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que faz mudanças no mundo através de uma variedade de empresas, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures }</a> e <a { $mozai }> { -brand-name-mozilla-ai }</a>. Como é que nós somos diferentes? Porque somos focados na missão, isso significa que temos a liberdade para tomar todas as nossas decisões com base no que é melhor para a Internet e para todos na Internet, não com base nas exigências dos parceiros — na verdade, não temos nenhuma destas questões.
+home-at-its-core-v2 = No seu centro, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que faz mudanças no mundo através de uma variedade de empresas, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }> { -brand-name-mozilla-ventures }</a> e <a { $mozai }> { -brand-name-mozilla-ai-v2 }</a>. Como é que nós somos diferentes? Porque somos focados na missão, isso significa que temos a liberdade para tomar todas as nossas decisões com base no que é melhor para a Internet e para todos na Internet, não com base nas exigências dos parceiros — na verdade, não temos nenhuma destas questões.
 home-learn-about-mofo = Saber mais sobre a { -brand-name-mozilla-foundation }
 home-join-the-fight = Junte-se à luta por uma internet saudável
 home-your-voice-your-code = A sua voz. O seu código. As suas ideias. Existem milhares de formas de contribuir para a { -brand-name-mozilla }.
@@ -55,8 +47,6 @@ home-the-mozilla-project = O projeto { -brand-name-mozilla } foi fundado em São
 home-eventually-the-open = Por fim, o projeto de código aberto da { -brand-name-mozilla } tornou-se a primeira versão muito popular do { -brand-name-firefox }.
 home-today-mozilla-continues = Hoje, a { -brand-name-mozilla } continua o seu movimento para uma Internet melhor com milhões de membros ativos da comunidade por todo o mundo, defendendo a tecnologia Ética, IA confiável e a produzir produtos de privacidade que dão mais poder às pessoas.
 home-learn-more-about-mozilla = Saber mais sobre a { -brand-name-mozilla }
-home-get-good-news = Obter (boas) notícias da { -brand-name-mozilla }
-home-get-news-and-tips = Obtenha notícias e dicas da { -brand-name-mozilla } para se manter seguro e informado sobre tudo o que torna a Internet um lugar mais saudável.
 # VPN Feature
 home-featured-product = Produto em destaque
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
