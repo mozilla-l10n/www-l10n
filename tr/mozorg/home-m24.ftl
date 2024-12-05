@@ -26,9 +26,22 @@ m24-home-explore-our-products = Ürünlerimizi keşfedin
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Hız, gizlilik ve kontrolden ödün vermeden internette gezinmenin keyfini sürün.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = E-postalarınızı, takvimlerinizi ve kişilerinizi tek bir uygulamada toplayarak hayatınızı kolaylaştırın.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Sahte değerlendirmeleri, kötü ürünleri ve güvenilmez satıcıları tespit edin.
+m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = İnternetin en iyi içeriklerini istediğiniz cihaza kaydedin. Kimin her şeyi hemen okumaya vakti var ki?
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Konumunuzu ve çevrimiçi maceralarınızı gizli tutun, istediğiniz ülkenin videolarını istediğiniz yerden izleyin.
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Kişisel bilgileriniz risk altına girdiğinde haberdar olun ve kolayca önlem alın.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin, yalnızca almak istediğiniz istediğiniz iletileri alın.
 
 ## Donate
 
+m24-home-donate-to-the = Kâr amacı gütmeyen { -brand-name-mozilla }’ya bağış yapın
+m24-home-donate = Bağış yapın
 
 ## AI gallery
 
