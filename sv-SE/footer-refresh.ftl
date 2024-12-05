@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Kakor
 footer-refresh-websites-legal = Juridisk information
 footer-refresh-community-participation-guidelines = Riktlinjer för gemenskapens deltagande
 footer-refresh-about-this-site = Om denna webbplats
+footer-refresh-all-languages = Alla språk
 footer-refresh-language = Språk
+footer-refresh-primary-nav-aria-label = Primär sidfot
+footer-refresh-secondary-nav-aria-label = Sekundär sidfot
