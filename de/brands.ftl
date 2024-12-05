@@ -123,6 +123,9 @@
 -brand-name-mozilla-account = Mozilla-Konto
 -brand-name-mozilla-accounts = Mozilla-Konten
 -brand-name-mozilla-social = Mozilla.social
+
+# Obsolete string (expires: 2025-01-05)
+-brand-name-mozilla-ai = Mozilla KI
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
