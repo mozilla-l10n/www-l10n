@@ -38,18 +38,18 @@ m24-about-we-fund-and = Financiamos e invertimos en las personas y en los esfuer
 
 m24-about-read-more = Leer más
 m24-about-read-the-latest = Leer los últimos artículos y noticias de { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 proyectos de IA a seguir: { -brand-name-mozilla } el primer grupo de Builders Accelerator
-m24-about-at-our-rise25 = En nuestros { -brand-name-rise25 } , el futuro de la IA es confiable, inclusivo y responsable
+m24-about-14-ai-projects = 14 proyectos de IA a seguir: El primer grupo de Builders Accelerator de { -brand-name-mozilla } arranca
+m24-about-at-our-rise25 = En nuestros Premios { -brand-name-rise25 } , el futuro de la IA es confiable, inclusivo y responsable
 # Used as an accessible text alternative for an image
-m24-about-rise25-award = La { -brand-name-rise25 } señala su trofeo.
-m24-about-empowering-chicagos-entrepreneurs = Empoderar a los emprendedores de Chicago para un cambio generacional
+m24-about-rise25-award = Ganador del premio { -brand-name-rise25 } señalando su trofeo.
+m24-about-empowering-chicagos-entrepreneurs = Empoderando a los emprendedores de Chicago para un cambio generacional
 # Used as an accessible text alternative for an image
 m24-about-chicago = Un emprendedor con sede en Chicago.
 
 ## Showcase
 
 m24-about-lets-build-a = Construyamos un futuro más justo
-m24-about-see-how-were = Vea cómo estamos fomentando un entorno en línea diverso, inclusivo y accesible para todos.
+m24-about-see-how-were = Mirá cómo estamos fomentando un entorno en línea diverso, inclusivo y accesible para todos.
 m24-about-read-about-our = Lee sobre nuestro compromiso
 
 ## Careers
