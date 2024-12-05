@@ -37,6 +37,7 @@ footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Právní informace
 footer-refresh-community-participation-guidelines = Pravidla pro přispěvatele
 footer-refresh-about-this-site = O této stránce
+footer-refresh-all-languages = Všechny jazyky
 footer-refresh-language = Jazyk
 footer-refresh-primary-nav-aria-label = Hlavní patička
 footer-refresh-secondary-nav-aria-label = Sekundární patička
