@@ -25,7 +25,6 @@ m24-home-go-chaosfree-with = 借助一个应用处理您的所有电子邮件、
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = 保护您的位置信息和在线活动隐私 — 随时随地像本地人一样直播。
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 如果您的个人信息受到威胁请发出警告并专业地锁定。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
