@@ -30,8 +30,8 @@ m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně na zlepš
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Sledujeme vývoj, provádíme výzkum a kampaně s cílem zlepšit produkty a prosazovat politiky, které zastupují vaše zájmy.
 m24-about-build = Tvorba
-m24-about-we-build-products = Vytváříme produkty, které vám dává kontrolu nad obsahem – jako je { -brand-name-firefox }, { -brand-name-fakespot } a další.
-m24-about-fund = fondu
+m24-about-we-build-products = Vytváříme produkty, které vám dávají kontrolu do vašich rukou — například { -brand-name-firefox }, { -brand-name-fakespot } a další.
+m24-about-fund = Financování
 m24-about-we-fund-and = Financujeme a investujeme do lidí a úsilí, které posouvá technologie, internet a umělou inteligenci správným směrem.
 
 ## News
@@ -42,14 +42,14 @@ m24-about-14-ai-projects = 14 projektů umělé inteligence, na které se může
 m24-about-at-our-rise25 = Při udílení cen { -brand-name-rise25 } je budoucnost umělé inteligence spolehlivá, inkluzivní a zodpovědná
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Držitelka ceny { -brand-name-rise25 } ukazuje na svou trofej.
-m24-about-empowering-chicagos-entrepreneurs = Pomozte chicagským podnikatelům pro generační výměnu
+m24-about-empowering-chicagos-entrepreneurs = Posílení postavení chicagských podnikatelů pro generační změnu
 # Used as an accessible text alternative for an image
 m24-about-chicago = Podnikatel z Chicaga.
 
 ## Showcase
 
 m24-about-lets-build-a = Pojďme budovat spravedlivější budoucnost
-m24-about-see-how-were = Podívejte se, jak se staráme o rozmanité, inkluzivní a přístupné online prostředí pro všechny.
+m24-about-see-how-were = Podívejte se, jak podporujeme rozmanité, inkluzivní a přístupné online prostředí pro všechny.
 m24-about-read-about-our = Přečtěte si o našem závazku
 
 ## Careers
