@@ -22,6 +22,7 @@ m24-home-love-the-internet = Ehayhu jey ñanduti
 m24-home-explore-our-products = Eikuaave ore apore
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Eiko porãve nde rekovépe peteĩ tembiporu’i ndive opaite ñanduti veve, arapapaha ha ñe’ẽmondorã.
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -30,6 +31,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Embojopói mba’apohaguasu viru’ỹgua { -brand-name-mozilla }
 m24-home-donate = Me’ẽ
 
 ## AI gallery
@@ -39,6 +41,8 @@ m24-home-tag-program = tembiaporape
 m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
+m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
+m24-home-llamafile = { -brand-name-llamafile }
 m24-home-watch-now = Ema’ẽ ko’ág̃a
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
