@@ -67,9 +67,14 @@ m24-home-find-the-just = 寻找适合您需求、使用场景、数据的 LLM。
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = { -brand-name-mozilla } 主席 Mark Surman。
 m24-home-can-ai-be = AI 可信吗？
+m24-home-in-a-world = 当今时代，AI 技术的创新仅由一小部分人推进，使这项技术面临垄断风险。将开源观念带到 AI 发展中可改变此情况。
 m24-home-watch-now = 立即观看
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = 演讲者站在舞台上，背景是许多产品的徽标。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = 经营着刚起步的创业公司？请向 { -brand-name-mozilla-ventures }推介您的公司，获得资金帮助，推动 AI 和互联网向善发展。
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = 捐出您的声音，让语音技术能理解更多口音，使得人人可用。
 m24-home-donate-your-voice = 捐出一段声音
 
 ## Media Springboard
@@ -84,15 +89,33 @@ m24-home-tag-video = 视频
 m24-home-topic-news = 新闻
 m24-home-topic-ai = 人工智能
 m24-home-topic-ps = 隐私与安全
+m24-home-headline-you-ai = 聚焦眼前事：关于您、AI 与互联网
+m24-home-introducing-anonym = { -brand-name-anonym } 入局，将隐私保护下数字广告的标准带到新层次。
+m24-home-keeping-genai-technologies = 确保生成式 AI 技术安全，是我们共同的责任。
+m24-home-from-hollywood-to = 从好莱坞到嘻哈界，各界艺人正协商 AI 授权问题。
+m24-home-why-does-it = 为何我们常感觉身处大型的 AI 实验中？如何以负责任的方式测试新技术？未经验证的 AI 系统正渗透到公众生活的方方面面，影响亿万人口，听 Bridget Todd 探究其影响。
+m24-home-kids-are-growing = 如今的孩子成长于网络发达的世界，对此感到忧心的家长要怎么做？
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } 奖
 m24-home-get-to-know = 了解提倡可信、包容、透明的 AI 开发的领导者设定新的标准并激励下一代的创新者。
+m24-home-watch-the-award = 观看颁奖典礼
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = 一位得意的 { -brand-name-rise25 } 获奖者
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = 一位自信微笑的 { -brand-name-rise25 } 演讲者。
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = 一位兴高采烈的 { -brand-name-rise25 } 获奖者。
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = 带有警示图标的智能设备。
 m24-home-explore-issues-shaping = 探索塑造互联网未来的议题
+m24-home-privacy-not-included = *失密（Privacy Not Included）
+m24-home-search-our-reviews = 搜索我们的评测，看看哪些科技产品和应用在偷窥您的隐私。
 m24-home-pni-search-now = 立即搜索
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = IRL 播客主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
