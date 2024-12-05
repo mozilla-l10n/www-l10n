@@ -14,7 +14,7 @@ m24-home-page-desc-v2 = 我們正在努力將網際網路的控制權交還給�
 
 ## Intro
 
-m24-home-welcome-to-mozilla = 歡迎使用 { -brand-name-mozilla }
+m24-home-welcome-to-mozilla = 歡迎來到 { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = 從值得信賴的技術到保護您數位權利的政策我們將您放在第一位。
 m24-home-learn-about-us = 了解我們
 
@@ -103,24 +103,24 @@ m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長。�
 
 m24-home-rise25-awards = { -brand-name-rise25 } 獎項
 m24-home-get-to-know = 了解倡導可信任、包容、透明的 AI 開發的領導者們設定新標準並激勵下一代的創新者。
-m24-home-watch-the-award = 觀賞有獎節目
+m24-home-watch-the-award = 觀賞得獎節目
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = { -brand-name-rise25 } 的驕傲得獎者。
+m24-home-alt-rise25-proud = { -brand-name-rise25 } 驕傲的得獎者。
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = { -brand-name-rise25 } 的自信滿滿的笑臉喇叭。
+m24-home-alt-rise25-smiling = { -brand-name-rise25 } 自信滿滿地微笑著的講者。
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = { -brand-name-rise25 } 的歡樂得獎者。
+m24-home-alt-rise25-joyous = { -brand-name-rise25 } 歡樂的得獎者。
 
 ## Issues
 
 # Used as an accessible text alternative for an image
-m24-home-alt-pni = 含有註意圖示的智慧裝置。
+m24-home-alt-pni = 含有注意圖示的智慧裝置。
 m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
-m24-home-privacy-not-included = * 不含隱私
+m24-home-privacy-not-included = *Privacy Not Included
 m24-home-search-our-reviews = 搜尋我們的評論看看有哪些科技小工具與應用程式正在偷偷拿走您的資料。
 m24-home-pni-search-now = 立即搜尋
 # Used as an accessible text alternative for an image
-m24-home-alt-irl-host = Brigt ToddIRL Podcast 的主持人。
+m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 我們得獎的網路廣播 (Podcast) 介紹了致力於讓網際網路更安全、讓 AI 更值得信賴的變革者。
 m24-home-irl-listen-now = 立刻聆聽
