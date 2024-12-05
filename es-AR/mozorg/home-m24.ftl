@@ -6,23 +6,23 @@
 ### URL: https://www-dev.allizom.org/
 
 # HTML Page title
-m24-home-page-title = Internet para la gente, no para las ganancias - { -brand-name-mozilla }
-m24-home-page-title-v2 = { -brand-name-mozilla }: Internet para la gente, no para las ganancias
+m24-home-page-title = Internet para la gente, no para las ganancias — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Internet para la gente, no para las ganancias
 # HTML page description
 m24-home-page-desc = ¿Sabías? { -brand-name-mozilla }, la organización que creó { -brand-name-firefox }, lucha por mantener Internet como un recurso público, abierto y accesible para todos.
-m24-home-page-desc-v2 = Estamos trabajando para que el control de Internet vuelva a estar en manos de las personas que lo utilizan.
+m24-home-page-desc-v2 = Estamos trabajando para devolver el control de Internet a las personas que lo usan.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Bienvenido a { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = Desde tecnología confiable hasta políticas que defienden tus derechos digitales, te ponemos primero, siempre.
+m24-home-from-trustworthy-tech = Desde tecnología confiable hasta políticas que defienden tus derechos digitales, te ponemos primero — siempre.
 m24-home-learn-about-us = Conócenos
 
 ## Products
 
 m24-home-love-the-internet = Me encanta internet de nuevo
-m24-home-break-free-from = Libérate de la gran tecnología: nuestros productos te permiten tener una experiencia de Internet más segura y privada.
-m24-home-explore-our-products = Explora nuestros productos
+m24-home-break-free-from = Liberate de la gran tecnología: nuestros productos te permiten tener una experiencia de Internet segura y más privada.
+m24-home-explore-our-products = Explorá nuestros productos
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Obtén el estándar de oro para navegar con velocidad, privacidad y control.
 m24-home-thunderbird = { -brand-name-thunderbird }
