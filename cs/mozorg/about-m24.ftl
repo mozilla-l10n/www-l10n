@@ -17,18 +17,18 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } se snaží dát kontrolu 
 
 ## Manifesto
 
-m24-about-together-we-can = Společně můžeme být internet snadný, bezpečný a svobodný — pro všechny.
+m24-about-together-we-can = Společně můžeme udržet internet snadný, bezpečný a svobodný — pro všechny.
 m24-about-read-our-manifesto = Přečtěte si náš manifest
 # Used as an accessible text alternative for an image
-m24-about-a-group-of = Skupina myslitelů sedících na zemi v kruhu a sdílících nápady.
-m24-about-advocate = Advocate
-m24-about-we-advocate-for = Prosazujeme lepší produkty a voláme vlády a technologické korporace k zodpovědnosti za to, co vytvoří.
+m24-about-a-group-of = Skupina myslitelů sedících v kruhu na podlaze a sdílejících myšlenky.
+m24-about-advocate = Obhajoba
+m24-about-we-advocate-for = Zasazujeme se o lepší produkty a požadujeme, aby vlády a technologické společnosti nesly odpovědnost za to, co vytvářejí.
 m24-about-research = Výzkum
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
-m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně za vylepšování produktů a prosazujeme zásady, které reprezentují vaše zájmy.
+m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně na zlepšení produktů a prosazujeme zásady, které zastupují vaše zájmy.
 # Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Sledujeme vývoj, provádíme průzkumy a kampaně s cílem vylepšit produkty a prosazovat zásady, které reprezentují vaše zájmy.
+m24-about-we-monitor-developments = Sledujeme vývoj, provádíme výzkum a kampaně s cílem zlepšit produkty a prosazovat politiky, které zastupují vaše zájmy.
 m24-about-build = Tvorba
 m24-about-we-build-products = Vytváříme produkty, které vám dává kontrolu nad obsahem – jako je { -brand-name-firefox }, { -brand-name-fakespot } a další.
 m24-about-fund = fondu

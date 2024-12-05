@@ -671,8 +671,8 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL podcast
--brand-name-llamafile = Soubor Llama
--brand-name-lumigator = Lumigátor
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
@@ -780,7 +780,7 @@
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
--brand-name-rise25 = Vzestup25
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird =
     { $case ->
        *[nom] Thunderbird
