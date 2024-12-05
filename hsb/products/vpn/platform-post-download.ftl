@@ -33,6 +33,7 @@ vpn-turn-on-vpn = 4. Zmóžńće VPN
 ## FAQ Strings
 
 vpn-download-faq-need-help = Trjebaće pomoc, zo byšće započał?
+vpn-download-faq-here-are-some = Tu su někotre z najčasćišich prašejow wo konfiguraciji { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Čehodla { -brand-name-mozilla-vpn } wužiwać?
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/

@@ -60,3 +60,4 @@ vpn-pricing-scan-qrcode-to-download-android = Zo byšće nałoženje sćahnył, 
 vpn-pricing-sign-up-on-your-mobile-device = Registrujće so za abonement { -brand-name-mozilla-vpn } na swojim mobilnym graće
 vpn-pricing-sign-up-on-your-android-device = Registrujće so za abonement { -brand-name-mozilla-vpn } na swojim graće Android
 vpn-pricing-download-the-app = Nałoženje sćahnyć
+vpn-pricing-transaction-may-be-in = * Transakcija móže w ekwiwalenće lokalneje měny być.
