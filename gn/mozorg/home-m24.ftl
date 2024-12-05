@@ -42,7 +42,17 @@ m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
 m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = { -brand-name-llamafile } ra’ãnga’i.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Apoharakuéra
+m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
+m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, { -brand-name-mozilla } myakãhára.
+m24-home-can-ai-be = ¿Ikatúpa IA rehe ejerovia?
 m24-home-watch-now = Ema’ẽ ko’ág̃a
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
