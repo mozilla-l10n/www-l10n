@@ -90,7 +90,9 @@ m24-home-tag-video = 影片
 m24-home-topic-news = 新聞
 m24-home-topic-ai = 人工智慧
 m24-home-topic-ps = 隱私權與安全性
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = 標題：你、AI 與網際網路 — 到底發生什麼事？
+m24-home-headline-you-ai-v2 = 您、AI 與網際網路到底發生了什麼事
 m24-home-introducing-anonym = 隆重推出 { -brand-name-anonym }：提升數位廣告產業的隱私保護標準。
 m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們的共同責任。
 m24-home-from-hollywood-to = 從好萊塢到嘻哈、藝術家們都在討論是否要使用 AI。

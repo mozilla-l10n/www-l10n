@@ -39,6 +39,7 @@ footer-refresh-websites-cookies = Cookie
 footer-refresh-websites-legal = 法律資訊
 footer-refresh-community-participation-guidelines = 社群參與準則
 footer-refresh-about-this-site = 關於此網站
+footer-refresh-all-languages = 所有語言
 footer-refresh-language = 語言
 footer-refresh-primary-nav-aria-label = 主要頁尾
 footer-refresh-secondary-nav-aria-label = 次要頁尾
