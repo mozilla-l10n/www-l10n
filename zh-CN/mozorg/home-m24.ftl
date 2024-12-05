@@ -51,10 +51,7 @@ m24-home-builders-helps-independent = Builders 帮助独立开发者通过定制
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-in-a-world = 在一个人工智能创新由少数人推动的世界里我们正面临着垄断这项技术的风险。将开源概念应用到 AI 或许可以改变这一切。
 m24-home-watch-now = 立即观看
-# Used as an accessible text alternative for an image
-m24-home-alt-ventures = 台上有多个产品徽标的扬声器。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 有早期阶段的初创公司向 { -brand-name-mozilla-ventures } 推介您的公司并获得资金为人工智能和互联网的未来带来积极的改变。
 m24-home-common-voice = { -brand-name-common-voice }
