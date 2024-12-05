@@ -60,9 +60,31 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = { -brand-name-llamafile } ile büyük dilli modellerini (LLM) bilgisayarınızda kolayca çalıştırın. Kurulum gerektirmez ve verileriniz cihazınızda güvenle saklanır.
 m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator } logosu.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = İhtiyaçlarınız, kullanım senaryolarınız ve verileriniz için doğru LLM’i bulun.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, { -brand-name-mozilla } Başkanı.
+m24-home-can-ai-be = Yapay zekânın güvenilir olması mümkün mü?
+m24-home-in-a-world = Yapay zekâ inovasyonlarının birkaç seçkin kişinin elinde olduğu bir dünyada yapay zekâ teknolojisinin tekelleşme riskini yaşıyoruz. Açık kaynak kavramlarını yapay zekâya uygulamak bu durumu değiştirebilir.
+m24-home-watch-now = İzleyin
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Sahnedeki bir konuşmacı ve çeşitli ürün logoları.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı var? Şirketinizi { -brand-name-mozilla-ventures }’a anlatın, yapay zekâ ve internetin geleceği için olumlu bir değişime öncülük edecek finansman desteğini alın.
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Konuşma teknolojilerini daha kapsayıcı ve herkes için daha erişilebilir hale getirmek adına sesinizi bağışlayın.
+m24-home-donate-your-voice = Sesinizi bağışlayın
 
 ## Media Springboard
 
+m24-home-type = Tür
+m24-home-author = Yazar
+m24-home-topic = Konu
+m24-home-intro = Giriş
+m24-home-tag-article = Makale
 
 ## Showcase
 
