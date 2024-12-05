@@ -42,10 +42,10 @@ home-read-more = En savoir plus
 
 home-so-what-is-mozilla = Qu’est-ce que { -brand-name-mozilla } ?
 
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = { -brand-name-mozilla } est une organisation qui dépend directement de la { -brand-name-mozilla-foundation } et dont le but est d’amorcer un changement dans le monde à travers différentes actions et structures comme { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> et <a { $mozai }>{ -brand-name-mozilla-ai }</a>. En quoi sommes-nous différents ? Parce que nous agissons dans le seul intérêt des missions que nous nous sommes fixés, nous sommes libres de prendre des décisions qui profitent à Internet et à ses utilisateurs et utilisatrices. Nous n’avons pas à nous soucier des intérêts d’actionnaires, car nous avons fait le choix de ne pas en avoir.
+
+
 
 home-learn-about-mofo = En savoir plus sur la { -brand-name-mozilla-foundation }
 

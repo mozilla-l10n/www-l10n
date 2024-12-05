@@ -42,10 +42,10 @@ home-read-more = 詳しく読む
 
 home-so-what-is-mozilla = { -brand-name-mozilla } とは？
 
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = { -brand-name-mozilla } は、{ -brand-name-mozilla-foundation } が主導する活動家組織が本質です。{ -brand-name-mozilla-corporation }、MZLA、<a { $ventures }>{ -brand-name-mozilla-ventures }</a>、<a { $mozai }>{ -brand-name-mozilla-ai }</a> などさまざまなベンチャーを通じて世界に変化をもたらしています。Mozilla が他と違うところは？ Mozilla はミッションを原動力としているので、株式会社とは違い、株主の要求ではなく、インターネットと全てのオンラインユーザーにとって最善となることを考えて決定をする自由があります。
+
+
 
 home-learn-about-mofo = { -brand-name-mozilla-foundation } の詳細をご覧ください
 
