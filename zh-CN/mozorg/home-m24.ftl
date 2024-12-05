@@ -41,7 +41,7 @@ m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来�
 ## Donate
 
 m24-home-donate-to-the = 向非营利组织 { -brand-name-mozilla } 捐款
-m24-home-mozilla-is-building = { -brand-name-mozilla } 正发起运动，旨在夺回对互联网的话语权。让我们共创这样一个未来：隐私受到保护、AI 值得信赖，而不负责任的科技公司将付出代价。唯有同心协力，方能达此愿景。
+m24-home-mozilla-is-building = { -brand-name-mozilla } 正发起运动，目标是夺回对互联网的话语权。让我们共创这样一个未来：隐私受到保护、AI 值得信赖，而不负责任的科技公司将付出代价。唯有同心协力，方能达此愿景。
 m24-home-were-proudly-nonprofit = 我们以非营利为荣。您今天愿意向 { -brand-name-mozilla } 捐款吗？
 m24-home-donate = 捐款
 
@@ -53,7 +53,7 @@ m24-home-tag-event = 活动
 m24-home-read-more = 详细了解
 m24-home-get-started = 开始使用
 m24-home-join-the-movement = 加入我们的运动：<br>人本 · 人工智能
-m24-home-our-mission-is = 我们的使命是，让人们更容易就能构建并合作打造开源的可信 AI。
+m24-home-our-mission-is = 我们的使命是，让人们更容易构建并合作打造开源的可信 AI。
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 徽标。
 m24-home-llamafile = { -brand-name-llamafile }
