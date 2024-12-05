@@ -40,3 +40,4 @@ footer-refresh-websites-legal = Legal
 footer-refresh-community-participation-guidelines = Lineas guida de participation al communitate
 footer-refresh-about-this-site = Re iste sito
 footer-refresh-language = Lingua
+footer-refresh-primary-nav-aria-label = Pede de pagina primari
