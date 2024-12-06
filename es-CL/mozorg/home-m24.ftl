@@ -29,12 +29,17 @@ m24-home-go-chaosfree-with = Simplifica tu vida con una sola aplicación para to
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Detecta reseñas falsas, malos productos y vendedores no confiables.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Guarda el mejor contenido de Internet en cualquier dispositivo, porque ¿quién tiene tiempo para leerlo todo ahora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Mantén privada tu ubicación y tus aventuras en línea: transmite como un local, en cualquier lugar.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Entérate si tu información personal está en riesgo y bloquéala como un profesional.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Enmascara tu correo electrónico y número de teléfono para que sólo recibas los mensajes que deseas.
 
 ## Donate
 
+m24-home-donate-to-the = Dona a la { -brand-name-mozilla } sin fines de lucro
 m24-home-were-proudly-nonprofit = Somos una organización sin fines de lucro. ¿Harías una donación a { -brand-name-mozilla } hoy?
 m24-home-donate = Donar
 
@@ -90,10 +95,23 @@ m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } rinde homen
 
 ## Showcase
 
+m24-home-rise25-awards = Premios { -brand-name-rise25 }
+m24-home-watch-the-award = Mira la entrega de premios
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Un homenajeado orgulloso en { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Un orador sonriente y confiado en { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Un homenajeado alegre en { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Dispositivos inteligentes con el icono de precaución.
+m24-home-explore-issues-shaping = Explora problemas que dan forma al futuro de Internet
+m24-home-privacy-not-included = *Privacidad no incluida
 m24-home-pni-search-now = Buscar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Escuchar ahora
