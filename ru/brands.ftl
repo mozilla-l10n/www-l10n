@@ -196,7 +196,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
--brand-name-irl-podcast = IRL-подкаст
+-brand-name-irl-podcast = Подкаст IRL
 -brand-name-llamafile = Llamafile
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
