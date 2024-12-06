@@ -49,6 +49,8 @@ m24-about-read-about-our = Cytajśo wó našom zawězku
 ## Careers
 
 # Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Dowěry gódna KI, { -brand-name-common-voice }, Federated Learnings.
+# Used as an accessible text alternative for an image
 m24-about-alt-conversation = Pśistajony { -brand-name-mozilla } wesrjejź konwersacije.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Pśistajony { -brand-name-mozilla }, kótaryž kafej pijo.
