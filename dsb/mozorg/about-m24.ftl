@@ -19,6 +19,8 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } źěła na tom, kontrolu 
 
 m24-about-together-we-can = Gromaźe móžomy internet lažki, wěsty a dermotny źaržymy – za wšych.
 m24-about-read-our-manifesto = Cytajśo naš manifest
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Kupka myslarjow, kótarež w kólasu na špundowanju sejźe a ideje wuměnjaju.
 m24-about-advocate = Pśirucaŕ
 m24-about-we-advocate-for = Zasajźujomy se za lěpše produkty, cynimy kněžeŕstwa a technologiske pśedewześa zagronite za to, což napóraju.
 m24-about-research = Slěźenje
