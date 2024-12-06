@@ -71,12 +71,12 @@ m24-home-can-ai-be = ¿Puede la IA ser confiable?
 m24-home-in-a-world = En un mundo donde la innovación en IA está impulsada por unos pocos elegidos, nos arriesgamos a la monopolización de esta tecnología. Aplicar conceptos de código abierto a la IA podría cambiar eso.
 m24-home-watch-now = Mirá ahora
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = Ponente en el escenario con múltiples logos de productos.
+m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Tienes una startup en fase inicial? Envía a tu empresa a { -brand-name-mozilla-ventures } y asegura financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
-m24-home-donate-your-voice = Dona tu voz
+m24-home-donate-your-voice = Doná tu voz
 
 ## Media Springboard
 
@@ -91,8 +91,8 @@ m24-home-topic-news = Noticias
 m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Privacidad y seguridad
 # Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Titular: Tú, la IA e Internet: ¿qué es lo que realmente está pasando?
-m24-home-headline-you-ai-v2 = Tú, la IA e Internet: ¿qué es lo que realmente está pasando?
+m24-home-headline-you-ai = Titular: Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
+m24-home-headline-you-ai-v2 = Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
 m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: Elevando el nivel de la publicidad digital que preserva la privacidad.
 m24-home-keeping-genai-technologies = Mantener las tecnologías de GenAI seguras es una responsabilidad compartida.
 m24-home-from-hollywood-to = Desde Hollywood al hip hop, los artistas están negociando el consentimiento de la IA.
