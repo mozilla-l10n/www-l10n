@@ -48,6 +48,7 @@ m24-home-donate = შემოწირულობა
 ## AI gallery
 
 m24-home-tag-product = პროდუქტი
+m24-home-tag-project = Project
 m24-home-tag-program = პროგრამა
 m24-home-tag-event = ღონისძიება
 m24-home-read-more = ვრცლად
