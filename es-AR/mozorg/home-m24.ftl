@@ -122,7 +122,7 @@ m24-home-privacy-not-included = *Privacidad no incluida
 m24-home-search-our-reviews = Busca en nuestras revisiones para ver qué dispositivos y aplicaciones tecnológicos ocultan tus datos.
 m24-home-pni-search-now = Buscar ahora
 # Used as an accessible text alternative for an image
-m24-home-alt-irl-host = Bridget Todd, presentadora de IRL Podcast.
+m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = Nuestro podcast galardonado presenta a los creadores del cambio que trabajan para hacer que Internet sea más seguro y la IA más confiable.
+m24-home-our-multiaward-winning = Nuestro podcast multipremiado presenta a los creadores del cambio que trabajan para hacer que Internet sea más segura y la IA más confiable.
 m24-home-irl-listen-now = Escuchar ahora
