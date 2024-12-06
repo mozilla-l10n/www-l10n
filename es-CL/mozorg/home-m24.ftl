@@ -15,9 +15,23 @@ m24-home-page-desc-v2 = Estamos trabajando para devolver el control de Internet 
 ## Intro
 
 m24-home-welcome-to-mozilla = Te damos la bienvenida a { -brand-name-mozilla }
+m24-home-learn-about-us = Aprende sobre nosotros
 
 ## Products
 
+m24-home-love-the-internet = Vuelve a amar Internet
+m24-home-break-free-from = Libérate de las grandes tecnológicas: nuestros productos te permiten tener el control de una experiencia en Internet más segura y privada.
+m24-home-explore-our-products = Explora nuestros productos
+m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Obtén el estándar de oro para navegar con velocidad, privacidad y control.
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Simplifica tu vida con una sola aplicación para todos tus correos electrónicos, calendarios y contactos.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Detecta reseñas falsas, malos productos y vendedores no confiables.
+m24-home-pocket = { -brand-name-pocket }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Entérate si tu información personal está en riesgo y bloquéala como un profesional.
 
 ## Donate
 
