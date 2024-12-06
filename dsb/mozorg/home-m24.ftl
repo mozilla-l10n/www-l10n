@@ -79,9 +79,18 @@ m24-home-headline-you-ai-v2 = Wy, KI a internet – co se napšawdu stawa?
 ## Showcase
 
 m24-home-rise25-awards = Myta { -brand-name-rise25 }
+m24-home-watch-the-award = Woglědajśo se pósćenje mytow
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Gjardy nosaŕ myta na { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Sebjewědobny smjejkotajucy se powědaŕ na { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Inteligentne rědy z warnowańskim symbolom.
 m24-home-privacy-not-included = *Priwatnosć njejo zapśimjona
 m24-home-pni-search-now = Něnto pytaś
 # Used as an accessible text alternative for an image
