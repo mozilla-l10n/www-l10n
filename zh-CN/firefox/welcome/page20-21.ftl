@@ -12,12 +12,12 @@ welcome-page20-21-your-firefox = 2025 年 1 月 14 日起，您的 { -brand-name
 # Page 20 body
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-update-now = <strong>为确保最佳浏览体验，请立即更新。</strong>一份根证书即将过期，导致部分首选项和其他功能失效。<a { $sumo }>阅读关于此更改的更多信息</a>
+welcome-page20-21-update-now = <strong>为确保最佳浏览体验，请立即更新。</strong>一份根证书即将过期，会导致部分首选项和其他功能失效。<a { $sumo }>阅读关于此更改的更多信息</a>
 # Page 21 header
 welcome-page20-21-update-your-browser = 更新 { -brand-name-firefox } 浏览器
 # Page 21 body
 #   $sumo (url) - link to https://support.mozilla.org/kb/root-certificate-expiration
-welcome-page20-21-on-march-14 = <strong>2025 年 3 月 14 日起，您当前的 { -brand-name-firefox } 版本将无法正常使用。</strong>一份根证书即将过期，导致流播放视频、附加组件以及其他功能失效。<a { $sumo }>阅读关于此更改的更多信息</a>
+welcome-page20-21-on-march-14 = <strong>2025 年 3 月 14 日起，您当前的 { -brand-name-firefox } 版本将无法正常使用。</strong>一份根证书即将过期，会导致流播放视频、附加组件以及其他功能失效。<a { $sumo }>阅读关于此更改的更多信息</a>
 # Note: the following string is used as an accessibile attribute to the list items, and won't be displayed on the webpage itself
 welcome-page20-21-why-update = 为什么要更新
 welcome-page20-21-update-now-cta = 立即更新
