@@ -48,6 +48,7 @@ m24-home-donate = 捐款
 ## AI gallery
 
 m24-home-tag-product = 產品
+m24-home-tag-project = 專案
 m24-home-tag-program = 專案
 m24-home-tag-event = 活動
 m24-home-read-more = 了解更多
