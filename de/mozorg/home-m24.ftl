@@ -7,9 +7,11 @@
 
 # HTML Page title
 m24-home-page-title = Internet für Menschen, nicht für Profit – { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } – Internet für Menschen, nicht für Profit
 
 # HTML page description
 m24-home-page-desc = Wir sind { -brand-name-mozilla }. Der Entwickler von { -brand-name-firefox }. Wir kämpfen gegen unternehmerische Kontrolle im Netz. Damit das Internet offen und für alle zugänglich bleibt.
+m24-home-page-desc-v2 = Wir arbeiten daran, die Kontrolle über das Internet jenen zurückzugeben, die es nutzen.
 
 ## Intro
 
@@ -34,6 +36,8 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Verbirg deinen Standort und deine Online-Abenteuer – streame wie die Locals, egal wo.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Lass dich benachrichtigen, wenn deine personenbezogenen Daten gefährdet sind, und sichere sie wie ein Profi.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Maskiere deine E-Mail-Adresse und Telefonnummer, damit du nur die Nachrichten erhältst, die du möchtest.
 
 ## Donate
 
@@ -51,15 +55,24 @@ m24-home-read-more = Weiterlesen
 m24-home-get-started = Loslegen
 m24-home-join-the-movement = Werde Teil der Bewegung:<br> KI für das Volk
 m24-home-our-mission-is = Wir wollen den Menschen die Entwicklung und Zusammenarbeit mit vertrauenswürdiger Open-Source-KI erleichtern.
-m24-home-explore-mozilla-ai = Entdecken Sie { -brand-name-mozilla-ai }
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = { -brand-name-llamafile }-Logo.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Mit { -brand-name-llamafile } kannst du große Sprachmodelle (Engl.: large language models, LLMs) auf deinem PC nutzen – ohne zusätzliche Installation. Und deine Daten bleiben sicher auf deinem Gerät.
+m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Mit Builders können unabhängigen Entwickler*innen durch maßgeschneiderte Kollaborationen, Programming und mithilfe der Community transformative Open-Source KI-Projekte erstellen.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator }-Logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Hier findest du die passende LLM für deine Bedürfnisse, deinen Anwendungsfall und deine Daten.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, Präsident von { -brand-name-mozilla }.
 m24-home-can-ai-be = Kann KI vertrauenswürdig sein?
 m24-home-in-a-world = In einer Welt, in der KI-Innovationen von einigen Wenigen vorangetrieben werden, droht die Gefahr der Monopolisierung dieser Technologie. Mit Open-Source-Konzepten könnten wir das ändern.
 m24-home-watch-now = Jetzt ansehen
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Vortragende*r auf einer Bühne mit verschiedenen Produktlogos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Du hast ein ganz neues Start-up? Stelle { -brand-name-mozilla-ventures } dein Unternehmen vor und sichere dir eine Förderung, mit der du positiven Wandel für die Zukunft der KI und des Internets vorantreiben kannst.
 m24-home-common-voice = { -brand-name-common-voice }
@@ -78,6 +91,7 @@ m24-home-tag-video = Video
 m24-home-topic-news = Neuigkeiten
 m24-home-topic-ai = Künstliche Intelligenz
 m24-home-topic-ps = Datenschutz und Sicherheit
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Headline: Du, KI und das Internet – was geht da wirklich ab?
 m24-home-introducing-anonym = { -brand-name-anonym }: Höhere Standards für datenschutzbewahrende digitale Werbung.
 m24-home-keeping-genai-technologies = Die Verantwortung, GenAI-Technologien sicher zu gestalten, liegt bei uns allen.
@@ -92,13 +106,23 @@ m24-home-kids-are-growing = Kinder, die in einer sehr digitalen Welt aufwachsen.
 m24-home-rise25-awards = { -brand-name-rise25 } Awards
 m24-home-get-to-know = Lerne die Führungskräfte kennen, die sich für die vertrauenswürdige, inklusive und transparente KI-Entwicklung einsetzen, während sie neue Maßstäbe setzen und die nächste Generation an Innovator*innen inspirieren.
 m24-home-watch-the-award = Award-Show ansehen
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Stolze*r Preisträger*in bei { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Ein*e selbstbewusste*r Vortragende*r bei { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Ein*e glückliche*r Preisträger*in bei { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Intelligente Geräte mit Vorsicht-Icon.
 m24-home-explore-issues-shaping = Erfahre, welche Probleme die Zukunft des Internets formen
 m24-home-privacy-not-included = *Datenschutz nicht inbegriffen
 m24-home-search-our-reviews = Durchsuche unsere Bewertungen und lies nach, welche Tech-Gadgets und Apps heimlich deine Daten stehlen.
 m24-home-pni-search-now = Jetzt durchsuchen
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, Host des IRL-Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Unser mehrfach preisgekrönter Podcast stellt die Changemaker vor, die das Internet sichererer und KI vertrauenswürdiger machen wollen.
 m24-home-irl-listen-now = Jetzt anhören
