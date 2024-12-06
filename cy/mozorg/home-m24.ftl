@@ -48,6 +48,7 @@ m24-home-donate = Cyfrannu
 ## AI gallery
 
 m24-home-tag-product = Cynnyrch
+m24-home-tag-project = Project
 m24-home-tag-program = Rhaglen
 m24-home-tag-event = Digwyddiad
 m24-home-read-more = Darllen rhagor
