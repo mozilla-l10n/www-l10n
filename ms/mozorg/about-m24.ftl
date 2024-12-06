@@ -19,9 +19,15 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } berusaha untuk memulangka
 
 m24-about-together-we-can = Bersama, kita mampu menjadikan internet lebih ringkas, selamat dan percuma — untuk semua.
 m24-about-read-our-manifesto = Baca manifesto kami
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Sekumpulan pemikir duduk dalam bulatan di atas lantai sambil berkongsi idea.
 m24-about-advocate = Pendukung
 m24-about-we-advocate-for = Kami mendukung produk yang lebih baik, agar kerajaan dan syarikat teknologi dipertanggungjawabkan untuk ciptaan mereka.
+m24-about-research = Kajian
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Kami mengupas pandangan, kempen yang berperanan meningkatkan mutu produk dan memacu dasar yang mewakili keperluan anda.
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Kami pantau pembangunan, menjalankan kajian dan kempen bagi meningkatkan mutu produk serta memacu dasar-dasar yang mencerminkan minat anda.
 m24-about-build = Pembangunan
 m24-about-we-build-products = Kami bangunkan produk yang menjadikan internet dalam kawalan anda — seperti { -brand-name-firefox }, { -brand-name-fakespot } dan banyak lagi.
@@ -34,7 +40,11 @@ m24-about-read-more = Baca Lagi
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } yang terkini
 m24-about-14-ai-projects = 14 projek AI yang patut anda ambil tahu: kumpulan pertama Builder Accelerator { -brand-name-mozilla } telah bermula
 m24-about-at-our-rise25 = Sempena Anugerah { -brand-name-rise25 }, masa depan AI dikatakan sebagai dipercayai, terangkum dan bertanggungjawab
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Penerima anugerah { -brand-name-rise25 } sambil mengiktiraf trofi beliau.
 m24-about-empowering-chicagos-entrepreneurs = Memperkasakan usahawan di Chicago demi perubahan bergenerasi
+# Used as an accessible text alternative for an image
+m24-about-chicago = Seorang Usahawan berpusat di Chicago.
 
 ## Showcase
 
@@ -44,13 +54,25 @@ m24-about-read-about-our = Bacaan yang berkaitan komitmen
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = AI yang boleh dipercayai, { -brand-name-common-voice }, Federated Learnings.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Kakitangan { -brand-name-mozilla } sedang berbual-bual.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Kakitangan { -brand-name-mozilla } sedang minum secawan kopi.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Kakitangan { -brand-name-mozilla } sedang bekerjasama.
+
 m24-about-join-us-and = Sertai kami dan bawa perubahan
 m24-about-join-our-team = Sertai kami dan rentasi segala kemungkinan — tanpa berkompromi tentang isu-isu mustahak.
 m24-about-see-open-positions = Lihat jawatan yang ada
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = Kasih komuniti, penjana kekuatan kami
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Kasih komuniti —<br> penjana kekuatan kami
 m24-about-mozilla-is-a = { -brand-name-mozilla } adalah suatu komuniti sukarelawan, rakan taulan dan penyumbang sejagat yang bersama-sama membina, melindungi serta membentuk internet yang kita kenali hari ini sejak 1998.
 m24-about-from-writing-code = Ahli komuniti adalah tulang belakang kepada usaha kami — menulis kod, mengenal pasti pepijat sehingga kepada memperjuangkan hak privasi dan keterbukaan internet untuk semua. Semangat dan dedikasi mereka menjadi inspirasi kami setiap hari.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Wanita dengan beg komputer riba dan lanyard { -brand-name-mozilla }.
