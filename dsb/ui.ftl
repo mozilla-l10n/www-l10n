@@ -21,5 +21,7 @@ ui-show-all = Wšykne pokazaś
 ui-hide-all = Wšykne schowaś
 ui-learn-more = Dalšne informacije
 ui-view = Naglěd
+ui-pause-animation = Animaciju zastajiś
+ui-play-animation = Animaciju wótgraś
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promocija

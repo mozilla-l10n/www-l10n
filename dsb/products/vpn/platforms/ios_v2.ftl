@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = VPN za iPhone wót { -brand-name-mozilla }
+vpn-ios-there-are-many = Dajo wjele pśicynow, cogoždla cośo { -brand-name-mozilla-vpn } za iPhone wužywaś, na pśikład:
