@@ -5,12 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Internet za luźe, nic za profit – { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } – internet za luźe, nic za profit
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Witajśo k { -brand-name-mozilla }
+m24-home-learn-about-us = Zgóńśo wěcej wó nas
 
 ## Products
 
+m24-home-love-the-internet = Lubujśo internet znowego
+m24-home-explore-our-products = Wuslěźćo naše produkty
+m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-pocket = { -brand-name-pocket }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate

@@ -37,6 +37,8 @@ m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologij
 
 m24-about-read-more = Wěcej cytaś
 m24-about-read-the-latest = Cytajśo nejnowše powěsći a nastawki { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-about-chicago = Pśedewześaŕ z Chicaga.
 
 ## Showcase
 
@@ -45,6 +47,10 @@ m24-about-read-about-our = Cytajśo wó našom zawězku
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Pśistajony { -brand-name-mozilla }, kótaryž kafej pijo.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Pśistajone { -brand-name-mozilla }, kótarež  gromaźe źěłaju.
 m24-about-join-us-and = Pśizamkniśo se nam a cyńśo rozdźěl
 m24-about-see-open-positions = Glědajśo liche źěłowe městna
 
@@ -53,3 +59,5 @@ m24-about-see-open-positions = Glědajśo liche źěłowe městna
 m24-about-community-love-v2 = Lubosć zgromaźeństwa, naša gónjeca móc
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zgromaźeństwa – <br> naša gónjeca móc
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Wósoba z tašu laptopa a šnorku { -brand-name-mozilla }.
