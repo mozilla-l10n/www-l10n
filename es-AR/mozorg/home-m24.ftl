@@ -99,26 +99,26 @@ m24-home-from-hollywood-to = Desde Hollywood al hip hop, los artistas están neg
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } homenajea a los creadores con la nueva serie de documentales "{ -brand-name-firefox } Presents"
 m24-home-big-techs-power = El poder de las grandes tecnológicas sobre el idioma significa poder sobre las personas. Bridget Todd habla con líderes de la comunidad lingüística allanando el camino para la IA de voz en sus propios idiomas y dialectos.
 m24-home-why-does-it = ¿Por qué parece tan a menudo que somos parte de un experimento masivo de IA? ¿Cuál es la forma responsable de probar las nuevas tecnologías? Bridget Todd explora lo que significa vivir con sistemas de IA no probados que afectan a millones de personas a medida que se implementan en la vida pública.
-m24-home-kids-are-growing = Los niños están creciendo en un mundo muy en línea. ¿Qué debe hacer un padre preocupado?
+m24-home-kids-are-growing = Los niños están creciendo en un mundo demasiado en línea. ¿Qué debe hacer un padre preocupado?
 
 ## Showcase
 
-m24-home-rise25-awards = { -brand-name-rise25 }
-m24-home-get-to-know = Conoce a los líderes que abogan por el desarrollo de la IA confiable, inclusiva y transparente a medida que establecen un nuevo estándar e inspiran a la próxima generación de innovadores.
-m24-home-watch-the-award = Mira la entrega de premios
+m24-home-rise25-awards = Premios { -brand-name-rise25 }
+m24-home-get-to-know = Conocé a los líderes que abogan por el desarrollo de una IA confiable, inclusiva y transparente mientras establecen un nuevo estándar e inspiran a la próxima generación de innovadores.
+m24-home-watch-the-award = Mirá la entrega de premios
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = Un orgulloso homenajeado en { -brand-name-rise25 }.
+m24-home-alt-rise25-proud = Un homenajeado orgulloso en { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = Un orador sonriente seguro en { -brand-name-rise25 }.
+m24-home-alt-rise25-smiling = Un orador sonriente y confiado en { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = Un alegre homenajeado en { -brand-name-rise25 }.
+m24-home-alt-rise25-joyous = Un homenajeado alegre en { -brand-name-rise25 }.
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Dispositivos inteligentes con el icono de precaución.
 m24-home-explore-issues-shaping = Explorar los problemas que moldean el futuro de Internet
-m24-home-privacy-not-included = * Privacidad no incluida
+m24-home-privacy-not-included = *Privacidad no incluida
 m24-home-search-our-reviews = Busca en nuestras revisiones para ver qué dispositivos y aplicaciones tecnológicos ocultan tus datos.
 m24-home-pni-search-now = Buscar ahora
 # Used as an accessible text alternative for an image
