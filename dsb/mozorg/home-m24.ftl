@@ -8,6 +8,9 @@
 # HTML Page title
 m24-home-page-title = Internet za luźe, nic za profit – { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } – internet za luźe, nic za profit
+# HTML page description
+m24-home-page-desc = Sćo južo wěźeł? { -brand-name-mozilla } - zgótowaŕ { -brand-name-firefox } - wójujo, aby internet ako globalnu zjawnu resursu wobchował, kótaraž jo wótwórjona a pśistupna za wše.
+m24-home-page-desc-v2 = Źěłamy na tom, kontrolu nad internetom do rukow luźi slědk daś, kótarež jen wužywaju.
 
 ## Intro
 
@@ -28,15 +31,19 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Pósććo za wšě wužytnej organizaciji { -brand-name-mozilla }
+m24-home-were-proudly-nonprofit = Smy z gjardosću za wše wužytne. Pósćiwaśo źinsa na { -brand-name-mozilla }?
 m24-home-donate = Pósćiś
 
 ## AI gallery
 
 m24-home-tag-product = Produkt
+m24-home-tag-project = Projekt
 m24-home-tag-program = Program
 m24-home-tag-event = Tšojenje
 m24-home-read-more = Dalšne informacije
 m24-home-get-started = Prědne kšace
+m24-home-join-the-movement = Pśizamkniśo se gibanjeju:<br> KI za luźe
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -65,6 +72,9 @@ m24-home-tag-video = Wideo
 m24-home-topic-news = Nowosći
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Głowne nadpismo: Wy, KI a internet – co se napšawdu stawa?
+m24-home-headline-you-ai-v2 = Wy, KI a internet – co se napšawdu stawa?
 
 ## Showcase
 
