@@ -90,7 +90,9 @@ m24-home-tag-video = Video
 m24-home-topic-news = Haber
 m24-home-topic-ai = Yapay zekâ
 m24-home-topic-ps = Gizlilik ve güvenlik
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Manşet: Siz, yapay zekâ ve internet… Aslında neler oluyor?
+m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
 m24-home-introducing-anonym = Karşınızda { -brand-name-anonym }: Gizliliği koruyan dijital reklamcılıkta çıtayı yükseltiyoruz.
 m24-home-keeping-genai-technologies = Üretken yapay zekâ teknolojilerinin güvenliğini sağlamak ortak bir sorumluluk.
 m24-home-from-hollywood-to = Hollywood’dan hip-hop’a tüm sanatçılar yapay zekâya verilecek izinleri tartışıyor.

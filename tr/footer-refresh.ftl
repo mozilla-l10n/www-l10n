@@ -39,6 +39,7 @@ footer-refresh-websites-cookies = Çerezler
 footer-refresh-websites-legal = Hukuki Bilgiler
 footer-refresh-community-participation-guidelines = Topluluk Katılım Kuralları
 footer-refresh-about-this-site = Bu Site Hakkında
+footer-refresh-all-languages = Tüm diller
 footer-refresh-language = Dil
 footer-refresh-primary-nav-aria-label = Ana alt menü
 footer-refresh-secondary-nav-aria-label = İkincil alt menü

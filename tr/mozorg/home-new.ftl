@@ -32,10 +32,12 @@ home-join-us-in-shaping = Güvenilir yapay zekâyı şekillendirmede bize katıl
 home-work-on-ai = { -brand-name-mozilla }’nın yapay zekâ üzerine yaptığı çalışmalar yeni değil. Açık, adil ve sorumlu bir şekilde geliştirilen yapay zekâyı yıllardır finanse ediyor, inşa ediyor ve savunuyoruz. İnsana hizmet eden, şeffaflığı ön planda tutan, kurumsal hedefler yerine kamu yararını destekleyen yapay zekâ yaratmaya odaklanıyoruz.
 home-read-more = Devamını okuyun
 home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = { -brand-name-mozilla }, özünde { -brand-name-mozilla-foundation } tarafından yönetilen aktivist bir kuruluş. { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ve <a { $mozai }>{ -brand-name-mozilla-ai }</a> gibi girişimlerimizle dünyada fark yaratıyoruz. Farkımız ne mi? Hiç hissedarımız yok. Misyon odaklı bir kuruluş olduğumuz için, hissedarlara para kazandıracak kararları değil de internet için ve herkes için en iyi olacak kararları alma özgürlüğümüz var.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = { -brand-name-mozilla }, özünde { -brand-name-mozilla-foundation } tarafından yönetilen aktivist bir kuruluş. { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ve <a { $mozai }>{ -brand-name-mozilla-ai }</a> gibi girişimlerimizle dünyada fark yaratıyoruz. Farkımız ne mi? Hiç hissedarımız yok. Misyon odaklı bir kuruluş olduğumuz için, hissedarlara para kazandıracak kararları değil de internet için ve herkes için en iyi olacak kararları alma özgürlüğümüz var.
+home-at-its-core-v2 = { -brand-name-mozilla }, özünde { -brand-name-mozilla-foundation } tarafından yönetilen aktivist bir kuruluş. { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ve <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a> gibi girişimlerimizle dünyada fark yaratıyoruz. Farkımız ne mi? Hiç hissedarımız yok. Misyon odaklı bir kuruluş olduğumuz için, hissedarlara para kazandıracak kararları değil de internet için ve herkes için en iyi olacak kararları alma özgürlüğümüz var.
 home-learn-about-mofo = { -brand-name-mozilla-foundation } hakkında bilgi alın
 home-join-the-fight = Sağlıklı bir internet için verdiğimiz mücadeleye katılın
 home-your-voice-your-code = Sesinizle, kodunuzla, fikirlerinizle… { -brand-name-mozilla }’ya katkıda bulunmanızın pek çok yolu var.
@@ -45,8 +47,6 @@ home-the-mozilla-project = 1998 yılında insanların interneti nasıl kullanaca
 home-eventually-the-open = Açık kaynaklı { -brand-name-mozilla } projesi zaman içinde { -brand-name-firefox }’un ilk sürümüne dönüştü ve son derece popüler hale geldi.
 home-today-mozilla-continues = Günümüzde { -brand-name-mozilla }; dünya çapındaki milyonlarca aktif gönüllüsüyle daha iyi bir internete öncülük ediyor; etik teknolojileri ve güvenilir yapay zekâyı savunuyor; insanlara daha fazla güç veren, gizliliği ön planda tutan ürünler geliştiriyor.
 home-learn-more-about-mozilla = { -brand-name-mozilla } hakkında bilgi alın
-home-get-good-news = { -brand-name-mozilla } haberlerini alın
-home-get-news-and-tips = İnternette güvende kalmak ve web’i daha sağlıklı bir yer haline getiren her konuda bilgi sahibi olmak için { -brand-name-mozilla }’dan haberler ve ipuçları alın.
 # VPN Feature
 home-featured-product = Mutlaka deneyin
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
