@@ -38,4 +38,7 @@ footer-refresh-websites-cookies = Cookieje
 footer-refresh-websites-legal = Pšawniske
 footer-refresh-community-participation-guidelines = Wobźěleńske směrnice zgromaźeństwa
 footer-refresh-about-this-site = Wó toś tom sedle
+footer-refresh-all-languages = Wšykne rěcy
 footer-refresh-language = Rěc
+footer-refresh-primary-nav-aria-label = Primarna nogowa smužka
+footer-refresh-secondary-nav-aria-label = Sekundarna nogowa smužka

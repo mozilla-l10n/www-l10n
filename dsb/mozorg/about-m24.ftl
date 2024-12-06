@@ -21,7 +21,10 @@ m24-about-together-we-can = Gromaźe móžomy internet lažki, wěsty a dermotny
 m24-about-read-our-manifesto = Cytajśo naš manifest
 m24-about-advocate = Pśirucaŕ
 m24-about-we-advocate-for = Zasajźujomy se za lěpše produkty, cynimy kněžeŕstwa a technologiske pśedewześa zagronite za to, což napóraju.
+m24-about-research = Slěźenje
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+# Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Wobglědujomy wuwiśa, pśewjeźomy slěźenja a kampanje, aby produkty pólěpšyli a spěchujomy pšawidła, kótarež wašym zajmam wótpowěduju.
 m24-about-build = Wuwijaś
 m24-about-we-build-products = Wuwijamy produkty, kótarež wam kontrolu daju – ako { -brand-name-firefox }, { -brand-name-fakespot } a dalšne.
@@ -45,5 +48,6 @@ m24-about-see-open-positions = Glědajśo liche źěłowe městna
 
 ## Community
 
-# the <br> is presentational
+m24-about-community-love-v2 = Lubosć zgromaźeństwa, naša gónjeca móc
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zgromaźeństwa – <br> naša gónjeca móc
