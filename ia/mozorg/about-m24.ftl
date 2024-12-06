@@ -19,11 +19,14 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } labora pro re-poner le co
 
 m24-about-together-we-can = Insimul, nos pote mantener internet facile, secur e gratuite, pro totes.
 m24-about-read-our-manifesto = Lege nostre manifesto
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Un gruppo de pensatores sede in circulo sur le pavimento compartiente ideas.
 m24-about-advocate = Propugnator
 m24-about-we-advocate-for = Nos recommenda le productos melior, responsabilisante governamentos e interprisas technologic pro lo que illos crea.
 m24-about-research = Recerca
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Nos discoperi intuitiones, campanias pro meliorar productos e promover directivas que representa tu interesses.
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Nos survelia le disveloppamentos, conduce recercas e campanias pro meliorar productos e promover directivas que representa tu interesses.
 m24-about-build = Producer
@@ -37,7 +40,11 @@ m24-about-read-more = Leger plus
 m24-about-read-the-latest = Lege le ultime novas e articulos de { -brand-name-mozilla }
 m24-about-14-ai-projects = 14 Projectos de IA a surveliar: initia le prime cohorte de Builders Accelerator de { -brand-name-mozilla }
 m24-about-at-our-rise25 = In nostre premios de { -brand-name-rise25 }, le futuro del IA es digne de fide, inclusive e responsabile
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Destinatario del premio { -brand-name-rise25 } indicante su tropheo.
 m24-about-empowering-chicagos-entrepreneurs = Habilitar le interprenditores de Chicago pro le cambiamento generational
+# Used as an accessible text alternative for an image
+m24-about-chicago = Un interprenditor con sede in Chicago.
 
 ## Showcase
 
@@ -47,6 +54,8 @@ m24-about-read-about-our = Leger re nostre dedication
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = IA digne de fide, { -brand-name-common-voice }, apprendimento federate.
 m24-about-join-us-and = Junge te a nos e face le differentia
 m24-about-join-our-team = Junge te a nostre equipa e pulsa le frontieras del cosas possibile, sin compromitter lo que es importante.
 m24-about-see-open-positions = Vide le postos disponibile
