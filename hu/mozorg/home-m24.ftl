@@ -48,6 +48,7 @@ m24-home-donate = Adományozás
 ## AI gallery
 
 m24-home-tag-product = Termék
+m24-home-tag-project = Projekt
 m24-home-tag-program = Program lehetőségre
 m24-home-tag-event = Esemény
 m24-home-read-more = Bővebben
