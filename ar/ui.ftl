@@ -20,6 +20,8 @@ ui-show-all = عرض الكل
 ui-hide-all = إخفاء الكل
 ui-learn-more = اطّلع على المزيد
 ui-view = عرض
+ui-pause-animation = إيقاف الرسوم المتحركة مؤقتًا
+ui-play-animation = تشغيل الرسوم المتحركة
 
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = الترويج
