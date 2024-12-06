@@ -40,6 +40,14 @@ m24-home-get-started = Prědne kšace
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Twaŕce
+m24-home-mozilla-builders = Twaŕce { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
+m24-home-can-ai-be = Móžo KI dowěry gódna byś?
 m24-home-watch-now = Něnto se woglědaś
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
