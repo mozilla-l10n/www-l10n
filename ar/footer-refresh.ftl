@@ -40,3 +40,5 @@ footer-refresh-websites-legal = الشؤون القانونية
 footer-refresh-community-participation-guidelines = التعليمات التوجيهية للمشاركة المجتمعية
 footer-refresh-about-this-site = نبذة عن هذا الموقع
 footer-refresh-language = اللغة
+footer-refresh-primary-nav-aria-label = التذييل الرئيسي
+footer-refresh-secondary-nav-aria-label = التذييل الثانوي

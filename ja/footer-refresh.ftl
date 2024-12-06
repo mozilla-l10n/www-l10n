@@ -40,3 +40,5 @@ footer-refresh-websites-legal = 法的情報
 footer-refresh-community-participation-guidelines = コミュニティ参加ガイドライン
 footer-refresh-about-this-site = このサイトについて
 footer-refresh-language = 言語
+footer-refresh-primary-nav-aria-label = フッタープライマリ
+footer-refresh-secondary-nav-aria-label = フッターセカンダリ

@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Undang-undang
 footer-refresh-community-participation-guidelines = Garis Panduan Penyertaan Komuniti
 footer-refresh-about-this-site = Mengenai laman ini
 footer-refresh-language = Bahasa
+footer-refresh-primary-nav-aria-label = Footer utama
+footer-refresh-secondary-nav-aria-label = Footer sekunder
