@@ -62,8 +62,8 @@ m24-about-alt-conversation = Empleado de { -brand-name-mozilla } en medio de una
 m24-about-alt-drinking-coffee = Empleado de { -brand-name-mozilla } tomando café.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Empleados de { -brand-name-mozilla } colaborando.
-m24-about-join-us-and = Unite y marcá la diferencia
-m24-about-join-our-team = Únete a nuestro equipo y supera los límites de lo posible sin comprometer lo que importa.
+m24-about-join-us-and = Unite y hacé la diferencia
+m24-about-join-our-team = Unite a nuestro equipo y superá los límites de lo posible sin comprometer lo que importa.
 m24-about-see-open-positions = Ver puestos abiertos
 
 ## Community
