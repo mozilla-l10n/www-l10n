@@ -49,5 +49,6 @@ vpn-landing-see-all-features = Wšykne funkcije pokazaś
 vpn-landing-fram-a-brand-you-can-trust = Wót marki, kótarejž móžośo dowěriś
 vpn-landing-one-subscription-for-all-your = Jaden abonement za wše waše rědy
 vpn-landing-learn-more-from-our-experts = Wukniśo wěcej wót našych ekspertow
+vpn-landing-do-you-need-a-vpn-at-home = Trjebaśo VPN doma? How jo 5 pśicynow, cogoždla wy mógał jen trjebaś.
 vpn-landing-what-is-an-ip-address = Co jo IP-adresa?
 vpn-landing-see-more-resources = Dalšne resurse pokazaś

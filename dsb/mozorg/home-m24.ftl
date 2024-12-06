@@ -35,9 +35,25 @@ m24-home-donate-your-voice = Pósććo swój głos
 ## Media Springboard
 
 m24-home-type = Typ
+m24-home-author = Awtor
+m24-home-topic = Tema
+m24-home-intro = Zapokazanje
+m24-home-tag-article = Nastawk
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Wideo
+m24-home-topic-news = Nowosći
+m24-home-topic-ai = Kumštna inteligenca
+m24-home-topic-ps = Priwatnosć a wěstota
 
 ## Showcase
 
+m24-home-rise25-awards = Myta { -brand-name-rise25 }
 
 ## Issues
 
+m24-home-privacy-not-included = *Priwatnosć njejo zapśimjona
+m24-home-pni-search-now = Něnto pytaś
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Słuchajśo něnto
