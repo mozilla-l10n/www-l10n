@@ -31,15 +31,18 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Darće powšitkownosći wužitnej organizaciji { -brand-name-mozilla }
 m24-home-donate = Darić
 
 ## AI gallery
 
 m24-home-tag-product = Produkt
+m24-home-tag-project = Projekt
 m24-home-tag-program = Program
 m24-home-tag-event = Podawk
 m24-home-read-more = Čitajće wjace
 m24-home-get-started = Prěnje kroki
+m24-home-join-the-movement = Přidružće so hibanju:<br> KI za ludźi
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
