@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-support-ethical = Sokonglah AI yang beretika dan privasi internet — <strong><a { $donate }>derma hari ini!</a></strong>
+m24-pencil-banner-donate-by = Derma kepada { -brand-name-mozilla } sebelum 31 Disember —<strong><a { $donate }>Derma ♥</a></strong>
