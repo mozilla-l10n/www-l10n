@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Legal
 footer-refresh-community-participation-guidelines = Pautas para la participación en la comunidad
 footer-refresh-about-this-site = Acerca de este sitio
+footer-refresh-all-languages = Todos los idiomas
 footer-refresh-language = Idioma
+footer-refresh-primary-nav-aria-label = Pie de página principal
+footer-refresh-secondary-nav-aria-label = Pie de página secundario
