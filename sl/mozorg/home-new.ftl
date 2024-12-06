@@ -31,10 +31,12 @@ home-join-us-in-shaping = Pridružite se nam pri oblikovanju zaupanja vredne ume
 home-work-on-ai = { -brand-name-mozilla } se z umetno inteligenco ne srečuje prvič – dolga leta že financiramo, soustvarjamo in zagovarjamo UI, ki je odprta, poštena in razvita odgovorno. Osredotočamo se na ustvarjanje UI, ki bi služila ljudem, bila transparentna in služila javnemu dobru, ne ciljem velikih korporacij.
 home-read-more = Preberite več
 home-so-what-is-mozilla = Kaj je torej { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = V svojem jedru je { -brand-name-mozilla } aktivistična organizacija pod vodstvom { -brand-name-mozilla-foundation(sklon: "rodilnik") }, ki spreminja svet z najrazličnejšimi podvigi, kot so { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> in <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čem smo drugačni? Vodi nas poslanstvo, to pa pomeni, da se svobodno odločamo na podlagi tega, kaj je najboljše za internet in za vse njegove uporabnike, ne pa na podlagi zahtev delničarjev – pravzaprav teh sploh nimamo.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = V svojem jedru je { -brand-name-mozilla } aktivistična organizacija pod vodstvom { -brand-name-mozilla-foundation(sklon: "rodilnik") }, ki spreminja svet z najrazličnejšimi podvigi, kot so { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> in <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čem smo drugačni? Vodi nas poslanstvo, to pa pomeni, da se svobodno odločamo na podlagi tega, kaj je najboljše za internet in za vse njegove uporabnike, ne pa na podlagi zahtev delničarjev – pravzaprav teh sploh nimamo.
+home-at-its-core-v2 = V svojem jedru je { -brand-name-mozilla } aktivistična organizacija pod vodstvom { -brand-name-mozilla-foundation(sklon: "rodilnik") }, ki spreminja svet z najrazličnejšimi podvigi, kot so { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> in <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. V čem smo drugačni? Vodi nas poslanstvo, to pa pomeni, da se svobodno odločamo na podlagi tega, kaj je najboljše za internet in za vse njegove uporabnike, ne pa na podlagi zahtev delničarjev – pravzaprav teh sploh nimamo.
 home-learn-about-mofo = Več o { -brand-name-mozilla-foundation }
 home-join-the-fight = Pridružite se boju za zdrav internet
 home-your-voice-your-code = Vaš glas. Vaša koda. Vaše zamisli. K { -brand-name-mozilla(sklon: "dajalnik") } lahko prispevate dobesedno na tisoče načinov.
@@ -44,8 +46,6 @@ home-the-mozilla-project = Projekt { -brand-name-mozilla } se je začel v San Fr
 home-eventually-the-open = Sčasoma se je iz odprtokodnega projekta { -brand-name-mozilla } rodila izjemno priljubljena prva različica { -brand-name-firefox(sklon: "rodilnik") }.
 home-today-mozilla-continues = Danes { -brand-name-mozilla } nadaljuje svoje gibanje za boljši internet z milijoni dejavnih članov po vsem svetu, ki se zavzemajo za etično tehnologijo, zaupanja vredno umetno inteligenco in ustvarjajo izdelke, ki moč odločanja dajejo ljudem.
 home-learn-more-about-mozilla = Spoznajte { -brand-name-mozilla(sklon: "tozilnik") }
-home-get-good-news = { -brand-name-mozilla(sklon: "dajalnik") }ne (dobre) novice
-home-get-news-and-tips = Naročite se na novice in nasvete { -brand-name-mozilla(sklon: "rodilnik") }, ki vam bodo pomagali ostati varni in obveščeni o vsem blagodejnem dogajanju na spletu.
 # VPN Feature
 home-featured-product = Priporočamo
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
