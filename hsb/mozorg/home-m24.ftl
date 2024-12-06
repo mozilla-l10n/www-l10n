@@ -43,9 +43,26 @@ m24-home-get-started = Prěnje kroki
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Twarcy
+m24-home-mozilla-builders = Twarcy { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
+m24-home-can-ai-be = Móže KI dowěry hódna być?
+m24-home-watch-now = Nětko wobhladać
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Darće swój hłós
 
 ## Media Springboard
 
+m24-home-type = Typ
+m24-home-author = Awtor
+m24-home-topic = Tema
+m24-home-intro = Zawjedźenje
+m24-home-tag-article = Nastawk
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Widejo
 m24-home-topic-news = Nowinki
