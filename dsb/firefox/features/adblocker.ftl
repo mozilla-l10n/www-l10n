@@ -17,11 +17,18 @@ features-adblocker-an-ad-blocker-is-a-piece = Blokěrowak wabjenja jo program, z
 features-adblocker-these-ads-might-be-loud = Toś to wabjenje mógło głosne wabjeńske wideo, wabjenje, kótarež wam we webje slědujo, pśeslědowaki, cookieje tśeśich póbitowarjow a wěcej byś. Aby blokěrowak wabjenja wužywał, móžośo za dodankami blokěrowakow wabjenja pytaś, kótarež su za waš wobglědowak k dispoziciji. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na pśikład, ma <a href="{ $addons }">toś tu lisćinu pśizwólonych dodankow blokěrowakow wabjenja</a>. Klikniśo na toś tu lisćinu (abo blokěrowaki wabjenja, kótarež su pśizwólone za waše wobglědowak) a glědajśo, kótary wašym pótrjebnosćam wótpowědujo.
 features-adblocker-find-the-right-ad-blocker = Namakajśo pšawy wabjeński blokěrowak za sebje
 # Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Toś te rozšyrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> ako teke <a { $attrs2 }>Android</a> wjelicnje funkcioněruju.
+# Obsolete string (expires: 2024-11-18)
+# Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
 features-adblocker-theres-adblocker-ultimate = Dajo na pśikład <a href="{ $url }">AdBlocker Ultimate</a>, kótaryž kužde wabjenje wótwónoźujo, ale kupce muse glědaś. Někotare z wašych nejlubšych casnikow a magacinow su wótwisne wót wabjenja. Pśewjele luźi, kótarež jich wabjenje blokěruju, mógli je z pśekupowanja wutłocyś.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
 features-adblocker-popup-ads-are-the-worst = Wuskokujuce wabjenje jo nejgórše. Blokěrujśo jo z <a href="{ $url }">blokěrowakami wuskokujucych woknow</a> a njetrjebaśo se wěcej nigda wó gramne wabjenje staraś.
+# Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
 features-adblocker-one-of-the-most-popular = Jaden z woblubowanych wabjeńskich blokěrowakow za { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } jo <a href="{ $url }">AdBlock</a>. Wužywajśo jen, aby wabjenje na { -brand-name-facebook }, { -brand-name-youtube } a { -brand-name-hulu } blokěrował.

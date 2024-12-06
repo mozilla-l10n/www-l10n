@@ -50,6 +50,9 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ześěgnuś
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Cytajśo wěcej wó <a { $attrs }>wózjawjeńskem cyklusu { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Cytajśo systemowe pominanja
 firefox-all-release-notes = Wersijowe informacije
 firefox-all-source-code = Žrědłowy kod
@@ -63,6 +66,8 @@ firefox-all-test-your-sites-against = Testujśo planowane funkcije wobglědowaka
 firefox-all-count-on-stability-and = Spušććo se na stabilnosć a lažke wužywanje z toś tym wobglědowakom { -brand-name-firefox } za pśedewześa.
 firefox-all-windows-installers-for = Instalěrowaki Windows za IT pśedewześow, kótarež konfiguraciju, pśewóstajenje a zastojanje { -brand-name-firefox-browser } wólažcuju.
 firefox-all-arm64-installers = Instalěrowaki ta ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Instalaciske programy ARM64/AArch64 su za PC Windows a Linux optiměrowane.
+firefox-all-testflight = Registrěrujśo se, aby { -brand-name-firefox } za iOS z TestFlight testował
 firefox-all-product-send-link = Sćelśo swójomu telefonoju ześěgnjeński wótkaz
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
