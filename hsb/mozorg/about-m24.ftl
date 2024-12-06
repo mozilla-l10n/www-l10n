@@ -43,10 +43,13 @@ m24-about-chicago = Předewzaćel z Chicaga.
 ## Showcase
 
 m24-about-lets-build-a = Twarmy fairniši přichod
+m24-about-see-how-were = Hladajće, kak wšelakoru, inkluziwnu a přistupnu wokolinu online za wšěch spěchujemy.
 m24-about-read-about-our = Čitajće wo našim zawjazku
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Dowěry hódna KI, { -brand-name-common-voice }, Federated Learnings.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Přistajeny { -brand-name-mozilla } wosrjedź konwersacije.
 # Used as an accessible text alternative for an image
