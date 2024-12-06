@@ -32,6 +32,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 ## Donate
 
 m24-home-donate-to-the = Darće powšitkownosći wužitnej organizaciji { -brand-name-mozilla }
+m24-home-were-proudly-nonprofit = Smy z hordosću powšitkownosći wužitni. Dariće dźensa na { -brand-name-mozilla }?
 m24-home-donate = Darić
 
 ## AI gallery
@@ -71,6 +72,9 @@ m24-home-tag-video = Widejo
 m24-home-topic-news = Nowinki
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Hłowne nadpismo: Wy, KI a internet – što so woprawdźe stawa?
+m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
 
 ## Showcase
 
