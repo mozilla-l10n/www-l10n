@@ -75,9 +75,18 @@ m24-home-topic-ps = Priwatnosć a wěstota
 ## Showcase
 
 m24-home-rise25-awards = Myta { -brand-name-rise25 }
+m24-home-watch-the-award = Wobhladajće sej spožčenje myta
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Hordy nošer myta na { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Sebjewědomy smějkotacy so rěčnik na { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Wjesoły nošer myta na { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Inteligentne graty z warnowanskim symbolom.
 m24-home-privacy-not-included = *Priwatnosć njeje zapřijata
 m24-home-pni-search-now = Nětko pytać
 # Used as an accessible text alternative for an image
