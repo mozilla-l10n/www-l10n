@@ -51,6 +51,10 @@ firefox-all-microsoft-store-installers = Microsoft Store
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } sćahnyć
 # Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Smy w přechadnej periodźe mjez hłownymaj wersijomaj ESR { $esr_next_major } a { $esr_current_major }.
+# Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Čitajće wjace wo <a { $attrs }>wozjewjenskim cyklusu { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Čitajće systemowe žadanja
@@ -93,3 +97,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ESR 115 sćahnyć
+firefox-all-note-unsupported = Kedźbu: Jeli Windows 7, Windows 8, Windows 8.1 abo macOS 10.12, 10.13 BO 10.14, sćehńće prošu ESR 115 město { -brand-name-firefox }.

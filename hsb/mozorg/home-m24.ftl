@@ -42,6 +42,7 @@ m24-home-read-more = Čitajće wjace
 m24-home-get-started = Prěnje kroki
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
+m24-home-llamafile = { -brand-name-llamafile }
 
 ## Media Springboard
 
