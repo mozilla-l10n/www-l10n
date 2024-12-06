@@ -33,6 +33,7 @@ m24-home-in-a-world = Em um mundo onde a inovação em inteligência artificial 
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Doe sua voz para tornar a tecnologia de voz mais inclusiva e acessível para todos.
 m24-home-donate-your-voice = Doe sua voz
 
 ## Media Springboard
