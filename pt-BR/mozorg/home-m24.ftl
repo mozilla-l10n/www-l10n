@@ -8,6 +8,7 @@
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 
 ## Products
 
