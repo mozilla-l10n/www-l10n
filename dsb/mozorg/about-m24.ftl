@@ -43,10 +43,13 @@ m24-about-chicago = Pśedewześaŕ z Chicaga.
 ## Showcase
 
 m24-about-lets-build-a = Twaŕmy fairnjejšy pśichod
+m24-about-see-how-were = Glědajśo, kak wjeleraku, inkluziwnu a pśistupnu wokolinu online za wše spěchujomy.
 m24-about-read-about-our = Cytajśo wó našom zawězku
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Pśistajony { -brand-name-mozilla } wesrjejź konwersacije.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Pśistajony { -brand-name-mozilla }, kótaryž kafej pijo.
 # Used as an accessible text alternative for an image
