@@ -18,11 +18,7 @@ installer-help-action-choose = აირჩიეთ ქვემოთ ჩა�
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = გადმოწერეთ უახლესი. ავტომატური პირადულობა უზრუნველყოფილია. ჩამოტვირთეთ { -brand-name-firefox } { $trackers }-ზე მეტი მეთვალყურის შესაზღუდად.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = გადმოწერეთ უახლესი. პირადულობის თავისთავადი დაცვით. ჩამოტვირთეთ { -brand-name-firefox-browser } და შეზღუდეთ { $trackers }-ზე მეტი მეთვალყურე.
+installer-help-firefox-release-desc-v2 = გადმოწერეთ უახლესი. პირადულობა თავისთავადაა უზრუნველყოფილი. ჩამოტვირთეთ { -brand-name-firefox } და შეზღუდეთ { $trackers }-ზე მეტი მეთვალყურე.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = გამოცადეთ უახლესი შესაძლებლობები წინასწარი გამოშვებების ყველაზე მდგრად ანაწყობზე.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
