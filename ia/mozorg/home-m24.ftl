@@ -30,8 +30,11 @@ m24-home-go-chaosfree-with = Simplifica tu vita con un app pro tote tu emails, a
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Individua false recensiones, mal productos e venditores non digne de fide.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Salva le melior contento de internet sur ulle apparato, perque qui ha tempore pro leger omne cosa ora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Mantene private tu position e tu aventuras online, diffunde como un local, ubique.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Discoperi si tu informationes personal es a risco e bloca los como un experto.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
