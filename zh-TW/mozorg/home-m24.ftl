@@ -58,7 +58,7 @@ m24-home-our-mission-is = 我們的使命是讓人們更簡單就能打造、協
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } 圖示。
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = 使用 { -brand-name-llamafile } 在您的電腦上輕鬆執行大型語言模型 LLM — 不需安裝就能將資料安全地存在裝置上。
+m24-home-run-large-language = 透過 { -brand-name-llamafile } 在您的電腦上輕鬆執行大型語言模型（LLM）— 無需安裝，您的資料也會安全地保留在您的裝置內。
 m24-home-alt-builders = 建設者
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者
 m24-home-builders-helps-independent = Builders 透過量身定做的合作、程式與社群合作幫助獨立的開發者打造革命性的開放原始碼 AI 專案。
@@ -93,11 +93,11 @@ m24-home-topic-ai = 人工智慧
 m24-home-topic-ps = 隱私權與安全性
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = 標題：你、AI 與網際網路 — 到底發生什麼事？
-m24-home-headline-you-ai-v2 = 您、AI 與網際網路到底發生了什麼事
+m24-home-headline-you-ai-v2 = 你、AI 與網際網路 — 到底發生什麼事？
 m24-home-introducing-anonym = 隆重推出 { -brand-name-anonym }：提升數位廣告產業的隱私保護標準。
 m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們的共同責任。
 m24-home-from-hollywood-to = 從好萊塢到嘻哈界，藝人們正在討論 AI 著作利用授權問題。
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 會透過全新系列紀實「{ -brand-name-firefox } 呈獻」來慶祝取得傑出成就的創作者。
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 透過全新系列紀錄片《{ -brand-name-firefox } Presents》來慶祝取得傑出成就的創作者。
 m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。Brickett Todd 與語言社群負責人討論如何使用自己的語言與方言資料，來開發語音 AI 模型。
 m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗中測試新技術的負責人的方式是什麼布里奇特 托德探索如何讓未經驗證的 AI 系統一推出就影響數以百萬計的人們的公共生活。
 m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長，擔心的家長該怎麼辦？
