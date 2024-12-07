@@ -62,6 +62,8 @@ m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Dona tu voce
