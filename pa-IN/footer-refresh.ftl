@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = ਕੂਕੀਜ਼
 footer-refresh-websites-legal = ਕਨੂੰਨੀ
 footer-refresh-community-participation-guidelines = ਕਮਿਊਨਟੀ ਹਿੱਸਾ ਲੈਣ ਲਈ ਸੇਧਾਂ
 footer-refresh-about-this-site = ਇਸ ਸਾਈਟ ਬਾਰੇ
+footer-refresh-all-languages = ਸਭ ਭਾਸ਼ਾਵਾਂ
 footer-refresh-language = ਭਾਸ਼ਾ
+footer-refresh-primary-nav-aria-label = ਫੁੱਟਰ ਪ੍ਰਾਇਮਰੀ
+footer-refresh-secondary-nav-aria-label = ਫੁੱਟਰ ਸੈਕੰਡਰੀ
