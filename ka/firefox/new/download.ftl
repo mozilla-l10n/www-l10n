@@ -35,7 +35,7 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტ�
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = თქვენი ჩამოტვირთვა შეწყდა. მაგრამ ჯერ ყველაფერი არაა დაკარგული.
 firefox-new-download-almost-there = თითქმის მზადაა!
-firefox-new-download-select-linux = აირჩიეთ ჩამოტვირთვის ვარიანტი ქვემოთ
+firefox-new-download-select-linux = მიუთითეთ ჩამოტვირთვის ასარჩევი ქვემოთ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = გთხოვთ, { -brand-name-firefox }-ის დასაყენებლად მიჰყვეთ <a href="{ $url }">ამ მითითებებს</a>.

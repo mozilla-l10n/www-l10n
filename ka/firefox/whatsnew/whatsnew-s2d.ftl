@@ -13,4 +13,4 @@ whatsnew-s2d-you-got-it-get-firefox-for = გექნებათ. გადმ
 whatsnew-s2d-send-firefox-to-your-phone = გააგზავნეთ { -brand-name-firefox } თქვენს ტელეფონზე<br> ინტერნეტში მოხერხებულად სამოგზაუროდ.
 whatsnew-s2d-download-firefox-for-your = ჩამოტვირთეთ { -brand-name-firefox } თქვენს ტელეფონსა თუ პლანშეტზე.
 # An accessible label for a QR code image
-whatsnew-s2d-qr-code-alt = QR-კოდის წაკითხვა
+whatsnew-s2d-qr-code-alt = გადაუღეთ QR-კოდს
