@@ -36,18 +36,25 @@ m24-home-keep-your-location = Mantene private tu position e tu aventuras online,
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Discoperi si tu informationes personal es a risco e bloca los como un experto.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Usa alias pro tu email e numero de telephono assi tu solo obtene le messages que tu vole.
 
 ## Donate
 
+m24-home-donate-to-the = Dona al organisation non-lucrative { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } crea un movimento pro revindicar internet. Insimul nos pote construer un futur ubi nostre confidentialitate es protegite, le intelligentia artificial es digne de fide e companias technologic irresponsabile se tene responsabile. Ma isto es solo possibile si nos lo face insimul.
+m24-home-were-proudly-nonprofit = Nos es un organisation orgoliosemente non-lucrative. Vole tu donar a { -brand-name-mozilla } hodie?
 m24-home-donate = Donar
 
 ## AI gallery
 
 m24-home-tag-product = Producto
+m24-home-tag-project = Projecto
 m24-home-tag-program = Programma
 m24-home-tag-event = Evento
 m24-home-read-more = Leger plus
 m24-home-get-started = Comenciar
+m24-home-join-the-movement = Inscribe te al movimento:<br> IA pro le personas
+m24-home-our-mission-is = Nostre mission es de render facile pro le personas construer con, e collaborar sur le IA digne de fide e open-source.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
