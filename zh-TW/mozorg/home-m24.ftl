@@ -10,7 +10,7 @@ m24-home-page-title = 為眾人，而非為利益運作的網際網路 — { -br
 m24-home-page-title-v2 = { -brand-name-mozilla } — 為眾人，而非為利益運作的網際網路
 # HTML page description
 m24-home-page-desc = 您知道嗎？{ -brand-name-firefox } 的開發者 { -brand-name-mozilla } 持續為了保護網際網路成為全球的公眾資源、維持開放，讓任何人都可使用而奮鬥著。
-m24-home-page-desc-v2 = 我們正在努力將網際網路的控制權交還給使用者。
+m24-home-page-desc-v2 = 我們正努力將網際網路的控制權交還給使用者。
 
 ## Intro
 
@@ -21,10 +21,10 @@ m24-home-learn-about-us = 了解我們
 ## Products
 
 m24-home-love-the-internet = 再次愛上網路
-m24-home-break-free-from = 擺脫大型科技公司的束縛 — 我們的產品讓您可自行控制更安全、更有隱私的上網體驗。
+m24-home-break-free-from = 打破大型科技公司的束縛 — 我們的產品讓您可自行控制上網體驗，讓上網更安全、更有隱私。
 m24-home-explore-our-products = 探索我們的產品
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = 獲得黃金標準的上網速度、隱私與控制權。
+m24-home-get-the-gold = 獲得上網速度、隱私權與控制權的黃金標準。
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = 使用單一程式收發郵件、管理行事曆與聯絡人，簡化您的生活。
 m24-home-fakespot = { -brand-name-fakespot }
@@ -32,7 +32,7 @@ m24-home-spot-fake-reviews = 揪出假評論、不良產品和不可信的賣家
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = 現在誰還有時間閱讀？先把網路上最棒的內容存下來再說，之後在任何裝置都能閱讀。
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = 將您的所在位置與線上探險紀錄保持隱私 — 隨時隨地像本地人一樣串流。
+m24-home-keep-your-location = 讓您的所在位置與網路探險紀錄保持隱私 — 隨時隨地都跟在地使用者一樣觀賞串流影音。
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 若您的個人資訊面臨風險時取得提示並像專業人士一樣鎖定起來。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
