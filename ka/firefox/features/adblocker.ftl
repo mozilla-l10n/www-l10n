@@ -16,14 +16,14 @@ features-adblocker-an-ad-blocker-is-a-piece = რეკლამების შ
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალის მდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად შეგიძლიათ მოიძიოთ შესაბამისი დამატება თქვენი ბრაუზერისთვის. მაგალითად <a href="{ $firefox }">{ -brand-name-firefox }-ს</a> აქვს <a href="{ $addons }">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის განკუთვნილ რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რაც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
 features-adblocker-find-the-right-ad-blocker = მონახეთ რეკლამების თქვენთვის შესაფერისი შემზღუდავი
-features-adblocker-there-are-scores-of-content = უამრავი შიგთავსის შემზღუდავია, თუმცა გთავაზობთ რამდენიმე ფანტასტიკურ საშუალებას { -brand-name-mozilla }-ს მიერ…
+features-adblocker-there-are-scores-of-content = უამრავი შიგთავსის შემზღუდავი არსებობს, მაგრამ გვსურს შემოგთავაზოთ რამდენიმე გასაოცარი საშუალება, რომელსაც ზედამხედველობს { -brand-name-mozilla }…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
-features-adblocker-considered-by-many-to-be-the = ბევრის აზრით, სარეკლამო ბლოკატორების ოქროს სტანდარტად, <a { $attrs }>uBlock Origin</a> ცნობილია თავისი მოქმედებითა და შედეგიანობით. მეტად მორგება, თუმცა ასევე ბრწყინვალედ მუშაობს „თავის გარეშე“.
+features-adblocker-considered-by-many-to-be-the = ბევრის აზრით სარეკლამო შემზღუდავების ოქროს შუალედი, <a { $attrs }>uBlock Origin</a>, სახელგანთქმული თავისი წონასწორობით შედეგიანობასა და სისწრაფეს შორის. მეტად ადვილი მოსარგები, რომელიც ისედაც მშვენივრად მუშაობს – „ხელშეუხებლადაც“.
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> აფერხებს რეკლამებს. იგი ზღუდავს რეკლამებს ინტერნეტში, სოციალურ ქსელებში, მომაბეზრებელ ამომხტარ ფანჯრებსაც კი (თუმცა, თუ ამომხტომი ფანჯრების დათრგუნვა გსურთ, <a { $attrs2 }>Popup Blocker</a>“ შეგიძლიათ გამოიყენოთ ).
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> აფერხებს რეკლამებს ყველგან. იგი ზღუდავს რეკლამებს ინტერნეტში, სოციალურ ქსელებში, მათ შორის მომაბეზრებელ ამომხტარ ფანჯრებსაც კი (მიუხედავად ამისა, თუ ამომხტომი ფანჯრების არიდება გსურთ, <a { $attrs2 }>Popup Blocker</a> უფრო გამოგადგებათ).
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> კიდევ ერთი შესანიშნავი არჩევანია, რომელიც არა მხოლოდ ზღუდავს რეკლამებს, არამედ უზრუნველყოფს თვალთვალის საწინააღმდეგო დამატებით უპირატესობებსაც.
