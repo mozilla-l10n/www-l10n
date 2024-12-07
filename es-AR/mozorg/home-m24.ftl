@@ -60,12 +60,12 @@ m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Ejecutá grandes modelos de idioma (LLM) fácilmente en tu computadora con { -brand-name-llamafile } — no se necesita instalación y tus datos se mantienen seguros en tu dispositivo.
 m24-home-alt-builders = Constructores
-m24-home-mozilla-builders = Creadores de { -brand-name-mozilla }
-m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad personalizadas.
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad a medida.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Encuentre el LLM adecuado para sus necesidades, caso de uso y datos.
+m24-home-find-the-just = Encontrá el LLM adecuado para tus necesidades, caso de uso y datos.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
 m24-home-can-ai-be = ¿Puede la IA ser confiable?
@@ -94,10 +94,10 @@ m24-home-topic-ps = Privacidad y seguridad
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Titular: Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
 m24-home-headline-you-ai-v2 = Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
-m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: Elevando el nivel de la publicidad digital que preserva la privacidad.
+m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: Elevando la vara de la publicidad digital que preserva la privacidad.
 m24-home-keeping-genai-technologies = Mantener las tecnologías de GenAI seguras es una responsabilidad compartida.
 m24-home-from-hollywood-to = Desde Hollywood al hip hop, los artistas están negociando el consentimiento de la IA.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } homenajea a los creadores con la nueva serie de documentales "{ -brand-name-firefox } Presents"
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } homenajea a los creadores innovadores en la nueva serie de documentales “{ -brand-name-firefox } Presenta”.
 m24-home-big-techs-power = El poder de las grandes tecnológicas sobre el idioma significa poder sobre las personas. Bridget Todd habla con líderes de la comunidad lingüística allanando el camino para la IA de voz en sus propios idiomas y dialectos.
 m24-home-why-does-it = ¿Por qué parece tan a menudo que somos parte de un experimento masivo de IA? ¿Cuál es la forma responsable de probar las nuevas tecnologías? Bridget Todd explora lo que significa vivir con sistemas de IA no probados que afectan a millones de personas a medida que se implementan en la vida pública.
 m24-home-kids-are-growing = Los niños están creciendo en un mundo demasiado en línea. ¿Qué debe hacer un padre preocupado?
