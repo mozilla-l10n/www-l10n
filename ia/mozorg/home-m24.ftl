@@ -58,15 +58,24 @@ m24-home-our-mission-is = Nostre mission es de render facile pro le personas con
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Constructores
 m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
+m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Trova le juste GML, caso de uso e datos pro tu besonios.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
+m24-home-can-ai-be = Pote io IA esser digne de fide?
+m24-home-in-a-world = In un mundo ubi le innovation de IA es ducite per poc electos, nos risca le monopolisation de iste technologia.
 m24-home-watch-now = Mira ora
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Parlator sur scena con plure logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Ha tu un interprisa in phase initial? Presenta tu interprisa a { -brand-name-mozilla-ventures } e assecura financiamento pro ducer cambiamento positive pro le futuro de IA e internet.
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Dona tu voce pro render plus inclusive e accessibile pro totes le technologia vocal.
 m24-home-donate-your-voice = Dona tu voce
 
 ## Media Springboard
