@@ -47,7 +47,7 @@ firefox-all-64-bit-installers = 64-ბიტიანის დასაყე�
 firefox-all-choose-a-64-bit-installer = აირჩიეთ 64-ბიტიანის დასაყენებელი 64-ბიტიანი პროცესორების მქონე კომპიუტერისთვის, რომელიც საშუალებას აძლევს ცალკეულ პროგრამებს, გამოიყენოს მეტი ოპერატიული — განსაკუთრებით მნიშვნელოვანია თამაშებსა და სხვა დამხმარე პროგრამებთან სამუშაოდ.
 firefox-all-32-bit-installers = 32-ბიტიანის დასაყენებელი
 firefox-all-microsoft-store-installers = Microsoft Store
-firefox-all-choose-a-microsoft-store-installer = ეს პარამეტრი გახსნის { -brand-name-firefox }-ის პროდუქტის გვერდს Microsoft Store-ის ვებპორტალზე. თუ თქვენ გიყენიათ Windows 10 ან Windows 11, გექნებათ შესაძლებლობა ამ გვერდზე გახსნათ Microsoft-ის მაღაზია და დააყენოთ { -brand-name-firefox }. თუ აყენებთ Microsoft Store-იდან, { -brand-name-firefox }-ის განახლებებს ასევე უზრუნველყოფს Microsoft Store. მცირე განსხვავებებია { -brand-name-firefox }-ის ქცევებსა და შესაძლებლობებში, Microsoft Store-იდან დაყენებისას, მაგრამ მომხმარებელთა უმრავლესობისთვის ეს განსხვავებები შესამჩნევი არაა.
+firefox-all-choose-a-microsoft-store-installer = ამის არჩევით გაისხნება { -brand-name-firefox } გვერდი საიტზე Microsoft Store. თუ გიყენიათ Windows 10 ან Windows 11, საშუალება გექნებათ ამ გვერდიდანვე გახსნათ Microsoft-ის მაღაზია და დააყენოთ { -brand-name-firefox }. როცა Microsoft Store გამოიყენება, განახლებებს, რომელთაც იღებს { -brand-name-firefox }, აგრეთვე უზრუნველყოფს Microsoft Store. { -brand-name-firefox } შეიძლება მცირედ განსხვავდებოდეს შესაძლებლობებით, როცა დაყენების წყარო Microsoft Store არის, მაგრამ მომხმარებელთა უმეტესობისთვის ეს სხვაობა შესამჩნევი არაა.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = ჩამოტვირთეთ { $esr_version }
