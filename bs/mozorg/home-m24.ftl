@@ -48,6 +48,7 @@ m24-home-donate = Donirajte
 ## AI gallery
 
 m24-home-tag-product = Proizvod
+m24-home-tag-project = Projekt
 m24-home-tag-program = Program
 m24-home-tag-event = Događaj
 m24-home-read-more = Pročitajte više
@@ -90,7 +91,9 @@ m24-home-tag-video = Video
 m24-home-topic-news = Vijesti
 m24-home-topic-ai = Umjetna inteligencija
 m24-home-topic-ps = Privatnost i sigurnost
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Naslov: Vi, AI i internet – šta se zapravo dešava?
+m24-home-headline-you-ai-v2 = Vi, AI i internet – šta se zapravo dešava?
 m24-home-introducing-anonym = Predstavljamo { -brand-name-anonym }: Podizanje granice za digitalno oglašavanje koje čuva privatnost.
 m24-home-keeping-genai-technologies = Održavanje sigurnosti GenAI tehnologija je zajednička odgovornost.
 m24-home-from-hollywood-to = Od Hollywooda do hip hopa, umjetnici pregovaraju o pristanku na umjetnu inteligenciju.
