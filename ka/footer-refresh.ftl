@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = გაეცანით { -brand-name-firefox }-ის საუკეთესო რჩევებს, მითითებებს და სიახლეებს. ჩვენ გპირდებით, რომ თქვენი ელფოსტის პირადულობასა და დაცულობას შევინარჩუნებთ — საუკეთესოს { -brand-name-firefox }-ისგან პირდაპირ იგზავნება საფოსტო ყუთში.
+footer-refresh-get-the-best = გაეცანით { -brand-name-firefox }-ის საუკეთესო რჩევებს, მითითებებსა და სიახლეებს. ჩვენ გპირდებით, რომ უზრუნველვყოფთ თქვენი ელფოსტის პირადულობასა და დაცულობას — მხოლოდ ყველაფერი რჩეული მოხვდება { -brand-name-firefox }-სგან თქვენს საფოსტო ყუთში.
 footer-refresh-leadership = ხელმძღვანელობა
 footer-refresh-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-ის გამოშვების შენიშვნები
@@ -32,7 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ხელსაწყოები
 footer-refresh-donate = შემოწირულობა
-footer-refresh-visit-mozilla-corporations = გაიცანით <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> არამომგებიან დაწესებულება, რომლის შვილობილიცაა <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations = გაიცანით <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, არამომგებიან დაწესებულება, რომლის შვილობილიცაა <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. შიგთავსი ხელმისაწვდომია <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
 footer-refresh-websites-privacy-notice = საიტის პირადი მონაცემების დაცვის განაცხადი
 footer-refresh-websites-cookies = ფუნთუშები

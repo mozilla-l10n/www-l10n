@@ -53,20 +53,11 @@ vpn-download-faq-working = როგორ გავიგო, რომ VPN მ
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } აჩვენებს მისი მიმდინარე მდგომარეობის ვიზუალურ მაჩვენებლებს, როგორც ხელსაწყოთა ზოლზე, ასევე პროგრამის მთავარ ეკრანზე, რაც გაადვილებს თქვენი მოქმედებების დადგენას, დაცულია თუ არა ინტერნეტში. ეს მაჩვენებლები საშუალებას გაძლევთ დაადასტუროთ, როდისაა თქვენი ნავიგაცია პირადი და დაცული. დამატებით, კავშირის დროს, შეგიძლიათ ეწვიოთ <a href="{ $monitor }">https://monitor.mozilla.org/</a> და დაადასტუროთ, არის თუ არა თქვენი IP-მისამართი შენიღბული. ვრცლად იხილეთ <a href="{ $connected }">როგორ გავიგო, არის თუ არა { -brand-name-mozilla-vpn } დაკავშირებული?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } გამოიტანს გარეგნულ მაჩვენებლებს მისი მდგომარეობის შესახებ როგორც ხელსაწყოთა ზოლზე, ასევე პროგრამის მთავარ ეკრანზე, რომ ადვილად დაადგინოთ, თქვენი მოქმედებები ქსელში დაცულია თუ არა. ამ მაჩვენებლებით ზუსტად გეცოდინებათ, პირადულობის ხელშეუხებლად და უსაფრთხოდ გადაადგილდებით თუ არა. გარდა ამისა, როცა მიერთებული იქნებით, შეგიძლიათ ინახულოთ <a href="{ $monitor }">https://monitor.firefox.com/</a> და გაარკვიოთ, შენიღბულია თუ არა თქვენი IP-მისამართი. ვრცლად იხილეთ <a href="{ $connected }">როგორ დავადგინო, რომ { -brand-name-mozilla-vpn } დაკავშირებულია?</a>.
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } გამოსახავს მიმდინარე მდგომარეობის ხილულ მაჩვენებლებს როგორც ხელსაწყოთა ზოლზე, ასევე პროგრამის მთავარ ეკრანზე, რაც გაგიადვილებთ განსაზღვრას, დაცულია თუ არა თქვენი საქმიანობა ინტერნეტში. ეს მაჩვენებლები გიდასტურებთ, რომ მონახულებული გვერდების მონაცემები პირადია და დაცული. გარდა ამისა, კავშირის დროს შეგიძლიათ ეწვიოთ საიტს <a href="{ $monitor }">https://monitor.mozilla.org/</a> და გადაამოწმოთ, არის თუ არა თქვენი IP-მისამართი შენიღბული. ვრცლად იხილეთ <a href="{ $connected }">როგორ გავიგო, არის თუ არა { -brand-name-mozilla-vpn } დაკავშირებული?</a>.
 vpn-download-faq-add-device = როგორ დავამატო სხვა მოწყობილობა?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = სხვა მოწყობილობის დამატება ისეთივე ადვილია, როგორიც { -brand-name-mozilla-vpn }-ის პროგრამული უზრუნველყოფის ჩამოტვირთვა და დაყენება, შემდეგ კი ახალ მოწყობილობაზე არსებული { -brand-name-mozilla-account(case: "adj") } შესვლა. ვრცლად იხილეთ, <a href="{ $subscription }">როგორ უნდა დაემატოს მოწყობილობები თქვენს { -brand-name-mozilla-vpn }-გამოწერას</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = სხვა მოწყობილობის დამატება ისეთივე ადვილია, როგორიც { -brand-name-mozilla-vpn }-ის პროგრამული უზრუნველყოფის ჩამოტვირთვა და დაყენება, შემდეგ კი ახალ მოწყობილობაზე არსებული { -brand-name-firefox-account(case: "adj") } შესვლა. ვრცლად იხილეთ, <a href="{ $subscription }">როგორ უნდა დაემატოს მოწყობილობები თქვენს { -brand-name-mozilla-vpn }-გამოწერას</a>.
 vpn-download-faq-best-practices = რომელია საუკეთესო გზა VPN-ის გამოსაყენებლად?
 vpn-download-faq-traffic = თუ თქვენი მიზანია, დაიცვათ ინტერნეტით მიმოცვლილი მონაცემები სისწრაფის შენარჩუნებით, მაშინ ყოველთვის უმჯობესია, აირჩიოთ თქვენს ადგილსამყოფელთან რაც შეიძლება მეტად ახლომდგომი სერვერი. შედეგად გაიზრდება კავშირის საიმედოობაა და სიჩქარეც, ვინაიდან გადაცემულ მონაცემებს არ მოუწევს გზიდან მნიშვნელოვნად გადახვევა დანიშნულების საბოლოო წერტილში მიღწევამდე.
 vpn-download-faq-experience = თუ თქვენი მიზანია, გამოცადოთ ინტერნეტი ისე, როგორც მსოფლიოს სხვა კუთხეში მუშაობას, შეგიძლიათ აირჩიოთ სასურველი ადგილმდებარეობა და ყველა ვებსაიტი, რომელსაც ეწვევით, გამოჩნდება ისე, თითქოს სხვაგან იმყოფებოდეთ.
