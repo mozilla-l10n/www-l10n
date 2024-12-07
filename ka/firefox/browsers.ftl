@@ -10,9 +10,6 @@ firefox-browsers-page-title = ჩამოტვირთეთ { -brand-name-fi
 # HTML page description
 firefox-browsers-page-desc = აირჩიეთ კომპიუტერს, { -brand-name-ios }-სა, { -brand-name-android }-ს შორის ან ნება მოგვეცით, ელფოსტაზევე გამოგიგზავნოთ მობილურზე ჩამოსატვირთი ბმული.
 firefox-browsers-main-heading = { -brand-name-firefox }-ბრაუზერები
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = ისარგებლეთ <strong>ბრაუზერებით</strong> რომელთათვისაც თქვენი პირადულობა უმთავრესია — და მუდამ ასე იქნება
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = ისარგებლეთ ბრაუზერებით, რომელთათვისაც თქვენი პირადულობა უმთავრესია — და <strong>მუდამ</strong> ასე იქნება
 firefox-browsers-desktop = კომპიუტერი

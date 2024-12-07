@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 # Page title
-compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } Microsoft Edge-ის წინააღმდეგ
+compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } თუ Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = გაეცანით { -brand-name-firefox }-ისა და Edge ბრაუზერების შესაძლებლობების, პირადულობისა და მოხერხებულობის შედარებას.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } პირადულობის დაცვას მარტივად და მოსახერხებელს ხდის, რომ არ მოგიწიოთ ფიქრი.

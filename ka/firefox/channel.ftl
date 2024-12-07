@@ -56,4 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = გამოცად�
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = გამოცადეთ { -brand-name-firefox }-ის beta ვერსიები { -brand-name-ios }-ზე { -brand-name-apple }-ის { -brand-name-test-flight } საცდელი პროგრამით.
 firefox-channel-sign-up-now = შექმენით ანგარიში
-firefox-channel-nightly-update-one-or-more-times = შენიშვნა: { -brand-name-firefox-nightly } განახლდება დაახლოებით ერთხელ ან ორჯერ.
+firefox-channel-nightly-update-one-or-more-times = შენიშვნა: { -brand-name-firefox-nightly } ახლდება დღეში ერთხელ ან ორჯერ.
