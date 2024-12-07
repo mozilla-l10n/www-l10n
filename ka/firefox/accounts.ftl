@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = შექმენით { -brand-name-mozilla-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
-# Obsolete string
-firefox-accounts-get-a-firefox-account = შექმენით { -brand-name-firefox-account } – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
-# Obsolete string
-firefox-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-firefox-account } ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
 # HTML page description
-mozilla-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-mozilla-account } ახლავე – ერთი შესვლა – ძალა და პირადულობა ყველგან.
+mozilla-accounts-securely-sync-your = უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით { -brand-name-mozilla-account } ახლავე – ერთი შესვლით – გამგებლობა და პირადულობა ყველგან.
 firefox-accounts-enter-your-email-address = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 firefox-accounts-already-have-an-account = უკვე გაქვთ ანგარიში?
 firefox-accounts-sign-in = შესვლა
-# Obsolete string
-firefox-accounts-already = თქვენ უკვე გაქვთ { -brand-name-firefox-account }. გილოცავთ!
 mozilla-accounts-already = თქვენ უკვე გაქვთ { -brand-name-mozilla-account }. გილოცავთ!
 firefox-accounts-manage = მართეთ თქვენი ანგარიში
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = შედით თქვენს { -brand-name-mozilla-account(case: "ine") }:
-# Obsolete string
-firefox-accounts-sign-in-to = შედით თქვენს { -brand-name-firefox-account(case: "ine") }:
-# Obsolete string
-firefox-accounts-meet-our-family-of = გაეცანით პირადულობის უწინარესობის უზრუნველმყოფი პროდუქტების ჩვენს ნაკრებს.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">გაგზავნეთ ჩანართი</a> სხვა მოწყობილობაზე
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = ეს ყველაფერი მი
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
