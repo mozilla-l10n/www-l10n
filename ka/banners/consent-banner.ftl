@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
-consent-banner-heading = დაგვეხმარეთ თქვენი { -brand-name-mozilla }-ს გაუმჯობესებაში
+consent-banner-heading = დაგვეხმარეთ, რომ კიდევ უფრო მეტად გამოგადგეთ { -brand-name-mozilla }
 consent-banner-body-v2 = ამ საიტის ფუნქციონირებისთვის აუცილებელი ფუნთუშების გარდა, ჩვენ ვითხოვთ თქვენგან ნებართვას, დავაყენოთ რამდენიმე დამატებითი ფუნთუშა, თქვენი საჭიროებების უკეთ გასაგებად და თქვენი გამოცდილების გასაუმჯობესებლად. მშვიდად იყავით – ჩვენ ვაფასებთ თქვენს პირადულობას.
 consent-banner-button-reject = ყველა დამატებით ფუნთუშის უარყოფა
 consent-banner-button-accept = ყველა დამატებითი ფუნთუშის მიღება
