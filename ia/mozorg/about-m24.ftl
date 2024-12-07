@@ -56,6 +56,12 @@ m24-about-read-about-our = Leger re nostre dedication
 
 # Used as an accessible text alternative for an image
 m24-about-alt-trustworthy = IA digne de fide, { -brand-name-common-voice }, apprendimento federate.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Empleato de { -brand-name-mozilla } in le medio de conversation.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Empleato de { -brand-name-mozilla } bibente caffe.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Empleatos de { -brand-name-mozilla } collaborante.
 m24-about-join-us-and = Junge te a nos e face le differentia
 m24-about-join-our-team = Junge te a nostre equipa e pulsa le frontieras del cosas possibile, sin compromitter lo que es importante.
 m24-about-see-open-positions = Vide le postos disponibile
@@ -67,3 +73,5 @@ m24-about-community-love-v2 = Le amor del communitate: nostre fortia motor
 m24-about-community-love = Le amor del communitate: <br> nostre fortia motor
 m24-about-mozilla-is-a = { -brand-name-mozilla } es un communitate mundial de voluntarios passionate, collegas e collaboratores qui produce, protege e forma internet con nos desde le 1998.
 m24-about-from-writing-code = Ab le scriptura de codice e le individuation de bugs al propugnar pro le confidentialitate e mantener internet aperte pro totes, nostre membros del communitate es le spina dorsal de tote lo que nos face.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Persona con un bursa e cordetta pro portabile de { -brand-name-mozilla }.

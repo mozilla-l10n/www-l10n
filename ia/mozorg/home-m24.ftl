@@ -15,13 +15,20 @@ m24-home-page-desc-v2 = Nos labora pro re-poner le controlo de internet in le ma
 ## Intro
 
 m24-home-welcome-to-mozilla = Benvenite a { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = De technologia digne de fide a directivas que defende tu derectos digital, nos te pone prime, sempre.
 m24-home-learn-about-us = Discoperir nos
 
 ## Products
 
+m24-home-love-the-internet = Ama internet de novo
+m24-home-break-free-from = Libera te de Big Tech, nostre productos te pone al commando de un experientia de internet plus secur, plus private.
+m24-home-explore-our-products = Explora nostre productos
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Obtene le standard auree pro navigar con velocitate, confidentialitate e controlo.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Simplifica tu vita con un app pro tote tu emails, agendas e contactos.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Individua false recensiones, mal productos e venditores non digne de fide.
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
