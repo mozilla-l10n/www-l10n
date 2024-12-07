@@ -58,6 +58,7 @@ m24-home-our-mission-is = Nostre mission es de render facile pro le personas con
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
