@@ -20,7 +20,7 @@ m24-home-learn-about-us = Conocenos
 
 ## Products
 
-m24-home-love-the-internet = Me encanta internet de nuevo
+m24-home-love-the-internet = Amá internet de nuevo
 m24-home-break-free-from = Liberate de la gran tecnología: nuestros productos te permiten tener una experiencia de Internet segura y más privada.
 m24-home-explore-our-products = Explorá nuestros productos
 m24-home-firefox = { -brand-name-firefox }
@@ -28,7 +28,7 @@ m24-home-get-the-gold = Obtené el estándar dorado para navegar con velocidad, 
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Simplificá tu vida con una aplicación para todos tus correos electrónicos, calendarios y contactos.
 m24-home-fakespot = { -brand-name-fakespot }
-m24-home-spot-fake-reviews = Detecta comentarios falsos, productos malos y vendedores poco confiables.
+m24-home-spot-fake-reviews = Detectá revisiones falsas, productos malos y vendedores poco confiables.
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Guardá el mejor contenido de Internet en cualquier dispositivo, porque ¿quién tiene tiempo para leer todo ahora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -36,11 +36,11 @@ m24-home-keep-your-location = Mantén la privacidad de tu ubicación y tus avent
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Infórmate si tu información personal está en riesgo y mantenla guardada como un profesional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Oculta tu correo electrónico y número de teléfono para que solo obtengas los mensajes que quieras.
+m24-home-mask-your-email = Enmascará tu correo electrónico y número de teléfono para que solo te lleguen los mensajes que quieras.
 
 ## Donate
 
-m24-home-donate-to-the = Donar a la organización sin fines de lucro { -brand-name-mozilla }
+m24-home-donate-to-the = Doná a la organización sin fines de lucro { -brand-name-mozilla }
 m24-home-mozilla-is-building = { -brand-name-mozilla } está construyendo un movimiento para recuperar Internet. Juntos podemos construir un futuro donde nuestra privacidad esté protegida, la IA sea confiable y las empresas de tecnología irresponsables tengan que rendir cuentas. Pero eso solo es posible si lo hacemos juntos.
 m24-home-were-proudly-nonprofit = Estamos orgullosos de ser una organización sin fines de lucro. ¿Donarías a { -brand-name-mozilla } hoy?
 m24-home-donate = Donar
@@ -51,9 +51,9 @@ m24-home-tag-product = Producto
 m24-home-tag-project = Proyecto
 m24-home-tag-program = Programa
 m24-home-tag-event = Evento
-m24-home-read-more = Lee más
+m24-home-read-more = Leer más
 m24-home-get-started = Comenzar
-m24-home-join-the-movement = Únete al movimiento: <br> IA para la gente
+m24-home-join-the-movement = Unite al movimiento:<br> IA para la gente
 m24-home-our-mission-is = Nuestra misión es facilitar a las personas la creación y la colaboración de una IA confiable y de código abierto.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
