@@ -34,9 +34,9 @@ m24-home-save-the-internets = 現在誰還有時間閱讀？先把網路上最�
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = 讓您的所在位置與網路探險紀錄保持隱私 — 隨時隨地都跟在地使用者一樣觀賞串流影音。
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = 若您的個人資訊面臨風險時取得提示並像專業人士一樣鎖定起來。
+m24-home-get-a-headsup = 當您的個人資訊面臨風險時，接收通知，然後跟專業人士一樣鎖定保護。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼這樣就只收到想要的訊息。
+m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這樣就只會收到想要的訊息。
 
 ## Donate
 
@@ -76,7 +76,7 @@ m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示�
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎？向 { -brand-name-mozilla-ventures } Pitch，並且爭取能對推動 AI 與網際網路的未來發生正面變化的投資。
 m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = 捐出您的聲音讓語音技術更具包容性讓每個人都可使用。
+m24-home-donate-your-voice-to-make = 捐出您的聲音，讓語音技術更具包容性、讓每個人都可使用。
 m24-home-donate-your-voice = 捐出您的聲音
 
 ## Media Springboard
@@ -98,7 +98,7 @@ m24-home-introducing-anonym = 隆重推出 { -brand-name-anonym }：提升數位
 m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們的共同責任。
 m24-home-from-hollywood-to = 從好萊塢到嘻哈界，藝人們正在討論 AI 著作利用授權問題。
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 會透過全新系列紀實「{ -brand-name-firefox } 呈獻」來慶祝取得傑出成就的創作者。
-m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。 Brickett Todd 與語言社群負責人討論如何使用他們自己的語言與方言來開發 AI 語音。
+m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。Brickett Todd 與語言社群負責人討論如何使用自己的語言與方言資料，來開發語音 AI 模型。
 m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗中測試新技術的負責人的方式是什麼布里奇特 托德探索如何讓未經驗證的 AI 系統一推出就影響數以百萬計的人們的公共生活。
 m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長，擔心的家長該怎麼辦？
 
@@ -125,5 +125,5 @@ m24-home-pni-search-now = 立即搜尋
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = 我們得獎的網路廣播 (Podcast) 介紹了致力於讓網際網路更安全、讓 AI 更值得信賴的變革者。
+m24-home-our-multiaward-winning = 我們多次獲獎的 Podcast 介紹了致力讓網際網路更安全、讓 AI 更值得信賴的變革者。
 m24-home-irl-listen-now = 立刻聆聽
