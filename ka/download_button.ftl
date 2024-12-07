@@ -52,10 +52,6 @@ download-a-different-build = ჩამოტვირთეთ სხვა ა�
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = ჩამოტვირთეთ { -brand-name-linux } 32-ბიტიანი
-# Obsolete string
-download-button-linux-64 = ჩამოტვირთეთ { -brand-name-linux } 64-ბიტიანი
 download-button-linux-32-v2 = ჩამოტვირთეთ Linux 32-ბიტიანზე
 download-button-linux-64-v2 = ჩამოტვირთეთ Linux 64-ბიტიანზე
 # Variables

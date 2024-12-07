@@ -129,16 +129,16 @@
 
 ## Anonym
 
--brand-name-anonym = ანონიმური
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
--brand-name-irl-podcast = IRL პოდკასტი
--brand-name-llamafile = ლამაფაილი
--brand-name-lumigator = ლუმიგატორი
+-brand-name-irl-podcast = IRL-პოდკასტი
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice

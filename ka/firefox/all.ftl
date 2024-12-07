@@ -10,17 +10,17 @@ firefox-all-download-the-firefox-v2 = ჩამოტვირთეთ { -brand
 # Obsolete string (expires 2024-10-30)
 firefox-all-download-the-firefox = ჩამოტვირთეთ { -brand-name-firefox-browser } ქართულად და 90-ზე მეტ ენაზე
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = ყველა იმსახურებს ინტერნეტთან წვდომას — თქვენი ენა არასდროს უნდა იყოს ბარიერი. სწორედ ამიტომ — მთელი მსოფლიოდან ერთგული მოხალისეების დახმარებით — ჩვენ { -brand-name-firefox }-ს 90-ზე მეტ ენაზე გავხდით.
+firefox-all-everyone-deserves-access-v2 = ყველა იმსახურებს ინტერნეტთან წვდომას — ენა არ უნდა იქცეს წინაღობად. სწორედ ამიტომ — მთელი მსოფლიოდან ერთგული მოხალისეების დახმარებით — { -brand-name-firefox } შემუშავებულია 90-ზე მეტი ენისთვის.
 # Obsolete string (expires 2024-10-30)
 firefox-all-everyone-deserves-access = ყველა ადამიანის უფლებაა, ჰქონდეს ინტერნეტთან წვდომა — ენა არ უნდა წარმოადგენდეს დაბრკოლებას. სწორედ ამიტომ — ცალკეული მოხალისეების დახმარებით მთელი მსოფლიოდან — ჩვენ შევძელით, რომ { -brand-name-firefox-browser } ხელმისაწვდომი ყოფილიყო 90-ზე მეტ ენაზე.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = წააკითხეთ QR კოდი, რომ მიიღოთ <em>{ $product_name }</em>
 firefox-all-choose-browser = გასაგრძელებლად აირჩიეთ ბრაუზერი
-firefox-all-choose-platform = აირჩიეთ პლატფორმა გასაგრძელებლად
+firefox-all-choose-platform = გასაგრძელებლად აირჩიეთ სისტემა
 firefox-all-choose-language = გასაგრძელებლად აირჩიეთ ენა
 firefox-all-change-browser = აირჩიეთ სხვა პროდუქტი
-firefox-all-change-platform = აირჩიეთ სხვა პლატფორმა
+firefox-all-change-platform = აირჩიეთ სხვა სისტემა
 firefox-all-change-language = სხვა ენის შერჩევა
 # Used as an accessible label for an image that points down
 firefox-all-down-arrow = აირჩიეთ ქვემოთ მოცემული სიიდან
@@ -31,7 +31,7 @@ firefox-all-browser = ბრაუზერი:
 firefox-all-browser-v2 = 1. ბრაუზერი:
 # Obsolete string (expires 2024-10-30)
 firefox-all-platform = პლატფორმა:
-firefox-all-platform-v2 = 2. პლატფორმა:
+firefox-all-platform-v2 = 2. სისტემა:
 # Obsolete string (expires 2024-10-30)
 firefox-all-language = ენა:
 firefox-all-language-v2 = 3. ენა:
