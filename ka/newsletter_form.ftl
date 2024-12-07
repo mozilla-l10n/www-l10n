@@ -15,14 +15,14 @@ newsletter-form-select-language = ენის არჩევა
 newsletter-form-your-email-here = თქვენი ელფოსტა
 newsletter-form-get-firefox-news = { -brand-name-firefox } სიახლეების გამოწერა
 newsletter-form-join-the-community = შემოუერთდით ერთობას
-newsletter-form-sign-up-to-receive = გამოიწერეთ და მიიღეთ ყოველთვიურად { -brand-name-firefox }-ის სიახლეები და ინტერნეტის იმ ტენდენციები, რომლებიც თქვენს ცხოვრებას ინტერნეტში აყალიბებს.
+newsletter-form-sign-up-to-receive = გამოიწერეთ, რომ გაეცნოთ ყოველთვიურად { -brand-name-firefox }-ის სიახლეებსა და ინტერნეტში მიმდინარე მისწრაფებებს, რომლებიც ზემოქმედებს თქვენს ციფრულ ცხოვრებაზე.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = თანახმა ვარ, რომ { -brand-name-mozilla }-მ ჩემი მონაცემები გამოიყენოს <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
-newsletter-form-we-will-only-send-v2 = ჩვენ გამოგიგზავნით მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ ინფორმაციას. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
+newsletter-form-we-will-only-send-v2 = ჩვენ გამოგიგზავნით მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ მასალას. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send = მიიღებთ მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ ინფორმაციას.
-newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ { -brand-name-firefox }-სთან დაკავშირებულ ინფორმაციას გამოგიგზავნით. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
+newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ { -brand-name-firefox }-სთან დაკავშირებულ მასალას გამოგიგზავნით. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
 # Obsolete string (expires: 2024-11-01)
 newsletter-form-we-will-only-send-firefox = ჩვენ მხოლოდ { -brand-name-firefox }-თან დაკავშირებულ ინფორმაციას მოგაწვდით.
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს სიახლეების ცნობარი, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან ჯართის საქაღალდეში.
@@ -39,7 +39,7 @@ newsletter-form-leave-this-field-empty = ამ ველის ცარიე�
 newsletter-form-yes = დიახ
 newsletter-form-no = არა
 # An accessible label used to describe purpose of the form.
-newsletter-form-label = საინფორმაციო ცნობების რეგისტრაციის ფორმა
+newsletter-form-label = სიახლეთა ცნობარის გამოსაწერი კითხვარი
 multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

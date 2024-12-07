@@ -33,13 +33,13 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ხელსაწყოები
 footer-refresh-donate = შემოწირულობა
 footer-refresh-visit-mozilla-corporations = გაიცანით <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, არამომგებიან დაწესებულება, რომლის შვილობილიცაა <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. შიგთავსი ხელმისაწვდომია <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
-footer-refresh-websites-privacy-notice = საიტის პირადი მონაცემების დაცვის განაცხადი
+footer-refresh-portions-of-this-content = შიგთავსის ნაწილები შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. მასალა ვრცელდება <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
+footer-refresh-websites-privacy-notice = საიტის პირადულობის განაცხადი
 footer-refresh-websites-cookies = ფუნთუშები
 footer-refresh-websites-legal = სამართლებრივი საკითხები
 footer-refresh-community-participation-guidelines = გზამკვლევი მონაწილეობისთვის
 footer-refresh-about-this-site = საიტის შესახებ
 footer-refresh-all-languages = ყველა ენა
 footer-refresh-language = ენა
-footer-refresh-primary-nav-aria-label = ქვედა ქვედა კოლონტიტული
-footer-refresh-secondary-nav-aria-label = ქვედა ქვედა კოლონტიტული
+footer-refresh-primary-nav-aria-label = ქვესართი ძირითადი
+footer-refresh-secondary-nav-aria-label = ქვესართი დამატებითი
