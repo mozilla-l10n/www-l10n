@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში იცავს { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ხელმისაწვდომია ყველა მოწყობილობაზე; წაიყოლეთ ჩანართები, ისტორია და სანიშნები. დაგჭირდებათ მხოლოდ <a { $attrs }>{ -brand-name-firefox }-ანგარიში</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ თქვენი ჩანართები, ისტორია და სანიშნები. გესაჭიროებათ მხოლოდ ერთი <a { $attrs }>{ -brand-name-mozilla-account }</a>, რომ მყისიერი წვდომა გქონეთ სინქრონიზაციასა და სხვა { -brand-name-mozilla }-პროდუქტებთან.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თა�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = ბრაუზერი უკვე გაქვთ. კიდევ უფრო უკეთ გამოიყენეთ { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = თვალი ადევნეთ ჰაკერებს { -brand-name-mozilla-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართი { -brand-name-firefox-relay }-ით და სხვა.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = თვალი ადევნეთ ჰაკერებს { -brand-name-firefox-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართები { -brand-name-firefox-relay }-ით, და ა. შ.
-firefox-desktop-download-get-more-from-firefox = მიიღეთ მეტი { -brand-name-firefox }-ისგან
-firefox-desktop-download-just-download-the-browser = მხოლოდ ჩამოტვირთეთ ბრაუზერი
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -164,7 +154,7 @@ firefox-desktop-download-now-windows = <strong>გაუშვით</strong> �
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = <strong>გახსენით</strong> ახლადჩამოტვირთული ფაილი
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = აირჩიეთ <strong>ჩამოტვირთვის</strong> ვარიანტი ქვემოთ
+firefox-desktop-download-select-linux = მიუთითეთ <strong>ჩამოტვირთვის</strong> ასარჩევი ქვემოთ
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = დაბრკოლება შეგექმნათ? <a { $attrs }>მიიღეთ მხარდაჭერა დაყენებისას</a>.
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = გთხოვთ, { -brand-name-firef
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } ჩამაგრდება { -brand-name-windows }-ის სამუშაო ზოლზე დაყენების შემდგომ

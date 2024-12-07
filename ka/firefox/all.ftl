@@ -54,12 +54,12 @@ firefox-all-download-esr-version = ჩამოტვირთეთ { $esr_vers
 # Variables:
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
-firefox-all-esr-we-are-in-transition = ჩვენ გარდამავალ პერიოდში ვართ ESR-ის ძირითადი ვერსიებიდან { $esr_next_major } და { $esr_current_major }.
-firefox-all-esr-when-there-is = ძირითადი ვერსიის განახლებისას, ყოველთვის ემთხვევა რამდენიმე { -brand-name-firefox-esr } პუნქტის გადახურვა, რაც საშუალებას აძლევს ხალხს, ვინც ძველი ვერსიით იყენებს, მოემზადოს ახალზე გადასასვლელად.
-firefox-all-esr-if-you-choose = თუ გადაწყვეტთ ძველი ESR ვერსიის ჩამოტვირთვას, ავტომატურად განახლდება ახალზე, გარდამავალი პერიოდის დასრულებისთანავე.
+firefox-all-esr-we-are-in-transition = ჩვენ გარდამავალ პერიოდში ვართ ESR-ის ძირითად ვერსიებს შორის: { $esr_next_major } და { $esr_current_major }.
+firefox-all-esr-when-there-is = ძირითადი ვერსიის განახლებას ყოველთვის ახლავს რამდენიმე შუალედური გამოშვების { -brand-name-firefox-esr }, რომ ძველი ვერსიის მომხმარებლებს მომზადების საშუალება მიეცეთ ახალ ვერსიაზე გადასვლისთვის.
+firefox-all-esr-if-you-choose = თუ გადაწყვეტთ, ჩამოტვირთოთ ძველი ვერსიის ESR, თავისით განახლდება ახალზე გარდამავალი პერიოდის დასრულებისთანავე.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
-firefox-all-esr-read-more = გაეცანით <a { $attrs }>{ -brand-name-firefox-esr }-ის გამოშვების</a> შესახებ.
+firefox-all-esr-read-more = უკეთ გაიცანით <a { $attrs }>{ -brand-name-firefox-esr } და მისი გამოშვების მონაკვეთები</a>.
 firefox-all-check-the-system-requirements = გადაამოწმეთ სისტემის მოთხოვნები
 firefox-all-release-notes = გამოშვების მონაცემები
 firefox-all-source-code = პირველწყარო კოდი
@@ -73,8 +73,8 @@ firefox-all-test-your-sites-against = გამოცადეთ საიტ�
 firefox-all-count-on-stability-and = განკუთვნილი მდგრადობისა და მოხერხებულად გამოყენებისთვის, { -brand-name-firefox }-ბრაუზერი საგანგებოდ დაწესებულებებისთვის.
 firefox-all-windows-installers-for = Windows-ზე დასაყენებლად დაწესებულებებისთვის, { -brand-name-firefox-browser(case: "gen") } ადვილად განთავსების, გაწყობისა და მართვისთვის.
 firefox-all-arm64-installers = ARM64/AArch64 დასაყენებელი
-firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 ინსტალერები ოპტიმიზირებულია Windows და Linux კომპიუტერებისთვის.
-firefox-all-testflight = გამოიწერეთ { -brand-name-firefox } iOS-ზე TestFlight-ის საშუალებით
+firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64 გამშვები ფაილები საგანგებოდაა მორგებული Windows-სა და Linux-კომპიუტერებზე.
+firefox-all-testflight = გამოცადეთ { -brand-name-firefox } iOS-ზე TestFlight-ის ანგარიშის შექმნით
 firefox-all-product-send-link = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -100,4 +100,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ჩამოტვირთეთ ESR 115
-firefox-all-note-unsupported = შენიშვნა: თუ იყენებთ Windows 7, Windows 8, Windows 8.1 ან macOS 10.12, 10.13 ან 10.14 ოპერაციულ ვერსიებს, მაშინ გთხოვთ ჩამოტვირთოთ ESR 115 { -brand-name-firefox }-ის გამოსაყენებლად.
+firefox-all-note-unsupported = შენიშვნა: თუ გიყენიათ Windows 7, Windows 8, Windows 8.1 ან macOS 10.12, 10.13 ან 10.14 საოპერაციო სისტემები, გთხოვთ ჩამოტვირთოთ ESR 115, რომ სათანადოდ გამოიყენოთ { -brand-name-firefox }.
