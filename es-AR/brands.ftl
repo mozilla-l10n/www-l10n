@@ -106,7 +106,7 @@
 
 ## Anonym
 
--brand-name-anonym = Anónimo
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
