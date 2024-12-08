@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Cookie
 footer-refresh-websites-legal = Pháp lý
 footer-refresh-community-participation-guidelines = Nguyên tắc tham gia cộng đồng
 footer-refresh-about-this-site = Về trang web này
+footer-refresh-all-languages = Tất cả ngôn ngữ
 footer-refresh-language = Ngôn ngữ
+footer-refresh-primary-nav-aria-label = Chân trang chính
+footer-refresh-secondary-nav-aria-label = Chân trang phụ
