@@ -21,7 +21,7 @@ m24-home-learn-about-us = Bizi tanıyın
 ## Products
 
 m24-home-love-the-internet = İnterneti yeniden sevin
-m24-home-break-free-from = Büyük teknoloji şirketlerin kurtulun: Ürünlerimizle daha güvenli ve gizliliğinize daha saygılı bir internet deneyiminin kontrolü sizde.
+m24-home-break-free-from = Büyük teknoloji şirketlerinden kurtulun: Ürünlerimizle daha güvenli ve gizliliğinize daha saygılı bir internet deneyiminin kontrolü sizde.
 m24-home-explore-our-products = Ürünlerimizi keşfedin
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Hız, gizlilik ve kontrolden ödün vermeden internette gezinmenin keyfini sürün.
@@ -36,7 +36,7 @@ m24-home-keep-your-location = Konumunuzu ve çevrimiçi maceralarınızı gizli 
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kişisel bilgileriniz risk altına girdiğinde haberdar olun ve kolayca önlem alın.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin, yalnızca almak istediğiniz istediğiniz iletileri alın.
+m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin, yalnızca almak istediğiniz iletileri alın.
 
 ## Donate
 
