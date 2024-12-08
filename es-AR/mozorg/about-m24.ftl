@@ -74,4 +74,4 @@ m24-about-community-love = Amor comunitario —<br> nuestro motor
 m24-about-mozilla-is-a = { -brand-name-mozilla } es una comunidad global de voluntarios, comñañeros y colaboradores apasionados que han estado construyendo, protegiendo y dando forma a Internet con nosotros desde 1998.
 m24-about-from-writing-code = Desde escribir código y detectar errores hasta defender la privacidad y mantener Internet abierta para todos, los miembros de nuestra comunidad son la columna vertebral de todo lo que hacemos. Su pasión y dedicación nos inspiran cada día.
 # Used as an accessible text alternative for an image
-m24-about-alt-community = Persona con un maletín para computadora portátil y cordón de { -brand-name-mozilla }.
+m24-about-alt-community = Persona con un bolso para notebook y un lanyard de { -brand-name-mozilla }.
