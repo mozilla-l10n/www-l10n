@@ -58,6 +58,7 @@ m24-home-our-mission-is = Nostre mission es de render facile pro le personas con
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Face functionar grande modellos linguistic (GMLes) facilemente sur tu computator con { -brand-name-llamafile }, nulle installation necessari, e tu datos sta secur sur tu apparato.
 m24-home-alt-builders = Constructores
 m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
 m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
@@ -90,6 +91,14 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novas
 m24-home-topic-ai = Intelligentia artificial
 m24-home-topic-ps = Confidentialitate e securitate
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Titulo de testa: Tu, IA e internet, que evenira realmente?
+m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
+m24-home-introducing-anonym = Presentar { -brand-name-anonym }: elevar le barra pro le annuncios digital preservante le confidentialitate.
+m24-home-keeping-genai-technologies = Mantener secur le technologias de IAgen es un responsabilitate commun.
+m24-home-from-hollywood-to = De Hollywood al hip hop, le artistas negotia le consenso al IA.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebra autores innovator in nove series documentari “{ -brand-name-firefox } Presenta.”
+m24-home-big-techs-power = Le poter de Big Tech super le lingua significa poter super le personas. Bridget Todd parla al leaders del communitates linguistic qui aperi le via al IA vocal in lor proprie linguas e dialectos.
 
 ## Showcase
 
