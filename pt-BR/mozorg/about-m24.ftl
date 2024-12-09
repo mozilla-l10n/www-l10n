@@ -44,6 +44,12 @@ m24-about-lets-build-a = Vamos construir um futuro mais justo
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Funcionário da { -brand-name-mozilla } no meio de uma conversa.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Funcionário da { -brand-name-mozilla } tomando café.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Funcionários da { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Junte-se a nós e faça a diferença
 
 ## Community
