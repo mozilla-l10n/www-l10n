@@ -13,7 +13,7 @@ firefox-desktop-download-meta-title = ჩამოტვირთეთ { -brand
 firefox-desktop-download-meta-title-v2 = ჩამოტვირთეთ { -brand-name-firefox } კომპიუტერზე — { -brand-name-mozilla }-სგან
 firefox-desktop-download-meta-desc = გადმოწერეთ { -brand-name-firefox }, უფასო ბრაუზერი, რომელსაც ქმნის { -brand-name-mozilla }, არამომგებიანი გუშაგი, ინტერნეტის სიჯანსაღისა და პირდულობის. ხელმისაწვდომი სისტემებია { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } და { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = გადმოწერეთ { -brand-name-firefox } სისტემებისთვის { -brand-name-windows }, { -brand-name-mac-short } ან { -brand-name-linux }. { -brand-name-firefox } უფასო და ღია ბრაუზერია, რომელსაც უზრუნველყოფს { -brand-name-mozilla }, ინტერნეტის სიჯანსაღისა და პირადულობისთვის მებრძოლი არამომგებიანი დაწესებულება.
-firefox-desktop-download-og-title = ჩამოტვირთეთ, უსწრაფესი { -brand-name-firefox }
+firefox-desktop-download-og-title = ჩამოტვირთეთ უსწრაფესი { -brand-name-firefox }
 firefox-desktop-download-og-desc = გვერდის სწრაფი ჩატვირთვა, მეხსიერების ნაკლები მოხმარება და მრავალნაირი შესაძლებლობა, ახალი { -brand-name-firefox } უკვე აქაა.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
