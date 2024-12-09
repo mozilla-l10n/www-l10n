@@ -64,7 +64,7 @@ m24-about-alt-drinking-coffee = Nhân viên { -brand-name-mozilla } đang uống
 m24-about-alt-collaborating = Nhân viên { -brand-name-mozilla } đang cộng tác.
 m24-about-join-us-and = Tham gia cùng chúng tôi và tạo nên sự khác biệt
 m24-about-join-our-team = Hãy tham gia nhóm của chúng tôi và vượt qua ranh giới của những điều có thể — mà không ảnh hưởng đến những điều quan trọng.
-m24-about-see-open-positions = Xem các vị trí đang mở
+m24-about-see-open-positions = Các vị trí đang mở
 
 ## Community
 
