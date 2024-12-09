@@ -55,6 +55,7 @@ firefox-all-download-esr-version = Prenesi { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Smo v prehodnem obdobju med večjima različicama ESR { $esr_next_major } in { $esr_current_major }.
+firefox-all-esr-when-there-is = Po vsaki večji posodobitvi različice nekaj časa hkrati izhajata dve različici { -brand-name-firefox-esr }, kar uporabnikom stare različice omogoča, da se pripravijo na prehod na novo.
 firefox-all-esr-if-you-choose = Če se odločite za prenos starejše različice ESR, se bo po izteku prehodnega obdobja samodejno posodobila na novo.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
@@ -73,6 +74,7 @@ firefox-all-count-on-stability-and = Pričakujte stabilnost in enostavnost upora
 firefox-all-windows-installers-for = Namestitveni programi za sistem Windows, ki v podjetniških okoljih poenostavljajo namestitev in upravljanje { -brand-name-firefox-browser(sklon: "rodilnik") }.
 firefox-all-arm64-installers = Namestitveni programi ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Namestitveni programi ARM64/AArch64, optimizirani za računalnike Windows in Linux.
+firefox-all-testflight = Prijavite se za preizkušanja { -brand-name-firefox(sklon: "rodilnik") } za iOS s TestFlightom
 firefox-all-product-send-link = Pošljite si povezavo za prenos na telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
