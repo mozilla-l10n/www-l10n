@@ -17,6 +17,7 @@ m24-about-mozilla-is-working = A { -brand-name-mozilla } está trabalhando para 
 
 ## Manifesto
 
+m24-about-together-we-can = Juntos, podemos manter a internet fácil, segura e livre — para todos.
 m24-about-read-our-manifesto = Leia nosso manifesto
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão trocando ideias.
@@ -39,6 +40,7 @@ m24-about-read-the-latest = Leia os últimos artigos e notícias da { -brand-nam
 
 ## Showcase
 
+m24-about-lets-build-a = Vamos construir um futuro mais justo
 
 ## Careers
 

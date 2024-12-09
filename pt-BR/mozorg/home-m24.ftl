@@ -12,7 +12,9 @@ m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 
 ## Products
 
+m24-home-love-the-internet = Volte a amar a internet
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Salve o melhor conteúdo da internet em qualquer dispositivo, porque quem tem tempo para ler tudo na hora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## Donate
@@ -36,6 +38,7 @@ m24-home-watch-now = Assista agora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doe sua voz para tornar a tecnologia de voz mais inclusiva e acessível para todos.
 m24-home-donate-your-voice = Doe sua voz
