@@ -8,6 +8,7 @@
 firefox-channel-desktop = Мизи корӣ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
+firefox-channel-take-a-browse-on-the-wild-side = Ояндаи браузереро ҳаматарафа кӯшиш кунед.
 firefox-channel-see-something-that-isnt-working = Чизеро мебинед, ки кор намекунад? Ба мо хабар диҳед.
 firefox-channel-file-a-bug-now = Гузориши фаврӣ дар бораи хато
 firefox-channel-tips-for-filing-a-bug = Маслиҳатҳо барои таҳия кардани гузориш дар бораи хатоҳо
@@ -18,6 +19,7 @@ firefox-channel-nightly-blog = Блоги «{ -brand-name-nightly }»
 firefox-channel-firefox-nightly-automatically = Браузери «{ -brand-name-firefox-nightly }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Қайдҳои нашр
+firefox-channel-previous-nightly-builds = Сохтҳои пешинаи «{ -brand-name-nightly }»
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Бо браузери ягонае, ки барои барномасозон таҳия шуддаст, лоиҳаҳоро созед, озмоед, васеъ кунед ва амалҳои дигареро иҷро намоед.
 firefox-channel-firefox-developer-edition = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
