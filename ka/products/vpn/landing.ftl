@@ -3,92 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/
-
-# HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: სრულად დაიცავით მოწყობილობა
-# HTML page description
-# Variables:
-#   $countries (number) - number of available countries
-vpn-landing-page-desc = გამოიყენოთ { -brand-name-mozilla-vpn } მოწყობილობისა და პროგრამების სრულად დასაცავად. { $countries }+ ქვეყანაში არსებული სერვერებით, შეგიძლიათ დაუკავშირდეთ ნებისმიერ ადგილს, ნებისმიერი ადგილიდან.
-vpn-landing-hero-sub-heading-v2 = უსაფრთხოება, საიმედოობა და სიჩქარე — ყველა მოწყობილობაზე, სადაც არ უნდა იყოთ.
-vpn-landing-hero-desc = წარმოსახვითი კერძო ქსელი { -brand-name-firefox }-ის შემქმნელებისგან.
-vpn-landing-privacy-heading = პირადულობა ერთი წკაპით
-vpn-landing-privacy-desc = მოინახულეთ, გაუშვით პირდაპირ ეთერში, ითამაშეთ და იმუშავეთ პირადულობის დაცვით. არ აქვს მნიშვნელობა მგზავრობთ, საჯარო WiFi-ს იყენებთ, თუ მხოლოდ მეტი უსაფრთხოება გსურთ, ჩვენთვის თქვენი პირადულობა მუდამ უპირველესია.
-vpn-landing-fast-secure-heading = სწრაფი და დაცული ქსელი
-# Variables:
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } გაშვებულია სერვერების საერთაშორისო ქსელში. უმაღლესი დონის <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ოქმის გამოყენებით იშიფრება თქვენი მოქმედებები ქსელში და იფარება IP-მისამართი. არასდროს აღვრიცხავთ, არ მივადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
-vpn-landing-brand-trust-heading = VPN კომპანიისგან, რომელსაც ენდობით
-# Variables:
-#   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = 20 წელზე მეტია, რაც { -brand-name-mozilla } ხალხს აყენებს ყველაფერზე წინ და იბრძვის ინტერნეტში პირადულობისთვის. არამომგებიანი დაწესებულების მხარში დგომით თავდაუზოგავად ვცდილობთ შევქმნათ უკეთესი და ჯანსაღი საყოველთაო ინტერნეტი. თითოეული ჩვენი მოქმედება ექვემდებარება ჩვენს მიზანსა და <a href="{ $url }">პრინციპებს</a>.
-
-## FAQ section
-
-vpn-landing-faq-heading = ᲮᲓᲙ
-vpn-langing-faq-uses-question-heading = რა არის VPN და რას იყენებს?
-# Variables:
-#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = ვინაიდან ყოველდღიურობის დიდი ნაწილი ინტერნეტში ინაცვლებს, ციფრული პირადულობა და უსაფრთხოება მეტ მნიშვნელობას იძენს. VPN, ანუ <a href="{ $url }">წარმოსახვითი კერძო ქსელი</a> ინტერნეტთან დაცული, პირადი კავშირის დამყარების საშუალებას იძლევა. იგი ქმნის ერთგვარ „გვირაბს“ თქვენს მოწყობილობასა და დანარჩენ ინტერნეტს შორის და უზრუნველყოფს უსაფრთხოებას ორი გზით:
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-landing-faq-uses-conceal-v2 = ფარავს თქვენს ნამდვილ <a href="{ $url }">IP-მისამართს</a>. გიცავთ ვინაობისა და მდებარეობის გამჟღავნებისგან.
-vpn-landing-faq-uses-encrypt = შიფრავს მიმოცვლილ მონაცემებს თქვენსა და VPN-ის მომწოდებელს შორის და ვერავინ ადგილობრივ ქსელში ვერ შეძლებს მის ამოკითხვას ან ჩანაცვლებას.
-# Variables:
-#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
-vpn-landing-faq-uses-examples = გაეცანით <a href="{ $url }">ხუთ ცხოვრებისეულ მაგალითს</a> თუ რისთვისაა გამოსადეგი VPN თქვენს მოწყობილობაზე.
-vpn-landing-faq-info-question-heading = რა მონაცემებს ინახავს { -brand-name-mozilla-vpn }?
-# Variables:
-#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = ჩვენ მკაცრად მივყვებით { -brand-name-mozilla }-ს <a href="{ $principles }">მონაცემების პირადულობის დებულებებს</a> და ვაგროვებთ მხოლოდ იმ ინფორმაციას, რომელიც აუცილებელია VPN-ის გამართულად მუშაობისთვის და დროდადრო გასაუმჯობესებლად. ჩვენ, აგრეთვე თვალს ვადევნებთ სარეკლამო კამპანიას და მასთან დაკავშირებულ მონაცემებს ჩვენს მობილურ პროგრამაში, რომ { -brand-name-mozilla }-მ შეძლოს გაწეული სამუშაოების სარგებლიანობის განსაზღვრა. ვრცლად იხილეთ <a href="{ $notice }">პირადულობის ჩვენი განაცხადი</a>.
-vpn-landing-faq-protected-question-heading = როგორაა დაცული ჩემი პირადი მონაცემები?
-# Variables:
-#   $url (url) - link to https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმი შიფრავს თქვენს ქსელში მიმოცვლილ მონაცემებს და სრულად იცავს თქვენს პირად ინფორმაციას. სხვა არსებული VPN-ოქმებისგან განსხვავებით, { -brand-name-wireguard } მსუბუქი კოდითაა და აადვილებს უსაფრთხოების გამოკვლევასა და გადამოწმებას — რაც მეტად დაცულს ხდის დანარჩენებთან შედარებით. ამასთანავე, თქვენი მოქმედებები ინტერნეტში რჩება გაუმჟღავნებელი, ვინაიდან ჩვენ არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ ვაზიარებთ თქვენს მონაცემებს.
-vpn-landing-faq-competition-question-heading = რით გამოირჩევა { -brand-name-mozilla-vpn } მეტოქეებისგან?
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = მართალია უფასო VPN-ები მიმზიდველად გამოიყურება, თუმცა პირადულობაზე ისე არავინ იღებს პასუხისგებლობას, როგორც { -brand-name-mozilla-vpn }. ამასთანავე, სხვა VPN-ებს არ გააჩნია { -brand-name-mozilla }-ს მსგავსი 20-წლიანი <a href="{ $url }">წარსული მიღწევები</a> პირადი მონაცემების დაცვის კუთხით.
-vpn-landing-faq-compatibility-question-heading = რომელ მოწყობილობებთანაა { -brand-name-mozilla-vpn } თავსებადი?
-# Variables:
-#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
-#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } თავსებადია <a href="{ $mobile }">მობილურთან</a>, პლანშეტსა თუ <a href="{ $desktop }">კომპიუტერთან</a> სისტემებზე:
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-ბიტზე მხოლოდ)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-#   $minversion (string) - minimum supported version e.g. 10.15
-vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } და ზემოთ)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> (ვერსია 8 და ზემოთ)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-#   $version (number) - minimum supported version number
-vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } და ზემოთ)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 და ზემოთ)
-vpn-landing-faq-refund-question-heading = რა არის { -brand-name-mozilla-vpn }-ის ანაზღაურების დებულება?
-vpn-landing-faq-refund-question-desc-v2 = { -brand-name-mozilla-vpn } მომსახურების პირველად შეძენისას { -brand-name-mozilla }-ს საიტიდან, თუ 30 დღეში გააუქმებთ, საშუალება გექნებათ, მოითხოვოთ თანხის ანაზღაურება და { -brand-name-mozilla } უკან დაგიბრუნებთ პირველი ხელშეკრულების საფასურს.
-vpn-landing-faq-refund-question-additional-desc = თუ ხელშეკრულებისთვის აპლიკაციის შიდა შენაძენით ისარგებლებთ, { -brand-name-apple } { -brand-name-app-store } ან { -brand-name-google-play } მაღაზიაში, ანგარიშსწორება მოხდება იმ პირობებით, რომელთაც { -brand-name-app-store } აწესებს. თანხის ასანაზღაურებლად ნებისმიერი სახის მოთხოვნით, შესაბამისად უნდა მიმართოთ პირდაპირ { -brand-name-apple }-ს ან { -brand-name-google }-ს.
-vpn-landing-faq-manage-subscription-question-heading = როგორ ვმართო გამოწერილი მომსახურება?
-# Variables:
-#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = თუ უკვე გამოწერილი გაქვთ { -brand-name-mozilla-vpn }, საგადასახადო გეგმის შეცვლა ან <a href="{ $url }">გამოწერის მართვა</a> ნებისმიერ დროს შეგიძლიათ.
-vpn-landing-faq-download-heading = როგორ ჩამოვტვირთო { -brand-name-mozilla-vpn }, თუ უკვე გამოწერილი მაქვს?
-# Variables:
-#   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = ეწვიეთ <a { $attrs }>ჩამოტვირთვის გვერდს</a>, რომ დააყენოთ { -brand-name-mozilla-vpn } თქვენს მოწყობილობაზე, შემდეგ კი შედით თქვენი { -brand-name-firefox-account(case: "adj") }.
-vpn-landing-faq-link = ვრცლად იხილეთ ᲮᲓᲙ
-
-## Invite page https://www-dev.allizom.org/products/vpn/invite/
+### URL: https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = შემოუერთდით მსურველებს: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = შეიტყვეთ, როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მხარეში.
@@ -104,7 +19,4 @@ vpn-landing-invite-language-label = აირჩიეთ სასურვე�
 vpn-landing-invite-privacy-policy = „შემოუერთდით მსურველების“ ღილაკზე დაწკაპებით, ეთანხმებით ჩვენი  <a href="{ $privacy }">პირადულობის დებულებას</a>.
 vpn-landing-invite-your-information = თქვენი ინფორმაცია, მხოლოდ ხელმისაწვდომობის შესატყობინებლად იქნება გამოყენებული.
 vpn-landing-invite-thanks-heading = გმადლობთ! ჩაწერილი ხართ
-vpn-landing-invite-thanks-desc = როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს რეგიონში, ელფოსტაზე მოგწერთ.
-
-##
-
+vpn-landing-invite-thanks-desc = როცა { -brand-name-mozilla-vpn } ხელმისაწვდომი გახდება თქვენს მხარეში, ელფოსტაზე მოგწერთ.
