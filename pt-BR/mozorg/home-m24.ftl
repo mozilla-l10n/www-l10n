@@ -13,9 +13,14 @@ m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 ## Products
 
 m24-home-love-the-internet = Volte a amar a internet
+m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Salve o melhor conteúdo da internet em qualquer dispositivo, porque quem tem tempo para ler tudo na hora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
@@ -23,6 +28,10 @@ m24-home-donate = Faça uma doação
 
 ## AI gallery
 
+m24-home-tag-product = Produto
+m24-home-tag-project = Projeto
+m24-home-tag-program = Programa
+m24-home-tag-event = Evento
 m24-home-read-more = Saiba mais
 m24-home-get-started = Introdução
 # Used as an accessible text alternative for an image
@@ -64,3 +73,5 @@ m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-
 
 ## Issues
 
+m24-home-privacy-not-included = *Privacidade não incluída
+m24-home-irl-podcast = { -brand-name-irl-podcast }
