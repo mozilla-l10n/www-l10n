@@ -17,6 +17,12 @@ m24-about-reclaim-the-internet = Claim it ynternet mei ús werom
 ## Manifesto
 
 m24-about-read-our-manifesto = Lês ús Manifest
+m24-about-advocate = Belangebehertiging
+m24-about-research = Undersyk
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitoring
+m24-about-build = Bouwe
+m24-about-fund = Finansiering
 
 ## News
 
@@ -27,6 +33,13 @@ m24-about-read-more = Mear ynfo
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla } meiwurker midden yn petear.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla } meiwurker dy’t kofje drinkt.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla }-wurknimmers wurkje gear.
+m24-about-join-us-and = Doch mei en meitsje it ferskil
 
 ## Community
 

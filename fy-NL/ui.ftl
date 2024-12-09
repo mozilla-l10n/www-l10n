@@ -21,5 +21,7 @@ ui-show-all = Alles toane
 ui-hide-all = Alles ferstopje
 ui-learn-more = Mear lêze
 ui-view = Werjaan
+ui-pause-animation = Animaasjes pauzearje
+ui-play-animation = Animaasjes ôfspylje
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promoasje
