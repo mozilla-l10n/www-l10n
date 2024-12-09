@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Juridisch
 footer-refresh-community-participation-guidelines = Richtlijnen voor deelname aan de gemeenschap
 footer-refresh-about-this-site = Over deze website
+footer-refresh-all-languages = Alle talen
 footer-refresh-language = Taal
+footer-refresh-primary-nav-aria-label = Primaire voettekst
+footer-refresh-secondary-nav-aria-label = Secundaire voettekst

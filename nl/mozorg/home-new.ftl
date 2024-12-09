@@ -11,22 +11,16 @@ home-mission-driven = Gedreven door een missie. Mogelijk gemaakt door mensen.
 home-were-not-normal = We zijn geen normaal technologiebedrijf. De dingen die we maken, geven de voorkeur aan mensen en hun privacy boven winst. We bestaan om het internet voor iedereen gezonder en gelukkiger te maken.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = ‘De gezondheid van het internet en het online leven is waarom we bestaan.’
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO van { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Executive Chair van de Board, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } maakt privacy-respecterende producten
 home-product-firefox-browsing = Privé en veilig surfen
 home-cta-get-firefox = { -brand-name-firefox } downloaden
 home-product-pocket-articles = De meest intrigerende artikelen van het web
 home-cta-get-pocket = { -brand-name-pocket } gebruiken
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Eenvoudig te gebruiken e-mail- en telefoonmaskers
 home-product-relay-hide-your = Verberg uw telefoonnummer en e-mailadres voor spammers
 home-cta-get-relay = { -brand-name-relay } downloaden
 home-product-vpn-trust = Een VPN waarop u kunt vertrouwen
 home-cta-get-vpn = { -brand-name-mozilla-vpn } downloaden
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Waarschuwingen over datalekken
 home-product-monitor-protect-your = Bescherm uw privégegevens tegen gegevenshandelaars
 home-cta-get-monitor = { -brand-name-monitor } ontvangen
 home-product-fakespot-detect = Detecteer valse winkelbeoordelingen
@@ -37,15 +31,13 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Help mee betrouwbare AI vorm te geven
 home-work-on-ai = Het werk van { -brand-name-mozilla } met AI is niet zomaar iets nieuws – we hebben jaren gespendeerd aan het financieren, bouwen en bepleiten van AI die open en eerlijk is en op een verantwoorde manier wordt ontwikkeld. Onze focus ligt op het creëren van AI die de mensen dient, transparantie vooropstelt en het algemeen belang ondersteunt, niet de zakelijke agenda’s.
 home-read-more = Meer info
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = Is { -brand-name-mozilla } een bedrijf of een non-profitorganisatie? Eigenlijk allebei.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } bestaat uit twee organisaties. De { -brand-name-mozilla-corporation } is volledig eigendom van de non-profitorganisatie 501(c) { -brand-name-mozilla-foundation }. Dat betekent dat we aan geen enkele aandeelhouder verplichtingen hebben – alleen aan onze missie.
 home-so-what-is-mozilla = Dus, wat is { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = In de kern is { -brand-name-mozilla } een activistische organisatie geleid door de { -brand-name-mozilla-foundation }, die de wereld verandert via diverse ondernemingen, waaronder { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> en <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Hoe zijn we anders? Omdat we door een missie worden gedreven, betekent dit dat we de vrijheid hebben om al onze beslissingen te nemen op basis van wat het beste is voor het internet en voor iedereen online, niet op basis van de eisen van aandeelhouders – die hebben we zelfs niet.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = In de kern is { -brand-name-mozilla } een activistische organisatie geleid door de { -brand-name-mozilla-foundation }, die de wereld verandert via diverse ondernemingen, waaronder { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> en <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Hoe zijn we anders? Omdat we door een missie worden gedreven, betekent dit dat we de vrijheid hebben om al onze beslissingen te nemen op basis van wat het beste is voor het internet en voor iedereen online, niet op basis van de eisen van aandeelhouders – die hebben we zelfs niet.
+home-at-its-core-v2 = In de kern is { -brand-name-mozilla } een activistische organisatie geleid door de { -brand-name-mozilla-foundation }, die de wereld verandert via diverse ondernemingen, waaronder { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> en <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Hoe zijn we anders? Omdat we door een missie worden gedreven, betekent dit dat we de vrijheid hebben om al onze beslissingen te nemen op basis van wat het beste is voor het internet en voor iedereen online, niet op basis van de eisen van aandeelhouders – die hebben we zelfs niet.
 home-learn-about-mofo = Info over de { -brand-name-mozilla-foundation }
 home-join-the-fight = Vecht mee voor een gezond internet
 home-your-voice-your-code = Uw stem. Uw code. Uw ideeën. Er zijn letterlijk duizenden manieren waarop u kunt bijdragen aan { -brand-name-mozilla }.
@@ -55,8 +47,6 @@ home-the-mozilla-project = Het { -brand-name-mozilla }-project werd opgericht in
 home-eventually-the-open = Uiteindelijk veranderde het open-sourceproject { -brand-name-mozilla } in de razend populaire eerste versie van { -brand-name-firefox }.
 home-today-mozilla-continues = Tegenwoordig zet { -brand-name-mozilla } haar beweging naar een beter internet voort met miljoenen actieve leden van de gemeenschap over de hele wereld, die pleiten voor ethische technologie, betrouwbare AI en het produceren van privacygerichte producten die de mensen meer macht geven.
 home-learn-more-about-mozilla = Meer info over { -brand-name-mozilla }
-home-get-good-news = Ontvang (goed) { -brand-name-mozilla }-nieuws
-home-get-news-and-tips = Ontvang nieuws en tips van { -brand-name-mozilla } om veilig en geïnformeerd te blijven over alles wat het internet gezonder maakt.
 # VPN Feature
 home-featured-product = Uitgelicht product
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
