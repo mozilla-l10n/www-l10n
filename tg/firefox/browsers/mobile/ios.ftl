@@ -16,6 +16,7 @@ mobile-ios-make-firefox-your = Браузери «{ -brand-name-firefox }»-ро
 mobile-ios-fast-private-secure = Зудкор. Хусусӣ. Бехатар
 mobile-ios-stay-private-online = Дар соросари Интернет махфияти худро нигоҳ доред
 mobile-ios-your-browsing-history = Таърихи тамошокунии шумо таърих аст
+mobile-ios-get-more-firefox = Браузери «{ -brand-name-firefox }»-ро ба ҳаёти худ бештар илова кунед
 mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
 mobile-ios-find-it-all = Ҳамаашро тезтар пайдо кунед
 mobile-ios-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
