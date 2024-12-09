@@ -64,7 +64,7 @@ m24-about-alt-drinking-coffee = Empleado de { -brand-name-mozilla } tomando caf�
 m24-about-alt-collaborating = Empleados de { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Unite y hacé la diferencia
 m24-about-join-our-team = Unite a nuestro equipo y superá los límites de lo posible sin comprometer lo que importa.
-m24-about-see-open-positions = Ver puestos abiertos
+m24-about-see-open-positions = Ver puestos vacantes
 
 ## Community
 
