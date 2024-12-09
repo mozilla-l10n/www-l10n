@@ -13,6 +13,7 @@ m24-about-page-desc = A { -brand-name-mozilla } faz navegadores, aplicativos, c�
 ## Intro
 
 m24-about-reclaim-the-internet = Recupere a internet conosco
+m24-about-mozilla-is-working = A { -brand-name-mozilla } está trabalhando para devolver o controle da internet às mãos das pessoas que a usam.
 
 ## Manifesto
 
@@ -34,6 +35,7 @@ m24-about-we-fund-and = Financiamos e investimos em pessoas e esforços para lev
 ## News
 
 m24-about-read-more = Saiba mais
+m24-about-read-the-latest = Leia os últimos artigos e notícias da { -brand-name-mozilla }
 
 ## Showcase
 

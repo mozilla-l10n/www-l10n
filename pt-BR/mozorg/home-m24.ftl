@@ -12,6 +12,8 @@ m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 
 ## Products
 
+m24-home-pocket = { -brand-name-pocket }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## Donate
 
@@ -30,6 +32,7 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Encontre o modelo de linguagem (LLM) certo para suas necessidades, caso de uso e dados.
 m24-home-can-ai-be = Inteligência artificial pode ser confiável?
 m24-home-in-a-world = Em um mundo onde a inovação em inteligência artificial é conduzida por poucas pessoas, corremos o risco dessa tecnologia ser monopolizada. Aplicar conceitos de código aberto à inteligência artificial pode mudar isso.
+m24-home-watch-now = Assista agora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
@@ -52,6 +55,9 @@ m24-home-topic-ps = Privacidade e Segurança
 
 ## Showcase
 
+m24-home-watch-the-award = Assista à cerimônia de premiação
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-name-rise25 }.
 
 ## Issues
 
