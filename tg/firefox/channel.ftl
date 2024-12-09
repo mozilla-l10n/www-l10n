@@ -24,5 +24,6 @@ firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Бо браузери ягонае, ки барои барномасозон таҳия шуддаст, лоиҳаҳоро созед, озмоед, васеъ кунед ва амалҳои дигареро иҷро намоед.
 firefox-channel-firefox-developer-edition = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-nightly = { -brand-name-nightly }
+firefox-channel-test-brand-new-features = Ҳар рӯз хусусиятҳои навро санҷед (ё… ҳар шаб). Бо таваккали худ лаззат баред.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-sign-up-now = Ҳозир сабти ном шавед

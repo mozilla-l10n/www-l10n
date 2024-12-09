@@ -19,4 +19,5 @@ mobile-ios-your-browsing-history = Таърихи тамошокунии шум�
 mobile-ios-get-more-firefox = Браузери «{ -brand-name-firefox }»-ро ба ҳаёти худ бештар илова кунед
 mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
 mobile-ios-find-it-all = Ҳамаашро тезтар пайдо кунед
+mobile-ios-discover-more-of = Он чизҳоеро, ки дӯст медоред, бештар кашф кунед
 mobile-ios-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
