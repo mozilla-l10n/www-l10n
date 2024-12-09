@@ -44,6 +44,7 @@ m24-about-lets-build-a = Vamos construir um futuro mais justo
 
 ## Careers
 
+m24-about-join-us-and = Junte-se a nós e faça a diferença
 
 ## Community
 

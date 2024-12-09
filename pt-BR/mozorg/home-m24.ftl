@@ -5,14 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/
 
+m24-home-page-title-v2 = { -brand-name-mozilla } — Internet para pessoas, sem fins lucrativos
+# HTML page description
+m24-home-page-desc = Você sabia? A { -brand-name-mozilla }, criadora do { -brand-name-firefox }, luta para manter a internet um recurso público global, aberto e acessível a todos.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
+m24-home-learn-about-us = Saiba mais sobre nós
 
 ## Products
 
 m24-home-love-the-internet = Volte a amar a internet
+m24-home-break-free-from = Liberte-se das grandes empresas de tecnologia. Nossos produtos colocam você no controle de uma experiência de internet mais segura e privativa.
+m24-home-explore-our-products = Conheça nossos produtos
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
