@@ -76,9 +76,17 @@ m24-home-alt-ventures = Spreker op podium met meerdere productlogo’s.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Hebt u een start-up in een vroeg stadium? Promoot uw bedrijf bij { -brand-name-mozilla-ventures } en stel financiering veilig om positieve verandering voor de toekomst van AI en het internet te stimuleren.
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Doneer uw stem om spraaktechnologie inclusiever en voor iedereen toegankelijk te maken.
+m24-home-donate-your-voice = Doneer uw stem
 
 ## Media Springboard
 
+m24-home-type = Type
+m24-home-author = Auteur
+m24-home-topic = Onderwerp
+m24-home-intro = Intro
+m24-home-tag-article = Artikel
+m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Nieuws
 m24-home-topic-ai = Kunstmatige intelligentie
