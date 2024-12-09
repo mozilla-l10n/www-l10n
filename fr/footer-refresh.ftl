@@ -40,3 +40,5 @@ footer-refresh-websites-legal = Mentions légales
 footer-refresh-community-participation-guidelines = Directives relatives à la participation communautaire
 footer-refresh-about-this-site = À propos de ce site
 footer-refresh-language = Langue
+footer-refresh-primary-nav-aria-label = Pied de page principal
+footer-refresh-secondary-nav-aria-label = Pied de page secondaire
