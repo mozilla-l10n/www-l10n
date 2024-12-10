@@ -8,7 +8,7 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 
 navigation-refresh-about-us = ჩვენ შესახებ
 navigation-refresh-about-mozilla = { -brand-name-mozilla }-ს შესახებ
-navigation-refresh-close-about-us-menu = ჩვენს შესახებ მენიუს დახურვა
+navigation-refresh-close-about-us-menu = ჩვენ შესახებ მენიუს დახურვა
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-ს მანიფესტი
 navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } ძირითადი დებულებები
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
