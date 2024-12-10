@@ -19,7 +19,12 @@ navigation-refresh-innovation-projects-v2 = Projekte Risore
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Misioni Ynë
 navigation-refresh-our-work = Puna Jonë
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = IA { -brand-name-mozilla }
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reklama { -brand-name-mozilla }
 
 ## Firefox
