@@ -55,23 +55,23 @@ m24-about-read-about-our = Darllenwch am ein hymrwymiad
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = AI dibynadwy, { -brand-name-common-voice }, Dysgeidiaeth Ffederal.
+m24-about-alt-trustworthy = AI dibynadwy, { -brand-name-common-voice }, Dysgu am Ffederaleiddio.
 # Used as an accessible text alternative for an image
-m24-about-alt-conversation = { -brand-name-mozilla } cyflogai yng nghanol sgwrs.
+m24-about-alt-conversation = Gweithiwr { -brand-name-mozilla } yng nghanol sgwrs.
 # Used as an accessible text alternative for an image
-m24-about-alt-drinking-coffee = { -brand-name-mozilla } gweithiwr yn yfed coffi.
+m24-about-alt-drinking-coffee = Gweithiwr { -brand-name-mozilla } yn yfed coffi.
 # Used as an accessible text alternative for an image
-m24-about-alt-collaborating = { -brand-name-mozilla } o weithwyr yn cydweithio.
+m24-about-alt-collaborating = Gweithwyr { -brand-name-mozilla } yn cydweithio.
 m24-about-join-us-and = Ymunwch â ni a gwnewch wahaniaeth
-m24-about-join-our-team = Ymunwch â'n tîm a gwthiwch ffiniau'r hyn sy'n bosibl - heb gyfaddawdu ar yr hyn sy'n bwysig.
-m24-about-see-open-positions = Gweler safleoedd agored
+m24-about-join-our-team = Ymunwch â'n tîm a gwthiwch ffiniau'r hyn sy'n bosibl — heb gyfaddawdu ar yr hyn sy'n bwysig.
+m24-about-see-open-positions = Gweld swyddi agored
 
 ## Community
 
-m24-about-community-love-v2 = Cariad cymunedol, ein grym gyrru
+m24-about-community-love-v2 = Cariad cymunedol, y grym sy'n ein gyrru
 # Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Cariad cymunedol —<br> ein grym gyrru
-m24-about-mozilla-is-a = Mae { -brand-name-mozilla } yn gymuned fyd-eang o wirfoddolwyr, cymrodyr a chyfranwyr angerddol sydd wedi bod yn adeiladu, amddiffyn a siapio’r rhyngrwyd gyda ni ers 1998.
-m24-about-from-writing-code = O ysgrifennu cod a sylwi ar fygiau i eiriol dros breifatrwydd a chadw'r rhyngrwyd ar agor i bawb - aelodau ein cymuned yw asgwrn cefn popeth a wnawn. Mae eu hangerdd a'u hymroddiad yn ein hysbrydoli bob dydd.
+m24-about-community-love = Cariad cymunedol —<br> y grym sy'n ein gyrru
+m24-about-mozilla-is-a = Mae { -brand-name-mozilla } yn gymuned fyd-eang o wirfoddolwyr, cymrodyr a chyfranwyr angerddol sydd wedi bod yn adeiladu, diogelu a siapio’r rhyngrwyd gyda ni ers 1998.
+m24-about-from-writing-code = O ysgrifennu cod a sylwi ar wallau i eiriol dros breifatrwydd a chadw'r rhyngrwyd ar agor i bawb — aelodau ein cymuned yw asgwrn cefn popeth rydym yn ei wneud. Mae eu hangerdd a'u hymroddiad yn ein hysbrydoli bob dydd.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Person â bag gliniadur a chortyn gwddf { -brand-name-mozilla }.
