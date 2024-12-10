@@ -32,10 +32,12 @@ home-join-us-in-shaping = Csatlakozzon hozzánk a megbízható MI formálásába
 home-work-on-ai = A { -brand-name-mozilla } mesterséges intelligenciával kapcsolatos munkája nem csak egy új dolog – éveket töltöttünk a nyílt, tisztességes és felelősségteljesen fejlődő MI finanszírozásával, építésével és támogatásával. Arra fókuszálunk, hogy olyan MI-t hozzunk létre, amely az embereket szolgálja, előtérbe helyezi az átláthatóságot, és a közjót támogatja, nem a vállalati célokat.
 home-read-more = Bővebben
 home-so-what-is-mozilla = Tehát, mi is a { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = A lényegét tekintve, a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal, többek között a { -brand-name-mozilla-corporation }, az MZLA, a <a { $ventures }> { -brand-name-mozilla-ventures }</a> és a <a { $mozai }> { -brand-name-mozilla-ai }</a> segítségével, hoz változást a világban. Miben különbözünk? Mivel a küldetésünk vezérel minket, ez azt jelenti, hogy szabadon tudjuk meghozni a döntéseinket, az alapján, hogy mi a legjobb az internet és mindenki számára, nem pedig a részvényesek igényei alapján – valójában nálunk nincsenek is ilyenek.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = A lényegét tekintve, a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal, többek között a { -brand-name-mozilla-corporation }, az MZLA, a <a { $ventures }> { -brand-name-mozilla-ventures }</a> és a <a { $mozai }> { -brand-name-mozilla-ai }</a> segítségével, hoz változást a világban. Miben különbözünk? Mivel a küldetésünk vezérel minket, ez azt jelenti, hogy szabadon tudjuk meghozni a döntéseinket, az alapján, hogy mi a legjobb az internet és mindenki számára, nem pedig a részvényesek igényei alapján – valójában nálunk nincsenek is ilyenek.
+home-at-its-core-v2 = A lényegét tekintve, a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal, többek között a { -brand-name-mozilla-corporation }, az MZLA, a <a { $ventures }> { -brand-name-mozilla-ventures }</a> és a <a { $mozai }> { -brand-name-mozilla-ai-v2 }</a> segítségével, hoz változást a világban. Miben különbözünk? Mivel a küldetésünk vezérel minket, ez azt jelenti, hogy szabadon tudjuk meghozni a döntéseinket, az alapján, hogy mi a legjobb az internet és mindenki számára, nem pedig a részvényesek igényei alapján – valójában nálunk nincsenek is ilyenek.
 home-learn-about-mofo = Tudjon meg többet a { -brand-name-mozilla-foundation }ról
 home-join-the-fight = Csatlakozzon az egészséges internetért vívott harchoz
 home-your-voice-your-code = Az Ön hangja. Az Ön kódja. Az Ön ötletei. Szó szerint ezernyi módon működhet közre a { -brand-name-mozilla } projektjeiben.
@@ -45,8 +47,6 @@ home-the-mozilla-project = A { -brand-name-mozilla } projektet 1998-ban alapíto
 home-eventually-the-open = Idővel a nyílt forráskódú { -brand-name-mozilla } projekt a { -brand-name-firefox } első, rendkívül népszerű verziójává alakult.
 home-today-mozilla-continues = Ma a { -brand-name-mozilla } tovább halad a jobb internet irányába, világszerte több milliónyi aktív közösségi taggal, akik az etikus technológiát, a megbízható MI-t támogatják, és olyan termékeket készítenek, amelyek az adatvédelmet helyezik előtérbe, több hatalmat adva az embereknek.
 home-learn-more-about-mozilla = Tudjon meg többet a { -brand-name-mozilla(ending: "accented") }ról
-home-get-good-news = Kapjon (jó) { -brand-name-mozilla(case: "lower", ending: "accented") }s híreket
-home-get-news-and-tips = Kapjon híreket és tippeket a { -brand-name-mozilla(ending: "accented") }tól, hogy biztonságban maradhasson, és minden olyasmiről tájékozott legyen, amely egészségesebb hellyé teszi a világhálót.
 # VPN Feature
 home-featured-product = Kiemelt termék
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
