@@ -41,7 +41,7 @@ m24-home-mask-your-email = შენიღბეთ თქვენი ელფ
 ## Donate
 
 m24-home-donate-to-the = გაიღეთ თანხა { -brand-name-mozilla }-სთვის, არამომგებიანი დაწესებულებისთვის
-m24-home-mozilla-is-building = { -brand-name-mozilla } ქმნის მოძრაობას ინტერნეტის აღსადგენად. ერთად ჩვენ შეგვიძლია ავაშენოთ მომავლა, სადაც ჩვენი პირადულობა დაცულია, ხელოვნური ინტელექტი სანდოა და უპასუხისმგებლო ტექკომპანიები პასუხს აგებენ. მაგრამ ეს მხოლოდ იმ შემთხვევაშია შესაძლებელი, თუ ჩვენ ერთად გავაკეთებთ.
+m24-home-mozilla-is-building = { -brand-name-mozilla } ქმნის მოძრაობას ინტერნეტის დასაბრუნებლად. ერთად ჩვენ შეგვიძლია ავაშენოთ მომავალი, სადაც ჩვენი პირადულობა იქნება დაცული, ხელოვნური ინტელექტი კი სანდო, ხოლო არაკეთილსინდისიერ ტექკომპანიებს დაეკისრებათ პასუხისმგებლობა. მაგრამ ეს მხოლოდ ერთად დგომით მიიღწევა.
 m24-home-were-proudly-nonprofit = ჩვენ ვართ არამომგებიანი. გააკეთებთ შემოწირულობას { -brand-name-mozilla }-ში დღესვე?
 m24-home-donate = შემოწირულობა
 
@@ -54,7 +54,7 @@ m24-home-tag-event = ღონისძიება
 m24-home-read-more = ვრცლად
 m24-home-get-started = დაიწყეთ
 m24-home-join-the-movement = შემოუერთდით მოძრაობას:<br> AI ხალხისთვის
-m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს ღია, სანდო AI-ის შექმნა და თანამშრომლობა.
+m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შეიმუშაონ და ითანამშრომლონ ღია წყაროს მქონე და სანდო AI-ის შექმნისთვის.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -65,7 +65,7 @@ m24-home-builders-helps-independent = Builders ეხმარება და�
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = მონახეთ შესაფერისი LLM თქვენი საჭიროებისთვის, გამოიყენეთ ქეისები და მონაცემები.
+m24-home-find-the-just = მონახეთ თქვენი საჭიროებებისთვის შესაფერისი LLM, გამოყენების პირობებითა და მონაცემებით.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = მარკ სურმანი, { -brand-name-mozilla }-ს ხელმძღვანელი.
 m24-home-can-ai-be = შეიძლება ხელოვნური ინტელექტი იყოს სანდო?
@@ -76,7 +76,7 @@ m24-home-alt-ventures = მოსაუბრე სცენაზე, მრ�
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = მიიღეთ ადრეულ სტადიაზე წამოწყება? შეუერთდით თქვენს კომპანიას { -brand-name-mozilla-ventures }-ს და უზრუნველყავით დაფინანსება, ხელოვნური ინტელექტისა და ინტერნეტის მომავლისთვის დადებითი ცვლილებების წარმართვისთვის.
 m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = შემოწირეთ თქვენი ხმა, რომ სამეტყველო ტექნოლოგია გახდეს მეტად მოიცავს და ხელმისაწვდომს ყველასთვის.
+m24-home-donate-your-voice-to-make = შემოგვწირეთ თქვენი ხმა, რომ სამეტყველო ტექნოლოგიები გახდეს მეტად საყოველთაო და ხელმისაწვდომი.
 m24-home-donate-your-voice = მოგვაწოდეთ თქვენი ხმის ჩანაწერები
 
 ## Media Springboard
