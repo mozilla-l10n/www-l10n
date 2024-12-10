@@ -15,7 +15,7 @@ m24-home-page-desc-v2 = Nous œuvrons pour permettre aux internautes de reprendr
 
 ## Intro
 
-m24-home-welcome-to-mozilla = Bienvenue dans { -brand-name-mozilla }
+m24-home-welcome-to-mozilla = Bienvenue chez { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Qu’il s’agisse de technologies dignes de confiance ou de politiques qui défendent vos droits numériques, nous vous faisons toujours passer en priorité.
 m24-home-learn-about-us = En savoir plus sur nous
 
