@@ -120,10 +120,10 @@ m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
 m24-home-alt-pni = Dyfeisiau clyfar gydag eicon rhybudd.
 m24-home-explore-issues-shaping = Archwilio materion sy'n siapio dyfodol y rhyngrwyd
 m24-home-privacy-not-included = *Preifatrwydd Heb ei Gynnwys
-m24-home-search-our-reviews = Chwiliwch ein hadolygiadau i weld pa declynnau technoleg ac apiau sy'n sleifio'ch data yn llechwraidd.
-m24-home-pni-search-now = Chwiliwch nawr
+m24-home-search-our-reviews = Chwiliwch ein hadolygiadau i weld pa declynnau technoleg ac apiau sy'n dwyn eich data'n llechwraidd.
+m24-home-pni-search-now = Chwilio nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gwesteiwr Podlediad IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = Mae ein podlediad sydd wedi ennill sawl gwobr yn cyflwyno’r rhai sy’n gwneud newid sy’n gweithio i wneud y rhyngrwyd yn fwy diogel a deallusrwydd artiffisial yn fwy dibynadwy.
+m24-home-our-multiaward-winning = Mae ein podlediad wedi ennill sawl gwobr drwy gyflwyno’r rhai sy’n creu newid ac yn gweithio i wneud y rhyngrwyd yn fwy diogel a deallusrwydd artiffisial yn fwy dibynadwy.
 m24-home-irl-listen-now = Gwrandewch nawr
