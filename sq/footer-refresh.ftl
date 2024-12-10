@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = “Cookies”
 footer-refresh-websites-legal = Ligjore
 footer-refresh-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në Bashkësi
 footer-refresh-about-this-site = Rreth këtij sajti
+footer-refresh-all-languages = Krejt gjuhët
 footer-refresh-language = Gjuhë
+footer-refresh-primary-nav-aria-label = Fundfaqe parësore
+footer-refresh-secondary-nav-aria-label = Fundfaqe dytësore
