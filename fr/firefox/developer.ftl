@@ -72,7 +72,7 @@ firefox-developer-the-new-fonts-panel = Le nouveau panneau de polices dans les {
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } envoie automatiquement des informations à { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Téléchargez la version de { -brand-name-firefox } conçue pour les développeurs
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } a été repensé de fond en comble pour être plus rapide et plus puissant qu’il ne l’a jamais été.
-firefox-developer-welcome-to-firefox-developer-edition = Bienvenue dans { -brand-name-firefox-developer-edition }
+firefox-developer-welcome-to-firefox-developer-edition = Bienvenue chez { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = Le navigateur conçu pour les développeurs
 firefox-developer-all-the-latest-v2 = Tous les derniers outils de développement en version bêta, ainsi que certaines fonctionnalités comme l’éditeur de console multiligne ou l’inspecteur WebSocket.
