@@ -58,7 +58,7 @@ m24-home-our-mission-is = ჩვენი მიზანია, გავუა
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = გაუშვით დიდენოვან მოდელებზე (LLM) მარტივად თქვენს კომპიუტერში { -brand-name-llamafile }-ის საშუალებით — არაა საჭირო დაყენება და თქვენი მონაცემები უსაფრთხოდ შეინარჩუნებს თქვენს მოწყობილობაზე.
+m24-home-run-large-language = გაუშვით ენის დიდი მოდელები (LLM) იოლად თქვენს კომპიუტერში { -brand-name-llamafile }-ის მეშვეობით —არაფრის დაყენება არაა საჭირო, თქვენი მონაცემები უსაფრთხოდ დარჩება თქვენსავე მოწყობილობაზე.
 m24-home-alt-builders = მშენებლები
 m24-home-mozilla-builders = { -brand-name-mozilla } შემმუშავებლები
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს, ღია წყაროს მქონე AI პროექტების შექმნაში, საკუთარი თანამშრომლობის, პროგრამირებისა და ერთობის მეშვეობით.
@@ -74,7 +74,7 @@ m24-home-watch-now = უყურეთ ახლავე
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = მოსაუბრე სცენაზე, მრავალი პროდუქტის ლოგოთი.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = მიიღეთ ადრეულ სტადიაზე წამოწყება? შეუერთდით თქვენს კომპანიას { -brand-name-mozilla-ventures }-ს და უზრუნველყავით დაფინანსება, ხელოვნური ინტელექტისა და ინტერნეტის მომავლისთვის დადებითი ცვლილებების წარმართვისთვის.
+m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და{ -brand-name-mozilla-ventures } უზრუნველყოფს დაფინანსებას, მომავლისა და ხელოვნური ინტელექტის დადებითი კუთხით განვითარებისთვის.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = შემოგვწირეთ თქვენი ხმა, რომ სამეტყველო ტექნოლოგიები გახდეს მეტად საყოველთაო და ხელმისაწვდომი.
 m24-home-donate-your-voice = მოგვაწოდეთ თქვენი ხმის ჩანაწერები
