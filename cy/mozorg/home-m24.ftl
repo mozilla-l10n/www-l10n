@@ -21,10 +21,10 @@ m24-home-learn-about-us = Dysgwch amdanom ni
 ## Products
 
 m24-home-love-the-internet = Caru'r rhyngrwyd eto
-m24-home-break-free-from = Torri'n rhydd o dechnoleg fawr - mae ein cynnyrch yn eich rhoi chi mewn rheolaeth o brofiad rhyngrwyd mwy diogel a mwy preifat.
+m24-home-break-free-from = Torri'n rhydd o dechnoleg fawr — mae ein cynnyrch yn eich rhoi chi mewn rheolaeth o brofiad rhyngrwyd mwy diogel a phreifat.
 m24-home-explore-our-products = Archwiliwch ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = Sicrhewch y safon aur ar gyfer pori gyda chyflymder, preifatrwydd a rheolaeth.
+m24-home-get-the-gold = Cael y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Symleiddiwch eich bywyd gydag un ap ar gyfer eich holl e-byst, calendrau a chysylltiadau.
 m24-home-fakespot = { -brand-name-fakespot }
