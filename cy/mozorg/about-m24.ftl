@@ -22,26 +22,26 @@ m24-about-read-our-manifesto = Darllenwch ein maniffesto
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Grŵp o feddylwyr yn eistedd mewn cylch ar y llawr yn rhannu syniadau.
 m24-about-advocate = Eiriolwr
-m24-about-we-advocate-for = Rydym yn eiriol dros well cynhyrchion, gan ddal llywodraethau a chorfforaethau technoleg yn atebol am yr hyn y maent yn ei greu.
+m24-about-we-advocate-for = Rydym yn eiriol dros well cynnyrch, gan ddal llywodraethau a chorfforaethau technoleg yn atebol am yr hyn y maen nhw'n ei greu.
 m24-about-research = Ymchwil
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
-m24-about-we-uncover-insights = Rydym yn datgelu mewnwelediadau, yn ymgyrchu i wella cynhyrchion ac yn gyrru polisïau sy'n cynrychioli eich diddordebau.
+m24-about-we-uncover-insights = Rydym yn datgelu mewnwelediadau, yn ymgyrchu i wella cynnyrch ac yn gyrru ar bolisïau sy'n cynrychioli eich diddordebau.
 # Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Rydym yn monitro datblygiadau, yn cynnal ymchwil ac yn ymgyrchu i wella cynnyrch ac yn gyrru polisïau sy'n cynrychioli eich diddordebau.
+m24-about-we-monitor-developments = Rydym yn monitro datblygiadau, yn cynnal ymchwil ac yn ymgyrchu i wella cynnyrch ac yn gyrru ar bolisïau sy'n cynrychioli eich diddordebau.
 m24-about-build = Adeiladu
-m24-about-we-build-products = Rydyn ni'n adeiladu cynhyrchion sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox }, { -brand-name-fakespot } a mwy.
-m24-about-fund = Cronfa
+m24-about-we-build-products = Rydyn ni'n adeiladu cynnyrch sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox }, { -brand-name-fakespot } a mwy.
+m24-about-fund = Ariannu
 m24-about-we-fund-and = Rydym yn ariannu ac yn buddsoddi yn y bobl a'r ymdrechion i fynd â thechnoleg, y rhyngrwyd a deallusrwydd artiffisial i'r cyfeiriad cywir.
 
 ## News
 
 m24-about-read-more = Darllen rhagor
 m24-about-read-the-latest = Darllenwch y newyddion ac erthyglau diweddaraf { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 o brosiectau AI i’w gwylio: carfan Cyflymydd Adeiladwyr cyntaf { -brand-name-mozilla } yn cychwyn
+m24-about-14-ai-projects = 14 o brosiectau AI i’w gwylio: carfan Builders Accelerator cyntaf { -brand-name-mozilla } yn cychwyn arni
 m24-about-at-our-rise25 = Yn ein Gwobrau { -brand-name-rise25 }, mae dyfodol AI yn ddibynadwy, yn gynhwysol ac yn atebol.
 # Used as an accessible text alternative for an image
-m24-about-rise25-award = { -brand-name-rise25 } derbynnydd gwobr yn pwyntio at ei thlws.
+m24-about-rise25-award = Derbynnydd gwobr { -brand-name-rise25 } yn pwyntio at ei thlws.
 m24-about-empowering-chicagos-entrepreneurs = Grymuso entrepreneuriaid Chicago ar gyfer newid cenhedlaeth
 # Used as an accessible text alternative for an image
 m24-about-chicago = Entrepreneur o Chicago.

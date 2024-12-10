@@ -41,5 +41,5 @@ footer-refresh-community-participation-guidelines = Canllawiau Cyfranogiad Cymun
 footer-refresh-about-this-site = Am y wefan hon
 footer-refresh-all-languages = Pob iaith
 footer-refresh-language = Iaith
-footer-refresh-primary-nav-aria-label = cynradd footer
-footer-refresh-secondary-nav-aria-label = Troedyn uwchradd
+footer-refresh-primary-nav-aria-label = Cynradd troedyn
+footer-refresh-secondary-nav-aria-label = Troedyn eilradd
