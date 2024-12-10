@@ -16,6 +16,8 @@ m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγρ
 ## Manifesto
 
 m24-about-read-our-manifesto = Διαβάστε τη διακήρυξή μας
+m24-about-research = Έρευνα
+# Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
 
 ## News
@@ -32,5 +34,5 @@ m24-about-read-about-our = Διαβάστε για τη δέσμευσή μας
 
 ## Community
 
-# the <br> is presentational
+# Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Η αγάπη της κοινότητας —<br> η κινητήριος δύναμή μας

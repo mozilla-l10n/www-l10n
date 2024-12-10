@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Νομικά
 footer-refresh-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
 footer-refresh-about-this-site = Σχετικά με τον ιστότοπο
+footer-refresh-all-languages = Όλες οι γλώσσες
 footer-refresh-language = Γλώσσα
+footer-refresh-primary-nav-aria-label = Κύριο υποσέλιδο
+footer-refresh-secondary-nav-aria-label = Δευτερεύον υποσέλιδο
