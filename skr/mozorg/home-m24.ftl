@@ -26,12 +26,23 @@ m24-home-tag-project = منصوبہ
 m24-home-tag-event = ایونٹ
 m24-home-read-more = ٻیا پڑھو
 m24-home-get-started = شروع کرو
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 
 ## Media Springboard
 
+m24-home-type = قسم
+m24-home-author = مصنف
+m24-home-tag-article = مضمون
+m24-home-tag-video = ویڈیو
+m24-home-topic-news = خبراں
+m24-home-topic-ai = مصنوعی ذہانت
+m24-home-topic-ps = رازداری تے سلامتی
 
 ## Showcase
 
 
 ## Issues
 
+m24-home-irl-podcast = { -brand-name-irl-podcast }
