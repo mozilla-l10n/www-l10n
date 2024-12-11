@@ -99,14 +99,31 @@ m24-home-keeping-genai-technologies = It feilich hâlden fan GenAI-technologyen 
 m24-home-from-hollywood-to = Fan Hollywood oant hiphop, artysten ûnderhannelje oer AI-tastimming.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } fiert baanbrekkende makkers yn in nije dokumintêresearje ‘{ -brand-name-firefox } Presents’.
 m24-home-big-techs-power = De macht fan grutte technologybedriuwen oer taal betsjut macht oer minsken. Bridget Todd praat mei taalmienskipslieders en makket it paad frij foar spraak-AI yn harren eigen taal en dialekt.
+m24-home-why-does-it = Wêrom fielt it sa faak dat wy diel útmeitsje fan in massaal AI-eksperimint? Wat is de ferantwurde manier om nije technologyen te testen? Bridget Todd ûndersiket wat it betsjut om te libjen mei net bewizen AI-systemen dy't miljoenen minsken beynfloedzje as se yn it iepenbiere libben yntrodusearre wurde.
+m24-home-kids-are-growing = Bern groeie op yn in bot online wrâld. Wat kin in besoarge âlder dwaan?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-awards
+m24-home-get-to-know = Kom yn de kunde mei de lieders dy't pleitsje foar betroubere, ynklusive en transparante AI-ûntwikkeling omdat se in nije standert sette en de folgjende generaasje fernijers ynspirearje.
+m24-home-watch-the-award = De priisútrikking besjen
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = In grutske huldige by { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = In selsbewuste glimmerjende sprekker by { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = In blide huldige by { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Tûke apparaten mei warskôgingspiktogram.
+m24-home-explore-issues-shaping = Problemen mei de takomst fan it ynternet ferkenne
 m24-home-privacy-not-included = *Privacy net ynbegrepen
+m24-home-search-our-reviews = Trochsykje ús beoardielingen om te sjen hokker technyske gadgets en apps stikem jo gegevens brûke.
 m24-home-pni-search-now = No sykje
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, gastfrou fan IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Us meardere kearen priiswinnende podcast yntrodusearret de makkers fan feroaring dy't wurkje om it ynternet feiliger en AI betrouberder te meitsjen.
 m24-home-irl-listen-now = No harkje
