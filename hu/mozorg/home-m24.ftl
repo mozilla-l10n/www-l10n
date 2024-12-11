@@ -21,14 +21,14 @@ m24-home-learn-about-us = Tudjon meg többet rólunk
 ## Products
 
 m24-home-love-the-internet = Szeresse újra az internetet
-m24-home-break-free-from = Szakadjon ki a nagy technológiáktól – a termékeinkkel a biztonságosabb, privátabb internetes élményben lesz része.
+m24-home-break-free-from = Szakadjon el a nagy technológiai vállalatoktól – a termékeinkkel biztonságosabb, privátabb internetes élményben lesz része.
 m24-home-explore-our-products = Fedezze fel termékeinket
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = Szerezze be a böngészés arany szabványát: sebességet, adatvédelmet és ellenőrzést.
+m24-home-get-the-gold = Szerezze be a böngészés arany szabványát: sebesség, adatvédelem és irányítás.
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-go-chaosfree-with = Egyszerűsítse az életét egyetlen alkalmazással az összes e-mail-jéhez, naptárához és névjegyéhez.
+m24-home-go-chaosfree-with = Egyszerűsítse az életét egyetlen alkalmazással az összes leveléhez, naptárához és névjegyéhez.
 m24-home-fakespot = { -brand-name-fakespot }
-m24-home-spot-fake-reviews = Észljen ki hamis értékeléseket, rossz termékeket és nem megbízható eladókat.
+m24-home-spot-fake-reviews = Vegye észre a hamis értékeléseket, a rossz termékeket és a nem megbízható eladókat.
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Mentse el az internet legjobb tartalmait bármely eszközre – mert kinek van most ideje mindent elolvasni?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
@@ -36,20 +36,20 @@ m24-home-keep-your-location = Tartsa bizalmasan a tartózkodási helyét és az 
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszélybe kerülnek, és zárja be, mint egy profit.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Rejtse el az e-mail címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
+m24-home-mask-your-email = Rejtse el az e-mail-címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
 
 ## Donate
 
 m24-home-donate-to-the = Adományozzon a { -brand-name-mozilla } nonprofit szervezetnek
 m24-home-mozilla-is-building = A { -brand-name-mozilla } mozgalmat épít az internet visszaszerzésére. Együtt olyan jövőt építhetünk, ahol védik az adatvédelmét, a mesterséges intelligencia megbízható és a felelőtlen technológiai cégeket felelősségre vonják. De ez csak akkor lehetséges, ha együtt tesszük.
-m24-home-were-proudly-nonprofit = Büszkén nonprofit szervezet vagyunk. Adományoz ma a { -brand-name-mozilla }nak?
+m24-home-were-proudly-nonprofit = Büszkén nonprofit szervezet vagyunk. Adományoz ma a { -brand-name-mozilla(ending: "accented") }nak?
 m24-home-donate = Adományozás
 
 ## AI gallery
 
 m24-home-tag-product = Termék
 m24-home-tag-project = Projekt
-m24-home-tag-program = Program lehetőségre
+m24-home-tag-program = Program
 m24-home-tag-event = Esemény
 m24-home-read-more = Bővebben
 m24-home-get-started = Kezdő lépések
@@ -68,7 +68,7 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Találja meg az igényeinek, felhasználási eseteinek és adatainak megfelelő LLM-et.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, a { -brand-name-mozilla } elnöke.
-m24-home-can-ai-be = Lehet-e megbízható a MI?
+m24-home-can-ai-be = Lehet-e megbízható az MI?
 m24-home-in-a-world = Egy olyan világban, ahol a mesterséges intelligencia innovációját kevesek választották, kockáztatjuk ezen technológia monopolizálását. A nyílt forráskódú fogalmak MI-re történő alkalmazása megváltoztathatja.
 m24-home-watch-now = Figyelés most
 # Used as an accessible text alternative for an image
