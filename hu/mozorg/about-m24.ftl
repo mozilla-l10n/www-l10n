@@ -57,11 +57,11 @@ m24-about-read-about-our = Olvasson az elkötelezettségünkről
 # Used as an accessible text alternative for an image
 m24-about-alt-trustworthy = Megbízható MI, { -brand-name-common-voice }, Federated Learnings.
 # Used as an accessible text alternative for an image
-m24-about-alt-conversation = { -brand-name-mozilla } alkalmazottal érkező beszélgetés.
+m24-about-alt-conversation = { -brand-name-mozilla } alkalmazott beszélgetés közben.
 # Used as an accessible text alternative for an image
-m24-about-alt-drinking-coffee = Kávé ivó { -brand-name-mozilla } alkalmazott.
+m24-about-alt-drinking-coffee = Kávét ivó { -brand-name-mozilla } alkalmazott.
 # Used as an accessible text alternative for an image
-m24-about-alt-collaborating = A { -brand-name-mozilla } alkalmazottak közreműködése.
+m24-about-alt-collaborating = Együttműködő { -brand-name-mozilla } alkalmazottak.
 m24-about-join-us-and = Csatlakozzon hozzánk, és tegyen változást
 m24-about-join-our-team = Csatlakozzon a csapatunkhoz, és feszegesse a lehetségesek határait – anélkül, hogy kompromisszumokat kötne arról, ami számít.
 m24-about-see-open-positions = Nyitott pozíciók megtekintése
