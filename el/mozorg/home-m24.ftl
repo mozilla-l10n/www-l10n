@@ -18,6 +18,8 @@ m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
@@ -31,9 +33,21 @@ m24-home-tag-program = Πρόγραμμα
 m24-home-tag-event = Εκδήλωση
 m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 
+m24-home-type = Τύπος
+m24-home-author = Δημιουργός
+m24-home-topic = Θέμα
+m24-home-intro = Εισαγωγή
+m24-home-tag-article = Άρθρο
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Βίντεο
+m24-home-topic-news = Ειδήσεις
 
 ## Showcase
 
