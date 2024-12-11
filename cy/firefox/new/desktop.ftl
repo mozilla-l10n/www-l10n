@@ -119,7 +119,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Cael { -brand-name-firefox-browser } <strong> { -brand-name-android } </strong>
 firefox-desktop-download-get-firefox-ios = Cael { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Llwythwch i lawr y porwr symudol { -brand-name-firefox } ar gyfer diogelwch awtomatig ar eich holl ddyfeisiau.
-firefox-desktop-download-learn-about-the = Dysgwch am y porwyr bwrdd gwaith { -brand-name-firefox } isod
+firefox-desktop-download-learn-about-the = Rhagor am y porwyr bwrdd gwaith { -brand-name-firefox } isod
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"

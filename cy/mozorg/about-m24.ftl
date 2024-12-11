@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/
 
 # HTML Page title
-m24-about-page-title = Dysgu am { -brand-name-mozilla }
+m24-about-page-title = Rhagor am { -brand-name-mozilla }
 # HTML page description
 m24-about-page-desc = Mae { -brand-name-mozilla } yn creu porwyr, apiau, cod ac offer sy'n gosod pobl cyn elw. Ein cenhadaeth: Cadw'r rhyngrwyd yn agored ac yn hygyrch i bawb.
 

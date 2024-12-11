@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 firefox-products-are = Mae cynnych { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd
-learn-more-about-firefox = Dysgu rhagor am { -brand-name-firefox }, ei hanes, ei nodweddion a'i genhadaeth
-learn-more-about = Dysgwch ragor am gynnyrch { -brand-name-firefox } sy'n trin eich data â pharch ac sy'n cael eu hadeiladu ar gyfer preifatrwydd yn lle bynnag rydych yn mynd ar-lein.
+learn-more-about-firefox = Rhagor am { -brand-name-firefox }, ei hanes, ei nodweddion a'i genhadaeth
+learn-more-about = Rhagor am gynnyrch { -brand-name-firefox } sy'n trin eich data â pharch ac sy'n cael eu hadeiladu ar gyfer preifatrwydd yn lle bynnag rydych yn mynd ar-lein.
 learn-more-faq = Cwestiynau Cyffredin { -brand-name-firefox }
 the-history-of = Hanes porwyr gwe
 firefox-has-been = Mae { -brand-name-firefox } wedi bod yno ers bron y dechrau.
@@ -24,10 +24,6 @@ firefox-more-firefox-chromebook = { -brand-name-firefox-browser } ar gyfer { -br
 firefox-more-while-on-chromebook = Er bod gan { -brand-name-chromebook } y porwr { -brand-name-chrome } eisoes wedi'i osod, mae llwytho i lawr a defnyddio { -brand-name-firefox } fel eich prif borwr yn dod ag amryw o fanteision i chi:
 firefox-more-firefox-quantum = { -brand-name-firefox-quantum }
 firefox-more-quantum-was-revolution = Roedd { -brand-name-firefox-quantum } yn chwyldroadol yn natblygiad { -brand-name-firefox }. Yn 2017, fe wnaethon ni greu porwr newydd, eithriadol o gyflym sy'n gwella'n barhaus. { -brand-name-firefox-quantum } yw { -brand-name-firefox-browser }.
-firefox-more-little-book = Llyfr Bach Preifatrwydd
-firefox-more-you-can-reclaim = Gallwch adennill eich preifatrwydd a'ch rheolaeth dros eich profiadau ar y rhyngrwyd! Mae'n rhyfeddol o hawdd mewn gwirionedd. Gall pawb ei wneud.
-firefox-more-firefox-sync = { -brand-name-firefox-sync }
-firefox-more-access-your-sync = Cyrchwch a chydweddu eich nodau tudalen, cyfrineiriau, a mwy ym mhob man y byddwch yn defnyddio { -brand-name-firefox }.
 we-believe-everyone = Credwn y dylai pawb gael mynediad i'r rhyngrwyd - dyna pam rydyn ni'n sicrhau bod y { -brand-name-firefox-browser } ar gael mewn mwy na 90 o ieithoedd gyda chymorth gwirfoddolwyr ymroddedig ledled y byd.
 firefox-fights-for = Mae { -brand-name-firefox } yn ymladd drosoch chi ar { -brand-name-windows }
 easy-migration-of = Mae'n hawdd i drosglwyddo dewisiadau a nodau tudalen pan fyddwch yn llwytho { -brand-name-firefox } { -brand-name-windows } i lawr.
@@ -37,28 +33,7 @@ firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }
 new-school-meets = Y porwr cyflymaf eto ar gyfer y systemau annibynnol.
 firefox-for-windows = { -brand-name-firefox } { -brand-name-windows } 64-did
 we-worry-about = Rydyn ni'n pryderu am diogelwch eich data felly does dim rhaid i chi wneud hynny.
-# Obsolete string
-seven-of-the = Cymharu'r saith porwr gorau yn uniongyrchol
-six-of-the-best = Cymhariaeth o'r chwech porwyr gorau
-# Obsolete string
-we-compare-firefox = Rydym yn cymharu { -brand-name-firefox } â { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ac { -brand-name-ie } i'ch helpu chi i benderfynu.
-we-compare-firefox-v2 = Rydym yn cymharu { -brand-name-firefox } â Chrome, Edge, Safari, Opera a Brave i'ch helpu i benderfynu.
-comparing-firefox-chrome = Cymharu { -brand-name-firefox-browser } a { -brand-name-google } { -brand-name-chrome }
-big-isnt-always = Nid Mawr sydd orau bob tro. Dewiswch annibyniaeth yn ei le.
-comparing-firefox-brave = Cymharu { -brand-name-firefox-browser } â { -brand-name-brave }
-be-bold-and = Byddwch yn feiddgar a dewr wrth ddewis pa borwr sy'n iawn i chi.
-comparing-firefox-edge = Cymharu { -brand-name-firefox-browser } a { -brand-name-microsoft } { -brand-name-edge }
-youll-never-guess = Fyddwch chi byth yn dyfalu pa borwr sydd â'r awch o ran cyflymder a nodweddion.
-comparing-firefox-ie = Cymharu { -brand-name-firefox-browser } â { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Mae'n anodd newid hen arferion ond byddwch chi'n teimlo'n well pan fyddwch chi'n gwneud.
-comparing-firefox-safari = Cymharu { -brand-name-firefox-browser } ag { -brand-name-apple } { -brand-name-safari }
-you-dont-have = Does dim rhaid cadw i'r porwr rhagosodedig.
-comparing-firefox-opera = Cymharu { -brand-name-firefox-browser } ag { -brand-name-opera }
-be-free-to = Byddwch yn rhydd i ganmol { -brand-name-firefox } pryd bynnag y dymunwch.
-the-ad-blocker = Rhwystrydd hysbysebion - arf dirgel yn erbyn hysbysebion blin.
-so-many-ads = Lot o hysbysebion, llai o amynedd… Mae'n bryd rhoi stop ar y gwallgofrwydd.
-firefox-more-protection = { -brand-name-firefox }: Mwy diogel. Llai o boen.
-were-obsessed-with = Mae gennym obsesiwn am ddiogelu eich preifatrwydd. Dyna pam rydym wedi gwneud Pori Preifat yn { -brand-name-firefox } yn fwy pwerus na'r lleill.
 incognito-browser-what = Porwr Incognito: Beth mae'n ei olygu mewn gwirionedd
 firefox-calls-it = Mae { -brand-name-firefox } yn ei alw'n bori preifat, mae { -brand-name-chrome } yn ei alw'n fodd incognito. Mae'r ddau yn gadael i chi bori'r we heb gadw'ch hanes pori.
 firefox-more-fingerprinter-blocking = Rhwystro Bysbrintwyr
@@ -69,5 +44,3 @@ firefox-more-a-guide-to = Canllaw i fewngofnodion a chyfrineiriau mwy diogel
 firefox-more-more-and-more = Mae mwy a mwy o'r pethau sensitif, gwerthfawr yn ein bywyd yn cael eu gwarchod gan gyfrineiriau.
 firefox-more-avoid-misinformation-heading = Osgoi camwybodaeth ar-lein - mae { -brand-name-firefox } yma i'ch helpu
 firefox-more-avoid-misinformation-desc = Dyma awgrymiadau ar gyfer gweld llai o gamwybodaeth a chanolbwyntio ar yr hyn sy'n bwysig i chi.
-firefox-more-is-firefox-a-private-browser = A yw { -brand-name-firefox } yn borwr preifat?
-firefox-more-were-focused-on-your-right-to = Rydym yn canolbwyntio ar eich hawl i breifatrwydd. Mae eich data, eich gweithgarwch gwe, eich bywyd ar-lein wedi'i ddiogelu gyda { -brand-name-firefox }.

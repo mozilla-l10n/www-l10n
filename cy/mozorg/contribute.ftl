@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/contribute/
@@ -33,7 +33,7 @@ contribute-task-join-desc = Eisiau cymryd mwy o ran yng nghymuned { -brand-name-
 
 contribute-mission-heading = Ein Cenhadaeth
 contribute-mission-desc = Ein cenhadaeth yw sicrhau fod y rhyngrwyd yn adnodd cyhoeddus byd-eang, yn agored ac ar gael i bawb. Rhyngrwyd sy'n wir yn gosod pobl yn gyntaf, lle gall unigolion siapio'u profiadau eu hunain ac sydd wedi eu hymrymuso, yn ddiogel ac yn annibynnol.
-contribute-learn = Dysgu am { -brand-name-mozilla }
+contribute-learn = Rhagor am { -brand-name-mozilla }
 contribute-read-manifesto = Darllenwch ein maniffesto
 contribute-find-event = Canfod digwyddiadau
 contribute-meet-volunteers = Cyfarfod â'n gwirfoddolwyr angerddol
