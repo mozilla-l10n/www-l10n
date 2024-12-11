@@ -53,3 +53,5 @@ m24-about-community-love-v2 = Dashuria e bashkësisë, motori ynë
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Dashuria e bashkësisë —<br> motori ynë
 m24-about-mozilla-is-a = { -brand-name-mozilla } është një bashkësi mbarëbotërore vullnetarësh të pasionuar, bashkëpunëtorësh dhe kontribuesish që merren me ndërtimin, mbrojtjen dhe dhënies formës internetit tok me ne që nga 1998-a.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Person me një çantë portativi, me tabelë { -brand-name-mozilla }.
