@@ -11,7 +11,7 @@ firefox-browsers-page-title = Llwythwch { -brand-name-firefox } i lawr ar gyfer 
 firefox-browsers-page-desc = Dewiswch rhwng Bwrdd Gwaith, { -brand-name-ios }, { -brand-name-android }, neu gadewch i ni e-bostio dolen llwytho symudol atoch.
 firefox-browsers-main-heading = Porwyr { -brand-name-firefox }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong-v2 = Defnyddiwch y porwr sy'n rhoi eich preifatrwydd yn gyntaf - ac sydd wedi<strong>erioed</strong>
+firefox-browsers-get-the-browsers-strong-v2 = Defnyddiwch y porwr sy'n rhoi eich preifatrwydd yn flaenaf - ac sydd wedi<s trong>erioed</strong>
 firefox-browsers-desktop = Bwrdd Gwaith
 firefox-browsers-seriously-private-browsing = Pori preifat o ddifrif. Mae { -brand-name-firefox } yn rhwystro 2000+ o dracwyr ar-lein yn awtomatig rhag casglu gwybodaeth am yr hyn rydych yn ei wneud ar-lein.
 firefox-browsers-download-for-desktop = Llwytho i lawr ar gyfer y Bwrdd Gwaith

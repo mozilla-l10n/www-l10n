@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Cael { -brand-name-firefox } ar gyfer eich menter gydag { -brand-name-esr } a Rapid Release
+firefox-enterprise-get-firefox-for-your-enterprise-with = Cael { -brand-name-firefox } ar gyfer eich sefydliad gydag { -brand-name-esr } a Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Cael diogelwch data heb ei ail gydag amlder ryddhau sy'n addas i chi gyda { -brand-name-firefox } ar gyfer menter. Llwythwch i lawr { -brand-name-esr } a Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-overview = Trosolwg
 firefox-enterprise-downloads = Pecynnau
-firefox-enterprise-get-firefox-for-your-enterprise = Cael { -brand-name-firefox } ar gyfer eich menter
+firefox-enterprise-get-firefox-for-your-enterprise = Cael { -brand-name-firefox } ar gyfer eich sefydliad
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Cael y porwr <a href="{ $url }">{ -brand-name-firefox-extended-support-release }  neu Rapid Release</a> am ddiogeledd data cynhwysfawr ac i ddiogelu eich data.
@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Sampl o'r <a href="{ $url }"
 firefox-enterprise-pkg-installer = Gosodwr PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-did
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Llwythwch { -brand-name-firefox-esr } neu Rapid Release  i lawr ar gyfer <br> <a href="{ $firefox_all }">iaith neu blatfform arall.</a>
