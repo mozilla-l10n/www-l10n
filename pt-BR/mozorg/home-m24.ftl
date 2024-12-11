@@ -12,6 +12,7 @@ m24-home-page-desc = Você sabia? A { -brand-name-mozilla }, criadora do { -bran
 ## Intro
 
 m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Desde tecnologia confiável até políticas que defendem seus direitos digitais, colocamos você em primeiro lugar — sempre.
 m24-home-learn-about-us = Saiba mais sobre nós
 
 ## Products
@@ -20,10 +21,13 @@ m24-home-love-the-internet = Volte a amar a internet
 m24-home-break-free-from = Liberte-se das grandes empresas de tecnologia. Nossos produtos colocam você no controle de uma experiência de internet mais segura e privativa.
 m24-home-explore-our-products = Conheça nossos produtos
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Use o padrão de ouro de navegação com velocidade, privacidade e controle.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Simplifique sua vida com um único aplicativo para todos os seus emails, agendas e contatos.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Detecte avaliações falsas, produtos ruins e vendedores não confiáveis.
 m24-home-pocket = { -brand-name-pocket }
-m24-home-save-the-internets = Salve o melhor conteúdo da internet em qualquer dispositivo, porque quem tem tempo para ler tudo na hora?
+m24-home-save-the-internets = Salve o melhor conteúdo da internet em qualquer dispositivo. Afinal, quem tem tempo de ler tudo na hora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
