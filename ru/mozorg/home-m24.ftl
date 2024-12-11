@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Мы работаем над тем, чтобы верн
 m24-home-welcome-to-mozilla = Добро пожаловать в { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = От заслуживающих доверия технологий до политик, защищающих ваши цифровые права, мы ставим вас на первое место — всегда.
 m24-home-learn-about-us = Узнайте о нас
+# Used as accessible text alternative for image
+m24-home-alt-flag = Стилизованный Зелёный флаг на чёрном фоне, созданный из буквы «M», означающей { -brand-name-mozilla }, и пикселя, смещенного в виде ссылки на исходный логотип динозавра.
 
 ## Products
 
