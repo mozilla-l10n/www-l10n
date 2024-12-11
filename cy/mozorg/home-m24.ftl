@@ -9,24 +9,24 @@
 m24-home-page-title = Rhyngrwyd i bobl, nid elw — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Rhyngrwyd i bobl, nid elw
 # HTML page description
-m24-home-page-desc = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn ymladd i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
+m24-home-page-desc = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn ymgyrchu i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac agored i bawb.
 m24-home-page-desc-v2 = Rydyn ni'n gweithio i roi rheolaeth ar y rhyngrwyd yn ôl yn nwylo'r bobl sy'n ei ddefnyddio.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Croeso i { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = O dechnoleg ddibynadwy i bolisïau sy'n amddiffyn eich hawliau digidol, rydyn ni'n eich rhoi chi'n gyntaf - bob amser.
+m24-home-from-trustworthy-tech = O dechnoleg ddibynadwy i bolisïau sy'n diogelu eich hawliau digidol, rydyn ni'n eich rhoi chi'n gyntaf - bob tro.
 m24-home-learn-about-us = Dysgwch amdanom ni
 
 ## Products
 
 m24-home-love-the-internet = Caru'r rhyngrwyd eto
-m24-home-break-free-from = Torri'n rhydd o dechnoleg fawr — mae ein cynnyrch yn eich rhoi chi mewn rheolaeth o brofiad rhyngrwyd mwy diogel a phreifat.
-m24-home-explore-our-products = Archwiliwch ein cynnyrch
+m24-home-break-free-from = Torri'n rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn eich rhoi chi mewn rheolaeth o brofiad rhyngrwyd mwy diogel a phreifat.
+m24-home-explore-our-products = Edrychwch ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Cael y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-go-chaosfree-with = Symleiddiwch eich bywyd gydag un ap ar gyfer eich holl e-byst, calendrau a chysylltiadau.
+m24-home-go-chaosfree-with = Symleiddio eich bywyd gydag un ap ar gyfer eich holl e-byst, calendrau a chysylltiadau.
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Adnabod adolygiadau ffug, cynnyrch gwael a gwerthwyr annibynadwy.
 m24-home-pocket = { -brand-name-pocket }
@@ -54,18 +54,18 @@ m24-home-tag-event = Digwyddiad
 m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
 m24-home-join-the-movement = Ymunwch â'r mudiad:<br> AI ar gyfer y bobl
-m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored, dibynadwy.
+m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored a dibynadwy.
 # Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } logo.
+m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile } .
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Rhedeg modelau iaith mawr (LLMs) yn hawdd ar eich cyfrifiadur gyda { -brand-name-llamafile } — nid oes angen gosod, ac mae eich data yn aros yn ddiogel ar eich dyfais.
+m24-home-run-large-language = Rhedwch modelau iaith mawr (LLMs) yn hawdd ar eich cyfrifiadur gyda { -brand-name-llamafile } — nid oes angen gosod, ac mae eich data yn aros yn ddiogel ar eich dyfais.
 m24-home-alt-builders = Adeiladwyr
-m24-home-mozilla-builders = { -brand-name-mozilla } Adeiladwyr
-m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu prosiectau AI ffynhonnell agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
 # Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } logo.
+m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Dewch o hyd i'r LLM cywir ar gyfer eich anghenion, defnyddio achos a data.
+m24-home-find-the-just = Dewch o hyd i'r LLM cywir ar gyfer eich anghenion, achos defnydd a data.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Llywydd { -brand-name-mozilla }.
 m24-home-can-ai-be = A all AI fod yn ddibynadwy?
