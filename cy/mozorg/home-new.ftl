@@ -32,10 +32,12 @@ home-join-us-in-shaping = Ymunwch â ni i lunio AI dibynadwy
 home-work-on-ai = Nid yw gwaith { -brand-name-mozilla } gydag AI yn beth newydd - rydym wedi treulio blynyddoedd yn ariannu, adeiladu ac eirioli dros AI sy'n agored, yn deg ac wedi'i ddatblygu'n gyfrifol. Rydym yn canolbwyntio ar greu AI sy’n gwasanaethu’r bobl, yn blaenoriaethu tryloywder ac yn cefnogi lles y cyhoedd, nid agendâu corfforaethol.
 home-read-more = Darllen rhagor
 home-so-what-is-mozilla = Felly, beth yw { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n creu newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n creu newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
+home-at-its-core-v2 = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n creu newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr—nid oes gennym ni ddim o’r rheini mewn gwirionedd.
 home-learn-about-mofo = Rhagor am y { -brand-name-mozilla-foundation }
 home-join-the-fight = Ymunwch â'r frwydr dros rhyngrwyd iach
 home-your-voice-your-code = Eich llais. Eich cod. Eich syniadau. Mae yna filoedd o ffyrdd y gallwch chi gyfrannu at { -brand-name-mozilla }.
@@ -45,8 +47,6 @@ home-the-mozilla-project = Sefydlwyd project { -brand-name-mozilla } yn San Fran
 home-eventually-the-open = Yn y pen draw, trawsnewidiodd project cod agored { -brand-name-mozilla } i'r fersiwn gyntaf hynod boblogaidd o { -brand-name-firefox }.
 home-today-mozilla-continues = Heddiw, mae { -brand-name-mozilla } yn parhau â'i symudiad tuag at well rhyngrwyd gyda miliynau o aelodau gweithgar o'r gymuned ar draws y byd, gan eiriol dros dechnoleg foesegol, AI dibynadwy ac yn cynhyrchu cynnyrch sy'n blaenori preifatrwydd ac yn rhoi mwy o bŵer i'r bobl.
 home-learn-more-about-mozilla = Rhagor am { -brand-name-mozilla }
-home-get-good-news = Cael  newyddion (da) { -brand-name-mozilla }
-home-get-news-and-tips = Cael newyddion ac awgrymiadau gan { -brand-name-mozilla } i gadw'n ddiogel a chael gwybod am bopeth sy'n gwneud y we yn lle iachach.
 # VPN Feature
 home-featured-product = Cynnyrch
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
