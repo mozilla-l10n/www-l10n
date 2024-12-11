@@ -21,10 +21,10 @@ m24-home-learn-about-us = Dysgwch amdanom ni
 ## Products
 
 m24-home-love-the-internet = Caru'r rhyngrwyd eto
-m24-home-break-free-from = Torri'n rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn eich rhoi chi mewn rheolaeth o brofiad rhyngrwyd mwy diogel a phreifat.
+m24-home-break-free-from = Torri'n rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
 m24-home-explore-our-products = Edrychwch ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = Cael y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
+m24-home-get-the-gold = Y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Symleiddio eich bywyd gydag un ap ar gyfer eich holl e-byst, calendrau a chysylltiadau.
 m24-home-fakespot = { -brand-name-fakespot }
@@ -42,7 +42,7 @@ m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y 
 
 m24-home-donate-to-the = Cyfrannwch at y { -brand-name-mozilla } dim-er-elw
 m24-home-mozilla-is-building = Mae { -brand-name-mozilla } yn adeiladu mudiad i adennill y rhyngrwyd. Gyda'n gilydd gallwn adeiladu dyfodol lle mae ein preifatrwydd yn cael ei ddiogelu, AI yn ddibynadwy a chwmnïau technoleg anghyfrifol yn cael eu dal yn atebol. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
-m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu i { -brand-name-mozilla } heddiw?
+m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu at { -brand-name-mozilla } heddiw?
 m24-home-donate = Cyfrannu
 
 ## AI gallery
@@ -119,7 +119,7 @@ m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Dyfeisiau clyfar gydag eicon rhybudd.
 m24-home-explore-issues-shaping = Archwilio materion sy'n siapio dyfodol y rhyngrwyd
-m24-home-privacy-not-included = *Preifatrwydd Heb ei Gynnwys
+m24-home-privacy-not-included = *Dim Preifatrwydd
 m24-home-search-our-reviews = Chwiliwch ein hadolygiadau i weld pa declynnau technoleg ac apiau sy'n dwyn eich data'n llechwraidd.
 m24-home-pni-search-now = Chwilio nawr
 # Used as an accessible text alternative for an image
