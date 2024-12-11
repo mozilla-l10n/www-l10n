@@ -16,7 +16,7 @@ m24-home-page-desc-v2 = Azon dolgozunk, hogy visszaadjuk az internet irányítá
 
 m24-home-welcome-to-mozilla = Üdvözli a { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = A megbízható technológiától kezdve a digitális jogait védő irányelvekig, mi Önt helyezzük az első helyre – mindig.
-m24-home-learn-about-us = Tudjon meg rólunk
+m24-home-learn-about-us = Tudjon meg többet rólunk
 
 ## Products
 
