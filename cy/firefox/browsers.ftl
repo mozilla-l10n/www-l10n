@@ -10,9 +10,6 @@ firefox-browsers-page-title = Llwythwch { -brand-name-firefox } i lawr ar gyfer 
 # HTML page description
 firefox-browsers-page-desc = Dewiswch rhwng Bwrdd Gwaith, { -brand-name-ios }, { -brand-name-android }, neu gadewch i ni e-bostio dolen llwytho symudol atoch.
 firefox-browsers-main-heading = Porwyr { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Cael y <strong>porwyr</strong> sy'n gosod eich preifatrwydd yn gyntaf - ac wedi gwneud erioed
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Defnyddiwch y porwr sy'n rhoi eich preifatrwydd yn gyntaf - ac sydd wedi<strong>erioed</strong>
 firefox-browsers-desktop = Bwrdd Gwaith
@@ -29,11 +26,11 @@ firefox-browsers-reality = { -brand-name-reality }
 firefox-browsers-go-beyond-two-dimensions-and = Ewch y tu hwnt i ddau ddimensiwn a mwynhewch y cynnwys trochi gorau o bob cwr o'r we.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Adeiladwch wefannau a mireinio'ch cod gyda <strong>{ -brand-name-devtools }</strong> { -brand-name-firefox }
-firefox-browsers-learn-more-about-devtools = Dysgwch ragor am { -brand-name-devtools }
+firefox-browsers-learn-more-about-devtools = Rhagor am { -brand-name-devtools }
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign-v2 = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> dysgwch ragor</a> am ymuno â { -brand-name-firefox }.
+firefox-browsers-already-have-an-account-sign-v2 = Eisoes â chyfrif? <a { $fxa_attr }>Mewngofnodwch</a> neu <a { $accounts_attr }> ragor</a> am ymuno â { -brand-name-firefox }.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

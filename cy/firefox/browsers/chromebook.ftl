@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
@@ -26,4 +26,4 @@ browsers-chromebook-install-firefox-from = Gosod { -brand-name-firefox } o { -br
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
-browsers-chromebook-install-firefox-as = Gosod { -brand-name-firefox } fel rhaglen { -brand-name-linux }: mae dilyn y llwybr hwn yn cymryd ychydig mwy o gamau, ond mae'n werth chweil. Pan fyddwch yn gosod y porwr { -brand-name-firefox } fel rhaglen { -brand-name-linux }, cewch y porwr  { -brand-name-firefox } bwrdd gwaith a'r holl fanteision o wneud hynny, gan gynnwys Diogelu Rhag Tracio Uwch , rheolwr cyfrineiriau mewnol, mynediad at filoedd o ychwanegion (gan gynnwys atalydd hysbysebion UBlock Origin), a themâu i addasu gwedd eich porwr. <a { $url }>Dysgu rhagor am osod porwr { -brand-name-firefox } bwrdd gwaith ar gyfer { -brand-name-chromebook }. </a>
+browsers-chromebook-install-firefox-as = Gosod { -brand-name-firefox } fel rhaglen { -brand-name-linux }: mae dilyn y llwybr hwn yn cymryd ychydig mwy o gamau, ond mae'n werth chweil. Pan fyddwch yn gosod y porwr { -brand-name-firefox } fel rhaglen { -brand-name-linux }, cewch y porwr  { -brand-name-firefox } bwrdd gwaith a'r holl fanteision o wneud hynny, gan gynnwys Diogelu Rhag Tracio Uwch , rheolwr cyfrineiriau mewnol, mynediad at filoedd o ychwanegion (gan gynnwys atalydd hysbysebion UBlock Origin), a themâu i addasu gwedd eich porwr. <a { $url }>Rhagor am osod porwr { -brand-name-firefox } bwrdd gwaith ar gyfer { -brand-name-chromebook }. </a>

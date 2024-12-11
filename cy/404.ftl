@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Rydym yn angerddol am ryngrwy
 not-found-page-go-back = Mynd Nôl
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Dysgu</a> am { -brand-name-mozilla }, y corff nid-er-elw y tu ôl i { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Rhagor</a> am { -brand-name-mozilla }, y corff nid-er-elw y tu ôl i { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i lawr</a> y porwr { -brand-name-firefox } ar gyfer eich dyfais symudol neu'ch bwrdd gwaith
