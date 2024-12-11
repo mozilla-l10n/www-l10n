@@ -58,8 +58,8 @@ m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile } .
 m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Rhedwch modelau iaith mawr (LLMs) yn hawdd ar eich cyfrifiadur gyda { -brand-name-llamafile } — nid oes angen gosod, ac mae eich data yn aros yn ddiogel ar eich dyfais.
-m24-home-alt-builders = Adeiladwyr
+m24-home-run-large-language = Rhedwch modelau iaith mawr (LLMs) yn hawdd ar eich cyfrifiadur gyda { -brand-name-llamafile } — nid oes angen eu gosod, ac mae eich data yn aros yn ddiogel ar eich dyfais.
+m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
 # Used as an accessible text alternative for an image
@@ -69,12 +69,12 @@ m24-home-find-the-just = Dewch o hyd i'r LLM cywir ar gyfer eich anghenion, acho
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Llywydd { -brand-name-mozilla }.
 m24-home-can-ai-be = A all AI fod yn ddibynadwy?
-m24-home-in-a-world = Mewn byd lle mae arloesedd AI yn cael ei yrru gan ychydig ddethol, rydym mewn perygl o fonopoleiddio'r dechnoleg hon. Gallai cymhwyso cysyniadau ffynhonnell agored i AI newid hynny.
+m24-home-in-a-world = Mewn byd lle mae arloesedd AI yn cael ei yrru gan ychydig ddethol, rydym mewn perygl o fonopoleiddio'r dechnoleg hon. Gallai cymhwyso cysyniadau cod agored i AI newid hynny.
 m24-home-watch-now = Gwyliwch nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Siaradwr ar y llwyfan gyda logos cynnyrch lluosog.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = Oes gennych chi gychwyn cyfnod cynnar? Cynigiwch eich cwmni i { -brand-name-mozilla-ventures } a sicrhewch gyllid i ysgogi newid cadarnhaol ar gyfer dyfodol AI a'r rhyngrwyd.
+m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cynigiwch eich cwmni i { -brand-name-mozilla-ventures } a sicrhewch gyllid i ysgogi newid cadarnhaol ar gyfer dyfodol AI a'r rhyngrwyd.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Cyfrannwch eich llais i wneud technoleg lleferydd yn fwy cynhwysol a hygyrch i bawb.
 m24-home-donate-your-voice = Cyfrannwch eich llais
@@ -84,7 +84,7 @@ m24-home-donate-your-voice = Cyfrannwch eich llais
 m24-home-type = Math
 m24-home-author = Awdur
 m24-home-topic = Pwnc
-m24-home-intro = Intro
+m24-home-intro = Cyflwyniad
 m24-home-tag-article = Erthygl
 m24-home-tag-podcast = Podlediad
 m24-home-tag-video = Fideo
@@ -92,20 +92,20 @@ m24-home-topic-news = Newyddion
 m24-home-topic-ai = Deallusrwydd Artiffisial
 m24-home-topic-ps = Preifatrwydd a Diogelwch
 # Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Pennawd: Chi, AI a'r rhyngrwyd - beth sy'n digwydd mewn gwirionedd?
-m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd - beth sy'n digwydd mewn gwirionedd?
-m24-home-introducing-anonym = Cyflwyno { -brand-name-anonym }: Codi'r bar ar gyfer hysbysebu digidol sy'n cadw preifatrwydd.
-m24-home-keeping-genai-technologies = Mae cadw technolegau GenAI yn ddiogel yn gyfrifoldeb a rennir.
+m24-home-headline-you-ai = Pennawd: Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
+m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
+m24-home-introducing-anonym = Cyflwyno { -brand-name-anonym }: Codi'r bar ar gyfer hysbysebu digidol sy'n diogelu preifatrwydd.
+m24-home-keeping-genai-technologies = Mae cadw technolegau GenAI yn ddiogel yn gyfrifoldeb i'w rannu.
 m24-home-from-hollywood-to = O Hollywood i hip hop, mae artistiaid yn negodi caniatâd AI.
 m24-home-mozilla-celebrates-groundbreaking = Mae { -brand-name-mozilla } yn dathlu crewyr arloesol mewn cyfres ddogfen newydd “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = Mae pŵer technoleg fawr dros iaith yn golygu pŵer dros bobl. Bridget Todd yn siarad ag arweinwyr cymunedau iaith i baratoi'r ffordd ar gyfer llais AI yn eu hieithoedd a'u tafodieithoedd eu hunain.
-m24-home-why-does-it = Pam mae mor aml yn teimlo ein bod ni'n rhan o arbrawf AI torfol? Beth yw'r ffordd gyfrifol o brofi technolegau newydd? Mae Bridget Todd yn archwilio beth mae'n ei olygu i fyw gyda systemau AI heb eu profi sy'n effeithio ar filiynau o bobl wrth iddynt gyflwyno ar draws bywyd cyhoeddus.
-m24-home-kids-are-growing = Mae plant yn tyfu i fyny mewn byd ar-lein iawn. Beth mae rhiant pryderus i'w wneud?
+m24-home-big-techs-power = Mae pŵer technoleg fawr dros iaith yn golygu pŵer dros bobl. Mae Bridget Todd yn siarad gydag arweinwyr cymunedau iaith i baratoi'r ffordd ar gyfer llais AI yn eu hieithoedd a'u tafodieithoedd eu hunain.
+m24-home-why-does-it = Pam mae'n teimlo'n aml ein bod ni'n rhan o arbrawf AI torfol? Beth yw'r ffordd gyfrifol o brofi technolegau newydd? Mae Bridget Todd yn archwilio beth mae'n ei olygu i fyw gyda systemau AI sydd heb eu profi ac sy'n effeithio ar filiynau o bobl wrth iddyn nhw gael eu cyflwyno ar draws bywyd cyhoeddus.
+m24-home-kids-are-growing = Mae plant yn tyfu mewn byd ar-lein iawn. Beth mae rhiant pryderus i'w wneud?
 
 ## Showcase
 
-m24-home-rise25-awards = { -brand-name-rise25 } Gwobrau
-m24-home-get-to-know = Dewch i adnabod yr arweinwyr sy'n hyrwyddo datblygiad AI dibynadwy, cynhwysol a thryloyw wrth iddynt osod safon newydd ac ysbrydoli'r genhedlaeth nesaf o arloeswyr.
+m24-home-rise25-awards = Gwobrau { -brand-name-rise25 }
+m24-home-get-to-know = Dewch i adnabod yr arweinwyr sy'n hyrwyddo datblygiad AI dibynadwy, cynhwysol a thryloyw wrth iddyn nhw osod safon newydd ac ysbrydoli'r genhedlaeth nesaf o arloeswyr.
 m24-home-watch-the-award = Gwyliwch y sioe wobrwyo
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Anrhydeddwr balch yn { -brand-name-rise25 }.
