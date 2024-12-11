@@ -59,14 +59,28 @@ m24-home-alt-lumigator-logo = Stemë e { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, president i { -brand-name-mozilla }-s.
+m24-home-watch-now = Shiheni tani
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Dhuroni zërin tuaj
 
 ## Media Springboard
 
+m24-home-type = Lloj
+m24-home-author = Autor
+m24-home-topic = Temë
+m24-home-intro = Hyrje
+m24-home-tag-article = Artikull
+m24-home-tag-podcast = Podkast
+m24-home-tag-video = Video
+m24-home-topic-news = Lajme
+m24-home-topic-ai = Inteligjencë Artificiale
 m24-home-topic-ps = Privatësi & Siguri
 
 ## Showcase
 
 m24-home-rise25-awards = Çmime { -brand-name-rise25 }
+m24-home-watch-the-award = Shihni veprimtarinë e çmimeve
 
 ## Issues
 
