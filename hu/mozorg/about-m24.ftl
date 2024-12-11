@@ -62,8 +62,8 @@ m24-about-alt-conversation = { -brand-name-mozilla } alkalmazott beszélgetés k
 m24-about-alt-drinking-coffee = Kávét ivó { -brand-name-mozilla } alkalmazott.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Együttműködő { -brand-name-mozilla } alkalmazottak.
-m24-about-join-us-and = Csatlakozzon hozzánk, és tegyen változást
-m24-about-join-our-team = Csatlakozzon a csapatunkhoz, és feszegesse a lehetségesek határait – anélkül, hogy kompromisszumokat kötne arról, ami számít.
+m24-about-join-us-and = Csatlakozzon hozzánk, és érjen el változást
+m24-about-join-our-team = Csatlakozzon a csapatunkhoz, és feszegesse a lehetőségek határait – anélkül, hogy kompromisszumokat kötne abban, ami számít.
 m24-about-see-open-positions = Nyitott pozíciók megtekintése
 
 ## Community
