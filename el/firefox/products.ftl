@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Προϊόντα της { -brand-name-mozill
 firefox-products-mozillas-family-of-products = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο
 firefox-products-products = Προϊόντα
 firefox-products-firefox-beginning-v2 = Το { -brand-name-firefox } είναι μόνο η αρχή.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = Το { -brand-name-firefox } είναι μόνο η αρχή
 firefox-products-mozillas-family-of-products-sentence = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο.
 
 ## Firefox
@@ -35,7 +33,7 @@ firefox-products-check-for-breaches = Έλεγχος για παραβιάσει
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Προστατέψτε την πραγματική σας διεύθυνση email και ελέγξτε τα εισερχόμενά σας.
-firefox-products-get-relay = Λήψη { -brand-name-firefox-relay }
+firefox-products-get-relay = Λήψη του { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -53,7 +51,7 @@ firefox-products-support-mdn = Υποστήριξη { -brand-name-mdn }
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Πρόσβαση σε όλα τα email, τα ημερολόγια και τις επαφές σας σε μια γρήγορη εφαρμογή. Φιλτράρετε και οργανώστε τα όπως σας αρέσει.
-firefox-products-download-thunderbird = Λήψη { -brand-name-thunderbird }
+firefox-products-download-thunderbird = Λήψη του { -brand-name-thunderbird }
 
 ## Fakespot
 
@@ -67,6 +65,4 @@ firefox-products-analyze = Ανάλυση URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Ανακαλύψτε το καλύτερο περιεχόμενο στο διαδίκτυο και καταναλώστε το όπου και όποτε θέλετε. Από τη { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Ανακαλύψτε το καλύτερο περιεχόμενο στο διαδίκτυο — και καταναλώστε το όπου και όποτε θέλετε.
 firefox-products-get-pocket = Λήψη του { -brand-name-pocket }
