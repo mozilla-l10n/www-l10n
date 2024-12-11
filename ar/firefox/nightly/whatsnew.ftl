@@ -18,7 +18,7 @@ nightly-whatsnew-this-is-a-good = هذا هو الوقت المُناسب لأش
 
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = إذا كنت تريد أن تعرف ما يحدث بخصوص { -brand-name-nightly } ومجتمعها، ستكون قراءة <a { $blog }>مدوّنتنا</a> ومتابعتنا على <a { $mastodon }>Mastodon</a> أو <a { $twitter }>X</a> بمثابة نقاط بدء جيدة!
 

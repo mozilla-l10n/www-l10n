@@ -18,7 +18,7 @@ nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-f
 
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a { $blog }>ブログ</a>をご覧いただくか、<a { $mastodon }>Mastodon</a> または <a { $twitter }>X/Twitter</a> で Mozilla をフォローしていただくとよいでしょう。
 
