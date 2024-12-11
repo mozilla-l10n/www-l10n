@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-support-ethical = Υποστηρίξτε την ηθική AI και το διαδικτυακό απόρρητο — <strong><a { $donate }>κάντε δωρεά σήμερα!</a></strong>
+m24-pencil-banner-donate-by = Κάντε μια δωρεά στη { -brand-name-mozilla } έως τις 31 Δεκεμβρίου — <strong><a { $donate }>Δωρεά ♥</a></strong>

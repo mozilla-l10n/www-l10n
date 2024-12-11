@@ -48,6 +48,8 @@ m24-home-tag-article = Άρθρο
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
+m24-home-topic-ai = Τεχνητή νοημοσύνη
+m24-home-topic-ps = Απόρρητο και ασφάλεια
 
 ## Showcase
 
