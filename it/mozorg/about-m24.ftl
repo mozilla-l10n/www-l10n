@@ -57,3 +57,4 @@ m24-about-see-open-positions = Visualizza le posizioni aperte
 m24-about-community-love-v2 = L’amore della comunità, la forza che ci guida
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = L’amore della comunità,<br> la forza che ci guida
+m24-about-mozilla-is-a = { -brand-name-mozilla } è una comunità mondiale formata da appassionati volontari, fellow e collaboratori che, dal 1998, lavorano al nostro fianco per costruire, proteggere e modellare Internet.
