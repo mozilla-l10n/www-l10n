@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-donate-by = Cyfrannwch i { -brand-name-mozilla } erbyn Rhagfyr 31 — <strong><a { $donate }>Rhoi ♥</a></strong>
+m24-pencil-banner-donate-by = Cyfrannwch at { -brand-name-mozilla } erbyn Rhagfyr 31 — <strong><a { $donate }>Rhoi ♥</a></strong>

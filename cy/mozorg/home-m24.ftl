@@ -40,7 +40,7 @@ m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y 
 
 ## Donate
 
-m24-home-donate-to-the = Cyfrannwch i { -brand-name-mozilla } dim-er-elw
+m24-home-donate-to-the = Cyfrannwch at y { -brand-name-mozilla } dim-er-elw
 m24-home-mozilla-is-building = Mae { -brand-name-mozilla } yn adeiladu mudiad i adennill y rhyngrwyd. Gyda'n gilydd gallwn adeiladu dyfodol lle mae ein preifatrwydd yn cael ei ddiogelu, AI yn ddibynadwy a chwmnïau technoleg anghyfrifol yn cael eu dal yn atebol. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
 m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu i { -brand-name-mozilla } heddiw?
 m24-home-donate = Cyfrannu

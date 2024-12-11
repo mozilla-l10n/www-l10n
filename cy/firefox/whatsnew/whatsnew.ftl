@@ -6,18 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title-v2 = Beth sy'n newydd gyda { -brand-name-firefox }
-# Obsolete string
-whatsnew-page-title = Beth sy'n newydd gyda { -brand-name-firefox } - Rhagor o breifatrwydd, rhagor o ddiogelu.
 whatsnew-page-description = Gwnewch safiad yn erbyn diwydiant sy'n gwerthu eich data i drydydd partïon. Byddwch yn graff a diogel ar-lein gyda thechnoleg sydd o'ch plaid.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Mae eich { -brand-name-firefox } wedi'i ddiweddaru.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Darllenwch y <a { $url }>Nodiadau Rhyddhau</a> i wybod mwy am yr hyn sy'n newydd yn eich porwr { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Darllenwch y <a href="{ $url }">Nodiadau Ryddhau</a> i wybod rhagor am yr hyn sy'n newydd yn eich porwr { -brand-name-firefox }.
 whatsnew-signoff = <strong>Wedi'i bweru gan { -brand-name-mozilla }.</strong> Rhoi pobl cyn elw ers 1998.
-whatsnew-donate-to-mofo = Rhowch i'r { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo = Cyfrannwch at y { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Diolch am ddewis { -brand-name-firefox }
