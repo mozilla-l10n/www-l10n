@@ -59,7 +59,7 @@ nope-never-have = Na. Byth wedi gwneud a byth am wneud. Ac rydym yn eich diogelu
 why-is-firefox = Pam mae { -brand-name-firefox } mor araf?
 firefox-isnt-slow = Nid yw { -brand-name-firefox } yn araf… nawr. Yn 2017, gwnaethom ailadeiladu ein peiriant porwr yn llwyr (ei enw yw Quantum), er mwyn sicrhau y gallai { -brand-name-firefox } gystadlu â phorwyr mawr eraill. Ac, mae ein rhwystrydd tracwyr yn helpu tudalennau i lwytho hyd yn oed yn gyflymach. Felly mae { -brand-name-firefox } yn chwim o gyflym heb aberthu dim o'ch preifatrwydd.
 is-firefox-chromium = A yw { -brand-name-firefox } wedi ei adeiladu ar { -brand-name-chromium }?
-firefox-is-not = Nid yw { -brand-name-firefox } wedi'i seilio ar { -brand-name-chromium } (y prosiect porwr cod agored sy'n sail i { -brand-name-google } { -brand-name-chrome }). Mewn gwirionedd, ni yw un o'r porwyr mawr olaf nad yw wedi ei adeiladu ar sail { -brand-name-chromium }. Mae { -brand-name-firefox } yn rhedeg ein peiriant porwr Quantum a adeiladwyd yn benodol ar gyfer { -brand-name-firefox }, felly gallwn sicrhau bod eich data yn cael ei drin gyda pharch a'i gadw'n breifat.
+firefox-is-not = Nid yw { -brand-name-firefox } wedi'i seilio ar { -brand-name-chromium } (y project porwr cod agored sy'n sail i { -brand-name-google } { -brand-name-chrome }). Mewn gwirionedd, ni yw un o'r porwyr mawr olaf nad yw wedi ei adeiladu ar sail { -brand-name-chromium }. Mae { -brand-name-firefox } yn rhedeg ein peiriant porwr Quantum a adeiladwyd yn benodol ar gyfer { -brand-name-firefox }, felly gallwn sicrhau bod eich data yn cael ei drin gyda pharch a'i gadw'n breifat.
 does-firefox-use = A yw { -brand-name-firefox } yn defnyddio { -brand-name-google }?
 
 # Variables:

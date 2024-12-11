@@ -13,7 +13,7 @@ browser-history-before-web-era = Cyn Oes y We
 browser-history-in-1950-computers = Ym 1950, roedd cyfrifiaduron mor fawr ag ystafelloedd cyfan ac yn llai galluog na chyfrifianellau poced heddiw. Ond bu'r cynnydd yn un cyflym, ac erbyn 1960 roedden nhw'n gallu rhedeg rhaglenni cymhleth. Roedd llywodraethau a phrifysgolion ar draws y byd o'r farn y byddai'n wych pe gallai'r peiriannau siarad, gan feithrin cydweithrediad a datblygiadau gwyddonol.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
-browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> oedd y prosiect rhwydweithio llwyddiannus cyntaf ac yn 1969 anfonwyd y neges gyntaf o'r labordy gwyddoniaeth gyfrifiadurol ym Mhrifysgol California, Los Angeles (UCLA) i Stanford Research Institute (SRI), hefyd yng Nghaliffornia.
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> oedd y project rhwydweithio llwyddiannus cyntaf ac yn 1969 anfonwyd y neges gyntaf o'r labordy gwyddoniaeth gyfrifiadurol ym Mhrifysgol California, Los Angeles (UCLA) i Stanford Research Institute (SRI), hefyd yng Nghaliffornia.
 browser-history-that-sparked-a-revolution = Arweiniodd hynny at chwyldro mewn rhwydweithio cyfrifiadurol. Ffurfiwyd rhwydweithiau newydd, gan gysylltu prifysgolion a chanolfannau ymchwil ledled y byd. Ond am yr 20 mlynedd nesaf, nid oedd y rhyngrwyd ar gael i'r cyhoedd. Roedd wedi'i gyfyngu i ymchwilwyr prifysgol, llywodraeth a myfyrwyr, a chorfforaethau preifat. Roedd dwsinau o raglenni a allai fasnachu gwybodaeth dros linellau ffôn, ond nid oedd yr un ohonynt yn hawdd i'w defnyddio. Nid oedd y rhyngrwyd agored go iawn a'r porwr gwe cyntaf, wedi'i greu tan 1990.
 browser-history-web-era = Oes y We
 # Variables:
@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Rhyfeloedd y Porwyr
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Erbyn 1995, nid { -brand-name-netscape } Navigator oedd yr unig ffordd i fynd ar-lein. Trwyddedodd y cawr meddalwedd { -brand-name-microsoft } hen god Mosaic ac adeiladu ei ffenestr ei hun i'r we, <a href="{ $ie }">{ -brand-name-ie }</a>. Ysgogodd y ryddhad ryfel. Gweithiodd { -brand-name-netscape } a { -brand-name-microsoft } yn ffyrnig i wneud fersiynau newydd o'u rhaglenni, gyda phob un yn ceisio gwneud yn well na'r llall gyda chynnyrch cyflymach a gwell.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = Creodd a rhyddhaodd { -brand-name-netscape } JavaScript, a roddodd i wefannau cyfrifiadura alluoedd pwerus nad oeddent erioed wedi'u cael o'r blaen. (Nhw hefyd greodd y tag <a href="{ $blink }">&lt;blink&gt;</a> anenwog.) Cyflwynodd { -brand-name-microsoft } Cascading Style Sheets (CSS), a ddaeth yn safon ar gyfer dylunio tudalennau gwe.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
