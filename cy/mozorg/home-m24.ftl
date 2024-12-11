@@ -28,21 +28,21 @@ m24-home-get-the-gold = Cael y safon aur ar gyfer pori cyflym, preifat a rheolae
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Symleiddiwch eich bywyd gydag un ap ar gyfer eich holl e-byst, calendrau a chysylltiadau.
 m24-home-fakespot = { -brand-name-fakespot }
-m24-home-spot-fake-reviews = Sylwch ar adolygiadau ffug, cynhyrchion gwael a gwerthwyr annibynadwy.
+m24-home-spot-fake-reviews = Adnabod adolygiadau ffug, cynnyrch gwael a gwerthwyr annibynadwy.
 m24-home-pocket = { -brand-name-pocket }
-m24-home-save-the-internets = Arbed cynnwys gorau'r rhyngrwyd ar unrhyw ddyfais - oherwydd pwy sydd ag amser i ddarllen popeth nawr?
+m24-home-save-the-internets = Cadw cynnwys gorau'r rhyngrwyd ar unrhyw ddyfais - pwy sydd ag amser i ddarllen popeth nawr?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = Cadwch eich lleoliad ac anturiaethau ar-lein yn breifat - ffrydio fel lleol, unrhyw le.
+m24-home-keep-your-location = Cadw eich lleoliad ac anturiaethau ar-lein yn breifat - ffrydio fel person lleol, yn unrhyw le.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Mynnwch wybod os yw'ch gwybodaeth bersonol mewn perygl a'i chloi i lawr fel pro.
+m24-home-get-a-headsup = Cael gwybod os yw'ch manylion personol mewn perygl a'u diogelu'n iawn.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Cuddiwch eich e-bost a'ch rhif ffôn fel mai dim ond y negeseuon rydych chi eu heisiau y byddwch chi'n cael.
+m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y negeseuon rydych chi eu heisiau y byddwch chi'n eu cael.
 
 ## Donate
 
-m24-home-donate-to-the = Cyfrannwch i { -brand-name-mozilla } di-elw
+m24-home-donate-to-the = Cyfrannwch i { -brand-name-mozilla } dim-er-elw
 m24-home-mozilla-is-building = Mae { -brand-name-mozilla } yn adeiladu mudiad i adennill y rhyngrwyd. Gyda'n gilydd gallwn adeiladu dyfodol lle mae ein preifatrwydd yn cael ei ddiogelu, AI yn ddibynadwy a chwmnïau technoleg anghyfrifol yn cael eu dal yn atebol. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
-m24-home-were-proudly-nonprofit = Rydym yn falch nad ydym yn gwneud elw. A wnewch chi gyfrannu i { -brand-name-mozilla } heddiw?
+m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu i { -brand-name-mozilla } heddiw?
 m24-home-donate = Cyfrannu
 
 ## AI gallery
@@ -54,7 +54,7 @@ m24-home-tag-event = Digwyddiad
 m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
 m24-home-join-the-movement = Ymunwch â'r mudiad:<br> AI ar gyfer y bobl
-m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu gydag AI ffynhonnell agored, dibynadwy, a chydweithio arno.
+m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored, dibynadwy.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } logo.
 m24-home-llamafile = { -brand-name-llamafile }
