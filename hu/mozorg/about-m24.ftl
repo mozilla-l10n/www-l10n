@@ -74,4 +74,4 @@ m24-about-community-love = Közösségi szeretet –<br> a hajtóerőnk
 m24-about-mozilla-is-a = A { -brand-name-mozilla } egy elkötelezett önkéntesekből, társakból és közreműködőkből álló globális közösség, akik 1998 óta építik, védik és alakítják az internetet velünk.
 m24-about-from-writing-code = A kódírástól kezdve a hibák felfedezésén át az adatvédelem támogatásáig és az internet mindenki számára nyitva tartásáig – a közösségi tagjaink minden tevékenységünk gerincét képezik. Szenvedélyük és elhivatottságuk inspirál minket minden nap.
 # Used as an accessible text alternative for an image
-m24-about-alt-community = Személy laptoptáskával és { -brand-name-mozilla } zsinórral.
+m24-about-alt-community = Ember laptoptáskával és { -brand-name-mozilla(case: "lower", ending: "accented") }s szalaggal.

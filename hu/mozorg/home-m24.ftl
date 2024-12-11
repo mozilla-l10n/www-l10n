@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 # HTML Page title
-m24-home-page-title = Internet az emberekért, nem a haszon – { -brand-name-mozilla }
+m24-home-page-title = Internet az emberekért, nem a haszonért – { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } – Internet az emberekért, nem a haszonért
 # HTML page description
 m24-home-page-desc = Tudta? A { -brand-name-mozilla } – a { -brand-name-firefox } készítője – azért harcol, hogy az internet megmaradjon globális közösségi erőforrásnak, és mindenki számára elérhetőnek.
