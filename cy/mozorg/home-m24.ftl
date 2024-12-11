@@ -53,7 +53,7 @@ m24-home-tag-program = Rhaglen
 m24-home-tag-event = Digwyddiad
 m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
-m24-home-join-the-movement = Ymunwch â'r mudiad:<br> AI ar gyfer y bobl
+m24-home-join-the-movement = Ymunwch â'r symudiad:<br> AI ar gyfer y bobl
 m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored a dibynadwy.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile } .
