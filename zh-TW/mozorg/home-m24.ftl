@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = 我們正努力將網際網路的控制權交還給使�
 m24-home-welcome-to-mozilla = 歡迎來到 { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = 不論是從可信賴的技術，到保護您數位權利的政策：我們總是將您擺在第一位。
 m24-home-learn-about-us = 了解我們
+# Used as accessible text alternative for image
+m24-home-alt-flag = 黑底上的程式化綠色旗子由 { -brand-name-mozilla } 的「M」打造而成。另外還有一個像素點被位移以代表其原始的恐龍圖示。
 
 ## Products
 
