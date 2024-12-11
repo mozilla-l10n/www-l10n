@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = ჩვენ ვმუშაობთ, რომ ინ�
 m24-home-welcome-to-mozilla = მოგესალმებათ { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = სანდო ტექნოლოგიებით დაწყებული, თქვენი ციფრული უფლებების უზრუნველმყოფი დებულებებით დასრულებული, ჩვენთვის უწინარესი თქვენ ხართ და იქნებით — მუდამ.
 m24-home-learn-about-us = ვრცლად ჩვენ შესახებ
+# Used as accessible text alternative for image
+m24-home-alt-flag = სტილიზებული მწვანე დროშა შავ ფონზე, აგებული ‘M’-ისგან { -brand-name-mozilla }-სთვის და პიქსელიდან, რომელიც გადაადგილებულია დინოზავრის ლოგოს მითითებისთვის.
 
 ## Products
 
