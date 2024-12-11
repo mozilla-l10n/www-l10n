@@ -29,11 +29,16 @@ m24-home-spot-fake-reviews = Detecte avaliações falsas, produtos ruins e vende
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Salve o melhor conteúdo da internet em qualquer dispositivo. Afinal, quem tem tempo de ler tudo na hora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Mantenha a privacidade de sua localização e de suas aventuras online. Assista a transmissões de vídeo como se estivesse no local, em qualquer lugar.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Receba um alerta caso suas informações pessoais estejam em risco e as proteja como um especialista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Oculte seu email e número de celular para receber somente as mensagens que quiser.
 
 ## Donate
 
+m24-home-donate-to-the = Faça uma doação para a organização sem fins lucrativos { -brand-name-mozilla }
+m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Você poderia fazer uma doação para a { -brand-name-mozilla }?
 m24-home-donate = Faça uma doação
 
 ## AI gallery
@@ -51,6 +56,8 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Encontre o modelo de linguagem (LLM) certo para suas necessidades, caso de uso e dados.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, presidente da { -brand-name-mozilla }.
 m24-home-can-ai-be = Inteligência artificial pode ser confiável?
 m24-home-in-a-world = Em um mundo onde a inovação em inteligência artificial é conduzida por poucas pessoas, corremos o risco dessa tecnologia ser monopolizada. Aplicar conceitos de código aberto à inteligência artificial pode mudar isso.
 m24-home-watch-now = Assista agora
@@ -77,6 +84,7 @@ m24-home-topic-ps = Privacidade e Segurança
 
 ## Showcase
 
+m24-home-rise25-awards = Prêmios { -brand-name-rise25 }
 m24-home-watch-the-award = Assista à cerimônia de premiação
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-name-rise25 }.
@@ -84,4 +92,6 @@ m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-
 ## Issues
 
 m24-home-privacy-not-included = *Privacidade não incluída
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
