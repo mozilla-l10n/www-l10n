@@ -49,7 +49,7 @@ m24-about-chicago = Egy chicagói vállalkozó.
 ## Showcase
 
 m24-about-lets-build-a = Építsünk egy tisztességesebb jövőt
-m24-about-see-how-were = Nézze meg, hogyan támogatunk egy sokszínű, inkluzív és mindenki számára hozzáférhető online környezetet.
+m24-about-see-how-were = Nézze meg, hogyan támogatunk egy sokszínű, befogadó és mindenki számára hozzáférhető online környezetet.
 m24-about-read-about-our = Olvasson az elkötelezettségünkről
 
 ## Careers
