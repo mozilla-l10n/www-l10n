@@ -20,7 +20,7 @@ m24-home-learn-about-us = Dysgwch amdanom ni
 
 ## Products
 
-m24-home-love-the-internet = Caru'r rhyngrwyd eto
+m24-home-love-the-internet = Carwch y rhyngrwyd eto
 m24-home-break-free-from = Torri'n rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
 m24-home-explore-our-products = Edrychwch ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
