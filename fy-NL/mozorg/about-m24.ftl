@@ -48,9 +48,14 @@ m24-about-chicago = In yn Chicago fêstige ûndernimmer.
 
 ## Showcase
 
+m24-about-lets-build-a = Lit ús bouwe oan in earlike takomst
+m24-about-see-how-were = Sjoch hoe't wy in ferskaat, ynklusive en tagonklike onlineomjouwing foar elkenien befoarderje.
+m24-about-read-about-our = Mear oer ús tawijing
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Betroubere AI, { -brand-name-common-voice }, federearre leare.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = { -brand-name-mozilla } meiwurker midden yn petear.
 # Used as an accessible text alternative for an image
@@ -58,6 +63,15 @@ m24-about-alt-drinking-coffee = { -brand-name-mozilla } meiwurker dy’t kofje d
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = { -brand-name-mozilla }-wurknimmers wurkje gear.
 m24-about-join-us-and = Doch mei en meitsje it ferskil
+m24-about-join-our-team = Wurd lid fan ús team en ferlis de grinzen fan wat mooglik is – sûnder kompromissen te sluten oer wat wichtich is.
+m24-about-see-open-positions = Iepensteande funksjes besjen
 
 ## Community
 
+m24-about-community-love-v2 = Mienskipsleafde, ús driuwende krêft
+# Obsolete string (expires: 2025-02-03)
+m24-about-community-love = Mienskipsleafde –<br> ús driuwende krêft
+m24-about-mozilla-is-a = { -brand-name-mozilla } is in wrâldwide mienskip fan entûsjaste frijwilligers, fellows en meiwurkers dy't sûnt 1998 it ynternet mei ús bouwe, beskermje en foarmje.
+m24-about-from-writing-code = Fan it skriuwen fan koade en it opspoaren fan bugs oant it pleiten foar privacy en it iepenjen fan it ynternet foar elkenien – ús mienskipsleden binne de rêchbonke fan alles wat wy dogge. Har passy en tawijing ynspirearje ús elke dei.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Persoan mei in laptoptas en in { -brand-name-mozilla } kaaikoard.
