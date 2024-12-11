@@ -21,5 +21,7 @@ ui-show-all = Shfaqi Krejt
 ui-hide-all = Fshihi Krejt
 ui-learn-more = Mësoni më tepër
 ui-view = Shiheni
+ui-pause-animation = Ndale animacionin
+ui-play-animation = Luaje animacionin
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Promocion

@@ -37,7 +37,7 @@ home-at-its-core = Në thelbin e vet, { -brand-name-mozilla } është një ent v
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core-v2 = At its core, { -brand-name-mozilla } is an activist organization led by the { -brand-name-mozilla-foundation } that makes change in the world through a variety of ventures including { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> and <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. How are we different? Because we’re mission-driven, it means we have the freedom to make all of our decisions based on what’s best for the internet and for everyone online, not based on the demands of shareholders — we don’t actually have any of those.
+home-at-its-core-v2 = Në thelbin e vet, { -brand-name-mozilla } është një ent veprimtarësh drejtuar nga { -brand-name-mozilla-foundation }, që sjell ndryshim në botë përmes një larmie iniciativash, përfshi { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> dhe <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Si jemi ndryshe? Ngaqë udhëhiqemi nga një mision, që do të thotë se jemi të lirë t’i marrim krejt vendimet tona bazuar në çfarë është më e mira për internetin dhe gjithkënd në internet, jo bazuar në kërkesat e aksionerëve — në fakt nuk kemi të tillë.
 home-learn-about-mofo = Mësoni rreth { -brand-name-mozilla-foundation }
 home-join-the-fight = Bëhuni pjesë e ndeshjes për një internet të shëndetshëm
 home-your-voice-your-code = Zëri juaj. Kodi juaj. Idetë tuaja. Ka me mijëra rrugë se si të jepni ndihmesë te { -brand-name-mozilla }.

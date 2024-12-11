@@ -20,10 +20,18 @@ m24-about-together-we-can = Tok, mund ta mbajmë internetin të kollajtë, të p
 m24-about-read-our-manifesto = Lexoni manifestin tonë
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Një grup mendimtarësh ulur në një rreth përdhe duke shkëmbyer ide.
+m24-about-research = Punë kërkimore
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitor
+m24-about-build = Ndërtim
+m24-about-we-build-products = Ndërtojmë produkte që ju vënë ju në kontroll — të tillë si { -brand-name-firefox }, { -brand-name-fakespot }, etj.
+m24-about-fund = Financim
+m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje që shpien teknologjinë, internetin dhe IA-në në drejtimin e duhur.
 
 ## News
 
 m24-about-read-more = Lexoni më tepër
+m24-about-read-the-latest = Lexoni lajmet & artikujt më të rinj nga { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
 m24-about-chicago = Një Sipërmarrës nga Çikagoja.
 
