@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = We werken eraan om de controle over het internet weer in
 m24-home-welcome-to-mozilla = Welkom bij { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Van betrouwbare technologie tot beleid dat uw digitale rechten verdedigt, wij stellen u voorop – altijd.
 m24-home-learn-about-us = Meer over ons
+# Used as accessible text alternative for image
+m24-home-alt-flag = Een gestileerde groene vlag tegen een zwarte achtergrond, opgebouwd vanuit de ‘M’ voor { -brand-name-mozilla } en een verschoven pixel als verwijzing naar het oorspronkelijke dinosauruslogo.
 
 ## Products
 
