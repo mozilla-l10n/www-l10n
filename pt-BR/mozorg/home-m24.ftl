@@ -38,6 +38,7 @@ m24-home-mask-your-email = Oculte seu email e número de celular para receber so
 ## Donate
 
 m24-home-donate-to-the = Faça uma doação para a organização sem fins lucrativos { -brand-name-mozilla }
+m24-home-mozilla-is-building = A { -brand-name-mozilla } está formando um movimento para recuperar a internet. Juntos, podemos construir um futuro em que nossa privacidade seja protegida, inteligência artificial seja confiável e empresas de tecnologia irresponsáveis sejam responsabilizadas. Mas isso só será possível se fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Você poderia fazer uma doação para a { -brand-name-mozilla }?
 m24-home-donate = Faça uma doação
 
@@ -49,9 +50,12 @@ m24-home-tag-program = Programa
 m24-home-tag-event = Evento
 m24-home-read-more = Saiba mais
 m24-home-get-started = Introdução
+m24-home-join-the-movement = Participe do movimento:<br> Inteligência artificial para as pessoas
+m24-home-our-mission-is = Nossa missão é facilitar para as pessoas criar e colaborar com inteligência artificial confiável e de código aberto.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logotipo do { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Execute grandes modelos de idioma (LLM) facilmente em seu computador com o { -brand-name-llamafile }. Não precisa instalar nada e seus dados permanecem seguros em seu dispositivo.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
