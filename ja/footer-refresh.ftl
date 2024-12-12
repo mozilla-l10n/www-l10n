@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = { -brand-name-firefox } のヒントやアドバイス、最新情報をご覧ください。メールのプライバシーとセキュリティをお守りすることを約束します。{ -brand-name-firefox } の活用法を受信トレイにお届けします。
 footer-refresh-leadership = リーダーシップ
 footer-refresh-advertise = { -brand-name-mozilla } で広告掲載
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
