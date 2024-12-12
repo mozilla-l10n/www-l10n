@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Vi arbetar för att ge tillbaka kontrollen över interne
 m24-home-welcome-to-mozilla = Välkommen till { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Från pålitlig teknik till policyer som försvarar dina digitala rättigheter, vi sätter dig först — alltid.
 m24-home-learn-about-us = Läs mer om oss
+# Used as accessible text alternative for image
+m24-home-alt-flag = En stiliserad grön flagga på en svart bakgrund, byggd från "M" för { -brand-name-mozilla } och en pixel som är förskjuten för att referera till dess ursprungliga dinosaurie-logotyp.
 
 ## Products
 
