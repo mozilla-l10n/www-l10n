@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Ottieni i consigli, i trucchi e gli aggiornamenti più efficaci per { -brand-name-firefox }. Ci impegniamo a garantire la privacy e la sicurezza della tua email: riceverai direttamente nella tua casella di posta solo il meglio di { -brand-name-firefox }.
+footer-refresh-discover-mozilla-products = Scopri i prodotti e le iniziative di { -brand-name-mozilla }. Ci impegniamo a mantenere la tua email privata e sicura: nessuna condivisione, nessuna vendita, solo aggiornamenti interessanti.
 footer-refresh-leadership = Gruppo dirigente
 footer-refresh-advertise = Fai pubblicità con { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Note di versione di { -brand-name-firefox }
