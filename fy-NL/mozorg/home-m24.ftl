@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Wy wurkje deroan om kontrôle oer it ynternet werom te j
 m24-home-welcome-to-mozilla = Wolkom by { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Fan betroubere technology oant belied dat jo digitale rjochten ferdigenet, wy sette jo foarop – altyd.
 m24-home-learn-about-us = Mear oer ús
+# Used as accessible text alternative for image
+m24-home-alt-flag = In stillearre griene flagge op in swarte eftergrûn, boud fan de ‘M’ foar { -brand-name-mozilla } en in piksel dy’t ferpleatst is om nei it orizjinele dinosauruslogo te ferwizen.
 
 ## Products
 
