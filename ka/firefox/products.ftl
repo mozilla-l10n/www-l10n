@@ -58,7 +58,7 @@ firefox-products-download-thunderbird = ჩამოტვირთეთ { -bra
 firefox-products-fakespot = { -brand-name-fakespot }
 # scam artists are people who are trying to sell fakes or steal money
 # 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } მხარს უჭერს ინტერნეტში საყიდლების შეძენისას — მოაცილებს თაღლითურ ხელოვანებს და მოგცემთ საუკეთესო შემოთავაზებებს. ქმნის { -brand-name-mozilla }.
+firefox-products-fakespot-has-your = { -brand-name-fakespot } გვერდში გიდგათ საყიდლების შეძენისას — აცილებს თაღლითების ნამოქმედარს და გაპოვნინებთ საუკეთესო გარიგებებს. შემქმნელია { -brand-name-mozilla }.
 firefox-products-analyze = URL-ს გაანალიზება
 
 ## Pocket
