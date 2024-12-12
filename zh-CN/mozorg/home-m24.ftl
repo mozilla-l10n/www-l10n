@@ -18,7 +18,7 @@ m24-home-welcome-to-mozilla = 欢迎来到 { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = 从可信赖的技术，到捍卫您数字权利的政策，我们始终将您的利益放在首位。
 m24-home-learn-about-us = 了解我们
 # Used as accessible text alternative for image
-m24-home-alt-flag = 黑色背景上的程式化绿色标志由 { -brand-name-mozilla } 的“M”和一个替代其原始恐龙标志的像素组成。
+m24-home-alt-flag = 黑色背景上风格化的绿色旗帜，由 { -brand-name-mozilla } 中的“M”以及一个易位的像素组成，代表原本的恐龙徽标。
 
 ## Products
 
