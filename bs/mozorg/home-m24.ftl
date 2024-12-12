@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Radimo na tome da kontrolu nad internetom vratimo u ruke
 m24-home-welcome-to-mozilla = Dobrodošli u { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Od pouzdane tehnologije do politika koje brane vaša digitalna prava, stavljamo vas na prvo mjesto - uvijek.
 m24-home-learn-about-us = Saznajte više o nama
+# Used as accessible text alternative for image
+m24-home-alt-flag = Stilizirana zelena zastava na crnoj pozadini, napravljena od 'M' za { -brand-name-mozilla } i piksel koji je pomaknut da referencira njegov originalni logo dinosaura.
 
 ## Products
 
