@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Nos labora pro re-poner le controlo de internet in le ma
 m24-home-welcome-to-mozilla = Benvenite a { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = De technologia digne de fide a directivas que defende tu derectos digital, nos te pone prime, sempre.
 m24-home-learn-about-us = Discoperir nos
+# Used as accessible text alternative for image
+m24-home-alt-flag = Un bandiera verde stilisate sur un fundo nigre, producite ab le ‘M’ pro { -brand-name-mozilla } e un pixel que es movite pro referer se al dinosauro su logo original.
 
 ## Products
 
