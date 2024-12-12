@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-discover-mozilla-products = Darganfod cynhyrchion a mentrau { -brand-name-mozilla }. Rydym yn addo cadw'ch e-bost yn breifat ac yn ddiogel - dim rhannu, dim gwerthu, dim ond diweddariadau gwych.
+footer-refresh-discover-mozilla-products = Darganfod cynnyrch a mentrau { -brand-name-mozilla }. Rydym yn addo cadw'ch e-bost yn breifat ac yn ddiogel — dim rhannu, dim gwerthu, dim ond diweddariadau gwych.
 footer-refresh-leadership = Arweinyddiaeth
 footer-refresh-advertise = Hysbysebu gyda { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
