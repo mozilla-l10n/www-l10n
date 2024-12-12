@@ -18,7 +18,7 @@ m24-home-welcome-to-mozilla = Bienvenido a { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Desde tecnología confiable hasta políticas que defienden tus derechos digitales, te ponemos primero — siempre.
 m24-home-learn-about-us = Conocenos
 # Used as accessible text alternative for image
-m24-home-alt-flag = Una bandera verde estilizada sobre fondo negro, hecha de la 'M' de { -brand-name-mozilla } y un pixel que está desplazado para hacer referencia al logo de dinosaurio original.
+m24-home-alt-flag = Una bandera verde estilizada sobre fondo negro, hecha de la ‘M’ de { -brand-name-mozilla } y un píxel que está desplazado para hacer referencia al logo original del dinosaurio.
 
 ## Products
 
