@@ -36,7 +36,7 @@ m24-home-save-the-internets = Guardá el mejor contenido de Internet en cualquie
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Mantén la privacidad de tu ubicación y tus aventuras en línea; transmite como un local, en cualquier lugar.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Infórmate si tu información personal está en riesgo y mantenla guardada como un profesional.
+m24-home-get-a-headsup = Recibí un aviso si tu información personal está en riesgo y mantenela bloqueada como un profesional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Enmascará tu correo electrónico y número de teléfono para que solo te lleguen los mensajes que quieras.
 
