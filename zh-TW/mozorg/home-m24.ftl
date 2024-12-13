@@ -18,7 +18,7 @@ m24-home-welcome-to-mozilla = 歡迎來到 { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = 不論是從可信賴的技術，到保護您數位權利的政策：我們總是將您擺在第一位。
 m24-home-learn-about-us = 了解我們
 # Used as accessible text alternative for image
-m24-home-alt-flag = 黑底上的程式化綠色旗子由 { -brand-name-mozilla } 的「M」打造而成。另外還有一個像素點被位移以代表其原始的恐龍圖示。
+m24-home-alt-flag = 黑色背景上有一幅綠色旗子，長得像 { -brand-name-mozilla } 的「M」。另外還移動了一個點，以代表其原始的恐龍圖示。
 
 ## Products
 
@@ -43,7 +43,7 @@ m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這�
 ## Donate
 
 m24-home-donate-to-the = 捐款給非營利組織 { -brand-name-mozilla }
-m24-home-mozilla-is-building = { -brand-name-mozilla } 正在打造一場聲援網際網路的運動。我們可以一起打造一個隱私受到保護、AI 可信任、不負責的科技公司可被追責的未來。但只有我們一起做才有可能。
+m24-home-mozilla-is-building = { -brand-name-mozilla } 正在打造一場奪回網際網路環境的運動。讓我們一同打造隱私受到保護、AI 可信任、可向不負責任的科技公司課責的未來，但只有我們一起努力才有可能實現。
 m24-home-were-proudly-nonprofit = 我們以非營利為榮。您願意捐款給 { -brand-name-mozilla } 嗎？
 m24-home-donate = 捐款
 
@@ -63,7 +63,7 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = 透過 { -brand-name-llamafile } 在您的電腦上輕鬆執行大型語言模型（LLM）— 無需安裝，您的資料也會安全地保留在您的裝置內。
 m24-home-alt-builders = 建設者
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者
-m24-home-builders-helps-independent = Builders 透過量身定做的合作、程式與社群合作幫助獨立的開發者打造革命性的開放原始碼 AI 專案。
+m24-home-builders-helps-independent = Builders 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 圖示。
 m24-home-lumigator = { -brand-name-lumigator }
