@@ -24,6 +24,13 @@ features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
 features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> จะช่วยปิดกั้นโฆษณาทุกที่ โดยจะปิดกั้นโฆษณาทั้งบนเว็บ โซเชียลมีเดีย แม้แต่ป๊อปอัปที่น่ารำคาญ (อย่างไรก็ตาม หากคุณต้องการเพียงแค่ปิดกั้นป๊อปอัปเท่านั้น คุณก็สามารถเลือกใช้ <a { $attrs2 }>Popup Blocker</a> ได้เลย)
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> เป็นตัวเลือกที่ดีอีกตัวหนึ่งซึ่งไม่เพียงแต่จะบล็อกโฆษณาเท่านั้น แต่ยังมีประโยชน์ในการป้องกันการติดตามเพิ่มเติมอีกด้วย
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = ส่วนขยายเหล่านี้ทำงานได้เป็นอย่างดีกับทั้ง <a { $attrs1 }>{ -brand-name-firefox } สำหรับเดสก์ท็อป</a> และ <a { $attrs2 }>Android</a>
 # Obsolete string (expires: 2024-11-18)
 # Variables:
 #   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
