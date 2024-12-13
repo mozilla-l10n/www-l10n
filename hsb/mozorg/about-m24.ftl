@@ -62,6 +62,7 @@ m24-about-alt-drinking-coffee = Přistajeny { -brand-name-mozilla }, kotryž kof
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Přistajeni { -brand-name-mozilla }, kotřiž  hromadźe dźěłaja.
 m24-about-join-us-and = Přidružće so nam a čińće rozdźěl
+m24-about-join-our-team = Přidružće so našemu teamej a překročće mjezy toho, štož je móžne – bjeztoho zo byšće tomu škodźił, štož je wažne.
 m24-about-see-open-positions = Hlejće swobodne dźěłowe městna
 
 ## Community
