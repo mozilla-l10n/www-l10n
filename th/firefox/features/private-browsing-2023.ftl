@@ -16,3 +16,9 @@ features-private-browsing-private-browsing-mode-opens-v2 = โหมดการ
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = หน้าต่างเบราว์เซอร์ { -brand-name-firefox } ในโหมดการเรียกดูแบบส่วนตัว
 features-private-browsing-what-private-browsing-doesnt-do = สิ่งที่การเรียกดูแบบส่วนตัวทำไม่ได้
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = โหมดการเรียกดูแบบส่วนตัวจะไม่ลบที่คั่นหน้าใหม่ๆ ที่คุณสร้างขึ้นจากหน้าต่างการเรียกดูแบบส่วนตัว หรือปกป้องคุณจากมัลแวร์หรือไวรัส และยังไม่ป้องกันเว็บไซต์ที่คุณเข้าชมจากการเห็นว่าตัวคุณอยู่ที่ตำแหน่งไหน หรือหยุดผู้ให้บริการอินเทอร์เน็ตจากการเก็บข้อมูลว่าคุณทำอะไรบ้าง คุณจะต้องมี <a href="{ $vpn }">VPN ที่ไว้ใจได้</a>สำหรับการป้องกันเหล่านั้น
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = เปรียบเทียบการเรียกดูแบบส่วนตัวใน { -brand-name-firefox } กับ<a href="{ $chrome }">โหมดไม่ระบุตัวตนใน Chrome</a>
