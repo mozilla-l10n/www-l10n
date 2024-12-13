@@ -37,6 +37,11 @@ m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologij
 
 m24-about-read-more = Wěcej cytaś
 m24-about-read-the-latest = Cytajśo nejnowše powěsći a nastawki { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 projektow KI za woglědanje: Prědna kupka Builders Accelerator { -brand-name-mozilla } startujo
+m24-about-at-our-rise25 = Na našych mytach { -brand-name-rise25 } jo pśichod KI dowěry gódny, inkluziwny a zagronity
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Nosaŕ myta { -brand-name-rise25 }, kenž na swóju trofeju pokazujo
+m24-about-empowering-chicagos-entrepreneurs = Wuzamóžnjenje pśedewześarjow Chicago za generacisku změnu
 # Used as an accessible text alternative for an image
 m24-about-chicago = Pśedewześaŕ z Chicaga.
 
@@ -57,6 +62,7 @@ m24-about-alt-drinking-coffee = Pśistajony { -brand-name-mozilla }, kótaryž k
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Pśistajone { -brand-name-mozilla }, kótarež  gromaźe źěłaju.
 m24-about-join-us-and = Pśizamkniśo se nam a cyńśo rozdźěl
+m24-about-join-our-team = Pśizamkniśo se našomu teamoju a pśeskócćo granice togo, což jo móžne – bźez togo aby tomu škódował, což jo wažne.
 m24-about-see-open-positions = Glědajśo liche źěłowe městna
 
 ## Community
