@@ -17,6 +17,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } สำหรับ {
 navigation-v2-get-the-customizable-mobile = รับเบราว์เซอร์มือถือที่ปรับแต่งได้สำหรับสมาร์ทโฟน { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } สำหรับ { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = รับเบราว์เซอร์มือถือสำหรับ { -brand-name-iphone } หรือ { -brand-name-ipad } ของคุณ
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } สำหรับมือถือ
+navigation-v2-take-speed-privacy-and = นำความเร็ว ความเป็นส่วนตัว และความอุ่นใจไปกับคุณ ใช้ได้บน { -brand-name-android } และ { -brand-name-ios }
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = เปิดเว็บมือถือแบบส่วนตัวง่ายๆ
 navigation-v2-firefox-blog = บล็อก { -brand-name-firefox }
@@ -63,6 +65,8 @@ navigation-v2-work-for-a-mission-driven-updated = ทำงานให้กั
 navigation-v2-mozilla-blog = บล็อก { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = เรียนรู้เกี่ยวกับ { -brand-name-mozilla } และประเด็นที่สำคัญสำหรับเรา
 navigation-v2-more-about-mozilla = เพิ่มเติมเกี่ยวกับ { -brand-name-mozilla }
+navigation-v2-impact = ผลกระทบ
+navigation-v2-find-out-how = ค้นพบว่าเราจะทำให้อินเทอร์เน็ตมีความครอบคลุมและยั่งยืนมากขึ้นได้อย่างไร
 
 ## Innovation menu
 
