@@ -40,6 +40,9 @@ m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-na
 m24-about-14-ai-projects = 14 projektow KI za wobhladanje: Prěnja skupina Builders Accelerator { -brand-name-mozilla } startuje
 m24-about-at-our-rise25 = Na našich mytach { -brand-name-rise25 } je přichod KI dowěry hódny, inkluziwny a zamołwity
 # Used as an accessible text alternative for an image
+m24-about-rise25-award = Nošer myta { -brand-name-rise25 }, kiž na swoju trofeju pokazuje
+m24-about-empowering-chicagos-entrepreneurs = Wukmanjenje předewzaćelow Chicago za generacisku změnu
+# Used as an accessible text alternative for an image
 m24-about-chicago = Předewzaćel z Chicaga.
 
 ## Showcase
