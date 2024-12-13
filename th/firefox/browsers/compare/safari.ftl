@@ -5,9 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
-# HTML page title
-compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } กับ { -brand-name-safari }: เบราว์เซอร์ไหนดีกว่าสำหรับคุณ?
-# HTML page description.
-compare-safari-safari-is-the-pre-installed = { -brand-name-safari } เป็นเบราว์เซอร์ที่ติดตั้งไว้ล่วงหน้าบน { -brand-name-mac } และ { -brand-name-iphone } เปรียบเทียบ { -brand-name-safari } กับ{ -brand-name-firefox-browser } เพื่อดูว่าเบราว์เซอร์ใดดีกว่าสำหรับคุณ
-# Main title.
-compare-safari-comparing-firefox-browser = เปรียบเทียบ { -brand-name-firefox-browser } กับ { -brand-name-apple } { -brand-name-safari }
+# Page title
+compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = อ่านการเปรียบเทียบของเราระหว่างเบราว์เซอร์ { -brand-name-firefox } กับ Safari ในแง่ของคุณลักษณะ ความเป็นส่วนตัว และความง่ายในการใช้งาน
+compare-safari-safari-and-firefox-both-have = ทั้ง Safari และ { -brand-name-firefox } ต่างก็มีคุณลักษณะความเป็นส่วนตัวและความปลอดภัยที่ดีเหมือนกัน
+compare-safari-but-firefox-also-has-built-in = แต่ { -brand-name-firefox } ยังมีเครื่องมือในตัวอื่นๆ อีก เช่น:
+compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } ให้ตัวเลือกการปรับแต่งต่างๆ มากมาย รวมทั้งให้คุณสามารถย้ายเมนูและแถบเครื่องมือไปยังตำแหน่งอื่นๆ บนหน้าต่างเบราว์เซอร์ได้ ในขณะที่ส่วนติดต่อของ Safari นั้นปรับแต่งได้น้อยกว่า
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
+compare-safari-switching-to-firefox-is-easy = การเปลี่ยนไปใช้ { -brand-name-firefox } นั้นง่ายและรวดเร็ว เพียงนำเข้าที่คั่นหน้า รหัสผ่าน ประวัติ และการกำหนดลักษณะของคุณจาก Safari ด้วยแค่คลิกเดียว คุณก็พร้อมที่จะใช้ { -brand-name-firefox } ได้แล้ว นี่คือ<a { $howto }>วิธีการนำเข้าข้อมูลของคุณจาก Safari</a>
