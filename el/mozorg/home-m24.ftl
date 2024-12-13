@@ -37,6 +37,7 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Δωρίστε τη φωνή σας
 
 ## Media Springboard
 
@@ -56,4 +57,7 @@ m24-home-topic-ps = Απόρρητο και ασφάλεια
 
 ## Issues
 
+m24-home-pni-search-now = Αναζήτηση τώρα
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

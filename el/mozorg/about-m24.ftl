@@ -31,6 +31,7 @@ m24-about-read-about-our = Διαβάστε για τη δέσμευσή μας
 
 ## Careers
 
+m24-about-join-us-and = Ελάτε μαζί μας και κάντε τη διαφορά
 
 ## Community
 
