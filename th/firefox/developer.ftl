@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } เร็วมาก มาพร้อมกับเครื่องมือล่าสุดสำหรับนักพัฒนาและคุณสมบัติล่าสุด เช่น การรองรับ CSS Grid และการดีบั๊กเฟรมเวิร์ค
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ยินดีต้อนรับสู่เบราว์เซอร์ตัวโปรด รับคุณสมบัติล่าสุด ความเร็ว และเครื่องมือพัฒนาที่คุณต้องการสำหรับเว็บเปิด
 firefox-developer-speak-up = แสดงออก
 firefox-developer-feedback-makes-us = การส่งกลับความคิดเห็นทำให้เราพัฒนาขึ้น บอกเราว่าเราจะปรับปรุงเบราว์เซอร์และเครื่องมือสำหรับนักพัฒนาได้อย่างไร
@@ -71,16 +71,22 @@ firefox-developer-fonts-panel = แผงแบบอักษร
 firefox-developer-the-new-fonts-panel = แผงแบบอักษรใหม่ใน { -brand-name-firefox-devtools } ช่วยให้นักพัฒนาสามารถเข้าถึงข้อมูลทั้งหมดที่พวกเขาต้องการเกี่ยวกับแบบอักษรที่ใช้ในองค์ประกอบ นอกจากนี้ยังมีข้อมูลที่มีค่าเช่นแหล่งที่มาของแบบอักษร, น้ำหนัก, ลักษณะ และอื่น ๆ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } จะส่งผลตอบรับกลับไปยัง { -brand-name-mozilla } โดยอัตโนมัติ
 firefox-developer-download-the-firefox-browser = ดาวน์โหลดเบราว์เซอร์ { -brand-name-firefox } ที่สร้างมาสำหรับนักพัฒนา
-firefox-developer-welcome-to-the-all-new = ยินดีต้อนรับสู่ { -brand-name-firefox-quantum } โฉมใหม่: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = เราสร้าง { -brand-name-firefox } ใหม่ตั้งแต่ระดับพื้นฐานเพื่อให้มันเร็ว ทันสมัยและทรงพลังสุดตั้งแต่เคยทำมา
-firefox-developer-congrats-you-now-have-firefox = ยินดีด้วย ตอนนี้คุณได้ { -brand-name-firefox-quantum }: { -brand-name-developer-edition } แล้ว
-firefox-developer-this-isnt-just-an-update = นี่ไม่ใช่แค่การอัปเดตเล็ก ๆ น้อย ๆ นี่คือ { -brand-name-firefox-quantum }: { -brand-name-firefox } โฉมใหม่ซึ่งสร้างขึ้นใหม่จากระดับพื้นฐานเพื่อที่จะทำให้เร็ว ทันสมัยและทรงพลังขึ้นกว่าที่เราเคยทำตลอดมา
-firefox-developer-welcome-to-firefox-browser = ยินดีต้อนรับสู่{ -brand-name-firefox-browser } { -brand-name-developer-edition }
+firefox-developer-welcome-to-firefox-developer-edition = ยินดีต้อนรับสู่ { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = เบราว์เซอร์ที่สร้างขึ้นสำหรับนักพัฒนา
 firefox-developer-all-the-latest-v2 = เครื่องมือสำหรับนักพัฒนาล่าสุดทั้งหมดในรุ่นเบต้า นอกเหนือจากคุณลักษณะต่างๆ เช่น ตัวแก้ไขคอนโซลแบบหลายบรรทัด และตัวตรวจสอบ WebSocket
-# Obsolete string
-firefox-developer-all-the-latest = เครื่องมือสำหรับนักพัฒนาล่าสุดทั้งหมดในรุ่นเบต้า พร้อมด้วย<strong>คุณลักษณะขั้นทดลอง</strong>อย่างเช่น ตัวแก้ไขคอนโซลแบบหลายบรรทัด และตัวตรวจสอบ WebSocket
 firefox-developer-a-separate-profile = <strong>โปรไฟล์และเส้นทางจะแยกออกจากกัน</strong>เพื่อให้คุณสามารถเรียกใช้งานควบคู่ไปกับ { -brand-name-firefox } รุ่นเปิดตัวหรือ { -brand-name-beta } ได้อย่างง่ายดาย
 firefox-developer-preferences-tailored = การกำหนดลักษณะที่<strong>ปรับแต่งมาสำหรับนักพัฒนาเว็บ</strong>: เบราว์เซอร์และการดีบั๊กระยะไกลจะถูกเปิดใช้งานตามค่าเริ่มต้น เช่นเดียวกับชุดรูปแบบมืดและปุ่มแถบเครื่องมือนักพัฒนา
-firefox-developer-congrats-you-now-have = ยินดีด้วย คุณได้{ -brand-name-firefox-browser } { -brand-name-developer-edition }แล้ว
-firefox-developer-congrats-you-now-have-latest = ยินดีด้วย ตอนนี้คุณมี { -brand-name-firefox-browser } { -brand-name-developer-edition } รุ่นล่าสุดแล้ว
+firefox-developer-congrats-you-now-have-latest-v2 = ตอนนี้คุณกำลังใช้ { -brand-name-firefox-developer-edition } รุ่นล่าสุด
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = อ่าน<a { $attrs }>บันทึกการออกรุ่น</a> (เฉพาะภาษาอังกฤษเท่านั้น) เพื่อดูว่ามีอะไรใหม่
+firefox-developer-developer-tools-user = คู่มือผู้ใช้สำหรับเครื่องมือนักพัฒนา
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = แหล่งข้อมูลสำหรับนักพัฒนา โดยนักพัฒนา
+firefox-developer-mdn-references = เอกสารอ้างอิง { -brand-name-mdn }
+firefox-developer-mdn-is-a = { -brand-name-mdn } เป็นโครงการร่วมมือแบบโอเพนซอร์สที่จัดทำคู่มือเกี่ยวกับเทคโนโลยีแพลตฟอร์มเว็บ รวมถึง CSS, HTML, JavaScript และ Web API
+firefox-developer-mdn-curriculum = หลักสูตร { -brand-name-mdn }
+firefox-developer-a-structured-guide = คู่มือที่เป็นระบบเกี่ยวกับทักษะและแนวทางปฏิบัติที่จำเป็นสำหรับการเป็นนักพัฒนาฝั่งฟรอนต์เอนด์ที่ประสบความสำเร็จ พร้อมด้วยแหล่งข้อมูลการเรียนรู้ที่แนะนำ
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+firefox-developer-support-mdn-and = ร่วมสนับสนุน { -brand-name-mdn } และปรับแต่งในแบบของคุณด้วยคอลเลกชัน การแจ้งเตือน และเพลย์กราวด์
