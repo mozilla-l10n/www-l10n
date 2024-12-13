@@ -56,3 +56,4 @@ m24-home-topic-ps = Απόρρητο και ασφάλεια
 
 ## Issues
 
+m24-home-irl-podcast = { -brand-name-irl-podcast }
