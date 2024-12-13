@@ -71,7 +71,7 @@ m24-home-find-the-just = 尋找符合您需求、使用情境與資料的 LLM。
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = { -brand-name-mozilla } 總裁 Mark Surman。
 m24-home-can-ai-be = AI 真的可信任嗎？
-m24-home-in-a-world = 在這個 AI 創新由少數人驅動的世界我們正冒著被技術壟斷的風險。將開放原始碼的概念應用到 AI 當中可能會改變這種狀況。
+m24-home-in-a-world = 在這個由少數人驅動 AI 創新的世界，我們正冒著技術壟斷的風險。將開放原始碼的概念應用到 AI 當中，可能可以改變這種狀況。
 m24-home-watch-now = 立刻觀看
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
@@ -101,13 +101,13 @@ m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們�
 m24-home-from-hollywood-to = 從好萊塢到嘻哈界，藝人們正在討論 AI 著作利用授權問題。
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 透過全新系列紀錄片《{ -brand-name-firefox } Presents》來慶祝取得傑出成就的創作者。
 m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。Brickett Todd 與語言社群負責人討論如何使用自己的語言與方言資料，來開發語音 AI 模型。
-m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗中測試新技術的負責人的方式是什麼布里奇特 托德探索如何讓未經驗證的 AI 系統一推出就影響數以百萬計的人們的公共生活。
+m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗當中？怎樣才是一個負責任的新技術測試方式？Bridget Todd 探索讓未經驗證的 AI 系統一推出就直接影響數以百萬計的人們的公共生活，會發生怎樣的影響。
 m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長，擔心的家長該怎麼辦？
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } 獎項
-m24-home-get-to-know = 了解倡導可信任、包容、透明的 AI 開發的領導者們設定新標準並激勵下一代的創新者。
+m24-home-get-to-know = 了解倡導可信任、包容、透明的 AI 開發過程的領導者，如何設定新標準並激勵下一代的創新者。
 m24-home-watch-the-award = 觀賞得獎節目
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = { -brand-name-rise25 } 驕傲的得獎者。

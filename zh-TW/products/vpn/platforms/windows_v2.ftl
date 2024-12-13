@@ -7,9 +7,9 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = 獲得 { -brand-name-mozilla } 的 Windows 平台 VPN
-vpn-windows-protect-your-windows = 使用 VPN 保護您的 Windows 裝置。 { -brand-name-mozilla } VPN 是由非營利公司在背後全力相挺。了解 VPN 如何保護您以及為什麼您應該信任 { -brand-name-mozilla } 並保護您的隱私與安全。
+vpn-windows-protect-your-windows = 使用 VPN 保護您的 Windows 裝置。{ -brand-name-mozilla } VPN 是由非營利公司在背後全力相挺。了解 VPN 如何保護您，以及為什麼您應該信任 { -brand-name-mozilla } 能保護您的隱私權與安全。
 vpn-windows-stay-safe = 在您的 Windows 裝置上安裝 VPN，保持安全
-vpn-windows-windows-is-one = Windows 是世界上最知名的作業系統之一。因此Windows 裝置更容易成為駭客攻擊的目標若不採取適當的保護措施可能更容易受到攻擊。您可以使用 VPN 加密您的線上活動來保護您的數位生活。另外也可以透過保持軟體更新、使用獨特而強大的密碼、使用 { -brand-name-relay } 的轉寄信箱來保護您的數位生活。保護您的 E-Mail。
+vpn-windows-windows-is-one = Windows 是世界上最知名的作業系統之一。因此，Windows 裝置常常成為駭客攻擊的主要目標，若不採取適當的保護措施，更容易受到攻擊。您可以使用 VPN 來加密線上活動、保持軟體更新、使用獨特而強大的密碼、使用 { -brand-name-relay } 的轉寄信箱來隱藏您的實際電子郵件信箱，以保護您的數位生活。
 vpn-windows-a-vpn-creates = VPN 會在您的 Windows 電腦與網際網路之間建立一條加密「通道」讓您的網路資料與網際網路不同並且隱藏您的實際位置不受造訪的網站影響。如此可防止第三方與網路間諜竊取您本該知道的事情。
 vpn-windows-what-are-the-benefits = 在我的 Windows 裝置下載 { -brand-name-mozilla-vpn } 有什麼好處？
 vpn-windows-avoid-your-online = 避免您的線上活動被收集，或被轉賣給第三方廣告商。
@@ -19,4 +19,4 @@ vpn-windows-using-a-windows = 在公開、不安全的 Wi-Fi 網路使用 Window
 vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } 應用程式不會在您 Windows 裝置消耗太多記憶體、拖慢電腦速度或浪費電池使用時間。
 # Variables:
 #   $url (string) - url('products.vpn.landing')
-vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } 在 Windows 10 與 Windows 11 都支援您最多可以在五台裝置上使用 { -brand-name-mozilla-vpn }。首先您可以<a href="{ $url }">到 mozilla.org 訂閱</a> 並在您的 Windows 裝置下載此應用程式。
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } 支援 Windows 10 與 Windows 11，您可以在最多五台裝置上使用。您可以先<a href="{ $url }">到 mozilla.org 訂閱</a>，然後下載此應用程式到您的 Windows 裝置。
