@@ -16,6 +16,9 @@ installer-help-action-choose = เลือกการดาวน์โหล�
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = รับรุ่นล่าสุด ความเป็นส่วนตัวอัตโนมัติอยู่ที่นี่แล้ว ดาวน์โหลด { -brand-name-firefox } เพื่อปิดกั้นตัวติดตามมากกว่า { $trackers } ตัว
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = ทดสอบคุณลักษณะที่กำลังจะเผยแพร่ในการประกอบก่อนการเผยแพร่ที่เสถียร
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
