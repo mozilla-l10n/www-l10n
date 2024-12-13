@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/firefox/features/pinned-tabs/
+
+# page title
+pinned-tabs-pinned-browser-tabs = ปักหมุดแท็บเบราว์เซอร์
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = เก็บหน้าโปรดของคุณไว้ให้เข้าถึงได้โดยคลิกเพียงครั้งเดียว ใช้แท็บที่ปักหมุดเพื่อติดตามอีเมลหรือแอปส่งข้อความของคุณ
