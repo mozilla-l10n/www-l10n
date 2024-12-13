@@ -37,6 +37,8 @@ m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, 
 
 m24-about-read-more = Wjace čitać
 m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 projektow KI za wobhladanje: Prěnja skupina Builders Accelerator { -brand-name-mozilla } startuje
+m24-about-at-our-rise25 = Na našich mytach { -brand-name-rise25 } je přichod KI dowěry hódny, inkluziwny a zamołwity
 # Used as an accessible text alternative for an image
 m24-about-chicago = Předewzaćel z Chicaga.
 
