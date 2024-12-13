@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -14,7 +14,7 @@ legal-special-thanks-to-all-of-you = ขอบคุณเป็นพิเศ�
 legal-terms = ข้อกำหนด
 legal-our-websites = เว็บไซต์ของเรา
 legal-firefox-services = บริการของ { -brand-name-firefox }
-legal-webmaker = { -brand-name-webmaker }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = ความเป็นส่วนตัวและเครื่องหมายการค้า
 legal-privacy-notices-and-policy = ประกาศและนโยบายความเป็นส่วนตัว
 legal-downloadable-software-notices = ประกาศเกี่ยวกับซอฟต์แวร์ที่สามารถดาวน์โหลดได้
@@ -32,4 +32,9 @@ legal-firefox-private-network-terms = ข้อกำหนดในการใ
 legal-firefox-reality-rights = { -brand-name-firefox-reality }: เกี่ยวกับสิทธิของคุณ
 legal-firefox-relay-terms = ข้อกำหนดในการใช้บริการของ { -brand-name-firefox-relay }
 legal-mozilla-vpn-terms = ข้อกำหนดในการใช้บริการของ { -brand-name-mozilla-vpn }
+legal-mdn-plus = { -brand-name-mdn-plus }
+legal-mdn-plus-terms = เงื่อนไขการให้บริการของ { -brand-name-mdn-plus }
 legal-report-copyright = รายงานการละเมิดลิขสิทธิ์หรือการใช้เครื่องหมายการค้าในทางที่ผิด
+legal-mozilla-subscription-services = บริการสมัครสมาชิกของ { -brand-name-mozilla }
+legal-content-moderation = แนวทางปฏิบัติด้านการควบคุมเนื้อหา
+legal-amo-policies = นโยบายของ AMO

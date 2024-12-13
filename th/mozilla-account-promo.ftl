@@ -8,8 +8,7 @@ moz-account-promo-title = เข้าสู่ระบบเพียงคร
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = มีบัญชีอยู่แล้ว? <a { $sign_in_url }>ลงชื่อเข้า</a>หรือ<a { $learn_more_url }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับ { -brand-name-mozilla }
-moz-account-get-a-mozilla-account = รับ { -brand-name-mozilla-account }
+moz-account-already-have-v2 = มีบัญชีอยู่แล้วใช่หรือไม่? <a { $sign_in_url }>ลงชื่อเข้า</a>หรือ<a { $learn_more_url }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
