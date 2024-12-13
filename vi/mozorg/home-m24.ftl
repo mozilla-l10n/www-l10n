@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Chúng tôi đang nỗ lực để trao lại quyền ki
 m24-home-welcome-to-mozilla = Chào mừng đến với { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Từ công nghệ đáng tin cậy đến các chính sách bảo vệ quyền kỹ thuật số của bạn, chúng tôi đặt bạn lên trước — luôn luôn như vậy.
 m24-home-learn-about-us = Tìm hiểu về chúng tôi
+# Used as accessible text alternative for image
+m24-home-alt-flag = Lá cờ xanh cách điệu trên nền đen, được làm từ ‘M’ cho { -brand-name-mozilla } và một pixel bị dịch chuyển để tham chiếu đến biểu tượng khủng long ban đầu của nó.
 
 ## Products
 
