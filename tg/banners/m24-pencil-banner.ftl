@@ -4,4 +4,4 @@
 
 # Variables:
 # $donate (url) - link to https://foundation.mozilla.org/en/?form=donate-today
-m24-pencil-banner-support-ethical = Зеҳни сунъии ахлоқӣ (AI) ва махфияти Интернетро дастгирӣ намоед — <strong><a { $donate }>имрӯз саҳми худро гузоред!</a></strong>
+m24-pencil-banner-donate-by = То 31 декабр ба «{ -brand-name-mozilla }» кумак кунед — <strong><a { $donate }>Кумак кунед ♥</a></strong>
