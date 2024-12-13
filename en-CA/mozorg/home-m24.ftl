@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = We’re working to put control of the internet back in t
 m24-home-welcome-to-mozilla = Welcome to { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = From trustworthy tech to policies that defend your digital rights, we put you first — always.
 m24-home-learn-about-us = Learn about us
+# Used as accessible text alternative for image
+m24-home-alt-flag = A stylized green flag on a black background, built from the ‘M’ for { -brand-name-mozilla } and a pixel that is displaced to reference its original dinosaur logo.
 
 ## Products
 
@@ -48,6 +50,7 @@ m24-home-donate = Donate
 ## AI gallery
 
 m24-home-tag-product = Product
+m24-home-tag-project = Project
 m24-home-tag-program = Program
 m24-home-tag-event = Event
 m24-home-read-more = Read more
@@ -90,7 +93,9 @@ m24-home-tag-video = Video
 m24-home-topic-news = News
 m24-home-topic-ai = Artificial Intelligence
 m24-home-topic-ps = Privacy & Security
+# Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Headline: You, AI and the internet — what’s really going on?
+m24-home-headline-you-ai-v2 = You, AI and the internet — what’s really going on?
 m24-home-introducing-anonym = Introducing { -brand-name-anonym }: Raising the bar for privacy-preserving digital advertising.
 m24-home-keeping-genai-technologies = Keeping GenAI technologies secure is a shared responsibility.
 m24-home-from-hollywood-to = From Hollywood to hip hop, artists are negotiating AI consent.
