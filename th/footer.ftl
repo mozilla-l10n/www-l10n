@@ -49,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = ติดตาม @{ -brand-name-mozilla }
 footer-follow-firefox = ติดตาม @{ -brand-name-firefox }
 footer-about-this-site = เกี่ยวกับไซต์นี้
+footer-advertise = โฆษณากับ { -brand-name-mozilla }
