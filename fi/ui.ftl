@@ -21,3 +21,5 @@ ui-show-all = Näytä kaikki
 ui-hide-all = Piilota kaikki
 ui-learn-more = Lue lisää
 ui-view = Näytä
+ui-pause-animation = Keskeytä animaatio
+ui-play-animation = Toista animaatio

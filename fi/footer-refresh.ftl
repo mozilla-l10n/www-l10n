@@ -35,4 +35,5 @@ footer-refresh-websites-cookies = Evästeet
 footer-refresh-websites-legal = Juridiset asiat
 footer-refresh-community-participation-guidelines = Yhteisöön osallistumisen periaatteet
 footer-refresh-about-this-site = Tietoja tästä sivustosta
+footer-refresh-all-languages = Kaikki kielet
 footer-refresh-language = Kieli

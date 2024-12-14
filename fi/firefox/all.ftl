@@ -49,6 +49,14 @@ firefox-all-32-bit-installers = 32-bittiset asennusohjelmat
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lataa { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Olemme siirtymävaiheessa ESR-versioiden { $esr_next_major } ja { $esr_current_major } välillä.
+firefox-all-esr-if-you-choose = Jos päätät ladata vanhemman ESR-version, sinut päivitetään automaattisesti uuteen, kun siirtymäkausi päättyy.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Lue lisää <a { $attrs }>{ -brand-name-firefox-esr }:n julkaisukierrosta</a>.
 firefox-all-check-the-system-requirements = Tarkista järjestelmävaatimukset
 firefox-all-release-notes = Julkaisutiedot
 firefox-all-source-code = Lähdekoodi
@@ -86,3 +94,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-download-esr-115 = Lataa ESR 115
+firefox-all-note-unsupported = Huomautus: Jos käytössäsi on Windows 7, Windows 8, Windows 8.1 tai macOS 10.12, 10.13 tai 10.14, lataa ESR 115, jotta voit käyttää { -brand-name-firefox }ia.
