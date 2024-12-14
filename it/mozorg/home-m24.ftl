@@ -86,4 +86,13 @@ m24-home-watch-the-award = Guarda la cerimonia di premiazione
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Dispositivi intelligenti con icona di attenzione.
+m24-home-explore-issues-shaping = Esplora le questioni che stanno plasmando il futuro di Internet
+m24-home-search-our-reviews = Dai un’occhiata alle nostre recensioni per scoprire quali app e gadget tecnologici stanno rubando di nascosto i tuoi dati.
+m24-home-pni-search-now = Cerca adesso
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, conduttrice di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Il nostro pluripremiato podcast presenta i pionieri del cambiamento che lavorano per rendere Internet più sicuro e l’IA più affidabile.
+m24-home-irl-listen-now = Ascolta ora
