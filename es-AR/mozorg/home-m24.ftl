@@ -34,7 +34,7 @@ m24-home-spot-fake-reviews = Detectá revisiones falsas, productos malos y vende
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Guardá el mejor contenido de Internet en cualquier dispositivo, porque ¿quién tiene tiempo para leer todo ahora?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = Mantén la privacidad de tu ubicación y tus aventuras en línea; transmite como un local, en cualquier lugar.
+m24-home-keep-your-location = Mantené la privacidad de tu ubicación y tus aventuras en línea — hacé tu streaming como si estuvieras en tu casa, desde cualquier lugar.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Recibí un aviso si tu información personal está en riesgo y mantenela bloqueada como un profesional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -78,7 +78,7 @@ m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Tienes una startup en fase inicial? Envía a tu empresa a { -brand-name-mozilla-ventures } y asegura financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
+m24-home-donate-your-voice-to-make = Doná tu voz para hacer que la tecnología de voz sea más inclusiva y accesible para todos.
 m24-home-donate-your-voice = Doná tu voz
 
 ## Media Springboard
