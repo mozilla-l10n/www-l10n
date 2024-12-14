@@ -56,8 +56,14 @@ m24-home-tag-event = Tapahtuma
 m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = { -brand-name-llamafile }n logo.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Suorita suuria kielimalleja (LLM) vaivatta tietokoneellasi { -brand-name-llamafile }n avulla — asennusta ei tarvita, ja tietosi pysyvät turvassa laitteellasi.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator }in logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Löydä oikea kielimalli tarpeitasi, käyttötapauksiasi ja dataasi varten.
 m24-home-can-ai-be = Voiko tekoäly olla luotettava?
 m24-home-watch-now = Katso nyt
 # Used as an accessible text alternative for an image
@@ -88,10 +94,14 @@ m24-home-watch-the-award = Katso palkintonäytös
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Älylaitteita ja huomiokuvake.
+m24-home-explore-issues-shaping = Tutki Internetin tulevaisuutta määrittäviä ongelmia
 m24-home-privacy-not-included = *Privacy Not Included
 m24-home-search-our-reviews = Etsi arvosteluistamme nähdäksesi, mitkä tekniset vempaimet ja sovellukset nuuskivat tietojasi.
 m24-home-pni-search-now = Etsi nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Useita palkintoja voittanut podcastimme esittelee muutoksentekijät, jotka tekevät Internetistä turvallisemman ja tekoälystä luotettavamman.
 m24-home-irl-listen-now = Kuuntele nyt
