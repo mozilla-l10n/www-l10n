@@ -42,6 +42,7 @@ firefox-desktop-download-os-availability = K-dispoziciji-byśe źěłowego syste
 firefox-desktop-download-in-browser-screenshot = Rěd za fota wobrazowki we wobglědowaku
 firefox-desktop-download-primary-password = Głowne gronidło
 firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
+firefox-desktop-download-ads-are-distracting = Wabjenje móli a wjeźo k tomu, až se webboki pómałčej zacytuju, mjaztym až pśeslědowaki kužde pógib wobglěduju, kótaryž online cyniśo. { -brand-name-firefox-browser } nejwěcej pśeslědowakow awtomatiski blokěrujo, togodla njetrjebaśo se do swójich wěstotnych nastajenjow zaryś.
 firefox-desktop-download-see-your-report = Wašu šćitnu rozpšawu pokazaś
 firefox-desktop-download-for-everyone = { -brand-name-firefox } jo za wše
 firefox-desktop-download-review-system-req = Cytajśo systemowe pominanja
@@ -114,10 +115,6 @@ firefox-desktop-download-get-firefox-android = Wobstarajśo se { -brand-name-fir
 firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } jo na wšych wašych rědach k dispoziciji; bjeŕśo swóje rejtariki, swóju historiju a swójecytańske znamjenja sobu. Wšykno, což trjebaśo, jo <a { $attrs }>konto { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele pśeslědowakam tśeśich awtomatiski </a> zawoborujo, waše webaktiwity gromaźiś a pśedawaś.
@@ -162,4 +159,3 @@ firefox-desktop-download-please-follow = Pšosym slědujśo <a href="{ $url }">t
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.
-firefox-desktop-download-taskbar = { -brand-name-firefox } buźo pśipěty pó instalaciji na nadawkowej rědce { -brand-name-windows }.
