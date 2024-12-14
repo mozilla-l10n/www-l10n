@@ -10,3 +10,5 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Yksityisyy
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Ilmainen – { -brand-name-google-play }ssa
 banner-firefox-app-store-free-app-store = Ilmainen – { -brand-name-app-store }ssa
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = App store -lataus
