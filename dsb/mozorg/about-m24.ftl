@@ -70,5 +70,6 @@ m24-about-see-open-positions = Glědajśo liche źěłowe městna
 m24-about-community-love-v2 = Lubosć zgromaźeństwa, naša gónjeca móc
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zgromaźeństwa – <br> naša gónjeca móc
+m24-about-mozilla-is-a = { -brand-name-mozilla } jo globalne zgromaźeństwo zagórjonych dobrowólnikow, kolegow a sobustatkujucych, kótarež internet z nami wót 1998 wuwijaju, šćitaju a formuju.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Wósoba z tašu laptopa a šnorku { -brand-name-mozilla }.
