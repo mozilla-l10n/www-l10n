@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-discover-mozilla-products = Descubra os produtos e iniciativas da { -brand-name-mozilla }. Prometemos manter o seu e-mail privado e seguro — sem partilha, sem venda, apenas grandes atualizações.
+footer-refresh-discover-mozilla-products = Descubra os produtos e iniciativas da { -brand-name-mozilla }. Prometemos manter o seu e-mail privado e seguro — sem partilhas, nem vendas, apenas grandes atualizações.
 footer-refresh-leadership = Liderança
 footer-refresh-advertise = Anuncie com a { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de lançamento do { -brand-name-firefox }
@@ -33,11 +33,11 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Ferramentas
 footer-refresh-donate = Doar
 footer-refresh-visit-mozilla-corporations = Visite a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> a empresa-mãe e sem fins lucrativos da <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-portions-of-this-content = Porções deste conteúdo são ©1998–{ $current_year } por contribuidores individuais da mozilla.org. Conteúdo disponível sob uma <a rel="license" { $href }>licença { -brand-name-creative-commons }</a>.
-footer-refresh-websites-privacy-notice = Nota de privacidade do website
+footer-refresh-portions-of-this-content = Partes deste conteúdo são ©1998–{ $current_year } por contribuidores individuais da mozilla.org. Conteúdo disponível sobre uma <a rel="license" { $href }>licença { -brand-name-creative-commons }</a>.
+footer-refresh-websites-privacy-notice = Informação de privacidade do site
 footer-refresh-websites-cookies = Cookies
-footer-refresh-websites-legal = Informação legal
-footer-refresh-community-participation-guidelines = Linhas orientadoras da participação na comunidade
+footer-refresh-websites-legal = Informações legais
+footer-refresh-community-participation-guidelines = Linhas orientadoras da comunidade
 footer-refresh-about-this-site = Sobre este site
 footer-refresh-all-languages = Todos os idiomas
 footer-refresh-language = Idioma
