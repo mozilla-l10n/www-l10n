@@ -70,6 +70,7 @@ m24-home-watch-now = Katso nyt
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Lahjoita äänesi tehdäksesi puhetekniikasta kaikenkattavaa ja kaikkien saatavilla olevaa.
 m24-home-donate-your-voice = Lahjoita äänesi
 
 ## Media Springboard
@@ -86,11 +87,14 @@ m24-home-topic-ps = Tietosuoja ja turvallisuus
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Otsikko: Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
+m24-home-why-does-it = Miksi usein tuntuu, että olemme osa tekoälyn massakokeilua? Mikä on vastuullinen tapa testata uusia teknologioita? Bridget Todd tutkii, mitä tarkoittaa elää todentamattomien tekoälyjärjestelmien kanssa, jotka vaikuttavat miljooniin ihmisiin niiden levitessä jokapäiväiseen elämään.
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
 m24-home-watch-the-award = Katso palkintonäytös
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
 
 ## Issues
 
