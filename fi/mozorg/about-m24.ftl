@@ -20,12 +20,17 @@ m24-about-read-our-manifesto = Lue manifestimme
 ## News
 
 m24-about-read-more = Lue lisää
+m24-about-read-the-latest = Lue uusimmat { -brand-name-mozilla }n uutiset ja artikkelit
 
 ## Showcase
 
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla }-työntekijä keskustelemassa.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla }-työntekijä juomassa kahvia.
 
 ## Community
 

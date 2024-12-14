@@ -18,6 +18,7 @@ navigation-v2-get-the-customizable-mobile = Hanki muokattava mobiiliselain { -br
 navigation-v2-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }:lle
 navigation-v2-get-the-mobile-browser = Hanki mobiiliselain { -brand-name-iphone }lle tai { -brand-name-ipad }ille.
 navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } mobiililaitteille
+navigation-v2-take-speed-privacy-and = Ota mukaasi nopeus, yksityisyys ja mielenrauha. { -brand-name-android }illa ja { -brand-name-ios }:lla.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Yksityistä mobiiliselailua yksinkertaisesti.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogi

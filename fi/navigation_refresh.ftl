@@ -7,12 +7,21 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = Tietoja meistä
+navigation-refresh-about-mozilla = Tietoja { -brand-name-mozilla }sta
 navigation-refresh-close-about-us-menu = Sulje Tietoja meistä -valikko
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla }-manifesti
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Tule mukaan
+navigation-refresh-get-involved-v2 = Tule mukaan
 navigation-refresh-innovation-projects = Innovaatioprojektit
+navigation-refresh-innovation-projects-v2 = Innovaatioprojektit
 navigation-refresh-blog = Blogi
+navigation-refresh-our-mission = Tehtävämme
+navigation-refresh-our-work = Työmme
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 
 ## Firefox
 
@@ -30,9 +39,9 @@ navigation-refresh-firefox-blog = { -brand-name-firefox }-blogi
 
 navigation-refresh-products = Tuotteet
 navigation-refresh-close-products-menu = Sulje Tuotteet-valikko
-navigation-refresh-mozilla-monitor = { -brand-name-monitor }
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
-navigation-refresh-mozilla-vpn = { -brand-name-vpn }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
