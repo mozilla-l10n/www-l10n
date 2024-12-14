@@ -33,7 +33,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = navigaturi Firefox
 -brand-name-firefox-browsers = navigaturi Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -61,30 +61,70 @@
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-lite = Lite
 -brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
+-brand-name-facebook-container = Facebook Container
+-brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-relay-premium = Firefox Relay Premium
+-brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
+-brand-name-devtools = DevTools
+-brand-name-relay = Relay
+-brand-name-relay-premium = Relay Premium
+-brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account = cuntu di Firefox
+-brand-name-firefox-accounts = cunti di Firefox
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-lockwise = Firefox Lockwise
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
+-brand-name-firefox-send = Firefox Send
+-brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
+-brand-name-pocket = Pocket
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Anonym
 
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
+-brand-name-bugzilla = Bugzilla
+-brand-name-gecko = Gecko
+-brand-name-glean = Glean
+-brand-name-irl-podcast = IRL Podcast
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
+-brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-monitor = Mozilla Monitor
+-brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = cuntu Mozilla
+-brand-name-mozilla-accounts = cunti Mozilla
+-brand-name-mozilla-social = Mozilla.social
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
