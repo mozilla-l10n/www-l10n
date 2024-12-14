@@ -128,6 +128,9 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je so wot
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Mjeztym zo internet rosće a so měnja, staja { -brand-name-firefox } dale swój fokus na waše prawo na priwatnosć – mjenujemy to <a { $attrs }>slubjenje na wosobinske daty</a>: Hromadźće mjenje. Dźeržće jón wěsty. Žane potajnstwa. Waše daty, waša webaktiwita, waše žiwjenje online so přez { -brand-name-firefox } škitaja.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; wzmiće swoje rajtarki, swoju historiju a zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>{ -brand-name-mozilla-account }</a> a dóstanjeće přistup k synchronizaciji a dalšim produktam { -brand-name-mozilla }.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele přesćěhowakow třećich awtomatisce při tym haći</a> waše webaktiwity hromadźeć a předawać.
 # Variables:
