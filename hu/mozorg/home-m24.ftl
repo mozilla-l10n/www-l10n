@@ -18,7 +18,7 @@ m24-home-welcome-to-mozilla = Üdvözli a { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = A megbízható technológiától kezdve a digitális jogait védő irányelvekig, mi Önt helyezzük az első helyre – mindig.
 m24-home-learn-about-us = Tudjon meg többet rólunk
 # Used as accessible text alternative for image
-m24-home-alt-flag = Egy stilizált zöld zászló fekete alapon, a { -brand-name-mozilla } esetén az „M” betűből és egy eltolt képpontból, hogy hivatkozzon az eredeti dinoszaurusz logójára.
+m24-home-alt-flag = Egy stilizált zöld zászló fekete alapon, amelyen a { -brand-name-mozilla } „M” betűje látható egy eltolt képponttal, amely egy utalás az eredeti dinoszauruszos logóra.
 
 ## Products
 
