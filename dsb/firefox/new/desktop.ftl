@@ -118,6 +118,13 @@ firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox
 firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
 # Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Wót wěstoty pśez powěsći do graśa, dajo <a { $attrs }>rozšyrjenje za kuždego</a>. Pśidajśo tak wjele ako cośo, daniž waš wobglědowak wašom pominanjam njewótpowědujo.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } jo se napórał wót <a { $attrs }>{ -brand-name-mozilla }</a> ako malsnjejša, priwatnjejša alternatiwa k wobglědowakam ako { -brand-name-ie }, a něnto { -brand-name-chrome }. Źinsa našo pśedewześe a zgromaźeństwo dobrowólnikow hyšći našej misiji slědujotej, aby waš priwatnosć nade wšym stajiłej.
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Mjaztym až internet rosćo a se změnja, staja { -brand-name-firefox } dalej swój fokus na wašo pšawo na priwatnosć – pomjenijomy to <a { $attrs }>zlubjenje za wósobinske daty</a>: Gromaźćo mjenjej. Źaržćo jen wěsty. Žedne pótajmstwa. Waše daty, waša webaktiwita, wašo žywjenje online se pśez { -brand-name-firefox } šćitaju.
 # Variables:
