@@ -24,13 +24,17 @@ m24-home-explore-our-products = Esplora i nostri prodotti
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Individua recensioni false, prodotti scadenti e venditori inaffidabili.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Salva i migliori contenuti di Internet su qualsiasi dispositivo. Perché, diciamocelo, chi ha il tempo di leggerli tutti in una sola volta?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Utilizza gli alias di posta elettronica e per numeri di telefono così da ricevere solo i messaggi che desideri.
 
 ## Donate
 
+m24-home-donate = Fai una donazione
 
 ## AI gallery
 
