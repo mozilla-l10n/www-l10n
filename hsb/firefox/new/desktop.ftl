@@ -119,6 +119,13 @@ firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { 
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Wot wěstoty přez powěsće do hraća, je <a { $attrs }>rozšěrjenje za kóždeho</a>. Přidajće telko kaž chceće, doniž waš wobhladowak wašim žadanjam njewotpowěduje.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je so wot <a { $attrs }>{ -brand-name-mozilla }</a> jako spěšniša, bóle priwatna alternatiwa k wobhladowakam kaž { -brand-name-ie }, a nětko { -brand-name-chrome } wutworił. Dźensa naše předewzaće a zhromadźenstwo dobrowólnikow hišće našej misiji slědujetej, zo byštej waš priwatnosć nade wšěm stajiłoj.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele přesćěhowakow třećich awtomatisce při tym haći</a> waše webaktiwity hromadźeć a předawać.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
