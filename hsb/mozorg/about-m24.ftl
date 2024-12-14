@@ -71,5 +71,6 @@ m24-about-community-love-v2 = Lubosć zhromadźenstwa, naša ćěrjaca móc
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Lubosć zhromadźenstwa – <br> naša ćěrjaca móc
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalne zhromadźenstwo zahoritych dobrowólnikow, kolegow a sobuskutkowarjow, kotřiž internet z nami wot 1998 wuwiwaja, škitaja a formuja.
+m24-about-from-writing-code = Wot pisanja programoweho koda a namakanja zmylkow do zasadźenja za priwatnosć a dźerženja internet wotewrjeny za kóždeho – čłonojo našeho zhromadźenstwa su rjap wšeho, štož činimy. Jich zahoritosć a podaće nas kóždy dźeń inspirujetej.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Wosoba z tobołu laptopa a šnórku { -brand-name-mozilla }.
