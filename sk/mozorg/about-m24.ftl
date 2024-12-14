@@ -38,6 +38,8 @@ m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré po
 
 m24-about-read-more = Prečítajte si viac
 m24-about-read-the-latest = Prečítajte si najnovšie novinky a články o { -brand-name-mozilla(case: "loc") }
+m24-about-14-ai-projects = 14 projektov umelej inteligencie, ktoré sa oplatí sledovať: začína sa prvá kohorta Builders Accelerator od { -brand-name-mozilla(case: "gen") }
+m24-about-at-our-rise25 = Na našich oceneniach { -brand-name-rise25 } je budúcnosť AI dôveryhodná, inkluzívna a zodpovedná
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Držiteľka ceny { -brand-name-rise25 } ukazujúca na svoju trofej.
 m24-about-empowering-chicagos-entrepreneurs = Posilnenie podnikateľov v Chicagu pri generačnej výmene
