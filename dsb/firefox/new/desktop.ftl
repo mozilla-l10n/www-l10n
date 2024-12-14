@@ -45,8 +45,10 @@ firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědo
 firefox-desktop-download-ads-are-distracting = Wabjenje móli a wjeźo k tomu, až se webboki pómałčej zacytuju, mjaztym až pśeslědowaki kužde pógib wobglěduju, kótaryž online cyniśo. { -brand-name-firefox-browser } nejwěcej pśeslědowakow awtomatiski blokěrujo, togodla njetrjebaśo se do swójich wěstotnych nastajenjow zaryś.
 firefox-desktop-download-see-your-report = Wašu šćitnu rozpšawu pokazaś
 firefox-desktop-download-for-everyone = { -brand-name-firefox } jo za wše
+firefox-desktop-download-available-in-over = K dispoziciji we wěcej ako 90 rěcach a kompatibelny z mašinami { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, { -brand-name-firefox } funkcioněrujo, njeźiwajucy na to, což wužywaśo abo źož sćo. Zawěsććo za nejlěpše dožywjenje, až waš źěłowy system jo aktualny.
 firefox-desktop-download-review-system-req = Cytajśo systemowe pominanja
 firefox-desktop-download-all-your-devices = Wobstarajśo se { -brand-name-firefox } za wšykne swóje rědy
+firefox-desktop-download-take-your-privacy = Wzejśo swóju priwatnosć wšuźi sobu. { -brand-name-firefox-browsers } za { -brand-name-ios } a { -brand-name-android } maju samske mócne nastajenja priwatnosći, aby pśeslědowakam zawoborali, wam we w interneśe slědowaś, wšojadno, źož sćo.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Cyńśo <strong>wšykno</strong>z { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pytajśo wěcej inteligentnje a malsnjej
@@ -115,6 +117,9 @@ firefox-desktop-download-get-firefox-android = Wobstarajśo se { -brand-name-fir
 firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Ześěgniśo mobilny wobglědowak { -brand-name-firefox } za awtomatiski šćit na wšych wašych rědach.
 firefox-desktop-download-learn-about-the = Zgóńśo wěcej wó desktopowem wobglědowaku { -brand-name-firefox } dołojce
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Mjaztym až internet rosćo a se změnja, staja { -brand-name-firefox } dalej swój fokus na wašo pšawo na priwatnosć – pomjenijomy to <a { $attrs }>zlubjenje za wósobinske daty</a>: Gromaźćo mjenjej. Źaržćo jen wěsty. Žedne pótajmstwa. Waše daty, waša webaktiwita, wašo žywjenje online se pśez { -brand-name-firefox } šćitaju.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele pśeslědowakam tśeśich awtomatiski </a> zawoborujo, waše webaktiwity gromaźiś a pśedawaś.
