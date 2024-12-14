@@ -42,10 +42,13 @@ firefox-desktop-download-os-availability = Disponujomnosć dźěłowych systemow
 firefox-desktop-download-in-browser-screenshot = Nastroj za fota wobrazowki we wobhladowaku
 firefox-desktop-download-primary-password = Hłowne hesło
 firefox-desktop-download-we-block-the-ad = My blokujemy wabjenske přesćěhowaki. Wy přeslědźeće internet spěšnišo.
+firefox-desktop-download-ads-are-distracting = Wabjenje wotwjedźe a wjedźe k tomu, zo so webstrony pomałšo začituja, mjeztym zo přesćěhowaki kóždy pohib wobkedźbuja, kotryž online činiće. { -brand-name-firefox-browser } najwjace přesćěhowakow awtomatisce blokuje, tohodla njetrjebaće do swojich wěstotnych nastajenjow zaryć.
 firefox-desktop-download-see-your-report = Wašu škitnu rozprawu pokazać
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za wšěch
+firefox-desktop-download-available-in-over = K dispoziciji we wjace hač 90 rěčach a kompatibelny z mašinami { -brand-name-windows }, { -brand-name-mac-short } a { -brand-name-linux }, { -brand-name-firefox } funguje, njedźiwajo na to, štož wužiwaće abo hdźež sće. Zawěsćće za najlěpše dožiwjenje, zo waš dźěłowy system je aktualny.
 firefox-desktop-download-review-system-req = Čitajće systemowe žadanja
 firefox-desktop-download-all-your-devices = Wobstarajće sej { -brand-name-firefox } za wšě swoje graty
+firefox-desktop-download-take-your-privacy = Wzmiće swoju priwatnosć wšudźe sobu. { -brand-name-firefox-browsers } za { -brand-name-ios } a { -brand-name-android } maja samsne mócne nastajenja priwatnosće, zo bychu přesćěhowaki při tym haćili, wam we w interneće slědować, wšojedne, hdźež sće.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Čińće <strong>wšitko</strong> z { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pytajće bóle inteligentnje a spěšnišo
@@ -114,23 +117,13 @@ firefox-desktop-download-get-firefox-android = Wobstarajće sej { -brand-name-fi
 firefox-desktop-download-get-firefox-ios = Wobstarajće sej { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Sćehńće mobilny wobhladowak { -brand-name-firefox } za awtomatiski škit na wšěch wašich gratach.
 firefox-desktop-download-learn-about-the = Zhońće wjace wo desktopowym wobhladowaku { -brand-name-firefox } deleka
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; bjerće swoje rajtarki, swoju historiju a swoje zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>konto { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele přesćěhowakow třećich awtomatisce při tym haći</a> waše webaktiwity hromadźeć a předawać.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maće prašenja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> budźe wam pomhać.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Maće hižo wobhladowak. Wobstarajće sej nětko samo wjace wot { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Wobkedźbujće hackerow z { -brand-name-mozilla-monitor }, škitajće swoju e-mejlowu adresu z { -brand-name-firefox-relay } a wjace.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Wobkedźbujće hackerow z { -brand-name-firefox-monitor }, škitajće swoju e-mejlowu adresu z { -brand-name-firefox-relay } a wjace.
-firefox-desktop-download-get-more-from-firefox = Wobstarajće sej wjace wot { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Sćehńće prosće wobhladowak
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -168,4 +161,3 @@ firefox-desktop-download-please-follow = Prošu slědujće <a href="{ $url }">tu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.
-firefox-desktop-download-taskbar = { -brand-name-firefox } budźe připjaty po instalaciji na nadawkowej lajsće { -brand-name-windows }.
