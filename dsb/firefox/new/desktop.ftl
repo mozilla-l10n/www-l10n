@@ -50,7 +50,7 @@ firefox-desktop-download-review-system-req = Cytajśo systemowe pominanja
 firefox-desktop-download-all-your-devices = Wobstarajśo se { -brand-name-firefox } za wšykne swóje rědy
 firefox-desktop-download-take-your-privacy = Wzejśo swóju priwatnosć wšuźi sobu. { -brand-name-firefox-browsers } za { -brand-name-ios } a { -brand-name-android } maju samske mócne nastajenja priwatnosći, aby pśeslědowakam zawoborali, wam we w interneśe slědowaś, wšojadno, źož sćo.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = Cyńśo <strong>wšykno</strong>z { -brand-name-firefox }
+firefox-desktop-download-do-it-all = Cyńśo <strong>wšykno</strong> z { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Pytajśo wěcej inteligentnje a malsnjej
 firefox-desktop-download-search-from-address = Pytanje z adresowego póla
 firefox-desktop-download-search-engine-options = Nastajenja pytnice
