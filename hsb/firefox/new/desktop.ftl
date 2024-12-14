@@ -131,6 +131,9 @@ firefox-desktop-download-as-the-internet = Mjeztym zo internet rosće a so měnj
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; wzmiće swoje rajtarki, swoju historiju a zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>{ -brand-name-mozilla-account }</a> a dóstanjeće přistup k synchronizaciji a dalšim produktam { -brand-name-mozilla }.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Čińće wobraz wysokeho rozeznaća wot něčeho online z našim nastrojom za <a { $attrs }>fota wobrazowki</a>, kotryž je direktnje we wobhladowaku zatwarjeny.
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>wjele přesćěhowakow třećich awtomatisce při tym haći</a> waše webaktiwity hromadźeć a předawać.
 # Variables:
