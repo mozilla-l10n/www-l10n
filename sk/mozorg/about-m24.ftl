@@ -21,7 +21,18 @@ m24-about-together-we-can = Spoločne môžeme udržiavať internet jednoduchý,
 m24-about-read-our-manifesto = Prečítajte si náš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Skupina mysliteľov sediacich v kruhu na podlahe a zdieľajúcich nápady.
+m24-about-advocate = Zasadzujeme sa
+m24-about-we-advocate-for = Obhajujeme lepšie produkty a pripomíname vládam a technologickým korporáciám ich zodpovednosť za to, čo vytvárajú.
+m24-about-research = Skúmame
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitorujeme
+m24-about-we-uncover-insights = Odhaľujeme štatistiky, robíme kampane na zlepšenie produktov a riadime pravidlá, ktoré reprezentujú vaše záujmy.
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Monitorujeme vývoj, vedieme výskum a kampane na zlepšenie produktov a riadime zásady, ktoré reprezentujú vaše záujmy.
 m24-about-build = Budujeme
+m24-about-we-build-products = Vytvárame produkty, ktoré vám dávajú kontrolu do vlastných rúk – napríklad { -brand-name-firefox }, { -brand-name-fakespot } a ďalšie.
+m24-about-fund = Podporujeme
+m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré posúvajú technológie, internet a AI správnym smerom.
 
 ## News
 
@@ -41,6 +52,14 @@ m24-about-read-about-our = Prečítajte si o našom záväzku
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Dôveryhodná AI, { -brand-name-common-voice }, Federated Learnings.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Zamestnanci { -brand-name-mozilla(case: "gen") } uprostred rozhovoru.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Zamestnanec { -brand-name-mozilla(case: "gen") } pije kávu.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Zamestnanci { -brand-name-mozilla(case: "gen") } spolupracujú.
 m24-about-join-us-and = Pridajte sa k nám a zmeňte niečo k lepšiemu
 m24-about-join-our-team = Pridajte sa k nášmu tímu a posúvajte hranice toho, čo je možné – bez kompromisov v tom, na čom záleží.
 m24-about-see-open-positions = Pozrite si otvorené pozície
