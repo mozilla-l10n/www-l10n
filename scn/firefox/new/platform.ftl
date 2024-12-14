@@ -36,3 +36,7 @@ new-platform-open-source = Còdici graputu
 
 ## Windows
 
+new-platform-firefox-moves-fast = { -brand-name-firefox } si movi lestu e sta accura ê to dati - nuḍḍu trazzamentu dî pubblicità e nuḍḍa lintizza.
+new-platform-common-sense-privacy = Privatizza: n'aḍḍijuta savia
+new-platform-seamless-setup = Nzitamentu fàcili
+new-platform-easy-migration = Migràzzioni fàcili dî prifirenzi e dî nzingalibbra quannu scàrrichi { -brand-name-firefox } pi { -brand-name-windows }.
