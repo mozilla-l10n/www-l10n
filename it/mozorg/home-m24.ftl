@@ -38,9 +38,17 @@ m24-home-donate = Fai una donazione
 
 ## AI gallery
 
+m24-home-tag-product = Prodotto
+m24-home-tag-project = Progetto
+m24-home-tag-program = Programma
+m24-home-tag-event = Evento
+m24-home-read-more = Ulteriori informazioni
+m24-home-get-started = Inizia
+m24-home-join-the-movement = Unisciti al movimento:<br>IA per le persone
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo di { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo di { -brand-name-lumigator }.
