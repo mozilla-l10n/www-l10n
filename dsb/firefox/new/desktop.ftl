@@ -112,6 +112,7 @@ firefox-desktop-download-sync-your-devices = Synchronizěrujśo swóje rědy
 firefox-desktop-download-screenshots = Fota wobrazowki
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Pólěpšony slědowański šćit (ETP)
+firefox-desktop-download-from-watching-a = Woglědajśo se webrozpokazanje abo wobchowajśo swój nejlubšy team we wócyma, wašo wideo wam slědujo, mjaztym až někotare nadawki naraz wobstaraśo.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Wobstarajśo se { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
