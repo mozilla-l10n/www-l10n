@@ -101,27 +101,27 @@ m24-home-keeping-genai-technologies = A generatív MI technológiák biztonság�
 m24-home-from-hollywood-to = Hollywoodtól a hip hopig, a művészek mesterséges mesterséges intelligenciával kapcsolatos hozzájárulásról tárgyalnak.
 m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } az új „{ -brand-name-firefox } bemutatja” dokumentumfilm-sorozattal ünnepli az úttörő alkotókat.
 m24-home-big-techs-power = A nagy technológiai vállalatok nyelv feletti hatalma azt is jelenti, hogy hatalmuk van az emberek felett. Bridget Todd nyelvi közösségek vezetőivel beszélget, hogy előkészítse a hangalapú MI-t a saját nyelvükön és dialektusukon.
-m24-home-why-does-it = Miért érzi olyan gyakran úgy, hogy egy tömeges MI-kísérlet részei vagyunk? Mi a felelősségteljes módja az új technológiák tesztelésének? Bridget Todd felfedezi, hogy mit is jelent nem bizonyított MI rendszerekkel élni, amelyek emberek millióira hatnak, miközben azok bekerülnek a közéletbe.
+m24-home-why-does-it = Miért tűnik gyakran úgy, hogy egy tömeges MI-kísérlet részei vagyunk? Mi az új technológiák tesztelésének felelősségteljes módja? Bridget Todd felfedezi, hogy mit is jelent a még nem bizonyított MI rendszerekkel élni, amelyek emberek millióira hatnak miközben bekerülnek a közéletbe.
 m24-home-kids-are-growing = A gyerekek egy nagyon online világban nőnek fel. Mit tegyen egy aggódó szülő?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } díjak
-m24-home-get-to-know = Ismerje meg a vezetőket, akik a megbízható, inkluzív és átlátható MI-fejlesztést támogatják, miközben új mércét állítanak fel és inspirálják az innovátorok következő generációját.
+m24-home-get-to-know = Ismerje meg a vezetőket, akik a megbízható, befogadó és átlátható MI-fejlesztést támogatják, miközben új mércét állítanak fel, és inspirálják az innovátorok következő generációját.
 m24-home-watch-the-award = Nézze meg a díjátadót
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = A { -brand-name-rise25 } büszke kitüntetettje.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = Egy magabiztos, mosolygós előadó a { -brand-name-rise25 }-nél.
+m24-home-alt-rise25-smiling = Egy magabiztos, mosolygós előadó a { -brand-name-rise25 } díjátadón.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetettje.
 
 ## Issues
 
 # Used as an accessible text alternative for an image
-m24-home-alt-pni = Okos eszközök Figyelem ikonra.
+m24-home-alt-pni = Okos eszközök figyelmeztető ikonnal.
 m24-home-explore-issues-shaping = Fedezze fel azokat a kérdéseket, amelyek az internet jövőjét alakítják
-m24-home-privacy-not-included = *Az adatvédelmet nem tartalmazza
+m24-home-privacy-not-included = *Adatvédelmet nem tartalmaz
 m24-home-search-our-reviews = Böngésszen értékeléseinkben, hogy mely technológiai eszközök és alkalmazások titkolják lopva az adatait.
 m24-home-pni-search-now = Keresés most
 # Used as an accessible text alternative for an image
