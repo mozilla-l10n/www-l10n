@@ -33,7 +33,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = navigaturi Firefox
+-brand-name-firefox-browser = Firefox Browser
 -brand-name-firefox-browsers = navigaturi Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -54,6 +54,13 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
+-brand-name-firefox-quantum = Firefox Quantum
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
 
 ## Firefox products
 
@@ -78,30 +85,79 @@
 
 ## Mozilla projects
 
+# Obsolete string (expires: 2025-01-05)
+-brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
+-brand-name-common-voice = Common Voice
+-brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Hubs
+-brand-name-lockwise = Lockwise
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
+-brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
+-brand-name-brave = Brave
+-brand-name-chrome = Chrome
+-brand-name-edge = Edge
+-brand-name-ie = Internet Explorer
+-brand-name-opera = Opera
+-brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
+-brand-name-android = Android
+-brand-name-chromeos = Chrome OS
+-brand-name-ios = iOS
+-brand-name-linux = Linux
+-brand-name-mac = macOS
+-brand-name-mac-short = Mac
+-brand-name-ubuntu = Ubuntu
+-brand-name-vista = Vista
+-brand-name-windows = Windows
+-brand-name-xp = XP
 
 ## Apple products
 
+-brand-name-app-store = App Store
+-brand-name-ipad = iPad
+-brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
+-brand-name-fire-tv = Fire TV
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
+-brand-name-instagram = Instagram
+-brand-name-messenger = Messenger
+-brand-name-workplace = Workplace
 
 ## Google products
 
+-brand-name-chromium = Chromium
+-brand-name-google-play = Google Play
+-brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
