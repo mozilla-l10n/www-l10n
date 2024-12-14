@@ -5,12 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Internet per le persone, non per il profitto — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Internet per le persone, non per il profitto
+# HTML page description
+m24-home-page-desc = Lo sapevi che { -brand-name-mozilla }, la società che sviluppa { -brand-name-firefox }, si batte per mantenere Internet una risorsa pubblica globale, aperta e accessibile a tutti?
+m24-home-page-desc-v2 = Continuiamo a a lavorare per riportare il controllo di Internet nelle mani delle persone che lo utilizzano.
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Benvenuto in { -brand-name-mozilla }
+m24-home-learn-about-us = Scopri chi siamo
 
 ## Products
 
+m24-home-love-the-internet = Torna ad amare Internet
+m24-home-explore-our-products = Esplora i nostri prodotti
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
