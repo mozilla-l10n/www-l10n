@@ -32,18 +32,18 @@ m24-home-go-chaosfree-with = Egyszerűsítse az életét egyetlen alkalmazással
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Vegye észre a hamis értékeléseket, a rossz termékeket és a nem megbízható eladókat.
 m24-home-pocket = { -brand-name-pocket }
-m24-home-save-the-internets = Mentse el az internet legjobb tartalmait bármely eszközre – mert kinek van most ideje mindent elolvasni?
+m24-home-save-the-internets = Mentse el az internet legjobb tartalmait bármely eszközön – mert kinek van most mindent egyszerre elolvasni?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = Tartsa bizalmasan a tartózkodási helyét és az online kalandjait – közvetítsen bárhol, helyiként.
+m24-home-keep-your-location = Tartsa bizalmasan a tartózkodási helyét és az online kalandjait – nézzen közvetítéseket úgy, mint egy helyi.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszélybe kerülnek, és zárja be, mint egy profit.
+m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszélybe kerülnek, és biztosítsa őket, mint egy profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Rejtse el az e-mail-címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
 
 ## Donate
 
 m24-home-donate-to-the = Adományozzon a { -brand-name-mozilla } nonprofit szervezetnek
-m24-home-mozilla-is-building = A { -brand-name-mozilla } mozgalmat épít az internet visszaszerzésére. Együtt olyan jövőt építhetünk, ahol védik az adatvédelmét, a mesterséges intelligencia megbízható és a felelőtlen technológiai cégeket felelősségre vonják. De ez csak akkor lehetséges, ha együtt tesszük.
+m24-home-mozilla-is-building = A { -brand-name-mozilla } mozgalmat épít az internet visszaszerzésére. Együtt olyan jövőt építhetünk, ahol védik az adatvédelmét, a mesterséges intelligencia megbízható és a felelőtlen technológiai vállalatokat felelősségre vonják. De ez csak akkor lehetséges, ha együtt teszünk érte.
 m24-home-were-proudly-nonprofit = Büszkén nonprofit szervezet vagyunk. Adományoz ma a { -brand-name-mozilla(ending: "accented") }nak?
 m24-home-donate = Adományozás
 
