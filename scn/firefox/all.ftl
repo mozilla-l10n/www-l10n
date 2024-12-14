@@ -47,12 +47,27 @@ firefox-all-64-bit-installers = Nzitatura a 64 bit
 firefox-all-choose-a-64-bit-installer = Scarta nu nzitaturi a 64 bit pî computer chî prucissuri a 64 bit, chi pirmèttinu d'assignari cchiù assai mimoria RAM ê prugrammi sìnguli — mpurtanti assai pî jochi e autri applicazzioni pisanti.
 firefox-all-32-bit-installers = Nzitatura a 32 bit
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = St'aḍḍijuta grapi na pàggina di pruduttu { -brand-name-firefox } nnô purtali dû Microsoft Store. Si stai usannu Windows 10 o Windows 11, ài a pussibbilità di gràpiri u Windows Store di sta pàggina pi nzitari { -brand-name-firefox }. Si u nziti dû Microsoft Store, tutti l'attualizzi di { -brand-name-firefox } vennu manijati di ḍḍà. Cci sunnu certi diffirenzi nnî cumpurtamenti e nnî funzioni di { -brand-name-firefox } quannu veni nzitatu dû Microsoft Store, ma pâ majurìa di l'utenti sti diffirenzi nun sunnu mpurtanti.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Scàrrica { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Semu nnôn piriudu di transizzioni ntra i virsiuni ESR majuri { $esr_next_major } e { $esr_current_major }.
+firefox-all-esr-if-you-choose = Si scarti di scarricàriti a virsiuni ESR cchiù vecchia, veni attualizzata 'n autumàtica â virsiuni nova quannu u piriudu di transizzioni accabba.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Leggi cchiù nfurmazzioni ncapu ô <a { $attrs }>calannariu di pubblicazzioni di { -brand-name-firefox-esr }</a>.
+firefox-all-check-the-system-requirements = Cuntrolla i riquisiti dû sistema
 firefox-all-release-notes = Nuti dâ virsiuni
 firefox-all-source-code = Còdici funti
 firefox-all-need-help = Ti serbi ajutu?
+firefox-all-choose-which-firefox = Scarta quali { -brand-name-firefox-browser } vo' scarricari nnâ to lingua
+firefox-all-firefox-privacy-notice = Abbisu di privatizza di { -brand-name-firefox }
+firefox-all-learn-about-firefox = Cchiù nfurmazzioni ncapu ê navigatura { -brand-name-firefox }
+firefox-all-arm64-installers = Nzitatura ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Nzitatura ARM64/AArch64 uttimizzati pi Windows e Linux.
 firefox-all-product-send-link = Manna na lijami di scarricamentu ô to tilèfunu
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
