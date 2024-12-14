@@ -29,6 +29,7 @@ new-platform-faster-page-loading-linux = Agghicau u { -brand-name-firefox } pi {
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } pi { -brand-name-linux }
 new-platform-privacy-more-than = Privatizza - cchiù assai di na pulìtica
+new-platform-open-source = Còdici graputu
 
 ## Mac
 
