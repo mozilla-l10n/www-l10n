@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Tutustu { -brand-name-mozilla }n tuotteisiin ja aloitteisiin. Lupaamme pitää sähköpostisi yksityisenä ja turvassa – ei jakamista, ei kaupustelua, vain upeita päivityksiä.
 footer-refresh-advertise = Mainosta { -brand-name-mozilla }n avulla
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-Julkaisutiedot
 footer-refresh-mdn = MDN
@@ -30,6 +31,8 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Työkalut
 footer-refresh-donate = Lahjoita
+footer-refresh-visit-mozilla-corporations = Vieraile <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> -yrityksen voittoa tavoittelemattoman, ylätasolla toimivan <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> -säätiön sivustolla.
+footer-refresh-portions-of-this-content = Osa tästä sisällöstä on tekijänoikeudella suojattu © 1998–{ $current_year } yksittäisten mozilla.org-avustajien toimesta. Sisältö on <a rel="license" { $href }>{ -brand-name-creative-commons } -lisenssin</a> alaista.
 footer-refresh-websites-privacy-notice = Sivuston tietosuojakäytäntö
 footer-refresh-websites-cookies = Evästeet
 footer-refresh-websites-legal = Juridiset asiat

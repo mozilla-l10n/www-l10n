@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Työskentelemme palauttaaksemme Internetin hallinnan sit
 m24-home-welcome-to-mozilla = Tervetuloa { -brand-name-mozilla }an
 m24-home-from-trustworthy-tech = Luotettavasta tekniikasta digitaalisia oikeuksiasi puolustaviin käytäntöihin – asetamme sinut etusijalle, aina.
 m24-home-learn-about-us = Lisätietoja meistä
+# Used as accessible text alternative for image
+m24-home-alt-flag = Tyylitelty vihreä lippu mustalla taustalla, joka koostuu { -brand-name-mozilla }n M-kirjaimesta ja pikselistä, joka on sijoiltaan, ja siten viittaa alkuperäiseen dinosauruslogoon.
 
 ## Products
 
@@ -30,7 +32,7 @@ m24-home-go-chaosfree-with = Yksinkertaista elämääsi yhdellä sovelluksella k
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Havaitse tekaistut arvostelut, huonot tuotteet ja epäluotettavat myyjät.
 m24-home-pocket = { -brand-name-pocket }
-m24-home-save-the-internets = Tallenna Internetin paras sisältö mille tahansa laitteelle – koska kenellä on aikaa lukea kaikki nyt?
+m24-home-save-the-internets = Tallenna Internetin paras sisältö millä tahansa laitteella – koska kenellä on aikaa lukea kaikki nyt?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Pidä sijaintisi ja verkkoseikkailut yksityisinä – suoratoista kuin olisit kotimaassa, missä tahansa.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
@@ -40,6 +42,9 @@ m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jot
 
 ## Donate
 
+m24-home-donate-to-the = Lahjoita yleishyödylliselle { -brand-name-mozilla }lle
+m24-home-mozilla-is-building = { -brand-name-mozilla } rakentaa liikettä Internetin palauttamiseksi takaisin. Yhdessä voimme rakentaa tulevaisuuden, jossa yksityisyytemme on suojattu, tekoäly on luotettava ja vastuuttomat teknologiayritykset saatetaan vastuuseen. Se on mahdollista vain, jos teemme sen yhdessä.
+m24-home-were-proudly-nonprofit = Olemme ylpeänä voittoa tavoittelemattomia, yleishyödyllisiä. Lahjoitatko tänään { -brand-name-mozilla }lle?
 m24-home-donate = Lahjoita
 
 ## AI gallery
@@ -84,6 +89,7 @@ m24-home-watch-the-award = Katso palkintonäytös
 ## Issues
 
 m24-home-privacy-not-included = *Privacy Not Included
+m24-home-search-our-reviews = Etsi arvosteluistamme nähdäksesi, mitkä tekniset vempaimet ja sovellukset nuuskivat tietojasi.
 m24-home-pni-search-now = Etsi nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
