@@ -53,14 +53,36 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo di { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, Presidente di { -brand-name-mozilla }.
+m24-home-can-ai-be = L’IA può essere affidabile?
+m24-home-watch-now = Guarda ora
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Relatore sul palco con loghi di vari prodotti.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Hai una startup in fase iniziale? Presenta la tua azienda a { -brand-name-mozilla-ventures } e ottieni finanziamenti per promuovere un cambiamento positivo per il futuro dell’IA e di Internet.
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Dona la tua voce
 
 ## Media Springboard
 
+m24-home-type = Tipo
+m24-home-author = Autore
+m24-home-topic = Argomento
+m24-home-intro = Introduzione
+m24-home-tag-article = Articolo
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Novità
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Titolo: Tu, l’IA e Internet: che cosa sta succedendo realmente?
+m24-home-headline-you-ai-v2 = Tu, l’IA e Internet: che cosa sta succedendo realmente?
+m24-home-kids-are-growing = I bambini stanno crescendo in un mondo sempre più digitalizzato. Che cosa può fare un genitore preoccupato?
 
 ## Showcase
 
+m24-home-rise25-awards = Premi { -brand-name-rise25 }
+m24-home-watch-the-award = Guarda la cerimonia di premiazione
 
 ## Issues
 
