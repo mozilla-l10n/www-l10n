@@ -56,14 +56,14 @@ m24-home-tag-event = Esemény
 m24-home-read-more = Bővebben
 m24-home-get-started = Kezdő lépések
 m24-home-join-the-movement = Csatlakozzon a mozgalomhoz:<br> MI az emberekért
-m24-home-our-mission-is = A küldetésünk, hogy az emberek számára egyszerű legyen az építkezés, és az együttműködés a nyílt forráskódú, megbízható MI-vel.
+m24-home-our-mission-is = Küldetésünk, hogy megkönnyítsük az emberek számára a nyílt forráskódú, megbízható MI-re való építkezést és az ebben való együttműködést.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } logó.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Futtasson nagy nyelvi modelleket (LLM) egyszerűen a számítógépén a { -brand-name-llamafile } segítségével – nincs szükség telepítésre, és az adatai biztonságban maradnak az eszközén.
-m24-home-alt-builders = Építők
-m24-home-mozilla-builders = { -brand-name-mozilla } készítők
-m24-home-builders-helps-independent = A Builders segít a független fejlesztőknek átalakuló, nyílt forráskódú MI projektek létrehozásában, testreszabott együttműködéseken, programozáson és közösségen keresztül.
+m24-home-alt-builders = Builders
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel, programozással és közösséggel segíti a független fejlesztőket a transzformatív nyílt forráskódú MI projektjeiknek létrehozásában.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logó.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -71,10 +71,10 @@ m24-home-find-the-just = Találja meg az igényeinek, felhasználási eseteinek 
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, a { -brand-name-mozilla } elnöke.
 m24-home-can-ai-be = Lehet-e megbízható az MI?
-m24-home-in-a-world = Egy olyan világban, ahol a mesterséges intelligencia innovációját kevesek választották, kockáztatjuk ezen technológia monopolizálását. A nyílt forráskódú fogalmak MI-re történő alkalmazása megváltoztathatja.
+m24-home-in-a-world = Egy olyan világban, ahol az MI innovációját kevesek irányítják, ezen technológia monopolizálását kockáztatjuk. A nyílt forráskód fogalmainak MI-re történő alkalmazása változtathat ezen.
 m24-home-watch-now = Figyelés most
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = Hangszóró a színpadon több termék logóval.
+m24-home-alt-ventures = Beszélő egy színpadon több termék logójával.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Mutassa be a cégét a { -brand-name-mozilla-ventures }be, és szerezzen finanszírozást, hogy pozitív változást hajtson végre a mesterséges intelligencia és az internet jövője érdekében.
 m24-home-common-voice = { -brand-name-common-voice }
@@ -100,7 +100,7 @@ m24-home-introducing-anonym = Bemutatkozik az { -brand-name-anonym }: Magasabbra
 m24-home-keeping-genai-technologies = A generatív MI technológiák biztonságának megőrzése közös felelősség.
 m24-home-from-hollywood-to = Hollywoodtól a hip hopig, a művészek mesterséges mesterséges intelligenciával kapcsolatos hozzájárulásról tárgyalnak.
 m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } az új „{ -brand-name-firefox } bemutatja” dokumentumfilm-sorozattal ünnepli az úttörő alkotókat.
-m24-home-big-techs-power = A nagy technológiai hatalma a nyelv felett azt jelenti, hogy az emberek felett is van. Bridget Todd nyelvi közösségek vezetőivel beszélget, hogy előkészítse a hangalapú mesterséges intelligenciát a saját nyelvükön és dialektusukon.
+m24-home-big-techs-power = A nagy technológiai vállalatok nyelv feletti hatalma azt is jelenti, hogy hatalmuk van az emberek felett. Bridget Todd nyelvi közösségek vezetőivel beszélget, hogy előkészítse a hangalapú MI-t a saját nyelvükön és dialektusukon.
 m24-home-why-does-it = Miért érzi olyan gyakran úgy, hogy egy tömeges MI-kísérlet részei vagyunk? Mi a felelősségteljes módja az új technológiák tesztelésének? Bridget Todd felfedezi, hogy mit is jelent nem bizonyított MI rendszerekkel élni, amelyek emberek millióira hatnak, miközben azok bekerülnek a közéletbe.
 m24-home-kids-are-growing = A gyerekek egy nagyon online világban nőnek fel. Mit tegyen egy aggódó szülő?
 
