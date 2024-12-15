@@ -19,6 +19,7 @@ mobile-android-firefox-for-android = { -brand-name-firefox } za { -brand-name-an
 mobile-android-one-tap-to = Priwatnosć z jadnym dotyknjenim
 mobile-android-get-to-private = Startujśo priwatny modus z jano jadnym dotyknjenim. A gaž priwatny modus zacynjaśo, se waša pśeglědowańska historija awtomatiski z wašogo rěda wulašujo.
 mobile-android-search-your-own = Swójske pytanje
+mobile-android-got-a-big = Maśo wjeliki telefon a tłuste palce normalneje wjelikosći? Žeden problem. { -brand-name-firefox } za { -brand-name-android } wam zmóžnja, pytańsku rědku wótgórjejka dodołojka pśesunuś a wam tak wolažcujo, jano jadnu ruku wužywaś. Móžośo teke swójsku pytnicu we wobglědowaku wubraś a { -brand-name-firefox } ako swój standardny wobglědowak nastajiś, jolic cośo.
 mobile-android-save-power-with = Ze śamnym modusom milinu zažariś
 mobile-android-easily-organize-your = Organizěrujśo swóje rejtariki lažko
 mobile-android-supercharge-firefox-with = Rozšyŕśo { -brand-name-firefox } z dodankami
