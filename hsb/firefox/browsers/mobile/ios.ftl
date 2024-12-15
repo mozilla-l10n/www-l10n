@@ -27,5 +27,7 @@ mobile-ios-see-your-open-tabs = Wobhladajće sej swoje wočinjene rajtarki, zań
 mobile-ios-own-your-home = Mějće swójsku startowu wobrazowku
 mobile-ios-get-to-the-parts = Dóstańće so k dźělam interneta, za kotrež so zajimujeće. Wobhladajće sej wočinjene rajtarki, najnowše pytanja, zapołožki a najlubše sydła na jednym městnje.
 mobile-ios-find-it-all = Spěšnišo namakać
+mobile-ios-get-search-suggestions = Dóstańće pytanske namjety w pytanskej lajsće a mějće spěšny přistup k sydłam, kotrež najčasćišo wopytujeće. Zapodajće swoje pytanske prašenje a dóstańće namjetowane a do toho pytane wuslědki w swojich najlubšich pytawach.
 mobile-ios-discover-more-of = Wokryjće wjace wo tym, štož so wam spodoba
+mobile-ios-open-a-new = Wočińće nowy rajtark w { -brand-name-firefox }, zo byšće sej swoje najčasćišo wopytane sydła, swoje najnowše zapołožki a woblubowane nastawki w { -brand-name-pocket } wobhladał. { -brand-name-firefox } wam spěšny přistup k wašim njedawno wužitym sydłam skići, zo by wam pomhał, spěšnišo waš cil docpěć.
 mobile-ios-about-mozilla = Wo { -brand-name-mozilla }
