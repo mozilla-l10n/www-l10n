@@ -44,10 +44,11 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-fast-network-speeds-even-while = Wysoke spěšnosće syće, samo hdyž hrajeće
 vpn-landing-no-logging-tracking-or-sharing = Syćowe daty so njeprotokoluja, njeslěduja abo njedźěla
-vpn-landing-no-bandwidth-restrictions-or = žane wobmjezowanja šěrokosće pasma abo haćenje
+vpn-landing-no-bandwidth-restrictions-or = Žane wobmjezowanja šěrokosće pasma abo haćenje
 vpn-landing-extra-security-whole-device = Přidatna wěstota: škit cyłeho grata, routing multi-hop a wjace
 vpn-landing-see-all-features = Wšě funkcije pokazać
 vpn-landing-fram-a-brand-you-can-trust = Wot marki, kotrejž móžeće dowěrić
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je powšitkownosći wužitne internetne předewzaće, kotrež wot lěta 1998 za strowy web wojuje.
 vpn-landing-one-subscription-for-all-your = Jedyn abonement za wšě waše graty
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Spěchowany wot { -brand-name-mozilla }.</strong> Wojujemy za waš prawo na priwatnosć wot lěta 1998.

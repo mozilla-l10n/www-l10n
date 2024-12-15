@@ -31,7 +31,7 @@ vpn-features-connect-up-to =
        *[other] Zwjazajće hač do { $devices } gratow
     }
 vpn-features-supported-platforms = Na dźěłowych systemach Windows, macOS, Android, iOS a Linux podpěrany.
-vpn-features-no-bandwidth = žane wobmjezowanja šěrokosće pasma abo haćenje
+vpn-features-no-bandwidth = Žane wobmjezowanja šěrokosće pasma abo haćenje
 vpn-features-fast-network = Wysoke spěšnosće syće, samo hdyž hrajeće
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
