@@ -10,13 +10,12 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Wobhladowak { -brand-name-firefox } za { -brand-name-android } je spěšny, wěsty a priwatny, hdyž jón wočinjeće.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Budźće mobilny. Budźće njewotwisny z { -brand-name-firefox } za { -brand-name-android }
 mobile-android-get-firefox-for = Wobstarajće sej { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Sćelće swojemu telefonej sćehnjenski wotkaz.
 mobile-android-scan-the-qr-code-to-get-started = Skenujće QR-kod, zo byšće započał
 mobile-android-scan-alt-text = Skenujće QR-kod, zo byšće sej { -brand-name-firefox } na { -brand-name-android } wobstarał
 mobile-android-fast-and-private = Spěšny a priwatny
+mobile-android-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } bjezprócny škit priwatnosće z błyskospěšnym začitanjom stronow skići. Polěpšeny přesćěhanski škit awtomatisce tomu zadźěwa, zo přesćěhowaki wam w interneće slěduja a waše strony spomaluja.
 mobile-android-one-tap-to = Priwatnosć z jednym podótkom
 mobile-android-search-your-own = Swójske pytanje
 mobile-android-save-power-with = Z ćmowym modusom milinu zalutować
