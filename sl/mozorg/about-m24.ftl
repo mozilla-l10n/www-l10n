@@ -54,6 +54,7 @@ m24-about-see-open-positions = Oglejte si odprta delovna mesta
 
 ## Community
 
+m24-about-community-love-v2 = Privrženost skupnosti, naša gonilna sila
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Privrženost skupnosti –<br> naša gonilna sila
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalna skupnost zagretih prostovoljcev, kolegov in sodelavcev, ki z nami že od leta 1998 ustvarjajo, ščitijo in oblikujejo internet.
