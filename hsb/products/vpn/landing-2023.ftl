@@ -55,4 +55,5 @@ vpn-landing-powered-by-mozilla-fighting-for = <strong>Spěchowany wot { -brand-n
 vpn-landing-learn-more-from-our-experts = Wukńće wjace wot našich ekspertow
 vpn-landing-do-you-need-a-vpn-at-home = Trjebaće VPN doma? Tu je 5 přičinow, čehoždla wy móhł jón trjebać.
 vpn-landing-what-is-an-ip-address = Što je IP-adresa?
+vpn-landing-how-your-location-is-tracked = Kak so waše stejnišćo přesćěhuje a kak móžeće jeho rozšěrjenje wobmjezować
 vpn-landing-see-more-resources = Dalše resursy pokazać
