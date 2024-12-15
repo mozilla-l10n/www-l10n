@@ -24,3 +24,4 @@ mobile-ios-get-to-the-parts = Dostańśo se k źělam interneta, za kótarež se
 mobile-ios-find-it-all = Malsnjej namakaś
 mobile-ios-discover-more-of = Namakajśo wěcej wó tom, což se wam spódoba
 mobile-ios-about-mozilla = Wó { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } eksistěrujo, aby internet ako wšym pśistupnu zjawnu resursu wuwijał, dokulaž se myslimy, až wótwórjony a lichy stej lěpšej ako zastajony a kontrolěrowany. Wuwijamy produkty ako { -brand-name-firefox } a { -brand-name-pocket }, aby wuběrk, transparencu a kontrolu spěchowali.
