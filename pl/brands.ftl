@@ -552,6 +552,10 @@
 
 -brand-name-fakespot = Fakespot
 
+## Anonym
+
+-brand-name-anonym = Anonym
+
 ## Mozilla projects
 
 -brand-name-bugzilla =
@@ -565,6 +569,49 @@
     }
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] podcastu IRL
+               *[upper] Podcastu IRL
+            }
+        [dat]
+            { $capitalization ->
+                [lower] podcastowi IRL
+               *[upper] Podcastowi IRL
+            }
+        [acc]
+            { $capitalization ->
+                [lower] podcast IRL
+               *[upper] Podcast IRL
+            }
+        [ins]
+            { $capitalization ->
+                [lower] podcastem IRL
+               *[upper] Podcastem IRL
+            }
+        [loc]
+            { $capitalization ->
+                [lower] podcaście IRL
+               *[upper] Podcaście IRL
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] podcast IRL
+               *[upper] Podcast IRL
+            }
+    }
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator =
+    { $case ->
+        [gen] Lumigatora
+        [dat] Lumigatorowi
+        [acc] Lumigatora
+        [ins] Lumigatorem
+        [loc] Lumigatorze
+       *[nom] Lumigator
+    }
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =
     { $case ->
@@ -670,8 +717,11 @@
             }
     }
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird =
     { $case ->
        *[nom] Thunderbird
