@@ -122,10 +122,10 @@ m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetet
 m24-home-alt-pni = Okos eszközök figyelmeztető ikonnal.
 m24-home-explore-issues-shaping = Fedezze fel azokat a kérdéseket, amelyek az internet jövőjét alakítják
 m24-home-privacy-not-included = *Adatvédelmet nem tartalmaz
-m24-home-search-our-reviews = Böngésszen értékeléseinkben, hogy mely technológiai eszközök és alkalmazások titkolják lopva az adatait.
+m24-home-search-our-reviews = Böngésszen az értékeléseink között, hogy mely technológiai eszközök és alkalmazások lopkodják az adatait titokban.
 m24-home-pni-search-now = Keresés most
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, az IRL Podcast házigazdája.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = A többszörösen díjnyertes podcastunk bemutatja a változáshozókat, akik az internet biztonságosabbá tételéért és a mesterséges intelligencia megbízhatóbbá tételéért dolgoznak.
-m24-home-irl-listen-now = Figyeljen
+m24-home-our-multiaward-winning = A többszörösen díjnyertes podcastunk bemutatja azokat a változáshozókat, akik az internet biztonságosabbá tételéért és a mesterséges intelligencia megbízhatóbbá tételéért dolgoznak.
+m24-home-irl-listen-now = Meghallgatás most
