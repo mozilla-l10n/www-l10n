@@ -21,6 +21,7 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } wam wjetši škit priwatn
 mobile-ios-your-browsing-history = Waša přehladowanska historija je historija
 mobile-ios-if-you-want = Jeli chceće móžeće cyle jednorje w priwatnym modusu online hić a pytać. A hdyž priwatny modus začinjeće, so waša přehladowanska historija a waše placki awtomatisce z wašeho grata zhašeja.
 mobile-ios-get-more-firefox = Wobstarajće sej wjace { -brand-name-firefox } w swojim žiwjenju
+mobile-ios-add-firefox-across-v2 = Přidajće { -brand-name-firefox } na wšěch swojich gratach za wěste, bjezposrědnje přehladowanje. Synchronizujće swoje graty, zo byšće swoje najlubše zapołožki, składowane přizjewjenja, hesła a přehladowansku historiju wšudźe sobu wzać. Sćelće nimo toho rajtarki mjez swojim telefonom a swojim desktopom, zo byšće pokročował, hdźež sće přestał.
 mobile-ios-get-to-your-go-to = Dóstańće so na swojim { -brand-name-iphone } a { -brand-name-ipad } spěšnišo tam, hdźež chceće być.
 mobile-ios-see-your-open-tabs = Wobhladajće sej swoje wočinjene rajtarki, zańdźene pytanja a najlubše sydła na jednym městnje z wobhladowakom { -brand-name-firefox-browser } za { -brand-name-ios }.
 mobile-ios-own-your-home = Mějće swójsku startowu wobrazowku
