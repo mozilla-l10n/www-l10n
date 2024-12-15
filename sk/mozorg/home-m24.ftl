@@ -43,15 +43,70 @@ m24-home-mask-your-email = Zamaskujte svoj e‑mail a telefónne číslo, aby st
 ## Donate
 
 m24-home-donate-to-the = Prispejte neziskovej organizácii { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } buduje hnutie za znovuzískanie internetu. Spoločne môžeme vybudovať budúcnosť, v ktorej bude naše súkromie chránené, AI dôveryhodná a nezodpovedné technologické spoločnosti budú brané na zodpovednosť. Ale to je možné len vtedy, ak to urobíme spoločne.
+m24-home-were-proudly-nonprofit = Sme hrdí na to, že sme neziskoví. Prispejete dnes { -brand-name-mozilla(case: "dat") }?
+m24-home-donate = Prispieť
 
 ## AI gallery
 
+m24-home-tag-product = Produkt
+m24-home-tag-project = Projekt
+m24-home-tag-program = Program
+m24-home-tag-event = Udalosť
+m24-home-read-more = Prečítajte si viac
+m24-home-get-started = Začíname
+m24-home-join-the-movement = Pripojte sa k hnutiu:<br> AI pre ľudí
+m24-home-our-mission-is = Naším poslaním je uľahčiť ľuďom budovanie a spoluprácu na dôveryhodnej AI s otvoreným zdrojom.
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Pomocou { -brand-name-llamafile } môžete na svojom počítači jednoducho spúšťať veľké jazykové modely (LLM) – nie je potrebná žiadna inštalácia a vaše údaje zostanú v bezpečí na vašom zariadení.
+m24-home-alt-builders = Builders
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Inicitíva Builders pomáha nezávislým vývojárom vytvárať transformačné open-source AI projekty vďaka spolupráci komunity pri programovaní.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Nájdite ten správny LLM pre vaše potreby, prípady použitia a údaje.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
+m24-home-can-ai-be = Môže byť AI dôveryhodná?
+m24-home-in-a-world = Vo svete, kde inovácie AI riadi niekoľko vyvolených, riskujeme monopolizáciu tejto technológie. Použitie konceptov open source pre AI by to mohlo zmeniť.
+m24-home-watch-now = Sledovať teraz
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Reproduktor na pódiu s viacerými logami produktov.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Začínate svoj veľký projekt? Prezentujte svoju spoločnosť v { -brand-name-mozilla-ventures } a zabezpečte si financovanie na podporu pozitívnej zmeny pre budúcnosť AI a internetu.
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Darujte svoj hlas, aby bola rečová technológia inkluzívnejšia a prístupnejšia pre každého.
+m24-home-donate-your-voice = Prispejte svojim hlasom
 
 ## Media Springboard
 
+m24-home-type = Typ
+m24-home-author = Autor
+m24-home-topic = Téma
+m24-home-intro = Úvod
+m24-home-tag-article = Článok
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Novinky
+m24-home-topic-ai = Umelá inteligencia
+m24-home-topic-ps = Súkromie a bezpečnosť
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Titulok: Vy, AI a internet – čo sa skutočne deje?
+m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
+m24-home-introducing-anonym = Predstavujeme { -brand-name-anonym }: zvyšujeme latku digitálnej reklamy zachovávajúcej súkromie.
+m24-home-keeping-genai-technologies = Zabezpečenie technológií GenAI je spoločnou zodpovednosťou.
+m24-home-from-hollywood-to = Od Hollywoodu po hip hop umelci vyjednávajú o súhlase s AI.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } oslavuje prelomových tvorcov v novom dokumentárnom seriáli “{ -brand-name-firefox } Presents”.
+m24-home-big-techs-power = Moc veľkých technológií nad jazykom znamená moc nad ľuďmi. Bridget Todd hovorí s lídrami jazykových komunít, ktorí pripravujú cestu pre hlasovú AI v ich vlastných jazykoch a dialektoch.
+m24-home-why-does-it = Prečo máme tak často pocit, že sme súčasťou masového AI experimentu? Aký je zodpovedný spôsob testovania nových technológií? Bridget Todd skúma, čo to znamená žiť s neoverenými systémami umelej inteligencie, ktoré ovplyvňujú milióny ľudí pri ich zavádzaní do verejného života.
+m24-home-kids-are-growing = Deti vyrastajú vo veľmi online svete. Čo má urobiť znepokojený rodič?
 
 ## Showcase
 
+m24-home-rise25-awards = Ocenenia { -brand-name-rise25 }
 
 ## Issues
 
