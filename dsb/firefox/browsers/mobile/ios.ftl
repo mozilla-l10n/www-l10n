@@ -13,6 +13,7 @@ mobile-ios-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnj
 mobile-ios-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
 mobile-ios-scan-alt-text = Skannujśo QR-kod, aby se { -brand-name-firefox } na { -brand-name-ios } wobstarał
 mobile-ios-make-firefox-your = { -brand-name-firefox } k wašomu standardnemu wobglědowakej cyniś
+mobile-ios-now-iphone-and = Něnto mógu wužywarje { -brand-name-iphone } a { -brand-name-ipad } swójski standardny wobglědowak wubraś. To groni, až njetrjebaśo { -brand-name-safari } wužywaś a waš mobilny wobglědowak dajo se kuždy cas z wašym nejlubšym desktopowym wobglědowakom synchronizěrowaś. Mimo togo, gaž { -brand-name-firefox } ako swój standardny wobglědowak nastajaśo, pódpěraśo njewótwisne technologiske pśedewześe. { -brand-name-firefox } jo teke jadnučki wjeliki wobglědowak, kótaryž organizacija pódpěra, kótaraž jo za wše wužytna.
 mobile-ios-fast-private-secure = Malsny. Priwatny. Wěsty
 mobile-ios-stay-private-online = Wostańśo priwatny online
 mobile-ios-your-browsing-history = Waša pśeglědowańska historija jo historija
