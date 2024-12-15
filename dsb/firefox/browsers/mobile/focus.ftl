@@ -24,6 +24,6 @@ mobile-focus-private-browsing-on-v2 = „Priwatny modus“ w nejwěcej wobglědo
 mobile-focus-tracking-protection = Slědowański šćit
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } pó standarźe šyroku wjelerakosć rozšyrjonych pśeslědowakow bitujo, mjazy nimi pśeslědowaki socialnych medijow a te zakósćiwe, kótarež wót takego ako wabjenje { -brand-name-facebook } póchadaju.
 mobile-focus-see-it-all = Woglědajśo se wšykno malsnjej
-mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } pśeslědowaki wótwónoźujo, aby boki, kótarež se woglědujośo, mjenjej datow trjebaju a wó wjele malsnjej zacytaju. Pśipějśo teke až do styrich zwězanjow na swójej startowej wobrazowce a dostańśo swójo nejlubše sedło samo malsnjej, bźez togo aby něco zapódał.
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } pśeslědowaki wótwónoźujo, aby boki, kótarež se woglědujośo, mjenjej datow trjebali a wó wjele malsnjej zacytali. Pśipějśo teke až do styrich zwězanjow na swójej startowej wobrazowce a dostańśo swójo nejlubše sedło samo malsnjej, bźez togo aby něco zapódał.
 mobile-focus-made-by-mozilla = Wót { -brand-name-mozilla } wuwity
 mobile-focus-we-believe-everyone = Myslimy se, až kuždy dejał kontrolu nad swójo žywjenje online měś. Za to wójujomy wót lěta 1998.
