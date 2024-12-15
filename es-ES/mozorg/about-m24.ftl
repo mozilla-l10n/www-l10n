@@ -56,11 +56,22 @@ m24-about-read-about-our = Lee sobre nuestro compromiso
 
 # Used as an accessible text alternative for an image
 m24-about-alt-trustworthy = IA fiable, { -brand-name-common-voice }, aprendizajes federados.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Empleado de { -brand-name-mozilla } en mitad de una conversación.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Empleado de { -brand-name-mozilla } tomando café.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Empleados de { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Únete a nosotros y haz la diferencia
 m24-about-join-our-team = Únete a nuestro equipo y supera los límites de lo posible, sin comprometer lo que importa.
 m24-about-see-open-positions = Ver puestos vacantes
 
 ## Community
 
+m24-about-community-love-v2 = El amor comunitario, nuestra fuerza motriz
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = El amor comunitario —<br> nuestra fuerza motriz
+m24-about-mozilla-is-a = { -brand-name-mozilla } es una comunidad global de apasionados voluntarios, miembros y colaboradores que han estado construyendo, protegiendo y dando forma a Internet con nosotros desde 1998.
+m24-about-from-writing-code = Desde escribir códigos y detectar errores hasta defender la privacidad y mantener Internet abierto para todos, los miembros de nuestra comunidad son la columna vertebral de todo lo que hacemos. Su pasión y dedicación nos inspiran todos los días.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Persona con una bolsa para portátil y un cordón de { -brand-name-mozilla }.
