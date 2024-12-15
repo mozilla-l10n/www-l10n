@@ -17,6 +17,7 @@ mobile-android-scan-alt-text = Skenujće QR-kod, zo byšće sej { -brand-name-fi
 mobile-android-fast-and-private = Spěšny a priwatny
 mobile-android-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } bjezprócny škit priwatnosće z błyskospěšnym začitanjom stronow skići. Polěpšeny přesćěhanski škit awtomatisce tomu zadźěwa, zo přesćěhowaki wam w interneće slěduja a waše strony spomaluja.
 mobile-android-one-tap-to = Priwatnosć z jednym podótkom
+mobile-android-get-to-private = Startujće priwatny modus z jenož jednym podótkom. A hdyž priwatny modus začinjeće, so waša přehladowanska historija awtomatisce z wašeho grata zhaša.
 mobile-android-search-your-own = Swójske pytanje
 mobile-android-save-power-with = Z ćmowym modusom milinu zalutować
 mobile-android-easily-organize-your = Organizujće swoje rajtarki lochko
