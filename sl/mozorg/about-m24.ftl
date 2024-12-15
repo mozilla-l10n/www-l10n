@@ -23,6 +23,7 @@ m24-about-read-our-manifesto = Preberite naš manifest
 m24-about-a-group-of = Skupina mislecev, ki sedijo na tleh v krogu in izmenjujejo ideje.
 m24-about-advocate = Zavzemamo se
 m24-about-we-advocate-for = Zagovarjamo boljše izdelke, države in tehnološke korporacije pa kličemo k odgovornosti za to, kar ustvarijo.
+m24-about-research = Raziskujemo
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Spremljamo
 # Obsolete string (expires: 2025-02-03)
