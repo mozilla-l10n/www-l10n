@@ -19,6 +19,8 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } se trudi, da bi nadzor na
 
 m24-about-together-we-can = Skupaj lahko ohranimo internet prijeten, varen in prost – za vsakogar.
 m24-about-read-our-manifesto = Preberite naš manifest
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Skupina mislecev, ki sedijo na tleh v krogu in izmenjujejo ideje.
 m24-about-advocate = Zavzemamo se
 m24-about-we-advocate-for = Zagovarjamo boljše izdelke, države in tehnološke korporacije pa kličemo k odgovornosti za to, kar ustvarijo.
 # Obsolete string (expires: 2025-02-03)

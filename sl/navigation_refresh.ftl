@@ -19,8 +19,12 @@ navigation-refresh-innovation-projects-v2 = Inovacijski projekti
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Naše poslanstvo
 navigation-refresh-our-work = Naše delo
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } UI
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = Podvigi { -brand-name-mozilla(sklon: "rodilnik") }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Oglaševanje pri { -brand-name-mozilla(sklon: "mestnik") }
