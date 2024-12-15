@@ -10,14 +10,14 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Wobglědowak { -brand-name-firefox } za { -brand-name-android } jo malsny, wěsty a priwatny wót zachopjeńka.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Buźćo mobilny. Buźćo njewótwisny z { -brand-name-firefox } za { -brand-name-android }
 mobile-android-get-firefox-for = Wobstarajśo se { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
 mobile-android-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
 mobile-android-scan-alt-text = Skannujśo QR-kod, aby se { -brand-name-firefox } na { -brand-name-android } wobstarał
 mobile-android-fast-and-private = Malsny a priwatny
+mobile-android-firefox-for-android = { -brand-name-firefox } za { -brand-name-android } šćit priwatnosći ze spěšnučkim zacytanim bokow bźez procy bitujo. Pólěpšony pśeslědowański šćit awtomatiski tomu zajźujo, až pśeslědowaki wam w interneśe slěduju a waše boki spómałšuju.
 mobile-android-one-tap-to = Priwatnosć z jadnym dotyknjenim
+mobile-android-get-to-private = Startujśo priwatny modus z jano jadnym dotyknjenim. A gaž priwatny modus zacynjaśo, se waša pśeglědowańska historija awtomatiski z wašogo rěda wulašujo.
 mobile-android-search-your-own = Swójske pytanje
 mobile-android-save-power-with = Ze śamnym modusom milinu zažariś
 mobile-android-easily-organize-your = Organizěrujśo swóje rejtariki lažko
