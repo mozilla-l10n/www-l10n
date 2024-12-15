@@ -32,6 +32,7 @@ mobile-android-no-need-to = Njetrjebaće nałoženje wočinić. Přidajće pytan
 mobile-android-pin-videos-to = Wideja k wašej wobrazowce připjeć
 mobile-android-pop-videos-out = Wućehńće wideja z jich websydłow a připińće je horjeka na wobrazowce wašeho telefona, zo byšće sej wobhladał, mjeztym zo web přehladujeće a druhe wěcy činiće. Tak móžeće so zabawjeće, mjeztym zo wjacore nadawki spjelnjeće.
 mobile-android-about-mozilla = Wo { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } eksistuje, zo by internet jako wšěm přistupnu zjawnu resursu wuwiwał, dokelž sej myslimy, zo wotewrjeny a swobodny stej lěpšej hač zawrjeny a kontrolowany. Wuwiwamy produkty kaž { -brand-name-firefox } a { -brand-name-pocket }, zo bychmy wuběr, transparencu a kontrolu spěchowali.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Skrótšće puć přez internet z { -brand-name-firefox } za { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Wobhladajće sej swoje wočinjene rajtarki, najnowše pytanja a najlubše sydła na jednym městnje z wobhladowakom { -brand-name-firefox } za { -brand-name-android }.
