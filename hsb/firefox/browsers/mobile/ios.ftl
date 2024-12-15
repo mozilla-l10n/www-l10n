@@ -17,6 +17,7 @@ mobile-ios-now-iphone-and = Nětko móža wužiwarjo { -brand-name-iphone } a { 
 mobile-ios-fast-private-secure = Spěšny. Priwatny. Wěsty
 mobile-ios-keep-whats-personal = Dźeržće swoje wosobinske daty priwatne, bjeztoho zo byšće wysoku spěšnosć woprował. Nimo toho dadźa inteligentne přehladowanske funkcije móc, swoju priwatnosć, hesła a zapołožki wěsće wšudźe sobu wzać, štož waše žiwjenje online wosnadnja.
 mobile-ios-stay-private-online = Wostańće priwatny online
+mobile-ios-firefox-gives-you = { -brand-name-firefox } wam wjetši škit priwatnosće skići, mjeztym zo sće w interneće. Po standardźe naš Polěpšeny přesćěhanski škit přesćěhowaki a skripty kaž přesćěhowaki socialnych medijow, sydła přesahace plackowe přesćěhowaki, kryptokoparjo a porstowe wotćišće blokuje.
 mobile-ios-your-browsing-history = Waša přehladowanska historija je historija
 mobile-ios-get-more-firefox = Wobstarajće sej wjace { -brand-name-firefox } w swojim žiwjenju
 mobile-ios-get-to-your-go-to = Dóstańće so na swojim { -brand-name-iphone } a { -brand-name-ipad } spěšnišo tam, hdźež chceće być.
