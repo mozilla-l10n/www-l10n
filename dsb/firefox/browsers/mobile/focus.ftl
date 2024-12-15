@@ -11,6 +11,7 @@ mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Wobglěd
 mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } jo waš wobglědowak z funkcijami priwatnosći z awtomatiskim šćitom pśed slědowanim.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Jadnorje priwatne mobilne pśeglědowanje.
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } jo waš za šćit priwatnosći myslony wobglědowak z awtomatiskim pśeslědowańskim šćitom. Z { -brand-name-focus } se waše boki malsnjej zacytaju a waše daty wóstanu priwatne.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } jo za rědy z { -brand-name-ios } a { -brand-name-android } k dispoziciji
 mobile-focus-get-firefox-focus = Wobstarajśo se { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
