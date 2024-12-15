@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } za { -brand-name-ios } ({ -brand-name-iphone } a { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Wobglědowak { -brand-name-firefox } za { -brand-name-ios } jo malsny, wěsty a priwatny wót zachopjeńka.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Wobstarajśo se awtomatisku priwatnosć za waš { -brand-name-iphone } a { -brand-name-ipad }.
 mobile-ios-get-firefox-for = Wobstarajśo se { -brand-name-firefox } za { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
 mobile-ios-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
@@ -25,8 +20,7 @@ mobile-ios-get-more-firefox = Wobstarajśo se wěcej { -brand-name-firefox } w s
 mobile-ios-get-to-your-go-to = Dostańśo se na swójom { -brand-name-iphone } a { -brand-name-ipad } malsnjej tam, źož cośo byś.
 mobile-ios-see-your-open-tabs = Woglědajśo se swóje wócynjone rejtariki, zajźone pytanja a nejlubše sedła na jadnom městnje z wobglědowakom { -brand-name-firefox-browser } za { -brand-name-ios }.
 mobile-ios-own-your-home = Mějśo swójsku startowu wobrazowku
+mobile-ios-get-to-the-parts = Dostańśo se k źělam interneta, za kótarež se zajmujośo. Woglědajśo se wócynjone rejtariki, nejnowše pytanja, cytańske znamjenja a nejlubše sedła na jadnom městnje.
 mobile-ios-find-it-all = Malsnjej namakaś
-# Obsolete string
-mobile-ios-keep-tabs-on = Wobchowajśo rejtariki we wócyma
 mobile-ios-discover-more-of = Namakajśo wěcej wó tom, což se wam spódoba
 mobile-ios-about-mozilla = Wó { -brand-name-mozilla }
