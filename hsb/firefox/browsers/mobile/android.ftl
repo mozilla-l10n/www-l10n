@@ -26,7 +26,9 @@ mobile-android-easily-organize-your = Organizujće swoje rajtarki lochko
 mobile-android-supercharge-firefox-with = Rozšěrće { -brand-name-firefox } z přidatkami
 mobile-android-addons-are-like = Přidatki su kaž mócne małe nastroje, kotrež móžeće swojemu wobhladowakej přidać, zo byšće na přikład standardne nastajenja priwatnosće powyšił a waše dožiwjenje přiměrił.
 mobile-android-pick-up-where = Čińće tam dale, hdźež sće přestał
+mobile-android-go-from-your = Dźiće njepřestawajcy wot swojeho telefona do swojeho laptopa, tableta a wróćo. Z { -brand-name-firefox } na wšěch swojich gratach, móžeće swoje zapołožki, hesła, składowane přizjewjenja a přehladowansku historiju wšudźe sobu wzać.
 mobile-android-search-from-your = Pytajće na startowej wobrazowce swojeho telefona
+mobile-android-no-need-to = Njetrjebaće nałoženje wočinić. Přidajće pytanski asistent { -brand-name-firefox } a přepytajće web direktnje wot startoweje wobrazowki swojeho grata.
 mobile-android-pin-videos-to = Wideja k wašej wobrazowce připjeć
 mobile-android-about-mozilla = Wo { -brand-name-mozilla }
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
