@@ -107,6 +107,25 @@ m24-home-kids-are-growing = Deti vyrastajú vo veľmi online svete. Čo má urob
 ## Showcase
 
 m24-home-rise25-awards = Ocenenia { -brand-name-rise25 }
+m24-home-get-to-know = Spoznajte lídrov, ktorí presadzujú dôveryhodný, inkluzívny a transparentný vývoj AI, keďže nastavujú nový štandard a inšpirujú ďalšiu generáciu inovátorov.
+m24-home-watch-the-award = Pozrite si odovzdávanie cien
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Hrdý ocenený pri odovzdávaní cien { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Sebavedomý usmievavý rečník na odovzdávaní cien { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Radostný ocenený pri odovzdávaní cien { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Inteligentné zariadenia s ikonou upozornenia.
+m24-home-explore-issues-shaping = Preskúmajte problémy, ktoré formujú budúcnosť internetu
+m24-home-privacy-not-included = *Na súkromie sa nepozerá
+m24-home-search-our-reviews = Vyhľadajte naše recenzie a zistite, ktoré technické gadgety a aplikácie tajne ukradnú vaše údaje.
+m24-home-pni-search-now = Hľadať teraz
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, hostiteľka IRL Podcast.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Náš podcast, ktorý získal viacero ocenení, predstavuje tvorcov zmien, ktorí pracujú na tom, aby bol internet bezpečnejší a AI dôveryhodnejšia.
+m24-home-irl-listen-now = Vypočuť teraz
