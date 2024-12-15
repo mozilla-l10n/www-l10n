@@ -29,5 +29,6 @@ mobile-ios-get-to-the-parts = Dostańśo se k źělam interneta, za kótarež se
 mobile-ios-find-it-all = Malsnjej namakaś
 mobile-ios-get-search-suggestions = Dostańśo pytańske naraźenja w pytańskej rědc a mějśo malsny pśistup k sedłam, ku kótarymž se nejcesćej woglědujośo. Zapódajśo swóje pytańske pšašanje a dostańśo naraźone a do togo pytane wuslědki w swójich nejlubšych pytnicach.
 mobile-ios-discover-more-of = Namakajśo wěcej wó tom, což se wam spódoba
+mobile-ios-open-a-new = Wócyńśo nowy rejtarik w { -brand-name-firefox }, aby se swóje nejcesće woglědane sedła, swóje nejnowše cytańske znamjenja a woblubowane nastawki w { -brand-name-pocket } woglědał. { -brand-name-firefox } wam malsny pśistup k wašym njedawno wužytym sedłam bitujo, aby wam pomagał, malsnjej waš cel dostaś.
 mobile-ios-about-mozilla = Wó { -brand-name-mozilla }
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } eksistěrujo, aby internet ako wšym pśistupnu zjawnu resursu wuwijał, dokulaž se myslimy, až wótwórjony a lichy stej lěpšej ako zastajony a kontrolěrowany. Wuwijamy produkty ako { -brand-name-firefox } a { -brand-name-pocket }, aby wuběrk, transparencu a kontrolu spěchowali.
