@@ -22,5 +22,6 @@ mobile-focus-easily-erase-your = Wulašujśo lažko swóju historiju, swóje gro
 mobile-focus-take-private-mode = Zwigniśo priwatny modus na pśiducu rowninu
 mobile-focus-private-browsing-on-v2 = „Priwatny modus“ w nejwěcej wobglědowakach pópšawem njejo priwatny. { -brand-name-firefox-focus } pó standarźe pśiducy stopjeń priwatnosći bitujo a pódpěra se wót { -brand-name-mozilla }, za wše wužytneje organizacije, kótaraž za waše pšawa w interneśe wójujo.
 mobile-focus-tracking-protection = Slědowański šćit
+mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } pó standarźe šyroku wjelerakosć rozšyrjonych pśeslědowakow bitujo, mjazy nimi pśeslědowaki socialnych medijow a te zakósćiwe, kótarež wót takego ako wabjenje { -brand-name-facebook } póchadaju.
 mobile-focus-see-it-all = Woglědajśo se wšykno malsnjej
 mobile-focus-made-by-mozilla = Wót { -brand-name-mozilla } wuwity
