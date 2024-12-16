@@ -7,6 +7,9 @@
 
 # Page title
 compare-index-compare-firefox-with-other = Přirunajće { -brand-name-firefox } z druhimi wobhladowakami
+# Page description
+# "stacks up" is slang for a competitive comparison to determine a winner, like stacking blocks to see who has more.
+compare-index-see-how-firefox-stacks-up = Hladajće, kak { -brand-name-firefox } porno druhim načolnym wobhladowakam za desktop nastupajo funkcije, priwatnosć a lochke wužiwanje wotrěznje.
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } porno Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } porno Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } porno Apple Safari
