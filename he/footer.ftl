@@ -25,14 +25,13 @@ footer-contact = יצירת קשר
 footer-product-help = עזרה למוצרים
 footer-support = תמיכה
 footer-file-a-bug = דיווח על תקלה
+footer-localize-mozilla = תרגום { -brand-name-mozilla }
 footer-community-participation-guidelines = כללי השתתפות בקהילה
 footer-websites-privacy-notice = הצהרות הפרטיות של האתר
 footer-websites-cookies = עוגיות
 footer-websites-legal = מידע משפטי
 footer-language = שפה
 footer-donate = תרומה
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (לשעבר Twitter)
 footer-mastodon = { -brand-name-mastodon }

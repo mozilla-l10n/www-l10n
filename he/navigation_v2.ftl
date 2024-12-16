@@ -37,6 +37,7 @@ navigation-v2-get-protection-beyond-your-browser = קבלת הגנה מעבר ל
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = ‏{ -brand-name-firefox-relay } (בטא)
 navigation-v2-sign-up-for-new-accounts = הרשמה לחשבונות חדשים מבלי למסור את כתובת הדוא״ל שלך.
+navigation-v2-new-features-and-tools = תכונות וכלים חדשים לחוויה מותאמת אישית ב־{ -brand-name-mdn }
 navigation-v2-view-all-products = הצגת כל המוצרים
 
 ## Who We Are menu
@@ -51,6 +52,7 @@ navigation-v2-join-the-fight-for-a = הצטרפו למאבק למען אינטר
 navigation-v2-leadership = הנהגה
 navigation-v2-meet-the-team-thats-building = היכרות עם הצוות שבונה טכנולוגיה למען אינטרנט טוב יותר.
 navigation-v2-careers = עבודה
+navigation-v2-work-for-a-mission-driven-updated = עבדו עבור ארגון המונע מתוך שליחות, שמייצר מוצרים הממוקדים באנשים.
 navigation-v2-mozilla-blog = הבלוג של { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = מידע על { -brand-name-mozilla } והנושאים החשובים לנו.
 navigation-v2-more-about-mozilla = עוד על { -brand-name-mozilla }
