@@ -10,6 +10,7 @@ browsers-mobile-firefox-mobile-browsers-put = Mobilne wobhladowaki { -brand-name
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Přehlad wšěch { -brand-name-firefox } mobilnych wobhladowakow ({ -brand-name-firefox } za { -brand-name-android }, { -brand-name-firefox } za { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-android }
+browsers-mobile-infinitely-customizable-private = Bjez mjezow přiměrjomny, priwatny a wěsty, { -brand-name-firefox } za { -brand-name-android } je błyskospěšny wobhladowak, kotryž was ženje njejeba.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 browsers-mobile-go-your-own-way = Dźiće swójski puć z mobilnym { -brand-name-firefox }
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } so wam přiměrja a zmóžnja wam lóšo hač hdy prjedy wšě waše wočinjene rajtarki, zańdźene pytanja a najlubše sydła widźeć.
