@@ -115,6 +115,11 @@ m24-home-alt-rise25-proud = A { -brand-name-rise25 } büszke kitüntetettje.
 m24-home-alt-rise25-smiling = Egy magabiztos, mosolygós előadó a { -brand-name-rise25 } díjátadón.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetettje.
+m24-home-state-of-mozilla = A { -brand-name-mozilla } állapota
+m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újra feltalálja magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } állapotáról szóló 2024-es jelentésben.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Absztrakt pixel művészet zöld, narancs és rózsaszín árnyalataiban
+m24-home-read-the-report = Olvassa el a jelentést
 
 ## Issues
 
