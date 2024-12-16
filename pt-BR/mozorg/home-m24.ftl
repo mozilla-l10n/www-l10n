@@ -89,6 +89,7 @@ m24-home-topic-ps = Privacidade e Segurança
 m24-home-keeping-genai-technologies = Garantir a segurança das tecnologias de inteligência artificial generativa é responsabilidade de todos.
 m24-home-big-techs-power = O domínio das grandes empresas de tecnologia sobre a linguagem resulta em controle sobre as pessoas. Bridget Todd entrevista líderes de comunidades linguísticas que abrem caminho para inteligência artificial de voz em seus próprios idiomas e dialetos.
 m24-home-why-does-it = Por que muitas vezes parece que fazemos parte de um experimento de inteligência artificial em massa? Qual é a maneira responsável de testar novas tecnologias? Bridget Todd examina o que significa viver com sistemas de inteligência artificial não comprovados que afetam milhões de pessoas à medida que são implementados na vida cotidiana.
+m24-home-kids-are-growing = As crianças estão crescendo em um mundo altamente virtual. O que pais preocupados podem fazer?
 
 ## Showcase
 
