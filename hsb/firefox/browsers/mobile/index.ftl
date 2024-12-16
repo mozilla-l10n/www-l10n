@@ -17,6 +17,7 @@ browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } so wam p�
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Wobstarajće sej polěpšeny přesćěhanski škit a čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej na pućowanju a na přeco na swojimaj gratomaj { -brand-name-iphone } a { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Pytaće za optimowanym, superspěšnym wobhladowakom z funkcijemi priwatnosće přichodneho stopnja? { -brand-name-firefox-focus } wašu přehladowansku historiju wot toho wokomika awtomatisce zhaša, wot kotrehož jón wočinjeće a druhi raz začinjeće.
 browsers-mobile-compare = Přirunać
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Hladajće, kak { -brand-name-firefox } za desktop porno druhim wobhladowakam wotrěznje.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
