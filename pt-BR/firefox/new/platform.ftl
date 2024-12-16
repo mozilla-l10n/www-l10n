@@ -10,14 +10,14 @@
 
 new-platform-free-web-browser = Navegador web gratuito
 new-platform-download-firefox = Baixe o { -brand-name-firefox }
-new-platform-download-the-fastest = Use o { -brand-name-firefox } mais rápido da história
+new-platform-download-the-fastest = Use o { -brand-name-firefox }, rápido como nunca
 new-platform-faster-page-loading = Carregamento de páginas mais rápido, menos uso de memória e recheado de recursos, o novo { -brand-name-firefox } está aqui.
-new-platform-2x-faster = 2x Mais rápido
+new-platform-2x-faster = 2 vezes mais rápido
 new-platform-advanced-install-options = Opções avançadas de instalação e outras plataformas
 new-platform-download-in-another = Baixar em outro idioma
 new-platform-need-help = Precisa de ajuda?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Use o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
@@ -60,6 +60,6 @@ new-platform-download-the-fastest-windows = Use o { -brand-name-firefox } para {
 new-platform-faster-page-loading-windows = Carregamento de páginas mais rápido, menos uso de memória e cheio de recursos, o novo { -brand-name-firefox } para { -brand-name-windows } está aqui.
 new-platform-firefox-moves-fast = O { -brand-name-firefox } age rápido e trata seus dados com cuidado - sem rastreamento de anúncios e sem lentidão.
 new-platform-common-sense-privacy = Privacidade sensata
-new-platform-live-your-life = Viva sua vida, o { -brand-name-firefox } não está vigiando. Escolha o que compartilhar e quando fazê-lo.
-new-platform-seamless-setup = Instalação suave
+new-platform-live-your-life = Use como quiser, o { -brand-name-firefox } não vigia você. Escolha o que compartilhar e quando compartilhar.
+new-platform-seamless-setup = Configuração tranquila
 new-platform-easy-migration = Migração fácil de preferências e favoritos quando você instala o { -brand-name-firefox } para { -brand-name-windows }.
