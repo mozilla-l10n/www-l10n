@@ -15,7 +15,10 @@ m24-home-page-desc-v2 = Estamos trabajando para devolver el control de Internet 
 ## Intro
 
 m24-home-welcome-to-mozilla = Te damos la bienvenida a { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Desde tecnología confiable hasta políticas que defienden tus derechos digitales, tu eres lo primero, siempre.
 m24-home-learn-about-us = Aprende sobre nosotros
+# Used as accessible text alternative for image
+m24-home-alt-flag = Una bandera verde estilizada sobre un fondo negro, construida a partir de la “M” de { -brand-name-mozilla } y un píxel que se desplaza para hacer referencia a su logotipo de dinosaurio original.
 
 ## Products
 

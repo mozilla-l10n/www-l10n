@@ -49,6 +49,7 @@ m24-about-chicago = Un emprendedor con sede en Chicago.
 ## Showcase
 
 m24-about-lets-build-a = Construyamos un futuro más justo
+m24-about-see-how-were = Revisa cómo fomentamos un entorno en línea diverso, inclusivo y accesible para todos.
 m24-about-read-about-our = Lee sobre nuestro compromiso
 
 ## Careers
@@ -71,5 +72,6 @@ m24-about-community-love-v2 = El amor comunitario, nuestra fuerza motriz
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = El amor comunitario —<br> nuestra fuerza motriz
 m24-about-mozilla-is-a = { -brand-name-mozilla } es una comunidad mundial de apasionados voluntarios, becarios y colaboradores que han estado construyendo, protegiendo y dando forma a Internet con nosotros desde 1998.
+m24-about-from-writing-code = Desde escribir código y detectar errores hasta defender la privacidad y mantener Internet abierto para todos, los miembros de nuestra comunidad son la columna vertebral de todo lo que hacemos. Su pasión y dedicación nos inspiran todos los días.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Persona con un bolso para notebook y un lanyard de { -brand-name-mozilla }.
