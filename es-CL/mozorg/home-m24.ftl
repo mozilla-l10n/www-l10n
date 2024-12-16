@@ -43,17 +43,20 @@ m24-home-mask-your-email = Enmascara tu correo electrónico y número de teléfo
 ## Donate
 
 m24-home-donate-to-the = Dona a la { -brand-name-mozilla } sin fines de lucro
+m24-home-mozilla-is-building = { -brand-name-mozilla } está creando un movimiento para recuperar Internet. Juntos podemos construir un futuro en el que nuestra privacidad esté protegida, la IA sea confiable y las empresas tecnológicas irresponsables rindan cuentas. Pero eso solo es posible si lo hacemos juntos.
 m24-home-were-proudly-nonprofit = Somos una organización sin fines de lucro. ¿Harías una donación a { -brand-name-mozilla } hoy?
 m24-home-donate = Donar
 
 ## AI gallery
 
 m24-home-tag-product = Producto
+m24-home-tag-project = Proyecto
 m24-home-tag-program = Programa
 m24-home-tag-event = Evento
 m24-home-read-more = Leer más
 m24-home-get-started = Empezar
 m24-home-join-the-movement = Únete al movimiento:<br> IA para la gente
+m24-home-our-mission-is = Nuestra misión es hacer que sea fácil para las personas construir y colaborar con una IA confiable y de código abierto.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
@@ -68,10 +71,12 @@ m24-home-find-the-just = Encuentra el LLM adecuado para tus necesidades, caso de
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
 m24-home-can-ai-be = ¿Puede la IA ser confiable?
+m24-home-in-a-world = En un mundo en el que la innovación en IA es impulsada por unos pocos, corremos el riesgo de que esta tecnología sea monopolizada. La aplicación de conceptos de código abierto a la IA podría cambiar esta situación.
 m24-home-watch-now = Mirar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logotipos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = ¿Tienes una startup en etapa inicial? Presenta tu empresa a { -brand-name-mozilla-ventures } y obtén financiamiento para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
 m24-home-donate-your-voice = Dona tu voz
@@ -95,10 +100,14 @@ m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: elevamos el ni
 m24-home-keeping-genai-technologies = Mantener seguras las tecnologías GenAI es una responsabilidad compartida.
 m24-home-from-hollywood-to = Desde Hollywood hasta el hip hop, los artistas están negociando el consentimiento de la IA.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } rinde homenaje a creadores innovadores en la nueva serie documental “{ -brand-name-firefox } Presents”.
+m24-home-big-techs-power = El poder de las grandes tecnológicas sobre el lenguaje significa poder sobre las personas. Bridget Todd habla con líderes de la comunidad lingüística que están pavimentando el camino para la inteligencia artificial de voz en sus propios idiomas y dialectos.
+m24-home-why-does-it = ¿Por qué tan a menudo parece que formamos parte de un experimento masivo de inteligencia artificial? ¿Cuál es la forma responsable de probar nuevas tecnologías? Bridget Todd explora lo que significa vivir con sistemas de inteligencia artificial no probados que afectan a millones de personas a medida que se implementan en la vida pública.
+m24-home-kids-are-growing = Los niños crecen en un mundo en línea. ¿Qué puede hacer un padre preocupado?
 
 ## Showcase
 
 m24-home-rise25-awards = Premios { -brand-name-rise25 }
+m24-home-get-to-know = Conoce a los líderes que promueven un desarrollo de IA confiable, inclusivo y transparente mientras establecen un nuevo estándar e inspiran a la próxima generación de innovadores.
 m24-home-watch-the-award = Mira la entrega de premios
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Un homenajeado orgulloso en { -brand-name-rise25 }.
@@ -113,8 +122,10 @@ m24-home-alt-rise25-joyous = Un homenajeado alegre en { -brand-name-rise25 }.
 m24-home-alt-pni = Dispositivos inteligentes con el icono de precaución.
 m24-home-explore-issues-shaping = Explora problemas que dan forma al futuro de Internet
 m24-home-privacy-not-included = *Privacidad no incluida
+m24-home-search-our-reviews = Busca en nuestras reseñas para ver qué dispositivos y aplicaciones tecnológicas se están metiendo sigilosamente en tus datos.
 m24-home-pni-search-now = Buscar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Nuestro podcast, ganador de múltiples premios, presenta a los creadores de cambios que trabajan para hacer que Internet sea más seguro y la IA más confiable.
 m24-home-irl-listen-now = Escuchar ahora
