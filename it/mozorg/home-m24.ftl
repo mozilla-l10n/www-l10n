@@ -67,7 +67,7 @@ m24-home-builders-helps-independent = Builders aiuta sviluppatori indipendenti a
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo di { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Individua l‘LLM ideale per le tue necessità, il tuo scenario d’uso e i tuoi dati.
+m24-home-find-the-just = Individua l’LLM ideale per le tue necessità, il tuo scenario d’uso e i tuoi dati.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Presidente di { -brand-name-mozilla }.
 m24-home-can-ai-be = L’IA può essere affidabile?
