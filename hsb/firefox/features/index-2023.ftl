@@ -25,6 +25,7 @@ features-index-automatically-delete-cookies = Zhašejće placki awtomatisce a zh
 features-index-firefox-add-ons-and-browser-extensions = Přidatki a rozšěrjenja wobhladowaka { -brand-name-firefox }
 features-index-add-new-tools-capabilities-and = Přidajće swojemu wobhladowakej nowe nastroje, kmanosće a zabawne wěcy.
 features-index-pinned-browser-tabs = Připjate rajtarki wobhladowaka
+features-index-keep-your-favorite-pages-open = Dźeržće swoje najlubše strony wočinjene a jenož jedne kliknjenje zdalene. Wužiwajće připjate rajtarki, zo byšće přeco wóčko na waše mejlki abo powěsćowe nałoženja ćisnył.
 features-index-eyedropper-tool = Pipetowy nastroj
 features-index-identify-the-exact-color-on-a = Identifikujće eksaktnu barbu na stronje a kopěrujće jeje heksadecimalny kod.
 features-index-pdf-editor = PDF-editor

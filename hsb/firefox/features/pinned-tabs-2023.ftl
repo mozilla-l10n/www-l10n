@@ -7,3 +7,5 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = Připjate rajtarki wobhladowaka
+# HTML page description
+pinned-tabs-keep-your-favorite-pages-open = Dźeržće swoje najlubše strony wočinjene a jenož jedne kliknjenje zdalene. Wužiwajće připjate rajtarki, zo byšće přeco wóčko na waše mejlki abo powěsćowe nałoženja ćisnył.
