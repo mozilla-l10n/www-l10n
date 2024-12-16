@@ -37,10 +37,14 @@ m24-about-we-fund-and = Financiamos e investimos em pessoas e esforços para lev
 
 m24-about-read-more = Saiba mais
 m24-about-read-the-latest = Leia os últimos artigos e notícias da { -brand-name-mozilla }
+m24-about-empowering-chicagos-entrepreneurs = Capacitação de empreendedores de Chicago para mudança geracional
+# Used as an accessible text alternative for an image
+m24-about-chicago = Um empreendedor de Chicago.
 
 ## Showcase
 
 m24-about-lets-build-a = Vamos construir um futuro mais justo
+m24-about-see-how-were = Veja como estamos promovendo um ambiente online diverso, inclusivo e acessível para todos.
 
 ## Careers
 
@@ -51,6 +55,8 @@ m24-about-alt-drinking-coffee = Funcionário da { -brand-name-mozilla } tomando 
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Funcionários da { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Junte-se a nós e faça a diferença
+m24-about-see-open-positions = Ver cargos disponíveis
 
 ## Community
 
+m24-about-community-love-v2 = Amor da comunidade, nossa força motriz
