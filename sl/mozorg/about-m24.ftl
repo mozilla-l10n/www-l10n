@@ -38,6 +38,8 @@ m24-about-we-fund-and = Financiramo in vlagamo v ljudi in v prizadevanja, ki vod
 m24-about-read-more = Preberite več
 m24-about-read-the-latest = Preberite zadnje novice in članke o { -brand-name-mozilla(sklon: "mestnik") }
 # Used as an accessible text alternative for an image
+m24-about-rise25-award = Prejemnica nagrade { -brand-name-rise25 }, ki kaže na svojo trofejo.
+# Used as an accessible text alternative for an image
 m24-about-chicago = Podjetnik iz Čikaga.
 
 ## Showcase
@@ -59,3 +61,5 @@ m24-about-community-love-v2 = Privrženost skupnosti, naša gonilna sila
 m24-about-community-love = Privrženost skupnosti –<br> naša gonilna sila
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalna skupnost zagretih prostovoljcev, kolegov in sodelavcev, ki z nami že od leta 1998 ustvarjajo, ščitijo in oblikujejo internet.
 m24-about-from-writing-code = Od pisanja kode in odkrivanja napak pa do zavzemanja za zasebnost in odprtost interneta – člani naše skupnosti so hrbtenica vsega, kar počnemo. Njihova strast in predanost nas vsak dan navdihujeta.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Oseba s torbo za prenosnik in trakom { -brand-name-mozilla(sklon: "rodilnik") }.
