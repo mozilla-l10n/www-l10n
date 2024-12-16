@@ -115,6 +115,11 @@ m24-home-alt-rise25-proud = Hrdý vítěz { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Sebevědomý usměvavý řečník na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radostní lidé na { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Stav { -brand-name-mozilla(case: "gen") }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } znovuobjevuje sama sebe, diverzifikuje svou činnost kolem sdružení organizací, přetváří reklamu a vytváří otevřený ekosystém umělé inteligence. Přečtěte si o tom ve Zprávě o stavu { -brand-name-mozilla(case: "gen") } pro rok 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstraktní pixel art v odstínech zelené, oranžové a růžové
+m24-home-read-the-report = Přečtěte si report
 
 ## Issues
 
