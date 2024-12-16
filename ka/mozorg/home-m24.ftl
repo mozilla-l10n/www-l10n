@@ -115,6 +115,11 @@ m24-home-alt-rise25-proud = საამაყო პრემია { -brand-na
 m24-home-alt-rise25-smiling = { -brand-name-rise25 }-ში თავდაჯერებული მომღიმარი მოსაუბრე.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = სასიხარულო პრემია { -brand-name-rise25 }-ზე.
+m24-home-state-of-mozilla = { -brand-name-mozilla }-ის მდგომარეობა
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ხელახლა იგონებს საკუთარ თავს, მრავალრიცხოვანი დაწესებულებების ირგვლივ გამრავალფეროვნებით, ახლებურად წარმოსახავს რეკლამებს და ქმნის ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla }-ს 2024 წლის მოხსენებაში.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = აბსტრაქტული პიქსელური მხატვრობა მწვანე, ნარინჯისფერი და ვარდისფერი ფერებში
+m24-home-read-the-report = გაეცანით მოხსენებას
 
 ## Issues
 
