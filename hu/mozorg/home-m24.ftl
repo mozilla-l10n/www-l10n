@@ -15,7 +15,7 @@ m24-home-page-desc-v2 = Azon dolgozunk, hogy visszaadjuk az internet irányítá
 ## Intro
 
 m24-home-welcome-to-mozilla = Üdvözli a { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = A megbízható technológiától kezdve a digitális jogait védő irányelvekig, mi Önt helyezzük az első helyre – mindig.
+m24-home-from-trustworthy-tech = A megbízható technológiától kezdve a digitális jogait védő szabályozásokig, mi Önt helyezzük az első helyre – mindig.
 m24-home-learn-about-us = Tudjon meg többet rólunk
 # Used as accessible text alternative for image
 m24-home-alt-flag = Egy stilizált zöld zászló fekete alapon, amelyen a { -brand-name-mozilla } „M” betűje látható egy eltolt képponttal, amely egy utalás az eredeti dinoszauruszos logóra.
@@ -76,7 +76,7 @@ m24-home-watch-now = Figyelés most
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Beszélő egy színpadon több termék logójával.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Mutassa be a cégét a { -brand-name-mozilla-ventures }be, és szerezzen finanszírozást, hogy pozitív változást hajtson végre a mesterséges intelligencia és az internet jövője érdekében.
+m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Mutassa be a cégét a { -brand-name-mozilla-ventures }nek, és szerezzen finanszírozást, hogy pozitív változást hozzon az MI és az internet jövőjében.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Adományozza a hangját, hogy a beszédtechnológia befogadóbb és mindenki számára elérhető legyen.
 m24-home-donate-your-voice = Adja a hangját
