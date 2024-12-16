@@ -33,6 +33,8 @@ features-index-view-and-edit-pdf-files = Wobhladajće sej a wobdźěłajće PDF-
 features-index-fingerprint-blocking = Blokowanje porstowych wotćišćow
 features-index-ad-tracker-blocking = Blokowanje wabjenskeho slědowanja
 features-index-firefox-automatically-blocks = { -brand-name-firefox } awtomatisce tomu zadźěwa, zo přez 2000 wabjenskich přesćěhowakow wam po interneće slěduje.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Wotbudźće zasakłe wabjenje, kotrež wam slěduje, ze zatwarjenymi blokowakami porstowych wotćišćow { -brand-name-firefox }.
 features-index-translate-the-web = Web přełožować
 features-index-translate-websites-to-your = Přełožujće websydła do swojeje rěče direktnje w swojim wobhladowaku { -brand-name-firefox } – bjeztoho zo byšće swoje daty z někim druhim dźělił.
 features-index-picture-in-picture = Wobraz-we-wobrazu

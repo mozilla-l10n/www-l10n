@@ -9,6 +9,7 @@
 features-fingerprinting-what-is-fingerprinting-title = Što je slědowanje přez porstowe wotćišće a čehodla wy měł jo blokować
 features-fingerprinting-fingerprint-blocking = Blokowanje porstowych wotćišćow
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje přez porstowe wotćišće blokuje
+features-fingerprinting-ditch-the-sticky = Wotbudźće zasakłe wabjenje, kotrež wam slěduje, ze zatwarjenymi blokowakami porstowych wotćišćow wobhladowaka { -brand-name-firefox }.
 # description for the header image
 features-fingerprinting-every-fingerprint = Kóždy porstowy wotćišć je jónkróćny.
 features-fingerprinting-download-firefox = { -brand-name-firefox } sćahnyć
