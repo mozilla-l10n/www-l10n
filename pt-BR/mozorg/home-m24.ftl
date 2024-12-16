@@ -94,12 +94,15 @@ m24-home-kids-are-growing = As crianças estão crescendo em um mundo altamente 
 ## Showcase
 
 m24-home-rise25-awards = Prêmios { -brand-name-rise25 }
+m24-home-get-to-know = Conheça os líderes que promovem o desenvolvimento de inteligência artificial confiável, inclusiva e transparente, estabelecendo novos padrões e inspirando a próxima geração de inovadores.
 m24-home-watch-the-award = Assista à cerimônia de premiação
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-name-rise25 }.
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Dispositivos inteligentes com ícone de alerta.
 m24-home-privacy-not-included = *Privacidade não incluída
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
