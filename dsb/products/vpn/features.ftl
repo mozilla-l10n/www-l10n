@@ -58,10 +58,22 @@ vpn-features-well-suggest-which-servers = Naraźujomy, kótare serwery we wašej
 vpn-features-personalize-which-apps = Personalizěrowaś, kótare nałoženja šćit VPN dostawaju
 vpn-features-easily-exclude-apps = Wuzamkniśo lažko nałoženja ze šćita VPN – njetrjebaśo swój rěd wót { -brand-name-mozilla-vpn } źěliś. K dispoziciji na rědach Windows, Android a Linux.
 vpn-features-set-different-locations = Nastajśo rozdźělne městna za kuždy rejtarik w { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Kombiněrujśo { -brand-name-mozilla-vpn } z rozšyrjenim Multi-Account Containers { -brand-name-firefox } a nastajśo rozdźělne stojnišća VPN z rejtarikom { -brand-name-firefox }. <a { $containers }>Zgóńśo kak</a>.
 vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
 vpn-features-plus-customer-support = Plus pódpěra 24/7 za kupcow.
 vpn-features-we-never-log = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Krotko gronjone, njegromaźimy waše wósobinske pśeglědowańske informacije. How su naše <a { $privacy }>lažko cytajobne pšawidła priwatnosći</a>.
 vpn-features-built-transparently = Transparentnje we wótwórjonem žrědle wuwity
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } jo z kodom wótwórjonego žrědła programěrowany, to groni, až wšen kod jo zjawnje pśistupny. Glejśo naš <a { $github }>repozitorium GitHub</a>.
 vpn-features-reviewed-by-third = Wót wěstotnych ekspertow tśeśich póbitowarjow pśeglědany.
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Cure53, wjeduca firma za kontrolu cyberwěstoty, jo nas kontrolěrowała. <a { $report }>Glejśo rozpšawu how</a>.
 vpn-features-people-over-profits = Luźe pśed profitom
