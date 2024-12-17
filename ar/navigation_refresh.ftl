@@ -26,6 +26,7 @@ navigation-refresh-mozilla-ai = { -brand-name-mozilla } الذكاء الاصط�
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } المشاريع
