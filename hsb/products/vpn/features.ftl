@@ -65,6 +65,12 @@ vpn-features-trustworthy = Dowěry hódny
 vpn-features-money-back = 30-dnjowska garantija wróćenja pjenjez
 vpn-features-plus-customer-support = Plus kupcowska podpěra 24/7.
 vpn-features-we-never-log = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Krótko prajene, njehromadźimy waše wosobinske přehladowanske informacije. Tu su naše <a { $privacy }>lochko čitajomne prawidła priwatnosće</a>.
 vpn-features-built-transparently = Transparentnje we wotewrjenym žórle wuwity
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je z kodom wotewrjeneho žórła programowany, to rěka, zo wšón kod je zajwnje přistupny. Hlejće naš <a { $github }>repozitorij GitHub</a>.
 vpn-features-reviewed-by-third = Wot wěstotnych ekspertow třećich poskićowarjow přepruwowany.
 vpn-features-people-over-profits = Ludźo před profitom
