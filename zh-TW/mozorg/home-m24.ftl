@@ -115,11 +115,11 @@ m24-home-alt-rise25-proud = { -brand-name-rise25 } 驕傲的得獎者。
 m24-home-alt-rise25-smiling = { -brand-name-rise25 } 自信滿滿地微笑著的講者。
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = { -brand-name-rise25 } 歡樂的得獎者。
-m24-home-state-of-mozilla = { -brand-name-mozilla } 的狀態
-m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自己、多元化的組織、重新構想廣告並建立開放原始碼的 AI 生態系統。透過 { -brand-name-mozilla } 2024 年報告了解它。
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } 2024 年報來深入了解。
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽像畫素
-m24-home-read-the-report = 閱讀報告
+m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
+m24-home-read-the-report = 閱讀年報
 
 ## Issues
 
