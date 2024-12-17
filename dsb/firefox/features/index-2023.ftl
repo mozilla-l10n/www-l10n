@@ -26,6 +26,7 @@ features-index-automatically-delete-cookies = Lašujśo cookieje awtomatiski a l
 features-index-firefox-add-ons-and-browser-extensions = Dodanki a rozšyrjenja wobglědowaka { -brand-name-firefox }
 features-index-add-new-tools-capabilities-and = Pśidajśo swójomu wobglědowakoju nowe rědy, zamóžnosći a zabawne wěcy.
 features-index-pinned-browser-tabs = Pśipněte rejtariki wobglědowaka
+features-index-keep-your-favorite-pages-open = Źaržćo swóje nejlubše boki wócynjone a jano jadno kliknjenje zdalone. Wužywajśo pśipěte rejtariki, aby pśecej woko na waše mejlki abo powěsćowe nałoženja měł.
 features-index-eyedropper-tool = Pipetowy rěd
 features-index-identify-the-exact-color-on-a = Identificěrujśo eksaktnu barwu na boku a kopěrujśo jeje heksadecimalny kod.
 features-index-pdf-editor = PDF-editor
@@ -33,6 +34,9 @@ features-index-view-and-edit-pdf-files = Woglědajśo se a wobźěłajśo PDF-da
 features-index-fingerprint-blocking = Blokěrowanje palcowych wótśišćow
 features-index-ad-tracker-blocking = Blokěrowanje wabjeńskego slědowanja
 features-index-firefox-automatically-blocks = { -brand-name-firefox } awtomatiski tomu zajźujo, až wušej 2000 wabjeńskich pśeslědowakow wam pó interneśe slědujo.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Wótbydniśo zakósćiwe wabjenje, kótarež wam slědujo, ze zatwarjonymi blokěrowakami palcowych wótśišćow wobglědowaka { -brand-name-firefox }.
 features-index-translate-the-web = Web pśełožyś
+features-index-translate-websites-to-your = Pśełožujśo websedła do swójeje rěcy direktnje w swójom wobglědowaku { -brand-name-firefox } – bźez togo aby swóje daty z někim drugim źělił.
 features-index-picture-in-picture = Wobraz-we-wobrazu
 features-index-got-things-to-do = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
