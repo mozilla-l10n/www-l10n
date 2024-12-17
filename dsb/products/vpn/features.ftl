@@ -49,7 +49,14 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } wam 
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam pśidatny wěstotny śisk dawa.
 vpn-features-support-for-custom-dns = Pódpora za swójski DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Z { -brand-name-mozilla-vpn } móžośo swój wobchad šćitaś a hyšći swóje napšašowanja DNS tam słaś, źož cośo. <a { $dns }>Zgóńśo wěcej wó personalizěrowanej pódpěrje DNS</a>.
 vpn-features-flexible = Fleksibelny
+vpn-features-personalized-server = Personalizěrowane dopórucenja za serwerowe stojnišćo
+vpn-features-well-suggest-which-servers = Naraźujomy, kótare serwery we wašej bliskosći nejmalsnjejšy, nejspušćobnjejšy internetny zwisk zawěsćiś.
+vpn-features-personalize-which-apps = Personalizěrowaś, kótare nałoženja šćit VPN dostawaju
+vpn-features-easily-exclude-apps = Wuzamkniśo lažko nałoženja ze šćita VPN – njetrjebaśo swój rěd wót { -brand-name-mozilla-vpn } źěliś. K dispoziciji na rědach Windows, Android a Linux.
 vpn-features-set-different-locations = Nastajśo rozdźělne městna za kuždy rejtarik w { -brand-name-firefox }
 vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
