@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = اكتشف منتجات { -brand-name-mozilla } ومبادراتها. نَعدك بأننا سنُحافظ على خصوصية وأمن بريدك الإلكتروني — ولن نُشاركه أو نبيعه، ولن نستخدمه إلا لإخبارك بالتحديثات العظيمة فقط.
 footer-refresh-leadership = القيادة
 footer-refresh-advertise = أعلن مع { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = ملاحظات إصدار { -brand-name-firefox }
@@ -38,6 +39,7 @@ footer-refresh-websites-cookies = ملفات تعريف الارتباط
 footer-refresh-websites-legal = الشؤون القانونية
 footer-refresh-community-participation-guidelines = التعليمات التوجيهية للمشاركة المجتمعية
 footer-refresh-about-this-site = نبذة عن هذا الموقع
+footer-refresh-all-languages = كل اللغات
 footer-refresh-language = اللغة
 footer-refresh-primary-nav-aria-label = التذييل الرئيسي
 footer-refresh-secondary-nav-aria-label = التذييل الثانوي
