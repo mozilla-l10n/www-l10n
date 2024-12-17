@@ -3,25 +3,20 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/
+### URL: https://www-dev.allizom.org/products/vpn/invite/
 
-# HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: ปกป้องอุปกรณ์ทั้งเครื่องของคุณ
-# HTML page description
+vpn-landing-invite-page-title = ลงทะเบียนรอเปิดตัว: { -brand-name-mozilla-vpn }
+vpn-landing-invite-page-desc-v2 = รับการแจ้งเตือนเมื่อ { -brand-name-mozilla-vpn } พร้อมให้บริการในภูมิภาคของคุณ
+vpn-landing-invite-page-heading = ลงทะเบียนรอเปิดตัว VPN
+vpn-landing-invite-email-label = ที่อยู่อีเมลของคุณคืออะไร?
+vpn-landing-invite-required-label = จำเป็น
+# Only localize "yourname". Do not change "@example.com".
+vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = คุณอาศัยอยู่ประเทศอะไร?
+vpn-landing-invite-language-label = เลือกภาษาที่คุณต้องการ
 # Variables:
-#   $countries (number) - number of available countries
-vpn-landing-page-desc = ใช้ { -brand-name-mozilla-vpn } เพื่อปกป้องอุปกรณ์แบบเต็มที่สำหรับทุกแอป ด้วยเซิร์ฟเวอร์ใน { $countries }+ ประเทศ คุณสามารถเชื่อมต่อไปยังทุกที่ได้จากทุกที่
-vpn-landing-hero-sub-heading-v2 = นำความปลอดภัย ความน่าเชื่อถือ และความเร็วมาไว้บนทุกอุปกรณ์ ทุกที่ที่คุณไป
-# Obsolete string
-vpn-landing-hero-sub-heading = ความปลอดภัยที่คุณวางใจได้ ชื่อที่คุณวางใจได้
-vpn-landing-hero-desc = เครือข่ายส่วนตัวเสมือนจากผู้สร้าง { -brand-name-firefox }
-vpn-landing-privacy-heading = แตะเพียงครั้งเดียวเพื่อความเป็นส่วนตัว
-
-## FAQ section
-
-
-## Invite page https://www-dev.allizom.org/products/vpn/invite/
-
-
-##
-
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-landing-invite-privacy-policy = เมื่อคลิก “ลงทะเบียนรอเปิดตัว” ถือว่าคุณยอมรับ<a href="{ $privacy }">นโยบายความเป็นส่วนตัว</a>ของเรา
+vpn-landing-invite-your-information = ข้อมูลของคุณจะถูกใช้เพื่อแจ้งให้คุณทราบเกี่ยวกับความพร้อมให้บริการของแพลตฟอร์มเท่านั้น
+vpn-landing-invite-thanks-heading = ขอบคุณ! คุณลงทะเบียนเรียบร้อยแล้ว
+vpn-landing-invite-thanks-desc = เมื่อ { -brand-name-mozilla-vpn } พร้อมให้บริการในภูมิภาคของคุณแล้ว เราจะส่งอีเมลถึงคุณ
