@@ -77,3 +77,6 @@ vpn-features-reviewed-by-third = Wót wěstotnych ekspertow tśeśich póbitowar
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Cure53, wjeduca firma za kontrolu cyberwěstoty, jo nas kontrolěrowała. <a { $report }>Glejśo rozpšawu how</a>.
 vpn-features-people-over-profits = Luźe pśed profitom
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Dostawamy pódpěru wót <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, za wše słužeca organizacija, kótaraž za to wójujo, web wótwórjony a strowy za wše luźe wobchowaś.
