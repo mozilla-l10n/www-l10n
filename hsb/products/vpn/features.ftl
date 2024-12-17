@@ -49,7 +49,11 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } was 
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam přidatny wěstotny stork dawa.
 vpn-features-support-for-custom-dns = Podpěra za swójski DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Z { -brand-name-mozilla-vpn } móžeće swój wobchad škitać a hišće swoje naprašowanja DNS tam słać, hdźež chceće. <a { $dns }>Zhońće wjace wo personalizowanej podpěrje DNS</a>.
 vpn-features-flexible = Fleksibelny
+vpn-features-personalized-server = Personalizowane doporučenja za serwerowe stejnišćo
 vpn-features-set-different-locations = Nastajće rozdźělne městna za kóždy rajtark w { -brand-name-firefox }
 vpn-features-trustworthy = Dowěry hódny
 vpn-features-money-back = 30-dnjowska garantija wróćenja pjenjez
