@@ -10,6 +10,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije, kotarež waše žiwjenje<br>online škitaja
+vpn-features-convenient = Praktiski
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -32,6 +33,7 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Na dźěłowych systemach Windows, macOS, Android, iOS a Linux podpěrany.
 vpn-features-no-bandwidth = Žane wobmjezowanja šěrokosće pasma abo haćenje
+vpn-features-including-no-data = Inkluziwnje žane wobmjezowanje datow abo spěšnosće.
 vpn-features-fast-network = Wysoke spěšnosće syće, samo hdyž hrajeće
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
