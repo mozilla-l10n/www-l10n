@@ -116,7 +116,7 @@ m24-home-alt-rise25-smiling = Un orador sonriente y confiado en { -brand-name-ri
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Un homenajeado alegre en { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado de { -brand-name-mozilla }
-m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinventando a sí mismo, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Lee al respecto en el Informe sobre el estado de { -brand-name-mozilla } de 2024.
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Leé al respecto en el Informe sobre el estado de { -brand-name-mozilla } de 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 m24-home-read-the-report = Leer el informe
