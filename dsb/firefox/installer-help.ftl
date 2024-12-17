@@ -18,11 +18,7 @@ installer-help-action-choose = Wubjeŕśo dołojce ześěgnjenje.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = Wobstarajśo se nejnowšy. How jo awtomatiska priwatnosć. Ześěgniśo { -brand-name-firefox }, aby pśez { $trackers } pśeslědowakow blokěrował.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Wobstarajśo se nejnowšy. How jo awtomatiska priwatnosć. Ześěgniśo { -brand-name-firefox-browser }, aby pśez { $trackers } pśeslědowakow blokěrował.
+installer-help-firefox-release-desc-v2 = Wobstarajśo se nejnowšy. How jo awtomatiska priwatnosć. Ześěgniśo { -brand-name-firefox }, aby wěcej ako { $trackers } pśeslědowakow blokěrował.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujśo funkcije, kótarež maju se wózjawiś, w nejstabilnjejšej pśedwersiji.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
