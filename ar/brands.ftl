@@ -126,6 +126,7 @@
 
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla الذكاء الاصطناعي
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = مشاريع Mozilla
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
