@@ -9,6 +9,7 @@
 features-index-firefox-browser-features = Funkcije wobhladowaka { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je spěšny, lochki wobhladowak z fokusom na priwatnosć, kotryž na wšěch wašich gratach funguje.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } budźe dale a spěšniši
 features-index-the-latest-browser-speed-benchmarks = Najnowše benchmarkowe testy spěšnosće wobhladowaka dopokazuja, zo { -brand-name-firefox } je spěšniši hdy prjedy.
 features-index-is-firefox-a-private-browser = Je { -brand-name-firefox } priwatny wobhladowak?
 features-index-were-focused-on-your-right-to = Stajamy fokus na waše prawo na priwatnosć. Waše daty, waša webaktiwita, waše žiwjenje online so z { -brand-name-firefox } škita.
