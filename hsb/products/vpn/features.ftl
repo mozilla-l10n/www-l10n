@@ -73,4 +73,10 @@ vpn-features-built-transparently = Transparentnje we wotewrjenym žórle wuwity
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } je z kodom wotewrjeneho žórła programowany, to rěka, zo wšón kod je zajwnje přistupny. Hlejće naš <a { $github }>repozitorij GitHub</a>.
 vpn-features-reviewed-by-third = Wot wěstotnych ekspertow třećich poskićowarjow přepruwowany.
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Cure53, nawodna firma za kontrolu cyberwěstoty, je nas kontrolowała. <a { $report }>Hlejće rozprawu tu</a>.
 vpn-features-people-over-profits = Ludźo před profitom
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Dóstawamy podpěru wot <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, powšitkownosći słužaca organizacija, kotraž za to wojuje, web wotewrjeny a strowy za wšěch ludźi wobchować.
