@@ -16,10 +16,9 @@ installer-help-action-choose = Wubjerće deleka sćehnjenje.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
-# Obsolete string (expires: 2024-05-14)
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Wobstarajće sej najnowši. Tu je awtomatiska priwatnosć. Sćehńće { -brand-name-firefox-browser }, zo byšće přez { $trackers } přesćěhowakow blokował.
+installer-help-firefox-release-desc-v2 = Wobstarajće sej najnowši. Tu je awtomatiska priwatnosć. Sćehńće { -brand-name-firefox }, zo byšće wjace hač { $trackers } přesćěhowakow blokował.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testujće funkcije, kotrež maja so wozjewić, w najstabilnišej předwersiji.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
