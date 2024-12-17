@@ -37,6 +37,7 @@ m24-home-donate = Me’ẽ
 ## AI gallery
 
 m24-home-tag-product = Apopyre
+m24-home-tag-project = Apopyrã
 m24-home-tag-program = tembiaporape
 m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
@@ -80,6 +81,7 @@ m24-home-alt-rise25-proud = Ovy’áva mbojopoipyre { -brand-name-rise25 }-pe.
 m24-home-alt-rise25-smiling = Peteĩ ñe’ẽkuaahára ijero ha opukavýva { -brand-name-rise25 }-pe.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ijuruvýva mbojopoipyre { -brand-name-rise25 }-pe.
+m24-home-read-the-report = Emoñe’ẽ marandu’i
 
 ## Issues
 
