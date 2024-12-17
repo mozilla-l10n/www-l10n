@@ -54,7 +54,13 @@ vpn-features-support-for-custom-dns = Podpěra za swójski DNS
 vpn-features-keep-traffic-protected = Z { -brand-name-mozilla-vpn } móžeće swój wobchad škitać a hišće swoje naprašowanja DNS tam słać, hdźež chceće. <a { $dns }>Zhońće wjace wo personalizowanej podpěrje DNS</a>.
 vpn-features-flexible = Fleksibelny
 vpn-features-personalized-server = Personalizowane doporučenja za serwerowe stejnišćo
+vpn-features-well-suggest-which-servers = Namjetujemy, kotre serwery we wašej bliskosći najspěšniši, najspušćomniši internetny zwisk zawěsćić.
+vpn-features-personalize-which-apps = Personalizować, kotre nałoženja škit VPN dóstawaja
+vpn-features-easily-exclude-apps = Wuzamkńće lochko nałoženja ze škita VPN – njetrjebaće swój grat wot { -brand-name-mozilla-vpn } dźělić. K dispoziciji na gratach Windows, Android a Linux.
 vpn-features-set-different-locations = Nastajće rozdźělne městna za kóždy rajtark w { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Kombinujće { -brand-name-mozilla-vpn } z rozšěrjenjom Multi-Account Containers { -brand-name-firefox } a nastajće rozdźělne stejnišća VPN z rajtarkom { -brand-name-firefox }. <a { $containers }>Zhońće kak</a>.
 vpn-features-trustworthy = Dowěry hódny
 vpn-features-money-back = 30-dnjowska garantija wróćenja pjenjez
 vpn-features-plus-customer-support = Plus kupcowska podpěra 24/7.
