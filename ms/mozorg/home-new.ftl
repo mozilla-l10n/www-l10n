@@ -45,6 +45,10 @@ home-so-what-is-mozilla = Jadi, apakah { -brand-name-mozilla } sebenarnya?
 # Obsolete string (expires: 2025-01-05)
 home-at-its-core = Pada asasnya, { -brand-name-mozilla } adalah satu organisasi aktivis yang dikemudi oleh { -brand-name-mozilla-foundation } yang memperjuangkan perubahan positif di dunia ini melalui beberapa usaha termasuklah { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> dan <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Kenapa kami berbeza? Kami dipacu oleh satu misi. Ini bermakna kami mampu berbuat keputusan demi kebaikan pengguna internet sejagat, bukannya berdasarkan kehendak pemegang saham — kami tidak mempunyai pemegang saham.
 
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = Pada asasnya, { -brand-name-mozilla } adalah satu organisasi aktivis yang dikemudi oleh { -brand-name-mozilla-foundation } yang memperjuangkan perubahan positif di dunia ini melalui beberapa usaha termasuklah { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> dan <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Kenapa kami berbeza? Kami dipacu oleh satu misi. Ini bermakna kami mampu berbuat keputusan demi kebaikan pengguna internet sejagat, bukannya berdasarkan kehendak pemegang saham — kami tidak mempunyai pemegang saham.
 
 
 home-learn-about-mofo = Ketahui tentang { -brand-name-mozilla-foundation }
