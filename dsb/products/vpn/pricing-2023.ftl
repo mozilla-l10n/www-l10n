@@ -39,6 +39,7 @@ vpn-pricing-access =
         [few] Mějśo pśistup k { $servers } serweram we wěcej ako { $countries } krajach
        *[other] Mějśo pśistup k { $servers } serweram we wěcej ako { $countries } krajach
     }
+vpn-pricing-money-back = 30-dnjowna garantija slědkdaśa pjenjez (jano za prědne kupce)
 vpn-pricing-annual = Kužde lěto
 vpn-pricing-monthly = Kuždy mjasec
 vpn-pricing-get-annual-subscription = Lětny abonement wótzamknuś
