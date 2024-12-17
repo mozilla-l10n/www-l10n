@@ -44,7 +44,7 @@ vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } wam pomha, wa
 vpn-features-encrypt-your-internet = Zaklučujće wšón swój internetny wobchad
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšě nałoženja na wašim graće škita, nic jenož waš wobhladowak
 vpn-features-stronger-malware = Mócniši škit přećiwo škódnej softwarje
-vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } was při sćahowanju škódneje software wot znatych njewěstych žórłow haći.
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } was při sćahowanju škódneje software ze znatych njewěstych žórłow haći.
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam přidatny wěstotny stork dawa.
