@@ -10,6 +10,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcije, kótarež wašo žywjenje<br>online šćitaju
+vpn-features-convenient = Praktiski
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -32,15 +33,21 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Na źěłowych systemach Windows, macOS, Android, iOS a Linux pódprěty.
 vpn-features-no-bandwidth = žedno wobgranicowanje šyrokosći pasma abo droslowanje
+vpn-features-including-no-data = Inkluziwnje žedno wobgranicowanje datow abo malsnosći.
 vpn-features-fast-network = Wusoke malsnosći seśe, samo gaby wy grał
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } <a { $wireguard }>Wireguard</a>™ wužywa, jaden z nejwěcej wugbałych VPN-protokolow.
 vpn-features-secure = Wěsty
 vpn-features-block-ads = Blokěrujśo wabjece se na was měriś
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } wam pomaga, wabjenje blokěrowaś a tomu zajźowaś, až wabjeńske pśeslědowaki wašu aktiwitu online wiźe.
 vpn-features-encrypt-your-internet = Koděrujśo wšen swój internetny wobchad
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšykne nałoženja na wašom rěźe šćita, nic jano waš wobglědowak
 vpn-features-stronger-malware = Mócnjejšy šćit pśeśiwo škódnej software
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } wam zawoborujo, škódnu software ze znatych njewěstych žrědłow ześěgnuś.
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam pśidatny wěstotny śisk dawa.
 vpn-features-support-for-custom-dns = Pódpora za swójski DNS
 vpn-features-flexible = Fleksibelny
 vpn-features-set-different-locations = Nastajśo rozdźělne městna za kuždy rejtarik w { -brand-name-firefox }
