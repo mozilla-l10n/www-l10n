@@ -7,6 +7,8 @@
 
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Co jo slědowanje pśez palcowe wótśišće a cogodla wy měł jo blokěrowaś
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting jo typ pśeslědowanja online, kótarež jo wěcej inwaziwne ako zwucone pśeslědowanje na zakłaźe cookiejow – togodla { -brand-name-firefox-browser } jo blokěrujo.
 features-fingerprinting-fingerprint-blocking = Blokěrowanje palcowych wótśišćow
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje pśez palcowe wótśišće blokěrujo
 features-fingerprinting-ditch-the-sticky = Wótbydniśo zakósćiwe wabjenje, kótarež wam slědujo, ze zatwarjonymi blokěrowakami palcowych wótśišćow wobglědowaka { -brand-name-firefox }.
