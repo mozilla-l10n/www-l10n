@@ -18,6 +18,8 @@ m24-home-page-desc-v2 = Wir arbeiten daran, die Kontrolle über das Internet jen
 m24-home-welcome-to-mozilla = Willkommen bei { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Von vertrauenswürdigen Technologien bis hin zu Richtlinien, die deine digitalen Rechte verteidigen, bei uns kommst du an erster Stelle – immer.
 m24-home-learn-about-us = Mehr erfahren
+# Used as accessible text alternative for image
+m24-home-alt-flag = Eine stilisierte grüne Flagge auf einem schwarzen Hintergrund, bestehend aus dem „M“ für { -brand-name-mozilla } und einem versetzten Pixel, das eine Referenz für das ursprüngliche Dinosaurierlogo darstellt.
 
 ## Products
 
@@ -49,6 +51,7 @@ m24-home-donate = Spenden
 ## AI gallery
 
 m24-home-tag-product = Produkt
+m24-home-tag-project = Projekt
 m24-home-tag-program = Programm
 m24-home-tag-event = Event
 m24-home-read-more = Weiterlesen
@@ -93,6 +96,7 @@ m24-home-topic-ai = Künstliche Intelligenz
 m24-home-topic-ps = Datenschutz und Sicherheit
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Headline: Du, KI und das Internet – was geht da wirklich ab?
+m24-home-headline-you-ai-v2 = Du, KI und das Internet – was geht da wirklich ab?
 m24-home-introducing-anonym = { -brand-name-anonym }: Höhere Standards für datenschutzbewahrende digitale Werbung.
 m24-home-keeping-genai-technologies = Die Verantwortung, GenAI-Technologien sicher zu gestalten, liegt bei uns allen.
 m24-home-from-hollywood-to = Von Hollywood bis Hip-Hop, Künstler*innen verhandeln KI-Consent.
@@ -112,6 +116,11 @@ m24-home-alt-rise25-proud = Stolze*r Preisträger*in bei { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Ein*e selbstbewusste*r Vortragende*r bei { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ein*e glückliche*r Preisträger*in bei { -brand-name-rise25 }.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } erfindet sich neu, diversifiziert sich um eine Konstellation von Organisationen, gestaltet Werbung neu und erschafft ein Open-Source KI-Ökosystem. Lies darüber im Bericht „State of { -brand-name-mozilla }“ 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstrakte Pixelkunst in grün, orange und rosa
+m24-home-read-the-report = Bericht lesen
 
 ## Issues
 
