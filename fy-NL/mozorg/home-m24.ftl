@@ -115,6 +115,11 @@ m24-home-alt-rise25-proud = In grutske huldige by { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = In selsbewuste glimmerjende sprekker by { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = In blide huldige by { -brand-name-rise25 }.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } fynt harsels opnij út en diversifiearret rûn in konstellaasje fan organisaasjes, fynt reklame opnij út en kreëarret in iepenboarne AI-ekosysteem. Lês mear yn it State of { -brand-name-mozilla } 2024-rapport.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstrakte pikselkeunst yn skaden fan grien, oranje en rôze
+m24-home-read-the-report = It rapport lêze
 
 ## Issues
 
