@@ -8,7 +8,7 @@
 # page title
 features-fingerprinting-what-is-fingerprinting-title = Što je slědowanje přez porstowe wotćišće a čehodla wy měł jo blokować
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting je typ přesćěhowanja online, kotrež je bóle inwaziwny hač wšědne přesćěhowanje na zakładźe plackow – tohodla { -brand-name-firefox-browser } jón blokuje.
+features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting je typ přesćěhowanja online, kotrež je bóle inwaziwne hač wšědne přesćěhowanje na zakładźe plackow – tohodla { -brand-name-firefox-browser } jo blokuje.
 features-fingerprinting-fingerprint-blocking = Blokowanje porstowych wotćišćow
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } slědowanje přez porstowe wotćišće blokuje
 features-fingerprinting-ditch-the-sticky = Wotbudźće zasakłe wabjenje, kotrež wam slěduje, ze zatwarjenymi blokowakami porstowych wotćišćow wobhladowaka { -brand-name-firefox }.
