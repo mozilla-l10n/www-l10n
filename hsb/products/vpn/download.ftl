@@ -13,8 +13,6 @@ vpn-download-sub-heading = Móžeće { -brand-name-mozilla-vpn } na hač do { $d
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } wěsty škit za wšě wažne dźěłowe systemy skići.
 vpn-download-not-available-in-country = Bohužel { -brand-name-mozilla-vpn } za sćehnjenje we wašim kraju k dispoziciji  njeje.
 vpn-download-button-copy = Sćahnyć
-# Obsolete string
-vpn-download-for-windows = VPN za { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jenož 64-bitowy)
 vpn-download-for-windows-long = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-windows }
@@ -32,13 +30,15 @@ vpn-download-for-android = VPN za { -brand-name-android }
 vpn-download-for-android-long = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-download-for-ios = VPN za { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Sćehńće VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Wobstarajće so jón na { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Wobstarajće so jón na { -brand-name-app-store }
 vpn-download-based-on-your = Na zakładźe wašeho aktualneho grata
 vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 vpn-download-privacy-you-can = Priwatnosć, kotrejž móžeće dowěrić
 vpn-download-also-available = Tež k dispoziciji za:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Wot zhotowjerja { -brand-name-firefox } , { -brand-name-mozilla-vpn } rozšěrjeny protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® wužiwa, zo by wašu aktiwitu online zaklučował a waše stejnišćo schował.
 vpn-download-we-never-log = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy.
 vpn-download-previous-versions = Sćehńće předchadne wersije za { -brand-name-windows } a { -brand-name-mac-short }
