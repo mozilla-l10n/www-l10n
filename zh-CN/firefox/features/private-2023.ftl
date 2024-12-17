@@ -21,4 +21,4 @@ features-private-what-information-does-firefox = { -brand-name-firefox } 收集�
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla }（{ -brand-name-firefox } 的开发商）对隐私十分重视，<strong>毫不含糊</strong>。事实上，我们打造的每件 { -brand-name-firefox } 产品都遵循我们的<a href="{ $url }">个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
-features-private-read-firefoxs-privacy-notice = 阅读<a href="{ $url }">{ -brand-name-firefox } 的隐私声明</a>可了解详细信息。这份声明绝对称得上开诚布公，非常值得一读。
+features-private-read-firefoxs-privacy-notice = 阅读 <a href="{ $url }">{ -brand-name-firefox } 的隐私声明</a>可了解详细信息。这份声明绝对称得上开诚布公，非常值得一读。
