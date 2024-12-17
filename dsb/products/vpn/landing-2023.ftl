@@ -17,6 +17,7 @@ vpn-landing-a-virtual-private-network-protects = Wirtualna priwatna seś waš zw
 vpn-landing-see-all-the-ways-mozilla-vpn = Woglědajśo se wšykne móžnosći, z kótarymiž { -brand-name-mozilla-vpn } wam šćita.
 vpn-landing-how-a-vpn-helps-you = Kak VPN wam pomaga
 vpn-landing-keeps-your-data-safe = Źaržy waše daty wěste w zjawnem WLAN
+vpn-landing-log-in-to-your-bank-or = Pśizjawśo se pla swójeje banki abo praksy gójca wót lětanišća, kafejownje abo wót hynźi z dušynym měrom.
 vpn-landing-blocks-advertisers-from = Blokěrujo wabjece se na was měriś
 vpn-landing-hide-your-activity-from = Schowajśo swóju aktiwitu pśed pśeslědowakami a škódneju software, aby mógał nakupowaś, bźez togo aby was doglědowali.
 vpn-landing-helps-you-access-global = Zmóžnja wam pśistup ku globalnemu wopśimjeśeju
@@ -47,6 +48,7 @@ vpn-landing-no-bandwidth-restrictions-or = žedno wobgranicowanje šyrokosći pa
 vpn-landing-extra-security-whole-device = Pśidatna wěstota: šćit cełego rěda, routing multi-hop a wěcej
 vpn-landing-see-all-features = Wšykne funkcije pokazaś
 vpn-landing-fram-a-brand-you-can-trust = Wót marki, kótarejž móžośo dowěriś
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } jo za wše wužytne internetne pśedewześe, kótarež wót lěta 1998 za strowy web wójujo.
 vpn-landing-one-subscription-for-all-your = Jaden abonement za wše waše rědy
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Spěchowany wót { -brand-name-mozilla }.</strong> Wójujomy za wašo pšawo na priwatnosć wót lěta 1998.
