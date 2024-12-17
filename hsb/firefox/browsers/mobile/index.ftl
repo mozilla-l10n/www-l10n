@@ -13,7 +13,7 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } za { -brand-name-a
 browsers-mobile-infinitely-customizable-private = Bjez mjezow přiměrjomny, priwatny a wěsty, { -brand-name-firefox } za { -brand-name-android } je błyskospěšny wobhladowak, kotryž was ženje njejeba.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } za { -brand-name-ios }
 browsers-mobile-go-your-own-way = Dźiće swójski puć z mobilnym { -brand-name-firefox }
-browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } so wam přiměrja a zmóžnja wam lóšo hač hdy prjedy wšě waše wočinjene rajtarki, zańdźene pytanja a najlubše sydła widźeć.
+browsers-mobile-firefox-mobile-adapts-to-you = Mobilny { -brand-name-firefox } so wam přiměrja a zmóžnja wam lóšo hač hdy prjedy wšě waše wočinjene rajtarki, zańdźene pytanja a najlubše sydła widźeć.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Wobstarajće sej polěpšeny přesćěhanski škit a čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej na pućowanju a na přeco na swojimaj gratomaj { -brand-name-iphone } a { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

@@ -11,4 +11,4 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } za { -brand-name-ios }
 get-ios-firefox-is-fast = { -brand-name-firefox } za { -brand-name-ios } je spěšny, wěsty a priwatny, hdyž jón wočinjeće.
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-firefox } za { -brand-name-ios } sćahnyć
-get-ios-firefox-mobile-adapts = { -brand-name-firefox } so wam přiměrja a zmóžnja wam lóšo hač hdy prjedy wšě waše wočinjene rajtarki, zańdźene pytanja a najlubše sydła widźeć.
+get-ios-firefox-mobile-adapts = Mobilny { -brand-name-firefox } so wam přiměrja a zmóžnja wam lóšo hač hdy prjedy wšě waše wočinjene rajtarki, zańdźene pytanja a najlubše sydła widźeć.
