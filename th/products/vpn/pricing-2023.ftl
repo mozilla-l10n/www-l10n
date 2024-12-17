@@ -15,6 +15,9 @@ vpn-pricing-included-in-subscription = สิ่งที่รวมอยู�
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to = เชื่อมต่อได้ถึง { $devices } อุปกรณ์
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms = เชื่อมต่อกับอุปกรณ์ Android, iOS, Windows, macOS หรือ Linux ได้สูงสุด { $devices } เครื่อง
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access = เข้าถึง { $servers } เซิร์ฟเวอร์ใน { $countries }+ ประเทศ
@@ -38,3 +41,12 @@ vpn-pricing-how-do-i-manage = ฉันจะจัดการการสม�
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = หากคุณสมัครสมาชิก { -brand-name-mozilla-vpn } แล้ว คุณสามารถเปลี่ยนแผนหรือ<a { $manage }>จัดการการสมัครสมาชิกของคุณ</a>ได้ตลอดเวลา
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = ถ้าต้องการดาวน์โหลดแอป ให้สแกนคิวอาร์โค้ดด้วยอุปกรณ์มือถือหรือแท็บเล็ตของคุณ
+vpn-pricing-scan-qrcode-to-download-android = ถ้าต้องการดาวน์โหลดแอป ให้สแกนคิวอาร์โค้ดด้วยอุปกรณ์หรือแท็บเล็ต Android ของคุณ
+vpn-pricing-sign-up-on-your-mobile-device = ลงทะเบียนเพื่อสมัครสมาชิก { -brand-name-mozilla-vpn } บนอุปกรณ์มือถือของคุณ
+vpn-pricing-sign-up-on-your-android-device = ลงทะเบียนเพื่อสมัครสมาชิก { -brand-name-mozilla-vpn } บนอุปกรณ์ Android ของคุณ
+vpn-pricing-download-the-app = ดาวน์โหลดแอป
+vpn-pricing-transaction-may-be-in = * จำนวนเงินที่ใช้อาจเป็นจำนวนที่ใกล้เคียงสำหรับสกุลเงินท้องถิ่น
