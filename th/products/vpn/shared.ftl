@@ -8,42 +8,82 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = รับ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = ลงทะเบียนรอเปิดตัว
-vpn-shared-sign-in-link = เป็นสมาชิกอยู่แล้วใช่ไหม?
 vpn-shared-available-countries-v6 = ขณะนี้เราให้บริการ { -brand-name-mozilla-vpn } ในออสเตรีย เบลเยียม บัลแกเรีย แคนาดา โครเอเชีย ไซปรัส สาธารณรัฐเช็ก เดนมาร์ก เอสโตเนีย ฟินแลนด์ ฝรั่งเศส เยอรมนี ฮังการี ไอร์แลนด์ อิตาลี ลัตเวีย ลิทัวเนีย ลักเซมเบิร์ก มาเลเซีย มอลตา เนเธอร์แลนด์ นิวซีแลนด์ โปแลนด์ โปรตุเกส โรมาเนีย สิงคโปร์ สโลวีเนีย สโลวาเกีย สเปน สวีเดน สวิตเซอร์แลนด์ สหราชอาณาจักร และสหรัฐอเมริกา
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = รับประกันคืนเงินภายใน 30 วัน
+vpn-shared-features-encrypt = การเข้ารหัสลับในระดับอุปกรณ์
+vpn-shared-features-bandwidth = ไม่มีการจำกัดแบนด์วิดธ์
+vpn-shared-features-activity = ไม่มีการบันทึกกิจกรรมเครือข่ายของคุณ
+vpn-shared-features-activity-logs = ไม่มีการบันทึกกิจกรรมออนไลน์เลยทุกเวลา
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = เข้าถึง { $servers } เซิร์ฟเวอร์ใน { $countries }+ ประเทศ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = ปกป้องได้ถึง { $devices } อุปกรณ์
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = เข้าถึงเซิร์ฟเวอร์อันแข็งแกร่ง { $servers } แห่งใน { $countries }+ ประเทศ
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = เชื่อมต่อได้ถึง { $devices } อุปกรณ์
+# This string is displayed as an item in a list of features.
+vpn-shared-features-guarantee = รับประกันคืนเงินภายใน 30 วัน
+vpn-shared-privacy-notice = ประกาศความเป็นส่วนตัว
+vpn-shared-terms-conditions = ข้อกำหนดและเงื่อนไข
+vpn-shared-wireguard-copyright = { -brand-name-wireguard } เป็นเครื่องหมายการค้าจดทะเบียนของ Jason A. Donenfeld
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = แนะนำ
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/เดือน</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/เดือน + ภาษี</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = ประหยัด { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = ประหยัด { $percent }% สำหรับ { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *เมื่อคุณสมัครสมาชิกแผน 12 เดือน
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *มาพร้อมการสมัครสมาชิกรายปี
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = รวมเงิน { $amount }
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = รวมเงิน { $amount } + ภาษี
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ยังไม่มีให้บริการในประเทศของคุณ
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = มาเริ่มกันเลย
 vpn-shared-platform-cta-button = ดูราคาและพื้นที่ให้บริการ
+vpn-shared-platform-privacy-promise = ความเป็นส่วนตัวของคุณคือคำมั่นสัญญาของเรา
+vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } คืออะไร?
+vpn-shared-platfrom-why-choose = ทำไมต้อง { -brand-name-mozilla-vpn }?
+vpn-shared-platform-what-youll-get = สิ่งที่คุณจะได้รับจาก { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-whats-a-vpn = VPN คืออะไร?
-vpn-subnav-faqs = คำถามที่พบบ่อย
-vpn-subnav-get-help = รับความช่วยเหลือ
-vpn-subnav-platform-android = { -brand-name-android }
-vpn-subnav-platform-desktop = เดสก์ท็อป
-vpn-subnav-platform-ios = { -brand-name-ios }
-vpn-subnav-platform-linux = { -brand-name-linux }
-vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = มือถือ
-vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = ที่อยู่ IP คืออะไร?
-vpn-subnav-when-to-use-a-vpn = เมื่อไรควรใช้ VPN
-vpn-subnav-vpn-vs-proxy = VPN เทียบกับพร็อกซี
-vpn-subnav-subscribe = สมัครสมาชิก { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = เรียนรู้เกี่ยวกับ VPN
 vpn-subnav-download-mozilla-vpn = ดาวน์โหลด { -brand-name-mozilla-vpn }
 vpn-subnav-features = คุณลักษณะ
 
-## VPN + Relay bundle offer
-
-
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = จากข่าวใน
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = “VPN ของ { -brand-name-mozilla } สามารถ<a { $attrs }>ผสานกับคุณลักษณะปกป้องความเป็นส่วนตัวอันชาญฉลาด</a>ของเบราว์เซอร์ { -brand-name-firefox } เองได้อย่างลงตัว”
 
 ## Unsupported language notification
 
