@@ -40,9 +40,14 @@ vpn-features-fast-network = Wysoke spěšnosće syće, samo hdyž hrajeće
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } <a { $wireguard }>Wireguard</a>™ wužiwa, jedyn z najbóle wukonliwych VPN-protokolow.
 vpn-features-secure = Wěsty
 vpn-features-block-ads = Blokujće wabjacych so na was měrić
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } wam pomha, wabjenje blokować a tomu zadźěwać, zo wabjenske přesćěhowaki wašu aktiwitu online widźa.
 vpn-features-encrypt-your-internet = Zaklučujće wšón swój internetny wobchad
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšě nałoženja na wašim graće škita, nic jenož waš wobhladowak
 vpn-features-stronger-malware = Mócniši škit přećiwo škódnej softwarje
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } was při sćahowanju škódneje software wot znatych njewěstych žórłow haći.
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam přidatny wěstotny stork dawa.
 vpn-features-support-for-custom-dns = Podpěra za swójski DNS
 vpn-features-flexible = Fleksibelny
 vpn-features-set-different-locations = Nastajće rozdźělne městna za kóždy rajtark w { -brand-name-firefox }
