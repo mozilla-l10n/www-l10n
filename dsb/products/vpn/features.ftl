@@ -32,7 +32,7 @@ vpn-features-connect-up-to =
        *[other] Zwěžćo až k { $devices } rědam
     }
 vpn-features-supported-platforms = Na źěłowych systemach Windows, macOS, Android, iOS a Linux pódprěty.
-vpn-features-no-bandwidth = žedno wobgranicowanje šyrokosći pasma abo droslowanje
+vpn-features-no-bandwidth = Žedno wobgranicowanje šyrokosći pasma abo droslowanje
 vpn-features-including-no-data = Inkluziwnje žedno wobgranicowanje datow abo malsnosći.
 vpn-features-fast-network = Wusoke malsnosći seśe, samo gaby wy grał
 # Variables
@@ -45,6 +45,7 @@ vpn-features-encrypt-your-internet = Koděrujśo wšen swój internetny wobchad
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } wšykne nałoženja na wašom rěźe šćita, nic jano waš wobglědowak
 vpn-features-stronger-malware = Mócnjejšy šćit pśeśiwo škódnej software
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } wam zawoborujo, škódnu software ze znatych njewěstych žrědłow ześěgnuś.
+vpn-features-super-private-mode = Superpriwatny modus: wjeźćo wobchad pśez dwě stojnišći
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija multi-hop</a> wam pśidatny wěstotny śisk dawa.
