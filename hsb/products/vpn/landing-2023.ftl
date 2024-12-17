@@ -51,7 +51,7 @@ vpn-landing-fram-a-brand-you-can-trust = Wot marki, kotrejž móžeće dowěrić
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je powšitkownosći wužitne internetne předewzaće, kotrež wot lěta 1998 za strowy web wojuje.
 vpn-landing-one-subscription-for-all-your = Jedyn abonement za wšě waše graty
 # HTML for emphasis
-vpn-landing-powered-by-mozilla-fighting-for = <strong>Spěchowany wot { -brand-name-mozilla }.</strong> Wojujemy za waš prawo na priwatnosć wot lěta 1998.
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Spěchowany wot { -brand-name-mozilla }.</strong> Wojujemy za waše prawo na priwatnosć wot lěta 1998.
 vpn-landing-learn-more-from-our-experts = Wukńće wjace wot našich ekspertow
 vpn-landing-do-you-need-a-vpn-at-home = Trjebaće VPN doma? Tu je 5 přičinow, čehoždla wy móhł jón trjebać.
 vpn-landing-what-is-an-ip-address = Što je IP-adresa?
