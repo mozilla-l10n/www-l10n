@@ -115,7 +115,6 @@ m24-home-alt-rise25-proud = 一位得意的 { -brand-name-rise25 } 获奖者
 m24-home-alt-rise25-smiling = 一位自信微笑的 { -brand-name-rise25 } 演讲者。
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = 一位兴高采烈的 { -brand-name-rise25 } 获奖者。
-m24-home-state-of-mozilla = { -brand-name-mozilla } 的状态
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自己、围绕一系列组织进行多元化、重新构想广告业以及创建一个开源的 AI 生态系统。在 { -brand-name-mozilla } 状况 2024 报告中阅读。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
