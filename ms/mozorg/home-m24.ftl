@@ -18,6 +18,8 @@ m24-home-page-desc-v2 = Kami berusaha untuk memulangkan kawalan internet ke tang
 m24-home-welcome-to-mozilla = Selamat datang ke { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Sama ada teknologi yang boleh dipercayai sehingga ke dasar yang melindungi hak kehidupan digital, kami sentiasa mengutamakan anda.
 m24-home-learn-about-us = Ketahui Lebih Lanjut Tentang Kami
+# Used as accessible text alternative for image
+m24-home-alt-flag = Bendera hijau yang digayakan di atas latar belakang hitam, direka daripada huruf 'M' untuk { -brand-name-mozilla } dengan piksel tersesar yang merujuk kepada logo asli dinosaurnya.
 
 ## Products
 
@@ -49,6 +51,7 @@ m24-home-donate = Sumbangan
 ## AI gallery
 
 m24-home-tag-product = Produk
+m24-home-tag-project = Projek
 m24-home-tag-program = Program
 m24-home-tag-event = Acara
 m24-home-read-more = Baca Lagi
@@ -93,6 +96,7 @@ m24-home-topic-ai = Kecerdasan Buatan
 m24-home-topic-ps = Privasi & Keselamatan
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Headline: Anda, AI dan internet — apa yang sedang berlaku sebenarnya?
+m24-home-headline-you-ai-v2 = Anda, AI dan internet — apa sebenarnya yang sedang berlaku?
 m24-home-introducing-anonym = Memperkenalkan { -brand-name-anonym }: Meningkatkan taraf dalam pengiklanan digital yang mengutamakan privasi.
 m24-home-keeping-genai-technologies = Mengekalkan keselamatan teknologi GenAI adalah tanggungjawab bersama.
 m24-home-from-hollywood-to = Dari Hollywood ke hip hop, artis kini berunding persetujuan tentang AI.
@@ -112,6 +116,11 @@ m24-home-alt-rise25-proud = Penerima kehormat kelihatan bangga pada acara { -bra
 m24-home-alt-rise25-smiling = Penceramah yang tersenyum penuh yakin di { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Penerima kehormat penuh gembira pada acara { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Terkini Tentang { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang mencipta semula jenamanya dengan mempelbagaikan tawaran berlandaskan beberapa buah organisasi selain membayangkan semula pengiklanan serta membangunkan ekosistem AI sumber terbuka. Baca lebih lanjut mengenainya dalam Laporan Terkini Tentang { -brand-name-mozilla } 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Seni piksel abstrak dalam warna hijau, oren dan merah jambu
+m24-home-read-the-report = Baca laporannya
 
 ## Issues
 

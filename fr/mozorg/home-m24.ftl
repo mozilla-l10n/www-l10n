@@ -18,6 +18,8 @@ m24-home-page-desc-v2 = Nous œuvrons pour permettre aux internautes de reprendr
 m24-home-welcome-to-mozilla = Bienvenue chez { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Qu’il s’agisse de technologies dignes de confiance ou de politiques qui défendent vos droits numériques, nous vous faisons toujours passer en priorité.
 m24-home-learn-about-us = En savoir plus sur nous
+# Used as accessible text alternative for image
+m24-home-alt-flag = Sur un fond noir, un drapeau vert stylisé, composé du « M » de { -brand-name-mozilla }, avec un pixel décalé pour figurer l’œil de son logo dinosaure original.
 
 ## Products
 
@@ -49,6 +51,7 @@ m24-home-donate = Faire un don
 ## AI gallery
 
 m24-home-tag-product = Produit
+m24-home-tag-project = Projet
 m24-home-tag-program = Programme
 m24-home-tag-event = Événement
 m24-home-read-more = En savoir plus
@@ -93,6 +96,7 @@ m24-home-topic-ai = Intelligence artificielle
 m24-home-topic-ps = Confidentialité et sécurité
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Titre : L’IA, Internet et vous — que se passe-t-il vraiment ?
+m24-home-headline-you-ai-v2 = L’IA, Internet et vous — que se passe-t-il vraiment ?
 m24-home-introducing-anonym = Découvrez { -brand-name-anonym } : pour une publicité numérique respectueuse de la vie privée.
 m24-home-keeping-genai-technologies = La sécurité des technologies d’IA générative est une responsabilité partagée.
 m24-home-from-hollywood-to = De Hollywood au hip-hop, de nombreux artistes négocient pour que l’IA prenne en compte leur consentement.
@@ -112,6 +116,11 @@ m24-home-alt-rise25-proud = Une heureuse récipiendaire à { -brand-name-rise25 
 m24-home-alt-rise25-smiling = Une intervenante souriante et confiante à { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Une récipiendaire réjouie à { -brand-name-rise25 }.
+m24-home-state-of-mozilla = { -brand-name-mozilla } aujourd’hui
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se réinvente en diversifiant son activité autour de plusieurs organisations, en repensant la publicité et en créant un écosystème d’IA open source. Découvrez nos projets dans le rapport « { -brand-name-mozilla } aujourd’hui » de 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Pixel art abstrait dans des tons verts, orange et roses
+m24-home-read-the-report = Lire le rapport
 
 ## Issues
 
