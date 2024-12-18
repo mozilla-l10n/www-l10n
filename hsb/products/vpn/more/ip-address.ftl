@@ -19,6 +19,7 @@ vpn-ip-address-does-it-travel = Přewodźuje was po puću?
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip-v2 = Ně. Waša IP-adresa je jenož z jednym stejnišćom zwjazana, chibazo VPN wužiwaće (budźemy so pozdźišo z tym zaběrać). Hdyž sće doma a so z internetom zwjazujeće, za kotryž płaćiće, wužiwaće tajku adresu. Jeli wšak doma rano swoje mejlki wotwołujeće, potom w lokalnej kofejowni powěsće čitaće, mjeztym zo na swój kofej čakaće, a potom w běrowje dźěłaće, wužiwaće kóždy raz za kóžde stejnišćo druhu IP-adresu.
 vpn-ip-address-does-your-ip = Měnja so waša IP-adresa?
+vpn-ip-address-yes-even-if = Haj. Samo hdyž internet jenož doma wužiwaće, móže so IP-adresa tam změnić. Móžeće so ze swojim internetnym poskićowarjom (ISP) do zwiska stajić, zo byšće ju změnił, ale samo tajke wšědne kaž nowy start wašeho modema abo routera problemow z internetnym zwiskom dla móže k změnje wjesć.
 vpn-ip-address-can-more-than = Móže wjace hač jedyn grat samsnu IP-adresu měć?
 vpn-ip-address-can-we-run = Mamy hišće dosć z nich?
 vpn-ip-address-should-you-hide = Dyrbjał wy swoju IP-adresu schować?
