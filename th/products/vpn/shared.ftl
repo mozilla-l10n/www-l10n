@@ -17,13 +17,13 @@ vpn-shared-features-activity = ไม่มีการบันทึกกิ�
 vpn-shared-features-activity-logs = ไม่มีการบันทึกกิจกรรมออนไลน์เลยทุกเวลา
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-access-countries = เข้าถึง { $servers } เซิร์ฟเวอร์ใน { $countries }+ ประเทศ
+vpn-shared-features-access-countries = เข้าถึงเซิร์ฟเวอร์ใน { $countries }+ ประเทศ
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = ปกป้องได้ถึง { $devices } อุปกรณ์
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = เข้าถึงเซิร์ฟเวอร์อันแข็งแกร่ง { $servers } แห่งใน { $countries }+ ประเทศ
+vpn-shared-features-strong-servers = เข้าถึงเซิร์ฟเวอร์อันแข็งแกร่งแห่งใน { $countries }+ ประเทศ
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = เชื่อมต่อได้ถึง { $devices } อุปกรณ์
