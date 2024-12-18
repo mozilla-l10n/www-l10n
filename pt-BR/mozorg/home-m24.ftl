@@ -104,6 +104,7 @@ m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Dispositivos inteligentes com ícone de alerta.
 m24-home-privacy-not-included = *Privacidade não incluída
+m24-home-search-our-reviews = Confira as nossas análises para ver quais aplicativos e dispositivos tecnológicos estão coletando furtivamente os seus dados.
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
