@@ -14,7 +14,10 @@ vpn-ip-address-your-ip-address = Waša IP-adresa je jónkróćny identifikator, 
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Přikład IP-adresy, kotraž je slěd štyrjoch ličbow, dźělenych přez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jeli za wašej IP-adresu hladaće, wupada někak tak.
-vpn-ip-address-does-it-travel = Přewodźuje was?
+vpn-ip-address-does-it-travel = Přewodźuje was po puću?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Ně. Waša IP-adresa je jenož z jednym stejnišćom zwjazana, chibazo VPN wužiwaće (budźemy so pozdźišo z tym zaběrać). Hdyž sće doma a so z internetom zwjazujeće, za kotryž płaćiće, wužiwaće tajku adresu. Jeli wšak doma rano swoje mejlki wotwołujeće, potom w lokalnej kofejowni powěsće čitaće, mjeztym zo na swój kofej čakaće, a potom w běrowje dźěłaće, wužiwaće kóždy raz za kóžde stejnišćo druhu IP-adresu.
 vpn-ip-address-does-your-ip = Měnja so waša IP-adresa?
 vpn-ip-address-can-more-than = Móže wjace hač jedyn grat samsnu IP-adresu měć?
 vpn-ip-address-can-we-run = Mamy hišće dosć z nich?
