@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Temui produk dan inisiatif { -brand-name-mozilla }. Kami berjanji agar e-mel anda kekal rahsia dan selamat — tidak dikongsi, tidak dijual, hanya untuk kemas kini.
 footer-refresh-leadership = Kepimpinan
 footer-refresh-advertise = Beriklanlah dengan { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Nota Pelancaran { -brand-name-firefox }
@@ -38,6 +39,7 @@ footer-refresh-websites-cookies = Kuki
 footer-refresh-websites-legal = Undang-undang
 footer-refresh-community-participation-guidelines = Garis Panduan Penyertaan Komuniti
 footer-refresh-about-this-site = Mengenai laman ini
+footer-refresh-all-languages = Semua bahasa
 footer-refresh-language = Bahasa
 footer-refresh-primary-nav-aria-label = Footer utama
 footer-refresh-secondary-nav-aria-label = Footer sekunder
