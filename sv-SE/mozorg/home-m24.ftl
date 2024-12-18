@@ -115,6 +115,8 @@ m24-home-alt-rise25-proud = En stolt pristagare på { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = En självsäker leende talare på { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = En glad pristagare på { -brand-name-rise25 }.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig själv på nytt, diversifierar sig runt en konstellation av organisationer, ombildar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten State of { -brand-name-mozilla } 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 m24-home-read-the-report = Läs rapporten
