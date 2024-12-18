@@ -18,6 +18,8 @@ m24-home-page-desc-v2 = Mozilla は、インターネットを利用者の手に
 m24-home-welcome-to-mozilla = ようこそ { -brand-name-mozilla } へ
 m24-home-from-trustworthy-tech = 信頼できる技術から、ユーザーのデジタルの権利を守るポリシーまで、Mozilla は常にユーザーを第一に考えています。
 m24-home-learn-about-us = Mozilla について読む
+# Used as accessible text alternative for image
+m24-home-alt-flag = 黒地に緑色の様式化された旗、{ -brand-name-mozilla } の「M」と、ずらされた1つのピクセルから作られており、オリジナルの恐竜のロゴを示している
 
 ## Products
 
@@ -49,6 +51,7 @@ m24-home-donate = 寄付する
 ## AI gallery
 
 m24-home-tag-product = 製品
+m24-home-tag-project = プロジェクト
 m24-home-tag-program = プログラム
 m24-home-tag-event = イベント
 m24-home-read-more = 詳しく読む
@@ -93,6 +96,7 @@ m24-home-topic-ai = 人工知能
 m24-home-topic-ps = プライバシーとセキュリティ
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = 見出し: あなたと AI とインターネット — 真実の現状
+m24-home-headline-you-ai-v2 = あなたと AI とインターネット — 真実の現状
 m24-home-introducing-anonym = { -brand-name-anonym } のご紹介: プライバシーを保護するデジタル広告の水準を引き上げる。
 m24-home-keeping-genai-technologies = 生成 AI の技術を安全に保つことは、共通の責任です。
 m24-home-from-hollywood-to = ハリウッドからヒップホップまで、アーティストたちは AI の同意について交渉しています。
@@ -112,6 +116,11 @@ m24-home-alt-rise25-proud = 誇りを感じる { -brand-name-rise25 } の受賞�
 m24-home-alt-rise25-smiling = 自信を持って微笑む { -brand-name-rise25 } の講演者。
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = 喜ぶ { -brand-name-rise25 } の受賞者。
+m24-home-state-of-mozilla = { -brand-name-mozilla } の現状
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } 2024」をお読みください。
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的なピクセルアート
+m24-home-read-the-report = レポートを読む
 
 ## Issues
 
