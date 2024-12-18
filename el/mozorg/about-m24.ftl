@@ -35,5 +35,6 @@ m24-about-join-us-and = Ελάτε μαζί μας και κάντε τη δια
 
 ## Community
 
+m24-about-community-love-v2 = Η αγάπη της κοινότητας, η κινητήριος δύναμή μας
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Η αγάπη της κοινότητας —<br> η κινητήριος δύναμή μας

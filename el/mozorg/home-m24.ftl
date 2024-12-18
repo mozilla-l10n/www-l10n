@@ -8,11 +8,13 @@
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Καλώς ορίσατε στη { -brand-name-mozilla }
 m24-home-learn-about-us = Μάθετε για εμάς
 
 ## Products
 
 m24-home-love-the-internet = Αγαπήστε ξανά το διαδίκτυο
+m24-home-explore-our-products = Εξερευνήστε τα προϊόντα μας
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
