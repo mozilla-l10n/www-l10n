@@ -70,7 +70,11 @@ firefox-all-the-standard-firefox = U navigaturi { -brand-name-firefox } nurmali 
 firefox-all-get-a-sneak-peek-at = Dùnaci na taliata a l'ùrtimi nuvità di { -brand-name-firefox } prima chi vennu pubblicati.
 firefox-all-arm64-installers = Nzitatura ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Nzitatura ARM64/AArch64 uttimizzati pi Windows e Linux.
+firefox-all-testflight = Scrìviti pi pruvari { -brand-name-firefox } pi iOS cu TestFlight
 firefox-all-product-send-link = Manna na lijami di scarricamentu ô to tilèfunu
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = Scarta nu nzitaturi a 32 bit pî computer c'un prucissuri a 32 bit — o pî computer cchiù vecchi o cchiù picca putenti. <a href="{ $url }">Si nun sì sicuru</a> si scartari 32 o 64 bit, ti cunzigghiamu di scartari 32 bit.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 #   $platform (string) e.g. Windows, macOS, Linux
