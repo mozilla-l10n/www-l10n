@@ -60,3 +60,5 @@ m24-about-see-open-positions = Ehecha mba’aporã nandíva
 m24-about-community-love-v2 = Tekohagua mborayhu, ore mongu’eha
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Tekohagua mborayhu —<br> ore mongu’eha
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Yvypóra vosa pumbyry ryrurã ha { -brand-name-mozilla } korõ reheve.

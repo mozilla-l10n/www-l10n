@@ -10,6 +10,7 @@ m24-home-page-title = Ñanduti yvypórape g̃uarã, ndaha’éi viru ñeganarã 
 m24-home-page-title-v2 = { -brand-name-mozilla } — Ñanduti yvypórape g̃uarã, ndaha’éi viru ñeganarã
 # HTML page description
 m24-home-page-desc = Eikuaápa { -brand-name-mozilla } — { -brand-name-firefox } apoharé — oñorairõ peteĩ ñanduti opavavépe g̃uarãva rehe, ijuruja ha oiporukuaáva maymaite tapicha.
+m24-home-page-desc-v2 = Ore romba’apo opytakuaa hag̃uáicha yvypóra ñanduti oiporúva pópe.
 
 ## Intro
 
