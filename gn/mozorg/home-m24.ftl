@@ -88,6 +88,7 @@ m24-home-alt-rise25-proud = Ovy’áva mbojopoipyre { -brand-name-rise25 }-pe.
 m24-home-alt-rise25-smiling = Peteĩ ñe’ẽkuaahára ijero ha opukavýva { -brand-name-rise25 }-pe.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ijuruvýva mbojopoipyre { -brand-name-rise25 }-pe.
+m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
 ## Issues
