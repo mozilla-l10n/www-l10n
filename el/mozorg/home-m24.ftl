@@ -35,8 +35,15 @@ m24-home-tag-program = Πρόγραμμα
 m24-home-tag-event = Εκδήλωση
 m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις ανάγκες, την περίπτωση χρήσης και τα δεδομένα σας.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Δωρίστε τη φωνή σας
@@ -56,9 +63,13 @@ m24-home-topic-ps = Απόρρητο και ασφάλεια
 
 ## Showcase
 
+m24-home-rise25-awards = Βραβεία { -brand-name-rise25 }
+m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
 m24-home-pni-search-now = Αναζήτηση τώρα
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.

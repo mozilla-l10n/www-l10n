@@ -23,6 +23,7 @@ m24-about-monitor = Monitor
 ## News
 
 m24-about-read-more = Διαβάστε περισσότερα
+m24-about-read-the-latest = Διαβάστε τις τελευταίες ειδήσεις και άρθρα από τη { -brand-name-mozilla }
 
 ## Showcase
 
@@ -31,6 +32,10 @@ m24-about-read-about-our = Διαβάστε για τη δέσμευσή μας
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Υπάλληλος της { -brand-name-mozilla } στο μέσο μιας συνομιλίας.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Υπάλληλος της { -brand-name-mozilla } που πίνει καφέ.
 m24-about-join-us-and = Ελάτε μαζί μας και κάντε τη διαφορά
 
 ## Community
