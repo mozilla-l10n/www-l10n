@@ -10,6 +10,7 @@ vpn-ip-address-what-is-an-ip-address = Što je IP-adresa?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } na wšě waše prašenja wo IP-adresach wotmołwja, na přikład što je IP-adresa, kak wona funguje a hač maće ju schować.
 vpn-ip-address-every-time-you = Kóždy raz, hdyž sće w interneće, IP-adresy wažnu rólu we wuměnjenju informacijow hraja, zo bychu wam pomhali, sej sydła wobhladać, kotrež was zajimuja. Ale je móžno, zo tajku adresu njespóznawaće, tohodla naličujemy deleka najhusćišo stajene prašenja.
+vpn-ip-address-your-ip-address = Waša IP-adresa je jónkróćny identifikator, podobna na e-mejlowu adresu, zwjazana z wašej aktiwitu online. Kóždy raz, hdyž sće w interneće (nakupowanje online, mejlki słać, TV-streaming), prosyće wo přistup k wěstemu cilej online a nawopak dóstanjeće informacije. Kak to funguje? IP za internetny protokol steji, kotryž standard a prawidła postaja (haj, te tež protokol rěkaja) za přenošowanje datow a zwiski z internetom. Tutón protokol je sadźba prawidłow, kotrychž so dyrbi kóždy wobdźělnik dźeržeć, zo bychu bidirekcionalny datowy běh zmóžnili.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Přikład IP-adresy, kotraž je slěd štyrjoch ličbow, dźělenych přez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jeli za wašej IP-adresu hladaće, wupada někak tak.
