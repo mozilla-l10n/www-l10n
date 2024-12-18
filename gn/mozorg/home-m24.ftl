@@ -22,9 +22,11 @@ m24-home-learn-about-us = Eikuaave ore rehegua
 m24-home-love-the-internet = Ehayhu jey ñanduti
 m24-home-explore-our-products = Eikuaave ore apore
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Eguereko iporãvéva eikundaha pya’eve hag̃ua, tekoñemi ha porukuaa.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Eiko porãve nde rekovépe peteĩ tembiporu’i ndive opaite ñanduti veve, arapapaha ha ñe’ẽmondorã.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Ehecha jehaipy imarãva, apopyre vai ha vendehára jerovia’ỹha.
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
@@ -52,10 +54,13 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Ereko LLM iporãva ne remikotevẽrã, jeporu ha mba’ekuaarã.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, { -brand-name-mozilla } myakãhára.
 m24-home-can-ai-be = ¿Ikatúpa IA rehe ejerovia?
 m24-home-watch-now = Ema’ẽ ko’ág̃a
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Eme’ẽmína nde ayvu
@@ -70,6 +75,7 @@ m24-home-tag-article = Jehaipyre
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Ta’ãngamýi
 m24-home-topic-news = Marandu
+m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Ñemigua ha Tekorosã
 
 ## Showcase
