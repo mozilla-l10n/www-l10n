@@ -23,5 +23,9 @@ vpn-ip-address-yes-even-if = Haj. Samo hdyž internet jenož doma wužiwaće, m�
 vpn-ip-address-can-more-than = Móže wjace hač jedyn grat samsnu IP-adresu měć?
 vpn-ip-address-this-is-a = To je trochu zašmjatane prašenje – wotmołwa je haj kaž tež ně. Wjacore graty móža samsnu eksternu (zjawnu) IP-adresu dźělić, ale kóždy grat ma swójsku lokalnu (priwatnu) IP-adresu. Waš internetny poskićowar (ISP) na přikład wašu domiznu z jednej eksternej IP-adresu zarjaduje. Dokelž so waš router poprawom z internetom zwjazuje, so IP-adresa wašemu routerej připokaza. Waš router potom kóždemu gratej, kotryž je z internetom zwjazany, lokalnu IP-adresu připokazuje. Eksterna IP-adresa so z wonkownym swětom dźěli. Waša lokalna IP-adresa so zwonka wašeje priwatneje syće doma njedźěli.
 vpn-ip-address-can-we-run = Mamy hišće dosć z nich?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Hdyž je so internet prěni raz naćisnył, je adresy „wersije 4“ wužiwał. Tute su z 32 bitow, to rěka, zo móžachmy hač do <a href="{ $sr }">4,2 miliardy adresow</a> měć. To zdaše  so tehdy wjace hač dosć być, ale w swěće zdaloka dosć njejsu, hdźež přerězna US-ameriska domjacnosć <a href="{ $variety }">11 zwjazanych gratow</a> měješe.
 vpn-ip-address-should-you-hide = Dyrbjał wy swoju IP-adresu schować?
 vpn-ip-address-how-do-you = Kak móžeće ju schować?
