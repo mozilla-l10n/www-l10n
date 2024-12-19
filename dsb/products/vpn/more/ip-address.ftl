@@ -9,6 +9,7 @@
 vpn-ip-address-what-is-an-ip-address = Co jo IP-adresa?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } na wšykne waše pšašanja wó IP-adresach wótegranja, na pśikład co jo IP-adresa, kak wóna funkcioněrujo a lěc maśo ju schowaś.
+vpn-ip-address-every-time-you = Kuždy raz, gaž sćo w interneśe, IP-adrese wažnu rolu we wuměnjenju informacijow graju, aby wam pomagali, se sedła woglědaś, kótarež was zajmuju. Ale jo móžno, až taku adresu njespóznawaśo, togodla nalicyjomy dołojce nejcesćej stajone pšašanja.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Pśikład IP-adrese, kótaraž jo slěd styrich licbow, źělonych pśez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jolic za wašeju IP-adresu glědaśo, wuglěda někak tak.
