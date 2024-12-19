@@ -15,6 +15,9 @@ vpn-ip-address-your-ip-address = Waša IP-adresa jo jadnorazowy identifikator, p
 vpn-ip-address-an-example-of-an-ip = Pśikład IP-adrese, kótaraž jo slěd styrich licbow, źělonych pśez decimalne dypki: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Jolic za wašeju IP-adresu glědaśo, wuglěda někak tak.
 vpn-ip-address-does-it-travel = Pśewóźujo was ducy?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Ně. Waša IP-adresa jo jano z jadnym stojnišćom zwězana, snaźkuli VPN wužywaśo (pśiźomy pózdźej na to slědk). Gaž sćo doma a se z internetom zwězujośo, za kótaryž płaśiśo, wužywaśo taku adresu. Jolic pak doma zajtša swóje mejlki wótwołujośo, pón w lokalnej kafejowni powěsći cytaśo, mjaztym až na swój kofej cakaśo, a pón w běrowje źěłaśo, wužywaśo kuždy raz za kužde stojnišćo drugu IP-adresu.
 vpn-ip-address-does-your-ip = Změnja se waša IP-adresa?
 vpn-ip-address-yes-even-if = Jo. Samo gaby wy internet jano doma wužywał, móžo se IP-adresa tam změniś. Móžośo se ze swójim internetnym póbitowarjom (ISP) do zwiska stajiś, aby ju změnił, ale samo take wšedne ako nowy start wašogo modema abo routera problemow z internetnym zwiskom dla móžo k změnje wjasć.
 vpn-ip-address-can-more-than = Móžo wěcej ako jaden rěd tu samsku IP-adresu měś?
