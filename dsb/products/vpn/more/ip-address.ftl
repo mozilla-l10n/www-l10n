@@ -21,6 +21,7 @@ vpn-ip-address-no-your-ip-v2 = Ně. Waša IP-adresa jo jano z jadnym stojnišćo
 vpn-ip-address-does-your-ip = Změnja se waša IP-adresa?
 vpn-ip-address-yes-even-if = Jo. Samo gaby wy internet jano doma wužywał, móžo se IP-adresa tam změniś. Móžośo se ze swójim internetnym póbitowarjom (ISP) do zwiska stajiś, aby ju změnił, ale samo take wšedne ako nowy start wašogo modema abo routera problemow z internetnym zwiskom dla móžo k změnje wjasć.
 vpn-ip-address-can-more-than = Móžo wěcej ako jaden rěd tu samsku IP-adresu měś?
+vpn-ip-address-this-is-a = To jo pitśku śěžke pšašanje – wótegrono jo ako jo ako teke ně. Někotare rědy mógu samsku eksternu (zjawnu) IP-adresu źěliś, ale kuždy rěd ma swójsku lokalnu (priwatnu) IP-adresu. Waš internetny póbitowaŕ (ISP) na pśikład wašu doma z jadneju eksterneju IP-adresu zarědujo. Dokulaž se waš router pópšawem z internetom zwězujo, se IP-adresa wašomu routeroju pśipokažo. Waš router pón kuždemu rědoju, kótaryž jo z internetom zwězany, lokalnu IP-adresu pśipokazujo. Eksterna IP-adresa se z wenkownym swětom źěli. Waša lokalna IP-adresa se zwenka wašeje priwatneje seśi doma njeźěli.
 vpn-ip-address-can-we-run = Mamy hyšći dosć z nich?
 vpn-ip-address-should-you-hide = Dejał wy swóju IP-adresu schowaś?
 vpn-ip-address-how-do-you = Kak móžośo ju schowaś?
