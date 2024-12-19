@@ -27,5 +27,6 @@ vpn-ip-address-can-we-run = Mamy hišće dosć z nich?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Hdyž je so internet prěni raz naćisnył, je adresy „wersije 4“ wužiwał. Tute su z 32 bitow, to rěka, zo móžachmy hač do <a href="{ $sr }">4,2 miliardy adresow</a> měć. To zdaše  so tehdy wjace hač dosć być, ale w swěće zdaloka dosć njejsu, hdźež přerězna US-ameriska domjacnosć <a href="{ $variety }">11 zwjazanych gratow</a> měješe.
+vpn-ip-address-we-now-have = Mamy nětko IP-adresy wersije 6, kotrež maja 128 bitow na adresu. Bohužel njemóžetej so wersija 4 a wersija 6 direktnje dorozumić, tohodla budu ludźo hišće adresy wersije 4 za dołhi čas trjebać.
 vpn-ip-address-should-you-hide = Dyrbjał wy swoju IP-adresu schować?
 vpn-ip-address-how-do-you = Kak móžeće ju schować?
