@@ -58,7 +58,7 @@ new-platform-download-mozilla-desc-windows = Use o { -brand-name-mozilla } { -br
 new-platform-download-the-fastest-windows = Use o { -brand-name-firefox } para { -brand-name-windows } mais rápido já feito
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = Carregamento de páginas mais rápido, menos uso de memória e cheio de recursos, o novo { -brand-name-firefox } para { -brand-name-windows } está aqui.
-new-platform-firefox-moves-fast = O { -brand-name-firefox } age rápido e trata seus dados com cuidado - sem rastreamento de anúncios e sem lentidão.
+new-platform-firefox-moves-fast = O { -brand-name-firefox } é rápido e trata seus dados com cuidado, sem rastreamento publicitário e sem lentidão.
 new-platform-common-sense-privacy = Privacidade sensata
 new-platform-live-your-life = Use como quiser, o { -brand-name-firefox } não vigia você. Escolha o que compartilhar e quando compartilhar.
 new-platform-seamless-setup = Configuração tranquila
