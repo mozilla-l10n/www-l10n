@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Njetrjebaće swoju IP-adresu schować, ale su ně
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Su tež situaciske přičiny za schowanje wašeje IP-adresy. Chceće snano ju schować, hdyž sće ducy. VPN wam tež <a href="{ $url }">wjace priwatnosće</a> dawa, hdyž z WLAN zwjazujeće, zo byšće streamował a nakupował, mjeztym zo swět wuslědźeće.
 vpn-ip-address-how-do-you = Kak móžeće ju schować?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = VPN je móžnosć, zo by so IP-adresa schowała. <a href="{ $vpn }">Hdyž VPN wužiwaće</a>, waša eksterna IP-adresa wot eksterneje IP serwera VPN přińdźe, město wot eksterneje IP-adresy wašeho stejnišća. Jeli tuž waš zwjazowacy serwer VPN je w Kaliforniskej, waša eksterna IP wupada, jako by z Kaliforniskeje zwjazana, wšojedne, hdźež tuchwilu sće. Nimo toho so waša aktiwita online přez zaklučowany, wěsty zwisk  z wašim serwerom VPN sćele a dawa wam přidatnu wěstotu a priwatnosć. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je jedna móžnosć, z kotrejž móžeće swoju IP-adresu schować. Njewobchowujemy protokole wašeje syćoweje aktiwity a nimamy partnerstwa z třećimi poskićowarjemi, kotrež profile wo tym załožuja, štož online činiće. Poskićamy dospołny gratowy škit za hač do pjeć gratow ze serwerami we wjace hač { $countries } krajach, móžeće so wšudźe a wot wšudźe zwjazać.
