@@ -16,6 +16,7 @@ vpn-ip-address-an-example-of-an-ip = Pśikład IP-adrese, kótaraž jo slěd sty
 vpn-ip-address-if-you-look-up-your = Jolic za wašeju IP-adresu glědaśo, wuglěda někak tak.
 vpn-ip-address-does-it-travel = Pśewóźujo was ducy?
 vpn-ip-address-does-your-ip = Změnja se waša IP-adresa?
+vpn-ip-address-yes-even-if = Jo. Samo gaby wy internet jano doma wužywał, móžo se IP-adresa tam změniś. Móžośo se ze swójim internetnym póbitowarjom (ISP) do zwiska stajiś, aby ju změnił, ale samo take wšedne ako nowy start wašogo modema abo routera problemow z internetnym zwiskom dla móžo k změnje wjasć.
 vpn-ip-address-can-more-than = Móžo wěcej ako jaden rěd tu samsku IP-adresu měś?
 vpn-ip-address-can-we-run = Mamy hyšći dosć z nich?
 vpn-ip-address-should-you-hide = Dejał wy swóju IP-adresu schowaś?
