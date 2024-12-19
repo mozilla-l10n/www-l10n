@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Få de bedste tips til { -brand-name-firefox } og opdateringer om nye tiltag direkte i din indbakke. Vi lover at passe godt på din mailadresse og deler den selvfølgelig ikke med nogen.
+footer-refresh-discover-mozilla-products = Opdag produkter og initiativer fra { -brand-name-mozilla }. Vi lover at holde din mailadresse privat og sikker — ingen deling, intet salg, kun gode nyheder.
 footer-refresh-leadership = Lederskab
 footer-refresh-advertise = Annoncér med { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Om de seneste udgivelser af { -brand-name-firefox }
@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Cookies
 footer-refresh-websites-legal = Juridisk
 footer-refresh-community-participation-guidelines = Retningslinjer for deltagelse i fællesskabet
 footer-refresh-about-this-site = Om dette websted
+footer-refresh-all-languages = Alle sprog
 footer-refresh-language = Sprog
+footer-refresh-primary-nav-aria-label = Primær sidefod
+footer-refresh-secondary-nav-aria-label = Sekundær sidefod
