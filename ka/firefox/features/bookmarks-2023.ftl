@@ -17,7 +17,7 @@ bookmark-manager-collect-your-bookmarks-in-folders = მოაგროვეთ
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = სანიშნების მმართველის სარკმლის გამოსახულება { -brand-name-firefox }-ში.
 bookmark-manager-easily-import-bookmarks = მარტივად გადმოიტანეთ სანიშნები
-bookmark-manager-you-can-import-your-bookmarks = სანიშნეების გადმოტანა შეგიძლიათ Chrome-იდან, Safari-დან ან Edge-იდან { -brand-name-firefox }-ის გადმოტანის მეგზურით. მხოლოდ დაწკაპეთ სანიშნები > სანიშნების მართვა, შემდეგ კი აირჩიეთ „შემოტანა და მარქაფი“.
+bookmark-manager-you-can-import-your-bookmarks = სანიშნების გადმოსატანად მხარდაჭერილია Chrome, Safari ან Edge და გადმოტანის მეგზურით სწრაფადვე დაამუშავებს { -brand-name-firefox }. მხოლოდ დაწკაპეთ სანიშნები > სანიშნების მართვა, შემდეგ კი აირჩიეთ „შემოტანა და მარქაფი“.
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = { -brand-name-firefox }-ის გადმოტანის მეგზურის სარკმლის გამოსახულება, რომელშიც ნაჩვენებია სხვა ბრაუზერიდან მონაცემთა გადმოტანის პარამეტრები.
 bookmark-manager-bookmarks-toolbar = სანიშნების ხელსაწყოთა ზოლი
