@@ -18,7 +18,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } ਲਈ { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } ਲਈ { -brand-name-beta }
-footer-visit-mozilla-corporations = <a { $mofo_link }>{ -brand-name-mozilla-corporation } </a> ਦੇ ਗ਼ੈਰ-ਫਾਇਦਾ ਮੂਲ <a { $moco_link }>{ -brand-name-mozilla-foundation }</a> ਨੂੰ ਵੇਖੋ।
+footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ਦੇ ਗ਼ੈਰ-ਫਾਇਦਾ ਮੂਲ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ਨੂੰ ਵੇਖੋ।
 footer-portions-of-this-content = ਇਸ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–{ $current_year } ਲਈ ਨਿੱਜੀ mozilla.org ਯੋਗਦਾਨ ਕੋਲ ਹਨ। ਸਮੱਗਰੀ <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> ਦੇ ਅਧੀਨ ਉਪਲਬਧ ਹੈ।
 footer-mozilla = { -brand-name-mozilla }
 footer-company = ਕੰਪਨੀ
