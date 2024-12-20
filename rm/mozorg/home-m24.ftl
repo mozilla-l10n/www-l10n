@@ -78,9 +78,27 @@ m24-home-alt-ventures = Oratur sin la tribuna cun logos da differents products.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Has ti in start-up en la fasa iniziala? Preschenta tia interpresa a { -brand-name-mozilla-ventures } ed obtegna la finanziaziun per contribuir ad in svilup positiv per l’avegnir da la IA e l’internet.
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Dà tia vusch per render la tecnologia vocala pli inclusiva ed accessibla per ina e scadin.
+m24-home-donate-your-voice = Fa ina donaziun cun tia vusch
 
 ## Media Springboard
 
+m24-home-type = Tip
+m24-home-author = Autur:a
+m24-home-topic = Tema
+m24-home-intro = Intro
+m24-home-tag-article = Artitgel
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Novas
+m24-home-topic-ai = Intelligenza artifiziala
+m24-home-topic-ps = Protecziun da datas & segirezza
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Titel: Ti, l’IA e l’internet – tge capita propi?
+m24-home-headline-you-ai-v2 = Ti, l’IA e l’internet – tge capita propi?
+m24-home-introducing-anonym = Nus ta preschentain { -brand-name-anonym }: nus auzain il nivel da la reclama digitala che resguarda la protecziun da datas.
+m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia GenAI è ina responsabladad communabla.
+m24-home-from-hollywood-to = Da Hollywood fin a hip hop: artists discutan il consentiment a l’utilisaziun da las datas per l’IA.
 
 ## Showcase
 
