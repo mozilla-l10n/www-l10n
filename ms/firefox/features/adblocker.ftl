@@ -38,21 +38,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> merupa
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Semua perisian ini boleh diguna pakai dengan kedua-dua <a { $attrs1 }>{ -brand-name-firefox } untuk komputer dekstop</a> dan <a { $attrs2 }>Android</a>.
 
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Ada <a href="{ $url }">AdBlocker Ultimate</a> yang menyingkirkan setiap iklan, tetapi pembeli perlu beringat. Sesetengah akhbar dan majalah kegemaran anda bergantung pada pengiklanan. Terlalu ramai yang menyekat iklan mereka boleh menjejaskan perniagaan mereka.
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Iklan pop timbul adalah yang paling teruk. Sekat iklan tersebut dengan <a href="{ $url }">Popup Blocker</a> dan anda tak akan nampak pop timbul yang merimaskan itu lagi.
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Salah satu penyekat iklan yang paling popular untuk { -brand-name-chrome }, { -brand-name-safari } dan { -brand-name-firefox } ialah <a href="{ $url }">AdBlock</a>. Gunakan untuk menyekat iklan di { -brand-name-facebook }, { -brand-name-youtube } dan { -brand-name-hulu }.
-
 features-adblocker-create-a-tracker-free = Cipta zon bebas penjejak dengan Sekatan Kandungan
 
 # Variables:

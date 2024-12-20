@@ -38,21 +38,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> は、
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = これらの拡張機能は、<a { $attrs1 }>デスクトップ版</a>および <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> の両方に対応しています。
 
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = あらゆる広告を除去する <a href="{ $url }">AdBlocker Ultimate</a> などがありますが、ご注意ください。いつも見ている新聞や雑誌などの中には、広告収入で運営しているものもあります。広告をブロックする人が増えすぎれば、存続できなくなってしまう可能性があります。
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = ポップアップ広告は何より悪質です。<a href="{ $url }">ポップアップブロッカー</a>でブロックすれば、もう迷惑なポップアップに悩まされることはありません。
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }、{ -brand-name-safari }、{ -brand-name-firefox } で特に人気の広告ブロッカーは <a href="{ $url }">AdBlock</a> です。{ -brand-name-facebook } や { -brand-name-youtube }、{ -brand-name-hulu } などの広告をブロックできます。
-
 features-adblocker-create-a-tracker-free = コンテンツブロッキングでノートラッカーゾーンを作る
 
 # Variables:

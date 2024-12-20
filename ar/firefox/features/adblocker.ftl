@@ -38,21 +38,6 @@ features-adblocker-ghostery-is-another-great = كما تُعد أداة <a { $at
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = تعمل هذه الإضافات بشكل رائع على <a { $attrs1 }>{ -brand-name-firefox } لِكل من سطح المكتب</a> و <a { $attrs2 }>أندرويد</a>.
 
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = هنالك حاجب إعلانات يُسمى <a href="{ $url }">AdBlocker Ultimate</a>، يمكنه حجب جميع الإعلانات، ولكن يجب الحذر قبل شرائه. فبعض الصُحف والمجلات المفضلة لديك تعتمد على الإعلانات. وإذا حجب عدد كبير جدًا من الأشخاص إعلانات هذه الصحف والمجلات، قد يتسبب ذلك في توقف عملهم.
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = الإعلانات المُنبثقة هي الأسوأ. حيث يمكن حجبها باستخدام <a href="{ $url }">Popup Blocker</a>، ويجب عليك عدم التعامل مع أي نافذة منبثقة مزعجة مرة أخرى.
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = هذا ويُعد <a href="{ $url }">AdBlock</a> أحد أكثر حاجبات الإعلانات شهرة لمُتصفحات { -brand-name-chrome } و{ -brand-name-safari } و{ -brand-name-firefox }. فاستخدمه لحجب الإعلانات على { -brand-name-facebook } و{ -brand-name-youtube } و{ -brand-name-hulu }.
-
 features-adblocker-create-a-tracker-free = أَنْشِئْ منطقة خالية من التعقب باستخدام إعدادات حجب المحتوى
 
 # Variables:

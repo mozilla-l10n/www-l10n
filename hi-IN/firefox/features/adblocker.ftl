@@ -38,21 +38,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> एक
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ये एक्सटेंशन <a { $attrs1 }>डेस्कटॉप</a> और <a { $attrs2 }>Android हेतु { -brand-name-firefox }</a> दोनों पर बहुत अच्छी तरह काम करते हैं।
 
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> हर विज्ञापन को दूर कर देगा, मगर खरीदने से पहले सावधान रहें। आपके कुछ पसंदीदा अखबार और मैगजीन विज्ञापनों पर निर्भर रहते हैं। अगर बहुत ज़्यादा लोग विज्ञापन ब्लॉक करने लगेंगे, तो उनका बिज़नेस एकदम चौपट हो जाएगा।
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = पॉप-अप विज्ञापन सबसे बुरे होते हैं। <a href="{ $url }">पॉप-अप ब्लॉकर</a> से उन्हें ब्लॉक करें और परेशान करने वाले पॉप-अप से छुटकारा पाएँ।
-
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }, { -brand-name-safari } और { -brand-name-firefox } के सबसे लोकप्रिय ऐड-ब्लॉकर में से एक है: <a href="{ $url }">AdBlock</a>। इसकी मदद से { -brand-name-facebook }, { -brand-name-youtube } और { -brand-name-hulu } में विज्ञापन ब्लॉक करें।
-
 features-adblocker-create-a-tracker-free = कंटेंट ब्लॉकिंग के साथ ट्रैकर-फ़्री ज़ोन बनाएँ
 
 # Variables:
