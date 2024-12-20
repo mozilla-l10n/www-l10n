@@ -25,13 +25,7 @@ newsletter-form-im-okay-with-mozilla = ليس لديَّ مشكلة في معا�
 
 newsletter-form-we-will-only-send-v2 = لن نُرسل إليك إلا معلومات تتعلق بـ { -brand-name-mozilla }. يُمكنك إلغاء الاشتراك في أي وقت.
 
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = لن نُرسل إليك إلا معلومات { -brand-name-mozilla } ذات الصلة.
-
 newsletter-form-we-will-only-send-firefox-v2 = لن نُرسل إليك إلا معلومات تتعلق بـ { -brand-name-firefox }. يُمكنك إلغاء الاشتراك في أي وقت.
-
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = لن نُرسل إليك إلا معلومات { -brand-name-firefox } ذات الصلة.
 
 newsletter-form-if-you-havent-previously = إذا لم تكن قد أكدت مسبقًا الاشتراك في رسائل { -brand-name-mozilla } الإخبارية ذات الصلة، ربما تحتاج إلى القيام بذلك. يُرجى التحقق من صندوق الوارد الخاص بك أو عامل تصفية البريد العشوائي الخاص بك بحثًا عن بريد إلكتروني منا.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + أنت

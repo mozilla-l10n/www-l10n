@@ -25,13 +25,7 @@ newsletter-form-im-okay-with-mozilla = Ich bin einverstanden, dass { -brand-name
 
 newsletter-form-we-will-only-send-v2 = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-mozilla }. Du kannst das Abo jederzeit beenden.
 
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-mozilla }.
-
 newsletter-form-we-will-only-send-firefox-v2 = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-firefox }. Du kannst das Abo jederzeit beenden.
-
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Wir schicken dir nur Informationen mit Bezug zu { -brand-name-firefox }.
 
 newsletter-form-if-you-havent-previously = Wenn du bisher noch kein Abonnement eines { -brand-name-mozilla }-Newsletters bestätigt hast, musst du dies vielleicht jetzt tun. Schau bitte in deinem Posteingang oder deinem Spam-Filter nach einer E-Mail von uns.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + du

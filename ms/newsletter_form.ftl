@@ -25,13 +25,7 @@ newsletter-form-im-okay-with-mozilla = Saya OK saja dengan { -brand-name-mozilla
 
 newsletter-form-we-will-only-send-v2 = Kami hanya akan menghantar anda maklumat yang berkaitan dengan { -brand-name-mozilla }. Anda boleh berhenti langgan bila-bila masa.
 
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Kami hanya akan menghantar anda maklumat yang berkaitan dengan { -brand-name-mozilla }.
-
 newsletter-form-we-will-only-send-firefox-v2 = Kami hanya akan menghantar anda maklumat yang berkaitan dengan { -brand-name-firefox }. Anda boleh berhenti langgan bila-bila masa.
-
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Kami hanya akan menghantar anda maklumat yang berkaitan dengan { -brand-name-firefox }.
 
 newsletter-form-if-you-havent-previously = Jika anda belum mengesahkan langganan buletin { -brand-name-mozilla }, anda mungkin perlu melakukannya. Sila semak peti e-mel atau penapis spam anda untuk e-mel daripada kami.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Anda

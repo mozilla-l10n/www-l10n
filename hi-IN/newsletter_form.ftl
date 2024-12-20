@@ -25,13 +25,7 @@ newsletter-form-im-okay-with-mozilla = इस <a href="{ $url }">निजता
 
 newsletter-form-we-will-only-send-v2 = हम आपको केवल { -brand-name-mozilla } संबंधित जानकारी भेजेंगे। आप कभी भी अनसब्सक्राइब कर सकते हैं।
 
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = हम आपको केवल { -brand-name-mozilla } संबंधित जानकारी भेजेंगे।
-
 newsletter-form-we-will-only-send-firefox-v2 = हम आपको केवल { -brand-name-firefox } संबंधित जानकारी भेजेंगे। आप कभी भी अनसब्सक्राइब कर सकते हैं।
-
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = हम आपको केवल { -brand-name-firefox } संबंधित जानकारी भेजेंगे।
 
 newsletter-form-if-you-havent-previously = अगर आपने पिछली किसी { -brand-name-mozilla }-संबंधित खबर की सदस्यता की पुष्टि नहीं की है, तो आपको ऐसा करना पड़ सकता है। कृपया अपने इनबॉक्स या स्पैम फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल तलाशें।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + आप
