@@ -37,6 +37,9 @@ m24-about-we-fund-and = Financiamos e investimos em pessoas e esforços para lev
 
 m24-about-read-more = Saiba mais
 m24-about-read-the-latest = Leia os últimos artigos e notícias da { -brand-name-mozilla }
+m24-about-at-our-rise25 = Em nossos prêmios { -brand-name-rise25 }, o futuro da inteligência artificial é confiável, inclusivo e responsável
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Ganhadora do prêmio { -brand-name-rise25 } apontando para seu troféu.
 m24-about-empowering-chicagos-entrepreneurs = Capacitação de empreendedores de Chicago para mudança geracional
 # Used as an accessible text alternative for an image
 m24-about-chicago = Um empreendedor de Chicago.
