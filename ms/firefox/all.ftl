@@ -6,13 +6,10 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Muat turun { -brand-name-firefox } dalam Bahasa Inggeris (AS) dan lebih daripada 90 bahasa lain
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Muat turun { -brand-name-firefox-browser } dalam Bahasa Inggeris (AS) dan lebih daripada 90 bahasa lain
+
 
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Semua orang berhak mengakses internet — bahasa anda tidak sepatutnya menjadi penghalang. Kerana itulah — dengan bantuan sukarelawan berdedikasi di seluruh dunia — kami membolehkan { -brand-name-firefox } didapati dalam lebih 90 bahasa.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Semua orang berhak mengakses internet — bahasa anda tidak sepatutnya menjadi penghalang. Kerana itulah — dengan bantuan sukarelawan berdedikasi di seluruh dunia — kami membolehkan { -brand-name-firefox-browser } didapati dalam lebih 90 bahasa.
 
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
@@ -29,14 +26,8 @@ firefox-all-down-arrow = Pilih daripada senarai di bawah
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Dapatkan bantuan
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Pelayar:
 firefox-all-browser-v2 = 1. Pelayar:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platform:
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Bahasa:
 firefox-all-language-v2 = 3. Bahasa
 firefox-all-download = 4. Muat turun
 firefox-all-desktop = Desktop
