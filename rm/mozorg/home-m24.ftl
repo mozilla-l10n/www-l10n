@@ -99,6 +99,7 @@ m24-home-headline-you-ai-v2 = Ti, l’IA e l’internet – tge capita propi?
 m24-home-introducing-anonym = Nus ta preschentain { -brand-name-anonym }: nus auzain il nivel da la reclama digitala che resguarda la protecziun da datas.
 m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia GenAI è ina responsabladad communabla.
 m24-home-from-hollywood-to = Da Hollywood fin a hip hop: artists discutan il consentiment a l’utilisaziun da las datas per l’IA.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebrescha las creadras ed ils creaders innovativs cun la nova seria documentara «{ -brand-name-firefox } preschenta.»
 
 ## Showcase
 
