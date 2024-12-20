@@ -24,10 +24,6 @@ nightly-whatsnew-if-you-want-to-v3 = Si vous voulez vous tenir au courant de tou
 
 # Variables:
 #   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Vous souhaitez savoir quelles fonctionnalités de la plateforme vous pouvez tester sur { -brand-name-nightly }, que vous ne pouvez pas encore essayer sur les autres versions de { -brand-name-firefox } ? Jetez un œil à la page des préférences de <a { $attrs }>Nightly Experiments</a>.
-# Variables:
-#   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Vous souhaitez savoir quelles fonctionnalités de la plateforme vous pouvez tester sur { -brand-name-nightly }, que vous ne pouvez pas encore essayer sur les autres versions de { -brand-name-firefox } ? Consultez la page des préférences de <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
 # Variables:
