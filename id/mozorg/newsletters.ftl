@@ -119,14 +119,8 @@ newsletters-unlock-the-world-of-web = Buka kunci dunia pengembangan web dengan B
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Dapatkan hasil maksimal dari { -brand-name-firefox }
 
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Taruh lebih banyak rubah di kotak masuk Anda.
-
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Daftar untuk menerima informasi bulanan dari { -brand-name-firefox } serta tren internet yang memengaruhi kehidupan daring Anda.
-
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Lihat ke mana Web dapat membawa Anda dengan kiat, trik, dan intel Internet { -brand-name-firefox } bulanan.
 
 newsletters-we-are-sorry-but-there = Maaf, tampaknya ada masalah dengan sistem kami. Silakan coba lagi nanti.
 newsletters-thanks-for-updating-your = Terima kasih telah memperbarui preferensi email Anda.

@@ -119,14 +119,8 @@ newsletters-unlock-the-world-of-web = 週刊の { -brand-name-mozilla } のデ�
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = { -brand-name-firefox } を最大限に活用しましょう
 
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = もっと Firefox からお便りさせてください
-
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = ニュースレターにご登録ください。{ -brand-name-firefox } からの毎月の最新情報や、あなたのオンライン生活を形成するインターネットのトレンドをお届けします。
-
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = 毎月の { -brand-name-firefox } に関するヒントやコツ、インターネットに関する情報で、ウェブでの冒険がもっとダイナミックに
 
 newsletters-we-are-sorry-but-there = Mozilla のシステムに問題が発生しました。お手数ですが、後でもう一度試してください。
 newsletters-thanks-for-updating-your = メールの設定を更新していただき、ありがとうございました。

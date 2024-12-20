@@ -119,14 +119,8 @@ newsletters-unlock-the-world-of-web = Öffne dir die Welt der Web-Entwicklung mi
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Mach das Beste aus { -brand-name-firefox }
 
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Mehr Fuchs für deinen Posteingang.
-
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Melde dich für monatliche Updates von { -brand-name-firefox } und den neuesten Internet-Trends an und gestalte dein Online-Leben.
-
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Einmal im Monat zeigen wir dir mit Tipps und Tricks zu { -brand-name-firefox } und dem Internet, wozu du das Web nutzen kannst.
 
 newsletters-we-are-sorry-but-there = Es tut uns leid, in unserem System ist ein Fehler aufgetreten. Bitte versuche es später erneut!
 newsletters-thanks-for-updating-your = Danke für die Aktualisierung Ihrer E-Mail-Einstellungen.
