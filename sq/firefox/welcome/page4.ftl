@@ -15,7 +15,7 @@ welcome-page4-get-the-firefox-mobile = Merrni { -brand-name-firefox }-in për Ce
 welcome-page4-get-firefox-on-your-phone = Merreni { -brand-name-firefox }-in në Telefonin tuaj
 welcome-page4-send-the-download-link-right = Dërgojeni lidhjen e shkarkimit drejt e te telefoni ose email-i juaj.
 welcome-page4-download-firefox-for-your = Shkarkoni { -brand-name-firefox }-in për telefonin apo tabletin tuaj.
-welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Shfletues Privat, i Sigurt” në { -brand-name-ios } ose { -brand-name-android }.
+welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Shfletues Privat, i Parrezik” në { -brand-name-ios } ose { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Hiqini qafe gjurmuesit e të dhënave
 # Variables:

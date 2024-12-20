@@ -10,7 +10,7 @@ browsers-mobile-firefox-mobile-browsers-put = Shfletuesit { -brand-name-firefox 
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Një përmbledhje e krejt shfletuesve { -brand-name-firefox } për celularë ({ -brand-name-firefox } për { -brand-name-android }, { -brand-name-firefox } për { -brand-name-ios }, { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } për { -brand-name-android }
-browsers-mobile-infinitely-customizable-private = I ndryshueshëm si doni në rrugë të pafundme, privat dhe i sigurt, { -brand-name-firefox } për { -brand-name-android } është një shfletues i shpejtë si rrufe që nuk do t’ju shesë kurrë.
+browsers-mobile-infinitely-customizable-private = I ndryshueshëm si doni në rrugë të pafundme, privat dhe i siguruar, { -brand-name-firefox }-i për { -brand-name-android } është një shfletues i shpejtë si rrufe, që nuk do t’ju shesë kurrë.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } për { -brand-name-ios }
 browsers-mobile-go-your-own-way = Ecni në rrugën tuaj, me { -brand-name-firefox }-in për celular
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox }-i për celular ju përshtatet juve dhe e bën më të lehtë se kurrë të shihni krejt skedat e hapura, kërkime të dikurshme dhe sajte të parapëlqyer.

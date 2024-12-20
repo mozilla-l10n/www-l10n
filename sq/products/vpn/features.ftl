@@ -34,7 +34,7 @@ vpn-features-fast-network = Shpejtësi të mëdha rrjeti teksa luani
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } përdor <a { $wireguard }>Wireguard</a>™, një nga protokollet më të suksesshëm VPN.
-vpn-features-secure = I sigurt
+vpn-features-secure = I siguruar
 vpn-features-block-ads = Bllokojuni reklamuesve mundësinë t’ju kenë objekt
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } ju ndihmon t’u bllokoni automatikisht reklamave dhe gjurmuesve të reklamave të shohin veprimtarinë tuaj internetore.
 vpn-features-encrypt-your-internet = Fshehtëzoni krejt trafikun tuaj internet

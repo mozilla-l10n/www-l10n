@@ -30,13 +30,13 @@ is-firefox-free = A është falas { -brand-name-firefox }-i?
 yep-the-firefox = Ëhë! { -brand-name-firefox-browser }-i është falas. Superfalas, faktikisht. S’ka kosto të fshehura, e më the, të thashë. S’paguani gjë për ta përdorur dhe nuk i shesim të dhënat tuaja personale.
 related-questions-free = Pyetje të afërta: a është falas { -brand-name-firefox-browser }-i, a kushton para { -brand-name-firefox }-i
 is-chrome-better = A është { -brand-name-chrome }-i më i mirë se { -brand-name-firefox }-i?
-no-we-dont = Jo, nuk besojmë se { -brand-name-chrome }-i është më i mirë se { -brand-name-firefox }-i dhe ja pse: kur njerëzit pyesin se cili shfletues është më i miri, në fakt pyesin se cili shfletues është më i shpejtë dhe më i sigurt. { -brand-name-firefox }-i përditësohet çdo muaj, për të garantuar se keni shfletuesin më të shpejtë, që respekton automatikisht privatësinë tuaj.
+no-we-dont = Jo, nuk besojmë se { -brand-name-chrome }-i është më i mirë se { -brand-name-firefox }-i dhe ja pse: kur njerëzit pyesin se cili shfletues është më i miri, në fakt pyesin se cili shfletues është më i shpejtë dhe më i siguraur. { -brand-name-firefox }-i përditësohet çdo muaj, për të garantuar se keni shfletuesin më të shpejtë, që respekton automatikisht privatësinë tuaj.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Shihni se si del { -brand-name-firefox }-i kundrejt { -brand-name-chrome }-it.</a>
-related-questions-better = Pyetje të afërta: a është { -brand-name-firefox }-i më i mirë se { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më i mirë se { -brand-name-google }, a është { -brand-name-firefox }-i më i sigurt se sa { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më privat se { -brand-name-chrome }-i
+related-questions-better = Pyetje të afërta: a është { -brand-name-firefox }-i më i mirë se { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më i mirë se { -brand-name-google }, a është { -brand-name-firefox }-i më i siguruar se sa { -brand-name-chrome }-i, a është { -brand-name-firefox }-i më privat se { -brand-name-chrome }-i
 is-firefox-safe-download = A është pa rrezik të shkarkohet { -brand-name-firefox }-i?
 
 # Variables:
@@ -49,7 +49,7 @@ is-firefox-safe = A është i parrezik { -brand-name-firefox }-i?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Jo vetëm që { -brand-name-firefox }-i është i parrezik për t’u përdoru, ai ndihmon gjithashtu të mbahen të parrezik dhënat tuaja dhe informacione private. { -brand-name-firefox-browser }-i u bllokon automatikisht grumbullimin e të dhënave tuaja gjurmuesve palë e tretë, gjurmuesve mediash shoqërore, nxjerrësve të kriptomonedhave dhe profilizuesve të ditur. <a href="{ $url }">Mësoni rreth privatësisë në produktet tona.</a>
-related-questions-safe = Pyetje të afërta: a është i mirë për privatësi { -brand-name-firefox }-i, a është i sigurt { -brand-name-firefox }-i, a është { -brand-name-firefox }-i më i mirë për privatësi
+related-questions-safe = Pyetje të afërta: a është i mirë për privatësi { -brand-name-firefox }-i, a është i siguruar { -brand-name-firefox }-i, a është { -brand-name-firefox }-i më i mirë për privatësi
 does-firefox-sell = A i shet { -brand-name-firefox }-i të dhënat tuaja personale?
 
 # Variables:

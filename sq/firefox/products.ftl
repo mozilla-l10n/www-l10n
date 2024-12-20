@@ -38,7 +38,7 @@ firefox-products-get-relay = Merrni { -brand-name-firefox-relay }-in
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-products-surf-stream-and-get-work-done = Shfletoni, shkarkoni dhe bëni punë në shërbyes në më shumë se 30 vende, për një lidhje të sigurt internet me një perspektivë të re.
+firefox-products-surf-stream-and-get-work-done = Shfletoni, shkarkoni dhe bëni punë në shërbyes në më shumë se 30 vende, për një lidhje internet të siguruar me një perspektivë të re.
 firefox-products-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 
 ## MDN Plus

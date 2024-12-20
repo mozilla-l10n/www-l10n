@@ -8,7 +8,7 @@
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 # HTML description
-mobile-android-firefox-browser-for = Shfletuesi { -brand-name-firefox } për { -brand-name-android } është i shpejtë, i sigurt dhe privat që herën e parë që e hapni.
+mobile-android-firefox-browser-for = Shfletuesi { -brand-name-firefox } për { -brand-name-android } është i shpejtë, i siguruar dhe privat që herën e parë që e hapni.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = Merrni { -brand-name-firefox }-in për { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Dërgoni te telefoni juaj një lidhje për shkarkim.

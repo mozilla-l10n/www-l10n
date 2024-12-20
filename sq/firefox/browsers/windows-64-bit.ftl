@@ -8,13 +8,13 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } për { -brand-name-windows } 64-bit
 # HTML page description
-windows-64-bit-users-on-64-bit-windows = Përdorues të { -brand-name-windows }-it për 64-bit të cilët shkarkojnë { -brand-name-firefox }-in mund të marrin, si parazgjedhje, versionin tonë 64-bit. Kjo do të thotë se merrni një version më të sigurt të { -brand-name-firefox }-it.
+windows-64-bit-users-on-64-bit-windows = Përdorues të { -brand-name-windows }-it për 64-bit të cilët shkarkojnë { -brand-name-firefox }-in mund të marrin, si parazgjedhje, versionin tonë 64-bit. Kjo do të thotë se merrni një version më të siguruar të { -brand-name-firefox }-it.
 windows-64-bit-64-bit = 64-bit
 # Main title
-windows-64-bit-a-more-secure-firefox = Një { -brand-name-firefox } më i sigurt.
+windows-64-bit-a-more-secure-firefox = Një { -brand-name-firefox } më i siguruar.
 # Variables:
 # $crashes (url) - link to https://blog.mozilla.org/firefox/defeat-browser-crashes/
-windows-64-bit-users-on-64-bit-windows-crashes = Përdorues të { -brand-name-windows }-it për 64-bit të cilët shkarkojnë { -brand-name-firefox }-in mund të marrin, si parazgjedhje, versionin tonë 64-bit. Kjo do të thotë se merrni një version më të sigurt të { -brand-name-firefox }-it, një që gjithashtu <a href="{ $crashes }">vithiset shumë më pak</a>. Sa më pak? Në provat tona deri këtu, { -brand-name-firefox }-i 64-bit i ul vithisjet me 39%, në makina me 4GB RAM ose më tepër.
+windows-64-bit-users-on-64-bit-windows-crashes = Përdorues të { -brand-name-windows }-it për 64-bit të cilët shkarkojnë { -brand-name-firefox }-in mund të marrin, si parazgjedhje, versionin tonë 64-bit. Kjo do të thotë se merrni një version më të siguruar të { -brand-name-firefox }-it, një që gjithashtu <a href="{ $crashes }">vithiset shumë më pak</a>. Sa më pak? Në provat tona deri këtu, { -brand-name-firefox }-i 64-bit i ul vithisjet me 39%, në makina me 4GB RAM ose më tepër.
 windows-64-bit-whats-the-difference = Cili është dallimi me 32-bitëshit dhe 64-bitëshit?
 # Variables:
 # $ASLR (url) - link to https://en.wikipedia.org/wiki/Address_space_layout_randomization
