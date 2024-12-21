@@ -33,6 +33,8 @@ m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje q
 m24-about-read-more = Lexoni më tepër
 m24-about-read-the-latest = Lexoni lajmet & artikujt më të rinj nga { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
+m24-about-rise25-award = Fitues i çmimit { -brand-name-rise25 } duke treguar trofeun e vet.
+# Used as an accessible text alternative for an image
 m24-about-chicago = Një Sipërmarrës nga Çikagoja.
 
 ## Showcase
