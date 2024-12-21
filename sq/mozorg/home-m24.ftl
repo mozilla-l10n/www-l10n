@@ -88,13 +88,27 @@ m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vë
 m24-home-introducing-anonym = Ju paraqesim { -brand-name-anonym }: Ngritje e nivelit për reklama dixhitale që ruajnë privatësinë.
 m24-home-keeping-genai-technologies = Mbajtja të siguruara e teknologjive GenAI është përgjegjësi e përbashkët.
 m24-home-mozilla-celebrates-groundbreaking = Në serinë e re të dokumentarëve “{ -brand-name-firefox } Presents” { -brand-name-mozilla } nderon krijuesit novatorë.
+m24-home-big-techs-power = Pushteti i shoqërive të mëdha teknologjike mbi gjuhën do të thotë pushtet mbi njerëzit. Bridget Todd bisedon me drejtues të bashkësisë së gjuhëve që shtrojnë udhën për IA zanore në gjuhët dhe dialektet e tyre.
+m24-home-why-does-it = Pse kaq shpesh na duket sikur jemi pjesë një eksperimenti masiv IA? Cila është rruga me përgjegjshmëri për të testuar teknologji të reja? Bridget Todd eksploron ç’do të thotë të jetosh me sisteme IA të paprovuar që ndikojnë mbi miliona vetë, teksa këto sisteme shtrihen në jetën publike.
+m24-home-kids-are-growing = Fëmijët rriten në një botë shumë internetore. Ç’duhet të bëjë një prind i preokupuar?
 
 ## Showcase
 
 m24-home-rise25-awards = Çmime { -brand-name-rise25 }
+m24-home-get-to-know = Njihuni me drejtuesit që mbrojnë një zhvillim të besueshëm, përfshirës dhe të tejdukshëm të IA-së, teksa vendosin një standard të ri dhe frymëzojnë brezin e ardhshëm të novatorëve.
 m24-home-watch-the-award = Shihni veprimtarinë e çmimeve
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Një fitues krenar në { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Gjendje e { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetveten, duke i bërë e larmishme përmes një yjësie entesh, duke ripërfytyruar reklamat dhe duke krijuar një ekosistem IA me burim të hapët. Mësoni rreth kësaj përmes Raportit “Gjendje e { -brand-name-mozilla } 2024”.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Art pikelash, abstrakt, në ngjyrime të të gjelbrës, portokallisë dhe rozës.
+m24-home-read-the-report = Lexoni raportin
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Pajisje të mençura me një ikonë “Kujdes!”.
+m24-home-explore-issues-shaping = Eksploroni çështje që i japin formë të ardhmes së internetit
 m24-home-pni-search-now = Kërkoni tani
 m24-home-irl-listen-now = Dëgjojeni tani
