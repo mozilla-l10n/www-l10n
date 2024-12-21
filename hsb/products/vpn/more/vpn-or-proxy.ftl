@@ -1,13 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Rozdźěl mjez VPN a proksy
+vpn-or-proxy-virtual-private-networks = Wirtuelne priwatne syće  (VPN) wěste webproksyje su rozrisanja za lěpšu priwatnosć a wěstotu online, ale móže zamylace być, wuslědźić, kotry je prawy za was. Hladajmy na to, kak tute słužby was škitaja a kak najwažnišu opciju wuběraće, hdyž sće online.
 vpn-or-proxy-stop-isps-from = Zadźěwajće tomu, zo ISP was wuskušujeće
+# Variables
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+#   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
+#   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
+vpn-or-proxy-when-you-use-firefox = Hdyž <a href="{ $firefox }">{ -brand-name-firefox } wužiwaće</a>, <a href="{ $etp }">Polěpšeny přesćěhanski škit</a> awtomatisce wjele <a href="{ $trackers }">webowych přesćěhowakow</a> třećich poskićowarjow při tym haći, wam w interneće slědować. Ale tu je zajimawy fakt: Waš internetny poskićowar (ISP), kotrehož za internetny zwisk płaćiće, móže hišće was wobkedźbować a wam slědować.
 vpn-or-proxy-when-should-you = Hdy dyrbjał wy VPN abo wěsty proksy wužiwać?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: škit na runinje wobhladowaka
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: škit na runinje grata
