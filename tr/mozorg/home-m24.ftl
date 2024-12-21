@@ -48,6 +48,7 @@ m24-home-donate = Bağış yapın
 ## AI gallery
 
 m24-home-tag-product = Ürün
+m24-home-tag-project = Proje
 m24-home-tag-program = Program
 m24-home-tag-event = Etkinlik
 m24-home-read-more = Devamını okuyun
@@ -112,6 +113,7 @@ m24-home-alt-rise25-proud = Gururlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-alt-rise25-smiling = Gülümseyen bir { -brand-name-rise25 } konuşmacısı.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
+m24-home-read-the-report = Raporu okuyun
 
 ## Issues
 
