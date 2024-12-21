@@ -20,6 +20,9 @@ vpn-or-proxy-when-should-you = Hdy dyrbjał wy VPN abo wěsty proksy wužiwać?
 vpn-or-proxy-vpns-and-secure = VPN a wěste webproksyje maja zhromadne zaměry: Zawěsćeja zwiski. Móža a činja to tež, wašu originalnu IP-adresu maskěrować a webwobchad škitać, kotryž mjez sobu a wašim VPN abo wěstym proksyjowym poskićowarjom sćeleće. Ale hdy chceće VPN resp. proksy wužiwał?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: škit na runinje wobhladowaka
 vpn-or-proxy-a-secure-web = Wěsty webproksy za nadawki funguje, kotrež wy móhł jenož w swojim wobhladowaku činić. To móže wjele aktiwitow wopřijeć, na přikład nakupować, zličbowanki zapłaćić, pola socialnych medijow přizjewić a mejlki čitać. Wěsty webproksy jako posrědnik mjez wašim wobhladowakom a internetom słuži. Daty wašeho internetneho přehladowanja tunl do interneta direktnje z wašeho wobhladowaka přeprěkuja a waša IP-adresa so maskěruje, zo by webserwer, kotryž skontaktujeće, dokładnje njewě, hdźež sće w swěće. A to poćežuje, wam sćěhować a na was wusměrić.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Proksy je wužitny, hdyž web w zjawnym WLAN přehladujeće. Hdyž proksy je zmóžnjeny, haći słucharjow w samsnej syći při tym, wašu přehladowansku aktiwitu wuskušić abo waše transakcije na njezaklučowanych sydłach čitać. Klinči njestrašne, ale zjawny syće WLAN móža kaž posleńca za <a href="{ $url }">zadobywarjow</a> być.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: škit na runinje grata
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunl“ mjez wašim gratom a internetom w cyłku wutworja. Škita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa so schowa. Tak so waša identita škita a waše stejnišćo znjespóznajomni.
