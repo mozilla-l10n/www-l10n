@@ -35,9 +35,11 @@ m24-home-keep-your-location = Mbani private vendndodhjen dhe aventurat tuaja —
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Merrni njoftim, nëse hollësitë tuaja personale janë në rrezik dhe kyçini si një profesionist.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t’ju vinë vetëm mesazhe që doni.
 
 ## Donate
 
+m24-home-donate-to-the = Dhuroni për entin jofitiprurës { -brand-name-mozilla }
 m24-home-were-proudly-nonprofit = Jemi me krenari jofitimprurës. Do të dhuroni sot për { -brand-name-mozilla }?
 m24-home-donate = Dhuroni
 
@@ -57,11 +59,17 @@ m24-home-llamafile = { -brand-name-llamafile }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Stemë e { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Gjeni LLM-në e duhur për nevojat, rastin dhe të dhënat tuaja.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, president i { -brand-name-mozilla }-s.
+m24-home-can-ai-be = A mund të jetë e besueshme IA-ja?
+m24-home-in-a-world = Në një botë ku risitë IA drejtohen nga pak të përzgjedhur, rrezikojmë monopolizimin e kësaj teknologjie. Zbatimi te IA i koncepteve të burimit të hapët mund ta ndryshojë këtë.
 m24-home-watch-now = Shiheni tani
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Folës në skenë me stema produktesh të ndryshëm.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Dhuroni zërin tuaj për ta bërë teknologjinë e të folurit më përfshirëse dhe të përdorshme nga kushdo.
 m24-home-donate-your-voice = Dhuroni zërin tuaj
 
 ## Media Springboard
@@ -76,6 +84,10 @@ m24-home-tag-video = Video
 m24-home-topic-news = Lajme
 m24-home-topic-ai = Inteligjencë Artificiale
 m24-home-topic-ps = Privatësi & Siguri
+m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
+m24-home-introducing-anonym = Ju paraqesim { -brand-name-anonym }: Ngritje e nivelit për reklama dixhitale që ruajnë privatësinë.
+m24-home-keeping-genai-technologies = Mbajtja të siguruara e teknologjive GenAI është përgjegjësi e përbashkët.
+m24-home-mozilla-celebrates-groundbreaking = Në serinë e re të dokumentarëve “{ -brand-name-firefox } Presents” { -brand-name-mozilla } nderon krijuesit novatorë.
 
 ## Showcase
 
