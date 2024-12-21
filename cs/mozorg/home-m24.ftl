@@ -18,7 +18,7 @@ m24-home-welcome-to-mozilla = Vítá vás { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Od důvěryhodných technologií až po zásady, které hájí vaše digitální práva, jste u nás vždy na prvním místě.
 m24-home-learn-about-us = Více informací o nás
 # Used as accessible text alternative for image
-m24-home-alt-flag = Stylizovaná zelená vlajka na černém pozadí, vytvořená z písmene „M“ pro { -brand-name-mozilla(case: "acc") } a pixelu, který je přemístěn tak, aby odkazoval na původní logo dinosaura.
+m24-home-alt-flag = Stylizovaná zelená vlajka na černém pozadí vytvořená z písmene "M" pro { -brand-name-mozilla } a pixelu, který je posunutý a odkazuje na původní logo dinosaura.
 
 ## Products
 
