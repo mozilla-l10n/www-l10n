@@ -10,18 +10,13 @@ facebook-container-millions-of-people-around = Miliona vetë anembanë rruzullit
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Nën frerë. Mbajeni pjesën tjetër të jetës tuaj për veten.
 facebook-container-get-the-facebook-container = Merrni { -brand-name-facebook-container } Extension
 facebook-container-download-firefox-and-get-the = Shkarkoni { -brand-name-firefox }-in dhe merrni zgjerimin { -brand-name-facebook-container } Extension
-facebook-container-only-available-for-desktop = Zgjerimi { -brand-name-facebook-container } aktualisht është i gatshëm vetëm për { -brand-name-firefox } për Desktop.
+facebook-container-only-available-for-desktop = Zgjerimi { -brand-name-facebook-container } aktualisht mund të kihet vetëm për { -brand-name-firefox } për Desktop.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Vizitoni <a href="{ $url }">{ $link_copy }</a> që të merrni { -brand-name-firefox }-in për Desktop.
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } Extension s’është gati për pajisje celulare.
 facebook-container-get-firefox-android-ios = Merreni { -brand-name-firefox } për { -brand-name-android } dhe { -brand-name-ios } që tani.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Provoni <strong>{ -brand-name-firefox-focus }</strong>, shfletuesin e privatësisë, për { -brand-name-android } dhe { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Zgjidhni të liheni jashtë, si të doni
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

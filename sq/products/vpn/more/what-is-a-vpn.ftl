@@ -14,7 +14,7 @@ vpn-what-is-how-do-vpns = Si funksionojnë VPN-tën?
 vpn-what-is-a-vpn-is = Një VPN është një mjet që ju lejon të hyni në internet në mënyrë të siguruar, kudo ku jeni. Një VPN funksionon duke krijuar një “tunel” të sigurt mes pajisjes tuaj dhe shërbimit tuaj VPN dhe ju mbron në dy rrugë kryesore:
 vpn-what-is-concealing-your-ip = Duke fshehur adresën tuaj IP, duke mbrojtur identitetin dhe hollësitë mbi vendndodhjen tuaj.
 vpn-what-is-encrypting-your-traffic = Duke fshehtëzuar trafikun mes jush dhe shërbimit tuaj VPN, që askush në rrjetin tuaj lokal të mund të mos e deshifrojë apo ndryshojë dot.
-vpn-what-is-in-the-past = Në të kaluarën, VPN-të përdoreshin kryesisht nga korporata për të lejuar hyrje të sigurt së largëti në shërbimet e tyre të brendshme dhe të dhëna pronësore. Sot ama, VPN-të janë të përdorshme nga cilido që dëshiron të mbrojë lidhjen e vet në internet, veçanërisht kur bëhet përmes rrjetesh porozë, të tillë si WiFi publik, por janë të dobishme madje edhe për një rrjet shtëpie.
+vpn-what-is-in-the-past = Në të kaluarën, VPN-të përdoreshin kryesisht nga korporata për të lejuar hyrje të sigurt së largëti në shërbimet e tyre të brendshme dhe të dhëna pronësore. Sot ama, VPN-të mund të përdoren nga cilido që dëshiron të mbrojë lidhjen e vet në internet, veçanërisht kur bëhet përmes rrjetesh porozë, të tillë si WiFi publik, por janë të dobishme madje edhe për një rrjet shtëpie.
 vpn-what-is-a-vpn-will = Një VPN do të mbrojë trafikun që dërgoni mes jush dhe shërbimit VPN, qoftë përmes shfletuesit tuaj, aplikacionesh apo shërbimesh të tjera. Që të ujdisni një VPN, do t’ju duhet të krijoni një llogari me një shërbim VPN dhe të instaloni software-in VPN në kompjuterin apo telefonin tuaj. Kur aktivizohet, një VPN do të kujdeset për trafikun nga krejt aplikacionet dhe <em>software</em> që xhirojnë në pajisjen tuaj, që të mund të shfletoni dhe komunikoni lirisht, përmes një lidhje të sigurt rrjeti privat.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: I shpejtë, i thjesh
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të veprimtarisë tuaj në rrjet dhe nuk bashkëpunojmë me palë të treta që krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”, e dimë se është më e rëndësishme se kurrë që të ndiheni i parrezik dhe të dini se çka bëni në internet është punë e juaja.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të veprimtarisë tuaj në rrjet dhe nuk bashkëpunojmë me palë të treta që krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> është një shërbim të cilit i besoni mbajtjen e lidhjes tuaj në internet të parrezik, në krejt pajisjet tuaja. Nuk mbajmë regjistra të dhënash përdoruesi dhe nuk bashkëpunojmë me palë të treta që duan të krijojnë profile prej asaj çka bëni në internet. Në një botë ku e paparashikueshmja është bërë “normaliteti i ri”, e dimë se është më e rëndësishme se kurrë që të ndiheni i parrezik dhe të dini se çka bëni në internet është punë e juaja.
