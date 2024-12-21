@@ -27,4 +27,5 @@ vpn-or-proxy-vpns-devicelevel-protection = VPNs: škit na runinje grata
 vpn-or-proxy-vpns-do-more = VPN wjace hač proksyje činja: Proksy jenož to škita, štož w swojim wobhladowaku činiće, mjeztym zo VPN waš wšón wobchad škita, mjez nim waš wobhladowak, hdźežkuli sće VPN instalował a zmóžnił. VPN přidatnu wěstotu a priwatnosć za wšěu wašu aktiwitu online skića – wažne přemyslenje, jeli chceće swoju aktiwitu wobchować a za datami hłódnym přesćěhowakam poćežić, profil za wšě waše graty kaž waš telefon, ličak a tablet załožić.
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunl“ mjez wašim gratom a internetom w cyłku wutworja. Škita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa so schowa. Tak so waša identita škita a waše stejnišćo znjespóznajomni.
+vpn-or-proxy-encrypting-your-traffic = Zaklučuje waš wobchad mjez wami a wašim poskićowarjom VPN, zo njeby nichtó móhł jón we wašej lokalnej syći dešifrować abo změnić.
 vpn-or-proxy-choose-a-trustworthy = Wubjerće dowěryhódnu słužbu
