@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Så här blockerar du irriterande annonser med hjälp av en annonsblockerare
+features-adblocker-how-to-block-annoying = Hur man blockerar irriterande annonser med en annonsblockerare
 features-adblocker-how-to-stop-seeing-too = Hur man slutar se för många annonser och hindrar företag från att följa dig på nätet. En guide för annonsblockerare från webbläsaren { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Annonsblockeraren – ett hemligt vapen mot irriterande annonser.
 features-adblocker-so-many-ads-so-little = Så många annonser, så lite tålamod… Det är dags att stoppa galenskapen.
@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> är et
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Dessa tillägg fungerar utmärkt på både <a { $attrs1 }>{ -brand-name-firefox } för stationära datorer</a> och <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Det finns <a href="{ $url }">AdBlocker Ultimate</a> som tar bort varje enskild annons, men köpare se upp. Några av dina favorittidningar och tidskrifter är beroende av reklam. Om alltför många människor blockerar sina annonser kan webbplatsen upphöra.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Popup-annonser är de värsta. Blockera dem med <a href="{ $url }">Popup Blocker</a> och du behöver aldrig se en irriterande popup igen.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = En av de mest populära annonsblockerarna för { -brand-name-chrome }, { -brand-name-safari } och { -brand-name-firefox } är <a href="{ $url }">AdBlock</a>. Använd den för att blockera annonser på { -brand-name-facebook }, { -brand-name-youtube } och { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Skapa en spårningsfri zon med innehållsblockering
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
