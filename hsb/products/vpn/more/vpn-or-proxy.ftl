@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Rozdźěl mjez VPN a proksy
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN a proksyje su rozrisanja za priwatnosć a wěstotu online. Tu widźiće, kak wone was škitaja a kak móžeće najlěpšu móžnosć wubrać.
 vpn-or-proxy-virtual-private-networks = Wirtuelne priwatne syće  (VPN) wěste webproksyje su rozrisanja za lěpšu priwatnosć a wěstotu online, ale móže zamylace być, wuslědźić, kotry je prawy za was. Hladajmy na to, kak tute słužby was škitaja a kak najwažnišu opciju wuběraće, hdyž sće online.
 vpn-or-proxy-stop-isps-from = Zadźěwajće tomu, zo ISP was wuskušujeće
 # Variables
