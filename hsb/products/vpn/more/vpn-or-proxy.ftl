@@ -33,4 +33,8 @@ vpn-or-proxy-vpns-do-more = VPN wjace hač proksyje činja: Proksy jenož to šk
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunl“ mjez wašim gratom a internetom w cyłku wutworja. Škita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa so schowa. Tak so waša identita škita a waše stejnišćo znjespóznajomni.
 vpn-or-proxy-encrypting-your-traffic = Zaklučuje waš wobchad mjez wami a wašim poskićowarjom VPN, zo njeby nichtó móhł jón we wašej lokalnej syći dešifrować abo změnić.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN tež wěstotu za wotewrjene a zjawne zwiski WLAN skići. Wotewrjeny WLAN móže riskantny być a njemóžeće wěsty być, zo so něchtó druhi ze samsnej syću njezwjazuje, zo by was wuspioněrował. Samo hdyž waš wobchad je zaklučowany, móža hišće widźeć, kotre sydła wopytujeće. A jeli nałoženje wužiwaće, kotrež zaklučowanje nima – a samo dźensa wjele to nima – móža wšitko widźeć, štož w tym nałoženju činiće. { -brand-name-mozilla-vpn } je spěšna, wěsta, dowěry hódna słužba, kotraž móže pomhać, wěstotnu dźěru za was začinić. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> wam tež zmóžnja, waše „stejnišćo“ (zwotkelž so waš wobchad zda přińć) z wjace hač { $countries } krajow wubrać.
 vpn-or-proxy-choose-a-trustworthy = Wubjerće dowěryhódnu słužbu
