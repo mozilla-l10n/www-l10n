@@ -12,6 +12,7 @@ vpn-what-is-how-do-vpns = Kak VPN funguja?
 vpn-what-is-a-vpn-is = VPN je nastroj, kotryž wam wěsty přistup k internetej zmóžnja, hdźežkuli sće. VPN přez to funguje, zo „tunl“ mjez wašim gratom a wašim poskićowarjom VPN wutworja, a škita was na dwě klučowej wašni:
 vpn-what-is-concealing-your-ip = Waša IP-adresa so schowa. Tak so waša identita a waše stejnišćo škitatej.
 vpn-what-is-encrypting-your-traffic = Zaklučuje waš wobchad mjez wami a wašim poskićowarjom VPN, zo njeby nichtó móhł jón we wašej lokalnej syći dešifrować abo změnić.
+vpn-what-is-in-the-past = W zańdźenosći su zwjetša předewzaća VPN wužiwali, zo bychu wěsty zdaleny přistup k swojim nutřkownym słužbam a firmowym datam zmóžnili. Nětko wšak su VPN za kóždeho k dispoziciji, kiž chce swój zwisk z internetom škitać, předewšěm, hdyž je přez přepušćate syće kaž zjawny WLAN, ale je samo w syći doma wužitny.
 vpn-what-is-when-should-i = Hdy dyrbjał ja VPN wužiwać?
 vpn-what-is-wait-i-thought = Wokomik, myslach, zo mój internetny wobchad je so hižo z HTTPS zaklučował …
 vpn-what-is-why-would-i = Čehodla dyrbjał ja VPN wužiwać?
