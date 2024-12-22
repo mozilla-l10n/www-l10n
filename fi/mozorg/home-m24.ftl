@@ -56,6 +56,7 @@ m24-home-tag-event = Tapahtuma
 m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
+m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }n logo.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -69,6 +70,7 @@ m24-home-watch-now = Katso nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Onko sinulla alkuvaiheen startup-yritys? Esittele yrityksesi { -brand-name-mozilla-ventures }ille ja turvaa rahoitus positiivisen muutoksen aikaansaamiseksi tekoälyn ja Internetin tulevaisuudelle.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Lahjoita äänesi tehdäksesi puhetekniikasta kaikenkattavaa ja kaikkien saatavilla olevaa.
 m24-home-donate-your-voice = Lahjoita äänesi
@@ -95,6 +97,7 @@ m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
+m24-home-read-the-report = Lue raportti
 
 ## Issues
 
