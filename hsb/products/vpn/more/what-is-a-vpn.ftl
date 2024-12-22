@@ -19,6 +19,7 @@ vpn-what-is-a-vpn-will = VPN budźe wobchad škitać, kotryž mjez sobu a swojim
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
 vpn-what-is-a-vpn-provider = POskićowar VPN typisce wěstu ličbu zwiskowych wrotow na rozdźělnych globalnych městnach, kotraž wam zmóžnja, IP-adresu druheho stejnišća hač swójske wužiwać. Tak městno, z kotrymž zwjazujeće, IP VPN jako žórło wašeho wobchada widźi, nic wašu woprawdźitu IP-addresu. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> waš wobchad přez wěsty serwer sposrědkuje a zmóžnja wam, městno z wjace hač { $countries } krajow wubrać.
 vpn-what-is-when-should-i = Hdy dyrbjał ja VPN wužiwać?
+vpn-what-is-connecting-to-a = Zwisk ze zjawnym syću WLAN je druhdy zaměrny, hdyž internetnu słužbu nimaće abo na telefonje přijimanje nimaće. Druheje strony, móže riskantne předewzaće być, hdyž ze zjawnym WLAN zwjazujeće. Njemóžeće wěsty być, zo so něchtó druhi ze samsnej syću njezwjazuje, zo by was wuspioněrował. Samo hdyž waš wobchad je zaklučowany, móža hišće widźeć, kotre sydła wopytujeće. A jeli nałoženje wužiwaće, kotrež zaklučowanje nima – a samo dźensa wjele to nima – móža wšitko widźeć, štož činiće.
 vpn-what-is-wait-i-thought = Wokomik, myslach, zo mój internetny wobchad je so hižo z HTTPS zaklučował …
 vpn-what-is-why-would-i = Čehodla dyrbjał ja VPN wužiwać?
 vpn-what-is-keeping-your-online = Škita priwatnosć wašich aktiwitow online.
