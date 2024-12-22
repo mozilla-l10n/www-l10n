@@ -66,6 +66,7 @@ m24-home-alt-lumigator-logo = { -brand-name-lumigator }in logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Löydä oikea kielimalli tarpeitasi, käyttötapauksiasi ja dataasi varten.
 m24-home-can-ai-be = Voiko tekoäly olla luotettava?
+m24-home-in-a-world = Maailmassa, jossa tekoälyn innovointia ohjaavat harvat valitut, vaarannamme tämän tekniikan monopolisoinnille. Avoimen lähdekoodin käsitteiden soveltaminen tekoälyyn voi muuttaa tilanteen.
 m24-home-watch-now = Katso nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
@@ -89,7 +90,9 @@ m24-home-topic-ps = Tietosuoja ja turvallisuus
 # Obsolete string (expires: 2025-02-03)
 m24-home-headline-you-ai = Otsikko: Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
+m24-home-keeping-genai-technologies = GenAI-tekniikoiden turvaaminen on yhteinen vastuu.
 m24-home-why-does-it = Miksi usein tuntuu, että olemme osa tekoälyn massakokeilua? Mikä on vastuullinen tapa testata uusia teknologioita? Bridget Todd tutkii, mitä tarkoittaa elää todentamattomien tekoälyjärjestelmien kanssa, jotka vaikuttavat miljooniin ihmisiin niiden levitessä jokapäiväiseen elämään.
+m24-home-kids-are-growing = Lapset kasvavat maailmassa, jossa verkko on keskiössä. Mitä huolestunut vanhempi voi tehdä?
 
 ## Showcase
 
@@ -97,6 +100,8 @@ m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti
 
 ## Issues
