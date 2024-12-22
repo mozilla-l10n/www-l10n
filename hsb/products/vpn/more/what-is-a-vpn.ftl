@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Što je VPN?
+vpn-what-is-many-of-us = Wjele z nas wjele hodźin na dźeń internet wužiwa, zo bychmy wšědne wěcy kaž widejo hladać, nakupować, hrać a zličbowanki płaćić činili, hač do managowanja kompleksnych dźěłowych projektow a přewjedźenja widejorozmołwow. <strong>Wirtuelna priwatna syć (VPN)</strong> je jedna z najlěpšich móžnosćow, zo byšće online priwatny a wěsty wostał a swoje wosobinske daty škitał.
 vpn-what-is-how-do-vpns = Kak VPN funguja?
 vpn-what-is-concealing-your-ip = Waša IP-adresa so schowa. Tak so waša identita a waše stejnišćo škitatej.
 vpn-what-is-encrypting-your-traffic = Zaklučuje waš wobchad mjez wami a wašim poskićowarjom VPN, zo njeby nichtó móhł jón we wašej lokalnej syći dešifrować abo změnić.
