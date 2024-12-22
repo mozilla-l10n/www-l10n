@@ -25,6 +25,9 @@ vpn-or-proxy-a-secure-web = Wěsty webproksy za nadawki funguje, kotrež wy móh
 # Variables
 #   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
 vpn-or-proxy-a-proxy-is-useful = Proksy je wužitny, hdyž web w zjawnym WLAN přehladujeće. Hdyž proksy je zmóžnjeny, haći słucharjow w samsnej syći při tym, wašu přehladowansku aktiwitu wuskušić abo waše transakcije na njezaklučowanych sydłach čitać. Klinči njestrašne, ale zjawny syće WLAN móža kaž posleńca za <a href="{ $url }">zadobywarjow</a> być.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> je lochko instalujomne rozšěrjenje wobhladowaka, kotrež wěsty, zaklučowany tunl do interneta skići, zo by zwisk wašeho wobhladowaka wšudźe škitało, hdźež { -brand-name-firefox } wužiwaće. Je spěšne a da so lochko zmóžnić, hdyžkuli jo za přidatnu wěstotu w swojim wobhladowaku trjebaće.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: škit na runinje grata
 vpn-or-proxy-vpns-do-more = VPN wjace hač proksyje činja: Proksy jenož to škita, štož w swojim wobhladowaku činiće, mjeztym zo VPN waš wšón wobchad škita, mjez nim waš wobhladowak, hdźežkuli sće VPN instalował a zmóžnił. VPN přidatnu wěstotu a priwatnosć za wšěu wašu aktiwitu online skića – wažne přemyslenje, jeli chceće swoju aktiwitu wobchować a za datami hłódnym přesćěhowakam poćežić, profil za wšě waše graty kaž waš telefon, ličak a tablet załožić.
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunl“ mjez wašim gratom a internetom w cyłku wutworja. Škita wašu priwatnosć na dwě wašni:
