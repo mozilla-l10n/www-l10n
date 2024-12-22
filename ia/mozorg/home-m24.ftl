@@ -115,6 +115,7 @@ m24-home-alt-rise25-proud = Un premiato orgoliose a { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Un orator qui surride confidente a { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Un premiato gaudiose a { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Stato de { -brand-name-mozilla }
 
 ## Issues
 
