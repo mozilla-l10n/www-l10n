@@ -51,3 +51,6 @@ vpn-what-is-are-vpns-only = Su VPN jenož za ličaki?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN dadźa so za škitanje wšěch wašich gratow wužiwać – ličaki, laptopy, tablety a telefony. Jeli ořez samostatne nałoženja zwonka wobhladowaka přistup k internet maće, je VPN dobra wólba za škit wašeje priwatnosće a wěstoty na kóždym graće. Dyrbiće VPN na kóždym graće instalować, zo by skutkowny był. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> njewobmjezowany zwisk za hač do pjeć gratow skići, hdyž so z internetom z někajkeho nałoženja abo wobhladowaka zwjazujeće.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Spěšny, wěsty, dowěry hódny.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je słužba, kotremuž móžeće dowěrić, zo by waš zwisk z internetom na wšěch wašich gratach wěsty wostał. Njewobchowujemy protokole wašeje syćoweje aktiwity a nimamy partnerstwa z třećimi poskićowarjemi, kotřiž profile wo tym wuwiwaja, štož wy online činiće. W swěće, hdźež njepředwidźomnosć je „nowe normalne“, wěmy, zo je wažniše hač do toho, zo so wěsty čujeće a zo wěsće, zo to, štož online činiće, je waša swójska naležnosć.
