@@ -11,6 +11,11 @@ vpn-or-proxy-the-difference-between = Rozdźěl mjazy VPN a proksy
 vpn-or-proxy-vpns-and-proxies-are = VPN a proksyje su rozwězanja za priwatnosć a wěstotu online. How wiźiśo, kak wóne was šćitaju a kak móžośo nejlěpšu móžnosć wubraś.
 vpn-or-proxy-virtual-private-networks = Wirtuelne priwatne seśi  (VPN) a wěste webproksyje su rozwězanja za lěpšu priwatnosć a wěstotu online, ale móžo muśece byś, wuslěźiś, kótary jo pšawy za was. Glědajmy na to, kak toś te słužby was šćitaju a kak nejwažnjejšu opciju wuběraśo, gaž sćo online.
 vpn-or-proxy-stop-isps-from = Zajźujśo tomu, až ISP was wunuchlijośo
+# Variables
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+#   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
+#   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
+vpn-or-proxy-when-you-use-firefox = Gaž <a href="{ $firefox }">{ -brand-name-firefox } wužywaśo</a>, <a href="{ $etp }">Pólěpšony pśeslědowański šćit</a> awtomatiski wjele <a href="{ $trackers }">webowym pśeslědowakam</a> tśeśich póbitowarjow zawoborujo, wam w interneśe slědowaś. Ale how jo zajmny fakt: Waš internetny póbitowaŕ (ISP), kótaregož za internetny zwisk płaśiśo, móžo hyšći was wobglědowaś a wam slědowaś.
 vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
