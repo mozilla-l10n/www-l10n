@@ -32,6 +32,7 @@ vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
 vpn-or-proxy-vpns-do-more = VPN wěcej ako proksyje cynje: Proksy jano to šćita, což w swójom wobglědowaku cyniśo, mjaztym až VPN waš wšen wobchad šćita, mjazy nim waš wobglědowak, źožkuli sćo instalěrował a zmóžnił VPN. VPN pśidatnu wěstotu a priwatnosć za wšu wašu aktiwitu online bituju – wažne pśemyslenje, jolic cośo swóju aktiwitu wobchowaś a za datami głodnym pśeslědowakam póśěžyś, profil za wšykne waše rědy ako waš telefon, licadło a tablet załožyś.
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo k njepóznaśeju cyni.
+vpn-or-proxy-encrypting-your-traffic = Koděrujo waš wobchad mjaz wami a wašym póbitowarjom VPN, až njeby nichten mógał jen we wašej lokalnej seśi dešifrěrowaś abo změniś.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
