@@ -34,6 +34,12 @@ vpn-what-is-what-are-the = Kotre njelěpšiny wužiwanje VPN ma?
 vpn-what-is-some-service-providers = Někotři słužbni poskićowarjo wopyty wot VPN blokuja a zadźěwaja přistupej k jich wobsahej, hdyž VPN je aktiwizowany. Někotre VPN was borzdźa abo móhli wašu šěrokosć pasma wobmjezować. A někotre VPN špatnje wotrězuja, hdyž wo respektowanje wužiwarskeje priwatnosće a wěstoty dźe.
 vpn-what-is-are-vpns-safe = Su VPN wěste?
 vpn-what-is-its-very-hard = Je jara ćežko, dowěry hódny VPN namakać. VPN su za škit wužiwarjow mysleny, mjeztym ći su online, ale nic wšě VPN jenaku słužbu poskićeja. Hdyž chceće słužbu VPN kupić, zawěsćće, zo wuměnjenja rozumiće, do kotrychž zwoliće. Wjele lubi, wulkotne być a so na priwatnosć koncentrować, ale wulka ličba wot nich swoje slubjenje njedodźeržuje. Někotre waše aktiwity online protokoluja, zo bychu móhli marketingowym firmam waše daty a informacije předać. Druhe VPN pospytuja was wobswědčić, zo škódnu software na swojich gratach instalujeće.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Smy běhańcu měli, zo bychmy zawěsćili, zo <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> woprawdźe wašu priwatnosć respektuje, to je něšto, za kotrež ze swojim dobrym mjenom rukujemy. { -brand-name-mozilla } je znaty za to, produkty wuwiwać, kotrež pomhaja, waše informacije wěste dźeržeć. Slědujemy našim lochko čitajomnym, wěcownym <a href="{ $principles }">principam datoweje priwatnosće</a>, kotrež nam zmóžnjeja, so jenož na informacije koncentrować, kotrež trjebamy, zo bychmy słužbu poskićili. Technologija { -brand-name-mozilla-vpn } je šwižna a moderna, zo by wužiwarjam spěšny zwisk z połnym škitom VPN a z połnej wěstotu skićiła. A dokelž wuwiwarjo tutoho VPN wot předewzaća <a href="{ $mission }">z misiju</a> podpěru dóstawamy, móžeće na to dowěrić, zo dolary, kotrež za tutón produkt darujeće, nic jenož zawěsćić, zo maće prěnjorjadny VPN, ale polěpšujemy tež internet za kóždeho.
 vpn-what-is-can-vpns-protect = Móža VPN mje před cyberkriminelnymi škitać?
 vpn-what-is-are-vpns-legal = Su VPN legalne?
 vpn-what-is-are-vpns-only = Su VPN jenož za ličaki?
