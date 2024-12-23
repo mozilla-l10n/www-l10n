@@ -21,6 +21,7 @@ vpn-or-proxy-isps-can-use = ISP mógu toś te informacije za swójske wabjeńske
 vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-vpns-and-secure = VPN a wěste webowe proksyje maju zgromadne zaměry: Zawěsćuju zwiski. Mógu a cynje to teke, wašu originalnu IP-adresu maskěrowaś a webowy wobchad šćitaś, kótaryž mjazy sobu a wašym VPN abo wěstym proksyjowym póbitowarjom sćelośo. Ale gdy cośo VPN resp. proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
+vpn-or-proxy-a-secure-web = Wěsty webowy proksy za nadawki funkcioněrujo, kótarež wy mógał jano w swójom wobglědowaku cyniś. To móžo wjele aktiwitow wopśimjeś, na pśikład nakupowaś, zliceńki zapłaśiś, pla socialnych medijow pśizjawiś a mejlki cytaś. Wěsty webowy proksy ako pósrědnik mjazy wašym wobglědowakom a internetom słužy. Daty wašogo internetnego pśeglědowanja tunel do interneta direktnje z wašogo wobglědowaka pśeprěkuju a waša IP-adresa se maskěrujo, aby webserwer, z kótarymž kontakt nawězujośo, dokradnje njewě, źož sćo w swěśe. A to póśěžujo, wam slědowaś a so na was wusměriś.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašnje:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo k njepóznaśeju cyni.
