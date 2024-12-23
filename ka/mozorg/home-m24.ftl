@@ -71,10 +71,10 @@ m24-home-find-the-just = მონახეთ თქვენი საჭი�
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = მარკ სურმანი, { -brand-name-mozilla }-ს ხელმძღვანელი.
 m24-home-can-ai-be = შეიძლება ხელოვნური ინტელექტი იყოს სანდო?
-m24-home-in-a-world = სამყაროში, სადაც ხელოვნური ინოვაციების განვითარებას რამდენიმე ადამიანი მართავს, ჩვენ ამ ტექნოლოგიის მონოპოლიზების საფრთხის წინაშე ვდგავართ. ღია წყაროს მქონე ცნებების გამოყენება AI-ზე, შესაძლოა ამის შეცვლას აპირებს.
+m24-home-in-a-world = სამყაროში, სადაც ხელოვნურ ინტელექტთან დაკავშირებული სიახლეების დანერგვა ვიწრო ჯგუფის ხელშია, ერთპიროვნული ზედამხედველობის საფრთხის წინაშე ვდგავართ. ღია წყაროს ცნებებს თუ დაუახლოვდება AI, მაშინ შესაძლებელი გახდება ამ ყველაფრის შეცვლა.
 m24-home-watch-now = უყურეთ ახლავე
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = მოსაუბრე სცენაზე, მრავალი პროდუქტის ლოგოთი.
+m24-home-alt-ventures = სცენაზე გამოსული მოსაუბრე ფონზე მრავალი პროდუქტის ლოგოთი.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და{ -brand-name-mozilla-ventures } უზრუნველყოფს დაფინანსებას, მომავლისა და ხელოვნური ინტელექტის დადებითი კუთხით განვითარებისთვის.
 m24-home-common-voice = { -brand-name-common-voice }
@@ -85,12 +85,12 @@ m24-home-donate-your-voice = მოგვაწოდეთ თქვენი �
 
 m24-home-type = სახეობა
 m24-home-author = შემქმნელი
-m24-home-topic = თემა
+m24-home-topic = საკითხი
 m24-home-intro = შესავალი
 m24-home-tag-article = სტატია
-m24-home-tag-podcast = კოლექცია
+m24-home-tag-podcast = ჩანაწერი
 m24-home-tag-video = ვიდეო
-m24-home-topic-news = სიახლეები
+m24-home-topic-news = ახალი ამბები
 m24-home-topic-ai = ხელოვნური ინტელექტი
 m24-home-topic-ps = პირადულობა და უსაფრთხოება
 # Obsolete string (expires: 2025-02-03)
