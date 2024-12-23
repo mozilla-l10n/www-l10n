@@ -61,13 +61,13 @@ m24-home-our-mission-is = ჩვენი მიზანია, გავუა
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = გაუშვით ენის დიდი მოდელები (LLM) იოლად თქვენს კომპიუტერში { -brand-name-llamafile }-ის მეშვეობით —არაფრის დაყენება არაა საჭირო, თქვენი მონაცემები უსაფრთხოდ დარჩება თქვენსავე მოწყობილობაზე.
-m24-home-alt-builders = მშენებლები
-m24-home-mozilla-builders = { -brand-name-mozilla } შემმუშავებლები
-m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს, ღია წყაროს მქონე AI პროექტების შექმნაში, საკუთარი თანამშრომლობის, პროგრამირებისა და ერთობის მეშვეობით.
+m24-home-alt-builders = Builders
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = მონახეთ თქვენი საჭიროებებისთვის შესაფერისი LLM, გამოყენების პირობებითა და მონაცემებით.
+m24-home-find-the-just = მონახეთ თქვენი საჭიროებებისთვის შესაფერისი LLM გამოყენების პირობებითა და მონაცემებით.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = მარკ სურმანი, { -brand-name-mozilla }-ს ხელმძღვანელი.
 m24-home-can-ai-be = შეიძლება ხელოვნური ინტელექტი იყოს სანდო?
