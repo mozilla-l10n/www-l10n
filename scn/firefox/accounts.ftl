@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = Cria un cuntu { -brand-name-mozilla-account } – Teni i to dati privati, sicuri e sincrunizzati.
 firefox-accounts-enter-your-email-address = Metti u to nnirizzu di posta elittrònica p'accuminciari.
 firefox-accounts-already-have-an-account = Ài già un cuntu?
 firefox-accounts-sign-in = Trasi

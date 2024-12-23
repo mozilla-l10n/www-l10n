@@ -39,6 +39,12 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pi { -brand-n
 download-button-firefox-privacy = Privatizza di { -brand-name-firefox }
 download-button-firefox-privacy-notice = Abbisu di privatizza di { -brand-name-firefox }
 download-button-download = Scàrrica
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">nun è cchiù suppurtatu</a> nni { $os_version } e virsioni cchiù vecchi.
+download-button-please-download-esr = Pi favuri scàrrica { -brand-name-firefox-esr } (Extended Support Release) pi usari { -brand-name-firefox }.
 download-firefox-esr = Scàrrica { -brand-name-firefox-esr }
 download-firefox-esr-32 = Scàrrica { -brand-name-firefox-esr } a 32-bit
 download-firefox-esr-64 = Scàrrica { -brand-name-firefox-esr } a 64-bit
