@@ -23,6 +23,15 @@ firefox-accounts-get-email-alerts = Ricìviri nutizzi nnâ posta elittrònica qu
 firefox-accounts-protect-your-identity = Prutèggiri a to idintità usannu na màscara pû tilèfunu e a posta elittrònica
 firefox-accounts-keep-your-passwords = Tèniri i to chiavi ô sicuru e sempri a purtata di manu.
 firefox-accounts-travel-the-internet = Nàviga nnâ riti di manera prutetta, nni tutti i dispusitivi.
+firefox-accounts-encrypt-your = Critta a to attività di riti e ammuccia u to nnirizzu IP
+firefox-accounts-we-never = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
+firefox-accounts-save-articles = Sarba artìculi di tutta a riti
+firefox-accounts-read-in-a = Leggi nta nu spazziu cuetu e privatu
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
+firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-accounts-pocket = { -brand-name-pocket }
