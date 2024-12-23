@@ -45,5 +45,6 @@ vpn-what-is-can-vpns-protect = Móža VPN mje před cyberkriminelnymi škitać?
 #   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
 vpn-what-is-while-a-vpn = Mjeztym zo VPN wěsty zwisk z internetom poskića, nješkita was před złowólnymi ludźimi tam wonka. Kóždy raz, hdyž sće online, z abo bjez VPN, měł wy so před podhladnymi wotkazami, kampanjemi z wopačnymi informacijemi, wobšudniskim kradnjenjom wašich datow (phishing) a druhimi wohroženjemi na kedźbu brać. <a href="{ $url }">Online wěsty wostać</a> je wšědne zmyslenje.
 vpn-what-is-are-vpns-legal = Su VPN legalne?
+vpn-what-is-installing-and-using = Instalowanje a wužiwanje VPN stej tuchwilu w najwjace krajach legalnej, mjez nimi w Zjednoćenych statach, Zjednoćenym kralestwje , Kanadźe a Nowoseelandskej, ale někotre kraje jeho wužiwanje snano reguluja. Jeli chceće VPN wužiwać, leži pola was, zakoń kraja přepruwować, zo by wy zhonił, hač wužiwanje VPN je legalne abo nic.
 vpn-what-is-are-vpns-only = Su VPN jenož za ličaki?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Spěšny, wěsty, dowěry hódny.
