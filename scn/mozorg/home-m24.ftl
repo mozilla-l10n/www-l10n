@@ -8,7 +8,7 @@
 
 ## Intro
 
-m24-home-welcome-to-mozilla = Ti damu u bimminutu nne { -brand-name-mozilla }
+m24-home-welcome-to-mozilla = Bummegna nne { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Dû sbiluppu di tecnuluggìi affidàbbili ê pulìtichi chi addifènninu i to diritti diggitali, cu nuiautri sì ô primu postu — sempri.
 m24-home-learn-about-us = Cu' semu
 
