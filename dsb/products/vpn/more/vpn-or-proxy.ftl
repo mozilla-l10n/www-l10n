@@ -16,6 +16,7 @@ vpn-or-proxy-stop-isps-from = Zajźujśo tomu, až ISP was wunuchlijośo
 #   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
 #   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
 vpn-or-proxy-when-you-use-firefox = Gaž <a href="{ $firefox }">{ -brand-name-firefox } wužywaśo</a>, <a href="{ $etp }">Pólěpšony pśeslědowański šćit</a> awtomatiski wjele <a href="{ $trackers }">webowym pśeslědowakam</a> tśeśich póbitowarjow zawoborujo, wam w interneśe slědowaś. Ale how jo zajmny fakt: Waš internetny póbitowaŕ (ISP), kótaregož za internetny zwisk płaśiśo, móžo hyšći was wobglědowaś a wam slědowaś.
+vpn-or-proxy-because-your-internet = Dokulaž se waš internetny wobchad pśez wašogo ISP do a wót wašych rědow (licadło, telefon, TV, tablet)  gibjo, móžo wiźeś, źož online źośo. ISP móžo wiźeś, ku kótarym sedłam se woglědujośo, kak dłujko sćo na nich, wašo stojnišćo a informacije wó wašych rědach. ISP snaź dla koděrowanja drobnostki wó tom njewiźi, což sćo cynił na tych sedłach (na pśikład nakupowaś, pytaś abo cytaś), ale mógał na zakłaźe tych sedłow wó was konkluzije śěgnuś, ku kótarymž sćo se woglědał. Toś te wósobinske daty daju se wužywaś, aby se pódrobne profile wó was załožyli. Cogodla by ISP to cynili? Krotko gronjone: Toś te daty su gódnotne.
 vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
