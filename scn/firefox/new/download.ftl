@@ -41,7 +41,7 @@ firefox-new-download-select-linux = Scarta n'aḍḍijuta di scarricamentu appre
 firefox-new-please-follow = Pi favuri sicuta <a href="{ $url }">sta guida</a> pi nzitari { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-new-your-system-may-not = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di <a href="{ $url }">sti virsiuna</a>.
+firefox-new-your-system-may-not = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di <a href="{ $url }">sti virsioni</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app

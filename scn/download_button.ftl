@@ -30,6 +30,7 @@ download-button-free-google-play = Pìgghialu a francu nne { -brand-name-google-
 download-button-app-store = Pìgghialu a francu di l'{ -brand-name-app-store }
 download-button-download-app-store = Scàrricalu di l'{ -brand-name-app-store }
 download-button-download-firefox = Scàrrica { -brand-name-firefox }
+download-button-your-system-may = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di sti virsioni.
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> pi { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> pi { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> pi { -brand-name-android }
@@ -38,6 +39,18 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pi { -brand-n
 download-button-firefox-privacy = Privatizza di { -brand-name-firefox }
 download-button-firefox-privacy-notice = Abbisu di privatizza di { -brand-name-firefox }
 download-button-download = Scàrrica
+download-firefox-esr = Scàrrica { -brand-name-firefox-esr }
+download-firefox-esr-32 = Scàrrica { -brand-name-firefox-esr } a 32-bit
+download-firefox-esr-64 = Scàrrica { -brand-name-firefox-esr } a 64-bit
+download-a-different-build = Scàrrica n'autra virsioni
 
 ## Linux
 
+download-button-linux-32-v2 = Scàrrica pi Linux a 32-bit
+download-button-linux-64-v2 = Scàrrica pi Linux a 64-bit
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Usi Debian, Ubuntu o n'autra distribbuzzioni basata ncapu a Debian?<br>Po' cunfijurari u nostru <a { $attrs }>dipòsitu APT</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Scàrricalu di Microsoft
