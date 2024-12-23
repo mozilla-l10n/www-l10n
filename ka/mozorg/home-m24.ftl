@@ -36,27 +36,27 @@ m24-home-save-the-internets = გადაინახეთ ინტერნ�
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = დატოვეთ თქვენი ადგილსამყოფელი და ინტერნეტთავგადასავლები პირადი — გაუშვით პირდაპირი ეთერები ისე, თითქოს იქაური იყოთ, ნებისმიერი ადგილიდან.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = თვალი ადევნეთ, თუ თქვენს პირად ინფორმაციას საფრთხის შემცველია და პროფესიონალივით ჩაკეტეთ.
+m24-home-get-a-headsup = გამოიჩინეთ წინდახედულება, თუ თქვენს პირად ინფორმაციას საფრთხე დაემუქრება და აღკვეთეთ წვდომა, როგორც გამოცდილმა.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = შენიღბეთ თქვენი ელფოსტა და ტელეფონის ნომერი ისე, რომ მხოლოდ სასურველი შეტყობინებ მიიღოთ.
+m24-home-mask-your-email = შენიღბეთ თქვენი ელფოსტა და ტელეფონის ნომერი, რომ მხოლოდ სასურველი შეტყობინები მიიღოთ.
 
 ## Donate
 
 m24-home-donate-to-the = დაეხმარეთ შემოწირულობით { -brand-name-mozilla }-ს, არამომგებიან დაწესებულებას
 m24-home-mozilla-is-building = { -brand-name-mozilla } ქმნის მოძრაობას ინტერნეტის დასაბრუნებლად. ერთად ჩვენ შეგვიძლია ავაშენოთ მომავალი, სადაც ჩვენი პირადულობა იქნება დაცული, ხელოვნური ინტელექტი კი სანდო, ხოლო არაკეთილსინდისიერ ტექკომპანიებს დაეკისრებათ პასუხისმგებლობა. მაგრამ ეს მხოლოდ ერთად დგომით მიიღწევა.
-m24-home-were-proudly-nonprofit = ჩვენ ვართ არამომგებიანი. გააკეთებთ შემოწირულობას { -brand-name-mozilla }-ში დღესვე?
+m24-home-were-proudly-nonprofit = ჩვენ ვართ არამომგებიანი და ვამაყობთ ამით. გსურთ დღესვე დაეხმაროთ შემოწირულბოით { -brand-name-mozilla }?
 m24-home-donate = შემოწირულობა
 
 ## AI gallery
 
 m24-home-tag-product = პროდუქტი
-m24-home-tag-project = Project
+m24-home-tag-project = პროექტი
 m24-home-tag-program = პროგრამა
 m24-home-tag-event = ღონისძიება
 m24-home-read-more = ვრცლად
 m24-home-get-started = დაიწყეთ
 m24-home-join-the-movement = შემოუერთდით მოძრაობას:<br> AI ხალხისთვის
-m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შეიმუშაონ და ითანამშრომლონ ღია წყაროს მქონე და სანდო AI-ის შექმნისთვის.
+m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შემუშავება და თანამშრომლობა ღია წყაროს მქონე და სანდო AI-საშუალებების შექმნისთვის.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
 m24-home-llamafile = { -brand-name-llamafile }
