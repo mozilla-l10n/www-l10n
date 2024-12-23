@@ -22,7 +22,13 @@ vpn-or-proxy-when-should-you = Gdy dejał wy VPN abo wěsty proksy wužywaś?
 vpn-or-proxy-vpns-and-secure = VPN a wěste webowe proksyje maju zgromadne zaměry: Zawěsćuju zwiski. Mógu a cynje to teke, wašu originalnu IP-adresu maskěrowaś a webowy wobchad šćitaś, kótaryž mjazy sobu a wašym VPN abo wěstym proksyjowym póbitowarjom sćelośo. Ale gdy cośo VPN resp. proksy wužywaś?
 vpn-or-proxy-secure-web-proxy = Wěsty webproksy: šćit na rowninje wobglědowaka
 vpn-or-proxy-a-secure-web = Wěsty webowy proksy za nadawki funkcioněrujo, kótarež wy mógał jano w swójom wobglědowaku cyniś. To móžo wjele aktiwitow wopśimjeś, na pśikład nakupowaś, zliceńki zapłaśiś, pla socialnych medijow pśizjawiś a mejlki cytaś. Wěsty webowy proksy ako pósrědnik mjazy wašym wobglědowakom a internetom słužy. Daty wašogo internetnego pśeglědowanja tunel do interneta direktnje z wašogo wobglědowaka pśeprěkuju a waša IP-adresa se maskěrujo, aby webserwer, z kótarymž kontakt nawězujośo, dokradnje njewě, źož sćo w swěśe. A to póśěžujo, wam slědowaś a so na was wusměriś.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Proksy jo wužytny, gaž web w zjawnem WLAN pśeglědujośo. Gaž proksy jo zmóžnjony, zawoborujo pódsłucharjam w samskej seś, wašu pśeglědowańsku aktiwitu wusnuchliś abo waše transakcije na njeskoděrowanych sedłach cytaś. Klincy njetšašne, ale zjawne seśi WLAN mógu ako slězne źurja za <a href="{ $url }">zadobywarje</a> byś.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> jo lažko instalěrujobne rozšyrjenje wobglědowaka, kótarež wěsty, skoděrowany tunel do interneta bitujo, aby zwisk wašogo wobglědowaka wšuźi šćitało, źož { -brand-name-firefox } wužywaśo. Jo malsne a dajo se lažko zmóžniś, gažkuli jo za pśidatnu wěstotu w swójom wobglědowaku trjebaśo.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
-vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašnje:
+vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo k njepóznaśeju cyni.
 vpn-or-proxy-choose-a-trustworthy = Wubjeŕśo dowěry gódnu słužbu
