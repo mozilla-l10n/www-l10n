@@ -8,6 +8,7 @@
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 pśicynow, cogodla wy dejał VPN wužywaś
 vpn-when-to-use-concealing-your-true = Waša napšawdna IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo  k njepóznaśeju cyni.
+vpn-when-to-use-encrypting-your-traffic = Koděrujo waš wobchad mjaz wami a wašym póbitowarjom VPN, až njeby nichten mógał jen we wašej lokalnej seśi dešifrěrowaś abo změniś.
 vpn-when-to-use-1-a-walk = 1. Pśechóźowanje w parku
 vpn-when-to-use-2-in-the = 2. W susedstwje
 vpn-when-to-use-3-on-the = 3. Pó droze
