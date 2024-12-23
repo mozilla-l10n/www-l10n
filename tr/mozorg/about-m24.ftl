@@ -18,6 +18,8 @@ m24-about-reclaim-the-internet = İnternete hep beraber sahip çıkalım
 
 m24-about-together-we-can = Birlikte internetin herkes için kolay, güvenli ve özgür kalmasını sağlayabiliriz.
 m24-about-read-our-manifesto = Manifestomuzu okuyun
+m24-about-research = Araştırma
+m24-about-build = Geliştirme
 
 ## News
 
