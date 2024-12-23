@@ -106,19 +106,19 @@ m24-home-kids-are-growing = ბავშვები იზრდებიან
 
 ## Showcase
 
-m24-home-rise25-awards = { -brand-name-rise25 }- ჯილდოები
+m24-home-rise25-awards = { -brand-name-rise25 }-ჯილდოები
 m24-home-get-to-know = გაიცანით ხელოვნური ინტელექტის სანდო, ინკლუზიური და გამჭვირვალე განვითარების მხარდამჭერი ლიდერები, რომლებიც ადგენენ ახალ სტანდარტებს და შთააგონებენ ახალი თაობის ნოვატორებს.
-m24-home-watch-the-award = უყურეთ დაჯილდოების გადაცემას
+m24-home-watch-the-award = უყურეთ დაჯილდოების წარმოდგენას
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = საამაყო პრემია { -brand-name-rise25 }-ში.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = { -brand-name-rise25 }-ში თავდაჯერებული მომღიმარი მოსაუბრე.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = სასიხარულო პრემია { -brand-name-rise25 }-ზე.
-m24-home-state-of-mozilla = { -brand-name-mozilla }-ის მდგომარეობა
+m24-home-state-of-mozilla = რა ვითარებაშია { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ხელახლა იგონებს საკუთარ თავს, მრავალრიცხოვანი დაწესებულებების ირგვლივ გამრავალფეროვნებით, ახლებურად წარმოსახავს რეკლამებს და ქმნის ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla }-ს 2024 წლის მოხსენებაში.
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt = აბსტრაქტული პიქსელური მხატვრობა მწვანე, ნარინჯისფერი და ვარდისფერი ფერებში
+m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 m24-home-read-the-report = გაეცანით მოხსენებას
 
 ## Issues
@@ -126,11 +126,11 @@ m24-home-read-the-report = გაეცანით მოხსენება�
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = გონიერი მოწყობილობები გაფრთხილების ნიშნით.
 m24-home-explore-issues-shaping = გამოიკვლიეთ საკითხები, რომლებიც აყალიბებს ინტერნეტის მომავალს
-m24-home-privacy-not-included = *პირადულობა არ მოიცავს
-m24-home-search-our-reviews = მოიძიეთ ჩვენი მიმოხილვები, რომ ნახოთ, რომელი ტექნიკური გაჯეტები და აპები იყენებს ფარულად თქვენს მონაცემებს.
-m24-home-pni-search-now = მოძებნეთ ახლავე
+m24-home-privacy-not-included = *არ შეიცავს პირადულობას
+m24-home-search-our-reviews = მოიძიეთ ჩვენი მიმოხილვები და იხილეთ, რომელი მოწყობილობები ხელყოფენ თქვენს მონაცემებს უჩუმრად და შეუმჩნევლად.
+m24-home-pni-search-now = ახლავე მოძიება
 # Used as an accessible text alternative for an image
-m24-home-alt-irl-host = ბრიჯიტ ტოდი, IRL პოდკასტის წამყვანი.
+m24-home-alt-irl-host = ბრიჯიტ ტოდი, IRL-პოდკასტის წამყვანი.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = ჩვენი მრავალ ჯილდოს მფლობელი პოდკასტი წარმოადგენს ცვლილების შემქმნელებს, რომლებიც მუშაობენ ინტერნეტის უსაფრთხოებისა და ხელოვნური ინტელექტისა და ხელოვნური ინტელექტის საიმედოობის გასაუმჯობესებლად.
 m24-home-irl-listen-now = მოუსმინეთ ახლავე
