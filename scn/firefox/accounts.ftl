@@ -22,6 +22,7 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Sarbari e sincrunizzari
 firefox-accounts-get-email-alerts = Ricìviri nutizzi nnâ posta elittrònica quannu i to nfurmazzioni affàccianu nta na viulazzioni dî dati
 firefox-accounts-protect-your-identity = Prutèggiri a to idintità usannu na màscara pû tilèfunu e a posta elittrònica
 firefox-accounts-keep-your-passwords = Tèniri i to chiavi ô sicuru e sempri a purtata di manu.
+firefox-accounts-travel-the-internet = Nàviga nnâ riti di manera prutetta, nni tutti i dispusitivi.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
