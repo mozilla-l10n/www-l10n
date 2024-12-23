@@ -31,6 +31,7 @@ vpn-what-is-protecting-your-connection = Škita waš zwisk ze zjawnym WLAN-syću
 vpn-what-is-ensuring-the-confidentiality = Zawěsćuje dowěrliwosć a integritu wašeho přistupa k internetej.
 vpn-what-is-make-it-more = Poćežuje wabjenskim syćam wužiwanje wašeje IP-adresy, zo njebychu móhli wabjenske cilowe profile załožili, kotrež wam přez internet sćěhuja.
 vpn-what-is-what-are-the = Kotre njelěpšiny wužiwanje VPN ma?
+vpn-what-is-some-service-providers = Někotři słužbni poskićowarjo wopyty wot VPN blokuja a zadźěwaja přistupej k jich wobsahej, hdyž VPN je aktiwizowany. Někotre VPN was borzdźa abo móhli wašu šěrokosć pasma wobmjezować. A někotre VPN špatnje wotrězuja, hdyž wo respektowanje wužiwarskeje priwatnosće a wěstoty dźe.
 vpn-what-is-are-vpns-safe = Su VPN wěste?
 vpn-what-is-can-vpns-protect = Móža VPN mje před cyberkriminelnymi škitać?
 vpn-what-is-are-vpns-legal = Su VPN legalne?
