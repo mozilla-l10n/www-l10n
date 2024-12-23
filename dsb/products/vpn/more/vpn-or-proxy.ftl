@@ -29,6 +29,11 @@ vpn-or-proxy-a-proxy-is-useful = Proksy jo wužytny, gaž web w zjawnem WLAN pś
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> jo lažko instalěrujobne rozšyrjenje wobglědowaka, kótarež wěsty, skoděrowany tunel do interneta bitujo, aby zwisk wašogo wobglědowaka wšuźi šćitało, źož { -brand-name-firefox } wužywaśo. Jo malsne a dajo se lažko zmóžniś, gažkuli jo za pśidatnu wěstotu w swójom wobglědowaku trjebaśo.
 vpn-or-proxy-vpns-devicelevel-protection = VPNs: šćit na rowninje rěda
+vpn-or-proxy-vpns-do-more = VPN wěcej ako proksyje cynje: Proksy jano to šćita, což w swójom wobglědowaku cyniśo, mjaztym až VPN waš wšen wobchad šćita, mjazy nim waš wobglědowak, źožkuli sćo instalěrował a zmóžnił VPN. VPN pśidatnu wěstotu a priwatnosć za wšu wašu aktiwitu online bituju – wažne pśemyslenje, jolic cośo swóju aktiwitu wobchowaś a za datami głodnym pśeslědowakam póśěžyś, profil za wšykne waše rědy ako waš telefon, licadło a tablet załožyś.
 vpn-or-proxy-a-vpn-works = VPN wěsty „tunel“ mjazy wašym rědom a internetom napórajo. Šćita wašu priwatnosć na dwě wašni:
 vpn-or-proxy-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo k njepóznaśeju cyni.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-or-proxy-a-vpn-also = VPN teke wěstotu za wótwórjone a zjawne zwiski WLAN bitujo. Wótwórjony WLAN móžo riskantny byś a njamóžośo wěsty byś, až se něchten drugi ze samskeju seśu njezwězujo, aby was wusnuchlił. Samo gaby waš wobchad jo skoděrowany był, mógu hyšći wiźeś, ku kótarym sedła se woglědujośo. A jolic nałoženje wužywaśo, kótarež koděrowanje njama – a samo źinsa wjele to njama – mógu wšykno wiźeś, což w tom nałoženju cyniśo. { -brand-name-mozilla-vpn } jo malsna, wěsta, dowěry gódna słužba, kótaraž móžo pomagaś, wěstotnu źěru za was zacyniś. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> wam teke zmóžnja, wašo „stojnišćo“ (wótkulž se waš wobchad zda pśiś) z wěcej ako { $countries } krajow wubraś.
 vpn-or-proxy-choose-a-trustworthy = Wubjeŕśo dowěry gódnu słužbu
