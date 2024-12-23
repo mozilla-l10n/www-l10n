@@ -29,6 +29,7 @@ vpn-what-is-keeping-your-online = Škita priwatnosć wašich aktiwitow online.
 vpn-what-is-keeping-your-home = Taji waše stejnišćo abo husto wopytane městna.
 vpn-what-is-protecting-your-connection = Škita waš zwisk ze zjawnym WLAN-syću, na př. w kofejowni, na lětanišću, we wobchodźe abo knihowni.
 vpn-what-is-ensuring-the-confidentiality = Zawěsćuje dowěrliwosć a integritu wašeho přistupa k internetej.
+vpn-what-is-make-it-more = Poćežuje wabjenskim syćam wužiwanje wašeje IP-adresy, zo njebychu móhli wabjenske cilowe profile załožili, kotrež wam přez internet sćěhuja.
 vpn-what-is-what-are-the = Kotre njelěpšiny wužiwanje VPN ma?
 vpn-what-is-are-vpns-safe = Su VPN wěste?
 vpn-what-is-can-vpns-protect = Móža VPN mje před cyberkriminelnymi škitać?
