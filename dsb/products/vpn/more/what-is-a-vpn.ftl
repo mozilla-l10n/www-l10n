@@ -14,6 +14,10 @@ vpn-what-is-concealing-your-ip = Waša IP-adresa se schowajo. Tak se waša ident
 vpn-what-is-encrypting-your-traffic = Koděrujo waš wobchad mjaz wami a wašym póbitowarjom VPN, až njeby nichten mógał jen we wašej lokalnej seśi dešifrěrowaś abo změniś.
 vpn-what-is-in-the-past = W zajźonosći su zwětšego pśedewześa VPN wužywali, aby wěsty zdalony pśistup k swójim nutśikownym słužbam a firmowym datam zmóžnili. Něnto pak su VPN za kuždego k dispoziciji, kenž co swój zwisk z internetom šćitaś, pśedewšym, gaž jo pśez pśepušćate seśi ako zjawny WLAN, ale jo samo w seśi doma wužytny.
 vpn-what-is-a-vpn-will = VPN buźo wobchad šćitaś, kótaryž mjazy sobu a swójim póbitowarjom VPN sćelośo, lěc pśez waš wobglědowak, nałoženja lěc druge słužby. Aby VPN zarědował, musyśo konto pla póbitowarja VPN załožyś a software VPN na swójom licadle abo telefonje instalěrowaś. Gaž zmóžnjone, VPN wobchad ze wšych nałoženjow a software pśeźěłujo, kótarež na wašom rěźe běže, tak móžośo licho pśez zwisk wěsteje priwatneje seśi pśeglědowaś a komunicěrowaś.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30"
+vpn-what-is-a-vpn-provider = Pobitowaŕ VPN typiski wěstu licbu zwiskowych wrotow na rozdźělnych globalnych městnach, kótaraž wam zmóžnja, IP-adresu drugego stojnišća ako swójske wužywaś. Tak městno, z kótarymž zwězujośo, IP VPN ako žrědło wašogo wobchada wiźi, nic wašu napšawdnu IP-adresu. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> waš wobchad pśez wěsty serwer wjeźo a zmóžnja wam, městno z wěcej ako { $countries } krajow wubraś.
 vpn-what-is-when-should-i = Gdy ja dejał VPN wužywaś?
 vpn-what-is-wait-i-thought = Wokognuśe, som myslił,  až mój internetny wobchad jo se južo skoděrował z HTTPS …
 vpn-what-is-why-would-i = Cogodla by ja wužywał VPN?
