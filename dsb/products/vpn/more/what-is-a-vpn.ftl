@@ -47,4 +47,7 @@ vpn-what-is-while-a-vpn = Mjaztym až VPN wěsty zwisk z internetom póbitujo, n
 vpn-what-is-are-vpns-legal = Su VPN legalne?
 vpn-what-is-installing-and-using = Instalěrowanje a wužywanje VPN stej tuchylu w nejwěcej krajach legalnej, mjazy nimi w Zjadnośonych statach, Zjadnośonym kralojstwje , Kanaźe a Nowoseelandskej, ale někotare kraje jogo wužywanje snaź regulěruju. Jolic cośo VPN wužywaś, lažy na was, kazń kraja pśeglědowaś, aby wy zgónił, lěc wužywanje VPN jo legalne abo nic.
 vpn-what-is-are-vpns-only = Daju VPN jano za licadła?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPN daju se za šćitanje wšych wašych rědow wužywaś – licadła, laptopy, tablety a telefony. Jolic pśez samostatne nałoženja zwenka wobglědowaka pśistup k internetoju maśo, jo VPN dobra wólba za šćit wašeje priwatnosći a wěstoty na kuždem rěźe. Musyśo VPN na kuždem rěźe instalěrowaś, aby statkowny był. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> njewobgranicowany zwisk za až do pěś rědow bitujo, gaž se z internetom z někakego nałoženja abo wobglědowaka zwězujośo.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Malsny, wěsty, dowěry gódny.
