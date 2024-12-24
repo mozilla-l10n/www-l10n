@@ -33,6 +33,7 @@ vpn-what-is-make-it-more = Póśěžujo wabjeńskim seśam wužywanje wašeje IP
 vpn-what-is-what-are-the = Kótare njelěpšyny wužywanje VPN ma?
 vpn-what-is-some-service-providers = Někotare słužbne póbitowarje woglědy wót VPN blokěruju a zajźuju pśistupoju k jich wopśimjeśu, gaž VPN jo aktiwěrowany. Někotare VPN was spinaju abo mógli wašu šyrokosć pasma wobgranicowaś. A někotare VPN špatnje wótrěznu, gaž wó respektěrowanje wužywaŕskeje priwatnosći a wěstoty źo.
 vpn-what-is-are-vpns-safe = Su VPN wěste?
+vpn-what-is-its-very-hard = Jo wjelgin śěžko, dowěry gódny VPN namakaś. VPN su za šćit wužywarjow myslony, mjaztym až te su online, ale nic wšykne VPN jadnaku słužbu póbituju. Gaž cośo słužbu VPN kupiś, zawěsććo, až wuměnjenja rozmějośo, do kótarychž zwólijośo. Wjele lubi, wjelicne byś a se na priwatnosć koncentrěrowaś, ale wjelika licba wót nich swójo zlubjenje njedoźaržujo. Někotare waše aktiwity online protokolěruju, aby mógli marketingowym firmam waše daty a informacije pśedaś. Druge VPN wopytuju was pśeznaniś, až škódnu software na swójich rědach instalěrujośo.
 vpn-what-is-can-vpns-protect = Mógu VPN mě pśed cyberkriminelnymi šćitaś?
 vpn-what-is-are-vpns-legal = Su VPN legalne?
 vpn-what-is-are-vpns-only = Daju VPN jano za licadła?
