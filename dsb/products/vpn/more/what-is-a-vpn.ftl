@@ -51,3 +51,6 @@ vpn-what-is-are-vpns-only = Daju VPN jano za licadła?
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-vpns-can-be = VPN daju se za šćitanje wšych wašych rědow wužywaś – licadła, laptopy, tablety a telefony. Jolic pśez samostatne nałoženja zwenka wobglědowaka pśistup k internetoju maśo, jo VPN dobra wólba za šćit wašeje priwatnosći a wěstoty na kuždem rěźe. Musyśo VPN na kuždem rěźe instalěrowaś, aby statkowny był. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> njewobgranicowany zwisk za až do pěś rědow bitujo, gaž se z internetom z někakego nałoženja abo wobglědowaka zwězujośo.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Malsny, wěsty, dowěry gódny.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> jo słužba, kótaremuž móžośo dowěriś, aby waš zwisk z internetom na wšych wašych rědach wěsty wóstał. Njewobchowamy protokole wašeje seśoweje aktiwity a njamamy partnaŕstwa z tśeśimi póbitowarjami, kótarež profile wó tom wuwijaju, což wy online cyniśo. W swěśe, źož njewěstosći su „nowe normalne“, wěmy, až jo wažnjejše ako do togo, až se wěsty cujośo a až wěsćo, až to, což online cyniśo, jo waša swójska nastupnosć.
