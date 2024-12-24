@@ -45,12 +45,25 @@ m24-home-watch-now = Ҳоло тамошо кунед
 
 ## Media Springboard
 
+m24-home-type = Навъ
+m24-home-author = Муаллиф
+m24-home-topic = Мавзуъ
+m24-home-intro = Муқаддима
+m24-home-tag-article = Мақола
+m24-home-tag-video = Видео
+m24-home-topic-news = Хабарҳо
+m24-home-topic-ai = Зеҳни сунъӣ
+m24-home-topic-ps = Махфият ва амният
 
 ## Showcase
 
+m24-home-rise25-awards = Ҷоизаҳои «{ -brand-name-rise25 }»
+m24-home-state-of-mozilla = Вазъияти «{ -brand-name-mozilla }»
+m24-home-read-the-report = Хондани гузориш
 
 ## Issues
 
+m24-home-privacy-not-included = *Махфият дохил карда нашудааст
 m24-home-pni-search-now = Ҳозир ҷустуҷӯ кунед
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ҳозир гӯш кунед

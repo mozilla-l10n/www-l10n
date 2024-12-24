@@ -12,4 +12,5 @@ vpn-desktop-servers-headline = Ба серверҳо дар саросари ҷ�
 # Variables:
 #   $devices (number) - number of available devices
 vpn-desktop-devices-headline = Имкони муҳофизат то { $devices } дастгоҳ
+vpn-desktop-speed-headline = Суръати бениҳоят тез ва номаҳдуд
 vpn-desktop-log-headline = Махфияти шумо ҳамеша дар ҷойи аввал мебошад
