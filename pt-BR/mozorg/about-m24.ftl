@@ -53,6 +53,8 @@ m24-about-read-about-our = Saiba mais sobre nosso compromisso
 ## Careers
 
 # Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Inteligência artificial confiável, { -brand-name-common-voice }, aprendizagem federada.
+# Used as an accessible text alternative for an image
 m24-about-alt-conversation = Funcionário da { -brand-name-mozilla } no meio de uma conversa.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Funcionário da { -brand-name-mozilla } tomando café.

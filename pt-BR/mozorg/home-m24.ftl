@@ -108,3 +108,4 @@ m24-home-search-our-reviews = Confira as nossas análises para ver quais aplicat
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Ouvir agora
