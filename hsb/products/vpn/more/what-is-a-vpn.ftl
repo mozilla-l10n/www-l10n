@@ -33,7 +33,7 @@ vpn-what-is-make-it-more = Poćežuje wabjenskim syćam wužiwanje wašeje IP-ad
 vpn-what-is-what-are-the = Kotre njelěpšiny wužiwanje VPN ma?
 vpn-what-is-some-service-providers = Někotři słužbni poskićowarjo wopyty wot VPN blokuja a zadźěwaja přistupej k jich wobsahej, hdyž VPN je aktiwizowany. Někotre VPN was borzdźa abo móhli wašu šěrokosć pasma wobmjezować. A někotre VPN špatnje wotrězuja, hdyž wo respektowanje wužiwarskeje priwatnosće a wěstoty dźe.
 vpn-what-is-are-vpns-safe = Su VPN wěste?
-vpn-what-is-its-very-hard = Je jara ćežko, dowěry hódny VPN namakać. VPN su za škit wužiwarjow mysleny, mjeztym ći su online, ale nic wšě VPN jenaku słužbu poskićeja. Hdyž chceće słužbu VPN kupić, zawěsćće, zo wuměnjenja rozumiće, do kotrychž zwoliće. Wjele lubi, wulkotne być a so na priwatnosć koncentrować, ale wulka ličba wot nich swoje slubjenje njedodźeržuje. Někotre waše aktiwity online protokoluja, zo bychu móhli marketingowym firmam waše daty a informacije předać. Druhe VPN pospytuja was přeswědčić, zo škódnu software na swojich gratach instalujeće.
+vpn-what-is-its-very-hard = Je jara ćežko, dowěry hódny VPN namakać. VPN su za škit wužiwarjow mysleny, mjeztym zo ći su online, ale nic wšě VPN jenaku słužbu poskićeja. Hdyž chceće słužbu VPN kupić, zawěsćće, zo wuměnjenja rozumiće, do kotrychž zwoliće. Wjele lubi, wulkotne być a so na priwatnosć koncentrować, ale wulka ličba wot nich swoje slubjenje njedodźeržuje. Někotre waše aktiwity online protokoluja, zo bychu móhli marketingowym firmam waše daty a informacije předać. Druhe VPN pospytuja was přeswědčić, zo škódnu software na swojich gratach instalujeće.
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
