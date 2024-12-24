@@ -7,12 +7,25 @@ navigation-refresh-mozilla = { -brand-name-mozilla }
 ## About us
 
 navigation-refresh-about-us = ਸਾਡੇ ਬਾਰੇ
+navigation-refresh-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ
 navigation-refresh-close-about-us-menu = ਸਾਡੇ ਬਾਰੇ ਮੇਨੂ ਬੰਦ ਕਰੋ
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = ਹਿੱਸਾ ਲਵੋ
+navigation-refresh-get-involved-v2 = ਸਾਥ ਦਿਓ
 navigation-refresh-innovation-projects = ਨਵੇਂ ਖੋਜੀ ਪ੍ਰੋਜੈਕਟ
+navigation-refresh-innovation-projects-v2 = ਨਵੇਂ ਖੋਜੀ ਪ੍ਰੋਜੈਕਟ
 navigation-refresh-blog = ਬਲੌਗ
+navigation-refresh-our-mission = ਸਾਡਾ ਮਕਸਦ
+navigation-refresh-our-work = ਸਾਡਾ ਕੰਮ
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ
 
 ## Firefox
 
