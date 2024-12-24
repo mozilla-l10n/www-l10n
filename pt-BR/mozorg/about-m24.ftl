@@ -48,6 +48,7 @@ m24-about-chicago = Um empreendedor de Chicago.
 
 m24-about-lets-build-a = Vamos construir um futuro mais justo
 m24-about-see-how-were = Veja como estamos promovendo um ambiente online diverso, inclusivo e acessível para todos.
+m24-about-read-about-our = Saiba mais sobre nosso compromisso
 
 ## Careers
 
