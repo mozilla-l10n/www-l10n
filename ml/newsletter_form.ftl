@@ -26,5 +26,6 @@ newsletter-form-select-country = രാജ്യം തെരഞ്ഞെടു�
 newsletter-form-sign-me-up = പങ്കു് ചേരുക
 newsletter-form-sign-up-now = ഇപ്പോൾ പങ്കു് ചേരുക
 newsletter-form-thanks = നന്ദി!
+newsletter-form-leave-this-field-empty = ഈ തലം ഒന്നുമിട്ടാതെ വിടുക
 newsletter-form-yes = അതെ
 newsletter-form-no = ഇല്ല
