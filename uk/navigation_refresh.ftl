@@ -12,7 +12,10 @@ navigation-refresh-mozilla-manifesto = Маніфест { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Долучитися
 navigation-refresh-innovation-projects = Інноваційні проєкти
+navigation-refresh-innovation-projects-v2 = Інноваційні проєкти
 navigation-refresh-blog = Блог
+navigation-refresh-our-mission = Наша місія
+navigation-refresh-our-work = Наша робота
 
 ## Firefox
 
@@ -30,9 +33,9 @@ navigation-refresh-firefox-blog = Блог { -brand-name-firefox }
 
 navigation-refresh-products = Продукти
 navigation-refresh-close-products-menu = Закрити меню Продукти
-navigation-refresh-mozilla-monitor = { -brand-name-monitor }
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-pocket = { -brand-name-pocket }
-navigation-refresh-mozilla-vpn = { -brand-name-vpn }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
