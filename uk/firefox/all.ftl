@@ -45,6 +45,8 @@ firefox-all-download-esr-version = Завантажити { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Ми перебуваємо у перехідному періоді між основними версіями ESR { $esr_next_major } та { $esr_current_major }.
+firefox-all-esr-when-there-is = Коли відбувається оновлення основної версії, завжди відбувається перекриття декількох точкових випусків { -brand-name-firefox-esr }, щоб дати можливість користувачам старої версії підготуватися до переходу на нову.
+firefox-all-esr-if-you-choose = У разі завантаження старішої версії ESR, оновлення до нової версії відбудеться автоматично після завершення перехідного періоду.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Дізнайтеся більше про цикл випуску <a { $attrs }>{ -brand-name-firefox-esr }</a>.
@@ -88,3 +90,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Завантажити ESR 115
+firefox-all-note-unsupported = Примітка. Якщо ви використовуєте Windows 7, Windows 8, Windows 8.1, macOS 10.12, 10.13 або 10.14, завантажте ESR 115, щоб використовувати { -brand-name-firefox }.

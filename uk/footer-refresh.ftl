@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Отримуйте найкращі поради, підказки та оновлення від { -brand-name-firefox }. Ми обіцяємо зберігати приватність і безпеку вашої електронної пошти – лише найкращі матеріали про { -brand-name-firefox } надсилаються безпосередньо у вашу поштову скриньку.
+footer-refresh-discover-mozilla-products = Відкрийте для себе продукти й ініціативи { -brand-name-mozilla }. Ми обіцяємо зберігати приватність і безпеку вашої електронної пошти – жодного поширення чи продажу інформації, лише чудові оновлення.
 footer-refresh-leadership = Керівництво
 footer-refresh-advertise = Рекламуйте з { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Примітки до випуску { -brand-name-firefox }
@@ -39,4 +39,7 @@ footer-refresh-websites-cookies = Файли cookie
 footer-refresh-websites-legal = Правові положення
 footer-refresh-community-participation-guidelines = Настанови щодо участі в спільноті
 footer-refresh-about-this-site = Про цей сайт
+footer-refresh-all-languages = Усі мови
 footer-refresh-language = Мова
+footer-refresh-primary-nav-aria-label = Основний колонтитул
+footer-refresh-secondary-nav-aria-label = Додатковий колонтитул

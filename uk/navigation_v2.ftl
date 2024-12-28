@@ -17,6 +17,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name
 navigation-v2-get-the-customizable-mobile = Отримайте налаштовуваний мобільний браузер для смартфонів { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Отримайте мобільний браузер для свого { -brand-name-iphone } або { -brand-name-ipad }.
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } для мобільних пристроїв
+navigation-v2-take-speed-privacy-and = Швидкість, приватність і спокій завжди з вами. На { -brand-name-android } та { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Простий приватний мобільний перегляд.
 navigation-v2-firefox-blog = Блог { -brand-name-firefox }
@@ -44,6 +46,7 @@ navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нові функції та інструменти для персоналізованої роботи з { -brand-name-mdn }
 navigation-v2-view-all-products = Переглянути всі продукти
 navigation-v2-fakespot = { -brand-name-fakespot }
+navigation-v2-use-ai-to-detect = Використовуйте ШІ для виявлення неправдивих відгуків і шахрайства
 
 ## Who We Are menu
 
@@ -63,6 +66,7 @@ navigation-v2-mozilla-blog = Блог { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Дізнайтеся про { -brand-name-mozilla } та важливі для нас проблеми.
 navigation-v2-more-about-mozilla = Докладніше про { -brand-name-mozilla }
 navigation-v2-impact = Вплив
+navigation-v2-find-out-how = Дізнайтеся, як ми робимо Інтернет більш всеохопним і стабільним
 
 ## Innovation menu
 
