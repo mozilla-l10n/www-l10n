@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Завантажте { -brand-name-firefox } англійською (США) та понад 90 іншими мовами
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Завантажте { -brand-name-firefox-browser } англійською (США) та понад 90 іншими мовами
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Кожен заслуговує на доступ до інтернету — ваша мова не повинна бути перешкодою. Ось чому за допомогою відданих волонтерів по всьому світу ми робимо { -brand-name-firefox } доступним більш ніж 90 мовами.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Кожен заслуговує доступу до інтернету — ваша мова ніколи не повинна бути обмеженням. Ось чому завдяки допомозі відданих волонтерів у всьому світі ми зробили { -brand-name-firefox-browser } доступним понад 90 мовами.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Скануйте QR-код, щоб отримати <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Вибрати іншу мову
 firefox-all-down-arrow = Виберіть зі списку нижче
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Допомога
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Браузер:
 firefox-all-browser-v2 = 1. Браузер:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Платформа:
 firefox-all-platform-v2 = 2. Платформа:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Мова:
 firefox-all-language-v2 = 3. Мова:
 firefox-all-download = 4. Завантажити:
 firefox-all-desktop = Комп'ютер
@@ -97,3 +87,4 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Завантажити ESR 115
