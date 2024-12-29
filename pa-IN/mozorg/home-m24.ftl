@@ -89,6 +89,7 @@ m24-home-read-the-report = ਰਿਪੋਰਟ ਨੂੰ ਪੜ੍ਹੋ
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = ਸਾਵਧਾਨ ਆਈਕਾਨ ਨਾਲ ਸਮਾਰਟ ਡਿਵਾਈਸ।
+m24-home-explore-issues-shaping = ਇੰਟਰਨੈਟ ਦੇ ਭਵਿੱਖ ਨੂੰ ਸ਼ਕਲ ਦੇਣ ਲਈ ਸਾਹਮਣੇ ਆ ਰਹੇ ਮਸਲਿਆਂ ਨੂੰ ਸਮਝੋ
 m24-home-privacy-not-included = *ਪਰਦੇਦਾਰੀ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ
 m24-home-pni-search-now = ਹੁਣੇ ਖੋਜੋ
 m24-home-irl-podcast = { -brand-name-irl-podcast }
