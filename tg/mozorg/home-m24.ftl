@@ -39,9 +39,14 @@ m24-home-tag-program = Барнома
 m24-home-tag-event = Рӯйдод
 m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Ангораи «{ -brand-name-llamafile }».
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-watch-now = Ҳоло тамошо кунед
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Овози худро пешкаш кунед
 
 ## Media Springboard
 
