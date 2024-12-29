@@ -18,6 +18,7 @@ features-shared-bookmark-manager = ਬੁੱਕਮਾਰਕ ਮੈਨੇਜਰ
 features-shared-private-browsing-mode = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਢੰਗ
 features-shared-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ਐਡ-ਆਨ ਅਤੇ ਬਰਾਊਜ਼ਰ ਇਕਸਟੈਨਸ਼ਨਾਂ
 features-shared-pinned-browser-tabs = ਟੰਗੀਆਂ ਹੋਈਆਂ ਬਰਾਊਜ਼ਰ ਟੈਬਾਂ
+features-shared-eyedropper-tool = ਆਈ-ਡਰੋਪਰ ਟੂਲ
 features-shared-pdf-editor = PDF ਐਡੀਟਰ
 features-shared-fingerprinter-blocking = ਫਿੰਗਰਪਰਿੰਟਾਂ ਲਈ ਪਾਬੰਦੀ
 features-shared-translate-the-web = ਵੈੱਬ ਦਾ ਉਲੱਥਾ ਕਰੋ
