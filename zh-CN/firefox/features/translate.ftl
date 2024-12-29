@@ -20,7 +20,7 @@ features-translate-when-you-translate-a-webpage = 翻译网页，隐私无忧
 features-translate-when-your-translations-are = 在本地进行翻译时，数据完全不会离开您的设备，也无需依靠云服务进行翻译。这样一来，即使是 { -brand-name-mozilla } 也无法得知您所翻译的网页，这也是我们的翻译功能有别于其他翻译工具的显著特点。
 features-translate-what-languages-are-currently = 目前支持哪些语言？
 # This is followed by a localized list of supported languages
-features-translate-the-languages-below-are-what-v2 = { -brand-name-firefox-translations }功能目前支持下列语言
+features-translate-the-languages-below-are-what-v2 = { -brand-name-firefox-translations }功能目前支持下列语言：
 # Obsolete string (expires: 2025-02-17)
 features-translate-the-languages-below-are-what = 目前 { -brand-name-firefox } 翻译功能支持下列语言：
 features-translate-and-more-languages-are-in = 更多语言即将上线！
