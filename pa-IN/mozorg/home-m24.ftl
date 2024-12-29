@@ -83,9 +83,12 @@ m24-home-headline-you-ai-v2 = ਤੁਹਾਡੀ, AI ਅਤੇ ਇੰਟਰਨ�
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } ਇਨਾਮ
+m24-home-read-the-report = ਰਿਪੋਰਟ ਨੂੰ ਪੜ੍ਹੋ
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = ਸਾਵਧਾਨ ਆਈਕਾਨ ਨਾਲ ਸਮਾਰਟ ਡਿਵਾਈਸ।
 m24-home-privacy-not-included = *ਪਰਦੇਦਾਰੀ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ
 m24-home-pni-search-now = ਹੁਣੇ ਖੋਜੋ
 m24-home-irl-podcast = { -brand-name-irl-podcast }
