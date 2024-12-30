@@ -32,10 +32,12 @@ home-join-us-in-shaping = Junte-se a nós para moldar inteligência artificial c
 home-work-on-ai = O trabalho da { -brand-name-mozilla } com inteligência artificial não é apenas uma novidade. Dedicamos anos financiando, construindo e defendendo que inteligência artificial seja aberta, justa e desenvolvida com responsabilidade. Nosso foco está na criação de inteligência artificial que sirva às pessoas, priorize a transparência e contribua para o bem público, não interesses corporativos.
 home-read-more = Saiba mais
 home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
+# Obsolete string (expires: 2025-01-05)
+home-at-its-core = No seu cerne, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que muda o mundo através de uma variedade de empreendimentos, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Qual o nosso diferencial? Somos movidos por uma missão, Significa que temos a liberdade de tomar todas as nossas decisões com base no que for melhor para a internet e para todos online, não com base em exigências de acionistas – na verdade, não temos nenhum.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core = No seu cerne, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que muda o mundo através de uma variedade de empreendimentos, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Qual o nosso diferencial? Somos movidos por uma missão, Significa que temos a liberdade de tomar todas as nossas decisões com base no que for melhor para a internet e para todos online, não com base em exigências de acionistas – na verdade, não temos nenhum.
+home-at-its-core-v2 = No seu cerne, a { -brand-name-mozilla } é uma organização ativista liderada pela { -brand-name-mozilla-foundation } que muda o mundo através de uma variedade de empreendimentos, incluindo a { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Qual o nosso diferencial? Somos movidos por uma missão, Significa que temos a liberdade de tomar todas as nossas decisões com base no que for melhor para a internet e para todos online, não com base em exigências de acionistas – na verdade, não temos nenhum.
 home-learn-about-mofo = Conheça a { -brand-name-mozilla-foundation }
 home-join-the-fight = Participe da luta por uma internet saudável.
 home-your-voice-your-code = Sua voz. Seu código. Suas ideias. Existem literalmente milhares de maneiras de contribuir na { -brand-name-mozilla }.
@@ -45,8 +47,6 @@ home-the-mozilla-project = O projeto { -brand-name-mozilla } foi fundado em San 
 home-eventually-the-open = Após algum tempo, o projeto de código aberto { -brand-name-mozilla } transformou-se na popular primeira versão do { -brand-name-firefox }.
 home-today-mozilla-continues = Atualmente, a { -brand-name-mozilla } continua seu movimento em direção a uma internet melhor, com milhões de membros ativos na comunidade no mundo todo, defendendo tecnologia ética, inteligência artificial confiável e produzindo produtos que priorizam a privacidade e dão mais poder às pessoas.
 home-learn-more-about-mozilla = Saiba mais sobre a { -brand-name-mozilla }
-home-get-good-news = Receba (boas) notícias da { -brand-name-mozilla }
-home-get-news-and-tips = Receba notícias e dicas da { -brand-name-mozilla } para se manter seguro e informado sobre tudo o que torna a web um lugar mais saudável.
 # VPN Feature
 home-featured-product = Produto em destaque
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

@@ -97,15 +97,21 @@ m24-home-rise25-awards = Prêmios { -brand-name-rise25 }
 m24-home-get-to-know = Conheça os líderes que promovem o desenvolvimento de inteligência artificial confiável, inclusiva e transparente, estabelecendo novos padrões e inspirando a próxima geração de inovadores.
 m24-home-watch-the-award = Assista à cerimônia de premiação
 # Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Um ganhador orgulhoso de si no { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Uma alegre ganhadora no { -brand-name-rise25 }.
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Dispositivos inteligentes com ícone de alerta.
+m24-home-explore-issues-shaping = Conheça os assuntos que estão moldando o futuro da internet
 m24-home-privacy-not-included = *Privacidade não incluída
 m24-home-search-our-reviews = Confira as nossas análises para ver quais aplicativos e dispositivos tecnológicos estão coletando furtivamente os seus dados.
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Nosso podcast, vencedor de vários prêmios, apresenta os agentes de mudança que atuam para tornar a internet mais segura e a inteligência artificial mais confiável.
 m24-home-irl-listen-now = Ouvir agora
