@@ -22,18 +22,32 @@ contribute-tag-individual = Nnividuali
 contribute-tag-support = Supportu
 contribute-task-translate-heading = Traduci i cuntinuti
 contribute-task-mozilla-codebase-heading = Cuntribuisci ô còdici di { -brand-name-mozilla }
+contribute-task-join-heading = Jùnciti â cumunità
 
 ## Mission
 
+contribute-mission-heading = A nostra missioni
+contribute-learn = Cchiù nfurmazzioni supra a { -brand-name-mozilla }
+contribute-read-manifesto = Leggi u nostru manifestu
+contribute-find-event = Trova un mmàttitu
+contribute-meet-volunteers = Ncòntrati chî nostri vuluntari
+contribute-donate = Fai na dunazzioni
+contribute-help-fund = Ajùtani a finanziari a nostra missioni
+contribute-follow-mozilla = Sicuta a { -brand-name-mozilla }
 
 ## Made by
 
 
 ## Newsletter
 
+contribute-newsletter-heading = Nun ti dicidisti ancora?
 
 ## Support
 
+contribute-support-heading = Fatti ajutari
+contribute-mozilla-support = Supportu di { -brand-name-mozilla }
 
 ## Web compat
 
+contribute-web-compat-heading = Prubblemi cu na pàggina?
+contribute-report-issue = Signalija un prubblema
