@@ -7,7 +7,7 @@
 
 vpn-android-vpn-for-android = { -brand-name-mozilla } 的 Android 版 VPN
 vpn-android-ease-security = 使用 { -brand-name-mozilla-vpn } for Android 降低對安全性的擔心
-vpn-android-looking-for-a = 正在尋找一種 VPN 來保護您的 Android 裝置嗎{ -brand-name-mozilla-vpn } 是由非營利性公司所支援的。了解 VPN 如何保護您以及為什麼您應該信任 { -brand-name-mozilla } 並保護您的隱私與安全。
+vpn-android-looking-for-a = 在尋找一套能保護您 Android 裝置的 VPN 嗎？{ -brand-name-mozilla-vpn } 是由非營利公司在背後全力相挺。了解 VPN 如何保護您，以及為什麼您可以信任 { -brand-name-mozilla } 能保護您的隱私權與安全。
 vpn-android-whether-youre = 不論您是在家、在公司或是在結帳時保護您的線上安全是 { -brand-name-mozilla } 的頭等大事。與許多智慧科技產品一樣Android 裝置也內建了各種保護功能來保護您的裝置。透過 { -brand-name-mozilla } 出品的 Android 版 VPN您只要動動手指就可以讓安全性變得更進一步。
 vpn-android-using-the-fast = 使用快速安全的 { -brand-name-wireguard } VPN 通訊協定我們的 VPN 能夠加密您的裝置與 VPN 網路中的伺服器間的網路流量。如此可幫助我們在您忙碌時保護您的上網流量。就像是蓋上一道保護您喝完一杯蜂蜜的咖啡不被在桌上飛來飛去的果子影響的杯蓋。
 vpn-android-how-does-a = VPN 如何保護我的 Android 裝置？
