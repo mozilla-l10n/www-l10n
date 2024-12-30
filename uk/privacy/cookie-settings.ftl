@@ -9,9 +9,7 @@ cookie-settings-page-title = Налаштування файлів cookie
 cookie-settings-page-desc = На цій сторінці описано різні типи файлів cookie, які { -brand-name-mozilla } може використовувати, і ви можете контролювати, які типи даних ви дозволяєте збирати { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = Попередня сторінка
 cookie-settings-explainer = Файли cookie – це невеликі файли, що містять фрагменти інформації, які зберігаються на вашому пристрої під час відвідування вебсайтів. { -brand-name-mozilla } використовує файли cookie, щоб забезпечити правильну роботу наших вебсайтів, а також збирати інформацію про вашу взаємодію, наприклад про відвідані сторінки.
-cookie-settings-page-intro-v2 = На цій сторінці описані різні типи файлів cookie та подібних технологій, як-от піксельні теги, веб-маяки, чіткі GIF-файли, JavaScript і локальне сховище (далі — «файли cookie»), які { -brand-name-mozilla } може використовувати, і надає вам можливість контролювати те, які типи даних ви дозволяєте збирати { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = На цій сторінці описані різні типи файлів cookie та подібних технологій (таких як піксельні теги, веб-маяки, чисті GIF-файли, JavaScript і локальне сховище) («файли cookie»), які { -brand-name-mozilla } може використовувати, і надає вам змогу контролювати те, які типи даних ви дозволяєте збирати { -brand-name-mozilla }.
+cookie-settings-page-intro-v2 = На цій сторінці описані різні типи файлів cookie та подібних технологій, як-от піксельні теги, вебмаяки, чіткі GIF-файли, JavaScript і локальне сховище (далі — «файли cookie»), які { -brand-name-mozilla } може використовувати, і надає вам можливість контролювати те, які типи даних ви дозволяєте збирати { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Як { -brand-name-mozilla } використовує файли cookie
 cookie-settings-how-does-mozilla-use-subheading = Як { -brand-name-mozilla } використовує ці дані?
 cookie-settings-save-changes = Зберегти зміни

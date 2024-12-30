@@ -8,7 +8,7 @@
 
 ## Shared between Linux, Mac and Windows
 
-new-platform-free-web-browser = Вільний веб-браузер
+new-platform-free-web-browser = Вільний веббраузер
 new-platform-download-firefox = Завантажити { -brand-name-firefox }
 new-platform-download-the-fastest = Завантажте найшвидшу з існуючих версій { -brand-name-firefox }
 new-platform-faster-page-loading = Швидкіше завантаження сторінок, менше використання пам'яті, безліч нових можливостей: це новий { -brand-name-firefox }.
@@ -21,7 +21,7 @@ new-platform-need-help = Потрібна допомога?
 
 new-platform-download-mozilla-linux = Завантажити { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-linux }. Вільний веб-браузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-linux } сьогодні!
+new-platform-download-mozilla-desc-linux = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-linux }. Вільний веббраузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-linux } сьогодні!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Завантажте найшвидший в історії { -brand-name-firefox } для { -brand-name-linux }
 # /firefox/linux/ social sharing description
@@ -38,7 +38,7 @@ new-platform-look-under-the-hood = Зазирніть під капот. Як і
 
 new-platform-download-mozilla-firefox-mac = Завантажити { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-mac-short }. Вільний веб-браузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-mac-short } сьогодні!
+new-platform-download-mozilla-firefox-desc-mac = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-mac-short }. Вільний веббраузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-mac-short } сьогодні!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Завантажте найшвидший в історії { -brand-name-firefox } для { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
@@ -53,7 +53,7 @@ new-platform-be-the-master-of-your = Будьте господарем свог�
 
 new-platform-download-mozilla-windows = Завантажити { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-windows }
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-windows }. Вільний веб-браузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-windows } сьогодні!
+new-platform-download-mozilla-desc-windows = Завантажте { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-windows }. Вільний веббраузер, створений всесвітньою некомерційною спільнотою, яка віддана цілі надати кожному контроль в Інтернеті. Отримайте { -brand-name-firefox } для { -brand-name-windows } сьогодні!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Завантажте найшвидший в історії { -brand-name-firefox } для { -brand-name-windows }
 # /firefox/windows/ social sharing description
