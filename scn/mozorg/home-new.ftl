@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-mozilla-makes-privacy = { -brand-name-mozilla } crìa prudutti chi rispèttanu a privatizza
+home-learn-about-mofo = Nfurmazzioni supra â { -brand-name-mozilla-foundation }
+home-learn-more-about-mozilla = Cchià nfurmazzioni supra a { -brand-name-mozilla }

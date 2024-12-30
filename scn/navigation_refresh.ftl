@@ -5,12 +5,25 @@
 
 ## About us
 
+navigation-refresh-about-us = Supra di nuiautri
+navigation-refresh-about-mozilla = Nfurmazzioni supra a { -brand-name-mozilla }
+navigation-refresh-close-about-us-menu = Chiujì u minù dî nfurmazzioni supra di nuiautri
+navigation-refresh-mozilla-manifesto = U manifestu di { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = U manifestu di { -brand-name-mozilla }
+navigation-refresh-get-involved = Cullàbbura cu nuiautri
+navigation-refresh-get-involved-v2 = Cullàbbura cu nuiautri
+navigation-refresh-innovation-projects = Pruggetti dâ squatra Innovation
+navigation-refresh-innovation-projects-v2 = Pruggetti dâ squatra Innovation
+navigation-refresh-our-mission = A nostra missioni
+navigation-refresh-our-work = U nostru travagghiu
 
 ## Firefox
 
 navigation-refresh-firefox-browsers = Navigatura { -brand-name-firefox }
 navigation-refresh-close-firefox-browsers-menu = Chiuji u minù dî navigatura { -brand-name-firefox }
 navigation-refresh-firefox-for-desktop = { -brand-name-firefox } pû Scagnu
+navigation-refresh-firefox-for-android = { -brand-name-firefox } pi { -brand-name-android }
+navigation-refresh-firefox-for-ios = { -brand-name-firefox } pi { -brand-name-ios }
 navigation-refresh-all-products = Tutti i prudutti
 
 ## Products
