@@ -14,9 +14,11 @@ m24-about-page-title = Cchiù nfurmazzioni supra a { -brand-name-mozilla }
 ## Manifesto
 
 m24-about-read-our-manifesto = Leggi u nostru manifestu
+m24-about-build = Sbiluppu
 
 ## News
 
+m24-about-read-more = Cchiù nfurmazzioni
 
 ## Showcase
 
