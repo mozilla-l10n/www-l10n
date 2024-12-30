@@ -20,4 +20,4 @@ vpn-android-browse-the-internet = 自由上網，不送出所在地點。
 vpn-android-be-more-comfortable = 在咖啡廳、機場等場所，使用公共 Wi-Fi 時更輕鬆。
 vpn-android-avoid-intrusive = 避免煩人的地理定位廣告。
 vpn-android-the-mozilla-vpn-mobile = { -brand-name-mozilla-vpn } 行動應用程式很小，不會佔用您太多記憶體、也不會拖慢手機或消耗電量。
-vpn-android-unlike-free = 免費 VPN 或代理網站可能會偷偷監控您並賣出您的資訊來以資支付伺服器的費用。{ -brand-name-mozilla } 不會記錄您到訪過哪些地方、做了哪些事。
+vpn-android-unlike-free = 免費 VPN 或 Proxy 網站可能會偷偷監控您、把您的資訊賣掉，以支付伺服器費用。{ -brand-name-mozilla } 不同的是，我們不會記錄您造訪過哪些網站、做過哪些事。
