@@ -31,7 +31,7 @@ what-is-a-browser-cookies-not-the = Cookie（不是好吃的那種餅乾）
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = 網站會將您的個人資訊儲存在 <a href="{ $cookies }">Cookie</a> 檔案中。這個檔案的功能是用於您下次造訪此網站時，讓網站知道是您回來了。舉例來說，當您開啟某個網站時，該網站能記住您的登入狀態，或是使用者名稱與密碼，這就是透過 Cookie 做到的。
-what-is-a-browser-there-are-also = 有些 Cookie 可以記住您的更多詳細資訊。可能是您的興趣、上網模式等等。這代表網站可以為您提供更有目標的內容 — 通常是廣告。有幾種類型的 Cookie我們稱為<em>第三方</em>第三方 Cookie它們來自您甚至還沒有造訪過的網站在不同網站間追踪您收集關於您的資訊給其他公司。某些時候您可以封鎖這些類型的 Cookie但並非所有瀏覽器都允許您封鎖。
+what-is-a-browser-there-are-also = 有些 Cookie 會記住您更多、更詳細的資訊。可能是您的興趣、上網模式等等。這代表網站可以提供更針對性的內容 — 通常是廣告。有幾種類型的 Cookie 我們稱為<em>第三方</em> Cookie，它們來自您甚至沒有造訪過的網站，並且在不同網站間追蹤您、收集您的資訊，有時再轉賣給其他公司。您有時可以封鎖這些類型的 Cookie，但也不是所有瀏覽器都可以封鎖。
 what-is-a-browser-when-you-go-to = 當您開啟某個網站，且網站能記住您的登入狀態或使用者名稱與密碼時，就是透過 Cookie 達成的。
 what-is-a-browser-understanding = 了解隱私權
 what-is-a-browser-nearly-all-major = 幾乎所有主要的瀏覽器都有隱私瀏覽設定。這些選項是為了隱藏瀏覽紀錄對同一台電腦上的其他使用者隱藏。很多人以為隱私瀏覽或無痕模式會隱藏自己的身分與上網紀錄不讓網路服務供應商、政府、廣告商知道。他們不知道。這些設定只會清除系統上的歷史記錄方便您在公共電腦或公共電腦上處理敏感的個人資訊。 { -brand-name-firefox } 不僅如此。
