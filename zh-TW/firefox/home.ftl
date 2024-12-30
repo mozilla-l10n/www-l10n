@@ -18,26 +18,16 @@ firefox-home-know-when-hackers-strike = 了解駭客何時來襲，搶先一步�
 firefox-home-start-getting-breach = 訂閱資料外洩警報
 firefox-home-un-spam-your-life = 使用 { -brand-name-relay } 讓您的信箱不再充滿垃圾信
 firefox-home-try-relay = 試用 { -brand-name-relay }
-# Obsolete string
-firefox-home-keep-your-passwords = 在每個裝置上安全地儲存密碼
-# Obsolete string
-firefox-home-learn-more-about-lockwise = 了解 { -brand-name-lockwise } 的更多資訊
 # The strong tags around "respect" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-get-the-respect-you = 獲得您應有的<strong>尊重</strong>
 # Obsolete string
-firefox-home-every-single-firefox = 每套 { -brand-name-firefox } 產品，都符合我們對個人資料隱私的承諾:<br><strong>資料拿得越少越好、確保資料安全、絕不祕而不宣。</strong>
+firefox-home-every-single-firefox = 每套 { -brand-name-firefox } 產品，都符合我們對個人資料隱私的承諾：<br><strong>資料拿得越少越好、確保資料安全、絕不祕而不宣。</strong>
 firefox-home-every-single-mozilla = 每套 { -brand-name-mozilla } 產品，都符合我們對個人資料隱私的承諾：<br><strong>資料拿得越少越好、確保資料安全、絕不祕而不宣。</strong>
-# Obsolete string
-firefox-home-share-large-files-without = 安全地分享大檔案
-# Obsolete string
-firefox-home-start-sending-files = 開始安全地分享文件
 firefox-home-trade-clickbait-for = 把內容農場文換成有品質的內容
 firefox-home-learn-more-about-pocket = 了解 { -brand-name-pocket } 的更多資訊
 firefox-home-protection-for-your-whole = 在每一台裝置上都有完整保護。
 # The strong tags around "privacy" add a special underline. The underline breaks if it is on two words, so please omit the strong tags if they need to be around multiple words in your language.
 firefox-home-one-login-all-your = 只要登入一次，所有裝置都可以使用。<br>我們有一系列尊重您<strong>隱私</strong>的產品。
-firefox-home-join-firefox = 加入 { -brand-name-firefox }
-firefox-home-learn-more-about-joining = 了解加入 { -brand-name-firefox } 的更多資訊
 firefox-home-get-the-browser-extension = 安裝瀏覽器擴充套件
 firefox-home-get-the-facebook-container = 安裝 { -brand-name-facebook-container } 擴充套件
 firefox-home-download-the-browser = 下載瀏覽器

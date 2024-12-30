@@ -18,7 +18,7 @@ features-private-sidenote-we-are-not-big-tech = <em>註：</em>我們不是大�
 features-private-what-information-does-firefox = { -brand-name-firefox } 會收集哪些資訊？
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
-features-private-mozilla-the-maker-of-firefox = { -brand-name-firefox } 的開發者 { -brand-name-mozilla }{ -brand-name-firefox } 非常重視隱私權。 <strong>非常嚴重</strong>.實際上我們打造的每一台 { -brand-name-firefox } 產品都符合我們對<a href="{ $url }">個人資料的承諾</a>: 拿得越少越好。確保資料安全。絕不偷偷來。
+features-private-mozilla-the-maker-of-firefox = { -brand-name-firefox } 的開發者 { -brand-name-mozilla } 非常重視隱私權，<strong>真的非常重視</strong>。實際上我們打造的每一套 { -brand-name-firefox } 產品都符合我們對<a href="{ $url }">個人資料的承諾</a>：資料拿得越少越好、確保資料安全、絕不祕而不宣。
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
 features-private-read-firefoxs-privacy-notice = 若需更多資訊，請閱讀 <a href="{ $url }">{ -brand-name-firefox } 的隱私權公告</a>。說真的，請花點時間看看，我們沒有用超細小的字體藏東藏西。

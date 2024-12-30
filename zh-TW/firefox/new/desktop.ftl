@@ -129,11 +129,7 @@ firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>: 資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有裝置都能使用。只需要一組 <a { $attrs }>{ -brand-name-firefox } 帳號</a>，就能將分頁、上網記錄與書籤隨身帶著走。
+firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>：資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = 您所有的裝置平台都可以使用 { -brand-name-firefox }，只要註冊 <a { $attrs }>{ -brand-name-mozilla-account }</a>就可以把開啟的分頁、上網紀錄與書籤隨身帶著走，還可以使用更多 { -brand-name-mozilla } 產品。
@@ -184,4 +180,3 @@ firefox-desktop-download-please-follow = 請依照<a href="{ $url }">此步驟</
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。
-firefox-desktop-download-taskbar = 安裝完成後，將會把 { -brand-name-firefox } 釘選在 { -brand-name-windows } 工作列
