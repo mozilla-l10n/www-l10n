@@ -10,6 +10,10 @@
 
 navigation-refresh-firefox-browsers = Navigatura { -brand-name-firefox }
 navigation-refresh-close-firefox-browsers-menu = Chiuji u minù dî navigatura { -brand-name-firefox }
+navigation-refresh-firefox-for-desktop = { -brand-name-firefox } pû Scagnu
+navigation-refresh-all-products = Tutti i prudutti
 
 ## Products
 
+navigation-refresh-products = Prudutti
+navigation-refresh-close-products-menu = Chiujì u minù dî prudutti
