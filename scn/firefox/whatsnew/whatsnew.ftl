@@ -13,5 +13,5 @@ whatsnew-update-notification = U to { -brand-name-firefox } fu attualizzatu.
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Lèggiti i <a { $url }>noti dâ virsiuni</a> pi sapìrinni cchiù assai dî nuvità dû to navigaturi { -brand-name-firefox }.
 whatsnew-signoff = <strong>Criatu di { -brand-name-mozilla }.</strong> Dû 1998 pinzamu ê genti prima dî guadagni.
-whatsnew-donate-to-mofo = Fai na dunazzioni â { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo = Facci na dunazzioni â { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Grazzi chi scartasti { -brand-name-firefox }

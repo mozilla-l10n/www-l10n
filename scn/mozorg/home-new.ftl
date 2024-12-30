@@ -8,3 +8,5 @@
 home-mozilla-makes-privacy = { -brand-name-mozilla } crìa prudutti chi rispèttanu a privatizza
 home-learn-about-mofo = Nfurmazzioni supra â { -brand-name-mozilla-foundation }
 home-learn-more-about-mozilla = Cchià nfurmazzioni supra a { -brand-name-mozilla }
+home-mofo-donate-to-mofo-today = Facci na dunazzioni oji â { -brand-name-mozilla-foundation } pi fari 'n manera chi a riti arresta graputa e accissìbbili a tutti.
+home-mofo-donate = Fai na dunazzioni

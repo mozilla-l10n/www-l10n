@@ -23,6 +23,8 @@ m24-about-read-our-manifesto = Leggi u nostru manifestu
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = NA affidàbbili, { -brand-name-common-voice }, nzignamentu fidiratu.
 
 ## Community
 
