@@ -10,10 +10,10 @@ features-private-is-firefox-a-private-browser = { -brand-name-firefox } 是一�
 features-private-were-focused-on-your-right-to = 我們專注於您的隱私權。您的資料、您的上網行為、您的線上生活，全部都受到 { -brand-name-firefox } 保護。
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
-features-private-yes-firefox-protects-your = 好的。 { -brand-name-firefox } 透過<a href="{ $url }">隱私瀏覽</a>等功能保護您的隱私。就算是在您與人共用一台裝置例如家中電腦或 { -brand-name-ipad } 時也能保護您的上網紀錄與密碼。
+features-private-yes-firefox-protects-your = 有的。{ -brand-name-firefox } 透過<a href="{ $url }">隱私瀏覽</a>等功能保護您的隱私。就算是在共用裝置，例如家中的電腦或 { -brand-name-ipad }，也能保護您的上網紀錄與密碼。
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-features-private-firefox-also-protects-your = { -brand-name-firefox } 也保護您的隱私而透過 <a href="{ $url }">加強型追踪保護</a> 來封鎖在不同網站間追踪您並收集您的上網習慣的追踪器。它還包含對有害指令碼與惡意軟體的保護。
+features-private-firefox-also-protects-your = { -brand-name-firefox } 也透過<a href="{ $url }">加強型追蹤保護</a>功能，封鎖在不同網站間追蹤您、收集您上網習慣的追蹤器來保護您的隱私。此外還有針對惡意指令碼與惡意軟體的相關保護功能。
 features-private-sidenote-we-are-not-big-tech = <em>註：</em>我們不是大型科技公司，做事方法也完全不同。保持獨立（沒有上市交易）讓我們能夠將人們看得最優先，放在利益之上。與其他公司不同的是，我們不會把您的資料打包賣掉。
 features-private-what-information-does-firefox = { -brand-name-firefox } 會收集哪些資訊？
 # Variables:
