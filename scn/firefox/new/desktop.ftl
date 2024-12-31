@@ -108,8 +108,8 @@ firefox-desktop-download-screenshots = Schirmati
 firefox-desktop-download-enhanced-tracking-protection = Prutizzioni avanzata contra ô trazzamentu (ETP)
 firefox-desktop-download-from-watching-a = Di vìdiri un tutorial a dàricci na taliata â to squatra dû cori, u to vidiu ti sicuta mentri chi fai autri cosi.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-android = Pìgghiati u { -brand-name-firefox-browser } pi <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Pìgghiati u { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Scàrrica u navigaturi mòbbili { -brand-name-firefox } p'aviri a prutizzioni di manera autumàtica pi tutti i to dispusitivi.
 firefox-desktop-download-learn-about-the = Appressu po' attruvari cchiù assai nfurmazzioni ncapu ô navigaturi { -brand-name-firefox } pû scagnu
 # Variables:
