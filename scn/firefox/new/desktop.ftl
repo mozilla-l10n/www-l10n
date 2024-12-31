@@ -15,7 +15,7 @@ firefox-desktop-download-meta-desc = Pigghia { -brand-name-firefox }, un navigat
 firefox-desktop-download-meta-desc-v2 = Pigghia { -brand-name-firefox } pi { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }. { -brand-name-firefox } è un navigaturi a francu criatu di { -brand-name-mozilla }, n'urganizzazzioni senza scopu di lucru didicata â saluti e â privatizza dâ riti.
 firefox-desktop-download-og-title = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
 firefox-desktop-download-og-desc = Agghicau u { -brand-name-firefox } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
@@ -107,7 +107,7 @@ firefox-desktop-download-screenshots = Schirmati
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Prutizzioni avanzata contra ô trazzamentu (ETP)
 firefox-desktop-download-from-watching-a = Di vìdiri un tutorial a dàricci na taliata â to squatra dû cori, u to vidiu ti sicuta mentri chi fai autri cosi.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-desktop-download-get-firefox-android = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Scàrrica u navigaturi mòbbili { -brand-name-firefox } p'aviri a prutizzioni di manera autumàtica pi tutti i to dispusitivi.
