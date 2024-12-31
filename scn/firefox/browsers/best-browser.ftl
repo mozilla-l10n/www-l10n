@@ -6,4 +6,4 @@
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
 
 best-browser-privacy-speed-and-security = Privatizza, listizza e sicurizza.
-best-browser-how-to-choose-the-best = Comu scartari u megghiu navigaturi pi tia.
+best-browser-how-to-choose-the-best = Comu scartari u megghiu navicaturi pi tia.

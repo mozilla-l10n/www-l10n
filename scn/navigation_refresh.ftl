@@ -31,8 +31,8 @@ navigation-refresh-mozilla-advertising = Pubblicità di { -brand-name-mozilla }
 
 ## Firefox
 
-navigation-refresh-firefox-browsers = Navigatura { -brand-name-firefox }
-navigation-refresh-close-firefox-browsers-menu = Chiuji u minù dî navigatura { -brand-name-firefox }
+navigation-refresh-firefox-browsers = Navicatura { -brand-name-firefox }
+navigation-refresh-close-firefox-browsers-menu = Chiuji u minù dî navicatura { -brand-name-firefox }
 navigation-refresh-firefox-for-desktop = { -brand-name-firefox } pû Scagnu
 navigation-refresh-firefox-for-android = { -brand-name-firefox } pi { -brand-name-android }
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } pi { -brand-name-ios }

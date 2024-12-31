@@ -6,5 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
 # HTML page title
-mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: u navigaturi dâ privatizza
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: u navicaturi dâ privatizza
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }

@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-firefox-browsers-main-heading = Navigatura { -brand-name-firefox }
+firefox-browsers-main-heading = Navicatura { -brand-name-firefox }
 firefox-browsers-enterprise = { -brand-name-enterprise }
 firefox-browsers-enterprise-packages = Pacchetti di { -brand-name-enterprise }
 firefox-browsers-reality = { -brand-name-reality }

@@ -33,8 +33,8 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = navigaturi Firefox
--brand-name-firefox-browsers = navigatura Firefox
+-brand-name-firefox-browser = navicaturi Firefox
+-brand-name-firefox-browsers = navicatura Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR

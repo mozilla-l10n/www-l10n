@@ -24,7 +24,7 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Sarbari e sincrunizzari
 firefox-accounts-get-email-alerts = Ricìviri nutizzi nnâ posta elittrònica quannu i to nfurmazzioni affàccianu nta na viulazzioni dî dati
 firefox-accounts-protect-your-identity = Prutèggiri a to idintità usannu na màscara pû tilèfunu e a posta elittrònica
 firefox-accounts-keep-your-passwords = Tèniri i to chiavi ô sicuru e sempri a purtata di manu.
-firefox-accounts-travel-the-internet = Nàviga nnâ riti di manera prutetta, nni tutti i dispusitivi.
+firefox-accounts-travel-the-internet = Nàvica nnâ riti di manera prutetta, nni tutti i dispusitivi.
 firefox-accounts-encrypt-your = Critta a to attività di riti e ammuccia u to nnirizzu IP
 firefox-accounts-we-never = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
 firefox-accounts-save-articles = Sarba artìculi di tutta a riti

@@ -12,7 +12,7 @@ firefox-all-everyone-deserves-access-v2 = Tutti miritamu l'accessu â riti, senz
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scanziuna u còdici QR p'aviri <em>{ $product_name }</em>
-firefox-all-choose-browser = Scarta un navigaturi pi jiri avanti
+firefox-all-choose-browser = Scarta un navicaturi pi jiri avanti
 firefox-all-choose-platform = Scarta na chiattafurma pi jiri avanti
 firefox-all-choose-language = Scarta na lingua pi jiri avanti
 firefox-all-change-browser = Scarta n'autru pruduttu
@@ -22,7 +22,7 @@ firefox-all-change-language = Scarta n'autra lingua
 firefox-all-down-arrow = Scarta dâ lista appressu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Fatti ajutari
-firefox-all-browser-v2 = 1. Navigaturi:
+firefox-all-browser-v2 = 1. Navicaturi:
 firefox-all-platform-v2 = 2. Chiattafurma:
 firefox-all-language-v2 = 3. Lingua:
 firefox-all-download = 4. Scàrrica:
@@ -56,11 +56,11 @@ firefox-all-source-code = Còdici funti
 firefox-all-need-help = Ti serbi ajutu?
 firefox-all-choose-which-firefox = Scarta quali { -brand-name-firefox-browser } vo' scarricari nnâ to lingua
 firefox-all-firefox-privacy-notice = Abbisu di privatizza di { -brand-name-firefox }
-firefox-all-learn-about-firefox = Cchiù nfurmazzioni ncapu ê navigatura { -brand-name-firefox }
-firefox-all-the-standard-firefox = U navigaturi { -brand-name-firefox } nurmali — lestu e privatu. Si nun sai quali { -brand-name-firefox } scartari, pigghia chistu.
+firefox-all-learn-about-firefox = Cchiù nfurmazzioni ncapu ê navicatura { -brand-name-firefox }
+firefox-all-the-standard-firefox = U navicaturi { -brand-name-firefox } nurmali — lestu e privatu. Si nun sai quali { -brand-name-firefox } scartari, pigghia chistu.
 firefox-all-get-a-sneak-peek-at = Dùnaci na taliata a l'ùrtimi nuvità di { -brand-name-firefox } prima chi vennu pubblicati.
 firefox-all-test-your-sites-against = Virìfica i to siti chî funziunalità di { -brand-name-firefox } ancora di pubblicari, chî stigghi pî sbiluppatura abbilitati di manera pridifinuta.
-firefox-all-count-on-stability-and = Appòjati â stabbilità e â facilità d'usu di stu navigaturi { -brand-name-firefox } criatu pî mprisi.
+firefox-all-count-on-stability-and = Appòjati â stabbilità e â facilità d'usu di stu navicaturi { -brand-name-firefox } criatu pî mprisi.
 firefox-all-windows-installers-for = Nzitatura pi Windows pî squatri nfurmàtichi dî mprisi chi fannu cchiù sìmplici a cunfijurazzioni, u nzitamentu e u maniju dû { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Nzitatura ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Nzitatura ARM64/AArch64 uttimizzati pi Windows e Linux.

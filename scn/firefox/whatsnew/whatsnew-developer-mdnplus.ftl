@@ -23,5 +23,5 @@ developer-mdnplus-build-your-perfect-library = Custrujisci a to libbrarìa pirfe
 developer-mdnplus-no-more-haphazard-hunting = Nenti cchiù risciduti a muzzu ntâ libbrarìa virtuali cchiù granni chi cc'è: lìbbira u curaturi chi ài dintra e ricogghi l'artìculi chi prifirisci tutti a na banna, pi putilli lèggiri quannu pari a tia.
 developer-mdnplus-mdn-offline = { -brand-name-mdn } fora linia
 developer-mdnplus-mdns-entire-library-at-your = A libbrarìa sana di { -brand-name-mdn } sutta manu: senza èssiri cullijati
-developer-mdnplus-taking-your-projects-beyond = Hâ purtari i to pruggetti luntanu dâ riti Wi-Fi cchiù vicina? Saluta pi sempri i pàggini nun accissìbbili o i schedi ammunziḍḍati. Cu { -brand-name-mdn-plus } ài i risursi cumpleti e navigàbbili di { -brand-name-mdn } macari quannu travagghi senza cunnissiuni â riti.
+developer-mdnplus-taking-your-projects-beyond = Hâ purtari i to pruggetti luntanu dâ riti Wi-Fi cchiù vicina? Saluta pi sempri i pàggini nun accissìbbili o i schedi ammunziḍḍati. Cu { -brand-name-mdn-plus } ài i risursi cumpleti e navicàbbili di { -brand-name-mdn } macari quannu travagghi senza cunnissiuni â riti.
 developer-mdnplus-resources-for-developers = Risursi pî Sbiluppatura, dî Sbiluppatura.

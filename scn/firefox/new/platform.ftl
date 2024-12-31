@@ -8,7 +8,7 @@
 
 ## Shared between Linux, Mac and Windows
 
-new-platform-free-web-browser = U navigaturi lìbbiru e a francu
+new-platform-free-web-browser = U navicaturi lìbbiru e a francu
 new-platform-download-firefox = Scàrrica { -brand-name-firefox }
 new-platform-download-the-fastest = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
 new-platform-faster-page-loading = Agghicau u { -brand-name-firefox } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
@@ -21,7 +21,7 @@ new-platform-need-help = Ti serbi ajutu?
 
 new-platform-download-mozilla-linux = Scàrricati { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-linux }, un navigaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-linux } oji!
+new-platform-download-mozilla-desc-linux = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-linux }, un navicaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-linux } oji!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Scàrricati u { -brand-name-firefox } pi { -brand-name-linux } cchiù lestu di sempri
 # /firefox/linux/ social sharing description
@@ -38,14 +38,14 @@ new-platform-look-under-the-hood = Talìa u dintra. Comu { -brand-name-linux }, 
 
 new-platform-download-mozilla-firefox-mac = Scàrricati { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-mac-short }, un navigaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-mac-short } oji!
+new-platform-download-mozilla-firefox-desc-mac = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-mac-short }, un navicaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-mac-short } oji!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Scàrricati u { -brand-name-firefox } pi { -brand-name-mac-short } cchiù lestu di sempri
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Agghicau u { -brand-name-firefox } pi { -brand-name-mac-short } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
 new-platform-privacy-comes-first = A privatizza prima di tuttu
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } nun riggistra i to risciduti. Firmamu i viscotta trazzanti e ti damu u cuntrollu tutali.
-new-platform-get-speed-and-security = Nàviga di manera lesta e sicura. { -brand-name-firefox } è accussì lestu ncapu a { -brand-name-mac-short } propia picchì nun trazzamu chiḍḍu chi fai.
+new-platform-get-speed-and-security = Nàvica di manera lesta e sicura. { -brand-name-firefox } è accussì lestu ncapu a { -brand-name-mac-short } propia picchì nun trazzamu chiḍḍu chi fai.
 new-platform-block-trackers = Ferma i trazzatura
 new-platform-be-the-master-of-your = Pigghia u cuntrollu c'un bloccu strittu dî cuntinuti. Tagghia fora tutti i viscotta e i trazzatura.
 
@@ -53,7 +53,7 @@ new-platform-be-the-master-of-your = Pigghia u cuntrollu c'un bloccu strittu dî
 
 new-platform-download-mozilla-windows = Scàrricati { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-windows }
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-windows }, un navigaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-windows } oji!
+new-platform-download-mozilla-desc-windows = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-windows }, un navicaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n'urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti 'n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-windows } oji!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Scàrricati u { -brand-name-firefox } pi { -brand-name-windows } cchiù lestu di sempri
 # /firefox/windows/ social sharing description
