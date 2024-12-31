@@ -16,14 +16,28 @@ m24-about-reclaim-the-internet = Pigghiàmuni a riti, nzèmmula
 
 m24-about-read-our-manifesto = Leggi u nostru manifestu
 m24-about-advocate = Attivìsimu
+m24-about-we-advocate-for = Ammuttamu p'aviri prudutti megghiu, facènnuci pigghiari ê guverni e i mprisi a rispunzabbilità di chiḍḍu chi crìanu.
+m24-about-research = Ricerca
 m24-about-build = Sbiluppu
+m24-about-fund = Finanziamentu
+m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi pòrtanu a ticnuluggìa, a riti e a NA nnâ dirizzioni giusta.
 
 ## News
 
 m24-about-read-more = Cchiù nfurmazzioni
+m24-about-read-the-latest = Leggi l'ùrtimi nutizzi e artìculi ncapu a { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 pruggetti di NA di taliari: parti u primu gruppu di Builders Accelerator di { -brand-name-mozilla }
+m24-about-at-our-rise25 = Ê nostri premi { -brand-name-rise25 }, u futuru dâ NA è affidàbbili, rispunzàbbili e chi cunzìdira a tutti.
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Na vincitrici dû premiu { -brand-name-rise25 } chi mustra u so trufeu.
+m24-about-empowering-chicagos-entrepreneurs = U sustegnu dî mprisari di Chicago p'un canciu ginirazziunali
+# Used as an accessible text alternative for an image
+m24-about-chicago = Nu mprisariu di Chicago.
 
 ## Showcase
 
+m24-about-lets-build-a = Crijamu un futuru cchiù avali
+m24-about-read-about-our = Leggi cchiù assai ncapu ô nostru mpignu
 
 ## Careers
 
