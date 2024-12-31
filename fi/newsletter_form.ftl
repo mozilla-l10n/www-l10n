@@ -15,13 +15,12 @@ newsletter-form-select-language = Valitse kieli
 newsletter-form-your-email-here = KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
 newsletter-form-get-firefox-news = Tilaa { -brand-name-firefox }-uutiset
 newsletter-form-join-the-community = Liity yhteisöön
+newsletter-form-sign-up-to-receive = Rekisteröidy saadaksesi kuukausittaiset uutiset { -brand-name-firefox }ista ja elämää verkossa muokkaavista trendeistä.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Minulle sopii, että { -brand-name-mozilla } käsittelee tietojani <a href="{ $url }">tietosuojaselosteen</a> mukaisesti
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Lähetämme vain { -brand-name-mozilla }an liittyviä tietoja.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Lähetämme vain { -brand-name-firefox }iin liittyviä tietoja.
+newsletter-form-we-will-only-send-v2 = Lähetämme sinulle vain { -brand-name-mozilla }a koskevia tietoja. Voit perua tilauksen milloin tahansa.
+newsletter-form-we-will-only-send-firefox-v2 = Lähetämme sinulle vain { -brand-name-firefox }ia koskevia tietoja. Voit perua tilauksen milloin tahansa.
 newsletter-form-if-you-havent-previously = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut { -brand-name-mozilla }an liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + sinä
 newsletter-form-get-firefox-tips = Saa { -brand-name-firefox }-vinkkejä, -niksejä, -uutisia ynnä muuta

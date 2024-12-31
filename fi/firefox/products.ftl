@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla }n tuotteet
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla }n koko tuoteperhe on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
 firefox-products-products = Tuotteet
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } on vasta alkua.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } on vasta alkua
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }n koko tuoteperhe on suunniteltu pitämään sinut turvallisempana ja älykkäämpänä verkossa.
 
 ## Firefox
@@ -46,6 +44,8 @@ firefox-products-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Resurssit kehittäjille kehittäjiltä. Tue { -brand-name-mdn }:ää ja tee siitä mieleisesi kokoelmien, ilmoitusten ja leikkikenttien avulla.
+firefox-products-support-mdn = Tue { -brand-name-mdn }:ää
 
 ## Thunderbird
 
@@ -56,11 +56,13 @@ firefox-products-download-thunderbird = Lataa { -brand-name-thunderbird }
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } on tukenasi, kun teet ostoksia verkossa – se karsii huijarit ja löytää sinulle parhaat tarjoukset. { -brand-name-mozilla }n tekemä.
 firefox-products-analyze = Analysoi URL-osoite
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Löydä verkon paras sisältö – ja käytä sitä missä ja milloin haluat.
+firefox-products-discover-the-best-content-v2 = Löydä verkon paras sisältö – ja käytä sitä missä ja milloin haluat. { -brand-name-mozilla }n tekemä.
 firefox-products-get-pocket = Hanki { -brand-name-pocket }
