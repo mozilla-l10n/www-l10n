@@ -15,7 +15,7 @@ firefox-desktop-download-meta-desc = Pigghia { -brand-name-firefox }, un navigat
 firefox-desktop-download-meta-desc-v2 = Pigghia { -brand-name-firefox } pi { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }. { -brand-name-firefox } è un navigaturi a francu criatu di { -brand-name-mozilla }, n'urganizzazzioni senza scopu di lucru didicata â saluti e â privatizza dâ riti.
 firefox-desktop-download-og-title = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
 firefox-desktop-download-og-desc = Agghicau u { -brand-name-firefox } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Pigghia u navigaturi chi pruteggi soc
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do = Fai soccu voi 'n linia.<br>{ -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
+firefox-desktop-download-do-what-you-do = Fai soccu voi 'n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-how-firefox-compares = Com'è { -brand-name-firefox } rispettu a l'autri navigatura?
 firefox-desktop-download-how-we-compare = Vidi l'apparaggiu cu l'autri navigatura
 firefox-desktop-download-compare-firefox-to = Apparaggia { -brand-name-firefox } cu:
@@ -43,7 +43,7 @@ firefox-desktop-download-primary-password = Chiavi mastra
 firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
 firefox-desktop-download-see-your-report = Vidi u to papellu di prutizzioni
 firefox-desktop-download-for-everyone = { -brand-name-firefox } è pi tutti
-firefox-desktop-download-review-system-req = Rividi i riquisiti dû sistema
+firefox-desktop-download-review-system-req = Talìa i riquisiti dû sistema
 firefox-desktop-download-all-your-devices = Metti { -brand-name-firefox } nna tutti i to dispusitivi
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fai <strong>tutti cosi</strong> cu { -brand-name-firefox }
@@ -107,7 +107,7 @@ firefox-desktop-download-screenshots = Schirmati
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Prutizzioni avanzata contra ô trazzamentu (ETP)
 firefox-desktop-download-from-watching-a = Di vìdiri un tutorial a dàricci na taliata â to squatra dû cori, u to vidiu ti sicuta mentri chi fai autri cosi.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Scàrrica u navigaturi mòbbili { -brand-name-firefox } p'aviri a prutizzioni di manera autumàtica pi tutti i to dispusitivi.
