@@ -94,13 +94,24 @@ firefox-desktop-download-theres-no-need = Nun t'hâ cunfurmari pi forza. Cancia 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Criatu di l'urganizzazzioni <strong>senza scopu di lucru</strong> chi metti i genti ô primu postu
 firefox-desktop-download-your-privacy-comes = A to privatizza veni prima
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Manteni tutti i funziunalità chi prifirisci — e <strong>scòprinni</strong> di novi.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Tutti i to stigghi favuruti di { -brand-name-google } (a tipu Gmail e Docs) funziònanu senza prubblemi nnô { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Scàrrica stu stinneriu</a> pi firmari { -brand-name-facebook } (e { -brand-name-instagram }) di sicutàriti riti riti.
 firefox-desktop-download-sync-your-devices = Sincrunizza i to dispusitivi
 firefox-desktop-download-screenshots = Schirmati
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Prutizzioni avanzata contra ô trazzamentu (ETP)
+firefox-desktop-download-from-watching-a = Di vìdiri un tutorial a dàricci na taliata â to squatra dû cori, u to vidiu ti sicuta mentri chi fai autri cosi.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Scàrrica u navigaturi mòbbili { -brand-name-firefox } p'aviri a prutizzioni di manera autumàtica pi tutti i to dispusitivi.
+firefox-desktop-download-learn-about-the = Appressu po' attruvari cchiù assai nfurmazzioni ncapu ô navigaturi { -brand-name-firefox } pû scagnu
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
