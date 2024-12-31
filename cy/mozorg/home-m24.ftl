@@ -116,9 +116,9 @@ m24-home-alt-rise25-smiling = Siaradwr hyderus sy'n gwenu yn { -brand-name-rise2
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Cyflwr { -brand-name-mozilla }
-m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch cytser o sefydliadau, ail-ddychmygu hysbysebu a chreu ecosystem AI ffynhonnell agored. Darllenwch amdano yn Adroddiad Cyflwr { -brand-name-mozilla } 2024.
+m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch clwstwr o sefydliadau, ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } 2024.
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau o wyrdd, oren a phinc
+m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, oren a phinc
 m24-home-read-the-report = Darllenwch yr adroddiad
 
 ## Issues
