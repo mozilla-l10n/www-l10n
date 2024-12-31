@@ -88,7 +88,11 @@ firefox-desktop-download-change-new-tab = Cancia l'aspettu dî schedi novi
 firefox-desktop-download-make-firefox-your = Pirsunalizza u to <strong>{ -brand-name-firefox }</strong>
 firefox-desktop-download-extensions-for-every = Stinneri pi tutti i gusti
 firefox-desktop-download-change-up-your = Cancia l'aspettu
+firefox-desktop-download-go-from-light = Passa dâ mudalità chiara a chiḍḍa scura sicutannu comu ti senti o comu prifirisci, o fai i cosi cchiù leggi c'un tema pirsunalizzatu (n'unicornu cu n'archinuè, pi scempru).
 firefox-desktop-download-tweak-your-settings = Cancia i to paràmitri
+firefox-desktop-download-theres-no-need = Nun t'hâ cunfurmari pi forza. Cancia a pàggina dâ scheda nova, a barra di risciduta, i nzingalibbra e cchiù assai cosi pi navigari nnâ riti dâ manera chi vo' tu.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Criatu di l'urganizzazzioni <strong>senza scopu di lucru</strong> chi metti i genti ô primu postu
 firefox-desktop-download-your-privacy-comes = A to privatizza veni prima
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-sync-your-devices = Sincrunizza i to dispusitivi
