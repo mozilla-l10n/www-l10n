@@ -32,8 +32,14 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Stigghi
 footer-refresh-donate = Fai na dunazzioni
+footer-refresh-visit-mozilla-corporations = Vìsita a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l'urganizzazzioni senza scopu di lucru chi cuntrolla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-refresh-portions-of-this-content = Parti di stu cuntinutu sunnu ©1998–{ $current_year } dî cuntribbutura nnividuali di mozilla.org. U cuntinutu è dispunìbbili sutta a na <a rel="license" { $href }>licenza { -brand-name-creative-commons }</a>.
+footer-refresh-websites-privacy-notice = Abbisu di privatizza dû situ
 footer-refresh-websites-cookies = Viscotta
 footer-refresh-websites-legal = Noti ligali
+footer-refresh-community-participation-guidelines = Dirittivi di participazzioni â cumunità
 footer-refresh-about-this-site = Nfurmazzioni ncapu a stu situ
 footer-refresh-all-languages = Tutti i lingui
 footer-refresh-language = Lingua
+footer-refresh-primary-nav-aria-label = Pedi dâ pàggina primariu
+footer-refresh-secondary-nav-aria-label = Pedi dâ pàggina sicunnariu

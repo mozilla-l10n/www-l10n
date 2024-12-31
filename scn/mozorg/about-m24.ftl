@@ -10,10 +10,12 @@ m24-about-page-title = Cchiù nfurmazzioni supra a { -brand-name-mozilla }
 
 ## Intro
 
+m24-about-reclaim-the-internet = Pigghiàmuni a riti, nzèmmula
 
 ## Manifesto
 
 m24-about-read-our-manifesto = Leggi u nostru manifestu
+m24-about-advocate = Attivìsimu
 m24-about-build = Sbiluppu
 
 ## News
