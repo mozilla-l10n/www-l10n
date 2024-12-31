@@ -5,12 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/
 
+m24-home-page-title-v2 = { -brand-name-mozilla } — Internet pî genti, no pû guadagnu
+# HTML page description
+m24-home-page-desc = U sapivi? { -brand-name-mozilla } — l'urganizzazzioni chi criau { -brand-name-firefox } — cummatti pi mantiniri a riti na risursa glubbali pùbblica, graputa e accissìbbili a tutti.
+m24-home-page-desc-v2 = Stamu travagghiannu pi purtari arrè u cuntrollu dâ riti nnî manu dî genti chi l'ùsanu.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Bummegna nne { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Dû sbiluppu di tecnuluggìi affidàbbili ê pulìtichi chi addifènninu i to diritti diggitali, cu nuiautri sì ô primu postu — sempri.
 m24-home-learn-about-us = Cu' semu
+# Used as accessible text alternative for image
+m24-home-alt-flag = Na bannera virdi stilizzata ncapu ôn funnu nìuru, custrujuta dâ ‘M’ di { -brand-name-mozilla } e un pixel muvutu pi riprisintari u mercu urigginali dû dinusauru.
 
 ## Products
 
@@ -22,10 +28,14 @@ m24-home-get-the-gold = Scàrricati u megghiu chi cc'è pi navigari lestu, câ t
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Fatti a vita cchiù fàcili cu n'applicazzioni sula pi tutta a to posta elittrònica, i calannari e i cuntatti.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Attrova i ricinzioni fausi, i prudutti tinti e i vinnitura nun affidàbbili.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Sarba u megghiu cuntinutu dâ riti nnôn dispusitivu quali chi fussi. Pû veru, cu' àvi tempu di lèggiri tutti cosi nta na vota sula?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Manteni privati a to pusizzioni e i to vinturi 'n riti — abbìa cuntinuti 'n streaming comu si fussi unu dû postu, unni è-è.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Màscara u to nnirizzu di posta elittrònica e u to nùmmaru di tilèfunu pi ricìviri sulu i missaggi chi ti ntirèssanu.
 
 ## Donate
 
@@ -47,9 +57,16 @@ m24-home-our-mission-is = A nostra missioni è chiḍḍa di pirmèttiri ê gent
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Mercu di { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Abbìa fàcili i granni mudeḍḍi linguìstici (LLM) nnô to computer cu { -brand-name-llamafile } — nuḍḍu nzitamentu e i to dati arrèstanu ô sicuru nnô to dispusitivu.
+m24-home-alt-builders = Custruttura
+m24-home-mozilla-builders = Custruttura di { -brand-name-mozilla }
+m24-home-builders-helps-independent = I custruttura ajùtanu i sbiluppatura nnipinnenti a criari pruggetti nnuvativi di NA a còdici graputu cu cullabburazzioni, prugrammazzioni e cumunità pirsunalizzati.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Mercu di { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Attrova u LLM megghiu pî to nicissità, pi soccu cci hâ fari e pî to dati.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, Prisidenti di { -brand-name-mozilla }.
 m24-home-can-ai-be = Pozzu aviri fiducia nnâ NA?
 m24-home-watch-now = Talìa ora
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
@@ -73,10 +90,20 @@ m24-home-topic-ps = Privatizza e sicurizza
 ## Showcase
 
 m24-home-rise25-awards = Premi { -brand-name-rise25 }
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Un rilaturi chi ridi ô { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Un vincituri cuntentu ô { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Statu di { -brand-name-mozilla }
 m24-home-read-the-report = Leggi u papellu
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Dispusitivi sperti cu na cona d'accura.
+m24-home-privacy-not-included = *Privacy Not Included
 m24-home-pni-search-now = Riscedi ora
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, cunduttrici di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ascuta ora

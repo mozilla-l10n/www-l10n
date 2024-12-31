@@ -43,9 +43,19 @@ m24-about-read-about-our = Leggi cchiù assai ncapu ô nostru mpignu
 
 # Used as an accessible text alternative for an image
 m24-about-alt-trustworthy = NA affidàbbili, { -brand-name-common-voice }, nzignamentu fidiratu.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Un dipinnenti di { -brand-name-mozilla } mentri chi chiacchiarija.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Na dipinnenti di { -brand-name-mozilla } chi si vivi un cafè.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Dipinnenti di { -brand-name-mozilla } chi cullàbburanu.
+m24-about-join-us-and = Jùnciti cu nuiautri e fai a diffirenza
+m24-about-see-open-positions = Vidi i posti dispunìbbili
 
 ## Community
 
 m24-about-community-love-v2 = L'amuri dâ cumunità, a nostra forza mutrici
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = L'amuri dâ cumunità —<br> a nostra forza mutrici
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Un cristianu cu na vurza p'un purtàtili e un lazziceḍḍu di { -brand-name-mozilla }.
