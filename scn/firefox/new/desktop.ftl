@@ -112,10 +112,29 @@ firefox-desktop-download-get-firefox-android = Pìgghiati { -brand-name-firefox-
 firefox-desktop-download-get-firefox-ios = Pìgghiati { -brand-name-firefox-browser } pi <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Scàrrica u navigaturi mòbbili { -brand-name-firefox } p'aviri a prutizzioni di manera autumàtica pi tutti i to dispusitivi.
 firefox-desktop-download-learn-about-the = Appressu po' attruvari cchiù assai nfurmazzioni ncapu ô navigaturi { -brand-name-firefox } pû scagnu
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura: cc'è nu <a { $attrs }>stinneriu pi tutti</a>. Jùncinni quanti nni vo' nzinu a quannu u to navigaturi addiventa pirfettu.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navigaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Quasi agghicasti!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Ora finisci u <strong>nzitamentu</strong> di { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Ora <strong>abbìa</strong> u nzitaturi chi scarricasti.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Ora <strong>grapi</strong> u pricu chi scarricasti.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Scarta n'aḍḍijuta di <strong>scarricamentu</strong> appressu
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Ài quarchi prubblema? <a { $attrs }>Addumanna ajutu pû nzitamentu</a>.
+firefox-desktop-download-in-another-language = Scàrrica nta n'autra lingua o pi n'autru sistema upirativu.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -124,6 +143,10 @@ firefox-desktop-download-visit-support-for-more = Vai â pàggina di l'assistenz
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nun duna cchiù attualizzi di sicurizza</a> pi { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma po' ancora usari { -brand-name-firefox }.
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = U to scarricamentu s'abbiarà ntra picca. Nun funziunau? <a id="{ $id }" href="{ $fallback_url }">Torna a prova.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è cchiù assai d'un navigaturi.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = U to scarricamentu fu firmatu, ma nun ti frasturnari.

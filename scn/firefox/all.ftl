@@ -45,6 +45,7 @@ firefox-all-download-esr-version = Scàrrica { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Semu nnôn piriudu di transizzioni ntra i virsiuni ESR majuri { $esr_next_major } e { $esr_current_major }.
+firefox-all-esr-when-there-is = Quannu cc'è n'attualizzu majuri, cc'è sempri quarchi suvrapposizzioni di virsioni di { -brand-name-firefox-esr } pi pirmèttiri a chiḍḍi chi ùsanu a virsioni vecchia di priparàrisi a passari a chiḍḍa nova.
 firefox-all-esr-if-you-choose = Si scarti di scarricàriti a virsiuni ESR cchiù vecchia, veni attualizzata 'n autumàtica â virsiuni nova quannu u piriudu di transizzioni accabba.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
