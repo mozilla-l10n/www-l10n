@@ -60,6 +60,7 @@ firefox-all-the-standard-firefox = U navigaturi { -brand-name-firefox } nurmali 
 firefox-all-get-a-sneak-peek-at = Dùnaci na taliata a l'ùrtimi nuvità di { -brand-name-firefox } prima chi vennu pubblicati.
 firefox-all-test-your-sites-against = Virìfica i to siti chî funziunalità di { -brand-name-firefox } ancora di pubblicari, chî stigghi pî sbiluppatura abbilitati di manera pridifinuta.
 firefox-all-count-on-stability-and = Appòjati â stabbilità e â facilità d'usu di stu navigaturi { -brand-name-firefox } criatu pî mprisi.
+firefox-all-windows-installers-for = Nzitatura pi Windows pî squatri nfurmàtichi dî mprisi chi fannu cchiù sìmplici a cunfijurazzioni, u nzitamentu e u maniju dû { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Nzitatura ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Nzitatura ARM64/AArch64 uttimizzati pi Windows e Linux.
 firefox-all-testflight = Scrìviti pi pruvari { -brand-name-firefox } pi iOS cu TestFlight

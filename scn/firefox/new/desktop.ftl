@@ -11,9 +11,14 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Scàrricati { -brand-name-firefox-browser } — Lestu, Privatu e A francu — di { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Scàrricati { -brand-name-firefox } pû Scagnu — di { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Pigghia { -brand-name-firefox }, un navigaturi a francu di { -brand-name-mozilla }, n'urganizzazzioni senza scopu di lucru didicatu â saluti e â privatizza dâ riti. Dispunìbbili ora pi { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Pigghia { -brand-name-firefox } pi { -brand-name-windows }, { -brand-name-mac-short } o { -brand-name-linux }. { -brand-name-firefox } è un navigaturi a francu criatu di { -brand-name-mozilla }, n'urganizzazzioni senza scopu di lucru didicata â saluti e â privatizza dâ riti.
 firefox-desktop-download-og-title = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
 firefox-desktop-download-og-desc = Agghicau u { -brand-name-firefox } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navigaturi chi pruteggi soccu è mpurtanti
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
@@ -27,11 +32,15 @@ firefox-desktop-download-compare-edge = { -brand-name-edge }
 firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = Se
 firefox-desktop-download-no = No
+firefox-desktop-download-blocks-third-party = Ferma i viscotta trazzanti misi di terzi parti
+firefox-desktop-download-blocks-third-party-default = Ferma i viscotta trazzanti misi di terzi parti di manera pridifinuta
+firefox-desktop-download-autoplay-blocking = Ferma l'abbìu autumàticu
 firefox-desktop-download-blocks-social-trackers = Ferma i trazzatura suciali
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = Dispunìbbili p'assai sistemi upirativi
 firefox-desktop-download-in-browser-screenshot = Stigghiu ntigratu di cattura dâ schirmata
 firefox-desktop-download-primary-password = Chiavi mastra
+firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
 firefox-desktop-download-see-your-report = Vidi u to papellu di prutizzioni
 firefox-desktop-download-for-everyone = { -brand-name-firefox } è pi tutti
 firefox-desktop-download-review-system-req = Rividi i riquisiti dû sistema
@@ -41,7 +50,19 @@ firefox-desktop-download-do-it-all = Fai <strong>tutti cosi</strong> cu { -brand
 firefox-desktop-download-search-smarter = Riscedi di manera cchiù sperta e lesta
 firefox-desktop-download-search-from-address = Riscedi dâ barra dû nnirizzu
 firefox-desktop-download-search-engine-options = Cchiù scartati pî mutura di risciduta
+firefox-desktop-download-smart-search-suggestions = Suggirimenti sperti di risciduta
+firefox-desktop-download-bookmark-history = Nzingalibbra, crunuluggìa e schedi graputi nnî risurtati
+firefox-desktop-download-boost-your = Ammutta a to pruduttività
+firefox-desktop-download-works-with-google = Funziona chî prudutti { -brand-name-google }
+firefox-desktop-download-built-in-screenshot = Stigghiu ntigratu pi fari i schirmati
+firefox-desktop-download-bookmarks-manager = Manijaturi dî nzingalibbra
+firefox-desktop-download-autosuggest-urls = Suggirimentu autumàticu dî nnirizzi
+firefox-desktop-download-sync-across-devices = Sincrunizza ntra i dispusitivi
+firefox-desktop-download-reader-mode = Mudalità di littura
+firefox-desktop-download-spell-check = Cuntrollu urtugràficu
 firefox-desktop-download-pinned-tabs = Schedi appuntiḍḍati
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Ferma l'abbìu autumàticu di audiu e vidiu
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Mmàggini-nnâ-Mmàggini
 firefox-desktop-download-share-links = Sparti i lijami
