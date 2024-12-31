@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Scàrricati { -brand-name-firefox } 'n sicilianu è cchiù assai di 90 autri lingui
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Scàrricati { -brand-name-firefox-browser } 'n sicilianu e cchiù assai di 90 autri lingui
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Tutti miritamu l'accessu â riti, senza nuḍḍu sbarramentu linguìsticu. Pi sta scaciuni — grazzi a l'ajutu di vuluntari di tuttu u munnu — putemu fari { -brand-name-firefox } nna cchiù assai di 90 lingui.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Tutti miritamu l'accessu â riti, senza nuḍḍu sbarramentu linguìsticu. Pi sta scaciuni — grazzi a l'ajutu di vuluntari di tuttu u munnu — putemu fari u { -brand-name-firefox-browser } nna cchiù assai di 90 lingui.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scanziuna u còdici QR p'aviri <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Scarta n'autra lingua
 firefox-all-down-arrow = Scarta dâ lista appressu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Fatti ajutari
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Navigaturi:
 firefox-all-browser-v2 = 1. Navigaturi:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Chiattafurma:
 firefox-all-platform-v2 = 2. Chiattafurma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Lingua:
 firefox-all-language-v2 = 3. Lingua:
 firefox-all-download = 4. Scàrrica:
 firefox-all-desktop = Scagnu
@@ -68,6 +58,8 @@ firefox-all-firefox-privacy-notice = Abbisu di privatizza di { -brand-name-firef
 firefox-all-learn-about-firefox = Cchiù nfurmazzioni ncapu ê navigatura { -brand-name-firefox }
 firefox-all-the-standard-firefox = U navigaturi { -brand-name-firefox } nurmali — lestu e privatu. Si nun sai quali { -brand-name-firefox } scartari, pigghia chistu.
 firefox-all-get-a-sneak-peek-at = Dùnaci na taliata a l'ùrtimi nuvità di { -brand-name-firefox } prima chi vennu pubblicati.
+firefox-all-test-your-sites-against = Virìfica i to siti chî funziunalità di { -brand-name-firefox } ancora di pubblicari, chî stigghi pî sbiluppatura abbilitati di manera pridifinuta.
+firefox-all-count-on-stability-and = Appòjati â stabbilità e â facilità d'usu di stu navigaturi { -brand-name-firefox } criatu pî mprisi.
 firefox-all-arm64-installers = Nzitatura ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Nzitatura ARM64/AArch64 uttimizzati pi Windows e Linux.
 firefox-all-testflight = Scrìviti pi pruvari { -brand-name-firefox } pi iOS cu TestFlight
