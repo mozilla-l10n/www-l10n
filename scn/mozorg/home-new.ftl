@@ -29,7 +29,14 @@ home-join-us-in-shaping = Jùnciti a nuiautri pi criari na ntiliggenza artificia
 home-read-more = Cchiù nfurmazzioni
 home-so-what-is-mozilla = Allura, chi è { -brand-name-mozilla }?
 home-learn-about-mofo = Nfurmazzioni supra â { -brand-name-mozilla-foundation }
+home-join-the-fight = Jùnciti â lotta pi na riti cchiù 'n saluti
+home-your-voice-your-code = A to vuci. U to còdici. I to pinzati. Cci sunnu migghiara di maneri chi po' cuntribbuiri a { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Cullàbbura cu { -brand-name-mozilla }
+home-that-one-time = Ḍḍa vota chi spartemmu u nostru còdici funti…
 home-learn-more-about-mozilla = Cchià nfurmazzioni supra a { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Pruduttu cunzigghiatu
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Supporta u nostru muvimentu
 home-mofo-donate-to-mofo-today = Facci na dunazzioni oji â { -brand-name-mozilla-foundation } pi fari 'n manera chi a riti arresta graputa e accissìbbili a tutti.
 home-mofo-donate = Fai na dunazzioni
