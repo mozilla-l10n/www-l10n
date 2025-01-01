@@ -75,13 +75,13 @@ firefox-desktop-download-picture-in-picture = 화면 속 화면
 firefox-desktop-download-curated-content-on = 새 탭 내 선별된 콘텐츠
 firefox-desktop-download-share-links = 링크 공유
 firefox-desktop-download-protect-your-privacy = 개인 정보 보호
-firefox-desktop-download-third-party-cookie = 제 3자 쿠키 차단
+firefox-desktop-download-third-party-cookie = 제3자 쿠키 차단
 firefox-desktop-download-fingerprinter-blocking = 디지털 지문 차단
 firefox-desktop-download-cryptominer-blocking = 암호화폐 채굴기 차단
 firefox-desktop-download-private-browsing-mode = 사생활 보호 모드
 firefox-desktop-download-individual-protections-report = 개인 정보 보호 보고서
 firefox-desktop-download-secure-your-personal = 개인 정보 보호
-firefox-desktop-download-breached-website-alerts = 정보 유출 웹 사이트 알림
+firefox-desktop-download-breached-website-alerts = 정보 유출 웹사이트 알림
 firefox-desktop-download-built-in-password = 내장 비밀번호 관리자
 firefox-desktop-download-clear-history = 방문 기록 삭제
 firefox-desktop-download-form-autofill = 입력 양식 자동 채우기
@@ -92,14 +92,14 @@ firefox-desktop-download-dark-mode = 어두운 모드
 firefox-desktop-download-library-of-extensions = 확장 기능 모음
 firefox-desktop-download-adjust-search-bar = 검색 표시줄 설정 조정
 firefox-desktop-download-change-new-tab = 새 탭 레이아웃 변경
-firefox-desktop-download-make-firefox-your = 나만의 <strong> { -brand-name-firefox } </strong> 만들기
+firefox-desktop-download-make-firefox-your = 나만의 <strong>{ -brand-name-firefox }</strong> 만들기
 firefox-desktop-download-extensions-for-every = 다양한 확장 기능 제공
 firefox-desktop-download-change-up-your = 기분에 따라 외양 변경
 firefox-desktop-download-go-from-light = 기분이나 선호도에 따라 밝은 모드에서 어두운 모드로 전환하거나 사용자 맞춤형 지정 테마로 즐겁게 인터넷을 여행하세요.
 firefox-desktop-download-tweak-your-settings = 나만의 설정 조정
 firefox-desktop-download-theres-no-need = 그대로 사용할 필요가 없습니다. 새 탭 페이지, 검색 창, 북마크 등을 여러분이 원하는 방식으로 변경하여 인터넷을 여행하세요.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-backed-by-the = 사람을 최우선으로 생각하는 <strong> 비영리 </strong> 조직
+firefox-desktop-download-backed-by-the = 사람을 최우선으로 생각하는 <strong>비영리</strong> 조직
 firefox-desktop-download-challenging-the-status = 1998년 이후 같은 목표 지향
 firefox-desktop-download-your-privacy-comes = 최우선 순위는 개인 정보 보호
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -110,67 +110,67 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = { -brand-name-facebook } (및 { -brand-name-instagram })이 웹에서 사용자를 추적하지 못하도록 하는 <a { $attrs }>확장 기능</a>을 사용하세요.
-firefox-desktop-download-sync-your-devices = 디바이스간 동기화
+firefox-desktop-download-sync-your-devices = 기기간 동기화
 firefox-desktop-download-screenshots = 스크린샷
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = 향상된 추적 방지 기능
-firefox-desktop-download-from-watching-a = 업무를 하면서도 강연을 보거나, 좋아하는 스포츠 경기 동영상을 함께 볼 수 있습니다.
+firefox-desktop-download-from-watching-a = 업무를 하면서도 강연을 보거나 좋아하는 스포츠 경기 동영상을 함께 볼 수 있습니다.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = <strong> { -brand-name-android } </strong> 용 { -brand-name-firefox-browser } 다운로드
-firefox-desktop-download-get-firefox-ios = <strong> { -brand-name-ios } </strong> 용 { -brand-name-firefox-browser } 다운로드
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong>용 { -brand-name-firefox-browser } 다운로드
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong>용 { -brand-name-firefox-browser } 다운로드
 firefox-desktop-download-download-the-mobile = 모든 기기에서 자동 추천 차단을 위해 { -brand-name-firefox } 모바일 브라우저를 다운로드하세요.
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } 데스크톱 브라우저 살펴보기
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = 뉴스, 게임에서 보안에 이르기까지 모든 사용자를 위한 <a { $attrs }> 확장 프로그램 </a>이 있습니다. 여러분만의 원하는 기능을 추가해 보세요.
+firefox-desktop-download-from-security-to = 뉴스, 게임에서 보안에 이르기까지 모든 사용자를 위한 <a { $attrs }>확장 프로그램</a>이 있습니다. 여러분만의 원하는 기능을 추가해 보세요.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $attrs }> { -brand-name-mozilla } </a>에 의해 과거 가장 많이 사용하던  { -brand-name-ie }와 오늘날 { -brand-name-chrome } 같은 상업용 브라우저에 대한 대안으로 만들어졌습니다. 우리는 사용자 중심의 사명과 자원 봉사 커뮤니티를 기반으로 개인 정보 보호를 다른 무엇보다 우선하고 있습니다.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $attrs }>{ -brand-name-mozilla }</a>에 의해 과거 가장 많이 사용하던 { -brand-name-ie }와 오늘날 { -brand-name-chrome } 같은 상업용 브라우저에 대한 대안으로 만들어졌습니다. 우리는 사용자 중심의 사명과 자원 봉사 커뮤니티를 기반으로 개인 정보 보호를 다른 무엇보다 우선하고 있습니다.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }> 개인 데이터 보호 약속 </a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
+firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }>개인 데이터 보호 약속</a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }는 모든 기기에서 사용할 수 있습니다. 탭, 방문 기록, 북마크를 가지고 다니세요. <a { $attrs }>{ -brand-name-mozilla-account }</a>만 있으면 동기화와 더 많은 { -brand-name-mozilla } 제품에 접근할 수 있습니다.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
-firefox-desktop-download-grab-a-high = 브라우저에 내장 된 <a { $attrs }> 스크린 샷 </a> 도구를 사용하여 웹 페이지를 고해상도 이미지로 캡처하세요.
+firefox-desktop-download-grab-a-high = 브라우저에 내장된 <a { $attrs }>스크린샷</a> 도구를 사용하여 온라인 상의 모든 콘텐츠를 고해상도 이미지로 캡처하세요.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자동으로 많은 <a { $attrs }> 제 3자 추적 프로그램을 차단 </a>하여 여러분의 웹 활동을 수집하거나 판매하지 못하도록 합니다.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox }는 자동으로 많은 <a { $attrs }>제3자 추적 프로그램을 차단</a>하여 여러분의 웹 활동을 수집하거나 판매하지 못하도록 합니다.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }> { -brand-name-mozilla } 도움말 </a>을 참고하세요.
-firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor }로 해커를 감시하고, { -brand-name-firefox-relay }로 이메일 주소를 보호하는 등을 할 수 있습니다.
+firefox-desktop-download-questions = 질문이 있으십니까? <a { $attrs }>{ -brand-name-mozilla } 도움말</a>을 참고하세요.
+firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor }로 해커를 감시하고 { -brand-name-firefox-relay }로 이메일 주소를 보호하는 등의 일을 할 수 있습니다.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = 거의 다 완료되었습니다!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-else = 이제 { -brand-name-firefox } <strong> 설치 </strong>를 완료합니다.
+firefox-desktop-download-now-else = 이제 { -brand-name-firefox } <strong>설치</strong>를 완료합니다.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = 이제 방금 다운로드 한 설치 프로그램을 <strong> 실행 </strong>합니다.
+firefox-desktop-download-now-windows = 이제 방금 다운로드한 설치 프로그램을 <strong>실행</strong>합니다.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-mac = 이제 방금 다운로드 한 파일을 <strong> 실행 </strong>합니다.
+firefox-desktop-download-now-mac = 이제 방금 다운로드한 파일을 <strong>실행</strong>합니다.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-select-linux = 아래에서 <strong>다운로드</strong> 옵션을 선택하세요.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }> 설치에 대한 도움말 보기 </a>
+firefox-desktop-download-get-help = 문제가 있으신가요? <a { $attrs }>설치에 대한 도움말 보기</a>
 firefox-desktop-download-in-another-language = 다른 언어 또는 다른 운영 체제로 다운로드하세요.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = 실행할때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
+firefox-desktop-download-if-you-see-a-prompt = 실행할 때 설치한 앱이 { -brand-name-microsoft }가 확인한 앱이 아니라는 표시가 나오면 “계속 설치”를 누르거나 <a { $attrs }>앱 추천 설정 변경</a>을 누르세요.
 firefox-desktop-download-visit-support-for-more = 더 자세한 내용을 위해 지원 방문
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
+firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더 이상 보안 업데이트를 제공하지 않습니다</a>. 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면, <a id="{ $id }" href="{ $fallback_url }">다시 시도 해보세요</a>.
+firefox-desktop-download-your-firefox-new-should-begin = 다운로드가 자동으로 시작됩니다. 그렇지 않다면 <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라우저 그 이상입니다.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. 하지만 모두 손실되지는 않았습니다.
@@ -179,4 +179,4 @@ firefox-desktop-download-interrupted = 다운로드가 중단되었습니다. �
 firefox-desktop-download-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.
+firefox-desktop-download-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만 <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.

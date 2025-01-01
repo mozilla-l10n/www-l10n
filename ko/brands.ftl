@@ -115,6 +115,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL 팟캐스트
 -brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN 플러스
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
