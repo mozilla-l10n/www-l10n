@@ -47,3 +47,17 @@ vpn-features-personalized-server = Cunzigghi pirsunalizzati ncapu â pusizzioni 
 vpn-features-personalize-which-apps = Pirsunalizza l'app chi vo' prutèggiri câ VPN
 vpn-features-set-different-locations = Cunfijura pusizzioni diversi p'ogni scheda nne { -brand-name-firefox }
 vpn-features-trustworthy = Affidàbbili
+vpn-features-plus-customer-support = Assistenza ê clienti 24 uri ô jornu, 7 jorna â simana.
+vpn-features-we-never-log = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
+vpn-features-built-transparently = Custrujutu câ trasparenza dû còdici graputu
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } è fattu cu còdici graputu, veni a diri chi tutti u còdici è dispunìbbili 'n pùbblicu. Vidi u nostru <a { $github }>dipòsitu GitHub</a>.
+vpn-features-reviewed-by-third = Virificata di sperti di sicurizza di terzi parti
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Fomu cuntrullati di Cure53, na cumpagnìa mpurtanti di sicurizza nfurmatica. <a { $report }>Leggi u papellu</a>.
+vpn-features-people-over-profits = I genti prima dû guadagnu
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Semu suppurtati dâ <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, n'urganizzazzioni senza scopu di lucru chi travagghia pi mantèniri a riti graputa e 'n saluti pi tutti pari.
