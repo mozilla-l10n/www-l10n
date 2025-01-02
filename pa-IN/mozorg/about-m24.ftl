@@ -39,6 +39,8 @@ m24-about-read-about-our = ਸਾਡੇ ਵਾਅਦੇ ਨੂੰ ਪੜ੍ਹ�
 m24-about-alt-conversation = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਗੱਲਾਂ ਕਰਦੇ ਹੋਏ।
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਕਾਫ਼ੀ ਪੀਂਦੇ ਹੋਏ।
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਮਿਲ ਕੇ ਕੰਮ ਕਰਦੇ ਹੋ।
 
 ## Community
 
