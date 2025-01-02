@@ -86,6 +86,9 @@ m24-home-tag-video = Vidiu
 m24-home-topic-news = Nuvità
 m24-home-topic-ai = Ntiliggenza artificiali
 m24-home-topic-ps = Privatizza e sicurizza
+m24-home-headline-you-ai-v2 = Tu, a NA e a riti — chi sta mmattennu pû veru?
+m24-home-from-hollywood-to = Di Hollywood a l'hip hop, l'artisti stannu discurrennu di l'usu dî dati nnâ NA.
+m24-home-kids-are-growing = I picciriḍḍi crìscinu lesti nnôn munnu assai cullijatu. Soccu po fari un patri o na matri chi sta accura?
 
 ## Showcase
 
