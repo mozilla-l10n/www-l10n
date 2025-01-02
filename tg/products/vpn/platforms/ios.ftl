@@ -7,6 +7,7 @@
 
 # Meta strings
 vpn-ios-page-title = «{ -brand-name-mozilla-vpn }» барои «{ -brand-name-ios }» («{ -brand-name-iphone }» ва «{ -brand-name-ipad }»)
+vpn-ios-about-headline = Чаро ба мо бовар кунед?
 vpn-ios-privacy-headline = Пайвастшавӣ бо 1 пахш
 # Variables:
 #   $servers (number) - number of available servers

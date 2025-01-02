@@ -43,6 +43,9 @@ m24-home-get-started = Оғози кор
 m24-home-alt-llamafile-logo = Ангораи «{ -brand-name-llamafile }».
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-lumigator = { -brand-name-lumigator }
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Марк Сурман, Президенти «{ -brand-name-mozilla }».
+m24-home-can-ai-be = Оё зеҳни сунъӣ (AI) эътимоднок буда метавонад?
 m24-home-watch-now = Ҳоло тамошо кунед
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }

@@ -11,3 +11,4 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 facebook-container-get-firefox-android-ios = Браузери «{ -brand-name-firefox }»-ро барои «{ -brand-name-android }» ва «{ -brand-name-ios }» ҳозир боргирӣ намоед.
 facebook-container-install-and-contain = Насб кунед ва дар худ нигоҳ доред
 facebook-container-about-firefox-and-mozilla = Дар бораи «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»
+facebook-container-browse-freely-with-firefox = Имрӯз ба воситаи «{ -brand-name-firefox }» озодона тамошо кунед.

@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
 vpn-windows-wifi-headline = Дар шабакаи «Wi-Fi»-и ҷамъиятӣ махфияти худро нигоҳ доред
+vpn-windows-privacy-headline = Муҳофизат бо пахшкунии як тугма
 vpn-windows-servers-headline = Дастрасӣ ба серверҳо дар саросари ҷаҳон
 vpn-windows-devices-headline = Як обуна барои ҳамаи дастгоҳҳои шумо
 vpn-windows-speed-headline = Бе ягон маҳдудият барои паҳнои пайвастшавӣ
