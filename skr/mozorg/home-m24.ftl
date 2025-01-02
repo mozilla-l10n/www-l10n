@@ -8,10 +8,12 @@
 
 ## Intro
 
+m24-home-welcome-to-mozilla = { -brand-name-mozilla } وچ ست بسم اللہ
 
 ## Products
 
 m24-home-firefox = { -brand-name-firefox }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
@@ -29,6 +31,7 @@ m24-home-get-started = شروع کرو
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 
@@ -46,3 +49,4 @@ m24-home-topic-ps = رازداری تے سلامتی
 ## Issues
 
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = ہُݨ سݨو

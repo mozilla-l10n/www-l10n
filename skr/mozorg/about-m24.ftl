@@ -11,6 +11,8 @@
 
 ## Manifesto
 
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitor
 
 ## News
 
