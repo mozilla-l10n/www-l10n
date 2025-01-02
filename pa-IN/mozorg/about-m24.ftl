@@ -41,6 +41,11 @@ m24-about-alt-conversation = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਗੱ�
 m24-about-alt-drinking-coffee = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਕਾਫ਼ੀ ਪੀਂਦੇ ਹੋਏ।
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = { -brand-name-mozilla } ਮੁਲਾਜ਼ਮ ਮਿਲ ਕੇ ਕੰਮ ਕਰਦੇ ਹੋ।
+m24-about-join-us-and = ਸਾਡਾ ਹਿੱਸਾ ਲਵੋ ਅਤੇ ਫ਼ਰਕ ਲਿਆਓ
+m24-about-see-open-positions = ਉਪਲੱਬਧ ਨੌਕਰੀਆਂ ਵੇਖੋ
 
 ## Community
 
+m24-about-community-love-v2 = ਕਮਿਊਨਟੀ ਦਾ ਪਿਆਰ, ਸਾਡਾ ਹੌਂਸਲਾ ਹੈ
+# Obsolete string (expires: 2025-02-03)
+m24-about-community-love = ਕਮਿਊਨਟੀ ਦਾ ਪਿਆਰ —<br> ਸਾਡਾ ਹੌਂਸਲਾ ਹੈ
