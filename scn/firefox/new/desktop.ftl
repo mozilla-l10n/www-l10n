@@ -20,6 +20,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navicaturi chi pruteggi soccu è mpurtanti
+# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-no-shady = Senza pulìtichi di privatizza trùbbuli o lassapassari pi cu' fa pubblicità. Sulu un navicaturi lestu comu na sajitta chi nun ti vinni a nuḍḍu.
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

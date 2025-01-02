@@ -14,7 +14,10 @@ m24-about-reclaim-the-internet = Pigghiàmuni a riti, nzèmmula
 
 ## Manifesto
 
+m24-about-together-we-can = Nzèmmula putemu mantèniri a riti fàcili, sicura e a francu — pi tutti.
 m24-about-read-our-manifesto = Leggi u nostru manifestu
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Un gruppu di cristiani assittati 'n terra a cìrculu, chi si scàncianu pinzati.
 m24-about-advocate = Attivìsimu
 m24-about-we-advocate-for = Ammuttamu p'aviri prudutti megghiu, facènnuci pigghiari ê guverni e i mprisi a rispunzabbilità di chiḍḍu chi crìanu.
 m24-about-research = Ricerca

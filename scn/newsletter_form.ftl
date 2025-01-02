@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Pi favuri metti nu nnirizzu di posta elittrònica vàlitu.
 newsletter-form-you-must-agree-to = Hâ èssiri d'accordu cu l'abbisu di privatizza
 newsletter-form-your-email-address = U to nnirizzu di posta elittrònica
+newsletter-form-we-are-sorry-but-there = Ni dispiaci, cci fu un prubblema cû nostru sistema. Pi favuri torna a prova cchiù tardu.
 newsletter-form-please-select-country = Pi favuri scarta un pajisi o na riggiuni
 newsletter-form-please-select-language = Pi favuri scarta na lingua
 # Only localize "yourname". Do not change "@example.com".
@@ -18,6 +19,8 @@ newsletter-form-sign-up-to-receive = Scrìviti pi ricìviri ogni misi attualizzi
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Mi sta bonu chi { -brand-name-mozilla } manija i me dati, comu schicatu nni <a href="{ $url }">stu abbisu di privatizza</a>
+newsletter-form-we-will-only-send-v2 = Ti mannamu sulu nfurmazzioni ncapu a { -brand-name-mozilla }. Ti po' scancillari quannu voi.
+newsletter-form-we-will-only-send-firefox-v2 = Ti mannamu sulu nfurmazzioni ncapu a { -brand-name-firefox }. Ti po' scancillari quannu voi.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> e tu
 newsletter-form-get-firefox-tips = Ricivi suggirimenti, trucchi, nutizzi e autru ncapu a { -brand-name-firefox }
 newsletter-form-keep-up-with = Mantèniti 'n cuntattu<br>chî nuvità ncapu a { -brand-name-firefox }.

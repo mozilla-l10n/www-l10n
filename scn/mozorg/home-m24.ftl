@@ -90,6 +90,9 @@ m24-home-topic-ps = Privatizza e sicurizza
 ## Showcase
 
 m24-home-rise25-awards = Premi { -brand-name-rise25 }
+m24-home-watch-the-award = Talìa a cirimonia di primiazzioni
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Un vincituri rigugghiusu di ricìviri u premiu ô { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Un rilaturi chi ridi ô { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
