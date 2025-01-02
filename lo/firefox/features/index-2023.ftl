@@ -5,7 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-index-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-index-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
+features-index-firefox-browser-sync = { -brand-name-firefox } ການຊິງຄ໌ຂອງຕົວທ່ອງເວັບ
 features-index-bookmark-manager = ໂຕຈັດການບຸກມາກ
 features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
 features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
