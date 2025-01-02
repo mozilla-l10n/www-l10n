@@ -18,7 +18,7 @@ firefox-enterprise-unmatched-data-protection = Cewch ddiogelwch data heb ei ail 
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = Mae porwr { -brand-name-firefox } yn raglen cod agored ac yn darparu Diogelu Tracio Uwch - y cyfan yn rhan o'n hymrwymiad tymor hir i ddiogelu data.
 firefox-enterprise-your-data-stays-your-business = Mae eich data'n aros o fewn eich busnes
-firefox-enterprise-deploy-when-and-how-you-want = Darparu bryd a sut bynnag sy'n addas i chi
+firefox-enterprise-deploy-when-and-how-you-want = Darparu pryd a sut bynnag sy'n addas i chi
 firefox-enterprise-with-install-packages-and = Gyda phecynnau gosod a dewis eang o bolisïau a nodweddion grŵp, mae'r ddarpariaeth yn gynt ac yn fwy hyblyg nag erioed - mae'n arbennig o rwydd mewn amgylcheddau { -brand-name-windows } a { -brand-name-mac }.
 firefox-enterprise-choose-your-release-cadence = Dewis eich llwybr ryddhau
 firefox-enterprise-get-rapid-releases-to-make = Cael y llwybr ryddhau cyflym er mwyn cael y nodweddion diweddaraf yn gynt, neu lwybr estynedig i sicrhau profiad mwy sefydlog.
