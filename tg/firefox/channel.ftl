@@ -12,6 +12,7 @@ firefox-channel-take-a-browse-on-the-wild-side = Ояндаи браузерер
 firefox-channel-see-something-that-isnt-working = Чизеро мебинед, ки кор намекунад? Ба мо хабар диҳед.
 firefox-channel-file-a-bug-now = Гузориши фаврӣ дар бораи хато
 firefox-channel-tips-for-filing-a-bug = Маслиҳатҳо барои таҳия кардани гузориш дар бораи хатоҳо
+firefox-channel-try-new-features-in-a-pre = Хусусиятҳои навро дар версияи пешакии браузер барои «{ -brand-name-android }» озмоед | «{ -brand-name-firefox }»
 firefox-channel-all-languages-and-platforms = Ҳамаи забонҳо ва платформаҳо
 firefox-channel-all-languages-and-builds = Ҳамаи забонҳо ва сохтҳо
 firefox-channel-firefox-beta-automatically = Браузери «{ -brand-name-firefox-beta }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
