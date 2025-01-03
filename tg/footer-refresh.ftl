@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Беҳтарин маслиҳатҳо, ҳилаҳо ва навсозиҳои «{ -brand-name-firefox }»-ро қабул кунед. Мо ваъда медиҳем, ки нишонии почтаи электронии шуморо махфӣ ва ба таври бехатар нигоҳ медорем — танҳо хабарҳои беҳтарин аз «{ -brand-name-firefox }» мустақиман ба паёмдони шумо фиристода мешаванд.
 footer-refresh-leadership = Роҳнамоӣ
 footer-refresh-advertise = Таблиғ тавассути «{ -brand-name-mozilla }»
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
@@ -39,4 +38,7 @@ footer-refresh-websites-cookies = Кукиҳо
 footer-refresh-websites-legal = Маълумоти ҳуқуқӣ
 footer-refresh-community-participation-guidelines = Роҳнамо барои иштирок дар ҷамъияти мо
 footer-refresh-about-this-site = Дар бораи ин сомона
+footer-refresh-all-languages = Ҳамаи забонҳо
 footer-refresh-language = Забон
+footer-refresh-primary-nav-aria-label = Поварақи асосӣ
+footer-refresh-secondary-nav-aria-label = Поварақи иловагӣ

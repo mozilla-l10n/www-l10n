@@ -21,5 +21,7 @@ ui-show-all = Ҳамаро намоиш додан
 ui-hide-all = Ҳамаро пинҳон кардан
 ui-learn-more = Маълумоти бештар
 ui-view = Намоиш
+ui-pause-animation = Таваққуф кардани аниматсия
+ui-play-animation = Пахш кардани аниматсия
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Пешрафт

@@ -17,10 +17,13 @@ m24-about-read-our-manifesto = Санадҳои асосии моро мутол
 m24-about-research = Тадқиқот
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Мониторинг
+m24-about-build = Офариниш
+m24-about-fund = Сармоягузорӣ
 
 ## News
 
 m24-about-read-more = Бештар хондан
+m24-about-read-the-latest = Хабарҳо ва мақолаҳои охиринро дар бораи «{ -brand-name-mozilla }-р хонед
 # Used as an accessible text alternative for an image
 m24-about-chicago = Соҳибкор аз донишгоҳи шаҳри Чикаго.
 
