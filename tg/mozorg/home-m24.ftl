@@ -19,6 +19,7 @@ m24-home-learn-about-us = Маълумот дар бораи мо
 ## Products
 
 m24-home-love-the-internet = Боз Интернетро дӯст доред
+m24-home-explore-our-products = Бо маҳсулоти мо шинос шавед
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
@@ -29,6 +30,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Ба ташкилоти ғайритиҷоратии «{ -brand-name-mozilla }» саҳм гузоред
 m24-home-donate = Кумак кунед
 
 ## AI gallery
@@ -39,6 +41,7 @@ m24-home-tag-program = Барнома
 m24-home-tag-event = Рӯйдод
 m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
+m24-home-join-the-movement = Ба ҷомеаи мо ҳамроҳ шавед:<br> Зеҳни сунъӣ (AI) барои мардум
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Ангораи «{ -brand-name-llamafile }».
 m24-home-llamafile = { -brand-name-llamafile }
