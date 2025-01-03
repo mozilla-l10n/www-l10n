@@ -19,8 +19,14 @@ navigation-refresh-innovation-projects-v2 = Лоиҳаҳои инноватси�
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Рисолати мо
 navigation-refresh-our-work = Фаъолияти мо
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = Зеҳни сунъии «{ -brand-name-mozilla } AI»
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = Корхонаҳои «{ -brand-name-mozilla }»
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Рекламаи «{ -brand-name-mozilla }»
 
 ## Firefox
