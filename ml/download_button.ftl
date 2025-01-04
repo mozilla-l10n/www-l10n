@@ -46,8 +46,17 @@ download-button-download = ഇറക്കിവയ്ക്കൂ
 download-button-unsupported-platform = { $os_version }-ലും താഴെയിലും { $channel_name } <a href="{ $help_url }">ഇനി പിന്തുണയ്ക്കില്ല.</a>
 download-button-please-download-esr = { -brand-name-firefox } ഉപയോഗിക്കാൻ വേണ്ടി ദയവായി { -brand-name-firefox-esr } (ദീൎഘക്കാലപ്പിന്തുണപതിപ്പു് ) ഇറക്കിവയ്ക്കുക
 download-firefox-esr = { -brand-name-firefox-esr } ഇറക്കിവയ്ക്കുക
+download-firefox-esr-32 = { -brand-name-firefox-esr } 32-മാത്ര ഇറക്കിവയ്ക്കുക
+download-firefox-esr-64 = { -brand-name-firefox-esr } 64-മാത്ര ഇറക്കിവയ്ക്കുക
+download-a-different-build = വേറെയൊരു നിർമ്മിതരൂപത്തെ ഇറക്കിവയ്ക്കുക
 
 ## Linux
 
+download-button-linux-32-v2 = ലിനുക്സു് 32-മാത്രക്കായി ഇറക്കിവയ്ക്കുക
+download-button-linux-64-v2 = ലിനുക്സു് 64-മാത്രക്കായി ഇറക്കിവയ്ക്കുക
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = ഡെപിയനോ ഉപുന്തുയോ അല്ലെങ്കിൽ ഏതെങ്കിലും ഡെപിയൻ അധിഷ്ഠിത വിതരണം ഉപയോഗിക്കുന്നുണ്ടോ?<br> താങ്ങൾക്കു് പകരം ഞങ്ങളുടെ <a { $attrs }>APT ഭണ്ടാരം സജ്ജമാക്കാം.</a>
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = മൈക്രോസോഫ്റ്റിൽ നിന്നു് അതു് നേടുക
