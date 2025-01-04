@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-let-firefox-do-the-rest = Бигзор «{ -brand-name-firefox }» боқимондаро иҷро кунад.
 switch-switch-to-firefox = Гузариш ба «{ -brand-name-firefox }»
 switch-still-not-convinced = Шумо то ҳол боварӣ надоред, ки гузариш ба истифодаи браузери  «{ -brand-name-firefox }» осон аст?
 switch-download-and-switch = Боргирӣ кунед ва гузаред

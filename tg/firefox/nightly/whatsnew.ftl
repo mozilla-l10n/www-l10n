@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/80.0a1/whatsnew/
 
+# Variables:
+#   $version (number) - Firefox Nightly release major version number
+nightly-whatsnew-youve-just-been = Шумо ҳоло браузери худро ба версияи «{ -brand-name-firefox-nightly } { $version } » такмил додаед!
 nightly-whatsnew-your-firefox-nightly = Браузери «{ -brand-name-firefox-nightly }»-и шумо навсозӣ карда шуд.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-go-community = Ҷамъият ба пеш!
