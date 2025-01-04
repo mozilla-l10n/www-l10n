@@ -14,3 +14,6 @@ features-private-browsing-what-does-private-browsing-do = Реҷаи «Тамо�
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Равзанаи браузери «{ -brand-name-firefox }» дар реҷаи «Тамошобинии хусусӣ».
 features-private-browsing-what-private-browsing-doesnt-do = Корҳое, ки реҷаи «Тамошобинии хусусӣ» намекунад
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Тамошобинии хусусии «{ -brand-name-firefox }»-ро бо <a href="{ $chrome }">Реҷаи пинҳонии «Chrome»</a> муқоиса кунед.
