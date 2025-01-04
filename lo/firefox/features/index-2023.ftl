@@ -9,6 +9,7 @@ features-index-is-firefox-a-private-browser = { -brand-name-firefox } ເປັ�
 features-index-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
 features-index-firefox-browser-sync = { -brand-name-firefox } ການຊິງຄ໌ຂອງຕົວທ່ອງເວັບ
 features-index-bookmark-manager = ໂຕຈັດການບຸກມາກ
+features-index-eyedropper-tool = Eyedropper tool
 features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
 features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
 features-index-ad-tracker-blocking = ປ້ອງກັນການຕິດຕາມຈາກໂຄສະນາ
