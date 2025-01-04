@@ -14,10 +14,10 @@ download-button-systems-languages = വ്യവസ്ഥകളും ഭാഷ�
 download-button-recommended = ശുപാർശ ചെയ്തത്
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">വിൻഡോസ് { -brand-name-xp } അല്ലെങ്കിൽ { -brand-name-vista } ൽ ഫയർഫോക്സിനായി മോസില്ല ഇനി സുരക്ഷ അപ്ഡേറ്റുകൾ നൽകില്ല</a>, എങ്കിലും നിങ്ങൾക്ക് ഇപ്പോഴും അവസാന വിൻഡോസ് 32-ബിറ്റ് പതിപ്പ് താഴെ നിന്നും ഡൌൺലോഡ് ചെയ്യാം.
+download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-windows } { -brand-name-xp } അല്ലെങ്കിൽ { -brand-name-vista } ൽ { -brand-name-firefox }-നായി { -brand-name-mozilla } ഇനി സുരക്ഷ പുതുക്കലുകൾ നൽകില്ല</a>, എങ്കിലും താങ്ങൾക്കു് ഇപ്പോഴും അവസാന { -brand-name-windows } 32-ബിറ്റ് പതിപ്പ് താഴെ നിന്നും ഇറക്കിവയ്ക്കാം.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന് ദയവായി <a href="{ $url }">ഈ നിര്‍ദ്ദേശങ്ങള്‍</a> പിന്‍തുടരുക.
+download-button-please-follow-these = { -brand-name-firefox } സ്ഥാപിക്കുന്നതിനു് ദയവായി <a href="{ $url }">ഈ നിര്‍ദ്ദേശങ്ങള്‍</a> പിന്‍തുടരുക.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = { -brand-name-firefox } പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നതിനു് മതിയായ <a href="{ $url }">ആവശ്യതകള്‍</a> താങ്ങളുടെ വ്യവസ്ഥയിൽ തല്ക്കാലം ഇല്ല.
@@ -37,7 +37,17 @@ download-button-firefox-nightly-android = { -brand-name-android }-നുള്�
 download-button-firefox-android = { -brand-name-android }-നുള്ള  <span>{ -brand-name-firefox }</span>
 download-button-firefox-ios = { -brand-name-ios } നുള്ള <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } സ്വകാര്യത
-download-button-download = ഡൗണ്‍ലോഡ്
+download-button-firefox-privacy-notice = { -brand-name-firefox } സ്വകാര്യത അറിയിപ്പു്
+download-button-download = ഇറക്കിവയ്ക്കൂ
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $os_version }-ലും താഴെയിലും { $channel_name } <a href="{ $help_url }">ഇനി പിന്തുണയ്ക്കില്ല.</a>
+download-button-please-download-esr = { -brand-name-firefox } ഉപയോഗിക്കാൻ വേണ്ടി ദയവായി { -brand-name-firefox-esr } (ദീൎഘക്കാലപ്പിന്തുണപതിപ്പു് ) ഇറക്കിവയ്ക്കുക
+download-firefox-esr = { -brand-name-firefox-esr } ഇറക്കിവയ്ക്കുക
 
 ## Linux
 
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = മൈക്രോസോഫ്റ്റിൽ നിന്നു് അതു് നേടുക
