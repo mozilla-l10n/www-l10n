@@ -7,4 +7,5 @@
 
 # HTML page title
 password-manager-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
+password-manager-import-passwords = ນຳເຂົ້າລະຫັດຜ່ານ
 password-manager-no-more-reusing-your-passwords = ບໍ່ຕ້ອງໃຊ້ລະຫັດຜ່ານຂອງທ່ານຄືນໃໝ່
