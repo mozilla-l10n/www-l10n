@@ -11,3 +11,4 @@ set-as-default-landing-make-firefox-your-default = Браузери «{ -brand-n
 set-as-default-landing-choose-the-browser = Браузереро интихоб кунед, ки махфияти шуморо муҳофизат мекунад. Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарз таъин кунед.
 set-as-default-landing-choose-automatic-privacy = Махфияти худкорро интихоб намоед
 set-as-default-landing-choose-freedom-on-every = Дар ҳар як дастгоҳ озодиро интихоб намоед
+set-as-default-landing-choose-corporate-independence = Истиқлоли худро интихоб карда, аз ширкатҳои бузург ҳифз намоед
