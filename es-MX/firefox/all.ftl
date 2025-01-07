@@ -5,27 +5,34 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Revisar los requisitos del sistema
-firefox-all-release-notes = Informe de novedades
-firefox-all-source-code = Código fuente
-firefox-all-need-help = ¿Necesitas ayuda?
-firefox-all-which-browser-would = ¿Cuál navegador quieres descargar?
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Descarga { -brand-name-firefox } en Español (MX) y en más de 90 idiomas
+# Variables:
+#   $product_label (string) e.g. Firefox, Firefox Nightly
+firefox-all-qrcode = Escanea el código QR para obtener <em>{ $product_name }</em>
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obtener ayuda
-firefox-all-you-are-about-to-download = Estás a punto de descargar:
-firefox-all-browser = Navegador:
-firefox-all-platform = Plataforma:
-firefox-all-language = Idioma:
+firefox-all-browser-v2 = 1. Navegador:
+firefox-all-platform-v2 = 2. Plataforma:
+firefox-all-language-v2 = 3. Idioma:
+firefox-all-download = 4. Descargar:
+firefox-all-desktop = Escritorio
+firefox-all-recommended = (Recomendado)
 firefox-all-lang-multi = Varios idiomas
+firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Lo sentimos, no hemos encontrado la descarga que buscas. Vuelve a intentarlo o selecciona una descarga de la lista.
 firefox-all-the-pre-alpha-version = La versión pre-alfa está destinada a usuarios avanzados que desean informar de fallos y probar las últimas funciones tan pronto como se desarrollen.
 firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Elige un instalador de 64 bits para computadoras con procesadores de 64 bits. Estos permiten asignar más RAM a cada programa, lo que es crucial para juegos y otras aplicaciones exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Descarga el navegador { -brand-name-firefox-browser } en español mexicano y en más de 90 idiomas.
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Todo el mundo merece tener acceso a Internet, y tu idioma nunca debería ser una barrera. Por eso, con la ayuda de voluntarios de todo el mundo, el navegador { -brand-name-firefox-browser } está disponible en más de 90 idiomas.
+firefox-all-microsoft-store-installers = Microsoft Store
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descargar { $esr_version }
+firefox-all-check-the-system-requirements = Revisar los requisitos del sistema
+firefox-all-release-notes = Informe de novedades
+firefox-all-source-code = Código fuente
+firefox-all-need-help = ¿Necesitas ayuda?
 firefox-all-choose-which-firefox = Elige qué navegador { -brand-name-firefox-browser } quieres descargar en tu idioma
 firefox-all-firefox-privacy-notice = Aviso de privacidad de { -brand-name-firefox }
 firefox-all-learn-about-firefox = Información sobre los navegadores { -brand-name-firefox }
@@ -35,7 +42,6 @@ firefox-all-test-your-sites-against = Pon a prueba tus sitios web con las nuevas
 firefox-all-count-on-stability-and = Disfruta de la estabilidad y la facilidad de uso de este navegador { -brand-name-firefox }, creado para la empresa.
 firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, la implantación y la gestión del navegador { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
-firefox-all-arm64-installers-optimized = Instaladores ARM64/AArch64 optimizados para PCs { -brand-name-windows } con Snapdragon.
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
