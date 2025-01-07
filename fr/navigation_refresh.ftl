@@ -4,6 +4,7 @@
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
 
+
 ## About us
 
 navigation-refresh-about-us = À propos de nous
