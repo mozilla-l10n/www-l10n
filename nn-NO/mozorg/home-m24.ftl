@@ -8,9 +8,12 @@
 
 ## Intro
 
+m24-home-learn-about-us = Les meir om oss
 
 ## Products
 
+m24-home-explore-our-products = Utforsk produkta våre
+m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
@@ -43,6 +46,10 @@ m24-home-topic = Emne
 m24-home-intro = Introduksjon
 m24-home-tag-article = Artikkel
 m24-home-tag-podcast = Podkast
+m24-home-tag-video = Video
+m24-home-topic-news = Nyheiter
+m24-home-topic-ai = Kunstig intelligens
+m24-home-topic-ps = Personvern og sikkerheit
 
 ## Showcase
 
