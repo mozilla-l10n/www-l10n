@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = सामुदायिक 
 footer-refresh-about-this-site = इस साइट के बारे में
 footer-refresh-all-languages = सभी भाषाएं
 footer-refresh-language = भाषा
-footer-refresh-primary-nav-aria-label = फ़ुटर पहला
-footer-refresh-secondary-nav-aria-label = फ़ुटर दूसरा

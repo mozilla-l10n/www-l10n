@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Directives relatives à la p
 footer-refresh-about-this-site = À propos de ce site
 footer-refresh-all-languages = Toutes les langues
 footer-refresh-language = Langue
-footer-refresh-primary-nav-aria-label = Pied de page principal
-footer-refresh-secondary-nav-aria-label = Pied de page secondaire

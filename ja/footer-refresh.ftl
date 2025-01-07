@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = コミュニティ参加ガ�
 footer-refresh-about-this-site = このサイトについて
 footer-refresh-all-languages = すべての言語
 footer-refresh-language = 言語
-footer-refresh-primary-nav-aria-label = フッタープライマリ
-footer-refresh-secondary-nav-aria-label = フッターセカンダリ

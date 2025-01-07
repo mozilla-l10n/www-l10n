@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = التعليمات التو�
 footer-refresh-about-this-site = نبذة عن هذا الموقع
 footer-refresh-all-languages = كل اللغات
 footer-refresh-language = اللغة
-footer-refresh-primary-nav-aria-label = التذييل الرئيسي
-footer-refresh-secondary-nav-aria-label = التذييل الثانوي

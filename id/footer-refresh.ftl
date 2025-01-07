@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Panduan Partisipasi Komunita
 footer-refresh-about-this-site = Tentang situs ini
 footer-refresh-all-languages = Semua bahasa
 footer-refresh-language = Bahasa
-footer-refresh-primary-nav-aria-label = Footer utama
-footer-refresh-secondary-nav-aria-label = Footer tambahan
