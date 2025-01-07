@@ -86,6 +86,7 @@ m24-home-alt-rise25-proud = Gjardy nosaŕ myta na { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Sebjewědobny smjejkotajucy se powědaŕ na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
+m24-home-read-the-report = Cytajśo rozpšawu
 
 ## Issues
 
