@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+m24-about-page-title = Les om { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } lagar nettlesarar, appar, kode og verktøy som set menneske over profitt. Oppdraget vårt: Halde nettet ope og tilgjengeleg for alle.
 
 ## Intro
 
