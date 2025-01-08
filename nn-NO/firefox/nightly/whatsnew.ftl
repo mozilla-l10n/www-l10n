@@ -14,18 +14,12 @@ nightly-whatsnew-every-4-to-5-weeks = Ein heilt ny hovudversjon kjem kvar 4. til
 nightly-whatsnew-this-is-a-good = Det høver godt her å takke { -brand-name-nightly }-brukarane som hjelper oss med å forbetre { -brand-name-firefox }, og samstundes minne om dokumentasjon-, kommunikasjonskanalar og nyheitsnettsider dedikerte til { -brand-name-nightly }.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Om du vil vite kva som skjer rundt { -brand-name-nightly } og i fellesskapet, kan du lese <a { $blog }>bloggen</a> vår og følgje oss på <a { $mastodon }>Mastodon</a> eller <a { $twitter }>X</a>!
-# Obsolete string
-# Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-nightly-whatsnew-if-you-want-to-v2 = Om du vill vite kva som hender rundt { -brand-name-nightly }-fellesskapet kan du lese <a href="{ $blog }">bloggen</a> vår og følgje oss på <a href="{ $mastodon }">Mastodon</a> eller <a href="{ $twitter }">Twitter</a> som gode startpunkt!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v2 = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta sedan ein titt på innstillings-sida for <a { $attrs }>Nightly-eksperiment</a>.
+nightly-whatsnew-want-to-know-which-v3 = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta så ein titt på innstillings-sida for { -brand-name-firefox-labs }.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Opplever du krasj? Uventa oppførsel? Nye problem med nettsidekompatibilitet? Det vil vere kjempeflott om du vil vere med på å rapportere dei til <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> slik at dei ikkje kjem med i den endelege utgåva (ekstra karma om du legg til <em>{ -brand-name-nightly }-community</em>-nøkkelord i feilrapportane dine)!
